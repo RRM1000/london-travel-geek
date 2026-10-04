@@ -35,7 +35,7 @@ The single most useful thing to know: **most dim sum halls stop serving around 5
 > 💡 **The Short Version:** **Royal China** on Baker Street is the benchmark and takes no bookings at peak. **A. Wong** is the only two-starred Chinese kitchen in Europe and its lunch is the cheap way in. **Tao Tao Ju** is the refined end of Chinatown. **Dragon Castle** is half the price for the same thing. And **Yauatcha** serves all day.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Service times are the detail that changes most — confirm before travelling.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Service times are the detail that changes most — confirm before travelling.
 
 ## Where they are
 
@@ -131,7 +131,7 @@ It is the cheapest room on this page that anyone would recommend on its merits �
 
 *££ · Gerrard Street*
 
-A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in front of the queue** — Shanghainese soup dumplings rather than Cantonese steamed baskets, and the reason to come rather than a sideline.
+A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in front of the queue** — Shanghainese soup dumplings rather than Cantonese steamed baskets, and the main order.
 
 **££ and quick**, which makes it the sensible choice with children or before a show. Three minutes from Leicester Square.
 
@@ -147,7 +147,7 @@ Northern Chinese street food tidied up for London, in a room done out in **Commu
 
 *££ · Cantonese · walk-in*
 
-Handmade dumplings and roast meats hanging in the window, on the King's Cross Road stretch that has quietly become one of the better places to eat in the area.
+Handmade dumplings and roast meats hanging in the window, on the King's Cross Road stretch that has become one of the better places to eat in the area.
 
 The name is the menu: dim sum, and Cantonese roast duck carved to order. Cheaper and less polished than anything in Chinatown, and better than most of it.
 

@@ -31,7 +31,7 @@ Both are worth your time and they are not competing.
 > 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, because the martini is poured neat from a frozen bottle at your table. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and is the most decorated bar in London. And **Tayēr + Elementary** is two bars in one room.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar holds a world ranking we give the position and the year, because those lists move every autumn. All rankings here are from the World's 50 Best Bars 2025 — the 2026 list is announced in Milan in October 2026, and anything claiming a 2026 ranking before then is not real.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar holds a world ranking we give the position and the year, because those lists move every autumn. All rankings here are from the World's 50 Best Bars 2025 — the 2026 list is announced in Milan in October 2026, and anything claiming a 2026 ranking before then is not real.
 
 ## Where they are
 
@@ -75,9 +75,9 @@ Both are worth your time and they are not competing.
 
 **No.6 in the World's 50 Best Bars 2025** · world No.1 in 2020 and 2021
 
-The **martini is mixed at your table** from a trolley of tinctures — you pick the gin, then choose from bergamot, cardamom, coriander, liquorice and lavender as the bartender works, and the whole thing takes several minutes in front of you. It is £30, and it is the single most polished drink service in London.
+The **martini is mixed at your table** from a trolley of tinctures — you pick the gin, then choose from bergamot, cardamom, coriander, liquorice and lavender as the bartender works, and the whole thing takes several minutes in front of you. It is £30, and it is the most polished drink service in London.
 
-> 💡 **It takes no bookings at all.** Not "walk-ins before eight", not a waitlist — the bar's own policy is stated flatly as no reservations, at any hour, for anyone. For a room that has twice been voted the best bar in the world, that is genuinely unusual, and it means the only strategy is to arrive early. Four o'clock, when it opens, is the answer.
+> 💡 **It takes no bookings at all.** Not "walk-ins before eight", not a waitlist — the bar's own policy is stated flatly as no reservations, at any hour, for anyone. For a room that has twice been voted the best bar in the world, that is unusual, and it means the only strategy is to arrive early. Four o'clock, when it opens, is the answer.
 
 **Monday to Saturday, 4pm to 1am**, with no Sunday service published. At The Connaught, Carlos Place, W1K 2AL — five minutes from Bond Street, through Mount Street. No dress code is published for the bar itself, though the room is jacketed enough that you will feel it if you are not.
 
@@ -229,7 +229,7 @@ Calvados and apple run through the whole menu — a bar with an argument rather 
 
 **Sundays are the day to come.** A "Biblio-Coupette" bartenders' book-club session runs from 4pm with **every drink at £9**, which is the cheapest serious cocktail in east London.
 
-It was **No.18 in the World's 50 Best Bars in 2018 and No.23 in 2019** and is no longer ranked, which is worth stating plainly rather than implying a placing it no longer holds. Bookings by Quandoo, OpenTable, phone or email. 423 Bethnal Green Road, E2 0AN.
+It was **No.18 in the World's 50 Best Bars in 2018 and No.23 in 2019** and is no longer ranked. Bookings by Quandoo, OpenTable, phone or email. 423 Bethnal Green Road, E2 0AN.
 
 ![The corner frontage of Coupette in Bethnal Green](../../assets/articles/best-cocktail-bars-london/coupette.jpg)
 
@@ -261,7 +261,7 @@ The pricing follows the split: **upstairs £9 to £16**, downstairs £12 to £16
 
 A tiny Italian counter bar on Old Compton Street, done as a Roman station bar — an espresso machine at the front, a marble counter, waiter service, and small enough that you should expect to wait.
 
-**The negroni is the reason to come and the reason to be careful.** The house build is £9.50, and there are four of them; everything else on the list starts at **£15.50**. It has a reputation as a cheap bar which only holds if you order the one drink.
+**Order the negroni, and watch the rest of the list.** The house build is £9.50, and there are four of them; everything else on the list starts at **£15.50**. It has a reputation as a cheap bar which only holds if you order the one drink.
 
 **They also sell the negronis bottled to take away** — a range running Superiore, Rosato, Classico, Robusto, Terroir and an Old Fashioned, in 200ml at £16.25 and 700ml from £38.95, with nationwide delivery. That is the bottle programme people half-remember as ageing in the venue.
 
@@ -319,7 +319,7 @@ The Snickers Old Fashioned, Moro Margarita and Rhubarb Negroni are the signature
 
 *Half Cut Market's shopfront on York Way.*
 
-**Be clear what this is before you go: it is a restaurant, wine bar and bottle shop, not a cocktail bar.** Its own description is "a restaurant, wine bar + shop on the York Way Riviera™". It earns a place here on price rather than on the list — the **Half Cut Martini is £10** and a vermouth and soda **£7**, which in London is close to unheard of for drinks made this carefully, and those are last-listed figures rather than something the shop publishes online.
+**Be clear what this is before you go: it is a restaurant, wine bar and bottle shop, not a cocktail bar.** Its own description is "a restaurant, wine bar + shop on the York Way Riviera™". It earns a place here on price rather than on the list — the **Half Cut Martini is £10** and a vermouth and soda **£7**, which in London is close to unheard of for drinks made this carefully, and those are last-listed figures, not something the shop publishes online.
 
 Around eighty low-intervention bottles to drink in or carry out, and a Konro-grilled seasonal menu. **Wine is available to take away any time they are open**, which is the part that makes it useful.
 
@@ -337,11 +337,11 @@ Their site is halfcut.world. Caledonian Road & Barnsbury is the nearest station.
 
 Soho's benchmark low-intervention wine bar, and the cocktail list is short but unusually good. Four drinks: an **olive oil negroni**, a burnt butter old fashioned, a tonka bean espresso martini and a citrus margarita.
 
-**It closes early, and that is the thing to plan around** — 9.30pm on weekdays and Saturdays, 9pm on Sunday. This is a bar for the hour before dinner or instead of it, not for afterwards, which catches people out on a street where everything else runs to midnight.
+**It closes early** — 9.30pm on weekdays and Saturdays, 9pm on Sunday. This is a bar for the hour before dinner or instead of it, not for afterwards, which catches people out on a street where everything else runs to midnight.
 
 **There is a 14-seat back room called the Green Room** and a terrace on Kingly Street itself, which is pedestrianised — the best outdoor drinking on this page. Part of the HAM Restaurants group, with a sibling Crispin in Spitalfields on White's Row.
 
-Worth being clear that wine is the point here and cocktails are the sideline. Booking through OpenTable. 19 Kingly Street, W1B 5PY, in the lane behind Liberty.
+Wine leads here and cocktails are the sideline. Booking through OpenTable. 19 Kingly Street, W1B 5PY, in the lane behind Liberty.
 
 ### Seed Library, Shoreditch
 
@@ -353,7 +353,7 @@ Worth being clear that wine is the point here and cocktails are the sideline. Bo
 
 Ryan Chetiyawardana again — the Lyaness man — in a stripped concrete basement doing **short, low-alcohol drinks** with none of the ceremony of his bigger rooms. No prices are published anywhere on the site.
 
-**The music is the part nobody writes about.** East London vinyl collective **Diggers Dozen** hold a residency every Friday and Saturday, described in-house as jazz-laced disco-funk gems, played on two turntables and a Bozak mixer through a properly specified system. That makes it a listening bar with cocktails as much as the reverse.
+**The music is the part nobody writes about.** East London vinyl collective **Diggers Dozen** hold a residency every Friday and Saturday, described in-house as jazz-laced disco-funk gems, played on two turntables and a Bozak mixer through a system specified for listening. That makes it a listening bar with cocktails as much as the reverse.
 
 **Closed Mondays and Tuesdays**, and open until 2am on Friday and Saturday, which is late for a serious cocktail room. Walk-ins are accommodated; tables up to 15 through SevenRooms. Over-18s only.
 
@@ -395,7 +395,7 @@ Live jazz three sets a night, and the charges nobody mentions until you arrive: 
 
 *Oriole, Covent Garden.*
 
-Live music nightly and a menu genuinely organised by continent — the current Eighth Edition runs sections headed Europe & Africa and onwards, and you order by where a drink comes from. Sibling to Nightjar, with the same approach to theatre and the same charging model: **the musicians are paid directly through a live-music charge**, as at Nightjar.
+Live music nightly and a menu organised by continent — the current Eighth Edition runs sections headed Europe & Africa and onwards, and you order by where a drink comes from. Sibling to Nightjar, with the same approach to theatre and the same charging model: **the musicians are paid directly through a live-music charge**, as at Nightjar.
 
 Drinks run **£14 to £16** — Syracuse £16, Bergerac £14, Kalahari Julep £15 — with 13.5% discretionary service on top. Booking is through SevenRooms, shared with Nightjar Shoreditch.
 
@@ -411,7 +411,7 @@ Drinks run **£14 to £16** — Syracuse £16, Bergerac £14, Kalahari Julep £1
 
 Cocktail bars are where London prices get least transparent — most publish nothing at all. These are the ones where a real figure could be verified, and they are the ones to use.
 
-#### Genuinely cheap drinks
+#### Cheap drinks
 
 * **Little Mercies**, Crouch End — **30% off all drinks, 6–7pm, every day they open.** That takes the £11 Snickers Old Fashioned to about £7.70. The bar trades **Tuesday to Saturday**, so this is five nights, not the seven that gets repeated. Still the best standing offer of any serious bar in London. Takeaway drinks excluded.
 * **Swift**, Soho, Shoreditch and Borough — **named cocktails at £7, Monday to Thursday before 6pm**, printed on the menu against drinks that are otherwise £12–£15.
@@ -434,7 +434,7 @@ The **Connaught Martini is £30**, mixed at your table from the trolley. **Night
 
 *Discount Suit Company, Spitalfields.*
 
-#### Two-for-one, properly checked
+#### Two-for-one, checked
 
 * **Simmons Bar** — **two-for-one on all cocktails, seven days a week**, 4–9pm at most sites and 3–8pm across the West End ones. With a list running £10.50–£12.80, that is around **£5.25 a drink** — the cheapest verified cocktail in central London. Fifteen branches.
 * **The Tommyfield**, Kennington — two-for-one **Monday to Friday, 4.30–6.30pm**, on margaritas, espresso martinis and Aperol spritzes. The list price is £11.50, so about **£5.75** each.

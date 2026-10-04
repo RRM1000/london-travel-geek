@@ -37,7 +37,7 @@ The trade-off is not quality — it is certainty. A £30 ticket buys you a booke
 > 💡 **The Short Version:** **The Comedy Store** is where all of this began and still the benchmark. **Angel Comedy** runs free stand-up seven nights a week across two pubs and is the best value in London. **Top Secret** is the cheap central option where big names drop in unannounced. **Always Be Comedy** in Kennington gets the surprise guests. And the **Comedy Store Players** have been improvising on the same stage since 1985.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Line-ups change weekly and rooms above pubs close without much warning; check before travelling.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Line-ups change weekly and rooms above pubs close without much warning; check before travelling.
 
 ## Where they are
 
@@ -114,7 +114,7 @@ Weekend bills are the main event and book ahead; midweek is cheaper and less pre
 
 ---
 
-## Free, and genuinely good
+## Free, and good
 
 This is the part of London comedy that surprises visitors. These are not open-mic nights in the pejorative sense; they are free rooms with professional acts.
 
@@ -132,7 +132,7 @@ Between three and six consecutive shows run each night, so you can stay for one 
 
 **The Camden Head is at N1 8DY**, on Camden Passage, three minutes from Angel station. It is a pub first: the bar is downstairs, the room is upstairs, and you are expected to buy a drink rather than obliged to.
 
-> ⚠️ **Free does not mean easy to get into.** At weekends, arrive up to **ninety minutes early** to collect a stamp. This is the single most common way people miss out.
+> ⚠️ **Free does not mean easy to get into.** At weekends, arrive up to **ninety minutes early** to collect a stamp. This is the most common way people miss out.
 
 <div data-stay-strip></div>
 
@@ -160,7 +160,7 @@ Free nights running at **Signature Brew in Haggerston, The Railway in Putney, Th
 
 **That spread is the entire reason to know about it.** Every other free night in this guide is in Islington or Hoxton; this one puts a room within reach of south-west and north London too, so there is usually one near wherever you are staying.
 
-**Open-mic means what it says.** Five-minute slots, mostly people starting out, and the quality swings hard from act to act — which is a different evening from Angel Comedy's booked professionals, and worth knowing before you judge it against them.
+**Open-mic means what it says.** Five-minute slots, mostly people starting out, and the quality swings hard from act to act — which is a different evening from Angel Comedy's booked professionals, so do not judge it against them.
 
 **Check the night before travelling.** Four venues on different days is easy to get wrong, and these are pub back rooms whose schedules move.
 
@@ -196,7 +196,7 @@ Widely rated one of the best comedy nights in London, in a Kennington pub back r
 
 **The unannounced guest is the whole model**, and it has a consequence worth understanding: the line-up you book against is not the line-up you get, and the surprise act is never advertised in advance. You are buying the room's booking record rather than a named bill.
 
-**It runs monthly rather than weekly**, which is the thing that catches people out — this is not a night you can drop into on a whim, and dates go on sale in advance and sell.
+**It runs monthly rather than weekly**, so this is not a night you can drop into on a whim, and dates go on sale in advance and sell.
 
 Kennington and Oval stations are each about five minutes, and there is nothing else comedic within walking distance, so it is a destination trip.
 
@@ -206,7 +206,7 @@ Kennington and Oval stations are each about five minutes, and there is nothing e
 
 **Around four pounds** for a bill mixing up-and-coming acts with comedians you will recognise from television — the cheapest good comedy in central London, in the back room of a King's Cross pub.
 
-**The pub is genuinely good in its own right**, so arriving early for a seat is no hardship: open every day noon to 11pm, food until 9.30pm, **pints at £5**, and 10% off food between noon and 4pm on weekdays with 20% for students.
+**The pub is good in its own right**, so arriving early for a seat is no hardship: open every day noon to 11pm, food until 9.30pm, **pints at £5**, and 10% off food between noon and 4pm on weekdays with 20% for students.
 
 ![The ground-floor bar at The Harrison, with mismatched wooden chairs and a door signed The Harrison Basement Venue](../../assets/articles/best-comedy-clubs-london/the-harrison-kings-cross-room.jpg)
 
@@ -224,7 +224,7 @@ Some of the biggest names in British stand-up alongside newcomers, in a New Cros
 
 **The name is the schedule.** It runs on Mondays, which is the night working comedians are free and the night big names use to try things out, and it is why the bills are so much better than the price suggests.
 
-**A Monday in New Cross is a specific commitment**, and that is the honest catch: it is a twenty-minute train from London Bridge, at the start of the week, in a part of London most visitors never reach.
+**A Monday in New Cross is a specific commitment**: it is a twenty-minute train from London Bridge, at the start of the week, in a part of London most visitors never reach.
 
 New Cross and New Cross Gate stations are both close, and the Overground runs late enough to get back.
 
@@ -254,15 +254,15 @@ Big names and hot new acts in the **glittery ex-servicemen's club** that is one 
 
 *££ · around 275 · Thu–Sun*
 
-Founded in **1991 by Malcolm Hardee** in an old church hall, and still the most gleefully hostile room in London — **the heckling is part of the format** rather than an interruption of it, and comedians either handle it or are eaten. It won the **first ever Chortle Award for Best Large Venue** in 2002.
+Founded in **1991 by Malcolm Hardee** in an old church hall, and still the most gleefully hostile room in London — **the heckling is part of the format**, and comedians either handle it or are eaten. It won the **first ever Chortle Award for Best Large Venue** in 2002.
 
 ![The purple, gothic-arched former church hall frontage of Up the Creek, with painted comedy banners and an awning reading "Disco Party Nites" and "Hilariously Funny Live Comedy"](../../assets/articles/best-comedy-clubs-london/up-the-creek-exterior.jpg)
 
 Not the room for a nervous first-timer, and exactly the room if you want to see what stand-up is actually like without a net.
 
-**Doors open an hour or more before the show** and their own advice is to arrive early for the best seats — this is unreserved seating in a room that fills, and where you sit matters more here than anywhere else in this guide, because the front rows are part of the act.
+**Doors open an hour or more before the show** and their own advice is to arrive early for the best seats — this is unreserved seating in a room that fills, and where you sit makes a bigger difference here than anywhere else in this guide, because the front rows are part of the act.
 
-Typical timings are **doors 7pm for an 8pm start**, with earlier 7.30pm shows on some nights and a later 8.45pm on others, so check the specific date rather than assuming.
+Typical timings are **doors 7pm for an 8pm start**, with earlier 7.30pm shows on some nights and a later 8.45pm on others, so check the specific date.
 
 **SE10 9SW on Creek Road**, five minutes from Cutty Sark DLR and ten from Greenwich — easy to combine with an afternoon in Greenwich rather than a trip on its own.
 
@@ -274,7 +274,7 @@ Typical timings are **doors 7pm for an 8pm start**, with earlier 7.30pm shows on
 
 Opened in **June 2017** and now one of the industry's favourite rooms for previews and works-in-progress — the place comedians take a show that is not finished yet. A hundred seats, **step-free from the street**, and two minutes from King's Cross St Pancras.
 
-**Work-in-progress is the whole proposition, and it cuts both ways.** Tickets are cheap and you are watching people you would pay four times as much to see finished — but shows are unpolished by design, run from notes, and sometimes stop and restart. That is the deal, and it is stated up front rather than hidden.
+**Work-in-progress is the whole proposition, and it cuts both ways.** Tickets are cheap and you are watching people you would pay four times as much to see finished — but shows are unpolished by design, run from notes, and sometimes stop and restart. That is the deal, and it is stated up front.
 
 **The step-free access is worth flagging** because almost every other room in this guide is a pub cellar or an upstairs function room. This is the accessible option in central London comedy.
 
@@ -314,11 +314,11 @@ A consistent programme of touring acts, previews and new-material nights in a sm
 
 *££ · central*
 
-A long-running central club that trades on convenience and a reliable weekend bill. Not the most adventurous room in London, and that is rather the point — it is the one you book when the evening has to work rather than surprise you.
+A long-running central club that trades on convenience and a reliable weekend bill. Not the most adventurous room in London — it is the one you book when the evening has to work rather than surprise you.
 
 **It is at WC2N 6NG**, in the streets between Covent Garden and Charing Cross, which puts it within five minutes of most West End theatres.
 
-**That proximity is the reason to choose it.** A 6pm or late show either side of a theatre booking is genuinely practical here in a way it is not from Kennington or New Cross.
+**That proximity is its advantage.** A 6pm or late show either side of a theatre booking is practical here in a way it is not from Kennington or New Cross.
 
 Charing Cross, Leicester Square and Covent Garden stations are each about four minutes, and the last trains from Charing Cross run later than the Tube.
 
@@ -343,15 +343,15 @@ In a **brick vaulted cellar** near Waterloo, and the room is a large part of the
 
 ## Where the names play
 
-Everything above is a club — a bill of several acts, most of whom you will not have heard of, which is the point of a club. If you want to see one specific comedian do one show, you are looking for a different kind of building, and none of the venues below is a comedy venue at all. They are theatres, churches and an arena that happen to book the biggest touring names.
+Everything above is a club — a bill of several acts, most of whom you will not have heard of, which is how a club works. If you want to see one specific comedian do one show, you are looking for a different kind of building, and none of the venues below is a comedy venue at all. They are theatres, churches and an arena that happen to book the biggest touring names.
 
-| Venue | Where | What it books | Worth knowing |
+| Venue | Where | What it books | Notes |
 | --- | --- | --- | --- |
 | **Eventim Apollo** | 45 Queen Caroline Street, Hammersmith W6 9QH | The largest touring stand-up shows short of an arena | Bills itself as live music, comedy and theatre in equal measure. Seated for comedy, which the standing music layout is not |
 | **Leicester Square Theatre** | 6 Leicester Place WC2H 7BX | Long runs and work-in-progress shows by names you know | The most central of these by a distance. **Card only — it stopped taking cash**, and there is no cloakroom |
 | **Museum of Comedy** | The Undercroft, St George's Church, Bloomsbury Way WC1A 2SR | Nightly shows, plus an actual museum of British comedy | Under a Hawksmoor church, and run by the same people as Leicester Square Theatre. The only venue here that is a museum by day and a club by night |
 | **Bloomsbury Theatre** | 15 Gordon Street WC1H 0AH | Touring stand-up and student comedy on the same stage | UCL's theatre, so the programme swings from a household name to a first-ever gig |
-| **Union Chapel** | Compton Terrace, Islington N1 2UN | Comedy in a working Victorian church | The room is the draw. Pews, no bar in the auditorium, and remarkable acoustics |
+| **Union Chapel** | Compton Terrace, Islington N1 2UN | Comedy in a working Victorian church | You go for the room itself. Pews, no bar in the auditorium, and remarkable acoustics |
 | **Clapham Grand** | 21–25 St John's Hill, Battersea SW11 1TT | Comedy alongside club nights, cabaret and drag | A restored 1900 variety theatre by Clapham Junction, and the only one on this list where the comedy shares a programme with a club night |
 | **Hackney Empire** | 291 Mare Street, Hackney E8 1EJ | Touring comedy in a 1901 Frank Matcham theatre | The building Charlie Chaplin and Stan Laurel played. Comedy is a listed category in its own programme |
 | **The O2** | Greenwich Peninsula | Arena stand-up only — the very few comedians who can fill it | Book the lower tiers. Comedy is a talking-head artform and the upper bowl is a long way from a face |
@@ -360,13 +360,13 @@ Everything above is a club — a bill of several acts, most of whom you will not
 
 **Soho Theatre is the one that straddles both categories**, which is why it appears in the club list above rather than this one. It books full solo hours by touring names the way a theatre does, at prices closer to a club.
 
-> 💡 **The practical difference.** Clubs are decided on the night and cost between nothing and £30. These venues go on sale months ahead and sell out, and a returns queue is not a reliable plan. If a specific comedian is the reason you are going out, buy the ticket the week it is announced.
+> 💡 **The practical difference.** Clubs are decided on the night and cost between nothing and £30. These venues go on sale months ahead and sell out, and a returns queue is not a reliable plan. If you are going out to see one specific comedian, buy the ticket the week it is announced.
 
 ---
 
 ## Comedy festivals
 
-London's comedy festivals are almost entirely a **July and August** phenomenon. All four below run inside a six-week window, and outside it the city has no comedy festival at all — which is the single most useful thing to know about them, because it means the answer to "what's on" in February is always the clubs.
+London's comedy festivals are almost entirely a **July and August** phenomenon. All four below run inside a six-week window, and outside it the city has no comedy festival at all, so the answer to "what's on" in February is always the clubs.
 
 | Festival | 2026 dates | Where | What it is |
 | --- | --- | --- | --- |

@@ -35,7 +35,7 @@ This guide covers both: the ones you have heard of, and the ones worth crossing 
 > 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does, and both deserve it. **Sir John Soane's Museum** is a house left exactly as its owner had it in 1837, and free. **The Wellcome Collection** is the strangest free thing in London. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Visitor figures are ALVA's audited numbers for 2025. Admission prices are the museums' own and were checked in August 2026 — special exhibitions inside free museums are almost always ticketed separately.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Visitor figures are ALVA's audited numbers for 2025. Admission prices are the museums' own and were checked in August 2026 — special exhibitions inside free museums are almost always ticketed separately.
 
 ## Where they are
 
@@ -65,7 +65,7 @@ This guide covers both: the ones you have heard of, and the ones worth crossing 
 
 The Rosetta Stone, the Parthenon sculptures and the Sutton Hoo helmet, under Foster's glass-roofed Great Court — a covered square that was an open courtyard hidden from the public for 150 years until it opened in 2000.
 
-Eight million objects, of which perhaps one percent is on display, and it is **impossible to do properly in one visit**. Pick two galleries and accept it: Egypt and Assyria on the ground floor if it is your first time, the Enlightenment Gallery if it is not.
+Eight million objects, of which perhaps one percent is on display, and it is **impossible to cover in one visit**. Pick two galleries and accept it: Egypt and Assyria on the ground floor if it is your first time, the Enlightenment Gallery if it is not.
 
 **Use the Montague Place entrance at the back.** The main Great Russell Street entrance queues around the forecourt from mid-morning; the north entrance is usually straight in, and puts you nearer the quieter upper galleries.
 
@@ -73,7 +73,7 @@ Eight million objects, of which perhaps one percent is on display, and it is **i
 
 *Free · the UK's most visited attraction*
 
-Over **7 million visits in 2025**, an all-time record for a British museum — and the Waterhouse building is as much of the draw as the collection, a Romanesque cathedral of terracotta with carved animals worked into every column and arch.
+Over **7 million visits in 2025**, an all-time record for a British museum — and the Waterhouse building is as much a sight as the collection, a Romanesque cathedral of terracotta with carved animals worked into every column and arch.
 
 Hintze Hall and the blue whale are what people come for, along with the dinosaur gallery and the earthquake simulator in the Red Zone. The **Darwin Centre cocoon**, holding the spirit collection, is the part most visitors walk past.
 
@@ -105,7 +105,7 @@ Anything with a start time rather than an opening time — Royal Institution Dis
 
 The national collection of international modern art inside Giles Gilbert Scott's power station, with the **Turbine Hall** running its full length — a room 155 metres long and 35 metres high, and free to walk into whether or not an installation is in it.
 
-The permanent collection is free and arranged thematically rather than chronologically, which some people find liberating and others infuriating. **Special exhibitions are ticketed** and are usually the reason to plan a visit rather than wander in.
+The permanent collection is free and arranged thematically rather than chronologically, which some people find liberating and others infuriating. **Special exhibitions are ticketed** and are usually what you plan a visit around.
 
 **The Blavatnik Building has a free upper-level view** across the river to St Paul's, and the walk over the Millennium Bridge to get there is half the pleasure. Check the current access arrangements on the day — the terrace has been subject to restrictions.
 
@@ -125,7 +125,7 @@ The First and Second World War galleries are the core and run chronologically fr
 
 *The naval guns outside the Imperial War Museum.*
 
-> ⚠️ **The Holocaust Galleries are not recommended for under-14s**, and the museum says so at the entrance. Worth knowing before arriving with children.
+> ⚠️ **The Holocaust Galleries are not recommended for under-14s**, and the museum says so at the entrance. Plan around it if you are bringing children.
 
 ### National Gallery and National Portrait Gallery, Trafalgar Square
 
@@ -178,7 +178,7 @@ The Picture Room is the trick everyone remembers: hinged walls that open outward
 
 *The staircase to the Wellcome Collection's Reading Room.*
 
-Genuinely strange, and built around Henry Wellcome's collection of medical objects — a pharmacist who spent a fortune assembling artefacts about how humans have treated the body, from surgical tools to amulets.
+Strange, and built around Henry Wellcome's collection of medical objects — a pharmacist who spent a fortune assembling artefacts about how humans have treated the body, from surgical tools to amulets.
 
 The permanent displays sit alongside a rolling programme of exhibitions on medicine, illness and the body, which are consistently more thoughtful than the subject usually gets. The reading room upstairs is part library, part gallery, and you can sit in it.
 
@@ -232,7 +232,7 @@ The two biggest additions to London's museums in a generation both opened in the
 
 Not a museum in the usual sense but a **working store you can walk into** — more than half a million objects on open racking, from samurai swords to Elton John's costumes, with conservators visible at work rather than hidden behind the scenes.
 
-The **Order an Object** service is the thing that makes it extraordinary: you can request almost anything in the collection and have it brought out to you, free, by appointment. Nowhere else in Britain does this.
+The **Order an Object** service sets it apart: you can request almost anything in the collection and have it brought out to you, free, by appointment. Nowhere else in Britain does this.
 
 The **David Bowie Centre** opened inside it in September 2025, holding his personal archive.
 
@@ -302,7 +302,7 @@ Real Tube carriages and horse buses you can climb into, a 1938 stock car, and th
 
 It sits in the old flower market on the Covent Garden piazza, so the building is a Victorian iron-and-glass shed rather than a gallery.
 
-**It is ticketed, unlike most on this page, but the ticket lasts a year** — and the shop is genuinely one of the best museum shops in London, open to anyone without a ticket.
+**It is ticketed, unlike most on this page, but the ticket lasts a year** — and the shop is one of the best museum shops in London, open to anyone without a ticket.
 
 ### Horniman Museum and Gardens, Forest Hill
 
@@ -335,7 +335,7 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
   *The Georgian warehouse at London Museum Docklands.*
 
-* **National Army Museum**, Chelsea — free and genuinely quiet.
+* **National Army Museum**, Chelsea — free and quiet.
 * **RAF Museum**, Colindale — free, over a hundred aircraft in hangars on the old Hendon aerodrome.
 * **Fashion and Textile Museum**, Bermondsey — founded by Zandra Rhodes in a building she painted hot pink and orange.
 * **The Cartoon Museum**, Fitzrovia — three hundred years of British cartooning, with drawing tables.
@@ -353,7 +353,7 @@ The free national museums are enormous and most people do them badly. These are 
 * **Go at opening or in the last two hours.** The V&A, the Natural History Museum and the British Museum are all substantially quieter before 11am and after 4pm. The queues at the Natural History Museum in half-term are the worst in London.
 * **Use the side entrances.** The Natural History Museum's Exhibition Road entrance is almost always shorter than the Cromwell Road one. The V&A's tunnel entrance from South Kensington station skips the street entirely.
 * **Free does not mean no booking.** Several still ask for a timed slot at busy periods even though entry costs nothing, and turning up without one on a Saturday can mean a wait.
-* **The temporary exhibitions are what you pay for**, and they are where the queues are. The permanent collections are free, permanently, and are the reason these museums are internationally famous.
+* **The temporary exhibitions are what you pay for**, and they are where the queues are. The permanent collections are free, permanently, and are why these museums are internationally famous.
 * **Lates are the part most visitors miss.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly, usually free, and usually with a bar and a much better atmosphere than a Saturday afternoon.
 * **The gift shops and cafés are the funding.** Entry is free because of them, so buying a coffee is closer to paying admission than it looks.
 

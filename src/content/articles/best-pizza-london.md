@@ -19,7 +19,7 @@ faq:
   - q: "Do I need to book a pizzeria in London?"
     a: "Mostly no. Rudy's, Pizza Pilgrims, Yard Sale, Vincenzo's, Breadstall, Bad Boy and Short Road are all walk-in. The exceptions worth planning are Napoli on the Road's Soho tasting menu, which takes weeks, and Crisp Pizza's basement pizzeria, which takes bookings while the pub upstairs stays walk-in."
   - q: "Where do I get pizza by the slice in London?"
-    a: "Vincenzo's on Bethnal Green Road cuts 20-inch pies from 5pm, Bad Boy Pizza Society does 22-inch slices at Seven Dials Market, and Breadstall runs a pizza slice counter on Berwick Street in Soho. Paulie's on Commercial Street, Carmela's on Upper Street, Sarv's Slice in Ealing and Sud Italia at Old Spitalfields Market are the others worth knowing."
+    a: "Vincenzo's on Bethnal Green Road cuts 20-inch pies from 5pm, Bad Boy Pizza Society does 22-inch slices at Seven Dials Market, and Breadstall runs a pizza slice counter on Berwick Street in Soho. Paulie's on Commercial Street, Carmela's on Upper Street, Sarv's Slice in Ealing and Sud Italia at Old Spitalfields Market are the others to try."
   - q: "Which London pizzerias do gluten-free bases?"
     a: "Zia Lucia offers four different doughs including a 48-hour ferment and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners. Check directly before travelling — a separate base is not the same as a separate preparation area."
 ---
@@ -130,7 +130,7 @@ No single ranking crowns these, but they carry the widest agreement in the city 
 
 The only New York-style pizzeria that Time Out, The Infatuation and Country & Town House all name. Eighteen-inch pies, Southern Italian ingredients, and a room that behaves like a Brooklyn slice joint rather than a trattoria.
 
-One catch worth knowing: despite the framing, most of the rooms sell whole pies rather than slices. There are four sites — 22 Paddington Street in Marylebone, 342 King's Road in Chelsea, 84 Westbourne Grove and 233 Portobello Road — and Portobello Road is the one that runs a slice counter alongside the dining menu.
+Despite the framing, most of the rooms sell whole pies rather than slices. There are four sites — 22 Paddington Street in Marylebone, 342 King's Road in Chelsea, 84 Westbourne Grove and 233 Portobello Road — and Portobello Road is the one that runs a slice counter alongside the dining menu.
 
 ![An Alley Cats pizza cut into slices on a metal tray, tomato sauce and thin melted cheese under dollops of green pesto and a scatter of dried oregano, held up on the pavement outside](../../assets/articles/best-pizza-london/alley-cats-portobello-road.jpg)
 
@@ -168,7 +168,7 @@ What makes it is the dough. They use a **biga pre-ferment**, a stiff overnight s
 
 *££ · Hackney · 7 min from London Fields · Cited by 6 sources · #2 of 21, Time Out · #7 of 12, The Infatuation · [website](https://www.doughhands.com/)*
 
-**A pub residency in Hackney** rather than a restaurant — the kitchen operates out of a pub and the pizza is the whole reason people are in the room.
+**A pub residency in Hackney** rather than a restaurant — the kitchen operates out of a pub and people are there for the pizza.
 
 The style is its own: a **long-fermented, heavily blistered base** with toppings that lean far from the Neapolitan canon — expect things like **confit garlic, fermented chilli and unusual cheeses** rather than a straight margherita. Six sources name it, which is more than most bricks-and-mortar pizzerias here.
 
@@ -181,7 +181,7 @@ The style is its own: a **long-fermented, heavily blistered base** with toppings
 
 *£ · Shoreditch · 122 Bethnal Green Road · walk-in · Cited by 6 sources · #9 of 21, Time Out · #3 of 12, The Infatuation · [website](https://vincenzospizzas.com/)*
 
-**A Shoreditch counter where New York meets Naples**, which is the whole idea rather than a compromise. Tom went to the slice counters of Manhattan and Brooklyn first and to Naples second, came home, built a dome oven in his own back garden and worked out a style that keeps both halves.
+**A Shoreditch counter where New York meets Naples**, by design rather than as a compromise. Tom went to the slice counters of Manhattan and Brooklyn first and to Naples second, came home, built a dome oven in his own back garden and worked out a style that keeps both halves.
 
 What comes out is a wide pie on a long-fermented dough — Neapolitan under the middle, New York in the proportions, and sold by the slice as well as whole.
 
@@ -195,7 +195,7 @@ Small, and the queue moves quickly. There is a second branch at 42 High Street i
 
 *££ · Clapton · 105 Lower Clapton Road · walk-in · Cited by 6 sources · 3rd, National Pizza Awards 2025 · #8 of 21, Time Out · [website](https://yardsalepizza.com/shop/clapton/)*
 
-Started in a back-yard oven in Homerton in 2014 and grew into east London's default good pizza without ever becoming a chain you would avoid. British ingredients, a properly considered vegan menu, and consistent across every branch. Paolo Burini's Ragu Pazzo took third in Britain in 2025, and the kitchen is back in the 2026 final with The Gaeng Pizza Gang.
+Started in a back-yard oven in Homerton in 2014 and grew into east London's default good pizza without ever becoming a chain you would avoid. British ingredients, a considered vegan menu, and consistent across every branch. Paolo Burini's Ragu Pazzo took third in Britain in 2025, and the kitchen is back in the 2026 final with The Gaeng Pizza Gang.
 
 Six London sites: Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow and Finsbury Park. Clapton is the original.
 
@@ -239,7 +239,7 @@ Baker Street is the branch named in the 2026 rankings.
 
 Entered the European ranking at 48 within a year of opening and took the One to Watch award for 2026 with it — the only London pizzeria in the 60 south of the river. It sits in the railway arches directly under Queen's Road Peckham station, in the old Little Kudu site.
 
-Andrea Asciuti, who founded 081 Pizzeria, calls the style "Bri-talian": a crisp London base built with Italian method, which is a more honest description of what most good London pizza now is than "Neapolitan" would be.
+Andrea Asciuti, who founded 081 Pizzeria, calls the style "Bri-talian": a crisp London base built with Italian method, which describes what most good London pizza now is better than "Neapolitan" would.
 
 ### The one with a tasting menu
 
@@ -257,7 +257,7 @@ Thinner, wider, foldable, sold by the slice, and where most of the 2026 coverage
 
 *££ · Borough · Arch 32, Southwark Street · Cited by 4 sources · #4 of 21, Time Out · #9 of 12, The Infatuation · [book a table](https://www.opentable.co.uk/r/spring-street-pizza-southwark)*
 
-Tom Kemble left fine dining — he held a star at Bonhams — to make eighteen-inch New York slices under a railway arch off O'Meara Street. The dough is a biga fermented past forty-eight hours, which is where the thin, foldable, properly charred base comes from.
+Tom Kemble left fine dining — he held a star at Bonhams — to make eighteen-inch New York slices under a railway arch off O'Meara Street. The dough is a biga fermented past forty-eight hours, which is where the thin, foldable, charred base comes from.
 
 A few minutes from Borough Market, London Bridge and the Shard, which makes it the most useful entry on this page for anyone doing the South Bank.
 
@@ -337,7 +337,7 @@ Good, widespread, and no planning required.
 
 Naples by way of Manchester, and accredited by the Associazione Verace Pizza Napoletana — meaning the dough, the flour and the oven all meet the Neapolitan association's own written standard. Very few London pizzerias bother to get that.
 
-A 2025 National Pizza Awards finalist, highly commended behind Pizza Pilgrims for the pizza trade's own chain-of-the-year award the same year, and the most reliable cheap Neapolitan pizza in central London, with sites on Wardour Street, Shoreditch High Street and Spital Square. Consistent enough that the branch barely matters.
+A 2025 National Pizza Awards finalist, highly commended behind Pizza Pilgrims for the pizza trade's own chain-of-the-year award the same year, and the most reliable cheap Neapolitan pizza in central London, with sites on Wardour Street, Shoreditch High Street and Spital Square. Consistent enough that any branch will do.
 
 #### Zia Lucia, Holloway
 
@@ -345,7 +345,7 @@ A 2025 National Pizza Awards finalist, highly commended behind Pizza Pilgrims fo
 
 Four different doughs, including a 48-hour ferment and a charcoal base, which makes this the most useful entry here for anyone avoiding standard wheat flour. A 2025 National Pizza Awards finalist.
 
-**Gluten-free base available** — though a separate base is not a separate preparation area, so ask if it matters medically.
+**Gluten-free base available** — though a separate base is not a separate preparation area, so ask if you need it for medical reasons.
 
 #### Berberè, Stratford
 
@@ -389,7 +389,7 @@ A south London sourdough chain whose head pizzaiolo, Antonio Raspone, took Pizza
 
 *££ · Ealing · 7 min from Ealing Broadway · Cited by 2 sources · [book a table](https://booking.resdiary.com/widget/Standard/SantaMariaPaddington/59017)*
 
-A small Ealing pizzeria that built its reputation on strict Neapolitan method years before the current wave arrived. Worth knowing if you are anywhere in west London.
+A small Ealing pizzeria that built its reputation on strict Neapolitan method years before the current wave arrived. Useful if you are anywhere in west London.
 
 ![The white frontage of Santa Maria pizzeria at night](../../assets/articles/best-pizza-london/santa-maria.jpg)
 
@@ -441,7 +441,7 @@ New enough that the lists are still catching up.
 
 ---
 
-## Worth knowing, briefly
+## Also named, briefly
 
 Places the sources back but that did not earn a full entry, either because only one or two guides name them or because pizza is not the main event. Several are very good.
 

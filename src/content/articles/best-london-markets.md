@@ -19,7 +19,7 @@ faq:
   - q: "Where can I eat at a London market?"
     a: "Maltby Street is built around hot food. Borough has both traders and produce. Columbia Road and Portobello are shopping markets where the food is incidental — good, but not the reason to go."
   - q: "Is Camden Market worth visiting?"
-    a: "Yes, but know what it is — Camden Lock, the Stables and Hawley Wharf run together into the best-known collection of street vendors in Britain. It is busy, touristy and still genuinely enjoyable. Go on a weekday morning if you dislike crowds."
+    a: "Yes, but know what it is — Camden Lock, the Stables and Hawley Wharf run together into the best-known collection of street vendors in Britain. It is busy, touristy and still enjoyable. Go on a weekday morning if you dislike crowds."
   - q: "Can you visit Billingsgate Fish Market?"
     a: "Yes. It is the UK's largest inland fish market, trades before dawn a few minutes from Canary Wharf, and the public can buy. Go very early — it is finished by about 8am."
 ---
@@ -33,7 +33,7 @@ We keep a full [markets by day](/markets/) page for exactly that reason. This gu
 > 💡 **The Short Version:** **Borough** is the food market everything else is measured against. **Columbia Road** is Sunday only and worth the alarm. **Maltby Street** is the one locals use instead of Borough. And **Billingsgate** trades before dawn and is finished by 8am.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Trading days are the thing that changes most and the thing that ruins a trip — every one here was checked in August 2026, but confirm before travelling for a specific market.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Trading days are the thing that changes most and the thing that ruins a trip — every one here was checked in August 2026, but confirm before travelling for a specific market.
 
 ## Where they are
 
@@ -76,9 +76,9 @@ We keep a full [markets by day](/markets/) page for exactly that reason. This gu
 
 The one everything else is measured against — wholesale traders and produce stalls side by side with the hot-food counters that made it famous, under a Victorian iron roof beside Southwark Cathedral.
 
-**The timing advice everyone gives is wrong by a day.** It is busiest **between 11am and 2pm on Saturday**, and the genuinely good window is **Friday mid-morning** — everything is stocked and the crush has not started. Tuesday and Wednesday are quiet but several traders are not there.
+**The timing advice everyone gives is wrong by a day.** It is busiest **between 11am and 2pm on Saturday**, and the good window is **Friday mid-morning** — everything is stocked and the crush has not started. Tuesday and Wednesday are quiet but several traders are not there.
 
-**Kappacasein's toastie is £8** and is the single most queued-for item; it trades **Thursday, Friday and Saturday only** and nothing the rest of the week. **The Black Pig** does porchetta thirty seconds away, Tuesday to Sunday, £11.50 to £13.50.
+**Kappacasein's toastie is £8** and is the most queued-for item; it trades **Thursday, Friday and Saturday only** and nothing the rest of the week. **The Black Pig** does porchetta thirty seconds away, Tuesday to Sunday, £11.50 to £13.50.
 
 Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth crossing London for.
 
@@ -94,9 +94,9 @@ A **narrow ropewalk of food traders wedged under the railway arches** since 2010
 
 > ⚠️ **Friday evening to Sunday only, and this is the most common wasted trip in Bermondsey.** Saturday 10am to 5pm, Sunday 11am to 4pm, and Friday 5.30pm to 9pm in summer. The rest of the week Ropewalk is an alley of shuttered arches.
 
-**A few arches do trade midweek**, which is the part worth knowing: **40 Maltby Street** at number 40 is a wine bar and kitchen open Wednesday to Sunday, and one of the best wine lists in London behind a roller shutter.
+**A few arches do trade midweek**: **40 Maltby Street** at number 40 is a wine bar and kitchen open Wednesday to Sunday, and one of the best wine lists in London behind a roller shutter.
 
-**It is genuinely tight.** By midday on a Saturday you are shuffling single file, so go at opening or accept the crush. Bermondsey is about eight minutes' walk, London Bridge ten.
+**It is tight.** By midday on a Saturday you are shuffling single file, so go at opening or accept the crush. Bermondsey is about eight minutes' walk, London Bridge ten.
 
 ### Canopy Market, King's Cross
 
@@ -118,7 +118,7 @@ The **UK's largest inland fish market**, trading from around 4am a few minutes f
 
 **Bring cash, bring a cool bag, and buy in quantity.** Traders sell in boxes rather than portions, so this works for a group or a freezer and not for a dinner for one. Wear shoes you do not mind soaking.
 
-**The market café does a bacon and scallop roll** where the scallops come off the floor downstairs, which is the most genuinely London breakfast in this guide.
+**The market café does a bacon and scallop roll** where the scallops come off the floor downstairs, which is the most London-specific breakfast in this guide.
 
 > ⚠️ **It closes for good by 2028.** The City of London Corporation confirmed in November 2024 that Billingsgate will shut permanently and the Poplar site be redeveloped for housing. Traders continue in place until then, but this is an entry with an expiry date on it.
 
@@ -148,7 +148,7 @@ A Victorian street **packed shoulder to shoulder with flower sellers shouting pr
 
 *Saturday only · 35 Broadway Market E8 4PH*
 
-Food, produce and vintage along a single street running down to the Regent's Canal, with **London Fields at the northern end** — which is the reason it works better than a market on its own: you buy lunch and then have somewhere to eat it.
+Food, produce and vintage along a single street running down to the Regent's Canal, with **London Fields at the northern end** — which makes it work better than a market on its own: you buy lunch and then have somewhere to eat it.
 
 **Saturday is the market**, roughly 9am to 5pm. It is **much quieter and largely shut the rest of the week**, though the permanent shops and cafés along the street trade normally.
 
@@ -164,7 +164,7 @@ Food, produce and vintage along a single street running down to the Regent's Can
 
 *Antiques Saturday*
 
-Antiques on Saturday — **the largest antiques market in the world by number of dealers** — and a different market on every other day of the week, which is the thing nobody explains.
+Antiques on Saturday — **the largest antiques market in the world by number of dealers** — and a different market on every other day of the week, which nobody explains.
 
 **Saturday is antiques**, and it is the day the road fills end to end. **Friday is a smaller antiques day** and much the better one if you actually want to buy: the same dealers, room to negotiate, no crowd. The rest of the week the northern end is fruit and veg and general goods for the neighbourhood.
 
@@ -210,9 +210,9 @@ A covered Victorian market hall of 1887, restored and now half market and half r
 
 *Every day*
 
-**Camden Lock, the Stables and Hawley Wharf** run together into the best-known collection of street vendors in Britain — over a thousand stalls across three connected markets, and it is busy and touristy and still genuinely good.
+**Camden Lock, the Stables and Hawley Wharf** run together into the best-known collection of street vendors in Britain — over a thousand stalls across three connected markets, and it is busy and touristy and still good.
 
-**Weekday lunch is the same food without the crush**, which is the single most useful thing to know: the food traders are there all week, and a Saturday afternoon adds queues rather than choice.
+**Weekday lunch is the same food without the crush**: the food traders are there all week, and a Saturday afternoon adds queues rather than choice.
 
 **The Stables is the interesting half.** Built as horse hospital and stables for the canal, it holds the antiques and vintage; Camden Lock has the food; Hawley Wharf is the newest and the most polished.
 
@@ -226,7 +226,7 @@ A covered Victorian market hall of 1887, restored and now half market and half r
 
 **The stall line-up changes day to day**, which is unusual: some traders are weekend-only, others run midweek, and the theme shifts with them. It is busiest at weekends, and a weekday visit is quieter but thinner.
 
-**It is compact enough to do in half an hour**, which makes it the right anchor for a Greenwich day rather than the point of one — the Old Royal Naval College, the Cutty Sark and the free park viewpoint are all within ten minutes.
+**It is compact enough to do in half an hour**, which makes it the right anchor for a Greenwich day — the Old Royal Naval College, the Cutty Sark and the free park viewpoint are all within ten minutes.
 
 **Cutty Sark DLR is three minutes away.** The market is covered, so it works in rain when the rest of Greenwich does not.
 
@@ -266,7 +266,7 @@ Edgware Road and Marylebone stations are each about eight minutes.
 
 Two covered arcades off Electric Avenue that went from near-derelict to one of the best places to eat in south London — and still hold the Caribbean grocers, fishmongers and butchers that were there first.
 
-**The mix is the point**: a Colombian bakery next to a record shop next to a family greengrocer, and the restaurants pay rent alongside the market traders rather than replacing them.
+**The mix is local**: a Colombian bakery next to a record shop next to a family greengrocer, and the restaurants pay rent alongside the market traders rather than replacing them.
 
 **Most of the food is small, independent and cash-friendly rather than card-only**, and the units seat a dozen people, so an evening here means eating early or waiting.
 
@@ -282,9 +282,9 @@ Street food, groceries, fashion and cut flowers on the edge of Victoria Park, an
 
 **Sundays only**, roughly 10am to 4pm, on Bonner Gate Plaza at the western edge of the park.
 
-**The park is the reason to combine it.** Victoria Park is the oldest public park in Britain, and buying lunch at the market and walking into it is the whole intended shape of the morning — there is a boating lake and a pavilion café inside.
+**Combine it with the park.** Victoria Park is the oldest public park in Britain, and the natural plan is to buy lunch at the market and walk into it — there is a boating lake and a pavilion café inside.
 
-**Hackney Wick and Bethnal Green are each about fifteen minutes' walk**, which is the catch: there is no station close, and that is precisely why it has stayed a local market.
+**Hackney Wick and Bethnal Green are each about fifteen minutes' walk**: there is no station close, and that is precisely why it has stayed a local market.
 
 ---
 
@@ -324,7 +324,7 @@ Under the glass roof of Charles Fowler's 1830 market building — **antiques on 
 
 ## Not markets, but sold as them
 
-Worth knowing the difference before you plan a morning around one.
+Check the difference before you plan a morning around one.
 
 * **Battersea Power Station** — 150 shops and restaurants inside Gilbert Scott's power station. A shopping centre in an extraordinary building.
 * **The King's Road**, Chelsea — a shopping street with history rather than a market. Mary Quant opened Bazaar here in 1955.
@@ -336,7 +336,7 @@ Worth knowing the difference before you plan a morning around one.
 
 ## What things cost, and the free part
 
-Markets are the cheapest good food in London and one of the few genuinely free things to do that is not a museum.
+Markets are the cheapest good food in London and one of the few free things to do that is not a museum.
 
 * **Walking round costs nothing.** Borough, Spitalfields, Columbia Road, Portobello, Camden and Leadenhall are all free to enter and worth an hour on their own. Columbia Road on a Sunday morning is one of the best free hours in London.
 * **Street food runs roughly £8–£14 a dish** across Borough, Maltby Street and Brick Lane — cheaper than a restaurant, more expensive than a supermarket, and the quality at the top end matches restaurants charging double.

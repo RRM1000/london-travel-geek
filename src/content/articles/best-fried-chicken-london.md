@@ -71,7 +71,7 @@ Britain's first judged fried chicken award, the **Fried Chicken Championships**,
 
 **It won on the 20Ft Hot Chicken Burger**, and it is the strangest result in this guide: a national title, and not one of the seven mastheads or two blogs in this pass names it. It trades off Holles Street just behind Oxford Street and through the delivery platforms.
 
-If you want to know what the judges rewarded rather than what the critics recommend, this is the only place to go — and the gap between those two things is the reason this guide exists.
+If you want to know what the judges rewarded rather than what the critics recommend, this is the only place to go — and the gap between those two things is why this guide exists.
 
 ![Fried chicken tenders on branded chicken shop paper beside crinkle-cut fries and a rice bowl under a thick orange sauce, on a metal tray](../../assets/articles/best-fried-chicken-london/20ft-fried-chicken.jpg)
 
@@ -137,7 +137,7 @@ Taiwanese fried chicken came out of night-market stalls in the late 1970s, tryin
 
 London has thousands of chicken shops and the serious lists name this one. It started in south London and now runs from **Edmonton to Finsbury Park to Brick Lane**, which has cost it none of its standing.
 
-**The spicy wings are the order** — fried in a peppery spice mix, and **about 80p each**, which is the whole argument. Nothing here is trying to be a restaurant.
+**The spicy wings are the order** — fried in a peppery spice mix, and **about 80p each**. Nothing here is trying to be a restaurant.
 
 ### Chick King — Tottenham, and worth the journey
 
@@ -183,7 +183,7 @@ A Thai restaurant, and the **chilli fish sauce wings** are why it appears in a f
 
 *££ · 53 Lexington Street, W1F 9AS · Cited by 3 sources*
 
-The order is **Taiwanese fried chicken in hot sauce, £9.25 for five pieces**, or the **chilli lime fried chicken steak at £12.75** if you want a slab rather than a snack. The batter is light rather than armoured — more rain jacket than parka — with a sharp vinegary hot sauce over the top. Ask for extra on the side; dips are £1.50, and a fried chicken bao is £5.95.
+The order is **Taiwanese fried chicken in hot sauce, £9.25 for five pieces**, or the **chilli lime fried chicken steak at £12.75** if you want a slab. The batter is light rather than armoured — more rain jacket than parka — with a sharp vinegary hot sauce over the top. Ask for extra on the side; dips are £1.50, and a fried chicken bao is £5.95.
 
 **A portion will not touch the sides**, so order two. This is the original BAO, open on Lexington Street since 2015 and a Michelin Bib Gourmand for nine years. Counter seating, good for eating alone. **Walk-ins only and card only**, and the kitchen shuts between 3pm and 5pm Monday to Thursday.
 
@@ -197,7 +197,7 @@ The order is **Taiwanese fried chicken in hot sauce, £9.25 for five pieces**, o
 
 Family-owned, and the local reference point. The chicken is **double-fried** for the crackle that technique exists to produce, and the batter lands between rugged and glossy. **Sticky nuggets** are the order.
 
-It trades from a shopfront on Burlington Road rather than the New Malden High Street where Imone sits, and takes collection and delivery orders on [its own site](https://www.chickandbeers.uk/). **The hours are the catch: closed Mondays, and 4.30pm to 8.45pm the rest of the week**, with one extra Saturday sitting from 1.15pm to 3.45pm.
+It trades from a shopfront on Burlington Road rather than the New Malden High Street where Imone sits, and takes collection and delivery orders on [its own site](https://www.chickandbeers.uk/). **Hours are limited: closed Mondays, and 4.30pm to 8.45pm the rest of the week**, with one extra Saturday sitting from 1.15pm to 3.45pm.
 
 ---
 
@@ -223,10 +223,10 @@ The word covers at least six different things in London, and a reader who wants 
 
 ## What to know
 
-**Almost none of this needs booking, and that is the point.** The list is counters, takeaways and queues — Bao on Lexington Street is walk-ins only too. The exceptions are Coqfighter and Kricket, which are restaurants that fry chicken well, and Normah's, whose monthly booking drop is the only thing here that requires an alarm.
+**Almost none of this needs booking.** The list is counters, takeaways and queues — Bao on Lexington Street is walk-ins only too. The exceptions are Coqfighter and Kricket, which are restaurants that fry chicken well, and Normah's, whose monthly booking drop is the only thing here that requires an alarm.
 
 **Two venues in the sources have closed.** Sichuan Fry in Hackney, named by two sources, and **Kaieteur Kitchen** in Elephant and Castle, which shut in October 2025 after its landlord locked it out.
 
-**The champion and the third place are on no editorial list.** 20Ft and Fortune Fried Chicken are named by the championship and by nothing else in this pass — recorded as it stands rather than smoothed over, because the judges and the writers are plainly not looking at the same city.
+**The champion and the third place are on no editorial list.** 20Ft and Fortune Fried Chicken are named by the championship and by nothing else in this pass — recorded as it stands, because the judges and the writers are plainly not looking at the same city.
 
 *Evidence built 7 September 2026 from fourteen independent sources. Award results are from the Fried Chicken Championships' own published 2026 results. Opening days for Chick'N'Sours are from its own site the same day; chicken shops change hours often, so check before a long journey.*

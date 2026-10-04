@@ -17,7 +17,7 @@ tags: [restaurants, Mexican restaurants, tacos, dining, cheap eats]
 draft: false
 faq:
   - q: "What is the best Mexican restaurant in London?"
-    a: "Kol in Marylebone, where Santiago Lastra cooks Mexican technique using no imported produce at all — the constraint is the whole idea, and it holds a Michelin star. Cavita, also in Marylebone, is Time Out's pick."
+    a: "Kol in Marylebone, where Santiago Lastra cooks Mexican technique using no imported produce at all — the constraint is deliberate, and it holds a Michelin star. Cavita, also in Marylebone, is Time Out's pick."
   - q: "Where can I get good cheap tacos in London?"
     a: "The market stalls. Guacamoles trades from Peckham, Tooting and Hackney Wick markets with hand-pressed tortillas and a seventeen-spice birria. Taquiza in a Rye Lane arch does tacos around £6 on masa made on site. Comalera in Walthamstow presses its own tortillas, and Club Mexicana is entirely vegan and under £15."
   - q: "Is London Mexican food authentic?"
@@ -25,10 +25,10 @@ faq:
   - q: "Where do I find good mezcal in London?"
     a: "Mestizo in Fitzrovia is a mezcaleria with a dining room attached, and the bar is where to sit. Ixchel in Chelsea leans as hard on mezcal as on the kitchen."
   - q: "What is the difference between a taqueria and a Mexican restaurant here?"
-    a: "The tortilla, mostly. A taqueria presses its own; most restaurants buy them in. Comalera is the clearest example of why it matters."
+    a: "The tortilla, mostly. A taqueria presses its own; most restaurants buy them in. Comalera is the clearest example of the difference."
 ---
 
-London's Mexican food splits sharply. At the top there are two Marylebone restaurants doing genuinely serious work — one of them holding a Michelin star for cooking Mexican technique **with no imported ingredients at all**. Below that there is a lot of burrito.
+London's Mexican food splits sharply. At the top there are two Marylebone restaurants doing serious work — one of them holding a Michelin star for cooking Mexican technique **with no imported ingredients at all**. Below that there is a lot of burrito.
 
 This guide skips the burrito.
 
@@ -70,7 +70,7 @@ This guide skips the burrito.
 
 No avocados, no Mexican chillies flown in. Instead: **Cornish lobster in a chilli butter**, langoustine tacos, and moles built from British produce fermented and dried in-house to stand in for what he cannot get. The **tortillas are made from corn nixtamalised on site**.
 
-**££££, closed Sunday and Monday, and it books months ahead.** The mezcal bar downstairs takes walk-ins and is worth knowing about on its own.
+**££££, closed Sunday and Monday, and it books months ahead.** The mezcal bar downstairs takes walk-ins and works as a stop on its own.
 
 ![A clay bowl of shredded meat with herbs and pickled onion](../../assets/articles/best-mexican-restaurants-london/kol.jpg)
 *A dish at Kol. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/51604595625), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -90,9 +90,9 @@ Adriana Cavita worked at Pujol in Mexico City, and the menu shows it: **mole** a
 
 *£££ · 10 min from London Bridge* · Cited by 8 sources
 
-**Edson and Natalie Diaz-Fuentes cook the dishes most London Mexicans skip** — which is the entire reason to go rather than to a taco counter.
+**Edson and Natalie Diaz-Fuentes cook the dishes most London Mexicans skip** — so go here rather than to a taco counter.
 
-**Mole negro** made properly, **soft-shell crab tacos**, and **guacamole topped with grasshoppers** — chapulines, toasted and salted, which is a genuine Oaxacan garnish rather than a dare. The mole is the dish to judge it on and takes days to make.
+**Mole negro**, **soft-shell crab tacos**, and **guacamole topped with grasshoppers** — chapulines, toasted and salted, which is a genuine Oaxacan garnish rather than a dare. The mole is the dish to judge it on and takes days to make.
 
 **£££ and it books weeks ahead.** Bermondsey, over two floors, and the upstairs room is the calmer one.
 
@@ -124,9 +124,9 @@ Order across the divide: **tuna tostadas**, sashimi dressed with chilli and lime
 
 *£££ · 4 min from Euston Square* · Cited by 4 sources
 
-**A long-running mezcaleria and dining room** — the **tequila and mezcal list is the reason to sit at the bar** rather than at a table, and it runs to well over a hundred bottles.
+**A long-running mezcaleria and dining room** — sit at the bar for the **tequila and mezcal list** rather than at a table, and it runs to well over a hundred bottles.
 
-The kitchen does the full regional repertoire — **mole poblano**, cochinita pibil, chiles en nogada in season — but the bar is the draw. Ask the staff to walk you through the mezcals; they know them and most London bars do not.
+The kitchen does the full regional repertoire — **mole poblano**, cochinita pibil, chiles en nogada in season — but people come for the bar. Ask the staff to walk you through the mezcals; they know them and most London bars do not.
 
 **£££, book a few days ahead** for a table; the bar takes walk-ins. Near Warren Street, and open later than most of this guide.
 
@@ -182,7 +182,7 @@ Started as a Netil Market stall and took a permanent room in 2023.
 
 *££ · 76 Stoke Newington Road* · Cited by 4 sources
 
-**Founder Daniel grew up in Guadalajara and trained in the Yucatán** — so the cooking is genuinely regional rather than pan-Mexican, and **the cocktail bar runs long after the kitchen stops.**
+**Founder Daniel grew up in Guadalajara and trained in the Yucatán** — so the cooking is regional rather than pan-Mexican, and **the cocktail bar runs long after the kitchen stops.**
 
 Yucatecan and Jaliscan dishes: **cochinita pibil**, tacos with proper salsas, and a brunch at weekends that gets named alongside the dinner menu. The bar does agave spirits seriously.
 
@@ -256,7 +256,7 @@ Nixtamalisation is the process of cooking dried corn in an alkaline solution bef
 
 *£ · Arch 164, 115 Rye Lane · Wednesday to Saturday only* · Cited by 3 sources
 
-A Peckham taquería doing the format straight: **a short taco list, made properly, at a price the area can sustain.**
+A Peckham taquería doing the format straight: **a short taco list at a price the area can sustain.**
 
 Tortillas pressed to order and fillings that rotate — al pastor, carnitas, and vegetable options that are not an afterthought. Salsas made in-house and set out for you to add yourself.
 
@@ -276,7 +276,7 @@ The **beef birria taco** is the signature: six hours of slow cooking, the tortil
 
 *£ · 2 min from St James Street · walk-in* · Cited by 3 sources
 
-**A Walthamstow stall pressing its own tortillas** — and **the cheapest serious tacos on any of these lists**, which is the whole reason it is here.
+**A Walthamstow stall pressing its own tortillas** — and **the cheapest serious tacos on any of these lists**, which is why it is here.
 
 A *comal* is the flat griddle a tortilla is cooked on, and the name is the promise: masa pressed and griddled to order rather than bought in packs. A short list of fillings and salsas made on site.
 

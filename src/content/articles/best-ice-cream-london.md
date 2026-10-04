@@ -13,7 +13,7 @@ tags: [ice cream, gelato, dessert, cheap eats, dining]
 draft: false
 faq:
   - q: "What is the best ice cream in London?"
-    a: "Gelupo in Soho appears on more London lists than anywhere else and is the safe answer. Romeo & Giulietta in Stoke Newington tops Time Out's ranking, and Nardulli in Clapham has the queue that settles the argument for most people. They are three genuinely different things — a Soho institution, a Verona-trained newcomer and a family gelateria."
+    a: "Gelupo in Soho appears on more London lists than anywhere else and is the safe answer. Romeo & Giulietta in Stoke Newington tops Time Out's ranking, and Nardulli in Clapham has the queue that settles the argument for most people. They are three different things — a Soho institution, a Verona-trained newcomer and a family gelateria."
   - q: "Where is the best vegan ice cream in London?"
     a: "Marcelo's in Crystal Palace, made on a house oat-milk base, and it is not a compromise version — their own line is that this is not 'good for a vegan' ice cream. Udderlicious has the strongest vegan range among the general parlours, and Gelupo marks its vegan sorbets on the menu, which is rarer than it should be."
   - q: "Which London ice cream shop has the longest queue?"
@@ -21,7 +21,7 @@ faq:
   - q: "Is London ice cream open in winter?"
     a: "Most of the parlours are, but not all. Marcelo's trades weekends only, and Ice Cream Union's Bermondsey factory shop opens Saturdays from March to December, so it is shut in January and February. Check before making a trip for a specific one."
   - q: "What should I order at Badiani?"
-    a: "The Buontalenti. It is cream and sugar and almost nothing else — four ingredients, no flavouring — and it is the reason the Florentine original has lasted since 1932. Ordering anything else first is a mistake most people make once."
+    a: "The Buontalenti. It is cream and sugar and almost nothing else — four ingredients, no flavouring — and it is why the Florentine original has lasted since 1932. Ordering anything else first is a mistake most people make once."
   - q: "What is ube ice cream?"
     a: "Purple yam, a Filipino staple, and the reason people queue at Mamasons. Ask for it in a bilog — a toasted pandesal milk bun stuffed with ice cream and dusted with icing sugar. It does sell out."
 ---
@@ -81,7 +81,7 @@ The most-listed ice cream in London, attached to Jacob Kenedy's Bocca di Lupo ac
 
 The vegan sorbets are marked on the menu — watermelon, apricot, almond, lemon and rosemary, blood orange — which sounds like a small thing and is not, because most places make you ask.
 
-Open to **midnight on Fridays and Saturdays**, which makes it one of the few genuinely late desserts in the West End.
+Open to **midnight on Fridays and Saturdays**, which makes it one of the few late desserts in the West End.
 
 ![Two Gelupo tubs on a blue counter, each topped with a wafer stamped with the shop's wolf logo, beside a Gelupo card](../../assets/articles/best-ice-cream-london/gelupo.jpg)
 
@@ -121,7 +121,7 @@ It is busy **in December** too. A summer queue means the weather is good. A Dece
 
 **Order the Buontalenti.** Cream, sugar, and essentially nothing else — four ingredients, no flavouring, named after the Renaissance architect credited with inventing it.
 
-It is the single most specific "order this" in London gelato, and the reason a Florentine company that started in 1932 now has twelve shops here. Everything else on the counter is good; the Buontalenti is the point.
+It is the most specific "order this" in London gelato, and the reason a Florentine company that started in 1932 now has twelve shops here. Everything else on the counter is good; the Buontalenti is the one to order.
 
 Widest footprint of any serious operator in the city, so there is usually one near you.
 
@@ -161,7 +161,7 @@ The gelateria that has been the South Kensington standard for two decades, and t
 
 *New Row · also East Village and the OXO Tower* · Cited by 3 sources
 
-A small Covent Garden gelateria making everything on site, and one of the few places in central London where the ice cream is worth crossing the road for rather than simply nearby.
+A small Covent Garden gelateria making everything on site, and one of the few places in central London where the ice cream is worth crossing the road for.
 
 The **pistachio** and the **salted caramel** are the standing orders, with a rotating list of seasonal and unusual flavours — herbs, spices and vegetables among them, which sounds like a stunt and is done well.
 
@@ -222,7 +222,7 @@ Ninety-plus flavours created so far, rotating weekly: **miso peanut butter and c
 
 An Islington ice cream shop making everything in small batches on site, and a fixture on Upper Street for years.
 
-The range is broad and changes constantly — **honeycomb, salted caramel** and a rotating list of specials — with **vegan and dairy-free options** made properly rather than as an afterthought, which is why it turns up on lists that most gelaterias miss.
+The range is broad and changes constantly — **honeycomb, salted caramel** and a rotating list of specials — with **vegan and dairy-free options** made as a core part of the range rather than as an afterthought, which is why it turns up on lists that most gelaterias miss.
 
 **£, walk-in.** Upper Street and a second Covent Garden site. Queues on a summer evening; almost none in the day.
 
@@ -236,7 +236,7 @@ The range is broad and changes constantly — **honeycomb, salted caramel** and 
 
 A doughnut business that makes **serious gelato as a second act**, which is unusual and works because the same kitchen discipline applies to both.
 
-The **gelato** is made in small batches and sold alongside the sourdough doughnuts the company is known for — and the **doughnut-and-gelato combination** is the thing to order, one used as the vessel for the other.
+The **gelato** is made in small batches and sold alongside the sourdough doughnuts the company is known for — and the **doughnut-and-gelato combination** is the order, one used as the vessel for the other.
 
 **£, walk-in.** Sites across central and east London, most of them counters rather than places to sit. The Broadwick Street and Leather Lane shops are the busiest.
 
@@ -250,9 +250,9 @@ The **gelato** is made in small batches and sold alongside the sourdough doughnu
 
 London's first Filipino *sorbetes* — "dirty ice cream", so called because it was traditionally sold from carts on the street rather than because of anything about the product.
 
-**Ube**, the purple yam, is the draw, alongside Milo, queso and black buko. Order it as a **bilog**: a toasted pandesal milk bun stuffed with ice cream and dusted with icing sugar.
+**Ube**, the purple yam, leads the flavours, alongside Milo, queso and black buko. Order it as a **bilog**: a toasted pandesal milk bun stuffed with ice cream and dusted with icing sugar.
 
-Two honest notes. This is the most social-media-driven place on the page — the colour is made for a camera, and reviewers say outright they came because of TikTok. But it also reviews well on its merits, and the sandwiches are worth the queue. The other: **ube runs out**, regularly and early.
+Two notes. This is the most social-media-driven place on the page — the colour is made for a camera, and reviewers say outright they came because of TikTok. But it also reviews well on its merits, and the sandwiches are worth the queue. The other: **ube runs out**, regularly and early.
 
 ![A bilog cut in half on a wooden tray — a toasted milk bun filled with bright purple ube ice cream and dusted with icing sugar](../../assets/articles/best-ice-cream-london/mamasons-bilog.jpg)
 
@@ -264,7 +264,7 @@ Two honest notes. This is the most social-media-driven place on the page — the
 
 A Marylebone shop built around **Middle Eastern flavours in ice cream** — pistachio, rose, cardamom and halva — which almost nothing else in London is doing at this level.
 
-The **pistachio** is the headline and is made with real pistachio paste rather than flavouring, and the **halva** and **rose** flavours are the ones worth travelling for. Toppings and kunafa are added at the counter.
+The **pistachio** is the standout and is made with real pistachio paste rather than flavouring, and the **halva** and **rose** flavours are the ones worth travelling for. Toppings and kunafa are added at the counter.
 
 **£, walk-in.** Small counter, no seating, and busiest in the evening. The most distinctive ice cream in this guide.
 

@@ -86,7 +86,7 @@ Book as far ahead as the window allows, which in practice means months rather th
 
 ![A full table at Gymkhana: a biryani sealed under a browned pastry lid, seekh kebabs with green chutney, a curry in a copper handi and a whole spiced cauliflower, on patterned china](../../assets/articles/best-indian-restaurants-london/gymkhana.jpg)
 
-*Gymkhana's biryani, ordered properly.*
+*Gymkhana's biryani.*
 
 ▶ **In the videos:** [TOPJAW visits from 14:15](https://www.youtube.com/watch?v=AHUnqeRroYk&t=855s).
 
@@ -159,7 +159,7 @@ Modern Indian in the fine-dining sense: British produce through Indian technique
 
 *The dining room at Amaya, looking towards the grill.*
 
-**An open kitchen of tawa, sigri and tandoor in Belgravia, with a Michelin star for grilling rather than saucing** — which is the whole idea and makes it unlike every other starred Indian room in London.
+**An open kitchen of tawa, sigri and tandoor in Belgravia, with a Michelin star for grilling rather than saucing** — which makes it unlike every other starred Indian room in London.
 
 Three cooking methods, all visible from the tables: the **tawa** griddle, the **sigri** charcoal grill and the **tandoor** clay oven. Order the **tandoori lamb chops** and the griddled scallops; there is barely a curry on the menu and that is deliberate.
 
@@ -187,7 +187,7 @@ It sits inside the St James' Court hotel, a short walk from Buckingham Palace an
 
 **Inside the Grade II listed old Westminster Library**, bookshelves still in place and the gallery still running round the room — the most unusual dining room of any Indian restaurant in London, and it sits close enough to Parliament that it fills with MPs and lobbyists whenever the House is sitting.
 
-Vivek Singh's cooking is Indian technique applied to British produce: **game, venison and grouse in season**, spiced rather than curried, with a wine list built to match. The breakfast service is a genuine oddity worth knowing about.
+Vivek Singh's cooking is Indian technique applied to British produce: **game, venison and grouse in season**, spiced rather than curried, with a wine list built to match. The breakfast service is a genuine oddity.
 
 **££££, closed Sunday, and it books weeks ahead.** Great Smith Street, two minutes from Westminster Abbey.
 
@@ -241,9 +241,9 @@ Which makes it the obvious answer for a group of six or more, and the wrong answ
 
 *The counter at BiBi, facing the grill.*
 
-Chet Sharma's room, and the one on this page that most rewards paying attention. The menu works through regional Indian dishes with fine-dining technique and British produce, and the drinks list was built alongside the food rather than bolted on afterwards.
+Chet Sharma's room, and the one on this page that most rewards paying attention. The menu works through regional Indian dishes with fine-dining technique and British produce, and the drinks list was built alongside the food.
 
-It is small and the seating is scheduled, so allergies, deposits and timings are worth settling when you book rather than on the night.
+It is small and the seating is scheduled, so allergies, deposits and timings are worth settling when you book.
 
 ▶ **In the videos:** [TOPJAW visits from 7:20](https://www.youtube.com/watch?v=AHUnqeRroYk&t=440s).
 
@@ -286,7 +286,7 @@ The **Calcutta biryani** is the dish: Mughlai rice with meat and, distinctively,
 
 *££ · Soho · 1 min from Piccadilly Circus · Cited by 5 sources · British Indian Good Food Guide 2025*
 
-**Started in a Brixton shipping container and grew into several sites**, doing Indian cooking as **small plates rather than curries** — which was a genuinely new idea in London when it opened.
+**Started in a Brixton shipping container and grew into several sites**, doing Indian cooking as **small plates rather than curries** — which was a new idea in London when it opened.
 
 The **Keralan fried chicken** with curry leaf mayonnaise is the signature and has been since the container. Beside it, **bhel puri**, samphire pakoras and a **smoked haddock kedgeree**, ordered four or five at a time across the table.
 
@@ -390,7 +390,7 @@ Named for the sour, dark coastal fruit used along India's western shore, and the
 
 *The dining room at Kanishka.*
 
-Atul Kochhar cooking the north-eastern states — Assam, Nagaland, Sikkim — which almost nothing else in London attempts at any price. The flavours run smokier, more fermented and less obviously "curry" than anything else in Mayfair, and that is the point of going.
+Atul Kochhar cooking the north-eastern states — Assam, Nagaland, Sikkim — which almost nothing else in London attempts at any price. The flavours run smokier, more fermented and less obviously "curry" than anything else in Mayfair, and that is what you go for.
 
 **7 minutes from Benares.**
 
@@ -412,7 +412,7 @@ Cooking from the Himalayan foothills, a region nothing else in London represents
 
 *£££ · Notting Hill · 8 min from Westbourne Park · Cited by 3 sources*
 
-A love letter to the Bombay dining rooms of the 1970s, from the group behind Gymkhana and Trishna — velvet, brass, mirrored panels and a disco-era swagger played entirely straight. The food is north Indian and unfussy; the room is the reason it gets written about.
+A love letter to the Bombay dining rooms of the 1970s, from the group behind Gymkhana and Trishna — velvet, brass, mirrored panels and a disco-era swagger played entirely straight. The food is north Indian and unfussy; it gets written about for the room.
 
 ▶ **In the videos:** [Harrison Webb visits from 18:15](https://www.youtube.com/watch?v=6mDJrJFvllo&t=1095s).
 
@@ -454,7 +454,7 @@ One of the first two Indian restaurants anywhere in the world to win a Michelin 
 
 *Raan, a slow-roasted leg of lamb, at Babur.*
 
-Thirty years of quietly outcooking most of central London, in south-east London, and in the Good Food Guide as well as the BIGFG top 100.
+Thirty years of outcooking most of central London, in south-east London, and in the Good Food Guide as well as the BIGFG top 100.
 
 #### Jikoni, Marylebone
 
@@ -494,7 +494,7 @@ A 1970s Tooting curry house and a Mayfair tasting menu both get called "the best
 
 **Dining rooms** are everything in the two sections above: booked weeks out, £50 and up, tasting menus and sommeliers. **Curry houses** are the neighbourhood institutions — often decades old, family-run, walk-in, and where most Londoners actually eat.
 
-> 🌶️ **A note on what "Indian" means here.** London's best-known curry streets are largely *not* Indian. Brick Lane's kitchens are Bangladeshi; Whitechapel's are Pakistani; Tooting runs to Peshawari and Punjabi Lahori grilling. Those are their own traditions, not sub-types of Indian cooking, and this guide keeps them separate rather than quietly filing them under one word the way most London guides do.
+> 🌶️ **A note on what "Indian" means here.** London's best-known curry streets are largely *not* Indian. Brick Lane's kitchens are Bangladeshi; Whitechapel's are Pakistani; Tooting runs to Peshawari and Punjabi Lahori grilling. Those are their own traditions, not sub-types of Indian cooking, and this guide keeps them separate rather than filing them under one word the way most London guides do.
 >
 > That is a labelling decision, not a quality one — Tayyabs in Whitechapel is among the best-value serious meals in the city. You will find those kitchens in the **[Pakistani restaurants guide](/restaurants/cuisine/pakistani)** instead.
 
@@ -502,7 +502,7 @@ A 1970s Tooting curry house and a Mayfair tasting menu both get called "the best
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-indian-restaurants-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Worth knowing, briefly
+## Also named, briefly
 
 Restaurants the sources back that did not earn a full entry, either because only one or two guides name them or because they sit further out.
 
@@ -535,7 +535,7 @@ Restaurants the sources back that did not earn a full entry, either because only
 * **You cannot book at all** at Shree Krishna Vada Pav or any of the market stalls.
 * **Dishoom takes any party size before 6pm**, and groups of six or more after it. It holds most tables for walk-ins regardless.
 * **Fully vegetarian:** Rasa, Shree Krishna Vada Pav and Horn OK Please. Everywhere else here has a substantial marked vegetarian menu.
-* **Halal** preparation varies by branch and by dish even within one restaurant. Confirm directly with the venue rather than assuming from the cuisine.
+* **Halal** preparation varies by branch and by dish even within one restaurant. Confirm directly with the venue.
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills.
 
 ---

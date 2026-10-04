@@ -76,7 +76,7 @@ From there the canal runs east through **Maida Hill Tunnel**, which you cannot w
 
 *About 1.5 miles · 35 minutes · gasholders and grain stores*
 
-Quieter immediately after Camden, and it improves the whole way. The canal runs behind St Pancras through what was the goods yard of the entire railway age, and is now **Coal Drops Yard** and **Granary Square**. **St Pancras Lock** and the restored **gasholder frames** are the set piece, and **Camley Street Natural Park** — a free two-acre nature reserve on the far bank, reached over Somers Town Bridge — is the thing almost nobody walking this way knows is there.
+Quieter immediately after Camden, and it improves the whole way. The canal runs behind St Pancras through what was the goods yard of the entire railway age, and is now **Coal Drops Yard** and **Granary Square**. **St Pancras Lock** and the restored **gasholder frames** are the set piece, and **Camley Street Natural Park** — a free two-acre nature reserve on the far bank, reached over Somers Town Bridge — is a place almost nobody walking this way knows is there.
 
 > 🗺️ **[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/).** We have this section as a full numbered walk, taken in the other direction: **ten stops with a map**, a Google Maps walking link for your phone, and the opening times to plan round — the nature reserve's 4pm winter closing, Camden's locks shut to boats after 3.30pm, and the fenced-off stretch of towpath you can still walk because there is a floating pontoon round it.
 
@@ -150,7 +150,7 @@ The reeds and lakes here belong to **the Ecology Pavilion**, a Tower Hamlets eve
 
 *The towpath at Bow.*
 
-**The Green Bridge** is the thing to look for — a bridge carrying the park itself, planted with trees, over the four lanes of Mile End Road. You walk through a park and only afterwards realise you crossed a main road.
+**The Green Bridge** is the landmark to look for — a bridge carrying the park itself, planted with trees, over the four lanes of Mile End Road. You walk through a park and only afterwards realise you crossed a main road.
 
 Then the towpath tightens into its best stretch: low bridges, tunnels under the streets, and the light changing every hundred yards.
 

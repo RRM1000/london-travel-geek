@@ -199,7 +199,7 @@ Free, open every day, and the climb is worth timing for late-afternoon light.
 
 ## South east London's ancient woodland
 
-News Shopper's own local reporting, cross-checked against the sources above, adds four further sites — all inside a few miles of Greenwich Park and less written up nationally than the big parks, but genuinely ancient rather than planted for effect.
+News Shopper's own local reporting, cross-checked against the sources above, adds four further sites — all inside a few miles of Greenwich Park and less written up nationally than the big parks, but ancient rather than planted for effect.
 
 - **Oxleas Wood**, Shooters Hill — one of London's oldest woodlands, dating back more than 8,000 years, with hornbeam, oak and hazel; the rose garden at Jack Wood and the historic Severndroog Castle terrace sit inside it. Free. *Cited by 1 source.*
 - **Blackheath**, next to Greenwich Park — open grassland ringed by Georgian and Victorian houses rather than woodland as such, but grouped with its neighbour on the same list. Free. *Cited by 1 source.*
@@ -212,7 +212,7 @@ News Shopper's own local reporting, cross-checked against the sources above, add
 
 *Chingford, Overground, or Leytonstone, Snaresbrook and Wanstead, Central line · Cited by 1 source · Free*
 
-Epping Forest runs 13 miles from east London into Essex, and the part inside Greater London is genuinely reachable on the network: five minutes on foot from Chingford station to the Visitor Centre and Queen Elizabeth's Hunting Lodge, then on to Connaught Water via the Willow Trail. From Leytonstone or Snaresbrook on the Central line, the Hornbeam Trail and Wanstead Park's Chestnut Trail reach the Forest's ancient hornbeam and oak pollards. The Independent reported in April 2026 on an over-300-year-old crab apple tree found here — the real-life original behind the Crabapple Cottage illustration in the children's book series Brambly Hedge, now the start of a themed trail through the Forest.
+Epping Forest runs 13 miles from east London into Essex, and the part inside Greater London is reachable on the network: five minutes on foot from Chingford station to the Visitor Centre and Queen Elizabeth's Hunting Lodge, then on to Connaught Water via the Willow Trail. From Leytonstone or Snaresbrook on the Central line, the Hornbeam Trail and Wanstead Park's Chestnut Trail reach the Forest's ancient hornbeam and oak pollards. The Independent reported in April 2026 on an over-300-year-old crab apple tree found here — the real-life original behind the Crabapple Cottage illustration in the children's book series Brambly Hedge, now the start of a themed trail through the Forest.
 
 ![A grey heron standing in a pond covered with fallen autumn leaves in Epping Forest](../../assets/articles/best-places-autumn-leaves-london/epping-forest-heron.jpg)
 

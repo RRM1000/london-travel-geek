@@ -130,7 +130,7 @@ Grilled meats at the table and a long list of **jjigae** — the bubbling stews 
 
 *Table grill at Cah Chi.*
 
-One of the **oldest Korean restaurants in New Malden**, family-run and considerably plainer than the newer grills — the room people go to for the stews rather than the barbecue.
+One of the **oldest Korean restaurants in New Malden**, family-run and considerably plainer than the newer grills — the room people go to for the stews.
 
 **Sundubu jjigae** — soft tofu stew, arriving at the table still boiling — and **jeon**, the savoury pancakes, are the orders. The **yukhoe** beef tartare is still on the menu, which not every New Malden kitchen bothers with. Barbecue exists and is not the point.
 
@@ -154,7 +154,7 @@ One of the **oldest Korean restaurants in New Malden**, family-run and considera
 
 *Korean fried chicken, Chick and Beers.*
 
-**Family-owned, double-fried, and widely held to be the best Korean fried chicken in London** — in the middle of New Malden's Koreatown rather than in town, which is why it stays honest.
+**Family-owned, double-fried, and widely held to be the best Korean fried chicken in London** — in the middle of New Malden's Koreatown rather than in town, which is why it has not been toned down.
 
 **Double-frying** is the technique and the point: the chicken is fried, rested, then fried again, which drives out the moisture between skin and meat and leaves a shell that stays crisp under sauce. Order it plain and in the **yangnyeom** sweet-hot glaze to compare the two.
 
@@ -224,7 +224,7 @@ The thing to order is the **pyeonbaek steam box**: a three-tiered wooden steamer
 
 A family-run kitchen that **moved from New Malden to Hackney in 2024** and was promptly named Time Out's best restaurant in London — the clearest sign that Korean cooking in this city has stopped being a suburban speciality.
 
-The dish everyone writes about is the **yukhwe beef tartare with crisp Asian pear** — raw beef, sesame and egg yolk, with the sweet-sharp pear cutting through it. Behind it the family's New Malden repertoire: stews, pancakes and banchan made properly rather than scaled down for a Hackney audience.
+The dish everyone writes about is the **yukhwe beef tartare with crisp Asian pear** — raw beef, sesame and egg yolk, with the sweet-sharp pear cutting through it. Behind it the family's New Malden repertoire: stews, pancakes and banchan made at full strength rather than scaled down for a Hackney audience.
 
 **£££, closed Monday, and it books months ahead.** Small room; book the moment you decide.
 
@@ -234,7 +234,7 @@ The dish everyone writes about is the **yukhwe beef tartare with crisp Asian pea
 
 **Korean cooking on the Isle of Dogs rather than in the Wharf itself** — a mile south of the office towers and all the better for it, with prices to match the distance.
 
-**Kimchi jjigae** is the order and the way it is served is the point: portioned out between bowls for a big table rather than served individually, which is how it is eaten at home. Grills and banchan around it.
+**Kimchi jjigae** is the order, and it is served for a big table: portioned out between bowls rather than served individually, which is how it is eaten at home. Grills and banchan around it.
 
 **£££, book a few days ahead.** Worth the walk from Canary Wharf; nothing in the estate itself comes close.
 
@@ -266,7 +266,7 @@ The Korean repertoire rebuilt without meat or fish sauce: **kimchi made without 
 
 *£ · 3 Stroud Green Road · cash only · walk-in only* · Cited by 2 sources
 
-A tiny Finsbury Park room serving **Korean and Japanese food side by side**, which sounds like hedging and works because the kitchen does both properly.
+A tiny Finsbury Park room serving **Korean and Japanese food side by side**, which sounds like hedging and works because the kitchen does both well.
 
 On the Korean side: **bibimbap** in a hot stone bowl, **japchae**, and kimchi jjigae. On the Japanese: katsu, udon and donburi. The stone-bowl bibimbap is the order — the rice crisps against the bowl while you eat it.
 
@@ -278,7 +278,7 @@ On the Korean side: **bibimbap** in a hot stone bowl, **japchae**, and kimchi jj
 
 **The budae jjigae — army stew — is the order**, and it is among the best in London, in a room that spends nothing on looking the part.
 
-Budae jjigae has a history worth knowing: it was built after the Korean War out of American army surplus, and still contains **spam, hot dogs, instant noodles and processed cheese** in a gochujang broth. It should not work and it is one of the great comfort dishes. Grills and stews alongside.
+Budae jjigae dates from after the Korean War: it was built out of American army surplus, and still contains **spam, hot dogs, instant noodles and processed cheese** in a gochujang broth. It should not work and it is one of the great comfort dishes. Grills and stews alongside.
 
 **££, walk-in.** St Giles rather than Soho proper, plain inside, and cheap. Order the army stew and share it.
 
@@ -299,7 +299,7 @@ Korean barbecue is not cheap. Almost everything else on a Korean menu is.
 
 #### Supermarkets and food halls
 
-* **The New Malden Korean supermarkets** are the real bargain. H Mart and the smaller independents along the High Street sell excellent prepared banchan, kimbap and marinated meat to take away, at a fraction of restaurant prices — and they are the reason locals shop there rather than eat out.
+* **The New Malden Korean supermarkets** are the real bargain. H Mart and the smaller independents along the High Street sell excellent prepared banchan, kimbap and marinated meat to take away, at a fraction of restaurant prices — which is why locals shop there rather than eat out.
 * **Seven Dials Market** and **Arcade Food Hall** in central London both carry Korean counters if you want a single dish without committing to a full table.
 
 #### General rules

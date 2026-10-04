@@ -25,7 +25,7 @@ faq:
   - q: "Can you go inside 3 Savile Row, where the Beatles played their last gig?"
     a: "No. It's private premises, and Apple Corps' recording studio there closed in 1975. A blue plaque went up on the façade on 5 April 2019, with Westminster Council's permission, marking the rooftop concert of 30 January 1969, the band's last live performance. You view it from the pavement."
   - q: "Is the Beatles Store on Baker Street run by Apple Corps?"
-    a: "No. It's an independent shop, Come Together Ltd, unaffiliated with the band's company. There is no Apple Corps retail chain in London the way Warner Bros. runs official Harry Potter shops. It's at 231/233 Baker Street, open daily 10am to 6.30pm, a minute from the Tube station, and it does carry a genuinely large range of Beatles merchandise."
+    a: "No. It's an independent shop, Come Together Ltd, unaffiliated with the band's company. There is no Apple Corps retail chain in London the way Warner Bros. runs official Harry Potter shops. It's at 231/233 Baker Street, open daily 10am to 6.30pm, a minute from the Tube station, and it does carry a large range of Beatles merchandise."
   - q: "What's the best way to get from London to Liverpool for the Cavern Club and the Beatles Story?"
     a: "The train from Euston to Liverpool Lime Street, run by Avanti West Coast: 2 hours 15 minutes at the fastest, with advance singles from £14. Or book a packaged day tour from about £194, which bundles the train with the Magical Mystery Tour bus and entry to the Beatles Story."
   - q: "Is there anything left to see at 94 Baker Street, the old Apple Boutique?"
@@ -121,7 +121,7 @@ Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo
 
 *The Beatles Store, Baker Street.*
 
-Ten minutes' walk south, **94 Baker Street** is the honest disappointment. The Beatles' Apple Corps opened the **Apple Boutique** here on 7 December 1967, its ground floor painted in a psychedelic mural by the Dutch design collective the Fool, funded with £100,000 of the band's money. Westminster City Council never approved the mural and forced it to be painted over within six months; the shop itself lost so much money it closed on 31 July 1968, just eight months after opening, with the remaining stock given away rather than sold. The 18th-century house it stood in was demolished by 1972 and replaced with an office block, **Travelscene House, 94 Baker Street, W1U 6FZ**. A **blue plaque** on the building, unveiled 17 March 2013 and crediting both John Lennon and George Harrison (Apple Corps' first office was on the floors above the shop), is the only trace left.
+Ten minutes' walk south, **94 Baker Street** is a disappointment. The Beatles' Apple Corps opened the **Apple Boutique** here on 7 December 1967, its ground floor painted in a psychedelic mural by the Dutch design collective the Fool, funded with £100,000 of the band's money. Westminster City Council never approved the mural and forced it to be painted over within six months; the shop itself lost so much money it closed on 31 July 1968, just eight months after opening, with the remaining stock given away rather than sold. The 18th-century house it stood in was demolished by 1972 and replaced with an office block, **Travelscene House, 94 Baker Street, W1U 6FZ**. A **blue plaque** on the building, unveiled 17 March 2013 and crediting both John Lennon and George Harrison (Apple Corps' first office was on the floors above the shop), is the only trace left.
 
 <div data-stay-strip></div>
 

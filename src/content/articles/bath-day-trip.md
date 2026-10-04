@@ -107,21 +107,21 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 | Small group, 16 seats | <a href="https://www.getyourguide.com/activity/-t602620?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge, Bath and the Cotswolds</a> | 11 | £154 | None — Stonehenge tickets from the guide, about £27 |
 | **Starting in Bath, not London** | <a href="https://www.getyourguide.com/activity/-t525528?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Stonehenge and the Cotswolds from Bath</a> | Full day | **£95** | **Stonehenge** |
 
-**The train still wins if Bath itself is the point.** A tour gives you two or three hours in the city, which is enough for the Roman Baths or a wander, not both, and the one coach product that goes to Bath and nowhere else is unescorted, rated 3.4, and sells the Baths as an upgrade — its reviewers report four to six hours in the city against an advertised eleven-hour day. Advance train tickets at £47.60 return give you the whole day.
+**The train still wins if you mainly want to see Bath.** A tour gives you two or three hours in the city, which is enough for the Roman Baths or a wander, not both, and the one coach product that goes to Bath and nowhere else is unescorted, rated 3.4, and sells the Baths as an upgrade — its reviewers report four to six hours in the city against an advertised eleven-hour day. Advance train tickets at £47.60 return give you the whole day.
 
-**Bath with Stonehenge: <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 Day Tours London trip</a>.** Express entry to Stonehenge is genuinely in the price and the Roman Baths are plainly excluded. It leaves Gloucester Road at 07:00, reaches the stones at 09:30 as they open, and is in Bath from about 12:15 to 15:00. **4.8 from 3,167 reviews**, the best-reviewed Bath tour on the platform.
+**Bath with Stonehenge: <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 Day Tours London trip</a>.** Express entry to Stonehenge is in the price and the Roman Baths are plainly excluded. It leaves Gloucester Road at 07:00, reaches the stones at 09:30 as they open, and is in Bath from about 12:15 to 15:00. **4.8 from 3,167 reviews**, the best-reviewed Bath tour on the platform.
 
 **Bath with the Cotswolds: <a href="https://www.getyourguide.com/activity/-t593863?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Golden Tours at £119</a>** — the only Bath tour here whose includes list carries **Roman Baths entry with no "if selected" clause**. You get the Baths, a guided walk in Bath and Bourton-on-the-Water in twelve hours from Bulleid Way behind Victoria. It rates 4.0 from 71 reviews, so it is a better deal than it is a tour; the £102 Cotswolds trips that look cheaper are the conditional version of the same day.
 
 **Staying in Bath rather than London?** <a href="https://www.getyourguide.com/activity/-t525528?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Rabbie's runs out of Terrace Walk at £95</a> with the Stonehenge ticket included, 4.8 from 781 reviews, back by about 18:00.
 
-> ⚠️ **The title is not the includes list, and on this route the two often disagree.** <a href="https://www.getyourguide.com/activity/-t1408799?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">One £102 tour called "Bath and Cotswolds Day Trip with Roman Baths"</a> lists "Entry to the Roman Baths (ONLY IF PURCHASED)", and <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the most-booked Bath trip of all</a> puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. Many Bath tours word it this way. **Assume the £26.50 Roman Baths ticket is yours to buy** unless the includes list says otherwise without a clause — and note that the 16-seat small-group operators exclude the Stonehenge ticket openly, and print its price, which is the honest version of the same arrangement.
+> ⚠️ **The title is not the includes list, and on this route the two often disagree.** <a href="https://www.getyourguide.com/activity/-t1408799?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">One £102 tour called "Bath and Cotswolds Day Trip with Roman Baths"</a> lists "Entry to the Roman Baths (ONLY IF PURCHASED)", and <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the most-booked Bath trip of all</a> puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. Many Bath tours word it this way. **Assume the £26.50 Roman Baths ticket is yours to buy** unless the includes list says otherwise without a clause — and note that the 16-seat small-group operators exclude the Stonehenge ticket openly, and print its price, so the extra cost is visible up front.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The Roman Baths
 
-This is the reason to come, and its pricing moves on two axes at once: the day of the week and the time of year.
+This is the main sight in Bath, and its pricing moves on two axes at once: the day of the week and the time of year.
 
 ![The terrace above the Great Bath at the Roman Baths, its statues along the balustrade with Bath Abbey rising behind](../../assets/articles/bath-day-trip/roman-baths-terrace.jpg)
 
@@ -171,7 +171,7 @@ Bath is the only city in Britain with naturally hot springs you can actually get
 
 > ⚠️ **Minimum age 16, and the pre-bookable slots are limited.** Thermae Bath Spa is adults-only — 16 to get in, 18 for treatments. Only a limited number of Thermae Welcome slots can be booked ahead; the rest are released on the day as walk-ins, first come first served, run as a virtual queue until the day's capacity is gone. The spa's own advice is to arrive early.
 
-**The Twilight package is the one worth knowing about for a day trip**, because it maps onto the late train home. £60 for one person or £100 for two — the two-person price flagged as a Monday-to-Thursday September offer, full price on Monday and Friday. You get a two-hour session each plus a sharing platter with a seasonal side and a glass of wine, beer, juice or water each in the Springs Café. Monday to Friday only, excluding bank holidays, entry from **15:00 with last full entry at 18:00**, and it is booked by phone on 01225 33 1234. Friday evenings go first.
+**The Twilight package suits a day trip**, because it maps onto the late train home. £60 for one person or £100 for two — the two-person price flagged as a Monday-to-Thursday September offer, full price on Monday and Friday. You get a two-hour session each plus a sharing platter with a seasonal side and a glass of wine, beer, juice or water each in the Springs Café. Monday to Friday only, excluding bank holidays, entry from **15:00 with last full entry at 18:00**, and it is booked by phone on 01225 33 1234. Friday evenings go first.
 
 > 💡 **Travelling with a 12 to 15-year-old? The Cross Bath, not the main spa.** The separate open-air Cross Bath runs 90-minute sessions on **Tuesdays only**, at 10:00, 12:00, 14:00, 16:00 and 18:00, at **£40 a head**. Under-12s are not allowed, but 12 to 15s can go accompanied one-to-one — which the main spa does not permit at any age under 16.
 
@@ -216,7 +216,7 @@ Free for Discovery Card holders and BA1 and BA2 residents with proof of address;
 
 **These are free, and they are the best thing in Bath after the Baths.** The **Royal Crescent** is thirty Bath stone houses built between 1767 and 1775 to designs by John Wood the Younger; **the Circus**, by his father John Wood the Elder, came first, in 1754 to 1769, and **Queen Square** before that, in 1729 to 1734. Walk up from the Abbey through Queen Square, the Circus and Brock Street and you get all three in about fifteen minutes, finishing on the lawn in front of the Crescent.
 
-**Pulteney Bridge** is Grade I listed, designed by Robert Adam between 1769 and 1774 for William Johnstone Pulteney, with shops across both sides — you can cross it without realising you are on a bridge at all, which is the point of it. Free, and the weir below is the other view everyone photographs.
+**Pulteney Bridge** is Grade I listed, designed by Robert Adam between 1769 and 1774 for William Johnstone Pulteney, with shops across both sides — you can cross it without realising you are on a bridge at all. Free, and the weir below is the other view everyone photographs.
 
 **No.1 Royal Crescent** is the one you can go inside. **£16.00 adult, £14.50 concessions, and under-18s free with an accompanying adult** at up to four children per adult. A temporary exhibition is £7 on its own or £2.50 added to main entry. Discovery Card holders get 25% off with the code DISCOVERY26 and Art Fund members 50% with ARTFUND26.
 
@@ -236,11 +236,11 @@ Hours move with the season: 09:45–18:00 daily from 1 July to 21 September, 10:
 
 **The Victoria Art Gallery's Upper Gallery is free**, with a bookable ticket, and takes about 45 minutes to an hour. Its ticketed exhibitions in the lower galleries are £9.00 adult, £4.00 child aged 6 to 18 and £20.50 for two adults and up to four children until 19 November 2026, rising to £10.00, £5.00 and £22.50 from 20 November. Art Fund members pay half.
 
-**Fashion Museum Bath is temporarily closed and reopening in 2030**, in a new building in the centre of the city. The collection is out on the road in the meantime as a travelling mini museum, so check where it has got to rather than walking to the Assembly Rooms expecting to find it.
+**Fashion Museum Bath is temporarily closed and reopening in 2030**, in a new building in the centre of the city. The collection is out on the road in the meantime as a travelling mini museum, so check where it has got to before walking to the Assembly Rooms.
 
 ### Prior Park and the Bath Skyline
 
-**Prior Park Landscape Garden** is National Trust, **£12.00 adult and £6.00 child 5–17 without Gift Aid**, £30.00 for two adults and up to three children, under-5s free, no pre-booking needed. The draw is one of only four Palladian bridges in the world. On the day we checked, the garden and Tea Cabin were open 10:00–16:00.
+**Prior Park Landscape Garden** is National Trust, **£12.00 adult and £6.00 child 5–17 without Gift Aid**, £30.00 for two adults and up to three children, under-5s free, no pre-booking needed. It has one of only four Palladian bridges in the world. On the day we checked, the garden and Tea Cabin were open 10:00–16:00.
 
 > ⚠️ **There is no parking at Prior Park, and none at Prior Park College either, despite sharing the postcode.** Take the **number 2 bus from Dorchester Street or North Parade**, which stops in front of the entrance gate every 10 minutes Monday to Saturday and every 20 minutes on Sunday. On foot it is a mile from the back of the station and very steep.
 
@@ -261,7 +261,7 @@ Less than anywhere else worth visiting this far from London, and none of the hea
 
 *Photo: Jocelyn Erskine-Kellie, Pexels.*
 
-**Leave Paddington at 09:30 and you are in Bath at 10:45, which makes this a genuine full day rather than a rush.** A working shape: Roman Baths on a pre-booked late-morning slot, lunch, the walk up through Queen Square to the Circus and the Royal Crescent, the Abbey or No.1 Royal Crescent in the afternoon, and the spa from 15:00 if you have booked the Twilight package.
+**Leave Paddington at 09:30 and you are in Bath at 10:45, which makes this a full day without a rush.** A working shape: Roman Baths on a pre-booked late-morning slot, lunch, the walk up through Queen Square to the Circus and the Royal Crescent, the Abbey or No.1 Royal Crescent in the afternoon, and the spa from 15:00 if you have booked the Twilight package.
 
 | Last direct train, Bath Spa → Paddington | Departs | Arrives |
 | --- | --- | --- |
@@ -276,7 +276,7 @@ Less than anywhere else worth visiting this far from London, and none of the hea
 
 ## What people get wrong
 
-- **Buying the train ticket on the day.** £75.90 walk-up against £47.60 in Advance singles is the single biggest saving on this trip.
+- **Buying the train ticket on the day.** £75.90 walk-up against £47.60 in Advance singles is the biggest saving on this trip.
 - **Taking the £29.40 "cheapest" same-day fare** and discovering it goes via Salisbury in 3 hours 26 minutes.
 - **Visiting the Roman Baths at the weekend** when the same ticket is £2.50 cheaper on a weekday, and £3 cheaper again in November.
 - **Booking a late Roman Baths slot.** The museum itself says the last slots may be too short, and there is no re-entry.

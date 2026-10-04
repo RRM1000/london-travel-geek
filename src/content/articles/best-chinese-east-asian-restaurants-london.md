@@ -17,7 +17,7 @@ tags: [restaurants, Chinese restaurants, dim sum, Thai restaurants, Korean resta
 draft: false
 faq:
   - q: "What is the best Chinese restaurant in London?"
-    a: "A. Wong in Victoria is the only Chinese restaurant in London holding a Michelin star, and it holds two. Andrew Wong works through the regional cooking of the whole country rather than settling into Cantonese, and the dim sum lunch is the cheaper way in. Five other restaurants are named by four independent sources each: Tao Tao Ju, Plum Valley, Four Seasons, Murger Han and Etles."
+    a: "A. Wong in Victoria is the only Chinese restaurant in London holding a Michelin star, and it holds two. Andrew Wong works through the regional cooking of the whole country, and the dim sum lunch is the cheaper way in. Five other restaurants are named by four independent sources each: Tao Tao Ju, Plum Valley, Four Seasons, Murger Han and Etles."
   - q: "Is Chinatown worth eating in?"
     a: "Yes, if you pick carefully. Tao Tao Ju and Plum Valley are the two most-cited Chinatown rooms, Barshu sits on its edge doing proper Sichuan, and Dumplings' Legend is the xiao long bao standby. Fifteen Chinatown addresses in this guide are named by two or more independent sources; the ones with picture menus in the window generally are not."
   - q: "Where do I get the best dim sum in London?"
@@ -114,7 +114,7 @@ The black-fronted Gerrard Street room, family-run, and one of the four most-cite
 
 **London's benchmark Hong Kong-style roast duck**, and the Queensway room is the original — the business started here in 1990 before it ever reached Chinatown. The most-cited Chinese restaurant across every guide read for this page.
 
-The **roast duck** hangs in the window and is carved to order: lacquered skin, the meat still moist, served over rice or on its own with plum sauce. That is what to order and effectively what the queue outside is for. The rest of the Cantonese menu is competent rather than the point.
+The **roast duck** hangs in the window and is carved to order: lacquered skin, the meat still moist, served over rice or on its own with plum sauce. That is what to order and effectively what the queue outside is for. The rest of the Cantonese menu is competent.
 
 **££ and no bookings** — turn up, expect to wait, and go early evening before the duck sells out.
 
@@ -152,7 +152,7 @@ Walk-in, cheap, and family-run. Take the Victoria line to the end; nothing on th
 
 ## Regional Chinese
 
-Most of London's Chinese food is Cantonese. These kitchens are not, and the difference is the whole reason to seek them out.
+Most of London's Chinese food is Cantonese. These kitchens are not, and that sets them apart.
 
 ### Barshu, Soho — Sichuan
 
@@ -162,9 +162,9 @@ Most of London's Chinese food is Cantonese. These kitchens are not, and the diff
 
 The restaurant that **introduced London to real Sichuan cooking in 2006**, when the city still thought Chinese food meant Cantonese. On the corner of Frith Street and Romilly Street, on the edge of Chinatown rather than in it.
 
-The signature is **water-boiled beef** — a misleading name for beef poached in a bath of chilli oil and Sichuan peppercorn — alongside dry-fried green beans and the numbing-hot dishes the region is built on. **Heat levels are marked on the menu and the marking is honest**, which not every Sichuan menu in London can claim.
+The signature is **water-boiled beef** — a misleading name for beef poached in a bath of chilli oil and Sichuan peppercorn — alongside dry-fried green beans and the numbing-hot dishes the region is built on. **Heat levels are marked on the menu and the marking is accurate**, which not every Sichuan menu in London can claim.
 
-**£££**, moderate noise, and two minutes from Leicester Square. Good for a group that wants to share properly.
+**£££**, moderate noise, and two minutes from Leicester Square. Good for a group that wants to share a full spread.
 
 ### Xi'an Impression, Holloway — Shaanxi
 
@@ -204,7 +204,7 @@ Walk-in, and a short walk from Holborn or Russell Square. If you want the story 
 
 **No menu at all.** You tell them what you dislike and dishes keep arriving until you say stop — a leave-it-to-us format that is among the most unusual ways to eat in London, and has run this way for decades.
 
-The cooking is **Hunanese** rather than Sichuan, which means chilli heat without the numbing peppercorn — sharper, more sour, and served as a long procession of small plates rather than a few large ones. Expect fifteen to twenty dishes; expect not to recognise several of them.
+The cooking is **Hunanese** rather than Sichuan, which means chilli heat without the numbing peppercorn — sharper, more sour, and served as a long procession of small plates. Expect fifteen to twenty dishes; expect not to recognise several of them.
 
 **Book, and go hungry.** Tell them your budget as well as your dislikes when you sit down — the format has no other brake on it.
 
@@ -214,7 +214,7 @@ The cooking is **Hunanese** rather than Sichuan, which means chilli heat without
 
 ![Noodle and Beer's red shopfront at 27 Wardour Street, with round paper lanterns visible through the window](../../assets/articles/best-chinese-east-asian-restaurants-london/noodle-and-beer-shopfront.jpg)
 
-Sichuan cooking built for the small hours: **the kitchen runs to 4am from Thursday to Saturday**, which makes it one of the genuinely late options in central London rather than one that merely claims to be.
+Sichuan cooking built for the small hours: **the kitchen runs to 4am from Thursday to Saturday**, which makes it a real late-night option in central London.
 
 Chilli-oil noodles, dry pot and skewers rather than a banqueting menu — food designed to be eaten with beer at two in the morning. Loud, bright, and full of people who have been somewhere else first.
 
@@ -242,7 +242,7 @@ Walk-in, cheap, and busy at lunch. One of the few places in Chinatown where the 
 
 *The lobster noodles.*
 
-The **lobster noodles** are the reason to come, and the dish most London Chinese restaurants are quietly measured against: a whole lobster over ginger and spring onion noodles, served in the shell.
+Order the **lobster noodles**, the dish most London Chinese restaurants are measured against: a whole lobster over ginger and spring onion noodles, served in the shell.
 
 Beyond it, a full Cantonese seafood menu — steamed fish, razor clams, salt-and-pepper squid — in a room that has not been redecorated in living memory and is all the better for it. The clientele is largely Cantonese-speaking, which is the usual sign.
 
@@ -268,7 +268,7 @@ The **roast duck** is the order, on rice or on its own; roast pork and char siu 
 
 ## Dim sum
 
-Dim sum is Chinese, so it belongs on this page — but it has enough rooms in London to need its own, and [**The Best Dim Sum in London**](/articles/best-dim-sum-london/) compares 15 of them properly, with the trolley rooms and the booking-required ones separated out.
+Dim sum is Chinese, so it belongs on this page — but it has enough rooms in London to need its own, and [**The Best Dim Sum in London**](/articles/best-dim-sum-london/) compares 15 of them in full, with the trolley rooms and the booking-required ones separated out.
 
 The short version: **A. Wong** in Victoria is the two-starred lunch and the most-cited dim sum in the city; **Royal China** in Marylebone and **Yauatcha** in Soho are the reliable mid-range rooms; **Dumplings' Legend** and **Joy King Lau** are the Chinatown standbys; and **Pearl Liang** near Paddington is the one that is worth the odd location.
 
@@ -297,7 +297,7 @@ The menu is enormous and the point is not refinement: **roast meats over rice**,
 
 **Egg tarts, bolo bao and taiyaki made in the window** on Newport Place, at bakery prices — and the queue is usually visible from the Chinatown gate, which is the simplest way to find it.
 
-The **egg tart** is the thing: a wobbling custard in flaky pastry, served warm from the tray. **Bolo bao** — the sugar-crusted pineapple bun, which contains no pineapple — is the other order, and the taiyaki are made to order in fish-shaped irons.
+Order the **egg tart**: a wobbling custard in flaky pastry, served warm from the tray. **Bolo bao** — the sugar-crusted pineapple bun, which contains no pineapple — is the other order, and the taiyaki are made to order in fish-shaped irons.
 
 **£, walk-in.** Named by three independent sources, which is more than most sit-down restaurants in this guide manage.
 
@@ -311,7 +311,7 @@ The **egg tart** is the thing: a wobbling custard in flaky pastry, served warm f
 
 A **glass-walled kitchen on Gerrard Street** where the xiao long bao are folded in front of the queue — the theatre is deliberate and the technique is real.
 
-**Xiao long bao** are the signature: Shanghainese soup dumplings, pleated by hand and steamed to order, and there are forty-odd other dim sum options behind them. Shanghainese rather than Cantonese, which is worth knowing before you order.
+**Xiao long bao** are the signature: Shanghainese soup dumplings, pleated by hand and steamed to order, and there are forty-odd other dim sum options behind them. Shanghainese rather than Cantonese, so order accordingly.
 
 **££, walk-in**, three minutes from Leicester Square. Go at an odd hour; the window queue is the price of the front-row seat.
 
@@ -325,7 +325,7 @@ A **glass-walled kitchen on Gerrard Street** where the xiao long bao are folded 
 
 **Xiao long bao folded to eighteen pleats behind glass** — the Taiwanese chain Ken Hom put in the New York Times' world top ten, and this was its first London site.
 
-The **xiao long bao** are the entire proposition and the eighteen-pleat standard is genuinely enforced: thin skins, hot soup inside, eaten with black vinegar and ginger. Truffle and crab versions cost more and are not better. Noodles and greens fill out the rest.
+The **xiao long bao** are the entire proposition and the eighteen-pleat standard is enforced: thin skins, hot soup inside, eaten with black vinegar and ginger. Truffle and crab versions cost more and are not better. Noodles and greens fill out the rest.
 
 **£££ and it books weeks ahead; walk-in queues are long at peak.** Centre Point is the larger of the two sites and has a bar lounge, which is where to wait.
 

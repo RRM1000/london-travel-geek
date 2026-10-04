@@ -127,7 +127,7 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus the full tradi
 
 **Formica tables, beef dripping, and a room that has not been redecorated in decades** — one of the most-cited chippies in London, and the one that has changed least.
 
-**Fried in beef dripping rather than vegetable oil**, which is the whole argument: a heavier, savoury batter and a flavour most shops abandoned on cost and health grounds. Cod, haddock, rock and skate, with thick chips and a saveloy for anyone who wants one.
+**Fried in beef dripping rather than vegetable oil**, which gives a heavier, savoury batter and a flavour most shops abandoned on cost and health grounds. Cod, haddock, rock and skate, with thick chips and a saveloy for anyone who wants one.
 
 **£, cash-friendly, walk-in, closed Sunday.** Not vegetarian-friendly in any sense — the dripping is in everything, including the chips.
 
@@ -167,7 +167,7 @@ Cod, haddock and **halibut** in a light batter, fried in groundnut oil rather th
 
 **Claims a lineage back to 1871**, which would make it the oldest chippy in London, with **pavement tables on a Covent Garden side street** — a rarity in a district where everywhere is indoors and full.
 
-Large fillets of cod, haddock and plaice in a thick, well-browned batter with chunky chips — a bigger, heavier plate than the Marylebone chippies serve. The outdoor tables are the reason to pick it over the others in the centre.
+Large fillets of cod, haddock and plaice in a thick, well-browned batter with chunky chips — a bigger, heavier plate than the Marylebone chippies serve. The outdoor tables set it apart from the others in the centre.
 
 **££, walk-in.** In the middle of the tourist route, so go early or late; the queue at 7pm is not worth it.
 
@@ -175,11 +175,11 @@ Large fillets of cod, haddock and plaice in a thick, well-browned batter with ch
 
 *££ · Soho · 6 min from Oxford Circus · Cited by 5 sources · #17, Time Out*
 
-**The Soho option**, and the one to know if you want fish and chips inside the theatre district rather than a walk away from it.
+**The Soho option**, and the one to know if you want fish and chips inside the theatre district.
 
-Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in groundnut oil, and the standard sides done properly — **mushy peas, curry sauce, pickled onions**. A small sit-down room behind the counter.
+Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in groundnut oil, and the standard sides — **mushy peas, curry sauce, pickled onions**. A small sit-down room behind the counter.
 
-**££, walk-in.** Two minutes from most of the Shaftesbury Avenue theatres, which is the entire argument for it — eat here before a show rather than trekking to Marylebone.
+**££, walk-in.** Two minutes from most of the Shaftesbury Avenue theatres, so eat here before a show rather than trekking to Marylebone.
 
 ![A long battered fillet and chips on a plate at Golden Union, with a lemon wedge, chopped parsley and a pot of tartare sauce on the table](../../assets/articles/best-fish-and-chips-london/golden-union.jpg)
 
@@ -191,7 +191,7 @@ Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in g
 
 **A south London institution five minutes from Waterloo**, buying from Billingsgate daily and frying several kinds of fish rather than just cod and haddock.
 
-**Prawns and bread and butter arrive unasked while you wait**, which is the house tradition and catches everyone out the first time. The **mushy peas** are the ones people write about, and the cod comes in a batter that shatters properly. **Portions are large enough that the small is usually the right order.**
+**Prawns and bread and butter arrive unasked while you wait**, which is the house tradition and catches everyone out the first time. The **mushy peas** are the ones people write about, and the cod comes in a batter that shatters. **Portions are large enough that the small is usually the right order.**
 
 **££, walk-in, closed Sunday and Monday.** A proper sit-down room, and the best thing to eat within ten minutes of Waterloo.
 
@@ -211,7 +211,7 @@ Fish is bought daily and fried to order in a light batter, with **grilled and ma
 
 ## Time Out's list and the citation counts barely overlap
 
-Worth knowing before you treat any single guide as the answer.
+Treat no single guide as the answer.
 
 Time Out ranks eighteen London chippies, and its number one is **Michael's Fish Bar** in Leytonstone — a cash-only counter with no seating that only one other source names. Its number two, **Fish Lounge** in Clapham, is not in any award. And **Poppies**, the most-cited chippy in the city, does not appear on its list at all.
 
@@ -243,7 +243,7 @@ Everything here comes in under £12, and none of it takes a booking.
 
 **The chippy east London locals vote for** — 61% of Leytonstoner readers picked it — at prices central London stopped charging a decade ago.
 
-Flaky batter, thick chips, and nothing else going on: **a takeaway counter, not a restaurant**, with no seating at all. That focus is the point and the reason the queue forms.
+Flaky batter, thick chips, and nothing else going on: **a takeaway counter, not a restaurant**, with no seating at all. That focus is why the queue forms.
 
 **CASH ONLY, under £10, closed Sunday.** Bring notes and eat it walking; there is nowhere to sit and no card machine. Leytonstone is the far end of the Central line, which is why the prices have not moved.
 
@@ -264,11 +264,11 @@ Fish bought fresh and fried to order in a crisp, light batter, with hand-cut chi
 
 *£ · Camberwell · 6 min from North Dulwich · Cited by 4 sources · #7, Time Out*
 
-**A south London chippy that three separate guides single out over far better-known names**, which is the whole reason it is here rather than a shop with a press office.
+**A south London chippy that three separate guides single out over far better-known names**, which is why it is here rather than a shop with a press office.
 
-Straightforward and done right: cod and haddock in a crisp batter, chips fried properly, and the standard sides. No restaurant menu, no grilled options, no reinvention.
+Straightforward and done right: cod and haddock in a crisp batter, chips, and the standard sides. No restaurant menu, no grilled options, no reinvention.
 
-**£, walk-in, closed Sunday.** Herne Hill, and cheap enough that a full portion still leaves change from a tenner in most weeks. A few minutes from the station and the Sunday market, which is the reason to combine the two.
+**£, walk-in, closed Sunday.** Herne Hill, and cheap enough that a full portion still leaves change from a tenner in most weeks. A few minutes from the station and the Sunday market, so combine the two.
 
 ### Mickey's Chippy, Stoke Newington
 
@@ -284,7 +284,7 @@ Cod and haddock fried to order in a light batter with thick chips, and the sides
 
 *£ · Goswell Road · Cited by 3 sources*
 
-**Pies baked on the premises** — steak and Guinness, steak and Stilton — alongside the fryer, from a business that started about **150 years ago as a butcher's** known for its sausages. The pie is the reason to choose it over a pure chippy.
+**Pies baked on the premises** — steak and Guinness, steak and Stilton — alongside the fryer, from a business that started about **150 years ago as a butcher's** known for its sausages. The pie sets it apart from a pure chippy.
 
 The **steak and Guinness pie** is the signature and the thing to order, with proper chips and gravy. Fish and chips is on the menu and is good; it is not why three sources name it.
 
@@ -346,7 +346,7 @@ The **Mayfair Classic** is the order: a large battered fillet with chips, mushy 
 
 **A Greenwich chip shop that built a large following on review sites rather than in the food press** — fresh fish daily, thick hand-cut chips, and a proper sit-down room behind the counter.
 
-Cod and chips is the order, fried to order in a crisp batter, with generous portions. **Halal preparation is available on request**, which very few chippies offer and which is the reason a good number of people travel to it.
+Cod and chips is the order, fried to order in a crisp batter, with generous portions. **Halal preparation is available on request**, which very few chippies offer and a good number of people travel for it.
 
 **Open 11am–11pm Monday to Saturday and noon–11pm on Sundays** — far later than most chippies, and the reason it works after an evening at the Cutty Sark or the market, both about ten minutes' walk away.
 
@@ -354,11 +354,11 @@ Cod and chips is the order, fried to order in a crisp batter, with generous port
 
 *££ · Dalston · 424–426 Kingsland Road · Cited by 1 source · #11, Time Out*
 
-A **Kingsland High Street institution** and one of the last of the old east London chippies still trading in its original form, in a proper sit-down dining room rather than a counter with a bench.
+A **Kingsland High Street institution** and one of the last of the old east London chippies still trading in its original form, in a proper sit-down dining room.
 
 Cod, haddock, plaice, skate and rock in a light batter, with **matzo-meal and grilled options** alongside — the same north and east London Jewish influence that shapes Nautilus and Toff's. Chips are thick and the portions are large.
 
-**££, walk-in.** Table service, which is unusual for a chippy, and the reason it works for a sit-down dinner rather than a wrapped parcel.
+**££, walk-in.** Table service, which is unusual for a chippy, and the reason it works for a sit-down dinner.
 
 ---
 
@@ -380,7 +380,7 @@ Everything else the sources carry, in descending order of how many name it.
 
 ## The pub version
 
-Several of London's best fish and chips are served in dining rooms rather than chip shops, and the overlap is worth knowing about — our [historic pubs and dining rooms guide](/articles/historic-pubs-dining-rooms-london/) covers the rooms where the building is as much of the reason to go as the plate.
+Several of London's best fish and chips are served in dining rooms rather than chip shops, and our [historic pubs and dining rooms guide](/articles/historic-pubs-dining-rooms-london/) covers the rooms where the building is as much a part of the visit as the plate.
 
 ## What to know before you go
 

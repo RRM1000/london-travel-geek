@@ -21,7 +21,7 @@ faq:
   - q: "Who certifies kosher restaurants in London?"
     a: "Four bodies, and they publish separate lists. The Kashrut Division of the London Beth Din (KLBD) has the largest register. KF Kosher, under the Federation of Synagogues Beth Din, licenses a different set including Reubens, Mazal and Soyo. The Sephardi Kashrut Authority licenses a smaller group. Kedassia, the Union of Orthodox Hebrew Congregations, is the fourth, and it publishes no register online."
   - q: "Is there one list of all London's kosher restaurants?"
-    a: "No, and that is the single most useful thing to know. Each authority publishes only its own licensees, so checking one register gives you a partial answer. Reubens, probably London's best-known kosher restaurant, does not appear on the London Beth Din's list at all because it is certified by KF Kosher."
+    a: "No, and that is the most useful thing to know. Each authority publishes only its own licensees, so checking one register gives you a partial answer. Reubens, probably London's best-known kosher restaurant, does not appear on the London Beth Din's list at all because it is certified by KF Kosher."
   - q: "What does meat, dairy or parev mean on a kosher restaurant listing?"
     a: "It tells you what the whole kitchen is, not just a dish. A meat restaurant serves no dairy and a dairy restaurant serves no meat — they are separate establishments even under the same owner. On Brent Street in Hendon, Bagels Bar at number 84 is dairy and Bagels Bar Grill House at 86 is meat: same name, next door, different kitchens."
   - q: "Are kosher restaurants in London open on Saturday?"
@@ -64,11 +64,11 @@ It produces the clearest illustration in London, on one street in Hendon:
 
 Same name, next door, two kitchens, because they cannot be one. **Novellino** does the same on Golders Green Road — the dairy restaurant at 103, the meat bistro at 111a.
 
-**Certified is not the same as kosher-style.** Kosher-style means food that looks like Jewish cooking without rabbinical supervision. It is a genuine and much-loved category — a great deal of London's salt beef is kosher-style — but it is not kosher, and guides conflate the two constantly. One London list of "Jewish and kosher" restaurants describes **four of its ten entries as not kosher in its own text**. If it matters to you, the only reliable check is a register above, not a listicle. The clearest example is the most-recommended sandwich in London — the salt beef beigel sold 24 hours a day on Brick Lane, which appears in our [best sandwiches in London](/articles/best-sandwiches-london/) guide and on none of the four registers here.
+**Certified is not the same as kosher-style.** Kosher-style means food that looks like Jewish cooking without rabbinical supervision. It is a genuine and much-loved category — a great deal of London's salt beef is kosher-style — but it is not kosher, and guides conflate the two constantly. One London list of "Jewish and kosher" restaurants describes **four of its ten entries as not kosher in its own text**. If you keep kosher, the only reliable check is a register above, not a listicle. The clearest example is the most-recommended sandwich in London — the salt beef beigel sold 24 hours a day on Brick Lane, which appears in our [best sandwiches in London](/articles/best-sandwiches-london/) guide and on none of the four registers here.
 
 **Almost everything closes for Shabbat.** From Friday afternoon to Saturday night, and for festivals. Novellino's own site says it plainly: apart from the Jewish Sabbath and festivals, it is open every day. A Saturday plan will not work; a Friday lunch or a Sunday will.
 
-**Two things the registers guarantee that menus do not mention.** All KLBD dairy restaurants use Chalav Yisrael milk and all its meat restaurants are Glatt. The SKA says the same of its licensees and adds that all use Yashan grain. If those matter to you, they are settled by the certification rather than by asking.
+**Two things the registers guarantee that menus do not mention.** All KLBD dairy restaurants use Chalav Yisrael milk and all its meat restaurants are Glatt. The SKA says the same of its licensees and adds that all use Yashan grain. If you need either, the certification settles it; asking does not.
 
 ## Where they are
 
@@ -104,12 +104,12 @@ Thirty-three establishments, of which thirty are in London — **Balagan** and *
 
 **Decide meat or dairy before you choose a restaurant**, not after. It determines the entire menu, and two places with the same name may be different kitchens.
 
-**Check the register that certifies the place, not a list of restaurants.** If a venue's certification matters to you, the authority's own page is the only thing that settles it — and if a place is not on any of the four, it is not certified, whatever else it may be.
+**Check the register that certifies the place, not a list of restaurants.** To confirm a venue's certification, use the authority's own page — and if a place is not on any of the four, it is not certified, whatever else it may be.
 
 **Do not plan a Saturday.** Friday lunch, Sunday, or a weekday evening.
 
 **In Stamford Hill, ask locally.** No written list of that neighbourhood is complete.
 
-**And if certification is not the thing you are solving for**, this page is the wrong one: our [guide to eating in London](/articles/eat-in-london-guide/) arranges everything else by cuisine, dish and area, and the [vegetarian and vegan guide](/articles/best-vegetarian-vegan-restaurants-london/) is the nearest thing to this one in shape — a rule about what a kitchen does rather than where its cooking comes from.
+**And if you are not looking for certification**, this page is the wrong one: our [guide to eating in London](/articles/eat-in-london-guide/) arranges everything else by cuisine, dish and area, and the [vegetarian and vegan guide](/articles/best-vegetarian-vegan-restaurants-london/) is the nearest thing to this one in shape — a rule about what a kitchen does rather than where its cooking comes from.
 
 *Registers read on 8 September 2026 from each authority's own site. Counts are what those registers listed on that date; certification is added and withdrawn, so check the register itself before relying on it. Kedassia publishes no online register, so its licensees are not represented here.*

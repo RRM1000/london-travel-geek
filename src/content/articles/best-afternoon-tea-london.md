@@ -26,7 +26,7 @@ faq:
     a: "The Ritz takes months for weekend sittings. Claridge's, The Savoy and The Langham want weeks. The Jumeirah Carlton Tower serves daily rather than in sittings, which makes it one of the easier Knightsbridge bookings."
 ---
 
-Afternoon tea is the one London ritual that is genuinely worth doing as a tourist and genuinely easy to overpay for. The difference between a £95 sitting and a £55 one is very often the address rather than the food.
+Afternoon tea is the one London ritual that is worth doing as a tourist and easy to overpay for. The difference between a £95 sitting and a £55 one is very often the address rather than the food.
 
 Arranged by **what you are actually buying** — the historic claim, the room, the spectacle, or the tea itself.
 
@@ -87,7 +87,7 @@ This is the newest entry on the page and the one with the least written about it
 
 The Palm Court is **where the ritual was invented** — The Langham opened in 1865 and was the first hotel in the world to serve afternoon tea, moving it out of aristocratic drawing rooms and into a place anyone could book. It is still the benchmark the others are judged against.
 
-The stand is Victorian-inspired but not museum-piece: sandwiches, scones, and pastries built by **Michel Roux with pastry chef Andrew Gravett**, who changes the sweets seasonally. Vegan, gluten-free and children's versions are all made properly rather than improvised.
+The stand is Victorian-inspired but not museum-piece: sandwiches, scones, and pastries built by **Michel Roux with pastry chef Andrew Gravett**, who changes the sweets seasonally. Vegan, gluten-free and children's versions are all full versions of the menu.
 
 Sixty-five seats on the ground floor, a pianist from 1pm to 7pm, and enough room between tables to talk. Smart casual — no sportswear or flip-flops, but no jacket-and-tie either. **Book weeks ahead for a weekend.**
 
@@ -117,7 +117,7 @@ Finely cut sandwiches, **scones with Cornish clotted cream and strawberry preser
 
 Art Deco Mayfair at its most composed, in the **Foyer and Reading Room** — an ornate gilded space laid with the hotel's signature jade-and-white striped china, which is as recognisable as the building.
 
-Savouries lean British and specific: **smoked Scottish salmon**, seasonal pastries that change through the year, and a tea list running from a rich Oolong to the house Claridge's Blend, made for the room by a tea buyer rather than bought in.
+Savouries lean British and specific: **smoked Scottish salmon**, seasonal pastries that change through the year, and a tea list running from a rich Oolong to the house Claridge's Blend, made for the room by a tea buyer.
 
 **£95 a head, £110 with champagne, £125 with rosé.** The festive menu from early November to 3 January runs £120 on weekdays and £130 at weekends. This is the one where people dress up without being told to.
 
@@ -129,9 +129,9 @@ Savouries lean British and specific: **smoked Scottish salmon**, seasonal pastri
 
 *££££ · the tea merchant's own salon · Cited by 2 sources*
 
-The **Diamond Jubilee Tea Salon**, opened by the Queen in 2012 on the fourth floor of the shop, and the one place in London where the tea list is the point rather than the pastries. Fortnum's has been selling leaf since 1707 and the salon exists to show it off.
+The **Diamond Jubilee Tea Salon**, opened by the Queen in 2012 on the fourth floor of the shop, and the one place in London where the tea list leads and the pastries follow. Fortnum's has been selling leaf since 1707 and the salon exists to show it off.
 
-Savouries are properly British and properly specific: **Suffolk cured ham with piccalilli**, rare breed hen egg with cress, soft smoked salmon. Plain and fruit scones arrive warm with clotted cream, lemon curd and preserves, and the patisserie changes with the season.
+Savouries are British and specific: **Suffolk cured ham with piccalilli**, rare breed hen egg with cress, soft smoked salmon. Plain and fruit scones arrive warm with clotted cream, lemon curd and preserves, and the patisserie changes with the season.
 
 **£84 a head** with a pot of Fortnum's tea, and refills of both the stand and the pot come without asking. Come here if you care about the leaf; come to a hotel if you care about the room.
 
@@ -163,7 +163,7 @@ There are no fixed sittings, which is unusual at this level: tea runs continuous
 
 London's first purpose-built luxury hotel, and the tea is now taken in **The Gallery** rather than the Thames Foyer — peach-lit, with sculpted palms, stained glass and a marble catwalk down the middle of the room.
 
-A procession of finger sandwiches, the hotel's **signature scones**, and sweets brought in waves rather than all at once. The tea list runs to **over thirty leaves**, which is among the longest in London.
+A procession of finger sandwiches, the hotel's **signature scones**, and sweets brought in waves. The tea list runs to **over thirty leaves**, which is among the longest in London.
 
 Served daily from noon to 6.45pm, with a separate **Twilight Tea from 6pm to 9.30pm** for anyone who would rather have it as an evening. Dress elegantly; there is no jacket-and-tie rule.
 
@@ -177,7 +177,7 @@ Served daily from noon to 6.45pm, with a separate **Twilight Tea from 6pm to 9.3
 
 Taken under the **glass dome of the Céleste dining room** at Hyde Park Corner — Regency plasterwork, Wedgwood blue and white, and the brightest of the grand-hotel rooms by a distance. Daylight rather than chandeliers.
 
-The stand is built by head pastry chef **Jolan Thiry** and runs as a **Bridgerton tea**, themed to the series that films in this part of London. Conventional savouries, then pastry work that is genuinely technical rather than novelty.
+The stand is built by head pastry chef **Jolan Thiry** and runs as a **Bridgerton tea**, themed to the series that films in this part of London. Conventional savouries, then pastry work that is technical, not novelty.
 
 **£92 a head, £102 with a cocktail, £110 with Laurent-Perrier La Cuvée.** Hyde Park Corner is the tube; the room is quietest at the earliest sitting.
 
@@ -203,9 +203,9 @@ The distinguishing feature is the **tea master**, who weighs and infuses each bl
 
 *££££ · a garden view · Cited by 3 sources*
 
-The **Rosebery Lounge** backs onto Hyde Park, which makes this the one grand tea with a park view rather than a room view — a bright, high-ceilinged space rather than a gilded one, and calmer than the Piccadilly hotels.
+The **Rosebery Lounge** backs onto Hyde Park, which makes this the one grand tea with a park view — a bright, high-ceilinged space rather than a gilded one, and calmer than the Piccadilly hotels.
 
-Finger sandwiches, then **scones with Devonshire clotted cream** and an unusually good spread of preserves: Pembrokeshire strawberry jam, **rose petal jelly** and wild plum. The pastry course is curated rather than standardised and changes through the year.
+Finger sandwiches, then **scones with Devonshire clotted cream** and an unusually good spread of preserves: Pembrokeshire strawberry jam, **rose petal jelly** and wild plum. The pastry course changes through the year.
 
 **Twenty-nine loose-leaf teas** on the list, and the pairing option is the distinguishing feature — you can take the tea with Champagne, sake, Alsatian wine, beer or a **sparkling tea** flight, which almost nowhere else offers.
 
@@ -256,13 +256,13 @@ The savoury course is unusually ambitious for a tea: **camembert custard tart wi
 
 *The Chinoiserie lounge at Jumeirah Carlton Tower.*
 
-The **Chinoiserie** is a wide, tranquil ground-floor lounge, and it **serves all afternoon rather than in fixed sittings** — which makes it one of the easier Knightsbridge teas to get into at short notice, genuinely useful if you have not booked weeks ahead.
+The **Chinoiserie** is a wide, tranquil ground-floor lounge, and it **serves all afternoon rather than in fixed sittings** — which makes it one of the easier Knightsbridge teas to get into at short notice, useful if you have not booked weeks ahead.
 
 ![The Chinoiserie lounge at the Jumeirah Carlton Tower: a wide, symmetrical ground-floor room with blue velvet sofas, yellow armchairs and a long pastry counter at the far end](../../assets/articles/best-afternoon-tea-london/jumeirah-chinoiserie.jpg)
 
 *The Chinoiserie lounge.*
 
-The current stand is nature-themed and deliberately disrupts the classic order: unexpected pairings through the savouries and pastries rather than the standard progression, alongside a full leaf list and warm scones.
+The current stand is nature-themed and deliberately disrupts the classic order: unexpected pairings through the savouries and pastries, alongside a full leaf list and warm scones.
 
 **From £85.** A live harpist most afternoons, and enough space between tables that it never feels like a sitting.
 
@@ -282,7 +282,7 @@ Served as **High Palms High Tea**: finger sandwiches, freshly baked scones with 
 
 *The Winter Garden at The Landmark.*
 
-> ⚠️ **Go for the room.** Reviews of the food itself are genuinely mixed for something over £70 a head. The atrium is extraordinary; the sandwiches are not. Ask for a table on the atrium floor rather than the gallery above.
+> ⚠️ **Go for the room.** Reviews of the food itself are mixed for something over £70 a head. The atrium is extraordinary; the sandwiches are not. Ask for a table on the atrium floor rather than the gallery above.
 
 ### The Berkeley, Knightsbridge
 
@@ -335,7 +335,7 @@ It holds an **Award of Excellence in the Afternoon Tea Awards 2026**, and it is 
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-afternoon-tea-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Themed, and genuinely different
+## Themed, and different
 
 Not seasonal menus — the ones built around something other than a cake stand.
 
@@ -359,7 +359,7 @@ The Infatuation's line is the useful one — "we were initially sceptical… but
 
 *£££ · the Grand Saloon · Cited by 3 sources · Award of Excellence 2026 · #19 of 28, Time Out*
 
-Tea in the Grand Saloon of a playhouse that has been **in constant use since the 1600s**, which makes it the oldest room on this page by some centuries. It holds an **Award of Excellence 2026** and Time Out ranks it 19th. Worth pairing with a matinée rather than treating as a destination in itself — see our [London theatre guide](/articles/london-theatre-guide/) for what is on.
+Tea in the Grand Saloon of a playhouse that has been **in constant use since the 1600s**, which makes it the oldest room on this page by some centuries. It holds an **Award of Excellence 2026** and Time Out ranks it 19th. Best paired with a matinée, not treated as a destination in itself — see our [London theatre guide](/articles/london-theatre-guide/) for what is on.
 
 ### Nobu Hotel London Portman Square, Marylebone
 
@@ -399,7 +399,7 @@ Finger sandwiches, cakes, and **fruit scones with homemade jam and clotted cream
 
 *£££ · 8 min from Bond Street · Cited by 1 source*
 
-The quietest of the Mayfair grand teas, and the one whose kitchen takes the most liberties. Finger sandwiches blend **British classics with Southeast Asian flavours** rather than staying in 1910, which is either the reason to come or the reason not to.
+The quietest of the Mayfair grand teas, and the one whose kitchen takes the most liberties. Finger sandwiches blend **British classics with Southeast Asian flavours** rather than staying in 1910, which will suit some readers and not others.
 
 English scones with **Cornish clotted cream and homemade strawberry jam**, then a pâtisserie run that changes constantly — hazelnut praliné rocher, matcha choux with cherry jam, a strawberry tart. The signature is the **Connaughty**, a sablé biscuit layered with jam and built as a straight homage to the jammy dodger.
 
@@ -423,7 +423,7 @@ Tucked down a cul-de-sac off St James's, in a hotel built around **17th-century 
 
 *The Stafford's courtyard.*
 
-A straight, well-executed traditional stand: finger sandwiches, warm scones, patisserie, no theme and no gimmick. This is the one to book when you want the format done properly and nothing else.
+A straight, well-executed traditional stand: finger sandwiches, warm scones, patisserie, no theme and no gimmick. This is the one to book when you want the format and nothing else.
 
 **£70 a head, or £87 with a glass of Louis Roederer Collection 243.** Served daily from noon to 5.30pm.
 
@@ -431,7 +431,7 @@ A straight, well-executed traditional stand: finger sandwiches, warm scones, pat
 
 *££££ · 2 min from Victoria · Cited by 2 sources*
 
-The **last family-owned grand hotel in London**, run by the Goring family since 1910, and the one the Royal Family have used as an annexe — the Middletons stayed here the night before the 2011 wedding. That history is the reason to choose it over a larger room.
+The **last family-owned grand hotel in London**, run by the Goring family since 1910, and the one the Royal Family have used as an annexe — the Middletons stayed here the night before the 2011 wedding. That history sets it apart from a larger room.
 
 Delicate pastries, **freshly baked scones**, and finger sandwiches cut with the precision the format is supposed to have, alongside a tea list sourced widely rather than blended in-house. Taken in the Front of House lounge or, in summer, on the garden terrace — a genuine private garden, which almost no central London hotel has.
 
@@ -455,7 +455,7 @@ A Victorian townhouse hotel **facing Kensington Palace and Kensington Gardens** 
 
 *The Milestone's tea lounge.*
 
-Traditional finger sandwiches, freshly baked scones and pastries, with a properly made children's version rather than a smaller adult one. It won an **Award of Excellence at the 2026 Afternoon Tea Awards**, which few of the grander names here can say.
+Traditional finger sandwiches, freshly baked scones and pastries, with a children's version of its own rather than a smaller adult one. It won an **Award of Excellence at the 2026 Afternoon Tea Awards**, which few of the grander names here can say.
 
 **From £85.** The location makes it the obvious stop if you are doing Kensington Palace or the museums the same day, and it books far less far ahead than the Mayfair rooms.
 
@@ -542,7 +542,7 @@ The most reliable value in London afternoon tea, and the rooms are the reason to
 
 ## Afternoon tea that moves
 
-Two of them go somewhere while you eat. Both are genuinely cheaper than the grand hotels, both take ninety minutes, and both are a sightseeing trip you happen to be eating on — which is either the appeal or the objection, depending on what you came for.
+Two of them go somewhere while you eat. Both are cheaper than the grand hotels, both take ninety minutes, and both are a sightseeing trip you happen to be eating on — which is either the appeal or the objection, depending on what you came for.
 
 ### On a Routemaster: the Afternoon Tea Bus Tour
 
@@ -552,7 +552,7 @@ Two of them go somewhere while you eat. Both are genuinely cheaper than the gran
 
 The tea is a full one — finger sandwiches, pastries, cakes — with Birchall teas, coffee or hot chocolate, and bubbly as an upgrade. **Traditional, vegetarian, vegan, gluten-free and halal menus are all available**, though vegan and gluten-free carry a **£3 supplement** and every dietary requirement needs **72 hours' notice by email**. You get a souvenir cup, and a box for whatever you cannot finish.
 
-**Three things to know before you book.** It is **age 5 and over**, with no exceptions and no babies. **There is no toilet on board** for the full ninety minutes. And **VIP seating means the front row of the upper deck**, which is the view you are actually paying for — worth the upgrade if you are here for the sightseeing rather than the scones. There is a wheelchair-accessible bus; ask when booking rather than assuming.
+**Three things to know before you book.** It is **age 5 and over**, with no exceptions and no babies. **There is no toilet on board** for the full ninety minutes. And **VIP seating means the front row of the upper deck**, which is the view you are actually paying for — worth the upgrade if you are here for the sightseeing rather than the scones. There is a wheelchair-accessible bus; ask when booking.
 
 > 💷 **A live discount, while it lasts.** B Bakery is running **25% off weekdays and 15% off weekends** — codes `ONEOFF25` and `ONEOFF15` at checkout. It applies to **September tours only** and must be booked by **30 September 2026**. That takes a weekday seat to about £34.
 
@@ -568,7 +568,7 @@ B Bakery is Brigit's Bakery, which sells the same 90-minute Routemaster tour on 
 
 The boats have a **heated indoor saloon and an open upper deck**, so you can eat downstairs and then go up for the view, which is the right way round to do it. There is a **family ticket: two adults and one child, with a second child free.**
 
-**The seating is the thing to understand.** Tables are **fixed to the floor and pre-allocated before boarding** — you cannot move or choose them on the day, and **window tables seat two people only**, so a group of four will not get one. If the window matters, book as a pair.
+**Seating.** Tables are **fixed to the floor and pre-allocated before boarding** — you cannot move or choose them on the day, and **window tables seat two people only**, so a group of four will not get one. If you want a window, book as a pair.
 
 Vegetarian, vegan or gluten-free are all available, **but not vegan and gluten-free together**. Cancellation is free up to two hours before boarding, which is more forgiving than any hotel on this page.
 
@@ -578,7 +578,7 @@ City Cruises' sailing isn't sold on GetYourGuide. The afternoon tea cruise there
 
 ### Which one
 
-**The bus if you want the sightseeing**, because it covers more landmarks in ninety minutes than any walk could and you are looking at them from the top deck of a Routemaster, which is its own thing. **The boat if you want the tea**, because the food is served properly at a table that is not moving through traffic, the tea is unlimited, and you can get up and walk about.
+**The bus if you want the sightseeing**, because it covers more landmarks in ninety minutes than any walk could and you are looking at them from the top deck of a Routemaster, which is its own thing. **The boat if you want the tea**, because the food is served at a table that is not moving through traffic, the tea is unlimited, and you can get up and walk about.
 
 Neither will beat The Ritz or Claridge's on the tea itself. Both beat them comfortably on price, and both are far easier to book.
 
@@ -586,7 +586,7 @@ There is also **afternoon tea on the London Eye**: <a href="https://www.getyourg
 
 ---
 
-## Worth knowing, briefly
+## Also named, briefly
 
 Rooms the sources back that did not earn a full entry, either because only two guides name them or because the tea is not the main reason to go. The long column is last so it reads on a phone.
 
@@ -599,7 +599,7 @@ Rooms the sources back that did not earn a full entry, either because only two g
 | **[The Swan at the Globe](https://swanlondon.co.uk/)** | Bankside | £££ | 2 sources | Next door to Shakespeare's Globe and overlooking the river; the obvious pairing with a matinée |
 | **[Dean Street Townhouse](https://www.deanstreettownhouse.com/)** | Soho | £££ | 2 sources | A Georgian dining room in the middle of Soho that serves tea all afternoon without ceremony |
 | **[The Zetter](https://thezetter.com/)** | Clerkenwell | £££ | 2 sources | The least grand room on this page, and the easiest to get a table in at short notice |
-| **[The Ivy Chelsea Garden](https://theivychelseagarden.com/)** | Chelsea | £££ | 2 sources | Tea in the garden room or outside under the awning, which is the point of booking it |
+| **[The Ivy Chelsea Garden](https://theivychelseagarden.com/)** | Chelsea | £££ | 2 sources | Tea in the garden room or outside under the awning, which is what you are booking |
 | **[The British Museum](https://www.britishmuseum.org/)** | Bloomsbury | ££ | 2 sources | The Great Court Restaurant, under Foster's glass roof. The cheapest way to eat a stand in a landmark |
 | **[Candella Tea Room](https://candellatearoom.com/)** | Kensington | ££ | 2 sources | A small independent tea room rather than a hotel lounge, and priced like one |
 | **[The Melody](https://www.themelodyrestaurant.co.uk/)** | Victoria | £££ | 2 sources | Inside the St Ermin's Hotel, with the courtyard's bee hives supplying the honey |

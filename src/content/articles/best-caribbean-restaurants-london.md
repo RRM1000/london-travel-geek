@@ -105,7 +105,7 @@ Independent and family-run, with owners who split their time between Jamaica and
 
 *Jam Delish's curry, with rice and peas.*
 
-A **100% vegan** Caribbean restaurant and cocktail bar, and the strength of its citation count is the point: this is not a token entry, it is one of the five best-covered Caribbean rooms in London.
+A **100% vegan** Caribbean restaurant and cocktail bar, and its citation count is strong: this is not a token entry, it is one of the five best-covered Caribbean rooms in London.
 
 **BBQ jerk plantain**, buttermilk oyster mushrooms with a spicy plantain ketchup, and a curry "goat" that contains no goat. Time Out names it their pick for vegan Caribbean outright.
 
@@ -131,7 +131,7 @@ Four sources name it and **only one is a masthead** — the rest are a food blog
 
 *£ · 52 Railton Road, Brixton, SE24 0LF · Cited by 3 sources*
 
-**Maureen runs her Brixton home kitchen as a Jamaican restaurant**, and it is a takeaway operation rather than a room with tables — which is the single thing to know before walking down Railton Road expecting to sit.
+**Maureen runs her Brixton home kitchen as a Jamaican restaurant**, and it is a takeaway operation rather than a room with tables — so do not walk down Railton Road expecting to sit.
 
 The fried chicken is what people write about: golden, jagged, and seasoned in a way none of the sources will commit to explaining. Drumsticks and thighs, stripped to the bone. **Walk-in and takeaway only** — there is no dining room, so plan to eat it somewhere else.
 

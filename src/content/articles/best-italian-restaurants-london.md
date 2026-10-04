@@ -24,7 +24,7 @@ faq:
     a: "River Café takes months and Murano weeks. Padella and Bancone take no bookings at their original sites — turn up and queue, or use the virtual queue. The Big Mamma rooms go weeks out. Most neighbourhood trattorias are a few days."
 ---
 
-London's Italian restaurants stopped being one thing about a decade ago. A Sicilian room in Fitzrovia, a Florentine steak house in Clerkenwell, a Milanese kitchen in London Fields, a Piedmontese butcher's counter in South Kensington — they cook genuinely different food, and "Italian" tells you almost nothing useful about any of them.
+London's Italian restaurants stopped being one thing about a decade ago. A Sicilian room in Fitzrovia, a Florentine steak house in Clerkenwell, a Milanese kitchen in London Fields, a Piedmontese butcher's counter in South Kensington — they cook different food, and "Italian" tells you almost nothing useful about any of them.
 
 So this guide starts with the restaurants the sources actually agree on, then splits the rest by **region**, by **price**, and by **which rooms are worth booking for the room alone**.
 
@@ -90,7 +90,7 @@ The principle is a short menu of very few ingredients handled precisely: **wood-
 
 **Italian cooking through British produce, from the Clove Club team** — the constraint is deliberate and it is what separates the room from a straight trattoria.
 
-The **parmesan fries** are the thing everyone mentions and deserve it, but the pasta is the reason to go: hand-rolled, changing weekly, built on British ingredients rather than imported ones. There is a bar at the front that takes walk-ins and a conservatory dining room behind it.
+The **parmesan fries** are what everyone mentions and deserve it, but the pasta is the main order: hand-rolled, changing weekly, built on British ingredients rather than imported ones. There is a bar at the front that takes walk-ins and a conservatory dining room behind it.
 
 **£££, closed Sunday, books weeks ahead.** Clerkenwell. The bar menu is a cheaper way into the same kitchen.
 
@@ -135,7 +135,7 @@ The signature is **pappardelle with eight-hour beef shin ragù**, and it has bee
 
 *£ · walk-in only · Cited by 9 sources*
 
-**A short menu of hand-rolled pasta at low prices**, which is the entire reason the queue exists and has done since 2016.
+**A short menu of hand-rolled pasta at low prices**, which is why the queue exists and has done since 2016.
 
 Eight or nine dishes, most under a tenner: **pici cacio e pepe**, **tagliarini with Dorset crab**, and the pappardelle with beef shin ragù it shares with Trullo. Pasta is rolled in the room and cooked to order at a counter you can watch.
 
@@ -162,7 +162,7 @@ The **pig skin ragù** with rigatoni is the dish that made its name, and the **h
 
 *£££ · 2 min from Piccadilly Circus · book weeks ahead · Cited by 7 sources*
 
-**Regional cooking from across the whole of Italy, served trattoria-style in a buzzy Soho room** — and **every dish is labelled with the region it comes from**, which is the point of the place.
+**Regional cooking from across the whole of Italy, served trattoria-style in a buzzy Soho room** — and **every dish is labelled with the region it comes from**, which sums up the place.
 
 Everything comes in **small or large plate sizes**, so a table can order eight regional dishes rather than three courses. Expect Piedmontese, Venetian and Sicilian on the same menu. The **counter seats face the kitchen** and are the best in the room.
 
@@ -188,7 +188,7 @@ The restaurants came seventy years later and the shop is still the point: fresh 
 
 *££ · 3 min from Charing Cross · Cited by 5 sources · Bib Gourmand*
 
-Watch the pasta being rolled at the counter, at prices well below what a Bib Gourmand normally costs. The **silk handkerchiefs with walnut butter and confit egg yolk** are the signature and genuinely originated here — the dish has since been copied across half of London.
+Watch the pasta being rolled at the counter, at prices well below what a Bib Gourmand normally costs. The **silk handkerchiefs with walnut butter and confit egg yolk** are the signature and originated here — the dish has since been copied across half of London.
 
 The Covent Garden original takes no bookings for small tables. The Borough and Golden Square sites do, and the pasta is the same.
 
@@ -220,7 +220,7 @@ The section that justifies the page. Each of these cooks somewhere specific rath
 
 **Sicilian cooking with the Moorish influence kept in**, across four floors of a Fitzrovia townhouse — named both for the Bellini opera and for *pasta alla Norma*.
 
-Sicily's Arab inheritance is the through-line and the reason it does not taste like mainland Italian: **saffron, almonds, raisins, cinnamon and spice** in dishes Rome does not cook. Expect **pasta alla Norma** with fried aubergine and ricotta salata, seafood crudo, and arancini done properly.
+Sicily's Arab inheritance is the through-line and the reason it does not taste like mainland Italian: **saffron, almonds, raisins, cinnamon and spice** in dishes Rome does not cook. Expect **pasta alla Norma** with fried aubergine and ricotta salata, seafood crudo, and arancini.
 
 **£££, closed Sunday, and it books ahead.** Charlotte Street. The ground-floor raw bar takes walk-ins when the dining rooms above have gone.
 
@@ -325,7 +325,7 @@ Fassona is a lean Piedmontese breed, and the point is that it is served rare and
 
 ## The nicest rooms
 
-Sometimes the room is the booking. These are the ones people photograph before they eat — and it is worth being honest that on several of them the cooking is good rather than the point.
+Sometimes the room is the booking. These are the ones people photograph before they eat — and on several of them the cooking is good rather than exceptional.
 
 ### The Big Mamma group
 
@@ -348,7 +348,7 @@ Five London rooms from the same French-Italian group, all built to be looked at:
 
 A terrace on top of the **National Theatre** looking straight up the Thames — arguably the best free view attached to any restaurant in London, and no ticket required.
 
-Italian small plates rather than a full menu: cauliflower fritti with aioli, burrata with pickled onions, whatever is seasonal. The wine list is the real draw — natural, low-intervention, heavy on chilled reds and orange.
+Italian small plates rather than a full menu: cauliflower fritti with aioli, burrata with pickled onions, whatever is seasonal. Wine leads: natural, low-intervention, heavy on chilled reds and orange.
 
 **Go for the golden hour and go early.** It is first-come on the terrace and everyone else has had the same idea.
 
@@ -361,7 +361,7 @@ Italian small plates rather than a full menu: cauliflower fritti with aioli, bur
 
 **A Knightsbridge trattoria that has been loudly, unapologetically itself since 1974** — waiters who sing, regulars who have been coming for decades, and no concession to the postcode's usual restraint.
 
-The cooking is the classic Italian repertoire done properly rather than reinvented: **hand-made pasta, veal milanese, whole fish** and a trolley of desserts. Portions are large and the room is deafening by nine.
+The cooking is the classic Italian repertoire done straight rather than reinvented: **hand-made pasta, veal milanese, whole fish** and a trolley of desserts. Portions are large and the room is deafening by nine.
 
 **£££ and it books ahead.** Pavilion Road, minutes from Harrods, and the antithesis of everything else in the area.
 
@@ -374,7 +374,7 @@ The cooking is the classic Italian repertoire done properly rather than reinvent
 
 **A Mayfair fixture since 1978**, now part of the Soho House group — the Burlington Gardens room where the fashion and art trade eats, and one of the few places in London that is busy at every hour it is open.
 
-Venetian-leaning all-day Italian: **cicchetti** at the bar, **crab and chilli linguine**, veal milanese, and a breakfast service that is as booked as dinner. The green-and-white tiled room is as much the draw as the menu.
+Venetian-leaning all-day Italian: **cicchetti** at the bar, **crab and chilli linguine**, veal milanese, and a breakfast service that is as booked as dinner. The green-and-white tiled room is as much a part of the visit as the menu.
 
 **££££ and it books weeks ahead.** Non-members welcome, despite the Soho House ownership. The bar seats take walk-ins.
 
@@ -386,7 +386,7 @@ Venetian-leaning all-day Italian: **cicchetti** at the bar, **crab and chilli li
 
 ## Best value
 
-Everything here is a genuinely good meal well under what the postcode suggests.
+Everything here is a good meal well under what the postcode suggests.
 
 - **Mucci's**, Chelsea — **every starter £10, every main £20**, including a 200g sliced sirloin. A Chelsea steak at that price does not otherwise exist. *Cited by 4 sources*
 - **[Ciao Bella](#ciao-bella-bloomsbury)**, Bloomsbury — a full Italian dinner under £30, with a pianist. *Cited by 5 sources*
@@ -401,7 +401,7 @@ Everything here is a genuinely good meal well under what the postcode suggests.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-italian-restaurants-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Other restaurants worth knowing
+## Other restaurants named
 
 Backed by the sources but not written up above, either because only two guides name them or because they sit further out.
 

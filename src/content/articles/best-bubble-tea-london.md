@@ -211,7 +211,7 @@ The lists that rank highest for this search mostly predate recent closures, and 
 | **Quaker Street Coffee & Bubble Tea** | 2, incl. Time Out #8 | Closed |
 | **Boba Coma**, Leyton | 2, incl. Time Out #7 | Closed |
 
-**Time Out's list was ranked in March 2026, and four of its top ten aren't serving.** That's no knock on Time Out. Shops close faster than any list can keep up. It does show why checking a list against the shops' own listings matters as much as the list itself.
+**Time Out's list was ranked in March 2026, and four of its top ten aren't serving.** That's no knock on Time Out. Shops close faster than any list can keep up. It does show how much a list needs checking against the shops' own listings.
 
 Three chains are open but have moved or lost branches. **Bubbleology** opened London's first bubble tea shop in 2011. Its Soho bar (the one serving boozy bubble teas) and its Bloomsbury shop have both closed, and its remaining London branch is at **Westfield Stratford City**. Its old Rupert Street site is now [Auntea Jenny](#new-openings). **Yi Fang** moved from Shaftesbury Avenue to [Gray's Inn Road](#yi-fang-fruit-tea). **Ding Tea**'s Angel shop has closed, but its [Hackney branch](#chains-and-their-branches) is open.
 

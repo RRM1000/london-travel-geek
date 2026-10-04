@@ -109,7 +109,7 @@ The menu is the old repertoire done without irony: **snails, veal kidneys, duck 
 
 The menu is written in French with no translation, which is part of the act. **Coq au vin**, **bœuf bourguignon** and a whole roast chicken for two, brought to the table in the dish they were cooked in, at tables crowded with dried flowers and mismatched china.
 
-**££££ and it books weeks ahead.** Belgravia. Ask for a corner table; the room is dark enough that it matters.
+**££££ and it books weeks ahead.** Belgravia. Ask for a corner table; the room is dark.
 
 ![Coq au vin in a terracotta dish set on a green-patterned plate, with mashed potato in a floral bowl, a glass of white wine and a wooden pepper mill on the table](../../assets/articles/best-french-restaurants-london/la-poule-au-pot.jpg)
 
@@ -125,7 +125,7 @@ The menu is written in French with no translation, which is part of the act. **C
 
 *££££ · 7 min from Chancery Lane · order in advance* · Cited by 4 sources
 
-**Canard à la presse carved and pressed at the table** — one of the last places in London performing classical French service as theatre, and the reason to book rather than the food alone.
+**Canard à la presse carved and pressed at the table** — one of the last places in London performing classical French service as theatre, and a reason to book beyond the food.
 
 The duck is roasted, carved, and the carcass crushed in a **silver duck press** to extract the juices for the sauce, all in front of you, over about forty minutes. It must be ordered **48 hours in advance**. Beyond it, lobster Thermidor and the rest of the old canon.
 
@@ -139,7 +139,7 @@ The duck is roasted, carved, and the carcass crushed in a **silver duck press** 
 
 Bosi holds two stars at Bibendum and the cooking here is in the same register: French technique, British produce, and a tasting menu that takes its time. The view over Wellington Arch and the park is the other half of the ticket.
 
-**££££, closed Sunday and Monday, and it books months ahead.** Ask for a window table when booking; it is the whole point of being on the roof.
+**££££, closed Sunday and Monday, and it books months ahead.** Ask for a window table when booking, because the view from the roof is what you are paying for.
 
 ![Four small tasting-menu courses on separate white plates and a bowl, each holding a single mouthful, on a white tablecloth](../../assets/articles/best-french-restaurants-london/brooklands.jpg)
 
@@ -179,7 +179,7 @@ The board changes daily and offers exactly three starters, three mains and three
 
 **The Casse-Croûte team in a former park pavilion in Bermondsey**, built around **rotisserie chicken** and a short set menu — the same hands, a different and cheaper format.
 
-The chicken comes off the spit and is the thing to order; there is a **set menu** of five or so courses for anyone wanting the full treatment. The pavilion setting, in Tanner Street Park, is unlike anywhere else in this guide.
+The chicken comes off the spit and is the dish to order; there is a **set menu** of five or so courses for anyone wanting the full treatment. The pavilion setting, in Tanner Street Park, is unlike anywhere else in this guide.
 
 **£££ and it books weeks ahead.** Easier to get into than Casse-Croûte and roughly as good.
 
@@ -205,7 +205,7 @@ The chicken comes off the spit and is the thing to order; there is a **set menu*
 
 Classic brasserie cooking with the theatre intact: **the dessert trolley**, wheeled over and worked through in front of you, and a **grand plateau de fruits de mer** for the table. Steak, sole and soufflé behind them. **Frank's**, the bar downstairs, is a separate and quieter proposition.
 
-**££££ and it books weeks ahead.** One of the few genuinely large French dining rooms in central London.
+**££££ and it books weeks ahead.** One of the few large French dining rooms in central London.
 
 ### Les 2 Garçons, Crouch End
 
@@ -213,7 +213,7 @@ Classic brasserie cooking with the theatre intact: **the dessert trolley**, whee
 
 **A Crouch End neighbourhood bistro that would pass without comment in Lyon** and stands out considerably in north London — run by two Frenchmen, as the name says.
 
-The menu is short and traditional: **escargots, steak tartare, duck confit, crème brûlée**, cooked properly and priced for a neighbourhood rather than for a destination. Nothing on it is trying to be modern.
+The menu is short and traditional: **escargots, steak tartare, duck confit, crème brûlée**, cooked and priced for a neighbourhood rather than for a destination. Nothing on it is trying to be modern.
 
 **£££, closed Sunday and Monday, and it books weeks ahead** — a small room and a local following that fills it.
 
@@ -229,7 +229,7 @@ The menu is short and traditional: **escargots, steak tartare, duck confit, crè
 
 **London's oldest French restaurant**, opened in the 1940s, with a zinc bar salvaged from a Lyon brasserie and four connected dining rooms that have been added one at a time over the decades.
 
-The pre-theatre menu is the reason most people go, and it is genuinely cheap for the postcode.
+Most people come for the pre-theatre menu, which is cheap for the postcode.
 
 ![A tureen of soup with croutons on a lion-footed bowl](../../assets/articles/best-french-restaurants-london/mon-plaisir.jpg)
 
@@ -255,7 +255,7 @@ The pre-theatre menu is the reason most people go, and it is genuinely cheap for
 
 **The Soho pub that was the Free French headquarters in the war** — de Gaulle drank here — with a small dining room above it and **beer served only in halves downstairs**, which is a house rule rather than a gimmick.
 
-The upstairs room does a short, changing menu of French and British cooking: offal, whole fish, and the sort of dishes that suit the room. **No music, no mobile phones downstairs**, and the bar is the point as much as the food.
+The upstairs room does a short, changing menu of French and British cooking: offal, whole fish, and the sort of dishes that suit the room. **No music, no mobile phones downstairs**, and people come for the bar as much as the food.
 
 **£££ and the dining room books weeks ahead.** Drink in halves downstairs first; it is the tradition and they will not serve you a pint anyway.
 

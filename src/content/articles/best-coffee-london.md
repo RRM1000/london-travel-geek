@@ -24,14 +24,14 @@ faq:
     a: "A coffee company whose beans are roasted inside prisons by people it then trains and employs on release. The business exists to reduce reoffending, and the coffee is good on its own terms."
 ---
 
-London's coffee is antipodean by descent — the flat white, the counter format and most of the early shops came from Australia and New Zealand — and it is now good enough that the origin story barely matters.
+London's coffee is antipodean by descent — the flat white, the counter format and most of the early shops came from Australia and New Zealand — and it is now good enough to stand without the origin story.
 
 This is a guide to **independents worth crossing a street for**, not chains. Most are counters rather than cafés, and several deliberately have nowhere to sit.
 
 > 💡 **The Short Version:** **Monmouth** has been roasting since 1978 and remains the default. **Rosslyn** tops the rankings and has almost no seats. **Prufrock** trained most of the city's baristas. **Kaffeine** brought the antipodean thing here. **The Attendant** is inside a Victorian lavatory. And **Redemption Roasters** roasts in prisons.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains. Where a shop roasts its own we say so.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains. Where a shop roasts its own we say so.
 
 ## Where they are
 
@@ -82,7 +82,7 @@ This is a guide to **independents worth crossing a street for**, not chains. Mos
 
 **The Covent Garden shop is considerably quieter and pours the same coffee.** If the queue at Borough is round the corner, walk to Monmouth Street instead.
 
-**2 Park Street, SE1 9AB**, three minutes from London Bridge. **No seats** — this is a hatch and a standing counter, so plan to walk with it rather than sit.
+**2 Park Street, SE1 9AB**, three minutes from London Bridge. **No seats** — this is a hatch and a standing counter, so plan to walk with it.
 
 ### Prufrock Coffee, Clerkenwell
 
@@ -90,7 +90,7 @@ This is a guide to **independents worth crossing a street for**, not chains. Mos
 
 The shop that **trained a generation of London baristas**. It runs its own training centre, which is why so many people behind other counters in this city learned here.
 
-The food is simple and good — toasties, banana bread, a short breakfast list — but the counter is the reason to come.
+The food is simple and good — toasties, banana bread, a short breakfast list — but the counter is what you come for.
 
 ![The white frontage of Prufrock Coffee on Leather Lane, with red-framed pavement tables and chairs outside](../../assets/articles/best-coffee-london/prufrock-coffee-exterior.jpg)
 
@@ -202,7 +202,7 @@ The beans are **roasted inside prisons** by people the company then trains and e
 
 **Walk-in, no bookings.** At **84b Lamb's Conduit Street, WC1N 3LR**, seven minutes from Russell Square and five from Holborn — much the best cup within reach of the British Museum, and better than anything on Great Russell Street itself.
 
-**Lamb's Conduit Street is the reason to make the walk.** Half-pedestrianised and independent end to end, with Noble Rot and Honey & Co on the same short run. **Most of it closes on Sundays**, including here.
+**Walk down Lamb's Conduit Street.** Half-pedestrianised and independent end to end, with Noble Rot and Honey & Co on the same short run. **Most of it closes on Sundays**, including here.
 
 ---
 
@@ -216,7 +216,7 @@ The shops that roast their own, which is where the difference actually gets made
 
 Roasted in **Cornwall** and poured in a clean, modern Shoreditch room. A favourite of the people who take this most seriously, and the one to try if you want to taste what a roaster's own bar does differently.
 
-Pastries and a short toastie list rather than a kitchen, so this is a coffee stop rather than a meal.
+Pastries and a short toastie list, so this is a coffee stop rather than a meal.
 
 ![The counter at Origin Coffee Roasters, with a large colourful mural on the wall and pastries in a glass case](../../assets/articles/best-coffee-london/origin-coffee-counter.jpg)
 
@@ -236,7 +236,7 @@ A **working roastery in the basement with a full kitchen above it** — closer t
 
 *Ozone's kitchen.*
 
-**Walk-in, and the four minutes from Old Street in the line above is the honest figure.** At **11 Leonard Street, EC2A 4AQ**.
+**Walk-in, and the four minutes from Old Street in the line above is the realistic figure.** At **11 Leonard Street, EC2A 4AQ**.
 
 Brunch is the busy service and the queue peaks around 11am at weekends — **come on a weekday if you want the room rather than the wait**, and the basement roastery is running then too, which is half the point of being there.
 
@@ -256,13 +256,13 @@ A roaster's shop where **the filter list changes constantly** and the staff will
 
 *Workshop Coffee. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8401291269), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Walk-in, five minutes from Bond Street** — the most civilised coffee within reach of Oxford Street, which is worth knowing on a shopping day.
+**Walk-in, five minutes from Bond Street** — the most civilised coffee within reach of Oxford Street, which helps on a shopping day.
 
 ### Climpson & Sons, London Fields
 
 *£ · 6 min from Cambridge Heath*
 
-On **Broadway Market since before the street became what it is now**, roasting its own and still busiest on a Saturday. Pair it with the market rather than making a separate trip.
+On **Broadway Market since before the street became what it is now**, roasting its own and still busiest on a Saturday. Pair it with the market.
 
 Pastries and sandwiches from the counter rather than a menu.
 
@@ -270,7 +270,7 @@ Pastries and sandwiches from the counter rather than a menu.
 
 *Climpson & Sons, Broadway Market.*
 
-**Walk-in, and the six minutes from Cambridge Heath in the line above is the honest figure** — London Fields station is about the same.
+**Walk-in, and the six minutes from Cambridge Heath in the line above is the realistic figure** — London Fields station is about the same.
 
 **Saturday is both the best and the worst time**: Broadway Market is on, and so is everybody else. A weekday gets you the same coffee, a seat, and a street that is quiet enough to enjoy — but several of the neighbouring shops are shut.
 
@@ -364,7 +364,7 @@ Perrins Court is a pedestrian lane, so there are outdoor tables and no traffic.
 
 Australian brunch on the canal with a big terrace — **the easiest good coffee within walking distance of Paddington**, which is otherwise a desert for it.
 
-The setting is the point: tables out on the towpath at **Sheldon Square, W2 6EZ**, water on one side and offices on the other.
+The setting is outdoors: tables out on the towpath at **Sheldon Square, W2 6EZ**, water on one side and offices on the other.
 
 **It is an office district, so it empties at weekends** — which cuts both ways. Saturday gets you the terrace to yourself and a reduced operation; a weekday gets the full service and the lunch crowd.
 

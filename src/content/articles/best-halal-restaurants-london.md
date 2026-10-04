@@ -27,7 +27,7 @@ faq:
 
 Eight published guides to halal food in London name 132 restaurants between them. Only thirteen of those are named by more than one, and the three most-cited are Gymkhana, Pizza Pilgrims and Dishoom — some distance ahead of a scattering of places with two mentions each.
 
-That top of the list is a problem, and it is the reason this guide is built differently.
+That top of the list is a problem, and it is why this guide is built differently.
 
 Pizza Pilgrims is a pizza chain that offers halal pepperoni. Dishoom serves pork. Gymkhana's own website does not use the word halal anywhere. None of the three is a halal restaurant in the sense a reader searching this phrase almost certainly means, yet counting citations puts them at the top.
 
@@ -39,7 +39,7 @@ Three things get printed as "halal" in list articles and they are not the same:
 2. **Halal, on the kitchen's own word.** The restaurant sources halal meat and says so. Common, legitimate, and not an audit.
 3. **Halal options.** Part of the menu, or in the weakest cases merely the absence of pork.
 
-The sections below follow that order. Alcohol is recorded where the restaurant makes it clear, because readers differ on whether a licensed bar matters — that is a call for you rather than for a guide.
+The sections below follow that order. Alcohol is recorded where the restaurant makes it clear, because readers differ on whether a licensed bar is acceptable — that is a call for you rather than for a guide.
 
 ## The register almost nobody cites
 
@@ -53,7 +53,7 @@ Neither list is wrong, exactly. They answer different questions. But if your que
 
 Some of the better-known certified rooms, to show it is not all chicken shops: **Aziziye** on Stoke Newington Road (N16 8BU), the Turkish restaurant beneath the tiled mosque; **Dilara Uyghur Restaurant** in Finsbury Park (N4 2JF); **Samarkand** in Stoke Newington (N16 7XJ) for Central Asian cooking; **Anatolia** in Leyton (E10 5QN); and **Toro's Steakhouse** in Tooting (SW17 7BA).
 
-**Read it yourself at [halalhmc.org/outlets-by-name](https://halalhmc.org/outlets-by-name/)**, and note the date you read it — certification lapses and is withdrawn, so a register is a statement about a day rather than a permanent fact.
+**Read it yourself at [halalhmc.org/outlets-by-name](https://halalhmc.org/outlets-by-name/)**, and note the date you read it — certification lapses and is withdrawn, so a register is only a statement about that day.
 
 A note on the other body. The **Halal Food Authority** is the UK's other major certifier, but it publishes no consumer-facing list of certified restaurants — it certifies food production, cosmetics and pharmaceuticals for businesses rather than listing venues for diners. So HMC's register is the only one a diner can actually check.
 
@@ -65,9 +65,9 @@ A note on the other body. The **Halal Food Authority** is the UK's other major c
 
 In capitals on its own homepage: **"ALL MEAT SERVED IS HALAL CERTIFIED."** It does not name the certifying body, which is why it sits below Souk here rather than beside it — but a flat statement of certification on a restaurant's own front page is a stronger claim than the sourcing language most places use, and it is made about everything they serve rather than a subset.
 
-The food is the reason to come regardless. Ramo bills itself as the **world's first Filipino ramen joint**, and the fusion is real rather than a marketing line: Japanese technique, Filipino flavour, so sisig and Filipino braising traditions meet a ramen bowl. The Beef Wonton Ramen is the one they push at Lunar New Year. It is a small Brewer Street room in the middle of Soho, which means it fills fast.
+The food is distinctive regardless. Ramo bills itself as the **world's first Filipino ramen joint**, and the fusion is real rather than a marketing line: Japanese technique, Filipino flavour, so sisig and Filipino braising traditions meet a ramen bowl. The Beef Wonton Ramen is the one they push at Lunar New Year. It is a small Brewer Street room in the middle of Soho, which means it fills fast.
 
-**Open Monday 5pm to 10pm, Tuesday to Thursday noon to 4pm and 5pm to 10pm**, with later weekend service. Worth knowing that the midday and evening services are separate sittings on weekdays — turning up at 4.30pm gets you a closed door.
+**Open Monday 5pm to 10pm, Tuesday to Thursday noon to 4pm and 5pm to 10pm**, with later weekend service. The midday and evening services are separate sittings on weekdays — turning up at 4.30pm gets you a closed door.
 
 This is also the clearest example of the point the mainstream lists keep missing. East and Southeast Asian halal cooking is where this scene is moving, and Time Out leads its own halal guide with Ramo and Cue Point rather than with a curry house.
 
@@ -85,7 +85,7 @@ Asked "Is your food Halal?" in its own FAQ, Souk answers: **"Yes it's 100% Halal
 
 The cooking has been going in central London **since 1998**, which in this part of town is close to geological. **Tagines, couscous and charcoal grills**, in a low-lit basement fitted out with lanterns, rugs and cushioned banquettes — the decor commits completely and is not trying to be subtle about it.
 
-The thing it is genuinely good for is a large group. There is a **set group menu** alongside the à la carte, and the room is built for long tables and noise rather than for a quiet dinner. It is one of the few places in the West End that can feed eight people who cannot agree on anything, at a price that does not require a discussion afterwards.
+It is good for a large group. There is a **set group menu** alongside the à la carte, and the room is built for long tables and noise rather than for a quiet dinner. It is one of the few places in the West End that can feed eight people who cannot agree on anything, at a price that does not require a discussion afterwards.
 
 ### The Great Chase — halal fine dining with an alcohol-free bar
 
@@ -93,7 +93,7 @@ The thing it is genuinely good for is a large group. There is a **set group menu
 
 The only restaurant here that has built its entire identity around the question. It describes itself in its own page title as **halal fine dining and an alcohol-free bar**, and its sourcing statement reads: **"High-welfare, and fully Halal."** There is a page on the site called *Why Halal?* — this is not a kitchen that mentions its status in a footnote.
 
-What it does with that is the interesting part. **Binchotan-grilled steak, dry-aged beef, Beef Wellington, and a Sunday roast** that is the dish it is best known for, with a lamb roast alongside the beef. The bar runs on **rare teas and botanical dry cocktails** rather than a wine list, so the room works as an occasion restaurant for anyone who does not drink — a gap in London that is much wider than the number of restaurants filling it.
+What it does with that is the interesting part. **Binchotan-grilled steak, dry-aged beef, Beef Wellington, and a Sunday roast** that is the dish it is best known for, with a lamb roast alongside the beef. The bar runs on **rare teas and botanical dry cocktails**, so the room works as an occasion restaurant for anyone who does not drink — a gap in London that is much wider than the number of restaurants filling it.
 
 **Closed Mondays.** Tuesday 5.30pm to 9pm, Wednesday to Friday 5.30pm to 10pm, Saturday noon to 10pm, Sunday noon to 9pm. The Sunday roast needs booking.
 
@@ -103,7 +103,7 @@ What it does with that is the interesting part. **Binchotan-grilled steak, dry-a
 
 **"Proudly fully Halal"**, on its own homepage, from a restaurant that has been running since **2016** and calls itself Stratford's original British steakhouse. Its own description of the kitchen says it outright: **hand-cut, dry-aged halal prime steaks.**
 
-Dry-ageing halal beef is not a trivial thing to organise, and it is the reason this room exists — a proper steakhouse proposition rather than a grill house, with British classics on the menu alongside the steaks. The gap it fills is obvious once you notice it: London has a great many steakhouses and almost none of them are halal, so a Muslim diner who wants a dry-aged sirloin in a white-tablecloth room has had very few options.
+Dry-ageing halal beef is not a trivial thing to organise, and it is why this room exists — a proper steakhouse proposition rather than a grill house, with British classics on the menu alongside the steaks. The gap it fills is obvious once you notice it: London has a great many steakhouses and almost none of them are halal, so a Muslim diner who wants a dry-aged sirloin in a white-tablecloth room has had very few options.
 
 Stratford rather than the West End, which keeps the prices sane for what is being served, and puts it a few minutes from the Elizabeth line.
 
@@ -113,7 +113,7 @@ Stratford rather than the West End, which keeps the prices sane for what is bein
 
 Its about page states plainly that **"we serve Halal | Vegan | Gluten-Free | Dairy-Free"**, and it is emphatic that it is **"not your classic London BBQ operator."**
 
-That is accurate. Director **Mursal Saiq's Afghan heritage runs through the branding, the ethos and the recipes**, and head chef **Joshua Moroney** brings smoked barbecue technique drawn from Argentinian, Texan, Afghan, Guyanese and Brazilian traditions. In practice that means **brisket burnt ends and hot link sausages served alongside torshi**, the Afghan pickles — British barbecue built on an Afghan foundation rather than a Texan one. It is the single most distinctive thing in London's halal scene, and explains why Time Out opens its halal guide with it.
+That is accurate. Director **Mursal Saiq's Afghan heritage runs through the branding, the ethos and the recipes**, and head chef **Joshua Moroney** brings smoked barbecue technique drawn from Argentinian, Texan, Afghan, Guyanese and Brazilian traditions. In practice that means **brisket burnt ends and hot link sausages served alongside torshi**, the Afghan pickles — British barbecue built on an Afghan foundation rather than a Texan one. It is the most distinctive thing in London's halal scene, and explains why Time Out opens its halal guide with it.
 
 There is a second thing going on that no published halal list mentions: Saiq and Moroney run the business as a **training route for refugees**, with professional catering qualifications alongside language teaching.
 
@@ -125,7 +125,7 @@ After years of moving between residencies it now has a permanent site in Notting
 
 Asked directly in its FAQ whether it serves halal meat, Berenjak answers: **"We do serve halal meat at all our London restaurants."** The phrasing is worth reading carefully, because it is doing two useful things at once — confirming the meat, and confirming it **across every branch**, which is exactly the per-site question that trips people up with multi-location restaurants.
 
-The cooking is Tehran hole-in-the-wall food done properly: **kababs over charcoal, mahi and jujeh, flatbread baked in the room, and the salads and torshi that go with them.** The Soho original is a narrow counter-led space where you watch the grill work; Borough is the larger room. It is a JKS restaurant, so the execution is sharper and the prices higher than the back-street kababi it is modelled on.
+The cooking is Tehran hole-in-the-wall food: **kababs over charcoal, mahi and jujeh, flatbread baked in the room, and the salads and torshi that go with them.** The Soho original is a narrow counter-led space where you watch the grill work; Borough is the larger room. It is a JKS restaurant, so the execution is sharper and the prices higher than the back-street kababi it is modelled on.
 
 Note that this is a statement about the meat rather than about the whole operation — the restaurants are licensed.
 
@@ -139,7 +139,7 @@ These are not halal restaurants. They are restaurants with a halal component, pu
 
 *£ · Branches across London*
 
-Almost every list that names a chain says "they do halal chicken" and stops. Honest Burgers publishes the whole thing, and it is worth quoting properly because no other restaurant checked here comes close:
+Almost every list that names a chain says "they do halal chicken" and stops. Honest Burgers publishes the whole thing, and it is worth quoting in full because no other restaurant checked here comes close:
 
 **All chicken in its restaurants is halal.** The supplier's halal certificate **can be requested from a server** on arrival. Halal products are **stored separately**, with processes intended to stop cross-contamination. Halal chicken is **handled with separate utensils and gloves**. Fried halal chicken burgers and wings **do not share fryers** with non-halal items.
 
@@ -173,7 +173,7 @@ So the correct question is not whether Pizza Pilgrims is halal but whether *your
 
 *£ · Chinatown · W1D 6AY*
 
-Rasa Sayang describes itself as born out of the hawker scene of Malaysia and Singapore, and refers on its own site to **its halal offerings** — the phrasing points to part of the menu rather than the whole kitchen, so it belongs in this section rather than above it.
+Rasa Sayang describes itself as born out of the hawker scene of Malaysia and Singapore, and refers on its own site to **its halal offerings** — the phrasing points to part of the menu rather than the whole kitchen, so it belongs in this section.
 
 The food is the Chinatown standby for this cooking: **hawker staples done briskly and cheaply**, in a room that runs at volume and is not remotely interested in atmosphere. It is one of the few places in central London doing Malaysian food at this price, which is why it stays busy.
 

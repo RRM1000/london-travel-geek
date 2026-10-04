@@ -15,20 +15,20 @@ faq:
   - q: "What is the best steak restaurant in London?"
     a: "Hawksmoor, on the evidence. Eight independent sources name it — more than anything else — and it is 13th in the World's 101 Best Steak Restaurants 2026, the highest-placed British steakhouse in the city. Ibai in Farringdon places higher on that list at 7th, but it is a Basque asador cooking something quite different."
   - q: "What is the cheapest good steak in London?"
-    a: "Flat Iron, at £15 for a single 200g cut, no bookings and free ice cream at the end. Blacklock's All In is £28 a head for beef, pork and lamb, and its dry-aged steak list starts at £16. Both are genuinely good rather than cheap-for-what-it-is."
+    a: "Flat Iron, at £15 for a single 200g cut, no bookings and free ice cream at the end. Blacklock's All In is £28 a head for beef, pork and lamb, and its dry-aged steak list starts at £16. Both are good rather than cheap-for-what-it-is."
   - q: "What is a Basque asador and how is it different?"
     a: "Basque asadors cook txuleta — rib chops from old dairy cows rather than young cattle — over coals, and serve them rare and sliced for the table. The beef is darker, more mineral and far more intensely flavoured than a British dry-aged sirloin. Ibai, Lurra and Sagardi are London's three."
   - q: "How far ahead should I book?"
     a: "Ibai and Lurra go weeks out. Sagardi is the same style and usually much easier. Flat Iron takes no bookings at all — turn up and queue. Hawksmoor's set lunch is the cheapest way into the same kitchen and is easier to get than dinner."
   - q: "Is steak in London always expensive?"
-    a: "No, but the good cheap options are a short list. Flat Iron at £15, Blacklock's All In at £28 a head, and Hawksmoor's set lunch are the three that give you properly sourced beef without the £100 dinner. Everything else on this page at the top end runs £70 upwards."
+    a: "No, but the good cheap options are a short list. Flat Iron at £15, Blacklock's All In at £28 a head, and Hawksmoor's set lunch are the three that give you well-sourced beef without the £100 dinner. Everything else on this page at the top end runs £70 upwards."
 ---
 
-London does three different things with beef and they are not variations on each other. There is the **British steakhouse** — dry-aged native breeds over charcoal. There is the **Basque asador**, cooking rib chops from old dairy cows and serving them rare, sliced, for the table. And there is the **butcher's counter**, where the animal is the point and the room is incidental.
+London does three different things with beef and they are not variations on each other. There is the **British steakhouse** — dry-aged native breeds over charcoal. There is the **Basque asador**, cooking rib chops from old dairy cows and serving them rare, sliced, for the table. And there is the **butcher's counter**, where the animal comes first and the room is incidental.
 
 Order a txuleta expecting a sirloin and you will be surprised. So this guide starts with the places the sources agree on, then splits the rest by which of those three you actually want.
 
-> 💡 **The Short Version:** **Hawksmoor** is the most-cited steak in London and the British benchmark. **Ibai** is the highest-placed, 7th in the world on the one ranking that covers this category. **Flat Iron** is £15 and genuinely good. **Blacklock** is the value pick and does chops and steaks equally. **The Guinea Grill** is the old-Mayfair one visitors never find.
+> 💡 **The Short Version:** **Hawksmoor** is the most-cited steak in London and the British benchmark. **Ibai** is the highest-placed, 7th in the world on the one ranking that covers this category. **Flat Iron** is £15 and good. **Blacklock** is the value pick and does chops and steaks equally. **The Guinea Grill** is the old-Mayfair one visitors never find.
 
 > 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one visit. This pass reads **21 sources carrying 118 citations** across **60 named restaurants**. **21 restaurants are named by two or more independent sources; 9 carry a dated ranking.**
@@ -85,7 +85,7 @@ The beef is native breed, dry-aged on the bone and cooked over charcoal rather t
 
 *£ · £15 · no bookings · Cited by 7 sources*
 
-**One cut, one price.** No bookings, and the queue moves. The cheapest good steak in central London by a considerable distance, and the second most-cited restaurant on this page — which for a £15 plate is the whole argument. Order the creamed spinach and the beef dripping chips as sides.
+**One cut, one price.** No bookings, and the queue moves. The cheapest good steak in central London by a considerable distance, and the second most-cited restaurant on this page, on a £15 plate. Order the creamed spinach and the beef dripping chips as sides.
 
 ![A flat iron steak sliced on a wooden board, with creamed spinach, beef dripping chips and sauces in enamel dishes](../../assets/articles/best-steak-restaurants-london/flat-iron-steak.jpg)
 
@@ -143,7 +143,7 @@ The Sunday roast here is one of the best in London.
 
 **The 1869 room is Grade II listed and the wooden booths are deliberately uncomfortable** — built as a working man's dining hall and never refitted, with "Progressive Working Class Caterer" still on the sign.
 
-The beef is properly sourced and simply cooked, but the dish that made the room famous is a side: **confit potatoes**, thin-sliced, pressed into a block, confited and fried so the layers separate. Order them regardless of what else you have.
+The beef is well sourced and simply cooked, but the dish that made the room famous is a side: **confit potatoes**, thin-sliced, pressed into a block, confited and fried so the layers separate. Order them regardless of what else you have.
 
 **£££ and it books weeks ahead.** Farringdon. The butcher's shop next door sells the same beef to take home.
 
@@ -263,7 +263,7 @@ Better known as the hardest pint to get in Soho, but the dining room upstairs gr
 
 ---
 
-## Other restaurants worth knowing
+## Other restaurants named
 
 Backed by the sources but not written up above, either because only two guides name them or because they sit outside the styles covered.
 
@@ -291,7 +291,7 @@ Backed by the sources but not written up above, either because only two guides n
 * **Ask how it is aged.** Dry-aged and wet-aged are different products and every restaurant here will tell you which.
 * **Basque txuleta is ordered rare and sliced** for the table. Asking for it well done defeats the point and the kitchen will tell you so.
 * **Steak is priced by weight** at the asadors and butcher counters. Confirm the total before agreeing.
-* **Rest matters.** The good places rest the meat properly, which is why it arrives later than you expect.
+* **Resting takes time.** The good places rest the meat before serving, which is why it arrives later than you expect.
 * **Flat Iron and The Devonshire take no bookings** for their main rooms. Everything else here does, and Ibai and Lurra need weeks.
 * **Service charge** of 12.5% is discretionary and standard.
 

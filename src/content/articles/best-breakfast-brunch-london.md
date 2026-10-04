@@ -129,7 +129,7 @@ Breakfast runs daily, with brunch on Saturday and a Sunday lunch. **Worth [booki
 
 **A Michelin-starred kitchen that serves breakfast, which almost none do.** The menu runs in four parts: fruits, seeds and grains; **viennoiseries baked on site every morning** at the open bakery; a caviar and oysters section; and a savoury selection built around the signature **HIDE croque monsieur**. Elsewhere, **truffled scrambled eggs**, a reworked full English, avocado on toast, and a house granola.
 
-The open bakery is the thing to know about: the bread, cakes and pastries are made in the room and you can watch it happen, which is not true of any other Michelin kitchen doing breakfast here.
+The open bakery sets it apart: the bread, cakes and pastries are made in the room and you can watch it happen, which is not true of any other Michelin kitchen doing breakfast here.
 
 The most expensive breakfast in this guide by a distance, and the one most likely to be somebody's expense account. **Book** ([book a table](https://www.sevenrooms.com/explore/hidegrounduk/reservations/create/search)), and ask for a window table on the park side.
 
@@ -197,9 +197,9 @@ The coffee is taken as seriously as the food: **an exclusive roast with Assembly
 
 ![The counter at Beany Green, its bright painted walls and food display with customers queuing](../../assets/articles/best-breakfast-brunch-london/beany-green.jpg)
 
-Part of the Australian **Daisy Green** group, sitting right on the canal towpath at Paddington Basin with a big terrace — the easiest genuinely good breakfast within walking distance of Paddington station, and the only one on this list where you eat beside narrowboats.
+Part of the Australian **Daisy Green** group, sitting right on the canal towpath at Paddington Basin with a big terrace — the easiest good breakfast within walking distance of Paddington station, and the only one on this list where you eat beside narrowboats.
 
-**Breakfast is served all day, every day**, which is rarer in London than it should be. The award-winning **banana bread sandwich** is the thing to order, with buttermilk blueberry pancakes and a smashed avocado sandwich behind it.
+**Breakfast is served all day, every day**, which is rarer in London than it should be. The award-winning **banana bread sandwich** is the dish to order, with buttermilk blueberry pancakes and a smashed avocado sandwich behind it.
 
 Walk-in, and the terrace is first-come. If it is raining the room is small; if it is not, this is one of the better outdoor breakfasts in central London.
 
@@ -215,7 +215,7 @@ Walk-in, and the terrace is first-come. If it is raining the room is small; if i
 
 An independent on Southwark Street **since 2005**, doing a proper cooked breakfast alongside the brunch menu on seasonal British sourcing rather than the usual imported-avocado economy. There is a second site on Battersea Rise, so check which one a listing means.
 
-The **Borough Full English** anchors the menu, with a whole family of eggs benedicts, sweet and savoury waffles, pancakes and a vegan pancake stack. Prices are among the most honest in central London: **big breakfasts £11–13, breakfast bruschetta £9.50, pancakes and waffles £8–9.**
+The **Borough Full English** anchors the menu, with a whole family of eggs benedicts, sweet and savoury waffles, pancakes and a vegan pancake stack. Its prices: **big breakfasts £11–13, breakfast bruschetta £9.50, pancakes and waffles £8–9.**
 
 **The terrace runs seven days and takes no bookings**, which makes it one of the more likely places to get a table on a Saturday in Bankside.
 
@@ -225,7 +225,7 @@ The **Borough Full English** anchors the menu, with a whole family of eggs bened
 
 *£££ · a separate breakfast menu · 7 London sites*
 
-The steakhouse group does a full English built out of its own butchery, and it is a genuinely different proposition from a café fry-up at roughly a café-fry-up-plus price.
+The steakhouse group does a full English built out of its own butchery, and it is a different proposition from a café fry-up at roughly a café-fry-up-plus price.
 
 **Breakfast for two is £36** and arrives as a shared spread: a **smoked bacon chop**, sausages, black pudding, **short-rib bubble and squeak**, **grilled bone marrow**, trotter baked beans, fried eggs, grilled mushrooms, roast tomatoes, **HP gravy** and unlimited toast. The bone marrow on the same plate as the eggs is the part people remember.
 
@@ -238,7 +238,7 @@ The steakhouse group does a full English built out of its own butchery, and it i
 
 ## Coffee-first
 
-Places where the coffee is the reason and the food is very good anyway.
+Places where you come for the coffee and the food is very good anyway.
 
 ### Kaffeine, Fitzrovia
 
@@ -265,7 +265,7 @@ Coffee is **Square Mile**, with the guest espresso and filter rotated regularly,
 
 *Prufrock's pavement tables.*
 
-The coffee is the point and the food is better than it needs to be: **veggie eggs benedict with soft poached eggs and bitter greens**, and a dense coconut and almond cake among the counter bakes.
+Come for the coffee; the food is better than it needs to be: **veggie eggs benedict with soft poached eggs and bitter greens**, and a dense coconut and almond cake among the counter bakes.
 
 Weekday mornings it fills with people working; it is one of the few serious coffee shops in central London with both room and power sockets. Leather Lane's street market runs outside at lunchtime.
 
@@ -281,7 +281,7 @@ The original site is a **watch house built between 1810 and 1812** to guard the 
 
 Coffee is roasted in-house, and the counter runs to **pastries, fresh bakes and very good sandwiches** rather than a full kitchen. The group splits its sites into Espresso Houses, which do bakes and sandwiches like this one, and larger Brunch Houses that serve **oat and rye porridge, breakfast classics and seasonal plates** until 11am — so check which kind you are walking into.
 
-From this one room the group has grown across the City, out to Bath and into New York, which makes it the most successful London coffee export of the last decade. The other sites are comfortable; this one is the story.
+From this one room the group has grown across the City, out to Bath and into New York, which makes it the most successful London coffee export of the last decade. The other sites are comfortable; this one is where it started.
 
 ### Ginger & White, Hampstead
 
@@ -336,7 +336,7 @@ Weekend brunch pulls dishes from the main bistro carte alongside the breakfast o
 
 *Weekend only · Sat and Sun 10am–3.30pm* · Cited by 2 sources
 
-The Queen's Park sibling of Berenjak and Palomar, cooking across the **Eastern Mediterranean** rather than committing to one country, in a relaxed all-day room that reads as a neighbourhood restaurant rather than a destination.
+The Queen's Park sibling of Berenjak and Palomar, cooking across the **Eastern Mediterranean** rather than committing to one country, in a relaxed all-day room that reads as a neighbourhood restaurant.
 
 The centrepiece is the **tabun oven**, and the flatbreads that come out of it with a changing set of seasonal toppings are what to order. Around them, morning mezze, pastries baked in-house, and a short list of plates that shifts constantly.
 
@@ -350,7 +350,7 @@ The centrepiece is the **tabun oven**, and the flatbreads that come out of it wi
 
 *Weekend only · bottomless £24 an hour* · Cited by 2 sources
 
-A pocket-sized Peckham room doing **Taiwanese steamed bao** and small plates, and the brunch is the most genuinely different thing on this page — nobody else in London is serving a fry-up inside a bao bun.
+A pocket-sized Peckham room doing **Taiwanese steamed bao** and small plates, and the brunch is the most different thing on this page — nobody else in London is serving a fry-up inside a bao bun.
 
 The **hash brown bao** is the one to order: crispy rösti, shiitake mushrooms, cheese and chilli bean sauce inside a steamed bun. Beside it a **bacon bao** with a smoked ham hock fritter and plum sauce, **The Drunken Prawn** with pickled mooli and spiced spring onions, a beef brisket bao, and a salmon and onsen egg bao. Order smacked cucumber, sticky edamame and the flaky jiang bing crepe to share, and the **smoked salmon chawanmushi** with ginger and crispy potato if it is on.
 
@@ -377,7 +377,7 @@ American in the grand sense rather than the diner sense. The **chocolate brioche
 
 *Saturday only · no bookings, card only* · Cited by 2 sources
 
-A small corner café on Stoke Newington Church Street run by **Nia and Jack**, who make as much as they possibly can in-house — the jams, the yoghurts, the pickles, the cakes. That is the whole proposition, and it is why the same people come every week.
+A small corner café on Stoke Newington Church Street run by **Nia and Jack**, who make as much as they possibly can in-house — the jams, the yoghurts, the pickles, the cakes. That is why the same people come every week.
 
 The menu changes with the season and keeps three fixtures: **Bircher muesli with a seasonal compote**, a **French toast** that gets rebuilt constantly (whipped ricotta, kumquat and cranberries in winter), and an egg dish, fried or poached, with whatever is good that month.
 
@@ -424,7 +424,7 @@ Small, busy, and geared to people who care which roaster is on. Counter service;
 
 An all-day bistro a minute from Brixton station, in a converted laundry — plants, tiles, and a room that manages to be busy without being a scrum, which is rarer in Brixton on a Saturday than it should be.
 
-The **toasted banana bread with honeycomb butter** is the thing regulars order, and the **courgette and cheddar cornbread** with black bean and tomato salsa under a green goddess dressing is the dish that shows what the kitchen can actually do. A full menu of eggs and bigger plates behind both.
+The **toasted banana bread with honeycomb butter** is what regulars order, and the **courgette and cheddar cornbread** with black bean and tomato salsa under a green goddess dressing is the dish that shows what the kitchen can actually do. A full menu of eggs and bigger plates behind both.
 
 **Brunch runs 10am to 3pm on Saturdays**, and the kitchen is open all day the rest of the week. Book at weekends ([the venue's site](https://www.thelaundrybrixton.com/)).
 
@@ -434,7 +434,7 @@ The **toasted banana bread with honeycomb butter** is the thing regulars order, 
 
 **British and Irish cooking** in Fish Island Village, on the canal behind the Olympic Park — a bright, plain room that is one of very few reasons to eat in this part of east London on a weekend morning, and much calmer than anywhere in Hackney proper.
 
-The **Full Irish** is the headline, but the interesting things are around it: **roast potato farls with eggs**, porridge with poached quince, blackberries and a brown butter crumble, **brûléed French toast with caramelised baked apples**, a fine herb omelette with butterhead salad, and house-made Irish brown or tin loaf toast with their own jam.
+The **Full Irish** is the signature dish, and the rest of the menu is interesting too: **roast potato farls with eggs**, porridge with poached quince, blackberries and a brown butter crumble, **brûléed French toast with caramelised baked apples**, a fine herb omelette with butterhead salad, and house-made Irish brown or tin loaf toast with their own jam.
 
 ![Slices of Irish brown bread with butter and creamed greens on the table at Inis](../../assets/articles/best-breakfast-brunch-london/inis-brown-bread.jpg)
 
@@ -448,7 +448,7 @@ Open for breakfast, brunch, lunch and a **Sunday lunch**. Worth booking at weeke
 
 The Burnt group started as a neighbourhood room on Askew Road in Shepherd's Bush and this is its most complete site: **café, restaurant and a working bakery under one railway arch** on Poyser Street. Bare brick, high curved ceiling, and the bakery visible from the tables.
 
-The brunch menu is genuinely inventive rather than decorated — a **crab and 'nduja herby omelette** with brown crab aioli and fried bread, and **aloo gobi fried eggs** under a coriander salsa. The bakery counter changes daily and runs to things like a **Welsh rarebit custard danish** and kimchi loaves. Coffee is **Climpson & Sons**, roasted a mile away in Hackney.
+The brunch menu is inventive rather than decorated — a **crab and 'nduja herby omelette** with brown crab aioli and fried bread, and **aloo gobi fried eggs** under a coriander salsa. The bakery counter changes daily and runs to things like a **Welsh rarebit custard danish** and kimchi loaves. Coffee is **Climpson & Sons**, roasted a mile away in Hackney.
 
 ![A brunch plate of spiced scrambled eggs with roasted tomato halves and sautéed greens at Burnt Arches](../../assets/articles/best-breakfast-brunch-london/burnt-arches-brunch-plate.jpg)
 
@@ -508,7 +508,7 @@ Counter service and communal seating, so it works for one person with a book and
 
 ## Cheap, and open early
 
-**The honest finding: a cheap fry-up still exists, but not where the guides look.** Across the thirteen caffs one specialist has priced, the spread runs from **£6.50 to £18.50**. The cheap end is mostly outside zone 1 — Riccardo's Café in Liverpool Street is the one Zone 1 exception under £10. Central London caffs otherwise cluster around £11–£13; the rest of the sub-£10 caffs are in Newham, Leytonstone, Pimlico and Hammersmith. The modern brunch rooms start around £13 for a plate of eggs.
+**A cheap fry-up still exists, but not where the guides look.** Across the thirteen caffs one specialist has priced, the spread runs from **£6.50 to £18.50**. The cheap end is mostly outside zone 1 — Riccardo's Café in Liverpool Street is the one Zone 1 exception under £10. Central London caffs otherwise cluster around £11–£13; the rest of the sub-£10 caffs are in Newham, Leytonstone, Pimlico and Hammersmith. The modern brunch rooms start around £13 for a plate of eggs.
 
 #### Under £10, and all of them a train ride out
 
@@ -523,7 +523,7 @@ Counter service and communal seating, so it works for one person with a book and
 
 * **Regency Café**, Westminster — a **set breakfast at £9.99**, which is close to the floor for a sit-down cooked breakfast in central London. Open since 1946, black-tiled, order shouted across the room. Monday to Saturday, 7am to 3.30pm, closed Sundays. *Cited by 3 sources*
 * **Terry's Café**, Southwark — the Standard is **£15.50** and the Works **£18.50** with Cumberland sausage, bubble and squeak and black pudding. Daily 7.30am–3pm. Not cheap any more, but home-cured bacon and a family running it since 1982. *Cited by 4 sources*
-* **E Pellicci**, Bethnal Green — Grade II listed, family-run since 1900, and one of the last genuinely unchanged rooms in the East End. Cash-friendly, closed Sundays. *Cited by 3 sources*
+* **E Pellicci**, Bethnal Green — Grade II listed, family-run since 1900, and one of the last unchanged rooms in the East End. Cash-friendly, closed Sundays. *Cited by 3 sources*
 * **The Electric Café**, West Norwood — named by three sources and almost never by a national guide. *Cited by 3 sources*
 * **The River Café**, Putney Bridge — **£11.60**. The caff, not the Michelin-starred Italian in Hammersmith; two sources name this one and mean the fry-up. *Cited by 2 sources*
 * **Andrew's Café**, Holborn — **£11.80**, running since the 1970s. *Cited by 2 sources*
@@ -543,7 +543,7 @@ Counter service and communal seating, so it works for one person with a book and
 
 ---
 
-## Worth knowing, briefly
+## Also named, briefly
 
 Six more rooms that two independent sources each name, and every one of them is a neighbourhood room rather than a central one — which is where London actually eats brunch.
 

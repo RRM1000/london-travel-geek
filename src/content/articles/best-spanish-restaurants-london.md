@@ -24,7 +24,7 @@ faq:
     a: "Most do, including the Barrafina counters, which take reservations through their own site. José on Bermondsey Street is the notable exception — standing room, no bookings, and you queue. Pizarro a few doors along is the bookable version of the same chef's cooking."
 ---
 
-Spanish food in London has quietly become one of the city's strongest cuisines, and it splits into two things that barely resemble each other: **tapas counters** where you stand and eat with your hands, and **Basque asadors** built around a coal fire and a single enormous piece of beef.
+Spanish food in London has become one of the city's strongest cuisines, and it splits into two things that barely resemble each other: **tapas counters** where you stand and eat with your hands, and **Basque asadors** built around a coal fire and a single enormous piece of beef.
 
 > 💡 **The Short Version:** **Sabor** is the best, and the suckling pig is upstairs. **Lurra** and **Ibai** do proper Basque asador beef. **José** is standing-room, no bookings, and the best cheap plate of jamón in London. **Pizarro** is the same chef with tables. And **Barrafina** is the counter everyone copies.
 
@@ -59,7 +59,7 @@ Spanish food in London has quietly become one of the city's strongest cuisines, 
 
 **Nieves Barragán Mohacho cooks her mother's Basque and Galician repertoire downstairs and roasts suckling pig in a wood oven upstairs** — two restaurants stacked in one building, and you should know which one you have booked.
 
-Downstairs is a counter and a tapas menu; **upstairs is El Asador**, where the **suckling pig** comes out of the wood oven with skin you can hear from the next table, alongside Galician octopus. The pig is the reason to climb the stairs.
+Downstairs is a counter and a tapas menu; **upstairs is El Asador**, where the **suckling pig** comes out of the wood oven with skin you can hear from the next table, alongside Galician octopus. Climb the stairs for the pig.
 
 **££££, closed Sunday, books weeks ahead — and the upstairs asador books separately.** One of three Spanish restaurants in London holding a Michelin star.
 
@@ -83,7 +83,7 @@ A grill house built around a coal fire and aged beef. London has two proper ones
 
 *££££ · 3 min from Marble Arch* · Cited by 2 sources
 
-**Aged Galician beef and whole turbot over coals**, from the Donostia team — the Basque **asador** format done properly, which means the fire does everything and the kitchen does very little else.
+**Aged Galician beef and whole turbot over coals**, from the Donostia team — the Basque **asador** format, which means the fire does everything and the kitchen does very little else.
 
 The **txuleta** is the order: aged Galician beef, cooked over embers, rested and carved at the table, and priced by weight. Whole **turbot** grilled in a basket is the other, and between them they are the whole argument for the restaurant.
 
@@ -93,9 +93,9 @@ The **txuleta** is the order: aged Galician beef, cooked over embers, rested and
 
 *££££ · 4 min from Barbican* · Cited by 3 sources
 
-**Fire-led Basque cooking and some of the best beef in the country**, from the team behind Donostia — a tribute to the original Ibai in San Sebastián, and one of the few London rooms where the grill is genuinely the kitchen.
+**Fire-led Basque cooking and some of the best beef in the country**, from the team behind Donostia — a tribute to the original Ibai in San Sebastián, and one of the few London rooms where the grill is the kitchen.
 
-Aged beef over coals, whole fish, and vegetables given the same treatment — leeks and peppers charred properly rather than passed over the fire for effect. The menu is short because the format does not allow for a long one.
+Aged beef over coals, whole fish, and vegetables given the same treatment — leeks and peppers charred through rather than passed over the fire for effect. The menu is short because the format does not allow for a long one.
 
 **££££, closed Sunday, and it books weeks ahead.** Small room; the counter seats look straight at the grill.
 
@@ -111,7 +111,7 @@ Aged beef over coals, whole fish, and vegetables given the same treatment — le
 
 Order from the specials board rather than the printed menu: **prawns, razor clams, tortilla**, and whatever came in that morning, cooked a foot in front of you. The **jamón** is carved to order and worth the money.
 
-**You can book**, which is worth knowing because the group's reputation for queues is out of date — reservations go through its own site. Walk-ins are still taken if there is space at the counter. Five London sites now: Dean Street, Adelaide Street, Drury Lane, Coal Drops Yard and Borough Yards, and Dean Street remains the best of them.
+**You can book**: the group's reputation for queues is out of date — reservations go through its own site. Walk-ins are still taken if there is space at the counter. Five London sites now: Dean Street, Adelaide Street, Drury Lane, Coal Drops Yard and Borough Yards, and Dean Street remains the best of them.
 
 ### José, Bermondsey
 
@@ -147,7 +147,7 @@ Larger plates than the bar: **suckling pig, whole fish, slow-cooked lamb**, with
 
 **One of the rooms that started London's small-plates habit**, and still doing the dish it became known for.
 
-**Courgette flowers stuffed with goat's cheese and drizzled with honey** is the signature and has been on the menu since the beginning — one of the few genuinely famous small plates in the city. The rest of the menu runs Spanish and Italian charcuterie side by side.
+**Courgette flowers stuffed with goat's cheese and drizzled with honey** is the signature and has been on the menu since the beginning — one of the few famous small plates in the city. The rest of the menu runs Spanish and Italian charcuterie side by side.
 
 **£££, book a few days ahead.** Fitzrovia, and calmer than the Soho tapas bars at almost any hour.
 
@@ -175,7 +175,7 @@ Expect **txuleta**, whole fish and charred greens, plus pintxos at the bar if yo
 
 *££ · croquettes and little else* · Cited by 3 sources
 
-**Built around the croqueta and not much else** — a single-dish bar, done properly, which is a braver idea than it sounds.
+**Built around the croqueta and not much else** — a single-dish bar, which is a braver idea than it sounds.
 
 **Croquetas** in a rotating list of fillings: jamón, mushroom, salt cod, whatever is on that week. The test of a croqueta is the béchamel — it should be barely holding together inside a crisp shell, and here it is. Sherry and vermouth to go with them.
 
@@ -243,7 +243,7 @@ Skewers arrive raw and you grill them over the coals in front of you: **prawns, 
 
 *££ · seafood tapas* · Cited by 2 sources
 
-**Scottish seafood cooked the Spanish way in Stoke Newington** — the name is the whole idea, and it is a better one than most fusion premises.
+**Scottish seafood cooked the Spanish way in Stoke Newington** — the name says it, and it is a better idea than most fusion premises.
 
 Shellfish from Scottish waters treated with Spanish technique: **grilled langoustines, octopus, razor clams**, and whatever came down from the coast that week, with sherry and Spanish wine alongside. Short menu, changing constantly.
 
@@ -267,7 +267,7 @@ Tapas is designed to be cheap and London has mostly forgotten that. These are th
 
 * **José**, Bermondsey — standing room, no bookings, and still the cheapest way to eat seriously good Spanish food in London.
 * **Barrafina at the counter** — the counter is the only seating, so you are not paying for a table.
-* **Bar Kroketa** — a plate of croquettes and a glass of fino is a genuinely cheap meal.
+* **Bar Kroketa** — a plate of croquettes and a glass of fino is a cheap meal.
 
 #### How to order
 

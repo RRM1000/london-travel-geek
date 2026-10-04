@@ -17,7 +17,7 @@ tags: [restaurants, Middle Eastern, Lebanese, Turkish restaurants, Greek restaur
 draft: false
 faq:
   - q: "What is the best Middle Eastern restaurant in London?"
-    a: "Al Waha in Bayswater is the most-cited Lebanese room across independent guides and has been quietly excellent for years. For something more modern, The Barbary in Neal's Yard seats about twenty around an open grill, and Akub in Notting Hill is the only serious Palestinian restaurant in the city."
+    a: "Al Waha in Bayswater is the most-cited Lebanese room across independent guides and has been excellent for years. For something more modern, The Barbary in Neal's Yard seats about twenty around an open grill, and Akub in Notting Hill is the only serious Palestinian restaurant in the city."
   - q: "Where do I find the best Turkish food in London?"
     a: "Dalston and Green Lanes. Mangal II in Dalston is an ocakbaşı the Dirik brothers took over from their father and turned into one of the most inventive Turkish kitchens in Britain."
   - q: "What is an ocakbaşı?"
@@ -25,7 +25,7 @@ faq:
   - q: "Where can I eat Middle Eastern food in London cheaply?"
     a: "Falafel. Pilpel at Spitalfields, Hoxton Beach in Shoreditch and Magic Falafel in Camden all come in under £10 and are entirely vegetarian. Hiba Express in Holborn is the lunch counter people who work there actually queue at."
   - q: "Which of these are vegetarian-friendly?"
-    a: "Almost all of them, and unusually genuinely so — mezze is vegetable-led by tradition rather than by adaptation. Bubala in Spitalfields is entirely vegetarian, and Rovi in Fitzrovia puts vegetables on the grill and gives them the treatment meat usually gets."
+    a: "Almost all of them, and more so than most cuisines — mezze is vegetable-led by tradition rather than by adaptation. Bubala in Spitalfields is entirely vegetarian, and Rovi in Fitzrovia puts vegetables on the grill and gives them the treatment meat usually gets."
 ---
 
 This is the broadest category on the site and the one where the label does the least work. Lebanese mezze, a Turkish charcoal grill in Dalston, Palestinian home cooking in a Notting Hill townhouse, Kuwaiti machboos in Knightsbridge and modern Greek small plates in Marylebone are five different cuisines, and London does all of them well.
@@ -65,7 +65,7 @@ Arranged **by tradition**, because that is what actually determines the meal.
 
 **The most-cited Lebanese room in London** across these sources — white walls, hanging foliage, and mezze taken seriously rather than served as filler while you wait for the grill.
 
-The mezze is the meal: **hummus, moutabal, tabbouleh and fattoush** made properly, warm flatbread arriving continuously, and *makanek* — small spiced sausages — among the hot dishes. Charcoal-grilled meats behind them if you want them, but ordering ten cold plates and stopping there is a legitimate dinner here.
+The mezze is the meal: **hummus, moutabal, tabbouleh and fattoush**, warm flatbread arriving continuously, and *makanek* — small spiced sausages — among the hot dishes. Charcoal-grilled meats behind them if you want them, but ordering ten cold plates and stopping there is a legitimate dinner here.
 
 **£££, book a few days ahead.** Seven minutes from Bayswater. Quiet, formal, and run by people who have been doing it a long time.
 
@@ -139,7 +139,7 @@ The short version: **Mangal II** in Dalston is the most-cited and the one that t
 
 **Greek small plates reworked with restaurant technique** — the room most responsible for London taking modern Greek cooking seriously, rather than filing it under holiday food.
 
-The format is sharing: **taramasalata** made properly, grilled octopus, slow-cooked lamb, and a **loukoumades** — honey doughnuts — that most tables order without discussing it. Greek wine list to match, which was unusual when it opened.
+The format is sharing: **taramasalata**, grilled octopus, slow-cooked lamb, and a **loukoumades** — honey doughnuts — that most tables order without discussing it. Greek wine list to match, which was unusual when it opened.
 
 **£££ and it books weeks ahead.** Eight minutes from Baker Street.
 
@@ -169,19 +169,19 @@ At Oma the fire does everything — **whole fish**, aged meat and vegetables ove
 
 **The only wine list in London built entirely on indigenous Greek varieties** — assyrtiko, xinomavro, agiorgitiko and a dozen more nobody stocks — in a Holland Park Avenue taverna with tables out on the pavement.
 
-The food is taverna rather than restaurant: **grilled meats, salads, dips and whole fish**, cooked straightforwardly and priced fairly for the postcode. The wine is the reason to make the trip, and the staff will talk you through it.
+The food is taverna rather than restaurant: **grilled meats, salads, dips and whole fish**, cooked straightforwardly and priced fairly for the postcode. Make the trip for the wine; the staff will talk you through it.
 
-**£££, book a few days ahead.** Ask them to pick the bottle; the whole point of the list is that you have not heard of most of it.
+**£££, book a few days ahead.** Ask them to pick the bottle; you will not have heard of most of the list.
 
 ### Mazi and Zephyr, Notting Hill
 
 *£££ · garden and photographs* · Cited by 3 Greek sources
 
-Two modern Greek rooms in the same postcode, and worth knowing apart. **Mazi** treats the classics as a starting point and has a **garden at the back** — the better table on a warm evening. **Zephyr**, from the same team, is the more photographed of the pair.
+Two modern Greek rooms in the same postcode, with different strengths. **Mazi** treats the classics as a starting point and has a **garden at the back** — the better table on a warm evening. **Zephyr**, from the same team, is the more photographed of the pair.
 
 At Mazi the cooking pulls the taverna repertoire into restaurant shape: **taramasalata**, grilled octopus, and lamb given more technique than tradition requires. Zephyr runs a similar menu in a brighter, busier room.
 
-**£££ at both.** Book Mazi's garden specifically; it is the thing that separates them.
+**£££ at both.** Book Mazi's garden specifically; it is what separates them.
 
 ---
 
@@ -269,7 +269,7 @@ Expect **kubba** — bulgur dumplings stuffed with spiced meat — flatbreads ba
 
 The Soho counter that made **modern Jerusalem cooking** mainstream in London, and has held a **Bib Gourmand since 2014**. **The zinc counter, not the tables** — sit at it and the cooking happens a foot from your plate, with the room loud enough to make it a night out rather than a dinner.
 
-The **kubaneh** — a pull-apart Yemeni bread served with tahini and grated tomato — is the thing to order first and the dish people describe afterwards. Behind it, polenta Jerusalem-style, octopus, and a short menu that changes often.
+The **kubaneh** — a pull-apart Yemeni bread served with tahini and grated tomato — is the dish to order first and the one people describe afterwards. Behind it, polenta Jerusalem-style, octopus, and a short menu that changes often.
 
 **£££. Counter seats are held back for walk-ins**, tables book weeks ahead. 34 Rupert Street.
 
@@ -289,7 +289,7 @@ The **kubaneh** — a pull-apart Yemeni bread served with tahini and grated toma
 
 **Palestinian and Arabic home cooking on Golborne Road since 2005** — long before anyone was writing guides to it, and still run the same way.
 
-All-day cooking rather than a fixed menu: **maqluba**, the upside-down rice and vegetable dish, **musakhan**, mezze, and grills, with **set-menu nights and live music** that are the reason regulars book rather than drop in.
+All-day cooking rather than a fixed menu: **maqluba**, the upside-down rice and vegetable dish, **musakhan**, mezze, and grills, with **set-menu nights and live music** that are why regulars book rather than drop in.
 
 **££, closed Mondays.** 48 Golborne Road, a few minutes from Portobello. Ask what is on before you order from the menu.
 
@@ -377,7 +377,7 @@ Falafel is where this cuisine is cheapest and best, and all of these are entirel
 
 ## The two streets
 
-**Edgware Road** is the Arab Middle Eastern quarter — Lebanese, Syrian, Egyptian and Iraqi — running north from Marble Arch. Green Valley is the anchor grocer, and **Ranoush Juice** (shawarma to 3am) and the tiny Persian grill **Patogh** are the other names locals give. Late-night is the point of this street.
+**Edgware Road** is the Arab Middle Eastern quarter — Lebanese, Syrian, Egyptian and Iraqi — running north from Marble Arch. Green Valley is the anchor grocer, and **Ranoush Juice** (shawarma to 3am) and the tiny Persian grill **Patogh** are the other names locals give. People come to this street for late-night food.
 
 **Green Lanes** in Harringay is a different thing entirely: **Turkish and Turkish-Kurdish**, not Arab. **Gökyüzü**, **Antepliler** for Gaziantep kebabs and baklava, and **Yaşar Halim** for the bakery-supermarket. Do not go looking for Lebanese mezze there.
 

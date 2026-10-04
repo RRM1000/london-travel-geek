@@ -31,7 +31,7 @@ Almost all of it is free.
 > 💡 **The Short Version:** **Richmond Park** for the deer and the scale. **Hampstead Heath** for swimming and the Parliament Hill view. **St Dunstan in the East** is the most atmospheric free thing in the City. **The Barbican Conservatory** is 1,500 plant species under glass, free, and open on selected dates only. And **the Crystal Palace Dinosaurs** are magnificently, confidently wrong.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission is the parks' own and checked August 2026 — the Royal Parks and all council parks are free and always have been. Opening hours are seasonal for most gardens.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission is the parks' own and checked August 2026 — the Royal Parks and all council parks are free and always have been. Opening hours are seasonal for most gardens.
 
 ## Where they are
 
@@ -65,7 +65,7 @@ The Isabella Plantation inside it is spectacular in May when the azaleas go, and
 
 *Free · swimming ponds*
 
-Eight hundred acres of genuinely wild-feeling ground, with **three swimming ponds open year-round** - men's, women's and mixed - and the protected Parliament Hill view south over the City.
+Eight hundred acres of wild-feeling ground, with **three swimming ponds open year-round** - men's, women's and mixed - and the protected Parliament Hill view south over the City.
 
 The Heath is deliberately unmanicured: it was saved from development by campaign in the 1870s and has been kept semi-wild since, which is why it feels like countryside rather than a park. **Kenwood House** at the north end is free and holds a Rembrandt and a Vermeer.
 
@@ -81,9 +81,9 @@ The ponds charge a small fee and are open all year, including winter, when the w
 
 The best formal gardens in London, plus the Open Air Theatre, London Zoo and Primrose Hill at the north end for the skyline.
 
-**Queen Mary's Gardens** holds London's largest rose collection, in 85 beds, and peaks in early June, which is the single best week to come. The park was laid out by John Nash in the 1810s as the setting for the terraces that still ring it.
+**Queen Mary's Gardens** holds London's largest rose collection, in 85 beds, and peaks in early June, which is the best week to come. The park was laid out by John Nash in the 1810s as the setting for the terraces that still ring it.
 
-To walk it properly, our [Regent's Park and Marylebone walking route](/articles/regents-park-marylebone-walk/) crosses from Baker Street past the rose garden and the Nash terraces to Bond Street.
+For a walk through it, our [Regent's Park and Marylebone walking route](/articles/regents-park-marylebone-walk/) crosses from Baker Street past the rose garden and the Nash terraces to Bond Street.
 
 Primrose Hill is technically separate and just to the north, and its view south over the city is another of the protected ones. It is a five-minute walk from the top of the park.
 
@@ -101,7 +101,7 @@ A boating lake, a children's zoo, a **Japanese Peace Pagoda** on the Thames path
 
 Much of the layout dates from the **Festival of Britain in 1951**, when the Festival Gardens were laid out here, and the Peace Pagoda was a gift from the Nipponzan-Myohoji Buddhist order in 1985.
 
-The park itself is free. **The children's zoo is ticketed**, which is the thing families most often get caught by when they price a day here.
+The park itself is free. **The children's zoo is ticketed**, which families most often get caught by when they price a day here.
 
 ---
 
@@ -111,7 +111,7 @@ The park itself is free. **The children's zoo is ticketed**, which is the thing 
 
 **183 acres and the oldest enclosed royal park in London**, rising steeply from the Old Royal Naval College to the Observatory on the hill — which gives it the best composed view in the city and, in The Wilderness, a wild deer herd.
 
-The view from the General Wolfe statue is free and sits outside the ticketed Observatory, which is the thing most visitors get wrong.
+The view from the General Wolfe statue is free and sits outside the ticketed Observatory, which most visitors get wrong.
 
 ![Greenwich Park in spring, looking down the grass slope over the Old Royal Naval College to Canary Wharf and the O2 under a clear blue sky](../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg)
 
@@ -187,7 +187,7 @@ Wren rebuilt the church after the Great Fire; it was gutted again in 1941, and t
 
 *Free*
 
-A wall of hand-painted ceramic tablets, each recording **an ordinary person who died saving someone else**. Quietly devastating and takes ten minutes.
+A wall of hand-painted ceramic tablets, each recording **an ordinary person who died saving someone else**. Devastating and takes ten minutes.
 
 It is the **Watts Memorial to Heroic Self-Sacrifice**, opened in 1900 and the idea of the painter G. F. Watts, who wanted ordinary courage recorded somewhere permanent. Each tablet gives the name, the date and what happened in a couple of lines.
 
@@ -221,7 +221,7 @@ Grade I listed, spread across islands in the lake, and free to walk round whenev
 
 Two acres of reedbed, pond and woodland on a former coal yard beside the Regent's Canal, run by the **London Wildlife Trust** and opened in 1985 - when this was still industrial no-man's-land rather than a redeveloped King's Cross.
 
-There is a visitor centre and a cafe, and it is five minutes from the station. **The contrast is the point**: a working wetland reserve with the train sheds directly behind it.
+There is a visitor centre and a cafe, and it is five minutes from the station. **It sits against the railway**: a working wetland reserve with the train sheds directly behind it.
 
 ---
 
@@ -263,7 +263,7 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ## Outdoor swimming
 
-* **Hampstead Heath ponds** — three of them, open year-round, and genuinely cold in winter.
+* **Hampstead Heath ponds** — three of them, open year-round, and cold in winter.
 * **London Fields Lido** — a heated 50-metre outdoor pool, open all year.
 * **Brockwell Lido** — a 1937 art deco lido in Herne Hill.
 * **Serpentine Lido**, Hyde Park — summer only, in the middle of the park.
@@ -283,9 +283,9 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ## All free, with a few exceptions
 
-**Almost every park in this guide is free and open every day**, which is the single best thing about London as a city to spend time in. Nearly half its surface area is green space, and it was designated the world's first National Park City in 2019.
+**Almost every park in this guide is free and open every day**, which is the best thing about London as a city to spend time in. Nearly half its surface area is green space, and it was designated the world's first National Park City in 2019.
 
-**The exceptions worth knowing:**
+**The exceptions:**
 
 * **Kew Gardens** is ticketed and the most expensive — but it is a botanical research institution rather than a park, and priced as one.
 * **The Chelsea Physic Garden** and **the Garden Museum** both charge, both are small, and both are worth it.

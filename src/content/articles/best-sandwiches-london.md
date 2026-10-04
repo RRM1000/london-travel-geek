@@ -32,12 +32,12 @@ faq:
 
 The sandwich that turns up on more independent London lists than any other is not a modern creation. It is a **salt beef beigel on Brick Lane**, sold at four in the morning from a shop that has not changed its mind about anything since 1974.
 
-The modern shops are worth your time too — but there is a pattern in them worth knowing before you order. Max's, Paul Rothe, Secret Sandwich Shop and the Dusty Knuckle are all most famous for **an egg sandwich**. If you only try one thing from the new wave, that is what to try.
+The modern shops are worth your time too — but there is a pattern in them. Max's, Paul Rothe, Secret Sandwich Shop and the Dusty Knuckle are all most famous for **an egg sandwich**. If you only try one thing from the new wave, that is what to try.
 
 > 💡 **The Short Version:** **Beigel Bake** on Brick Lane for salt beef, open 24 hours. **Max's Sandwich Shop** for the Ham, Egg 'n' Chips. **Paul Rothe & Son** has been cutting sandwiches into triangles since 1900. **Kappacasein** does the toastie, three days a week only. And **Quo Vadis** in Soho does the smoked eel sandwich, which is the most famous individual sandwich in the city.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Sandwich shops keep short hours and several are weekday-only or pre-order-only, so check before making a special trip.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Sandwich shops keep short hours and several are weekday-only or pre-order-only, so check before making a special trip.
 
 ## Where they are
 
@@ -109,7 +109,7 @@ A working butcher's counter that describes itself as **the last butcher left in 
 
 **There is a queue and there is a way round it.** Their own site pushes online ordering explicitly to beat it, with collection through porterfordshotfood.co.uk, though online orders carry a **£20 minimum** so it only works for a group. Regulars describe a queue twenty deep after midday.
 
-At **72 Watling Street, EC4M 9BJ**, two minutes from Mansion House. This is a sandwich for people who work nearby rather than a destination — which is rather the point of it.
+At **72 Watling Street, EC4M 9BJ**, two minutes from Mansion House. This is a sandwich for people who work nearby, not a destination.
 
 ![A salt beef baguette cut open, filled with hand-carved beef, yellow mustard and a whole gherkin laid along the length of it](../../assets/articles/best-sandwiches-london/porterford-butchers.jpg)
 
@@ -153,7 +153,7 @@ Japanese-style **sando** on white Tokyo milk bread — soft, crustless, and cut 
 
 The crisps sandwich is still there but it has changed: it is now **Crispy Greens** — green beans, avocado, pickles, cucumber, jalapeños and salt-and-vinegar McCoy's. The tuna version is off the menu.
 
-**It closes at 3pm, seven days a week**, and that is the fact that decides the visit. The opening time is quoted as both 8am and 11am, so if you are going early, go on the assumption of 11 and treat 8 as a bonus. Ladbroke Grove or Westbourne Park, five minutes either way.
+**It closes at 3pm, seven days a week**, so go before then. The opening time is quoted as both 8am and 11am, so if you are going early, go on the assumption of 11 and treat 8 as a bonus. Ladbroke Grove or Westbourne Park, five minutes either way.
 
 ![A sando cut in two in a white takeaway box, crustless white bread around a filling of patty, avocado, tomato and egg, with a branded Kewpie sachet tucked in beside it](../../assets/articles/best-sandwiches-london/secret-sandwich-shop.jpg)
 
@@ -163,13 +163,13 @@ The crisps sandwich is still there but it has changed: it is now **Crispy Greens
 
 *Abbot Street Car Park E8 3DP · £7.60 · daily 8am–3.30pm*
 
-A bakery first and a sandwich shop second, which is the right order — the bread is the reason the **Egg, Chilli & Cheese** works as well as it does: pickled green chillies, spring onions and coriander on focaccia, **£7.60**, or £9.80 with bacon added.
+A bakery first and a sandwich shop second, which is the right order — the bread is why the **Egg, Chilli & Cheese** works as well as it does: pickled green chillies, spring onions and coriander on focaccia, **£7.60**, or £9.80 with bacon added.
 
 **It opens every day, 8am to 3.30pm**, which makes it one of very few places on this page you can rely on at a weekend as well as a weekday. The Dalston site is in a car park off Abbot Street and looks it from outside.
 
 The roast chicken and pesto focaccia has rotated off. The current lunch line-up alongside the egg is a sweet potato and tofu sarnie, a fennel sausage and greens sarnie, a gorgonzola, cavolo and walnut sarnie, and a cheese toastie.
 
-Three sites: Dalston, **Harringay at 429 Green Lanes N4 1HA**, and a van at Highbury Fields. It is also a social enterprise that trains young people at risk, which is not why it is on this list but is worth knowing.
+Three sites: Dalston, **Harringay at 429 Green Lanes N4 1HA**, and a van at Highbury Fields. It is also a social enterprise that trains young people at risk, which is not why it is on this list.
 
 ![A focaccia sandwich cut in half on a white plate, open-crumb bread around chicken, green olives, herbs and leaves, with a lemonade and a plum pastry in a box alongside](../../assets/articles/best-sandwiches-london/the-dusty-knuckle.jpg)
 
@@ -183,7 +183,7 @@ Three sites: Dalston, **Harringay at 429 Green Lanes N4 1HA**, and a van at High
 
 *Crunch's chicken katsu, on brioche.*
 
-Everything is built on a **golden brioche loaf** rather than bread, which is the whole proposition and the reason it divides people — rich, sweet and closer to a bun than a sandwich. The **chicken katsu** is the one to order: deep-fried breast, tonkatsu sauce and Japanese apple jam, and the cheapest thing on the board at **£12**.
+Everything is built on a **golden brioche loaf** rather than bread, which is why it divides people — rich, sweet and closer to a bun than a sandwich. The **chicken katsu** is the one to order: deep-fried breast, tonkatsu sauce and Japanese apple jam, and the cheapest thing on the board at **£12**.
 
 Prices run to **£19 for the lobster roll**, which puts it at the expensive end of this page for something you eat standing up. Ten seats in Soho and fast turnover; the Spitalfields site is a market counter.
 
@@ -193,7 +193,7 @@ Prices run to **£19 for the lobster roll**, which puts it at the expensive end 
 
 *116 and 120a Anerley Road SE19 2AN · Wed–Sat only*
 
-Weekly limited-edition focaccia and a cult following across south London, run out of two adjoining units on Anerley Road that do different jobs — which is the thing to understand before you go.
+Weekly limited-edition focaccia and a cult following across south London, run out of two adjoining units on Anerley Road that do different jobs — so check which unit you want before you go.
 
 **120a is the pre-order collection point.** You order online, you collect between **12.30pm and 4pm, Wednesday to Friday**, and on Saturdays it serves fresh slices straight from the oven **from 1pm**.
 
@@ -209,7 +209,7 @@ Weekly limited-edition focaccia and a cult following across south London, run ou
 
 *£8 · Thursday to Saturday only*
 
-The default answer to the best toastie in London, and one of the few genuinely famous things at Borough Market that deserves it.
+The default answer to the best toastie in London, and one of the few famous things at Borough Market that deserves it.
 
 **A mix of cheeses, mostly Montgomery's cheddar**, with onions and leeks between two slices of Poilâne sourdough, for **£8**. That is how the stall itself describes it — worth saying, because the four-cheese recipe that gets repeated everywhere is not what their own menu claims. Bill Oglethorpe started it in 2008 using surplus market cheese and bread, and he makes the raclette himself in Bermondsey.
 
@@ -255,7 +255,7 @@ The 1946 black-tiled frontage, the order shouted across the room, and a **set br
 
 **Monday to Saturday 7am to 3.30pm, closed Sunday.** There is usually a queue out of the door by nine on a Saturday and it is a fast room, so it moves.
 
-> 💡 **It changed hands, and that is worth knowing before you read an old review.** Claudia Perotti and Marco Schiavetta, who had run it since 1994, retired and sold up in late 2024. It closed briefly and reopened under new owners, **Fevzi and Zafer Gungor**, who have talked about extending the hours and taking the name abroad. The hours on their own site are unchanged as we write, and the room is intact — but if you find a piece describing the old family, it is out of date.
+> 💡 **It changed hands, so read old reviews with care.** Claudia Perotti and Marco Schiavetta, who had run it since 1994, retired and sold up in late 2024. It closed briefly and reopened under new owners, **Fevzi and Zafer Gungor**, who have talked about extending the hours and taking the name abroad. The hours on their own site are unchanged as we write, and the room is intact — but if you find a piece describing the old family, it is out of date.
 
 17–19 Regency Street, SW1P 4BY, ten minutes from Westminster or Pimlico.
 
@@ -263,11 +263,11 @@ The 1946 black-tiled frontage, the order shouted across the room, and a **set br
 
 *156–158 Great Suffolk Street SE1 1PE · daily 7.30am–3pm*
 
-Family-run since 1982, founded by Terry and now run by his son **Austin**, and a survivor of everything Southwark has been through since. The bacon and sausage sandwiches are the reason to go rather than the full breakfast, though there is now a Terry's Breakfast Burger competing for attention.
+Family-run since 1982, founded by Terry and now run by his son **Austin**, and a survivor of everything Southwark has been through since. Go for the bacon and sausage sandwiches rather than the full breakfast, though there is now a Terry's Breakfast Burger competing for attention.
 
 **The kitchen stops at 2.30pm even though the room stays open until 3** — half an hour that catches out anyone arriving on a late morning that has drifted.
 
-The sourcing is the thing they are proudest of and it is local: bread from **St John Bakery**, coffee from **Monmouth**, and produce from Davies Bakery in Bermondsey. It now trades as Terry's Bar & Grill in the evening as well, bookable through OpenTable. Borough or Southwark, five minutes.
+They are proudest of the sourcing, which is local: bread from **St John Bakery**, coffee from **Monmouth**, and produce from Davies Bakery in Bermondsey. It now trades as Terry's Bar & Grill in the evening as well, bookable through OpenTable. Borough or Southwark, five minutes.
 
 ### Scotti's Snack Bar, Clerkenwell
 
@@ -275,7 +275,7 @@ The sourcing is the thing they are proudest of and it is local: bread from **St 
 
 The caff that people in the food world actually eat at, known for a **chicken escalope sandwich** thick enough to need two hands, and egg and bacon rolls.
 
-**It has been on Clerkenwell Green since 1967**, opened when the area was still widely called Little Italy, and it remains one of the standard refreshment stops for London's black-cab drivers — which is the single best indicator of a caff worth using that this city has.
+**It has been on Clerkenwell Green since 1967**, opened when the area was still widely called Little Italy, and it remains one of the standard refreshment stops for London's black-cab drivers — which is the best indicator of a caff worth using that this city has.
 
 There is no website and no published menu, so this is a turn-up-and-see operation. Farringdon is five minutes away.
 
@@ -305,13 +305,13 @@ The **fish sando** — panko-fried fish on shokupan with house tonkatsu sauce, J
 
 **The fish rotates.** Their menu says fish of the day and tells you to ask, so the red snapper that every guide names is one possibility rather than the recipe.
 
-**No bookings at all**, first come first served, and the host tells you the wait when you arrive. **Card only — they do not take cash**, which is worth knowing on a page full of places where cash is still normal. Balham station is five minutes.
+**No bookings at all**, first come first served, and the host tells you the wait when you arrive. **Card only — they do not take cash**, which is unusual on a page full of places where cash is still normal. Balham station is five minutes.
 
 ### Billingsgate Market Café, Poplar
 
 *Trafalgar Way · very early morning only · closing by 2028*
 
-A **bacon and scallop roll** in a market traders' café, where the scallops come off the floor downstairs. The most genuinely London thing in this guide, and it requires getting up before the fish market shuts for the day.
+A **bacon and scallop roll** in a market traders' café, where the scallops come off the floor downstairs. The most London-specific thing in this guide, and it requires getting up before the fish market shuts for the day.
 
 > ⚠️ **Go sooner rather than later.** The City of London Corporation confirmed in November 2024 that **Billingsgate will close permanently by 2028**, with the Poplar site redeveloped for housing; traders keep going in place until then. The London Fish Merchants Association says around 90% of traders intend to carry on somewhere else, but a café that exists to feed fish porters at four in the morning has no obvious life after the market it serves. This is the one entry on this page with an expiry date.
 

@@ -396,7 +396,7 @@ An 18th-century Grade II-listed pub on Great Portland Street, sibling to The Cad
 
 Named by five or six sources each, without a full entry here.
 
-| Pub | Area | Cited by | Worth knowing |
+| Pub | Area | Cited by | Notes |
 | --- | --- | --- | --- |
 | The Bull & Last | Highgate | 6 | #39 in the award and on Michelin's list; a weekday set lunch, and the Scotch egg if it's on |
 | The Holland | Kensington | 6 | On Michelin's list; set lunch Wednesday to Saturday, noon to 5pm |

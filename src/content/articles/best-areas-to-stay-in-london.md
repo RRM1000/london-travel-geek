@@ -48,7 +48,7 @@ If your trip has one late night in it, three things catch people out. None is a 
 | The Northern line serves Old Street, so Shoreditch is covered | The Northern line's night service runs **via Charing Cross only**, so the Bank branch — Old Street, Angel, Moorgate, Borough — has none |
 | Paddington is a huge interchange, so it must have one | **Paddington has no Night Tube line.** Bakerloo, Circle, District, Hammersmith & City and Elizabeth all stop overnight |
 
-The DLR shuts overnight too, which is worth knowing in Greenwich and at Canary Wharf.
+The DLR shuts overnight too, which affects Greenwich and Canary Wharf.
 
 ---
 
@@ -86,7 +86,7 @@ The best walk in London runs past your front door and most of what is on it is f
 
 Three stations serve the strip, so wherever along it you end up you are close to a train — Waterloo has the Jubilee and the Northern, Southwark and London Bridge the Jubilee. Borough Market is closed on Mondays, so don't count on it for food that day.
 
-**[citizenM Bankside](hotel:citizenm-bankside)** is about £160 for one room type with a wall-to-wall window and a tablet that runs the blinds — and the rooms are genuinely small, the bed filling the width, which shocks people who have not seen the format.
+**[citizenM Bankside](hotel:citizenm-bankside)** is about £160 for one room type with a wall-to-wall window and a tablet that runs the blinds — and the rooms are small, the bed filling the width, which shocks people who have not seen the format.
 
 ![A compact citizenM room with a city-view window, the bed filling almost the full width, and a floating shelf beside it](../../assets/articles/best-areas-to-stay-in-london/citizenm-bankside.jpg)
 
@@ -126,7 +126,7 @@ Stay where the night is, or stay ten minutes from it. The in-between gives you t
 
 *£33 a capsule to £600 a room · Zone 1 · Piccadilly Circus and Tottenham Court Road · [area guide](/articles/soho-area-guide/)*
 
-The densest concentration of bars, theatres, restaurants and late food in Britain, and the widest price range of any area in this guide. **Chinatown's noodle and roast-meat places run past 1am** and are priced for the people who work in them, so you can still eat properly at an hour when most of London has stopped serving.
+The densest concentration of bars, theatres, restaurants and late food in Britain, and the widest price range of any area in this guide. **Chinatown's noodle and roast-meat places run past 1am** and are priced for the people who work in them, so you can still eat a full meal at an hour when most of London has stopped serving.
 
 **It is very loud and it is not a place to sleep lightly.** Every one of Soho's streets carries people until the early hours, and a room facing one of them is a compromise you are making deliberately. Ask for a high floor and an internal room, at booking rather than at check-in.
 
@@ -260,7 +260,7 @@ And **[Shangri-La The Shard](hotel:shangri-la-the-shard)** occupies floors 34 to
 
 *The view from a room at Shangri-La The Shard.*
 
-Our full [Bermondsey hotel guide](/articles/where-to-stay-bermondsey/) compares the aparthotels properly.
+Our full [Bermondsey hotel guide](/articles/where-to-stay-bermondsey/) compares the aparthotels in detail.
 
 ### Greenwich — a park, a market and a hill
 
@@ -314,7 +314,7 @@ The only outer-zone entry that earns its place, because on a stadium or arena ni
 
 **Book the Wembley Park side, not Wembley Central.** They are two different stations on different lines — Wembley Park is Jubilee and Metropolitan, Wembley Central is Bakerloo and Overground — and only Wembley Park stands at the top of Olympic Way, which is the walk the whole argument depends on.
 
-The rest of the time, be honest about the maths. It is Zone 4: the daily fare cap rises to £12.80 against £8.90 for Zones 1–2, and Wembley Park is ten Jubilee line stops from Bond Street, each way, every day. **[Novotel London Wembley](hotel:novotel-london-wembley)** is about £120 on Olympic Way, has parking, and sells out months ahead for the big events. Our [Wembley hotel guide](/articles/where-to-stay-near-wembley-stadium/) compares staying at the stadium with Harrow, Baker Street and Watford on the Metropolitan line.
+The rest of the time, count the travel. It is Zone 4: the daily fare cap rises to £12.80 against £8.90 for Zones 1–2, and Wembley Park is ten Jubilee line stops from Bond Street, each way, every day. **[Novotel London Wembley](hotel:novotel-london-wembley)** is about £120 on Olympic Way, has parking, and sells out months ahead for the big events. Our [Wembley hotel guide](/articles/where-to-stay-near-wembley-stadium/) compares staying at the stadium with Harrow, Baker Street and Watford on the Metropolitan line.
 
 ---
 
@@ -328,7 +328,7 @@ Where to stay if the trip is a long one, if you are a light sleeper, or if you h
 
 *About £240–£450 · Zones 1–2 · Sloane Square · [area guide](/articles/chelsea-area-guide/)*
 
-Low-rise, affluent, genuinely residential, and about as far from a nightlife district as Zone 1 gets. The King's Road, the Physic Garden and the river walk are all here, and the streets behind them are silent by ten.
+Low-rise, affluent, residential, and about as far from a nightlife district as Zone 1 gets. The King's Road, the Physic Garden and the river walk are all here, and the streets behind them are silent by ten.
 
 **Sloane Square is District and Circle**, which is quick and frequent all day and stops overnight like most of the network. If a late Friday or Saturday is part of the plan, Knightsbridge on the Piccadilly is about twelve minutes' walk and Victoria about fifteen, and the N11 and N22 run along the King's Road through Sloane Square all night.
 
@@ -350,7 +350,7 @@ Residential in a way almost nothing else this central is: garden squares, pastel
 
 A hilltop village with the Heath attached, swimming ponds, Kenwood House and views over the whole city — and the best-value quiet on this page, at roughly half what Chelsea costs. **Hampstead and Belsize Park are both on the Northern line's Charing Cross branch**, so you are eight stops from Tottenham Court Road on one train, and that is the branch that keeps running on Friday and Saturday nights.
 
-**It is a proper distance out and hilly with it.** You are outside Zone 1 and the walk from the station up to the Heath is genuinely uphill; this is a base for a longer stay or a return trip, not a first three days.
+**It is a proper distance out and hilly with it.** You are outside Zone 1 and the walk from the station up to the Heath is uphill; this is a base for a longer stay or a return trip, not a first three days.
 
 **[NOX Hotels Belsize Park](hotel:nox-belsize-park)** is about £130 in a converted pub, walkable to both the Heath and Primrose Hill, with rooms that keep some of the building's pub-era character. **[La Gaffe](hotel:la-gaffe)** is about £140 with breakfast, family-run for decades on Heath Street on the site of an 18th-century shepherd's cottage, five minutes from the Heath — and there is no lift.
 
@@ -360,7 +360,7 @@ A hilltop village with the Heath attached, swimming ponds, Kenwood House and vie
 
 ## Arriving late, or leaving early
 
-If a flight or a Eurostar bookends the trip, choose the base around the station rather than the sights, at least for that night.
+If a flight or a Eurostar bookends the trip, choose the base around the station, at least for that night.
 
 ### Fitzrovia — one stop from Eurostar, and the best eating street in central London
 
@@ -390,7 +390,7 @@ Charlotte Street is the densest run of restaurants in central London and the are
 
 The best airport base in London by a distance. **Heathrow Express is 15 minutes non-stop to Paddington** — £26 walk-up, or from £10 booked 30 or more days ahead — and the Elizabeth line does the same trip in 28 minutes for £14.60, which counts towards your daily fare cap where the Express does not. Our [Heathrow transport guide](/articles/heathrow-airport-to-london/) has the full comparison.
 
-**The area itself is transport and canal rather than a night out**, which is the real reason to treat it as a first-night and last-night base rather than a week-long one. It is also a big interchange with no Night Tube line at all — Bakerloo, Circle, District, Hammersmith & City and the Elizabeth line all stop overnight — so a 2am return here is a night bus.
+**The area itself is transport and canal rather than a night out**, which is why it suits a first-night and last-night base, not a week-long one. It is also a big interchange with no Night Tube line at all — Bakerloo, Circle, District, Hammersmith & City and the Elizabeth line all stop overnight — so a 2am return here is a night bus.
 
 **[The Pilgrm](hotel:the-pilgrm)** is about £150 and under three minutes' walk from the station, so a 6am departure starts with a short walk. **[Hilton London Paddington](hotel:hilton-london-paddington)** is about £200 and is the original Great Western Royal Hotel of 1854, built into the station — you walk from platform to lobby without going outside. Our full [Paddington hotel guide](/articles/where-to-stay-paddington/) compares the rest, including the Sussex Gardens townhouses.
 
@@ -440,6 +440,6 @@ If you are not staying the night at all — a long layover, an evening flight, a
 
 If the dog is coming too, [our dog-friendly hotels guide](/articles/dog-friendly-hotels-london/) compares hotels on the fee, the weight limit and the walk to the nearest park.
 
-If a swim matters, [London hotels with a pool](/articles/hotels-with-pool-london/) gives each pool's length, whether guests swim free and when children are allowed in. The rooftop ones are in Knightsbridge, Battersea and Shoreditch, and The Berkeley's opens in spring and summer only.
+If you want a swim, [London hotels with a pool](/articles/hotels-with-pool-london/) gives each pool's length, whether guests swim free and when children are allowed in. The rooftop ones are in Knightsbridge, Battersea and Shoreditch, and The Berkeley's opens in spring and summer only.
 
 *Room rates are from our own sampling on Hotels.com and each operator's own site, current at 7 September 2026; rates change nightly, so always check your own dates. First and last Tube times are from Transport for London's own working timetables, and the Night Tube lines, night bus fares and the Hopper fare from tfl.gov.uk, all checked on 9 September 2026. Eurostar check-in times from eurostar.com on 8 September 2026.*

@@ -13,7 +13,7 @@ heroImage: "../../assets/articles/best-hot-pot-london/split-pot.jpg"
 heroImageAlt: "A divided steel hot pot on a table burner, one half red with chilli and Sichuan pepper, the other a clear broth with cabbage, corn and rice cakes"
 faq:
   - q: "What is Chinese hot pot?"
-    a: "A pot of broth is heated at your table and you cook raw ingredients in it yourself, a few pieces at a time, dipping each one in a sauce you mix at a self-service counter. It is a format rather than a dish, and the regional versions have little in common: a Chongqing pot is beef tallow and dried chilli, a Beijing copper pot is clear water and lamb. Nobody cooks for you, which is the point."
+    a: "A pot of broth is heated at your table and you cook raw ingredients in it yourself, a few pieces at a time, dipping each one in a sauce you mix at a self-service counter. It is a format rather than a dish, and the regional versions have little in common: a Chongqing pot is beef tallow and dried chilli, a Beijing copper pot is clear water and lamb. Nobody cooks for you."
   - q: "How much does hot pot cost in London?"
     a: "Most London hot pot restaurants sit in the £20 to £40 a head band before drinks, and a few of the Chinatown and Pimlico rooms run higher. The broth is charged separately from the ingredients, so the bill grows in two directions at once. The cheapest way in is a single-bowl malatang, where you fill a basket, it is weighed and you eat for well under £15."
   - q: "Which is the best hot pot restaurant in London?"
@@ -23,7 +23,7 @@ faq:
   - q: "What is malatang, and how is it different from hot pot?"
     a: "Malatang is hot pot's single-serving descendant. Instead of a shared pot, you take a basket to a chilled counter, fill it with whatever you want, and it is weighed, priced and cooked into one bowl for you. There is no sharing and no negotiating over the spice level. Aim for 400 to 500 grams of ingredients per person."
   - q: "Is there halal hot pot in London?"
-    a: "Yes. Hotto Potto in Aldgate runs a dedicated halal menu, Niu Hot Pot in Spitalfields has a halal section on its ordering sheet, and Simmer Huang at Canary Wharf is halal throughout. Ordinary hot pot menus lean heavily on pork and pork blood, so it is worth checking rather than assuming."
+    a: "Yes. Hotto Potto in Aldgate runs a dedicated halal menu, Niu Hot Pot in Spitalfields has a halal section on its ordering sheet, and Simmer Huang at Canary Wharf is halal throughout. Ordinary hot pot menus lean heavily on pork and pork blood, so check before you order."
 ---
 
 At a hot pot the kitchen hands over the raw ingredients and leaves you to it. A pot of broth arrives at the table already boiling, plates of thinly sliced meat and vegetables arrive beside it, and for the next two hours you cook your own dinner piece by piece.
@@ -128,7 +128,7 @@ It was founded by the original team behind Little Sheep, which is why the older 
 
 **Named by more sources than any other independent**, and by every Chinese-language guide in this set — which, on this topic, is the endorsement that counts. Two shopfronts on the same Bloomsbury street: stir-fries on one side, a separate hot pot room on the other, so you can eat here twice and have two different dinners.
 
-The thing to order beyond the pot is boboji — meat and vegetables threaded on skewers, cooked in mala oil and priced by the stick, which is the cheapest way to eat properly here. It is a plain, functional room with no design to speak of, and it is the only restaurant in this entire set whose address has not changed in the eight years the sources cover.
+Beyond the pot, order boboji — meat and vegetables threaded on skewers, cooked in mala oil and priced by the stick, which is the cheapest way to eat a full meal here. It is a plain, functional room with no design to speak of, and it is the only restaurant in this entire set whose address has not changed in the eight years the sources cover.
 
 ### Shu Xiang Ge, Chinatown
 
@@ -174,7 +174,7 @@ It has been on East India Dock Road for years and is one of two long-standing ho
 
 *££ · Poplar · Cited by 2 sources · book a few days ahead*
 
-The beef tallow arrives moulded into the shape of a bear and melts into the broth in front of you, which is the reason half the internet knows this restaurant. The reason to actually come is the Hainanese coconut chicken pot — sweet, clear and gentle, and the best answer in East London for anyone who wants the format without any heat at all.
+The beef tallow arrives moulded into the shape of a bear and melts into the broth in front of you, which is why half the internet knows this restaurant. The reason to actually come is the Hainanese coconut chicken pot — sweet, clear and gentle, and the best answer in East London for anyone who wants the format without any heat at all.
 
 Crab pot, barbecue, Dongbei stews and Sichuan stir-fries fill out a long menu. It sits two doors from Super Three, so if one has a queue the other will not.
 
@@ -182,7 +182,7 @@ Crab pot, barbecue, Dongbei stews and Sichuan stir-fries fill out a long menu. I
 
 *££ · Holborn · Cited by 2 sources · book a few days ahead*
 
-The pot its regulars call the most Sichuanese in London, and the one where duck intestine, pork brain and beef aorta are the point rather than a dare. Both sources naming it are Chinese-language, and both make the same recommendation: order the red sugar ciba — glutinous rice cakes fried and rolled in brown sugar — to finish.
+The pot its regulars call the most Sichuanese in London, and the one where duck intestine, pork brain and beef aorta are meant seriously rather than as a dare. Both sources naming it are Chinese-language, and both make the same recommendation: order the red sugar ciba — glutinous rice cakes fried and rolled in brown sugar — to finish.
 
 It came third in Red Scarf's 2023 UK readers' poll once the list is narrowed to London. The room is plain and the extraction is not great; the standing advice from people who go often is to wear clothes you do not mind smelling of chilli oil afterwards.
 
@@ -198,7 +198,7 @@ The rule of thumb published by Broadsheet is 400 to 500 grams of ingredients per
 
 *£ · Chinatown · Cited by 2 sources · walk in*
 
-The other malatang worth knowing, in the old Wing Wing site on Charing Cross Road, and the bigger operation — the group has more than seven thousand restaurants worldwide and this was its first central London site, after years of being a Hammersmith-only proposition in Britain.
+The other malatang place, in the old Wing Wing site on Charing Cross Road, and the bigger operation — the group has more than seven thousand restaurants worldwide and this was its first central London site, after years of being a Hammersmith-only proposition in Britain.
 
 There are over a hundred things to put in the basket: sliced meat, fish, tofu in every form, fresh ramen noodles, mini youtiao, pak choi and gai lan. The herbal beef bone broth is creamy, lightly spiced and not oily, and a chef quoted by Broadsheet says she does not bother with the sauce station at all when she orders it. Two floors, and quicker than it looks at lunchtime.
 
@@ -208,7 +208,7 @@ There are over a hundred things to put in the basket: sliced meat, fish, tofu in
 
 ## By style
 
-The regional traditions are where this format gets interesting, and they are genuinely different meals.
+The regional traditions are where this format gets interesting, and they are different meals.
 
 ### Real Beijing, Chinatown
 
@@ -224,7 +224,7 @@ This is shuan yang rou — instant-boiled lamb — and it is what most of northe
 
 The other copper pot in this guide, and the cheaper one. Old Beijing pot on one side of the order and charcoal skewers on the other, so you eat lamb from the broth and lamb from the grill in the same sitting, plus chive boxes and guo bao rou — pork in a sweet-sour batter — from the northern menu.
 
-It is a neighbourhood canteen rather than a destination, and both sources that name it are Chinese-language guides describing it as the local. Worth the trip only if you are already east, but genuinely good if you are.
+It is a neighbourhood canteen rather than a destination, and both sources that name it are Chinese-language guides describing it as the local. Worth the trip only if you are already east, but good if you are.
 
 ### Niu Hot Pot, Spitalfields
 
@@ -264,7 +264,7 @@ It draws a mix of students and office tables from around Victoria, and it is the
 
 One pot per person rather than one for the table — the mini hot pot, which it claims to have brought to London first. If you want your own broth and your own spice level without giving up the shared table, this is the format that solves it.
 
-The hand-made fish balls are the thing to order, with black fungus, quail eggs and rice cake, and the menu runs on into pig intestine, trotters and bamboo for anyone who wants it. Barbecue alongside. It is a short walk from Tian Fu, so Shepherd's Bush is quietly the best hot pot neighbourhood in West London.
+The hand-made fish balls are the thing to order, with black fungus, quail eggs and rice cake, and the menu runs on into pig intestine, trotters and bamboo for anyone who wants it. Barbecue alongside. It is a short walk from Tian Fu, so Shepherd's Bush is the best hot pot neighbourhood in West London.
 
 ### Crystal China, Bermondsey
 
@@ -305,7 +305,7 @@ Hot pot is built for groups, and eating it alone is harder than it should be. Fo
 - **Mealtime Malatang**, Fitzrovia — sliced lamb and beef, Chinese spam, tofu skin, potato, oyster mushrooms, kelp and greens, on a mala base a Gansu-born food writer says is the only base worth having. *£ · Cited by 1 source*
 - **Hotto Potto**, Aldgate — full entry above. The £20 solo set is the only proper sit-down single-portion hot pot found anywhere in this research.
 
-## Also named, and worth knowing
+## Also named
 
 These are named by one source each and have no street address in any of them, so they are not on the map above. They fill real gaps.
 
@@ -318,11 +318,11 @@ These are named by one source each and have no street address in any of them, so
 
 ---
 
-## The chains, honestly
+## The chains
 
 Five of the best-known names here — Haidilao, Happy Lamb, Da Long Yi, Yangguofu and Shu Xiang Ge — are branches of large Chinese groups, and it is worth being straight about what that buys and what it does not.
 
-**What the chains genuinely do better.** They take bookings, which most of the independents handle badly or not at all. They open late and keep opening when the independents have shut. They give you a picture menu on a tablet, printed cooking times, an apron and a bag for your coat. Their staff are trained to walk a first-timer through the order without making them feel stupid. If you have never eaten hot pot and you are bringing four people who have not either, a chain removes every way the evening can go wrong.
+**What the chains do better.** They take bookings, which most of the independents handle badly or not at all. They open late and keep opening when the independents have shut. They give you a picture menu on a tablet, printed cooking times, an apron and a bag for your coat. Their staff are trained to walk a first-timer through the order without making them feel stupid. If you have never eaten hot pot and you are bringing four people who have not either, a chain removes every way the evening can go wrong.
 
 **Where the independents win.** Specificity and price. No chain in London serves a charcoal copper pot, a lamb spine, a Chaoshan menu sorted by cut, or a Hainanese coconut chicken broth — those are all single-site restaurants, and they are the meals worth travelling for. The independents are also materially cheaper: the Poplar and Isle of Dogs rooms will feed four for what two spend in Chinatown.
 

@@ -23,7 +23,7 @@ faq:
   - q: "Where do I see contemporary art in London for free?"
     a: "White Cube Bermondsey is 54,000 square feet behind a plain street frontage and free. The Serpentine's two galleries in Hyde Park are free and five minutes apart, and the summer Pavilion outside is a commissioned building each year."
   - q: "Which gallery is best for a short visit?"
-    a: "The Courtauld at Somerset House and the Wallace Collection are both single-building collections you can do properly in ninety minutes — unlike the National Gallery, which cannot be done in a day."
+    a: "The Courtauld at Somerset House and the Wallace Collection are both single-building collections you can do in ninety minutes — unlike the National Gallery, which cannot be done in a day."
   - q: "Are the Tate galleries connected?"
     a: "Yes — the Tate Boat runs along the Thames between Tate Britain and Tate Modern roughly every 40 minutes, stopping at the London Eye. It is a river bus rather than a tour, and Travelcard holders get a discount."
 ---
@@ -35,7 +35,7 @@ The most useful thing to know: **the free contemporary galleries are the quiet o
 > 💡 **The Short Version:** **Tate Modern** is the one everybody does and the tenth-floor view is free. **The National Gallery** is unfinishable — pick two rooms. **White Cube Bermondsey** is the best free contemporary space. **Dulwich** was the world's first public gallery. And the **Wallace Collection** is the one you can complete in an afternoon.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission prices are the galleries' own, checked August 2026. Commercial galleries are free and often overlooked — we have included the ones that mount museum-scale shows.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission prices are the galleries' own, checked August 2026. Commercial galleries are free and often overlooked — we have included the ones that mount museum-scale shows.
 
 ## Where they are
 
@@ -94,7 +94,7 @@ Two thousand paintings from the 1200s to 1900 — Van Gogh's *Sunflowers*, Turne
 
 *The Tudor rooms, at the National Portrait Gallery.*
 
-Reopened in 2023 after a three-year redevelopment that reversed the entrance, opened up the north facade and rehung the whole thing. Round the corner from the National and **consistently calmer**, which is the reason to come — the same crowds do not make it this far.
+Reopened in 2023 after a three-year redevelopment that reversed the entrance, opened up the north facade and rehung the whole thing. Round the corner from the National and **consistently calmer**: the same crowds do not make it this far.
 
 It is arranged by period rather than by artist, so it reads as a history of Britain told through faces: Tudors at the top, the twentieth century at the bottom, and you work downwards.
 
@@ -110,7 +110,7 @@ It is arranged by period rather than by artist, so it reads as a history of Brit
 
 *Tate Britain.*
 
-The national collection of British art — five hundred years of it, from Tudor portraits to the present, and **the largest holding of Turner anywhere**, kept in the purpose-built Clore Gallery. If Turner is the reason you came to London's galleries, this is the building, not the National.
+The national collection of British art — five hundred years of it, from Tudor portraits to the present, and **the largest holding of Turner anywhere**, kept in the purpose-built Clore Gallery. If you came to London's galleries for Turner, this is the building, not the National.
 
 **Free and open every day with no booking needed.** Only special exhibitions are ticketed.
 
@@ -148,9 +148,9 @@ White Cube also runs a smaller space at **Mason's Yard, SW1Y 6BU** in St James's
 
 *The summer Pavilion, at the Serpentine.*
 
-Two contemporary galleries **a five-minute walk apart** across the Serpentine bridge — Serpentine South in a 1930s tea pavilion, Serpentine North in a former gunpowder store with a Zaha Hadid extension. Both free, both small enough to do properly in an hour together.
+Two contemporary galleries **a five-minute walk apart** across the Serpentine bridge — Serpentine South in a 1930s tea pavilion, Serpentine North in a former gunpowder store with a Zaha Hadid extension. Both free, both small enough to see in an hour together.
 
-**The summer Pavilion is the real draw**: a temporary building commissioned from a different architect every year, always their first completed structure in the UK, put up beside Serpentine South from June to October and then dismantled. It is free to walk into and there is a cafe inside it.
+**The summer Pavilion** is a temporary building commissioned from a different architect every year, always their first completed structure in the UK, put up beside Serpentine South from June to October and then dismantled. It is free to walk into and there is a cafe inside it.
 
 **Weekend hours run to 7pm**, later than almost any other free gallery in London, and Monday opening is noon rather than ten.
 
@@ -166,7 +166,7 @@ In **Kensington Gardens, W2 2AR and W2 3XA.** Lancaster Gate and South Kensingto
 
 Seventy thousand square feet of white-walled gallery in the former Duke of York's military headquarters off the King's Road — fifteen rooms over three floors, and the building itself is a large part of the pleasure.
 
-**The mix of free and ticketed shows changes constantly**, which is the thing to check before travelling: some exhibitions are free, others are individually ticketed with their own separate last-entry times, so two shows in the same building can close 50 minutes apart.
+**The mix of free and ticketed shows changes constantly**, so check before travelling: some exhibitions are free, others are individually ticketed with their own separate last-entry times, so two shows in the same building can close 50 minutes apart.
 
 **Open every day, 10am to 6pm**, with last entry typically around 5pm depending on the exhibition. Re-entry on the same ticket is allowed, so you can go out for air.
 
@@ -202,7 +202,7 @@ Still free, still contemporary, still doing the thing it has done since 1901: sh
 
 The first gallery in Britain devoted entirely to photography, founded in 1971, now in a converted warehouse on a Soho side street behind Oxford Street — five floors, a bookshop that is the best of its kind in London, and a print sales room where you can buy work.
 
-> 💡 **It is free every Friday from 5pm.** That is the single most useful fact about this gallery and almost nobody knows it. Admission is otherwise **£14 including a £2 optional donation**, or £11 for seniors, students, jobseekers and disabled visitors.
+> 💡 **It is free every Friday from 5pm.** That is the most useful fact about this gallery and almost nobody knows it. Admission is otherwise **£14 including a £2 optional donation**, or £11 for seniors, students, jobseekers and disabled visitors.
 
 **Late opening Thursday and Friday to 8pm**, otherwise 10.30am–6pm Monday to Saturday and 11am–6pm Sunday, with last admission 30 minutes before close.
 
@@ -222,15 +222,15 @@ Big, ambitious, thematic shows in the middle of the Barbican — architecture, d
 
 So the Barbican splits cleanly: **the main Art Gallery is ticketed, everything in the Curve and the foyers is free.** Knowing which is which saves you assuming the whole building costs money.
 
-**Silk Street EC2Y 8DS.** Barbican and Moorgate are both five minutes, and finding the entrance is genuinely difficult — follow the yellow line painted on the pavement from Barbican station rather than trusting a map.
+**Silk Street EC2Y 8DS.** Barbican and Moorgate are both five minutes, and finding the entrance is difficult — follow the yellow line painted on the pavement from Barbican station.
 
 ### South London Gallery, Peckham
 
 *Free · Peckham Road*
 
-A Victorian gallery on Peckham Road with a **converted fire station opposite** giving it a second building, running genuinely experimental contemporary work — and free, in an area where most of the good art has moved into commercial spaces.
+A Victorian gallery on Peckham Road with a **converted fire station opposite** giving it a second building, running experimental contemporary work — and free, in an area where most of the good art has moved into commercial spaces.
 
-**Two buildings, one visit**, and they are directly across the road from each other, so check both rather than assuming the main hall is all of it.
+**Two buildings, one visit**, and they are directly across the road from each other, so check both.
 
 The **garden behind the main building is one of the quietest places in south London** — a proper walled garden rather than a courtyard, free, and almost never busy. There is a cafe attached.
 
@@ -258,7 +258,7 @@ A single townhouse full of Old Masters, armour and French eighteenth-century fur
 
 Frans Hals's *The Laughing Cavalier* is the famous one; the armoury in the basement is the surprise.
 
-**Entry to the permanent collection is free**, no booking, and it is **doable properly in ninety minutes** — which almost nothing else here is. That makes it the best answer in London to "we have one free afternoon and do not want to feel defeated".
+**Entry to the permanent collection is free**, no booking, and it is **doable in ninety minutes** — which almost nothing else here is. That makes it the best answer in London to "we have one free afternoon and do not want to feel defeated".
 
 It closes only on 24, 25 and 26 December. There are Friday Lates, talks and concerts through the year. Bond Street is five minutes.
 
@@ -270,7 +270,7 @@ It closes only on 24, 25 and 26 December. There are Friday Lates, talks and conc
 
 *Manet's A Bar at the Folies-Bergère.*
 
-Impressionists and post-Impressionists in a compact gallery above Somerset House's courtyard — Manet's *A Bar at the Folies-Bergère* and Van Gogh's *Self-Portrait with Bandaged Ear*, in a collection small enough to see properly in a single visit. One of the great small collections anywhere.
+Impressionists and post-Impressionists in a compact gallery above Somerset House's courtyard — Manet's *A Bar at the Folies-Bergère* and Van Gogh's *Self-Portrait with Bandaged Ear*, in a collection small enough to see in a single visit. One of the great small collections anywhere.
 
 **£14 for the permanent collection**, or £16 if you add the voluntary donation. A ticket including a temporary exhibition is £18, or £20 with donation. **Under-18s go free**, students and anyone on Universal or Pension Credit pay £8, and Art Fund members £9.
 
@@ -304,7 +304,7 @@ Rembrandt, Rubens, Poussin and Gainsborough, in a collection small enough to see
 
 Victorian and Pre-Raphaelite paintings in the City of London's own gallery, including Millais and Rossetti, plus a large collection of London topographical painting — the city as it looked before the buildings around you existed.
 
-**The real draw is underneath.** London's **Roman amphitheatre** was found in 1988 when they dug the foundations for this building, and the surviving walls are displayed in situ in the basement, outlined in light where the missing seating would have been. It is included, and it is free.
+**Go downstairs.** London's **Roman amphitheatre** was found in 1988 when they dug the foundations for this building, and the surviving walls are displayed in situ in the basement, outlined in light where the missing seating would have been. It is included, and it is free.
 
 **Free entry with no charge for either**, though booking a general admission ticket ahead is recommended. **Last admission is 4.45pm**, which is earlier than people expect and the usual reason for a wasted trip.
 
@@ -326,9 +326,9 @@ Bank and St Paul's are both about five minutes, and the Guildhall Yard entrance 
 
 A working **vault complex beneath Chancery Lane**, trading here since 1953, holding around thirty independent dealers behind steel doors — the largest collection of antique silver for sale anywhere in the world. You go down a staircase, through a vault door, and into a corridor of shops.
 
-**Free to walk into, no appointment necessary**, and nobody minds browsers — the dealers are used to people who have come to look. It is genuinely strange in a way no curated museum manages, because everything in it is for sale and priced accordingly, from a few pounds for a spoon to five figures for a Georgian tureen.
+**Free to walk into, no appointment necessary**, and nobody minds browsers — the dealers are used to people who have come to look. It is strange in a way no curated museum manages, because everything in it is for sale and priced accordingly, from a few pounds for a spoon to five figures for a Georgian tureen.
 
-**The hours are the catch**, and they are unusually restrictive: **9am to 5.20pm Monday to Friday, 9am to 12.50pm on Saturday, closed Sunday and bank holidays.** A Saturday afternoon visit is not possible.
+**The hours are unusually restrictive**: **9am to 5.20pm Monday to Friday, 9am to 12.50pm on Saturday, closed Sunday and bank holidays.** A Saturday afternoon visit is not possible.
 
 **53–64 Chancery Lane WC2A 1QS**, with the entrance on Southampton Buildings rather than Chancery Lane itself. Chancery Lane station is two minutes.
 
@@ -340,7 +340,7 @@ A working **vault complex beneath Chancery Lane**, trading here since 1953, hold
 
 *Leighton House, from Holland Park Road.*
 
-Frederic Leighton's studio-house, built for himself over thirty years from 1866 and unlike any other building in London. The **Arab Hall** is the reason to come: a domed, double-height room lined with sixteenth and seventeenth-century Damascus tiles Leighton collected on his travels, a gold mosaic frieze above them and a fountain in the floor.
+Frederic Leighton's studio-house, built for himself over thirty years from 1866 and unlike any other building in London. Go for the **Arab Hall**: a domed, double-height room lined with sixteenth and seventeenth-century Damascus tiles Leighton collected on his travels, a gold mosaic frieze above them and a fountain in the floor.
 
 It is a **house museum rather than a gallery**, so it is small and you go through it room by room — the great first-floor studio where he actually painted is the other set piece, with its north window and its apse.
 
@@ -352,15 +352,15 @@ It is a walk rather than a Tube ride: **High Street Kensington is about fifteen 
 
 *Free; exhibitions ticketed*
 
-**The permanent gallery is free**, and it is the reason to come — *Designer Maker User*, around a thousand objects tracing modern design from the Anglepoise lamp to road signage, on the top floor.
+**The permanent gallery is free**, and it is *Designer Maker User*, around a thousand objects tracing modern design from the Anglepoise lamp to road signage, on the top floor.
 
-The building matters as much as the collection. It is the **old Commonwealth Institute of 1962**, kept for its hyperbolic paraboloid roof — a swooping concrete curve, Grade II* listed — with the interior gutted and rebuilt in oak around a full-height atrium.
+The building is as interesting as the collection. It is the **old Commonwealth Institute of 1962**, kept for its hyperbolic paraboloid roof — a swooping concrete curve, Grade II* listed — with the interior gutted and rebuilt in oak around a full-height atrium.
 
 ![The oak-lined atrium of the Design Museum, looking up to the free top-floor gallery beneath the swooping concrete roof of the former Commonwealth Institute](../../assets/articles/best-galleries-london/design-museum-atrium.jpg)
 
 *The atrium, at the Design Museum.*
 
-**Free to walk into, with temporary exhibitions ticketed separately** — and those are usually the ones being advertised, so it is worth knowing you can see the permanent collection without paying anything. It sits on the Holland Park side of Kensington High Street, about eight minutes from the station.
+**Free to walk into, with temporary exhibitions ticketed separately** — and those are usually the ones being advertised, but you can see the permanent collection without paying anything. It sits on the Holland Park side of Kensington High Street, about eight minutes from the station.
 
 ### Colosseum: The Legendary Arena and Space Explorers, Camden
 
@@ -376,7 +376,7 @@ Headset reconstructions you **walk through rather than watch** — the Colosseum
 
 **The ISS experience runs about 40 minutes at £20.50**, and you should arrive 10 to 15 minutes early for check-in and fitting. **Minimum age 8**, with children accompanied.
 
-> ⚠️ **It is not wheelchair accessible**, which the venue states plainly and which rules it out for some visitors — worth knowing before booking, since almost everything else on this page is step-free.
+> ⚠️ **It is not wheelchair accessible**, which the venue states plainly and which rules it out for some visitors — check before booking, since almost everything else on this page is step-free.
 
 ---
 

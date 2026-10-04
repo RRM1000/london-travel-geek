@@ -108,7 +108,7 @@ Ordered cheapest first within each block: budget chains, then mid-range, then pr
 
 **Nuffield Health publishes its joining fee and has the pools.** £29, not framed as a promotion and not waived by any offer — £39 at the three City clubs. Membership runs **£77** at Ilford to **£137** at Barbican, City and Moorgate on a twelve-month Anytime plan, with rolling costing £17 to £25 a month more.
 
-At Islington the ladder is **£109 off-peak, £128 Anytime, £150 rolling** — so the off-peak tier saves £41 a month, more than twice what a year's commitment saves. The catch is that off-peak means something different at every club: Covent Garden is 09:00–17:00 weekdays with weekends entirely free, while **Bromley is 06:00–16:00 weekdays with no weekend access at all**. There are eight distinct London off-peak schedules. Check the specific club's hours before the price.
+At Islington the ladder is **£109 off-peak, £128 Anytime, £150 rolling** — so the off-peak tier saves £41 a month, more than twice what a year's commitment saves. Off-peak means something different at every club: Covent Garden is 09:00–17:00 weekdays with weekends entirely free, while **Bromley is 06:00–16:00 weekdays with no weekend access at all**. There are eight distinct London off-peak schedules. Check the specific club's hours before the price.
 
 **Fitness First runs £54 at Brixton to £120 at Baker Street, London Bridge Cottons and Marylebone**, with Streatham at £65, Oxford Circus and The Strand at £75, and a cluster at £90. It charges a joining fee and never says how much; the terms confirm it exists ("your first payment including any joining fee will be paid upfront by card payment"). Multi-club access is included but tiered: "you can use any club at your membership tier or below". The reach is stated inconsistently — Bishopsgate says 22 other gyms, Streatham says 13, Baker Street names three. Liverpool Street advertises "from just £85 a month" and prices at £90.
 
@@ -212,7 +212,7 @@ The operators' own break-even claim is twice a week. Everyone Active states it i
 
 Boutique studios do not sell a gym floor. They sell a booked class at £26 to £35, then sell you a way of paying less per class in exchange for going more often. **Nothing here has a pool.**
 
-| Studio | London sites | One class | Membership from | Membership to | The catch |
+| Studio | London sites | One class | Membership from | Membership to | Restrictions |
 | --- | --- | --- | --- | --- | --- |
 | **Digme Fitness** | 2 | £26 | £69 (4 a month) | £159 unlimited | Classes valid one month, no carry-over |
 | **1Rebel** | 13 | £26 | £75 (4 a month) | £229 unlimited | **6-month minimum on every membership** |
@@ -261,7 +261,7 @@ Boutique studios do not sell a gym floor. They sell a booked class at £26 to £
 
 **The Hampstead ponds are £5.00** — Kenwood Ladies', Highgate Men's and the Mixed Pond, open all year, £3.00 concession and under-16. They are deep, opaque and unlifeguarded in the way open water always is; competent swimmers only. Season tickets run £83 for six months or £157 for a year on the ponds alone, £171 and £252 on the Lido, £216 and £348 for both.
 
-**And the rest worth knowing.** **Oasis in Covent Garden** has an outdoor heated pool and an indoor one in the middle of the West End (£8.10, or £5.80 with a Pay&Play card). **Ironmonger Row Baths** in Islington has the Turkish spa (£7.60 off-peak). **Pools on the Park** in Richmond has both indoor and outdoor. **Porchester** has a 30m four-lane main pool, a 20m teaching pool and the Porchester Spa. **Britannia** and **London Fields Lido** are £6.40, or £4.55 with a card. **Crystal Palace at £3.20 off-peak is the cheapest swim we found anywhere in London**, with seniors at £2.50 any time.
+**And the rest.** **Oasis in Covent Garden** has an outdoor heated pool and an indoor one in the middle of the West End (£8.10, or £5.80 with a Pay&Play card). **Ironmonger Row Baths** in Islington has the Turkish spa (£7.60 off-peak). **Pools on the Park** in Richmond has both indoor and outdoor. **Porchester** has a 30m four-lane main pool, a 20m teaching pool and the Porchester Spa. **Britannia** and **London Fields Lido** are £6.40, or £4.55 with a card. **Crystal Palace at £3.20 off-peak is the cheapest swim we found anywhere in London**, with seniors at £2.50 any time.
 
 > ⚠️ **Crystal Palace has no 50-metre pool to swim in.** Better lists a 25-metre training pool and a teaching pool there. For long-course lanes, go to the London Aquatics Centre, Hillingdon or London Fields Lido.
 
@@ -361,9 +361,9 @@ You do not have to join anything. Almost every operator here sells a way in for 
 
 1. **Check your borough first, before any brand.** If you live in Southwark or Tower Hamlets, or you qualify in Wandsworth, part of your swimming and gym use is free and no commercial membership will beat it.
 2. **Price the specific club, never the brand.** The same PureGym membership is £22.99 or £49.99. The same Nuffield is £77 or £137. The same Virgin Active joining fee is £25 or £250.
-3. **Count your visits honestly.** Under three a week, pay-as-you-go usually wins at a public pool. At a boutique studio, a pack beats a membership below twice a week — as long as you read the expiry.
+3. **Count your visits.** Under three a week, pay-as-you-go usually wins at a public pool. At a boutique studio, a pack beats a membership below twice a week — as long as you read the expiry.
 4. **Add the joining fee to the first year.** A £15 monthly saving takes about a year and a half to earn back a £250 fee.
-5. **If you need a pool, that decides it.** It rules out the entire budget market and Gymbox, and it makes Nuffield, David Lloyd, Bannatyne or your council the realistic choice.
+5. **If you need a pool, the choice narrows.** It rules out the entire budget market and Gymbox, and it makes Nuffield, David Lloyd, Bannatyne or your council the realistic choice.
 6. **Read the off-peak hours, not the off-peak price.** Nuffield has eight different London schedules and The Gym Group eleven. David Lloyd's entry tier is 11am–4pm on weekdays. Same discount, completely different product.
 7. **Check the contract length against how sure you are.** Rolling costs 26–36% more at Virgin Active, 31–37% at Gymbox and 18–20% at Nuffield. That is the price of being able to leave, and for a lot of people it is worth paying.
 
@@ -374,7 +374,7 @@ You do not have to join anything. Almost every operator here sells a way in for 
 - 🌳 **[The Best Parks and Gardens in London](/articles/best-parks-gardens-london/)** — the Heath, the lidos and the ponds in context
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — the same arithmetic applied to everything else
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)** — indoor pools included
-- 🏃 **[The London Marathon Guide](/articles/london-marathon-guide/)** — if the training is the reason you are joining
+- 🏃 **[The London Marathon Guide](/articles/london-marathon-guide/)** — if you are joining to train
 - 🌲 **[Hampstead Area Guide](/articles/hampstead-area-guide/)** — the ponds, the Lido and Parliament Hill
 - 🚴 **[Cycling and Bike Hire in London](/articles/cycling-bike-hire-scooters-london/)** — the cheapest cardio in the city
 - 🏙️ **[Stratford Area Guide](/articles/stratford-area-guide/)** — for the London Aquatics Centre

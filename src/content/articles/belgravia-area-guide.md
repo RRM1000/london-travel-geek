@@ -57,7 +57,7 @@ area:
       note: "West through Knightsbridge for the three free museums."
 faq:
   - q: "Is Belgravia worth visiting?"
-    a: "For an hour or two, yes — but not for sights, because it has none. It is worth walking for the architecture, two genuinely good shopping streets in Elizabeth Street and Eccleston Yards, and the best blue-plaque route in London. If you want museums or landmarks, it is the wrong postcode."
+    a: "For an hour or two, yes — but not for sights, because it has none. It is worth walking for the architecture, two good shopping streets in Elizabeth Street and Eccleston Yards, and the best blue-plaque route in London. If you want museums or landmarks, it is the wrong postcode."
   - q: "What is there to do in Belgravia?"
     a: "Walk it. Elizabeth Street for independent shops, Eccleston Yards for a converted-industrial courtyard of food and design, four blue plaques within fifteen minutes, and Belgrave and Eaton Squares for the stucco. Everything else here is a restaurant or a hotel."
   - q: "Is Belgravia expensive?"
@@ -74,7 +74,7 @@ heroImageAlt: "Elizabeth Street in Belgravia, a quiet street of independent shop
 
 Belgravia is the wealthiest square mile in London and one of the least visited, which is not a contradiction — **there is nothing here to see**. No museum, no landmark, no view. What there is instead is white stucco, embassy flags, garden squares you cannot get into, and streets so quiet on a weekday that the loudest thing is a delivery van.
 
-That makes it a genuinely good walk and a poor destination. Two or three hours, on foot, ideally on the way somewhere else.
+That makes it a good walk and a poor destination. Two or three hours, on foot, ideally on the way somewhere else.
 
 Belgravia has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=belgravia).
 
@@ -84,7 +84,7 @@ Belgravia has its own share of the commemorative plaques marking where notable p
 
 **Skip it if** you are on a short trip. Belgravia has no attraction, and on a three-day first visit every hour spent here is an hour not spent at the British Museum. It is a return-trip area, or a detour on the way from Victoria to Sloane Square.
 
-**One honest warning about Sundays.** The streets are at their most beautiful and almost every shop is shut. Eccleston Yards keeps some life; Elizabeth Street largely does not.
+**A warning about Sundays.** The streets are at their most beautiful and almost every shop is shut. Eccleston Yards keeps some life; Elizabeth Street largely does not.
 
 ## Top sights and activities
 
@@ -132,7 +132,7 @@ Motcomb Street is the third shopping street, smaller than Elizabeth Street and m
 
 ## The blue-plaque walk
 
-This is the single best thing to do here and it takes about fifteen minutes.
+This is the best thing to do here and it takes about fifteen minutes.
 
 **Four plaques, close together**: Mozart, who composed his first symphony in Belgravia as a child; Mary Shelley; Ian Fleming; and Alfred, Lord Tennyson. It is the densest concentration of English Heritage plaques anywhere in Britain, and it is free.
 
@@ -140,7 +140,7 @@ Our [blue plaques guide](/articles/london-blue-plaques/) has the addresses and t
 
 ## Where to eat and drink
 
-Belgravia eats expensively and quietly. There is no cheap end to speak of, which is worth knowing before you arrive hungry.
+Belgravia eats expensively. There is no cheap end to speak of, so arrive fed if you are on a budget.
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |

@@ -78,13 +78,13 @@ Battersea has its own share of the commemorative plaques marking where notable p
 
 ## Why visit — and who should skip it
 
-**Come here if** you like industrial architecture, or you want a park with a river view that is not full of tourists. The two turbine halls are genuinely impressive and cost nothing to walk into.
+**Come here if** you like industrial architecture, or you want a park with a river view that is not full of tourists. The two turbine halls are impressive and cost nothing to walk into.
 
-**Skip it if** you dislike shopping centres. Beyond the shell and the turbine halls, much of the Power Station is a mall — a very handsome one, but a mall. If that is not the draw, the park alone justifies the trip.
+**Skip it if** you dislike shopping centres. Beyond the shell and the turbine halls, much of the Power Station is a mall — a very handsome one, but a mall. If shopping does not interest you, the park alone justifies the trip.
 
 ## Top sights and activities
 
-1. **Battersea Power Station** — Free to enter. **Turbine Hall A** is restored 1930s art deco; **Turbine Hall B** is 1950s, plainer and more industrial. Walking between the two is the point.
+1. **Battersea Power Station** — Free to enter. **Turbine Hall A** is restored 1930s art deco; **Turbine Hall B** is 1950s, plainer and more industrial. Walk from one hall to the other to compare them.
 2. **The Chimney Lift** — A glass lift 109 metres up inside the north-west chimney, opening at the top for a 360-degree view. **Renamed from Lift 109**. Adult tickets from £16 online against £24 on the day.
 3. **Battersea Park** — 200 acres with a boating lake, a Grade II listed Victorian layout, and a riverside path facing Chelsea.
 4. **The Peace Pagoda** — A Buddhist monument given to London in 1985, built by monks to mark 40 years since Hiroshima and Nagasaki. On the riverside path, with a resident monk.
@@ -114,7 +114,7 @@ Battersea has its own share of the commemorative plaques marking where notable p
 
 *Battersea Power Station's brick facade.*
 
-The building reopened in **October 2022** after decades derelict, and the thing worth knowing before you go is that **walking into it is free**. Over 170 shops, bars and restaurants now fill it, but the fabric is the reason to come: only the Chimney Lift, the cinemas and the ticketed exhibitions cost anything.
+The building reopened in **October 2022** after decades derelict, and **walking into it is free**. Over 170 shops, bars and restaurants now fill it, but the restored fabric of the building is on show for nothing: only the Chimney Lift, the cinemas and the ticketed exhibitions cost anything.
 
 **Walk between the two turbine halls, because they are not the same building.** **Turbine Hall A** is the 1930s one — Art Deco, restrained, the better room. **Turbine Hall B** is 1950s, plainer and frankly industrial, built when the money and the mood had changed. Standing in one and then the other is the clearest architectural lesson in the place and it costs nothing.
 
@@ -144,7 +144,7 @@ East towards Vauxhall, and the least finished part of the area. The **US Embassy
 
 The **"linear park"** that plans show running from here to Vauxhall is being built plot by plot and **is not finished**, so do not plan a green walk along it. The **Sky Pool** — the transparent pool slung between two towers at Embassy Gardens — is **residents only**, and not a sight.
 
-This is the largest regeneration zone in central London, 227 hectares of it, and it reads that way: worth walking through for the scale and the strangeness rather than for anything specific at the end.
+This is the largest regeneration zone in central London, 227 hectares of it, and it reads that way: worth walking through for the scale and the strangeness; there is nothing specific at the end.
 
 <div data-stay-strip></div>
 
@@ -158,7 +158,7 @@ The **Peace Pagoda** on the riverside path was built in 1985 by fifty monks, nun
 
 Also here: the **Pump House Gallery** in an 1861 water tower, free and showing contemporary art; a Victorian **bandstand**; the **Children's Zoo** (adult £17.50, child £13.95, no booking needed); **Go Ape**, mini golf and a boules pitch; and the **Millennium Arena** for athletics.
 
-**Worth knowing:** the park's 1860s **Pulhamite cascades** have not run properly in nearly a century and are being restored with Heritage Fund money, to run on solar power.
+The park's 1860s **Pulhamite cascades** have not run in nearly a century and are being restored with Heritage Fund money, to run on solar power.
 
 ### Battersea Village and Battersea Square
 
@@ -229,7 +229,7 @@ At Christmas the Power Station adds a riverside skate trail and winter food huts
 3. **Turning up for the Chimney Lift without checking.** Timed entry, weekends sell out, and it shuts for maintenance — it was closed through August 2026.
 4. **Skipping the park.** It is the better half of Battersea and fifteen minutes west.
 5. **Missing the Peace Pagoda.** It is on the riverside path and easy to walk past.
-6. **Coming only for the shops.** The architecture is the reason; the retail is incidental.
+6. **Coming only for the shops.** The architecture is what stands out; the retail is incidental.
 
 ## Where to stay
 

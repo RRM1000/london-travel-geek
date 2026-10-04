@@ -88,7 +88,7 @@ Order the **stone bass ceviche** — the fish cured in leche de tigre, the cloud
 
 *Coya's dining room, Mayfair.*
 
-The food is better than the room's reputation suggests when you order Peruvian rather than around it: the **signature ceviche platter** runs sea bass, corvina, yellowtail and tuna, each cured differently, and the **anticuchos** — charcoal skewers, here beef fillet with ají panca — are the thing to have with a pisco sour. Skip the burrata.
+The food is better than the room's reputation suggests when you order Peruvian rather than around it: the **signature ceviche platter** runs sea bass, corvina, yellowtail and tuna, each cured differently, and the **anticuchos** — charcoal skewers, here beef fillet with ají panca — are the dish to have with a pisco sour. Skip the burrata.
 
 **Open until 1am, and it books weeks ahead at weekends.** The City site at Angel Court, behind the Bank of England, is the same menu with fewer tourists and more bankers.
 
@@ -152,13 +152,13 @@ Order the **sea bass ceviche**, the **black cod with ají miso** — the Peruvia
 
 *££ · 103 Newington Butts, SE1 6SF · #14 of 20, Time Out · Cited by 3 sources*
 
-Three sources name it and none of them calls it fashionable, which is the point. The Infatuation's line is the best description anyone has written of it: **"Outside it's a canteen, but inside it gives 1960s banquet wedding"** — white tablecloths, Peruvian owners, no interest whatsoever in what Soho is doing.
+Three sources name it and none of them calls it fashionable. The Infatuation's line is the best description anyone has written of it: **"Outside it's a canteen, but inside it gives 1960s banquet wedding"** — white tablecloths, Peruvian owners, no interest whatsoever in what Soho is doing.
 
 ![A white plate on a white tablecloth holding beef slow-cooked in a dark coriander sauce with canary beans, a moulded dome of white rice, a length of boiled cassava and a pile of sliced red onion](../../assets/articles/best-peruvian-restaurants-london/sabor-peruano-seco-con-frijoles.jpg)
 
 *Sabor Peruano's criollo cooking.*
 
-The menu is **Chifa-heavy**: **arroz chaufa**, Peruvian fried rice with beef, egg, spring onion, beansprouts and — properly — diced hot dog; **lomo saltado** with tomato, onion, chips and white rice; **mazamorra morada**, a thick purple-corn pudding with pineapple, apple and cinnamon, for afterwards. Starters and ceviches £3 to £8, mains £12 to £22.
+The menu is **Chifa-heavy**: **arroz chaufa**, Peruvian fried rice with beef, egg, spring onion, beansprouts and, traditionally, diced hot dog; **lomo saltado** with tomato, onion, chips and white rice; **mazamorra morada**, a thick purple-corn pudding with pineapple, apple and cinnamon, for afterwards. Starters and ceviches £3 to £8, mains £12 to £22.
 
 **Closed Mondays, and it shuts at 9pm Tuesday to Saturday and 7.30pm on Sunday** — early enough that it is a proper dinner and still an evening at home.
 
@@ -168,7 +168,7 @@ The menu is **Chifa-heavy**: **arroz chaufa**, Peruvian fried rice with beef, eg
 
 Japanese, Brazilian and Peruvian on one menu, at the top of Heron Tower with an orange tree growing through the open-air terrace. Time Out's verdict is fair: not the most authentic, "a hell of a lot of fun".
 
-The Peruvian half is worth ordering deliberately rather than letting the sushi carry the table: **octopus and chorizo anticuchos over choclo**, the big-kernelled Andean corn, and **crisp plantain with ají amarillo sauce**. Harden's readers rate the food and object to the price and the pace — "they churn out huge numbers of covers".
+Order the Peruvian half deliberately rather than letting the sushi carry the table: **octopus and chorizo anticuchos over choclo**, the big-kernelled Andean corn, and **crisp plantain with ají amarillo sauce**. Harden's readers rate the food and object to the price and the pace — "they churn out huge numbers of covers".
 
 **Ask for a terrace table when you book**, and read our [Japanese restaurants guide](/articles/best-japanese-restaurants-london/) if the sushi side is what you are actually after. A ground-floor Covent Garden site has the food without the view.
 
@@ -198,7 +198,7 @@ Jade-green walls with a water-lily motif, cushioned booths and low light, in the
 
 *Ayllu's dining room, Paddington.*
 
-The raw half is the reason to come: **oysters with truffle and leche de tigre**, **tuna tataki tiradito**, and the lubina clásica, a sea bass ceviche. Away from the fish there is sweet potato katsu curry with kimchi, bao buns, and a Peruvian steak with black lime butter and crisp garlic. Tasting menus £45 to £59.
+Come for the raw half: **oysters with truffle and leche de tigre**, **tuna tataki tiradito**, and the lubina clásica, a sea bass ceviche. Away from the fish there is sweet potato katsu curry with kimchi, bao buns, and a Peruvian steak with black lime butter and crisp garlic. Tasting menus £45 to £59.
 
 **Open late every night — midnight on Fridays and Saturdays** — and the weekend samba brunch is the busiest service of the week, so book away from it if you want to hear anyone.
 
@@ -222,7 +222,7 @@ The order is the **hamachi tiradito** to start and the **sashimi platter for two
 
 A small, plain room on a Notting Hill side street doing what it calls neo-Nikkei: Nikkei with the Cantonese-Peruvian strand pulled through it as well. **Nigiri dressed with ají amarillo, or with pachikay** — the Peruvian-Cantonese chilli oil of sesame, garlic, chilli, ginger and spring onion.
 
-**The signature tasting menu is £120 a head.** The day menu at £39 — one tiradito or ceviche, two nigiri, two maki rolls and a main — is the honest way in, and runs every service except Friday and Saturday evenings. There is also a build-your-own six-course menu at £69.
+**The signature tasting menu is £120 a head.** The day menu at £39 — one tiradito or ceviche, two nigiri, two maki rolls and a main — is the cheaper way in, and runs every service except Friday and Saturday evenings. There is also a build-your-own six-course menu at £69.
 
 **Dinner only Monday to Thursday, from 6.15pm.** The smallest and most expensive kitchen in this guide per head.
 
@@ -337,7 +337,7 @@ Peruvian London's budget end is real, and most of it is south and east of the We
 
 Named traders only — the halls themselves are not the recommendation.
 
-* **Chan Chan**, Indoor Unit 45, Rye Lane Market, 48 Rye Lane, SE15 5BY. Carlos Medina and Carla cook the classics plus **parihuela**, a spiced seafood soup of mussels, prawns, squid and white fish that appears at weekends and is the reason to make the trip in winter. Ceviche, arroz chaufa and lomo saltado the rest of the time. **Closed Monday and Tuesday; Saturday 11am–8pm is the long day.** #9 of 20, Time Out · Cited by 1 source.
+* **Chan Chan**, Indoor Unit 45, Rye Lane Market, 48 Rye Lane, SE15 5BY. Carlos Medina and Carla cook the classics plus **parihuela**, a spiced seafood soup of mussels, prawns, squid and white fish that appears at weekends and is the dish for a winter trip. Ceviche, arroz chaufa and lomo saltado the rest of the time. **Closed Monday and Tuesday; Saturday 11am–8pm is the long day.** #9 of 20, Time Out · Cited by 1 source.
 * **Lima Limón**, Unit 21 Market Row, Brixton, SW9 8LB. Pink walls, string lights, and two dishes the West End lists skip: **jalea**, a battered heap of squid, king prawn, mussels and sea bass under salsa criolla and fried cassava, and **pulpo a la brasa**, octopus over the coals instead of the usual chicken. **Picarones**, pumpkin and sweet potato doughnuts, after. **Wednesday to Sunday, 1pm–9pm.** #10 of 20, Time Out · Cited by 1 source.
 
 ---

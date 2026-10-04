@@ -31,7 +31,7 @@ Several are cheaper than the chains, and one is where film was first shown in Br
 > 💡 **The Short Version:** **The Prince Charles** is the cult cinema of London, with 35mm and all-night marathons. **Regent Street Cinema** is where the Lumières first showed film in Britain in 1896. **Electric Portobello** opened in 1911, is London's oldest purpose-built cinema, and has armchairs, sofas and front-row beds. **Peckhamplex** shows current releases for £6.99. And **Screen on the Canal** is free.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains, except where a chain operates a genuinely historic building. Programmes change weekly — check the cinema's own listings rather than an aggregator.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains, except where a chain operates a historic building. Programmes change weekly — check the cinema's own listings rather than an aggregator.
 
 ## Where they are
 
@@ -58,7 +58,7 @@ Several are cheaper than the chains, and one is where film was first shown in Br
 
 The building itself has had an odder run than most: opened in 1962 as a theatre, it hosted a young Judy Garland filming *The Jack Paar Program* in 1964, then spent decades as an arthouse cinema notorious for the UK's longest continuous run of *Emmanuelle*, and gave *Hellraiser* its world premiere in 1987 before a 1991 takeover turned it into the repertory house it is now. Two screens, **300 velvet seats downstairs and 104 leather seats upstairs**.
 
-The programming is the point: this is where you see *The Thing* at midnight, not a new release.
+The programming is cult and classic film: this is where you see *The Thing* at midnight, not a new release.
 
 ### Regent Street Cinema, Oxford Circus
 
@@ -99,7 +99,7 @@ The second Electric, inside **BBC Television Centre** — the building that made
 
 Same armchair-and-sofa format as Portobello, a proper kitchen rather than a snack counter, and **far easier to get into** — which is the practical reason to choose it. The Portobello original sells out days ahead; this one rarely does.
 
-**Book a specific seat rather than a ticket.** Armchairs, sofas and double beds are priced differently and the layout matters more than in a normal cinema.
+**Book a specific seat rather than a ticket.** Armchairs, sofas and double beds are priced differently, and the layout is more varied than in a normal cinema.
 
 **2 Television Centre, W12 7FR**, five minutes from White City on the Central line and about the same from Wood Lane.
 
@@ -117,7 +117,7 @@ It is also **the only cinema in the UK licensed to publicly screen nitrate film*
 
 A freestanding glass drum on the roundabout north of Waterloo station, and **the largest cinema screen in the UK** by the BFI's own measure — one of only three cinemas in the country that can still project genuine **70mm IMAX film** rather than digital.
 
-**That distinction is the whole reason to come.** Most screens marketed as IMAX are digital and a fraction of the size; this one runs the real format when a film is released in it, which is a handful of titles a year.
+**That distinction sets it apart.** Most screens marketed as IMAX are digital and a fraction of the size; this one runs the real format when a film is released in it, which is a handful of titles a year.
 
 **Sit further back than feels right.** The screen is over twenty metres high and the front third of the auditorium is too close to take it in.
 
@@ -151,13 +151,13 @@ It has since built a second screen, a kitchen and an all-day café, and runs on 
 
 *Between Holborn and Covent Garden*
 
-One of London's newest independents, opened in 2022 on Parker Street, a back street genuinely between Holborn and Covent Garden rather than in either. **Three screens (40, 60 and 70 seats)** run curated seasons alongside new releases from around the world, with regular post-screening discussions with filmmakers.
+One of London's newest independents, opened in 2022 on Parker Street, a back street between Holborn and Covent Garden rather than in either. **Three screens (40, 60 and 70 seats)** run curated seasons alongside new releases from around the world, with regular post-screening discussions with filmmakers.
 
 Membership is **£25 a year and includes a free screening every fortnight** — which pays for itself in about three visits and is one of the cheaper ways into a repertory programme this deep anywhere in London.
 
 **There is a bar downstairs open to anyone**, ticket or not, which is unusual for an independent this size and makes the building usable without a booking.
 
-**Parker Street is genuinely hard to find**, tucked between Kingsway and Drury Lane. Holborn and Covent Garden stations are each about five minutes, and neither signposts it.
+**Parker Street is hard to find**, tucked between Kingsway and Drury Lane. Holborn and Covent Garden stations are each about five minutes, and neither signposts it.
 
 ![One of The Garden Cinema's two art deco bars, with a curved red bar front, a comic-book mural and red banquette seating](../../assets/articles/best-cinemas-london/garden-cinema-bar.jpg)
 
@@ -193,7 +193,7 @@ Built on the site of Frank Matcham's 1885 Paragon Theatre, converted at a cost o
 
 **Tickets are £4.99 Monday to Wednesday** on the standard screens — the cheapest cinema ticket in this guide by a distance, and it is not a stripped-back experience: five screens, a bar, and a dedicated 35mm strand.
 
-**The £4.99 is the reason to plan around a weekday.** Thursday to Sunday it prices normally, so the same film in the same seat costs considerably more three days later.
+**Plan around a weekday for the £4.99.** Thursday to Sunday it prices normally, so the same film in the same seat costs considerably more three days later.
 
 **It has a bar and a cafe that operate independently of the screenings**, so you can use the building without a ticket — unusual outside the Barbican and the BFI.
 
@@ -215,7 +215,7 @@ The Barbican runs one of the most ambitious repertory programmes in London, **ta
 
 > ⚠️ **The three screens are in two different buildings.** Cinema 1 is inside the Centre; Cinemas 2 and 3 are on Beech Street, a few minutes away through the estate. Check which is on your ticket, because finding the second pair from the first is not quick.
 
-**Follow the yellow line painted on the pavement** from Barbican station — the estate is genuinely difficult to navigate and the line exists because of it.
+**Follow the yellow line painted on the pavement** from Barbican station — the estate is difficult to navigate and the line exists because of it.
 
 ### Phoenix Cinema, East Finchley
 
@@ -237,7 +237,7 @@ The most straightforwardly good thing on this page, and a proper cinema besides.
 
 **Seventy-five seats is small**, so popular screenings go, and the programme mixes new releases with one-off events rather than running films for weeks.
 
-**Kensal Rise is the station**, on the Overground, about five minutes' walk — which is the catch: it is not on the Tube, and from central London it is a change at Willesden Junction or a bus.
+**Kensal Rise is the station**, on the Overground, about five minutes' walk — it is not on the Tube, and from central London it is a change at Willesden Junction or a bus.
 
 <div data-stay-strip></div>
 
@@ -291,9 +291,9 @@ Opened on **11 March 1911** as the Electric Pavilion with over 750 seats, and no
 
 An independent showing **current releases for £6.99**, plus a 60p booking fee — in central London the same money barely buys a drink. It has been undercutting the chains for years and shows no sign of stopping.
 
-**The price is flat.** No peak pricing, no weekend surcharge, no premium seats — £6.99 is £6.99 on a Saturday night, which is the thing that makes it remarkable rather than merely cheap.
+**The price is flat.** No peak pricing, no weekend surcharge, no premium seats — £6.99 is £6.99 on a Saturday night, which makes it remarkable rather than merely cheap.
 
-**It is a proper multiplex rather than an arthouse**, showing what everyone else is showing, so this is where you see a blockbuster rather than a restoration.
+**It is a proper multiplex rather than an arthouse**, showing what everyone else is showing, so this is where you see a blockbuster.
 
 ![The pink PECKHAMPLEX sign above the cinema's brick frontage, with potted plants either side of the entrance](../../assets/articles/best-cinemas-london/peckhamplex.jpg)
 
@@ -305,11 +305,11 @@ An independent showing **current releases for £6.99**, plus a 60p booking fee �
 
 *Free · summer*
 
-Films projected beside the canal in summer, watched from the **canal steps below Granary Square**, for nothing. The rare genuinely free outdoor cinema — no ticket, no booking, no minimum spend.
+Films projected beside the canal in summer, watched from the **canal steps below Granary Square**, for nothing. The rare free outdoor cinema — no ticket, no booking, no minimum spend.
 
 **Bring something to sit on.** The steps are stone, they get cold, and there is no seating provided — which is the trade for it being free.
 
-**It runs in summer only** and the programme is announced a few weeks ahead rather than months, so check close to the date rather than planning around it.
+**It runs in summer only** and the programme is announced a few weeks ahead rather than months, so check close to the date.
 
 **King's Cross St Pancras is five minutes**, and the steps are the best free seat in the area even when nothing is being shown.
 
@@ -329,7 +329,7 @@ Popular slots sell out and **a waitlist opens once a screening does**, so a full
 
 ## What it costs, and how to pay less
 
-Cinema in London runs from £4.99 to nearly £19 for the same film, so this is one of the few things here where the research genuinely saves money.
+Cinema in London runs from £4.99 to nearly £19 for the same film, so this is one of the few things here where the research saves money.
 
 #### The cheapest tickets
 
@@ -359,8 +359,8 @@ Cinema in London runs from £4.99 to nearly £19 for the same film, so this is o
 ## What to know
 
 * **The Prince Charles membership** costs a few pounds and pays for itself almost immediately.
-* **Peckhamplex is genuinely that cheap** and shows the same films as the West End.
-* **The Electric charges accordingly** — you are buying the armchair, not the film. Going **before 5pm on a weekday** takes a non-member armchair from £25 to £15, which is the single biggest saving on this page.
+* **Peckhamplex is that cheap** and shows the same films as the West End.
+* **The Electric charges accordingly** — you are buying the armchair, not the film. Going **before 5pm on a weekday** takes a non-member armchair from £25 to £15, which is the biggest saving on this page.
 * **Soho House and Soho Friends members pay less at both Electrics** all week, and under-27 members get a further discount on Mondays, bookable only at the box office.
 * **BFI Southbank's Mediatheque is free** and lets you watch archive film with no ticket at all.
 * **Screen on the Canal is summer only** and weather-dependent.

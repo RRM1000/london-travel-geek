@@ -19,14 +19,14 @@ faq:
   - q: "Where are London's best brewery taprooms?"
     a: "Two beer miles cover most of it. Bermondsey — the stretch of railway arches south of Tower Bridge — has The Kernel, Anspach & Hobday, Cloudwater and half a dozen more within a fifteen-minute walk of each other. Blackhorse Lane in Walthamstow is the newer, cheaper version of the same idea, built around Exale Brewing & Taproom."
   - q: "Do London's craft beer pubs take bookings?"
-    a: "Most don't, and don't need to — a micropub with one room and a handpump is a walk-in by design. The taprooms with a kitchen behind them are the exception: Jolly Coopers in Epsom books online, and The Bear in Paddington and The Dark Horse in Croydon both run a booking page for food. Check before a special trip rather than assuming either way."
+    a: "Most don't, and don't need to — a micropub with one room and a handpump is a walk-in by design. The taprooms with a kitchen behind them are the exception: Jolly Coopers in Epsom books online, and The Bear in Paddington and The Dark Horse in Croydon both run a booking page for food. Check before a special trip."
   - q: "Which London pub still pours a pint at 6am?"
     a: "The Market Porter at Borough Market, one of only two pubs left in London with a licence for the old market trading hours — it opens 6am to 9am on weekdays before closing and reopening for the normal evening session. It's a genuine, if peculiar, London experience rather than a stunt: the early crowd is mostly market traders."
 heroImage: ../../assets/articles/best-craft-beer-pubs-london/the-market-porter.jpg
 heroImageAlt: "The Market Porter's green Victorian frontage at Borough Market, with a chalkboard advertising its 6am to 9am early morning opening"
 ---
 
-Ask who judges London's best craft beer pub and you hit a structural problem before you hit an opinion. CAMRA — the Campaign for Real Ale, the only body that actually judges pubs rather than beers — doesn't crown one. Its Pub of the Year competition runs branch by branch, thirteen of them across Greater London, and there is no final round where Bromley's winner meets Richmond's. "Which branch won" is really thirteen separate, unconnected answers, and two of those branches ran theirs as a dead-heat rather than a single pub.
+Ask who judges London's best craft beer pub and you hit a structural problem before you hit an opinion. CAMRA — the Campaign for Real Ale, the only body that actually judges pubs rather than beers — doesn't crown one. Its Pub of the Year competition runs branch by branch, thirteen of them across Greater London, and there is no final round where Bromley's winner meets Richmond's. "Which branch won" is really thirteen separate, unconnected answers, and two of those branches ran theirs as a dead heat.
 
 So this guide counts across all of it: the eleven branches that published a result, the editorial lists that rank taprooms rather than pubs, the independent specialists who actually walk the beer miles, and the video crawls that go pub to pub with a phone camera and a chapter list.
 
@@ -82,7 +82,7 @@ It's a micropub in the strict sense: **one room, no music, no fruit machines**, 
 
 ShortList's own independently-reported pick for the best beer list in London and CAMRA's 2026 Sutton branch winner turn out to be the same building, named with no reference to each other — a mock-Tudor pub with **seven handpumps for real ale** and, per the branch's own count, more than ten Pub of the Year wins across the years, five of them at Greater London level.
 
-Inside it's deliberately unmodernised: **no TV, no muzak, no fruit machines**, a warren of small rooms rather than one bar, and a kitchen running soups and sandwiches rather than a full menu.
+Inside it's deliberately unmodernised: **no TV, no muzak, no fruit machines**, a warren of small rooms rather than one bar, and a kitchen limited to soups and sandwiches.
 
 **Food service stops at 2.45pm** and the pub itself runs to 11pm most nights — this is a beer list to sit with, not a dinner stop. 48 West Street, Carshalton SM5 2PR.
 
@@ -96,7 +96,7 @@ Inside it's deliberately unmodernised: **no TV, no muzak, no fruit machines**, a
 
 Closed as a pub in 2021, reopened by new owners in March 2025, and judged the best pub in the SE London CAMRA branch within about a year of pulling its first pint again — a faster turnaround than almost anything else in this guide. Will Hawkes's own beer newsletter named it independently of the award, run by Alice and Oli Carter-Esdale, which is the kind of confirmation that actually means something.
 
-It's a single-room Victorian street-corner pub, refurbished in the traditional style rather than knocked through into something bigger — **a proper bar rather than a lounge**, on the corner of Bermondsey Street and Cluny Mews.
+It's a single-room Victorian street-corner pub, refurbished in the traditional style rather than knocked through into something bigger — **a proper bar**, on the corner of Bermondsey Street and Cluny Mews.
 
 **Open to 10pm on weeknights, 11pm Friday and Saturday.** 244 Bermondsey Street, London SE1 3UH.
 
@@ -152,7 +152,7 @@ Unit 2C Uplands Business Park, Blackhorse Lane, London E17 5QJ.
 
 Opened in 2009 and still describes itself as **London's first craft-beer-focused pub**, which Secret London's own countdown puts at the top of its 2024 list: **"award-winning pub"** with **"an extensive list of draught beer."** On the ground, that's **ten cask lines, twenty-two keg taps and a "vintage cellar"** of aged and rare bottles — one of the widest pours on this whole list, in a corner pub a ten-minute walk from Victoria.
 
-The kitchen does burgers rather than bar snacks, which is unusual for a pub this beer-focused, and the room is properly sized for it — this isn't a two-table micropub.
+The kitchen does burgers rather than bar snacks, which is unusual for a pub this beer-focused, and the room is sized for it — this isn't a two-table micropub.
 
 **Open to 11pm Monday to Saturday, 10.30pm Sunday.** 6 Charlwood Street, London SW1V 2EE.
 
@@ -233,7 +233,7 @@ It's a proper European-style beer hall — long tables, high ceilings, food cook
 
 *££ · Wallis Road, Hackney Wick · Cited by 4 sources*
 
-The physical taproom for an online bottle shop that ships around a thousand different beers, which is the reason its own **twenty keg lines** run from easy, affordable pints through to the hard-to-find bottles most pubs never stock. CAMRA's own listing backs the number up directly.
+The physical taproom for an online bottle shop that ships around a thousand different beers, which is why its own **twenty keg lines** run from easy, affordable pints through to the hard-to-find bottles most pubs never stock. CAMRA's own listing backs the number up directly.
 
 The room is set up for sitting rather than standing — plenty of seating inside, a beer garden out the back, and a wine and spirits range alongside the beer for anyone not drinking that night.
 
@@ -265,7 +265,7 @@ It's a working mixed-fermentation brewery with a taproom bolted on rather than a
 
 *££ · Spa Road, Bermondsey · Cited by 3 sources*
 
-ShortList calls it **"London's most important independent brewery,"** and the other sources back the claim up with real specificity rather than just repeating it: MyBeerStops calls the flagship **Export India Porter** "legendary," and the taproom itself moved in August 2024 from an adjacent railway arch into a purpose-built ground-floor space — **twenty-five keg taps and two handpumps**, plus a Japanese kitchen sharing the room rather than a separate food stall.
+ShortList calls it **"London's most important independent brewery,"** and the other sources back the claim up with real specificity: MyBeerStops calls the flagship **Export India Porter** "legendary," and the taproom itself moved in August 2024 from an adjacent railway arch into a purpose-built ground-floor space — **twenty-five keg taps and two handpumps**, plus a Japanese kitchen sharing the room rather than a separate food stall.
 
 If an older write-up sends you to "the arch," that's the pre-2024 site — brewing still happens there, but the bar moved next door.
 
@@ -283,7 +283,7 @@ If an older write-up sends you to "the arch," that's the pre-2024 site — brewi
 
 The sign outside says **"Ales, Cider, Meat"** and the pub does not oversell beyond it — small-batch beers and ciders from UK independent breweries, a short menu built around meat rolls, and nothing resembling a wine list or a cocktail menu. Time Out notes the old piano against the wall that leads out to the beer garden and the crackly vinyl on the stereo, which is about as specific as this pub's whole personality gets.
 
-It **now takes card as well as cash** — worth knowing, since it was cash-only for years and the old reputation persists.
+It **now takes card as well as cash** — it was cash-only for years and the old reputation persists.
 
 **Open until midnight**, later than most of this list. 139 Highgate Road, London NW5 1LE.
 
@@ -297,7 +297,7 @@ It **now takes card as well as cash** — worth knowing, since it was cash-only 
 
 *££ · Euston Road · Cited by 3 sources*
 
-Two matching Grade II-listed lodges once marked the entrance to the old Euston station, and this is the west one — **"London's original cask ale, real cider and craft beer tavern,"** by its own description, running **forty-seven draught lines** with no brewery affiliation of its own, so the list is free to change entirely on the site's judgement rather than push one brand. One visitor singled out **London Black** — Anspach & Hobday's porter, turning up again — as the best stout they'd had in the country.
+Two matching Grade II-listed lodges once marked the entrance to the old Euston station, and this is the west one — **"London's original cask ale, real cider and craft beer tavern,"** by its own description, running **forty-seven draught lines** with no brewery affiliation of its own, so the list is free to change entirely on the site's judgement. One visitor singled out **London Black** — Anspach & Hobday's porter, turning up again — as the best stout they'd had in the country.
 
 It's small: one ground-floor room, a smaller room upstairs, heated outside seating for the overflow, and a five-minute walk from the platforms if you're catching a train rather than starting a session.
 
@@ -329,7 +329,7 @@ There's standing room rather than much seating, and it gets packed the moment Bo
 
 ## By style: cask, keg or taproom
 
-The sources describe three genuinely different scenes rather than three words for the same thing.
+The sources describe three different scenes rather than three words for the same thing.
 
 **Cask, or "real ale"** finishes conditioning in the cask itself and is pulled by handpump, or in a few pubs here, straight off the cask by gravity with no pump at all. This is CAMRA's whole territory and most of "the winners" section above pours it: The Cockpit and The Dodo Micropub both do it by gravity rather than handpump, which is the more old-fashioned and increasingly rare method. Beyond the award winners, **The Market Porter** at Borough Market runs twelve handpumps and — almost uniquely in London — opens 6am to 9am on weekdays under an old market trading licence, one of only two pubs left in the city with that right; the rest of its hours are conventional, to 10.30pm.
 
@@ -339,13 +339,13 @@ The sources describe three genuinely different scenes rather than three words fo
 
 ![The Sutton Arms' ornate Victorian corner frontage on Great Sutton Street, Clerkenwell](../../assets/articles/best-craft-beer-pubs-london/the-sutton-arms-clerkenwell.jpg)
 
-Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA winner above despite the near-identical name — is covered in full in [London's historic pubs](/articles/historic-pubs-dining-rooms-london/); the short version for beer purposes is bar snacks only, closed Sundays, and a genuinely hidden entrance up an alley off Ely Place.
+Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA winner above despite the near-identical name — is covered in full in [London's historic pubs](/articles/historic-pubs-dining-rooms-london/); the short version for beer purposes is bar snacks only, closed Sundays, and a hidden entrance up an alley off Ely Place.
 
 **Modern craft, or keg**, is chilled and carbonated before it reaches the pub — the sours, pastry stouts and hazy IPAs that don't exist in cask form. Cask Pub & Kitchen, Euston Tap, The Bear and Beer Merchants Tap above are all built around big keg lists rather than a handpump row, and BrewDog's UK arm went through a wave of bar closures in early 2026 after its sale to a new owner, which is a reminder to check a chain branch is still trading before making a special trip to one.
 
 **Brewery taprooms** mean drinking where the beer is actually made, and London has settled on two beer miles for it.
 
-**Bermondsey**, the run of railway arches south of Tower Bridge, is the original and the one with the deepest bench: The Kernel and Anspach & Hobday above are the anchors, and two independent video crawls — filmed three months apart, neither aware of the other — both stopped at the same further venues, which is real corroboration rather than one crawler copying another. **Cloudwater** and **The Barrel Project** are named by both; **Southwark Brewing Co**, **Bianca Road Brewery**, **Mash Paddle Brewery** and the **Dutch Taproom** (also chapter-listed as Craft Beer Junction) fill out the rest of the mile. Maltby Street Market sits in the middle of it and is worth timing around rather than through — it gets genuinely difficult to move during Saturday market hours.
+**Bermondsey**, the run of railway arches south of Tower Bridge, is the original and the one with the deepest bench: The Kernel and Anspach & Hobday above are the anchors, and two independent video crawls — filmed three months apart, neither aware of the other — both stopped at the same further venues, which is real corroboration rather than one crawler copying another. **Cloudwater** and **The Barrel Project** are named by both; **Southwark Brewing Co**, **Bianca Road Brewery**, **Mash Paddle Brewery** and the **Dutch Taproom** (also chapter-listed as Craft Beer Junction) fill out the rest of the mile. Maltby Street Market sits in the middle of it and is worth timing around rather than through — it gets difficult to move during Saturday market hours.
 
 **Blackhorse Lane** in Walthamstow is the newer version of the same idea, cheaper and less crowded. Exale above is the anchor; **Signature Brew's Blackhorse Road taproom**, **Pretty Decent's Blackhorse Road brewery and taproom**, and **Forest Road Taproom** are the other stops named repeatedly across the sources collected here.
 
@@ -353,7 +353,7 @@ Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA
 
 ## New openings
 
-**The Black Eel, Dalston** — opened October 2025 inside the former F Cooke pie-and-mash shop, run by the same team as Exale. The room is the reason to go regardless of the beer: the original tiled pie-and-mash fittings are still up, which nobody else on this list can offer. One early visit after opening found the single cask offering flat and hard to see from most of the room — worth revisiting now the pub has had a year to settle in, rather than writing off on one report.
+**The Black Eel, Dalston** — opened October 2025 inside the former F Cooke pie-and-mash shop, run by the same team as Exale. Go for the room regardless of the beer: the original tiled pie-and-mash fittings are still up, which nobody else on this list can offer. One early visit after opening found the single cask offering flat and hard to see from most of the room — worth revisiting now the pub has had a year to settle in.
 
 **The Three Lords, City of London** — taken on by London Brewing Co in late 2025 and trading again under the same roof, listed in some places as Ye Three Lords. A straightforward change of hands rather than a rebuild, with the beer now the brewery's own range.
 
@@ -365,11 +365,11 @@ Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA
 
 **Most of this list is walk-in by design.** A micropub with one room and a handpump was never built to take a booking, and the CAMRA branch winners above are almost all this format — turn up, find a seat if there is one.
 
-**The exception is anywhere with a real kitchen.** Jolly Coopers in Epsom books online through Dojo; The Bear in Paddington and The Dark Horse in Croydon both run their own booking pages for food. Check the specific pub rather than assuming either way — a chain or multi-site brewery can open and close branches quickly, as BrewDog's UK estate did in early 2026.
+**The exception is anywhere with a real kitchen.** Jolly Coopers in Epsom books online through Dojo; The Bear in Paddington and The Dark Horse in Croydon both run their own booking pages for food. Check the specific pub — a chain or multi-site brewery can open and close branches quickly, as BrewDog's UK estate did in early 2026.
 
-**Cash-only is rarer than the reputation suggests.** The Southampton Arms took cash only for years and now takes card as well; check the door rather than assuming a traditional-looking pub won't take a card.
+**Cash-only is rarer than the reputation suggests.** The Southampton Arms took cash only for years and now takes card as well; check the door; do not assume a traditional-looking pub will refuse a card.
 
-**Hours vary more than in a restaurant guide.** Anspach & Hobday's taproom closes around 7pm; The Kernel's at 8pm; The Southampton Arms runs to midnight. If a session matters more than a specific pub, check the hours before travelling out to a single-site brewery taproom.
+**Hours vary more than in a restaurant guide.** Anspach & Hobday's taproom closes around 7pm; The Kernel's at 8pm; The Southampton Arms runs to midnight. If you want a session more than a specific pub, check the hours before travelling out to a single-site brewery taproom.
 
 **"Real ale" and "craft beer" are not opposites here.** Most of the strongest pubs above pour both — a handpump row and a keg wall side by side — and the sources that call a pub one or the other are usually just describing what's on rather than the pub's whole identity.
 

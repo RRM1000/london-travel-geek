@@ -53,7 +53,7 @@ A handful do open the doors, and they do it in four ways: **tickets on public sa
 
 These are the events with a route for the public, in calendar order from October 2026. Two have their own page: the [National Television Awards](/articles/national-television-awards-tickets/) and the [Olivier Awards](/articles/olivier-awards-tickets/). The [BAFTA red carpet](/articles/bafta-red-carpet/), [film premieres](/articles/film-premieres-london/) and the [Last Night of the Proms](/articles/last-night-of-the-proms-tickets/) do too.
 
-| Event | Month | Venue | Way in | Price | When to book, and the catch |
+| Event | Month | Venue | Way in | Price | When to book, and restrictions |
 | --- | --- | --- | --- | --- | --- |
 | [BFI London Film Festival](/articles/london-film-festival/) galas | 7 to 18 Oct 2026 | Royal Festival Hall | Tickets on public sale | Galas £21 to £30; Opening and Closing Night Galas £40 | Galas sell out first. The festival guide has the release dates |
 | Royal Ballet and Opera: [A Centenary Celebration](https://www.rbo.org.uk/production/a-centenary-celebration-the-royal-ballet-school) | 8 and 10 Oct 2026 | Royal Opera House | Tickets on public sale | £9 to £176 | £9 is a Young RBO price on selected performances. About three hours with two intervals |
@@ -115,31 +115,31 @@ Several of the free ways in run through one agency, **Applause Store**, which is
 
 **Friday 20 November 2026, Royal Albert Hall.** A variety show in front of senior members of the Royal Family, filmed for worldwide broadcast over Christmas and New Year. The official aftershow party is at the Natural History Museum, behind the hall. Show tickets start at **£75**; show and aftershow packages start at £310, the party alone is £245, boxes start at £2,600 and access tickets are £325.
 
-**The catch is the sale.** The Royal Variety Charity is the only supplier of tickets, and the 2026 sale opened at 9am on Friday 27 February 2026, announced the day before. Its store lists every seat category as sold out. The charity's [mailing list](https://www.royalvarietycharity.org/RVPtickets) gives advance notice of the next one. At the door you need photo ID matched to the buyer, tickets are not transferable or resaleable, the dress code is black tie or evening dress, and doors open at 6pm with everyone seated by 7pm.
+**Tickets go on sale once a year.** The Royal Variety Charity is the only supplier of tickets, and the 2026 sale opened at 9am on Friday 27 February 2026, announced the day before. Its store lists every seat category as sold out. The charity's [mailing list](https://www.royalvarietycharity.org/RVPtickets) gives advance notice of the next one. At the door you need photo ID matched to the buyer, tickets are not transferable or resaleable, the dress code is black tie or evening dress, and doors open at 6pm with everyone seated by 7pm.
 
 ### Festival of Remembrance
 
 **Royal Albert Hall, November, with an afternoon and an evening performance.** The Royal British Legion allocates tickets by ballot. For 2026 it ran the ballot for **members only**. The ballot opened on 27 May 2026 for four weeks, winners could buy a maximum of two tickets, and the draws were on 8 July for the evening show and 9 July for the afternoon. Entrants needed their membership number.
 
-**The catch is membership.** Some sites still say the afternoon performance is open to any member of the public; the Legion's own [ballot page](https://www.britishlegion.org.uk/get-involved/events/remembrance-events/festival-of-remembrance) says members. It adds that if the ballot is not used up, tickets go on sale to the general public later in the year.
+**Tickets are for members.** Some sites still say the afternoon performance is open to any member of the public; the Legion's own [ballot page](https://www.britishlegion.org.uk/get-involved/events/remembrance-events/festival-of-remembrance) says members. It adds that if the ballot is not used up, tickets go on sale to the general public later in the year.
 
 ### The Fashion Awards
 
 **Monday 30 November 2026, Royal Albert Hall.** General admission starts at **£30** on [Ticketmaster](https://www.ticketmaster.co.uk/the-fashion-awards-2026-london-30-11-2026/event/1F00647AABAF5B9F), linked from the [Fashion Awards tickets page](https://www.fashionawards.com/tickets), and gets you into the ceremony.
 
-**The red carpet is the catch.** The British Fashion Council sells red-carpet access only with its hospitality packages, which are tables, club and boxes, by email to fashionawards@britishfashioncouncil.com.
+**The red carpet comes only with hospitality.** The British Fashion Council sells red-carpet access only with its hospitality packages, which are tables, club and boxes, by email to fashionawards@britishfashioncouncil.com.
 
 ### WhatsOnStage Awards
 
 **Sunday 28 February 2027, 6.30pm, London Palladium.** The organiser calls them the only major UK theatre awards nominated and voted for by the public, and 2027 is the fourth time they have been at the Palladium. Seats are sold by [LW Theatres](https://lwtheatres.co.uk/whats-on/27th-whatsonstage-awards/), with the booking fee and a £2 restoration levy included in the price shown. Two add-ons are sold with a seat: the **Headliner Lounge** at £80 a person and the **Star Suite** at £140, each with a VIP entrance and a reserved table up to 60 minutes before the show. The Supporter package is £1,600 plus VAT for two premium seats, two passes to the pre-show drinks and entry to the party for two.
 
-**The catch is age.** Under-4s, including babes in arms, are not admitted, and anyone aged 15 or under must be accompanied by an adult.
+**Age limits.** Under-4s, including babes in arms, are not admitted, and anyone aged 15 or under must be accompanied by an adult.
 
 ### UK Music Video Awards
 
 **Wednesday 4 November 2026, Roundhouse, Chalk Farm Road, NW1 8EH.** A seat is **£250 plus VAT**, tables of 10 are £2,500 and tables of 12 are £3,000, and each price includes the show and the afterparty. The timetable runs from doors and a drinks reception at 6.30pm, supper at 7.15pm and the show at 8pm to the afterparty at 10.30pm, with bars closing at 12.30am. The dress code is "anything goes". Chalk Farm on the Northern line is the nearest Tube.
 
-**The catch is VAT.** The £250 is before VAT, so the bill is higher than the number on the page. Tickets are sold at [ukmva.com](https://www.ukmva.com/tickets).
+**VAT is extra.** The £250 is before VAT, so the bill is higher than the number on the page. Tickets are sold at [ukmva.com](https://www.ukmva.com/tickets).
 
 ---
 

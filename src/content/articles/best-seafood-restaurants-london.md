@@ -94,7 +94,7 @@ Sit at the counter for half a dozen and the fish pie rather than booking the din
 
 There is a second site in Richmond with a Thames view, which The Infatuation rates for a long lunch. Sit at the crustacea counter rather than at a table.
 
-Two policies worth knowing before you book: **under-sixes are admitted only at weekend and holiday lunch**, and from May 2026 it takes **assistance dogs only**.
+Two policies to check before you book: **under-sixes are admitted only at weekend and holiday lunch**, and from May 2026 it takes **assistance dogs only**.
 
 ![The awnings and frontage of Scott's on Mount Street](../../assets/articles/best-seafood-restaurants-london/scott-s.jpg)
 
@@ -160,7 +160,7 @@ A marble-topped oyster bar, Dover sole meunière and a carving trolley, none of 
 
 Tiny, chalkboard-only, and the menu changes every day according to what came in. Whole roasted turbot, gurnard, potted shrimp croquettes, Inverawe smoked salmon with Guinness bread.
 
-The critics' favourite among the small fish rooms — an award, two mastheads and a specialist behind it — and the hardest of them to get into for its size. The Infatuation calls it a sanctuary from the Covent Garden crowds, which is the honest reason to book it.
+The critics' favourite among the small fish rooms — an award, two mastheads and a specialist behind it — and the hardest of them to get into for its size. The Infatuation calls it a sanctuary from the Covent Garden crowds, which is why to book it.
 
 **Book:** [parsonslondon.co.uk](https://parsonslondon.co.uk/) · 39 Endell Street, WC2H 9BA
 
@@ -304,9 +304,9 @@ The sourcing is the argument: **hand-dived scallops, Hebridean langoustines, oys
 
 **A Thames-side room by Hammersmith Bridge with a terrace, and the best-value sit-down fish on this page** — Sam Harrison's brasserie, and the reason to be in Hammersmith at all.
 
-**Two courses at lunch for well under the going rate**, built on whole fish, fish pie and a shellfish counter, in a bright room with the river through the windows. The à la carte runs to Dover sole and crab for anyone spending properly.
+**Two courses at lunch for well under the going rate**, built on whole fish, fish pie and a shellfish counter, in a bright room with the river through the windows. The à la carte runs to Dover sole and crab for anyone spending freely.
 
-**£££, book a few days ahead** — the terrace goes first and is the reason to plan around the weather.
+**£££, book a few days ahead** — the terrace goes first, so plan around the weather.
 
 ### Fish Market, Broadgate — closed
 
@@ -350,7 +350,7 @@ The best-value trick in London dining. Several serious oyster bars discount hard
 * **Richard Haward's Oysters**, Borough Market — wild rather than farmed, from the family's own patch of Mersea seabed. Nine generations of it.
 * **Maltby Street Market**, Bermondsey — weekends only, in a railway arch, at a fraction of restaurant prices.
 
-> **Native oysters run September to April**; rock oysters are year-round. The natives are the ones worth the premium, and the ones the season actually matters for.
+> **Native oysters run September to April**; rock oysters are year-round. The natives cost more and are the ones the season applies to.
 
 ---
 

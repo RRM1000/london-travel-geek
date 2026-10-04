@@ -15,7 +15,7 @@ faq:
   - q: "What is the best barbecue in London?"
     a: "Smokestak in Shoreditch, by a distance — nine of the fifteen independent sources in this pass name it, more than anything else. Its beef brisket is smoked over English oak for twelve to fourteen hours overnight and served in a sweet bun. Acme Fire Cult in Dalston is second at seven, and cooks a completely different kind of food."
   - q: "Is there an award for the best barbecue in the UK?"
-    a: "Not for restaurants. The British BBQ Society is real but judges competition cook teams rather than places you can eat at, and publishes no dated restaurant results. Grillstock, the other name people remember, ceased trading in 2018. Smokestak holds a Michelin Bib Gourmand, but that is one venue's award rather than a barbecue prize."
+    a: "Not for restaurants. The British BBQ Society is real but judges competition cook teams rather than places you can eat at, and publishes no dated restaurant results. Grillstock, the other name people remember, ceased trading in 2018. Smokestak holds a Michelin Bib Gourmand, but that is one venue's award, not a barbecue prize."
   - q: "Where do I get proper Texas brisket in London?"
     a: "Texas Joe's in Bermondsey, next to London Bridge, is the closest to Hill Country tradition — Joe Walters opened it in 2013 specifically to bring that style over. Check the days before you go: it is closed Sunday and Monday, and lunch runs on Thursday and Friday only. Smokestak's brisket is the most-recommended in the city."
   - q: "What is diaspora barbecue?"
@@ -25,7 +25,7 @@ faq:
   - q: "Why is so much London barbecue in brewery yards?"
     a: "Because smokers need space, extraction and somewhere the smoke will not annoy the neighbours, and breweries have all three. Acme Fire Cult is inside 40FT Brewery in Dalston, From The Ashes is at Five Points in Hackney, and Hon's sits above Crate Brewery in Queen's Yard. It changes the visit: you are eating in a working yard, not a dining room."
   - q: "Do London barbecue restaurants take bookings?"
-    a: "Most do, and Texas Joe's recommends it. The bigger risk is the day rather than the hour — several of these are closed at the start of the week, and the brewery-yard sites keep the brewery's hours rather than a restaurant's. Check before travelling across London."
+    a: "Most do, and Texas Joe's recommends it. The bigger risk is the day rather than the hour — several of these are closed at the start of the week, and the brewery-yard sites keep the brewery's hours. Check before travelling across London."
 ---
 
 Search for the best brisket in London and you will not find a single piece of journalism.
@@ -70,7 +70,7 @@ This is a guide to a subject that has demand and almost no serious coverage. The
 
 *Smokestak's brisket, with ribs and pulled pork.*
 
-**Nine of fifteen sources name it, more than anything else in this pass**, and it also holds a Michelin Bib Gourmand — the only entry here with any judged recognition at all, though that is a general award rather than a barbecue one.
+**Nine of fifteen sources name it, more than anything else in this pass**, and it also holds a Michelin Bib Gourmand — the only entry here with any judged recognition at all, though that is a general award, not a barbecue one.
 
 **The beef brisket is the dish.** It is smoked overnight for twelve to fourteen hours over English oak, then served in a slightly sweet, pillowy bun — moist and smoky rather than dry and bark-heavy.
 
@@ -94,7 +94,7 @@ It sits **inside a working brewery** in Dalston - the Bootyard on Abbot Street, 
 
 *££ · Bermondsey, by London Bridge · Cited by 6 sources*
 
-**Joe Walters opened it in 2013 specifically to bring Hill Country barbecue to London**, and it is the closest thing here to the Texan original: a canteen-style room by London Bridge where slow-smoked meat is the whole proposition. He is a Texan, and funded the move with a beef jerky business he talked the Dragons' Den panel into backing.
+**Joe Walters opened it in 2013 specifically to bring Hill Country barbecue to London**, and it is the closest thing here to the Texan original: a canteen-style room by London Bridge where slow-smoked meat is the whole menu. He is a Texan, and funded the move with a beef jerky business he talked the Dragons' Den panel into backing.
 
 **Beef brisket, chicken thighs, pork ribs and mutton shoulder go over oak**, and the sides are the part people quote back at you - bacon-wrapped jalapeños, and a cakey jalapeño cornbread.
 
@@ -118,7 +118,7 @@ If you only eat at one place on this page to understand what is different about 
 
 Painted tiles and bare plaster, with LEGO figurines and miniature chairs made out of Champagne cages scattered through the room. The cooking is serious and the room refuses to be, which is a rarer combination in this category than it should be.
 
-**It is the debut solo project of Jake Finn, formerly of the Ritz**, and there are two of them - St John's Wood and Belsize Park. The heat comes off a **coal-fired Josper grill** rather than a smoker, so this is smoke-and-small-plates rather than low-and-slow: roasted squash with cashew dukkah and chimichurri, barbecued octopus.
+**It is the debut solo project of Jake Finn, formerly of the Ritz**, and there are two of them - St John's Wood and Belsize Park. The heat comes off a **coal-fired Josper grill** rather than a smoker, so this is smoke-and-small-plates, not low-and-slow: roasted squash with cashew dukkah and chimichurri, barbecued octopus.
 
 **Both sites take bookings**, and they are the reason north London does not have to go east for live-fire cooking.
 
@@ -146,7 +146,7 @@ The original Chelsea branch built its reputation on **bargain-price lobster alon
 
 Open-fire cooking around a counter that wraps the kitchen, so you sit watching the wood oven work. Two sites, **Soho and the City**, open since 2016, and the menu runs tacos alongside the meat — there is a Taco Tuesday, which tells you how seriously it takes itself.
 
-**The board above the pass is the thing to read.** It says the steaks are butchered in-house and come from rare-breed British cattle, slow-reared and pasture-grazed — and then, in the same hand, *when they're gone, they're gone*. That is the sells-out warning this category is known for, printed where you can see it.
+**Read the board above the pass.** It says the steaks are butchered in-house and come from rare-breed British cattle, slow-reared and pasture-grazed — and then, in the same hand, *when they're gone, they're gone*. That is the sells-out warning this category is known for, printed where you can see it.
 
 It takes bookings and does a Sunday roast.
 
@@ -156,9 +156,9 @@ It takes bookings and does a Sunday roast.
 
 A local couple, **Sufia Khan and Abidur Tarafder**, working with **Tiberius Tudor**, a Romanian-born American barbecue specialist. It has become a serious local fixture in a part of London the guides rarely reach.
 
-The cooking is **Texas-style rather than British-live-fire**: smoked brisket is the thing to order, with smash burgers alongside it for anyone who is not in the mood for a tray of meat — those burgers also put it in our [burgers guide](/articles/best-burgers-london/), as one of its two halal burgers, both named by critics rather than by halal listings. Seating is communal, so a table for two on a Saturday means sitting with other people.
+The cooking is **Texas-style rather than British-live-fire**: order the smoked brisket, with smash burgers alongside it for anyone who is not in the mood for a tray of meat — those burgers also put it in our [burgers guide](/articles/best-burgers-london/), as one of its two halal burgers, both named by critics, not by halal listings. Seating is communal, so a table for two on a Saturday means sitting with other people.
 
-**It is out at Leyton**, which is the whole reason it is under-covered - twenty-odd minutes on the Central line from Oxford Circus, and none of the mastheads that write about Shoreditch make the trip.
+**It is out at Leyton**, which is why it is under-covered - twenty-odd minutes on the Central line from Oxford Circus, and none of the mastheads that write about Shoreditch make the trip.
 
 ---
 
@@ -170,7 +170,7 @@ This is the London-specific thing about the subject. Smokers need space, extract
 
 **Acme Fire Cult** is inside 40FT Brewery in Dalston. **From The Ashes** is at Five Points in Hackney, and is Time Out's pick for barbecue Sunday roast. **Hon's BBQ**, cooking Chinese-Texan, sits above Crate Brewery in Queen's Yard, Hackney Wick.
 
-It changes the visit rather than just the address: you are eating in a yard, often outdoors, on the brewery's hours rather than a restaurant's, with the drinks list built around what is brewed on site. Check opening times against the brewery rather than the kitchen.
+It changes the visit as well as the address: you are eating in a yard, often outdoors, on the brewery's hours, with the drinks list built around what is brewed on site. Check opening times against the brewery, not the kitchen.
 
 ---
 
@@ -186,9 +186,9 @@ None of the published London lists groups these together, which is why the patte
 
 ## What is not here, and why
 
-**Korean, Turkish and Japanese barbecue have their own guides.** Removing Korean tabletop grilling, Turkish ocakbaşı and Japanese yakiniku costs each published London list only one to three names out of twelve to nineteen, which is what makes this guide worth writing separately rather than as a section of a bigger one. For those, see our [Korean](/articles/best-korean-restaurants-london/) and [Turkish](/articles/best-turkish-restaurants-london/) guides.
+**Korean, Turkish and Japanese barbecue have their own guides.** Removing Korean tabletop grilling, Turkish ocakbaşı and Japanese yakiniku costs each published London list only one to three names out of twelve to nineteen, which is why this guide exists separately. For those, see our [Korean](/articles/best-korean-restaurants-london/) and [Turkish](/articles/best-turkish-restaurants-london/) guides.
 
-**Live-fire restaurants are a judgement call, and the publishers made it before we did.** Eater runs one page titled for both barbecue and live-fire cooking, and five publications independently put live-fire grills inside their barbecue guides. Temper and Acme Fire Cult are here on that basis. The tension is real — someone wanting brisket will not be satisfied by a Galician chop — which is why they are separated above rather than mixed in.
+**Live-fire restaurants are a judgement call, and the publishers made it before we did.** Eater runs one page titled for both barbecue and live-fire cooking, and five publications independently put live-fire grills inside their barbecue guides. Temper and Acme Fire Cult are here on that basis. The tension is real — someone wanting brisket will not be satisfied by a Galician chop — which is why they are separated above.
 
 **Two names on live lists have closed.** Hotbox closed its Spitalfields restaurant in January 2022, and Prairie Fire announced its own closure after a Super Bowl tailgate. Both are still being recommended elsewhere.
 

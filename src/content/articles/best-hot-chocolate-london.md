@@ -19,7 +19,7 @@ faq:
   - q: "What is the thickest hot chocolate in London?"
     a: "Italian Bear Chocolate on Broadwick Street, which pours a triple-layered cup closer to warm ganache than to a drink — thick enough that a spoon is the sensible tool. It occupies the Soho premises that used to be Said dal 1923, which had the same reputation for the same reason."
   - q: "Which London hot chocolate is best with children?"
-    a: "Chin Chin on Greek Street, where the marshmallow is blowtorched at the counter in front of you, and Mamasons in Chinatown for the bright purple ube cocoa. Both are small and busy rather than sit-down, so they suit a walk-and-drink rather than a long stop."
+    a: "Chin Chin on Greek Street, where the marshmallow is blowtorched at the counter in front of you, and Mamasons in Chinatown for the bright purple ube cocoa. Both are small and busy, so they suit a walk-and-drink rather than a long stop."
   - q: "Can you choose how dark your hot chocolate is?"
     a: "At Knoops, yes. Its own menu runs nine cocoa percentages from 28% to 100%, and you pick the number rather than a flavour. There are five London stores — Chelsea, Covent Garden, Kensington, Knightsbridge and Notting Hill."
 ---
@@ -93,7 +93,7 @@ Tiny, loud and built for a queue rather than a sit-down. **The blowtorching is t
 
 *A Knoops iced chocolate.*
 
-**2 New Row, WC2N 4LH.** You order by number, not by flavour: its own menu runs **nine cocoa percentages — 28, 34, 38, 43, 54, 65, 70, 80 and 100%** — and the same drink tastes like four different things across that range. From **£4**. Ask for 70% if you have no idea; 100% is genuinely bitter and not a beginner's cup. The same percentages are sold iced too, which is worth knowing in summer.
+**2 New Row, WC2N 4LH.** You order by number, not by flavour: its own menu runs **nine cocoa percentages — 28, 34, 38, 43, 54, 65, 70, 80 and 100%** — and the same drink tastes like four different things across that range. From **£4**. Ask for 70% if you have no idea; 100% is bitter and not a beginner's cup. The same percentages are sold iced too, which helps in summer.
 
 Small, bright and counter-led, with a few seats. **Five London stores** — Chelsea, Covent Garden, Kensington, Knightsbridge and Notting Hill — so this is the one you can reach from most of west and central London.
 
@@ -103,7 +103,7 @@ Small, bright and counter-led, with a few seats. **Five London stores** — Chel
 
 **32 Newport Court, WC2H 7PQ.** The ube hot cocoa, **£5**, made with purple yam so it arrives a startling violet — the only drink on this page that is not brown. Filipino desserts are the main business; the cocoa is the winter version of the ice cream.
 
-A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday and Saturday nights that is mostly there for the ice cream. **Late opening is the reason to know about it** — when the Soho counters have shut, this one has not, which makes it the answer after a show or a late dinner in Chinatown.
+A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday and Saturday nights that is mostly there for the ice cream. **It opens late** — when the Soho counters have shut, this one has not, which makes it the answer after a show or a late dinner in Chinatown.
 
 ### Andrea's Hot Chocolate
 
@@ -135,7 +135,7 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 **2 Mercer Walk, WC2H 9QP.** A Florentine gelateria trading since 1932, whose hot chocolate comes out thick and dessert-like — no surprise from a business built on gelato rather than on drinks. The cocoa is the cold-weather line here, not the reason the counter is busy in July.
 
-**No booking, and it is a counter rather than a room**, so most people take the cup out into Mercer Walk. Worth knowing if you are already in Covent Garden; not worth a journey when Italian Bear is fifteen minutes away.
+**No booking, and it is a counter**, so most people take the cup out into Mercer Walk. Fine if you are already in Covent Garden; not a journey when Italian Bear is fifteen minutes away.
 
 > ⚠️ **Sources name Badiani as a brand, not a branch.** There are several London sites and this is the Covent Garden one. Check which you are heading for.
 
@@ -158,7 +158,7 @@ The corroboration test is what protects against this. Every venue in the section
 
 ## Cheapest
 
-Everything on this page except Melt sits in the **£4 to £6** band, which makes price a poor way to choose. The genuinely cheap end:
+Everything on this page except Melt sits in the **£4 to £6** band, which makes price a poor way to choose. The cheap end:
 
 - 💷 **[Knoops](#knoops)** — from **£4**, and the 28% is the cheapest way to find out whether you even like the strong stuff
 - 💷 **[Italian Bear Chocolate](#italian-bear-chocolate)** — from **£4.90** for the thickest cup in London

@@ -21,7 +21,7 @@ faq:
   - q: "How do I find gigs in London?"
     a: "Most of these venues publish their own listings and sell direct, which is cheaper than resale. Cafe OTO, the Shacklewell Arms and MOTH Club all run several nights a week and rarely sell out far ahead."
   - q: "What is the biggest music venue in London?"
-    a: "The O2 Arena in Greenwich at 20,000, followed by OVO Arena Wembley. For a room where you can still see the stage properly, Brixton Academy at around 5,000 is the sweet spot."
+    a: "The O2 Arena in Greenwich at 20,000, followed by OVO Arena Wembley. For a room where you can still see the stage clearly, Brixton Academy at around 5,000 is the sweet spot."
 ---
 
 London's music rooms are mostly buildings that were something else first — a railway turning shed, a Victorian theatre, a church, a veterans' social club. That is not incidental; it is why they sound and feel the way they do.
@@ -31,7 +31,7 @@ This guide covers the rooms rather than the listings, arranged by size, because 
 > 💡 **The Short Version:** **O2 Academy Brixton** has the sloping floor bands rave about. **The Roundhouse** is a Victorian railway shed. **Union Chapel** is a working church with extraordinary acoustics. **Cafe OTO** is the most committed small room in the city. And **MOTH Club** has a gold tinsel curtain and is still a members' social club.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Capacities are approximate and change with the layout of a given show.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Capacities are approximate and change with the layout of a given show.
 
 ## Where they are
 
@@ -61,7 +61,7 @@ This guide covers the rooms rather than the listings, arranged by size, because 
 
 **The floor slopes down towards the stage**, which is why everyone can see and why bands talk about it the way they do. A **Grade II\* listed art deco former cinema**, and the best big room in London by a distance.
 
-It is worth knowing what happened here. The venue lost its licence after a fatal crush at a show in December 2022 in which two people died. Lambeth ruled in September 2023 that it could reopen, but only once **77 new safety conditions** were met — reinforced doors, a rebuilt crowd management system, new ticketing, a centralised control room and new security management. The council's own decision described it as set to become **among the most highly regulated licensed venues in the country**.
+The venue lost its licence after a fatal crush at a show in December 2022 in which two people died. Lambeth ruled in September 2023 that it could reopen, but only once **77 new safety conditions** were met — reinforced doors, a rebuilt crowd management system, new ticketing, a centralised control room and new security management. The council's own decision described it as set to become **among the most highly regulated licensed venues in the country**.
 
 It ran test events at half capacity in April 2024 and has been trading normally since, and is booking well into 2027.
 
@@ -85,9 +85,9 @@ It is an arena, and it behaves like one: the sound is competent rather than spec
 
 **A 1932 art deco cinema, Grade II\* listed, and the other room in Brixton's class** — the two of them are where most bands too big for Shepherd's Bush and too small for an arena end up.
 
-The interior is the reason: a vast barrel-vaulted auditorium with the original Robert Cromie fittings largely intact, and a Compton organ still in place. It works **either seated or standing**, and which one you get depends on the show, so check before you buy — the same act can be a very different night in each configuration.
+The interior is a vast barrel-vaulted auditorium with the original Robert Cromie fittings largely intact, and a Compton organ still in place. It works **either seated or standing**, and which one you get depends on the show, so check before you buy — the same act can be a very different night in each configuration.
 
-**The balcony is genuinely good here**, unlike most rooms this size. Hammersmith station is directly opposite, which makes the exit far easier than the Apollo's capacity suggests.
+**The balcony is good here**, unlike most rooms this size. Hammersmith station is directly opposite, which makes the exit far easier than the Apollo's capacity suggests.
 
 <div data-venue-listings="Eventim Apollo" data-compact></div>
 
@@ -115,7 +115,7 @@ The interior is the reason: a vast barrel-vaulted auditorium with the original R
 
 The Great Hall is enormous and largely undivided, so it behaves more like a festival tent than a concert hall — the sound at the back is noticeably worse than the front and there is no raked floor, which makes height an advantage. The restored **Alexandra Palace Theatre** next door is the opposite: 1875, about 1,300 seats, deliberately left semi-derelict when it reopened, and a far better room for anything acoustic.
 
-**The hill is free and the terrace view over the city is worth the trip on its own.** Getting home is the catch — Alexandra Palace station is a fifteen-minute walk downhill, Wood Green Tube is twenty, and ten thousand people leave at once.
+**The hill is free and the terrace view over the city is worth the trip on its own.** Getting home is slow — Alexandra Palace station is a fifteen-minute walk downhill, Wood Green Tube is twenty, and ten thousand people leave at once.
 
 <div data-venue-listings="Alexandra Palace" data-compact></div>
 
@@ -154,7 +154,7 @@ It arrived as part of Olympia's whole redevelopment, so the surroundings are new
 
 *around 1,700 · Chalk Farm*
 
-**A circular Victorian railway turning shed, built in 1847 to turn locomotives around**, and now one of the most distinctive rooms in London to see a band in. The iron columns that held the roof up are still there, and the space is genuinely round, so the crowd wraps the stage rather than facing it in a block.
+**A circular Victorian railway turning shed, built in 1847 to turn locomotives around**, and now one of the most distinctive rooms in London to see a band in. The iron columns that held the roof up are still there, and the space is round, so the crowd wraps the stage rather than facing it in a block.
 
 That shape is the whole experience: there is no bad angle exactly, but there is no deep floor either, so it feels far more intimate than 1,700 suggests. The gallery running round the upper level is the seated option and worth taking.
 
@@ -174,7 +174,7 @@ That shape is the whole experience: there is no bad angle exactly, but there is 
 
 A fire tore through the roof during restoration in 2020. It reopened in 2022 after a rebuild that added a tower, a recording studio and several members' floors above the auditorium — which drew some criticism — but **the main room came back intact**, gold leaf and all.
 
-**Get on a balcony if you can.** The floor is small and fills fast, and the view down onto the stage from the second tier is the reason to be in this particular building rather than any other room of the same size.
+**Get on a balcony if you can.** The floor is small and fills fast, and the view down onto the stage from the second tier is what sets this building apart from any other room of the same size.
 
 <div data-venue-listings="KOKO" data-compact></div>
 
@@ -258,7 +258,7 @@ The New York club's **first UK venue**, in the basement beneath the St Martins L
 
 The address is **42–49 St Martin's Lane, WC2N 4EJ**. Book on [Ticketmaster](https://www.ticketmaster.co.uk/blue-note-london-tickets-london/venue/289099), which issues the club's tickets.
 
-The two-sets-a-night format is the thing to understand: the 7pm show is the civilised one and the 9.30 is where it loosens up.
+Two sets a night: the 7pm show is the civilised one and the 9.30 is where it loosens up.
 
 <div data-venue-listings="Blue Note London" data-compact data-label="Blue Note"></div>
 
@@ -307,7 +307,7 @@ Booking is recommended rather than required, and it runs a full kitchen — this
 
 **Live acts every night of the week, across a far wider range than the name suggests** — soul, funk, hip-hop, Afrobeat, Latin and neo-soul as often as anything a purist would call jazz.
 
-The room is small and rectangular with **a balcony you can book a table on and eat from**, looking straight down at the stage. That balcony is the decision: standing on the floor gets you closer and sweatier, the balcony gets you a seat, a view and dinner, and the two are genuinely different nights out.
+The room is small and rectangular with **a balcony you can book a table on and eat from**, looking straight down at the stage. That balcony is the decision: standing on the floor gets you closer and sweatier, the balcony gets you a seat, a view and dinner, and the two are different nights out.
 
 **Late licence at weekends**, when it turns into a club after the band. Camden Town station is a minute away, and it is one of the few Camden venues where the queue is not the main memory.
 
@@ -337,7 +337,7 @@ Where London's music actually happens most nights.
 
 **Time Out's own pick as London's most consistently committed live venue** — free jazz, noise, improvisation and experimental music, most nights of the week, in a room of about 150 that treats an audience as participants rather than spectators.
 
-The format is unusual and worth understanding before you go: it is a café and bar by day, the chairs come out for the evening, and the audience is expected to listen rather than talk over the set. Musicians from around the world play here who would not otherwise appear in London at all, often for two nights running with different material.
+The format is unusual: it is a café and bar by day, the chairs come out for the evening, and the audience is expected to listen rather than talk over the set. Musicians from around the world play here who would not otherwise appear in London at all, often for two nights running with different material.
 
 **Usually £8 to £20**, with advance and member discounts and some nights free to members. It runs its own record label and record shop next door, and the programme is published months ahead — worth browsing rather than waiting for a name you recognise.
 
@@ -349,7 +349,7 @@ The format is unusual and worth understanding before you go: it is a café and b
 
 **A back room behind an ordinary Dalston pub**, ranked among Time Out's UK top venues, and the kind of place where bands play twice — once on the way up and once, years later, as a surprise warm-up.
 
-The venue is genuinely just a room: low ceiling, no raised stage to speak of, and a capacity that means you are never more than a few metres from whoever is playing. The front is a working pub with a decent beer list, so you can arrive early without committing to the gig.
+The venue is just a room: low ceiling, no raised stage to speak of, and a capacity that means you are never more than a few metres from whoever is playing. The front is a working pub with a decent beer list, so you can arrive early without committing to the gig.
 
 **Tickets are usually under £15** and often sell out on word of mouth rather than advertising. Free entry on some club nights after the band.
 
@@ -373,7 +373,7 @@ It is a low, dark room under Notting Hill Gate with a reputation built on bookin
 
 The chapel above, Stone Nest, is a Grade II\* listed 1888 building left deliberately unrestored — bare brick, stripped walls, no seats fixed down. Below it, the venue takes about 250 for electronic, experimental and club bookings, and the low arched ceiling does most of the work on the sound.
 
-**It is genuinely central**, which is the surprise: everything else programming this kind of music is in Dalston or Peckham, and this is ninety seconds from Tottenham Court Road.
+**It is central**, which is the surprise: everything else programming this kind of music is in Dalston or Peckham, and this is ninety seconds from Tottenham Court Road.
 
 ### Stereo, Covent Garden
 
@@ -381,7 +381,7 @@ The chapel above, Stone Nest, is a Grade II\* listed 1888 building left delibera
 
 **Live music, cocktails and dining combined right on the Piazza** — the polished, central alternative to the Dalston rooms, and a useful answer when half your party wants a gig and the other half wants dinner.
 
-The bookings lean soul, funk and covers rather than anything you would travel for, and the room is a restaurant that hosts music rather than a venue that serves food. That is the trade: you will not discover anything here, but you can eat properly, sit down, and still hear a band, two minutes from the Tube.
+The bookings lean soul, funk and covers, nothing you would travel for, and the room is a restaurant that hosts music rather than a venue that serves food. That is the trade: you will not discover anything here, but you can eat a full meal, sit down, and still hear a band, two minutes from the Tube.
 
 **Book a table rather than turning up**, particularly at weekends, when the Piazza is at its worst for walk-ins.
 
@@ -410,10 +410,10 @@ Live music in London does not have to cost £40 and a booking fee.
 ## What to know
 
 * **Buy direct from the venue.** Every room here sells its own tickets, and resale prices are frequently multiples of face value.
-* **Brixton Academy's sloping floor** means the back is genuinely fine. Do not pay extra to be near the front.
+* **Brixton Academy's sloping floor** means the back is fine. Do not pay extra to be near the front.
 * **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
-* **The grassroots circuit is genuinely under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list. Buying direct from a small venue is not a small gesture.
-* **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room. It is the single biggest price gap in London live music.
+* **The grassroots circuit is under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list. Buying direct from a small venue is not a small gesture.
+* **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room. It is the biggest price gap in London live music.
 * **Jazz in London is rarely free.** The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. The genuine free jazz is in pubs and at lunchtime recitals, not in the clubs. **November is the exception**: the [EFG London Jazz Festival](/articles/london-jazz-festival/) runs 13–22 November 2026 and puts 19 free concerts into the Barbican, the Southbank Centre and Milton Court.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead — you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.

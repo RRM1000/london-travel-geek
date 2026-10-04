@@ -103,7 +103,7 @@ Edomae sushi in the strictest sense: nigiri only, aged and cured to the chef's t
 
 Repeatedly named **the best-value serious omakase in central London** — the same counter discipline as the Mayfair rooms at a fraction of the outlay, which is why it turns up in three separate guides.
 
-Omakase nigiri built the same way it is a mile east at four times the price: fish aged properly, rice at body temperature, and a chef who talks you through each piece. There is an à la carte if you want to eat more cheaply still.
+Omakase nigiri built the same way it is a mile east at four times the price: fish aged to the right point, rice at body temperature, and a chef who talks you through each piece. There is an à la carte if you want to eat more cheaply still.
 
 **£££, closed Sunday and Monday, book weeks ahead.** Seven minutes from Oxford Circus, and the entry to recommend to anyone meeting the format for the first time.
 
@@ -141,9 +141,9 @@ Kaiseki is a sequence with rules: a set order of preparations — raw, simmered,
 
 *££££ · 2 min from Piccadilly Circus* · Cited by 2 sources
 
-**Built around certified Kobe beef**, which very few London kitchens are licensed to serve — the sushi is good and the beef is the reason to book.
+**Built around certified Kobe beef**, which very few London kitchens are licensed to serve — the sushi is good and the beef is what to book it for.
 
-Kobe is served several ways across a set menu: seared on a hot stone at the table, as sukiyaki, and in sushi. The certification matters — most London "Kobe" is wagyu from elsewhere, and this room can show you the papers.
+Kobe is served several ways across a set menu: seared on a hot stone at the table, as sukiyaki, and in sushi. Certification is the difference: most London "Kobe" is wagyu from elsewhere, and this room can show you the papers.
 
 **££££, closed Monday and Tuesday, books weeks ahead.** Two minutes from Piccadilly Circus.
 
@@ -193,7 +193,7 @@ Three kitchens work at once: **robata grill**, sushi counter and main kitchen, a
 
 **A maximalist take on a Ginza night out inside the Mandarin Oriental** — closer to a bar with exceptional food than to a hotel dining room, and decorated to within an inch of its life.
 
-Izakaya plates and robata off the grill, built to be eaten alongside a serious cocktail and sake list rather than as a sequence. The **wagyu skewers** and the sushi are the food to order; the room and the drinks are what you are paying for.
+Izakaya plates and robata off the grill, built to be eaten alongside a serious cocktail and sake list. The **wagyu skewers** and the sushi are the food to order; the room and the drinks are what you are paying for.
 
 **££££ and it books weeks ahead.** Go late and treat it as a bar that feeds you.
 
@@ -203,7 +203,7 @@ Izakaya plates and robata off the grill, built to be eaten alongside a serious c
 
 **A small family-run izakaya on Heath Street** doing charcoal yakitori at prices that have never caught up with the postcode — which is why it has survived on Hampstead regulars for decades.
 
-**Yakitori** is the order: skewers grilled over binchōtan charcoal, and the whole bird used properly — thigh, skin, liver, heart, tail — rather than just breast. Sushi and sashimi alongside, and a short list of izakaya plates.
+**Yakitori** is the order: skewers grilled over binchōtan charcoal, and the whole bird used — thigh, skin, liver, heart, tail — rather than just breast. Sushi and sashimi alongside, and a short list of izakaya plates.
 
 **£££, closed Monday, and book weeks ahead** — it is small and Hampstead has known about it for forty years. Two minutes from Hampstead station.
 
@@ -221,7 +221,7 @@ Izakaya plates and robata off the grill, built to be eaten alongside a serious c
 
 *££££ · the original* · Cited by 2 sources
 
-The original London Nobu, and **the room that put miso black cod on menus worldwide** — co-founded by Nobu Matsuhisa with Robert De Niro, which makes it the celebrity-owned restaurant in London that is genuinely about the food.
+The original London Nobu, and **the room that put miso black cod on menus worldwide** — co-founded by Nobu Matsuhisa with Robert De Niro, which makes it the celebrity-owned restaurant in London that is about the food.
 
 **Black cod with miso** is the dish, marinated for three days and grilled until it flakes — copied by every hotel restaurant on earth and still better here. Yellowtail with jalapeño and the new-style sashimi are the other originals.
 
@@ -233,7 +233,7 @@ The original London Nobu, and **the room that put miso black cod on menus worldw
 
 **An orange tree growing through an open-air terrace on the 39th floor** of Heron Tower — the highest outdoor dining in the City, with the glass lift ride up the outside of the building as part of the experience.
 
-Japanese-Peruvian-Brazilian cooking: **sushi and robata** alongside ceviche and churrasco skewers, which sounds scattered and works because the three cuisines genuinely share a history. Order across all of them.
+Japanese-Peruvian-Brazilian cooking: **sushi and robata** alongside ceviche and churrasco skewers, which sounds scattered and works because the three cuisines share a history. Order across all of them.
 
 **££££ and it books weeks ahead.** Ask for a terrace table specifically — inside is a different and lesser proposition. A second, ground-level site in Covent Garden has the food without the view.
 
@@ -259,7 +259,7 @@ The part of Japanese London that has improved most in the last decade, and the p
 
 **Tonkotsu broth simmered for eighteen hours** and **no bookings**, which is why there is usually a queue on St Giles High Street — the broth recipe was worked out in Fukuoka before the first London site opened.
 
-The **tonkotsu ramen** is the whole point: pork-bone broth boiled until it turns opaque and heavy, thin Hakata-style noodles cooked to your stated firmness, and chāshū on top. Order the noodles *barikata* if you like them firm; the kitchen will do it properly.
+Order the **tonkotsu ramen**: pork-bone broth boiled until it turns opaque and heavy, thin Hakata-style noodles cooked to your stated firmness, and chāshū on top. Order the noodles *barikata* if you like them firm; the kitchen will do it.
 
 **£, walk-in only. The queue is shortest before noon and after 2pm** — it is longest at exactly the hour you would normally go.
 
@@ -324,14 +324,14 @@ Omakase counters get the attention, but the everyday end of Japanese London is w
 
 * **Seven Dials Market**, Covent Garden — Japanese counters in a two-floor food hall, and the best way to eat one good dish without committing to a restaurant.
 * **Arcade Food Hall** at Centre Point and Battersea Power Station carries several Japanese and Japanese-adjacent counters, generally around £10–£14 a dish.
-* **Japan Centre**, Panton Street — as much a food shop as a restaurant. The bento and onigiri counter is the cheapest genuinely Japanese food in the West End, and the supermarket behind it is where Londoners buy the ingredients.
+* **Japan Centre**, Panton Street — as much a food shop as a restaurant. The bento and onigiri counter is the cheapest authentic Japanese food in the West End, and the supermarket behind it is where Londoners buy the ingredients.
 
 #### Worth the money rather than cheap
 
 * **Jin Kichi**, Hampstead — charcoal yakitori, and the best value-for-quality on this page.
 * **Cocoro** — home-style set meals, the category London under-serves.
 * **Akira at Japan House**, Kensington — sourcing directly from Japan, with bento and donburi built on produce nowhere else here has.
-* **Lunch sets** at the omakase counters run at a fraction of dinner for the same fish. This is the single biggest saving in this guide.
+* **Lunch sets** at the omakase counters run at a fraction of dinner for the same fish. This is the biggest saving in this guide.
 
 ---
 
@@ -340,7 +340,7 @@ Omakase counters get the attention, but the everyday end of Japanese London is w
 * **Book omakase weeks ahead.** Sushi Tetsu releases in batches; set a reminder.
 * **Lunch is materially cheaper** at almost every counter here, for the same kitchen.
 * **Izakaya is for sharing** and ordering in waves, not for a starter and a main.
-* **The budget end is thin.** If you want cheap Japanese food in London, ramen and udon are the honest answer.
+* **The budget end is thin.** If you want cheap Japanese food in London, ramen and udon are the answer.
 * **Service charge** of 12.5% is discretionary and standard.
 
 ---

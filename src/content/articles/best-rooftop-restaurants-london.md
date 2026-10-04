@@ -31,7 +31,7 @@ Every rooftop list in London ranks the same thing: the view. That is the easy ha
 
 So this guide asks a different question of the same set of restaurants. Five of them hold a Michelin star in the 2026 guide. The rest do not, and that includes the towers whose names everyone knows. Meanwhile the best-rated roof in London, by the one masthead that ranks its list, is a gastropub in Spitalfields with a herb garden on top of it.
 
-The other thing worth knowing before you book: several of these are bars that serve food rather than restaurants, and several more are not rooftops at all — they are sealed rooms high in a building, which is a different evening and, in bad weather, a better one. Both are marked below.
+Before you book: several of these are bars that serve food rather than restaurants, and several more are not rooftops at all — they are sealed rooms high in a building, which is a different evening and, in bad weather, a better one. Both are marked below.
 
 > 💡 **The Short Version:** **Brooklands by Claude Bosi** has two Michelin stars and a terrace for 26 at the top of The Peninsula. **Angler** is a starred seafood restaurant whose terrace has a roof that closes, so it works all year. **The River Café** is the riverside answer and has been since 1987. **Seabird** is named by more sources than anything else on a roof in London. **The Culpeper** is Time Out's number one, and it is a pub with a herb garden on the roof. **Frank's Cafe** is the cheap one and runs 15 May to 12 September only. And **Sky Garden is free** — you never have to buy dinner to get up there.
 
@@ -74,13 +74,13 @@ Two Michelin stars within months of opening, first awarded in 2024 and held in t
 
 *The dining room at Brooklands.*
 
-The cooking is Claude Bosi's: turbot with wild sea leeks, Cornish squid with artichoke, Lake District lamb with mint and pastrami. Time Out's note on the weather is the practical one — if it turns, the staff move you back inside rather than leaving you under an umbrella.
+The cooking is Claude Bosi's: turbot with wild sea leeks, Cornish squid with artichoke, Lake District lamb with mint and pastrami. Time Out's note on the weather is the practical one — if it turns, the staff move you back inside.
 
 ### Angler, Moorgate
 
 *£££ · Moorgate · rooftop of the South Place Hotel · Cited by 4 sources · One Michelin star, 2026 — a thirteenth consecutive year · [book a table](https://anglerrestaurant.com/book-a-table/)*
 
-The rooftop restaurant that has held a star the longest, every year since 2014, and the one that answers the rain question properly: **the terrace is heated and its roof retracts**, so an outdoor table in October is a real booking rather than a gamble. Inside is a slanted row of windows and a mirrored ceiling that pulls the skyline down over the room.
+The rooftop restaurant that has held a star the longest, every year since 2014, and the one that answers the rain question: **the terrace is heated and its roof retracts**, so an outdoor table in October is a real booking rather than a gamble. Inside is a slanted row of windows and a mirrored ceiling that pulls the skyline down over the room.
 
 ![Angler's dining room: a row of outward-slanting windows down one side, white-clothed tables with purple armchairs, and a faceted mirrored ceiling running the length of the room](../../assets/articles/best-rooftop-restaurants-london/angler-dining-room.jpg)
 
@@ -160,13 +160,13 @@ The room is a low, wide box with a terrace along the front and the whole of sout
 
 The Peckham original's central sibling, on the top of the National Theatre with a wraparound terrace seating 70 and the river directly below it. Same style of menu — golden cauliflower fritti, bitter leaves under an anchovy dressing, lamb shoulder with salsa verde, burrata with beetroot — and a wine list that leans orange and low-intervention.
 
-The thing worth knowing: **in summer a second, walk-ins-only terrace called Forza Taps runs just beneath it**, with wine on tap and a snack menu. If the main terrace is full, that is the answer rather than a wasted journey.
+**In summer a second, walk-ins-only terrace called Forza Taps runs just beneath it**, with wine on tap and a snack menu. If the main terrace is full, that is the answer.
 
 ### Boundary Shoreditch, Shoreditch
 
 *££ · Shoreditch · 2–4 Boundary Street E2 · Cited by 5 sources · #12 of 15, Time Out · [book a table](https://www.sevenrooms.com/reservations/boundarylondon?venues=boundaryrooftop,boundarybrasserie)*
 
-The rooftop that behaves best in bad weather. Alongside the open garden — shrubs, trees, the City skyline to the west — there is a **heated glass orangery**, which is why this is one of the few roofs in the guide that is genuinely a year-round booking rather than a summer one.
+The rooftop that behaves best in bad weather. Alongside the open garden — shrubs, trees, the City skyline to the west — there is a **heated glass orangery**, which is why this is one of the few roofs in the guide that is a year-round booking rather than a summer one.
 
 The food is grill-led Mediterranean: chermoula prawns with sesame mayonnaise, lamb köfte, octopus with sundried tomato, a vegan moussaka. The menu shifts with the season and the kitchen runs occasional chef residencies. Open Tuesday to Saturday, noon to 11pm — check before a Sunday or Monday trip.
 
@@ -192,7 +192,7 @@ Four floors of one Young's-owned building with three separate kitchens in it, an
 
 *The rooftop terrace at Smiths of Smithfield.*
 
-The floor everyone assumes is a steakhouse is not — **the No.3 rooftop is the seafood kitchen**, and The Grill, two AA rosettes and all, is downstairs. Order oysters and whole fish up here and the dry-aged beef on the way out. The catch that ruins a plan: **the whole building is private hire only on Sundays**, and food stops at 9.30pm the rest of the week.
+The floor everyone assumes is a steakhouse is not — **the No.3 rooftop is the seafood kitchen**, and The Grill, two AA rosettes and all, is downstairs. Order oysters and whole fish up here and the dry-aged beef on the way out. One thing ruins a plan: **the whole building is private hire only on Sundays**, and food stops at 9.30pm the rest of the week.
 
 ### Aviary, Finsbury Square
 
@@ -224,7 +224,7 @@ Forty covers on the third floor of the most over-subscribed pub in London, and t
 
 *The bar at The Devonshire.*
 
-The kitchen is the reason people queue — Guinness poured properly downstairs, a grill and a pie counter upstairs, a bacon sandwich made with pork reared by Brett Graham of The Ledbury. Sunday lunch is £29.50. Children are welcome in the restaurant at any time but not in the pub after 5pm on weekdays or at all at weekends, which changes the shape of a family afternoon.
+People queue for the kitchen — Guinness poured downstairs, a grill and a pie counter upstairs, a bacon sandwich made with pork reared by Brett Graham of The Ledbury. Sunday lunch is £29.50. Children are welcome in the restaurant at any time but not in the pub after 5pm on weekdays or at all at weekends, which changes the shape of a family afternoon.
 
 ---
 
@@ -237,7 +237,7 @@ In London this decides a booking. Four different answers, and they are not inter
 | Shelter | What it means in October | Where |
 | --- | --- | --- |
 | **Roof that closes** | The booking holds whatever the forecast says | [Alto by San Carlo](#alto-by-san-carlo-oxford-street), [Angler](#angler-moorgate), Stanley's at The Chesterfield |
-| **Glass room beside the terrace** | You move indoors and keep the view | [Boundary Shoreditch](#boundary-shoreditch-shoreditch), [Mercer Roof Terrace](#worth-knowing-briefly), [Smiths of Smithfield](#smiths-of-smithfield-farringdon), [SUSHISAMBA](#where-you-are-paying-for-the-view) |
+| **Glass room beside the terrace** | You move indoors and keep the view | [Boundary Shoreditch](#boundary-shoreditch-shoreditch), [Mercer Roof Terrace](#also-named-briefly), [Smiths of Smithfield](#smiths-of-smithfield-farringdon), [SUSHISAMBA](#where-you-are-paying-for-the-view) |
 | **Heaters, blankets or igloos** | Cold is solved, rain is not | [Coq d'Argent](#coq-dargent-bank), [Aviary](#aviary-finsbury-square), The Rooftop St James, [Peggy Jean](#peggy-jean-richmond), [Rick Stein Barnes](#rick-stein-barnes-barnes) |
 | **Open air, nothing over it** | A forecast-dependent evening | [The Marksman](#the-marksman-hackney-road), [The Devonshire](#the-devonshire-soho), [Frank's Cafe](#the-cheap-ones), La'Yam above Holborn station |
 
@@ -292,13 +292,13 @@ There is an outdoor terrace and a private room for 18. Note the sibling: **Sam's
 
 The London outpost of the Padstow group, on one of the quietest stretches of the river. Cornish lobster, Indonesian seafood curry and daily fish specials off the board; three courses at £35, a children's menu at £7.50, and an oyster happy hour in the Riverside Bar.
 
-Two useful rules from the restaurant itself: **the Riverside Bar takes no bookings** — walk in from 10.30am for coffee, or later for oysters and small plates — and **the courtyard is walk-in only too**, with heaters and blankets but an honest warning that it may close in bad weather.
+Two useful rules from the restaurant itself: **the Riverside Bar takes no bookings** — walk in from 10.30am for coffee, or later for oysters and small plates — and **the courtyard is walk-in only too**, with heaters and blankets but a warning that it may close in bad weather.
 
 ### Scott's Richmond, Richmond
 
 *£££ · Richmond · 4 Whittaker Avenue, on the riverside · Cited by 6 sources · #6 of 16, Time Out · [its site](https://scotts-richmond.com/)*
 
-The Mayfair seafood room's second site, opened in 2022 on the Richmond waterfront, and named by six sources — as many as anything else upstream. Oysters, crab, caviar and champagne, in a glossy room with a central bar — and a terrace over the Thames that is the entire reason to book here rather than in Mayfair.
+The Mayfair seafood room's second site, opened in 2022 on the Richmond waterfront, and named by six sources — as many as anything else upstream. Oysters, crab, caviar and champagne, in a glossy room with a central bar — and a terrace over the Thames, which is why to book here rather than in Mayfair.
 
 If the terrace is full, The Infatuation's advice is the right one: ask for a window table when you book, because the curtains are drawn back onto the river all afternoon.
 
@@ -330,7 +330,7 @@ Four small units cut into the canal wall, almost all the seating outdoors on the
 
 *£££ · South Bank · eighth floor, Barge House Street · Cited by 5 sources · #12 of 16, Time Out · [book a table](https://oxotowerrestaurant.com/book-a-table/)*
 
-Rooftop and riverside at once, which is rarer than it sounds: eight floors up, on the south bank, with the river and St Paul's filling the glass. Three rooms share the floor — the restaurant, the cheaper brasserie and the bar — and the brasserie is the one to book if the view matters more than the tasting menu.
+Rooftop and riverside at once, which is rarer than it sounds: eight floors up, on the south bank, with the river and St Paul's filling the glass. Three rooms share the floor — the restaurant, the cheaper brasserie and the bar — and the brasserie is the one to book if you want the view more than the tasting menu.
 
 The thing to know before you plan around it: the Fallow team has taken it on and, per Time Out, will formally take over in 2027, so the kitchen that is there now is not necessarily the kitchen that will be.
 
@@ -346,7 +346,7 @@ The waterside seats go first in summer and the dock is sheltered from the wind i
 
 *££ · South Bank · first floor, Royal Festival Hall · Cited by 3 sources · #16 of 16, Time Out · [book a table](https://skylon-restaurant.co.uk/book-a-table/)*
 
-A wall of glass across the first floor of the Royal Festival Hall, looking over the river to Charing Cross and Westminster, with the theatre crowd moving below. Modern British with a pre-theatre menu that is the point of the place — trout in champagne sauce, crab and prawn linguine — and a bar at one end for people who only want the window.
+A wall of glass across the first floor of the Royal Festival Hall, looking over the river to Charing Cross and Westminster, with the theatre crowd moving below. Modern British with a pre-theatre menu that anchors the place — trout in champagne sauce, crab and prawn linguine — and a bar at one end for people who only want the window.
 
 The whole building runs to curtain-up times, so a pre-theatre table here is timed against the concert hall rather than against a kitchen's guess.
 
@@ -377,13 +377,13 @@ Linked names, one line each, all named by two or more independent sources.
 
 ## Where you are paying for the view
 
-These are the famous ones, and they are famous for altitude rather than cooking. None of them holds a Michelin star; most are named by the lists that sort restaurants by height rather than by the ones that sort them by kitchen. That does not make them bad — it makes them a different purchase, and worth going into with your eyes open.
+These are the famous ones, and they are famous for altitude rather than cooking. None of them holds a Michelin star; most are named by the lists that sort restaurants by height. That does not make them bad — it makes them a different purchase, and worth going into with your eyes open.
 
 - **[Aqua Shard](https://www.sevenrooms.com/explore/aquashard/reservations/create/search/)**, London Bridge — **Level 31 of The Shard**, floor-to-ceiling glass, no outdoor space. The Express Lunch starts at £35 and the Twilight menu at £45; the Peter Pan afternoon tea is £70 a head. *Cited by 1 source*
 - **[SUSHISAMBA](https://www.sushisamba.com/locations/london-heron-tower)**, Liverpool Street — floors 38 and 39 of the Heron Tower, with an indoor dining room and **two genuine outdoor terraces**, which most towers do not have. Japanese-Brazilian-Peruvian; large plates around £50. *Cited by 5 sources*
 - **[Darwin Brasserie](https://skygarden.london/restaurants/darwin-brasserie/)** and **Fenchurch**, Sky Garden — the two restaurants inside the Walkie-Talkie's public garden. **Sky Garden itself is free with a timed ticket**, so eating here is a choice, not an entry fee. *Cited by 2 sources*
-- **Shanghai Me**, Park Lane — the 28th floor of the Hilton, art deco throughout, and Time Out is direct about the catch: "you won't be able to get outside or onto a balcony". *Cited by 4 sources · #11 of 15, Time Out*
-- **[Duck & Waffle](https://duckandwaffle.com/)**, Liverpool Street — the 40th floor of the same Heron Tower, open around the clock, which is genuinely unusual. Sealed windows. *Cited by 1 source*
+- **Shanghai Me**, Park Lane — the 28th floor of the Hilton, art deco throughout, and Time Out is direct about the drawback: "you won't be able to get outside or onto a balcony". *Cited by 4 sources · #11 of 15, Time Out*
+- **[Duck & Waffle](https://duckandwaffle.com/)**, Liverpool Street — the 40th floor of the same Heron Tower, open around the clock, which is unusual. Sealed windows. *Cited by 1 source*
 - **[Radio Rooftop](https://radiorooftop.com/)**, Strand — on top of ME London at 336–337 Strand, modern Asian sharing plates, and the clearest sightline to the London Eye of anything on this page. Ranked third of ten by the one creator here who ranked them. *Cited by 4 sources*
 - **[Madison](https://www.madisonlondon.net/)**, St Paul's — on the roof of One New Change with St Paul's filling the view; a steakhouse menu with indoor seating and several terraces. Two courses £45. *Cited by 3 sources*
 - **[Hutong](https://hutong.co.uk/)**, London Bridge — northern Chinese on Level 33 of The Shard. Named by Secret London's rooftop 20 despite having no roof. *Cited by 1 source*
@@ -421,13 +421,13 @@ New enough that the lists are still catching up.
 
 - **[Restaurant Gordon Ramsay High](#restaurant-gordon-ramsay-high-liverpool-street)**, 22 Bishopsgate — took its first Michelin star in the 2026 guide, from twelve seats. *Cited by 3 sources · One Michelin star, 2026*
 - **[CÉ LA VI](https://ldn.celavi.com/)**, Paddington — the Singapore group's London site, on the 17th and 18th floors of Paddington Square, with indoor and outdoor seating and a clear line to the London Eye. *Cited by 2 sources*
-- **Café Clement**, Temple — the ground-floor brasserie of the new St Clement hotel, run by a former River Café head chef. Time Out is honest that the view is the sculpture park on the roof of Temple station rather than the water. *#5 of 16, Time Out*
+- **Café Clement**, Temple — the ground-floor brasserie of the new St Clement hotel, run by a former River Café head chef. Time Out says the view is the sculpture park on the roof of Temple station rather than the water. *#5 of 16, Time Out*
 - **Tower House**, Richmond — the Notting Hill Gold team's riverside restaurant in the old Pitcher & Piano site. *Cited by 1 source*
 - **La'Yam Rooftop**, Holborn — Greek cooking on the eighth floor of Kingsbourne House, directly above the Tube station; open-air, skewers £10, mezze platter £25. *Cited by 1 source*
 
 ---
 
-## Worth knowing, briefly
+## Also named, briefly
 
 Named by the sources but not given a full entry — either because only one or two guides reach them, or because the view is the main event.
 

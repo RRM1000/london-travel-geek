@@ -308,7 +308,7 @@ Every one of these will feed you for under £16, which is not true of much else 
 This is where a lot of Filipino cooking in London actually happens: the residency before the restaurant, the market unit, the counter inside somebody else's hall. Rex de Guzman ran Turo Turo as a market stall and then as a residency on the first floor of a Walworth Road pub before it took a permanent site in Tooting.
 
 * **Bongbongs Manila Kanteen**, Seven Dials Market, Covent Garden — from **BBQ Dreamz**, who won £350,000 on BBC Two's *My Million Pound Menu* and later changed the name. Rice boxes under £15, a longanisa sausage box, and a pancake filled with 24-hour sous-vide crispy pork or sizzling sisig mushrooms for vegetarians. *Cited by 1 source*
-* **Ading Ysa's Kitchen**, Tooting Broadway Market — a market counter doing sisig, prawn sinigang and an ube pie that is the reason most people find it. Five minutes from Turo Turo, so the two make an easy afternoon. *Cited by 1 source*
+* **Ading Ysa's Kitchen**, Tooting Broadway Market — a market counter doing sisig, prawn sinigang and an ube pie that most people find it for. Five minutes from Turo Turo, so the two make an easy afternoon. *Cited by 1 source*
 * **Spoon & Rice**, Boxpark Wembley and Boxpark Croydon, plus a shop on Willesden High Road — grilled chicken thigh, pork belly or adobo over rice, doused in a house garlic sauce. Open seven days, 11am to 9.30pm. *Cited by 1 source*
 * **Filishack**, Peckham Hill Street — a Peckham Square shack that grew into three sites without changing the menu. *Cited by 2 sources*
 
