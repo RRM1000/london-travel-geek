@@ -347,7 +347,7 @@ The walk-in option, and much less formal. Their own wording is the useful part: 
 
 ## The week after
 
-**Bonfire Night is five days later**, on Thursday 5 November, though most of the big displays are on Saturday 7 November. The two are effectively one season in London — several venues run Halloween until the 2nd and switch straight to fireworks. Our [Bonfire Night guide](/articles/bonfire-night-london/) has the display dates, what each one costs and the on-sale days worth diarising.
+**Bonfire Night is five days later**, on Thursday 5 November, though most of the big displays are on Saturday 7 November. The two are effectively one season in London — several venues run Halloween until the 2nd and switch straight to fireworks. Our [Bonfire Night guide](/articles/bonfire-night-london/) has the display dates, what each one costs and where to book.
 
 ## Free Halloween things
 
