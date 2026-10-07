@@ -43,7 +43,7 @@ This guide lists every display you can buy a ticket for, the one that is still f
 
 > 🎃 **Coming a week earlier?** Our [Halloween in London guide](/articles/halloween-london/) covers the same fortnight — the ticketed events, the free ones, and which of the scare attractions are worth the money.
 
-> 🧭 **Plan the rest of it:** [Getting around on the night](/articles/getting-around-london-transport-guide/) · [Late-night eating](/articles/late-night-eating-london/) · [New Year's Eve fireworks](/articles/new-years-eve-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/)
+> 🧭 **Plan the rest of it:** [Getting around on the night](/articles/getting-around-london-transport-guide/) · [Late-night eating](/articles/late-night-eating-london/) · [New Year's Eve fireworks](/articles/new-years-eve-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/)
 
 ## When everything actually happens
 

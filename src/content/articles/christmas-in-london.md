@@ -20,7 +20,7 @@ faq:
   - q: "What is actually free at Christmas in London?"
     a: "Every street light display, every Christmas market to browse, the Trafalgar Square tree and St Pancras's charity tree are all free. What is not: ice rinks, ticketed light trails such as Christmas at Kew, grottos at the department stores, and Hyde Park Winter Wonderland, which needs a ticket even to walk in."
   - q: "When do London's Christmas lights switch on?"
-    a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Carnaby Street's switch-on is Wednesday 4 November 2026 and Covent Garden's is Thursday 12 November; the other streets had not announced 2026 dates by late September."
+    a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Carnaby Street's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November and Covent Garden's is Thursday 12 November."
   - q: "Where can you still ice skate outdoors in London at Christmas 2026?"
     a: "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House in Greenwich and Hyde Park Winter Wonderland all have outdoor rinks in 2026-27, and Alexandra Palace has a year-round indoor one. The Natural History Museum's rink has closed for good, Canary Wharf's is taking a break for 2026, and there is no Tower of London rink."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
@@ -31,7 +31,7 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/)
 
 ## Hyde Park Winter Wonderland
 
@@ -203,7 +203,7 @@ The shows below are the ones built for children, not tolerated by them, and they
 
 ### Wundrful World of Christmas, ExCeL London
 
-**11 November – 24 December 2026, on selected days.** A timed walk-through for **three to eight-year-olds** and their adults, in Immerse LDN on ExCeL's waterfront, three minutes' walk from Custom House (Elizabeth line and DLR). Children ride a lift to the North Pole, cross an Enchanted Forest, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and then Santa, with a photo taken at the end, and every child gets a small gift. It takes about 50 minutes, and the Elves' Playground afterwards (light installations, gentle fairground rides, food stalls) adds at least another 30.
+**13 November – 24 December 2026, on selected days.** A timed walk-through for **three to eight-year-olds** and their adults, in Immerse LDN on ExCeL's waterfront, three minutes' walk from Custom House (Elizabeth line and DLR). Children ride a lift to the North Pole, cross an Enchanted Forest, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and then Santa, with a photo taken at the end, and every child gets a small gift. It takes about 50 minutes, and the Elves' Playground afterwards (light installations, gentle fairground rides, food stalls) adds at least another 30.
 
 **Adults £29.90 off-peak and £34.90 at peak; children £24.90 and £29.90.** A family pass for four or five (no more than two adults) is £24.90 a head off-peak and £29.90 at peak. Every child needs a ticket, babies included, though under-12-month tickets are free. Rides, food and Santa photo prints cost extra, the venue takes cards only, and pushchairs are left outside the walk-through. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
 

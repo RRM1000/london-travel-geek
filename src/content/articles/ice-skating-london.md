@@ -34,7 +34,7 @@ London's outdoor rinks go up in the first three weeks of November and come down 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
 ## The rinks at a glance
 
