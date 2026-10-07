@@ -100,7 +100,7 @@ Olympia is step-free, with lifts to the accessible entrance, which shares the ma
 
 ## Where to stay
 
-For the shortest walk, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)** sits inside the redeveloped Olympia site itself, about a minute from the station, at roughly £220 a night. For less money, **[Premier Inn London Kensington (Olympia)](hotelscom:h12195)** on West Cromwell Road has air conditioning in every room and is a short walk from Earl's Court station. Our [where to stay in Kensington guide](/articles/where-to-stay-kensington/) covers both in full, along with cheaper options in Earl's Court, and our [Kensington area guide](/articles/kensington-area-guide/) covers the neighbourhood itself — Holland Park's Kyoto Garden is a fitting stop either side of the festival.
+For the shortest walk, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)** sits inside the redeveloped Olympia site itself, about a minute from the station, at roughly £220 a night. For less money, **[Premier Inn London Kensington (Olympia)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-kensington-olympia.html)** on West Cromwell Road has air conditioning in every room and is a short walk from Earl's Court station. Our [where to stay in Kensington guide](/articles/where-to-stay-kensington/) covers both in full, along with cheaper options in Earl's Court, and our [Kensington area guide](/articles/kensington-area-guide/) covers the neighbourhood itself — Holland Park's Kyoto Garden is a fitting stop either side of the festival.
 
 ## Other anime and J-culture events in London
 

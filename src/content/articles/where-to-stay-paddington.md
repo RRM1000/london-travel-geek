@@ -117,7 +117,7 @@ A budget chain with compact, air-conditioned rooms, and **the choice of a window
 
 ### hub by Premier Inn London Paddington — 11 square metres beside the station
 
-*40 Eastbourne Terrace, W2 6LG · Beside the station · [Hotels.com](hotelscom:h106101222)*
+*40 Eastbourne Terrace, W2 6LG · Beside the station · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-paddington-paddington-station.html)*
 
 Premier Inn's compact format: **Standard rooms are 11 square metres** with a double bed, underbed storage and a slide-out desk, and **Bigger Interior rooms are 14 square metres with a king-size bed and no window**. The building also holds a full-size [Premier Inn London Paddington (Paddington Station)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-paddington-paddington-station.html), with family rooms, a bar and a restaurant; check-in there is 2pm and check-out noon. At both, **up to two children eat breakfast free** when an adult orders a Premier Inn breakfast.
 

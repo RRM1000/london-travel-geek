@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27",
+ "generated": "2026-10-07",
  "count": 219,
  "hotels": [
   {
@@ -4639,7 +4639,10 @@
    "lists": [
     "design"
    ],
-   "website": "https://www.theexhibitionisthotel.com/"
+   "website": "https://www.theexhibitionisthotel.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho119903/the-exhibitionist-hotel-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho119903/the-exhibitionist-hotel-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-gore-london",
@@ -5533,7 +5536,10 @@
     "long-stay",
     "aparthotels"
    ],
-   "website": "https://www.wilde.com/london"
+   "website": "https://www.wilde.com/london",
+   "hotelsUrl": "https://uk.hotels.com/ho691561/wilde-aparthotels-by-staycity-covent-garden-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho691561/wilde-aparthotels-by-staycity-covent-garden-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "1-hotel-mayfair",
@@ -7576,7 +7582,10 @@
     "luxury",
     "showstopper"
    ],
-   "website": "https://www.thesavoylondon.com/"
+   "website": "https://www.thesavoylondon.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho172847/the-savoy-london-united-kingdom/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho172847/the-savoy-london-united-kingdom/",
+   "affiliateNetwork": "cj"
   },
   {
    "slug": "the-soho-hotel",
