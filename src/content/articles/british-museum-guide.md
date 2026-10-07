@@ -28,27 +28,27 @@ faq:
   - q: "Is the British Museum free?"
     a: "Yes. General admission is free, and always has been. Only special exhibitions charge, and the Bayeux Tapestry is one of them: a free museum ticket does not get you into Room 30."
   - q: "Do you need to book the British Museum?"
-    a: "No. Booking a free timed entry ticket on the museum's website is recommended for priority entry at busy times, such as weekends and school holidays, but it is not required. There is a security and bag check at the door either way."
+    a: "No, but a free timed ticket from the museum's website is recommended. Without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check."
   - q: "Can you still get tickets for the Bayeux Tapestry?"
-    a: "Not for a visit before 1 January 2027: every ticket from 10 September to 31 December 2026 has sold out. Tickets for 1 January to 31 March 2027 go on general sale on 21 October 2026, after members' priority booking from 6 October. April to July 2027 follows in early 2027, and the Tapestry leaves on 11 July 2027."
+    a: "Not for a visit before 1 January 2027: every ticket from 10 September to 31 December 2026 has sold out. General booking for 1 January to 31 March 2027 opens on 21 October 2026; members' priority tickets for that window are already fully booked. April to July 2027 opens in early 2027, and the Tapestry leaves on 11 July 2027."
   - q: "How much is the Bayeux Tapestry at the British Museum?"
     a: "An adult ticket is £33, or £36.50 with the optional £3.50 donation. Off-peak slots are £27, and the cheapest slots, term-time weekdays between 15:30 and 16:20, are £25. Under-16s are free with an adult, and students, 16 to 18s and jobseekers pay £25."
   - q: "Which entrance should you use for the British Museum?"
-    a: "The main entrance is on Great Russell Street, where the security and bag check queue forms. The Montague Place entrance on the north side is usually much quieter and puts you nearer the upper galleries. The Great Russell Street entrance has 12 steps with a lift either side; Montague Place is step-free."
+    a: "There are two entrances: Great Russell Street, the main one, and Montague Place on the north side. Every visitor goes through a security and bag check. The Great Russell Street entrance has 12 steps with a lift either side; Montague Place is step-free."
   - q: "How long do you need at the British Museum?"
     a: "Two hours covers the Rosetta Stone, the Parthenon sculptures, the Assyrian reliefs, the Egyptian mummies and the Sutton Hoo helmet if you go straight to them. The Bayeux Tapestry adds about 40 minutes, in a separately ticketed, timed slot."
   - q: "Is the British Museum open late?"
-    a: "Yes, on Fridays, until 20:30. The Bayeux Tapestry exhibition keeps its own hours: Sunday to Wednesday 10:00 to 18:00 and Thursday to Saturday 10:00 to 21:00."
+    a: "Yes, on Fridays, until 20:30, with last entry at 20:15. On other days the galleries close at 17:00 and last entry is 16:45. The Bayeux Tapestry exhibition keeps its own hours: Sunday to Wednesday 10:00 to 18:00 and Thursday to Saturday 10:00 to 21:00."
 ---
 
 The British Museum holds about eight million objects and took 6.4 million visits in 2025, second only to the Natural History Museum among UK attractions. Entry is free. The exception is the Bayeux Tapestry, in Room 30 until 11 July 2027, which has its own timed ticket.
 
 > 💡 **The Short Version:**
-> - **Entry is free.** A free timed ticket from the museum's website is recommended for priority entry at weekends and in school holidays, but you can walk in. Expect a security and bag check.
+> - **Entry is free.** A free timed ticket from the museum's website is recommended; without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check.
 > - **The Bayeux Tapestry is separate and sold out until 2027.** Every ticket to 31 December 2026 has gone. General booking for 1 January to 31 March 2027 opens on **21 October 2026**. Adults are £33.
-> - **Use the Montague Place entrance** on the north side rather than Great Russell Street; it is usually far quieter.
-> - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10a). **In two,** go upstairs for the Egyptian mummies (Rooms 62 to 64), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
-> - **Fridays are open late,** until 20:30. **Room 41 (Sutton Hoo) is partially closed from 12 to 23 October 2026.** A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> picks the route for you.
+> - **Leave big bags behind.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed. The entrances are Great Russell Street and Montague Place.
+> - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
+> - **Fridays are open late,** until 20:30. **Check the closures:** Room 41 (Sutton Hoo) is partially closed and Rooms 42 and 43 (Islamic world) are closed from 12 to 23 October 2026, and Room 4 (the Rosetta Stone) is closed from 11 to 22 January 2027. A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> picks the route for you.
 
 > ⚠️ **Bayeux Tapestry tickets to 31 December 2026 are sold out, and a free museum ticket does not include them.** The free events on 9 to 11 October are free to attend, but none of them gets you into Room 30.
 
@@ -64,9 +64,9 @@ The Bayeux Tapestry is an embroidered cloth nearly 70 metres long and 50 centime
 
 ### Where tickets stand
 
-- **10 September to 31 December 2026:** sold out, including members' priority tickets.
-- **1 January to 31 March 2027:** members' priority booking runs from 6 October 2026. General booking opens on **21 October 2026**.
-- **April to 11 July 2027:** members' priority booking opens in January 2027 and general booking in early 2027.
+- **10 September to 31 December 2026:** sold out.
+- **1 January to 31 March 2027:** general booking opens on **21 October 2026**. Members' priority tickets for this window, like those for October to December, are already fully booked.
+- **April to 11 July 2027:** the final members' priority window opens in January 2027, and general booking opens in early 2027.
 
 Tickets are emailed four days before your visit. A booking takes up to ten tickets, only the booker can use them and ID may be checked; multiple bookings from the same email address are cancelled.
 
@@ -75,11 +75,13 @@ Tickets are emailed four days before your visit. A booking takes up to ten ticke
 | Adult | £33 (£36.50 with the £3.50 donation) | £27 (£30.50 with donation) |
 | National Art Pass | £16.50 | £13.50 |
 
-Students, 16 to 18s and jobseekers pay £25. Disabled visitors pay £25 and an assistant goes free; booking is required. Under-16s are free with an adult, up to four per adult. The cheapest adult slot is £25 (£28.50 with donation), valid only on term-time weekdays between 15:30 and 16:20. Museum Members get two visits at no extra cost and 10% off after that. Reciprocal entry and passes from ICOM, ICOMOS, MA and NMDC are not valid between September and December 2026.
+Students, 16 to 18s and jobseekers pay £25. Disabled visitors pay £25 and an assistant goes free; booking is required. Under-16s are free with an adult, up to four per adult. The cheapest adult slot is £25 (£28.50 with donation), valid only on term-time weekdays between 15:30 and 16:20. Reciprocal entry and passes from ICOM, ICOMOS, MA and NMDC are not valid between September and December 2026.
 
 ### Inside Room 30
 
-Allow about 40 minutes. Entry is timed and the route is one-way. Photography is allowed without flash; drawing and sketching are not. Buggies and large bags are not allowed in, and there is a paid cloakroom, subject to capacity. The exhibition is open Sunday to Wednesday 10:00 to 18:00 and Thursday to Saturday 10:00 to 21:00, and staff start clearing the room ten minutes before closing.
+Allow about 40 minutes. Entry is timed and the route is one-way. Photography is allowed without flash; drawing and sketching are not. Buggies and large bags are not allowed in; the paid cloakroom is subject to capacity. The exhibition is open Sunday to Wednesday 10:00 to 18:00 and Thursday to Saturday 10:00 to 21:00, and staff start clearing the room ten minutes before closing.
+
+The audio guide is free in the British Museum Audio app: download it before you come, and bring your own headphones.
 
 ### The free Bayeux events
 
@@ -97,13 +99,13 @@ Both sit alongside the exhibition without including it:
 
 *The Great Russell Street front. Photo: [Txllxt TxllxT](https://commons.wikimedia.org/wiki/File:London_-_Great_Russell_Street_-_British_Museum_II.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-General admission is free. Booking a free timed ticket on the [museum's website](https://www.britishmuseum.org/visit) buys priority entry when it is busy, but walk-ins are admitted, and every visitor goes through a security and bag check.
+General admission is free. A free timed ticket from the [museum's website](https://www.britishmuseum.org/visit) is recommended; without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check, and wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed.
 
-- **Great Russell Street** is the main entrance, under the portico, and the one the queue forms at from mid-morning.
-- **Montague Place,** round the back on the north side, is usually straight in, and puts you nearer the quieter upper galleries.
-- **Hours:** galleries open daily 10:00 to 17:00, with last entry at 16:45, and on Fridays the museum stays open until 20:30, with last entry at 20:15. A Friday evening is much calmer than a weekend afternoon.
+- **Great Russell Street** is the main entrance, under the portico.
+- **Montague Place** is the second entrance, on the north side.
+- **Hours:** the galleries open daily 10:00 to 17:00, with last entry at 16:45, and on Fridays until 20:30, with last entry at 20:15. They start clearing ten minutes before closing. The Great Court stays open until 17:30, and until 20:30 on Fridays. The museum is closed on 24, 25 and 26 December.
 
-The cloakroom charges £4 to £6 a bag, and fold-up pushchairs go in it free.
+The cloakroom is open 10:00 to 17:00 (20:30 on Fridays), with the last deposit an hour before closing. Turn left after the main entrance. Box office: +44 (0)20 7323 8181.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="765419" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -119,7 +121,7 @@ The museum is built to defeat completeness, so pick a few objects and walk strai
 
 ### The Great Court
 
-A glass roof by Foster + Partners over what was an open courtyard hidden from the public for 150 years, opened in 2000, with the circular Reading Room at its centre. It is one of the few places in central London where you can sit indoors without buying anything, which makes it the place to meet.
+A glass roof by Foster + Partners over what was an open courtyard hidden from the public for 150 years, opened in 2000, with the circular Reading Room at its centre. It is one of the few places in central London where you can sit indoors without buying anything, and the Great Court itself is open until 17:30 (20:30 on Fridays).
 
 ### The Rosetta Stone, Room 4
 
@@ -127,7 +129,7 @@ A glass roof by Foster + Partners over what was an open courtyard hidden from th
 
 *The Rosetta Stone. Photo: [Hans Hillewaert](https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-A decree of 196 BC carved in three scripts, found in 1799 and on display in London since 1802. The Greek text let scholars read the hieroglyphs, and Champollion announced the breakthrough in 1822. It sits in a case in the middle of the Egyptian sculpture gallery.
+A decree of 196 BC carved in three scripts, found in 1799 and on display in London since 1802. The Greek text let scholars read the hieroglyphs, and Champollion announced the breakthrough in 1822. It sits in a case in the middle of the Egyptian sculpture gallery. **Room 4 is closed from 11 to 22 January 2027.**
 
 ### The Parthenon sculptures, Room 18
 
@@ -143,19 +145,19 @@ Frieze panels, metopes and pediment figures made for the Parthenon in Athens in 
 
 *The lamassu at the entrance to the Assyrian galleries.*
 
-The human-headed winged bulls guard the doorway into the long Assyrian gallery. Beyond them, in Room 10a, are the lion hunt reliefs from Ashurbanipal's North Palace at Nineveh, carved around 645 to 635 BC: the king on his chariot, lions shot with arrows, and a dying lioness with a spear through her.
+The human-headed winged bulls guard the doorway into the long Assyrian gallery. Beyond them, in Room 10, are the lion hunt reliefs from Ashurbanipal's North Palace at Nineveh, carved around 645 to 635 BC: the king on his chariot, lions shot with arrows, and a dying lioness with a spear through her.
 
 ![A close detail of an Assyrian relief showing King Ashurbanipal's bearded profile with a headband, drawing a bow](../../assets/articles/british-museum-guide/ashurbanipal-lion-hunt-relief.jpg)
 
 *Ashurbanipal, in the lion hunt reliefs. Photo: [Osama Shukir Muhammed Amin](https://commons.wikimedia.org/wiki/File:Assyrian_king_Ashurbanipal,_detail_of_a_lion-hunt_scene_from_Ninevah,_Iraq._British_Museum,_London.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-### The Egyptian mummies, Rooms 62 to 64
+### The Egyptian mummies, Rooms 62 and 63
 
 ![A wrapped mummy with a painted portrait panel of a young face set into the linen bandages](../../assets/articles/british-museum-guide/mummy-painted-portrait.jpg)
 
 *A mummy with a painted portrait panel. Photo: [APK](https://commons.wikimedia.org/wiki/File:Mummy_of_an_adolescent_boy,_British_Museum.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
-Upstairs, the mummies and coffins are the part of the museum most children come for. In Room 64 is Ginger, a man of about 18 to 23 who was buried in the sand around 3400 BC and preserved naturally, hair and skin included.
+Upstairs, the mummies and coffins fill Rooms 62 and 63. In Room 64 is Ginger, a man of about 18 to 23 who was buried in the sand around 3400 BC and preserved naturally, hair and skin included.
 
 ### The Sutton Hoo helmet, Room 41
 
@@ -173,6 +175,15 @@ The helmet came out of an Anglo-Saxon ship burial in Suffolk, dug by Basil Brown
 
 Walrus-ivory chess pieces found on the Isle of Lewis, probably made in Norway around AD 1150 to 1200. The museum holds 82 of them and the National Museum of Scotland holds 11. The berserkers bite their shields, and the queens rest a hand on their cheek.
 
+### Planned closures
+
+The museum publishes [planned gallery closures](https://www.britishmuseum.org/visit#gallery-information). The dated ones:
+
+- **Room 41 (Sutton Hoo) partially, and Rooms 42 and 43 (Islamic world):** 12 to 23 October 2026.
+- **Reading Room:** 13 and 20 November 2026.
+- **Room 4 (Rosetta Stone), Rooms 6a and 9:** 11 to 22 January 2027.
+- **Rooms 7 and 8:** 8 to 19 February 2027.
+
 <div data-stay-strip></div>
 
 ---
@@ -182,7 +193,6 @@ Walrus-ivory chess pieces found on the Isle of Lewis, probably made in Norway ar
 - **Korea** runs from 1 October 2026 to 31 January 2027. It is ticketed and booked separately on the [exhibitions page](https://www.britishmuseum.org/exhibitions-events).
 - **Declaring Independence: USA 250** is free and runs through October 2026.
 
-Special exhibitions are rarely the reason to bring children. Free family trails are handed out at the information desks.
 
 ---
 
@@ -203,7 +213,12 @@ The museum is easier with a route chosen for you. A <a href="https://www.getyour
 
 ### Food and drink
 
-Food and drink are sold inside, and the Great Court has seating. Afternoon tea in the Great Court, under the Foster roof, costs around £40; our [afternoon tea guide](/articles/best-afternoon-tea-london/) has the details. For a sit-down meal, Charlotte Street in Fitzrovia is about eight minutes' walk west across Tottenham Court Road; our [Fitzrovia guide](/articles/fitzrovia-area-guide/) covers it.
+- **Court Cafés,** Great Court ground floor, 10:00 to 17:00.
+- **Great Court Restaurant,** 11:30 to 17:00, last sitting 16:00. Booking is essential, though walk-ins are sometimes taken.
+- **Pizzeria,** south-west corner of the ground floor, left after the main entrance, 11:00 to 16:00.
+- **Coffee Lounge,** first floor overlooking the Reading Room, 10:30 to 16:30.
+
+For a sit-down meal outside, Charlotte Street in Fitzrovia is about eight minutes' walk west across Tottenham Court Road; our [Fitzrovia guide](/articles/fitzrovia-area-guide/) covers it.
 
 ### Step-free access
 
@@ -216,7 +231,7 @@ Montague Place is step-free, and the Great Russell Street entrance has lifts eit
 ### Common mistakes to avoid
 
 - **Turning up for the Bayeux Tapestry without a ticket.** It is timed and booked online; the museum's free entry ticket does not include it.
-- **Queuing at Great Russell Street by default.** Montague Place is usually quicker.
+- **Bringing a wheeled suitcase.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed.
 - **Trying to see everything.** Pick three galleries and leave.
 
 ---
@@ -233,7 +248,7 @@ The British Museum sits in Bloomsbury, so the garden squares, Lamb's Conduit Str
 - 🛏️ **[Where to Stay in Bloomsbury](/articles/where-to-stay-bloomsbury/)** — hotels a few minutes' walk from the colonnade.
 - 🖼️ **[Best Museums in London](/articles/best-museums-london/)** — the other free national museums and the small ones nearby.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free sights and booking hacks across Zone 1.
-- 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)** — which galleries children last in.
+- 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)** — the museum as part of a day with children.
 - ♿ **[Step-Free London](/articles/step-free-london/)** — the British Museum's lifts and entrances alongside the other big sights.
 - 🌧️ **[London in the Rain](/articles/london-in-the-rain/)** — the museum as an all-day indoor plan.
 - 🍂 **[Things to Do in London in October](/articles/things-to-do-in-london-in-october/)** — the Bayeux events and what else is on in October 2026.
@@ -242,4 +257,4 @@ The British Museum sits in Bloomsbury, so the garden squares, Lamb's Conduit Str
 
 ---
 
-*Bayeux Tapestry ticket dates, prices and hours are the British Museum's own, as published on 9 September 2026.*
+*Opening hours, closures, Bayeux Tapestry ticket dates and prices are the British Museum's own, as published on britishmuseum.org on 7 October 2026.*
