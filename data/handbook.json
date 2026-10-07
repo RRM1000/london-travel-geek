@@ -4,6 +4,7 @@
   "updated": "2026-10-04",
   "inProgress": [],
   "nextUp": [
+    "Look up Hotels.com ids (when its bot check clears) for about 15 linked hotels that still go to their own sites: King's Cross's St Pancras London, The Standard, The Megaro, Point A, Kabannas; The Londoner, The Milestone, London Bridge Hotel, The Twenty Two, Redchurch Townhouse, citizenM Olympia, Zedwell Leicester Place.",
     "Clean the Sheet card notes: about 137 overused phrases (mostly \"genuinely\" in Hidden London) plus the old \"that matters\"/\"other guides\" wording. Dry-run each Sheet writer and compare row counts first, then move the \"overused phrase\" rule from ARTICLE_ONLY to EVERYWHERE in scripts/check-page-wording.mjs.",
     "Rerun node scripts/index-coverage.mjs around 6 October to see how many of the 45 unindexed guides the sitemap has fixed.",
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
@@ -37,9 +38,14 @@
     "Paste the hotel names from The Times, The Sun and The Telegraph budget hotel lists, which are paywalled to me.",
     "Exhibitions: London Games Festival, London Film and Comic Con and a regular London record or retro-gaming fair turned up nothing online. Know of any worth adding?",
     "Section pages: London areas (48 guides) and Getting around (18) are still one flat most-read-first list. Want subheadings there too (e.g. by part of London; airports vs Tube vs buses)?",
-    "Disneyland Paris from London: the six hotel ids on the page came from search-engine copies of Hotels.com URLs, not Hotels.com itself, so confirm them (Disneyland Hotel 230008, Hotel New York 230033, Newport Bay Club 230007, Cheyenne 230011, L'Élysée Val d'Europe 212020, Adagio Val d'Europe 413241). Photos wanted: Sleeping Beauty Castle from Main Street (hero), Chessy station entrance, Eurostar at St Pancras, RER A at Chessy, Disneyland Hotel frontage."
+    "Disneyland Paris from London: the six hotel ids on the page came from search-engine copies of Hotels.com URLs, not Hotels.com itself, so confirm them (Disneyland Hotel 230008, Hotel New York 230033, Newport Bay Club 230007, Cheyenne 230011, L'Élysée Val d'Europe 212020, Adagio Val d'Europe 413241). Photos wanted: Sleeping Beauty Castle from Main Street (hero), Chessy station entrance, Eurostar at St Pancras, RER A at Chessy, Disneyland Hotel frontage.",
+    "CJ: check whether the account is joined to Hotels.com UK only, or the US/global programme too. Most stay-guide readers are outside the UK and every link goes to uk.hotels.com; switching to hotels.com only works if the account is joined to the right one."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-07",
+      "what": "Stay guides converting: 60 affiliate clicks from ~590 views in 28 days, one booking. Fixed: three bookable picks now open the Short Version of every stay guide; hotel links open on the reader's dates once they pick them; Wilde Covent Garden, The Savoy and The Exhibitionist now earn through Hotels.com; Premier Inn links back to Premier Inn (Hotels.com doesn't sell it), and a dead Premier Inn Paddington link fixed."
+    },
     {
       "date": "2026-10-04",
       "what": "Pushed live: about 26 confirmed events added across 13 guides from the listings sweep (Wundrful World of Christmas 11 Nov–24 Dec at ExCeL, Scrooge: Cirque Extravaganza, Cirque Alice, Bourne's Cinderella, Messiahs and carols, Christmas fairs, Halloween and New Year nights), Ticketmaster links on events the guides named without one; build check that updatedAt is never before publishedAt."
@@ -99,94 +105,6 @@
     {
       "date": "2026-09-29",
       "what": "GetYourGuide booking calendars on the dinner and a show guide for Mamma Mia! The Party (from £120, 4.7 from 148 reviews), 58th Street (from £120, 4.3 from 31) and the Thames dinner cruise (from £81), plus a 'dinner show London' carousel. GetYourGuide doesn't sell Faulty Towers, Le Petit Chef, The Murdér Express, The London Cabaret Club, the drag brunches or Ronnie Scott's. Ticketmaster lists Mamma Mia! The Party, 58th Street, Faulty Towers, the Kit Kat Club's Cabaret and Boisdale Canary Wharf: worth linking once the Ticketmaster programme is approved."
-    },
-    {
-      "date": "2026-09-29",
-      "what": "Your photos on the dinner and a show guide: 34 venues, each checked by eye, with Quaglino's band as the hero. Swapped out a Faulty Towers shot from the West End play for one of the dining experience; left out a rooftop that couldn't be tied to Queen of Hoxton and a dinner boat that couldn't be tied to City Cruises. Oriole's photo was checked against its own site to confirm it's the new Covent Garden room."
-    },
-    {
-      "date": "2026-09-29",
-      "what": "Dinner and a show in London: a new guide to 35 places where the food and the show are one night — jazz clubs with dinner (Ronnie Scott's, the 606, Toulouse Lautrec, Mu), restaurants with a band (Brasserie Zédel, Quaglino's, The Blues Kitchen, the most cited at 9 sources), cabaret dinners (The London Cabaret Club, 58th Street, The Maine), dining theatre (Faulty Towers, Mamma Mia! The Party, The Murdér Express), drag and gospel brunches, and dinner cruises. Built from 33 sources, every venue checked against its own site, and linked from the food hub, the cabaret, immersive, live music, comedy, brunch and hen do guides and four area guides. The cabaret guide's Late Late Show nights corrected to Wednesday to Saturday."
-    },
-    {
-      "date": "2026-09-29",
-      "what": "Traced the first Hotels.com commission (£4 on a £100 booking, 26–28 September) using a new script, scripts/affiliate-clicks.mjs, which lists every affiliate click by page and hotel. Most likely source: the MCM Comic Con guide's ExCeL hotels (Aloft or Good Hotel), clicked from Stratford-upon-Avon on 28 September; Norfolk Towers on the Paddington guide is the other candidate."
-    },
-    {
-      "date": "2026-09-28",
-      "what": "Pushed live: 16 commits, including the Brussels, Bruges and Amsterdam Eurostar guides and their photos, where-to-stay sections on the four Eurostar guides, the Canterbury, Edinburgh, Brighton and Hampton Court guides with your photos, Chiswick Rugby Club on the Bonfire Night page, and the preview script fix."
-    },
-    {
-      "date": "2026-09-28",
-      "what": "Your photos for the four new day trips, each checked by eye: Edinburgh (castle hero with cherry blossom, the Royal Mile, Holyroodhouse, the museum's Grand Gallery, Arthur's Seat), Canterbury and Dover (White Cliffs hero, cathedral, St Augustine's, Dover Castle, Leeds Castle), Brighton (Birling Gap, the Lanes, the i360, the Royal Pavilion) and Hampton Court (Great Hall roof, Wren's baroque range). Wikimedia heroes on Edinburgh and Canterbury replaced. Left out: an Alamy-watermarked gatehouse shot, two watermarked Edinburgh files, two Lanes shots that are North Laine, and photos of places the guides don't cover (Calton Hill, Canterbury's streets)."
-    },
-    {
-      "date": "2026-09-28",
-      "what": "Bonfire Night guide: Chiswick Rugby Club's charity fireworks (Sat 7 Nov, fireworks 7.30pm; £12 adult, £8 child, £30 family, with £2 of each ticket, £3 of a family ticket, going to Maggie's) added as its own section, a row in the prices table and on the Saturday timeline. Also fixed scripts/preview-article.mjs, which failed on every article because it still read the deleted ColourfulStreetsMap component; walk maps now come from src/data/routes."
-    },
-    {
-      "date": "2026-09-28",
-      "what": "Where to stay sections on the Paris, Brussels, Bruges and Amsterdam guides (16 hotels through Hotels.com, since only Paris has a London-departure GetYourGuide trip). Four new guides: Canterbury, Dover and Leeds Castle (coach tours from £79-£105), Edinburgh (rail day trip with castle entry, £219; one night recommended, hotels through Hotels.com), Brighton and the Seven Sisters (tours £84-£109), and Hampton Court Palace. All linked from the day trips hub or their related guides."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Eurostar guides after the Paris page earned a ~£50 GetYourGuide commission: Brussels day trip (seven in-city tours), Bruges (no London coach tour exists; the Any Belgian Station ticket ended in 2025, so two tickets), Amsterdam (4h each way, so it recommends a night). All four Eurostar guides now link each other and are linked from the day trips hub and both King's Cross guides; Paris was only linked from the hub before. Your photos added sparingly: Bruges (Minnewater, the Begijnhof, De Halve Maan), Brussels (the Atomium, Delirium Café), Amsterdam (the Anne Frank House); most canal and Markt shots were watermarked stock."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Pushed live: 25 commits, including the exhibitions guides and photos, the ExCeL guide, exhibitions on What's On, the section-page ordering, spread-out dates, the date fixes, the depth fixes, the site-wide captions, and the new heroes. Cards are back to no date and no New label; guide headers still show the Updated date."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Dates and section pages: publish dates spread out (busiest day 41 guides down to 8, the 8 written today), updatedAt set from each guide's last real edit, and cards and headers now say Updated. Section pages open with an In season strip, then subheadings (e.g. Seasonal and events, Attractions and museums, Walks), most-read first within each, with a New label on guides under 14 days old."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Photos for the five exhibitions guides: 17 of yours placed and checked (ExCeL stations, cable car and concourse; Olympia, Ally Pally, Somerset House and the Business Design Centre; Comic Con cosplay and Main Stage). Left out: Alamy and Getty watermarked stock, an AI-looking image, and shots from other events (MCM Birmingham, a RE/MAX show, a finance conference, another group's concert)."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Exhibitions in the listings: 31 dated shows added to the Events tab (row counts checked before the write), a new Exhibitions & shows category on What's On, and self-updating Coming up lists on the ExCeL guide and, for Olympia, the Kensington guide. Frieze London was already in the Events tab with 15–18 October against 14–18 October from the Royal Parks: worth a check."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Exhibitions and conventions: a 12-month calendar of 42 public shows (Frieze, New Scientist Live, AnimeCon, Knit + Stitch, the Horse Show, Grand Designs Live and more), an ExCeL venue guide (stations by hall, parking, bags, food, hotels via Hotels.com), and pages for MCM Comic Con, the Ideal Home Show and Hyper Japan. EGX is now part of MCM; the London Boat Show no longer runs."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Depth check cleared: every ranked entry on the site is now 50 words or more and names what to order. Bar Levan filled out from its own site (wines, small plates, hours, walk-ins); Scott's names its oysters, lobster and Dover sole."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Dates health check cleared: 13 lapsed claims fixed from the operators (LUMINISCENCE extended to 30 January, the Pagoda season over, Kew Orangery closures updated, the film festival and Premier League sale wording), and 20 claims due to lapse in October confirmed and given review dates. The walks tag came off the autumn leaves guide; the handbook is back up to date. New heroes from your photos on the dog-friendly hotels, family hotels and Wembley stay guides."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Photo captions cut to a few words across the site (about 1,560), with the useful facts they held moved into the text, and captions now sit tight under their photo, smaller and muted. The walks tag came off the autumn leaves guide."
-    },
-    {
-      "date": "2026-09-27",
-      "what": "Dog-friendly hotels guide: 21 hotels with fees, weight limits and where dogs can go, with your photos and a dog-on-a-bed hero. Christmas markets and ice skating guides for 2026, with your photos. New hero on the family hotels guide."
-    },
-    {
-      "date": "2026-09-26",
-      "what": "Thames river cruises guide with GetYourGuide widgets. Four new walks (Christmas lights, Bankside and Borough, Harry Potter locations, Soho and Chinatown) with photos, and every walk now links to all the others near the top. Burgers guide photos. Bonfire Night and October brought up to date."
-    },
-    {
-      "date": "2026-09-26",
-      "what": "The build now fails if a stay, food or day-trip guide is missing from its hub, or a stay guide and its area guide don't link both ways. The /stay/ table links each area's hotel guide. Restored 35 restaurants another session's Sheet write had deleted."
-    },
-    {
-      "date": "2026-09-25",
-      "what": "Stay guides for Canary Wharf, Paddington, and Chelsea and Knightsbridge, and room photos across 12 stay guides. Tag pages only for tags with three or more guides. Numbers that disagreed between pages fixed across 42 files. Premier League guide 27% shorter."
-    },
-    {
-      "date": "2026-09-24",
-      "what": "Nine stay guides: Mayfair, Marylebone, South Bank, near Wembley, near The O2, City of London, Westminster and Victoria, Notting Hill and Bayswater, Kensington and Earl's Court. Twickenham guide a third shorter."
-    },
-    {
-      "date": "2026-09-23",
-      "what": "What's On redesign with a Tomorrow filter; Skiddle affiliate switched on; London Box Office links; London music festivals 2027; a site review fixing counts, contradictions and lapsed dates across 69 pages; privacy page with an analytics opt-out; NFL guide halved."
     }
   ],
   "postTypes": [
