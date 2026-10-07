@@ -1,13 +1,21 @@
 {
- "checked": "2026-09-29T16:03:41.612Z",
+ "checked": "2026-10-07T14:00:55.427Z",
  "pages": {
   "amsterdam-from-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T01:14:01Z"
   },
   "aparthotels-london": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-09-24T21:32:06Z"
+  },
+  "award-ceremonies-london": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-05T10:13:19Z"
+  },
+  "bafta-red-carpet": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-04T18:01:26Z"
   },
   "bankside-borough-walk": {
    "coverage": "Submitted and indexed",
@@ -18,8 +26,8 @@
    "lastCrawl": "2026-09-23T17:39:02Z"
   },
   "barbican-centre-guide": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T19:29:37Z"
   },
   "bath-day-trip": {
    "coverage": "Submitted and indexed",
@@ -27,27 +35,27 @@
   },
   "battersea-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T08:40:19Z"
+   "lastCrawl": "2026-10-05T01:03:22Z"
   },
   "beatles-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-23T22:39:11Z"
+   "lastCrawl": "2026-10-03T13:09:11Z"
   },
   "belgravia-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-06T18:54:54Z"
+   "lastCrawl": "2026-10-01T06:06:42Z"
   },
   "bermondsey-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T08:48:58Z"
+   "lastCrawl": "2026-10-05T09:42:12Z"
   },
   "best-afternoon-tea-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-28T23:15:23Z"
+   "lastCrawl": "2026-10-06T10:43:13Z"
   },
   "best-areas-to-stay-in-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T07:22:45Z"
+   "lastCrawl": "2026-09-30T00:57:24Z"
   },
   "best-areas-to-visit-london": {
    "coverage": "Submitted and indexed",
@@ -63,19 +71,19 @@
   },
   "best-breakfast-brunch-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-08T07:48:04Z"
+   "lastCrawl": "2026-10-06T22:07:40Z"
   },
   "best-bubble-tea-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:04:31Z"
   },
   "best-budget-hotels-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T00:16:25Z"
+   "lastCrawl": "2026-10-06T10:30:03Z"
   },
   "best-burgers-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-03T14:16:42Z"
+   "lastCrawl": "2026-10-06T10:47:07Z"
   },
   "best-cabaret-london": {
    "coverage": "Submitted and indexed",
@@ -83,7 +91,7 @@
   },
   "best-canal-walks-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-20T16:54:35Z"
+   "lastCrawl": "2026-10-07T01:31:43Z"
   },
   "best-caribbean-restaurants-london": {
    "coverage": "URL is unknown to Google",
@@ -99,27 +107,27 @@
   },
   "best-cocktail-bars-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-21T09:06:32Z"
+   "lastCrawl": "2026-10-06T19:31:45Z"
   },
   "best-coffee-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-27T21:24:11Z"
+   "lastCrawl": "2026-10-03T11:47:32Z"
   },
   "best-comedy-clubs-london": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-08-28T02:59:21Z"
   },
   "best-craft-beer-pubs-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T13:20:26Z"
   },
   "best-dim-sum-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T23:23:59Z"
+   "lastCrawl": "2026-10-07T01:58:29Z"
   },
   "best-family-hotels-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T03:31:18Z"
+   "lastCrawl": "2026-10-05T06:10:21Z"
   },
   "best-filipino-restaurants-london": {
    "coverage": "Submitted and indexed",
@@ -127,7 +135,7 @@
   },
   "best-fish-and-chips-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-28T16:20:14Z"
+   "lastCrawl": "2026-10-06T21:16:12Z"
   },
   "best-french-restaurants-london": {
    "coverage": "Submitted and indexed",
@@ -135,7 +143,7 @@
   },
   "best-fried-chicken-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-29T09:02:12Z"
+   "lastCrawl": "2026-09-30T04:11:01Z"
   },
   "best-galleries-london": {
    "coverage": "Submitted and indexed",
@@ -155,7 +163,7 @@
   },
   "best-hot-chocolate-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-07T22:24:56Z"
+   "lastCrawl": "2026-09-30T07:57:36Z"
   },
   "best-hot-pot-london": {
    "coverage": "Submitted and indexed",
@@ -163,11 +171,11 @@
   },
   "best-ice-cream-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T02:32:57Z"
+   "lastCrawl": "2026-10-07T11:18:04Z"
   },
   "best-indian-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-02T20:37:03Z"
+   "lastCrawl": "2026-10-02T07:46:21Z"
   },
   "best-italian-restaurants-london": {
    "coverage": "Submitted and indexed",
@@ -175,7 +183,7 @@
   },
   "best-japanese-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-25T03:12:42Z"
+   "lastCrawl": "2026-10-06T20:06:18Z"
   },
   "best-korean-restaurants-london": {
    "coverage": "Submitted and indexed",
@@ -187,7 +195,7 @@
   },
   "best-live-music-venues-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T14:10:09Z"
+   "lastCrawl": "2026-09-30T04:00:49Z"
   },
   "best-london-markets": {
    "coverage": "URL is unknown to Google",
@@ -199,11 +207,11 @@
   },
   "best-middle-eastern-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-27T21:31:51Z"
+   "lastCrawl": "2026-10-06T23:44:38Z"
   },
   "best-museums-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-08T04:09:41Z"
+   "lastCrawl": "2026-10-06T07:29:03Z"
   },
   "best-parks-gardens-london": {
    "coverage": "Submitted and indexed",
@@ -215,7 +223,7 @@
   },
   "best-pizza-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-17T04:21:18Z"
+   "lastCrawl": "2026-10-07T02:57:25Z"
   },
   "best-places-autumn-leaves-london": {
    "coverage": "Submitted and indexed",
@@ -227,47 +235,47 @@
   },
   "best-sandwiches-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T13:48:21Z"
+   "lastCrawl": "2026-10-04T14:55:41Z"
   },
   "best-seafood-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T12:58:15Z"
+   "lastCrawl": "2026-10-06T06:06:27Z"
   },
   "best-spanish-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-27T15:01:11Z"
+   "lastCrawl": "2026-10-05T18:38:13Z"
   },
   "best-sri-lankan-restaurants-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-02T05:01:18Z"
   },
   "best-steak-restaurants-london": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-08-27T16:28:32Z"
   },
   "best-street-food-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T19:12:52Z"
   },
   "best-sunday-roast-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T06:25:57Z"
+   "lastCrawl": "2026-10-04T08:21:02Z"
   },
   "best-thai-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-28T00:11:46Z"
+   "lastCrawl": "2026-10-01T18:12:41Z"
   },
   "best-time-to-visit-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-23T07:27:43Z"
+   "lastCrawl": "2026-10-02T18:39:37Z"
   },
   "best-turkish-restaurants-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:43:36Z"
   },
   "best-vegetarian-vegan-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-21T11:35:47Z"
+   "lastCrawl": "2026-10-07T03:38:54Z"
   },
   "best-vietnamese-restaurants-london": {
    "coverage": "URL is unknown to Google",
@@ -282,8 +290,8 @@
    "lastCrawl": "2026-09-26T19:19:30Z"
   },
   "best-west-african-restaurants-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T02:08:30Z"
   },
   "best-wetherspoons-pubs-london": {
    "coverage": "Submitted and indexed",
@@ -291,15 +299,15 @@
   },
   "best-wine-bars-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-27T03:14:01Z"
+   "lastCrawl": "2026-09-30T14:11:45Z"
   },
   "bloomsbury-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T12:46:22Z"
+   "lastCrawl": "2026-10-07T11:41:18Z"
   },
   "bonfire-night-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-23T13:30:10Z"
+   "lastCrawl": "2026-10-05T12:56:46Z"
   },
   "bottomless-brunch-london": {
    "coverage": "Submitted and indexed",
@@ -310,16 +318,20 @@
    "lastCrawl": "2026-09-24T01:33:57Z"
   },
   "brighton-seven-sisters-day-trip": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T01:11:33Z"
+  },
+  "british-museum-guide": {
    "coverage": "URL is unknown to Google",
    "lastCrawl": null
   },
   "bruges-day-trip": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:29:12Z"
   },
   "brussels-day-trip": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T01:11:32Z"
   },
   "cambridge-day-trip": {
    "coverage": "Submitted and indexed",
@@ -335,11 +347,11 @@
   },
   "canary-wharf-greenwich-walk": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-25T01:14:00Z"
+   "lastCrawl": "2026-10-06T23:13:14Z"
   },
   "canterbury-dover-day-trip": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:39:17Z"
   },
   "car-hire-driving-uk": {
    "coverage": "Submitted and indexed",
@@ -351,7 +363,7 @@
   },
   "cheap-eats-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T05:51:35Z"
+   "lastCrawl": "2026-10-06T01:58:59Z"
   },
   "chelsea-area-guide": {
    "coverage": "Submitted and indexed",
@@ -359,15 +371,19 @@
   },
   "chelsea-belgravia-plaques-walk": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-25T01:09:25Z"
+   "lastCrawl": "2026-10-06T20:56:30Z"
+  },
+  "chessington-world-of-adventures-day-trip": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-04T17:51:00Z"
   },
   "christmas-day-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-12T12:34:33Z"
+   "lastCrawl": "2026-10-07T00:52:18Z"
   },
   "christmas-in-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-30T00:17:31Z"
+   "lastCrawl": "2026-10-07T11:04:36Z"
   },
   "christmas-lights-walk-london": {
    "coverage": "Submitted and indexed",
@@ -383,7 +399,7 @@
   },
   "churchill-war-rooms-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-23T20:27:52Z"
+   "lastCrawl": "2026-10-03T03:03:44Z"
   },
   "cinema-deals-london": {
    "coverage": "Submitted and indexed",
@@ -391,7 +407,7 @@
   },
   "city-of-london-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T18:59:10Z"
+   "lastCrawl": "2026-10-05T01:57:54Z"
   },
   "city-of-london-walk": {
    "coverage": "Submitted and indexed",
@@ -415,7 +431,7 @@
   },
   "covent-garden-walk": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T12:59:06Z"
+   "lastCrawl": "2026-10-06T18:35:08Z"
   },
   "cycling-bike-hire-scooters-london": {
    "coverage": "Submitted and indexed",
@@ -423,15 +439,19 @@
   },
   "day-rooms-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-29T00:16:25Z"
+   "lastCrawl": "2026-10-06T04:07:58Z"
   },
   "day-trips-from-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T19:13:30Z"
+   "lastCrawl": "2026-10-06T20:13:23Z"
   },
   "dinner-and-a-show-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T17:45:21Z"
+  },
+  "disneyland-paris-from-london": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-05T14:48:10Z"
   },
   "dog-friendly-hotels-london": {
    "coverage": "Submitted and indexed",
@@ -442,28 +462,32 @@
    "lastCrawl": "2026-09-07T23:44:52Z"
   },
   "eat-outside-london": {
-   "coverage": "Discovered - currently not indexed",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:29:56Z"
   },
   "edinburgh-day-trip": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-01T13:51:04Z"
   },
   "excel-london-guide": {
-   "coverage": "Discovered - currently not indexed",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T02:03:44Z"
   },
   "exhibitions-conventions-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T23:17:33Z"
+  },
+  "film-premieres-london": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-04T18:09:20Z"
   },
   "fitzrovia-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T12:16:08Z"
+   "lastCrawl": "2026-10-05T02:07:16Z"
   },
   "fitzrovia-mayfair-walk": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T20:37:42Z"
+   "lastCrawl": "2026-10-06T23:08:02Z"
   },
   "five-days-in-london-itinerary": {
    "coverage": "Submitted and indexed",
@@ -479,11 +503,11 @@
   },
   "getting-around-london-transport-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-02T05:49:50Z"
+   "lastCrawl": "2026-09-30T21:49:43Z"
   },
   "greenwich-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T09:00:23Z"
+   "lastCrawl": "2026-10-05T01:11:45Z"
   },
   "hackney-area-guide": {
    "coverage": "Submitted and indexed",
@@ -491,7 +515,7 @@
   },
   "halloween-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-19T04:15:31Z"
+   "lastCrawl": "2026-10-04T10:22:03Z"
   },
   "hampstead-area-guide": {
    "coverage": "Submitted and indexed",
@@ -502,8 +526,8 @@
    "lastCrawl": "2026-09-20T19:31:18Z"
   },
   "hampton-court-palace-guide": {
-   "coverage": "Discovered - currently not indexed",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:22:42Z"
   },
   "harry-potter-filming-locations-walk": {
    "coverage": "Submitted and indexed",
@@ -515,10 +539,10 @@
   },
   "harry-potter-studio-tour": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T19:13:50Z"
+   "lastCrawl": "2026-09-29T20:51:30Z"
   },
   "healthcare-for-visitors-london": {
-   "coverage": "URL is unknown to Google",
+   "coverage": "Discovered - currently not indexed",
    "lastCrawl": null
   },
   "heathrow-airport-to-london": {
@@ -526,12 +550,12 @@
    "lastCrawl": "2026-08-02T06:12:43Z"
   },
   "hen-do-london": {
-   "coverage": "Discovered - currently not indexed",
+   "coverage": "URL is unknown to Google",
    "lastCrawl": null
   },
   "hidden-london-secret-places": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T13:58:45Z"
+   "lastCrawl": "2026-10-04T07:38:54Z"
   },
   "historic-houses-london": {
    "coverage": "Submitted and indexed",
@@ -551,31 +575,31 @@
   },
   "how-to-use-london-river-boats": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T09:47:53Z"
+   "lastCrawl": "2026-10-06T11:52:26Z"
   },
   "how-to-use-the-london-underground": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-02T05:53:00Z"
+   "lastCrawl": "2026-09-30T22:03:29Z"
   },
   "hyde-park-winter-wonderland": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-09-12T09:12:42Z"
   },
   "hyper-japan-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T06:57:57Z"
   },
   "ice-skating-london": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-09-28T07:35:14Z"
   },
   "ideal-home-show-london": {
-   "coverage": "Discovered - currently not indexed",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:05:42Z"
   },
   "immersive-experiences-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-28T23:51:52Z"
+   "lastCrawl": "2026-10-06T23:29:08Z"
   },
   "is-london-safe": {
    "coverage": "URL is unknown to Google",
@@ -599,19 +623,27 @@
   },
   "kings-cross-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T15:58:44Z"
+   "lastCrawl": "2026-10-05T08:03:33Z"
   },
   "kings-cross-camden-canal-walk": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-09-20T22:18:47Z"
   },
+  "last-night-of-the-proms-tickets": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-04T18:08:42Z"
+  },
   "late-night-eating-london": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-08-27T20:22:07Z"
   },
+  "legoland-windsor-day-trip": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-04T17:54:39Z"
+  },
   "london-blue-plaques": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-27T16:55:27Z"
+   "lastCrawl": "2026-10-07T09:02:05Z"
   },
   "london-city-airport-to-london": {
    "coverage": "Submitted and indexed",
@@ -623,7 +655,7 @@
   },
   "london-film-festival": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-10T16:47:39Z"
+   "lastCrawl": "2026-10-06T20:07:32Z"
   },
   "london-filming-locations": {
    "coverage": "Submitted and indexed",
@@ -635,19 +667,19 @@
   },
   "london-itineraries-by-days-and-interests": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-03T03:51:18Z"
+   "lastCrawl": "2026-10-02T07:28:21Z"
   },
   "london-jazz-festival": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T18:41:07Z"
+   "lastCrawl": "2026-10-06T07:05:45Z"
   },
   "london-marathon-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T18:05:24Z"
+   "lastCrawl": "2026-10-06T18:41:03Z"
   },
   "london-music-festivals-2027": {
-   "coverage": "Discovered - currently not indexed",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T18:07:03Z"
   },
   "london-on-a-budget": {
    "coverage": "Submitted and indexed",
@@ -663,10 +695,10 @@
   },
   "london-public-transport-costs-and-fares": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T14:46:01Z"
+   "lastCrawl": "2026-10-07T03:32:36Z"
   },
   "london-stadium-travel-guide": {
-   "coverage": "URL is unknown to Google",
+   "coverage": "Discovered - currently not indexed",
    "lastCrawl": null
   },
   "london-street-art": {
@@ -675,11 +707,11 @@
   },
   "london-theatre-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-03T13:16:16Z"
+   "lastCrawl": "2026-10-04T03:09:27Z"
   },
   "london-tour-buses-compared": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-01T19:12:57Z"
+   "lastCrawl": "2026-10-04T18:44:41Z"
   },
   "london-tube-and-rail-lines-guide": {
    "coverage": "Submitted and indexed",
@@ -687,7 +719,7 @@
   },
   "london-walks-along-the-thames": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-29T02:34:50Z"
+   "lastCrawl": "2026-10-06T21:20:08Z"
   },
   "london-with-children": {
    "coverage": "Submitted and indexed",
@@ -695,7 +727,7 @@
   },
   "luggage-storage-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T15:36:13Z"
+   "lastCrawl": "2026-10-04T12:59:13Z"
   },
   "luton-airport-to-london": {
    "coverage": "Submitted and indexed",
@@ -707,11 +739,11 @@
   },
   "mayfair-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T19:20:07Z"
+   "lastCrawl": "2026-10-01T05:12:26Z"
   },
   "mcm-comic-con-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:29:56Z"
   },
   "money-in-london": {
    "coverage": "Submitted and indexed",
@@ -723,35 +755,43 @@
   },
   "most-instagrammable-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-25T02:00:07Z"
+   "lastCrawl": "2026-10-06T15:48:24Z"
   },
   "national-rail-2for1-london-attractions": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-29T15:34:27Z"
+   "lastCrawl": "2026-10-05T02:12:33Z"
+  },
+  "national-television-awards-tickets": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-04T16:45:12Z"
   },
   "new-years-eve-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-26T18:50:44Z"
+   "lastCrawl": "2026-10-01T23:38:11Z"
   },
   "nfl-london-games": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T13:13:29Z"
+   "lastCrawl": "2026-10-03T14:35:19Z"
   },
   "notting-hill-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T19:16:06Z"
+   "lastCrawl": "2026-10-06T10:22:10Z"
   },
   "notting-hill-colourful-houses": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-06T19:16:13Z"
+   "lastCrawl": "2026-10-02T22:08:15Z"
   },
   "off-peak-restaurant-apps-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-25T01:33:25Z"
+   "lastCrawl": "2026-10-07T02:35:25Z"
+  },
+  "olivier-awards-tickets": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-06T16:58:24Z"
   },
   "one-day-london-itineraries-by-interest": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-02T11:17:07Z"
+   "lastCrawl": "2026-10-01T08:46:40Z"
   },
   "oxford-day-trip": {
    "coverage": "Submitted and indexed",
@@ -759,7 +799,7 @@
   },
   "oyster-card-guide-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-02T05:13:07Z"
+   "lastCrawl": "2026-10-06T22:18:04Z"
   },
   "paddington-area-guide": {
    "coverage": "Submitted and indexed",
@@ -769,17 +809,25 @@
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-09-21T10:47:45Z"
   },
+  "paultons-park-day-trip": {
+   "coverage": "Discovered - currently not indexed",
+   "lastCrawl": null
+  },
   "peckham-area-guide": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-09-26T19:13:17Z"
   },
   "pod-hotels-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-07T05:35:15Z"
+   "lastCrawl": "2026-10-06T15:12:51Z"
   },
   "premier-league-tickets-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T23:30:11Z"
+   "lastCrawl": "2026-10-05T16:27:22Z"
+  },
+  "private-members-clubs-london": {
+   "coverage": "URL is unknown to Google",
+   "lastCrawl": null
   },
   "public-toilets-london": {
    "coverage": "Submitted and indexed",
@@ -787,7 +835,7 @@
   },
   "regents-park-marylebone-walk": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T18:03:23Z"
+   "lastCrawl": "2026-10-06T10:41:48Z"
   },
   "restaurant-deals-london": {
    "coverage": "Submitted and indexed",
@@ -815,7 +863,7 @@
   },
   "shoreditch-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-22T13:47:12Z"
+   "lastCrawl": "2026-10-07T08:13:05Z"
   },
   "shoreditch-spitalfields-walk": {
    "coverage": "Submitted and indexed",
@@ -839,15 +887,15 @@
   },
   "south-bank-walk": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T21:08:51Z"
+   "lastCrawl": "2026-10-06T22:00:37Z"
   },
   "south-kensington-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-23T07:48:56Z"
+   "lastCrawl": "2026-10-06T02:04:23Z"
   },
   "southend-airport-to-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-08-02T08:47:42Z"
+   "lastCrawl": "2026-10-06T01:58:51Z"
   },
   "special-occasion-restaurants-london": {
    "coverage": "Submitted and indexed",
@@ -863,10 +911,10 @@
   },
   "step-free-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-23T11:01:42Z"
+   "lastCrawl": "2026-10-05T07:25:34Z"
   },
   "stonehenge-day-trip": {
-   "coverage": "Discovered - currently not indexed",
+   "coverage": "URL is unknown to Google",
    "lastCrawl": null
   },
   "stratford-area-guide": {
@@ -878,20 +926,32 @@
    "lastCrawl": "2026-09-24T04:44:44Z"
   },
   "thames-river-cruises-london": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T01:55:36Z"
   },
   "the-o2-travel-guide": {
    "coverage": "Discovered - currently not indexed",
    "lastCrawl": null
   },
+  "theme-parks-near-london": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-05T16:30:57Z"
+  },
+  "things-to-do-in-london-in-november": {
+   "coverage": "URL is unknown to Google",
+   "lastCrawl": null
+  },
   "things-to-do-in-london-in-october": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-23T10:40:31Z"
+   "lastCrawl": "2026-10-06T04:57:13Z"
   },
   "things-to-do-in-london-in-september": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-10T13:13:58Z"
+   "lastCrawl": "2026-10-07T06:30:56Z"
+  },
+  "thorpe-park-day-trip": {
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-04T22:23:31Z"
   },
   "three-days-in-london-itinerary": {
    "coverage": "Submitted and indexed",
@@ -899,11 +959,11 @@
   },
   "tottenham-hotspur-stadium-travel-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T16:19:31Z"
+   "lastCrawl": "2026-10-04T08:00:45Z"
   },
   "tower-of-london-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-25T22:54:43Z"
+   "lastCrawl": "2026-10-06T16:48:43Z"
   },
   "travel-sim-esim-guide": {
    "coverage": "Submitted and indexed",
@@ -911,15 +971,15 @@
   },
   "twickenham-stadium-travel-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T13:55:52Z"
+   "lastCrawl": "2026-10-04T06:13:41Z"
   },
   "uk-eta-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-12T16:07:50Z"
+   "lastCrawl": "2026-10-07T06:09:32Z"
   },
   "unusual-restaurants-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-28T18:17:29Z"
+   "lastCrawl": "2026-10-06T19:41:08Z"
   },
   "wapping-area-guide": {
    "coverage": "Submitted and indexed",
@@ -939,10 +999,10 @@
   },
   "westminster-area-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-17T23:31:35Z"
+   "lastCrawl": "2026-09-30T02:00:49Z"
   },
   "westminster-walk": {
-   "coverage": "URL is unknown to Google",
+   "coverage": "Discovered - currently not indexed",
    "lastCrawl": null
   },
   "where-to-stay-bermondsey": {
@@ -951,15 +1011,15 @@
   },
   "where-to-stay-bloomsbury": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-22T04:57:34Z"
+   "lastCrawl": "2026-10-06T10:44:36Z"
   },
   "where-to-stay-canary-wharf": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T17:39:26Z"
   },
   "where-to-stay-chelsea": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T16:00:23Z"
   },
   "where-to-stay-city-of-london": {
    "coverage": "Submitted and indexed",
@@ -967,15 +1027,15 @@
   },
   "where-to-stay-covent-garden": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-25T01:09:20Z"
+   "lastCrawl": "2026-10-06T18:55:58Z"
   },
   "where-to-stay-greenwich": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T04:31:27Z"
   },
   "where-to-stay-kensington": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-30T23:12:31Z"
   },
   "where-to-stay-kings-cross": {
    "coverage": "Submitted and indexed",
@@ -990,12 +1050,12 @@
    "lastCrawl": "2026-09-29T02:16:41Z"
   },
   "where-to-stay-near-excel": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-10-01T03:31:23Z"
   },
   "where-to-stay-near-the-o2": {
-   "coverage": "URL is unknown to Google",
-   "lastCrawl": null
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T22:10:01Z"
   },
   "where-to-stay-near-wembley-stadium": {
    "coverage": "Submitted and indexed",
@@ -1011,18 +1071,18 @@
   },
   "where-to-stay-shoreditch": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-07T19:40:37Z"
+   "lastCrawl": "2026-10-02T07:37:23Z"
   },
   "where-to-stay-soho-west-end": {
    "coverage": "Submitted and indexed",
    "lastCrawl": "2026-09-26T12:19:23Z"
   },
   "where-to-stay-south-bank": {
-   "coverage": "Crawled - currently not indexed",
-   "lastCrawl": "2026-09-29T09:21:02Z"
+   "coverage": "Submitted and indexed",
+   "lastCrawl": "2026-09-29T20:52:51Z"
   },
   "where-to-stay-south-kensington": {
-   "coverage": "Discovered - currently not indexed",
+   "coverage": "URL is unknown to Google",
    "lastCrawl": null
   },
   "where-to-stay-westminster": {
@@ -1031,11 +1091,11 @@
   },
   "wimbledon-tickets-guide": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-28T15:56:50Z"
+   "lastCrawl": "2026-10-06T23:53:45Z"
   },
   "windowless-hotel-rooms-london": {
    "coverage": "Submitted and indexed",
-   "lastCrawl": "2026-09-24T18:53:57Z"
+   "lastCrawl": "2026-10-06T18:28:22Z"
   },
   "windsor-day-trip": {
    "coverage": "Submitted and indexed",

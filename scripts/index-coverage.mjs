@@ -20,10 +20,13 @@ const slugs = fs.readdirSync(dir).filter((f) => f.endsWith(".md")).filter((f) =>
 }).map((f) => f.replace(/\.md$/, ""));
 
 const out = {};
+let n = 0;
 for (const slug of slugs) {
   const inspectionUrl = `https://www.londontravelgeek.co.uk/articles/${slug}/`;
+  if (++n % 25 === 0) console.log(`${n}/${slugs.length}`);
   try {
-    const r = (await sc.urlInspection.index.inspect({ requestBody: { inspectionUrl, siteUrl: "sc-domain:londontravelgeek.co.uk" } })).data.inspectionResult?.indexStatusResult ?? {};
+    // One request once hung for half an hour; give each a 30-second limit.
+    const r = (await sc.urlInspection.index.inspect({ requestBody: { inspectionUrl, siteUrl: "sc-domain:londontravelgeek.co.uk" } }, { timeout: 30000 })).data.inspectionResult?.indexStatusResult ?? {};
     out[slug] = { coverage: r.coverageState, lastCrawl: r.lastCrawlTime ?? null };
   } catch (e) {
     out[slug] = { error: String(e.message).slice(0, 100) };
