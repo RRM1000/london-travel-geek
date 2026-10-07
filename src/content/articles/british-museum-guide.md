@@ -257,4 +257,4 @@ The British Museum sits in Bloomsbury, so the garden squares, Lamb's Conduit Str
 
 ---
 
-*Opening hours, closures, Bayeux Tapestry ticket dates and prices are the British Museum's own, as published on britishmuseum.org on 7 October 2026.*
+*Opening hours, closures, Bayeux Tapestry ticket dates and prices are the British Museum's own, checked 7 October 2026.*
