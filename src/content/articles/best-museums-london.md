@@ -69,6 +69,8 @@ Eight million objects, of which perhaps one percent is on display, and it is **i
 
 **Use the Montague Place entrance at the back.** The main Great Russell Street entrance queues around the forecourt from mid-morning; the north entrance is usually straight in, and puts you nearer the quieter upper galleries.
 
+Our [British Museum guide](/articles/british-museum-guide/) has the Bayeux Tapestry ticket dates, the rooms for each headline object and the step-free routes.
+
 ### Natural History Museum, South Kensington
 
 *Free · the UK's most visited attraction*

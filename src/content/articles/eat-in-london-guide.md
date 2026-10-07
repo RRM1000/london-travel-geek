@@ -172,7 +172,7 @@ Start with the neighbourhood guide for wherever you are staying:
 - [**Soho**](/articles/soho-area-guide/) — Chinatown, Kingly Court and the densest run of restaurants in the West End.
 - [**Westminster**](/articles/westminster-area-guide/) — Landmark sightseeing, with the better food a short walk north.
 - [**South Bank**](/articles/south-bank-area-guide/) — Borough Market, Southbank street food and riverside dining.
-- [**Bloomsbury**](/articles/bloomsbury-area-guide/) — Independent cafes on Lamb's Conduit Street and around the British Museum.
+- [**Bloomsbury**](/articles/bloomsbury-area-guide/) — Independent cafes on Lamb's Conduit Street and around the [British Museum](/articles/british-museum-guide/).
 - [**King's Cross**](/articles/kings-cross-area-guide/) — Coal Drops Yard restaurants and station dining.
 - [**South Kensington**](/articles/south-kensington-area-guide/) — Museum lunches and the French bakeries on Bute Street.
 - [**Chelsea**](/articles/chelsea-area-guide/) — Duke of York Square market and King's Road dining.

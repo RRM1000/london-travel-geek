@@ -229,7 +229,7 @@ Two things that will not change: central stations near the river get closed at s
 
 New Year's Day 2027 falls on a **Friday**, a bank holiday running straight into a full weekend — a three-day break for most people, and the calmest stretch central London gets all year.
 
-Two of the big free museums are open on 1 January: the **British Museum** and the **Natural History Museum** both close only on 24, 25 and 26 December. The **National Gallery** is closed, so do not build a day around it. Our guide to the [best museums in London](/articles/best-museums-london/) covers what is worth the trip.
+Two of the big free museums are open on 1 January: the **[British Museum](/articles/british-museum-guide/)** and the **Natural History Museum** both close only on 24, 25 and 26 December. The **National Gallery** is closed, so do not build a day around it. Our guide to the [best museums in London](/articles/best-museums-london/) covers what is worth the trip.
 
 A New Year's Day walk along the river is the classic, and the South Bank is unusually quiet before the parade crowds build — our [Thames walks guide](/articles/london-walks-along-the-thames/) has routes. The January sales are running by then, though the serious discounting starts on Boxing Day; see [shopping in London](/articles/shopping-in-london/). [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) runs until 3 January.
 

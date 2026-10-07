@@ -90,7 +90,7 @@ Far less needs booking than the internet suggests. Every national museum is free
 
 **For restaurants, set a reminder for the day bookings open.** The top kitchens release tables on a set date, and [Normah's](/articles/best-fried-chicken-london/) in Queensway Market releases its bookings in monthly batches. Some of the most-recommended places take no bookings at all, among them [José](/articles/best-spanish-restaurants-london/) in Bermondsey and [Sweetings](/articles/best-seafood-restaurants-london/) in the City, so plan a queue rather than a reservation. Our [special occasion restaurants](/articles/special-occasion-restaurants-london/) and [afternoon tea](/articles/best-afternoon-tea-london/) guides give each one's booking window.
 
-**Almost everything else is free and needs no booking** — the British Museum, National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum and British Library all charge nothing to walk in.
+**Almost everything else is free and needs no booking** — the [British Museum](/articles/british-museum-guide/), National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum and British Library all charge nothing to walk in.
 
 ---
 

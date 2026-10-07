@@ -75,7 +75,7 @@ South Kensington has its own share of the commemorative plaques marking where no
 
 **Come here if** you have children, or a rainy day, or any interest in science, design or natural history. The value is extraordinary: three world-class collections at no cost, and a Victorian subway from the station that takes most of the walk underground.
 
-**Skip it if** you are short on time and not a museum person. There is little else here — the streets are handsome but residential, and the area is quiet by evening. If you want one museum and then something else, the British Museum in Bloomsbury sits closer to the rest of central London.
+**Skip it if** you are short on time and not a museum person. There is little else here — the streets are handsome but residential, and the area is quiet by evening. If you want one museum and then something else, the [British Museum](/articles/british-museum-guide/) in Bloomsbury sits closer to the rest of central London.
 
 ## Top sights and activities
 

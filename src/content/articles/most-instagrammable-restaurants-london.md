@@ -175,7 +175,7 @@ A covered terrace at The Bloomsbury Hotel whose floral installation is **changed
 
 **It is an all-day room, not a dinner one.** Breakfast, then **afternoon tea**, then a short brasserie menu — and afternoon tea is what it is really for, taken under the flowers with the terrace heated and covered.
 
-**Two minutes from Tottenham Court Road and about five from the British Museum**, so it works as the sit-down after a museum day, not a trip of its own.
+**Two minutes from Tottenham Court Road and about five from the [British Museum](/articles/british-museum-guide/)**, so it works as the sit-down after a museum day, not a trip of its own.
 
 **A few days' notice is usually enough**, which makes it much the easiest booking here. 16–22 Great Russell Street, WC1B 3NN.
 

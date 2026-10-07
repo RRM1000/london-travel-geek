@@ -125,7 +125,7 @@ London's first hotel entirely below ground, carved out of a disused car park und
 
 *A Cocoon room at Zedwell Tottenham Court Road, and its ensuite bathroom.*
 
-Two minutes from the British Museum, and on the Elizabeth, Northern and Central lines, so it is the easiest arrival from Heathrow of the five. Because it is underground the windowless format is a fact of the building, not a design choice, and the soundproofing has nothing to fight: no street noise reaches it.
+Two minutes from the [British Museum](/articles/british-museum-guide/), and on the Elizabeth, Northern and Central lines, so it is the easiest arrival from Heathrow of the five. Because it is underground the windowless format is a fact of the building, not a design choice, and the soundproofing has nothing to fight: no street noise reaches it.
 
 **The one real limit is size.** Rooms stop at Cocoon 4, so a group of six or more has to go back to Piccadilly Circus. Early check-in is West End money here — £60 from 9am, £40 from noon.
 

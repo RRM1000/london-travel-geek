@@ -41,7 +41,7 @@ This is a guide to those places: which parts of London are good to be in when it
 
 ## Free, indoors, wherever you are
 
-Whichever area you end up in, one fact does a lot of the work: **every national museum in London is free**, including on a Tuesday afternoon in a downpour. The British Museum's Great Court, the Natural History Museum, the Science Museum, the V&A, Tate Modern, the National Gallery and National Portrait Gallery on Trafalgar Square, and smaller free ones — the Wellcome Collection, Sir John Soane's Museum, Young V&A — are all indoors and cost nothing at the door. Our [guide to London's best museums](/articles/best-museums-london/) has all of them compared.
+Whichever area you end up in, one fact does a lot of the work: **every national museum in London is free**, including on a Tuesday afternoon in a downpour. The [British Museum](/articles/british-museum-guide/)'s Great Court, the Natural History Museum, the Science Museum, the V&A, Tate Modern, the National Gallery and National Portrait Gallery on Trafalgar Square, and smaller free ones — the Wellcome Collection, Sir John Soane's Museum, Young V&A — are all indoors and cost nothing at the door. Our [guide to London's best museums](/articles/best-museums-london/) has all of them compared.
 
 **South Kensington is the one genuine tunnel-to-door case, and it's worth being precise about it.** A Victorian pedestrian subway runs from inside the Tube station towards the museum quarter, and the Natural History Museum has a gate straight off it — you can walk in without going outside at all. The Science Museum and the V&A are a short stretch above ground from the same subway, not a second dry corridor, so budget for a damp minute.
 

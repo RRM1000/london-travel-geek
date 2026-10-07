@@ -182,7 +182,7 @@ If you have not settled on an area at all, our guide to the [best areas to stay 
 
 ### Bloomsbury — ten minutes south on foot, and cheaper on every tier
 
-The single best answer here. Bloomsbury starts about ten minutes' walk south of the stations and is the calmest run of streets in Zone 1 — garden squares, the British Museum, university buildings — while still being close enough to walk to a Eurostar with a case.
+The single best answer here. Bloomsbury starts about ten minutes' walk south of the stations and is the calmest run of streets in Zone 1 — garden squares, the [British Museum](/articles/british-museum-guide/), university buildings — while still being close enough to walk to a Eurostar with a case.
 
 **[Generator London](hotel:generator-london)** is about **£26 a bed** at 37 Tavistock Place, in a former police building, with dorms of four to ten, female-only dorms, private rooms and a 24-hour reception. **It is a party hostel and says so**, with a bar built into a bus: the right choice if you want to meet people, and the wrong one the night before a 06:00 train.
 

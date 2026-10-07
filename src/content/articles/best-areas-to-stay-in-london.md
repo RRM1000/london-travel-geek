@@ -62,7 +62,7 @@ You want to be able to walk home. On a first trip you will overestimate how much
 
 *About £130–£180 · Zone 1 · Covent Garden and Leicester Square · [area guide](/articles/covent-garden-area-guide/)*
 
-Nowhere else puts you inside a fifteen-minute walk of the theatres, the river, Soho, Trafalgar Square and the British Museum at once. **Most evenings here you do not need a train at all** — you walk back from whatever you have booked. Covent Garden station is on the Piccadilly line and Leicester Square, a few minutes away on foot, adds the Northern.
+Nowhere else puts you inside a fifteen-minute walk of the theatres, the river, Soho, Trafalgar Square and the [British Museum](/articles/british-museum-guide/) at once. **Most evenings here you do not need a train at all** — you walk back from whatever you have booked. Covent Garden station is on the Piccadilly line and Leicester Square, a few minutes away on foot, adds the Northern.
 
 The trade is that it is relentless. The Piazza has street performers from mid-morning until late, the surrounding streets carry theatre crowds twice a night, and the area has no quiet hour between about ten in the morning and midnight. It is also short of ordinary shops — you will struggle to buy milk.
 

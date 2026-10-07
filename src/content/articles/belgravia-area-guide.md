@@ -82,7 +82,7 @@ Belgravia has its own share of the commemorative plaques marking where notable p
 
 **Come here if** you like walking and architecture, you want the best blue-plaque route in London in a fifteen-minute loop, or you are staying nearby and want somewhere civilised to eat that is not Victoria station.
 
-**Skip it if** you are on a short trip. Belgravia has no attraction, and on a three-day first visit every hour spent here is an hour not spent at the British Museum. It is a return-trip area, or a detour on the way from Victoria to Sloane Square.
+**Skip it if** you are on a short trip. Belgravia has no attraction, and on a three-day first visit every hour spent here is an hour not spent at the [British Museum](/articles/british-museum-guide/). It is a return-trip area, or a detour on the way from Victoria to Sloane Square.
 
 **A warning about Sundays.** The streets are at their most beautiful and almost every shop is shut. Eccleston Yards keeps some life; Elizabeth Street largely does not.
 

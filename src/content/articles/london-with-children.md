@@ -227,7 +227,7 @@ The famous ones are famous for a reason, but they are not equally good with chil
 
 *Free · daily 10.00–17.00 · Russell Square*
 
-Free, enormous, and the mummies are why most children want to come at all. The trick is to **pick three things and leave** — the museum is built to defeat completeness, and a tired child in Room 62 is nobody's good afternoon. Free family trails are handed out at the information desks, and the Great Court is one of very few places in central London where you can sit down indoors without buying something first. **Entry is free and needs no ticket; it opens daily 10.00 to 17.00 with last entry at 16.45, and Fridays run to 20.30.** Fold-up pushchairs go in the cloakroom free, though bags cost £4 to £6 to leave. Special exhibitions are ticketed separately and are rarely the reason to bring children.
+Free, enormous, and the mummies are why most children want to come at all. The trick is to **pick three things and leave** — the museum is built to defeat completeness, and a tired child in Room 62 is nobody's good afternoon. Free family trails are handed out at the information desks, and the Great Court is one of very few places in central London where you can sit down indoors without buying something first. **Entry is free and needs no ticket; it opens daily 10.00 to 17.00 with last entry at 16.45, and Fridays run to 20.30.** Fold-up pushchairs go in the cloakroom free, though bags cost £4 to £6 to leave. Special exhibitions are ticketed separately and are rarely the reason to bring children. Our [British Museum guide](/articles/british-museum-guide/) has the rooms for the mummies and the other headline objects.
 
 ### Tower Bridge
 

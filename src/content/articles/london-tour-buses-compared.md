@@ -141,7 +141,7 @@ Museums, parks and the smart end of west London. This is the route people underr
 
 ### Green Link — the Bloomsbury spur
 
-A short connector rather than a sightseeing loop, and at **every 45 minutes** it is the one to plan around, not rely on. Worth it almost entirely for the British Museum and the Eurostar terminal.
+A short connector rather than a sightseeing loop, and at **every 45 minutes** it is the one to plan around, not rely on. Worth it almost entirely for the [British Museum](/articles/british-museum-guide/) and the Eurostar terminal.
 
 48. **Woburn (northbound)** — opposite Russell Court
 49. **Euston Station** — Upper Woburn Place at Euston Road
