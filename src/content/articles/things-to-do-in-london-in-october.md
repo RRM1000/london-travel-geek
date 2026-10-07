@@ -183,7 +183,7 @@ Family options land squarely in the week. **Absurd City** opens at Westfield Lon
 
 *Full guide: [Halloween in London](/articles/halloween-london/)*
 
-31 October 2026 falls on a **Saturday**, so scare attractions, club nights, ghost walks and one-off parties run on the night itself, not on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a proper costume this late.
+31 October 2026 falls on a **Saturday**, so scare attractions, club nights, ghost walks and one-off parties run on the night itself, not on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a proper costume this late. In the West End, the horror play **Paranormal Activity** adds a **10.30pm performance** at the Ambassadors that night, from £36 ([book at the box office](https://www.atgtickets.com/shows/paranormal-activity/ambassadors-theatre/calendar/2026-10-31/)).
 
 ## Exhibitions closing in October
 
