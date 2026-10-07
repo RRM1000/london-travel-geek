@@ -294,7 +294,7 @@ Check ages before you buy, because two of the five are narrow: the **Dungeon is 
 
 ### Wundrful World of Christmas, ExCeL
 
-*11 November to 24 December 2026 · adults £29.90–£34.90, children £24.90–£29.90 · ages 3 to 8 · Custom House*
+*13 November to 24 December 2026 · adults £29.90–£34.90, children £24.90–£29.90 · ages 3 to 8 · Custom House*
 
 A timed walk-through to Santa's grotto in Immerse LDN, on ExCeL's waterfront. Children ride a lift to the North Pole, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and then Santa, who gives each of them a small gift. **The walk-through takes about 50 minutes, and the Elves' Playground after it (light installations, gentle fairground rides, food stalls) adds at least 30 more.** Every child needs a ticket, babies included, though under-12-month tickets are free, and pushchairs stay outside the walk-through. Rides and food are paid for on the day, by card only. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
 

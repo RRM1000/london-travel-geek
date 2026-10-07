@@ -18,7 +18,7 @@ tags: [Christmas, walks, free things to do, Oxford Street, Regent Street, Covent
 draft: false
 faq:
   - q: "When are London's Christmas lights switched on in 2026?"
-    a: "Carnaby Street's switch-on is Wednesday 4 November 2026, and Covent Garden's, including Seven Dials, is Thursday 12 November. The Trafalgar Square tree is lit on Thursday 3 December. As of late September 2026, Oxford Street, Regent Street and Bond Street had not announced their dates; in 2025 Oxford Street's lights went on from 3 November and Regent Street's angels from 6 November."
+    a: "Carnaby Street's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November, with the street closed to traffic from 5pm to 9pm, and Covent Garden's, including Seven Dials, is Thursday 12 November. The Trafalgar Square tree is lit on Thursday 3 December. In 2025 Oxford Street's lights went on from 3 November."
   - q: "What is the best walking route to see the Christmas lights in London?"
     a: "Selfridges on Oxford Street to Trafalgar Square: down South Molton Street and the full length of Bond Street, along Piccadilly to St James's Market, up the Regent Street Quadrant under the angels, through Carnaby, across Soho to Seven Dials, then Floral Street and the Covent Garden tree. It is about 5km and 70 minutes of walking; allow two to two and a half hours."
   - q: "What time should I go to see the Christmas lights in London?"
@@ -37,7 +37,7 @@ Most people see London's Christmas lights from a crush at Oxford Circus on a Sat
 
 It is **about 5km, 70 minutes of walking**, and two to two and a half hours with stops. Start at dusk.
 
-> 💡 **The Short Version:** Start at **Selfridges at about 4.30pm** in December (5pm in early November), when it is dark. **Carnaby's switch-on is Wednesday 4 November 2026 and Covent Garden's is Thursday 12 November**. Oxford Street, Regent Street and Bond Street had not announced their 2026 dates by late September; all three light up every year, and Oxford Street and Regent Street were on by 6 November in 2025. **Go Monday to Wednesday, or on Sunday after 6pm** when the big shops have shut. The Trafalgar Square tree is only lit from **Thursday 3 December**; before that, finish at Covent Garden.
+> 💡 **The Short Version:** Start at **Selfridges at about 4.30pm** in December (5pm in early November), when it is dark. **Carnaby's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November and Covent Garden's is Thursday 12 November**. Oxford Street and Bond Street light up every year, and Oxford Street was on from 3 November in 2025. **Go Monday to Wednesday, or on Sunday after 6pm** when the big shops have shut. The Trafalgar Square tree is only lit from **Thursday 3 December**; before that, finish at Covent Garden.
 
 ## The route
 
@@ -64,7 +64,7 @@ It is **about 5km, 70 minutes of walking**, and two to two and a half hours with
 | **2** | South Molton Street | — | Its own blue arches in previous years; the way through to Bond Street |
 | **3** | Bond Street | Not yet announced | Every year, often a new design |
 | **4** | St James's Market | With Regent Street | Every year |
-| **5** | Regent Street, the Quadrant | Not yet announced (6 Nov in 2025) | Every year since 1954 |
+| **5** | Regent Street, the Quadrant | **Thu 5 November**, traffic-free 5pm to 9pm | Confirmed for 2026; every year since 1954 |
 | **6** | Carnaby Street | **Wed 4 November** | Confirmed for 2026 |
 | **7** | Seven Dials | **Thu 12 November** | Confirmed for 2026 |
 | **8** | Floral Street | **Thu 12 November** | Confirmed for 2026 |
@@ -238,7 +238,7 @@ A 4.30pm start at Selfridges in December puts you at Covent Garden at about 6.30
 
 **The case for Sunday evening.** Large shops in England can open for only six hours on a Sunday, and on Oxford Street and Regent Street they close by 6pm. The lights stay on, the shoppers go home and the pavements thin out. Seven Dials Market is open until 9pm and Bar Cicoria until 9.15pm.
 
-**Switch-on nights are the most crowded of the season:** Carnaby on 4 November and Covent Garden on 12 November, and Oxford Street and Regent Street on theirs. Go for the countdown if that is what you want; for the lights, choose another night.
+**Switch-on nights are the most crowded of the season:** Carnaby on 4 November, Regent Street on 5 November and Covent Garden on 12 November, and Oxford Street on its own date. Go for the countdown if that is what you want; for the lights, choose another night.
 
 ## Rather ride?
 

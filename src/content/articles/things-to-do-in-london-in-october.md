@@ -311,7 +311,7 @@ Where a restaurant has not named its opening day, treat the month as a guide, no
 
 ## Looking ahead to November and December
 
-A few things to plan for, even though none of them happen in October.
+A few things to plan for, even though none of them happen in October. The full month is in our [Things to Do in London in November](/articles/things-to-do-in-london-in-november/).
 
 **Bonfire Night** is Thursday **5 November**, but most of the big displays, Alexandra Palace and Battersea Park among them, are on **Saturday 7 November**, and both are on sale now. Every display, which of them need tickets, the free viewpoints and which famous ones no longer run are in our [Bonfire Night guide](/articles/bonfire-night-london/).
 

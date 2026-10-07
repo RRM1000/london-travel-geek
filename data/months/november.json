@@ -1,0 +1,210 @@
+{
+  "month": "november",
+  "monthNumber": 11,
+  "article": "src/content/articles/things-to-do-in-london-in-november.md",
+  "note": "THE SPINE. What is true about November EVERY year: the annual fixtures as date RULES, and the character of the month. Everything true in one year only lives in november-<year>.json. Built on the October spine's shape so scripts/check-month-freshness.mjs reads both the same way.",
+  "rules": "A fixture belongs here only if it recurs annually AND is run by a body with a website. Dates come from the organiser, never a listings site. Every entry carries `official` and `verified`. If a fixture is missed in a year, do not delete it: set `status` and say why. Anything a listings site or a language model will confidently place in November that is actually elsewhere, or in another month, goes in `notInNovember` with the proof.",
+  "character": {
+    "inOneLine": "The month the lights go on: the clocks have already gone back, the evenings are dark by half past four, and the calendar fills with fireworks, civic ceremony, jazz and the first of Christmas.",
+    "weather": "Met Office Heathrow monthly records, 1991 to 2020 averages: a daily high of 11.5C, a daily low of 5.3C, 66.6mm of rain and 68 hours of sunshine for the whole month. At Heathrow it is the wettest month of the year (October is 65.1mm) and has about 2.7 air-frost days.",
+    "daylight": "Sunset in central London (51.5074N, 0.1278W, GMT all month) is 4.35pm on 1 November, 4.28pm on Bonfire Night, 4.14pm on the 14th and 3.57pm on the 30th. Sunrise moves from 6.52am to 7.40am. Daylight shrinks from 9h43 on the 1st to 8h17 on the 30th. Source: api.sunrise-sunset.org for the central London coordinates, UTC equals GMT after the clocks go back.",
+    "crowds": "No school holiday and no bank holiday, so the museums are quieter than in October's half term. The crowds are event-shaped: Saturday 7 November (the big fireworks night), Saturday 14 November (the Lord Mayor's Show and the first week of the jazz festival) and the Winter Wonderland opening from the 19th.",
+    "seasonShape": "Three beats: fireworks and ceremony in the first fortnight (Bonfire Night, Remembrance Sunday, Armistice Day, the Lord Mayor's Show), jazz in the middle (13 to 22 November), and the Christmas machinery switching on from the 5th (Regent Street) through the 19th (Winter Wonderland) and the 28th (the London Museum at Smithfield in 2026)."
+  },
+  "standingSections": {
+    "note": "Slots that recur every year. Source each from the operator, not a listings site.",
+    "theatreOpeningsAndClosings": {
+      "sourceFrom": "The theatre's or producer's own what's-on page; Official London Theatre's coming_soon and last_chance filters for discovery only. A listing's end date can be a booking horizon, not a closing.",
+      "novemberSpecific": "Limited runs from September and October close in the first fortnight; the Christmas shows (Snowman, Pinocchio, panto) open from the 14th."
+    },
+    "newVenueOpenings": {
+      "sourceFrom": "The venue's own site. November 2026 is the London Museum at Smithfield; look for the equivalent every year."
+    },
+    "exhibitionsOpeningAndClosing": {
+      "sourceFrom": "The museum's own what's-on page. The V&A, Tate, NPG, RA, Hayward, Saatchi."
+    },
+    "restaurantsAndBars": {
+      "sourceFrom": "Operator sites only; Hot Dinners' coming-soon list for discovery. Leave out anything the operator has not confirmed."
+    }
+  },
+  "fixtures": [
+    {
+      "id": "bonfire-night",
+      "name": "Bonfire Night and the fireworks",
+      "what": "Guy Fawkes Night, 5 November, marked in London by ticketed displays (Alexandra Palace, Battersea Park, Blackheath and others), one free children's display at Coram's Fields and free viewpoints such as Parliament Hill.",
+      "dateRule": "5 November, fixed, but most displays run on the nearest weekend. In 2026 the 5th is a Thursday, so the big night is Saturday 7 November with a second wave on Sunday 8th.",
+      "typical": "5 November and the nearest Saturday",
+      "area": "London-wide",
+      "price": "Mostly ticketed; Coram's Fields is free, for children and the adults with them",
+      "booking": "Alexandra Palace and Battersea Park sell out; book early.",
+      "official": "https://www.alexandrapalace.com/whats-on/fireworks-drone-festival/",
+      "verified": "2026-10-07",
+      "verifiedNote": "Alexandra Palace: Saturday 7 and Sunday 8 November 2026. Battersea Park: Saturday 7th and Sunday 8th Nov. Coram's Fields: Thursday 5 November 2026.",
+      "internalLink": "/articles/bonfire-night-london/",
+      "editorialRule": "DO NOT DUPLICATE THE BONFIRE NIGHT PAGE. The monthly guide gives the dates, the Thursday-versus-Saturday point and a link."
+    },
+    {
+      "id": "lord-mayors-show",
+      "name": "The Lord Mayor's Show",
+      "what": "The City of London's civic procession: a procession of more than 7,000 people in 2025, setting off from Mansion House, going to the Royal Courts of Justice by St Paul's, Cheapside and Fleet Street, and returning along the Embankment and Queen Victoria Street. Free to watch.",
+      "dateRule": "The second Saturday in November, setting off at 11am. The Silent Ceremony, in which the new Lord Mayor takes office, is the Friday before. The organiser's timetable ends with the Lord Mayor back at Mansion House in the early afternoon.",
+      "typical": "Second Saturday of November, 11am",
+      "area": "City of London, Mansion House to Aldwych",
+      "price": "Free",
+      "booking": "None. Almost the whole City is closed to traffic and every bus route is turned back or diverted.",
+      "official": "https://lordmayorsshow.london/",
+      "verified": "2026-10-07",
+      "verifiedNote": "Organiser's own site: 'The 2026 Show will set off from Mansion House... on Saturday 14 November at 11am'; Silent Ceremony 13 November; the 698th Lord Mayor, Alderman Bronek Masojada. Timetable page: head of procession at the Royal Courts 11.26, return leg from 1.10pm, head back at Mansion House 1.33pm. The organiser says the 2026 procession details are published around the beginning of October and they were not yet up on 7 October.",
+      "editorialRule": "The Thames fireworks that once closed the day are not part of the organiser's timetable, which ends at Mansion House in the afternoon; the Bonfire Night guide records them as abolished by the City of London Corporation. Never imply they run."
+    },
+    {
+      "id": "remembrance-sunday",
+      "name": "Remembrance Sunday and the Cenotaph",
+      "what": "The National Service of Remembrance at the Cenotaph in Whitehall, followed by the Royal British Legion's Cenotaph Parade, a march past of about 10,000 veterans.",
+      "dateRule": "The second Sunday in November (Royal British Legion). 2026: Sunday 8 November.",
+      "typical": "Second Sunday of November",
+      "area": "Whitehall",
+      "price": "Free",
+      "booking": "None for spectators.",
+      "official": "https://www.britishlegion.org.uk/get-involved/events/remembrance-events/remembrance-sunday",
+      "verified": "2026-10-07",
+      "verifiedNote": "Royal British Legion: 'held on Remembrance Sunday, the second Sunday in November'; the parade forms on Horse Guards Parade, marches down Whitehall past the Cenotaph, turns right on Great George Street and right again on Horse Guards Road. The organiser page gives no time of day for the service; do not print one.",
+      "internalLink": "/articles/westminster-walk/"
+    },
+    {
+      "id": "armistice-day",
+      "name": "Armistice Day",
+      "what": "A Two Minute Silence at 11am on 11 November, the anniversary of the 1918 Armistice.",
+      "dateRule": "11 November, fixed. 2026: Wednesday.",
+      "typical": "11 November, 11am",
+      "area": "National",
+      "price": "Free",
+      "booking": "None",
+      "official": "https://www.britishlegion.org.uk/get-involved/remembrance/armistice-day",
+      "verified": "2026-10-07",
+      "verifiedNote": "Royal British Legion: 'we mark Armistice Day around the United Kingdom with a Two Minute Silence at 11am on the 11th day of the 11th month'."
+    },
+    {
+      "id": "veteran-car-run",
+      "name": "RM Sotheby's London to Brighton Veteran Car Run",
+      "what": "A 60-mile run of pre-1905 cars from Hyde Park to Madeira Drive, Brighton, commemorating the 1896 Emancipation Run. Free to watch; paddocks in Hyde Park and Brighton.",
+      "dateRule": "A Sunday at the start of November. 2026: Sunday 1 November. Cars arrive in the Hyde Park paddock from 6am. The Royal Automobile Club's free St James's Motoring Spectacle is on the Pall Mall the day before (Saturday 31 October 2026, 10am to 3pm).",
+      "typical": "First Sunday of November, dawn in Hyde Park",
+      "area": "Hyde Park",
+      "price": "Free to watch",
+      "booking": "None for spectators.",
+      "official": "https://www.veterancarrun.com/spectators",
+      "verified": "2026-10-07",
+      "verifiedNote": "Organiser's own site: 'will take place on Sunday 1 November'; the spectators page: route of 60 miles from Hyde Park to Madeira Drive; 'arrive in the Hyde Park paddock from 6:00am'. The rule 'first Sunday' is a pattern, not an organiser statement."
+    },
+    {
+      "id": "efg-london-jazz-festival",
+      "name": "EFG London Jazz Festival",
+      "what": "Ten days of jazz across dozens of venues, from the Royal Festival Hall to basement clubs.",
+      "dateRule": "Ten days from a Friday in mid-November to the Sunday after. 2026: 13 to 22 November.",
+      "typical": "Friday to Sunday, mid-November",
+      "area": "Venues across London",
+      "price": "Tickets from £5; some concerts free",
+      "booking": "Most shows are sold by the venues, so there is no single on-sale date.",
+      "official": "https://efglondonjazzfestival.org.uk/",
+      "verified": "2026-10-07",
+      "verifiedNote": "Organiser's home page: '13-22 November'; programme counts are in the London Jazz Festival guide.",
+      "internalLink": "/articles/london-jazz-festival/",
+      "editorialRule": "DO NOT DUPLICATE THE JAZZ FESTIVAL PAGE."
+    },
+    {
+      "id": "christmas-lights-switch-ons",
+      "name": "Christmas lights switch-ons",
+      "what": "The West End streets switch on their lights in the first fortnight of November; they stay up into early January.",
+      "dateRule": "The first two weeks of November. 2026 organiser dates: Carnaby Wednesday 4 November; Regent Street Thursday 5 November, with the street closed to traffic 5pm to 9pm; Covent Garden Thursday 12 November.",
+      "typical": "Early to mid November",
+      "area": "Carnaby, Regent Street, Covent Garden, Oxford Street, Bond Street",
+      "price": "Free",
+      "booking": "None",
+      "official": "https://www.regentstreetonline.com/news/festive-spirits-return-for-2026",
+      "verified": "2026-10-07",
+      "verifiedNote": "Regent Street's own news post of 1 October 2026: 'the Regent Street lights are returning from Thursday 5th November', traffic closed 5PM to 9PM. Carnaby's own Christmas page: 'Wednesday 4 November, carnaby street light switch on'. Covent Garden's own site: 'Thursday 12th November'. Oxford Street's and Bond Street's 2026 dates were not published on 7 October.",
+      "internalLink": "/articles/christmas-lights-walk-london/"
+    },
+    {
+      "id": "hyde-park-winter-wonderland",
+      "name": "Hyde Park Winter Wonderland",
+      "what": "Fairground, markets, ice rink and circus in Hyde Park, six weeks.",
+      "dateRule": "Opens on a Thursday in the third week of November. 2026: 19 November 2026 to 3 January 2027.",
+      "typical": "Mid-to-late November to early January",
+      "area": "Hyde Park",
+      "price": "Entry from £1 at off-peak, Monday to Thursday through November, and no booking fees; rides and attractions are charged separately.",
+      "booking": "Timed entry tickets online.",
+      "official": "https://hydeparkwinterwonderland.com/",
+      "verified": "2026-10-07",
+      "verifiedNote": "Organiser: '19th November 2026 - 3rd January 2027'; '£1 during Off-Peak sessions every Monday - Thursday throughout November'.",
+      "internalLink": "/articles/hyde-park-winter-wonderland/"
+    },
+    {
+      "id": "christmas-markets-and-rinks",
+      "name": "Christmas markets and ice rinks",
+      "what": "The rinks open between the first and third weeks of November; the chalet markets from mid-November.",
+      "dateRule": "Rinks: early to late November. 2026 organiser dates: Glide at Battersea Power Station opens Friday 6 November; Somerset House Wednesday 11 November; Winter Wonderland Thursday 19 November. Chelsea Winter Village opens Wednesday 25 November.",
+      "typical": "Rinks from the first week; markets from mid-month",
+      "area": "London-wide",
+      "price": "Rinks ticketed; markets mostly free to walk into",
+      "booking": "Rink tickets on sale well before opening.",
+      "official": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house",
+      "verified": "2026-10-07",
+      "verifiedNote": "Somerset House: 'Dates 11 Nov 2026-10 Jan 2027'; Glide: 'returns from 6 November 2026 to 3 January 2027'; Chelsea Winter Village: 'Wednesday 25 November to Monday 28 December 2026'. The other markets' dates are in the christmas-markets-london and ice-skating-london guides.",
+      "internalLink": "/articles/christmas-markets-london/"
+    },
+    {
+      "id": "twickenham-autumn-internationals",
+      "name": "England rugby at Twickenham, and England football at Wembley",
+      "what": "Autumn internationals.",
+      "dateRule": "The November international windows. 2026: England v Australia, Sunday 8 November 15:10; England v Japan, Saturday 14 November 16:40; England v New Zealand, Saturday 21 November 14:10 (sold out), all at Allianz Stadium, Twickenham; England v Croatia, Thursday 12 November at Wembley.",
+      "typical": "Weekends across the month",
+      "area": "Twickenham; Wembley",
+      "price": "Rugby from £79 (Australia) and £51 (Japan)",
+      "booking": "The organisers sell out the biggest games.",
+      "official": "https://www.englandrugby.com/fixtures-and-results",
+      "verified": "2026-10-07",
+      "verifiedNote": "England Rugby fixtures page and the Wembley Stadium event page (Thursday 12 November 2026, UEFA Nations League)."
+    },
+    {
+      "id": "thanksgiving",
+      "name": "Thanksgiving",
+      "what": "The US holiday, which London restaurants and a few pubs mark with set meals.",
+      "dateRule": "The fourth Thursday of November. 2026: 26 November.",
+      "typical": "Fourth Thursday",
+      "area": "Pubs and restaurants across London",
+      "price": "Set menus",
+      "booking": "Book ahead.",
+      "official": "https://www.red-lion-barnes.co.uk/thanksgiving",
+      "verified": "2026-10-07",
+      "verifiedNote": "The Red Lion, Barnes (a Fuller's pub): Thanksgiving dinner on 26 November 2026, 'for more than 20 years', lunch sitting and two evening sittings."
+    }
+  ],
+  "notInNovember": [
+    {
+      "name": "Diwali on the Square, Trafalgar Square",
+      "theError": "Listings sites and AI summaries put the Mayor's Diwali celebration in November because Diwali is in November in 2026.",
+      "theTruth": "Sunday 25 October 2026, 1pm to 7pm. The festival is held on an October Sunday whatever the date of Diwali.",
+      "diwaliItself": "Diwali falls on Sunday 8 November 2026. The National Maritime Museum's free Diwali day is on Saturday 7 November, 10.30am to 5pm (rmg.co.uk).",
+      "official": "https://www.london.gov.uk/events/diwali-square-2026",
+      "verified": "2026-10-07"
+    },
+    {
+      "name": "The State Opening of Parliament",
+      "theError": "Assumed to be an autumn event.",
+      "theTruth": "The 2026 State Opening and King's Speech took place on Wednesday 13 May 2026. There is no State Opening in November 2026.",
+      "official": "https://www.parliament.uk/business/news/2026/may-2026/state-opening-of-parliament-2026/",
+      "verified": "2026-10-07",
+      "verifiedNote": "parliament.uk's own news page ('will take place on Wednesday 13 May 2026') and the Lords FAQ page. parliament.uk returns 403 to curl; the wording is from the search result snippet for those pages."
+    },
+    {
+      "name": "Lord Mayor's Show Thames fireworks",
+      "theError": "Old guides and some listings still promise fireworks over the Thames at 5pm after the Show.",
+      "theTruth": "The organiser's timetable has no fireworks and the Show is over in the afternoon. Our Bonfire Night guide records the display as abolished by the City of London Corporation.",
+      "official": "https://lordmayorsshow.london/practicalities/timetable/",
+      "verified": "2026-10-07"
+    }
+  ],
+  "recurringButUnverified": []
+}

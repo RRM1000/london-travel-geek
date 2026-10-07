@@ -103,7 +103,7 @@ It is not just clips. It goes from the kitchen table where Peter Lord and David 
 
 **Access performances are already scheduled**, which is rare this far out: **five BSL showings** (29 November, 4, 7, 12 and 22 December) and **five relaxed showings** (6, 8, 15 and 21 December, and 2 January). A £2 transaction fee applies per order. Book on [Lightroom](https://lightroom.uk/whats-on/larger-than-life/) or [Ticketmaster](https://attractions.ticketmaster.co.uk/book/1JAP4-TICKETMASTER/).
 
-### Wundrful World of Christmas, Immerse LDN at ExCeL — 11 November to 24 December 2026
+### Wundrful World of Christmas, Immerse LDN at ExCeL — 13 November to 24 December 2026
 
 *Adults £29.90 off-peak, £34.90 peak; children £24.90 and £29.90 · about 50 minutes, plus the Elves' Playground · ages 3 to 8 · Custom House*
 

@@ -1,0 +1,170 @@
+{
+  "month": "november",
+  "year": 2026,
+  "compiled": "2026-10-07",
+  "researched": "2026-10-07",
+  "status": "RESEARCHED from organiser pages on 7 October 2026. The annual spine is data/months/november.json. Anything the organiser had not published by 7 October is listed under gaps and left out of the article.",
+  "note": "THE OVERLAY. Everything here is true only in 2026. Every entry carries the source it came from.",
+
+  "bayeuxTickets": {
+    "headline": "Every ticket for 10 September to 31 December 2026 is sold out. General booking for 1 January to 31 March 2027 opens on 21 October 2026. April to July 2027 opens 'early 2027'.",
+    "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+    "verified": "2026-10-07",
+    "verifiedNote": "britishmuseum.org blocks curl. The page was read in a browser on 7 October 2026 by the coordinating session, which supplied the facts below. A copy archived on 3 October agrees on the dates, the sold-out window and the prices.",
+    "runs": "10 September 2026 to 11 July 2027, Room 30 (the Sainsbury Exhibitions Gallery)",
+    "hours": "Sunday to Wednesday 10.00 to 18.00; Thursday to Saturday 10.00 to 21.00",
+    "members": "Members' priority booking for October to December and for January to March is fully booked. The final members' window, for April to July 2027, opens in January 2027.",
+    "prices": {
+      "standard": "Adults £33 (£36.50 with the £3.50 donation); students, 16 to 18s and jobseekers £25; under-16s free with an adult, at most four per adult",
+      "offPeak": "Adults £27",
+      "superOffPeak": "Adults £25, term-time weekdays 15.30 to 16.20 only"
+    },
+    "terms": "Maximum 10 tickets per booking. Tickets can only be used by the booker and ID may be checked. A free audio guide is in the British Museum Audio app; bring headphones.",
+    "novemberEvents": [
+      { "title": "Harald Hardrada: the other 'Harold'", "date": "5 November 2026", "price": "£6", "format": "Online lecture", "source": "https://www.britishmuseum.org/events/harald-hardrada-other-harold" },
+      { "title": "The women of the Bayeux Tapestry", "date": "20 November 2026", "price": "£50", "source": "https://www.britishmuseum.org/events/women-bayeux-tapestry" },
+      { "title": "Bayeux Late: reimagining the Bayeux Tapestry", "date": "4 December 2026", "price": "Free", "source": "https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry", "note": "Just after the month ends; kept for the December guide." }
+    ],
+    "museumNote": "The museum itself is open daily 10.00 to 17.00, Friday to 20.30, and the Reading Room is closed on 13 and 20 November 2026 (coordinating session, read 7 October)."
+  },
+
+  "exhibitionsOpening": [
+    {
+      "title": "Winston Taylor Photo Portrait Prize 2026",
+      "venue": "National Portrait Gallery",
+      "opens": "2026-11-05",
+      "runs": "5 November 2026 to 17 January 2027",
+      "price": "£10 off-peak (Monday to Thursday), £12 peak (Friday to Sunday); £11 and £13.20 with donation",
+      "source": "https://www.npg.org.uk/whatson/",
+      "verified": "2026-10-07"
+    },
+    {
+      "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury",
+      "venue": "Tate Britain",
+      "opens": "2026-11-12",
+      "runs": "12 November 2026 to 11 April 2027",
+      "price": "£20, free for Tate Members; £19 concessions; £5 for Tate Collective (16 to 25)",
+      "detail": "More than 300 works and a restaging of the artists' studio, moved from Charleston, their Sussex home.",
+      "source": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+      "verified": "2026-10-07"
+    },
+    {
+      "title": "BEYOND THE STREETS",
+      "venue": "Saatchi Gallery, Chelsea",
+      "opens": "2026-11-11",
+      "runs": "11 November 2026 to 5 May 2027",
+      "price": "Tickets from £15",
+      "detail": "More than ten rooms and over 100 international creators in street culture.",
+      "source": "https://www.saatchigallery.com/exhibition/beyond_the_streets",
+      "verified": "2026-10-07"
+    },
+    {
+      "title": "Peggy Guggenheim in London",
+      "venue": "Royal Academy of Arts",
+      "opens": "2026-11-21",
+      "runs": "21 November 2026 to 14 March 2027",
+      "price": "£17; Friends of the RA go free",
+      "detail": "Revisits Guggenheim Jeune, the gallery she opened on Cork Street in January 1938; it hosted more than 20 exhibitions, including the first UK solo show of Kandinsky.",
+      "source": "https://www.royalacademy.org.uk/exhibition/peggy-guggenheim-in-london",
+      "verified": "2026-10-07"
+    },
+    {
+      "title": "Nan Goldin: You Never Did Anything Wrong",
+      "venue": "Hayward Gallery, Southbank Centre",
+      "opens": "2026-11-24",
+      "runs": "Tuesday 24 November 2026 to Sunday 14 March 2027",
+      "price": "Not read",
+      "detail": "A major solo show; the Hayward also opens Andrius Arutiunian: They Tried to Count Us (24 November to 7 March 2027, listed as free).",
+      "source": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+      "verified": "2026-10-07",
+      "verifiedNote": "southbankcentre.co.uk blocks curl; read from the Internet Archive copy of that page taken on 1 October 2026."
+    },
+    {
+      "title": "London Museum at Smithfield (permanent galleries)",
+      "venue": "General Market, Smithfield, EC1A 9AG",
+      "opens": "2026-11-28",
+      "runs": "Opens 28 November 2026; free to visit",
+      "detail": "Three spaces: Real Time, Our Time, Past Time. Includes the Cheapside Hoard, a six-metre window onto the Thameslink line, the Lord Mayor's Coach and Syd's Coffee Stall. The spotlight exhibition London Tastes, with Ruby Tandoh and Jonathan Nunn, runs November 2026 to August 2027. The 1960s Poultry Market, for temporary exhibitions, opens in 2028.",
+      "source": "https://www.londonmuseum.org.uk/smithfield/about/",
+      "verified": "2026-10-07"
+    }
+  ],
+
+  "exhibitionsClosing": [
+    { "title": "Day", "venue": "Royal Academy of Arts", "closes": "2026-11-08", "runs": "18 September to 8 November 2026", "price": "Free", "source": "https://www.royalacademy.org.uk/exhibitions-and-events", "verified": "2026-10-07" },
+    { "title": "Art Now: Mohammed Z Rahman", "venue": "Tate Britain", "closes": "2026-11-08", "price": "Free", "source": "https://www.tate.org.uk/whats-on/tate-britain", "verified": "2026-10-07" },
+    { "title": "Schiaparelli: Fashion Becomes Art", "venue": "V&A South Kensington", "closes": "2026-11-15", "price": "£28 weekday, £30 weekend", "source": "https://www.vam.ac.uk/exhibitions", "verified": "2026-10-07" },
+    { "title": "Inside Aardman: Wallace & Gromit and Friends", "venue": "Young V&A", "closes": "2026-11-15", "price": "£12.50", "source": "https://www.vam.ac.uk/exhibitions", "verified": "2026-10-07" },
+    { "title": "Declaring Independence: USA 250", "venue": "British Museum", "closes": "2026-11-29", "price": "Free", "source": "https://www.britishmuseum.org/exhibitions-events", "verified": "2026-10-04", "verifiedNote": "Internet Archive copy of the museum's exhibitions page, 4 October 2026." },
+    { "title": "Jenkin van Zyl: Enclosure", "venue": "Somerset House", "closes": "2026-11-29", "runs": "24 September to 29 November 2026", "source": "https://www.somersethouse.org.uk/whats-on", "verified": "2026-10-07" }
+  ],
+
+  "exhibitionsRunning": [
+    "Korea, British Museum, to 31 January 2027 (ticketed)",
+    "Painting the French Riviera, Royal Academy, to 31 January 2027 (ticketed)",
+    "Renoir and Love, National Gallery, to 31 January 2027 (ticketed)",
+    "Frida: The Making of an Icon, Tate Modern, to 3 January 2027",
+    "The 90s: Art and Fashion, Tate Britain, to 14 February 2027",
+    "Tim Walker's Fairyland: Love and Legends, National Portrait Gallery, to 7 February 2027"
+  ],
+
+  "theatreOpening": [
+    { "title": "Julius Caesar", "venue": "Sam Wanamaker Playhouse (Shakespeare's Globe)", "opens": "2026-11-06", "runs": "6 November 2026 to 14 February 2027", "source": "https://www.shakespearesglobe.com/whats-on/", "verified": "2026-10-07" },
+    { "title": "Pride", "venue": "Bridge Theatre", "opens": "2026-11-12", "runs": "12 November 2026 to 8 May 2027", "detail": "A new musical based on the film; moves from the National Theatre.", "price": "From £30", "source": "https://bridgetheatre.co.uk/whats-on/", "verified": "2026-10-07" },
+    { "title": "Nine Night", "venue": "Kiln Theatre", "opens": "2026-11-12", "runs": "12 November 2026 to 2 January 2027", "source": "https://www.kilntheatre.com/whats-on/", "verified": "2026-10-07" },
+    { "title": "One Day - The Musical", "venue": "Garrick Theatre", "opens": "2026-11-17", "runs": "17 November 2026 to 14 March 2027", "detail": "Book by David Greig; Jamie Muscato and Sharon Rose as Dexter and Emma; directed by Max Webster.", "price": "From £33", "source": "https://www.nimaxtheatres.com/garrick-theatre/", "verified": "2026-10-07" },
+    { "title": "Pinocchio", "venue": "Shakespeare's Globe", "opens": "2026-11-28", "runs": "28 November 2026 to 3 January 2027", "source": "https://www.shakespearesglobe.com/whats-on/", "verified": "2026-10-07" }
+  ],
+  "theatreClosing": [
+    { "title": "Kimberly Akimbo", "venue": "Hampstead Theatre", "lastPerformance": "2026-11-07", "runs": "28 August to 7 November 2026", "source": "https://www.hampsteadtheatre.com/whats-on/", "verified": "2026-10-07", "note": "Marked 'Selling Fast' on the theatre's page." },
+    { "title": "The Bridge", "venue": "Bush Theatre", "lastPerformance": "2026-11-11", "source": "https://officiallondontheatre.com/theatre-tickets/?last_chance=true", "verified": "2026-10-07", "note": "Official London Theatre listing only, not confirmed on the Bush's own site." },
+    { "title": "Tosca", "venue": "London Coliseum", "lastPerformance": "2026-12-11", "note": "Opened 30 October; runs through November." }
+  ],
+  "theatreSource": {
+    "url": "https://officiallondontheatre.com/theatre-tickets/",
+    "filters": "?coming_soon=true for openings, ?last_chance=true for closings",
+    "verified": "2026-10-07",
+    "caveat": "An end date on the listing can be a booking horizon. Only entries with a producer or theatre page confirming the dates are in the article."
+  },
+
+  "sport": {
+    "events": [
+      { "name": "England Men v Australia", "sport": "Rugby union, Nations Championship", "date": "2026-11-08", "kickOff": "15:10", "venue": "Allianz Stadium, Twickenham", "price": "From £79", "official": "https://www.englandrugby.com/fixtures-and-results", "verified": "2026-10-07" },
+      { "name": "England v Croatia", "sport": "Football, UEFA Nations League", "date": "2026-11-12", "venue": "Wembley Stadium", "official": "https://www.wembleystadium.com/events/2026/England-v-Croatia", "verified": "2026-10-07" },
+      { "name": "England Men v Japan", "sport": "Rugby union, Nations Championship", "date": "2026-11-14", "kickOff": "16:40", "venue": "Allianz Stadium, Twickenham", "price": "From £51", "official": "https://www.englandrugby.com/fixtures-and-results", "verified": "2026-10-07" },
+      { "name": "England Men v New Zealand", "sport": "Rugby union, Nations Championship", "date": "2026-11-21", "kickOff": "14:10", "venue": "Allianz Stadium, Twickenham", "price": "Sold out", "official": "https://www.englandrugby.com/fixtures-and-results", "verified": "2026-10-07" }
+    ]
+  },
+
+  "restaurantCandidatesNotConfirmed": {
+    "note": "Hot Dinners' coming-soon list places these in November 2026. No operator page confirmed any of them on 7 October, so none is in the article.",
+    "source": "https://www.hot-dinners.com/Features/Articles/coming-soon-new-restaurants-opening-in-london",
+    "items": [
+      "Edmondo (Big Mamma), 8 Lombard Court, City, listed 6 November",
+      "Restaurant by Robin Gill and two bars by Mr Lyan, London Museum at Smithfield, listed 28 November",
+      "The Poet (Suna team), London Museum, November",
+      "Caravan Southbank, Festival Terrace, Southbank Centre, November",
+      "Le Perroquet at the St Regis London, chef Daniel Rose, November",
+      "Lunette, Florence Knight, rooftop at 180 The Thames, Temple, November",
+      "Bar Douro, Greek Street, Soho, November",
+      "Schofield's, Covent Garden, November"
+    ]
+  },
+
+  "gaps": [
+    "Oxford Street and Bond Street 2026 Christmas lights switch-on dates - neither street's site had published a date on 7 October. Add to the lights guide and this guide when they do.",
+    "Southbank Centre Winter Market, Leicester Square and Winter by the River 2026 dates - not published (see christmas-markets-london).",
+    "Lord Mayor's Show 2026 procession order - the organiser says it is published around the start of October; not up on 7 October.",
+    "Wundrful World of Christmas first date - the organiser's own page (wundr.live/london) says 13 November; four other LTG pages say 11 November. Confirm with Rob or See Tickets.",
+    "Restaurant and bar openings - not confirmed by operators (see restaurantCandidatesNotConfirmed).",
+    "Hayward Gallery November openings read from the Internet Archive copy of the Southbank Centre page, not the live page."
+  ],
+  "flagsForHuman": [
+    "Bayeux members' priority for January to March: the coordinating session read 'fully booked' on 7 October, the archived 3 October page said booking reopened 6 October. Printed as: sold out.",
+    "The Lord Mayor's Show Thames fireworks: no primary source for the abolition was found; the organiser's timetable simply has none."
+  ],
+  "lessonsForNextMonth": [
+    "britishmuseum.org, southbankcentre.co.uk, parliament.uk, royal.uk, atptour.com and kew.org return 403 to curl. The Internet Archive's copy of the page, taken within days, is the fallback.",
+    "Bing RSS drops to a single word on long queries; Brave works until it rate-limits (a few queries a minute). Fetch the organiser's page directly wherever you can name it."
+  ]
+}

@@ -50,7 +50,7 @@ That sprawl catches people out. There is no festival wristband and no single box
 
 ---
 
-> 🧭 **Plan the rest of it:** [Best live music venues](/articles/best-live-music-venues-london/) · [Late-night eating](/articles/late-night-eating-london/) · [Best time to visit London](/articles/best-time-to-visit-london/) · [Things to do in October](/articles/things-to-do-in-london-in-october/)
+> 🧭 **Plan the rest of it:** [Best live music venues](/articles/best-live-music-venues-london/) · [Late-night eating](/articles/late-night-eating-london/) · [Best time to visit London](/articles/best-time-to-visit-london/) · [Things to do in October](/articles/things-to-do-in-london-in-october/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/)
 
 ## The shape of the ten days
 
