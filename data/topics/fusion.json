@@ -1,0 +1,165 @@
+{
+  "topic": "fusion",
+  "article": "src/content/articles/best-fusion-restaurants-london.md",
+  "headTerm": "Fusion restaurants",
+  "note": "Built 7 October 2026 from data/topics/pizza.json. DEFINITION: a restaurant whose cooking deliberately combines two or more named cuisines and says so on its own menu or site. 'Modern European', 'global', 'pan-Asian' and small plates with no named pairing are out, and so is one cuisine cooked with British produce (AngloThai, KOL, Ikoyi) - that is sourcing, not a second cuisine. Read the operator's own wording for every entry; never infer the pairing from a name. The article is organised on the pairing, because a reader choosing between a Kolkata-Chinese canteen and a Japanese-Italian tasting counter is not choosing from one list.",
+  "awardBodies": [
+    {
+      "name": "MICHELIN Guide (Great Britain & Ireland)",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "No 'Fusion' cuisine filter exists for London (the slug 404s). It does file Angelina and Osteria Angelina under 'Italian and Japanese' - the only two London restaurants under that label - and the rest of the fusion kitchens under Creative, Korean, Filipino, South American, Asian Influences or World Cuisine. The working route is to read the whole London selection (384 restaurants on 7 Oct 2026, /restaurants and /page/2 to /page/8, plain curl with no user agent) and each candidate's restaurant page, whose JSON-LD 'award' field carries the distinction and dateAwarded. 2026: Sollip one star, Calong Bib Gourmand."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "rolling",
+      "note": "Its search and filters render client-side, but restaurant pages (/restaurant/<slug>/id/<n>) are server-rendered and readable: cuisine label, overall rating and the review. The ids cannot be guessed. sitemap-auto.xml lists about 2,500 URLs and carried Sollip and Jikoni; Google News RSS shows reviews of Logma (17 Jun 2026) and Calong (12 Jun 2026) and a 'Britain's 100 Best Local Restaurants 2026: London winners' page that may include Calong, none of which could be resolved to a URL this pass. Its fusion kitchens are filed under 'Global'."
+    },
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/restaurants/london/fusion",
+      "note": "Has a London 'Fusion' heading with exactly one restaurant on it - Los Mochis - and says so. The Nikkei rooms sit under its Japanese and South American headings instead."
+    },
+    {
+      "name": "National Restaurant Awards",
+      "domain": "nationalrestaurantawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/list/1-50",
+      "note": "Read in full on 7 Oct 2026 (1-100 on one page, Bouchon Racine at #1). The fusion-adjacent London entries - AngloThai #14, Ikoyi #24, KOL #52, Kudu #64 - all describe one cuisine with British or global produce on their own sites, so none is in scope and the list contributes no names."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "The Handbook",
+      "domain": "thehandbook.com",
+      "ranked": false,
+      "note": "'14 Best Fusion Menus To Try In London', 15 entries, updated 28 May 2026. Labels each entry with its pairing ('Filipino & French', 'Indian & Chinese') - the most useful list in the set."
+    },
+    {
+      "name": "Luxury London",
+      "domain": "luxurylondon.co.uk",
+      "ranked": false,
+      "note": "Six entries, March 2024."
+    },
+    {
+      "name": "Country & Town House",
+      "domain": "countryandtownhouse.com",
+      "ranked": false,
+      "note": "Four entries, September 2023."
+    },
+    {
+      "name": "London On The Inside",
+      "domain": "londontheinside.com",
+      "ranked": false,
+      "note": "'Get Mash Up | The Best Fusion Food in London', ten entries, 10 April 2026 - the only list that reaches the casual end (Pako Taco, Jurkish, East West Pizza, Mexican Seoul)."
+    },
+    {
+      "name": "Dish Cult",
+      "domain": "dishcult.com",
+      "ranked": false,
+      "note": "Five entries, October 2023. A booking platform's diner site - weaker C."
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": false,
+      "note": "Publishes NO fusion list. Its single-venue reviews are recorded instead (/london/restaurants/<slug>), each carrying a star rating and a fusion headline. Pages without a rating are directory listings and were not counted."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": false,
+      "note": "No fusion guide. Reviews at /london/reviews/<slug>; the 0-10 ratings are not ranks. Its 'Angelina' page is a 2020 charity notice, not a review - not counted."
+    },
+    {
+      "name": "The Guardian",
+      "domain": "theguardian.com",
+      "ranked": false,
+      "note": "Grace Dent's reviews, found by paging /food/series/grace-dent-on-restaurants?page=N and grepping slugs."
+    }
+  ],
+  "facetAxis": {
+    "field": "pairing",
+    "note": "The pairing is the guide. Nikkei and Indo-Chinese are fusion cuisines with a century of history behind them; Japanese-Italian, Korean-European and Mexican-Japanese are chef-made. The article says which is which.",
+    "values": [
+      {
+        "key": "nikkei",
+        "label": "Japanese-Peruvian (Nikkei)",
+        "describeAs": "the cooking of Japanese families who settled in Peru from 1899: raw fish cut the Japanese way and dressed with lime, chilli and aji amarillo instead of soy"
+      },
+      {
+        "key": "indo-chinese",
+        "label": "Indo-Chinese (Hakka)",
+        "describeAs": "the food of Kolkata's Hakka Chinese community in Tangra - chilli chicken, Manchurian, Hakka noodles - cooked with Indian spice"
+      },
+      {
+        "key": "japanese-italian",
+        "label": "Japanese-Italian",
+        "describeAs": "Italian dishes made with Japanese ingredients and technique; the Japanese word is itameshi"
+      },
+      {
+        "key": "korean-plus",
+        "label": "Korean with a second cuisine",
+        "describeAs": "Korean flavours carried into European, Mexican or Italian dishes"
+      },
+      {
+        "key": "mexican-japanese",
+        "label": "Mexican-Japanese",
+        "describeAs": "tacos and tostadas beside maki and tiraditos"
+      },
+      {
+        "key": "filipino-plus",
+        "label": "Filipino with a second cuisine",
+        "describeAs": "Filipino flavours in a French bistro or a Japanese ramen bowl"
+      },
+      {
+        "key": "french-japanese",
+        "label": "French-Japanese",
+        "describeAs": "French technique with Japanese ingredients"
+      },
+      {
+        "key": "heritage",
+        "label": "Two-heritage kitchens",
+        "describeAs": "a cook's two family cuisines on one menu: Jamaican and Turkish Cypriot, Indian and Kenyan, Iranian and Iraqi, Indian and Irish"
+      }
+    ]
+  },
+  "formatSection": {
+    "title": "Indo-Chinese in the suburbs",
+    "note": "The Soho rooms are where the lists go; the Indo-Chinese that London's South Asian families eat is in Harrow, Ealing, Wimbledon Park and Northolt. Reddit carries it and no masthead does."
+  },
+  "knownGaps": [
+    "No London Peranakan (Nyonya) or Macanese restaurant was found in any source. Both were on the brief's pairing list. JOLLY's Macanese video is in Macau.",
+    "No Chifa (Chinese-Peruvian) restaurant in London is built on it; Llama Inn leans that way and is in the Peruvian guide. The Evening Standard's 2018 Chifa piece is a Night Market stall feature.",
+    "No Korean-Mexican restaurant beyond Mexican Seoul, and no Mexican-Japanese beyond Los Mochis.",
+    "Good Food Guide reviews of Logma and Calong, and its 'Britain's 100 Best Local Restaurants 2026: London winners' page, could not be resolved to URLs: GFG search is client-side and Google News link decoding hit a 429. Worth a browser pass - tier A.",
+    "Hot Dinners test drives of Osteria Angelina (24 Jun 2025) and Fan (11 Sep 2025), The Independent's Los Mochis review (14 Mar 2025), the FT and Times reviews of Cue Point (Jun and Sep 2026), the New York Times and BBC on Logma (2026) and London Now's Indo-Chinese Soho review (27 Jul 2026) were seen as Google News headlines but not resolved to URLs, so not recorded.",
+    "Single-venue reviews (Time Out, Infatuation, Guardian) were checked for every venue that a list, video or thread surfaced. A venue's count therefore partly reflects how widely it has been reviewed.",
+    "Search route: Bing RSS answers only the first word of a query; Brave and DuckDuckGo lite each allowed one query before a bot wall. Google News RSS (multi-word, dated) and Reddit's .rss endpoints worked; the Google News link decoder (news.google.com/articles/<id> with a SOCS consent cookie, then batchexecute) works until it rate-limits."
+  ],
+  "openVenueQuestions": [
+    "Coya - three sources call it fusion (Luxury London: 'Peruvian dishes with Japanese and Spanish influences'), but its own site says 'bold Peruvian fusion' without naming a second cuisine, and a Reddit reply disputes it. Kept off the guide's entries and pointed to the Peruvian guide.",
+    "Farzi, NOPI and Stork - each named by two sources as fusion, but the operators do not name a second cuisine (Farzi: 'modern Indian'; NOPI: 'a wide global pantry'). Left off. Stork's site refused plain requests.",
+    "Hakkaland, Harrow - a Reddit reply on 6 Aug 2026 says it has closed. Not on the page.",
+    "Korean Dinner Party - suggested in the fusion thread; The Caterer reported its closure on 10 July 2026. Not on the page.",
+    "AngloThai and KOL - Reddit commenters and the NRA list put them near this topic, but both operators describe one cuisine with British produce. Excluded by definition, not by quality.",
+    "ASK ROB - Logma, 81 Goldsmiths Row E2 8QR. Four sources (GFG Very Good, Time Out 5 stars, Infatuation 8.3, London On The Inside) call it Iranian-Iraqi, but its own site (logmaldn.com, Square Online) states no cuisine, menu or address in readable form. Left off the page under the operator-wording rule; one line from Rob or a readable menu puts it back.",
+    "ASK ROB - Shankeys, 221 Well Street E9 6RG (Indian-Irish; Time Out 5 stars 2023, Infatuation 8.6 2024). No operator page could be read and the FSA register has no record under the name or address. Trading not established; left off.",
+    "ASK ROB - Cue Point (Texas BBQ with Afghan flavours) at Garden Bar & Grill, 41 Bramley Road W10 6SZ. Operator site is a placeholder; the host venue trades (FSA 6 May 2026). Time Out reviewed it 4 stars on 30 Jul 2026. Left off for want of operator wording, hours and booking.",
+    "ASK ROB - East West Pizza (Indian toppings on Neapolitan pizza; Shoreditch and Tufnell Park). No operator site found; FSA lists 42-44 Kingsland Road E2 8DA awaiting inspection. Left off.",
+    "ASK ROB - Pako Taco (Pakistani-Mexican). pakotaco.com states the pairing (\"South Asian Spice Mexican Soul\") but no addresses or hours, and its About page says the Dalston residency ended in 2024. Left off.",
+    "ASK ROB - Penelope's, Hotel Amano Covent Garden. The operator calls it Middle Eastern and Spanish (not Israeli-Spanish, as Luxury London and C&TH have it), and its page still says it was closing May to August with a September 2026 return. Reopening not established; left off.",
+    "Stork, 13-14 Cork Street - The Infatuation's review page carries a Permanently Closed flag and the FSA has no record; its site is password-protected. The guide says plainly that it has closed. Not added to data/closed.json because it would move the west-african evidence counts - do that with that guide.",
+    "Jurkish - London On The Inside (Apr 2026) places it at 157-159 Rye Lane, Peckham; its own contact page (Oct 2026) says Effra Social, 89 Effra Road, Brixton SW2 1DF. The guide uses the operator address.",
+    "China Bistro, 5-6 The Green, Ealing W5 5DA and Hakka Garden, 248 Streatfield Road, Harrow HA3 9BY - Indo-Chinese kitchens named on Reddit and by a YouTube creator; neither has an operator page that could be read (Hakka Garden sits behind a browser check). Left off. ASK ROB if either is worth chasing.",
+    "Ramo Ramen - its Soho shop, the last site, closed after service on 27 September 2026 (own site). Added to data/closed.json; the Filipino, Japanese and halal guides carried it as open and were corrected the same day.",
+    "INCA - the Handbook files it Japanese & Latin American, but the operator calls itself a South American restaurant. Out by definition."
+  ]
+}

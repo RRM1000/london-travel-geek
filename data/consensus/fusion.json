@@ -1,0 +1,1030 @@
+{
+  "cuisine": "fusion",
+  "recorded": "2026-10-07",
+  "note": "Seeded 2026-10-07. SCOPE: restaurants whose cooking deliberately combines two or more named cuisines and say so on their own menu or site - Nikkei, Indo-Chinese, Japanese-Italian, Korean-European, Mexican-Japanese, Filipino-French and the rest. Recorded as each source framed it; the article then applies the operator test, so some names here (Farzi, NOPI, Yuu Kitchen, Nobu) do not reach the page. Nikkei rooms already counted in data/consensus/peruvian.json and japanese.json are NOT re-recorded from those files; their counts here are fusion-corpus only (trap 7). SEARCH ROUTE: Bing RSS answers only the first word of a query and Brave and DuckDuckGo lite allowed one query each before a bot wall, so the SERP came from one DuckDuckGo query, one Brave query and Google News RSS (multi-word, dated) plus each masthead's own review URLs. TIER E WORKS through Reddit's .rss endpoints (search and thread), spaced about a minute apart. Single-venue review records (Time Out, The Infatuation, The Guardian) were checked for every venue a list or SERP result surfaced, so a venue's count partly reflects how many mastheads have reviewed it - recorded here so the next pass knows.",
+  "sources": [
+    {
+      "name": "Harden's - London, Fusion restaurant guide",
+      "url": "https://www.hardens.com/restaurants/london/fusion",
+      "scope": "fusion",
+      "tier": "A",
+      "names": [
+        "Los Mochis"
+      ],
+      "dated": "2026-10-07",
+      "ranked": false,
+      "quotes": {
+        "Los Mochis": "The only restaurant under Harden's London 'Fusion' heading ('View full listings of 1 Fusion London Restaurants'). Reader-survey write-up: 'With its eclectic Mexican/Japanese fusion fare', the Notting Hill and Liverpool Street duo are 'a great location for drinks and snacks with fabulous cocktails and tacos'; 'it is easy to rack up a large bill and service can be erratic', mostly at the newer EC2 branch. Price £59, Food 3."
+      },
+      "note": "Read 7 October 2026. The page states it holds exactly one Fusion restaurant; the Nikkei rooms sit under Harden's Japanese and South American headings instead."
+    },
+    {
+      "name": "MICHELIN Guide - London selection, kitchens that pair two named cuisines (2026 Great Britain & Ireland)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+      "scope": "fusion",
+      "tier": "A",
+      "names": [
+        "Angelina",
+        "Osteria Angelina",
+        "Sollip",
+        "Cálong",
+        "Bar Des Prés",
+        "Fan",
+        "Belly Bistro",
+        "Sucre"
+      ],
+      "dated": "2026-02-09",
+      "ranked": false,
+      "quotes": {
+        "Angelina": "Selected, 2026 guide; cuisine filed as 'Italian and Japanese' - one of only two London restaurants under that label. 'Few people would think of combining Italian and Japanese cuisine, but the unusual fusion works a treat at this fun neighbourhood spot owned by two friends... a kondate-style tasting menu.'",
+        "Osteria Angelina": "Selected, 2026 guide; cuisine 'Italian and Japanese'. 'Whereas the original Japanese-Italian Angelina in Dalston is centred around a kaiseki-style set menu, here at the more casual and bigger Osteria, the focus is more on grilling over binchotan and the flexibility of a sizeable a la carte.'",
+        "Sollip": "ONE MICHELIN STAR, 2026 guide (cuisine 'Creative'). 'The Korean husband-and-wife team combine skills learnt in Europe's top kitchens with techniques and flavours from their homeland... a clever re-working of tarte Tatin with daikon.'",
+        "Cálong": "BIB GOURMAND, 2026 guide (cuisine 'Korean'). 'His appealingly priced blackboard menu is a great mix of European cuisine with subtle Korean flavours. \"Joo's Fried Chicken\" has understandably been on the menu since Day One.'",
+        "Bar Des Prés": "Selected, 2026 guide; cuisine 'Asian Influences'. Cyril Lignac's Mayfair room: 'The menu takes in a range of influences from across Asia and the Mediterranean in well-crafted dishes such as salmon and otoro nigiri or Scottish langoustine ravioli.'",
+        "Fan": "Selected, 2026 guide (cuisine 'South American'). 'Three childhood friends from Lima are behind this West London restaurant offering \"neo-Nikkei\" cuisine... the omakase menu, where common Nikkei dishes like ceviche and tiradito sit alongside a creative nigiri selection.'",
+        "Belly Bistro": "Selected, 2026 guide (cuisine 'Filipino'), filed as BELLY. 'Do you go for the signature cod pandesal or the fabulous scallops \"Bicol Express\"?... frozen custard profiterole with salty fish sauce caramel.'",
+        "Sucre": "Selected, 2026 guide (cuisine 'Latin American'). 'A former concert hall provides an eye-catching setting for this buzzing eatery combining influences ranging from Argentina to the Mediterranean.'"
+      },
+      "note": "Michelin has no Fusion cuisine filter for London; this record is the London selection (384 restaurants, read in full 7 October 2026) narrowed to the kitchens that pair two named cuisines on their own sites. Distinctions read from each restaurant page's award field (dateAwarded 2026). Nopi ('World Cuisine'), AngloThai and KOL are in the selection but their operators describe one cuisine cooked with a wider or British larder, so they are not recorded here."
+    },
+    {
+      "name": "The Good Food Guide - review of Sollip, Bermondsey",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/sollip/id/44032",
+      "scope": "fusion",
+      "tier": "A",
+      "names": [
+        "Sollip"
+      ],
+      "dated": "2023-04-19",
+      "ranked": false,
+      "quotes": {
+        "Sollip": "Filed under 'Global'. Overall rating: Very Good. 'It's all about the food at Sollip - a \"serious and grown-up dining experience\"... the signature daikon tarte tatin embellished with kimchi, toasted barley, roasted potato and burnt hay.'"
+      },
+      "note": "GFG restaurant pages render server-side; its search and filters do not."
+    },
+    {
+      "name": "The Good Food Guide - review of Jikoni, Marylebone",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/jikoni/id/30608",
+      "scope": "fusion",
+      "tier": "A",
+      "names": [
+        "Jikoni"
+      ],
+      "dated": "2024-01-16",
+      "ranked": false,
+      "quotes": {
+        "Jikoni": "Filed under 'Global'. Overall rating: Good; warmth Very Good."
+      }
+    },
+    {
+      "name": "The Good Food Guide - review of Calong, Stoke Newington",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/calong/id/82916",
+      "scope": "fusion",
+      "tier": "A",
+      "names": [
+        "Cálong"
+      ],
+      "dated": "2026-06-12",
+      "ranked": false,
+      "quotes": {
+        "Cálong": "Filed under 'Korean Fusion' - the only restaurant in this pass the GFG labels fusion. 'Effortlessly cool modern Korean bistro.' Overall rating: Very Good. 'Calong is one of those places you keep going back to.' Page carries a 'Best Local Restaurant' tag."
+      },
+      "note": "Id found through the GFG's own autocomplete endpoint, /script/search_autocomplete.json?q=<name>, which answers curl. Whether the 'Best Local Restaurant' tag means a place in Britain's 100 Best Local Restaurants 2026 is not established - the list page read on 7 Oct 2026 shows 50 entries and neither Calong nor Logma - so the article does not claim it."
+    },
+    {
+      "name": "The Good Food Guide - review of Logma, Hackney",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/logma/id/97456",
+      "scope": "fusion",
+      "tier": "A",
+      "names": [
+        "Logma"
+      ],
+      "dated": "2026-06-17",
+      "ranked": false,
+      "quotes": {
+        "Logma": "Filed under 'Iranian / Iraqi'. 'Welcoming neighbourhood café and supper club that hits the spot.' Overall rating: Very Good. 'Set up by Ziad Halub and Farsin Rabiee, Logma (the name means \"perfect bite\")...' Page carries a 'Best Local Restaurant' tag."
+      }
+    },
+    {
+      "name": "Luxury London - The best fusion restaurants in London",
+      "url": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Bar Des Prés",
+        "Angelina",
+        "Coya",
+        "Chotto Matte",
+        "Penelope's",
+        "Fatt Pundit"
+      ],
+      "dated": "2024-03-14",
+      "ranked": false,
+      "quotes": {
+        "Bar Des Prés": "'A Franco-East Asian menu'; Cyril Lignac's first international venture. 'Saint-Jacques scallops with ponzu and beurre de brioche... the well-documented avocado and crab galette.'",
+        "Angelina": "'Combines two unlikely cuisines - Italian and Japanese'; tasting-menu only. 'Hamachi saltimbocca, focaccia with umeboshi.'",
+        "Coya": "'A fusion menu of authentic Peruvian dishes with Japanese and Spanish influences.'",
+        "Chotto Matte": "Kurt Zdesar's Nikkei room - 'a fusion of Japanese and Peruvian elements'. 'Gyoza alongside tostadas, wagyu beef on the robata grill.'",
+        "Penelope's": "'The Israeli-Spanish menu'; sea bream tartare with gazpacho and caviar. Hotel Amano, Covent Garden.",
+        "Fatt Pundit": "'The fusion of traditional Chinese techniques and bold Indian flavours' from Kolkata's street carts; kid goat momos with cardamom."
+      },
+      "note": "Zoe Gunn. Unordered."
+    },
+    {
+      "name": "The Handbook - 14 Best Fusion Menus To Try In London",
+      "url": "https://www.thehandbook.com/london-fusion-menus/",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Sucre",
+        "Belly Bistro",
+        "Ayllu",
+        "Angelina",
+        "INCA",
+        "SUSHISAMBA Heron Tower",
+        "UBA Shoreditch",
+        "Straits Kitchen",
+        "Chotto Matte",
+        "Fatt Pundit",
+        "Bar Des Prés",
+        "Farzi",
+        "Coya",
+        "Stork",
+        "NOPI"
+      ],
+      "dated": "2026-05-28",
+      "ranked": false,
+      "quotes": {
+        "Sucre": "Labelled 'Latin American & European'. Argentine parrilla with Mediterranean and European notes.",
+        "Belly Bistro": "Labelled 'Filipino & French'. 'Just a handful of tables, it's always buzzing'; the standout was the cured scallops 'Bicol Express'. Kentish Town.",
+        "Ayllu": "Labelled 'Peruvian & Japanese'. Oysters with aji amarillo, mango tiger milk and ponzu; salmon and tuna tacos.",
+        "Angelina": "Labelled 'Japanese & Italian'. Recommends the Shinjuku Albatross cocktail.",
+        "INCA": "Labelled 'Japanese & Latin American'; a show restaurant with performers.",
+        "SUSHISAMBA Heron Tower": "Labelled 'Japanese, Brazilian & Peruvian'.",
+        "UBA Shoreditch": "Labelled 'Asian & British'. Hamachi ceviche tacos, prawn har gow.",
+        "Straits Kitchen": "Labelled 'South East Asian Flavours and British Techniques'.",
+        "Chotto Matte": "Labelled 'Peruvian & Japanese'. Truffled prawn tempura, A5 wagyu, tuna tostadas.",
+        "Fatt Pundit": "Labelled 'Indian & Chinese'. Hakka cooking from Kolkata.",
+        "Bar Des Prés": "Labelled 'French & Japanese'.",
+        "Farzi": "Labelled 'Indian & Italian'; dal chawal arancini.",
+        "Coya": "Labelled 'Latin American & Japanese'; snow crab taco.",
+        "Stork": "Labelled 'African & Caribbean' with modern European technique; mixed shellfish egusi.",
+        "NOPI": "Labelled 'Middle Eastern & Mediterranean'."
+      },
+      "note": "Andrea Pinto, first published 29 January 2026, updated 28 May 2026. Numbered 14 in the title, 15 entries on the page; unordered. Each entry is labelled with the pairing, which is the reason this is the most useful list in the set."
+    },
+    {
+      "name": "Country & Town House - Best Fusion Restaurants in London",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/fusion-restaurants-london/",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Penelope's",
+        "Farzi",
+        "NOPI",
+        "Stork"
+      ],
+      "dated": "2023-09-07",
+      "ranked": false,
+      "quotes": {
+        "Penelope's": "'Israeli-Spanish fusion cuisine' in Hotel Amano Covent Garden; Israeli-style paella with octopus, baklava cheesecake.",
+        "Farzi": "'Butter chicken bao, an incredible truffle naan, and a quirky saag burrata.'",
+        "NOPI": "'A mixture of Mediterranean, Middle Eastern and Asian cuisines.'",
+        "Stork": "'Flies from Eastern Europe to Western Africa, picking up flavours'; lamb shoulder with jollof cous cous."
+      },
+      "note": "Ellie Smith. Four entries, unordered."
+    },
+    {
+      "name": "Time Out - Angelina review",
+      "url": "https://www.timeout.com/london/restaurants/angelina",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Angelina"
+      ],
+      "dated": "2025-05-11",
+      "ranked": false,
+      "quotes": {
+        "Angelina": "4 stars (Leonie Cooper): 'A chic fusion restaurant serving a Japanese-Italian set menu.'"
+      }
+    },
+    {
+      "name": "Time Out - Osteria Angelina review",
+      "url": "https://www.timeout.com/london/restaurants/osteria-angelina",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Osteria Angelina"
+      ],
+      "dated": "2025-06-15",
+      "ranked": false,
+      "quotes": {
+        "Osteria Angelina": "5 stars (Chiara Wilkinson): 'Japanese-Italian fusion in a glossy Shoreditch space.'"
+      }
+    },
+    {
+      "name": "Time Out - Calong review",
+      "url": "https://www.timeout.com/london/restaurants/calong",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Cálong"
+      ],
+      "dated": "2026-02-18",
+      "ranked": false,
+      "quotes": {
+        "Cálong": "4 stars (Leonie Cooper): 'Korean/European fusion in a romantic Stokey space.'"
+      }
+    },
+    {
+      "name": "Time Out - Logma review",
+      "url": "https://www.timeout.com/london/restaurants/logma",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Logma"
+      ],
+      "dated": "2026-05-17",
+      "ranked": false,
+      "quotes": {
+        "Logma": "5 stars (Suzie Bakos): 'Incredible Iranian-Iraqi fusion cafe with a weekly supper club.'"
+      }
+    },
+    {
+      "name": "Time Out - Sollip review",
+      "url": "https://www.timeout.com/london/restaurants/sollip",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Sollip"
+      ],
+      "dated": "2024-12-19",
+      "ranked": false,
+      "quotes": {
+        "Sollip": "5 stars (Leonie Cooper): 'Michelin-star Korean-styled gastronomic magic in the Bermondsey backstreets.'"
+      }
+    },
+    {
+      "name": "Time Out - Shankeys review",
+      "url": "https://www.timeout.com/london/restaurants/shankeys",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Shankeys"
+      ],
+      "dated": "2023-02-13",
+      "ranked": false,
+      "quotes": {
+        "Shankeys": "5 stars (Huw Oliver): 'Friendly Indian-Irish fusion food in Hackney, as well as cocktails containing Kerrygold butter.'"
+      }
+    },
+    {
+      "name": "Time Out - Bamboo Mat review",
+      "url": "https://www.timeout.com/london/restaurants/bamboo-mat",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Bamboo Mat"
+      ],
+      "dated": "2022-06-13",
+      "ranked": false,
+      "quotes": {
+        "Bamboo Mat": "4 stars: 'ex-Chotto Matte team bring intriguing Peruvian-Japanese food to Leyton.' Reviewed at the original Leyton site."
+      }
+    },
+    {
+      "name": "Time Out - Cue Point review",
+      "url": "https://www.timeout.com/london/restaurants/cue-point",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Cue Point"
+      ],
+      "dated": "2026-07-29",
+      "ranked": false,
+      "quotes": {
+        "Cue Point": "4 stars (Leonie Cooper): 'Thrilling Afghan BBQ in a massive west London beer garden.'"
+      }
+    },
+    {
+      "name": "Time Out - Jikoni review",
+      "url": "https://www.timeout.com/london/restaurants/jikoni",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Jikoni"
+      ],
+      "dated": "2023-04-30",
+      "ranked": false,
+      "quotes": {
+        "Jikoni": "5 stars: 'A blend of Asian, African and Middle Eastern cuisines from food writer Ravinder Bhogal.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Osteria Angelina review",
+      "url": "https://www.theinfatuation.com/london/reviews/osteria-angelina",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Osteria Angelina"
+      ],
+      "dated": "2025-10-22",
+      "ranked": false,
+      "quotes": {
+        "Osteria Angelina": "'A dependably lively Shoreditch Itameshi restaurant with decadent pasta dishes'; headline calls it 'an Itameshi bar making some of London's best pasta'."
+      }
+    },
+    {
+      "name": "The Infatuation - Calong review",
+      "url": "https://www.theinfatuation.com/london/reviews/calong",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Cálong"
+      ],
+      "dated": "2025-02-21",
+      "ranked": false,
+      "quotes": {
+        "Cálong": "'Cool, creative Korean escapism from small plates deja vu... the Korean remixes at this Stoke Newington spot are totally original.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Logma review",
+      "url": "https://www.theinfatuation.com/london/reviews/logma",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Logma"
+      ],
+      "dated": "2026-01-15",
+      "ranked": false,
+      "quotes": {
+        "Logma": "Rated 8.3. 'An Iraqi-Iranian cafe with big, heaving sourdough pitas that draw big, happy Hackney crowds.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Mexican Seoul review",
+      "url": "https://www.theinfatuation.com/london/reviews/mexican-seoul",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Mexican Seoul"
+      ],
+      "dated": "2023-12-20",
+      "ranked": false,
+      "quotes": {
+        "Mexican Seoul": "Rated 7.8. 'A Mexican-Korean street food spot in Hackney with the kind of lovable energy usually reserved for litters of Andrex puppies.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Bar des Pres review",
+      "url": "https://www.theinfatuation.com/london/reviews/bar-des-pres",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Bar Des Prés"
+      ],
+      "dated": "2022-01-21",
+      "ranked": false,
+      "quotes": {
+        "Bar Des Prés": "Rated 7.9. 'A pricey restaurant and bar in Mayfair serving a mix of Japanese and French influenced dishes in a dimly-lit room.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Tangra review",
+      "url": "https://www.theinfatuation.com/london/reviews/tangra",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Tangra"
+      ],
+      "dated": "2025-11-05",
+      "ranked": false,
+      "quotes": {
+        "Tangra": "'A neon-lit Soho spot with diner-like booths you can pile into until 1:30am.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Shankeys review",
+      "url": "https://www.theinfatuation.com/london/reviews/shankeys",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Shankeys"
+      ],
+      "dated": "2024-10-16",
+      "ranked": false,
+      "quotes": {
+        "Shankeys": "Rated 8.6. 'An Indian-Irish restaurant in Hackney - like being at a wedding reception when the free bar has been in play for a couple of hours.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Fan review",
+      "url": "https://www.theinfatuation.com/london/reviews/fan",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Fan"
+      ],
+      "dated": "2025-07-03",
+      "ranked": false,
+      "quotes": {
+        "Fan": "'An omakase Nikkei restaurant in Notting Hill serving a mix of Japanese dishes with Peruvian and Chinese flavours.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Fatt Pundit Covent Garden review",
+      "url": "https://www.theinfatuation.com/london/reviews/fatt-pundit-covent-garden",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Fatt Pundit"
+      ],
+      "dated": "2024-07-10",
+      "ranked": false,
+      "quotes": {
+        "Fatt Pundit": "Rated 7. 'Nothing is straight-up awful, but there are plenty more spots in the area where you can get a better meal.' Covent Garden branch."
+      }
+    },
+    {
+      "name": "The Infatuation - Sushisamba review",
+      "url": "https://www.theinfatuation.com/london/reviews/sushisamba",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "SUSHISAMBA Heron Tower"
+      ],
+      "dated": "2022-01-13",
+      "ranked": false,
+      "quotes": {
+        "SUSHISAMBA Heron Tower": "Rated 3. 'The views are undeniably excellent. Almost everything else is appalling.' Named, not endorsed."
+      }
+    },
+    {
+      "name": "The Guardian - Grace Dent on Bar des Pres",
+      "url": "https://www.theguardian.com/food/2021/jun/18/bar-des-pres-london-w1-the-8-vanilla-flavoured-mash-reawakened-my-inner-witch-restaurant-review",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Bar Des Prés"
+      ],
+      "dated": "2021-06-18",
+      "ranked": false,
+      "quotes": {
+        "Bar Des Prés": "Headline: 'the £8 vanilla-flavoured mash reawakened my inner witch'. A critical review."
+      }
+    },
+    {
+      "name": "The Guardian - Grace Dent on Bamboo Mat",
+      "url": "https://www.theguardian.com/food/2022/jun/03/bamboo-mat-london-e10-grace-dent-restaurant-review",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Bamboo Mat"
+      ],
+      "dated": "2022-06-03",
+      "ranked": false,
+      "quotes": {
+        "Bamboo Mat": "'It's impossible not to want this place to succeed.' Explains Nikkei as 'where Japanese cuisine meets Peruvian'."
+      }
+    },
+    {
+      "name": "The Guardian - Grace Dent on Osteria Angelina",
+      "url": "https://www.theguardian.com/food/2025/jun/08/osteria-angelina-london-e1-grace-dent-restaurant-review",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Osteria Angelina"
+      ],
+      "dated": "2025-06-08",
+      "ranked": false,
+      "quotes": {
+        "Osteria Angelina": "The Spitalfields second site of Angelina; Dent mourns the white balsamic dressing on the tempura agretti."
+      }
+    },
+    {
+      "name": "The Guardian - Grace Dent on Calong",
+      "url": "https://www.theguardian.com/food/2025/mar/28/calong-london-n16-grace-dent-restaurant-review",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Cálong"
+      ],
+      "dated": "2025-03-28",
+      "ranked": false,
+      "quotes": {
+        "Cálong": "'This is not a Korean restaurant, but neither is it not a Korean restaurant.'"
+      }
+    },
+    {
+      "name": "Shortlist - Cafe Jikoni at V&A East",
+      "url": "https://www.shortlist.com/food-and-drink/one-of-londons-best-fusion-restaurants-is-heading-over-to-the-new-v-and-a-east-museum",
+      "scope": "fusion",
+      "tier": "B",
+      "names": [
+        "Jikoni"
+      ],
+      "dated": "2026-03-23",
+      "ranked": false,
+      "quotes": {
+        "Jikoni": "'One of London's best fusion restaurants'; 'its exploration of global fusion cookery'. Reports the second site, Cafe Jikoni, opening at V&A East in Stratford on 18 April 2026."
+      }
+    },
+    {
+      "name": "London On The Inside - Get Mash Up: The Best Fusion Food in London",
+      "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+      "scope": "fusion",
+      "tier": "C",
+      "names": [
+        "Angelina",
+        "Logma",
+        "Pako Taco",
+        "Cue Point",
+        "Shankeys",
+        "Los Mochis",
+        "East West Pizza",
+        "Jurkish",
+        "Fatt Pundit",
+        "Mexican Seoul"
+      ],
+      "dated": "2026-04-10",
+      "ranked": false,
+      "quotes": {
+        "Angelina": "'A mash-up of Japanese and Italian food'; chawanmushi with wagyu Bolognese.",
+        "Logma": "'Iranian-Iraqi concept' gone permanent in Hackney after a supper-club run.",
+        "Pako Taco": "'South Asian spice, Mexican soul' - Pakistani-Mexican; Netil Market and the Antwerp Arms, Tottenham.",
+        "Cue Point": "'Texas-style BBQ with Afghan spices'; 41 Bramley Road W10.",
+        "Shankeys": "'Indian-Irish small plates served out of an old bookies.'",
+        "Los Mochis": "'A Japanese-Mexican menu that's also entirely gluten- and nut-free'; Notting Hill and the City.",
+        "East West Pizza": "'Neapolitan-style pizzas with Indian toppings and sauces'; Tufnell Park and Shoreditch.",
+        "Jurkish": "Naz Ramadan's 'Jamaican and Turkish Cypriot heritage'; curry goat manti, saltfish borek. 157-159 Rye Lane, Peckham.",
+        "Fatt Pundit": "'Indo-Chinese food - fusion food from Tangra in Kolkata.'",
+        "Mexican Seoul": "'Mexican-Korean fusion'; elote-style corn ribs with miso mayo. 221 Grove Road E3."
+      },
+      "note": "Byline Christina. Ten entries, unordered."
+    },
+    {
+      "name": "London On The Inside - Belly review",
+      "url": "https://londontheinside.com/belly-review-the-french-bistro-serving-filipino-flavour-bombs/",
+      "scope": "fusion",
+      "tier": "C",
+      "names": [
+        "Belly Bistro"
+      ],
+      "dated": "2026-04-14",
+      "ranked": false,
+      "quotes": {
+        "Belly Bistro": "Headline: 'The French Bistro Serving Filipino Flavour Bombs'."
+      },
+      "note": "Same domain as the fusion list above - one voice, not two."
+    },
+    {
+      "name": "London On The Inside - Angelina review",
+      "url": "https://londontheinside.com/angelina-review-seven-years-in-the-game-and-only-getting-better/",
+      "scope": "fusion",
+      "tier": "C",
+      "names": [
+        "Angelina"
+      ],
+      "dated": "2026-06-15",
+      "ranked": false,
+      "quotes": {
+        "Angelina": "Headline: 'Seven Years in the Game and Only Getting Better'."
+      },
+      "note": "Same domain as the fusion list above - one voice, not two."
+    },
+    {
+      "name": "Dish Cult - The best fusion spots in London",
+      "url": "https://www.dishcult.com/articles/the-best-fusion-spots-in-london",
+      "scope": "fusion",
+      "tier": "C",
+      "names": [
+        "Peckham Bazaar",
+        "Little Bird Chiswick",
+        "Sollip",
+        "Hare and Tortoise",
+        "Yum Sa"
+      ],
+      "dated": "2023-10-25",
+      "ranked": false,
+      "quotes": {
+        "Peckham Bazaar": "Tagged 'Eastern Mediterranean, Balkan'.",
+        "Little Bird Chiswick": "'The flavours of Japan and Goa (with a nod to the flavours of Mexico and the med too).'",
+        "Sollip": "Tagged 'Korean, European'; 'wild sea bass with fermented tzatziki and daikon tarte tatin'.",
+        "Hare and Tortoise": "'Dishes inspired by Japanese, Chinese, and Vietnamese cuisines.'",
+        "Yum Sa": "Tagged 'Thai, European'; seafood tom yum paella. Putney."
+      },
+      "note": "Rachel Naismith. Dish Cult is the diner-facing site of a restaurant booking platform and several entries carry its own 'Reserve a table' button, so read it as a weaker voice; two of the five are not bookable through it. Unordered."
+    },
+    {
+      "name": "London x London - Fatt Pundit Covent Garden review",
+      "url": "https://www.londonxlondon.com/fatt-pundit-covent-garden/",
+      "scope": "fusion",
+      "tier": "C",
+      "names": [
+        "Fatt Pundit"
+      ],
+      "dated": "2026-08-10",
+      "ranked": false,
+      "quotes": {
+        "Fatt Pundit": "Julianna Barnaby. 'Hailing from the Tangra area of Kolkata, Fatt Pundit's food sits at the meeting point between Canton, Guangdong and Kolkattan cuisines'; kid goat momo with garam masala."
+      }
+    },
+    {
+      "name": "Foodepedia - Los Mochis review",
+      "url": "https://www.foodepedia.co.uk/restaurant-reviews/los-mochis-where-tokyo-meets-tulum-in-the-city-of-london-review/",
+      "scope": "fusion",
+      "tier": "C",
+      "names": [
+        "Los Mochis"
+      ],
+      "dated": "2025-09-20",
+      "ranked": false,
+      "quotes": {
+        "Los Mochis": "'Where Tokyo meets Tulum in the City of London.' Reviewed at the Broadgate rooftop site."
+      }
+    },
+    {
+      "name": "Randomly Food (YouTube)",
+      "url": "https://www.youtube.com/@RandomlyFood",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "My Hiro",
+        "Pimp My Ramen",
+        "Fatt Pundit",
+        "Angelina"
+      ],
+      "dated": "2025-03-15",
+      "ranked": false,
+      "quotes": {
+        "My Hiro": "Chapter in 'Tasting London's Wildest Fusion Foods - Genius Or Just Confusing?' (sushi with falafel and fish fingers, per the description).",
+        "Pimp My Ramen": "Chapter; the butter chicken udon.",
+        "Fatt Pundit": "Chapter at 06:45.",
+        "Angelina": "Chapter at 14:04: 'the upscale Angelina for a luxury Italian-Japanese tasting menu'."
+      },
+      "note": "Video https://www.youtube.com/watch?v=YStTKUGtSXc, 15 March 2025, 1,840 views. Returned by the generic search 'best fusion restaurants london'. Chapters also list 'Good which' and Jumbi; Jumbi is a Caribbean hi-fi bar, not a fusion kitchen, and 'Good which' could not be tied to a venue, so neither is recorded. No disclosure."
+    },
+    {
+      "name": "Food Review Club (YouTube)",
+      "url": "https://www.youtube.com/@FoodReviewClubUK",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Regency Club"
+      ],
+      "dated": "2023-10-08",
+      "ranked": false,
+      "quotes": {
+        "Regency Club": "'London's Famous Regency Club, a Kenyan Indian MEGA fusion!' - 'a family owned business fusing elements from their heritage and culture taking influence from both India and Kenya.' Queensbury, Edgware."
+      },
+      "note": "Video https://www.youtube.com/watch?v=YZMTf9e2KKY, 69,646 views. 'Long requested' by viewers; no disclosure."
+    },
+    {
+      "name": "SCOOP OF RICE (YouTube)",
+      "url": "https://www.youtube.com/@scoopofrice",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Sollip"
+      ],
+      "dated": "2021-11-13",
+      "ranked": false,
+      "quotes": {
+        "Sollip": "'London Fine dining - Korean French Fusion'; 'SO worth it'."
+      },
+      "note": "Video https://www.youtube.com/watch?v=fPEVHfwjiNY. No disclosure."
+    },
+    {
+      "name": "Gordon CK Ho (YouTube)",
+      "url": "https://www.youtube.com/@gordonckho",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Chotto Matte"
+      ],
+      "dated": "2022-06-13",
+      "ranked": false,
+      "quotes": {
+        "Chotto Matte": "'Tasting Peruvian Japanese fusion food!' - dish-by-dish ratings at the Soho site."
+      },
+      "note": "Video https://www.youtube.com/watch?v=-8jnWmGqwNg, 10,400 views. No disclosure."
+    },
+    {
+      "name": "London Ki Lali (YouTube)",
+      "url": "https://www.youtube.com/@LondonkiLali",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Fatt Pundit"
+      ],
+      "dated": "2024-06-12",
+      "ranked": false,
+      "quotes": {
+        "Fatt Pundit": "'INDO-CHINESE IN SOHO... BRUTALLY HONEST REVIEW'; 'after a lot of recommendations I had very high expectations'. 77 Berwick Street."
+      },
+      "note": "Video https://www.youtube.com/watch?v=c52cw_CXkhI, 8,858 views. No disclosure."
+    },
+    {
+      "name": "Food with Chetna (YouTube)",
+      "url": "https://www.youtube.com/@FoodwithChetna",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Tangra"
+      ],
+      "dated": "2026-02-15",
+      "ranked": false,
+      "quotes": {
+        "Tangra": "'LONDON'S BEST INDIAN RESTAURANT - Hidden gems in London - Indo-Chinese!' Chetna Makan, kitchen visit and tasting."
+      },
+      "note": "Video https://www.youtube.com/watch?v=trZM2JwxFNo, 22,672 views. Chapters include a kitchen visit; no disclosure in the description, but a kitchen walk-through usually means the restaurant knew she was coming. Kept, flagged."
+    },
+    {
+      "name": "Just Veganin (YouTube)",
+      "url": "https://www.youtube.com/@JustVeganin",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Tangra",
+        "Vegan Yes"
+      ],
+      "dated": "2026-09-20",
+      "ranked": false,
+      "quotes": {
+        "Tangra": "'Tangra - Best Vegetarian Indo-Chinese in London'; 'brings together two incredible cuisines'. Manchurian kofta, truffle bao.",
+        "Vegan Yes": "'**VeganYes!** - Vegan Italian/Korea Fusion Restaurant - Brick Lane' (17 June 2018)."
+      },
+      "note": "Videos https://www.youtube.com/watch?v=dOYLwu8iCes (20 September 2026, 6,318 views) and https://www.youtube.com/watch?v=oDXr3D7SYg0 (2018). One creator, one voice. No disclosure."
+    },
+    {
+      "name": "Feed the Lion (YouTube)",
+      "url": "https://www.youtube.com/@Feedthelion",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Ramo Ramen"
+      ],
+      "dated": "2019-12-21",
+      "ranked": false,
+      "quotes": {
+        "Ramo Ramen": "'The Best Ramen in the UK, Ramo Ramen! Halal Japanese-Filipino Fusion restaurant in London' - Camden site, oxtail ramen."
+      },
+      "note": "Video https://www.youtube.com/watch?v=PQdzVSHvCGs, 5,633 views. A halal food blog's channel. Older than 36 months - flagged. No disclosure."
+    },
+    {
+      "name": "One One One (YouTube)",
+      "url": "https://www.youtube.com/@OneOneOneEveryLondonOffice",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Ramo Ramen"
+      ],
+      "dated": "2022-03-15",
+      "ranked": false,
+      "quotes": {
+        "Ramo Ramen": "'Filipino-Japanese Ramen at Ramo Ramen Soho' - 'ramen using traditional Japanese techniques, but with flavours from the Philippines'. 28 Brewer Street."
+      },
+      "note": "Video https://www.youtube.com/watch?v=hyQLQYMYcAs, 2,843 views. No disclosure."
+    },
+    {
+      "name": "EAT PINOY (YouTube)",
+      "url": "https://www.youtube.com/@EATPINOY",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Bintang"
+      ],
+      "dated": "2022-05-29",
+      "ranked": false,
+      "quotes": {
+        "Bintang": "'We Tried BINTANG RESTAURANT - FILIPINO PAN-ASIAN FUSION', Kentish Town."
+      },
+      "note": "Video https://www.youtube.com/watch?v=lci5R5kuD4M. No disclosure."
+    },
+    {
+      "name": "HisKitch (YouTube)",
+      "url": "https://www.youtube.com/@HisKitch",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Vegan Yes"
+      ],
+      "dated": "2019-06-10",
+      "ranked": false,
+      "quotes": {
+        "Vegan Yes": "'Vegan Yes - Brick Lane | Italian & Korean Fusion Restaurant'; the lasagna kimchi."
+      },
+      "note": "Video https://www.youtube.com/watch?v=K4_VKqmWBYY. An interview with the chef - flagged as close to the operator. Older than 36 months."
+    },
+    {
+      "name": "Inner Alchemy (YouTube)",
+      "url": "https://www.youtube.com/@InnerAlchemyHub",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Vegan Yes"
+      ],
+      "dated": "2021-07-10",
+      "ranked": false,
+      "quotes": {
+        "Vegan Yes": "'Italian Korean Vegan Fusion?!' - kimchi lasagna and kimchi bibimbap."
+      },
+      "note": "Video https://www.youtube.com/watch?v=garncfCnLkQ. No disclosure."
+    },
+    {
+      "name": "Travels in India, London & the UK (YouTube)",
+      "url": "https://www.youtube.com/@mr07623445678",
+      "scope": "fusion",
+      "tier": "D",
+      "names": [
+        "Hakka Garden"
+      ],
+      "dated": "2024-02-10",
+      "ranked": false,
+      "quotes": {
+        "Hakka Garden": "'Meet Chef Steve Lee, the Chef who introduced Indo-Chinese Cuisine to the UK' - Veg Manchurian, Hakka noodles, Tai Pai paneer. 248 Streatfield Road, Harrow (address from the FSA register)."
+      },
+      "note": "Video https://www.youtube.com/watch?v=CTYVOriLaA8, 258,845 views. Most of this channel's Indo-Chinese kitchens are in Leicester (trap 12); only Hakka Garden is recorded."
+    },
+    {
+      "name": "r/london - fancy asian fusion restaurants in London?",
+      "url": "https://www.reddit.com/r/london/comments/10tv12e/fancy_asian_fusion_restaurants_in_london/",
+      "scope": "fusion",
+      "tier": "E",
+      "names": [
+        "Yuu Kitchen",
+        "KOL",
+        "Chotto Matte"
+      ],
+      "dated": "2023-02-05",
+      "ranked": false,
+      "quotes": {
+        "Yuu Kitchen": "'Yuu Kitchen down in Aldgate; Japanese fusion, their miso aubergine is bonkers good.'",
+        "KOL": "'Kol... is (kind of) British Mexican fusion, think Mexican dishes with British ingredients.'",
+        "Chotto Matte": "'Chotto Matte is great - Japanese-Peruvian fusion.'"
+      },
+      "note": "Read through the thread's RSS feed. Only answers framed as fusion are recorded; Nobu, Zuma, Hakkasan and the rest were offered as fancy Asian, not as fusion."
+    },
+    {
+      "name": "r/LondonFood - Looking for great fusion restaurants for 'meet the team' dinner",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+      "scope": "fusion",
+      "tier": "E",
+      "names": [
+        "East West Pizza",
+        "Angelina",
+        "SUSHISAMBA Heron Tower",
+        "AngloThai",
+        "Fatt Pundit",
+        "Osteria Angelina",
+        "Los Mochis",
+        "Jikoni",
+        "Coya"
+      ],
+      "dated": "2026-06-13",
+      "ranked": false,
+      "quotes": {
+        "East West Pizza": "'East West - Shoreditch.'",
+        "Angelina": "Named by four separate commenters - 'went last week for their tasting menu with wine pairing and it was up there as one of the best meals ive had in ages'.",
+        "SUSHISAMBA Heron Tower": "Named by three commenters.",
+        "AngloThai": "Named by three commenters.",
+        "Fatt Pundit": "Listed under 'more upscale'.",
+        "Osteria Angelina": "'Japanese-Italian and a short walk from Liverpool Street.'",
+        "Los Mochis": "'Los Mochis city.'",
+        "Jikoni": "Named once.",
+        "Coya": "'Sushi Samba or Coya if there is a decent budget' - disputed in reply: 'Wouldn't really classify coya as fusion - just elevated South American inspired.'"
+      },
+      "note": "22 comments. London On The Inside's own account posted its fusion list into the thread; that comment is not counted. Korean Dinner Party, also suggested, closed in July 2026 (The Caterer)."
+    },
+    {
+      "name": "r/LondonFood - Indo Chinese recommendations in London",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/",
+      "scope": "fusion",
+      "tier": "E",
+      "names": [
+        "Dalchini",
+        "Tangra",
+        "China Bistro",
+        "Regency Club",
+        "Bombay Chow",
+        "Hakkaland"
+      ],
+      "dated": "2026-01-25",
+      "ranked": false,
+      "quotes": {
+        "Dalchini": "'The long-standing Dalchini by Wimbledon Park tube'; a reply: 'I went in November, can confirm it's still excellent.'",
+        "Tangra": "Split: 'Tangra was so disappointing' against 'I loved the Kofta!'",
+        "China Bistro": "'Dalchini in Wimbledon Park or China Bistro in Ealing.'",
+        "Regency Club": "Named, then corrected in reply as a desi pub 'of the Gujarati/east African tradition, rather than indo-chinese'.",
+        "Bombay Chow": "'Bombay Chow in Northwood. It's not on the level of the indochinese places in Mumbai but it's decent.'",
+        "Hakkaland": "'Hakkaland in Harrow' - and a later reply, 6 August 2026: 'Its closed'."
+      },
+      "note": "40 comments. Desi pubs with an Indo-Chinese sub-menu (Crown & Pepper, the Crown of Bromley, Pepper Spice) are not recorded - the restaurant is not built on the pairing."
+    },
+    {
+      "name": "r/LondonFood - Best indo-chinese food in London?",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1qt2z7v/best_indochinese_food_in_london/",
+      "scope": "fusion",
+      "tier": "E",
+      "names": [
+        "Fatt Pundit",
+        "Bombay Chow",
+        "Dalchini",
+        "China Bistro",
+        "Tangra"
+      ],
+      "dated": "2026-02-01",
+      "ranked": false,
+      "quotes": {
+        "Fatt Pundit": "Split: 'genuinely my favourite meal in London' against 'way too Tapas-Style for Indian Chinese, and it suffers from the Soho \"small plate\" tax'.",
+        "Bombay Chow": "'Bombay Chow (same owner as fatt Pundit) in northolt'.",
+        "Dalchini": "'Dalchini in Wimbledon Park. Supposedly the first indo-chinese spot in London. Can confirm it's very nice.'",
+        "China Bistro": "'China Bistro in ealing is pretty good.'",
+        "Tangra": "Negative: 'AT ALL COSTS - AVOID TANGRA'; 'barely edible'; one dissent, 'i really enjoyed my visit'."
+      },
+      "note": "25 comments. reddit.com counts as one domain in build-evidence, so this thread and the one above give each venue at most one tier-E citation between them."
+    },
+    {
+      "name": "r/london - Filipino/Bengali restaurant in London",
+      "url": "https://www.reddit.com/r/london/comments/1hxb7zp/filipinobengali_restaurant_in_london/",
+      "scope": "fusion",
+      "tier": "E",
+      "names": [
+        "Bintang"
+      ],
+      "dated": "2025-01-09",
+      "ranked": false,
+      "quotes": {
+        "Bintang": "'It's Bintang in Kentish Town. It's under the Maginhawa Group (Mamason's, Panadera and Donia restaurant)'; 'more Filipino/Malay/Indonesian fusion than being particularly Bengali'."
+      }
+    }
+  ],
+  "declined": [
+    {
+      "source": "SquareMeal - 24 Fusion Restaurants near London",
+      "url": "https://www.squaremeal.co.uk/restaurants/london/fusion",
+      "why": "A distance-filtered directory with paid listing badges, not an editorial list - its Fusion tag pulls in Sketch, STK and an afternoon tea. Same reason as the Peruvian pass."
+    },
+    {
+      "source": "London Best Eats - London's Best Fusion Restaurants",
+      "url": "https://www.londonbesteats.com/cuisine/fusion",
+      "why": "A directory category, not a list anyone wrote: its 13 'fusion' entries include Rogue Sarnies, Brew & Barrel and an oyster shack."
+    },
+    {
+      "source": "booknbook.london - 14 Best Fusion cuisine Restaurants in London 2026",
+      "url": "https://www.booknbook.london/listing/cuisine-style/fusion-cuisine",
+      "why": "Booking directory; its Fusion tag holds Tower Tandoori and Umu. No writer, no visit."
+    },
+    {
+      "source": "nox-agency - The TOP 10 Fusion Restaurants in London",
+      "url": "https://nox-agency.com/london/guides/best-fusion-restaurants-london",
+      "why": "Nightlife concierge page; lists The Ivy, Gymkhana and Hakkasan as fusion. Content-farm shape - first-name byline, no evidence of a visit."
+    },
+    {
+      "source": "Quintessentially - The 10 Best Fusion Restaurants in London",
+      "url": "https://quintessentially.com/noted/london-fusion-restaurants",
+      "why": "permanent403 in data/sources.json."
+    },
+    {
+      "source": "The Caterer - The F-word is back: how chefs are cooking up fusion food",
+      "url": "https://www.thecaterer.com/indepth/the-f-word-is-back-how-chefs-are-cooking-up-fusion-food",
+      "why": "Paywalled trade feature (Tome Morrissy-Swan, 6 October 2025); body not readable."
+    },
+    {
+      "source": "The Week - Tuck in to British fusion cuisine",
+      "url": "https://theweek.com/culture-life/food-drink/tuck-in-to-british-fusion-cuisine",
+      "why": "Syndication: a round-up of Reader's Digest and the Evening Standard; its one venue (Cafe Britaly) is the Standard's."
+    },
+    {
+      "source": "MICHELIN Guide - 8 Restaurants Putting Fusion Food Back on the Map",
+      "url": "https://guide.michelin.com/gb/en/article/travel/best-fusion-food-around-the-world",
+      "why": "Trap 12: a world round-up, not London."
+    },
+    {
+      "source": "JOLLY (YouTube) - Two Brits try the OLDEST Fusion food in the World!",
+      "url": "https://www.youtube.com/watch?v=A9MtssqRJYY",
+      "why": "Trap 12 (Macau) and sponsored: 'Thanks to the Macao Government Tourism Office for sponsoring this episode.'"
+    },
+    {
+      "source": "National Restaurant Awards 2025 top 100",
+      "url": "https://www.nationalrestaurantawards.co.uk/list/1-50",
+      "why": "Read in full. The fusion-adjacent London entries - AngloThai #14, KOL #52, Kudu #64, Ikoyi #24 - describe one cuisine cooked with British or global produce on their own sites, so none meets this topic's definition. Zero in-scope names, so not recorded as a source (trap 8)."
+    },
+    {
+      "source": "r/LondonFood - Double Knot Caribbean Fusion Food (invite)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1m2y87n/double_knot_caribbean_fusion_food_in_north_london/",
+      "why": "Hosted visit - '(invite)' in the title."
+    },
+    {
+      "source": "r/LondonFood - Afro-Caribbean Fusion Food in Chingford (invite)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1m8s4ly/just_tried_this_afrocaribbean_fusion_food_in/",
+      "why": "Hosted visit - '(invite)' in the title."
+    },
+    {
+      "source": "Ghazala's Food and Travel (YouTube) - Shoyu Groupon review",
+      "url": "https://www.youtube.com/watch?v=C9GW2gyBxyA",
+      "why": "A voucher-deal review of a 'Korean fusion' menu whose dishes (katsu, bao, gyoza, red curry) are pan-Asian; 52 views."
+    }
+  ]
+}

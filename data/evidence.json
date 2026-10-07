@@ -2244,17 +2244,24 @@
   "eastwestpizza": {
     "name": "East West Pizza",
     "topics": [
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "fusion"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 E1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "C1 E1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -2263,6 +2270,12 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "'East West - Shoreditch.'"
       }
     ]
   },
@@ -17564,16 +17577,23 @@
     "name": "Cue Point",
     "topics": [
       "barbecue",
+      "fusion",
       "halal"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
+    "sourceCount": 6,
+    "tierSpread": "B4 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "barbecue": {
         "sourceCount": 5,
         "tierSpread": "B4 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -17609,6 +17629,12 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/best-bbq-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'Texas-style BBQ with Afghan spices'; 41 Bramley Road W10."
       }
     ]
   },
@@ -19204,19 +19230,26 @@
     "name": "Sucre",
     "topics": [
       "barbecue",
+      "fusion",
       "instagrammable",
       "steak"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 6,
+    "tierSpread": "A1 B4 C1",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "barbecue": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
       },
       "instagrammable": {
         "sourceCount": 2,
@@ -19232,6 +19265,12 @@
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+        "quote": "Selected, 2026 guide (cuisine 'Latin American'). 'A former concert hall provides an eye-catching setting for this buzzing eatery combining influences ranging from Argentina to the Mediterranean.'"
+      },
       {
         "tier": "B",
         "source": "The Handbook",
@@ -29805,11 +29844,12 @@
     "name": "Jikoni",
     "topics": [
       "breakfast-brunch",
-      "british"
+      "british",
+      "fusion"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "A1 B2 E1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "breakfast-brunch": {
@@ -29823,6 +29863,12 @@
         "tierSpread": "A1 B1",
         "tierCount": 2,
         "hasAward": true
+      },
+      "fusion": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 E1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
@@ -29835,6 +29881,18 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/food-and-drink/one-of-londons-best-fusion-restaurants-is-heading-over-to-the-new-v-and-a-east-museum",
+        "quote": "'One of London's best fusion restaurants'; 'its exploration of global fusion cookery'. Reports the second site, Cafe Jikoni, opening at V&A East in Stratford on 18 April 2026."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "Named once."
       }
     ]
   },
@@ -41795,18 +41853,25 @@
     "name": "AngloThai",
     "topics": [
       "british",
+      "fusion",
       "general",
       "thai"
     ],
-    "sourceCount": 9,
-    "tierSpread": "A1 B5 C3",
-    "tierCount": 3,
+    "sourceCount": 10,
+    "tierSpread": "A1 B5 C3 E1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
         "hasAward": false
       },
       "general": {
@@ -41868,6 +41933,12 @@
         "tier": "C",
         "source": "PS London",
         "url": "https://www.ps-london.com/thai-fine-dining-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "Named by three commenters."
       }
     ]
   },
@@ -42548,19 +42619,26 @@
     "name": "KOL",
     "topics": [
       "british",
+      "fusion",
       "general",
       "instagrammable",
       "mexican"
     ],
-    "sourceCount": 13,
-    "tierSpread": "A1 B8 C4",
-    "tierCount": 3,
+    "sourceCount": 14,
+    "tierSpread": "A1 B8 C4 E1",
+    "tierCount": 4,
     "hasAward": true,
     "byTopic": {
       "british": {
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
         "hasAward": false
       },
       "general": {
@@ -42648,6 +42726,12 @@
         "tier": "C",
         "source": "Chicome",
         "url": "https://chicome.co.uk/best-mexican-restaurants-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/10tv12e/fancy_asian_fusion_restaurants_in_london/",
+        "quote": "'Kol... is (kind of) British Mexican fusion, think Mexican dishes with British ingredients.'"
       }
     ]
   },
@@ -47088,11 +47172,12 @@
     "topics": [
       "british",
       "filipino",
+      "fusion",
       "general",
       "new-openings"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A1 B2 C2",
+    "sourceCount": 7,
+    "tierSpread": "A1 B3 C3",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -47105,6 +47190,12 @@
       "filipino": {
         "sourceCount": 5,
         "tierSpread": "A1 B2 C2",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "fusion": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
         "tierCount": 3,
         "hasAward": true
       },
@@ -47140,6 +47231,12 @@
         "quote": "Ranked #13 of 25. 'The tempura cod pandesal is non-negotiable, the mushroom arroz caldo makes risotto look basic'"
       },
       {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Filipino & French'. 'Just a handful of tables, it's always buzzing'; the standout was the cured scallops 'Bicol Express'. Kentish Town."
+      },
+      {
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/filipino-food-london/",
@@ -47150,6 +47247,12 @@
         "source": "The Nudge",
         "url": "https://thenudge.com/belly/",
         "quote": "Belly serves up modern Filipino flavours folded into European bistro techniques, in a lovely little Kentish Town space"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/belly-review-the-french-bistro-serving-filipino-flavour-bombs/",
+        "quote": "Headline: 'The French Bistro Serving Filipino Flavour Bombs'."
       }
     ]
   },
@@ -87391,16 +87494,23 @@
     "name": "Ayllu",
     "topics": [
       "dinner-and-a-show",
+      "fusion",
       "peruvian"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
+    "sourceCount": 4,
+    "tierSpread": "B4",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -87421,6 +87531,12 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Peruvian & Japanese'. Oysters with aji amarillo, mango tiger milk and ponzu; salmon and tuna tacos."
       },
       {
         "tier": "B",
@@ -87553,10 +87669,11 @@
   "inca": {
     "name": "INCA",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "fusion"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 5,
+    "tierSpread": "B4 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -87564,6 +87681,12 @@
         "sourceCount": 4,
         "tierSpread": "B3 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -87585,6 +87708,12 @@
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-party-restaurants-london/",
         "quote": "As 'Inca, Mayfair'."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Japanese & Latin American'; a show restaurant with performers."
       },
       {
         "tier": "C",
@@ -89514,6 +89643,7 @@
     "name": "Straits Kitchen",
     "topics": [
       "dinner-and-a-show",
+      "fusion",
       "seafood"
     ],
     "sourceCount": 2,
@@ -89522,6 +89652,12 @@
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "fusion": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -89544,7 +89680,8 @@
       {
         "tier": "B",
         "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-seafood-restaurants/"
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'South East Asian Flavours and British Techniques'."
       }
     ]
   },
@@ -93612,16 +93749,23 @@
   "bintang": {
     "name": "Bintang",
     "topics": [
-      "filipino"
+      "filipino",
+      "fusion"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 5,
+    "tierSpread": "B2 C1 D1 E1",
+    "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "filipino": {
         "sourceCount": 3,
         "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "D1 E1",
         "tierCount": 2,
         "hasAward": false
       }
@@ -93643,6 +93787,18 @@
         "source": "London x London",
         "url": "https://www.londonxlondon.com/filipino-restaurants-london/",
         "quote": "the Beef Sisig, a sizzling plate of brined beef brisket, chicken chicharrones served with onion, chilli, lime, and an egg"
+      },
+      {
+        "tier": "D",
+        "source": "Eat Pinoy (YouTube)",
+        "url": "https://www.youtube.com/@EATPINOY",
+        "quote": "'We Tried BINTANG RESTAURANT - FILIPINO PAN-ASIAN FUSION', Kentish Town."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1hxb7zp/filipinobengali_restaurant_in_london/",
+        "quote": "'It's Bintang in Kentish Town. It's under the Maginhawa Group (Mamason's, Panadera and Donia restaurant)'; 'more Filipino/Malay/Indonesian fusion than being particularly Bengali'."
       }
     ]
   },
@@ -93837,67 +93993,6 @@
         "tier": "D",
         "source": "Ron Digao (YouTube)",
         "url": "https://www.youtube.com/@rondigao"
-      }
-    ]
-  },
-  "ramoramen": {
-    "name": "Ramo Ramen",
-    "topics": [
-      "filipino",
-      "halal",
-      "japanese"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B4 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "filipino": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "halal": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Eater London",
-        "url": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food",
-        "quote": "Ramo's award-winning oxtail kare kare ramen takes inspiration from the classic Filipino dish using peanut beef broth and pulled oxtail"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/blog/best-filipino-restaurants-london",
-        "quote": "All their meat is halal-certified too"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
-      },
-      {
-        "tier": "B",
-        "source": "Ideal Magazine",
-        "url": "https://idealmagazine.co.uk/best-ramen-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/send-noods-londons-hottest-udon-ramen-shops/"
       }
     ]
   },
@@ -98998,6 +99093,1798 @@
         "tier": "B",
         "source": "Ideal Magazine",
         "url": "https://idealmagazine.co.uk/best-fried-chicken-london/"
+      }
+    ]
+  },
+  "losmochislondoncity": {
+    "name": "Los Mochis London City",
+    "topics": [
+      "fusion",
+      "japanese",
+      "mexican",
+      "rooftop"
+    ],
+    "sourceCount": 10,
+    "tierSpread": "A1 B4 C4 E1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 4,
+        "tierSpread": "A1 C2 E1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "mexican": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "rooftop": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/restaurants/london/fusion",
+        "quote": "The only restaurant under Harden's London 'Fusion' heading ('View full listings of 1 Fusion London Restaurants'). Reader-survey write-up: 'With its eclectic Mexican/Japanese fusion fare', the Notting Hill and Liverpool Street duo are 'a great location for drinks and snacks with fabulous cocktails and tacos'; 'it is easy to rack up a large bill and service can be erratic', mostly at the newer EC2 branch. Price £59, Food 3."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/best-mexican-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-mexican-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/rooftop-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'A Japanese-Mexican menu that's also entirely gluten- and nut-free'; Notting Hill and the City."
+      },
+      {
+        "tier": "C",
+        "source": "Foodepedia",
+        "url": "https://www.foodepedia.co.uk/restaurant-reviews/los-mochis-where-tokyo-meets-tulum-in-the-city-of-london-review/",
+        "quote": "'Where Tokyo meets Tulum in the City of London.' Reviewed at the Broadgate rooftop site."
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/rooftop-restaurants-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "'Los Mochis city.'"
+      }
+    ]
+  },
+  "angelina": {
+    "name": "Angelina",
+    "topics": [
+      "fusion",
+      "italian",
+      "japanese"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "A1 B4 C1 D1 E1",
+    "tierCount": 5,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 7,
+        "tierSpread": "A1 B3 C1 D1 E1",
+        "tierCount": 5,
+        "hasAward": true
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+        "quote": "Selected, 2026 guide; cuisine filed as 'Italian and Japanese' - one of only two London restaurants under that label. 'Few people would think of combining Italian and Japanese cuisine, but the unusual fusion works a treat at this fun neighbourhood spot owned by two friends... a kondate-style tasting menu.'"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/",
+        "quote": "'Combines two unlikely cuisines - Italian and Japanese'; tasting-menu only. 'Hamachi saltimbocca, focaccia with umeboshi.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Japanese & Italian'. Recommends the Shinjuku Albatross cocktail."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/angelina",
+        "quote": "4 stars (Leonie Cooper): 'A chic fusion restaurant serving a Japanese-Italian set menu.'"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'A mash-up of Japanese and Italian food'; chawanmushi with wagyu Bolognese."
+      },
+      {
+        "tier": "D",
+        "source": "Randomly Food (YouTube)",
+        "url": "https://www.youtube.com/@RandomlyFood",
+        "quote": "Chapter at 14:04: 'the upscale Angelina for a luxury Italian-Japanese tasting menu'."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "Named by four separate commenters - 'went last week for their tasting menu with wine pairing and it was up there as one of the best meals ive had in ages'."
+      }
+    ]
+  },
+  "osteriaangelina": {
+    "name": "Osteria Angelina",
+    "topics": [
+      "fusion",
+      "general",
+      "italian",
+      "new-openings"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B4 E1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 5,
+        "tierSpread": "A1 B3 E1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "italian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+        "quote": "Selected, 2026 guide; cuisine 'Italian and Japanese'. 'Whereas the original Japanese-Italian Angelina in Dalston is centred around a kaiseki-style set menu, here at the more casual and bigger Osteria, the focus is more on grilling over binchotan and the flexibility of a sizeable a la carte.'"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/osteria-angelina",
+        "quote": "5 stars (Chiara Wilkinson): 'Japanese-Italian fusion in a glossy Shoreditch space.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/osteria-angelina",
+        "quote": "'A dependably lively Shoreditch Itameshi restaurant with decadent pasta dishes'; headline calls it 'an Itameshi bar making some of London's best pasta'."
+      },
+      {
+        "tier": "B",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/food/2025/jun/08/osteria-angelina-london-e1-grace-dent-restaurant-review",
+        "quote": "The Spitalfields second site of Angelina; Dent mourns the white balsamic dressing on the tempura agretti."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "'Japanese-Italian and a short walk from Liverpool Street.'"
+      }
+    ]
+  },
+  "sollip": {
+    "name": "Sollip",
+    "topics": [
+      "fusion",
+      "general",
+      "korean"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "A2 B2 C2 D1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 5,
+        "tierSpread": "A2 B1 C1 D1",
+        "tierCount": 4,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+        "quote": "ONE MICHELIN STAR, 2026 guide (cuisine 'Creative'). 'The Korean husband-and-wife team combine skills learnt in Europe's top kitchens with techniques and flavours from their homeland... a clever re-working of tarte Tatin with daikon.'"
+      },
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/restaurant/sollip/id/44032",
+        "quote": "Filed under 'Global'. Overall rating: Very Good. 'It's all about the food at Sollip - a \"serious and grown-up dining experience\"... the signature daikon tarte tatin embellished with kimchi, toasted barley, roasted potato and burnt hay.'"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/sollip",
+        "quote": "5 stars (Leonie Cooper): 'Michelin-star Korean-styled gastronomic magic in the Bermondsey backstreets.'"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "Dish Cult",
+        "url": "https://www.dishcult.com/articles/the-best-fusion-spots-in-london",
+        "quote": "Tagged 'Korean, European'; 'wild sea bass with fermented tzatziki and daikon tarte tatin'."
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      },
+      {
+        "tier": "D",
+        "source": "SCOOP OF RICE (YouTube)",
+        "url": "https://www.youtube.com/@scoopofrice",
+        "quote": "'London Fine dining - Korean French Fusion'; 'SO worth it'."
+      }
+    ]
+  },
+  "calong": {
+    "name": "Cálong",
+    "topics": [
+      "fusion",
+      "general",
+      "korean"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "A2 B4 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 5,
+        "tierSpread": "A2 B3",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "general": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+        "quote": "BIB GOURMAND, 2026 guide (cuisine 'Korean'). 'His appealingly priced blackboard menu is a great mix of European cuisine with subtle Korean flavours. \"Joo's Fried Chicken\" has understandably been on the menu since Day One.'"
+      },
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/restaurant/calong/id/82916",
+        "quote": "Filed under 'Korean Fusion' - the only restaurant in this pass the GFG labels fusion. 'Effortlessly cool modern Korean bistro.' Overall rating: Very Good. 'Calong is one of those places you keep going back to.' Page carries a 'Best Local Restaurant' tag."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/calong",
+        "quote": "4 stars (Leonie Cooper): 'Korean/European fusion in a romantic Stokey space.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/calong",
+        "quote": "'Cool, creative Korean escapism from small plates deja vu... the Korean remixes at this Stoke Newington spot are totally original.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/food/2025/mar/28/calong-london-n16-grace-dent-restaurant-review",
+        "quote": "'This is not a Korean restaurant, but neither is it not a Korean restaurant.'"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/map/korean-restaurants/"
+      }
+    ]
+  },
+  "bardespres": {
+    "name": "Bar Des Prés",
+    "topics": [
+      "fusion",
+      "new-openings"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B4",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 5,
+        "tierSpread": "A1 B4",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+        "quote": "Selected, 2026 guide; cuisine 'Asian Influences'. Cyril Lignac's Mayfair room: 'The menu takes in a range of influences from across Asia and the Mediterranean in well-crafted dishes such as salmon and otoro nigiri or Scottish langoustine ravioli.'"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/",
+        "quote": "'A Franco-East Asian menu'; Cyril Lignac's first international venture. 'Saint-Jacques scallops with ponzu and beurre de brioche... the well-documented avocado and crab galette.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'French & Japanese'."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/bar-des-pres",
+        "quote": "Rated 7.9. 'A pricey restaurant and bar in Mayfair serving a mix of Japanese and French influenced dishes in a dimly-lit room.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/food/2021/jun/18/bar-des-pres-london-w1-the-8-vanilla-flavoured-mash-reawakened-my-inner-witch-restaurant-review",
+        "quote": "Headline: 'the £8 vanilla-flavoured mash reawakened my inner witch'. A critical review."
+      }
+    ]
+  },
+  "fan": {
+    "name": "Fan",
+    "topics": [
+      "fusion",
+      "peruvian"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B2",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      },
+      "peruvian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Michelin Guide",
+        "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants",
+        "quote": "Selected, 2026 guide (cuisine 'South American'). 'Three childhood friends from Lima are behind this West London restaurant offering \"neo-Nikkei\" cuisine... the omakase menu, where common Nikkei dishes like ceviche and tiradito sit alongside a creative nigiri selection.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/fan",
+        "quote": "'An omakase Nikkei restaurant in Notting Hill serving a mix of Japanese dishes with Peruvian and Chinese flavours.'"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
+        "quote": "#16 of 20. ‘Neo-Nikkei’ in Notting Hill. Nigiri with aji-amarillo or pachikay. £120 signature tasting menu, £39 day menu."
+      }
+    ]
+  },
+  "logma": {
+    "name": "Logma",
+    "topics": [
+      "fusion",
+      "middle-eastern"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "A1 B3 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "middle-eastern": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/restaurant/logma/id/97456",
+        "quote": "Filed under 'Iranian / Iraqi'. 'Welcoming neighbourhood café and supper club that hits the spot.' Overall rating: Very Good. 'Set up by Ziad Halub and Farsin Rabiee, Logma (the name means \"perfect bite\")...' Page carries a 'Best Local Restaurant' tag."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/logma",
+        "quote": "5 stars (Suzie Bakos): 'Incredible Iranian-Iraqi fusion cafe with a weekly supper club.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/logma",
+        "quote": "Rated 8.3. 'An Iraqi-Iranian cafe with big, heaving sourdough pitas that draw big, happy Hackney crowds.'"
+      },
+      {
+        "tier": "B",
+        "source": "Fact Magazines",
+        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'Iranian-Iraqi concept' gone permanent in Hackney after a supper-club run."
+      }
+    ]
+  },
+  "coya": {
+    "name": "Coya",
+    "topics": [
+      "fusion",
+      "peruvian",
+      "steak"
+    ],
+    "sourceCount": 10,
+    "tierSpread": "A1 B5 C3 E1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 3,
+        "tierSpread": "B2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "peruvian": {
+        "sourceCount": 7,
+        "tierSpread": "A1 B3 C3",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/restaurants/london/peruvian/",
+        "quote": "'The Mayfair original of Arjun Waney's vibey Peruvian chain (motto Find your inner Inca) is still, say fans, a great place for something different', though a reporter thought the meal 'came at an excessive price'. Price £120."
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/",
+        "quote": "'A fusion menu of authentic Peruvian dishes with Japanese and Spanish influences.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Latin American & Japanese'; snow crab taco."
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
+        "quote": "#18 of 20. 'Peruvian plates in an extravagant setting'... 'You go to Coya when you want to be seen.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/peruvian-restaurants-london/",
+        "quote": "31-33 Throgmorton St, EC2N 2AT. 'More than 400sqm, with three open kitchens, multiple dining areas, a Pisco Lounge and a dedicated ceviche counter.'"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/best-peruvian-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/peruvian-restaurant-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/peruvian-restaurants-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "'Sushi Samba or Coya if there is a decent budget' - disputed in reply: 'Wouldn't really classify coya as fusion - just elevated South American inspired.'"
+      }
+    ]
+  },
+  "chottomatte": {
+    "name": "Chotto Matte",
+    "topics": [
+      "fusion",
+      "halal",
+      "japanese",
+      "peruvian"
+    ],
+    "sourceCount": 9,
+    "tierSpread": "B5 C2 D1 E1",
+    "tierCount": 4,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 4,
+        "tierSpread": "B2 D1 E1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "halal": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "peruvian": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/",
+        "quote": "Kurt Zdesar's Nikkei room - 'a fusion of Japanese and Peruvian elements'. 'Gyoza alongside tostadas, wagyu beef on the robata grill.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Peruvian & Japanese'. Truffled prawn tempura, A5 wagyu, tuna tostadas."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
+        "quote": "#19 of 20. 'An international chain devoted to all-things Nikkei', six global locations."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/peruvian-restaurants-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Gordon CK Ho (YouTube)",
+        "url": "https://www.youtube.com/@gordonckho",
+        "quote": "'Tasting Peruvian Japanese fusion food!' - dish-by-dish ratings at the Soho site."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/10tv12e/fancy_asian_fusion_restaurants_in_london/",
+        "quote": "'Chotto Matte is great - Japanese-Peruvian fusion.'"
+      }
+    ]
+  },
+  "penelopes": {
+    "name": "Penelope's",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/",
+        "quote": "'The Israeli-Spanish menu'; sea bream tartare with gazpacho and caviar. Hotel Amano, Covent Garden."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/fusion-restaurants-london/",
+        "quote": "'Israeli-Spanish fusion cuisine' in Hotel Amano Covent Garden; Israeli-style paella with octopus, baklava cheesecake."
+      }
+    ]
+  },
+  "fattpundit": {
+    "name": "Fatt Pundit",
+    "topics": [
+      "fusion",
+      "indian"
+    ],
+    "sourceCount": 10,
+    "tierSpread": "B4 C2 D3 E1",
+    "tierCount": 4,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 8,
+        "tierSpread": "B3 C2 D2 E1",
+        "tierCount": 4,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/",
+        "quote": "'The fusion of traditional Chinese techniques and bold Indian flavours' from Kolkata's street carts; kid goat momos with cardamom."
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Indian & Chinese'. Hakka cooking from Kolkata."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/fatt-pundit-covent-garden",
+        "quote": "Rated 7. 'Nothing is straight-up awful, but there are plenty more spots in the area where you can get a better meal.' Covent Garden branch."
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'Indo-Chinese food - fusion food from Tangra in Kolkata.'"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/fatt-pundit-covent-garden/",
+        "quote": "Julianna Barnaby. 'Hailing from the Tangra area of Kolkata, Fatt Pundit's food sits at the meeting point between Canton, Guangdong and Kolkattan cuisines'; kid goat momo with garam masala."
+      },
+      {
+        "tier": "D",
+        "source": "Randomly Food (YouTube)",
+        "url": "https://www.youtube.com/@RandomlyFood",
+        "quote": "Chapter at 06:45."
+      },
+      {
+        "tier": "D",
+        "source": "London Ki Lali (YouTube)",
+        "url": "https://www.youtube.com/@LondonkiLali",
+        "quote": "'INDO-CHINESE IN SOHO... BRUTALLY HONEST REVIEW'; 'after a lot of recommendations I had very high expectations'. 77 Berwick Street."
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "Listed under 'more upscale'."
+      }
+    ]
+  },
+  "sushisambaherontower": {
+    "name": "SUSHISAMBA Heron Tower",
+    "topics": [
+      "fusion",
+      "hotels-covent-garden",
+      "instagrammable",
+      "japanese",
+      "late-night",
+      "peruvian",
+      "rooftop"
+    ],
+    "sourceCount": 15,
+    "tierSpread": "A1 B7 C6 E1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 3,
+        "tierSpread": "B2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "hotels-covent-garden": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "japanese": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "peruvian": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
+      },
+      "rooftop": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Harden's",
+        "url": "https://www.hardens.com/restaurants/london/peruvian/",
+        "quote": "'Fun but fully priced'... 'its luxurious Latino-meets-Japanese bites are super-moreish and consistently good.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Japanese, Brazilian & Peruvian'."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/sushisamba",
+        "quote": "Rated 3. 'The views are undeniably excellent. Almost everything else is appalling.' Named, not endorsed."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
+        "quote": "#20 of 20. 'Might not be the most authentic or traditional, but it's a hell of a lot of fun.' Peruvian-Brazilian-Japanese, skewing Japanese."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/rooftop-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-rooftop-restaurants/"
+      },
+      {
+        "tier": "C",
+        "source": "Sunny in London",
+        "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
+      },
+      {
+        "tier": "C",
+        "source": "anoushkaprobyn.com",
+        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Balance Journal",
+        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/rooftop-restaurants-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Rooftop Guide",
+        "url": "https://www.therooftopguide.com/rooftop-news/best-rooftop-restaurants-in-london.html",
+        "quote": "'Found on the 38th and 39th floor of the Heron Tower... a very stylish indoor dining room with floor-to-ceiling panoramic glass windows, as well as two outdoor terraces.' Large plates about £50."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1u4idlx/looking_for_great_fusion_restaurants_for_meet_the/",
+        "quote": "Named by three commenters."
+      }
+    ]
+  },
+  "ubashoreditch": {
+    "name": "UBA Shoreditch",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Asian & British'. Hamachi ceviche tacos, prawn har gow."
+      }
+    ]
+  },
+  "farzi": {
+    "name": "Farzi",
+    "topics": [
+      "fusion",
+      "indian"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Indian & Italian'; dal chawal arancini."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/fusion-restaurants-london/",
+        "quote": "'Butter chicken bao, an incredible truffle naan, and a quirky saag burrata.'"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
+      }
+    ]
+  },
+  "stork": {
+    "name": "Stork",
+    "topics": [
+      "fusion",
+      "west-african"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "west-african": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'African & Caribbean' with modern European technique; mixed shellfish egusi."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/fusion-restaurants-london/",
+        "quote": "'Flies from Eastern Europe to Western Africa, picking up flavours'; lamb shoulder with jollof cous cous."
+      },
+      {
+        "tier": "D",
+        "source": "Ugo Arinzeh (YouTube)",
+        "url": "https://www.youtube.com/@UgoArinzeh"
+      }
+    ]
+  },
+  "nopi": {
+    "name": "NOPI",
+    "topics": [
+      "fusion",
+      "middle-eastern"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/london-fusion-menus/",
+        "quote": "Labelled 'Middle Eastern & Mediterranean'."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/food-and-drink/fusion-restaurants-london/",
+        "quote": "'A mixture of Mediterranean, Middle Eastern and Asian cuisines.'"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
+      }
+    ]
+  },
+  "shankeys": {
+    "name": "Shankeys",
+    "topics": [
+      "fusion",
+      "indian"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "indian": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/shankeys",
+        "quote": "5 stars (Huw Oliver): 'Friendly Indian-Irish fusion food in Hackney, as well as cocktails containing Kerrygold butter.'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/shankeys",
+        "quote": "Rated 8.6. 'An Indian-Irish restaurant in Hackney - like being at a wedding reception when the free bar has been in play for a couple of hours.'"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'Indian-Irish small plates served out of an old bookies.'"
+      }
+    ]
+  },
+  "bamboomat": {
+    "name": "Bamboo Mat",
+    "topics": [
+      "fusion",
+      "peruvian"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "peruvian": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/bamboo-mat",
+        "quote": "4 stars: 'ex-Chotto Matte team bring intriguing Peruvian-Japanese food to Leyton.' Reviewed at the original Leyton site."
+      },
+      {
+        "tier": "B",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/food/2022/jun/03/bamboo-mat-london-e10-grace-dent-restaurant-review",
+        "quote": "'It's impossible not to want this place to succeed.' Explains Nikkei as 'where Japanese cuisine meets Peruvian'."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/peruvian-restaurants-in-london"
+      }
+    ]
+  },
+  "mexicanseoul": {
+    "name": "Mexican Seoul",
+    "topics": [
+      "fusion",
+      "korean"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/mexican-seoul",
+        "quote": "Rated 7.8. 'A Mexican-Korean street food spot in Hackney with the kind of lovable energy usually reserved for litters of Andrex puppies.'"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'Mexican-Korean fusion'; elote-style corn ribs with miso mayo. 221 Grove Road E3."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/korean-restaurants-london/"
+      }
+    ]
+  },
+  "tangra": {
+    "name": "Tangra",
+    "topics": [
+      "fusion",
+      "new-openings"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 D2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 4,
+        "tierSpread": "B1 D2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "new-openings": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/tangra",
+        "quote": "'A neon-lit Soho spot with diner-like booths you can pile into until 1:30am.'"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Food with Chetna (YouTube)",
+        "url": "https://www.youtube.com/@FoodwithChetna",
+        "quote": "'LONDON'S BEST INDIAN RESTAURANT - Hidden gems in London - Indo-Chinese!' Chetna Makan, kitchen visit and tasting."
+      },
+      {
+        "tier": "D",
+        "source": "Just Veganin (YouTube)",
+        "url": "https://www.youtube.com/@JustVeganin",
+        "quote": "'Tangra - Best Vegetarian Indo-Chinese in London'; 'brings together two incredible cuisines'. Manchurian kofta, truffle bao."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/",
+        "quote": "Split: 'Tangra was so disappointing' against 'I loved the Kofta!'"
+      }
+    ]
+  },
+  "pakotaco": {
+    "name": "Pako Taco",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "'South Asian spice, Mexican soul' - Pakistani-Mexican; Netil Market and the Antwerp Arms, Tottenham."
+      }
+    ]
+  },
+  "jurkish": {
+    "name": "Jurkish",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/",
+        "quote": "Naz Ramadan's 'Jamaican and Turkish Cypriot heritage'; curry goat manti, saltfish borek. 157-159 Rye Lane, Peckham."
+      }
+    ]
+  },
+  "peckhambazaar": {
+    "name": "Peckham Bazaar",
+    "topics": [
+      "fusion",
+      "greek"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "greek": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Dish Cult",
+        "url": "https://www.dishcult.com/articles/the-best-fusion-spots-in-london",
+        "quote": "Tagged 'Eastern Mediterranean, Balkan'."
+      }
+    ]
+  },
+  "littlebirdchiswick": {
+    "name": "Little Bird Chiswick",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Dish Cult",
+        "url": "https://www.dishcult.com/articles/the-best-fusion-spots-in-london",
+        "quote": "'The flavours of Japan and Goa (with a nod to the flavours of Mexico and the med too).'"
+      }
+    ]
+  },
+  "hareandtortoise": {
+    "name": "Hare and Tortoise",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Dish Cult",
+        "url": "https://www.dishcult.com/articles/the-best-fusion-spots-in-london",
+        "quote": "'Dishes inspired by Japanese, Chinese, and Vietnamese cuisines.'"
+      }
+    ]
+  },
+  "yumsa": {
+    "name": "Yum Sa",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Dish Cult",
+        "url": "https://www.dishcult.com/articles/the-best-fusion-spots-in-london",
+        "quote": "Tagged 'Thai, European'; seafood tom yum paella. Putney."
+      }
+    ]
+  },
+  "myhiro": {
+    "name": "My Hiro",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Randomly Food (YouTube)",
+        "url": "https://www.youtube.com/@RandomlyFood",
+        "quote": "Chapter in 'Tasting London's Wildest Fusion Foods - Genius Or Just Confusing?' (sushi with falafel and fish fingers, per the description)."
+      }
+    ]
+  },
+  "pimpmyramen": {
+    "name": "Pimp My Ramen",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Randomly Food (YouTube)",
+        "url": "https://www.youtube.com/@RandomlyFood",
+        "quote": "Chapter; the butter chicken udon."
+      }
+    ]
+  },
+  "regencyclub": {
+    "name": "Regency Club",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "D1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 2,
+        "tierSpread": "D1 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Food Review Club (YouTube)",
+        "url": "https://www.youtube.com/@FoodReviewClubUK",
+        "quote": "'London's Famous Regency Club, a Kenyan Indian MEGA fusion!' - 'a family owned business fusing elements from their heritage and culture taking influence from both India and Kenya.' Queensbury, Edgware."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/",
+        "quote": "Named, then corrected in reply as a desi pub 'of the Gujarati/east African tradition, rather than indo-chinese'."
+      }
+    ]
+  },
+  "veganyes": {
+    "name": "Vegan Yes",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "D3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 3,
+        "tierSpread": "D3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Just Veganin (YouTube)",
+        "url": "https://www.youtube.com/@JustVeganin",
+        "quote": "'**VeganYes!** - Vegan Italian/Korea Fusion Restaurant - Brick Lane' (17 June 2018)."
+      },
+      {
+        "tier": "D",
+        "source": "HisKitch (YouTube)",
+        "url": "https://www.youtube.com/@HisKitch",
+        "quote": "'Vegan Yes - Brick Lane | Italian & Korean Fusion Restaurant'; the lasagna kimchi."
+      },
+      {
+        "tier": "D",
+        "source": "Inner Alchemy (YouTube)",
+        "url": "https://www.youtube.com/@InnerAlchemyHub",
+        "quote": "'Italian Korean Vegan Fusion?!' - kimchi lasagna and kimchi bibimbap."
+      }
+    ]
+  },
+  "hakkagarden": {
+    "name": "Hakka Garden",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Travels in India, London & the UK (YouTube)",
+        "url": "https://www.youtube.com/@mr07623445678",
+        "quote": "'Meet Chef Steve Lee, the Chef who introduced Indo-Chinese Cuisine to the UK' - Veg Manchurian, Hakka noodles, Tai Pai paneer. 248 Streatfield Road, Harrow (address from the FSA register)."
+      }
+    ]
+  },
+  "yuukitchen": {
+    "name": "Yuu Kitchen",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/10tv12e/fancy_asian_fusion_restaurants_in_london/",
+        "quote": "'Yuu Kitchen down in Aldgate; Japanese fusion, their miso aubergine is bonkers good.'"
+      }
+    ]
+  },
+  "dalchini": {
+    "name": "Dalchini",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/",
+        "quote": "'The long-standing Dalchini by Wimbledon Park tube'; a reply: 'I went in November, can confirm it's still excellent.'"
+      }
+    ]
+  },
+  "chinabistro": {
+    "name": "China Bistro",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/",
+        "quote": "'Dalchini in Wimbledon Park or China Bistro in Ealing.'"
+      }
+    ]
+  },
+  "bombaychow": {
+    "name": "Bombay Chow",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/",
+        "quote": "'Bombay Chow in Northwood. It's not on the level of the indochinese places in Mumbai but it's decent.'"
+      }
+    ]
+  },
+  "hakkaland": {
+    "name": "Hakkaland",
+    "topics": [
+      "fusion"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "fusion": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/",
+        "quote": "'Hakkaland in Harrow' - and a later reply, 6 August 2026: 'Its closed'."
       }
     ]
   },
@@ -113683,49 +115570,6 @@
       }
     ]
   },
-  "sollip": {
-    "name": "Sollip",
-    "topics": [
-      "general",
-      "korean"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "A1 B1 C1",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 2,
-        "tierSpread": "A1 C1",
-        "tierCount": 2,
-        "hasAward": true
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Michelin Guide",
-        "url": "https://guide.michelin.com/gb/en/restaurants",
-        "quote": "One Michelin star in the 2026 guide."
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
-      }
-    ]
-  },
   "cornus": {
     "name": "Cornus",
     "topics": [
@@ -113936,50 +115780,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "osteriaangelina": {
-    "name": "Osteria Angelina",
-    "topics": [
-      "general",
-      "italian",
-      "new-openings"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
       }
     ]
   },
@@ -114234,48 +116034,6 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      }
-    ]
-  },
-  "calong": {
-    "name": "Cálong",
-    "topics": [
-      "general",
-      "korean"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "general": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "korean": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/korean"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
       }
     ]
   },
@@ -121419,31 +123177,6 @@
       }
     ]
   },
-  "peckhambazaar": {
-    "name": "Peckham Bazaar",
-    "topics": [
-      "greek"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "greek": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants"
-      }
-    ]
-  },
   "aphroditetaverna": {
     "name": "Aphrodite Taverna",
     "topics": [
@@ -122898,66 +124631,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
-      }
-    ]
-  },
-  "chottomatte": {
-    "name": "Chotto Matte",
-    "topics": [
-      "halal",
-      "japanese",
-      "peruvian"
-    ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "halal": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "peruvian": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/best-halal-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
-        "quote": "#19 of 20. 'An international chain devoted to all-things Nikkei', six global locations."
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/best-halal-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/peruvian-restaurants-london/"
       }
     ]
   },
@@ -155419,124 +157092,6 @@
       }
     ]
   },
-  "sushisambaherontower": {
-    "name": "SUSHISAMBA Heron Tower",
-    "topics": [
-      "hotels-covent-garden",
-      "instagrammable",
-      "japanese",
-      "late-night",
-      "peruvian",
-      "rooftop"
-    ],
-    "sourceCount": 12,
-    "tierSpread": "A1 B5 C6",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "hotels-covent-garden": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "peruvian": {
-        "sourceCount": 3,
-        "tierSpread": "A1 B1 C1",
-        "tierCount": 3,
-        "hasAward": true
-      },
-      "rooftop": {
-        "sourceCount": 5,
-        "tierSpread": "B3 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/restaurants/london/peruvian/",
-        "quote": "'Fun but fully priced'... 'its luxurious Latino-meets-Japanese bites are super-moreish and consistently good.'"
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
-        "quote": "#20 of 20. 'Might not be the most authentic or traditional, but it's a hell of a lot of fun.' Peruvian-Brazilian-Japanese, skewing Japanese."
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/rooftop-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/london-rooftop-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "Sunny in London",
-        "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
-      },
-      {
-        "tier": "C",
-        "source": "anoushkaprobyn.com",
-        "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/late-night-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/rooftop-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "The Rooftop Guide",
-        "url": "https://www.therooftopguide.com/rooftop-news/best-rooftop-restaurants-in-london.html",
-        "quote": "'Found on the 38th and 39th floor of the Heron Tower... a very stylish indoor dining room with floor-to-ceiling panoramic glass windows, as well as two outdoor terraces.' Large plates about £50."
-      }
-    ]
-  },
   "jsheeky": {
     "name": "J Sheeky",
     "topics": [
@@ -177372,31 +178927,6 @@
       }
     ]
   },
-  "farzi": {
-    "name": "Farzi",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      }
-    ]
-  },
   "madhu": {
     "name": "Madhu",
     "topics": [
@@ -177530,36 +179060,6 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      }
-    ]
-  },
-  "fattpundit": {
-    "name": "Fatt Pundit",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-indian-restaurants-london/"
-      },
-      {
-        "tier": "D",
-        "source": "Food with Chetna (YouTube)",
-        "url": "https://www.youtube.com/@FoodwithChetna"
       }
     ]
   },
@@ -177750,36 +179250,6 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-indian-restaurants-london"
-      }
-    ]
-  },
-  "shankeys": {
-    "name": "Shankeys",
-    "topics": [
-      "indian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "indian": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
       }
     ]
   },
@@ -181171,43 +182641,6 @@
         "tier": "B",
         "source": "The Sauce",
         "url": "https://thesaucemag.com/best-italian-restaurants-in-london/"
-      }
-    ]
-  },
-  "angelina": {
-    "name": "Angelina",
-    "topics": [
-      "italian",
-      "japanese"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "japanese": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
       }
     ]
   },
@@ -185781,70 +187214,6 @@
       }
     ]
   },
-  "losmochislondoncity": {
-    "name": "Los Mochis London City",
-    "topics": [
-      "japanese",
-      "mexican",
-      "rooftop"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "japanese": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "mexican": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "rooftop": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/best-mexican-restaurants-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/best-mexican-restaurants-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649"
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/rooftop-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Balance Journal",
-        "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/rooftop-restaurants-london/"
-      }
-    ]
-  },
   "tendaiomakase": {
     "name": "Tendai Omakase",
     "topics": [
@@ -187400,41 +188769,6 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/cuisines/korean"
-      }
-    ]
-  },
-  "mexicanseoul": {
-    "name": "Mexican Seoul",
-    "topics": [
-      "korean"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 3,
-        "tierSpread": "B1 C2",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/cuisines/korean"
-      },
-      {
-        "tier": "C",
-        "source": "London the Inside",
-        "url": "https://londontheinside.com/map/korean-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/korean-restaurants-london/"
       }
     ]
   },
@@ -196488,31 +197822,6 @@
       }
     ]
   },
-  "nopi": {
-    "name": "NOPI",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/middle-eastern-restaurants-london/"
-      }
-    ]
-  },
   "balabaya": {
     "name": "Bala Baya",
     "topics": [
@@ -196540,31 +197849,6 @@
   },
   "kebabqueen": {
     "name": "Kebab Queen",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Fact Magazines",
-        "url": "https://www.factmagazines.com/london/food-london-united-kingdom/feast-from-the-east-15-of-the-best-middle-eastern-restaurants-in-london"
-      }
-    ]
-  },
-  "logma": {
-    "name": "Logma",
     "topics": [
       "middle-eastern"
     ],
@@ -202805,31 +204089,6 @@
       }
     ]
   },
-  "bardespres": {
-    "name": "Bar Des Prés",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
-      }
-    ]
-  },
   "soraya": {
     "name": "Soraya",
     "topics": [
@@ -204348,31 +205607,6 @@
   },
   "clio": {
     "name": "Clio",
-    "topics": [
-      "new-openings"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
-      }
-    ]
-  },
-  "tangra": {
-    "name": "Tangra",
     "topics": [
       "new-openings"
     ],
@@ -209262,63 +210496,6 @@
       }
     ]
   },
-  "bamboomat": {
-    "name": "Bamboo Mat",
-    "topics": [
-      "peruvian"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "peruvian": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
-        "quote": "#15 of 20. 'A Nikkei-focused, neon-lit dining space near Stratford station', opened in Leyton before moving to East Village in 2023."
-      },
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/peruvian-restaurants-in-london"
-      }
-    ]
-  },
-  "fan": {
-    "name": "Fan",
-    "topics": [
-      "peruvian"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "peruvian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
-        "quote": "#16 of 20. ‘Neo-Nikkei’ in Notting Hill. Nigiri with aji-amarillo or pachikay. £120 signature tasting menu, £39 day menu."
-      }
-    ]
-  },
   "crudo": {
     "name": "Crudo",
     "topics": [
@@ -209342,71 +210519,6 @@
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
         "quote": "#17 of 20. 'One of London's few stand-alone ceviche spots', opened by Maria and Carlos in Seven Dials."
-      }
-    ]
-  },
-  "coya": {
-    "name": "Coya",
-    "topics": [
-      "peruvian",
-      "steak"
-    ],
-    "sourceCount": 7,
-    "tierSpread": "A1 B3 C3",
-    "tierCount": 3,
-    "hasAward": true,
-    "byTopic": {
-      "peruvian": {
-        "sourceCount": 7,
-        "tierSpread": "A1 B3 C3",
-        "tierCount": 3,
-        "hasAward": true
-      },
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "A",
-        "source": "Harden's",
-        "url": "https://www.hardens.com/restaurants/london/peruvian/",
-        "quote": "'The Mayfair original of Arjun Waney's vibey Peruvian chain (motto Find your inner Inca) is still, say fans, a great place for something different', though a reporter thought the meal 'came at an excessive price'. Price £120."
-      },
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants",
-        "quote": "#18 of 20. 'Peruvian plates in an extravagant setting'... 'You go to Coya when you want to be seen.'"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/peruvian-restaurants-london/",
-        "quote": "31-33 Throgmorton St, EC2N 2AT. 'More than 400sqm, with three open kitchens, multiple dining areas, a Pisco Lounge and a dedicated ceviche counter.'"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/best-peruvian-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/peruvian-restaurant-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/peruvian-restaurants-london/"
       }
     ]
   },
@@ -234755,37 +235867,6 @@
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/west-african-restaurants/",
         "quote": "Islington. 'hearty and attentively cooked Gambian meals'. Dahen and chura gerteh."
-      }
-    ]
-  },
-  "stork": {
-    "name": "Stork",
-    "topics": [
-      "west-african"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "west-african": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/west-african-restuarants-london/",
-        "quote": "'Stork Restaurant brings together a pan-African mix of flavour and techniques in stylish Mayfair', 13-14 Cork Street. Ghanaian red snapper stew, jollof, suya sharing platter."
-      },
-      {
-        "tier": "D",
-        "source": "Ugo Arinzeh (YouTube)",
-        "url": "https://www.youtube.com/@UgoArinzeh"
       }
     ]
   },

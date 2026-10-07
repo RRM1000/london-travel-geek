@@ -159,6 +159,8 @@ It is a drinking and wandering destination, not a sightseeing one, and much of t
 | **Barge East** | Restaurant on a barge | ££ | A restored Dutch barge moored on the River Lea |
 | **Hackney Wick canal bars** | Various | ££ | Best on a summer afternoon |
 
+Bamboo Mat in East Village cooks Nikkei, the Japanese-Peruvian cuisine, and opens every day. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Elizabeth line.** Nine minutes from Liverpool Street, about eighteen from Bond Street. The fastest way in and fully step-free.

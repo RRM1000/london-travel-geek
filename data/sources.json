@@ -956,6 +956,11 @@
       "tier": "C",
       "name": "London Best Eats"
     },
+    "dishcult.com": {
+      "tier": "C",
+      "name": "Dish Cult",
+      "note": "Diner-facing site of a restaurant booking platform; entries carry its own Reserve buttons. Named writers and real visits, but weigh it as the weaker kind of C. Registered 7 Oct 2026 for fusion."
+    },
     "allinlondon.co.uk": {
       "tier": "C",
       "name": "All In London"
@@ -2171,6 +2176,40 @@
     "youtube.com/@SarahHighfield": {
       "tier": "D",
       "name": "Sarah Highfield (YouTube)"
+    },
+    "youtube.com/@scoopofrice": {
+      "tier": "D",
+      "name": "SCOOP OF RICE (YouTube)"
+    },
+    "youtube.com/@gordonckho": {
+      "tier": "D",
+      "name": "Gordon CK Ho (YouTube)"
+    },
+    "youtube.com/@LondonkiLali": {
+      "tier": "D",
+      "name": "London Ki Lali (YouTube)"
+    },
+    "youtube.com/@JustVeganin": {
+      "tier": "D",
+      "name": "Just Veganin (YouTube)"
+    },
+    "youtube.com/@Feedthelion": {
+      "tier": "D",
+      "name": "Feed the Lion (YouTube)",
+      "note": "Same creator as the feedthelion.co.uk blog. Never record both in one topic - one creator across platforms is one voice."
+    },
+    "youtube.com/@OneOneOneEveryLondonOffice": {
+      "tier": "D",
+      "name": "One One One (YouTube)"
+    },
+    "youtube.com/@HisKitch": {
+      "tier": "D",
+      "name": "HisKitch (YouTube)"
+    },
+    "youtube.com/@mr07623445678": {
+      "tier": "D",
+      "name": "Travels in India, London & the UK (YouTube)",
+      "note": "Mostly Leicester restaurant kitchens - trap 12. Check the town before recording any venue."
     },
     "youtube.com/@eater": {
       "tier": "D",

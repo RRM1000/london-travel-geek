@@ -185,6 +185,8 @@ The southern end of Bermondsey Street, and a modern square built on the site of 
 | **Butler's Wharf Chop House** | British | £££ | Riverside with a Tower Bridge view |
 | **Tower Bridge Collective** | Food hall | £ | Thirteen kitchens off Shad Thames; open from 8am daily |
 
+Sollip on Melior Street, by London Bridge station, holds a Michelin star for Korean-European cooking. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **London Bridge** (Jubilee, Northern, National Rail) is the main gateway and puts you at the top of Bermondsey Street. **Bermondsey** on the Jubilee line is closer to the Beer Mile arches.

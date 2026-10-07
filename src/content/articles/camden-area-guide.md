@@ -189,6 +189,8 @@ North-west across the railway, and a different world within ten minutes' walk â€
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+On Kentish Town Road, Belly cooks French bistro dishes through a Filipino lens, and Bintang has served Filipino-Asian food on the same street since 1987. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Canal boat trips from Camden
 
 Five different operators run from Camden Lock, and they are different trips rather than the same ride at different prices. All of them use the same stretch of the Regent's Canal â€” through Regent's Park and **the grounds of London Zoo**, where the painted wolves and the colobus monkeys are visible from the water, and in most cases through the **Maida Hill tunnel**, a little over 240 metres long, which has no towpath and is worth the ticket on its own.

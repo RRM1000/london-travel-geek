@@ -186,7 +186,7 @@ Order the **crab causa**, white crab meat over chilled yellow potato with rocoto
 
 ## Nikkei: the Japanese-Peruvian counters
 
-Nikkei is not fusion invented for a menu. Japanese families moved to Peru for plantation work from the 1890s, and their descendants cooked Peruvian ingredients with Japanese knife work. What arrives is sashimi dressed in lime, chilli and ají amarillo instead of soy, and a **tiradito** — fish sliced like sashimi, sauced like ceviche — sitting on the menu beside nigiri.
+Nikkei is not fusion invented for a menu. Japanese families moved to Peru for plantation work from the 1890s, and their descendants cooked Peruvian ingredients with Japanese knife work. What arrives is sashimi dressed in lime, chilli and ají amarillo instead of soy, and a **tiradito** — fish sliced like sashimi, sauced like ceviche — sitting on the menu beside nigiri. Our [fusion restaurants guide](/articles/best-fusion-restaurants-london/) sets these rooms beside London's other two-cuisine kitchens, from Japanese-Italian to Indo-Chinese.
 
 ### Ayllu, Paddington — Nikkei without the Mayfair bill
 
@@ -372,6 +372,7 @@ Two of the names in the sources have closed. **Pachamama**, the Marylebone resta
 
 ## Continue planning your London trip
 
+- 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Nikkei beside Japanese-Italian, Indo-Chinese and Korean-European, ranked across every major list
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🍣 **[The Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)** — where the Nikkei rooms overlap
 - 🌮 **[The Best Mexican Restaurants in London](/articles/best-mexican-restaurants-london/)**

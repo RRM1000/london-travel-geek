@@ -3,6 +3,7 @@ title: "Halal Restaurants in London, Checked Against What Each Kitchen Actually 
 seoTitle: "Best Halal Restaurants London 2026: Verified Status"
 description: "Eight published lists name 132 places between them. This guide checked the halal status of each one at the restaurant rather than the listicle — and the three most-cited names are not what the lists imply."
 publishedAt: 2026-09-24
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -22,7 +23,7 @@ faq:
   - q: "Where can I eat halal food in London without alcohol being served?"
     a: "The Great Chase in Islington Square is built around this — it describes itself as halal fine dining with an alcohol-free bar, and the drinks list runs to rare teas and botanical dry cocktails rather than wine. It is open Tuesday to Sunday and closed Mondays, and does a Sunday roast."
   - q: "Is halal food in London only South Asian and Middle Eastern?"
-    a: "No, and the newer openings are the interesting part. Ramo Ramen in Soho calls itself the world's first Filipino ramen restaurant and states that all meat it serves is halal certified. Cue Point in Walworth is Afghan-led barbecue. Rasa Sayang in Chinatown does Malaysian and Singaporean hawker food with halal offerings. East and Southeast Asian halal cooking is the part of this scene the mainstream food press has only started to cover."
+    a: "No, and the newer openings are the interesting part. Cue Point in Notting Hill is Afghan-led barbecue. Rasa Sayang in Chinatown does Malaysian and Singaporean hawker food with halal offerings. East and Southeast Asian halal cooking is the part of this scene the mainstream food press has only started to cover."
 ---
 
 Eight published guides to halal food in London name 132 restaurants between them. Only thirteen of those are named by more than one, and the three most-cited are Gymkhana, Pizza Pilgrims and Dishoom — some distance ahead of a scattering of places with two mentions each.
@@ -56,20 +57,6 @@ Some of the better-known certified rooms, to show it is not all chicken shops: *
 **Read it yourself at [halalhmc.org/outlets-by-name](https://halalhmc.org/outlets-by-name/)**, and note the date you read it — certification lapses and is withdrawn, so a register is only a statement about that day.
 
 A note on the other body. The **Halal Food Authority** is the UK's other major certifier, but it publishes no consumer-facing list of certified restaurants — it certifies food production, cosmetics and pharmaceuticals for businesses rather than listing venues for diners. So HMC's register is the only one a diner can actually check.
-
-## Restaurants that state a certification
-
-### Ramo Ramen — the world's first Filipino ramen shop, and all its meat is certified
-
-*££ · Soho · 28 Brewer Street, W1F 0SR*
-
-In capitals on its own homepage: **"ALL MEAT SERVED IS HALAL CERTIFIED."** It does not name the certifying body, which is why it sits below Souk here rather than beside it — but a flat statement of certification on a restaurant's own front page is a stronger claim than the sourcing language most places use, and it is made about everything they serve rather than a subset.
-
-The food is distinctive regardless. Ramo bills itself as the **world's first Filipino ramen joint**, and the fusion is real rather than a marketing line: Japanese technique, Filipino flavour, so sisig and Filipino braising traditions meet a ramen bowl. The Beef Wonton Ramen is the one they push at Lunar New Year. It is a small Brewer Street room in the middle of Soho, which means it fills fast.
-
-**Open Monday 5pm to 10pm, Tuesday to Thursday noon to 4pm and 5pm to 10pm**, with later weekend service. The midday and evening services are separate sittings on weekdays — turning up at 4.30pm gets you a closed door.
-
-This is also the clearest example of the point the mainstream lists keep missing. East and Southeast Asian halal cooking is where this scene is moving, and Time Out leads its own halal guide with Ramo and Cue Point rather than with a curry house.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-halal-restaurants-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

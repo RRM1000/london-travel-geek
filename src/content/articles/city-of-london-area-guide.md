@@ -196,6 +196,8 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 | **One New Change** | Food court | ££ | Reliable at weekends when everything else is shut |
 | **Borough Market** | Food market | £ | Ten minutes over London Bridge when the City closes |
 
+Los Mochis cooks Mexican-Japanese food nine floors above Broadgate Circle, with a rooftop terrace, and SUSHISAMBA's Japanese, Brazilian and Peruvian menu is on the 38th floor of Heron Tower. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** Four useful stations. **St Paul's** (Central) for the cathedral, **Bank** (Central, Northern, Waterloo & City, DLR) for the middle, **Liverpool Street** (Elizabeth line and four others) for the north-east, **Tower Hill** (District, Circle) for the Tower.

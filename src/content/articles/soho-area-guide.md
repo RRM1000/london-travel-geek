@@ -167,6 +167,8 @@ North–south restaurant streets running parallel through the middle of Soho, an
 
 For dinner with live music, Brasserie Zédel's house band plays every day with no charge on the bill, and Ronnie Scott's serves dinner through its sets. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares them.
 
+Soho is also where central London's Indo-Chinese cooking is: Fatt Pundit on Berwick Street and the all-vegetarian Tangra on Frith Street, a few doors from Chotto Matte's Japanese-Peruvian menu. All three are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side and Chinatown. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate.

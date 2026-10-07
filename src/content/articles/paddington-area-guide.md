@@ -161,6 +161,8 @@ South-west of the station, and the best-value eating anywhere near Paddington. A
 
 *Market Halls Paddington.*
 
+Ayllu, beneath Smith's in Sheldon Square, is a Japanese-Peruvian restaurant with a £29 five-course weekday lunch. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube and rail.** Paddington is served by the Circle, District, Bakerloo and Hammersmith & City lines, plus the Elizabeth line and National Rail services to the west of England and Wales. For Little Venice, **Warwick Avenue** on the Bakerloo line is closer than Paddington itself.

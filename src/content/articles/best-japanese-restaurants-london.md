@@ -9,7 +9,7 @@ heroImageSource: "https://www.pexels.com/photo/vibrant-japanese-sushi-bar-interi
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-09-09
-updatedAt: 2026-09-24
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -35,7 +35,7 @@ The city has the deepest omakase scene outside Japan, and a much thinner budget 
 > 💡 **The Short Version:** **Sushi Tetsu** is the hardest table in London and worth the effort. **Sushi Atelier** is the best-value serious counter. **Roka** and **Zuma** invented the London izakaya template and still do it best. **Jin Kichi** in Hampstead is the value pick nobody writes about enough. **Umu** is the only proper Kyoto kaiseki in the city.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **12 sources carrying 163 citations** across **117 named restaurants**. **28 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
+> Nothing here is ranked on one visit. This pass reads **12 sources carrying 163 citations** across **116 named restaurants**. **27 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
 > **Built on:** specialists with real depth in one format each — ramen, omakase, izakaya — plus a Michelin selection reaching five kitchens.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -51,7 +51,7 @@ The city has the deepest omakase scene outside Japan, and a much thinner budget 
 | **Chelsea & Kensington** | Dinings SW3, Akira at Japan House |
 | **The City** | SUSHISAMBA |
 | **Bloomsbury & Holborn** | Koya Ko, Cocoro |
-| **Islington & north** | Jin Kichi (Hampstead), Monohon Ramen, Ramo Ramen |
+| **Islington & north** | Jin Kichi (Hampstead), Monohon Ramen |
 | **Covent Garden** | Kanada-Ya |
 | **South London** | Kurisu Omakase (Brixton) |
 
@@ -273,18 +273,6 @@ The house style is **shoyu and shio** rather than the heavy pork-bone broth ever
 
 **£, walk-in only.** Old Street, and quieter than the Covent Garden ramen queues at almost every hour.
 
-### Ramo Ramen, Soho
-
-*££ · Filipino-Japanese* · Cited by 2 sources
-
-**Filipino-Japanese ramen**, which sounds like a fusion gimmick and is a coherent tradition — ramen run *through* Filipino cooking rather than beside it.
-
-The **oxtail kare kare ramen** is the dish the whole place is built around: the Filipino peanut-and-oxtail stew rebuilt as a ramen broth, rich and slightly sweet, with bagoong on the side to season it yourself. Sisig and Filipino small plates alongside.
-
-**££, walk-in.** 28 Brewer Street, and busiest in the evening. The most original bowl of ramen in London and not a close contest.
-
-**It moved.** The original Kentish Town Road site closed in August 2024 and the space is now a different restaurant — Soho is the only Ramo Ramen, so ignore any list still sending you to NW1.
-
 ### Koya Ko, Bloomsbury
 
 *£ · udon* · Cited by 2 sources
@@ -347,6 +335,7 @@ Omakase counters get the attention, but the everyday end of Japanese London is w
 
 ## Continue planning your London trip
 
+- 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Japanese-Italian, Mexican-Japanese and the Nikkei rooms
 - 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — the Nikkei rooms, and the Peruvian side of that menu
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**

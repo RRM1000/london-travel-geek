@@ -163,6 +163,8 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 | **The Wolseley** | Grand cafe | £££ | Piccadilly, in a former car showroom; book for breakfast |
 | **Sketch** | Modern European | ££££ | Conduit Street; the Gallery and the egg-pod toilets |
 
+Bar des Prés on South Audley Street is the French chef Cyril Lignac's French-Japanese restaurant. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **Green Park** (Piccadilly, Victoria, Jubilee) is best for the arcades and the Royal Academy. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the north. Oxford Circus serves the north-east corner.

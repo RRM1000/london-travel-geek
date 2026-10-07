@@ -5,6 +5,7 @@ description: "Adobo, sisig and kare-kare across London, from a Bib Gourmand dini
 heroImage: "../../assets/articles/best-filipino-restaurants-london/kamayan-sisig.jpg"
 heroImageAlt: "Sisig served on a black cast-iron sizzling plate: chopped crisp pork with spring onions, a drizzle of mayonnaise, a raw egg yolk set in the centre and a wedge of lime"
 publishedAt: 2026-09-23
+updatedAt: 2026-10-07
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london
@@ -19,7 +20,7 @@ faq:
   - q: "What should I order at a Filipino restaurant?"
     a: "Adobo is the anchor: meat braised in vinegar, soy, garlic, bay and peppercorns. Sisig is chopped crisped pig's jowl and ear served spitting on a hot iron plate with calamansi and chilli. Kare-kare is oxtail or brisket in a thick peanut sauce with fermented shrimp paste on the side. Finish with halo-halo, a glass of shaved ice, evaporated milk, purple yam, caramel custard and jackfruit that you stir before eating."
   - q: "Do I need to book a Filipino restaurant in London?"
-    a: "For Donia and Belly Bistro, yes, days ahead and certainly for a weekend — both are small and both take online reservations. Kasa and Kin, Bintang, Ramo Ramen and Kamayan sa Earl's Court all take bookings and usually have space. Panadera, Filishack, Jollibee and the market counters are walk-in only."
+    a: "For Donia and Belly Bistro, yes, days ahead and certainly for a weekend — both are small and both take online reservations. Kasa and Kin, Bintang and Kamayan sa Earl's Court all take bookings and usually have space. Panadera, Filishack, Jollibee and the market counters are walk-in only."
   - q: "What is a kamayan or boodle fight?"
     a: "A feast laid out on banana leaves down the middle of the table — mounds of rice with grilled pork, chicken inasal, prawns, milkfish and lumpia tipped over the top — eaten with your hands and no cutlery. Lutong Pinoy, Kamayan sa Earl's Court, Rapsa and Turo Turo all run one, usually for a minimum of four people and from around £16 a head."
 ---
@@ -36,7 +37,7 @@ The flavour is built on sourness and salt rather than heat: cane vinegar, calama
 
 > 📅 **Booking, at a glance.**
 > **Book days ahead, and always for a weekend:** Donia (real-time availability up to 42 days out, maximum eight people) and Belly Bistro, which has 35 seats.
-> **Bookable and usually available:** Kasa and Kin, Bintang, Ramo Ramen, Turo Turo, Kamayan sa Earl's Court, Rapsa, Cirilo.
+> **Bookable and usually available:** Kasa and Kin, Bintang, Turo Turo, Kamayan sa Earl's Court, Rapsa, Cirilo.
 > **Walk-in only:** Panadera, Filishack, Jollibee, Mamasons, Spoon & Rice and the market counters.
 > *For a kamayan feast, ring ahead whatever the booking policy — the whole table is cooked to order and most kitchens want four people and a day's notice.*
 
@@ -44,7 +45,7 @@ The flavour is built on sourness and salt rather than heat: cane vinegar, calama
 
 | If you are near… | Where to eat |
 | --- | --- |
-| **Soho & Carnaby** | Donia, Kasa and Kin, Panadera, Ramo Ramen |
+| **Soho & Carnaby** | Donia, Kasa and Kin, Panadera |
 | **Marylebone** | Panadera (Picton Place) |
 | **Kentish Town & Camden** | Belly Bistro, Bintang, Mamasons |
 | **Earl's Court** | Lutong Pinoy, Kamayan sa Earl's Court, Jollibee |
@@ -175,7 +176,7 @@ Off the platter, order **bulalo** — beef shank simmered until the marrow slide
 
 *££ · 93 Kentish Town Road, NW1 8NY · Cited by 3 sources · [book a table](https://www.bintangrestaurant.co.uk/reservations)*
 
-Trading on the same stretch of Kentish Town Road since **1987**, which it says makes it **the oldest Filipino restaurant in London**, and run by the family behind Belly Bistro and Ramo Ramen. It is a small, cluttered room with a garden behind and the big tables at the back, and it does karaoke when the night calls for it.
+Trading on the same stretch of Kentish Town Road since **1987**, which it says makes it **the oldest Filipino restaurant in London**, and run by the family behind Belly Bistro. It is a small, cluttered room with a garden behind and the big tables at the back, and it does karaoke when the night calls for it.
 
 The **pandesal sliders** are short-rib patties smashed on the grill with **toyomansi** — soy and calamansi — and pushed into the soft rolls, and they eat like a main. There is **beef sisig** on a sizzling plate with chicken chicharrón, onion, chilli and an egg, an oxtail **kare-kare** in thick peanut sauce, and four **silog** plates: garlic fried rice, a fried egg and your choice of cured meat or fried milkfish. All-day Filipino breakfast at weekends.
 
@@ -204,14 +205,6 @@ A family-run Filipino coffee house and bakery, and the only place on this page p
 *Kapihan's bibingka counter.*
 
 It is small, it is a neighbourhood room rather than a destination one, and it closed once already: it went in 2021 and came back to Battersea Park Road in January 2023.
-
-### Ramo Ramen, Soho
-
-*££ · 28 Brewer Street, W1F 0SR · Cited by 2 sources · [book a table](https://www.ramoramen.com/reservations)*
-
-Billed as the world's first Filipino ramen shop, and the joke is only half a joke: the **oxtail kare-kare ramen** puts the peanut beef broth and pulled oxtail of the Filipino stew over Tokyo-style noodles, and it works. Also **miso maple wings**, scallops roasted in **bagoong** butter, and a wagyu **bistek donburi** — seared tri-tip over rice with an egg yolk and spring onion — that only the Soho branch serves.
-
-**All the meat is halal certified**, so a halal diner can order across the whole menu. Last booking is 9pm; groups over eight go by email.
 
 ### Kuya Fernando, Southall
 
@@ -325,6 +318,7 @@ You can walk the whole thing in ten minutes. **Lutong Pinoy** at 10 Kenway Road 
 * **Belly Bistro** opened in May 2025 and is in the 2026 Michelin Guide — the fastest rise of anything on this page.
 * **Panadera** opened its Soho flagship on Hopkins Street in 2025 and now runs Soho and Marylebone; the Kentish Town original closed in January 2025.
 * **Filishack** added White City in 2025, its third site in four years.
+* **Ramo Ramen**, the Filipino-Japanese ramen shop on Brewer Street in Soho, closed after service on 27 September 2026. Its owners say it will be back.
 * **Mama's Kubo** on Finchley Road, which four of the sources here name, has been closed for refurbishment since 12 January 2026 with no reopening date published. Do not make the trip yet.
 
 ## What to know
@@ -340,6 +334,7 @@ You can walk the whole thing in ten minutes. **Lutong Pinoy** at 10 Kenway Road 
 
 ## Continue planning your London trip
 
+- 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — where Belly Bistro sits among London's other two-cuisine kitchens
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)** — every food guide on the site in one place.
 - 🥟 **[The Best Chinese and East Asian Restaurants in London](/articles/best-chinese-east-asian-restaurants-london/)**
 - 🌶️ **[The Best Thai Restaurants in London](/articles/best-thai-restaurants-london/)**
@@ -347,6 +342,6 @@ You can walk the whole thing in ten minutes. **Lutong Pinoy** at 10 Kenway Road 
 - 🍦 **[The Best Ice Cream in London](/articles/best-ice-cream-london/)** — Mamasons and the rest of the ube.
 - 🛒 **[The Best Street Food in London](/articles/best-street-food-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
-- 🕌 **[The Best Halal Restaurants in London](/articles/best-halal-restaurants-london/)** — Ramo Ramen is halal certified throughout.
+- 🕌 **[The Best Halal Restaurants in London](/articles/best-halal-restaurants-london/)**
 - 🎸 **[Camden Area Guide](/articles/camden-area-guide/)** — Bintang, Belly Bistro and Mamasons are all within a few minutes of each other.
 - 🎭 **[Soho Area Guide](/articles/soho-area-guide/)**

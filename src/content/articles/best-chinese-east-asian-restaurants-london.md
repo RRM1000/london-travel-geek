@@ -407,6 +407,7 @@ Everything else the Chinese sources carry by two or more independent publication
 
 ## Continue planning your London trip
 
+- 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Indo-Chinese, the cooking of Kolkata's Hakka community
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**

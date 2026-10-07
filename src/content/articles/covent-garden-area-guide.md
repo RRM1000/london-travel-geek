@@ -218,6 +218,8 @@ For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into
 
 For dinner with a show, Oriole, Louie and Sarastro all have live music at the table. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) says which nights and what it adds to the bill.
 
+Fatt Pundit on Maiden Lane cooks Kolkata's Indo-Chinese food, and SUSHISAMBA has a site on top of the Market Building. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** This is truer here than anywhere else in central London. **Do not use Covent Garden station.** It has no escalators — just lifts and a 193-step spiral staircase — and it queues badly. Use **Leicester Square** (Piccadilly, Northern) or **Holborn** (Central, Piccadilly) instead; both are about five minutes' walk.

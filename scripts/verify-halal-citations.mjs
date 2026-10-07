@@ -28,7 +28,9 @@ const VERIFIED = {
   // name HMC - it is reporting the restaurant's claim - but it may not be
   // presented as certified. Status 2, with the discrepancy carried in the entry.
   "Souk":           { status: 2, evidence: "own FAQ: \"Yes it's 100% Halal HMC certified\"; NOT on the HMC register 2026-09-08", body: "HMC" },
-  "Ramo Ramen":     { status: 1, evidence: "own homepage: \"ALL MEAT SERVED IS HALAL CERTIFIED\"", body: null },
+  // Ramo Ramen was status 1 ("ALL MEAT SERVED IS HALAL CERTIFIED") until its Soho
+  // shop, the last site, closed after service on 27 September 2026 (own site,
+  // read 2026-10-07). Entry removed from the article; see data/closed.json.
   "The Great Chase":{ status: 2, evidence: "own sourcing page: \"High-welfare, and fully Halal\"" },
   "HS&Co":          { status: 2, evidence: "own homepage: \"Proudly fully Halal\", \"hand cut dry aged halal prime steaks\"" },
   "Cue Point":      { status: 2, evidence: "own about page: \"we serve Halal | Vegan | Gluten-Free | Diary-Free\"" },

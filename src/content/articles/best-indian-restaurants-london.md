@@ -517,7 +517,7 @@ Restaurants the sources back that did not earn a full entry, either because only
 | **Heritage** | Dulwich | £££ | 2 sources | Modern compositions backed by discipline and technique |
 | **Shiuli** | Twickenham | £££ | 2 sources | Contemporary Indian from a two-Michelin-star chef, well outside the centre |
 | **Masala Zone** | Piccadilly | ££ | 2 sources | Thalis and street-food plates well below Mayfair prices, from the Amaya group |
-| **Fatt Pundit** | Covent Garden | ££ | 2 sources | Indian-Chinese Hakka cooking, which barely exists elsewhere in London |
+| **Fatt Pundit** | Covent Garden | ££ | 2 sources | Kolkata's Indian-Chinese Hakka cooking; the rest of London's Indo-Chinese kitchens are in our [fusion guide](/articles/best-fusion-restaurants-london/) |
 | **Thecha** | — | ££ | 2 sources | Maharashtrian cooking named for the chilli-and-garlic relish |
 | **Udaya Kerala** | East Ham | ££ | 2 sources | Appam, coastal fish and coconut, out where the Keralan community actually eats |
 | **Hyderabadi Spice** | East Ham | ££ | 2 sources | Hyderabadi biryani treated as its own tradition rather than as a side dish |
@@ -572,6 +572,7 @@ Restaurants the sources back that did not earn a full entry, either because only
 
 ## Continue planning your London trip
 
+- 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Indo-Chinese Hakka cooking, from Fatt Pundit in Soho to the suburban kitchens
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)** — a separate tradition: hoppers, kottu and lamprais, not a tandoor
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🍕 **[The Best Pizza in London](/articles/best-pizza-london/)**

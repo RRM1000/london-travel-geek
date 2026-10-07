@@ -179,6 +179,8 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 *The Distillery, Portobello Road.*
 
+Los Mochis on Farmer Street pairs Mexican and Japanese food, and Fan on Chepstow Road serves a Japanese-Peruvian-Cantonese tasting menu. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** Notting Hill Gate sits on the Central, District and Circle lines. The Central line is the fastest from the West End — about eight minutes from Oxford Circus. For the northern end of the market, stay on to **Ladbroke Grove** (Circle and Hammersmith & City) instead and walk south down Portobello Road, which puts you at the vintage end first and lets the crowds thin as you go.

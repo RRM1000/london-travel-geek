@@ -165,6 +165,8 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 | **Marylebone Farmers' Market** | Market | £ | Sundays only, and the best-value eating here |
 | **The Wallace Restaurant** | Brasserie | £££ | In the museum's glazed courtyard |
 
+Jikoni on Blandford Street cooks across South Asian, East African, Middle Eastern and British kitchens. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **Baker Street** (five lines) is best for the north end and Regent's Park. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the south end and is only four minutes' walk from the high street.

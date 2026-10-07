@@ -153,6 +153,8 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 | **The Pembury Tavern** | Pub | ££ | Large, family-friendly, good beer near Hackney Central |
 | **Crate Brewery** | Brewery and pizza | ££ | Canal-side at Hackney Wick, with tables on the water |
 
+Angelina on Dalston Lane cooks a Japanese-Italian set menu, and Cálong on Stoke Newington Church Street holds a Bib Gourmand for Korean-European cooking. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Overground.** There is no Tube in Hackney. The **London Overground** is the way in: **London Fields** for Broadway Market, **Hackney Central** for Mare Street, **Hackney Wick** for the warehouses and the Olympic Park. A few minutes from Liverpool Street or Highbury & Islington.

@@ -199,6 +199,8 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 
 *Boxpark Shoreditch. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+Osteria Angelina, a short walk from Liverpool Street in Spitalfields, makes Japanese-Italian pasta in a glass-walled pasta lab. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
 ## Getting there
 
 **By Overground.** **Shoreditch High Street** puts you at Boxpark and two minutes from Brick Lane. It is the closest station and the least crowded.
