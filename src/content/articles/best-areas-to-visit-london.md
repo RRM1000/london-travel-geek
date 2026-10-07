@@ -95,7 +95,7 @@ Further out, mostly residential, and where London stops performing for visitors.
 ## 5 Golden Rules for Exploring London's Neighbourhoods
 
 1. **Explore on Foot:** Walking between Covent Garden, Soho and Westminster is often faster than taking the Tube, and you see the city rather than a tunnel.
-2. **Take Advantage of Free Museums:** Standard entry to the British Museum, Natural History Museum, V&A, Science Museum and Tate Modern is **free**.
+2. **Take Advantage of Free Museums:** Standard entry to the [British Museum](/articles/british-museum-guide/), Natural History Museum, V&A, Science Museum and Tate Modern is **free**.
 3. **Use the River Bus:** For a scenic transit route between West End and Greenwich, tap in on the **Uber Boat by Thames Clippers** instead of sitting underground.
 4. **Visit Food Markets for Lunch:** Borough Market, Seven Dials Market and Spitalfields Market all feed you for less than a sit-down restaurant on the same street.
 5. **Check Operating Hours:** Many markets (like Portobello Road) are quiet on weekdays and peak on Saturdays, while the City of London financial district is liveliest on weekdays.

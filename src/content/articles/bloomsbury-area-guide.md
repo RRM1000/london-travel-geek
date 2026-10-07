@@ -84,7 +84,7 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 
 ## Top sights and activities
 
-1. **The British Museum** — Around eight million objects, of which roughly 50,000 are on display. The Rosetta Stone, the Parthenon sculptures, the Sutton Hoo helmet and the Egyptian galleries. Free. Use the Montague Place entrance.
+1. **[The British Museum](/articles/british-museum-guide/)** — Around eight million objects, of which roughly 50,000 are on display. The Rosetta Stone, the Parthenon sculptures, the Sutton Hoo helmet and the Egyptian galleries. Free. Use the Montague Place entrance.
 2. **The Great Court** — Norman Foster's glazed roof over the old reading room courtyard, and the largest covered square in Europe. Free to walk into even without visiting the galleries.
 3. **The garden squares** — Russell, Bedford, Gordon, Tavistock and Bloomsbury Squares. Most are open to the public and almost all are empty.
 4. **The Charles Dickens Museum** — The Doughty Street house where he wrote *Oliver Twist* and *Nicholas Nickleby*, kept as a home, not a display.

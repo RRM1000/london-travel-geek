@@ -200,7 +200,7 @@ The beans are **roasted inside prisons** by people the company then trains and e
 
 *Redemption Roasters' coffee. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36031309506), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-**Walk-in, no bookings.** At **84b Lamb's Conduit Street, WC1N 3LR**, seven minutes from Russell Square and five from Holborn — much the best cup within reach of the British Museum, and better than anything on Great Russell Street itself.
+**Walk-in, no bookings.** At **84b Lamb's Conduit Street, WC1N 3LR**, seven minutes from Russell Square and five from Holborn — much the best cup within reach of the [British Museum](/articles/british-museum-guide/), and better than anything on Great Russell Street itself.
 
 **Walk down Lamb's Conduit Street.** Half-pedestrianised and independent end to end, with Noble Rot and Honey & Co on the same short run. **Most of it closes on Sundays**, including here.
 

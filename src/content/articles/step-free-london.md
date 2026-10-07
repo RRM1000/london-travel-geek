@@ -154,7 +154,7 @@ Fares: **anyone with a disability pays 50%**, as does a Freedom Pass or 60+ Oyst
 
 | Place | Step-free way in | Limits |
 | --- | --- | --- |
-| **British Museum** | Montague Place, or the lifts either side of the 12 steps at the Great Russell Street entrance | Rooms 16, 67, 69 and 95 have no lift or level access. No Changing Places toilet on site; the nearest is a 15-minute walk. Staff cannot push wheelchairs |
+| **[British Museum](/articles/british-museum-guide/)** | Montague Place, or the lifts either side of the 12 steps at the Great Russell Street entrance | Rooms 16, 67, 69 and 95 have no lift or level access. No Changing Places toilet on site; the nearest is a 15-minute walk. Staff cannot push wheelchairs |
 | **National Gallery** | Sainsbury Wing, the main entrance for everyone | Two Changing Places toilets, RADAR key from staff. One bookable Blue Badge bay on Orange Street, 48 hours' notice on 020 7747 2885, with five more in St Martin's Street |
 | **Tate Modern** | The Turbine Hall ramp, or the Blavatnik Building from Park Street | Changing Places on Level 0 of the Natalie Bell Building, RADAR key from the Level 0 ticket desk. Accessible parking is bookable; two RADAR-operated lifts link it to the Turbine Hall |
 | **Natural History Museum** | Queen's Gate (ramp) or Cromwell Road (steep ramp) | The Exhibition Road entrance is not step-free, though a lift runs from its lobby to the galleries. Changing Places on the ground floor of the North Wing |

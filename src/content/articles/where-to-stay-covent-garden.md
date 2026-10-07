@@ -170,7 +170,7 @@ The direct test of the entire premium, and it is not close. **Z Hotel Holborn is
 
 *A room at the Z Hotel Holborn.*
 
-What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The [Hoxton Holborn](hotel:the-hoxton-holborn) is up the road at about £190 if you want the design-hotel version, not the cheap one, and the British Museum is ten minutes north.
+What you give up is the piazza on the doorstep and a two-minute walk from the theatre. Kingsway is a wide, dull, well-lit road and the walk is nine minutes at any hour. What you gain is **Holborn station, which adds the Central line** to the Piccadilly — considerably faster for the City, Stratford and the east. The [Hoxton Holborn](hotel:the-hoxton-holborn) is up the road at about £190 if you want the design-hotel version, not the cheap one, and the [British Museum](/articles/british-museum-guide/) is ten minutes north.
 
 <div class="photo-row">
 

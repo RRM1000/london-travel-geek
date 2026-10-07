@@ -81,7 +81,7 @@ Notting Hill has its own share of the commemorative plaques marking where notabl
 
 **Come here if** you like browsing more than ticking off landmarks. Notting Hill rewards slow wandering: antique arcades, secondhand bookshops, independent boutiques on Westbourne Grove and an excellent pub scene. It is the best area in London for vintage and antiques by a wide margin, and one of the prettiest to walk through in good weather.
 
-**Skip it if** you are on a short trip built around major sights. There is no museum here, no cathedral, no palace. Notting Hill is atmosphere and shopping. On a three-day first visit, Westminster, the South Bank and the British Museum will serve you better — save this for a return trip or a spare Saturday.
+**Skip it if** you are on a short trip built around major sights. There is no museum here, no cathedral, no palace. Notting Hill is atmosphere and shopping. On a three-day first visit, Westminster, the South Bank and the [British Museum](/articles/british-museum-guide/) will serve you better — save this for a return trip or a spare Saturday.
 
 **One warning:** the pastel houses are private homes. Residents on Lancaster Road and St Luke's Mews deal with photographers on their doorsteps every single day, and some have put up signs asking people to stop. Photograph from the pavement, keep off the steps, and do not block front doors.
 

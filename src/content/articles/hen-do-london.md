@@ -91,7 +91,7 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 
 ### Afternoon tea, and where not to have it
 
-The grand hotels run £75 to well over £100 a head, and for twelve people that is a £1,200 morning. **The Wolseley is £46.50 and takes walk-ins more readily than any of them.** Better still, the museums do it for less: **the British Museum is around £40 under the Foster roof, and Tate Modern around £30** with the river through the window. Under £30, the Memoir Club and the Chocolate Cocktail Club both start at £27.50. If you want the room, **Sketch** is the one — prices for it and the rest are in the [afternoon tea guide](/articles/best-afternoon-tea-london/).
+The grand hotels run £75 to well over £100 a head, and for twelve people that is a £1,200 morning. **The Wolseley is £46.50 and takes walk-ins more readily than any of them.** Better still, the museums do it for less: **the [British Museum](/articles/british-museum-guide/) is around £40 under the Foster roof, and Tate Modern around £30** with the river through the window. Under £30, the Memoir Club and the Chocolate Cocktail Club both start at £27.50. If you want the room, **Sketch** is the one — prices for it and the rest are in the [afternoon tea guide](/articles/best-afternoon-tea-london/).
 
 ### On the water
 

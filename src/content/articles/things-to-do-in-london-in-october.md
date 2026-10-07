@@ -55,7 +55,7 @@ What you can do instead is free. The **Bayeux Tapestry Opening Festival** runs a
 
 **Neither event includes entry to the Tapestry itself** — the museum says so explicitly on both listings. If you want priority entry during the festival's busy periods, book a free timed museum-entry ticket in advance; the main entrance is on Great Russell Street and there is a security and bag check.
 
-For your own visit, the two dates to know are **6 October**, when members' priority booking reopens, and **21 October**, the next general release — both covering visits from **1 January to 31 March 2027**. The exhibition's hours are unchanged: **Sunday to Wednesday 10am to 6pm, Thursday to Saturday 10am to 9pm.**
+For your own visit, the two dates to know are **6 October**, when members' priority booking reopens, and **21 October**, the next general release — both covering visits from **1 January to 31 March 2027**. The exhibition's hours are unchanged: **Sunday to Wednesday 10am to 6pm, Thursday to Saturday 10am to 9pm.** Prices, hours and the rooms to see around it are in our [British Museum guide](/articles/british-museum-guide/).
 
 ## The collision in the middle of the month
 

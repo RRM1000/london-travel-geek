@@ -53,7 +53,7 @@ Before any arithmetic, the fact that settles the question for a lot of people.
 
 **Every national museum and gallery in London is free to enter.** Not discounted. Free.
 
-* British Museum
+* [British Museum](/articles/british-museum-guide/)
 * National Gallery
 * National Portrait Gallery
 * Natural History Museum

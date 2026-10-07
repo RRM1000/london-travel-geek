@@ -218,7 +218,7 @@ The single best answer in this guide. Fitzrovia starts on the north side of Oxfo
 
 ### Bloomsbury — the same windowless room for less
 
-**[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is the value pick of the whole windowless format: **£81 to £206** across five sampled dates, and it **undercut the Piccadilly flagship on every one of them**, by £16 to £81, for the same product two stops away. It is 206 rooms carved out of a disused underground car park beneath Great Russell Street, London's first hotel entirely below ground, two minutes from the British Museum. Rooms stop at Cocoon 4, so a group of six has to go back to Piccadilly. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) has the full comparison.
+**[Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road)** is the value pick of the whole windowless format: **£81 to £206** across five sampled dates, and it **undercut the Piccadilly flagship on every one of them**, by £16 to £81, for the same product two stops away. It is 206 rooms carved out of a disused underground car park beneath Great Russell Street, London's first hotel entirely below ground, two minutes from the [British Museum](/articles/british-museum-guide/). Rooms stop at Cocoon 4, so a group of six has to go back to Piccadilly. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) has the full comparison.
 
 <div class="photo-row">
 

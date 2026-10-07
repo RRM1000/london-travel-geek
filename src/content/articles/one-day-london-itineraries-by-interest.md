@@ -117,7 +117,7 @@ Three major museums within *five minutes of each other*, all **free**.
 *The Great Court. Photo: [rbrwr](https://www.flickr.com/photos/38411862@N00/467099756), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 
-* **British Museum** — free, roughly 80,000 objects on display out of eight million held. Pick three things.
+* **[British Museum](/articles/british-museum-guide/)** — free, roughly 80,000 objects on display out of eight million held. Pick three things.
 * **Lunch on Lamb's Conduit Street**, *ten minutes north*.
 * **British Library** — free, and the Treasures gallery has Magna Carta and the Lindisfarne Gospels in one room.
 

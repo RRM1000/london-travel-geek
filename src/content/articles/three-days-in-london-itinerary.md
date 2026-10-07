@@ -167,7 +167,7 @@ The Eye is the paid way to get above London on this day, and two free ones sit w
 
 ## Day 3: One museum district
 
-**Three days is enough for one museum district and not two.** The temptation is the British Museum in the morning and South Kensington after lunch. The result is two rushed hours in each and half an hour underground between them. Pick one, and stop when you are tired, not when you have seen everything — nobody sees everything.
+**Three days is enough for one museum district and not two.** The temptation is the [British Museum](/articles/british-museum-guide/) in the morning and South Kensington after lunch. The result is two rushed hours in each and half an hour underground between them. Pick one, and stop when you are tired, not when you have seen everything — nobody sees everything.
 
 Both options below are free. Only temporary exhibitions charge.
 

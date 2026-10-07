@@ -182,6 +182,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
+- 🏺 **[British Museum Guide](/articles/british-museum-guide/)** — free entry, the Bayeux Tapestry tickets and what to see in an hour
 - 📺 **[Free TV and Radio Tickets](/articles/free-tv-show-tickets-london/)** — studio audiences cost nothing
 - 🔵 **[London's Blue Plaques](/articles/london-blue-plaques/)** and the [plaques map](/plaques/)
 - 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)** — the arithmetic worked through

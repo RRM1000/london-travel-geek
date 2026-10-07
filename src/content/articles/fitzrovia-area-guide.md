@@ -88,7 +88,7 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 
 **Come here if** you want dinner. Fitzrovia holds more good restaurants across more cuisines than any comparable patch of central London, and unlike Soho you can usually get a table.
 
-**Skip it if** you are on a three-day trip and want sights. There is no headline attraction here. Walk through it on your way between Oxford Street and the British Museum, note where you would like to eat, and come back in the evening.
+**Skip it if** you are on a three-day trip and want sights. There is no headline attraction here. Walk through it on your way between Oxford Street and the [British Museum](/articles/british-museum-guide/), note where you would like to eat, and come back in the evening.
 
 ## Top sights and activities
 

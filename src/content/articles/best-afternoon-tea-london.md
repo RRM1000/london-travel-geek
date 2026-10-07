@@ -512,7 +512,7 @@ The grand hotels run from about £75 to well over £100 a head. These do the sam
 The most reliable value in London afternoon tea, and the rooms are the reason to go.
 
 * **The Wallace Collection**, Marylebone — tea in the glass-roofed courtyard of a Manchester Square townhouse full of Old Masters, and the museum itself is free.
-* **The British Museum** — around **£40**, in the Great Court under the Foster roof. <a href="https://www.getyourguide.com/activity/-t114220?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-museums" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book it on GetYourGuide</a>.
+* **The [British Museum](/articles/british-museum-guide/)** — around **£40**, in the Great Court under the Foster roof. <a href="https://www.getyourguide.com/activity/-t114220?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-museums" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book it on GetYourGuide</a>.
 * **The National Gallery** — a guided tour of the gallery with afternoon tea. <a href="https://www.getyourguide.com/activity/-t436924?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-museums" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book it on GetYourGuide</a>.
 * **Tate Modern** — around **£30**, with the river and St Paul's through the window.
 * **The Royal Albert Hall** — tea inside the building rather than a hotel dining room, which is a different kind of occasion.
