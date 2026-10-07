@@ -59,7 +59,7 @@ November has three beats. The first fortnight is fireworks and ceremony. Ten day
 
 **General booking for 1 January to 31 March 2027 opens on 21 October 2026**, and April to July 2027 opens in early 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). Adults pay **£33** (£36.50 with the £3.50 donation), or **£27** off-peak. A **£25** slot runs on term-time weekdays from 3.30pm to 4.20pm. Students, 16 to 18s and jobseekers pay £25, and under-16s go free with an adult, up to four per adult.
 
-Bookings are capped at 10 tickets, each ticket can only be used by the person who booked it, and the museum may check ID. The museum is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm, and the visit takes about 40 minutes. A free audio guide is in the British Museum Audio app; bring your own headphones.
+Bookings are capped at 10 tickets, each ticket can only be used by the person who booked it, and the museum may check ID. The Tapestry room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm, later than the rest of the museum, and the visit takes about 40 minutes. A free audio guide is in the British Museum Audio app; bring your own headphones.
 
 Two talks fall in November: **Harald Hardrada: the other 'Harold'**, an online lecture on **5 November** (£6), and **The women of the Bayeux Tapestry** on **20 November** (£50). The rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
 
@@ -77,9 +77,9 @@ Every display, which ones sell out and the free viewpoints are in our [Bonfire N
 
 ### Remembrance Sunday and Armistice Day
 
-**Remembrance Sunday is the second Sunday in November, which is 8 November in 2026.** The National Service of Remembrance is held at the Cenotaph in Whitehall, and the Royal British Legion's Cenotaph Parade follows: about 10,000 veterans march down Whitehall past the Cenotaph. [Our Westminster walk](/articles/westminster-walk/) passes it.
+**Remembrance Sunday is the second Sunday in November, which is 8 November in 2026.** The National Service of Remembrance is held at the Cenotaph in Whitehall, and the Royal British Legion's Cenotaph Parade follows: about 10,000 veterans march down Whitehall past the Cenotaph. [Our Westminster walk](/articles/westminster-walk/) passes it. The same Sunday has England v Australia at Twickenham at 3.10pm.
 
-**Armistice Day is Wednesday 11 November**, with a Two Minute Silence at 11am. The same Sunday has England v Australia at Twickenham at 3.10pm.
+**Armistice Day is Wednesday 11 November**, with a Two Minute Silence at 11am.
 
 ### The Lord Mayor's Show — City of London, Saturday 14 November
 
