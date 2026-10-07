@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-04",
+  "updated": "2026-10-07",
   "inProgress": [],
   "nextUp": [
     "Look up Hotels.com ids (when its bot check clears) for about 15 linked hotels that still go to their own sites: King's Cross's St Pancras London, The Standard, The Megaro, Point A, Kabannas; The Londoner, The Milestone, London Bridge Hotel, The Twenty Two, Redchurch Townhouse, citizenM Olympia, Zedwell Leicester Place.",
@@ -39,9 +39,16 @@
     "Exhibitions: London Games Festival, London Film and Comic Con and a regular London record or retro-gaming fair turned up nothing online. Know of any worth adding?",
     "Section pages: London areas (48 guides) and Getting around (18) are still one flat most-read-first list. Want subheadings there too (e.g. by part of London; airports vs Tube vs buses)?",
     "Disneyland Paris from London: the six hotel ids on the page came from search-engine copies of Hotels.com URLs, not Hotels.com itself, so confirm them (Disneyland Hotel 230008, Hotel New York 230033, Newport Bay Club 230007, Cheyenne 230011, L'Élysée Val d'Europe 212020, Adagio Val d'Europe 413241). Photos wanted: Sleeping Beauty Castle from Main Street (hero), Chessy station entrance, Eurostar at St Pancras, RER A at Chessy, Disneyland Hotel frontage.",
-    "CJ: check whether the account is joined to Hotels.com UK only, or the US/global programme too. Most stay-guide readers are outside the UK and every link goes to uk.hotels.com; switching to hotels.com only works if the account is joined to the right one."
+    "CJ: check whether the account is joined to Hotels.com UK only, or the US/global programme too. Most stay-guide readers are outside the UK and every link goes to uk.hotels.com; switching to hotels.com only works if the account is joined to the right one.",
+    "Wundrful World of Christmas: the organiser's page now says 13 November (your screenshot said 11). Seven pages use 13 November; say if 11 is right.",
+    "Re-check the British Museum guide and the November guide on 22 October, after the 21 October Bayeux ticket release.",
+    "Activities Sheet: point the British Museum row at /articles/british-museum-guide/ instead of the Bloomsbury guide."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-07",
+      "what": "Pushed live: British Museum guide (11 photos, Bayeux Tapestry section, linked from 38 pages); Things to Do in London in November 2026 with its month data; hidden London page now has a photo for every place; Tourist app added to the discount cards page; Paranormal Activity's 10.30pm Halloween performance on the Halloween and October guides; Bonfire Night refresh; Regent Street lights date (5 Nov)."
+    },
     {
       "date": "2026-10-07",
       "what": "Stay guides converting: 60 affiliate clicks from ~590 views in 28 days, one booking. Fixed: three bookable picks now open the Short Version of every stay guide; hotel links open on the reader's dates once they pick them; Wilde Covent Garden, The Savoy and The Exhibitionist now earn through Hotels.com; Premier Inn links back to Premier Inn (Hotels.com doesn't sell it), and a dead Premier Inn Paddington link fixed."
