@@ -57,25 +57,49 @@ The ones where you can still turn up on a weekday and have the place more or les
 
 A small churchyard garden behind St Botolph Aldersgate, and along one side a wooden loggia holding the Watts Memorial to Heroic Self-Sacrifice: **54 hand-painted ceramic tablets naming 62 ordinary people who died saving somebody else.** Alice Ayres, a builder's daughter, who saved three children from a burning house and died of her injuries. Leigh Pitt, a print technician who drowned pulling a nine-year-old out of a canal in Thamesmead in 2007 — his tablet went up in 2009, the first added in 78 years. Reading the wall takes ten minutes and levels you. Office workers eat lunch on the benches behind you throughout. It is free and there is nothing to book. The City of London publishes no opening hours for it; in practice the gates stand open through the day and are closed around dusk. St Paul's, exit 1.
 
+![Two rows of hand-painted ceramic tablets set in amber glazed tiles, each recording a person who died saving someone else](../../assets/articles/hidden-london-secret-places/postmans-park-watts-memorial.jpg)
+
+*The Watts Memorial. Photo: [Acabashi](https://commons.wikimedia.org/wiki/File:George_Frederic_Watts_Postman%27s_Park_memorial,_City_of_London,_England.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 ### London's Roman Amphitheatre, Guildhall
 
 The eastern entrance, drain and wall stubs of Londinium's amphitheatre, found in 1988 while the Guildhall Art Gallery was being built above them and opened to the public in 2002. What survives is a few metres of dark stone and timber; the missing bowl is drawn around it in green light on a black floor, with the silhouettes of a crowd projected on the walls. It held six to seven thousand people, roughly a quarter of Roman London. Twenty feet below the pavement it is cold, quiet and usually empty. **Free, open daily 10am to 5pm with last admission at 4.45pm.** You can book a general admission slot or simply walk in. Free introductory tours run Tuesday to Sunday at 12.15pm and 1.15pm, no booking.
+
+![A dark basement gallery at the Guildhall Art Gallery, with a low stretch of Roman stone wall lit from above and green outlines of spectators on the far wall](../../assets/articles/hidden-london-secret-places/roman-amphitheatre.jpg)
+
+*The Roman amphitheatre at the Guildhall.*
 
 ### The London Silver Vaults, Holborn
 
 Two floors below Chancery Lane, behind a steel vault door three feet thick, a corridor of **30 independent dealers** selling antique and modern silver — cutlery, candelabra, christening mugs, vintage jewellery and watches. It opened in 1882 as the Chancery Lane Safe Deposit Company, the country's second non-bank strongroom, where the aristocracy stored the family plate while they were at their country houses. Dealers moved into the rooms in the 1930s. A bomb destroyed the building above in the Blitz; the vaults underneath survived. Nobody hassles you and nobody expects you to buy anything. **Free, no appointment: Monday to Friday 9am to 5.20pm, Saturday 9am to 12.50pm, closed Sunday and bank holidays.** The entrance is on Southampton Buildings, not Chancery Lane, which is where people fail to find it.
 
+![A dealer's shop in the London Silver Vaults, with glass cabinets and the tops of the walls packed with silver teapots, trophies and candelabra above a green carpet](../../assets/articles/hidden-london-secret-places/london-silver-vaults.jpg)
+
+*A dealer's shop in the Silver Vaults.*
+
 ### The Fitzrovia Chapel
 
 The last surviving fragment of the Middlesex Hospital, which was demolished around it — the chapel now stands alone in Pearson Square inside the Fitzroy Place development. John Loughborough Pearson began it in 1891, his son Frank finished it, and between them it took over forty years and more than forty kinds of marble. The first service was held on Christmas Day 1891. From outside it is plain red brick and easy to mistake for plant machinery. Inside is a gold mosaic ceiling and a small, very quiet room, and often you will be the only person in it. **Free and no booking, but it only opens most Mondays, Tuesdays and Wednesdays 11am to 5pm, plus at least one Sunday a month from noon.** During exhibitions it usually opens daily. Check What's On before travelling.
+
+![The gold mosaic vaulting of the Fitzrovia Chapel, with stars on the ceiling, pink marble walls, stained glass and a Latin inscription above the organ](../../assets/articles/hidden-london-secret-places/fitzrovia-chapel.jpg)
+
+*The Fitzrovia Chapel.*
 
 ### All Saints, Margaret Street
 
 Butterfield's 1859 church, one street back from Oxford Circus and completely invisible from it. This is the founding building of High Victorian Gothic and the pattern is structural, not painted — every surface is banded brick, inlaid tile or coloured marble, worked into the fabric itself. The nave is dark, saturated and much smaller than photographs suggest: it was built to prove a town church could be intense rather than large. **Open every day from 11am to 7pm for visiting and private prayer, free.** Mass is said at noon and 6.30pm Monday to Saturday, 11am on Sundays, and the choir is one of the best in London. Arriving during a service is fine, but you will be joining it, not wandering. The entrance is through a small brick courtyard off Margaret Street.
 
+![The nave of All Saints, Margaret Street, with patterned tile and brickwork on the walls and arches and a gilded reredos behind the altar](../../assets/articles/hidden-london-secret-places/all-saints-margaret-street.jpg)
+
+*All Saints, Margaret Street.*
+
 ### Colville Place, Fitzrovia
 
 A pedestrian lane about a hundred metres long running between Charlotte Street and Whitfield Street, built from 1766 by John Colvill, a carpenter who went bankrupt on the job in 1774. Air raids took the eastern end of both terraces, and the gap is now Crabtree Fields, a small public garden. What is left is a double row of narrow three-storey brick houses, painted doors, pot plants on every step, and old lamp standards down the centre line where the two sloping pavements meet. There are no cars because there is no way in for one. **It is free, always open and a public right of way — there is no sign, nothing to buy and nothing to look at except the street.** These are people's homes, so keep the noise down. Two minutes from Goodge Street.
+
+![Colville Place, a narrow flagstone lane between brick terraces, with potted plants along both sides and a single lamp standard down the middle](../../assets/articles/hidden-london-secret-places/colville-place.jpg)
+
+*Colville Place.*
 
 <div data-stay-strip></div>
 
@@ -103,6 +127,10 @@ That is exactly what makes it worth the walk. **Wapping Wood** runs alongside it
 
 Two kinetic bridges over Paddington Basin. Thomas Heatherwick's Rolling Bridge, installed in 2004, is twelve metres of eight hinged triangular segments that curl up into an octagon on the towpath. The Fan Bridge, by Knight Architects and finished in 2014, is twenty metres long and lifts in five separate fins like a hand fan. **Both are out of action.** Merchant Square's own page says the Fan Bridge is out of order and gives no return date; the Paddington Partnership says the same of the Rolling Bridge and points visitors back to Merchant Square. Almost every hidden London list still prints the timetables as though they were live — for the record, the Fan Bridge lifted Mondays, Wednesdays and Fridays at 11.30am, and never in high wind. The basin walkways are free and open at all hours, and there is nothing to book. Come for the water, the floating pocket park and the food, and treat any movement as a bonus.
 
+![The Fan Bridge at Paddington Basin raised into its fan shape, steel fins angled up against a grey sky beside a red-brick apartment block](../../assets/articles/hidden-london-secret-places/fan-bridge-paddington.jpg)
+
+*The Fan Bridge, Paddington Basin. Photo: [-JvL-](https://commons.wikimedia.org/wiki/File:The_Fan_Bridge_in_London.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Alexandra Road Estate, South Hampstead
 
 ![The stepped concrete terraces of the Alexandra Road Estate, planted with shrubs along a pedestrian street](../../assets/articles/hidden-london-secret-places/alexandra-road-terraces.jpg)
@@ -127,9 +155,17 @@ Two of the best things under London, and neither is something you can wander int
 
 Opened in 1906 by the London County Council, this ran trams under Kingsway from Holborn down to the Embankment, linking the north and south London tram networks, and closed in 1952. More than half of it survives, along with the remains of a subterranean tram station. The tour takes you down through the gate on the street into a wet, uneven, sixty-minute walk under the road. **Tickets are £49 adult and £45 concession plus a £1.50 booking fee.** Dates are released in batches rather than to a timetable, and the museum runs a notification list for each release. **Age 14 and over, photo ID required at the gate, and flat sturdy shoes** — sandals and heels are refused. No toilets, no cloakroom. Meet at Theobalds Road and Southampton Row, WC1B 4AP.
 
+![A cobbled ramp with tram rails running down between white-tiled walls topped with iron railings, towards a dark tunnel mouth](../../assets/articles/hidden-london-secret-places/kingsway-tram-subway.jpg)
+
+*The Kingsway Tram Subway. Photo: [steve_w](https://commons.wikimedia.org/wiki/File:Kingsway_Tram_Subway_2021.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Clapham South Deep Shelter
 
 One of eight deep-level shelters dug beneath Underground stations during the Second World War, opened in 1944 with bunks for 8,000 people, complete with canteen, medical posts and a warden's cabin. After the war it housed Caribbean arrivals off the *Empire Windrush* in 1948 and visitors to the Festival of Britain in 1951, and their graffiti is still on the walls. You descend eleven storeys and walk over a mile of tunnel with Northern line trains audible overhead; two guides take it, one in ARP warden costume, and the canteen and cabin have been restored to their 1940s state. **£39 adult, £36 concessions and children, 75 minutes, age 10 and over with 10 to 16s accompanied.** Tours run at 11am, 1pm and 3pm on selected dates. **Meet at the Marks & Spencer Food Hall on Balham Hill, SW12 9EA**, not at the station.
+
+![A long arched tunnel in black and white, its walls ribbed with bolted segments and a pale strip down the middle of the floor](../../assets/articles/hidden-london-secret-places/clapham-south-deep-shelter.jpg)
+
+*Inside the Clapham South deep shelter. Photo: [Sam Town](https://commons.wikimedia.org/wiki/File:Top_level_Clapham_South_Deep_Level_Shelter_2019-03-22.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
@@ -155,13 +191,25 @@ A covered market in cream, maroon and green wrought iron, built by Horace Jones 
 
 The architect's own house at 13 Lincoln's Inn Fields, preserved by an Act of Parliament of 1833 exactly as he left it at his death in 1837 — the sarcophagus of Seti I in the basement crypt, casts stacked to the ceiling, mirrors angled to steal daylight, and rooms so tightly packed you move through them sideways. **Entry is free and there is no need to book: walk in.** It opens **Wednesday to Sunday, 10am to 5pm, with last admission usually 4.30pm, and is closed Monday and Tuesday** though it opens on bank holidays. Capacity is small, so expect to queue. **Time your visit for the Picture Room panels, which are swung open at set hours — 2pm for the Rake's Progress on the north wall, and 11am, 3pm and 4pm for the south recess.** No café, no seating, no air conditioning.
 
+![The Picture Room at Sir John Soane's Museum, with gilt-framed paintings hung from floor to ceiling on dark walls below a skylight](../../assets/articles/hidden-london-secret-places/soane-museum-picture-room.jpg)
+
+*The Picture Room.*
+
 ### Cecil Court, Covent Garden
 
 A short Victorian shopping street between Charing Cross Road and St Martin's Lane, with bow windows, lamp standards and around two dozen shops, all independent and most of them dealers: Goldsboro Books for signed first editions, Marchpane for children's books, Watkins for the occult, Travis & Emery for sheet music, plus coin, medal, map, print and antiques specialists. Mozart's family lodged here in 1764, their first London address. Early film companies clustered here so thickly the trade called it Flicker Alley. It is free to walk down at any hour, **but the shops set their own hours — most keep roughly 10.30am to 5.30pm, Monday to Saturday, and a good many are closed on Sunday**, so a Sunday visit gets you a pretty empty alley and locked doors. The Diagon Alley claim is repeated everywhere and has never been confirmed by anyone.
 
+![Cecil Court, a narrow pedestrian street of antiquarian shops, with hanging signs for Mark Sullivan Antiques and Darnley Fine Art](../../assets/articles/hidden-london-secret-places/cecil-court.jpg)
+
+*Cecil Court. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:Cecil_Court_2024-10-10.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 ### Neal's Yard, Covent Garden
 
 A courtyard about twenty metres across, reached through narrow alleys off Monmouth Street and Short's Gardens. Until the 1970s it was a derelict, rat-infested yard of warehouses serving the fruit and vegetable market; in 1976 Nicholas Saunders bought one of the empty buildings and filled the yard with wholefood and natural-remedy businesses. Neal's Yard Dairy followed in 1979 and Neal's Yard Remedies in 1981. Every wall is a different colour, plants hang off every ledge, and there are now cafés, wine bars and restaurants around the edges. **It is free and always open, and it is the most photographed twenty metres in London — a dozen people with cameras fills it completely, so come before 10am.** The alleys in are easy to walk straight past; the courtyard is not a secret.
+
+![Neal's Yard with a yellow-painted building, flower boxes, strings of lights and crowded outdoor tables](../../assets/articles/hidden-london-secret-places/neals-yard.jpg)
+
+*Neal's Yard.*
 
 <div data-stay-strip></div>
 
@@ -169,13 +217,25 @@ A courtyard about twenty metres across, reached through narrow alleys off Monmou
 
 A white-tiled pedestrian tunnel under the Thames, opened in 1902 by the London County Council so that workers living in Greenwich could reach the docks and shipyards on the Isle of Dogs in any weather. You enter through a glazed brick rotunda by the *Cutty Sark*, go down a spiral staircase or a lift, and come up at Island Gardens with the whole Greenwich waterfront laid out behind you across the river. It is entirely free and **open 24 hours; since the refurbishment the lifts run around the clock too, and the council publishes a live lift status page**. **You must not cycle through — dismount and walk, and e-bikes are barred altogether**, which catches out hire-bike riders. Thousands use it daily, so it is not hidden; it is simply free while most visitors pay for the DLR.
 
+![The white-tiled Greenwich Foot Tunnel stretching ahead, with walkers and a yellow line down the floor](../../assets/articles/hidden-london-secret-places/greenwich-foot-tunnel.jpg)
+
+*The Greenwich Foot Tunnel.*
+
 ### Word on the Water, King's Cross
 
 A 1920s Dutch barge, the *Dianti*, moored on the Regent's Canal towpath between Granary Square and the York Way bridge, trading as a bookshop. There is a wood-burning stove in the cabin, secondhand and new stock crammed floor to ceiling, and a roof deck that hosts jazz and poetry on summer weekends. It spent years being moved along the canal before the King's Cross development gave it a permanent mooring in 2015. The cabin holds about six people comfortably. **It is free to browse and opens midday to 7pm every day except Christmas Day** — later than most bookshops, but it is shut all morning, which is when a lot of people walk past it and assume it has gone. It is one of the most photographed shops in London and not remotely a secret.
 
+![The Word on the Water bookshop barge moored on the canal, with books laid out along the roof and a deck of plants and speakers](../../assets/articles/hidden-london-secret-places/word-on-the-water.jpg)
+
+*Word on the Water. Photo: [Luke McKernan](https://commons.wikimedia.org/wiki/File:Word_on_the_Water,_Kings_Cross.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ### The King's Cross Light Tunnel
 
 The pedestrian subway running from King's Cross and St Pancras under the road to King's Boulevard, Granary Square and Coal Drops Yard. It is 90 metres long and gently curved, and one whole wall is a light installation — 190 individually controllable vertical pixels behind 12mm toughened glass, designed by Allies and Morrison with Speirs Major and The Light Lab. The colour crawls and shifts as you walk through it, and the tunnel has been used as a London Fashion Week catwalk and hosted a yoga workshop. **It is free and open 7am to 8pm daily**, so it is not a route home from a late train. Tens of thousands of people walk it every week without meaning to. It is thirty good seconds, not a destination.
+
+![The curved wall of the King's Cross Light Tunnel glowing blue, lilac and yellow, opposite a wall of black and white vertical bands](../../assets/articles/hidden-london-secret-places/kings-cross-light-tunnel.jpg)
+
+*The King's Cross Light Tunnel. Photo: [Images George Rex](https://commons.wikimedia.org/wiki/File:Lightwall_King%27s_Cross_%2814824061320%29.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
