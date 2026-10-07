@@ -4,6 +4,7 @@
   "updated": "2026-10-07",
   "inProgress": [],
   "nextUp": [
+    "Request indexing (about 10 a day) for the other nine: South Kensington where to stay, hen do, Caribbean, Vietnamese, Wapping to Canary Wharf walk, London Stadium, healthcare for visitors, Paultons Park, private members clubs. Rerun node scripts/index-coverage.mjs around 14 October.",
     "Look up Hotels.com ids (when its bot check clears) for about 15 linked hotels that still go to their own sites: King's Cross's St Pancras London, The Standard, The Megaro, Point A, Kabannas; The Londoner, The Milestone, London Bridge Hotel, The Twenty Two, Redchurch Townhouse, citizenM Olympia, Zedwell Leicester Place.",
     "Clean the Sheet card notes: about 137 overused phrases (mostly \"genuinely\" in Hidden London) plus the old \"that matters\"/\"other guides\" wording. Dry-run each Sheet writer and compare row counts first, then move the \"overused phrase\" rule from ARTICLE_ONLY to EVERYWHERE in scripts/check-page-wording.mjs.",
     "Rerun node scripts/index-coverage.mjs around 6 October to see how many of the 45 unindexed guides the sitemap has fixed.",
@@ -20,7 +21,6 @@
     "Click the Spear's link on the members' clubs guide once in a browser (it blocks scripts).",
     "Photos still wanted (the supplied ones were watermarked or AI): best-kosher-restaurants-london, bottomless-brunch-london, casinos-london, kids-eat-free-london, restaurant-deals-london, tax-free-shopping-london; Captain Kidd and 3 other unusual-restaurants venues; Clifton Nurseries café.",
     "Clifton Nurseries café map pin: say if a postcode-centre pin (W9 2PH) is acceptable, or leave it off the map.",
-    "Search Console: request indexing (about 10 a day) for the guides Google has never seen, oldest first: best-street-food-london, best-london-markets, best-turkish-restaurants-london, best-caribbean-restaurants-london, westminster-walk, westminster-abbey-guide, london-stadium-travel-guide, best-hostels-london, the-o2-travel-guide, is-london-safe. Full list in data/index-coverage.json.",
     "Hotel guide photos still missing (your downloads were too small, wrong hotel or not the pool): ExCeL — Marriott Canary Wharf, Moxy Stratford (480px), Travelodge ExCeL; Greenwich — Staycity Deptford Bridge (not open yet), The Pelton Arms, Travelodge Greenwich, bedrooms for The Mitre and The Admiral Hardy; pools — Bulgari and Westin (480px), Café Royal, Park Plaza Westminster Bridge, The Marylebone, St Pancras, Mandarin Oriental Hyde Park (its photo was the New York hotel), Canary Riverside, The Landmark's vitality pool.",
     "Sheet fixes: staycity-deptford-bridge postcode is SE8 4HH (not SE10 8FH); sunborn-london needs its Hotels.com URL (ho463416) and its description (133 rooms and 5 suites, not a 40-metre yacht with cabins); the mondrian-shoreditch row is now Virgin Hotels London-Shoreditch.",
     "Check seven Hotels.com links on the pool guide that Hotels.com's bot check stopped me verifying: Pan Pacific, Haymarket, The Marylebone, The Dilly, Leonardo St Paul's, Novotel Blackfriars, St Pancras.",
@@ -45,6 +45,10 @@
     "Activities Sheet: point the British Museum row at /articles/british-museum-guide/ instead of the Bloomsbury guide."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-07",
+      "what": "Index check: 256 of 275 guides indexed (215 of 260 on 29 Sep); the sitemap fixed it. Indexing requested in Search Console for Westminster Abbey, British Museum, November, London markets, Stonehenge, is London safe, Westminster walk, hotels with a pool, the O2 and hostels."
+    },
     {
       "date": "2026-10-07",
       "what": "Pushed live: British Museum guide (11 photos, Bayeux Tapestry section, linked from 38 pages); Things to Do in London in November 2026 with its month data; hidden London page now has a photo for every place; Tourist app added to the discount cards page; Paranormal Activity's 10.30pm Halloween performance on the Halloween and October guides; Bonfire Night refresh; Regent Street lights date (5 Nov)."
