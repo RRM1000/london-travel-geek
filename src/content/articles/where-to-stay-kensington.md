@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Milestone_Hotel.jpg
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-06-12
-updatedAt: 2026-09-27
+updatedAt: 2026-10-07
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -34,6 +34,8 @@ faq:
 This guide covers Kensington west of the museums: **Kensington High Street and the edge of Kensington Gardens**, the terraces of **Earl's Court** to the south, the **Cromwell Road** hotels between them, and **Olympia** on the Hammersmith side. It stops short of the museum streets, which have [their own guide](/articles/where-to-stay-south-kensington/). Prices fall as you walk south, from the palace to Earl's Court.
 
 > 💡 **The Short Version:** For Kensington Gardens, **[The Milestone](hotel:the-milestone-hotel)** faces Kensington Palace, at about £550, with a family suite built around bunk beds and a pool guests use free. For a big hotel by the high street, **[Copthorne Tara](hotelscom:h26145)** has 833 rooms three minutes from High Street Kensington. On a budget, **Mowbray Court** in Earl's Court is about £119, with a lift and air conditioning; **The Edwin** and **Twenty Nevern Square** include breakfast. For a kitchen, **Ember Locke** on Cromwell Road has 121 studios and family suites sleeping four. For a show or trade fair at Olympia, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)**, one minute from the station, at about £220.
+>
+> **Three picks:** [Mowbray Court](hotelscom:608469) (about £119, lift and air conditioning) · [Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia) (about £220, one minute from Olympia) · [Royal Garden Hotel](hotelscom:105991) (Garden Deluxe rooms face Kensington Gardens).
 
 ## Which part of Kensington
 

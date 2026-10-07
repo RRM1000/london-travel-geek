@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:View_of_the_seat_in_the
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 publishedAt: 2026-07-25
-updatedAt: 2026-09-25
+updatedAt: 2026-10-07
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -35,7 +35,7 @@ Notting Hill and Bayswater are one stretch of stucco streets along the north sid
 
 The Central line runs under the whole strip, stopping at Notting Hill Gate, Queensway and Lancaster Gate, and Paddington, for Heathrow, is one stop from Bayswater on the Circle line. What decides where you sleep is the market, the park and one weekend in August.
 
-> 💡 **The Short Version:** For Notting Hill itself, **[The Laslett](hotel:the-laslett)** is about £240 in five listed townhouses a minute from Notting Hill Gate station. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 for the round beds and freestanding baths, but every room takes two people only. On a budget, **Vancouver Hotel and Studios** on Prince's Square lists studios with kitchenettes from £97. With children, **[Royal Lancaster London](hotel:royal-lancaster-london)** sells interconnecting family rooms opposite Kensington Gardens. For the top end, **Six Senses London** is about £700 inside the old Whiteleys department store. And check the calendar: **Notting Hill Carnival is on 29 and 30 August 2027**.
+> 💡 **The Short Version:** For Notting Hill itself, **[The Laslett](hotel:the-laslett)** is about £240 in five listed townhouses a minute from Notting Hill Gate station. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 for the round beds and freestanding baths, but every room takes two people only. On a budget, **[Vancouver Hotel and Studios](hotelscom:h520898)** on Prince's Square lists studios with kitchenettes from £97. With children, **[Royal Lancaster London](hotel:royal-lancaster-london)** sells interconnecting family rooms opposite Kensington Gardens. For the top end, **[Six Senses London](hotel:six-senses-london)** is about £700 inside the old Whiteleys department store. And check the calendar: **Notting Hill Carnival is on 29 and 30 August 2027**.
 
 ## Which part of Notting Hill and Bayswater
 

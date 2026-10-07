@@ -5,7 +5,7 @@ description: "London aparthotels and serviced apartments compared by area: Locke
 heroImage: "../../assets/articles/aparthotels-london/aparthotel-studio-living-space.jpg"
 heroImageAlt: "A studio room with a bed, a sitting area with a bench sofa and cushions, a full-height wardrobe and a screened bathroom beyond"
 publishedAt: 2026-09-07
-updatedAt: 2026-09-25
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -33,6 +33,8 @@ An aparthotel is a hotel where the room has a kitchen. Whether that is worth any
 Per night, a London studio costs about what a decent hotel room costs in the same postcode. The saving is in what you stop paying for — and for a family, breakfast alone in central London runs £60 to £80 a day.
 
 > 💡 **The Short Version:** The format pays for itself around the **third or fourth night**, sooner with children. The universal trade is that **nobody cleans your room daily** — weekly is the standard across every operator here. **Supercity** and **Cheval** put a washer-dryer in every unit, and so do a few specific Locke and Native addresses — most others use a shared laundry room instead. Kitchens vary just as much — some come with a dishwasher, others just a hob and a microwave — so check the room grade. **Cheval** and the **Cove** properties do proper separate bedrooms; most of the rest are studios, where a family of four shares one room.
+>
+> **Three picks:** [Native Fulham Broadway](hotel:native-fulham-broadway) (Zone 2, laundry in the building) · [Native Bankside](hotel:native-bankside) (washer-dryer in the apartment, own gym) · [Native Mayfair](hotel:native-mayfair) (full kitchen, mews near Bond Street).
 
 ## The trade nobody puts on the booking page
 

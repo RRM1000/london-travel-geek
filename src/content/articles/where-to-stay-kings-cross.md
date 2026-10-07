@@ -5,7 +5,7 @@ description: "Eurostar wants you inside St Pancras 75 minutes before departure a
 heroImage: "../../assets/articles/kings-cross-area-guide/coal-drops-yard-roofs.jpg"
 heroImageAlt: "Coal Drops Yard's curved zinc kissing-roof sweeping up to meet the glass-walled upper level, with a cast-iron gasholder frame and glass apartments behind, crowds on the railed walkway above brick arches and a busy plaza with market stalls below"
 publishedAt: 2026-07-07
-updatedAt: 2026-09-25
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -33,6 +33,8 @@ The timings are what decide it. **Eurostar asks Standard and Plus passengers to 
 What you give up is the neighbourhood. **The hotels are on the Euston Road side of the stations, and the part of King's Cross people actually visit is on the other side** — Granary Square, the fountains, Coal Drops Yard and Gasholder Park, all about ten minutes north of the concourse. There is almost nowhere to stay up there, so you book near the platform and walk.
 
 > 💡 **The Short Version:** **St Pancras London** at about £350 is the only hotel inside the terminus, and the Chambers rooms are the ones in the actual 1873 building. **The Standard** at about £249 is the design answer, in a Brutalist council annexe with a red lift running up the outside. **The Megaro** at about £180 is the independent, two minutes from the platform, and its cheaper Essential rooms are *bigger* than its design ones. **Point A** at about £95 is the sensible booking for a train you cannot miss. **Kabannas** — the former YHA St Pancras, under a new operator — starts at £50 for a pod. And if you would rather not pay for the address, **Bloomsbury** is ten minutes' walk south and cheaper on every tier — **[Generator London](hotel:generator-london)** is £26 a bed.
+>
+> **Three picks:** [Generator London](hotel:generator-london) (about £26 a bed, a party hostel) · [Zedwell Tottenham Court Road](hotel:zedwell-tottenham-court-road) (£81 to £206, windowless private room) · [Treehouse Hotel London](hotel:treehouse-hotel-london) (about £250, top-floor views, Victoria line).
 
 ## Which part of King's Cross and St Pancras
 

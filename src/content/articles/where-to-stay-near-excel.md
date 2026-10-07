@@ -3,7 +3,7 @@ title: "Where to Stay Near ExCeL London: Hotels by Entrance, and the Last Train 
 seoTitle: "Hotels Near ExCeL London: Where to Stay by Entrance"
 description: "Hotels for a show, convention or conference at ExCeL London, sorted by the entrance they suit: Western Gateway by Custom House, the east end by Prince Regent and the ICC, Canary Wharf and Woolwich one stop away, and the budget chains. With the last trains back after an evening event."
 publishedAt: 2026-06-23
-updatedAt: 2026-09-29
+updatedAt: 2026-10-07
 reviewBy: 2026-12-12
 sites: [london]
 canonicalSite: london
@@ -28,6 +28,8 @@ faq:
 ExCeL is a single building nearly a kilometre long, with a station at each end: **Custom House** (Elizabeth line and DLR) by the West Entrance, and **Prince Regent** (DLR only) by the East Entrance and the ICC conference suites. The two entrances are about 600 metres apart inside, so the first thing to settle is which end your event uses. MCM Comic Con, for one, sends everyone to its queue hall from Custom House. Our [ExCeL London guide](/articles/excel-london-guide/) covers the stations, parking and bag rules; this page covers where to sleep.
 
 > 💡 **The Short Version:** For a show at the **West Entrance**, including **MCM Comic Con**, stay on **Western Gateway**: the **ibis London ExCeL Docklands** is two minutes' walk from the venue and was **£76** on an October Sunday and **£185** on an October Saturday. For the **East Entrance and the ICC**, **Aloft London ExCeL** is a minute away at about **£115**, with an indoor pool. One stop from Custom House, **Canary Wharf** is **3 minutes** on the Elizabeth line and **Woolwich** **4**. The cheapest night in our budget hotels guide, **£34.99** on an October Sunday, was at **Travelodge London Docklands Central**, six minutes from Custom House by DLR. After an evening event, the last Elizabeth line train west leaves Custom House at **00:05**, or **22:35** on a Sunday. Neither the Elizabeth line nor the DLR runs all night, but the **N551** night bus leaves Custom House every half hour.
+>
+> **Three picks:** [ibis London ExCeL Docklands](hotelscom:215235) (£, £76 on an October Sunday, two minutes from ExCeL) · [Aloft London ExCeL](hotel:aloft-london-excel) (££, about £115, indoor pool beside the East Entrance) · [Sunborn London](hotelscom:463416) (£££, about £160, a moored superyacht on the dock).
 
 ## The bases compared
 

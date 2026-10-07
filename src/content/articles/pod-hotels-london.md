@@ -5,7 +5,7 @@ description: "London has five real capsule hotels, not the eleven the listicles 
 heroImage: "../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg"
 heroImageAlt: "A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers"
 publishedAt: 2026-07-05
-updatedAt: 2026-09-25
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -35,6 +35,8 @@ A capsule is a sealed berth roughly the size of a single bed, lined in oak, with
 London has **five of them**, not counting ordinary hostels and small-room hotels.
 
 > 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the five. **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** is the only one with a bar and a social side. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
+>
+> **Three picks:** [Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule) (£33–£68, one minute from the Tube) · [St Christopher's Village](hotel:st-christophers-village) (£53–£166 a double capsule, bar downstairs) · [Otherwander Soho](hotel:otherwander-soho) (£62–£119, 563 pods).
 
 > 🛏️ **Want the kitchen and the bar instead?** That is a [hostel](/articles/best-hostels-london/), and our guide compares them on the things booking sites bury — which dorms are en-suite, which have real female-only rooms, and the age limits that will refuse you at the desk. Beds start around £11.
 

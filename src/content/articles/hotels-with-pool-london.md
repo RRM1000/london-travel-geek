@@ -3,7 +3,7 @@ title: "London Hotels With a Pool You Can Actually Use: Rooftop, Family and Spa 
 seoTitle: "London Hotels With a Pool: Rooftop, Family & Spa"
 description: "London hotels with a swimming pool, checked against each hotel's own rules: the length, indoor or rooftop, whether guests swim free, the children's hours and the adults-only limits. Plus the famous 'pools' that are only vitality pools."
 publishedAt: 2026-06-22
-updatedAt: 2026-09-29
+updatedAt: 2026-10-07
 reviewBy: 2027-03-29
 sites: [london]
 canonicalSite: london
@@ -28,6 +28,8 @@ faq:
 A hotel that lists a pool can mean a 25-metre lane under Knightsbridge, a warm vitality pool you float in, or a rooftop that closes for the winter. Every hotel below was checked on its own website for the length, whether hotel guests swim free, and when children are allowed in.
 
 > 💡 **The Short Version:** For a swim above the rooftops, **[art'otel Battersea Power Station](#artotel-london-battersea-power-station)** has a heated rooftop pool on the 16th floor, open all year, and **[The Berkeley](#the-berkeley)**, named by 21 of the 31 sources, more than any other hotel, has a rooftop pool open in spring and summer only. With children, **[The Savoy](#the-savoy)** lets them swim from 9am to 5pm daily and **[London Marriott Hotel County Hall](#london-marriott-hotel-county-hall)** has a 25-metre pool free to guests. For proper lengths, **[Bulgari](#bulgari-hotel-london)**, **[The Peninsula](#the-peninsula-london)** and **[Mandarin Oriental Mayfair](#mandarin-oriental-mayfair)** each have 25 metres. **Corinthia London is on 11 of the lists, and its spa has vitality pools, not a lap pool.**
+>
+> **Three picks:** [Town Hall Hotel](hotel:town-hall-hotel) (about £220, 14m heated pool) · [art'otel London Battersea Power Station](hotel:artotel-battersea-power-station) (about £320, rooftop infinity pool all year) · [Shangri-La The Shard](hotel:shangri-la-the-shard) (about £550, level 52 infinity pool).
 
 > 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one stay. This pass reads **31 sources carrying 251 citations** across **61 named hotels**: the travel and lifestyle press (Time Out, Condé Nast Traveller, Tatler, Esquire, The Independent, the Evening Standard, DesignMyNight, Country & Town House), London and hotel specialists (Secret London, The Sauce, The Hotel Guru, The Rooftop Guide), family-travel blogs (Globetotting, Wanderlust Chloe, Flashpacking Family, MummyTravels, A Suffolk Mum), a Mumsnet Talk thread and six YouTube channels. **40 hotels are named by two or more independent sources.** The pool rules on each entry come from the hotel's own website.

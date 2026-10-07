@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Pontoon_Dock_DLR_stati
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-14
-updatedAt: 2026-09-27
+updatedAt: 2026-10-07
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -32,6 +32,8 @@ faq:
 The O2 has one station, North Greenwich, on one Tube line, the Jubilee. So the useful question is not which hotel is nearest but which one is on the Jubilee close enough that the last train and the queue at the gates don't decide how your night ends. The same applies to indigo at The O2, the smaller venue on the same site. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers parking, the cable car and the boat.
 
 > 💡 **The Short Version:** **Canary Wharf** and **Canning Town** are the bases for most people: one stop either side of North Greenwich, two minutes on the train. The cheapest beds are at **[ibis London Canning Town](hotelscom:h19692814)**, opposite the station at a typical **£106**, and **[Travelodge London Docklands Central](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)**, **£34.99** on an October Sunday. The central base is **London Bridge**, nine minutes on the Jubilee. The trap is sleeping on the peninsula on a show night: the **InterContinental** was **£465** on a Sunday concert night and **£261** a week later. On Fridays and Saturdays the Jubilee runs all night; other nights the last train west leaves North Greenwich at **00:19**, or **23:45** on a Sunday.
+>
+> **Three picks:** [ibis London Canning Town](hotelscom:h19692814) (£, typical £106, opposite the station) · [Novotel London Canary Wharf](hotel:novotel-canary-wharf) (£££, from £156, two Jubilee minutes away) · [InterContinental London – The O2](hotel:intercontinental-the-o2) (££££, private walkway into The O2).
 
 ## The bases compared
 

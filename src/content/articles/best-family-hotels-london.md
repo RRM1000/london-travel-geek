@@ -5,7 +5,7 @@ description: "The family hotels London's parents, bloggers and the travel press 
 heroImage: "../../assets/articles/best-family-hotels-london/family-reading-in-bed.jpg"
 heroImageAlt: "A father reading a red picture book to two young children on a double bed, seen through an open bedroom door"
 publishedAt: 2026-09-18
-updatedAt: 2026-09-29
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -27,6 +27,8 @@ faq:
 Twenty-one hotels here are named by two or more independent sources specifically for families - not just "central London hotels" with a cot thrown in, but places parents, family-travel bloggers and the travel press keep pointing at for a room that actually fits two adults and two children. Every one is checked as trading, with its family room, cot policy, pool and nearest station taken from the hotel's own website.
 
 > 💡 **The Short Version:** **[The Athenaeum Hotel & Residences](#the-athenaeum-hotel--residences)** is named by more sources for families than anywhere else in London - a Mayfair children's concierge, interconnecting rooms and serviced Residences with a bunk bed on request. **[The Landmark London](#the-landmark-london)** and **[St. Ermin's Hotel](#st-ermins-hotel)** have the biggest standard family rooms; **[The Goring](#the-goring)** and **[The Rubens at the Palace](#the-rubens-at-the-palace)** are the two family-run names closest to Buckingham Palace. On the South Bank, **[London Marriott Hotel County Hall](#london-marriott-hotel-county-hall)** and **[Park Plaza County Hall](#park-plaza-county-hall)** put a family between the London Eye and Big Ben. Further out, only one hotel earned its place: **[Town Hall Hotel and Apartments](#town-hall-hotel-and-apartments)** in Bethnal Green, for a pool and a two-Michelin-starred restaurant downstairs. Prices below are for one room sleeping two adults and two children, on a November weekday; the cheapest of them is **£257**.
+>
+> **Three picks:** [The Georgian House Hotel](hotel:georgian-house-wizard-chambers) (£257 family night, Harry Potter-style Wizard Chambers) · [St. Ermin's Hotel](hotel:st-ermins-hotel) (£591, biggest standard family room) · [The Athenaeum](hotelscom:175165) (£1,066, interconnecting rooms, children's concierge).
 
 > 📊 **The evidence behind this guide.**
 > Nothing here is ranked on one stay. This pass reads **36 sources carrying 351 citations** across **213 named hotels**: the editorial mastheads (Time Out, Condé Nast Traveller, The Independent, Glamour UK), Mumsnet's own family-hotel reviews, family-travel specialist blogs (Family Hotel Expert, Kids Are A Trip, MummyTravels, Marcie in Mommyland, Santorini Dave, The London Mother, Families Love Travel, Travel Mad Mum, Family Traveller), one YouTube family vlogger and 12 Reddit threads across r/uktravel, r/LondonTravel, r/london, r/marriott, r/hyatt, r/Hilton, r/travel and r/awardtravel. **61 hotels are named by two or more independent sources.** No judged family-hotel award exists for London to check against - the Family Traveller Awards 2026 were read in full and name no London property.

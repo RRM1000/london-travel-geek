@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=155127135"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-06-14
-updatedAt: 2026-09-29
+updatedAt: 2026-10-07
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london

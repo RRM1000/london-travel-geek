@@ -3,7 +3,7 @@ title: "Where to Stay in Greenwich: The Town, the Park, the Peninsula and Deptfo
 seoTitle: "Where to Stay in Greenwich, London: Hotels by Area"
 description: "Greenwich hotels sorted by the part of Greenwich they are in: the town centre by the Cutty Sark, Blackheath and the park's edges, the O2 peninsula and Deptford Bridge. The station each is nearest, the trains, boats and buses into town, and how to get back after midnight."
 publishedAt: 2026-06-22
-updatedAt: 2026-09-29
+updatedAt: 2026-10-07
 reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
@@ -30,6 +30,8 @@ Greenwich is a town of its own, in Zones 2 and 3: the Cutty Sark, the Old Royal 
 Which station you use, how far you walk to the park and how you get home after midnight all depend on where you sleep. Our [Greenwich area guide](/articles/greenwich-area-guide/) covers the sights, the market and where to eat.
 
 > 💡 **The Short Version:** For the sights, stay in the **town centre**: **[ibis London Greenwich](hotelscom:179227)** is on Stockwell Street, a few minutes from the park gates and the market. For a family of four, **Novotel London Greenwich** sells rooms for four beside Greenwich station, and **Staycity** has one-bedroom apartments with kitchens on the same road. On a budget, **Zedwell Greenwich** is **£66 to £145** for a windowless room. For a village and a heath, not a high street, **The Clarendon** in Blackheath has free parking. For a show at The O2, see our guide to [where to stay near The O2](/articles/where-to-stay-near-the-o2/). And plan the late nights: **the DLR's last train from Bank leaves at 00:33**, and after that it is the 24-hour 188 bus.
+>
+> **Three picks:** [Zedwell Greenwich](hotel:zedwell-greenwich) (£66 to £145, windowless room for two) · [Novotel London Greenwich](hotelscom:226467) (rooms for four, one minute from the station) · [InterContinental London – The O2](hotel:intercontinental-the-o2) (about £280, pool and walkway into The O2).
 
 ## Which part of Greenwich
 

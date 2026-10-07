@@ -5,7 +5,7 @@ description: "Six operators sell London rooms with no window at all, and all twe
 heroImage: "../../assets/articles/windowless-hotel-rooms-london/zedwell-cocoon-room.jpg"
 heroImageAlt: "A Zedwell cocoon room with a bed on a lit wooden plinth, a full-length mirror, hooks and a private door"
 publishedAt: 2026-07-07
-updatedAt: 2026-09-25
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -39,6 +39,8 @@ The other five do it as a grade in the price list: **every one of Z Hotels' twel
 This is what the rooms are like, which brands tell you plainly and which do not, and what daylight actually costs — because the answer runs from £5 to £35 for the identical room.
 
 > 💡 **The Short Version:** A windowless room is a **small, private, en-suite hotel room with no daylight**, and it is not a capsule. **Zedwell** is the purpose-built version: for two people it is very good value, because the second guest adds about £5 a night. **Z Hotels** sells a windowless "Inside" grade at all twelve London branches — cheapest at **Shoreditch and Victoria, £50** — but the premium for daylight varies wildly, from £5 at Tottenham Court Road to £35 at Shoreditch. **Read the grade name before you pay.** Three of the six operators bury it.
+>
+> **Three picks:** [The Z Hotel Shoreditch](hotel:z-hotel-shoreditch) (£50 windowless, two minutes from Old Street) · [Zedwell Greenwich](hotel:zedwell-greenwich) (£66–£145, Cutty Sark DLR) · [Zedwell Piccadilly Circus](hotel:zedwell-piccadilly-circus) (£97–£287, one minute from the Tube).
 
 ## Two different things get called a windowless room
 

@@ -5,6 +5,7 @@ description: "About 245 London hotels sell a room for the day, not the night: fi
 heroImage: "../../assets/articles/day-rooms-london/london-hotel-room-daytime.jpg"
 heroImageAlt: "A London hotel room with a double bed, a patterned throw, teal bedside tables and lamps lit either side of an upholstered headboard"
 publishedAt: 2026-09-23
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -32,6 +33,8 @@ About **245 London hotels** will sell you a room for the afternoon, not the nigh
 It is the least-known useful thing in London accommodation, and the answer to a problem most visitors have at least once: a nine-hour gap, a suitcase, and nowhere to be.
 
 > 💡 **The Short Version:** You book a **fixed window**, not hours of your choosing, and **10am–5pm is close to a default** — 41 of the 73 London windows open at 10am. Most run **seven or eight hours**, and a longer window costs almost nothing extra, so **always take the longest one on offer**. Check **when it starts** before anything else, and whether it says *payment at the hotel* (most do, so it costs nothing to hold). Landing early? Only **Marlin Waterloo** and, at Heathrow, the **Crowne Plaza T4** and the **Atrium** open at 7am.
+>
+> **Three picks:** [Hilton London Paddington](hotel:hilton-london-paddington) (£117 a day, 9am–6pm) · [Treehouse Hotel London](hotel:treehouse-hotel-london) (£169, 10am–5pm) · [The Athenaeum](hotelscom:175165) (£272, 10am–6pm, Piccadilly).
 
 ## What it actually costs
 

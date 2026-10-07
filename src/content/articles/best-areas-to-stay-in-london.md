@@ -5,7 +5,7 @@ description: "The area you most want to visit is often the worst one to sleep in
 heroImage: "../../assets/articles/best-areas-to-stay-in-london/covent-garden-piazza-aerial.jpg"
 heroImageAlt: "Covent Garden piazza seen from above in late afternoon light: the glass-roofed market building and its colonnade, cafe umbrellas and crowds on the cobbles below, and central London rooftops stretching away behind"
 publishedAt: 2026-09-08
-updatedAt: 2026-09-27
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -35,6 +35,8 @@ What decides a base is duller and more specific. What a room costs. How far you 
 This page is the sleeping question. If you want the looking-at-things question, our [guide to the best areas to visit](/articles/best-areas-to-visit-london/) sorts the neighbourhoods on exactly that basis, and the two lists agree less often than you would expect.
 
 > 💡 **The Short Version:** **First trip: Covent Garden, the South Bank or Bloomsbury** — central, walkable, and you can get home on foot from most of what you book. **Going out: Soho or Shoreditch**, and neither is cheap. **Museums and children: South Kensington**, for the Victorian subway that takes most of the walk to the museums underground. **Budget: stay in Zone 1 and go smaller**, not out to Zone 3. **Quiet: Chelsea, Notting Hill or Hampstead.** **Early flight: Paddington.** Booking Zone 3 to save twenty pounds a night costs more in travelling time than it saves in money.
+>
+> **Three picks:** [Strand Palace](hotel:strand-palace) (Covent Garden, about £140, art deco 1909) · [The Hoxton](hotel:the-hoxton-shoreditch) (Shoreditch, about £200, breakfast in a bag) · [Shangri-La The Shard](hotel:shangri-la-the-shard) (about £550, 52nd-floor infinity pool).
 
 ## Getting home at night
 

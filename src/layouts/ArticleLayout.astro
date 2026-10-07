@@ -453,6 +453,37 @@ const formatDate = (d: Date) =>
     // link already works without them, so this only ever adds.
     const isoDay = (d: Date) => d.toISOString().slice(0, 10);
 
+    // Once a reader has picked dates in any stay strip, every Hotels.com hotel
+    // link on the page (and on the next pages they open this visit) opens on
+    // those dates, instead of a hotel page they have to start again on.
+    const DATES_KEY = "ltg-stay-dates";
+    const HOTEL_PAGE = /hotels\.com\/(ho\d+|h\d+\.Hotel-Information)/;
+
+    function datedHotelLinks(chkin: string, chkout: string) {
+      for (const a of document.querySelectorAll<HTMLAnchorElement>('a[href*="hotels.com"]')) {
+        const href = a.getAttribute("href") ?? "";
+        if (!HOTEL_PAGE.test(href)) continue;
+        const clean = href.replace(/[?&]chkin=[^&]*&chkout=[^&]*$/, "");
+        a.setAttribute("href", `${clean}${clean.includes("?") ? "&" : "?"}chkin=${chkin}&chkout=${chkout}`);
+      }
+    }
+
+    function rememberDates(chkin: string, chkout: string) {
+      try {
+        sessionStorage.setItem(DATES_KEY, JSON.stringify({ chkin, chkout }));
+      } catch {
+        // Private mode: the links on this page still get the dates.
+      }
+      datedHotelLinks(chkin, chkout);
+    }
+
+    try {
+      const saved = JSON.parse(sessionStorage.getItem(DATES_KEY) ?? "null");
+      if (saved?.chkin && saved?.chkout && saved.chkin >= isoDay(new Date())) datedHotelLinks(saved.chkin, saved.chkout);
+    } catch {
+      // Nothing saved, or storage blocked.
+    }
+
     for (const form of document.querySelectorAll<HTMLFormElement>("[data-stay-strip-form]")) {
       const start = form.querySelector<HTMLInputElement>('input[name="startDate"]');
       const end = form.querySelector<HTMLInputElement>('input[name="endDate"]');
@@ -486,6 +517,11 @@ const formatDate = (d: Date) =>
       go.addEventListener("click", () => {
         const dated = start.value && end.value && end.value > start.value;
         go.setAttribute("href", dated ? `${base}&startDate=${start.value}&endDate=${end.value}` : base);
+        if (dated) rememberDates(start.value, end.value);
+      });
+
+      end.addEventListener("change", () => {
+        if (start.value && end.value && end.value > start.value) rememberDates(start.value, end.value);
       });
 
       form.addEventListener("submit", (e) => {

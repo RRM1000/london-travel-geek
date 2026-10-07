@@ -5,7 +5,7 @@ description: "Shoreditch hotels compared, which streets are loud at 2am, and the
 heroImage: "../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp"
 heroImageAlt: "The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window"
 publishedAt: 2026-07-06
-updatedAt: 2026-10-03
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"

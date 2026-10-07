@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:1-17_Norfolk_Square,_Pa
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-09-25
-updatedAt: 2026-09-26
+updatedAt: 2026-10-07
 reviewBy: 2027-03-25
 sites: [london]
 canonicalSite: london
@@ -34,6 +34,8 @@ Paddington is a railway station with a hotel district wrapped around it. The Hea
 What decides where you sleep is how early your train is, whether you can manage stairs, and how late you plan to be out.
 
 > 💡 **The Short Version:** For an early flight, **[Hilton London Paddington](hotel:hilton-london-paddington)**, about £200, is the 1854 Great Western Royal Hotel on the front of the station, and **[The Pilgrm](hotel:the-pilgrm)**, about £150, is under three minutes' walk; the first Heathrow Express leaves at **04:34** Monday to Saturday. On a budget, **Norfolk Towers** sells 4.5-square-metre singles from £69. With children, **Mitre House Hotel** has family rooms for four, a cooked breakfast included and a lift. For a kitchen, **Wilde** has studios on the canal basin. And plan the late nights: **Paddington has no Night Tube line**.
+>
+> **Three picks:** [Norfolk Towers Paddington](hotelscom:h27024) (£, singles from £69, five minutes from the station) · [The Pilgrm](hotel:the-pilgrm) (££, about £150, under three minutes away) · [Hilton London Paddington](hotel:hilton-london-paddington) (£££, about £200, on the station).
 
 ## Which part of Paddington
 

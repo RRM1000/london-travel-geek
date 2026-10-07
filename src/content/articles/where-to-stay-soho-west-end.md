@@ -5,7 +5,7 @@ description: "West End hotels compared — including the windowless rooms that m
 heroImage: "../../assets/articles/where-to-stay-soho-west-end/the-devonshire-soho.jpg"
 heroImageAlt: "The Devonshire on the corner of Denman Street in Soho: a red-brick Victorian pub with dark green tiling and gold lettering reading 'Ales, stouts, wines and spirits, Soho since 1793', ivy along the ground floor and a planted roof terrace above, with a modern glass office building rising behind it"
 publishedAt: 2026-07-08
-updatedAt: 2026-09-25
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"

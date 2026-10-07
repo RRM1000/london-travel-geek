@@ -5,7 +5,7 @@ description: "The best bases for a Wembley gig or match, compared by door-to-doo
 heroImage: "../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-stadium-exterior.jpg"
 heroImageAlt: "Premier Inn London Wembley Stadium, a tall grey block with purple Premier Inn signs, beside the London Designer Outlet under a blue sky"
 publishedAt: 2026-09-25
-updatedAt: 2026-09-27
+updatedAt: 2026-10-07
 reviewBy: 2026-10-19
 sites: [london]
 canonicalSite: london
@@ -30,6 +30,8 @@ faq:
 If you have a ticket for Wembley Stadium or OVO Arena Wembley and need a bed, what decides the base is the train home once 90,000 people are leaving at the same time. Our [Wembley Stadium and OVO Arena guide](/articles/wembley-stadium-arena-guide/) covers the stations, parking, bags and food; this page covers where to sleep.
 
 > 💡 **The Short Version:** For most people, stay around **Baker Street or Marylebone**: **35 minutes** door to door on the **Metropolitan line**, Chiltern trains from Marylebone in **under ten minutes**, and the **Jubilee Night Tube** on Fridays and Saturdays. The cheaper base is **Harrow-on-the-Hill**, where the Met is **7 minutes** from Wembley Park, **29 minutes** door to door, with a last train back at **00:56**. **Finchley Road** is just as quick and keeps the Night Tube. **Watford is no quicker than Waterloo.** The trap is a Wembley hotel on an event night: the **Novotel was £426.60 on an England match night and £131.40 a week later**. Stay next to the venue the night *after*, or on a night with nothing on.
+>
+> **Three picks:** [Palmers Lodge Swiss Cottage](hotel:palmers-lodge-swiss-cottage) (£, private rooms from £48, 29 minutes door to door) · [Novotel London Wembley](hotel:novotel-london-wembley) (££, about £120, on the stadium approach) · [The Landmark London](hotel:the-landmark-london) (££££, opposite Marylebone for Chiltern trains).
 
 ## The bases compared
 

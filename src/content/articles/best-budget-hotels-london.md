@@ -3,7 +3,7 @@ title: "The Best Budget Hotels in London, Cross-Referenced and Price-Checked"
 seoTitle: "Best Budget Hotels in London 2026, Price-Checked"
 description: "The budget hotels London's lists agree on, each priced on five nights across the year. Most of the central favourites cost more than £150 a night. These are the ones that don't."
 publishedAt: 2026-09-16
-updatedAt: 2026-09-23
+updatedAt: 2026-10-07
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -27,6 +27,8 @@ We priced 46 budget hotels that London's lists and travellers name, each on the 
 This page isn't our opinion. Every hotel here is named by independent lists, blogs and travellers, and was kept only if its typical night came to **£150 or less**.
 
 > 💡 **The Short Version:** Only three central London hotels the lists agree on came in at £150 a night or less: **[The Z Hotel Shoreditch](#the-z-hotel-shoreditch)** (£150 typical), **[hub by Premier Inn London Shoreditch](#hub-by-premier-inn-london-shoreditch)** (£131) and **[hub by Premier Inn London King's Cross](#hub-by-premier-inn-london-kings-cross)** (£137). Go further out on a fast train and 19 more do, from **[Kip Hotel](#kip-hotel)** in Hackney (£81) and **[Travelodge London Docklands](#travelodge-london-docklands)** (£81.99) to Time Out's number one, **[Good Hotel London](#good-hotel-london)** (£150). **Book a Sunday if you can**: at the same hotel, the October Saturday cost a median 72% more.
+>
+> **Three picks:** [Kip Hotel](hotelscom:581101) (£81 typical, Hackney Downs five minutes) · [The Z Hotel Shoreditch](hotel:z-hotel-shoreditch) (£150 typical, one minute from Old Street) · [Good Hotel London](hotelscom:522619328) (£150 typical, Time Out's number one).
 
 > 📊 **The evidence behind this guide.**
 > Nothing here rests on one stay. This pass reads **91 sources carrying 780 citations** across **418 named places to stay**: Which?'s member survey of hotel chains, the editorial mastheads (Time Out, Condé Nast Traveller, the Evening Standard, ELLE, Lonely Planet, National Geographic Traveller), budget travel blogs (EuroCheapo, London Cheapo, The Hotel Guru, Candace Abroad, On the Luce, BudgetTraveller), YouTube videos, and 40 forum threads on Reddit, Mumsnet and the Rick Steves forum. **170 are named by two or more independent sources.** Every hotel with an entry was priced on the same five nights and checked as trading on 14 and 15 September 2026.
