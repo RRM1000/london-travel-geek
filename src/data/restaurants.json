@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-08",
- "count": 999,
+ "count": 1025,
  "withCoords": 821,
  "facets": {
   "cuisine": [
@@ -28,6 +28,11 @@
     "value": "Middle Eastern",
     "slug": "middle-eastern",
     "count": 42
+   },
+   {
+    "value": "Greek",
+    "slug": "greek",
+    "count": 40
    },
    {
     "value": "Japanese",
@@ -63,11 +68,6 @@
     "value": "Mexican",
     "slug": "mexican",
     "count": 17
-   },
-   {
-    "value": "Greek",
-    "slug": "greek",
-    "count": 15
    },
    {
     "value": "Filipino",
@@ -135,14 +135,14 @@
     "count": 3
    },
    {
-    "value": "Ethiopian",
-    "slug": "ethiopian",
+    "value": "Balkan",
+    "slug": "balkan",
     "count": 2
    },
    {
-    "value": "Balkan",
-    "slug": "balkan",
-    "count": 1
+    "value": "Ethiopian",
+    "slug": "ethiopian",
+    "count": 2
    },
    {
     "value": "Portuguese",
@@ -154,27 +154,27 @@
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 113
+    "count": 114
    },
    {
     "value": "Mayfair",
     "slug": "mayfair",
-    "count": 63
+    "count": 65
    },
    {
     "value": "Shoreditch",
     "slug": "shoreditch",
-    "count": 53
+    "count": 54
    },
    {
     "value": "Covent Garden",
     "slug": "covent-garden",
-    "count": 38
+    "count": 39
    },
    {
     "value": "South Bank",
     "slug": "south-bank",
-    "count": 38
+    "count": 39
    },
    {
     "value": "Fitzrovia",
@@ -184,7 +184,7 @@
    {
     "value": "Marylebone",
     "slug": "marylebone",
-    "count": 33
+    "count": 34
    },
    {
     "value": "Hackney",
@@ -204,7 +204,7 @@
    {
     "value": "Notting Hill",
     "slug": "notting-hill",
-    "count": 21
+    "count": 22
    },
    {
     "value": "Bermondsey",
@@ -217,6 +217,16 @@
     "count": 15
    },
    {
+    "value": "Camden",
+    "slug": "camden",
+    "count": 14
+   },
+   {
+    "value": "Chelsea",
+    "slug": "chelsea",
+    "count": 14
+   },
+   {
     "value": "Kings Cross",
     "slug": "kings-cross",
     "count": 14
@@ -227,8 +237,13 @@
     "count": 13
    },
    {
-    "value": "Chelsea",
-    "slug": "chelsea",
+    "value": "Paddington",
+    "slug": "paddington",
+    "count": 13
+   },
+   {
+    "value": "Peckham",
+    "slug": "peckham",
     "count": 13
    },
    {
@@ -237,23 +252,8 @@
     "count": 13
    },
    {
-    "value": "Camden",
-    "slug": "camden",
-    "count": 12
-   },
-   {
     "value": "Greenwich",
     "slug": "greenwich",
-    "count": 12
-   },
-   {
-    "value": "Paddington",
-    "slug": "paddington",
-    "count": 12
-   },
-   {
-    "value": "Peckham",
-    "slug": "peckham",
     "count": 12
    },
    {
@@ -262,9 +262,19 @@
     "count": 10
    },
    {
+    "value": "Stratford",
+    "slug": "stratford",
+    "count": 9
+   },
+   {
     "value": "Wapping",
     "slug": "wapping",
     "count": 9
+   },
+   {
+    "value": "Kensington",
+    "slug": "kensington",
+    "count": 8
    },
    {
     "value": "Richmond",
@@ -272,23 +282,13 @@
     "count": 8
    },
    {
-    "value": "Stratford",
-    "slug": "stratford",
+    "value": "South Kensington",
+    "slug": "south-kensington",
     "count": 8
    },
    {
     "value": "Battersea",
     "slug": "battersea",
-    "count": 7
-   },
-   {
-    "value": "Kensington",
-    "slug": "kensington",
-    "count": 7
-   },
-   {
-    "value": "South Kensington",
-    "slug": "south-kensington",
     "count": 7
    },
    {
@@ -306,27 +306,32 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 249
+    "count": 254
    },
    {
     "value": "grill",
     "slug": "grill",
-    "count": 159
+    "count": 177
    },
    {
     "value": "small-plates",
     "slug": "small-plates",
-    "count": 145
+    "count": 154
    },
    {
     "value": "street-food",
     "slug": "street-food",
-    "count": 100
+    "count": 107
+   },
+   {
+    "value": "seafood",
+    "slug": "seafood",
+    "count": 86
    },
    {
     "value": "seasonal",
     "slug": "seasonal",
-    "count": 87
+    "count": 86
    },
    {
     "value": "pasta",
@@ -336,11 +341,6 @@
    {
     "value": "pizza",
     "slug": "pizza",
-    "count": 79
-   },
-   {
-    "value": "seafood",
-    "slug": "seafood",
     "count": 79
    },
    {
@@ -381,7 +381,7 @@
    {
     "value": "brunch",
     "slug": "brunch",
-    "count": 33
+    "count": 34
    },
    {
     "value": "deli",
@@ -508,22 +508,22 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 388
+    "count": 399
    },
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 248
+    "count": 255
    },
    {
     "value": "£",
     "slug": "price-1",
-    "count": 164
+    "count": 170
    },
    {
     "value": "££££",
     "slug": "price-4",
-    "count": 152
+    "count": 154
    }
   ]
  },
@@ -1721,7 +1721,8 @@
    "opNote": "The most-cited room in the instagrammable corpus - six of seven sources name it.",
    "lists": [
     "instagrammable",
-    "showstopper"
+    "showstopper",
+    "greek"
    ],
    "sourceCount": "9",
    "sourceTiers": "B5 C3 E1",
@@ -21617,7 +21618,8 @@
    "whyGo": "Greek small plates reworked with restaurant technique - the room most responsible for London taking modern Greek cooking seriously.",
    "signals": "4 consensus domains",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "greek"
    ],
    "sourceCount": "10",
    "sourceTiers": "B8 C1 E1",
@@ -21656,7 +21658,8 @@
    "whyGo": "A Primrose Hill taverna that has been feeding the same families for decades - big, noisy and entirely unbothered by fashion.",
    "signals": "4 consensus domains",
    "lists": [
-    "best-value"
+    "best-value",
+    "greek"
    ],
    "sourceCount": "7",
    "sourceTiers": "B5 C1 E1",
@@ -21695,7 +21698,8 @@
    ],
    "whyGo": "Notting Hill Greek that treats the classics as a starting point rather than a checklist, with a garden at the back.",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "greek"
    ],
    "sourceCount": "7",
    "sourceTiers": "A1 B4 C1 E1",
@@ -21734,6 +21738,9 @@
     "business"
    ],
    "whyGo": "A large Fitzrovia room from the Roka and Zuma group, doing Greek at that group's usual volume.",
+   "lists": [
+    "greek"
+   ],
    "sourceCount": "3",
    "sourceTiers": "B3",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://luxurylondon.co.uk/taste/food/best-greek-restaurants-london/ | https://cookout.skai.gr/articles/ellinika-estiatoria-sto-londino-pou-ksexorizoun"
@@ -21771,7 +21778,8 @@
    "whyGo": "Whole fish and Greek seafood cooking treated at fine-dining level, which almost nothing else in London does.",
    "lists": [
     "nicest-dining",
-    "seafood"
+    "seafood",
+    "greek"
    ],
    "sourceCount": "9",
    "sourceTiers": "B6 C2 E1",
@@ -21781,32 +21789,37 @@
    "slug": "zylia",
    "name": "Zylia",
    "cuisine": "Greek",
-   "style": "Modern Greek",
+   "style": "Greek-Cypriot taverna",
    "specialities": [
-    "small-plates",
-    "seasonal"
+    "grill",
+    "small-plates"
    ],
    "format": "Restaurant",
    "chainType": "independent",
-   "area": "Queen's Park",
-   "zone": "2",
-   "district": "North",
-   "borough": "Brent",
-   "address": "6 Bedford St, London WC2E 9HZ, UK",
+   "area": "Covent Garden",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "address": "6 Bedford Street",
    "postcode": "WC2E 9HZ",
    "lat": 51.510056,
    "lng": -0.123987,
    "station": "Embankment",
    "walkMin": 5,
    "price": "£££",
-   "booking": "days",
+   "booking": "weeks",
    "website": "https://zyliataverna.com/",
    "goodFor": [
     "date",
     "families",
     "groups"
    ],
-   "whyGo": "A Queen's Park neighbourhood Greek doing small plates well enough to draw people from outside the postcode.",
+   "whyGo": "A Greek-Cypriot taverna beside the Arcade food hall, opened in 2026 by Nick Molyviatis, who ran the kitchen at Kiln, and Barry Karacostas: whitewashed walls, framed lace doilies and an open charcoal grill.",
+   "signature": "Wild prawn saganaki",
+   "lists": [
+    "greek"
+   ],
    "sourceCount": "10",
    "sourceTiers": "B8 C2",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://www.theinfatuation.com/london/guides/best-greek-restaurants-london | https://luxurylondon.co.uk/taste/food/best-greek-restaurants-london/"
@@ -21846,7 +21859,8 @@
    ],
    "whyGo": "Upstairs from its own more casual sibling at Borough Market, cooking Greek food over fire at serious prices and justifying them.",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "greek"
    ],
    "sourceCount": "19",
    "sourceTiers": "A3 B10 C3 D2 E1",
@@ -21884,7 +21898,8 @@
    ],
    "whyGo": "Greek mezze at Mayfair scale, from the OPSO team.",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "greek"
    ],
    "sourceCount": "6",
    "sourceTiers": "B4 C1 E1",
@@ -22194,7 +22209,8 @@
    ],
    "whyGo": "Yiannis Mexis' first restaurant, built around an open fire - potato pittas with smoked aubergine and spiced feta before anything else.",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "greek"
    ],
    "sourceCount": "10",
    "sourceTiers": "B7 C2 E1",
@@ -22232,6 +22248,9 @@
     "groups"
    ],
    "whyGo": "The only wine list in London built entirely on indigenous Greek varieties, in a Holland Park Avenue taverna with tables on the pavement.",
+   "lists": [
+    "greek"
+   ],
    "sourceCount": "6",
    "sourceTiers": "B4 C1 E1",
    "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-greek-restaurants-london/ | https://www.standard.co.uk/going-out/restaurants/10-of-the-best-greek-and-cypriot-restaurants-in-london-b1239315.html | https://www.athinorama.gr/restaurants/3065775/londino-a-la-grecque-i-premier-league-tis-ellinikis-geusis/"
@@ -22269,7 +22288,8 @@
    ],
    "whyGo": "From the Pachamama group, on Portobello Road - one of the most photographed rooms in west London, and the cooking holds up.",
    "lists": [
-    "showstopper"
+    "showstopper",
+    "greek"
    ],
    "sourceCount": "5",
    "sourceTiers": "B3 C1 E1",
@@ -22308,7 +22328,8 @@
    ],
    "whyGo": "Part deli, part taverna - you can buy the cheese you just ate, which is most of the appeal.",
    "lists": [
-    "best-value"
+    "best-value",
+    "greek"
    ],
    "sourceCount": "4",
    "sourceTiers": "B2 D1 E1",
@@ -22347,7 +22368,8 @@
    ],
    "whyGo": "A Maida Vale back-street Cypriot grill that has not changed in decades and has no intention of doing so.",
    "lists": [
-    "best-value"
+    "best-value",
+    "greek"
    ],
    "sourceCount": "10",
    "sourceTiers": "B7 C1 D1 E1",
@@ -22386,7 +22408,8 @@
    ],
    "whyGo": "An old-school Camden taverna doing meze for large tables at prices that explain its longevity.",
    "lists": [
-    "best-value"
+    "best-value",
+    "greek"
    ],
    "sourceCount": "8",
    "sourceTiers": "B4 C1 D2 E1",
@@ -24058,6 +24081,9 @@
     "groups"
    ],
    "whyGo": "A 2026 opening on Chiltern Street, and the newest of the Marylebone Greek rooms.",
+   "lists": [
+    "greek"
+   ],
    "sourceCount": "3",
    "sourceTiers": "A1 B2",
    "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/greek | https://www.theinfatuation.com/london/reviews/clio | https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/"
@@ -35317,6 +35343,887 @@
    "sourceCount": "8",
    "sourceTiers": "A1 B4 C3",
    "sourceUrls": "https://www.top50cocktailbars.com/list/1-50 | https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london | https://www.designmynight.com/london/bars/secret-bars-in-london"
+  },
+  {
+   "slug": "agora-borough",
+   "name": "Agora",
+   "cuisine": "Greek",
+   "style": "Souvla bar",
+   "specialities": [
+    "grill",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "context": "Borough Market",
+   "area": "Borough",
+   "zone": "1",
+   "district": "South",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "address": "2-4 Bedale Street",
+   "postcode": "SE1 9AL",
+   "price": "££",
+   "booking": "walk-in",
+   "bookingUrl": "https://www.sevenrooms.com/explore/agoralondon/reservations/create/search/",
+   "noise": "loud",
+   "goodFor": [
+    "quick",
+    "solo",
+    "date"
+   ],
+   "whyGo": "Oma's ground floor, built around a rotisserie spit, with counter seats facing the grill. Skewers by the piece: pork souvlaki with oregano at £5, lamb adana with garlic yoghurt.",
+   "signature": "Middle White pork belly from the spit",
+   "signals": "Michelin Bib Gourmand (2026)",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "12",
+   "sourceTiers": "A2 B6 C3 E1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/greek | https://www.thegoodfoodguide.co.uk/restaurant/agora/id/67576 | https://www.squaremeal.co.uk/restaurants/best-for/bbq-restaurants-in-london_8659"
+  },
+  {
+   "slug": "myrtos",
+   "name": "Myrtos",
+   "cuisine": "Greek",
+   "style": "Modern Greek",
+   "specialities": [
+    "seafood",
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "South Kensington",
+   "zone": "1",
+   "district": "West",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "address": "260-262 Brompton Road",
+   "postcode": "SW3 2AS",
+   "price": "£££",
+   "booking": "days",
+   "website": "https://myrtoslondon.com/",
+   "goodFor": [
+    "date",
+    "business"
+   ],
+   "whyGo": "Asimakis Chaniotis left Pied à Terre after 13 years to open this bright room built around an olive tree, with a fish counter. Lunch is two courses for £25.",
+   "signature": "Lamb moussaka",
+   "signals": "Michelin Guide selected (2026)",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "A1 B4 C1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/greek | https://www.houseandgarden.co.uk/gallery/the-best-greek-restaurants-in-london | https://www.cntraveller.com/article/how-greek-gastronomy-is-taking-london-by-storm-beyond-the-stereotypes"
+  },
+  {
+   "slug": "taverna-ermou",
+   "name": "Taverna Ermou",
+   "cuisine": "Greek",
+   "style": "Athens taverna",
+   "specialities": [
+    "small-plates",
+    "brunch"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Marylebone",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "address": "38-40 James Street",
+   "postcode": "W1U 1EU",
+   "price": "££",
+   "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/ermoutaverna",
+   "outdoor": "terrace",
+   "goodFor": [
+    "groups",
+    "date",
+    "quick"
+   ],
+   "whyGo": "The London branch of a taverna from Ergon, the Athens food group: wooden beams, vintage ornaments, food on metal trays, and bougatsa custard pie with a freddo espresso for breakfast.",
+   "signature": "Spanakopita dip",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "B4 C1 E1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-greek-restaurants-london | https://www.cntraveller.com/article/how-greek-gastronomy-is-taking-london-by-storm-beyond-the-stereotypes | https://www.stylist.co.uk/food-drink/best-greek-restaurants-london/894976"
+  },
+  {
+   "slug": "lagana-shoreditch",
+   "name": "Lagana",
+   "cuisine": "Greek",
+   "style": "Casual Greek, flatbreads",
+   "specialities": [
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Shoreditch",
+   "zone": "1",
+   "district": "East",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "address": "19 Willow Street",
+   "postcode": "EC2A 3HU",
+   "price": "££",
+   "booking": "same-day",
+   "bookingUrl": "https://www.lagana.london/reservations",
+   "goodFor": [
+    "groups",
+    "date",
+    "families"
+   ],
+   "whyGo": "Paper tablecloths, crayons on every table and flatbreads coming out of the oven non-stop, on the old Pachamama East site.",
+   "signature": "Prawn saganaki flatbread",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B4 C1",
+   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.theinfatuation.com/london/guides/best-greek-restaurants-london | https://www.cntraveller.com/article/how-greek-gastronomy-is-taking-london-by-storm-beyond-the-stereotypes"
+  },
+  {
+   "slug": "estiatorio-milos",
+   "name": "Estiatorio Milos",
+   "cuisine": "Greek",
+   "style": "Greek seafood",
+   "specialities": [
+    "seafood",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "St James's",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "address": "1 Regent Street",
+   "price": "££££",
+   "deals": [
+    "set-menu"
+   ],
+   "booking": "days",
+   "bookingUrl": "https://www.estiatoriomilos.com/location/london/reserve",
+   "goodFor": [
+    "business",
+    "celebration",
+    "date"
+   ],
+   "whyGo": "The London branch, opened in 2015, of Costas Spiliadis's Greek fish restaurants: a marble-and-pale-wood room off Pall Mall where fish is priced by weight from an iced display.",
+   "signature": "Octopus over Santorini fava",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B3 E1",
+   "sourceUrls": "https://www.standard.co.uk/going-out/restaurants/10-of-the-best-greek-and-cypriot-restaurants-in-london-b1239315.html | https://www.thelondoneconomic.com/food-drink/restaurant-review-estiatorio-milos-lower-regent-street-392291/ | https://cookout.skai.gr/articles/ellinika-estiatoria-sto-londino-pou-ksexorizoun"
+  },
+  {
+   "slug": "suzi-tros",
+   "name": "Suzi Tros",
+   "cuisine": "Greek",
+   "style": "Northern Greek",
+   "specialities": [
+    "small-plates",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Notting Hill",
+   "zone": "1–2",
+   "district": "West",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "address": "18 Hillgate Street",
+   "postcode": "W8 7SR",
+   "price": "£££",
+   "booking": "same-day",
+   "bookingUrl": "https://suzitros.com/reservations/",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "dietary": "vegan menu",
+   "whyGo": "Mazi's sister two doors along, opened in 2019, with a menu that looks to Thessaloniki and northern Greece: smoked aubergine with red pepper cream, Grandmama's meatballs.",
+   "signature": "Grandmama's meatballs",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 E1",
+   "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-greek-restaurants-london/ | https://cookout.skai.gr/articles/ellinika-estiatoria-sto-londino-pou-ksexorizoun | https://www.reddit.com/r/LondonFood/comments/1s801ht/best_greek_in_london/"
+  },
+  {
+   "slug": "krokodilos",
+   "name": "Krokodilos",
+   "cuisine": "Greek",
+   "style": "Modern Greek",
+   "specialities": [
+    "small-plates",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Kensington",
+   "zone": "1–2",
+   "district": "West",
+   "borough": "Kensington and Chelsea",
+   "guide": "kensington-area-guide",
+   "address": "Lancer Square, 28A Kensington Church Street",
+   "postcode": "W8 4EP",
+   "price": "£££",
+   "booking": "days",
+   "bookingUrl": "https://www.krokodilos.co.uk/reservations",
+   "goodFor": [
+    "date",
+    "celebration",
+    "business"
+   ],
+   "whyGo": "A large bronze, peach and gold room from the group behind Wild Tavern, cooked by Angelos Togias, formerly of The Connaught; the wild goat is cooked for 14 hours and served for two.",
+   "signature": "Wild goat with Cretan spaghetti",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://www.theguardian.com/food/2025/jan/31/krokodilos-london-w8-grace-dent-restaurant-review | https://www.athinorama.gr/restaurants/3065775/londino-a-la-grecque-i-premier-league-tis-ellinikis-geusis/ | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-greek-restaurants-in-london"
+  },
+  {
+   "slug": "bottarga-chelsea",
+   "name": "Bottarga",
+   "cuisine": "Greek",
+   "style": "Modern Greek",
+   "specialities": [
+    "seafood",
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Chelsea",
+   "zone": "1–2",
+   "district": "West",
+   "borough": "Kensington and Chelsea",
+   "guide": "chelsea-area-guide",
+   "address": "383 King's Road",
+   "postcode": "SW10 0LP",
+   "price": "£££",
+   "booking": "days",
+   "bookingUrl": "https://bottarga.london/reservations",
+   "outdoor": "heated",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "whyGo": "The Pachamama group's second Greek restaurant, a small, dark room on the King's Road with a covered, heated terrace: raw yellowtail, a whole grilled sea bass, crisp lamb belly.",
+   "signature": "Lamb belly",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-greek-restaurants-london | https://www.thelondoneconomic.com/food-drink/restaurant-review-bottarga-kings-road-chelsea-388260/"
+  },
+  {
+   "slug": "hera-stratford",
+   "name": "Hera",
+   "cuisine": "Greek",
+   "style": "Greek classics",
+   "specialities": [
+    "seafood",
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Stratford",
+   "zone": "3",
+   "district": "East",
+   "borough": "Newham",
+   "guide": "stratford-area-guide",
+   "address": "4 Arber Way, Stratford Cross",
+   "postcode": "E20 1JS",
+   "price": "£££",
+   "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/hera/reservations/create/search/",
+   "goodFor": [
+    "groups",
+    "celebration",
+    "date"
+   ],
+   "whyGo": "A big room of chandeliers, greenery and plush booths on the far side of Stratford Cross, where chef Mario Salimis cooks Greek classics with modern twists.",
+   "signature": "Greek salad",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://cookout.skai.gr/articles/ellinika-estiatoria-sto-londino-pou-ksexorizoun"
+  },
+  {
+   "slug": "gaia-mayfair",
+   "name": "Gaia",
+   "cuisine": "Greek",
+   "style": "Greek-Mediterranean",
+   "specialities": [
+    "seafood"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Mayfair",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "address": "50 Dover Street",
+   "postcode": "W1S 4NY",
+   "price": "££££",
+   "booking": "days",
+   "bookingUrl": "https://www.sevenrooms.com/explore/gaialondon/reservations/create/search/",
+   "goodFor": [
+    "celebration",
+    "business",
+    "date"
+   ],
+   "whyGo": "The 2023 London branch of a Greek-Mediterranean group from Dubai, Monaco and Doha: gemista, octopus and fava beside bluefin tuna with caviar, and a bar on the first floor.",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/gaia | https://cookout.skai.gr/articles/ellinika-estiatoria-sto-londino-pou-ksexorizoun"
+  },
+  {
+   "slug": "fenix-piccadilly",
+   "name": "Fenix",
+   "cuisine": "Greek",
+   "style": "Modern Greek",
+   "specialities": [
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Mayfair",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "address": "80 Piccadilly",
+   "postcode": "W1J 8HX",
+   "price": "£££",
+   "deals": [
+    "set-menu"
+   ],
+   "booking": "days",
+   "bookingUrl": "https://fenixrestaurants.com/booking/",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "whyGo": "The London branch of a Manchester restaurant, opened in March 2026 under chandeliers on Piccadilly: Athenian tartare, langoustine orzo, wagyu stifado.",
+   "signature": "Athenian tartare",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B3",
+   "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-greek-restaurants-london/ | https://www.theguardian.com/food/2026/may/24/fenix-london-w1-grace-dent-restaurant-review | https://www.elledecoration.co.uk/lifestyle-culture/a71228309/new-london-restaurants-2026/"
+  },
+  {
+   "slug": "daphne-camden",
+   "name": "Daphne",
+   "cuisine": "Greek",
+   "style": "Greek-Cypriot taverna",
+   "specialities": [
+    "regional",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Camden Town",
+   "zone": "2",
+   "district": "North",
+   "borough": "Camden",
+   "guide": "camden-area-guide",
+   "address": "83 Bayham Street",
+   "postcode": "NW1 0AG",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "A Greek-Cypriot restaurant on three floors run by the Lymbouri family since the 1980s, with photographs of Cypriot villages downstairs; the koubes are bulgur shells stuffed with lamb.",
+   "signature": "Koubes",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B3 D1 E1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://www.stylist.co.uk/food-drink/best-greek-restaurants-london/894976 | https://www.standard.co.uk/going-out/restaurants/10-of-the-best-greek-and-cypriot-restaurants-in-london-b1239315.html"
+  },
+  {
+   "slug": "evis-east-dulwich",
+   "name": "Evi's",
+   "cuisine": "Greek",
+   "style": "Greek taverna",
+   "specialities": [
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "East Dulwich",
+   "zone": "2",
+   "district": "South",
+   "borough": "Southwark",
+   "address": "18 North Cross Road",
+   "postcode": "SE22 9EU",
+   "price": "££",
+   "booking": "same-day",
+   "bookingUrl": "https://www.evisrestaurant.com/book",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "whyGo": "Evi Peroulaki and Conor Mills ran the Souvlaki Street stall before opening this candlelit room off Lordship Lane, with pork skewers with fennel from the grill and an all-Greek wine list.",
+   "signature": "Hoirina kalamakia",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B2 C2 E1",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-greek-restaurants-london | https://www.stylist.co.uk/food-drink/best-greek-restaurants-london/894976 | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-greek-restaurants-in-london"
+  },
+  {
+   "slug": "halepi",
+   "name": "Halepi",
+   "cuisine": "Greek",
+   "style": "Greek-Cypriot taverna",
+   "specialities": [
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Bayswater",
+   "zone": "1",
+   "district": "West",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "address": "18 Leinster Terrace",
+   "postcode": "W2 3ET",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "A family-owned Greek-Cypriot taverna north of Hyde Park, where the owner tends a custom-built charcoal grill by the door, much as it has been since the 1960s.",
+   "signature": "Lamb sharing platter",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "C1 D2 E1",
+   "sourceUrls": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-greek-restaurants-in-london | https://www.youtube.com/@Dilanalikurt | https://www.youtube.com/@SmearedApron"
+  },
+  {
+   "slug": "aphrodite-taverna",
+   "name": "Aphrodite Taverna",
+   "cuisine": "Greek",
+   "style": "Greek-Cypriot taverna",
+   "specialities": [
+    "regional",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Bayswater",
+   "zone": "1",
+   "district": "West",
+   "borough": "Westminster",
+   "address": "15 Hereford Road",
+   "postcode": "W2 4AB",
+   "price": "££",
+   "booking": "days",
+   "website": "http://www.aphroditerestaurant.co.uk/",
+   "goodFor": [
+    "groups",
+    "families",
+    "date"
+   ],
+   "whyGo": "Opened by a Cypriot chef and his wife in 1988, with every wall covered in plates, statuettes and gourds; kleftiko, spit-roast souvla, and meze for two or more from £30 a head.",
+   "signature": "Smoked taramasalata",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 E1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://london.eater.com/maps/best-greek-restaurants-greek-cypriot-food-london | https://www.reddit.com/r/london/comments/1htp1nb/greek_restaurants_in_london/"
+  },
+  {
+   "slug": "retsina-belsize-park",
+   "name": "Retsina",
+   "cuisine": "Greek",
+   "style": "Greek taverna",
+   "specialities": [
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Belsize Park",
+   "zone": "2",
+   "district": "North",
+   "borough": "Camden",
+   "address": "48-50 Belsize Lane",
+   "postcode": "NW3 5AR",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "families",
+    "groups",
+    "celebration"
+   ],
+   "whyGo": "A family-run Greek restaurant open for more than 30 years, more formal than most, with heavy tablecloths, meze feasts and a kleftiko Eater London called arguably the best in the city.",
+   "signature": "Kleftiko",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B2 E1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://london.eater.com/maps/best-greek-restaurants-greek-cypriot-food-london | https://www.reddit.com/r/london/comments/1htp1nb/greek_restaurants_in_london/"
+  },
+  {
+   "slug": "alexander-the-great-camden",
+   "name": "Alexander the Great",
+   "cuisine": "Greek",
+   "style": "Greek taverna",
+   "specialities": [
+    "regional",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Camden Town",
+   "zone": "2",
+   "district": "North",
+   "borough": "Camden",
+   "guide": "camden-area-guide",
+   "address": "8 Plender Street",
+   "postcode": "NW1 0JT",
+   "price": "££",
+   "booking": "days",
+   "bookingUrl": "https://alexanderthegreatgreekrestaurant.co.uk/en/reservation",
+   "goodFor": [
+    "groups",
+    "families"
+   ],
+   "whyGo": "A Greek taverna a few seconds' walk from Andy's, with a private dining room; the mixed meze for a group and the sheftalia are the orders.",
+   "signature": "Mixed meze",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "D1 E1",
+   "sourceUrls": "https://www.youtube.com/@GaryEats | https://www.reddit.com/r/london/comments/1wv53v2/greekcypriot_taverna/"
+  },
+  {
+   "slug": "attica-clerkenwell",
+   "name": "Attica",
+   "cuisine": "Greek",
+   "style": "Greek-Cypriot grill",
+   "specialities": [
+    "grill",
+    "seafood"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Clerkenwell",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Islington",
+   "address": "Rosebery Avenue",
+   "postcode": "EC1R 4RR",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "whyGo": "The Kolossi Grill of 1966, renamed by new owners: the mock-Palladian front painted deep blue, marble tables under fairy-lit twigs, and tarama, prawn saganaki and sea bass on a short menu.",
+   "signature": "Prawns saganaki",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 E1",
+   "sourceUrls": "https://www.theguardian.com/food/2023/apr/16/jay-rayner-restaurant-review-the-kolossi-attica-london-much-better-than-revelatory | https://www.reddit.com/r/LondonFood/comments/1s801ht/best_greek_in_london/"
+  },
+  {
+   "slug": "peckham-bazaar",
+   "name": "Peckham Bazaar",
+   "cuisine": "Balkan",
+   "style": "Balkan grill, Greek-led",
+   "specialities": [
+    "grill",
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Peckham",
+   "zone": "2",
+   "district": "South",
+   "borough": "Southwark",
+   "guide": "peckham-area-guide",
+   "address": "119 Consort Road",
+   "postcode": "SE15 3RU",
+   "price": "£££",
+   "booking": "days",
+   "bookingUrl": "https://www.peckhambazaar.com/book-now",
+   "outdoor": "terrace",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "whyGo": "Chef John Gionleka cooks across the Balkans over charcoal, Greek dishes to the fore; the courgette fritters and grilled octopus have been on the menu since day one.",
+   "signature": "Grilled octopus with taramas",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B3 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://www.standard.co.uk/going-out/restaurants/10-of-the-best-greek-and-cypriot-restaurants-in-london-b1239315.html | https://www.athinorama.gr/restaurants/3065775/londino-a-la-grecque-i-premier-league-tis-ellinikis-geusis/"
+  },
+  {
+   "slug": "paneri-taverna",
+   "name": "Paneri Taverna",
+   "cuisine": "Greek",
+   "style": "Cypriot souvlaki house",
+   "specialities": [
+    "grill",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Wood Green",
+   "zone": "3",
+   "district": "North",
+   "borough": "Haringey",
+   "address": "340 High Road",
+   "postcode": "N22 8JW",
+   "price": "£",
+   "booking": "walk-in",
+   "goodFor": [
+    "quick",
+    "solo",
+    "families"
+   ],
+   "whyGo": "Charcoal smoke, wicker chairs outside and regulars at the counter; the mix is a giant Cypriot pitta of salted pork souvlaki and sheftalia, with a dining room at the back for meze.",
+   "signature": "The mix",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B2 D1 E1",
+   "sourceUrls": "https://www.standard.co.uk/going-out/restaurants/10-of-the-best-greek-and-cypriot-restaurants-in-london-b1239315.html | https://london.eater.com/maps/best-greek-restaurants-greek-cypriot-food-london | https://www.youtube.com/@ChewTheFatFoodReviews"
+  },
+  {
+   "slug": "nissi-palmers-green",
+   "name": "Nissi",
+   "cuisine": "Greek",
+   "style": "Greek-Cypriot meze restaurant",
+   "specialities": [
+    "seafood",
+    "regional"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Palmers Green",
+   "zone": "4",
+   "district": "North",
+   "borough": "Enfield",
+   "address": "62 Aldermans Hill",
+   "postcode": "N13 4PP",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "families",
+    "large-groups"
+   ],
+   "whyGo": "A narrow sit-down room, rare in Palmers Green, with the grill visible from the middle tables; Georgina Hayden takes her yiayia here for the fish meze.",
+   "signature": "Fish meze",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.cntraveller.com/article/where-the-chefs-eat-georgina-hayden | https://london.eater.com/maps/best-greek-cypriot-restaurants-palmers-green"
+  },
+  {
+   "slug": "dionysus-southgate",
+   "name": "Dionysus",
+   "cuisine": "Greek",
+   "style": "Cypriot souvlaki house",
+   "specialities": [
+    "grill",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Southgate",
+   "zone": "4",
+   "district": "North",
+   "borough": "Enfield",
+   "address": "44 High Street, Southgate",
+   "postcode": "N14 6EB",
+   "price": "£",
+   "booking": "walk-in",
+   "website": "https://www.dionysus.co.uk/",
+   "goodFor": [
+    "quick",
+    "families"
+   ],
+   "whyGo": "A souvlaki house that began in the West End in the 1950s, closed there in 2009 and brought its sign to Southgate; the mixed souvlaki comes in Cypriot pitta.",
+   "signature": "Mixed souvlaki",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 E1",
+   "sourceUrls": "https://london.eater.com/maps/best-greek-restaurants-greek-cypriot-food-london | https://www.reddit.com/r/LondonFood/comments/1s801ht/best_greek_in_london/"
+  },
+  {
+   "slug": "suvlaki-soho",
+   "name": "Suvlaki",
+   "cuisine": "Greek",
+   "style": "Souvlaki counter",
+   "specialities": [
+    "grill",
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "21 Bateman Street",
+   "postcode": "W1D 3AL",
+   "price": "£",
+   "booking": "walk-in",
+   "website": "https://www.suvlaki.co.uk/",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "Skewers threaded on site every day and cooked over charcoal on a robata grill, by two founders from Athens; wraps are £9.50 to £10.",
+   "signature": "Pork souvlaki wrap",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 E1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants | https://www.reddit.com/r/LondonFood/comments/1tjitp5/suvulaki_vs_the_real_greek_which_is_better/"
+  },
+  {
+   "slug": "pittagoras",
+   "name": "Pittagoras",
+   "cuisine": "Greek",
+   "style": "Gyros counter",
+   "specialities": [
+    "street-food",
+    "grill"
+   ],
+   "format": "Counter",
+   "chainType": "mini-chain",
+   "context": "Tooting Broadway Market",
+   "area": "Tooting",
+   "zone": "3",
+   "district": "South",
+   "borough": "Wandsworth",
+   "address": "Tooting Broadway Market",
+   "price": "£",
+   "booking": "walk-in",
+   "website": "https://www.pittagoras.co.uk/",
+   "goodFor": [
+    "quick",
+    "solo",
+    "families"
+   ],
+   "whyGo": "A gyros counter in Tooting Broadway Market run by the third generation of a Kefalonian restaurant family; the chicken gyros wrap comes with chips inside.",
+   "signature": "Chicken gyros wrap",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 E1",
+   "sourceUrls": "https://www.mylondon.news/whats-on/reviews/tooting-market-greek-food-london-26398622 | https://www.reddit.com/r/london/comments/1htp1nb/greek_restaurants_in_london/"
+  },
+  {
+   "slug": "tonys-pita",
+   "name": "Tony's Pita",
+   "cuisine": "Greek",
+   "style": "Souvlaki and gyros takeaway",
+   "specialities": [
+    "street-food",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Palmers Green",
+   "zone": "4",
+   "district": "North",
+   "borough": "Enfield",
+   "address": "378 Green Lanes",
+   "price": "£",
+   "booking": "walk-in",
+   "website": "https://www.tonyspita.co.uk/",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "Opened in Swiss Cottage in 2018 by Tony Shyti, who learned to cook in Greek restaurants as a teenager, and named Best Greek Restaurant at the British Kebab Awards three years running.",
+   "signature": "Souvlaki wrap",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 E1",
+   "sourceUrls": "https://www.mylondon.news/whats-on/food-drink-news/went-londons-best-greek-restaurant-26584723 | https://www.reddit.com/r/london/comments/1htp1nb/greek_restaurants_in_london/"
+  },
+  {
+   "slug": "the-souvlaki-kingston",
+   "name": "The Souvlaki",
+   "cuisine": "Greek",
+   "style": "Souvlaki and gyros takeaway",
+   "specialities": [
+    "street-food",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "chain",
+   "area": "Kingston",
+   "borough": "Kingston upon Thames",
+   "address": "33 Wheatfield Way",
+   "postcode": "KT1 2PD",
+   "price": "£",
+   "booking": "walk-in",
+   "website": "https://www.thesouvlaki.london/",
+   "goodFor": [
+    "quick",
+    "families"
+   ],
+   "whyGo": "Started on a stall in Kingston market by Valentinos Varelas and Sandy Tsagdi, who moved from Greece in 2014, and Just Eat's 2023 Greater London Takeaway of the Year.",
+   "signature": "Chicken gyros wrap",
+   "lists": [
+    "greek"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 E1",
+   "sourceUrls": "https://www.mylondon.news/whats-on/food-drink-news/londons-best-greek-restaurant-even-26927835 | https://www.reddit.com/r/london/comments/1htp1nb/greek_restaurants_in_london/"
   },
   {
    "slug": "dishoom--king-s-cross",
