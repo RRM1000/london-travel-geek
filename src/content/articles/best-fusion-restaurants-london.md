@@ -34,8 +34,8 @@ Some of those pairings are a century old. **Nikkei** came out of Japanese migrat
 > 💡 **The Short Version:** **Fatt Pundit** in Soho and Covent Garden is the most-named fusion restaurant in London, for Kolkata's Indo-Chinese cooking. **Angelina** in Dalston runs a £74 Japanese-Italian set menu, and **Osteria Angelina** in Spitalfields is the cheaper, à la carte way in. For a judged verdict, **Sollip** in Bermondsey holds a Michelin star for Korean-European cooking, and **Cálong** in Stoke Newington a Bib Gourmand for the same pairing at a quarter of the price. **Chotto Matte** in Soho is the late-night Nikkei room, **Los Mochis** the Mexican-Japanese rooftop, and **Tangra** the all-vegetarian Indo-Chinese room in Soho, open until midnight Thursday to Saturday.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **28 independent sources carrying 112 citations** across **47 named restaurants**. **27 restaurants are named by two or more independent sources; Sollip holds a Michelin star and Cálong a Bib Gourmand in the 2026 guide.**
-> **Built on:** the Michelin Guide, the Good Food Guide and Harden's, which files exactly one London restaurant under Fusion; fusion lists from The Handbook, Luxury London, Country & Town House, London On The Inside and Dish Cult; reviews in Time Out, The Infatuation and The Guardian; thirteen YouTube creators, counted per creator; and four Reddit threads where Londoners argue about where to eat Indo-Chinese.
+> **28 independent sources carrying 112 citations** across **47 named restaurants**. **27 restaurants are named by two or more independent sources.**
+> **Built on:** Michelin, the Good Food Guide and Harden's; lists from The Handbook, Luxury London and others; reviews in Time Out, The Infatuation and The Guardian; YouTube and Reddit.
 > *Evidence built 7 October 2026 · [How we rank →](/how-we-rank/)*
 
 ## Booking at a glance
