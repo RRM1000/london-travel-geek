@@ -100165,50 +100165,6 @@
       }
     ]
   },
-  "stork": {
-    "name": "Stork",
-    "topics": [
-      "fusion",
-      "west-african"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "fusion": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "west-african": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/london-fusion-menus/",
-        "quote": "Labelled 'African & Caribbean' with modern European technique; mixed shellfish egusi."
-      },
-      {
-        "tier": "B",
-        "source": "Country & Town House",
-        "url": "https://www.countryandtownhouse.com/food-and-drink/fusion-restaurants-london/",
-        "quote": "'Flies from Eastern Europe to Western Africa, picking up flavours'; lamb shoulder with jollof cous cous."
-      },
-      {
-        "tier": "D",
-        "source": "Ugo Arinzeh (YouTube)",
-        "url": "https://www.youtube.com/@UgoArinzeh"
-      }
-    ]
-  },
   "nopi": {
     "name": "NOPI",
     "topics": [

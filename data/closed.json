@@ -377,6 +377,16 @@
       ],
       "source": "https://www.ramoramen.com/ramoclosing",
       "recorded": "2026-10-07"
+    },
+    "stork": {
+      "name": "Stork",
+      "closed": "2026",
+      "detail": "Pan-African fine-dining restaurant at 13-14 Cork Street, Mayfair W1S 3NS. Shown as permanently closed on its Google listing (screenshot from Rob, 8 October 2026) and flagged permanently closed on The Infatuation's review page; no FSA record. The west-african and fusion corpora name it.",
+      "stillRecommendedBy": [
+        "thehandbook.com/west-african-restuarants-london/"
+      ],
+      "source": "https://www.theinfatuation.com/london/reviews/stork",
+      "recorded": "2026-10-08"
     }
   },
   "uncertain": {
