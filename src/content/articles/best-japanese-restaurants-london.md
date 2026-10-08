@@ -35,8 +35,8 @@ The city has the deepest omakase scene outside Japan, and a much thinner budget 
 > 💡 **The Short Version:** **Sushi Tetsu** is the hardest table in London and worth the effort. **Sushi Atelier** is the best-value serious counter. **Roka** and **Zuma** invented the London izakaya template and still do it best. **Jin Kichi** in Hampstead is the value pick nobody writes about enough. **Umu** is the only proper Kyoto kaiseki in the city.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **12 sources carrying 163 citations** across **116 named restaurants**. **27 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
-> **Built on:** specialists with real depth in one format each — ramen, omakase, izakaya — plus a Michelin selection reaching five kitchens.
+> **12 sources carrying 163 citations** across **116 named restaurants**. **27 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
+> **Built on:** the Michelin Guide; The Infatuation, Time Out and Country & Town House; ramen, omakase and izakaya specialists.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

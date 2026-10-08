@@ -31,7 +31,8 @@ Twenty-one hotels here are named by two or more independent sources specifically
 > **Three picks:** [The Georgian House Hotel](hotel:georgian-house-wizard-chambers) (£257 family night, Harry Potter-style Wizard Chambers) · [St. Ermin's Hotel](hotel:st-ermins-hotel) (£591, biggest standard family room) · [The Athenaeum](hotelscom:175165) (£1,066, interconnecting rooms, children's concierge).
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one stay. This pass reads **36 sources carrying 351 citations** across **213 named hotels**: the editorial mastheads (Time Out, Condé Nast Traveller, The Independent, Glamour UK), Mumsnet's own family-hotel reviews, family-travel specialist blogs (Family Hotel Expert, Kids Are A Trip, MummyTravels, Marcie in Mommyland, Santorini Dave, The London Mother, Families Love Travel, Travel Mad Mum, Family Traveller), one YouTube family vlogger and 12 Reddit threads across r/uktravel, r/LondonTravel, r/london, r/marriott, r/hyatt, r/Hilton, r/travel and r/awardtravel. **61 hotels are named by two or more independent sources.** No judged family-hotel award exists for London to check against - the Family Traveller Awards 2026 were read in full and name no London property.
+> **36 sources carrying 351 citations** across **213 named hotels**. **61 hotels are named by two or more independent sources.**
+> **Built on:** Time Out, Condé Nast Traveller and The Independent; Mumsnet; family-travel blogs; YouTube and Reddit.
 > *Evidence rebuilt 15 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## The winners

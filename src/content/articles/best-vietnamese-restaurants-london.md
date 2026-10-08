@@ -36,8 +36,8 @@ The evidence says it is still where the most-recommended restaurants are — and
 > 💡 **The Short Version:** **Sông Quê Café** on Kingsland Road is named by eight sources, more than anything else. **Lai Rai** in Peckham has the only Michelin Bib Gourmand. **Phở Thúy Tây** near Surrey Quays is the specialist's phở. **Kêu** for bánh mì choice, **Bánh** for the one critics pick. Northern and southern cooking are different — ask which a kitchen does.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **13 independent sources carrying 88 citations** across **48 named venues**. **19 are named by two or more sources; one carries a dated award.**
-> **Built on:** one judged award, five mastheads, five independent writers and two YouTube channels — counted per creator, so a channel's five videos are one voice.
+> **13 independent sources carrying 88 citations** across **48 named venues**. **19 are named by two or more sources; one carries a dated award.**
+> **Built on:** the Michelin Bib Gourmand; The Infatuation, Time Out, Luxury London and SquareMeal; independent writers; YouTube.
 > *Evidence built 8 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

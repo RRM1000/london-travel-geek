@@ -32,7 +32,8 @@ Some rooms are booked for the cooking and some are booked for the photograph, an
 > **Bacchanalia**, Mayfair, is named by six of seven sources — more than any other room in London. **Sketch** and **Circolo Popolare** follow on five each. The cheapest striking room is **Bar Douro** in Borough at ££. The one people get wrong is **Sky Garden**: the garden is free with a booked slot, the restaurants inside it are not.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **7 sources carrying 148 citations** across **105 named venues** — three editorial mastheads (DesignMyNight, HELLO!, Country & Town House) and four independent specialists. **23 rooms are named by two or more independent sources.**
+> **7 sources carrying 148 citations** across **105 named venues**. **23 rooms are named by two or more independent sources.**
+> **Built on:** DesignMyNight, HELLO! and Country & Town House; four independent specialists.
 > *Evidence rebuilt 3 September 2026 · [How we rank →](/how-we-rank/)*
 
 > ⏱️ **How far ahead to book.**

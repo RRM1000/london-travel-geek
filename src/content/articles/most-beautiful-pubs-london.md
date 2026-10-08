@@ -35,8 +35,8 @@ This guide counts both. Where a pub is here mainly for its age and its stories, 
 > 💡 **The Short Version:** **The Churchill Arms** is named by more sources than anywhere, for its flowers. **The Blackfriar** and **The Princess Louise** are the interiors the lists agree on most, and both hold CAMRA's three stars. **The Viaduct Tavern** and **Ye Olde Mitre** are closed on Sundays. And the newest award-winning room in London is **The Blue Stoops** in Kensington, a former wine bar.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **17 independent sources carrying 259 citations** across **187 named venues**. **38 are named by two or more sources; 129 carry a CAMRA rating or design award.**
-> **Built on:** CAMRA's National Inventory and its Pub Design Awards, counted as one source; four publications including SquareMeal and Historic England's blog; eight independent guides and blogs; and four video creators, counted per creator.
+> **17 independent sources carrying 259 citations** across **187 named venues**. **38 are named by two or more sources; 129 carry a CAMRA rating or design award.**
+> **Built on:** CAMRA's National Inventory and Pub Design Awards; SquareMeal and Historic England's blog; independent pub guides; YouTube.
 > *Evidence built 14 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

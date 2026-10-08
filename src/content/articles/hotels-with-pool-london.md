@@ -32,7 +32,8 @@ A hotel that lists a pool can mean a 25-metre lane under Knightsbridge, a warm v
 > **Three picks:** [Town Hall Hotel](hotel:town-hall-hotel) (about £220, 14m heated pool) · [art'otel London Battersea Power Station](hotel:artotel-battersea-power-station) (about £320, rooftop infinity pool all year) · [Shangri-La The Shard](hotel:shangri-la-the-shard) (about £550, level 52 infinity pool).
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one stay. This pass reads **31 sources carrying 251 citations** across **61 named hotels**: the travel and lifestyle press (Time Out, Condé Nast Traveller, Tatler, Esquire, The Independent, the Evening Standard, DesignMyNight, Country & Town House), London and hotel specialists (Secret London, The Sauce, The Hotel Guru, The Rooftop Guide), family-travel blogs (Globetotting, Wanderlust Chloe, Flashpacking Family, MummyTravels, A Suffolk Mum), a Mumsnet Talk thread and six YouTube channels. **40 hotels are named by two or more independent sources.** The pool rules on each entry come from the hotel's own website.
+> **31 sources carrying 251 citations** across **61 named hotels**. **40 hotels are named by two or more independent sources.**
+> **Built on:** Time Out, Condé Nast Traveller, Tatler and The Independent; Secret London and The Hotel Guru; family-travel blogs; Mumsnet and YouTube.
 > *Evidence rebuilt 29 September 2026 · [How we rank →](/how-we-rank/)*
 
 | Hotel | Pool | Children | Station | Watch out for |

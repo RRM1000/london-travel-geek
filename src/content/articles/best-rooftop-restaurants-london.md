@@ -36,7 +36,8 @@ Before you book: several of these are bars that serve food rather than restauran
 > 💡 **The Short Version:** **Brooklands by Claude Bosi** has two Michelin stars and a terrace for 26 at the top of The Peninsula. **Angler** is a starred seafood restaurant whose terrace has a roof that closes, so it works all year. **The River Café** is the riverside answer and has been since 1987. **Seabird** is named by more sources than anything else on a roof in London. **The Culpeper** is Time Out's number one, and it is a pub with a herb garden on the roof. **Frank's Cafe** is the cheap one and runs 15 May to 12 September only. And **Sky Garden is free** — you never have to buy dinner to get up there.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **19 sources carrying 426 citations** across **212 named venues** — the judged awards (the Michelin Guide and The Good Food Guide), the editorial mastheads (Time Out, The Infatuation, SquareMeal, the Evening Standard, Country & Town House, The Handbook, The Sauce, Luxury London, DesignMyNight), the specialists (The Rooftop Guide, Hot Dinners, Secret London, London x London) and the year's London rooftop videos. **92 are named by two or more independent sources; 7 are named by a judged guide.**
+> **19 sources carrying 426 citations** across **212 named venues**. **92 are named by two or more independent sources; 7 are named by a judged guide.**
+> **Built on:** the Michelin Guide and the Good Food Guide; Time Out, The Infatuation, SquareMeal and the Evening Standard; The Rooftop Guide and Hot Dinners; YouTube.
 > *Evidence rebuilt 22 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

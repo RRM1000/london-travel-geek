@@ -32,7 +32,8 @@ The difference decides the evening. A restaurant with a band lets you book a tab
 > 💡 **The Short Version:** For a band while you eat and nothing extra on the bill, book **Brasserie Zédel**: its house band plays every day and two courses are £16.95. For a jazz gig with dinner at your table, the **606 Club** in Chelsea is £16–£23 a head for the music. **Quaglino's** is the dressed-up one, with a band Monday to Saturday and no music charge. For a full production, **The London Cabaret Club** does three courses and a show from £99.50, and **58th Street** in Peckham does six courses and three sets of jazz. **The Blues Kitchen** is named by more of the sources than anything else on this page, and its nightly music is free. For the cheapest ticket in town, **Dalston Superstore's drag brunch** is £8.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit, and nothing is ranked at all: no award body judges dinner shows, so the page is grouped by the kind of night instead. This pass reads **33 independent sources** naming **207 venues** — the mastheads (Time Out, DesignMyNight, SquareMeal, The Sauce, The Handbook, Luxury London, Country & Town House), the specialists and blogs (Secret London, The Nudge, London x London, London The Inside, Flying Fluskey), TikTok and YouTube creators, and the Reddit threads where people ask where to eat with music. **64 are named by two or more.** Every venue below was checked against its own website on 29 September 2026.
+> **33 independent sources** naming **207 venues**. **64 are named by two or more.**
+> **Built on:** Time Out, DesignMyNight, SquareMeal, The Sauce and The Handbook; Secret London and other specialists; TikTok, YouTube and Reddit.
 > *Evidence rebuilt 29 September 2026 · [How we rank →](/how-we-rank/)*
 
 **Price guide** (food plus the show, per head, before drinks): **£** under £40 · **££** £40–£100 · **£££** over £100.

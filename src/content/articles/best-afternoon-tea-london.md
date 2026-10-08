@@ -33,8 +33,8 @@ Arranged by **what you are actually buying** — the historic claim, the room, t
 > 💡 **The Short Version:** **The Langham** is where the ritual began and still the benchmark. **The Ritz** is the most recognised and the most formal. **The Berkeley** does fashion-week pastries. **Sketch** is an art installation. **The Wolseley** and **The Connaught** give you most of it for less. **One Aldwych** is the one that works with children.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **16 sources carrying 142 citations** across **82 named tea rooms** — two judged awards, the editorial mastheads, the independent specialists and the year's London afternoon tea videos. **31 tea rooms are named by two or more independent sources, and 22 carry a dated award.**
-> **Built on:** the room rather than the hotel — "The Palm Court at The Ritz" and "The Ritz" are merged by hand, so the counts reflect real agreement.
+> **16 sources carrying 142 citations** across **82 named tea rooms**. **31 tea rooms are named by two or more independent sources, and 22 carry a dated award.**
+> **Built on:** La Liste and the Afternoon Tea Awards; Olive, Time Out and The Infatuation; blogs and YouTube.
 > *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

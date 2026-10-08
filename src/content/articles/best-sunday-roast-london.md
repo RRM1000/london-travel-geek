@@ -31,8 +31,8 @@ That scarcity is the whole practical problem — the good ones sell out, most wa
 > 💡 **The Short Version:** **The Devonshire** is the most-cited roast in London and the UK's number one gastropub. **The Red Lion & Sun** is #3 in the country and the roast guides mostly miss it. **Canton Arms** is the best-placed pub that still takes walk-ins. **The Harwood Arms** is the only Michelin-starred pub. **Blacklock** and **Hawksmoor** are the group answer. And **The Tamil Crown** does the most interesting roast in the city.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **20 sources carrying 120 citations** across **82 named pubs and restaurants**. **24 are named by two or more independent sources; 25 carry a dated ranking.**
-> **Built on:** two judged rankings — the [Estrella Damm Top 50 Gastropubs](https://www.top50gastropubs.com/list/1-50) and the [National Pub & Bar Awards](https://www.nationalpubandbarawards.co.uk/the-regions-2026), whose Industry's Choice top ten is voted by a panel of 400 industry judges — plus eight independent publications and twelve creators. Both rankings judge the pub across all seven days, so a placing here is evidence about the pub, not a verdict on its roast.
+> **20 sources carrying 120 citations** across **82 named pubs and restaurants**. **24 are named by two or more independent sources; 25 carry a dated ranking.**
+> **Built on:** the [Estrella Damm Top 50 Gastropubs](https://www.top50gastropubs.com/list/1-50) and the [National Pub & Bar Awards](https://www.nationalpubandbarawards.co.uk/the-regions-2026); eight independent publications; twelve creators.
 > *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 
 ---

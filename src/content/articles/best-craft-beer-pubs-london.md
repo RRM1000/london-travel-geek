@@ -33,8 +33,8 @@ So this guide counts across all of it: the eleven branches that published a resu
 > 💡 **The Short Version:** There's no single London-wide CAMRA winner — but **The Cockpit** in Chislehurst has taken Bromley's branch award four years running and the Greater London round too in 2026, and **The Hope** in Carshalton has won the Greater London award five times. **Exale Brewing & Taproom** tops Time Out's taproom list; **Cask Pub & Kitchen**, open since 2009, tops Secret London's and calls itself London's original craft beer pub. For a beer mile on foot, **Bermondsey** and **Blackhorse Lane** are the two the sources keep returning to. Most of this list is walk-in — book only where there's a kitchen behind the bar.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **34 independent sources carrying 395 citations** across **325 named pubs, breweries and taprooms**. **48 are named by two or more independent sources; 13 carry a dated CAMRA branch award.**
-> **Built on:** CAMRA's Pub of the Year results from 11 London branches, four editorial mastheads, three independent specialists and 16 YouTube channels — counted per creator, so one channel's several videos are one voice.
+> **34 independent sources carrying 395 citations** across **325 named pubs, breweries and taprooms**. **48 are named by two or more independent sources; 13 carry a dated CAMRA branch award.**
+> **Built on:** CAMRA's Pub of the Year results from 11 London branches; four mastheads; three specialist writers; 16 YouTube channels.
 > *Evidence rebuilt 13 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

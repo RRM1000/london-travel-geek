@@ -35,8 +35,8 @@ There is **Nikkei** — the Japanese-Peruvian cooking that came out of Japanese 
 > 💡 **The Short Version:** **Lima** in Fitzrovia tops Time Out's ranked twenty and is the only Peruvian restaurant Greater London has ever starred. **Coya** is named by more sources than anything else here, and priced accordingly. **Tierra Peru** on Essex Road is the one Peruvian Londoners send you to. For Nikkei without the Mayfair bill, **Ayllu** in Paddington. For criollo, **Sabor Peruano** at Elephant and Castle. Under £20 a head: **Chan Chan** in Peckham's Rye Lane Market and **Lima Limón** in Brixton's Market Row.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **13 independent sources carrying 79 citations** across **29 named venues**, and **17 venues are named by two or more independent sources**. No Peruvian restaurant in London holds a Michelin star or a place in the National Restaurant Awards top 100: Lima's star ran from the 2014 guide to the 2018, and it is the only one Greater London has ever given Peruvian cooking.
-> **Built on:** Harden's and the Michelin record, five editorial mastheads, three London blogs and three YouTube creators — counted per creator, so a channel's several videos are one voice.
+> **13 independent sources carrying 79 citations** across **29 named venues**, and **17 venues are named by two or more independent sources**.
+> **Built on:** Harden's and the Michelin record; five mastheads; three London blogs; three YouTube creators.
 > *Evidence built 22 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

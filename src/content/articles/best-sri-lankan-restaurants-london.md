@@ -33,8 +33,8 @@ There is a second problem, and it is the one that sends readers to the wrong res
 > 💡 **The Short Version:** **Hoppers** is the only Sri Lankan kitchen in London holding an award, a MICHELIN Bib Gourmand, and nineteen sources name it. **Rambutan** in Borough Market is the one the Good Food Guide rates higher. **Kolamba** for a Soho dinner you can actually book. **Jaffna House** in Tooting has cooked the same northern repertoire since 1991, and nothing on its menu is expensive. **Karapincha** for kothu roti chopped to order inside Canary Wharf station.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **28 independent sources carrying 135 citations** across **33 named venues**. **19 are named by two or more independent sources, and one holds a dated award.**
-> **Built on:** the MICHELIN Guide and the Good Food Guide, ten editorial mastheads, six independent writers and ten London food channels, counted per creator so a channel's three videos are one voice.
+> **28 independent sources carrying 135 citations** across **33 named venues**. **19 are named by two or more independent sources, and one holds a dated award.**
+> **Built on:** the MICHELIN Guide and the Good Food Guide; ten mastheads; six independent writers; ten London food channels.
 > *Evidence built 22 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

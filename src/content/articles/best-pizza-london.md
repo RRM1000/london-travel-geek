@@ -31,8 +31,8 @@ Which is why the judges cannot agree either. The Italians give it to a Neapolita
 > 💡 **The Short Version:** **Short Road Pizza** won National Pizza of the Year 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **31 sources carrying 260 citations** across **125 named pizzerias**. **39 pizzerias are named by two or more independent sources; 23 carry a dated award.**
-> **Built on:** three judged awards — the [National Pizza Awards](https://nationalpizzaawards.co.uk/previous-winners), [50 Top Pizza](https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/) and the trade's own [PAPA Industry Awards](https://www.papaindustryawards.co.uk/award-winners-2025) — the editorial mastheads, and a creator tier that covers London pizza more closely than any of them.
+> **31 sources carrying 260 citations** across **125 named pizzerias**. **39 pizzerias are named by two or more independent sources; 23 carry a dated award.**
+> **Built on:** the [National Pizza Awards](https://nationalpizzaawards.co.uk/previous-winners), [50 Top Pizza](https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/) and the [PAPA Industry Awards](https://www.papaindustryawards.co.uk/award-winners-2025); the editorial mastheads; London pizza creators.
 > *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

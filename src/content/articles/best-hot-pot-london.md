@@ -34,8 +34,8 @@ At a hot pot the kitchen hands over the raw ingredients and leaves you to it. A 
 > **Haidilao** is named by more independent sources than any other hot pot in London — seven of seventeen — and it is the right first one, because the chain does the hand-holding. **Chilli Cool** and **Shu Xiang Ge** are the most widely named independents at five each. For clear-broth lamb rather than chilli, go to a **Beijing copper pot**. For one person and under £15, go to a **malatang** counter and fill a basket. Budget £25 to £40 a head, and remember the broth is charged separately.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **17 sources carrying 86 citations** across **42 named venues**. **20 restaurants are named by two or more independent sources.**
-> **Built on:** Chinese-language diaspora guides as much as English ones, which is why this page reaches Poplar, Rotherhithe and the Isle of Dogs rather than stopping at Zone 1.
+> **17 sources carrying 86 citations** across **42 named venues**. **20 restaurants are named by two or more independent sources.**
+> **Built on:** The Infatuation, DesignMyNight and London x London; Chinese-language guides; YouTube.
 > *Evidence rebuilt 3 September 2026 · [How we rank →](/how-we-rank/)*
 
 > ⏱️ **How far ahead to book.**

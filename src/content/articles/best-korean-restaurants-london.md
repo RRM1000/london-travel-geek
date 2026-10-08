@@ -35,8 +35,8 @@ Central London has caught up in the last few years, and one Hackney kitchen was 
 > 💡 **The Short Version:** **Jin Go Gae** in New Malden uses real charcoal, which is why purists go. **Imone** is the home cooking everyone sends you to. **You Me** has been there since 1988. **Chick and Beers** does the fried chicken. **Seoul Bakery** in Bloomsbury is the cheap central one, and **Mukbap** is London's first fully vegan Korean kitchen.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **9 sources carrying 118 citations** across **74 named restaurants**. **19 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
-> **Built on:** where Korean London actually is. Nearly half these sources point at one high street in New Malden, and the counts show it.
+> **9 sources carrying 118 citations** across **74 named restaurants**. **19 restaurants are named by two or more independent sources; 2 hold a Michelin star.**
+> **Built on:** the Michelin Guide; The Infatuation, Secret London and DesignMyNight; New Malden local guides.
 > *Evidence rebuilt 14 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

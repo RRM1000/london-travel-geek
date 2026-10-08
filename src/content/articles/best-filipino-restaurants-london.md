@@ -32,7 +32,8 @@ The flavour is built on sourness and salt rather than heat: cane vinegar, calama
 > 💡 **The Short Version:** **Donia** off Carnaby Street holds a **Bib Gourmand in the 2026 Michelin Guide** and its lamb caldereta pie is the dish of the topic. **Belly Bistro** in Kentish Town is ranked higher by The Infatuation and its tempura cod pandesal sells out daily. **Panadera** took five stars from Time Out for its pandesal sandos, and lunch there is under a tenner. **Lutong Pinoy** in Earl's Court has been serving banana-leaf feasts since 1996. And **Kasa and Kin** in Soho is named by more of the sources than anywhere except Donia.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **26 sources carrying 87 citations** across **29 named venues** — the Michelin Guide, the editorial mastheads (Eater London, Time Out, The Infatuation, DesignMyNight), the independent and local titles (Secret London, London x London, The Nudge, Hot Dinners, Tower Hamlets Slice) and sixteen London Filipino food films from the past five years. **18 venues are named by two or more independent sources; one holds a dated award, Donia's Bib Gourmand in the 2026 Michelin Guide.**
+> **26 sources carrying 87 citations** across **29 named venues**. **18 venues are named by two or more independent sources; one holds a dated award, Donia's Bib Gourmand in the 2026 Michelin Guide.**
+> **Built on:** the Michelin Guide; Eater London, Time Out and The Infatuation; local titles such as Secret London and Hot Dinners; YouTube.
 > *Evidence rebuilt 22 September 2026 · [How we rank →](/how-we-rank/)*
 
 > 📅 **Booking, at a glance.**

@@ -31,8 +31,8 @@ The city does it three ways, and picking one settles most of the decision: shuck
 > 💡 **The Short Version:** **J Sheekey** is the most-cited seafood restaurant in London, and **Scott's** is second. **Wiltons** has been trading since 1742. **The Sea, The Sea** is a working fishmonger with a bistro above it. **Behind** and **Angler** are the starred fish kitchens. **Manzi's** and **Sam's Riverside** do £2 oysters. And **Billingsgate** is open to the public before dawn.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **15 sources carrying 187 citations** across **108 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
-> **Built on:** 15 sources, including the Good Food Guide; eight venues here carry a dated award. Four sources are oyster specialists.
+> **15 sources carrying 187 citations** across **108 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
+> **Built on:** the Good Food Guide; Time Out, Hot Dinners, The Infatuation and The Handbook; oyster specialists; YouTube and Reddit.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

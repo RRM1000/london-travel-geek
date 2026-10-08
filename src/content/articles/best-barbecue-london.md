@@ -37,8 +37,8 @@ This is a guide to a subject that has demand and almost no serious coverage. The
 > 💡 **The Short Version:** **Smokestak** is named by nine of fifteen sources, more than anything else. **Acme Fire Cult** is second and leads on vegetables. **Texas Joe's** is the Hill Country one — and is **closed Sunday and Monday**. **Cue Point**, Afghan flavours through Texan technique, is Time Out's number one. A surprising amount of this is cooked in brewery yards.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **15 independent sources carrying 156 citations** across **85 named venues**. **27 are named by two or more sources.**
-> **Built on:** six mastheads, six independent blogs and three YouTube channels — counted per creator, so a channel's five videos are one voice. No judged award exists for this topic.
+> **15 independent sources carrying 156 citations** across **85 named venues**. **27 are named by two or more sources.**
+> **Built on:** Time Out, SquareMeal, The Handbook and other mastheads; independent blogs; YouTube.
 > *Evidence built 8 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

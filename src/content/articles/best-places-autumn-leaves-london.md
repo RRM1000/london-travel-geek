@@ -32,8 +32,9 @@ London's Royal Parks alone cover more than 5,000 acres, and in autumn nearly all
 > 💡 **The Short Version:** Seven of the fifteen sources name **Richmond Park**, for the Isabella Plantation's Acer Glade and the deer. **Kew Gardens**, named by six, has the widest range of named trees and is the only entry that charges. Richmond and **Bushy Park** are also where the deer rut runs, from late September to early November — keep 50 metres back. **St James's Park** (five sources) and **Greenwich Park** (four) are the free, central options. In 2026 many trees are dropping leaves early after May's record 35C heatwave, the Guardian reported on 1 September, so check a park's own update before a special trip.
 
 > 📊 **The evidence behind this guide.**
-> **15 independent sources carrying 60 citations** across **28 named places**, of which **11 are named by two or more independent sources.** Newspapers, magazines, local reporting, blogs and video, counted per creator.
-> Hours, prices, rutting rules and named trees come from each place's own operator, which is never counted as a source for a park it runs. [How we rank →](/how-we-rank/)
+> **15 independent sources carrying 60 citations** across **28 named places**, of which **11 are named by two or more independent sources.**
+> **Built on:** newspapers, magazines, local reporting, blogs and video.
+> [How we rank →](/how-we-rank/)
 
 ## Where they are
 

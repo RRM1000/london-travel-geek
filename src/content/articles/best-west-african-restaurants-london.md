@@ -33,8 +33,8 @@ The published lists have followed the stars up and largely stopped there. **What
 > 💡 **The Short Version:** **Chishuru** in Fitzrovia holds a Michelin star and its chef took Chef of the Year at the 2024 National Restaurant Awards. **Akoko**, four streets away, holds a star too. **Akara** in Borough Yards took a Bib Gourmand in the 2026 guide and is the one to book if a tasting menu is more evening than you want. For Ghanaian, **Waakye Joint** in Tottenham; for Ivorian, **Sikatiô** in Brockley, which a ranked London-wide list puts at number 34 in the city. Cheapest serious plate on this page: **Bola Cuisine** in New Cross, under a tenner.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **15 independent sources carrying 115 citations** across **43 named venues**, and **24 venues are named by two or more independent sources. Five carry a dated award.**
-> **Built on:** four judged bodies — the Michelin Guide, the National Restaurant Awards, The Good Food Guide and The World's 50 Best — four editorial mastheads, three independent London publications and four YouTube creators, counted per creator, so a channel's six videos are one voice.
+> **15 independent sources carrying 115 citations** across **43 named venues**, and **24 venues are named by two or more independent sources. Five carry a dated award.**
+> **Built on:** the Michelin Guide, the National Restaurant Awards, the Good Food Guide and The World's 50 Best; four mastheads; three London publications; YouTube.
 > *Evidence built 22 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are

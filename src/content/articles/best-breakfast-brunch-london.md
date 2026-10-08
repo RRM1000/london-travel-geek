@@ -31,8 +31,8 @@ Both are here, alongside the hotel rooms where breakfast is a business meeting.
 > 💡 **The Short Version:** **The Wolseley** is the London power breakfast in a 1920s car showroom. **Dishoom's bacon naan roll** is the one worth queueing for. **Granger & Co** started the London brunch thing and the hotcakes are still on the menu. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here is ranked on one visit. This pass reads **14 sources carrying 209 citations** across **160 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
-> **Built on:** fourteen sources across every price point, from a Michelin-starred breakfast to a £6.50 fry-up in Newham, with thirteen caffs individually priced.
+> **14 sources carrying 209 citations** across **160 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
+> **Built on:** the Good Food Guide; Time Out, The Infatuation and DesignMyNight; caff specialists; creator videos.
 > *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 
 > 📅 **Booking, at a glance.**

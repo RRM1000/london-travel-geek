@@ -34,7 +34,8 @@ This page isn't our opinion. Every shop here is ranked by how many independent l
 > **[Xing Fu Tang](#xing-fu-tang)** in Soho for brown sugar pearls, and it's named by more sources than anywhere else. **[Kissaten](#kissaten)** for honey pearls and Japanese teas. **[T4](#t4)** for a classic milk tea, from four London branches. For choice, go to **Newport Court in Chinatown**, where [Cuppacha](#cuppacha), [Happy Lemon](#happy-lemon), [Min Tea](#min-tea) and [Lucky Tea](#lucky-tea) are a few doors apart and open late.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **25 sources carrying 145 citations** across **39 named venues**: the editorial mastheads (Time Out, The Infatuation, the Evening Standard, The Handbook), independent London blogs (Wrap Your Lips Around This, Squeeze London, London x London, Hues of Delahaye, King's College's Strand Magazine, Secret London) and 15 London creators on YouTube and TikTok, not counting posts that disclosed a free or paid visit. **25 venues are named by two or more independent sources.** Every shop with an entry was checked as trading on 14 September 2026.
+> **25 sources carrying 145 citations** across **39 named venues**. **25 venues are named by two or more independent sources.**
+> **Built on:** Time Out, The Infatuation, the Evening Standard and The Handbook; London blogs; YouTube and TikTok.
 > *Evidence rebuilt 14 September 2026 · [How we rank →](/how-we-rank/)*
 
 ---

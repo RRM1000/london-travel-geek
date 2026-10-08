@@ -31,7 +31,8 @@ This page isn't our opinion. Every hotel here is named by independent lists, blo
 > **Three picks:** [Kip Hotel](hotelscom:581101) (£81 typical, Hackney Downs five minutes) · [The Z Hotel Shoreditch](hotel:z-hotel-shoreditch) (£150 typical, one minute from Old Street) · [Good Hotel London](hotelscom:522619328) (£150 typical, Time Out's number one).
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one stay. This pass reads **91 sources carrying 780 citations** across **418 named places to stay**: Which?'s member survey of hotel chains, the editorial mastheads (Time Out, Condé Nast Traveller, the Evening Standard, ELLE, Lonely Planet, National Geographic Traveller), budget travel blogs (EuroCheapo, London Cheapo, The Hotel Guru, Candace Abroad, On the Luce, BudgetTraveller), YouTube videos, and 40 forum threads on Reddit, Mumsnet and the Rick Steves forum. **170 are named by two or more independent sources.** Every hotel with an entry was priced on the same five nights and checked as trading on 14 and 15 September 2026.
+> **91 sources carrying 780 citations** across **418 named places to stay**. **170 are named by two or more independent sources.**
+> **Built on:** Which?'s survey of hotel chains; Time Out, Condé Nast Traveller and the Evening Standard; budget travel blogs; YouTube; 40 forum threads on Reddit, Mumsnet and the Rick Steves forum.
 > *Evidence rebuilt 14 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## What a night actually costs

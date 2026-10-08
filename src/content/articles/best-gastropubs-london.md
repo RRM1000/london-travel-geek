@@ -37,8 +37,8 @@ But the critics who eat in London every week don't simply follow it. **Time Out'
 > 💡 **The Short Version:** **The Devonshire** is named by more sources than anywhere else and tops the award. **The Harwood Arms** is London's only Michelin-starred pub. **The Hero** in Maida Vale does a £25 weekday set lunch and holds a Bib Gourmand. **The Audley** takes no bookings at all. And seven of the pubs below are **closed on Mondays**.
 
 > 📊 **The evidence behind this guide.**
-> Nothing here rests on one visit. This pass reads **30 independent sources carrying 431 citations** across **126 named venues**. **65 are named by two or more sources; 27 are on a judged list.**
-> **Built on:** the Estrella Damm Top 50, the National Restaurant Awards and Michelin's dining pubs, eleven mastheads including Time Out and the Evening Standard, five independent guides, and eleven YouTube and TikTok creators, counted per creator.
+> **30 independent sources carrying 431 citations** across **126 named venues**. **65 are named by two or more sources; 27 are on a judged list.**
+> **Built on:** the Estrella Damm Top 50, the National Restaurant Awards and Michelin's dining pubs; eleven mastheads including Time Out and the Evening Standard; independent guides; YouTube and TikTok.
 > *Evidence built 14 September 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
