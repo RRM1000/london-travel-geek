@@ -203,6 +203,8 @@ West of the stations, between Euston Road and Camden, and a quiet residential po
 | **The German Gymnasium** | Grand European | £££ | An 1865 gymnasium beside St Pancras |
 | **Vermuteria** | Bar and cafe | ££ | In Coal Drops Yard, with a cycling theme |
 
+Supermax, a late-night cocktail and disco bar hidden beneath Happy Face Pizza on Handyside Street, pours £9 cocktails until 7pm. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has the rest of London's hidden bars.
+
 ## Getting there
 
 **By Tube.** **King's Cross St Pancras** is the busiest interchange in the network: Piccadilly, Victoria, Northern, Circle, Metropolitan and Hammersmith & City. Allow extra time — the walk between some platforms is several minutes.

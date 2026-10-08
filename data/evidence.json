@@ -1981,10 +1981,11 @@
     "name": "Seed Library",
     "topics": [
       "activities-shoreditch",
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B1 C4",
+    "sourceCount": 7,
+    "tierSpread": "B3 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -1999,6 +2000,12 @@
         "tierSpread": "C3",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -2006,6 +2013,16 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://timeout.com/london/things-to-do/shoreditch-area-guide"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
       },
       {
         "tier": "C",
@@ -2126,12 +2143,13 @@
     "name": "Happiness Forgets",
     "topics": [
       "activities-shoreditch",
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B1 C3",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 12,
+    "tierSpread": "A1 B3 C7 E1",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "activities-shoreditch": {
         "sourceCount": 2,
@@ -2144,13 +2162,35 @@
         "tierSpread": "C2",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 9,
+        "tierSpread": "A1 B3 C4 E1",
+        "tierCount": 4,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Top 50 Cocktail Bars (UK)",
+        "url": "https://www.top50cocktailbars.com/list/1-50",
+        "quote": "#44 of 50 ('Happiness Forgets, Hoxton, London')"
+      },
+      {
         "tier": "B",
         "source": "Time Out",
         "url": "https://timeout.com/london/things-to-do/shoreditch-area-guide"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
       },
       {
         "tier": "C",
@@ -2166,6 +2206,31 @@
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hidden Libations",
+        "url": "https://hiddenlibations.com/5-london-speakeasies-to-visit/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
       }
     ]
   },
@@ -3451,11 +3516,12 @@
     "topics": [
       "activities-shoreditch",
       "bars",
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "speakeasy"
     ],
-    "sourceCount": 4,
-    "tierSpread": "C3 D1",
-    "tierCount": 2,
+    "sourceCount": 16,
+    "tierSpread": "B8 C6 D1 E1",
+    "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
@@ -3475,9 +3541,57 @@
         "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 13,
+        "tierSpread": "B8 C4 E1",
+        "tierCount": 3,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#3 of 11. 'Clear message: book a table.'"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london",
+        "quote": "'Nightjar Shoreditch'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "Stylist",
+        "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
       {
         "tier": "C",
         "source": "London the Inside",
@@ -3494,9 +3608,29 @@
         "url": "https://balancejournal.co/food-drink/best-cocktail-bars-london"
       },
       {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
         "tier": "D",
         "source": "Three Man Abroad (YouTube)",
         "url": "https://www.youtube.com/@ThreeManAbroad"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
       }
     ]
   },
@@ -3507,8 +3641,8 @@
       "instagrammable",
       "italian"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C5",
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -3519,8 +3653,8 @@
         "hasAward": false
       },
       "instagrammable": {
-        "sourceCount": 4,
-        "tierSpread": "B1 C3",
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -3538,26 +3672,20 @@
         "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
       },
       {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Shoreditch Italian spot with hand-painted plates and 'mesmerising' interiors"
+      },
+      {
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/shoreditch/"
       },
       {
         "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
-        "quote": "Shoreditch Italian spot with hand-painted plates and 'mesmerising' interiors"
-      },
-      {
-        "tier": "C",
         "source": "luxurywanderings.com",
         "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
-        "quote": "1960s retro aesthetic with pink neon signage and a central blossom tree"
       },
       {
         "tier": "C",
@@ -4071,11 +4199,12 @@
     "name": "Callooh Callay",
     "topics": [
       "activities-shoreditch",
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 8,
+    "tierSpread": "B4 C4",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
@@ -4089,9 +4218,35 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 6,
+        "tierSpread": "B4 C2",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
       {
         "tier": "C",
         "source": "London the Inside",
@@ -4101,6 +4256,16 @@
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
       }
     ]
   },
@@ -7700,10 +7865,11 @@
     "name": "Lucky Voice",
     "topics": [
       "activities",
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "speakeasy"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -7718,6 +7884,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -7725,6 +7897,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
       },
       {
         "tier": "C",
@@ -7905,16 +8082,23 @@
   "moonshinesaloon": {
     "name": "Moonshine Saloon",
     "topics": [
-      "activities"
+      "activities",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 E1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -7924,6 +8108,11 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/london-top-activity-bars/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1f0htxd/speakeasy_bar_in_london/"
       }
     ]
   },
@@ -11942,8 +12131,8 @@
       "hotels-luxury",
       "instagrammable"
     ],
-    "sourceCount": 12,
-    "tierSpread": "A1 B5 C6",
+    "sourceCount": 11,
+    "tierSpread": "A1 B5 C5",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -11984,8 +12173,8 @@
         "hasAward": false
       },
       "instagrammable": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -12047,11 +12236,6 @@
         "source": "myglobalviewpoint.com",
         "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
         "quote": "Three-storey glass atrium overflowing with plants"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
       }
     ]
   },
@@ -12062,8 +12246,8 @@
       "british",
       "instagrammable"
     ],
-    "sourceCount": 11,
-    "tierSpread": "B6 C4 D1",
+    "sourceCount": 10,
+    "tierSpread": "B6 C3 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -12080,8 +12264,8 @@
         "hasAward": false
       },
       "instagrammable": {
-        "sourceCount": 5,
-        "tierSpread": "B2 C3",
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -12135,12 +12319,6 @@
         "source": "myglobalviewpoint.com",
         "url": "https://www.myglobalviewpoint.com/most-instagrammable-restaurants-in-london/",
         "quote": "Iconic all-pink Gallery room and space-age pod toilets"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
-        "quote": "The all-pink Gallery room with egg-pod bathrooms"
       },
       {
         "tier": "D",
@@ -12271,7 +12449,7 @@
       "rooftop"
     ],
     "sourceCount": 7,
-    "tierSpread": "B5 C2",
+    "tierSpread": "B6 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -12283,8 +12461,8 @@
       },
       "instagrammable": {
         "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
         "hasAward": false
       },
       "rooftop": {
@@ -12307,6 +12485,11 @@
       },
       {
         "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649"
       },
@@ -12320,11 +12503,6 @@
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/londons-highest-restaurants/",
         "quote": "Battersea, on the list of London's highest restaurants."
-      },
-      {
-        "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       },
       {
         "tier": "C",
@@ -13834,14 +14012,14 @@
       "museums"
     ],
     "sourceCount": 9,
-    "tierSpread": "B1 C8",
-    "tierCount": 2,
+    "tierSpread": "B1 C7 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
         "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "galleries": {
@@ -13876,12 +14054,6 @@
       },
       {
         "tier": "C",
-        "source": "youtube.com/@loveandlondon",
-        "url": "https://www.youtube.com/@loveandlondon",
-        "quote": "Named in 'Amazing afternoon teas in London - Cheap vs. expensive'. Self-funded."
-      },
-      {
-        "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/art-galleries-london/"
       },
@@ -13909,6 +14081,12 @@
         "tier": "C",
         "source": "Museums Made Easy",
         "url": "https://www.museumsmadeeasy.com/free-museums/london"
+      },
+      {
+        "tier": "D",
+        "source": "Love and London (YouTube)",
+        "url": "https://www.youtube.com/@loveandlondon",
+        "quote": "Named in 'Amazing afternoon teas in London - Cheap vs. expensive'. Self-funded."
       }
     ]
   },
@@ -14083,14 +14261,14 @@
       "instagrammable"
     ],
     "sourceCount": 4,
-    "tierSpread": "C4",
-    "tierCount": 1,
+    "tierSpread": "C3 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "afternoon-tea": {
         "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "instagrammable": {
@@ -14108,12 +14286,6 @@
       },
       {
         "tier": "C",
-        "source": "youtube.com/@loveandlondon",
-        "url": "https://www.youtube.com/@loveandlondon",
-        "quote": "Same video, self-funded."
-      },
-      {
-        "tier": "C",
         "source": "luxurywanderings.com",
         "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
         "quote": "Beautifully curated garden terrace"
@@ -14122,6 +14294,12 @@
         "tier": "C",
         "source": "anoushkaprobyn.com",
         "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Love and London (YouTube)",
+        "url": "https://www.youtube.com/@loveandlondon",
+        "quote": "Same video, self-funded."
       }
     ]
   },
@@ -21137,11 +21315,12 @@
   "discountsuitcompany": {
     "name": "Discount Suit Company",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 13,
+    "tierSpread": "B6 C6 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bars": {
@@ -21149,38 +21328,151 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 13,
+        "tierSpread": "B6 C6 E1",
+        "tierCount": 3,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#8 of 11. Kept the old premises' name; 'hidden away under one of the many clothiers'"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/london-cocktail-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hidden Libations",
+        "url": "https://hiddenlibations.com/5-london-speakeasies-to-visit/"
+      },
+      {
+        "tier": "C",
+        "source": "Sis Behaving",
+        "url": "https://sisbehaving.com/london-speakeasy-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "The Travel Oracle",
+        "url": "https://thetraveloracle.net/checking-out-the-hidden-bars-of-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "Most-recommended name in the thread; 'one good one that ended getting a bit too busy'"
       }
     ]
   },
   "disrepute": {
     "name": "Disrepute",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 8,
+    "tierSpread": "A1 B4 C3",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "bars": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 7,
+        "tierSpread": "A1 B4 C2",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Top 50 Cocktail Bars (UK)",
+        "url": "https://www.top50cocktailbars.com/list/1-50",
+        "quote": "#45 of 50 ('Disrepute, Soho, London')"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london",
+        "quote": "#14 of 15. 'Disrepute's Kingly Court entrance is pretty discreet'"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london",
+        "quote": "'blink and you *just* might miss Disrepute'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/london-cocktail-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hidden Libations",
+        "url": "https://hiddenlibations.com/5-london-speakeasies-to-visit/"
       }
     ]
   },
@@ -21252,11 +21544,12 @@
   "satanswhiskers": {
     "name": "Satan’s Whiskers",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 C3",
-    "tierCount": 2,
+    "sourceCount": 5,
+    "tierSpread": "A1 C3 E1",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "bars": {
@@ -21264,6 +21557,12 @@
         "tierSpread": "A1 C3",
         "tierCount": 2,
         "hasAward": true
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -21286,6 +21585,11 @@
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/zd8w48/speakeasylike_bar_in_london/"
       }
     ]
   },
@@ -23918,11 +24222,12 @@
     "name": "Opium",
     "topics": [
       "bars",
-      "dim-sum"
+      "dim-sum",
+      "speakeasy"
     ],
-    "sourceCount": 2,
-    "tierSpread": "A1 B1",
-    "tierCount": 2,
+    "sourceCount": 10,
+    "tierSpread": "A2 B5 C3",
+    "tierCount": 3,
     "hasAward": true,
     "byTopic": {
       "bars": {
@@ -23936,6 +24241,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 9,
+        "tierSpread": "A1 B5 C3",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
@@ -23945,9 +24256,51 @@
         "url": "https://www.theworlds50best.com/bars/list/1-50"
       },
       {
+        "tier": "A",
+        "source": "Top 50 Cocktail Bars (UK)",
+        "url": "https://www.top50cocktailbars.com/list/1-50",
+        "quote": "#46 of 50 ('Opium Cocktails & Dim Sum Parlour, Chinatown, London')"
+      },
+      {
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#4 of 11. 'look for the jade-coloured door on Gerrard Street'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/speakeasy-bars-in-london/"
       }
     ]
   },
@@ -24279,14 +24632,21 @@
   "swift": {
     "name": "Swift",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -24298,6 +24658,11 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-cocktail-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
       }
     ]
   },
@@ -24360,10 +24725,11 @@
     "name": "Oriole",
     "topics": [
       "bars",
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "speakeasy"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C3 D1 E1",
+    "sourceCount": 11,
+    "tierSpread": "B4 C5 D1 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
@@ -24378,6 +24744,12 @@
         "tierSpread": "B1 C1 D1 E1",
         "tierCount": 4,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 6,
+        "tierSpread": "B3 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
       }
     },
     "sources": [
@@ -24385,6 +24757,21 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/restaurants-with-live-music-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
       },
       {
         "tier": "C",
@@ -24400,6 +24787,16 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/where-to-go-for-drinks-dinner-and-a-show/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Travel Oracle",
+        "url": "https://thetraveloracle.net/checking-out-the-hidden-bars-of-london/"
       },
       {
         "tier": "D",
@@ -24466,25 +24863,60 @@
   "archiveandmyth": {
     "name": "Archive & Myth",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 6,
+    "tierSpread": "A1 B2 C2 E1",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "bars": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 5,
+        "tierSpread": "A1 B2 C1 E1",
+        "tierCount": 4,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Top 50 Cocktail Bars (UK)",
+        "url": "https://www.top50cocktailbars.com/list/1-50",
+        "quote": "#18 of 50, Top 50 Cocktail Bars 2026 (UK-wide list; London entry)"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london",
+        "quote": "'a secret within a secret', inside the Hippodrome Casino"
+      },
+      {
+        "tier": "B",
+        "source": "Stylist",
+        "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289"
+      },
+      {
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "C",
+        "source": "Sis Behaving",
+        "url": "https://sisbehaving.com/london-speakeasy-guide/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "'inside hippodrome casino. Drinks are on the pricier side'"
       }
     ]
   },
@@ -24541,16 +24973,23 @@
   "nipperkin": {
     "name": "Nipperkin",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "C1 E1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bars": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -24560,6 +24999,11 @@
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
       }
     ]
   },
@@ -24803,25 +25247,54 @@
   "somasoho": {
     "name": "SOMA Soho",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
+    "sourceCount": 5,
+    "tierSpread": "A1 B2 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "bars": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "A1 B2 C1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Top 50 Cocktail Bars (UK)",
+        "url": "https://www.top50cocktailbars.com/list/1-50",
+        "quote": "#48 of 50 ('SOMA, Soho, London')"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london",
+        "quote": "'SOMA Soho'"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
       }
     ]
   },
@@ -24928,11 +25401,12 @@
   "ninelives": {
     "name": "Nine Lives",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bars": {
@@ -24940,13 +25414,29 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london"
+      },
+      {
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
       }
     ]
   },
@@ -25028,11 +25518,12 @@
   "supermax": {
     "name": "Supermax",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bars": {
@@ -25040,24 +25531,46 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
       }
     ]
   },
   "evansandpeeldetectiveagency": {
     "name": "Evans & Peel Detective Agency",
     "topics": [
-      "bars"
+      "bars",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B2 C3 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bars": {
@@ -25065,13 +25578,45 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#11 of 11. Basement off Earl's Court Road, intercom at the door"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
         "tier": "C",
         "source": "Best Cocktails Guide",
         "url": "https://www.bestcocktailsguide.com/places-to-drink/city/london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
       }
     ]
   },
@@ -25475,11 +26020,10 @@
     "name": "Berners Tavern",
     "topics": [
       "breakfast-brunch",
-      "british",
-      "instagrammable"
+      "british"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -25490,12 +26034,6 @@
         "hasAward": false
       },
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "instagrammable": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -25512,12 +26050,6 @@
         "tier": "C",
         "source": "Balance Journal",
         "url": "https://balancejournal.co/food-drink/best-british-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
-        "quote": "Triple-height gilded dining room with 50+ gilt-framed paintings and crystal chandeliers"
       }
     ]
   },
@@ -33767,7 +34299,7 @@
       "sunday-roast"
     ],
     "sourceCount": 5,
-    "tierSpread": "B3 C2",
+    "tierSpread": "B4 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -33785,7 +34317,7 @@
       },
       "instagrammable": {
         "sourceCount": 3,
-        "tierSpread": "B1 C2",
+        "tierSpread": "B2 C1",
         "tierCount": 2,
         "hasAward": false
       },
@@ -33810,6 +34342,12 @@
       },
       {
         "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Grade II* listed building with three terraces and rooftop bar"
+      },
+      {
+        "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
         "quote": "Restored 18th-century courthouse, an eclectic array of beautifully battered armchairs"
@@ -33818,12 +34356,6 @@
         "tier": "B",
         "source": "The Sauce",
         "url": "https://thesaucemag.com/london-rooftop-restaurants/"
-      },
-      {
-        "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
-        "quote": "Grade II* listed building with three terraces and rooftop bar"
       },
       {
         "tier": "C",
@@ -52008,8 +52540,8 @@
       "british",
       "instagrammable"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C3",
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -52020,8 +52552,8 @@
         "hasAward": false
       },
       "instagrammable": {
-        "sourceCount": 4,
-        "tierSpread": "B1 C3",
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -52048,11 +52580,6 @@
         "source": "anoushkaprobyn.com",
         "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
         "quote": "Covered terrace with seasonal floral makeovers"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
       }
     ]
   },
@@ -68910,8 +69437,8 @@
       "instagrammable"
     ],
     "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "tierSpread": "B3",
+    "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -68928,7 +69455,7 @@
       },
       "instagrammable": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -68945,8 +69472,8 @@
         "url": "https://www.designmynight.com/london/restaurants/best-dim-sum-london"
       },
       {
-        "tier": "C",
-        "source": "hellomagazine.com",
+        "tier": "B",
+        "source": "Hello!",
         "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
@@ -72533,14 +73060,14 @@
       "coffee"
     ],
     "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -72551,8 +73078,8 @@
         "url": "https://coffeethecanvas.com/best-coffee-shops-in-london/"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@loveandlondon",
+        "tier": "D",
+        "source": "Love and London (YouTube)",
         "url": "https://www.youtube.com/@loveandlondon"
       }
     ]
@@ -73741,14 +74268,14 @@
       "coffee"
     ],
     "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -73759,8 +74286,8 @@
         "url": "https://batchcoffee.co.uk/stories/bestroasteryslondon/"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@loveandlondon",
+        "tier": "D",
+        "source": "Love and London (YouTube)",
         "url": "https://www.youtube.com/@loveandlondon"
       }
     ]
@@ -74229,14 +74756,14 @@
       "coffee"
     ],
     "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -74247,8 +74774,8 @@
         "url": "https://www.youtube.com/@wholebeanonly"
       },
       {
-        "tier": "C",
-        "source": "youtube.com/@loveandlondon",
+        "tier": "D",
+        "source": "Love and London (YouTube)",
         "url": "https://www.youtube.com/@loveandlondon"
       }
     ]
@@ -74412,21 +74939,21 @@
       "coffee"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "D1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "youtube.com/@loveandlondon",
+        "tier": "D",
+        "source": "Love and London (YouTube)",
         "url": "https://www.youtube.com/@loveandlondon"
       }
     ]
@@ -74437,21 +74964,21 @@
       "coffee"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "D1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "coffee": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "youtube.com/@loveandlondon",
+        "tier": "D",
+        "source": "Love and London (YouTube)",
         "url": "https://www.youtube.com/@loveandlondon"
       }
     ]
@@ -87076,7 +87603,8 @@
   "shanghaicocktaillounge": {
     "name": "Shanghai Cocktail Lounge",
     "topics": [
-      "dim-sum"
+      "dim-sum",
+      "speakeasy"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -87084,6 +87612,12 @@
     "hasAward": false,
     "byTopic": {
       "dim-sum": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -87143,8 +87677,8 @@
       "rooftop"
     ],
     "sourceCount": 5,
-    "tierSpread": "B4 C1",
-    "tierCount": 2,
+    "tierSpread": "B5",
+    "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "dim-sum": {
@@ -87155,7 +87689,7 @@
       },
       "instagrammable": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -87174,6 +87708,11 @@
       },
       {
         "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      },
+      {
+        "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/the-best-rooftop-restaurants-in-london",
         "quote": "Ranked #11 of 15. 28th floor of the London Hilton on Park Lane. 'You won't be able to get outside or onto a balcony, but the 28th floor views of Hyde Park should be enough.' 22 Park Lane, W1K 1BE."
@@ -87188,11 +87727,6 @@
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/londons-highest-restaurants/",
         "quote": "Mayfair, on the list of London's highest restaurants."
-      },
-      {
-        "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
   },
@@ -87988,7 +88522,8 @@
   "stereo": {
     "name": "Stereo",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "speakeasy"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -87996,6 +88531,12 @@
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -91138,8 +91679,8 @@
       "instagrammable",
       "italian"
     ],
-    "sourceCount": 9,
-    "tierSpread": "B2 C6 D1",
+    "sourceCount": 8,
+    "tierSpread": "B2 C5 D1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -91150,8 +91691,8 @@
         "hasAward": false
       },
       "instagrammable": {
-        "sourceCount": 5,
-        "tierSpread": "B1 C4",
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
         "tierCount": 2,
         "hasAward": false
       },
@@ -91196,11 +91737,6 @@
         "source": "anoushkaprobyn.com",
         "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/",
         "quote": "Reams of fairy lights hang from a canopy of foliage, and over 20,000 bottles line the walls"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
       },
       {
         "tier": "C",
@@ -91919,16 +92455,23 @@
   "cahootspostaloffice": {
     "name": "Cahoots Postal Office",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -91938,6 +92481,11 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
       }
     ]
   },
@@ -91950,7 +92498,7 @@
       "late-night"
     ],
     "sourceCount": 7,
-    "tierSpread": "B4 C3",
+    "tierSpread": "B5 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -91968,8 +92516,8 @@
       },
       "instagrammable": {
         "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
         "hasAward": false
       },
       "late-night": {
@@ -91997,6 +92545,12 @@
       },
       {
         "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Iconic 'press for champagne' buttons and glamorous Golden Age interiors"
+      },
+      {
+        "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/late-night-dining-london-after-hours-restaurants/"
       },
@@ -92004,12 +92558,6 @@
         "tier": "C",
         "source": "Sunny in London",
         "url": "https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
-      },
-      {
-        "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
-        "quote": "Iconic 'press for champagne' buttons and glamorous Golden Age interiors"
       },
       {
         "tier": "C",
@@ -92303,11 +92851,12 @@
   "2850bynight": {
     "name": "28°-50° by Night",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "speakeasy"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C1 D1 E1",
-    "tierCount": 3,
+    "sourceCount": 4,
+    "tierSpread": "B1 C1 D1 E1",
+    "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
@@ -92315,9 +92864,20 @@
         "tierSpread": "C1 D1 E1",
         "tierCount": 3,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
       {
         "tier": "C",
         "source": "London x London",
@@ -92850,14 +93410,21 @@
   "blamegloria": {
     "name": "Blame Gloria",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -92869,6 +93436,11 @@
         "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/drag-brunches-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
       }
     ]
   },
@@ -93057,7 +93629,7 @@
       "instagrammable"
     ],
     "sourceCount": 8,
-    "tierSpread": "B3 C4 E1",
+    "tierSpread": "B4 C3 E1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -93075,7 +93647,7 @@
       },
       "instagrammable": {
         "sourceCount": 6,
-        "tierSpread": "B2 C4",
+        "tierSpread": "B3 C3",
         "tierCount": 2,
         "hasAward": false
       }
@@ -93094,15 +93666,15 @@
       },
       {
         "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
+        "quote": "Greek god statues, hand-painted ceilings, and classical artwork throughout"
+      },
+      {
+        "tier": "B",
         "source": "Country & Town House",
         "url": "https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/",
         "quote": "Designed by Martin Brudnizki, with marble sculptures by Damien Hirst and murals by Gary Myatt"
-      },
-      {
-        "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/",
-        "quote": "Greek god statues, hand-painted ceilings, and classical artwork throughout"
       },
       {
         "tier": "C",
@@ -96593,8 +97165,8 @@
       "instagrammable"
     ],
     "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "french": {
@@ -96605,7 +97177,7 @@
       },
       "instagrammable": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -96617,8 +97189,8 @@
         "url": "https://www.thehandbook.com/french-restaurants-london/"
       },
       {
-        "tier": "C",
-        "source": "hellomagazine.com",
+        "tier": "B",
+        "source": "Hello!",
         "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
@@ -138150,10 +138722,11 @@
     "topics": [
       "hotels",
       "hotels-boutique",
-      "instagrammable"
+      "instagrammable",
+      "speakeasy"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B3 C2",
+    "sourceCount": 6,
+    "tierSpread": "B4 C2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -138174,6 +138747,12 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -138191,6 +138770,11 @@
         "tier": "B",
         "source": "House & Garden",
         "url": "https://www.houseandgarden.co.uk/gallery/best-hotels-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
       },
       {
         "tier": "C",
@@ -177248,7 +177832,7 @@
       "wine-bars"
     ],
     "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -177260,7 +177844,7 @@
       },
       "instagrammable": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -177278,8 +177862,8 @@
         "url": "https://www.theinfatuation.com/london/cuisines/ice-cream"
       },
       {
-        "tier": "C",
-        "source": "hellomagazine.com",
+        "tier": "B",
+        "source": "Hello!",
         "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       },
       {
@@ -180340,15 +180924,15 @@
       "rooftop",
       "views"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B1 C6",
+    "sourceCount": 6,
+    "tierSpread": "B1 C5",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "instagrammable": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       },
       "london-with-children": {
@@ -180375,12 +180959,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
-        "quote": "Free 35th-floor observation deck"
       },
       {
         "tier": "C",
@@ -180578,14 +181156,21 @@
   "libertine": {
     "name": "The Libertine",
     "topics": [
-      "instagrammable"
+      "instagrammable",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "instagrammable": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -180597,6 +181182,11 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/instagrammable-restaurants-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
       }
     ]
   },
@@ -180822,21 +181412,21 @@
       "instagrammable"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "B1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "instagrammable": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "hellomagazine.com",
+        "tier": "B",
+        "source": "Hello!",
         "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
@@ -180848,13 +181438,13 @@
       "mexican"
     ],
     "sourceCount": 5,
-    "tierSpread": "B3 C2",
+    "tierSpread": "B4 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "instagrammable": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -180866,6 +181456,11 @@
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
+      },
       {
         "tier": "B",
         "source": "Forbes",
@@ -180883,11 +181478,6 @@
       },
       {
         "tier": "C",
-        "source": "hellomagazine.com",
-        "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/mexican-restaurants/"
       }
@@ -180899,21 +181489,21 @@
       "instagrammable"
     ],
     "sourceCount": 1,
-    "tierSpread": "C1",
+    "tierSpread": "B1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "instagrammable": {
         "sourceCount": 1,
-        "tierSpread": "C1",
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
     },
     "sources": [
       {
-        "tier": "C",
-        "source": "hellomagazine.com",
+        "tier": "B",
+        "source": "Hello!",
         "url": "https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
       }
     ]
@@ -181060,14 +181650,14 @@
     "topics": [
       "instagrammable"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
+    "sourceCount": 1,
+    "tierSpread": "C1",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "instagrammable": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -181078,11 +181668,6 @@
         "source": "luxurywanderings.com",
         "url": "https://luxurywanderings.com/beautiful-restaurants-in-london/",
         "quote": "Glamorous Beaux-Arts dining room"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
       }
     ]
   },
@@ -181746,74 +182331,6 @@
         "tier": "C",
         "source": "anoushkaprobyn.com",
         "url": "https://anoushkaprobyn.com/beautiful-restaurants-in-london/"
-      }
-    ]
-  },
-  "coppaclubtowerbridge": {
-    "name": "Coppa Club Tower Bridge",
-    "topics": [
-      "instagrammable",
-      "rooftop"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "rooftop": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/restaurants/riverside-restaurants-london"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/riverside-restaurants-london/"
-      },
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/",
-        "quote": "Transparent igloo pods overlooking Tower Bridge"
-      }
-    ]
-  },
-  "elandn": {
-    "name": "EL&N",
-    "topics": [
-      "instagrammable"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "instagrammable": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "dinewithjp.com",
-        "url": "https://dinewithjp.com/best-instagrammable-restaurants-london-guide/"
       }
     ]
   },
@@ -203442,16 +203959,23 @@
   "dive": {
     "name": "Dive",
     "topics": [
-      "new-openings"
+      "new-openings",
+      "speakeasy"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "new-openings": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -203461,6 +203985,11 @@
         "tier": "B",
         "source": "The Infatuation",
         "url": "https://www.theinfatuation.com/london/guides/londons-new-restaurant-openings"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
       }
     ]
   },
@@ -215770,6 +216299,36 @@
       }
     ]
   },
+  "coppaclubtowerbridge": {
+    "name": "Coppa Club Tower Bridge",
+    "topics": [
+      "rooftop"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "rooftop": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/restaurants/riverside-restaurants-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/riverside-restaurants-london/"
+      }
+    ]
+  },
   "clipperbarandterrace": {
     "name": "Clipper Bar and Terrace",
     "topics": [
@@ -220336,6 +220895,2973 @@
         "tier": "C",
         "source": "London Tapas Guide",
         "url": "https://londontapasguide.wordpress.com/2026/06/16/the-complete-guide-to-londons-spanish-food-scene-in-2026/"
+      }
+    ]
+  },
+  "murderinc": {
+    "name": "Murder Inc",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 C2",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "A1 C2",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Top 50 Cocktail Bars (UK)",
+        "url": "https://www.top50cocktailbars.com/list/1-50",
+        "quote": "#21 of 50 ('Murder Inc, Soho, London')"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hidden Libations",
+        "url": "https://hiddenlibations.com/5-london-speakeasies-to-visit/"
+      }
+    ]
+  },
+  "spybar": {
+    "name": "The Spy Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "A2 B1 C1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "A2 B1 C1",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Top 50 Cocktail Bars (UK)",
+        "url": "https://www.top50cocktailbars.com/list/1-50",
+        "quote": "#43 of 50 ('The Spy Bar, London')"
+      },
+      {
+        "tier": "A",
+        "source": "CLASS Bar Awards",
+        "url": "https://classbarawards.com/classbarawards2026/en/page/2026-winners",
+        "quote": "Bar Manager of the Year 2026: Sotiris Konomi, The Spy Bar at Raffles London at The OWO"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london",
+        "quote": "#1 of 15. 'The basement bar is behind a door marked with a tiny 007'"
+      },
+      {
+        "tier": "C",
+        "source": "Sis Behaving",
+        "url": "https://sisbehaving.com/london-speakeasy-guide/"
+      }
+    ]
+  },
+  "69colebrookerow": {
+    "name": "69 Colebrooke Row",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#1 of 11. 'The bar with no name, it styles itself... everyone knows this place by its address'"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "'The Bar With No Name. Islington.'"
+      }
+    ]
+  },
+  "mulwray": {
+    "name": "The Mulwray",
+    "topics": [
+      "speakeasy",
+      "wine-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies"
+      },
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "House & Garden",
+        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
+      }
+    ]
+  },
+  "bootlegger": {
+    "name": "The Bootlegger",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/zd8w48/speakeasylike_bar_in_london/"
+      }
+    ]
+  },
+  "experimentalcocktailclub": {
+    "name": "Experimental Cocktail Club",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B3 C3 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 7,
+        "tierSpread": "B3 C3 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#6 of 11. 'half of the capacity is kept back for walk-ins'"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Stylist",
+        "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289",
+        "quote": "'After entering through a discreet, unmarked door, head upstairs'"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "mayorofscaredycattown": {
+    "name": "The Mayor of Scaredy Cat Town",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 11,
+    "tierSpread": "B5 C5 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 11,
+        "tierSpread": "B5 C5 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#9 of 11 ('Mayor of Scaredy Cat Town'). 'The entrance is the one that looks like a big SMEG fridge door.'"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Sis Behaving",
+        "url": "https://sisbehaving.com/london-speakeasy-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "The Travel Oracle",
+        "url": "https://thetraveloracle.net/checking-out-the-hidden-bars-of-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "cellardoor": {
+    "name": "CellarDoor",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B4 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 7,
+        "tierSpread": "B4 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "trishas": {
+    "name": "Trisha's",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london",
+        "quote": "#2 of 15 ('Trisha's/New Evaristo Club')"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "vaultatmilroys": {
+    "name": "The Vault at Milroy's",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london",
+        "quote": "#4 of 15 ('The Vault'). 'hidden behind an unassuming bookcase at the rear of Soho whisky specialist Milroy's'"
+      },
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "phoenixartsclub": {
+    "name": "Phoenix Arts Club",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london"
+      }
+    ]
+  },
+  "cahoots": {
+    "name": "Cahoots",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 17,
+    "tierSpread": "B7 C6 D3 E1",
+    "tierCount": 4,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 17,
+        "tierSpread": "B7 C6 D3 E1",
+        "tierCount": 4,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "Stylist",
+        "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hidden Libations",
+        "url": "https://hiddenlibations.com/5-london-speakeasies-to-visit/"
+      },
+      {
+        "tier": "C",
+        "source": "Sis Behaving",
+        "url": "https://sisbehaving.com/london-speakeasy-guide/",
+        "quote": "'Cahoots Postal' - the Borough Yards branch"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Paging Mr. Morrow (YouTube)",
+        "url": "https://www.youtube.com/@PagingMrMorrow",
+        "quote": "Title: '... Borough Market | Cahoots Speakeasy' (watch?v=_sbMB_3mZTQ, 211k views)"
+      },
+      {
+        "tier": "D",
+        "source": "Ride Creator (YouTube)",
+        "url": "https://www.youtube.com/@Ride_Creator",
+        "quote": "'Cahoots is one of the best detailed hidden bars in the world!' (watch?v=Too3D8Hm3Lg)"
+      },
+      {
+        "tier": "D",
+        "source": "Life with Lisa (YouTube)",
+        "url": "https://www.youtube.com/@LollipopBoxClub",
+        "quote": "Title: 'CAHOOTS - SECRET COCKTAIL BAR IN LONDON' (watch?v=WDqm3Pf-RBA)"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1f0htxd/speakeasy_bar_in_london/",
+        "quote": "'The queue makes it less speakeasy than it would like'"
+      }
+    ]
+  },
+  "naturalphilosopher": {
+    "name": "The Natural Philosopher",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B3 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 6,
+        "tierSpread": "B3 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "reverendjwsimpson": {
+    "name": "Reverend JW Simpson",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "zumbarbarossa": {
+    "name": "Zum Barbarossa",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Stylist",
+        "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289"
+      }
+    ]
+  },
+  "jacksolomonsclub": {
+    "name": "Jack Solomons Club",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      }
+    ]
+  },
+  "ottiessalon": {
+    "name": "Ottie's Salon",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "engelbar": {
+    "name": "Engel Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "basementsate": {
+    "name": "Basement Sate",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "'Not well sign posted, small and cosy'"
+      }
+    ]
+  },
+  "artstheatreclub": {
+    "name": "The Arts Theatre Club",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/zd8w48/speakeasylike_bar_in_london/"
+      }
+    ]
+  },
+  "luckypig": {
+    "name": "The Lucky Pig",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "sibin": {
+    "name": "Sibin",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london",
+        "quote": "'Sibin Speakeasy'"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "knox": {
+    "name": "The Knox",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "museatrsahouse": {
+    "name": "MUSE at RSA House",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "luggageroom": {
+    "name": "The Luggage Room",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "gingerlily": {
+    "name": "Ginger Lily",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "candlelightclub": {
+    "name": "The Candlelight Club",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/zd8w48/speakeasylike_bar_in_london/"
+      }
+    ]
+  },
+  "swiftborough": {
+    "name": "Swift Borough",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "blackhorse": {
+    "name": "Black Horse",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "gambitbar": {
+    "name": "Gambit Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "bootleggerrichmond": {
+    "name": "The Bootlegger Richmond",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/5-secret-bars-of-south-west-london/"
+      }
+    ]
+  },
+  "cocktailakademia": {
+    "name": "Cocktail Akademia",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "moonshineminnies": {
+    "name": "Moonshine Minnie's",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      }
+    ]
+  },
+  "found": {
+    "name": "Found",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "135barandlounge": {
+    "name": "135 Bar & Lounge",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "barts": {
+    "name": "Barts",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B5 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 8,
+        "tierSpread": "B5 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356",
+        "quote": "'Bart's, Chelsea'"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/zd8w48/speakeasylike_bar_in_london/"
+      }
+    ]
+  },
+  "pillarhall": {
+    "name": "Pillar Hall",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+      }
+    ]
+  },
+  "rabbitshole": {
+    "name": "The Rabbits Hole",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london",
+        "quote": "'The Rabbit Hole'"
+      }
+    ]
+  },
+  "bourneandhollingsworth": {
+    "name": "Bourne & Hollingsworth",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      }
+    ]
+  },
+  "keystonecrescent": {
+    "name": "Keystone Crescent",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      }
+    ]
+  },
+  "playersbar": {
+    "name": "The Players Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      }
+    ]
+  },
+  "evebar": {
+    "name": "Eve Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      }
+    ]
+  },
+  "belowstonenest": {
+    "name": "Below Stone Nest",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "'Stone Below Nest is a gem in town.'"
+      }
+    ]
+  },
+  "backpocket": {
+    "name": "The Back Pocket",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/secret-bars-in-london"
+      }
+    ]
+  },
+  "bloomsburyclubbar": {
+    "name": "The Bloomsbury Club Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      }
+    ]
+  },
+  "fitzsbar": {
+    "name": "Fitz's Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      }
+    ]
+  },
+  "blindspot": {
+    "name": "Blind Spot",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B2 C3 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 6,
+        "tierSpread": "B2 C3 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "'it's not signposted or visible from the street'"
+      }
+    ]
+  },
+  "champagnebarat116pallmall": {
+    "name": "The Champagne Bar at 116 Pall Mall",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "esmeraldas": {
+    "name": "Esmeralda's",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/"
+      }
+    ]
+  },
+  "octoatamazonico": {
+    "name": "Octo at Amazonico",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      }
+    ]
+  },
+  "livingroomatmeraki": {
+    "name": "The Living Room at Meraki",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      }
+    ]
+  },
+  "nyxmayfair": {
+    "name": "NYX Mayfair",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Stylist",
+        "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289"
+      }
+    ]
+  },
+  "bandrabhai": {
+    "name": "Bandra Bhai",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      }
+    ]
+  },
+  "sixt33n": {
+    "name": "Sixt33n",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      }
+    ]
+  },
+  "manettasbar": {
+    "name": "Manetta's Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "gordonswinebar": {
+    "name": "Gordon's Wine Bar",
+    "topics": [
+      "speakeasy",
+      "wine-bars"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B4 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 6,
+        "tierSpread": "B4 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/londons-best-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Surrender Monkey Travels (YouTube)",
+        "url": "https://www.youtube.com/@SurrenderMonkeys1"
+      }
+    ]
+  },
+  "downstairsatsucre": {
+    "name": "Downstairs at Sucre",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      }
+    ]
+  },
+  "esqbar": {
+    "name": "ESQ Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      }
+    ]
+  },
+  "lostpropertyoffice": {
+    "name": "Lost Property Office",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B1 C2 D1 E1",
+    "tierCount": 4,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C2 D1 E1",
+        "tierCount": 4,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/speakeasy-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Dough Boy Dines (YouTube)",
+        "url": "https://www.youtube.com/@DoughBoyDines",
+        "quote": "'the LOST PROPERTY OFFICE at Brewdog HQ in Waterloo station. A quaint speak easy style bar' (watch?v=MdK3h4JMxoQ, May 2024)"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "'a secret bar in Brewdog Waterloo... Behind the telephone box'; reply: 'you need to pick up the phone'"
+      }
+    ]
+  },
+  "den": {
+    "name": "The Den",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
+      }
+    ]
+  },
+  "belowandhidden": {
+    "name": "Below & Hidden",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Luxury London",
+        "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/"
+      }
+    ]
+  },
+  "40elephants": {
+    "name": "The 40 Elephants",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Stylist",
+        "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289"
+      }
+    ]
+  },
+  "pix": {
+    "name": "Pix",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      }
+    ]
+  },
+  "blindpig": {
+    "name": "The Blind Pig",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "callmemrlucky": {
+    "name": "Call Me Mr Lucky",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "cachecache": {
+    "name": "Cache Cache",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      }
+    ]
+  },
+  "whiskyroomatthelondoner": {
+    "name": "The Whisky Room at The Londoner",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      }
+    ]
+  },
+  "scalesmayfair": {
+    "name": "Scales Mayfair",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Quintessentially",
+        "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "barlina": {
+    "name": "Bar Lina",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C2 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "C2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Sis Behaving",
+        "url": "https://sisbehaving.com/london-speakeasy-guide/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+        "quote": "'a secret bar in Lina Stores in Soho'"
+      }
+    ]
+  },
+  "loungebohemia": {
+    "name": "Lounge Bohemia",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      },
+      {
+        "tier": "D",
+        "source": "Love and London (YouTube)",
+        "url": "https://www.youtube.com/@loveandlondon",
+        "quote": "Listed under 'Mentioned in the video' (watch?v=-eiHQ1_GrKQ). The video's sponsor is BetterHelp, not a venue."
+      }
+    ]
+  },
+  "blackrock": {
+    "name": "Black Rock",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "alfies": {
+    "name": "Alfie's",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "lowcountry": {
+    "name": "Lowcountry",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "elsiete": {
+    "name": "El Siete",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "noregrets": {
+    "name": "No Regrets",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "dangs": {
+    "name": "Dang's",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "greenroom": {
+    "name": "The Green Room",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
+      }
+    ]
+  },
+  "asabovesobelow": {
+    "name": "As Above, So Below",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "C1 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "musebar": {
+    "name": "Muse Bar",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/secret-bars-london/"
+      }
+    ]
+  },
+  "upstairsatrules": {
+    "name": "Upstairs at Rules",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      }
+    ]
+  },
+  "iceberglounge": {
+    "name": "Iceberg Lounge",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      }
+    ]
+  },
+  "kolmezcaleria": {
+    "name": "Kol Mezcaleria",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+      }
+    ]
+  },
+  "dragonroom": {
+    "name": "The Dragon Room",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "purl": {
+    "name": "Purl",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Devour Tours",
+        "url": "https://devourtours.com/blog/speakeasy-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jetset Times",
+        "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "shibeenatboha": {
+    "name": "The Shibeen at BOHA",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/5-secret-bars-of-south-west-london/"
+      }
+    ]
+  },
+  "holybrew": {
+    "name": "Holy Brew",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/5-secret-bars-of-south-west-london/",
+        "quote": "'This hidden bar beneath Dalchini restaurant'"
+      }
+    ]
+  },
+  "wc": {
+    "name": "W.C.",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Time & Leisure",
+        "url": "https://timeandleisure.co.uk/things-to-do/5-secret-bars-of-south-west-london/"
+      }
+    ]
+  },
+  "hokuspokus": {
+    "name": "Hokus Pokus",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Dough Boy Dines (YouTube)",
+        "url": "https://www.youtube.com/@DoughBoyDines",
+        "quote": "'This is Hokus Pokus, a secret bar in King's Cross London' (watch?v=9DdE1kfKcAk, Apr 2024)"
+      }
+    ]
+  },
+  "blacklacquer": {
+    "name": "Black Lacquer",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "spacetalk": {
+    "name": "Space Talk",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "rasputin": {
+    "name": "Rasputin",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "merchanthouse": {
+    "name": "Merchant House",
+    "topics": [
+      "speakeasy"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
       }
     ]
   },
@@ -237630,36 +241156,6 @@
       }
     ]
   },
-  "mulwray": {
-    "name": "The Mulwray",
-    "topics": [
-      "wine-bars"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "wine-bars": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      },
-      {
-        "tier": "B",
-        "source": "House & Garden",
-        "url": "https://www.houseandgarden.co.uk/gallery/best-london-wine-bars"
-      }
-    ]
-  },
   "nookdeliandwinebar": {
     "name": "The Nook Deli & Wine Bar",
     "topics": [
@@ -237827,56 +241323,6 @@
         "tier": "B",
         "source": "Foodism",
         "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
-      }
-    ]
-  },
-  "gordonswinebar": {
-    "name": "Gordon's Wine Bar",
-    "topics": [
-      "wine-bars"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B4 C1 D1",
-    "tierCount": 3,
-    "hasAward": false,
-    "byTopic": {
-      "wine-bars": {
-        "sourceCount": 6,
-        "tierSpread": "B4 C1 D1",
-        "tierCount": 3,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Conde Nast Traveller",
-        "url": "https://www.cntraveller.com/gallery/best-wine-bars-in-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-wine-bars-in-london_10122"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/best-wine-bars-in-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/londons-best-wine-bars/"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/the-best-wine-bars-in-london/"
-      },
-      {
-        "tier": "D",
-        "source": "Surrender Monkey Travels (YouTube)",
-        "url": "https://www.youtube.com/@SurrenderMonkeys1"
       }
     ]
   },

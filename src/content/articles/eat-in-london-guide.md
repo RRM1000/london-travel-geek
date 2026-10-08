@@ -207,6 +207,7 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 * [**Special occasions**](/articles/special-occasion-restaurants-london/) — What to book, how far ahead, and which rooms actually feel like an event.
 * [**Dinner and a show**](/articles/dinner-and-a-show-london/) — Live music, cabaret and dining theatre, and which nights each runs.
 * [**Cocktail bars**](/articles/best-cocktail-bars-london/) — 21 compared, for before or instead of dinner.
+* [**Speakeasy bars**](/articles/best-speakeasy-bars-london/) — the hidden ones, through a fridge, a bookcase or an unmarked door.
 * [**Wine bars**](/articles/best-wine-bars-london/) — The rooms the critics agree on, and the shop-and-bar hybrids where the same bottle costs less off the shelf.
 * [**Ice cream**](/articles/best-ice-cream-london/) — Gelato, soft serve and the cult queues, for afterwards.
 * [**Eating outside**](/articles/eat-outside-london/) — The yards, squares and waterfronts, which ones are heated in winter, and where you can sit down with food you brought yourself.

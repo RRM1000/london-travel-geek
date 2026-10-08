@@ -5,7 +5,7 @@ description: "Where the Savoy Cocktail Book was written, a martini mixed at your
 heroImage: "../../assets/articles/best-cocktail-bars-london/a-bar-with-shapes-for-a-name-coasters.jpg"
 heroImageAlt: "Three amber cocktails at A Bar with Shapes for a Name, on coasters cut as a yellow triangle, a red square and a blue circle"
 publishedAt: 2026-08-23
-updatedAt: 2026-09-24
+updatedAt: 2026-10-08
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -28,10 +28,10 @@ London's cocktail scene splits neatly in two. There are the **Mayfair and St Jam
 
 Both are worth your time and they are not competing.
 
-> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, because the martini is poured neat from a frozen bottle at your table. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and is the most decorated bar in London. And **Tayēr + Elementary** is two bars in one room.
+> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** imposes a two-drink limit, because the martini is poured neat from a frozen bottle at your table. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and was named Bar of the Year at the CLASS Bar Awards 2026. And **Tayēr + Elementary** is two bars in one room.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar holds a world ranking we give the position and the year, because those lists move every autumn. All rankings here are from the World's 50 Best Bars 2025 — the 2026 list is announced in Milan in October 2026, and anything claiming a 2026 ranking before then is not real.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Where a bar holds a world ranking we give the position and the year, because those lists move every autumn. Current rankings are from the World's 50 Best Bars 2026, announced on 7 October 2026.
 
 ## Where they are
 
@@ -73,7 +73,7 @@ Both are worth your time and they are not competing.
 
 *The Connaught Bar.*
 
-**No.6 in the World's 50 Best Bars 2025** · world No.1 in 2020 and 2021
+**No.8 in the World's 50 Best Bars 2026** · world No.1 in 2020 and 2021
 
 The **martini is mixed at your table** from a trolley of tinctures — you pick the gin, then choose from bergamot, cardamom, coriander, liquorice and lavender as the bartender works, and the whole thing takes several minutes in front of you. It is £30, and it is the most polished drink service in London.
 
@@ -105,11 +105,11 @@ At The Langham, 1c Portland Place, W1B 1JA, at the top of Regent Street opposite
 
 *The seated room behind the bar.*
 
-**No.5 in the World's 50 Best Bars 2025** — the highest-ranked London bar on that list
+**No.5 in the World's 50 Best Bars 2025** — the highest-ranked London bar on that list, and not in the 2026 top 100
 
 Alex Kratena and Monica Berg split it in two: a standing bar at the front for a fast drink, a seated room behind for a slow one. Among the most technically serious bars in Europe.
 
-> ⚠️ **Closed since a fire in the building on 5 May 2026**, with no reopening date announced. It is listed here because it remains London's highest-ranked bar and because it is expected back — but do not travel for it. Check their Instagram before you plan anything around it.
+> ⚠️ **Closed since a fire in the building on 5 May 2026**, with no reopening date announced. It is listed here because it was London's highest-ranked bar in 2025 and because it is expected back — but do not travel for it. Check their Instagram before you plan anything around it.
 
 ### Lyaness, South Bank
 
@@ -167,7 +167,7 @@ The **martini is made at your table from frozen bottles**, poured with no ice an
 
 *££££ · £20–£24 · from 5pm*
 
-**No.31 in the World's 50 Best Bars 2025**
+**No.77 in the World's 50 Best Bars 2026**
 
 Gerald Scarfe's caricatures cover the walls, there is a real fire and about a thousand antiquarian books, and a live band plays most nights. Closer to a private library than a hotel bar, and the only room on this page where you could plausibly fall asleep in an armchair.
 
@@ -183,7 +183,7 @@ Hours are published only as **"5pm until late"**, with no closing time or day br
 
 *££££ · 52 Stratton Street W1J 8LN · 5pm–1.30am, seven days*
 
-**No.79 in the World's 50 Best Bars 2025**
+**No.79 in the World's 50 Best Bars 2025**; not in the 2026 top 100
 
 Erik Lorincz, formerly head bartender at the Savoy's American Bar, running a basement room off Piccadilly. The technical end of Mayfair, and quieter than its postcode suggests.
 
@@ -211,7 +211,7 @@ Cheaper, later, and no less serious.
 
 *Satan's Whiskers.*
 
-**No.21 in the World's 50 Best Bars 2025**
+**No.29 in the World's 50 Best Bars 2026** · Bar of the Year, CLASS Bar Awards 2026
 
 **Taxidermy on the walls, hip-hop loud enough to talk over**, and a menu rewritten daily since it opened in late 2013. Consistently named one of the best bars in London by people who go to bars for a living, and it has never once behaved like it.
 
@@ -275,7 +275,7 @@ Bookings are open and walk-ins welcome, per their own banner. **They publish no 
 
 *Three Sheets.*
 
-**Soho: No.80 in the World's 50 Best Bars 2025** · **Dalston: No.16 in 2019**
+**Soho: No.73 in the World's 50 Best Bars 2026** · **Dalston: No.16 in 2019**
 
 Brothers **Max and Noel Venning**, a short menu and **no theatre at all** — the drinks arrive without a speech, which in this scene is very much the point. Their own phrase for it is meticulously simple, and they mean the drink rather than the room.
 
@@ -291,7 +291,7 @@ Brothers **Max and Noel Venning**, a short menu and **no theatre at all** — th
 
 *A Bar with Shapes for a Name.*
 
-**No.73 in the World's 50 Best Bars 2025**
+**No.73 in the World's 50 Best Bars 2025**; not in the 2026 top 100
 
 Built on **Bauhaus principles down to the glassware**, with a menu of about a dozen drinks and nothing surplus to it. The name is a joke about its own signage, which is three shapes.
 
@@ -472,11 +472,13 @@ Some bars are simply priced below the market and do not need an offer:
 * **£20 a cocktail in Mayfair is normal.** East London is £13–£16 for drinks made with the same care.
 * **Ask what the bartender wants to make.** At every bar on this list that is a better order than reading the menu.
 * **Service charge** of 12.5% is standard and discretionary.
+* **Hidden bars** — Nightjar, Discount Suit Company and the rest of London's speakeasies, with how to find each door, are in [the speakeasy guide](/articles/best-speakeasy-bars-london/).
 
 ---
 
 ## Continue planning your London trip
 
+- 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)** — behind fridges, bookcases and unmarked doors
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)**
 - 🎪 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)**
 - 🏛️ **[Historic Pubs and Dining Rooms in London](/articles/historic-pubs-dining-rooms-london/)**

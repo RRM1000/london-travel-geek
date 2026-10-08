@@ -1,0 +1,905 @@
+{
+  "cuisine": "speakeasy",
+  "recorded": "2026-10-08",
+  "note": "Seeded 2026-10-08. SCOPE: bars a visitor enters through a concealed or unmarked entrance - hidden door, fake shopfront, behind a fridge, phone box or another business, unsigned basement, password or doorbell - and that present themselves as hidden on their own site. A themed bar with its name over the door is out (Cahoots has a lit CAHOOTS sign above its Kingly Court door, Ewan-M photo on Commons, July 2025). Names are recorded as each source framed them, under one canonical spelling, and the article then applies the operator test - so Cahoots, Happiness Forgets, Callooh Callay, CellarDoor, Oriole and The Luggage Room are counted here but sit in the article's 'signed at the door' section. RECENCY: lists last updated before 2022 are declined as stale (they carry Purl, Milk & Honey, the Worship Street Whistling Shop). SEARCH ROUTE: Brave Search over curl answered about 25 queries before a bot wall; Bing web RSS answers only the first word; YouTube results pages parsed for ytInitialData; Reddit .rss returned 429 all day so the three threads were read through the PullPush archive. Reddit threads count as one domain between them. Where a source named Nightjar without a branch it is filed under the Shoreditch bar, the one that trades; Quintessentially named the closed Carnaby branch and that mention is dropped by data/closed.json.",
+  "sources": [
+    {
+      "scope": "speakeasy",
+      "ranked": true,
+      "quotes": {
+        "Archive & Myth": "#18 of 50, Top 50 Cocktail Bars 2026 (UK-wide list; London entry)",
+        "Murder Inc": "#21 of 50 ('Murder Inc, Soho, London')",
+        "The Spy Bar": "#43 of 50 ('The Spy Bar, London')",
+        "Happiness Forgets": "#44 of 50 ('Happiness Forgets, Hoxton, London')",
+        "Disrepute": "#45 of 50 ('Disrepute, Soho, London')",
+        "Opium": "#46 of 50 ('Opium Cocktails & Dim Sum Parlour, Chinatown, London')",
+        "SOMA Soho": "#48 of 50 ('SOMA, Soho, London')"
+      },
+      "name": "Top 50 Cocktail Bars 2026 (UK) - London bars from the speakeasy lists",
+      "url": "https://www.top50cocktailbars.com/list/1-50",
+      "tier": "A",
+      "dated": "2026-02",
+      "names": [
+        "Archive & Myth",
+        "Murder Inc",
+        "The Spy Bar",
+        "Happiness Forgets",
+        "Disrepute",
+        "Opium",
+        "SOMA Soho"
+      ],
+      "note": "Trap 12: a UK list. Read 8 Oct 2026; only London entries that also appear on a speakeasy or hidden-bar list are recorded. The other London entries (Satan's Whiskers #3, Waltz #5, Amaro #7, Bar Termini #8, Tayer + Elementary #10, Three Sheets #11 and #32, Side Hustle #12, Swift #15, Kwant #19, Lyaness #25, Equal Parts #26, Connaught #31, Viajante87 #33, Scarfes #35, A Bar with Shapes for a Name #36, Bar Kinky #37, Dram #39) are signed cocktail bars and belong to the bars corpus."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "The Spy Bar": "Bar Manager of the Year 2026: Sotiris Konomi, The Spy Bar at Raffles London at The OWO"
+      },
+      "name": "CLASS Bar Awards 2026 - winners",
+      "url": "https://classbarawards.com/classbarawards2026/en/page/2026-winners",
+      "tier": "A",
+      "dated": "2026",
+      "names": [
+        "The Spy Bar"
+      ],
+      "note": "Only the Spy Bar among the winners is a hidden bar. Satan's Whiskers (Bar of the Year), Waltz (New Bar, Bartender of the Year) and Lyaness are signed bars."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": true,
+      "quotes": {
+        "69 Colebrooke Row": "#1 of 11. 'The bar with no name, it styles itself... everyone knows this place by its address'",
+        "Nightjar": "#3 of 11. 'Clear message: book a table.'",
+        "Opium": "#4 of 11. 'look for the jade-coloured door on Gerrard Street'",
+        "Experimental Cocktail Club": "#6 of 11. 'half of the capacity is kept back for walk-ins'",
+        "Discount Suit Company": "#8 of 11. Kept the old premises' name; 'hidden away under one of the many clothiers'",
+        "The Mayor of Scaredy Cat Town": "#9 of 11 ('Mayor of Scaredy Cat Town'). 'The entrance is the one that looks like a big SMEG fridge door.'",
+        "Evans & Peel Detective Agency": "#11 of 11. Basement off Earl's Court Road, intercom at the door"
+      },
+      "name": "Time Out - The best speakeasies in London",
+      "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+      "tier": "B",
+      "dated": "2026-03-31",
+      "names": [
+        "69 Colebrooke Row",
+        "The Mulwray",
+        "Nightjar",
+        "Opium",
+        "The Bootlegger",
+        "Experimental Cocktail Club",
+        "Callooh Callay",
+        "Discount Suit Company",
+        "The Mayor of Scaredy Cat Town",
+        "CellarDoor",
+        "Evans & Peel Detective Agency"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": true,
+      "quotes": {
+        "The Spy Bar": "#1 of 15. 'The basement bar is behind a door marked with a tiny 007'",
+        "Trisha's": "#2 of 15 ('Trisha's/New Evaristo Club')",
+        "The Vault at Milroy's": "#4 of 15 ('The Vault'). 'hidden behind an unassuming bookcase at the rear of Soho whisky specialist Milroy's'",
+        "Disrepute": "#14 of 15. 'Disrepute's Kingly Court entrance is pretty discreet'"
+      },
+      "name": "Time Out - The best secret bars in London",
+      "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london",
+      "tier": "B",
+      "dated": "2025-07-16",
+      "names": [
+        "The Spy Bar",
+        "Trisha's",
+        "Opium",
+        "The Vault at Milroy's",
+        "Seed Library",
+        "Phoenix Arts Club",
+        "Discount Suit Company",
+        "Happiness Forgets",
+        "Cahoots",
+        "The Natural Philosopher",
+        "Reverend JW Simpson",
+        "The Mayor of Scaredy Cat Town",
+        "Nine Lives",
+        "Disrepute",
+        "Experimental Cocktail Club"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Sibin": "'Sibin Speakeasy'",
+        "Nightjar": "'Nightjar Shoreditch'",
+        "SOMA Soho": "'SOMA Soho'"
+      },
+      "name": "DesignMyNight - Best speakeasy bars in London",
+      "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london",
+      "tier": "B",
+      "dated": "2026-08-25",
+      "names": [
+        "Zum Barbarossa",
+        "SOMA Soho",
+        "Opium",
+        "Jack Solomons Club",
+        "Ottie's Salon",
+        "Engel Bar",
+        "Basement Sate",
+        "The Arts Theatre Club",
+        "The Lucky Pig",
+        "Sibin",
+        "28-50 By Night",
+        "The Knox",
+        "MUSE at RSA House",
+        "The Luggage Room",
+        "Ginger Lily",
+        "The Candlelight Club",
+        "Swift Borough",
+        "Black Horse",
+        "CellarDoor",
+        "Gambit Bar",
+        "Supermax",
+        "The Bootlegger Richmond",
+        "Cocktail Akademia",
+        "Nightjar",
+        "Shanghai Cocktail Lounge",
+        "Moonshine Minnie's",
+        "Found",
+        "135 Bar & Lounge",
+        "The Natural Philosopher",
+        "Barts",
+        "Pillar Hall",
+        "Evans & Peel Detective Agency",
+        "BOHA"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Disrepute": "'blink and you *just* might miss Disrepute'",
+        "Archive & Myth": "'a secret within a secret', inside the Hippodrome Casino",
+        "SOMA Soho": "'A modern and minimalistic take on the basement speakeasy'",
+        "The Rabbits Hole": "'The Rabbit Hole'"
+      },
+      "name": "DesignMyNight - Best secret bars in London",
+      "url": "https://www.designmynight.com/london/bars/secret-bars-in-london",
+      "tier": "B",
+      "dated": "2026-10-05",
+      "names": [
+        "Discount Suit Company",
+        "Disrepute",
+        "SOMA Soho",
+        "The Rabbits Hole",
+        "Bourne & Hollingsworth",
+        "Reverend JW Simpson",
+        "Keystone Crescent",
+        "Happiness Forgets",
+        "Basement Sate",
+        "Archive & Myth",
+        "Stereo",
+        "Supermax",
+        "Found",
+        "Seed Library",
+        "The Players Bar",
+        "Eve Bar",
+        "Below Stone Nest",
+        "Callooh Callay",
+        "The Luggage Room",
+        "Opium",
+        "The Mayor of Scaredy Cat Town",
+        "Experimental Cocktail Club",
+        "Nightjar",
+        "Barts",
+        "Evans & Peel Detective Agency",
+        "Zum Barbarossa",
+        "The Back Pocket",
+        "The Lucky Pig"
+      ],
+      "note": "Numbered 1-28 but grouped by type (cocktail bars, basements, hidden doors, speakeasies) - not an order. Same domain as the speakeasy list: one opinion."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "The Handbook - London's best speakeasy bars",
+      "url": "https://www.thehandbook.com/londons-best-speakeasy-bars/",
+      "tier": "B",
+      "dated": "2026-10-02",
+      "names": [
+        "Seed Library",
+        "The Bloomsbury Club Bar",
+        "Fitz's Bar",
+        "Barts",
+        "Blind Spot",
+        "The Champagne Bar at 116 Pall Mall",
+        "Esmeralda's",
+        "Nightjar",
+        "Oriole",
+        "Cahoots",
+        "Discount Suit Company",
+        "Callooh Callay",
+        "Opium"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "The Handbook - Secret underground drinking spots",
+      "url": "https://www.thehandbook.com/best-secret-bars-london/",
+      "tier": "B",
+      "dated": "2026-02-24",
+      "names": [
+        "Sibin",
+        "The Libertine",
+        "Octo at Amazonico",
+        "The Living Room at Meraki",
+        "Disrepute",
+        "Discount Suit Company",
+        "NYX Mayfair",
+        "Bandra Bhai",
+        "Supermax",
+        "The Champagne Bar at 116 Pall Mall",
+        "Sixt33n",
+        "Manetta's Bar",
+        "Gordon's Wine Bar",
+        "Blame Gloria",
+        "Downstairs at Sucre",
+        "Cahoots",
+        "ESQ Bar",
+        "Basement Sate",
+        "Lucky Voice"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "Luxury London - The best speakeasy bars in London",
+      "url": "https://luxurylondon.co.uk/taste/drink/best-speakeasy-bars-london-cahoots-barts-nightjar/",
+      "tier": "B",
+      "dated": "2025-03-20",
+      "names": [
+        "At Sloane",
+        "Lost Property Office",
+        "The Den",
+        "Barts",
+        "Nightjar",
+        "Below & Hidden",
+        "Discount Suit Company",
+        "Cahoots"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Barts": "'Bart's, Chelsea'"
+      },
+      "name": "SquareMeal - Speakeasies in London",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356",
+      "tier": "B",
+      "dated": "2025-05-29",
+      "names": [
+        "Nightjar",
+        "Opium",
+        "Jack Solomons Club",
+        "69 Colebrooke Row",
+        "CellarDoor",
+        "BYOC",
+        "Callooh Callay",
+        "Oriole",
+        "The Luggage Room",
+        "The Mayor of Scaredy Cat Town",
+        "Found",
+        "Moonshine Minnie's",
+        "Cahoots",
+        "Discount Suit Company",
+        "Barts",
+        "Happiness Forgets"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Experimental Cocktail Club": "'After entering through a discreet, unmarked door, head upstairs'"
+      },
+      "name": "Stylist - 7 of the best speakeasy bars in London",
+      "url": "https://www.stylist.co.uk/food-drink/best-speakeasy-bars-london/1011289",
+      "tier": "B",
+      "dated": "2025-12-08",
+      "names": [
+        "Experimental Cocktail Club",
+        "Zum Barbarossa",
+        "The 40 Elephants",
+        "Nightjar",
+        "Cahoots",
+        "NYX Mayfair",
+        "Archive & Myth"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "Hello! - Top 10 secret bars in London",
+      "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/",
+      "tier": "B",
+      "dated": "2022-08-10",
+      "names": [
+        "Pix",
+        "Disrepute",
+        "Trisha's",
+        "Cahoots",
+        "The Blind Pig",
+        "The Mayor of Scaredy Cat Town",
+        "Nightjar",
+        "Oriole",
+        "The Luggage Room",
+        "The Natural Philosopher"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "The Sauce - Booze clues: where to find London's secret speakeasies",
+      "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/",
+      "tier": "B",
+      "dated": "2026-03-25",
+      "names": [
+        "Nightjar",
+        "Sibin",
+        "Blind Spot",
+        "Barts",
+        "Cahoots",
+        "Discount Suit Company",
+        "SOMA Soho",
+        "The Mayor of Scaredy Cat Town",
+        "Call Me Mr Lucky",
+        "CellarDoor"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Nightjar Carnaby": "'Nightjar, Carnaby' - the Kingly Court branch, closed 27 Sep 2025 (data/closed.json), so this mention is dropped at build"
+      },
+      "name": "Quintessentially - Secret luxury: London's best speakeasies",
+      "url": "https://quintessentially.com/noted/secret-luxury-londons-best-speakeasies",
+      "tier": "B",
+      "dated": "2025-04-07",
+      "names": [
+        "Nightjar Carnaby",
+        "Manetta's Bar",
+        "Octo at Amazonico",
+        "The Vault at Milroy's",
+        "Opium",
+        "Bandra Bhai",
+        "Cache Cache",
+        "The Whisky Room at The Londoner",
+        "Scales Mayfair"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "The Nudge - The best hidden bars in London",
+      "url": "https://thenudge.com/the-best-hidden-bars-in-london/",
+      "tier": "C",
+      "dated": "2026-09-02",
+      "names": [
+        "Bar Lina",
+        "42",
+        "Cahoots",
+        "Dive",
+        "Lounge Bohemia",
+        "Nightjar",
+        "CINCO",
+        "Below Stone Nest",
+        "SOMA Soho",
+        "Evans & Peel Detective Agency",
+        "Cahoots Postal Office",
+        "Callooh Callay",
+        "Reverend JW Simpson",
+        "Discount Suit Company",
+        "Scales Mayfair",
+        "Black Rock",
+        "Happiness Forgets",
+        "Alfie's",
+        "The Vault at Milroy's",
+        "Found",
+        "Lowcountry",
+        "Experimental Cocktail Club",
+        "Murder Inc",
+        "Opium",
+        "El Siete",
+        "No Regrets",
+        "Supermax",
+        "Barts",
+        "Dang's",
+        "Call Me Mr Lucky",
+        "The Mayor of Scaredy Cat Town",
+        "The Green Room",
+        "Basement Sate",
+        "The Natural Philosopher",
+        "The Lucky Pig"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "Secret London - The best secret bars and speakeasies",
+      "url": "https://secretldn.com/secret-bars-london/",
+      "tier": "C",
+      "dated": "2025-06-11",
+      "names": [
+        "CellarDoor",
+        "Discount Suit Company",
+        "BYOC",
+        "The Natural Philosopher",
+        "The Mayor of Scaredy Cat Town",
+        "Call Me Mr Lucky",
+        "The Blind Pig",
+        "Cahoots",
+        "Happiness Forgets",
+        "Opium",
+        "As Above, So Below",
+        "Muse Bar"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "London x London - Secret bars in London: 21 speakeasies and hidden bars",
+      "url": "https://www.londonxlondon.com/secret-bars-in-london/",
+      "tier": "C",
+      "dated": "2026-09-07",
+      "names": [
+        "Oriole",
+        "Happiness Forgets",
+        "Nine Lives",
+        "Found",
+        "By Appointment Only",
+        "Upstairs at Rules",
+        "BYOC",
+        "The Mayor of Scaredy Cat Town",
+        "Cahoots",
+        "Disrepute",
+        "Blind Spot",
+        "Nightjar",
+        "Callooh Callay",
+        "Swift",
+        "Experimental Cocktail Club",
+        "CellarDoor",
+        "Bandra Bhai",
+        "Iceberg Lounge",
+        "Discount Suit Company",
+        "Kol Mezcaleria",
+        "The Blind Pig"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "London x London - The best speakeasy bars in London",
+      "url": "https://www.londonxlondon.com/speakeasy-bars-london/",
+      "tier": "C",
+      "dated": "2026-09-21",
+      "names": [
+        "Blind Spot",
+        "Nightjar",
+        "The Mayor of Scaredy Cat Town",
+        "BYOC",
+        "Bandra Bhai",
+        "Lost Property Office",
+        "Experimental Cocktail Club",
+        "Discount Suit Company",
+        "Happiness Forgets"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "Hidden Libations - 5 London speakeasies you need to visit",
+      "url": "https://hiddenlibations.com/5-london-speakeasies-to-visit/",
+      "tier": "C",
+      "dated": "2022-08-29",
+      "names": [
+        "Discount Suit Company",
+        "Happiness Forgets",
+        "Murder Inc",
+        "Disrepute",
+        "Cahoots"
+      ],
+      "note": "A speakeasy-only blog that writes up each bar from a visit (separate posts on all five, 29 Aug 2022). Archive checked: real visits across Dublin, Belfast, New York, Hawaii - a specialist, not a template farm."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Cahoots": "'Cahoots Postal' - the Borough Yards branch"
+      },
+      "name": "Sis Behaving - London speakeasies and hidden bars: a complete guide",
+      "url": "https://sisbehaving.com/london-speakeasy-guide/",
+      "tier": "C",
+      "dated": "2026-03-03",
+      "names": [
+        "The Mayor of Scaredy Cat Town",
+        "Discount Suit Company",
+        "Bar Lina",
+        "Archive & Myth",
+        "The Spy Bar",
+        "Cahoots"
+      ],
+      "note": "Speakeasy specialists who write each city up by 'The Entrance' and 'The Experience'. Archive: Denver, New Orleans, Boston, San Diego, Paris speakeasy guides from their own trips - one subject, many cities, first-person visits."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "Devour Tours - Speakeasy bars in London",
+      "url": "https://devourtours.com/blog/speakeasy-bars-in-london/",
+      "tier": "C",
+      "dated": "2025-12-05",
+      "names": [
+        "Blind Spot",
+        "The Dragon Room",
+        "The Champagne Bar at 116 Pall Mall",
+        "Purl",
+        "The Luggage Room",
+        "Opium",
+        "Nightjar"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "Jetset Times - 13 swanky speakeasy bars in London",
+      "url": "https://jetsettimes.com/countries/uk/england/london/london-night-owls/13-swanky-speakeasy-bars-in-london/",
+      "tier": "C",
+      "dated": "2026-01-07",
+      "names": [
+        "The Luggage Room",
+        "Purl",
+        "Nightjar",
+        "Experimental Cocktail Club",
+        "Below Stone Nest",
+        "Lost Property Office",
+        "Barts",
+        "Manetta's Bar",
+        "The Blind Pig",
+        "Evans & Peel Detective Agency",
+        "Cahoots",
+        "Blind Spot",
+        "The Candlelight Club"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {},
+      "name": "The Travel Oracle - Checking out the hidden bars of London",
+      "url": "https://thetraveloracle.net/checking-out-the-hidden-bars-of-london/",
+      "tier": "C",
+      "dated": "2023-06-29",
+      "names": [
+        "Oriole",
+        "Discount Suit Company",
+        "The Mayor of Scaredy Cat Town"
+      ],
+      "note": "A three-day hidden-bar crawl written up night by night. The Ten Bells, Sleazy Pizza and Ye Olde Cock Tavern on the same trip are pubs and a pizzeria, not recorded."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Holy Brew": "'This hidden bar beneath Dalchini restaurant'"
+      },
+      "name": "Time & Leisure - 5 secret bars of south west London",
+      "url": "https://timeandleisure.co.uk/things-to-do/5-secret-bars-of-south-west-london/",
+      "tier": "C",
+      "dated": "2024-08-23",
+      "names": [
+        "The Shibeen at BOHA",
+        "The Bootlegger Richmond",
+        "Holy Brew",
+        "W.C."
+      ],
+      "note": "Item 5, Good Measure under Daddy Bao in Tooting, was written up before it opened (6 Sep 2024) - not recorded."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Lounge Bohemia": "Listed under 'Mentioned in the video' (watch?v=-eiHQ1_GrKQ). The video's sponsor is BetterHelp, not a venue."
+      },
+      "name": "Love and London (YouTube) - Secret London food and drink spots tourists always miss",
+      "url": "https://www.youtube.com/@loveandlondon",
+      "tier": "D",
+      "dated": "2023-11-02",
+      "names": [
+        "Lounge Bohemia"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Cahoots": "Title: '... Borough Market | Cahoots Speakeasy' (watch?v=_sbMB_3mZTQ, 211k views)"
+      },
+      "name": "Paging Mr. Morrow (YouTube) - My first time in London: Cahoots Speakeasy",
+      "url": "https://www.youtube.com/@PagingMrMorrow",
+      "tier": "D",
+      "dated": "2023-04-07",
+      "names": [
+        "Cahoots"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Hokus Pokus": "'This is Hokus Pokus, a secret bar in King's Cross London' (watch?v=9DdE1kfKcAk, Apr 2024)",
+        "Lost Property Office": "'the LOST PROPERTY OFFICE at Brewdog HQ in Waterloo station. A quaint speak easy style bar' (watch?v=MdK3h4JMxoQ, May 2024)"
+      },
+      "name": "Dough Boy Dines (YouTube) - London secret bars",
+      "url": "https://www.youtube.com/@DoughBoyDines",
+      "tier": "D",
+      "dated": "2024-05-03",
+      "names": [
+        "Hokus Pokus",
+        "Lost Property Office"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Cahoots": "'Cahoots is one of the best detailed hidden bars in the world!' (watch?v=Too3D8Hm3Lg)"
+      },
+      "name": "Ride Creator (YouTube) - London's best speakeasy is a theme park style experience",
+      "url": "https://www.youtube.com/@Ride_Creator",
+      "tier": "D",
+      "dated": "2026-01-07",
+      "names": [
+        "Cahoots"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Cahoots": "Title: 'CAHOOTS - SECRET COCKTAIL BAR IN LONDON' (watch?v=WDqm3Pf-RBA)"
+      },
+      "name": "Life with Lisa (YouTube) - Cahoots, secret cocktail bar in London",
+      "url": "https://www.youtube.com/@LollipopBoxClub",
+      "tier": "D",
+      "dated": "2025-01-28",
+      "names": [
+        "Cahoots"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "Discount Suit Company": "Most-recommended name in the thread; 'one good one that ended getting a bit too busy'",
+        "Blind Spot": "'it's not signposted or visible from the street'",
+        "Basement Sate": "'Not well sign posted, small and cosy'",
+        "Bar Lina": "'a secret bar in Lina Stores in Soho'",
+        "Lost Property Office": "'a secret bar in Brewdog Waterloo... Behind the telephone box'; reply: 'you need to pick up the phone'",
+        "69 Colebrooke Row": "'The Bar With No Name. Islington.'",
+        "Below Stone Nest": "'Stone Below Nest is a gem in town.'",
+        "Archive & Myth": "'inside hippodrome casino. Drinks are on the pricier side'"
+      },
+      "name": "r/london - Speakeasy/lowkey hidden bars",
+      "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/",
+      "tier": "E",
+      "dated": "2025-02-20",
+      "names": [
+        "Call Me Mr Lucky",
+        "The Mayor of Scaredy Cat Town",
+        "Evans & Peel Detective Agency",
+        "Reverend JW Simpson",
+        "Discount Suit Company",
+        "Basement Sate",
+        "Bar Lina",
+        "Experimental Cocktail Club",
+        "Nightjar",
+        "Oriole",
+        "Trisha's",
+        "Black Lacquer",
+        "Archive & Myth",
+        "CellarDoor",
+        "The Natural Philosopher",
+        "As Above, So Below",
+        "Nipperkin",
+        "Lost Property Office",
+        "69 Colebrooke Row",
+        "Found",
+        "The Vault at Milroy's",
+        "Space Talk",
+        "Blind Spot",
+        "Below Stone Nest",
+        "Rasputin",
+        "Happiness Forgets",
+        "Merchant House"
+      ],
+      "note": "Read through the PullPush archive (66 comments) on 8 Oct 2026; Reddit's own .rss endpoint returned 429 all day."
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "The Vault at Milroy's": "Recommended ('You enter behind a bookcase'); a reply in Aug 2024 says 'That has closed, unfortunately'. Milroy's own site lists The Vault with bookings and an autumn menu in Oct 2026.",
+        "Trisha's": "'an actual, historic speakeasy but it's a proper dive'",
+        "Cahoots": "'The queue makes it less speakeasy than it would like'"
+      },
+      "name": "r/london - Speakeasy bar in London",
+      "url": "https://www.reddit.com/r/london/comments/1f0htxd/speakeasy_bar_in_london/",
+      "tier": "E",
+      "dated": "2024-08-25",
+      "names": [
+        "Bar Lina",
+        "Trisha's",
+        "The Vault at Milroy's",
+        "Evans & Peel Detective Agency",
+        "The Mayor of Scaredy Cat Town",
+        "Moonshine Saloon",
+        "Discount Suit Company",
+        "Cahoots"
+      ]
+    },
+    {
+      "scope": "speakeasy",
+      "ranked": false,
+      "quotes": {
+        "The Mayor of Scaredy Cat Town": "'Go to The Breakfast Club near Liverpool Street and ask for the Mayor.'"
+      },
+      "name": "r/london - Speakeasy-like bar in London?",
+      "url": "https://www.reddit.com/r/london/comments/zd8w48/speakeasylike_bar_in_london/",
+      "tier": "E",
+      "dated": "2022-12-06",
+      "names": [
+        "The Mayor of Scaredy Cat Town",
+        "Lost Property Office",
+        "The Vault at Milroy's",
+        "Experimental Cocktail Club",
+        "Happiness Forgets",
+        "Found",
+        "Satan's Whiskers",
+        "Barts",
+        "Cahoots",
+        "Evans & Peel Detective Agency",
+        "Nightjar",
+        "The Bootlegger",
+        "Oriole",
+        "The Arts Theatre Club",
+        "The Candlelight Club"
+      ]
+    }
+  ],
+  "declined": [
+    {
+      "source": "Tripinn (YouTube) - 10 Hidden Speakeasy Bars in London",
+      "url": "https://www.youtube.com/@tripinn1975",
+      "why": "A compilation channel: the same 'hidden speakeasy' template rolled across Las Vegas, Tokyo and New York, generic marketing copy, no sign of a visit."
+    },
+    {
+      "source": "Trip Trains (YouTube) - Cahoots",
+      "url": "https://www.youtube.com/@trip_train_",
+      "why": "Trip.com's own channel, selling tickets from the description. A company, not an independent voice."
+    },
+    {
+      "source": "Bobby Freeman (YouTube) - The Rabbits Hole",
+      "url": "https://www.youtube.com/@thebobbyfreeman",
+      "why": "The owner makes five drinks 'just for me' on camera. Reads as a hosted visit; no disclosure either way, so not counted."
+    },
+    {
+      "source": "Thatsup - London's best speakeasies",
+      "url": "https://thatsup.co.uk/london/guide/where-to-find-londons-best-secret-bars/",
+      "why": "On data/sources.json excluded list (listings-led)."
+    },
+    {
+      "source": "Yondli - 7 Best Speakeasy Bars in London (2026)",
+      "url": "https://yondli.com/united-kingdom/london/london-speakeasy",
+      "why": "Content farm: a batch of London guides all dated 15 May 2026, Flickr CC photos, 'Sponsored' activity widgets in the body."
+    },
+    {
+      "source": "Corner - Under the radar: best speakeasies in London",
+      "url": "https://www.corner.inc/guides/london/london/under-the-radar-best-speakeasies-in-london",
+      "why": "Already excluded domain; app-generated copy that files Tayer + Elementary and Three Sheets as speakeasies."
+    },
+    {
+      "source": "Travelodge blog - 13 secret bars in London",
+      "url": "https://www.travelodge.co.uk/blog/things-to-do/secret-bars-in-london/",
+      "why": "A hotel chain's SEO blog - parent business unrelated to drinking, no visit."
+    },
+    {
+      "source": "City Relay - 5 hidden cocktail bars in London",
+      "url": "https://cityrelay.com/resources/hidden-cocktail-bars-london/",
+      "why": "Short-let property company blog, 2021."
+    },
+    {
+      "source": "Hire Space - The 7 best speakeasy bars in London",
+      "url": "https://hirespace.com/blog/speakeasy-bars",
+      "why": "Venue-hire platform, 2015; lists Purl and Ask for Janice."
+    },
+    {
+      "source": "88gravity - Hidden bars in London you'll miss if you blink",
+      "url": "https://www.88gravity.com/blog/hidden-bars-in-london-youll-miss-if-you-blink",
+      "why": "An SEO agency's demo post; a 'Google Console INP Insights' heading sits in the middle of the Cahoots entry."
+    },
+    {
+      "source": "Future London Academy - Best secret bars in London",
+      "url": "https://futurelondonacademy.co.uk/en/articles/lnd-best-secret-bars-london",
+      "why": "Education company SEO page; no visit."
+    },
+    {
+      "source": "the1bar.co.uk - London speakeasies",
+      "url": "https://the1bar.co.uk/london-speakeasies-hidden-bars-cocktails-culture/",
+      "why": "A bar's own blog - tier F in substance; names no venues."
+    },
+    {
+      "source": "Dine with JP - Speakeasy bars in Mayfair",
+      "url": "https://dinewithjp.com/speakeasy-bars-in-mayfair-london/",
+      "why": "Emoji-headed SEO template ('Quick Comparison', 'Survival Guide') on a Marbella/Dubai luxury site; Mayfair only."
+    },
+    {
+      "source": "Cocktails Away - Best hidden cocktail bars in London",
+      "url": "https://www.cocktailsaway.com/blog/hidden-cocktail-gems-of-london/",
+      "why": "A cocktail-class company's blog that files Kwant and Tayer + Elementary as hidden."
+    },
+    {
+      "source": "Evening Standard - The modern speakeasy, London's best",
+      "url": "https://www.standard.co.uk/going-out/bars/the-modern-speakeasy-london-s-best-6853579.html",
+      "why": "Stale: 3 March 2012."
+    },
+    {
+      "source": "Difford's Guide - London speakeasies",
+      "url": "https://www.diffordsguide.com/encyclopedia/408/bars/london-speakeasies",
+      "why": "Stale: 2014; its central pick, Milk & Honey, has closed."
+    },
+    {
+      "source": "Square Mile - Best speakeasy bars in London",
+      "url": "https://squaremile.com/culture/best-speakeasy-bars-london/",
+      "why": "Stale: 2016; lists Purl and the Worship Street Whistling Shop."
+    },
+    {
+      "source": "MyLondon - 11 hidden speakeasy bars",
+      "url": "https://www.mylondon.news/lifestyle/food-drink/11-hidden-speakeasy-bars-you-16692262",
+      "why": "Stale: 2019."
+    },
+    {
+      "source": "Londonist - 10 secret and hidden cocktail bars",
+      "url": "https://londonist.com/london/drink/secret-hidden-little-known-cocktail-bars-london",
+      "why": "Stale: 2013, last touched 2018; Belle & Co, the Chelsea Prayer Room and Portside Parlour."
+    },
+    {
+      "source": "Conde Nast Traveller - London's best bars in loos",
+      "url": "https://www.cntraveller.com/gallery/toilet-bars-london",
+      "why": "Stale (2015) and a different subject: bars in former public toilets."
+    },
+    {
+      "source": "The Sauce - London's best subterranean bars",
+      "url": "https://thesaucemag.com/underground-bars-in-london/",
+      "why": "A basement-bar list (Clays, Lucky Voice, Gordon's), not a hidden-bar list; the same domain's speakeasy list is recorded."
+    },
+    {
+      "source": "Memoirs of a Metro Girl, Gin Monkey, Bon Vivant, Ellie & Co",
+      "url": "https://memoirsofametrogirl.com/2018/08/07/londons-best-speakeasy-bars-hidden-secret-guide/",
+      "why": "Pre-2022 or not a hidden-bar list (Ellie & Co is four hidden restaurants)."
+    }
+  ]
+}

@@ -169,6 +169,8 @@ For dinner with live music, Brasserie Zédel's house band plays every day with n
 
 Soho is also where central London's Indo-Chinese cooking is: Fatt Pundit on Berwick Street and the all-vegetarian Tangra on Frith Street, a few doors from Chotto Matte's Japanese-Peruvian menu. All three are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
+Five of the bars in our speakeasy guide are in Soho and Chinatown: Opium behind a jade door on Gerrard Street, Experimental Cocktail Club upstairs from the same street, SOMA down an unmarked staircase on Denman Street, Basement Sate behind a red door on Broadwick Street, and The Vault behind a bookcase in Milroy's whisky shop on Greek Street. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) says how to find each door.
+
 ## Getting there
 
 **By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side and Chinatown. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate.

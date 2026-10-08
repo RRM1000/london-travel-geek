@@ -149,6 +149,8 @@ That is the pattern: **almost nowhere in central London bans fancy dress by name
 
 For a bar that will take the booking rather than refuse it, the [cocktail bar guide](/articles/best-cocktail-bars-london/) sets out which rooms take reservations at all — the east London independents are far more forgiving than the Mayfair hotel bars.
 
+For a hidden bar, the [speakeasy guide](/articles/best-speakeasy-bars-london/) gives each one's booking rules: Barts in Chelsea takes walk-ins for its late Speakeasy Sundowners from Thursday to Saturday, and Nightjar's group limit of 20 applies Sunday to Thursday only.
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stag-do-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -218,6 +220,7 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)**
 - 🥂 **[Bottomless Brunch in London](/articles/bottomless-brunch-london/)** — where the drinks are unlimited and where they are not
 - 🚇 **[Getting Around London: The Transport Guide](/articles/getting-around-london-transport-guide/)**
 
