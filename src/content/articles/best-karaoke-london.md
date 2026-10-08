@@ -114,6 +114,10 @@ Soho has nine rooms for two to 15; Holborn, the biggest, has ten rooms, an LED d
 
 A Paris karaoke brand that opened in Victoria in April 2024, in the space The Sauce remembers as M Restaurant, and bills itself as Europe's largest premium karaoke venue. **Twelve sources name it**, the most after Lucky Voice; on Reddit it comes up for cheap rooms and two-for-one drinks, and The Date Connoisseur called it her favourite karaoke spot in London.
 
+![A karaoke room at BAM, with a long navy banquette, small round tables with microphones, patterned copper walls and the BAM logo on a screen](../../assets/articles/best-karaoke-london/bam-karaoke-room.jpg)
+
+*A karaoke room at BAM.*
+
 There are 22 rooms over three floors, each decorated around Nell Gwyn and 18th-century excess, from four-person rooms such as the Library and the Slipper Room up to rooms for 35, with 45,000 songs and in-room games. Food in the BAM BAM Bar is by the chef Sabrina Gidda. **Thursday to Saturday the bar runs open-mic karaoke on its stage**, so you can sing to strangers after your room time ends.
 
 **The hen and stag package is £45 a head for two hours with a drink on arrival and two house drinks, or £62.50 with food**, and in a group of ten the bride or groom goes free. Open until 1.30am Thursday to Saturday and 9pm on Sunday.
@@ -124,6 +128,10 @@ There are 22 rooms over three floors, each decorated around Nell Gwyn and 18th-c
 
 The Taiwanese bun restaurants have six private KTV rooms, the East Asian karaoke format where you eat in the room, and **charge no room hire: you spend at least £35 a head on food and drink in a two-hour slot**. Nine sources name it, and a Redditor adds that you don't mind the minimum "when the food is that good".
 
+![BAO Borough's narrow dining room, with red stools at a wooden counter, menu boards in Chinese characters along the walls and ceiling fans](../../assets/articles/best-karaoke-london/bao-borough-dining-room.jpg)
+
+*BAO Borough.*
+
 The rooms each take a film for a theme. The City has two: the Taipei Room, 13 to 23 people, with a wrap-around LED screen after Edward Yang's *Taipei Story*, and the New York Room for up to 12, which switches between dining and karaoke mode. Borough's red Paris, Texas Room was the first and takes 16; Marylebone's Hong Kong Room, after *In the Mood for Love*, takes 10. **Order from the KTV menu of mini baos and xiao chi platters**, or pre-order the set so the food arrives through the session.
 
 ### Moyagi, Marylebone — Japanese-styled rooms off one corridor
@@ -131,6 +139,10 @@ The rooms each take a film for a theme. The City has two: the Taipei Room, 13 to
 *5 Cavendish Place, W1G 0QA · Cited by 8 sources · [book a room](https://moyagi.com/london/book)*
 
 A Swedish karaoke brand that opened its London rooms in March 2024 behind Oxford Circus, and since October 2026 the owner of Lucky Voice too. The Nudge describes eight private rooms off "one beautifully moody, glowing corridor"; Country & Town House compares it to a members' club. On Reddit two Londoners single out the drinks.
+
+![A Moyagi karaoke room lit red, with a wall-mounted screen, a control panel and a banquette along one wall](../../assets/articles/best-karaoke-london/moyagi-karaoke-room.jpg)
+
+*A karaoke room at Moyagi.*
 
 Rooms take six to 30, with 200,000 songs, a host and drinks served to the room; a separate bar, the Hidden Bar, is open to people who are not singing. **A session is 1 hour 45 minutes at £22 to £30 a head**, cheapest early on Wednesday or Sunday and dearest late on Thursday to Saturday, and food and drink are extra.
 
@@ -190,6 +202,10 @@ An East End party pub whose karaoke grew into five themed rooms the pub calls Ka
 
 A basement bowling alley under a hotel, with an American diner and five karaoke rooms beside the eight lanes, each with a big screen, banquettes and a hand-picked library of 30,000 songs. The Sauce likens the set-up to "a student union circa year 2000"; on Reddit someone held a 30th there and says it "does the job".
 
+![Bloomsbury Lanes' bowling lanes 1 to 4, polished wood running to the pins under a lit mask above each lane](../../assets/articles/best-karaoke-london/bloomsbury-lanes-lanes.jpg)
+
+*The lanes at Bloomsbury Lanes.*
+
 **Rooms are hired by the hour, not the head: £60 for eight to ten people, up to £120 for 21 to 30, and half price on Sunday, Monday and Tuesday.** For twelve people off-peak that is about £3 a head an hour. Card only, no under-18s after 8pm (7pm on Friday and Saturday), and no refunds, though a booking can be moved with 72 hours' notice.
 
 ### The Exhibit, Balham — a Lucky Voice suite south of the river
@@ -197,6 +213,10 @@ A basement bowling alley under a hotel, with an American diner and five karaoke 
 *12 Balham Station Road, SW12 9SG · Cited by 5 sources · [book the suite](https://book.theexhibit.co.uk/)*
 
 A Balham bar, restaurant and cinema with one karaoke suite running the Lucky Voice system and its 10,000 songs; The Nudge notes the seating faces the screen like an audience. Five sources name it, all as the south London alternative to the central rooms.
+
+![The restaurant at The Exhibit, with wooden tables, leather banquettes, pendant lamps, pot plants and glazed doors onto a balcony](../../assets/articles/best-karaoke-london/the-exhibit-restaurant.jpg)
+
+*The restaurant at The Exhibit.*
 
 The suite takes groups for packages with drinks and food from the bar. **It is open until 2am on Friday and Saturday, and on Monday and Tuesday it is private hire only.** Wednesday and Sunday close at 11pm.
 
@@ -206,6 +226,10 @@ The suite takes groups for packages with drinks and food from the bar. **It is o
 
 The old Bunga Bunga site, relaunched in September 2025 as a 1990s bar you enter through a mock video-rental shop. Time Out notes karaoke "in various spaces", from the main bar to a set-up in the toilet lobby; several lists still call it Bunga Bunga.
 
+![A crowd under disco balls and neon signs in the main bar at Bunga 90](../../assets/articles/best-karaoke-london/bunga-90-bar.jpg)
+
+*The main bar at Bunga 90.*
+
 Three private rooms — Mel B's for six, Mark's for eight and Gwen's for ten — are booked for 90 minutes with pizza and cocktails sent in. **A room costs from £29 Monday to Wednesday, £39 on Thursday and Sunday, £69 on Friday and £79 on Saturday**, and the bar is open until 3am on Friday and Saturday. **Walk-ins are taken every day except Saturday before 4pm.**
 
 ### The Star by Hackney Downs — one room upstairs
@@ -213,6 +237,10 @@ Three private rooms — Mel B's for six, Mark's for eight and Gwen's for ten —
 *35 Queensdown Road, E5 8NN · Cited by 5 sources · #2 of 14, Time Out · [karaoke room](https://starbyhackneydowns.co.uk/karaoke/)*
 
 **Time Out's number two**: "a somewhat scruffy but deeply charming pub" by Hackney Downs with one karaoke room upstairs for 15, where the staff bring pints up. The kitchen is Dragon Flame BBQ, and the pub's drinks packages save trips downstairs.
+
+![The Star by Hackney Downs, a corner pub with a painted Star Hackney Downs sign, a blue fascia and a planted terrace of tables under parasols](../../assets/articles/best-karaoke-london/star-by-hackney-downs.jpg)
+
+*The Star by Hackney Downs.*
 
 **The room is £49 an hour Sunday to Wednesday, £69 on Thursday and £109 on Friday and Saturday**, with 50% off on Fridays until 22 November 2026. Over-18s only after 8pm; open until 1am on Friday and Saturday.
 
@@ -222,6 +250,10 @@ Three private rooms — Mel B's for six, Mark's for eight and Gwen's for ten —
 
 The same group's City pub, with the karaoke downstairs: the Disco and Star Rooms for eight, the Gold and Jungle Rooms for ten, and bigger rooms up to the Backstage Bar, for groups from eight to 50 in all, with 20,000 songs. Burgers come from the pub's Patty & Bun kitchen, and there is a karaoke bottomless brunch.
 
+![Two women singing into microphones in front of a leafy wall with a neon sign reading Jungle Massive](../../assets/articles/best-karaoke-london/star-by-liverpool-street-singers.jpg)
+
+*Singing at The Star by Liverpool Street.*
+
 **£4 to £9 a head an hour off-peak and £6 to £14 at peak**, with a two-hour minimum on Saturday. Over-18s only after 8pm. **Closed on Sunday**; open until 1am Thursday to Saturday.
 
 ### Karaoke Box, Soho and Mayfair
@@ -229,6 +261,10 @@ The same group's City pub, with the karaoke downstairs: the Disco and Star Rooms
 *Soho: 18 Frith Street, W1D 4RF · Mayfair: Basement, 14 Maddox Street, W1S 1PQ · Cited by 5 sources · #14 of 14, Time Out · [book a room](https://karaokebox.co.uk/book.php)*
 
 By its own account the UK's first private karaoke booths, open on Frith Street, next door to Ronnie Scott's, since 1997; the Mayfair basement on Maddox Street followed in 2010. The Nudge calls it "no-frills but endlessly dependable". **Time Out's entry was the Smithfield branch, which has closed**; the two West End sites carry on under the same management.
+
+![A small karaoke room at Karaoke Box Soho, with a grey padded corner sofa, a stool, a brick-effect wall and a screen showing the Karaoke Box logo](../../assets/articles/best-karaoke-london/karaoke-box-soho-room.jpg)
+
+*A room at Karaoke Box, Soho.*
 
 Rooms take two to 12 and are charged for the room. **An evening slot costs £104 for two hours in a four-person room and £312 in a twelve-person room, the same on a Tuesday as a Saturday**; afternoon slots are cheaper. Bookings are two or three hours. Both sites stay open until 3am Thursday to Saturday.
 
@@ -243,6 +279,10 @@ KTV is the East Asian format: a private room in or next to a restaurant, with fo
 *353A Kennington Lane, SE11 5QY · Cited by 4 sources · [booking page](https://www.jihwaja.co.uk/booking)*
 
 A Korean restaurant whose own site explains noraebang to newcomers, with private rooms for four to 30 and lyrics in English, Korean, Chinese and Japanese. The Infatuation calls it a place for "fried chicken and warbling" and says "it's about the karaoke too"; two Reddit threads recommend it for KTV.
+
+![Jihwaja at night, its sign in Korean and English over a red awning reading Bar, Korean Restaurant, Karaoke, with people on the pavement outside](../../assets/articles/best-karaoke-london/jihwaja-kennington-lane.jpg)
+
+*Jihwaja on Kennington Lane.*
 
 **Rooms are priced by size and time: £35 an hour for up to four at lunch, £45 in the evening, rising to £180 an hour for 26 to 30**, with 10% added on Thursday and Friday nights and all day at weekends. Open until 3am on Friday and Saturday and 1am on Thursday; Sunday is evenings only.
 
@@ -259,6 +299,10 @@ Each booking is a room fee plus a minimum spend: **two hours in K3, for six to e
 *30 Brewer Street, W1F 0SS · Cited by 3 sources · [book a room](https://epoclondon.com/reserve/)*
 
 Londonist calls it "as authentic experience as you're going to get on this side of the globe": a Japanese karaoke box with a large Japanese, Korean and Chinese catalogue — its own most-sung list starts with Ikimonogakari's "Blue Bird" and Kenshi Yonezu's "Lemon" — plus yakitori and highballs. On Reddit, "my Japanese friends love EPOC".
+
+![A woman singing in a dark karaoke room at Karaoke Epoc, with lyrics in English and Japanese on the screen and drinks on a small table](../../assets/articles/best-karaoke-london/karaoke-epoc-room.jpg)
+
+*A room at Karaoke Epoc.*
 
 **£7 to £10 a head an hour before 4pm and £10 to £13 after, two hours minimum**, with no booking fee. Walk-ins are taken when a room is free, at separate walk-in prices and for an hour. **It closes at 11pm every night.**
 
