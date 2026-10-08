@@ -8,7 +8,7 @@ heroImageCredit: "Ewan-M"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:BAM_Karaoke_Box,_Victoria,_SW1.jpg"
 publishedAt: 2026-10-08
 updatedAt: 2026-10-08
-reviewBy: 2027-01-08
+reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london
 category: "Things to do"
