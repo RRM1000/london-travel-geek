@@ -131,7 +131,7 @@ For a hidden bar, the [speakeasy guide](/articles/best-speakeasy-bars-london/) g
 
 Two rules to note: **no confetti**, and **no under-18s at all on Saturdays**. Service charge is 12.5% on food and drink.
 
-**Bloomsbury Lanes has karaoke rooms for 8 to 30 people at £60 to £120 an hour, half price on Mondays, Tuesdays and Sundays** — for twelve, the cheapest private room in central London. **Simmons** runs rooms for up to 25 at Greek Street, Old Street, Liverpool Street and King's Cross.
+**Bloomsbury Lanes has karaoke rooms for 8 to 30 people at £60 to £120 an hour, half price on Mondays, Tuesdays and Sundays** — for twelve, the cheapest private room in central London. **Simmons** runs rooms for up to 25 at Greek Street, Old Street, Liverpool Street and King's Cross. Every other private room, with sizes, prices and closing times, is in our [karaoke guide](/articles/best-karaoke-london/).
 
 ### Shows
 
@@ -206,6 +206,7 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 
 - 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
+- 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — every private room compared on size, price and closing time
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)**
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**

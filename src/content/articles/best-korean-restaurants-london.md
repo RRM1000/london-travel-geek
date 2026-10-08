@@ -322,6 +322,7 @@ Korean barbecue is not cheap. Almost everything else on a Korean menu is.
 ## Continue planning your London trip
 
 - 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Sollip, Cálong and the other kitchens cooking Korean with a second cuisine
+- 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — Jihwaja's noraebang rooms in Vauxhall and the other KTV rooms
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
 - 🇯🇵 **[Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)**
 - 🌶️ **[Best Thai Restaurants in London](/articles/best-thai-restaurants-london/)**

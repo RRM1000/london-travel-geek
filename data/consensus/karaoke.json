@@ -1,0 +1,1049 @@
+{
+  "cuisine": "karaoke",
+  "recorded": "2026-10-08",
+  "note": "Seeded 8 Oct 2026. SCOPE: places in London where you can sing karaoke - private rooms you book (the main search), karaoke bar-restaurants with KTV rooms (Korean noraebang, Chinese KTV, Japanese-style), and pubs or bars running open-stage karaoke nights. Chains are recorded once per BRAND (Lucky Voice, Bao, Karaoke Box, All Star Lanes, Bat & Ball, Boom Battle Bar, The Blues Kitchen); the Star pubs (Bethnal Green, Hackney Downs, Liverpool Street) are separately named pubs and are kept apart. No award body judges karaoke anywhere in Britain, so there is no tier A. SEARCH ROUTE: one DuckDuckGo html query, then Brave Search (about four queries before a block, then a cool-down), Google News RSS and Bing News RSS for dated items, Reddit .rss spaced a minute apart, YouTube watch and results pages, and TikTok video pages (the __UNIVERSAL_DATA_FOR_REHYDRATION__ JSON carries caption, author and date). Names are canonical (what a reader books under); what the source wrote is in the quote. CLOSURES found in the pass: Lucky Voice Islington and Waterloo closed 6 Oct 2026 when Moyagi Group bought the brand out of administration (Soho, Holborn and Liverpool Street continue); Karaoke Box Smithfield closed in the August 2026 restructuring (Soho and Mayfair continue); The Karaoke Hole, Dalston, closed January 2026; Mama Shelter London closed 1 Feb 2026 (already in data/closed.json).",
+  "sources": [
+    {
+      "name": "Time Out - The best karaoke bars in London (Leonie Cooper)",
+      "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Rowans",
+        "The Star by Hackney Downs",
+        "The Black Eel",
+        "Bao",
+        "Bunga 90",
+        "Lucky Voice",
+        "Three Colts Tavern",
+        "Mannions Prince Arthur",
+        "Stokey Karaoke",
+        "Bloomsbury Bowling Lanes",
+        "The Old Queen's Head",
+        "All Star Lanes",
+        "The Star by Liverpool Street",
+        "Karaoke Box"
+      ],
+      "dated": "2025-12-22",
+      "ranked": true,
+      "quotes": {
+        "Rowans": "#1 of 14 ('Rowans Bowl'). Bowling, slushies and 'a private-ish karaoke booth (glass windows mean everyone can see you, even if they can't hear you)' until the wee hours; there since 1913. 'Best for getting messy'.",
+        "The Star by Hackney Downs": "#2 of 14. 'A somewhat scruffy but deeply charming pub on the edge of Hackney Downs'; upstairs private karaoke room for up to 15.",
+        "The Black Eel": "#3 of 14. Exale Brewery pub in a Grade II-listed former F Cooke pie and mash shop in Dalston; 'a private, leopard-print carpet lined karaoke den' at the top of the building.",
+        "Bao": "#4 of 14 ('Bao City'). Two private KTV rooms, 10 and 22 people, 300,000 songs; 'other branches of Bao also have karaoke rooms' - Marylebone, Borough, Shoreditch.",
+        "Bunga 90": "#5 of 14. 1990s-themed bar on Drury Lane entered through a Blockbuster-style video shop; two private rooms, a stage in the main bar and a karaoke set-up in the toilet lobby.",
+        "Lucky Voice": "#6 of 14. Private 'pods' for four to 12 with a 'thirsty' button; branches in Soho, Holborn, Islington, Liverpool Street and Waterloo. 'Best for a last-minute booking'.",
+        "Three Colts Tavern": "#7 of 14. Exale Brewery pub in Bethnal Green; karaoke room in its private hire party room, the Glue Factory. 'Best for a private party'.",
+        "Mannions Prince Arthur": "#8 of 14. Irish pub between Seven Sisters and Tottenham Hale with 'a seriously rowdy Friday night karaoke session' on a raised stage. 'Best for a pub session'.",
+        "Stokey Karaoke": "#9 of 14. Independent, private bookings for up to 60; the old Cotton Club basement, still run by the same family.",
+        "Bloomsbury Bowling Lanes": "#10 of 14 ('Bloomsbury Lanes'). Five private karaoke rooms in a basement bowling alley; half price Monday, Tuesday and Sunday.",
+        "The Old Queen's Head": "#11 of 14. Karaoke room for up to a dozen above the Essex Road pub, with a personal host.",
+        "All Star Lanes": "#12 of 14. Private karaoke booths for seven or 14 at Brick Lane; branches in Holborn, Stratford and White City.",
+        "The Star by Liverpool Street": "#13 of 14. Basement with five themed rooms and two function spaces, The Glam Palace (80) and The Backstage Bar (60).",
+        "Karaoke Box": "#14 of 14 ('Karaoke Box Smithfield'). Fifteen rooms for four to 25 plus a VIP room. The Smithfield site has since closed; the brand trades in Soho and Mayfair."
+      },
+      "note": "Ranked 1-14 under 'The top karaoke bars in London'. Published 22 Dec 2025, modified 20 Feb 2026."
+    },
+    {
+      "name": "Secret London - 12 Killer Karaoke Bars In London (Katie Forge)",
+      "url": "https://secretldn.com/karaoke-bars-london/",
+      "scope": "karaoke",
+      "tier": "C",
+      "names": [
+        "The Star by Liverpool Street",
+        "The Star of Bethnal Green",
+        "Lucky Voice",
+        "The Old Queen's Head",
+        "Bunga 90",
+        "The Leyton Star",
+        "The Exhibit",
+        "The Star by Hackney Downs",
+        "Lan Kwai Fong",
+        "Bao",
+        "Bat & Ball",
+        "All Star Lanes"
+      ],
+      "dated": "2024-04-02",
+      "ranked": false,
+      "quotes": {
+        "The Star by Liverpool Street": "'Seven different karaoke rooms', a karaoke bottomless brunch, 'over 10,000 songs'.",
+        "The Star of Bethnal Green": "'Raucous karaoke nights'; a karaoke room for up to 20 with over 15,000 songs.",
+        "Lucky Voice": "Private booths for up to 30 with the 'thirsty' button; four London locations.",
+        "The Old Queen's Head": "A karaoke room for 15 with its own host, or the Play Room for 70.",
+        "Bunga 90": "Written as 'Bunga Bunga', 167 Drury Lane - the same site relaunched as Bunga 90 in September 2025. Singing in front of the whole restaurant, or the private 'Nonna's Attico' room.",
+        "The Leyton Star": "Karaoke room above the pub, 116 High Road E15.",
+        "The Exhibit": "Karaoke room with 10,000 songs and VIP service, Balham.",
+        "The Star by Hackney Downs": "Karaoke room 'sponsored by Lucky Voice' for up to 15.",
+        "Lan Kwai Fong": "Camden; two private karaoke rooms beside digital beer pong.",
+        "Bao": "'Bao London' - karaoke rooms at the Shoreditch and Borough branches, for up to 12.",
+        "Bat & Ball": "'The Bat and Ball, Stratford' - private UV karaoke booth for 19, 20,000 songs.",
+        "All Star Lanes": "Karaoke rooms at White City and Brick Lane, 'under a tenner per person'."
+      },
+      "note": "Numbered 1-12 as a 'rundown', not a ranking - recorded unranked. Modified 2 April 2024."
+    },
+    {
+      "name": "Londonist - Karaoke Bars In London: Where To Let Loose With K-Pop And Kylie",
+      "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+      "scope": "karaoke",
+      "tier": "C",
+      "names": [
+        "Lucky Voice",
+        "BAM Karaoke Box",
+        "Moyagi",
+        "Karaoke Epoc",
+        "Molly Mc's",
+        "The Star by Liverpool Street",
+        "Mama Shelter London Shoreditch",
+        "Boom Battle Bar",
+        "Playbox at Boxpark Croydon",
+        "Peckham Levels",
+        "The Cocktail Club",
+        "Bow Street Tavern"
+      ],
+      "dated": "2025-06-12",
+      "ranked": false,
+      "quotes": {
+        "Lucky Voice": "Five London venues with neon-lit private rooms and 'Thirsty' buttons; 'a slam dunk for birthdays, work dos, stags and hens'.",
+        "BAM Karaoke Box": "22 karaoke rooms for two to 40; 'Europe's largest karaoke venue' by its own billing.",
+        "Moyagi": "'Oxford Circus cosplays as Akihabara'; red strip-lit rooms and a shoji-screened Hidden Bar.",
+        "Karaoke Epoc": "Japanese, Korean and Mandarin/Cantonese library, banquetted booths, yakitori and citrus highballs - 'as authentic experience as you're going to get on this side of the globe'.",
+        "Molly Mc's": "Irish pub at Waterloo with wood-panelled 'singing rooms', each with a SINGA karaoke kit.",
+        "The Star by Liverpool Street": "Six private rooms (Disco, Star, Gold, Jungle, Pink, Backstage) and 20,000 songs; free karaoke Tuesdays and open karaoke.",
+        "Mama Shelter London Shoreditch": "Written as 'Mama Shelter London, Shoreditch' - three themed karaoke party packages for up to 14. The hotel closed on 1 February 2026.",
+        "Boom Battle Bar": "Boom Box karaoke with over 100,000 songs at its London sites.",
+        "Playbox at Boxpark Croydon": "Touchscreen booths at Boxpark Croydon where you control the lighting as well as the music.",
+        "Peckham Levels": "Private Japanese-themed karaoke room with 80,000 songs; one- or two-hour slots.",
+        "The Cocktail Club": "Shoreditch karaoke room; packages include a welcome drink and a bartender.",
+        "Bow Street Tavern": "Young's pub in Covent Garden; its Records Room holds up to 30."
+      }
+    },
+    {
+      "name": "Conde Nast Traveller - The best karaoke bars in London (Connor Sturges)",
+      "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "BAM Karaoke Box",
+        "Lucky Voice",
+        "Bao",
+        "The Thieves",
+        "The Old School Yard",
+        "The Cocktail Club",
+        "Simmons"
+      ],
+      "dated": "2024-07-31",
+      "ranked": false,
+      "quotes": {
+        "BAM Karaoke Box": "Opened April 2024 in Victoria; subterranean rooms designed by Brady Williams Studio. 'From £8.50 per person per hour'.",
+        "Lucky Voice": "'Something of a London institution'; from £16 per person for two hours.",
+        "Bao": "'Bao London' - private karaoke rooms at Borough, Shoreditch, Battersea, City and Marylebone for two to 23; £35 a head minimum spend.",
+        "The Thieves": "Written as 'The Four Thieves', 51 Lavender Gardens SW11 - the pub reopened as The Thieves in October 2025. Private room from £30 an hour for up to 25.",
+        "The Old School Yard": "London Bridge; small room for five to eight, larger for 20; from £100 minimum spend.",
+        "The Cocktail Club": "Shoreditch karaoke room for up to 45; from £20 a head for 90 minutes with a bellini and two cocktails.",
+        "Simmons": "Rooms at Euston Square (up to 60) and Soho (15); 'more than 50,000 songs'."
+      }
+    },
+    {
+      "name": "The Nudge - The Best Karaoke Bars In London (Hattie Lloyd)",
+      "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+      "scope": "karaoke",
+      "tier": "C",
+      "names": [
+        "BAM Karaoke Box",
+        "Bunga 90",
+        "U9 Karaoke",
+        "Moyagi",
+        "Lucky Voice",
+        "The Old Queen's Head",
+        "All Star Lanes",
+        "Karaoke Box",
+        "The Blues Kitchen",
+        "The Star of Bethnal Green",
+        "The Star by Hackney Downs",
+        "London Karaoke Club",
+        "Bloomsbury Bowling Lanes",
+        "The Exhibit",
+        "Bao",
+        "Mama Shelter London Shoreditch",
+        "Piano Kensington",
+        "Massaoke",
+        "Gospeloke",
+        "Organoke"
+      ],
+      "dated": "2026-09-24",
+      "ranked": false,
+      "quotes": {
+        "BAM Karaoke Box": "22 private rooms, karaoke battles on stage; £7.50-14pp, 4-35 people.",
+        "Bunga 90": "Two karaoke rooms behind a fake video store; £79 for up to 8.",
+        "U9 Karaoke": "'Spacecraft-meets-speakeasy' in Leicester Square, 450,000 songs, East Asian food; from £480 minimum for 15. (The Nudge also ran a members' launch offer at U9.)",
+        "Moyagi": "Eight private booths off 'one beautifully moody, glowing corridor'; £20pp.",
+        "Lucky Voice": "Five bars, private booths up to 30, 'Thirsty' buttons; £8-14pp.",
+        "The Old Queen's Head": "Tiki-styled room for 15 or the Playroom for 70.",
+        "All Star Lanes": "Karaoke at Brick Lane, White City, Stratford and Holborn; £10pp, 4-14.",
+        "Karaoke Box": "'One of London's karaoke institutions'; Soho, Mayfair, Smithfield.",
+        "The Blues Kitchen": "Private karaoke rooms at all three London sites; free Sunday-Tuesday.",
+        "The Star of Bethnal Green": "Room powered by Lucky Voice, 15,000 songs; £49-139 an hour.",
+        "The Star by Hackney Downs": "Private room for 15 by the hour, £49-89.",
+        "London Karaoke Club": "Soho; you hire the whole venue, up to 50, from £9.50pp.",
+        "Bloomsbury Bowling Lanes": "Five private rooms, 30,000 hand-picked songs; £60-120 an hour, half price Sunday-Tuesday.",
+        "The Exhibit": "Balham; private screening room with a Lucky Voice system, £25-50pp with drinks.",
+        "Bao": "Six privately bookable rooms; £35pp minimum spend.",
+        "Mama Shelter London Shoreditch": "Written as 'Mama Shelter | Bethnal Green' - two rooms, £22pp. The hotel closed on 1 February 2026.",
+        "Piano Kensington": "Piano bar singalongs - Kensington and Smithfield.",
+        "Massaoke": "Touring mass-karaoke night with a live band, from £17.",
+        "Gospeloke": "Karaoke with a 15-strong gospel choir, Brixton.",
+        "Organoke": "Mass karaoke with a church organ in Camberwell, a few times a year."
+      },
+      "note": "Published 27 Jan 2026, modified 24 Sep 2026."
+    },
+    {
+      "name": "DesignMyNight - London's Best Private Karaoke Rooms / Best Karaoke Bars / Soho / Shoreditch",
+      "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Bloomsbury Bowling Lanes",
+        "Lucky Voice",
+        "Huckster",
+        "Inamo",
+        "Bat & Ball",
+        "The Cocktail Club",
+        "Simmons",
+        "Babylon Park",
+        "Ballie Ballerson",
+        "Colours Hoxton",
+        "The Old School Yard",
+        "Prince of Peckham",
+        "The Chelsea Gate",
+        "The Fox, Shoreditch",
+        "Bow Street Tavern",
+        "Peckham Levels",
+        "Three Colts Tavern",
+        "BAM Karaoke Box",
+        "All Star Lanes",
+        "Boom Battle Bar",
+        "Moyagi",
+        "The Cherry E3",
+        "Tequila Mockingbird",
+        "Karaoke Epoc",
+        "Lost & Found",
+        "Huski Ski Lodge",
+        "Molly Mc's",
+        "The Bolter",
+        "The Blues Kitchen",
+        "KERB Social Club",
+        "Karaoke Box",
+        "U9 Karaoke",
+        "Putt Putt & Karaoke",
+        "Infernos"
+      ],
+      "dated": "2026-10-05",
+      "ranked": false,
+      "quotes": {
+        "Bloomsbury Bowling Lanes": "#1 on the private-rooms page; from £60 an hour, 8-30 people.",
+        "Lucky Voice": "From £8pp per hour, two-hour minimum, 4-30 people.",
+        "Huckster": "Paddington karaoke lounge and private rooms, £10pp for two hours, 4-50.",
+        "Inamo": "Soho games and karaoke room, minimum spends from £250.",
+        "Bat & Ball": "Stratford and Covent Garden; private booth £10pp an hour, up to 16.",
+        "The Cocktail Club": "Shoreditch, £10pp an hour, 10-40.",
+        "Simmons": "'One of our most affordable picks'; minimum spends from £5pp.",
+        "Babylon Park": "Camden family venue; private room for 50.",
+        "Ballie Ballerson": "Listed on the private-rooms and Shoreditch pages.",
+        "Colours Hoxton": "Private room for up to 30, from £150.",
+        "The Old School Yard": "Minimum spends from £150.",
+        "Prince of Peckham": "Room from £50.",
+        "The Chelsea Gate": "Karaoke room for five to 30, from £50 an hour.",
+        "The Fox, Shoreditch": "Shoreditch, 28 Paul Street; room from £60.",
+        "Bow Street Tavern": "From £20pp.",
+        "Peckham Levels": "From £8pp an hour.",
+        "Three Colts Tavern": "From £150 for the room.",
+        "BAM Karaoke Box": "From £5pp an hour.",
+        "All Star Lanes": "From £10pp an hour.",
+        "Boom Battle Bar": "The O2; from £7pp an hour.",
+        "Moyagi": "From £20pp.",
+        "The Cherry E3": "Mile End, from £5pp an hour.",
+        "Tequila Mockingbird": "Wimbledon, from £5pp an hour.",
+        "Karaoke Epoc": "From £8pp an hour.",
+        "Lost & Found": "Balham; £75 for the room for two hours.",
+        "Huski Ski Lodge": "Tooley Street; £500 for four hours.",
+        "Molly Mc's": "'Karaoke isn't just an add-on - it's the main event'; vintage-styled private singing rooms under the arches near Waterloo. (DesignMyNight's YouTube channel also filmed it.)",
+        "The Bolter": "City, from £30pp.",
+        "The Blues Kitchen": "Brixton, from £150 an hour for the room; Shoreditch on the Shoreditch page.",
+        "KERB Social Club": "Spitalfields, from £8pp an hour.",
+        "Karaoke Box": "Mayfair (private-rooms page) and Soho (Soho page).",
+        "U9 Karaoke": "From £260 per room.",
+        "Putt Putt & Karaoke": "Streatham Hill, minimum spends from £250.",
+        "Infernos": "Clapham, from £55 an hour for the room."
+      },
+      "note": "One domain, four editorial pages read 8 Oct 2026: private rooms (Scarlett Welch, updated 15 Jul 2026), karaoke bars (Kiera Chapman, 24 Sep 2026), Soho (18 Sep 2026) and Shoreditch (5 Oct 2026). Numbered on the page but it is a booking platform's listing, so recorded unranked. Ticketed events on those pages (Love the Lyrics, Hip Hop Brunch, Ibiza Anthems Brunch) are not venues and are left out."
+    },
+    {
+      "name": "DesignMyNight - Best Karaoke Bars In London (bars page additions)",
+      "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "The Star of Kings",
+        "The Lansdowne",
+        "The Lucky Goat",
+        "Queen of Hoxton",
+        "The Black Lion, West Hampstead",
+        "Bad Habits Club",
+        "The Old Nun's Head",
+        "The Thieves",
+        "Sebright Arms",
+        "TSQ Playhouse",
+        "The Exhibit",
+        "Hoxton Cabin",
+        "Bloodsports"
+      ],
+      "dated": "2026-09-24",
+      "ranked": false,
+      "quotes": {
+        "The Star of Kings": "King's Cross pub with public karaoke.",
+        "The Lansdowne": "Listed.",
+        "The Lucky Goat": "Listed.",
+        "Queen of Hoxton": "Listed.",
+        "The Black Lion, West Hampstead": "West Hampstead.",
+        "Bad Habits Club": "Listed.",
+        "The Old Nun's Head": "Listed.",
+        "The Thieves": "Battersea - the old Four Thieves.",
+        "Sebright Arms": "Listed.",
+        "TSQ Playhouse": "Covent Garden.",
+        "The Exhibit": "Balham.",
+        "Hoxton Cabin": "Listed.",
+        "Bloodsports": "Listed."
+      }
+    },
+    {
+      "name": "SquareMeal - The best karaoke bars in London: 11 places (Holly Butterfield)",
+      "url": "https://www.squaremeal.co.uk/event-party-venues/team-building/best-karaoke-london_9460",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Lucky Voice",
+        "Bao",
+        "Inamo",
+        "BAM Karaoke Box",
+        "The Blues Kitchen",
+        "The Old Queen's Head",
+        "The Exhibit",
+        "The Star of Bethnal Green",
+        "All Star Lanes",
+        "Plum Valley",
+        "JinLi"
+      ],
+      "dated": "2025-03-06",
+      "ranked": false,
+      "quotes": {
+        "Lucky Voice": "'Perhaps the most recognisable karaoke bar brand in London'; 4-30 per room.",
+        "Bao": "Five of BAO's sites have KTV rooms, 300,000 songs including Korean and Japanese pop; 2-23 people.",
+        "Inamo": "Covent Garden's Onyx Room, up to 70.",
+        "BAM Karaoke Box": "22 uniquely decorated rooms, 4-35 people.",
+        "The Blues Kitchen": "Shoreditch; two main karaoke rooms for up to 20; free karaoke Sunday-Wednesday.",
+        "The Old Queen's Head": "Islington; private room and Playroom, 10-50.",
+        "The Exhibit": "Balham; 10,000 songs, packages with drinks, up to 30.",
+        "The Star of Bethnal Green": "'Powered by the team behind Lucky Voice'; up to 15.",
+        "All Star Lanes": "Dedicated party rooms at four sites, 1-14.",
+        "Plum Valley": "Chinatown; four private karaoke rooms, 8-30 people.",
+        "JinLi": "Chinatown; neon-lit rooms behind a 100-cover restaurant, 5-30."
+      }
+    },
+    {
+      "name": "The Sauce - London's Best Karaoke Bars (Phil Clarke)",
+      "url": "https://thesaucemag.com/london-karaoke-bars/",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Moyagi",
+        "Lucky Voice",
+        "BAM Karaoke Box",
+        "Bunga 90",
+        "The Exhibit",
+        "Gospeloke",
+        "Bao",
+        "The Star of Bethnal Green",
+        "Bloomsbury Bowling Lanes"
+      ],
+      "dated": "2025-11-17",
+      "ranked": false,
+      "quotes": {
+        "Moyagi": "'Red-velvet surroundings, curated Japanese cocktails and a 1920s Tokyo vibe'; 200,000 songs.",
+        "Lucky Voice": "The writer's first London karaoke was Lucky Voice Soho at a 2005 work party; 'still at the forefront'.",
+        "BAM Karaoke Box": "In the old M Restaurant Victoria space; sumptuously decorated private lounges.",
+        "Bunga 90": "Written as 'Bunga Bunga, Covent Garden' (167 Drury Lane) with nightly karaoke formats - the site relaunched as Bunga 90 in September 2025.",
+        "The Exhibit": "Balham bar of 24 years with a Lucky Voice karaoke suite that doubles as a cinema.",
+        "Gospeloke": "Weekly at The Blues Kitchen Brixton - karaoke backed by a live gospel choir.",
+        "Bao": "'Bao Borough' - secret karaoke room for 14 with an off-menu range; also Shoreditch and Battersea.",
+        "The Star of Bethnal Green": "Visited for the piece: five new themed rooms under the name Karaoke Heaven - Studio 54, Viper, Pink Heart, Wild and Rainbow.",
+        "Bloomsbury Bowling Lanes": "'A pair of karaoke studios alongside the lanes'; rough-and-ready, 'like a student union circa year 2000'."
+      }
+    },
+    {
+      "name": "Country & Town House - London's Best Karaoke Bars (Olivia Emily)",
+      "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Moyagi",
+        "Mama Shelter London Shoreditch",
+        "Lucky Voice",
+        "All Star Lanes",
+        "Wing Wing",
+        "Plum Valley",
+        "The Star by Liverpool Street",
+        "Infernos",
+        "TSQ Playhouse"
+      ],
+      "dated": "2024-04-03",
+      "ranked": false,
+      "quotes": {
+        "Moyagi": "'More akin to a boutique private member's club than a bar'; eight private rooms.",
+        "Mama Shelter London Shoreditch": "Themed karaoke nights, £20pp, rooms up to 15. The hotel closed on 1 February 2026.",
+        "Lucky Voice": "'London's premiere karaoke bar'; two-hour sessions, rooms up to 30.",
+        "All Star Lanes": "Booths up to 12 at White City and 14 at Brick Lane, from £5pp off-peak.",
+        "Wing Wing": "West End; Korean fried chicken then karaoke, rooms up to 10.",
+        "Plum Valley": "Cantonese food then private karaoke rooms.",
+        "The Star by Liverpool Street": "Backstage Bar (60) and Glam Palace (80); from £59 an hour.",
+        "Infernos": "Clapham; rooms for 15 and 30, bookable 10pm-3am, entry to the club needed.",
+        "TSQ Playhouse": "Two private rooms with English, Thai, Chinese, Korean and Japanese songs; set menu required."
+      }
+    },
+    {
+      "name": "Culture Calling - The Best Karaoke Bars In London (Jayne Lambert)",
+      "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+      "scope": "karaoke",
+      "tier": "C",
+      "names": [
+        "Brazen Monkey",
+        "The Karaoke Hole",
+        "Lucky Voice",
+        "Rowans",
+        "Lan Kwai Fong",
+        "Karaoke Box",
+        "Mama Shelter London Shoreditch",
+        "Infernos",
+        "All Star Lanes",
+        "Huckster",
+        "Plum Valley"
+      ],
+      "dated": "2023-10-18",
+      "ranked": false,
+      "quotes": {
+        "Brazen Monkey": "Private karaoke rooms from £25pp, St Martin's Court.",
+        "The Karaoke Hole": "Drag-hosted karaoke, Dalston. Closed January 2026.",
+        "Lucky Voice": "Holborn, Soho and Islington.",
+        "Rowans": "Karaoke rooms for 15 'but we've seen more'.",
+        "Lan Kwai Fong": "Camden; East Asian food, digital beer pong and karaoke rooms.",
+        "Karaoke Box": "Private rooms, multiple locations.",
+        "Mama Shelter London Shoreditch": "Themed karaoke nights. The hotel closed on 1 February 2026.",
+        "Infernos": "Clapham; rooms bookable 10pm-3am.",
+        "All Star Lanes": "Brick Lane.",
+        "Huckster": "Paddington private rooms.",
+        "Plum Valley": "Chinatown, 20 Gerrard Street."
+      }
+    },
+    {
+      "name": "Hot Dinners - London's best karaoke restaurants and rooms",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+      "scope": "karaoke",
+      "tier": "C",
+      "names": [
+        "Bao",
+        "Mama Shelter London Shoreditch",
+        "BAM Karaoke Box",
+        "M Threadneedle",
+        "The Old Queen's Head",
+        "Inamo",
+        "Bunga 90",
+        "Jihwaja",
+        "Lan Kwai Fong",
+        "Sichuan Restaurant and Karaoke Bar",
+        "The Star by Hackney Downs",
+        "Superstar BBQ",
+        "Wing Wing"
+      ],
+      "dated": "2024-04-19",
+      "ranked": false,
+      "quotes": {
+        "Bao": "'BAO Borough' private KTV room with centre stage and disco lights, special KTV menu, 2-14; also Shoreditch, Battersea, City and Marylebone.",
+        "Mama Shelter London Shoreditch": "Two karaoke rooms for up to 15 with food from the restaurant. The hotel closed on 1 February 2026.",
+        "BAM Karaoke Box": "22 rooms, Bose sound, menu by chef Sabrina Gidda, 4-30.",
+        "M Threadneedle": "Saturday Tokyo Brunch with a karaoke bolt-on, up to 15.",
+        "The Old Queen's Head": "Lucky Chip burgers; karaoke room up to 12 or the Playroom for 70.",
+        "Inamo": "Karaoke and gaming rooms at Soho (20) and Covent Garden (35), 90,000 songs.",
+        "Bunga 90": "Written as 'Bunga Bunga', 167 Drury Lane - now Bunga 90. Stage karaoke at weekends or the private Nonna's Attico room.",
+        "Jihwaja": "Written as 'Jiwajah', Vauxhall. Korean tapas; English, Korean, Chinese and Japanese lyrics; rooms from four to 30.",
+        "Lan Kwai Fong": "Camden; rooms for 30 and 50.",
+        "Sichuan Restaurant and Karaoke Bar": "Greenwich Peninsula, Millennium Leisure Park; six private karaoke rooms.",
+        "The Star by Hackney Downs": "Room run by Lucky Voice, up to 15.",
+        "Superstar BBQ": "Holborn, St Giles; wood-clad karaoke room under the Korean restaurant, up to 14, songs in English, Chinese, Korean, Vietnamese and Filipino.",
+        "Wing Wing": "Tavistock (Woburn Place), up to 10; also a karaoke room on Charing Cross Road."
+      }
+    },
+    {
+      "name": "The Infatuation - Best pubs (karaoke), The Black Eel and Jihwaja reviews",
+      "url": "https://www.theinfatuation.com/london/guides/best-pubs-london",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Army & Navy",
+        "The Black Eel"
+      ],
+      "dated": "2026-08-04",
+      "ranked": false,
+      "quotes": {
+        "Army & Navy": "Under 'For Unhinged Karaoke': most Fridays the Dalston boozer pulls down the projector and 'allows anyone who's several pints deep' to sing.",
+        "The Black Eel": "In the pubs guide, and reviewed 7.9 (Oct 2025): 'a karaoke room upstairs with an aesthetic we're lovingly calling Pat Butcher party girl'."
+      }
+    },
+    {
+      "name": "The Infatuation - Jihwaja review",
+      "url": "https://www.theinfatuation.com/london/reviews/jihwaja",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Jihwaja"
+      ],
+      "dated": "2024-05-30",
+      "ranked": false,
+      "quotes": {
+        "Jihwaja": "Rated 7.7. 'A Korean karaoke restaurant in Vauxhall that's open until 3am on weekends for fried chicken and warbling.' 'Here, it's about the karaoke too.'"
+      }
+    },
+    {
+      "name": "LondonWorld - Where to do karaoke in London: 6 fun places (Marie de Montigny)",
+      "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "BAM Karaoke Box",
+        "Lucky Voice",
+        "All Star Lanes",
+        "Bao",
+        "The Old Queen's Head",
+        "The Star of Bethnal Green",
+        "The Star by Hackney Downs",
+        "The Star by Liverpool Street"
+      ],
+      "dated": "2025-10-31",
+      "ranked": false,
+      "quotes": {
+        "BAM Karaoke Box": "#1 of 6 (numbered, not ranked).",
+        "Lucky Voice": "Holborn, Islington, Liverpool Street, Soho, Waterloo.",
+        "All Star Lanes": "Brick Lane, Holborn, Stratford, White City.",
+        "Bao": "'Bao London' - Battersea, Borough, City, Marylebone and Shoreditch.",
+        "The Old Queen's Head": "Angel.",
+        "The Star of Bethnal Green": "One entry, 'The Star of...', covering the group's pubs: Bethnal Green's 'solid karaoke room that fits 15 people'.",
+        "The Star by Hackney Downs": "Same entry: 'private karaoke room, which fits up to 15 people'.",
+        "The Star by Liverpool Street": "Same entry: bottomless brunch 'and then hit the mics'."
+      }
+    },
+    {
+      "name": "MyLondon - Mama Shelter karaoke review, and Dumplings' Legend karaoke",
+      "url": "https://www.mylondon.news/news/zone-1-news/chinatown-private-karaoke-experience-you-30572521",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Dumplings' Legend"
+      ],
+      "dated": "2025-01-01",
+      "ranked": false,
+      "quotes": {
+        "Dumplings' Legend": "Four hidden karaoke rooms on the second floor of the Gerrard Street dim sum restaurant, booked for three hours; 'not overly high-tech, but everything works'. (Also posted to MyLondon's TikTok, Jan 2025.)"
+      }
+    },
+    {
+      "name": "MyLondon - 'I sang my heart out at East London's really cheap karaoke bar'",
+      "url": "https://www.mylondon.news/whats-on/reviews/i-sang-heart-out-east-31633021",
+      "scope": "karaoke",
+      "tier": "B",
+      "names": [
+        "Mama Shelter London Shoreditch"
+      ],
+      "dated": "2025-05-17",
+      "ranked": false,
+      "quotes": {
+        "Mama Shelter London Shoreditch": "£550 for 15 for two hours with three jugs of cocktails, prosecco and wine. The hotel closed on 1 February 2026."
+      }
+    },
+    {
+      "name": "The Date Connoisseur (TikTok) - 'Favourite karaoke spot in London'",
+      "url": "https://www.tiktok.com/@thedateconnoisseur/video/7436471731964988704",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "BAM Karaoke Box"
+      ],
+      "dated": "2024-11-12",
+      "ranked": false,
+      "quotes": {
+        "BAM Karaoke Box": "'Favourite karaoke spot in London' #bamkaraokebox; 58k plays. No disclosure."
+      }
+    },
+    {
+      "name": "Experience Addict (TikTok) - 'The coolest new karaoke bar in London'",
+      "url": "https://www.tiktok.com/@experienceaddict/video/7360076220446330144",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "Moyagi"
+      ],
+      "dated": "2024-04-20",
+      "ranked": false,
+      "quotes": {
+        "Moyagi": "'Opened in March... lots of rooms to choose from with over 150,000 songs'. No disclosure."
+      }
+    },
+    {
+      "name": "Urban Adventurer (TikTok) - Pick Pic photo booth and karaoke",
+      "url": "https://www.tiktok.com/@urbanadventurerldn/video/7278992026463505696",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "Pick Pic"
+      ],
+      "dated": "2023-09-15",
+      "ranked": false,
+      "quotes": {
+        "Pick Pic": "'New Korean photo booth & karaoke opened in Shoreditch', 138 Bethnal Green Road; coin karaoke."
+      }
+    },
+    {
+      "name": "Curiously (TikTok) - Lucky Voice",
+      "url": "https://www.tiktok.com/@curiouslymedia/video/7203693221904518405",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "Lucky Voice"
+      ],
+      "dated": "2023-02-24",
+      "ranked": false,
+      "quotes": {
+        "Lucky Voice": "'Follow us to Lucky Voice's newest karaoke bar in London' - the Waterloo branch, which closed on 6 October 2026."
+      }
+    },
+    {
+      "name": "Elmira (YouTube) - Bacchanalia / Moyagi karaoke bar",
+      "url": "https://www.youtube.com/@Elmiravalentina",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "Moyagi"
+      ],
+      "dated": "2024-10-15",
+      "ranked": false,
+      "quotes": {
+        "Moyagi": "'Price range: £20-£30... you get your own room for the karaoke and can order drinks from the room'; rated 9/10."
+      },
+      "video": "https://www.youtube.com/watch?v=fz5BqfZFY34"
+    },
+    {
+      "name": "Gotnie (YouTube) - Epic Dad Karaoke Night at BAM",
+      "url": "https://www.youtube.com/@gotnie",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "BAM Karaoke Box"
+      ],
+      "dated": "2025-08-13",
+      "ranked": false,
+      "quotes": {
+        "BAM Karaoke Box": "A group of dads' night at BAM Karaoke Box, Victoria."
+      },
+      "video": "https://www.youtube.com/watch?v=gB42mLCu8NM"
+    },
+    {
+      "name": "Praneetha P (YouTube) - BAM Karaoke Bar 2025",
+      "url": "https://www.youtube.com/@praneethap",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "BAM Karaoke Box"
+      ],
+      "dated": "2025-12-14",
+      "ranked": false,
+      "quotes": {
+        "BAM Karaoke Box": "Short filmed at BAM; a second short from a 50th birthday there."
+      },
+      "video": "https://www.youtube.com/watch?v=szglwr-fLmo"
+    },
+    {
+      "name": "Whatever Charlie (YouTube) - Korean karaoke bar and restaurant in London",
+      "url": "https://www.youtube.com/@whatevercharlie",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "Jihwaja"
+      ],
+      "dated": "2022-01-14",
+      "ranked": false,
+      "quotes": {
+        "Jihwaja": "'A Korean Karaoke Bar and Restaurant near Vauxhall station... The karaoke session was sick'."
+      },
+      "video": "https://www.youtube.com/watch?v=E6M_vq_kocU"
+    },
+    {
+      "name": "Caris Nazinda (YouTube) - Lucky Voice Karaoke London: Is it Worth it?",
+      "url": "https://www.youtube.com/@carisnazinda",
+      "scope": "karaoke",
+      "tier": "D",
+      "names": [
+        "Lucky Voice"
+      ],
+      "dated": "2022-05-31",
+      "ranked": false,
+      "quotes": {
+        "Lucky Voice": "'Lucky Voice Karaoke London: Is it Worth it?'"
+      },
+      "video": "https://www.youtube.com/watch?v=f0aVL6nLL48"
+    },
+    {
+      "name": "r/london - Karaoke places in central and east London with great sound system and song selection (Sep 2025)",
+      "url": "https://www.reddit.com/r/london/comments/1nkzxef/karaoke_places_in_central_and_east_london_with/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2025-09-19",
+      "ranked": false,
+      "names": [
+        "Lucky Voice",
+        "BAM Karaoke Box",
+        "Moyagi"
+      ],
+      "quotes": {
+        "Lucky Voice": "Three replies: 'Lucky voice'; 'Lucky Voice by Liverpool St is really good fun' (Feb 2026); 'longest standing karaoke venue in London and loads of locations'. One reply was 'disappointed by their catalogue'.",
+        "BAM Karaoke Box": "'There's a place called BAM karaoke in Victoria that's pretty good'.",
+        "Moyagi": "'Moyagi off of regent street, quite smart and chic inside, private rooms with room service, good song selection' - seconded: 'Drinks are some of the best I've had in London and the staff are amazing'."
+      }
+    },
+    {
+      "name": "r/london - Public Karaoke? (Dec 2025)",
+      "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2025-12-07",
+      "ranked": false,
+      "names": [
+        "Sebright Arms",
+        "The Star of Kings",
+        "Walthamstow Trades Hall",
+        "The Karaoke Hole",
+        "BAM Karaoke Box",
+        "Prince of Peckham",
+        "Amersham Arms",
+        "Balls Brothers Old Street",
+        "The Devonshire Arms, Camden"
+      ],
+      "quotes": {
+        "Sebright Arms": "'Sebright Arms every Friday I believe'.",
+        "The Star of Kings": "'Star of Kings, kings x'.",
+        "Walthamstow Trades Hall": "'Trades Hall, Walthamstow... a woman with a thick Dublin accent did a word-perfect rendition of Baby Got Back'.",
+        "The Karaoke Hole": "Named three times for drag-hosted karaoke - closed January 2026.",
+        "BAM Karaoke Box": "'BAM Victoria has a more public area as well as individual rooms'.",
+        "Prince of Peckham": "'Prince of Peckham, SE15 (r&b, hip hop oriented)'.",
+        "Amersham Arms": "'Amersham Arms SE14 (pop oriented)'.",
+        "Balls Brothers Old Street": "Written as 'Balls - Old Street - sometimes empty and you can walk in and have the whole basement to yourself'. Identity unconfirmed.",
+        "The Devonshire Arms, Camden": "'Devonshire Arms - Camden - emo/punkrock focus and great atmosphere'."
+      }
+    },
+    {
+      "name": "r/london - Karaoke Room recommendations (Nov 2024)",
+      "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2024-11-16",
+      "ranked": false,
+      "names": [
+        "The Old School Yard",
+        "Karaoke Box",
+        "Bao",
+        "Rowans",
+        "The Star of Bethnal Green",
+        "Colours Hoxton",
+        "The Fox, Shoreditch",
+        "Lucky Voice",
+        "Bloomsbury Bowling Lanes",
+        "BAM Karaoke Box"
+      ],
+      "quotes": {
+        "The Old School Yard": "The poster's quote: '£200 (minimum drink spend) for 2 hours' for 12; a reply: 'it's OK, but only ever did it cheap with a Groupon'.",
+        "Karaoke Box": "'Slightly cheaper than Lucky Voice' - quotes Smithfield (since closed) at £96-£120 an hour for 12.",
+        "Bao": "'The BAO KTV rooms are something like a £40pp minimum spend which you don't mind when the food is that good.'",
+        "Rowans": "'Rowans in Finsbury Park is fun.'",
+        "The Star of Bethnal Green": "Booked before; 'I don't remember them being extortionate like Lucky Voice!'",
+        "Colours Hoxton": "Booked before (same reply).",
+        "The Fox, Shoreditch": "'The Fox Shoreditch' booked before (same reply).",
+        "Lucky Voice": "'I just checked 12 people and got quoted £312.'",
+        "Bloomsbury Bowling Lanes": "'Pretty reasonably priced, went for my 30th this year. Does the job.'",
+        "BAM Karaoke Box": "'Cheap prices, drinks are sometimes 2 for 1 but reasonable and they do nice cocktails'."
+      }
+    },
+    {
+      "name": "r/london - Karaoke bars in London? (Oct 2024)",
+      "url": "https://www.reddit.com/r/london/comments/1g1gqj3/karaoke_bars_in_london/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2024-10-12",
+      "ranked": false,
+      "names": [
+        "The Star of Kings",
+        "Central Station, King's Cross",
+        "The Lost Hour, Greenwich",
+        "Village Square Karaoke Bar",
+        "The Windsor, Fenchurch Street"
+      ],
+      "quotes": {
+        "The Star of Kings": "'Rockaoke do live band Karaoke nights at the Star of Kings'.",
+        "Central Station, King's Cross": "'Central Station near Kings Cross is a pub that does karaoke on Friday and Saturday nights.'",
+        "The Lost Hour, Greenwich": "'The Lost Hour in Greenwich has karaoke every Friday night I think'.",
+        "Village Square Karaoke Bar": "'Village square karaoke bar in Highgate is a stage karaoke place which is great fun... they've done a lock in'.",
+        "The Windsor, Fenchurch Street": "'The Windsor Fenchurch does karaoke on Friday nights.'"
+      }
+    },
+    {
+      "name": "r/TheWestEnd - Karaoke with a good selection of musicals (Mar 2025)",
+      "url": "https://www.reddit.com/r/TheWestEnd/comments/1j1mj6u/karaoke_with_a_good_selection_of_musicals/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2025-03-02",
+      "ranked": false,
+      "names": [
+        "Zodiac, Camden",
+        "Mrs Riot",
+        "Simmons",
+        "Lucky Voice",
+        "Galaxy KTV"
+      ],
+      "quotes": {
+        "Zodiac, Camden": "'Zodiac in Camden is exactly what you're looking for! It has so many musical theatre songs, from Six to Sweeney Todd'.",
+        "Mrs Riot": "'Mrs Riot in Covent Garden has a semi-private karaoke room and it has basically everything including musicals.'",
+        "Simmons": "'Simmon's in Farringdon is great but you need a big group for the private room'.",
+        "Lucky Voice": "'You can check the catalogue on their website.'",
+        "Galaxy KTV": "'Some of the Chinese ones have a connection to YouTube so you can do anything that's been uploaded. E.g. galaxy in Walworth'."
+      }
+    },
+    {
+      "name": "r/london - Karaoke places that let you look things up on YouTube (Nov 2025)",
+      "url": "https://www.reddit.com/r/london/comments/1p2dcve/karaoke_places_that_let_you_look_things_up_on/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2025-11-21",
+      "ranked": false,
+      "names": [
+        "The Distillers, Hammersmith",
+        "The Miller, London Bridge"
+      ],
+      "quotes": {
+        "The Distillers, Hammersmith": "'At the Distillers in Hammersmith I was pleasantly surprised by their system... it had it all down to obscure Argentine songs'.",
+        "The Miller, London Bridge": "'Book the downstairs function room at the Miller on Snowfields... you just plug in your own laptop and play tracks including from YouTube.'"
+      }
+    },
+    {
+      "name": "r/london - Karaoke Pubs? (Mar 2024)",
+      "url": "https://www.reddit.com/r/london/comments/1b8tud8/karaoke_pubs/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2024-03-07",
+      "ranked": false,
+      "names": [
+        "Walthamstow Trades Hall",
+        "The Star of Kings",
+        "The Roebuck, Borough",
+        "The Brunel, Rotherhithe",
+        "Hand in Hand, Brixton",
+        "Whelans, Surrey Quays",
+        "Belushi's Shepherd's Bush",
+        "Domani's"
+      ],
+      "quotes": {
+        "Walthamstow Trades Hall": "'CNN Karaoke at Walthamstow Trades Hall occurs fortnightly and is brilliant'.",
+        "The Star of Kings": "'Star of Kings occasionally does Rockaoke, Karaoke but with a band!'",
+        "The Roebuck, Borough": "'the roebuck, borough'.",
+        "The Brunel, Rotherhithe": "'The Brunel in Rotherhithe'.",
+        "Hand in Hand, Brixton": "'Hand in Hand off Brixton Hill is a fun night.'",
+        "Whelans, Surrey Quays": "'Whelans by surrey quays every Saturday, super cheap as well'.",
+        "Belushi's Shepherd's Bush": "'Belushi's in shepherds bush, right outside the station, every Thursday'.",
+        "Domani's": "'Domani's in Stoke Newington on a MONDAY and a WEDNESDAY - delightful bunch'."
+      }
+    },
+    {
+      "name": "r/london - Best place in London for karaoke? (Dec 2023)",
+      "url": "https://www.reddit.com/r/london/comments/18q9gzv/best_place_in_london_for_karaoke/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2023-12-25",
+      "ranked": false,
+      "names": [
+        "Rowans",
+        "Karaoke Kissaten",
+        "The George, Shadwell"
+      ],
+      "quotes": {
+        "Rowans": "'Rowans Finsbury Park (or it was 5 years ago when I lived there)'.",
+        "Karaoke Kissaten": "'Karaoke Kissaten in Soho'.",
+        "The George, Shadwell": "'The George near Shadwell has karaoke every Thursday which is lively.'"
+      }
+    },
+    {
+      "name": "r/london - Karaoke private room with heavy metal songs? (Oct 2025)",
+      "url": "https://www.reddit.com/r/london/comments/1ofn1ci/karaoke_private_room_with_heavy_metal_songs/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2025-10-25",
+      "ranked": false,
+      "names": [
+        "The Devonshire Arms, Camden",
+        "BAM Karaoke Box",
+        "The Miller, London Bridge",
+        "Blondies Brewery"
+      ],
+      "quotes": {
+        "The Devonshire Arms, Camden": "'The Dev in Camden does monthly metal karaoke nights'.",
+        "BAM Karaoke Box": "'Try BAM karaoke. Lots of private rooms.'",
+        "The Miller, London Bridge": "Back room at the Miller on Snowsfields - hook a laptop up to the karaoke system and play from YouTube.",
+        "Blondies Brewery": "'Not private but Blondies Brewery and little Blondies both do Karaoke'."
+      }
+    },
+    {
+      "name": "r/london - Best places for Karaoke in London (Jul 2024)",
+      "url": "https://www.reddit.com/r/london/comments/1dya9bj/best_places_for_karaoke_in_london/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2024-07-08",
+      "ranked": false,
+      "names": [
+        "Bao",
+        "Galaxy KTV"
+      ],
+      "quotes": {
+        "Bao": "'Bao in London Bridge'.",
+        "Galaxy KTV": "'Galaxy Restraunt and Karaoke near Elephant and Castle'."
+      }
+    },
+    {
+      "name": "r/london - Good Chinese-style karaoke KTV places (Nov 2023)",
+      "url": "https://www.reddit.com/r/london/comments/186r1rj/good_chinese_style_karaoke_ktv_places/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2023-11-30",
+      "ranked": false,
+      "names": [
+        "Jihwaja",
+        "Karaoke Epoc",
+        "Galaxy KTV",
+        "Chungdam"
+      ],
+      "quotes": {
+        "Jihwaja": "'I went to a Korean one in Vauxhall that was good fun. Was called Jihwaja' - named twice.",
+        "Karaoke Epoc": "'Karaoke Epoc on Brewer Street'.",
+        "Galaxy KTV": "Named in a list: 'Jihwaja, Chungdam, Galaxy'.",
+        "Chungdam": "Named in the same list."
+      }
+    },
+    {
+      "name": "r/AskLondon - Nice karaoke places in central London (Mar 2023)",
+      "url": "https://www.reddit.com/r/AskLondon/comments/11yar44/what_are_some_nice_karaoke_places_in_central/",
+      "scope": "karaoke",
+      "tier": "E",
+      "dated": "2023-03-22",
+      "ranked": false,
+      "names": [
+        "Plum Valley",
+        "Karaoke Epoc",
+        "Lucky Voice"
+      ],
+      "quotes": {
+        "Plum Valley": "'Plum Valley's rooms are decent and you can order food + drinks. It's in Chinatown'.",
+        "Karaoke Epoc": "'My Japanese friends love EPOC and my western friends love Lucky Voice. Be sure to book beforehand'.",
+        "Lucky Voice": "Same reply."
+      }
+    }
+  ],
+  "declined": [
+    {
+      "url": "https://www.tiktok.com/@appetitefoodie/video/7423381784395664672",
+      "venue": "K Club Karaoke",
+      "why": "'Thank you @josiezhanguk for the invite' - hosted opening."
+    },
+    {
+      "url": "https://www.tiktok.com/@eatsleepsteph/video/7421910226196073761",
+      "venue": "K Club Karaoke",
+      "why": "'[ ad / invite ]' in the caption."
+    },
+    {
+      "url": "https://www.tiktok.com/@rollinjoint/video/7519108833533349133",
+      "venue": "K Club Karaoke",
+      "why": "'ad|' ... 'Invited by @josiezhanguk & @wavelynx.digital.uk'."
+    },
+    {
+      "url": "https://www.tiktok.com/@imhungryinlondon/video/7424797102993132833",
+      "venue": "K Club Karaoke",
+      "why": "Same invited opening group as @appetitefoodie and @eatsleepsteph (tagged in both); her April 2025 post tags the agency @buymeego."
+    },
+    {
+      "url": "https://www.tiktok.com/@prowsemapet/video/7597130465878805782",
+      "venue": "Sumiya",
+      "why": "Tags @buymeego, the agency behind the K Club invitations - treated as a hosted visit."
+    },
+    {
+      "url": "https://www.hellomagazine.com/travel/854146/bam-karaoke-bar-london-review/",
+      "venue": "BAM Karaoke Box",
+      "why": "'I jumped at the chance to join some of the HELLO! team at BAM' - reads as a press visit; not counted."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=YPUdS--3Gik",
+      "venue": "BAM Karaoke Box",
+      "why": "Secret London's opening-night short ('team Secret London had an EPIC night') - an opening-night press visit, and the same publisher as secretldn.com in any case."
+    }
+  ],
+  "excluded": [
+    {
+      "url": "https://singa.com/blog/londons-best-karaoke-bars/",
+      "why": "Singa sells karaoke systems to venues ('Upgrade to Singa Business'); a supplier's list of rooms is not independent."
+    },
+    {
+      "url": "https://barsforkings.com/blog/best-karaoke-bars-london/",
+      "why": "'barsforKings Staff' byline; lists Moth Club, Oslo and The Windmill, which do not run karaoke - template content."
+    },
+    {
+      "url": "https://www.bestinhood.com/london/nightlife/best-karaoke-bars-in-london/",
+      "why": "Invented-looking byline ('Vespera Quill'), 'How we scored' template rolled across cities."
+    },
+    {
+      "url": "https://www.explorelondon.co.uk/entertainment/karaoke-bars.php",
+      "why": "Organisation byline; names 'K-Box' and 'Bar Soba', neither a London karaoke venue - generic copy."
+    },
+    {
+      "url": "https://www.londonguideuk.co.uk/things-to-do/best-karaoke-in-london/",
+      "why": "Carries a 'London Guide UK for AI Assistants' page; no evidence of a visit."
+    },
+    {
+      "url": "https://www.tootbus.com/en/london/inspiration/best-karaoke-bars-london",
+      "why": "Sightseeing-bus operator's blog."
+    },
+    {
+      "url": "https://www.astorhostels.com/blog/karaoke-bars-in-london",
+      "why": "Hostel group blog, December 2019, three names."
+    },
+    {
+      "url": "https://www.londonkaraoke.club/guides/private-karaoke-rooms-london",
+      "why": "Operator (London Karaoke Club) - tier F."
+    },
+    {
+      "url": "https://www.japaneselondon.com/london-karaoke-insiders-guide/",
+      "why": "June 2012; too old to count."
+    },
+    {
+      "url": "https://www.standard.co.uk/going-out/bars/karaoke-bar-guide-the-best-singalong-nights-out-in-london-a3829641.html",
+      "why": "January 2019; seven years old and half its venues have closed or changed. The Standard's 2024-26 karaoke items are news of openings and closures, not recommendations."
+    },
+    {
+      "url": "https://www.city-academy.com/news/londons-best-singing-nights/",
+      "why": "Singing school's 2016 piece; its karaoke section has not been updated."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=wfmdSRsJPtA",
+      "why": "CITYMYWAY - keyword template video, no venue named."
+    }
+  ]
+}

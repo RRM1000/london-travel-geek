@@ -549,6 +549,7 @@ The show has returned to its home in the Hippodrome's own theatre, and performan
 - 🎭 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🎙️ **[The Best Karaoke in London](/articles/best-karaoke-london/)** — Bunga 90's rooms and the free pub karaoke nights
 - 🌃 **[Late Night Eating in London](/articles/late-night-eating-london/)**
 - 🗺️ **[The Soho Area Guide](/articles/soho-area-guide/)**
 

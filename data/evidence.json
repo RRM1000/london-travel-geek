@@ -492,10 +492,11 @@
     "topics": [
       "activities",
       "activities-shoreditch",
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "karaoke"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
+    "sourceCount": 9,
+    "tierSpread": "B5 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -516,6 +517,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 8,
+        "tierSpread": "B5 C3",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -523,6 +530,30 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/restaurants-with-entertainment"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#12 of 14. Private karaoke booths for seven or 14 at Brick Lane; branches in Holborn, Stratford and White City."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/event-party-venues/team-building/best-karaoke-london_9460",
+        "quote": "Dedicated party rooms at four sites, 1-14."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "Booths up to 12 at White City and 14 at Brick Lane, from £5pp off-peak."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "Brick Lane, Holborn, Stratford, White City."
       },
       {
         "tier": "C",
@@ -533,6 +564,18 @@
         "tier": "C",
         "source": "CK Travels",
         "url": "https://www.cktravels.com/london-games-bars-arcades/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "Karaoke rooms at White City and Brick Lane, 'under a tenner per person'."
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Brick Lane."
       }
     ]
   },
@@ -1245,6 +1288,7 @@
     "topics": [
       "activities-shoreditch",
       "dinner-and-a-show",
+      "karaoke",
       "rooftop"
     ],
     "sourceCount": 4,
@@ -1261,6 +1305,12 @@
       "dinner-and-a-show": {
         "sourceCount": 2,
         "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -1542,11 +1592,12 @@
     "name": "Ballie Ballerson",
     "topics": [
       "activities",
-      "activities-shoreditch"
+      "activities-shoreditch",
+      "karaoke"
     ],
-    "sourceCount": 4,
-    "tierSpread": "C4",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B1 C4",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "activities-shoreditch": {
@@ -1560,9 +1611,21 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Listed on the private-rooms and Shoreditch pages."
+      },
       {
         "tier": "C",
         "source": "London x London",
@@ -7577,11 +7640,12 @@
   "rowans": {
     "name": "Rowans",
     "topics": [
-      "activities"
+      "activities",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "activities": {
@@ -7589,24 +7653,49 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#1 of 14 ('Rowans Bowl'). Bowling, slushies and 'a private-ish karaoke booth (glass windows mean everyone can see you, even if they can't hear you)' until the wee hours; there since 1913. 'Best for getting messy'."
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/london-top-activity-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Karaoke rooms for 15 'but we've seen more'."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "'Rowans in Finsbury Park is fun.'"
       }
     ]
   },
   "bloomsburybowlinglanes": {
     "name": "Bloomsbury Bowling Lanes",
     "topics": [
-      "activities"
+      "activities",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B3 C1 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "activities": {
@@ -7614,13 +7703,43 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#10 of 14 ('Bloomsbury Lanes'). Five private karaoke rooms in a basement bowling alley; half price Monday, Tuesday and Sunday."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "#1 on the private-rooms page; from £60 an hour, 8-30 people."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "'A pair of karaoke studios alongside the lanes'; rough-and-ready, 'like a student union circa year 2000'."
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/london-top-activity-bars/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "'Pretty reasonably priced, went for my 30th this year. Does the job.'"
       }
     ]
   },
@@ -7866,11 +7985,12 @@
     "topics": [
       "activities",
       "dinner-and-a-show",
+      "karaoke",
       "speakeasy"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
+    "sourceCount": 15,
+    "tierSpread": "B8 C4 D2 E1",
+    "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "activities": {
@@ -7883,6 +8003,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 14,
+        "tierSpread": "B7 C4 D2 E1",
+        "tierCount": 4,
         "hasAward": false
       },
       "speakeasy": {
@@ -7900,6 +8026,42 @@
       },
       {
         "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#6 of 14. Private 'pods' for four to 12 with a 'thirsty' button; branches in Soho, Holborn, Islington, Liverpool Street and Waterloo. 'Best for a last-minute booking'."
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+        "quote": "'Something of a London institution'; from £16 per person for two hours."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £8pp per hour, two-hour minimum, 4-30 people."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "The writer's first London karaoke was Lucky Voice Soho at a 2005 work party; 'still at the forefront'."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "'London's premiere karaoke bar'; two-hour sessions, rooms up to 30."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "Holborn, Islington, Liverpool Street, Soho, Waterloo."
+      },
+      {
+        "tier": "B",
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/best-secret-bars-london/"
       },
@@ -7907,6 +8069,42 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/london-top-activity-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "Private booths for up to 30 with the 'thirsty' button; four London locations."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Five London venues with neon-lit private rooms and 'Thirsty' buttons; 'a slam dunk for birthdays, work dos, stags and hens'."
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Holborn, Soho and Islington."
+      },
+      {
+        "tier": "D",
+        "source": "Curiously (TikTok)",
+        "url": "https://www.tiktok.com/@curiouslymedia/video/7203693221904518405",
+        "quote": "'Follow us to Lucky Voice's newest karaoke bar in London' - the Waterloo branch, which closed on 6 October 2026."
+      },
+      {
+        "tier": "D",
+        "source": "Caris Nazinda (YouTube)",
+        "url": "https://www.youtube.com/@carisnazinda",
+        "quote": "'Lucky Voice Karaoke London: Is it Worth it?'"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1nkzxef/karaoke_places_in_central_and_east_london_with/",
+        "quote": "Three replies: 'Lucky voice'; 'Lucky Voice by Liverpool St is really good fun' (Feb 2026); 'longest standing karaoke venue in London and loads of locations'. One reply was 'disappointed by their catalogue'."
       }
     ]
   },
@@ -18856,7 +19054,8 @@
       "barbecue",
       "burgers",
       "craft-beer-pubs",
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "karaoke"
     ],
     "sourceCount": 12,
     "tierSpread": "B4 C4 D3 E1",
@@ -18885,6 +19084,12 @@
         "sourceCount": 9,
         "tierSpread": "B4 C2 D2 E1",
         "tierCount": 4,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -19829,16 +20034,23 @@
     "name": "Chung’dam",
     "topics": [
       "barbecue",
+      "karaoke",
       "korean"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B1 C2 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "barbecue": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -19864,6 +20076,12 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/map/korean-restaurants/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/186r1rj/good_chinese_style_karaoke_ktv_places/",
+        "quote": "Named in the same list."
       }
     ]
   },
@@ -34480,10 +34698,11 @@
     "topics": [
       "british",
       "gastropub-food",
+      "karaoke",
       "sunday-roast"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -34499,6 +34718,12 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
       "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
@@ -34511,6 +34736,12 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Listed."
       },
       {
         "tier": "C",
@@ -59074,16 +59305,23 @@
   "leytonstar": {
     "name": "The Leyton Star",
     "topics": [
-      "burgers"
+      "burgers",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "burgers": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -59094,6 +59332,12 @@
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/booze-and-burgers-in-london",
         "quote": "#10"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "Karaoke room above the pub, 116 High Road E15."
       }
     ]
   },
@@ -61921,11 +62165,12 @@
       "chains",
       "dinner-and-a-show",
       "fried-chicken",
-      "ice-cream"
+      "ice-cream",
+      "karaoke"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B5",
-    "tierCount": 1,
+    "sourceCount": 12,
+    "tierSpread": "B8 C3 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "chains": {
@@ -61950,6 +62195,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 9,
+        "tierSpread": "B5 C3 E1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -61979,6 +62230,48 @@
         "tier": "B",
         "source": "Mob",
         "url": "https://www.mob.co.uk/life/best-ice-cream-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+        "quote": "'Bao London' - private karaoke rooms at Borough, Shoreditch, Battersea, City and Marylebone for two to 23; £35 a head minimum spend."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "'Bao Borough' - secret karaoke room for 14 with an off-menu range; also Shoreditch and Battersea."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "'Bao London' - Battersea, Borough, City, Marylebone and Shoreditch."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "'Bao London' - karaoke rooms at the Shoreditch and Borough branches, for up to 12."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Six privately bookable rooms; £35pp minimum spend."
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "'BAO Borough' private KTV room with centre stage and disco lights, special KTV menu, 2-14; also Shoreditch, Battersea, City and Marylebone."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "'The BAO KTV rooms are something like a £40pp minimum spend which you don't mind when the food is that good.'"
       }
     ]
   },
@@ -66092,10 +66385,11 @@
     "name": "Dumplings' Legend",
     "topics": [
       "chinese",
-      "dim-sum"
+      "dim-sum",
+      "karaoke"
     ],
-    "sourceCount": 7,
-    "tierSpread": "A1 B2 C2 D2",
+    "sourceCount": 8,
+    "tierSpread": "A1 B3 C2 D2",
     "tierCount": 4,
     "hasAward": true,
     "byTopic": {
@@ -66110,6 +66404,12 @@
         "tierSpread": "A1 C2 D2",
         "tierCount": 3,
         "hasAward": true
+      },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -66127,6 +66427,12 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown"
+      },
+      {
+        "tier": "B",
+        "source": "MyLondon",
+        "url": "https://www.mylondon.news/news/zone-1-news/chinatown-private-karaoke-experience-you-30572521",
+        "quote": "Four hidden karaoke rooms on the second floor of the Gerrard Street dim sum restaurant, booked for three hours; 'not overly high-tech, but everything works'. (Also posted to MyLondon's TikTok, Jan 2025.)"
       },
       {
         "tier": "C",
@@ -66703,11 +67009,12 @@
     "name": "Plum Valley",
     "topics": [
       "chinese",
-      "dim-sum"
+      "dim-sum",
+      "karaoke"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B4 C3 D1",
-    "tierCount": 3,
+    "sourceCount": 11,
+    "tierSpread": "B5 C4 D1 E1",
+    "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "chinese": {
@@ -66719,6 +67026,12 @@
       "dim-sum": {
         "sourceCount": 5,
         "tierSpread": "B1 C3 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 E1",
         "tierCount": 3,
         "hasAward": false
       }
@@ -66746,6 +67059,12 @@
         "url": "https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
       },
       {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "Cantonese food then private karaoke rooms."
+      },
+      {
         "tier": "C",
         "source": "About Time",
         "url": "https://www.abouttimemagazine.co.uk/food/5-of-the-best-dim-sum-spots-in-chinatown/",
@@ -66763,9 +67082,21 @@
         "quote": "could have the best dim sum in London"
       },
       {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Chinatown, 20 Gerrard Street."
+      },
+      {
         "tier": "D",
         "source": "Shu (YouTube)",
         "url": "https://www.youtube.com/@dejashu"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/AskLondon/comments/11yar44/what_are_some_nice_karaoke_places_in_central/",
+        "quote": "'Plum Valley's rooms are decent and you can order food + drinks. It's in Chinatown'."
       }
     ]
   },
@@ -69297,7 +69628,8 @@
   "jinli": {
     "name": "JinLi",
     "topics": [
-      "chinese"
+      "chinese",
+      "karaoke"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -69305,6 +69637,12 @@
     "hasAward": false,
     "byTopic": {
       "chinese": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -76900,16 +77238,23 @@
   "blondiesbrewery": {
     "name": "Blondies Brewery",
     "topics": [
-      "craft-beer-pubs"
+      "craft-beer-pubs",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 2,
+    "tierSpread": "B1 E1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "craft-beer-pubs": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -76919,6 +77264,12 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/bars-and-pubs/the-best-taprooms-in-london"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1ofn1ci/karaoke_private_room_with_heavy_metal_songs/",
+        "quote": "'Not private but Blondies Brewery and little Blondies both do Karaoke'."
       }
     ]
   },
@@ -78083,16 +78434,23 @@
   "thieves": {
     "name": "The Thieves",
     "topics": [
-      "craft-beer-pubs"
+      "craft-beer-pubs",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
+    "sourceCount": 2,
+    "tierSpread": "B2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "craft-beer-pubs": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -78102,6 +78460,12 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/bars/londons-best-craft-beer-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+        "quote": "Written as 'The Four Thieves', 51 Lavender Gardens SW11 - the pub reopened as The Thieves in October 2025. Private room from £30 an hour for up to 25."
       }
     ]
   },
@@ -81540,11 +81904,12 @@
     "name": "The Black Eel",
     "topics": [
       "craft-beer-pubs",
-      "gastropub-food"
+      "gastropub-food",
+      "karaoke"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "craft-beer-pubs": {
@@ -81558,9 +81923,27 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#3 of 14. Exale Brewery pub in a Grade II-listed former F Cooke pie and mash shop in Dalston; 'a private, leopard-print carpet lined karaoke den' at the top of the building."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pubs-london",
+        "quote": "In the pubs guide, and reviewed 7.9 (Oct 2025): 'a karaoke room upstairs with an aesthetic we're lovingly calling Pat Butcher party girl'."
+      },
       {
         "tier": "C",
         "source": "willhawkes.net",
@@ -85012,17 +85395,24 @@
     "name": "Sebright Arms",
     "topics": [
       "craft-beer-pubs",
+      "karaoke",
       "live-music"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
-    "tierCount": 2,
+    "sourceCount": 4,
+    "tierSpread": "B1 C1 D1 E1",
+    "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "craft-beer-pubs": {
         "sourceCount": 1,
         "tierSpread": "D1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
         "hasAward": false
       },
       "live-music": {
@@ -85034,6 +85424,12 @@
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Listed."
+      },
+      {
         "tier": "C",
         "source": "Pirate",
         "url": "https://pirate.com/en/blog/london-live-music-venues/"
@@ -85042,6 +85438,12 @@
         "tier": "D",
         "source": "Real Ale Craft Beer / Real Ale Guide (YouTube)",
         "url": "https://www.youtube.com/@realaleguide"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+        "quote": "'Sebright Arms every Friday I believe'."
       }
     ]
   },
@@ -87504,11 +87906,12 @@
     "name": "Inamo",
     "topics": [
       "dim-sum",
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "karaoke"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dim-sum": {
@@ -87522,6 +87925,12 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
@@ -87534,6 +87943,12 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Karaoke and gaming rooms at Soho (20) and Covent Garden (35), 90,000 songs."
       }
     ]
   },
@@ -88258,19 +88673,26 @@
     ]
   },
   "exhibit": {
-    "name": "Exhibit",
+    "name": "The Exhibit",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "karaoke"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -88284,6 +88706,24 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "Balham bar of 24 years with a Lucky Voice karaoke suite that doubles as a cinema."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "Karaoke room with 10,000 songs and VIP service, Balham."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Balham; private screening room with a Lucky Voice system, £25-50pp with drinks."
       }
     ]
   },
@@ -89682,17 +90122,24 @@
   "cocktailclub": {
     "name": "The Cocktail Club",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -89701,6 +90148,18 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/whats-on/drag-brunches-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+        "quote": "Shoreditch karaoke room for up to 45; from £20 a head for 90 minutes with a bellini and two cocktails."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Shoreditch karaoke room; packages include a welcome drink and a bartender."
       }
     ]
   },
@@ -92405,17 +92864,24 @@
   "bunga90": {
     "name": "Bunga 90",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 6,
+    "tierSpread": "B3 C3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -92424,6 +92890,36 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#5 of 14. 1990s-themed bar on Drury Lane entered through a Blockbuster-style video shop; two private rooms, a stage in the main bar and a karaoke set-up in the toilet lobby."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "Written as 'Bunga Bunga, Covent Garden' (167 Drury Lane) with nightly karaoke formats - the site relaunched as Bunga 90 in September 2025."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "Written as 'Bunga Bunga', 167 Drury Lane - the same site relaunched as Bunga 90 in September 2025. Singing in front of the whole restaurant, or the private 'Nonna's Attico' room."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Two karaoke rooms behind a fake video store; £79 for up to 8."
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Written as 'Bunga Bunga', 167 Drury Lane - now Bunga 90. Stage karaoke at weekends or the private Nonna's Attico room."
       }
     ]
   },
@@ -93447,7 +93943,8 @@
   "mrsriot": {
     "name": "Mrs Riot",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "karaoke"
     ],
     "sourceCount": 2,
     "tierSpread": "B1 E1",
@@ -93458,6 +93955,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 E1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -108745,17 +109248,24 @@
   "mollymcs": {
     "name": "Molly Mc's",
     "topics": [
-      "gastropub-food"
+      "gastropub-food",
+      "karaoke"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "gastropub-food": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -108764,6 +109274,18 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-london-pubs/"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "'Karaoke isn't just an add-on - it's the main event'; vintage-styled private singing rooms under the arches near Waterloo. (DesignMyNight's YouTube channel also filmed it.)"
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Irish pub at Waterloo with wood-panelled 'singing rooms', each with a SINGA karaoke kit."
       }
     ]
   },
@@ -109267,17 +109789,24 @@
     "name": "Prince of Peckham",
     "topics": [
       "gastropub-food",
+      "karaoke",
       "most-beautiful-pubs"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 E1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "gastropub-food": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
         "hasAward": false
       },
       "most-beautiful-pubs": {
@@ -109289,9 +109818,21 @@
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Room from £50."
+      },
+      {
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/michelin-guide-best-pubs-for-dining-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+        "quote": "'Prince of Peckham, SE15 (r&b, hip hop oriented)'."
       }
     ]
   },
@@ -125348,17 +125889,24 @@
     "name": "Wing Wing",
     "topics": [
       "halal",
+      "karaoke",
       "korean"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "halal": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       },
       "korean": {
@@ -125370,9 +125918,21 @@
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "West End; Korean fried chicken then karaoke, rooms up to 10."
+      },
+      {
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/best-halal-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Tavistock (Woburn Place), up to 10; also a karaoke room on Charing Cross Road."
       }
     ]
   },
@@ -188761,6 +189321,2377 @@
       }
     ]
   },
+  "starbyhackneydowns": {
+    "name": "The Star by Hackney Downs",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#2 of 14. 'A somewhat scruffy but deeply charming pub on the edge of Hackney Downs'; upstairs private karaoke room for up to 15."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "Same entry: 'private karaoke room, which fits up to 15 people'."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "Karaoke room 'sponsored by Lucky Voice' for up to 15."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Private room for 15 by the hour, £49-89."
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Room run by Lucky Voice, up to 15."
+      }
+    ]
+  },
+  "threecoltstavern": {
+    "name": "Three Colts Tavern",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#7 of 14. Exale Brewery pub in Bethnal Green; karaoke room in its private hire party room, the Glue Factory. 'Best for a private party'."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £150 for the room."
+      }
+    ]
+  },
+  "mannionsprincearthur": {
+    "name": "Mannions Prince Arthur",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#8 of 14. Irish pub between Seven Sisters and Tottenham Hale with 'a seriously rowdy Friday night karaoke session' on a raised stage. 'Best for a pub session'."
+      }
+    ]
+  },
+  "stokeykaraoke": {
+    "name": "Stokey Karaoke",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#9 of 14. Independent, private bookings for up to 60; the old Cotton Club basement, still run by the same family."
+      }
+    ]
+  },
+  "oldqueenshead": {
+    "name": "The Old Queen's Head",
+    "topics": [
+      "karaoke",
+      "most-beautiful-pubs",
+      "sunday-roast"
+    ],
+    "sourceCount": 7,
+    "tierSpread": "B3 C3 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 6,
+        "tierSpread": "B3 C3",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "most-beautiful-pubs": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#11 of 14. Karaoke room for up to a dozen above the Essex Road pub, with a personal host."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/event-party-venues/team-building/best-karaoke-london_9460",
+        "quote": "Islington; private room and Playroom, 10-50."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "Angel."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "A karaoke room for 15 with its own host, or the Play Room for 70."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Tiki-styled room for 15 or the Playroom for 70."
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Lucky Chip burgers; karaoke room up to 12 or the Playroom for 70."
+      },
+      {
+        "tier": "D",
+        "source": "Insider Food (YouTube)",
+        "url": "https://www.youtube.com/@InsiderFood"
+      }
+    ]
+  },
+  "starbyliverpoolstreet": {
+    "name": "The Star by Liverpool Street",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 5,
+        "tierSpread": "B3 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#13 of 14. Basement with five themed rooms and two function spaces, The Glam Palace (80) and The Backstage Bar (60)."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "Backstage Bar (60) and Glam Palace (80); from £59 an hour."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "Same entry: bottomless brunch 'and then hit the mics'."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "'Seven different karaoke rooms', a karaoke bottomless brunch, 'over 10,000 songs'."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Six private rooms (Disco, Star, Gold, Jungle, Pink, Backstage) and 20,000 songs; free karaoke Tuesdays and open karaoke."
+      }
+    ]
+  },
+  "karaokebox": {
+    "name": "Karaoke Box",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B2 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/nightlife/best-karaoke-bars-in-london",
+        "quote": "#14 of 14 ('Karaoke Box Smithfield'). Fifteen rooms for four to 25 plus a VIP room. The Smithfield site has since closed; the brand trades in Soho and Mayfair."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Mayfair (private-rooms page) and Soho (Soho page)."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "'One of London's karaoke institutions'; Soho, Mayfair, Smithfield."
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Private rooms, multiple locations."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "'Slightly cheaper than Lucky Voice' - quotes Smithfield (since closed) at £96-£120 an hour for 12."
+      }
+    ]
+  },
+  "starofbethnalgreen": {
+    "name": "The Star of Bethnal Green",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B3 C2 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 6,
+        "tierSpread": "B3 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/event-party-venues/team-building/best-karaoke-london_9460",
+        "quote": "'Powered by the team behind Lucky Voice'; up to 15."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "Visited for the piece: five new themed rooms under the name Karaoke Heaven - Studio 54, Viper, Pink Heart, Wild and Rainbow."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "One entry, 'The Star of...', covering the group's pubs: Bethnal Green's 'solid karaoke room that fits 15 people'."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "'Raucous karaoke nights'; a karaoke room for up to 20 with over 15,000 songs."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Room powered by Lucky Voice, 15,000 songs; £49-139 an hour."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "Booked before; 'I don't remember them being extortionate like Lucky Voice!'"
+      }
+    ]
+  },
+  "lankwaifong": {
+    "name": "Lan Kwai Fong",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "Camden; two private karaoke rooms beside digital beer pong."
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Camden; East Asian food, digital beer pong and karaoke rooms."
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Camden; rooms for 30 and 50."
+      }
+    ]
+  },
+  "batandball": {
+    "name": "Bat & Ball",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Stratford and Covent Garden; private booth £10pp an hour, up to 16."
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/karaoke-bars-london/",
+        "quote": "'The Bat and Ball, Stratford' - private UV karaoke booth for 19, 20,000 songs."
+      }
+    ]
+  },
+  "bamkaraokebox": {
+    "name": "BAM Karaoke Box",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 12,
+    "tierSpread": "B5 C3 D3 E1",
+    "tierCount": 4,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 12,
+        "tierSpread": "B5 C3 D3 E1",
+        "tierCount": 4,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+        "quote": "Opened April 2024 in Victoria; subterranean rooms designed by Brady Williams Studio. 'From £8.50 per person per hour'."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £5pp an hour."
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/event-party-venues/team-building/best-karaoke-london_9460",
+        "quote": "22 uniquely decorated rooms, 4-35 people."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "In the old M Restaurant Victoria space; sumptuously decorated private lounges."
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/whats-on/best-places-karaoke-london-bars-5162168",
+        "quote": "#1 of 6 (numbered, not ranked)."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "22 karaoke rooms for two to 40; 'Europe's largest karaoke venue' by its own billing."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "22 private rooms, karaoke battles on stage; £7.50-14pp, 4-35 people."
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "22 rooms, Bose sound, menu by chef Sabrina Gidda, 4-30."
+      },
+      {
+        "tier": "D",
+        "source": "The Date Connoisseur (TikTok)",
+        "url": "https://www.tiktok.com/@thedateconnoisseur/video/7436471731964988704",
+        "quote": "'Favourite karaoke spot in London' #bamkaraokebox; 58k plays. No disclosure."
+      },
+      {
+        "tier": "D",
+        "source": "Gotnie (YouTube)",
+        "url": "https://www.youtube.com/@gotnie",
+        "quote": "A group of dads' night at BAM Karaoke Box, Victoria."
+      },
+      {
+        "tier": "D",
+        "source": "Praneetha P (YouTube)",
+        "url": "https://www.youtube.com/@praneethap",
+        "quote": "Short filmed at BAM; a second short from a 50th birthday there."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1nkzxef/karaoke_places_in_central_and_east_london_with/",
+        "quote": "'There's a place called BAM karaoke in Victoria that's pretty good'."
+      }
+    ]
+  },
+  "moyagi": {
+    "name": "Moyagi",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "B3 C2 D2 E1",
+    "tierCount": 4,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 8,
+        "tierSpread": "B3 C2 D2 E1",
+        "tierCount": 4,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £20pp."
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "'Red-velvet surroundings, curated Japanese cocktails and a 1920s Tokyo vibe'; 200,000 songs."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "'More akin to a boutique private member's club than a bar'; eight private rooms."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "'Oxford Circus cosplays as Akihabara'; red strip-lit rooms and a shoji-screened Hidden Bar."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Eight private booths off 'one beautifully moody, glowing corridor'; £20pp."
+      },
+      {
+        "tier": "D",
+        "source": "Experience Addict (TikTok)",
+        "url": "https://www.tiktok.com/@experienceaddict/video/7360076220446330144",
+        "quote": "'Opened in March... lots of rooms to choose from with over 150,000 songs'. No disclosure."
+      },
+      {
+        "tier": "D",
+        "source": "Elmira (YouTube)",
+        "url": "https://www.youtube.com/@Elmiravalentina",
+        "quote": "'Price range: £20-£30... you get your own room for the karaoke and can order drinks from the room'; rated 9/10."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1nkzxef/karaoke_places_in_central_and_east_london_with/",
+        "quote": "'Moyagi off of regent street, quite smart and chic inside, private rooms with room service, good song selection' - seconded: 'Drinks are some of the best I've had in London and the staff are amazing'."
+      }
+    ]
+  },
+  "karaokeepoc": {
+    "name": "Karaoke Epoc",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 E1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £8pp an hour."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Japanese, Korean and Mandarin/Cantonese library, banquetted booths, yakitori and citrus highballs - 'as authentic experience as you're going to get on this side of the globe'."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/186r1rj/good_chinese_style_karaoke_ktv_places/",
+        "quote": "'Karaoke Epoc on Brewer Street'."
+      }
+    ]
+  },
+  "boombattlebar": {
+    "name": "Boom Battle Bar",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "The O2; from £7pp an hour."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Boom Box karaoke with over 100,000 songs at its London sites."
+      }
+    ]
+  },
+  "playboxatboxparkcroydon": {
+    "name": "Playbox at Boxpark Croydon",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Touchscreen booths at Boxpark Croydon where you control the lighting as well as the music."
+      }
+    ]
+  },
+  "peckhamlevels": {
+    "name": "Peckham Levels",
+    "topics": [
+      "karaoke",
+      "street-food",
+      "unusual"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "unusual": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £8pp an hour."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Private Japanese-themed karaoke room with 80,000 songs; one- or two-hour slots."
+      },
+      {
+        "tier": "C",
+        "source": "Away to the City",
+        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
+      }
+    ]
+  },
+  "bowstreettavern": {
+    "name": "Bow Street Tavern",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £20pp."
+      },
+      {
+        "tier": "C",
+        "source": "Londonist",
+        "url": "https://londonist.com/london/things-to-do/where-do-karaoke-london",
+        "quote": "Young's pub in Covent Garden; its Records Room holds up to 30."
+      }
+    ]
+  },
+  "oldschoolyard": {
+    "name": "The Old School Yard",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+        "quote": "London Bridge; small room for five to eight, larger for 20; from £100 minimum spend."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Minimum spends from £150."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "The poster's quote: '£200 (minimum drink spend) for 2 hours' for 12; a reply: 'it's OK, but only ever did it cheap with a Groupon'."
+      }
+    ]
+  },
+  "simmons": {
+    "name": "Simmons",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Conde Nast Traveller",
+        "url": "https://www.cntraveller.com/article/karaoke-bars-london",
+        "quote": "Rooms at Euston Square (up to 60) and Soho (15); 'more than 50,000 songs'."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "'One of our most affordable picks'; minimum spends from £5pp."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/TheWestEnd/comments/1j1mj6u/karaoke_with_a_good_selection_of_musicals/",
+        "quote": "'Simmon's in Farringdon is great but you need a big group for the private room'."
+      }
+    ]
+  },
+  "u9karaoke": {
+    "name": "U9 Karaoke",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "From £260 per room."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "'Spacecraft-meets-speakeasy' in Leicester Square, 450,000 songs, East Asian food; from £480 minimum for 15. (The Nudge also ran a members' launch offer at U9.)"
+      }
+    ]
+  },
+  "londonkaraokeclub": {
+    "name": "London Karaoke Club",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Soho; you hire the whole venue, up to 50, from £9.50pp."
+      }
+    ]
+  },
+  "pianokensington": {
+    "name": "Piano Kensington",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Piano bar singalongs - Kensington and Smithfield."
+      }
+    ]
+  },
+  "massaoke": {
+    "name": "Massaoke",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Touring mass-karaoke night with a live band, from £17."
+      }
+    ]
+  },
+  "gospeloke": {
+    "name": "Gospeloke",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/london-karaoke-bars/",
+        "quote": "Weekly at The Blues Kitchen Brixton - karaoke backed by a live gospel choir."
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Karaoke with a 15-strong gospel choir, Brixton."
+      }
+    ]
+  },
+  "organoke": {
+    "name": "Organoke",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/the-best-karaoke-bars-in-london/",
+        "quote": "Mass karaoke with a church organ in Camberwell, a few times a year."
+      }
+    ]
+  },
+  "huckster": {
+    "name": "Huckster",
+    "topics": [
+      "karaoke",
+      "street-food"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Paddington karaoke lounge and private rooms, £10pp for two hours, 4-50."
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Paddington private rooms."
+      }
+    ]
+  },
+  "babylonpark": {
+    "name": "Babylon Park",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Camden family venue; private room for 50."
+      }
+    ]
+  },
+  "colourshoxton": {
+    "name": "Colours Hoxton",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Private room for up to 30, from £150."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "Booked before (same reply)."
+      }
+    ]
+  },
+  "chelseagate": {
+    "name": "The Chelsea Gate",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Karaoke room for five to 30, from £50 an hour."
+      }
+    ]
+  },
+  "foxshoreditch": {
+    "name": "The Fox, Shoreditch",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Shoreditch, 28 Paul Street; room from £60."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1gsa49s/karaoke_room_recommendations/",
+        "quote": "'The Fox Shoreditch' booked before (same reply)."
+      }
+    ]
+  },
+  "cherrye3": {
+    "name": "The Cherry E3",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Mile End, from £5pp an hour."
+      }
+    ]
+  },
+  "tequilamockingbird": {
+    "name": "Tequila Mockingbird",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Wimbledon, from £5pp an hour."
+      }
+    ]
+  },
+  "lostandfound": {
+    "name": "Lost & Found",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Balham; £75 for the room for two hours."
+      }
+    ]
+  },
+  "huskiskilodge": {
+    "name": "Huski Ski Lodge",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Tooley Street; £500 for four hours."
+      }
+    ]
+  },
+  "bolter": {
+    "name": "The Bolter",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "City, from £30pp."
+      }
+    ]
+  },
+  "kerbsocialclub": {
+    "name": "KERB Social Club",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Spitalfields, from £8pp an hour."
+      }
+    ]
+  },
+  "puttputtandkaraoke": {
+    "name": "Putt Putt & Karaoke",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Streatham Hill, minimum spends from £250."
+      }
+    ]
+  },
+  "infernos": {
+    "name": "Infernos",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 3,
+        "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/londons-best-private-karaoke-rooms",
+        "quote": "Clapham, from £55 an hour for the room."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "Clapham; rooms for 15 and 30, bookable 10pm-3am, entry to the club needed."
+      },
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Clapham; rooms bookable 10pm-3am."
+      }
+    ]
+  },
+  "starofkings": {
+    "name": "The Star of Kings",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "King's Cross pub with public karaoke."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+        "quote": "'Star of Kings, kings x'."
+      }
+    ]
+  },
+  "lansdowne": {
+    "name": "The Lansdowne",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Listed."
+      }
+    ]
+  },
+  "luckygoat": {
+    "name": "The Lucky Goat",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Listed."
+      }
+    ]
+  },
+  "blacklionwesthampstead": {
+    "name": "The Black Lion, West Hampstead",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "West Hampstead."
+      }
+    ]
+  },
+  "badhabitsclub": {
+    "name": "Bad Habits Club",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Listed."
+      }
+    ]
+  },
+  "tsqplayhouse": {
+    "name": "TSQ Playhouse",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Covent Garden."
+      },
+      {
+        "tier": "B",
+        "source": "Country & Town House",
+        "url": "https://www.countryandtownhouse.com/culture/londons-best-karaoke-bars/",
+        "quote": "Two private rooms with English, Thai, Chinese, Korean and Japanese songs; set menu required."
+      }
+    ]
+  },
+  "hoxtoncabin": {
+    "name": "Hoxton Cabin",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Listed."
+      }
+    ]
+  },
+  "bloodsports": {
+    "name": "Bloodsports",
+    "topics": [
+      "karaoke",
+      "late-night"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/bars/karaoke-bars-london",
+        "quote": "Listed."
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/the-best-late-night-restaurants-in-london"
+      }
+    ]
+  },
+  "brazenmonkey": {
+    "name": "Brazen Monkey",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Culture Calling",
+        "url": "https://www.culturecalling.com/london/food-and-drink/features/The-Best-Karaoke-Bars-In-London",
+        "quote": "Private karaoke rooms from £25pp, St Martin's Court."
+      }
+    ]
+  },
+  "mthreadneedle": {
+    "name": "M Threadneedle",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Saturday Tokyo Brunch with a karaoke bolt-on, up to 15."
+      }
+    ]
+  },
+  "jihwaja": {
+    "name": "Jihwaja",
+    "topics": [
+      "karaoke",
+      "korean",
+      "late-night"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C1 D1 E1",
+    "tierCount": 4,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C1 D1 E1",
+        "tierCount": 4,
+        "hasAward": false
+      },
+      "korean": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "late-night": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/reviews/jihwaja",
+        "quote": "Rated 7.7. 'A Korean karaoke restaurant in Vauxhall that's open until 3am on weekends for fried chicken and warbling.' 'Here, it's about the karaoke too.'"
+      },
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Written as 'Jiwajah', Vauxhall. Korean tapas; English, Korean, Chinese and Japanese lyrics; rooms from four to 30."
+      },
+      {
+        "tier": "D",
+        "source": "Whatever Charlie (YouTube)",
+        "url": "https://www.youtube.com/@whatevercharlie",
+        "quote": "'A Korean Karaoke Bar and Restaurant near Vauxhall station... The karaoke session was sick'."
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/186r1rj/good_chinese_style_karaoke_ktv_places/",
+        "quote": "'I went to a Korean one in Vauxhall that was good fun. Was called Jihwaja' - named twice."
+      }
+    ]
+  },
+  "sichuanrestaurantandkaraokebar": {
+    "name": "Sichuan Restaurant and Karaoke Bar",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Greenwich Peninsula, Millennium Leisure Park; six private karaoke rooms."
+      }
+    ]
+  },
+  "superstarbbq": {
+    "name": "Superstar BBQ",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Hot Dinners",
+        "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-karaoke-bars-food-drink-restaurants-rooms",
+        "quote": "Holborn, St Giles; wood-clad karaoke room under the Korean restaurant, up to 14, songs in English, Chinese, Korean, Vietnamese and Filipino."
+      }
+    ]
+  },
+  "armyandnavy": {
+    "name": "Army & Navy",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-pubs-london",
+        "quote": "Under 'For Unhinged Karaoke': most Fridays the Dalston boozer pulls down the projector and 'allows anyone who's several pints deep' to sing."
+      }
+    ]
+  },
+  "pickpic": {
+    "name": "Pick Pic",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Urban Adventurer (TikTok)",
+        "url": "https://www.tiktok.com/@urbanadventurerldn/video/7278992026463505696",
+        "quote": "'New Korean photo booth & karaoke opened in Shoreditch', 138 Bethnal Green Road; coin karaoke."
+      }
+    ]
+  },
+  "walthamstowtradeshall": {
+    "name": "Walthamstow Trades Hall",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+        "quote": "'Trades Hall, Walthamstow... a woman with a thick Dublin accent did a word-perfect rendition of Baby Got Back'."
+      }
+    ]
+  },
+  "amershamarms": {
+    "name": "The Amersham Arms",
+    "topics": [
+      "karaoke",
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "live-music": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Pirate",
+        "url": "https://pirate.com/en/blog/london-live-music-venues/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+        "quote": "'Amersham Arms SE14 (pop oriented)'."
+      }
+    ]
+  },
+  "ballsbrothersoldstreet": {
+    "name": "Balls Brothers Old Street",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+        "quote": "Written as 'Balls - Old Street - sometimes empty and you can walk in and have the whole basement to yourself'. Identity unconfirmed."
+      }
+    ]
+  },
+  "devonshirearmscamden": {
+    "name": "The Devonshire Arms, Camden",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1pgk6wv/public_karaoke/",
+        "quote": "'Devonshire Arms - Camden - emo/punkrock focus and great atmosphere'."
+      }
+    ]
+  },
+  "centralstationkingscross": {
+    "name": "Central Station, King's Cross",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1g1gqj3/karaoke_bars_in_london/",
+        "quote": "'Central Station near Kings Cross is a pub that does karaoke on Friday and Saturday nights.'"
+      }
+    ]
+  },
+  "losthourgreenwich": {
+    "name": "The Lost Hour, Greenwich",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1g1gqj3/karaoke_bars_in_london/",
+        "quote": "'The Lost Hour in Greenwich has karaoke every Friday night I think'."
+      }
+    ]
+  },
+  "villagesquarekaraokebar": {
+    "name": "Village Square Karaoke Bar",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1g1gqj3/karaoke_bars_in_london/",
+        "quote": "'Village square karaoke bar in Highgate is a stage karaoke place which is great fun... they've done a lock in'."
+      }
+    ]
+  },
+  "windsorfenchurchstreet": {
+    "name": "The Windsor, Fenchurch Street",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1g1gqj3/karaoke_bars_in_london/",
+        "quote": "'The Windsor Fenchurch does karaoke on Friday nights.'"
+      }
+    ]
+  },
+  "zodiaccamden": {
+    "name": "Zodiac, Camden",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/TheWestEnd/comments/1j1mj6u/karaoke_with_a_good_selection_of_musicals/",
+        "quote": "'Zodiac in Camden is exactly what you're looking for! It has so many musical theatre songs, from Six to Sweeney Todd'."
+      }
+    ]
+  },
+  "galaxyktv": {
+    "name": "Galaxy KTV",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/TheWestEnd/comments/1j1mj6u/karaoke_with_a_good_selection_of_musicals/",
+        "quote": "'Some of the Chinese ones have a connection to YouTube so you can do anything that's been uploaded. E.g. galaxy in Walworth'."
+      }
+    ]
+  },
+  "distillershammersmith": {
+    "name": "The Distillers, Hammersmith",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1p2dcve/karaoke_places_that_let_you_look_things_up_on/",
+        "quote": "'At the Distillers in Hammersmith I was pleasantly surprised by their system... it had it all down to obscure Argentine songs'."
+      }
+    ]
+  },
+  "millerlondonbridge": {
+    "name": "The Miller, London Bridge",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1p2dcve/karaoke_places_that_let_you_look_things_up_on/",
+        "quote": "'Book the downstairs function room at the Miller on Snowfields... you just plug in your own laptop and play tracks including from YouTube.'"
+      }
+    ]
+  },
+  "roebuckborough": {
+    "name": "The Roebuck, Borough",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1b8tud8/karaoke_pubs/",
+        "quote": "'the roebuck, borough'."
+      }
+    ]
+  },
+  "brunelrotherhithe": {
+    "name": "The Brunel, Rotherhithe",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1b8tud8/karaoke_pubs/",
+        "quote": "'The Brunel in Rotherhithe'."
+      }
+    ]
+  },
+  "handinhandbrixton": {
+    "name": "Hand in Hand, Brixton",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1b8tud8/karaoke_pubs/",
+        "quote": "'Hand in Hand off Brixton Hill is a fun night.'"
+      }
+    ]
+  },
+  "whelanssurreyquays": {
+    "name": "Whelans, Surrey Quays",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1b8tud8/karaoke_pubs/",
+        "quote": "'Whelans by surrey quays every Saturday, super cheap as well'."
+      }
+    ]
+  },
+  "belushisshepherdsbush": {
+    "name": "Belushi's Shepherd's Bush",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1b8tud8/karaoke_pubs/",
+        "quote": "'Belushi's in shepherds bush, right outside the station, every Thursday'."
+      }
+    ]
+  },
+  "domanis": {
+    "name": "Domani's",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1b8tud8/karaoke_pubs/",
+        "quote": "'Domani's in Stoke Newington on a MONDAY and a WEDNESDAY - delightful bunch'."
+      }
+    ]
+  },
+  "karaokekissaten": {
+    "name": "Karaoke Kissaten",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/18q9gzv/best_place_in_london_for_karaoke/",
+        "quote": "'Karaoke Kissaten in Soho'."
+      }
+    ]
+  },
+  "georgeshadwell": {
+    "name": "The George, Shadwell",
+    "topics": [
+      "karaoke"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "E1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "karaoke": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/18q9gzv/best_place_in_london_for_karaoke/",
+        "quote": "'The George near Shadwell has karaoke every Thursday which is lively.'"
+      }
+    ]
+  },
   "seoulmatjib": {
     "name": "Seoul Matjib",
     "topics": [
@@ -188818,38 +191749,6 @@
         "tier": "C",
         "source": "Kingston Compass",
         "url": "https://kingstoncompass.com/guides/best-korean-food-new-malden/"
-      }
-    ]
-  },
-  "jihwaja": {
-    "name": "Jihwaja",
-    "topics": [
-      "korean",
-      "late-night"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "korean": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-korean-restaurants-london"
       }
     ]
   },
@@ -190203,31 +193102,6 @@
   },
   "27oldcomptonstreet": {
     "name": "27 Old Compton Street",
-    "topics": [
-      "late-night"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "late-night": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/the-best-late-night-restaurants-in-london"
-      }
-    ]
-  },
-  "bloodsports": {
-    "name": "Bloodsports",
     "topics": [
       "late-night"
     ],
@@ -191638,31 +194512,6 @@
   },
   "goodmixer": {
     "name": "The Good Mixer",
-    "topics": [
-      "live-music"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "live-music": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pirate",
-        "url": "https://pirate.com/en/blog/london-live-music-venues/"
-      }
-    ]
-  },
-  "amershamarms": {
-    "name": "The Amersham Arms",
     "topics": [
       "live-music"
     ],
@@ -195699,13 +198548,13 @@
       "markets"
     ],
     "sourceCount": 6,
-    "tierSpread": "B1 C5",
+    "tierSpread": "B2 C4",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "markets": {
         "sourceCount": 6,
-        "tierSpread": "B1 C5",
+        "tierSpread": "B2 C4",
         "tierCount": 2,
         "hasAward": false
       }
@@ -195715,6 +198564,11 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/news/a-huge-new-food-hall-is-coming-to-tower-bridge-central-london-this-week-100825"
+      },
+      {
+        "tier": "B",
+        "source": "LondonWorld",
+        "url": "https://www.londonworld.com/arts-and-culture/blend-family-unveils-food-partner-line-up-ahead-of-tower-bridge-collective-launch-5320729"
       },
       {
         "tier": "C",
@@ -195730,11 +198584,6 @@
         "tier": "C",
         "source": "restaurantonline.co.uk",
         "url": "https://www.restaurantonline.co.uk/Article/2025/04/09/tower-bridge-collective-food-hall-to-open-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "londonworld.com",
-        "url": "https://www.londonworld.com/arts-and-culture/blend-family-unveils-food-partner-line-up-ahead-of-tower-bridge-collective-launch-5320729"
       },
       {
         "tier": "C",
@@ -202042,43 +204891,6 @@
         "tier": "C",
         "source": "Secret London",
         "url": "https://secretldn.com/prettiest-pubs-london/"
-      }
-    ]
-  },
-  "oldqueenshead": {
-    "name": "The Old Queen's Head",
-    "topics": [
-      "most-beautiful-pubs",
-      "sunday-roast"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "most-beautiful-pubs": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "D1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/prettiest-pubs-london/"
-      },
-      {
-        "tier": "D",
-        "source": "Insider Food (YouTube)",
-        "url": "https://www.youtube.com/@InsiderFood"
       }
     ]
   },
@@ -226024,31 +228836,6 @@
       }
     ]
   },
-  "huckster": {
-    "name": "Huckster",
-    "topics": [
-      "street-food"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "street-food": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
-      }
-    ]
-  },
   "popbrixton": {
     "name": "Pop Brixton",
     "topics": [
@@ -226096,43 +228883,6 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
-      }
-    ]
-  },
-  "peckhamlevels": {
-    "name": "Peckham Levels",
-    "topics": [
-      "street-food",
-      "unusual"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "street-food": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "unusual": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Away to the City",
-        "url": "https://awaytothecity.com/unique-things-to-do-in-london/"
       }
     ]
   },

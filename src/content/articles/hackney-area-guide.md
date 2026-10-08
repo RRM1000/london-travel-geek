@@ -153,6 +153,8 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 | **The Pembury Tavern** | Pub | ££ | Large, family-friendly, good beer near Hackney Central |
 | **Crate Brewery** | Brewery and pizza | ££ | Canal-side at Hackney Wick, with tables on the water |
 
+The Black Eel on Kingsland High Street has a leopard-carpeted karaoke room for 25 at the top of the building, and The Star by Hackney Downs has one for 15; both are in our [karaoke guide](/articles/best-karaoke-london/).
+
 Angelina on Dalston Lane cooks a Japanese-Italian set menu, and Cálong on Stoke Newington Church Street holds a Bib Gourmand for Korean-European cooking. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 ## Getting there

@@ -1,0 +1,64 @@
+{
+  "topic": "karaoke",
+  "article": "src/content/articles/best-karaoke-london.md",
+  "headTerm": "Karaoke",
+  "note": "Built 8 October 2026. SCOPE: places in London where you can sing karaoke - private rooms you book (the main search: 'karaoke london', 'private karaoke rooms london'), karaoke bar-restaurants with KTV rooms (Korean noraebang, Chinese KTV, Japanese-style boxes), and pubs or bars that run open-stage karaoke nights ('best karaoke bars london'). Chains count once per BRAND (Lucky Voice, BAO, Karaoke Box, All Star Lanes, Boom Battle Bar, The Blues Kitchen, Simmons), with branches listed in the entry, following data/topics/chains.json: record the brand, never the group. The Star pubs (Bethnal Green, Hackney Downs, Liverpool Street, Kings) are separately named pubs that sources write up separately, so they are kept apart. Every price, room size, licence and booking rule comes from the operator's own page or booking engine.",
+
+  "noTierA": {
+    "state": true,
+    "explain": "No award body judges karaoke venues anywhere in Britain. The spine is Time Out's ranked 1-14 list (Dec 2025), the only source that publishes an order, with the editorial lists, blogs, video and Reddit around it."
+  },
+
+  "awardBodies": [],
+
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "ranked": true, "note": "'The best karaoke bars in London', Leonie Cooper, 22 Dec 2025, ranked 1-14. Rowans is #1. Its #14, Karaoke Box Smithfield, has since closed." },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "ranked": false, "note": "Four editorial pages (private rooms, karaoke bars, Soho, Shoreditch), all updated Jul-Oct 2026. A booking platform; numbered but recorded unranked. One domain." },
+    { "name": "The Nudge", "domain": "thenudge.com", "ranked": false, "note": "27 Jan 2026, updated 24 Sep 2026. Has a separate 'Karaoke Nights' section (Massaoke, Gospeloke, Organoke). It ran a members' launch offer at U9 - noted in the quote." },
+    { "name": "Londonist", "domain": "londonist.com", "ranked": false, "note": "June 2025. Read by curl this time despite the 'blocked' flag in data/sources.json." },
+    { "name": "Secret London", "domain": "secretldn.com", "ranked": false, "note": "April 2024, numbered 1-12 as a 'rundown'. Its BAM opening-night short is declined (press visit, same publisher)." },
+    { "name": "Conde Nast Traveller", "domain": "cntraveller.com", "ranked": false, "note": "July 2024." },
+    { "name": "SquareMeal", "domain": "squaremeal.co.uk", "ranked": false, "note": "March 2025, with a Chinatown section (Plum Valley, JinLi)." },
+    { "name": "The Sauce", "domain": "thesaucemag.com", "ranked": false, "note": "November 2025; the writer visited The Star of Bethnal Green for the piece." },
+    { "name": "Country & Town House", "domain": "countryandtownhouse.com", "ranked": false, "note": "April 2024." },
+    { "name": "Hot Dinners", "domain": "hot-dinners.com", "ranked": false, "note": "'London's best karaoke restaurants and rooms', April 2024 - the food-led list." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": false, "note": "No karaoke guide. Its pubs guide has a 'For Unhinged Karaoke' slot (Army & Navy), plus reviews of Jihwaja and The Black Eel." },
+    { "name": "LondonWorld", "domain": "londonworld.com", "ranked": false, "note": "October 2025, six entries; one entry covers three Star pubs." },
+    { "name": "MyLondon", "domain": "mylondon.news", "ranked": false, "note": "First-person reviews: Dumplings' Legend (Jan 2025), Mama Shelter (May 2025, now closed)." },
+    { "name": "Culture Calling", "domain": "culturecalling.com", "ranked": false, "note": "October 2023." }
+  ],
+
+  "facetAxis": {
+    "field": "format",
+    "values": [
+      { "key": "private-room", "label": "Private rooms you book", "describeAs": "a soundproofed room for your group alone, booked by the hour or by a two-hour session" },
+      { "key": "ktv", "label": "KTV and noraebang rooms", "describeAs": "the East Asian format: a private room in or beside a restaurant, with food served to the room and songs in Korean, Mandarin, Cantonese and Japanese as well as English" },
+      { "key": "open-stage", "label": "Open-stage nights", "describeAs": "a pub or bar where anyone can put their name down and sing to the whole room" }
+    ]
+  },
+
+  "knownGaps": [
+    "No tier A exists for this topic, and only Time Out publishes a ranked order.",
+    "The Evening Standard's only karaoke round-up found is January 2019 (excluded as too old); its recent karaoke items are news of openings and closures. Hot Dinners' list is April 2024.",
+    "Video is thin: YouTube and TikTok karaoke posts mostly name no venue, and every K Club (Holborn) post found was an agency-invited visit. Ten creator records survive, mostly single-venue.",
+    "Reddit thread 1qjd8ti ('KTV in Chinatown for 2 people', 2026) returned no entries in three attempts and is not recorded.",
+    "Search route: one DuckDuckGo html query per session before a bot wall; Brave Search about four queries before a block; Google News and Bing News RSS for dated items; Reddit .rss a minute apart; TikTok video pages carry caption, author and date in __UNIVERSAL_DATA_FOR_REHYDRATION__, but TikTok discover pages render client-side.",
+    "Prices for BAM, U9 and Karaoke Box are set in booking engines. Karaoke Box's own price API (pages/booking/api/price.php) was read for Soho and Mayfair; BAM's and U9's were not readable, so the guide quotes BAM's published packages and U9's minimum-spend structure only."
+  ],
+
+  "openVenueQuestions": [
+    "ASK ROB - The Black Eel is on the page; Mannions Prince Arthur (Time Out #8, Friday stage karaoke, 158 Broad Lane N15) and Army & Navy (The Infatuation's karaoke pub, 1-3 Matthias Road N16) are NOT, because neither has an operator page that could be found. Both are worth a line in the open-stage section if Rob can supply a site or confirm the nights.",
+    "ASK ROB - Lan Kwai Fong, 27 Chalk Farm Road (three sources: Secret London, Culture Calling, Hot Dinners). Its old domain now points elsewhere and the FSA register has no record under the name, so trading is not established. Left off.",
+    "Stokey Karaoke (Time Out #9) is on the page at the operator's address, 20 Stamford Hill N16 6XZ.",
+    "Karaoke Box - chain recorded once. Smithfield (Time Out #14) ceased trading in the August 2026 restructuring led by PKF Littlejohn; Soho and Mayfair continue. The guide says Smithfield has closed.",
+    "Lucky Voice - chain recorded once. Islington and Waterloo closed on 6 Oct 2026 when Moyagi Group bought the brand out of administration; Soho, Holborn and Liverpool Street transfer to Moyagi. Several sources still list five London sites.",
+    "Bunga Bunga Covent Garden (167 Drury Lane) relaunched as Bunga 90 on 18 Sep 2025; sources that wrote 'Bunga Bunga' at that address are recorded as Bunga 90, with the original wording in the quote. Bunga Bunga Battersea is a separate site and was not recorded.",
+    "The Four Thieves (51 Lavender Gardens SW11) reopened as The Thieves in October 2025 (Hot Dinners); CNT's 'Four Thieves' is recorded as The Thieves.",
+    "Mama Shelter London closed 1 Feb 2026 (already in data/closed.json); its karaoke citations are recorded under that name so they drop out.",
+    "The Karaoke Hole, Dalston, closed January 2026 - added to data/closed.json.",
+    "The Leyton Star, The Star of Kings, The Star of Bethnal Green, The Star by Hackney Downs and The Star by Liverpool Street are one pub group with one karaoke brand (Karaoke Heaven, powered by Lucky Voice). Kept as separate venues because sources write them up separately; DesignMyNight's group-wide 'Karaoke Heaven' listing was not recorded against any one of them.",
+    "Left off the page for want of an operator page or a readable karaoke offer: The Fox (Shoreditch), TSQ Playhouse, Prince of Peckham, Bat & Ball, Inamo, Gospeloke (event, site blocks curl). Each has two sources. ASK ROB if any is wanted.",
+    "K Club Karaoke (51 Parker Street, Holborn) - five TikTok posts, all agency-invited (declined), and no editorial source. Not on the page.",
+    "Dumplings' Legend, JinLi, Galaxy KTV (Walworth), Chungdam - single-source KTV rooms; not given entries."
+  ]
+}

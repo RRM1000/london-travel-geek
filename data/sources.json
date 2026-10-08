@@ -64,6 +64,12 @@
     "substituteCaveats": {}
   },
   "excluded": [
+    "singa.com",
+    "barsforkings.com",
+    "bestinhood.com",
+    "londonguideuk.co.uk",
+    "tootbus.com",
+    "astorhostels.com",
     "opentable.co.uk",
     "wanderlog.com",
     "trip101.com",
@@ -142,6 +148,51 @@
     "youtube.com/@trip_train_"
   ],
   "domains": {
+    "londonworld.com": {
+      "tier": "B",
+      "name": "LondonWorld"
+    },
+    "mylondon.news": {
+      "tier": "B",
+      "name": "MyLondon",
+      "note": "Reach plc's London site. Its TikTok (@itsmylondon) is the same publisher and is not recorded separately."
+    },
+    "tiktok.com/@thedateconnoisseur": {
+      "tier": "D",
+      "name": "The Date Connoisseur (TikTok)"
+    },
+    "tiktok.com/@experienceaddict": {
+      "tier": "D",
+      "name": "Experience Addict (TikTok)"
+    },
+    "tiktok.com/@urbanadventurerldn": {
+      "tier": "D",
+      "name": "Urban Adventurer (TikTok)"
+    },
+    "tiktok.com/@curiouslymedia": {
+      "tier": "D",
+      "name": "Curiously (TikTok)"
+    },
+    "youtube.com/@Elmiravalentina": {
+      "tier": "D",
+      "name": "Elmira (YouTube)"
+    },
+    "youtube.com/@gotnie": {
+      "tier": "D",
+      "name": "Gotnie (YouTube)"
+    },
+    "youtube.com/@praneethap": {
+      "tier": "D",
+      "name": "Praneetha P (YouTube)"
+    },
+    "youtube.com/@whatevercharlie": {
+      "tier": "D",
+      "name": "Whatever Charlie (YouTube)"
+    },
+    "youtube.com/@carisnazinda": {
+      "tier": "D",
+      "name": "Caris Nazinda (YouTube)"
+    },
     "thegoodfoodguide.co.uk": {
       "tier": "A",
       "name": "The Good Food Guide"
@@ -2435,6 +2486,12 @@
     }
   },
   "excludedWhy": {
+    "singa.com": "KARAOKE SUPPLIER (karaoke, 8 Oct 2026): Singa sells karaoke systems and song licences to venues ('Upgrade to Singa Business'), and its list of London rooms includes its own customers. Not independent.",
+    "barsforkings.com": "TEMPLATE CONTENT (karaoke, 8 Oct 2026): 'barsforKings Staff' byline; its London karaoke list names Moth Club, Oslo Hackney and The Windmill, music venues that do not run karaoke.",
+    "bestinhood.com": "AI SEO FARM (karaoke, 8 Oct 2026): invented-looking byline ('Vespera Quill'), a 'How we scored' template rolled across cities, and a matching auto-generated YouTube channel.",
+    "londonguideuk.co.uk": "AI-ORIENTED GUIDE (karaoke, 8 Oct 2026): carries a 'London Guide UK for AI Assistants' page; team byline, no evidence of a visit.",
+    "tootbus.com": "BUSINESS BLOG (karaoke, 8 Oct 2026): a sightseeing-bus operator's content marketing.",
+    "astorhostels.com": "BUSINESS BLOG (karaoke, 8 Oct 2026): a hostel group's 2019 post, three names.",
     "seatandsuite.com": "AI-CITATION-GAMED (hotels-family, 15 Sep 2026): its own methodology scores hotels on a 'LLM Citation Index (35%)' - how often ChatGPT, Claude, Perplexity and Google AI Overviews cite the property - built explicitly, in its own words, 'for humans and the machines they ask'. No named human author ('S+S Editorial'), pre-revenue, versioned pilot methodology. Not a judged award and not a personal opinion; excluded rather than counted as tier A or B.",
     "eurovistatrips.com": "AI SEO FARM (hotels-family, 15 Sep 2026): 'Eurovistatrips Staff' byline, fake vote counts ('4.7/5 - (1027 votes)'), and an identical FAQ-title template repeated for a dozen other cities (Valencia alone has ten near-identical 'Best X Hotels in Valencia with Y' posts). Its London post is tagged Hotels/London/Paris at once.",
     "blog.sothebysrealty.co.uk": "REAL-ESTATE CONTENT MARKETING (hotels-family, 15 Sep 2026): no named author, generic luxury-property copy with no family-specific detail despite the 'Best Family Hotels London' title, published by an estate agency to draw traffic rather than to review anything.",
