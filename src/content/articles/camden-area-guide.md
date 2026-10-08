@@ -161,6 +161,8 @@ West of the High Street, and where Camden stops performing at you. **Inverness S
 
 **Parkway is the one to walk.** It runs from the Tube down toward Regent's Park, and the eating is materially better and cheaper than anything you will find fifty metres east: proper neighbourhood Greek, Italian and Indian rooms, plus **The Dublin Castle**, the pub where Madness got their start and still a small live venue most nights.
 
+Camden's Greek-Cypriot tavernas are a short walk from the High Street: **Andy's Taverna** on Pratt Street, open since 1967, **Daphne** on Bayham Street and **Alexander the Great** on Plender Street, with **Lemonia** up in Primrose Hill. All four are in our [Greek restaurants guide](/articles/best-greek-restaurants-london/).
+
 **This is where to eat if the market has worn you out** — five minutes from the crowds, and you will get a table.
 
 ### Primrose Hill village

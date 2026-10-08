@@ -188,6 +188,8 @@ The point of Fitzrovia. This is a small selection — see the [full restaurant l
 | **Kaffeine** | Coffee | £ | Australian-run, and the food counter is as good as the espresso |
 | **The Attendant** | Coffee | £ | Inside a restored Victorian public lavatory; the urinals are the counter |
 
+Meraki and The Life Goddess are both in our [Greek restaurants guide](/articles/best-greek-restaurants-london/).
+
 ![The dining room at Circolo Popolare, its walls stacked with thousands of bottles under a ceiling of hanging greenery and fairy lights](../../assets/articles/fitzrovia-area-guide/circolo-popolare-room.jpg)
 
 *Circolo Popolare, on Rathbone Place.*

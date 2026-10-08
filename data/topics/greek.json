@@ -1,0 +1,198 @@
+{
+  "topic": "greek",
+  "article": "src/content/articles/best-greek-restaurants-london.md",
+  "headTerm": "Greek restaurants",
+  "status": "collected and written 2026-10-08",
+  "note": "Built 8 October 2026. SCOPE (reviewed): restaurants whose own menu or site presents them as Greek or Greek Cypriot - tavernas, modern Greek, souvlaki and gyros counters, and Greek bakeries only where they work as a place to eat. The Middle Eastern guide used to carry a 'Modern Greek' section built on a four-source Greek corpus from 30 August 2026; that corpus was re-read and extended here, and the Middle Eastern page now points to this one. This page owns the search 'best greek restaurants london'. LANGUAGE: every record in data/consensus/greek.json carries lang 'en' or 'el', so the Greek-language voices can be counted separately.",
+  "awardBodies": [
+    {
+      "name": "MICHELIN Guide (Great Britain & Ireland)",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/gb/en/greater-london/london/restaurants/greek",
+      "note": "There IS a Greek cuisine filter for London, and it holds exactly five restaurants (read 8 Oct 2026, plain curl, no user agent): OMA one star, AGORA Bib Gourmand, Clio, Myrtos and Mazi. Each restaurant page's JSON-LD 'award' carries dateAwarded 2026. Oma's star was first awarded in February 2025 - Michelin's own article calls it London's first Greek MICHELIN star. Kima, Opso and Pyro are not in the London selection under any cuisine (the whole London list, 420 cards over /page/2-9, was read)."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "rolling",
+      "note": "Restaurant pages are server-rendered and readable. sitemap-auto.xml (about 2,490 URLs) carries only two London Greek restaurants: Oma (Very Good) and Agora (Good)."
+    },
+    {
+      "name": "National Restaurant Awards",
+      "domain": "nationalrestaurantawards.co.uk",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/list/1-50",
+      "note": "2026 list (announced 9 June 2026, Bouchon Racine #1): Oma #73 is the only Greek restaurant in the 100."
+    },
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/restaurants/london/greek",
+      "note": "The London Greek heading reads 'View full listings of 0 Greek London Restaurants' - Harden's files its Greek restaurants under other labels (its Oma page says 'Greek-inspired live-fire small plates' with a 2026 Food score of 4). Per the method used on Turkish, Peruvian and fusion, only the cuisine heading is recorded, so Harden's contributes no names. Recorded here so the zero is not mistaken for a fetch failure."
+    },
+    {
+      "name": "British Kebab Awards",
+      "domain": "britishkebabawards.co.uk",
+      "tier": "not counted",
+      "note": "Has a 'Best Greek Restaurant' category (Tony's Pita won three years running to 2023, per MyLondon). NOT tier A for the reasons in data/topics/kosher.json: part public vote, UK-wide. Its past-winners pages (brittradeawards.org/<year>-winners) did not answer on 8 Oct 2026. Use as a dated fact in prose only."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "Ranked 1-17 (the headline says 18), Leonie Cooper, 13 July 2026. Tsiakkos & Charcoal #1, Oma #2. Single-venue reviews recorded for Pyro, Agora and Gaia (four stars each)."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": false,
+      "note": "14 names with 0-10 ratings, updated 30 June 2026. Reviews recorded for Pyro (7.7) and Clio (7.0); Krokodilos (6.8, 'forgettable') declined."
+    },
+    {
+      "name": "Luxury London",
+      "domain": "luxurylondon.co.uk",
+      "ranked": false
+    },
+    {
+      "name": "House & Garden",
+      "domain": "houseandgarden.co.uk",
+      "ranked": false
+    },
+    {
+      "name": "Condé Nast Traveller",
+      "domain": "cntraveller.com",
+      "ranked": false,
+      "note": "A May 2026 feature (only the restaurants the writer ate at are recorded) and Georgina Hayden's 'Where the Chefs Eat' (May 2024) - the only source that sends readers to Nissi in Palmers Green."
+    },
+    {
+      "name": "Stylist",
+      "domain": "stylist.co.uk",
+      "ranked": false
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "ranked": false,
+      "note": "Josh Barrie's 10 Greek and Cypriot (July 2025) plus his Zylia review and a 2023 feature."
+    },
+    {
+      "name": "Eater London",
+      "domain": "london.eater.com",
+      "ranked": false,
+      "note": "October 2020 Greek map and Jonathan Nunn's Palmers Green map (updated March 2022). The deepest Cypriot north London coverage of any source, and the oldest: Vrisaki and Retsina & Mousaka from these lists have since closed."
+    },
+    {
+      "name": "The Guardian",
+      "domain": "theguardian.com",
+      "ranked": false,
+      "note": "Reviews: Oma (2024), Zylia (2026), Krokodilos (2025), Fenix (2026, mixed) by Grace Dent; Tsiakkos & Charcoal (2022) and The Kolossi/Attica (2023) by Jay Rayner. Read from theguardian.com/food/greek-food-and-drink."
+    },
+    {
+      "name": "The London Economic",
+      "domain": "thelondoneconomic.com",
+      "ranked": false
+    },
+    {
+      "name": "MyLondon",
+      "domain": "mylondon.news",
+      "ranked": false
+    },
+    {
+      "name": "SheerLuxe",
+      "domain": "sheerluxe.com",
+      "ranked": false
+    },
+    {
+      "name": "Cookout (SKAI)",
+      "domain": "cookout.skai.gr",
+      "ranked": false,
+      "lang": "el"
+    },
+    {
+      "name": "Athinorama",
+      "domain": "athinorama.gr",
+      "ranked": false,
+      "lang": "el"
+    },
+    {
+      "name": "LiFO",
+      "domain": "lifo.gr",
+      "ranked": false,
+      "lang": "el"
+    },
+    {
+      "name": "Hot Dinners",
+      "domain": "hot-dinners.com",
+      "ranked": false
+    },
+    {
+      "name": "Secret London",
+      "domain": "secretldn.com",
+      "ranked": false
+    },
+    {
+      "name": "London On The Inside",
+      "domain": "londontheinside.com",
+      "ranked": false
+    }
+  ],
+  "facetAxis": {
+    "field": "style",
+    "note": "Greek London splits four ways, and the split decides the evening: a modern Greek dining room in Marylebone or Mayfair, a family taverna that has been in Camden or Bayswater for decades, a Greek-Cypriot restaurant in the north London community around Palmers Green, or a souvlaki and gyros counter. The article is organised on these, with the Palmers Green cluster given its own section because no published ranking captures it.",
+    "values": [
+      {
+        "key": "modern",
+        "label": "Modern Greek",
+        "describeAs": "Greek dishes cooked with restaurant technique, often over fire, with an all-Greek wine list"
+      },
+      {
+        "key": "taverna",
+        "label": "Taverna",
+        "describeAs": "the family-run meze-and-grill restaurant, many of them in business since the 1960s to the 1980s"
+      },
+      {
+        "key": "cypriot",
+        "label": "Greek Cypriot",
+        "describeAs": "Cypriot cooking - sheftalia, kleftiko, halloumi, koupes - from the community that settled in Camden, Bayswater and then north London"
+      },
+      {
+        "key": "souvlaki",
+        "label": "Souvlaki and street food",
+        "describeAs": "pita wraps and skewers from a counter, mostly under £15"
+      }
+    ]
+  },
+  "knownGaps": [
+    "SquareMeal's and The Handbook's Greek lists both answer Cloudflare 403 to curl; neither was read. Both appear high on the SERP.",
+    "TikTok was not collected (login wall to curl, as on earlier passes). James Dimitri, an Instagram creator two Reddit threads recommend for Greek-Cypriot London, could not be read.",
+    "Web search is degraded here: Bing web RSS answers the first word only, DuckDuckGo and Mojeek serve bot challenges, Brave rate-limits at once. The SERP came from Google News RSS (English and Greek editions) plus Bing News RSS. Blog-type independents are therefore thin - most tier-C coverage is Hot Dinners and London On The Inside.",
+    "Greek-language coverage: four of the 36 domains (Cookout/SKAI, Athinorama, LiFO, and the Newspistol YouTube channel). Greek business press (newmoney, mononews) was found but is built on restaurateur interviews and was not recorded.",
+    "Palmers Green is covered by one masthead (Eater London, 2020-2022), one chef's pick (Georgina Hayden, CN Traveller 2024), one Greek-language interview and Reddit. No 2025-2026 list covers it."
+  ],
+  "currentState": {
+    "recorded": "2026-10-08",
+    "sourceRecords": 63,
+    "distinctDomains": 36,
+    "greekLanguageDomains": 4,
+    "englishLanguageDomains": 32,
+    "articleExists": true
+  },
+  "openVenueQuestions": [
+    "Vrisaki, 73 Myddleton Road, Bowes Park - recorded as closed in data/closed.json on the strength of a December 2025 LiFO interview and no FSA record at that address. A Vrisaki Kebab House trades at 240 High Street, Potters Bar (outside London). Whether they are the same business is not established.",
+    "Sophocles Bakery, 24 Camberwell Church Street - named by Eater (2020) and Reddit (January 2025); no FSA record under that name was found on 8 Oct 2026. Left off the page. ASK ROB.",
+    "Santorini, Bayswater (Georgina Hayden's pick, CN Traveller 2024) - no FSA record and no operator page found. Left off the page.",
+    "Zylia: the Restaurants v2 Sheet row places it in Queen's Park; the restaurant is at 6 Bedford Street, Covent Garden WC2E 9HZ. Fix the row.",
+    "Attica - recorded under the name it now trades as at 56-60 Rosebery Avenue (FSA, June 2025); Jay Rayner reviewed it in 2023 as 'The Kolossi/Attica'. Merged on the address.",
+    "Agora (Borough Market souvla bar) and Agora Bakery (308 Wightman Road, Harringay) are different businesses and are deliberately separate names.",
+    "Retsina (Belsize Park, trading) and Retsina & Mousaka (West Ealing, closed) are different businesses.",
+    "1905 Restaurant, 40 Mortimer Street, Fitzrovia - named by two sources (Busayo AD on YouTube, a Reddit reply) and trading (FSA, Dec 2025), but neither names a dish and no operator page was found, so it is left off the page. Athens Voice wrote it up in July 2025 as a Cretan kitchen (title only; the URL could not be resolved). Worth a second look."
+  ]
+}

@@ -398,6 +398,27 @@
       ],
       "source": "https://www.theinfatuation.com/london/reviews/stork",
       "recorded": "2026-10-08"
+    },
+    "vrisaki": {
+      "name": "Vrisaki",
+      "closed": "2025",
+      "detail": "Greek-Cypriot taverna at 73 Myddleton Road, Bowes Park N22, open for about fifty years and famous for its meze. A London-born souvlaki writer told LiFO (26 December 2025) that London had lost its most popular taverna, Vrisaki, that year, and the FSA register no longer carries a Myddleton Road business of that name. A separate Vrisaki Kebab House trades at 240 High Street, Potters Bar EN6 (Hertsmere), outside Greater London. Eater London (2020, 2022) and two Reddit replies (January 2025) name the Bowes Park taverna.",
+      "stillRecommendedBy": [
+        "london.eater.com/maps/best-greek-restaurants-greek-cypriot-food-london",
+        "london.eater.com/maps/best-greek-cypriot-restaurants-palmers-green"
+      ],
+      "source": "https://www.lifo.gr/tropos-zois/gefsi/souvlakination-enas-ellinokyprios-poy-agapaei-poly-soyblaki",
+      "recorded": "2026-10-08"
+    },
+    "retsina and mousaka": {
+      "name": "Retsina & Mousaka",
+      "closed": "2026",
+      "detail": "Greek taverna at 7-8 Culmington Parade, Uxbridge Road, West Ealing W13 9BD. Its operator states: The Restaurant has closed permanently (read 8 October 2026). Not the same business as Retsina in Belsize Park. Eater London (2020) names it.",
+      "stillRecommendedBy": [
+        "london.eater.com/maps/best-greek-restaurants-greek-cypriot-food-london"
+      ],
+      "source": "https://www.retsina.co.uk/",
+      "recorded": "2026-10-08"
     }
   },
   "uncertain": {

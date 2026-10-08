@@ -9,7 +9,9 @@
 // writes "Cited by 2 Turkish sources" and this script holds it to that.
 import fs from "node:fs";
 
-const TOPICS = ["middle-eastern", "turkish", "greek"];
+// Greek moved to its own guide on 8 Oct 2026 (best-greek-restaurants-london.md,
+// checked by verify-greek-citations.mjs); this page now prints no Greek counts.
+const TOPICS = ["middle-eastern", "turkish"];
 const LABEL = { "middle-eastern": "Middle Eastern", turkish: "Turkish", greek: "Greek" };
 const art = fs.readFileSync("src/content/articles/best-middle-eastern-restaurants-london.md", "utf8");
 const ev = JSON.parse(fs.readFileSync("data/evidence.json", "utf8"));

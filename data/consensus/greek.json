@@ -1,33 +1,84 @@
 {
   "cuisine": "greek",
-  "note": "Tier 2, sized at 17 rows - deliberately fewer than the tier 1 cuisines, per sizing in research-playbook.json. SCOPE: Greek and Greek-Cypriot. Oma is already banked from the general-excellence pass. guide.michelin.com is blocked (403) so it is absent by design. Every URL came from a search result.",
-  "recorded": "2026-08-30",
+  "recorded": "2026-10-08",
+  "note": "Rebuilt 8 October 2026 for src/content/articles/best-greek-restaurants-london.md. SCOPE: restaurants whose own menu or site presents them as Greek or Greek Cypriot - tavernas, modern Greek, souvlaki and gyros counters, and Greek bakeries only where they work as a place to eat. The 30 August 2026 pass (four sources, recorded for the Middle Eastern guide) was re-read from scratch: Time Out, The Infatuation and Luxury London re-extracted with quotes, Absolutely declined. LANGUAGE: each record carries lang 'en' or 'el'; Greek-language sources are counted alongside English ones and reported separately. SEARCH ROUTE: Google News RSS (English and Greek editions) and Bing News RSS for the SERP; the Google News link resolver throttled after one run, so later URLs came from Bing News, MSN's syndication API (assets.msn.com/content/view/v2/Detail/el-gr/<id>) for Greek pieces, WordPress REST searches on named sites, and YouTube's own results page. TIER E via Reddit .rss, about a minute apart; every thread shares the one reddit.com domain in the count. Single-venue reviews were recorded only where a masthead's list did not already name the venue or the review adds a judged rating.",
   "sources": [
     {
-      "name": "The Infatuation (Greek)",
-      "url": "https://www.theinfatuation.com/london/guides/best-greek-restaurants-london",
+      "name": "MICHELIN Guide - London selection, cuisine 'Greek' (2026 Great Britain & Ireland)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/greek",
       "scope": "greek",
+      "tier": "A",
+      "lang": "en",
       "names": [
-        "Zylia",
-        "Maza",
-        "Taverna Ermou London",
-        "Andy's Greek Taverna",
         "Oma",
-        "Lagana",
-        "Tsiakkos & Charcoal",
-        "Zephyr",
         "Agora",
-        "Bottarga",
-        "Mazi",
-        "Evi's",
-        "OPSO",
-        "Lemonia"
-      ]
+        "Clio",
+        "Myrtos",
+        "Mazi"
+      ],
+      "dated": "2026-02-09",
+      "ranked": false,
+      "quotes": {
+        "Oma": "ONE MICHELIN STAR, 2026 guide (dateAwarded 2026; first awarded February 2025, the first Greek restaurant in London to hold one). 'Lively, hugely fun restaurant serving thrilling cooking from Greece and beyond... standouts like spanakopita and giouvetsi. The covered terrace overlooks Borough Market.'",
+        "Agora": "BIB GOURMAND, 2026 guide. 'Simple yet brilliantly effective souvla bar... the excellent slow-roast pork souvlaki... make sure you snap up one of the limited bookings or get here for midday when they open.'",
+        "Clio": "Selected, 2026 guide (flagged New). 'A celebration of classic and contemporary Greek cuisine... a deconstructed take on red prawn saganaki to luscious suckling pig.'",
+        "Myrtos": "Selected, 2026 guide. 'An elegant spot with a bright, coastal feel, an eye-catching fresh fish counter... the tirokafteri is a winner... marinated sardines and lamb moussaka.'",
+        "Mazi": "Selected, 2026 guide. 'A real neighbourhood restaurant with a pure Greek heart... the terrifically tender spiced lamb rump... it's hard to look past the loukoumades. A small front terrace and larger rear one.'"
+      },
+      "note": "The London selection filtered to cuisine 'Greek' holds exactly five restaurants, read 8 October 2026 with plain curl and no user agent. Kima, Opso and Pyro are not in the London selection under any cuisine."
     },
     {
-      "name": "Time Out (Greek)",
+      "name": "The Good Food Guide - Oma",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/oma/id/67566",
+      "scope": "greek",
+      "tier": "A",
+      "lang": "en",
+      "names": [
+        "Oma"
+      ],
+      "dated": "2026",
+      "ranked": false,
+      "quotes": {
+        "Oma": "Overall rating: Very Good. 'Dishes that are Greek in spirit but also draw inspiration from the southern sweep of the Mediterranean basin... the standout, by a whisker, proved to be spanakopita gratin... (booking is a must).'"
+      }
+    },
+    {
+      "name": "The Good Food Guide - Agora",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/agora/id/67576",
+      "scope": "greek",
+      "tier": "A",
+      "lang": "en",
+      "names": [
+        "Agora"
+      ],
+      "dated": "2026",
+      "ranked": false,
+      "quotes": {
+        "Agora": "Overall rating: Good. 'Boisterous, no-bookings Agora (be prepared to queue)... a giant souvla rotisserie at the centre... Middle White pork (fired in the souvla with best-in-class crackling)... Prices are kind.'"
+      },
+      "note": "The GFG sitemap (sitemap-auto.xml, about 2,490 URLs) carries no other London Greek restaurant."
+    },
+    {
+      "name": "National Restaurant Awards 2026 - The List 1-100, London Greek entries only",
+      "url": "https://www.nationalrestaurantawards.co.uk/list/1-50",
+      "scope": "greek",
+      "tier": "A",
+      "lang": "en",
+      "names": [
+        "Oma"
+      ],
+      "dated": "2026-06-09",
+      "ranked": true,
+      "quotes": {
+        "Oma": "#73 of 100, National Restaurant Awards 2026 (list announced 9 June 2026, Bouchon Racine #1). The only Greek restaurant on the list."
+      }
+    },
+    {
+      "name": "Time Out - London's best Greek restaurants (ranked)",
       "url": "https://www.timeout.com/london/restaurants/londons-best-greek-restaurants",
       "scope": "greek",
+      "tier": "B",
+      "lang": "en",
       "names": [
         "Tsiakkos & Charcoal",
         "Oma",
@@ -46,42 +97,154 @@
         "The Life Goddess",
         "Suvlaki",
         "Meraki"
-      ]
+      ],
+      "dated": "2026-07-13",
+      "ranked": true,
+      "quotes": {
+        "Tsiakkos & Charcoal": "#1 of 17. 'One of west London's most beloved Greek restaurants... the magical meze menu; £35 a head for everything that's good that day.' Maida Vale.",
+        "Oma": "#2 of 17. 'Greek food is the jumping-off point for a menu that begins on the Ionian islands before skipping off to the Levant... the xo salt cod and labneh dip is mesmeric.' Borough.",
+        "Maza": "#3 of 17, four stars. 'This neo-taverna sprawls across a convivial, low-ceilinged space with conspiratorial, 1970s conversation pit energy.' Mayfair.",
+        "Kima": "#4 of 17, four stars. 'This fin-to-gill Greek seafood restaurant, where you can eat a whole gilt head bream, prepared in a multitude of ways.' Marylebone.",
+        "Daphne": "#5 of 17. 'Family-run, Greek-Cypriot restaurant... three-floor layout... Mini koubes... are crisp and aromatic.' Camden Town.",
+        "Lemonia": "#6 of 17. 'Everything you want from a neighbourhood Greek taverna... great-value weekday lunch specials.' Primrose Hill.",
+        "Zylia": "#7 of 17, four stars. 'This new school taverna... Come for the martini with feta and a selection of mighty hot and cold mezedakia.' Covent Garden.",
+        "Opso": "#8 of 17. 'A modern Greek eatery that doubles as a café, weekend brunch spot, wine bar and bakery.' Marylebone.",
+        "Andy's Taverna": "#9 of 17. 'A local classic with more than 50 years of service... at wallet-friendly prices.' Camden Town.",
+        "Hera": "#10 of 17, four stars. 'A vast dining room with chandeliers... the finest moment - as basic as it sounds - is the Greek salad.' Stratford.",
+        "Peckham Bazaar": "#11 of 17, filed 'Balkan'. 'Hellenic dishes figure prominently... tables on the summertime terrace.' Peckham.",
+        "Aphrodite Taverna": "#12 of 17. 'Happy-go-lucky Greek-Cypriot taverna... Set up by a Cypriot chef and his wife in 1988.' Notting Hill/Bayswater.",
+        "Retsina": "#13 of 17. 'This long-serving Hampstead restaurant... multi-plate meze feasts.' Belsize Park.",
+        "Mazi": "#14 of 17. 'Reinterpreting the Greek classics... feta tempura with lemon marmalade and caper meringue.' Notting Hill.",
+        "The Life Goddess": "#15 of 17. The Soho branch ('Experimental Divine'); 'admirable all-Greek wine list.'",
+        "Suvlaki": "#16 of 17. 'The meat for their souvlaki wraps is threaded on site every day, then cooked over top-quality charcoal.' Soho.",
+        "Meraki": "#17 of 17. 'Nothing beats the wooden trays loaded with mezédes... kopanisti.' Fitzrovia."
+      },
+      "note": "Headline says 18; the page numbers 17 entries. Published 13 July 2026, Leonie Cooper. Ranked (trap 11)."
     },
     {
-      "name": "Absolutely (Greek)",
-      "url": "https://absolutelymagazines.com/best-greek-restaurants-in-london/",
+      "name": "Time Out - Pyro review",
+      "url": "https://www.timeout.com/london/restaurants/pyro",
       "scope": "greek",
+      "tier": "B",
+      "lang": "en",
       "names": [
-        "Contents",
-        "Myrtos",
-        "Pyro",
-        "Andy’s Taverna",
-        "Alexander The Great",
-        "Halepi",
-        "Bacchanalia",
-        "OMA",
-        "KIMA",
-        "Vori",
-        "Lemonia",
-        "Meraki",
-        "Attica",
-        "The Life Goddess",
-        "Mazi",
-        "OPSO",
-        "The Fish and Chips Spots Londoners Swear By",
-        "eat",
-        "Absolutely Magazines",
-        "Topics",
-        "Other Absolutely Titles"
-      ]
+        "Pyro"
+      ],
+      "dated": "2025-07-30",
+      "ranked": false,
+      "quotes": {
+        "Pyro": "Four stars (Andrzej Lukowski, 30 July 2025): 'A modern Greek taverna with a simply massive outdoor terrace.'"
+      }
     },
     {
-      "name": "Luxury London (Greek)",
+      "name": "Time Out - Agora review",
+      "url": "https://www.timeout.com/london/restaurants/agora",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Agora"
+      ],
+      "dated": "2024-07-03",
+      "ranked": false,
+      "quotes": {
+        "Agora": "Four stars (Leonie Cooper, July 2024): 'Ace Athens-inspired dining in Borough Market.'"
+      }
+    },
+    {
+      "name": "Time Out - Gaia review",
+      "url": "https://www.timeout.com/london/restaurants/gaia",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Gaia"
+      ],
+      "dated": "2024-02-08",
+      "ranked": false,
+      "quotes": {
+        "Gaia": "Four stars (James Manning, February 2024). Mayfair."
+      }
+    },
+    {
+      "name": "The Infatuation - The 14 Best Greek Restaurants In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-greek-restaurants-london",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Zylia",
+        "Maza",
+        "Taverna Ermou",
+        "Andy's Taverna",
+        "Oma",
+        "Lagana",
+        "Tsiakkos & Charcoal",
+        "Zephyr",
+        "Agora",
+        "Bottarga",
+        "Mazi",
+        "Evi's",
+        "Opso",
+        "Lemonia"
+      ],
+      "dated": "2026-06-30",
+      "ranked": false,
+      "quotes": {
+        "Zylia": "Rated 8.2. 'Greek-Cypriot in appetite... melting lamb shoulder kleftiko that arrives in a skillet... Bookings open 60 days ahead... a few spaces are held back for walk-ins.'",
+        "Maza": "Rated 8.4. 'Grandmama's Meatballs arrive crisp-edged and excellent. The tender chicken souvlaki is a must.' Bruton Place, Mayfair.",
+        "Taverna Ermou": "Rated 7.7 ('Taverna Ermou London'). 'Excellent spanakopita dip... Stopping by at breakfast for freddo espressos and bougatsa is a must.' James Street, Marylebone.",
+        "Andy's Taverna": "Rated 8.6 ('Andy's Greek Taverna'). 'This old-school Camden restaurant has been going strong since the 60s.'",
+        "Oma": "Rated 8.5. 'A triple threat - good looks, excellent food, fun-loving.'",
+        "Lagana": "Rated 8.4. 'Flatbreads spin in and out of the oven... they hold some tables for walk-ins.' Shoreditch.",
+        "Tsiakkos & Charcoal": "Rated 8.3. 'Order one thing: the House Specialty Meze... one of the best-value [feasts] in London.'",
+        "Zephyr": "Rated in list. 'A late-night drinking den downstairs... whole grilled sea bass with spicy amarillo butter.' Portobello Road.",
+        "Agora": "Rated 8.5. 'This Borough Market souvla bar... is mostly walk-in-only.'",
+        "Bottarga": "Rated 8.3. 'Raw yellowtail or whole grilled sea bass... the low corner seating or heated terrace.' King's Road, Chelsea.",
+        "Mazi": "Rated 8.2. 'Vine-covered terrace... flecks of orzo pasta covered in cheese, with tiger prawns.'",
+        "Evi's": "Rated 8.0. 'Most people stumble into this East Dulwich spot as walk-ins... life-affirming courgette fritters.'",
+        "Opso": "Rated 8.0. 'Salty octopus stew... honey-smothered imported feta... the mousakas.'",
+        "Lemonia": "Rated 7.8. 'Lemony, herby, and homely Greek food... without taking more than £60 quid off you.'"
+      },
+      "note": "Unordered; the 0-10 ratings are not ranks. Updated 30 June 2026, Sinéad Cranna."
+    },
+    {
+      "name": "The Infatuation - Pyro review",
+      "url": "https://www.theinfatuation.com/london/reviews/pyro",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Pyro"
+      ],
+      "dated": "2025-05-01",
+      "ranked": false,
+      "quotes": {
+        "Pyro": "Rated 7.7. 'The dishes at Pyro, a modern Greek spot in London Bridge, are hit and miss, but the garden always hits.'"
+      }
+    },
+    {
+      "name": "The Infatuation - Clio review",
+      "url": "https://www.theinfatuation.com/london/reviews/clio",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Clio"
+      ],
+      "dated": "2026-04-16",
+      "ranked": false,
+      "quotes": {
+        "Clio": "Rated 7.0. 'A modern Greek spot on Marylebone's Chiltern Street.'"
+      }
+    },
+    {
+      "name": "Luxury London - The best Greek restaurants in London",
       "url": "https://luxurylondon.co.uk/taste/food/best-greek-restaurants-london/",
       "scope": "greek",
+      "tier": "B",
+      "lang": "en",
       "names": [
-        "/ Social",
         "Zylia",
         "Pyro",
         "Fenix",
@@ -91,9 +254,1202 @@
         "Meraki",
         "Suzi Tros",
         "Zephyr",
+        "Lemonia"
+      ],
+      "dated": "2026-07-13",
+      "ranked": false,
+      "quotes": {
+        "Zylia": "'London's latest love letter to Greek-Cypriot cuisine... sheftalia... the viral kaimaki ice cream with sour cherries.'",
+        "Pyro": "'Chef Yiannis Mexis (formerly of Hide and The Ledbury)... spanakopita pastel de nata... Baráki courtyard for summer 2026.'",
+        "Fenix": "'Opened in Mayfair in March... the set menu... three courses... just under £40.'",
+        "Vori": "'Founded by brothers Markos, Alexandros and Stefanos Tsimikalis... weekday suvlaki lunch menu... an all-Greek wine list.'",
+        "Kima": "'Fin-to-gill... select fresh fish from the counter display... There is room for just a few diners, so make sure you book.'",
+        "Opso": "'Opened in 2014... it's the brunch menu that caught our attention.'",
+        "Meraki": "'The hero plate... Rosti Greek Style... the on-site nightclub brings the soundtrack.'",
+        "Suzi Tros": "'Inspired by Northern Greek cuisine and the eateries of Thessaloniki... Grandmama's meatballs.'",
+        "Zephyr": "'The crispy potato terrine... strawberry and ouzo sorbet.'",
+        "Lemonia": "Listed, Primrose Hill."
+      },
+      "note": "Amie Elizabeth White, 13 July 2026. Unordered."
+    },
+    {
+      "name": "House & Garden - The best Greek restaurants in London",
+      "url": "https://www.houseandgarden.co.uk/gallery/the-best-greek-restaurants-in-london",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Myrtos",
+        "Kima",
+        "Opso",
+        "Pyro",
+        "Oma"
+      ],
+      "dated": "2025-11-12",
+      "ranked": false,
+      "quotes": {
+        "Myrtos": "'Quietly dazzling... a smoky, undyed taramasalata... A miniature moussaka.'",
+        "Kima": "'A devotion to the sea... a gleaming gilthead bream became the structure of our meal.'",
+        "Opso": "'Brighter, more convivial - communal tables, cocktails, shared plates.'",
+        "Pyro": "'Tucked beneath the railway arches behind Borough Market... Roast lamb over alder wood with anchovy yoghurt.'",
+        "Oma": "Listed."
+      },
+      "note": "Blanche Vaughan, food editor, 12 November 2025."
+    },
+    {
+      "name": "Condé Nast Traveller - How Greek gastronomy is taking London by storm",
+      "url": "https://www.cntraveller.com/article/how-greek-gastronomy-is-taking-london-by-storm-beyond-the-stereotypes",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Pyro",
+        "Maza",
+        "Myrtos",
+        "Taverna Ermou",
+        "Lagana",
+        "Zylia"
+      ],
+      "dated": "2026-05-06",
+      "ranked": false,
+      "quotes": {
+        "Pyro": "Visited: 'barbecued scallop flavoured with sea truffle and XO sauce'.",
+        "Maza": "Visited: 'the maza (the Ancient Greek staple barley bread...) arrives in neat warm, malty ovals'.",
+        "Myrtos": "Visited: 'lobster orzo, boldly tangy taramasalata... attentively seasoned lamb moussaka'.",
+        "Taverna Ermou": "Visited: 'herby meatballs, thick-cut fries, sweet-salty saganaki... galaktoboureko'.",
+        "Lagana": "Visited: 'a succulent, smoke-kissed chicken thigh... prawn saganaki flatbread'.",
+        "Zylia": "'A love letter to the food of Cypriot and Greek immigrants who came to London in the 1970s and 80s.'"
+      },
+      "note": "Toyo Odetunde, 6 May 2026. A feature, not a list; only the restaurants the writer ate at or described are recorded."
+    },
+    {
+      "name": "Condé Nast Traveller - Where the Chefs Eat: Georgina Hayden",
+      "url": "https://www.cntraveller.com/article/where-the-chefs-eat-georgina-hayden",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Nissi",
+        "Opso",
+        "The Life Goddess",
+        "Santorini",
+        "Tsiakkos & Charcoal"
+      ],
+      "dated": "2024-05-03",
+      "ranked": false,
+      "quotes": {
+        "Nissi": "Georgina Hayden: 'A local restaurant in Palmers Green... It's where I take my Yiayia and my kids.' Order the fish mezedakia.",
+        "Opso": "'The brunch at Opso reminded me of [Thessaloniki]... strapasada eggs.'",
+        "The Life Goddess": "'On Store Street... I chose it for their cake and wine.'",
+        "Santorini": "'Near Bayswater and it's a very traditional Greek island restaurant... The prawn saganaki is amazing.'",
+        "Tsiakkos & Charcoal": "'The Mezze is fantastic value for money; it's about £35.'"
+      }
+    },
+    {
+      "name": "Stylist - 8 of the best Greek restaurants in London",
+      "url": "https://www.stylist.co.uk/food-drink/best-greek-restaurants-london/894976",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Taverna Ermou",
+        "Evi's",
+        "Mazi",
+        "Daphne",
+        "Tsiakkos & Charcoal",
+        "Oma",
+        "Zephyr",
+        "Andromeda"
+      ],
+      "dated": "2026-04-10",
+      "ranked": false,
+      "quotes": {
+        "Taverna Ermou": "'Crispy courgette, kataifi tyropita and fried cod.'",
+        "Evi's": "'The ultimate neighbourhood Greek taverna... an exclusively Greek wine list.'",
+        "Mazi": "'Feta tempura with lemon marmalade and a fully vegan set menu.'",
+        "Daphne": "'Family-run since 1984... afelia - tender cubes of pork in red wine.'",
+        "Tsiakkos & Charcoal": "'Lamb kleftiko and grilled halloumi to fresh whole sea bream.'",
+        "Oma": "'Don't leave without trying the deconstructed spanakopita gratin.'",
+        "Zephyr": "'Leave enough room for loukoumades.'",
+        "Andromeda": "'Honoured recipes from a loving Mother back home in Cyprus.' 87-88 Plender St, NW1."
+      },
+      "note": "Dated by Google News to 10 April 2026; the page title still carries '2024'. Unordered."
+    },
+    {
+      "name": "Evening Standard - 10 of the best Greek and Cypriot restaurants in London",
+      "url": "https://www.standard.co.uk/going-out/restaurants/10-of-the-best-greek-and-cypriot-restaurants-in-london-b1239315.html",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
         "Lemonia",
-        "Posts"
-      ]
+        "Opso",
+        "Kima",
+        "Paneri Taverna",
+        "Daphne",
+        "Tsiakkos & Charcoal",
+        "Estiatorio Milos",
+        "Vori",
+        "Peckham Bazaar",
+        "Agora"
+      ],
+      "dated": "2025-07-21",
+      "ranked": false,
+      "quotes": {
+        "Lemonia": "'The set lunch (£19.50 for two decent courses)... superb sheftalia.'",
+        "Opso": "'£32 for a cuttlefish skewer... Bloody good food all the same. Have the spanakorizo.'",
+        "Kima": "'Diners are asked to choose their fish before chefs go away and prepare it, using every part of it.'",
+        "Paneri Taverna": "'Wood Green is a Greek stronghold... classic calamari, top souvla and souvlaki in warm and fluffy pita bread.'",
+        "Daphne": "'In situ since the Fifties... run by the Lymbouri family, in charge since the Eighties.'",
+        "Tsiakkos & Charcoal": "'Ask for a table outside among the old tablecloths and fairy lights.'",
+        "Estiatorio Milos": "'Three courses for £36 is a pretty good offer.' ('Milos', St James's)",
+        "Vori": "'Matsata, a pasta native to [Andros].'",
+        "Peckham Bazaar": "'Though not exclusively Greek... if there's Greek orzo on with shellfish and samphire, order it.'",
+        "Agora": "'Puts garlic yoghurt on its lamb and spiced tomato flatbreads to impeccable effect.'"
+      },
+      "note": "Josh Barrie, 21 July 2025. Unordered."
+    },
+    {
+      "name": "Evening Standard - Zylia review",
+      "url": "https://www.standard.co.uk/going-out/restaurants/zylia-covent-garden-greek-restaurant-review-b1285658.html",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Zylia"
+      ],
+      "dated": "2026-06-11",
+      "ranked": false,
+      "quotes": {
+        "Zylia": "Josh Barrie: 'By Zeus, the spirit of Athens is alive in Covent Garden.' Meal for two about £140."
+      }
+    },
+    {
+      "name": "Evening Standard - Why London is hotting up for Greek cooking",
+      "url": "https://www.standard.co.uk/going-out/restaurants/new-greek-restaurants-london-b1078567.html",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Ino",
+        "Bacchanalia",
+        "Andy's Taverna",
+        "Catalyst Cafe"
+      ],
+      "dated": "2023-05-03",
+      "ranked": false,
+      "quotes": {
+        "Ino": "'Carnaby's lively gastrobar... rich squares of feta over classic salad.'",
+        "Bacchanalia": "'Richard Caring's newish Grecian-cum-Roman orgy of a restaurant... it is rather fun.'",
+        "Andy's Taverna": "'Established in 1967 and is every bit a neighbourhood institution.'",
+        "Catalyst Cafe": "'Hyper-modern [Greek] cooking' - the 2022-23 Mythic Greek kitchen. Recorded as written; Catalyst's Greek kitchen was a residency."
+      }
+    },
+    {
+      "name": "Eater London - Where to Find Incredible Greek and Greek-Cypriot Cooking in London",
+      "url": "https://london.eater.com/maps/best-greek-restaurants-greek-cypriot-food-london",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "The Blue Olive",
+        "Wilton Patisserie",
+        "Alex's Cypriot Sandwiches and Soup",
+        "Dionysus",
+        "Babinondas",
+        "Aroma Patisserie",
+        "Lefteris Bakery",
+        "Paneri Taverna",
+        "Vrisaki",
+        "Retsina",
+        "Tsiakkos & Charcoal",
+        "Aphrodite Taverna",
+        "Retsina & Mousaka",
+        "Sophocles Bakery",
+        "Avenida",
+        "George's Bar and Grill",
+        "Old Bexley Greek Taverna"
+      ],
+      "dated": "2020-10-20",
+      "ranked": false,
+      "quotes": {
+        "The Blue Olive": "Cockfosters. 'Some in the community reckon the souvlaki is the very best.'",
+        "Wilton Patisserie": "Southgate. 'The social epicentre of the area.'",
+        "Alex's Cypriot Sandwiches and Soup": "'A real hole-in-the-wall spot... zestosandoutiz.'",
+        "Dionysus": "Southgate. 'Grilled loukaniko or pastourma and a mixed souvlaki.'",
+        "Babinondas": "'Ask a member of North London's Cypriot community where the most classic taverna is... Babinondas!'",
+        "Aroma Patisserie": "'Perhaps the most legendary Greek Cypriot bakery in London... koupes.'",
+        "Lefteris Bakery": "Palmers Green. 'The sesame-seeded loaf... halloumpita.'",
+        "Paneri Taverna": "'Of all London's souvlatzidiko, Paneri is the one most resembling the experience in Cyprus... the mix kebab.'",
+        "Vrisaki": "'The city's most famous souvlaki.' Myddleton Road, Bowes Park.",
+        "Retsina": "'Arguably the best kleftiko in the whole city.'",
+        "Tsiakkos & Charcoal": "'Its £25 mezze offering' (2020 price).",
+        "Aphrodite Taverna": "'One of London's most beloved Greek tavernas... homemade smoked taramasalata.'",
+        "Retsina & Mousaka": "West Ealing. 'Large, overflowing portions of comfort food.'",
+        "Sophocles Bakery": "Camberwell. 'The sandwiches... lountza and halloumi.'",
+        "Avenida": "Welling. 'Old-school in all the best ways.'",
+        "George's Bar and Grill": "Welling.",
+        "Old Bexley Greek Taverna": "Bexley. 'Rarer dishes from Grecian home-cooking like afelia.'"
+      },
+      "note": "October 2020 - the oldest list in the pass; check every name before use."
+    },
+    {
+      "name": "Eater London - The 10 Best Places to Eat in Palmers Green",
+      "url": "https://london.eater.com/maps/best-greek-cypriot-restaurants-palmers-green",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Aroma Patisserie",
+        "Marina The Greek",
+        "Hugs & Mugs",
+        "Nissi",
+        "Taste of Cyprus",
+        "Lefteris Bakery",
+        "Paneri Taverna",
+        "Hellenic Gourmet",
+        "Vrisaki"
+      ],
+      "dated": "2022-03-28",
+      "ranked": false,
+      "quotes": {
+        "Aroma Patisserie": "'Lounza sandwiches and halloumi village bread.'",
+        "Marina The Greek": "'One of the few Palmers Green restaurants that's mainland Greek rather than Cypriot, Marina does a roaring trade in gyros.'",
+        "Hugs & Mugs": "'A run-of-the-mill cafe... It's only on closer inspection that the masquerade becomes clear.'",
+        "Nissi": "'A Cypriot restaurant that does most of its business from sit-down custom... mezedakia.'",
+        "Taste of Cyprus": "'Already outdoes Aroma and Lefteris on its dessert pastries.'",
+        "Lefteris Bakery": "Listed.",
+        "Paneri Taverna": "Listed.",
+        "Hellenic Gourmet": "Listed.",
+        "Vrisaki": "Listed."
+      },
+      "note": "Jonathan Nunn, updated 28 March 2022. Meat Land Suppliers, a butcher, is on the list and is not recorded."
+    },
+    {
+      "name": "The Guardian - Oma review (Grace Dent)",
+      "url": "https://www.theguardian.com/food/article/2024/may/17/oma-london-se1-grace-dent-difficult-to-resist-restaurant-review",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Oma"
+      ],
+      "dated": "2024-05-17",
+      "ranked": false,
+      "quotes": {
+        "Oma": "'One of the openings of the year... the deconstructed spanakopita, which, frankly, is obscene.'"
+      }
+    },
+    {
+      "name": "The Guardian - Zylia review (Grace Dent)",
+      "url": "https://www.theguardian.com/food/2026/jun/28/zylia-london-wc2-grace-dent-restaurant-review",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Zylia"
+      ],
+      "dated": "2026-06-28",
+      "ranked": false,
+      "quotes": {
+        "Zylia": "'The feel of a family taverna that's already been here for about 62 years... the wild prawn saganaki... is outstanding.'"
+      }
+    },
+    {
+      "name": "The Guardian - Krokodilos review (Grace Dent)",
+      "url": "https://www.theguardian.com/food/2025/jan/31/krokodilos-london-w8-grace-dent-restaurant-review",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Krokodilos"
+      ],
+      "dated": "2025-01-31",
+      "ranked": false,
+      "quotes": {
+        "Krokodilos": "'A very amenable place to spend a couple of hours... Bring a bib, order the saganaki.'"
+      }
+    },
+    {
+      "name": "The Guardian - Tsiakkos & Charcoal review (Jay Rayner)",
+      "url": "https://www.theguardian.com/food/2022/dec/11/jay-rayner-restaurant-review-tsiakkos-and-charcoal-its-just-so-damn-lovely",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Tsiakkos & Charcoal"
+      ],
+      "dated": "2022-12-11",
+      "ranked": false,
+      "quotes": {
+        "Tsiakkos & Charcoal": "'It's just so damn lovely... There's nothing new about this wonderful Greek restaurant in west London, but that's exactly the point.'"
+      }
+    },
+    {
+      "name": "The Guardian - The Kolossi/Attica review (Jay Rayner)",
+      "url": "https://www.theguardian.com/food/2023/apr/16/jay-rayner-restaurant-review-the-kolossi-attica-london-much-better-than-revelatory",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Attica"
+      ],
+      "dated": "2023-04-16",
+      "ranked": false,
+      "quotes": {
+        "Attica": "Reviewed as 'The Kolossi/Attica', Rosebery Avenue: 'It's not revelatory, it's much better than that.'"
+      }
+    },
+    {
+      "name": "The Guardian - Fenix review (Grace Dent)",
+      "url": "https://www.theguardian.com/food/2026/may/24/fenix-london-w1-grace-dent-restaurant-review",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Fenix"
+      ],
+      "dated": "2026-05-24",
+      "ranked": false,
+      "quotes": {
+        "Fenix": "Mixed: 'Big, bright, brash, dumbed down, shameless and open to all' - but 'the tartare is very good indeed'. All-day set menu two courses £34.50."
+      }
+    },
+    {
+      "name": "The London Economic - Estiatorio Milos review",
+      "url": "https://www.thelondoneconomic.com/food-drink/restaurant-review-estiatorio-milos-lower-regent-street-392291/",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Estiatorio Milos"
+      ],
+      "dated": "2025-04-23",
+      "ranked": false,
+      "quotes": {
+        "Estiatorio Milos": "'This wonderful Greek restaurant in St James's brings to mind long lunches of grilled fish before the Aegean Sea.'"
+      }
+    },
+    {
+      "name": "The London Economic - Bottarga review",
+      "url": "https://www.thelondoneconomic.com/food-drink/restaurant-review-bottarga-kings-road-chelsea-388260/",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Bottarga"
+      ],
+      "dated": "2025-01-14",
+      "ranked": false,
+      "quotes": {
+        "Bottarga": "'Shows how Chelsea is being reborn as a dining destination.'"
+      }
+    },
+    {
+      "name": "MyLondon - Tony's Pita",
+      "url": "https://www.mylondon.news/whats-on/food-drink-news/went-londons-best-greek-restaurant-26584723",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Tony's Pita"
+      ],
+      "dated": "2023-04-01",
+      "ranked": false,
+      "quotes": {
+        "Tony's Pita": "Visited. 'For three years Tony's Pita has been the best Greek restaurant in London, according to the British Kebab Awards.' First opened in Swiss Cottage in 2018."
+      }
+    },
+    {
+      "name": "MyLondon - The Souvlaki, Kingston",
+      "url": "https://www.mylondon.news/whats-on/food-drink-news/londons-best-greek-restaurant-even-26927835",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "The Souvlaki"
+      ],
+      "dated": "2023-05-21",
+      "ranked": false,
+      "quotes": {
+        "The Souvlaki": "Kingston. Visited; 'a traditional Greek takeaway... Winning JustEat's 2023 Greater London Takeaway of the Year... chicken gyros wrap and chips.'"
+      }
+    },
+    {
+      "name": "MyLondon - Pittagoras, Tooting",
+      "url": "https://www.mylondon.news/whats-on/reviews/tooting-market-greek-food-london-26398622",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Pittagoras"
+      ],
+      "dated": "2023-03-07",
+      "ranked": false,
+      "quotes": {
+        "Pittagoras": "Tooting Market. 'Some of the best Greek wraps and dishes in London.'"
+      }
+    },
+    {
+      "name": "SheerLuxe - Trend Report: Elevated Greek Restaurants",
+      "url": "https://sheerluxe.com/culture/restaurants-bars/best-greek-restaurant-london",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "en",
+      "names": [
+        "Oma"
+      ],
+      "dated": "2026-04-24",
+      "ranked": false,
+      "quotes": {
+        "Oma": "'SheerLuxe named Greek isle-inspired Oma Best Newcomer in its London Restaurant & Bar Awards [2024].'"
+      },
+      "note": "The rest of the piece is a Q&A with the owners of Pyro, Taverna Ermou, Fenix and Maza - the venues describing themselves - and is not recorded."
+    },
+    {
+      "name": "Cookout (SKAI) - 17 Greek restaurants in London that stand out",
+      "url": "https://cookout.skai.gr/articles/ellinika-estiatoria-sto-londino-pou-ksexorizoun",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "el",
+      "names": [
+        "Andy's Taverna",
+        "Lemonia",
+        "Mazi",
+        "Meraki",
+        "Agora",
+        "Taverna Ermou",
+        "Suzi Tros",
+        "Opso",
+        "Oma",
+        "Myrtos",
+        "Kima",
+        "Estiatorio Milos",
+        "Pyro",
+        "Maza",
+        "Gaia",
+        "Hera",
+        "Lagana"
+      ],
+      "dated": "2026-09-25",
+      "ranked": false,
+      "quotes": {
+        "Andy's Taverna": "'Τα κλασικά' (the classics): 'one of the oldest Greek restaurants in London... since 1967'.",
+        "Lemonia": "The classics; three-course set lunch £19.50 Mon-Fri.",
+        "Mazi": "'One of the restaurants that opened the way for modern Greek cooking in London.'",
+        "Meraki": "'Somewhere between the classic taverna and the modern Greek restaurant... opened in 2017.'",
+        "Agora": "'A souvla bar in Borough Market with an emphasis on grilling and Greek street food.'",
+        "Taverna Ermou": "'The return to the Athenian taverna.'",
+        "Suzi Tros": "'More playful... references to Thessaloniki and northern Greece.'",
+        "Opso": "'Prides itself on the biggest and most varied list of Greek wines in London' (the operator's claim, as reported).",
+        "Oma": "'Perhaps the strongest example of how far Greek cooking has come in London.'",
+        "Myrtos": "'Opened in South Kensington in 2025.'",
+        "Kima": "'Fish and seafood are the starting point.'",
+        "Estiatorio Milos": "'The international, luxury version of Greek gastronomy... opened in 2015 in St James's.'",
+        "Pyro": "'Stories from Greece, retold through fire.'",
+        "Maza": "'Elevated but deeply nostalgic.'",
+        "Gaia": "'Greek cuisine as a luxury restaurant experience... dress code smart elegant.'",
+        "Hera": "'Every last Friday of the month a Greek night with live music.' Stratford.",
+        "Lagana": "'More casual and youthful... lamb sheftalia.' Gives 73 Great Eastern St."
+      },
+      "note": "Greek-language. Amaryllis Tsegkou, 25 September 2026; syndicated to MSN Greece (ar-AA2cWukS), which is where it was read. Sectioned, unordered."
+    },
+    {
+      "name": "Athinorama - London a la grecque: the Premier League of Greek taste",
+      "url": "https://www.athinorama.gr/restaurants/3065775/londino-a-la-grecque-i-premier-league-tis-ellinikis-geusis/",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "el",
+      "names": [
+        "Myrtos",
+        "Oma",
+        "Krokodilos",
+        "Kima",
+        "Agora",
+        "Opso",
+        "Vori",
+        "Bacchanalia",
+        "Peckham Bazaar"
+      ],
+      "dated": "2026-01-17",
+      "ranked": false,
+      "quotes": {
+        "Myrtos": "'Fine comfort... tirokafteri and the other spreads, stifado, spetzofai.'",
+        "Oma": "'Spreads and breads, tuna in various versions, plenty from the charcoal.'",
+        "Krokodilos": "'A large and particularly well-kept Greek restaurant... a tasting of five Greek olive oils.'",
+        "Kima": "'Greek seafood philosophy in the heart of London.'",
+        "Agora": "'A souvla bar with a minimalist philosophy and absolute devotion to technique.'",
+        "Opso": "'One of the first restaurants to present [modern Greek] in London.'",
+        "Vori": "'The main menu, Faros, is a modern approach to the traditional taverna.'",
+        "Bacchanalia": "'Athinagoras Kostakos... from meatballs with smoked yoghurt to slow-cooked lamb with thyme.'",
+        "Peckham Bazaar": "'Courgette fritters with kohlrabi tarator and grilled octopus with potato salad and taramas.'"
+      },
+      "note": "Greek-language. Babis Doukas, 17 January 2026."
+    },
+    {
+      "name": "LiFO - Souvlakination: a Greek Cypriot who loves souvlaki",
+      "url": "https://www.lifo.gr/tropos-zois/gefsi/souvlakination-enas-ellinokyprios-poy-agapaei-poly-soyblaki",
+      "scope": "greek",
+      "tier": "B",
+      "lang": "el",
+      "names": [
+        "Fig Tree Grill"
+      ],
+      "dated": "2025-12-26",
+      "ranked": false,
+      "quotes": {
+        "Fig Tree Grill": "Alexandros Mylonas (Souvlakination), a London-born Greek Cypriot: 'the best place for Cypriot souvlaki and sheftalia in all of England.'"
+      },
+      "note": "Greek-language interview; read via its MSN syndication (ar-AA1T3h2D). The same interview says London 'lost its most popular taverna, Vrisaki' in 2025."
+    },
+    {
+      "name": "Hot Dinners - London's best Greek restaurants",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-greek-restaurants-in-london",
+      "scope": "greek",
+      "tier": "C",
+      "lang": "en",
+      "names": [
+        "Myrtos",
+        "Oma",
+        "Agora",
+        "Pyro",
+        "Opso",
+        "Kima",
+        "Halepi",
+        "Lemonia",
+        "Zephyr",
+        "Andy's Taverna",
+        "Evi's",
+        "Krokodilos",
+        "Mazi",
+        "Vori"
+      ],
+      "dated": "2025-09-11",
+      "ranked": false,
+      "quotes": {
+        "Myrtos": "'His excellent take on lamb moussaka (described as non deconstructed) and the Briam.'",
+        "Oma": "'Arguably the restaurant that properly kicked off London's current obsession with Greek food... the oxtail giouvetsi with bone marrow.'",
+        "Agora": "'Equally worth a visit, particularly for some excellent skewers.' (no-bookings)",
+        "Pyro": "'John Dory cooked on the bone... the spanakopita pastel de nata shouldn't be missed.'",
+        "Opso": "'An all-day spot... get that lamb shank with added truffles.'",
+        "Kima": "'Pick the fish you fancy from their fresh seafood counter.'",
+        "Halepi": "'Here since the Sixties and family-owned, owner Kosta tends to his custom-built grill at the front.'",
+        "Lemonia": "'Drawing the crowds in Primrose Hill since 1979... Vegetarians get a particularly good deal.'",
+        "Zephyr": "'Its subterranean late-night bar... The crudo offering is particularly strong.'",
+        "Andy's Taverna": "'The dolmades and moussaka are both must-orders... the sharing fish mezedes.'",
+        "Evi's": "'Originally started life in street food as Souvlaki Street... Paidakia.'",
+        "Krokodilos": "'The phenomenal wild goat, cooked for 14 hours.'",
+        "Mazi": "'The hidden courtyard terrace here is a real boon.'",
+        "Vori": "'The koulouri with thyme honey butter is unmissable.'"
+      },
+      "note": "Gavin Hanly, 11 September 2025. Unordered."
+    },
+    {
+      "name": "Secret London - Oma",
+      "url": "https://secretldn.com/oma-london-first-greek-michelin-starred-restaurant/",
+      "scope": "greek",
+      "tier": "C",
+      "lang": "en",
+      "names": [
+        "Oma"
+      ],
+      "dated": "2025-06-06",
+      "ranked": false,
+      "quotes": {
+        "Oma": "'London's First Michelin-Starred Greek Restaurant Is Almost Impossible To Book.'"
+      }
+    },
+    {
+      "name": "London On The Inside - Taverna Ermou review",
+      "url": "https://londontheinside.com/taverna-ermou-review-consider-this-your-summer-trip-to-greece-minus-the-non-eu-passport-queues/",
+      "scope": "greek",
+      "tier": "C",
+      "lang": "en",
+      "names": [
+        "Taverna Ermou"
+      ],
+      "dated": "2026-03-25",
+      "ranked": false,
+      "quotes": {
+        "Taverna Ermou": "'Consider this your summer trip to Greece, minus the non-EU passport queues.'"
+      }
+    },
+    {
+      "name": "London On The Inside - Lagana review",
+      "url": "https://londontheinside.com/loti-eats-lagana/",
+      "scope": "greek",
+      "tier": "C",
+      "lang": "en",
+      "names": [
+        "Lagana"
+      ],
+      "dated": "2025-09-10",
+      "ranked": false,
+      "quotes": {
+        "Lagana": "'Get us to the new Greek in Shoreditch!'"
+      }
+    },
+    {
+      "name": "London On The Inside - Wanna go Greek this summer?",
+      "url": "https://londontheinside.com/wanna-go-greek-this-summer-theres-no-need-to-leave-london/",
+      "scope": "greek",
+      "tier": "C",
+      "lang": "en",
+      "names": [
+        "Tsiakkos & Charcoal",
+        "Evi's",
+        "Kima",
+        "Oma",
+        "Agora",
+        "Pyro",
+        "Maza"
+      ],
+      "dated": "2026-04-20",
+      "ranked": false,
+      "quotes": {
+        "Tsiakkos & Charcoal": "'Much-loved for its traditional Greek Cypriot dishes' (and Tsiakkos N1 in Islington since 2023).",
+        "Evi's": "Graduated from Souvlaki Street to bricks and mortar.",
+        "Kima": "'Fish butchery and dry ageing techniques.'",
+        "Oma": "The Borough Market double header.",
+        "Agora": "'A boisterous Athenian street market-inspired spot centred around a souvla rotisserie grill.'",
+        "Pyro": "Opened 2025 in Borough.",
+        "Maza": "'Lamb shoulder from the spit, Grandmama's disco fries... pistachio baklava ice-cream sandwiches.'"
+      },
+      "note": "A trend round-up, 18 March 2026, updated 20 April 2026. Only restaurants the piece describes are recorded."
+    },
+    {
+      "name": "Gary Eats (YouTube)",
+      "url": "https://www.youtube.com/@GaryEats",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Andy's Taverna",
+        "Alexander the Great"
+      ],
+      "dated": "2024-12-09",
+      "ranked": false,
+      "quotes": {
+        "Andy's Taverna": "'The BEST GREEK RESTAURANT I Have Ever REVIEWED!' (12 April 2024, 280k views): 'my first ever 10 star review'.",
+        "Alexander the Great": "'Reviewing a GREEK RESTAURANT' (9 December 2024, 387k views), recommended to him 'a few seconds down the road' from Andy's in Camden."
+      },
+      "note": "A third Gary Eats Greek video (Meat The Greek) is in Guildford and is not recorded. No disclosure on any."
+    },
+    {
+      "name": "BoopFoodie (YouTube)",
+      "url": "https://www.youtube.com/@Boopfoodie",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Oma"
+      ],
+      "dated": "2025-09-23",
+      "ranked": false,
+      "quotes": {
+        "Oma": "'Eating at the UK's only Michelin Star Greek Restaurant' - 'Oma's dips and breads are the star of the show... Don't miss the oxtail giouvetsi.'"
+      }
+    },
+    {
+      "name": "KS ATE HERE (YouTube)",
+      "url": "https://www.youtube.com/@ks_ate_here",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Oma"
+      ],
+      "dated": "2024-05-11",
+      "ranked": false,
+      "quotes": {
+        "Oma": "'London's top new restaurant of 2024? Oma in Borough Market could just be!'"
+      }
+    },
+    {
+      "name": "Busayo AD (YouTube)",
+      "url": "https://www.youtube.com/@Busayo_AD",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "1905 Restaurant",
+        "The Life Goddess"
+      ],
+      "dated": "2025-01-05",
+      "ranked": false,
+      "quotes": {
+        "1905 Restaurant": "'Eating Authentic Greek Food in London' - '1905 Restaurant, 40 Mortimer Street, W1W 7RQ'.",
+        "The Life Goddess": "Same video: '9 Kingly Street, W1B 5PW'."
+      }
+    },
+    {
+      "name": "Dilan Kurt (YouTube)",
+      "url": "https://www.youtube.com/@Dilanalikurt",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Halepi"
+      ],
+      "dated": "2026-02-03",
+      "ranked": false,
+      "quotes": {
+        "Halepi": "With UFC fighter Tuco Tokkos: 'a Greek Cypriot restaurant in central London called Halepi... many people in his family had been going for years.'"
+      }
+    },
+    {
+      "name": "SmearedApron (YouTube)",
+      "url": "https://www.youtube.com/@SmearedApron",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Halepi"
+      ],
+      "dated": "2024-10-06",
+      "ranked": false,
+      "quotes": {
+        "Halepi": "'HALEPI BEST GREEK IN LONDON' - 'Fantastic Greek restaurant in London!'"
+      }
+    },
+    {
+      "name": "Chew The Fat Food Reviews (YouTube)",
+      "url": "https://www.youtube.com/@ChewTheFatFoodReviews",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Paneri Taverna",
+        "Yum-Mees"
+      ],
+      "dated": "2021-02-06",
+      "ranked": false,
+      "quotes": {
+        "Paneri Taverna": "'Kebab Killer Ep. 05: London's best takeaway?' (filmed 14 April 2017) - the mix kebab.",
+        "Yum-Mees": "'Absolutely Greek Wrap At Yum-mees Palmers Green' (February 2021), Devonshire Road."
+      }
+    },
+    {
+      "name": "EATOUTGUIDELONDON (YouTube)",
+      "url": "https://www.youtube.com/@eatoutguidelondon",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Myths and Flames"
+      ],
+      "dated": "2024-12-13",
+      "ranked": false,
+      "quotes": {
+        "Myths and Flames": "'BEST GREEK RESTAURANT IN LONDON? MYTHS AND FLAMES - CAMDEN' - 'good home cooked style Greek Food and very good value for money'."
+      }
+    },
+    {
+      "name": "Newspistol Lebidakis (YouTube)",
+      "url": "https://www.youtube.com/@NewspistolLebidakis",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "el",
+      "names": [
+        "Andy's Taverna"
+      ],
+      "dated": "2022-05-18",
+      "ranked": false,
+      "quotes": {
+        "Andy's Taverna": "Greek-language: 'Το Newspistol Tv στο ANDY'S Greek Taverna στο Λονδίνο'."
+      }
+    },
+    {
+      "name": "Business With Dave (YouTube)",
+      "url": "https://www.youtube.com/@BusinessWithDave",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Agora Bakery"
+      ],
+      "dated": "2022-01-12",
+      "ranked": false,
+      "quotes": {
+        "Agora Bakery": "'My local Greek Bakery Agora in Wood Green... authentic Greek pasties, desserts and amazing coffees... queues are normally out the door' 8.30-10am. 308 Wightman Road, N8."
+      }
+    },
+    {
+      "name": "ChiChu Liu (YouTube)",
+      "url": "https://www.youtube.com/@ChiChuLiu",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Daphne"
+      ],
+      "dated": "2023-10-08",
+      "ranked": false,
+      "quotes": {
+        "Daphne": "'A lovely Greek Restaurant in Camden Town NW1' (visited 27 September 2023)."
+      }
+    },
+    {
+      "name": "Travel Doll (YouTube)",
+      "url": "https://www.youtube.com/@TravelDoll",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Pure Cyprus"
+      ],
+      "dated": "2019-06-30",
+      "ranked": false,
+      "quotes": {
+        "Pure Cyprus": "'One of my favourites places to eat Greek/Cypriot food in London. Just off the Fonthill Road shopping street.' Finsbury Park."
+      }
+    },
+    {
+      "name": "Greekosophy (YouTube)",
+      "url": "https://www.youtube.com/@Greekosophy",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Koutoukaki Souvlaki"
+      ],
+      "dated": "2022-09-27",
+      "ranked": false,
+      "quotes": {
+        "Koutoukaki Souvlaki": "Greek channel: 'We think we have found the best Greek pork souvlaki in London!'"
+      }
+    },
+    {
+      "name": "Bites of Belonging (YouTube)",
+      "url": "https://www.youtube.com/@BitesOfBelonging",
+      "scope": "greek",
+      "tier": "D",
+      "lang": "en",
+      "names": [
+        "Tsiakkos & Charcoal"
+      ],
+      "dated": "2025-06-03",
+      "ranked": false,
+      "quotes": {
+        "Tsiakkos & Charcoal": "A short documentary on Elena and 'one of London's most beloved family-run Cypriot restaurants'."
+      },
+      "note": "A Zurich University of the Arts bachelor thesis film, 205 views. No disclosure."
+    },
+    {
+      "name": "Reddit r/LondonFood - Best Greek in London",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1s801ht/best_greek_in_london/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Andy's Taverna",
+        "Lemonia",
+        "Taverna Ermou",
+        "Mazi",
+        "Suzi Tros",
+        "Vori",
+        "Kima",
+        "Attica",
+        "Tsiakkos & Charcoal",
+        "Evi's",
+        "Uncle Tony's",
+        "Dionysus",
+        "Deserie",
+        "The Life Goddess",
+        "Yayaka",
+        "Oma",
+        "Opso",
+        "Nostimo",
+        "Maza"
+      ],
+      "dated": "2026-03-30",
+      "ranked": false,
+      "quotes": {
+        "Andy's Taverna": "Top answer, 'Andys in Camden', backed by seven replies: 'stalwart of the Greek community in Camden'; 'Lunch menu FTW!'; 'THE GRILLED LAMB'.",
+        "Lemonia": "'Family run Greek, local favourite (lots of families go)' - one reply says it has 'gone downhill massively'.",
+        "Taverna Ermou": "'Has just opened and is getting a lot of buzz (outpost of a large group in Athens).'",
+        "Mazi": "Named for a more modern style.",
+        "Suzi Tros": "Named for a more modern style.",
+        "Vori": "Named for a more modern style.",
+        "Kima": "'Worth checking out for more modern style'; another: 'My favourite though remains Oma, followed by Opso and Kima.'",
+        "Attica": "'A classic'; 'Love Attica / Exmouth Market'.",
+        "Tsiakkos & Charcoal": "'If you're after great Greek Cypriot food Tsiakkos and Charcoal is the way to go.'",
+        "Evi's": "'I love Evi's, a very good neighbourhood spot'; 'Evi's is so so good'.",
+        "Uncle Tony's": "'Uncle Tony's in Finchley Central'.",
+        "Dionysus": "'An authentic Greek Souvlaki House' in Southgate.",
+        "Deserie": "'If you want more up-scale try Deserie in Cockfosters.'",
+        "The Life Goddess": "'On Store St in Fitzrovia. They've got a killer wine list, over 100 Greek wines.'",
+        "Yayaka": "'Yayaka in Ealing is a decent shout.'",
+        "Oma": "'Oma is so nice tho'; 'My favourite though remains Oma.' (The same thread carries a warning that Oma, Agora, Zephyr, Bottarga and Lagana are Greek-inspired rather than Greek.)",
+        "Opso": "'Followed by Opso and Kima.'",
+        "Nostimo": "'I love Nostimo, in the Brunswick centre. Never had a bad meal there.'",
+        "Maza": "'The Mazi team have just opened a second location in Mayfair called Maza.'"
+      }
+    },
+    {
+      "name": "Reddit r/london - Greek/Cypriot Taverna",
+      "url": "https://www.reddit.com/r/london/comments/1wv53v2/greekcypriot_taverna/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Lemonia",
+        "Andy's Taverna",
+        "Daphne",
+        "Alexander the Great",
+        "Tsiakkos & Charcoal",
+        "Paneri Taverna"
+      ],
+      "dated": "2026-10-01",
+      "ranked": false,
+      "quotes": {
+        "Lemonia": "'Lemonia Primrose Hill is a local institution.'",
+        "Andy's Taverna": "'Camden is full of smaller places like Andy's, Daphnes, Alexander the Great.'",
+        "Daphne": "'Daphne in Camden is quite good... I believe the owners are Cypriot.'",
+        "Alexander the Great": "Named for Camden.",
+        "Tsiakkos & Charcoal": "'A proper Cypriot place would be Tsiakkos in Maida Vale... you book ahead!'",
+        "Paneri Taverna": "Named by a single reply."
+      }
+    },
+    {
+      "name": "Reddit r/london - Greek restaurants in London",
+      "url": "https://www.reddit.com/r/london/comments/1htp1nb/greek_restaurants_in_london/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Agora",
+        "Oma",
+        "Alexander the Great",
+        "Lemonia",
+        "Retsina",
+        "The Vineyard",
+        "Sophocles Bakery",
+        "Evi's",
+        "Vrisaki",
+        "Andy's Taverna",
+        "Halepi",
+        "Aphrodite Taverna",
+        "Tsiakkos & Charcoal",
+        "Tony's Pita",
+        "Mazi",
+        "Suzi Tros",
+        "Zephyr",
+        "Pittagoras",
+        "1905 Restaurant",
+        "Nostimo",
+        "Tavernaki Portobello",
+        "The Souvlaki",
+        "Daphne",
+        "Four Lanterns",
+        "Little Greece",
+        "Nonos",
+        "Kouzina Express",
+        "Meze NW6",
+        "Estiatorio Milos",
+        "Holy Pitta",
+        "Theo's Kitchen"
+      ],
+      "dated": "2025-01-04",
+      "ranked": false,
+      "quotes": {
+        "Agora": "'Agora in borough market or Oma which is above it.'",
+        "Oma": "Mixed: 'pretentious and expensive' against 'The dips and small plates were exceptional'.",
+        "Alexander the Great": "'Where my Greek coworkers took me and it was fantastic! The mixed mezze are great for a group.'",
+        "Lemonia": "Recommended twice and called 'terribly overrated' once ('£25.50' for three sheftalia).",
+        "Retsina": "'Retsina in Belsize Park'.",
+        "The Vineyard": "'The Vineyard, Camberwell. Family institute since 1974.'",
+        "Sophocles Bakery": "'Bonus points for heading to Sophocles bakery.'",
+        "Evi's": "Named twice ('Evi's in East Dulwich').",
+        "Vrisaki": "'Vrisaki in Palmers Green' - named twice in January 2025, before it closed.",
+        "Andy's Taverna": "'Great. Been there a few times and never disappoints'; 'Andys is the one!!!'",
+        "Halepi": "'Book in advanced because it gets packed on evenings.'",
+        "Aphrodite Taverna": "'Aphrodite Taverna in Bayswater'.",
+        "Tsiakkos & Charcoal": "'For fun night out with good food.'",
+        "Tony's Pita": "'Tonys Pita Bar in Ealing for cheap takeaway (souvlaki wraps etc)'.",
+        "Mazi": "'Mazi, Suzi Tros, and Zephyr are all good.'",
+        "Suzi Tros": "As above.",
+        "Zephyr": "As above; 'Zephyr Notting Hill'.",
+        "Pittagoras": "'Pittagoras in Tooting Market, by far the best gyro I've had.'",
+        "1905 Restaurant": "'1905 in Great Portland Street... family run so when you go downstairs and see some Greek aunties cooking.'",
+        "Nostimo": "'I like Nostimo in Bloomsbury. Great gigantes.'",
+        "Tavernaki Portobello": "'Tavernaki Portobello in Notting Hill... top notch'.",
+        "The Souvlaki": "'The souvlaki Kingston Upon Thames super yummy'.",
+        "Daphne": "'Daphne was great, very friendly and knowledgeable server.'",
+        "Four Lanterns": "'Four Lanterns on Cleveland Street. Small but lovely place, authentic food.'",
+        "Little Greece": "'One of my favourite lunches on the triangle' (Crystal Palace).",
+        "Nonos": "'Nonos on Judd street near Kings Cross is really nice.'",
+        "Kouzina Express": "'Authentic Cypriot Souvlakia' (a reply in a 2026 thread says Kouzina has changed hands).",
+        "Meze NW6": "'Meze NW6 is really good.'",
+        "Estiatorio Milos": "'Milos at st James'.",
+        "Holy Pitta": "'Holy Pitta in Angel (expensive tho)'.",
+        "Theo's Kitchen": "'Theo's kitchen in Muswell hill'."
+      }
+    },
+    {
+      "name": "Reddit r/LondonFood - Best Greek Food",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1m3sfv2/best_greek_food/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Lemonia",
+        "Alexander the Great",
+        "Halepi",
+        "Andy's Taverna",
+        "Oma",
+        "Agora",
+        "Tsiakkos & Charcoal",
+        "Daphne",
+        "The Life Goddess",
+        "Nostimo",
+        "Opso",
+        "Leon's Greek Kitchen",
+        "Zephyr",
+        "Retsina"
+      ],
+      "dated": "2025-07-19",
+      "ranked": false,
+      "quotes": {
+        "Lemonia": "'Lemonia in Primrose Hill.' - 'Literally having dinner there tonight! Excellent.'",
+        "Alexander the Great": "'Popular and very good.'",
+        "Halepi": "'Homely and hearty although more Cypriot.'",
+        "Andy's Taverna": "'Or Andy's!'",
+        "Oma": "'If you want somewhere fancy.'",
+        "Agora": "'Walk in only so prob more likely to get in tonight if you're up for queuing or going early.'",
+        "Tsiakkos & Charcoal": "'Tsiakkos in Maida Vale is the only answer.'",
+        "Daphne": "In a list of four.",
+        "The Life Goddess": "'I really enjoyed Life Goddess on store street.'",
+        "Nostimo": "'More casual nearby place is Nostimo.'",
+        "Opso": "'A place in Marylebone called Opso thats very good.'",
+        "Leon's Greek Kitchen": "'Hawley Wharf in Camden Market has a stall called Leon's Greek Kitchen thats very good.'",
+        "Zephyr": "'Zephyr on portobello road is killer.'",
+        "Retsina": "'Retsina in Belsize Park'."
+      },
+      "note": "The same thread records that Hungry Donkey has closed and its owners opened Vori."
+    },
+    {
+      "name": "Reddit r/LondonFood - Suvlaki vs The Real Greek",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1tjitp5/suvulaki_vs_the_real_greek_which_is_better/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Suvlaki"
+      ],
+      "dated": "2026-05-21",
+      "ranked": false,
+      "quotes": {
+        "Suvlaki": "'Suvlaki, definitely... Suvlaki is leagues better' than The Real Greek, Soho."
+      }
+    },
+    {
+      "name": "Reddit r/LondonFood - Greeks or Turkish recommendations",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1sz6fpo/greeks_or_turkish_recommendations/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Mazi",
+        "Suzi Tros",
+        "Pyro"
+      ],
+      "dated": "2026-04-29",
+      "ranked": false,
+      "quotes": {
+        "Mazi": "'Mazi or Suzi Tros for Greek food are very nice.'",
+        "Suzi Tros": "As above.",
+        "Pyro": "'Pyro, it was excellent but on the pricy side.'"
+      }
+    },
+    {
+      "name": "Reddit r/london - Best sheftalia in London?",
+      "url": "https://www.reddit.com/r/london/comments/1ljhsk7/best_sheftalia_in_london/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Alexander the Great",
+        "Andy's Taverna"
+      ],
+      "dated": "2025-06-25",
+      "ranked": false,
+      "quotes": {
+        "Alexander the Great": "Sheftalia, '8 Plender St, NW1 0JT'.",
+        "Andy's Taverna": "'Comes as part of a mixed souvlaki but I'm sure you can ask for it separate.'"
+      },
+      "note": "Also names Gig's (a Fitzrovia fish and chip shop) and a Vrisaki in Potters Bar, outside Greater London; neither recorded."
+    },
+    {
+      "name": "Reddit r/LondonFood - Best budget restaurants in Camden Town?",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1wgnuz7/best_budget_restaurants_in_camden_town/",
+      "scope": "greek",
+      "tier": "E",
+      "lang": "en",
+      "names": [
+        "Andy's Taverna",
+        "Alexander the Great",
+        "Daphne"
+      ],
+      "dated": "2026-09-15",
+      "ranked": false,
+      "quotes": {
+        "Andy's Taverna": "'Andy's is shockingly good value and always incredibly tasty. I also like the intimate energy of the restaurant.'",
+        "Alexander the Great": "'There are a couple of nice Greek places - Alexander The Great, Daphne's... not super budget, but great local gems.'",
+        "Daphne": "As above."
+      }
+    }
+  ],
+  "declined": [
+    {
+      "source": "Absolutely - 15 Best Greek Restaurants in London (2026 Updated)",
+      "url": "https://absolutelymagazines.com/best-greek-restaurants-in-london/",
+      "why": "An SEO template, not a visit: every entry is built on a 'Google Rating' line and keyword phrasing ('earning its place among London's best-rated Greek restaurants'), with no dish ordered on a day, no price and no date of visit. Recorded in the 30 Aug 2026 pass with navigation names; removed on 8 Oct 2026."
+    },
+    {
+      "source": "London x London - 10 Greek Restaurants in London You Need to Visit",
+      "url": "https://www.londonxlondon.com/greek-restaurants-london/",
+      "why": "May 2022, written around Instagram embeds with no evidence of a visit ('Our mouths are watering just thinking about'); lists The Real Greek chain and Hungry Donkey, which has since closed."
+    },
+    {
+      "source": "Michaels Bites (YouTube) - Reviewing Andys Greek Taverna",
+      "url": "https://www.youtube.com/watch?v=YDyEL4SGgaU",
+      "why": "A negative verdict ('I was extremely disappointed with my experience', 31 May 2024). Not a recommendation, so not a citation; it can be quoted as dissent."
+    },
+    {
+      "source": "Appetite (YouTube) - Zephyr 'Secret Sauce'",
+      "url": "https://www.youtube.com/watch?v=efstp6i5rDI",
+      "why": "A dining app's promotional kitchen film with the head chef; the venue presenting itself."
+    },
+    {
+      "source": "Inside Kitchen London (YouTube) - Meraki",
+      "url": "https://www.youtube.com/watch?v=vXWFqAYy3uk",
+      "why": "A behind-the-scenes production shot in the kitchen with the venue's cooperation; no verdict."
+    },
+    {
+      "source": "RestroSpot (YouTube) - Top 10 Best Greek Restaurants in London",
+      "url": "https://www.youtube.com/watch?v=jq7YoB8hLdA",
+      "why": "A stock-footage compilation with a fair-use disclaimer; no visit."
+    },
+    {
+      "source": "The Infatuation - Krokodilos review",
+      "url": "https://www.theinfatuation.com/london/reviews/krokodilos",
+      "why": "Rated 6.8, headlined 'a forgettable Greek restaurant in Kensington'. A negative verdict."
+    },
+    {
+      "source": "Tony's Pita (YouTube) promotional reels",
+      "url": "https://www.youtube.com/@tonyspita3901",
+      "why": "The venue's own channel (tier F)."
+    },
+    {
+      "source": "SquareMeal - Best Greek restaurants in London",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-greek-restaurants-london_9360",
+      "why": "Cloudflare 403 to curl on 8 Oct 2026; not read, not recorded."
+    },
+    {
+      "source": "The Handbook - These Are The Best Greek Restaurants In London",
+      "url": "https://www.thehandbook.com/greek-restaurants-london/",
+      "why": "Cloudflare 403 to curl on 8 Oct 2026; not read, not recorded."
     }
   ]
 }

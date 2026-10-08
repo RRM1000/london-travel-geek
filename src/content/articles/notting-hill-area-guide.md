@@ -181,6 +181,8 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 Los Mochis on Farmer Street pairs Mexican and Japanese food, and Fan on Chepstow Road serves a Japanese-Peruvian-Cantonese tasting menu. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
+Mazi and Suzi Tros share Hillgate Street, Zephyr is on Portobello Road, and Aphrodite Taverna has been on Hereford Road since 1988; all four are in our [Greek restaurants guide](/articles/best-greek-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** Notting Hill Gate sits on the Central, District and Circle lines. The Central line is the fastest from the West End — about eight minutes from Oxford Circus. For the northern end of the market, stay on to **Ladbroke Grove** (Circle and Hammersmith & City) instead and walk south down Portobello Road, which puts you at the vintage end first and lets the crowds thin as you go.
