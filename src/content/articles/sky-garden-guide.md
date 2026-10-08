@@ -126,11 +126,11 @@ The windows look three ways. North and east you get the City cluster close up: t
 
 *Tower Bridge and the Tower of London from the Sky Garden. Photo: [amandabhslater](https://commons.wikimedia.org/wiki/File:Tower_Bridge_Sky_Garden.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**The terrace** is outside the glass, behind a glass balustrade, looking over the river and west along the Thames. It is the only open air at the Sky Garden and opens 10:00 to 18:00 on weekdays and 11:00 to 18:00 at weekends, so on a weekend evening you watch the sunset through the glass. The bars, the terrace and the garden are naturally ventilated, which means they are roughly as warm or cold as the street: dress for outdoors. Only the two restaurants are heated.
+**The terrace** is outside the glass, behind a glass balustrade, looking out over the river. It is the only open air at the Sky Garden and opens 10:00 to 18:00 on weekdays and 11:00 to 18:00 at weekends, so on a weekend evening you watch the sunset through the glass. The bars, the terrace and the garden are naturally ventilated, which means they are roughly as warm or cold as the street: dress for outdoors. Only the two restaurants are heated.
 
 ![Visitors on the open-air terrace behind a glass balustrade, the Thames and the towers of Blackfriars below a cloudy sky](../../assets/articles/sky-garden-guide/sky-garden-terrace.jpg)
 
-*The open-air terrace, looking west along the river. Photo: [Daniel from Glasgow](https://commons.wikimedia.org/wiki/File:The_Sky_Garden_in_London_(49071040517).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+*The open-air terrace over the river. Photo: [Daniel from Glasgow](https://commons.wikimedia.org/wiki/File:The_Sky_Garden_in_London_(49071040517).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 ### Sunset
 

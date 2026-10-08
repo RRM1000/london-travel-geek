@@ -95,7 +95,7 @@ The irony: looking *at* St Paul's from here is free, and climbing *up* St Paul's
 
 The top floor of the Blavatnik Building, and a cafe bar, not a viewing platform — coffee, tea and snacks, tables by the glass, and nobody checking whether you buy anything. The river, **St Paul's**, the Millennium Bridge and the City cluster fill the north side; **Canary Wharf** sits away to the east.
 
-**The hours are the reason to come.** Level 10 runs to **9pm on Fridays and Saturdays** and 5pm the rest of the week, which makes it the only free viewpoint on the south bank that catches a summer sunset without a ticket. Last orders at the bar are 45 minutes before closing.
+**The hours are the reason to come.** Level 10 runs to **9pm on Fridays and Saturdays** and 6pm the rest of the week, which makes it the only free viewpoint on the south bank that catches a summer sunset without a ticket. Last orders at the bar are 45 minutes before closing.
 
 Access is **by lift only**, from Levels 0 to 4 of the Blavatnik Building — not the Turbine Hall side, which is the wrong building and the standard way to get lost here.
 
@@ -153,15 +153,15 @@ The caveat: it is **fully enclosed behind glass**. No open air, and photographs 
 
 *Free · level 35 · Mon–Fri 10am–6pm, Sat–Sun 11am–9pm · book weeks ahead*
 
-Three storeys of planted terraces under a glass shell on top of the Walkie-Talkie, with an open-air south-facing balcony and the whole river bend laid out below — **The Shard** directly opposite, **Tower Bridge** and the Tower downstream, St Paul's behind you.
+Three storeys of planted terraces under a glass shell on top of the Walkie-Talkie, with an open-air balcony and the whole river bend laid out below — **The Shard** directly opposite, **Tower Bridge** and the Tower downstream, St Paul's behind you.
 
-Free tickets release **every Monday morning, three weeks ahead**, for the whole week, and go within hours. Our [Sky Garden guide](/articles/sky-garden-guide/) has the booking rules, the restaurant route in and the sunset times. Slots last **one hour**, and you must arrive **within fifteen minutes** of yours or you will likely be turned away. The entrance is its own door on **Philpot Lane**, on the south-west corner of the building, not the office reception.
+Free tickets release **every Monday morning, three weeks ahead**, for the whole week. Our [Sky Garden guide](/articles/sky-garden-guide/) has the booking rules, the restaurant route in and the sunset times. Slots last **one hour**, and you must arrive **within fifteen minutes** of yours or you will likely be turned away. The entrance is its own door on **Philpot Lane**, on the south-west corner of the building, not the office reception.
 
 The thing almost nobody mentions: **there are paid walk-in slots** at management's discretion — **£11.50** early morning, including a hot drink, and **from £15.50** in the evening with a welcome drink. If you have missed the free release, that beats booking the restaurant.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1100481" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-![A Sky Garden sign among dense planting inside the glass shell on top of the Walkie-Talkie](../../assets/articles/best-views-london/sky-garden-sign.jpg)
+![The Sky Garden sign on the planted wall at street level](../../assets/articles/best-views-london/sky-garden-sign.jpg)
 
 > ⚠️ **One visitor lift is out of service (September 2026).** Sky Garden has cut visitor capacity while it is fixed and warns that some ticket holders may not get in at their booked time.
 
