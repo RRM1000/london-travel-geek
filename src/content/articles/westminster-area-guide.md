@@ -192,6 +192,8 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 | **Tate Britain Cafe** | Museum cafe | ££ | Fifteen minutes south along the river, and much calmer |
 | **Seven Dials or Soho** | Anything | — | Walk north for dinner |
 
+Two hidden bars sit off Whitehall: The Spy Bar in the old War Office's rooms 006 and 007 at The OWO, and Sibin, a whisky bar tucked inside the Great Scotland Yard Hotel. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has both.
+
 ## Getting there
 
 **By Tube.** **Westminster** station sits directly beneath the bridge on the Jubilee, District and Circle lines. **St James's Park** is better for Buckingham Palace and the park. **Charing Cross** puts you at Trafalgar Square, at the top of Whitehall.

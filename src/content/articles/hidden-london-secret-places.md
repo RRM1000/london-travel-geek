@@ -267,6 +267,7 @@ Postman's Park, St Dunstan in the East, Leadenhall Market, Colville Place, Neal'
 * **The Fitzrovia Chapel opens three days a week.** Mondays to Wednesdays, 11am to 5pm, plus a monthly Sunday.
 * **Camley Street closes at 4pm in winter,** which is earlier than any park nearby.
 * **The City of London publishes no opening hours for Postman's Park or St Dunstan in the East.** Both are daylight-only in practice.
+* **For a drink behind a hidden door,** London's speakeasies are a guide of their own: a fridge in Spitalfields, a bookcase in Soho, a repair shop on Hackney Road. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has the directions.
 * **Neal's Yard, St Dunstan and Leadenhall are not hidden.** They are famous and small. Early morning or Sunday is the difference between a good visit and a queue.
 
 ---
@@ -274,6 +275,7 @@ Postman's Park, St Dunstan in the East, Leadenhall Market, Colville Place, Neal'
 ## Continue planning your London trip
 
 - 🎪 **[Free Things to Do in London](/free/)**
+- 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)** — bars behind fridges, bookcases and unmarked doors
 - 🎨 **[London's Street Art and Banksys](/articles/london-street-art/)**
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**
 - 🏰 **[Historic Houses in London](/articles/historic-houses-london/)**

@@ -295,6 +295,7 @@ Late-night prices in London usually go one of two ways: a nightclub markup, or t
 - 🛡️ **[Is London Safe?](/articles/is-london-safe/)** — getting home at night, and who to call
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)**
 - 🥟 **[The Best Dim Sum in London](/articles/best-dim-sum-london/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**

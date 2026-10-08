@@ -145,6 +145,8 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 *Chapel Market. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122596944), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
+69 Colebrooke Row, which calls itself the Bar with No Name, is Time Out's first pick of London's speakeasies, a few minutes from Angel. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has its hours and the rest of London's hidden bars.
+
 ## Getting there
 
 **By Tube.** **Angel** (Northern) serves the southern end and has the longest escalator on the network at 60 metres. **Highbury & Islington** (Victoria, Overground) serves the north.

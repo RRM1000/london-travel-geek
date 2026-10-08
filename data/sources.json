@@ -129,7 +129,17 @@
     "bestldn.com",
     "londonkensingtonguide.com",
     "streathamlife.co.uk",
-    "hungryfoody.com"
+    "hungryfoody.com",
+    "yondli.com",
+    "travelodge.co.uk",
+    "cityrelay.com",
+    "88gravity.com",
+    "futurelondonacademy.co.uk",
+    "the1bar.co.uk",
+    "dinewithjp.com",
+    "hirespace.com",
+    "youtube.com/@tripinn1975",
+    "youtube.com/@trip_train_"
   ],
   "domains": {
     "thegoodfoodguide.co.uk": {
@@ -2369,6 +2379,59 @@
     "flyingfluskey.com": {
       "tier": "C",
       "name": "Flying Fluskey"
+    },
+    "top50cocktailbars.com": {
+      "tier": "A",
+      "name": "Top 50 Cocktail Bars (UK)",
+      "note": "Annual UK-wide ranking, 2026 list announced Feb 2026. Trap 12: scope to London before counting."
+    },
+    "classbarawards.com": {
+      "tier": "A",
+      "name": "CLASS Bar Awards",
+      "note": "Annual UK bar-trade awards run by CLASS magazine; categories name the bar."
+    },
+    "hellomagazine.com": {
+      "tier": "B",
+      "name": "Hello!"
+    },
+    "hiddenlibations.com": {
+      "tier": "C",
+      "name": "Hidden Libations",
+      "note": "Speakeasy-only blog; archive checked 8 Oct 2026, first-person visits across many cities."
+    },
+    "sisbehaving.com": {
+      "tier": "C",
+      "name": "Sis Behaving",
+      "note": "Speakeasy specialists; per-city guides written from their own trips. Archive checked 8 Oct 2026."
+    },
+    "jetsettimes.com": {
+      "tier": "C",
+      "name": "Jetset Times"
+    },
+    "thetraveloracle.net": {
+      "tier": "C",
+      "name": "The Travel Oracle",
+      "note": "Personal travel blog; London hidden-bar crawl written up night by night (2023)."
+    },
+    "youtube.com/@loveandlondon": {
+      "tier": "D",
+      "name": "Love and London (YouTube)"
+    },
+    "youtube.com/@PagingMrMorrow": {
+      "tier": "D",
+      "name": "Paging Mr. Morrow (YouTube)"
+    },
+    "youtube.com/@DoughBoyDines": {
+      "tier": "D",
+      "name": "Dough Boy Dines (YouTube)"
+    },
+    "youtube.com/@Ride_Creator": {
+      "tier": "D",
+      "name": "Ride Creator (YouTube)"
+    },
+    "youtube.com/@LollipopBoxClub": {
+      "tier": "D",
+      "name": "Life with Lisa (YouTube)"
     }
   },
   "excludedWhy": {
@@ -2391,6 +2454,16 @@
     "roomhawk.com": "BOOKING FUNNEL (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): see roomhawk.app, which redirects here.",
     "westlondontimes.co.uk": "AI SEO FARM (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): 'News Desk' byline, generated prose, broken link fragments left in the text, photos credited to ihg.com, expedia.com, tripadvisor.com and agoda.com.",
     "bettercities.net": "REPURPOSED DOMAIN (data/consensus/hotels-budget.json outerPass, 14 Sep 2026): its London Wembley hotels URL now redirects to a homepage about Coatesville and Altoona, Pennsylvania.",
-    "dyme.earth": "On the hotel-corpus.md exclusion list since 9 Sep 2026 but never added here; resurfaced on the Wembley and Elizabeth line SERPs (data/consensus/hotels-budget.json outerPass, 14 Sep 2026). Still cited in data/consensus/stay-outer.json."
+    "dyme.earth": "On the hotel-corpus.md exclusion list since 9 Sep 2026 but never added here; resurfaced on the Wembley and Elizabeth line SERPs (data/consensus/hotels-budget.json outerPass, 14 Sep 2026). Still cited in data/consensus/stay-outer.json.",
+    "yondli.com": "CONTENT FARM (speakeasy, 8 Oct 2026): a batch of London guides all dated 15 May 2026, Flickr CC photos and 'Sponsored' widgets in the body.",
+    "travelodge.co.uk": "Hotel chain SEO blog (speakeasy, 8 Oct 2026): parent business unrelated to drinking, no visit.",
+    "cityrelay.com": "Short-let property company blog (speakeasy, 8 Oct 2026).",
+    "88gravity.com": "SEO agency demo post (speakeasy, 8 Oct 2026): a 'Google Console INP Insights' heading in the middle of a bar entry.",
+    "futurelondonacademy.co.uk": "Education company SEO page (speakeasy, 8 Oct 2026).",
+    "the1bar.co.uk": "A bar's own blog - tier F in substance (speakeasy, 8 Oct 2026).",
+    "dinewithjp.com": "Emoji-headed SEO template on a Marbella/Dubai luxury site (speakeasy, 8 Oct 2026).",
+    "hirespace.com": "Venue-hire platform (speakeasy, 8 Oct 2026).",
+    "youtube.com/@tripinn1975": "Compilation channel: one 'hidden speakeasy' template across Las Vegas, Tokyo, New York, London (speakeasy, 8 Oct 2026).",
+    "youtube.com/@trip_train_": "Trip.com's own channel selling tickets (speakeasy, 8 Oct 2026)."
   }
 }

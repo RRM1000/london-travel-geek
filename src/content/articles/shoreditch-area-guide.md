@@ -201,6 +201,8 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 
 Osteria Angelina, a short walk from Liverpool Street in Spitalfields, makes Japanese-Italian pasta in a glass-walled pasta lab. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
+Four of the bars in our speakeasy guide are within a walk of here: Nightjar behind an unmarked door on City Road, Discount Suit Company in a former tailor's store room on Wentworth Street, The Mayor of Scaredy Cat Town through a fridge in The Breakfast Club on Artillery Lane, and The Natural Philosopher through a repair shop on Hackney Road. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has the doors, prices and booking rules.
+
 ## Getting there
 
 **By Overground.** **Shoreditch High Street** puts you at Boxpark and two minutes from Brick Lane. It is the closest station and the least crowded.

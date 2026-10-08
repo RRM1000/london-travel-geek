@@ -123,6 +123,8 @@ The grand hotels run £75 to well over £100 a head, and for twelve people that 
 
 If you want the good rooms without the argument, the [cocktail bar guide](/articles/best-cocktail-bars-london/) sets out which ones take bookings at all. The short version for a group: the east London independents are more forgiving than the Mayfair hotel bars, and almost everywhere caps a booking somewhere between six and twelve.
 
+For a hidden bar, the [speakeasy guide](/articles/best-speakeasy-bars-london/) gives each one's booking rules: Barts in Chelsea takes walk-ins for its late Speakeasy Sundowners from Thursday to Saturday, and Cahoots, which has its name over the door, sells its Kingly Court bar for groups and celebrations.
+
 ### Karaoke, which solves the group problem
 
 **BAM Karaoke Box on Victoria Street publishes a hen package, which almost nothing else does.** Liquid Courage is **£45 a head** for two hours of private karaoke with prosecco or beer on arrival and two house drinks; Final Mic Drop is **£62.50** with three drinks and food. Both are sold for groups of four or more, and **in a group of ten or more the bride goes free**. There are 22 rooms taking four to forty people, and you can build the playlist online in advance.
@@ -205,6 +207,7 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 - 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)**
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎭 **[The Best Cabaret in London](/articles/best-cabaret-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**

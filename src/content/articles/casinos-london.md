@@ -177,6 +177,8 @@ The Grand Casino fills the ground floor of a 1900 variety theatre, the original 
 
 **Open 24 hours a day, every day but Christmas Day**, no set dress code, electronic bets from 20p, free cloakrooms, directly above Leicester Square tube.
 
+One of London's hidden bars is in the building: **Archive & Myth**, No.18 in the Top 50 Cocktail Bars 2026, is reached at your booking time through the Magic Mike Live entrance, by the door to the left of the lift. The [speakeasy guide](/articles/best-speakeasy-bars-london/) has it.
+
 ### Empire Casino
 
 *5–6 Leicester Square, WC2H 7NA · Leicester Square 2 mins · 24/7 · free entry*
@@ -434,6 +436,7 @@ If you want the decision taken out of your hands, **SENSE** is the industry's na
 - 🎭 **[London Theatre: How to Choose a Show and Pay Less](/articles/london-theatre-guide/)**
 - 🎪 **[The Best Cabaret in London](/articles/best-cabaret-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)**
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
 - 🌃 **[Late Night Eating in London](/articles/late-night-eating-london/)**
 - 🗺️ **[The Mayfair Area Guide](/articles/mayfair-area-guide/)**

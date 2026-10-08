@@ -1,0 +1,88 @@
+{
+  "topic": "speakeasy",
+  "article": "src/content/articles/best-speakeasy-bars-london.md",
+  "headTerm": "Speakeasy bars",
+  "note": "Built 8 October 2026 from data/topics/fusion.json; scope reviewed before collection. DEFINITION: a bar a visitor enters through a concealed or unmarked entrance - hidden door, fake shopfront, behind a fridge, phone box or another business, unsigned basement, password or doorbell - and that presents itself as hidden on its own site. A themed bar with its name over the door is out, however often the lists call it a speakeasy: Cahoots (lit CAHOOTS sign over the Kingly Court door, Commons photo July 2025) and Disrepute (lit DISREPUTE sign over 4 Kingly Court, Commons photo July 2025) are counted in the corpus but sit in the article's 'signed at the door' section with Happiness Forgets, Callooh Callay and Oriole. Readers search 'speakeasy london', 'hidden bars london', 'secret bars london'. Overlap with best-cocktail-bars-london is expected and the two pages link both ways.",
+  "awardBodies": [
+    {
+      "name": "The World's 50 Best Bars",
+      "domain": "theworlds50best.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/bars/list/1-50",
+      "note": "The 2026 list (1-100 on one page) was announced on 7 October 2026. London: Connaught Bar #8, Satan's Whiskers #29, Waltz #32, Three Sheets Soho #73, Scarfes Bar #77. None is a hidden bar, so the list contributes no names to this topic and is not recorded as a source. Tayer + Elementary, A Bar with Shapes for a Name and Kwant dropped out of the top 100."
+    },
+    {
+      "name": "Top 50 Cocktail Bars (UK)",
+      "domain": "top50cocktailbars.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/list/1-50",
+      "note": "2026 list, announced Feb 2026 (Couch, Stirchley #1). UK-wide - trap 12. London hidden bars on it: Archive & Myth #18, The Spy Bar #43, Opium #46, SOMA Soho #48. Murder Inc #21, Happiness Forgets #44 and Disrepute #45 are recorded too because the speakeasy lists name them."
+    },
+    {
+      "name": "CLASS Bar Awards",
+      "domain": "classbarawards.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/classbarawards2026/en/page/2026-winners",
+      "note": "2026: Bar Manager of the Year to Sotiris Konomi of The Spy Bar at Raffles London at The OWO - the only hidden bar among the winners."
+    },
+    {
+      "name": "Top 500 Bars",
+      "domain": "top500bars.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "A Wix site whose list renders client-side; curl returns only the framework. Not read this pass - see knownGaps."
+    }
+  ],
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "ranked": true, "note": "Two RANKED lists: 'The best speakeasies in London' (11, updated 31 Mar 2026, 69 Colebrooke Row #1) and 'The best secret bars in London' (15, updated 16 Jul 2025, The Spy Bar #1). One domain, one opinion." },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "ranked": false, "note": "Speakeasy list (33) and secret-bars list (28, numbered but grouped by type). Listings-led; some entries read as paid placement (135 Bar & Lounge, Gambit)." },
+    { "name": "The Handbook", "domain": "thehandbook.com", "ranked": false, "note": "Speakeasy list (13) and 'secret underground drinking spots' (19, which strays into Gordon's Wine Bar and Lucky Voice)." },
+    { "name": "Luxury London", "domain": "luxurylondon.co.uk", "ranked": false, "note": "Eight, March 2025." },
+    { "name": "SquareMeal", "domain": "squaremeal.co.uk", "ranked": false, "note": "Sixteen, updated May 2025." },
+    { "name": "Stylist", "domain": "stylist.co.uk", "ranked": false, "note": "Seven, December 2025." },
+    { "name": "The Sauce", "domain": "thesaucemag.com", "ranked": false, "note": "Ten, March 2026. Its separate subterranean-bars list is a basement list and is declined." },
+    { "name": "Hello!", "domain": "hellomagazine.com", "ranked": false, "note": "Ten, 2022 - the oldest editorial list kept." },
+    { "name": "Quintessentially", "domain": "quintessentially.com", "ranked": false, "note": "Nine, April 2025. Names the Nightjar Carnaby branch, which closed in September 2025." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": false, "note": "Publishes no hidden-bar or speakeasy guide. Single-venue reviews were not collected this pass." },
+    { "name": "Conde Nast Traveller", "domain": "cntraveller.com", "ranked": false, "note": "No current hidden-bar list; its 2015 'bars in loos' gallery is declined as stale." },
+    { "name": "Evening Standard", "domain": "standard.co.uk", "ranked": false, "note": "Only a 2012 speakeasy round-up surfaced; declined as stale." }
+  ],
+  "facetAxis": {
+    "field": "wayIn",
+    "note": "How you get in is the guide. A reader choosing between a fridge door and a password is choosing an evening.",
+    "values": [
+      { "key": "behind-a-business", "label": "Behind another business", "describeAs": "through a café, a repair shop, a whisky shop, a pizzeria or a casino" },
+      { "key": "hidden-door", "label": "Behind a hidden or fake door", "describeAs": "a jade door, a detective agency's front, a door in a hotel corridor" },
+      { "key": "password-or-bell", "label": "Password or doorbell", "describeAs": "ring, give the word, or talk your way past an intercom" },
+      { "key": "unmarked-door", "label": "Unmarked street door", "describeAs": "no name over the door; a number, a colour or a plaque" }
+    ]
+  },
+  "formatSection": {
+    "title": "Called speakeasies, but signed at the door",
+    "note": "The lists' most-named 'speakeasy', Cahoots, has its name lit over the door. Readers searching for it need telling where it sits and why it is not ranked with the hidden bars."
+  },
+  "knownGaps": [
+    "TikTok could not be read over curl (the discover pages are client-rendered), so tier D is YouTube only: five channels.",
+    "Reddit's own endpoints returned 429 all day on 8 Oct 2026; the three r/london threads were read through the PullPush archive. All Reddit threads count as one domain in build-evidence.",
+    "Top 500 Bars renders client-side and was not read.",
+    "The Infatuation has no hidden-bar guide; its single-venue reviews of the ranked bars were not collected, unlike the fusion pass.",
+    "Brave Search allowed about 25 queries before a bot wall, so the per-venue official-site searches were finished from links on the list pages.",
+    "Cocktail prices are not published by Discount Suit Company, The Mayor of Scaredy Cat Town, Experimental Cocktail Club, Evans & Peel, Archive & Myth, SOMA Soho, The Spy Bar, Blind Spot, Sibin or The Vault - the article says so where it matters and Rob has been asked."
+  ],
+  "openVenueQuestions": [
+    "ASK ROB - The Vault at Milroy's, 3 Greek Street. A Reddit reply in Aug 2024 says it closed; Milroy's own site (Oct 2026) lists 'Visit The Vault - Through the bookcase, Soho - Book a table', an autumn menu, jazz nights and private hire, with photos refreshed in 2026. The page text renders client-side, so no hours or prices. On the page as trading; confirm.",
+    "ASK ROB - Lost Property Office, BrewDog Waterloo (5 sources, through a phone box). Its own domain now forwards to an unrelated site and BrewDog's Waterloo bar page is not live, but Waterloo is not on BrewDog's March 2026 closures list. Trading not established; left off the page.",
+    "ASK ROB - The Blind Pig, Social Eating House, Poland Street (4 sources, behind an optician's door). Operator site refused plain requests; left off for want of operator facts.",
+    "ASK ROB - Reverend JW Simpson, 32 Goodge Street (4 sources). No operator site reached; left off.",
+    "Call Me Mr Lucky, below The Breakfast Club London Bridge (4 sources). Operator page gives hours (Wed-Sat) and a £5 'Lucky Hatch' but no door description or address; left off. Worth adding with one more operator page.",
+    "Below Stone Nest, 136 Shaftesbury Avenue (4 sources). Operator: walk-in only, cocktails £12 - but it does not present itself as hidden. Left off by definition.",
+    "Disrepute - Top 50 Cocktail Bars #45 and seven sources, but its name is lit over the door at 4 Kingly Court. In the signed section.",
+    "Murder Inc, Hanway Street (Top 50 #21, 3 sources). No operator page read; one source says the entrance is clearly marked. Left off.",
+    "The Luggage Room (Marriott Grosvenor Square), Found (5 Ravey Street) and CellarDoor (Aldwych): 5-7 sources each; operators do not describe a concealed entrance and no photo settles it. Left off rather than guessed.",
+    "Keystone Crescent (9 Caledonian Road, black door) and Holy Brew (inside Dalchini, Wimbledon) are in scope but named by one counted source each (Thatsup is excluded). Left off.",
+    "Nightjar - Quintessentially named the Carnaby branch (closed 27 Sep 2025); that mention is filed as 'Nightjar Carnaby' and dropped by data/closed.json. Unbranched mentions are filed under Shoreditch."
+  ]
+}
