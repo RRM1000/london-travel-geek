@@ -68,7 +68,7 @@ Where to eat near each of the big sights without crossing town:
 
 | Setting / Atmosphere | Standout London Examples | What you get |
 | --- | --- | --- |
-| 🌅 **Rooftops & Skyline Views** | *Sky Garden (Darwin Brasserie)*, *Sushisamba*, *Coq d'Argent* | Panoramic views across the Thames, Tower Bridge & the City skyline |
+| 🌅 **Rooftops & Skyline Views** | *[Sky Garden](/articles/sky-garden-guide/) (Darwin Brasserie)*, *Sushisamba*, *Coq d'Argent* | Panoramic views across the Thames, Tower Bridge & the City skyline |
 | 🚢 **On a Moving Canalboat** | *London Shell Co.* (Regent's Canal, Paddington) | A cruising 5-course seafood dinner along London's historic canals |
 | 🌸 **Photogenic & Floral Rooms** | *Clos Maggiore* (Covent Garden), *Sketch* (Mayfair), *Dalloway Terrace* | Blossom-hung courtyards, velvet dining rooms and interiors built to be photographed |
 | 🎭 **[Dining & Live Entertainment](/articles/dinner-and-a-show-london/)** | *Brasserie Zédel*, *Ronnie Scott's*, *The London Cabaret Club* | A house band with the prix fixe, jazz served at your table, or a full dinner show |

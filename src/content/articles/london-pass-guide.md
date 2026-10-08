@@ -274,7 +274,7 @@ The All-Inclusive pass carries 113 attractions against the Explorer's 76. The di
 * **The Underground and buses.** Go City's FAQ: its passes "don't include public transport". You still need contactless or Oyster.
 * **Westminster Abbey's Queen's Diamond Jubilee Galleries.** The Abbey's own site states these are not included with a Go City pass and must be bought on arrival. A partial admission billed as a full one.
 
-And the free viewpoints — Sky Garden, Horizon 22, The Garden at 120, Tate Modern's Level 10 — are not on the pass because they cost nothing. Do not let a pass talk you out of them.
+And the free viewpoints — [Sky Garden](/articles/sky-garden-guide/), Horizon 22, The Garden at 120, Tate Modern's Level 10 — are not on the pass because they cost nothing. Do not let a pass talk you out of them.
 
 ---
 

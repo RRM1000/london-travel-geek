@@ -228,7 +228,7 @@ Some of the best-known viewpoints are **locked before the fireworks start**. Dis
 
 **Richmond Park deserves a note rather than a recommendation.** During the deer cull from 1 November, pedestrian gates lock at **20:00** — except on Friday and Saturday nights, when the park stays open. Car parks close at 16:30 regardless. And King Henry's Mound, the famous viewpoint, sits inside Pembroke Lodge Gardens, which are separately enclosed with no published closing time. The protected view to St Paul's is also a keyhole through a hedge, not a panorama. It is not a fireworks viewpoint.
 
-**Rooftops mostly close too early.** Sky Garden shuts its terrace at 18:00 on weekdays, Horizon 22 at 18:00, and The Garden at 120 at 18:30. The exception is **Tate Modern's Level 10 viewing floor**, free and open until 21:00 on Friday and Saturday — which makes it a real option on 6 and 7 November, though not on the Thursday.
+**Rooftops mostly close too early.** [Sky Garden](/articles/sky-garden-guide/) shuts its terrace at 18:00 on weekdays, Horizon 22 at 18:00, and The Garden at 120 at 18:30. The exception is **Tate Modern's Level 10 viewing floor**, free and open until 21:00 on Friday and Saturday — which makes it a real option on 6 and 7 November, though not on the Thursday.
 
 ---
 

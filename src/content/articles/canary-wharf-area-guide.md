@@ -267,7 +267,7 @@ The route in from the west, finishing at the roof garden where the Greenwich wal
 3. **Missing the roof garden.** It is on top of the station and free, and most visitors walk underneath it without knowing.
 4. **Taking the Jubilee line from the City.** The Elizabeth line from Liverpool Street takes six minutes.
 5. **Walking here from the Tower along the main roads.** It is about 6km. If you want to walk it, take the riverside pubs and the Ornamental Canal on our [Wapping to Canary Wharf pub walk](/articles/wapping-canary-wharf-walk/); if you just want to arrive, take the DLR.
-6. **Looking for a viewing platform.** There is not one anywhere in Canary Wharf. One has been proposed for 8 Canada Square, but building cannot start until HSBC leaves in 2027, so it is years away. The free views are Horizon 22 and the Sky Garden in the City.
+6. **Looking for a viewing platform.** There is not one anywhere in Canary Wharf. One has been proposed for 8 Canada Square, but building cannot start until HSBC leaves in 2027, so it is years away. The free views are Horizon 22 and the [Sky Garden](/articles/sky-garden-guide/) in the City.
 7. **Expecting the ice rink.** It ran for years in Canada Square Park but is **paused for winter 2026**. Winter Lights in January is unaffected, and the rinks that are open are in our [London ice skating guide](/articles/ice-skating-london/).
 
 ## Where to stay

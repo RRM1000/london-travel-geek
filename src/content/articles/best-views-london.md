@@ -155,7 +155,7 @@ The caveat: it is **fully enclosed behind glass**. No open air, and photographs 
 
 Three storeys of planted terraces under a glass shell on top of the Walkie-Talkie, with an open-air south-facing balcony and the whole river bend laid out below — **The Shard** directly opposite, **Tower Bridge** and the Tower downstream, St Paul's behind you.
 
-Free tickets release **every Monday morning, three weeks ahead**, for the whole week, and go within hours. Slots last **one hour**, and you must arrive **within fifteen minutes** of yours or you will likely be turned away. The entrance is its own door on **Philpot Lane**, on the south-west corner of the building, not the office reception.
+Free tickets release **every Monday morning, three weeks ahead**, for the whole week, and go within hours. Our [Sky Garden guide](/articles/sky-garden-guide/) has the booking rules, the restaurant route in and the sunset times. Slots last **one hour**, and you must arrive **within fifteen minutes** of yours or you will likely be turned away. The entrance is its own door on **Philpot Lane**, on the south-west corner of the building, not the office reception.
 
 The thing almost nobody mentions: **there are paid walk-in slots** at management's discretion — **£11.50** early morning, including a hot drink, and **from £15.50** in the evening with a welcome drink. If you have missed the free release, that beats booking the restaurant.
 
@@ -580,6 +580,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 
 ## Continue planning your London trip
 
+- 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — when the free tickets come out, the ways in once they have gone, and the sunset times
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same roofs, sorted by whether the kitchen is any good
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**

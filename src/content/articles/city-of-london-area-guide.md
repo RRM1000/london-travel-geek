@@ -90,7 +90,7 @@ The City of London has its own share of the commemorative plaques marking where 
 2. **Tower of London** — A Norman fortress begun in 1066, the Crown Jewels, the Yeoman Warders and the ravens. Book ahead and arrive at opening.
 3. **Tower Bridge** — The 1894 bascule bridge beside the Tower, and the one most people mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms. Lift times are published in advance, and watching it open costs nothing.
 4. **Horizon 22** — Level 58 of 22 Bishopsgate and the highest public viewpoint in London, about ten metres above The Shard's gallery. Book a slot online.
-5. **Sky Garden** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
+5. **[Sky Garden](/articles/sky-garden-guide/)** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
 6. **Leadenhall Market** — A painted Victorian arcade of 1881, where Hagrid walks Harry to the Leaky Cauldron in the first Harry Potter film. Best on a weekday when the traders are open.
 7. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.
 8. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook, St Mary-le-Bow and St Bartholomew the Great are the best, and all are free.
@@ -147,7 +147,7 @@ Bank station is directly underneath and has been substantially rebuilt, so exits
 
 **It keeps City hours.** The shops and bars trade Monday to Friday and it is close to dead on a Sunday, so come on a weekday — around six in the evening is when it is fullest and best.
 
-**Three viewpoints are within five minutes, and two are free.** **Horizon 22** on level 58 is the highest public view in London and costs nothing, though it needs a timed ticket and is fully enclosed. **The Lookout at 8 Bishopsgate** is also free and runs to 9pm on Mondays and Fridays. **Sky Garden** is free with a ticket released three weeks ahead, with paid walk-in slots from £11.50 if you have missed them.
+**Three viewpoints are within five minutes, and two are free.** **Horizon 22** on level 58 is the highest public view in London and costs nothing, though it needs a timed ticket and is fully enclosed. **The Lookout at 8 Bishopsgate** is also free and runs to 9pm on Mondays and Fridays. **[Sky Garden](/articles/sky-garden-guide/)** is free with a ticket released three weeks ahead, with paid walk-in slots from £11.50 if you have missed them.
 
 For eating up high, **Duck & Waffle at 110 Bishopsgate is open 24 hours** — the only London viewpoint you can use at four in the morning.
 
@@ -184,6 +184,7 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 ## Go deeper
 
 - **[The best views in London](/articles/best-views-london/)** — Horizon 22, the Lookout and Sky Garden are all in the Square Mile, all free, and all need booking on different timetables.
+- **[Sky Garden guide](/articles/sky-garden-guide/)** — the Monday ticket release, the restaurant and walk-in routes in, and the terrace hours.
 
 ## Where to eat and drink
 

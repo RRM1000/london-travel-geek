@@ -134,7 +134,7 @@ Also included: Cutty Sark, the Royal Observatory, the Painted Hall at the Old Ro
 
 > ⚠️ **These are NOT 2FOR1.** The **London Eye is one third off**, not two-for-one — and so are **Madame Tussauds**, **SEA LIFE London Aquarium**, **the London Dungeon** and **Shrek's Adventure**. All five are Merlin attractions with their own separate terms. The same third off covers Merlin's theme parks during their main seasons, among them [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/), [Thorpe Park](/articles/thorpe-park-day-trip/) and [Chessington](/articles/chessington-world-of-adventures-day-trip/), for up to six people per train booking; [theme parks near London](/articles/theme-parks-near-london/) compares them.
 
-> ⚠️ **Not in the scheme at all:** the **Churchill War Rooms**, HMS Belfast, Buckingham Palace and the Royal Mews, the Royal Academy, Sky Garden and the Postal Museum.
+> ⚠️ **Not in the scheme at all:** the **Churchill War Rooms**, HMS Belfast, Buckingham Palace and the Royal Mews, the Royal Academy, [Sky Garden](/articles/sky-garden-guide/) and the Postal Museum.
 
 ---
 

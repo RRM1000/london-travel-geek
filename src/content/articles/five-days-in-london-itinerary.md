@@ -115,7 +115,7 @@ Walk into St James's or two stops to Covent Garden, not eating on the bridge app
 
 *Thirteen minutes and 870 metres from the Tower to 20 Fenchurch Street.* This is the stretch a three-day plan skips entirely: Wren churches, Roman remains and glass towers stacked against each other inside one square mile. Our [City of London walk](/articles/city-of-london-walk/) has it as numbered stops, and the [area guide](/articles/city-of-london-area-guide/) has where to eat in it.
 
-**[Sky Garden](https://skygarden.london/visit/getting-here-hours/) is free**, on the 35th floor of 20 Fenchurch Street. **Monday to Friday 10am–6pm; Saturday, Sunday and bank holidays 11am–9pm.** Free tickets are released weekly and bookable up to three weeks ahead. The weekend hours are the longer ones, which inverts the usual advice: a Saturday visit can be at dusk, a Tuesday one cannot.
+**[Sky Garden](/articles/sky-garden-guide/) is free**, on the 35th floor of 20 Fenchurch Street. **Monday to Friday 10am–6pm; Saturday, Sunday and bank holidays 11am–9pm.** Free tickets are released weekly and bookable up to three weeks ahead. The weekend hours are the longer ones, which inverts the usual advice: a Saturday visit can be at dusk, a Tuesday one cannot.
 
 **[Horizon 22](https://horizon22.co.uk/) is free and higher**, on Level 58 of 22 Bishopsgate — its own description is London's highest free viewing gallery, 41 seconds up by lift. *Eleven minutes and 690 metres from Sky Garden.* **Weekdays 10.00–18.00, Saturday 10.00–17.00, Sunday 10.00–16.00.** The [views guide](/articles/best-views-london/) puts both against the paid ones.
 

@@ -382,7 +382,7 @@ These are the famous ones, and they are famous for altitude rather than cooking.
 
 - **[Aqua Shard](https://www.sevenrooms.com/explore/aquashard/reservations/create/search/)**, London Bridge — **Level 31 of The Shard**, floor-to-ceiling glass, no outdoor space. The Express Lunch starts at £35 and the Twilight menu at £45; the Peter Pan afternoon tea is £70 a head. *Cited by 1 source*
 - **[SUSHISAMBA](https://www.sushisamba.com/locations/london-heron-tower)**, Liverpool Street — floors 38 and 39 of the Heron Tower, with an indoor dining room and **two genuine outdoor terraces**, which most towers do not have. Japanese-Brazilian-Peruvian; large plates around £50. *Cited by 5 sources*
-- **[Darwin Brasserie](https://skygarden.london/restaurants/darwin-brasserie/)** and **Fenchurch**, Sky Garden — the two restaurants inside the Walkie-Talkie's public garden. **Sky Garden itself is free with a timed ticket**, so eating here is a choice, not an entry fee. *Cited by 2 sources*
+- **[Darwin Brasserie](https://skygarden.london/restaurants/darwin-brasserie/)** and **Fenchurch**, Sky Garden — the two restaurants inside the Walkie-Talkie's public garden. **Sky Garden itself is free with a timed ticket** ([how to get one](/articles/sky-garden-guide/)), so eating here is a choice, not an entry fee. *Cited by 2 sources*
 - **Shanghai Me**, Park Lane — the 28th floor of the Hilton, art deco throughout, and Time Out is direct about the drawback: "you won't be able to get outside or onto a balcony". *Cited by 4 sources · #11 of 15, Time Out*
 - **[Duck & Waffle](https://duckandwaffle.com/)**, Liverpool Street — the 40th floor of the same Heron Tower, open around the clock, which is unusual. Sealed windows. *Cited by 1 source*
 - **[Radio Rooftop](https://radiorooftop.com/)**, Strand — on top of ME London at 336–337 Strand, modern Asian sharing plates, and the clearest sightline to the London Eye of anything on this page. Ranked third of ten by the one creator here who ranked them. *Cited by 4 sources*
@@ -462,7 +462,7 @@ Named by the sources but not given a full entry — either because only one or t
 * **Several roofs cannot be booked at all.** The Devonshire's terrace, The Marksman's twenty seats, Frank's Cafe, Towpath, Rick Stein Barnes's courtyard and Riverside Bar, The Culpeper's rooftop drinks and Forza Taps are all walk-in. At the rest, the indoor room takes the booking and the terrace is first come, first served — Peggy Jean works exactly that way.
 * **Check the roof before you check the forecast.** Only Alto by San Carlo, Angler and Stanley's have a roof that closes over the terrace. Boundary's orangery and the glass rooms at Smiths, Mercer and SUSHISAMBA will keep you dry beside the view rather than in it. Heaters solve cold, not rain.
 * **Some of it closes for the winter.** Frank's Cafe is summer only (its 2026 season ended on 12 September); The Culpeper's roof opens to diners from spring; Kioku's terrace is summer only; Towpath runs a season and shuts Mondays and Tuesdays within it.
-* **You never have to buy a meal for the view.** Sky Garden is free with a timed ticket, and Horizon 22 on Level 58 of 22 Bishopsgate is a free viewing platform two floors below a Michelin-starred restaurant.
+* **You never have to buy a meal for the view.** [Sky Garden](/articles/sky-garden-guide/) is free with a timed ticket, and Horizon 22 on Level 58 of 22 Bishopsgate is a free viewing platform two floors below a Michelin-starred restaurant.
 * **The cheapest way onto a good roof** is the oyster happy hour at Seabird, 3–6pm daily, or Frank's Cafe in season.
 * **Two family notes.** Children are not allowed in The Devonshire's pub after 5pm on weekdays or at all at weekends, though they are welcome in the restaurant; and Peggy Jean sits on a working pontoon on tidal water with open edges, so children need supervising and prams have to be folded at the entrance.
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills.
@@ -473,6 +473,7 @@ Named by the sources but not given a full entry — either because only one or t
 
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🌇 **[The Best Views in London](/articles/best-views-london/)**
+- 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — free entry, and how a table at Darwin or Fenchurch gets you in
 - 🪑 **[The Best Places to Eat Outside in London](/articles/eat-outside-london/)**
 - 🦪 **[The Best Seafood Restaurants in London](/articles/best-seafood-restaurants-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

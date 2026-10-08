@@ -341,7 +341,7 @@ Included only where the room does something a view alone does not.
 
 On Level 36 inside the **Sky Garden's glass dome** at the top of the Walkie Talkie, which means you eat surrounded by planting rather than only by glass — the reason it is here when most rooftops are not. The cooking is straightforward British brasserie and makes no claim beyond that: **a British beef burger, battered fish and chips, a full Sunday roast**, breakfast from 8.30am, and a Saturday brunch with a bottomless prosecco upgrade.
 
-**A restaurant booking includes Sky Garden access, so you do not need a separate ticket** — which is the practical argument for eating here at all. There is airport-style security on the way in, so arrive no more than 30 minutes early. The restaurant is cashless, and a window table costs £10–£15 extra a head.
+**A restaurant booking includes [Sky Garden](/articles/sky-garden-guide/) access, so you do not need a separate ticket** — which is the practical argument for eating here at all. There is airport-style security on the way in, so arrive no more than 30 minutes early. The restaurant is cashless, and a window table costs £10–£15 extra a head.
 
 ### SUSHISAMBA, City of London
 

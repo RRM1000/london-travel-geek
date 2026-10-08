@@ -157,7 +157,7 @@ There is no navigation involved from here. The Thames Path is continuous and sig
 
 ### The free view instead
 
-The Eye is the paid way to get above London on this day, and two free ones sit within a quarter of an hour of the Tower. **[Sky Garden](https://skygarden.london/visit/getting-here-hours/) is free**, on the 35th floor of 20 Fenchurch Street, **open Monday to Friday 10am–6pm and Saturday, Sunday and bank holidays 11am–9pm**. Free tickets are released weekly and bookable up to three weeks ahead, and they go. *Thirteen minutes, 870 metres, from the Tower.* On a weekday it shuts at six, so take it before the river walk, not after; at a weekend it runs to nine and you can come back for the dark.
+The Eye is the paid way to get above London on this day, and two free ones sit within a quarter of an hour of the Tower. **[Sky Garden](/articles/sky-garden-guide/) is free**, on the 35th floor of 20 Fenchurch Street, **open Monday to Friday 10am–6pm and Saturday, Sunday and bank holidays 11am–9pm**. Free tickets are released weekly and bookable up to three weeks ahead, and they go. *Thirteen minutes, 870 metres, from the Tower.* On a weekday it shuts at six, so take it before the river walk, not after; at a weekend it runs to nine and you can come back for the dark.
 
 **[Horizon 22](https://horizon22.co.uk/) is also free**, higher, and on Level 58 of 22 Bishopsgate: its own description is London's highest free viewing gallery, reached in 41 seconds by lift. **Open weekdays 10.00–18.00, Saturday 10.00–17.00 and Sunday 10.00–16.00.** Our [views guide](/articles/best-views-london/) compares all of them.
 

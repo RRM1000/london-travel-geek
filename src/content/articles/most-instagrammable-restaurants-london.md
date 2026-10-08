@@ -275,7 +275,7 @@ Rooms group by what makes them photograph well, not by price.
 ![The rooftop dining room at Seabird, rattan chairs, palms and woven pendant lamps in front of floor-to-ceiling windows over the city](../../assets/articles/most-instagrammable-restaurants-london/seabird-room.jpg)
 *Seabird's rooftop dining room.*
 
-**Sky Garden** is not really a restaurant at all — it is a planted dome on top of 20 Fenchurch Street with restaurants inside it. **Entry to the garden is free with a booked timed slot**; the restaurants are separate and are not. *£££ · City of London · 3 min from Monument · Cited by 2 sources.*
+**[Sky Garden](/articles/sky-garden-guide/)** is not really a restaurant at all — it is a planted dome on top of 20 Fenchurch Street with restaurants inside it. **Entry to the garden is free with a booked timed slot**; the restaurants are separate and are not. *£££ · City of London · 3 min from Monument · Cited by 2 sources.*
 
 ![Terraced tropical planting inside the glass dome of Sky Garden, with visitors at the windows looking out over east London](../../assets/articles/most-instagrammable-restaurants-london/sky-garden.jpg)
 *The garden inside Sky Garden.*

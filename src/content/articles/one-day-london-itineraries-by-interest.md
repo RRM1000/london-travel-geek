@@ -235,7 +235,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Morning.** **The Garden at 120** in the City — free, no booking, and the most useful viewpoint in London because you can simply walk in.
 
-**Midday.** **Sky Garden** — free but books weeks ahead, so this is the one to reserve before you travel. **The Lookout at 8 Bishopsgate** is the newest and least busy.
+**Midday.** **[Sky Garden](/articles/sky-garden-guide/)** — free but books weeks ahead, so this is the one to reserve before you travel. **The Lookout at 8 Bishopsgate** is the newest and least busy.
 
 **Afternoon.** **Horizon 22**, Level 58, free, and the highest of the lot.
 

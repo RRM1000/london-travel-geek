@@ -263,7 +263,7 @@ The inland route: **eleven stops** over about 3km, through the coaching-inn yard
 
 ## Common mistakes to avoid
 
-1. **Paying for a view before trying the free ones.** Tate Modern's tenth floor and the Sky Garden are both free. Book the Sky Garden weeks ahead.
+1. **Paying for a view before trying the free ones.** Tate Modern's tenth floor and the Sky Garden are both free. [Book the Sky Garden](/articles/sky-garden-guide/) weeks ahead.
 2. **Going to Borough Market on a Monday.** It is closed all day. It opens Tuesday to Sunday.
 3. **Buying London Eye tickets on the day.** Walk-up is significantly more expensive and the queue is long. Book a timed slot.
 4. **Eating on Queen's Walk itself.** Walk five minutes inland to Lower Marsh or Borough for better food at half the price.

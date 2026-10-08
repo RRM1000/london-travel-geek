@@ -130,7 +130,7 @@ Three free options within five minutes of each other. **You would only do one.**
 
 **Horizon 22** — level 58 of 22 Bishopsgate, and **the highest free viewing platform in London**. Free, but you need a booked ticket. Its own site gives opening as 10am on every day, closing 6pm on weekdays, 5pm Saturday and 4pm Sunday. This is the one to pick if you want height.
 
-**Sky Garden** — the glasshouse on top of 20 Fenchurch Street, the Walkie-Talkie. Also free, also ticketed, and the tickets **go weeks in advance**. There is a way round it: book a table at one of its restaurants or bars and access comes with the booking, even when the free tickets have gone. That helps if you decided on this walk at short notice.
+**[Sky Garden](/articles/sky-garden-guide/)** — the glasshouse on top of 20 Fenchurch Street, the Walkie-Talkie. Also free, also ticketed, and the tickets **go weeks in advance**. There is a way round it: book a table at one of its restaurants or bars and access comes with the booking, even when the free tickets have gone. That helps if you decided on this walk at short notice.
 
 **The Garden at 120** — a rooftop garden on the 15th floor of 120 Fenchurch Street, and **the only one of the three with no booking whatsoever**. You walk in and take the lift. It is lower than the other two, which is the trade, and you are looking at the Walkie-Talkie rather than from it. Open daily from 10am — until 9pm in summer, 6.30pm in winter, and **5pm at weekends all year**. It is **closed on bank holidays**.
 
@@ -277,6 +277,7 @@ Walked the other way — Tower Bridge to Bank — it works, but it front-loads t
 ## What to do with the rest of the day
 
 - **[The City of London area guide](/articles/city-of-london-area-guide/)** — St Paul's, Smithfield, the Roman amphitheatre under the Guildhall, and where to stay.
+- **[Sky Garden guide](/articles/sky-garden-guide/)** — how to get a free ticket for the glasshouse on the Walkie-Talkie, and the ways in without one.
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
 - **[London's best markets](/articles/best-london-markets/)** — where Leadenhall sits among them, and which days the others run.
 - **[Thames walks](/articles/london-walks-along-the-thames/)** — pick up the river path at Tower Bridge and keep going.
