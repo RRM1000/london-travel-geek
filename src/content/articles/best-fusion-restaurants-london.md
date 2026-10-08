@@ -81,6 +81,10 @@ No source here ranks fusion restaurants in order, so this section leads with wha
 
 **Named by eight of the twenty-eight sources, more than any other restaurant on this page**, from Luxury London and The Handbook to two YouTube creators and two Reddit threads. Its own menu explains the cooking: the Hakka people moved from Canton to Kolkata, and their food became Indo-Chinese, "traditional Chinese cooking techniques with the spices of India".
 
+![Fatt Pundit's small plates from above: chilli chicken lollipops in a bamboo steamer, paneer in lettuce cups, battered crackling spinach with chilli, a bowl of chaat with pomegranate, and two cocktails](../../assets/articles/best-fusion-restaurants-london/fatt-pundit-small-plates.jpg)
+
+*Small plates at Fatt Pundit.*
+
 Start with the **kid goat momos** (£8.50) and the **crackling spinach** (£11), then **Kolkata chilli duck** and the **shredded chilli venison**, a dish the menu credits to Mumbai's Leopold Café. The **lamb chops in black bean dust** (£26) are the most expensive thing on the card.
 
 Not everyone is a convert. The Infatuation rated the Covent Garden branch 7 out of 10, and on Reddit one Londoner calls it "my favourite meal in London" while another finds it "way too tapas-style" for Indo-Chinese. **The two branches shut on different days: Soho on Sunday, Covent Garden on Monday.** A two-course pre-theatre menu is £33.50.
@@ -90,6 +94,10 @@ Not everyone is a convert. The Infatuation rated the Covent Garden branch 7 out 
 *£££ · 56 Dalston Lane, E8 3AH · Cited by 7 sources · [book a table](https://www.sevenrooms.com/explore/angelina/reservations/create/search/)*
 
 A family-owned room whose own site says: "We take inspiration from Italy and Japan, challenge the notion of authenticity, and believe fusion is everywhere." Three of the five fusion lists in this pass name it. Michelin files it under "Italian and Japanese", one of only two London restaurants with that label, and Time Out gave it four stars.
+
+![The black-fronted shopfront of Angelina on Dalston Lane, with the name in white script above the windows and gold script on the glass](../../assets/articles/best-fusion-restaurants-london/angelina-dalston-lane.jpg)
+
+*Angelina on Dalston Lane.*
 
 There is one menu, a **kondate**, the Japanese idea of composing a meal as a sequence, at **£74**. The October menu runs **bluefin tuna with plum and fig leaf**, **shokupan** milk bread with robiola, umeboshi and pistachio, **wild boar cappellacci with kabocha and furikake**, and **squab kabayaki** glazed like eel, ending on a **genmaicha purin**, a brown-rice-tea custard. Michelin's tip is the marble counter facing the open kitchen.
 
@@ -101,6 +109,10 @@ There is one menu, a **kondate**, the Japanese idea of composing a meal as a seq
 
 **The only Michelin-starred restaurant on this page.** A Korean husband-and-wife team cooking what their own site describes as European and French styles "coloured" by London and by the Korean techniques and ingredients they grew up with. The Good Food Guide rates it Very Good and Time Out gave it five stars.
 
+![Sollip's pale dining room, with a long beige banquette, oak tables set with small vases of dried flowers, oak shelves of glassware and a glazed front onto Melior Street](../../assets/articles/best-fusion-restaurants-london/sollip-dining-room.jpg)
+
+*Sollip's dining room.*
+
 Michelin describes a calm room in pastel shades; Time Out, a faceless new-build in the shadow of the Shard. The dish Michelin, the Good Food Guide and Dish Cult all single out is the **moo tarte tatin**, the French upside-down tart made with daikon radish and finished with kimchi; around it the autumn menu runs **myeon** noodles in perilla seed oil with scorched rice and chestnut, and **Iberico pork with curry and sundae**, the Korean blood sausage.
 
 **Dinner is £152, lunch £78, and it opens only Wednesday to Saturday** (lunch on Friday and Saturday). **Tables are released two months ahead on the 1st of each month.** It cannot cater for gluten-free or dairy-free diets.
@@ -111,6 +123,10 @@ Michelin describes a calm room in pastel shades; Time Out, a faceless new-build 
 
 Joo Young Won ran the kitchen at Galvin at Windows before opening this 30-cover neighbourhood room, and his site describes the cooking as "Korean & European inspired dishes using the best of British seasonal ingredients". **The Good Food Guide is the only source in this pass that files a restaurant under "Korean Fusion"**, and it is this one; Michelin gives it a Bib Gourmand, its mark for good cooking at a moderate price. Grace Dent's verdict in The Guardian: "not a Korean restaurant, but neither is it not a Korean restaurant".
 
+![Bentwood chairs and small wooden tables against an exposed brick chimney breast at Cálong, with a globe wall light and a shelf of natural wine bottles](../../assets/articles/best-fusion-restaurants-london/calong-dining-room.jpg)
+
+*Cálong's dining room.*
+
 Order **JFC**, Joo's fried chicken, which Michelin notes has been on the menu since the first day, then **tofu mandu** dumplings, **kimchi risotto** and **pork jeyuk**, the chilli-marinated stir-fry. The menu is chalked on a blackboard.
 
 **Dinner Wednesday to Saturday, lunch Friday to Sunday, closed Monday and Tuesday.** It always holds some tables back for walk-ins.
@@ -120,6 +136,10 @@ Order **JFC**, Joo's fried chicken, which Michelin notes has been on the menu si
 *££££ · 41A South Audley Street, W1K 2PS · Cited by 5 sources · [book a table](https://www.bardespres.com/london-book-a-table/)*
 
 The French chef Cyril Lignac's first restaurant outside France, which his own site sums up as "French savoir-faire" with "a touch of Japanese individuality". Five sources name it, but not warmly in every case: The Infatuation rates it 7.9 and calls it pricey, and Grace Dent's 2021 review was built around an £8 vanilla-flavoured mash.
+
+![The dining room at Bar des Prés, with a long marble counter and cream bar stools, red lacquered walls, shelves of ceramics and paper lantern lights](../../assets/articles/best-fusion-restaurants-london/bar-des-pres-counter.jpg)
+
+*The counter at Bar des Prés.*
 
 The menu splits into sushi from £8 a piece, a robata grill and French plates. The signatures are **black cod caramelised with miso** (£45), **Scottish langoustine ravioli in bisque** (£32), **crispy rice with Oscietra caviar** (£38 for three) and an **A4 Kagoshima wagyu sando** at £89. Counter seats face the chefs; the back room is quieter.
 
@@ -209,6 +229,10 @@ Kolkata's Chinese community settled in the Tangra district, and the food they co
 
 "Modern Indian energy. Indo-Chinese spirit. Fully vegetarian", in its own words, "bringing the energy of Kolkata to Soho". Everything not marked vegetarian is vegan, and no egg is used.
 
+![The mustard-yellow shopfront of Tangra at 17 Frith Street, with the name in red lettering and window panels reading momos and rolls, snacks and chaat, rice and noodles](../../assets/articles/best-fusion-restaurants-london/tangra-frith-street.jpg)
+
+*Tangra on Frith Street.*
+
 Order **Tangra Hakka noodles** (£10.50), **gobi 65**, the fried cauliflower (£12.50), the **Manchurian kofta** and the **black truffle xiao bao**. The Tangra Edit sharing menu is £32 a head. Food with Chetna and Just Veganin both filmed visits in 2026, and Just Veganin calls it the best vegetarian Indo-Chinese in London; on Reddit, opinion splits hard, from "I really enjoyed my visit" to "avoid".
 
 **Open every day, until midnight Thursday to Saturday.** Parties of nine or more book by email.
@@ -284,6 +308,10 @@ The dish that sums it up is **toppognocchi**: Korean rice cakes and potato gnocc
 *£££ · 2–4 Farmer Street, W8 7SN, and 9th Floor, 100 Liverpool Street, EC2M 2AT · Cited by 4 sources · [book a table](https://www.losmochis.co.uk/reservations)*
 
 **The only London restaurant Harden's files under "Fusion"**, and its own site calls it "the global pioneer of pairing Mexican & Japanese cuisines". Notting Hill opened in 2021 on two floors with a terrace; the City site is nine floors up above Broadgate Circle, with a 3,000 sq ft rooftop terrace facing St Paul's.
+
+![A table at Los Mochis seen from above: guacamole, tortilla chips, a white fish ceviche with an edible flower, salmon tiradito in a dark dressing and pulled duck on crispy rice, with chopsticks](../../assets/articles/best-fusion-restaurants-london/los-mochis-ceviche-tiradito.jpg)
+
+*Guacamole, ceviche and tiradito at Los Mochis.*
 
 Order **spicy salmon on crispy rice** (£21), **maguro ceviche** (£26), the **black cod volcano maki** (£26) and a **dynamite prawn taco** (£20). The whole menu is free of gluten, nuts and celery.
 

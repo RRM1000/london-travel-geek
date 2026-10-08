@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-26",
- "count": 971,
- "withCoords": 822,
+ "generated": "2026-10-08",
+ "count": 982,
+ "withCoords": 821,
  "facets": {
   "cuisine": [
    {
     "value": "British",
     "slug": "british",
-    "count": 244
+    "count": 245
    },
    {
     "value": "Italian",
@@ -22,7 +22,7 @@
    {
     "value": "Indian",
     "slug": "indian",
-    "count": 50
+    "count": 55
    },
    {
     "value": "Middle Eastern",
@@ -47,7 +47,7 @@
    {
     "value": "Korean",
     "slug": "korean",
-    "count": 21
+    "count": 23
    },
    {
     "value": "Spanish",
@@ -55,14 +55,14 @@
     "count": 18
    },
    {
-    "value": "Mexican",
-    "slug": "mexican",
+    "value": "French",
+    "slug": "french",
     "count": 17
    },
    {
-    "value": "French",
-    "slug": "french",
-    "count": 16
+    "value": "Mexican",
+    "slug": "mexican",
+    "count": 17
    },
    {
     "value": "Greek",
@@ -82,7 +82,7 @@
    {
     "value": "Peruvian",
     "slug": "peruvian",
-    "count": 10
+    "count": 11
    },
    {
     "value": "Sri Lankan",
@@ -125,14 +125,14 @@
     "count": 4
    },
    {
-    "value": "Persian",
-    "slug": "persian",
+    "value": "Caribbean",
+    "slug": "caribbean",
     "count": 3
    },
    {
-    "value": "Caribbean",
-    "slug": "caribbean",
-    "count": 2
+    "value": "Persian",
+    "slug": "persian",
+    "count": 3
    },
    {
     "value": "Ethiopian",
@@ -154,17 +154,17 @@
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 105
+    "count": 106
    },
    {
     "value": "Mayfair",
     "slug": "mayfair",
-    "count": 62
+    "count": 63
    },
    {
     "value": "Shoreditch",
     "slug": "shoreditch",
-    "count": 50
+    "count": 51
    },
    {
     "value": "South Bank",
@@ -189,7 +189,7 @@
    {
     "value": "Hackney",
     "slug": "hackney",
-    "count": 25
+    "count": 27
    },
    {
     "value": "Islington",
@@ -199,17 +199,17 @@
    {
     "value": "City Of London",
     "slug": "city-of-london",
-    "count": 22
+    "count": 23
    },
    {
     "value": "Notting Hill",
     "slug": "notting-hill",
-    "count": 20
+    "count": 21
    },
    {
     "value": "Bermondsey",
     "slug": "bermondsey",
-    "count": 17
+    "count": 18
    },
    {
     "value": "Canary Wharf",
@@ -311,22 +311,27 @@
    {
     "value": "grill",
     "slug": "grill",
-    "count": 157
+    "count": 159
    },
    {
     "value": "small-plates",
     "slug": "small-plates",
-    "count": 143
+    "count": 145
    },
    {
     "value": "street-food",
     "slug": "street-food",
-    "count": 99
+    "count": 100
    },
    {
     "value": "seasonal",
     "slug": "seasonal",
     "count": 87
+   },
+   {
+    "value": "pasta",
+    "slug": "pasta",
+    "count": 79
    },
    {
     "value": "pizza",
@@ -339,14 +344,9 @@
     "count": 79
    },
    {
-    "value": "pasta",
-    "slug": "pasta",
-    "count": 78
-   },
-   {
     "value": "tasting-menu",
     "slug": "tasting-menu",
-    "count": 48
+    "count": 50
    },
    {
     "value": "breakfast",
@@ -356,7 +356,7 @@
    {
     "value": "vegetarian",
     "slug": "vegetarian",
-    "count": 41
+    "count": 43
    },
    {
     "value": "roast",
@@ -374,19 +374,19 @@
     "count": 35
    },
    {
+    "value": "brunch",
+    "slug": "brunch",
+    "count": 33
+   },
+   {
     "value": "deli",
     "slug": "deli",
     "count": 33
    },
    {
-    "value": "brunch",
-    "slug": "brunch",
-    "count": 32
-   },
-   {
     "value": "noodles",
     "slug": "noodles",
-    "count": 31
+    "count": 33
    },
    {
     "value": "fish-and-chips",
@@ -409,14 +409,19 @@
     "count": 25
    },
    {
+    "value": "bakery",
+    "slug": "bakery",
+    "count": 22
+   },
+   {
     "value": "hot-chocolate",
     "slug": "hot-chocolate",
     "count": 22
    },
    {
-    "value": "bakery",
-    "slug": "bakery",
-    "count": 21
+    "value": "sushi",
+    "slug": "sushi",
+    "count": 22
    },
    {
     "value": "cocktails",
@@ -426,17 +431,12 @@
    {
     "value": "coffee",
     "slug": "coffee",
-    "count": 20
-   },
-   {
-    "value": "sushi",
-    "slug": "sushi",
-    "count": 19
+    "count": 21
    },
    {
     "value": "tacos",
     "slug": "tacos",
-    "count": 15
+    "count": 16
    },
    {
     "value": "bbq",
@@ -464,14 +464,14 @@
     "count": 8
    },
    {
-    "value": "ramen",
-    "slug": "ramen",
-    "count": 8
-   },
-   {
     "value": "south-indian",
     "slug": "south-indian",
     "count": 8
+   },
+   {
+    "value": "ramen",
+    "slug": "ramen",
+    "count": 7
    },
    {
     "value": "ice-cream",
@@ -508,12 +508,12 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 377
+    "count": 384
    },
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 235
+    "count": 236
    },
    {
     "value": "£",
@@ -523,7 +523,7 @@
    {
     "value": "££££",
     "slug": "price-4",
-    "count": 148
+    "count": 151
    }
   ]
  },
@@ -1723,8 +1723,8 @@
     "instagrammable",
     "showstopper"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B3 C4",
+   "sourceCount": "8",
+   "sourceTiers": "B3 C4 E1",
    "sourceUrls": "https://absolutelymagazines.com/best-greek-restaurants-in-london/ | https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
   },
   {
@@ -1999,11 +1999,12 @@
    "whyGo": "A Soho basement lit by cut-glass chandeliers, over an open fire kitchen.",
    "opNote": "One source calls it impressive but just subdued enough not to feel gimmicky, which is the distinction this whole list turns on.",
    "lists": [
-    "instagrammable"
+    "instagrammable",
+    "fusion"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B4 C1",
-   "sourceUrls": "https://www.thehandbook.com/bbq-restaurants-london/ | https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
+   "sourceCount": "6",
+   "sourceTiers": "A1 B4 C1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants | https://www.thehandbook.com/bbq-restaurants-london/ | https://www.designmynight.com/london/instagrammable-restaurants-in-london"
   },
   {
    "slug": "tattu-london",
@@ -2703,9 +2704,9 @@
     "big-mamma"
    ],
    "video": "https://youtu.be/a6sx9OCMEpw?t=69",
-   "sourceCount": "8",
-   "sourceTiers": "B2 C5 D1",
-   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.theinfatuation.com/london/guides/big-mamma-power-rankings | https://luxurywanderings.com/beautiful-restaurants-in-london/"
+   "sourceCount": "9",
+   "sourceTiers": "B2 C6 D1",
+   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.theinfatuation.com/london/guides/big-mamma-power-rankings | https://thenudge.com/fun-restaurants-in-london/"
   },
   {
    "slug": "bon-vino",
@@ -3500,9 +3501,9 @@
     "instagrammable",
     "big-mamma"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B4 C3",
-   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/ | https://www.theinfatuation.com/london/guides/big-mamma-power-rankings"
+   "sourceCount": "9",
+   "sourceTiers": "B5 C4",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
   },
   {
    "slug": "jacuzzi",
@@ -3542,9 +3543,9 @@
     "instagrammable",
     "big-mamma"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B2 C2 D1",
-   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.thehandbook.com/best-pasta-restaurants-london/ | https://luxurywanderings.com/beautiful-restaurants-in-london/"
+   "sourceCount": "6",
+   "sourceTiers": "B2 C3 D1",
+   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/fun-restaurants-in-london/"
   },
   {
    "slug": "carlotta",
@@ -5277,9 +5278,12 @@
    "whyGo": "Itameshi - Italian cooking through a Japanese lens - with eight fresh pastas made in a glass-walled corner of the dining room.",
    "opNote": "Sister to Angelina in Dalston, but a different format: Dalston runs a set kaiseki tasting menu, Spitalfields is a la carte and faster. Executive chef Usman Haider oversees both.",
    "signals": "2 sources: Country & Town House, The Infatuation",
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "A1 B4 E1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants | https://www.timeout.com/london/restaurants/osteria-angelina | https://www.theinfatuation.com/london/reviews/osteria-angelina"
   },
   {
    "slug": "como-garden",
@@ -7992,8 +7996,8 @@
    "lists": [
     "afternoon-tea"
    ],
-   "sourceCount": "20",
-   "sourceTiers": "B11 C9",
+   "sourceCount": "21",
+   "sourceTiers": "B12 C9",
    "sourceUrls": "https://luxlifelondon.com/best-afternoon-teas-london/ | https://www.theinfatuation.com/london/guides/best-afternoon-tea-london | https://www.olivemagazine.com/guides/best-afternoon-tea-london/"
   },
   {
@@ -8857,8 +8861,8 @@
     "best-indian:6"
    ],
    "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=0s",
-   "sourceCount": "11",
-   "sourceTiers": "A1 B6 C2 D2",
+   "sourceCount": "12",
+   "sourceTiers": "A1 B6 C3 D2",
    "sourceUrls": "https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://www.standard.co.uk/going-out/restaurants/best-barbecue-bbq-restaurants-london-b1084972.html | https://www.designmynight.com/london/best-halal-restaurants-london"
   },
   {
@@ -8902,8 +8906,8 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "16",
-   "sourceTiers": "A2 B4 C7 D3",
+   "sourceCount": "18",
+   "sourceTiers": "A2 B6 C7 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/"
   },
   {
@@ -10049,9 +10053,9 @@
    ],
    "whyGo": "Named by both The Infatuation and Time Out, which is a narrow overlap to land in.",
    "signals": "2 sources",
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-indian-restaurants-london | https://www.timeout.com/london/restaurants/londons-best-indian-restaurants"
+   "sourceCount": "3",
+   "sourceTiers": "B2 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/shankeys | https://www.theinfatuation.com/london/reviews/shankeys | https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/"
   },
   {
    "slug": "rasa-stoke-newington",
@@ -10691,8 +10695,8 @@
     "afternoon-tea",
     "special-occasion"
    ],
-   "sourceCount": "13",
-   "sourceTiers": "B8 C5",
+   "sourceCount": "22",
+   "sourceTiers": "B11 C11",
    "sourceUrls": "https://luxlifelondon.com/best-afternoon-teas-london/ | https://timeout.com/london/restaurants/afternoon-tea-in-london | https://www.theinfatuation.com/london/guides/best-afternoon-tea-london"
   },
   {
@@ -10731,8 +10735,8 @@
     "afternoon-tea",
     "special-occasion"
    ],
-   "sourceCount": "17",
-   "sourceTiers": "B9 C7 D1",
+   "sourceCount": "19",
+   "sourceTiers": "B10 C8 D1",
    "sourceUrls": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london | https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/ | https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
   },
   {
@@ -10769,8 +10773,8 @@
    "lists": [
     "afternoon-tea"
    ],
-   "sourceCount": "11",
-   "sourceTiers": "A1 B7 C3",
+   "sourceCount": "12",
+   "sourceTiers": "A1 B8 C3",
    "sourceUrls": "https://afternoontea.co.uk/top-afternoon-tea-award-winners/ | https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/ | https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
   },
   {
@@ -10810,8 +10814,8 @@
     "afternoon-tea",
     "special-occasion"
    ],
-   "sourceCount": "23",
-   "sourceTiers": "B12 C10 D1",
+   "sourceCount": "24",
+   "sourceTiers": "B13 C10 D1",
    "sourceUrls": "https://www.olivemagazine.com/guides/best-afternoon-tea-london/ | https://www.theinfatuation.com/london/guides/best-afternoon-tea-london | https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/"
   },
   {
@@ -10852,8 +10856,8 @@
     "afternoon-tea",
     "special-occasion"
    ],
-   "sourceCount": "15",
-   "sourceTiers": "B8 C6 E1",
+   "sourceCount": "17",
+   "sourceTiers": "B9 C7 E1",
    "sourceUrls": "https://luxlifelondon.com/best-afternoon-teas-london/ | https://timeout.com/london/restaurants/afternoon-tea-in-london | https://www.theinfatuation.com/london/guides/best-afternoon-tea-london"
   },
   {
@@ -10932,8 +10936,8 @@
    "lists": [
     "afternoon-tea"
    ],
-   "sourceCount": "16",
-   "sourceTiers": "B7 C9",
+   "sourceCount": "34",
+   "sourceTiers": "B13 C21",
    "sourceUrls": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/ | https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london | https://www.timeout.com/london/hotels/the-best-hotels-in-belgravia"
   },
   {
@@ -10971,8 +10975,8 @@
    "lists": [
     "afternoon-tea"
    ],
-   "sourceCount": "14",
-   "sourceTiers": "B7 C7",
+   "sourceCount": "16",
+   "sourceTiers": "B8 C8",
    "sourceUrls": "https://www.theinfatuation.com/london/guides/best-afternoon-tea-london | https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/ | https://www.factlondon.com/food-london-united-kingdom/16-amazing-afternoon-teas-in-london"
   },
   {
@@ -11008,8 +11012,8 @@
    "lists": [
     "afternoon-tea"
    ],
-   "sourceCount": "12",
-   "sourceTiers": "B8 C4",
+   "sourceCount": "17",
+   "sourceTiers": "B10 C7",
    "sourceUrls": "https://www.olivemagazine.com/guides/best-afternoon-tea-london/ | https://luxlifelondon.com/best-afternoon-teas-london/ | https://www.theinfatuation.com/london/guides/best-afternoon-tea-london"
   },
   {
@@ -11086,8 +11090,8 @@
    "lists": [
     "afternoon-tea"
    ],
-   "sourceCount": "10",
-   "sourceTiers": "B5 C5",
+   "sourceCount": "18",
+   "sourceTiers": "B7 C11",
    "sourceUrls": "https://www.forbes.com/sites/joemicallef/2025/07/12/the-ultimate-guide-to-high-tea-in-london-20-must-try-venues/ | https://www.cntraveller.com/gallery/family-friendly-hotels-london | https://www.cntraveler.com/gallery/best-family-friendly-hotels-london"
   },
   {
@@ -11952,9 +11956,9 @@
     "special-occasion",
     "showstopper"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://www.designmynight.com/london/restaurants/best-dim-sum-london"
+   "sourceCount": "3",
+   "sourceTiers": "B2 E1",
+   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://www.designmynight.com/london/restaurants/best-dim-sum-london | https://www.reddit.com/r/london/comments/puv5zb/restaurants_with_live_music/"
   },
   {
    "slug": "imperial-treasure",
@@ -12975,9 +12979,9 @@
     "quick"
    ],
    "whyGo": "British cheeses ride past on a conveyor belt, each paired with its own condiment - a gimmick that turns out to be the best way to taste a lot of them in one sitting.",
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@strictlydumpling"
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://www.youtube.com/@strictlydumpling"
   },
   {
    "slug": "arcade-food-hall",
@@ -14940,6 +14944,7 @@
    "zone": "2",
    "district": "East",
    "borough": "Hackney",
+   "guide": "hackney-area-guide",
    "address": "56 Dalston Ln, London E8 3AH, UK",
    "postcode": "E8 3AH",
    "lat": 51.546087,
@@ -14953,13 +14958,14 @@
     "date",
     "solo"
    ],
-   "whyGo": "A fixed menu that runs Japanese technique through Italian dishes without treating either as a novelty - the only kitchen in London doing it seriously.",
+   "whyGo": "A £74 kondate set menu that runs Japanese ingredients through Italian dishes - shokupan with robiola and umeboshi, wild boar cappellacci with kabocha and furikake.",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "fusion"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://www.timeout.com/london/restaurants/londons-best-japanese-restaurants"
+   "sourceCount": "8",
+   "sourceTiers": "A1 B4 C1 D1 E1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants | https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/ | https://www.thehandbook.com/london-fusion-menus/"
   },
   {
    "slug": "akira-japan-house",
@@ -15269,7 +15275,8 @@
    ],
    "whyGo": "Sashimi and maki on the same menu as ceviche, tiradito and tacos - the pairing sounds like a gimmick and is served like neither cuisine is being humoured.",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "fusion"
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
@@ -15315,47 +15322,6 @@
    "sourceCount": "2",
    "sourceTiers": "C2",
    "sourceUrls": "https://balancejournal.co/food-drink/best-japanese-restaurants-london | https://washoku-guide.com/cities/london/izakaya"
-  },
-  {
-   "slug": "ramo-ramen",
-   "name": "Ramo Ramen",
-   "cuisine": "Japanese",
-   "style": "Filipino-Japanese ramen",
-   "specialities": [
-    "ramen",
-    "noodles"
-   ],
-   "format": "Restaurant",
-   "chainType": "mini-chain",
-   "area": "Soho",
-   "zone": "1",
-   "district": "Central",
-   "borough": "Westminster",
-   "guide": "soho-area-guide",
-   "address": "28 Brewer Street",
-   "postcode": "W1F 0SR",
-   "lat": 51.512195,
-   "lng": -0.134608,
-   "station": "Piccadilly Circus",
-   "walkMin": 4,
-   "price": "££",
-   "booking": "walk-in",
-   "bookingUrl": "https://www.sevenrooms.com/reservations/ramosoho/",
-   "website": "https://ramoramen.com/",
-   "goodFor": [
-    "quick",
-    "solo",
-    "date",
-    "groups"
-   ],
-   "whyGo": "Ramen run through Filipino cooking rather than beside it - the oxtail kare kare bowl is the dish the whole place is built around.",
-   "signature": "Oxtail kare kare ramen",
-   "lists": [
-    "best-value"
-   ],
-   "sourceCount": "5",
-   "sourceTiers": "B4 C1",
-   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
   },
   {
    "slug": "tokii",
@@ -17359,8 +17325,8 @@
     "nicest-dining",
     "special-occasion"
    ],
-   "sourceCount": "9",
-   "sourceTiers": "A1 B5 C3",
+   "sourceCount": "10",
+   "sourceTiers": "A1 B5 C3 E1",
    "sourceUrls": "https://guide.michelin.com/gb/en/restaurants | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
@@ -18119,8 +18085,8 @@
     "nicest-dining",
     "special-occasion"
    ],
-   "sourceCount": "13",
-   "sourceTiers": "A1 B8 C4",
+   "sourceCount": "14",
+   "sourceTiers": "A1 B8 C4 E1",
    "sourceUrls": "https://guide.michelin.com/gb/en/restaurants | https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
@@ -18245,8 +18211,8 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B4 C3",
+   "sourceCount": "8",
+   "sourceTiers": "B4 C4",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-mexican-restaurants | https://thesaucemag.com/best-mexican-restaurants-london/ | https://www.thehandbook.com/best-mexican-restaurants-in-london/"
   },
   {
@@ -18794,9 +18760,12 @@
     "quick"
    ],
    "whyGo": "Ashley Chipchase went from a Brick Lane street stall to a canalside room near Victoria Park in 2023, and the Korean-Mexican pairing turned out to be more than a gimmick.",
+   "lists": [
+    "fusion"
+   ],
    "sourceCount": "3",
    "sourceTiers": "B1 C2",
-   "sourceUrls": "https://www.theinfatuation.com/london/cuisines/korean | https://londontheinside.com/map/korean-restaurants/ | https://secretldn.com/korean-restaurants-london/"
+   "sourceUrls": "https://www.theinfatuation.com/london/reviews/mexican-seoul | https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/ | https://secretldn.com/korean-restaurants-london/"
   },
   {
    "slug": "assa",
@@ -18851,6 +18820,7 @@
    "zone": "2",
    "district": "North",
    "borough": "Hackney",
+   "guide": "hackney-area-guide",
    "address": "35 Stoke Newington Church St, London N16 0NX, UK",
    "postcode": "N16 0NX",
    "lat": 51.561805,
@@ -18869,11 +18839,12 @@
    "whyGo": "Chef-owner Joo Won runs a blackboard menu that puts subtle Korean seasoning through European cooking - a bistro rather than a small-plates repeat.",
    "signals": "Michelin Guide listed",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "fusion"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/londons-top-100-restaurants_262 | https://www.theinfatuation.com/london/cuisines/korean | https://londontheinside.com/map/korean-restaurants/"
+   "sourceCount": "7",
+   "sourceTiers": "A2 B4 C1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants | https://www.thegoodfoodguide.co.uk/restaurant/calong/id/82916 | https://www.timeout.com/london/restaurants/calong"
   },
   {
    "slug": "chungdam",
@@ -19147,8 +19118,8 @@
    "lists": [
     "nicest-dining"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B4 C2 D1",
+   "sourceCount": "8",
+   "sourceTiers": "B4 C3 D1",
    "sourceUrls": "https://www.theinfatuation.com/london/guides/best-restaurants-chinatown | https://www.timeout.com/london/restaurants/where-to-eat-in-chinatown | https://www.squaremeal.co.uk/restaurants/best/best-chinese-restaurants-in-chinatown_203"
   },
   {
@@ -19302,11 +19273,12 @@
    "lists": [
     "brunch",
     "nicest-dining",
-    "best-indian:21"
+    "best-indian:21",
+    "fusion"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "A1 B1",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://www.timeout.com/london/restaurants/the-best-brunches-in-london"
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 E1",
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://www.timeout.com/london/restaurants/the-best-brunches-in-london | https://www.shortlist.com/food-and-drink/one-of-londons-best-fusion-restaurants-is-heading-over-to-the-new-v-and-a-east-museum"
   },
   {
    "slug": "oudh-1722",
@@ -19792,8 +19764,8 @@
    "lists": [
     "nicest-dining"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B4 C1",
+   "sourceCount": "6",
+   "sourceTiers": "B4 C2",
    "sourceUrls": "https://www.timeout.com/london/news/the-top-100-restaurants-in-the-uk-in-2026-full-list-of-56-award-winning-places-to-eat-in-london-061326 | https://www.theinfatuation.com/london/guides/best-burgers-london | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
@@ -20274,9 +20246,9 @@
     "nicest-dining",
     "wine-led"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B4 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed | https://www.theinfatuation.com/london/guides/best-italian-restaurants-london"
+   "sourceCount": "6",
+   "sourceTiers": "B5 C1",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://www.thehandbook.com/londons-best-restaurants-with-live-music/ | https://www.designmynight.com/london/blog/national-restaurant-awards-2026-revealed"
   },
   {
    "slug": "bouchon-racine",
@@ -22702,9 +22674,9 @@
     "breakfast",
     "late-night"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C3",
-   "sourceUrls": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/ | https://candaceabroad.com/brunch-city-of-london/ | https://thenudge.com/features/the-ultimate-london-brunch-guide/"
+   "sourceCount": "5",
+   "sourceTiers": "B2 C3",
+   "sourceUrls": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/ | https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://candaceabroad.com/brunch-city-of-london/"
   },
   {
    "slug": "aqua-shard",
@@ -22958,8 +22930,8 @@
     "showstopper",
     "special-occasion"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "A1 B2",
+   "sourceCount": "4",
+   "sourceTiers": "A1 B2 C1",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-french-restaurants-in-london | https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches | https://luxlifelondon.com/best-italian-restaurants-london/"
   },
   {
@@ -23000,9 +22972,9 @@
     "special-occasion",
     "instagrammable"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B2 C3",
-   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://luxurylondon.co.uk/taste/food/late-night-dining-london-after-hours-restaurants/ | https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
+   "sourceCount": "7",
+   "sourceTiers": "B4 C3",
+   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553 | https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://www.designmynight.com/london/instagrammable-restaurants-in-london"
   },
   {
    "slug": "brasserie-of-light",
@@ -23124,7 +23096,8 @@
    "lists": [
     "unusual",
     "showstopper",
-    "special-occasion"
+    "special-occasion",
+    "fusion"
    ]
   },
   {
@@ -23613,10 +23586,11 @@
    "signature": "Fish sauce profiteroles",
    "signals": "Time Out 50 Best; Michelin Guide listed",
    "lists": [
-    "nicest-dining"
+    "nicest-dining",
+    "fusion"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "A1 B2 C2",
+   "sourceCount": "7",
+   "sourceTiers": "A1 B3 C3",
    "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/filipino | https://www.timeout.com/london/restaurants/best-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-restaurants-london"
   },
   {
@@ -25856,9 +25830,9 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://thenudge.com/collections/things-to-do-in-shoreditch/ | https://www.cktravels.com/london-games-bars-arcades/"
+   "sourceCount": "3",
+   "sourceTiers": "B1 C2",
+   "sourceUrls": "https://www.designmynight.com/london/restaurants/restaurants-with-entertainment | https://thenudge.com/collections/things-to-do-in-shoreditch/ | https://www.cktravels.com/london-games-bars-arcades/"
   },
   {
    "slug": "smiths-wapping",
@@ -27184,8 +27158,8 @@
     "cocktails",
     "showstopper"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "C3",
+   "sourceCount": "4",
+   "sourceTiers": "C3 D1",
    "sourceUrls": "https://londontheinside.com/map/shoreditch/ | https://thenudge.com/london-cocktail-bars/ | https://balancejournal.co/food-drink/best-cocktail-bars-london"
   },
   {
@@ -27575,9 +27549,9 @@
     "cocktails",
     "showstopper"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "C2",
-   "sourceUrls": "https://balancejournal.co/food-drink/best-cocktail-bars-london | https://www.bestcocktailsguide.com/places-to-drink/city/london"
+   "sourceCount": "6",
+   "sourceTiers": "B1 C3 D1 E1",
+   "sourceUrls": "https://www.designmynight.com/london/restaurants/restaurants-with-live-music-in-london | https://balancejournal.co/food-drink/best-cocktail-bars-london | https://www.bestcocktailsguide.com/places-to-drink/city/london"
   },
   {
    "slug": "bar-crispin",
@@ -27775,9 +27749,9 @@
     "best-indian:22"
    ],
    "video": "https://www.youtube.com/watch?v=AHUnqeRroYk&t=228s",
-   "sourceCount": "4",
-   "sourceTiers": "B2 C2",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london | https://www.designmynight.com/london/blog/best-pakistani-restaurants-london | https://www.londonxlondon.com/pakistani-restaurants-london/"
+   "sourceCount": "5",
+   "sourceTiers": "B2 C3",
+   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-pakistani-restaurants-london | https://www.designmynight.com/london/blog/best-pakistani-restaurants-london | https://thenudge.com/fun-restaurants-in-london/"
   },
   {
    "slug": "lahore-kebab-house",
@@ -28086,9 +28060,9 @@
     "best-value",
     "late-night"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/the-best-late-night-restaurants-in-london | https://www.londonxlondon.com/late-night-restaurants-london/"
+   "sourceCount": "4",
+   "sourceTiers": "B2 C2",
+   "sourceUrls": "https://www.thehandbook.com/londons-best-restaurants-with-live-music/ | https://www.theinfatuation.com/london/guides/the-best-late-night-restaurants-in-london | https://thenudge.com/the-best-london-restaurants-with-live-music/"
   },
   {
    "slug": "brick-lane-market",
@@ -28638,9 +28612,9 @@
     "unusual",
     "nicest-dining"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B3 C1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/where-to-eat-or-drink-near-water | https://www.squaremeal.co.uk/restaurants/best-for/riverside-restaurants-in-london_8664 | https://www.designmynight.com/london/restaurants/riverside-restaurants-london"
+   "sourceCount": "6",
+   "sourceTiers": "B4 C2",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://www.theinfatuation.com/london/guides/where-to-eat-or-drink-near-water | https://www.squaremeal.co.uk/restaurants/best-for/riverside-restaurants-in-london_8664"
   },
   {
    "slug": "crate-brewery",
@@ -28788,9 +28762,12 @@
    ],
    "whyGo": "Nikkei cooking - the Japanese-Peruvian tradition - which is a genuinely unexpected thing to find in Stratford and the reason to skip the chains.",
    "signature": "Ceviche and grilled octopus",
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.designmynight.com/london/peruvian-restaurants-in-london"
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "B3",
+   "sourceUrls": "https://www.timeout.com/london/restaurants/bamboo-mat | https://www.theguardian.com/food/2022/jun/03/bamboo-mat-london-e10-grace-dent-restaurant-review | https://www.designmynight.com/london/peruvian-restaurants-in-london"
   },
   {
    "slug": "kateh",
@@ -29100,7 +29077,10 @@
    "opNote": "Live music most nights; club shows are ticketed separately from dinner (usually £10-20), so book the table and the show together. Piano bar sets are typically free.",
    "lists": [
     "live-jazz"
-   ]
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "B2 C2 D1 E1",
+   "sourceUrls": "https://thesaucemag.com/london-restaurants-with-live-music/ | https://www.thehandbook.com/londons-best-restaurants-with-live-music/ | https://thenudge.com/the-best-london-restaurants-with-live-music/"
   },
   {
    "slug": "bulls-head-barnes",
@@ -30312,6 +30292,40 @@
    ]
   },
   {
+   "slug": "clifton-nurseries-cafe",
+   "name": "The Café at Clifton Nurseries",
+   "cuisine": "British",
+   "style": "Cafe inside a glasshouse",
+   "specialities": [
+    "brunch",
+    "bakery",
+    "coffee"
+   ],
+   "format": "Cafe",
+   "chainType": "independent",
+   "context": "Clifton Nurseries",
+   "area": "Little Venice",
+   "zone": "2",
+   "district": "West",
+   "borough": "Westminster",
+   "address": "Clifton Nursery Yard, 5A Clifton Villas",
+   "postcode": "W9 2PH",
+   "price": "££",
+   "website": "https://www.clifton.co.uk/london-nursery-garden-centre/cafe",
+   "setting": "garden",
+   "outdoor": "garden",
+   "goodFor": [
+    "solo",
+    "groups"
+   ],
+   "whyGo": "A café inside a glasshouse in the grounds of Clifton Nurseries, a working garden centre on the same Maida Vale site since 1851. Brunch and lunch dishes, bakes and cakes, with a terrace outside.",
+   "signature": "Brunch in the glasshouse",
+   "opNote": "Daytime only: Monday to Saturday 9:00-17:30, Sunday 10:30-16:30. Typically £10-20 a head.",
+   "lists": [
+    "unusual"
+   ]
+  },
+  {
    "slug": "feng-shang-princess",
    "name": "Feng Shang Princess",
    "cuisine": "Chinese",
@@ -31414,8 +31428,8 @@
    "lists": [
     "seafood"
    ],
-   "sourceCount": "9",
-   "sourceTiers": "B5 C2 D2",
+   "sourceCount": "10",
+   "sourceTiers": "B5 C3 D2",
    "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london | https://www.theinfatuation.com/london/guides/best-seafood-restaurants-london | https://www.designmynight.com/london/seafood-restaurants-in-london"
   },
   {
@@ -31493,7 +31507,7 @@
    ],
    "sourceCount": "7",
    "sourceTiers": "A1 B3 C1 D2",
-   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london | https://www.thehandbook.com/london-seafood-restaurants/"
+   "sourceUrls": "https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.thehandbook.com/londons-best-restaurants-with-live-music/ | https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london"
   },
   {
    "slug": "seabird",
@@ -31727,9 +31741,9 @@
     "seafood",
     "best-value"
    ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london | https://www.thehandbook.com/london-seafood-restaurants/ | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
+   "sourceCount": "4",
+   "sourceTiers": "B3 C1",
+   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553 | https://www.timeout.com/london/restaurants/the-best-seafood-restaurants-in-london | https://www.thehandbook.com/london-seafood-restaurants/"
   },
   {
    "slug": "oystermen-seafood-bar-and-kitchen",
@@ -33944,9 +33958,9 @@
    "lists": [
     "peruvian"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "A1 B3 C3",
-   "sourceUrls": "https://www.hardens.com/restaurants/london/peruvian/ | https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london"
+   "sourceCount": "10",
+   "sourceTiers": "A1 B5 C3 E1",
+   "sourceUrls": "https://www.hardens.com/restaurants/london/peruvian/ | https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/ | https://www.thehandbook.com/london-fusion-menus/"
   },
   {
    "slug": "tierra-peru",
@@ -34034,11 +34048,12 @@
    "price": "£££",
    "whyGo": "An international group with six sites, and the room that taught central London the word Nikkei.",
    "lists": [
-    "peruvian"
+    "peruvian",
+    "fusion"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B3 C2",
-   "sourceUrls": "https://www.designmynight.com/london/best-halal-restaurants-london | https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/ | https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants"
+   "sourceCount": "9",
+   "sourceTiers": "B5 C2 D1 E1",
+   "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/ | https://www.thehandbook.com/london-fusion-menus/ | https://www.designmynight.com/london/best-halal-restaurants-london"
   },
   {
    "slug": "sabor-peruano",
@@ -34100,11 +34115,12 @@
    "price": "£££",
    "whyGo": "Jade-green walls with a water-lily motif, cushioned booths and low light, in the canalside office estate behind Paddington station — an unlikely address for a kitchen doing this much with raw fish.",
    "lists": [
-    "peruvian"
+    "peruvian",
+    "fusion"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.designmynight.com/london/peruvian-restaurants-in-london"
+   "sourceCount": "4",
+   "sourceTiers": "B4",
+   "sourceUrls": "https://www.designmynight.com/london/restaurants/restaurants-with-entertainment | https://www.squaremeal.co.uk/restaurants/best-for/fun-places-to-eat-in-london_9553 | https://www.thehandbook.com/london-fusion-menus/"
   },
   {
    "slug": "monmouth-kitchen",
@@ -34269,13 +34285,373 @@
    "address": "93 Kentish Town Road",
    "postcode": "NW1 8NY",
    "price": "££",
-   "whyGo": "Trading on the same stretch of Kentish Town Road since 1987, which it says makes it the oldest Filipino restaurant in London, and run by the family behind Belly Bistro and Ramo Ramen.",
+   "whyGo": "Trading on the same stretch of Kentish Town Road since 1987, which it says makes it the oldest Filipino restaurant in London, and run by the family behind Belly Bistro.",
    "lists": [
-    "filipino"
+    "filipino",
+    "fusion"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B2 C1 D1 E1",
+   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://www.londonxlondon.com/filipino-restaurants-london/"
+  },
+  {
+   "slug": "fatt-pundit",
+   "name": "Fatt Pundit",
+   "cuisine": "Indian",
+   "style": "Indo-Chinese (Hakka)",
+   "specialities": [
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "77 Berwick Street",
+   "postcode": "W1F 8TH",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "date",
+    "pre-theatre"
+   ],
+   "whyGo": "Kolkata's Hakka Chinese cooking - kid goat momos, crackling spinach, Kolkata chilli duck and lamb chops in black bean dust. A second site on Maiden Lane in Covent Garden.",
+   "signature": "Kid goat momo",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "10",
+   "sourceTiers": "B4 C2 D3 E1",
+   "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/ | https://www.thehandbook.com/london-fusion-menus/ | https://www.theinfatuation.com/london/reviews/fatt-pundit-covent-garden"
+  },
+  {
+   "slug": "sollip",
+   "name": "Sollip",
+   "cuisine": "Korean",
+   "style": "Korean-European",
+   "specialities": [
+    "tasting-menu"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "London Bridge",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Southwark",
+   "guide": "bermondsey-area-guide",
+   "address": "Unit 1, 8 Melior Street",
+   "postcode": "SE1 3QP",
+   "price": "££££",
+   "booking": "months",
+   "goodFor": [
+    "date",
+    "celebration"
+   ],
+   "whyGo": "A Korean husband-and-wife team cooking European technique through Korean ingredients - the daikon tarte tatin with kimchi is the signature. One Michelin star.",
+   "signature": "Moo (daikon) tarte tatin",
+   "signals": "Michelin star (2026)",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "7",
+   "sourceTiers": "A2 B2 C2 D1",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants | https://www.thegoodfoodguide.co.uk/restaurant/sollip/id/44032 | https://www.timeout.com/london/restaurants/sollip"
+  },
+  {
+   "slug": "bar-des-pres",
+   "name": "Bar des Prés",
+   "cuisine": "French",
+   "style": "French-Japanese",
+   "specialities": [
+    "sushi",
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Mayfair",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "mayfair-area-guide",
+   "address": "41A South Audley Street",
+   "postcode": "W1K 2PS",
+   "price": "££££",
+   "booking": "days",
+   "goodFor": [
+    "date",
+    "business",
+    "celebration"
+   ],
+   "whyGo": "Cyril Lignac's first restaurant outside France, pairing French cooking with Japanese - black cod caramelised with miso, langoustine ravioli, crispy rice with caviar.",
+   "signature": "Black cod caramelised with miso",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "A1 B4",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants | https://luxurylondon.co.uk/taste/food/best-fusion-restaurants-london/ | https://www.thehandbook.com/london-fusion-menus/"
+  },
+  {
+   "slug": "tangra",
+   "name": "Tangra",
+   "cuisine": "Indian",
+   "style": "Indo-Chinese, vegetarian",
+   "specialities": [
+    "small-plates",
+    "noodles",
+    "vegetarian"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "17 Frith Street",
+   "postcode": "W1D 4RG",
+   "price": "££",
+   "booking": "same-day",
+   "goodFor": [
+    "groups",
+    "quick"
+   ],
+   "whyGo": "All-vegetarian Indo-Chinese from the Kolkata tradition - Hakka noodles, gobi 65, Manchurian kofta - open until midnight Thursday to Saturday.",
+   "signature": "Tangra Hakka noodles",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "5",
+   "sourceTiers": "B2 D2 E1",
+   "sourceUrls": "https://www.theinfatuation.com/london/reviews/tangra | https://www.olivemagazine.com/restaurants/london/best-new-restaurants-in-london/ | https://www.youtube.com/@FoodwithChetna"
+  },
+  {
+   "slug": "dalchini",
+   "name": "Dalchini",
+   "cuisine": "Indian",
+   "style": "Indo-Chinese (Hakka)",
+   "specialities": [
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Wimbledon",
+   "zone": "3",
+   "district": "South",
+   "borough": "Merton",
+   "address": "147 Arthur Road",
+   "postcode": "SW19 8AB",
+   "price": "££",
+   "booking": "same-day",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "Hakka Indo-Chinese by Wimbledon Park station since 2000 - Hakka chilli chicken, gobi Manchurian, Mahim fish koliwada.",
+   "signature": "Hakka chilli chicken",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "E1",
+   "sourceUrls": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/"
+  },
+  {
+   "slug": "bombay-chow-wembley",
+   "name": "Bombay Chow",
+   "cuisine": "Indian",
+   "style": "Indo-Chinese (Hakka)",
+   "specialities": [
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Wembley",
+   "zone": "4",
+   "district": "North",
+   "borough": "Brent",
+   "address": "299 Harrow Road",
+   "postcode": "HA9 6BD",
+   "price": "££",
+   "booking": "same-day",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "whyGo": "Indo-Chinese Hakka cooking a few minutes from Wembley Stadium, from the people behind Fatt Pundit - Kolkata chilly paneer, Tai Pai chicken, chicken lollipops. All meat halal.",
+   "signature": "Kolkata chilly paneer",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "E1",
+   "sourceUrls": "https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/"
+  },
+  {
+   "slug": "fan-notting-hill",
+   "name": "Fan",
+   "cuisine": "Peruvian",
+   "style": "Nikkei (Japanese-Peruvian-Cantonese)",
+   "specialities": [
+    "sushi",
+    "tasting-menu"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Notting Hill",
+   "zone": "1–2",
+   "district": "West",
+   "borough": "Kensington and Chelsea",
+   "guide": "notting-hill-area-guide",
+   "address": "6 Chepstow Road",
+   "postcode": "W2 5BH",
+   "price": "££££",
+   "booking": "days",
+   "goodFor": [
+    "date",
+    "celebration"
+   ],
+   "whyGo": "Chef Coco Sasaki's neo-Nikkei: Peruvian and Cantonese ingredients through Japanese technique, with pachikay nigiri and a £120 tasting menu.",
+   "signature": "Pachikay nigiri",
+   "lists": [
+    "fusion"
    ],
    "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://www.londonxlondon.com/filipino-restaurants-london/"
+   "sourceTiers": "A1 B2",
+   "sourceUrls": "https://guide.michelin.com/gb/en/greater-london/london/restaurants | https://www.theinfatuation.com/london/reviews/fan | https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants"
+  },
+  {
+   "slug": "vegan-yes",
+   "name": "Vegan Yes",
+   "cuisine": "Korean",
+   "style": "Italian-Korean, vegan",
+   "specialities": [
+    "vegetarian",
+    "pasta"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Brick Lane",
+   "zone": "1",
+   "district": "East",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "address": "64 Brick Lane",
+   "postcode": "E1 6RF",
+   "price": "££",
+   "booking": "walk-in",
+   "goodFor": [
+    "quick",
+    "date"
+   ],
+   "whyGo": "Chef Mauro's Florentine cooking and Dr Min's Korean heritage on one vegan menu since 2016 - toppognocchi puts rice cakes and gnocchi in gochujang passata.",
+   "signature": "Toppognocchi",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "3",
+   "sourceTiers": "D3",
+   "sourceUrls": "https://www.youtube.com/@JustVeganin | https://www.youtube.com/@HisKitch | https://www.youtube.com/@InnerAlchemyHub"
+  },
+  {
+   "slug": "regency-club",
+   "name": "The Regency Club",
+   "cuisine": "Indian",
+   "style": "Indian-Kenyan",
+   "specialities": [
+    "grill"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Queensbury",
+   "zone": "4",
+   "district": "North",
+   "borough": "Brent",
+   "address": "18-21 Queensbury Station Parade, Edgware",
+   "postcode": "HA8 5NR",
+   "price": "££",
+   "booking": "days",
+   "goodFor": [
+    "groups",
+    "large-groups"
+   ],
+   "whyGo": "A members' club turned bar and grill, open since 1991 and themed on the community clubs of Kenya - Indian spice with Kenyan cooking, garlic mogo to mixed grills.",
+   "signature": "Garlic mogo",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "D1 E1",
+   "sourceUrls": "https://www.youtube.com/@FoodReviewClubUK | https://www.reddit.com/r/LondonFood/comments/1qmev86/indo_chinese_recommendations_in_london/"
+  },
+  {
+   "slug": "jurkish",
+   "name": "Jurkish",
+   "cuisine": "Caribbean",
+   "style": "Jamaican-Turkish",
+   "specialities": [
+    "street-food"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "context": "Effra Social",
+   "area": "Brixton",
+   "zone": "2",
+   "district": "South",
+   "borough": "Lambeth",
+   "address": "Effra Social, 89 Effra Road",
+   "postcode": "SW2 1DF",
+   "price": "££",
+   "booking": "same-day",
+   "goodFor": [
+    "groups",
+    "quick"
+   ],
+   "whyGo": "A Jamaican-Turkish kitchen inside the Effra Social pub - curry goat manti, oxtail pide, plantain hummus, and £10 lunch boxes on weekdays.",
+   "signature": "Curry goat manti",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://londontheinside.com/get-mash-up-the-best-fusion-food-in-london/"
+  },
+  {
+   "slug": "los-mochis-city",
+   "name": "Los Mochis London City",
+   "cuisine": "Japanese",
+   "style": "Mexican-Japanese",
+   "specialities": [
+    "sushi",
+    "tacos"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Liverpool Street",
+   "zone": "1",
+   "district": "Central",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "address": "9th Floor, 100 Liverpool Street",
+   "postcode": "EC2M 2AT",
+   "price": "£££",
+   "booking": "days",
+   "setting": "rooftop",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "whyGo": "Mexican-Japanese nine floors above Broadgate Circle, with a 3,000 sq ft rooftop terrace facing St Paul's, open until 3am Thursday to Saturday.",
+   "signature": "Spicy salmon on crispy rice",
+   "lists": [
+    "fusion"
+   ],
+   "sourceCount": "10",
+   "sourceTiers": "A1 B4 C4 E1",
+   "sourceUrls": "https://www.hardens.com/restaurants/london/fusion | https://thesaucemag.com/best-mexican-restaurants-london/ | https://www.thehandbook.com/best-mexican-restaurants-in-london/"
   },
   {
    "slug": "turo-turo",
@@ -34418,8 +34794,8 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "16",
-   "sourceTiers": "A2 B4 C7 D3",
+   "sourceCount": "18",
+   "sourceTiers": "A2 B6 C7 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "King's Cross"
@@ -34460,8 +34836,8 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "16",
-   "sourceTiers": "A2 B4 C7 D3",
+   "sourceCount": "18",
+   "sourceTiers": "A2 B6 C7 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Shoreditch"
@@ -34502,8 +34878,8 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "16",
-   "sourceTiers": "A2 B4 C7 D3",
+   "sourceCount": "18",
+   "sourceTiers": "A2 B6 C7 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Canary Wharf"
@@ -34544,8 +34920,8 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "16",
-   "sourceTiers": "A2 B4 C7 D3",
+   "sourceCount": "18",
+   "sourceTiers": "A2 B6 C7 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Carnaby"
@@ -34586,8 +34962,8 @@
     "best-value",
     "best-indian:5"
    ],
-   "sourceCount": "16",
-   "sourceTiers": "A2 B4 C7 D3",
+   "sourceCount": "18",
+   "sourceTiers": "A2 B6 C7 D3",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/editorial/features/best-breakfasts-in-central-london | https://britishindiangoodfoodguide.com/best-100-indian-restaurants-uk-british-indian-good-food-guide-2025/ | https://luxlifelondon.com/best-breakfast-spots-london/",
    "branchOf": "dishoom",
    "branchName": "Battersea"
@@ -36387,7 +36763,8 @@
    "lists": [
     "unusual",
     "showstopper",
-    "special-occasion"
+    "special-occasion",
+    "fusion"
    ],
    "branchOf": "sushisamba-heron-tower",
    "branchName": "Covent Garden"

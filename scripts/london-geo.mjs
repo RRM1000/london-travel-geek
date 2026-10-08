@@ -125,6 +125,7 @@ export const HOODS = {
   "Wembley":             { zone: "4",   district: "North" },
   "Walthamstow":         { zone: "3",   district: "East" },
   "Colindale":           { zone: "4",   district: "North" },
+  "Queensbury":          { zone: "4",   district: "North" },
   "Croydon":             { zone: "5",   district: "South" },
   "Canada Water":        { zone: "2",   district: "South" },
   "Vauxhall":            { zone: "1–2", district: "South" },
