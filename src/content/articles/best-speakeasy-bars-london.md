@@ -20,7 +20,7 @@ faq:
   - q: "Do I need a password for London speakeasies?"
     a: "Only at Barts in Chelsea, which asks for one at its unmarked black door: in its own words, the password is 'whispered only to those in the know'. Everywhere else the trick is finding the door: a fridge at The Mayor of Scaredy Cat Town, a bookcase at The Vault, a repair shop at The Natural Philosopher, a detective agency's front at Evans & Peel."
   - q: "How much is a cocktail in a London speakeasy?"
-    a: "Where the bars publish a price, £13 to £19: £13 at The Natural Philosopher, £13 to £15 at Basement Sate, £15 at 69 Colebrooke Row, £14 to £18 at Nightjar and £15 to £19 at Opium. Go early for less: Supermax pours £9 cocktails until 7pm, Opium's classics are £10 from 5pm to 7pm, and Blind Spot runs two-for-one from 5pm to 7pm."
+    a: "Where the bars publish a price, £13 to £19: £13 at The Natural Philosopher, £13 to £15 at Basement Sate, £14 to £18 at Nightjar and £15 to £19 at Opium. Go early for less: Supermax pours £9 cocktails until 7pm, Opium's classics are £10 from 5pm to 7pm, and Blind Spot runs two-for-one from 5pm to 7pm."
   - q: "Is Cahoots a speakeasy?"
     a: "It is the bar the lists call a speakeasy most often, but its name is lit up over the door in Kingly Court, so this guide does not rank it with the hidden bars. It is a 1940s Underground-station theme bar, and a good one for a group."
 ---
@@ -38,7 +38,7 @@ The bars are ranked by how many independent sources name them: judged awards, ed
 
 ## Booking at a glance
 
-* **Book ahead:** Archive & Myth (you arrive at your booking time through the Magic Mike Live entrance), 69 Colebrooke Row and Nightjar, which takes walk-ins but recommends booking, especially for the music.
+* **Book ahead:** Archive & Myth (you arrive at your booking time through the Magic Mike Live entrance), and Nightjar, which takes walk-ins but recommends booking, especially for the music.
 * **Book or walk in:** The Natural Philosopher, Basement Sate, Supermax, Opium and The Mayor of Scaredy Cat Town. Barts takes walk-ins for its late Speakeasy Sundowners, Thursday to Saturday from 11pm.
 * **Expect a queue:** SOMA Soho holds a few tables for bookings and runs a first-in-line queue for the rest of the night.
 * **Check the day before you go.** The Natural Philosopher opens Thursday to Sunday only, Supermax Wednesday to Saturday, The Spy Bar Tuesday to Saturday, and Barts is closed on Mondays and Tuesdays.
@@ -53,7 +53,6 @@ The bars are ranked by how many independent sources name them: judged awards, ed
 | **Spitalfields & Aldgate** | Discount Suit Company, The Mayor of Scaredy Cat Town |
 | **Old Street & Shoreditch** | Nightjar |
 | **Bethnal Green & Hackney Road** | The Natural Philosopher |
-| **Angel & Islington** | 69 Colebrooke Row |
 | **King's Cross** | Supermax |
 | **Chelsea & Earl's Court** | Barts, Evans & Peel Detective Agency |
 
@@ -285,18 +284,6 @@ Inside it is a basement done as a Prohibition-era den, and the drinks list is a 
 
 ### Behind an unmarked door
 
-#### 69 Colebrooke Row, Angel — the bar with no name
-
-*£££ · 69 Colebrooke Row, N1 8AA · #1 of 11, Time Out · Cited by 3 sources · [the bar's site](https://www.69colebrookerow.com/)*
-
-**Time Out's number one London speakeasy**, and the only bar here with no name at all: it calls itself "the Bar with No Name", and everyone uses the address. Time Out places it on an Islington backstreet away from Upper Street; inside is a cosy room with live jazz, blues and rock 'n' roll.
-
-![A cocktail in a coupe on a black table at 69 Colebrooke Row, with a man playing an upright piano behind](../../assets/articles/best-speakeasy-bars-london/69-colebrooke-row-piano.jpg)
-
-*The piano at 69 Colebrooke Row.*
-
-**House cocktails are £15.** Time Out warns it is "not easy to get a seat here without booking". Open Tuesday to Sunday from 5pm, until midnight Tuesday, Wednesday and Sunday, 1am Thursday and 2am Friday and Saturday; closed Monday.
-
 #### Basement Sate, Soho — the red door
 
 *£££ · 8 Broadwick Street, W1F 8HN · Cited by 4 sources · [book a table](https://www.designmynight.com/london/bars/soho/basement-sate?tab=bookings)*
@@ -324,10 +311,15 @@ These are named by the same lists, often near the top, but each has its name ove
 * **[Cahoots](https://www.cahoots.co.uk/underground/)**, Kingly Court — **the most-named "speakeasy" in this pass**, a 1940s Underground station in a former air-raid shelter, with seats in a tube carriage. Its own site talks of a "discreet Cahoots sign"; the sign is lit over the door, and on Reddit one regular's view was that "the queue makes it less speakeasy than it would like". Book for a group. Cited by 17 sources.
 * **[Happiness Forgets](https://www.happinessforgets.com/)**, Hoxton Square — a basement cocktail bar at 8-9 Hoxton Square, No.44 in the Top 50 Cocktail Bars 2026, open from 5pm every day. Its own site gives the address and nothing about hiding, and a board on the pavement points the way down. Cited by 9 sources.
 * **[Disrepute](https://www.disrepute.co.uk/)**, Kingly Court — No.45 in the Top 50 Cocktail Bars 2026, with cocktails at £16 to £18 and a 3am close. It calls itself "a hideaway", but its name is lit over the door at 4 Kingly Court. Cited by 7 sources.
+* **[69 Colebrooke Row](https://www.69colebrookerow.com/)**, Angel — Time Out's number one London speakeasy. It calls itself "the Bar with No Name", but the address is printed on the awning over the door. Live piano, house cocktails £15, and booking is advised. Cited by 3 sources.
 
 ![The green double doors of Disrepute at 4 Kingly Court, with DISREPUTE in a lit box sign above them, potted topiary either side and brass rope posts on the cobbles](../../assets/articles/best-speakeasy-bars-london/disrepute-kingly-court.jpg)
 
 *Disrepute in Kingly Court. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Disrepute,_Soho,_W1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+![A cocktail in a coupe on a black table at 69 Colebrooke Row, with a man playing an upright piano behind](../../assets/articles/best-speakeasy-bars-london/69-colebrooke-row-piano.jpg)
+
+*The piano at 69 Colebrooke Row.*
 
 ---
 
@@ -343,7 +335,6 @@ These are named by the same lists, often near the top, but each has its name ove
 
 * **SOMA Soho** — until 3am on Friday and Saturday. Cited by 4 sources.
 * **Barts**, Chelsea — until 2.30am Friday and Saturday. Cited by 8 sources.
-* **69 Colebrooke Row**, Angel — until 2am Friday and Saturday. Cited by 3 sources.
 
 ## Also in our cocktail bars guide
 
