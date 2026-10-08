@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-17",
- "count": 328,
+ "generated": "2026-10-08",
+ "count": 358,
  "activities": [
   {
    "slug": "skuna-bbq-boats",
@@ -2637,7 +2637,8 @@
     "celebration"
    ],
    "lists": [
-    "activities"
+    "activities",
+    "karaoke"
    ]
   },
   {
@@ -2670,7 +2671,8 @@
     "date"
    ],
    "lists": [
-    "activities"
+    "activities",
+    "karaoke"
    ]
   },
   {
@@ -6479,7 +6481,8 @@
    ],
    "lists": [
     "activities",
-    "free"
+    "free",
+    "karaoke"
    ]
   },
   {
@@ -7286,7 +7289,8 @@
     "date"
    ],
    "lists": [
-    "activities"
+    "activities",
+    "karaoke"
    ],
    "affiliateUrl": "https://www.getyourguide.com/s/?q=Bunga%2090%20London&partner_id=WWP7I0R",
    "affiliateNetwork": "getyourguide"
@@ -7322,7 +7326,8 @@
    ],
    "lists": [
     "activities",
-    "showstopper"
+    "showstopper",
+    "speakeasy"
    ],
    "affiliateUrl": "https://www.getyourguide.com/s/?q=Cahoots%20London&partner_id=WWP7I0R",
    "affiliateNetwork": "getyourguide"
@@ -11453,6 +11458,893 @@
     "unusual"
    ],
    "website": "https://www.theboatpod.com/"
+  },
+  {
+   "slug": "bam-karaoke-box-victoria",
+   "name": "BAM Karaoke Box",
+   "type": "karaoke",
+   "style": "22 themed private rooms and an open-mic bar",
+   "chainType": "independent",
+   "area": "Victoria",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "74 Victoria Street",
+   "postcode": "SW1E 6SQ",
+   "duration": "Two-hour packages",
+   "groupSize": "One to 35",
+   "price": "£45 hen and stag package, two hours with drinks",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Twenty-two rooms over three floors, decorated around Nell Gwyn and 18th-century excess, with 45,000 songs. Thursday to Saturday the bar runs open-mic karaoke on its stage.",
+   "opNote": "Open until 1.30am Thursday to Saturday and 9pm on Sunday.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "bookingUrl": "https://booking.bam-karaokebox.com/london"
+  },
+  {
+   "slug": "bao-ktv",
+   "name": "BAO KTV",
+   "type": "karaoke",
+   "style": "Private KTV rooms inside BAO restaurants",
+   "chainType": "mini-chain",
+   "area": "City of London",
+   "borough": "City of London",
+   "guide": "city-of-london-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Bloomberg Arcade",
+   "duration": "Two hours",
+   "groupSize": "Two to 23",
+   "price": "No room fee; £35 a head minimum on food and drink",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Six KTV rooms across five BAO restaurants, each themed on a film, with no room hire: you spend at least £35 a head on food and drink in a two-hour slot.",
+   "opNote": "Rooms at Borough, the City (two, in Bloomberg Arcade), Marylebone, Shoreditch and Battersea. The City's Taipei Room takes 13 to 23.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "bookingUrl": "https://baolondon.com/bookings/karaoke/"
+  },
+  {
+   "slug": "moyagi-marylebone",
+   "name": "Moyagi",
+   "type": "karaoke",
+   "style": "Japanese-styled private rooms off one corridor",
+   "chainType": "independent",
+   "area": "Marylebone",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "5 Cavendish Place",
+   "postcode": "W1G 0QA",
+   "duration": "1 hour 45 minutes",
+   "groupSize": "Six to 30",
+   "price": "£22-£30",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Eight private rooms off one low-lit corridor behind Oxford Circus, with 200,000 songs, a host and drinks served to the room.",
+   "opNote": "Closed Monday and Tuesday. You pay when you book, and Friday and Saturday slots usually go weeks ahead.",
+   "goodFor": [
+    "groups",
+    "celebration",
+    "date"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "bookingUrl": "https://moyagi.com/london/book"
+  },
+  {
+   "slug": "rowans-finsbury-park",
+   "name": "Rowans",
+   "type": "bowling",
+   "style": "1913 bowling alley with glass-fronted karaoke booths",
+   "chainType": "independent",
+   "area": "Finsbury Park",
+   "zone": "2",
+   "district": "North",
+   "address": "10 Stroud Green Road",
+   "postcode": "N4 2DF",
+   "groupSize": "Up to 18 a booth",
+   "price": "Karaoke booths £28-£80 an hour for the room",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesAlcohol": "yes",
+   "whyGo": "A bowling alley open since 1913, with six glass-fronted karaoke booths beside the lanes, pool tables and a dance floor.",
+   "opNote": "Only over-21s after 7pm, with photo ID. Open until 2.30am Friday and Saturday.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://rowans.co.uk/karaoke/"
+  },
+  {
+   "slug": "old-queens-head-islington",
+   "name": "The Old Queen's Head",
+   "type": "karaoke",
+   "style": "Late-licence pub with a hosted karaoke room",
+   "chainType": "independent",
+   "area": "Islington",
+   "borough": "Islington",
+   "guide": "islington-area-guide",
+   "zone": "1–2",
+   "district": "North",
+   "address": "44 Essex Road",
+   "postcode": "N1 8LN",
+   "groupSize": "Up to 15; the Playroom takes 60",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Upstairs at a late-licence pub on Essex Road, a karaoke room for 15 with its own host bringing drinks and Hot Saint pizza.",
+   "opNote": "Open until 2am Friday and 3am Saturday. Book through the party form.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://theoldqueenshead.com/parties-group-bookings/"
+  },
+  {
+   "slug": "star-of-bethnal-green",
+   "name": "The Star of Bethnal Green",
+   "type": "karaoke",
+   "style": "Five themed karaoke rooms in a pub",
+   "chainType": "independent",
+   "area": "Bethnal Green",
+   "borough": "Tower Hamlets",
+   "zone": "2",
+   "district": "East",
+   "address": "359 Bethnal Green Road",
+   "postcode": "E2 6LG",
+   "duration": "One or two hours",
+   "groupSize": "Two to 25",
+   "price": "£4-£13 an hour",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Five themed rooms on a Lucky Voice system, from Studio 54 for 18 to the Rainbow Room for six, from £4 a head an hour off-peak.",
+   "opNote": "Peak starts at 6pm (5pm Saturday); two hours minimum on Saturday. Open until 2am Friday and Saturday.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://starofbethnalgreen.co.uk/karaoke/"
+  },
+  {
+   "slug": "bloomsbury-lanes",
+   "name": "Bloomsbury Lanes",
+   "type": "bowling",
+   "style": "Basement bowling alley with five karaoke rooms",
+   "chainType": "independent",
+   "area": "Bloomsbury",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Basement, Tavistock Hotel, Bedford Way",
+   "postcode": "WC1H 9EU",
+   "agePolicy": "over-18-evenings",
+   "groupSize": "Eight to 30",
+   "price": "Karaoke rooms £60-£120 an hour; half price Sunday to Tuesday",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Five karaoke rooms beside eight bowling lanes under the Tavistock Hotel, hired by the hour rather than the head and half price on Sunday, Monday and Tuesday.",
+   "opNote": "Card only. No under-18s after 8pm (7pm Friday and Saturday). No refunds; a booking can be moved with 72 hours' notice.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "bookingUrl": "https://bloomsburybowling.com/book-now"
+  },
+  {
+   "slug": "the-exhibit-balham",
+   "name": "The Exhibit",
+   "type": "karaoke",
+   "style": "Bar, restaurant and cinema with a karaoke suite",
+   "chainType": "independent",
+   "area": "Balham",
+   "borough": "Wandsworth",
+   "zone": "3",
+   "district": "South",
+   "address": "12 Balham Station Road",
+   "postcode": "SW12 9SG",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A Balham bar, restaurant and cinema with one karaoke suite on the Lucky Voice system, its seats facing the screen like an audience.",
+   "opNote": "Open until 2am Friday and Saturday. Monday and Tuesday are private hire only.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "bookingUrl": "https://book.theexhibit.co.uk/"
+  },
+  {
+   "slug": "star-by-hackney-downs",
+   "name": "The Star by Hackney Downs",
+   "type": "karaoke",
+   "style": "Pub with one karaoke room upstairs",
+   "chainType": "independent",
+   "area": "Hackney",
+   "borough": "Hackney",
+   "guide": "hackney-area-guide",
+   "zone": "2",
+   "district": "East",
+   "address": "35 Queensdown Road",
+   "postcode": "E5 8NN",
+   "agePolicy": "over-18-evenings",
+   "groupSize": "Up to 15",
+   "price": "Room £49-£109 an hour",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A pub by Hackney Downs with one karaoke room upstairs for 15, where the staff bring the pints up.",
+   "opNote": "Over-18s only after 8pm. Open until 1am Friday and Saturday.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://starbyhackneydowns.co.uk/karaoke/"
+  },
+  {
+   "slug": "star-by-liverpool-street",
+   "name": "The Star by Liverpool Street",
+   "type": "karaoke",
+   "style": "City pub with six karaoke rooms in the basement",
+   "chainType": "independent",
+   "area": "Spitalfields",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "94 Middlesex Street",
+   "postcode": "E1 7EZ",
+   "agePolicy": "over-18-evenings",
+   "groupSize": "Eight to 50",
+   "price": "£4-£14 an hour",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Six karaoke rooms in the basement of a City pub, from the Disco Room for eight to the Backstage Bar, with burgers from its Patty & Bun kitchen.",
+   "opNote": "Closed Sunday. Two hours minimum on Saturday; open until 1am Thursday to Saturday.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://starbyliverpoolstreet.co.uk/karaoke-liverpool-street/"
+  },
+  {
+   "slug": "jihwaja-vauxhall",
+   "name": "Jihwaja",
+   "type": "karaoke",
+   "style": "Korean restaurant with noraebang rooms",
+   "chainType": "independent",
+   "area": "Vauxhall",
+   "borough": "Lambeth",
+   "zone": "1–2",
+   "district": "South",
+   "address": "353A Kennington Lane",
+   "postcode": "SE11 5QY",
+   "groupSize": "Four to 30",
+   "price": "Rooms £35-£180 an hour",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A Korean restaurant with private noraebang rooms for four to 30 and lyrics in English, Korean, Chinese and Japanese, open until 3am on Friday and Saturday.",
+   "opNote": "Rooms priced by size and time, with 10% added on Thursday and Friday nights and all day at weekends. Sunday is evenings only.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "bookingUrl": "https://www.jihwaja.co.uk/booking"
+  },
+  {
+   "slug": "karaoke-epoc",
+   "name": "Karaoke Epoc",
+   "type": "karaoke",
+   "style": "Japanese-style karaoke boxes",
+   "chainType": "independent",
+   "area": "Soho",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "30 Brewer Street",
+   "postcode": "W1F 0SS",
+   "duration": "Two hours minimum",
+   "groupSize": "Small groups",
+   "price": "£7-£13 an hour",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Japanese karaoke boxes with a large Japanese, Korean and Chinese catalogue, yakitori and highballs, from £7 a head an hour before 4pm.",
+   "opNote": "Closes at 11pm every night. Walk-ins are taken when a room is free.",
+   "goodFor": [
+    "groups",
+    "date"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "bookingUrl": "https://epoclondon.com/reserve/"
+  },
+  {
+   "slug": "u9-leicester-square",
+   "name": "U9",
+   "type": "karaoke",
+   "style": "Basement karaoke suites on a minimum spend",
+   "chainType": "independent",
+   "area": "Leicester Square",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "47 Whitcomb Street",
+   "postcode": "WC2H 7DH",
+   "groupSize": "Ten to 35",
+   "price": "No room fee; minimum spend set by room, day and session",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A basement karaoke bar opened in 2025, with nine suites for ten to 35, 450,000 songs and a lounge for 120 with a DJ.",
+   "opNote": "Closed Monday; open until 3am Thursday to Saturday. Photo ID is scanned at the door.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.u9-london.com/private-roomsu9"
+  },
+  {
+   "slug": "superstar-bbq-karaoke",
+   "name": "SuperStar BBQ",
+   "type": "karaoke",
+   "style": "Korean barbecue with a karaoke room below",
+   "chainType": "independent",
+   "area": "Holborn",
+   "borough": "Camden",
+   "zone": "1",
+   "district": "Central",
+   "address": "4 Central St Giles Piazza",
+   "postcode": "WC2H 8AB",
+   "groupSize": "Up to 14",
+   "price": "Room £70-£100 an hour",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A Korean barbecue restaurant with one wood-clad karaoke room underneath for up to 14, with English, Korean and Japanese songs.",
+   "opNote": "No dining in the room, only drinks and sides, so eat upstairs first. The restaurant closes at 10pm.",
+   "goodFor": [
+    "groups"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.superstarbbq.co.uk/karaoke"
+  },
+  {
+   "slug": "black-eel-dalston",
+   "name": "The Black Eel",
+   "type": "karaoke",
+   "style": "Pub karaoke room in a listed pie and mash shop",
+   "chainType": "independent",
+   "area": "Dalston",
+   "borough": "Hackney",
+   "zone": "2",
+   "district": "East",
+   "address": "41 Kingsland High Street",
+   "postcode": "E8 2JS",
+   "groupSize": "Up to 25",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "no",
+   "servesAlcohol": "yes",
+   "whyGo": "Exale Brewery's pub in the Grade II-listed F Cooke pie and mash shop, with a leopard-carpeted karaoke room and stage at the top of the building.",
+   "opNote": "The room is up a flight of stairs. Prices are set in the booking system.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.theblackeel.uk/"
+  },
+  {
+   "slug": "cocktail-club-shoreditch",
+   "name": "The Cocktail Club Shoreditch",
+   "type": "karaoke",
+   "style": "Cocktail bar with a private karaoke room",
+   "chainType": "mini-chain",
+   "area": "Shoreditch",
+   "borough": "Tower Hamlets",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "29 Sclater Street",
+   "postcode": "E1 6HT",
+   "groupSize": "Ten or more",
+   "price": "£10 an hour",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesAlcohol": "yes",
+   "whyGo": "A cocktail bar off Brick Lane with one private karaoke room and a bartender assigned to it.",
+   "opNote": "Bookings start at ten people, through the form on the karaoke page. Open until 1.30am.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.thecocktailclub.com/bars/shoreditch/occasions/karaoke"
+  },
+  {
+   "slug": "blues-kitchen-shoreditch",
+   "name": "The Blues Kitchen Shoreditch",
+   "type": "karaoke",
+   "style": "Live-music bar with private karaoke rooms",
+   "chainType": "mini-chain",
+   "area": "Shoreditch",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "134-146 Curtain Road",
+   "postcode": "EC2A 3AR",
+   "groupSize": "Up to 30",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A bar and barbecue kitchen with live blues, soul and funk most nights, and a Playroom for 30 with its own sound system and server.",
+   "opNote": "Karaoke rooms at its Brixton and Camden sites too. Book by enquiry.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://theblueskitchen.com/shoreditch/bookings/"
+  },
+  {
+   "slug": "simmons-karaoke",
+   "name": "Simmons",
+   "type": "karaoke",
+   "style": "Late-night bar chain with karaoke rooms",
+   "chainType": "mini-chain",
+   "area": "Soho",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "groupSize": "Up to 25 (Soho)",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesAlcohol": "yes",
+   "whyGo": "A late-night bar chain with happy hours and private karaoke rooms in several branches. The Soho room takes 25; Old Street's takes five, from £5 a head.",
+   "opNote": "Eight bars: Soho, Greek Street, Leicester Square, King's Cross, Old Street, Oxford Street, Liverpool Street and Monument. Oxford Street has a karaoke recording studio for 15.",
+   "goodFor": [
+    "groups"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.simmonsbar.co.uk/event/karaoke/"
+  },
+  {
+   "slug": "old-school-yard",
+   "name": "The Old School Yard",
+   "type": "karaoke",
+   "style": "School-themed bar with five karaoke rooms",
+   "chainType": "independent",
+   "area": "London Bridge",
+   "borough": "Southwark",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "111 Long Lane",
+   "postcode": "SE1 4PH",
+   "duration": "Two hours",
+   "groupSize": "Two to 20",
+   "price": "£10-£15 for up to eight; £100-£150 flat for nine or more",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesAlcohol": "yes",
+   "whyGo": "A school-themed cocktail bar with five karaoke rooms downstairs and two-hour sessions from £10 a head on Tuesday and Wednesday.",
+   "opNote": "Sessions start at 5.45pm, 8pm and 10.15pm. Bookings are online only.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://theoldschoolyard.com/"
+  },
+  {
+   "slug": "molly-mcs-waterloo",
+   "name": "Molly Mc's",
+   "type": "karaoke",
+   "style": "Irish pub with singing rooms",
+   "chainType": "independent",
+   "area": "Waterloo",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "96 Isabella Street",
+   "postcode": "SE1 8DD",
+   "groupSize": "Up to 15",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "An Irish pub under the railway arches with singing rooms named from the owners' family story, a Thai kitchen and live trad music Thursday to Saturday.",
+   "goodFor": [
+    "groups"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://mollymcs.com/"
+  },
+  {
+   "slug": "three-colts-tavern",
+   "name": "Three Colts Tavern",
+   "type": "karaoke",
+   "style": "Pub with a private party room",
+   "chainType": "independent",
+   "area": "Bethnal Green",
+   "borough": "Tower Hamlets",
+   "zone": "2",
+   "district": "East",
+   "address": "199 Cambridge Heath Road",
+   "postcode": "E2 0EL",
+   "groupSize": "Up to 80",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Exale's other pub, whose Glue Factory room has a karaoke set-up, a self-serve private bar, disco balls and a mirrored ceiling, for up to 80.",
+   "opNote": "Booked as a private hire through the pub's party enquiry form; karaoke may cost extra.",
+   "goodFor": [
+    "large-groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.threecoltstavern.co.uk/party"
+  },
+  {
+   "slug": "the-thieves-battersea",
+   "name": "The Thieves",
+   "type": "karaoke",
+   "style": "Games pub with karaoke booths",
+   "chainType": "independent",
+   "area": "Battersea",
+   "borough": "Wandsworth",
+   "guide": "battersea-area-guide",
+   "zone": "1",
+   "district": "South",
+   "address": "51 Lavender Gardens",
+   "postcode": "SW11 1DJ",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "The old Four Thieves, reopened as The Thieves in October 2025 with arcade games, darts, pool and private karaoke booths it calls Singpods.",
+   "goodFor": [
+    "groups"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.thethieves.pub/"
+  },
+  {
+   "slug": "stokey-karaoke",
+   "name": "Stokey Karaoke",
+   "type": "karaoke",
+   "style": "Family-run basement karaoke venue",
+   "chainType": "independent",
+   "area": "Stamford Hill",
+   "borough": "Hackney",
+   "zone": "3",
+   "district": "North",
+   "address": "20 Stamford Hill",
+   "postcode": "N16 6XZ",
+   "duration": "Two hours minimum",
+   "groupSize": "Up to 60",
+   "price": "Room from £125 for two hours",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "whyGo": "An independent basement venue in the old Cotton Club, still run by the same family, with props, fancy dress and room for up to 60.",
+   "opNote": "Two hours start at £125 and three hours at £175, booked by email through the site.",
+   "goodFor": [
+    "large-groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.stokeykaraoke.com/"
+  },
+  {
+   "slug": "infernos-clapham",
+   "name": "Infernos",
+   "type": "karaoke",
+   "style": "Nightclub with private karaoke suites",
+   "chainType": "independent",
+   "area": "Clapham",
+   "borough": "Lambeth",
+   "zone": "2",
+   "district": "South",
+   "address": "146 Clapham High Street",
+   "postcode": "SW4 7UH",
+   "agePolicy": "over-18",
+   "groupSize": "15 or 30",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesAlcohol": "yes",
+   "whyGo": "A two-floor nightclub with private karaoke suites, booked with drinks ordered in advance and queue-jump entry before midnight.",
+   "opNote": "Suites run from 10pm to 3am, and everyone in the room needs club entry too.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.infernos.co.uk/"
+  },
+  {
+   "slug": "colours-hoxton",
+   "name": "Colours Hoxton",
+   "type": "karaoke",
+   "style": "Bar with one karaoke room",
+   "chainType": "independent",
+   "area": "Hoxton",
+   "borough": "Hackney",
+   "guide": "shoreditch-area-guide",
+   "zone": "1",
+   "district": "East",
+   "address": "2-4 Hoxton Square",
+   "postcode": "N1 6NU",
+   "groupSize": "Up to 30",
+   "price": "Room £50-£75 an hour",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesAlcohol": "yes",
+   "whyGo": "One karaoke room for up to 30 on Hoxton Square, at £50 an hour Monday to Thursday and £75 on Friday and Saturday.",
+   "goodFor": [
+    "groups"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://colourshoxton.com/karaoke-shoreditch-london/"
+  },
+  {
+   "slug": "boom-battle-bar-oxford-street",
+   "name": "Boom Battle Bar Oxford Street",
+   "type": "karaoke",
+   "style": "Games bar with karaoke booths",
+   "chainType": "chain",
+   "area": "Soho",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "88 Oxford Street",
+   "postcode": "W1D 1BS",
+   "groupSize": "Six or more Thursday to Saturday",
+   "price": "£33",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A games bar with Boom Box karaoke booths and 100,000 songs, alongside its other games.",
+   "goodFor": [
+    "groups"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://boombattlebar.com/uk/london-oxford-street/battleground/karaoke/"
+  },
+  {
+   "slug": "huckster-paddington",
+   "name": "HUCKSTER",
+   "type": "karaoke",
+   "style": "Bar with private karaoke rooms",
+   "chainType": "independent",
+   "area": "Paddington",
+   "borough": "Westminster",
+   "guide": "paddington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "4 Kingdom Street",
+   "groupSize": "Up to 45",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesAlcohol": "yes",
+   "whyGo": "Private karaoke rooms for up to 45 on Kingdom Street, with a table held for drinks afterwards.",
+   "goodFor": [
+    "groups",
+    "celebration"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://hucksterlondon.co.uk/karaoke/"
+  },
+  {
+   "slug": "bow-street-tavern",
+   "name": "Bow Street Tavern",
+   "type": "karaoke",
+   "style": "Pub with a fourth-floor karaoke room",
+   "chainType": "independent",
+   "area": "Covent Garden",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "37 Bow Street",
+   "postcode": "WC2E 7AU",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A Young's pub with its karaoke room on the fourth floor and a rooftop bar.",
+   "goodFor": [
+    "groups",
+    "pre-theatre"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.bowstreettavern.com/karaoke"
+  },
+  {
+   "slug": "star-of-kings",
+   "name": "The Star of Kings",
+   "type": "karaoke",
+   "style": "Pub with free open karaoke on Fridays",
+   "chainType": "independent",
+   "area": "King's Cross",
+   "guide": "kings-cross-area-guide",
+   "zone": "1",
+   "district": "North",
+   "address": "126 York Way",
+   "postcode": "N1 0AX",
+   "agePolicy": "over-18-evenings",
+   "groupSize": "Open stage; private room for 25",
+   "price": "Free on Fridays; private room £49-£109 an hour",
+   "booking": "walk-in",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "Free open karaoke every Friday from 8pm to 1am in a pub by the King's Cross development, and a private room for 25 the rest of the week.",
+   "opNote": "Over-18s only after 8pm. No booking for the Friday stage.",
+   "goodFor": [
+    "groups",
+    "solo"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://starofkings.co.uk/whats-on/open-karaoke/"
+  },
+  {
+   "slug": "sebright-arms",
+   "name": "Sebright Arms",
+   "type": "karaoke",
+   "style": "Back-street pub with Friday karaoke",
+   "chainType": "independent",
+   "area": "Bethnal Green",
+   "borough": "Tower Hamlets",
+   "zone": "2",
+   "district": "East",
+   "address": "31-35 Coate Street",
+   "postcode": "E2 9AG",
+   "price": "Free",
+   "booking": "walk-in",
+   "indoorOutdoor": "indoor",
+   "servesFood": "yes",
+   "servesAlcohol": "yes",
+   "whyGo": "A back-street pub with Yard Sale pizza and club nights, running Sebright Karaoke every Friday until 2am.",
+   "goodFor": [
+    "groups",
+    "solo"
+   ],
+   "lists": [
+    "activities",
+    "karaoke"
+   ],
+   "website": "https://www.sebrightarms.com/"
   }
  ]
 }

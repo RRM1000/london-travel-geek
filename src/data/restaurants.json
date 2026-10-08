@@ -11205,7 +11205,8 @@
    "whyGo": "A family-run Gerrard Street room in a black-fronted building, doing award-winning dim sum in a smarter setting than most of Chinatown.",
    "signals": "4 domains",
    "lists": [
-    "dim-sum"
+    "dim-sum",
+    "karaoke"
    ],
    "sourceCount": "11",
    "sourceTiers": "B5 C4 D1 E1",
@@ -25828,7 +25829,8 @@
    ],
    "whyGo": "Fried chicken and mac and cheese inside a bowling alley - not a food destination, but the answer when the table includes teenagers.",
    "lists": [
-    "best-value"
+    "best-value",
+    "karaoke"
    ],
    "sourceCount": "9",
    "sourceTiers": "B5 C4",

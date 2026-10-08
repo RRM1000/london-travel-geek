@@ -294,7 +294,7 @@ A Korean barbecue restaurant with one wood-clad karaoke room underneath for up t
 
 ### The Cocktail Club, Shoreditch
 
-*Unit 12, 29 Sclater Street, E1 6HR · Cited by 3 sources · [karaoke packages](https://www.thecocktailclub.com/bars/shoreditch/occasions/karaoke)*
+*29 Sclater Street, E1 6HT · Cited by 3 sources · [karaoke packages](https://www.thecocktailclub.com/bars/shoreditch/occasions/karaoke)*
 
 A cocktail bar off Brick Lane with one private karaoke room and a bartender assigned to it. **Bookings start at ten people, at £10 a head an hour**, and packages from £15 a head add a glass of prosecco and a cocktail. Condé Nast Traveller lists jam-jar daiquiris and espresso martinis among the drinks sent to the room, and Londonist notes the disco-ball wallpaper. The bar is open until 1.30am, and the room books through the form on the karaoke page.
 

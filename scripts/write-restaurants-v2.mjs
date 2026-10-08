@@ -4910,7 +4910,7 @@ const rows = [
     angle: "room",
     goodFor: "date, groups",
     signals: "4 domains",
-    lists: "dim-sum",
+    lists: "dim-sum, karaoke",
     source: "consensus 4/12 domains - NEEDS VERIFYING",
   },
   {
@@ -10647,7 +10647,7 @@ const rows = [
     bookingLead: "days",
     noise: "loud",
     goodFor: "families, groups",
-    lists: "best-value",
+    lists: "best-value, karaoke",
     source: "Stratford research pass; Westfield Stratford guides. Several sites - branch rows NEEDS VERIFYING.",
   },
   {
