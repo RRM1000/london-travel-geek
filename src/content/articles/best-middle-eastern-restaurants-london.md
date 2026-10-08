@@ -1,7 +1,7 @@
 ---
 title: "The Best Middle Eastern and Eastern Mediterranean Restaurants in London"
 seoTitle: "Best Middle Eastern Restaurants London 2026, Ranked"
-description: "Levantine mezze, Palestinian and Syrian kitchens, Persian and Kurdish cooking, and modern Greek small plates — arranged by tradition, with the best cheap falafel in London."
+description: "Levantine mezze, Palestinian and Syrian kitchens, Persian and Kurdish cooking — arranged by tradition, with the best cheap falafel in London."
 heroImage: "../../assets/articles/best-middle-eastern-restaurants-london/best-middle-eastern-restaurants-london.jpg"
 heroImageAlt: "Bowls of hummus, muhammara and labneh with flatbread on a stone table"
 heroImageCredit: "Shameel Mukkath"
@@ -9,11 +9,11 @@ heroImageSource: "https://www.pexels.com/photo/a-table-with-four-bowls-of-hummus
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-09-08
-updatedAt: 2026-09-25
+updatedAt: 2026-10-08
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
-tags: [restaurants, Middle Eastern, Lebanese, Turkish restaurants, Greek restaurants, dining]
+tags: [restaurants, Middle Eastern, Lebanese, Turkish restaurants, dining]
 draft: false
 faq:
   - q: "What is the best Middle Eastern restaurant in London?"
@@ -28,14 +28,14 @@ faq:
     a: "Almost all of them, and more so than most cuisines — mezze is vegetable-led by tradition rather than by adaptation. Bubala in Spitalfields is entirely vegetarian, and Rovi in Fitzrovia puts vegetables on the grill and gives them the treatment meat usually gets."
 ---
 
-This is the broadest category on the site and the one where the label does the least work. Lebanese mezze, a Turkish charcoal grill in Dalston, Palestinian home cooking in a Notting Hill townhouse, Kuwaiti machboos in Knightsbridge and modern Greek small plates in Marylebone are five different cuisines, and London does all of them well.
+This is the broadest category on the site and the one where the label does the least work. Lebanese mezze, a Turkish charcoal grill in Dalston, Palestinian home cooking in a Notting Hill townhouse, and Kuwaiti machboos in Knightsbridge are four different cuisines, and London does all of them well. Greek food has its own page: [**The Best Greek Restaurants in London**](/articles/best-greek-restaurants-london/).
 
 Arranged **by tradition**, because that is what actually determines the meal.
 
 > 💡 **The Short Version:** **Al Waha** is the Lebanese room the guides agree on. **The Barbary** is the best seat in London if you like watching food cooked. **Mangal 2** in Dalston is the most inventive Turkish kitchen in Britain. **Akub** is the only serious Palestinian restaurant here. And **Pilpel** does the best £8 lunch in the City.
 
 > 📊 **The evidence behind this guide.**
-> Counted separately for each cuisine: **Middle Eastern — 14 sources, 177 citations across 104 restaurants, 37 named twice or more**; **Turkish — 7 sources, 97 citations across 53 restaurants, 27 named twice or more**; **Greek — 4 sources, 64 citations across 39 restaurants, 14 named twice or more**.
+> Counted separately for each cuisine: **Middle Eastern — 14 sources, 177 citations across 104 restaurants, 37 named twice or more**; **Turkish — 7 sources, 97 citations across 53 restaurants, 27 named twice or more**.
 > **Built on:** The Infatuation, Time Out, Foodism and Luxury London; local guides.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -43,14 +43,14 @@ Arranged **by tradition**, because that is what actually determines the meal.
 
 | If you are near… | Where to eat |
 | --- | --- |
-| **Marylebone** | Fairuz, Ishtar, OPSO, Kima, Clio |
+| **Marylebone** | Fairuz, Ishtar |
 | **Soho & Covent Garden** | The Barbary, Imad's Syrian Kitchen |
-| **Fitzrovia** | Rovi, Meraki, Lokal |
-| **Notting Hill** | Akub, Mazi, Zephyr, Kinz |
+| **Fitzrovia** | Rovi, Lokal |
+| **Notting Hill** | Akub, Kinz |
 | **Knightsbridge** | Em Sherif, Ishbilia, Freej Swaileh, The Mantl |
 | **Shoreditch & Dalston** | Mangal 2, Sohaila, Berber & Q |
-| **Borough & London Bridge** | Oma, Pyro, Kismet |
-| **Bayswater & west** | Al Waha, Vori |
+| **Borough & London Bridge** | Kismet |
+| **Bayswater & west** | Al Waha |
 | **Islington & Bloomsbury** | Ottolenghi, Honey & Co |
 
 **Price guide:** **£** under £15 · **££** £15–£35 · **£££** £40–£70 · **££££** £90+.
@@ -131,57 +131,11 @@ The short version: **Mangal II** in Dalston is the most-cited and the one that t
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-middle-eastern-restaurants-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Modern Greek
+## Greek
 
-### OPSO, Marylebone
+Greek and Greek-Cypriot cooking is not Middle Eastern, and London has enough of it for a page of its own: [**The Best Greek Restaurants in London**](/articles/best-greek-restaurants-london/), cross-referenced across the English and Greek-language sources.
 
-*£££ · 8 min from Baker Street* · Cited by 4 Greek sources
-
-**Greek small plates reworked with restaurant technique** — the room most responsible for London taking modern Greek cooking seriously, rather than filing it under holiday food.
-
-The format is sharing: **taramasalata**, grilled octopus, slow-cooked lamb, and a **loukoumades** — honey doughnuts — that most tables order without discussing it. Greek wine list to match, which was unusual when it opened.
-
-**£££ and it books weeks ahead.** Eight minutes from Baker Street.
-
-### Oma and Pyro, Borough
-
-*££££ / £££ · London Bridge* · Cited by 3 Greek sources
-
-Two restaurants in one building by London Bridge, from the same team: **Oma cooks Greek food over fire at serious prices upstairs**, and **Pyro** is the more casual room below it.
-
-At Oma the fire does everything — **whole fish**, aged meat and vegetables over wood, plated with a fine-dining restraint that Greek cooking in London rarely gets. **Pyro** does pizza and small plates from the same kitchen for roughly half the outlay, which makes it one of the better-value tables in Borough.
-
-**££££ at Oma, £££ at Pyro; both book well ahead.** Pick by budget rather than by cooking — the kitchen is the same.
-
-### Kima, Marylebone
-
-*££££ · whole fish* · Cited by 3 Greek sources
-
-**Greek seafood treated at fine-dining level**, which almost nothing else in London does — the fish counter is the menu and you choose from what came in.
-
-**Whole fish** is the order: grilled simply over charcoal, dressed with lemon and oil, served to the table to be filleted. Around it, raw plates, sea urchin when it is on, and the Greek staples done with restaurant precision rather than taverna generosity.
-
-**££££ and it books weeks ahead.** Small room, high prices, and the best Greek fish cooking in the city.
-
-### Vori, Holland Park
-
-*£££ · the wine list* · Cited by 2 Greek sources
-
-**The only wine list in London built entirely on indigenous Greek varieties** — assyrtiko, xinomavro, agiorgitiko and a dozen more nobody stocks — in a Holland Park Avenue taverna with tables out on the pavement.
-
-The food is taverna rather than restaurant: **grilled meats, salads, dips and whole fish**, cooked straightforwardly and priced fairly for the postcode. Make the trip for the wine; the staff will talk you through it.
-
-**£££, book a few days ahead.** Ask them to pick the bottle; you will not have heard of most of the list.
-
-### Mazi and Zephyr, Notting Hill
-
-*£££ · garden and photographs* · Cited by 3 Greek sources
-
-Two modern Greek rooms in the same postcode, with different strengths. **Mazi** treats the classics as a starting point and has a **garden at the back** — the better table on a warm evening. **Zephyr**, from the same team, is the more photographed of the pair.
-
-At Mazi the cooking pulls the taverna repertoire into restaurant shape: **taramasalata**, grilled octopus, and lamb given more technique than tradition requires. Zephyr runs a similar menu in a brighter, busier room.
-
-**£££ at both.** Book Mazi's garden specifically; it is what separates them.
+The short version: **Oma** in Borough Market holds London's only Greek Michelin star, **Agora** below it is the walk-in souvla bar, **Tsiakkos & Charcoal** in Maida Vale tops Time Out's ranked list, and **Palmers Green** in north London is where the Cypriot community eats.
 
 ---
 
@@ -387,7 +341,7 @@ Falafel is where this cuisine is cheapest and best, and all of these are entirel
 
 * **Mezze is ordered across the table** in waves, not as a starter. Over-ordering is the standard mistake and most kitchens will steer you.
 * **Ocakbaşı grills in Dalston and on Green Lanes** run very late and are cheap for the quality.
-* **Turkish, Greek and Persian are separate cuisines** and we file them that way — most published lists do not, which is why their "best Middle Eastern" lists read oddly.
+* **Turkish, Greek and Persian are separate cuisines** and we file them that way; most published lists do not, which is why their "best Middle Eastern" lists read oddly. Greek has [its own guide](/articles/best-greek-restaurants-london/).
 * **Vegetarians do unusually well here** without anything being adapted for them.
 * **Service charge** of 12.5% is discretionary and standard.
 

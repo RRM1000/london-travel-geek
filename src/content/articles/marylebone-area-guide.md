@@ -167,6 +167,8 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 
 Jikoni on Blandford Street cooks across South Asian, East African, Middle Eastern and British kitchens. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
+Opso and Kima face each other on Paddington Street, Taverna Ermou is on James Street and Clio on Chiltern Street; all four are in our [Greek restaurants guide](/articles/best-greek-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **Baker Street** (five lines) is best for the north end and Regent's Park. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the south end and is only four minutes' walk from the high street.

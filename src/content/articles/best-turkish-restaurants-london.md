@@ -388,6 +388,7 @@ Everything else carried by two or more independent guides.
 ## Continue planning your London trip
 
 - 🥙 **[The Best Middle Eastern Restaurants in London](/articles/best-middle-eastern-restaurants-london/)**
+- 🇬🇷 **[The Best Greek Restaurants in London](/articles/best-greek-restaurants-london/)** — Greek-Cypriot Palmers Green, further up Green Lanes
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🥩 **[The Best Steak in London](/articles/best-steak-restaurants-london/)**

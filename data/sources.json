@@ -2369,6 +2369,77 @@
     "flyingfluskey.com": {
       "tier": "C",
       "name": "Flying Fluskey"
+    },
+    "mylondon.news": {
+      "tier": "B",
+      "name": "MyLondon",
+      "note": "Reach plc London news site. Registered 8 Oct 2026 for greek: first-person visits to Tony's Pita, The Souvlaki (Kingston) and Pittagoras. Relays British Kebab Awards results often - a post that only relays an award is not a source."
+    },
+    "sheerluxe.com": {
+      "tier": "B",
+      "name": "SheerLuxe",
+      "note": "Lifestyle masthead. Registered 8 Oct 2026 for greek. Its Greek trend report is mostly owner Q&A, which is not recorded; only its own award (Oma, Best Newcomer 2024) is."
+    },
+    "cookout.skai.gr": {
+      "tier": "B",
+      "name": "Cookout (SKAI)",
+      "note": "Greek-language food site of the SKAI broadcaster. Registered 8 Oct 2026 for greek. Syndicated to MSN Greece, where it can be read through assets.msn.com/content/view/v2/Detail/el-gr/<id>."
+    },
+    "athinorama.gr": {
+      "tier": "B",
+      "name": "Athinorama",
+      "note": "Greek-language Athens listings magazine with an editorial restaurant section. Registered 8 Oct 2026 for greek."
+    },
+    "lifo.gr": {
+      "tier": "B",
+      "name": "LiFO",
+      "note": "Greek-language magazine. Registered 8 Oct 2026 for greek (Souvlakination interview)."
+    },
+    "youtube.com/@ks_ate_here": {
+      "tier": "D",
+      "name": "KS ATE HERE (YouTube)"
+    },
+    "youtube.com/@Dilanalikurt": {
+      "tier": "D",
+      "name": "Dilan Kurt (YouTube)"
+    },
+    "youtube.com/@SmearedApron": {
+      "tier": "D",
+      "name": "SmearedApron (YouTube)"
+    },
+    "youtube.com/@ChewTheFatFoodReviews": {
+      "tier": "D",
+      "name": "Chew The Fat Food Reviews (YouTube)"
+    },
+    "youtube.com/@eatoutguidelondon": {
+      "tier": "D",
+      "name": "EATOUTGUIDELONDON (YouTube)"
+    },
+    "youtube.com/@NewspistolLebidakis": {
+      "tier": "D",
+      "name": "Newspistol Lebidakis (YouTube)",
+      "note": "Greek-language channel."
+    },
+    "youtube.com/@BusinessWithDave": {
+      "tier": "D",
+      "name": "Business With Dave (YouTube)"
+    },
+    "youtube.com/@ChiChuLiu": {
+      "tier": "D",
+      "name": "ChiChu Liu (YouTube)"
+    },
+    "youtube.com/@TravelDoll": {
+      "tier": "D",
+      "name": "Travel Doll (YouTube)"
+    },
+    "youtube.com/@Greekosophy": {
+      "tier": "D",
+      "name": "Greekosophy (YouTube)",
+      "note": "Greek channel, English-language."
+    },
+    "youtube.com/@BitesOfBelonging": {
+      "tier": "D",
+      "name": "Bites of Belonging (YouTube)"
     }
   },
   "excludedWhy": {
