@@ -1,6 +1,17 @@
 {
   "note": "Venues that have CLOSED but which current 'best of' lists still recommend. Published guides are slow to update and some never do, so a closed venue keeps accruing source counts and looks better-supported the longer it has been shut. scripts/build-evidence.mjs drops anything listed here, and the write scripts refuse to add a row for one.\n\nEvery entry needs a date and at least one source. If a venue reopens, delete its entry rather than editing it to 'open'.",
   "venues": {
+    "the karaoke hole": {
+      "name": "The Karaoke Hole",
+      "closed": "2026-01",
+      "detail": "Drag-hosted karaoke bar below Voodoo Ray's, 95 Kingsland High Street E8 2PB, sister to Dalston Superstore; opened 2018. The Standard reported its closure that month after the team announced it on Instagram.",
+      "stillRecommendedBy": [
+        "culturecalling.com",
+        "reddit.com"
+      ],
+      "source": "https://www.standard.co.uk/going-out/bars/the-karaoke-hole-drag-bar-dalston-closing-b1266467.html",
+      "recorded": "2026-10-08"
+    },
     "the alley": {
       "name": "The Alley",
       "closed": "2026",

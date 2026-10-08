@@ -167,6 +167,8 @@ North–south restaurant streets running parallel through the middle of Soho, an
 
 For dinner with live music, Brasserie Zédel's house band plays every day with no charge on the bill, and Ronnie Scott's serves dinner through its sets. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares them.
 
+For karaoke, Lucky Voice on Poland Street opened in 2005, Karaoke Box has been on Frith Street since 1997, and Karaoke Epoc on Brewer Street is a Japanese-style box; all three are in our [karaoke guide](/articles/best-karaoke-london/).
+
 Soho is also where central London's Indo-Chinese cooking is: Fatt Pundit on Berwick Street and the all-vegetarian Tangra on Frith Street, a few doors from Chotto Matte's Japanese-Peruvian menu. All three are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 ## Getting there

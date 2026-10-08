@@ -139,7 +139,7 @@ That is the pattern: **almost nowhere in central London bans fancy dress by name
 
 **The Murdér Express in Bethnal Green is where the group discount is real**: general admission is £88 plus a £4.90 fee, but **the Group Carriage is £66.25 a head for four and £60 for six, wine included and seats together**. Arriving as a six costs a third less each than arriving as a pair.
 
-**Bunga 90 in Covent Garden** — a 1990s world entered through a Blockbuster-style video shop, with arcade cabinets and private karaoke rooms — **welcomes walk-ins daily except Saturdays before 4pm**, which almost nothing else does, though **groups of 21 or more have to ring rather than book online.**
+**Bunga 90 in Covent Garden** — a 1990s world entered through a Blockbuster-style video shop, with arcade cabinets and private karaoke rooms — **welcomes walk-ins daily except Saturdays before 4pm**, which almost nothing else does, though **groups of 21 or more have to ring rather than book online.** The rest of London's karaoke rooms are compared in our [karaoke guide](/articles/best-karaoke-london/).
 
 **Free entry, no membership, open 24 hours**: the Hippodrome Casino on Cranbourn Street, over-18s only on Challenge 25 — rules in the [casino guide](/articles/casinos-london/). For a cheap first hour, **Angel Comedy is free seven nights a week**; the [comedy club guide](/articles/best-comedy-clubs-london/) explains how early to queue.
 
@@ -214,6 +214,7 @@ The package is not a mark-up on the games, then; it is a bundle of a bed, a book
 ## Continue planning your London trip
 
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
+- 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — private rooms, KTV and free pub nights
 - 🎲 **[Casinos in London: Which Are Still Open](/articles/casinos-london/)**
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**

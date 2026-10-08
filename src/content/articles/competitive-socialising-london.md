@@ -354,6 +354,7 @@ This is not a cheap night out, and the pricing is deliberately opaque — most v
 ## Continue planning your London trip
 
 - 🎪 **[Free Things to Do in London](/free/)**
+- 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — private rooms, KTV and free pub nights, with room sizes and prices
 - 🎵 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🎬 **[London's Best Independent Cinemas](/articles/best-cinemas-london/)**

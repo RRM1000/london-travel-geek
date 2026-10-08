@@ -294,6 +294,7 @@ Late-night prices in London usually go one of two ways: a nightclub markup, or t
 - 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)** — 13–22 November, and Ronnie Scott's puts a band on stage at midnight
 - 🛡️ **[Is London Safe?](/articles/is-london-safe/)** — getting home at night, and who to call
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
+- 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — Jihwaja in Vauxhall serves Korean food and karaoke until 3am at weekends
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🥟 **[The Best Dim Sum in London](/articles/best-dim-sum-london/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**

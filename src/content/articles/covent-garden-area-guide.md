@@ -218,6 +218,8 @@ For a drink between the theatres, **Bar Cicoria's terrace** is free to walk into
 
 For dinner with a show, Oriole, Louie and Sarastro all have live music at the table. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) says which nights and what it adds to the bill.
 
+Bunga 90 on Drury Lane has three private karaoke rooms and karaoke at the bar, open until 3am on Fridays and Saturdays. It is in our [karaoke guide](/articles/best-karaoke-london/).
+
 Fatt Pundit on Maiden Lane cooks Kolkata's Indo-Chinese food, and SUSHISAMBA has a site on top of the Market Building. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 ## Getting there

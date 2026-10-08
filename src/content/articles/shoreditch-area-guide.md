@@ -199,6 +199,8 @@ The **shops along the street are open on Sunday too** and are the reason to stay
 
 *Boxpark Shoreditch. Photo: [JasonParis](https://www.flickr.com/photos/94064020@N00/8063833095), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+For a night of singing, the Cocktail Club on Sclater Street and the Blues Kitchen on Curtain Road both have private karaoke rooms, and The Star of Bethnal Green has five themed rooms from £4 a head an hour. Our [karaoke guide](/articles/best-karaoke-london/) compares them.
+
 Osteria Angelina, a short walk from Liverpool Street in Spitalfields, makes Japanese-Italian pasta in a glass-walled pasta lab. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 ## Getting there
