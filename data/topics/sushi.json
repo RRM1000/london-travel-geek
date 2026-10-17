@@ -29,28 +29,107 @@
     }
   ],
   "editorialLists": [
-    { "name": "Time Out", "domain": "timeout.com", "ranked": true, "note": "'London's 20 Best Sushi Restaurants' (/london/restaurants/londons-best-sushi-bars), numbered 1 to 20, edited by Erin Niimi Longhurst. The 17 Dec 2025 news story naming Sushi Tetsu number one is the same list. Its Japanese guide is the same domain." },
-    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": "no", "note": "Three guides on one domain: the 19 best sushi restaurants (not in score order), the 4 best omakase menus, and casual neighbourhood sushi spots. Ratings are printed per restaurant but the lists are not ranked." },
-    { "name": "Condé Nast Traveller", "domain": "cntraveller.com", "ranked": false, "note": "Gallery of 22, 1 March 2026. Includes Japanese rooms where sushi is one part of a wider menu." },
-    { "name": "Hot Dinners", "domain": "hot-dinners.com", "ranked": false, "note": "Three guides: best sushi (27 entries, Jul 2025), omakase menus (Feb 2025), takeaway sushi (Aug 2025)." },
-    { "name": "Evening Standard", "domain": "standard.co.uk", "ranked": false, "note": "The 2024 'don't cost a month's rent' list and David Ellis's five-star Eel Sushi review (Jun 2025). The 2018 list is outside the 36-month window." },
-    { "name": "Wallpaper*", "domain": "wallpaper.com", "ranked": false, "note": "Ben McCormack, ten picks, 7 Oct 2024, revised since." },
-    { "name": "Luxury London", "domain": "luxurylondon.co.uk", "ranked": false, "note": "Omakase list, updated 15 May 2026." },
-    { "name": "Observer (US)", "domain": "observer.com", "ranked": false, "note": "Twelve omakase counters, 22 Jun 2026." },
-    { "name": "House & Garden, The Week, Stylist, Vogue, Country & Town House", "domain": "various", "ranked": false, "note": "Japanese-wide lists; only their sushi-led entries are recorded." },
-    { "name": "Vittles", "domain": "vittlesmagazine.com", "ranked": false, "note": "Jonathan Nunn's column on mid-range sushi (20 Sep 2024) is paywalled; the preview names Atari-Ya and Sagamiya." },
-    { "name": "The Nudge, Secret London, Washoku Guide", "domain": "various", "ranked": false, "note": "Independent and specialist lists. Washoku Guide lists 44 Japanese-owned or Japanese-chef sushi restaurants, unranked." }
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "'London's 20 Best Sushi Restaurants' (/london/restaurants/londons-best-sushi-bars), numbered 1 to 20, edited by Erin Niimi Longhurst. The 17 Dec 2025 news story naming Sushi Tetsu number one is the same list. Its Japanese guide is the same domain."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": "no",
+      "note": "Three guides on one domain: the 19 best sushi restaurants (not in score order), the 4 best omakase menus, and casual neighbourhood sushi spots. Ratings are printed per restaurant but the lists are not ranked."
+    },
+    {
+      "name": "Condé Nast Traveller",
+      "domain": "cntraveller.com",
+      "ranked": false,
+      "note": "Gallery of 22, 1 March 2026. Includes Japanese rooms where sushi is one part of a wider menu."
+    },
+    {
+      "name": "Hot Dinners",
+      "domain": "hot-dinners.com",
+      "ranked": false,
+      "note": "Three guides: best sushi (27 entries, Jul 2025), omakase menus (Feb 2025), takeaway sushi (Aug 2025)."
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "ranked": false,
+      "note": "The 2024 'don't cost a month's rent' list and David Ellis's five-star Eel Sushi review (Jun 2025). The 2018 list is outside the 36-month window."
+    },
+    {
+      "name": "Wallpaper*",
+      "domain": "wallpaper.com",
+      "ranked": false,
+      "note": "Ben McCormack, ten picks, 7 Oct 2024, revised since."
+    },
+    {
+      "name": "Luxury London",
+      "domain": "luxurylondon.co.uk",
+      "ranked": false,
+      "note": "Omakase list, updated 15 May 2026."
+    },
+    {
+      "name": "Observer (US)",
+      "domain": "observer.com",
+      "ranked": false,
+      "note": "Twelve omakase counters, 22 Jun 2026."
+    },
+    {
+      "name": "House & Garden, The Week, Stylist, Vogue, Country & Town House",
+      "domain": "various",
+      "ranked": false,
+      "note": "Japanese-wide lists; only their sushi-led entries are recorded."
+    },
+    {
+      "name": "Vittles",
+      "domain": "vittlesmagazine.com",
+      "ranked": false,
+      "note": "Jonathan Nunn's column on mid-range sushi (20 Sep 2024) is paywalled; the preview names Atari-Ya and Sagamiya."
+    },
+    {
+      "name": "The Nudge, Secret London, Washoku Guide",
+      "domain": "various",
+      "ranked": false,
+      "note": "Independent and specialist lists. Washoku Guide lists 44 Japanese-owned or Japanese-chef sushi restaurants, unranked."
+    }
   ],
   "facetAxis": {
     "field": "format",
     "note": "Sushi in London is five different meals. The axis is how the meal is served and what it costs, not the fish.",
     "values": [
-      { "key": "omakase", "label": "Omakase counters", "describeAs": "you sit at a counter and the chef decides every piece, served one at a time" },
-      { "key": "a-la-carte", "label": "A la carte sushi restaurants", "describeAs": "you order nigiri by the piece or by the set, at a counter or a table" },
-      { "key": "handroll", "label": "Handroll bars", "describeAs": "nori cones filled and handed to you one at a time, to eat within seconds" },
-      { "key": "kaiten", "label": "Conveyor belt (kaiten)", "describeAs": "plates circle on a belt, colour-coded by price" },
-      { "key": "takeaway", "label": "Cheap and quick", "describeAs": "takeaway counters, fishmongers' cafes and food-hall stalls selling sets for under £15" },
-      { "key": "chain", "label": "Chains", "describeAs": "branded sushi sold across many sites, from a belt chain to a supermarket-style counter" }
+      {
+        "key": "omakase",
+        "label": "Omakase counters",
+        "describeAs": "you sit at a counter and the chef decides every piece, served one at a time"
+      },
+      {
+        "key": "a-la-carte",
+        "label": "A la carte sushi restaurants",
+        "describeAs": "you order nigiri by the piece or by the set, at a counter or a table"
+      },
+      {
+        "key": "handroll",
+        "label": "Handroll bars",
+        "describeAs": "nori cones filled and handed to you one at a time, to eat within seconds"
+      },
+      {
+        "key": "kaiten",
+        "label": "Conveyor belt (kaiten)",
+        "describeAs": "plates circle on a belt, colour-coded by price"
+      },
+      {
+        "key": "takeaway",
+        "label": "Cheap and quick",
+        "describeAs": "takeaway counters, fishmongers' cafes and food-hall stalls selling sets for under £15"
+      },
+      {
+        "key": "chain",
+        "label": "Chains",
+        "describeAs": "branded sushi sold across many sites, from a belt chain to a supermarket-style counter"
+      }
     ]
   },
   "formatSection": {
@@ -60,7 +139,7 @@
   "knownGaps": [
     "SquareMeal's best sushi (24) and best omakase (16) lists, The Handbook's mid-priced sushi and omakase lists and Londonist's sushi bars list all return HTTP 403 to scripted requests, so none was read; The Times and Telegraph sushi lists are paywalled or blocked. The next pass should read them by hand and record them.",
     "No TikTok creator is recorded: TikTok search cannot be read without a paid scraper and no reconstructed handle is acceptable (trap 5).",
-    "Tier E is Reddit only, counted as one domain. Further r/LondonFood and r/sushi threads were read but several returned HTTP 429 and could not be re-read: 'Sushi Recommendations' (Jan 2026), 'Looking for sushi recommendations around 100 pounds' (Jul 2025), 'Affordable conveyor belt sushi, open Sundays?' (Apr 2026), 'Sushi Suggestion (Soho / Central)' (Sep 2026), 'What are the best high end sushi restaurants in London?' (r/london, Sep 2024), 'good sushi recs in London without breaking the bank?' and 'Best London Sushi Places' (r/sushi).",
+    "Tier E is Reddit only, counted as one domain however many threads name a restaurant; twelve r/LondonFood, r/london and r/sushi threads were read, so thread counts are printed in the article text rather than in the Cited by line.",
     "Kaiten is thin: Kulu Kulu is the only conveyor belt named by more than one source. Moshi Moshi (Liverpool Street) and Kurumaya are named by one Reddit commenter each.",
     "Vittles' mid-range sushi column is paywalled beyond its preview; its full list of neighbourhood sushi-yas is not recorded.",
     "No Bib Gourmand or other Michelin distinction exists for a London sushi restaurant apart from Sushi Kanesaka's one star; the Guide's 2026 selection no longer contains Endo at the Rotunda.",

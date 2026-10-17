@@ -327,7 +327,7 @@
         "Pham Sushi": "Bento boxes and set menus under £20; salmon and jalapeño rolls popular.",
         "Iné": "Casual omakase on Hampstead High Street from the Taku team; 15 courses for £100."
       },
-      "note": "Josh Barrie, International Sushi Day 2024. Sushi Kanesaka and Endo at the Rotunda are named only as price benchmarks. Zaibatsu (Greenwich) is noted as closed, even if temporarily, so not recorded."
+      "note": "Josh Barrie, International Sushi Day 2024. Sushi Kanesaka and Endo at the Rotunda are named only as price benchmarks. Zaibatsu (Greenwich) is noted as closed at the time; the Standard reported its reopening in October 2025, but it is named by no sushi list and is not recorded here."
     },
     {
       "name": "Evening Standard - David Ellis reviews Eel Sushi Bar",
@@ -819,7 +819,7 @@
         "Kikuchi": "Fitzrovia, omakase.",
         "Iné": "Hampstead High Street, sister to Taku, 17-course omakase."
       },
-      "note": "A curated guide to Japanese-owned or Japanese-chef restaurants (methodology page: every listed restaurant must be Japanese-owned or have a Japanese head chef). 44 entries numbered 01 to 44 with no stated ranking. Zaibatsu is noted elsewhere as closed, even if temporarily, and Endo at the Rotunda closed after a fire, so neither reaches the page."
+      "note": "A curated guide to Japanese-owned or Japanese-chef restaurants (methodology page: every listed restaurant must be Japanese-owned or have a Japanese head chef). 44 entries numbered 01 to 44 with no stated ranking. Endo at the Rotunda closed after a fire in September 2025, so it does not reach the page; Zaibatsu, Tomoe and the other single-source names are recorded and judged by the article on the evidence."
     },
     {
       "name": "Harrison Webb (YouTube) - I Tried Cheap vs Expensive Sushi",
@@ -1181,6 +1181,129 @@
         "Umu": "'Special one that doesn't get talked about enough.'"
       },
       "note": "A reply says Endo is 'hands down number 1' but gives no date; with the Rotunda burned down and the Chelsea restaurant not yet open when posted, not recorded."
+    },
+    {
+      "name": "r/LondonFood - Good sashimi / sushi place near Broadgate Circle? (5 Nov 2025)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1op3wsm/good_sashimi_sushi_place_near_broadgate_circle/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2025-11-05",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Moshi Moshi",
+        "Sushi Show",
+        "Shiro",
+        "LOH Japandi",
+        "Sanjugo",
+        "Miyako"
+      ],
+      "quotes": {
+        "Moshi Moshi": "'Always the best in the area' for a reasonable-value lunch near Liverpool Street.",
+        "Sushi Show": "Three replies for the branch off the north end of Brick Lane, on Bethnal Green Road: 'also excellent'.",
+        "Shiro": "'At Broadgate, Shiro Sushi is good.'",
+        "Sanjugo": "'Sanjugo 100%'; the asker agrees it is a sit-down dinner rather than quick takeaway.",
+        "Miyako": "'Used to rate Miyako in the Andaz.'"
+      }
+    },
+    {
+      "name": "r/LondonFood - Places that do crispy rice sushi? (9 Jun 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1u12kvm/places_that_do_crispy_rice_sushi/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-06-09",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Kampai Kensington",
+        "Temaki",
+        "Nobu Old Park Lane"
+      ],
+      "quotes": {
+        "Kampai Kensington": "'A Japanese-owned restaurant in West Kensington called Kampai... deep fried rice cubes served with tuna tartare... a very good version.'",
+        "Temaki": "Crispy rice topped with tartare 'when they were based in Brixton market'; asked whether the Brixton site is gone: 'It is yes!', and the handroll bar is now in Mayfair.",
+        "Nobu Old Park Lane": "'The original crispy rice tuna is from Nobu.'"
+      }
+    },
+    {
+      "name": "r/sushi - Best London Sushi Places (14 Jun 2025)",
+      "url": "https://www.reddit.com/r/sushi/comments/1lb31gu/best_london_sushi_places/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2025-06-14",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sushi Atelier"
+      ],
+      "quotes": {
+        "Sushi Atelier": "'Pleasantly surprised... really good for what it is, and you don't often see real wasabi root being used at casual-ish, walk-in places.'"
+      },
+      "note": "Other replies say nothing good is available at £10 to £30 beyond Itsu; not recorded."
+    },
+    {
+      "name": "r/sushi - good sushi recs in London without breaking the bank? (13 Apr 2026)",
+      "url": "https://www.reddit.com/r/sushi/comments/1skou7k/good_sushi_recs_in_london_without_breaking_the/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-04-13",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Café Japan",
+        "Sushi Atelier",
+        "Rai"
+      ],
+      "quotes": {
+        "Café Japan": "'Cafe Japan in Golders Green.'",
+        "Sushi Atelier": "'A solid spot.'",
+        "Rai": "'Probably the best value high-end omakase-sushi spot in London.'"
+      }
+    },
+    {
+      "name": "r/london - What are the best high end sushi restaurants in London? (7 Sep 2024)",
+      "url": "https://www.reddit.com/r/london/comments/1fb3kec/what_are_the_best_high_end_sushi_restaurants_in/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2024-09-07",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sushi Tetsu",
+        "Kurisu Omakase",
+        "Taku",
+        "Sushi Atelier",
+        "Takahashi",
+        "Dinings Marylebone",
+        "Cubé",
+        "Juno",
+        "Maru",
+        "Yashin Ocean House",
+        "Umu",
+        "Nanahoshi",
+        "Sushi Bar Makoto",
+        "The Fuji Grill",
+        "Mayha",
+        "Engawa",
+        "Namaiki",
+        "The Aubrey",
+        "Akira at Japan House",
+        "Roka",
+        "The Araki"
+      ],
+      "quotes": {
+        "Sushi Tetsu": "Several replies: 'Sushi Tetsu in Clerkenwell is imho the best available in London'; bookings open about once a month and 'you have to work at getting a table'.",
+        "Kurisu Omakase": "Three replies: 'serious dining delivered in a more casual style'.",
+        "Takahashi": "Three replies: 'don't judge a book by its cover... incredible sushi', about £120 a head.",
+        "Sushi Atelier": "Four replies; one calls it a tiny restaurant with great counter seating and expensive but worth it.",
+        "Cubé": "'If you want an omakase experience go to Cubé.'",
+        "Namaiki": "'Went to Namaiki for omakase lunch and was honestly blown away... still not eye watering prices.'",
+        "The Araki": "Mixed: 'best experience ever' at about £300; another says it sank a little after losing its Michelin stars.",
+        "The Aubrey": "'Outstanding. Moody interior and excellent omakase style Signature Platter.'",
+        "Sushi Bar Makoto": "'Sushi bar Makoto in Turnham Green is a must for me.'",
+        "The Fuji Grill": "'The sushi is great' - the Beaverbrook Town House restaurant in Chelsea."
+      },
+      "note": "Endo at the Rotunda (named by about eight replies before the 2025 fire), Roji (closed), SUSHISAMBA (named only as overpriced) and Zuma are not recorded."
     },
     {
       "name": "r/LondonFood - Sushi Recommendations (5 Jan 2026)",
