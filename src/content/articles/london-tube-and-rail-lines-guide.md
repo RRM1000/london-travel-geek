@@ -26,7 +26,7 @@ The Underground is the rail network visitors arrive knowing about, but the Eliza
 
 > **The short answer:** London's rail lines are not interchangeable. The Elizabeth line, the sub-surface Tube lines and the London Overground are air-conditioned and comfortable; the deep-level Tube lines are faster through the centre but hot and crowded. This guide rates every line for crowding and comfort, and lists which attractions sit at which station — including the exit to use when you get there.
 
-Oyster and contactless work on every line covered here. For the National Rail exceptions and the Elizabeth line boundary at West Drayton, see the [Oyster card and contactless guide](/articles/oyster-card-guide-london/). If you are new to the network, [How to Use the London Underground](/articles/how-to-use-the-london-underground/) explains touching in and out, fare zones, interchanges and common first-time mistakes.
+Oyster and contactless work on every line covered here. For the National Rail exceptions and the Elizabeth line boundary at West Drayton, see the [Oyster card and contactless guide](/articles/oyster-card-guide-london/). If you are new to the network, [How to Use the London Underground](/articles/how-to-use-the-london-underground/) explains touching in and out, fare zones, interchanges and common first-time mistakes. For what a journey costs, see the [2026 fares guide](/articles/london-public-transport-costs-and-fares/).
 
 ## Official London rail and Tube map
 
