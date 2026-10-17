@@ -1,9 +1,9 @@
 ---
 title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
-seoTitle: "London Fares 2026: Tube £3.10, Bus £1.75, Cap £8.90"
-description: "A Zone 1–2 Tube journey is £3.60 peak and £3.10 off-peak, any bus is £1.75, and the daily cap is £8.90. Under-11s travel free and 11–15s pay half. Every 2026 fare for the Tube, buses, trams, boats, the cable car and taxis, and the three rules that stop you overpaying."
+seoTitle: "London Bus and Tube Fares 2026: £3.10 Tube, £8.90 Cap"
+description: "A London bus costs £1.75 (£1.85 from 1 November 2026), capped at £5.25 a day. A Zone 1 Tube single is £3.10 at peak, and Zones 1–2 cap at £8.90 a day."
 publishedAt: 2026-07-30
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 reviewBy: 2026-11-01
 sites:
   - london
@@ -14,7 +14,7 @@ tags:
   - TfL fares
   - Oyster card
   - contactless payment
-  - Weekend Hopper
+  - bus fares
   - budget travel
 draft: false
 heroImage: "../../assets/articles/london-underground/oyster-card-reader.jpg"
@@ -23,19 +23,24 @@ heroImageCredit: "Oxyman"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:TfL_Oyster_Card_reader.jpg"
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
+faq:
+  - q: "How much is a bus in London?"
+    a: "A London bus costs £1.75 a journey, and the Hopper fare makes every further bus or tram you board within one hour free. The daily bus cap is £5.25; from 1 November 2026 the fare is £1.85 and the cap £5.55."
+  - q: "How much is the Tube in London?"
+    a: "A Zone 1 single costs £3.10 at peak and £3.00 off-peak with contactless or Oyster, and a Zones 1–2 journey costs £3.60 at peak and £3.10 off-peak. A paper single costs £7.00 whatever the distance."
+  - q: "What is the maximum fare on TfL?"
+    a: "On pay as you go the most you pay in a day is the daily cap: £8.90 for Zones 1–2 and £16.30 for Zones 1–6. A separate 'maximum fare' is charged if you forget to touch in or out; it does not count towards the cap, and you can claim it back within 8 weeks."
+  - q: "How much is a monthly bus pass in London?"
+    a: "The Monthly Bus & Tram Pass costs £94.90 until 31 October 2026 and £100.30 from 1 November, loaded on an Oyster card. The 7 Day pass is £24.70 (£26.10 from 1 November)."
+  - q: "What is the daily cap in London?"
+    a: "The Zones 1–2 daily cap is £8.90 on any mix of Tube, bus, tram, DLR, Overground and Elizabeth line, and the bus and tram only cap is £5.25. Use the same card or device all day, and the day runs from 04:30 to 04:29."
+  - q: "Do children pay on London buses and the Tube?"
+    a: "Under-11s travel free on buses and trams, and on the Tube with a fare-paying adult. Visitors aged 11–15 pay half the adult fare for up to 14 days once staff add the Young Visitor discount to an Oyster card."
 ---
 
+> 💡 **The Short Version:** **A London bus costs £1.75** and the **daily bus cap is £5.25**; on **1 November 2026** they rise to **£1.85** and **£5.55**. **A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak** (Zones 1–2: £3.60 and £3.10). **The Zones 1–2 daily cap is £8.90** across Tube, bus, tram, DLR, Overground and Elizabeth line, as long as you tap the same contactless card, phone or Oyster every time. A paper single costs £7.00, so never buy one. Under-11s travel free and 11–15s pay half. Tube caps are frozen until March 2027. Prices in force in October 2026.
+
 London transport prices depend on the service, zones, time of travel and how you pay. Contactless or Oyster pay as you go is normally the simplest and least expensive choice for an adult visitor because eligible journeys are automatically capped.
-
-> **Fare snapshot:** prices on this page were checked on **25 September 2026**. Bus and tram fares are frozen until **1 November 2026**, after which TfL expects the adult single to rise to **£1.85** and the daily bus cap to **£5.55**. Always use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder) for an exact station-to-station rail fare.
-
-> **Quick reference: the fares most visitors need.**
->
-> - **Tube, Elizabeth line, Overground or DLR in Zones 1–2:** a two-zone journey including Zone 1 costs **£3.60 peak** or **£3.10 off-peak**. A one-zone Zone 1 journey is **£3.10 peak** or **£3.00 off-peak**.
-> - **Zones 1–2 daily cap:** pay no more than **£8.90** for eligible Tube, Elizabeth line, Overground, DLR, bus and tram travel when you keep using the same Oyster or contactless card or device.
-> - **London bus or tram:** **£1.75** per adult, including further bus and tram journeys started within one hour. The bus-and-tram-only daily cap is **£5.25**.
-> - **Children under 11:** usually travel free on the main TfL services. On rail services they must be with a fare-paying adult, with up to four children per adult.
-> - **Visitors aged 11–15:** pay half the adult pay-as-you-go fares and caps for up to 14 days after the **Young Visitor discount** is added to an Oyster or Visitor Oyster card. A contactless bank card charges the adult fare.
 
 > 🌟 **3 Golden Rules for London Transit.**
 > 1. **Always use Contactless or Oyster:** Never buy single paper tickets at station ticket machines.
@@ -44,7 +49,38 @@ London transport prices depend on the service, zones, time of travel and how you
 
 Not sure which payment method to choose? Read the [complete Oyster card and contactless guide](/articles/oyster-card-guide-london/), including the current card fee, where Oyster works and when your own bank card is the better option.
 
-This is the price companion to our [complete London transport overview](/articles/getting-around-london-transport-guide/).
+This is the price companion to our [complete London transport overview](/articles/getting-around-london-transport-guide/). To choose between the Tube, Elizabeth line, DLR and Overground, see the [Tube and rail lines guide](/articles/london-tube-and-rail-lines-guide/), which covers which line goes where.
+
+## London bus fares 2026
+
+**A London bus or tram costs £1.75 a journey, and the Hopper fare makes every further bus or tram you board within one hour free; the daily cap is £5.25, the 7-Day Bus & Tram Pass £24.70 and the monthly pass £94.90.** From 1 November 2026 the fare is £1.85, the daily cap £5.55, the 7-Day pass £26.10 and the monthly pass £100.30. Buses and trams charge one flat fare at any time of day, however far you ride. They don't take cash: pay with contactless or Oyster.
+
+| Ticket or cap | Adult price to 31 October 2026 | Adult price from 1 November 2026 |
+| --- | ---: | ---: |
+| Single pay-as-you-go bus or tram fare | **£1.75** | **£1.85** |
+| Daily bus & tram cap | **£5.25** | **£5.55** |
+| Weekly cap (Monday to Sunday) | **£24.70** | **£26.10** |
+| 1-Day Bus & Tram Pass | **£6.00** | **£6.40** |
+| 7-Day Bus & Tram Pass | **£24.70** | **£26.10** |
+| Monthly Bus & Tram Pass | **£94.90** | **£100.30** |
+| Annual Bus & Tram Pass | **£988.00** | **£1,044.00** |
+
+The passes load onto an Oyster card; a contactless bank card pays the single fare and the daily cap. For boarding instructions, live arrivals, and key routes, read our complete guide to [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/). The new prices are on [TfL's bus and tram fares page](https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares).
+
+### How the Hopper Fare works
+
+The **Hopper Fare** allows you to make unlimited bus and tram journeys across London within **60 minutes** for the price of a single fare.
+
+* **Touch in only:** Always tap your card or device on the yellow reader when boarding a bus or tram, but **never touch out** when alighting.
+* **Use the same payment method:** You must use the exact same contactless card, phone, or Oyster card for every tap so TfL can automatically link your journeys.
+* **60-minute window:** Any additional bus or tram you board within 60 minutes of your first touch-in is automatically free.
+* **Tube transfers:** Taking the Underground in between two bus rides does not cancel your 60-minute Hopper window (the Tube fare is charged separately, but your second bus remains free if boarded within 60 minutes of the first).
+
+For detailed journey scenarios, read the [worked examples in our bus and tram guide](/articles/how-to-use-london-buses-and-trams/#mixing-buses-and-the-underground).
+
+### The Weekend Hopper has ended
+
+On summer weekends from **25 July to 31 August 2026**, including the August bank holiday Monday, one £1.75 fare covered unlimited bus and tram journeys all day. It has ended, and TfL has not said whether it will return. More in our [bus and tram guide](/articles/how-to-use-london-buses-and-trams/#the-weekend-hopper-trial-has-ended).
 
 ## Peak and off-peak times
 
@@ -68,7 +104,9 @@ There are important exceptions:
 
 Because the exceptions are journey-specific, check unusual or expensive routes in the [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder).
 
-## Tube, DLR, London Overground and Elizabeth line single fares
+## Tube fares 2026: single fares by zone
+
+**A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak; a Zones 1–2 journey costs £3.60 at peak and £3.10 off-peak.** A paper single costs £7.00 whatever the distance. The same zonal fares apply on the DLR, London Overground and Elizabeth line.
 
 Adult Oyster and contactless pay-as-you-go fares since 1 March 2026. Some National Rail services and airport routes charge their own fares.
 
@@ -97,9 +135,9 @@ Adult Oyster and contactless pay-as-you-go fares since 1 March 2026. Some Nation
 
 The tables above are the standard zonal fares. For a specific journey — particularly one that touches National Rail, an airport, or any of the peak-time exceptions listed earlier — use TfL's **[Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)**. Enter any two stations and it returns the exact pay-as-you-go single for Oyster and contactless, peak and off-peak, including any Railcard discount loaded on the card. It draws on the same fare data the barriers charge from, so if a figure on this page and the finder ever disagree, trust the finder.
 
-## Daily and weekly caps
+## Tube daily and weekly caps
 
-A cap limits what you pay for eligible journeys when you keep using the same Oyster card or the same contactless card or device. The TfL day runs from **04:30 to 04:29** the following morning.
+**The Zones 1–2 daily cap is £8.90 and the Monday–Sunday cap is £44.70.** A cap limits what you pay for eligible journeys when you keep using the same Oyster card or the same contactless card or device. The TfL day runs from **04:30 to 04:29** the following morning. Caps are frozen until March 2027.
 
 | Zones used | Daily cap | Monday–Sunday cap |
 | --- | ---: | ---: |
@@ -135,42 +173,6 @@ A 7-Day Travelcard costs the same as the Monday–Sunday cap for its zones, show
 > **Avoid paper Day Travelcards.** A Zones 1–2 Day Travelcard is **£16.60**, against the **£8.90** daily cap. Zones 1–6 is **£23.60** anytime or **£16.60** off-peak, against the **£16.30** cap. TfL has frozen Travelcard prices, and with them the caps, until March 2027.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-public-transport-costs-and-fares-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## Bus and tram prices
-
-Buses and trams charge one flat fare at any time of day, however far you ride. They don't take cash: pay with contactless or Oyster.
-
-For boarding instructions, live arrivals, and key routes, read our complete guide to [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/).
-
-### Current bus & tram fares (Through 31 October 2026)
-
-| Ticket or cap | Adult price |
-| --- | ---: |
-| Single PAYG bus/tram fare | **£1.75** |
-| Daily bus & tram cap | **£5.25** |
-| 1-Day Bus & Tram Pass | **£6.00** |
-| 7-Day Bus & Tram Pass | **£24.70** |
-| Monthly Bus & Tram Pass | **£94.90** |
-| Annual Bus & Tram Pass | **£988.00** |
-
-### How the Hopper Fare works
-
-The **Hopper Fare** allows you to make unlimited bus and tram journeys across London within **60 minutes** for the price of a single fare (£1.75).
-
-* **Touch in only:** Always tap your card or device on the yellow reader when boarding a bus or tram, but **never touch out** when alighting.
-* **Use the same payment method:** You must use the exact same contactless card, phone, or Oyster card for every tap so TfL can automatically link your journeys.
-* **60-minute window:** Any additional bus or tram you board within 60 minutes of your first touch-in is automatically free.
-* **Tube transfers:** Taking the Underground in between two bus rides does not cancel your 60-minute Hopper window (the Tube fare is charged separately, but your second bus remains free if boarded within 60 minutes of the first).
-
-For detailed journey scenarios, read the [worked examples in our bus and tram guide](/articles/how-to-use-london-buses-and-trams/#mixing-buses-and-the-underground).
-
-### Expected fare rise from 1 November 2026
-
-The Mayor's bus and tram fare freeze runs until 1 November 2026. [TfL says](https://tfl.gov.uk/info-for/media/press-releases/2026/july/-hop-about-the-capital-this-summer-as-mayor-s-fare-freeze-for-bus-and-trams-extended) the adult single is then expected to rise from £1.75 to **£1.85** and the daily bus and tram cap from £5.25 to **£5.55**.
-
-## The Weekend Hopper has ended
-
-On summer weekends from **25 July to 31 August 2026**, including the August bank holiday Monday, one £1.75 fare covered unlimited bus and tram journeys all day. It has ended, and TfL has not said whether it will return. More in our [bus and tram guide](/articles/how-to-use-london-buses-and-trams/#the-weekend-hopper-trial-has-ended).
 
 <div data-stay-strip></div>
 
@@ -291,7 +293,7 @@ Private hire vehicles must be pre-booked through a licensed operator or app. Unl
 1. **Always use contactless or an Oyster card:** Paper single tickets are a heavy tourist tax. Tapping in and out automatically calculates the cheapest fare.
 2. **Use the exact same card or device:** Tapping with your physical bank card and then using Apple Pay/Google Pay on your phone counts as two separate accounts, splitting your journey history and preventing daily capping.
 3. **Travel off-peak when possible:** Avoid peak hours (06:30–09:29 and 16:00–18:59 on weekdays) for significant savings on longer Tube and rail trips.
-4. **Take advantage of the Hopper Fare:** Board as many buses and trams as you want within 60 minutes for a single **£1.75** charge.
+4. **Take advantage of the Hopper Fare:** Board as many buses and trams as you want within 60 minutes for a single bus fare.
 5. **Tap the pink card readers:** On a journey that avoids Zone 1, tapping the pink reader mid-journey proves it and cuts the fare. See [the pink readers](#what-are-the-pink-card-readers) below.
 6. **Beware of paper Day Travelcards:** a Zones 1–2 Day Travelcard is £16.60 against the £8.90 contactless cap. Stick to contactless unless buying a 7-Day Travelcard for a mid-week trip.
 7. **Use your Travelcard for river discounts:** Presenting a valid Travelcard gives you a **33% discount** on Uber Boat River Bus fares.
@@ -323,12 +325,12 @@ The system otherwise assumes the route through the middle, because that is usual
 | --- | --- | --- | --- |
 | **Under 5** | **Free** | **Free** | No card required; walk through wide luggage gates with adult. |
 | **Age 5–10** | **Free** (up to 4 children per accompanying adult; Elizabeth line only as far as West Drayton) | **Free** | No card required for TfL lines; use wide staffed gates together. |
-| **Age 11–15 (with Young Visitor Discount)** | **50% off** adult PAYG fares and daily caps | **Half fare (£0.85)** | Staff add it to an Oyster or Visitor Oyster card at any Tube station; lasts 14 days. |
+| **Age 11–15 (with Young Visitor Discount)** | **50% off** adult PAYG fares and daily caps | **Half fare (£0.85 to 31 October 2026)** | Staff add it to an Oyster or Visitor Oyster card at a Tube or Overground station or a Visitor Centre; lasts 14 days. |
 | **Age 11–15 (with Zip Oyster Photocard)** | Child fares and caps | **Free** | Requires advance online application (mainly for UK residents). |
 | **Age 16–17** | Adult fare *(unless holding 16+ Zip Photocard)* | Adult fare | Use contactless card or adult Oyster. |
 
 > 🧒 **How to get the 50% Young Visitor Discount.**  
-> If you are visiting London with children aged 11–15, buy a standard Oyster card for each child. Ask a member of TfL staff at any Underground station or Visitor Centre to apply the **Young Visitor Discount**. The child must be present. Staff will instantly programme a **50% discount** on all single fares and daily caps for up to 14 days (e.g., reducing the Zone 1–2 daily cap to just **£4.45**).
+> If you are visiting London with children aged 11–15, buy a standard Oyster card for each child. Ask a member of TfL staff at a Tube or London Overground station, or at a Visitor Centre, to apply the **Young Visitor Discount**. The child must be present. Staff will instantly programme a **50% discount** on adult-rate pay-as-you-go fares and daily caps for up to 14 days (e.g., reducing the Zone 1–2 daily cap to just **£4.45**).
 
 > 👴 **Senior & Overseas Concessions.**  
 > Free senior travel passes (such as the 60+ London Oyster or Freedom Pass) are strictly reserved for London or UK residents. Overseas senior citizen cards, student IDs, or international disability badges are **not accepted** for discounts on TfL services. However, any visitor holding a 16-25, 26-30, Senior, HM Forces or Veterans Railcard can have it added to an Oyster card at a Tube station for a third off off-peak pay-as-you-go fares.
@@ -339,24 +341,22 @@ The system otherwise assumes the route through the middle, because that is usual
 
 ## Penalty fares and incomplete journeys
 
-Travelling without a valid ticket or failing to touch in and out can lead to heavy extra charges:
+Travelling without a valid ticket or failing to touch in and out can lead to extra charges:
 
 ### Official Penalty Fare: £100 (or £50 if paid early)
 If a TfL Revenue Protection Inspector inspects your contactless card or ticket and finds you do not have a valid fare, failed to touch in, or used an Oyster card beyond its valid zone boundary (e.g. at Stansted or Luton):
 * **Standard Penalty Fare:** **£100**
 * **Discounted Rate:** Reduced to **£50** if paid within **21 days**.
-* *(Deliberate fare evasion can result in prosecution and court fines up to £1,000).*
+* *(Fare evasion is a criminal offence and can lead to prosecution.)*
 
-### Maximum Fare for Incomplete Journeys: Up to £9.40–£30.40
+### Maximum fares for incomplete journeys
 If you make a mistake and **forget to touch out** at the end of your trip (or forget to touch in at an un-gated station):
-* TfL cannot calculate where you travelled and automatically charges a **maximum fare**, which does not count towards your daily cap.
-* **Zones 1–6 Rail Trips:** Charged up to **£9.40** for that single trip.
-* **Longer National Rail Journeys:** Charged up to **£30.40**.
+* TfL cannot calculate where you travelled, so it charges a **maximum fare** instead.
+* A maximum fare **does not count towards your daily cap**.
 
 > 💡 **How to claim a refund for a forgotten tap.**  
 > Wait 48 hours, as most are refunded automatically. If yours isn't, claim through your [contactless and Oyster account](https://tfl.gov.uk/fares/refunds/apply-for-incomplete-journey-refund) or on 0343 222 1234 within 8 weeks of the journey.
 
 ---
 
-*Fares checked on 25 September 2026. Adult prices are shown unless a child or concession fare is explicitly stated. Always verify exact route fares using the TfL Single Fare Finder before travel.*
-
+*Prices in force in October 2026. Adult prices are shown unless a child or concession fare is explicitly stated. For an exact station-to-station price, use the TfL Single Fare Finder.*
