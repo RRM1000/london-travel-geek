@@ -27,7 +27,9 @@ const norm = (s) =>
   String(s).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")
     .replace(/&/g, " and ").replace(/^(the|a)\s+/, "").replace(/[^a-z0-9]+/g, "");
 const ALIAS = JSON.parse(fs.readFileSync("data/name-aliases.json", "utf8")).aliases ?? {};
-const resolve = (n) => norm(ALIAS[Object.keys(ALIAS).find((k) => norm(k) === norm(n))] ?? n);
+// Same rule as build-evidence.mjs: a Map keyed on the normalised alias, so a later entry overrides an earlier one.
+const ALIAS_MAP = new Map(Object.entries(ALIAS).map(([from, to]) => [norm(from), to]));
+const resolve = (n) => norm(ALIAS_MAP.get(norm(n)) ?? n);
 
 const evByNorm = {};
 for (const v of Object.values(ev)) evByNorm[norm(v.name)] = v;
@@ -52,9 +54,10 @@ const michelinQuote = (name) => {
   const key = Object.keys(michelin.quotes ?? {}).find((k) => resolve(k) === resolve(name));
   return key ? michelin.quotes[key] : null;
 };
-const redditThreads = (name) =>
-  doc.sources.filter((s) => /reddit\.com/.test(s.url) && s.names.some((n) => resolve(n) === resolve(name))).length;
-const totalThreads = doc.sources.filter((s) => /reddit\.com/.test(s.url)).length;
+// Reddit is recorded as one record per subreddit with a threads array; a thread counts once per restaurant.
+const allThreads = doc.sources.filter((s) => /reddit.com/.test(s.url)).flatMap((s) => s.threads ?? [{ names: s.names }]);
+const redditThreads = (name) => allThreads.filter((t) => t.names.some((n) => resolve(n) === resolve(name))).length;
+const totalThreads = allThreads.length;
 
 const errors = [], checked = [];
 let lastName = null;
@@ -130,7 +133,7 @@ else {
 }
 
 // Every Time Out rank has to be a real one and no unordered source may carry rank wording.
-if (/Infatuation[^.\n]*#\d|Hot Dinners[^.\n]*#\d|Michelin[^.\n]*#\d/.test(art))
+if (/Infatuation[^.\n]*#\d|Hot Dinners[^.\n]*#\d|Michelin[^.\n]*#\d/.test(art.replace(/#\d+ of 20,? Time Out/g, "")))
   errors.push("a rank is printed against an unordered source");
 
 console.log(`${checked.length} claim(s) verified against the evidence build`);

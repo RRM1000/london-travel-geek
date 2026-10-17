@@ -166,6 +166,8 @@ North–south restaurant streets running parallel through the middle of Soho.
 | **Bar Italia** | Coffee | £ | Frith Street, open since 1949 and nearly around the clock |
 | **The French House** | Historic pub | £ | Dean Street; beer served in halves by tradition |
 
+Soho's sushi runs from Kulu Kulu's conveyor belt on Brewer Street to the ten-seat omakase counter at Sushi Kyu, Namaiki's bar on Broadwick Street and the Miokuru handroll bar on Warwick Street. All are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 For dinner with live music, Brasserie Zédel's house band plays every day with no charge on the bill, and Ronnie Scott's serves dinner through its sets. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares them.
 
 For karaoke, Lucky Voice on Poland Street opened in 2005, Karaoke Box has been on Frith Street since 1997, and Karaoke Epoc on Brewer Street is a Japanese-style box; all three are in our [karaoke guide](/articles/best-karaoke-london/).

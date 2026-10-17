@@ -149,6 +149,8 @@ Belgravia eats expensively. Arrive fed if you are on a budget.
 | **Brooklands** | French, rooftop | ££££ | Claude Bosi on the roof of The Peninsula, over Hyde Park Corner |
 | **Canton Blue** | Cantonese | ££££ | Inside The Peninsula, themed on a 19th-century trading ship |
 
+Sachi on Motcomb Street is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 ![The Weezie's pizzeria frontage in the Eccleston Yards courtyard](../../assets/articles/belgravia-area-guide/weezies.jpg)
 
 *Weezie's, Eccleston Yards.*

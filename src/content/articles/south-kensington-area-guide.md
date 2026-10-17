@@ -172,6 +172,8 @@ Harrods is free to walk into; the food halls are the draw.
 | **Bute Street bakeries** | French cafes | £ | The local French quarter |
 | **Duke of York Square** | Various | ££ | Fifteen minutes towards Chelsea, with a Saturday food market |
 
+Yashin Ocean House on Old Brompton Road is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **South Kensington** is on the Piccadilly, District and Circle lines. The Piccadilly line runs direct from Heathrow in about 40 minutes for under £6.

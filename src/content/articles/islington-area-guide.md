@@ -142,6 +142,8 @@ Banya No.1, a Russian steam bath on Micawber Street just over the border in Hoxt
 | **Gallipoli** | Turkish | ££ | Upper Street; loud and busy |
 | **Chapel Market stalls** | Street market | £ | Everyday food and produce |
 
+Sasa on St John Street, Sushi Show on Camden Passage and Zen Mondo on Upper Street are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 ![The Chapel Market sign spanning the street in Islington](../../assets/articles/islington-area-guide/chapel-market.jpg)
 
 *Chapel Market. Photo: [David Hallam-Jones](https://commons.wikimedia.org/w/index.php?curid=122596944), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*

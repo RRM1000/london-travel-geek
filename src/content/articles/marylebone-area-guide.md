@@ -164,6 +164,8 @@ The shops are specific: bridal boutiques, and instrument dealers selling violins
 | **Marylebone Farmers' Market** | Market | £ | Sundays only |
 | **The Wallace Restaurant** | Brasserie | £££ | In the museum's glazed courtyard |
 
+Mayha on Chiltern Street and Dinings on Harcourt Street are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 Jikoni on Blandford Street cooks across South Asian, East African, Middle Eastern and British kitchens. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 Opso and Kima face each other on Paddington Street, Taverna Ermou is on James Street and Clio on Chiltern Street; all four are in our [Greek restaurants guide](/articles/best-greek-restaurants-london/).

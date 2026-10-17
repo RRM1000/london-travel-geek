@@ -139,12 +139,13 @@
   "knownGaps": [
     "SquareMeal's best sushi (24) and best omakase (16) lists, The Handbook's mid-priced sushi and omakase lists and Londonist's sushi bars list all return HTTP 403 to scripted requests, so none was read; The Times and Telegraph sushi lists are paywalled or blocked. The next pass should read them by hand and record them.",
     "No TikTok creator is recorded: TikTok search cannot be read without a paid scraper and no reconstructed handle is acceptable (trap 5).",
-    "Tier E is Reddit only, counted as one domain however many threads name a restaurant; twelve r/LondonFood, r/london and r/sushi threads were read, so thread counts are printed in the article text rather than in the Cited by line.",
+    "Tier E is Reddit only, counted as one domain however many threads name a restaurant; fifteen r/LondonFood, r/london and r/sushi threads were read, so thread counts are printed in the article text rather than in the Cited by line.",
     "Kaiten is thin: Kulu Kulu is the only conveyor belt named by more than one source. Moshi Moshi (Liverpool Street) and Kurumaya are named by one Reddit commenter each.",
     "Vittles' mid-range sushi column is paywalled beyond its preview; its full list of neighbourhood sushi-yas is not recorded.",
     "No Bib Gourmand or other Michelin distinction exists for a London sushi restaurant apart from Sushi Kanesaka's one star; the Guide's 2026 selection no longer contains Endo at the Rotunda.",
     "Taku and Sushi Amamoto share the Albemarle Street room; sources written before February 2026 name Taku. Left as two records.",
-    "Sources for Sushi Show, Hase-Ya, Sagamiya and the Ealing and Richmond neighbourhood sushi-yas are one or two voices each; there is no judged ranking for the cheap end."
+    "Sources for Sushi Show, Hase-Ya, Sagamiya and the Ealing and Richmond neighbourhood sushi-yas are one or two voices each; there is no judged ranking for the cheap end.",
+    "Operator pages could not be read for Sushi Kanesaka (Dorchester Collection site returns a challenge page), Kurisu Omakase, Rai, Kikuchi, Iné, Nanahoshi, Uchi, Kumori, Kulu Kulu and Hase-Ya, so their prices and hours on the page are attributed to the Good Food Guide, The Infatuation, Time Out and Reddit. Rai and Iné are left off the page."
   ],
   "openVenueQuestions": [
     "Temaki - merged across Temaki Brixton (Brixton Village, named by CNT, Hot Dinners, the Good Food Guide, Wallpaper* and the Evening Standard) and the Mayfair site (named by The Nudge and in the Sheet as Temaki Mayfair). The Evening Standard reported the move; confirm with Rob that one record is right.",
@@ -158,6 +159,8 @@
     "Sushi Atelier - Fitzrovia, Shoreditch and St John's Wood; sources name the Great Portland Street original.",
     "Endo at the Rotunda - closed by fire in September 2025 and not in the 2026 Michelin selection; ENDO (Chelsea) is a different room. Not merged. Endo at the Rotunda is recorded in the sources that named it before the fire and left off the page.",
     "Sumi - the Notting Hill restaurant; a second SUMI in Marylebone was announced in July 2026 and is not recorded.",
-    "Namaiki, Iné, Kikuchi, Hanasaki, Rai, Sushi Kamon - each has a Sheet-less venue record; Sushi Kamon is a counter inside Arcade Food Hall, Tottenham Court Road."
+    "Cafe Japan (626 Finchley Road, Golders Green) - merged to Atari-Ya because Atariya's own site lists Atariya Cafe Japan among its restaurants at that address; Time Out names the same branch as Atari-Ya Golders Green. Atari-Ya's Swiss Cottage restaurant is a separate site under the same brand.",
+    "Moshi Moshi - recorded from one Reddit thread pair and the operator's own site; it is on the Liverpool Street station concourse and traded (food hygiene inspection May 2026), but its own pages carry no hours.",
+    "Chuo (Shoreditch monorail sushi) and Kurumaya (City) are named by Secret London 2024 and one Reddit comment; no food hygiene record or working operator page was found, so neither is on the page."
   ]
 }

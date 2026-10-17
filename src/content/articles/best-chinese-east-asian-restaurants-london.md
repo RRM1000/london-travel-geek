@@ -339,6 +339,7 @@ These are separate cuisines, each with its own guide.
 * [**The Best Thai Restaurants in London**](/articles/best-thai-restaurants-london/) — arranged by region: Isaan from the north-east is sour, fermented and chilli-driven, Southern Thai is coconut-rich and hotter again.
 * [**The Best Korean Restaurants in London**](/articles/best-korean-restaurants-london/) — including the New Malden strip, with its Korean grills and bakeries.
 * [**The Best Japanese Restaurants in London**](/articles/best-japanese-restaurants-london/) — split by format rather than price: omakase counter, yakitori grill, izakaya, ramen shop.
+* [**The Best Sushi Restaurants in London**](/articles/best-sushi-restaurants-london/) — omakase counters, à la carte rooms, handroll bars, a conveyor belt and cheap counters.
 
 ---
 ## Best value

@@ -335,6 +335,7 @@ The repertoire is Bangkok-standard: **pad thai, green and red curry, pad krapow*
 
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
 - 🇯🇵 **[Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)**
+- 🍣 **[The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**

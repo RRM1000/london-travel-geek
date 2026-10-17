@@ -176,6 +176,8 @@ Two short residential streets that appear constantly on social media — **St Lu
 
 A guided morning of bakeries, cafés and market bites is in our [food tours guide](/articles/london-food-tours/).
 
+Sumi on Westbourne Grove, Eel Sushi on Talbot Road and the six-seat Juno omakase behind Los Mochis are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 ![The Distillery on Portobello Road, a corner building with a deep green ground floor and cream upper storeys](../../assets/articles/notting-hill-area-guide/the-distillery-portobello-road.jpg)
 
 *The Distillery, Portobello Road.*

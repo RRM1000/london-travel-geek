@@ -593,14 +593,11 @@
     "Temaki Brixton": "Temaki",
     "Temaki Mayfair": "Temaki",
     "Temaki London": "Temaki",
-    "Sushi Samba": "SUSHISAMBA",
-    "Sushisamba": "SUSHISAMBA",
-    "SushiSamba": "SUSHISAMBA",
     "Omakase by Sushi Kamon": "Sushi Kamon",
     "Luna": "Luna Omakase",
     "Jang Restaurant & Bar": "Jang",
     "Kampai": "Kampai Kensington",
-    "Cafe Japan": "Café Japan",
+    "Cafe Japan": "Atari-Ya",
     "Ta-Ke Sushi": "Ta Ke Sushi",
     "Takesushi": "Ta Ke Sushi",
     "Akira": "Akira at Japan House",
@@ -613,7 +610,9 @@
     "Sticks n Sushi": "Sticks'n'Sushi",
     "Yo Sushi": "YO! Sushi",
     "Yo! Sushi": "YO! Sushi",
-    "Moshi Moshi Liverpool Street": "Moshi Moshi"
+    "Moshi Moshi Liverpool Street": "Moshi Moshi",
+    "Café Japan": "Atari-Ya",
+    "Atariya Café Japan": "Atari-Ya"
   },
   "whyCrispIsOneVenue": "The Infatuation's #1 is 'Crisp Pizza W6 at The Chancellors' in Hammersmith; Time Out and Country & Town House name the Mayfair site. Those are two pubs, but one brand: the Restaurants v2 row is already chainType 'mini-chain' with ownerGroup 'Devonshire / Crisp group', and its Why Go says Crisp was 'previously only in Hammersmith, brought into central London'. The sheet counts a mini-chain brand-level - the same treatment Rudy's and Fatto a Mano get - so the citations merge and the two sites are carried as Branches rows instead. Verified 2026-08-30: The Chancellors is 25 Crisp Road, Hammersmith W6 9RL.",
   "deliberatelyNotAliased": {
@@ -649,5 +648,5 @@
     "The Swan at the Globe / Swan London": "Insider Food's chapter marker says 'Swan London'. Merged to The Swan at the Globe on judgement 2026-09-21 - the Globe's restaurant is the only Swan doing afternoon tea in London, but this was not stated by the source.",
     "Café Rouge": "A chain, named by two tier-C sources for afternoon tea. Left in the corpus but it is a borderline scope call against 'afternoon tea served as a sitting, with a stand'."
   },
-  "whySushiNamesMerge": "Sushi pass, 17 Oct 2026. MERGED: Taku Mayfair to Taku; Eel Sushi Bar to Eel Sushi; Jugemu to Nanahoshi (renamed); INE / INE by Taku to Ine; Temaki Brixton and Temaki Mayfair to Temaki (one handroll bar that moved from Brixton Village to Mayfair); the branches of Sushi Show, Atari-Ya, Eat Tokyo, Roka and Chisou to the brand; Sushi Samba's City and Covent Garden sites to SUSHISAMBA. DELIBERATELY NOT MERGED: Dinings SW3 (Lennox Gardens Mews, Chelsea) and Dinings Marylebone (Harcourt Street) are two restaurants that share an owner; Sushi Amamoto and Taku share a dining room but Taku was Takuya Watanabe's restaurant and Amamoto has a new chef-patron, so sources that wrote Taku stay on Taku; Endo at the Rotunda (closed by fire, September 2025) and ENDO Chelsea (2026) are different rooms; Yashin Sushi and Yashin Ocean House; Noren by Chisou and Chisou; Sumi in Notting Hill and the Sumi opening in Marylebone; Kikuchi (Hanway Street) and Nanahoshi (chef Yuya Kikuchi)."
+  "whySushiNamesMerge": "Sushi pass, 17 Oct 2026. MERGED: Taku Mayfair to Taku; Eel Sushi Bar to Eel Sushi; Jugemu to Nanahoshi (renamed); INE / INE by Taku to Ine; Temaki Brixton and Temaki Mayfair to Temaki (one handroll bar that moved from Brixton Village to Mayfair); the branches of Sushi Show, Atari-Ya, Eat Tokyo, Roka and Chisou to the brand; Sushi Samba's City and Covent Garden sites to SUSHISAMBA. DELIBERATELY NOT MERGED: Dinings SW3 (Lennox Gardens Mews, Chelsea) and Dinings Marylebone (Harcourt Street) are two restaurants that share an owner; Sushi Amamoto and Taku share a dining room but Taku was Takuya Watanabe's restaurant and Amamoto has a new chef-patron, so sources that wrote Taku stay on Taku; Endo at the Rotunda (closed by fire, September 2025) and ENDO Chelsea (2026) are different rooms; Yashin Sushi and Yashin Ocean House; Noren by Chisou and Chisou; Café Japan merges to Atari-Ya because Atariya's own site lists Atariya Café Japan, 626 Finchley Road, as one of its restaurants; Sumi in Notting Hill and the Sumi opening in Marylebone; Kikuchi (Hanway Street) and Nanahoshi (chef Yuya Kikuchi)."
 }

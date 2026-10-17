@@ -167,6 +167,8 @@ It is thirty seconds off Piccadilly through an easily-missed archway.
 | **Sketch** | Modern European | ££££ | Conduit Street; the Gallery and the egg-pod toilets |
 | **[Carbone](/articles/special-occasion-restaurants-london/)** | Italian-American | ££££ | 30 Grosvenor Square, in the former US Embassy; New York's red-sauce restaurant, spicy rigatoni vodka £29, dress code |
 
+Mayfair's omakase counters include Sushi Kanesaka on Park Lane, The Araki on New Burlington Street, Maru in Shepherd Market, Sushi Amamoto on Albemarle Street and Cubé on Blenheim Street. All are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 Bar des Prés on South Audley Street, the French chef Cyril Lignac's French-Japanese restaurant, is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 ## Getting there

@@ -169,6 +169,8 @@ It is a twenty-minute walk between Holland Park and Notting Hill Gate, past whit
 | **Holland Park Cafe** | Park cafe | £ | Beside the Kyoto Garden and the sports pitches |
 | **Whole Foods Kensington** | Food hall | £ | Large hot counter upstairs |
 
+Yashin Sushi on Argyll Road is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **High Street Kensington** (District, Circle) is central to everything. **Holland Park** (Central) is closest to the Kyoto Garden. **Queensway** (Central) serves the north side of Kensington Gardens.

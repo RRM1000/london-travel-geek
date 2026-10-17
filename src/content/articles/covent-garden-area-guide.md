@@ -213,6 +213,8 @@ TKTS in Leicester Square, five minutes west, sells same-day discounted tickets; 
 | **Rules** | Traditional British | £££ | Open since 1798 |
 | **Monmouth Coffee** | Coffee | £ | The original Monmouth Street shop; queues out the door at weekends |
 
+Ukiyo Handroll Bar on Slingsby Place is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 For dinner with a show, Oriole, Louie and Sarastro all have live music at the table. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) says which nights and what it adds to the bill.
 
 Bunga 90 on Drury Lane has three private karaoke rooms and karaoke at the bar, open until 3am on Fridays and Saturdays. It is in our [karaoke guide](/articles/best-karaoke-london/).

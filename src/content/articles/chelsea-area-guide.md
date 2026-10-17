@@ -205,6 +205,8 @@ Between the King's Road and the river. **St Leonard's Terrace** faces the Royal 
 | **The Pig's Ear** | Gastropub | ££ | Backstreet pub off the river end |
 | **Chelsea Physic Garden Cafe** | Garden cafe | ££ | Requires garden admission |
 
+Dinings SW3 in Lennox Gardens Mews and The Fuji Grill at Beaverbrook Town House are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 
 *Albert Bridge.*

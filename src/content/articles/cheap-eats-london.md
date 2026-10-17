@@ -594,6 +594,7 @@ Cooked breakfast from 8am, burgers and curries in a large multi-level room a min
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — a pandesal sando or a £15.99-a-head boodle fight, for four or more
 - 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — market plates from £2.50 in Brixton
+- 🍣 **[The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/)** — nigiri from £2 at Atari-Ya, plates from £3 on the Kulu Kulu belt and Sushi Show maki at £6 to £10
 - 🇬🇷 **[The Best Greek Restaurants in London](/articles/best-greek-restaurants-london/)** — souvlaki wraps and £5 skewers in Borough Market
 - 🍜 **[The Best Ramen in London](/articles/best-ramen-london/)** — a £9.95 Naked Ramen at Koi, a £10.50 weekday lunch at Tonkotsu and tonkotsu bowls from £12.95
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving

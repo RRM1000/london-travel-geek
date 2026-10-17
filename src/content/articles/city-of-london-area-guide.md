@@ -198,6 +198,8 @@ The north-west edge of the City. **Smithfield** has been a livestock and meat ma
 | **One New Change** | Food court | ££ | Reliable at weekends when everything else is shut |
 | **Borough Market** | Food market | £ | Ten minutes over London Bridge when the City closes |
 
+Luna Omakase on the ninth floor of 100 Liverpool Street, Pham Sushi in the Heron and the Moshi Moshi conveyor belt at Liverpool Street station are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 Los Mochis cooks Mexican-Japanese food nine floors above Broadgate Circle, with a rooftop terrace, and SUSHISAMBA's Japanese, Brazilian and Peruvian menu is on the 38th floor of Heron Tower. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 ## Getting there
