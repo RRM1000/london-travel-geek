@@ -1,0 +1,276 @@
+{
+  "month": "december",
+  "monthNumber": 12,
+  "article": "src/content/articles/things-to-do-in-london-in-december.md",
+  "note": "THE SPINE. What is true about December EVERY year: the annual fixtures as date RULES, and the character of the month. Everything true in one year only lives in december-<year>.json. Built on the November spine's shape so scripts/check-month-freshness.mjs reads both the same way.",
+  "rules": "A fixture belongs here only if it recurs annually AND is run by a body with a website. Dates come from the organiser, never a listings site. Every entry carries `official` and `verified`. If a fixture is missed in a year, do not delete it: set `status` and say why. Anything a listings site or a language model will confidently place in December that is actually elsewhere, or in another month, goes in `notInDecember` with the proof.",
+  "character": {
+    "inOneLine": "The darkest month: sunset before 4pm, the longest nights of the year and the Christmas machinery at full tilt, then a hard stop on Christmas Day when almost everything shuts and no TfL service runs.",
+    "weather": "Met Office Heathrow monthly records, 1991 to 2020 averages (computed from the Met Office's station data file): a daily high of 8.8C, a daily low of 3.1C, 57.0mm of rain, 53 hours of sunshine and 7.2 air-frost days for the whole month. December has the least sunshine of any month at Heathrow (November is 68 hours) and the most air frost (January is 6.8 days). January is the coldest month by daily high (8.4C).",
+    "daylight": "Sunset in central London (51.5074N, 0.1278W, GMT all month) is 3.57pm on 1 December, 3.53pm from about the 10th to the 15th, 3.55pm on the 21st and 4.02pm on the 31st. Sunrise moves from 7.41am on the 1st to 8.02am on Christmas Eve and 8.04am on the 31st. The shortest day is 21 December: sunrise 8.01am, sunset 3.55pm, 7 hours 54 minutes of daylight. Source: api.sunrise-sunset.org for the central London coordinates, UTC equals GMT all month.",
+    "crowds": "The pressure is on the weekends before Christmas and on the days between Christmas and New Year, when the West End, Winter Wonderland and the rinks are at their fullest. Schools in England break up around the 18th to 21st. The two quietest windows are the first week of December on weekdays and Christmas Day itself, when the city empties.",
+    "seasonShape": "Four beats: the switch-ons and first nights (the Trafalgar Square tree on the 3rd, the Royal Ballet's Nutcracker opening the same day), the pantomime and carol fortnight (about 5 to 24 December), the Christmas Day shutdown and Boxing Day football, and the run to New Year's Eve."
+  },
+  "standingSections": {
+    "note": "Slots that recur every year. Source each from the operator, not a listings site.",
+    "theatreOpeningsAndClosings": {
+      "sourceFrom": "The theatre's or producer's own what's-on page. Pantomimes and Christmas shows open between mid-November and 5 December and run to early January.",
+      "decemberSpecific": "Royal Ballet's Nutcracker, the English National Ballet Nutcracker, the Palladium panto and Carols at the Royal Albert Hall all fall in December; every one of them has a hard last date near 10 January."
+    },
+    "newVenueOpenings": {
+      "sourceFrom": "The venue's own site. The London Museum at Smithfield opens 28 November 2026, so December 2026 is its first full month."
+    },
+    "exhibitionsOpeningAndClosing": {
+      "sourceFrom": "The museum's own what's-on page. December itself has few openings; most big exhibitions open in November and close in January or later."
+    },
+    "restaurantsAndBars": {
+      "sourceFrom": "Operator sites only. The Christmas Day guide covers Christmas Day."
+    }
+  },
+  "fixtures": [
+    {
+      "id": "trafalgar-square-christmas-tree",
+      "name": "The Trafalgar Square Christmas tree lighting",
+      "what": "A Norway spruce, given to London by the city of Oslo every year since 1947, lit in a ceremony with carols. Carol singing under the tree follows on most evenings until Christmas.",
+      "dateRule": "Early December, a Thursday evening. 2026: Thursday 3 December.",
+      "typical": "First Thursday of December",
+      "area": "Trafalgar Square",
+      "price": "Free",
+      "booking": "None",
+      "official": "https://www.westminster.gov.uk/trafalgar-square-christmas-tree",
+      "verified": null,
+      "verifiedNote": "Westminster City Council's page returns 403 to curl. The date is the one in the brief and in the christmas-in-london and christmas-lights-walk-london guides; no organiser text was read on 17 October.",
+      "internalLink": "/articles/christmas-lights-walk-london/"
+    },
+    {
+      "id": "hyde-park-winter-wonderland",
+      "name": "Hyde Park Winter Wonderland",
+      "what": "Fairground, markets, ice rink and circus in Hyde Park.",
+      "dateRule": "Third week of November to the first weekend of January. 2026: 19 November 2026 to 3 January 2027, open every day except Christmas Day.",
+      "typical": "Mid-to-late November to early January",
+      "area": "Hyde Park",
+      "price": "Timed entry ticket, from £1 off-peak; rides and attractions are charged separately.",
+      "booking": "Timed entry tickets online.",
+      "official": "https://hydeparkwinterwonderland.com/tickets-guide/",
+      "verified": "2026-10-17",
+      "verifiedNote": "Organiser's tickets guide: 'open everyday from Thursday 19th November 2026 to Sunday 3rd January 2027, apart from Christmas Day'; opens at 11am on 3 and 4 December, 7 to 11 December, 14 to 18 December and 28 December to 1 January; 12pm on 2 December; 2pm on 1 December; the final day is a Family Fun Day.",
+      "internalLink": "/articles/hyde-park-winter-wonderland/"
+    },
+    {
+      "id": "carols-royal-albert-hall",
+      "name": "Carols at the Royal Albert Hall",
+      "what": "Carol concerts in the Hall's auditorium, with the audience singing.",
+      "dateRule": "The six days before Christmas Eve, ending on Christmas Eve at midday. 2026: 19 to 24 December, 15 performances.",
+      "typical": "19 to 24 December",
+      "area": "Kensington",
+      "price": "Ticketed",
+      "booking": "Sold by the Hall.",
+      "official": "https://www.royalalberthall.com/tickets/events/2026/carols-at-the-royal-albert-hall",
+      "verified": "2026-10-17",
+      "verifiedNote": "The Hall's own what's-on: Saturday 19 December 3pm and 7.30pm; Sunday 20th 3pm and 7.30pm plus an 11am relaxed Friendship Matinee; Monday 21st to Wednesday 23rd at 11am, 3pm and 7.30pm; Thursday 24th at 11am and 3pm. 'Across six days, 15 magical performances fill the Hall.' The event page itself returned no price text."
+    },
+    {
+      "id": "st-pauls-christmas",
+      "name": "Christmas services and concerts at St Paul's Cathedral",
+      "what": "Advent and Christmas services, mostly free and unticketed, plus ticketed carol services allocated by ballot.",
+      "dateRule": "Advent Carol Service the weekend before Advent; ticketed carol services on the 19th, 23rd and 24th; Midnight Eucharist on Christmas Eve; Christmas Day Choral Eucharist and Festal Evensong. 2026 dates in the overlay.",
+      "typical": "28 November to 25 December",
+      "area": "City of London",
+      "price": "Free for the services; Messiah and A Celebration of Christmas are paid",
+      "booking": "Ballot for Family Carols and the 4pm Carol Services; the ballot opens in November.",
+      "official": "https://www.stpauls.co.uk/christmas",
+      "verified": "2026-10-17",
+      "verifiedNote": "stpauls.co.uk/christmas and /faqs-christmas: ticketed events are Handel's Messiah (2 December), A Celebration of Christmas (10 December), Family Carols (19 December) and the 4pm Carol Services on 23 and 24 December; seating is unreserved; doors open an hour before; no cloakroom; bag limit 450 x 300 x 250mm; the ballot opens in November and unclaimed tickets are released to the public.",
+      "internalLink": "/articles/christmas-in-london/"
+    },
+    {
+      "id": "westminster-abbey-christmas",
+      "name": "Christmas at Westminster Abbey",
+      "what": "Lessons and Carols services and a ticketed Christmas concert by the Abbey choir.",
+      "dateRule": "Tickets for the Lessons and Carols services are released in mid-November; the choir's Christmas concert is on a Saturday before Christmas. 2026: tickets on Monday 16 and Wednesday 18 November at 9.30am and 2.30pm; concert Saturday 19 December, 7pm.",
+      "typical": "Mid-November release; concert in the third week of December",
+      "area": "Westminster",
+      "price": "Concert £16 to £51 plus a booking fee",
+      "booking": "Online from the Abbey.",
+      "official": "https://www.westminster-abbey.org/worship-and-music/services-and-times/advent-and-christmas/",
+      "verified": "2026-10-17",
+      "verifiedNote": "The Abbey's Advent and Christmas page (read through a proxy because the site returns 403 to curl): 'Tickets for our Lessons and Carols services will be released on Monday November 16th and Wednesday November 18th at 9:30am and 2:30pm'. Concert page: Saturday 19 December 7pm to 8.30pm, doors 6.15pm, Front Nave £51 plus £4.08 fee down to Quire/Lantern £16 plus £1.28.",
+      "internalLink": "/articles/westminster-abbey-guide/"
+    },
+    {
+      "id": "royal-ballet-nutcracker",
+      "name": "The Royal Ballet's Nutcracker",
+      "what": "Peter Wright's production for the Royal Ballet at the Royal Opera House, about 2 hours 20 minutes with one interval, for ages 5 and over.",
+      "dateRule": "Opens in the first week of December and runs to mid-January. 2026-27: 3 December 2026 to 13 January 2027, £10 to £238.",
+      "typical": "Early December to mid January",
+      "area": "Covent Garden",
+      "price": "£10 to £238",
+      "booking": "Royal Ballet and Opera box office.",
+      "official": "https://www.rbo.org.uk/tickets-and-events/the-nutcracker-peter-wright-details",
+      "verified": "2026-10-17",
+      "verifiedNote": "Organiser page: 'Dates 3 December 2026 - 13 January 2027'; ticket price £10 - £238; children under five not admitted; flashing lights and dry ice."
+    },
+    {
+      "id": "pantomimes",
+      "name": "The pantomime season",
+      "what": "The Palladium's Cinderella, Stratford East, the Lyric Hammersmith, Hackney Empire and the smaller houses.",
+      "dateRule": "Opening between 14 and 28 November (Stratford East, Hackney, the Lyric) and 5 December (the Palladium), closing in the first fortnight of January. 2026 detail in the overlay and in the Christmas shows guide.",
+      "typical": "Late November to early January",
+      "area": "London-wide",
+      "price": "From about £6 at Stratford East to £25 and up at the Palladium",
+      "booking": "Each theatre's own box office.",
+      "official": "https://lwtheatres.co.uk/whats-on/cinderella/",
+      "verified": "2026-10-17",
+      "verifiedNote": "London Palladium's own page: 'Sat 5 December 2026 - Sun 10 January 2027', from £25, no fees, every price includes a £2 restoration levy. Hackney Empire's own page lists Jack and the Beanstalk 21 Nov - 31 Dec.",
+      "internalLink": "/articles/christmas-shows-london/"
+    },
+    {
+      "id": "christmas-light-trails",
+      "name": "Ticketed Christmas light trails",
+      "what": "Christmas at Kew, Chelsea Winter Village & Illuminations and the Winter Palace at Hampton Court.",
+      "dateRule": "Kew from mid-November to the first weekend of January; Chelsea from the last week of November to 28 December; Hampton Court's Winter Palace from the last weekend of November to 3 January.",
+      "typical": "Mid-November to early January",
+      "area": "Kew, Chelsea, Hampton Court",
+      "price": "Kew from £29.50 off-peak; Chelsea from £19; Hampton Court's Winter Palace is included in palace admission",
+      "booking": "Timed tickets in advance.",
+      "official": "https://www.kew.org/kew-gardens/whats-on/christmas",
+      "verified": "2026-10-17",
+      "verifiedNote": "Kew's own page (read through a proxy; kew.org returns 403 to curl): Christmas at Kew 2026, gardens close at 10pm, last entry 7 to 8pm and up to an hour earlier on Christmas Eve, adults-only evenings on 3 and 9 December. Chelsea Winter Village's own FAQ: 25 November to Monday 28 December 2026, gates 4.30pm to 8pm/8.30pm, closed Christmas Day. Hampton Court's own Christmas page: Winter Palace: The Christmas Beast Ball, 28 November 2026 to 3 January 2027, included in palace admission.",
+      "internalLink": "/articles/christmas-in-london/"
+    },
+    {
+      "id": "ice-rinks",
+      "name": "Outdoor ice rinks",
+      "what": "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House, Winter Wonderland and Alexandra Palace's festive rink.",
+      "dateRule": "Open from the first half of November to early January; Somerset House runs to 10 January. Christmas Day is closed at Somerset House, Hampton Court and Winter Wonderland. Alexandra Palace's Festive Skate opens on 9 December 2026 and runs to 4 January 2027.",
+      "typical": "November to early January",
+      "area": "London-wide",
+      "price": "Ticketed",
+      "booking": "Book ahead; weekends sell out.",
+      "official": "https://www.alexandrapalace.com/whats-on/festive-skate/",
+      "verified": "2026-10-17",
+      "verifiedNote": "Alexandra Palace's own page: 'Festive Skate 9 Dec 2026 - 4 Jan 2027', ages 3 and over; spectators need a ticket. Hampton Court's own Christmas page: rink '20 November - 03 January 2027 (excluding Christmas Day)', sessions 10:00 to 20:00. The other rinks' dates are in the ice-skating-london guide.",
+      "internalLink": "/articles/ice-skating-london/"
+    },
+    {
+      "id": "pdc-world-darts",
+      "name": "The PDC World Darts Championship at Alexandra Palace",
+      "what": "The sport's biggest tournament, held at Alexandra Palace every winter; in 2026 it moves into the Great Hall for the first time with a record 180,000 tickets.",
+      "dateRule": "Mid-December to the first weekend of January. 2026-27: 11 December 2026 to 3 January 2027, doors 7pm for evening sessions.",
+      "typical": "Mid December to 3 January",
+      "area": "Alexandra Palace",
+      "price": "Ticketed",
+      "booking": "In 2026 tickets were allocated by ballot, now closed; resale only through See Tickets' Fan-to-Fan platform.",
+      "official": "https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/",
+      "verified": "2026-10-17",
+      "verifiedNote": "Alexandra Palace's own page: 'returns to Alexandra Palace from 11 December 2026 to 3 January 2027'; ballot closed, results sent between 21 and 25 September; any resale must be on the official See Tickets Fan-to-Fan platform."
+    },
+    {
+      "id": "premier-league-boxing-day",
+      "name": "Premier League over Christmas",
+      "what": "The Premier League's Christmas programme: a full round on Boxing Day and the days after, with London clubs at home on several.",
+      "dateRule": "Boxing Day (26 December) and the days around it; the Premier League's holiday round runs about 26 to 30 December. 2026: Saturday 26 December, a Saturday.",
+      "typical": "26 December onwards",
+      "area": "London club grounds",
+      "price": "Ticketed; club members first",
+      "booking": "Each club's own ticket office.",
+      "official": "https://www.premierleague.com/en/matches",
+      "verified": "2026-10-17",
+      "verifiedNote": "Premier League's own fixtures data (the site's fixtures feed, season 2026/27) read on 17 October. Boxing Day: Fulham v Brighton at Craven Cottage and Spurs v Bournemouth at the Tottenham Hotspur Stadium, both 3pm; Sunday 27th Crystal Palace v Arsenal 7pm; Tuesday 29th Spurs v Brighton 7.30pm; Wednesday 30th Crystal Palace v Bournemouth and Fulham v Arsenal, both 7.30pm. Broadcasters move kick-off times, so the listed times can change.",
+      "internalLink": "/articles/premier-league-tickets-london/"
+    },
+    {
+      "id": "peter-pan-cup",
+      "name": "The Christmas Day swim for the Peter Pan Cup, Serpentine",
+      "what": "The Serpentine Swimming Club's Christmas morning handicap, 100 yards in the lake for the Peter Pan Cup, held every year since 1864 except 2020.",
+      "dateRule": "Christmas Day, starting at 9am; swimmers march to the board from 8.45am. Entry is for club members with a handicap.",
+      "typical": "25 December, 9am",
+      "area": "Hyde Park",
+      "price": "Free to watch",
+      "booking": "None for spectators; entry is closed to non-members.",
+      "official": "https://serpentineswimmingclub.com/christmas-day-race-and-peter-pan-cup",
+      "verified": "2026-10-17",
+      "verifiedNote": "The club's own page: 'swum over a 100 yard course for the Peter Pan Cup', 'held every year since 1864', 'only the 2020 race being cancelled'. Logistics on the page: swimmers ready to march to the board from 8.45am, 'The race starts at 9am promptly'. The page's qualification dates are 2025's; the club had not yet published its 2026 criteria."
+    },
+    {
+      "id": "christmas-travel",
+      "name": "Christmas and Boxing Day transport",
+      "what": "TfL runs no service on most of its network on Christmas Day, a reduced service on Boxing Day, and finishes early on Christmas Eve. National Rail runs almost nothing in England on Christmas Day and Boxing Day, and uses the days after for engineering.",
+      "dateRule": "Christmas Day: no TfL service on most modes ('as usual', TfL, December 2025). TfL publishes the festive plan in the first days of December (2 December in 2025). Network Rail publishes the engineering plan in October (14 October in 2026).",
+      "typical": "24 December to 4 January",
+      "area": "London-wide",
+      "price": "Fares as normal where services run",
+      "booking": "Check TfL Go and National Rail Enquiries on the day.",
+      "official": "https://tfl.gov.uk/info-for/media/press-releases/2025/december/majority-of-tfl-services-running-over-christmas-and-new-year",
+      "verified": "2026-10-17",
+      "verifiedNote": "TfL's press release of 2 December 2025: 'As usual, there will be no service on the majority of public transport on Christmas Day and no services on some parts of the network on Boxing Day, including the Elizabeth line. A Sunday service will operate on the London Underground, London Buses and on London Trams.' TfL's own tfl.gov.uk/christmas-travel redirected to its major-works page on 17 October, so its 2026 plan was not out. Network Rail's media centre of 14 October 2026 gives the 2026 engineering plan."
+    },
+    {
+      "id": "christmas-closures",
+      "name": "What shuts on 24, 25 and 26 December",
+      "what": "Most museums close on all three days, some also on 1 January.",
+      "dateRule": "Closed 24, 25 and 26 December every year: the Natural History Museum, the Science Museum, V&A South Kensington, Young V&A, the Wallace Collection, the British Museum; the National Gallery also closes on 1 January.",
+      "typical": "24 to 26 December",
+      "area": "London-wide",
+      "price": "n/a",
+      "booking": "n/a",
+      "official": "https://www.nhm.ac.uk/visit.html",
+      "verified": "2026-10-17",
+      "verifiedNote": "NHM 'Closed 9 October and 24-26 December'; Science Museum 'except for 24-26 December'; V&A South Kensington and Young V&A 'Closed 24 - 26 December'; Wallace Collection 'We close on 24, 25 and 26 December each year'; National Gallery 'Closed 24-26 December and 1 January'. The British Museum's own pages return 403 to curl; its closure comes from the site's British Museum guide."
+    },
+    {
+      "id": "new-years-eve",
+      "name": "New Year's Eve fireworks and the London Parade",
+      "what": "The Mayor's ticketed Thames fireworks on 31 December, then the London New Year's Day Parade on 1 January.",
+      "dateRule": "31 December, 8pm to 12.30am; first ticket release in 2026 at noon on Friday 23 October.",
+      "typical": "31 December",
+      "area": "Thames, Westminster",
+      "price": "£20 to £55, with a £20 discount for London postcodes",
+      "booking": "Ticketmaster only; up to 4 tickets.",
+      "official": "https://www.london.gov.uk/events/london-new-years-eve-2026",
+      "verified": "2026-10-17",
+      "verifiedNote": "City Hall's own page: 'Tickets will go on sale at 12 noon on Friday 23 October'; Category A (Blue, Pink, White) £55 / £35 for Londoners, Category B (Red, Green, Orange) £40 / £20; 'Ticket prices have stayed the same price as last year'; a second batch date to follow.",
+      "internalLink": "/articles/new-years-eve-london/",
+      "editorialRule": "DO NOT DUPLICATE THE NEW YEAR'S EVE PAGE. The monthly guide gives the date, the release date and the price band, then links."
+    }
+  ],
+  "notInDecember": [
+    {
+      "name": "The big Christmas lights switch-ons",
+      "theError": "Listings sites and AI summaries date the West End switch-ons in December.",
+      "theTruth": "Carnaby (4 November), Regent Street (5 November) and Covent Garden (12 November) all switch on in November in 2026. Only Trafalgar Square's tree is a December switch-on (3 December).",
+      "official": "https://www.regentstreetonline.com/news/festive-spirits-return-for-2026",
+      "verified": "2026-10-07"
+    },
+    {
+      "name": "Hyde Park Winter Wonderland opening",
+      "theError": "Often listed as 'opens in December'.",
+      "theTruth": "It opens on 19 November 2026 and in December runs every day except Christmas Day.",
+      "official": "https://hydeparkwinterwonderland.com/tickets-guide/",
+      "verified": "2026-10-17"
+    },
+    {
+      "name": "The London Museum at Smithfield opening",
+      "theError": "Pre-announcements said 'late 2026', which readers take as December.",
+      "theTruth": "The permanent galleries open on Saturday 28 November 2026, so December is its first full month.",
+      "official": "https://www.londonmuseum.org.uk/smithfield/about/",
+      "verified": "2026-10-17"
+    },
+    {
+      "name": "The London New Year's Day Parade",
+      "theError": "Bundled with New Year's Eve under 'December'.",
+      "theTruth": "Friday 1 January 2027, 1pm to 4.30pm; the fireworks are 31 December, the Parade is a January event. See the New Year's Eve guide.",
+      "official": "https://www.londonparade.co.uk/",
+      "verified": "2026-10-17",
+      "verifiedNote": "Organiser home page: LONDON PARADE 2027 - 1PM, 1ST JANUARY."
+    },
+    {
+      "name": "Chanukah on the Square, Trafalgar Square",
+      "theError": "The 2025 Mayor's page puts the menorah in the square from 14 to 22 December 2025.",
+      "theTruth": "No 2026 dates were on the Mayor's events page on 17 October; do not carry 2025's dates forward.",
+      "official": "https://www.london.gov.uk/events/chanukah-square-2025",
+      "verified": "2026-10-17"
+    }
+  ],
+  "recurringButUnverified": []
+}
