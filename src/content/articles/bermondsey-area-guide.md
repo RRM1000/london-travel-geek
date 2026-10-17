@@ -3,7 +3,7 @@ title: "Bermondsey Area Guide: Maltby Street, the Beer Mile and Shad Thames"
 seoTitle: "Bermondsey Guide: Maltby Street Market & the Beer Mile"
 description: "A complete Bermondsey guide: Maltby Street Market hours including the summer Friday evenings, the Bermondsey Beer Mile, White Cube, Shad Thames warehouses and the Friday antiques market."
 publishedAt: 2026-08-19
-updatedAt: 2026-09-27
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -50,7 +50,7 @@ area:
     - name: "Greenwich"
       slug: "greenwich-area-guide"
       minutes: 25
-      note: "East by river boat or Jubilee line and DLR for the Observatory."
+      note: "East by river boat or Jubilee line and DLR for Greenwich."
 faq:
   - q: "What is the Bermondsey Beer Mile?"
     a: "A run of breweries and taprooms in the railway arches between Bermondsey and South Bermondsey, most of which open their doors at weekends. It is not an official route and the line-up changes as breweries open and close, so check current opening hours before setting out. Saturdays are when nearly all of them trade."

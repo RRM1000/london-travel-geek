@@ -3,7 +3,7 @@ title: "The Cotswolds from London: Which Villages You Can Actually Reach"
 seoTitle: "Cotswolds Day Trip from London: Trains and Buses"
 description: "The Cotswolds is not one place and it has almost no buses between villages. Paddington to Moreton-in-Marsh is £54 return and the 801 bus gets you to Stow and Bourton hourly, including Sundays. Bibury and Broadway have no Sunday service at all."
 publishedAt: 2026-09-15
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -34,6 +34,8 @@ faq:
 There is a train-and-bus day that works. It is narrower than you would like, and it runs through Moreton-in-Marsh.
 
 > 💡 **The Short Version:** **Paddington to Moreton-in-Marsh, 1h25, £54.00 off-peak return** — and a single is £53.00, so always buy the return. The **Pulhams 801** leaves the station for **Stow in 20 minutes and Bourton in 40**, hourly, **including Sundays**. The **855 to Bibury runs Monday to Saturday and not at all on Sunday**; nor does the **606** to Broadway or the Stagecoach **1/2/3** to Chipping Campden. A **£8.50 day ticket** on the bus covers the lot. Driving is **2h14 and 88 miles** to Bourton, where 10 hours' parking is **£10.60** — against **free** at Stow Fosseway and **free** at Burford. **Bibury has no car park.** Nothing in the Cotswolds needs a ticket, so the paid attractions are all optional. **Or skip the buses** — the <a href="https://www.getyourguide.com/activity/-t215430?partner_id=WWP7I0R&amp;cmp=cotswolds-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£89 small-group tour</a> covers Burford, Bibury, Bourton and Stow in 9½ hours from South Kensington.
+
+> ⚠️ **Great Western trains cannot run to or from Paddington from Sunday 27 December 2026 to Sunday 3 January 2027, or on Saturday 28 and Sunday 29 November, for the Dolphin Junction upgrade.** Most long-distance trains start and finish at Reading, and on 28 and 29 November Chiltern Railways trains run between Marylebone and Oxford and Banbury; check the Christmas dates before you book ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail, 14 October 2026](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
 **Book a tour direct:**
 

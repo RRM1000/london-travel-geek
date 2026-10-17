@@ -5,7 +5,7 @@ description: "The area you most want to visit is often the worst one to sleep in
 heroImage: "../../assets/articles/best-areas-to-stay-in-london/covent-garden-piazza-aerial.jpg"
 heroImageAlt: "Covent Garden piazza seen from above in late afternoon light: the glass-roofed market building and its colonnade, cafe umbrellas and crowds on the cobbles below, and central London rooftops stretching away behind"
 publishedAt: 2026-09-08
-updatedAt: 2026-10-07
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -268,7 +268,7 @@ Our full [Bermondsey hotel guide](/articles/where-to-stay-bermondsey/) compares 
 
 *£66–£160 · Zones 2–3 · Cutty Sark DLR and Greenwich rail · [area guide](/articles/greenwich-area-guide/)*
 
-A maritime village with the Cutty Sark, the Old Royal Naval College, the National Maritime Museum and a hill with the Observatory on it — most of it free, all of it walkable, and a park to let children run in, which no Zone 1 base offers.
+A maritime village with the Cutty Sark, the Old Royal Naval College, the National Maritime Museum and a hill with the Royal Observatory (closed from 2 November 2026) on it — most of it free, all of it walkable, and a park to let children run in, which no Zone 1 base offers.
 
 **Evenings in town are the awkward part.** The DLR stops overnight and so does Greenwich's mainline station, so a late night in the West End means a night bus back or a taxi; North Greenwich keeps a Jubilee night service but that is the O2, a bus ride from the historic quarter. If your days are here that is a small cost. If your evenings are all in town, base yourself in town.
 

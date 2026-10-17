@@ -5,7 +5,7 @@ description: "Seven of fifteen independent sources name Richmond Park, Kew's own
 heroImage: "../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg"
 heroImageAlt: "A Japanese maple in scarlet and orange reflected in a still pond in Richmond Park"
 publishedAt: 2026-09-16
-updatedAt: 2026-09-27
+updatedAt: 2026-10-17
 reviewBy: 2026-11-16
 sites: [london]
 canonicalSite: london
@@ -96,7 +96,7 @@ London's oldest enclosed royal park has some of the oldest trees on this list. T
 
 *Greenwich Park's avenues.*
 
-Free, open 6am to dusk, and the climb to the Observatory gives the view over all of it — though the Observatory building itself is closed for a refurbishment until summer 2027.
+Free, open 6am to dusk, and the climb to the Observatory gives the view over all of it — though the Royal Observatory itself is closed from 2 November 2026 for refurbishment; Royal Museums Greenwich says its Meridian Courtyard reopens in summer 2027 ([project page](https://www.rmg.co.uk/royal-observatory/transformation)).
 
 ### Regent's Park and Primrose Hill — a golden tunnel down the Broad Walk
 

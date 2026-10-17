@@ -3,7 +3,7 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-04
+updatedAt: 2026-10-17
 reviewBy: 2026-11-06
 sites:
   - london
@@ -306,6 +306,8 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 ## Good to know
 
 **TfL runs no services at all on Christmas Day** — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. It's the same every year. Black cabs, private hire, Santander Cycles and rental e-scooters are the only options moving. **Boxing Day is reduced, not closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) nearer the date for the exact 2026 detail.
+
+**National Rail has its own Christmas 2026 closures.** London Paddington is closed to Great Western trains until Monday 4 January, with no Elizabeth line or Heathrow Express trains to or from Heathrow from Sunday 27 to Wednesday 30 December, and the Great Eastern Main Line is closed for 10 days from Christmas Day, with no Greater Anglia or Elizabeth line trains through Forest Gate until the early hours of 4 January ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)). Our [December guide](/articles/things-to-do-in-london-in-december/) has the detail.
 
 **Deciding whether December is worth it against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets its weather, crowds and cost against every other month.
 

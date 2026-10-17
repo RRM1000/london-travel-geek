@@ -3,7 +3,7 @@ title: "Day Trips from London: What They Cost and How Long They Take"
 seoTitle: "Day Trips from London: Times, Fares and Costs"
 description: "Windsor, Oxford, Cambridge, Bath, Stonehenge, the Cotswolds and the Harry Potter Studio Tour compared, with real fares, journey times, entry prices and closure days."
 publishedAt: 2026-07-13
-updatedAt: 2026-09-23
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -31,6 +31,8 @@ faq:
 The good day trips from London are all about an hour away, and the money is in the entry ticket rather than the train. What follows is priced and timed: what the journey costs, what you pay when you arrive, how long the day takes, and which days the doors are shut.
 
 > 💡 **The Short Version:** **Windsor** is the shortest and cheapest journey, and its castle is **closed on Tuesdays and Wednesdays**. **Oxford** is cheapest by coach, **Cambridge** by advance single. The **Harry Potter Studio Tour** must be booked weeks ahead and sells nothing on the door. **Contactless works to Windsor and Watford, but Oyster does not** — and neither works to Oxford or Cambridge. **Bath** is 1h15 from Paddington and cheapest with advance tickets. **Stonehenge** and **the Cotswolds** are the two where a coach tour beats the train. **Or book a tour** — <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=day-trips-from-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">guided day trips from £66</a> cover the transport and the ticket in one booking.
+
+> ⚠️ **Paddington is closed to Great Western trains from Sunday 27 December 2026 to Sunday 3 January 2027, which cuts the Windsor, Oxford, Bath and Cotswolds trains, and the same applies on Saturday 28 and Sunday 29 November.** The detail for each is on its guide, and on [National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail, 14 October 2026](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work).
 
 ## The day trips, compared
 

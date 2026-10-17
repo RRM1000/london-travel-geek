@@ -3,7 +3,7 @@ title: "National Rail 2FOR1: How to Actually Get Two-for-One on London Attractio
 seoTitle: "National Rail 2FOR1 London 2026: Rules & Attractions"
 description: "The 2FOR1 scheme explained — why Oyster and contactless do not qualify, which attractions are included, which ones are only a third off, and when it is not worth the trouble."
 publishedAt: 2026-07-02
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 reviewBy: 2026-12-31
 sites:
   - london
@@ -128,7 +128,7 @@ There are more than a hundred London offers. These are the big draws.
 | **The View from The Shard** | Advance booking | Book **24 hours ahead**; full-price general entry only. Offer listed until 31 December 2026 |
 | **London Transport Museum** | Pay at the door | Buy an **annual pass** and get a second day pass free |
 
-Also included: Cutty Sark, the Royal Observatory, the Painted Hall at the Old Royal Naval College, Shakespeare's Globe tours, the Royal Albert Hall tour, the Charles Dickens Museum, Chelsea Physic Garden, the Household Cavalry Museum, Eltham Palace, Apsley House, the Chelsea, Arsenal, Spurs and Wembley stadium tours, and river trips with City Cruises and Thames Rockets.
+Also included: Cutty Sark, the Royal Observatory (closed from 2 November 2026), the Painted Hall at the Old Royal Naval College, Shakespeare's Globe tours, the Royal Albert Hall tour, the Charles Dickens Museum, Chelsea Physic Garden, the Household Cavalry Museum, Eltham Palace, Apsley House, the Chelsea, Arsenal, Spurs and Wembley stadium tours, and river trips with City Cruises and Thames Rockets.
 
 **Paid exhibitions are included too**, at Tate Modern, Tate Britain and the National Gallery. They change with each show, so check the listing.
 

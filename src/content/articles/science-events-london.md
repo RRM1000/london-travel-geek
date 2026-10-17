@@ -3,7 +3,7 @@ title: "Science in London: The Lectures, Lates and Days the Engines Run"
 seoTitle: "Science Events in London: Lectures, Lates and Expos"
 description: "A Royal Institution Discourse is £20 and starts at 7.30pm without an introduction. Gresham College has been free since 1597. And the Victorian beam engines at Crossness, Kempton and Kew Bridge only turn on published dates."
 publishedAt: 2026-07-21
-updatedAt: 2026-09-27
+updatedAt: 2026-10-17
 reviewBy: 2026-11-01
 sites:
   - london
@@ -28,7 +28,7 @@ faq:
   - q: "How do you get tickets for the Royal Institution Christmas Lectures?"
     a: "You cannot, unless you join. Tickets to the live filming in the Ri theatre go only to Ri Young Members, Members and Patrons, and membership starts at £35 a year. The audience is made up of young people aged 11 to 17. The 2026 Lectures are given by Jim Al-Khalili on the science of time and are filmed in the theatre in mid-December; everyone else watches on BBC and iPlayer in late December."
   - q: "Is the Peter Harrison Planetarium open?"
-    a: "No. The planetarium at the Royal Observatory Greenwich is closed for renovation. Royal Museums Greenwich runs a replacement 30-minute show, presented live by its own astronomers, downstairs at the National Maritime Museum as part of Astronomers Take Over: £18 adult and £16 child with the planetarium, £8 for the interactive zones alone, and 25% off for Members. The Royal Observatory itself is open daily and costs £24 adult, £18 student and £12 child."
+    a: "No. The planetarium at the Royal Observatory Greenwich is closed for renovation. Royal Museums Greenwich runs a replacement 30-minute show, presented live by its own astronomers, downstairs at the National Maritime Museum as part of Astronomers Take Over: £18 adult and £16 child with the planetarium, £8 for the interactive zones alone, and 25% off for Members. The Royal Observatory itself is closed from 2 November 2026 for the First Light refurbishment; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January."
   - q: "When is New Scientist Live 2026 and what is on?"
     a: "Saturday 10 and Sunday 11 October 2026 at ExCeL London, 10am to 5pm both days, with Monday 12 October a Schools' Day from 9.30am to 3pm. The nearest station is Custom House on the DLR and the Elizabeth line. The programme runs across four stages — Family, Future, Mind & Body and Universe — including Helen Sharman and Meganne Christian on spaceflight, Chris Packham with Megan McCubbin, Alice Roberts, Tim Spector, Steve Brusatte and Chanda Prescod-Weinstein. Child tickets cover ages 6 to 17, under-5s go free, and under-14s must be with an adult."
   - q: "Can you visit Crossness Pumping Station?"
@@ -166,7 +166,7 @@ For the full night, **[Dino Snores for Grown Ups](https://www.nhm.ac.uk/events/d
 
 ### Royal Observatory Greenwich
 
-**Open daily, £24 adult, £18 student, £12 child, under-4s and Members free** — the [current prices](https://www.rmg.co.uk/plan-your-visit/tickets-prices) — and **£3 for visitors on Universal Credit and several other benefits**. Standard hours are 10am to 5pm with last entry at 4pm, extended to 6pm in September. Two short guided add-ons run on top of entry at **£5 adult, £3.50 student and £2.50 child**: the **[Treasures Tour](https://www.rmg.co.uk/royal-observatory) daily at 11am and 3pm**, and the Lunar Tours daily at 1.30pm. Observatory Unlocked, where the Explainers take questions in the galleries, is on Saturdays and Sundays and costs nothing extra.
+**Closed from 2 November 2026** for the First Light refurbishment, which Royal Museums Greenwich says is due to finish by spring 2028; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([project page](https://www.rmg.co.uk/royal-observatory/transformation)). Until 2 November it is **open daily, £24 adult, £18 student, £12 child, under-4s and Members free** — the [prices](https://www.rmg.co.uk/plan-your-visit/tickets-prices) — and **£3 for visitors on Universal Credit and several other benefits**. Standard hours are 10am to 5pm with last entry at 4pm, extended to 6pm in September. Two short guided add-ons run on top of entry at **£5 adult, £3.50 student and £2.50 child**: the **[Treasures Tour](https://www.rmg.co.uk/royal-observatory) daily at 11am and 3pm**, and the Lunar Tours daily at 1.30pm. Observatory Unlocked, where the Explainers take questions in the galleries, is on Saturdays and Sundays and costs nothing extra.
 
 > ⚠️ **The Peter Harrison Planetarium is closed for renovation.** Do not build a day in Greenwich around a show under the bronze cone. The replacement is downstairs at the National Maritime Museum.
 

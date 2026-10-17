@@ -3,7 +3,7 @@ title: "Where to Stay in Greenwich: The Town, the Park, the Peninsula and Deptfo
 seoTitle: "Where to Stay in Greenwich, London: Hotels by Area"
 description: "Greenwich hotels sorted by the part of Greenwich they are in: the town centre by the Cutty Sark, Blackheath and the park's edges, the O2 peninsula and Deptford Bridge. The station each is nearest, the trains, boats and buses into town, and how to get back after midnight."
 publishedAt: 2026-06-22
-updatedAt: 2026-10-07
+updatedAt: 2026-10-17
 reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
@@ -14,7 +14,7 @@ heroImage: "../../assets/articles/where-to-stay-greenwich/hero.jpg"
 heroImageAlt: "The Greenwich Market arch on Greenwich Market street, with shoppers walking towards the market hall"
 faq:
   - q: "Is Greenwich a good area to stay in London?"
-    a: "Yes, if the Royal Observatory, the Cutty Sark and Greenwich Park are a big part of the trip. The town centre is walkable, the DLR reaches Bank in about 21 minutes and trains from Greenwich station reach London Bridge in about ten. The cost is the late night: the DLR and Southeastern trains stop overnight, so after about half past midnight it is a night bus, which takes around 45 minutes from the West End."
+    a: "Yes, if the Cutty Sark, the Old Royal Naval College and Greenwich Park are a big part of the trip (the Royal Observatory is closed from 2 November 2026). The town centre is walkable, the DLR reaches Bank in about 21 minutes and trains from Greenwich station reach London Bridge in about ten. The cost is the late night: the DLR and Southeastern trains stop overnight, so after about half past midnight it is a night bus, which takes around 45 minutes from the West End."
   - q: "Which station should I use for Greenwich hotels?"
     a: "Cutty Sark DLR for the hotels in the middle of the town, near the market and the park. Greenwich station, with the DLR and Southeastern and Thameslink trains, is at the west end of the town beside the Novotel, the Premier Inn, the Travelodge and Staycity. Deptford Bridge DLR serves the DoubleTree and the Travelodge on Blackheath Road. North Greenwich, on the Jubilee line, is for The O2 and is about two miles from the town."
   - q: "How do I get back to Greenwich late at night?"
@@ -25,7 +25,7 @@ faq:
     a: "North Greenwich, on the peninsula, is a walk from The O2 but its hotels reprice on show nights, and it is a bus ride from the Cutty Sark and the Observatory. Greenwich town is the better base for the sights; the 188 bus links the two and runs 24 hours. Our guide to where to stay near The O2 compares every base by train time."
 ---
 
-Greenwich is a town of its own, in Zones 2 and 3: the Cutty Sark, the Old Royal Naval College, a covered market and a royal park with the Observatory on the hill, all within a few minutes' walk of each other. Staying here means the park before the coach parties arrive and the river at dusk; it also means a DLR ride or a train into central London every morning.
+Greenwich is a town of its own, in Zones 2 and 3: the Cutty Sark, the Old Royal Naval College, a covered market and a royal park with the Royal Observatory (closed from 2 November 2026) on the hill, all within a few minutes' walk of each other. Staying here means the park before the coach parties arrive and the river at dusk; it also means a DLR ride or a train into central London every morning.
 
 Which station you use, how far you walk to the park and how you get home after midnight all depend on where you sleep. Our [Greenwich area guide](/articles/greenwich-area-guide/) covers the sights, the market and where to eat.
 

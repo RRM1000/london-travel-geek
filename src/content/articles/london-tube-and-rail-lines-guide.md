@@ -3,7 +3,7 @@ title: "London Tube and Rail Lines: Which to Take and What to Expect"
 seoTitle: "London Tube Lines Guide: Crowding, Comfort and Stops"
 description: "A line-by-line guide to the London Underground, Elizabeth line, DLR and London Overground, with crowding and comfort ratings, key attractions and the best station exits."
 publishedAt: 2026-08-05
-updatedAt: 2026-09-22
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -313,7 +313,7 @@ Most DLR stations do not have ticket gates. Instead, tap your Oyster card, conta
 
 <h4>Attractions and areas</h4>
 
-<table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Tower of London and Tower Bridge</td><td>Tower Gateway</td><td>Main exit; around three minutes' walk to Tower Hill</td></tr><tr><td>Cutty Sark, Royal Observatory, National Maritime Museum, Greenwich Market and Greenwich Park</td><td>Cutty Sark for Maritime Greenwich</td><td>Main street exit onto Cutty Sark Gardens / Greenwich Church Street</td></tr><tr><td>ExCeL London</td><td>Custom House</td><td>Direct covered walkway into the main entrance</td></tr><tr><td>ABBA Voyage / ABBA Arena</td><td>Pudding Mill Lane</td><td>Single exit directly opposite the arena entrance</td></tr><tr><td>London City Airport terminal</td><td>London City Airport</td><td>Escalators lead directly into the check-in hall</td></tr></tbody></table>
+<table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Tower of London and Tower Bridge</td><td>Tower Gateway</td><td>Main exit; around three minutes' walk to Tower Hill</td></tr><tr><td>Cutty Sark, National Maritime Museum, Greenwich Market and Greenwich Park (the Royal Observatory is closed from 2 November 2026)</td><td>Cutty Sark for Maritime Greenwich</td><td>Main street exit onto Cutty Sark Gardens / Greenwich Church Street</td></tr><tr><td>ExCeL London</td><td>Custom House</td><td>Direct covered walkway into the main entrance</td></tr><tr><td>ABBA Voyage / ABBA Arena</td><td>Pudding Mill Lane</td><td>Single exit directly opposite the arena entrance</td></tr><tr><td>London City Airport terminal</td><td>London City Airport</td><td>Escalators lead directly into the check-in hall</td></tr></tbody></table>
 
 At commuter times, services around Canary Wharf are busier. Every DLR station has step-free access from street to platform. The front seats give an excellent driver's-eye view when available.
 

@@ -3,7 +3,7 @@ title: "Is the London Pass Worth It? What It Saves, and When It Doesn't"
 seoTitle: "London Pass 2026: Real Prices & When It Loses Money"
 description: "A 2-day pass is £149. The classic big five cost £142.00 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
 publishedAt: 2026-09-03
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -139,7 +139,7 @@ Verified on each attraction's own website. Where a site sells cheaper in advance
 | **Madame Tussauds** | from £27.00 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **Tower Bridge** | £18.00 | £9.00 | Child 5–15; under 5 free but needs a ticket |
 | **Cutty Sark** | £22.00 | £11.00 | £10 entry on Tuesdays |
-| **Royal Observatory Greenwich** | £24.00 | £12.00 | £38 combined with Cutty Sark |
+| **Royal Observatory Greenwich** | £24.00 | £12.00 | £38 combined with Cutty Sark; closed from 2 November 2026 |
 | **Kew Gardens** | £25.00–£28.00 | £2.00–£4.00 | £25 online, £28 at the gate; child flat rate from 2 September 2026 |
 | **London Transport Museum** | £27.00 | **Free** | Under-18s free |
 | **The Monument** | £7.00 | £3.50 | The cheapest ticketed viewpoint in London |
@@ -221,14 +221,14 @@ You have done the Tower. Now you want Greenwich and Kew. A 3-choice Explorer is 
 
 | | Adult |
 | --- | --- |
-| Royal Observatory Greenwich | £24.00 |
+| Royal Observatory Greenwich (closed from 2 November 2026) | £24.00 |
 | Cutty Sark | £22.00 |
 | Kew Gardens | £25.00 |
 | **Gate total** | **£71.00** |
 | 3-choice Explorer | £89.00 |
 | **Result** | **Pass loses by £18.00** |
 
-This is the standard trap for a second-visit itinerary. **The interesting attractions are the cheap ones.** The Monument is £7. Greenwich sells the Observatory and Cutty Sark together for £38. Under-18s get into the London Transport Museum free. None of them can carry a £29.67 break-even.
+This is the standard trap for a second-visit itinerary. **The interesting attractions are the cheap ones.** The Monument is £7. Until the Observatory closes on 2 November 2026, Greenwich sells it and the Cutty Sark together for £38. Under-18s get into the London Transport Museum free. None of them can carry a £29.67 break-even.
 
 The Explorer only pays if you deliberately pick the priciest items on it — and those skew towards tours, stadium tours and mystery games, not the places you came to see.
 

@@ -3,7 +3,7 @@ title: "How to Use London River Boats: Fares, Routes and Piers"
 seoTitle: "How to Use London River Boats"
 description: "A practical guide to London's River Bus, including 2026 zone fares, day tickets, touching in and out, scenic routes, key piers and the River Bus Comedy Night."
 publishedAt: 2026-08-02
-updatedAt: 2026-09-27
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -111,7 +111,7 @@ Uber Boat operates across three distinct fare zones: **West Zone** (Putney to Ba
 ![A London Eye River Cruise boat on the Thames with its top deck full, passing the buildings near Tower Bridge](../../assets/articles/getting-around-london/city-cruise-tower-bridge.jpg)
 
 *A sightseeing cruise, not a river bus.*
-Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before passing **directly beneath Tower Bridge** to reach Greenwich (*Cutty Sark*, Royal Observatory).
+Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before passing **directly beneath Tower Bridge** to reach Greenwich (*Cutty Sark*; the Royal Observatory is closed from 2 November 2026).
 * **Zones:** Central & East Zone (£11.40 off-peak PAYG).
 * **With commentary:** City Cruises sails Westminster, London Eye, Tower and Greenwich piers with the captain talking. Its <a href="https://www.getyourguide.com/activity/-t1382143?partner_id=WWP7I0R&amp;cmp=how-to-use-london-river-boats" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one-day unlimited river pass</a> is **from £9** on GetYourGuide, 4.5 from 816 reviews: less than one Uber Boat fare to Greenwich.
 

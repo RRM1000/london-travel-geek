@@ -5,7 +5,7 @@ description: "A Wren church left as a shell and filled with vines, dinosaurs bui
 heroImage: "../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg"
 heroImageAlt: "Greenwich Park in spring, the grass slope running down past the Old Royal Naval College to Canary Wharf beyond"
 publishedAt: 2026-09-11
-updatedAt: 2026-09-27
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -111,7 +111,7 @@ The park itself is free. **The children's zoo is ticketed**, which families most
 
 **183 acres and the oldest enclosed royal park in London**, rising steeply from the Old Royal Naval College to the Observatory on the hill — which gives it the best composed view in the city and, in The Wilderness, a wild deer herd.
 
-The view from the General Wolfe statue is free and sits outside the ticketed Observatory, which most visitors get wrong.
+The view from the General Wolfe statue is free and sits outside the Royal Observatory, which is closed from 2 November 2026.
 
 ![Greenwich Park in spring, looking down the grass slope over the Old Royal Naval College to Canary Wharf and the O2 under a clear blue sky](../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg)
 

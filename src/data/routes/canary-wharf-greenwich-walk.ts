@@ -94,7 +94,7 @@ export const stops: RouteMapStop[] = [
     {
       stop: "11",
       name: "Royal Observatory",
-      note: "The hill and the view are free; the Observatory is £24 adult.",
+      note: "The hill and the view are free; the Observatory is closed from 2 November 2026.",
       latitude: 51.477362,
       longitude: -0.000846,
       articleAnchor: "#11-greenwich-park-and-the-royal-observatory",

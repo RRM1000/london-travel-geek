@@ -3,7 +3,7 @@ title: "Five Days in London: The Itinerary With Room to Breathe"
 seoTitle: "Five Days in London Itinerary: Day by Day"
 description: "Five days written out in full, with the operators' own hours and prices, TfL walking times, and the river fare to Greenwich. Westminster, the City, the South Bank, Greenwich by boat, and one museum district with its neighbourhood."
 publishedAt: 2026-08-14
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
@@ -18,7 +18,7 @@ faq:
   - q: "How do I get to Greenwich from central London, and what does it cost?"
     a: "By Uber Boat by Thames Clippers from Westminster, Embankment or Tower piers. Westminster to Greenwich is scheduled at 56 to 60 minutes on the weekend timetable and Tower to Greenwich at about 25 minutes. Pay with contactless: Central and East zones cost £11.40 off-peak and £13.70 peak, and Saturdays, Sundays and bank holidays are charged at the peak fare all day. River fares do not count towards the Tube and bus daily cap."
   - q: "What does Greenwich cost once you are there?"
-    a: "Cutty Sark is £18 for an adult and £9 for a child. The Royal Observatory is £18 and £9. The Painted Hall at the Old Royal Naval College is £19 and children go free. The National Maritime Museum, the Queen's House, Greenwich Park, Greenwich Market and the view from the Observatory hill are all free."
+    a: "Cutty Sark is £18 for an adult and £9 for a child. The Royal Observatory is £18 and £9 until it closes on 2 November 2026. The Painted Hall at the Old Royal Naval College is £19 and children go free. The National Maritime Museum, the Queen's House, Greenwich Park, Greenwich Market and the view from the Observatory hill are all free."
   - q: "Should I take a day trip out of London on a five-day visit?"
     a: "Probably not. Windsor, Oxford and Bath each swallow a day and cost you a London neighbourhood you have not seen. Greenwich gives you the change of scene, an hour on the water and a completely different London without leaving the fare zone."
   - q: "How much walking is a five-day London itinerary?"
@@ -190,7 +190,7 @@ Greenwich Pier lands you a minute from the Cutty Sark, and everything below is w
 | --- | --- | ---: | ---: |
 | **[Cutty Sark](https://www.rmg.co.uk/cutty-sark)** | Daily 10am–5pm, last entry 4.15pm | **£18** | **£9** |
 | **[Painted Hall](https://ornc.org/)**, Old Royal Naval College | Daily 10am–5pm | **£19** | **Free** |
-| **[Royal Observatory](https://www.rmg.co.uk/royal-observatory)** | Daily 10am–6pm, last entry 5pm | **£18** | **£9** |
+| **[Royal Observatory](https://www.rmg.co.uk/royal-observatory)** | Closed from 2 November 2026 (until then daily 10am–6pm, last entry 5pm) | **£18** | **£9** |
 | **[National Maritime Museum](https://www.rmg.co.uk/national-maritime-museum)** | Daily 10am–5pm, last entry 4.15pm | **Free** | **Free** |
 | **Queen's House** | Daily 10am–5pm, last entry 4.15pm | **Free** | **Free** |
 | **[Greenwich Market](https://www.greenwichmarket.london/)** | Daily 10am–5.30pm | **Free** | **Free** |
@@ -201,7 +201,7 @@ Greenwich Pier lands you a minute from the Cutty Sark, and everything below is w
 
 **The National Maritime Museum** is *five minutes and 320 metres* further, free, and booking is only recommended rather than required.
 
-**The Royal Observatory** is *ten minutes and 790 metres* uphill through Greenwich Park from the Maritime Museum, and the climb is short and steep. **The view from the top of the hill is free.** The Observatory itself, with the Prime Meridian line and Harrison's chronometers, is ticketed, and it is the one Greenwich site that stays open until 6pm. **The Peter Harrison Planetarium is closed for renovation**, so do not plan a show into the day.
+**The Royal Observatory** is *ten minutes and 790 metres* uphill through Greenwich Park from the Maritime Museum, and the climb is short and steep. **The view from the top of the hill is free.** The Observatory itself, with the Prime Meridian line and Harrison's chronometers, is closed from 2 November 2026 for refurbishment; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January. **The Peter Harrison Planetarium is closed for renovation**, so do not plan a show into the day.
 
 ![The view from Greenwich Hill over the Old Royal Naval College to Canary Wharf beyond](../../assets/articles/five-days-in-london-itinerary/greenwich-hill-view.jpg)
 

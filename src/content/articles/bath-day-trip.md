@@ -3,7 +3,7 @@ title: "Bath from London: The Roman Baths, the Spa and the Train"
 seoTitle: "Bath Day Trip from London: Trains and Tickets"
 description: "Paddington to Bath Spa takes 1h15 and Advance singles cut the return from £75.90 to £47.60. The Roman Baths cost £26.50 on a weekday and £29.00 at the weekend, the rooftop pool is £44, and cars pay nothing in Bath's Clean Air Zone."
 publishedAt: 2026-09-19
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -34,6 +34,8 @@ faq:
 It is also the rare day trip where the station puts you in the middle of everything. The Roman Baths, the Abbey, Pulteney Bridge, the Circus and the Royal Crescent are all within fifteen minutes' walk of each other, and under ten minutes from the platform.
 
 > 💡 **The Short Version:** **Paddington to Bath Spa, 1h15 direct.** Off-Peak Return **£75.90**, or **£47.60** in Advance singles booked a month out. **Roman Baths £26.50 weekday, £29.00 weekend** in advance, **£2 more on the door**, timed slots, **allow 90 minutes to 2 hours**. **Thermae Bath Spa rooftop pool £44 weekdays, £49 weekends**, two hours, **16 and over only**, and walk-in slots run out. **Bath Abbey £9**, tower tour **£18**, and Sunday visiting is only **13:00–15:30**. **No.1 Royal Crescent £16**, closed Mondays. **Cars pay nothing in the Clean Air Zone**; older vans pay £9. **2FOR1 covers almost nothing here.** Last direct train back **23:05** on a weekday. **Or take a coach tour** — the <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£85 Stonehenge and Bath tour</a> adds the stones to the day with entry included, though the Roman Baths are extra.
+
+> ⚠️ **Great Western trains cannot run to or from Paddington from Sunday 27 December 2026 to Sunday 3 January 2027, or on Saturday 28 and Sunday 29 November, for the Dolphin Junction upgrade.** Trains to and from the Bristol area and South Wales are diverted to run to and from Euston with longer journey times, and most other long-distance trains start and finish at Reading ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail, 14 October 2026](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
 **Book a tour direct:**
 

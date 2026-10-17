@@ -1,11 +1,11 @@
 ---
 title: "A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops"
 seoTitle: "Canary Wharf to Greenwich Walk: Foot Tunnel Route + Map"
-description: "A numbered walking route from the Crossrail roof garden to the Prime Meridian, going under the Thames through the 1902 Greenwich Foot Tunnel. With prices and what is open on which day."
+description: "A numbered walking route from the Crossrail roof garden to Greenwich Park, going under the Thames through the 1902 Greenwich Foot Tunnel. With prices and what is open on which day."
 heroImage: "../../assets/articles/canary-wharf-greenwich-walk/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College and the Thames to Canary Wharf's towers, with both ends of the walk in one frame"
 publishedAt: 2026-09-13
-updatedAt: 2026-09-19
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -17,14 +17,14 @@ faq:
   - q: "Is Greenwich Market closed on Mondays?"
     a: "No. It is open daily, 10am to 5.30pm. It closes only on Christmas Day and the first six Mondays of the year."
   - q: "What does the Canary Wharf to Greenwich walk cost?"
-    a: "Nothing, if you want. Eight of the eleven stops are free. The three ticketed ones are the Cutty Sark (£22 adult, £11 child), the Painted Hall (£19, children free) and the Royal Observatory (£24 adult, £12 child)."
+    a: "Nothing, if you want. Eight of the eleven stops are free. The ticketed ones are the Cutty Sark (£22 adult, £11 child), the Painted Hall (£19, children free) and, until it closes on 2 November 2026, the Royal Observatory (£24 adult, £12 child)."
   - q: "Which direction should you walk it?"
     a: "North to south. You spend the first half among towers and dock water, come up out of a Victorian tunnel into a World Heritage Site, and finish on Greenwich hill looking back at everything you walked past."
 ---
 
 There are two good half-days here and almost nobody joins them up. Canary Wharf gets an hour from people waiting for a train; Greenwich gets a day trip that arrives by boat and leaves by boat. They face each other across the same reach of river, and the crossing between them is free and takes five minutes.
 
-**This walk uses it.** Eleven stops, about **6.5km and three to four hours**, with the 1902 **Greenwich Foot Tunnel** in the middle. Eight of the stops are free, and the route has a spine most people miss: **the Prime Meridian runs through both ends of it.**
+**This walk uses it.** Eleven stops, about **6.5km and three to four hours**, with the 1902 **Greenwich Foot Tunnel** in the middle. Eight of the stops are free, and the route has a spine most people miss: **the Prime Meridian runs through both ends of it.** The Greenwich end, the line in the Royal Observatory's courtyard, is closed from 2 November 2026.
 
 For where to stay and eat at either end, see the [Canary Wharf](/articles/canary-wharf-area-guide/) and [Greenwich](/articles/greenwich-area-guide/) area guides.
 
@@ -62,7 +62,7 @@ For where to stay and eat at either end, see the [Canary Wharf](/articles/canary
 | **8** | Greenwich Market | Free | Daily 10am–5.30pm |
 | **9** | Old Royal Naval College | Grounds free | Daily; Painted Hall ticketed |
 | **10** | National Maritime Museum | **Free** | Daily 10am–5pm |
-| **11** | Greenwich Park & the Observatory | Park free | Gates 6am–8pm |
+| **11** | Greenwich Park (the Royal Observatory is closed from 2 November 2026) | Park free | Gates 6am–8pm |
 | **+** | Wood Wharf and Eden Dock | Free | Always |
 | **+** | The Trafalgar Tavern | Free to look | Pub hours |
 
@@ -76,7 +76,7 @@ For where to stay and eat at either end, see the [Canary Wharf](/articles/canary
 
 **Free and open daily**, until 9pm or sunset in summer. Crossrail Place is a timber lattice hull built into the old North Dock, so the whole building sits in water, and the garden on its roof is one of the largest in London.
 
-It is also the right place to start this walk. **The building sits almost exactly on the Prime Meridian, and the garden is planted by hemisphere**: bamboos and other Asian plants to the east of the line, ferns and plants from the Americas to the west. You start on longitude zero and finish where it was drawn.
+It is also the right place to start this walk. **The building sits almost exactly on the Prime Meridian, and the garden is planted by hemisphere**: bamboos and other Asian plants to the east of the line, ferns and plants from the Americas to the west. You start on longitude zero and finish on the hill above where it was drawn; the Observatory itself is closed from 2 November 2026.
 
 Signs from the Elizabeth line, Jubilee and DLR platforms lead straight up to it, so in the rain this stop and the next are indoors.
 
@@ -144,7 +144,7 @@ The London County Council built it in 1902 so that workers living south of the r
 
 ## 7. The Cutty Sark
 
-**You come up and it is directly in front of you**: the last surviving tea clipper, raised in a dry dock so you can walk underneath the hull, which is the part of the ticket worth the money. £22 adult, £11 child, daily 10am to 5pm (last entry 4.15pm). A day pass with the Royal Observatory is £38 adult, £19 child.
+**You come up and it is directly in front of you**: the last surviving tea clipper, raised in a dry dock so you can walk underneath the hull, which is the part of the ticket worth the money. £22 adult, £11 child, daily 10am to 5pm (last entry 4.15pm). Until the Observatory closes on 2 November 2026, a day pass with it is £38 adult, £19 child.
 
 If you are not going in, the ship is free to look at from the street, and **the Gipsy Moth** next to it has a big beer garden.
 
@@ -200,7 +200,7 @@ Do these before the hill, not after. By the time you have climbed it you will no
 
 **The climb is steeper than it looks**: ten minutes from the museum, and almost all of the walk's height is in it. Greenwich Park is the oldest enclosed royal park in London, deer have lived in The Wilderness since the 1600s, and the gates are open 6am to 8pm.
 
-At the top, **the view is free**: the Naval College and Queen's House below, the river, Canary Wharf opposite and the O2 to the right. The **Royal Observatory** is £24 adult, £12 child, 10am to 5pm (to 6pm in September), with the Prime Meridian line in the courtyard and Wren's Octagon Room.
+At the top, **the view is free**: the Naval College and Queen's House below, the river, Canary Wharf opposite and the O2 to the right. The **Royal Observatory** at the top, with the Prime Meridian line in the courtyard and Wren's Octagon Room, is **closed from 2 November 2026** for the First Light refurbishment. Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation)). Until 2 November it is £24 adult, £12 child, 10am to 5pm.
 
 You do not have to pay to finish well. After eleven stops and a river crossing, standing on the hill looking back at where you started is the better ending.
 

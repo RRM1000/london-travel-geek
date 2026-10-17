@@ -3,7 +3,7 @@ title: "Peckham Area Guide: Rye Lane, Rooftop Bars and the Best Cheap Eating in 
 seoTitle: "Peckham Guide: Rye Lane, Rooftops & Where to Eat"
 description: "A complete Peckham guide: Rye Lane and its market, the Bussey Building and Peckham Levels, rooftop drinking on a car park, and a run of restaurants that punches far above the postcode."
 publishedAt: 2026-08-18
-updatedAt: 2026-09-22
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -40,7 +40,7 @@ area:
     - name: "Greenwich"
       slug: "greenwich-area-guide"
       minutes: 25
-      note: "East on the Overground for the river and the Observatory."
+      note: "East on the Overground for the river and Greenwich."
     - name: "Battersea"
       slug: "battersea-area-guide"
       minutes: 30

@@ -3,7 +3,7 @@ title: "Bridgerton in London: Everywhere a Fan Can Actually Go"
 seoTitle: "Bridgerton Filming Locations London: Prices & Tours"
 description: "Ranger's House is free to view but open on select dates only. Castle Howard's own site confirms it played the Duke of Hastings's estate. Bath's Assembly Rooms are closed until 2027. Verified locations, prices and the Bridgerton tours you can book."
 publishedAt: 2026-09-15
-updatedAt: 2026-10-03
+updatedAt: 2026-10-17
 reviewBy: 2026-11-01
 sites:
   - london
@@ -25,7 +25,7 @@ faq:
   - q: "Can you visit Castle Howard, the Duke of Hastings's estate?"
     a: "Yes. Castle Howard's own website says it 'doubled as Clyvedon Castle, the Duke of Hastings' home' in series one, and its holiday cottages sit in Coneysthorpe, used as Clyvedon village. House and Gardens tickets run from 20 March to 31 October; on 15 September 2026 the grounds were open 10am-5pm and the house 10am-4pm, a self-guided visit of 40 to 60 minutes. It is a genuine day out from London: allow at least two hours each way to York, plus a bus or taxi on to the house."
   - q: "Is there a Bridgerton walking tour in London?"
-    a: "Yes. A 2½-hour Bridgerton walking tour of Greenwich costs £27 on GetYourGuide, taking in the Queen's House and the Royal Observatory. The best-reviewed Bridgerton tours are in Bath: two walking tours from £20, with 408 and 519 reviews."
+    a: "Yes. A 2½-hour Bridgerton walking tour of Greenwich costs £27 on GetYourGuide, taking in the Queen's House and the Royal Observatory, which is closed from 2 November 2026 to visitors. The best-reviewed Bridgerton tours are in Bath: two walking tours from £20, with 408 and 519 reviews."
   - q: "Can the public visit Lancaster House, used for St James's Palace?"
     a: "No, not on an ordinary day. Lancaster House on Stable Yard, St James's, is run by the Foreign, Commonwealth & Development Office as a government hospitality venue hired out for events, with no regular visitor opening. You can see it from the street, five minutes' walk from Green Park station."
   - q: "Where was Queen Charlotte: A Bridgerton Story filmed?"
@@ -64,7 +64,7 @@ faq:
 
 Most Bridgerton locations are stately homes with their own tickets, so a tour buys the transport and the story rather than special access. Tour prices and ratings below are GetYourGuide's on 15 September 2026.
 
-**<a href="https://www.getyourguide.com/activity/-t1219258?partner_id=WWP7I0R&amp;cmp=bridgerton-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Bridgerton Walking Tour in Greenwich</a>** is **£27** for **2½ hours**, rated **4.9 from 8 reviews**. The listing takes in filming locations including the Queen's House and the Royal Observatory.
+**<a href="https://www.getyourguide.com/activity/-t1219258?partner_id=WWP7I0R&amp;cmp=bridgerton-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Bridgerton Walking Tour in Greenwich</a>** is **£27** for **2½ hours**, rated **4.9 from 8 reviews**. The listing takes in filming locations including the Queen's House and the Royal Observatory. The Observatory is closed from 2 November 2026 for refurbishment.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1219258" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

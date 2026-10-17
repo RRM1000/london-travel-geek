@@ -148,7 +148,7 @@ These opened in November and run into the new year or spring.
 
 ### The Royal Observatory, Greenwich
 
-**The whole site has been closed since 2 November 2026** for a long refurbishment, so it is shut throughout December. The rest of Greenwich is in our [Greenwich guide](/articles/greenwich-area-guide/).
+**The whole site, Flamsteed House and the Meridian Courtyard included, is closed from 2 November 2026** for the First Light refurbishment, so it is shut throughout December. [Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation) says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January, and the project finishes by spring 2028. The National Maritime Museum, the Cutty Sark and the view from the hill stay open. The rest of Greenwich is in our [Greenwich guide](/articles/greenwich-area-guide/).
 
 ## Sport
 
@@ -185,11 +185,11 @@ The Serpentine Swimming Club's Christmas morning handicap is a 100-yard swim in 
 
 **National Rail runs almost nothing in England on Christmas Day and Boxing Day**, and Network Rail uses the days after for engineering:
 
-- **London Paddington is closed from Christmas Day.** Services return from New Year's Eve with the Elizabeth line and Heathrow Express resuming to and from Paddington, but Great Western Railway trains cannot use the station until Monday 4 January: long-distance services start and finish at Reading, and some divert to Euston.
+- **London Paddington is closed from Christmas Day.** No Elizabeth line or Heathrow Express trains run to or from Heathrow from Sunday 27 to Wednesday 30 December, and the Piccadilly line is the only rail link to the airport. Both resume on New Year's Eve, but Great Western Railway trains cannot use Paddington until Monday 4 January: long-distance services start and finish at Reading, and some divert to Euston.
 - **The Great Eastern Main Line is closed for 10 days from Christmas Day** for track renewal at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area until the early hours of Monday 4 January.
 - **The railway through Redhill is closed from 20 December** to the early hours of Monday 4 January, with buses between Reigate, Earlswood and Purley; Brighton and Gatwick Airport trains still run.
 
-National Rail's [engineering works calendar](https://www.nationalrail.co.uk/engineering-works/) shows every date, and Network Rail's [announcement](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work) lists the major projects. Our [airport guides](/articles/heathrow-airport-to-london/) and [transport guide](/articles/getting-around-london-transport-guide/) cover the usual routes.
+National Rail's [Dolphin Junction page](https://www.nationalrail.co.uk/dolphinjunction/) has the Paddington dates, its [engineering works calendar](https://www.nationalrail.co.uk/engineering-works/) shows every date, and Network Rail's [announcement](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work) lists the major projects. Our [airport guides](/articles/heathrow-airport-to-london/) and [transport guide](/articles/getting-around-london-transport-guide/) cover the usual routes.
 
 ### What closes
 

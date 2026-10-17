@@ -3,7 +3,7 @@ title: "Getting Around London: A Complete Transport Overview"
 seoTitle: "Getting Around London: Transport Guide"
 description: "An introduction to every practical way to travel around London, including trains, buses, trams, boats, taxis, the cable car and all six main airports."
 publishedAt: 2026-07-31
-updatedAt: 2026-09-22
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -31,6 +31,8 @@ The London Underground (the "Tube") is the network most visitors arrive knowing 
 > - **Sightseeing & Short Hops:** Use the red double-decker buses (£1.75 flat fare with 60-minute unlimited Hopper transfers).  
 > - **Airports:** Heathrow, Gatwick, and London City are linked by train/DLR. Stansted and Luton accept contactless cards, but **do NOT accept Oyster cards**.  
 > - **Paying:** Always tap in and out using the exact same contactless card or Oyster card for automatic daily capping.
+
+> ⚠️ **Christmas 2026: no Elizabeth line or Heathrow Express trains run to or from Heathrow from Sunday 27 to Wednesday 30 December, and Paddington is closed to Great Western trains until Monday 4 January.** The Great Eastern Main Line is closed for 10 days from Christmas Day 2026 for track renewal at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area until the early hours of Monday 4 January ([Network Rail, 14 October 2026](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)). TfL's own festive plan is on [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel). Sources: [National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail, 14 October 2026](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work).
 
 ---
 

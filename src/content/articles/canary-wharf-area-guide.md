@@ -3,7 +3,7 @@ title: "Canary Wharf Area Guide: Docks, Swimming and the Roof Garden"
 seoTitle: "Canary Wharf Guide 2026: Eden Dock & What to Do"
 description: "A complete Canary Wharf guide: Eden Dock, a 50-metre floating pool, the Crossrail roof garden, the free Docklands museum and the Wood Wharf restaurants."
 publishedAt: 2026-08-21
-updatedAt: 2026-09-27
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -244,7 +244,7 @@ The DLR runs overhead on its viaduct, which is worth watching from below.
 
 **[A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops →](/articles/canary-wharf-greenwich-walk/)**
 
-Our full route out of this area: **eleven numbered stops** over about 6.5km and three to four hours, with a map, a Google Maps walking link for your phone and what is open on which day. It opens with the **Crossrail Place Roof Garden** and the free **London Museum Docklands**, walks the docks south past **Mudchute Farm** to Island Gardens, then goes under the Thames through the **Greenwich Foot Tunnel** and finishes at the Prime Meridian. It also carries the **live foot-tunnel lift status**, which is what decides whether that crossing is step-free on the day you go.
+Our full route out of this area: **eleven numbered stops** over about 6.5km and three to four hours, with a map, a Google Maps walking link for your phone and what is open on which day. It opens with the **Crossrail Place Roof Garden** and the free **London Museum Docklands**, walks the docks south past **Mudchute Farm** to Island Gardens, then goes under the Thames through the **Greenwich Foot Tunnel** and finishes on Greenwich hill beside the Royal Observatory, which is closed from 2 November 2026. It also carries the **live foot-tunnel lift status**, which is what decides whether that crossing is step-free on the day you go.
 
 **[A Riverside Pub Walk from Wapping to Canary Wharf: Four Historic Pubs in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
 

@@ -1,9 +1,9 @@
 ---
 title: "Greenwich Area Guide: The Observatory, Cutty Sark and North Greenwich"
 seoTitle: "Greenwich Guide: Royal Observatory, Cutty Sark & the O2"
-description: "A complete Greenwich guide: the Prime Meridian, the Painted Hall, Greenwich Market days, getting there by river — and why Greenwich and North Greenwich are not the same place."
+description: "A complete Greenwich guide: the Painted Hall, the Cutty Sark, the park view, Greenwich Market days, getting there by river — and why Greenwich and North Greenwich are not the same place. The Royal Observatory is closed from 2 November 2026."
 publishedAt: 2026-08-10
-updatedAt: 2026-09-29
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -60,7 +60,7 @@ faq:
   - q: "Are Greenwich and North Greenwich the same place?"
     a: "No, and this catches people out constantly. Greenwich is the historic maritime town — the Observatory, Cutty Sark, the park and the market, served by DLR and National Rail. North Greenwich is on the Greenwich Peninsula about two miles north, and is essentially the O2 arena and the cable car, served by the Jubilee line. If you are going to a concert you want North Greenwich; for everything else you want Greenwich or Cutty Sark station."
   - q: "Do you have to pay to stand on the Prime Meridian?"
-    a: "To stand on the marked meridian line in the Royal Observatory courtyard, yes — that is inside the ticketed area. The meridian's actual path continues across Greenwich Park for free, and there is a marker outside the paid zone. The view from the hill outside the Observatory is free and is the famous one."
+    a: "The marked meridian line is in the Royal Observatory courtyard, inside the ticketed area, and the whole Royal Observatory is closed from 2 November 2026 for the First Light refurbishment. Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January. The view from the hill outside the Observatory is free and is the famous one."
   - q: "Is the Painted Hall worth the ticket?"
     a: "Yes. It took James Thornhill nineteen years to paint and is often called the UK's Sistine Chapel. It sits in the Old Royal Naval College, separate from the Observatory, with its own ticket. The adjacent chapel is free."
   - q: "What is the best way to get to Greenwich?"
@@ -85,8 +85,8 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 
 ## Top sights and activities
 
-1. **Royal Observatory and the Prime Meridian** — Longitude zero, the Harrison marine chronometers, and the red time ball that has dropped at 13:00 since 1833. Ticketed.
-2. **The view from Observatory Hill** — Free, and the best panorama in London: the Naval College, the river, Canary Wharf and the City. Go up even if you skip the Observatory itself.
+1. **Royal Observatory and the Prime Meridian** — Longitude zero, the Harrison marine chronometers, and the red time ball that has dropped at 13:00 since 1833. **Closed from 2 November 2026** for the First Light refurbishment; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January.
+2. **The view from Observatory Hill** — Free, and the best panorama in London: the Naval College, the river, Canary Wharf and the City. Go up even though the Observatory itself is closed.
 3. **Cutty Sark** — The last surviving tea clipper, dry-docked and raised so you can walk beneath the hull.
 4. **The Painted Hall** — Thornhill's ceiling in the Old Royal Naval College, nineteen years in the painting. Separate ticket; the chapel opposite is free.
 
@@ -108,11 +108,11 @@ This is the most common Greenwich mistake, so it is worth stating plainly.
 
 | | Greenwich | North Greenwich |
 |---|---|---|
-| **What is there** | Observatory, Cutty Sark, park, market | The O2 arena, cable car, Design District |
+| **What is there** | Cutty Sark, Painted Hall, park, market (the Observatory is closed from 2 November 2026) | The O2 arena, cable car, Design District |
 | **Station** | Cutty Sark or Greenwich (DLR/Rail) | North Greenwich (Jubilee) |
 | **Distance apart** | — | About two miles |
 
-They are on opposite sides of the Greenwich Peninsula and are **not walkable from one another** in any sensible way. If you have a concert ticket, you want **North Greenwich** on the Jubilee line. If you want the Observatory, you want **Cutty Sark** on the DLR. Arriving at the wrong one costs you half an hour.
+They are on opposite sides of the Greenwich Peninsula and are **not walkable from one another** in any sensible way. If you have a concert ticket, you want **North Greenwich** on the Jubilee line. If you want Greenwich's sights (the Royal Observatory is closed from 2 November 2026), you want **Cutty Sark** on the DLR. Arriving at the wrong one costs you half an hour.
 
 What is at North Greenwich: **The O2**, one of the busiest arenas in the world, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks, where contactless is accepted and the crossing counts as a TfL journey; and the **Design District**, a cluster of small studios and a good canteen.
 
@@ -153,7 +153,7 @@ The oldest enclosed royal park in London, and the climb behind the Maritime Muse
 
 **Come for the view from the top, which is free.** Queen's House and the Naval College below, the river, Canary Wharf opposite and the O2 to the right — one of the great London views, at no cost, whether or not you go into anything.
 
-**The Royal Observatory at the summit is paid: £24 adult, £18 student, £12 child**, 10am–5pm with last entry 4pm, extended to 6pm through September. That buys the **Prime Meridian line**, Wren's Octagon Room, and the Great Equatorial Telescope. **You can see the meridian courtyard from outside without paying**, which helps if the queue is long or the family is flagging. Two £5 add-on tours run daily on top of entry — the Treasures Tour at 11am and 3pm, the Lunar Tour at 1.30pm.
+**The Royal Observatory at the summit is closed from 2 November 2026** for the First Light refurbishment, which Royal Museums Greenwich says is due to finish by spring 2028. Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation)). Until then the free view from the hill, the National Maritime Museum and the Cutty Sark fill the day. Until 2 November it is £24 adult, £18 student, £12 child, 10am–5pm with last entry 4pm, and buys the **Prime Meridian line**, Wren's Octagon Room and the Great Equatorial Telescope.
 
 **The Peter Harrison Planetarium is closed for renovation**, so do not plan a show into the day. Royal Museums Greenwich runs a replacement 30-minute show, presented live by its astronomers, downstairs at the National Maritime Museum as part of Astronomers Take Over: £18 adult and £16 child with the planetarium, £8 without. [Science events in London](/articles/science-events-london/) covers that and the rest of the city's dated science programme.
 
@@ -227,12 +227,12 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 | If you have | Do this |
 | --- | --- |
 | **Half a day** | Cutty Sark, the market, and the free view from Observatory Hill |
-| **A full day** | Add the Royal Observatory, the Painted Hall and the Maritime Museum |
+| **A full day** | Add the Painted Hall and the Maritime Museum (the Royal Observatory is closed from 2 November 2026) |
 | **A full day plus** | Add the cable car from North Greenwich, or the Foot Tunnel walk |
 
 **Best time:** Arrive by boat in the morning and walk up the hill before the coach parties. The hill view is best in afternoon light looking back towards the City.
 
-**Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets from two separate organisations. Royal Museums Greenwich sells a **day pass covering the Observatory and the Cutty Sark for £38 adult and £19 child**; the Painted Hall belongs to the Old Royal Naval College and is bought separately.
+**Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets from two separate organisations. Until the Observatory closes on 2 November 2026, Royal Museums Greenwich sells a **day pass covering it and the Cutty Sark for £38 adult and £19 child**; the Painted Hall belongs to the Old Royal Naval College and is bought separately.
 
 ## Walking routes
 
@@ -246,18 +246,18 @@ Our full route into this area from the north: **eleven numbered stops** over abo
 2. **Cutty Sark:** Walk under the hull, then into the covered **Greenwich Market**.
 3. **Naval College:** The **Painted Hall**, and the free chapel opposite.
 4. **Maritime Museum:** Free, and a good hour.
-5. **Up the hill:** Through **Greenwich Park** to the **Royal Observatory** and the view.
+5. **Up the hill:** Through **Greenwich Park** to the view (the **Royal Observatory** is closed from 2 November 2026).
 6. **Finish:** The **Trafalgar Tavern** on the river, or the **Foot Tunnel** for the view back.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Common mistakes to avoid
 
-1. **Going to North Greenwich for the Observatory.** Two miles and a different Tube line. Cutty Sark on the DLR is the one you want.
+1. **Going to North Greenwich for the Cutty Sark and the park.** Two miles and a different Tube line. Cutty Sark on the DLR is the one you want.
 2. **Taking the Tube when you could take the boat.** The river journey is the best part of the day.
-3. **Paying for the Observatory just for the view.** The famous panorama from the hill outside is free.
+3. **Paying for a view.** The famous panorama from the hill is free.
 4. **Underestimating the hill.** It is a genuine climb from the Maritime Museum. There is a gentler path from Blackheath Gate.
-5. **Buying the Observatory and the Cutty Sark separately.** A Royal Museums Greenwich day pass covers both for £38 adult and £19 child. The Maritime Museum and Queen's House are free anyway.
+5. **Buying the Observatory and the Cutty Sark separately before 2 November 2026.** A Royal Museums Greenwich day pass covers both for £38 adult and £19 child. The Maritime Museum and Queen's House are free anyway.
 6. **Avoiding a Monday for the market.** You no longer need to. It trades seven days, 10am to 5.30pm, and Monday is one of the quietest.
 
 ## Where to stay
@@ -265,7 +265,7 @@ Our full route into this area from the north: **eleven numbered stops** over abo
 A base for a trip where the park and the river count for more than being in the West End every evening.
 
 - **Greenwich town centre** — Rooms above pubs by the market, and chain hotels and apartments along Greenwich High Road. Cutty Sark DLR is in the middle; Greenwich station, with trains to London Bridge in about ten minutes, is at the west end.
-- **Blackheath** — A village on the heath beyond the park, with its own station and trains to London Bridge and Charing Cross. The Observatory is about 20 minutes' walk across the heath.
+- **Blackheath** — A village on the heath beyond the park, with its own station and trains to London Bridge and Charing Cross. The hill and the Observatory (closed from 2 November 2026) are about 20 minutes' walk across the heath.
 - **Deptford Bridge** — West of Greenwich station on the DLR, 15 to 20 minutes' walk from the Cutty Sark.
 - **North Greenwich** — The peninsula by the O2, on the Jubilee line, 10 to 12 minutes from Waterloo, and a bus ride from the sights.
 - **Canary Wharf** — Across the river, ten minutes from Cutty Sark on the DLR, with the Elizabeth line to Liverpool Street in seven.

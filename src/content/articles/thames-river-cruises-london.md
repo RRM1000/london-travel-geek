@@ -3,7 +3,7 @@ title: "Thames River Cruises in London: Which to Book and What They Cost"
 seoTitle: "Thames River Cruises London 2026: Prices & Routes"
 description: "Every kind of Thames cruise compared on price, piers and commentary. Westminster to Greenwich from £14.62 online, a £9 City Cruises day pass, lunch from £43, dinner from £99, speedboats from £59.95 and the seasonal boat to Kew and Hampton Court."
 publishedAt: 2026-06-15
-updatedAt: 2026-09-29
+updatedAt: 2026-10-17
 reviewBy: 2026-10-26
 sites: [london]
 canonicalSite: london
@@ -151,7 +151,7 @@ On GetYourGuide, a <a href="https://www.getyourguide.com/activity/-t16670?partne
 
 ### Greenwich
 
-Every sightseeing boat above ends at Greenwich Pier beside the Cutty Sark. Get off, see the Royal Observatory and the Painted Hall, and come back on a later boat: return tickets on both sightseeing lines allow it. Our [Greenwich area guide](/articles/greenwich-area-guide/) plans the day, and the [Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/) arrives beside the same pier through the foot tunnel. For The O2, the Uber Boat stops at North Greenwich Pier; the [O2 travel guide](/articles/the-o2-travel-guide/) has the last boats after a show.
+Every sightseeing boat above ends at Greenwich Pier beside the Cutty Sark. Get off, see the Painted Hall and the Cutty Sark (the Royal Observatory is closed from 2 November 2026), and come back on a later boat: return tickets on both sightseeing lines allow it. Our [Greenwich area guide](/articles/greenwich-area-guide/) plans the day, and the [Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/) arrives beside the same pier through the foot tunnel. For The O2, the Uber Boat stops at North Greenwich Pier; the [O2 travel guide](/articles/the-o2-travel-guide/) has the last boats after a show.
 
 ### The Thames Barrier
 

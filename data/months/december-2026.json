@@ -5,26 +5,34 @@
   "researched": "2026-10-17",
   "status": "RESEARCHED from organiser pages on 17 October 2026. The annual spine is data/months/december.json. Anything the organiser had not published by 17 October is listed under gaps and left out of the article.",
   "note": "THE OVERLAY. Everything here is true only in 2026. Every entry carries the source it came from.",
-
   "bayeuxTickets": {
     "headline": "Every ticket for 10 September to 31 December 2026 is sold out. General booking for 1 January to 31 March 2027 opens on 21 October 2026. April to July 2027 opens 'early 2027'.",
     "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
     "verified": "2026-10-17",
     "verifiedNote": "britishmuseum.org returns 403 to curl; read through a proxy on 17 October: 'Next ticket release 21 October 2026'; 'Tickets from 1 January - 31 March 2027 will be available on 21 October 2026'; Sunday to Wednesday 10.00-18.00, Thursday to Saturday 10.00-21.00, Room 30. The sold-out status for 10 September to 31 December comes from the browser read on 7 October (see november-2026.json) and Rob's brief.",
     "decemberEvents": [
-      { "title": "Bayeux Late: reimagining the Bayeux Tapestry", "date": "4 December 2026", "price": "Free", "detail": "Digital art, technology and experimentation inspired by the artistry of 1066, a special evening event.", "source": "https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry", "verified": "2026-10-17" }
+      {
+        "title": "Bayeux Late: reimagining the Bayeux Tapestry",
+        "date": "4 December 2026",
+        "price": "Free",
+        "detail": "Digital art, technology and experimentation inspired by the artistry of 1066, a special evening event.",
+        "source": "https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry",
+        "verified": "2026-10-17"
+      }
     ]
   },
-
   "trafalgarSquareTree": {
     "lit": "Thursday 3 December 2026",
     "source": "https://www.westminster.gov.uk/trafalgar-square-christmas-tree",
     "verified": null,
     "verifiedNote": "Date from Rob's brief and the christmas-in-london guide. Westminster City Council's page returns 403 to curl and no 2026 snapshot exists in the Internet Archive. Time of the ceremony not read."
   },
-
   "carols": {
-    "royalAlbertHall": { "dates": "19 to 24 December 2026, 15 performances", "source": "https://www.royalalberthall.com/tickets/events/2026/carols-at-the-royal-albert-hall", "verified": "2026-10-17" },
+    "royalAlbertHall": {
+      "dates": "19 to 24 December 2026, 15 performances",
+      "source": "https://www.royalalberthall.com/tickets/events/2026/carols-at-the-royal-albert-hall",
+      "verified": "2026-10-17"
+    },
     "otherRahChristmas": [
       "Sir John Rutter's Christmas Celebration, Friday 4 December, 3pm and 7.30pm",
       "Christmas with the Royal Choral Society, Monday 7 December, 2.30pm and 7.30pm",
@@ -68,36 +76,163 @@
       "detail": "Carols by Candlelight, Chapel Royal of St Peter ad Vincula, Thursday 10 December 2026, 7pm to 8pm, tickets £30; arrive at the West Gate from 6.30pm. Christmas at the Tower, a Victorian Christmas trail included in admission, 27 November 2026 to 3 January 2027."
     }
   },
-
   "lightTrails": [
-    { "name": "Christmas at Kew", "runs": "13 November 2026 to 3 January 2027", "detail": "Adults-only evenings on 3 and 9 December. Gardens close 10pm; last entry between 7pm and 8pm, up to an hour earlier on Christmas Eve. Closed on Christmas Day. Adult tickets from £29.50 off-peak and £37 peak.", "source": "https://www.kew.org/kew-gardens/whats-on/christmas", "verified": "2026-10-17", "verifiedNote": "Dates, adults-only evenings and times from Kew's own page. Closed 25 December from Kew's ticket partner, Fever (Fever listing); prices from the christmas-in-london guide (checked 4 October) and agree with the Fever listing's £36 plus £1 fee for a peak date. Sell-out status for individual dates was not read." },
-    { "name": "Chelsea Winter Village & Illuminations", "runs": "25 November to Monday 28 December 2026", "detail": "Gates 4.30pm to 8pm or 8.30pm; trail and village close 10pm; closed Christmas Day. Adults from £19 off-peak to £30.95 at peak.", "source": "https://www.chelseawintervillage.com/", "verified": "2026-10-17", "verifiedNote": "Dates, hours and closure from the organiser's own FAQ. Prices from the christmas-in-london guide, checked 4 October." },
-    { "name": "Winter Palace: The Christmas Beast Ball", "venue": "Hampton Court Palace", "runs": "28 November 2026 to 3 January 2027", "detail": "Included in palace admission; pre-booking required. The Festive Fayre, with over 100 artisan producers, runs 4 to 6 and 11 to 13 December, 10am to 5pm, also included in palace admission. The palace's gardens open free on 26 December, the Wilderness only.", "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/", "verified": "2026-10-17" },
-    { "name": "Victoria's Countryside Christmas", "venue": "Kensington Palace", "runs": "25 November 2026 to 3 January 2027", "detail": "Included in palace admission.", "source": "https://www.hrp.org.uk/kensington-palace/visit/opening-and-closing-times/", "verified": "2026-10-17" },
-    { "name": "Christmas at Chiswick House", "venue": "Chiswick House & Gardens", "runs": "1 November to 24 December 2026", "detail": "Not a light trail in 2026: a Magical Grotto (28 November to 24 December on various dates), markets, a Christmas Carol on 21 and 22 December and an operatic Duchess's Christmas on 12 and 13 December in the House.", "source": "https://chiswickhouseandgardens.org.uk/event/celebrate-christmas-at-chiswick-house-gardens/", "verified": "2026-10-17" }
+    {
+      "name": "Christmas at Kew",
+      "runs": "13 November 2026 to 3 January 2027",
+      "detail": "Adults-only evenings on 3 and 9 December. Gardens close 10pm; last entry between 7pm and 8pm, up to an hour earlier on Christmas Eve. Closed on Christmas Day. Adult tickets from £29.50 off-peak and £37 peak.",
+      "source": "https://www.kew.org/kew-gardens/whats-on/christmas",
+      "verified": "2026-10-17",
+      "verifiedNote": "Dates, adults-only evenings and times from Kew's own page. Closed 25 December from Kew's ticket partner, Fever (Fever listing); prices from the christmas-in-london guide (checked 4 October) and agree with the Fever listing's £36 plus £1 fee for a peak date. Sell-out status for individual dates was not read."
+    },
+    {
+      "name": "Chelsea Winter Village & Illuminations",
+      "runs": "25 November to Monday 28 December 2026",
+      "detail": "Gates 4.30pm to 8pm or 8.30pm; trail and village close 10pm; closed Christmas Day. Adults from £19 off-peak to £30.95 at peak.",
+      "source": "https://www.chelseawintervillage.com/",
+      "verified": "2026-10-17",
+      "verifiedNote": "Dates, hours and closure from the organiser's own FAQ. Prices from the christmas-in-london guide, checked 4 October."
+    },
+    {
+      "name": "Winter Palace: The Christmas Beast Ball",
+      "venue": "Hampton Court Palace",
+      "runs": "28 November 2026 to 3 January 2027",
+      "detail": "Included in palace admission; pre-booking required. The Festive Fayre, with over 100 artisan producers, runs 4 to 6 and 11 to 13 December, 10am to 5pm, also included in palace admission. The palace's gardens open free on 26 December, the Wilderness only.",
+      "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/",
+      "verified": "2026-10-17"
+    },
+    {
+      "name": "Victoria's Countryside Christmas",
+      "venue": "Kensington Palace",
+      "runs": "25 November 2026 to 3 January 2027",
+      "detail": "Included in palace admission.",
+      "source": "https://www.hrp.org.uk/kensington-palace/visit/opening-and-closing-times/",
+      "verified": "2026-10-17"
+    },
+    {
+      "name": "Christmas at Chiswick House",
+      "venue": "Chiswick House & Gardens",
+      "runs": "1 November to 24 December 2026",
+      "detail": "Not a light trail in 2026: a Magical Grotto (28 November to 24 December on various dates), markets, a Christmas Carol on 21 and 22 December and an operatic Duchess's Christmas on 12 and 13 December in the House.",
+      "source": "https://chiswickhouseandgardens.org.uk/event/celebrate-christmas-at-chiswick-house-gardens/",
+      "verified": "2026-10-17"
+    }
   ],
-
   "iceRinks": [
-    { "name": "Festive Skate, Alexandra Palace", "runs": "9 December 2026 to 4 January 2027", "detail": "Beneath a Christmas tree, ages 3 and over; spectators and supervising adults need a spectator ticket. Santa's Grotto 4 to 23 December; Cinderella On Ice 3 to 6 December.", "source": "https://www.alexandrapalace.com/whats-on/festive-skate/", "verified": "2026-10-17" },
-    { "name": "Hampton Court Palace ice rink", "runs": "20 November 2026 to 3 January 2027, excluding Christmas Day", "detail": "First session 10am, last session 8pm; separate ticket.", "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/", "verified": "2026-10-17" }
+    {
+      "name": "Festive Skate, Alexandra Palace",
+      "runs": "9 December 2026 to 4 January 2027",
+      "detail": "Beneath a Christmas tree, ages 3 and over; spectators and supervising adults need a spectator ticket. Santa's Grotto 4 to 23 December; Cinderella On Ice 3 to 6 December.",
+      "source": "https://www.alexandrapalace.com/whats-on/festive-skate/",
+      "verified": "2026-10-17"
+    },
+    {
+      "name": "Hampton Court Palace ice rink",
+      "runs": "20 November 2026 to 3 January 2027, excluding Christmas Day",
+      "detail": "First session 10am, last session 8pm; separate ticket.",
+      "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/",
+      "verified": "2026-10-17"
+    }
   ],
-
   "exhibitionsOpeningInDecember": [],
   "exhibitionsOpenedEarlierAndRunning": [
-    { "title": "Constantinople to Istanbul: One City, Two Empires", "venue": "V&A South Kensington", "opens": "2026-11-07", "price": "£25 weekday, £27 weekend", "source": "https://www.vam.ac.uk/exhibitions/constantinople-to-istanbul-one-city-two-empires", "verified": "2026-10-17", "verifiedNote": "V&A exhibitions page: 'Opens Saturday, 7 November 2026'. Closing date not read." },
-    { "title": "Van Eyck: The Portraits", "venue": "National Gallery", "opens": "2026-11-21", "runs": "21 November 2026 to 11 April 2027", "price": "£18 including an audio guide; under-18s free; members free", "detail": "The first time all of Jan van Eyck's portraits have been shown together.", "source": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits", "verified": "2026-10-17" },
-    { "title": "Peggy Guggenheim in London", "venue": "Royal Academy of Arts", "runs": "21 November 2026 to 14 March 2027", "price": "£17", "source": "https://www.royalacademy.org.uk/exhibitions-and-events", "verified": "2026-10-17" },
-    { "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury", "venue": "Tate Britain", "runs": "12 November 2026 to 11 April 2027", "price": "£20", "source": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant", "verified": "2026-10-07" },
-    { "title": "Nan Goldin: You Never Did Anything Wrong", "venue": "Hayward Gallery", "runs": "24 November 2026 to 14 March 2027", "source": "https://www.southbankcentre.co.uk/venues/hayward-gallery", "verified": "2026-10-07" },
-    { "title": "BEYOND THE STREETS", "venue": "Saatchi Gallery", "runs": "11 November 2026 to 5 May 2027", "price": "from £15", "source": "https://www.saatchigallery.com/exhibition/beyond_the_streets", "verified": "2026-10-07" },
-    { "title": "Es Devlin: Other Worlds", "venue": "Design Museum", "runs": "to 4 April 2027", "detail": "The first European retrospective of her 30-year practice across sculpture, stage design, music, language and light.", "source": "https://designmuseum.org/exhibitions", "verified": "2026-10-17" }
+    {
+      "title": "Constantinople to Istanbul: One City, Two Empires",
+      "venue": "V&A South Kensington",
+      "opens": "2026-11-07",
+      "price": "£25 weekday, £27 weekend",
+      "source": "https://www.vam.ac.uk/exhibitions/constantinople-to-istanbul-one-city-two-empires",
+      "verified": "2026-10-17",
+      "verifiedNote": "V&A exhibitions page: 'Opens Saturday, 7 November 2026'. Closing date not read."
+    },
+    {
+      "title": "Van Eyck: The Portraits",
+      "venue": "National Gallery",
+      "opens": "2026-11-21",
+      "runs": "21 November 2026 to 11 April 2027",
+      "price": "£18 including an audio guide; under-18s free; members free",
+      "detail": "The first time all of Jan van Eyck's portraits have been shown together.",
+      "source": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Peggy Guggenheim in London",
+      "venue": "Royal Academy of Arts",
+      "runs": "21 November 2026 to 14 March 2027",
+      "price": "£17",
+      "source": "https://www.royalacademy.org.uk/exhibitions-and-events",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury",
+      "venue": "Tate Britain",
+      "runs": "12 November 2026 to 11 April 2027",
+      "price": "£20",
+      "source": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+      "verified": "2026-10-07"
+    },
+    {
+      "title": "Nan Goldin: You Never Did Anything Wrong",
+      "venue": "Hayward Gallery",
+      "runs": "24 November 2026 to 14 March 2027",
+      "source": "https://www.southbankcentre.co.uk/venues/hayward-gallery",
+      "verified": "2026-10-07"
+    },
+    {
+      "title": "BEYOND THE STREETS",
+      "venue": "Saatchi Gallery",
+      "runs": "11 November 2026 to 5 May 2027",
+      "price": "from £15",
+      "source": "https://www.saatchigallery.com/exhibition/beyond_the_streets",
+      "verified": "2026-10-07"
+    },
+    {
+      "title": "Es Devlin: Other Worlds",
+      "venue": "Design Museum",
+      "runs": "to 4 April 2027",
+      "detail": "The first European retrospective of her 30-year practice across sculpture, stage design, music, language and light.",
+      "source": "https://designmuseum.org/exhibitions",
+      "verified": "2026-10-17"
+    }
   ],
   "exhibitionsClosing": [
-    { "title": "Frida: The Making of an Icon", "venue": "Tate Modern", "closes": "2027-01-03", "source": "https://www.tate.org.uk/whats-on", "verified": "2026-10-17" },
-    { "title": "The Music is Black: A British Story", "venue": "V&A East Museum", "closes": "2027-01-10", "price": "£22.50 weekday, £24.50 weekend", "source": "https://www.vam.ac.uk/exhibitions", "verified": "2026-10-17" },
-    { "title": "Rising Voices: Contemporary Art from Asia, Australia and the Pacific", "venue": "V&A South Kensington", "closes": "2027-01-10", "price": "£17", "source": "https://www.vam.ac.uk/exhibitions", "verified": "2026-10-17" },
-    { "title": "LAIKA presents Wildwood: The Exhibition", "venue": "Design Museum", "closes": "2027-01-10", "source": "https://designmuseum.org/exhibitions", "verified": "2026-10-17" },
-    { "title": "Renoir and Love", "venue": "National Gallery", "closes": "2027-01-31", "source": "https://www.nationalgallery.org.uk/exhibitions", "verified": "2026-10-17" }
+    {
+      "title": "Frida: The Making of an Icon",
+      "venue": "Tate Modern",
+      "closes": "2027-01-03",
+      "source": "https://www.tate.org.uk/whats-on",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "The Music is Black: A British Story",
+      "venue": "V&A East Museum",
+      "closes": "2027-01-10",
+      "price": "£22.50 weekday, £24.50 weekend",
+      "source": "https://www.vam.ac.uk/exhibitions",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Rising Voices: Contemporary Art from Asia, Australia and the Pacific",
+      "venue": "V&A South Kensington",
+      "closes": "2027-01-10",
+      "price": "£17",
+      "source": "https://www.vam.ac.uk/exhibitions",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "LAIKA presents Wildwood: The Exhibition",
+      "venue": "Design Museum",
+      "closes": "2027-01-10",
+      "source": "https://designmuseum.org/exhibitions",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Renoir and Love",
+      "venue": "National Gallery",
+      "closes": "2027-01-31",
+      "source": "https://www.nationalgallery.org.uk/exhibitions",
+      "verified": "2026-10-17"
+    }
   ],
   "londonMuseumSmithfield": {
     "opens": "Saturday 28 November 2026",
@@ -106,23 +241,91 @@
     "verified": "2026-10-17"
   },
   "royalObservatory": {
-    "detail": "The whole Royal Observatory site closes long-term from 2 November 2026 for the First Light transformation project; the Time and Society Gallery is also closed 22 and 23 October.",
+    "detail": "The whole Royal Observatory site closes from 2 November 2026 for the First Light transformation project (rmg.co.uk/royal-observatory/transformation: the rest of the site is open until 2 November, then closes temporarily; Flamsteed House, the Prime Meridian line and the Meridian Courtyard are all on the closed site). The Meridian Courtyard reopens in summer 2027, with tickets on sale in January; the work is due to finish by spring 2028. The Peter Harrison Planetarium has been closed since 8 September 2025; Astronomers Take Over at the National Maritime Museum is the replacement. The Time and Society Gallery is also closed 22 and 23 October.",
     "source": "https://www.rmg.co.uk/royal-observatory/plan-your-visit/closures",
     "verified": "2026-10-17"
   },
-
   "theatreOpening": [
-    { "title": "Cinderella (Matthew Bourne's New Adventures)", "venue": "Sadler's Wells", "opens": "2026-12-01", "runs": "1 December 2026 to 17 January 2027", "source": "https://www.sadlerswells.com/whats-on/matthew-bournes-new-adventures-cinderella/", "verified": "2026-10-04", "verifiedNote": "From the christmas-shows-london guide, checked against the venue between 22 September and 4 October." },
-    { "title": "The Nutcracker", "venue": "Royal Opera House (the Royal Ballet)", "opens": "2026-12-03", "runs": "3 December 2026 to 13 January 2027", "price": "£10 to £238", "detail": "Peter Wright's production; about 2 hours 20 minutes with one interval; ages 5 and over.", "source": "https://www.rbo.org.uk/tickets-and-events/the-nutcracker-peter-wright-details", "verified": "2026-10-17" },
-    { "title": "Cinderella (pantomime)", "venue": "London Palladium", "opens": "2026-12-05", "runs": "5 December 2026 to 10 January 2027", "price": "from £25, no fees", "detail": "Dawn French and Jennifer Saunders as the Ugly Sisters; not tailored to young children, nobody under four admitted.", "source": "https://lwtheatres.co.uk/whats-on/cinderella/", "verified": "2026-10-17" },
-    { "title": "Jack and the Beanstalk", "venue": "Hackney Empire", "runs": "21 November to 31 December 2026", "source": "https://hackneyempire.co.uk/", "verified": "2026-10-17" },
-    { "title": "Cirque Alice", "venue": "Royal Festival Hall", "opens": "2026-12-12", "runs": "12 December 2026 to 3 January 2027", "source": "https://www.southbankcentre.co.uk/whats-on/cirque-alice/", "verified": "2026-10-04", "verifiedNote": "From the christmas-shows-london guide." },
-    { "title": "Nutcracker (English National Ballet)", "venue": "London Coliseum", "opens": "2026-12-17", "runs": "17 December 2026 to 10 January 2027", "price": "from £27.25 including fees; under-16s 25% off", "source": "https://londoncoliseum.org/events/nutcracker-2026/", "verified": "2026-10-17" },
-    { "title": "Christmas Carol Goes Wrong", "venue": "Wyndham's Theatre", "opens": "2026-12-18", "runs": "18 December 2026 to 23 January 2027", "price": "from £15", "source": "https://www.ticketmaster.co.uk/christmas-carol-goes-wrong-london-18-12-2026/event/Zor9uZKbZL4ZefkGjZd", "verified": "2026-10-04", "verifiedNote": "From the christmas-shows-london guide." },
-    { "title": "Carols at the Royal Albert Hall", "venue": "Royal Albert Hall", "opens": "2026-12-19", "runs": "19 to 24 December 2026", "source": "https://www.royalalberthall.com/tickets/events/2026/carols-at-the-royal-albert-hall", "verified": "2026-10-17" }
+    {
+      "title": "Cinderella (Matthew Bourne's New Adventures)",
+      "venue": "Sadler's Wells",
+      "opens": "2026-12-01",
+      "runs": "1 December 2026 to 17 January 2027",
+      "source": "https://www.sadlerswells.com/whats-on/matthew-bournes-new-adventures-cinderella/",
+      "verified": "2026-10-04",
+      "verifiedNote": "From the christmas-shows-london guide, checked against the venue between 22 September and 4 October."
+    },
+    {
+      "title": "The Nutcracker",
+      "venue": "Royal Opera House (the Royal Ballet)",
+      "opens": "2026-12-03",
+      "runs": "3 December 2026 to 13 January 2027",
+      "price": "£10 to £238",
+      "detail": "Peter Wright's production; about 2 hours 20 minutes with one interval; ages 5 and over.",
+      "source": "https://www.rbo.org.uk/tickets-and-events/the-nutcracker-peter-wright-details",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Cinderella (pantomime)",
+      "venue": "London Palladium",
+      "opens": "2026-12-05",
+      "runs": "5 December 2026 to 10 January 2027",
+      "price": "from £25, no fees",
+      "detail": "Dawn French and Jennifer Saunders as the Ugly Sisters; not tailored to young children, nobody under four admitted.",
+      "source": "https://lwtheatres.co.uk/whats-on/cinderella/",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Jack and the Beanstalk",
+      "venue": "Hackney Empire",
+      "runs": "21 November to 31 December 2026",
+      "source": "https://hackneyempire.co.uk/",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Cirque Alice",
+      "venue": "Royal Festival Hall",
+      "opens": "2026-12-12",
+      "runs": "12 December 2026 to 3 January 2027",
+      "source": "https://www.southbankcentre.co.uk/whats-on/cirque-alice/",
+      "verified": "2026-10-04",
+      "verifiedNote": "From the christmas-shows-london guide."
+    },
+    {
+      "title": "Nutcracker (English National Ballet)",
+      "venue": "London Coliseum",
+      "opens": "2026-12-17",
+      "runs": "17 December 2026 to 10 January 2027",
+      "price": "from £27.25 including fees; under-16s 25% off",
+      "source": "https://londoncoliseum.org/events/nutcracker-2026/",
+      "verified": "2026-10-17"
+    },
+    {
+      "title": "Christmas Carol Goes Wrong",
+      "venue": "Wyndham's Theatre",
+      "opens": "2026-12-18",
+      "runs": "18 December 2026 to 23 January 2027",
+      "price": "from £15",
+      "source": "https://www.ticketmaster.co.uk/christmas-carol-goes-wrong-london-18-12-2026/event/Zor9uZKbZL4ZefkGjZd",
+      "verified": "2026-10-04",
+      "verifiedNote": "From the christmas-shows-london guide."
+    },
+    {
+      "title": "Carols at the Royal Albert Hall",
+      "venue": "Royal Albert Hall",
+      "opens": "2026-12-19",
+      "runs": "19 to 24 December 2026",
+      "source": "https://www.royalalberthall.com/tickets/events/2026/carols-at-the-royal-albert-hall",
+      "verified": "2026-10-17"
+    }
   ],
   "theatreClosing": [
-    { "title": "Tosca", "venue": "London Coliseum", "lastPerformance": "2026-12-11", "note": "From the November overlay: opened 30 October." }
+    {
+      "title": "Tosca",
+      "venue": "London Coliseum",
+      "lastPerformance": "2026-12-11",
+      "note": "From the November overlay: opened 30 October."
+    }
   ],
   "theatreSource": {
     "url": "https://officiallondontheatre.com/theatre-tickets/",
@@ -130,35 +333,141 @@
     "verified": "2026-10-17",
     "caveat": "An end date on the listing can be a booking horizon. Only entries with a producer or theatre page confirming the dates are in the article."
   },
-
   "sport": {
     "note": "Premier League dates and times are the League's own fixtures feed on 17 October 2026. Times can change when broadcasters pick games.",
     "premierLeagueLondon": [
-      { "date": "2026-12-02", "match": "Spurs v Fulham", "venue": "Tottenham Hotspur Stadium", "kickOff": "20:00" },
-      { "date": "2026-12-02", "match": "Chelsea v Crystal Palace", "venue": "Stamford Bridge", "kickOff": "20:00" },
-      { "date": "2026-12-02", "match": "Brentford v Arsenal", "venue": "Gtech Community Stadium", "kickOff": "20:00" },
-      { "date": "2026-12-05", "match": "Spurs v Arsenal", "venue": "Tottenham Hotspur Stadium", "kickOff": "15:00", "note": "The North London derby." },
-      { "date": "2026-12-05", "match": "Chelsea v Liverpool", "venue": "Stamford Bridge", "kickOff": "15:00" },
-      { "date": "2026-12-05", "match": "Brentford v Man City", "venue": "Gtech Community Stadium", "kickOff": "15:00" },
-      { "date": "2026-12-12", "match": "Arsenal v Bournemouth", "venue": "Emirates Stadium", "kickOff": "15:00" },
-      { "date": "2026-12-12", "match": "Crystal Palace v Man Utd", "venue": "Selhurst Park", "kickOff": "15:00" },
-      { "date": "2026-12-12", "match": "Fulham v Brentford", "venue": "Craven Cottage", "kickOff": "15:00" },
-      { "date": "2026-12-19", "match": "Arsenal v Man Utd", "venue": "Emirates Stadium", "kickOff": "15:00" },
-      { "date": "2026-12-19", "match": "Brentford v Newcastle", "venue": "Gtech Community Stadium", "kickOff": "15:00" },
-      { "date": "2026-12-19", "match": "Chelsea v Aston Villa", "venue": "Stamford Bridge", "kickOff": "15:00" },
-      { "date": "2026-12-26", "match": "Fulham v Brighton", "venue": "Craven Cottage", "kickOff": "15:00", "note": "Boxing Day." },
-      { "date": "2026-12-26", "match": "Spurs v Bournemouth", "venue": "Tottenham Hotspur Stadium", "kickOff": "15:00", "note": "Boxing Day." },
-      { "date": "2026-12-27", "match": "Crystal Palace v Arsenal", "venue": "Selhurst Park", "kickOff": "19:00" },
-      { "date": "2026-12-29", "match": "Spurs v Brighton", "venue": "Tottenham Hotspur Stadium", "kickOff": "19:30" },
-      { "date": "2026-12-30", "match": "Crystal Palace v Bournemouth", "venue": "Selhurst Park", "kickOff": "19:30" },
-      { "date": "2026-12-30", "match": "Fulham v Arsenal", "venue": "Craven Cottage", "kickOff": "19:30" }
+      {
+        "date": "2026-12-02",
+        "match": "Spurs v Fulham",
+        "venue": "Tottenham Hotspur Stadium",
+        "kickOff": "20:00"
+      },
+      {
+        "date": "2026-12-02",
+        "match": "Chelsea v Crystal Palace",
+        "venue": "Stamford Bridge",
+        "kickOff": "20:00"
+      },
+      {
+        "date": "2026-12-02",
+        "match": "Brentford v Arsenal",
+        "venue": "Gtech Community Stadium",
+        "kickOff": "20:00"
+      },
+      {
+        "date": "2026-12-05",
+        "match": "Spurs v Arsenal",
+        "venue": "Tottenham Hotspur Stadium",
+        "kickOff": "15:00",
+        "note": "The North London derby."
+      },
+      {
+        "date": "2026-12-05",
+        "match": "Chelsea v Liverpool",
+        "venue": "Stamford Bridge",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-05",
+        "match": "Brentford v Man City",
+        "venue": "Gtech Community Stadium",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-12",
+        "match": "Arsenal v Bournemouth",
+        "venue": "Emirates Stadium",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-12",
+        "match": "Crystal Palace v Man Utd",
+        "venue": "Selhurst Park",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-12",
+        "match": "Fulham v Brentford",
+        "venue": "Craven Cottage",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-19",
+        "match": "Arsenal v Man Utd",
+        "venue": "Emirates Stadium",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-19",
+        "match": "Brentford v Newcastle",
+        "venue": "Gtech Community Stadium",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-19",
+        "match": "Chelsea v Aston Villa",
+        "venue": "Stamford Bridge",
+        "kickOff": "15:00"
+      },
+      {
+        "date": "2026-12-26",
+        "match": "Fulham v Brighton",
+        "venue": "Craven Cottage",
+        "kickOff": "15:00",
+        "note": "Boxing Day."
+      },
+      {
+        "date": "2026-12-26",
+        "match": "Spurs v Bournemouth",
+        "venue": "Tottenham Hotspur Stadium",
+        "kickOff": "15:00",
+        "note": "Boxing Day."
+      },
+      {
+        "date": "2026-12-27",
+        "match": "Crystal Palace v Arsenal",
+        "venue": "Selhurst Park",
+        "kickOff": "19:00"
+      },
+      {
+        "date": "2026-12-29",
+        "match": "Spurs v Brighton",
+        "venue": "Tottenham Hotspur Stadium",
+        "kickOff": "19:30"
+      },
+      {
+        "date": "2026-12-30",
+        "match": "Crystal Palace v Bournemouth",
+        "venue": "Selhurst Park",
+        "kickOff": "19:30"
+      },
+      {
+        "date": "2026-12-30",
+        "match": "Fulham v Arsenal",
+        "venue": "Craven Cottage",
+        "kickOff": "19:30"
+      }
     ],
     "premierLeagueSource": "https://www.premierleague.com/en/matches",
     "londonClubs2026-27": "Arsenal, Brentford, Chelsea, Crystal Palace, Fulham and Spurs. West Ham are not in the 2026/27 Premier League.",
-    "darts": { "name": "PDC World Darts Championship", "venue": "Alexandra Palace, Great Hall", "dates": "11 December 2026 to 3 January 2027", "detail": "Moves into the Great Hall for the first time, with a record 180,000 tickets; allocated by ballot (closed); resale only through See Tickets Fan-to-Fan.", "official": "https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/", "verified": "2026-10-17" },
-    "swim": { "name": "Christmas Day race for the Peter Pan Cup", "venue": "Serpentine, Hyde Park", "date": "2026-12-25", "time": "9am", "official": "https://serpentineswimmingclub.com/christmas-day-race-and-peter-pan-cup", "verified": "2026-10-17", "note": "Club page's logistics are those of the 2025 race; the club states the race starts at 9am promptly. Entry is for members with a handicap." }
+    "darts": {
+      "name": "PDC World Darts Championship",
+      "venue": "Alexandra Palace, Great Hall",
+      "dates": "11 December 2026 to 3 January 2027",
+      "detail": "Moves into the Great Hall for the first time, with a record 180,000 tickets; allocated by ballot (closed); resale only through See Tickets Fan-to-Fan.",
+      "official": "https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/",
+      "verified": "2026-10-17"
+    },
+    "swim": {
+      "name": "Christmas Day race for the Peter Pan Cup",
+      "venue": "Serpentine, Hyde Park",
+      "date": "2026-12-25",
+      "time": "9am",
+      "official": "https://serpentineswimmingclub.com/christmas-day-race-and-peter-pan-cup",
+      "verified": "2026-10-17",
+      "note": "Club page's logistics are those of the 2025 race; the club states the race starts at 9am promptly. Entry is for members with a handicap."
+    }
   },
-
   "transport": {
     "tfl2025Plan": {
       "source": "https://tfl.gov.uk/info-for/media/press-releases/2025/december/majority-of-tfl-services-running-over-christmas-and-new-year",
@@ -174,36 +483,100 @@
       "detail": "As usual, trains will not run on most routes in England on Christmas Day and Boxing Day. London Paddington is closed from Christmas Day for Dolphin Junction and other work in the Thames Valley; services return from New Year's Eve with the Elizabeth line and Heathrow Express resuming to and from Paddington; Great Western Railway cannot use Paddington until Monday 4 January, so long-distance GWR services start and finish at Reading and some divert to Euston. The Great Eastern Main Line is closed for 10 days from Christmas Day for track renewal at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area until the early hours of Monday 4 January (Liverpool Street side). The railway through Redhill is closed from 20 December to the early hours of Monday 4 January, with buses replacing trains between Reigate, Earlswood and Purley; Brighton and Gatwick Airport services run. National Rail's engineering calendar: https://www.nationalrail.co.uk/engineering-works/."
     }
   },
-
   "closures": {
     "decemberClosuresVerified": [
-      { "what": "Natural History Museum", "closed": "24 to 26 December", "source": "https://www.nhm.ac.uk/visit.html", "verified": "2026-10-17" },
-      { "what": "Science Museum", "closed": "24 to 26 December", "source": "https://www.sciencemuseum.org.uk/visit", "verified": "2026-10-17" },
-      { "what": "V&A South Kensington", "closed": "24 to 26 December", "source": "https://www.vam.ac.uk/south-kensington/visit", "verified": "2026-10-17" },
-      { "what": "Young V&A", "closed": "24 to 26 December", "source": "https://www.vam.ac.uk/young/visit", "verified": "2026-10-17" },
-      { "what": "Wallace Collection", "closed": "24, 25 and 26 December", "source": "https://www.wallacecollection.org/visit/", "verified": "2026-10-17" },
-      { "what": "National Gallery", "closed": "24 to 26 December and 1 January", "source": "https://www.nationalgallery.org.uk/visiting/plan-your-visit", "verified": "2026-10-17" },
-      { "what": "British Museum", "closed": "24, 25 and 26 December", "source": "https://www.britishmuseum.org/", "verified": "2026-10-04", "verifiedNote": "From the site's british-museum-guide; the museum's own pages return 403 to curl." },
-      { "what": "Hyde Park Winter Wonderland", "closed": "25 December", "source": "https://hydeparkwinterwonderland.com/tickets-guide/", "verified": "2026-10-17" },
-      { "what": "Chelsea Winter Village & Illuminations", "closed": "25 December", "source": "https://www.chelseawintervillage.com/", "verified": "2026-10-17" },
-      { "what": "Hampton Court Palace ice rink", "closed": "25 December", "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/", "verified": "2026-10-17" },
-      { "what": "Somerset House ice rink", "closed": "25 December", "source": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house", "verified": "2026-10-04", "verifiedNote": "From the ice-skating-london guide." },
-      { "what": "Christmas at Kew", "closed": "25 December", "source": "https://www.kew.org/kew-gardens/whats-on/christmas", "verified": "2026-10-17", "verifiedNote": "Ticket partner Fever's listing." },
-      { "what": "Royal Observatory, Greenwich", "closed": "the whole of December (closed from 2 November 2026)", "source": "https://www.rmg.co.uk/royal-observatory/plan-your-visit/closures", "verified": "2026-10-17" }
+      {
+        "what": "Natural History Museum",
+        "closed": "24 to 26 December",
+        "source": "https://www.nhm.ac.uk/visit.html",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "Science Museum",
+        "closed": "24 to 26 December",
+        "source": "https://www.sciencemuseum.org.uk/visit",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "V&A South Kensington",
+        "closed": "24 to 26 December",
+        "source": "https://www.vam.ac.uk/south-kensington/visit",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "Young V&A",
+        "closed": "24 to 26 December",
+        "source": "https://www.vam.ac.uk/young/visit",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "Wallace Collection",
+        "closed": "24, 25 and 26 December",
+        "source": "https://www.wallacecollection.org/visit/",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "National Gallery",
+        "closed": "24 to 26 December and 1 January",
+        "source": "https://www.nationalgallery.org.uk/visiting/plan-your-visit",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "British Museum",
+        "closed": "24, 25 and 26 December",
+        "source": "https://www.britishmuseum.org/",
+        "verified": "2026-10-04",
+        "verifiedNote": "From the site's british-museum-guide; the museum's own pages return 403 to curl."
+      },
+      {
+        "what": "Hyde Park Winter Wonderland",
+        "closed": "25 December",
+        "source": "https://hydeparkwinterwonderland.com/tickets-guide/",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "Chelsea Winter Village & Illuminations",
+        "closed": "25 December",
+        "source": "https://www.chelseawintervillage.com/",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "Hampton Court Palace ice rink",
+        "closed": "25 December",
+        "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/",
+        "verified": "2026-10-17"
+      },
+      {
+        "what": "Somerset House ice rink",
+        "closed": "25 December",
+        "source": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house",
+        "verified": "2026-10-04",
+        "verifiedNote": "From the ice-skating-london guide."
+      },
+      {
+        "what": "Christmas at Kew",
+        "closed": "25 December",
+        "source": "https://www.kew.org/kew-gardens/whats-on/christmas",
+        "verified": "2026-10-17",
+        "verifiedNote": "Ticket partner Fever's listing."
+      },
+      {
+        "what": "Royal Observatory, Greenwich",
+        "closed": "the whole of December (closed from 2 November 2026)",
+        "source": "https://www.rmg.co.uk/royal-observatory/plan-your-visit/closures",
+        "verified": "2026-10-17"
+      }
     ]
   },
-
   "newYearsEve": {
     "source": "https://www.london.gov.uk/events/london-new-years-eve-2026",
     "verified": "2026-10-17",
     "detail": "Thursday 31 December, 8pm to 12.30am. First batch of tickets on sale at 12 noon on Friday 23 October; a second batch date to follow. Category A (Blue, Pink, White) £55, £35 for Londoners; Category B (Red, Green, Orange) £40, £20 for Londoners; up to four tickets; Ticketmaster only; prices unchanged from last year."
   },
-
   "restaurantCandidatesNotConfirmed": {
     "note": "Not researched for December. Restaurant openings and Christmas menus are in the dedicated Christmas guides.",
     "items": []
   },
-
   "gaps": [
     "Trafalgar Square tree lighting 3 December - Westminster City Council's page returns 403 to curl and no organiser text for 2026 was read; the date is from Rob's brief and two existing guides. Ceremony time and the carol-singing rota not read.",
     "TfL's 2026 Christmas and Boxing Day plan - not published (tfl.gov.uk/christmas-travel redirected to the major-works page on 17 October); the 2025 plan came out on 2 December.",
@@ -217,9 +590,8 @@
     "Premier League times for 5, 12, 19 December and the Boxing Day round could move when broadcasters pick games; recheck when the League announces its selections."
   ],
   "flagsForHuman": [
-    "Royal Observatory Greenwich is closed from 2 November 2026 (the whole site, First Light project). Check the Greenwich guides and any walk that lists it as open.",
-    "The Network Rail release of 14 October says Paddington is closed from Christmas Day and GWR cannot use it until 4 January. Check Heathrow, Windsor, Reading and Oxford day-trip pages for Christmas week.",
-    "The New Year's Eve guide still said ticket dates were unannounced; City Hall now gives noon on Friday 23 October for the first batch."
+    "The New Year's Eve guide still said ticket dates were unannounced; City Hall now gives noon on Friday 23 October for the first batch.",
+    "The Sheet-fed activity cards for the Royal Observatory and the Peter Harrison Planetarium now say closed in src/data/activities.json and scripts/write-activities.mjs, but the Activities tab in the Google Sheet has not been rewritten; do that before the next export or the old text returns."
   ],
   "lessonsForNextMonth": [
     "r.jina.ai reads britishmuseum.org, kew.org, westminster-abbey.org and royalalberthall.com when curl is blocked; the Westminster City Council site, nationalrail pages and tfl.gov.uk/christmas-travel have nothing for the year yet.",

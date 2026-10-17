@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Pontoon_Dock_DLR_stati
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-14
-updatedAt: 2026-10-07
+updatedAt: 2026-10-17
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -141,7 +141,7 @@ Stratford is the Jubilee's eastern terminus, three stops and seven to nine minut
 
 ### Greenwich town: the historic base, and bus only
 
-There is no train between Greenwich and North Greenwich. The **188** and **129** buses take 11 to 25 minutes, 22 to 42 minutes door to door, and the 188 runs 24 hours a day, so a late finish never strands you. What you get for the slower trip is the Cutty Sark, the Royal Observatory and the park on your doorstep; see our [Greenwich area guide](/articles/greenwich-area-guide/), and our guide to [where to stay in Greenwich](/articles/where-to-stay-greenwich/) for the rest of the town's hotels.
+There is no train between Greenwich and North Greenwich. The **188** and **129** buses take 11 to 25 minutes, 22 to 42 minutes door to door, and the 188 runs 24 hours a day, so a late finish never strands you. What you get for the slower trip is the Cutty Sark, the Old Royal Naval College and the park on your doorstep (the Royal Observatory is closed from 2 November 2026); see our [Greenwich area guide](/articles/greenwich-area-guide/), and our guide to [where to stay in Greenwich](/articles/where-to-stay-greenwich/) for the rest of the town's hotels.
 
 **[DoubleTree by Hilton London Greenwich](hotel:doubletree-greenwich)** is about **£160**, by Deptford Bridge DLR at SE10 8FR, fifteen minutes' walk from the Cutty Sark, the Old Royal Naval College and the National Maritime Museum. The 129 stop on Greenwich South Street is eight minutes away; allow 30 to 40 minutes to The O2.
 

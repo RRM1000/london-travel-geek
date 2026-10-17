@@ -3,7 +3,7 @@ title: "Heathrow Airport to London: Every Transport Option Compared"
 seoTitle: "Heathrow to London: Tube from £4, Elizabeth Line £15.50"
 description: "The Piccadilly line is the cheapest way in at £4–£5.90 and runs straight to South Kensington, the West End and King's Cross. The Elizabeth line costs £15.50 and is faster. Heathrow Express only reaches Paddington."
 publishedAt: 2026-08-04
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -38,6 +38,8 @@ The fastest train out of Heathrow is not necessarily the fastest route to your h
 > - **Best on a Budget:** Take the **Piccadilly line** (cheapest at £4.00–£5.90, direct to South Kensington, West End & Kings Cross).  
 > - **Best for Paddington & Advance Deals:** Take the **Heathrow Express** (15 mins non-stop to Paddington, best if pre-booked for £10).  
 > - **Best for Groups & Heavy Bags:** Pre-book a private transfer or take a licensed London Black Cab.
+
+> ⚠️ **No Elizabeth line or Heathrow Express trains run to or from Heathrow from Sunday 27 to Wednesday 30 December 2026, or on Saturday 28 and Sunday 29 November.** The Piccadilly line is the only rail link between central London and the airport on those dates. Both services resume on Thursday 31 December, and Paddington is closed to Great Western trains until Monday 4 January for the Dolphin Junction upgrade ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail, 14 October 2026](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
 > 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
 

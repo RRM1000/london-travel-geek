@@ -3,7 +3,7 @@ title: "Southend Airport to London: Every Transport Option Compared"
 seoTitle: "Southend Airport to London: Liverpool St in 53 Minutes"
 description: "Greater Anglia runs every 20 minutes to Stratford in 46 minutes and Liverpool Street in 53, and takes contactless. The fares, the buses, what a taxi costs, and which part of London each route suits."
 publishedAt: 2026-07-31
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -28,6 +28,8 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 > - **Fastest & Best Option:** **Greater Anglia Rail**. Direct trains run every 20 minutes to **Stratford** (46 mins) and **London Liverpool Street** (53 mins).  
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay are accepted at Southend Airport station, but **Oyster cards are not valid**.  
 > - **Smart Interchange Tip:** Change at **Stratford** for the Elizabeth line to reach Paddington, Farringdon or Canary Wharf faster than staying on the train to Liverpool Street.
+
+> ⚠️ **The Great Eastern Main Line is closed for 10 days from Christmas Day 2026** for track renewal at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area until the early hours of Monday 4 January ([Network Rail, 14 October 2026](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)). Southend Airport's Greater Anglia trains to Liverpool Street use that line, so check Greater Anglia's journey planner for those dates.
 
 > 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
 

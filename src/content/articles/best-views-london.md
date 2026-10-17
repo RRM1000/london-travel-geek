@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB062_R
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-26
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -27,7 +27,7 @@ faq:
   - q: "What is the London View Management Framework?"
     a: "The Greater London Authority protects a set of specific views by law, each with an official assessment point — a precise spot with a bearing and a target landmark. Buildings cannot be put up in the way. There are 27 designated views in total: six London Panoramas, three Linear Views, 13 River Prospects and five Townscape Views. Parliament Hill, Primrose Hill, Alexandra Palace, Greenwich Park, Blackheath Point and King Henry VIII's Mound are all protected panoramas, which is why they have not been built out."
   - q: "Can I see London for free instead of paying?"
-    a: "Usually, yes. The famous Greenwich view is free and outside the paid Observatory. St Paul's is free to look at from One New Change and £27 to climb. And a drink at Aqua Shard on level 31 costs less than a Shard ticket in the same building."
+    a: "Usually, yes. The famous Greenwich view is free and outside the Royal Observatory, which is closed from 2 November 2026. St Paul's is free to look at from One New Change and £27 to climb. And a drink at Aqua Shard on level 31 costs less than a Shard ticket in the same building."
 ---
 
 The best view in London is free, and it is higher than the one you pay for.
@@ -363,7 +363,7 @@ The 94-metre figure and the specific landmark list are not published by Alexandr
 
 The classic Greenwich composition down through the Old Royal Naval College to the Queen's House, with St Paul's and Tower Bridge beyond and The Monument just to the right of the bridge. Royal Parks puts the free panorama specifically **at the top of the Grand Ascent**, behind the Wolfe statue.
 
-> ⚠️ **This view is free and outside the ticketed Observatory.** The designated viewpoint is the terrace by the General Wolfe statue, on the public path. Do not pay **£24** for the panorama — pay for the Meridian and the astronomy if you want those. The Observatory runs 10am to 6pm, last entry 5pm.
+> ⚠️ **This view is free and outside the Observatory.** The designated viewpoint is the terrace by the General Wolfe statue, on the public path. Do not pay for the panorama. The Royal Observatory is **closed from 2 November 2026** for the First Light refurbishment, and Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January.
 
 **The park is not open all night.** Pedestrian gates open at 6am, vehicle gates at 7am, and both close at dusk, which in December means the hill is shut by mid-afternoon. Check the day's closing time rather than assuming a park is a park.
 

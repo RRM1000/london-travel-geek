@@ -5,7 +5,7 @@ description: "Six operators sell London rooms with no window at all, and all twe
 heroImage: "../../assets/articles/windowless-hotel-rooms-london/zedwell-cocoon-room.jpg"
 heroImageAlt: "A Zedwell cocoon room with a bed on a lit wooden plinth, a full-length mirror, hooks and a private door"
 publishedAt: 2026-07-07
-updatedAt: 2026-10-07
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -147,7 +147,7 @@ The steadiest price in the group, and the only Zedwell where a February midweek 
 
 **Everything ancillary is cheaper here too.** Early check-in is **£25 rather than £60**, from noon it is £15 against £40, and a late check-out to 2pm is £50 against £80. On a two-night stay with an evening flight, that difference alone is most of a third night.
 
-You are by the river for the Cutty Sark, the Royal Observatory and the O2, and the trade is Zone 1 for about a third off. There is no free beauty or ironing room here, unlike the two West End sites — a hairdryer or iron is £10 delivered.
+You are by the river for the Cutty Sark, Greenwich Park and the O2 (the Royal Observatory is closed from 2 November 2026), and the trade is Zone 1 for about a third off. There is no free beauty or ironing room here, unlike the two West End sites — a hairdryer or iron is £10 delivered.
 
 ### Zedwell Piccadilly Circus — the address, or the group
 

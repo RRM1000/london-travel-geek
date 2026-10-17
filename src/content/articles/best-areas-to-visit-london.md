@@ -3,7 +3,7 @@ title: "Exploring London's Best Neighbourhoods: A Visitor's Guide"
 seoTitle: "Best Neighbourhoods to Visit in London: Exploring Guide"
 description: "London's neighbourhoods compared: what each is like, its top highlight and nearest station, grouped by first visit, longer trip and off the usual route."
 publishedAt: 2026-08-13
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites:
   - london
 canonicalSite: london
@@ -60,7 +60,7 @@ Once the essentials are done, these reward a second or third visit. Still centra
 | **[King's Cross](/articles/kings-cross-area-guide/)** | Rebuilt railway quarter, modern and open | Coal Drops Yard | Canal walks, design, Eurostar | King's Cross St Pancras |
 | **[Notting Hill](/articles/notting-hill-area-guide/)** | Bohemian pastel terraces and antique markets | Portobello Road Market | Antiques, vintage, photography | Notting Hill Gate |
 | **[Shoreditch](/articles/shoreditch-area-guide/)** | Warehouses, painted walls and markets | Brick Lane & Spitalfields | Street art, markets, vintage | Shoreditch High Street |
-| **[Greenwich](/articles/greenwich-area-guide/)** | Maritime village with a hill and a park | Royal Observatory & Cutty Sark | Maritime history, views, river trips | Cutty Sark (DLR) |
+| **[Greenwich](/articles/greenwich-area-guide/)** | Maritime village with a hill and a park | Cutty Sark & Painted Hall (Royal Observatory closed from 2 November 2026) | Maritime history, views, river trips | Cutty Sark (DLR) |
 | **[Camden](/articles/camden-area-guide/)** | Loud, crowded and unapologetically itself | Camden Lock Market | Markets, street food, live music | Camden Town / Chalk Farm |
 | **[Kensington](/articles/kensington-area-guide/)** | Palace, parkland and stucco terraces | Kensington Palace & the Kyoto Garden | Gardens, palaces, quiet walks | High Street Kensington |
 | **[Mayfair](/articles/mayfair-area-guide/)** | Georgian grid, arcades and art dealers | Burlington Arcade & the Royal Academy | Galleries, architecture, browsing | Green Park / Bond Street |
