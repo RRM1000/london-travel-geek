@@ -252,6 +252,7 @@ The British Museum sits in Bloomsbury, so the garden squares, Lamb's Conduit Str
 - ♿ **[Step-Free London](/articles/step-free-london/)** — the British Museum's lifts and entrances alongside the other big sights.
 - 🌧️ **[London in the Rain](/articles/london-in-the-rain/)** — the museum as an all-day indoor plan.
 - 🍂 **[Things to Do in London in October](/articles/things-to-do-in-london-in-october/)** — the Bayeux events and what else is on in October 2026.
+- 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — Bayeux Late on 4 December and the Christmas closures.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — where the museum fits into a Zone 1 plan.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** and **[Westminster Abbey Guide](/articles/westminster-abbey-guide/)** — the two historic sights most visitors pair with it.
 

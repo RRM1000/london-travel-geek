@@ -199,6 +199,7 @@ The palace has cafés inside the gate for a coffee or lunch break, and picnics a
 - 🏛️ **[London's Historic Houses and Churches](/articles/historic-houses-london/)** — 17 more palaces, house museums and chapels to visit.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** — Historic Royal Palaces' other big ticket, in Zone 1.
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — every light trail, market and ice rink, Hampton Court included.
+- 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — the Winter Palace and Festive Fayre dates against the rest of the month.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — piers, fares and which routes run in winter.
 
 ---

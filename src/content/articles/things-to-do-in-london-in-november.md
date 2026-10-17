@@ -190,6 +190,6 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 ## Looking ahead to December
 
-The Trafalgar Square Christmas tree is lit on **3 December**, and the British Museum's free **Bayeux Late: reimagining the Bayeux Tapestry** is on **4 December**. For the rest of the Christmas run see [Christmas in London](/articles/christmas-in-london/), and for New Year, [New Year's Eve in London](/articles/new-years-eve-london/).
+The Trafalgar Square Christmas tree is lit on **3 December**, and the British Museum's free **Bayeux Late: reimagining the Bayeux Tapestry** is on **4 December**. Our [December guide](/articles/things-to-do-in-london-in-december/) has the carols, pantos, Christmas Day closures and Boxing Day football. For the rest of the Christmas run see [Christmas in London](/articles/christmas-in-london/), and for New Year, [New Year's Eve in London](/articles/new-years-eve-london/).
 
 <div data-submit-event></div>

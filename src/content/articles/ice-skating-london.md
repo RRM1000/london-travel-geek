@@ -34,7 +34,7 @@ London's outdoor rinks go up in the first three weeks of November and come down 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
 ## The rinks at a glance
 
@@ -45,7 +45,7 @@ London's outdoor rinks go up in the first three weeks of November and come down 
 | **Glide, Battersea Power Station** | Battersea, SW11 | 6 Nov – 3 Jan | Adult, child, family and student tickets | Sold out online means sold out on the door |
 | **The Queen's House** | Greenwich, SE10 | 18 Nov – 3 Jan | Early bird £15.12–£24.19 with booking fee | Discounts only on set weekday sessions |
 | **Winter Wonderland** | Hyde Park, W2 | 19 Nov – 3 Jan | £12.65–£19.25 | A separate entry ticket, £1–£8.25, as well |
-| **Alexandra Palace** (indoor) | Wood Green, N22 | Open all year; Festive Skate dates not yet announced | £11.75 off-peak, £12.75 peak | Up a steep hill, and indoors |
+| **Alexandra Palace** (indoor) | Wood Green, N22 | Open all year; Festive Skate 9 Dec – 4 Jan | £11.75 off-peak, £12.75 peak | Up a steep hill, and indoors |
 | **Leicester Square** | West End, WC2 | 2026 dates not yet announced; 2025 ran 1 Nov – 4 Jan | Not yet published | 2026 season not yet confirmed |
 
 Every outdoor rink skates in the rain, and none refunds for bad weather unless the rink itself cancels the session. All five confirmed rinks include skate hire in the ticket.
@@ -183,7 +183,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 *The rink fills a Victorian hall inside the palace.*
 
-**A permanent indoor rink** at Ally Pally, open all year, that turns into **Festive Skate** at Christmas: a tree, lights, Christmas music and falling snow, with mince pies, mulled wine and Baileys hot chocolate in the East Court Café. **2026 dates are not yet announced; the 2025 season ran to 5 January 2026.** Festive Skate sessions last 90 minutes.
+**A permanent indoor rink** at Ally Pally, open all year, that turns into **Festive Skate** at Christmas: a tree, lights, Christmas music and falling snow, with mince pies, mulled wine and Baileys hot chocolate in the East Court Café. **Festive Skate runs from 9 December 2026 to 4 January 2027**, for ages 3 and over, and adults supervising children need a spectator ticket. Sessions last 90 minutes.
 
 **Price:** standard **£11.75 off-peak, £12.75 peak**; under-12s £10.50–£11.50; under-5s £7.75–£8.75; over-65s £10.50–£11.50. Skate hire is included, in sizes from a baby 6 to an adult 13. Seal, penguin and snowman skate aids are **£7.50**, sold at the rink and not online. Adults who are not skating but are supervising under-16s need a spectator ticket, from £2.50.
 

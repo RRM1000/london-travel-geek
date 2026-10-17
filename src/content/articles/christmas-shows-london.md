@@ -232,5 +232,6 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)**
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)**
 - 🍽️ **[Christmas Day Restaurants in London](/articles/christmas-day-restaurants-london/)**
+- 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)**: the month's dates, closures and Christmas Day transport
 
 *Dates, prices, running times and age guidance from each theatre's own website or box office, checked between 22 September and 4 October 2026. Prices change as performances sell, so check the booking page.*

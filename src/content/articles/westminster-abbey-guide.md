@@ -222,6 +222,7 @@ Evensong is free to attend, and open to people of all faiths and none.
 ## Continue planning your London trip
 
 - 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — tickets, the quieter afternoon, the Crown Jewels and the Norman White Tower.
+- 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — the Abbey's Christmas concert and when carol service tickets are released.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — how to combine Westminster Abbey with Whitehall, Covent Garden, and South Bank.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — a mathematical analysis of when the pass pays for itself and when it loses money.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free museums, off-peak transport fares, and cheap dining across Zone 1.

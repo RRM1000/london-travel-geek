@@ -186,6 +186,7 @@ The grounds are cobbled, with steep ramps and narrow spiral stairs. The Jewel Ho
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free sights and booking hacks across Central London.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic boat routes from Tower Pier to Greenwich and Westminster.
 - 👑 **[Hampton Court Palace Guide](/articles/hampton-court-palace-guide/)** — Historic Royal Palaces' other big ticket, Henry VIII's palace upriver in Zone 6.
+- 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — Carols by Candlelight in the Chapel Royal and Christmas at the Tower.
 - ♿ **[Step-Free London](/articles/step-free-london/)** — what is reachable at the Tower without stairs, and how to get there step-free.
 
 ---

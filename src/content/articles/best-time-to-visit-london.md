@@ -72,7 +72,7 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 
 ### Winter: December to February
 
-**December** is the shortest, dullest month by the numbers — 53 hours of sunshine and under 8 hours of daylight around the solstice — and also the most concentrated: **Hyde Park Winter Wonderland** runs the whole month (it opens on Thursday 19 November 2026 and runs to 3 January 2027), Christmas Day falls on **Friday 25 December**, and school holidays start **21 December**. London's Thames fireworks on **31 December** are ticketed rather than free to watch from the riverside enclosures, and have sold out in past years.
+**December** is the shortest, dullest month by the numbers — 53 hours of sunshine and under 8 hours of daylight around the solstice — and also the most concentrated: **Hyde Park Winter Wonderland** runs the whole month (it opens on Thursday 19 November 2026 and runs to 3 January 2027), Christmas Day falls on **Friday 25 December**, and school holidays start **21 December**. London's Thames fireworks on **31 December** are ticketed rather than free to watch from the riverside enclosures, and have sold out in past years. Our [December guide](/articles/things-to-do-in-london-in-december/) has the dates, the closures and the transport plan.
 
 ![People in winter coats walking past snow-topped wooden food chalets lit up at dusk at Hyde Park Winter Wonderland](../../assets/articles/best-time-to-visit-london/winter-wonderland-food-stalls.jpg)
 *Hyde Park Winter Wonderland at dusk.*
@@ -130,6 +130,6 @@ Averages are the 1991-2020 climate normal for **Heathrow**, the Met Office's lon
 - 🏃 **[The London Marathon Guide](/articles/london-marathon-guide/)** and **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)** — entry routes for the two biggest sporting dates
 - 🎬 **[The BFI London Film Festival](/articles/london-film-festival/)** — booking dates and a practical plan
 - 🎪 **[London Music Festivals 2027](/articles/london-music-festivals-2027/)** — the summer park festivals, the 2027 dates already set and the ones a train ride away
-- 🗓️ **[Things to Do in London in September](/articles/things-to-do-in-london-in-september/)**, **[in October](/articles/things-to-do-in-london-in-october/)** and **[in November](/articles/things-to-do-in-london-in-november/)** — the month-by-month detail this guide points to
+- 🗓️ **[Things to Do in London in September](/articles/things-to-do-in-london-in-september/)**, **[in October](/articles/things-to-do-in-london-in-october/)**, **[in November](/articles/things-to-do-in-london-in-november/)** and **[in December](/articles/things-to-do-in-london-in-december/)** — the month-by-month detail this guide points to
 
 *Weather: Met Office 1991-2020 averages for Heathrow. Sunrise and sunset for central London, in local time. School holidays: Camden's 2026-27 calendar; other boroughs and academies vary. Bank holidays: GOV.UK. Event dates from each organiser. Visitor figures: VisitBritain's forecast of 27 August 2026 and the ONS's monthly figures for January to June 2024. Hotel rates: medians across 51 budget London hotels priced on 14-15 September 2026. Checked 17 September 2026.*
