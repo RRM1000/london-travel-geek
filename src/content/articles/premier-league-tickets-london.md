@@ -329,7 +329,7 @@ Below the Premier League, clubs sell to anyone.
 
 Four London clubs in 2026/27: **West Ham United** at London Stadium, **Queens Park Rangers** at Loftus Road, **Charlton Athletic** at The Valley and **Millwall** at The Den.
 
-At Charlton a **bronze-category** match starts at **£20 for adults and £5 for under-12s**, with a family bundle from **£35 for two adults and two under-12s**. Every home fixture has a published **general sale date**: for the Lincoln City match, season-ticket holders' extra-ticket window is 12 October 2026 and general sale opens to everyone the next day.
+At Charlton a **bronze-category** match starts at **£20 for adults and £5 for under-12s**, with a family bundle from **£35 for two adults and two under-12s**. Every home fixture has a published **general sale date**: for the Lincoln City match, general sale opened to everyone on 13 October 2026.
 
 For West Ham, see [how to get to London Stadium](/articles/london-stadium-travel-guide/).
 

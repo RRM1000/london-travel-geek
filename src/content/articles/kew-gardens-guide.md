@@ -226,7 +226,7 @@ Glasshouses close earlier than the gardens overall — 5pm through September 202
 ## Practical information
 
 ### Food, drink and picnics
-- **The Orangery:** Coffee, cakes and light meals in an 18th-century building near Elizabeth Gate — the informal option for a coffee break or lunch. Closes at 4pm on selected dates, including 2, 3, 9 and 10 October 2026.
+- **The Orangery:** Coffee, cakes and light meals in an 18th-century building near Elizabeth Gate — the informal option for a coffee break or lunch.
 - **The Botanical Brasserie:** A separate, all-day restaurant with modern British breakfast, lunch and afternoon tea. Mains run £23.50–£32 at lunch. You need a Kew Gardens ticket before you can book a table.
 - **Pavilion Bar & Grill:** Near the Temperate House. Burgers and Mediterranean-inspired dishes grilled on charcoal or smoked over wood, with outdoor terrace seating.
 - **Victoria Plaza Café:** At Victoria Gate. Coffee, cakes, sandwiches and snacks, for a quick stop.

@@ -366,7 +366,7 @@ Level access through the main entrance, though there are steps into the individu
 
 You sit or stand as you like and nobody performs at you. **Slots run every half hour**, tickets are £25 for adults and **£15 for students and under-18s**, plus a £2 transaction fee per order. BSL showings are offered. Book on [Lightroom](https://lightroom.uk/whats-on/david-bowie-youre-not-alone/) or [Ticketmaster](https://attractions.ticketmaster.co.uk/book/1HUYG-TICKETMASTER/).
 
-**Wallace & Gromit: Larger Than Life opens here on 14 October 2026**, from £25.
+**Wallace & Gromit: Larger Than Life opened here on 14 October 2026**, from £25.
 
 <div data-stay-strip></div>
 

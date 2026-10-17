@@ -100,7 +100,7 @@ The Elizabeth line is the quickest option from almost anywhere in central London
 
 | Day | Hours |
 | --- | --- |
-| Mon–Thu | 08:00–21:00 (to 22:00 on Thursdays until 16 October 2026) |
+| Mon–Thu | 08:00–21:00 |
 | Friday | 09:00–22:00 |
 | Saturday | 09:00–23:00 |
 | Sunday and bank holidays | 09:00–21:00 |
