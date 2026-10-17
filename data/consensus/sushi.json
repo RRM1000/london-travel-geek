@@ -1,0 +1,1359 @@
+{
+  "cuisine": "sushi",
+  "recorded": "2026-10-17",
+  "note": "Seeded 17 October 2026 for the Best Sushi Restaurants in London guide. SCOPE: restaurants where sushi (nigiri, sashimi, handrolls or an omakase of them) is what the kitchen is known for, in five groups: omakase counters, a la carte sushi restaurants, kaiten (conveyor belt) and handroll bars, cheap takeaway counters and market stalls, and chain sushi where sources name it. Japanese-wide lists (Vogue, The Week, Stylist, House & Garden, Country & Town House, Washoku Guide) are recorded for their sushi-led entries only; the Japanese corpus in data/consensus/japanese.json is left as it was, and counts here are sushi-corpus only (trap 7). SEARCH ROUTE: Bing RSS only answers the first word of a query and DuckDuckGo, Startpage and Brave raised bot walls after one query each, so the SERP came from Google News RSS (multi-word, dated, with each result decoded to its real URL) plus each masthead's own sushi URL, the Michelin 'Sushi' and 'Japanese' filters, YouTube search results pages, and Reddit's .rss endpoints spaced a minute or more apart. TIER E: Reddit counts as one domain however many threads name a restaurant, so thread counts are given in the article's prose rather than in 'Cited by'. TIER D: no TikTok creators are recorded because TikTok search cannot be read without a paid scraper.",
+  "sources": [
+    {
+      "name": "MICHELIN Guide - London selection, sushi and omakase kitchens (2026 Great Britain & Ireland)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurants/sushi",
+      "scope": "sushi",
+      "tier": "A",
+      "dated": "2026-02-09",
+      "ranked": false,
+      "names": [
+        "Sushi Kanesaka",
+        "Sushi Amamoto",
+        "Maru",
+        "Takahashi",
+        "Eel Sushi",
+        "Mayha",
+        "Tobi Masa",
+        "The Fuji Grill",
+        "Kioku by Endo",
+        "NIJŪ",
+        "Aki",
+        "Akira"
+      ],
+      "quotes": {
+        "Sushi Kanesaka": "ONE MICHELIN STAR, 2026 guide (cuisine 'Japanese'; also on the 'Sushi' filter). Counter cut from a single piece of hinoki cypress; omakase of around 18 pieces of nigiri interspersed with steamed abalone or grilled Kobe beef; much of the seafood from European waters.",
+        "Sushi Amamoto": "Selected, 2026 guide; one of only three London kitchens Michelin files under cuisine 'Sushi'. 16 seats, Fukuoka-style sushi; Jongho Park, who was head chef when the room was Taku, still runs the kitchen; Spanish tuna a highlight.",
+        "Maru": "Selected, 2026 guide; on Michelin's 'Sushi' filter. Omakase of around 20 servings, largely British seafood including Cornish; two dinner sittings and you pay when you book.",
+        "Takahashi": "Selected, 2026 guide. Husband-and-wife omakase: otsumami dishes first, then nigiri one piece at a time (chutoro, otoro, hamachi, scallop); sake pairing available.",
+        "Eel Sushi": "Selected, 2026 guide. Compact sushi bar from the owner of Dorian: two six-person counters, sushi priced by the piece or a chef's nigiri selection, tuna imported from Spain.",
+        "Mayha": "Selected, 2026 guide. Small Japanese restaurant relocated from Beirut; curved wooden counter, seasonal omakase (shorter on weekdays) with a generous nigiri selection at its core.",
+        "Tobi Masa": "Selected, 2026 guide. Masayoshi Takayama's London outpost at The Chancery Rosewood; a seven-seat sushi counter for omakase, tables for the extensive contemporary menu.",
+        "The Fuji Grill": "Selected, 2026 guide. Beaverbrook Town House restaurant with a full omakase to be taken at the counter, bento deals and an a la carte of nigiri.",
+        "Kioku by Endo": "Selected, 2026 guide (cuisine 'Japanese Contemporary'). Sixth-floor Raffles London at The OWO; menu runs from a selection of nigiri to robata-grilled meat and fish.",
+        "NIJŪ": "Selected, 2026 guide. Endo Kazutoshi designed the menus: katei ryori sharing dishes with a sushi selection; a small sushi counter in one of two rooms.",
+        "Aki": "Selected, 2026 guide (cuisine 'Japanese Contemporary'). Grade II-listed former bank; chefs prepare sashimi, maki and nigiri alongside robata dishes.",
+        "Akira": "Selected, 2026 guide. The restaurant at Japan House; counter and table seating, 'a wide range of sushi' with robata skewers the highlight."
+      },
+      "note": "Read 17 October 2026. The 'Sushi' cuisine filter holds three London restaurants (Sushi Amamoto, Maru, Sushi Kanesaka); the other nine are kitchens in the 'Japanese' and 'Japanese Contemporary' filters whose Michelin write-up names nigiri, a sushi counter or omakase as the centre of the menu. There is no Bib Gourmand for sushi in London. Endo at the Rotunda is not in the 2026 selection (closed by fire, September 2025). Umu (one star) and Humble Chicken (two stars) are Japanese kitchens whose Michelin text does not describe sushi, so they are not recorded here."
+    },
+    {
+      "name": "The Good Food Guide - Where to eat if you don't want to spend £400 on sushi",
+      "url": "https://www.thegoodfoodguide.co.uk/editorial/features/where-to-eat-if-you-dont-want-to-spend-400-on-sushi",
+      "scope": "sushi",
+      "tier": "A",
+      "dated": "2025-03-14",
+      "ranked": false,
+      "names": [
+        "Sushi Kyu",
+        "Sumi",
+        "Temaki",
+        "Nanahoshi"
+      ],
+      "quotes": {
+        "Sushi Kyu": "Inspectors' go-to for an affordable omakase: £51.80 at lunch, £74.80 at dinner (against £125 at sister restaurant Cubé), around a simple wooden counter; opened in Soho in 2024.",
+        "Sumi": "A good alternative to Endo at the Rotunda: order a la carte, with 'top quality raw fish' as the lynchpin, from chutoro and sea bass nigiri to temaki hand rolls.",
+        "Temaki": "Brixton, 'London's first handroll bar'; a la carte or three sets at £29, £32 and £39; sushi rice 'generally excellent'; the inspector's top pick is the signature roll of fatty otoro and lean akami with tobiko.",
+        "Nanahoshi": "Formerly Jugemu, a quirky 20-seat sushi-ya down a Soho side street; multi-course omakase £120 with cheaper a la carte, £30 minimum spend, walk-ins have been known."
+      },
+      "note": "Features article by food writer Hilary Armstrong. The Sushi Kanesaka, The Araki, Taku, Endo at the Rotunda and Sushi Tetsu prices in the same piece are comparisons, not recommendations, and the writer was a guest of Sushi Kanesaka, so none of those is recorded from it. Hannah (County Hall, kappo) is a Japanese omakase but not a sushi restaurant, so not recorded."
+    },
+    {
+      "name": "The Good Food Guide - review of Kikuchi, Fitzrovia",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/kikuchi/id/87246",
+      "scope": "sushi",
+      "tier": "A",
+      "dated": "2025-12-04",
+      "ranked": false,
+      "names": [
+        "Kikuchi"
+      ],
+      "quotes": {
+        "Kikuchi": "Rated Very Good, headed 'Off-the-radar sushi bar'. Hidden down Hanway Street since 1998 and tipped off by a reader; counter seat in front of chef Masayuki Kikuchi; omakase £130, a full carte with sushi selections £50 to £70."
+      }
+    },
+    {
+      "name": "The Good Food Guide - First Look: Sushi Kanesaka",
+      "url": "https://www.thegoodfoodguide.co.uk/editorial/features/a-first-look-at-sushi-kanesaka",
+      "scope": "sushi",
+      "tier": "A",
+      "dated": "2023-08-15",
+      "ranked": false,
+      "names": [
+        "Sushi Kanesaka"
+      ],
+      "quotes": {
+        "Sushi Kanesaka": "At £420 for 18 courses the UK's dearest restaurant at opening; inspectors found the chef skill and ingredient quality 'even more refined' than at £300-a-head Taku."
+      }
+    },
+    {
+      "name": "Harden's - London, Japanese restaurant guide",
+      "url": "https://www.hardens.com/restaurants/london/japanese",
+      "scope": "sushi",
+      "tier": "A",
+      "dated": "2026-10-17",
+      "ranked": false,
+      "names": [
+        "Pham Sushi",
+        "SUSHISAMBA"
+      ],
+      "quotes": {
+        "Pham Sushi": "Listed in Harden's Japanese guide: a 'dependable meal near Barbican', twenty-year heritage, now in The Heron on Moor Lane; Food 2, Service 2, Ambience 3.",
+        "SUSHISAMBA": "Reader-survey write-up: Latino-meets-Japanese bites 'consistently good', prices 'OTT', loud and fast-turning; Heron Tower original plus Covent Garden. Food 2, Ambience 4."
+      },
+      "note": "Harden's holds only four Japanese restaurants in London (Koya, Pham Sushi, Sushisamba, Shiro); the two sushi-led ones are recorded."
+    },
+    {
+      "name": "Time Out - London's 20 Best Sushi Restaurants",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-sushi-bars",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-07-23",
+      "ranked": true,
+      "names": [
+        "Sushi Tetsu",
+        "Sushi Show",
+        "Kokin",
+        "Kulu Kulu",
+        "Sanjugo",
+        "Uchi",
+        "Kumori",
+        "Umu",
+        "Sushi Kyu",
+        "Sushi Kanesaka",
+        "The Aubrey",
+        "Atari-Ya",
+        "Engawa",
+        "Sushi Atelier",
+        "Dinings SW3",
+        "Roka",
+        "Bar des Prés",
+        "Jang",
+        "Yashin Ocean House",
+        "Kibou"
+      ],
+      "quotes": {
+        "Sushi Tetsu": "#1 of 20, five stars, edited by Erin Niimi Longhurst. Seven-seat omakase counter in Clerkenwell; £187 a head (£167 Saturday lunch). Tip: a midweek solo booking is easiest.",
+        "Sushi Show": "#2 of 20, four stars. Takeaway and counter sushi from a fish supplier, two branches (Camden Passage, Angel; and Shoreditch); maki £6 to £10, often marked down at closing.",
+        "Kokin": "#3 of 20. Seventh-floor Stratford room with woodfire-smoked starters; chef's sushi selection (8 pieces) £45 to £53; Wednesday live tuna carving.",
+        "Kulu Kulu": "#4 of 20. Soho conveyor belt since 1995, 45-minute dining policy, plates £3 to £5.20; closed Sundays.",
+        "Sanjugo": "#5 of 20. Izakaya with sashimi omakase £42; branches Shoreditch, Angel and Victoria.",
+        "Uchi": "#6 of 20. Clapton neighbourhood room; nigiri £12 to £18, mixed sashimi £24.",
+        "Kumori": "#7 of 20. Soho handroll bar; set of three handrolls £24, a la carte rolls £9 to £16.",
+        "Umu": "#8 of 20, five stars, listed as 'Best for Michelin star greatness'. Kyoto-style kaiseki with sushi; £260 menu.",
+        "Sushi Kyu": "#9 of 20. Ten-seat Soho counter; omakase £51.80 lunch, £74.80 dinner, £49 pre-theatre.",
+        "Sushi Kanesaka": "#10 of 20, five stars. 'The finest example of edomae sushi in London'; £420 a head; Tuesday to Saturday dinner.",
+        "The Aubrey": "#11 of 20. Knightsbridge izakaya; sushi from Miho Sato; maki £16 to £95.",
+        "Atari-Ya": "#12 of 20. Wholesale fish supplier's cafes in Swiss Cottage and Golders Green; nigiri £2 to £4, handrolls £3.80 to £7.35.",
+        "Engawa": "#13 of 20. Ham Yard, Soho; bento and teppanyaki; chirashi £45 at lunch, evening omakase £100.",
+        "Sushi Atelier": "#14 of 20, five stars. Great Portland Street; sets £28 to £34, 15-piece premium omakase £62; sister of Chisou.",
+        "Dinings SW3": "#15 of 20. British-sourced fish, Hampshire wasabi; no-corkage Sundays and Mondays.",
+        "Roka": "#16 of 20. Charlotte Street; maki £10 to £18; weekend brunch.",
+        "Bar des Prés": "#17 of 20. Albemarle Street address given; yellowtail maki with yuzu kosho, sushi a la pièce, six-piece selection £36.",
+        "Jang": "#18 of 20. Royal Exchange mezzanine, Korean-Japanese; sushi on silver alligator plates; two-course lunch £40.",
+        "Yashin Ocean House": "#19 of 20. Old Brompton Road; head-to-tail fish; omakase sushi £30 to £45, tasting menu £75.",
+        "Kibou": "#20 of 20. Battersea, Northcote Road; casual, volcano rolls and surf-and-turf nigiri; weekend bottomless sushi from £34."
+      },
+      "note": "Ranked list, numbered 1 to 20 on the page. The same list was published as a news story on 17 December 2025 naming Sushi Tetsu the best sushi restaurant in London; that article and this one are one source. Endo at the Rotunda was on the December 2025 version and is not on the July 2026 one (closed by fire, September 2025). Time Out's Japanese-restaurant guide is the same domain and is not counted twice."
+    },
+    {
+      "name": "The Infatuation - The 19 Best Sushi Restaurants In London",
+      "url": "https://www.theinfatuation.com/london/guides/best-sushi-london",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-08-25",
+      "ranked": false,
+      "names": [
+        "Sasa",
+        "Himi",
+        "Kurisu Omakase",
+        "Eel Sushi",
+        "Dinings SW3",
+        "Sushi Tetsu",
+        "Yashin Sushi",
+        "Danieru Sushi",
+        "Chisou",
+        "Sushi Atelier",
+        "Sachi",
+        "Ikeda",
+        "Nanahoshi",
+        "Sushi Show",
+        "Ukiyo Handroll Bar",
+        "Sumi",
+        "Kizana",
+        "Dinings Marylebone",
+        "Rai"
+      ],
+      "quotes": {
+        "Sasa": "Rated 7.9. Islington neighbourhood sushi: tuna sanshoku set of akami, chutoro and otoro nigiri; sets for groups and families.",
+        "Himi": "Rated 9.2. Soho neo-izakaya whose nigiri is 'top-tier'.",
+        "Kurisu Omakase": "Rated 9.4. 18-course sushi mixed with Thai-Colombian influences, eight seats, from £150.",
+        "Eel Sushi": "Rated 8.8. Notting Hill window seats, trays of nigiri, lobster tails sliced at the counter. Listed as good for walk-ins.",
+        "Dinings SW3": "Rated 8.8. Knightsbridge mews; white fish carpaccio, crispy rice with avocado, potted blue lobster sliders.",
+        "Sushi Tetsu": "Rated 8.7. Seven seats; online booking opens at 12pm every Monday for the following week, with a waiting list.",
+        "Yashin Sushi": "Rated 8.6. Kensington; nigiri topped with yuzu salt, flowers, parmesan, truffle; quiet room.",
+        "Danieru Sushi": "Rated 8.5. Chelsea (Cale Street) and Lower Sloane Street; wasabi grated at the table; six-piece salmon and tuna nigiri set.",
+        "Chisou": "Rated 8.4. Named at the Beauchamp Place, Knightsbridge branch: inside-out rolls, soft shell crab; about £70 a head.",
+        "Sushi Atelier": "Rated 8.4. 'The holy grail of sushi: high-quality, affordable, and exciting'; sets from £28 for 13 pieces.",
+        "Sachi": "Rated 8.3. Second floor of the Pantechnicon, Belgravia; tuna usuzukuri and salmon sashimi; rooftop has a shorter menu.",
+        "Ikeda": "Rated 8.3. Old-school Mayfair room; 'supreme assortments' of fatty tuna, yellowtail, octopus.",
+        "Nanahoshi": "Rated 8.2. Little Soho bar, one chef making every piece; uni, scallop and otoro nigiri.",
+        "Sushi Show": "Rated 8.1. Fish-supplier shop on Camden Passage with a few stalls and outdoor tables; order fresh rather than the pre-made pieces; natto hosomaki.",
+        "Ukiyo Handroll Bar": "Rated 8.1. Temaki bar down Slingsby Place, Covent Garden; salmon and avocado crisp temaki, seared salmon nigiri.",
+        "Sumi": "Rated 8.1. Westbourne Grove; Endo's down-to-earth sister (the Rotunda 'currently closed'); stick to raw fish and avoid the mains if you want to keep lunch under £100.",
+        "Kizana": "Rated 7.9. Battersea Park Road; spicy tuna crispy rice, hosomaki, black cod.",
+        "Dinings Marylebone": "Rated 7.7. The Harcourt Street Georgian townhouse, not the SW3 mews: a sushi counter 'shoehorned into what was once a hallway'; signature sea bass carpaccio.",
+        "Rai": "Unlisted score. Fitzrovia, Windmill Street; omakase with a seven-course seasonal tasting menu at £87."
+      },
+      "note": "Recorded unranked: the page order does not follow the scores (Sasa 7.9 sits first). 'Dinings' on this list is the Marylebone restaurant (22 Harcourt Street), recorded as Dinings Marylebone so it does not merge with Dinings SW3. Same domain as the omakase and casual-sushi guides below: one source."
+    },
+    {
+      "name": "The Infatuation - The 4 Best Omakase Menus In London",
+      "url": "https://www.theinfatuation.com/london/guides/the-best-omakase-menus-in-london",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-03-24",
+      "ranked": false,
+      "names": [
+        "Kurisu Omakase",
+        "Sushi Tetsu",
+        "Yashin Sushi",
+        "Cubé"
+      ],
+      "quotes": {
+        "Kurisu Omakase": "Rated 9.4; from £150 a head; eight seats; crab curry croquette on nam jim among the courses.",
+        "Sushi Tetsu": "Rated 8.7; from £187; one chef, seven seats; the booking system opens at 12pm every Monday.",
+        "Yashin Sushi": "Rated 8.6; from £25 a head; nothing comes with classic soy; ponzu jelly on soft toro.",
+        "Cubé": "Rated 8.3; £89.70 lunch, £125 dinner; relaxed Mayfair counter where chefs break down a 13kg trout; fine to come solo."
+      }
+    },
+    {
+      "name": "The Infatuation - London's Top Casual Neighbourhood Sushi Spots",
+      "url": "https://www.theinfatuation.com/london/guides/londons-best-casual-affordable-sushi-restaurants",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2025-08-27",
+      "ranked": false,
+      "names": [
+        "Sushi & Momo Zone",
+        "Kampai Kensington",
+        "Sushi Show",
+        "Zen Mondo",
+        "Sushi Atelier",
+        "Nori",
+        "Pham Sushi",
+        "Eat Tokyo"
+      ],
+      "quotes": {
+        "Sushi & Momo Zone": "Rated 7.1. Hammersmith, King Street; urumaki and house-made chicken momos; halal.",
+        "Kampai Kensington": "Rated 7.9. Hammersmith Road; scallop nigiri; full of families; sushi bar for solo diners.",
+        "Sushi Show": "Rated 8.1. Takeaway or bar seat on Camden Passage; sashimi cut in front of you; shareable platters.",
+        "Zen Mondo": "Rated 7.3. Upper Street, Angel; temaki and chirashi; handmade ceramics.",
+        "Sushi Atelier": "Rated 8.4. Rare for sushi this good to be affordable.",
+        "Nori": "Unrated. New Malden High Street, up a staircase off an alley; sushi rolls.",
+        "Pham Sushi": "Rated 7.8. Heron Tower, EC2: 'around £20 for a 12-piece set' with nigiri.",
+        "Eat Tokyo": "Rated 7.5. Eight London branches; the Notting Hill Gate one is the writers' favourite; reliable sushi at reasonable prices, walk-ins."
+      }
+    },
+    {
+      "name": "Condé Nast Traveller - Where to find the best sushi in London",
+      "url": "https://www.cntraveller.com/gallery/best-sushi-london",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-03-01",
+      "ranked": false,
+      "names": [
+        "The Fuji Grill",
+        "Lucky Cat",
+        "Moi",
+        "Maru",
+        "Eel Sushi",
+        "Aki",
+        "Kioku by Endo",
+        "Zuma",
+        "Tobi Masa",
+        "Dinings SW3",
+        "Sushi Kanesaka",
+        "NIJŪ",
+        "Endo at the Rotunda",
+        "Chisou",
+        "Sushi Atelier",
+        "Takahashi",
+        "Sumi",
+        "SUSHISAMBA",
+        "Temaki",
+        "Nobu Old Park Lane",
+        "Issho-Ni",
+        "Eat Tokyo"
+      ],
+      "quotes": {
+        "Maru": "'My favourite omakase in London', from the writer: chef Taiji Maruyama, third-generation Kappo style, ex-Nobu executive chef. Shepherd Market.",
+        "Eel Sushi": "'The coolest restaurant in West London', in a closet-sized wood room across the road from sister restaurant Dorian.",
+        "Sushi Kanesaka": "Behind a secret door in 45 Park Lane: one room for a four-person sitting, another for ten.",
+        "Dinings SW3": "A neighbourhood mews spot where a 7.30pm booking runs to near midnight.",
+        "Temaki": "Listed at its Brixton Village counter: head chef Shaulan Steenson, ex-Hakkoku in Tokyo and Umu; the signature temaki has white and brown crab.",
+        "Takahashi": "A small sushi restaurant in South Wimbledon with a Mediterranean slant; chef is a Nobu alumnus.",
+        "Sumi": "Endo Kazutoshi's a la carte sister to the Rotunda: nigiri, sashimi and cone-shaped temaki.",
+        "Endo at the Rotunda": "Listed with Giles Coren's verdict ('the most perfect meal I have eaten in a restaurant in more than 20 years') and 20-course sittings; page predates the September 2025 fire.",
+        "Eat Tokyo": "Japanese-owned, eight London branches, nigiri, chirashi and unagi; unfussy decor keeps prices down."
+      },
+      "note": "Gallery by Daisy Allsup, 1 March 2026. Names include several restaurants where sushi is one part of a wider Japanese or Nikkei menu (Zuma, Nobu, SushiSamba, Lucky Cat, Issho-Ni); the article applies its own test. The Endo at the Rotunda entry describes a restaurant that has been closed since the September 2025 fire."
+    },
+    {
+      "name": "Evening Standard - London sushi joints that don't cost a month's rent",
+      "url": "https://www.standard.co.uk/going-out/restaurants/cheap-good-value-affordable-london-sushi-restaurants-b1112772.html",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2024-06-18",
+      "ranked": false,
+      "names": [
+        "Temaki",
+        "Akari",
+        "Eat Tokyo",
+        "Kampai Kensington",
+        "Zen Mondo",
+        "Pham Sushi",
+        "Iné"
+      ],
+      "quotes": {
+        "Temaki": "Brixton Village handroll bar founded by Anglo-American chef A M Dupee; sets from £24 for four rolls to £39 with lobster.",
+        "Akari": "196 Essex Road, Islington: sushi in an old boozer; five pieces of shimesaba £9, aburi truffle white tuna nigiri £8.50.",
+        "Eat Tokyo": "Affordable sushi 'to the masses'; first-timers told to try the Soho branch.",
+        "Kampai Kensington": "Bamboo-walled neighbourhood favourite, often full of families eating scallop nigiri.",
+        "Zen Mondo": "Upper Street, Angel; a menu of classics.",
+        "Pham Sushi": "Bento boxes and set menus under £20; salmon and jalapeño rolls popular.",
+        "Iné": "Casual omakase on Hampstead High Street from the Taku team; 15 courses for £100."
+      },
+      "note": "Josh Barrie, International Sushi Day 2024. Sushi Kanesaka and Endo at the Rotunda are named only as price benchmarks. Zaibatsu (Greenwich) is noted as closed, even if temporarily, so not recorded."
+    },
+    {
+      "name": "Evening Standard - David Ellis reviews Eel Sushi Bar",
+      "url": "https://www.standard.co.uk/going-out/restaurants/eel-sushi-bar-notting-hill-review-b1231393.html",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2025-06-06",
+      "ranked": false,
+      "names": [
+        "Eel Sushi"
+      ],
+      "quotes": {
+        "Eel Sushi": "Five stars. Pine sourced from Switzerland, a counter for about 12 around the kitchen, no bookings (walk-ins only) with a queue from noon, tables turned up to ten times a day."
+      }
+    },
+    {
+      "name": "Wallpaper* - Where to eat sushi in London",
+      "url": "https://www.wallpaper.com/travel/restaurants/londons-best-sushi-restaurants",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2024-10-07",
+      "ranked": false,
+      "names": [
+        "Endo at the Rotunda",
+        "Izakaya at Dreams",
+        "Nanahoshi",
+        "Nobu Old Park Lane",
+        "Roka",
+        "Sushi Atelier",
+        "Sushi Kanesaka",
+        "Sushi Amamoto",
+        "Temaki",
+        "Umu"
+      ],
+      "quotes": {
+        "Nanahoshi": "Listed under its old name Jugemu: six-seat counter and four small tables, chef Yuya Kikuchi; medium fatty salmon belly served without soy or wasabi; 'at least good value'.",
+        "Izakaya at Dreams": "Holland Park pop-up inside the Supermarket of Dreams: contemporary sushi at a candlelit communal table from 6.30pm.",
+        "Sushi Atelier": "Sets from £27 'affordable for the quality'.",
+        "Sushi Kanesaka": "'The UK's most expensive restaurant' at £420 for 20 courses; 300-year-old cedar counter.",
+        "Sushi Amamoto": "Formerly Taku Mayfair, led by chef-patron Shogo Amamoto: 17-course tasting omakase at lunch, 22-course prestige omakase.",
+        "Temaki": "Brixton hand rolls; the signature has white and brown crabmeat, egg yolk and white soy; sets from £24.",
+        "Roka": "The Charlotte Street original is 'the pick of the bunch' of four London restaurants.",
+        "Umu": "Kyoto-inspired kaiseki at £250; sit at the counter for the raw fish."
+      },
+      "note": "Ben McCormack's ten sushi picks. Published 7 October 2024; the Sushi Amamoto entry shows the page has been revised since."
+    },
+    {
+      "name": "Luxury London - Yes, chef: Brilliant omakase restaurants in London",
+      "url": "https://luxurylondon.co.uk/taste/food/best-omakase-restaurants-london/",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-05-15",
+      "ranked": false,
+      "names": [
+        "Tobi Masa",
+        "Sushi Kanesaka",
+        "Juno",
+        "Sushi Kyu",
+        "The Aubrey",
+        "Taku",
+        "Endo at the Rotunda",
+        "Clap",
+        "Nobu Old Park Lane",
+        "Luna Omakase"
+      ],
+      "quotes": {
+        "Tobi Masa": "Seven counter seats at £260 for 12 nigiri iterations, opening with fatty toro; three more tables in the Sushi Lounge.",
+        "Sushi Kanesaka": "£420 for 18 courses, 13 seats.",
+        "Juno": "'London's most intimate six-seater omakase', hidden in the Los Mochis Notting Hill site; 15-course Mexican-Japanese menu.",
+        "Sushi Kyu": "Ten counter seats, younger sister to Cubé.",
+        "The Aubrey": "Omakase in the Ukiyo Room, 10 courses.",
+        "Taku": "Michelin-starred, omakase-only, edomae; 16 seats. Page written before the room became Sushi Amamoto.",
+        "Endo at the Rotunda": "20-course omakase, £250, 12-seat table. Page predates the September 2025 fire.",
+        "Luna Omakase": "Ninth floor of 100 Liverpool Street, second site from the Los Mochis team; opened March 2025."
+      },
+      "note": "Annie Lewis, first published 1 May 2025, updated 15 May 2026. Endo at the Rotunda is described as open in this piece but closed by fire in September 2025."
+    },
+    {
+      "name": "Observer - London's Most Elevated Omakase Experiences",
+      "url": "https://observer.com/list/best-omakase-restaurants-london/",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-06-22",
+      "ranked": false,
+      "names": [
+        "Sushi Kanesaka",
+        "Sushi Amamoto",
+        "The Araki",
+        "Sushi Tetsu",
+        "Luna Omakase",
+        "Juno",
+        "Maru",
+        "Takahashi",
+        "Kurisu Omakase",
+        "Mayha",
+        "Tobi Masa",
+        "Namaiki"
+      ],
+      "quotes": {
+        "Sushi Kanesaka": "£420 per person, 20 courses with head chef Hirotaka Wada; 'widely considered London's premier omakase'.",
+        "Sushi Amamoto": "Formerly Sushi Taku; founder Shogo Amamoto, whose Taipei omakase has a year-long waitlist.",
+        "The Araki": "Nine seats at the counter, £310, head chef Marty Lau, two bookings each day.",
+        "Sushi Tetsu": "'One of London's most notoriously difficult reservations'; seven seats."
+      },
+      "note": "Emily Zemler, Observer (US title). Twelve omakase counters in the order printed, not a ranking."
+    },
+    {
+      "name": "House & Garden - The 17 best Japanese restaurants in London (sushi focus)",
+      "url": "https://www.houseandgarden.co.uk/gallery/best-japanese-restaurants-london",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-09-28",
+      "ranked": false,
+      "names": [
+        "ENDO Chelsea",
+        "Mitsu",
+        "Miokuru",
+        "MA/NA",
+        "Sushi Amamoto",
+        "Sushi Kanesaka",
+        "Sachi",
+        "Kioku by Endo",
+        "NIJŪ",
+        "The Aubrey",
+        "Iné",
+        "Maru",
+        "Sumi",
+        "The Fuji Grill",
+        "Ikeda",
+        "Sushi Tetsu"
+      ],
+      "quotes": {
+        "ENDO Chelsea": "Endo Kazutoshi's new Chelsea restaurant (8-9 Blacklands Terrace, SW3) after the fire at the Rotunda; the writer called the raw scallop possibly the best thing she had ever eaten.",
+        "Miokuru": "Warwick Street handroll spot with 20 counter seats; fillings include Cornish white crab and Swaledale beef.",
+        "Sushi Kanesaka": "'Surpassed many of the meals I ate on a trip to Japan'; highlights otoro, unagi kabayaki handroll, suzuki.",
+        "Sushi Amamoto": "Edomae-style sushi by Shogo Amamoto; the writer watched a wooden oshizushi press.",
+        "Mitsu": "Basement of Aethos Shoreditch; sashimi, nigiri, gunkan and temaki; otoro praised."
+      },
+      "note": "The magazine says it tried and tested the places, 'with a focus on sushi'. Moi, Shiro and Beaverbrook entries are Japanese-wide and recorded only for The Fuji Grill (Beaverbrook's restaurant)."
+    },
+    {
+      "name": "The Week - The best Japanese restaurants in London",
+      "url": "https://theweek.com/arts-life/food-drink/956549/best-japanese-restaurants-london",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-09-07",
+      "ranked": true,
+      "names": [
+        "Tobi Masa",
+        "Sushi Kanesaka",
+        "Roketsu",
+        "Maru",
+        "Junsei",
+        "Sachi",
+        "Nobu Old Park Lane",
+        "Sumi",
+        "Aqua Kyoto"
+      ],
+      "quotes": {
+        "Tobi Masa": "#1 of 9 on The Week's Japanese list; sushi omakase at The Chancery Rosewood.",
+        "Sushi Kanesaka": "#2 of 9.",
+        "Maru": "#4 of 9.",
+        "Sachi": "#6 of 9.",
+        "Sumi": "#8 of 9."
+      },
+      "note": "A Japanese-wide ranked list. Only the sushi-led entries are recorded (Tobi Masa, Sushi Kanesaka, Maru, Sachi, Sumi); Roketsu is kaiseki, Junsei yakitori, Nobu and Aqua Kyoto broad menus. The rank is therefore a rank on a Japanese list, not a sushi list, and is not printed."
+    },
+    {
+      "name": "Vogue - The Best Japanese Restaurants in London, From Intimate Omakase Counters to Neighborhood Gems",
+      "url": "https://www.vogue.com/article/best-japanese-restaurants-in-london",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-01-29",
+      "ranked": false,
+      "names": [
+        "Sushi Kanesaka",
+        "Sushi Kyu",
+        "Taku",
+        "Sushi Tetsu",
+        "Uchi",
+        "Eat Tokyo",
+        "Chisou",
+        "Juno",
+        "Jin Kichi"
+      ],
+      "quotes": {
+        "Sushi Kanesaka": "Michelin-starred, omakase-only, 13 seats: 'as atmospheric a sushi experience as you'll find anywhere in London'.",
+        "Sushi Kyu": "Opened 2024 on Brewer Street by Cubé's founder Takamasa Mogi; 10 seats around the counter.",
+        "Sushi Tetsu": "Seven-person omakase, among the city's toughest reservations.",
+        "Uchi": "Hackney, 'ultra-cozy' residential spot, an exceptional balance for sushi without a formal omakase setting.",
+        "Eat Tokyo": "40 years, eight London outposts; value and generous portions.",
+        "Juno": "Six seats at the back of Los Mochis on Uxbridge Street, Notting Hill."
+      },
+      "note": "Japanese-wide list; only sushi-led entries recorded."
+    },
+    {
+      "name": "Stylist - From ramen to sushi, 9 of the best Japanese restaurants in London",
+      "url": "https://www.stylist.co.uk/food-drink/restaurants-bars/best-japanese-restaurants-london/1076302",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2026-07-13",
+      "ranked": false,
+      "names": [
+        "Sumi",
+        "Mitsu"
+      ],
+      "quotes": {
+        "Sumi": "'For those who dream of dining at Endo at the Rotunda, head to Sumi instead': the more affordable little sister, with a Michelin Guide mention.",
+        "Mitsu": "Newly opened in Shoreditch: sashimi, nigiri and temaki, designed for sharing."
+      },
+      "note": "Japanese-wide list; only the sushi-led entries are recorded."
+    },
+    {
+      "name": "Country & Town House - The Best Japanese Restaurants in London",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/best-japanese-restaurants-london/",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2025-10-01",
+      "ranked": false,
+      "names": [
+        "Tobi Masa",
+        "Kibou",
+        "The Fuji Grill",
+        "Miokuru",
+        "The Aubrey",
+        "Sushi Kamon",
+        "Dinings SW3",
+        "Zuma",
+        "Tsunami",
+        "SUSHISAMBA"
+      ],
+      "quotes": {
+        "Tobi Masa": "Seven exclusive seats in front of the sushi-making; the 'Masa Pasta' made entirely from fish.",
+        "Kibou": "Battersea, Northcote Road; began as a basement restaurant in Cheltenham, in London since 2020.",
+        "The Fuji Grill": "'A standout sushi spot for in-the-know foodies'; nine-course omakase.",
+        "Miokuru": "20-seat handroll bar 'transforming British seafood with Japanese techniques'.",
+        "Sushi Kamon": "Omakase at Arcade Food Hall, Tottenham Court Road: chef Michael Nonato, nine courses.",
+        "Dinings SW3": "'A shining light in the constellation of London sushi restaurants'.",
+        "Zuma": "Vast Knightsbridge room with a sushi counter and robata grill."
+      },
+      "note": "Japanese-wide list ('1 year ago' on the page; the month is not shown). Only the sushi-led entries recorded. Reused from data/consensus/japanese.json's source set and re-read for this topic."
+    },
+    {
+      "name": "Vittles - The timeless allure of mid-range sushi",
+      "url": "https://www.vittlesmagazine.com/p/vittles-reviews-the-timeless-allure",
+      "scope": "sushi",
+      "tier": "B",
+      "dated": "2024-09-20",
+      "ranked": false,
+      "names": [
+        "Atari-Ya",
+        "Sagamiya"
+      ],
+      "quotes": {
+        "Atari-Ya": "Jonathan Nunn: 'the fish supplier turned sushi bar where I first tried good sushi'; at the pioneering branches you ate on the shop floor among wholesale bags of rice.",
+        "Sagamiya": "Behind County Hall, opposite the London Eye: 'the grungiest approximation of Osaka you'll come across in the centre of the city'."
+      },
+      "note": "Paywalled critic's column on neighbourhood sushi; the free preview names two venues, which are all that is recorded. A Reddit commenter (January 2026) pointed to it for Hase-Ya and Atari-Ya."
+    },
+    {
+      "name": "Hot Dinners - The best sushi in London",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-sushi-london-restaurants-now-uk",
+      "scope": "sushi",
+      "tier": "C",
+      "dated": "2025-07-03",
+      "ranked": false,
+      "names": [
+        "Eel Sushi",
+        "Himi",
+        "Sushi Kyu",
+        "Ukiyo Handroll Bar",
+        "Endo at the Rotunda",
+        "Sushi Kanesaka",
+        "Takahashi",
+        "Juno",
+        "Sushi by Masa",
+        "Sumi",
+        "Maru",
+        "Sushi Tetsu",
+        "Sushi Revolution",
+        "My Umami",
+        "The Araki",
+        "Temaki",
+        "Chisou",
+        "Cubé",
+        "Dinings SW3",
+        "Jin Kichi",
+        "Nanahoshi",
+        "Nobu Old Park Lane",
+        "Kibou",
+        "Sushi Atelier",
+        "Sasa",
+        "Yashin Sushi",
+        "Yashin Ocean House"
+      ],
+      "quotes": {
+        "Eel Sushi": "A la carte sushi with fish from the owners' own shop down the road; 'the constant battle to get a seat'.",
+        "Himi": "Roji's chefs, Tamas Naszai and Tomoko Hasegawa; an izakaya, but the chef's choice of nigiri is the way to go.",
+        "Sushi Kyu": "Cubé's sister restaurant; the omakase lunch is the affordable one; chefs trained by ex-Nobu Takamasa Mogi.",
+        "Takahashi": "Merton; chef Nobuhisa Takahashi (ex-Nobu) and his wife Yuko; now fully omakase.",
+        "Sushi by Masa": "Central counter inside the Harrods Dining Hall; a la carte or tasting menu; Masa toro tartare with caviar.",
+        "Sushi Tetsu": "Half a dozen seats; booking moved online but 'doesn't make getting a seat any easier'.",
+        "The Araki": "£310 omakase, nine seats, Marty Lau now runs it after Araki Mitsuhiro returned to Japan.",
+        "Temaki": "Billed as London's first bar dedicated to temaki; try 'Surprise Me' with caviar.",
+        "Jin Kichi": "Hampstead izakaya better known for yakitori, but exemplary eel nigiri.",
+        "Nanahoshi": "Hole-in-the-wall Soho joint; as many negative reviews of the service as positive of the sushi.",
+        "Sushi Revolution": "Brixton and Shoreditch; classics plus soft shell crab roll with kimchee hummus; founders ex-Sticks'n'Sushi.",
+        "My Umami": "East Finchley neighbourhood sushi, flamed fatty salmon with yuzu jelly."
+      },
+      "note": "Catherine Hanly. Not ranked. Roketsu (kaiseki, temporarily closed per the page) not recorded. Same domain as the omakase and takeaway guides below."
+    },
+    {
+      "name": "Hot Dinners - London's best restaurants with omakase menus",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-omakase-restaurants-menus-london-japanese",
+      "scope": "sushi",
+      "tier": "C",
+      "dated": "2025-02-18",
+      "ranked": false,
+      "names": [
+        "Endo at the Rotunda",
+        "Sushi Kanesaka",
+        "The Araki",
+        "Taku",
+        "Maru",
+        "Kurisu Omakase",
+        "Sushi Tetsu",
+        "Juno",
+        "Sushi Kyu",
+        "Sushi on Jones"
+      ],
+      "quotes": {
+        "Sushi Kanesaka": "£420; 13 seats, a further four in a private room; counter carved from a single piece of hinoki.",
+        "The Araki": "£310; nine seats at the counter and a private room for six.",
+        "Taku": "Michelin star within months of opening; signature omakase £300 for 20 courses; 16 seats.",
+        "Maru": "£210 (£175 Saturday lunch); took over the old Taka space.",
+        "Kurisu Omakase": "£150; Brixton, 'a much more laid-back iteration'.",
+        "Sushi Tetsu": "Seven seats, two seatings; 'one of the hardest to get a seat at in the whole of London'.",
+        "Juno": "Six seats, £230 including service; Mexican-Japanese.",
+        "Sushi Kyu": "Ten seats; £71.70 dinner, £51.80 lunch.",
+        "Sushi on Jones": "King's Cross, Goods Way; eight seats on the first floor; £68 for 12 courses, £100 for 20."
+      }
+    },
+    {
+      "name": "Hot Dinners - Where to get good takeaway sushi in London",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-sushi-takeaway-london-grab-and-go",
+      "scope": "sushi",
+      "tier": "C",
+      "dated": "2025-08-07",
+      "ranked": false,
+      "names": [
+        "Sushinoya",
+        "Hase-Ya",
+        "LOH Japandi",
+        "Sushi Shop",
+        "Sushi Joy",
+        "Sushi Show",
+        "Notting Hill Fish Shop",
+        "Atari-Ya"
+      ],
+      "quotes": {
+        "Sushinoya": "King's Cross, The Circle at St Pancras: open kitchen preparing sushi in front of you in the old Yo Sushi unit.",
+        "Hase-Ya": "Ealing, 10 South Ealing Road; chef Susumu Hasegawa began on a street food stall; donburi bowls and nigiri sets.",
+        "LOH Japandi": "228 Bishopsgate: Japanese and Scandinavian, very unclassical sushi.",
+        "Sushi Shop": "French chain, branches in Battersea, Hampstead, Marylebone, Notting Hill, South Kensington.",
+        "Sushi Joy": "Chinatown hole-in-the-wall launched summer 2025; fried ebi nigiri.",
+        "Sushi Show": "Owner Kaz Tateishi has 25 years at Billingsgate; Angel and Shoreditch.",
+        "Notting Hill Fish Shop": "Sibling of Dorian and Eel Sushi; bluefin tuna akami, chutoro, otoro to go.",
+        "Atari-Ya": "The West Acton shop (7 Station Parade) is the pick for takeaway; sashimi from the fishmonger counter."
+      }
+    },
+    {
+      "name": "Secret London - 16 Of The Best Sushi Restaurants In London",
+      "url": "https://secretldn.com/best-sushi-london/",
+      "scope": "sushi",
+      "tier": "C",
+      "dated": "2024-08-01",
+      "ranked": false,
+      "names": [
+        "Bisushima",
+        "SUSHISAMBA",
+        "Sushi Tetsu",
+        "SushiDog",
+        "Atari-Ya",
+        "Yoshino",
+        "Zuma",
+        "Uchi",
+        "Nobu Old Park Lane",
+        "Sticks'n'Sushi",
+        "Ikeda",
+        "Endo at the Rotunda",
+        "Sumi"
+      ],
+      "quotes": {
+        "Bisushima": "Rooftop of the Phase8 Hotel, 8 St Martin's Place; Edomae-style sushi with views of Trafalgar Square.",
+        "SushiDog": "Seven grab-and-go outlets: Westfield White City, Soho, Seven Dials, Bishopsgate, Baker Street, Strand, London Bridge.",
+        "Atari-Ya": "Hendon is the pick for sushi; also Golders Green on Finchley Road.",
+        "Yoshino": "3 Piccadilly Place, round the corner from Piccadilly Circus; the neon 'sushi' sign; silky salmon nigiri; also a supplier.",
+        "Uchi": "Clapton; romantic, the sushi is 'the real gem'."
+      },
+      "note": "Samuel Hopkins, 1 August 2024. Roji (closed), Inamo and Kaia (pan-Asian) not recorded."
+    },
+    {
+      "name": "The Nudge - The Best Sushi Restaurants in London",
+      "url": "https://thenudge.com/the-best-sushi-restaurants-in-london/",
+      "scope": "sushi",
+      "tier": "C",
+      "dated": "2026-10-14",
+      "ranked": false,
+      "names": [
+        "Maru",
+        "Juno",
+        "Eel Sushi",
+        "Luna Omakase",
+        "Umu",
+        "Himi",
+        "Sushi Atelier",
+        "Kumori",
+        "Temaki",
+        "Sushi Amamoto",
+        "Kioku by Endo",
+        "Los Mochis City"
+      ],
+      "quotes": {
+        "Maru": "Top 5 pick: a daily-changing 20-course omakase menu.",
+        "Himi": "Carnaby izakaya; classic tuna trio (lean, medium fatty, otoro) and squid with bergamot and salt.",
+        "Sushi Atelier": "'For sheer variety'; sold by the platter or handpicked: snow crab, grouper, butterfish, horse mackerel.",
+        "Kumori": "Handrolls 'having a moment': named at Soho.",
+        "Temaki": "Handrolls at 'the sleekly upmarket Temaki in Mayfair', i.e. after its move from Brixton.",
+        "Sushi Amamoto": "'The exquisite subterranean sushi cavern'.",
+        "Kioku by Endo": "Rooftop of the Raffles OWO, 'a roaming tuna trolley'."
+      },
+      "note": "Last updated 14 October 2026 per the page. Los Mochis City is named for its tuna-carving ceremony, a Mexican-Japanese room; recorded as the source wrote it."
+    },
+    {
+      "name": "Washoku Guide - Best Sushi in London: 44 Authentic Spots",
+      "url": "https://washoku-guide.com/cities/london/sushi",
+      "scope": "sushi",
+      "tier": "C",
+      "dated": "2026-10-17",
+      "ranked": false,
+      "names": [
+        "Sushi Amamoto",
+        "Sumi",
+        "Endo at the Rotunda",
+        "Sushi Kanesaka",
+        "The Araki",
+        "Tobi Masa",
+        "Sushi Tetsu",
+        "Kioku by Endo",
+        "NIJŪ",
+        "Maru",
+        "Iné",
+        "Cubé",
+        "Sushi Kyu",
+        "Yashin Sushi",
+        "Yashin Ocean House",
+        "Shiro",
+        "Miyako",
+        "Cocoro Marylebone",
+        "Cocoro Highgate",
+        "Ikeda",
+        "Kikuchi",
+        "Atari-Ya",
+        "Cafe Japan",
+        "Tomoe",
+        "Ke Sushi",
+        "Umi",
+        "Sushi Masa",
+        "Maido Sushi",
+        "Hase-Ya",
+        "Ta Ke Sushi",
+        "Zaibatsu",
+        "Kurisu Omakase",
+        "Sushi Bar Makoto",
+        "Kiku",
+        "Kulu Kulu",
+        "Sushinoen",
+        "TOKii",
+        "Mayha",
+        "Noren by Chisou",
+        "Sushi by Masa",
+        "Fan"
+      ],
+      "quotes": {
+        "Hase-Ya": "Listed under sushi at the cheapest price band.",
+        "Kulu Kulu": "Listed under sushi at the cheapest price band.",
+        "Cocoro Marylebone": "Marylebone Lane, run by the Suzui family since 2005.",
+        "Ikeda": "Mayfair institution since 1973, family-run under Kenichi Ikeda.",
+        "Kikuchi": "Fitzrovia, omakase.",
+        "Iné": "Hampstead High Street, sister to Taku, 17-course omakase."
+      },
+      "note": "A curated guide to Japanese-owned or Japanese-chef restaurants (methodology page: every listed restaurant must be Japanese-owned or have a Japanese head chef). 44 entries numbered 01 to 44 with no stated ranking. Zaibatsu is noted elsewhere as closed, even if temporarily, and Endo at the Rotunda closed after a fire, so neither reaches the page."
+    },
+    {
+      "name": "Harrison Webb (YouTube) - I Tried Cheap vs Expensive Sushi",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2025-09-28",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Japan Centre",
+        "Sushi Kanesaka"
+      ],
+      "quotes": {
+        "Japan Centre": "Started at Japan Centre on Panton Street, spending £34 on sushi, sashimi and other bits, as the cheap end of the comparison.",
+        "Sushi Kanesaka": "Then Sushi Kanesaka in Mayfair, 'London's one Michelin star sushi restaurant', where the omakase is £420 a head."
+      },
+      "note": "Video xmdNhvqLUbI, 751k views. Description lists both places visited with Maps links; no hosting or ad disclosure."
+    },
+    {
+      "name": "The Staff Canteen (YouTube) - Inside The Araki London",
+      "url": "https://www.youtube.com/@Thestaffcanteen",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2025-02-04",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "The Araki"
+      ],
+      "quotes": {
+        "The Araki": "Chef Marty Lau shows otoro nigiri, the signature toro-and-truffle scrambled egg and ika nigiri; the channel notes the restaurant lost its Michelin stars after Master Araki left."
+      },
+      "note": "Video qUz7T-5LjOw, 24k views. Trade-media chef feature rather than a paid visit; no disclosure in the description."
+    },
+    {
+      "name": "Jojo & Andy (YouTube) - Trying a Premium Japanese Omakase in London: INÉ",
+      "url": "https://www.youtube.com/@jojoandandy",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2025-12-06",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Iné"
+      ],
+      "quotes": {
+        "Iné": "Chaptered walk through the omakase: soup, three sashimi, salmon belly, six sushi courses, noodles and dessert, ending on a verdict."
+      },
+      "note": "Video RhqOhq7lkok. A second video from the same channel covers a Japanese A5 wagyu omakase at Kanpai Classic, which is not a sushi counter and is not recorded."
+    },
+    {
+      "name": "Explore with Chrissy (YouTube) - I Review SUSHI TACHI in London",
+      "url": "https://www.youtube.com/@ExplorewithChrissy",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2026-08-22",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sushi Tachi"
+      ],
+      "quotes": {
+        "Sushi Tachi": "Visited the New Oxford Street branch near Tottenham Court Road, newly expanded to the UK; tried sweet shrimp, squid, eel and scallop nigiri and rated freshness, taste and value, finding some better than others."
+      },
+      "note": "Video ZSCNYU3objw. Description carries no ad or hosting disclosure."
+    },
+    {
+      "name": "Tokyo Foodie Sarah (YouTube) - I'm Japanese and I Tried Wasabi's Sushi in London",
+      "url": "https://www.youtube.com/@TokyoFoodieSarah",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2024-11-30",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Wasabi"
+      ],
+      "quotes": {
+        "Wasabi": "A Japanese tour guide revisits the affordable sushi and bento chain she loved as a student in the UK, now after seven years in Japan, to see how it compares."
+      },
+      "note": "Video oQ6tJeOiLiw. The one Japanese-resident voice on the chain tier."
+    },
+    {
+      "name": "Kyoka (YouTube) - Favorite Sushi In London",
+      "url": "https://www.youtube.com/@kyoka_uk",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2025-02-08",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Tsukiji Tooting"
+      ],
+      "quotes": {
+        "Tsukiji Tooting": "Japanese-language video from a Japanese creator in the UK, headed 'Favorite Sushi In London': a sushi shop at Unit 68, Tooting Broadway Market."
+      },
+      "note": "Video _mKRnNQRPsQ. The description gives the stall's address and Instagram only."
+    },
+    {
+      "name": "mook vlog (YouTube) - London Vlog: celebrating with a £200 sushi dinner",
+      "url": "https://www.youtube.com/@mook_vlog",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2024-08-11",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Namaiki"
+      ],
+      "quotes": {
+        "Namaiki": "Japanese-language London vlog, 'celebrating with sushi at £200 a head', Namaiki linked in the places-visited list."
+      },
+      "note": "Video pFmipVaPU_M."
+    },
+    {
+      "name": "Sushi.DimSum (YouTube) - Review of Nanahoshi, formerly Jugemu",
+      "url": "https://www.youtube.com/@Sushi.DimSum",
+      "scope": "sushi",
+      "tier": "D",
+      "dated": "2025-04-23",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Nanahoshi",
+        "TOKii"
+      ],
+      "quotes": {
+        "Nanahoshi": "Titled 'Best Sushi Restaurant in London!'; review of the restaurant at Dewhurst House, 3 Winnett Street, W1D 6JY.",
+        "TOKii": "'5-star Hotel Sushi Restaurant in London!', a review of TOKii in The Prince Akatoki, Great Cumberland Place."
+      },
+      "note": "Videos RPoOP7wwZD0 and NqdAL4rKtCU, a small specialist channel reviewing Japanese and Chinese restaurants. 154 and 175 views."
+    },
+    {
+      "name": "r/LondonFood - Best sushi spot in london?? (26 Jan 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1qnsfk1/best_sushi_spot_in_london/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-01-26",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sushi Tetsu",
+        "Kurisu Omakase",
+        "Sushi Show",
+        "Ezo",
+        "Ta Ke Sushi",
+        "Hanana Sushi",
+        "Umi",
+        "Obon",
+        "Takahashi",
+        "Sasa",
+        "Hase-Ya",
+        "Atari-Ya",
+        "Eat Tokyo",
+        "Kurumaya",
+        "Moshi Moshi",
+        "Mai Sushi",
+        "Ozuki",
+        "Asakusa",
+        "Cafe Japan",
+        "Taro",
+        "Notting Hill Fish Shop",
+        "Hana Sushi",
+        "Sushi Tokoro",
+        "NIJŪ",
+        "Eel Sushi",
+        "Chisou",
+        "Kibou",
+        "Guru Guru",
+        "Sushi Futomaki",
+        "YO! Sushi"
+      ],
+      "quotes": {
+        "Sushi Tetsu": "Two commenters: 'Endo or Sushi Tetsu' for an unlimited budget.",
+        "Kurisu Omakase": "Recommended; one reply calls it 'very average if you exclude the entertainment factor'.",
+        "Sushi Show": "'Sushi Show in Shoreditch and/or Angel'.",
+        "Ta Ke Sushi": "'Ta Ke Sushi in Ealing Common. Large Japanese community there so the food is going to be very good.'",
+        "Hanana Sushi": "Two votes: 'Hanana Sushi in Richmond, for authentic Japanese stuff, not western knock offs.'",
+        "Hase-Ya": "Pointed to Vittles' mid-range sushi piece: 'I'll say Hase Ya and Atariya.'",
+        "Eat Tokyo": "Several comments: 'great sushi', 'never had a bad meal there', a commenter has been to Hammersmith 50+ times.",
+        "Moshi Moshi": "'If you want the first conveyor belt sushi bar in UK, then Moshi Moshi in Liverpool Street station.'",
+        "Kurumaya": "'Kurumaya in City of London.'",
+        "Asakusa": "'Super traditional, full of Japanese people, really good quality and no frills' (Mornington Crescent).",
+        "Taro": "'Taro has become my go to... I like sitting at the sushi counter at the Soho branch.'",
+        "Notting Hill Fish Shop": "'Not a proper restaurant, but the sushi... is top notch.'"
+      },
+      "note": "Endo (closed after the Rotunda fire), Yo! Sushi and one-line joke replies are not all recorded; names with only a negative reply are omitted."
+    },
+    {
+      "name": "r/LondonFood - Best sushi places (12 Apr 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1sjq38s/best_sushi_places/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-04-12",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sushi Kyu",
+        "Sasa",
+        "Eat Tokyo",
+        "Sushi Show",
+        "Ukiyo Handroll Bar",
+        "Himi",
+        "Sushinoen",
+        "Akira",
+        "Sagamiya"
+      ],
+      "quotes": {
+        "Sushi Kyu": "Asked about for a birthday; a reply paid about £90 each for two starters, nine pieces of nigiri and a handroll: 'good value for quite a fancy feeling experience'.",
+        "Sasa": "One reply calls it great and 'not outrageously expensive'; another was served brown tuna sashimi.",
+        "Eat Tokyo": "'My preference is Notting Hill'; another says Holborn.",
+        "Sushinoen": "'Sushinoen in Aldgate is great and budget friendly.'",
+        "Akira": "Japan House: 'The taste and service was excellent', three visits for special occasions; a £70 bento box.",
+        "Sagamiya": "'Sagamiya in Waterloo is a gem.'"
+      }
+    },
+    {
+      "name": "r/LondonFood - Best Sushi restaurants (where you can actually get a seat) (30 Aug 2025)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1n41cak/best_sushi_restaurants_where_you_can_actually_get/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2025-08-30",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Kurisu Omakase",
+        "Asakusa",
+        "Himi",
+        "NIJŪ",
+        "Eel Sushi",
+        "Sushi Tetsu",
+        "Hanasaki",
+        "Rai",
+        "Namaiki",
+        "Taro",
+        "Kioku by Endo",
+        "Sanjugo",
+        "Cubé",
+        "Angelina",
+        "Roketsu",
+        "Rokkon",
+        "Sticks'n'Sushi"
+      ],
+      "quotes": {
+        "Kurisu Omakase": "Two votes: 'as good as anywhere in London'; follow its Instagram because tables and cancellations are released there; 'something within a week' if flexible.",
+        "Sushi Tetsu": "'If you live here and are flexible with dates, it's not so bad.'",
+        "NIJŪ": "Counter dining not bookable; one reply found the tuna flavourless and the £28 futomaki poor.",
+        "Cubé": "Two votes: 'easy to get a reservation at and does classic counter style omakase'.",
+        "Rai": "A birthday 13-course omakase booked a week or two out: 'every dish was outstanding', pricey.",
+        "Hanasaki": "'Hanasaki near soho. Amazing Omakase.'"
+      },
+      "note": "Nobu Park Lane is named in the thread only as poor value; not recorded."
+    },
+    {
+      "name": "r/LondonFood - Best sushi restaurants in London? (21 Apr 2025)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1k44t9a/best_sushi_restaurants_in_london/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2025-04-21",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Maru",
+        "Sushi Tetsu",
+        "Kurisu Omakase",
+        "Sticks'n'Sushi",
+        "Eat Tokyo",
+        "Japan Centre",
+        "Dozo",
+        "Kikuchi",
+        "Hanasaki",
+        "Kioku by Endo",
+        "Cubé",
+        "Tsunami",
+        "Takahashi",
+        "YO! Sushi"
+      ],
+      "quotes": {
+        "Maru": "'Maru (£300ish)' on the higher end; Kurisu 'of similar quality' for about £150.",
+        "Kurisu Omakase": "One reply: the chef used Sainsbury's lemons in place of yuzu and was 'not very impressed'.",
+        "Eat Tokyo": "'Some of the best I've had in town' (Soho); 'can't go wrong with any Eat Tokyo'.",
+        "Japan Centre": "'Go there at the end of the day and they reduce the prices for clearance.'",
+        "Kikuchi": "'Kikuchi is fantastic.'",
+        "Hanasaki": "'The best sushi I've ever had. The Omakase there is amazing.'",
+        "Cubé": "'A little pricey but not ridiculously so.'"
+      }
+    },
+    {
+      "name": "r/LondonFood - Any 'cheap' takeaway sushi shops? (14 Oct 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1x5kzwm/any_cheap_takeaway_sushi_shops/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-10-14",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Japan Centre",
+        "Itsu",
+        "Sushi Tachi",
+        "Eat Tokyo",
+        "Atari-Ya",
+        "Kulu Kulu",
+        "Mugen",
+        "Sushi Show",
+        "Natural Natural",
+        "Yoshino"
+      ],
+      "quotes": {
+        "Japan Centre": "'50% off Japan centre Piccadilly after 20:00. Sushi platters & sashimi!'; another: 'Japan centre does end of day discounts'.",
+        "Itsu": "'Itsu in the last half hour before closing' at 50% off; another reply: 'I don't recommend Itsu, not even at half price.'",
+        "Sushi Tachi": "'Sushi Tachi and the takeaway assortment at Japan centre.'",
+        "Kulu Kulu": "'Smaller joints with good reviews. Places like Kulu Kulu.'",
+        "Mugen": "'Mugen takeaway shop in Farringdon, Sushi Show in Camden Passage.'",
+        "Natural Natural": "'Natural Natural in Ealing or Finchley Road! They are Japanese owned small independent businesses.'",
+        "Yoshino": "The Piccadilly shop is still there but now more of a sit-down place."
+      }
+    },
+    {
+      "name": "r/LondonFood - Best sushi in LDN? (16 May 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1tetdde/best_sushi_in_ldn/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-05-16",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sumi",
+        "Takahashi",
+        "Rai",
+        "Sushi Tetsu",
+        "Sushi Show",
+        "Dinings Marylebone",
+        "Ta Ke Sushi",
+        "Kioku by Endo",
+        "Dinings SW3",
+        "Eel Sushi",
+        "Chisou",
+        "TOKii",
+        "Kurisu Omakase",
+        "Mayha",
+        "Juno",
+        "The Araki",
+        "Sushi Atelier",
+        "NIJŪ",
+        "Roka",
+        "Umu",
+        "Sticks'n'Sushi"
+      ],
+      "quotes": {
+        "Sumi": "Two replies: 'fantastic and same owner as Endo'; 'Sumi and Eel Sushi'.",
+        "Takahashi": "'Ex-Nobu chef who decided to open a truly Japanese experience in the most unlikely location. Truly worth the travel there.'",
+        "Rai": "Three replies; one paid about £300 for two including drinks at lunch for an anniversary.",
+        "Sushi Show": "'Always full of Japanese customers... really good and varied sushi at very affordable price.'",
+        "Dinings Marylebone": "'My favourite is Dinings, in Marylebone. Great fresh fish... intimate venue.'",
+        "Mayha": "One reply recommends it for lunch; another left hungry after the dinner omakase.",
+        "Juno": "'Amazing food, brilliant experience.'",
+        "Roka": "'Niju in Mayfair, ROKA Charlotte Street... my top 2' after ten-plus London sushi restaurants.",
+        "Umu": "'Special one that doesn't get talked about enough.'"
+      },
+      "note": "A reply says Endo is 'hands down number 1' but gives no date; with the Rotunda burned down and the Chelsea restaurant not yet open when posted, not recorded."
+    },
+    {
+      "name": "r/LondonFood - Sushi Recommendations (5 Jan 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1q4xg8g/sushi_recommendations/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-01-05",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Eat Tokyo",
+        "Mai Sushi",
+        "Sushi Atelier",
+        "Sasa",
+        "Kokin",
+        "Sticks'n'Sushi",
+        "Taro",
+        "Dinings SW3"
+      ],
+      "quotes": {
+        "Eat Tokyo": "'Pretty good for its price'; another reply says the Golders Green branch is the best sushi they have had outside Japan.",
+        "Mai Sushi": "Chalton Street, by Euston: 'crazy good value for the quality... quite small so would recommend booking, and it's nothing fancy to look at'.",
+        "Sushi Atelier": "'Sushi Atelier on Great Portland St is wonderful.'",
+        "Sasa": "Two replies: 'gorgeous big airy room, lovely fresh fish'; 'reasonable and good vibes'.",
+        "Kokin": "'Kokin in the Stratford Hotel is excellent and great value.'",
+        "Taro": "Kennington and Brewer Street; a reply adds the group has more branches, including Catford."
+      }
+    },
+    {
+      "name": "r/LondonFood - Looking for sushi recommendations around 100 pounds (18 Jul 2025)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1m2sina/looking_for_sushi_recommendations_around_100/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2025-07-18",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sushi Atelier",
+        "Hanasaki",
+        "Dinings SW3",
+        "Himi",
+        "YO! Sushi",
+        "Temaki",
+        "Sushi Kyu",
+        "Sasa",
+        "Mai Sushi",
+        "SUSHISAMBA"
+      ],
+      "quotes": {
+        "Sushi Atelier": "'15 piece premium omakase is £62, add a few individual pieces or starters and you'll eat fantastically'; good lunchtime deals.",
+        "Hanasaki": "'Get the omakase menu... make sure you book! Sit at the bar if you get the option' - a small room with four or six bar seats.",
+        "Temaki": "'Temaki in Brixton - all hand rolls. Gorgeous food.'",
+        "Mai Sushi": "'Euston... bang out a whole sushi boat. Not posh just excellent value.'",
+        "SUSHISAMBA": "'Near Liverpool Street. Specifically that one. The views.'"
+      }
+    },
+    {
+      "name": "r/LondonFood - Affordable conveyor belt sushi, open Sundays? (9 Apr 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1sh20bx/affordable_conveyor_belt_sushi_open_sundays/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-04-09",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Kulu Kulu",
+        "Moshi Moshi",
+        "YO! Sushi",
+        "Sushi Eatery",
+        "Eat Tokyo"
+      ],
+      "quotes": {
+        "Kulu Kulu": "The asker planned Kulu Kulu and found it closed on Sundays.",
+        "Moshi Moshi": "'One spot in Liverpool Street called Moshi Moshi'; the asker found it closed on Sundays too.",
+        "YO! Sushi": "'On top of Kulu': 'not terrible but it's not good'; another reply says it has stopped running the belt at many sites.",
+        "Sushi Eatery": "'Sushi eatery in Soho does all you can eat for about 27 pounds and is fairly good quality.'",
+        "Eat Tokyo": "'Not conveyor but go to EatTokyo... extensive menu and affordable.'"
+      }
+    },
+    {
+      "name": "r/LondonFood - Sushi Suggestion (Soho / Central) (24 Sep 2026)",
+      "url": "https://www.reddit.com/r/LondonFood/comments/1wp3aoi/sushi_suggestion_soho_central/",
+      "scope": "sushi",
+      "tier": "E",
+      "dated": "2026-09-24",
+      "ranked": false,
+      "recorded": "2026-10-17",
+      "names": [
+        "Sasa",
+        "Himi",
+        "Cubé",
+        "Dinings Marylebone",
+        "Rai",
+        "Sushi Kyu",
+        "Miokuru",
+        "Sushinoen",
+        "Sushi Atelier",
+        "Yoshino",
+        "Namaiki",
+        "Mayha",
+        "Kulu Kulu",
+        "Sushi Eatery",
+        "Ima",
+        "Kikuchi",
+        "Eat Tokyo",
+        "Sagamiya",
+        "Sticks'n'Sushi",
+        "Tomoe",
+        "Myma Sushi"
+      ],
+      "quotes": {
+        "Sasa": "'The best value sushi I've had in London. Omakase main and an A5 Wagyu starter was about £60 per person.'",
+        "Himi": "Four replies: 'my favourite spot for japanese food in central', about £80 a head.",
+        "Cubé": "'About £100 per head without drinks if you get the omakase.'",
+        "Sushi Kyu": "Two replies: 'only 10 seats at the counter', 'without a doubt'; the owner, Chef Mogi, started Cubé.",
+        "Miokuru": "'Hand rolls. 10/10'; another reply says the diner was there at the same time as Jay Rayner.",
+        "Namaiki": "'Namaiki is bar right in front of the chef. If you do the omakase he will explain each dish.'",
+        "Mayha": "'Mayha holds a special spot for me. Its omakase is amazing.'",
+        "Kulu Kulu": "'Sushi train so you can try many different dishes'; 'about the only place you can enter, eat a decent meal, and leave' quickly.",
+        "Sushi Eatery": "'Sushi Eatery is fab, on Frith street.'",
+        "Kikuchi": "'Kikuchi, but clear it with your bank manager first.'",
+        "Eat Tokyo": "Two replies: 'one of the best places for variety, value and quality', especially Holborn and Soho.",
+        "Tomoe": "Putney: 'authentic Jap... lunch set is so affordable'.",
+        "Myma Sushi": "Canning Town: 'hands down the best' for the poster; executive chef is the same as Sexy Fish."
+      },
+      "note": "Nobu Old Park Lane (one 'terrible', one 'excellent quality') and SUSHISAMBA (one 'decent', one 'just fluff') split the thread and are not recorded. Ten Ten Tei, mentioned as missed, is not recorded."
+    }
+  ],
+  "declined": [
+    {
+      "source": "JOLLY (YouTube, @jolly) - Two Brits try Michelin Star Sushi!",
+      "url": "https://www.youtube.com/@jolly",
+      "why": "Hosted visit: the description reads 'Special thanks to ... the amazing team at Taku for having us and giving us the ultimate Omakase experience'. A venue-hosted film is the venue's own marketing, not an independent opinion."
+    },
+    {
+      "source": "Inside Kitchen London (YouTube) - 18 course Omakase at Sushi Kanesaka, parts 1 and 2",
+      "url": "https://www.youtube.com/@InsideKitchen_LDN",
+      "why": "Written from the restaurant's side ('exclusive behind-the-scenes filming', closing 'visit us to enjoy Omakase'): treated as the venue's own content."
+    },
+    {
+      "source": "Socially Guide (YouTube) - SUSHISAMBA Heron Tower",
+      "url": "https://www.youtube.com/@SociallyGuide",
+      "why": "Includes 'an exclusive moment with the chef': treated as a hosted visit."
+    },
+    {
+      "source": "DesignMyNight - A Guide To Sushi In London (3 June 2025)",
+      "url": "https://www.designmynight.com/london/blog/a-guide-to-sushi-in-london",
+      "why": "Written by Erin Niimi Longhurst, who also wrote Time Out's 20 best sushi list: one author's opinion, so not counted a second time."
+    },
+    {
+      "source": "Balance Journal and Best-Japanese.co.uk",
+      "url": "https://balancejournal.co/food-drink/best-japanese-restaurants-london",
+      "why": "Counted in data/consensus/japanese.json, but both are general lifestyle sites with no named reporter or visible visit; not reused for sushi."
+    },
+    {
+      "source": "Eater London - The Best Sushi in London (updated 15 Sep 2022); ELLE UK (2020); Evening Standard (2018)",
+      "url": "https://london.eater.com/maps/best-sushi-london",
+      "why": "Older than 36 months, with many of the named restaurants since closed or renamed."
+    },
+    {
+      "source": "SquareMeal, The Handbook and Londonist sushi lists",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/Best-sushi-London_9207",
+      "why": "Return HTTP 403 to scripted requests, so no names could be read; not counted."
+    },
+    {
+      "source": "The Times sushi lists (best new Japanese for sushi, May 2026; most exclusive omakase, July 2026; Shuko Oda's picks, June 2026)",
+      "url": "https://www.thetimes.com/life-style/luxury/article/londons-most-exclusive-omakase-restaurants-times-luxury-qkc6v2nsz",
+      "why": "Paywalled; names not readable, not counted."
+    },
+    {
+      "source": "Japan Nakama - 14 Best Japanese Restaurants in London",
+      "url": "https://www.japannakama.co.uk/food/recommendations/14-londons-best-japanese-restaurants/",
+      "why": "Each entry carries a 'preferred branch' booking link; registered as blocked in data/sources.json."
+    }
+  ]
+}

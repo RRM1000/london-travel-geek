@@ -2589,6 +2589,47 @@
     "youtube.com/@BitesOfBelonging": {
       "tier": "D",
       "name": "Bites of Belonging (YouTube)"
+    },
+    "theweek.com": {
+      "tier": "B",
+      "name": "The Week"
+    },
+    "vogue.com": {
+      "tier": "B",
+      "name": "Vogue"
+    },
+    "youtube.com/@jojoandandy": {
+      "tier": "D",
+      "name": "Jojo & Andy (YouTube)"
+    },
+    "youtube.com/@ExplorewithChrissy": {
+      "tier": "D",
+      "name": "Explore with Chrissy (YouTube)"
+    },
+    "youtube.com/@TokyoFoodieSarah": {
+      "tier": "D",
+      "name": "Tokyo Foodie Sarah (YouTube)",
+      "note": "Japanese tour guide and businesswoman based in Tokyo; the chain-sushi voice on the sushi topic."
+    },
+    "youtube.com/@kyoka_uk": {
+      "tier": "D",
+      "name": "Kyoka (YouTube)",
+      "note": "Japanese-language channel from a Japanese creator living in the UK."
+    },
+    "youtube.com/@mook_vlog": {
+      "tier": "D",
+      "name": "mook vlog (YouTube)",
+      "note": "Japanese-language London vlog."
+    },
+    "youtube.com/@Sushi.DimSum": {
+      "tier": "D",
+      "name": "Sushi.DimSum (YouTube)",
+      "note": "Small specialist channel reviewing Japanese and Chinese restaurants."
+    },
+    "youtube.com/@InsideKitchen_LDN": {
+      "tier": "F",
+      "name": "Inside Kitchen London (YouTube)",
+      "note": "Behind-the-scenes filming written from the restaurants' side. DECLINED on sushi."
     }
   },
   "excludedWhy": {
