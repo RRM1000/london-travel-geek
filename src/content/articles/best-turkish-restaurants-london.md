@@ -1,9 +1,9 @@
 ---
 title: "The Best Turkish Restaurants in London, Cross-Referenced Across Every Major Guide of the Year"
-seoTitle: "Best Turkish Restaurants in London 2026, Ranked"
-description: "Not our opinion. Every restaurant here is ranked by how many independent guides name it — and most of them are on one road in north London."
+seoTitle: "Best Turkish Restaurant in London: Green Lanes First"
+description: "The best Turkish restaurant in London, ranked by how many independent guides name it. Mangal II and Antepliler lead, and most are on one road in north London."
 publishedAt: 2026-06-02
-updatedAt: 2026-09-22
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -28,7 +28,7 @@ faq:
     a: "Durak Tantuni in Harringay for tantuni wraps, Köfteci Metin on Green Lanes for kofte, and Üstün Lahmacun & Pide Salonu by Newington Green for lahmacun. All three are counter-style and named by two independent guides each."
 ---
 
-Turkish is the London cuisine with the clearest geography of any on this site. Nine of the twenty-seven restaurants that two or more guides agree on sit on **one road** — Green Lanes, running north through Newington Green, Stoke Newington and Harringay — and a second cluster sits a mile west in Dalston.
+**The best Turkish restaurants in London are on Green Lanes and in Dalston: Antepliler on Green Lanes and Mangal II in Dalston are the most-cited.** Turkish is the London cuisine with the clearest geography of any on this site. Nine of the twenty-seven restaurants that two or more guides agree on sit on **one road** — Green Lanes, running north through Newington Green, Stoke Newington and Harringay — and a second cluster sits a mile west in Dalston.
 
 That is the useful fact, and no ranking gives it to you. So this guide is arranged by where the food actually is.
 

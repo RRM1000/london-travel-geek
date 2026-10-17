@@ -1,11 +1,11 @@
 ---
 title: "Notting Hill's Colourful Houses: Which Streets Actually Have Them"
-seoTitle: "Notting Hill Colourful Houses: Best Streets + Map"
-description: "The pastel streets are not on Portobello Road. A walking route through the eleven streets that actually have the colour, plus where the cherry blossom is in spring."
+seoTitle: "Notting Hill Colourful Houses: The 11 Streets + Map"
+description: "Notting Hill's colorful houses are on eleven residential streets, not on Portobello Road. Start at Hillgate Place, two minutes from Notting Hill Gate station."
 heroImage: "../../assets/articles/notting-hill-colourful-houses/hillgate-place-corner.jpg"
 heroImageAlt: "A corner terrace of small houses on Hillgate Place painted pale blue, red, cream and yellow under a clear sky"
 publishedAt: 2026-09-06
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 reviewBy: 2027-03-01
 sites: [london]
 canonicalSite: london
@@ -27,7 +27,7 @@ faq:
     a: "About two hours at a photographing pace, covering roughly 3.5km from Notting Hill Gate to Ladbroke Grove. Walked briskly without stopping it is closer to 50 minutes, and the first four streets alone take about twenty."
 ---
 
-Almost everyone looking for Notting Hill's colourful houses goes to Portobello Road, walks its length, photographs some painted shopfronts and leaves slightly puzzled. **The pastel terraces are not on Portobello Road.** They are on the residential streets around it, and the best of them is a cluster of four streets that most visitors walk straight past on their way out of the station.
+**Notting Hill's colourful houses are on the residential streets around Portobello Road, not on it.** The best of them is a cluster of four streets (Hillgate Place, Farmer Street, Hillgate Street and Jameson Street) two to three minutes from Notting Hill Gate station, which most visitors walk straight past. Almost everyone looking for the pastel terraces goes to Portobello Road itself, walks its length, photographs some painted shopfronts and leaves slightly puzzled.
 
 This guide is a route through the eleven streets that actually have the colour, in walking order, from Notting Hill Gate to Ladbroke Grove. It also covers where the cherry blossom is, if you are here in spring.
 

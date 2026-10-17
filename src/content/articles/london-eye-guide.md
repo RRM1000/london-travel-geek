@@ -1,9 +1,9 @@
 ---
-title: "London Eye: 2026 Ticket Prices, Fast Track Advice & Sunset Timing"
-seoTitle: "London Eye 2026: Tickets, Fast Track & Sunset Guide"
-description: "The London Eye in 2026: real ticket prices, what Flexi Fast Track actually saves you, sunset booking timing, and where to store a suitcase before boarding."
+title: "London Eye Ticket Prices, Fast Track and Sunset Timing"
+seoTitle: "London Eye Price: From £29 Online, £39 at the Gate"
+description: "London Eye price: an adult ticket is from £29 online and £39 at the gate, a child from £26. What Fast Track adds, the sunset slot to book and the bundles."
 publishedAt: 2026-09-19
-updatedAt: 2026-09-29
+updatedAt: 2026-10-17
 reviewBy: 2026-12-31
 sites:
   - london
@@ -43,7 +43,7 @@ faq:
 ---
 
 > 💡 **The Short Version:**
-> - **Never buy at the gate:** Walk-up adult tickets cost **£39**; online advance slots start **from £29**. Book online.
+> - **The price:** An adult London Eye ticket costs **from £29 online** and **£39 at the gate**; a child aged 2 to 15 is **from £26 online** and **£35 at the gate**, and under-2s go free. Book online.
 > - **The best-value ticket isn't the Eye alone:** Merlin's five-attraction bundle (the Eye, Madame Tussauds, SEA LIFE, the Dungeon and Shrek's Adventure) runs **from £59 online against £184 bought separately**. The Eye-plus-Tussauds combo is **from £49 against £78 separately**. <a href="https://www.getyourguide.com/activity/-t26207?partner_id=WWP7I0R&amp;cmp=london-eye-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The London Pass on GetYourGuide</a> adds the Eye to 100+ other sights, including the Tower of London and Westminster Abbey.
 > - **Fast Track:** Standard queues run 20 to 30 minutes on a quiet day and 5 to 10 for Fast Track, rising to an hour or more at peak times. Flexi Fast Track costs **from £49 online / £54 at the gate** against Standard's **from £29 / £39** — a gap of roughly £20 online and £15 at the gate, not a flat £15 add-on.
 > - **The sunset rule:** Check the sunset time for your date and book a slot **30 minutes prior**. You board in daylight, reach the 135-metre apex during dusk, and see Parliament and the bridges light up on the descent.

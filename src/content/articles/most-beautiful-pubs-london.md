@@ -1,11 +1,11 @@
 ---
 title: "The Most Beautiful Pubs in London, Cross-Referenced Across Every Major List"
-seoTitle: "Most Beautiful Pubs in London 2026: Ranked"
-description: "Seventeen sources and CAMRA's register of protected pub interiors. The gin palaces, flower-covered frontages and award-winning restorations the lists agree on, and which ones shut on Sundays."
+seoTitle: "Most Beautiful Pubs in London: Gin Palaces to Flowers"
+description: "The most beautiful pubs in London: The Churchill Arms for its flowers, The Blackfriar and The Princess Louise for their interiors, and which close on Sundays."
 heroImage: "../../assets/articles/most-beautiful-pubs-london/churchill-arms-flowers.jpg"
 heroImageAlt: "The Churchill Arms on Kensington Church Street, its whole frontage covered in hanging flower baskets and Union flags, with a crowd drinking outside"
 publishedAt: 2026-07-14
-updatedAt: 2026-09-22
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -26,7 +26,7 @@ faq:
     a: "High summer, when the whole front is covered. In December the flowers make way for dozens of Christmas trees and lights. The crowd outside is there year-round, so for a clear photograph go early in the day."
 ---
 
-There are two ways a London pub gets called beautiful, and the lists split between them.
+**The most beautiful pubs in London are The Blackfriar and The Princess Louise for their interiors, and The Churchill Arms for its flower-covered frontage.** The lists split between those two ways a pub gets called beautiful.
 
 One is **the room**: a late Victorian gin palace with its etched glass, mirrors and carved mahogany still in place. Those are judged, because the Campaign for Real Ale keeps a **register of pub interiors of national importance** and rates them from one star to three. The other is **the outside** — flowers, a riverside terrace, a building in a cobbled lane — which is what gets photographed, and which nobody judges at all.
 
