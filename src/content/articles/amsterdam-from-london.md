@@ -1,9 +1,9 @@
 ---
 title: "Amsterdam from London by Eurostar: The Train, the Fares and a Day or a Weekend"
-seoTitle: "Amsterdam Day Trip from London: Eurostar Fares & Times"
-description: "St Pancras to Amsterdam Centraal is about four hours direct on Eurostar, from £39 one-way in Standard. Arrive 75-90 minutes early at both ends for UK and EU border checks, and as a day trip it is a squeeze — one or two nights lets the canal ring and the Rijksmuseum breathe."
+seoTitle: "Day Trip to Amsterdam from London: 4h19, From £39"
+description: "A day trip to Amsterdam from London is possible but tight: 4h19 direct on Eurostar from £39 one-way, plus 75-90 minutes of border checks at each end. One night is better."
 publishedAt: 2026-06-15
-updatedAt: 2026-09-28
+updatedAt: 2026-10-17
 reviewBy: 2026-10-27
 sites: [london]
 canonicalSite: london
@@ -31,7 +31,7 @@ faq:
     a: "Anne Frank House is the strictest: tickets go on sale every Tuesday at 10am CEST for a visit exactly six weeks later, only through its own website, and there's no door sale at all. The Van Gogh Museum is also online-only with no door sale — checked on GetYourGuide on 27 September 2026, its ticket was flagged 'Likely to sell out' with nothing available before 6 October, nine days out. The Rijksmuseum is the easiest of the three: booking is required, but the museum sells remaining tickets at the door subject to availability, and GetYourGuide still had next-day slots when we checked."
 ---
 
-**St Pancras to Amsterdam Centraal is about four hours direct on Eurostar — 4h19 outbound, 4h09 back — and Standard fares start from £39 one-way.** That's twice the journey time of the Eurostar to Paris, and the border admin costs you the same 75 to 90 minutes at both ends, not just one. Count the travel time at both ends and a day trip works only for an early riser; a night in the city is what actually lets Amsterdam breathe.
+**A day trip to Amsterdam from London is possible but tight: St Pancras to Amsterdam Centraal is 4h19 direct on Eurostar (4h09 back), Standard fares start from £39 one-way, and the 75 to 90 minutes of border checks at each end leave under four hours in the city on the realistic train.** That's twice the journey time of the Eurostar to Paris, and the border admin comes at both ends, not just one. A day trip works only for an early riser; a night in the city is what actually lets Amsterdam breathe.
 
 This guide covers both: the hours you actually get if you're determined to do it in a day, and what changes if you stay over — plus the three tickets in this city that need booking ahead of time, because two of them sell out.
 

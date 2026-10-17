@@ -1,9 +1,9 @@
 ---
 title: "The Best Hot Pot in London, and How to Order One if You Never Have"
-seoTitle: "Best Hot Pot London 2026: Where to Eat, What It Costs"
-description: "Sichuan mala, Beijing copper pots, Chaoshan beef and pay-by-weight malatang — where London's hot pot restaurants actually are, what the regional styles mean, and what a table for four really costs."
+seoTitle: "Best Hot Pot in London: Where to Eat, What It Costs"
+description: "The best hot pot (hotpot) in London: Haidilao is named by seven of 17 sources, Chilli Cool and Shu Xiang Ge lead the independents. Budget £25 to £40 a head."
 publishedAt: 2026-09-06
-updatedAt: 2026-09-21
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -25,6 +25,8 @@ faq:
   - q: "Is there halal hot pot in London?"
     a: "Yes. Hotto Potto in Aldgate runs a dedicated halal menu, Niu Hot Pot in Spitalfields has a halal section on its ordering sheet, and Simmer Huang at Canary Wharf is halal throughout. Ordinary hot pot menus lean heavily on pork and pork blood, so check before you order."
 ---
+
+**The best hot pot in London for a first time is Haidilao, named by seven of seventeen independent sources; Chilli Cool and Shu Xiang Ge are the most-named independents.** Budget £25 to £40 a head.
 
 At a hot pot the kitchen hands over the raw ingredients and leaves you to it. A pot of broth arrives at the table already boiling, plates of thinly sliced meat and vegetables arrive beside it, and for the next two hours you cook your own dinner piece by piece.
 

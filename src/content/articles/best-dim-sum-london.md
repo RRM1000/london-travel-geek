@@ -1,7 +1,7 @@
 ---
 title: "The Best Dim Sum in London: 15 Rooms Compared"
-seoTitle: "Best Dim Sum London 2026: Chinatown to Michelin Stars"
-description: "London dim sum from a two-starred kitchen in Victoria to a Chinatown room doing it the trolley-era way — with which serve all day and which are half the price."
+seoTitle: "Best Dim Sum in London: Chinatown to Michelin Stars"
+description: "The best dim sum in London and Chinatown: Royal China on Baker Street, a two-Michelin-starred lunch at A. Wong, trolley-era Joy King Lau, and who serves all day."
 heroImage: "../../assets/articles/best-dim-sum-london/best-dim-sum-london.jpg"
 heroImageAlt: "Bamboo steamers of prawn dumplings and other dim sum on a dark table"
 heroImageCredit: "Change C.C"
@@ -9,7 +9,7 @@ heroImageSource: "https://www.pexels.com/photo/assorted-dim-sum-in-bamboo-steame
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-08-25
-updatedAt: 2026-09-23
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -28,7 +28,7 @@ faq:
     a: "Three to four plates per person. Har gau (prawn dumplings) and siu mai are the standards every kitchen is judged on. Xiao long bao are Shanghainese rather than Cantonese — Dumplings' Legend folds them in front of the queue."
 ---
 
-Dim sum in London runs from a two-Michelin-starred lunch in Victoria to a trolley-era room off Leicester Square that has not changed in decades, and the price gap between them is larger than the quality gap.
+**The best dim sum in London is at Royal China on Baker Street, with A. Wong in Victoria for a two-Michelin-starred lunch. In Chinatown, Tao Tao Ju is the refined room and Joy King Lau the trolley-era one.** The price gap between the cheap end and the starred end is larger than the quality gap.
 
 The single most useful thing to know: **most dim sum halls stop serving around 5pm.** It is a lunch, not a dinner, and turning up at 7pm expecting steamed baskets is the standard mistake.
 

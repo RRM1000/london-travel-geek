@@ -1,11 +1,11 @@
 ---
 title: "The Best Filipino Restaurants in London, Cross-Referenced Across Every Major List and Review of the Year"
-seoTitle: "Best Filipino Restaurants in London 2026: Ranked"
-description: "Adobo, sisig and kare-kare across London, from a Bib Gourmand dining room off Carnaby Street to a banana-leaf feast in Earl's Court — with prices, hours and what to order."
+seoTitle: "Best Filipino Restaurant in London: Donia, Belly Bistro"
+description: "The best Filipino restaurant in London: Donia, a Bib Gourmand off Carnaby Street, then Belly Bistro, Panadera and banana-leaf feasts in Earl's Court."
 heroImage: "../../assets/articles/best-filipino-restaurants-london/kamayan-sisig.jpg"
 heroImageAlt: "Sisig served on a black cast-iron sizzling plate: chopped crisp pork with spring onions, a drizzle of mayonnaise, a raw egg yolk set in the centre and a wedge of lime"
 publishedAt: 2026-09-23
-updatedAt: 2026-10-07
+updatedAt: 2026-10-17
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london
@@ -24,6 +24,8 @@ faq:
   - q: "What is a kamayan or boodle fight?"
     a: "A feast laid out on banana leaves down the middle of the table — mounds of rice with grilled pork, chicken inasal, prawns, milkfish and lumpia tipped over the top — eaten with your hands and no cutlery. Lutong Pinoy, Kamayan sa Earl's Court, Rapsa and Turo Turo all run one, usually for a minimum of four people and from around £16 a head."
 ---
+
+**The best Filipino restaurant in London is Donia, off Carnaby Street, which holds a Bib Gourmand in the 2026 Michelin Guide.** Belly Bistro in Kentish Town, Panadera in Soho and Marylebone, and the banana-leaf feasts of Earl's Court are the others to know.
 
 Filipino cooking is the newest of London's significant food scenes and still the least written about. Ten years ago the capital had a handful of Filipino restaurants; it now has a Bib Gourmand and a second Filipino kitchen in the Michelin Guide, two entries in The Infatuation's top 25 restaurants in the city, a bakery Time Out gave five stars, and three streets in Earl's Court that Londoners call Little Manila.
 

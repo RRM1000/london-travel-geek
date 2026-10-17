@@ -1,10 +1,11 @@
 ---
 title: "The Best Peruvian Restaurants in London, Cross-Referenced Across Every Major List"
-seoTitle: "Best Peruvian Restaurants London 2026, Ranked"
-description: "Peruvian London is three scenes, not one: Nikkei counters, criollo kitchens and ceviche-and-pisco bars, from thirteen independent sources."
+seoTitle: "Best Peruvian Restaurant in London: Lima, Coya & More"
+description: "The best Peruvian restaurant in London depends on the scene: Lima, the only one ever Michelin-starred, Coya for a night out, Tierra Peru for the locals' pick."
 heroImage: "../../assets/articles/best-peruvian-restaurants-london/lima-dining-room.jpg"
 heroImageAlt: "A Peruvian dining room hung with a dense ceiling installation of pink, blue and cream threads, with terracotta pendant lamps and woven rattan chairs below"
 publishedAt: 2026-09-22
+updatedAt: 2026-10-17
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london
@@ -28,7 +29,7 @@ faq:
     a: "Yes, but not where most people look. Castle Square, the market that rehoused the shopping centre's traders, has Colombian, Ecuadorian, Guyanese and Caribbean kitchens rather than Peruvian ones. The Peruvian cooking is a few minutes away at Sabor Peruano on Newington Butts, which three independent sources name."
 ---
 
-Peruvian cooking sells in London in three different forms, and almost every published guide piles them into one list and sorts by price.
+**The best Peruvian restaurant in London depends on which of three scenes you want: Lima in Fitzrovia (Time Out's number one, and the only Peruvian restaurant in Greater London ever to hold a Michelin star), Coya for a night out, or Tierra Peru on Essex Road, the one Peruvian Londoners name.** Peruvian cooking sells in London in three different forms, and almost every published guide piles them into one list and sorts by price.
 
 There is **Nikkei** — the Japanese-Peruvian cooking that came out of Japanese migration to Peru, which is why a Notting Hill room can charge £120 for a menu built on raw fish. There is **criollo**, the stews, rice dishes and charcoal chicken that Peruvian families in Lambeth, Southwark and Elephant and Castle have eaten since the 1970s. And there is **ceviche and pisco as a bar format**, where the curing counter and the spirits list are the room rather than the menu. **This guide splits them**, because choosing between a Piccadilly ceviche counter and an Elephant and Castle cantina is not a choice within one category.
 

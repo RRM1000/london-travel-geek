@@ -1,11 +1,11 @@
 ---
 title: "The Best Wetherspoons in London, and the Case for the Chain"
-seoTitle: "Best Wetherspoons London 2026: Pubs, Prices, Perks"
-description: "Six landmark branches verified building by building, four more by mainline stations, and the real numbers behind the beer, the breakfast and the £1.89 bottomless coffee."
+seoTitle: "Best Wetherspoons in London: Old Banks and Ballrooms"
+description: "The best Wetherspoons in London, or best spoons: a 1913 banking hall, a Liverpool Street ballroom and a Grade I dock office, with the £1.89 refill coffee."
 heroImage: "../../assets/articles/best-wetherspoons-pubs-london/hamilton-hall.jpg"
 heroImageAlt: "The gilded former ballroom of Hamilton Hall, a Wetherspoons inside Liverpool Street station, with chandeliers and ornate plasterwork"
 publishedAt: 2026-09-18
-updatedAt: 2026-09-25
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -26,11 +26,11 @@ faq:
     a: "No. Every branch is walk-in, order at the bar or through the app, with no reservations and — in most branches — no music."
 ---
 
-Wetherspoons gets dismissed as just the cheap option, which undersells what's actually going on. It is a 45-year-old, FTSE 250-listed pub company that has spent decades buying banking halls, ballrooms, cinemas and dock offices that nobody else wanted, keeping the marble and the plasterwork, and putting an £8.68 fried breakfast and a £1.89 bottomless coffee underneath it. Around 90 of its pubs are in Greater London, from a 1913 bank headquarters in the City to a unit in the Paddington Basin development that opened barely a year ago.
+**The best Wetherspoons in London are the ones in buildings that were something else: The Crosse Keys, a 1913 banking hall in the City; Hamilton Hall, the old ballroom at Liverpool Street station; and The Ledger Building, a Grade I-listed dock office at Canary Wharf.** Wetherspoons gets dismissed as just the cheap option, which undersells what's actually going on. It is a 45-year-old, FTSE 250-listed pub company that has spent decades buying banking halls, ballrooms, cinemas and dock offices that nobody else wanted, keeping the marble and the plasterwork, and putting an £8.68 fried breakfast and a £1.89 bottomless coffee underneath it. Around 90 of its pubs are in Greater London, from a 1913 bank headquarters in the City to a unit in the Paddington Basin development that opened barely a year ago.
 
 This is the practical case for the chain first — the real prices, the actual menu, which perks are still running in 2026 — and then the London branches worth going out of your way for: the six landmark buildings, plus the ones by the mainline stations that don't get written up nearly as often.
 
-> 💡 **The Short Version:** Six branches earn a special trip: **The Crosse Keys** (a marble 1913 banking hall), **Hamilton Hall** (the Great Eastern Hotel's old ballroom, and the chain's first pub in central London), **The Liberty Bounds** (Tower Hill), **The Ledger Building** (Grade I-listed, Canary Wharf), **The Rochester Castle** (Stoke Newington, trading since 1991) and **The Mossy Well** (Muswell Hill). Four more sit inside or beside King's Cross/St Pancras, Euston, Paddington and Waterloo — three of those opened in 2024 or 2025. On price: a pint here runs roughly half what a standard Zone 1 pub charges. The coffee refill is still real, still £1.89, and the twice-yearly beer festival is still running — the autumn 2026 festival is 7–18 October.
+> 💡 **The Short Version:** Six branches earn a special trip: **The Crosse Keys** (a marble 1913 banking hall), **Hamilton Hall** (the Great Eastern Hotel's old ballroom, and the chain's first pub in central London), **The Liberty Bounds** (Tower Hill), **The Ledger Building** (Grade I-listed, Canary Wharf), **The Rochester Castle** (Stoke Newington, trading since 1991) and **The Mossy Well** (Muswell Hill). Four more sit inside or beside King's Cross/St Pancras, Euston, Paddington and Waterloo — three of those opened in 2024 or 2025. On price: a pint here runs roughly half what a standard Zone 1 pub charges. The coffee refill is still real, still £1.89, and Wetherspoon has held a beer festival twice a year since 1990.
 
 ## The practical case
 
@@ -60,7 +60,7 @@ Still real, still current as of the branch menus checked for this guide in Septe
 
 **There's no loyalty scheme.** The app's own advertised feature list — order, pay, reorder, book a hotel — says nothing about points or rewards, unlike comparable pub-chain apps sold right alongside it in the App Store that lead with the word "Rewards."
 
-**The real ale side is genuine, not assumed.** Wetherspoon ran its first beer festival in 1990 — four days, six beers — and has run one twice a year since; past festivals have featured up to 50 beers, ten of them from overseas. The autumn 2026 festival runs **Wednesday 7 to Sunday 18 October**, thirty real ales including five international beers, with the first-ever Wetherspoon festival beers from Singapore and Ukraine alongside the usual UK brewers. Separately, **280 Wetherspoon pubs** carry CAMRA's own acclaim for the quality of their real ale, and the group holds Cask Marque accreditation.
+**The real ale side is genuine, not assumed.** Wetherspoon ran its first beer festival in 1990 — four days, six beers — and has run one twice a year since; past festivals have featured up to 50 beers, ten of them from overseas. The autumn 2026 festival was **Wednesday 7 to Sunday 18 October**, thirty real ales including five international beers, with the first-ever Wetherspoon festival beers from Singapore and Ukraine alongside the usual UK brewers. Separately, **280 Wetherspoon pubs** carry CAMRA's own acclaim for the quality of their real ale, and the group holds Cask Marque accreditation.
 
 **Prices are not the same everywhere.** That includes the six branches below — a City pint and a Muswell Hill pint are not the same number, and neither is published online. Check the app once you're inside, not before.
 

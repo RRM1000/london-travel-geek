@@ -1,7 +1,7 @@
 ---
 title: "National Rail 2FOR1: How to Actually Get Two-for-One on London Attractions"
-seoTitle: "National Rail 2FOR1 London 2026: Rules & Attractions"
-description: "The 2FOR1 scheme explained — why Oyster and contactless do not qualify, which attractions are included, which ones are only a third off, and when it is not worth the trouble."
+seoTitle: "2FOR1 London: Tower, Kew, Abbey and the Rules"
+description: "2FOR1 in London: show a National Rail ticket for a free second entry at the Tower of London, Kew and Westminster Abbey. Oyster does not count; the London Eye is a third off."
 publishedAt: 2026-07-02
 updatedAt: 2026-10-17
 reviewBy: 2026-12-31
@@ -32,13 +32,9 @@ heroImage: "../../assets/articles/kings-cross-area-guide/st-pancras-station.jpg"
 heroImageAlt: "The train shed at St Pancras International, with platforms and the Victorian ironwork roof above"
 ---
 
-> 💡 **The Short Version:** You need **two people**, **two valid National Rail tickets**, an **eVoucher** (or the attraction's own 2FOR1 booking), and an attraction that is actually in the scheme. Get any one of those wrong and you pay full price at the door.
+> 💡 **The Short Version:** 2FOR1 in London means showing a National Rail ticket to get a second person into the Tower of London, Kew Gardens, Westminster Abbey and more than a hundred other attractions free. You need **two people**, **two valid National Rail tickets**, an **eVoucher** (or the attraction's own 2FOR1 booking), and an attraction that is actually in the scheme. Get any one of those wrong and you pay full price at the door.
 
 > ⚠️ **Oyster and contactless do not qualify.** Not the card, not the phone, not a Travelcard bought at a Tube station. The offer needs a **National Rail** ticket, and the widely repeated advice to "print your TfL journey history instead" describes a process that does not exist.
-
-Show a National Rail ticket and one person gets into the Tower of London, Kew Gardens or Westminster Abbey free with a full-paying adult, and the same goes for more than a hundred other London offers.
-
----
 
 ## What the scheme actually is
 

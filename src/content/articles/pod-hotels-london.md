@@ -1,11 +1,11 @@
 ---
-title: "London's Capsule Hotels: What a Night in One Is Really Like"
-seoTitle: "Capsule Hotels London 2026: All Five Compared"
-description: "London has five real capsule hotels, not the eleven the listicles claim. What the berth is like, what's shared, the rules nobody mentions, and which one to book."
+title: "Pod Hotels in London: What a Night in a Capsule Is Really Like"
+seoTitle: "Pod Hotels in London: The Five Real Capsule Hotels"
+description: "A pod hotel in London means a capsule hotel, and there are five, from about £33 a night by Piccadilly Circus. What the berth is like, what's shared, which to book."
 heroImage: "../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg"
 heroImageAlt: "A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers"
 publishedAt: 2026-07-05
-updatedAt: 2026-10-07
+updatedAt: 2026-10-17
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -30,9 +30,9 @@ faq:
     a: "You get more privacy for about the same money — a solid shutter instead of a curtain, your own light and socket, and no one else's alarm at 6am. What you usually lose is the hostel's social side: none of the four dedicated capsule hotels has a kitchen or organised events, and two have no front desk at all. St Christopher's Village is the exception, because it is a hostel first: capsules upstairs, Belushi's bar and events downstairs."
 ---
 
-A capsule is a sealed berth roughly the size of a single bed, lined in oak, with a shutter you slide shut. You cannot stand up in it. It costs from about £33 a night one minute from Piccadilly Circus, which is the entire appeal.
+**A pod hotel in London means a capsule hotel, and London has five of them.** A capsule is a sealed berth roughly the size of a single bed, lined in oak, with a shutter you slide shut. You cannot stand up in it. It costs from about £33 a night one minute from Piccadilly Circus, which is the entire appeal.
 
-London has **five of them**, not counting ordinary hostels and small-room hotels.
+Ordinary hostels and small-room hotels such as YOTEL are not counted; the section on what gets miscalled a capsule hotel explains why.
 
 > 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book — 965 berths one minute from the Tube, a 24-hour front desk, and the lowest price of the five. **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** is the only one with a bar and a social side. **Otherwander Soho** is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
 >
