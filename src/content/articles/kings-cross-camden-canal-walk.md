@@ -279,3 +279,4 @@ Walked in reverse it still works, and Camden to King's Cross is the version most
 - **[The Camden area guide](/articles/camden-area-guide/)** — which of the five markets is which, the boat trips, and Primrose Hill.
 - **[The best canal walks in London](/articles/best-canal-walks-london/)** — the other four sections of the Regent's Canal, including the two tunnels with no towpath.
 - **[Free things to do in London](/free/)** — every stop on this walk costs nothing.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

@@ -183,6 +183,8 @@ North. A **Grade I listed warehouse of 1812**, built to hold imported tobacco an
 
 **Note:** Wapping is quiet. Some pubs shut earlier here than elsewhere in London — check before a late evening.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 <div data-stay-strip></div>
 
 ## Walking routes

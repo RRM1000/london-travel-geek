@@ -211,6 +211,8 @@ At Christmas the Power Station adds a riverside skate trail and winter food huts
 
 **Book ahead:** the Chimney Lift is timed entry and sells out at weekends — and check it is open at all, as it closes for maintenance.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Suggested half-day route
 
 1. **Start:** Battersea Power Station station (Northern line, Charing Cross branch).

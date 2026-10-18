@@ -235,6 +235,8 @@ Barts, a 1920s speakeasy behind an unmarked black door at Chelsea Cloisters on S
 
 **Avoid:** Chelsea Flower Show week in late May unless you have tickets — the whole area is congested and Sloane Square station struggles.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Walking routes
 
 **[Chelsea to Belgravia: a blue plaque walk →](/articles/chelsea-belgravia-plaques-walk/)**

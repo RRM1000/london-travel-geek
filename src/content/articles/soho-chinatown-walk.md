@@ -303,3 +303,4 @@ The route is flat. St Anne's churchyard is the one stop with steps and no step-f
 - **[London's blue plaques](/articles/london-blue-plaques/)**: Marx's plaque and the rest of the city's best.
 - **[The best live music venues](/articles/best-live-music-venues-london/)**: Ronnie Scott's and the other jazz rooms, for the evening.
 - **[Free things to do in London](/free/)**: every stop on this walk costs nothing to see.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

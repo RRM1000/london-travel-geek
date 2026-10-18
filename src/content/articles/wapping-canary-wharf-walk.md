@@ -259,3 +259,4 @@ For more, the area guides cover both ends: [Wapping](/articles/wapping-area-guid
 - **[Canal walks in London](/articles/best-canal-walks-london/)**: the Regent's Canal ends at stop 9, and you can walk it back to Little Venice.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)**: the river path the rest of the way.
 - **[The South Bank walk](/articles/south-bank-walk/)**: Westminster to Tower Bridge, which ends five minutes from where this one starts.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

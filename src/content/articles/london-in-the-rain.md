@@ -160,6 +160,7 @@ And if none of the above is covered enough: **BFI Southbank**'s Mediatheque lets
 
 ## Continue planning your London trip
 
+- 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🎭 **[London Theatre: How to Choose a Show and Pay Less](/articles/london-theatre-guide/)**
 - 🎢 **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**

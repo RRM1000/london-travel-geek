@@ -281,3 +281,4 @@ Walked the other way — Tower Bridge to Bank — it works, but it front-loads t
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
 - **[London's best markets](/articles/best-london-markets/)** — where Leadenhall sits among them, and which days the others run.
 - **[Thames walks](/articles/london-walks-along-the-thames/)** — pick up the river path at Tower Bridge and keep going.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

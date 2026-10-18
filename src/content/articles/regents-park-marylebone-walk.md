@@ -242,3 +242,4 @@ On a Sunday the route also works in reverse from Bond Street. That puts the mark
 - **[Hampstead Heath to Primrose Hill](/articles/hampstead-heath-primrose-hill-walk/)** — ends at a footbridge into the top of Regent's Park, if you want the long version.
 - **[The Mayfair area guide](/articles/mayfair-area-guide/)** — straight across Oxford Street from the finish.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — Regent's Park against the rest.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

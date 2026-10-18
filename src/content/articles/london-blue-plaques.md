@@ -407,6 +407,7 @@ For the full breakdown of the schemes, the colours and the rules, see our **[gui
 
 ## Continue planning your London trip
 
+- 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🗺️ **[Every plaque in London on one map](/plaques/)**
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**
 - 🏰 **[Historic Houses in London](/articles/historic-houses-london/)**

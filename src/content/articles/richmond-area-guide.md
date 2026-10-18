@@ -206,6 +206,8 @@ Behind the hill, and at 2,500 acres it is the largest of London's Royal Parks â€
 
 **Note:** Richmond Park closes to vehicles overnight and gates shut at dusk. Check closing times before an evening walk.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 <div data-stay-strip></div>
 
 ## Suggested full-day route

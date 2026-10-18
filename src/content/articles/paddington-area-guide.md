@@ -185,6 +185,8 @@ Ayllu, beneath Smith's in Sheldon Square, is a Japanese-Peruvian restaurant with
 
 **Note:** Waterbus services to Camden are much reduced outside summer. Check timetables before planning a trip around one.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Common mistakes to avoid
 
 1. **Getting lost in the station.** Paddington is a large interchange with poorly marked exits. Know whether you want Praed Street or Paddington Basin before you leave the platform.

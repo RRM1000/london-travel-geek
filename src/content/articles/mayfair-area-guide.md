@@ -114,7 +114,7 @@ Four covered Victorian shopping arcades within a few hundred metres — **Burlin
 
 **Burlington Arcade opened in 1819** and is the oldest and grandest. It is still patrolled by **Beadles** in top hats and frock coats, the oldest small police force in the world, and they enforce the original rules: **no running, no whistling, no singing, and no opening an umbrella inside.** They will stop you, politely.
 
-**The Royal Academy** is through the courtyard next door. It is **closed on Mondays**, open Tuesday to Saturday 10am to 6pm and until 9pm on Fridays, and the free Fine Rooms also open on Sundays, 11am to 4pm. Its exhibitions are ticketed but the courtyard, the shop and parts of the building are free to enter.
+**The Royal Academy** is through the courtyard next door. It is **closed on Mondays**, open Tuesday to Thursday and Sunday 10am to 6pm and until 9pm on Fridays and Saturdays, and the free Fine Rooms open 11am to 4pm, Sundays included. Its exhibitions are ticketed but the courtyard, the shop and parts of the building are free to enter.
 
 **Cecconi's at 5A Burlington Gardens** is the all-day Italian at the back of the arcade, and it takes bookings — most of Mayfair at this end does not do walk-ins well.
 
@@ -184,6 +184,8 @@ Bar des Prés on South Audley Street is the French chef Cyril Lignac's French-Ja
 **Best time:** Tuesday to Friday, in the daytime. The Royal Academy shuts on Mondays, the galleries mostly on Sundays, and Henry Poole opens on weekdays only.
 
 **Note:** The Summer Exhibition runs roughly June to August and is the busiest the Royal Academy gets.
+
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="mayfair-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

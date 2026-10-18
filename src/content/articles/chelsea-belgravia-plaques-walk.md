@@ -226,3 +226,4 @@ The route is **flat and step-free on pavements throughout**. Walked in reverse i
 - **[London's blue plaques](/articles/london-blue-plaques/)** — how the scheme works, who qualifies, and the interactive map of every plaque in the city.
 - **[The plaque map](/plaques/?area=chelsea)** — all 184 in this square, filtered to the area, if you want to build your own route.
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

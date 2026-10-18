@@ -234,6 +234,8 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 **Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets from two separate organisations. Until the Observatory closes on 2 November 2026, Royal Museums Greenwich sells a **day pass covering it and the Cutty Sark for £38 adult and £19 child**; the Painted Hall belongs to the Old Royal Naval College and is bought separately.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Walking routes
 
 **[A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops →](/articles/canary-wharf-greenwich-walk/)**

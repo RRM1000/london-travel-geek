@@ -227,6 +227,8 @@ Four of the bars in our speakeasy guide are within a walk of here: Nightjar behi
 
 **Avoid:** Monday to Wednesday if markets are your reason for coming — most are closed and the area is quiet.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Walking routes
 
 **[A Walk Through Shoreditch and Spitalfields: Columbia Road to Petticoat Lane →](/articles/shoreditch-spitalfields-walk/)**

@@ -347,3 +347,4 @@ Walked in reverse — Somerset House to Leicester Square — it works, but it pu
 - **[The London theatre guide](/articles/london-theatre-guide/)** — how the West End, off-West End and fringe differ, and how day seats actually work.
 - **[London's best markets](/articles/best-london-markets/)** — where the Apple Market and Jubilee sit among them, and which days the others run.
 - **[Free things to do in London](/free/)** — ten of these eleven stops cost nothing.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

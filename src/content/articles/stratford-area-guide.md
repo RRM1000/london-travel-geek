@@ -183,6 +183,8 @@ Bamboo Mat in East Village cooks Nikkei, the Japanese-Peruvian cuisine, and open
 
 **Check first:** East Bank venues have been opening in stages, and the London Stadium closes to tours on event days.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 <div data-stay-strip></div>
 
 ## Suggested half-day route

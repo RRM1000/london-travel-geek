@@ -286,3 +286,4 @@ The walk also works in reverse, from Tate Modern to London Bridge, which puts th
 - **[The Bermondsey area guide](/articles/bermondsey-area-guide/)**: Bermondsey Street, Maltby Street Market and the Beer Mile, starting just east of London Bridge station.
 - **[Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/)**: the George and London's other old pubs.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)**: more of the river on foot.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

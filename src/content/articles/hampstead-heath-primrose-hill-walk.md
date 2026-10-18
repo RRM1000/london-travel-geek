@@ -217,3 +217,4 @@ For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-t
 - **[The best views in London](/articles/best-views-london/)**: Parliament Hill and Primrose Hill against the rest.
 - **[Historic houses in London](/articles/historic-houses-london/)**: Kenwood and the others worth the trip.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)**: where the Heath sits against the royal parks.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

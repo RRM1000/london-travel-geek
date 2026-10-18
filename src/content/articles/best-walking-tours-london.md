@@ -300,3 +300,4 @@ Choose from three trails, **Westminster, Brixton or the City of London**, each o
 * **Children:** the Harry Potter and Paddington walks are the family ones. Ripper-Vision isn't suitable for under-10s without a parent's consent.
 * **Rather go on your own?** Our self-guided walks cover [Westminster](/articles/westminster-walk/), [the City](/articles/city-of-london-walk/), [the South Bank](/articles/south-bank-walk/), [Covent Garden](/articles/covent-garden-walk/) and [Shoreditch and Spitalfields](/articles/shoreditch-spitalfields-walk/), with maps.
 * **Already buying a bus tour?** Tootbus and Big Bus tickets bundle in some walking tours. See [London tour buses compared](/articles/london-tour-buses-compared/).
+* **Choosing where to walk?** [The best areas to visit in London](/articles/best-areas-to-visit-london/) compares the neighbourhoods by what each is best for, how long it takes and the best day to go.

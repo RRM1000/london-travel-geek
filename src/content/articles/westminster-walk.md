@@ -334,3 +334,4 @@ Walked in reverse — Trafalgar Square to Westminster Bridge — it works and en
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
 - **[The best views in London](/articles/best-views-london/)** — including the Westminster Cathedral tower, which is on this page as a detour and is one of the cheapest good views in the city.
 - **[Thames walks](/articles/london-walks-along-the-thames/)** — pick up the river at Westminster Pier and keep going in either direction.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

@@ -281,3 +281,4 @@ The route is flat and rarely more than ten minutes from a station, so you can st
 - **[London filming locations](/articles/london-filming-locations/)** — Bond, Sherlock, *Slow Horses* and the rest.
 - **[The City of London area guide](/articles/city-of-london-area-guide/)** and **[the Covent Garden area guide](/articles/covent-garden-area-guide/)** — the two areas this walk crosses.
 - **[London with children](/articles/london-with-children/)** — the rest of a family day.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

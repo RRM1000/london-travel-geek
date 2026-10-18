@@ -199,6 +199,8 @@ A genuine hamlet marooned inside the Heath itself, near North End — a handful 
 
 **Note:** The Heath is unlit and dark after sunset. Plan to be off it by dusk.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 <div data-stay-strip></div>
 
 ## Walking routes

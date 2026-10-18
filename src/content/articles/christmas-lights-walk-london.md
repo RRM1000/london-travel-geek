@@ -271,3 +271,4 @@ The route is flat, on pavements and pedestrian streets throughout, with a stretc
 - **[Things to do in London in December](/articles/things-to-do-in-london-in-december/)** — the Trafalgar Square tree lighting on 3 December, with carols, pantos and the Christmas Day closures.
 - **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** or **[in Soho and the West End](/articles/where-to-stay-soho-west-end/)** — to be a few minutes' walk from the lights rather than a Tube ride.
 - **[The Soho guide](/articles/soho-area-guide/)**, **[the Covent Garden guide](/articles/covent-garden-area-guide/)** and **[the Mayfair guide](/articles/mayfair-area-guide/)** — where to eat and drink along the route.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

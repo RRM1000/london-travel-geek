@@ -287,3 +287,4 @@ For the rest of Brick Lane and Spitalfields, see the [Shoreditch area guide](/ar
 - **[The Shoreditch area guide](/articles/shoreditch-area-guide/)** — the murals on Rivington, Redchurch and Hanbury Streets, which change month to month.
 - **[Free things to do in London](/free/)** — every Banksy on this route costs nothing.
 - **[London's best markets](/articles/best-london-markets/)** — where Brick Lane and the Truman Brewery markets sit among the rest.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

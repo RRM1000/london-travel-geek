@@ -53,7 +53,7 @@ area:
       note: "West along the Regent's Canal towpath, entirely traffic-free."
 faq:
   - q: "What day is Broadway Market on?"
-    a: "Saturdays, roughly 09:00 to 17:00. It is a food and produce market along a single street between London Fields and Regent's Canal, and it is busy — go before 11:00 for room to move. A smaller Sunday market runs at Netil Market just off it, and the shops on Broadway Market trade all week."
+    a: "Saturdays 09:00 to 17:00, with a smaller market on Sundays 10:00 to 16:00. It is a food and produce market along a single street between London Fields and Regent's Canal, and it is busy — go before 11:00 on a Saturday for room to move. The shops on Broadway Market trade all week."
   - q: "Can you swim at London Fields Lido?"
     a: "Yes. It is a 50-metre heated outdoor pool, open year-round including winter, and one of only a handful of Olympic-length lidos in London. It gets extremely busy at weekends and in hot weather — book a lane session online in advance rather than turning up."
   - q: "Is Hackney worth visiting for a tourist?"
@@ -80,7 +80,7 @@ Hackney has its own share of the commemorative plaques marking where notable peo
 
 ## Top sights and activities
 
-1. **Broadway Market** — Saturdays only, 09:00 to 17:00. A single street of food and produce traders between London Fields and the canal. Go before 11:00.
+1. **Broadway Market** — Saturdays 09:00 to 17:00, with a smaller market on Sundays 10:00 to 16:00. A single street of food and produce traders between London Fields and the canal. Go before 11:00.
 2. **London Fields Lido** — A heated 50-metre outdoor pool, open all year including winter. Book a session; it fills fast in summer.
 3. **London Fields** — The park itself, with a cricket pitch, a good pub on each corner and barbecues permitted in designated areas.
 4. **Victoria Park** — 213 acres east of the canal, opened in 1845 as London's first public park. Boating lake, deer enclosure and a good canal-side pub.
@@ -95,7 +95,7 @@ Hackney has its own share of the commemorative plaques marking where notable peo
 ## Key streets and micro-districts
 
 ### Broadway Market and London Fields
-The centre of visitor Hackney, and **a Saturday proposition above all else** — the market runs that one day, and the street is a different and much quieter place for the other six.
+The centre of visitor Hackney, and **a Saturday proposition above all else** — the full market runs on Saturday, a smaller one on Sunday, and the street is a different and much quieter place for the other five days.
 
 **London Fields** sits behind it, with the **lido** at its western edge: a heated 50-metre outdoor pool open year-round, and one of only a handful in London. **Netil Market** just off the top of Broadway Market is smaller, roofed and open more days.
 
@@ -146,7 +146,7 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
-| **Broadway Market stalls** | Food market | £ | Saturdays; oysters, salt beef, cheese and produce |
+| **Broadway Market stalls** | Food market | £ | Saturdays, and a smaller market on Sundays; oysters, salt beef, cheese and produce |
 | **Netil Market** | Food yard | £ | Just off Broadway Market, with a rooftop bar above |
 | **Pophams** | Bakery | £ | Bostock and pastries; queues out the door at weekends |
 | **Mangal 2** | Turkish ocakbasi | ££ | Dalston end; charcoal grill, long-standing local favourite |
@@ -181,6 +181,8 @@ Angelina on Dalston Lane cooks a Japanese-Italian set menu, and Cálong on Stoke
 
 **Combine it:** Columbia Road Flower Market is Sunday morning and twenty minutes south-west — an easy weekend pairing with Shoreditch.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Suggested half-day route
 
 1. **Start:** London Fields Overground. Walk south through **London Fields** past the lido.
@@ -193,7 +195,7 @@ Angelina on Dalston Lane cooks a Japanese-Italian set menu, and Cálong on Stoke
 
 ## Common mistakes to avoid
 
-1. **Coming for Broadway Market on the wrong day.** Saturday only.
+1. **Coming for Broadway Market on the wrong day.** Saturday is the full market and Sunday a smaller one; the rest of the week it is an ordinary street.
 2. **Looking for a Tube station.** There isn't one. Hackney is Overground and buses.
 3. **Turning up at the lido without booking.** It is a 50-metre pool and sessions sell out in summer.
 4. **Arriving at the market after midday.** It is shoulder to shoulder by then.

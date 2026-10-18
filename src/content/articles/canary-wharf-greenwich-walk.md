@@ -249,3 +249,4 @@ Start around 10am and you reach the market for lunch and the hill in the late af
 - **[The Canary Wharf area guide](/articles/canary-wharf-area-guide/)** — swimming, Eden Dock and Winter Lights.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — more river stretches, including Rotherhithe to Greenwich.
 - **[Free things to do in London](/free/)** — eight of these eleven stops cost nothing.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

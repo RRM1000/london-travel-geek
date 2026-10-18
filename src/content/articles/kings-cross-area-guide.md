@@ -227,6 +227,8 @@ Supermax, a late-night cocktail and disco bar hidden beneath Happy Face Pizza on
 
 **Note:** Coal Drops Yard shops keep normal retail hours; the restaurants run later. The canal towpath is unlit in places and best walked in daylight.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Walking routes
 
 **[The Regent's Canal from King's Cross to Camden →](/articles/kings-cross-camden-canal-walk/)**

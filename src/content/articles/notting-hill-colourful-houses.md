@@ -220,3 +220,4 @@ You finish at Ladbroke Grove, which is the top of Portobello Road, so the obviou
 - **[London's best markets](/articles/best-london-markets/)** — where Portobello sits among them, and which days each one actually runs.
 - **[Free things to do in London](/free/)** — this walk is one of them.
 - **[The best parks and gardens](/articles/best-parks-gardens-london/)** — Holland Park and the Kyoto Garden are fifteen minutes south of where you started.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

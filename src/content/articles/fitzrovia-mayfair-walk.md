@@ -266,3 +266,4 @@ Walked in reverse it works equally well and finishes by Charlotte Street at dinn
 - **[The Fitzrovia area guide](/articles/fitzrovia-area-guide/)** — the restaurant list for the evening.
 - **[The Westminster area guide](/articles/westminster-area-guide/)** — Buckingham Palace is on the far side of Green Park.
 - **[Free things to do in London](/free/)** — every stop on this walk costs nothing to see.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

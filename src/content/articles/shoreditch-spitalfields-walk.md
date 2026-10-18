@@ -338,3 +338,4 @@ The walk is **flat and paved throughout** and never more than about five minutes
 - **[London street art and Banksy](/articles/london-street-art/)** — the Rivington Street cluster north of here, and eight more areas.
 - **[The City of London walk](/articles/city-of-london-walk/)** — starts at Bank, ten minutes south-west of where this one finishes.
 - **[Where to stay in Shoreditch](/articles/where-to-stay-shoreditch/)** — the hotels compared, and which streets are loud at 2am.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

@@ -59,7 +59,7 @@ faq:
   - q: "Is White Cube Bermondsey free?"
     a: "Yes. The Bermondsey gallery is the largest commercial gallery in Europe and entry is free, as at most commercial galleries. It shows major contemporary artists in very large industrial spaces on Bermondsey Street. It closes between exhibitions, so check what is on."
   - q: "What is the Bermondsey Antiques Market?"
-    a: "A long-established antiques market on Bermondsey Square, held on Friday mornings and starting very early — traders are there from around 04:00 and the serious dealing is done by 08:00. It is a working trade market rather than a visitor attraction, which is much of its interest."
+    a: "A long-established antiques market on Bermondsey Square, held on Fridays from 6am to 2pm — an early start, and the serious dealing is done in the first hours. It is a working trade market rather than a visitor attraction, which is much of its interest."
   - q: "Is Bermondsey the same as Borough?"
     a: "No, though they run into each other. Borough is immediately west, around Borough Market and London Bridge station. Bermondsey is east of that, centred on Bermondsey Street and the railway arches. They are a ten-minute walk apart and easy to do together."
 heroImage: ../../assets/articles/bermondsey-area-guide/bermondsey-street-bermondsey-geograph-org-uk-3953124.jpg
@@ -88,7 +88,7 @@ Bermondsey has its own share of the commemorative plaques marking where notable 
 2. **The Bermondsey Beer Mile** — Breweries and taprooms in the arches between Bermondsey and South Bermondsey, mostly open at weekends. Not an official route and the line-up changes — check before you go.
 3. **White Cube Bermondsey** — The largest commercial gallery in Europe, free, showing major contemporary work in huge industrial rooms on Bermondsey Street.
 4. **Shad Thames** — The warehouse canyon east of Tower Bridge, with the original iron gantries still spanning the street overhead. The most photogenic street in the area.
-5. **Bermondsey Antiques Market** — Friday mornings on Bermondsey Square, starting around 04:00. A working trade market; the real dealing is finished by 08:00.
+5. **Bermondsey Antiques Market** — Fridays on Bermondsey Square, 6am to 2pm. A working trade market; the best finds go early.
 6. **Fashion and Textile Museum** — Zandra Rhodes's bright orange and pink building on Bermondsey Street. Small, ticketed, and focused on textiles and design.
 7. **The Thames Path and Bermondsey Beach** — East from Tower Bridge past Butler's Wharf. At low tide a shingle foreshore is exposed with views back to the bridge.
 
@@ -156,7 +156,7 @@ South-east along the viaduct towards South Bermondsey: a chain of working brewer
 
 The southern end of Bermondsey Street, and a modern square built on the site of Bermondsey Abbey — a small hotel, an independent cinema and a handful of places to eat around an open paved centre.
 
-**The antiques market runs on Friday mornings and it starts before dawn.** Traders set up from about 4am and it is largely over by early afternoon. It is one of the last genuine dealers' markets in London — this is where the trade buys, not a tourist antiques fair — and the early hours are how it works rather than an inconvenience.
+**The antiques market runs on Fridays from 6am to 2pm, and it starts before most of London is up.** Traders set up in the dark and the best stock goes in the first hours. It is one of the last genuine dealers' markets in London — this is where the trade buys, not a tourist antiques fair — and the early hours are how it works rather than an inconvenience.
 
 **Come Friday or do not come for the market at all.** The rest of the week the square is a pleasant enough place to sit with a coffee and nothing more.
 
@@ -207,6 +207,8 @@ Sollip on Melior Street, by London Bridge station, holds a Michelin star for Kor
 
 **Avoid:** Midweek if the market is your reason for coming. Friday very early is the exception, for the antiques market.
 
+Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
+
 ## Suggested half-day route
 
 1. **Start:** London Bridge station, **Tooley Street** exit.
@@ -225,7 +227,7 @@ Sollip on Melior Street, by London Bridge station, holds a Michelin star for Kor
 3. **Treating the Beer Mile as a fixed route.** Breweries open and close; check current hours before setting out.
 4. **Confusing Bermondsey with Borough.** Ten minutes apart — easy to do together, but not the same place.
 5. **Missing Shad Thames.** The gantried warehouse street east of Tower Bridge is the best-looking part of the area.
-6. **Turning up to the antiques market at 10am.** The trade is done by eight.
+6. **Turning up to the antiques market at 1pm.** It closes at 2pm and the best stock has gone.
 
 ## Where to stay
 

@@ -264,3 +264,4 @@ Walked east to west it works equally well and ends at Westminster, which is a be
 - **[The City of London walk](/articles/city-of-london-walk/)** — starts where this one finishes, on the other side of Tower Bridge.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — more river stretches, including the quiet ones east of here.
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
+- **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

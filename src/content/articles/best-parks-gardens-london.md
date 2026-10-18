@@ -318,6 +318,7 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ## Continue planning your London trip
 
+- 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🎪 **[Free Things to Do in London](/free/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**

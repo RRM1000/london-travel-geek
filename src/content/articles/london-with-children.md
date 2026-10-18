@@ -332,6 +332,7 @@ Family theatre, comedy and one-off shows in the week of October half-term.
 
 ## Continue planning your London trip
 
+- 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🧱 **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** — tickets from £32, under-90cm free, and the train and bus from London
 - 🐷 **[Paultons Park and Peppa Pig World](/articles/paultons-park-day-trip/)** — under-1m free, the train from Waterloo and every height limit
 - 🦁 **[Chessington World of Adventures](/articles/chessington-world-of-adventures-day-trip/)** — a theme park and zoo in Zone 6, on Oyster, with under-90cm free
