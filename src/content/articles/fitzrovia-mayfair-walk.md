@@ -157,7 +157,7 @@ Turn right along Burlington Gardens and enter **Burlington Arcade** from its nor
 
 Out on Piccadilly, turn left into the courtyard of **Burlington House**, home of the **Royal Academy**. The courtyard and the **John Madejski Fine Rooms** are free; the main exhibitions are ticketed. Backpacks and large bags cannot go into the galleries.
 
-> ⚠️ **The RA is closed on Mondays.** It opens Tuesday to Saturday, 10am to 6pm, and until 9pm on Fridays. The free Fine Rooms open Tuesday to Sunday, 11am to 4pm. The back entrance on Burlington Gardens is shut until spring 2027 while the Collection Gallery is expanded, so go in from Piccadilly.
+> ⚠️ **The RA is closed on Mondays.** It opens Tuesday to Sunday from 10am, until 6pm except on Fridays and Saturdays, when it stays open until 9pm. The free Fine Rooms open Tuesday to Sunday, 11am to 4pm. The back entrance on Burlington Gardens is shut until spring 2027 while the Collection Gallery is expanded, so go in from Piccadilly.
 
 ## 7. Piccadilly Arcade and Jermyn Street
 

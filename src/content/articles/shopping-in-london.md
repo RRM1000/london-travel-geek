@@ -101,7 +101,7 @@ This is where Londoners actually shop.
 * **Redchurch Street**, Shoreditch — design, denim, skincare.
 * **Seven Dials and Neal Street**, Covent Garden — small brands in seven radiating streets, and **Neal's Yard Dairy** is the best cheese shop in London.
 * **King's Road**, Chelsea — less punk, more homeware, and the Saatchi Gallery at the end is free.
-* **Broadway Market**, Hackney — Saturday.
+* **Broadway Market**, Hackney — Saturday and Sunday.
 * **Church Street**, Marylebone — antiques, and **Alfies Antique Market**, five floors of twentieth-century design, Tuesday to Saturday.
 
 ![Shoppers on a tree-lined pedestrian street in Seven Dials, with small brand shopfronts on both sides](../../assets/articles/shopping-in-london/seven-dials-shops.jpg)
@@ -149,7 +149,7 @@ This is where Londoners actually shop.
 | **Old Spitalfields** | Design, prints, vintage | Daily; themed days, busiest Sunday |
 | **Brick Lane / Truman Brewery** | Vintage, records | **Sunday** is full strength |
 | **Columbia Road** | Flowers, and the shops behind | **Sunday only**, 8am–3pm |
-| **Broadway Market** | Food, makers | **Saturday** |
+| **Broadway Market** | Food, makers | **Saturday and Sunday** |
 | **Greenwich Market** | Crafts, makers | Wed–Sun |
 | **Borough Market** | Food | **Closed Monday** |
 | **Leadenhall Market** | The building, mostly | Weekdays |

@@ -13,9 +13,9 @@ tags: [markets, street food, shopping, free things to do, things to do]
 draft: false
 faq:
   - q: "What is the best market in London?"
-    a: "Borough Market for food, Columbia Road for flowers, Portobello for antiques and Broadway Market for a Saturday. Which is best depends entirely on what day you are there — several only exist one day a week."
+    a: "Borough Market for food, Columbia Road for flowers, Portobello for antiques and Broadway Market for a weekend. Which is best depends entirely on what day you are there — several only exist one day a week."
   - q: "Which London markets are open every day?"
-    a: "Borough, Camden, Greenwich, Leadenhall and Old Spitalfields all trade most days. Columbia Road is Sunday only and Broadway Market is Saturday only — turning up on the wrong day is the most common way to waste a morning here."
+    a: "Borough, Camden, Greenwich, Leadenhall and Old Spitalfields all trade most days. Columbia Road is Sunday only and Broadway Market is Saturday and Sunday — turning up on the wrong day is the most common way to waste a morning here."
   - q: "Where can I eat at a London market?"
     a: "Maltby Street is built around hot food. Borough has both traders and produce. Columbia Road and Portobello are shopping markets where the food is incidental — good, but not the reason to go."
   - q: "Is Camden Market worth visiting?"
@@ -24,7 +24,7 @@ faq:
     a: "Yes. It is the UK's largest inland fish market, trades before dawn a few minutes from Canary Wharf, and the public can buy. Go very early — it is finished by about 8am."
 ---
 
-The single most useful thing to know about London markets is **which days they exist**. Columbia Road is a street of flower sellers on Sunday and an ordinary road the rest of the week. Broadway Market is a Saturday. Turning up on the wrong day is the standard way to waste a morning.
+The single most useful thing to know about London markets is **which days they exist**. Columbia Road is a street of flower sellers on Sunday and an ordinary road the rest of the week. Broadway Market is a Saturday and Sunday. Turning up on the wrong day is the standard way to waste a morning.
 
 We keep a full [markets by day](/markets/) page for exactly that reason. This guide is about what each one is actually *for* — including the flower, antiques and shopping markets.
 
@@ -146,7 +146,7 @@ A Victorian street **packed shoulder to shoulder with flower sellers shouting pr
 
 ### Broadway Market, Hackney
 
-*Saturday only · 35 Broadway Market E8 4PH*
+*Saturday 9am–5pm, Sunday 10am–4pm · 35 Broadway Market E8 4PH*
 
 Food, produce and vintage along a single street running down to the Regent's Canal, with **London Fields at the northern end** — which makes it work better than a market on its own: you buy lunch and then have somewhere to eat it.
 
@@ -349,7 +349,7 @@ Markets are the cheapest good food in London and one of the few free things to d
 
 ## What to know
 
-* **Check the day.** Columbia Road is Sunday, Broadway Market is Saturday, Leadenhall trades on City hours, so weekdays. See our [markets by day](/markets/) page.
+* **Check the day.** Columbia Road is Sunday, Broadway Market is Saturday and Sunday, Leadenhall trades on City hours, so weekdays. See our [markets by day](/markets/) page.
 * **Borough on a Tuesday** is a completely different and better experience than Borough on a Saturday.
 * **Columbia Road's last hour** is when the prices collapse.
 * **Billingsgate is over by 8am.** It is not a late-morning activity.
