@@ -194,4 +194,6 @@ For the other two ways of doing London on a budget from this side of town, our [
 
 **There is no Elizabeth line here**, which is the weakness of the address. For the City, Canary Wharf or Stratford you are changing at least once, and Paddington — five stops round on the Circle — is where the fast trains actually are.
 
+If you have not settled on an area yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
+
 *Rates, room grades, opening hours and the subway's dimensions taken from each operator's own site, the three museums' own visitor pages, Transport for London and the Historic England list entry, checked on 8 September 2026. Prices change nightly, so always check your own dates.*

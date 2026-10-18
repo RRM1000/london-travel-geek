@@ -270,4 +270,6 @@ On the match night the only room left at the Novotel was a suite, while Novotel 
 
 If you check out at noon and doors are at 18:30, the bag is a problem: the stadium admits nothing bigger than A4, and the arena has no cloakroom. The Novotel and Hilton both store luggage for guests. Our [luggage storage guide](/articles/luggage-storage-london/) covers the rest.
 
+If the event is one night of a longer trip, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
+
 *Hotel prices are typical ordinary-night rates for a double unless a date is given, checked September 2026. Event-night rates move daily, so check your own date.*
