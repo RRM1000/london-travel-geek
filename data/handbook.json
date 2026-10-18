@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-07",
+  "updated": "2026-10-18",
   "inProgress": [],
   "nextUp": [
     "Request indexing (about 10 a day) for the other nine: South Kensington where to stay, hen do, Caribbean, Vietnamese, Wapping to Canary Wharf walk, London Stadium, healthcare for visitors, Paultons Park, private members clubs. Rerun node scripts/index-coverage.mjs around 14 October.",
@@ -42,9 +42,17 @@
     "CJ: check whether the account is joined to Hotels.com UK only, or the US/global programme too. Most stay-guide readers are outside the UK and every link goes to uk.hotels.com; switching to hotels.com only works if the account is joined to the right one.",
     "Wundrful World of Christmas: the organiser's page now says 13 November (your screenshot said 11). Seven pages use 13 November; say if 11 is right.",
     "Re-check the British Museum guide and the November guide on 22 October, after the 21 October Bayeux ticket release.",
-    "Activities Sheet: point the British Museum row at /articles/british-museum-guide/ instead of the Bloomsbury guide."
+    "Activities Sheet: point the British Museum row at /articles/british-museum-guide/ instead of the Bloomsbury guide.",
+    "Google Sheet Activities tab still has the old Royal Observatory and Planetarium text: rewrite it from scripts/write-activities.mjs (dry-run first and compare row counts) before the next export.",
+    "Fares page: TfL maximum fares (£9.40 and £30.40) came off because no TfL page shows them; send the source to put them back. On 1 November switch the bus line in the Short Version and first FAQ to £1.85.",
+    "Best Sushi in London is written on branch ltg-sushi (29 sources, 140 venues) but not live: it needs venue photos, 38 Sheet rows and five booking links checked in a browser.",
+    "Still to do from 17 October: January 2027 guide, hotels with a pool, Wimbledon 2027 ballot and Bonfire Night refresh, dog-friendly chains and Soho/Shoreditch hotels (agents were stopped before finishing)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-18",
+      "what": "Pushed live: Things to Do in London in December 2026 (with data/months/december*.json), the Royal Observatory closure from 2 November on 23 pages and its activity cards, Christmas rail warnings (Paddington and Heathrow 27–30 December, the Great Eastern line) on nine pages, the fares page rewrite (bus fares first, 1 November rise), twelve near-page-one titles without a year, the dog-friendly hotels by-area table and Premier Inn answer, and eight past dates reworded."
+    },
     {
       "date": "2026-10-07",
       "what": "Index check: 256 of 275 guides indexed (215 of 260 on 29 Sep); the sitemap fixed it. Indexing requested in Search Console for Westminster Abbey, British Museum, November, London markets, Stonehenge, is London safe, Westminster walk, hotels with a pool, the O2 and hostels."
