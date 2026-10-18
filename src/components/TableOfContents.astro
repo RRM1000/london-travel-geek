@@ -153,11 +153,18 @@ const isDesktop = variant === "desktop";
        widget's space here means the CONTENTS gives way on a short screen,
        which is the right one to sacrifice - its list scrolls, the widget
        just crops. */
+    /* Rob, 18 October 2026: on short screens the list shrank to a line or
+       two. It never shows fewer than six whole entries now (six 34px rows,
+       their gaps and the list's bottom padding); the widget below, which
+       crops cleanly, gives way first. Same rule as City Break Geek. */
     max-height: min(
       22rem,
-      calc(
-        100dvh - var(--sticky-top-max) - var(--toc-summary-height) -
-          var(--toc-border) - var(--rail-gap) - var(--sidebar-widget-reserve)
+      max(
+        14.5rem,
+        calc(
+          100dvh - var(--sticky-top-max) - var(--toc-summary-height) -
+            var(--toc-border) - var(--rail-gap) - var(--sidebar-widget-reserve)
+        )
       )
     );
     overflow-y: auto;
