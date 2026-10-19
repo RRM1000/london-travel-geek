@@ -3,8 +3,8 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-06-29
-updatedAt: 2026-10-05
-reviewBy: 2026-10-20
+updatedAt: 2026-10-19
+reviewBy: 2026-10-30
 sites:
   - london
 canonicalSite: london
@@ -54,7 +54,7 @@ This guide lists every display you can buy a ticket for, the one that is still f
 | **Sun 1 Nov** | Richmond Family Fireworks · Colets, Thames Ditton |
 | **Thu 5 Nov** | **Coram's Fields (free)** · Wimbledon Park · Stow |
 | **Fri 6 Nov** | Stow · Totteridge · Orpington Golf Centre · Farringtons School, Chislehurst · Esher Rugby |
-| **Sat 7 Nov** | **The big one** — Alexandra Palace · **Battersea Park** · **Blackheath** · Danson Park · Morden Park · Harrow · Southgate · Ealing Cricket Club · Brentham Club · Dulwich · Beckenham · West Wickham · Chislehurst Rotary · Bromley High · Kempton Park · Chiswick Rugby Club · Lift Richmond Park · Stow |
+| **Sat 7 Nov** | **The big one** — Alexandra Palace · **Battersea Park** · **Blackheath** · Danson Park · Morden Park · Harrow · Southgate · Ealing Cricket Club · Brentham Club · Dulwich · Beckenham · West Wickham · Chislehurst Rotary · Bromley High · Kempton Park · Chiswick Rugby Club · Lift Richmond Park · Stow (sold out) |
 | **Sun 8 Nov** | Alexandra Palace family day · **Battersea Park** · St Francis Monks Hill, Selsdon |
 
 ---
@@ -131,13 +131,13 @@ Prices are the organisers' own for 2026.
 
 | Display | Date | Prices | Notes |
 | --- | --- | --- | --- |
-| **[Stow Firework Spectacular](https://www.stowfireworkspectacular.co.uk/)**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Age 0–5 **£1** · Family **£27**, no booking fees | Two displays, 6pm and 8pm, one ticket covers both; last entry 8pm. **Online only, no gate sales**, and babies need a ticket too. Sold out four years running. Wood Street station is three minutes' walk |
+| **[Stow Firework Spectacular](https://www.stowfireworkspectacular.co.uk/)**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Age 0–5 **£1** · Family **£27**, no booking fees | Two displays, 6pm and 8pm, one ticket covers both; last entry 8pm. **Saturday has sold out**, and fewer than half the tickets remain for Thursday and Friday. **Online only, no gate sales**, and babies need a ticket too. Sold out four years running. Wood Street station is three minutes' walk |
 | **[Harrow Fireworks + Diwali](https://harrowfireworks.co.uk/buy-tickets/)**, Byron Park | **Sat 7 Nov**, fireworks ~19:45 | Adult **£13.95** · Child 3–15 **£8.95** · Under-3 free · VIP **£39.95** · plus £1.50 a ticket (£2 for VIP) | Free entry noon–3pm for the Diwali show; paid from 3pm. The Diwali stage show and Bollywood acts run through the night. Online sales stop at noon on the day, then tickets are sold only at the gate. **Printed tickets only** — phones are not accepted. The VIP pack adds a queue jump, a ride token, a meal token, front-row viewing and a glow toy |
 | **[Southgate](https://www.eventbrite.co.uk/e/the-walker-ground-fireworks-2026-tickets-1997391432543)**, The Walker Ground | **Sat 7 Nov**, fireworks and drones 19:30 | Adult **£14** · Child up to 16 **£9.50** · Family (2 adults + 2 children) **£43** · Under-5 free, plus Eventbrite fees | Gates 17:00. The drone show is included in the ticket |
 | **[Dulwich Sports Club](https://www.eventbrite.co.uk/e/dulwich-firework-display-2026-kids-for-a-quid-tickets-1991896534154)** | **Sat 7 Nov**, fireworks ~19:00 | Adult **£13** · Junior **£8** · **Under-12s £1**, plus Eventbrite fees | "Kids for a Quid". Doors 17:00, live music from 17:30. **Advance tickets only, none on the night**, and no parking. Herne Hill, North Dulwich and West Dulwich stations are each ten minutes' walk |
 | **[Beckenham Charity Fireworks](https://www.beckenhamfireworks.com/)**, Croydon Road Recreation Ground | **Sat 7 Nov**, gates 16:30 | Adult 14+ **£18** · Child 5–13 **£6** · Under-5 free · Concession **£12.50**, plus fees (£19.08 an adult) | Two displays, 6pm for smaller children and 7.30pm. Run by the 5th Beckenham South Scout Group; the display has raised money for local charities since 1946. **No gate sales.** Some food stalls and rides take cash only, and there is no cash machine in the park. Clock House station is 11 minutes' walk |
 | **[West Wickham Fireworks](http://westwickhamfireworks.com/where-to-buy-tickets/)**, Club Langley, Eden Park | **Sat 7 Nov**, gates 16:00, display 18:30 | Adult **£12** · Child under 18 **£6** · Family (2 adults + 2 children) **£30** · Under-5 free | A Rotary West Wickham charity display. **No gate sales.** Online sales are capped at 1,500 and close at 4pm on the day; the rest go through local schools and shops. E-tickets must be printed. No parking on site |
-| **[Chislehurst Rotary](https://www.chislehurstfireworks.com/)**, Chislehurst Recreation Ground | **Sat 7 Nov**, gates 17:00, fireworks 19:30 | To 17 Oct: adult **£12** · child **£7.50** · family (2 adults + 2 children) **£25**. 18 Oct to 1 Nov: **£14** · **£9** · **£30**. From 2 Nov: **£18** · **£10** · **£40** | **Advance tickets only, none at the gate**; booking closes at 10am on 7 Nov. The organisers ask everyone to be inside by 7pm. Under-12s funfair, street food and a beer tent run by The Cockpit micropub. Elmstead Woods station is 15 to 20 minutes' walk |
+| **[Chislehurst Rotary](https://www.chislehurstfireworks.com/)**, Chislehurst Recreation Ground | **Sat 7 Nov**, gates 17:00, fireworks 19:30 | To 1 Nov: adult **£14** · child **£9** · family (2 adults + 2 children) **£30**. From 2 Nov: **£18** · **£10** · **£40** | **Advance tickets only, none at the gate**; booking closes at 10am on 7 Nov. The organisers ask everyone to be inside by 7pm. Under-12s funfair, street food and a beer tent run by The Cockpit micropub. Elmstead Woods station is 15 to 20 minutes' walk |
 | **[Bromley High School](https://www.eventbrite.co.uk/e/bromley-high-fireworks-2026-tickets-1992816335304)**, Blackbrook Lane | **Sat 7 Nov**, doors 17:45, fireworks 19:30 | Admission **£13**, or **£25** and **£33** with unlimited rides | Run by the school's Parents' Association, with a funfair, food stalls and a bar. Funfair and food run to 22:00. No refunds |
 | **[Danson Park](https://www.skiddle.com/e/42711388)**, Bexleyheath | **Sat 7 Nov**, gates 16:00, fireworks 20:00 | Adult 16+ **£15** · Child 5–15 **£9** · Concession (65+ or disabled) **£12** · Under-5 free · Family from **£22** (1 adult, 1 child), plus Skiddle fees | Back after the 2025 cancellation. A 20-minute display fired to music over Danson Lake, with entertainment from 17:15, a funfair and a street food village. Two adults and two children is **£42**. Early-bird tickets have sold out and the organiser says prices rise closer to the day. Capacity 21,000 |
 | **[Ealing Cricket Club](https://www.ticketor.com/ealingcc/tickets/ealing-cc-festival-of-fire-light-2026-366873)**, Corfton Road, W5 | **Sat 7 Nov**, gates 18:00, fireworks 19:45 | Early bird: adult **£13.50** · child 5–14 **£7.50** · family (2 adults + 3 children) **£33**. On the gate: **£17** and **£11**, no family tickets | The "Festival of Fire and Light", a Diwali-themed night. Kids' light quest and lantern parade from 18:00, live music and a DJ after the display. Ealing Broadway and North Ealing stations are a short walk |
@@ -170,7 +170,7 @@ Prices are the organisers' own for 2026.
 | **[Alexandra Palace](https://www.alexandrapalace.com/whats-on/fireworks-drone-festival/)** | Sat 7 and Sun 8 Nov | **On sale** through DICE, Universe and Fever, the festival's three official partners. Prices are in the section above |
 | **[Battersea Park](https://www.batterseaparkfireworks.com/)** | **Sat 7 and Sun 8 Nov** | **On sale** through Kaboodle, advance only. £16.70 to £18.10 for 16+, £11.50 for 5 to 15 |
 | **[Blackheath](https://www.blackheathfireworks.com/)** | **Sat 7 Nov, 5pm–10pm** | **On general sale** on the organiser's own site: £16 adult, £10 youth, £5 child |
-| **[Merton](https://www.merton.gov.uk/fireworks)**: Wimbledon Park and Morden Park | **Wimbledon Park Thu 5 Nov · Morden Park Sat 7 Nov** | **On sale** through See Tickets. The council says both shows sell out. Gates 5.15pm, a first show for young children at 6.45pm and the main one at 8.30pm |
+| **[Merton](https://www.merton.gov.uk/fireworks)**: Wimbledon Park and Morden Park | **Wimbledon Park Thu 5 Nov · Morden Park Sat 7 Nov** | **On sale** through See Tickets. The council says both shows sell out. Gates 5.15pm, a first show for young children at 6.45pm and the main one at 8.30pm. New for 2026: an observation wheel and big-name DJs |
 
 > ⚠️ **Merton's two parks get swapped constantly in listings.** The council's own page says **Wimbledon Park on Thursday 5 November** and **Morden Park on Saturday 7 November** — which is also the reverse of 2025, so the 2025 pattern will mislead you too.
 
@@ -180,7 +180,7 @@ Prices are the organisers' own for 2026.
 
 **[Coram's Fields](https://coramsfields.org/event/fireworks-night-2026/)**, Guilford Street, Bloomsbury WC1N 1DN — **Thursday 5 November 2026**. Gates 15:30, performances from 16:15, **display at 18:00**, closes 19:00. Free, no ticket, first come first served until the park is full.
 
-> ⚠️ **Adults may only attend accompanied by a child.** Coram's Fields is a children's park run by a children's charity, and that rule applies all year round. A paid Fast-Track ticket guarantees entry and skips the queue, but gives no better view; Fast-Track and free accessible-area tickets are released in the first week of October.
+> ⚠️ **Adults may only attend accompanied by a child.** Coram's Fields is a children's park run by a children's charity, and that rule applies all year round. A paid Fast-Track ticket, booked in advance on Eventbrite, guarantees entry and skips the queue, but gives no better view; accessible-viewing tickets are booked the same way.
 
 **No London borough council still funds a free public display.** The BBC asked all 32 under freedom of information and found **17 council events cancelled over cost in five years**, ten of them in Tower Hamlets alone. The displays that survive have migrated to cricket clubs, rugby clubs, schools, Scout groups and Rotary — and they charge.
 
@@ -294,4 +294,4 @@ You can still visit the site: the Palace of Westminster is on Parliament Square,
 
 ---
 
-*Dates, prices and on-sale times are as published by the venues and organisers, last checked 5 October 2026. Park opening times are from the Royal Parks' own 2026 schedules and the relevant councils.*
+*Dates, prices and on-sale times are as published by the venues and organisers. Park opening times are from the Royal Parks' own 2026 schedules and the relevant councils.*
