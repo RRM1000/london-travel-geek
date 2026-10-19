@@ -409,4 +409,3 @@ More in [the best parks and gardens](/articles/best-parks-gardens-london/) and [
 - [London's blue plaques](/articles/london-blue-plaques/) and the [plaques map](/plaques/).
 - [Getting around London](/articles/getting-around-london-transport-guide/).
 
-*Market days and opening times as at 18 October 2026.*

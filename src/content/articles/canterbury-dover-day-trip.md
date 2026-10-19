@@ -22,7 +22,7 @@ faq:
   - q: "What does Canterbury Cathedral cost and when is it open?"
     a: "£19.50 for an adult booked in the April–September season, dropping to £18.00 from October to March; weekends in July and August are £21.00. Kids go free every day. Opening hours are Monday to Saturday 10:00–17:00 (last admission 16:00) and Sunday 11:30–17:00, though the grounds and shop open from 11:30 on Sundays with the church itself opening at 12:30."
   - q: "How much is Dover Castle, and does it include the tunnels?"
-    a: "Yes — the Secret Wartime Tunnels tour is included in the standard admission. Prices move with the day of the week: for the period running to 18 October 2026, an adult is £24.65 on a weekday and £27.03 at the weekend (add roughly 10% for Gift Aid), with the castle open daily 10:00–17:00. From 19 October the pricing flips, cheaper at weekends, and hours shorten to 10:00–16:00."
+    a: "Yes — the Secret Wartime Tunnels tour is included in the standard admission. An adult pays £24.65 on the cheaper days and £27.03 on the dearer ones (add roughly 10% for Gift Aid); from 19 October 2026 the weekend is the cheaper end and the castle opens 10:00–16:00."
   - q: "Is the White Cliffs walk free?"
     a: "Yes. The clifftop path is open access National Trust land, with the Gateway visitor centre at Langdon Cliffs as the usual starting point for the walk out towards South Foreland Lighthouse. There's no charge to walk it; the Trust charges for parking on site."
   - q: "What's the best tour for doing Leeds Castle, Canterbury and Dover in one day?"

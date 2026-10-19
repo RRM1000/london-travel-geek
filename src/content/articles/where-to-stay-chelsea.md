@@ -26,7 +26,7 @@ faq:
   - q: "How do I get from Heathrow to Knightsbridge?"
     a: "Take the Piccadilly line to Knightsbridge without changing; Zedwell puts the ride at about 40 to 45 minutes. For Sloane Square, stay on to Knightsbridge and walk down Sloane Street, or change at South Kensington for the District or Circle line to Sloane Square."
   - q: "When is the Chelsea Flower Show in 2027?"
-    a: "18 to 22 May 2027 in the grounds of the Royal Hospital Chelsea: members' days on 18 and 19 May, public days from 20 to 22 May. RHS members' tickets go on sale on 19 October 2026 and public tickets on 21 October. Book the room when you book the tickets."
+    a: "18 to 22 May 2027 in the grounds of the Royal Hospital Chelsea: members' days on 18 and 19 May, public days from 20 to 22 May. RHS members' tickets went on sale on 19 October 2026 and public tickets go on sale on 21 October. Book the room when you book the tickets."
 ---
 
 Chelsea and Knightsbridge share a postcode reputation and not much else. **Knightsbridge** is the busy half: Harrods, Hyde Park and the grand hotels on the main road, with the Piccadilly line running straight to Heathrow. **Chelsea** is the quiet half: garden squares, townhouse hotels of 14 to 56 rooms, and Sloane Square station at the top of the King's Road. The South Kensington museums are a walk from either.
