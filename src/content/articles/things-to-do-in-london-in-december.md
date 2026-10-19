@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-10-17
-reviewBy: 2026-10-31
+updatedAt: 2026-10-19
+reviewBy: 2026-10-22
 sites: [london]
 canonicalSite: london
 category: "Things to do"

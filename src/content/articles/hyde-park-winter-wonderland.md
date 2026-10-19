@@ -3,8 +3,8 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "A complete guide to Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-09-27
-reviewBy: 2026-10-01
+updatedAt: 2026-10-19
+reviewBy: 2026-11-05
 sites:
   - london
 canonicalSite: london
@@ -42,7 +42,7 @@ That gap between the two is the whole thing. Half a million £1 tickets get peop
 ## The short version
 
 - **Dates:** 19 November 2026 – 3 January 2027. **Closed Christmas Day only** — in 2025 it also shut on three November dates; in 2026 it does not.
-- **Winter Wishes:** free entry for groups on 1 December 2026, low-sensory and closed to the public until 2pm — apply by **30 September 2026**.
+- **Winter Wishes:** free entry for groups on 1 December 2026, low-sensory and closed to the public until 2pm. Applications closed on 30 September 2026.
 - **Hours:** closes **10pm** every night, **last entry 21:30**. Most days open 10am, but a long list of quieter dates open at 11am or noon.
 - **Entry:** **£1 / £5.50 / £8.25** in advance, booking fees included. More on the door.
 - **The money trick:** spend **£25 online in one transaction** and entry is free.
@@ -58,11 +58,11 @@ That gap between the two is the whole thing. Half a million £1 tickets get peop
 
 ## Getting in
 
-### Winter Wishes: apply by 30 September
+### Winter Wishes: the free low-sensory morning
 
 Winter Wonderland's free, low-sensory morning is back for a **fourth year on Tuesday 1 December 2026**, when the event is closed to the public until 2pm. Successful applicants get free entry and unrestricted access to more than 100 rides and attractions, at reduced capacity with reduced lighting and sound, low-sensory skating on the Ice Rink, and audio guides in the Magical Ice Kingdom. It is aimed at school groups and others who would otherwise find it hard to attend.
 
-**Applications close 30 September 2026.**
+**Applications closed on 30 September 2026.**
 
 ### Entry is ticketed, timed, and one-way
 
@@ -447,6 +447,10 @@ Two limitations from the operator: **there are no accessible fast-track options 
 **Gandeys K-Pop Dragon Circus replaces Zippos** — the resident Christmas circus since 2009 — **and Cirque Berserk**. This is the biggest single change on the site.
 
 **Magical Ice Kingdom presents Neverland**, a new Peter Pan theme, after the elemental realms of 2025 and Alice in Wonderland the year before.
+
+**Christmas by Candlelight** is a new concert in the Candlelight Arena inside the Big Top, with West End performers including Katie Hall, Dean John-Wilson, Tosh Wanogho-Maud and Rachel John. It is 1 hour 15 minutes at 8.30pm on 5, 6, 11, 13, 20 and 23 December, with adults at £35 (£39 ringside) and children at £30 (£32 ringside).
+
+**A VIP Tour Experience** is also new: a guided small-group tour that starts in a private lounge and includes fast-track entry, £30 of Ride & Game Credit per person and a guide with headsets. It runs on four days in December and is £149 a head, or £894 for a private tour of up to six, and you book it on the event's own page rather than with ordinary tickets.
 
 **Bar Ice becomes an Arctic snow cave** with a live DJ, and there are two brand-new Bavarian Village venues, the **Almhütte** and **Café Bavaria**, plus an **Après-Ski Party Resort** in Thrillville.
 

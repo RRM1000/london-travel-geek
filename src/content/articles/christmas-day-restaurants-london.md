@@ -3,7 +3,7 @@ title: "Christmas Dinner in London: Where to Eat on Christmas Day"
 seoTitle: "Christmas Day Restaurants London 2026: What It Costs"
 description: "Almost nothing opens on 25 December, and no transport runs to get you there. What actually opens, what the price bands buy, and why booking is non-refundable."
 publishedAt: 2026-09-05
-updatedAt: 2026-09-25
+updatedAt: 2026-10-19
 reviewBy: 2026-10-31
 sites:
   - london
@@ -122,7 +122,7 @@ For a proper meal out that is not tied to a festive menu at all, the [special oc
 
 **Christmas afternoon tea** is the obvious alternative and a much easier booking — it runs from early November to the first week of January, costs £70 to £130, and does not commit your whole day. Claridge's, the Landmark's Winter Garden, Fortnum & Mason and the Ritz all reprint their tea menus for the season. The [Christmas guide covers those](/articles/christmas-in-london/#afternoon-tea-at-christmas), and the [full afternoon tea guide](/articles/best-afternoon-tea-london/) has every price.
 
-A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theritzlondon.com/christmas-afternoon-tea/) charges £120 per adult and £79 per child from 14 November 2026 to 5 January 2027, rising to £135 and £90 on Christmas Day.
+A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theritzlondon.com/christmas-afternoon-tea/) charges £125 per adult and £83 per child from 14 November 2026 to 6 January 2027, rising to £140 and £92 on Christmas Day.
 
 ---
 
@@ -139,4 +139,3 @@ A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theri
 - 🚇 **[Getting around London](/articles/getting-around-london-transport-guide/)** — including what runs over the festive week
 - 🗓️ **[Things to do in London in December](/articles/things-to-do-in-london-in-december/)** — what shuts on 24, 25 and 26 December and the rail closures
 
-*Prices and terms checked on 25 September 2026.*

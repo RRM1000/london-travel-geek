@@ -3,8 +3,8 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-17
-reviewBy: 2026-11-06
+updatedAt: 2026-10-19
+reviewBy: 2026-11-05
 sites:
   - london
 canonicalSite: london
@@ -51,7 +51,7 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas markets
 
-**Kingston** is the first chalet market with its 2026 dates out, **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** is the food one and is cash-free, **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**), and **Leicester Square's** ring an ice rink; none of the three had announced 2026 dates by late September. **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £6 to £10.
+**Leicester Square's** chalets ring an ice rink and open on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** is the food one and is cash-free, and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £6 to £10.
 
 > 🎄 **[Every Christmas market in London, with dates and hours →](/articles/christmas-markets-london/)** — the central markets, Kingston, Greenwich, Wimbledon and Battersea, and the maker fairs at the British Library, King's Cross and Chelsea Physic Garden.
 
@@ -104,7 +104,7 @@ Different from the free street displays above — these are paid, walk-through e
 
 ## Ice rinks and Santa's grottos
 
-**Five outdoor rinks are confirmed for 2026-27:** **Somerset House** (11 November 2026 – 10 January 2027; adults £13–£28.50, children £11–£15, plus a £1.50 fee per ticket; on sale since 10am on 25 September 2026), **Hampton Court Palace** (20 November – 3 January; adults £19.50 off-peak, £21.50 peak), **Glide at Battersea Power Station** (6 November – 3 January), **the Queen's House** in Greenwich (18 November – 3 January) and the rink inside Winter Wonderland. **Alexandra Palace** has a year-round indoor rink, from £11.75. Dates, prices and children's rules for every rink are in our [London ice skating guide](/articles/ice-skating-london/).
+**Six outdoor rinks are confirmed for 2026-27:** **Skate Leicester Square** (31 October 2026 – 3 January 2027; from £10 plus a £3 transaction fee), **Somerset House** (11 November 2026 – 10 January 2027; adults £13–£28.50, children £11–£15, plus a £1.50 fee per ticket; on sale since 10am on 25 September 2026), **Hampton Court Palace** (20 November – 3 January; adults £19.50 off-peak, £21.50 peak), **Glide at Battersea Power Station** (6 November – 3 January), **the Queen's House** in Greenwich (18 November – 3 January) and the rink inside Winter Wonderland. **Alexandra Palace** has a year-round indoor rink, from £11.75. Dates, prices and children's rules for every rink are in our [London ice skating guide](/articles/ice-skating-london/).
 
 ![Skaters on the ice rink in the courtyard of Somerset House, with SKATE spelled in illuminated letters along the roofline of the neoclassical building behind](../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg)
 
@@ -171,9 +171,9 @@ It is warmer and less reverent than the book suggests — handbells, carols sung
 
 **The third way to do *A Christmas Carol*, and the only one you eat your way through.** The Lost Estate in West Kensington stages it as an immersive Victorian evening built around the moment Dickens first read the story aloud — live music, theatre performed around the tables, and a full feast, not a pre-theatre bite.
 
-It is the same story as the Old Vic's and Mischief's, and a completely different night: you are seated at a table inside it, not watching from a seat. The Lost Estate has been doing this since 2017, and its current shows run £74.85 to £119.85, so budget accordingly.
+It is the same story as the Old Vic's and Mischief's, and a completely different night: you are seated at a table inside it, not watching from a seat. It runs from **6 November to 31 December 2026** at 7-9 Beaumont Avenue, W14 9LP, two minutes from West Kensington. Every ticket includes the three-course feast: **Classic Dining from £150**, **Private Dining from £195** and **VIP Dining from £235**, with previews from 6 to 12 November from £136, plus a £4.85 booking fee.
 
-> ⚠️ **Confirmed for 2026, but nothing else is.** The company says the Feast returns and is running a **presale signup**, but **no dates and no prices have been published**. Join the presale list rather than waiting for a listing to appear, because these sell through the list first.
+> ⚠️ **The final 2026 tickets go to subscribers first.** The company releases them to its [presale list](https://christmasfeast.thelostestate.com/) before the general sale, so join the list rather than waiting for a listing to appear.
 
 ### Scrooge: Cirque Extravaganza, ExCeL London
 

@@ -1,10 +1,10 @@
 ---
 title: "EFG London Jazz Festival 2026: Dates, Tickets and the Free Half"
 seoTitle: "London Jazz Festival 2026: Dates, Tickets & Free Gigs"
-description: "The EFG London Jazz Festival runs 13-22 November 2026 across 82 venues. Nineteen free concerts, tickets from £5, eleven shows already gone, and why there is no single on-sale date."
+description: "The EFG London Jazz Festival runs 13-22 November 2026 across 82 venues. Nineteen free concerts, tickets from £5, ten shows sold out, and why there is no single on-sale date."
 publishedAt: 2026-09-21
-updatedAt: 2026-10-04
-reviewBy: 2026-11-01
+updatedAt: 2026-10-19
+reviewBy: 2026-11-05
 sites:
   - london
 canonicalSite: london
@@ -46,7 +46,7 @@ The EFG London Jazz Festival runs **13 to 22 November 2026** — ten days, both 
 
 That sprawl catches people out. There is no festival wristband and no single box office. **243 of the 332 shows are sold by the venue, not by the festival**, so there is no single on-sale morning to be ready for. It is also why eleven shows had already gone by 21 September while three hundred had not.
 
-> 💡 **The Short Version:** **13-22 November 2026.** The full programme is on the festival's [what's on listing](https://efglondonjazzfestival.org.uk/whats-on), which is the only place all 332 shows sit together — each one then sends you to whoever is actually selling it. **Nineteen concerts are free**, and 14 of those fall on the two weekends, at the [Barbican FreeStage](https://efglondonjazzfestival.org.uk/by-type/free), the Clore Ballroom at the Southbank Centre and Milton Court. Paid tickets start at **£5** and the median cheapest ticket across the programme is **£21**. If you are 16-25, join the free [Serious Youth Network](https://serious.org.uk/serious-youth-network) before you book: it makes shows Serious produces **£5**. Eleven shows are already sold out, including **Coltrane 100**, **Melody Gardot** and **Ben Folds** — the way back in is the venue's own returns, not a resale site.
+> 💡 **The Short Version:** **13-22 November 2026.** The full programme is on the festival's [what's on listing](https://efglondonjazzfestival.org.uk/whats-on), which is the only place all 332 shows sit together — each one then sends you to whoever is actually selling it. **Nineteen concerts are free**, and 14 of those fall on the two weekends, at the [Barbican FreeStage](https://efglondonjazzfestival.org.uk/by-type/free), the Clore Ballroom at the Southbank Centre and Milton Court. Paid tickets start at **£5** and the median cheapest ticket across the programme is **£21**. If you are 16-25, join the free [Serious Youth Network](https://serious.org.uk/serious-youth-network) before you book: it makes shows Serious produces **£5**. Eleven shows had sold out by 21 September, among them **Coltrane 100** and **Ben Folds**; ten still are, while **Melody Gardot's** Royal Albert Hall night has had tickets released at £39 to £79. The way back into a full show is the venue's own returns, not a resale site.
 
 ---
 
@@ -212,7 +212,7 @@ Three things follow.
 
 ## What has already sold out
 
-Eleven shows had gone by **21 September 2026**:
+Eleven shows had gone by **21 September 2026**. Ten are still sold out; the eleventh, Melody Gardot at the Royal Albert Hall on Monday 16 November, has had tickets released at £39 to £79.
 
 | Date | Show | Venue |
 | --- | --- | --- |
@@ -223,12 +223,11 @@ Eleven shows had gone by **21 September 2026**:
 | 13-22 Nov | Robert Glasper residency | Blue Note London |
 | Sat 14 Nov | Courtney Pine | PizzaExpress Live, Soho |
 | Sun 15 Nov | Ambrose Akinmusire Quartet | Kings Place, Hall One |
-| Mon 16 Nov | Melody Gardot | Royal Albert Hall |
 | Fri 20 Nov | Ben Folds | Royal Festival Hall |
 | Sat 21 Nov | Haruki Murakami's Jazz at Peter Cat | Barbican |
 | Sun 22 Nov | Cécile McLorin Salvant, BBC Concert Orchestra | Queen Elizabeth Hall |
 
-Six of the eleven land on the first two days, the Robert Glasper residency included. The opening weekend sells first, so if you are choosing nights, that is the one to book early.
+Six of the ten land on the first two days, the Robert Glasper residency included. The opening weekend sells first, so if you are choosing nights, that is the one to book early.
 
 ### How to get into one anyway
 
@@ -286,7 +285,7 @@ One concert is programmed as a **Relaxed Performance**: Cinna Peyghamy in the El
 1. **Open the [what's on listing](https://efglondonjazzfestival.org.uk/whats-on)**, switch it to 100 events a page and read the whole thing once. It is the only complete view.
 2. **If you are 16-25, join the [Serious Youth Network](https://serious.org.uk/serious-youth-network) first.** It is free and it changes what you can afford.
 3. **Build the day around a free afternoon.** A Barbican FreeStage set at 1pm or 4pm costs nothing and still leaves the evening for a ticketed concert.
-4. **The weekend has the programme; the weekdays have the tickets.** Ten of the eleven sold-out shows are on a Friday or a weekend, and the only midweek casualty is Melody Gardot.
+4. **The weekend has the programme; the weekdays have the tickets.** All ten shows that are still sold out are on a Friday or a weekend, and the one midweek sell-out, Melody Gardot, has had tickets released.
 5. **For a sold-out show, go back to the venue's page 48 hours before**, not to a resale site.
 
 [Best Time to Visit London](/articles/best-time-to-visit-london/) sets November's weather, crowds and hotel prices against the rest of the year, and the [live music venues guide](/articles/best-live-music-venues-london/) covers Ronnie Scott's, the 606, the Vortex and the Jazz Cafe on an ordinary week. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) opens on 19 November, inside the festival's second half. For summer 2027, the [London music festivals guide](/articles/london-music-festivals-2027/) has the 2027 park festivals.

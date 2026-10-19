@@ -5,7 +5,7 @@ description: "Every Christmas show in London for 2026: the pantomimes from the P
 heroImage: "../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg"
 heroImageAlt: "Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats"
 publishedAt: 2026-09-22
-updatedAt: 2026-10-04
+updatedAt: 2026-10-19
 reviewBy: 2026-11-06
 sites: [london]
 canonicalSite: london
@@ -16,7 +16,7 @@ faq:
   - q: "Which London panto is best for young children?"
     a: "Stratford East's Robin Hood and the Merry Mandem is rated suitable for all ages, and the Lyric Hammersmith's Cinderella has a relaxed performance on 1 December. The London Palladium's Cinderella is the one to think twice about with small children: the theatre says its humour includes innuendo and it isn't tailored for young children, and nobody under four is admitted."
   - q: "What's the cheapest Christmas show in London?"
-    a: "Little Angel Theatre in Islington charges £8.50 for every seat at its 4.45pm Thursday shows of The Snowflake and its 4.45pm Wednesday shows of Scruff's Christmas Adventure. Among the pantos, the Lyric Hammersmith has £10 tickets during previews, and Stratford East's cheapest seats in the box office were £6 when checked."
+    a: "Little Angel Theatre in Islington charges £8.50 for every seat at its 4.45pm Thursday shows of The Snowflake and its 4.45pm Wednesday shows of Scruff's Christmas Adventure. Among the pantos, the Lyric Hammersmith has £10 tickets during previews, and Stratford East's cheapest seats in the box office are £6."
   - q: "Is there a Nutcracker in London at Christmas 2026?"
     a: "English National Ballet's Nutcracker is at the London Coliseum from 17 December 2026 to 10 January 2027, from £27.25 including fees, with 25% off for under-16s. Soho Theatre has a 70-minute Nutcracker for ages five and up from 22 December to 3 January, from £15."
   - q: "Can under-fives go to the Nutcracker?"
@@ -45,7 +45,7 @@ faq:
 
 *Theatre Royal Stratford East.*
 
-**21 November 2026 – 2 January 2027.** The Theatre Royal Stratford East panto, rated **suitable for all ages** and running about two hours plus an interval. Its box office had seats **from £6 to £41.50** when checked. Under-twos can sit on a lap for £1, and the theatre suggests under-fives sit in the Stalls or Dress Circle rather than up in the Upper Circle. Access performances: **BSL** 11 December, **captioned** 18 December, **audio described** 19 December, **relaxed** 2 January. [Dates and tickets](https://www.stratfordeast.com/whats-on/all-shows/robin-hood-and-the-merry-mandem).
+**21 November 2026 – 2 January 2027.** The Theatre Royal Stratford East panto, rated **suitable for all ages** and running about two hours plus an interval. Its box office has seats **from £6 to £41.50**, and some school-day and Friday 27 November performances have sold out. Under-twos can sit on a lap for £1, and the theatre suggests under-fives sit in the Stalls or Dress Circle rather than up in the Upper Circle. Access performances: **BSL** 11 December, **captioned** 18 December, **audio described** 19 December, **relaxed** 2 January. [Dates and tickets](https://www.stratfordeast.com/whats-on/all-shows/robin-hood-and-the-merry-mandem).
 
 ### Cinderella, Lyric Hammersmith
 
@@ -103,7 +103,7 @@ faq:
 
 **23, 24, 27 and 28 December 2026.** *A Christmas Carol* told with aerialists, acrobats, a trampoline wall and fire breathers, in the ICC Auditorium at ExCeL, with the East Entrance and Prince Regent DLR station about two minutes away. The organiser calls it a family show and warns of water effects, audience participation, loud noises, strobe lights and pyrotechnics. One seat number is drawn at every performance, and its holder wins £1,000 cash on stage (school matinees excluded).
 
-Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3pm; Sunday 27 December at 1pm and 6pm; Monday 28 December at 1pm and 5pm.** Seats are sold in price bands. On the organiser's site in early October, Christmas Eve's Band A was £124.99 and Band B £94.99, each £25 cheaper per ticket for a group of four or more. [Dates and tickets](https://scroogecirque.com/london).
+Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3pm; Sunday 27 December at 1pm and 6pm; Monday 28 December at 1pm and 5pm.** Seats are sold in price bands. On the organiser's site, Christmas Eve's Band A is £124.99 and Band B £94.99, each £25 cheaper per ticket for a group of four or more. [Dates and tickets](https://scroogecirque.com/london).
 
 ### Cirque Alice, Royal Festival Hall
 
@@ -214,7 +214,7 @@ Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3
 
 ### Stick Man, Bloomsbury Theatre
 
-**3 December 2026 – 3 January 2027**, with seats from **£10 to £40** in the box office when checked, at UCL's Bloomsbury Theatre on Gordon Street.
+**3 December 2026 – 3 January 2027**, with seats from **£10 to £40** in the box office, at UCL's Bloomsbury Theatre on Gordon Street.
 
 ## Every Christmas show in the listings
 

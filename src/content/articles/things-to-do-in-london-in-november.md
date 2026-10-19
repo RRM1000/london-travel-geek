@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-10-07
-reviewBy: 2026-10-21
+updatedAt: 2026-10-19
+reviewBy: 2026-10-22
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -111,7 +111,7 @@ The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglo
 
 ### Rinks, markets and Winter Wonderland
 
-**Glide at Battersea Power Station opens first, on Friday 6 November.** Somerset House follows on **Wednesday 11th**, with adults at £13 to £28.50 and children at £11 to £15, plus £1.50 a ticket. The other rinks open from the 18th. [Our ice skating guide](/articles/ice-skating-london/) has every rink and what it costs.
+**Skate Leicester Square opens on Saturday 31 October, and Glide at Battersea Power Station on Friday 6 November.** Somerset House follows on **Wednesday 11th**, with adults at £13 to £28.50 and children at £11 to £15, plus £1.50 a ticket. The other rinks open from the 18th. [Our ice skating guide](/articles/ice-skating-london/) has every rink and what it costs.
 
 **Hyde Park Winter Wonderland opens on Thursday 19 November and runs to 3 January 2027.** Entry is **£1 at off-peak sessions, Monday to Thursday through November**, with no booking fees, and everything inside is charged separately. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices. **Chelsea Winter Village & Illuminations**, a light trail at the Royal Hospital Chelsea, runs from **25 November to 28 December**. **Christmas at Kew** is on from 13 November.
 

@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:British_Academy_Film_A
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
+updatedAt: 2026-10-19
 reviewBy: 2026-11-04
 sites:
   - london
@@ -51,12 +51,10 @@ A handful do open the doors, and they do it in four ways: **tickets on public sa
 
 ## Every event and how to get in
 
-These are the events with a route for the public, in calendar order from October 2026. Two have their own page: the [National Television Awards](/articles/national-television-awards-tickets/) and the [Olivier Awards](/articles/olivier-awards-tickets/). The [BAFTA red carpet](/articles/bafta-red-carpet/), [film premieres](/articles/film-premieres-london/) and the [Last Night of the Proms](/articles/last-night-of-the-proms-tickets/) do too.
+These are the events with a route for the public, in calendar order from November 2026. Two have their own page: the [National Television Awards](/articles/national-television-awards-tickets/) and the [Olivier Awards](/articles/olivier-awards-tickets/). The [BAFTA red carpet](/articles/bafta-red-carpet/), [film premieres](/articles/film-premieres-london/) and the [Last Night of the Proms](/articles/last-night-of-the-proms-tickets/) do too.
 
 | Event | Month | Venue | Way in | Price | When to book, and restrictions |
 | --- | --- | --- | --- | --- | --- |
-| [BFI London Film Festival](/articles/london-film-festival/) galas | 7 to 18 Oct 2026 | Royal Festival Hall | Tickets on public sale | Galas £21 to £30; Opening and Closing Night Galas £40 | Galas sell out first. The festival guide has the release dates |
-| Royal Ballet and Opera: [A Centenary Celebration](https://www.rbo.org.uk/production/a-centenary-celebration-the-royal-ballet-school) | 8 and 10 Oct 2026 | Royal Opera House | Tickets on public sale | £9 to £176 | £9 is a Young RBO price on selected performances. About three hours with two intervals |
 | [Film premieres](/articles/film-premieres-london/) | Through the year | Leicester Square cinemas and others | Free fan-pen places through Applause Store | Free. Resellers quote £1,999 to £4,000 for a place, and are not an official route | Photo ID for every guest at most premieres. Places are over-allocated |
 | UK Music Video Awards | Wed 4 Nov 2026 | Roundhouse, Chalk Farm | Tickets on public sale at [ukmva.com](https://www.ukmva.com/tickets) | £250 plus VAT a seat; tables of 10 £2,500, of 12 £3,000 | Includes supper and the afterparty. Doors 6.30pm, show 8pm |
 | Booker Prize | Sun 8 and Mon 9 Nov 2026 | Queen Elizabeth Hall (readings); Old Billingsgate (ceremony) | Tickets for the shortlist readings through the Southbank Centre; the ceremony is private and livestreamed on YouTube | Livestream free; watch party at London Review Bookshop £7 | Readings 7.30pm on Sunday 8 November. The winner is announced on Monday 9 November, livestreamed 9.30pm to 10pm |
@@ -83,7 +81,7 @@ These are the events with a route for the public, in calendar order from October
 
 Dates are the next confirmed ones. Where the 2027 date is not out, the 2026 date is shown as a guide.
 
-- **October 2026:** the BFI London Film Festival runs 7 to 18 October, with galas at the Royal Festival Hall. A Centenary Celebration at the Royal Opera House is on 8 and 10 October. The UK Theatre Awards are on Monday 12 October, an industry event.
+- **October 2026:** the [BFI London Film Festival](/articles/london-film-festival/) ran from 7 to 18 October, with galas at the Royal Festival Hall that sold out first.
 - **November 2026:** the UK Music Video Awards are on Wednesday 4 November. The Booker shortlist readings are on Sunday 8 November and the winner is announced on Monday 9 November. The Lord Mayor's Show is on Saturday 14 November. The Royal Variety Performance is on Friday 20 November. The Fashion Awards are on Monday 30 November. The Festival of Remembrance is in November; the 2026 ballot closed in June and was drawn on 8 and 9 July.
 - **December 2026, January 2027 and March 2027:** none of the events on this page falls in these months.
 - **February 2027:** the BAFTA Film Awards, with a register-interest page for the 2027 fan pens on Applause Store (in 2026 applications closed on 8 February for the ceremony on 22 February). The BRITs are in Manchester on Saturday 27 February. The WhatsOnStage Awards are at the Palladium on Sunday 28 February.
@@ -151,7 +149,6 @@ These are industry, trade or private events.
 | --- | --- | --- |
 | Ivor Novello Awards | Thu 20 May 2027, JW Marriott Grosvenor House, Park Lane | An industry event with press accreditation. Amazon Music livestreamed the red carpet and backstage in 2026 |
 | Music Week Awards | May (2026: 7 May), JW Marriott Grosvenor House | A music-trade event whose 2026 tickets sold out. Register interest for 2027 on [musicweekawards.com](https://www.musicweekawards.com/) |
-| UK Theatre Awards | Mon 12 Oct 2026, 8 Northumberland Avenue | An industry event. The theatre nights with a public route are the Olivier Awards and the WhatsOnStage Awards |
 | Booker Prize ceremony | Mon 9 Nov 2026, Old Billingsgate | Private, with a free livestream and ticketed watch parties in bookshops |
 
 ---
