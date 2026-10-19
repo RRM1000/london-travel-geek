@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Comic_Con_Oct_1
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-06-19
-updatedAt: 2026-10-03
+updatedAt: 2026-10-19
 reviewBy: 2026-10-22
 sites: [london]
 canonicalSite: london
@@ -132,6 +132,19 @@ Parking prices, cloakroom locations and which of ExCeL's two stations to use for
 
 ExCeL's own restaurants and food stalls are **cashless — no cash accepted anywhere in the venue** — so bring a contactless card or phone wallet. The **Waterfront Street Kitchen & Bar** is ExCeL's sit-down option if you want a proper break, not a stall queue; beyond that, MCM's ticket FAQ points to a "diverse range" of retail food units through the show. That cashless rule is the opposite of the advice for guest autograph tables above — worth remembering, since one queue wants a card and the next one down the aisle may only want cash.
 
+## After the show
+
+MCM's own **After Hours** party runs on Friday until 9pm and is included in any Friday ticket. For a later night, **Anime District's Halloween Party**, run by Anime District UK and not by MCM, is on **Friday 23 October, 6pm to midnight**, at Signature Brew Haggerston, 340 Acton Mews, E8 4EA. It is an anime, K-pop and nostalgia DJ night with a prize quiz, giveaways and a photo area, and food and drink on sale. **18+ with photo ID; tickets from £12.62 and non-refundable**, on [Eventbrite](https://www.eventbrite.com/e/anime-districts-halloween-party-tickets-2001363166105). From ExCeL it is the Elizabeth line from Custom House to Whitechapel, then the Windrush line to Haggerston: about 25 minutes, then a four-minute walk.
+
+## Comic shops and gaming bars
+
+Two places within an Elizabeth line ride of ExCeL, both open seven days a week.
+
+| Place | Open | From ExCeL | What it is |
+| --- | --- | --- | --- |
+| **[Gosh! Comics](https://goshlondon.com/)**, 1 Berwick Street, Soho, W1F 0DR | 10.30am to 7pm, every day | Elizabeth line from Custom House to Tottenham Court Road (17 minutes), then an 11-minute walk | A graphic-novel shop with sections for manga, small press, European albums, superheroes and children's books, plus signed and bookplate editions of new releases. |
+| **[The Arcanist's Tavern](https://arcaniststavern.uk/)**, 87–91 Hackney Road, Shoreditch, E2 8FE | Monday to Thursday 2pm to 10pm, Friday 2pm to 11pm, Saturday 10am to 11pm, Sunday 10am to 10pm | Elizabeth line to Whitechapel, Windrush line to Hoxton, then a six-minute walk: about 25 minutes | A tabletop gaming café built like a fantasy tavern, with booths for role-playing and wargaming and, in the Apothecary bar upstairs, a board-game library and cocktails. A three-hour Apothecary table is £14 for up to two players; [book on its site](https://arcaniststavern.uk/booking). |
+
 ## Where to stay
 
 A handful of hotels sit within a few minutes' walk of ExCeL, all in the Royal Docks:
@@ -141,6 +154,8 @@ A handful of hotels sit within a few minutes' walk of ExCeL, all in the Royal Do
 - **[Sunborn London Yacht Hotel](hotelscom:463416)** — a superyacht moored for good on the dock, with 133 rooms and five suites, every one facing the river or the dock.
 
 Rooms this close to ExCeL price against the show calendar, not the season, so a quiet week is cheap and an MCM weekend isn't. Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the rest by how close they are to the west side, where the queue hall is, adds the cheapest chains a few DLR stops out, and gives the last train back after the evening events. More on stations and parking in our [ExCeL London travel guide](/articles/excel-london-guide/).
+
+For a cheaper bed, the hostels around King's Cross, such as [Generator London King's Cross](hotel:generator-london), are about 45 minutes from ExCeL: Thameslink from St Pancras to Farringdon, then the Elizabeth line to Custom House. Our [guide to London's hostels](/articles/best-hostels-london/) compares them.
 
 ## Not to be confused with: London Comic Con Spring
 

@@ -3,7 +3,7 @@ title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-06-30
-updatedAt: 2026-10-07
+updatedAt: 2026-10-19
 reviewBy: 2026-10-16
 sites:
   - london
@@ -169,6 +169,12 @@ Walter de la Mare's short story "Out of the Deep", read by a flickering fire in 
 
 A hotel-wide immersive night at the Mandrake, 20–21 Newman Street, Fitzrovia, W1T 1PG: nine circles of Hell told through installations, opera, live performance and tableaux vivants, with DJs until 3am. **21+, with government photo ID checked at the door.** The dress code is "Dolce Morte", and there are strobes, flashing lights and loud sound throughout. An optional nine-course dinner runs from 7.30pm to 10pm with a strict last entry of 8pm; VIP tables carry a minimum spend of £1,500 to £3,000, and stay packages are on sale. [Book via the Mandrake](https://themandrake.com/halloween/).
 
+### Duskveil, The Arcanist's Tavern
+
+*Saturday 31 October 2026 · 6.30pm to 1am · 18+ · from £62.40 · Hackney Road, Shoreditch*
+
+A vampire-masquerade ball in a tabletop-gaming café at 87–91 Hackney Road, E2 8FE. The ticket covers a buffet at the start of the night (vegetarian and vegan options included), a welcome cocktail, period dance lessons, a mystery trail through the vampire court's schemes, live music, tarot readings and social-deduction games, with actors playing the court throughout. The dress code is vampire-inspired (aristocratic, Regency, gothic) and encouraged, not enforced. Optional live scenes include simulated blood and weaponry. Tickets are sold through [Design My Night](https://www.designmynight.com/london/whats-on/activity/duskveil-a-vampire-masquerade-ball?t=tickets), and all sales are final. Hoxton station is the nearest.
+
 ### Halloween Ball, The Candlelight Club
 
 *Saturday 31 October 2026 · 7pm to 1am · 18+ · secret location in south London*
@@ -310,6 +316,8 @@ Halloween falling on a Saturday means the big club nights run at full strength, 
 **On the river**, London Boat Parties runs a four-hour Halloween cruise on the Thames on 31 October, 7pm–11pm, from Temple Pier (a minute from Temple station). It is 18+, **£32.99** (the early-bird tickets have sold out), and every ticket includes free entry to an after party at Embargo in Chelsea, open until 3am. [Book via London Boat Parties](https://boatpartylondon.com/products/halloween-boat-party-london-saturday-31st-october-2026).
 
 For something cheaper and looser, **93 Feet East** in Shoreditch runs Boat Club Halloween (house and tech house, 5pm–1am) and The Halloween Disco (9pm–1.30am) on 31 October, both 18+, and **Electric Ballroom** in Camden has its Halloween Rave from 11pm, with tickets from £3.
+
+**Anime District's Halloween Party** is the one for anyone at [MCM Comic Con](/articles/mcm-comic-con-london/), which runs at ExCeL from 23 to 25 October: an anime, K-pop and nostalgia DJ night with a prize quiz and giveaways at Signature Brew Haggerston, 340 Acton Mews, E8 4EA, on **Friday 23 October**, 6pm to midnight. **18+ with photo ID**; tickets from **£12.62**, non-refundable, on [Eventbrite](https://www.eventbrite.com/e/anime-districts-halloween-party-tickets-2001363166105).
 
 ## More Halloween nights out
 
