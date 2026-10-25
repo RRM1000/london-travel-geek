@@ -5,8 +5,8 @@ description: "Every Christmas show in London for 2026: the pantomimes from the P
 heroImage: "../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg"
 heroImageAlt: "Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats"
 publishedAt: 2026-09-22
-updatedAt: 2026-10-19
-reviewBy: 2026-11-06
+updatedAt: 2026-10-25
+reviewBy: 2026-11-09
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -25,7 +25,7 @@ faq:
     a: "An hour and a half, including a 20-minute interval. The 2026 production is new, directed and choreographed by Will Tuckett, running from 21 November 2026 to 3 January 2027, from £18 plus a £4 transaction fee."
 ---
 
-> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. For three to eight-year-olds, **Wundrful World of Christmas** at ExCeL is a timed walk-through to Santa's grotto from **11 November**. Every Christmas show in our listings is at the bottom of the page, updated twice a week.
+> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. For three to eight-year-olds, **Wundrful World of Christmas** at ExCeL is a timed walk-through to Santa's grotto from **13 November**. Every Christmas show in our listings is at the bottom of the page, updated twice a week.
 
 ## Pantomimes
 
@@ -49,7 +49,7 @@ faq:
 
 ### Cinderella, Lyric Hammersmith
 
-**14 November 2026 – 3 January 2027, £10 to £48.** Written by Joel Horwood, who wrote the Lyric's Aladdin in 2016, and directed by Robin Belfield. **£10 tickets are available during previews**, and Young Lyric members get two £5 tickets. Children under 18 months don't need a ticket. Access performances: **relaxed** 1 December at 10am, **audio described** 10 December, **BSL** 11 December, **captioned** 16 December. [Dates and tickets](https://lyric.co.uk/shows/cinderella-2026/).
+**14 November 2026 – 3 January 2027, £10 to £50.** Written by Joel Horwood, who wrote the Lyric's Aladdin in 2016, and directed by Robin Belfield. **£10 tickets are available during previews**, and Young Lyric members get two £5 tickets. Children under 18 months don't need a ticket. Access performances: **relaxed** 1 December at 10am, **audio described** 10 December, **BSL** 11 December, **captioned** 16 December. [Dates and tickets](https://lyric.co.uk/shows/cinderella-2026/).
 
 ### Jack and the Beanstalk, Hackney Empire
 
@@ -57,7 +57,7 @@ faq:
 
 *The Hackney Empire.*
 
-**21 November – 31 December 2026, £10 to £48.** Directed by and starring Olivier winner Clive Rowe. [Hackney Empire's site](https://hackneyempire.co.uk/) has dates and tickets.
+**21 November – 31 December 2026, £10 to £48.** Directed by and starring Olivier winner Clive Rowe. Children aged three and under can sit on a lap; everyone from four up needs a ticket. [Dates and tickets](https://www.hackneyempire.co.uk/events/jack-and-the-beanstalk).
 
 ### Potted Panto, Apollo Theatre
 
@@ -234,4 +234,4 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 - 🍽️ **[Christmas Day Restaurants in London](/articles/christmas-day-restaurants-london/)**
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)**: the month's dates, closures and Christmas Day transport
 
-*Dates, prices, running times and age guidance from each theatre's own website or box office, checked between 22 September and 4 October 2026. Prices change as performances sell, so check the booking page.*
+*Dates, prices, running times and age guidance are from each theatre's own website or box office. Prices change as performances sell, so check the booking page.*
