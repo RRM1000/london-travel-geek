@@ -1,16 +1,19 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-18",
+  "updated": "2026-10-25",
   "inProgress": [],
   "nextUp": [
+    "Add Oxford Street's 2026 lights switch-on date to the lights walk, the Christmas guide and the November guide as soon as Oxford Street announces it.",
+    "Fix the affiliate_click venue capture: every venue name ends in 'ad' because the Ad badge text is read with it (BaseLayout.astro).",
+    "Finish the sushi guide (ltg-sushi): photos and Sheet rows, so the 'sushi' searches have a page that ranks.",
     "Request indexing (about 10 a day) for the other nine: South Kensington where to stay, hen do, Caribbean, Vietnamese, Wapping to Canary Wharf walk, London Stadium, healthcare for visitors, Paultons Park, private members clubs. Rerun node scripts/index-coverage.mjs around 14 October.",
     "Look up Hotels.com ids (when its bot check clears) for about 15 linked hotels that still go to their own sites: King's Cross's St Pancras London, The Standard, The Megaro, Point A, Kabannas; The Londoner, The Milestone, London Bridge Hotel, The Twenty Two, Redchurch Townhouse, citizenM Olympia, Zedwell Leicester Place.",
     "Clean the Sheet card notes: about 137 overused phrases (mostly \"genuinely\" in Hidden London) plus the old \"that matters\"/\"other guides\" wording. Dry-run each Sheet writer and compare row counts first, then move the \"overused phrase\" rule from ARTICLE_ONLY to EVERYWHERE in scripts/check-page-wording.mjs.",
     "Rerun node scripts/index-coverage.mjs around 6 October to see how many of the 45 unindexed guides the sitemap has fixed.",
     "More GetYourGuide day trips with no guide yet: Warwick Castle and Stratford-upon-Avon, Blenheim Palace.",
     "Settle seven facts that disagree within a page, found while shortening captions: Kwãnt's bartender (ex-Connaught or ex-Savoy), Bank junction (seven roads or eight), Zapote (Shoreditch or Hackney), Barge East's age (100 or 125 years), Jin Kichi's opening year, the Bermonds Locke room colours, and the Middle Eastern guide's tart photo.",
-    "Christmas season: November and December monthly guides, pantomimes, and Boxing Day and January sales. In November, swap the \"This season\" nav to the Christmas guides.",
+    "Christmas season: Boxing Day and January sales guide. In November, swap the \"This season\" nav to the Christmas guides.",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
     "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London.",
     "Wire in Trainline links once you have joined its affiliate programme."
@@ -50,6 +53,10 @@
     "Confirm: The Vault at Milroy's still open? Left off for want of an operator site: Mannions Prince Arthur, Army & Navy (karaoke), The Blind Pig, Lost Property Office (speakeasy), Sophocles Bakery, Santorini Bayswater (Greek), Logma (fusion)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-25",
+      "what": "Pushed live: the rebuilt best areas to visit and where to stay pages; the fares page with the 1 November bus fare (£1.85, cap £5.55, new weekly and monthly passes) in every place; the Christmas pages for 2026 (Carnaby 4 Nov, Regent Street 5 Nov, Bond Street and Covent Garden 12 Nov switch-ons; Oxford Street's date not yet announced; Southbank, Winter by the River, Leicester Square and other market dates; Winter Wonderland's Giant Wheel Light Show; NYE tickets and City Hall's entry rules); the Bayeux Tapestry sold out to 31 March 2027 on five pages and the month data; the Comic Con and Halloween additions; the table-of-contents height fix. Two-week analytics (11–24 Oct): sessions +20%, Google clicks +26%, affiliate clicks +16%."
+    },
     {
       "date": "2026-10-18",
       "what": "Pushed live: Things to Do in London in December 2026 (with data/months/december*.json), the Royal Observatory closure from 2 November on 23 pages and its activity cards, Christmas rail warnings (Paddington and Heathrow 27–30 December, the Great Eastern line) on nine pages, the fares page rewrite (bus fares first, 1 November rise), twelve near-page-one titles without a year, the dog-friendly hotels by-area table and Premier Inn answer, and eight past dates reworded."
