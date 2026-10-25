@@ -3,8 +3,8 @@ title: "Thames River Cruises in London: Which to Book and What They Cost"
 seoTitle: "Thames River Cruises London 2026: Prices & Routes"
 description: "Every kind of Thames cruise compared on price, piers and commentary. Westminster to Greenwich from £14.62 online, a £9 City Cruises day pass, lunch from £43, dinner from £99, speedboats from £59.95 and the seasonal boat to Kew and Hampton Court."
 publishedAt: 2026-06-15
-updatedAt: 2026-10-17
-reviewBy: 2026-10-26
+updatedAt: 2026-10-25
+reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -70,7 +70,7 @@ Boats leave **Westminster Pier every 40 minutes from 10:00**, calling at **Londo
 - **Tickets (September 2026):** single **£15**, return **£21**; children 5 to 15 **£10.25** and **£15**; under-5s free. A [24-hour hop-on hop-off pass](https://www.cityexperiences.com/london/city-cruises/river-red-rover/) is **£24.95** (family of two adults and three children £49), and the [one-day pass](https://www.cityexperiences.com/london/city-cruises/1-day-hop-on-hop-off-river-pass/) is **£9**, child **£7.50**.
 - **Online only.** The sightseeing ticket cannot be bought at the piers.
 - **Journey times:** Westminster to Tower 40 minutes, Westminster to Greenwich 70 minutes, Tower to Greenwich 30 minutes.
-- **Last boat to Greenwich** from Westminster: **16:00** until 25 October 2026, **14:40** from 26 October. The [timetable](https://www.cityexperiences.com/london/city-cruises/sightseeing-schedule/) lists every departure.
+- **Last boat to Greenwich** from Westminster: **14:40** on the winter timetable, which runs from 26 October 2026 to 22 March 2027. The [timetable](https://www.cityexperiences.com/london/city-cruises/sightseeing-schedule/) lists every departure.
 - Some circular trips change boats at Tower Pier.
 
 ### Thames River Sightseeing
@@ -162,8 +162,8 @@ The Westminster to Greenwich sightseeing boats turn at Greenwich. The choices ar
 [Thames River Boats](https://www.thamesriverboats.co.uk/fares-sailings/fares) runs the passenger boats upriver from Westminster. The oldest of its three boats, the *Connaught*, was built in 1911, and the *Princess Freda* crossed the Channel to Dunkirk in 1940. Boats to Hampton Court pass through Teddington Lock.
 
 - **Fares from Westminster (2026):** Kew **£20** single, **£27** return; Richmond **£22** and **£33**; Hampton Court **£27** and **£36**. Children 5 to 15 half price; seniors 60+ £17 to £21 single; family tickets for two adults and two children.
-- **Times:** one departure a day from Westminster at **11:00** in September 2026, reaching Kew in about 1h 15m to 1h 45m and Hampton Court in about 3h 15m. The return from Hampton Court leaves at 15:00.
-- **Sailings follow the tide** and change week to week, and there are **no Westminster sailings from 28 September to 6 October 2026**. The [upcoming sailings page](https://www.thamesriverboats.co.uk/river-tour-information/upcoming-sailings) lists every boat for the next fortnight.
+- **Times:** one departure a day from Westminster at **11:00**, reaching Kew in about 1h 15m to 1h 45m and Hampton Court in about 3h 15m. The return from Hampton Court leaves at 15:00.
+- **Sailings follow the tide** and change week to week. The [upcoming sailings page](https://www.thamesriverboats.co.uk/river-tour-information/upcoming-sailings) lists every boat for the next fortnight.
 - Tickets online or at the pier offices. A bar on board takes cash or card.
 
 Going one way by boat and back by train makes the day workable: [Kew Gardens](/articles/kew-gardens-guide/) is 1h 15m from Westminster, and [Richmond](/articles/richmond-area-guide/) has a direct train to Waterloo. GetYourGuide also sells the <a href="https://www.getyourguide.com/activity/-t492850?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Westminster to Hampton Court cruise</a> from £27.

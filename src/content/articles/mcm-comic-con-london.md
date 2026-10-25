@@ -1,7 +1,7 @@
 ---
-title: "MCM Comic Con London 2026: What's Sold Out, Ticket Prices and How to Do the Day at ExCeL"
-seoTitle: "MCM Comic Con London 2026: Tickets & Dates"
-description: "MCM Comic Con London 2026: what is sold out, what a day ticket gets you at ExCeL, the cosplay and prop rules, and how to do the queue, the gaming floor and the guest autographs."
+title: "MCM Comic Con London 2027: Dates, Ticket Prices and How to Do the Day at ExCeL"
+seoTitle: "MCM Comic Con London 2027: Tickets & Dates"
+description: "MCM Comic Con London returns to ExCeL on 28 to 30 May 2027, with tickets on sale from 26 October 2026: the ticket types and prices, the cosplay and prop rules, and how to do the queue, the gaming floor and the guest autographs."
 heroImage: "../../assets/articles/mcm-comic-con-london/mcm-comic-con-crowds.jpg"
 heroImageAlt: "A crowd on the show floor at MCM London Comic Con at ExCeL beneath a giant inflatable anime character, with the event's own wall sign reading 'MCM London Comic Con, every May & October'"
 heroImageCredit: "big-ashb"
@@ -9,61 +9,58 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Comic_Con_Oct_1
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-06-19
-updatedAt: 2026-10-19
-reviewBy: 2026-10-23
+updatedAt: 2026-10-25
+reviewBy: 2026-10-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [MCM Comic Con, ExCeL London, comic con, cosplay, gaming, anime, conventions, exhibitions, October, tickets]
+tags: [MCM Comic Con, ExCeL London, comic con, cosplay, gaming, anime, conventions, exhibitions, May, tickets]
 draft: false
 faq:
-  - q: "What are the dates and where is MCM Comic Con London 2026?"
-    a: "Friday 23 to Sunday 25 October 2026, at ExCeL London in the Royal Docks. MCM runs the show twice a year at ExCeL, in May and October."
-  - q: "How much are MCM Comic Con London tickets, and what's sold out?"
-    a: "General entry is £29 on Friday and Sunday, £38 on Saturday, plus a £7 daily child ticket (5+; under-5s free). Priority entry, which opens two hours earlier each day, is £39 on Friday and Sunday and £48 on Saturday. The Weekend ticket, both VIP tiers and the Friday Squad Bundle have sold out; Sunday's Squad Bundle and all single-day Priority and General tickets remain on sale."
+  - q: "What are the dates and where is MCM Comic Con London 2027?"
+    a: "Friday 28 to Sunday 30 May 2027, at ExCeL London in the Royal Docks. Tickets go on sale on 26 October 2026. MCM runs the show twice a year at ExCeL, in May and October."
+  - q: "How much are MCM Comic Con London tickets?"
+    a: "MCM's ticket page lists a Weekend ticket at £98, VIP at £230 and VIP Legend at £300, and daily priority-entry tickets at £39 on Friday and Sunday and £48 on Saturday. Squad Bundles are £150 for Friday and £158 for Sunday, and a daily child ticket is £7 (5 and over; under-5s free). All prices include VAT and service fees."
   - q: "What are the cosplay and prop rules at MCM Comic Con?"
     a: "No metal blades, no guns or gun-shaped items built from metal or hard wood, no functional bows or crossbows, and nothing over 150cm (180cm for a narrow staff or spear) unless it dismantles by hand. Every prop gun or blaster gets a fresh security marking each day at the door. Costumes max out at 2.5 metres across, and nudity or exposed prosthetic genitalia isn't allowed."
   - q: "How do MCM's celebrity autographs and photo ops work?"
     a: "You need an MCM admission ticket first — autographs and photo ops are a separate, paid-for add-on, sold through the organiser's partner Epic. Some guests open pre-purchase online with a timed slot; others sell only at their table on the day, cash recommended even though some tables take cards. JSA, MCM's official authentication partner, is on-site all weekend to verify a signature afterwards."
   - q: "Which day of MCM Comic Con is quietest?"
-    a: "MCM doesn't publish attendance by day, but the ticket pricing points the same way every year: Saturday is priced highest (£38 general, the longest opening hours, 11am to 7pm) and Friday and Sunday are priced the same and run shorter days. Friday also falls before school half-term, which doesn't start until the Monday after the show closes. Friday or Sunday are the better bet for a calmer walk around the floor."
+    a: "MCM doesn't publish attendance by day, but the ticket pricing points the same way every year: Saturday is priced highest (£48 for priority entry) and has the longest opening hours, 9am to 7pm, while Friday and Sunday are priced the same and run shorter days. Friday or Sunday are the better bet for a calmer walk around the floor."
   - q: "Which ExCeL entrance and station should I use for MCM Comic Con?"
     a: "Custom House, on the Elizabeth line and DLR, for the West Entrance and the Queue Hall — that's the one MCM uses regardless of which side of ExCeL you arrive from. If you come out at Prince Regent on the east side, MCM's own advice is to hop back on the DLR one stop to Custom House rather than walk the length of the building."
 ---
 
-MCM Comic Con returns to ExCeL London for its autumn edition on **Friday 23 to Sunday 25 October 2026** — three days of cosplay, anime, comics, gaming and guest signings that MCM runs twice a year at the same venue. Weekend tickets and both VIP tiers are already sold out; single-day tickets from £29 are not.
+MCM Comic Con returns to ExCeL London on **Friday 28 to Sunday 30 May 2027** — three days of cosplay, anime, comics, gaming and guest signings that MCM runs twice a year at the same venue. Tickets go on sale on **26 October 2026**; at the October 2026 show the Weekend ticket and both VIP tiers sold out.
 
-> 💡 **The Short Version:** **23–25 October 2026, ExCeL London.** General entry is **£29 Friday/Sunday, £38 Saturday**; Priority entry (two hours' early access) is **£39/£48**. The **Weekend ticket and both VIP tiers have sold out**, along with Friday's Squad Bundle. **Cosplay props max out at 150cm** (180cm for a narrow staff), and metal blades, guns and functional bows are banned outright — every prop gun gets a fresh security marking each day. Autographs and photo ops are a **paid add-on on top of admission**, sold through MCM's partner Epic; bring cash for guest tables even though the venue itself is cashless. Use **Custom House** station and the **West Entrance** whichever side of ExCeL you arrive from. **Saturday is priced and timed as the busiest day** — Friday or Sunday are calmer.
+> 💡 **The Short Version:** **28–30 May 2027, ExCeL London; tickets on sale from 26 October 2026.** MCM lists a **£98 Weekend ticket**, **VIP at £230 and VIP Legend at £300**, and daily priority-entry tickets at **£39 Friday and Sunday, £48 Saturday**; a child ticket is **£7**. MCM does not reopen a ticket type once it sells out. **Cosplay props max out at 150cm** (180cm for a narrow staff), and metal blades, guns and functional bows are banned outright — every prop gun gets a fresh security marking each day. Autographs and photo ops are a **paid add-on on top of admission**, sold through MCM's partner Epic; bring cash for guest tables even though the venue itself is cashless. Use **Custom House** station and the **West Entrance** whichever side of ExCeL you arrive from. **Saturday is priced and timed as the busiest day** — Friday or Sunday are calmer.
 
 ---
 
 > 🧭 **Plan the rest of it:** [Getting to and parking at ExCeL London](/articles/excel-london-guide/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/) · [The UK ETA](/articles/uk-eta-guide/) · [Luggage storage near the stations](/articles/luggage-storage-london/)
 
-## Tickets: what's sold out, what a day costs
+## Tickets: what each one costs
 
-| Ticket | Price | What it gets you | Sold out? |
-| --- | --- | --- | --- |
-| VIP Legend Pass | £300 | 3-day priority-hours entry, early access to autograph and photo-op booking, VIP lounge, fast-track queues, 15% off merch, the October 2026 extra perks are tabletop-gaming themed | **Sold out** |
-| VIP Pass | £230 | Same fast-track access as VIP Legend, but early panel bookings rather than early autograph/photo-op access | **Sold out** |
-| Weekend ticket | £98 | 3-day entry at Priority-entry hours, no fast-track perks | **Sold out** |
-| Priority entry, Friday | £39 | Entry from 10am, two hours before general | On sale |
-| Priority entry, Saturday | £48 | Entry from 9am, two hours before general | On sale |
-| Priority entry, Sunday | £39 | Entry from 10am, two hours before general | On sale |
-| General entry, Friday | £29 | Entry from noon; the free After Hours party runs to 9pm, included | On sale |
-| General entry, Saturday | £38 | Entry from 11am to 7pm — the longest day | On sale |
-| General entry, Sunday | £29 | Entry from noon to 5pm | On sale |
-| Child ticket, daily | £7 | Ages 5 and up; under-5s go free with a paying adult | On sale |
+| Ticket | Price | What it gets you |
+| --- | --- | --- |
+| VIP Legend Pass | £300 | 3-day priority-hours entry, early access to autograph and photo-op booking, VIP lounge, fast-track queues, 15% off merch |
+| VIP Pass | £230 | Same fast-track access as VIP Legend, but early panel bookings rather than early autograph/photo-op access |
+| Weekend ticket | £98 | 3-day entry at priority-entry hours, no fast-track perks |
+| Priority entry, Friday | £39 | Early access to the show floor |
+| Priority entry, Saturday | £48 | Early access to the show floor |
+| Priority entry, Sunday | £39 | Early access to the show floor |
+| Child ticket, daily | £7 | Ages 5 and up; under-5s go free with a paying adult |
 
-*Prices and sold-out status from [MCM's own ticket page](https://www.mcmcomiccon.com/london/en-us/tickets.html); they include VAT and service fees, but a posted physical badge adds its own delivery charge at checkout.*
+*Prices from [MCM's own ticket page](https://www.mcmcomiccon.com/london/en-us/tickets.html); they include VAT and service fees, but a posted physical badge adds its own delivery charge at checkout.*
 
-A **Squad Bundle** buys five Priority tickets at once for a group: £158 on Sunday. Friday's bundle has sold out and there's no Saturday bundle.
+A **Squad Bundle** buys five priority tickets at once for a group: £150 on Friday and £158 on Sunday.
 
 - **Kids 4 and under go free** with a paying adult; everyone 5 and up needs a ticket, including the daily child rate.
 - **No refunds, and MCM doesn't run its own resale.** A ticket bought anywhere other than MCM's own site can be cancelled at the door with no entry and no refund.
 - **Order before the delivery deadline and your badge is posted to your door**, so you skip the pick-up queue; order after it and you show the QR code on your phone or a printout at registration instead.
-- **Once a ticket type sells out, it isn't reopened** — that includes the Weekend ticket and both VIP tiers for this show.
+- **Once a ticket type sells out, it isn't reopened.**
 
-> ⚠️ **Weekend and both VIP tiers are sold out.** The only tickets left are single-day Priority and General entry for Friday, Saturday and Sunday, plus the Sunday Squad Bundle.
+> ⚠️ **Tickets go on sale on 26 October.** At the October 2026 show the Weekend ticket and both VIP tiers sold out before the doors opened, so buy those first.
 
 ## Cosplay, weapons and props: the rules
 
@@ -99,11 +96,11 @@ Meeting a guest is two separate purchases: your admission ticket gets you into t
 
 ## Gaming: EGX is no longer a separate show
 
-EGX, the console and PC gaming expo that used to share ExCeL's calendar as its own ticketed event, has folded into MCM: since the October 2025 show, its indie zone (the **Leftfield Collection**), competitive gaming arena and industry Career Fair run inside MCM itself, on the same ticket. The October 2026 gaming floor covers the **Side Quest Arena** (hosting the Street Fighter League EMEAA 2026 Playoffs), a free-to-play tabletop zone, a card-game corner running Pokémon, Yu-Gi-Oh! and One Piece tournaments, an RPG zone for tabletop role-play, and LARP sessions and foam-sword tuition in the Forest Glade.
+EGX, the console and PC gaming expo that used to share ExCeL's calendar as its own ticketed event, has folded into MCM: since the October 2025 show, its indie zone (the **Leftfield Collection**), competitive gaming arena and industry Career Fair run inside MCM itself, on the same ticket. The October 2026 show also had a free-to-play tabletop zone, a card-game corner running Pokémon, Yu-Gi-Oh! and One Piece tournaments, an RPG zone for tabletop role-play, and LARP sessions and foam-sword tuition in the Forest Glade.
 
 ## Which day is quietest
 
-MCM doesn't publish footfall by day, but the ticket sheet is the best clue there is. **Saturday costs more (£38 general against £29 on the other two days) and runs longer (11am to 7pm, against 6pm on Friday and 5pm on Sunday)** — both signs the organiser is pricing and staffing for the biggest crowd of the weekend. Friday also falls in normal school term: England's autumn half-term doesn't start until Monday 26 October, the day after the show closes, so most school-age fans can only be there after 3.30pm. If you want a calmer walk round the floor more than a specific guest's schedule, Friday or Sunday are the better pick.
+MCM doesn't publish footfall by day, but the ticket sheet is the best clue there is. **Saturday costs more (£48 for priority entry against £39 on the other two days) and runs longer (9am to 7pm, against 10am to 6pm on Friday and 10am to 5pm on Sunday)** — both signs the organiser is pricing and staffing for the biggest crowd of the weekend. If you want a calmer walk round the floor more than a specific guest's schedule, Friday or Sunday are the better pick.
 
 ## Early entry, the queue and getting through the door
 
@@ -134,7 +131,7 @@ ExCeL's own restaurants and food stalls are **cashless — no cash accepted anyw
 
 ## After the show
 
-MCM's own **After Hours** party runs on Friday until 9pm and is included in any Friday ticket. For a later night, **Anime District's Halloween Party**, run by Anime District UK and not by MCM, is on **Friday 23 October, 6pm to midnight**, at Signature Brew Haggerston, 340 Acton Mews, E8 4EA. It is an anime, K-pop and nostalgia DJ night with a prize quiz, giveaways and a photo area, and food and drink on sale. **18+ with photo ID; tickets from £12.62 and non-refundable**, on [Eventbrite](https://www.eventbrite.com/e/anime-districts-halloween-party-tickets-2001363166105). From ExCeL it is the Elizabeth line from Custom House to Whitechapel, then the Windrush line to Haggerston: about 25 minutes, then a four-minute walk.
+MCM's own **After Hours** party runs on Friday until 9pm and is included in any Friday ticket.
 
 ## Comic shops and gaming bars
 
@@ -159,4 +156,4 @@ For a cheaper bed, the hostels around King's Cross, such as [Generator London Ki
 
 ## Not to be confused with: London Comic Con Spring
 
-A different show, a different organiser, and a different venue: **London Comic Con Spring**, run by Showmasters (not MCM/ReedPop) at **Olympia London**, held 28 February to 1 March 2026.
+A different show, a different organiser, and a different venue: **London Comic Con Spring** is run by Showmasters (not MCM/ReedPop) at **Olympia London**.

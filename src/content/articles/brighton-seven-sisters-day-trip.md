@@ -3,6 +3,7 @@ title: "Brighton and the Seven Sisters: A Day Trip from London"
 seoTitle: "Brighton & Seven Sisters Day Trip from London"
 description: "Brighton is under an hour from Victoria or London Bridge, and the Seven Sisters chalk cliffs are a bus ride on from there. The Pier, the Royal Pavilion, the Lanes and the i360, then Birling Gap by the 12, 12A or 12X — compared against GetYourGuide's escorted day trips."
 publishedAt: 2026-06-19
+updatedAt: 2026-10-25
 reviewBy: 2027-03-28
 sites: [london]
 canonicalSite: london
@@ -120,7 +121,7 @@ Independent travel is cheaper and gives you longer in Brighton if you want it. A
 
 ## The Seven Sisters and Birling Gap
 
-**The chalk cliffs are the reason to make the extra journey, and Birling Gap is the easiest place to stand at the bottom of them.** National Trust runs the car park, café and shop here, with steps down to the beach when the tide allows. **Parking is £2 for up to an hour, £4 for up to two hours and £8 beyond that**; NT members, motorcycles and Blue Badge holders park free, and there's no coach parking on site any more. The café and shop run **10am to 5pm until 24 October 2026, then 10am to 4pm** through the winter; the coastal path itself is open dawn to dusk year-round.
+**The chalk cliffs are the reason to make the extra journey, and Birling Gap is the easiest place to stand at the bottom of them.** National Trust runs the car park, café and shop here, with steps down to the beach when the tide allows. **Parking is £2 for up to an hour, £4 for up to two hours and £8 beyond that**; NT members, motorcycles and Blue Badge holders park free, and there's no coach parking on site any more. The café and shop run **10am to 4pm** through the winter; the coastal path itself is open dawn to dusk year-round.
 
 ![The coastguard cottages at Birling Gap on the clifftop, with the chalk cliffs and pebble beach below dotted with visitors](../../assets/articles/brighton-seven-sisters-day-trip/birling-gap.jpg)
 

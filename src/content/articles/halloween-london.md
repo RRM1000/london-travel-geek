@@ -3,8 +3,8 @@ title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-06-30
-updatedAt: 2026-10-19
-reviewBy: 2026-10-26
+updatedAt: 2026-10-25
+reviewBy: 2026-11-02
 sites:
   - london
 canonicalSite: london
@@ -87,7 +87,7 @@ Book on [Tulleys' own site](https://www.shocktoberfest.co.uk/). Prices are dynam
 
 ### Tulleys Pumpkin Festival
 
-*Daily to 31 October 2026 · 9.30am–5.30pm to 24 October, 9.30am–5pm from 25 October*
+*Daily to 31 October 2026 · 9.30am–5pm*
 
 The daytime, family side of the same farm in Crawley (sat-nav RH10 4PD, Turners Hill Road): a field of 1.5 million pumpkins and gourds, a wheelbarrow per group, and a new Pumpkin Valley of giant pumpkin sculptures for 2026, plus street theatre, a vintage carousel and a 33-metre observation wheel. You pay for each pumpkin you pick by its size ring, from **£1 to £25**, on top of the entry ticket you book online. Wellies are advised, as the fields are open to the weather. Under-16s need a paying adult.
 
@@ -99,7 +99,7 @@ On Sunday 1 November the farm reopens from 4pm to 11pm for the Pumpkin Nights fi
 
 If a maze is not your thing, London's independent cinemas run entire seasons around it.
 
-**The Prince Charles Cinema** in Leicester Square is the main event. Its **HorrOctober** season runs across the whole of October 2026, building to two all-night marathons on **Saturday 24 October** — a Mystery Horror Marathon (five unannounced films, from 11pm, **£22.50, or £20 for members**) and a Classic Horror Marathon (*The Thing*, *The Exorcist*, *The Shining*, *A Nightmare on Elm Street* and *The Texas Chain Saw Massacre*, from 11.30pm), which has sold out — and the main event on **Saturday 31 October itself**: a Halloween Marathon running the first six *Halloween* films back to back from 11.15pm, with a second screening from 11.45pm, **18+**. The original 1978 *Halloween* also plays there at 3.10pm that day, a screening that has sold out. Doors are shut to new arrivals after midnight on the marathon nights.
+**The Prince Charles Cinema** in Leicester Square is the main event. Its **HorrOctober** season runs across the whole of October 2026, building to the main event on **Saturday 31 October itself**: a Halloween Marathon running the first six *Halloween* films back to back from 11.15pm, with a second screening from 11.45pm, **18+**. The original 1978 *Halloween* also plays there at 3.10pm that day, a screening that has sold out. Doors are shut to new arrivals after midnight on the marathon nights.
 
 A few independents run smaller Halloween-night screenings: **Genesis Cinema** on Mile End Road shows the original 1978 *Halloween* at 9pm on the night itself, and **Rio Cinema** in Dalston runs Queer Horror Nights, a midnight *Rocky Horror Picture Show* sing-along with a live Shadow Cabaret Cast on 31 October, **18+**, with the bar open from 10.30pm.
 
@@ -159,7 +159,7 @@ A theatrical Halloween experience in the theatre's main house at Greenwich Theat
 
 ### A Ghost Story by Candlelight, Dennis Severs' House
 
-*24, 25, 29, 30 and 31 October 2026 · 6pm or 8pm · £58 plus a £2 booking fee · ages 12+*
+*25, 29, 30 and 31 October 2026 · 6pm or 8pm · £58 plus a £2 booking fee · ages 12+*
 
 Walter de la Mare's short story "Out of the Deep", read by a flickering fire in the candlelit Withdrawing Room of 18 Folgate Street, Spitalfields, E1 6BX. You are served a glass of Crémant or a soft drink in the Dining Room first, and the reading (performed by Lisa D'Agostino, with music and sound by Dominic Stokes) is limited to **16 guests**. Latecomers cannot be admitted, tickets are non-refundable and there is no photography. [Book via Dennis Severs' House](https://www.dennissevershouse.co.uk/event/a-ghost-story-by-candlelight).
 
@@ -213,7 +213,7 @@ The cabaret trio play a concert of their songs about death on the Day of the Dea
 
 ### Halloween at Kew, Royal Botanic Gardens
 
-Kew, Richmond, London, TW9 3AE — enter at Victoria, Elizabeth or Brentford Gate only. **16 October to 1 November 2026**, 6pm–10pm until 24 October then 4pm–10pm for the final week. Returning for a third year.
+Kew, Richmond, London, TW9 3AE — enter at Victoria, Elizabeth or Brentford Gate only. **16 October to 1 November 2026**, 4pm–10pm from 25 October. Returning for a third year.
 
 An after-dark trail through the Gardens: Dracula among the trees, fire performers, the Headless Horseman, and a new cursed tomb for 2026. Entry is timed into three tiers that get scarier through the evening — **Daylight** sessions before 6pm suit younger children, **Twilight** (6–7.30pm) "ramps up a notch," and **Moonlight** (after 7.30pm) is, in Kew's own words, as scary as it gets, though still billed as suitable for all ages. Food and drink cost extra.
 
@@ -317,8 +317,6 @@ Halloween falling on a Saturday means the big club nights run at full strength, 
 
 For something cheaper and looser, **93 Feet East** in Shoreditch runs Boat Club Halloween (house and tech house, 5pm–1am) and The Halloween Disco (9pm–1.30am) on 31 October, both 18+, and **Electric Ballroom** in Camden has its Halloween Rave from 11pm, with tickets from £3.
 
-**Anime District's Halloween Party** is the one for anyone at [MCM Comic Con](/articles/mcm-comic-con-london/), which runs at ExCeL from 23 to 25 October: an anime, K-pop and nostalgia DJ night with a prize quiz and giveaways at Signature Brew Haggerston, 340 Acton Mews, E8 4EA, on **Friday 23 October**, 6pm to midnight. **18+ with photo ID**; tickets from **£12.62**, non-refundable, on [Eventbrite](https://www.eventbrite.com/e/anime-districts-halloween-party-tickets-2001363166105).
-
 ## More Halloween nights out
 
 Other Halloween nights booking across London in the week of 31 October.
@@ -363,7 +361,7 @@ The walk-in option, and much less formal. Their own wording is the useful part: 
 
 **London does not have a strong trick-or-treat culture**, and there is no single marquee free citywide event the way there is for Bonfire Night. What free Halloween activity exists is scattered and hyperlocal — library events, community centres, and a handful of neighbourhood trails.
 
-**High Street Kensington runs the best-known free one.** A Halloween trail through the shops runs from 23 to 31 October 2026, following a map with clues and treats. On Saturday 31 October the Big Kensington Vintage Flea goes gothic from 10am to 4.30pm, and from 4.30pm to 7.30pm Holland Park becomes the **Playful Park of Peculiar**, a walk-through of characters, performers and lit installations. It is free, but you need a timed ticket from [High Street Ken's Halloween page](https://highstreetkensington.co.uk/halloween/playful-park-of-peculiar/): the tickets released so far have sold out, and a final limited release is due on Monday 26 October. Enter by the Holland Park gates on Kensington High Street, W8 7RG. Earlier sessions suit younger families; the park gets darker as the light fades.
+**High Street Kensington runs the best-known free one.** A Halloween trail through the shops runs from 23 to 31 October 2026, following a map with clues and treats. On Saturday 31 October the Big Kensington Vintage Flea goes gothic from 10am to 4.30pm, and from 4.30pm to 7.30pm Holland Park becomes the **Playful Park of Peculiar**, a walk-through of characters, performers and lit installations. It is free, but you need a timed ticket from [High Street Ken's Halloween page](https://highstreetkensington.co.uk/halloween/playful-park-of-peculiar/): the tickets released so far have sold out, and more are released at 9am on Monday 26 October. Enter by the Holland Park gates on Kensington High Street, W8 7RG. Earlier sessions suit younger families; the park gets darker as the light fades.
 
 **The free museums are your reliable fallback.** The [British Museum](/articles/british-museum-guide/), Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes that land right across Halloween week — the British Museum has previously run storytelling and Day of the Dead performances during the October half term. Each museum lists its half-term programme on its own site.
 

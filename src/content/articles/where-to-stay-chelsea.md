@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Mandarin_Oriental_Hyde_
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-06-13
-updatedAt: 2026-09-26
-reviewBy: 2026-10-22
+updatedAt: 2026-10-25
+reviewBy: 2027-01-05
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -26,7 +26,7 @@ faq:
   - q: "How do I get from Heathrow to Knightsbridge?"
     a: "Take the Piccadilly line to Knightsbridge without changing; Zedwell puts the ride at about 40 to 45 minutes. For Sloane Square, stay on to Knightsbridge and walk down Sloane Street, or change at South Kensington for the District or Circle line to Sloane Square."
   - q: "When is the Chelsea Flower Show in 2027?"
-    a: "18 to 22 May 2027 in the grounds of the Royal Hospital Chelsea: members' days on 18 and 19 May, public days from 20 to 22 May. RHS members' tickets went on sale on 19 October 2026 and public tickets go on sale on 21 October. Book the room when you book the tickets."
+    a: "18 to 22 May 2027 in the grounds of the Royal Hospital Chelsea: members' days on 18 and 19 May, public days from 20 to 22 May. All tickets are on sale now, and the RHS says to book before 4 January 2027 for the best prices. Book the room when you book the tickets."
 ---
 
 Chelsea and Knightsbridge share a postcode reputation and not much else. **Knightsbridge** is the busy half: Harrods, Hyde Park and the grand hotels on the main road, with the Piccadilly line running straight to Heathrow. **Chelsea** is the quiet half: garden squares, townhouse hotels of 14 to 56 rooms, and Sloane Square station at the top of the King's Road. The South Kensington museums are a walk from either.
@@ -285,7 +285,7 @@ Our [aparthotels guide](/articles/aparthotels-london/) compares these with the r
 
 ## The Chelsea Flower Show
 
-The RHS Chelsea Flower Show runs from **18 to 22 May 2027** in the grounds of the Royal Hospital Chelsea: RHS members' days are 18 and 19 May, public days 20 to 22 May, and the show stays open until 10pm for Chelsea Late on Friday 21 May. RHS members' tickets go on sale on 19 October 2026 and public tickets on 21 October. Book the room when you book the tickets.
+The RHS Chelsea Flower Show runs from **18 to 22 May 2027** in the grounds of the Royal Hospital Chelsea: RHS members' days are 18 and 19 May, public days 20 to 22 May, and the show stays open until 10pm for Chelsea Late on Friday 21 May. All tickets are on sale now, and the [RHS](https://www.rhs.org.uk/shows-events/rhs-chelsea-flower-show) says to book before 4 January 2027 for the best prices. Book the room when you book the tickets.
 
 ## Where to stay just outside
 

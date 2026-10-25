@@ -138,7 +138,7 @@ London's opening hours do not just shift in winter — several places shut while
 | --- | --- | --- |
 | **28 September 2026** | Buckingham Palace's State Rooms close for the year, having opened on 9 July | The summer-only sight is closed until July 2027 |
 | **25 October 2026** | The clocks go back; sunset moves from about 5.50pm to 4.48pm overnight | Every outdoor plan loses its last hour. Move the viewpoint earlier |
-| **25 October 2026** | Kew closes at 4pm, last entry 3pm | A morning trip, not an afternoon one |
+| **25 October to 11 November 2026** | Kew closes at 4pm, last entry 3pm | A morning trip, not an afternoon one |
 | **12 November 2026 to 3 January 2027** | Kew closes at **3.15pm**, last entry 2.30pm | Kew plus anything else in one day stops working |
 | **Mid-December** | Under 8 hours of daylight — sunrise about 7.57am, sunset about 3.53pm | Two outdoor things a day, not three |
 | **25 December** | TfL runs no service at all: no Tube, bus, Overground, DLR, Elizabeth line, tram or river boat | Everything has to be walkable from your room |
