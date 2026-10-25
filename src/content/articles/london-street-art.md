@@ -9,7 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Bacon_Street.
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-03
-updatedAt: 2026-10-03
+updatedAt: 2026-10-25
+reviewBy: 2026-11-29
 sites: [london]
 canonicalSite: london
 category: "Things to do"

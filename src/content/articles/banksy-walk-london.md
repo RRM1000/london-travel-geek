@@ -5,8 +5,8 @@ description: "A numbered route past the best original Banksys still standing in 
 heroImage: "../../assets/articles/banksy-walk-london/blind-patriotism-waterloo-place.jpg"
 heroImageAlt: "Banksy's Blind Patriotism statue on its plinth on Waterloo Place, a flag blowing across the figure's face, with a crowd photographing it from behind green barriers"
 publishedAt: 2026-09-14
-updatedAt: 2026-10-03
-reviewBy: 2026-09-30
+updatedAt: 2026-10-25
+reviewBy: 2026-11-29
 sites: [london]
 canonicalSite: london
 category: "London areas"

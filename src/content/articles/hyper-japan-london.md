@@ -3,6 +3,7 @@ title: "HYPER JAPAN Festival at Olympia: Tickets, Dates, Cosplay Rules and Getti
 seoTitle: "HYPER JAPAN Festival 2027: Dates, Tickets, Olympia"
 description: "HYPER JAPAN Festival at Olympia: ticket prices and what each includes, the food and sake market, cosplay rules, the quietest session, getting to Kensington (Olympia), and where 2027 dates stand."
 publishedAt: 2026-06-18
+updatedAt: 2026-10-25
 reviewBy: 2026-12-15
 sites: [london]
 canonicalSite: london
@@ -106,8 +107,8 @@ For the shortest walk, **[Hyatt Regency London Olympia](hotel:hyatt-regency-lond
 
 HYPER JAPAN isn't the only date on this calendar:
 
-- **AnimeCon London**, 3–4 October 2026, also at Olympia, from £25 — a two-day anime and manga convention with a Cosplay Catwalk, Artist Alley and voice actor guests including Justin Briner and Jason Liebrecht.
-- **[MCM Comic Con London](/articles/mcm-comic-con-london/)**, 23–25 October 2026 at ExCeL — the UK's biggest pop culture convention, wider than anime alone, spanning comics, gaming and film and TV guests.
+- **AnimeCon London**, also at Olympia — a two-day anime and manga convention with a Cosplay Catwalk and Artist Alley. The 2026 edition ran on 3–4 October and the organiser says it returns in 2027.
+- **[MCM Comic Con London](/articles/mcm-comic-con-london/)**, 28–30 May 2027 at ExCeL — the UK's biggest pop culture convention, wider than anime alone, spanning comics, gaming and film and TV guests.
 
 Our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) tracks these and the rest of London's convention year in one place. Olympia's Grand Hall doesn't stand empty between them, either — **[The Ideal Home Show](/articles/ideal-home-show-london/)** takes over the same halls 2–11 April 2027, at the same station and the same nearby hotels covered on this page.
 

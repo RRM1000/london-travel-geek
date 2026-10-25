@@ -3,8 +3,8 @@ title: "Kew Gardens: Tickets, Hours and Which Gate to Use"
 seoTitle: "Kew Gardens 2026: Tickets, Route & Best Glasshouses"
 description: "Kew Gardens adult tickets are £25 online in peak season and £17 off-peak; children are £2 online from September 2026. Hours drop to 10am–4pm in late October and 10am–3.15pm from 12 November, and Lion Gate is weekends only that winter."
 publishedAt: 2026-09-19
-updatedAt: 2026-09-25
-reviewBy: 2026-09-28
+updatedAt: 2026-10-25
+reviewBy: 2026-11-13
 sites:
   - london
 canonicalSite: london
@@ -145,7 +145,7 @@ Head southwest through the arboretum towards the centre of the estate.
 
 At **17 metres tall**, **The Hive** rises out of a wildflower meadow near Elizabeth Gate — a lattice of 170,000 aluminium parts and 1,000 LED lights, built for the UK Pavilion at the 2015 Milan Expo before it moved to Kew. Artist Wolfgang Buttress designed it to respond in real time to a working bee colony in the Gardens: the lights pulse with the bees' vibrations, and a musical soundscape plays every note in the key of C — the pitch bees buzz in. It won a Landscape Institute Award in 2016.
 
-The path in is wheelchair-accessible, though the gradient can feel steep for self-propelled users, and Kew cannot accommodate mobility scooters inside. **The Hive is closed from 28 to 30 September 2026.**
+The path in is wheelchair-accessible, though the gradient can feel steep for self-propelled users, and Kew cannot accommodate mobility scooters inside.
 
 ### Stop 4: The Treetop Walkway and Rhizotron (135–175 minutes)
 Continue south towards the southwestern woodlands to reach the **Xstrata Treetop Walkway**, designed by Marks Barfield Architects (the architectural firm responsible for the London Eye).

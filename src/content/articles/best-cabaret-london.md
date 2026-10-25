@@ -3,8 +3,8 @@ title: "The Best Cabaret in London: What's Actually Still Open"
 seoTitle: "Best Cabaret London 2026: Venues Still Open"
 description: "London's biggest cabaret operator has collapsed. Every venue here was status-checked against its own site, with the closed ones named."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-04
-reviewBy: 2026-10-16
+updatedAt: 2026-10-25
+reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -36,8 +36,6 @@ London's biggest cabaret operator no longer exists. **Proud Embankment, Proud Ca
 That is the problem with picking a cabaret night here. This is a form that runs on short leases, small rooms and thin margins, and the guides describing it are mostly lists of places that were open when somebody wrote them. So every room below carries a status.
 
 > 💡 **The Short Version:** **Bethnal Green Working Men's Club** is the one to go to first, because its owners intend to sell it. **Crazy Coqs** is the best-looking room in London. **Underbelly Boulevard** has the most acts. **The Royal Vauxhall Tavern** is £8 and **CellarDoor is free.** **The London Cabaret Club** is the full dinner-show production. And **the entire Proud operation and The Glory have closed** — do not let an old listicle send you to either.
-
-*Every venue status-checked against its own website on 1 September 2026.*
 
 ---
 
@@ -146,7 +144,7 @@ If you only have one night and want to see someone before they are expensive, th
 
 It opened on **1 May 2025** in the restored 1930s Granada — later the MGM, the ABC and the EMD — a Grade II* listed cinema that sat empty for twenty years before a **£30m restoration**. It seats **960**, which makes it vastly bigger than Dean Street and changes what the programme can be: comedy, cabaret, theatre, music, talks and podcasts, with dedicated South Asian heritage and LGBTQ+ strands.
 
-**Tickets run £20.50 to £40** across the September and October 2026 programme, with most shows landing at £24, £29, £33.50 or £36. The same access provision as Dean Street applies — **audio-described, BSL, captioned and relaxed performances**.
+Ticket prices vary by show. The same access provision as Dean Street applies — **audio-described, BSL, captioned and relaxed performances**.
 
 The Victoria line trip is worth it for the building alone, and that is not a throwaway line: this is a spectacular room that most central London visitors never see.
 
@@ -204,9 +202,9 @@ It is a restored variety house from 1900 on several levels, with a mix of seated
 
 **The oldest surviving grand music hall in the world**, and a room whose atmosphere does more work than most productions staged in it.
 
-The important distinction, and the one that catches people out: **Wilton's programmes cabaret rather than being a cabaret room.** Its own categories include Cabaret, Music Hall, Musical Theatre and Comedy, but the current Septemberto-October run is mostly theatre and opera — Wiesenthal, The Elixir of Love, Private Peaceful, FLOP! The Best Songs From The Worst Musicals, and Tim Key. Turn up expecting a variety bill on a random Tuesday and you will get a play.
+The important distinction, and the one that catches people out: **Wilton's programmes cabaret rather than being a cabaret room.** Its own categories include Cabaret, Music Hall, Musical Theatre and Comedy, but the programme is mostly theatre and opera. Turn up expecting a variety bill on a random Tuesday and you may get a play.
 
-**It is also the hardest ticket here.** Of seven shows listed across September and October 2026, **three were sold out and three more marked "selling fast"** — so this is the one venue in this guide where booking well ahead is not optional.
+**It is also the hardest ticket here.** Its shows sell out, so this is the one venue in this guide where booking well ahead is not optional.
 
 **Prices are not displayed on the what's-on page**, appearing only once you enter an individual show's booking flow, so there is no usable headline figure to quote.
 
@@ -330,7 +328,7 @@ The setting is 1930s New York: **three sets of live jazz** wrapped in theatrical
 
 **The address is deliberately withheld**, "as any self-respecting speakeasy should be," and issued to ticket holders. It is in Peckham; plan your route home accordingly, because that is a different journey from a Soho night.
 
-The same company's **Great Christmas Feast**, its Dickens and *A Christmas Carol* show, returns for 2026 — but presale signup is all that exists so far, with **no dates and no prices published**.
+The same company's **Great Christmas Feast**, its Dickens and *A Christmas Carol* show, runs **6 November to 31 December 2026**, with three courses included in every ticket: Classic Dining from £150, Private Dining from £195 and VIP Dining from £235, plus a £4.85 booking fee.
 
 ### Sarastro
 
@@ -433,14 +431,6 @@ More than thirty international acrobats, aerialists and stunt performers do the 
 *The Globe of Death. Photo: Cirque Berserk.*
 
 The 45-minute Winter Wonderland version, "IGNITE!", is **not running in 2026** — Gandeys has taken the Hyde Park circus slot. The Charing Cross run is the way to see the company in 2026.
-
-### Zippos Circus
-
-*Touring London parks · seated · **28 August – 12 October 2026***
-
-**A traditional big top in a local park, moving every few days** — the only circus here that comes to the suburbs rather than making you travel into the centre.
-
-The 2026 London run is: **Clissold Park in Stoke Newington to 1 September, Crystal Palace Park 4–7 September, Twickenham 10–14 September, Plumstead 17–21 September, Peckham Rye 24–27 September, Palmers Green 1–5 October, Bexley 8–12 October**, then Redhill from 15 October, which is outside London. Because each stop lasts days rather than weeks, the practical advice is to check which park is nearest now.
 
 ### Scrooge: Cirque Extravaganza
 
@@ -555,4 +545,4 @@ The show has returned to its home in the Hippodrome's own theatre, and performan
 
 ---
 
-*This guide is independent and contains no paid placements. Every venue was status-checked against its own website or ticketing system on 1 September 2026. Where a price, age limit or access statement is described here as not published, that means the venue itself does not state it — not that it does not exist.*
+*This guide is independent and contains no paid placements. Where a price, age limit or access statement is described here as not published, that means the venue itself does not state it — not that it does not exist.*

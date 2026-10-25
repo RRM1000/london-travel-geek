@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Excel_London_Summer_20
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-06-17
-updatedAt: 2026-10-04
-reviewBy: 2026-10-13
+updatedAt: 2026-10-25
+reviewBy: 2026-11-14
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -162,7 +162,7 @@ Both stations serving ExCeL are step-free — TfL's own step-free map confirms C
 
 ## Big shows here through the year
 
-ExCeL runs almost entirely on trade and B2B events, but a handful of shows each year are open to the public: [MCM Comic Con](/articles/mcm-comic-con-london/) in October, New Scientist Live, the London International Horse Show in December and Grand Designs Live in spring among them. The [upcoming public shows](#whats-on-excel-london) are listed at the foot of this page with their dates, and our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) covers every London venue.
+ExCeL runs almost entirely on trade and B2B events, but a handful of shows each year are open to the public: [MCM Comic Con](/articles/mcm-comic-con-london/) in May and October, New Scientist Live, the London International Horse Show in December and Grand Designs Live in spring among them. The [upcoming public shows](#whats-on-excel-london) are listed at the foot of this page with their dates, and our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) covers every London venue.
 
 **Two Christmas shows fill the weeks before 25 December.** **Wundrful World of Christmas**, a timed meet-Santa walk-through for three to eight-year-olds, runs on selected days from 13 November to 24 December in Immerse LDN on the Waterfront, about three minutes' walk from Custom House ([tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas)). **Scrooge: Cirque Extravaganza** plays the ICC Auditorium at the east end on 23, 24, 27 and 28 December, where Prince Regent is the nearer station, not Custom House ([tickets](https://scroogecirque.com/london)). Both are in our [Christmas shows guide](/articles/christmas-shows-london/).
 
@@ -223,4 +223,4 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 
 ---
 
-*Figures come from ExCeL London's own site (getting here, parking, accessibility, food and drink and FAQ pages), Transport for London's journey planner and its published Congestion Charge and ULEZ pages, Uber Boat by Thames Clippers' own pier and timetable pages, and each show's own organiser site, checked the week of 27 September 2026. Journey times were checked live against TfL's journey planner on a Sunday and will vary by day and disruption. Show dates and prices are set by each organiser and change; check before booking.*
+*Journey times will vary by day and disruption. Show dates and prices are set by each organiser and change; check before booking.*

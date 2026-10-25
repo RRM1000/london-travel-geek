@@ -3,8 +3,8 @@ title: "Chessington World of Adventures from London: Tickets, Trains and Rides"
 seoTitle: "Chessington World of Adventures: Tickets and Trains"
 description: "Chessington tickets are from £32 online and £68 at the gate, with the zoo and SEA LIFE included and under-90cm children free. It is in Zone 6, 36 minutes from Waterloo on Oyster. Every ride's height limit, Fastrack prices, and the days it is shut."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
-reviewBy: 2027-01-03
+updatedAt: 2026-10-25
+reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -96,9 +96,9 @@ The postcode is **KT9 2NE**, on the A243 Leatherhead Road, two miles from the M2
 
 *Dragon's Fury. Photo: [BenBowser](https://commons.wikimedia.org/wiki/File:Dragon%27s_Fury_CWOA.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**The park opens at 10:00** and closes between 16:00 and 19:00 depending on the date: 17:00 at weekends in October 2026, 16:00 on term-time weekdays, and 19:00 from 23 October to 1 November.
+**The park opens at 10:00** and closes between 16:00 and 19:00 depending on the date: 19:00 until 1 November 2026.
 
-> ⚠️ **Chessington is shut on some weekdays in October, and on most days in November.** In 2026 it is closed on Tuesday 6, Wednesday 7, Tuesday 13 and Wednesday 14 October. After 1 November it opens only on 7 and 8 November until Christmas at Chessington begins on 21 November. Check the [opening calendar](https://www.chessington.com/plan-your-visit/before-you-visit/opening-hours/) before you book.
+> ⚠️ **Chessington is shut on most days in November.** After 1 November it opens only on 7 and 8 November until Christmas at Chessington begins on 21 November. Check the [opening calendar](https://www.chessington.com/plan-your-visit/before-you-visit/opening-hours/) before you book.
 
 ### Howl'o'ween 2026
 
@@ -186,7 +186,7 @@ The resort has two hotels next to the park, the **[Safari Resort Hotel and the A
 
 ## What people get wrong
 
-- **Going on a Tuesday or Wednesday in October**, or a weekday in November, when the park is shut.
+- **Going on a weekday in November**, when the park is shut.
 - **Driving in an older car** without checking the ULEZ.
 - **Expecting the PAW Patrol rides on a Gold Fastrack.** They need their own.
 - **Taking teenagers.** One ride needs 1.4m; Thorpe Park is the thrill park.
