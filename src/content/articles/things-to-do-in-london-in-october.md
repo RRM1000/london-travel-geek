@@ -10,7 +10,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
 updatedAt: 2026-10-25
-reviewBy: 2026-10-22
+reviewBy: 2026-10-26
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -37,7 +37,7 @@ faq:
 
 For the first three weeks of October the summer crowds have gone and the autumn exhibitions and festivals open one after another. In the final week the clocks go back, half term starts and the evenings are dark by five.
 
-> 💡 **The Short Version:** **Frieze Week and the BFI London Film Festival ended on 18 October**; the free **Frieze Sculpture** in Regent's Park runs to 1 November. **MCM Comic Con** is at ExCeL on 23 to 25 October. The **clocks go back on 25 October**, half term starts the next day, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
+> 💡 **The Short Version:** **Frieze Week and the BFI London Film Festival ended on 18 October**; the free **Frieze Sculpture** in Regent's Park runs to 1 November. **MCM Comic Con** at ExCeL ends on 25 October; its next show is 28 to 30 May 2027. The **clocks go back on 25 October**, half term starts the next day, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
 
 **Five ticketed art fairs ran in the same city on the same days, in the middle of the month**, inside the BFI London Film Festival's closing weekend, Thursday 15 to Sunday 18 October. What is left is the free half, Frieze Sculpture, which stays in Regent's Park until the start of November.
 
@@ -91,7 +91,7 @@ London's international dance festival, running **7 to 27 October** across Sadler
 
 ### London Literature Festival — late October into November
 
-The Southbank Centre's literature festival runs **20 October to 1 November 2026**, curated in 2026 by **Dua Lipa** with writers picked through her Service95 Book Club. Events include **Malorie Blackman marking 25 years of *Noughts & Crosses*** in the Queen Elizabeth Hall on **28 October**, and a free afternoon of activities in the Clore Ballroom on **24 October**.
+The Southbank Centre's literature festival runs **20 October to 1 November 2026**, curated in 2026 by **Dua Lipa** with writers picked through her Service95 Book Club. Events include **Malorie Blackman marking 25 years of *Noughts & Crosses*** in the Queen Elizabeth Hall on **28 October**.
 
 ### London Restaurant Festival — across the month
 
@@ -141,7 +141,7 @@ The Mayor of London's Diwali celebration: an opening dance sequence with 200 dan
 
 *Full guide: [MCM Comic Con London](/articles/mcm-comic-con-london/)*
 
-A three-day comics, gaming, anime and pop culture convention, closing on the same Sunday as Diwali and the clock change. General entry is **£29 on Friday or Sunday and £38 on Saturday**, and opens at midday (11am on Saturday); a child ticket is £7, and under-5s go free. The **Weekend ticket and both VIP tiers have sold out**. The crowds travel on the DLR and the Elizabeth line to Custom House, so expect both to be busy if you are doing anything else in Docklands that weekend.
+A three-day comics, gaming, anime and pop culture convention, closing on the same Sunday as Diwali and the clock change. General entry is **£29 on Friday or Sunday and £38 on Saturday**, and opens at midday (11am on Saturday); a child ticket is £7, and under-5s go free. The **Weekend ticket and both VIP tiers have sold out**. The crowds travel on the DLR and the Elizabeth line to Custom House, so expect both to be busy if you are doing anything else in Docklands that weekend. The next MCM London is **28 to 30 May 2027**, with tickets on sale from 26 October.
 
 ### School half term — Monday 26 to Friday 30 October
 
@@ -211,7 +211,7 @@ Shonibare's *Mr and Mrs Andrews without their Heads* (1998) hangs beside the Gai
 
 The year's winning pictures, open in time for half term and running to **11 July 2027**. Adults from **£17** off-peak, children aged 4 to 17 **£10.50**, under-4s free.
 
-**Declaring Independence: USA 250** at the British Museum has been running free since the summer and continues right through October.
+**Declaring Independence: USA 250** at the British Museum has been running free since the summer and continues to 29 November.
 
 ## Theatre: what's closing, and what's opening
 
@@ -219,7 +219,7 @@ The year's winning pictures, open in time for half term and running to **11 July
 
 The first weekend of the month cleared out three shows at once: **My Son's A Queer (But What Can You Do?)** at the Apollo, **The Children** at the Lyric Hammersmith, and **The Last Ship** at Theatre Royal Drury Lane. **Holy Fool**, a play about Shostakovich under Stalin, at the Park Theatre, and **Flamenc-Oh!!** at the Peacock both ended **10 October**.
 
-The Globe's open-air season closes in the same week half term begins: **[Much Ado About Nothing](https://theatre.ticketmaster.co.uk/book/1HM96-much-ado-about-nothing-2026/)** plays its last performance on **24 October**, and **[As You Like It](https://theatre.ticketmaster.co.uk/book/1HM8Y-as-you-like-it-26/)**, co-directed by Sean Holmes and Charlie Josephine, closes the following day, **25 October**. Standing tickets in the yard are £10. The same week also closes **Darkling** at the Bush, **Table 17** at the Kiln, and **Tartuffe (Remixed)** at the Marylebone Theatre, all on the **24th**.
+The Globe's open-air season closes in the same week half term begins: **Much Ado About Nothing** played its last performance on **24 October**, and **[As You Like It](https://theatre.ticketmaster.co.uk/book/1HM8Y-as-you-like-it-26/)**, co-directed by Sean Holmes and Charlie Josephine, closes the following day, **25 October**. Standing tickets in the yard are £10. **Darkling** at the Bush, **Table 17** at the Kiln, and **Tartuffe (Remixed)** at the Marylebone Theatre also ended on the **24th**.
 
 **From The Heart** at the Garrick ran entirely inside the month, **8 to 18 October**. On **31 October**, four runs end together: **Angel's Bone** at the Coliseum, **The Hungry Ghost** at the Bush, **Stories – The Tap Dance Sensation** at the Peacock, which opened on the 14th, and **Cirque Berserk!** at the Garrick, which had only opened ten days earlier as a half-term booking.
 
@@ -231,7 +231,7 @@ The Globe's open-air season closes in the same week half term begins: **[Much Ad
 
 *The Cherry Orchard, at the Harold Pinter Theatre. Artwork: Sonia Friedman Productions.*
 
-At the London Coliseum, English National Opera stages **Angel's Bone** from **16 October** and **Tosca** from **30 October**. **Cirque Berserk!** takes the Garrick for half term from **21 October** (book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1J7JN-cirque-berserk/)), and **Ceilidh** opens at Shoreditch Town Hall on **22 October**. The cheapest opening of the month is **The Bridge** at the Bush from **28 October**, from £13.
+At the London Coliseum, English National Opera stages **Angel's Bone** from **16 October** and **Tosca** from **30 October**. **Cirque Berserk!** took the Garrick for half term from **21 October** (book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1J7JN-cirque-berserk/)), and **Ceilidh** opened at Shoreditch Town Hall on **22 October**. The cheapest opening of the month is **The Bridge** at the Bush from **28 October**, from £13.
 
 One naming note still worth carrying: the **Duke of York's Theatre is now the Tom Stoppard Theatre**, and you will see both names in circulation for a while yet.
 
@@ -251,13 +251,11 @@ A new Aardman show on Lightroom's walls, booking now to **4 January 2027**. It r
 
 ### Blue Note London's first full month
 
-The New York jazz club's first UK venue, which opened on St Martin's Lane in September, plays its first complete month in October, two sets a night (7pm and 9.30pm) in a 300-seat main room. **[Shabaka](https://www.ticketmaster.co.uk/shabaka-london-19-10-2026/event/23006505D5EC0E89) plays 19 and 20 October**, followed by Masego on 21 October, Steam Down x Nyjo Big Band on 22 and 23 October, Mahalia on 25 October and Laura Mvula on 29 and 30 October. The club's full entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
+The New York jazz club's first UK venue, which opened on St Martin's Lane in September, plays its first complete month in October, two sets a night (7pm and 9.30pm) in a 300-seat main room. The month ends with Mahalia on 25 October, Elements: A Celebration of Earth, Wind & Fire on 28 October and Laura Mvula on 29 and 30 October. The club's full entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
 
 ## Gigs worth planning around
 
-Alexandra Palace carries the second half of the month: **Beth Orton on 22 October** in the Alexandra Palace Theatre (a waiting list is open for returns), **Fat Freddy's Drop on 23 October** in the Great Hall (sold out), the **Crouch End Festival Chorus performing Mozart's Requiem at 5pm on 25 October**, **Overmono on 28 October**, and **[Skindred](https://www.ticketmaster.co.uk/skindred-you-got-this-tour-london-31-10-2026/event/1F006474E2A68594) on Halloween night, 31 October**.
-
-**Angine de Poitrine play two nights at the Troxy, Monday 19 and Tuesday 20 October, and both have sold out.** The anonymous Quebec duo, Khn de Poitrine on guitar and bass and Klek de Poitrine on drums, perform in oversized papier-mâché masks and polka-dot suits and play microtonal math rock: music built from the notes that fall between the frets of an ordinary guitar. The band began as a gag for a local venue in Saguenay; a live set KEXP released in February passed millions of views and turned it into an international tour. Over-14s, doors 7pm.
+Alexandra Palace carries the end of the month: the **Crouch End Festival Chorus performing Mozart's Requiem at 5pm on 25 October**, **Overmono on 28 October**, and **[Skindred](https://www.ticketmaster.co.uk/skindred-you-got-this-tour-london-31-10-2026/event/1F006474E2A68594) on Halloween night, 31 October**.
 
 ## What's on in October 2026
 
@@ -271,7 +269,7 @@ Where a restaurant has not named its opening day, treat the month as a guide, no
 
 **Cloth Cornhill** (38½ Cornhill, EC3V 9DR) opened on **1 October**, the second site from the Cloth restaurants group, taking over the building that was Simpson's Tavern — the City's oldest chophouse, trading on the site since 1757, closed since 2022 — with some dishes paying homage to it. It trades **Monday to Friday only**, closed at weekends and on bank holidays. The first-floor restaurant, reached by stairs only, takes bookings up to 90 days ahead; the ground-floor pub is walk-in only.
 
-**Dishoom Borough**, inside the Hop Exchange on Southwark Street by Borough Market, is in a soft launch with **50% off all food until 2pm on Tuesday 20 October**. Bookings are full, but walk-ins are welcome. **The Talli Queen** takes over the former Queen Adelaide pub at 412 Uxbridge Road in Shepherd's Bush in October 2026, on a day not yet announced, under ex-Pahli Hill and Bandra Bhai chef Avi Shashidhara, built around what the kitchen calls "traditional drinking establishments of India." **Bamboo Mat**, the Nikkei (Japanese-Peruvian) restaurant in Stratford's East Village, has a second site at 1 North Lane, Canary Wharf, listed as opening soon.
+**Dishoom Borough**, at 11–13 Park Street beside Borough Market, is open all day, every day. **The Talli Queen** takes over the former Queen Adelaide pub at 412 Uxbridge Road in Shepherd's Bush in October 2026, on a day not yet announced, under ex-Pahli Hill and Bandra Bhai chef Avi Shashidhara, built around what the kitchen calls "traditional drinking establishments of India." **Bamboo Mat**, the Nikkei (Japanese-Peruvian) restaurant in Stratford's East Village, has a second site at 1 North Lane, Canary Wharf, listed as opening soon.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-october-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

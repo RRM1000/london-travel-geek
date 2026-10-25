@@ -4,7 +4,7 @@ seoTitle: "British Museum Guide: Tickets, Hours & Bayeux Tapestry"
 description: "The British Museum is free, with a free timed ticket for busy days. Where the Bayeux Tapestry tickets stand, the entrances, opening hours, and what to see in one or two hours."
 publishedAt: 2026-10-07
 updatedAt: 2026-10-25
-reviewBy: 2026-10-22
+reviewBy: 2026-11-14
 sites:
   - london
 canonicalSite: london
@@ -48,9 +48,9 @@ The British Museum holds about eight million objects and took 6.4 million visits
 > - **The Bayeux Tapestry is separate and sold out until 2027.** Every ticket to 31 March 2027 has gone; April to July 2027 opens in early 2027. Adults are £33.
 > - **Leave big bags behind.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed. The entrances are Great Russell Street and Montague Place.
 > - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
-> - **Fridays are open late,** until 20:30. **Check the closures:** Room 41 (Sutton Hoo) is partially closed and Rooms 42 and 43 (Islamic world) are closed from 12 to 23 October 2026, and Room 4 (the Rosetta Stone) is closed from 11 to 22 January 2027. A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> picks the route for you.
+> - **Fridays are open late,** until 20:30. **Check the closures:** Rooms 68 to 73 (Money, Greek and Roman life, the Roman Empire, Etruscans, Cyprus and the Greeks in Italy) are closed from 2 to 13 November 2026, and Room 4 (the Rosetta Stone) is closed from 11 to 22 January 2027. A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> picks the route for you.
 
-> ⚠️ **Bayeux Tapestry tickets to 31 December 2026 are sold out, and a free museum ticket does not include them.** The free events on 9 to 11 October are free to attend, but none of them gets you into Room 30.
+> ⚠️ **Bayeux Tapestry tickets to 31 March 2027 are sold out, and a free museum ticket does not include them.** The free events around the exhibition are free to attend, but none of them gets you into Room 30.
 
 ---
 
@@ -85,11 +85,7 @@ The audio guide is free in the British Museum Audio app: download it before you 
 
 ### The free Bayeux events
 
-Both sit alongside the exhibition without including it:
-
-- **[Bayeux Late: medieval making](https://www.britishmuseum.org/events/bayeux-late-medieval-making), Friday 9 October, 17:30 to 20:30.** Workshops and activities, free to drop in at any time. Contributors include Matilda Ngute of The Textile Club, Olivia Swarthout of Weird Medieval Guys and the embroidery artist Bella Lane.
-- **[Big Bayeux Bash](https://www.britishmuseum.org/events/big-bayeux-bash), Saturday 10 and Sunday 11 October.** Free drop-in family workshops inspired by the medieval world, for children aged six and over with their adults. First come, first served.
-- **Bayeux Late: reimagining the Bayeux Tapestry, Friday 4 December,** also free.
+**[Bayeux Late: reimagining the Bayeux Tapestry](https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry), Friday 4 December, 17:30 to 20:30,** is free, for ages 18 and over, in the Great Court and galleries. It sits alongside the exhibition without including it.
 
 ---
 
@@ -165,7 +161,7 @@ Upstairs, the mummies and coffins fill Rooms 62 and 63. In Room 64 is Ginger, a 
 
 *The Sutton Hoo helmet. Photo: [Geni](https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png) (public domain).*
 
-The helmet came out of an Anglo-Saxon ship burial in Suffolk, dug by Basil Brown in 1939 on land owned by Edith Pretty, who gave the finds to the museum. The original is reconstructed from fragments and shown beside a replica of how it looked whole. **Room 41 is partially closed from 12 to 23 October 2026.**
+The helmet came out of an Anglo-Saxon ship burial in Suffolk, dug by Basil Brown in 1939 on land owned by Edith Pretty, who gave the finds to the museum. The original is reconstructed from fragments and shown beside a replica of how it looked whole.
 
 ### The Lewis Chessmen, Room 40
 
@@ -179,10 +175,11 @@ Walrus-ivory chess pieces found on the Isle of Lewis, probably made in Norway ar
 
 The museum publishes [planned gallery closures](https://www.britishmuseum.org/visit#gallery-information). The dated ones:
 
-- **Room 41 (Sutton Hoo) partially, and Rooms 42 and 43 (Islamic world):** 12 to 23 October 2026.
-- **Reading Room:** 13 and 20 November 2026.
+- **Rooms 68 to 73 (Money, Greek and Roman life, the Roman Empire, Etruscans, Cyprus and the Greeks in Italy):** 2 to 13 November 2026.
+- **Reading Room:** 6 November 2026 (15:00 to 20:30), 13 and 20 November (all day) and 29 November (12:00 to 17:00).
+- **Rooms 33, 33a and 33b (China and South Asia, Amaravati, Chinese jade):** 30 November to 11 December 2026.
 - **Room 4 (Rosetta Stone), Rooms 6a and 9:** 11 to 22 January 2027.
-- **Rooms 7 and 8:** 8 to 19 February 2027.
+- **Rooms 6b, 7 and 8:** 8 to 19 February 2027.
 
 <div data-stay-strip></div>
 
@@ -191,7 +188,7 @@ The museum publishes [planned gallery closures](https://www.britishmuseum.org/vi
 ## Paid exhibitions and free extras
 
 - **Korea** runs from 1 October 2026 to 31 January 2027. It is ticketed and booked separately on the [exhibitions page](https://www.britishmuseum.org/exhibitions-events).
-- **Declaring Independence: USA 250** is free and runs through October 2026.
+- **Declaring Independence: USA 250** is free and runs to 29 November 2026.
 
 
 ---

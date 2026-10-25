@@ -1,9 +1,10 @@
 ---
 title: "Is the London Pass Worth It? What It Saves, and When It Doesn't"
 seoTitle: "London Pass 2026: Real Prices & When It Loses Money"
-description: "A 2-day pass is £149. The classic big five cost £142.00 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
+description: "A 2-day pass is £149. The classic big five cost £144.00 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
 publishedAt: 2026-09-03
-updatedAt: 2026-10-17
+updatedAt: 2026-10-25
+reviewBy: 2026-12-31
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -11,7 +12,7 @@ tags: [London Pass, attractions, planning, budget travel, tickets]
 draft: false
 faq:
   - q: "Is the London Pass worth it?"
-    a: "Only on dense, expensive itineraries. A 2-day adult pass is £149 and the classic big five — Tower of London, Westminster Abbey, St Paul's, London Eye, Tower Bridge — total £142.00 booked direct. You need a sixth paid attraction in those two days before the pass starts winning. Most visitors do not."
+    a: "Only on dense, expensive itineraries. A 2-day adult pass is £149 and the classic big five — Tower of London, Westminster Abbey, St Paul's, London Eye, Tower Bridge — total £144.00 booked direct. You need a sixth paid attraction in those two days before the pass starts winning. Most visitors do not."
   - q: "Does the London Pass include the Tube?"
     a: "No. Go City's own FAQ says plainly that its passes do not include public transport. You still need contactless or an Oyster card for the Underground and buses. A Big Bus hop-on hop-off ticket and a City Cruises river pass are included, but they are tours, not transport."
   - q: "Can I use the London Pass for the London Eye?"
@@ -21,7 +22,7 @@ faq:
   - q: "Are London's museums included in the London Pass?"
     a: "The famous ones are free to everyone anyway. The British Museum, National Gallery, Natural History Museum, Science Museum, V&A, Tate Modern, Tate Britain, Imperial War Museum, National Maritime Museum and National Portrait Gallery all cost nothing to enter. What the pass adds at those sites is guidebooks and an audio tour — about £51 of paperwork."
   - q: "Is the London Pass better than Historic Royal Palaces membership?"
-    a: "Not if the palaces are what you came for. The Tower of London, Hampton Court and Kensington Palace cost £90.70 at the gate for one adult. HRP membership is £65 by Direct Debit and lasts a year. For a family of four it is £125 against a £596 three-day London Pass."
+    a: "Not if the palaces are what you came for. The Tower of London, Hampton Court and Kensington Palace cost £92.70 at the gate for one adult. HRP membership is £65 by Direct Debit and lasts a year. For a family of four it is £125 against a £596 three-day London Pass."
 heroImage: "../../assets/articles/london-pass-guide/london-pass-guide.jpg"
 heroImageAlt: "Visitors climbing the wooden entrance stairway to the White Tower at the Tower of London, one of the paid attractions this guide prices against the pass"
 heroImageCredit: "Ethan Doyle White"
@@ -32,9 +33,9 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 
 The London Pass can save you money; the question is *when*.
 
-So here is the arithmetic. A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — [Tower of London](/articles/tower-of-london-guide/), Westminster Abbey, St Paul's, the London Eye, Tower Bridge — come to **£142.00** booked direct at the prices those attractions charge on their own websites.
+So here is the arithmetic. A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — [Tower of London](/articles/tower-of-london-guide/), Westminster Abbey, St Paul's, the London Eye, Tower Bridge — come to **£144.00** booked direct at the prices those attractions charge on their own websites.
 
-**The pass loses by £7.00.** You need a sixth paid attraction in those two days before it starts to pay.
+**The pass loses by £5.00.** You need a sixth paid attraction in those two days before it starts to pay.
 
 That is the shape of this whole question, and it does not appear on any page selling you the thing.
 
@@ -100,7 +101,7 @@ Adult and child prices, straight from Go City's product data. A child pass cover
 | 7 | £259 | £37.00 | £189 | £27.00 |
 | 10 | £279 | **£27.90** | £199 | £19.90 |
 
-**The 1-day pass is the worst purchase on this page.** £99 to be recouped between opening and closing. The Tower of London alone reasonably eats three hours; add Westminster Abbey and St Paul's and you are at £95 of gate price and out of daylight.
+**The 1-day pass is the worst purchase on this page.** £99 to be recouped between opening and closing. The Tower of London alone reasonably eats three hours; add Westminster Abbey and St Paul's and you are at £97 of gate price and out of daylight.
 
 <div data-stay-strip></div>
 
@@ -117,7 +118,7 @@ Adult and child prices, straight from Go City's product data. A child pass cover
 
 Use the right-hand column. **Every attraction you pick must cost more than it, or you are losing money on that pick.**
 
-At two choices you need each one to beat **£32**. Among the landmark sights on the Explorer list, essentially only the Tower of London (£37) clears that. The 2-choice Explorer is close to unwinnable.
+At two choices you need each one to beat **£32**. Among the landmark sights on the Explorer list, essentially only the Tower of London (£38) clears that. The 2-choice Explorer is close to unwinnable.
 
 ---
 
@@ -127,12 +128,12 @@ Verified on each attraction's own website. Where a site sells cheaper in advance
 
 | Attraction | Adult | Child | Note |
 | --- | --- | --- | --- |
-| **Tower of London** | £37.00 | £18.50 | £40.70 / £20.40 with the optional 10% donation |
-| **Westminster Abbey** | £31.00 | £14.00 | Child 6–17; under 5 free |
+| **Tower of London** | £38.00 | £19.00 | £41.80 / £21.00 with the optional 10% donation |
+| **Westminster Abbey** | £32.00 | £14.00 | Child 6–17; under 5 free |
 | **St Paul's Cathedral** | £27.00 | £10.50 | £29.70 / £11.55 with donation |
 | **Windsor Castle** | £32.00 | £16.00 | **£36.00 / £18.00 on the day** |
-| **Buckingham Palace State Rooms** | £33.00 | £16.50 | **£37.00 / £18.50 on the day**; open 9 Jul–27 Sep only |
-| **Hampton Court Palace** | £29.00 | £14.50 | £32.00 / £16.00 with donation |
+| **Buckingham Palace State Rooms** | £33.00 | £16.50 | **£37.00 / £18.50 on the day** (2026 prices); open in summer only, with 2027 tickets released in November |
+| **Hampton Court Palace** | £30.00 | £15.00 | £33.00 / £16.50 at weekends and bank holidays |
 | **Kensington Palace** | £24.70 | £12.40 | £27.20 / £13.70 with donation |
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
@@ -161,11 +162,11 @@ Go City prints a "price without pass" against each attraction. On several of the
 | London Eye | £34.13 | from £29.00 | £5.13 |
 | Windsor Castle | £36.00 | £32.00 | £4.00 |
 | Buckingham Palace State Rooms | £37.00 | £33.00 | £4.00 |
-| Hampton Court Palace | £32.00 | £29.00 | £3.00 |
+| Hampton Court Palace | £32.00 | £30.00 | £2.00 |
 
 Two mechanisms are at work. At the Merlin attractions and the Royal Collection sites, Go City quotes the **on-the-day box office price**. At Hampton Court it quotes the **donation-inclusive price** — Historic Royal Palaces asks for an optional 10% on top, and Go City has counted it as compulsory.
 
-On a five-attraction itinerary that is about **£23.26 of saving that was never available to you in the first place.**
+On a five-attraction itinerary that is about **£22.26 of saving that was never available to you in the first place.**
 
 ---
 
@@ -177,16 +178,16 @@ The classic list, booked direct in advance.
 
 | | Adult |
 | --- | --- |
-| Tower of London | £37.00 |
-| Westminster Abbey | £31.00 |
+| Tower of London | £38.00 |
+| Westminster Abbey | £32.00 |
 | St Paul's Cathedral | £27.00 |
 | London Eye | £29.00 |
 | Tower Bridge | £18.00 |
-| **Gate total** | **£142.00** |
+| **Gate total** | **£144.00** |
 | 2-day London Pass | £149.00 |
-| **Result** | **Pass loses by £7.00** |
+| **Result** | **Pass loses by £5.00** |
 
-Add a sixth — Madame Tussauds at £27.00 — and the gate total becomes £169.00. **Now the pass wins, by £20.00.**
+Add a sixth — Madame Tussauds at £27.00 — and the gate total becomes £171.00. **Now the pass wins, by £22.00.**
 
 So the rule for two days: **six paid attractions to make £20.** That is one every three hours of an eight-hour sightseeing day, with no long lunch and no getting lost. Five is a good, full, realistic two days, and at five the pass loses.
 
@@ -200,18 +201,18 @@ A busy but plausible three days:
 
 | | Adult each | Child each |
 | --- | --- | --- |
-| Tower of London | £37.00 | £18.50 |
+| Tower of London | £38.00 | £19.00 |
 | London Eye | £29.00 | £26.00 |
 | Madame Tussauds | £27.00 | £21.00 |
-| Hampton Court Palace | £29.00 | £14.50 |
+| Hampton Court Palace | £30.00 | £15.00 |
 | Tower Bridge | £18.00 | £9.00 |
-| **Per person** | **£140.00** | **£89.00** |
+| **Per person** | **£142.00** | **£90.00** |
 
-Family total at the gate: **£458.00**. Against £596.
+Family total at the gate: **£464.00**. Against £596.
 
-**The pass loses by £138.00.**
+**The pass loses by £132.00.**
 
-To get in front you must add Windsor Castle and Kensington Palace, taking it to seven paid attractions in three days with two children — £628.20 at the gate, a **£32.20** win. That is not a holiday, it is a forced march, and it buys twenty pounds.
+To get in front you must add Windsor Castle and Kensington Palace, taking it to seven paid attractions in three days with two children — £634.20 at the gate, a **£38.20** win. That is not a holiday, it is a forced march, and it buys thirty-eight pounds.
 
 > ⚠️ **The child pass is the weak point.** Most London attractions charge children about **half** the adult price — the Tower, Hampton Court, Kensington and Windsor are all bang on 50%. The 3-day pass charges children **two-thirds** of the adult price. The pass is worst value for children at exactly the attractions where children are cheapest. The exception is Merlin: the London Eye charges a child £26 against £29, so the pass's child rate holds up there.
 
@@ -298,7 +299,7 @@ And the free viewpoints — [Sky Garden](/articles/sky-garden-guide/), Horizon 2
 
 If your trip is about the palaces, stop reading about passes.
 
-The Tower of London, Hampton Court and Kensington Palace cost **£90.70** for one adult at the gate. **HRP membership is £65 by annual Direct Debit** (£75 by card) and covers all three, plus Hillsborough Castle, unlimited for a year.
+The Tower of London, Hampton Court and Kensington Palace cost **£92.70** for one adult at the gate. **HRP membership is £65 by annual Direct Debit** (£75 by card) and covers all three, plus Hillsborough Castle, unlimited for a year.
 
 **Membership is cheaper than visiting all three once.**
 
@@ -306,7 +307,7 @@ For a family of four it is starker still:
 
 | | Cost |
 | --- | --- |
-| Tower + Hampton Court + Kensington, 2 adults + 2 children, at the gate | £272.20 |
+| Tower + Hampton Court + Kensington, 2 adults + 2 children, at the gate | £278.20 |
 | HRP Family membership (2 adults, up to 6 children) | **£125.00** |
 | 3-day London Pass, same family | £596.00 |
 
