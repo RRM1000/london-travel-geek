@@ -3,8 +3,8 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-19
-reviewBy: 2026-11-05
+updatedAt: 2026-10-25
+reviewBy: 2026-10-31
 sites:
   - london
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "What is actually free at Christmas in London?"
     a: "Every street light display, every Christmas market to browse, the Trafalgar Square tree and St Pancras's charity tree are all free. What is not: ice rinks, ticketed light trails such as Christmas at Kew, grottos at the department stores, and Hyde Park Winter Wonderland, which needs a ticket even to walk in."
   - q: "When do London's Christmas lights switch on?"
-    a: "Most switch-ons cluster in the first two weeks of November, with the big names — Oxford Street, Regent Street, Carnaby Street — usually going first. The one fixed point is Trafalgar Square's tree, lit on Thursday 3 December 2026. Carnaby Street's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November and Covent Garden's is Thursday 12 November."
+    a: "Carnaby Street's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November, and Bond Street's and Covent Garden's are Thursday 12 November. Oxford Street has not published its 2026 date; its lights went on Monday 3 November in 2025. The Trafalgar Square tree is lit on Thursday 3 December 2026."
   - q: "Where can you still ice skate outdoors in London at Christmas 2026?"
     a: "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House in Greenwich and Hyde Park Winter Wonderland all have outdoor rinks in 2026-27, and Alexandra Palace has a year-round indoor one. The Natural History Museum's rink has closed for good, Canary Wharf's is taking a break for 2026, and there is no Tower of London rink."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
@@ -51,7 +51,7 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas markets
 
-**Leicester Square's** chalets ring an ice rink and open on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** is the food one and is cash-free, and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £6 to £10.
+**Leicester Square's** chalets ring an ice rink and open on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** (**2 November** to 3 January) is the food one and is cash-free, **Winter by the River** at London Bridge City opens on **10 November**, and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £8 to £10.
 
 > 🎄 **[Every Christmas market in London, with dates and hours →](/articles/christmas-markets-london/)** — the central markets, Kingston, Greenwich, Wimbledon and Battersea, and the maker fairs at the British Library, King's Cross and Chelsea Physic Garden.
 
@@ -67,11 +67,11 @@ Worth a detour even though it isn't a market: **St Pancras International's** con
 
 ## Christmas lights: where to see them
 
-The big shopping streets confirm their switch-on dates from late September, but the pattern repeats every year: the best-known streets switch on first, in the opening two weeks of November, and the lights stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
+The 2026 switch-ons run from **Wednesday 4 November** (Carnaby Street) and **Thursday 5 November** (Regent Street, closed to traffic from 5pm to 9pm) to **Thursday 12 November** (Bond Street and Covent Garden). Oxford Street has not published its date, and the lights stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
 
 | Street | Known for |
 | --- | --- |
-| **Oxford Street** | "Sky Full of Stars" — over 5,000 illuminated stars the length of the street |
+| **Oxford Street** | "Sky Full of Stars" — over 5,000 illuminated stars the length of the street in 2025; traffic-free from Orchard Street to Great Portland Street from 26 October 2026 |
 | **Regent Street** | The "Spirit(s) of Christmas" — illuminated angel figures, a Regent Street signature for decades |
 | **Carnaby Street** | A completely different sculptural light installation each year |
 | **Bond Street & South Molton Street** | Tens of thousands of LEDs on a different theme annually; South Molton Street's own blue-lit arches |
@@ -297,7 +297,7 @@ Every grand hotel reprints its tea menu for Christmas, usually from early Novemb
 
 ## Eating out on Christmas Day itself
 
-Almost nothing opens on 25 December, no transport runs, and what does open is a fixed menu paid for in advance. It is a different exercise from booking a festive lunch in December, and it needs doing by late October.
+Almost nothing opens on 25 December, no transport runs, and what does open is a fixed menu paid for in advance. It is a different exercise from booking a festive lunch in December, and it needs doing early.
 
 **[Christmas dinner in London, and what it costs →](/articles/christmas-day-restaurants-london/)**
 
