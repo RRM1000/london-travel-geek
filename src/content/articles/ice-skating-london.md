@@ -5,8 +5,8 @@ description: "London's outdoor Christmas ice rinks for 2026-27: Somerset House, 
 heroImage: "../../assets/articles/ice-skating-london/somerset-house-rink.jpg"
 heroImageAlt: "Skaters on the Somerset House ice rink on an overcast day, in front of the domed courtyard front with large white SKATE letters along its roofline and a marquee down the right"
 publishedAt: 2026-09-27
-updatedAt: 2026-10-19
-reviewBy: 2026-11-05
+updatedAt: 2026-10-25
+reviewBy: 2026-10-31
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -198,7 +198,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 ## Leicester Square
 
-**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, runs from **31 October 2026 to 3 January 2027**, from 10am to 10pm next to the [Christmas market](/articles/christmas-markets-london/) stalls, with the first session at 10.15am and the last at 9.15pm. Sessions last 45 minutes and tickets start at **£10** plus a £3 transaction fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk. It is the most central rink in London and the easiest to add to an evening in the West End.
+**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, runs from **31 October 2026 to 3 January 2027**, every day except Christmas Day, next to the [Christmas market](/articles/christmas-markets-london/) stalls. Until 26 November it opens at noon on weekdays and 10am at weekends; from 27 November it opens at 10am daily. It closes at 10pm, with the last session at 9.15pm, and at 6pm on Christmas Eve. Sessions last 45 minutes and tickets start at **£10** plus a £3 transaction fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk. It is the most central rink in London and the easiest to add to an evening in the West End.
 
 ---
 
