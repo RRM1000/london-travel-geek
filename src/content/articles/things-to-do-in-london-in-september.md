@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File%3AGreatRiverRace07.JPG
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-09-09
-updatedAt: 2026-09-25
+updatedAt: 2026-10-25
 reviewBy: 2026-10-01
 sites: [london]
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "What is the best time to visit London in September?"
     a: "The first week if you want the city quiet and cheap, the middle if you want the most to do. Schools go back in the first few days, so from around the 5th the museums and restaurants ease off sharply while the weather still holds. The middle of the month is the opposite trade: Open House, the London Design Festival and Heritage Open Days all overlap, and London Fashion Week follows immediately, so there is more on than at any other point in the year and hotel rates rise to match."
   - q: "When can I get tickets for the Bayeux Tapestry at the British Museum?"
-    a: "The next general ticket release is 21 October 2026, covering visits between 1 January and 31 March 2027. Members' priority booking reopens earlier, on 6 October 2026. The exhibition itself opened on 10 September 2026 and runs until 11 July 2027 in Room 30, and earlier releases have gone quickly — the museum's newsletter is the only dependable way to hear when the next one opens. It stays open until 9pm from Thursday to Saturday, so late slots are the calmest."
+    a: "Every ticket to 31 March 2027 has sold out; April to July 2027 opens in early 2027. The exhibition itself opened on 10 September 2026 and runs until 11 July 2027 in Room 30, and earlier releases have gone quickly — the museum's newsletter is the only dependable way to hear when the next one opens. It stays open until 9pm from Thursday to Saturday, so late slots are the calmest."
   - q: "What events are on in London in September 2026?"
     a: "Totally Thames runs the whole month along the river. Open House and the London Design Festival both ran 12 to 20 September, Heritage Open Days 11 to 20, and London Fashion Week 17 to 21. Saturday 12 September was the busiest single day of the month: the Great River Race rowed 21.6 miles from Millwall to Ham from 12.45pm, and the Last Night of the Proms closed the season at the Royal Albert Hall at 7.15pm."
   - q: "Is Open House London free?"
@@ -55,7 +55,7 @@ The thing worth understanding about it is the collaboration buried in its making
 
 **Opening hours are unusually long, and that is the tactical detail.** Sunday to Wednesday it runs 10am to 6pm; **Thursday to Saturday it stays open until 9pm**. Late Thursday and Friday slots are the civilised way to see it.
 
-**Tickets: this is the part to plan.** Every ticket for 10 September to 31 December 2026 has sold out. **Members' priority booking reopens on 6 October 2026**, and the **next general ticket release is 21 October 2026**, covering visits from 1 January to 31 March 2027. If you want to go and have not booked, mark those two dates — the British Museum's newsletter is the only reliable way to be told when releases open. Our [British Museum guide](/articles/british-museum-guide/) keeps the ticket position, prices and rooms in one place.
+**Tickets: this is the part to plan.** Every ticket for 10 September to 31 December 2026 has sold out. Tickets for 1 January to 31 March 2027 have sold out too, and **April to July 2027 opens in early 2027**. If you want to go and have not booked, the British Museum's newsletter is the only reliable way to be told when releases open. Our [British Museum guide](/articles/british-museum-guide/) keeps the ticket position, prices and rooms in one place.
 
 If you cannot get in, **Bayeux Around Britain** runs related programmes at more than sixty museums and heritage sites across the country. There is also a curator's talk, *The real world of the Bayeux Tapestry*, online on **25 September, £50**.
 

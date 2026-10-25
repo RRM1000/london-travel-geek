@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-updatedAt: 2026-10-19
+updatedAt: 2026-10-25
 reviewBy: 2026-10-22
 sites: [london]
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "What is the best time to visit London in October?"
     a: "The first ten days, if you want a simple answer. Frieze Week, with five ticketed art fairs and the film festival's closing weekend between 14 and 18 October, is the art-lover's week, and hotels price for it. The last eight days are the opposite trade: the clocks go back, half term fills every attraction, and Halloween lands on a Saturday, so a lot is happening but daylight, calm and timed-entry slots are all in short supply. If you can choose, come before the 15th, or go in knowing the back half of the month is a darker, busier trip."
   - q: "Can you still get tickets for the Bayeux Tapestry in October 2026?"
-    a: "Not for an October visit. Every ticket for 10 September to 31 December 2026, including the members' priority allocation, has sold out. The free Bayeux Tapestry Opening Festival at the British Museum ran 9 to 11 October, though neither event included entry to the Tapestry itself. For your own visit, general booking for 1 January to 31 March 2027 opens on 21 October; members' priority booking for the same window opened on 6 October."
+    a: "Not for an October visit. Every ticket for 10 September to 31 December 2026, including the members' priority allocation, has sold out. The free Bayeux Tapestry Opening Festival at the British Museum ran 9 to 11 October, though neither event included entry to the Tapestry itself. Tickets to 31 March 2027 have sold out too; April to July 2027 opens in early 2027."
   - q: "What is Frieze Week, and is it worth going if you're not buying art?"
     a: "Frieze Week is the run of days in the middle of October (14 to 18 October in 2026) when the two fairs in Regent's Park are joined by three satellite fairs: PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park. All are ticketed, and Frieze weekend tickets alone ran from about £38. The free version is Frieze Sculpture: large-scale works by 11 international artists in the same park's English Gardens, no ticket needed, open until 1 November."
   - q: "When do the clocks go back in October 2026, and how much daylight do you lose?"
@@ -55,7 +55,7 @@ The museum's free **Bayeux Tapestry Opening Festival** ran across the second wee
 
 **Neither event included entry to the Tapestry itself.** The main entrance to the museum is on Great Russell Street, and there is a security and bag check.
 
-For your own visit, the date to know is **21 October**, the next general release, covering visits from **1 January to 31 March 2027**; members' priority booking for the same window opened on 6 October. The exhibition's hours are unchanged: **Sunday to Wednesday 10am to 6pm, Thursday to Saturday 10am to 9pm.** Prices, hours and the rooms to see around it are in our [British Museum guide](/articles/british-museum-guide/).
+Tickets for **1 January to 31 March 2027** went on general sale on 21 October and have sold out; **April to July 2027** opens in early 2027. The exhibition's hours are unchanged: **Sunday to Wednesday 10am to 6pm, Thursday to Saturday 10am to 9pm.** Prices, hours and the rooms to see around it are in our [British Museum guide](/articles/british-museum-guide/).
 
 ## Frieze Week and the film festival, 14 to 18 October
 

@@ -3,7 +3,7 @@ title: "British Museum: Free Entry, Opening Hours and the Bayeux Tapestry"
 seoTitle: "British Museum Guide: Tickets, Hours & Bayeux Tapestry"
 description: "The British Museum is free, with a free timed ticket for busy days. Where the Bayeux Tapestry tickets stand, the entrances, opening hours, and what to see in one or two hours."
 publishedAt: 2026-10-07
-updatedAt: 2026-10-07
+updatedAt: 2026-10-25
 reviewBy: 2026-10-22
 sites:
   - london
@@ -30,7 +30,7 @@ faq:
   - q: "Do you need to book the British Museum?"
     a: "No, but a free timed ticket from the museum's website is recommended. Without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check."
   - q: "Can you still get tickets for the Bayeux Tapestry?"
-    a: "Not for a visit before 1 January 2027: every ticket from 10 September to 31 December 2026 has sold out. General booking for 1 January to 31 March 2027 opens on 21 October 2026; members' priority tickets for that window are already fully booked. April to July 2027 opens in early 2027, and the Tapestry leaves on 11 July 2027."
+    a: "Not for a visit before April 2027: every ticket from 10 September 2026 to 31 March 2027 has sold out. April to July 2027 opens in early 2027, and the Tapestry leaves on 11 July 2027."
   - q: "How much is the Bayeux Tapestry at the British Museum?"
     a: "An adult ticket is £33, or £36.50 with the optional £3.50 donation. Off-peak slots are £27, and the cheapest slots, term-time weekdays between 15:30 and 16:20, are £25. Under-16s are free with an adult, and students, 16 to 18s and jobseekers pay £25."
   - q: "Which entrance should you use for the British Museum?"
@@ -45,7 +45,7 @@ The British Museum holds about eight million objects and took 6.4 million visits
 
 > 💡 **The Short Version:**
 > - **Entry is free.** A free timed ticket from the museum's website is recommended; without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check.
-> - **The Bayeux Tapestry is separate and sold out until 2027.** Every ticket to 31 December 2026 has gone. General booking for 1 January to 31 March 2027 opens on **21 October 2026**. Adults are £33.
+> - **The Bayeux Tapestry is separate and sold out until 2027.** Every ticket to 31 March 2027 has gone; April to July 2027 opens in early 2027. Adults are £33.
 > - **Leave big bags behind.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed. The entrances are Great Russell Street and Montague Place.
 > - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
 > - **Fridays are open late,** until 20:30. **Check the closures:** Room 41 (Sutton Hoo) is partially closed and Rooms 42 and 43 (Islamic world) are closed from 12 to 23 October 2026, and Room 4 (the Rosetta Stone) is closed from 11 to 22 January 2027. A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> picks the route for you.
@@ -65,7 +65,7 @@ The Bayeux Tapestry is an embroidered cloth nearly 70 metres long and 50 centime
 ### Where tickets stand
 
 - **10 September to 31 December 2026:** sold out.
-- **1 January to 31 March 2027:** general booking opens on **21 October 2026**. Members' priority tickets for this window, like those for October to December, are already fully booked.
+- **1 January to 31 March 2027:** sold out.
 - **April to 11 July 2027:** the final members' priority window opens in January 2027, and general booking opens in early 2027.
 
 Tickets are emailed four days before your visit. A booking takes up to ten tickets, only the booker can use them and ID may be checked; multiple bookings from the same email address are cancelled.
