@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in London in December: Carols, Pantos, Winter Lights and the Christmas Day Shutdown"
 seoTitle: "Things to Do in London in December 2026"
-description: "The Trafalgar Square tree on 3 December, carols at the Royal Albert Hall and St Paul's, pantos and two Nutcrackers, the PDC darts at Alexandra Palace, Boxing Day football, the Bayeux Tapestry sold out to 31 December, and what shuts on Christmas Day."
+description: "The Trafalgar Square tree on 3 December, carols at the Royal Albert Hall and St Paul's, pantos and two Nutcrackers, the PDC darts at Alexandra Palace, Boxing Day football, the Bayeux Tapestry sold out to March 2027, and what shuts on Christmas Day."
 heroImage: "../../assets/articles/christmas-lights-walk-london/covent-garden-tree-west-piazza.jpg"
 heroImageAlt: "A tall Christmas tree covered in red and white lights on Covent Garden's West Piazza beside the portico of St Paul's Church, with a large crowd in front and lit building fronts on the right"
 heroImageCredit: "Matt Brown"
@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-10-19
-reviewBy: 2026-10-22
+updatedAt: 2026-10-25
+reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -20,7 +20,7 @@ faq:
   - q: "What is on in London in December 2026?"
     a: "The Trafalgar Square Christmas tree is lit on Thursday 3 December, the same night the Royal Ballet's Nutcracker opens at Covent Garden. The London Palladium's Cinderella panto starts on 5 December, the PDC World Darts Championship runs at Alexandra Palace from 11 December to 3 January, and Carols at the Royal Albert Hall run from 19 to 24 December. Christmas Day shuts most of the city, Boxing Day has Premier League football at Fulham and Spurs, and the Mayor's New Year's Eve fireworks are on Thursday 31 December."
   - q: "Can you still get tickets for the Bayeux Tapestry in December 2026?"
-    a: "No. Every ticket for 10 September to 31 December 2026 has sold out. General booking for visits from 1 January to 31 March 2027 opens on 21 October 2026, and April to July 2027 opens in early 2027. The British Museum is also closed on 24, 25 and 26 December. A free evening event, Bayeux Late, is on Friday 4 December."
+    a: "No. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. The British Museum is also closed on 24, 25 and 26 December. A free evening event, Bayeux Late, is on Friday 4 December."
   - q: "When is the Trafalgar Square Christmas tree lit in 2026?"
     a: "Thursday 3 December. The tree is a Norway spruce, given to London by the city of Oslo every year since 1947. Carol groups sing beneath it on most evenings until Christmas, with no ticket."
   - q: "Are the Tube, buses and trains running on Christmas Day and Boxing Day in London?"
@@ -37,7 +37,7 @@ faq:
 
 December has four beats. The Christmas machinery starts properly with the Trafalgar Square tree on the 3rd, and the pantos, Nutcrackers and carols fill the run to Christmas Eve. Christmas Day closes most of the city. The football and the darts carry the days between to New Year's Eve. The sun sets before 4pm for the whole month.
 
-> 💡 **The Short Version:** **The Trafalgar Square tree is lit on Thursday 3 December**, the night the Royal Ballet's **Nutcracker** opens. **Carols at the Royal Albert Hall run 19 to 24 December**, and **St Paul's carol services are free but balloted**. The **PDC World Darts** runs at Alexandra Palace from **11 December**. **Christmas Day has no TfL service**, **London Paddington is shut from 25 December to 3 January**, and the British Museum, Natural History Museum, Science Museum and V&A close **24 to 26 December**. **Boxing Day football** is Fulham v Brighton and Spurs v Bournemouth at 3pm. The **Bayeux Tapestry** is sold out to 31 December, and the **New Year's Eve fireworks** go on sale at noon on **23 October**.
+> 💡 **The Short Version:** **The Trafalgar Square tree is lit on Thursday 3 December**, the night the Royal Ballet's **Nutcracker** opens. **Carols at the Royal Albert Hall run 19 to 24 December**, and **St Paul's carol services are free but balloted**. The **PDC World Darts** runs at Alexandra Palace from **11 December**. **Christmas Day has no TfL service**, **London Paddington is shut from 25 December to 3 January**, and the British Museum, Natural History Museum, Science Museum and V&A close **24 to 26 December**. **Boxing Day football** is Fulham v Brighton and Spurs v Bournemouth at 3pm. The **Bayeux Tapestry** is sold out to 31 March 2027, and the **New Year's Eve fireworks** have tickets on sale, with a second batch to follow.
 
 | Date | What | Cost |
 | --- | --- | --- |
@@ -56,11 +56,11 @@ December has four beats. The Christmas machinery starts properly with the Trafal
 | Sat 26 Dec | Fulham v Brighton and Spurs v Bournemouth, 3pm | Ticketed |
 | Thu 31 Dec | Mayor's New Year's Eve fireworks, 8pm to 12.30am | £20 to £55 |
 
-## The Bayeux Tapestry: sold out to 31 December
+## The Bayeux Tapestry: sold out to March 2027
 
 *British Museum, Room 30 · to 11 July 2027*
 
-**You cannot buy a ticket for a December visit.** Every ticket for 10 September to 31 December 2026 is gone, members' priority allocation included. **General booking for 1 January to 31 March 2027 opens on 21 October 2026**, and April to July 2027 opens in early 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). The room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm.
+**You cannot buy a ticket for a December visit.** Every ticket from 10 September 2026 to 31 March 2027 is gone, and the next release is in 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). The room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm.
 
 **Bayeux Late is free on Friday 4 December**: an evening of digital art and technology inspired by the artistry of 1066, on the [museum's events page](https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry). The museum is closed on 24, 25 and 26 December. The rest of it is in our [British Museum guide](/articles/british-museum-guide/).
 
@@ -195,11 +195,11 @@ National Rail's [Dolphin Junction page](https://www.nationalrail.co.uk/dolphinju
 
 > ⚠️ **The British Museum, Natural History Museum, Science Museum, V&A and Wallace Collection are all closed on 24, 25 and 26 December**, and the National Gallery is also closed on 1 January.
 
-Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Somerset House and Hampton Court Palace close on **25 December only**. Hampton Court's Wilderness garden is open free on **26 December** with no ticket. St Paul's holds its Christmas Day services at 11am and 3pm, and the Peter Pan Cup is at 9am. For a meal out, see [Christmas Day restaurants](/articles/christmas-day-restaurants-london/); it needs booking by late October.
+Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Somerset House and Hampton Court Palace close on **25 December only**. Hampton Court's Wilderness garden is open free on **26 December** with no ticket. St Paul's holds its Christmas Day services at 11am and 3pm, and the Peter Pan Cup is at 9am. For a meal out, see [Christmas Day restaurants](/articles/christmas-day-restaurants-london/); book early.
 
 ## New Year's Eve
 
-**The Mayor's fireworks on Thursday 31 December run 8pm to 12.30am, and the first batch of tickets goes on sale at noon on Friday 23 October** through Ticketmaster, with a second batch to follow. Category A (Blue, Pink and White areas) is £55, or £35 with a London postcode; Category B (Red, Green and Orange) is £40, or £20. You can buy up to four tickets. Winter Wonderland is open on New Year's Eve until 10pm. Viewing areas, free viewpoints, getting home and the 1 January Parade are in our [New Year's Eve guide](/articles/new-years-eve-london/).
+**The Mayor's fireworks on Thursday 31 December run 8pm to 12.30am, and the first batch of tickets went on sale at noon on Friday 23 October** through Ticketmaster, with a second batch to follow. Category A (Blue, Pink and White areas) is £55, or £35 with a London postcode; Category B (Red, Green and Orange) is £40, or £20. You can buy up to four tickets. Winter Wonderland is open on New Year's Eve until 10pm. Viewing areas, free viewpoints, getting home and the 1 January Parade are in our [New Year's Eve guide](/articles/new-years-eve-london/).
 
 ## Practical: December in London
 
@@ -219,6 +219,6 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 ## Looking ahead to January
 
-The Bayeux Tapestry's general booking for 1 January to 31 March opens on **21 October**, and Winter Wonderland closes on **3 January** with its Family Fun Day. The London New Year's Day Parade is on **Friday 1 January**, 1pm. For the rest of the Christmas run see [Christmas in London](/articles/christmas-in-london/).
+Winter Wonderland closes on **3 January** with its Family Fun Day. The London New Year's Day Parade is on **Friday 1 January**, 1pm. For the rest of the Christmas run see [Christmas in London](/articles/christmas-in-london/).
 
 <div data-submit-event></div>
