@@ -3,8 +3,8 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "A complete guide to Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-19
-reviewBy: 2026-11-05
+updatedAt: 2026-10-25
+reviewBy: 2026-11-18
 sites:
   - london
 canonicalSite: london
@@ -449,6 +449,8 @@ Two limitations from the operator: **there are no accessible fast-track options 
 **Magical Ice Kingdom presents Neverland**, a new Peter Pan theme, after the elemental realms of 2025 and Alice in Wonderland the year before.
 
 **Christmas by Candlelight** is a new concert in the Candlelight Arena inside the Big Top, with West End performers including Katie Hall, Dean John-Wilson, Tosh Wanogho-Maud and Rachel John. It is 1 hour 15 minutes at 8.30pm on 5, 6, 11, 13, 20 and 23 December, with adults at £35 (£39 ringside) and children at £30 (£32 ringside).
+
+**The Giant Wheel Light Show** is new: the wheel puts on a show of colour, movement and light set to a festive soundtrack inspired by 'Twas the Night Before Christmas.
 
 **A VIP Tour Experience** is also new: a guided small-group tour that starts in a private lounge and includes fast-track entry, £30 of Ride & Game Credit per person and a guide with headsets. It runs on four days in December and is £149 a head, or £894 for a private tour of up to six, and you book it on the event's own page rather than with ordinary tickets.
 
