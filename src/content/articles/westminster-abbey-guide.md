@@ -3,7 +3,7 @@ title: "Westminster Abbey: Tickets, Opening Times, Evensong and the Verger Tour"
 seoTitle: "Westminster Abbey 2026: Tickets, Times & Evensong"
 description: "2026 admission prices and the £1 rate for benefits claimants; what the £10 verger tour gets you to; free Choral Evensong times; and the current bag and photography rules."
 publishedAt: 2026-06-10
-updatedAt: 2026-09-25
+updatedAt: 2026-10-25
 reviewBy: 2026-12-31
 sites:
   - london
@@ -31,7 +31,7 @@ faq:
   - q: "Is Westminster Abbey open to tourists on Sundays?"
     a: "No. Westminster Abbey is closed to tourist sightseeing on Sundays. The building stays open for worship and church services, which anyone may attend free of charge."
   - q: "How much are tickets to Westminster Abbey in 2026?"
-    a: "Standard adult admission is £31.00, children aged 6 to 17 pay £14.00, and concessions (students and over-65s) pay £28.00. Children aged 5 and under enter free, and admission includes a handheld multimedia guide."
+    a: "Standard adult admission is £32.00, children aged 6 to 17 pay £14.00, and concessions (students and over-65s) pay £29.00. Children aged 5 and under enter free, and admission includes a handheld multimedia guide."
   - q: "Is Westminster Abbey included on The London Pass?"
     a: "Yes. Westminster Abbey is included on The London Pass. Pass holders must pre-book a timed entry slot online before visiting and present both their booking confirmation and digital pass QR code at the entrance."
   - q: "What is the Westminster Abbey Verger Tour and is it worth it?"
@@ -40,14 +40,14 @@ faq:
 
 Westminster Abbey has served as the coronation church of the British monarchy since William the Conqueror in 1066, and holds the remains of 30 kings and queens. It's also a working church that closes to sightseers for services, so the ticket you need and the hours you can visit both depend on the day.
 
-Prices and times below are read from the Abbey's own website, checked 19 September 2026.
+Prices and times below are the Abbey's own.
 
 > 💡 **The Short Version:**
 > - **Arrive early.** Get there 15 minutes before opening — 09:15 for the 09:30 start Monday to Friday, or 08:45 for Saturday's earlier 09:00 start — and head straight to the **royal tombs and Henry VII Lady Chapel** before the ambulatory fills up.
 > - **The verger tour** is the only way to reach the **Shrine of Edward the Confessor**. It costs the Abbey entry price plus **£10**, but you can only book it in person, on arrival, Monday to Saturday — not online or by phone.
 > - **Choral Evensong is free**, no ticket needed. It's sung every day it runs: Monday to Friday at 17:00, Saturday and Sunday at 15:00. You sit in the Quire stalls, but touring the tombs before or after isn't permitted.
 > - **The Abbey is closed to tourist sightseeing on Sundays** — it's open for worship only.
-> - **Tickets and the London Pass.** Standard adult admission is **£31**, children (6–17) are **£14**, and concessions (65+ and students) are **£28**; under-6s go free. Pre-book a <a href="https://www.getyourguide.com/activity/-t399163?partner_id=WWP7I0R&amp;cmp=westminster-abbey-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">timed entry ticket on GetYourGuide</a>, or use **The London Pass**, which includes admission if you reserve a slot online.
+> - **Tickets and the London Pass.** Standard adult admission is **£32**, children (6–17) are **£14**, and concessions (65+ and students) are **£29**; under-6s go free. Pre-book a <a href="https://www.getyourguide.com/activity/-t399163?partner_id=WWP7I0R&amp;cmp=westminster-abbey-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">timed entry ticket on GetYourGuide</a>, or use **The London Pass**, which includes admission if you reserve a slot online.
 
 ---
 
@@ -57,8 +57,8 @@ Westminster Abbey receives no government or Crown funding; by its own account it
 
 | Ticket type | Adult (18–64) | Child (6–17) | Concession (65+ / student) | Notes |
 | --- | ---: | ---: | ---: | --- |
-| **Standard admission** | **£31.00** | **£14.00** | **£28.00** | Includes a handheld multimedia guide; under 6s go free. |
-| **Family (1 adult + 1 child)** | **£31.00** | — | — | One ticket covers both; there's no larger family ticket. |
+| **Standard admission** | **£32.00** | **£14.00** | **£29.00** | Includes a handheld multimedia guide; under 6s go free. |
+| **Family (1 adult + 1 child)** | **£32.00** | — | — | One ticket covers both; there's no larger family ticket. |
 | **Queen's Diamond Jubilee Galleries** | **£5.00** | **Free** | — | Under-18s go free; there's no separate concession rate. |
 | **The London Pass** | **Included** | **Included** | — | Pre-book a timed entry slot online. |
 | **Choral Evensong** | **Free** | **Free** | **Free** | Sung service; seated in the Quire; no touring access. |
@@ -164,7 +164,7 @@ Located directly behind the High Altar on a raised earth mound, the shrine house
 
 ## Choral Evensong, free to attend
 
-You don't have to pay the £31 entrance fee to hear the Abbey's choir. Choral Evensong is sung every day it runs — Monday to Friday, and Saturday and Sunday — by the Choir of Westminster Abbey or, on Wednesdays, St Margaret's Choristers and Consort.
+You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Evensong is sung every day it runs — Monday to Friday, and Saturday and Sunday — by the Choir of Westminster Abbey or, on Wednesdays, St Margaret's Choristers and Consort.
 
 Evensong is free to attend, and open to people of all faiths and none.
 

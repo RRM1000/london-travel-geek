@@ -3,7 +3,7 @@ title: "Tower of London: Tickets, Prices and Opening Hours"
 seoTitle: "Tower of London 2026: Tickets, Prices & Hours"
 description: "Historic Royal Palaces' own 2026 prices for the Tower of London: adult, child and concession tickets, the £1 concession scheme, membership, today's opening hours, and how to book the Ceremony of the Keys."
 publishedAt: 2026-09-20
-updatedAt: 2026-09-21
+updatedAt: 2026-10-25
 reviewBy: 2026-12-31
 sites:
   - london
@@ -25,24 +25,24 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 faq:
   - q: "How much are tickets to the Tower of London?"
-    a: "Adult (18–64) is £37.00, or £40.70 with the optional 10% donation. Young person (16–17) and child (5–15) are £18.50, or £20.40 with the donation; a child must be with an adult, and under 5s go free. Senior, full-time student and disabled-concession tickets are £29.50, or £32.50 with the donation; a disabled visitor's carer or companion goes free. Prices are Historic Royal Palaces' own, published 19 September 2026."
+    a: "Adult (18–64) is £38.00, or £41.80 with the optional 10% donation. Young person (16–17) and child (5–15) are £19.00, or £21.00 with the donation; a child must be with an adult, and under 5s go free. Senior, full-time student and disabled-concession tickets are £30.30, or £33.40 with the donation; a disabled visitor's carer or companion goes free. Prices are Historic Royal Palaces' own."
   - q: "Does the Tower of London sell a family ticket?"
     a: "No. Historic Royal Palaces prices tickets by age band only — a family pays the sum of the individual adult and child tickets. Anyone on Universal Credit, Working Tax Credit, Pension Credit, Employment and Support Allowance, Income Support or Jobseeker's Allowance pays £1 a head, for up to four people in the household, booked online in advance; Tower Hamlets residents pay £1 all year."
   - q: "Is the Yeoman Warder (Beefeater) tour free?"
-    a: "Yes, it's included with standard admission and needs no separate booking. Tours run roughly every 30 minutes from near the entrance; on 19 September 2026 the last one included in the ticket was at 15:15. Ignore any third-party seller advertising a paid 'exclusive' Beefeater tour — the official tour costs nothing extra."
+    a: "Yes, it's included with standard admission and needs no separate booking. Tours run roughly every 30 minutes from near the entrance; the last one included in the ticket leaves mid-afternoon (15:15 in late October). Ignore any third-party seller advertising a paid 'exclusive' Beefeater tour — the official tour costs nothing extra."
   - q: "Can you use The London Pass at the Tower of London?"
     a: "Yes, standard admission is included. Show your digital pass at the ticket office, not queuing to buy on the day."
   - q: "How do you get tickets for the Ceremony of the Keys?"
     a: "Book online through Historic Royal Palaces — the only way, and always in advance. Tickets for a given month go on sale at 13:00 on the first working day of the month before (moving to the following Monday at 13:00 if that first working day is a Friday). It's pay-what-you-choose: HRP suggests £30 a ticket, and you can pick anywhere from £10 to £50. Members book on their own separate dates."
   - q: "What's the best time of day to visit?"
-    a: "Historic Royal Palaces' own guidance, current as of 19 September 2026, is that the Tower is quieter after midday. Allow two to three hours to see the Crown Jewels, the White Tower and a Yeoman Warder tour."
+    a: "Historic Royal Palaces' own guidance is that the Tower is quieter after midday. Allow two to three hours to see the Crown Jewels, the White Tower and a Yeoman Warder tour."
 ---
 
 The Tower of London has stood on the Thames since the 1070s. Historic Royal Palaces, the independent charity that runs it, receives no government funding and prices tickets by age band with one optional 10% donation on top — there's no peak-and-off-peak split, and no family ticket.
 
 > 💡 **The Short Version:**
-> - **Price:** Adult £37.00 (£40.70 with the optional 10% donation). Young person (16–17) and child (5–15) £18.50 (£20.40 with the donation); under 5s free. Senior, student and disabled concession £29.50 (£32.50 with the donation). No family ticket — book each person separately, or as an <a href="https://www.getyourguide.com/activity/-t21253?partner_id=WWP7I0R&amp;cmp=tower-of-london-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official timed entry ticket on GetYourGuide</a>, which matches the gate price and includes free cancellation up to 24 hours before.
-> - **Hours:** Historic Royal Palaces publishes times date by date. On 19 September 2026 the Tower opened 09:00–17:30, last entry 16:30. Check [HRP's opening times](https://www.hrp.org.uk/tower-of-london/visit/opening-and-closing-times/) for your date.
+> - **Price:** Adult £38.00 (£41.80 with the optional 10% donation). Young person (16–17) and child (5–15) £19.00 (£21.00 with the donation); under 5s free. Senior, student and disabled concession £30.30 (£33.40 with the donation). No family ticket — book each person separately, or as an <a href="https://www.getyourguide.com/activity/-t21253?partner_id=WWP7I0R&amp;cmp=tower-of-london-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official timed entry ticket on GetYourGuide</a>, which matches the gate price and includes free cancellation up to 24 hours before.
+> - **Hours:** Historic Royal Palaces publishes times date by date. In late October the Tower opens 09:00–17:30 Tuesday to Saturday (10:00 on Monday), last entry 16:30. Check [HRP's opening times](https://www.hrp.org.uk/tower-of-london/visit/opening-and-closing-times/) for your date.
 > - **When to go:** HRP's own guidance is that the Tower is quieter after midday. Allow two to three hours.
 > - **The Yeoman Warder (Beefeater) tour** is free with admission — never pay a third party for an "exclusive" version.
 > - **The Ceremony of the Keys** is pay-what-you-choose (HRP suggests £30, from £10 to £50), booked online only, in advance.
@@ -52,18 +52,18 @@ The Tower of London has stood on the Thames since the 1070s. Historic Royal Pala
 
 ## Tickets and prices
 
-Prices below are Historic Royal Palaces' own, published 19 September 2026, and hold whatever day you visit — one rate with an optional donation, not separate peak and off-peak prices.
+Prices below are Historic Royal Palaces' own, and hold whatever day you visit — one rate with an optional donation, not separate peak and off-peak prices.
 
 | Ticket | Price | With 10% donation | Notes |
 | --- | ---: | ---: | --- |
-| Adult (18–64) | £37.00 | £40.70 | |
-| Young person (16–17) | £18.50 | £20.40 | ID may be asked for |
-| Child (5–15) | £18.50 | £20.40 | Must be with an adult |
+| Adult (18–64) | £38.00 | £41.80 | |
+| Young person (16–17) | £19.00 | £21.00 | ID may be asked for |
+| Child (5–15) | £19.00 | £21.00 | Must be with an adult |
 | Under 5 | Free | Free | No ticket needed |
-| Senior (65+) | £29.50 | £32.50 | |
-| Full-time student (18+) | £29.50 | £32.50 | Valid student card |
-| Disabled concession | £29.50 | £32.50 | Carer or companion goes free |
-| Groups (15+) | £34.10 a head | — | No donation option |
+| Senior (65+) | £30.30 | £33.40 | |
+| Full-time student (18+) | £30.30 | £33.40 | Valid student card |
+| Disabled concession | £30.30 | £33.40 | Carer or companion goes free |
+| Groups (15+) | £35.00 a head | — | No donation option |
 
 Anyone on Universal Credit, Working Tax Credit, Pension Credit, Employment and Support Allowance, Income Support or Jobseeker's Allowance pays **£1 a head**, for up to four people in the household, booked online in advance. Tower Hamlets residents pay £1 all year. **Historic Royal Palaces membership** starts at £65 a year and covers the Tower, Hampton Court and Kensington Palace.
 
@@ -87,7 +87,7 @@ The Crown Jewels are displayed in the Waterloo Barracks, through the Bloody Towe
 
 ### The Yeoman Warder tour
 
-Free with standard admission, with no separate booking needed. Tours run roughly every 30 minutes from near the Middle Tower through the day; on 19 September 2026 the last one included in the ticket was at 15:15. They cover Traitor's Gate, the execution site on Tower Green, and the Chapel Royal of St Peter ad Vincula, where Anne Boleyn, Catherine Howard and Lady Jane Grey are buried.
+Free with standard admission, with no separate booking needed. Tours run roughly every 30 minutes from near the Middle Tower through the day; the last one included in the ticket leaves mid-afternoon (15:15 in late October). They cover Traitor's Gate, the execution site on Tower Green, and the Chapel Royal of St Peter ad Vincula, where Anne Boleyn, Catherine Howard and Lady Jane Grey are buried.
 
 ![A Yeoman Warder in dark blue and red uniform addressing a group of visitors in the outer ward of the Tower of London](../../assets/articles/tower-of-london-guide/yeoman-warder-tour.jpg)
 
@@ -191,4 +191,4 @@ The grounds are cobbled, with steep ramps and narrow spiral stairs. The Jewel Ho
 
 ---
 
-*Prices, opening hours and Ceremony of the Keys details are Historic Royal Palaces' own, checked 19 September 2026.*
+*Prices, opening hours and Ceremony of the Keys details are Historic Royal Palaces' own.*

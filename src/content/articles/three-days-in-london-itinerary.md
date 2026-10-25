@@ -3,8 +3,8 @@ title: "Three Days in London: A First-Time Itinerary That Works"
 seoTitle: "Three Days in London Itinerary: Hours & Prices"
 description: "A three-day London plan with the operators' own opening hours and prices, TfL walking times between every stop, and the closures that wreck a day: the Abbey on Sundays, Borough on Mondays, the Treasures Gallery on Sundays."
 publishedAt: 2026-08-06
-updatedAt: 2026-09-22
-reviewBy: 2026-10-01
+updatedAt: 2026-10-25
+reviewBy: 2026-11-12
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -16,13 +16,13 @@ faq:
   - q: "What should I book before arriving in London?"
     a: "Four things. The Tower of London and Westminster Abbey both sell timed entry. Churchill War Rooms is timed entry only and IWM does not guarantee walk-ups. Sky Garden releases its free tickets weekly, up to three weeks ahead. The free museums take walk-ups, and a West End show is worth booking direct from the theatre."
   - q: "How much does three days in London cost in admissions?"
-    a: "The two big paid sights are the Tower of London at £37 an adult and Westminster Abbey at £31. Add Churchill War Rooms at £34 and St Paul's at £27 if you want them. Day 3 costs nothing: the British Museum, National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum and the British Library's Treasures Gallery are all free."
+    a: "The two big paid sights are the Tower of London at £38 an adult and Westminster Abbey at £32. Add Churchill War Rooms at £34 and St Paul's at £27 if you want them. Day 3 costs nothing: the British Museum, National Gallery, Tate Modern, V&A, Natural History Museum, Science Museum and the British Library's Treasures Gallery are all free."
   - q: "What is the best order to see London in three days?"
     a: "Group by geography, not by fame. Westminster and the West End sit together, the Tower and the South Bank sit together, and the museums cluster in either South Kensington or Bloomsbury. Doing it this way removes almost all cross-city transport — Day 1 and Day 2 are walkable end to end."
   - q: "Which London museums are free?"
     a: "The British Museum, the National Gallery, Tate Modern, the V&A, the Natural History Museum, the Science Museum and the British Library's Treasures Gallery are all free to enter. Only temporary exhibitions charge. The Natural History Museum and Science Museum ask you to book a free ticket; the others take walk-ups."
   - q: "What is shut on which day in London?"
-    a: "Westminster Abbey is closed to sightseers on Sundays and St Paul's does no sightseeing on Sundays either. Borough Market is closed on Mondays. The British Library's Treasures Gallery is closed on Sundays. The Natural History Museum is closed on 9 October 2026 and the Science Museum on 11 November 2026."
+    a: "Westminster Abbey is closed to sightseers on Sundays and St Paul's does no sightseeing on Sundays either. Borough Market is closed on Mondays. The British Library's Treasures Gallery is closed on Sundays. The Science Museum is closed on 11 November 2026."
 heroImage: "../../assets/articles/three-days-in-london-itinerary/three-days-in-london-itinerary.jpg"
 heroImageAlt: "A panorama of the Thames with the London Eye, Westminster Bridge and Parliament"
 heroImageCredit: "Diliff"
@@ -33,16 +33,16 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 A three-day plan that lists famous things without checking whether they sit near each other puts you on the Tube four times a day.
 
-This plan groups by geography. Days 1 and 2 are walkable end to end. Every walking time below is the one [TfL's journey planner](https://tfl.gov.uk/plan-a-journey/) gives, which runs a little slower than most people actually walk, so treat them as the outside figure. Prices and opening hours are the operators' own, checked on 21 September 2026.
+This plan groups by geography. Days 1 and 2 are walkable end to end. Every walking time below is the one [TfL's journey planner](https://tfl.gov.uk/plan-a-journey/) gives, which runs a little slower than most people actually walk, so treat them as the outside figure. Prices and opening hours are the operators' own.
 
-> 💡 **The Short Version:** **Day 1** is Westminster and the West End on foot — the Abbey (£31, and shut to sightseers on Sundays), the Churchill War Rooms (£34, timed entry), St James's Park, Buckingham Palace and the free National Gallery, ending at a show or in Soho. **Day 2** is the Tower (£37, allow two to three hours) then the South Bank as one continuous river walk to the London Eye. **Day 3** is one free museum district — South Kensington or Bloomsbury, never both. Book the Tower, the Abbey, the War Rooms and any show before you fly.
+> 💡 **The Short Version:** **Day 1** is Westminster and the West End on foot — the Abbey (£32, and shut to sightseers on Sundays), the Churchill War Rooms (£34, timed entry), St James's Park, Buckingham Palace and the free National Gallery, ending at a show or in Soho. **Day 2** is the Tower (£38, allow two to three hours) then the South Bank as one continuous river walk to the London Eye. **Day 3** is one free museum district — South Kensington or Bloomsbury, never both. Book the Tower, the Abbey, the War Rooms and any show before you fly.
 
 ## Book these before you leave
 
 | Book | How far ahead | What it costs, and why it sells out |
 | --- | --- | --- |
-| **[Tower of London](/articles/tower-of-london-guide/)** | 2–3 weeks in peak season | £37 adult, £18.50 child (5–15) and young person (16–17), £29.50 concession. Timed entry, and the slots go before the day does |
-| **[Westminster Abbey](/articles/westminster-abbey-guide/)** | 1–2 weeks | £31 adult, £28 over-65s and students, £14 children 6–17. Timed entry, and it is closed to sightseers every Sunday |
+| **[Tower of London](/articles/tower-of-london-guide/)** | 2–3 weeks in peak season | £38 adult, £19 child (5–15) and young person (16–17), £30.30 concession. Timed entry, and the slots go before the day does |
+| **[Westminster Abbey](/articles/westminster-abbey-guide/)** | 1–2 weeks | £32 adult, £29 over-65s and students, £14 children 6–17. Timed entry, and it is closed to sightseers every Sunday |
 | **[Churchill War Rooms](/articles/churchill-war-rooms-guide/)** | 1–2 weeks | £34 adult. IWM sells admission as a timed slot and does not guarantee walk-ups |
 | **Sky Garden** | Tickets release weekly, up to three weeks ahead | Free, 35 floors up, and they go |
 | **A West End show** | 2–4 weeks for anything popular | Cheaper direct from the theatre than through a reseller. See our [theatre guide](/articles/london-theatre-guide/) |
@@ -61,7 +61,7 @@ The free museums are the exception. The [National Gallery](https://www.nationalg
 
 ### Westminster Abbey, on the first slot
 
-**[Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3.00pm on Saturday](https://www.westminster-abbey.org/visit-us/prices-and-entry-times).** That Saturday close is 30 minutes earlier than people plan for. **Admission is £31 for an adult, £28 for over-65s and students, £14 for children aged 6 to 17, and free under 6** — the Abbey's standard rate; a government VAT reduction cut it to £27.13 between 25 June and 1 September 2026. Every ticket includes a handheld multimedia guide.
+**[Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3.00pm on Saturday](https://www.westminster-abbey.org/visit-us/prices-and-entry-times).** That Saturday close is 30 minutes earlier than people plan for. **Admission is £32 for an adult, £29 for over-65s and students, £14 for children aged 6 to 17, and free under 6.** Every ticket includes a handheld multimedia guide.
 
 **Allow 90 minutes to two hours.** It is denser than it looks, and Poets' Corner, the royal tombs, the Lady Chapel and the Cosmati Pavement are the four things people walk past at speed.
 
@@ -124,11 +124,11 @@ We have the same ground as a [numbered South Bank walk](/articles/south-bank-wal
 
 ### Tower of London
 
-**£37 for an adult, £18.50 for a child aged 5 to 15 and for a young person aged 16 to 17, £29.50 for seniors, students and disabled visitors, free under 5.** Historic Royal Palaces prices by age band with one optional 10% donation on top, and there is no family ticket. **Anyone on Universal Credit, Pension Credit, ESA, Income Support, Jobseeker's Allowance or Working Tax Credit pays £1 a head for up to four people, booked online in advance.** Tower Hamlets residents pay £1 all year. Those are HRP's own prices, published 19 September 2026; the [full price list is in our Tower guide](/articles/tower-of-london-guide/).
+**£38 for an adult, £19 for a child aged 5 to 15 and for a young person aged 16 to 17, £30.30 for seniors, students and disabled visitors, free under 5.** Historic Royal Palaces prices by age band with one optional 10% donation on top, and there is no family ticket. **Anyone on Universal Credit, Pension Credit, ESA, Income Support, Jobseeker's Allowance or Working Tax Credit pays £1 a head for up to four people, booked online in advance.** Tower Hamlets residents pay £1 all year. Those are HRP's own prices; the [full price list is in our Tower guide](/articles/tower-of-london-guide/).
 
 **Allow two and a half to three hours.** It is much bigger than people expect, and the Crown Jewels, the White Tower and the ramparts are three separate visits inside one wall.
 
-> 💡 **Historic Royal Palaces' own advice is that the Tower is quieter after midday.** That contradicts the standard first-slot advice, and it is worth following — but only if you are through the gate with three hours left. Last admission is an hour before closing, and on 19 September 2026 the last **Yeoman Warder tour had left by 15:15**. That free tour is the part that explains the buildings, so an entry slot of 12:00 to 13:00 is the sweet spot: past the morning crush, still in time for a Beefeater.
+> 💡 **Historic Royal Palaces' own advice is that the Tower is quieter after midday.** That contradicts the standard first-slot advice, and it is worth following — but only if you are through the gate with three hours left. Last admission is an hour before closing, and the last included **Yeoman Warder tour leaves mid-afternoon**. That free tour is the part that explains the buildings, so an entry slot of 12:00 to 13:00 is the sweet spot: past the morning crush, still in time for a Beefeater.
 
 Never pay a third party for an "exclusive Beefeater tour". The Yeoman Warder tour is included with every ticket, runs roughly every half hour from near the entrance, and needs no separate booking.
 
@@ -181,7 +181,7 @@ Three national museums within a few minutes of each other, all free.
 
 | Museum | Hours | Last entry | What it is for |
 | --- | --- | --- | --- |
-| **Natural History Museum** | Daily 10:00–17:50 | 17:30 | Specimens and the building itself. Book a free ticket; walk-ups admitted. **Closed 9 October 2026** |
+| **Natural History Museum** | Daily 10:00–17:50 | 17:30 | Specimens and the building itself. Book a free ticket; walk-ups admitted. Closed 24–26 December |
 | **V&A** | Daily 10.00–17.45, **Friday to 22.00** | — | Design, fashion and objects. The Friday late runs four hours past the other two |
 | **Science Museum** | Daily 10.00–18.00 | 17.15 | Engineering you can press. Its own figure for an average visit is **around two hours**. **Closed 11 November 2026** |
 
@@ -214,8 +214,8 @@ Day 3 is free. Almost all the cost sits on Days 1 and 2.
 
 | | Adult | Child | Note |
 | --- | ---: | ---: | --- |
-| Tower of London | £37.00 | £18.50 | 5–15 and 16–17 both £18.50; £1 a head on qualifying benefits |
-| Westminster Abbey | £31.00 | £14.00 | Children 6–17; under-6s free. Verger tour adds £10 |
+| Tower of London | £38.00 | £19.00 | 5–15 and 16–17 both £19; £1 a head on qualifying benefits |
+| Westminster Abbey | £32.00 | £14.00 | Children 6–17; under-6s free. Verger tour adds £10 |
 | Churchill War Rooms | £34.00 | £17.00 | Children 5–15; under-5s free. Timed entry only |
 | St Paul's sightseeing | £27.00 | £10.50 | Monday to Saturday only |
 | Tower Bridge Exhibition | Ticketed | Ticketed | Crossing the bridge on foot is free |
@@ -245,7 +245,7 @@ Add them on a longer trip: see [five days in London](/articles/five-days-in-lond
 1. **Planning Westminster Abbey on a Sunday.** Closed to sightseers. St Paul's too.
 2. **Planning Borough Market on a Monday.** Closed.
 3. **Planning the British Library on a Sunday.** The Treasures Gallery is closed even though the building is open.
-4. **Arriving at the Tower after 3pm.** Last admission is an hour before closing and the last included Yeoman Warder tour goes mid-afternoon, so you pay £37 for the buildings without the thing that explains them.
+4. **Arriving at the Tower after 3pm.** Last admission is an hour before closing and the last included Yeoman Warder tour goes mid-afternoon, so you pay £38 for the buildings without the thing that explains them.
 5. **Turning up at the Churchill War Rooms without a slot.** IWM does not guarantee walk-up entry.
 6. **Waiting until you land to try for Sky Garden.** Free tickets release weekly and go.
 7. **Doing all three South Kensington museums.** Two is as much as most people get anything out of.
@@ -283,4 +283,4 @@ For maximum walking, base yourself in [Covent Garden](/articles/covent-garden-ar
 
 ---
 
-*Prices and opening hours are the operators' own, checked on 21 September 2026. Walking times are TfL's. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*
+*Prices and opening hours are the operators' own. Walking times are TfL's. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*

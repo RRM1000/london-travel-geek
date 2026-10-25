@@ -5,7 +5,7 @@ description: "Eight free city farms, a zoo scaled for under-tens, an indoor roll
 heroImage: "../../assets/articles/london-with-children/granary-square-fountains.jpg"
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
 publishedAt: 2026-06-27
-updatedAt: 2026-10-04
+updatedAt: 2026-10-25
 reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
@@ -219,9 +219,9 @@ The famous ones are famous for a reason, but they are not equally good with chil
 
 ### Tower of London
 
-*Adult £37, child (5–15) £18.50 · under-5s free · Tower Hill*
+*Adult £38, child (5–15) £19 · under-5s free · Tower Hill*
 
-**The best of the big-ticket attractions for children, and it is not close.** Armour, the Crown Jewels on a moving walkway, the ravens, and a thousand years of grim stories told at exactly the right pitch, plus a Yeoman Warder tour included in the price that is funnier and better told than it needs to be. **Adults are £37 and children aged 5 to 15 are £18.50, while under-5s go free and need no ticket at all** — which puts two adults and two toddlers at £74 against the £111 a family with two older children pays. Open 09.00 to 17.30, last entry 16.30, and **the last included Warder tour leaves at 14.00**. Arrive at opening: by midday the Jewel House queue becomes the day.
+**The best of the big-ticket attractions for children, and it is not close.** Armour, the Crown Jewels on a moving walkway, the ravens, and a thousand years of grim stories told at exactly the right pitch, plus a Yeoman Warder tour included in the price that is funnier and better told than it needs to be. **Adults are £38 and children aged 5 to 15 are £19, while under-5s go free and need no ticket at all** — which puts two adults and two toddlers at £76 against the £114 a family with two older children pays. Open 09.00 to 17.30, last entry 16.30, and **the last included Warder tour leaves at 14.00**. Arrive at opening: by midday the Jewel House queue becomes the day.
 
 ### The British Museum
 
@@ -243,9 +243,9 @@ Thirty minutes, one slow rotation, thirty-two sealed pods and no way off once th
 
 ### Westminster Abbey and Buckingham Palace
 
-*Abbey £31 adult, £14 child (6–17) · Palace £33 and £16.50 · Westminster*
+*Abbey £32 adult, £14 child (6–17) · Palace £33 and £16.50 · Westminster*
 
-Both are magnificent and neither is designed for children. **Westminster Abbey is £31 for an adult and £14 for a child aged 6 to 17, under-6s free, with general sightseeing from 9.30am to 3.30pm** — it is a working church, so hours shift around services and Sunday is for worship, not visits. **Buckingham Palace's State Rooms open only in summer, cost £33 for an adult and £16.50 for a child aged 5 to 17 booked in advance, and under-5s go free.** For most families the version worth having is the free one outside: **Changing the Guard costs nothing to watch**, happens on the forecourt and along the Mall, and does not run every day — check the schedule before building a morning around it.
+Both are magnificent and neither is designed for children. **Westminster Abbey is £32 for an adult and £14 for a child aged 6 to 17, under-6s free, with general sightseeing from 9.30am to 3.30pm** — it is a working church, so hours shift around services and Sunday is for worship, not visits. **Buckingham Palace's State Rooms open only in summer, cost £33 for an adult and £16.50 for a child aged 5 to 17 booked in advance, and under-5s go free.** For most families the version worth having is the free one outside: **Changing the Guard costs nothing to watch**, happens on the forecourt and along the Mall, and does not run every day — check the schedule before building a morning around it.
 
 ### Madame Tussauds
 

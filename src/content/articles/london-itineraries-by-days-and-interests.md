@@ -3,8 +3,8 @@ title: "How to Plan a London Itinerary That Actually Works"
 seoTitle: "London Itinerary Planner: How Many Days You Need"
 description: "How many days London needs, what sells out and how far ahead, what a day costs, and the plan to follow once you know."
 publishedAt: 2026-08-07
-updatedAt: 2026-09-25
-reviewBy: 2026-10-31
+updatedAt: 2026-10-25
+reviewBy: 2026-11-12
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -18,7 +18,7 @@ faq:
   - q: "What should I book before travelling to London?"
     a: "One booking needs a diary entry: the Ceremony of the Keys at the Tower, whose tickets are released at 13:00 on the first working day of each month for the month after, and which Historic Royal Palaces says becomes fully booked very quickly. Sky Garden releases free tickets weekly, up to three weeks ahead. Westminster Abbey, Churchill War Rooms and the London Eye should be booked before you fly because they use timed slots and cost more at the door. Everything else, including every national museum, can be decided on the day."
   - q: "How much does a day in London cost?"
-    a: "£36 to £54 on a day built around free museums, and £65 to £91 with one paid landmark, excluding your room. The fixed part is the Zones 1–2 daily transport cap at £8.90; the variable part is what you eat. A pint is £6–£8 in the centre."
+    a: "£36 to £54 on a day built around free museums, and £65 to £92 with one paid landmark, excluding your room. The fixed part is the Zones 1–2 daily transport cap at £8.90; the variable part is what you eat. A pint is £6–£8 in the centre."
   - q: "Do I need a London Travelcard or Oyster card?"
     a: "Usually neither. A contactless bank card taps in the same way and hits the same £8.90 Zones 1–2 daily cap, so most visitors need nothing extra. See our fares guide for the exceptions, including children aged 11 to 15."
   - q: "How much walking should I plan for in London?"
@@ -29,7 +29,7 @@ heroImageAlt: "A London street map view with red buses crossing Westminster Brid
 
 The best London itinerary is not the one with the most on it. It is the one that groups nearby places together and leaves room for queues, meals and the thing you did not plan.
 
-> 💡 **The Short Version:** **Four days** for a first visit — three covers the landmarks, the fourth stops it being a checklist. **Two ticketed sights a day is the ceiling**; Historic Royal Palaces asks you to allow three hours at the Tower alone. **One booking needs a diary entry**: Ceremony of the Keys tickets go at 13:00 on the first working day of the month before. **A day costs £36–£54 without a paid attraction and £65–£91 with one**, on top of your room. And **Westminster Abbey is quietest before midday while the Tower is quieter after it** — which decides the order of a Westminster day for you.
+> 💡 **The Short Version:** **Four days** for a first visit — three covers the landmarks, the fourth stops it being a checklist. **Two ticketed sights a day is the ceiling**; Historic Royal Palaces asks you to allow three hours at the Tower alone. **One booking needs a diary entry**: Ceremony of the Keys tickets go at 13:00 on the first working day of the month before. **A day costs £36–£54 without a paid attraction and £65–£92 with one**, on top of your room. And **Westminster Abbey is quietest before midday while the Tower is quieter after it** — which decides the order of a Westminster day for you.
 
 ---
 
@@ -74,13 +74,13 @@ Far less needs booking than the internet suggests. Every national museum is free
 | **Ceremony of the Keys** | 13:00 on the first working day of the previous month | [Historic Royal Palaces](https://www.hrp.org.uk/tower-of-london/whats-on/ceremony-of-the-keys/) releases a whole month at once and says it "becomes fully booked very quickly". Pay what you choose from £10 to £50, £30 suggested; maximum six tickets; non-refundable and non-exchangeable |
 | **Christmas at Kew** | As early as you can | Selected dates **13 November 2026 to 3 January 2027**, timed entry and limited capacity, from £25.50 on [kew.org](https://www.kew.org/kew-gardens/whats-on/christmas) |
 | **[Sky Garden](/articles/sky-garden-guide/)** | Up to three weeks | Free, and [released weekly](https://skygarden.london/visit/) rather than all at once, so a date four weeks out is not bookable yet. Ticketed hours are 10am–6pm on weekdays and 11am–9pm at weekends |
-| **Westminster Abbey** | Before you fly | The Abbey's own line is that there may be a limited number of tickets on the door "but pre-booking tickets online is advisable". £31 an adult and £14 for 6–17s in September 2026, [on its own site](https://www.westminster-abbey.org/visit-us/opening-times-and-prices). An online ticket upgrades free to an annual pass — three visits for one price |
+| **Westminster Abbey** | Before you fly | The Abbey's own line is that there may be a limited number of tickets on the door "but pre-booking tickets online is advisable". £32 an adult and £14 for 6–17s, [on its own site](https://www.westminster-abbey.org/visit-us/opening-times-and-prices). An online ticket upgrades free to an annual pass — three visits for one price |
 | **Churchill War Rooms** | A week ahead, more in school holidays | Timed entry: [IWM](https://www.iwm.org.uk/visits/churchill-war-rooms/booking) lets you arrive within 30 minutes of your slot and no earlier. £34 an adult, £17 for 5–15s, under-fives free. Open 9.30am–6pm, last entry 5pm |
 | **The London Eye** | Before you fly, for the price | From **£29 online against £39 at the box office** for an adult, from [londoneye.com](https://www.londoneye.com/tickets-and-prices/). The slot is when you join the queue, not when you board, and walk-up tickets can sell out at peak times |
 | **Horizon 22** | A week or two | Free, timed, and Level 58 of 22 Bishopsgate. [Horizon 22](https://horizon22.co.uk/book) takes walk-ins by QR code at the door subject to capacity, but its own advice is to book |
-| **Tower of London** | A few days; longer in school holidays | Not a timed ticket — it is valid for the whole day you choose. £37 an adult and £18.50 for 5–15s [direct](https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/), or £40.70 and £20.40 with the optional 10% donation. HRP advises booking online in advance at busy times |
+| **Tower of London** | A few days; longer in school holidays | Not a timed ticket — it is valid for the whole day you choose. £38 an adult and £19 for 5–15s [direct](https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/), or £41.80 and £21 with the optional 10% donation. HRP advises booking online in advance at busy times |
 | **A West End show** | Whenever you decide | The booking window is long, not short: *Les Misérables* at the Sondheim [is selling to October 2027](https://london.lesmis.com/). What runs out is the good seat at the price you wanted |
-| **Buckingham Palace State Rooms** | Summer only | **9 July to 27 September 2026**, £33 an adult booked ahead on [rct.uk](https://www.rct.uk/visit/buckingham-palace). Closed to general visitors the rest of the year |
+| **Buckingham Palace State Rooms** | Summer only | Open to visitors each summer; tickets for summer 2027 are released in November on [rct.uk](https://www.rct.uk/visit/buckingham-palace). Closed to general visitors the rest of the year |
 
 > ⚠️ **Ceremony of the Keys needs an alarm, not a plan.** The Tower locks up at 21:30 every night and the whole of the following month's tickets go on release day at 13:00 UK time — if that day falls on a Friday, it moves to the Monday. Visitors are admitted at 21:30 precisely and you must be there by 21:25; late arrivals are turned away, and the tickets cannot be exchanged or refunded. Book it for the middle of your trip, never for the night you land.
 
@@ -101,17 +101,17 @@ Accommodation aside, a London day has one fixed cost and three variable ones. Th
 | Line | Free-museum day | Landmark day | What it covers |
 | --- | ---: | ---: | --- |
 | **Transport** | £8.90 | £8.90 | The Zones 1–2 daily cap on contactless or Oyster, peak or off-peak, from [TfL's adult fares](https://content.tfl.gov.uk/adult-fares.pdf). Tap the same card all day or it does not apply |
-| **Admission** | £0 | £29–£37 | The London Eye from £29, Westminster Abbey £31, Churchill War Rooms £34, the Tower £37. Every national museum is £0 |
+| **Admission** | £0 | £29–£38 | The London Eye from £29, Westminster Abbey £32, Churchill War Rooms £34, the Tower £38. Every national museum is £0 |
 | **Lunch** | £6–£12 | £6–£12 | A market or counter meal, which is where the [cheap eats](/articles/cheap-eats-london/) are — Seven Dials, Borough and Old Spitalfields all sit inside the sightseeing core |
 | **Dinner** | £15–£25 | £15–£25 | A sit-down meal ten minutes' walk from a landmark. Directly opposite one costs more and is usually worse |
 | **A pint** | £6–£8 | £6–£8 | Central London. Outer zones and Wetherspoons are roughly half |
-| **Total** | **£36–£54** | **£65–£91** | Before your room, and before anything you buy |
+| **Total** | **£36–£54** | **£65–£92** | Before your room, and before anything you buy |
 
 Two things move that total more than anything else. **Walking instead of tapping** takes the £8.90 off entirely on a well-grouped day — Covent Garden to Soho is five minutes on foot. And **eating ten minutes from the sight** instead of beside it is worth about a third of the food line. [London on a budget](/articles/london-on-a-budget/) has the full version, and [transport costs and fares](/articles/london-public-transport-costs-and-fares/) has every cap.
 
 ### Does the London Pass change the arithmetic?
 
-Rarely, and the number is easy to hold in your head. A **2-day adult pass is £149**, and the five attractions a first-timer actually names come to **£142.00** booked direct — so you need a **sixth** paid attraction inside those two days before the pass starts to pay, on prices checked on 1 September 2026. Most people do five in two days and lose. If your trip is about the palaces instead, Historic Royal Palaces membership is **£65 a year by Direct Debit** and covers the Tower, Hampton Court and Kensington, which cost £90.70 at the gate for one adult. [The full arithmetic is here](/articles/london-pass-guide/), including the family case and the Explorer.
+Rarely, and the number is easy to hold in your head. A **2-day adult pass is £149**, and the five attractions a first-timer actually names come to **£144.00** booked direct — so you need a **sixth** paid attraction inside those two days before the pass starts to pay. Most people do five in two days and lose. If your trip is about the palaces instead, Historic Royal Palaces membership is **£65 a year by Direct Debit** and covers the Tower, Hampton Court and Kensington, which cost £92.70 at the gate for one adult. [The full arithmetic is here](/articles/london-pass-guide/), including the family case and the Explorer.
 
 <div data-stay-strip></div>
 
@@ -122,7 +122,7 @@ Land in the morning off a long flight and you have a day you are too tired to us
 - **Do not sleep.** Stay upright until a local bedtime. An hour on the bed at 2pm becomes four, and it costs you the following morning too.
 - **Book nothing timed.** The two ways this goes wrong are a delayed flight and a nap. If you must, note that the London Eye reschedules free up to an hour before, while Ceremony of the Keys refunds nothing at all.
 - **Go outdoors, in daylight.** Light is what resets a body clock, and it is free. A park, the river, a walk.
-- **Pick something you can leave.** A free museum works because there is no sunk cost in walking out after forty minutes. A £37 ticket does not.
+- **Pick something you can leave.** A free museum works because there is no sunk cost in walking out after forty minutes. A £38 ticket does not.
 - **Deal with the bag first.** The Tower of London bans suitcases and rolling luggage and has no storage of any kind, and most museum cloakrooms take a daypack rather than a case. Our [luggage storage guide](/articles/luggage-storage-london/) has the stations, the apps and the prices.
 - **Choose the train, not the fastest train.** From Heathrow, the Elizabeth line is £15.50 and 28–45 minutes to the West End, City or Canary Wharf; the Piccadilly line is £4.00–£5.90 and 50–60 minutes and stops at South Kensington and King's Cross. Fares checked 2 August 2026. Every other airport has a guide of its own, linked from [Getting around London](/articles/getting-around-london-transport-guide/).
 
@@ -136,7 +136,7 @@ London's opening hours do not just shift in winter — several places shut while
 
 | When | What changes | What it does to a day |
 | --- | --- | --- |
-| **28 September 2026** | Buckingham Palace's State Rooms close for the year, having opened on 9 July | The summer-only sight is closed until July 2027 |
+| **Until summer 2027** | Buckingham Palace's State Rooms are closed to visitors; tickets for summer 2027 are released in November | The summer-only sight is not an option on a winter trip |
 | **25 October 2026** | The clocks go back; sunset moves from about 5.50pm to 4.48pm overnight | Every outdoor plan loses its last hour. Move the viewpoint earlier |
 | **25 October to 11 November 2026** | Kew closes at 4pm, last entry 3pm | A morning trip, not an afternoon one |
 | **12 November 2026 to 3 January 2027** | Kew closes at **3.15pm**, last entry 2.30pm | Kew plus anything else in one day stops working |
@@ -251,4 +251,4 @@ Once the days are settled, the question is what goes in them. Each of these is t
 
 ---
 
-*Prices, opening times and booking horizons checked on 21 September 2026 with Historic Royal Palaces, Westminster Abbey, IWM, the London Eye, Sky Garden, Horizon 22, Kew, Royal Collection Trust, Borough Market, Official London Theatre and Transport for London. Opening days and transport change around public holidays — check before you travel.*
+*Opening days and transport change around public holidays — check before you travel.*

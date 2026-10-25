@@ -9,7 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Albert_Embank
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-05
-updatedAt: 2026-09-27
+updatedAt: 2026-10-25
+reviewBy: 2026-12-31
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -23,7 +24,7 @@ faq:
   - q: "Can you go inside the UK Supreme Court, and is it free?"
     a: "Yes to both. The Supreme Court sits on Parliament Square directly opposite the Houses of Parliament, it is free, and it is open to the public Monday to Friday from 9am to 5pm with last entry at 4.30pm. You can sit in on a hearing if one is running, and there is a permanent exhibition on the lower ground floor with a set of ceremonial robes and an exemplification of Magna Carta in modern English. It closes at weekends and on bank holidays."
   - q: "Is Westminster Abbey open on Sundays?"
-    a: "Not to sightseers. The Abbey opens 9.30am to 3.30pm Monday to Friday and 9.30am to 3pm on Saturday; on Sunday it opens for services only, which anyone may attend free of charge. Adult admission is £31, over-65s and students £28, and children aged 6 to 17 are £14."
+    a: "Not to sightseers. The Abbey opens 9.30am to 3.30pm Monday to Friday and 9.30am to 3pm on Saturday; on Sunday it opens for services only, which anyone may attend free of charge. Adult admission is £32, over-65s and students £29, and children aged 6 to 17 are £14."
   - q: "Where can you watch the Changing of the Guard for free without the crowd?"
     a: "Horse Guards, on Whitehall. The King's Life Guard changes on Horse Guards Parade at 11am on Monday, Wednesday and Friday, with no barriers and a fraction of the audience at the Palace gates. The overlooked one is the dismounted inspection at 4pm, which happens every single day of the week — so an afternoon walk always ends with a ceremony."
   - q: "How long does the Westminster walk take?"
@@ -134,7 +135,7 @@ Three things are worth the twenty minutes:
 
 The coronation church since 1066, and the one stop on this walk that is a serious ticket.
 
-**Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3pm on Saturday.** On **Sunday it opens for services only**, and no amount of planning gets around that. Admission is **£31 adult, £28 for over-65s and students, £14 for children aged 6 to 17**, and under-6s are free. That covers the Cloisters, College Garden, the Chapter House and the Pyx Chamber; **the Queen's Diamond Jubilee Galleries are £5 more** on a timed ticket bought alongside, and free for children.
+**Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3pm on Saturday.** On **Sunday it opens for services only**, and no amount of planning gets around that. Admission is **£32 adult, £29 for over-65s and students, £14 for children aged 6 to 17**, and under-6s are free. That covers the Cloisters, College Garden, the Chapter House and the Pyx Chamber; **the Queen's Diamond Jubilee Galleries are £5 more** on a timed ticket bought alongside, and free for children.
 
 Two things about the price are easy to miss:
 

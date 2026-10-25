@@ -3,8 +3,8 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-06-29
-updatedAt: 2026-10-19
-reviewBy: 2026-10-30
+updatedAt: 2026-10-25
+reviewBy: 2026-11-09
 sites:
   - london
 canonicalSite: london
@@ -37,7 +37,7 @@ Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow. So if
 
 This guide lists every display you can buy a ticket for, the one that is still free, which famous ones no longer run at all, and the free viewpoints that are actually open after dark.
 
-> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** and **Battersea Park** are both on sale and both sell out. **Danson Park** is back after cancelling in 2025, and Richmond's early-bird prices ended on **30 September 2026**. The only free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
+> 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** and **Battersea Park** are both on sale and both sell out. **Danson Park** is back after cancelling in 2025. The only free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
 
 ---
 
@@ -49,7 +49,6 @@ This guide lists every display you can buy a ticket for, the one that is still f
 
 | Date | What is on |
 | --- | --- |
-| **Sat 24 Oct** | Sunshine Garden Centre, New Southgate |
 | **Sat 31 Oct** | Enfield Town Park Halloween Spooktacular |
 | **Sun 1 Nov** | Richmond Family Fireworks · Colets, Thames Ditton |
 | **Thu 5 Nov** | **Coram's Fields (free)** · Wimbledon Park · Stow |
@@ -144,7 +143,7 @@ Prices are the organisers' own for 2026.
 | **[Brentham Club](https://www.ticketor.com/brenthamclub/tickets/fireworks-night-2026-367335)**, Meadvale Road, W5 | **Sat 7 Nov**, 17:00–21:00 | Adult 16+ **£13.50** · Child 3–15 **£7.50** · Family (2 adults + up to 3 children) **£33**, no booking fees | Online sales close at 15:20 on the day |
 | **[Kempton Park](https://www.thejockeyclub.co.uk/kempton/events-tickets/fireworks/)**, Sunbury | **Sat 7 Nov**, fireworks 19:30 | **£10** in advance | Gates 5pm, last entry 7pm. Funfair to 10pm. Kempton Park station from Waterloo |
 | **[Chiswick Rugby Club](https://www.chiswickrugby.co.uk/news/chiswick-rugby-community-fireworks-3000088.html)**, Dan Mason Drive, W4 | **Sat 7 Nov**, fireworks 19:30 | Adult **£12** · Child **£8** · Family **£30** | A charity display: £2 of each ticket, and £3 of a family ticket, goes to Maggie's. Doors 17:30, bonfire 18:30, live music from 20:00 |
-| **[Richmond Family Fireworks](https://www.rag-events.co.uk/major-public-events-at-the-rag/richmond-family-fireworks/)**, Richmond Athletic Ground | **Sun 1 Nov**, gates 16:30, fireworks 19:00 | Adult 16+ **£12.50** · Child 5–15 **£7.50** · Grandstand **£17.50** · Under-5 free · Parking **£10**, booked in advance | A Halloween-themed display choreographed to music. The early-bird prices ended on 30 September 2026. **No gate sales.** Sold out four years running, grandstand seats go first, and **under-5s still need a ticket**. Last entry 18:30. Richmond station is under five minutes' walk |
+| **[Richmond Family Fireworks](https://www.rag-events.co.uk/major-public-events-at-the-rag/richmond-family-fireworks/)**, Richmond Athletic Ground | **Sun 1 Nov**, gates 16:30, fireworks 19:00 | Adult 16+ **£12.50** · Child 5–15 **£7.50** · Grandstand **£17.50** · Under-5 free · Parking **£10**, booked in advance | A Halloween-themed display choreographed to music. **No gate sales.** Sold out four years running, and the grandstand has already sold out for 2026. **Under-5s still need a ticket**. Last entry 18:30. Richmond station is under five minutes' walk |
 | **[Enfield Town Park](https://www.dugdaleartscentre.co.uk/whats-on/town-park-fireworks)** | **Sat 31 Oct**, fireworks 19:00 | Adult **£15.40** · Under-16 **£10.50** · Under-5 **£4.25** · Family (2 adults, 1 child) **£35.20**, plus £1.50 a ticket | Halloween theme with a fancy-dress competition. Gates 17:00, last entry 18:30. No gate sales and no digital tickets: **collect them from Dugdale Arts Centre, 39 London Road, by 5pm on Friday 30 October** |
 | **[Totteridge Fireworks Night](https://www.totteridgefireworks.co.uk/)**, Totteridge Millhillians Cricket Club, N20 | **Fri 6 Nov**, 17:00–23:30 | Tickets through the club's box office | The club's own night, raising money for the club and for Rays of Sunshine, a charity that grants wishes to seriously ill children |
 | **[Bonfire Night on the Thames](https://www.londonpartyboats.co.uk/tickets/bonfire-night-on-the-thames/229)** | **Sat 7 Nov**, boards 19:00 | Adult **£50** · Child **£45** | Boat from Festival Pier with buffet and DJ, viewing the Battersea display |
@@ -153,7 +152,6 @@ Prices are the organisers' own for 2026.
 
 | Display | Date | Notes |
 | --- | --- | --- |
-| **[Sunshine Garden Centre](https://www.eventbrite.co.uk/e/sunshine-garden-centre-fireworks-extravaganza-saturday-24th-october-2026-tickets-2000606006420)**, Durnsford Road, N11 | **Sat 24 Oct**, doors 17:30, fireworks 19:00 | A Halloween fancy-dress night with a live band from 18:00. The ticket includes a BBQ or paella, mulled wine or a soft drink, and 15% off purchases in the garden centre on the night. Advance tickets on Eventbrite, no refunds |
 | **[Orpington Golf Centre](https://www.eventbrite.co.uk/e/fireworks-spectacular-at-orpington-golf-centre-2026-tickets-2002217427223)**, Sandy Lane | **Fri 6 Nov**, gates 17:00, fireworks 19:30 | Run by Mytime Active. Hot dogs and burgers, a licensed bar and free parking |
 | **[Farringtons School](https://www.eventbrite.co.uk/e/farringtons-fireworks-spectular-2026-tickets-2001706770836)**, Old Perry Street, Chislehurst | **Fri 6 Nov**, 18:00–21:00 | Run by the school's Parents' Association. Tickets on Eventbrite |
 | **[Lift Richmond Park](https://www.eventbrite.co.uk/e/lift-richmond-park-formerly-rpas-firework-night-tickets-2000392873935)**, Park Avenue, SW14 | **Sat 7 Nov**, 17:30–21:30 | Formerly the Richmond Park Association's night. A bar, a BBQ, face painting and a DJ until 21:30. No sparklers; glow toys on sale. Tickets on Eventbrite, no refunds |

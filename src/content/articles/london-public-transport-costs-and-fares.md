@@ -3,7 +3,7 @@ title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
 seoTitle: "London Bus and Tube Fares 2026: £3.10 Tube, £8.90 Cap"
 description: "A London bus costs £1.75 (£1.85 from 1 November 2026), capped at £5.25 a day. A Zone 1 Tube single is £3.10 at peak, and Zones 1–2 cap at £8.90 a day."
 publishedAt: 2026-07-30
-updatedAt: 2026-10-17
+updatedAt: 2026-10-25
 reviewBy: 2026-11-01
 sites:
   - london
@@ -38,7 +38,7 @@ faq:
     a: "Under-11s travel free on buses and trams, and on the Tube with a fare-paying adult. Visitors aged 11–15 pay half the adult fare for up to 14 days once staff add the Young Visitor discount to an Oyster card."
 ---
 
-> 💡 **The Short Version:** **A London bus costs £1.75** and the **daily bus cap is £5.25**; on **1 November 2026** they rise to **£1.85** and **£5.55**. **A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak** (Zones 1–2: £3.60 and £3.10). **The Zones 1–2 daily cap is £8.90** across Tube, bus, tram, DLR, Overground and Elizabeth line, as long as you tap the same contactless card, phone or Oyster every time. A paper single costs £7.00, so never buy one. Under-11s travel free and 11–15s pay half. Tube caps are frozen until March 2027. Prices in force in October 2026.
+> 💡 **The Short Version:** **A London bus costs £1.75** and the **daily bus cap is £5.25**; on **1 November 2026** they rise to **£1.85** and **£5.55**. **A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak** (Zones 1–2: £3.60 and £3.10). **The Zones 1–2 daily cap is £8.90** across Tube, bus, tram, DLR, Overground and Elizabeth line, as long as you tap the same contactless card, phone or Oyster every time. A paper single costs £7.00, so never buy one. Under-11s travel free and 11–15s pay half. Tube caps are frozen until March 2027.
 
 London transport prices depend on the service, zones, time of travel and how you pay. Contactless or Oyster pay as you go is normally the simplest and least expensive choice for an adult visitor because eligible journeys are automatically capped.
 

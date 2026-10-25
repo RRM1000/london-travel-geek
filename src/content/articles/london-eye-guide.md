@@ -3,7 +3,7 @@ title: "London Eye Ticket Prices, Fast Track and Sunset Timing"
 seoTitle: "London Eye Price: From £29 Online, £39 at the Gate"
 description: "London Eye price: an adult ticket is from £29 online and £39 at the gate, a child from £26. What Fast Track adds, the sunset slot to book and the bundles."
 publishedAt: 2026-09-19
-updatedAt: 2026-10-17
+updatedAt: 2026-10-25
 reviewBy: 2026-12-31
 sites:
   - london
@@ -127,8 +127,8 @@ Every multi-attraction ticket gives you 7 days to visit the rest and can be resc
 For travellers planning to visit London's premier historical monuments and museums alongside the London Eye, **The London Pass by Go City** is the most comprehensive sightseeing pass available.
 
 The London Pass includes standard entry to the London Eye, alongside headline paid landmarks (values as listed by londonpass.com):
-- **[Tower of London](/articles/tower-of-london-guide/)** (up to £37)
-- **[Westminster Abbey](/articles/westminster-abbey-guide/)** (up to £31)
+- **[Tower of London](/articles/tower-of-london-guide/)** (up to £38)
+- **[Westminster Abbey](/articles/westminster-abbey-guide/)** (up to £32)
 - **St Paul's Cathedral** (up to £27)
 - **[Kew Gardens](/articles/kew-gardens-guide/)** (up to £22)
 - **Tower Bridge Exhibition** (up to £18)
@@ -137,7 +137,7 @@ The London Pass includes standard entry to the London Eye, alongside headline pa
 - **Windsor Castle** (up to £36)
 
 #### Does the London Pass save money?
-Individual adult advance tickets for the London Eye (from £29), the Tower of London (up to £37) and Westminster Abbey (up to £31) already add up to as much as £97 for three sights in a single day — close to the cost of a multi-day London Pass on its own. For our complete arithmetic and rules on when a pass is worth it, read our dedicated [London Pass Guide](/articles/london-pass-guide/).
+Individual adult advance tickets for the London Eye (from £29), the Tower of London (up to £38) and Westminster Abbey (up to £32) already add up to as much as £99 for three sights in a single day — close to the cost of a multi-day London Pass on its own. For our complete arithmetic and rules on when a pass is worth it, read our dedicated [London Pass Guide](/articles/london-pass-guide/).
 
 #### How London Eye booking works with the London Pass
 While many historic sites on the pass admit visitors on arrival, **the London Eye requires pass holders to pre-book a timed reservation slot online**:

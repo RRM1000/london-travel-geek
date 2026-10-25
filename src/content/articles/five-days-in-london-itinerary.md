@@ -3,8 +3,8 @@ title: "Five Days in London: The Itinerary With Room to Breathe"
 seoTitle: "Five Days in London Itinerary: Day by Day"
 description: "Five days written out in full, with the operators' own hours and prices, TfL walking times, and the river fare to Greenwich. Westminster, the City, the South Bank, Greenwich by boat, and one museum district with its neighbourhood."
 publishedAt: 2026-08-14
-updatedAt: 2026-10-17
-reviewBy: 2026-10-01
+updatedAt: 2026-10-25
+reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -18,7 +18,7 @@ faq:
   - q: "How do I get to Greenwich from central London, and what does it cost?"
     a: "By Uber Boat by Thames Clippers from Westminster, Embankment or Tower piers. Westminster to Greenwich is scheduled at 56 to 60 minutes on the weekend timetable and Tower to Greenwich at about 25 minutes. Pay with contactless: Central and East zones cost £11.40 off-peak and £13.70 peak, and Saturdays, Sundays and bank holidays are charged at the peak fare all day. River fares do not count towards the Tube and bus daily cap."
   - q: "What does Greenwich cost once you are there?"
-    a: "Cutty Sark is £18 for an adult and £9 for a child. The Royal Observatory is £18 and £9 until it closes on 2 November 2026. The Painted Hall at the Old Royal Naval College is £19 and children go free. The National Maritime Museum, the Queen's House, Greenwich Park, Greenwich Market and the view from the Observatory hill are all free."
+    a: "Cutty Sark is £22 for an adult and £11 for a child. The Royal Observatory is £24 and £12 until it closes on 2 November 2026. The Painted Hall at the Old Royal Naval College is £19 and children go free. The National Maritime Museum, the Queen's House, Greenwich Park, Greenwich Market and the view from the Observatory hill are all free."
   - q: "Should I take a day trip out of London on a five-day visit?"
     a: "Probably not. Windsor, Oxford and Bath each swallow a day and cost you a London neighbourhood you have not seen. Greenwich gives you the change of scene, an hour on the water and a completely different London without leaving the fare zone."
   - q: "How much walking is a five-day London itinerary?"
@@ -31,16 +31,16 @@ Three days in London is a forced march: the Tower and the whole South Bank land 
 
 Five days fixes that by splitting, not by adding. The Tower gets an afternoon and the City an evening. The South Bank gets its own day. Greenwich gets a whole one, reached by boat. And the fifth day is one district and nothing else, which is the day most people remember.
 
-Every walking time below is [TfL's](https://tfl.gov.uk/plan-a-journey/), which runs slower than most people walk. Prices and opening hours are the operators' own, checked on 21 September 2026.
+Every walking time below is [TfL's](https://tfl.gov.uk/plan-a-journey/), which runs slower than most people walk. Prices and opening hours are the operators' own.
 
-> 💡 **The Short Version:** **Day 1** Westminster and the West End — the Abbey (£31, shut to sightseers on Sundays) and the Churchill War Rooms (£34, timed entry only). **Day 2** the Tower (£37) on an afternoon slot, Tower Bridge, then the City and a free view from Sky Garden or Horizon 22. **Day 3** the South Bank end to end, Borough Market to the London Eye. **Day 4** Greenwich by river — £11.40 by contactless, 56 to 60 minutes from Westminster. **Day 5** one district and nothing else — a free museum morning and the neighbourhood around it, or a market day in the east.
+> 💡 **The Short Version:** **Day 1** Westminster and the West End — the Abbey (£32, shut to sightseers on Sundays) and the Churchill War Rooms (£34, timed entry only). **Day 2** the Tower (£38) on an afternoon slot, Tower Bridge, then the City and a free view from Sky Garden or Horizon 22. **Day 3** the South Bank end to end, Borough Market to the London Eye. **Day 4** Greenwich by river — £11.40 by contactless, 56 to 60 minutes from Westminster. **Day 5** one district and nothing else — a free museum morning and the neighbourhood around it, or a market day in the east.
 
 ## Book these before you leave
 
 | Book | How far ahead | What it costs, and why it sells out |
 | --- | --- | --- |
-| **[Tower of London](/articles/tower-of-london-guide/)** | 2–3 weeks in peak season | £37 adult, £18.50 child (5–15) and young person (16–17), £29.50 concession. Timed entry |
-| **[Westminster Abbey](/articles/westminster-abbey-guide/)** | 1–2 weeks | £31 adult, £28 over-65s and students, £14 children 6–17. Closed to sightseers on Sundays |
+| **[Tower of London](/articles/tower-of-london-guide/)** | 2–3 weeks in peak season | £38 adult, £19 child (5–15) and young person (16–17), £30.30 concession. Timed entry |
+| **[Westminster Abbey](/articles/westminster-abbey-guide/)** | 1–2 weeks | £32 adult, £29 over-65s and students, £14 children 6–17. Closed to sightseers on Sundays |
 | **[Churchill War Rooms](/articles/churchill-war-rooms-guide/)** | 1–2 weeks | £34 adult, £17 child. IWM does not guarantee walk-up entry |
 | **Sky Garden** | Free tickets release weekly, up to three weeks ahead | Free, 35 floors up. They go |
 | **A West End show** | 2–4 weeks for anything popular | Cheaper direct from the theatre. See the [theatre guide](/articles/london-theatre-guide/) |
@@ -58,7 +58,7 @@ We have this half of the day as an [eleven-stop Westminster walk](/articles/west
 
 ### Westminster Abbey
 
-**[Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3.00pm on Saturday](https://www.westminster-abbey.org/visit-us/prices-and-entry-times); Sunday is worship only.** **£31 an adult, £28 for over-65s and students, £14 for a child aged 6 to 17, free under 6.** A government VAT reduction cut those to £27.13, £24.50 and £12.25 between 25 June and 1 September 2026. Every ticket includes a multimedia guide.
+**[Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3.00pm on Saturday](https://www.westminster-abbey.org/visit-us/prices-and-entry-times); Sunday is worship only.** **£32 an adult, £29 for over-65s and students, £14 for a child aged 6 to 17, free under 6.** Every ticket includes a multimedia guide.
 
 **Allow two hours rather than the ninety minutes a three-day plan can afford.** Poets' Corner, the royal tombs, the Lady Chapel and the Cosmati Pavement are the four things people miss at speed.
 
@@ -101,11 +101,11 @@ Walk into St James's or two stops to Covent Garden, not eating on the bridge app
 
 ### Tower of London, after midday
 
-**£37 an adult, £18.50 for a child aged 5 to 15 and for a young person aged 16 to 17, £29.50 for seniors, students and disabled visitors, free under 5.** Historic Royal Palaces prices by age band with one optional 10% donation, and there is no family ticket. **£1 a head for anyone on Universal Credit, Pension Credit, ESA, Income Support, Jobseeker's Allowance or Working Tax Credit**, up to four people, booked online in advance; Tower Hamlets residents pay £1 year-round. HRP's own prices, published 19 September 2026 — the [full list is in our Tower guide](/articles/tower-of-london-guide/).
+**£38 an adult, £19 for a child aged 5 to 15 and for a young person aged 16 to 17, £30.30 for seniors, students and disabled visitors, free under 5.** Historic Royal Palaces prices by age band with one optional 10% donation, and there is no family ticket. **£1 a head for anyone on Universal Credit, Pension Credit, ESA, Income Support, Jobseeker's Allowance or Working Tax Credit**, up to four people, booked online in advance; Tower Hamlets residents pay £1 year-round. The [full list is in our Tower guide](/articles/tower-of-london-guide/).
 
 **Allow two and a half to three hours.** The Crown Jewels, the White Tower and the ramparts are three separate visits inside one wall.
 
-> 💡 **Take the late-morning slot, not the first one.** Historic Royal Palaces' own guidance is that the Tower is quieter after midday, and on a five-day trip you can afford to believe it. The constraint is the free **Yeoman Warder tour**, which runs roughly every half hour and is the best hour in the place: on 19 September 2026 the last one included in the ticket had left by 15:15. An 11:00 or 12:00 entry clears the morning crush and still catches a Beefeater.
+> 💡 **Take the late-morning slot, not the first one.** Historic Royal Palaces' own guidance is that the Tower is quieter after midday, and on a five-day trip you can afford to believe it. The constraint is the free **Yeoman Warder tour**, which runs roughly every half hour and is the best hour in the place; the last one included in the ticket leaves mid-afternoon. An 11:00 or 12:00 entry clears the morning crush and still catches a Beefeater.
 
 ### Tower Bridge
 
@@ -188,9 +188,9 @@ Greenwich Pier lands you a minute from the Cutty Sark, and everything below is w
 
 | Place | Hours | Adult | Child |
 | --- | --- | ---: | ---: |
-| **[Cutty Sark](https://www.rmg.co.uk/cutty-sark)** | Daily 10am–5pm, last entry 4.15pm | **£18** | **£9** |
+| **[Cutty Sark](https://www.rmg.co.uk/cutty-sark)** | Daily 10am–5pm, last entry 4.15pm | **£22** | **£11** |
 | **[Painted Hall](https://ornc.org/)**, Old Royal Naval College | Daily 10am–5pm | **£19** | **Free** |
-| **[Royal Observatory](https://www.rmg.co.uk/royal-observatory)** | Closed from 2 November 2026 (until then daily 10am–6pm, last entry 5pm) | **£18** | **£9** |
+| **[Royal Observatory](https://www.rmg.co.uk/royal-observatory)** | Closed from 2 November 2026 (until then daily 10am–5pm, last entry 4pm) | **£24** | **£12** |
 | **[National Maritime Museum](https://www.rmg.co.uk/national-maritime-museum)** | Daily 10am–5pm, last entry 4.15pm | **Free** | **Free** |
 | **Queen's House** | Daily 10am–5pm, last entry 4.15pm | **Free** | **Free** |
 | **[Greenwich Market](https://www.greenwichmarket.london/)** | Daily 10am–5.30pm | **Free** | **Free** |
@@ -231,7 +231,7 @@ Three national museums, all free, within a few minutes of each other.
 
 | Museum | Hours | Last entry | What it is for |
 | --- | --- | --- | --- |
-| **Natural History Museum** | Daily 10:00–17:50 | 17:30 | Specimens, and the building. Free ticket advised, walk-ups admitted. **Closed 9 October 2026** |
+| **Natural History Museum** | Daily 10:00–17:50 | 17:30 | Specimens, and the building. Free ticket advised, walk-ups admitted. Closed 24–26 December |
 | **V&A** | Daily 10.00–17.45, **Friday to 22.00** | — | Design, fashion and objects. The Friday late runs four hours past the other two |
 | **Science Museum** | Daily 10.00–18.00 | 17.15 | Its own figure for an average visit is **around two hours**. **Closed 11 November 2026** |
 
@@ -317,4 +317,4 @@ Our view: on five days, don't. Greenwich gives you the change of scene, an hour 
 
 ---
 
-*Prices and opening hours are the operators' own, checked on 21 September 2026. Walking times are TfL's. River fares hold until 31 October 2026. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*
+*Prices and opening hours are the operators' own. Walking times are TfL's. River fares hold until 31 October 2026. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*
