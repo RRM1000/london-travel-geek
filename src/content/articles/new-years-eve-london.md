@@ -1,10 +1,10 @@
 ---
 title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home"
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
-description: "The Thames fireworks are ticketed, paid and sell out — and the first batch of tickets for 31 December 2026 goes on sale at noon on Friday 23 October. What is confirmed, what the free viewpoints really are, and how to get home."
+description: "The Thames fireworks are ticketed, paid and sell out. The first batch of tickets for 31 December 2026 went on sale at noon on Friday 23 October; the second batch has no date yet. Prices, the six viewing areas, the free viewpoints that are shut, and how to get home."
 publishedAt: 2026-09-04
-updatedAt: 2026-10-19
-reviewBy: 2026-10-24
+updatedAt: 2026-10-25
+reviewBy: 2026-11-20
 sites:
   - london
 canonicalSite: london
@@ -20,7 +20,7 @@ heroImage: "../../assets/articles/new-years-eve-london/thames-fireworks.jpg"
 heroImageAlt: "Fireworks bursting in red and blue over the Thames at night, with the London Eye, the Golden Jubilee Bridges and the Elizabeth Tower lit below"
 faq:
   - q: "Do you need a ticket for the London New Year's Eve fireworks?"
-    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. City Hall has confirmed the display returns on 31 December 2026, with the first batch of tickets on sale at 12 noon on Friday 23 October 2026 and a second batch to follow."
+    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. City Hall has confirmed the display returns on 31 December 2026. The first batch of tickets went on sale at 12 noon on Friday 23 October 2026, with a second batch to follow."
   - q: "How much are London New Year's Eve fireworks tickets?"
     a: "For 31 December 2026, City Hall prices a Category A ticket (Blue, Pink and White areas) at £55, or £35 for anyone with a London billing postcode, and Category B (Red, Green and Orange) at £40, or £20 for Londoners, plus a booking fee. City Hall says the prices are unchanged from the 2025 event. The event returned at £15 in 2022."
   - q: "Can you watch the London fireworks for free?"
@@ -33,11 +33,11 @@ faq:
     a: "1pm to 4.30pm on Friday 1 January 2027, with all grandstands opening at 12 noon. The route runs from just off Piccadilly near Green Park station, along Regent Street St James's, Pall Mall, past Trafalgar Square and down Whitehall to finish at Parliament Square."
 ---
 
-**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and the first batch of tickets for 31 December 2026 goes on sale at noon on Friday 23 October 2026.** [City Hall's page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026) confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am, with a second batch of tickets to follow on a date still to be announced.
+**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and the first batch of tickets for 31 December 2026 went on sale at noon on Friday 23 October 2026.** [City Hall's page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026) confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am, with a second batch of tickets to follow; City Hall will put its date on that page.
 
 This guide separates what is confirmed for **Thursday 31 December 2026** and **Friday 1 January 2027** from what has not been announced.
 
-> 💡 **The Short Version:** The fireworks are **not free and not open access** — six fenced viewing areas, tickets only, through Ticketmaster. **The first batch of tickets goes on sale at noon on Friday 23 October**, with a second batch to follow. The 2026 prices are **£40 to £55**, with a **£20 discount** for London postcodes. There are **no free viewpoints in any Royal Park** — Primrose Hill is locked overnight. **Travel is not free**; that ended after 2019. The **London Parade on 1 January is confirmed, free to watch standing, 1pm to 4.30pm**.
+> 💡 **The Short Version:** The fireworks are **not free and not open access** — six fenced viewing areas, tickets only, through Ticketmaster. **The first batch of tickets went on sale at noon on Friday 23 October**, with a second batch to follow. The 2026 prices are **£40 to £55**, with a **£20 discount** for London postcodes. There are **no free viewpoints in any Royal Park** — Primrose Hill is locked overnight. **Travel is not free**; that ended after 2019. The **London Parade on 1 January is confirmed, free to watch standing, 1pm to 4.30pm**.
 
 ---
 
@@ -45,8 +45,8 @@ This guide separates what is confirmed for **Thursday 31 December 2026** and **F
 
 | What | Where it stands |
 | --- | --- |
-| Mayor's Thames fireworks, 31 Dec 2026 | Confirmed by City Hall, 8pm to 12.30am. First tickets at noon on Friday 23 October; second batch date to follow |
-| Fireworks tickets | £55 / £35 (Category A) and £40 / £20 (Category B); up to 4 per buyer; first batch on sale Friday 23 October |
+| Mayor's Thames fireworks, 31 Dec 2026 | Confirmed by City Hall, 8pm to 12.30am. First tickets on sale since noon on Friday 23 October; second batch date to follow |
+| Fireworks tickets | £55 / £35 (Category A) and £40 / £20 (Category B); up to 4 per buyer; first batch on sale since Friday 23 October |
 | London Parade, 1 Jan 2027 | Confirmed. 1pm to 4.30pm, tickets on sale since 1 July 2026 |
 | TfL Christmas and New Year travel | Not published |
 | Royal Parks closure notice | Not issued. The 2025 notices went out on 23 September and 10 December |
@@ -60,19 +60,19 @@ This guide separates what is confirmed for **Thursday 31 December 2026** and **F
 
 The display goes up over the Thames around the London Eye at midnight, and **you cannot simply turn up on the Embankment**. It runs as a fenced festival with more than 100,000 ticket holders, six numbered viewing areas and gated entrances. City Hall's wording is unambiguous: you cannot attend without a ticket, and those without one will not be allowed into the viewing areas.
 
-The 2025 rules, the best guide until City Hall publishes the 2026 detail:
+The rules for 2026:
 
-- **Entry ran from 8pm to 10.30pm** into every area, with **no re-entry**. That is two and a half hours minimum on your feet before midnight, plus the wait to leave.
-- **Everyone needs a ticket, whatever their age.** Under-16s must be with an adult, and City Hall actively recommends against bringing young children.
+- **Entry runs from 8pm to 10.30pm** into every area, and there was **no re-entry** in 2025. That is two and a half hours minimum on your feet before midnight, plus the wait to leave.
+- **Everyone needs a ticket, whatever their age.** Under-16s must be with an adult, and City Hall strongly recommends against bringing young children.
 - **Four tickets maximum per buyer.** Another adult in your group can buy four more, but you must travel in together.
 - **Photo ID** matching the ticket name may be demanded from the lead booker at the gate — passport or photo driving licence.
-- **No refunds, ever**, and **no seating** in five of the six areas.
+- **No refunds**, and **no seating** in five of the six areas.
 
 ---
 
 ## Which viewing area is best
 
-Six areas, three at the higher Category A price and three at Category B. The prices below are City Hall's for 31 December 2026, which it says are unchanged from the 2025 event.
+Six areas, three at the higher Category A price and three at Category B. The prices below are City Hall's for 31 December 2026, unchanged from the 2025 event, plus a small booking fee.
 
 | Viewing area | Gates and station | Price, full / Londoner | What you actually see |
 | --- | --- | --- | --- |
@@ -105,7 +105,7 @@ The only legitimate resale route is **Ticketmaster's Fan-to-Fan platform, at fac
 
 **The Londoner discount is worth £20 a ticket**, applied at checkout against your card's billing address. Enter the postcode without spaces and in capitals, make sure the address matches, and be ready to prove it on the night — mismatched bookings have been cancelled without warning.
 
-**When does it go on sale?** The first batch goes on sale at **noon on Friday 23 October 2026**, through Ticketmaster only. A second batch follows on a date City Hall will put on [its 2026 event page](https://www.london.gov.uk/events/london-new-years-eve-2026), which also has an email sign-up for reminders. In 2022, the year the event returned, the first release was at noon on Friday 21 October.
+**When does it go on sale?** The first batch went on sale at **noon on Friday 23 October 2026**, through Ticketmaster only. A second batch follows on a date City Hall will put on [its 2026 event page](https://www.london.gov.uk/events/london-new-years-eve-2026). In 2022, the year the event returned, the first release was at noon on Friday 21 October.
 
 ---
 
