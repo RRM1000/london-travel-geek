@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in London in November: Fireworks, Remembrance, Jazz and the Lights Going On"
 seoTitle: "Things to Do in London in November 2026"
-description: "Bonfire Night on a Thursday, Remembrance Sunday, the Lord Mayor's Show and England rugby all inside the first fortnight, then ten days of jazz and Christmas switching on, with the Bayeux Tapestry sold out until January."
+description: "Bonfire Night on a Thursday, Remembrance Sunday, the Lord Mayor's Show and England rugby all inside the first fortnight, then ten days of jazz and Christmas switching on, with the Bayeux Tapestry sold out to 31 March 2027."
 heroImage: "../../assets/articles/christmas-lights-walk-london/regent-street-spirit-apple.jpg"
 heroImageAlt: "A Spirit of Christmas angel above Regent Street at night, its lit wings spanning the road between strings of white lights, with the Apple store's arched windows below"
 heroImageCredit: "Marathon"
@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-10-19
-reviewBy: 2026-10-22
+updatedAt: 2026-10-25
+reviewBy: 2026-11-04
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -20,13 +20,13 @@ faq:
   - q: "What is on in London in November 2026?"
     a: "The first fortnight is fireworks and ceremony: the Veteran Car Run on Sunday 1 November, Bonfire Night on Thursday 5th with the big displays on Saturday 7th, Remembrance Sunday on the 8th, Armistice Day on the 11th and the Lord Mayor's Show on Saturday 14th. The EFG London Jazz Festival runs 13 to 22 November. Christmas arrives in stages, from Regent Street's lights on the 5th to Hyde Park Winter Wonderland on the 19th, and the new London Museum opens in Smithfield on 28 November."
   - q: "Can you still get tickets for the Bayeux Tapestry in November 2026?"
-    a: "Not for a November visit. Every ticket for 10 September to 31 December 2026 has sold out, and so has the members' priority allocation. General booking for visits from 1 January to 31 March 2027 opens on 21 October 2026, and April to July 2027 opens in early 2027. Adult tickets are £33, with off-peak at £27 and a term-time weekday slot from 3.30pm at £25."
+    a: "Not for a November visit. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. Adult tickets are £33, with off-peak at £27 and a term-time weekday slot from 3.30pm at £25."
   - q: "When is Bonfire Night in London in 2026, and when are the fireworks?"
     a: "Bonfire Night is Thursday 5 November, but most of the displays are on Saturday 7th, with a second wave on Sunday 8th. Alexandra Palace and Battersea Park both run on the Saturday and Sunday. Only a handful run on the 5th itself, and the one free display, at Coram's Fields, is for children and the adults with them. Our Bonfire Night guide lists every display."
   - q: "When is the Lord Mayor's Show in 2026, and are there fireworks?"
     a: "Saturday 14 November, setting off from Mansion House at 11am and going to the Royal Courts of Justice by St Paul's and Fleet Street, with the return leg along the Embankment from about 1.10pm. It is free to watch. The Thames fireworks that used to close the day no longer run, and the organiser's timetable finishes with the Lord Mayor back at Mansion House in the afternoon."
   - q: "When do London's Christmas lights go on in 2026?"
-    a: "Carnaby Street on Wednesday 4 November, Regent Street on Thursday 5th, with the street closed to traffic from 5pm to 9pm, and Covent Garden on Thursday 12th. Hyde Park Winter Wonderland opens on 19 November and Somerset House's ice rink on the 11th. The Trafalgar Square tree is lit on 3 December."
+    a: "Carnaby Street on Wednesday 4 November, Regent Street on Thursday 5th, with the street closed to traffic from 5pm to 9pm, and Bond Street and Covent Garden on Thursday 12th. Oxford Street has not published its date. Hyde Park Winter Wonderland opens on 19 November and Somerset House's ice rink on the 11th. The Trafalgar Square tree is lit on 3 December."
   - q: "When does it get dark in London in November?"
     a: "Sunset is at 4.35pm on 1 November, 4.28pm on Bonfire Night, 4.14pm on the 14th and 3.57pm on the 30th. The clocks went back on 25 October, so the whole month is on GMT. Heathrow's 1991 to 2020 average for the month is a high of 11.5C, a low of 5.3C, 66.6mm of rain and 68 hours of sunshine."
   - q: "Is Diwali in November in 2026?"
@@ -35,7 +35,7 @@ faq:
 
 November has three beats. The first fortnight is fireworks and ceremony. Ten days of jazz sit in the middle. The Christmas lights, rinks and markets switch on in stages from the 5th. The clocks went back on 25 October, and the sun sets before 4.40pm all month.
 
-> 💡 **The Short Version:** **Bonfire Night is Thursday 5 November, but the big displays are on Saturday 7th.** **Remembrance Sunday is the 8th, Armistice Day the 11th and the Lord Mayor's Show Saturday 14th.** The **EFG London Jazz Festival** runs 13 to 22 November. **Regent Street's lights go on on 5 November**, **Winter Wonderland opens on 19 November** and the **London Museum** opens free in Smithfield on **28 November**. The **Bayeux Tapestry** is sold out until January; general booking for 1 January to 31 March 2027 opens on **21 October**.
+> 💡 **The Short Version:** **Bonfire Night is Thursday 5 November, but the big displays are on Saturday 7th.** **Remembrance Sunday is the 8th, Armistice Day the 11th and the Lord Mayor's Show Saturday 14th.** The **EFG London Jazz Festival** runs 13 to 22 November. **Regent Street's lights go on on 5 November**, **Winter Wonderland opens on 19 November** and the **London Museum** opens free in Smithfield on **28 November**. The **Bayeux Tapestry** is sold out to 31 March 2027.
 
 | Date | What | Cost |
 | --- | --- | --- |
@@ -45,19 +45,17 @@ November has three beats. The first fortnight is fireworks and ceremony. Ten day
 | Sat 7 Nov | The big fireworks night; National Maritime Museum Diwali day | Fireworks ticketed |
 | Sun 8 Nov | Remembrance Sunday and Diwali itself; England v Australia at Twickenham | Cenotaph free |
 | Wed 11 Nov | Armistice Day silence at 11am; Somerset House ice rink opens | Rink ticketed |
-| Thu 12 Nov | Covent Garden's lights switch on; England v Croatia at Wembley | Lights free |
+| Thu 12 Nov | Bond Street's and Covent Garden's lights switch on; England v Croatia at Wembley | Lights free |
 | Fri 13 Nov | EFG London Jazz Festival opens | From £5 |
 | Sat 14 Nov | Lord Mayor's Show; England v Japan at Twickenham | Show free |
 | Thu 19 Nov | Hyde Park Winter Wonderland opens | £1 entry off-peak |
 | Sat 28 Nov | London Museum opens at Smithfield | Free |
 
-## The Bayeux Tapestry: sold out until January
+## The Bayeux Tapestry: sold out to March 2027
 
 *British Museum, Room 30 · to 11 July 2027*
 
-**You cannot buy a ticket for a November visit.** Every ticket for 10 September to 31 December 2026 is gone, including the members' priority allocation, which is also fully booked for the first three months of 2027.
-
-**General booking for 1 January to 31 March 2027 opens on 21 October 2026**, and April to July 2027 opens in early 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). Adults pay **£33** (£36.50 with the £3.50 donation), or **£27** off-peak. A **£25** slot runs on term-time weekdays from 3.30pm to 4.20pm. Students, 16 to 18s and jobseekers pay £25, and under-16s go free with an adult, up to four per adult.
+**You cannot buy a ticket for a November visit.** Every ticket from 10 September 2026 to 31 March 2027 is gone, and the next release is in 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). Adults pay **£33** (£36.50 with the £3.50 donation), or **£27** off-peak. A **£25** slot runs on term-time weekdays from 3.30pm to 4.20pm. Students, 16 to 18s and jobseekers pay £25, and under-16s go free with an adult, up to four per adult.
 
 Bookings are capped at 10 tickets, each ticket can only be used by the person who booked it, and the museum may check ID. The Tapestry room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm, later than the rest of the museum, and the visit takes about 40 minutes. A free audio guide is in the British Museum Audio app; bring your own headphones.
 
@@ -107,7 +105,7 @@ The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglo
 
 ### The lights
 
-**Carnaby Street's lights go on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**. Regent Street's Spirit of Christmas angels return for a tenth year, with new details for 2026, and the street is closed to traffic from **5pm to 9pm** that evening. **Covent Garden's switch-on is Thursday 12 November.** The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
+**Carnaby Street's lights go on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**. Regent Street's Spirit of Christmas angels return for an eleventh year, with new details for 2026, and the street is closed to traffic from **5pm to 9pm** that evening. **Bond Street and Covent Garden switch on on Thursday 12 November**, Bond Street with the street traffic-free from 4pm to 8pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
 
 ### Rinks, markets and Winter Wonderland
 
