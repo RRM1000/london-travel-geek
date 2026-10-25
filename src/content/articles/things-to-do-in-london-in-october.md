@@ -37,7 +37,7 @@ faq:
 
 For the first three weeks of October the summer crowds have gone and the autumn exhibitions and festivals open one after another. In the final week the clocks go back, half term starts and the evenings are dark by five.
 
-> 💡 **The Short Version:** **Frieze Week and the BFI London Film Festival ended on 18 October**; the free **Frieze Sculpture** in Regent's Park runs to 1 November. **MCM Comic Con** is at ExCeL on 23 to 25 October. The **clocks go back on 25 October**, half term starts the next day, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 December; general booking for 1 January to 31 March 2027 opens on **21 October**.
+> 💡 **The Short Version:** **Frieze Week and the BFI London Film Festival ended on 18 October**; the free **Frieze Sculpture** in Regent's Park runs to 1 November. **MCM Comic Con** is at ExCeL on 23 to 25 October. The **clocks go back on 25 October**, half term starts the next day, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
 
 **Five ticketed art fairs ran in the same city on the same days, in the middle of the month**, inside the BFI London Film Festival's closing weekend, Thursday 15 to Sunday 18 October. What is left is the free half, Frieze Sculpture, which stays in Regent's Park until the start of November.
 
