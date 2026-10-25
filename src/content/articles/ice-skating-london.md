@@ -14,7 +14,7 @@ tags: [Christmas, winter, ice skating, things to do, Somerset House, Hampton Cou
 draft: false
 faq:
   - q: "When do the London Christmas ice rinks open in 2026?"
-    a: "Skate Leicester Square opens first, on Saturday 31 October 2026, then Glide at Battersea Power Station on Friday 6 November. Somerset House follows on Wednesday 11 November, the Queen's House in Greenwich on 18 November, Hyde Park Winter Wonderland on 19 November and Hampton Court Palace on 20 November. Somerset House runs longest, to 10 January 2027; the others close on 3 January. The five outdoor rinks other than Leicester Square are closed on Christmas Day."
+    a: "Skate Leicester Square opens first, on Saturday 31 October 2026, then Glide at Battersea Power Station on Friday 6 November. Somerset House follows on Wednesday 11 November, the Queen's House in Greenwich on 18 November, Hyde Park Winter Wonderland on 19 November and Hampton Court Palace on 20 November. Somerset House runs longest, to 10 January 2027; the others close on 3 January. All six outdoor rinks are closed on Christmas Day."
   - q: "How much does ice skating cost in London?"
     a: "For an adult at an outdoor Christmas rink, between £12.65 and £28.50 a session in 2026, before fees. Somerset House runs from £13 to £28.50 plus a £1.50 fee per ticket, Hampton Court £19.50 off-peak and £21.50 peak, and Winter Wonderland £12.65 to £19.25 plus a separate £1 to £8.25 entry ticket. Skate hire is included at all of them. The year-round indoor rink at Alexandra Palace is £11.75 off-peak."
   - q: "When do Somerset House skating tickets go on sale?"
@@ -29,7 +29,7 @@ faq:
 
 London's outdoor rinks go up between the end of October and the third week of November and come down in the first days of January. Six are confirmed for 2026-27, in a Georgian courtyard, a Tudor palace, a Greenwich palace, the riverside at Battersea, Leicester Square and the middle of Hyde Park. Three that people still search for are not running.
 
-> 💡 **The Short Version:** **Somerset House** is the classic: an 18th-century courtyard and a 40ft tree, **11 November 2026 to 10 January 2027**, adults **£13–£28.50**, children **£11–£15**, plus **£1.50 a ticket**. It went on sale on **25 September**; prices vary through the run, and early booking gets the lowest. **Hampton Court Palace** (20 November to 3 January, adults £19.50–£21.50) is the one with the Tudor backdrop. **Skate Leicester Square** opens first, on **31 October** (from £10), and **Battersea Power Station's Glide** follows on **6 November**, with three rinks and a 200-metre riverside trail. **The Queen's House** in Greenwich (18 November to 3 January) is the quieter one. **Winter Wonderland's** rink is the biggest, but you need an entry ticket on top. **Not running:** the Natural History Museum (closed for good), Canary Wharf (a break in 2026) and the Tower of London. Sessions last **45 minutes**, and the five rinks other than Leicester Square close on **Christmas Day**.
+> 💡 **The Short Version:** **Somerset House** is the classic: an 18th-century courtyard and a 40ft tree, **11 November 2026 to 10 January 2027**, adults **£13–£28.50**, children **£11–£15**, plus **£1.50 a ticket**. It went on sale on **25 September**; prices vary through the run, and early booking gets the lowest. **Hampton Court Palace** (20 November to 3 January, adults £19.50–£21.50) is the one with the Tudor backdrop. **Skate Leicester Square** opens first, on **31 October** (from £10), and **Battersea Power Station's Glide** follows on **6 November**, with three rinks and a 200-metre riverside trail. **The Queen's House** in Greenwich (18 November to 3 January) is the quieter one. **Winter Wonderland's** rink is the biggest, but you need an entry ticket on top. **Not running:** the Natural History Museum (closed for good), Canary Wharf (a break in 2026) and the Tower of London. Sessions last **45 minutes**, and all six outdoor rinks close on **Christmas Day**.
 
 *Dates, prices and rules are from each rink's own site.*
 
@@ -222,7 +222,7 @@ The outdoor rinks all close in early January. From then until November, skate in
 
 **Book online.** Somerset House keeps a few tickets for each session at its box office until noon, but at Glide a session that has sold out online has no door tickets left.
 
-**The Somerset House, Hampton Court, Battersea, Queen's House and Winter Wonderland rinks are closed on Christmas Day**, and Somerset House's last sessions on Christmas Eve and New Year's Eve start at 5pm. For the day itself, see our [Christmas Day restaurants guide](/articles/christmas-day-restaurants-london/); for the lights, the [Christmas lights walk](/articles/christmas-lights-walk-london/) runs past Covent Garden, 8 minutes from Somerset House.
+**All six outdoor rinks are closed on Christmas Day**, and Somerset House's last sessions on Christmas Eve and New Year's Eve start at 5pm. For the day itself, see our [Christmas Day restaurants guide](/articles/christmas-day-restaurants-london/); for the lights, the [Christmas lights walk](/articles/christmas-lights-walk-london/) runs past Covent Garden, 8 minutes from Somerset House.
 
 ## Related guides
 
