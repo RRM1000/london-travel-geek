@@ -64,7 +64,7 @@ Omakase means the chef chooses: you sit at the counter and courses arrive in seq
 
 ### Sushi Tetsu, Clerkenwell
 
-*££££ · seven seats · the hardest table in London* · Cited by 3 sources
+*££££ · seven seats, two people running it* · Cited by 3 sources
 
 **Seven seats at a pale hinoki counter in a Clerkenwell alley**, run by Toru Takahashi and his wife Harumi, and only them. He cures, cuts and serves; she runs the room.
 
@@ -148,7 +148,7 @@ Kobe is served several ways across a set menu: seared on a hot stone at the tabl
 
 ### Dinings SW3, Chelsea
 
-*££££ · the most-cited Japanese room in London* · Cited by 5 sources
+*££££ · izakaya plates and a courtyard* · Cited by 5 sources
 
 **The most-cited Japanese room in this guide, with five sources** — izakaya-scale plates with sushi-counter finish, and **a courtyard**.
 
