@@ -131,7 +131,7 @@ London's two Westfield centres are fully roofed malls.
 
 **London Fields Lido**, Hackney — heated and open through the winter.
 
-**Bookshops you can lose an hour in**: **Daunt Books** on Marylebone High Street, with its Edwardian galleried room and books arranged by country rather than genre, and **Persephone Books** in Bloomsbury, reprinting forgotten women writers with endpapers taken from period fabrics.
+**Bookshops you can lose an hour in**: **Daunt Books** on Marylebone High Street, with its Edwardian galleried room and books arranged by country rather than genre, and **Persephone Books** in Fitzrovia, reprinting forgotten women writers with endpapers taken from period fabrics.
 
 **BFI Southbank**'s Mediatheque lets you watch archive film free with no ticket at all; our [independent cinemas guide](/articles/best-cinemas-london/) covers the repertory scene.
 

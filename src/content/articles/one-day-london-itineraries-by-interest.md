@@ -255,7 +255,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Midday.** Walk down through **Bloomsbury** — the squares, the blue plaques, **Senate House**, and the **Charles Dickens Museum** at 48 Doughty Street, the only surviving London house he lived in.
 
-**Afternoon.** Bookshops: **Persephone** in Bath Place, **the London Review Bookshop** by the British Museum, **Daunt** on Marylebone High Street for the galleried travel room, and **Foyles** on Charing Cross Road.
+**Afternoon.** Bookshops: **Persephone** on Scala Street in Fitzrovia, **the London Review Bookshop** by the British Museum, **Daunt** on Marylebone High Street for the galleried travel room, and **Foyles** on Charing Cross Road.
 
 **Evening.** **Cecil Court** — the Victorian bookselling alley between Charing Cross Road and St Martin's Lane — then dinner in Covent Garden.
 
