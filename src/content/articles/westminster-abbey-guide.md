@@ -3,7 +3,7 @@ title: "Westminster Abbey: Tickets, Opening Times, Evensong and the Verger Tour"
 seoTitle: "Westminster Abbey 2026: Tickets, Times & Evensong"
 description: "2026 admission prices and the £1 rate for benefits claimants; what the £10 verger tour gets you to; free Choral Evensong times; and the current bag and photography rules."
 publishedAt: 2026-06-10
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-12-31
 sites:
   - london
@@ -38,10 +38,6 @@ faq:
     a: "It costs the Abbey entry price plus £10, and it is the only way for the public to reach the Shrine of Edward the Confessor and its tomb enclosure. You cannot book ahead or by phone — sign up in person when you arrive, Monday to Saturday. Tours run for about 90 minutes and take up to 20 people."
 ---
 
-Westminster Abbey has served as the coronation church of the British monarchy since William the Conqueror in 1066, and holds the remains of 30 kings and queens. It's also a working church that closes to sightseers for services, so the ticket you need and the hours you can visit both depend on the day.
-
-Prices and times below are the Abbey's own.
-
 > 💡 **The Short Version:**
 > - **Arrive early.** Get there 15 minutes before opening — 09:15 for the 09:30 start Monday to Friday, or 08:45 for Saturday's earlier 09:00 start — and head straight to the **royal tombs and Henry VII Lady Chapel** before the ambulatory fills up.
 > - **The verger tour** is the only way to reach the **Shrine of Edward the Confessor**. It costs the Abbey entry price plus **£10**, but you can only book it in person, on arrival, Monday to Saturday — not online or by phone.
@@ -52,8 +48,6 @@ Prices and times below are the Abbey's own.
 ---
 
 ## 2026 ticket prices and booking options
-
-Westminster Abbey receives no government or Crown funding; by its own account it is "almost entirely dependent on visitor income for its survival."
 
 | Ticket type | Adult (18–64) | Child (6–17) | Concession (65+ / student) | Notes |
 | --- | ---: | ---: | ---: | --- |
@@ -80,9 +74,7 @@ You can reserve direct or book an official <a href="https://www.getyourguide.com
 
 ## The walking route that avoids the crowds
 
-The ground plan of Westminster Abbey is shaped like a Latin cross, with tourist entry passing through the **North Door** into the north transept. Most visitors immediately turn right down the central Nave, join the multimedia crowd looking at floor plaques, and only reach the royal tombs at the far east end an hour later—right as international tour groups arrive.
-
-To experience the most congested sections without crowds, invert that order:
+Tourist entry is through the **North Door** into the north transept. Most visitors turn right down the Nave and reach the royal tombs at the east end an hour later, as the tour groups arrive. To see the tombs before the crowds, invert that order:
 
 ![The Victorian Gothic Quire stalls with illuminated brass lamps beneath soaring ribbed vaulting inside Westminster Abbey](../../assets/articles/westminster-abbey-guide/westminster-abbey-nave-quire.jpg)
 
@@ -94,50 +86,49 @@ Arrive at the North Green gates 15 minutes before the stated opening time. Prese
 If you want to take a **Verger Tour**, ask as soon as you arrive instead of heading off round the building — tours are first come, first served, run Monday to Saturday, and can't be booked ahead.
 
 ### 2. 09:35 to 10:15: Royal tombs and the Henry VII Lady Chapel
-Walk straight past the crossing into the ambulatory encircling the High Altar. By reaching this eastern apse before 10:00, you will have uninterrupted space around the most architecturally intricate section of the building: the **Henry VII Lady Chapel**, consecrated in 1519.
+Walk straight past the crossing into the ambulatory around the High Altar and on to the **Henry VII Lady Chapel**, consecrated in 1519. Get there before 10:00 for space around it.
 
 ![Intricate 16th-century fan-vaulted stone ceiling with decorative pendants and heraldic banners in the Henry VII Lady Chapel](../../assets/articles/westminster-abbey-guide/henry-vii-lady-chapel.jpg)
 
 *The Henry VII Lady Chapel ceiling. Photo: Jps3 (CC BY-SA 4.0).*
 
 Key monuments in this section:
-- **The Fan-Vaulted Ceiling:** Regarded as the climax of English Perpendicular Gothic masonry, featuring stone pendants hanging unsupported from ribbed tracery.
-- **The Tomb of Elizabeth I and Mary I:** The half-sisters and bitter religious adversaries lie interred together in the north aisle beneath the inscription: *"Consorts in realm and tomb, here we sleep, Elizabeth and Mary, sisters, in hope of resurrection."*
-- **Mary, Queen of Scots:** Resting in the south aisle beneath an elaborate white marble canopy commissioned by her son, James VI and I, deliberately constructed larger than Elizabeth's tomb across the aisle.
+- **The fan-vaulted ceiling:** stone pendants hanging from ribbed tracery.
+- **The Tomb of Elizabeth I and Mary I:** the half-sisters lie together in the north aisle beneath the inscription: *"Consorts in realm and tomb, here we sleep, Elizabeth and Mary, sisters, in hope of resurrection."*
+- **Mary, Queen of Scots:** in the south aisle, beneath a white marble canopy commissioned by her son, James VI and I.
 - **RAF Chapel:** At the far eastern end, featuring stained glass honouring the fighter squadrons of the 1940 Battle of Britain.
 
 <div data-stay-strip></div>
 
 ### 3. 10:15 to 10:45: The Quire, High Altar and the Cosmati Pavement
-Move back towards the centre of the Abbey to inspect the theatre of coronation:
-- **The Cosmati Pavement:** Located directly before the High Altar, this 1268 floor of marble, porphyry, and coloured glass was laid by Italian craftsmen for Henry III. It represents the universe and was uncovered for the 2023 Coronation of King Charles III.
-- **The Coronation Chair:** Dating from 1300 and constructed by order of Edward I to enclose the Scottish Stone of Destiny (Stone of Scone), it stands protected behind glass in St George's Chapel near the Great West Door.
+Move back towards the centre of the Abbey:
+- **The Cosmati Pavement:** in front of the High Altar, this 1268 floor of marble, porphyry and coloured glass was laid for Henry III. It was uncovered for the 2023 Coronation of King Charles III.
+- **The Coronation Chair:** made in 1300 for Edward I, it stands behind glass in St George's Chapel near the Great West Door.
 
 ### 4. 10:45 to 11:15: Poets' Corner (South Transept)
-Cross into the South Transept, known as **Poets' Corner**. Geoffrey Chaucer was the first writer buried here in 1400, not originally because of his poetry, but because he worked as Clerk of the King's Works in the Palace of Westminster.
+Cross into the South Transept, known as **Poets' Corner**. Geoffrey Chaucer, buried here in 1400, was the first writer to be.
 
 ![Carved marble monuments and wall memorials to British authors and playwrights in Poets' Corner](../../assets/articles/westminster-abbey-guide/poets-corner.jpg)
 
 *Poets' Corner. Photo: 14GTR (CC BY-SA 4.0).*
 
-In the 16th and 18th centuries, the transept evolved into the national pantheon of English literature:
 - **Burials:** Geoffrey Chaucer, Edmund Spenser, Charles Dickens, Alfred Lord Tennyson, Rudyard Kipling, and Thomas Hardy (his ashes; his heart was buried in his native Dorset).
 - **Memorials:** William Shakespeare (standing pointing to a scroll from *The Tempest*), Jane Austen, the Brontë sisters, John Keats, Percy Bysshe Shelley, and George Eliot.
 
 ### 5. 11:15 to 11:45: The Nave and the Grave of the Unknown Warrior
-Walk west down the soaring central nave. The Abbey's nave vaulting reaches 31 metres (102 feet), making it the highest Gothic vault in England.
+Walk west down the nave, whose vault reaches 31 metres (102 feet), the highest Gothic vault in England.
 
-Near the Great West Door sits the **Grave of the Unknown Warrior**, containing an unidentified British soldier brought from the battlefields of France in November 1920. It is the only floor tombstone in the entire building that nobody—not even visiting royalty—is permitted to walk upon. Beside it lie the memorial stones of Sir Isaac Newton, Charles Darwin, and Stephen Hawking.
+Near the Great West Door is the **Grave of the Unknown Warrior**, an unidentified British soldier brought from France in November 1920. Nobody is permitted to walk on it. Near it lie the memorial stones of Sir Isaac Newton, Charles Darwin and Stephen Hawking.
 
 ### 6. 11:45 to 12:15: The Cloisters, Chapter House and Pyx Chamber
-Most casual visitors exit through the gift shop and miss the monastic precinct entirely. Follow the signs leading through the south aisle into the **Great Cloisters**.
+Follow the signs through the south aisle into the **Great Cloisters**, which many visitors miss on the way to the shop.
 
 ![Medieval stone vaulted cloister walkway with traceried windows opening onto the lawn](../../assets/articles/westminster-abbey-guide/westminster-abbey-cloisters.jpg)
 
 *The West Cloister. Photo: Uwe Aranas / CEphoto (CC BY-SA 3.0).*
 
-- **The Chapter House:** Completed in 1250, this octagonal meeting chamber features 14th-century wall paintings of the Apocalypse and original medieval encaustic floor tiles. The House of Commons met here during the 14th century before relocating to St Stephen's Chapel.
-- **Britain's Oldest Door:** In the vestibule of the Chapter House sits an oak door constructed from wood felled in an Anglo-Saxon forest between 1032 and 1065, predating the Norman Conquest.
+- **The Chapter House:** completed in 1250, an octagonal chamber with 14th-century wall paintings of the Apocalypse and original medieval encaustic floor tiles.
+- **The oak door** in the Chapter House vestibule is made from wood felled between 1032 and 1065, before the Norman Conquest.
 - **The Pyx Chamber:** An 11th-century Norman vaulted undercroft that once served as the royal treasury and held the trial plates for verifying the purity of England's coinage.
 
 ---
@@ -146,27 +137,23 @@ Most casual visitors exit through the gift shop and miss the monastic precinct e
 
 ## The verger tour, and what it gets you
 
-Standard general admission tickets do not grant access to the most sacred part of Westminster Abbey: **the Shrine of St Edward the Confessor**.
-
-Located directly behind the High Altar on a raised earth mound, the shrine houses the golden tomb chest of the Anglo-Saxon king who founded the Abbey in 1065. Surrounded by the medieval tombs of Henry III, Edward I, Eleanor of Castile, and Henry V, the area is protected by heavy wooden screens and locked iron gates.
+General admission does not include the **Shrine of St Edward the Confessor**. It stands behind the High Altar, with the tomb of the king who founded the Abbey in 1065, surrounded by the tombs of Henry III, Edward I, Eleanor of Castile and Henry V.
 
 ### Why book it
-- **The only way in:** vergers hold the physical keys, and joining a verger tour is the only way general visitors can pass through the locked gate into the Confessor's chapel.
-- **Small groups:** tours are capped at 20 people, a break from the crowded general aisles.
-- **Commentary:** the tour covers history and architecture that the standard audio guide doesn't.
+- **The only way in:** the shrine is behind a locked gate, and a verger tour is the only way general visitors can pass through.
+- **Small groups:** up to 20 people, with commentary in English only.
+- **Route:** it also takes in Poets' Corner, the royal tombs, the Lady Chapel and the nave.
 
 ### How to book
-1. A verger tour costs your Abbey admission price plus **£10** — there's no separate child or concession rate.
-2. You can't book ahead, online or by phone. Sign up in person when you arrive; tours run Monday to Saturday. The Abbey's enquiry line, 020 7654 4832 (Monday to Friday, 9am to 5pm), can tell you what times are running but can't take a booking.
-3. Arrive with the morning intake and ask as soon as you're inside. Tours are first come, first served, last around 90 minutes, and take up to 20 people.
+1. A verger tour costs your Abbey admission price plus **£10**, with no separate child or concession rate.
+2. You can't book ahead, online or by phone. Sign up in person when you arrive; tours run Monday to Saturday. The Abbey's enquiry line, 020 7222 5152 (Monday to Friday, 9am to 5pm), can tell you what times are running 24 hours ahead but can't take a booking. When you book your Abbey ticket, choose an entry slot about 30 minutes before the tour is due to start.
+3. Arrive with the morning intake and ask as soon as you're inside. Tours last around 90 minutes and take up to 20 people.
 
 ---
 
 ## Choral Evensong, free to attend
 
-You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Evensong is sung every day it runs — Monday to Friday, and Saturday and Sunday — by the Choir of Westminster Abbey or, on Wednesdays, St Margaret's Choristers and Consort.
-
-Evensong is free to attend, and open to people of all faiths and none.
+You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Evensong is free to attend and is sung daily, by the Choir of Westminster Abbey or, on Wednesdays, St Margaret's Choristers and Consort.
 
 ### Evensong times
 - **Monday to Friday:** 17:00
@@ -175,11 +162,10 @@ Evensong is free to attend, and open to people of all faiths and none.
 <div data-stay-strip></div>
 
 ### How to attend
-1. **Queuing:** enter via the **Great West Door** on Broad Sanctuary, not the tourist entrance at the North Door, and queue outside before the service — arrive earlier for popular dates such as bank holidays and Advent.
-2. **Seating:** early arrivals are directed through the stone rood screen into the **Quire stalls** — the carved wooden seats occupied by the collegiate body and monarchs during state services. Late arrivals are seated in the open nave.
-3. **What you can see:** the high Gothic nave, the organ, the choir screen, and the illuminated quire.
-4. **What you cannot do:** Evensong is an act of religious worship, not a sightseeing tour. You cannot roam the church, visit the royal tombs, or enter Poets' Corner before or after the service. Security marshals escort the congregation out through the Great West Door at the end.
-5. **Rules:** keep silent, and no photography or video during the service.
+1. **Queuing:** enter via the **Great West Door** on Broad Sanctuary, not the tourist entrance at the North Door, and queue outside before the service. Arrive earlier for popular dates such as bank holidays and Advent.
+2. **Seating:** early arrivals are directed through the stone rood screen into the **Quire stalls**; late arrivals are seated in the open nave.
+3. **What you cannot do:** roam the church, visit the royal tombs or enter Poets' Corner before or after the service. Marshals escort the congregation out through the Great West Door at the end.
+4. **Rules:** keep silent, and no photography or video during the service.
 
 ---
 
@@ -187,7 +173,7 @@ Evensong is free to attend, and open to people of all faiths and none.
 
 ### Opening hours and the Sunday closure
 - **Monday to Friday:** 09:30–15:30.
-- **Saturday:** 09:00–16:00, last entry 15:00. As a working church, the Abbey sometimes closes earlier for weddings and other services — several Saturdays in autumn 2026 end as early as 13:00 — so check the Abbey's own [entry times calendar](https://www.westminster-abbey.org/visit-us/opening-times-and-prices/) for your date before you travel.
+- **Saturday:** 09:00–16:00, last entry 15:00. As a working church, the Abbey sometimes closes early for weddings and other services (some Saturdays close at 13:00), so check the Abbey's own [entry times calendar](https://www.westminster-abbey.org/visit-us/opening-times-and-prices/) for your date before you travel.
 - **Sunday:** closed to tourist sightseeing. Open for worship only, at 08:00 (Holy Communion), 10:00 (Matins), 11:15 (Sung Eucharist) and 15:00 (Evensong).
 
 ### Nearest tube and rail stations
@@ -211,11 +197,11 @@ Evensong is free to attend, and open to people of all faiths and none.
 
 ## Common mistakes to avoid
 
-1. **Turning up on a Sunday expecting tourist admission:** visitors turn up every Sunday morning with cameras, only to be told that sightseeing is closed and only worshippers attending services may enter.
-2. **Missing the Cloisters and Chapter House:** the visitor route naturally directs people toward the shop exit in the South Transept. Look for the cloister archway; the Chapter House contains some of the oldest wall paintings and floor tiles in Britain.
-3. **Skipping the verger tour if you want royal history:** it's the only way to the shrine of Edward the Confessor, the anchor the entire building was built around — and you can't book it ahead, only ask on arrival.
-4. **Waiting until midday to visit:** coach tours and school groups fill the ambulatory through late morning and early afternoon, and the narrow passages around the royal tombs slow to a shuffle. Book the first slot of the morning, or aim for mid-afternoon instead.
-5. **Paying for third-party audio guides:** your admission ticket already includes the handheld multimedia guide, available in multiple languages — there's no need to pay for a separate downloadable guide.
+1. **Turning up on a Sunday expecting tourist admission:** sightseeing is closed and only worshippers attending services may enter.
+2. **Missing the Cloisters and Chapter House:** the visitor route leads to the shop exit in the South Transept. Look for the cloister archway.
+3. **Skipping the verger tour if you want the shrine:** you can't book it ahead, only ask on arrival.
+4. **Waiting until midday:** coach tours and school groups fill the ambulatory through late morning and early afternoon. Book the first slot of the morning, or aim for mid-afternoon.
+5. **Paying for third-party audio guides:** admission includes the handheld multimedia guide, in multiple languages.
 
 ---
 
@@ -224,7 +210,7 @@ Evensong is free to attend, and open to people of all faiths and none.
 - 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — tickets, the quieter afternoon, the Crown Jewels and the Norman White Tower.
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — the Abbey's Christmas concert and when carol service tickets are released.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — how to combine Westminster Abbey with Whitehall, Covent Garden, and South Bank.
-- 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — a mathematical analysis of when the pass pays for itself and when it loses money.
+- 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — when the pass pays for itself and when it loses money.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — free museums, off-peak transport fares, and cheap dining across Zone 1.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic boat travel from Westminster Millennium Pier to the Tower and Greenwich.
 - ♿ **[Step-Free London](/articles/step-free-london/)** — the Abbey's step-free doors and the parts of the route with steps, plus free companion entry.
