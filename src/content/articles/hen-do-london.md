@@ -3,7 +3,7 @@ title: "Hen Do in London (2026): Activities, Prices, Where to Stay and How to Pl
 seoTitle: "Hen Do London 2026: Real Prices, Rules & Where to Stay"
 description: "Three London cocktail bars refuse hen parties outright, Flight Club will not take fewer than six on a Saturday, and a speedboat for twelve costs less per head than a public sailing. Priced from the operators' own sites."
 publishedAt: 2026-06-03
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
 sites:
   - london
 canonicalSite: london
@@ -55,7 +55,7 @@ Prices are per person for a group of twelve, from each operator's own booking pa
 | Bottomless brunch, Electric Shuffle | £38 | 2 hours | 2 to 32 | 3 weeks |
 | Bottomless brunch, Ballie Ballerson | £45 Thu/Sun, £65 Sat | 90 mins | £300 min spend at 16 | 3 weeks |
 | Fairground games, Fairgame City | £22 off-peak, £25 prime | 90 mins | 1 to 15 online | 3 weeks |
-| Crystal Maze LIVE, Piccadilly Circus | £26.50–£58 | 75 mins | Teams of 8 | 4 weeks |
+| Crystal Maze LIVE, Piccadilly Circus | From £47 | 75 mins | Teams of 8 | 4 weeks |
 | Escape room, Mission: Breakout, Camden | From £28 | 60 mins | 3–6 a room, 18 max | 4 weeks |
 | Karaoke package, BAM Victoria | £45 (£62.50 with food) | 2 hours | 4 to 40 | 4 weeks |
 | Speedboat charter, Thames Rockets | £57.92 for 12 | 60 mins | 8 to 12 | 4 weeks |
@@ -101,11 +101,11 @@ The grand hotels run £75 to well over £100 a head, and for twelve people that 
 
 ### Immersive games
 
-**The Crystal Maze LIVE Experience at Piccadilly Circus is £26.50 to £58** for about 75 minutes on your feet, in teams of up to eight — so a twelve splits into two teams. It also prohibits participation at any stage of pregnancy, and enforces a minimum age of nine.
+**The Crystal Maze LIVE Experience at Piccadilly Circus is from £47** for about 75 minutes on your feet, in teams of up to eight — so a twelve splits into two teams. It also prohibits participation at any stage of pregnancy, and enforces a minimum age of nine.
 
 **Race Across The World: The Experience** is the underrated one: **£35 an adult with no booking fee**, teams of two to eight playing privately, two to three hours and about five kilometres on foot around the City with no public transport allowed. It is a walking tour that does not feel like one, and it costs less than most brunches.
 
-**Monopoly Lifesized in Fitzrovia is from £54**, teams cap at six, and it has the strictest arrival rule in London: **no latecomers at all**. With twelve people and one taxi running late, that is a real risk.
+**Monopoly Lifesized in Fitzrovia is from £54 and closes in January 2027**. Teams cap at six, and it has the strictest arrival rule in London: **no latecomers at all**. With twelve people and one taxi running late, that is a real risk.
 
 ---
 
