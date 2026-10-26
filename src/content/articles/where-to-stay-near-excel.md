@@ -3,8 +3,8 @@ title: "Where to Stay Near ExCeL London: Hotels by Entrance, and the Last Train 
 seoTitle: "Hotels Near ExCeL London: Where to Stay by Entrance"
 description: "Hotels for a show, convention or conference at ExCeL London, sorted by the entrance they suit: Western Gateway by Custom House, the east end by Prince Regent and the ICC, Canary Wharf and Woolwich one stop away, and the budget chains. With the last trains back after an evening event."
 publishedAt: 2026-06-23
-updatedAt: 2026-10-07
-reviewBy: 2026-12-12
+updatedAt: 2026-10-26
+reviewBy: 2027-01-25
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -25,9 +25,9 @@ faq:
     a: "Holiday Inn Express London – ExCeL has family rooms for two adults and two children under 12, with breakfast included. Premier Inn London Docklands (ExCeL) and Travelodge London ExCeL both have family rooms, and at the Travelodge up to two children eat breakfast for £1 each per paying adult. Good Hotel London is the one to avoid with children: every room sleeps two."
 ---
 
-ExCeL is a single building nearly a kilometre long, with a station at each end: **Custom House** (Elizabeth line and DLR) by the West Entrance, and **Prince Regent** (DLR only) by the East Entrance and the ICC conference suites. The two entrances are about 600 metres apart inside, so the first thing to settle is which end your event uses. MCM Comic Con, for one, sends everyone to its queue hall from Custom House. Our [ExCeL London guide](/articles/excel-london-guide/) covers the stations, parking and bag rules; this page covers where to sleep.
+ExCeL is a single building nearly a kilometre long, with a station at each end: **Custom House** (Elizabeth line and DLR) by the West Entrance, and **Prince Regent** (DLR only) by the East Entrance and the ICC conference suites. The two entrances are about 600 metres apart inside, so settle which end your event uses first. Our [ExCeL London guide](/articles/excel-london-guide/) covers the stations, parking and bag rules; this page covers where to sleep.
 
-> 💡 **The Short Version:** For a show at the **West Entrance**, including **MCM Comic Con**, stay on **Western Gateway**: the **ibis London ExCeL Docklands** is two minutes' walk from the venue and was **£76** on an October Sunday and **£185** on an October Saturday. For the **East Entrance and the ICC**, **Aloft London ExCeL** is a minute away at about **£115**, with an indoor pool. One stop from Custom House, **Canary Wharf** is **3 minutes** on the Elizabeth line and **Woolwich** **4**. The cheapest night in our budget hotels guide, **£34.99** on an October Sunday, was at **Travelodge London Docklands Central**, six minutes from Custom House by DLR. After an evening event, the last Elizabeth line train west leaves Custom House at **00:05**, or **22:35** on a Sunday. Neither the Elizabeth line nor the DLR runs all night, but the **N551** night bus leaves Custom House every half hour.
+> 💡 **The Short Version:** For a show at the **West Entrance**, including **MCM Comic Con**, stay on **Western Gateway**: the **ibis London ExCeL Docklands** is two minutes' walk from the venue and was **£76** on an October Sunday and **£185** on an October Saturday. For the **East Entrance and the ICC**, **Aloft London ExCeL** is a minute away at about **£115**, with an indoor pool. One stop from Custom House, **Canary Wharf** is **3 minutes** on the Elizabeth line and **Woolwich** **4**. The cheapest night in our budget hotels guide, **£34.99** on an October Sunday, was at **Travelodge London Docklands Central**, six minutes from Custom House by DLR. After an evening event, the last Elizabeth line train west leaves Custom House at **00:05**, or **22:35** on a Sunday; the **N551** night bus leaves every half hour after that.
 >
 > **Three picks:** [ibis London ExCeL Docklands](hotelscom:215235) (£, £76 on an October Sunday, two minutes from ExCeL) · [Aloft London ExCeL](hotel:aloft-london-excel) (££, about £115, indoor pool beside the East Entrance) · [Sunborn London](hotelscom:463416) (£££, about £160, a moored superyacht on the dock).
 
@@ -45,19 +45,17 @@ ExCeL is a single building nearly a kilometre long, with a station at each end: 
 | **Greenwich Peninsula** | North Greenwich | Cable car, or Jubilee and DLR | **00:33** (Sunday 23:33) | The cable car shuts at 21:00 most nights |
 | **Central London** | Liverpool Street, Tottenham Court Road, Paddington | Elizabeth line, 10–23 min | **00:05** (Sunday 22:35) | The early Sunday finish |
 
-*Train times and last trains from ExCeL's stations are from TfL's Journey Planner and timetables, for October 2026.*
-
 ## West Entrance: Western Gateway and Custom House
 
 The west-end hotels are on Western Gateway, along Royal Victoria Dock between Royal Victoria DLR and ExCeL. Custom House, for the Elizabeth line, is about 200 metres from the West Entrance. This is the end for MCM Comic Con and the west halls.
 
-Prices here follow ExCeL's calendar, so check [what's on at ExCeL](/articles/exhibitions-conventions-london/) for your dates before you book.
+Prices follow ExCeL's calendar: check [what's on at ExCeL](/articles/exhibitions-conventions-london/) for your dates before you book.
 
 ### ibis London ExCeL Docklands — two minutes from ExCeL, with dock-view rooms
 
 *£76–£185 on our five sampled nights · 9 Western Gateway, E16 1AB · ExCeL 2 min, Custom House 6 min · [Hotels.com](hotelscom:215235)*
 
-A waterside ibis on Western Gateway, two minutes' walk from ExCeL. The rooms are doubles and twins with ibis's own Sweet Bed, a power shower and a 43-inch TV; the Riverside Premium rooms face the dock. It has its own restaurant and bar. Across the five nights our [budget hotels guide](/articles/best-budget-hotels-london/) priced, it was **£76** on the October Sunday and **£185** on the October Saturday. Parking is **£30 for 24 hours**.
+Two minutes' walk from ExCeL. The doubles and twins have a power shower and a 43-inch TV; the Riverside Premium rooms face the dock. There is a restaurant and bar. Across the five nights our [budget hotels guide](/articles/best-budget-hotels-london/) priced, it was **£76** on the October Sunday and **£185** on the October Saturday. Parking is **£30 for 24 hours**.
 
 <div class="photo-row">
 
@@ -71,7 +69,7 @@ A waterside ibis on Western Gateway, two minutes' walk from ExCeL. The rooms are
 
 *7 Western Gateway, E16 1AA · Royal Victoria DLR 2 min, Custom House 3 min · [Hotels.com](hotelscom:h992650)*
 
-Next to the ibis on Western Gateway. Upper Deck, its restaurant and bar, has a terrace over Royal Victoria Dock, and there's a gym, 12 meeting rooms and a car park. **For a family, book a room with a sofa bed**: the Standard and Superior rooms come with a queen bed plus a convertible sofa. Custom House, for the Elizabeth line, is three minutes' walk.
+Next to the ibis on Western Gateway. Upper Deck, its restaurant and bar, has a terrace over Royal Victoria Dock, and there's a gym and a car park. **For a family, book a room with a sofa bed**: the Standard and Superior rooms come with a queen bed plus a convertible sofa. Custom House, for the Elizabeth line, is three minutes' walk.
 
 <div class="photo-row">
 
@@ -85,7 +83,7 @@ Next to the ibis on Western Gateway. Upper Deck, its restaurant and bar, has a t
 
 *£75–£153 on our five sampled nights · Western Gateway, E16 1FA · Royal Victoria DLR 3 min · [Hotels.com](hotel:good-hotel-london)*
 
-A former floating platform, refitted and towed across the North Sea, now moored at the west end of the dock with water on three sides. The rooms are Dutch-designed, with walk-in rain showers; the standard Good Room is 13 m², with no television or minibar. **Every room sleeps two**, so it suits couples and solo travellers, not families. The roof bar looks out over the dock, and the hotel's surplus profits go to a foundation. It was **£75** on the October Sunday and **£150 to £153** on three of the five nights.
+Moored at the west end of the dock with water on three sides. The rooms have walk-in rain showers; the standard Good Room is 13 m², with no television or minibar. **Every room sleeps two**, so it suits couples and solo travellers, not families. The roof bar looks out over the dock. It was **£75** on the October Sunday and **£150 to £153** on three of the five nights.
 
 <div class="photo-row">
 
@@ -119,7 +117,7 @@ Prince Regent is about 200 metres from the East Entrance, which is also the way 
 
 *About £115 · Eastern Gateway, E16 1FR · Prince Regent DLR 2 min · [Hotels.com](hotel:aloft-london-excel)*
 
-Marriott's design brand, at the east end of ExCeL, a minute's walk from the East Entrance and the ICC. It has an **indoor pool**, and some rooms sleep three. For a west-hall show it's a walk of about 600 metres through the building, or one DLR stop from Prince Regent to Custom House.
+At the east end of ExCeL, a minute's walk from the East Entrance and the ICC. It has an **indoor pool**, and some rooms sleep three. For a west-hall show it's a walk of about 600 metres through the building, or one DLR stop from Prince Regent to Custom House.
 
 <div class="photo-row">
 
@@ -133,7 +131,7 @@ Marriott's design brand, at the east end of ExCeL, a minute's walk from the East
 
 *2 Festoon Way, Royal Victoria Dock, E16 1SJ · Prince Regent DLR 6 min · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-docklands-excel.html)*
 
-Premier Inn's hotel for ExCeL, with doubles, twins, family and accessible rooms, all air-conditioned. The Premier Plus doubles add a coffee machine, a mini-fridge and faster Wi-Fi. The Social, its restaurant and bar, is open 24 hours, which suits a late finish, and check-in is at a kiosk with the QR code from your booking.
+Doubles, twins, family and accessible rooms, all air-conditioned; Premier Plus doubles add a coffee machine, a mini-fridge and faster Wi-Fi. The Social, its restaurant and bar, is open 24 hours, which suits a late finish. Check-in is at a kiosk with the QR code from your booking.
 
 ![A room at Premier Inn London Docklands (ExCeL) with a double bed, a single bed by the window and a desk](../../assets/articles/where-to-stay-near-excel/premier-inn-london-docklands-excel-room.jpg)
 
@@ -159,7 +157,7 @@ Canary Wharf and Woolwich are one Elizabeth line stop either side of Custom Hous
 
 *About £200 · 22 Hertsmere Road, West India Quay, E14 4ED · Elizabeth line 3 min, then 3 min to Custom House · [Hotels.com](hotel:london-marriott-canary-wharf)*
 
-The curved glass tower at the end of West India Quay, with floor-to-ceiling windows over the dock, a 24-hour gym with a sauna, and afternoon tea in G&Tea, its gin bar. The Elizabeth line station, one stop from ExCeL, is three minutes' walk. Guests must be 18 to check in, and there's no hotel car park. Our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) has the rest of the estate's hotels.
+A glass tower at the end of West India Quay, with a 24-hour gym and sauna, and afternoon tea in G&Tea, its gin bar. The Elizabeth line station, one stop from ExCeL, is three minutes' walk. Guests must be 18 to check in, and there's no hotel car park. Our [Canary Wharf hotel guide](/articles/where-to-stay-canary-wharf/) has the rest of the estate's hotels.
 
 ### Novotel London Canary Wharf — a pool, a rooftop bar and suites for four
 
@@ -193,7 +191,7 @@ Woolwich is the Elizabeth line's next stop east from Custom House, four minutes 
 
 *£99–£199 on our five sampled nights · 86 Great Eastern Road, E15 1GR · Stratford 3 min · [Hotels.com](hotelscom:626428768)*
 
-Marriott's Moxy brand, three minutes' walk from Stratford station. The cheapest room on all five of our nights was a double with one queen bed: **£99** on the October Sunday, **£143 to £199** on the Saturdays. To ExCeL it's the Jubilee to Canning Town and the DLR on, about ten minutes on the trains with a change. Our [Stratford area guide](/articles/stratford-area-guide/) covers the neighbourhood.
+Three minutes' walk from Stratford station. The cheapest room on all five of our nights was a double with one queen bed: **£99** on the October Sunday, **£143 to £199** on the Saturdays. To ExCeL it's the Jubilee to Canning Town and the DLR on, about ten minutes on the trains with a change. Our [Stratford area guide](/articles/stratford-area-guide/) covers the neighbourhood.
 
 ### Premier Inn London Stratford — family rooms inside Westfield
 
@@ -207,7 +205,7 @@ Inside the Westfield Stratford City development, with family rooms in which two 
 
 *About £95 · Bugsby's Way, Greenwich Peninsula · North Greenwich 15 min · [Hotels.com](hotel:holiday-inn-express-greenwich-peninsula)*
 
-On the peninsula south of The O2, with **breakfast included**, family rooms and parking at £35 a day. By day, the cable car crosses from the peninsula to the Royal Docks, a short walk from ExCeL's west end, in about ten minutes. It closes at **21:00** most nights, **22:00** on Friday and **23:00** on Saturday, so after an evening event it's the DLR to Canning Town, one Jubilee stop to North Greenwich and the walk. It suits a trip that includes a show at The O2: our [O2 hotel guide](/articles/where-to-stay-near-the-o2/) compares the peninsula with the other bases, and our [Greenwich hotel guide](/articles/where-to-stay-greenwich/) covers the town and the Cutty Sark side.
+On the peninsula south of The O2, with **breakfast included**, family rooms and parking at £35 a day. By day, the cable car crosses from the peninsula to the Royal Docks, a short walk from ExCeL's west end, in about ten minutes. It closes at **21:00** most nights, **22:00** on Friday and **23:00** on Saturday, so after an evening event it's the DLR to Canning Town, one Jubilee stop to North Greenwich and the walk. For a trip that includes a show at The O2, our [O2 hotel guide](/articles/where-to-stay-near-the-o2/) compares the peninsula with the other bases; our [Greenwich hotel guide](/articles/where-to-stay-greenwich/) covers the town and the Cutty Sark side.
 
 <div class="photo-row">
 
@@ -257,7 +255,7 @@ On Dockside Road by Royal Albert, one DLR stop from Prince Regent. Every double 
 
 ## Getting back after an evening event
 
-The Elizabeth line and the DLR both stop overnight, every night of the week, and the cable car closes before most evening events end.
+Neither the Elizabeth line nor the DLR runs all night, and the cable car closes before most evening events end.
 
 | From ExCeL | To | Mon–Sat | Sunday |
 | --- | --- | --- | --- |
@@ -267,9 +265,9 @@ The Elizabeth line and the DLR both stop overnight, every night of the week, and
 | **Prince Regent, DLR east** | Royal Albert | **01:00** | **00:10** |
 | **Night bus N551, from Custom House** | Canning Town, Poplar, Aldgate, Bank, Trafalgar Square | Every 30 min, about 23:36 to 06:07 | Every 30 min |
 
-*From TfL's Journey Planner and bus timetables, checked 29 September 2026 for October dates. Engineering works change these, so check your own date.*
+*Engineering works change these times, so check TfL's Journey Planner for your date.*
 
-- **Sunday is the trap.** The last Elizabeth line train west leaves Custom House at 22:35, an hour and a half before the weekday one.
+- **On Sunday** the last Elizabeth line train west leaves Custom House at 22:35, an hour and a half earlier than on other nights.
 - **After the last Elizabeth line train**, the DLR to Poplar runs until 00:33, and Canary Wharf's hotels are a walk from there.
 - **On Friday and Saturday nights** the Jubilee runs all night from Canning Town, to Stratford one way and Canary Wharf, London Bridge and Westminster the other. The N551 gets you to Canning Town once the DLR has stopped.
 - **Leaving from the east end**, Prince Regent's DLR takes you one stop to Custom House for the Elizabeth line.
@@ -284,4 +282,4 @@ The Elizabeth line and the DLR both stop overnight, every night of the week, and
 
 For the rest of the trip, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for, and the [MCM Comic Con guide](/articles/mcm-comic-con-london/) covers tickets, queues and cosplay rules. Flying from London City Airport, near ExCeL's east end? Our [City Airport guide](/articles/london-city-airport-to-london/) has the routes.
 
-*Sampled prices are the cheapest double for two on five nights between October 2026 and April 2027, taxes included, from our budget hotels and Canary Wharf guides; "about" prices are typical nightly rates, checked September 2026. Hotel facts are from each operator's own site, September 2026.*
+*Sampled prices are the cheapest double for two on five nights between October 2026 and April 2027, taxes included, from our budget hotels and Canary Wharf guides; "about" prices are typical nightly rates.*
