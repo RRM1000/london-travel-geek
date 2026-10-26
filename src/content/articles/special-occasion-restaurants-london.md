@@ -5,7 +5,8 @@ description: "All six of London's three-Michelin-star restaurants, the rooms wor
 heroImage: "../../assets/articles/special-occasion-restaurants-london/rules-exterior.jpg"
 heroImageAlt: "A vintage green Rolls-Royce parked outside Rules restaurant in Covent Garden, beneath red awnings reading Rules, Est 1798"
 publishedAt: 2026-06-25
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -17,20 +18,18 @@ faq:
   - q: "How far ahead do I need to book?"
     a: "Months for the three-star rooms and for River Café's terrace. Weeks for most one-star restaurants. Sushi Tetsu releases seven seats in batches and they go in minutes."
   - q: "What is the cheapest way to eat at a Michelin-starred restaurant in London?"
-    a: "Lunch, and the gap is bigger than most people expect. Pied à Terre runs a three-course set lunch at £35, which is the cheapest verified route into a Michelin-starred London dining room. Restaurant Gordon Ramsay's set lunch is £125 against £180 à la carte, and The Ledbury's six-course lunch is £220 against £295 at dinner."
+    a: "Lunch, and the gap is bigger than most people expect. Chez Bruce's weekday set lunch is £48.50 for three courses, and Pied à Terre's anniversary lunch is £49.50 until 14 November 2026. Restaurant Gordon Ramsay's set lunch is £125 against £180 à la carte, and The Ledbury's six-course lunch is £220 against £295 at dinner."
   - q: "Which London restaurant is best for a proposal?"
-    a: "Clos Maggiore in Covent Garden is regularly called the most romantic room in London — a blossom-covered conservatory with a fire. Book the conservatory specifically, well ahead, and say why."
+    a: "Clos Maggiore in Covent Garden: a blossom-covered conservatory with a fire. Book the conservatory specifically, well ahead, and say why."
   - q: "Is Dinner by Heston still open?"
-    a: "It is trading now but closes in January 2027 when its Knightsbridge lease ends. If you want to eat there, this is the year."
+    a: "It is trading now but closes in January 2027 when its Knightsbridge lease ends."
 ---
 
 London has **six three-Michelin-star restaurants** in the 2026 guide, and a second tier of rooms where the building does as much work as the kitchen.
 
-This guide separates the two, because a milestone dinner and a spectacular room are different bookings.
+> 💡 **The Short Version:** **Restaurant Gordon Ramsay** has held three stars since 2001, longer than anywhere else in London. **Core** is Clare Smyth's. **River Café's terrace** takes months. **Clos Maggiore** is the room to book for a proposal. And **Dinner by Heston closes in January 2027.**
 
-> 💡 **The Short Version:** **Restaurant Gordon Ramsay** has held three stars since 2001, longer than anywhere else in London. **Core** is Clare Smyth's. **River Café's terrace** takes months. **Clos Maggiore** is the room to book for a proposal. And **Dinner by Heston closes in January 2027**, so this is the year.
-
-*No paid placements. Booking windows are what the restaurants themselves publish, and they are the thing most likely to catch you out.*
+*No paid placements.*
 
 ## Where they are
 
@@ -51,17 +50,15 @@ This guide separates the two, because a milestone dinner and a spectacular room 
 
 ## The three-star rooms
 
-All six, which is the whole list for London.
-
 ### Restaurant Gordon Ramsay, Chelsea
 
 *££££ · 68 Royal Hospital Road · book months ahead*
 
-**Three stars held continuously since 2001** — the longest-running three-star restaurant in London. A small Chelsea dining room, not a grand one; the reputation is entirely the cooking.
+**Three stars held continuously since 2001**, the longest run in London. A small Chelsea dining room.
 
-**Closed Sunday and Monday**, and bookings open well ahead and go. **The lunch menu is the cheapest way in** by a distance, and it is the same kitchen.
+**Closed Sunday and Monday**, and bookings open well ahead and go. **The lunch menu is the cheapest way in**, from the same kitchen.
 
-A quiet room rather than a scene — which counts if you are choosing between this and somewhere with more theatre. Fourteen minutes from Sloane Square, which is further than it sounds.
+A quiet room rather than a scene. Fourteen minutes from Sloane Square.
 
 ![A small dining room at Restaurant Gordon Ramsay, with pink-grey upholstered chairs and round tables laid for service](../../assets/articles/special-occasion-restaurants-london/restaurant-gordon-ramsay-dining-room.jpg)
 
@@ -71,13 +68,13 @@ A quiet room rather than a scene — which counts if you are choosing between th
 
 *££££ · book months ahead*
 
-Smyth was the first British woman to run a three-star kitchen, and the cooking is built on British produce, not French technique — which is the distinction between this and the Mayfair three-stars.
+Smyth was the first British woman to run a three-star kitchen, and the cooking is built on British produce rather than French technique.
 
-**Two dishes carry the argument.** The **"potato and roe"** — a single charlotte potato cooked for hours, dressed in trout roe and a dulse beurre blanc — and **"core apple"**, a dessert built to look exactly like an apple. Both have been on since it opened and both are ordered by almost every table.
+**Two signature dishes.** The **"potato and roe"** — a single charlotte potato cooked for hours, dressed in trout roe and a dulse beurre blanc — and **"core apple"**, a dessert built to look exactly like an apple. Both have been on since it opened.
 
 **Closed Sunday and Monday.** Reservations open on a rolling window and go the day they release.
 
-**92 Kensington Park Road, W11 2PN**, nine minutes from Holland Park, in a residential street, not a hotel — and The Ledbury is five minutes away, which puts two three-star kitchens on the same walk.
+**92 Kensington Park Road, W11 2PN**, nine minutes from Holland Park, in a residential street, not a hotel. The Ledbury is five minutes away.
 
 ![The black front door of Core by Clare Smyth at number 92, with a red Michelin 2026 plaque mounted beside it](../../assets/articles/special-occasion-restaurants-london/core-by-clare-smyth-entrance.jpg)
 
@@ -89,13 +86,13 @@ Smyth was the first British woman to run a three-star kitchen, and the cooking i
 
 Classical French haute cuisine, including the **Table Lumière** — a private table for six ringed by a curtain of fibre optics.
 
-**Ask about the Table Lumière specifically when you book** — it is not offered by default, and it is why most people choose this over the other three-stars.
+**Ask about the Table Lumière specifically when you book**; it is not offered by default.
 
-**What arrives is classical French at the top of the range**: the **sauté gourmand of lobster** with truffled chicken quenelles has been a fixture for years, and the **baba au rhum**, wheeled over and finished at the table with your choice of rum, is the dessert everyone remembers.
+**Two long-standing dishes:** the **sauté gourmand of lobster** with truffled chicken quenelles, and the **baba au rhum**, wheeled over and finished at the table with your choice of rum.
 
 **Jacket preferred and no sportswear**, so dress for it.
 
-**Closed Sunday and Monday, and it books months ahead.** It sits inside The Dorchester at **53 Park Lane, W1K 1QA**, so the room is the hotel's rather than the restaurant's own, about seven minutes from Hyde Park Corner.
+**Closed Sunday and Monday, and it books months ahead.** It sits inside The Dorchester at **53 Park Lane, W1K 1QA**, about seven minutes from Hyde Park Corner.
 
 ![Round tables laid for dinner at Alain Ducasse at The Dorchester, with a curtain of fine lit strands behind them](../../assets/articles/special-occasion-restaurants-london/alain-ducasse-dining-room.jpg)
 
@@ -105,11 +102,11 @@ Classical French haute cuisine, including the **Table Lumière** — a private t
 
 *££££ · Carlos Place*
 
-Three stars for cooking rooted in Darroze's native Landes — **regional French at the very top end**, which London has almost none of. The third star came in 2021.
+Three stars for cooking rooted in Darroze's native Landes  — **regional French**. The third star came in 2021.
 
-**What that means on the plate** is south-western French produce treated seriously: Landes chicken, foie gras, Périgord truffle in season, and a tasting menu built around named growers, not techniques.
+**The cooking is south-western French:** Landes chicken, foie gras, Périgord truffle in season, and a tasting menu built around named growers.
 
-**Book months ahead**, and note it sits inside The Connaught — so the Connaught Bar is downstairs, takes no reservations at any hour, and mixes its martini at your table from a trolley for £30. A drink there before dinner is the obvious pairing and the only part of the evening you cannot reserve.
+It sits inside The Connaught, whose bar is downstairs, takes no reservations and mixes its martini at your table from a trolley for £30.
 
 **Closed Sunday and Monday, and it books months ahead.** Inside The Connaught at **Carlos Place, W1K 2AL**, about eight minutes from Bond Street.
 
@@ -121,13 +118,13 @@ Three stars for cooking rooted in Darroze's native Landes — **regional French 
 
 *££££*
 
-Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and it took its **third Michelin star in 2024** — the fastest return to the top of the guide of any London restaurant in recent memory.
+Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and it took its **third Michelin star in 2024**.
 
-**It grows its own mushrooms**, and that is not a garnish detail: the kitchen runs its own mushroom farm and a deer park supplies the venison, so the menu is built backwards from what the estate produces. Expect game in autumn and a lot of British produce you will not see elsewhere.
+**It grows its own mushrooms:** the kitchen runs its own mushroom farm and a deer park supplies the venison. Expect game in autumn.
 
-**Closed Sunday and Monday, and it books months ahead.** This is one of the hardest tables in London and there is no walk-in alternative.
+**Closed Sunday and Monday, and it books months ahead.** There is no walk-in alternative.
 
-**127 Ledbury Road, W11 2AQ**, nine minutes from Westbourne Park and ten from Notting Hill Gate — and Core by Clare Smyth, also three stars, is a five-minute walk away.
+**127 Ledbury Road, W11 2AQ**, nine minutes from Westbourne Park and ten from Notting Hill Gate. Core by Clare Smyth is a five-minute walk away.
 
 ![The dark green frontage of The Ledbury on Ledbury Road, with its name lettered on the awning](../../assets/articles/special-occasion-restaurants-london/the-ledbury-exterior.jpg)
 
@@ -137,11 +134,9 @@ Brett Graham reopened it in 2022 with a tighter focus on British sourcing, and i
 
 *££££*
 
-Pierre Gagnaire's London expression, on Conduit Street. The rest of Sketch — the Gallery, the egg lavatories — is a separate and cheaper experience in the same building, which makes it the one three-star address where you can have a version of the evening without the tasting menu.
+Pierre Gagnaire's London restaurant, on Conduit Street.
 
-> 💡 **Sketch publishes no prices anywhere on its site.** They appear only once you are inside the booking flow.
-
-**Books weeks rather than months ahead**, which makes it the most gettable of the three-star rooms, and it is six minutes from Oxford Circus. The Gallery downstairs takes bookings separately, so if the Lecture Room is beyond the budget, the pink room and the egg-shaped lavatories are a cheaper way into the same building.
+**Books weeks rather than months ahead** and is six minutes from Oxford Circus. The Gallery takes bookings separately and is a cheaper way into the same building.
 
 ![The Georgian stone frontage of sketch on Conduit Street, with a small red sketch sign beside the door](../../assets/articles/special-occasion-restaurants-london/sketch-exterior.jpg)
 
@@ -157,7 +152,7 @@ Pierre Gagnaire's London expression, on Conduit Street. The rest of Sketch — t
 
 *££££ · two stars · closing January 2027*
 
-Dishes rebuilt from British historical recipes as far back as the fourteenth century, each one dated on the menu — the **Meat Fruit (c.1500)**, a chicken liver parfait moulded and glazed to look exactly like a mandarin, is the one everybody orders and the one to order.
+Dishes rebuilt from British historical recipes as far back as the fourteenth century, each one dated on the menu — the **Meat Fruit (c.1500)**, a chicken liver parfait moulded and glazed to look exactly like a mandarin, is the signature.
 
 ![The Meat Fruit at Dinner by Heston Blumenthal, a chicken liver parfait moulded and glazed to look like a mandarin, served on a board with grilled sourdough](../../assets/articles/special-occasion-restaurants-london/dinner-by-heston-blumenthal-meat-fruit.jpg)
 
@@ -167,7 +162,7 @@ Dishes rebuilt from British historical recipes as far back as the fourteenth cen
 
 **Ask for a table on the park side.** The dining room looks over Hyde Park, and the kitchen's glass-walled pineapple spit is visible from parts of the room.
 
-> ⚠️ **Confirmed closing in January 2027** when the Knightsbridge lease ends. If you have been meaning to go, this is the year.
+> ⚠️ **Closing in January 2027** when the Knightsbridge lease ends.
 
 **Closed Tuesdays** and books months ahead. It is inside the Mandarin Oriental, two minutes from Knightsbridge station.
 
@@ -181,15 +176,15 @@ Where the building is the occasion.
 
 *£££ · the conservatory*
 
-Regularly called **the most romantic room in London** — a blossom-covered conservatory with a fire and a retractable roof, and the blossom is real, not a print.
+A **blossom-covered conservatory** with a fire and a retractable roof; the blossom is real, not a print.
 
-The cooking is Provençal and northern Italian: **rack of lamb, hand-made pasta, a long French wine list** that runs to several hundred bins. The cooking is very good, but the room is what people book for, and the kitchen knows it.
+The cooking is Provençal and northern Italian: **rack of lamb, hand-made pasta, a long French wine list** that runs to several hundred bins.
 
 ![A rack of lamb with charred greens, tomato and a herbed sauce at Clos Maggiore](../../assets/articles/special-occasion-restaurants-london/clos-maggiore-rack-of-lamb.jpg)
 
 *Rack of lamb at Clos Maggiore.*
 
-> 💡 **Book the conservatory specifically and say why.** The restaurant has several rooms and only one of them is the one in the photographs — asking for the conservatory, and mentioning the occasion, is the difference between a good dinner and the one people remember.
+> 💡 **Book the conservatory specifically and say why.** The restaurant has several rooms and only one is the conservatory in the photographs. Mention the occasion.
 
 **33 King Street, WC2E 8JD**, two minutes from Covent Garden, and there is a **pre- and post-theatre menu** that is a fraction of the à la carte.
 
@@ -201,9 +196,9 @@ The cooking is Provençal and northern Italian: **rack of lamb, hand-made pasta,
 
 *££££ · book months ahead*
 
-Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliver and Hugh Fearnley-Whittingstall trained. Informal in atmosphere and expensive in practice, which catches people out.
+Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliver and Hugh Fearnley-Whittingstall trained. Informal in atmosphere, expensive in practice.
 
-**The terrace tables book furthest ahead and are the entire point** — a table inside on a summer evening is a different and lesser night. Books months ahead, and it is eighteen minutes from Barons Court, so allow for the walk.
+**The terrace tables book furthest ahead.** It is eighteen minutes' walk from Barons Court.
 
 ![The River Café's lit terrace on the Thames at dusk, beneath the Thames Wharf sign, with tables and patio heaters set outside](../../assets/articles/special-occasion-restaurants-london/river-cafe-terrace.jpg)
 
@@ -213,11 +208,11 @@ Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliv
 
 *££££ · the Gallery and the egg pods*
 
-Afternoon tea inside an art installation, and **four separate rooms behind one door** — so understand that before booking, because they are different restaurants at different prices.
+**Four separate rooms behind one door**, different restaurants at different prices.
 
-**The Gallery** is the one everybody photographs, rebuilt in 2022 in yellow and copper by Yinka Shonibare and India Mahdavi, doing afternoon tea and a modern European menu. **The Lecture Room & Library** upstairs is the **three-Michelin-star** restaurant and a different proposition entirely. The **Glade** is the woodland-themed room, and the **Parlour** is the casual one.
+**The Gallery**, rebuilt in 2022 in yellow and copper by Yinka Shonibare and India Mahdavi, doing afternoon tea and a modern European menu. **The Lecture Room & Library** upstairs is the **three-Michelin-star** restaurant and a different proposition entirely. The **Glade** is the woodland-themed room, and the **Parlour** is the casual one.
 
-**The egg-shaped lavatory pods** are free to visit — you do not need a booking to go and look.
+**The egg-shaped lavatory pods** are in the East Bar, which takes walk-ins.
 
 ![One of sketch's white egg-shaped lavatory pods, beneath a ceiling painted in bands of colour, next to a display of oversized paper flowers](../../assets/articles/special-occasion-restaurants-london/sketch-egg-lavatories.jpg)
 
@@ -229,13 +224,13 @@ Afternoon tea inside an art installation, and **four separate rooms behind one d
 
 *££££ · Press for Champagne*
 
-Booth-only, art deco throughout in blue leather and brass, and a **button at every table marked Press for Champagne**. It works, and pressing it is the entire reason half the room is there.
+Booth-only, art deco throughout in blue leather and brass, and a **button at every table marked Press for Champagne**.
 
 ![A hand pressing the gold Press for Champagne button at a Bob Bob Ricard table, beside a glass of rosé champagne](../../assets/articles/special-occasion-restaurants-london/bob-bob-ricard-press-for-champagne.jpg)
 
 *The Press for Champagne button on a booth wall.*
 
-**The food is Anglo-Russian and better than the gimmick suggests**: **beef Wellington for two**, **chicken Kiev**, **lobster mac and cheese**, and a caviar list. Puddings arrive under a gold-leaf dome.
+**The food is Anglo-Russian:** **beef Wellington for two**, **chicken Kiev**, **lobster mac and cheese**, and a caviar list. Puddings arrive under a gold-leaf dome.
 
 > ⚠️ **Every table is a booth and there are no bar seats**, so this is a fixed booking for a fixed number rather than somewhere to add a person to. Booths seat four to six and are allocated by party size.
 
@@ -245,29 +240,27 @@ Booth-only, art deco throughout in blue leather and brass, and a **button at eve
 
 *Blinis and caviar. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/5111925674), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Books weeks ahead**, and it is booths only — there is no bar and no walk-in. Five minutes from Piccadilly Circus.
-
-It is the one on this page that is unembarrassed about being fun rather than serious, which for some occasions is exactly right.
+**Books weeks ahead.** Five minutes from Piccadilly Circus.
 
 ### Duck & Waffle, City of London
 
 *££££ · forty floors up, 24 hours*
 
-**Open 24 hours**, forty floors up in the Heron Tower, so a celebration can start at 2am and end with sunrise over the City. The sunrise and late-night slots are the ones worth planning around, and they are the reason to choose it over any other high room in London.
+**Open 24 hours**, forty floors up in the Heron Tower, so a celebration can start at 2am and end with sunrise over the City.
 
 ![The view over the City of London skyline at dusk from a booth at Duck & Waffle, forty floors up](../../assets/articles/special-occasion-restaurants-london/duck-and-waffle-sunset-view.jpg)
 
 *The view from forty floors up in 110 Bishopsgate.*
 
-**The signature is the dish it is named after** — confit duck leg, a fried duck egg and mustard maple syrup on a waffle, **£26** — and it is on the menu at four in the morning exactly as it is at eight in the evening.
+**The signature is the dish it is named after** — confit duck leg, a fried duck egg and mustard maple syrup on a waffle, **£26**, on the menu at any hour.
 
 ![The Duck & Waffle signature dish: confit duck leg and a fried egg on a waffle, with a small pot of mustard maple syrup](../../assets/articles/special-occasion-restaurants-london/duck-and-waffle-signature-dish.jpg)
 
 *Duck & Waffle's namesake dish.*
 
-**Book even at 2am.** Reservations run up to two months ahead and the room is small for the demand. **Card only, no cash**, smart casual.
+**Book even at 2am.** Reservations run up to two months ahead. **Card only, no cash**, smart casual.
 
-**Book a window table specifically** — a table away from the glass is a materially lesser experience.
+**Ask for a window table.**
 
 **110 Bishopsgate, EC2N 4AY**, three minutes from Liverpool Street — and Liverpool Street stops running long before the restaurant does, so settle the journey home first.
 
@@ -275,21 +268,21 @@ It is the one on this page that is unembarrassed about being fun rather than ser
 
 *££££ · since 1798*
 
-**London's oldest restaurant**, trading since 1798, and written into *Spectre* as Bond's own regular — the film makes no attempt to disguise the room.
+**London's oldest restaurant**, trading since 1798, and written into *Spectre* as Bond's own regular.
 
 ![A vintage green Rolls-Royce parked outside Rules restaurant on Maiden Lane, beneath red awnings reading Rules, Est 1798](../../assets/articles/special-occasion-restaurants-london/rules-exterior.jpg)
 
 *Rules, on Maiden Lane.*
 
-**Game is the speciality and it is seasonal**: grouse from mid-August, then partridge, pheasant, woodcock and venison through the autumn, hung and served from the restaurant's own estate in the Pennines. **Steak and kidney pudding** and **jugged hare** are the other things to order, and neither is a museum piece.
+**Game is the speciality and it is seasonal**: grouse from mid-August, then partridge, pheasant, woodcock and venison through the autumn, hung and served from the restaurant's own estate in the Pennines. **Steak and kidney pudding** and **jugged hare** are the other things to order.
 
 ![A steak and kidney pudding in suet pastry with chips and gravy at Rules](../../assets/articles/special-occasion-restaurants-london/rules-steak-and-kidney-pudding.jpg)
 
 *Steak and kidney pudding at Rules.*
 
-**Autumn is the season to come.** Out of it you are eating in a beautiful room; in it you are eating something you cannot get in many places.
+**Come in autumn for the game.**
 
-**Book, and book well ahead** — it is small, heavily panelled and consistently full, and walk-ins are optimistic. The ground-floor room is the one from the film. **35 Maiden Lane, WC2E 7LB**, three minutes from Covent Garden.
+**Book well ahead.** It is small and walk-ins are unlikely. The ground-floor room is the one from the film. **35 Maiden Lane, WC2E 7LB**, three minutes from Covent Garden.
 
 ---
 
@@ -299,19 +292,19 @@ It is the one on this page that is unembarrassed about being fun rather than ser
 
 **Two new arrivals.** **Bonheur by Matt Abé** opened with **two stars** in Le Gavroche's old Mayfair site, and **Row on 5** was promoted from one star to two.
 
-> ⚠️ **And one correction.** **Humo** in Mayfair **lost its star in the 2026 guide and is still trading normally.** It remains a good restaurant, but anything still describing it as Michelin-starred is out of date.
+> ⚠️ **And one correction.** **Humo** in Mayfair **lost its star in the 2026 guide and is still trading.** Anything still describing it as Michelin-starred is out of date.
 
 ---
 
 ## Cheaper ways into serious kitchens
 
-The gap between lunch and dinner at a starred restaurant is the biggest saving available in London dining, and it is for the same kitchen and the same room.
+A starred restaurant's lunch is the same kitchen and room as dinner for less.
 
-**Verified set lunches, cheapest first:**
+**Set lunches, cheapest first:**
 
-* **Pied à Terre**, Fitzrovia — **£35** for three courses, on its 35th-anniversary menu. **The cheapest verified way into a Michelin-starred dining room in London**, and you have to mention it when booking or you will not be offered it.
 * **La Trompette**, Chiswick — **£45** for three courses, Wednesday to Friday.
-* **Chez Bruce**, Wandsworth — **£68.50** for three courses, at every lunch service.
+* **Chez Bruce**, Wandsworth — **£48.50** for three courses on the weekday set lunch, Tuesday to Friday; the standard lunch is **£68.50**.
+* **Pied à Terre**, Fitzrovia — **£49.50** for an amuse-bouche, starter and main on its 35th-anniversary lunch menu, until 14 November 2026. You have to mention it when booking.
 * **Hélène Darroze at The Connaught** — à la carte is served **at lunch only**, and two courses come in around £96 against £230 for the shortest tasting menu — the cheapest three-star lunch on this page.
 * **Restaurant Gordon Ramsay**, Chelsea — **£125**, Tuesday to Friday, against £180 à la carte and £210 for the Prestige menu.
 * **The Ledbury**, Notting Hill — **£220** for six courses at lunch against **£295** for dinner. A £75 saving on the same kitchen.
@@ -319,9 +312,7 @@ The gap between lunch and dinner at a starred restaurant is the biggest saving a
 **Where lunch does not help:** Core by Clare Smyth saves only £30 at lunch, and Alain Ducasse at The Dorchester publishes no set lunch at all — its cheapest route in is the £215 three-course menu.
 
 * **A. Wong**, Pimlico — dim sum at lunch is **à la carte per dish**, not a set menu, which is why no headline price is quoted. Dumplings start around **£4.50–£6** and the top items reach £15–£16, so you control the bill. Still the cheapest way into a two-star kitchen in London.
-* **Café Murano** — Angela Hartnett's everyday room, and considerably cheaper than Murano. Note it is a sibling restaurant at a different address, not a cheaper room in the same building.
-* **Sushi Atelier** — repeatedly named the best-value serious omakase in central London.
-* **Trullo** — what London chefs recommend when they are paying themselves.
+* **Café Murano** — Angela Hartnett's everyday room, cheaper than Murano and at a different address.
 
 ---
 
@@ -331,9 +322,9 @@ The gap between lunch and dinner at a starred restaurant is the biggest saving a
 
 * **Three-star rooms take months.** Set a calendar reminder for the day bookings open.
 * **Ask about dress codes when booking.** Most prefer smart; almost none now require a tie except The Ritz for tea.
-* **Dietary requirements need 48 hours' notice** at tasting-menu restaurants — they build the menu around them and cannot improvise on the night.
+* **Dietary requirements need 48 hours' notice** at tasting-menu restaurants.
 * **Deposits are standard** at this level and are usually non-refundable inside 48 hours.
-* **Say if it is an occasion.** Every restaurant here will do something, and none of them will if you do not mention it.
+* **Say if it is an occasion** when you book.
 
 ---
 
