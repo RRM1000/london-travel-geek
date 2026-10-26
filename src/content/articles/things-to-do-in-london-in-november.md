@@ -24,16 +24,16 @@ faq:
   - q: "When is Bonfire Night in London in 2026, and when are the fireworks?"
     a: "Bonfire Night is Thursday 5 November, but most of the displays are on Saturday 7th, with a second wave on Sunday 8th. Alexandra Palace and Battersea Park both run on the Saturday and Sunday. Only a handful run on the 5th itself, and the one free display, at Coram's Fields, is for children and the adults with them. Our Bonfire Night guide lists every display."
   - q: "When is the Lord Mayor's Show in 2026, and are there fireworks?"
-    a: "Saturday 14 November, setting off from Mansion House at 11am and going to the Royal Courts of Justice by St Paul's and Fleet Street, with the return leg along the Embankment from about 1.10pm. It is free to watch. The Thames fireworks that used to close the day no longer run, and the organiser's timetable finishes with the Lord Mayor back at Mansion House in the afternoon."
+    a: "Saturday 14 November, setting off from Mansion House at 11am and going to the Royal Courts of Justice by St Paul's and Fleet Street, with the return leg along the Embankment from about 1.10pm. It is free to watch. There are no Thames fireworks."
   - q: "When do London's Christmas lights go on in 2026?"
-    a: "Carnaby Street on Wednesday 4 November, Regent Street on Thursday 5th, with the street closed to traffic from 5pm to 9pm, and Bond Street and Covent Garden on Thursday 12th. Oxford Street has not published its date. Hyde Park Winter Wonderland opens on 19 November and Somerset House's ice rink on the 11th. The Trafalgar Square tree is lit on 3 December."
+    a: "Carnaby Street on Wednesday 4 November, Regent Street on Thursday 5th, with the street closed to traffic from 5pm to 9pm, and Bond Street and Covent Garden on Thursday 12th. Hyde Park Winter Wonderland opens on 19 November and Somerset House's ice rink on the 11th. The Trafalgar Square tree is lit on 3 December."
   - q: "When does it get dark in London in November?"
     a: "Sunset is at 4.35pm on 1 November, 4.28pm on Bonfire Night, 4.14pm on the 14th and 3.57pm on the 30th. The clocks went back on 25 October, so the whole month is on GMT. Heathrow's 1991 to 2020 average for the month is a high of 11.5C, a low of 5.3C, 66.6mm of rain and 68 hours of sunshine."
   - q: "Is Diwali in November in 2026?"
     a: "Diwali itself falls on Sunday 8 November. The Mayor of London's free Diwali on the Square in Trafalgar Square was due on Sunday 25 October and was cancelled the day before. The National Maritime Museum in Greenwich holds its free Diwali day on Saturday 7 November, 10.30am to 5pm, with a lantern parade and a new Diwali Bazaar."
 ---
 
-November has three beats. The first fortnight is fireworks and ceremony. Ten days of jazz sit in the middle. The Christmas lights, rinks and markets switch on in stages from the 5th. The clocks went back on 25 October, and the sun sets before 4.40pm all month.
+The first fortnight is fireworks and ceremony, ten days of jazz sit in the middle, and the Christmas lights, rinks and markets switch on in stages from the 5th. The clocks went back on 25 October, and the sun sets before 4.40pm all month.
 
 > 💡 **The Short Version:** **Bonfire Night is Thursday 5 November, but the big displays are on Saturday 7th.** **Remembrance Sunday is the 8th, Armistice Day the 11th and the Lord Mayor's Show Saturday 14th.** The **EFG London Jazz Festival** runs 13 to 22 November. **Regent Street's lights go on on 5 November**, **Winter Wonderland opens on 19 November** and the **London Museum** opens free in Smithfield on **28 November**. The **Bayeux Tapestry** is sold out to 31 March 2027.
 
@@ -65,7 +65,7 @@ Two talks fall in November: **Harald Hardrada: the other 'Harold'**, an online l
 
 ### London to Brighton Veteran Car Run — Hyde Park, Sunday 1 November
 
-The RM Sotheby's run for cars built before 1905 leaves Hyde Park for Madeira Drive in Brighton, 60 miles away. It is free to watch, and the cars arrive in the Hyde Park paddock from **6am**, so the start is at dawn. The Royal Automobile Club's free St James's Motoring Spectacle on Pall Mall runs the day before, Saturday 31 October, 10am to 3pm.
+The RM Sotheby's run for cars built before 1905 leaves Hyde Park for Madeira Drive in Brighton, 60 miles away. It is free to watch, and the cars arrive in the Hyde Park paddock from **6am**. The Royal Automobile Club's free St James's Motoring Spectacle on Pall Mall runs the day before, Saturday 31 October, 10am to 3pm.
 
 ### Bonfire Night — Thursday 5 November, with the big night on Saturday 7th
 
@@ -81,13 +81,13 @@ Every display, which ones sell out and the free viewpoints are in our [Bonfire N
 
 ### The Lord Mayor's Show — City of London, Saturday 14 November
 
-The procession is free, with more than 7,000 people in 2025 and a length of over three miles. It sets off from **Mansion House at 11am** and goes to the Royal Courts of Justice by St Paul's, Cheapside and Fleet Street. The new Lord Mayor, Alderman Bronek Masojada, takes office in the Silent Ceremony the day before.
+The procession is free, over three miles long and with more than 7,000 people in 2025. It sets off from **Mansion House at 11am** and goes to the Royal Courts of Justice by St Paul's, Cheapside and Fleet Street.
 
 The organiser's timetable puts the head of the procession at the Royal Courts by 11.26am. The return leg starts from Temple Place at **1.10pm** and comes back along the Embankment and Queen Victoria Street, with the Lord Mayor home at Mansion House at about 2.30pm.
 
-**For the full noise, stand between Bank and St Paul's from 11am; for room, take the Embankment after 1.15pm.** The organiser's advice is to get off at Mansion House, Cannon Street or Blackfriars rather than Bank or St Paul's. Almost the whole City is closed to traffic, and every bus route that normally crosses it turns back or goes round. There are no fireworks: the Thames display that once ended the day has been dropped.
+**For the full noise, stand between Bank and St Paul's from 11am; for room, take the Embankment after 1.15pm.** The organiser's advice is to get off at Mansion House, Cannon Street or Blackfriars rather than Bank or St Paul's. Almost the whole City is closed to traffic, and every bus route that normally crosses it turns back or goes round. There are no fireworks.
 
-After the Show you are in the middle of a car-free City with an hour or two of daylight left; our [City of London walk](/articles/city-of-london-walk/) fills it.
+Our [City of London walk](/articles/city-of-london-walk/) fills the daylight left after the Show.
 
 ### Diwali — Sunday 8 November
 
@@ -97,7 +97,7 @@ Diwali itself falls on **Sunday 8 November**. The Mayor of London's free Diwali 
 
 ## EFG London Jazz Festival — 13 to 22 November
 
-Ten days across more than 80 venues, from the Royal Festival Hall to clubs in Dalston and Chelsea. The Opening Gala is at the Royal Festival Hall on 13 November, and both John Coltrane and Miles Davis were born in 1926, which is why the programme has a Coltrane 100 night at the Barbican the same evening. Nineteen concerts are free. Tickets start at £5, and most shows are sold by the venues, so there is no single on-sale date.
+Ten days across more than 80 venues, from the Royal Festival Hall to clubs in Dalston and Chelsea. The Opening Gala is at the Royal Festival Hall on 13 November, with a Coltrane 100 night at the Barbican the same evening. Nineteen concerts are free. Tickets start at £5, and most shows are sold by the venues, so there is no single on-sale date.
 
 The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglondonjazzfestival.org.uk/). Prices, the free rooms and how to get into a sold-out show are in our [London Jazz Festival guide](/articles/london-jazz-festival/).
 
@@ -105,7 +105,7 @@ The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglo
 
 ### The lights
 
-**Carnaby Street's lights go on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**. Regent Street's Spirit of Christmas angels return for an eleventh year, with new details for 2026, and the street is closed to traffic from **5pm to 9pm** that evening. **Bond Street and Covent Garden switch on on Thursday 12 November**, Bond Street with the street traffic-free from 4pm to 8pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
+**Carnaby Street's lights go on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**. Regent Street's Spirit of Christmas angels return, and the street is closed to traffic from **5pm to 9pm** that evening. **Bond Street and Covent Garden switch on on Thursday 12 November**, Bond Street with the street traffic-free from 4pm to 8pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
 
 ### Rinks, markets and Winter Wonderland
 
@@ -132,9 +132,9 @@ Rugby tickets are from £79 for Australia and from £51 for Japan; the New Zeala
 
 ## New in November: the London Museum at Smithfield
 
-**The Museum of London's new home, now called the London Museum, opens its permanent galleries on Saturday 28 November in Smithfield's Victorian General Market, EC1A 9AG, and they are free.** Three spaces run from the present to the Roman city. Real Time tells the story of present-day London from the city's data. Our Time has 13 large installations, including the Lord Mayor's Coach and Syd's Coffee Stall. Past Time is set at Roman street level. Across the three spaces are the Cheapside Hoard of Elizabethan and Jacobean jewellery, Roman writing tablets and Paul Simonon's smashed bass guitar.
+**The Museum of London's new home, now called the London Museum, opens its permanent galleries on Saturday 28 November in Smithfield's Victorian General Market, EC1A 9AG, and they are free.** Three spaces run from the present to the Roman city. Real Time tells the story of present-day London from the city's data. Our Time has 13 large installations, including the Lord Mayor's Coach and Syd's Coffee Stall. Past Time is set at Roman street level. Objects include the Cheapside Hoard of Elizabethan and Jacobean jewellery, Roman writing tablets and Paul Simonon's smashed bass guitar.
 
-**A six-metre window in the underground galleries looks onto the live Thameslink line**, so passengers see into the museum and visitors see the trains. The first spotlight exhibition, **London Tastes**, led by Ruby Tandoh and Jonathan Nunn, runs from November to August 2027. The museum's temporary exhibition space, in the Poultry Market next door, opens in 2028.
+**A six-metre window in the underground galleries looks onto the live Thameslink line.** The first spotlight exhibition, **London Tastes**, led by Ruby Tandoh and Jonathan Nunn, runs from November to August 2027. The museum's temporary exhibition space, in the Poultry Market next door, opens in 2028.
 
 ## Exhibitions
 
@@ -178,11 +178,11 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 ## Practical: November in London
 
-**Weather.** The Met Office's Heathrow average for the month (1991 to 2020) is a daily high of **11.5C** and a low of **5.3C**, with **66.6mm of rain**, the most of any month there, and 68 hours of sunshine. Waterproofs and a warm layer matter more than an umbrella you can lose; our [London in the rain guide](/articles/london-in-the-rain/) has the indoor fallbacks.
+**Weather.** The Met Office's Heathrow average for the month (1991 to 2020) is a daily high of **11.5C** and a low of **5.3C**, with **66.6mm of rain**, the most of any month there, and 68 hours of sunshine. Our [London in the rain guide](/articles/london-in-the-rain/) has the indoor fallbacks.
 
-**Daylight.** Sunset is **4.35pm on 1 November**, **4.14pm on the 14th** and **3.57pm on the 30th**, with sunrise moving from 6.52am to 7.40am. Anything outdoors that needs light, such as a park, a viewpoint or a river walk, belongs before 3pm by the end of the month.
+**Daylight.** Sunset is **4.35pm on 1 November**, **4.14pm on the 14th** and **3.57pm on the 30th**, with sunrise moving from 6.52am to 7.40am. Parks, viewpoints and river walks belong before 3pm by the end of the month.
 
-**Crowds.** No school holiday and no bank holiday, so museums are quieter than in October's half term. The pressure comes from events: Saturday 7th, Saturday 14th and the Winter Wonderland opening from the 19th.
+**Crowds.** There is no school holiday or bank holiday, so museums are quieter than in October's half term. The busy days are Saturday 7th, Saturday 14th and from the Winter Wonderland opening on the 19th.
 
 **Working out which month suits you best?** [Best time to visit London](/articles/best-time-to-visit-london/) compares November against the rest of the year, and [October's guide](/articles/things-to-do-in-london-in-october/) covers the month before.
 
