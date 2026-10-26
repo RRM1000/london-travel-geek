@@ -158,7 +158,7 @@ It covers:
 
 Fast food in London without the global chains:
 
-* [**Cheap Eats in London**](/articles/cheap-eats-london/) — 34 places to eat well under £15, including Mumbai street food at *Shree Krishna Vada Pav*, South Indian dosas at *Saravanaa Bhavan* and the market stalls worth the detour.
+* [**Cheap Eats in London**](/articles/cheap-eats-london/) — places to eat well under £15, including Mumbai street food at *Shree Krishna Vada Pav*, South Indian dosas at *Saravanaa Bhavan* and the market stalls worth the detour.
 * [**The Best Sandwiches in London**](/articles/best-sandwiches-london/) — Salt beef, Japanese sandos and the toastie counters.
 * [**The Best Bakeries in London**](/articles/best-bakeries-london/) — 24 worth queuing for, and which ones sell out by eleven.
 * [**Breakfast and Brunch**](/articles/best-breakfast-brunch-london/) — From caff fry-ups under £10 to the rooms that need booking weeks ahead.

@@ -1,6 +1,6 @@
 ---
 title: "The Best Cocktail Bars in London: 21 Compared"
-seoTitle: "Best Cocktail Bars London 2026: 21 Rooms Compared"
+seoTitle: "Best Cocktail Bars London 2026: Every Room Compared"
 description: "Where the Savoy Cocktail Book was written, a martini mixed at your table from a trolley, and a two-drink limit enforced because the martinis are poured neat — London's best bars."
 heroImage: "../../assets/articles/best-cocktail-bars-london/a-bar-with-shapes-for-a-name-coasters.jpg"
 heroImageAlt: "Three amber cocktails at A Bar with Shapes for a Name, on coasters cut as a yellow triangle, a red square and a blue circle"

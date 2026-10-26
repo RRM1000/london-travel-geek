@@ -1,5 +1,5 @@
 ---
-title: "London Filming Locations: 34 Places You Have Already Seen"
+title: "London Filming Locations: The Places You Have Already Seen on Screen"
 seoTitle: "London Filming Locations: Harry Potter, Bond & More"
 description: "Gringotts is a working embassy, Sherlock's flat is on the wrong street, and Slough House is a real door in Aldersgate — London's film and TV locations, mapped."
 heroImage: "../../assets/articles/best-london-markets/leadenhall-market.jpg"
