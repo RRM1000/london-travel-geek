@@ -5,6 +5,7 @@ description: "Not our opinion. Every restaurant here is ranked by how many indep
 heroImage: "../../assets/articles/best-sri-lankan-restaurants-london/hoppers-frith-street.jpg"
 heroImageAlt: "The blue-painted shopfront of Hoppers at 49 Frith Street in Soho, with a cream awning and a menu case beside the door"
 publishedAt: 2026-06-11
+updatedAt: 2026-10-26
 reviewBy: 2027-03-22
 sites: [london]
 canonicalSite: london
@@ -13,9 +14,9 @@ tags: [restaurants, Sri Lankan restaurants, Sri Lankan food, hoppers, kottu, din
 draft: false
 faq:
   - q: "What is the best Sri Lankan restaurant in London?"
-    a: "Hoppers, on the evidence. It holds a Bib Gourmand in the 2026 MICHELIN Guide — the only Sri Lankan kitchen in London that holds anything — Time Out ranked it the best chain restaurant in the capital in August 2026, and nineteen independent sources name it, more than anything else here. Rambutan in Borough Market is the one the Good Food Guide rates higher: Very Good, against Good for Hoppers."
+    a: "Hoppers, on the evidence. It holds a Bib Gourmand in the 2026 MICHELIN Guide, Time Out ranked it the best chain restaurant in the capital in August 2026, and nineteen independent sources name it, more than anything else here. Rambutan in Borough Market is the one the Good Food Guide rates higher: Very Good, against Good for Hoppers."
   - q: "What is the difference between Sri Lankan and South Indian food?"
-    a: "Coconut, tamarind and heat, mostly. Sri Lankan cooking leans on grated coconut, smoked goraka fruit and Maldive fish, and its signature dishes — the hopper, the kottu, lamprais, pol sambol — have no South Indian equivalent. The overlap is real in the Tamil north, which is why several kitchens here cook both and say so. A Keralan restaurant with one hopper on the menu is not a Sri Lankan restaurant."
+    a: "Coconut, tamarind and heat, mostly. Sri Lankan cooking leans on grated coconut, smoked goraka fruit and Maldive fish, and its signature dishes — the hopper, the kottu, lamprais, pol sambol — have no South Indian equivalent. The overlap is real in the Tamil north, which is why several kitchens here cook both and say so."
   - q: "What is a hopper?"
     a: "A bowl. Fermented rice-flour and coconut-milk batter is swirled round a small curved pan so it cooks thin and lacy at the rim and spongy at the base. Crack an egg into the middle before it sets and you have an egg hopper. String hoppers — idiyappam — are a different thing entirely: rice-flour noodles pressed into little nests and steamed."
   - q: "Where do I eat Sri Lankan food in London cheaply?"
@@ -23,14 +24,14 @@ faq:
   - q: "Do I need to book?"
     a: "For Rambutan, yes, weeks out. Hoppers Soho takes bookings for two to four people and runs a virtual queue for everyone else — you leave your details and walk away. Kolamba keeps its bar counter for walk-ins. Every counter and market stall here is walk-in only."
   - q: "Where is the Sri Lankan food in London, geographically?"
-    a: "Four clusters. Tooting in the south, Wembley and the Rayners Lane end of Harrow in the north-west, Croydon, and a Sri Lankan and South Indian overlap in East Ham. Soho, Covent Garden and Borough Market hold the restaurants that get written about; the other four hold most of the cooking."
+    a: "Four clusters. Tooting in the south, Wembley and the Rayners Lane end of Harrow in the north-west, Croydon, and a Sri Lankan and South Indian overlap in East Ham."
 ---
 
-London has two Sri Lankan scenes and almost every guide covers one of them. There is the central one — Soho, Covent Garden, Borough Market — and there is Tooting High Street, Ealing Road in Wembley and a parade of shops at Rayners Lane, which is where most of this food is actually cooked and eaten.
+Sri Lankan food in London splits in two: the central restaurants in Soho, Covent Garden and Borough Market, and the neighbourhood kitchens of Tooting High Street, Ealing Road in Wembley and Rayners Lane.
 
-There is a second problem, and it is the one that sends readers to the wrong restaurant. **Sri Lankan gets filed under South Indian.** They share a strait and some vocabulary, and they are not the same cooking: Sri Lanka runs on grated coconut, tamarind, smoked goraka fruit and dried Maldive fish, and its core dishes have no equivalent across the water. So this guide holds the line. Where a kitchen cooks both — and several of the best do — it says so.
+**Sri Lankan often gets filed under South Indian**, and they are not the same cooking: Sri Lanka runs on grated coconut, tamarind, smoked goraka fruit and dried Maldive fish, and its core dishes have no equivalent across the water. Where a kitchen cooks both, this guide says so.
 
-> 💡 **The Short Version:** **Hoppers** is the only Sri Lankan kitchen in London holding an award, a MICHELIN Bib Gourmand, and nineteen sources name it. **Rambutan** in Borough Market is the one the Good Food Guide rates higher. **Kolamba** for a Soho dinner you can actually book. **Jaffna House** in Tooting has cooked the same northern repertoire since 1991, and nothing on its menu is expensive. **Karapincha** for kothu roti chopped to order inside Canary Wharf station.
+> 💡 **The Short Version:** **Hoppers** holds a MICHELIN Bib Gourmand and is named by nineteen sources. **Rambutan** in Borough Market is the one the Good Food Guide rates higher. **Kolamba** for a Soho dinner you can actually book. **Jaffna House** in Tooting has cooked the same northern repertoire since 1991, and nothing on its menu is expensive. **Karapincha** for kothu roti chopped to order inside Canary Wharf station.
 
 > 📊 **The evidence behind this guide.**
 > **28 independent sources carrying 135 citations** across **33 named venues**. **19 are named by two or more independent sources, and one holds a dated award.**
@@ -63,19 +64,19 @@ There is a second problem, and it is the one that sends readers to the wrong res
 * **A few days:** Kolamba Soho and Kolamba East, ADOH!, Colombo Kitchen, Virundhu, Dammika's.
 * **Bookable, rarely needed:** Apollo Banana Leaf, Kothu, Trinco Bay, Jaffna House, Palm Beach, Papaya.
 * **Walk-in only:** every counter and stall — Karapincha's three, Best Foods Supermarket, and Colombo Kitchen's stall at St James's Courtyard.
-* **Both at once:** Hoppers Soho takes reservations for two to four people and runs a virtual queue for everyone else. You leave your name and phone number and go for a drink; they call when the table is ready. There is no physical queue to stand in.
+* **Both at once:** Hoppers Soho takes reservations for two to four people and runs a virtual queue for everyone else. You leave your name and phone number and go for a drink; they call when the table is ready.
 
 ---
 
 ## The winners
 
-Three restaurants have been judged rather than written about. Two bodies inspect this cuisine in London and between them they cover exactly these three.
+Three restaurants are rated by the MICHELIN Guide or the Good Food Guide.
 
 ### Hoppers, Soho
 
 *££ · Soho · 4 min from Tottenham Court Road · Cited by 19 sources · MICHELIN Bib Gourmand, 2026 guide · Time Out's number one London chain, August 2026*
 
-**The most-cited Sri Lankan restaurant in London by a distance** — nineteen independent sources, against thirteen for the next one — and the only one holding a dated award. The Soho original opened on Frith Street in 2015 and the room is built after a toddy shop, the palm-wine shacks on Sri Lanka's coconut plantations: terracotta tiles, a rattan ceiling, poster art, and few enough tables that every one of them hears the others.
+Nineteen independent sources name it, against thirteen for the next one (Kolamba), and it is the only one here holding a dated award. The Soho original opened on Frith Street in 2015 and the room is styled on a toddy shop, the palm-wine shacks on Sri Lanka's coconut plantations: terracotta tiles, a rattan ceiling, poster art, and tables close enough to hear each other.
 
 ![An overhead spread on a dark wooden table: a plate of red-spiced devilled meat with curry leaves and green chilli, a bowl of curry-leaf crisps, two clay pots of sambol, and a folded godhamba roti with a pot of curry sauce](../../assets/articles/best-sri-lankan-restaurants-london/hoppers-devilled-and-roti.jpg)
 
@@ -91,15 +92,15 @@ Order the **egg hopper**, a fermented rice-and-coconut batter swirled round a cu
 
 *££ · Borough · 3 min from London Bridge · book weeks ahead · Cited by 12 sources · Good Food Guide: Very Good · In the 2026 MICHELIN Guide*
 
-**The one the inspectors rate highest.** Michelin hands Hoppers the Bib and lists Rambutan without one; the Good Food Guide puts Rambutan a rung above Hoppers, Very Good against Good, and calls its cooking inventive. The two judged verdicts in this subject disagree, and that is the most interesting thing in the evidence.
+**The Good Food Guide rates it above Hoppers**, Very Good against Good, and calls its cooking inventive; Michelin gives Hoppers the Bib and lists Rambutan without one.
 
 ![An overhead table of shared dishes: a whole fish crusted dark brown on a banana leaf with lime, a wide bowl of pale coconut curry topped with red chillies, two bowls of white rice, a plate of charred pieces with red onion and watercress, and a metal pot of curry under a heap of crisp fried shallots](../../assets/articles/best-sri-lankan-restaurants-london/rambutan-sharing-table.jpg)
 
 *Rambutan's sharing table.*
 
-Cynthia Shanmugalingam was born in Coventry to Sri Lankan Tamil parents and the menu comes from Jaffna in the north by way of her mother's kitchen, cooked over an **aduppu** — an open wood fire — behind the counter. Order the **gundu dosas**, golden fritter-balls served with coriander sambol, and the **Jaffna crab curry**, a whole Dorset crab you take apart with your hands. Northern prawns come cooked in the shell in tamarind, with roti to mop up.
+The menu comes from Jaffna in the north by way of chef Cynthia Shanmugalingam's mother's kitchen, cooked over an **aduppu** — an open wood fire — behind the counter. Order the **gundu dosas**, golden fritter-balls served with coriander sambol, and the **Jaffna crab curry**, a whole Dorset crab you take apart with your hands. Northern prawns come cooked in the shell in tamarind, with roti to mop up.
 
-**Counter seats are the ones to want, and it books weeks out.** Stoney Street, in the thick of Borough Market, so lunch is busier than dinner.
+**Counter seats are the ones to want, and it books weeks out.** Stoney Street, in the middle of Borough Market.
 
 **Book:** [Reserve a table](https://rambutanlondon.com/bookings/)
 
@@ -107,15 +108,15 @@ Cynthia Shanmugalingam was born in Coventry to Sri Lankan Tamil parents and the 
 
 *££ · Soho · 5 min from Oxford Circus · Cited by 13 sources · Good Food Guide: Local Gem*
 
-**Thirteen sources, second only to Hoppers, and a Good Food Guide Local Gem.** Eroshan and Aushi Meewella cook what they ate growing up in Colombo — *kolamba* is the city's Sinhalese name — and the Soho room is small, with a few pavement tables on Kingly Street and a moodier basement underneath.
+**Thirteen sources, second only to Hoppers, and a Good Food Guide Local Gem.** Eroshan and Aushi Meewella cook what they ate growing up in Colombo — *kolamba* is the city's Sinhalese name. The Soho room is small, with a few pavement tables on Kingly Street and a basement underneath.
 
 ![A narrow dining room: a tan leather banquette down an exposed brick wall, terrazzo table tops with bentwood chairs, woven rattan pendant shades, and on the other side a long wooden counter of black stools facing an open kitchen behind green tiling](../../assets/articles/best-sri-lankan-restaurants-london/kolamba-dining-room.jpg)
 
 *Kolamba's dining room.*
 
-**Vaira's jaggery beef**, marinated overnight in palm sugar and spice and cooked slowly the next day, is the dish everyone orders. Beside it, **hot butter cuttlefish**, a pineapple fry with curry leaves and shallots, and **parippu** — red lentils in coconut milk with turmeric, the daily dal of every Sri Lankan household. At weekends Soho serves a **rice and curry feast at £26 a head, noon to 4pm**, which is the best-value way in.
+**Vaira's jaggery beef**, marinated overnight in palm sugar and spice and cooked slowly the next day, is the dish everyone orders. Beside it, **hot butter cuttlefish**, a pineapple fry with curry leaves and shallots, and **parippu** — red lentils in coconut milk with turmeric, the daily dal of every Sri Lankan household. At weekends Soho serves a **rice and curry feast at £26 a head, noon to 4pm**.
 
-**Open noon to 10pm, to 9pm on Sunday. The bar counter is kept for walk-ins.** Kolamba East on Blossom Street is the bigger room and takes groups up to 28; Soho caps direct bookings at 10.
+**Open noon to 10pm, to 9pm on Sunday. The bar counter is kept for walk-ins.** Kolamba East on Blossom Street is the bigger room and takes groups up to 26; Soho takes up to 16.
 
 **Book:** [Kolamba Soho](https://www.sevenrooms.com/explore/kolambacarnabystreet/reservations/create/search) · [Kolamba East](https://www.sevenrooms.com/explore/kolambaeast/reservations/create/search/)
 
@@ -125,13 +126,13 @@ Cynthia Shanmugalingam was born in Coventry to Sri Lankan Tamil parents and the 
 
 ## Also strongly backed
 
-No award, but the widest agreement after the three above — and the first two are cheaper than anything in that section.
+No award, but the widest agreement after the three above.
 
 ### Jaffna House, Tooting
 
 *£ · Tooting · 2 min from Tooting Broadway · Cited by 12 sources*
 
-**Trading on Tooting High Street since 1991 and named by twelve sources**, which puts a thirty-five-year-old neighbourhood restaurant level with Rambutan and ahead of everything else outside the winners. The dining room is plain and full, and the takeaway counter never stops.
+**Trading on Tooting High Street since 1991 and named by twelve sources**, level with Rambutan. The dining room is plain and full.
 
 ![A table of dishes: an egg hopper, a bowl-shaped pancake with a lacy rim and a fried egg set into the base; a steel plate of rice with dal, a dark green curry, green beans, a diced vegetable curry and a ring-shaped lentil vadai; a steel bowl of kottu; and a stack of flatbreads on chilli-print plates](../../assets/articles/best-sri-lankan-restaurants-london/jaffna-house-egg-hopper-and-rice-plate.jpg)
 
@@ -151,7 +152,7 @@ A few hundred metres down the same high street, and the kitchen calls itself **S
 
 Order the **mutton kothu roti**: godamba roti chopped on a hot plate with two metal blades, tossed with mutton, egg, onion and spice until it is a clattering heap, served with curry sauce on the side. The **Ceylon chicken curry** and the **chilli masala dosa** are the other two. Prices are low and the menu is long.
 
-**£, and worth booking at the weekend.** Seven sources name it and one calls it the best Sri Lankan restaurant in south London, which is more attention than the room is built for.
+**£, and worth booking at the weekend.** Seven sources name it and one calls it the best Sri Lankan restaurant in south London.
 
 **Book:** [apollobananaleaf.uk](https://apollobananaleaf.uk/)
 
@@ -165,7 +166,7 @@ Twin sisters Vasanthini and Dharshini Perumal, from Kandy, started as market tra
 
 *Karapincha's counter.*
 
-**Chicken kothu roti** is the signature and the thing worth queueing for; the vegetable version comes with pineapple pirattal, a sweet-hot fried relish. **String hoppers in prawn curry** and **egg hoppers in chicken curry** are the sit-down orders. Because the curries are built on coconut milk rather than dairy, most of the vegetarian menu is vegan without trying.
+**Chicken kothu roti** is the signature; the vegetable version comes with pineapple pirattal, a sweet-hot fried relish. **String hoppers in prawn curry** and **egg hoppers in chicken curry** are the sit-down orders. Because the curries are built on coconut milk rather than dairy, most of the vegetarian menu is vegan.
 
 **£, no bookings, and the Canary Wharf unit keeps office hours** — it is a station kitchen, not an evening restaurant.
 
@@ -173,23 +174,23 @@ Twin sisters Vasanthini and Dharshini Perumal, from Kandy, started as market tra
 
 *££ · Victoria · 6 min from Victoria · Cited by 7 sources*
 
-**A small white-tablecloth room on Lower Grosvenor Place**, five minutes from the station, on the site of Sekara — for years the only Sri Lankan restaurant most Londoners could name.
+**A small white-tablecloth room on Lower Grosvenor Place**, five minutes from the station, on the site of Sekara.
 
-The **chicken lamprais** is why people come: rice boiled in stock, then a meat curry, aubergine pickle, caramelised seeni sambol, a fish cutlet and a boiled egg all folded into a banana leaf and baked, which is a Dutch Burgher dish and one of the few colonial recipes still cooked traditionally. Around it, **kiri hodi** — a mild coconut gravy loosened with green chilli and egg — cuttlefish fry and chicken rolls. Lion lager and EGB stout are imported rather than substituted.
+The **chicken lamprais** is why people come: rice boiled in stock, then a meat curry, aubergine pickle, caramelised seeni sambol, a fish cutlet and a boiled egg all folded into a banana leaf and baked, a Dutch Burgher dish. Around it, **kiri hodi** — a mild coconut gravy loosened with green chilli and egg — cuttlefish fry and chicken rolls. Lion lager and EGB stout are imported rather than substituted.
 
-**££, and small enough that a Friday walk-in is a gamble.** Seven sources name it and none of them is an award, which is the shape of this whole subject.
+**££, and small enough that a Friday walk-in is a gamble.**
 
 ### Colombo Kitchen, Putney and Worcester Park
 
 *££ · Putney and Worcester Park · Cited by 6 sources*
 
-Sylvia Perera grew up in Negombo on the west coast, cooked her way through a catering business and a street stall, and now runs **two rooms with a live hopper and kottu bar** — the pans and the blades are in front of you, which is what you go for.
+Sylvia Perera, from Negombo on the west coast, runs **two rooms with a live hopper and kottu bar**, with the pans and the blades in front of you.
 
 ![A dining room of blue velvet chairs at light wooden tables, a bar with black stools and a terracotta fretwork front, bottles and glassware on the back shelves, and glass doors folded back onto a covered terrace](../../assets/articles/best-sri-lankan-restaurants-london/colombo-kitchen-dining-room.jpg)
 
 *Colombo Kitchen, Putney.*
 
-The **lamprais is served at weekends only, Saturday and Sunday, at both sites**. Otherwise: **hot butter prawns** in a beer batter, a **Ceylon chicken curry** with real heat, **aubergine moju** — fried aubergine pickled sweet-sour with mustard and vinegar — and a cashew curry that tastes of far more cream than it contains.
+The **lamprais is served at weekends only, Saturday and Sunday, at both sites**. Otherwise: **hot butter prawns** in a beer batter, a **Ceylon chicken curry** with real heat, **aubergine moju** — fried aubergine pickled sweet-sour with mustard and vinegar — and a cashew curry.
 
 **££, two sites: 240 Upper Richmond Road in Putney and 25–27 Central Road in Worcester Park.** There is a third Colombo Kitchen: a street food stall in St James's Courtyard off Piccadilly.
 
@@ -199,7 +200,7 @@ The **lamprais is served at weekends only, Saturday and Sunday, at both sites**.
 
 *££ · Covent Garden · 4 min from Covent Garden · Cited by 4 sources*
 
-Kolamba's siblings doing **Colombo street food instead of home cooking** — plastic chairs, murals, painted lorry art and a canteen volume. It is the only place in this guide designed for a fast, loud, cheap dinner in the middle of town.
+Kolamba's siblings doing **Colombo street food instead of home cooking** — plastic chairs, murals, painted lorry art and a canteen volume.
 
 ![A bright red table crammed with dishes: fried chicken laid over a golden waffle with fried curry leaves, blue-rimmed bowls of kottu topped with red onion rings and chilli, flaky folded roti, two lentil vadai with three chutney pots, dal studded with curry leaves, a bowl of rice scattered with prawns, and a steel pot of dark curry under fried curry leaves](../../assets/articles/best-sri-lankan-restaurants-london/adoh-sharing-table.jpg)
 
@@ -221,9 +222,9 @@ Started at food markets in the Midlands and now three London rooms — **114 Too
 
 *Kothu, Tooting.*
 
-The **mutton kothu roti** is the signature, and **you pick the heat**, which almost nobody else lets you do. The **string hopper set** is the quieter order, and the **cheesy mutton rolls** — deep-fried, slow-cooked lamb, molten cheese — are the thing regulars add at the end. King prawn poriyal and devilled kingfish are the two dishes to order if you want to see what the kitchen can do.
+The **mutton kothu roti** is the signature, and **you pick the heat**. The **string hopper set** is the quieter order, and the **cheesy mutton rolls** — deep-fried, slow-cooked lamb, molten cheese — are the thing regulars add at the end. King prawn poriyal and devilled kingfish are the two dishes to order if you want to see what the kitchen can do.
 
-**£ and walk-in.** There is a full bar as well as a kitchen, so it stays busy after the neighbouring kitchens have stopped.
+**£ and walk-in.** There is a full bar as well as a kitchen.
 
 **Book:** [kothurestaurant.co.uk](https://kothurestaurant.co.uk/)
 
@@ -231,18 +232,18 @@ The **mutton kothu roti** is the signature, and **you pick the heat**, which alm
 
 ## By tradition, because Sri Lanka is not one cuisine
 
-The cooking changes completely between the ends of the island, and this is the axis that decides where you should eat.
+The cooking differs between the ends of the island.
 
 ### Jaffna and the Tamil north
 
-Seafood, tamarind sourness and fenugreek rather than coconut richness — the food closest to Tamil Nadu across the strait, and the tradition best represented in London.
+Seafood, tamarind sourness and fenugreek rather than coconut richness — the food closest to Tamil Nadu across the strait.
 
 - **[Rambutan](#rambutan-borough-market)**, Borough Market — Jaffna crab curry over an open fire. *Cited by 12 sources*
 - **[Jaffna House](#jaffna-house-tooting)**, Tooting — the name is the region. *Cited by 12 sources*
-- **Gana**, Rayners Lane — the Harrow room the Sri Lankan community goes to, cooking Jaffna-style: **kool**, a thick shellfish soup from the northern coast that almost nothing else in Britain serves, and **vendhaya kuzhambu**, a fenugreek curry whose bitterness is mellowed with coconut milk. Hoppers come in red or white rice. *Cited by 3 sources*
+- **Gana**, Rayners Lane — a Harrow room cooking Jaffna-style: **kool**, a thick shellfish soup from the northern coast, and **vendhaya kuzhambu**, a fenugreek curry whose bitterness is mellowed with coconut milk. Hoppers come in red or white rice. *Cited by 3 sources*
 - **Trinco Bay**, Rayners Lane — on the same Village Way parade as Gana, named for Trincomalee on the north-east coast. A whole menu section of **devils**: chicken, prawn, kingfish, mutton, squid and seafood, stir-fried fierce and sour with chilli and onion. All meat is halal. *Cited by 3 sources* · **[trincobay.co.uk](https://trincobay.co.uk/)**
 
-> ⚠️ **Trinco Bay is closed Monday and Tuesday.** It is a long way out on the Metropolitan line to find a dark window.
+> ⚠️ **Trinco Bay is closed Monday and Tuesday.**
 
 ### Colombo and the south
 
@@ -250,11 +251,11 @@ Coconut milk, pol sambol — grated coconut pounded with chilli, lime and Maldiv
 
 - **[Kolamba](#kolamba-soho-and-shoreditch)**, Soho and Shoreditch — named for the city. *Cited by 13 sources*
 - **[Colombo Kitchen](#colombo-kitchen-putney-and-worcester-park)**, Putney and Worcester Park — west-coast cooking from Negombo. *Cited by 6 sources*
-- **Machan Kitchen**, Farringdon — exposed brick, bamboo and masks on Farringdon Road, doing jackfruit cutlets, cashew nut curry and parippu dhal in portions built for sharing. One source names it, which for a Sri Lankan restaurant ten minutes from Farringdon station is surprisingly few. *Cited by 1 source* · **[machankitchen.co.uk](https://machankitchen.co.uk/)**
+- **Machan Kitchen**, Farringdon — exposed brick, bamboo and masks on Farringdon Road, doing jackfruit cutlets, cashew nut curry and parippu dhal in portions built for sharing. *Cited by 1 source* · **[machankitchen.co.uk](https://machankitchen.co.uk/)**
 
 ### Sri Lankan Muslim
 
-Buriani built on whole spice rather than tomato, godamba roti slapped thin on the griddle, and deep-fried short eats. It is the strand London covers worst.
+Buriani built on whole spice rather than tomato, godamba roti slapped thin on the griddle, and deep-fried short eats.
 
 - **[Hoppers](#hoppers-soho)** — the **lamb shoulder buriani** is the Moor dish on a mainstream menu, and the chicken and lamb on the menu are halal. *Cited by 19 sources*
 - **[Trinco Bay](#jaffna-and-the-tamil-north)**, Rayners Lane — fully halal. *Cited by 3 sources*
@@ -262,7 +263,7 @@ Buriani built on whole spice rather than tomato, godamba roti slapped thin on th
 
 ### Dutch Burgher lamprais
 
-One dish, and it is worth travelling for: rice cooked in stock with a meat curry, aubergine pickle, seeni sambol, a fish cutlet and an egg, wrapped in a banana leaf and baked so the leaf perfumes everything inside it. Three hundred years of Dutch colonial kitchen, still made by hand.
+One dish: rice cooked in stock with a meat curry, aubergine pickle, seeni sambol, a fish cutlet and an egg, wrapped in a banana leaf and baked so the leaf perfumes everything inside it.
 
 - **[Dammika's](#dammikas-victoria)**, Victoria — chicken lamprais, on the menu daily. *Cited by 7 sources*
 - **[Colombo Kitchen](#colombo-kitchen-putney-and-worcester-park)**, Putney and Worcester Park — **weekends only, Saturday and Sunday**, at both sites. *Cited by 6 sources*
@@ -274,8 +275,8 @@ One dish, and it is worth travelling for: rice cooked in stock with a meat curry
 
 Everything here comes in under £20 a head.
 
-- **Best Foods Supermarket**, Walthamstow — a corner shop on Forest Road with a hot Sri Lankan counter behind the grocery racks: trays of smoky aubergine and mutton curry, spiced chicken samosas, crisp mutton rolls, string hoppers. Grab-and-go, no seats, and two independent guides name a corner shop. *Cited by 2 sources*
-- **[Jaffna House](#jaffna-house-tooting)**, Tooting — thirty-five years of pocket-money prices on Tooting High Street. *Cited by 12 sources*
+- **Best Foods Supermarket**, Walthamstow — a corner shop on Forest Road with a hot Sri Lankan counter behind the grocery racks: trays of smoky aubergine and mutton curry, spiced chicken samosas, crisp mutton rolls, string hoppers. Grab-and-go, no seats. *Cited by 2 sources*
+- **[Jaffna House](#jaffna-house-tooting)**, Tooting — on Tooting High Street since 1991. *Cited by 12 sources*
 - **[Apollo Banana Leaf](#apollo-banana-leaf-tooting)**, Tooting — a long menu and nothing on it expensive. *Cited by 7 sources*
 - **[Karapincha](#karapincha-canary-wharf-and-two-markets)** — kothu roti at market-stall prices in three places. *Cited by 7 sources*
 - **Palm Beach**, Wembley — on Ealing Road, doing a long list of devilled dishes and a kottu you build yourself: choose godamba roti, string hoppers or pittu as the base. The menu is long and half of it is Indian; order from the Sri Lankan half. *Cited by 3 sources*
@@ -294,25 +295,25 @@ Counters and single-dish kitchens, for when you have twenty minutes.
 
 ## Counters, station kitchens and market stalls
 
-The form nobody writes up, and in this cuisine it is where a lot of the best cooking sits. Named traders only — the hall is the address, not the restaurant.
+Named traders only: the hall is the address, not the restaurant.
 
 | Trader | Where | What to order, and why it works there |
 | --- | --- | --- |
 | **Karapincha** | Old Spitalfields Market, E1 | Kothu roti chopped to order on the hot plate. The sisters traded markets for years before they had restaurants, and this is still the original format |
 | **Karapincha** | Mercato Metropolitano, Elephant & Castle, SE1 | A curry plate you build yourself — slow-cooked beef, aubergine moju — which suits a hall where everyone shares a table |
-| **Karapincha** | Unit 14, Canary Wharf station, E14 | The chicken kothu. A hot Sri Lankan lunch inside a Tube station should not be good and is |
+| **Karapincha** | Unit 14, Canary Wharf station, E14 | The chicken kothu. A hot Sri Lankan lunch inside a Tube station |
 | **Colombo Kitchen** | St James's Courtyard, off Piccadilly | Hoppers and kottu off a live pan. Sylvia Perera ran this stall before she had either restaurant and still runs it |
 | **Best Foods Supermarket** | 156–158 Forest Road, Walthamstow, E17 | Mutton rolls and curry by the tray from a counter behind the grocery racks. The cheapest Sri Lankan food in this guide |
 
-None of these takes a booking, and none of them is a dinner. Check hours before travelling: a stall's day is the market's day, not the restaurant trade's.
+None of these takes a booking, and none of them is a dinner. Check hours before travelling; a stall keeps the market's hours.
 
 ---
 
 ## What has changed
 
-**Kolamba East** opened on Blossom Street in the summer of 2024, taking the Soho kitchen east to the crossroads of Spitalfields, Shoreditch and the City, with a longer menu and a private dining room. **ADOH!** followed in Covent Garden, the same owners doing street food rather than home cooking.
+**Kolamba East** opened on Blossom Street, by Spitalfields, in the summer of 2024, with a longer menu and a private dining room. **ADOH!** followed in Covent Garden, the same owners doing street food rather than home cooking.
 
-**Paradise Soho has closed.** Dom Fernando's Rupert Street restaurant, which served what it believed was the only Sri Lankan tasting menu anywhere, is named by nine of the sources read for this page and by most of the lists a reader will find. It is not open.
+**Paradise Soho has closed.** Dom Fernando's Rupert Street restaurant is still named by nine of the sources and by many lists.
 
 ---
 
@@ -326,20 +327,20 @@ Named by one or two sources, or further out from the centre.
 | **Everest Curry King** | Lewisham | £ | A Loampit Hill canteen with a long vegetarian menu, and bring your own bottle |
 | **Watch Me** | Wimbledon | £ | Family-run on Morden Road, across Sri Lankan and South Indian; string hoppers with sambol |
 | **Serendip Flavours** | Bow | £ | A railway arch doing collection and delivery only, built around chicken lamprais |
-| **Tharshini's** | Tooting | £ | A halal Sri Lankan takeaway, covered by a specialist and by nobody else |
+| **Tharshini's** | Tooting | £ | A halal Sri Lankan takeaway |
 | **Sambal Kitchen & Diner** | South Harrow | £ | A café beside the Sambal Express grocer, doing Sri Lankan dosas, poriyal and Moor biryani |
 | **Malar Spice** | Wembley | £ | High Road, cooking for the Tamil community rather than for visitors |
-| **Spicyelon** | Carshalton | £ | Wrythe Lane, and the only Sri Lankan kitchen anyone films in the far south-west |
+| **Spicyelon** | Carshalton | £ | Wrythe Lane |
 | **Veechu** | London | ££ | Sri Lankan fusion: cheese kothu, and hoppers served as a dessert |
 
 ---
 
 ## Eating this food well
 
-* **Eat with your hands, or don't.** Nobody minds either way, but a kottu is easier that way and a hopper is designed for it.
+* **Eat with your hands if you like.** A hopper is designed for it.
 * **Sambol is not chutney.** Pol sambol is grated coconut pounded with chilli, lime and dried Maldive fish; katta sambol drops the coconut and doubles the chilli. Both are seasoning, not a side.
-* **Heat is real here.** Sri Lankan food is hotter than most Indian restaurant cooking, and coconut milk does not make it milder. Kothu and Apollo Banana Leaf both let you pick a level; most kitchens do not ask.
-* **Vegetarians do well and vegans do better than they expect.** The curries are built on coconut milk rather than dairy, so a vegetarian menu is usually vegan already. Check the Maldive fish, which turns up in sambols and in dhal.
+* **Heat is real.** Coconut milk does not make it milder. Kothu and Apollo Banana Leaf both let you pick a level; most kitchens do not ask.
+* **Vegetarians and vegans.** The curries are built on coconut milk rather than dairy, so a vegetarian menu is usually vegan already. Check the Maldive fish, which turns up in sambols and in dhal.
 * **Arrack is the island's spirit**, distilled from coconut flower sap. Hoppers and Kolamba both pour it.
 * **Halal:** Trinco Bay and Tharshini's are fully halal, and Hoppers serves halal chicken and lamb. Elsewhere, ask — it varies by dish as well as by kitchen.
 
@@ -356,4 +357,4 @@ Named by one or two sources, or further out from the centre.
 - 🛍️ **[The Best Markets in London](/articles/best-london-markets/)**
 - 🎭 **[Soho Area Guide](/articles/soho-area-guide/)** · **[Covent Garden Area Guide](/articles/covent-garden-area-guide/)** · **[Canary Wharf Area Guide](/articles/canary-wharf-area-guide/)**
 
-*Evidence built 22 September 2026 from 28 independent sources. Addresses, dishes and hours are from the operators and the sources named against each entry. Counters and market stalls change hours more often than restaurants do — check before travelling.*
+*Counters and market stalls change hours more often than restaurants do; check before travelling.*
