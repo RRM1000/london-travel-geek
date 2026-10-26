@@ -3,7 +3,8 @@ title: "The Best Steak in London, Cross-Referenced Across Every Major Guide and 
 seoTitle: "Best Steak Restaurants London 2026: Ranked by Consensus"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-08-24
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -13,22 +14,22 @@ heroImage: "../../assets/articles/best-steak-restaurants-london/flat-iron-steak.
 heroImageAlt: "A flat iron steak sliced on a wooden board with creamed spinach and beef dripping chips"
 faq:
   - q: "What is the best steak restaurant in London?"
-    a: "Hawksmoor, on the evidence. Eight independent sources name it — more than anything else — and it is 13th in the World's 101 Best Steak Restaurants 2026, the highest-placed British steakhouse in the city. Ibai in Farringdon places higher on that list at 7th, but it is a Basque asador cooking something quite different."
+    a: "Hawksmoor, on the evidence. Eight independent sources name it — more than anything else — and it is 13th in the World's 101 Best Steak Restaurants 2026, the highest-placed British steakhouse in the city. Ibai in Farringdon places higher on that list at 7th, but it is a Basque asador, a different style."
   - q: "What is the cheapest good steak in London?"
-    a: "Flat Iron, at £15 for a single 200g cut, no bookings and free ice cream at the end. Blacklock's All In is £28 a head for beef, pork and lamb, and its dry-aged steak list starts at £16. Both are good rather than cheap-for-what-it-is."
+    a: "Flat Iron, at £15 for a single 200g cut, with free ice cream at the end. Blacklock's All In is £28 a head for beef, pork and lamb, and its dry-aged steak list starts at £16."
   - q: "What is a Basque asador and how is it different?"
-    a: "Basque asadors cook txuleta — rib chops from old dairy cows rather than young cattle — over coals, and serve them rare and sliced for the table. The beef is darker, more mineral and far more intensely flavoured than a British dry-aged sirloin. Ibai, Lurra and Sagardi are London's three."
+    a: "Basque asadors cook txuleta — rib chops from old dairy cows rather than young cattle — over coals, and serve them rare and sliced for the table. The beef is darker and more intensely flavoured than a British dry-aged sirloin. Ibai, Lurra and Sagardi are London's three."
   - q: "How far ahead should I book?"
-    a: "Ibai and Lurra go weeks out. Sagardi is the same style and usually much easier. Flat Iron takes no bookings at all — turn up and queue. Hawksmoor's set lunch is the cheapest way into the same kitchen and is easier to get than dinner."
+    a: "Ibai and Lurra go weeks out. Sagardi is the same style and usually much easier. Flat Iron takes bookings and keeps room for walk-ins. Hawksmoor's set lunch is the cheapest way into the same kitchen and is easier to get than dinner."
   - q: "Is steak in London always expensive?"
-    a: "No, but the good cheap options are a short list. Flat Iron at £15, Blacklock's All In at £28 a head, and Hawksmoor's set lunch are the three that give you well-sourced beef without the £100 dinner. Everything else on this page at the top end runs £70 upwards."
+    a: "No. Flat Iron at £15, Blacklock's All In at £28 a head and Hawksmoor's set lunch are the cheap ways in. Top-end dinners elsewhere on this page run £70 upwards."
 ---
 
-London does three different things with beef and they are not variations on each other. There is the **British steakhouse** — dry-aged native breeds over charcoal. There is the **Basque asador**, cooking rib chops from old dairy cows and serving them rare, sliced, for the table. And there is the **butcher's counter**, where the animal comes first and the room is incidental.
+London cooks beef three ways. The **British steakhouse** does dry-aged native breeds over charcoal. The **Basque asador** grills rib chops from old dairy cows and serves them rare and sliced for the table. At the **butcher's counter** the animal comes first and the room is incidental.
 
-Order a txuleta expecting a sirloin and you will be surprised. So this guide starts with the places the sources agree on, then splits the rest by which of those three you actually want.
+A txuleta is not a sirloin, so pick the style first. The places the sources agree on come first, then the rest by style.
 
-> 💡 **The Short Version:** **Hawksmoor** is the most-cited steak in London and the British benchmark. **Ibai** is the highest-placed, 7th in the world on the one ranking that covers this category. **Flat Iron** is £15 and good. **Blacklock** is the value pick and does chops and steaks equally. **The Guinea Grill** is the old-Mayfair one visitors never find.
+> 💡 **The Short Version:** **Hawksmoor** is the most-cited steak in London. **Ibai** is the highest-placed, 7th in the world on the one ranking that covers this category. **Flat Iron** is £15. **Blacklock** is the value pick and does chops and steaks equally. **The Guinea Grill** is the old-Mayfair grill room.
 
 > 📊 **The evidence behind this guide.**
 > **21 sources carrying 118 citations** across **60 named restaurants**. **21 restaurants are named by two or more independent sources; 9 carry a dated ranking.**
@@ -65,15 +66,15 @@ Order a txuleta expecting a sirloin and you will be surprised. So this guide sta
 
 ## The most agreed on
 
-Ranked by how many independent sources name each one. Where a restaurant also has a placement in the World's 101 Best Steak Restaurants 2026, it is shown.
+Ranked by how many independent sources name each one, with the World's 101 Best Steak Restaurants 2026 placement where there is one.
 
 ### Hawksmoor, Spitalfields
 
 *££££ · several sites · Cited by 8 sources · #13, World's 101 Best Steak Restaurants*
 
-**British beef dry-aged and grilled over charcoal**, in rooms that were mostly something else first — a brewery, a bank, a ballroom. Spitalfields was the original and set the template every London steakhouse since has worked from.
+**British beef dry-aged and grilled over charcoal**, in converted rooms — a brewery, a bank, a ballroom. Spitalfields was the original.
 
-The beef is native breed, dry-aged on the bone and cooked over charcoal rather than in a broiler, which is the distinguishing choice. **Porterhouse and rib for two, priced by weight**, and the sides to order are the **bone-marrow gravy** and dripping-cooked chips. The Sunday roast is among the best in London.
+Native-breed beef, dry-aged on the bone and cooked over charcoal rather than in a broiler. **Porterhouse and rib for two, priced by weight**; order the **bone-marrow gravy** and dripping-cooked chips. The Sunday roast is in our [Sunday roast guide](/articles/best-sunday-roast-london/#hawksmoor-spitalfields).
 
 **££££ and it books weeks ahead.** Several London sites; Spitalfields, Guildhall and Air Street are the ones people name.
 
@@ -83,25 +84,23 @@ The beef is native breed, dry-aged on the bone and cooked over charcoal rather t
 
 ### Flat Iron, Soho
 
-*£ · £15 · no bookings · Cited by 7 sources*
+*£ · £15 · bookings and walk-ins · Cited by 7 sources*
 
-**One cut, one price.** No bookings, and the queue moves. The cheapest good steak in central London by a considerable distance, and the second most-cited restaurant on this page, on a £15 plate. Order the creamed spinach and the beef dripping chips as sides.
+**One cut, one price.** Soho takes bookings through Flat Iron's site and keeps room for walk-ins; if there is a wait, staff take your details rather than make you queue. The second most-cited restaurant on this page, on a £15 plate. Order the creamed spinach and the beef dripping chips as sides.
 
 ![A flat iron steak sliced on a wooden board, with creamed spinach, beef dripping chips and sauces in enamel dishes](../../assets/articles/best-steak-restaurants-london/flat-iron-steak.jpg)
 
 *The flat iron steak.*
 
-Popcorn arrives while you wait and there is free salted caramel ice cream at the end, which is a large part of why the queue is tolerable.
+Popcorn arrives while you wait and there is free salted caramel ice cream at the end.
 
 ### CUT at 45 Park Lane, Mayfair
 
 *££££ · 5 min from Hyde Park Corner · Cited by 6 sources*
 
-**Wolfgang Puck's steakhouse inside 45 Park Lane**, and the room where London first met USDA prime alongside British and Japanese beef on the same menu.
+**Wolfgang Puck's steakhouse inside 45 Park Lane.** **Japanese A5 wagyu, USDA prime and British native breed** are listed side by side and priced accordingly, so you can compare them in one sitting. Everything comes off a hardwood and charcoal broiler.
 
-The proposition is comparison: **Japanese A5 wagyu, USDA prime and British native breed** listed side by side and priced accordingly, so you can taste what the differences actually are. Everything comes off a hardwood and charcoal broiler.
-
-**££££ and it books weeks ahead.** The most expensive steak in this guide by a distance, and the only place to do that comparison in one sitting.
+**££££ and it books weeks ahead.**
 
 ![A sliced steak at CUT, dark and heavily crusted at the edge with a red centre, fanned across a white plate with a sprig of thyme and a dark sauce](../../assets/articles/best-steak-restaurants-london/cut-45-park-lane.jpg)
 
@@ -111,9 +110,9 @@ The proposition is comparison: **Japanese A5 wagyu, USDA prime and British nativ
 
 *££££ · 7 min from Green Park · Cited by 6 sources · #99, World's 101 Best Steak Restaurants*
 
-**A Mayfair pub with a grill room behind it that has been serving steak since 1952** — dark wood, red banquettes, and a room that has resisted every fashion since.
+**A Mayfair pub with a grill room behind it, serving steak since 1952** — dark wood and red banquettes.
 
-Beef is dry-aged in-house and grilled plainly, and the **steak and kidney pie** is as famous as the steaks — it has won national pie awards repeatedly and sells out most days. Order it if it is on.
+Beef is dry-aged in-house and grilled plainly. The **steak and kidney pie** is as well known as the steaks; it has won national pie awards and sells out most days, so order it if it is on.
 
 **£££, and book for the grill room** — the pub at the front takes walk-ins and is a different, cheaper experience.
 
@@ -125,11 +124,11 @@ Beef is dry-aged in-house and grilled plainly, and the **steak and kidney pie** 
 
 *££ · chops and steaks · Cited by 6 sources*
 
-Cooked over coals in a Soho basement, at prices well under the steakhouse average. The name says chops, but **the menu runs both** — skinny lamb and pork chops flattened under vintage Blacklock irons, and a proper steak list of Denver, bavette, rump cap, sirloin, sixth rib-eye and fillet at £16–25, dry-aged up to 55 days. The bigger bone-in cuts — porterhouse, prime rib, bone-in sirloin — sit apart from that list as Butcher's Cuts, sold by weight at around £10–11 per 100g.
+Cooked over coals in a Soho basement. The name says chops, but **the menu runs both** — skinny lamb and pork chops flattened under vintage Blacklock irons, and a proper steak list of Denver, bavette, rump cap, sirloin, sixth rib-eye and fillet at £16–25, dry-aged up to 55 days. The bigger bone-in cuts — porterhouse, prime rib, bone-in sirloin — sit apart from that list as Butcher's Cuts, sold by weight at around £10–11 per 100g.
 
-**The All In is the order** if there are two or more of you: pre-chop bites, then beef, pork and lamb piled onto charcoal-grilled flatbreads with a side each, for £28 a head. MORE FALLOW's chefs called the Canary Wharf site probably the best steakhouse in the UK.
+**The All In is the order** for two or more: pre-chop bites, then beef, pork and lamb piled onto charcoal-grilled flatbreads with a side each, for £28 a head. MORE FALLOW's chefs called the Canary Wharf site probably the best steakhouse in the UK.
 
-The Sunday roast here is one of the best in London.
+The Sunday roast is in our [Sunday roast guide](/articles/best-sunday-roast-london/#blacklock-soho).
 
 **Book:** [Reserve a table](https://theblacklock.com/restaurants/blacklock-soho/)
 
@@ -141,11 +140,11 @@ The Sunday roast here is one of the best in London.
 
 *£££ · 4 min from Farringdon · Cited by 4 sources*
 
-**The 1869 room is Grade II listed and the wooden booths are deliberately uncomfortable** — built as a working man's dining hall and never refitted, with "Progressive Working Class Caterer" still on the sign.
+**An 1869 Grade II listed room with wooden booths**, built as a working man's dining hall, with "Progressive Working Class Caterer" still on the sign.
 
-The beef is well sourced and simply cooked, but the dish that made the room famous is a side: **confit potatoes**, thin-sliced, pressed into a block, confited and fried so the layers separate. Order them regardless of what else you have.
+The beef is simply cooked, but the dish the room is known for is a side: **confit potatoes**, thin-sliced, pressed into a block, confited and fried so the layers separate. Order them.
 
-**£££ and it books weeks ahead.** Farringdon. The butcher's shop next door sells the same beef to take home.
+**£££ and it books weeks ahead.** The butcher's shop next door sells the same beef to take home.
 
 ![Slices of rare beef resting in a pool of dark jus on a white plate with a gold-patterned rim](../../assets/articles/best-steak-restaurants-london/quality-chop-house.jpg)
 
@@ -155,9 +154,7 @@ The beef is well sourced and simply cooked, but the dish that made the room famo
 
 *££££ · 4 min from Oxford Circus · Cited by 4 sources*
 
-A New York steakhouse played completely straight — leather booths, a specials chalkboard, and no concept beyond aged beef cooked correctly.
-
-The useful quirk is that **USDA and British dry-aged cuts sit on the same menu**, so you can taste the difference in one sitting rather than arguing about it. Mayfair and the City are the sites to use.
+A New York steakhouse with leather booths and a specials chalkboard. **USDA and British dry-aged cuts sit on the same menu**, so you can compare them in one sitting. Mayfair and the City are the sites to use.
 
 ![A grilled steak with a bowl of chips](../../assets/articles/best-steak-restaurants-london/goodman.jpg)
 
@@ -169,8 +166,6 @@ The useful quirk is that **USDA and British dry-aged cuts sit on the same menu**
 
 ## By style
 
-Three different products. Ordering the wrong one is the most common mistake on this page.
-
 ### British steakhouse
 
 Dry-aged native breeds over charcoal — Longhorn, Hereford, Aberdeen Angus. [Hawksmoor](#hawksmoor-spitalfields), [Blacklock](#blacklock-soho), [The Guinea Grill](#the-guinea-grill-mayfair), [Goodman](#goodman-mayfair) and [The Quality Chop House](#the-quality-chop-house-clerkenwell) are all above. Two more:
@@ -179,15 +174,13 @@ Dry-aged native breeds over charcoal — Longhorn, Hereford, Aberdeen Angus. [Ha
 
 *££££ · 1 min from Bank · Cited by 3 sources · #35, World's 101 Best Steak Restaurants*
 
-The old bank manager's office inside The Ned, which is exactly as clubbable as that sounds.
-
-Rare-breed Longhorn and Hereford, and **44-day-aged prime rib carved at your table from a trolley** — the kind of service that had almost died out.
+The old bank manager's office inside The Ned. Rare-breed Longhorn and Hereford, and **44-day-aged prime rib carved at your table from a trolley**.
 
 #### Smith & Wollensky, Covent Garden
 
 *££££ · 4 min from Embankment · Cited by 3 sources*
 
-The New York institution's London site, on the Adelphi building by the river. USDA Prime, dry-aged in house, and a room built at a scale nothing else here attempts.
+The New York steakhouse's London site, in the Adelphi building by the river. USDA Prime, dry-aged in house, in a very large room.
 
 ![Slices of rare steak with watercress and a smear of béarnaise, on a white plate printed with the Smith & Wollensky crest on the rim](../../assets/articles/best-steak-restaurants-london/smith-and-wollensky.jpg)
 
@@ -195,13 +188,13 @@ The New York institution's London site, on the Adelphi building by the river. US
 
 ### Basque asador
 
-A coal fire and an aged rib chop. **Txuleta comes from old dairy cows rather than young cattle** — darker, more mineral, and far more intensely flavoured than a British steak. It is ordered rare and sliced for the table, and asking for it well done defeats the point.
+A coal fire and an aged rib chop. **Txuleta comes from old dairy cows rather than young cattle** — darker and more intensely flavoured than a British steak. Order it rare; it is sliced for the table.
 
 #### Ibai, Farringdon
 
 *££££ · 4 min from Barbican · Cited by 5 sources · #7, World's 101 Best Steak Restaurants*
 
-**The highest-placed steak restaurant in London** on the only ranking that covers the category — seventh in the world. From Txuleta, one of the country's leading meat suppliers, who opened a restaurant to sell the best of what they source.
+**The highest-placed steak restaurant in London** on the only ranking that covers the category — seventh in the world. It was opened by the meat supplier Txuleta.
 
 **Book:** [Reserve a table](https://www.ibai.london/)
 
@@ -209,15 +202,13 @@ A coal fire and an aged rib chop. **Txuleta comes from old dairy cows rather tha
 
 *£££ · 9 min from Old Street · Cited by 3 sources · #90, World's 101 Best Steak Restaurants*
 
-London's most accessible asador — Ibai and Lurra book out weeks ahead, this one often does not. **Txuleton from old free-range cows**, over a charcoal grill set in the middle of the dining room, with the butchery room open to view as you walk in.
-
-Cheaper than the other two, and the gap in quality is smaller than the gap in price.
+Ibai and Lurra book out weeks ahead; this one often does not. **Txuleton from old free-range cows**, over a charcoal grill in the middle of the dining room, with the butchery room open to view as you walk in. Cheaper than the other two.
 
 #### Lurra, Marylebone
 
 *££££ · 3 min from Marble Arch · Cited by 2 sources*
 
-**Aged Galician txuleta and whole turbot over coals**, from the same team as Ibai. The turbot is as much the reason to come as the beef.
+**Aged Galician txuleta and whole turbot over coals**, from the same team as Ibai.
 
 **Book:** [Reserve a table](http://www.sevenrooms.com/reservations/lurramarylebone)
 
@@ -227,7 +218,7 @@ Cheaper than the other two, and the gap in quality is smaller than the gap in pr
 
 *£££ · 5 min from Shoreditch High Street · Cited by 2 sources · #17, World's 101 Best Steak Restaurants*
 
-Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. Basque in influence rather than in name, and the **whole grilled turbot** is what it is known for — but the beef placed it 17th in the world.
+Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. The **whole grilled turbot** is what it is known for, but the beef placed it 17th in the world.
 
 **Book:** [Reserve a table](http://bratrestaurant.com/)
 
@@ -235,7 +226,7 @@ Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. Basq
 
 *£££ · 5 min from South Kensington · Cited by 2 sources*
 
-**A butcher's counter that became a restaurant** — Piedmontese Fassona beef hung in the window and cut to order in front of you. Fassona is lean and low-fat, usually served rare or raw; the **carne cruda** is the dish that explains the place.
+**A butcher's counter that became a restaurant** — Piedmontese Fassona beef hung in the window and cut to order. Fassona is lean and usually served rare or raw; try the **carne cruda**.
 
 ![A disc of raw chopped Fassona beef on a black slate board, with rocket and two tomato wedges beside it](../../assets/articles/best-steak-restaurants-london/macellaio-carne-cruda.jpg)
 
@@ -245,7 +236,7 @@ Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. Basq
 
 *££ · 3 min from Piccadilly Circus · Cited by 2 sources · #45, World's 101 Best Steak Restaurants*
 
-Better known as the hardest pint to get in Soho, but the dining room upstairs grills over coals and placed 45th in the world. Getting in is the whole problem — it does not take bookings for the bar, and the restaurant goes weeks out.
+A Soho pub with a dining room upstairs that grills over coals and placed 45th in the world. The bar takes no bookings and the restaurant goes weeks out.
 
 ![A steak at The Devonshire, sliced across the grain and topped with a ribbon of bearnaise, with thick-cut chips and buttered peas](../../assets/articles/best-steak-restaurants-london/the-devonshire-steak.jpg)
 
@@ -258,27 +249,27 @@ Better known as the hardest pint to get in Soho, but the dining room upstairs gr
 * **[Flat Iron](#flat-iron-soho)** — £15 for a single 200g cut, no bookings. *Cited by 7 sources*
 * **[Blacklock](#blacklock-soho)** — the All In at £28 a head, and a dry-aged steak list from £16. *Cited by 6 sources*
 * **[Hawksmoor](#hawksmoor-spitalfields)** — the set lunch is the same beef and the same kitchen at a fraction of the dinner price. *Cited by 8 sources*
-* **[The Guinea Grill](#the-guinea-grill-mayfair)** — the award-winning steak and kidney pie, in a Mayfair grill room, for a fraction of the beef price. *Cited by 6 sources*
+* **[The Guinea Grill](#the-guinea-grill-mayfair)** — the award-winning steak and kidney pie, in the grill room, for less than the beef. *Cited by 6 sources*
 * **[Sagardi](#sagardi-shoreditch)** — the cheapest of the three asadors and the easiest table. *Cited by 3 sources*
 
 ---
 
 ## Other restaurants named
 
-Backed by the sources but not written up above, either because only two guides name them or because they sit outside the styles covered.
+Named by the sources but not written up above.
 
 | Restaurant | Area | Price | Cited by | What it is |
 | --- | --- | --- | --- | --- |
 | **Zoilo** | Fitzrovia | £££ | 2 sources · #96, World's 101 | Argentine, cooking by region rather than by cut |
-| **Chelsea Grill** | Chelsea | £££ | 1 source · #55, World's 101 | Placed 55th in the world and named by almost nobody else |
+| **Chelsea Grill** | Chelsea | £££ | 1 source · #55, World's 101 | Placed 55th in the world |
 | **Sucre** | Soho | £££ | 2 sources | Argentine wood-fire cooking in a large Soho basement |
-| **Gaucho** | Various | £££ | 2 sources | The Argentine chain; consistent rather than exciting, and everywhere |
+| **Gaucho** | Various | £££ | 2 sources | The Argentine chain, with sites across London |
 | **M Restaurant** | Threadneedle Street | ££££ | 2 sources | A tasting flight of beef from different countries, side by side |
 | **Daffodil Mulligan** | Old Street | £££ | 2 sources | Irish cooking over fire from Richard Corrigan |
-| **Karve Steakhouse** | Lower Clapton | ££ | 1 source | Everything over wood fire, and halal — a rare combination at this level |
-| **Smiths of Smithfield** | Farringdon | £££ | 1 source | Next to the meat market it buys from, which is the entire proposition |
-| **Brutto** | Clerkenwell | ££ | — | The Florentine T-bone for sharing. Well supported as **Italian** rather than as steak |
-| **Zelman Meats** | Knightsbridge | ££ | — | Sliced picanha and sharing cuts from the Goodman group, priced well under its parent |
+| **Karve Steakhouse** | Lower Clapton | ££ | 1 source | Everything over wood fire, and halal |
+| **Smiths of Smithfield** | Farringdon | £££ | 1 source | Next to Smithfield meat market |
+| **Brutto** | Clerkenwell | ££ | — | The Florentine T-bone for sharing |
+| **Zelman Meats** | Knightsbridge | ££ | — | Sliced picanha and sharing cuts, from the Goodman group |
 
 [See all steak restaurants →](/restaurants/cuisine/british)
 
@@ -288,11 +279,10 @@ Backed by the sources but not written up above, either because only two guides n
 
 ## What to know
 
-* **Ask how it is aged.** Dry-aged and wet-aged are different products and every restaurant here will tell you which.
-* **Basque txuleta is ordered rare and sliced** for the table. Asking for it well done defeats the point and the kitchen will tell you so.
-* **Steak is priced by weight** at the asadors and butcher counters. Confirm the total before agreeing.
-* **Resting takes time.** The good places rest the meat before serving, which is why it arrives later than you expect.
-* **Flat Iron and The Devonshire take no bookings** for their main rooms. Everything else here does, and Ibai and Lurra need weeks.
+* **Ask how it is aged.** Dry-aged and wet-aged are different products.
+* **Basque txuleta is ordered rare and sliced** for the table.
+* **Steak is priced by weight** at the asadors and butcher counters. Confirm the total before ordering.
+* **Flat Iron takes bookings and walk-ins**; The Devonshire's bar takes no bookings. Everything else here books, and Ibai and Lurra need weeks.
 * **Service charge** of 12.5% is discretionary and standard.
 
 ---
