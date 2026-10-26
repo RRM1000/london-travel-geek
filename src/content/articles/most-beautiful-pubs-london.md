@@ -5,7 +5,8 @@ description: "The most beautiful pubs in London: The Churchill Arms for its flow
 heroImage: "../../assets/articles/most-beautiful-pubs-london/churchill-arms-flowers.jpg"
 heroImageAlt: "The Churchill Arms on Kensington Church Street, its whole frontage covered in hanging flower baskets and Union flags, with a crowd drinking outside"
 publishedAt: 2026-07-14
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -26,13 +27,13 @@ faq:
     a: "High summer, when the whole front is covered. In December the flowers make way for dozens of Christmas trees and lights. The crowd outside is there year-round, so for a clear photograph go early in the day."
 ---
 
-**The most beautiful pubs in London are The Blackfriar and The Princess Louise for their interiors, and The Churchill Arms for its flower-covered frontage.** The lists split between those two ways a pub gets called beautiful.
+**The most beautiful pubs in London are The Blackfriar and The Princess Louise for their interiors, and The Churchill Arms for its flower-covered frontage.**
 
-One is **the room**: a late Victorian gin palace with its etched glass, mirrors and carved mahogany still in place. Those are judged, because the Campaign for Real Ale keeps a **register of pub interiors of national importance** and rates them from one star to three. The other is **the outside** — flowers, a riverside terrace, a building in a cobbled lane — which is what gets photographed, and which nobody judges at all.
+Pubs get called beautiful for two reasons. **The room** is a late Victorian gin palace with its etched glass, mirrors and carved mahogany still in place; the Campaign for Real Ale keeps a **register of pub interiors of national importance** and rates them from one star to three. **The outside** — flowers, a riverside terrace, a building in a cobbled lane — is what gets photographed.
 
-This guide counts both. Where a pub is here mainly for its age and its stories, our [guide to London's historic pubs](/articles/historic-pubs-dining-rooms-london/) goes further into those.
+This guide counts both. For pubs here mainly for their age and stories, see our [guide to London's historic pubs](/articles/historic-pubs-dining-rooms-london/).
 
-> 💡 **The Short Version:** **The Churchill Arms** is named by more sources than anywhere, for its flowers. **The Blackfriar** and **The Princess Louise** are the interiors the lists agree on most, and both hold CAMRA's three stars. **The Viaduct Tavern** and **Ye Olde Mitre** are closed on Sundays. And the newest award-winning room in London is **The Blue Stoops** in Kensington, a former wine bar.
+> 💡 **The Short Version:** **The Churchill Arms** is named by more sources than anywhere, for its flowers. **The Blackfriar** and **The Princess Louise** are the interiors the lists agree on most, and both hold CAMRA's three stars. **The Viaduct Tavern** and **Ye Olde Mitre** are closed on Sundays. **The Blue Stoops** in Kensington, a former wine bar, won CAMRA's 2026 conversion award.
 
 > 📊 **The evidence behind this guide.**
 > **17 independent sources carrying 259 citations** across **187 named venues**. **38 are named by two or more sources; 129 carry a CAMRA rating or design award.**
@@ -62,7 +63,7 @@ This guide counts both. Where a pub is here mainly for its age and its stories, 
 | **Evenings only on weekdays** | The Black Lion in Kilburn from 4pm Monday to Friday; The Salisbury in Harringay from 5pm Monday to Thursday |
 | **Open seven days** | The Blackfriar, The Princess Louise, The Punch Tavern, The Argyll Arms, The Churchill Arms |
 
-The City pubs are built for office workers, so a weekday afternoon is the time to see the rooms without a crowd in them.
+A weekday afternoon is the time to see the City rooms without a crowd.
 
 ---
 
@@ -76,9 +77,9 @@ The City pubs are built for office workers, so a weekday afternoon is the time t
 
 *The Blackfriar's bronze frieze.*
 
-A thin wedge of a building standing alone by Blackfriars station, on the site of a Dominican friary. It was built in the 1870s and **remodelled around 1905 by the Arts and Crafts sculptors Frederick T. Callcott and Henry Poole**, who covered the inside in jolly friars: in bronze reliefs, in carvings over the doors, in a mosaic above the entrance, alongside great swathes of marble and glittering mosaics.
+A wedge-shaped building by Blackfriars station, on the site of a Dominican friary, built in the 1870s and **remodelled around 1905 by the Arts and Crafts sculptors Frederick T. Callcott and Henry Poole**, who covered the inside in friars: bronze reliefs, carvings over the doors and a mosaic above the entrance, among marble and more mosaics.
 
-CAMRA, SquareMeal and four independent guides all name it. **Open seven days a week.** How John Betjeman's campaign saved it from demolition is in our [historic pubs guide](/articles/historic-pubs-dining-rooms-london/).
+**Open seven days a week.** How John Betjeman's campaign saved it from demolition is in our [historic pubs guide](/articles/historic-pubs-dining-rooms-london/).
 
 ### The Princess Louise, Holborn — tiles, mirrors and a listed urinal
 
@@ -90,7 +91,7 @@ CAMRA, SquareMeal and four independent guides all name it. **Open seven days a w
 
 Discover Britain calls it possibly the most beautiful pub in London, and **Historic England put it on its list of the ten best gin palaces in the country**. Behind a plain High Holborn frontage are brightly coloured tiles, gilt mirrors, etched glass and a bar divided into small wood-and-glass booths, the original Victorian way of keeping drinkers apart.
 
-Four of the six sources send you to the gents: **the marble urinals downstairs are part of the listed interior**. Open every day, noon to 11pm, and 10.30pm on Sunday, with food at lunch and in the early evening. A Lady in London filmed it as some of the most beautiful Victorian interiors in the city.
+Four of the six sources send you to the gents: **the marble urinals downstairs are part of the listed interior**. Open every day, noon to 11pm, and 10.30pm on Sunday, with food at lunch and in the early evening.
 
 ### The Viaduct Tavern, St Paul's — Pre-Raphaelite paintings opposite the Old Bailey
 
@@ -100,7 +101,7 @@ Four of the six sources send you to the gents: **the marble urinals downstairs a
 
 *The Pre-Raphaelite-style wall.*
 
-Opened in 1869 across from the Old Bailey, and **remodelled between 1898 and 1900 under Arthur Dixon**, an Arts and Crafts designer. Historic England describes a wall of alternating mirrors and paintings of Pre-Raphaelite-style women set in marble and alabaster frames; The 500 Hidden Secrets adds etched glass and a rich red ceiling. The gin list is long, as a gin palace's should be.
+Opened in 1869 across from the Old Bailey, and **remodelled between 1898 and 1900 under Arthur Dixon**, an Arts and Crafts designer. Historic England describes a wall of alternating mirrors and paintings of Pre-Raphaelite-style women set in marble and alabaster frames; The 500 Hidden Secrets adds etched glass and a rich red ceiling.
 
 **Closed on Sunday, and on Saturday it shuts at 8pm.** Monday to Friday it runs from 11am to 11pm, which is when to go.
 
@@ -112,9 +113,9 @@ Opened in 1869 across from the Old Bailey, and **remodelled between 1898 and 190
 
 *The mirrors that survived the Blitz.*
 
-Seconds from Oxford Circus and, according to Historic England, **little changed from Victorian times in parts**. The large mirrors are the famous feature: both Historic England and Discover Britain point out that they survived the Blitz. The layout still has the small separate drinking areas that once kept one class of customer from another, with carved wood and glass screens between them.
+Seconds from Oxford Circus and, according to Historic England, **little changed from Victorian times in parts**. Historic England and Discover Britain both point out that the large mirrors survived the Blitz. Small separate drinking areas are divided by carved wood and glass screens.
 
-**Open seven days**, and to midnight on Friday and Saturday. It is on three publications' lists, the most of any pub here outside the CAMRA register.
+**Open seven days**, and to midnight on Friday and Saturday.
 
 ### The Prince Alfred, Maida Vale — duck under the snob screens
 
@@ -124,7 +125,7 @@ Seconds from Oxford Circus and, according to Historic England, **little changed 
 
 *The snob screens.*
 
-Trading since 1856, and the best example on this page of **how a Victorian pub was divided**. Its glass-and-timber snob screens split the bar into separate compartments, each with its own door to the street, and you have to duck through low doorways to move between them. Colourful original tiles and a mosaic floor; the old basement coal store is now seating.
+Trading since 1856. Its glass-and-timber snob screens split the bar into separate compartments, each with its own door to the street, and you have to duck through low doorways to move between them. Colourful original tiles and a mosaic floor; the old basement coal store is now seating.
 
 A Young's pub, **open seven days** and serving a Sunday roast. [The Warrington](#further-out-and-worth-the-trip), another three-star interior, is a few streets away.
 
@@ -136,7 +137,7 @@ A Young's pub, **open seven days** and serving a Sunday roast. [The Warrington](
 
 *Etched glass at The Salisbury.*
 
-A large pub on St Martin's Lane full of theatregoers, with **etched glass panels, a sweeping mahogany bar and interiors from around 1900**. The detail to look for, from The 500 Hidden Secrets: the original candelabras, made as women holding glowing flowers.
+A large pub on St Martin's Lane with **etched glass panels, a sweeping mahogany bar and interiors from around 1900**. The detail to look for, from The 500 Hidden Secrets: the original candelabras, made as women holding glowing flowers.
 
 Open until 12.30am on Friday and Saturday, and it serves pub classics and a Sunday roast. **Not to be confused with The Salisbury in Harringay**, further down this guide.
 
@@ -148,7 +149,7 @@ Open until 12.30am on Friday and Saturday, and it serves pub classics and a Sund
 
 *The Red Lion, Duke of York Street.*
 
-A Fuller's pub on a St James's side street, which takes table bookings online, and which London Luke's channel filmed for **its original Victorian gin palace interior**, all etched glass and mirrors. SquareMeal put it on its list of London's picturesque pubs, and CAMRA gives it three stars.
+A Fuller's pub on a St James's side street that takes table bookings online, with its **original Victorian gin palace interior**, all etched glass and mirrors. CAMRA gives it three stars.
 
 **On Sunday it closes at 6pm, and on Monday and Tuesday at 10pm.** Not the Red Lion on Crown Passage nearby, nor the one on Whitehall.
 
@@ -192,7 +193,7 @@ Open seven days, and there is a cocktail bar hidden upstairs.
 
 **Named by seven sources, more than any other pub in this guide**, and almost all of them for the outside. Secret London calls it "the most photographed pub in all of London": the whole frontage is covered in flower baskets in summer, and in December the pub replaces them with a wall of Christmas trees and lights.
 
-Inside is less famous and nearly as full — ceilings hung with wartime memorabilia, pots and tankards — and CAMRA rates the interior two stars. It has **run a Thai kitchen for more than 35 years**. Open every day. Go early for a photograph without the crowd on the pavement.
+Inside, the ceilings are hung with wartime memorabilia, pots and tankards, and CAMRA rates the interior two stars. It has **run a Thai kitchen for more than 35 years**. Open every day. Go early for a photograph without the crowd on the pavement.
 
 ### The Holly Bush, Hampstead — the pub at the top of the lane
 
@@ -214,9 +215,9 @@ It takes table bookings online and serves traditional seasonal food. An easy pai
 
 *The fire at The Spaniards Inn.*
 
-On Spaniards Road across the top of Hampstead Heath. Five sources name it, and Secret London's writers include it twice — once for the fire and the corgi, once for how it looks in snow. **Open every day from 10am, Tuesday to Saturday.**
+On Spaniards Road across the top of Hampstead Heath. Five sources name it, and Secret London's writers include it twice — once for the fire and the corgi, once for how it looks in snow. **Open every day:** from 10am Tuesday to Saturday, noon on Monday and 11.30am on Sunday.
 
-It is here for looks; the legends of highwaymen and poets are in our [historic pubs guide](/articles/historic-pubs-dining-rooms-london/).
+The legends of highwaymen and poets are in our [historic pubs guide](/articles/historic-pubs-dining-rooms-london/).
 
 ### The Trafalgar Tavern, Greenwich — on the river by the Naval College
 
@@ -226,7 +227,7 @@ It is here for looks; the legends of highwaymen and poets are in our [historic p
 
 *The terrace, dressed in signal flags.*
 
-Right on the Thames beside the Old Royal Naval College. Secret London says it could have made the list just for its riverside perch, but that inside there are **several floors of handsome rooms**, the main pub kept plain so the river views do the work. A local on TikTok filmed it simply to say how pretty it is.
+Right on the Thames beside the Old Royal Naval College, with **several floors of handsome rooms**; Secret London says the main pub is kept plain so the river views do the work.
 
 It takes online bookings for the pub, the Nile restaurant and the terrace, and it opens to midnight on Friday and Saturday.
 
@@ -252,7 +253,7 @@ Both are on CAMRA's three-star register and both are mostly famous for their age
 
 *The Dickens Inn.*
 
-The other big flower display on the lists. Three tiers of wooden balconies overlook the marina at St Katharine Docks, all hung with baskets. Secret London calls it impossible to leave off a list of pretty pubs; Love and London describes a tavern bar on the ground floor with a grill restaurant above. It is a converted warehouse dressed as an old inn, and the balconies are the reason it is on the lists. Open daily from noon, and from 11am at weekends.
+The other big flower display on the lists: three tiers of wooden balconies hung with baskets, overlooking the marina at St Katharine Docks. A converted warehouse with a tavern bar on the ground floor and a grill restaurant above. Open daily from noon, and from 11am at weekends.
 
 ---
 
@@ -270,7 +271,7 @@ CAMRA's Pub Design Awards, run with Historic England, judge new work — restora
 
 *The Black Lion's ceiling and cornice.*
 
-A Grade II*-listed pub from 1898, and **the 2023 winner of Historic England's conservation award**: CAMRA's judges describe a rich ceiling, the original bar counter and island back bar, a screen, etched and cut glass and a very decorative cornice. Secret London says the restoration made it bright rather than dark and fusty.
+A Grade II*-listed pub from 1898, and **the 2023 winner of Historic England's conservation award**: CAMRA's judges describe a rich ceiling, the original bar counter and island back bar, a screen, etched and cut glass and a very decorative cornice.
 
 It serves **contemporary Indian food** during the week and a roast on Sunday. **Weekdays it opens at 4pm.** Opposite the Kiln Theatre, two minutes from Kilburn station.
 
@@ -296,7 +297,7 @@ Two pubs from the same owners, recognised in the same year. **The Cadogan Arms**
 
 *The Blue Stoops' ceramic bar front.*
 
-**A pub in the building that used to be the Kensington Wine Rooms**, and the 2026 conversion winner. CAMRA's judges point to the half-height partitions and glazed screens that break up the room, new fixed seating, and a ceramic bar front carrying the old Allsopp's brewery trademark. It is the Allsopp's brewery's pub, open every day from noon, at 127–129 Kensington Church Street — **a short walk up the same street from The Churchill Arms**, so see both together.
+**A pub in the building that used to be the Kensington Wine Rooms**, and the 2026 conversion winner. CAMRA's judges point to the half-height partitions and glazed screens that break up the room, new fixed seating, and a ceramic bar front carrying the old Allsopp's brewery trademark. It is the Allsopp's brewery's pub, open every day from noon, at 127–129 Kensington Church Street — **a short walk up the same street from The Churchill Arms**.
 
 ### Also recognised
 
@@ -338,7 +339,7 @@ Two pubs from the same owners, recognised in the same year. **The Cadogan Arms**
 
 ## One-offs
 
-- **The Champion**, Fitzrovia — its "Victorian" stained glass and mahogany are, as the beer historians Boak & Bailey found, a **1954 design by the architects Sylvia and John Reid**. A fake old pub, and a good-looking one.
+- **The Champion**, Fitzrovia — its "Victorian" stained glass and mahogany are, as the beer historians Boak & Bailey found, a **1954 design by the architects Sylvia and John Reid**.
 - **St James Tavern**, Soho — a Victorian pub rebuilt in 1896, with theatre-themed tiles made for it by Doulton in the 1930s.
 - **Mr Fogg's Tavern**, Covent Garden — a new pub made to look like a Victorian one and crammed with curiosities. *Cited by 2 sources.*
 
@@ -360,9 +361,9 @@ Cittie of Yorke's back bar is the one to look for on the way: The 500 Hidden Sec
 
 **CAMRA's stars rate what survives inside**, not the food or the beer. Three stars means an interior of outstanding national importance; London has 60 of them.
 
-**A listed interior is protected, but the pub isn't frozen.** Several of these rooms have been restored or rebuilt — The Champion's "Victorian" glass dates from 1954 and Cittie of Yorke was built in the 1920s — and the design awards exist to reward good new work.
+**Some of these rooms are newer than they look:** The Champion's "Victorian" glass dates from 1954 and Cittie of Yorke was built in the 1920s.
 
-**Be discreet with a camera.** These are working pubs, several of them small, and a phone held up in the middle of a crowded Friday bar will not be welcome. Weekday afternoons are quieter.
+**Be discreet with a camera** in these small working pubs; weekday afternoons are quieter.
 
 ---
 
