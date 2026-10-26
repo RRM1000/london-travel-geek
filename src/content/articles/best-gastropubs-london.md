@@ -1,7 +1,7 @@
 ---
 title: "The Best Gastropubs in London, Cross-Referenced Across Every Major List"
 seoTitle: "Best Gastropubs in London 2026: Ranked Across Lists"
-description: "Thirty independent sources across 126 London pubs. Which kitchens the awards, critics and reviewers actually agree on, which rooms take bookings, and which ones shut on Mondays."
+description: "Thirty independent sources across 126 London pubs. Which kitchens the awards, critics and reviewers agree on, which rooms take bookings, and which ones shut on Mondays."
 heroImage: "../../assets/articles/best-gastropubs-london/the-marksman-hackney-road.jpg"
 heroImageAlt: "The Marksman on Hackney Road, a tiled pub frontage with its name in gold above the windows"
 heroImageCredit: "Matt Brown"
@@ -9,7 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_H
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-09-14
-updatedAt: 2026-09-19
+updatedAt: 2026-10-26
+reviewBy: 2027-01-05
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -30,9 +31,7 @@ faq:
     a: "The Eagle on Farringdon Road, which opened in 1991 and is widely credited as the pub that started the gastropub. It still cooks from a blackboard behind the bar that changes daily."
 ---
 
-London's gastropubs have a ranking, which most food topics don't: **the Estrella Damm Top 50 Gastropubs**, judged and dated every year. Its 2026 list puts **The Devonshire** in Soho top of the whole country.
-
-But the critics who eat in London every week don't simply follow it. **Time Out's number one is The Camberwell Arms**, which the award places 60th. **The Evening Standard's number one is The French House**, 47th in the award. So this guide reads all of them together and counts which kitchens keep coming up.
+The **Estrella Damm Top 50 Gastropubs** is judged and dated every year, and its 2026 list puts **The Devonshire** in Soho top of the whole country. The critics who eat in London every week don't simply follow it: **Time Out's number one is The Camberwell Arms**, which the award places 60th, and **the Evening Standard's number one is The French House**, 47th in the award. This guide reads all of them together and counts which kitchens keep coming up.
 
 > 💡 **The Short Version:** **The Devonshire** is named by more sources than anywhere else and tops the award. **The Harwood Arms** is London's only Michelin-starred pub. **The Hero** in Maida Vale does a £25 weekday set lunch and holds a Bib Gourmand. **The Audley** takes no bookings at all. And seven of the pubs below are **closed on Mondays**.
 
@@ -73,8 +72,6 @@ The real cost at the walk-ins is the wait. At The Devonshire and The Audley, arr
 
 ## The winners
 
-These are the pubs that top a ranking. Where the lists disagree, the entry says so.
-
 ### The Devonshire, Soho — the UK's number one, and the hardest table on this page
 
 *££ · Piccadilly Circus · Cited by 17 sources · #1, Estrella Damm Top 50 Gastropubs 2026 · #4 of 50, Evening Standard · [the pub's site](https://devonshiresoho.co.uk/)*
@@ -83,11 +80,11 @@ These are the pubs that top a ranking. Where the lists disagree, the entry says 
 
 *The Devonshire, Denman Street. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Devonshire,_Soho,_W1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-Two businesses in one building. **Downstairs is a pub run by Oisin Rogers**, who made his name at The Guinea, and a large share of the crowd is there for the Guinness. **Upstairs is a wood-ember grill** under Ashley Palmer-Watts, who worked alongside Heston Blumenthal at The Fat Duck and Dinner by Heston: Scottish beef dry-aged and butchered on site, langoustines from Oban, day-boat fish. The Infatuation singles out the lamb hotpot, duck-fat chips and sticky toffee pudding.
+Two businesses in one building. **Downstairs is a pub run by Oisin Rogers**, who made his name at The Guinea, with a large share of the crowd there for the Guinness. **Upstairs is a wood-ember grill** under Ashley Palmer-Watts, formerly of The Fat Duck and Dinner by Heston: Scottish beef dry-aged and butchered on site, langoustines from Oban, day-boat fish. The Infatuation singles out the lamb hotpot, duck-fat chips and sticky toffee pudding.
 
 It won **Gastropub of the Year at the National Restaurant Awards**, and it is on Michelin's list of London's best dining pubs. Five video creators have filmed it, more than any other pub here.
 
-**How to get in:** the restaurant books online and goes weeks ahead. The pub downstairs takes no bookings at all, drinks or snacks, and **the roof terrace is walk-in only** — on a dry day that is the realistic way in. Sunday lunch, 12pm to 4pm, is a Sunday lunch menu only.
+**How to get in:** the restaurant books online, with à la carte bookings opening every Thursday at 10.30am for three weeks ahead. The pub downstairs takes no bookings at all, drinks or snacks, and **the roof terrace is walk-in only**, which on a dry day is the realistic way in. Sunday lunch, 12pm to 4pm, is a Sunday lunch menu only.
 
 ### The Camberwell Arms — Time Out's number one
 
@@ -97,9 +94,9 @@ It won **Gastropub of the Year at the National Restaurant Awards**, and it is on
 
 *The dining room at The Camberwell Arms.*
 
-The clearest disagreement in the data. **Time Out ranks it first in London; the award puts it 60th, on the extended list rather than the Top 50.** Thirteen sources name it, which is more than name several pubs the award ranks higher.
+**Time Out ranks it first in London; the award puts it 60th, on the extended list rather than the Top 50.** Thirteen sources name it, which is more than name several pubs the award ranks higher.
 
-Set up in 2014 by chef director Mike Davies, it cooks over a **charcoal fire** and makes its own charcuterie, bread and ice cream. Time Out picks out the pork loin chop with red cabbage, beer onions on toast with aged Gruyère, and crispy fried pig's head with piccalilli. Blackboards, scrubbed tables and an open kitchen, and The Infatuation says it still feels like a local where nobody judges a lunchtime pint.
+It cooks over a **charcoal fire** and makes its own charcuterie, bread and ice cream. Time Out picks out the pork loin chop with red cabbage, beer onions on toast with aged Gruyère, and crispy fried pig's head with piccalilli. Blackboards, scrubbed tables and an open kitchen.
 
 A ten-minute walk from Denmark Hill station, on Camberwell Church Street.
 
@@ -111,7 +108,7 @@ A ten-minute walk from Denmark Hill station, on Camberwell Church Street.
 
 *The French House, upstairs.*
 
-Downstairs is one of Soho's last old bohemian pubs, which **still serves beer only in halves**. Up the creaking stairs is a tiny red-walled dining room where chef **Neil Borthwick** cooks French bistro food: terrine, steak, goat's cheese on toast with confit garlic, and a Paris-Brest Hot Dinners tells you to save room for.
+Downstairs is a Soho pub that **still serves beer only in halves**. Up the creaking stairs is a tiny red-walled dining room where chef **Neil Borthwick** cooks French bistro food: terrine, steak, goat's cheese on toast with confit garlic, and a Paris-Brest Hot Dinners tells you to save room for.
 
 **The dining room is the hard part.** It seats so few that it runs two sittings a service, takes groups of six at most, needs a card to hold the booking and charges for late cancellation. Reservations open 60 days ahead. **It serves lunch and dinner Monday to Saturday only — no Sunday.** The bar takes no bookings at all.
 
@@ -123,11 +120,11 @@ Downstairs is one of Soho's last old bohemian pubs, which **still serves beer on
 
 *The garden at The Red Lion & Sun.*
 
-**The highest-placed London pub after The Devonshire**, and the one the press has been slowest to catch up with: third in Britain, but named by seven sources against The Devonshire's seventeen.
+**The highest-placed London pub after The Devonshire**: third in Britain, but named by seven sources against The Devonshire's seventeen.
 
-A pub has stood on the site since the 16th century. Landlord Heath Ball runs it with a wine list Hot Dinners calls legendary, and **the menu changes every day** and goes up on the website by 11am. Time Out mentions crab on focaccia, chicken schnitzel with jalapeño salsa, Iberico pork ribs, and the frozen margaritas. It has gardens front and back; the garden only books by phone, up to 48 hours ahead.
+Landlord Heath Ball runs it with a wine list Hot Dinners calls legendary, and **the menu changes every day** and goes up on the website by 11am. Time Out mentions crab on focaccia, chicken schnitzel with jalapeño salsa, Iberico pork ribs, and the frozen margaritas. It has gardens front and back; the garden only books by phone, up to 48 hours ahead.
 
-**Food runs noon to 10pm every day**, which is rare on this page. Tables for up to eight. A walk from Hampstead Heath, Kenwood and Highgate Cemetery.
+**Food runs noon to 10pm every day.** Tables for up to eight. A walk from Hampstead Heath, Kenwood and Highgate Cemetery.
 
 ### The Harwood Arms, Fulham — London's only Michelin-starred pub
 
@@ -137,7 +134,7 @@ A pub has stood on the site since the 16th century. Landlord Heath Ball runs it 
 
 *The Sunday roast at The Harwood Arms.*
 
-The one pub in London with a **Michelin star**. Brett Graham of The Ledbury has been a director since 2009, and head chef Josh Cutress came from there too. **Game is the menu**: the **venison Scotch egg** has been the thing to order at the bar for years, and Time Out's pick in the dining room was roast muntjac with celeriac and pickled pear. On a backstreet off Fulham Broadway, with antlers on the walls.
+The one pub in London with a **Michelin star**. Brett Graham of The Ledbury has been a director since 2009, and head chef Josh Cutress came from there too. **Game is the menu**: the **venison Scotch egg** is the thing to order at the bar, and Time Out's pick in the dining room was roast muntjac with celeriac and pickled pear. On a backstreet off Fulham Broadway.
 
 **Two courses are £64, three £79.** Reservations open 90 days ahead, and **lunch is only on Friday and Saturday**; dinner runs Monday to Saturday, and Sunday brings a roast menu from noon to 8.15pm. You can bring one bottle of wine per person, at £40 corkage.
 
@@ -155,11 +152,11 @@ The one pub in London with a **Michelin star**. Brett Graham of The Ledbury has 
 
 *The ground-floor bar at The Hero.*
 
-**The second most-cited pub in this guide.** A proper pub with fires on the ground floor, a dining room on the first, a grill room and a cocktail bar above, from the group behind The Pelican, The Hart and The Fat Badger. The Handbook calls it possibly the most beautiful pub in London.
+**The second most-cited pub in this guide.** A proper pub with fires on the ground floor, a dining room on the first, a grill room and a cocktail bar above, from the group behind The Pelican, The Hart and The Fat Badger.
 
-Michelin's Bib Gourmand is for good cooking at a fair price, and its inspectors mention chicken and leek pie and ham, egg and chips downstairs. There is always a pie on.
+Michelin's inspectors mention the chicken and leek pie and the ham, egg and chips downstairs. There is always a pie on.
 
-**The cheapest serious lunch on this page:** Monday to Friday, noon to 3pm, **two courses £25 or three for £29**.
+**Set lunch:** Monday to Friday, noon to 3pm, **two courses £25 or three for £29**.
 
 ### The Marksman, Hackney — St John alumni, and a brown butter tart
 
@@ -169,7 +166,7 @@ Michelin's Bib Gourmand is for good cooking at a fair price, and its inspectors 
 
 *The Marksman, Hackney Road. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:The_Marksman_pub_254_Hackney_Road_2025-05-08.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-Chef-owners **Tom Harris and Jon Rotheram came from St John**, and it shows in the plain, strong British cooking Michelin puts on its dining-pubs list. The dining room upstairs is where people go for the **brown butter and honey tart** — Hot Dinners says order it early because it runs out. In the pub downstairs, get a beef and barley bun with your pint. The pub says it was the first in London to be named Michelin's Pub of the Year.
+Chef-owners **Tom Harris and Jon Rotheram came from St John**, and the plain British cooking is on Michelin's dining-pubs list. The dining room upstairs is where people go for the **brown butter and honey tart** — Hot Dinners says order it early because it runs out. In the pub downstairs, get a beef and barley bun with your pint. The pub says it was the first in London to be named Michelin's Pub of the Year.
 
 **Closed Monday, and not open until 4pm on Tuesday and Wednesday.** On Sundays the menu is £42 for two courses or £48 for three.
 
@@ -181,7 +178,7 @@ Chef-owners **Tom Harris and Jon Rotheram came from St John**, and it shows in t
 
 *The Sunday roast at The Parakeet.*
 
-A pub at the front and a dining room at the back, from the people behind Camden's Blues Kitchen. Chef **Ben Allen, previously at Brat**, runs a kitchen built around **wood fire**. Hot Dinners rates the steaks and the whole-cooked fish, and the Sunday roast comes off the same fire.
+A pub at the front and a dining room at the back. Chef **Ben Allen, previously at Brat**, runs a kitchen built around **wood fire**. Hot Dinners rates the steaks and the whole-cooked fish, and the Sunday roast comes off the same fire.
 
 Dining tables open **30 days ahead**, and you can book a table in the drinks area too, which most pubs here won't do. A minute from Kentish Town station.
 
@@ -193,9 +190,9 @@ Dining tables open **30 days ahead**, and you can book a table in the drinks are
 
 *A Scotch egg at The Cadogan Arms.*
 
-**Named by eleven sources without appearing on any judged list**, the most of any pub here. It comes from the same team as The George in Fitzrovia, and executive chef John Sparks runs a British menu; Hot Dinners picks out the black pudding Scotch egg and crispy lamb ribs.
+**Named by eleven sources without appearing on any judged list.** It comes from the same team as The George in Fitzrovia, and executive chef John Sparks runs a British menu; Hot Dinners picks out the black pudding Scotch egg and crispy lamb ribs.
 
-The building is the other reason. A pub has stood here on the King's Road since the 1600s, and the recent restoration recreated the lost early Georgian panelling, **winning CAMRA's Refurbishment Award in 2023** — it is in our [guide to London's most beautiful pubs](/articles/most-beautiful-pubs-london/) as well. Two YouTube reviewers filmed it as London's most expensive pub, so expect Chelsea prices. Open to 1am on Friday and Saturday.
+A pub has stood here on the King's Road since the 1600s, and the recent restoration recreated the lost early Georgian panelling, **winning CAMRA's Refurbishment Award in 2023**. It is in our [guide to London's most beautiful pubs](/articles/most-beautiful-pubs-london/). Two YouTube reviewers filmed it as London's most expensive pub, so expect Chelsea prices. Open to 1am on Friday and Saturday.
 
 ### The Plimsoll, Finsbury Park — the Dexter cheeseburger
 
@@ -205,9 +202,9 @@ The building is the other reason. A pub has stood here on the King's Road since 
 
 *The Dexter cheeseburger.*
 
-From the Four Legs team, who ran the kitchen at The Compton Arms before opening their own place on St Thomas's Road. It became so popular so fast that **Hot Dinners warns it is hard to get a reservation and rammed at weekends**.
+From the Four Legs team, who ran the kitchen at The Compton Arms before opening on St Thomas's Road. **Hot Dinners warns it is hard to get a reservation and rammed at weekends**.
 
-The workaround is the bar: you can walk in for a drink and **the Dexter cheeseburger**, the dish Hot Dinners sends you for. Ten sources name it and none of them are an award, which says it is the critics' pub rather than the judges'.
+The workaround is the bar: you can walk in for a drink and **the Dexter cheeseburger**, the dish Hot Dinners sends you for.
 
 ### The Audley, Mayfair — no bookings, and a lobster pie
 
@@ -217,9 +214,9 @@ The workaround is the bar: you can walk in for a drink and **the Dexter cheesebu
 
 *Inside The Audley.*
 
-**Walk-ins only, no reservations, seven days a week from 11am.** A ground-floor pub below the Mount St. Restaurant, filled with colourful art, as The Sunday Times Style put it, with a menu from the same kitchen: a London rarebit, a prawn Marie Rose sandwich, chicken, ham and leek pie, and executive chef Jamie Shears' **Mount St. lobster pie**.
+**Walk-ins only, no reservations, seven days a week from 11am.** A ground-floor pub below the Mount St. Restaurant, with a menu from the same kitchen: a London rarebit, a prawn Marie Rose sandwich, chicken, ham and leek pie, and executive chef Jamie Shears' **Mount St. lobster pie**.
 
-Food runs noon to 10pm, and to 9pm on Sundays. It is Mayfair, and Harrison Webb included it in his film on London's most expensive pubs.
+Food runs noon to 10pm, and to 9pm on Sundays. Harrison Webb included it in his film on London's most expensive pubs.
 
 ### The Waterman's Arms, Barnes — a river balcony and a spit-roast
 
@@ -229,7 +226,7 @@ Food runs noon to 10pm, and to 9pm on Sundays. It is Mayfair, and Harrison Webb 
 
 *The balcony at The Waterman's Arms.*
 
-The Evening Standard ranks it second in London, and Hot Dinners explains why: **a balcony over the Thames** on a summer day. The kitchen does whole-animal butchery and cooks on a spit — **piri-piri chicken for two, £50** — alongside plates like celeriac fritters with crab.
+The Evening Standard ranks it second in London. Hot Dinners points to **a balcony over the Thames** on a summer day; it has six tables for two, first come first served. The kitchen does whole-animal butchery and cooks on a spit — **piri-piri chicken for two, £50** — alongside plates like celeriac fritters with crab.
 
 **Closed Monday. Tuesday and Wednesday it opens at 5.30pm, and on Sunday it closes at 6pm.** It keeps some tables for walk-ins, and children are welcome until 7pm. Same team as The Shaston Arms in Soho.
 
@@ -241,7 +238,7 @@ The Evening Standard ranks it second in London, and Hot Dinners explains why: **
 
 *A seasonal dish at Anchor & Hope.*
 
-On The Cut, a few doors from the Young Vic. The menu roams Europe — **vitello tonnato one day, potted shrimps on toast the next** — with a strong line in puddings, according to Hot Dinners. The same team later opened The Clarence Tavern.
+On The Cut, a few doors from the Young Vic. The menu is European, **vitello tonnato one day, potted shrimps on toast the next**, with puddings Hot Dinners rates. The same team later opened The Clarence Tavern.
 
 **It takes reservations, 30 days in advance.** The pub opens at 4pm on Monday and Tuesday and closes at 5pm on Sunday, and it shuts for its annual holiday from 20 December to 4 January.
 
@@ -265,7 +262,7 @@ The most-watched video in this guide is here: **a TikTok of The Pelican's steak 
 
 *Canton Arms, Stockwell. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Canton_Arms,_South_Lambeth,_SW8_(3838932573).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-An old South Lambeth boozer **ranked eleventh in the country**. The menu changes daily: Dexter beef bourguignon, and whole Salt Marsh lamb shoulders to share at the weekend. Even the drinks change with the season, per Hot Dinners.
+An old South Lambeth boozer **ranked eleventh in the country**. The menu changes daily: Dexter beef bourguignon, and whole Salt Marsh lamb shoulders to share at the weekend.
 
 **It holds some tables back for walk-ins**, so you can try your luck. But the kitchen is **closed all day Monday and on Sunday evening** — the bar stays open.
 
@@ -275,9 +272,9 @@ An old South Lambeth boozer **ranked eleventh in the country**. The menu changes
 
 ![The Drapers Arms on a Barnsbury street at night, its Freehouse and Dining Room signs lit above the windows](../../assets/articles/best-gastropubs-london/drapers-arms-islington.jpg)
 
-A Barnsbury pub with a garden and a private dining room, run by landlord **Nick Gibson**, whose wine list has won awards. There is **always a pie on, and it raises money for Action Against Hunger**. Hot Dinners says it is particularly good for fish and vegetarian dishes, which is not what most pubs here are known for.
+A Barnsbury pub with a garden and a private dining room, run by landlord **Nick Gibson**, whose wine list has won awards. There is **always a pie on, and it raises money for Action Against Hunger**. Hot Dinners says it is particularly good for fish and vegetarian dishes.
 
-Time Out and the Standard rank it in exactly the same place, fourteenth. A quiet residential street, 13 minutes' walk from Highbury & Islington.
+It sits on a quiet residential street, 13 minutes' walk from Highbury & Islington.
 
 ### The Baring, Islington — more restaurant than pub
 
@@ -333,7 +330,7 @@ Its sibling, **The Tamil Crown** in Angel, is the one on the award list, at #35.
 
 *A seafood platter at The Cow.*
 
-**Tom Conran's pub has been doing oysters and Guinness since 1995**, and it is the seafood pub of this list: plates of oysters, or a whole seafood platter. The Standard describes a Thursday night in the saloon bar better than we could — a room of every sort of west Londoner.
+**Tom Conran's pub has been doing oysters and Guinness since 1995**, and it is the seafood pub of this list: plates of oysters, or a whole seafood platter. The Standard describes the Thursday-night saloon bar as a room of every sort of west Londoner.
 
 **The saloon bar kitchen serves every day from noon to 9pm.** The upstairs dining room opens only Wednesday to Sunday, and bookings need a card. Not to be confused with The Cow at Westfield Stratford, a different pub.
 
@@ -357,7 +354,7 @@ A small pub tucked away in Canonbury whose owner, Nick Stephens, brings in kitch
 
 *The Clarence Tavern, Stoke Newington.*
 
-On Church Street, from the people behind Anchor & Hope, and on Michelin's dining-pubs list. The menu on the day this guide was checked ran from roast venison with coco beans and lardo (£28) to **a whole roast chicken with spiced lentils for £58**. Hot Dinners rates the desserts, the pies and the lunchtime milk buns, which you can take away.
+On Church Street, from the people behind Anchor & Hope, and on Michelin's dining-pubs list. Mains run from about £23 to £29, with a **chicken, leek and bacon pie to share at £58** and slow-cooked lamb to share at £75. Hot Dinners rates the desserts, the pies and the lunchtime milk buns, which you can take away.
 
 **Closed Monday; Tuesday it opens at 3pm.** There is a £25-a-head charge for late cancellations.
 
@@ -369,7 +366,7 @@ On Church Street, from the people behind Anchor & Hope, and on Michelin's dining
 
 *The restored bar at The George.*
 
-An 18th-century Grade II-listed pub on Great Portland Street, sibling to The Cadogan Arms. The Infatuation calls it a "delicious and decadent take on a pub"; Hot Dinners picks out the Parker House rolls with garlic butter and the red curry pork scratchings.
+An 18th-century Grade II-listed pub on Great Portland Street, sibling to The Cadogan Arms. Hot Dinners picks out the Parker House rolls with garlic butter and the red curry pork scratchings.
 
 **Food is served all day, every day** — noon to 10pm, and to 9pm on Sunday — with live music on Friday, Saturday and Sunday evenings. Its restored bar back won a CAMRA design commendation in 2023. This is **not The George Inn in Borough**, the National Trust coaching inn.
 
@@ -408,7 +405,7 @@ Named by five or six sources each, without a full entry here.
 
 ## New openings
 
-- **[The Shaston Arms](https://www.theshastonarms.co.uk/)**, Soho — relaunched in 2025 by Joe Grossman and former Ducksoup head chef Sam Andrews, and already Time Out's number five.
+- **[The Shaston Arms](https://www.theshastonarms.co.uk/)**, Soho — relaunched in 2025 by Joe Grossman and former Ducksoup head chef Sam Andrews, and Time Out's number five.
 
   ![A quiet corner inside The Shaston Arms, with framed pictures on the wall, a fireplace and leather banquette seating](../../assets/articles/best-gastropubs-london/the-shaston-arms-interior.jpg)
 
