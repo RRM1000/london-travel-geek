@@ -57,7 +57,7 @@ Every shop below is placed by how many independent awards, critics and reviewers
 | **Waterloo & South Bank** | Masters Superfish, Fishcotheque |
 | **Shoreditch & Spitalfields** | Poppies, Shoreditch Fish and Chips, Fish Central |
 | **Hackney & Dalston** | Sutton & Sons, Faulkners |
-| **North London** | Nautilus (West Hampstead), Toff's (Highgate), Mickey's Chippy (Stoke Newington) |
+| **North London** | Nautilus (West Hampstead), Toff's (Muswell Hill), Mickey's Chippy (Stoke Newington) |
 | **South London** | Ken's Fish Bar (Herne Hill), Fish Lounge (Clapham), Brockley's Rock (Brockley) |
 | **Greenwich** | The Golden Chippy |
 | **East London** | Michael's Fish Bar (Leytonstone) |
@@ -187,7 +187,7 @@ Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in g
 
 **££, walk-in, closed Sunday and Monday.** A sit-down room.
 
-### Toff's, Highgate
+### Toff's, Muswell Hill
 
 *££ · Muswell Hill · Cited by 4 sources · #16, Time Out*
 
