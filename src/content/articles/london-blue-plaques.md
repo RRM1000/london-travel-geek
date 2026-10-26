@@ -194,7 +194,7 @@ Plath and Ted Hughes lived here from 1960 to 1961. **The Yeats house is round th
 
 **3 Chalcot Square.** Private, viewable from the pavement, free at any hour.
 
-**The square is the one from the Paddington films**, its pastel terraces used for the Brown family's Windsor Gardens and, from the other side, Phoenix Buchanan's house in the sequel.
+**Chalcot Crescent, a short walk away, is the Paddington films' Windsor Gardens**, the Brown family's pastel terrace.
 
 **It is a residential square where people live**: look from the pavement, do not linger on doorsteps. Chalk Farm is five minutes, and the Engels plaque is about eight minutes away.
 
