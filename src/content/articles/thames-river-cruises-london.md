@@ -3,7 +3,7 @@ title: "Thames River Cruises in London: Which to Book and What They Cost"
 seoTitle: "Thames River Cruises London 2026: Prices & Routes"
 description: "Every kind of Thames cruise compared on price, piers and commentary. Westminster to Greenwich from £14.62 online, a £9 City Cruises day pass, lunch from £43, dinner from £99, speedboats from £59.95 and the seasonal boat to Kew and Hampton Court."
 publishedAt: 2026-06-15
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
@@ -18,7 +18,7 @@ tags: [Thames cruises, river cruises, City Cruises, Thames River Sightseeing, Ub
 draft: false
 faq:
   - q: "Which Thames cruise is best?"
-    a: "For sightseeing, a narrated boat from Westminster to Greenwich: Thames River Sightseeing from £14.62 one way online, or City Cruises at £15, both with commentary from the crew. City Cruises' one-day hop-on hop-off pass is £9 online and is the cheapest narrated option on the river. For a meal, City Cruises' lunch cruise from £43 covers the same landmarks as the £99 dinner. For thrills, Thames Rockets' 50-minute speedboat from the London Eye is £59.95."
+    a: "For sightseeing, a narrated boat from Westminster to Greenwich: Thames River Sightseeing from £14.62 one way online, or City Cruises at £15, both with commentary from the crew. City Cruises' one-day hop-on hop-off pass is £9 online, the cheapest narrated option on the river. For a meal, City Cruises' lunch cruise from £43 covers the same landmarks as the £99 dinner. For thrills, Thames Rockets' 50-minute speedboat from the London Eye is £59.95."
   - q: "How much is a Thames river cruise?"
     a: "Prices in September 2026: Westminster to Greenwich one way £14.62 to £15 online, return £19.12 to £21. Day passes £9 (City Cruises, online) to £29.30 (Uber Boat). Lunch cruise from £43, afternoon tea from £55, dinner from £99, all City Cruises adult prices that rise on busy dates. Speedboats £59.95 to £79.95. Westminster to Hampton Court on the seasonal upriver boat is £27 one way."
   - q: "Is the Uber Boat cheaper than a cruise?"
@@ -31,7 +31,7 @@ faq:
     a: "About an hour on Thames River Sightseeing and 70 minutes on City Cruises, with commentary on both. Uber Boat takes 27 minutes from Tower Pier to Greenwich. A City Cruises return takes around three hours including the stops."
 ---
 
-**Westminster to Greenwich by narrated boat costs £14.62 to £15 one way online, and City Cruises sells a one-day hop-on hop-off pass for £9.** That pass is the cheapest way onto a sightseeing boat on the Thames, cheaper than tapping a card on the commuter Uber Boat. Everything else, from a £43 lunch to a £59.95 speedboat, is a question of what you want to be doing while you look at Tower Bridge.
+**Westminster to Greenwich by narrated boat costs £14.62 to £15 one way online, and City Cruises sells a one-day hop-on hop-off pass for £9.** That pass is cheaper than tapping a card on the commuter Uber Boat. Lunch cruises start at £43 and speedboats at £59.95.
 
 > 💡 **The Short Version:** **Sightseeing:** [Thames River Sightseeing](https://thamesriversightseeing.com/booking-tickets/westminster-to-greenwich-thames-river-sightseeing/) Westminster to Greenwich **from £14.62 online**, about an hour, live commentary from the crew; [City Cruises](https://www.cityexperiences.com/london/city-cruises/river-thames-sightseeing/) **£15 single, £21 return**, online only, or its **£9 one-day pass**. **Cheap and fast:** Uber Boat, **£13.70 by contactless**, no commentary. **Meals:** City Cruises lunch **from £43**, afternoon tea **from £55**, dinner **from £99**, all booked ahead. **Speed:** Thames Rockets **from £59.95** for 50 minutes; **no pregnant passengers**. **Upriver:** one boat a day to Kew, Richmond and Hampton Court, **£27** one way. **Winter:** the big sightseeing boats run all year; last City Cruises sailing to Greenwich drops to **14:40 from 26 October**. **Or book on GetYourGuide:** the Westminster to Greenwich cruise there has **25,506 reviews at 4.5**, from **£17**. Prices September 2026.
 
@@ -61,7 +61,7 @@ The cruises that cover most people, bookable on GetYourGuide:
 
 ## Sightseeing cruises
 
-The two main narrated services between Westminster and Greenwich both pass the Houses of Parliament, the London Eye, St Paul's, the Shard and the Tower, go under Tower Bridge and finish at the Cutty Sark. The difference is the piers and how you buy.
+The two main narrated services between Westminster and Greenwich both pass the Houses of Parliament, the London Eye, St Paul's, the Shard and the Tower, go under Tower Bridge and finish at the Cutty Sark.
 
 ### City Cruises
 
@@ -75,7 +75,7 @@ Boats leave **Westminster Pier every 40 minutes from 10:00**, calling at **Londo
 
 ### Thames River Sightseeing
 
-A family-run operator using **Westminster Pier, Tower Bridge (Butler's Wharf Pier) on the south bank, and Greenwich**. Its hop-on hop-off pass adds **Embankment, Festival and Bankside** piers. The skipper and crew do the commentary live.
+Boats use **Westminster Pier, Tower Bridge (Butler's Wharf Pier) on the south bank, and Greenwich**. Its hop-on hop-off pass adds **Embankment, Festival and Bankside** piers. The skipper and crew do the commentary live.
 
 - **Tickets (September 2026, online):** [Westminster to Greenwich](https://thamesriversightseeing.com/booking-tickets/westminster-to-greenwich-thames-river-sightseeing/) from **£14.62** one way and **£19.12** return, child from **£9.60** and **£12.92**; Westminster to Tower Bridge from **£11.90**. The [1-Day River Pass](https://thamesriversightseeing.com/booking-tickets/1-day-river-pass-1-day-free-hop-on-hop-off) gives a second day free, from **£21.21**, child £14.41, family £49.90.
 - **Buy online or at the pier.** Student and senior (60+) tickets are sold only at the ticket office. Refunds up to 24 hours before.
@@ -85,7 +85,7 @@ A family-run operator using **Westminster Pier, Tower Bridge (Butler's Wharf Pie
 
 ### The London Eye circular cruise
 
-A 40 to 45-minute loop from **London Eye Pier** and back, with live commentary. It suits anyone combining it with the wheel on the same afternoon; our [London Eye guide](/articles/london-eye-guide/) covers the combined tickets.
+A 40 to 45-minute loop from **London Eye Pier** and back, with live commentary. Our [London Eye guide](/articles/london-eye-guide/) covers combined tickets with the wheel.
 
 ### Bus tickets that include a boat
 
@@ -95,7 +95,7 @@ Golden Tours and Big Bus sell hop-on hop-off bus tickets with a river cruise bun
 
 ## Uber Boat: the cheap alternative
 
-[Uber Boat by Thames Clippers](https://www.thamesclippers.com/plan-your-journey/ticket-information) is the river's commuter service, not a cruise. It runs every 10 to 20 minutes at the central piers, faster than the sightseeing boats, with indoor seats and a small open deck at the back.
+[Uber Boat by Thames Clippers](https://www.thamesclippers.com/plan-your-journey/ticket-information) is the river's commuter service. It runs every 10 to 20 minutes at the central piers, faster than the sightseeing boats, with indoor seats and a small open deck at the back.
 
 - **Westminster to Greenwich** (Central and East zones): **£13.70** by contactless or Oyster at weekends and after 09:27 on weekdays, **£13.50** online, **£17.70** at the pier.
 - **Hop-on Hop-off** day ticket: **£29.30** online, **£32.60** at the pier; child £14.65; family £58.70. Online singles, returns and day tickets bought at least three days ahead are 15% off.
@@ -106,7 +106,7 @@ Zones, piers, touching in and out and the Travelcard discount are in our guide t
 
 ## Lunch, afternoon tea and dinner cruises
 
-**City Cruises** runs London's daily dining sailings. Every one is booked ahead online and prices change by date. Window tables seat two and sell out first, so a group of four will not get one. On the evening sailings the commentary is in the City Experiences app, not over the speakers. Prices below are the adult range for late September and early October 2026.
+**City Cruises** runs daily dining sailings, all booked ahead online, with prices that change by date. Window tables seat two and sell out first, so a group of four will not get one. On the evening sailings the commentary is in the City Experiences app, not over the speakers. Prices below are the adult range for late September and early October 2026.
 
 | Cruise | Pier and time | Length | Adult price | What you get |
 | --- | --- | --- | --- | --- |
@@ -119,7 +119,7 @@ Zones, piers, touching in and out and the Travelcard discount are in our guide t
 
 [Dinner and a Show in London](/articles/dinner-and-a-show-london/) sets the dinner and jazz cruises beside the jazz clubs and cabaret dinners on land.
 
-**The lunch sees the same landmarks as the dinner for well under half the price.** The dinner's case is the lights: in October the sun sets before it sails.
+The lunch sees the same landmarks as the dinner for well under half the price; the dinner sails after dark from October.
 
 Lunch and afternoon tea add a £25 VIP upgrade for priority service and front seats. Our [afternoon tea guide](/articles/best-afternoon-tea-london/) compares the boat with the London hotels and the Routemaster tea bus.
 
@@ -159,7 +159,7 @@ The Westminster to Greenwich sightseeing boats turn at Greenwich. The choices ar
 
 ### Kew, Richmond and Hampton Court
 
-[Thames River Boats](https://www.thamesriverboats.co.uk/fares-sailings/fares) runs the passenger boats upriver from Westminster. The oldest of its three boats, the *Connaught*, was built in 1911, and the *Princess Freda* crossed the Channel to Dunkirk in 1940. Boats to Hampton Court pass through Teddington Lock.
+[Thames River Boats](https://www.thamesriverboats.co.uk/fares-sailings/fares) runs the passenger boats upriver from Westminster. Boats to Hampton Court pass through Teddington Lock.
 
 - **Fares from Westminster (2026):** Kew **£20** single, **£27** return; Richmond **£22** and **£33**; Hampton Court **£27** and **£36**. Children 5 to 15 half price; seniors 60+ £17 to £21 single; family tickets for two adults and two children.
 - **Times:** one departure a day from Westminster at **11:00**, reaching Kew in about 1h 15m to 1h 45m and Hampton Court in about 3h 15m. The return from Hampton Court leaves at 15:00.
@@ -197,4 +197,4 @@ Party boats and the rest of the night are in our [New Year's Eve in London guide
 
 To see the same stretch on foot, our [Thames walks](/articles/london-walks-along-the-thames/) include the [South Bank walk](/articles/south-bank-walk/), which passes London Eye Pier and Bankside Pier on its way from Westminster Bridge to Tower Bridge. The [South Bank area guide](/articles/south-bank-area-guide/) covers what is around those two piers, and the [Tower of London](/articles/tower-of-london-guide/) is beside Tower Pier. For the skyline from above, see the [best views in London](/articles/best-views-london/).
 
-*Prices, timetables and sailings are from each operator's own booking pages in September 2026. City Cruises and Thames River Sightseeing change price by date and demand.*
+*City Cruises and Thames River Sightseeing change price by date and demand.*
