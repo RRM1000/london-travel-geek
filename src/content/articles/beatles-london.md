@@ -32,7 +32,7 @@ faq:
     a: "No. The Beatles' shop lasted eight months in 1967 and 1968, and the Georgian house it stood in was demolished by 1972. An office block called Travelscene House stands there now, with a blue plaque crediting John Lennon and George Harrison. It's a two-minute stop for the plaque, not a destination."
 ---
 
-**The Abbey Road crossing costs nothing and needs no ticket.** Every London site on this page is free to see from the street. The spend is a guided walk, from £17, or the trip to Liverpool.
+**The Abbey Road crossing costs nothing and needs no ticket.** The spend is a guided walk, from £17, or the trip to Liverpool.
 
 > 💡 **The Short Version:** **The Abbey Road crossing is free** and needs no ticket. **Or book a two-hour guided walk, from £17**, and skip working out a route between sites spread across St John's Wood, Marylebone, Mayfair and Soho; "In My Life" with Richard Porter has the most reviews of the tours below, 4.6 from 272. **The Beatles played their last gig on the roof of 3 Savile Row on 30 January 1969**; a blue plaque has marked it since 2019. **The Beatles Store is at 231/233 Baker Street**, open daily 10am–6.30pm, and isn't run by Apple Corps. **Liverpool is a genuine day trip:** Euston to Lime Street from £14 one-way, 2h15 at the fastest, or a packaged tour from about £194 that bundles the train, the Magical Mystery Tour bus and the Beatles Story.
 
@@ -87,7 +87,7 @@ Liverpool day tours, with the train included, are [further down](#book-it-as-a-p
 
 ### The crossing, the wall and the webcam
 
-The zebra crossing is a public road, so nobody can stop you walking it. It's famous because it's the cover of the Beatles' 1969 album *Abbey Road*: photographer Iain Macmillan shot it at 11.35am on 8 August 1969, given ten minutes while standing on a stepladder as a policeman held up traffic. Go early to get it without a queue of other fans doing the same pose.
+The zebra crossing is a public road, so nobody can stop you walking it. It's famous because it's the cover of the Beatles' 1969 album *Abbey Road*: photographer Iain Macmillan shot it at 11.35am on 8 August 1969. Go early to get it without a queue of other fans doing the same pose.
 
 The studio's own **graffiti wall** at the front is fair game for a message in marker pen, repainted over as it fills up. The studio also runs an **Abbey Road Crossing Cam**, a live webcam trained on the crossing with an online archive.
 
@@ -103,15 +103,13 @@ The **Official Abbey Road Shop** is on site, open **Monday to Saturday, 9.30am�
 
 ## 3 Savile Row: the rooftop concert
 
-**3 Savile Row, Mayfair.** On **30 January 1969**, the Beatles played their **last live performance** on the roof of this building, then the headquarters of their own Apple Corps and Apple Studio. The studio closed in May 1975, and the building today is private; there's nothing to go inside for.
+**3 Savile Row, Mayfair.** On **30 January 1969**, the Beatles played their **last live performance** on the roof of this building, then the headquarters of their own Apple Corps and Apple Studio. The studio closed in May 1975, and the building today is private.
 
-A **blue plaque** was mounted on the façade on **5 April 2019**, the concert's 50th-anniversary year, with Westminster Council's permission.
+A **blue plaque** was mounted on the façade on **5 April 2019**, the concert's 50th-anniversary year.
 
 ![The Georgian brick and white stucco front of 3 Savile Row, with a round blue plaque mounted between two upper-floor windows](../../assets/articles/beatles-london/3-savile-row-facade.jpg)
 
 *3 Savile Row.*
-
-Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo Starr for the *Abbey Road* cover shoot; George Harrison wore denim.
 
 ## Baker Street: the shop and the boutique that vanished
 
@@ -135,7 +133,7 @@ Savile Row tailor **Tommy Nutter** dressed Paul McCartney, John Lennon and Ringo
 | Mason's Yard, St James's, SW1Y 6BU | Lennon met Yoko Ono here, 7 November 1966, at the Indica Gallery | No — the gallery's long gone and nothing marks it |
 | 57 Wimpole Street, Marylebone | Paul McCartney's home through the mid-1960s, at Jane Asher's family house | No — private residence, nothing to see |
 
-**34 Montagu Square** is the one address on this list worth a detour. Ringo Starr leased the ground-floor flat in 1965; Paul McCartney rented it from him that year and used it as a demo studio, recording an early version of "I'm Looking Through You" and working on "Eleanor Rigby" there. Starr later sublet it to **Jimi Hendrix**, who wrote "The Wind Cries Mary" in the flat. In 1968, **John Lennon and Yoko Ono** rented it for three months and photographed the cover of their *Two Virgins* album there. English Heritage put up the blue plaque on **23 October 2010**, and Yoko Ono herself unveiled it. It's a private home today, so you're looking at the plaque from the pavement, not going in.
+**34 Montagu Square** is the one address on this list worth a detour. Ringo Starr leased the ground-floor flat in 1965; Paul McCartney rented it from him that year and used it as a demo studio, recording an early version of "I'm Looking Through You" and working on "Eleanor Rigby" there. Starr later sublet it to **Jimi Hendrix**, who wrote "The Wind Cries Mary" in the flat. In 1968, **John Lennon and Yoko Ono** rented it for three months and photographed the cover of their *Two Virgins* album there. English Heritage put up the blue plaque on **23 October 2010**. It's a private home, so you view the plaque from the pavement.
 
 ![The cream-stucco terrace of Montagu Square, with a blue plaque to John Lennon beside the door of number 34 and a red pillar box on the pavement](../../assets/articles/beatles-london/34-montagu-square-facade.jpg)
 
@@ -207,11 +205,9 @@ Or replace the Liverpool leg with the **£199 packaged day tour**.
 
 ## What isn't worth it
 
-**94 Baker Street on its own.** The building is an office block with a plaque. Glance at it on the way to the shop; it is not worth a special trip.
+**94 Baker Street and Mason's Yard** are not worth a special trip: an office block with a plaque, and a yard where nothing marks the gallery.
 
-**Mason's Yard, just for the Lennon-met-Ono story.** Nothing on the yard marks it, and the gallery is long gone.
-
-**Assuming Apple Corps runs any of it.** It doesn't run shops, tours or attractions in London. The Beatles Store, the Cavern Club and the Beatles Story are independent businesses, not the band's own company.
+**Apple Corps runs no shops, tours or attractions in London.** The Beatles Store, the Cavern Club and the Beatles Story are independent businesses.
 
 ## Continue planning your London trip
 
