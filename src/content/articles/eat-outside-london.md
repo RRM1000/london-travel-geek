@@ -25,7 +25,7 @@ faq:
   - q: "Is Crossrail Place Roof Garden outdoors?"
     a: "Not really. It sits under Foster + Partners' timber lattice roof at Canary Wharf, which encloses the whole garden. It is free, open daily until 9pm or sunset in summer, and it is a lovely place to sit with a coffee — but if you want sky above you, walk down to Eden Dock or Harbour Quay instead."
   - q: "Which market days should I avoid getting wrong?"
-    a: "Borough Market is closed on Mondays. Maltby Street is Saturday and Sunday only, plus Friday evenings in summer. Duke of York Square's food market is Saturday only, 10am to 4pm. Broadway Market is Saturday 9am to 5pm with a smaller Sunday market. Vinegar Yard is closed Sunday to Tuesday. Frank's Café in Peckham runs mid-May to mid-September, Wednesday to Sunday."
+    a: "Borough Market is closed on Mondays. Maltby Street is Friday evening, Saturday and Sunday only. Duke of York Square's food market is Saturday only, 10am to 4pm. Broadway Market is Saturday 9am to 5pm with a smaller Sunday market. Vinegar Yard is closed Sunday to Tuesday. Frank's Café in Peckham runs mid-May to mid-September, Wednesday to Sunday."
 ---
 
 Ask where to eat outside in London and most answers give you a list of restaurants with terraces, which is the wrong shape of answer. A terrace is one table. What you actually want is somewhere you can spend three hours: arrive without a plan, walk between a dozen options, sit down in the sun, and still be there when it goes dark.
@@ -286,7 +286,7 @@ Railway arches off Southwark Street converted into a taproom and a garden, with 
 
 ### Maltby Street Market, Bermondsey
 
-*£ · Bermondsey · 8 min from London Bridge · Sat 10am–5pm, Sun 11am–4pm, plus Fri 5.30–9pm in summer · [Maltby Street Market](https://www.maltbystreetmarket.co.uk/)*
+*£ · Bermondsey · 8 min from London Bridge · Fri 5.30–9pm, Sat 10am–5pm, Sun 11am–4pm · [Maltby Street Market](https://www.maltbystreetmarket.co.uk/)*
 
 A narrow alley called the Ropewalk running between the brick arches of the 1836 London-to-Greenwich viaduct, strung with flags, with traders down both sides and no roof over any of it. Of all the markets on this page it is the one with the least shelter, which cuts both ways. Raclette, confit, bavette steak and tacos are the standing order; the arches either side hold the bars.
 
@@ -332,7 +332,7 @@ London's food markets mostly don't have good outdoor seating, and the famous one
 | **Canopy Market, King's Cross** | Wed–Thu noon–7/8pm, Fri noon–8pm, Sat–Sun 11am–6pm | No. Under the steel-and-glass West Handyside Canopy |
 | **Camden, Hawley Wharf** | Daily | Halfway. Covered food courts, open canal-side space beside them |
 | **Boxpark Wembley** | Daily 9am–11pm | No. An indoor food hall on Olympic Way |
-| **Maltby Street** | Sat 10am–5pm, Sun 11am–4pm, summer Fri evenings | **Yes.** An open alley between the arches |
+| **Maltby Street** | Fri 5.30–9pm, Sat 10am–5pm, Sun 11am–4pm | **Yes.** An open alley between the arches |
 | **Duke of York Square** | Sat 10am–4pm | **Yes.** Open square, around a lawn |
 | **Broadway Market** | Sat 9am–5pm, Sun 10am–4pm | **Yes**, but it is a street with no seating — take it to London Fields at one end or the Regent's Canal at the other |
 | **Mercato Metropolitano** | Daily | **Partly.** Outdoor piazza and garden, indoor warehouse |
@@ -361,7 +361,7 @@ Everything on this page is pleasant in July. This is the shorter list that survi
 
 ## What to know before you go
 
-* **Check the day, not just the hours.** Borough Market is closed Mondays. Vinegar Yard is closed Sunday to Tuesday. Duke of York Square's market is Saturday only. Maltby Street is weekends plus summer Fridays. Broadway Market is Saturday, with a smaller Sunday.
+* **Check the day, not just the hours.** Borough Market is closed Mondays. Vinegar Yard is closed Sunday to Tuesday. Duke of York Square's market is Saturday only. Maltby Street is Friday evening to Sunday. Broadway Market is Saturday, with a smaller Sunday.
 * **Two of the most-recommended "outdoor" spaces are indoors.** Crossrail Place Roof Garden and Borough Market Kitchen are both under a roof. They are good; they are not alfresco.
 * **Bring-your-own works in the parks and squares, not in the yards.** Granary Square, Bagley Walk, Exchange Square, Jubilee Park, Harbour Quay, Power Station Park and Bernie Spain Gardens are all free to sit in with your own food. Kingly Court, Eccleston Yards, Broadgate Circle and the Coal Drops terraces are not.
 * **The waterside beats the square for sun.** In the tower districts the light goes off the paving early. Eden Dock's new terraces face south and west; Granary Square's steps face south; Malaysia Square at Battersea is the estate's own nominated sun trap.

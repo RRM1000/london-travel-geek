@@ -18,7 +18,7 @@ faq:
   - q: "Where can I eat oysters cheaply in London?"
     a: "Sam's Riverside in Hammersmith and Manzi's in Soho both run oyster happy hours at £2 an oyster — Manzi's from 3pm to 7pm Tuesday to Saturday and all day Sunday. Seabird in Southwark runs one daily from 3pm to 6pm. Furness Oyster Bar and Richard Haward's at Borough Market sell them to eat standing up, and Maltby Street Market does the same at weekends."
   - q: "Can visitors go to Billingsgate Fish Market?"
-    a: "Yes. It is the UK's largest inland fish market, trades from about 4am near Canary Wharf, and the public can buy. It is finished by around 8am."
+    a: "Yes. It is the UK's largest inland fish market, open to the public Tuesday to Saturday from 4am to 8:30am, ten minutes' walk from Canary Wharf. Children under 12 and dogs are not allowed on the floor."
   - q: "Which London seafood restaurants have a Michelin star?"
     a: "Behind in Hackney, which took its star in January 2021 after roughly twenty days of trading, and Angler on the roof of the South Place Hotel in Moorgate. Wiltons displays a Michelin Guide certificate on its website, which is a listing and not a star."
   - q: "Is London seafood expensive?"
@@ -359,11 +359,11 @@ Several oyster bars discount in the hours between lunch and dinner.
 
 *Free to enter · before dawn*
 
-**The UK's largest inland fish market**, trading from around 4am a few minutes from the Canary Wharf towers — **the public can buy**, and it is finished by about 8am.
+**The UK's largest inland fish market**, open from 4am to 8:30am, ten minutes' walk from the Canary Wharf towers — **the public can buy**.
 
 Bring cash, bring a cool bag, and expect to buy in quantity — traders sell by the box rather than the fillet. **The traders' café does a bacon and scallop roll**.
 
-**Free to enter, before dawn, and closed Sunday and Monday.** Wear shoes you do not mind ruining; the floor is wet throughout.
+**Free to enter, before dawn, and closed Sunday and Monday.** Wear non-slip closed shoes; the floor is wet throughout, and children under 12 and dogs are not allowed.
 
 ---
 

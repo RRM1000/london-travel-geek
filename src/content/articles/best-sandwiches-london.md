@@ -294,7 +294,7 @@ The **fish sando** — panko-fried fish on shokupan with house tonkatsu sauce, J
 
 A **bacon and scallop roll** in a market traders' café, where the scallops come off the floor downstairs. Go before the fish market shuts for the day.
 
-> ⚠️ **Billingsgate will close permanently by 2028.** The City of London Corporation confirmed in November 2024 that the Poplar site will be redeveloped for housing; traders stay until then. The London Fish Merchants Association says around 90% of traders intend to carry on somewhere else.
+> ⚠️ **Billingsgate is due to leave Poplar.** Traders stay until at least 2028, then move to Albert Island in the Royal Docks, subject to a Parliamentary bill. The London Fish Merchants Association says around 90% of traders intend to carry on somewhere else.
 
 ---
 

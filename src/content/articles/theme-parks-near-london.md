@@ -103,7 +103,7 @@ A theme park, a zoo and a SEA LIFE aquarium on one ticket, for children of about
 
 *Windsor, Berkshire · Paddington via Slough or Waterloo direct to Windsor, then the 702 or 703 bus · from £32 online, under-90cm free · Christmas dates to 2 January 2027*
 
-Built for children of about 2 to 12. Trains from Paddington take 28 to 38 minutes with a change at Slough, or 53 minutes direct from Waterloo, then the 702 or 703 bus from Windsor Parish Church takes about 15 minutes for £3; the 702 also runs from Victoria to the gate in about two hours. **The park is open on most days to 1 November 2026**, then on selected dates in November and for Christmas, and is **closed from 3 January to 10 February 2027**. Tickets bought on the day cost £68.
+Built for children of about 2 to 12. Trains from Paddington take 28 to 38 minutes with a change at Slough, or 53 minutes direct from Waterloo, then the 702 or 703 bus from Windsor Parish Church takes about 15 minutes for £3; the 702 also runs from Victoria to the gate in about two hours. **The park is open on most days to 1 November 2026**, then on selected dates in November and for Christmas, and is **closed from 4 January to 11 February 2027**. Tickets bought on the day cost £68.
 
 → **[The full LEGOLAND Windsor guide](/articles/legoland-windsor-day-trip/)**
 
@@ -161,7 +161,7 @@ A park where visitors of any age ride, drive and operate real diggers. **£39.50
 | --- | --- | --- |
 | **Thorpe Park** | **Fright Nights**: 2–4 and 9–11 October, then 15 October to 1 November, from £39 | None; closed from 2 November |
 | **Chessington** | **Howl'o'ween**: 3–4 and 10–11 October, then 17 October to 1 November, from £34 | **Christmas at Chessington**: selected dates 21 November to 24 December, from £32 with the Christmas Village |
-| **LEGOLAND Windsor** | **Brick or Treat**: 10–11 October, then 17 October to 1 November, from £37 | **LEGOLAND at Christmas**: selected dates 28 November to 2 January, from £34 |
+| **LEGOLAND Windsor** | **Brick or Treat**: 10–11 October, then 17 October to 1 November, from £37 | **LEGOLAND at Christmas**: selected dates 21 November to 3 January, from £34 |
 | **Paultons Park** | **Halloween Spooktacular**: 9 October to 2 November, in the normal ticket | **A Celebration of Christmas**: selected dates 5 December to 3 January, from £41 |
 | Gulliver's Land | **Fright Fiesta**: 10 October to 1 November, from £19 | **Christmas at Gulliver's**: 22 November to 23 December |
 | Adventure Island | Open weekends and half term | **Christmas Wonderland**: weekends from 28 November, then 19–24 December |
