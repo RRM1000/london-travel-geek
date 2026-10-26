@@ -3,7 +3,8 @@ title: "Heathrow Airport to London: Every Transport Option Compared"
 seoTitle: "Heathrow to London: Tube from £4, Elizabeth Line £15.50"
 description: "The Piccadilly line is the cheapest way in at £4–£5.90 and runs straight to South Kensington, the West End and King's Cross. The Elizabeth line costs £15.50 and is faster. Heathrow Express only reaches Paddington."
 publishedAt: 2026-08-04
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2026-11-02
 sites:
   - london
 canonicalSite: london
@@ -31,13 +32,15 @@ faq:
     a: "Yes. Tap in and out at the barriers exactly as you would on the Tube, and you are charged the £26 walk-up single — the same as tapping a contactless bank card or phone. A Railcard loaded onto your Oyster applies its discount. What you do not get is TfL pricing: Heathrow Express sits outside the daily cap and Travelcards, so the tap counts for nothing towards them. If you know your date, a £10 advance single booked 30 or more days ahead is the cheap way on; otherwise the Elizabeth line (£15.50, and it counts towards your cap) or the Piccadilly line (£5.90 peak, £4.00 off-peak) beat it on price."
 ---
 
-The fastest train out of Heathrow is not necessarily the fastest route to your hotel door. The Heathrow Express stops at Paddington and goes no further; the **Elizabeth line** and **Piccadilly line** carry on across Central London, which often saves you a station transfer and a second fare.
+The Heathrow Express stops at Paddington and goes no further; the **Elizabeth line** and **Piccadilly line** carry on across Central London, which often saves a transfer and a second fare.
 
 > 💡 **Quick Verdict:**  
 > - **Best for Most Travellers:** Take the **Elizabeth line** (fast, air-conditioned, step-free, and reaches West End / City / Canary Wharf directly for £15.50).  
 > - **Best on a Budget:** Take the **Piccadilly line** (cheapest at £4.00–£5.90, direct to South Kensington, West End & Kings Cross).  
 > - **Best for Paddington & Advance Deals:** Take the **Heathrow Express** (15 mins non-stop to Paddington, best if pre-booked for £10).  
 > - **Best for Groups & Heavy Bags:** Pre-book a private transfer or take a licensed London Black Cab.
+
+> ⚠️ **The Piccadilly line is closed from 1am on Saturday 31 October to the end of Sunday 1 November 2026.** Take the Elizabeth line or Heathrow Express instead.
 
 > ⚠️ **No Elizabeth line or Heathrow Express trains run to or from Heathrow from Sunday 27 to Wednesday 30 December 2026, or on Saturday 28 and Sunday 29 November.** The Piccadilly line is the only rail link between central London and the airport on those dates. Both services resume on Thursday 31 December, and Paddington is closed to Great Western trains until Monday 4 January for the Dolphin Junction upgrade ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
@@ -47,7 +50,7 @@ The fastest train out of Heathrow is not necessarily the fastest route to your h
 
 ## Heathrow transport options at a glance
 
-*Fares and normal travel times checked on **2 August 2026**. Times are measured from Heathrow Terminals 2 & 3; Terminal 4 or 5 can add 5–10 minutes.*
+*Times are measured from Heathrow Terminals 2 & 3; Terminal 4 or 5 can add 5–10 minutes.*
 
 | Transport Option | Adult Cost to Central London | Journey Time | Comfort | Best For |
 | --- | ---: | ---: | --- | --- |
@@ -64,18 +67,18 @@ The fastest train out of Heathrow is not necessarily the fastest route to your h
 
 | Hotel Area or Destination | Recommended Route | Why |
 | --- | --- | --- |
-| **Paddington** | Elizabeth Line or Heathrow Express | Both direct; Express saves 13 mins, Elizabeth line is £11.40 cheaper than the walk-up Express |
-| **Bond St / Oxford St / Mayfair** | Elizabeth Line | Direct, step-free, and drops you right in the West End |
+| **Paddington** | Elizabeth Line or Heathrow Express | Both direct; Express saves 13 mins, Elizabeth line is £10.50 cheaper than the walk-up Express |
+| **Bond St / Oxford St / Mayfair** | Elizabeth Line | Direct and step-free, into the West End |
 | **Soho / Bloomsbury / Tottenham Court Rd** | Elizabeth Line | Direct to Tottenham Court Road in ~35 minutes |
 | **Farringdon / City / St Paul's** | Elizabeth Line | Direct cross-city connection without changing trains |
 | **Liverpool St / Shoreditch** | Elizabeth Line | Direct to Liverpool Street station in ~40 minutes |
-| **Canary Wharf & Stratford** | Elizabeth Line | Direct high-speed service straight into East London |
+| **Canary Wharf & Stratford** | Elizabeth Line | Direct, no change |
 | **South Kensington / Earl's Court** | Piccadilly Line | Direct and cheap (£4.00–£5.90) |
-| **Knightsbridge / Green Park** | Piccadilly Line | Direct to hotel districts in central West London |
+| **Knightsbridge / Green Park** | Piccadilly Line | Direct to Knightsbridge and Green Park |
 | **Piccadilly Circus / Leicester Square** | Piccadilly Line | Direct, though station stairs can be awkward with large bags |
 | **King's Cross St Pancras** | Piccadilly Line | Direct link to Eurostar and mainline rail connections |
 | **Victoria** | Coach or Elizabeth line to Paddington + Taxi/Tube | Direct coach avoids Tube transfers; rail avoids traffic |
-| **London Bridge / Bankside** | Elizabeth line to Farringdon, then Thameslink | Easy cross-platform interchange with luggage |
+| **London Bridge / Bankside** | Elizabeth line to Farringdon, then Thameslink | Change at Farringdon for Thameslink to London Bridge |
 
 ---
 
@@ -83,7 +86,7 @@ The fastest train out of Heathrow is not necessarily the fastest route to your h
 
 ## 1. Elizabeth Line (Recommended for Most Visitors)
 
-The **Elizabeth line** (purple on the map) runs long air-conditioned trains with dedicated luggage racks, free Wi-Fi, and step-free access at every central station.
+The **Elizabeth line** (purple on the map) runs long air-conditioned trains with step-free access at every central station.
 
 * **Key Central Stops:** Paddington (28 mins), Bond Street (35 mins), Tottenham Court Road (37 mins), Farringdon (40 mins), Liverpool Street (42 mins), Canary Wharf (48 mins).
 * **Cost & Payment:** Adult single fare is **£15.50** (includes the Heathrow airport rail supplement). Tap at the ticket barrier with your contactless bank card, phone (Apple Pay / Google Pay), or Oyster card.
@@ -93,7 +96,7 @@ The **Elizabeth line** (purple on the map) runs long air-conditioned trains with
 
 ## 2. Piccadilly Line (Best Budget Option)
 
-The **Piccadilly line** (dark blue line) is London's classic Underground route to Heathrow. It serves all passenger terminals and is the cheapest direct rail link into the city centre.
+The **Piccadilly line** (dark blue on the map) serves all passenger terminals and is the cheapest direct rail link into the city centre.
 
 * **Cost & Payment:** **£5.90** during peak hours (06:30–09:29 M-F) or **£4.00** off-peak (all other times, weekends & public holidays). Pay with contactless or Oyster.
 * **Trade-Offs:** Trains take 50–60 minutes to reach Central London, lack air-conditioning, have limited luggage space, and central stations often have stairs rather than lifts.
@@ -116,7 +119,7 @@ The **Heathrow Express** runs non-stop between Heathrow Central (Terminals 2 & 3
 > ⚠️ **Important Heathrow Express Rules:**  
 > - **Excluded from TfL Caps:** Tapping contactless or Oyster at the barrier charges the full **£26.00** walk-up fare and **does NOT count towards daily TfL caps**.  
 > - **Kids Travel Free:** Children aged 15 and under travel **free** in Standard Class with a paying adult.  
-> - **When to Use:** Only recommended if your hotel is at Paddington, or if you pre-booked the £10 advance single ticket.
+> - **When to Use:** Only worth it if your hotel is at Paddington, or if you pre-booked the £10 advance single ticket.
 
 ---
 
@@ -124,7 +127,7 @@ The **Heathrow Express** runs non-stop between Heathrow Central (Terminals 2 & 3
 
 * **Official London Black Cabs:** Licensed black cabs wait at official ranks outside every terminal. Metered fare to Central London is typically **£70.00 – £120.00** (30–75 minutes depending on traffic).
 * **Pre-Booked Transfers / Uber:** Private hire drivers pick up in short-stay parking garages. Quoted fares range from **£50.00 – £90.00**.
-* **Drop-Off Charge:** Note that drivers dropping off passengers at Heathrow departures forecourts incur a **£5 drop-off charge**.
+* **Drop-Off Charge:** Drivers dropping off passengers at Heathrow terminals incur a **£7 drop-off charge**.
 
 ---
 
@@ -138,7 +141,7 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 | **Terminal 4** | Elizabeth Line, Piccadilly Line | Dedicated station beside Terminal 4 |
 | **Terminal 5** | Elizabeth Line, Piccadilly Line, Heathrow Express | Dedicated station beneath Terminal 5 |
 
-> 🔄 **Free Terminal Transfers:** Travel between Heathrow terminal stations on the Underground and Elizabeth line is **free**. Tap your contactless card or Oyster card, or collect a free transfer ticket at a ticket machine; no fare is charged.
+> 🔄 **Free Terminal Transfers:** Travel between Heathrow terminal stations on the Underground and Elizabeth line is **free**. Tap your contactless card or Oyster card, or collect a free transfer ticket at a ticket machine.
 
 ---
 
@@ -148,7 +151,7 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 
 * **Free Airport Wi-Fi:** Unlimited free Wi-Fi is available across all terminals under **_Heathrow Wi-Fi**.
 * **Airport SIM Vendors:** SIM Local operates stores and vending machines in all terminals.
-* **Smart Tip:** For a complete breakdown of airport SIM markups vs eSIM options, read our guide: [Should You Buy a SIM Card at the Airport?](/articles/should-you-buy-sim-card-at-airport/).
+* **SIM or eSIM:** For airport SIM markups vs eSIM options, read our guide: [Should You Buy a SIM Card at the Airport?](/articles/should-you-buy-sim-card-at-airport/).
 
 ---
 
@@ -164,4 +167,4 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 
 ---
 
-*Information checked on 2 August 2026. Always confirm live flight status and rail schedules with [Transport for London](https://tfl.gov.uk/) and [Heathrow Airport](https://www.heathrow.com/).*
+*Confirm live flight status and rail schedules with [Transport for London](https://tfl.gov.uk/) and [Heathrow Airport](https://www.heathrow.com/).*
