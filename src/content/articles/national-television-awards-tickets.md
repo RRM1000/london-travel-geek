@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:O2_Arena.jpg"
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
+updatedAt: 2026-10-26
 reviewBy: 2027-01-31
 sites:
   - london
@@ -32,16 +32,16 @@ faq:
   - q: "Can the public watch the National Television Awards red carpet?"
     a: "Yes, but it is sold with a ceremony seat, not on its own. The Red Carpet package is £150 and the Premium Red Carpet £270. Both put you in a standing viewing area outside The O2, with check-in from 4.30pm and 3.45pm."
   - q: "Are there free tickets to the National Television Awards?"
-    a: "Not for the ceremony. The route to a free ticket is a studio audience for an ITV show, booked through an audience agency. You can also vote: the winners are chosen by public vote, by post, phone and online, and Club NTA, a free mailing list, sends vote alerts."
+    a: "Not for the ceremony. The free route is a studio audience for an ITV show, booked through an audience agency. You can also vote: the winners are chosen by public vote, by post, phone and online, and Club NTA, a free mailing list, sends vote alerts."
   - q: "How does the National Television Awards vote work?"
-    a: "The organiser says millions of votes are cast each year by post, telephone and online, and that the winners are chosen exclusively by the public. Join Club NTA, the free mailing list on nationaltvawards.com, to be told when voting opens."
+    a: "The winners are chosen by the public, by post, telephone and online. Join Club NTA, the free mailing list on nationaltvawards.com, to be told when voting opens."
   - q: "How do I book an accessible ticket for the National Television Awards?"
     a: "By phone on 020 8463 3359, Monday to Friday, 9am to 5pm. The O2 is step-free, and access@theo2.co.uk answers other access questions."
 ---
 
 The National Television Awards are a televised awards night where the public chooses the winners and can also buy a seat. The ceremony has been held at **The O2** since 2010, apart from 2022, when it moved to the OVO Arena Wembley.
 
-Tickets for the **8 September 2027** ceremony are sold through AXS and Ticketmaster. What you pay depends on two things: how close the seat is, and whether you want to stand outside and watch the stars arrive first.
+Tickets for the **8 September 2027** ceremony are sold through AXS and Ticketmaster.
 
 > 💡 **The Short Version:** The ceremony is on **8 September 2027** at **The O2**, live on ITV. Tickets come from **[AXS](https://www.axs.com/uk/events/1596387/32nd-national-television-awards-tickets?skin=theo2)** or **[Ticketmaster](https://www.ticketmaster.co.uk/event/35006521445D08BE?did=ntaclub)**, the only two sellers the organiser links. Seats run from **£25** to **£105**. The **red-carpet packages** (**£150** and **£270**) add a standing viewing area outside, and are the only way to see the arrivals. Every price carries a **booking fee and a venue facility fee**. **Club NTA**, a free mailing list on the [organiser's site](https://www.nationaltvawards.com/join), sends presale and vote alerts.
 
@@ -75,31 +75,29 @@ The Five Star Experience and Premium Star Treatment are marked "limited availabi
 
 The red carpet is **not a free public viewing area**. The only way onto it is a Red Carpet or Premium Red Carpet ticket, which includes a seat at the ceremony.
 
-The organiser describes the viewing area as "standing room only, quite literally". It is outside, so dress for the weather. Smart or glamorous is the stated dress code, but you stand for as long as the arrivals last. The Five Star Experience, where you walk the carpet yourself, comes with a rule printed in capitals: no selfies while on it.
-
-If you only want the arrivals and not the ceremony, the broadcast is the alternative. The results are revealed live on ITV.
+The viewing area is standing room only and outside, so dress for the weather; the dress code is smart or glamorous. The Five Star Experience, where you walk the carpet yourself, bans selfies on it.
 
 ---
 
 ## How to book
 
-Tickets for 8 September 2027 are on sale from [AXS](https://www.axs.com/uk/events/1596387/32nd-national-television-awards-tickets?skin=theo2) and [Ticketmaster](https://www.ticketmaster.co.uk/event/35006521445D08BE?did=ntaclub), both linked from [nationaltvawards.com/tickets](https://www.nationaltvawards.com/tickets). Every seat block and package is on those pages. The Five Star Experience is sold through AXS only; the other packages link to both sellers.
+Tickets for 8 September 2027 are on sale from [AXS](https://www.axs.com/uk/events/1596387/32nd-national-television-awards-tickets?skin=theo2) and [Ticketmaster](https://www.ticketmaster.co.uk/event/35006521445D08BE?did=ntaclub), both linked from [nationaltvawards.com/tickets](https://www.nationaltvawards.com/tickets). The Five Star Experience is sold through AXS only; the other packages link to both sellers.
 
-**Join Club NTA before you book.** It is free, and the organiser describes it as the way to get "exclusive" presales and vote alerts. 
+**Join Club NTA before you book.** It is free and sends presale and vote alerts.
 
-**Book accessible tickets by phone.** Call **020 8463 3359**, Monday to Friday, 9am to 5pm. The O2 is fully accessible, with lifts and public areas designed for wheelchair use, and **access@theo2.co.uk** answers other questions.
+**Book accessible tickets by phone.** Call **020 8463 3359**, Monday to Friday, 9am to 5pm. The O2 is step-free, and **access@theo2.co.uk** answers other questions.
 
 ---
 
 ## The evening at The O2
 
-The practical rules are The O2's, not the NTAs'. Our [O2 travel guide](/articles/the-o2-travel-guide/) has the detail, and three things count most for a ceremony night.
+The O2's rules apply. Our [O2 travel guide](/articles/the-o2-travel-guide/) has the detail; three things matter most on a ceremony night.
 
 - **Bags.** One bag per person, no bigger than A4. The arena has no cloakroom, but a bag store outside the main entrance charges £10 a bag.
 - **Cash.** The arena is cashless, so bring a card.
 - **Getting home.** North Greenwich on the Jubilee line is the only station, and the last trains leave on the ordinary timetable. The cable car and the river boats stop before a late-evening ceremony ends.
 
-Check-in for the packages opens between 1.30pm (Five Star Experience) and 4.45pm (Star Treatment), so there are hours to fill before the show. **Up at The O2**, the guided climb over the roof of the dome, takes about 90 minutes, and slots are best booked well ahead of a big night.
+Package check-in opens between 1.30pm (Five Star Experience) and 4.45pm (Star Treatment), so there are hours to fill. **Up at The O2**, the guided climb over the roof of the dome, takes about 90 minutes.
 
 ![The O2's white dome and yellow masts seen across the Thames under a grey sky](../../assets/articles/national-television-awards-tickets/the-o2-from-the-thames.jpg)
 
@@ -109,19 +107,19 @@ Check-in for the packages opens between 1.30pm (Five Star Experience) and 4.45pm
 
 <div data-stay-strip></div>
 
-Hotel rates on the peninsula rise on big nights, so staying elsewhere on the Jubilee line is usually simpler. See [where to stay near The O2](/articles/where-to-stay-near-the-o2/).
+See [where to stay near The O2](/articles/where-to-stay-near-the-o2/).
 
 ---
 
 ## If you cannot get a ticket
 
-**Watch it live on ITV.** The ceremony is broadcast live.
+**Watch it live on ITV.**
 
-**Vote.** The winners are chosen by public vote, with millions of votes cast each year by post, phone and online. Club NTA sends the vote alerts.
+**Vote.** The public chooses the winners by post, phone and online. Club NTA sends the vote alerts.
 
 **Apply to be in the audience for an ITV show instead.** Studio tickets for entertainment shows are free from the audience agencies, and our [free TV show tickets guide](/articles/free-tv-show-tickets-london/) explains the over-issue, the queue and the ID rules.
 
-**Do not buy from a resale listing.** The organiser links two sellers, AXS and Ticketmaster. A listing anywhere else is a resale.
+**Do not buy from a resale listing.** A listing anywhere except AXS and Ticketmaster is a resale.
 
 ---
 
