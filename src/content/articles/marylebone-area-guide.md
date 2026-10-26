@@ -3,7 +3,8 @@ title: "Marylebone Area Guide: The High Street, the Wallace Collection and Baker
 seoTitle: "Marylebone Guide: High Street & Wallace Collection"
 description: "A complete Marylebone guide: the village high street, the free Wallace Collection, Daunt Books, the Sherlock Holmes museum and Regent's Park on the doorstep."
 publishedAt: 2026-08-20
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites:
   - london
 canonicalSite: london
@@ -56,15 +57,15 @@ area:
       note: "East across Great Portland Street for Charlotte Street and the BT Tower."
 faq:
   - q: "Is the Wallace Collection free?"
-    a: "Yes, entirely free, including the permanent collection. It sits in Hertford House on Manchester Square, a townhouse kept much as its owners left it. It holds Frans Hals's *The Laughing Cavalier*, work by Titian, Rembrandt and Velázquez, and one of the finest armour collections in Europe. It is rarely busy, which is the remarkable part."
+    a: "Yes, entirely free, including the permanent collection. It sits in Hertford House on Manchester Square, a townhouse kept much as its owners left it. It holds Frans Hals's *The Laughing Cavalier*, work by Titian, Rembrandt and Velázquez, and a large collection of arms and armour. Open daily 10am to 5pm."
   - q: "Is 221B Baker Street a real address?"
-    a: "It was not when Conan Doyle wrote the stories — Baker Street numbers did not reach that high. The Sherlock Holmes Museum now occupies the site and is signed 221B by special arrangement, though the building sits physically between 237 and 241. It is ticketed, small, and there is usually a queue outside."
+    a: "It was not when Conan Doyle wrote the stories — Baker Street numbers did not reach that high. The Sherlock Holmes Museum now occupies the site and is signed 221B by special arrangement, though the building sits physically between 237 and 241. It is small and ticketed (adults £19), and there is usually a queue outside."
   - q: "When is Marylebone Farmers' Market?"
-    a: "Every Sunday, 10:00 to 14:00, rain or shine, on St Vincent Street, Aybrook Street and the top of Moxon Street, just west of Marylebone High Street. It is one of the largest genuine farmers' markets in London — producers only, no resellers."
+    a: "Every Sunday, 10:00 to 14:00, rain or shine, on St Vincent Street, Aybrook Street and the top of Moxon Street, just west of Marylebone High Street. Producers only."
   - q: "Is Marylebone worth visiting?"
-    a: "Yes, if you like independent shops and a slower pace. Marylebone High Street runs parallel to Oxford Street a few minutes north and is its complete opposite: low-rise, largely independent and calm. Add the free Wallace Collection and Regent's Park at the top and it is an easy, pleasant half day."
+    a: "Yes, if you like independent shops and a slower pace. Marylebone High Street runs parallel to Oxford Street a few minutes north: low-rise, largely independent and calm. Add the free Wallace Collection and Regent's Park at the top and it is an easy half day."
   - q: "What is Daunt Books?"
-    a: "A bookshop on Marylebone High Street in an Edwardian building with oak galleries, skylights and a long stained-glass window at the back. Its main room is arranged by country rather than genre, so travel writing, fiction and history for each place sit together. Free to browse and one of the most photographed shop interiors in London."
+    a: "A bookshop on Marylebone High Street in an Edwardian building with oak galleries, skylights and a long stained-glass window at the back. Its main room is arranged by country rather than genre, so travel writing, fiction and history for each place sit together. Free to browse."
 heroImage: ../../assets/articles/marylebone-area-guide/marylebone-high-street-london-january-2024-01.jpg
 heroImageAlt: "Marylebone High Street on a wet winter afternoon, with the boutiques and mansion blocks of Marylebone Village"
 heroImageCredit: "DiscoA340"
@@ -73,27 +74,25 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 ---
 
-Marylebone runs parallel to [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three) about four minutes north, and it is the opposite of it in almost every way: low-rise Georgian, largely independent, and quiet enough to hear yourself.
-
-It also holds one of the best free museums in London — a townhouse full of Old Masters and armour that most visitors have never heard of — and backs directly onto Regent's Park.
+Marylebone runs parallel to [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three) about four minutes north: low-rise Georgian, largely independent, and quiet. It holds a free museum of Old Masters and armour, and backs directly onto Regent's Park.
 
 Marylebone has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=marylebone).
 
 ## Why visit — and who should skip it
 
-**Come here if** Oxford Street has worn you down. Marylebone High Street is a genuine village street of independent shops, cheesemongers and bookshops, and the Wallace Collection nearby is free, world-class and almost empty.
+**Come here if** Oxford Street has worn you down. Marylebone High Street is a village street of independent shops, cheesemongers and bookshops, and the Wallace Collection nearby is free.
 
-**Skip it if** you are hunting landmarks. Apart from the queue outside the Sherlock Holmes Museum there is very little here to photograph. Marylebone is for browsing and eating.
+**Skip it if** you are hunting landmarks. Apart from the queue outside the Sherlock Holmes Museum there is little here to photograph. Marylebone is for browsing and eating.
 
 ## Top sights and activities
 
-1. **The Wallace Collection** — Free, in a Manchester Square townhouse. *The Laughing Cavalier*, Titian, Rembrandt, Velázquez, and one of Europe's great armour collections. Astonishingly quiet for what it holds.
+1. **The Wallace Collection** — Free, in a Manchester Square townhouse. *The Laughing Cavalier*, Titian, Rembrandt, Velázquez and a large collection of arms and armour. Open daily 10am to 5pm.
 2. **Marylebone High Street** — The spine. Independent shops, delis, a cheesemonger and cafes with pavement tables.
 3. **Daunt Books** — An Edwardian shop with oak galleries and a stained-glass window, its main room arranged **by country**, not genre. Free to browse.
-4. **Marylebone Farmers' Market** — Sundays, 10:00 to 14:00, on St Vincent Street, Aybrook Street and the top of Moxon Street. Producers only.
+4. **Marylebone Farmers' Market** — Sundays, 10am to 2pm, on St Vincent Street, Aybrook Street and the top of Moxon Street. Producers only.
 5. **Regent's Park** — Ten minutes north. Queen Mary's rose garden, the boating lake, the open-air theatre and London Zoo at the top.
-6. **Wigmore Hall** — A 1901 chamber music hall with near-perfect acoustics. Sunday morning coffee concerts are cheap and excellent.
-7. **The Sherlock Holmes Museum and Madame Tussauds** — Both on Baker Street, both ticketed, both usually with a queue. Manage expectations.
+6. **Wigmore Hall** — A chamber music hall opened in 1901. Sunday morning coffee concerts are the cheap way in.
+7. **The Sherlock Holmes Museum and Madame Tussauds** — Both on Baker Street, both ticketed, both usually with a queue.
 
 ![The Sherlock Holmes Museum shopfront on Baker Street, with a costumed Victorian policeman standing outside](../../assets/articles/marylebone-area-guide/sherlock-holmes-museum.jpg)
 
@@ -106,11 +105,11 @@ Marylebone has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Marylebone High Street
-The centre — low-rise, largely independent, and the opposite of Oxford Street four minutes south.
+The centre: low-rise, largely independent, four minutes north of Oxford Street.
 
-**Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room, skylights and a stained-glass window at the back, shelved by country, not genre, which is why it is famous. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
+**Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room, skylights and a stained-glass window at the back, shelved by country, not genre. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
 
-**A farmers' market runs behind it on Sundays**, which is the one day the street is busy. Ordinary shop hours otherwise, and about eight minutes from Bond Street.
+**A farmers' market runs behind it on Sundays**, the one day the street is busy. The high street is about eight minutes from Bond Street.
 
 ### Marylebone Lane
 
@@ -118,32 +117,30 @@ The centre — low-rise, largely independent, and the opposite of Oxford Street 
 
 *108 Brasserie, Marylebone Lane.*
 
-A curving lane that bends oddly against the Georgian grid around it, because **it follows the course of the buried River Tyburn** — the street is medieval and the grid was laid out around it two centuries later.
+A curving lane that bends against the Georgian grid around it because **it follows the course of the buried River Tyburn**. The street is medieval and the grid was laid out around it two centuries later.
 
-Small shops and pubs line it, and it is one of the few streets in central London where the shape tells you something about what is underneath.
-
-**Two minutes end to end**, running parallel to the high street, and the better of the two on a busy Sunday.
+Small shops and pubs line it. It is two minutes end to end, running parallel to the high street, and quieter than the high street on a busy Sunday.
 
 ### Manchester Square
-A garden square two minutes east of the high street, holding **the Wallace Collection** — a national museum in a townhouse, with Old Masters, French furniture and one of the finest collections of arms and armour in Europe.
+A garden square two minutes east of the high street, holding **the Wallace Collection**: a national museum in a townhouse, with Old Masters, French furniture and arms and armour.
 
 Frans Hals's *Laughing Cavalier* is here, along with Fragonard's *The Swing*.
 
-**It is free, it is never crowded, and it has a glazed courtyard restaurant** — which together make it the best wet-afternoon option in Marylebone by a distance. Open daily 10:00 to 17:00, and closed only 24 to 26 December.
+**Entry is free, and there is a glazed courtyard restaurant.** Open daily 10am to 5pm, closed only 24 to 26 December.
 
 ### Baker Street and Marylebone Road
-North, and **the least pleasant part of Marylebone** — a four-lane road, constant traffic, and the two attractions that generate the longest queues in the area.
+North: a four-lane road with constant traffic, and the two attractions with the longest queues in the area.
 
-The **Sherlock Holmes Museum** at 221B and **Madame Tussauds** are both here. Tussauds in particular queues badly without a pre-booked timed ticket, and the Baker Street pavement outside 221B is often blocked.
+The **Sherlock Holmes Museum** at 221B (open 9:30am to 6pm, adults £19) and **Madame Tussauds** are both here. Tussauds queues badly without a pre-booked timed ticket, and the pavement outside 221B is often blocked.
 
-**Book ahead or skip both.** If you want Baker Street itself, the statue outside the station takes thirty seconds and costs nothing. For ticket prices, the statue's own history and the rest of Sherlock Holmes's London, see our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide. The Beatles Store is further up at 231 Baker Street, and [the Beatles in London](/articles/beatles-london/) covers it with the Apple Boutique plaque at 94 and Ringo's old flat in Montagu Square.
+**Book ahead or skip both.** If you want Baker Street itself, the statue outside the station takes thirty seconds and costs nothing. For the statue's history and the rest of Sherlock Holmes's London, see our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide. The Beatles Store is further up at 231 Baker Street, and [the Beatles in London](/articles/beatles-london/) covers it with the Apple Boutique plaque at 94 and Ringo's old flat in Montagu Square.
 
 ### Chiltern Street
-**The best-looking street in Marylebone** — a run of red-brick Victorian gothic, built as model dwellings and mansion flats, and unlike anything around it.
+A run of red-brick Victorian gothic, built as model dwellings and mansion flats.
 
-The shops are unusually specific: bridal boutiques, and instrument dealers selling violins and cellos. The **Chiltern Firehouse** occupies a Victorian fire station at the northern end.
+The shops are specific: bridal boutiques, and instrument dealers selling violins and cellos. The **Chiltern Firehouse** occupies a Victorian fire station at the northern end.
 
-**A five-minute walk and free**, and a better use of the time than Baker Street one block west. Baker Street station is three minutes away.
+**It is a five-minute walk and free.** Baker Street station is three minutes away.
 
 ![The green Edwardian shopfront of Daunt Books on Marylebone High Street](../../assets/articles/marylebone-area-guide/daunt-books.jpg)
 
@@ -158,11 +155,11 @@ The shops are unusually specific: bridal boutiques, and instrument dealers selli
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
-| **La Fromagerie** | Cheese shop and cafe | ££ | Walk-in cheese room; excellent for lunch |
+| **La Fromagerie** | Cheese shop and cafe | ££ | Walk-in cheese room, open every day |
 | **The Golden Hind** | Fish and chips | £ | Marylebone Lane, since 1914, bring your own wine |
-| **Monocle Cafe** | Coffee | £ | Small, on Chiltern Street, good for an hour with a book |
-| **The Ivy Cafe** | Modern European | ££ | High Street; reliable and open all day |
-| **Marylebone Farmers' Market** | Market | £ | Sundays only, and the best-value eating here |
+| **Monocle Cafe** | Coffee | £ | Small, on Chiltern Street |
+| **The Ivy Cafe** | Modern European | ££ | High Street; open all day |
+| **Marylebone Farmers' Market** | Market | £ | Sundays only |
 | **The Wallace Restaurant** | Brasserie | £££ | In the museum's glazed courtyard |
 
 Jikoni on Blandford Street cooks across South Asian, East African, Middle Eastern and British kitchens. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
@@ -171,9 +168,9 @@ Opso and Kima face each other on Paddington Street, Taverna Ermou is on James St
 
 ## Getting there
 
-**By Tube.** **Baker Street** (five lines) is best for the north end and Regent's Park. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the south end and is only four minutes' walk from the high street.
+**By Tube.** **Baker Street** (five lines) is best for the north end and Regent's Park. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the south end, four minutes' walk from the high street.
 
-**Best exit.** From Bond Street, take the **Marylebone Lane** exit and walk north — it drops you straight into the village, not onto Oxford Street.
+**Best exit.** From Bond Street, take the **Marylebone Lane** exit and walk north: it drops you into the village, not onto Oxford Street.
 
 **On foot.** Ten minutes to Regent's Park, twelve to Mayfair, twenty to Soho.
 
@@ -212,19 +209,19 @@ Our full route for this area: **eleven numbered stops** over about 5km and three
 
 ## Common mistakes to avoid
 
-1. **Missing the Wallace Collection.** Free, world-class and quiet — the best-value hour in the area.
+1. **Missing the Wallace Collection.** It is free and quiet.
 2. **Judging Marylebone by Marylebone Road.** That is a traffic artery. The village is two streets south.
 3. **Queuing for the Sherlock Holmes Museum without knowing what it is.** Small, ticketed and heavily themed.
 4. **Coming in the evening.** Most of the high street closes by 18:00.
 5. **Expecting Madame Tussauds to be a Marylebone experience.** It is a standalone attraction on a busy road.
-6. **Walking up from Oxford Circus.** Bond Street is closer and less unpleasant.
+6. **Walking up from Oxford Circus.** Bond Street is closer.
 
 ## Where to stay
 
-Central, calm and well connected, with the Elizabeth line at Bond Street four minutes away.
+Central and well connected, with the Elizabeth line at Bond Street four minutes away.
 
 - **Marylebone Village** — Small hotels and townhouse conversions around the high street.
 - **Baker Street and Marylebone Road** — Larger hotels, cheaper, noisier, handy for Regent's Park.
-- **Paddington** — Twenty minutes west, better value again, and direct to Heathrow.
+- **Paddington** — Twenty minutes west, cheaper again, and direct to Heathrow.
 
 Our [Marylebone hotel guide](/articles/where-to-stay-marylebone/) compares the hotels street by street.
