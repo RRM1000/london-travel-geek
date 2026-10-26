@@ -3,8 +3,8 @@ title: "Sky Garden London: Free Tickets, Booking and Opening Hours"
 seoTitle: "Sky Garden Tickets: Free Entry, Booking & Hours"
 description: "Sky Garden is free, but its timed tickets come out every Monday, three weeks ahead. How to book, the ways in once they have gone, the hours, the terrace, sunset times and the free viewpoints nearby."
 publishedAt: 2026-10-08
-updatedAt: 2026-10-08
-reviewBy: 2026-10-22
+updatedAt: 2026-10-26
+reviewBy: 2026-11-17
 sites:
   - london
 canonicalSite: london
@@ -62,7 +62,7 @@ The Sky Garden is the public garden at the top of 20 Fenchurch Street, the curve
 
 Free tickets are sold only on the [Sky Garden's own ticket site](https://tickets.skygarden.london/WebStore/shop/viewitems.aspx?cg=SkyGarden&c=Tickets).
 
-- **When they come out:** every Monday morning, bank holidays excepted, for the whole week three weeks ahead. Book on 12 October 2026 and you are choosing from the week beginning 2 November.
+- **When they come out:** every Monday morning, bank holidays excepted, for the whole week three weeks ahead. Book on Monday 26 October and you are choosing from the week beginning 16 November.
 - **How long you get:** one hour inside from the moment you enter, ending at 18:00 on weekdays and 21:00 at weekends and on bank holidays however late your slot.
 - **Arriving late:** more than 15 minutes after the time on your ticket and you are unlikely to be let in. Tickets cannot be moved on the day; to change one, cancel it online and book another slot.
 - **You still queue.** A ticket is for capacity, not a fast track. Join the back of the queue from Fenchurch Street and Philpot Lane and keep to the right-hand side, which is for pre-booked tickets.
@@ -70,7 +70,7 @@ Free tickets are sold only on the [Sky Garden's own ticket site](https://tickets
 - **Groups:** a booking takes up to ten people. Larger groups are taken only on community days, the second Wednesday of each month, through the [group tickets page](https://skygarden.london/booking/group-tickets/). Book separate tickets and arrive as a party of more than ten, and you will be turned away.
 - **Confirmation emails** can take up to 24 hours. If yours has not come, the door can check you in with your booking reference and name.
 
-In early October 2026 one of the visitor lifts was out of service, and the Sky Garden warned that some ticket holders might not get in at their booked time. If your day is flexible, it suggests rebooking for later in the week or the week after.
+One of the visitor lifts is out of service, and the Sky Garden warns that some ticket holders may not get in at their booked time. If your day is flexible, it suggests rebooking for later in the week or the week after.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1100481" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -102,7 +102,6 @@ Under-16s cannot be in the Sky Garden after 18:00 on weekdays or 21:00 at weeken
 
 **The first Monday of most months is a maintenance day.** The garden and bars on Levels 35 and 36 stay shut until 18:30, and only diners with a reservation are let in, at their booking time. The [closure dates page](https://skygarden.london/sky-garden-closure-dates/) lists the rest. Between now and Christmas:
 
-- **14 and 21 October:** closed from 16:00 for a private hire.
 - **16 November and 7 December:** maintenance days, closed until 18:30.
 - **24 November, 3 and 10 December:** closed from 16:00.
 - **25 November:** closed all day.

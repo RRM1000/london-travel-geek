@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in London in October: The Month London Peaks, Then Goes Dark"
 seoTitle: "Things to Do in London in October 2026"
-description: "What is left of October 2026: the clocks go back on 25 October, MCM Comic Con at ExCeL, half term, Halloween on a Saturday, the exhibitions that close, and the Bayeux Tapestry's own tickets sold out until 2027."
+description: "What is left of October 2026: half term, Halloween on a Saturday, the exhibitions that close, the clocks that have gone back, and the Bayeux Tapestry's own tickets sold out until 2027."
 heroImage: "../../assets/articles/best-parks-gardens-london/best-parks-gardens-london.jpg"
 heroImageAlt: "A large plane tree in full golden autumn colour in Hyde Park, its fallen leaves carpeting the grass and path beneath it, with a bench and people walking and jogging past under a clear blue sky"
 heroImageCredit: "Paul Farmer"
@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-updatedAt: 2026-10-25
-reviewBy: 2026-10-26
+updatedAt: 2026-10-26
+reviewBy: 2026-10-27
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -24,24 +24,24 @@ faq:
   - q: "What is Frieze Week, and is it worth going if you're not buying art?"
     a: "Frieze Week is the run of days in the middle of October (14 to 18 October in 2026) when the two fairs in Regent's Park are joined by three satellite fairs: PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park. All are ticketed, and Frieze weekend tickets alone ran from about £38. The free version is Frieze Sculpture: large-scale works by 11 international artists in the same park's English Gardens, no ticket needed, open until 1 November."
   - q: "When do the clocks go back in October 2026, and how much daylight do you lose?"
-    a: "2am on Sunday 25 October, when British Summer Time ends and the country returns to GMT. The change is overnight: sunset is about 5.50pm on the Saturday before and about 4.48pm on the Sunday after, so an hour of evening disappears between one day and the next. By the 31st, sunset is nearer 4.37pm. Anything you want to do outdoors in the last week of October needs to happen before mid-afternoon."
+    a: "2am on Sunday 25 October, when British Summer Time ended and the country returned to GMT. The change was overnight: sunset was about 5.50pm on the Saturday before and about 4.48pm on the Sunday after, so an hour of evening disappeared between one day and the next. By the 31st, sunset is nearer 4.37pm. Anything you want to do outdoors in the last week of October needs to happen before mid-afternoon."
   - q: "When is October half term in London 2026, and what does it change?"
     a: "Monday 26 to Friday 30 October for most London boroughs, though academies and free schools can set their own dates. It is an attraction spike rather than a hotel spike: timed-entry slots at the paid attractions go first, so book before the week starts rather than turning up on spec. The free museums are the fallback for anyone who didn't book, not the plan."
   - q: "Is Halloween in London 2026 on a good night to be out?"
     a: "About as good as it gets — 31 October 2026 falls on a Saturday, so events run at full strength instead of being squeezed onto the nearest weekend. It also closes an already stacked week: half term is ending, and on the Sunday before it the clocks went back, MCM Comic Con closed and Diwali on the Square filled Trafalgar Square. Our [Halloween in London guide](/articles/halloween-london/) has the scare attractions, club nights and where to still hire a costume."
   - q: "What festivals are on in London in October 2026?"
-    a: "The BFI London Film Festival ran 7 to 18 October. Still on: Dance Umbrella to 27 October, Bloomsbury Festival and Black History Month all month, and the London Literature Festival, curated in 2026 by Dua Lipa, from 20 October to 1 November. Diwali on the Square is in Trafalgar Square on Sunday 25 October. The five Frieze Week art fairs ran on top of the film festival's closing weekend, 15 to 18 October."
+    a: "The BFI London Film Festival ran 7 to 18 October. Still on: Dance Umbrella to 27 October, Bloomsbury Festival and Black History Month all month, and the London Literature Festival, curated in 2026 by Dua Lipa, from 20 October to 1 November. Diwali on the Square filled Trafalgar Square on Sunday 25 October. The five Frieze Week art fairs ran on top of the film festival's closing weekend, 15 to 18 October."
   - q: "Are there NFL games in London in October 2026?"
     a: "Three, played on consecutive Sundays: Indianapolis Colts v Washington Commanders on 4 October and Philadelphia Eagles v Jacksonville Jaguars on 11 October, both at Tottenham Hotspur Stadium, then Houston Texans v Jacksonville Jaguars at Wembley on 18 October."
 ---
 
 For the first three weeks of October the summer crowds have gone and the autumn exhibitions and festivals open one after another. In the final week the clocks go back, half term starts and the evenings are dark by five.
 
-> 💡 **The Short Version:** **Frieze Week and the BFI London Film Festival ended on 18 October**; the free **Frieze Sculpture** in Regent's Park runs to 1 November. **MCM Comic Con** at ExCeL ends on 25 October; its next show is 28 to 30 May 2027. The **clocks go back on 25 October**, half term starts the next day, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
+> 💡 **The Short Version:** **Frieze Week and the BFI London Film Festival ended on 18 October**; the free **Frieze Sculpture** in Regent's Park runs to 1 November. **MCM Comic Con** at ExCeL ended on 25 October; its next show is 28 to 30 May 2027. The **clocks went back on 25 October**, half term runs 26 to 30 October, and **Halloween falls on a Saturday**. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
 
 **Five ticketed art fairs ran in the same city on the same days, in the middle of the month**, inside the BFI London Film Festival's closing weekend, Thursday 15 to Sunday 18 October. What is left is the free half, Frieze Sculpture, which stays in Regent's Park until the start of November.
 
-**Then the month has a hinge, and everything after it plays by different rules.** The clocks go back at 2am on the last Sunday of October — in 2026 that's the 25th — and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. That same Sunday, MCM Comic Con finishes its run at ExCeL and Diwali on the Square fills Trafalgar Square. School half term starts on the Monday, and Halloween falls on the Saturday that ends it. If you can choose your dates, the first ten days of October are the easier trip.
+**Then the month has a hinge, and everything after it plays by different rules.** The clocks go back at 2am on the last Sunday of October — in 2026 that's the 25th — and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. That same Sunday, MCM Comic Con finished its run at ExCeL and Diwali on the Square filled Trafalgar Square. School half term started on the Monday, and Halloween falls on the Saturday that ends it. If you can choose your dates, the first ten days of October are the easier trip.
 
 ## The story that carries over from September
 
@@ -135,13 +135,13 @@ British Summer Time ends at 2am on the last Sunday of October. Clocks go back an
 
 ### Diwali on the Square — Trafalgar Square, the same Sunday
 
-The Mayor of London's Diwali celebration: an opening dance sequence with 200 dancers, a main stage of music and dance from London's Hindu, Sikh and Jain communities, sari and turban tying, yoga and dance workshops, and vegetarian and vegan food stalls. **It is not held on Diwali itself**, which moves with the lunar calendar and falls in November in 2026. It runs **1pm to 7pm**, free with no ticket, on the day the clocks go back, so with sunset at about 4.48pm the last two hours are after dark. There is an accessible viewing area on the north terrace.
+The Mayor of London's Diwali celebration took place on 25 October: an opening dance sequence with 200 dancers, a main stage of music and dance from London's Hindu, Sikh and Jain communities, sari and turban tying, yoga and dance workshops, and vegetarian and vegan food stalls. **It is not held on Diwali itself**, which moves with the lunar calendar and falls in November in 2026 (see our [November guide](/articles/things-to-do-in-london-in-november/)).
 
 ### MCM Comic Con London — ExCeL, 23 to 25 October
 
 *Full guide: [MCM Comic Con London](/articles/mcm-comic-con-london/)*
 
-A three-day comics, gaming, anime and pop culture convention, closing on the same Sunday as Diwali and the clock change. General entry is **£29 on Friday or Sunday and £38 on Saturday**, and opens at midday (11am on Saturday); a child ticket is £7, and under-5s go free. The **Weekend ticket and both VIP tiers have sold out**. The crowds travel on the DLR and the Elizabeth line to Custom House, so expect both to be busy if you are doing anything else in Docklands that weekend. The next MCM London is **28 to 30 May 2027**, with tickets on sale from 26 October.
+A three-day comics, gaming, anime and pop culture convention, which closed on the same Sunday as Diwali and the clock change. General entry was **£29 on Friday or Sunday and £38 on Saturday**; a child ticket was £7, and under-5s went free. The **Weekend ticket and both VIP tiers sold out**. The next MCM London is **28 to 30 May 2027**, with tickets on sale from 26 October.
 
 ### School half term — Monday 26 to Friday 30 October
 
@@ -161,11 +161,9 @@ Family options land squarely in the week. **Absurd City** opened at Westfield Lo
 
 **John Constable: views of nature** at the British Museum and the Royal Academy's **Charlie Billingham** both closed on **4 October**, and the National Portrait Gallery's **Herbert Smith Freehills Kramer Portrait Award 2026** on **7 October**, all free.
 
-### Serpentine Pavilion and its neighbour both close 25 October
+### Serpentine Pavilion and its neighbour both closed 25 October
 
-The **Serpentine Pavilion 2026**, the 2026 commission by LANZA atelier — Isabel Abascal and Alessandro Arienzo, titled simply "a serpentine" — closes in Kensington Gardens on **25 October**, free. Steps away, **Jesús Rafael Soto's *Pénétrable BBL Jaune***, a public sculpture from Soto's Pénétrable series, closes the same day, so the two make one walk.
-
-**Richard Dadd** at the Royal Academy also closes **25 October**.
+The **Serpentine Pavilion 2026**, the 2026 commission by LANZA atelier — Isabel Abascal and Alessandro Arienzo, titled simply "a serpentine" — closed in Kensington Gardens on **25 October**. Steps away, **Jesús Rafael Soto's *Pénétrable BBL Jaune***, a public sculpture from Soto's Pénétrable series, closed the same day. **Richard Dadd** at the Royal Academy also closed on **25 October**.
 
 ### A National Portrait for the National Portrait Gallery — closes 26 October
 
@@ -219,7 +217,7 @@ The year's winning pictures, open in time for half term and running to **11 July
 
 The first weekend of the month cleared out three shows at once: **My Son's A Queer (But What Can You Do?)** at the Apollo, **The Children** at the Lyric Hammersmith, and **The Last Ship** at Theatre Royal Drury Lane. **Holy Fool**, a play about Shostakovich under Stalin, at the Park Theatre, and **Flamenc-Oh!!** at the Peacock both ended **10 October**.
 
-The Globe's open-air season closes in the same week half term begins: **Much Ado About Nothing** played its last performance on **24 October**, and **[As You Like It](https://theatre.ticketmaster.co.uk/book/1HM8Y-as-you-like-it-26/)**, co-directed by Sean Holmes and Charlie Josephine, closes the following day, **25 October**. Standing tickets in the yard are £10. **Darkling** at the Bush, **Table 17** at the Kiln, and **Tartuffe (Remixed)** at the Marylebone Theatre also ended on the **24th**.
+The Globe's open-air season closes in the same week half term begins: **Much Ado About Nothing** played its last performance on **24 October**, and **[As You Like It](https://theatre.ticketmaster.co.uk/book/1HM8Y-as-you-like-it-26/)**, co-directed by Sean Holmes and Charlie Josephine, closed the following day, **25 October**. Standing tickets in the yard are £10. **Darkling** at the Bush, **Table 17** at the Kiln, and **Tartuffe (Remixed)** at the Marylebone Theatre also ended on the **24th**.
 
 **From The Heart** at the Garrick ran entirely inside the month, **8 to 18 October**. On **31 October**, four runs end together: **Angel's Bone** at the Coliseum, **The Hungry Ghost** at the Bush, **Stories – The Tap Dance Sensation** at the Peacock, which opened on the 14th, and **Cirque Berserk!** at the Garrick, which had only opened ten days earlier as a half-term booking.
 
@@ -251,11 +249,11 @@ A new Aardman show on Lightroom's walls, booking now to **4 January 2027**. It r
 
 ### Blue Note London's first full month
 
-The New York jazz club's first UK venue, which opened on St Martin's Lane in September, plays its first complete month in October, two sets a night (7pm and 9.30pm) in a 300-seat main room. The month ends with Mahalia on 25 October, Elements: A Celebration of Earth, Wind & Fire on 28 October and Laura Mvula on 29 and 30 October. The club's full entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
+The New York jazz club's first UK venue, which opened on St Martin's Lane in September, plays its first complete month in October, two sets a night (7pm and 9.30pm) in a 300-seat main room. The month ends with Elements: A Celebration of Earth, Wind & Fire on 28 October and Laura Mvula on 29 and 30 October. The club's full entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
 
 ## Gigs worth planning around
 
-Alexandra Palace carries the end of the month: the **Crouch End Festival Chorus performing Mozart's Requiem at 5pm on 25 October**, **Overmono on 28 October**, and **[Skindred](https://www.ticketmaster.co.uk/skindred-you-got-this-tour-london-31-10-2026/event/1F006474E2A68594) on Halloween night, 31 October**.
+Alexandra Palace carries the end of the month: **Overmono on 28 October**, and **[Skindred](https://www.ticketmaster.co.uk/skindred-you-got-this-tour-london-31-10-2026/event/1F006474E2A68594) on Halloween night, 31 October**.
 
 ## What's on in October 2026
 
