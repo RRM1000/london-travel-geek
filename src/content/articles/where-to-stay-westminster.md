@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=75578406"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-07-27
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "Is Westminster a good area to stay in London?"
     a: "For sightseeing, yes. From St James's Park or Whitehall you can walk to Westminster Abbey, the Houses of Parliament, Buckingham Palace, the Churchill War Rooms and Trafalgar Square without a Tube. The drawback is the evenings: Whitehall and the streets around the Abbey are government offices and go quiet after work and at weekends, so for restaurants and bars you walk north of Trafalgar Square into Soho or Covent Garden."
   - q: "What is the cheapest place to stay near Victoria station?"
-    a: "Astor Victoria on Belgrave Road, with dorm beds from £18 and twin rooms from £99, though its dorms take only 18- to 39-year-olds. For a private room, The Z Hotel Victoria was £135 to £205 across five nights we priced, with a windowless Inside Double of 9 square metres as its cheapest room. The Georgian House Hotel in Pimlico is about £140."
+    a: "Astor Victoria on Belgrave Road, with dorm beds from £18 and twin rooms from £99, though its dorms take only 18- to 39-year-olds. For a private room, The Z Hotel Victoria is £135 to £205 depending on the date, with a windowless Inside Double of 9 square metres as its cheapest room. The Georgian House Hotel in Pimlico is about £140."
   - q: "Where should I stay for Gatwick or a coach from Victoria?"
     a: "Southern and Gatwick Express trains from Gatwick end at Victoria, so anywhere within five minutes of the station works: The Clermont is next to the station, and The Z Hotel Victoria, The July and The Rubens at the Palace are a short walk. For National Express and Megabus, the Lime Tree Hotel on Ebury Street is a minute from Victoria Coach Station."
   - q: "Is Westminster quiet at night?"
@@ -31,7 +31,7 @@ faq:
 
 Four districts share the SW1 postcode here, and each suits a different trip. **Westminster and Whitehall** put the Abbey, Parliament and the Churchill War Rooms on the doorstep. **St James's**, south of Piccadilly, has the old-fashioned five-star hotels. **Victoria** is the railway and coach terminus. **Pimlico**, south of Victoria, is where the small, cheaper hotels are.
 
-What they share is quiet evenings. Whitehall and the streets around St James's Park are government offices and empty after work and at weekends, which helps you sleep and doesn't help you find dinner.
+What they share is quiet evenings: Whitehall and the streets around St James's Park are government offices and empty after work and at weekends.
 
 > 💡 **The Short Version:** For **Gatwick or the coach station**, sleep at Victoria: **[The Clermont](hotelscom:h10939)** is next to the station, and the **[Lime Tree Hotel](hotel:lime-tree-hotel)** is a minute from the coach station. The cheapest beds are in Pimlico: **[Astor Victoria](hotel:astor-victoria)** dorms from £18, and **[The Georgian House](hotel:georgian-house-wizard-chambers)** at about £140, **with no lift**. For the sights on foot, **[St Ermin's](hotel:st-ermins-hotel)** at about £220 is 100 metres from St James's Park station. At the top, **[The Goring](hotel:the-goring)** (about £600) is the family-owned one by Buckingham Palace, **[Corinthia](hotel:corinthia-london)** (about £750) has a swimming pool in its spa, and **[Raffles at The OWO](hotel:raffles-london-owo)** (about £900) is the Old War Office.
 
@@ -55,7 +55,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *101 Buckingham Palace Road, SW1W 0SJ · Beside Victoria station · Check-in 3pm, out 11am*
 
-**[The Clermont](hotelscom:h10939)** opened in 1862 as The Grosvenor Hotel, built beside the station, so the Gatwick train is a short walk from reception. Classic Singles are 16 square metres, and a Classic Family room of 28 square metres takes two adults and a child, or one adult and two children. **The hotel says it cannot accommodate wheelchair users**, because of the building's layout. Its Signature Suites have a Victorian roll-top bath.
+**[The Clermont](hotelscom:h10939)** is beside the station, so the Gatwick train is a short walk from reception. Classic Singles are 16 square metres, and a Classic Family room of 28 square metres takes two adults and a child, or one adult and two children. **The hotel says it cannot accommodate wheelchair users**, because of the building's layout. Its Signature Suites have a Victorian roll-top bath.
 
 <div class="photo-row">
 
@@ -69,7 +69,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 ### The Z Hotel Victoria: 9 square metres, two minutes from the station
 
-*£135–£205 across five nights we priced · 5 Lower Belgrave Street, SW1W 0NR · Victoria 2 min*
+*£135–£205 · 5 Lower Belgrave Street, SW1W 0NR · Victoria 2 min*
 
 **[The Z Hotel Victoria](hotelscom:199590624)** sells its double in two grades of 9 square metres: the cheaper Inside Double **has no window**, the Z Double has one. Our [windowless rooms guide](/articles/windowless-hotel-rooms-london/) compares its ladder of grades, and the [budget hotels guide](/articles/best-budget-hotels-london/) sets it against the rest of London.
 
@@ -87,7 +87,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *££ · 137 Ebury Street, SW1W 9QU · Victoria Coach Station 1 min · Room only · No lift*
 
-**[The Lime Tree](hotel:lime-tree-hotel)** is two houses of 1834, now a Grade II-listed small hotel at the junction of Ebury Street and Elizabeth Street. **There is no lift**, the Cosy Doubles are 10 square metres, the largest rooms sleep three, and the hotel advises against children under five. Air conditioning was added in May 2026. Rates are room only; breakfast is in The Buttery downstairs from 7.30am on weekdays and 8am at weekends. Check-out is 10.30am.
+**[The Lime Tree](hotel:lime-tree-hotel)** is a Grade II-listed small hotel in two houses of 1834. **There is no lift**, the Cosy Doubles are 10 square metres, the largest rooms sleep three, and the hotel advises against children under five. Air conditioning was added in May 2026. Rates are room only; breakfast is in The Buttery downstairs from 7.30am on weekdays and 8am at weekends. Check-out is 10.30am.
 
 <div class="photo-row">
 
@@ -199,7 +199,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *47–49 Belgrave Road, SW1V 2BB · Victoria 10–15 min, Pimlico closer · No lift*
 
-**[Luna Simone](hotelscom:h888733)** was opened by the Desira family in 1970 and is run by the founder's two sons. Rooms go from singles to quads, all with their own bathrooms, and a cooked breakfast is served from 7am to 9am. **There is no lift and no air conditioning.** The 24 bus stops outside and runs to Westminster Abbey, Parliament and Trafalgar Square. Check-out is 10am.
+**[Luna Simone](hotelscom:h888733)** has rooms from singles to quads, all with their own bathrooms, and a cooked breakfast is served from 7am to 9am. **There is no lift and no air conditioning.** The 24 bus stops outside and runs to Westminster Abbey, Parliament and Trafalgar Square. Check-out is 10am.
 
 ![A twin room at Luna Simone with two single beds against a light wood headboard panel, grey bed runners, a tall window with grey curtains and a built-in wardrobe](../../assets/articles/where-to-stay-westminster/luna-simone-hotel-room.jpg)
 
@@ -209,7 +209,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *142–144 Warwick Way, SW1V 4JE · Victoria about 10 min*
 
-**[The Windermere](hotelscom:h854775)** fills Victorian townhouses built around 1857. It **has a lift**, though some rooms are a few steps from it, and breakfast is served in its own brasserie, The Pimlico Grid, which non-residents use too.
+**[The Windermere](hotelscom:h854775)** fills Victorian townhouses. It **has a lift**, though some rooms are a few steps from it, and breakfast is served in its own brasserie, The Pimlico Grid, which non-residents use too.
 
 ![A double room at The Windermere with a plum and gold fabric canopy over the bed, purple velvet cushions, and two carved chairs at a round table in a tall window with patterned swagged curtains](../../assets/articles/where-to-stay-westminster/the-windermere-hotel-room.jpg)
 
@@ -299,7 +299,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *£££ · 329 rooms · 54 Buckingham Gate, SW1E 6AF · Buckingham Palace 5 min*
 
-**[St. James' Court](hotel:st-james-court)** is eight red-brick townhouses of 1897 built around a courtyard with a Victorian fountain and a carved brick frieze. It has 329 rooms, four restaurants including Quilon and House of Ming, and a spa. Three of the eight houses are a separate Taj property, **Taj 51 Buckingham Gate Suites and Residences**, so check which one you are booking.
+**[St. James' Court](hotel:st-james-court)** is eight red-brick townhouses of 1897 built around a courtyard. It has 329 rooms, four restaurants including Quilon and House of Ming, and a spa. Three of the eight houses are a separate Taj property, **Taj 51 Buckingham Gate Suites and Residences**, so check which one you are booking.
 
 <div class="photo-row">
 
@@ -399,7 +399,7 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 *££££ · 16–18 St James's Place, SW1A 1NJ · Green Park nearest*
 
-**[The Stafford](hotel:the-stafford-london)** is on St James's Place, off St James's Street, and it is three buildings: the Main House, the Mews House and **the Carriage House, 13 rooms in former stables**. Ask which you are in. The American Bar and Michael Caines' restaurant are downstairs, and the wine cellars, air-raid shelters in the Second World War, keep a small museum. It sells family suites and interconnecting rooms. Dukes London, on the same street, is closed while it is refurbished, though Dukes Bar stays open.
+**[The Stafford](hotel:the-stafford-london)** is on St James's Place, off St James's Street, and it is three buildings: the Main House, the Mews House and **the Carriage House, 13 rooms in former stables**. Ask which you are in. The American Bar and Michael Caines' restaurant are downstairs, and the wine cellars, air-raid shelters in the Second World War, keep a small museum. It sells family suites and interconnecting rooms. Dukes London, on the same street, is temporarily closed, though Dukes Bar stays open.
 
 <div class="photo-row">
 
@@ -425,4 +425,4 @@ Our [Westminster area guide](/articles/westminster-area-guide/) covers what to s
 
 **The rail terminals**: Victoria is its own terminus, Waterloo is ten minutes' walk over Westminster Bridge, and King's Cross St Pancras and Euston are direct from Victoria on the Victoria line.
 
-*Typical nightly rates for a double, checked September 2026; rates for The Z Hotel Victoria are from five nights we priced between October 2026 and April 2027. Rail fares as of September 2026.*
+*Typical nightly rates for a double in September 2026; The Z Hotel Victoria's range covers dates between October 2026 and April 2027. Rail fares as of September 2026.*
