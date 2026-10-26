@@ -29,7 +29,7 @@ London's specialty coffee is antipodean by descent: the flat white, the counter 
 
 This guide covers **independents**, not chains. Most are counters rather than cafés, and several have nowhere to sit.
 
-> 💡 **The Short Version:** **Monmouth** has been roasting since 1978. **Rosslyn** is a City counter with almost no seats and weekday hours. **Prufrock** runs its own barista training centre. **Kaffeine** is Australian-run, with a food counter. **The Attendant** is inside a Victorian lavatory. And **Redemption Roasters** roasts in prisons.
+> 💡 **The Short Version:** **Monmouth** has been roasting since 1978. **Rosslyn** is a City counter with almost no seats and weekday hours. **Prufrock** runs its own barista training centre. **Kaffeine** is Australian-run, with a food counter. **The Attendant** is inside a Victorian lavatory. And **Redemption Roasters** runs barista academies in four London prisons and employs prison leavers.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements and no chains. Where a shop roasts its own we say so.
