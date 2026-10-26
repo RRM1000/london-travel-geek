@@ -9,7 +9,8 @@ heroImageSource: "https://www.pexels.com/photo/assorted-dim-sum-in-bamboo-steame
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-08-25
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -28,14 +29,13 @@ faq:
     a: "Three to four plates per person. Har gau (prawn dumplings) and siu mai are the standards every kitchen is judged on. Xiao long bao are Shanghainese rather than Cantonese — Dumplings' Legend folds them in front of the queue."
 ---
 
-**The best dim sum in London is at Royal China on Baker Street, with A. Wong in Victoria for a two-Michelin-starred lunch. In Chinatown, Tao Tao Ju is the refined room and Joy King Lau the trolley-era one.** The price gap between the cheap end and the starred end is larger than the quality gap.
+**The best dim sum in London is at Royal China on Baker Street, with A. Wong in Victoria for a two-Michelin-starred lunch. In Chinatown, Tao Tao Ju is the refined room and Joy King Lau the trolley-era one.**
 
-The single most useful thing to know: **most dim sum halls stop serving around 5pm.** It is a lunch, not a dinner, and turning up at 7pm expecting steamed baskets is the standard mistake.
+**Most dim sum halls stop serving around 5pm.** It is a lunch, not a dinner.
 
 > 💡 **The Short Version:** **Royal China** on Baker Street is the benchmark and takes no bookings at peak. **A. Wong** is the only two-starred Chinese kitchen in Europe and its lunch is the cheap way in. **Tao Tao Ju** is the refined end of Chinatown. **Dragon Castle** is half the price for the same thing. And **Yauatcha** serves all day.
 
-> 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Service times are the detail that changes most — confirm before travelling.
+> 📘 **No paid placements.** Service times change more than anything else here; confirm before travelling.
 
 ## Where they are
 
@@ -71,9 +71,9 @@ The single most useful thing to know: **most dim sum halls stop serving around 5
 
 *£££ · 8 min from Bond Street · no bookings at peak*
 
-A black-and-gold banquet hall on Baker Street where **weekend dim sum runs at the volume of an airport terminal**. The benchmark every other London dim sum room is measured against.
+A black-and-gold banquet hall on Baker Street where weekend dim sum runs at high volume.
 
-**No bookings at weekend lunch**, which is the whole character of the place: the busiest dim sum service in London, a queue down Baker Street, and a room that turns tables fast enough to make it bearable. The wait is real and worth it. Loud, built for groups and families, and eight minutes from Bond Street.
+**No bookings at weekend lunch**: expect a queue down Baker Street, though tables turn fast. Loud, built for groups and families.
 
 ![Four har gau prawn dumplings in a bamboo steamer, their pleated translucent wrappers showing the prawn inside](../../assets/articles/best-dim-sum-london/royal-china-har-gau.jpg)
 
@@ -83,17 +83,15 @@ A black-and-gold banquet hall on Baker Street where **weekend dim sum runs at th
 
 *££££ · 7 min from Victoria · two Michelin stars*
 
-The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong works through the regional cooking of the whole country, and the dim sum lunch is materially cheaper than dinner — the one to book if you want the cooking without the ££££ commitment.
+The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong cooks the regional cuisines of China. Dim sum is served at lunch only, Wednesday to Saturday, 12pm to 2.30pm, priced by the piece from £5, and it is cheaper than dinner.
 
-**Closed Sunday and Monday**, and the evening service books months ahead. Seven minutes from Victoria.
+**Closed Sunday and Monday**, and the evening service books months ahead.
 
 ### Tao Tao Ju, Chinatown
 
 *£££ · 2 min from Leicester Square*
 
-**Towering bamboo baskets** of steamed and grilled dim sum, made fresh on site each day rather than bought in, which is not true of everywhere on Lisle Street. The refined end of Chinatown, and the room to pick if you only eat there once.
-
-It takes groups, dates and families equally well, and it is **two minutes from Leicester Square** — the easiest room here to reach and the least likely to disappoint someone who does not eat dim sum often.
+**Towering bamboo baskets** of steamed and grilled dim sum, made on site each day rather than bought in. The refined end of Chinatown. It takes groups, dates and families, and is **two minutes from Leicester Square**.
 
 ![Cheung fun rice noodle rolls filled with fried dough sticks, sliced and sitting in sweet soy on a long white plate](../../assets/articles/best-dim-sum-london/tao-tao-ju-cheung-fun.jpg)
 
@@ -103,9 +101,9 @@ It takes groups, dates and families equally well, and it is **two minutes from L
 
 *£££ · 6 min from Piccadilly Circus · all day*
 
-**All-day dim sum** with a patisserie counter downstairs, from the Hakkasan founder — it **held a Michelin star for fourteen years** and still cooks like it, and running all day solves the 4pm problem that closes most of Chinatown's kitchens.
+**All-day dim sum** with a patisserie counter downstairs, from the Hakkasan founder; it **held a Michelin star for fourteen years**. Running all day solves the problem of Chinatown kitchens that close at 4pm.
 
-**Book weeks ahead**, and use it for a date or a pre-theatre meal — Piccadilly Circus is six minutes away and the patisserie counter downstairs is a reason to stay.
+**Book weeks ahead.** Good for a date or a pre-theatre meal.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-london-chinatown-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -115,55 +113,51 @@ It takes groups, dates and families equally well, and it is **two minutes from L
 
 *£££ · Gerrard Street*
 
-A **family-run Gerrard Street room** in a black-fronted building, doing award-winning dim sum in a smarter setting than most of Chinatown — tablecloths rather than laminate, and a quieter room for it.
-
-Good for a date or a small group rather than a crowd, and three minutes from Leicester Square.
+A **family-run Gerrard Street room** with tablecloths rather than laminate. Good for a date or a small group, and three minutes from Leicester Square.
 
 ### Joy King Lau
 
 *££ · off Leicester Square*
 
-Four floors off Leicester Square doing **trolley-era dim sum the old way**, largely unchanged while the street around it turned over — the most traditional room here.
-
-It is the cheapest room on this page that anyone would recommend on its merits — **££ rather than £££** — and it takes families and groups without ceremony. Three minutes from Leicester Square.
+Four floors off Leicester Square doing **trolley-era dim sum the old way**. **££ rather than £££**, and it takes families and groups. Three minutes from Leicester Square.
 
 ### Dumplings' Legend
 
 *££ · Gerrard Street*
 
-A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in front of the queue** — Shanghainese soup dumplings rather than Cantonese steamed baskets, and the main order.
+A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in front of the queue** : Shanghainese soup dumplings rather than Cantonese steamed baskets, and the main order.
 
-**££ and quick**, which makes it the sensible choice with children or before a show. Three minutes from Leicester Square.
+**££ and quick**, so a sensible choice with children or before a show. Three minutes from Leicester Square.
 
 ### BaoziInn
 
 *££ · 1 min from Leicester Square*
 
-Northern Chinese street food tidied up for London, in a room done out in **Communist-era poster kitsch** that is either the charm or the problem depending on your temperament.
+Northern Chinese street food in a room done out in **Communist-era poster kitsch**.
 
-**Walk-in, ££, and one minute from Leicester Square** — the fastest way to eat well on this page if you have not booked anything.
+**Walk-in, ££, and one minute from Leicester Square.**
 
 ### Dim Sum & Duck, King's Cross
 
 *££ · Cantonese · walk-in*
 
-Handmade dumplings and roast meats hanging in the window, on the King's Cross Road stretch that has become one of the better places to eat in the area.
+Handmade dumplings and roast meats hanging in the window, on King's Cross Road.
 
-The name is the menu: dim sum, and Cantonese roast duck carved to order. Cheaper and less polished than anything in Chinatown, and better than most of it.
+The name is the menu: dim sum, and Cantonese roast duck carved to order. Cheaper and less polished than Chinatown.
 
 ### Yauatcha City, Broadgate
 
 *£££ · the City sibling*
 
-The Broadgate branch of the Soho dim sum room, and the one to use if you are in the City — the same kitchen, usually easier to book, and a dining room built for the working week rather than for Soho.
+The Broadgate branch of the Soho dim sum room, for when you are in the City; usually easier to book.
 
 ### Yi-Ban, Royal Docks
 
 *££ · closed Thursdays · dim sum to 4.30pm only*
 
-A Cantonese dining room over the Royal Albert Dock with **City Airport's runway through the window**, trading since 2003 — planes landing over your dumplings is not something anywhere else offers.
+A Cantonese dining room over the Royal Albert Dock with **City Airport's runway through the window**.
 
-**Dim sum is served until 4.30pm only, and it closes on Thursdays.** Book a few days ahead, and it's six minutes from Royal Albert on the DLR — a long way from central London, but that's the entire point.
+**Dim sum is served until 4.30pm only, and it closes on Thursdays.** Book a few days ahead. It's six minutes from Royal Albert on the DLR.
 
 ## Best value
 
@@ -171,7 +165,7 @@ A Cantonese dining room over the Royal Albert Dock with **City Airport's runway 
 
 *££ · 114 Walworth Road*
 
-South London's proper dim sum hall — a **full-size Cantonese banqueting room** at roughly half the central mark-up, served through the day rather than only at lunch. Big enough to take a group without booking far ahead, and loud enough that nobody minds children.
+A **full-size Cantonese banqueting room** at roughly half the central mark-up, serving dim sum through the day rather than only at lunch. Big enough to take a group without booking far ahead.
 
 **££**, seven minutes from Elephant & Castle.
 
@@ -183,49 +177,33 @@ South London's proper dim sum hall — a **full-size Cantonese banqueting room**
 
 *£££ · 2 min from Paddington*
 
-An unexpectedly large **basement dining room behind Paddington station**, routinely rated above the Chinatown names by people who have eaten at both.
-
----
-
-> **Two cheaper routes.** **Chinatown's supermarkets** — Loon Fung and See Woo — sell roast meats and some frozen dim sum over the counter at a fraction of restaurant prices. And **Bang Bang Oriental** in Colindale, Britain's largest Asian food hall, has several dim sum counters where you can eat a few baskets for well under £15.
+A large **basement dining room behind Paddington station**, with **five set menus** for a table that wants to share rather than order dish by dish. **Book a few days ahead.**
 
 ![A steamed rice noodle roll in soy sauce on a white plate](../../assets/articles/best-dim-sum-london/pearl-liang.jpg)
 
 *Pearl Liang, Paddington. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3676852528), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
----
-
-**Five set menus** built for a table that wants to share rather than order dish by dish, which takes the guesswork out of a first visit.
-
-**Book a few days ahead**, and note it is two minutes from Paddington — the best dim sum within reach of a train west.
+> **Two cheaper routes.** **Chinatown's supermarkets** — Loon Fung and See Woo — sell roast meats and some frozen dim sum over the counter at a fraction of restaurant prices. And **Bang Bang Oriental** in Colindale, an Asian food hall, has several dim sum counters where you can eat a few baskets for well under £15.
 
 ## For an evening
-
-Dim sum is a lunch. These are the exceptions.
 
 ### Dim Sum Library, Covent Garden
 
 *£££ · 3 min from Covent Garden*
 
-Dim sum in a **bar-led room** rather than a banquet hall — **the one on this page that works as an evening out**, cocktails first, dumplings after, in a room that does not empty at 3pm.
-
-£££, good for a date or pre-theatre, and three minutes from Covent Garden.
+Dim sum in a **bar-led room** rather than a banquet hall, open into the evening: cocktails first, dumplings after. £££, good for a date or pre-theatre.
 
 ### Din Tai Fung, Covent Garden
 
 *£££ · Taiwanese*
 
-**Xiao long bao folded to eighteen pleats** behind glass — the Taiwanese chain Ken Hom put in the New York Times' top ten. A chain, but a serious one, and open into the evening.
+**Xiao long bao folded to eighteen pleats** behind glass, at the Taiwanese chain Ken Hom put in the New York Times' top ten. Open into the evening.
+
+**Walk-in queues are long at peak**, and the Centre Point site is the larger of the two with a bar lounge, so head there if the Covent Garden line looks hopeless. £££ and loud, book weeks ahead for a weekend, and five minutes from Covent Garden.
 
 ![The white frontage of Din Tai Fung in Covent Garden with people queueing](../../assets/articles/best-dim-sum-london/din-tai-fung.jpg)
 
 *Din Tai Fung, Covent Garden. Photo: [Heeheemalu](https://commons.wikimedia.org/w/index.php?curid=127443026), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
----
-
-**Walk-in queues are long at peak**, and the Centre Point site is the larger of the two with a bar lounge, so head there if the Covent Garden line looks hopeless.
-
-£££ and loud, book weeks ahead for a weekend, and five minutes from Covent Garden.
 
 ![Five xiao long bao in a bamboo steamer lined with cloth, one topped with a spoonful of yellow crab roe](../../assets/articles/best-dim-sum-london/din-tai-fung-xiao-long-bao.jpg)
 
@@ -236,11 +214,11 @@ Dim sum in a **bar-led room** rather than a banquet hall — **the one on this p
 ## What to know
 
 * **Most halls stop around 5pm.** Yauatcha, Dragon Castle, Dim Sum Library and Din Tai Fung are the exceptions.
-* **Order three to four plates per person** and add more as you go. Ordering everything at once is how tables end up overwhelmed.
+* **Order three to four plates per person** and add more as you go.
 * **Har gau and siu mai** are the two every kitchen is judged on. Order both first.
 * **Xiao long bao are Shanghainese**, not Cantonese — a different tradition on the same menus.
 * **Royal China at weekends means queueing.** Go at opening or after 2pm.
-* **A. Wong's lunch** is the cheapest route into a two-starred kitchen anywhere in London.
+* **A. Wong's lunch** is the cheaper way into a two-starred kitchen.
 
 ---
 
