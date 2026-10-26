@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Pathfinders_participate
 heroImageLicense: "Public Domain"
 heroImageLicenseUrl: https://commons.wikimedia.org/wiki/Public_domain
 publishedAt: 2026-07-24
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2027-03-01
 sites: [london]
 canonicalSite: london
@@ -39,7 +39,7 @@ faq:
     a: "A UK ETA (£20), approved before you fly; allow up to three working days. Both stadiums are cashless, and every person needs their own digital ticket on their own phone."
 ---
 
-The NFL played three games in London in October 2026, all on Sundays at **2.30pm BST**: two at Tottenham Hotspur Stadium, one at Wembley. The Tottenham games and the Wembley game were sold through different systems and different accounts, and the NFL announces the following season's London fixtures on [nfl.com](https://www.nfl.com/international/games/london).
+The NFL played three games in London in October 2026, all on Sundays at **2.30pm BST**: two at Tottenham Hotspur Stadium, one at Wembley. The Tottenham and Wembley games were sold through different accounts. Next season's London fixtures are announced on [nfl.com](https://www.nfl.com/international/games/london).
 
 > 💡 **The Short Version:** **Colts v Commanders, Sunday 4 October** and **Eagles v Jaguars, Sunday 11 October** were at **Tottenham**; **Texans v Jaguars, Sunday 18 October**, was at **Wembley**. All **2.30pm**. Tottenham tickets were sold by the NFL (an **NFL Ticketmaster account**, six per account per game, **£79.13 to £280.65** with fees included). Wembley tickets were sold by the **Jaguars**, **£70 to £297**, **under-16s £51**. **Gates opened at 12.30pm**. You **could drink in your seat** (18+, photo ID, four drinks per purchase). Both stadiums are **cashless**, and bags must be **clear and no bigger than 30.5 x 15.25 x 30.5cm**, with nowhere to leave one that fails.
 
@@ -54,8 +54,6 @@ The NFL played three games in London in October 2026, all on Sundays at **2.30pm
 | **Sun 4 October** | 2.30pm | **Tottenham Hotspur Stadium** | **Indianapolis Colts v Washington Commanders**, sold by the NFL |
 | **Sun 11 October** | 2.30pm | **Tottenham Hotspur Stadium** | **Philadelphia Eagles v Jacksonville Jaguars**, sold by the NFL |
 | **Sun 18 October** | 2.30pm | **Wembley Stadium** | **Houston Texans v Jacksonville Jaguars**, sold by the Jaguars |
-
-Getting there, road closures and parking are in our [Tottenham Hotspur Stadium guide](/articles/tottenham-hotspur-stadium-travel-guide/) and [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
 ---
 
@@ -140,7 +138,7 @@ Resell it at face value through the official channel: the **NFL Ticket Exchange*
 
 **There's no tailgating.** Instead, the Gameday Experience runs from 10am to 2pm, with the McCoy's Quarterback Challenge, DJs, cheerleaders, mascots, the official NFL shop and food and drink stalls.
 
-**You can drink in your seat.** Unlike at football, alcohol is sold inside the bowl and you can take it to your seat. You must be **18 or over** with **government-issued photo ID** (a passport works), and you can buy **four drinks at a time**.
+**You can drink in your seat.** Unlike at football, you can take alcohol to your seat. You must be **18 or over** with **government-issued photo ID** (a passport works), and you can buy **four drinks at a time**.
 
 **No re-entry.** Once you leave, you're out.
 
@@ -154,7 +152,7 @@ No food or drink comes in, except an **empty clear plastic bottle up to a litre*
 
 ## Getting home on a Sunday evening
 
-**There's no Night Tube on Sundays**, and trains run to the normal Sunday timetable, so check your last train before you plan dinner.
+**There's no Night Tube on Sundays**, and trains run to the normal Sunday timetable.
 
 - **Tottenham**: four stations, with White Hart Lane five minutes away. Taxis can't reach the ground; the NFL says to arrange a pick-up at least a 15-minute walk away. Stations and last trains are in our [Tottenham Hotspur Stadium guide](/articles/tottenham-hotspur-stadium-travel-guide/).
 - **Wembley**: most of the crowd goes through Wembley Park; Chiltern's last train to Marylebone leaves around midnight, and the official car parks are £50. Details are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
@@ -188,7 +186,7 @@ The Jaguars hold their own UK watch parties at the Greenwood, listed on [jaguars
 
 ## Where to stay
 
-Stay in central London rather than near either ground: Wembley room prices roughly treble on a big night (see our [Wembley guide](/articles/wembley-stadium-arena-guide/)). Our [best areas to stay in London](/articles/best-areas-to-stay-in-london/) guide covers the Victoria and Jubilee line areas that reach both stadiums.
+Stay in central London rather than near either ground: Wembley room prices roughly treble on a big night (see our [Wembley guide](/articles/wembley-stadium-arena-guide/)). Our [best areas to stay in London](/articles/best-areas-to-stay-in-london/) guide covers the Victoria and Jubilee line areas.
 
 ---
 
@@ -196,6 +194,6 @@ Stay in central London rather than near either ground: Wembley room prices rough
 
 - **Get a UK ETA.** Americans, Canadians, Australians and New Zealanders need one. It costs **£20** and must be approved before you board; allow up to three working days. Apply only at gov.uk or in the official app. See our [UK ETA guide](/articles/uk-eta-guide/).
 - **Bring a contactless card or phone wallet.** The stadiums are cashless and so is London transport; [how Oyster and contactless work](/articles/oyster-card-guide-london/).
-- **Charge your phone.** Your ticket is on it, and there's no paper backup.
+- **Charge your phone.** Your ticket is on it.
 
-*Prices, bag rules and timings are from the NFL, the Jaguars and both stadiums for the 2026 games. Check the official page for your game before you book travel.*
+*Prices, bag rules and timings are those of the 2026 games.*

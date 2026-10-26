@@ -3,7 +3,8 @@ title: "Gatwick Airport to London: Every Transport Option Compared"
 seoTitle: "Gatwick to London: £10.70 Southern vs £24.10 Express"
 description: "Southern and Thameslink reach Victoria in 32–40 minutes for £10.70 off-peak. Gatwick Express costs £24.10 to save one to nine minutes. Which train suits which part of London, with 2026 fares."
 publishedAt: 2026-08-01
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2027-03-01
 sites:
   - london
 canonicalSite: london
@@ -24,12 +25,12 @@ heroImageLicense: "CC0 1.0"
 heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 ---
 
-London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km) south of Central London. While it has a single central railway station (located at **South Terminal**), three different train operators run from Gatwick into different parts of London.
+Gatwick (LGW) is 28 miles (45 km) south of central London. Its one railway station is at **South Terminal**, and three train operators run from it into different parts of London.
 
 > 💡 **Quick Verdict: Gatwick to London (2026).**
-> - **Best for Victoria & West End:** **Southern Rail** (£10.70 off-peak PAYG / £19.20 peak). Takes 32–40 mins directly to London Victoria, for **less than half the Gatwick Express fare** and one to nine minutes more.  
+> - **Best for Victoria & West End:** **Southern Rail** (£10.70 off-peak PAYG / £19.20 peak). Direct to London Victoria in 32–40 mins, for **less than half the Gatwick Express fare** and one to nine minutes more.  
 > - **Best for London Bridge, St Paul's, Farringdon & St Pancras:** **Thameslink Rail** (£10.70 off-peak PAYG / £19.20 peak). Direct cross-London train to London Bridge (30 mins), Blackfriars (35 mins), Farringdon (40 mins), and St Pancras (45 mins).  
-> - **Why Avoid Gatwick Express?** Gatwick Express costs **£24.10 single** (vs £10.70 on Southern/Thameslink off-peak) to save only 1–9 minutes to Victoria.  
+> - **Gatwick Express:** **£24.10 single** (against £10.70 on Southern or Thameslink off-peak) to save 1–9 minutes to Victoria.  
 > - **Cheapest Budget Option:** **National Express / Megabus** (from **£6.00** advance, 75–120 mins to Victoria Coach Station).  
 > - **Contactless Accepted:** Tap your contactless card, Apple Pay, or Oyster card at the station turnstiles for Southern and Thameslink.
 
@@ -39,7 +40,7 @@ London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km
 
 ## Gatwick Transport Options Compared
 
-*Fares and travel times checked on **2 August 2026**.*
+*Fares and journey times as at August 2026.*
 
 | Transport Option | Central London Destination | Journey Time | Single Adult Fare (Contactless / PAYG) | Best Used For |
 | --- | --- | --- | --- | --- |
@@ -79,19 +80,17 @@ London Gatwick (LGW) is London's second-busiest airport, located 28 miles (45 km
 ### 1. Southern Rail (Best Value for Victoria)
 * **Route:** Gatwick ➔ Clapham Junction ➔ London Victoria.
 * **Frequency:** Every 15 minutes.
-* **Payment:** Tap in/out at gatelines with contactless card, Apple/Google Pay, or Oyster card.
 * **Victoria Platform Warning:** At Victoria Station, use standard Southern platforms (**Platforms 15–19**). Walking through Gatwick Express barriers (**Platforms 13 & 14**) triggers the higher £24.10 Express fare!
 
 ### 2. Thameslink (Best Direct Route Across London)
 * **Route:** Gatwick ➔ East Croydon ➔ London Bridge ➔ Blackfriars ➔ Farringdon ➔ St Pancras International.
 * **Frequency:** Every 10–15 minutes.
-* **Features:** Air-conditioned trains with walk-through carriages. Farringdon is a step-free interchange with the Elizabeth line.
+* **Features:** Air-conditioned trains with walk-through carriages.
 
 ### 3. Gatwick Express (Non-Stop Premium Option)
 * **Route:** Gatwick ➔ London Victoria *(Non-stop)*.
 * **Journey Time:** 31 minutes.
 * **Fare:** **£24.10** single (10% discount if bought online in advance at gatwickexpress.com).
-* **Is it worth it?** For most travellers, no. Southern trains reach the same Victoria station one to nine minutes later for less than half the price (£10.70 off-peak).
 
 ---
 
@@ -111,16 +110,14 @@ Gatwick has two passenger terminals: **North Terminal** and **South Terminal**.
 
 ---
 
-## 8 Common Gatwick transit mistakes to avoid
+## Gatwick transit mistakes to avoid
 
-1. **Paying £24.10 for Gatwick Express:** Take Southern Rail to Victoria instead—it takes 32 mins and costs **£10.70 off-peak** with contactless.
-2. **Tapping through Gatwick Express barriers at Victoria:** Passing through platforms 13/14 at Victoria triggers the high Express fare. Use platforms 15–19 for Southern trains.
-3. **Taking Victoria trains when heading to Central/North London:** Take Thameslink directly to London Bridge, Blackfriars, or St Pancras instead of changing at Victoria.
-4. **Switching payment devices between taps:** Tapping in with a bank card and out with Apple Pay results in two maximum fare penalties.
-5. **Not allowing time for the North Terminal shuttle:** Add 10–15 minutes if your flight arrives at North Terminal.
-6. **Using Oyster south to Brighton:** Oyster cards are accepted between London and Gatwick, but NOT further south towards Brighton (buy National Rail tickets).
-7. **Buying paper single tickets:** Contactless or Oyster is automatic, cheaper, and avoids ticket machine queues.
-8. **Hailing unlicensed airport taxis:** Always use the official terminal taxi rank or pre-booked licensed private hire.
+1. **Tapping through the Gatwick Express barriers at Victoria:** platforms 13 and 14 trigger the Express fare. Use platforms 15–19.
+2. **Changing at Victoria for Central or North London:** Thameslink goes direct to London Bridge, Blackfriars and St Pancras.
+3. **Switching payment devices between taps:** tapping in with a bank card and out with Apple Pay results in two maximum fares.
+4. **Not allowing time for the North Terminal shuttle:** add 10–15 minutes if your flight arrives at North Terminal.
+5. **Using Oyster south to Brighton:** Oyster works between London and Gatwick but not further south; buy a National Rail ticket.
+6. **Hailing unlicensed airport taxis:** use the official terminal taxi rank or a pre-booked licensed private hire.
 
 ---
 
@@ -136,4 +133,4 @@ Gatwick has two passenger terminals: **North Terminal** and **South Terminal**.
 
 ---
 
-*Fares and travel times checked on 2 August 2026. Always verify live train departures with [National Rail Enquiries](https://www.nationalrail.co.uk/).*
+*Check live departures on [National Rail Enquiries](https://www.nationalrail.co.uk/).*

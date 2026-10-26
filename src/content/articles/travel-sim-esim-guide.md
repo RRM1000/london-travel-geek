@@ -1,9 +1,10 @@
 ---
 title: "UK SIM Cards and eSIMs for Visitors: Every Option Compared"
 seoTitle: "Best UK SIM Card & eSIM for Tourists 2026: Compared"
-description: "Every way to get mobile data in the UK as a visitor, with real prices checked on each provider's site: EE's own tourist eSIM, Saily, Nomad and Airalo, pay-as-you-go SIMs from O2, Three, EE, Vodafone, giffgaff, Lebara and Lyca, what your home plan charges, and the speed caps, content blocks and card problems nobody warns you about."
+description: "Every way to get mobile data in the UK as a visitor, with prices: EE's own tourist eSIM, Saily, Nomad and Airalo, pay-as-you-go SIMs from O2, Three, EE, Vodafone, giffgaff, Lebara and Lyca, what your home plan charges, and the speed caps, content blocks and card problems nobody warns you about."
 publishedAt: 2026-08-09
-updatedAt: 2026-09-22
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites:
   - london
 canonicalSite: london
@@ -31,20 +32,16 @@ faq:
   - q: "Is it cheaper to use my US phone plan in the UK?"
     a: "Rarely, for more than a couple of days. AT&T's International Day Pass and Verizon's TravelPass both cost $12 a day, so a week is $84 — against £15 for a week of unlimited data on EE's Travel eSIM. Many T-Mobile postpaid plans include data and texting in the UK at no extra cost, which is worth checking before you buy anything."
   - q: "Do eSIMs work on the London Underground?"
-    a: "Where there is mobile signal, yes. Transport for London is rolling 4G and 5G out to every underground station and tunnel with all four UK networks, and said in June 2026 that around 60 per cent of underground stations were covered, with the whole network due by the end of 2026. The Wi-Fi in Tube stations is different: it connects through the UK networks' own Wi-Fi services, so a data-only travel eSIM does not unlock it."
+    a: "Where there is mobile signal, yes. Transport for London is rolling 4G and 5G out to every underground station and tunnel with all four UK networks. It says 70 per cent of below-ground stations now have a signal, with the whole network due by the end of 2026. The Wi-Fi in Tube stations is different: it connects through the UK networks' own Wi-Fi services, so a data-only travel eSIM does not unlock it."
   - q: "Will my phone make calls on a UK SIM?"
     a: "Probably, but check. All four UK networks have switched off 3G, so voice calls now need a phone that supports 4G Calling (VoLTE) on that network. EE, O2 and Vodafone can fall back to 2G for calls if it does not; Three has no 2G network to fall back to. Data works regardless, so WhatsApp and FaceTime calls are unaffected."
 ---
 
-Getting mobile data in the UK is cheap. Getting it without paying for a mistake is harder, because the choices that look alike are not.
-
-**A travel eSIM and a UK SIM card are different products.** An eSIM from Saily, Nomad or Airalo is data only and has no UK phone number. A pay-as-you-go SIM from O2, Three or giffgaff gives you a +44 number and usually far more data for the money, but it comes with speed caps, age blocks and card problems that the eSIM companies spare you. And your home network's roaming, at $12 a day on the big US carriers, is almost always the most expensive of the three.
-
-This guide compares all of them, with every price taken from the provider's own website in September 2026.
+**A travel eSIM and a UK SIM card are different products.** An eSIM from EE, Saily, Nomad or Airalo is data only, with no UK phone number. A pay-as-you-go SIM from O2, Three or giffgaff gives you a +44 number and usually far more data for the money, but comes with speed caps, age blocks and card problems. Home-network roaming, at $12 a day on the big US carriers, is almost always the most expensive of the three.
 
 > 💡 **The Short Version:** On an eSIM phone for a week or two, buy **EE's Travel eSIM** — unlimited data at full speed on the UK's fastest network, **£15 for 7 days, £20 for 14 days**. If you only need a few gigabytes, [Nomad](partner:nomad-uk) and [Saily](partner:saily-uk) are cheaper. If you need a **UK phone number**, or you are carrying on to Europe, buy an **O2** pay-as-you-go SIM — **£10 for 8GB** or **£15 for 25GB**, with up to **25GB of EU roaming included**. Do not buy at the airport.
 
-*Every price and allowance below was read from the provider's own site on 14 September 2026. Links marked **ad** — Saily, Nomad and Klook — pay us a commission if you buy; they are not ranked above anything that does not, which is why EE's own eSIM, which pays us nothing, is the first recommendation on this page.*
+*Prices as at September 2026. Links marked **ad** (Saily, Nomad and Klook) pay us a commission if you buy. EE's own eSIM pays us nothing and is the first recommendation.*
 
 ---
 
@@ -72,13 +69,13 @@ But EE's own pay-as-you-go plans say **"Max speed of 25Mbps"** on every tier, fr
 
 Twenty-five megabits is plenty for maps, messaging and social media. It is noticeably slow for video calls in HD, uploading video, or tethering a laptop.
 
-**The way round it is EE's Travel eSIM**, which EE sells as "uncapped speed". It is the only way to get EE's full network speed on a short prepaid plan. O2, Vodafone, giffgaff and Lebara do not publish a speed cap on their pay-as-you-go plans.
+**The way round it is EE's Travel eSIM**, the only way to get EE's full speed on a short prepaid plan. O2, Vodafone, giffgaff and Lebara do not publish a speed cap on their pay-as-you-go plans.
 
 ---
 
 ## Travel eSIMs compared
 
-**A travel eSIM is data only.** You install it before you fly or on arrival, it runs alongside your home SIM, and you call and message over WhatsApp, FaceTime or iMessage. There is no UK phone number and no ordinary SMS. Emergency calls to 999 and 112 still work on EE's.
+**A travel eSIM is data only.** You install it before you fly or on arrival and it runs alongside your home SIM. Calls and messages go over WhatsApp, FaceTime or iMessage, with no ordinary SMS. Emergency calls to 999 and 112 still work on EE's.
 
 **Prices for a typical one-week trip:**
 
@@ -92,8 +89,6 @@ Twenty-five megabits is plenty for maps, messaging and social media. It is notic
 
 ### EE Travel eSIM — the best value for most visitors
 
-**Unlimited data, uncapped speed, on EE, from the network itself.**
-
 | Pass | Price |
 | --- | --- |
 | 1 day | £5 |
@@ -105,13 +100,13 @@ Twenty-five megabits is plenty for maps, messaging and social media. It is notic
 
 You have **90 days from purchase to start using it**, you do **not need a UK address**, and you can install it before you land. It is data only: on Android there are no SMS messages at all; on an iPhone, iMessage still works. EE refunds it within 90 days if you have not used it.
 
-**Two restrictions to know.** Your phone must be unlocked. And every EE Travel eSIM has a **"Moderate" content setting that blocks 18-rated sites and cannot be changed** — see the section on content blocks below.
+**Two restrictions.** Your phone must be unlocked, and every EE Travel eSIM has a **"Moderate" content setting that blocks 18-rated sites and cannot be changed**.
 
 Buy it on EE's website: **[ee.co.uk/mobile/travel-esim-uk](https://ee.co.uk/mobile/travel-esim-uk)**.
 
 ### Nomad — cheapest for a set amount of data
 
-[Nomad](partner:nomad-uk) runs on **Three, O2 and Vodafone** and has the lowest prices here for fixed data. Its site shows prices in pounds converted from dollars, so they move slightly with the exchange rate.
+[Nomad](partner:nomad-uk) runs on **Three, O2 and Vodafone** and has the lowest prices here for fixed data. Its prices are converted from dollars, so they move slightly with the exchange rate.
 
 | Plan | Price |
 | --- | --- |
@@ -142,17 +137,17 @@ Buy it on EE's website: **[ee.co.uk/mobile/travel-esim-uk](https://ee.co.uk/mobi
 | Unlimited, 15 days | £37.49 |
 | Unlimited, 30 days | £55.49 |
 
-Hotspot use is unrestricted, and Saily sells a separate US phone number with a calls-and-texts plan if you want one.
+Hotspot use is unrestricted.
 
 ### Airalo — the biggest name, and options with minutes
 
-Airalo's UK plans run on **EE**. Data-only prices are close to Saily's: **£7 for 3GB over 7 days, £14.50 for 10GB over 30 days, £30 for 50GB**, and **£21 for 7 days unlimited**. Like Nomad, it also sells UK plans with calls and texts included — **£11 for 5GB, 50 minutes and 50 texts over 7 days**. Its **EU and UK regional plan starts at £3.50**, which is worth comparing if the UK is one stop on a longer trip.
+Airalo's UK plans run on **EE**. Data-only prices are close to Saily's: **£7 for 3GB over 7 days, £14.50 for 10GB over 30 days, £30 for 50GB**, and **£21 for 7 days unlimited**. Like Nomad, it also sells UK plans with calls and texts included — **£11 for 5GB, 50 minutes and 50 texts over 7 days**. Its **EU and UK regional plan starts at £3.50**.
 
 ### Klook — for booking alongside tours
 
-[Klook's UK eSIM](partner:klook-uk) runs on **O2**, has a 4.3 rating from over 800 reviews, and refunds in full if you cancel before the eSIM connects. It is most useful if you are already booking attractions through Klook. Package prices depend on the dates and data you choose, so check them on the listing.
+[Klook's UK eSIM](partner:klook-uk) runs on **O2**, has a 4.3 rating from over 800 reviews, and refunds in full if you cancel before the eSIM connects. Package prices depend on the dates and data you choose, so check them on the listing.
 
-**Holafly** sells unlimited UK data priced by the day — £4 for one day, £42 for 16 days when we checked — with a 1GB monthly backup allowance after the plan ends. It is simple, but for a week or two it costs more than EE's own eSIM.
+**Holafly** sells unlimited UK data priced by the day — £4 for one day, £42 for 16 days — with a 1GB monthly backup allowance after the plan ends. It is simple, but for a week or two it costs more than EE's own eSIM.
 
 ---
 
@@ -176,7 +171,7 @@ Airalo's UK plans run on **EE**. Data-only prices are close to Saily's: **£7 fo
 
 O2's **Big Bundles** are **£10 for 8GB, £15 for 25GB, £20 for 40GB and £30 for 125GB**, all with unlimited UK calls and texts and data rollover. The £15 and £20 bundles add **50 international minutes** to over 42 countries, and the £30 bundle adds 250.
 
-**What makes O2 the pick for a longer trip is roaming.** Every Big Bundle lets you use **up to 25GB of your allowance in O2's Europe zone** at no extra cost. It supports **5G, 4G Calling and Wi-Fi Calling** on pay-as-you-go, and **eSIMs are available on every Big Bundle**, online or in an O2 shop.
+Every Big Bundle lets you use **up to 25GB of your allowance in O2's Europe zone** at no extra cost. It supports **5G, 4G Calling and Wi-Fi Calling**, and **every Big Bundle comes as an eSIM**, online or in an O2 shop.
 
 ### Three — the most data for the money
 
@@ -188,11 +183,11 @@ Three's **Go Roam** includes roaming in over 70 destinations: **6GB** on the £1
 
 ### Lebara — unlimited for £25, with EU and India roaming
 
-Lebara runs on the **Vodafone** network, with no credit checks and no annual price rises. Its 30-day plans are **£5 for 5GB, £10 for 30GB, £15 for 50GB, £20 for 100GB** and **£25 for unlimited data**, with international minutes included on every plan — up to unlimited on the £20 and £30 plans. **Roaming in the EU and India is included**, up to 30GB.
+Lebara runs on the **Vodafone** network. Its 30-day plans are **£5 for 5GB, £10 for 30GB, £15 for 50GB, £20 for 100GB** and **£25 for unlimited data**, with international minutes included on every plan — up to unlimited on the £20 and £30 plans. **Roaming in the EU and India is included**, up to 30GB.
 
 ### giffgaff — cheap, on O2, but awkward for visitors
 
-giffgaff runs on **O2** and has some of the cheapest plans in the country: **£10 for 15GB, £12 for 25GB, £15 for 30GB, £20 for 80GB** on its one-month pay-as-you-go plans, with 5G included. Its monthly rolling plans give more data for the same money — **£10 for 20GB** — but renew automatically on a card.
+giffgaff runs on **O2**: **£10 for 15GB, £12 for 25GB, £15 for 30GB, £20 for 80GB** on its one-month pay-as-you-go plans, with 5G included. Its monthly rolling plans give more data for the same money — **£10 for 20GB** — but renew automatically on a card.
 
 **The difficulty is getting one.** giffgaff **only delivers SIMs to UK addresses**, so you either pick one up in a UK shop or use its eSIM. Only **5GB** of your data works in the EU. And its adult content block can only be removed with a passport or a British driving licence.
 
@@ -200,13 +195,13 @@ giffgaff runs on **O2** and has some of the cheapest plans in the country: **£1
 
 EE's 30-day plans are **£10 for 20GB** (with 500 minutes), **£15 for 75GB, £20 for 150GB, £30 for 200GB and £35 for unlimited**, with 5G, data rollover and a free 1GB if you run out. Pay by recurring card for 10 per cent off.
 
-**Every one of those plans is capped at 25Mbps**, which is why a visitor who wants EE's network at full speed should buy the Travel eSIM instead. EE also charges for Europe: **£2.50 for 24 hours** or **£10 for 7 days** to use your allowance there.
+**Every one of those plans is capped at 25Mbps.** EE also charges for Europe: **£2.50 for 24 hours** or **£10 for 7 days** to use your allowance there.
 
 ### Vodafone — fine, but not the best value
 
-Vodafone's **Pay as you go Plus** plans are **£10 for 8GB, £15 for 25GB, £20 for 50GB, £30 for 150GB** and **£40 unlimited**, with 5G and eSIM available. You need a smartphone and the My Vodafone app to manage the plan. A promotion to 8 December 2026 adds extra data for three months, but only if you keep auto-renew on for three consecutive card payments, which a visitor on a short trip will not.
+Vodafone's **Pay as you go Plus** plans are **£10 for 8GB, £15 for 25GB, £20 for 50GB, £30 for 150GB** and **£40 unlimited**, with 5G and eSIM available. You need a smartphone and the My Vodafone app to manage the plan.
 
-**Europe costs extra.** Vodafone's pay-as-you-go plans include roaming only in its Zone A — Ireland, the Isle of Man, Iceland and Norway — and Pay as you go Plus customers need to buy a roaming Extra to use their allowance anywhere else in Europe.
+**Europe costs extra.** Vodafone's pay-as-you-go plans include roaming only in Zone A (Ireland, the Isle of Man, Iceland and Norway); anywhere else in Europe needs a paid roaming Extra.
 
 ### Lyca Mobile Travel eSIM — a UK number, bought after you land
 
@@ -220,7 +215,7 @@ Lyca Mobile, on **EE**, sells its pay-as-you-go plans as a **Travel eSIM with a 
 
 ## Going on to Europe with a UK SIM
 
-Since Brexit, UK networks are free to charge for roaming in the EU, and several do. If your trip includes France, Spain or anywhere else in Europe, check the roaming charge before you pick a SIM.
+UK networks are free to charge for EU roaming, and several do. Check the roaming charge before you pick a SIM.
 
 | Network | Using your UK allowance in the EU |
 | --- | --- |
@@ -249,9 +244,9 @@ Since Brexit, UK networks are free to charge for roaming in the EU, and several 
 | **Telstra** (Australia) | International Day Pass, **A$10 a day** with 2GB in its Zone 2 destinations, which cover Europe. Turn it on before you fly — it can take up to 2 hours |
 | **Vodafone** (Australia) | Use your plan in over 100 destinations for **A$5 extra a day** |
 
-**Do the maths for your trip.** A week on AT&T or Verizon is $84. A week of unlimited data on EE's Travel eSIM is £15.
+A week on AT&T or Verizon is $84; a week of unlimited data on EE's Travel eSIM is £15.
 
-**You can have both.** Keep your home SIM switched on for calls and bank security texts, turn off its data roaming, and route your data through a travel eSIM — the setup is below.
+**You can have both.** Keep your home SIM on for calls and bank security texts, turn off its data roaming, and route your data through a travel eSIM (setup below).
 
 ---
 
@@ -267,7 +262,7 @@ Dial **\*#06#**. If an **EID** number appears, your phone supports eSIM. iPhones
 
 ### Calls need 4G Calling now
 
-**All four UK networks have switched off 3G** — O2, the last, had most of its network off by early 2026. So an ordinary voice call on a UK SIM now needs a phone that supports **4G Calling (VoLTE)** on that network.
+**All four UK networks have switched off 3G**, so an ordinary voice call on a UK SIM now needs a phone that supports **4G Calling (VoLTE)** on that network.
 
 EE, O2 and Vodafone can fall back to their 2G networks for calls if your phone does not. **Three has no 2G network to fall back to.** If you bought your phone abroad and the UK network does not recognise it for 4G Calling, data still works — so WhatsApp, FaceTime and other app calls are unaffected.
 
@@ -285,7 +280,7 @@ EE, O2 and Vodafone can fall back to their 2G networks for calls if your phone d
 
 ## Paying and topping up with a card from abroad
 
-**Card payments are where visitors get stuck.** Online payments and age checks on UK networks do not always accept cards issued abroad, and a declined card at the wrong moment leaves you without a plan.
+**Card payments are where visitors get stuck.** Online payments and age checks on UK networks do not always accept cards issued abroad.
 
 **The fix is a top-up voucher.** Shops showing the green **top-up** sign sell vouchers for the UK networks, paid in cash or on any card at the till. Three says outright that a voucher needs no card details, and giffgaff lets you buy a plan with credit added that way.
 
@@ -295,14 +290,12 @@ EE, O2 and Vodafone can fall back to their 2G networks for calls if your phone d
 
 ## The adult content block
 
-**Almost every UK SIM blocks 18-rated websites by default**, and occasionally the filter catches sites that should not be blocked. Lifting it means proving your age, which is harder as a visitor:
+**Almost every UK SIM blocks 18-rated websites by default.** Lifting it means proving your age, which is harder as a visitor:
 
 - **Three** — on the Three app with a **credit card** (not a debit card, Apple Pay, Google Pay or prepaid card), or **in any Three shop with photo ID**.
 - **giffgaff** — only with **a passport or a full or provisional British driving licence**. It can take up to 24 hours.
 - **O2** — blocks 18+ content by default and asks for proof of age to lift it.
 - **EE Travel eSIM** — set to "Moderate", which blocks 18-rated content, and **cannot be changed**.
-
-If you want the block lifted, buy your SIM in a network's own shop and ask them to lift the block there with your passport.
 
 ---
 
@@ -310,7 +303,7 @@ If you want the block lifted, buy your SIM in a network's own shop and ask them 
 
 ## Signal on the Tube
 
-**Mobile signal is arriving across the whole Underground.** Transport for London said on 11 June 2026 that around **60 per cent of underground Tube stations** now have 4G and 5G, with **the whole network due by the end of 2026**, and all four UK networks — EE, O2, Three and Vodafone — are part of it.
+**Mobile signal is arriving across the Underground.** Transport for London says **70 per cent of below-ground stations** now have 4G and 5G, with **the whole network due by the end of 2026**, on all four UK networks: EE, O2, Three and Vodafone.
 
 There is signal in stations and tunnels on sections of the **Central, Jubilee, Victoria, Northern, Piccadilly, Bakerloo, Circle and District** lines, and on the **whole Elizabeth line**. The Central line is covered from Shepherd's Bush to Bank, the Jubilee from Westminster to Canning Town, and the Victoria from Brixton to Green Park. TfL publishes a coverage map on its **[mobile and Wi-Fi page](https://tfl.gov.uk/modes/tube/station-wifi)**.
 
@@ -320,7 +313,7 @@ There is signal in stations and tunnels on sections of the **Central, Jubilee, V
 
 ## Setting up a travel eSIM alongside your home SIM
 
-Keeping your home SIM active lets you receive calls and bank security texts on your usual number while all your data goes through the eSIM.
+Your home SIM keeps receiving calls and bank security texts while all your data goes through the eSIM.
 
 ### Before you leave, on Wi-Fi
 
@@ -347,7 +340,7 @@ Keeping your home SIM active lets you receive calls and bank security texts on y
 
 **Video is what burns through it.** If you stream, upload video, make video calls home or tether a laptop, buy unlimited — and remember the 25Mbps cap on EE and Three pay-as-you-go plans if you are doing it on those.
 
-**Download offline maps before you fly.** Google Maps will navigate without data if you have saved London over Wi-Fi, which is a useful backup in a building with no signal.
+**Download offline maps before you fly.** Google Maps will navigate without data if you have saved London over Wi-Fi.
 
 ---
 
@@ -363,4 +356,4 @@ Keeping your home SIM active lets you receive calls and bank security texts on y
 
 ---
 
-*Prices, allowances and roaming terms checked on each provider's own website on 14 September 2026. Network speed figures are from RootMetrics' UK report for the first half of 2026; Tube coverage from Transport for London. Mobile plans change often — check the price when you buy.*
+*Prices and roaming terms as at September 2026; plans change often, so check the price when you buy. Network speed figures are from RootMetrics' UK report for the first half of 2026; Tube coverage from Transport for London.*
