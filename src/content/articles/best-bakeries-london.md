@@ -5,7 +5,8 @@ description: "The ten London bakeries named among Britain's best for 2026, the q
 heroImage: "../../assets/articles/best-bakeries-london/buns-from-home.jpg"
 heroImageAlt: "The Buns from Home shopfront, cream painted with the name in yellow lowercase lettering above a window counter"
 publishedAt: 2026-08-23
-updatedAt: 2026-09-23
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -13,24 +14,22 @@ tags: [bakeries, pastries, breakfast, cheap eats, dining]
 draft: false
 faq:
   - q: "What is the best bakery in London?"
-    a: "Ten London bakeries made the Good Food Guide's 50 Best British Bakeries 2026, which is the most rigorous dated ranking there is. Toad in Camberwell and Eric's in East Dulwich draw the most consistent praise across publications, blogs and readers alike — Eric's for croissants, Toad for long-fermented sourdough and pastry cream. E5 Bakehouse in Hackney remains the bakers' bakery."
+    a: "Ten London bakeries made the Good Food Guide's 50 Best British Bakeries 2026. Toad in Camberwell and Pophams in Islington are named by the most sources, four each. Eric's in East Dulwich is the croissant bakery: the Good Food Guide calls its croissants arguably the best in London. E5 Bakehouse in Hackney grinds its own flour on site."
   - q: "Which London bakery has the longest queue?"
-    a: "Toad in Camberwell. Its Saturday morning queue is a fixture, and the writers who join it generally conclude it is justified. Arôme in Covent Garden and Pophams in Islington are the other reliable queues."
+    a: "Toad in Camberwell: the Good Food Guide warns of a lengthy weekend queue. Arôme in Covent Garden and Pophams in Islington are the other reliable queues."
   - q: "Where do I get the best pastel de nata in London?"
-    a: "Lisboa Patisserie on Golborne Road in Notting Hill has been doing it since 1984 and is the institution. It is cheap, cash-friendly, and the queue moves quickly."
+    a: "Lisboa Patisserie on Golborne Road in Notting Hill, trading since 1984. It is cheap, and the queue moves quickly."
   - q: "Are London bakeries expensive?"
-    a: "A good sourdough loaf runs £4.50–£6 and a pastry £3.50–£5. That is more than a supermarket and less than a café breakfast — a pastry and a coffee is one of the cheapest good breakfasts in London."
+    a: "A good sourdough loaf runs £4.50–£6 and a pastry £3.50–£5, so a pastry and a coffee is £6–£8."
   - q: "When should I go to a London bakery?"
     a: "Early. The best sell out, often by early afternoon at weekends, and Eric's opens only twice a week. Bread is usually out by mid-morning; pastries go first."
   - q: "Which London bakeries do gluten-free?"
-    a: "Very few do it well, because dedicated sourdough bakeries cannot avoid flour contamination. Ask directly rather than assuming — most will be straight with you about the risk."
+    a: "Very few do it well, because dedicated sourdough bakeries cannot avoid flour contamination. Ask directly."
 ---
 
-London's bread got good around 2010 and its pastry followed roughly a decade later. What has happened since is more interesting than either: the city's best bakeries are now the ones putting something other than France through French technique — **miso in the escargot, pineapple buns beside the sourdough, baobab in the danish**.
+Many of London's best bakeries now put other cuisines through French technique: **miso in the escargot, pineapple buns beside the sourdough, baobab in the danish**.
 
-A pastry and a coffee is also **one of the cheapest good breakfasts in London**, which puts an £18 plate of eggs in perspective.
-
-> 💡 **The Short Version:** **Toad** in Camberwell has the queue everyone agrees is justified. **Eric's** in East Dulwich makes what several critics call the best croissant in London, and opens twice a week. **Arôme** does honey butter toast and miso bacon escargots. **E5 Bakehouse** is still the bakers' bakery. **Lisboa Patisserie** has been doing pastéis de nata on Golborne Road since 1984. And **Beigel Bake** on Brick Lane has never closed.
+> 💡 **The Short Version:** **Toad** in Camberwell has a weekend queue the Good Food Guide warns about. **Eric's** in East Dulwich makes croissants the Guide calls arguably the best in London, and opens twice a week. **Arôme** does honey butter toast and miso bacon escargots. **E5 Bakehouse** grinds its own flour under the Hackney arches. **Lisboa Patisserie** has been doing pastéis de nata on Golborne Road since 1984. And **Beigel Bake** on Brick Lane is open 24 hours.
 
 > 📊 **The evidence behind this guide.**
 > **7 sources carrying 101 citations** across **61 named bakeries**. **16 bakeries are named by two or more independent sources; 10 carry a dated award.**
@@ -74,42 +73,42 @@ A pastry and a coffee is also **one of the cheapest good breakfasts in London**,
 
 ## What the rankings actually say
 
-Bakeries are ranked more loosely than restaurants — there is no Michelin for bread — so here is what the awards on this page mean.
+Bakeries are ranked more loosely than restaurants, as there is no Michelin for bread, so here is what the awards on this page mean.
 
-**The [Good Food Guide's 50 Best British Bakeries](https://www.thegoodfoodguide.co.uk/best-of/britains-best-bakeries-2026)** is the closest thing to a definitive list. It is judged, dated, and national, which means a London entry has beaten bakeries from the whole country rather than just the borough. **Ten of the fifty for 2026 are in London, and seven of those ten are new entries** — a turnover rate that tells you the category is still moving fast enough that any list more than a year old is unreliable.
+**The [Good Food Guide's 50 Best British Bakeries](https://www.thegoodfoodguide.co.uk/best-of/britains-best-bakeries-2026)** is judged, dated and national, so a London entry has beaten bakeries from the whole country. **Ten of the fifty for 2026 are in London, and seven of those ten are new entries.**
 
-**The Telegraph** runs its own annual ranking, and **Time Out** reports on both rather than judging independently — a Time Out headline saying a bakery has been "crowned" usually means someone else did the crowning. That is not a criticism; it just means the two are not independent sources of the same claim.
+**The Telegraph** runs its own annual ranking. **Time Out** reports on both rankings rather than judging independently, so the two are not independent sources of the same claim.
 
-**What none of them measure is consistency.** A bakery can produce the best croissant in the country on the day the judge visits and sell out by ten every Saturday thereafter. That is why we lean on the queue commentary below: it comes from people who went back.
+**None of them measures consistency.** A bakery can win on the day the judge visits and sell out by ten every Saturday after, which is why we lean on the queue commentary below: it comes from people who went back.
 
 ---
 
 ## Britain's best, 2026
 
-Ten London bakeries made the Good Food Guide's fifty for 2026. Seven were new entries, which tells you how fast this is moving.
+Seven of the ten are new entries: Arôme, August, Chatsworth, Don't Tell Dad, Fred, Lucky Yu and Suba.
 
 ### Toad Bakery, Camberwell
 
 *The queue · Cited by 4 sources · Good Food Guide 2026*
 
-**A Camberwell bakery that has been on every best-of list two years running**, working out of a small shopfront with a queue that regularly reaches the corner.
+A small, crowdfunded Camberwell bakery with a weekend queue that regularly reaches the corner.
 
-**Sandwiches and pastries** are the trade, and the sandwiches are what people travel for — thick fillings on their own bread, changing weekly. The pastry case runs laminated viennoiserie and a rotating list of tarts and buns, and it empties in the order things are good.
+**Sandwiches and pastries** are the trade: thick fillings on its own long-fermented bread, changing weekly, plus laminated viennoiserie and a rotating list of tarts and buns.
 
-**£, walk-in, closed Monday.** Camberwell, and worth timing for late morning — the sandwich menu is up by then and the pastries are not yet gone.
+**£, walk-in, closed Monday.** Go in late morning, when the sandwich menu is up and the pastries are not yet gone.
 
 ### Eric's, East Dulwich
 
 *Open two days a week · Cited by 3 sources · Good Food Guide 2026*
 
-An East Dulwich bakery that has become the reason people cross south London on a Saturday morning — small, permanently busy, and named on the national fifty.
+An East Dulwich bakery run by Helen Evans, formerly of Flor, and named on the national fifty.
 
-Order the **laminated pastries**: croissants with visible layers, and the flavoured versions that sell out first. The sourdough and the sandwiches on it are the other half of the trade, and the counter empties in order of how good things are.
+Order the **laminated pastries**. The croissants are made with wholemeal and emmer flour, and the savouries include an aubergine and fermented fava bean swirl; there are also pain au chocolat and cinnamon buns, and sourdough and sandwiches on it. It serves only filter coffee.
 
 **£, walk-in, and go early.** By late morning the pastry case is picked over; by early afternoon it is largely gone.
 
 
-> ⚠️ **Open twice a week only.** Check which days before travelling — this is the most common way to waste a trip to East Dulwich.
+> ⚠️ **Open twice a week only.** Check which days before travelling.
 
 ### Arôme Bakery, Covent Garden
 
@@ -118,39 +117,39 @@ Order the **laminated pastries**: croissants with visible layers, and the flavou
 ![Rows of egg custard tarts with glossy yellow filling in fluted pastry cases, on wire racks on a wooden bakery counter](../../assets/articles/best-bakeries-london/arome-bakery.jpg)
 *Egg tarts at Arôme.*
 
-A French-Asian bakery on Endell Street from a team that trained in Paris and Hong Kong — and one of the few places in London doing both traditions rather than picking one.
+A bakery on Endell Street founded by Singaporean restaurateur Ellen Chew and French-born pâtissier Alix André. It started as a Soho pop-up and has been in Covent Garden since 2020; there is a second branch on Duke Street in Marylebone.
 
-The **egg tart** with a laminated pastry base is the signature, and the reason for the queue: Portuguese-Macanese custard set inside a croissant-style shell. Beside it, proper French croissants, **pandan and matcha** pastries, and a **swirl** that turns up on every Instagram round-up of the shop.
+Order the **honey butter toast**, a take on Japanese shokupan milk bread, and the **miso bacon escargots**. Also on the counter: hotdog croissants with Japanese BBQ sauce, gula melaka coconut buns, pandan and matcha pastries and egg tarts in a laminated shell.
 
-**£, walk-in.** Covent Garden, so the queue is constant; go before ten or after three.
+**£, walk-in.** Expect a queue; go before ten or after three.
 
 ### E5 Bakehouse, Hackney
 
 *Under the railway arches · Cited by 3 sources · Good Food Guide 2026*
 
-**Sourdough milled and baked under the London Fields arches**, with a café attached and **flour sold by the bag** — one of very few London bakeries that mills its own grain.
+**Sourdough baked under the London Fields arches**, with a café attached and **flour sold by the bag**.
 
-The **Hackney Wild** sourdough is the loaf the bakery is built on, and it is sold alongside the flour it is made from, so you can go home and fail to reproduce it. The café behind the counter does breakfast and lunch on the same bread, and there is a bakery school in the arch.
+The grain is ground on site: the croissants use three heritage flours and raw cultured butter, and the **Hackney Wild** sourdough is sold beside the flour it is made from. The café does soup, sourdough sandwiches and seasonal specials, with currant buns, florentines and rye cookies always on. There are also branches in Poplar and Hackney Wick, and a bakery school in the arch.
 
-**£, walk-in.** Under the arches by London Fields, and busiest on a Saturday when the market is on.
+**£, walk-in.** The counter queue is permanent but moves quickly; busiest on a Saturday when the market is on.
 
 ### August Bakery, Battersea
 
 *Opened late 2024 · Cited by 3 sources · Good Food Guide 2026*
 
-A small Battersea bakery working to the modern London template — long ferments, a short counter, and a queue that forms before it opens.
+Run by Harry Robins and Florrie Beard, who began by delivering loaves and pastries by cargo bike from a Putney flat and crowdfunded the shop, which opened in December 2024.
 
-**Sourdough** and **laminated pastries** are the whole offer, with a rotating list of filled croissants and buns. The bread is sold by the loaf and goes by mid-morning at weekends, and the pastry case is picked over well before that.
+**Sourdough**, sweet seasonal buns and **focaccia sandwiches** are the offer. The bread is sold by the loaf and goes by mid-morning at weekends, and the pastry case is picked over well before that.
 
-**£, walk-in, closed Monday.** A small shopfront with almost nowhere to sit — a counter to buy from rather than a café to settle into.
+**£, walk-in, closed Monday.** Almost nowhere to sit.
 
 ### Don't Tell Dad, Queen's Park
 
 *Bakery and restaurant · Cited by 1 source · Good Food Guide 2026*
 
-**A bakery, restaurant and wine bar in one Queen's Park room**, which is an unusual combination and the reason it turns up on both bakery and brunch lists.
+A bakery by day and a restaurant and wine bar by night, in one Queen's Park room.
 
-The bakery counter runs **viennoiserie and sourdough** through the morning; the kitchen behind it serves a full menu through the day and into the evening, with a wine list that takes itself seriously. Few bakeries in London let you do both in one sitting.
+Head baker Keren Sternberg makes the **brown-butter maple challah doughnuts** and a bergamot sfogliatella. There are sandwiches on weekday lunchtimes, pies at weekends and seasonal small plates in the evening.
 
 **£ at the counter, more if you sit down.** Walk-in for pastries; book for a table in the evening.
 
@@ -158,41 +157,39 @@ The bakery counter runs **viennoiserie and sourdough** through the morning; the 
 
 *Warm all day · Cited by 1 source · Good Food Guide 2026*
 
-A small counter just off Oxford Street, and the most useful bakery address in central London simply because of where it is — there is almost nothing good to eat on that stretch.
+Fred's Oxford Circus branch opened in 2025; the original is in Holborn.
 
-**Pastries and coffee** rather than a full bread operation: croissants, buns and filled viennoiserie made to a high standard and sold quickly. The **swirls** and the flavoured croissants are what people queue for.
+**Pastries and coffee** rather than a full bread operation: croissants, buns and filled viennoiserie. The **swirls** and the flavoured croissants are what people queue for.
 
-**£, walk-in.** Tiny, with nowhere to sit — buy and walk. Best before the lunchtime office rush takes what is left.
+**£, walk-in.** Best before the lunchtime office rush takes what is left.
 
 ### Chatsworth Bakehouse, Crystal Palace
 
 *Savoury · Cited by 2 sources · Good Food Guide 2026*
 
-**Started as lockdown loaves and is now on the national fifty** — the queue on a Saturday morning is effectively the whole of Crystal Palace.
+**Sian Evans and Tom Mathews started with lockdown loaves for neighbours**; the Good Food Guide says you know you are near when you spot the queue.
 
-**Sourdough** is the foundation, with laminated pastries and a short list of filled buns beside it. The bread is long-fermented and sold the day it is baked; nothing is held over.
+**Focaccia sandwiches and pizza by the slice** are the savoury draw, with malted-milk maritozzi and pumpkin spiced doughnuts, and sourdough as the foundation. There is a pre-order pick-up at 120a and a walk-in site a few doors down.
 
-**£, walk-in, and open Wednesday to Saturday only** — closed Sunday, Monday and Tuesday, which catches people out. Go early on a Saturday or not at all.
+**£, walk-in, and open Wednesday to Friday 12.30pm–4pm and Saturday 11am–4pm only.** It is closed Sunday, Monday and Tuesday, which catches people out.
 
 ### Suba Bakery, Walthamstow
 
 *African and Asian influences · Cited by 3 sources · Good Food Guide 2026*
 
-**On the national fifty two years running, and named for its lamination above anything else** — which is the highest compliment available to a bakery.
+Pa Modou came to Walthamstow from the Gambia by way of Hackney, and his African- and Asian-inflected bakes are why Suba is on the national fifty.
 
-Lamination is the folding of butter into dough to build layers, and it is what separates a good croissant from a bread roll shaped like one. Suba's are the reference point in east London: visibly layered, shatteringly crisp, and worth the trip to Walthamstow on their own.
+The croissants are glazed with mango syrup; there are **bantu buns** fragrant with caraway, the signature **mango baobab danish** with cardamom cream, and a Japanese egg mayo sandwich. There are also branches in Spitalfields and Upper Clapton.
 
-**£, walk-in.** Small counter; the pastry case is the whole business and it empties fast.
+**£, walk-in.** Small counter; the pastry case empties fast.
 
 ### Lucky Yu Bakery, Walthamstow
 
 *British-Cantonese · Cited by 1 source · Good Food Guide 2026*
 
-An east London bakery running **East Asian flavours through French pastry technique** — and one of the more original counters in the city.
+A micro-bakery run by Hai Lin Leung from her Walthamstow home alongside a full-time medical career, so it works to her own schedule.
 
-Expect **matcha, black sesame, yuzu and miso** worked into laminated pastries and buns, alongside conventional croissants for anyone who wants one. The flavour combinations are what gets it written up; the technique underneath them is why they work.
-
-**£, walk-in.** Walthamstow, and a short walk from Suba if you want to do both in one trip.
+The British-Cantonese bakes include fluffy **pineapple buns** and a **sesame soy congee sourdough**; matcha, black sesame, yuzu and miso also turn up in pastries and buns.
 
 ---
 
@@ -200,7 +197,7 @@ Expect **matcha, black sesame, yuzu and miso** worked into laminated pastries an
 
 ## The other queues
 
-Not in the 2026 fifty, and still among the best-loved rooms in London.
+Not in the 2026 fifty.
 
 ### Pophams, Islington
 
@@ -209,7 +206,7 @@ Not in the 2026 fifty, and still among the best-loved rooms in London.
 ![A thick laminated pastry roll on a brown paper bag, cut open to show its many layers wrapped around a mushroom filling](../../assets/articles/best-bakeries-london/pophams.jpg)
 *A pastry at Pophams.*
 
-**Pastries at the counter and a small kitchen behind it**, so it works as breakfast and as lunch — which most bakeries in this guide do not.
+**Pastries at the counter and a small kitchen behind it**, so it works for breakfast and lunch.
 
 The **bacon and maple croissant** is the dish Pophams is known for, and the laminated pastries around it are made in the room. The kitchen runs a short brunch menu, and there is fresh pasta at some sites in the evening.
 
@@ -219,9 +216,9 @@ The **bacon and maple croissant** is the dish Pophams is known for, and the lami
 
 *Bakery and restaurant · Cited by 2 sources*
 
-**A bakery and restaurant milling its own flour** — the whole operation is built on grain sourced from British farms and ground in-house, which almost nothing else in London does at this scale.
+**A bakery and restaurant milling its own flour**, from grain sourced from British farms and ground in-house.
 
-**Sourdough** from that flour is the foundation, with pastries and a short seasonal menu alongside. The bread is what the restaurant is built around: everything on the plate starts from it.
+**Sourdough** from that flour is the foundation, with pastries and a short seasonal menu alongside.
 
 **£ at the counter.** Newington Green is the original; there are sites in Portobello and Redchurch Street. Walk-in for bread, book for a table.
 
@@ -229,9 +226,9 @@ The **bacon and maple croissant** is the dish Pophams is known for, and the lami
 
 *A social enterprise · Cited by 1 source*
 
-**Bread and sandwiches from a bakery that runs a training programme for young people facing barriers to work** — and the sandwich is famous entirely on its own merits.
+**Bread and sandwiches from a bakery that runs a training programme for young people facing barriers to work.**
 
-The **sandwiches on their own sourdough** are what people queue for: thick-cut, heavily filled, and among the best in London on any list that is not about bakeries at all. The bread is sold by the loaf alongside.
+The **sandwiches on their own sourdough** are what people queue for: thick-cut and heavily filled. The bread is sold by the loaf alongside.
 
 **£, walk-in.** Dalston is the original railway-arch site; there is a Harringay branch. Go at lunch for the sandwich, early for the bread.
 
@@ -239,11 +236,11 @@ The **sandwiches on their own sourdough** are what people queue for: thick-cut, 
 
 *Wholesale and retail*
 
-A Bermondsey bakery supplying half the good restaurants in south London, with a counter of its own attached — which means the bread you have eaten somewhere else probably came from here.
+A Bermondsey bakery that supplies restaurants wholesale and has a counter of its own attached.
 
 **Sourdough, viennoiserie and cakes** made in the arch behind the shop. The croissants are the counter's strength and the loaves are what the wholesale trade is built on.
 
-**£, walk-in.** Spa Terminus, and open at weekends alongside the other Bermondsey arch producers — which is the way to visit.
+**£, walk-in.** Spa Terminus, and open at weekends alongside the other Bermondsey arch producers, which is the way to visit.
 
 ### Fortitude Bakehouse, Bloomsbury
 
@@ -252,9 +249,9 @@ A Bermondsey bakery supplying half the good restaurants in south London, with a 
 ![Trays of pain au chocolat, sugar-dusted morning buns and cinnamon swirls on a bakery counter, with a baker in an apron working behind it](../../assets/articles/best-bakeries-london/fortitude-bakehouse.jpg)
 *The counter at Fortitude Bakehouse.*
 
-**A small Bloomsbury bakehouse a couple of minutes from Russell Square** — which is a short list, in a part of London badly served for anything good to eat.
+**A small Bloomsbury bakehouse a couple of minutes from Russell Square.**
 
-**Pastries, buns and cakes** made in the room, with coffee to match and a handful of seats to have it in. The **cardamom buns** and the seasonal tarts are what regulars come back for, and the range is deliberately short.
+**Pastries, buns and cakes** made in the room, with coffee and a handful of seats. The **cardamom buns** and the seasonal tarts are what regulars come back for, and the range is deliberately short.
 
 **£, walk-in.** Tiny, so it fills at lunchtime with people from the surrounding museums and colleges. Quietest mid-afternoon.
 
@@ -262,21 +259,21 @@ A Bermondsey bakery supplying half the good restaurants in south London, with a 
 
 *UK-grown grain · Cited by 1 source*
 
-A Highgate bakery and café that became the local institution quickly — bread, pastry and a short menu, in a stretch of north London that had nothing like it.
+A Highgate bakery and café: bread, pastry and a short menu.
 
-**Sourdough and laminated pastries** through the morning, with **sandwiches on their own bread** at lunch. The counter is small and the range is short on purpose; what is there is made that day.
+**Sourdough and laminated pastries** through the morning, with **sandwiches on their own bread** at lunch. The range is short on purpose, and what is there is made that day.
 
-**£, walk-in.** A few minutes from Highgate station and close enough to the Heath to build a walk around it — which is what most people do at weekends.
+**£, walk-in.** A few minutes from Highgate station and close enough to the Heath to build a walk around it.
 
 ### Sourdough Sophia, Crouch End
 
 *Cruffins · Cited by 2 sources*
 
-Started as a lockdown home bakery and now a Crouch End shop with a following that turns up before opening — one of several in this guide with that origin story and among the best of them.
+Started as a lockdown home bakery and is now a Crouch End shop with a queue before opening.
 
 **Sourdough** is the foundation and the name, with **laminated pastries and filled buns** beside it. The bread is long-fermented and the crust is the selling point.
 
-**£, walk-in.** Crouch End, and busiest on a Saturday morning when the whole neighbourhood is in the queue.
+**£, walk-in.** Busiest on a Saturday morning.
 
 ![The frontage of Sourdough Sophia bakery with pavement seating](../../assets/articles/best-bakeries-london/sourdough-sophia.jpg)
 *Sourdough Sophia, Crouch End. Photo: [Keith Page](https://commons.wikimedia.org/w/index.php?curid=196207114), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
@@ -288,15 +285,15 @@ Started as a lockdown home bakery and now a Crouch End shop with a following tha
 
 ## Also well supported, and not above
 
-Five bakeries carried by two or more independent sources that this guide had no entry for. They are here because the evidence says so, not because we went looking for them.
+Five bakeries carried by two or more independent sources.
 
 | Bakery | Where | Sources | What it is |
 | --- | --- | --- | --- |
 | **Forno** | Hackney | 3 | An Italian bakery where, in The Infatuation's phrase, everywhere you look there is something that demands to be eaten |
-| **Bunhead Bakery** | Herne Hill | 3 | Palestinian-inspired, and the advice from everyone who names it is the same: go early and get everything |
+| **Bunhead Bakery** | Herne Hill | 3 | Palestinian-inspired; go early |
 | **Layla Bakery** | Ladbroke Grove | 3 | A corner neighbourhood bakery with a weekend queue |
 | **Kuro Bakery** | Notting Hill Gate | 2 | Tiny, with sourdough, cakes and a bread-and-butter pudding people order specifically |
-| **Common Breads** | Victoria | 2 | Lebanese, doing traditional bakes central London otherwise has none of |
+| **Common Breads** | Victoria | 2 | Lebanese, with traditional bakes |
 
 ---
 
@@ -306,9 +303,9 @@ Five bakeries carried by two or more independent sources that this guide had no 
 
 ![The pink Peggy Porschen shopfront on a corner, its windows and doorway framed by dense floral displays](../../assets/articles/best-bakeries-london/peggy-porschen.jpg)
 
-**The most photographed shopfront in London**, and the flowers are the product as much as the cakes are. The corner on Ebury Street is redressed seasonally and there is usually a queue of people photographing it who do not go in.
+**A pink shopfront framed by floral displays**, redressed seasonally on the corner of Ebury Street. There is usually a queue of people photographing it who do not go in.
 
-The cakes are good — proper Victoria sponge, layer cakes by the slice — and priced for the postcode. **Go on a weekday morning** if you want to sit down, and expect to wait for the outside tables at any time the sun is out.
+The cakes are proper Victoria sponge and layer cakes by the slice, priced for the postcode. **Go on a weekday morning** if you want to sit down; the outside tables fill whenever the sun is out.
 
 ### Buns from Home, twelve branches
 
@@ -316,11 +313,11 @@ The cakes are good — proper Victoria sponge, layer cakes by the slice — and 
 
 *Chain · mostly central and west*
 
-Started by a baker called Barney making pastries in his mother's kitchen for neighbours during lockdown, crowdfunded into a shop in west London, and now **twelve branches** — Notting Hill, Holland Park, Oxford Circus, Bank, Covent Garden, Marylebone, Sloane Square, Canary Wharf and more.
+Started by a baker called Barney making pastries in his mother's kitchen during lockdown, and now **twelve branches** — Notting Hill, Holland Park, Oxford Circus, Bank, Covent Garden, Marylebone, Sloane Square, Canary Wharf and more.
 
-It belongs here for a reason none of the others do: **it is the good bakery you can actually find**. The cinnamon buns are large, generously filled and not oversweet, the flavours rotate, and you are rarely more than a few stops from one. When the plan falls apart — Eric's is shut, Toad has sold out, you are nowhere near Walthamstow — this is the fallback that does not feel like a compromise.
+The cinnamon buns are large and generously filled, the flavours rotate, and you are rarely more than a few stops from a branch. It is the fallback when Eric's is shut or Toad has sold out.
 
-> ⚠️ **Consistency is the trade-off.** Recent reviews raise stock control and variation between branches, which is the standard cost of growing this fast. Expect a queue, and expect the best flavours to be gone at peak.
+> ⚠️ **Consistency is the trade-off.** Recent reviews raise stock control and variation between branches. Expect a queue, and expect the best flavours to be gone at peak.
 
 ---
 
@@ -330,17 +327,17 @@ It belongs here for a reason none of the others do: **it is the good bakery you 
 
 *Golborne Road · since 1984*
 
-**Pastéis de nata** done the way they should be — scorched on top, the pastry shattering rather than bending — at a fraction of what central London charges for a worse version. Trading since 1984, and the reason Golborne Road smells the way it does on a Saturday.
+**Pastéis de nata** with scorched tops and shattering pastry, at a fraction of what central London charges. Trading since 1984.
 
-This is the north end of Portobello, past the antiques and past most of the tourists, in the Portuguese community that has been on this street for decades. Order at the counter, take it standing, and do not overthink it.
+Golborne Road is the north end of Portobello, past the antiques, in the Portuguese community that has been on this street for decades. Order at the counter and take it standing.
 
 ### Beigel Bake, Brick Lane
 
 *Open 24 hours*
 
-**Salt beef beigels at any hour of the day or night**, for a few pounds, from a counter that has never closed. It is the answer to a very specific question — where to eat at four in the morning — and also just a good beigel at two in the afternoon; the queue is much the same length at both.
+**Salt beef beigels at any hour of the day or night**, for a few pounds, from a counter open 24 hours.
 
-The other Brick Lane beigel shop a few doors down has its own partisans and a long-running rivalry with this one. Try both; people have opinions about this that are out of proportion to the stakes.
+The other Brick Lane beigel shop a few doors down has a long-running rivalry with this one. Try both.
 
 ![Customers outside the Beigel Bake shopfront on Brick Lane in the rain](../../assets/articles/best-bakeries-london/beigel-bake.jpg)
 
@@ -350,11 +347,11 @@ The other Brick Lane beigel shop a few doors down has its own partisans and a lo
 
 *Doughnuts*
 
-**The crème brûlée doughnut is blowtorched in front of you**, which explains the queue. It started as one Borough Market stall and is now a bakery school and a small chain.
+**The crème brûlée doughnut is blowtorched in front of you.** It started as one Borough Market stall and is now a bakery school and a small chain.
 
-The **doughnuts** are the whole business: filled to order with vanilla custard, salted caramel or seasonal fillings, and heavy enough to count as lunch. Bread and pastries alongside, and a **baking school** in the same building if you want to learn to make them.
+The **doughnuts** are the whole business: filled to order with vanilla custard, salted caramel or seasonal fillings. Bread and pastries alongside, and a **baking school** in the same building.
 
-**£, walk-in, closed Monday.** Borough Market gets impassable by midday at weekends — go early.
+**£, walk-in, closed Monday.** Borough Market is busy by midday at weekends; go early.
 
 ![A sugar-dusted doughnut with a honeycomb shard on a blue plate](../../assets/articles/best-bakeries-london/bread-ahead.jpg)
 *The doughnuts at Bread Ahead. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/35138538481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -368,21 +365,21 @@ The **doughnuts** are the whole business: filled to order with vanilla custard, 
 
 *Swedish*
 
-**A tiny Swedish bakery on Rose Street**, hidden down an alley off Covent Garden, and the only place in central London doing Scandinavian baking.
+**A tiny Swedish bakery on Rose Street**, down an alley off Covent Garden.
 
-**Kanelbullar** — the cardamom-heavy Swedish cinnamon bun, which is a different thing from the American version — plus **prinsesstårta**, the green marzipan-domed princess cake, and semlor in season. Everything is made in the basement below the shop.
+**Kanelbullar** — the cardamom-heavy Swedish cinnamon bun, a different thing from the American version — plus **prinsesstårta**, the green marzipan-domed princess cake, and semlor in season. Everything is made in the basement below the shop.
 
-**£, walk-in.** It seats about six, so most people take it away. Closed Sundays, and easy to walk past.
+**£, walk-in.** It seats about six, so most people take it away. Open Monday to Friday 9am–6.30pm and Saturday 10am–6.30pm; closed Sunday.
 
 ### Lina Stores, Soho
 
 *Italian · since 1944*
 
-**The mint-green Brewer Street deli since 1944**, now with restaurants attached — but the shop is the original and still the reason to go.
+**The mint-green Brewer Street deli, open since 1944**, now with restaurants attached.
 
-A **fresh pasta counter** with the pasta made daily and sold by weight, plus a full Italian deli: cured meats, cheese, oils and tinned fish. **The restaurants came much later than the shop**, and the counter remains the better proposition if you can cook.
+A **fresh pasta counter** with the pasta made daily and sold by weight, plus a full Italian deli: cured meats, cheese, oils and tinned fish. The restaurants came later than the shop.
 
-**££ at the deli.** Walk-in for the shop; the restaurants take bookings and the Greek Street site has the longest queue.
+**££ at the deli.** Walk-in for the shop; the restaurants take bookings.
 
 ![The green-tiled corner shopfront of Lina Stores on Brewer Street](../../assets/articles/best-bakeries-london/lina-stores.jpg)
 *Lina Stores, Brewer Street. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/48224733512), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -392,11 +389,9 @@ A **fresh pasta counter** with the pasta made daily and sold by weight, plus a f
 
 ## Best value
 
-Bakeries are one of the few areas where the best thing in the category is also nearly the cheapest.
-
 * **Beigel Bake** — a salt beef beigel under £8, at four in the morning if you want.
 * **Lisboa Patisserie** — pastéis de nata at Golborne Road prices, not Notting Hill ones.
-* **A pastry and a coffee anywhere on this list** is £6–£8, and a better breakfast than most cafés will sell you for three times that.
+* **A pastry and a coffee anywhere on this list** is £6–£8.
 * **Chatsworth Bakehouse** — pizza by the slice and focaccia sandwiches, for lunch rather than breakfast.
 
 ---
@@ -405,26 +400,25 @@ Bakeries are one of the few areas where the best thing in the category is also n
 
 ## Planning a bakery morning
 
-**Timing is the whole game.** Pastries are laminated overnight and baked in the early morning; what is on the counter at eight is not what is there at two. Bread usually appears mid-morning. If there is one item you have come for — the honey butter toast, the cruffin, the maple challah doughnut — assume it will be gone by lunchtime at a weekend, and treat anything still available at four as a bonus rather than a plan.
+**Timing.** Pastries are baked in the early morning and bread usually appears mid-morning. If there is one item you have come for — the honey butter toast, the cruffin, the maple challah doughnut — assume it will be gone by lunchtime at a weekend.
 
-**Two bakeries in a morning is realistic; four is not.** The pairs in the table above are deliberate — Lucky Yu and Suba are both in Walthamstow, Toad and Eric's are a short ride apart in south London, Pophams and Jolene are both in the Islington-to-Newington-Green corridor. Those are the routes worth building a morning around.
+**Two bakeries in a morning is realistic.** Toad and Eric's are a short ride apart in south London, and Pophams and Jolene are both in the Islington-to-Newington-Green corridor.
 
-**Where to put a bakery in a day.** Fred at Oxford Circus and Arôme in Covent Garden are the two that fit inside a normal sightseeing day without a detour. Everything else is a decision to go somewhere, which is fine — but do not put Camberwell in the middle of a Westminster afternoon and expect it to work.
+**Where to put a bakery in a day.** Fred at Oxford Circus and Arôme in Covent Garden fit inside a normal sightseeing day without a detour; the rest mean going somewhere on purpose.
 
 **Cash and cards.** Almost everything here takes cards. Lisboa Patisserie is the one where cash still moves the queue faster.
 
-**Sitting down.** Several of these are counters with a shelf, not cafés. Dusty Knuckle, Jolene, Don't Tell Dad and Chatsworth Bakehouse all do proper sit-down food; Fortitude, Bageriet and Lisboa are small rooms where a table is luck rather than a plan.
+**Sitting down.** Dusty Knuckle, Jolene, Don't Tell Dad and Chatsworth Bakehouse all do proper sit-down food; Fortitude, Bageriet and Lisboa are small rooms where a table is luck rather than a plan.
 
 ---
 
 ## What to know
 
-* **Go early.** The best bakeries sell out, often by early afternoon at weekends.
-* **Check the opening days.** Eric's opens twice a week. Several others close Mondays. This is the commonest wasted journey.
-* **Sourdough is £4.50–£6** for a proper loaf. Anything much cheaper is not sourdough in any meaningful sense.
+* **Check the opening days.** Eric's opens twice a week and Chatsworth four days. Several others close Mondays.
+* **Sourdough is £4.50–£6** for a proper loaf.
 * **The queue is not always the signal.** Toad's queue is widely agreed to be worth it; some central London queues are photography, not baking.
-* **Seven of London's ten best are new entries**, so a list you read two years ago is out of date. Check dates on anything you follow.
-* **Gluten-free is rare and rarely safe** at a flour-heavy bakery. Ask directly — most will be straight with you about the contamination risk.
+* **Seven of the ten London entries in the Good Food Guide's 2026 fifty are new**, so a list you read two years ago is out of date.
+* **Gluten-free is rare and rarely safe** at a flour-heavy bakery. Ask directly.
 
 ---
 
