@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08",
+ "generated": "2026-10-26",
  "count": 1025,
  "withCoords": 821,
  "facets": {
@@ -7264,9 +7264,9 @@
     "groups",
     "quick"
    ],
-   "whyGo": "One cut, one price, no bookings - a 200g flat iron steak for £15, which is still the cheapest good steak in central London.",
+   "whyGo": "One cut, one price - a 200g flat iron steak for £15, with bookings and walk-ins both taken.",
    "signature": "The flat iron, £15",
-   "signals": "walk-ins only; 14+ London sites",
+   "signals": "bookings and walk-ins",
    "lists": [
     "best-steak:4",
     "best-value"
