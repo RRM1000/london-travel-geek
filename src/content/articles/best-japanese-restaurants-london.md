@@ -9,7 +9,8 @@ heroImageSource: "https://www.pexels.com/photo/vibrant-japanese-sushi-bar-interi
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-09-09
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -17,22 +18,20 @@ tags: [restaurants, Japanese restaurants, sushi, ramen, omakase, dining]
 draft: false
 faq:
   - q: "What is the best Japanese restaurant in London?"
-    a: "Depends on the format. Sushi Tetsu in Clerkenwell has seven seats and is the hardest table in London to get. The Araki in Mayfair is the most expensive at around £310. For the best value serious counter, Sushi Atelier in Fitzrovia is repeatedly named as the one to book."
+    a: "Depends on the format. Sushi Tetsu in Clerkenwell has seven seats and sells out within minutes of release. The Araki in Mayfair is around £310. Sushi Atelier in Fitzrovia is the value counter, named by three sources."
   - q: "How much does omakase cost in London?"
-    a: "From about £60 at Sushi Atelier to around £310 at The Araki. Sushi Kanesaka inside 45 Park Lane and Sushi Tetsu sit between. Omakase means the chef chooses — you are paying for sourcing and for a counter seat, not a long menu."
+    a: "From about £60 at Sushi Atelier to around £310 at The Araki. Sushi Kanesaka inside 45 Park Lane and Sushi Tetsu sit between. Omakase means the chef chooses."
   - q: "Where can I eat Japanese food in London cheaply?"
-    a: "Jin Kichi in Hampstead does charcoal yakitori at prices that have never caught up with its reputation. Marugame Udon is a canteen where you watch the noodles being cut, and Tonkotsu does ramen across London. All come in well under £20."
+    a: "Jin Kichi in Hampstead does charcoal yakitori. Marugame Udon is a canteen where you watch the noodles being cut, and Tonkotsu does ramen across London. The ramen and udon come in under £20."
   - q: "What is the difference between izakaya and a sushi restaurant?"
-    a: "An izakaya is a Japanese pub — small plates, grilled skewers, drinking food, ordered across the table. Zuma and Roka built the London template for it. A sushi counter is a fixed progression served by one chef in front of you."
+    a: "An izakaya is a Japanese pub: small plates and grilled skewers, ordered across the table. Zuma and Roka are the London examples here. A sushi counter is a fixed progression served by one chef in front of you."
   - q: "Do I need to book Japanese restaurants in London?"
     a: "For any omakase counter, yes, and often weeks ahead — Sushi Tetsu releases tables in batches and they go in minutes. Ramen shops and Marugame are walk-in."
 ---
 
-Japanese food in London splits cleanly by **format**, not by price. A seven-seat sushi counter, a charcoal yakitori grill, an izakaya built for drinking and a ramen shop are four completely different evenings, and knowing which one you want settles most of the decision before you look at a single menu.
+Japanese food in London splits by **format**, not by price. A seven-seat sushi counter, a charcoal yakitori grill, an izakaya built for drinking and a ramen shop are four different evenings.
 
-The city has the deepest omakase scene outside Japan, and a much thinner budget end.
-
-> 💡 **The Short Version:** **Sushi Tetsu** is the hardest table in London and worth the effort. **Sushi Atelier** is the best-value serious counter. **Roka** and **Zuma** invented the London izakaya template and still do it best. **Jin Kichi** in Hampstead is the value pick nobody writes about enough. **Umu** is the only proper Kyoto kaiseki in the city.
+> 💡 **The Short Version:** **Sushi Tetsu** has seven seats and its booking windows sell out in minutes. **Sushi Atelier** is the value omakase counter, from about £60. **Roka** and **Zuma** are the robata-grill izakaya. **Jin Kichi** in Hampstead does charcoal yakitori. **Umu** serves Kyoto-style kaiseki.
 
 > 📊 **The evidence behind this guide.**
 > **12 sources carrying 163 citations** across **116 named restaurants**. **27 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
@@ -61,17 +60,17 @@ The city has the deepest omakase scene outside Japan, and a much thinner budget 
 
 ## The omakase counters
 
-Omakase means the chef chooses. You sit at the counter, courses arrive in sequence, and you are paying for sourcing and for proximity rather than for a long menu.
+Omakase means the chef chooses: you sit at the counter and courses arrive in sequence.
 
 ### Sushi Tetsu, Clerkenwell
 
 *££££ · seven seats · the hardest table in London* · Cited by 3 sources
 
-**Seven seats at a pale hinoki counter in a Clerkenwell alley**, run by Toru Takahashi and his wife Harumi — and only them. He cures, cuts and serves; she runs the room. That two-person arrangement is why it is the hardest table in London to get.
+**Seven seats at a pale hinoki counter in a Clerkenwell alley**, run by Toru Takahashi and his wife Harumi, and only them. He cures, cuts and serves; she runs the room.
 
-Edomae omakase: nigiri served one piece at a time, the rice at body temperature, the fish aged to Takahashi's timing rather than the market's. He tells you what each piece is and when to eat it, and the pace is his.
+Edomae omakase: nigiri served one piece at a time, the rice at body temperature, the fish aged to Takahashi's timing. He tells you what each piece is and when to eat it.
 
-**Booking opens in windows and goes almost immediately** — set a reminder, refresh, and expect to fail several times. ££££, and there is no walk-in list.
+**Booking opens in windows and sells out within minutes**, so set a reminder. ££££, and there is no walk-in list.
 
 ![The plain frontage of Sushi Tetsu in Clerkenwell](../../assets/articles/best-japanese-restaurants-london/sushi-tetsu.jpg)
 *Sushi Tetsu, Clerkenwell. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/7670311580), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -81,11 +80,11 @@ Edomae omakase: nigiri served one piece at a time, the rice at body temperature,
 
 *££££ · around £310 · two sittings a night* · Cited by 2 sources
 
-**A no-choice menu at around £310**, built on rare ingredients and served in two sittings a night to a handful of people — the most expensive meal in this guide and among the shortest menus.
+**A no-choice menu at around £310**, served in two sittings a night to a handful of people.
 
-Edomae sushi in the strictest sense: nigiri only, aged and cured to the chef's timing, served piece by piece across a counter with no substitutions and no à la carte. What arrives depends entirely on what the kitchen has been ageing.
+Edomae sushi: nigiri only, aged and cured to the chef's timing, served piece by piece across a counter with no substitutions and no à la carte.
 
-**Tuesday to Saturday only, two sittings a night, closed Sunday and Monday, and it books months ahead.** ££££. The narrowest proposition on this page and it does not pretend otherwise.
+**Tuesday to Saturday only, two sittings a night, closed Sunday and Monday, and it books months ahead.** ££££.
 
 ### Sushi Kanesaka, Mayfair
 
@@ -93,27 +92,27 @@ Edomae sushi in the strictest sense: nigiri only, aged and cured to the chef's t
 
 **Thirteen covers inside 45 Park Lane** — nine at the counter, four in a private room — doing **omakase only**, brought over from the Tokyo original, which opened here in July 2023.
 
-**No à la carte at all.** The chef sets the sequence and the pace: nigiri built on fish flown in and aged on site, rice seasoned to the Tokyo house style, served one piece at a time across the hinoki counter.
+**No à la carte.** The chef sets the sequence and the pace: nigiri on fish flown in and aged on site, rice seasoned to the Tokyo house style, served one piece at a time across the hinoki counter.
 
-**££££, closed Sunday and Monday, and it books weeks ahead.** Sit at the counter rather than in the private room — the private room misses the point of the format.
+**££££, closed Sunday and Monday, and it books weeks ahead.** Ask for the nine counter seats rather than the four-seat private room.
 
 ### Sushi Atelier, Fitzrovia
 
 *£££ · 7 min from Oxford Circus · the value pick* · Cited by 3 sources
 
-Repeatedly named **the best-value serious omakase in central London** — the same counter discipline as the Mayfair rooms at a fraction of the outlay, which is why it turns up in three separate guides.
+**Omakase from about £60, named by three sources for its value** — the same counter format as the Mayfair rooms at a fraction of the price.
 
-Omakase nigiri built the same way it is a mile east at four times the price: fish aged to the right point, rice at body temperature, and a chef who talks you through each piece. There is an à la carte if you want to eat more cheaply still.
+Omakase nigiri with the rice at body temperature and a chef who talks you through each piece. There is an à la carte if you want to spend less.
 
-**£££, closed Sunday and Monday, book weeks ahead.** Seven minutes from Oxford Circus, and the entry to recommend to anyone meeting the format for the first time.
+**£££, closed Sunday and Monday, book weeks ahead.** Seven minutes from Oxford Circus.
 
 ### Kurisu Omakase, Brixton
 
 *££££ · eighteen courses* · Cited by 1 source
 
-**Eighteen courses in Brixton**, where chef Chris Restrepo runs Japanese technique through his Thai-Colombian background — the least likely omakase address in London and one of the best.
+**Eighteen courses in Brixton**, where chef Chris Restrepo runs Japanese technique through his Thai-Colombian background.
 
-The sequence holds to omakase structure but the seasoning does not: Japanese cures and knife work meeting South American and Thai flavours, across eighteen courses served to a small counter. Nothing else in this guide cooks like it.
+The structure is omakase but the seasoning is not: Japanese cures and knife work meeting South American and Thai flavours, served to a small counter.
 
 **££££, open Tuesday to Friday only** — closed Saturday, Sunday and Monday — and it books weeks ahead.
 
@@ -127,11 +126,11 @@ The sequence holds to omakase structure but the seasoning does not: Japanese cur
 
 *££££ · 7 min from Green Park · One Michelin star, 2026 guide* · Cited by 3 sources
 
-**Kaiseki in the Kyoto tradition** — a fixed seasonal progression rather than a sushi counter, which makes it the odd one out among Mayfair's Japanese rooms and the only place in London doing the format at this level.
+**Kaiseki in the Kyoto tradition** — a fixed seasonal progression rather than a sushi counter.
 
-Kaiseki is a sequence with rules: a set order of preparations — raw, simmered, grilled, steamed — following what is in season, built to a structure rather than a chef's whim. Expect charcoal-grilled fish, delicate dashi, and vegetables treated as seriously as the protein.
+Kaiseki follows a set order of preparations — raw, simmered, grilled, steamed — built around what is in season. Expect charcoal-grilled fish, dashi and vegetables.
 
-**££££, closed Sunday, and it books weeks ahead.** Seven minutes from Green Park. The most formal Japanese meal in the guide.
+**££££, closed Sunday, and it books weeks ahead.** Seven minutes from Green Park.
 
 ![The wooden frontage and doorway of Umu in Mayfair](../../assets/articles/best-japanese-restaurants-london/umu.jpg)
 *Umu, Mayfair. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2570835137), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -141,21 +140,21 @@ Kaiseki is a sequence with rules: a set order of preparations — raw, simmered,
 
 *££££ · 2 min from Piccadilly Circus* · Cited by 2 sources
 
-**Built around certified Kobe beef**, which very few London kitchens are licensed to serve — the sushi is good and the beef is what to book it for.
+**Built around certified Kobe beef**, with sushi and sashimi alongside.
 
-Kobe is served several ways across a set menu: seared on a hot stone at the table, as sukiyaki, and in sushi. Certification is the difference: most London "Kobe" is wagyu from elsewhere, and this room can show you the papers.
+Kobe is served several ways across a set menu: seared on a hot stone at the table, as sukiyaki, and in sushi.
 
-**££££, closed Monday and Tuesday, books weeks ahead.** Two minutes from Piccadilly Circus.
+**££££, closed Monday, books weeks ahead.** Two minutes from Piccadilly Circus.
 
 ### Dinings SW3, Chelsea
 
 *££££ · the most-cited Japanese room in London* · Cited by 5 sources
 
-**The most-cited Japanese room in London** across these sources — izakaya-scale plates done at sushi-counter precision, and with **a courtyard**.
+**The most-cited Japanese room in this guide, with five sources** — izakaya-scale plates with sushi-counter finish, and **a courtyard**.
 
-The format is small plates rather than a set sequence: **tar tar chips** — spicy tuna on crisp discs — seared scallops, black cod, and nigiri from the same kitchen. It reads as a bar menu and eats like a tasting one.
+The format is small plates rather than a set sequence: **tar tar chips** (spicy tuna on crisp discs), seared scallops, black cod, and nigiri from the same kitchen.
 
-**££££ and it books weeks ahead.** Ask for the courtyard in summer; it is the best outdoor Japanese table in the city.
+**££££ and it books weeks ahead.** Ask for the courtyard in summer.
 
 ---
 
@@ -167,11 +166,11 @@ The Japanese pub format — small plates and grilled skewers, ordered across the
 
 *££££ · 5 min from Goodge Street* · Cited by 1 source
 
-**The robata grill sits in the middle of the room and everything comes off it** — open since 2003 and still the reference point for the format in London, with every table arranged to look at the fire.
+**The robata grill sits in the middle of the room and everything comes off it.** Open since 2003, with every table arranged to look at the fire.
 
-The signature is **black cod on a hoba leaf**, grilled over charcoal and served on the leaf it cooked on. Around it, robata-grilled lamb, skewers and a sushi counter, ordered as small plates across the table rather than as courses.
+The signature is **black cod on a hoba leaf**, grilled over charcoal and served on the leaf it cooked on. Around it, robata-grilled lamb, skewers and a sushi counter, ordered as small plates across the table.
 
-**££££ and it books weeks ahead.** Five minutes from Goodge Street. Ask for a counter seat at the grill — the tables are a lesser version of the same meal.
+**££££ and it books weeks ahead.** Five minutes from Goodge Street. Ask for a counter seat at the grill.
 
 ![The corner frontage of Roka on Charlotte Street](../../assets/articles/best-japanese-restaurants-london/roka.jpg)
 *Roka, Fitzrovia. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3694773151), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -181,31 +180,31 @@ The signature is **black cod on a hoba leaf**, grilled over charcoal and served 
 
 *££££ · 2 min from Knightsbridge* · Cited by 2 sources
 
-Opened in 2002 and **effectively invented the London template for informal, izakaya-inspired Japanese dining** — since exported to 27 sites across four continents, which is either the achievement or the objection.
+Opened in 2002 as an **informal, izakaya-inspired Japanese restaurant** and since opened in cities worldwide.
 
-Three kitchens work at once: **robata grill**, sushi counter and main kitchen, and the menu is built to be ordered across all three. The **miso-marinated black cod** and the robata-grilled lamb chops are the dishes that travelled worldwide.
+Three kitchens work at once: **robata grill**, sushi counter and main kitchen, and the menu is built to be ordered across all three. The **miso-marinated black cod** and the robata-grilled lamb chops are the dishes to order.
 
-**££££ and it books weeks ahead.** Two minutes from Knightsbridge, and still louder and better than most of the rooms that copied it.
+**££££ and it books weeks ahead.** Two minutes from Knightsbridge. It is loud.
 
 ### The Aubrey, Knightsbridge
 
 *££££ · inside the Mandarin Oriental* · Cited by 2 sources
 
-**A maximalist take on a Ginza night out inside the Mandarin Oriental** — closer to a bar with exceptional food than to a hotel dining room, and decorated to within an inch of its life.
+**A Ginza-style night out inside the Mandarin Oriental**, closer to a bar than a hotel dining room.
 
-Izakaya plates and robata off the grill, built to be eaten alongside a serious cocktail and sake list. The **wagyu skewers** and the sushi are the food to order; the room and the drinks are what you are paying for.
+Izakaya plates and robata off the grill, alongside a cocktail and sake list. The **wagyu skewers** and the sushi are the food to order.
 
-**££££ and it books weeks ahead.** Go late and treat it as a bar that feeds you.
+**££££ and it books weeks ahead.** Go late.
 
 ### Jin Kichi, Hampstead
 
 *£££ · 2 min from Hampstead* · Cited by 1 source
 
-**A small family-run izakaya on Heath Street** doing charcoal yakitori at prices that have never caught up with the postcode — which is why it has survived on Hampstead regulars for decades.
+**A small family-run izakaya on Heath Street** doing charcoal yakitori.
 
-**Yakitori** is the order: skewers grilled over binchōtan charcoal, and the whole bird used — thigh, skin, liver, heart, tail — rather than just breast. Sushi and sashimi alongside, and a short list of izakaya plates.
+**Yakitori** is the order: skewers grilled over binchōtan charcoal, using the whole bird — thigh, skin, liver, heart, tail — rather than just breast. Sushi and sashimi alongside, and a short list of izakaya plates.
 
-**£££, closed Monday, and book weeks ahead** — it is small and Hampstead has known about it for forty years. Two minutes from Hampstead station.
+**£££, closed Monday, and book weeks ahead** because it is small. Two minutes from Hampstead station.
 
 ![Salmon roe over grated daikon in a ceramic bowl](../../assets/articles/best-japanese-restaurants-london/jin-kichi.jpg)
 *Jin Kichi, Hampstead. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3955871266), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -221,77 +220,75 @@ Izakaya plates and robata off the grill, built to be eaten alongside a serious c
 
 *££££ · the original* · Cited by 2 sources
 
-The original London Nobu, and **the room that put miso black cod on menus worldwide** — co-founded by Nobu Matsuhisa with Robert De Niro, which makes it the celebrity-owned restaurant in London that is about the food.
+The original London Nobu, **co-founded by Nobu Matsuhisa with Robert De Niro**.
 
-**Black cod with miso** is the dish, marinated for three days and grilled until it flakes — copied by every hotel restaurant on earth and still better here. Yellowtail with jalapeño and the new-style sashimi are the other originals.
+**Black cod with miso** is the dish, marinated for three days and grilled until it flakes. Yellowtail with jalapeño and the new-style sashimi are the other originals.
 
-**££££ and it books weeks ahead.** The Old Park Lane room is the first one; the newer sites are slicker and less interesting.
+**££££ and it books weeks ahead.** Old Park Lane is the first London room.
 
 ### SUSHISAMBA, City of London and Covent Garden
 
 *££££ · 39th floor* · Cited by 2 sources
 
-**An orange tree growing through an open-air terrace on the 39th floor** of Heron Tower — the highest outdoor dining in the City, with the glass lift ride up the outside of the building as part of the experience.
+**An orange tree growing through an open-air terrace on the 39th floor** of Heron Tower, reached by a glass lift up the outside of the building.
 
-Japanese-Peruvian-Brazilian cooking: **sushi and robata** alongside ceviche and churrasco skewers, which sounds scattered and works because the three cuisines share a history. Order across all of them.
+Japanese-Peruvian-Brazilian cooking: **sushi and robata** alongside ceviche and churrasco skewers. Order across all of them.
 
-**££££ and it books weeks ahead.** Ask for a terrace table specifically — inside is a different and lesser proposition. A second, ground-level site in Covent Garden has the food without the view.
+**££££ and it books weeks ahead.** Ask for a terrace table specifically. A second, ground-level site in Covent Garden has the food without the view.
 
 ### Los Mochis, Notting Hill
 
 *££££ · Japanese-Mexican* · Cited by 1 source
 
-**Sashimi and maki on the same menu as ceviche, tiradito and tacos.** It sounds like a gimmick and is not — Japanese-Mexican cooking has a real lineage on Mexico's Pacific coast, and the kitchen treats it seriously.
+**Sashimi and maki on the same menu as ceviche, tiradito and tacos**, in Japanese-Mexican cooking.
 
 Order across the divide: **tuna tostadas**, sashimi dressed with chilli and lime, and tacos built with Japanese cures. The Notting Hill room is the original; a City rooftop site followed.
 
-**££££ and it books ahead**, particularly at weekends. Loud, and designed for a night out rather than a quiet dinner.
+**££££ and it books ahead**, particularly at weekends. Loud, and built for a night out rather than a quiet dinner.
 
 ---
 
 ## Ramen and noodles
 
-The part of Japanese London that has improved most in the last decade, and the part you can eat on any budget.
-
 ### Kanada-Ya, Covent Garden
 
 *£ · no bookings* · Cited by 4 sources
 
-**Tonkotsu broth simmered for eighteen hours** and **no bookings**, which is why there is usually a queue on St Giles High Street — the broth recipe was worked out in Fukuoka before the first London site opened.
+**Tonkotsu broth simmered for eighteen hours** and **no bookings**, so there is usually a queue on St Giles High Street.
 
-Order the **tonkotsu ramen**: pork-bone broth boiled until it turns opaque and heavy, thin Hakata-style noodles cooked to your stated firmness, and chāshū on top. Order the noodles *barikata* if you like them firm; the kitchen will do it.
+Order the **tonkotsu ramen**: pork-bone broth boiled until it turns opaque, thin Hakata-style noodles cooked to your stated firmness, and chāshū on top. Ask for the noodles *barikata* if you like them firm.
 
-**£, walk-in only. The queue is shortest before noon and after 2pm** — it is longest at exactly the hour you would normally go.
+**£, walk-in only. The queue is shortest before noon and after 2pm.**
 
 ### Monohon Ramen, Old Street
 
 *£ · walk-in* · Cited by 4 sources
 
-**The specialist's choice**, doing a lighter, cleaner broth than the tonkotsu shops — and taken seriously enough by ramen obsessives that it is named by four independent sources.
+**Ramen with the noodles made in house every day**, named by four independent sources.
 
-The house style is **shoyu and shio** rather than the heavy pork-bone broth everyone else leads with: clearer, more savoury, and easier to finish. Noodles are firmer than the chains serve, and the toppings are restrained on purpose.
+The core bowls are **shouyu tonkotsu** (soy seasoning in a creamy pork-bone soup) and a spicy version, with soupless **abura soba** and mazemen on the menu too.
 
-**£, walk-in only.** Old Street, and quieter than the Covent Garden ramen queues at almost every hour.
+**£, walk-in only.** Old Street.
 
 ### Koya Ko, Bloomsbury
 
 *£ · udon* · Cited by 2 sources
 
-**Hand-cut udon rather than ramen**, in a broth made to order — thicker, chewier and considerably more interesting than the noodles most people mean by Japanese noodle soup.
+**Hand-cut udon rather than ramen**, in a broth made to order.
 
-The udon is made in-house and cut by hand, and the classic order is **kake udon** — the plainest bowl, hot dashi and nothing else — which is how you judge whether a udon shop is any good. **Kamatama**, the raw-egg version, and a walnut miso are the two to try after it.
+The udon is made in-house and cut by hand. The classic order is **kake udon**, hot dashi and nothing else. **Kamatama**, the raw-egg version, and a walnut miso are the two to try after it.
 
-**£, walk-in.** There are several Koya sites; this one and the Broadway Market outpost have the same noodles without the Soho queue.
+**£, walk-in.** There are several Koya sites; this one and the Broadway Market outpost avoid the Soho queue.
 
 ### Cocoro, Bloomsbury
 
 *££ · Japanese home cooking* · Cited by 2 sources
 
-Neither sushi counter nor ramen shop — **everyday Japanese home cooking**, and open since 2006. The sort of place Japanese office groups and families actually eat, which is the strongest recommendation a Japanese restaurant in London can have.
+Neither sushi counter nor ramen shop: **everyday Japanese home cooking**, open since 2006.
 
-**Donburi and set meals** are the format: rice bowls topped with grilled fish, katsu or beef, with miso soup and pickles. Sushi and **sukiyaki** are on the menu too, and the **tonkotsu ramen** punches well above the room.
+**Donburi and set meals** are the format: rice bowls topped with grilled fish, katsu or beef, with miso soup and pickles. Sushi, **sukiyaki** and **tonkotsu ramen** are on the menu too.
 
-**££, walk-in, and cheap for Bloomsbury.** Lunch sets are the best value on the page.
+**££, walk-in.** Lunch sets are the cheapest way in.
 
 ---
 
@@ -299,37 +296,35 @@ Neither sushi counter nor ramen shop — **everyday Japanese home cooking**, and
 
 ## Everyday and best value
 
-Omakase counters get the attention, but the everyday end of Japanese London is where most of the eating happens — and it is cheap.
-
 #### Under £15
 
-* **Kanada-Ya**, Covent Garden — a bowl of eighteen-hour tonkotsu for less than a central London sandwich.
-* **Koya Ko**, Bloomsbury — hand-cut udon, and the breakfast service is cheaper still.
+* **Kanada-Ya**, Covent Garden — eighteen-hour tonkotsu ramen.
+* **Koya Ko**, Bloomsbury — hand-cut udon, with a cheaper breakfast service.
 * **Marugame Udon** — a canteen where you walk the line watching the noodles being cut, under £12, with sites across London.
-* **Monohon** and **Tonkotsu** — both consistent, both around the same money.
+* **Monohon** and **Tonkotsu** — ramen at around the same money.
 
 #### Markets and food halls
 
-* **Seven Dials Market**, Covent Garden — Japanese counters in a two-floor food hall, and the best way to eat one good dish without committing to a restaurant.
+* **Seven Dials Market**, Covent Garden — Japanese counters in a two-floor food hall, for one dish without committing to a restaurant.
 * **Arcade Food Hall** at Centre Point and Battersea Power Station carries several Japanese and Japanese-adjacent counters, generally around £10–£14 a dish.
-* **Japan Centre**, Panton Street — as much a food shop as a restaurant. The bento and onigiri counter is the cheapest authentic Japanese food in the West End, and the supermarket behind it is where Londoners buy the ingredients.
+* **Japan Centre**, Panton Street — a food shop as much as a restaurant, with a bento and onigiri counter and a Japanese supermarket behind it.
 
 #### Worth the money rather than cheap
 
-* **Jin Kichi**, Hampstead — charcoal yakitori, and the best value-for-quality on this page.
-* **Cocoro** — home-style set meals, the category London under-serves.
-* **Akira at Japan House**, Kensington — sourcing directly from Japan, with bento and donburi built on produce nowhere else here has.
-* **Lunch sets** at the omakase counters run at a fraction of dinner for the same fish. This is the biggest saving in this guide.
+* **Jin Kichi**, Hampstead — charcoal yakitori.
+* **Cocoro** — home-style set meals.
+* **Akira at Japan House**, Kensington — bento and donburi on produce sourced directly from Japan.
+* **Lunch sets** at the omakase counters cost a fraction of dinner.
 
 ---
 
 ## What to know
 
 * **Book omakase weeks ahead.** Sushi Tetsu releases in batches; set a reminder.
-* **Lunch is materially cheaper** at almost every counter here, for the same kitchen.
+* **Lunch is cheaper** at most counters here, from the same kitchen.
 * **Izakaya is for sharing** and ordering in waves, not for a starter and a main.
-* **The budget end is thin.** If you want cheap Japanese food in London, ramen and udon are the answer.
-* **Service charge** of 12.5% is discretionary and standard.
+* **Cheap Japanese food in London means ramen and udon.**
+* **Service charge** is typically 12.5% and discretionary.
 
 ---
 
