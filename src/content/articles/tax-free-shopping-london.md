@@ -3,7 +3,8 @@ title: "Tax-Free Shopping in London: There Is No VAT Refund — Here's What Actu
 seoTitle: "Tax-Free Shopping in London 2026: No VAT Refund"
 description: "No: visitors can't claim VAT back on shopping in London, and haven't since 2021. The one way to buy tax-free, the shops that do it, and what airport duty free really saves."
 publishedAt: 2026-07-03
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2026-10-29
 sites:
   - london
 canonicalSite: london
@@ -30,7 +31,7 @@ faq:
   - q: "Does the VAT refund still exist in Scotland, Wales or Northern Ireland?"
     a: "Not in Scotland or Wales — the scheme was withdrawn from the whole of Great Britain on 1 January 2021. It survives in Northern Ireland for visitors who live outside both Northern Ireland and the EU, using form VAT407 signed in front of the shop assistant. It does not help a London trip: you get no refund if you travel from Northern Ireland straight to Great Britain, or to Great Britain through an EU country."
   - q: "Can EU visitors claim VAT back in the UK?"
-    a: "No. EU visitors were never in the old scheme and are not in anything now. They can use the same shop-and-ship route as everyone else, and it is worth more to them than to anyone: the EU allowance for air travellers is €430 and the value of a single item cannot be split across it, so an expensive thing carried home in a suitcase can attract UK VAT and home import VAT on the same purchase."
+    a: "No. EU visitors were never in the old scheme and are not in anything now. They can use the same shop-and-ship route as everyone else. The EU allowance for air travellers is €430 and a single item cannot be split across it, so an expensive item carried home can attract UK VAT and import VAT on the same purchase."
   - q: "Is Bicester Village tax-free?"
     a: "At fourteen named boutiques, and only if they ship it. Bicester Village publishes a tax-free international shipping list — Annoushka, Aquazzura, Balenciaga, Balmain, Bottega Veneta, Brioni, Brunello Cucinelli, Dunhill, Lalique, Loro Piana, Manolo Blahnik, Missoni, Thom Browne and Zegna. Everything else at the Village is ordinary UK retail with VAT in the price."
   - q: "Is duty free at Heathrow actually worth it?"
@@ -39,22 +40,20 @@ faq:
 
 **No. Visitors cannot claim the 20% VAT back on shopping in London, and have not been able to since 1 January 2021.** There is no refund desk at Heathrow, no form to get stamped, and no app that can do it for you.
 
-**Checked against HMRC guidance on 3 September 2026, and nothing has changed** — the most recent Budget, delivered on 26 November 2025, did not mention it.
-
 > 💡 **The Short Version:** The VAT Retail Export Scheme **ended on 1 January 2021** and has not come back. **One thing still works:** if the shop ships your purchase to an overseas address, **VAT comes off at the till** — worth **£250 on a £1,500 handbag**. **Harrods, Selfridges and fourteen Bicester Village boutiques** run that service. **Airside "duty free" only saves tax on alcohol and tobacco**; everything else at the airport still has 20% VAT in it. And **books, children's clothes and most food carry no VAT for anybody**.
 
 ---
 
 ## What happened, and whether it's coming back
 
-Until the end of 2020, Britain worked like France or Italy: an overseas visitor filled in a form in the shop, had it stamped at the airport, and got the VAT back. Two things ended on **1 January 2021**, both confirmed in HMRC's [Revenue and Customs Brief 21 (2020)](https://www.gov.uk/government/publications/revenue-and-customs-brief-21-2020-withdrawal-of-the-vat-retail-export-scheme-and-the-tax-free-shopping-concession):
+Until the end of 2020 an overseas visitor filled in a form in the shop, had it stamped at the airport, and got the VAT back. Two things ended on **1 January 2021**, both confirmed in HMRC's [Revenue and Customs Brief 21 (2020)](https://www.gov.uk/government/publications/revenue-and-customs-brief-21-2020-withdrawal-of-the-vat-retail-export-scheme-and-the-tax-free-shopping-concession):
 
 * **The VAT Retail Export Scheme was withdrawn from Great Britain** — England, Scotland and Wales.
-* **The airside tax-free shopping concession was withdrawn across the whole UK**, which is why an airport shop can no longer sell you a VAT-free camera or coat.
+* **The airside tax-free shopping concession was withdrawn across the whole UK**, so an airport shop can no longer sell you a VAT-free camera or coat.
 
-GOV.UK's wording is unambiguous: **"The VAT Retail Export Scheme is no longer available in Great Britain (England, Scotland and Wales)."** You can only buy tax-free in Great Britain if the goods are **delivered straight to an address outside the UK**.
+GOV.UK says the scheme is no longer available in Great Britain. You can only buy tax-free in Great Britain if the goods are **delivered straight to an address outside the UK**.
 
-**Is it coming back?** Reinstatement was announced in the September 2022 Growth Plan, then dropped weeks later and never confirmed as policy. The Office for Budget Responsibility has since put the saving from keeping the scheme abolished at **around £539 million in 2025-26**, and concluded the case for reversing it is weaker than campaigners claim. Retail and tourism bodies keep lobbying. As of **3 September 2026 nothing has changed**, and the Budget of 26 November 2025 was silent on it.
+**Is it coming back?** Reinstatement was announced in the September 2022 Growth Plan, then dropped weeks later. The Office for Budget Responsibility has put the saving from keeping the scheme abolished at **around £539 million in 2025-26**. Retail and tourism bodies keep lobbying. As of **26 October 2026** nothing has changed; the next Budget is on **28 October 2026**.
 
 > ⚠️ **Northern Ireland is the one exception.** The scheme still runs there for visitors who live outside both Northern Ireland and the EU — but you get nothing if you travel from Northern Ireland straight to Great Britain, or to Great Britain through an EU country, so it is no use on a London trip.
 
@@ -64,23 +63,23 @@ GOV.UK's wording is unambiguous: **"The VAT Retail Export Scheme is no longer av
 
 ## What still works: shop and ship
 
-**If the retailer arranges the export, the sale is zero-rated and the VAT comes off at the till.** This is not a loophole; it is ordinary export law, set out in [VAT Notice 703](https://www.gov.uk/guidance/vat-on-goods-exported-from-the-uk-notice-703), and HM Treasury said so at the time: overseas visitors "will still be able to buy items VAT-free in store and have them sent direct to their overseas addresses".
+**If the retailer arranges the export, the sale is zero-rated and the VAT comes off at the till.** This is ordinary export law, set out in [VAT Notice 703](https://www.gov.uk/guidance/vat-on-goods-exported-from-the-uk-notice-703).
 
 **Two conditions decide it.** The shop must arrange the shipping — not you — and the goods must leave the UK within three months.
 
-What each retailer publishes on its own site, checked on 3 September 2026:
+Retailer terms as published on 3 September 2026:
 
 | Retailer | VAT off at the till? | Shipping cost | Delivery time | How it works |
 | --- | --- | --- | --- | --- |
 | **Harrods** | **Yes** | Flat rate by destination. Online rates: **USA $30, Hong Kong HK$240, Europe €25** | USA **4–7 days**, Hong Kong **3–5**, Europe **3–10** | Register at Customer Service, **Third Floor**, or tell your personal shopper, **before you shop**. Also available remotely via Personal Shopping |
-| **Selfridges** | **Yes** | **£15 to the EU, £25 rest of world** | Not published | Tax-Free Shipping, in store or by **one-to-one video appointment**. Open to "anyone shipping items to a non-UK address" |
+| **Selfridges** | **Yes** | **£15 to the EU, £25 rest of world** | Not published | Tax-Free Shipping, in store or by **one-to-one video appointment**. Open to anyone shipping items to a non-UK address |
 | **Bicester Village** | **Yes, at 14 boutiques** | Not published — varies by size and destination | **Within 7 working days** | Ask in the boutique. VAT deducted, delivery added, duties estimated |
-| **Liberty** | **Online only** | **USA $20** (free over $200), **Europe €8** (free over €175), **Europe express €25** | USA **up to 5 days**, Europe **up to 7** | No in-store service. Liberty's help centre is blunt: overseas visitors "will no longer be able to obtain VAT refunds on items purchased in-store". Online prices to overseas addresses **exclude UK VAT** |
-| **Apple** | **No, and no route** | — | — | Apple's UK store "will not be delivered to any address outside the United Kingdom and the Isle of Man" |
+| **Liberty** | **Online only** | **USA $20** (free over $200), **Europe €8** (free over €175), **Europe express €25** | USA **up to 5 days**, Europe **up to 7** | No in-store service: overseas visitors can no longer obtain VAT refunds on in-store purchases. Online prices to overseas addresses **exclude UK VAT** |
+| **Apple** | **No, and no route** | — | — | Apple's UK store does not deliver outside the United Kingdom and the Isle of Man |
 
-**At Bicester Village the list is short and named:** **Annoushka, Aquazzura, Balenciaga, Balmain, Bottega Veneta, Brioni, Brunello Cucinelli, Dunhill, Lalique, Loro Piana, Manolo Blahnik, Missoni, Thom Browne and Zegna**. A wider set of brands will ship abroad *with* the VAT still in the price, which is not the same thing. Ask which you are being offered.
+**At Bicester Village the list is short and named:** **Annoushka, Aquazzura, Balenciaga, Balmain, Bottega Veneta, Brioni, Brunello Cucinelli, Dunhill, Lalique, Loro Piana, Manolo Blahnik, Missoni, Thom Browne and Zegna**. Other brands will ship abroad *with* the VAT still in the price; ask which you are being offered.
 
-> ⚠️ **You cannot do the shipping yourself.** VAT Notice 703 blocks zero-rating where goods are sold to "an overseas visitor, for their personal (non-commercial) use, who intends to export the goods in accompanied baggage". Pay in the shop, walk out with the bag and post it from your hotel, and the VAT has already gone.
+> ⚠️ **You cannot do the shipping yourself.** Pay in the shop, walk out with the bag and post it from your hotel, and the VAT has already gone: VAT Notice 703 blocks zero-rating for goods a visitor takes out in their own baggage.
 
 ---
 
@@ -90,12 +89,12 @@ What each retailer publishes on its own site, checked on 3 September 2026:
 
 **"Duty free" and "tax free" are two different things, and only one of them survived.**
 
-* **Excise duty on alcohol and tobacco is removed airside** — and since January 2021 that applies to **EU-bound flights too**, which it did not before. The only passengers who cannot buy duty free are those flying between two UK destinations with no onward international travel, which is why your boarding pass is checked.
+* **Excise duty on alcohol and tobacco is removed airside**, and since January 2021 that applies to **EU-bound flights too**. Passengers flying between two UK destinations with no onward international travel cannot buy duty free.
 * **VAT is not removed on anything else.** Fragrance, cosmetics, sunglasses, fashion, luggage, watches and electronics all still carry **20% VAT** at the airport. Any saving is a shop discount.
 
-The published discounts show the shape of it. Gatwick's World Duty Free advertises **up to 50% off selected spirits** and **up to 40% off selected fragrance**, but only **up to 20% off sunglasses**. On Heathrow's own boutique site the luxury end barely moves: an Aspinal Mayfair Bag at **£541 against £650**, but a **Chanel J12 watch at £5,000 and a Burberry tote at £1,250 with no discount at all**.
+Discounts are shop discounts, not tax. Gatwick's World Duty Free advertises **up to 50% off selected spirits** and **up to 40% off selected fragrance**, but only **up to 20% off sunglasses**.
 
-**Reserve and collect is the one free win**, because the pre-order discount stacks on top:
+**Reserve and collect** adds a pre-order discount:
 
 | Airport | Service | Discount | Book by |
 | --- | --- | --- | --- |
@@ -110,13 +109,13 @@ The published discounts show the shape of it. Gatwick's World Duty Free advertis
 
 Some things carry **no VAT for anyone**, resident or visitor: **printed books, newspapers and magazines; children's clothes, footwear and babywear; and most food** — though restaurant meals, hot takeaway, confectionery, crisps and alcohol are all standard-rated, and children's car seats are 5% rather than zero.
 
-**This is the only tax-free thing a visitor can carry out of a London shop**, and it is why a Fortnum's hamper or an armful of books from Daunt beats a comparable piece of fashion on value.
+**This is the only tax-free thing a visitor can carry out of a London shop.**
 
 ---
 
 ## What you'll pay when you get home
 
-**Removing UK VAT is only half the sum.** Your own country then wants its share. These are the published allowances, and nothing more — check your own customs authority before you spend.
+**Removing UK VAT is only half the sum**: your own country then wants its share. Check your own customs authority before you spend.
 
 | Home market | Allowance on what you bring in |
 | --- | --- |
@@ -128,18 +127,18 @@ Some things carry **no VAT for anyone**, resident or visitor: **printed books, n
 | **South Korea** | **US$800** basic exemption |
 | **China** | **RMB 5,000** for residents, **RMB 2,000** for non-residents |
 
-> ⚠️ **Americans shipping home should read that second row twice.** Until August 2025 a parcel under $800 arrived clean. It no longer does. Harrods and Selfridges will both quote you an estimate of the destination charges at the till — take it.
+> ⚠️ **Americans shipping home: read that second row twice.** Until August 2025 a parcel under $800 arrived clean. Harrods and Selfridges will both quote an estimate of the destination charges at the till.
 
 ---
 
 ## Traps to avoid
 
-**Anything promising a UK VAT refund on a London purchase is wrong, out of date, or selling you something else.** The specific things to watch for:
+**Anything promising a UK VAT refund on a London purchase is wrong, out of date, or selling you something else.**
 
-* **Apps and websites offering "UK VAT refunds".** Several operate legitimately in France, Spain and Italy and have simply not updated their UK page. GOV.UK is the authority, and it says the scheme is gone.
-* **Refund forms.** Form VAT407 exists, but only for Northern Ireland, and it must be signed **in front of the shop assistant** at an NI retailer. A form obtained in Great Britain, or downloaded, is worthless — Border Force will not stamp it.
+* **Apps and websites offering "UK VAT refunds".** Several operate in France, Spain and Italy but still list the UK.
+* **Refund forms.** Form VAT407 exists, but only for Northern Ireland, and it must be signed **in front of the shop assistant** at an NI retailer. A form obtained in Great Britain, or downloaded, is worthless.
 * **"Tax free" signs in shop windows.** In London this almost always means shop-and-ship. The question that settles it: *do you take the VAT off at the till if you ship it to my home address?*
-* **Airport refund desks.** Signage and leaflets from before 2021 still circulate. There is no VAT refund desk at a Great Britain airport.
+* **Airport refund desks.** There is no VAT refund desk at a Great Britain airport, whatever old signage says.
 
 ---
 
@@ -153,9 +152,9 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 | --- | --- | --- | --- |
 | **US visitor** | **£1,500.** Far above the $800 exemption, so declarable on arrival | **£1,250 + £25 = £1,275.** Saves **£225** — then US duty and fees on the full declared value, because there is no de minimis any more | **No tax saving.** 20% VAT is still in the price; only the shop's own discount applies |
 | **EU visitor** | **£1,500** — then import VAT at home on the **whole** value, because the €430 allowance cannot be split across one item. **You can end up taxed twice** | **£1,250 + £15 = £1,265**, with EU import VAT and duty estimated at the till and settled on or before delivery. **One lot of tax instead of two** | **No tax saving**, and the €430 allowance still applies when you land |
-| **Gulf visitor (UAE)** | **£1,500.** Above the AED 3,000 allowance, so 5% duty plus VAT on the excess | **£1,250 + shipping.** UAE charges roughly **5% duty plus 5% VAT** on the declared value — far less than the £250 removed. **The best case of the three** | **No tax saving** |
+| **Gulf visitor (UAE)** | **£1,500.** Above the AED 3,000 allowance, so 5% duty plus VAT on the excess | **£1,250 + shipping.** UAE charges roughly **5% duty plus 5% VAT** on the declared value — far less than the £250 removed | **No tax saving** |
 
-**The pattern holds at every price.** Shipping saves the VAT minus £15–£25 of postage. Carrying it home saves nothing. And for an EU visitor, carrying it home is actively the worst option available.
+**The pattern holds at every price.** Shipping saves the VAT minus £15–£25 of postage; carrying it home saves nothing, and for an EU visitor it can mean paying tax twice.
 
 ---
 
@@ -163,13 +162,12 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 
 ## Ways to spend less anyway
 
-* **Bicester Village.** Direct from **London Marylebone in 56 minutes** on Chiltern Railways, and the station is a **two-minute walk** from the Village. The thing that catches people out: **Oyster and contactless are not valid** on that line, so buy a ticket. There is a Bicester kiosk at Marylebone, open 08:45–16:30 daily.
+* **Bicester Village.** Direct from **London Marylebone in 56 minutes** on Chiltern Railways, and the station is a **two-minute walk** from the Village. **Oyster and contactless are not valid** on that line, so buy a ticket; there is a Bicester kiosk at Marylebone, open 08:45–16:30 daily.
 * **The sales.** Late December into January, and late June into July — deeper than the year-round outlet discounts, and no shipping to arrange.
-* **Buy British here.** Trench coats, waxed jackets, English shoes, cashmere, Liberty fabric and Jermyn Street shirts are cheaper in London than abroad even with the 20% in the price. **Electronics are not** — and with Apple's UK store refusing to ship abroad, there is no route around it.
 
 ---
 
-*Every legal and policy fact above comes from GOV.UK, HMRC notices or the retailer's own website, and every figure was checked on **3 September 2026**. Rules change; retailer terms change faster. Confirm with the shop before you commit to a £1,500 purchase.*
+*Policy as of 26 October 2026; retailer terms as published on 3 September 2026. Confirm with the shop before you commit to a £1,500 purchase.*
 
 ---
 
