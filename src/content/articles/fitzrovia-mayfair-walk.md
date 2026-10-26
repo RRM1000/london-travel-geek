@@ -9,7 +9,8 @@ heroImageSource: https://www.flickr.com/photos/16801915@N06/3282398164
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-07-11
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -30,15 +31,13 @@ faq:
     a: "The courtyard and the John Madejski Fine Rooms are free; the main exhibitions are ticketed. The RA is closed on Mondays. The Fine Rooms open Tuesday to Sunday from 11am to 4pm, and until 9pm on Fridays."
 ---
 
-Most people get from Fitzrovia to Mayfair along Oxford Street, which is the worst way to do it. Behind it runs a chain of squares, churches and arcades that takes you from one to the other almost without touching a shopping street.
+**This route follows a chain of squares, churches and arcades behind Oxford Street** north to south, from Fitzroy Square to Green Park: eleven numbered stops, **5.6km, about 75 minutes of walking and three to four hours with stops**. Almost all of it is free.
 
-**This route follows that chain north to south**, from Fitzroy Square to Green Park: eleven numbered stops, **5.6km, about 75 minutes of walking and three to four hours with stops**. Almost all of it is free.
-
-The drawback is the calendar. **The Royal Academy is shut on Mondays, St George's Hanover Square on Saturdays, and two of the three Savile Row tailors below at weekends**, so the day you pick changes what you see.
+**The Royal Academy is shut on Mondays, St George's Hanover Square on Saturdays, and two of the three Savile Row tailors below at weekends.**
 
 For the rest of both areas, see the [Fitzrovia area guide](/articles/fitzrovia-area-guide/) and the [Mayfair area guide](/articles/mayfair-area-guide/).
 
-> 💡 **The Short Version:** Walk it **Tuesday to Friday**. On a Sunday, start by 10am, because **St George's shuts at noon**. **Burlington and Piccadilly arcades open seven days.** The newest stop is **Grosvenor Square**, reopened in July 2026 as a wildlife garden with toilets and a café kiosk. The quietest is **Mount Street Gardens**, which almost nobody finds.
+> 💡 **The Short Version:** Walk it **Tuesday to Friday**. On a Sunday, start by 10am, because **St George's shuts at noon**. **Burlington and Piccadilly arcades open seven days.** The newest stop is **Grosvenor Square**, reopened in July 2026 as a wildlife garden with toilets and a café kiosk.
 
 ## The route
 
@@ -58,7 +57,7 @@ For the rest of both areas, see the [Fitzrovia area guide](/articles/fitzrovia-a
   </noscript>
 </details>
 
-**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.52299,-0.139503&destination=51.505,-0.144&waypoints=51.519507,-0.13582%7C51.517324,-0.138967%7C51.512576,-0.142787%7C51.510734,-0.140219%7C51.509005,-0.1402%7C51.507983,-0.139031%7C51.511524,-0.151389%7C51.509309,-0.150547%7C51.506653,-0.146405&travelmode=walking)** — all eleven stops in walking order, set to walking directions, which is the version to put on your phone.
+**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.52299,-0.139503&destination=51.505,-0.144&waypoints=51.519507,-0.13582%7C51.517324,-0.138967%7C51.512576,-0.142787%7C51.510734,-0.140219%7C51.509005,-0.1402%7C51.507983,-0.139031%7C51.511524,-0.151389%7C51.509309,-0.150547%7C51.506653,-0.146405&travelmode=walking)** — all eleven stops in walking order, set to walking directions.
 
 | # | Stop | Cost | Open |
 | --- | --- | --- | --- |
@@ -79,9 +78,9 @@ For the rest of both areas, see the [Fitzrovia area guide](/articles/fitzrovia-a
 
 ## 1. Fitzroy Square
 
-**Fitzrovia's one set piece.** Robert Adam designed the east and south sides in Portland stone, and the square is pedestrianised, so it is quiet at any hour.
+Robert Adam designed the east and south sides in Portland stone, and the square is pedestrianised.
 
-Virginia Woolf and George Bernard Shaw both lived at number 29, in different decades. The garden in the middle is private; the pavements are not. More names are on our [plaques map](/plaques/?area=fitzrovia).
+Virginia Woolf and George Bernard Shaw both lived at number 29, in different decades. The garden in the middle is private. More names are on our [plaques map](/plaques/?area=fitzrovia).
 
 ![The cream Georgian terrace at Fitzroy Square with a blue plaque and door at number 29](../../assets/articles/fitzrovia-mayfair-walk/fitzroy-square-terrace.jpg)
 
@@ -99,7 +98,7 @@ Leave by Fitzroy Street, heading south.
 
 Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building from 1964 to 1980 and closed to visitors for decades.
 
-**Charlotte Street** is why Fitzrovia is on anyone's list: the densest run of good restaurants in this part of London. The **Fitzroy Tavern**, where Orwell and Dylan Thomas drank, gave the area its name. At this hour it is a street to note for dinner rather than to stop in.
+**Charlotte Street** is lined with restaurants. The **Fitzroy Tavern**, where Orwell and Dylan Thomas drank, gave the area its name. At this hour it is a street to note for dinner.
 
 > 💡 **The detour: the Fitzrovia Chapel.** Two minutes off the route on Pearson Square, the last surviving piece of the Middlesex Hospital, with a ceiling of gold mosaic behind a plain brick front. **Free, no booking**, and open most Mondays, Tuesdays and Wednesdays, 11am to 5pm, plus at least one Sunday a month. During exhibitions it usually opens daily.
 
@@ -109,7 +108,7 @@ Fitzroy Street runs past the foot of the **BT Tower**, London's tallest building
 
 ## 3. All Saints, Margaret Street
 
-**One of the most intensely decorated church interiors in London, thirty seconds from Oxford Street.** William Butterfield's Victorian Gothic church sits back from Margaret Street behind a small courtyard, which is why almost everyone walks past it.
+**William Butterfield's Victorian Gothic church** sits back from Margaret Street behind a small courtyard, thirty seconds from Oxford Street.
 
 **Free, and open every day from 11am to 7pm.** Mass is at noon on weekdays and 11am on Sundays, so time the visit around it.
 
@@ -123,7 +122,7 @@ Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Squ
 
 **Hanover Square** is where the Elizabeth line's eastern entrance to Bond Street station comes up, which makes it the natural halfway exit.
 
-**St George's** is a minute south on St George Street: built 1721–24 by John James, with a *Last Supper* painted for the church by William Kent in 1724 and early 16th-century Flemish glass. **Handel worshipped here**, and the London Handel Festival still is here.
+**St George's** is a minute south on St George Street: built 1721–24 by John James, with a *Last Supper* painted for the church by William Kent in 1724 and early 16th-century Flemish glass. **Handel worshipped here**, and the London Handel Festival is held here.
 
 > ⚠️ **St George's is closed on Saturdays**, apart from weddings and services. On **Sundays it opens only 8am to noon**. Monday to Friday it opens 8.30am to 4pm, and until 6pm on Wednesdays.
 
@@ -135,7 +134,7 @@ Then cross Oxford Street at Oxford Circus and take Princes Street to Hanover Squ
 
 ## 5. Savile Row
 
-Along Conduit Street and turn right down **Savile Row**, the street that gave bespoke tailoring its address.
+Go along Conduit Street and turn right down **Savile Row**.
 
 **Huntsman at No. 11** supplied the Kingsman films with their premise. **Gieves & Hawkes at No. 1** is at the far end. **No. 3** is where the Beatles played their last live performance, on the roof, in January 1969.
 
@@ -157,11 +156,11 @@ Turn right along Burlington Gardens and enter **Burlington Arcade** from its nor
 
 Out on Piccadilly, turn left into the courtyard of **Burlington House**, home of the **Royal Academy**. The courtyard and the **John Madejski Fine Rooms** are free; the main exhibitions are ticketed. Backpacks and large bags cannot go into the galleries.
 
-> ⚠️ **The RA is closed on Mondays.** It opens Tuesday to Sunday from 10am, until 6pm except on Fridays and Saturdays, when it stays open until 9pm. The free Fine Rooms open Tuesday to Sunday, 11am to 4pm. The back entrance on Burlington Gardens is shut until spring 2027 while the Collection Gallery is expanded, so go in from Piccadilly.
+> ⚠️ **The RA is closed on Mondays.** It opens Tuesday to Sunday from 10am, until 6pm except on Fridays and Saturdays, when it stays open until 9pm. The free Fine Rooms open Tuesday to Sunday, 11am to 4pm. The back entrance on Burlington Gardens is shut until autumn 2027 while the Collection Gallery is expanded, so go in from Piccadilly.
 
 ## 7. Piccadilly Arcade and Jermyn Street
 
-**Directly opposite the RA**, and quieter than Burlington. It runs through to **Jermyn Street**, the shirtmakers' street, where a statue of Beau Brummell stands at the arcade's end.
+**Directly opposite the RA.** It runs through to **Jermyn Street**, the shirtmakers' street, where a statue of Beau Brummell stands at the arcade's end.
 
 **Open Monday to Thursday 9am to 6.30pm, Friday and Saturday until 8pm, and Sunday 10.30am to 6.30pm.**
 
@@ -173,9 +172,9 @@ From here the route swings west. Follow Jermyn Street to St James's Street, go u
 
 ## 8. Grosvenor Square
 
-**Reopened on 20 July 2026** after a £25m redesign by the Grosvenor estate, only the fourth in the square's 300 years. It is now a wildlife garden of 150,000 plants and bulbs around the reinstated 1720s oval. The memorials to Franklin D. Roosevelt, the Eagle Squadrons and the victims of 9/11 have all stayed. The US Embassy stood on the west side until 2018.
+**Reopened on 20 July 2026** after a £25m redesign by the Grosvenor estate. It is now a wildlife garden of 150,000 plants and bulbs around the reinstated 1720s oval. The memorials to Franklin D. Roosevelt, the Eagle Squadrons and the victims of 9/11 have all stayed.
 
-**Free, and open 7am to 9pm in summer and 7am to 6pm in winter.** It is also the best-equipped stop on the route: toilets, drinking-water fountains, and a café kiosk run by London Wildlife Trust from 8am to 5pm daily (4pm in winter).
+**Free, and open 7am to 9pm in summer and 7am to 6pm in winter.** It has toilets, drinking-water fountains and a café kiosk run by London Wildlife Trust from 8am to 5pm daily (4pm in winter).
 
 ![The Franklin D. Roosevelt memorial statue among trees and planting in the redesigned Grosvenor Square](../../assets/articles/fitzrovia-mayfair-walk/grosvenor-square-garden.jpg)
 
@@ -185,7 +184,7 @@ From here the route swings west. Follow Jermyn Street to St James's Street, go u
 
 Leave by Carlos Place for **Mount Street**, a run of pink terracotta built by the Grosvenor estate in the 1880s. Walk west to **The Audley** on the corner, turn left down South Audley Street, and go into the gardens beside Grosvenor Chapel.
 
-**Mount Street Gardens** was the burial ground of St George's, stop four. Burials ended in 1854 and it has been a public garden since 1889: plane trees, lawns and benches, walled in by mansion blocks. **Free, and the best place to sit down in W1.**
+**Mount Street Gardens** was the burial ground of St George's, stop four. Burials ended in 1854 and it has been a public garden since 1889: plane trees, lawns and benches, walled in by mansion blocks. **Free.**
 
 ![A path lined with benches under plane trees in Mount Street Gardens, with red-brick mansion blocks behind](../../assets/articles/fitzrovia-mayfair-walk/mount-street-gardens-benches.jpg)
 
@@ -195,7 +194,7 @@ Leave by the Farm Street side, past the Jesuit **Church of the Immaculate Concep
 
 ## 10. Shepherd Market
 
-South to Curzon Street and through the passages into **Shepherd Market**, built on the site of the May Fair that named the district: narrow lanes, two-storey buildings and no chains.
+South to Curzon Street and through the passages into **Shepherd Market**, built on the site of the May Fair that named the district: narrow lanes and two-storey buildings.
 
 ![A narrow pedestrian lane in Shepherd Market lined with independent shopfronts, including a barber and a restaurant](../../assets/articles/fitzrovia-mayfair-walk/shepherd-market-lane.jpg)
 
@@ -209,7 +208,7 @@ Leave by White Horse Street to Piccadilly.
 
 ## 11. Green Park
 
-Cross Piccadilly and you are in it. **Charles II made the park in 1660** so he could walk between Hyde Park and St James's Park without leaving royal land. There are no formal flowerbeds, just trees and grass, with the Canada Memorial at the eastern end and the Bomber Command Memorial at the west.
+Cross Piccadilly and you are in it. There are no formal flowerbeds, just trees and grass, with the Canada Memorial at the eastern end and the Bomber Command Memorial at the west.
 
 ![The bronze figures of RAF aircrew at the Bomber Command Memorial in Green Park, sheltered under its open roof](../../assets/articles/fitzrovia-mayfair-walk/green-park-bomber-command-memorial.jpg)
 
@@ -225,7 +224,7 @@ The three stops built for it:
 - **The Audley** (££) at stop nine — a restored Victorian pub, **walk-ins only**. Food runs Monday to Saturday noon to 10pm and Sunday noon to 9pm, with a roast on Sundays.
 - **Ye Grapes** (£) at stop ten — food at weekday lunchtimes (noon to 3.30pm) and evenings, and noon to 9pm at weekends.
 
-For dinner, the walk starts on the best street for it: the [Fitzrovia guide's table](/articles/fitzrovia-area-guide/#where-to-eat-and-drink) covers Charlotte Street, and the [Mayfair guide](/articles/mayfair-area-guide/#where-to-eat-and-drink) the other end.
+For dinner, the [Fitzrovia guide's table](/articles/fitzrovia-area-guide/#where-to-eat-and-drink) covers Charlotte Street, and the [Mayfair guide](/articles/mayfair-area-guide/#where-to-eat-and-drink) the other end.
 
 ## The best day to go
 
@@ -238,7 +237,7 @@ For dinner, the walk starts on the best street for it: the [Fitzrovia guide's ta
 | **Saturday** | **St George's closed.** Henry Poole shut, Huntsman until 3pm |
 | **Sunday** | **St George's until noon only.** Huntsman and Henry Poole shut |
 
-**Sunday is better than it sounds.** Both arcades open, so do Gieves & Hawkes and the RA's Fine Rooms, and Mayfair's streets are empty. Start at Fitzroy Square by 10am and you reach St George's before it shuts.
+**On a Sunday** both arcades, Gieves & Hawkes and the RA's Fine Rooms are open. Start at Fitzroy Square by 10am to reach St George's before it shuts.
 
 **What never closes:** Fitzroy Square, Charlotte Street, Savile Row's shopfronts and Mount Street. The gardens and Green Park keep their own hours, but all are open by 7am.
 
@@ -250,7 +249,7 @@ For dinner, the walk starts on the best street for it: the [Fitzrovia guide's ta
 
 **To cut it short**, leave at Bond Street's Elizabeth line entrance on Hanover Square (stop four), or at Green Park station after stop seven.
 
-Walked in reverse it works equally well and finishes by Charlotte Street at dinner time, which is the argument for an afternoon start.
+Walked in reverse it finishes by Charlotte Street at dinner time.
 
 ## Carry on walking
 
@@ -265,5 +264,5 @@ Walked in reverse it works equally well and finishes by Charlotte Street at dinn
 - **[The Mayfair area guide](/articles/mayfair-area-guide/)** — Cork Street's galleries, Handel Hendrix House, and where to eat.
 - **[The Fitzrovia area guide](/articles/fitzrovia-area-guide/)** — the restaurant list for the evening.
 - **[The Westminster area guide](/articles/westminster-area-guide/)** — Buckingham Palace is on the far side of Green Park.
-- **[Free things to do in London](/free/)** — every stop on this walk costs nothing to see.
+- **[Free things to do in London](/free/)** — what else costs nothing.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.
