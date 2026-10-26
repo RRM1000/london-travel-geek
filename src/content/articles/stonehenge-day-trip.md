@@ -3,7 +3,8 @@ title: "Stonehenge from London: What It Costs and How to Get There"
 seoTitle: "Stonehenge from London: Tickets, Trains and Tours"
 description: "Stonehenge admission is £27.20 to £32.30 in advance depending on the date. The train-and-bus route really works, but only five buses a day leave Salisbury in winter — and the Stone Circle Experience is the only way inside the stones."
 publishedAt: 2026-06-05
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2026-12-22
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -23,16 +24,16 @@ faq:
   - q: "Can you go inside the stone circle?"
     a: "Only on a Stone Circle Experience, which runs for an hour in the early morning or evening outside normal opening hours, from £70 adult and £40 child. Sessions take a maximum of 52 people, split into two groups of 26, and there are none in October or November. During normal opening hours everyone stays on the visitor path, which comes within about 5m of the stones."
   - q: "Is Stonehenge free at the solstice?"
-    a: "Yes. English Heritage gives free managed open access at both solstices and both equinoxes. The next is the winter solstice on 22 December 2026; the autumn equinox opening on 23 September ran from a 05:15 car park opening to the end of open access at 08:30. For the summer solstice the car park must be pre-booked and sells out, and no public transport runs for the equinoxes at all."
+    a: "Yes. English Heritage gives free managed open access at both solstices and both equinoxes. The next is the winter solstice on 22 December 2026. For the summer solstice the car park must be pre-booked and sells out, and no public transport runs for the equinoxes at all."
   - q: "How long do you need at Stonehenge?"
     a: "Two hours is enough for the exhibition, the shuttle out and a full circuit of the stones. English Heritage also publishes half-day and full-day itineraries. Last admission is two hours before closing and the last ticket is sold at 14:30, or 16:30 in June, July and August."
   - q: "Do you have to take the shuttle bus to the stones?"
     a: "No. The shuttle runs every few minutes and takes 5 to 10 minutes, but there is a marked walking route across National Trust land instead — 25 to 40 minutes each way, about 2.6 miles round trip over fields and unmade paths. The shuttle also stops at Fargo Plantation, roughly halfway, if you want to walk only part of it."
 ---
 
-**Stonehenge admission is £27.20 to £32.30 for an adult booked ahead, and which of those you pay depends entirely on the date you pick.** English Heritage runs three price bands, and a Wednesday in late October costs £5 less than the Saturday before.
+**Stonehenge admission is £27.20 to £32.30 for an adult booked ahead, and which of those you pay depends entirely on the date you pick.** English Heritage runs three price bands, and a weekday ticket is up to £5.10 cheaper than a peak weekend.
 
-The harder question is how you get there. Stonehenge sits in a field off the A303 with no station anywhere near it, and the answer is that the public transport route works — it just hangs on one hourly bus from Salisbury that stops running mid-afternoon.
+Stonehenge sits off the A303 with no station near it. The public transport route works, but depends on a bus from Salisbury that runs hourly and stops by mid-afternoon.
 
 > 💡 **The Short Version:** **Adult advance £27.20–£32.30** by date, **15% more on the day**, children half price, **members free** — and **National Trust England members free too**. **Open 09:30–17:00 daily**, shut only on Christmas Day, **last ticket sold 14:30**. Train **Waterloo to Salisbury, 1h23, from £16.40**, then the **Stonehenge Tour bus, £43.50 including admission** — but only **five buses out in winter, the last at 14:05**. **Inside the circle is the Stone Circle Experience only, from £70.** **Free at the solstices and equinoxes** — next up **22 December 2026**. **Allow two hours** on site. Parking **£4**. **Or skip the once-an-hour bus from Salisbury** — a <a href="https://www.getyourguide.com/activity/-t219849?partner_id=WWP7I0R&amp;cmp=stonehenge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£66 coach tour with admission included</a> covers the transport and the ticket in one booking.
 
@@ -49,10 +50,10 @@ The harder question is how you get there. Stonehenge sits in a field off the A30
 | Adult ticket | In advance | On the day |
 | --- | --- | --- |
 | **Super Saver** — weekdays, 28 Sep 2026 to 14 Mar 2027 | **£27.20** | £32.00 |
-| **Saver** — weekdays to 27 Sep, weekends 28 Sep to 20 Dec | **£29.75** | £35.00 |
-| **Standard** — weekends to 27 Sep 2026 | **£32.30** | £38.00 |
+| **Saver** — weekends, 28 Sep to 20 Dec 2026 | **£29.75** | £35.00 |
+| **Standard** — peak summer weekends (to 27 Sep in 2026) | **£32.30** | £38.00 |
 
-**Advance is exactly 15% below the door price in every band**, and you can book online until midnight the day before and still get it. Booking a later arrival time on the day you have chosen can knock a little more off again.
+**Advance is exactly 15% below the door price in every band**, and you can book online until midnight the day before and still get it.
 
 | Ticket, Super Saver band | In advance | On the day |
 | --- | --- | --- |
@@ -64,17 +65,17 @@ The harder question is how you get there. Stonehenge sits in a field off the A30
 
 In the Standard band the same family ticket is £80.75, and the child is £16.15. **Children are simply half the adult price**, and the family ticket is a genuine saving on top — two adults and two children come to £68.00 against £81.60.
 
-> 💡 **Every price above includes a voluntary 10% donation, because that is the figure English Heritage leads with.** You can decline it and pay less: the adult advance ticket is **£24.65 in the Super Saver band and £29.32 in the Standard band** without it. The donation lets the charity reclaim Gift Aid, so it is worth more to them than it costs you — but it is optional, and the checkout does not make that obvious.
+> 💡 **Every price above includes a voluntary 10% donation.** Decline it and the adult advance ticket is **£24.65 in the Super Saver band and £29.32 in the Standard band**.
 
 **National Trust England members get in free**, booking online with the code **G03ANZ** and bringing the card plus photo ID. That is England only, not Scotland and not international National Trust bodies. People with refugee or displaced-person status also enter English Heritage sites free.
 
 ### Opening hours, and the one day it shuts
 
-**09:30 to 17:00, seven days a week**, right through to the end of the published calendar in March 2027. In June, July and August the site runs to 19:00.
+**09:30 to 17:00, seven days a week**, and to 19:00 in June, July and August.
 
-> ⚠️ **Last admission is two hours before closing, and the last ticket of the day is sold at 14:30** — 16:30 in June, July and August. That is much earlier than people expect, and it is the rule that catches out anyone planning a lazy start.
+> ⚠️ **Last admission is two hours before closing, and the last ticket of the day is sold at 14:30** — 16:30 in June, July and August.
 
-**The only closure is Christmas Day.** Christmas Eve, Boxing Day, New Year's Eve and New Year's Day are all normal 09:30–17:00 days. Hours on the solstices — 21 June and 22 December 2026 — are subject to change.
+**The only closure is Christmas Day.** Christmas Eve, Boxing Day, New Year's Eve and New Year's Day are all normal 09:30–17:00 days. Hours on the winter solstice, 22 December 2026, are subject to change.
 
 Tickets are valid all day, so you can arrive any time within opening hours and stay as long as you like. You are still given an arrival slot when you book, and if you turn up more than half an hour late you may be held to the next slot with space.
 
@@ -82,7 +83,7 @@ Tickets are valid all day, so you can arrive any time within opening hours and s
 
 ### The train
 
-**London Waterloo to Salisbury is direct, twice an hour, and takes 1h23 to 1h30.** Checking a Tuesday in September, advance singles ran from **£16.40 to £36.60** depending on the departure, and the cheapest same-day return on any train was **£32.80**. Coming back, evening singles from Salisbury were £23.30 to £32.30.
+**London Waterloo to Salisbury is direct, twice an hour, and takes 1h23 to 1h30.** Advance singles run from **£16.40 to £36.60** depending on the departure, and the cheapest same-day return is **£32.80**. Coming back, evening singles from Salisbury are £23.30 to £32.30.
 
 Salisbury is **12 miles from the stones**, so the train only gets you two thirds of the way.
 
@@ -98,7 +99,7 @@ Operated by Salisbury Reds, hop-on hop-off from **Salisbury rail station forecou
 
 **The bus-only ticket does not include Stonehenge entry.** Buy the combined one: £43.50 against £20.50 plus a £27.20 admission is cheaper *and* throws in Old Sarum, and it covers the visitor centre shuttle and removes the need to book a time slot at all. Cathedral entry on the all-in ticket stays valid for 48 hours. Tickets are sold online, at Salisbury station, at the tourist information centre, or from the driver — anything over £100 has to be cash.
 
-> ⚠️ **The winter timetable is why this trip fails.** From 7 September there are **five buses out of Salisbury: 10:05, 11:05, 12:05, 13:05 and 14:05**, and the last one back leaves Stonehenge at **17:15**, reaching the station at 17:35. In summer, 28 March to 6 September, you get a sixth at 15:05 and a last departure at 18:15. Miss a connection at Salisbury and there is no second option except a taxi.
+> ⚠️ **Only five buses a day leave Salisbury in winter.** From 7 September there are **five buses out of Salisbury: 10:05, 11:05, 12:05, 13:05 and 14:05**, and the last one back leaves Stonehenge at **17:15**, reaching the station at 17:35. In summer, 28 March to 6 September, you get a sixth at 15:05 and a last departure at 18:15. Miss a connection at Salisbury and there is no second option except a taxi.
 
 ### What it actually costs and takes
 
@@ -106,13 +107,13 @@ Catch the 09:00 from Waterloo, make the 11:05 bus, and you are at the stones by 
 
 On money, one adult mid-week in winter is roughly **£33 to £40 for the rail return plus £43.50 for the bus and entry — about £80 all in**. A 6½-hour coach from London with admission included starts at £66.
 
-**That is the argument for a coach**, and it is not cost: one booking, one vehicle, and a departure time that does not depend on a five-a-day bus.
+**The argument for a coach is not cost:** it is one booking, one vehicle, and a departure time that does not depend on a five-a-day bus.
 
 ### Driving
 
 **88.7 miles and 2h11 from Charing Cross** via the M3 and A303. Sat nav **SP4 7DE**. **Parking is £4** for non-members, paid by app; members park free with the sticker displayed.
 
-**This is one of the few day trips where driving wins.** Two hours each way against three, no five-a-day bus to miss at Salisbury, and £4 to park at the other end — and the car then makes Salisbury, Avebury or the Cotswolds possible on the same day in a way the timetable does not. What a day's hire actually costs, including the excess and the charges visitors do not see coming, is in our guide to [hiring a car and driving in the UK](/articles/car-hire-driving-uk/).
+**Driving beats the train here.** Two hours each way against three, no five-a-day bus to miss at Salisbury, and £4 to park at the other end, and the car makes Salisbury, Avebury or the Cotswolds possible on the same day. What a day's hire actually costs, including the excess and the charges visitors do not see coming, is in our guide to [hiring a car and driving in the UK](/articles/car-hire-driving-uk/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stonehenge-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -124,7 +125,7 @@ The problem is parking. **There is no parking anywhere in the landscape**, and t
 
 You also get a good look at the circle from the **A303** as you drive past. You cannot stop on that road, so treat it as a glimpse, not a visit.
 
-**Free is not the same as close.** Inside the fence you walk right up to the stones; from the byways you are a few hundred metres away and will want a zoom lens. If the point of the day is the stones themselves, pay.
+From the byways you are a few hundred metres from the stones and will want a zoom lens; the paid visitor path comes within about 5m.
 
 ## Inside the circle: the Stone Circle Experience
 
@@ -132,13 +133,13 @@ You also get a good look at the circle from the **A303** as you drive past. You 
 
 *The trilithons. Photo: Daria Agafonova, Pexels.*
 
-**During opening hours nobody goes inside the stones.** The archaeology sits just under the turf and the lichens on the stones are fragile, so the visitor path is the whole of it — a one-way circuit all the way round, hard-standing and grass, closest approach about 5m.
+**During opening hours nobody goes inside the stones.** The visitor path is a one-way circuit all the way round, hard-standing and grass, with a closest approach of about 5m.
 
 **The Stone Circle Experience is the exception.** One hour, early morning or evening, outside normal visiting hours, with a guide, and you stand inside the circle.
 
 - **From £70 adult (18+), from £40 child 5–17**, under-5s free, with member discounts.
 - **Maximum 52 people per session**, split into two groups of 26 at the stones. One group tours inside the circle while the other walks the landscape — the Slaughter Stone, the Heel Stone — then they swap.
-- **Booking is open to March 2027**, and availability is described as very limited.
+- **Booking is open to March 2027**, and availability is very limited.
 - **There are no sessions in October or November.**
 - **Be ready to board the shuttle ten minutes before your start time.** Morning sessions: the café opens at 09:00 and the exhibition at 09:30. Evening sessions: you can be on site an hour before the site shuts to day visitors, so a 17:00 close means arriving by 16:00.
 - You may photograph everything. You may not stand on or touch the stones. Meditation, yoga and handfasting need a private booking of the whole session — call 0370 333 1181.
@@ -147,9 +148,9 @@ You also get a good look at the circle from the **A303** as you drive past. You 
 
 English Heritage opens the monument field free four times a year, and you can walk among the stones.
 
-**The 2026 autumn equinox opening was on Wednesday 23 September**, and it showed the usual shape: car park entry from **05:15**, the field open as soon as there was light, **sunrise at about 06:54**, open access ending at **08:30** and the car park cleared by 10:00.
+**The usual shape of an opening** is car park entry from about 05:15, the field open as soon as there is light, and open access ending at about 08:30, with the car park cleared by 10:00. At the autumn equinox on 23 September 2026, sunrise was at about 06:54.
 
-> ⚠️ **No public transport runs for the equinoxes at all.** Car, taxi, bike or on foot only, with the roads open as normal. For the **summer solstice** — 20 and 21 June — the opposite applies: car parking must be pre-booked and had sold out well ahead, vehicles without a booking were turned away, and Salisbury Reds laid on special buses from Salisbury station and New Canal instead. The tour bus itself finished early on the Saturday and did not run at all on the Sunday.
+> ⚠️ **No public transport runs for the equinoxes at all.** Car, taxi, bike or on foot only, with the roads open as normal. For the **summer solstice** the opposite applies: car parking must be pre-booked and sells out well ahead, vehicles without a booking are turned away, and Salisbury Reds lays on special buses from Salisbury station and New Canal instead.
 
 The conditions are the same every time: do not touch or climb the stones, no alcohol or drugs, no glass, no drones, no naked flames including incense, no tents or sleeping bags, no amplified music, bags no bigger than about 30 × 25 × 15cm, assistance dogs only. Acoustic instruments are fine. It is dark, the ground is uneven, and you need a torch.
 
@@ -177,7 +178,7 @@ Three products whose own inclusions list puts the admission in the price with no
 
 ## Which Stonehenge tour to book
 
-Sixty GetYourGuide products leave London for the stones. They sort into seven kinds of day, and the thing that really separates them is not the headline price — it is whether the £27.20 gate ticket is inside it. We have read the includes and excludes lists on twenty-seven of them, nineteen of those on 12 September 2026.
+Sixty GetYourGuide products leave London for the stones. They sort into seven kinds of day, and the thing that really separates them is not the headline price — it is whether the £27.20 gate ticket is inside it. We have read the includes and excludes lists on twenty-seven of them.
 
 | The day | Hours | From | Stonehenge entry in that price? |
 | --- | --- | --- | --- |
@@ -232,17 +233,14 @@ All three are cheaper than doing it yourself only if you count the coach: Englis
 
 **Salisbury to Bath Spa is direct, hourly and 54 to 57 minutes, from £23.50** — so doing the pair under your own steam is viable: Waterloo out, the bus to the stones, then the train on to Bath and home from Paddington. It makes for a long day, and it is the one itinerary where buying it as one coach ticket saves real effort. More on the Georgian end of it in our [Bath day trip guide](/articles/bath-day-trip/).
 
-**The operators pair it two other ways.** The most-sold shape is Windsor, Stonehenge and Bath in one day from £71.10 — three places for an hour or two each, and the group where no product includes the entry tickets as standard; [Windsor from London](/articles/windsor-day-trip/) is where to check whether the Castle end of it is even open on your date, because it is closed every Tuesday and Wednesday. The other is the small-group Stonehenge, Bath and the Cotswolds day at £154 plus the gate ticket, and that one has a real argument behind it: the Cotswold villages have no railway between them and their buses largely stop on Sundays, which is the one case where a coach seat beats doing it yourself. [The Cotswolds from London](/articles/cotswolds-day-trip/) has the village-by-village version.
+**The operators pair it two other ways.** The most-sold shape is Windsor, Stonehenge and Bath in one day from £71.10, three places for an hour or two each, where no product includes the entry tickets as standard; [Windsor from London](/articles/windsor-day-trip/) has the Castle, which is closed every Tuesday and Wednesday. The other is the small-group Stonehenge, Bath and the Cotswolds day at £154 plus the gate ticket. The Cotswold villages have no railway between them and their buses largely stop on Sundays, so a coach seat beats doing it yourself. [The Cotswolds from London](/articles/cotswolds-day-trip/) has the village-by-village version.
 
 ## What people get wrong
 
 - **Arriving after 14:30.** The last ticket of the day is gone, even with hours of daylight left.
 - **Buying the bus-only ticket** and discovering at the admissions desk that entry is not in it.
-- **Missing the last bus back**, which leaves Stonehenge at 17:15 in winter.
-- **Expecting to walk among the stones.** That is the Stone Circle Experience, and it is a separate booking from £70.
 - **Booking the cheapest coach listing** whose admission turns out to be an optional paid extra.
-- **Paying on the day.** It is 15% more, and the advance price is available until midnight the night before.
-- **Picking a Saturday in September** when the Wednesday after is £5 less.
+- **Paying on the day.** It is 15% more than booking by midnight the night before.
 - **Driving to the solstice without pre-booked parking.** Cars without a booking are turned away and illegal parking gets towed.
 
 ## Continue planning your London trip
