@@ -3,7 +3,7 @@ title: "British Museum: Free Entry, Opening Hours and the Bayeux Tapestry"
 seoTitle: "British Museum Guide: Tickets, Hours & Bayeux Tapestry"
 description: "The British Museum is free, with a free timed ticket for busy days. Where the Bayeux Tapestry tickets stand, the entrances, opening hours, and what to see in one or two hours."
 publishedAt: 2026-10-07
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-14
 sites:
   - london
@@ -41,7 +41,7 @@ faq:
     a: "Yes, on Fridays, until 20:30, with last entry at 20:15. On other days the galleries close at 17:00 and last entry is 16:45. The Bayeux Tapestry exhibition keeps its own hours: Sunday to Wednesday 10:00 to 18:00 and Thursday to Saturday 10:00 to 21:00."
 ---
 
-The British Museum holds about eight million objects and took 6.4 million visits in 2025, second only to the Natural History Museum among UK attractions. Entry is free. The exception is the Bayeux Tapestry, in Room 30 until 11 July 2027, which has its own timed ticket.
+Entry to the British Museum is free. The exception is the Bayeux Tapestry, in Room 30 until 11 July 2027, which has its own timed ticket.
 
 > 💡 **The Short Version:**
 > - **Entry is free.** A free timed ticket from the museum's website is recommended; without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check.
@@ -60,12 +60,11 @@ The British Museum holds about eight million objects and took 6.4 million visits
 
 *Halley's Comet and King Harold, from the Bayeux Tapestry. Photo: [Myrabella](https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_32-33_comet_Halley_Harold.jpg) (public domain).*
 
-The Bayeux Tapestry is an embroidered cloth nearly 70 metres long and 50 centimetres tall, telling the story of the Norman Conquest and the Battle of Hastings in 1066. It is in **Room 30, the Sainsbury Exhibitions Gallery**, from 10 September 2026 to **11 July 2027**, on loan from Bayeux and out of France for the first time in nearly a thousand years. Entry is by timed ticket only, and the [museum's exhibition page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry) is where they are sold.
+The Bayeux Tapestry is an embroidered cloth nearly 70 metres long and 50 centimetres tall, telling the story of the Norman Conquest and the Battle of Hastings in 1066. It is in **Room 30, the Sainsbury Exhibitions Gallery**, from 10 September 2026 to **11 July 2027**, on loan from Bayeux. Entry is by timed ticket only, and the [museum's exhibition page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry) is where they are sold.
 
 ### Where tickets stand
 
-- **10 September to 31 December 2026:** sold out.
-- **1 January to 31 March 2027:** sold out.
+- **10 September 2026 to 31 March 2027:** sold out.
 - **April to 11 July 2027:** the final members' priority window opens in January 2027, and general booking opens in early 2027.
 
 Tickets are emailed four days before your visit. A booking takes up to ten tickets, only the booker can use them and ID may be checked; multiple bookings from the same email address are cancelled.
@@ -95,7 +94,7 @@ The audio guide is free in the British Museum Audio app: download it before you 
 
 *The Great Russell Street front. Photo: [Txllxt TxllxT](https://commons.wikimedia.org/wiki/File:London_-_Great_Russell_Street_-_British_Museum_II.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-General admission is free. A free timed ticket from the [museum's website](https://www.britishmuseum.org/visit) is recommended; without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check, and wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed.
+Book the free timed ticket on the [museum's website](https://www.britishmuseum.org/visit). Every visitor goes through a security and bag check, and wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed.
 
 - **Great Russell Street** is the main entrance, under the portico.
 - **Montague Place** is the second entrance, on the north side.
@@ -109,7 +108,7 @@ The cloakroom is open 10:00 to 17:00 (20:30 on Fridays), with the last deposit a
 
 ## What to see in one or two hours
 
-The museum is built to defeat completeness, so pick a few objects and walk straight to them. Rooms 4, 6, 10 and 18 are on the ground floor and make a one-hour loop; Rooms 40, 41 and 62 to 64 are upstairs.
+Pick a few objects and walk straight to them. Rooms 4, 6, 10 and 18 are on the ground floor and make a one-hour loop; Rooms 40, 41 and 62 to 64 are upstairs.
 
 ![The glass and steel lattice roof of the British Museum's Great Court](../../assets/articles/british-museum-guide/british-museum-great-court.jpg)
 
@@ -117,7 +116,7 @@ The museum is built to defeat completeness, so pick a few objects and walk strai
 
 ### The Great Court
 
-A glass roof by Foster + Partners over what was an open courtyard hidden from the public for 150 years, opened in 2000, with the circular Reading Room at its centre. It is one of the few places in central London where you can sit indoors without buying anything, and the Great Court itself is open until 17:30 (20:30 on Fridays).
+A glass roof by Foster + Partners over the circular Reading Room. You can sit indoors here without buying anything, and the Great Court is open until 17:30 (20:30 on Fridays).
 
 ### The Rosetta Stone, Room 4
 
@@ -125,7 +124,7 @@ A glass roof by Foster + Partners over what was an open courtyard hidden from th
 
 *The Rosetta Stone. Photo: [Hans Hillewaert](https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-A decree of 196 BC carved in three scripts, found in 1799 and on display in London since 1802. The Greek text let scholars read the hieroglyphs, and Champollion announced the breakthrough in 1822. It sits in a case in the middle of the Egyptian sculpture gallery. **Room 4 is closed from 11 to 22 January 2027.**
+A decree of 196 BC carved in three scripts; the Greek text let scholars read the hieroglyphs. It sits in a case in the middle of the Egyptian sculpture gallery. **Room 4 is closed from 11 to 22 January 2027.**
 
 ### The Parthenon sculptures, Room 18
 
@@ -161,7 +160,7 @@ Upstairs, the mummies and coffins fill Rooms 62 and 63. In Room 64 is Ginger, a 
 
 *The Sutton Hoo helmet. Photo: [Geni](https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png) (public domain).*
 
-The helmet came out of an Anglo-Saxon ship burial in Suffolk, dug by Basil Brown in 1939 on land owned by Edith Pretty, who gave the finds to the museum. The original is reconstructed from fragments and shown beside a replica of how it looked whole.
+The helmet came out of an Anglo-Saxon ship burial in Suffolk, excavated in 1939. The original is reconstructed from fragments and shown beside a replica of how it looked whole.
 
 ### The Lewis Chessmen, Room 40
 
@@ -195,7 +194,7 @@ The museum publishes [planned gallery closures](https://www.britishmuseum.org/vi
 
 ## Tours
 
-The museum is easier with a route chosen for you. A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> takes the main objects in order, and the widget above shows availability by date. Entry itself is free, so what you are paying for is the guide.
+A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> takes the main objects in order, and the widget above shows availability by date. Entry is free, so you are paying for the guide.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="british-museum-guide-guided-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="British Museum guided tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -225,17 +224,11 @@ Montague Place is step-free, and the Great Russell Street entrance has lifts eit
 
 *The Great Russell Street gates. Photo: [APK](https://commons.wikimedia.org/wiki/File:British_Museum_from_Great_Russell_Street_with_sign.jpg), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
-### Common mistakes to avoid
-
-- **Turning up for the Bayeux Tapestry without a ticket.** It is timed and booked online; the museum's free entry ticket does not include it.
-- **Bringing a wheeled suitcase.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed.
-- **Trying to see everything.** Pick three galleries and leave.
-
 ---
 
 ## Nearby
 
-The British Museum sits in Bloomsbury, so the garden squares, Lamb's Conduit Street and the small free museums are all within ten minutes. Sir John Soane's Museum, a house kept as its owner left it in 1837, is covered in [the best museums in London](/articles/best-museums-london/).
+The garden squares, Lamb's Conduit Street and the small free museums of Bloomsbury are all within ten minutes. Sir John Soane's Museum, a house kept as its owner left it in 1837, is covered in [the best museums in London](/articles/best-museums-london/).
 
 ---
 
@@ -252,7 +245,3 @@ The British Museum sits in Bloomsbury, so the garden squares, Lamb's Conduit Str
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — Bayeux Late on 4 December and the Christmas closures.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — where the museum fits into a Zone 1 plan.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** and **[Westminster Abbey Guide](/articles/westminster-abbey-guide/)** — the two historic sights most visitors pair with it.
-
----
-
-*Opening hours, closures, Bayeux Tapestry ticket dates and prices are the British Museum's own, checked 7 October 2026.*
