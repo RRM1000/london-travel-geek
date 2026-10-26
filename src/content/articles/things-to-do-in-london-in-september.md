@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in London in September: The Month the City Gets Itself Back"
-seoTitle: "Things to Do in London in September 2026"
-description: "The Bayeux Tapestry arrives, Open House and the Design Festival run the same nine days, the Great River Race and the Last Night of the Proms share a Saturday, and the Whistler retrospective at Tate Britain closes on the 27th."
+seoTitle: "Things to Do in London in September: Dates and Events"
+description: "Heritage Open Days, the London Design Festival and the Great River Race fall in the middle of September, with Totally Thames all month, Open House and the Last Night of the Proms. The 2027 dates, what is free, and when hotels are cheapest."
 heroImage: "../../assets/articles/things-to-do-in-london-in-september/things-to-do-in-london-in-september.jpg"
 heroImageAlt: "Dozens of traditional rowing boats spread across the River Thames during the Great River Race, with the dome of St Paul's Cathedral and the City skyline behind, Blackfriars Bridge in the middle distance and spectators lining the embankment"
 heroImageCredit: "Motmit"
@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File%3AGreatRiverRace07.JPG
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-09-09
-updatedAt: 2026-10-25
-reviewBy: 2026-10-01
+updatedAt: 2026-10-26
+reviewBy: 2027-04-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -18,218 +18,126 @@ tags: [things to do, London events, September, seasonal, London experiences]
 draft: false
 faq:
   - q: "What is the best time to visit London in September?"
-    a: "The first week if you want the city quiet and cheap, the middle if you want the most to do. Schools go back in the first few days, so from around the 5th the museums and restaurants ease off sharply while the weather still holds. The middle of the month is the opposite trade: Open House, the London Design Festival and Heritage Open Days all overlap, and London Fashion Week follows immediately, so there is more on than at any other point in the year and hotel rates rise to match."
-  - q: "When can I get tickets for the Bayeux Tapestry at the British Museum?"
-    a: "Every ticket to 31 March 2027 has sold out; April to July 2027 opens in early 2027. The exhibition itself opened on 10 September 2026 and runs until 11 July 2027 in Room 30, and earlier releases have gone quickly — the museum's newsletter is the only dependable way to hear when the next one opens. It stays open until 9pm from Thursday to Saturday, so late slots are the calmest."
-  - q: "What events are on in London in September 2026?"
-    a: "Totally Thames runs the whole month along the river. Open House and the London Design Festival both ran 12 to 20 September, Heritage Open Days 11 to 20, and London Fashion Week 17 to 21. Saturday 12 September was the busiest single day of the month: the Great River Race rowed 21.6 miles from Millwall to Ham from 12.45pm, and the Last Night of the Proms closed the season at the Royal Albert Hall at 7.15pm."
+    a: "The first week if you want the city quiet and cheap, the middle if you want the most to do. Schools go back in the first few days, so from around the 5th the museums and restaurants ease off while the weather still holds. The middle of the month is the opposite trade: Open House, the London Design Festival and Heritage Open Days overlap in most years, London Fashion Week follows, and hotel rates rise to match."
+  - q: "When is the London Design Festival in 2027?"
+    a: "18 to 26 September 2027, the festival's 25th edition. Most of it is free and unticketed: the installations are in public spaces and you can walk into them. The talks programme is ticketed and sells out."
+  - q: "What events are on in London in September 2027?"
+    a: "Totally Thames runs the whole month along the river. Heritage Open Days is 10 to 19 September, the Great River Race rows 21.6 miles from Millwall to Ham on Saturday 18 September, the London Design Festival runs 18 to 26 September, and the National Television Awards are at The O2 on 8 September. Open House, the Last Night of the Proms and London Fashion Week sit in the same fortnight each year; in 2026 they were 12 to 20 September, 12 September and 17 to 21 September."
   - q: "Is Open House London free?"
-    a: "Yes, entirely. The constraint is timing, not money — the programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds, and set a reminder for the programme launch each August."
+    a: "Yes, entirely. The constraint is timing, not money. The programme goes live in August, and the buildings people most want to see either ballot or release timed slots that go within hours of opening. If you are deciding in September, the marquee buildings have gone. Plan around the walk-up sites instead, of which there are hundreds."
   - q: "Can you still get tickets for the Last Night of the Proms?"
-    a: "The 2026 concert was on 12 September and is over, but seats sell out far in advance every year, and the hall is never closed to you. Day Promming tickets — standing, in the arena or the gallery — go on sale at 9.30am on the day of the concert, two per person. Season ticket holders can redeem from 11am the day before. It is the cheapest way into the most oversubscribed classical concert in Britain and almost no guide mentions it."
-  - q: "Which exhibition was the biggest to close in London in September 2026?"
-    a: "James McNeill Whistler at Tate Britain, which closed on Sunday 27 September 2026. It was ticketed and free for Tate Members."
+    a: "Seats sell out far in advance every year, but Day Promming tickets, standing in the arena or the gallery, went on sale at 9.30am on the day of the 2026 concert, two per person. Season ticket holders could redeem from 11am the day before."
   - q: "What is the weather like in London in September?"
-    a: "Usually 19 to 21°C by day and around 12 to 13°C at night, cooling noticeably through the month, and historically one of the drier months. The practical point is that afternoons stay warm while evenings stop being reliable — take a jacket even on a hot day. Sunset moves from about 7.30pm at the start of the month to about 6.45pm by the end, so the last good evenings for river walks and outdoor drinking are the first three weeks."
+    a: "Usually 19 to 21°C by day and around 12 to 13°C at night, cooling through the month, and historically one of the drier months. Afternoons stay warm while evenings stop being reliable, so take a jacket even on a hot day. Sunset moves from about 7.30pm at the start of the month to about 6.45pm by the end, so the last good evenings for river walks and outdoor drinking are the first three weeks."
 ---
 
-September is the month London stops performing for visitors and goes back to being a working city — and it is, for that reason, one of the two or three best months to be here.
+September is the month London goes back to being a working city, which makes it one of the two or three best months to be here.
 
-> 💡 **The Short Version:** **Whistler at Tate Britain closes on Sunday 27 September**, and **Totally Thames** runs along the river to the 30th. **Blue Note London**, the New York jazz club's first UK room, opened on St Martin's Lane on 23 September. On **Saturday 26 September** England play Spain at Wembley and the Red Roses play New Zealand at Twickenham. **Bayeux Tapestry** tickets at the British Museum are sold out to 31 December; the next general release is **21 October**.
+> 💡 **The Short Version:** **The middle of the month is when the events cluster.** In 2027 that is **Heritage Open Days (10 to 19 September)**, the **Great River Race (Saturday 18 September)** and the **London Design Festival (18 to 26 September)**, with **Open House**, the **Last Night of the Proms** and **London Fashion Week** in the same fortnight each year. **Totally Thames** runs along the river all month. **The National Television Awards** are at The O2 on **8 September 2027**, and the **Wimbledon ballot** opens in the first days of the month. Hotels are cheapest in the first and last weeks.
 
-The schools go back in the first week. From around the 5th, the museums thin out, restaurant tables reappear and the South Bank stops being an obstacle course, while the weather usually holds well into the month. Sunset is still after seven for the first three weeks. It is August's weather with October's crowds.
+Schools go back in the first week. From around the 5th the museums thin out, restaurant tables reappear and the South Bank stops being an obstacle course, while the weather usually holds well into the month. Sunset is still after seven for the first three weeks.
 
-Then the middle of the month collided.
-
-**Open House and the London Design Festival ran the same nine days.** In 2026 that was 12 to 20 September, exactly. Heritage Open Days overlapped them, 11 to 20, and London Fashion Week started the day before they finished. For anyone interested in buildings, design or how London is put together, that was the best week of the year to be in the city — and simultaneously the worst week for a cheap hotel room or a quiet gallery.
-
-## The one that will define the year
-
-### The Bayeux Tapestry — British Museum, from 10 September
-
-*Room 30, the Sainsbury Exhibitions Gallery · 10 September 2026 to 11 July 2027*
-
-**For the first time in nearly a thousand years, the Bayeux Tapestry is in England.** Not a reproduction and not a section of it: the seventy-metre embroidery itself, on loan from France under a government-level agreement, telling the story of the events leading to the Battle of Hastings and the Norman Conquest.
-
-The thing worth understanding about it is the collaboration buried in its making. It was **likely commissioned by a Norman patron but embroidered by English hands**, working from manuscript drawings out of Canterbury — so the account of England's conquest was stitched by the conquered, and it is as much a record of eleventh-century life as of a battle. Castles, ships, warfare, but also clothing, food and furniture.
-
-**Opening hours are unusually long, and that is the tactical detail.** Sunday to Wednesday it runs 10am to 6pm; **Thursday to Saturday it stays open until 9pm**. Late Thursday and Friday slots are the civilised way to see it.
-
-**Tickets: this is the part to plan.** Every ticket for 10 September to 31 December 2026 has sold out. Tickets for 1 January to 31 March 2027 have sold out too, and **April to July 2027 opens in early 2027**. If you want to go and have not booked, the British Museum's newsletter is the only reliable way to be told when releases open. Our [British Museum guide](/articles/british-museum-guide/) keeps the ticket position, prices and rooms in one place.
-
-If you cannot get in, **Bayeux Around Britain** runs related programmes at more than sixty museums and heritage sites across the country. There is also a curator's talk, *The real world of the Bayeux Tapestry*, online on **25 September, £50**.
+In 2026 the middle of the month collided. Open House and the London Design Festival ran the same nine days, 12 to 20 September, Heritage Open Days overlapped them and London Fashion Week started the day before they finished. It was the best week of the year for anyone interested in buildings or design, and the worst for a cheap hotel room or a quiet gallery.
 
 ## The annual fixtures
 
-These come round every year. If you are reading this in a later September, the dates will have moved but the events will be here.
+### Totally Thames: the whole month, the whole river
 
-### Totally Thames — the whole month, the whole river
+**September**, along the length of the tidal Thames.
 
-**1 to 30 September**, every year, along the length of the tidal Thames.
+A month-long river festival run by the Thames Festival Trust. It is dispersed by design: **art installations, boat trips, river races, environmental projects and foreshore archaeology walks**, where you go down onto the exposed riverbed at low tide with someone who can tell you what you are looking at.
 
-A month-long river festival run by the Thames Festival Trust, and easy to miss because it does not present as a single event you can turn up to. It is dispersed by design: **art installations, boat trips, river races, environmental projects and — the ones worth planning around — foreshore archaeology walks**, where you go down onto the exposed riverbed at low tide with someone who can tell you what you are looking at.
+A large share of it is free. The foreshore walks book out early, because the tide decides the timings and the number of people who can safely stand on a tidal foreshore is small.
 
-A large share of it is free. The foreshore walks are the exception in demand rather than price, and they book out early, because the number of people who can safely stand on a tidal foreshore is small and the tide, not the organisers, decides the timings.
+### The Great River Race: 21.6 miles, 300 boats, mostly in fancy dress
 
-London is here because of the Thames, and September is the one month the city organises itself around saying so.
+**Saturday 18 September 2027.** Entries for the 2027 race open on 1 April.
 
-### The Great River Race — 21.6 miles, 300 boats, mostly in fancy dress
+Around **300 fixed-seat crews row 21.6 miles from Millwall in the east to Ham in the west**, under every bridge in between. It started in 1988 with 61 boats and is now international, with crews from America, Australia and across Europe. A large part of the field is raising money in fancy dress.
 
-**The race was on Saturday 12 September 2026, first boats crossing the start line at 12.45pm.**
+**It is free to watch and you do not need a plan.** Stand on any bridge or bank and it will come past; the organiser publishes an observation points page giving rough times along the course. The finish at Ham has food, a bar and a disco, and a supporters' boat runs from Millwall to Ham, which is bookable.
 
-London's river marathon, and a strange and wonderful thing to stumble on. Around **300 fixed-seat crews row 21.6 miles from Millwall in the east to Ham in the west**, under every bridge in between. It started in 1988 with 61 boats and is now international, with crews from America, Australia and across Europe — and a large part of the field is raising money in fancy dress, so the serious athletes are threaded through a flotilla of nonsense.
+**The start time moves with the tide** and is confirmed late. In 2026 the first boats crossed the line at 12.45pm. The organiser's site is **greatriverrace.org.uk**.
 
-**It is free to watch and you do not need a plan.** Stand on any bridge or bank and it will come past; the organiser publishes an observation points page giving rough times along the course. The finish at Ham has food, a bar and a disco. There is also a supporters' boat from Millwall to Ham, which is bookable.
+### Open House Festival: the free one everybody misses by a week
 
-One warning worth carrying: **the start time moves with the tide** and is confirmed late, so never assume the previous year's. The organiser's site is **greatriverrace.org.uk**.
-
-### Open House Festival — the free one everybody misses by a week
-
-**12 to 20 September 2026.** Free.
+**Nine days in the middle of September**; in 2026, 12 to 20 September. Free.
 
 Open City opens buildings across every London borough that are normally shut, private or expensive: **livery halls, private houses, government buildings, infrastructure, and architects' own homes**, which are consistently the most interesting category and the least contested.
 
-**The constraint is timing, not money, and this is where most people go wrong.** The programme goes live in August. The buildings everyone wants — the ones that appear in the newspaper write-ups — either run a ballot or release timed slots that are gone within hours. By September the marquee list has been taken.
+**The constraint is timing, not money.** The programme goes live in August. The buildings that appear in the newspaper write-ups either run a ballot or release timed slots that are gone within hours, so by September the marquee list has been taken.
 
-That is not a reason to skip it. Hundreds of buildings are walk-up, no booking, just a queue and a volunteer at the door, and they are frequently better than the famous ones because you can take your time. **The move is to ignore the towers, pick a neighbourhood, and walk it.** Then set a reminder for the programme launch each August.
+Hundreds of buildings are walk-up, with no booking, just a queue and a volunteer at the door, and they are frequently better than the famous ones because you can take your time. **Ignore the towers, pick a neighbourhood, and walk it.** Set a reminder for the programme launch each August.
 
 <div data-stay-strip></div>
 
-### Heritage Open Days — the one people confuse with Open House
+### Heritage Open Days: the one people confuse with Open House
 
-**11 to 20 September 2026.** Free.
+**10 to 19 September 2027.** Free.
 
-A different organisation, running at the same time, and readers conflate the two constantly. Heritage Open Days is **England's largest festival of history and culture**, volunteer-organised and national rather than London-only, and it skews to heritage where Open House skews to architecture — so churches, halls, historic trades and local history, alongside the buildings.
+A different organisation, running at the same time. Heritage Open Days is **England's largest festival of history and culture**, volunteer-organised and national rather than London-only. It skews to heritage where Open House skews to architecture, so expect churches, halls, historic trades and local history alongside the buildings. If you are in London that week, check both programmes.
 
-If you are in London that week you can treat them as one programme with two websites. Check both; the overlap is smaller than you would expect.
+### London Design Festival: nine days, and mostly free
 
-### London Design Festival — nine days, and mostly free
+**18 to 26 September 2027.**
 
-**12 to 20 September 2026.**
+Built on **design districts** (Brompton, Shoreditch, Mayfair, Bankside and others), each with its own trail, plus large commissioned installations in public spaces and at the V&A, the festival's traditional hub.
 
-Built on **design districts** — Brompton, Shoreditch, Mayfair, Bankside and others — each with its own trail, plus large commissioned installations in public spaces and at the V&A, which has been the festival's traditional hub for years.
+**Most of it is free and unticketed.** The Global Design Forum and the talks programme are ticketed and do sell out. In years when it runs the same nine days as Open House, treat them as a single week: one gets you inside buildings, the other shows what people are doing with the insides of buildings.
 
-**Most of it is free and unticketed**, which is the part people do not realise: the installations are simply in the city, and you can walk into them. The Global Design Forum and the talks programme are ticketed and do sell out.
+### Last Night of the Proms: and how to actually get in
 
-Because it runs the same nine days as Open House, the sensible approach is to treat them as a single week instead of choosing. One gets you inside buildings; the other tells you what people are doing with the insides of buildings.
+**A Saturday in the first half of September, Royal Albert Hall.** The 2026 concert was on Saturday 12 September at 7.15pm, doors 5.45pm.
 
-### Last Night of the Proms — and how to actually get in
+It closes a summer of more than eighty concerts. Seats are long gone by September. **Day Promming tickets go on sale at 9.30am on the day of the concert, two per booker**: standing, in the arena or the gallery, and the cheapest way into the most oversubscribed classical concert in the country. Season ticket holders redeem theirs from 11am the day before. The ballots, the leftover sale and the £8 day tickets are in our [Last Night of the Proms tickets guide](/articles/last-night-of-the-proms-tickets/).
 
-**The concert was on Saturday 12 September 2026, 7.15pm, doors 5.45pm**, Royal Albert Hall.
+### National Television Awards: and how to get in
 
-The close of a summer of more than eighty concerts. In 2026 it is **Yuja Wang** on piano, returning after her 2023 appearance, with Scottish tenor **Nicky Spence** and the massed BBC forces under **Sakari Oramo**.
+**Wednesday 8 September 2027 at The O2**, broadcast live on ITV. The winners are chosen by public vote and the public can also buy a seat.
 
-Seats are long gone. **Day Promming tickets go on sale at 9.30am on the day of the concert, two per booker** — standing, in the arena or the gallery, and the cheapest way into the most oversubscribed classical concert in the country. Season ticket holders redeem theirs from 11am the day before. The ballots, the leftover sale and the £8 day tickets, with their 2026 dates, are in our [Last Night of the Proms tickets guide](/articles/last-night-of-the-proms-tickets/).
+Tickets are sold through AXS and Ticketmaster, from **£25**, with red-carpet viewing packages at **£150** and **£270**. The [National Television Awards tickets guide](/articles/national-television-awards-tickets/) has the full price list and the booking links.
 
-If you want the experience without the queue, the Proms in the Park tradition has changed in recent years; check the BBC's own listing for what is running before making plans around it.
+### London Fashion Week: what it means for you
 
-### National Television Awards — and how to get in
+**Mid to late September**; in 2026, Thursday 17 to Monday 21 September.
 
-**The 2026 ceremony was on Tuesday 8 September at The O2**, broadcast live on ITV. It is a televised awards night where the winners are chosen by public vote and the public can also buy a seat.
+**This is not a public event.** The September edition shows the following spring and summer, it is run by the British Fashion Council, and the shows themselves are trade and press only.
 
-Tickets for the **8 September 2027** ceremony are sold through AXS and Ticketmaster, from **£25**, with red-carpet viewing packages at **£150** and **£270**. The [National Television Awards tickets guide](/articles/national-television-awards-tickets/) has the full price list and the booking links.
-
-### London Fashion Week — and what it actually means for you
-
-**Thursday 17 to Monday 21 September 2026.**
-
-Worth including mainly to correct a misunderstanding. **This is not a public event.** The September edition shows the following spring and summer, it is run by the British Fashion Council, and the shows themselves are trade and press only.
-
-What it means for a visitor is threefold: a schedule of open events and shopping activations around the main programme; a noticeably busier central London; and **hotel rates through that weekend that are the highest of the month**. If you are choosing dates and do not care about fashion, book either side of it.
+For a visitor it means a schedule of open events and shopping activations around the main programme, a busier central London, and **hotel rates through that weekend that are the highest of the month**. If you do not care about fashion, book either side of it.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-tower-of-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Tower of London tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Exhibitions that closed in September
+## Theatre and music
 
-### James McNeill Whistler — Tate Britain, closed 27 September 2026
+September is when the West End restarts. The summer run ends, Kids Week is over, and the autumn press nights come in a cluster, so there are many opening nights and, for a few weeks, previews at preview prices.
 
-The month's biggest closing show, which ended on Sunday 27 September 2026, and **the first major European Whistler exhibition in thirty years**.
-
-A full retrospective of the American who spent his career in London: **the famous paintings alongside works rarely or never shown**, running from his teens in St Petersburg through to the enigmatic late self-portraits, and taking in portraits, drawings, prints and designs. The Nocturnes are the reason most people come — *Old Battersea Bridge* among them — and they are the paintings that got him into a libel court arguing that a picture need not be a picture *of* anything.
-
-**Ticketed, and free for Tate Members**, which pays for itself quickly if you are going to two or more shows in a season.
-
-## Exhibitions worth the trip
-
-Running through September and beyond, so no rush — but these are the good ones.
-
-**BBC TV 90 at Alexandra Palace**, 18 September to 30 November, is the pick. BBC television began at Ally Pally in 1936, so a ninetieth-anniversary exhibition there is on the actual site rather than merely about it — the transmitter mast is still on the roof.
-
-**John Constable: views of nature** at the British Museum runs to 4 October and is **free**. **Frida: The Making of an Icon** at Tate Modern runs to 3 January, so it will keep. The **Serpentine Pavilion** is in Kensington Gardens until 25 October, also free, and September is the final month it is reliably pleasant to sit in one. **Richard Dadd** at the Royal Academy runs to 25 October. **Open Roots** opened at the Photographers' Gallery on 18 September.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## Theatre: the autumn openings
-
-September is when the West End restarts. The summer run ends, Kids Week is over, and the autumn press nights come in a cluster — which means an unusual concentration of opening nights and, for a few weeks, previews at preview prices.
-
-The first week brings **Bloodsport: After Helen of Troy** at Theatre Royal Stratford East on the 3rd — Ava Pickett's follow-up to *1536*, with Michelle Dockery and Laura Aikman, and Lisa Spirling directing. The same night, **Thelma & Louise** opens at the Young Vic as a new musical, with Amy Lennox and Rachel Tucker. **Million Dollar Quartet** follows on the 4th at the Arts at Marble Arch.
-
-The one to book is on the 5th: **Tilda Swinton in *Man to Man* at the Royal Court**, returning after more than thirty years to the role that made her name — Manfred Karge's play about a woman who takes on her dead husband's identity to survive in 1930s Germany.
-
-The second half of the month is heavier still. **Jesse Tyler Ferguson plays Truman Capote in *Tru*** at the Menier Chocolate Factory from the 19th. **Gillian Anderson and Billy Crudup** open in ***Who's Afraid of Virginia Woolf?*** at @sohoplace on the 21st, directed by Marianne Elliott. The same evening, **James Graham's *The Standard of Living*** opens at the Theatre Royal Haymarket, with **Rory Kinnear as John Maynard Keynes**. Then on the 22nd: **Christine Baranski and Richard E. Grant in *Hay Fever*** at Wyndham's, **Into the Woods** at the Noel Coward, and **RENT** returning to Drury Lane for its thirtieth anniversary.
-
-**The Duke of York's Theatre is now the Tom Stoppard Theatre.**
-
-## Gigs worth planning around
-
-Not a listings page — Songkick and DICE do that better. These are the shows worth building an evening around, and in September one of them was a building.
-
-### Blue Note London — St Martin's Lane, open since 23 September
+### Blue Note London: St Martin's Lane
 
 *Covent Garden · WC2N 4EJ*
 
-**The New York jazz club opened its first UK venue** on St Martin's Lane on 23 September, joining a group that already runs rooms in New York, Los Angeles, Tokyo and Milan.
+**The New York jazz club opened its first UK venue** on St Martin's Lane on 23 September 2026. There are **two rooms**: a **300-seat main room**, and **B-Side, a 130-seat space** for late sets and emerging artists. That means **two shows a night, every night**, usually at 7pm and 9.30pm. There is a full kitchen and a bar, with a cocktail list built on reimagined jazz-era classics. Choose a night on the programme, not the novelty.
 
-There are **two rooms**: a **300-seat main room**, and **B-Side, a 130-seat space** for late sets, emerging artists and one-offs. That means **two shows a night, every night** — so a sold-out headliner does not close the building, and the B-Side programme is where the interesting risks will be taken. There is a full kitchen and a bar, with a cocktail list built on reimagined jazz-era classics.
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-london-eye-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Eye tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-**Robert Glasper played the sold-out opening night.** The rest of the opening run follows: **Sinead Harnett on the 25th, corto.alto on the 26th, Yussef Dayes on the 27th, and Jamie Cullum across the 28th and 29th**, with Nik West carrying it into October.
+## Sport
 
-Look further ahead before you book anything, because the October diary is extraordinary for a room that will be three weeks old: **Erykah Badu on the 10th and 11th**, Baaba Maal, **Nubya Garcia across the 15th to 17th**, and **Shabaka on the 19th and 20th**. If you are choosing a night, choose on the programme, not the novelty.
+**The Wimbledon public ballot opens in the first days of September.** In 2026 it ran from 1 September to 23:59 BST on Monday 14 September. Entry is free, and overseas applicants use the same window. How it works, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
 
-**Good Kid with Last Dinosaurs play the Roundhouse on the 26th** — still to come, and the one to take seriously if you have any history with that room. Earlier in the month it hosted **Saint Etienne** on the 18th and **Bellaire, Dublon and Jeremy Underground** on the 12th.
-
-Alexandra Palace has the busiest month of any venue in London: **I Prevail on the 25th** and **Public Service Broadcasting on the 26th** are still to come — the latter, in a hall that is also the birthplace of television, is a better fit than the band could have designed. Earlier in the month it hosted **Annie Mac**, **ANOTR** and **Boris Brejcha**.
-
-The **Monteverdi Choir performed Rossini's *Petite Messe Solennelle* at Ally Pally on 18 September**.
-
-## Sport: the last Saturday is the big one
-
-**Saturday 26 September puts two England teams on in London on the same day.** The men play **Spain at Wembley** in the UEFA Nations League, and the **Red Roses** play **New Zealand at Allianz Stadium, Twickenham**, kicking off at 3pm, with tickets from £20.
-
-**American college football came to Wembley a week earlier.** The **Union Jack Classic** on **Saturday 19 September** was Arizona State Sun Devils against Kansas Jayhawks. The NFL follows in October, with [three games on consecutive Sundays](/articles/nfl-london-games/).
-
-**The Wimbledon 2027 public ballot closed at 23:59 BST on Monday 14 September.** The All England Club opened it on 1 September; entry was free, and overseas applicants used the same window. How it works, and the other routes in if you are not drawn, are in our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/).
-
-Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
+Wembley hosts England internationals and, in 2026, the Union Jack Classic college football game on 19 September; the NFL follows in October, with [three games on consecutive Sundays](/articles/nfl-london-games/). Match-day transport, the bag rules and the hotels that treble in price on event nights are in our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-september-attraction-passes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,102239,193412"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## New restaurants and bars
-
-September is the opening rush — the trade holds its launches back through August and then releases them all at once. This is the most perishable section on the page; everything below opened in the first ten days of the month.
-
-**Nakimushi** in Notting Hill (7 Kensington Mall, W8 4DY) is the one generating most noise. From the Dorian team, in a townhouse, bringing together **Yuji Shimokawa Kelly of Urchin and Robin Kosuge of Robin's Ramen** — a ramen bar downstairs and a broader Japanese menu above, with dishes like red prawn and courgette gyoza with umeboshi.
-
-In the City, **The Albatross** (8–10 Old Jewry, EC2R 8DN) is the Goodman and Wild group's first proper pub, with **Chris Dunlop, previously of New York's The Spotted Pig**, brought in as landlord to get the pub part right. The food is seafood-led — lobster thermidor, bisque, oyster platters.
-
-**Cordelia's** in Mayfair (6 Clarges Street, W1J 8AE) is a steakhouse in the old **Joël Robuchon** space, built round a charcoal bar, with British cuts alongside Galician and Parmesan-fed Italian beef. **Beefbar** has taken over **Dear Jackie** inside Broadwick Soho, keeping the name and the downstairs decor. **Le Cafe LPM** has opened inside the Lanesborough at Hyde Park Corner as a twelve-month residency, terrace included.
-
-Further out, **Marrion's** on Morning Lane in Hackney is a neighbourhood bar from the man behind Norman's — classic cocktails, Spanish beer, devilled crab rarebit. **Pardeh** in Bethnal Green is Persian; **Pino** in Stoke Newington is Puglian, with riso, patate e cozze on the menu.
-
-Three more worth watching: **Romy Gill has taken over The Pem** in St James's and turned it to regional Indian cooking; **Endo Kazutoshi** has opened his ENDO omakase room in Chelsea with a Moga listening bar above it; and **the Savoy's Beaufort Bar has become a wine bar**, complete with a bespoke charcuterie trolley. The Mr Fogg's team are opening **The Admiral's Mess** inside Admiralty Arch, where Clare Smyth and Daniel Boulud are also arriving.
-
 ## Practical: September in London
 
-**Weather.** Typically 19–21°C by day, 12–13°C at night, cooling through the month, and historically one of the drier ones. The thing to plan for is the gap between afternoon and evening: take a jacket even when the day is warm.
+**Weather.** Typically 19–21°C by day, 12–13°C at night, cooling through the month, and historically one of the drier ones. Plan for the gap between afternoon and evening: take a jacket even when the day is warm.
 
 **Daylight.** Sunset moves from roughly 7.30pm on the 1st to about 6.45pm on the 30th, with the equinox around the 22nd. The last good evenings for river walks, roof terraces and outdoor tables are in the first three weeks.
 
-**Crowds.** The best argument for September. Schools return in the first week and the difference is immediate — from about the 5th, the big museums, the major attractions and the restaurants that never have tables all become manageable.
+**Crowds.** Schools return in the first week and the difference is immediate: from about the 5th, the big museums, the major attractions and the restaurants that never have tables all become manageable.
 
-**Prices.** Hotel rates fall from the August peak in the first week, then climb sharply for the middle stretch when Open House, the Design Festival and Fashion Week land on top of each other. If you are flexible, the first week and the last week of September are the value in September.
+**Prices.** Hotel rates fall from the August peak in the first week, then climb sharply for the middle stretch when Open House, the Design Festival and Fashion Week land on top of each other. The first and last weeks of September are the value.
 
-**Looking ahead.** October brings five art fairs in a single week alongside the closing weekend of the [BFI London Film Festival](/articles/london-film-festival/), a free Bayeux Tapestry festival at the British Museum, and the clocks going back. It is all in our [Things to Do in London in October](/articles/things-to-do-in-london-in-october/) guide.
+**Looking ahead.** October brings the [BFI London Film Festival](/articles/london-film-festival/) and the clocks going back. It is all in our [Things to Do in London in October](/articles/things-to-do-in-london-in-october/) guide.
 
 **Comparing September against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets every month's weather, crowds and cost against each other.
 
