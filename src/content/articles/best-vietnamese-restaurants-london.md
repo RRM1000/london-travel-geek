@@ -29,7 +29,7 @@ faq:
     a: "Deptford and Rotherhithe as much as Shoreditch. Eat Vietnam on Evelyn Street says 60% of its customers are Vietnamese and its chefs live locally; Phở Thúy Tây reports the same. Both are named by Thuy Hoang, a British-Vietnamese cook."
 ---
 
-A stretch of Kingsland Road is known as the Pho Mile, and most guides to Vietnamese food in London start there.
+A stretch of Kingsland Road in Shoreditch is known as the Pho Mile.
 
 The two most-named restaurants are on it. **The one judged award went to Peckham, and the bánh mì people argue about comes from a bakery on the Mile, not from one of its restaurants.**
 

@@ -103,7 +103,7 @@ Walk into St James's or two stops to Covent Garden, not eating on the bridge app
 
 **Allow two and a half to three hours.** The Crown Jewels, the White Tower and the ramparts are three separate visits inside one wall.
 
-> 💡 **Take the late-morning slot, not the first one.** Historic Royal Palaces says the Tower is quieter after midday. The free **Yeoman Warder tour** runs roughly every half hour, and the last one included in the ticket leaves mid-afternoon. An 11:00 or 12:00 entry clears the morning crush and still catches a Beefeater. This week the Tower is open 9am to 4.30pm daily, with last entry at 3pm.
+> 💡 **Take the late-morning slot, not the first one.** Historic Royal Palaces says the Tower is quieter after midday. The free **Yeoman Warder tour** runs roughly every half hour, and the last one included in the ticket leaves mid-afternoon. An 11:00 or 12:00 entry clears the morning crush and still catches a Beefeater.
 
 ### Tower Bridge
 
