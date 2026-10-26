@@ -140,7 +140,7 @@ The indoor **Comic Art Museum** (also known as the Belgian Comic Strip Center) i
 
 ### The Atomium question
 
-The **Atomium**, nine steel spheres 102 metres tall built for the 1958 World's Fair, is a detour, not a stop on the way to anything. It sits at Heysel, north of the centre, a **direct 15-minute Metro line 6 ride from Brussels-Midi**, no change. Five spheres are open to visitors; the top-sphere panorama is currently closed. Adult admission is **€17**, which also covers the Design Museum Brussels 150 metres away. It is open every day, 10am to 6pm (last entry 5:30pm), and closed from 18 January to 5 February 2027. Tickets are currently sold at the ticket office only, with waits of 45 minutes to two hours.
+The **Atomium**, nine steel spheres 102 metres tall built for the 1958 World's Fair, is a detour, not a stop on the way to anything. It sits at Heysel, north of the centre, a **direct 15-minute Metro line 6 ride from Brussels-Midi**, no change. Five spheres are open to visitors; the top-sphere panorama is temporarily closed. Adult admission is **€17**, which also covers the Design Museum Brussels 150 metres away. It is open every day, 10am to 6pm (last entry 5:30pm), and closed from 18 January to 5 February 2027. Tickets are sold at the ticket office only, with waits of 45 minutes to two hours.
 
 ![The Atomium's nine steel spheres and connecting tubes against a blue sky, seen from the avenue leading up to it](../../assets/articles/brussels-day-trip/atomium.jpg)
 
