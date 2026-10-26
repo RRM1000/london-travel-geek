@@ -3,7 +3,8 @@ title: "The Most Instagrammable Restaurants in London, Ranked by How Many Lists 
 seoTitle: "Most Instagrammable Restaurants London 2026: Ranked"
 description: "The rooms London's guides keep naming — a Mayfair Greco-Roman fantasy with Damien Hirst marbles, a townhouse of rooms with egg-pod lavatories, a courthouse atrium — and which ones cook as well as they photograph."
 publishedAt: 2026-07-03
-updatedAt: 2026-09-22
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 heroImage: "../../assets/articles/most-instagrammable-restaurants-london/circolo-popolare-room.jpg"
@@ -15,21 +16,17 @@ faq:
   - q: "What is the most Instagrammable restaurant in London?"
     a: "Bacchanalia in Mayfair is named by six of the seven guides read for this page, more than any other room. It is a Greco-Roman fantasy designed by Martin Brudnizki, with marble sculptures by Damien Hirst and hand-painted ceiling murals. Sketch and Circolo Popolare follow on five each."
   - q: "Which Instagrammable restaurant in London is cheapest?"
-    a: "Bar Douro in Borough, at ££. It is a narrow Portuguese counter lined in hand-painted azulejo tiles, and the only room on this list whose look comes from tilework rather than money. Circolo Popolare, Ave Mario, Gloria and Bancone are also ££."
+    a: "Bar Douro in Borough, at ££. It is a narrow Portuguese counter lined in hand-painted azulejo tiles. Circolo Popolare, Ave Mario, Gloria and Bancone are also ££."
   - q: "Is Sky Garden free?"
-    a: "Entry to the garden itself is free with a booked time slot, released on a rolling window and taken quickly. The restaurants inside it are not free and are booked separately. This is the detail people most often get wrong."
+    a: "Entry to the garden itself is free with a booked time slot, released on a rolling window and taken quickly. The restaurants inside it are not free and are booked separately."
   - q: "Do these restaurants serve good food?"
     a: "Some do and some do not, and this page ranks the room, not the kitchen. Spring at Somerset House and Sessions Arts Club are cited as often for the cooking as the setting. The Ivy Chelsea Garden is a chain, and Sky Garden is a viewing platform with restaurants in it."
   - q: "How far ahead do I need to book?"
     a: "Sessions Arts Club runs months out. Bacchanalia, Sketch, Bob Bob Ricard, NoMad London, Spring and Isabel are weeks. Bar Douro, Sucre, Tattu, Dalloway Terrace and The Ivy Chelsea Garden are usually days. Sky Garden needs a free timed slot booked in advance even if you are not eating."
 ---
 
-Some rooms are booked for the cooking and some are booked for the photograph, and this page is only about the second kind.
-
-**Every venue below is ranked by how many independent guides name it for its interior**, not by how it eats. A few are among the better kitchens in London. One is a chain. One is a viewing platform with restaurants inside it. Where a room is better looking than it is good, this page says so.
-
 > 📌 **The short version.**
-> **Bacchanalia**, Mayfair, is named by six of seven sources — more than any other room in London. **Sketch** and **Circolo Popolare** follow on five each. The cheapest striking room is **Bar Douro** in Borough at ££. The one people get wrong is **Sky Garden**: the garden is free with a booked slot, the restaurants inside it are not.
+> Rooms are ranked by how many independent guides name them for the interior, not the cooking. **Bacchanalia**, Mayfair, is named by six of seven sources, more than any other room in London. **Sketch** and **Circolo Popolare** follow on five each. The cheapest striking room is **Bar Douro** in Borough at ££. The one people get wrong is **Sky Garden**: the garden is free with a booked slot, the restaurants inside it are not.
 
 > 📊 **The evidence behind this guide.**
 > **7 sources carrying 148 citations** across **105 named venues**. **23 rooms are named by two or more independent sources.**
@@ -75,7 +72,7 @@ Some rooms are booked for the cooking and some are booked for the photograph, an
 
 ## The most-named rooms
 
-No judged award exists for a restaurant interior, so what follows is agreement rather than a winner. On three rooms that agreement is near-unanimous.
+No award exists for a restaurant interior, so this is agreement rather than a winner.
 
 ### Bacchanalia, Mayfair
 
@@ -84,9 +81,9 @@ No judged award exists for a restaurant interior, so what follows is agreement r
 ![The long dining room at Bacchanalia, red velvet banquettes and tables beneath a hand-painted ceiling of classical figures, with white marble sculptures set into the grotto-style walls](../../assets/articles/most-instagrammable-restaurants-london/bacchanalia-room.jpg)
 *The ceiling murals at Bacchanalia.*
 
-**Six of the seven sources name it, more than any other room here.** It is a Greco-Roman fantasy on Mount Street: marble sculptures by Damien Hirst, hand-painted ceiling murals by Gary Myatt, and an interior by Martin Brudnizki, the designer behind a good proportion of the other rooms on this page.
+A Greco-Roman fantasy on Mount Street: marble sculptures by Damien Hirst, hand-painted ceiling murals by Gary Myatt and an interior by Martin Brudnizki.
 
-The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and it is expensive in the way Mayfair is expensive. Country & Town House is the only source here that credits the designers by name.
+The cooking is Greek and southern Italian: grilled fish, mezze, pasta.
 
 ### Sketch, Mayfair
 
@@ -95,18 +92,18 @@ The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and
 ![The bar at Sketch, a woodland mural lit in shafts of light, with bottles on floating wooden shelves under a dark red panelled ceiling](../../assets/articles/most-instagrammable-restaurants-london/sketch-bar.jpg)
 *The Glade, at Sketch.*
 
-**Sketch is not one room, so get that right before booking.** It is a Georgian townhouse at **9 Conduit Street, W1S 2XG**, divided into rooms that look nothing like each other, and every source on this page calls all of them "Sketch". Book the room you have seen a photograph of, not the address.
+**Sketch is several rooms**, in a Georgian townhouse at **9 Conduit Street, W1S 2XG**. Book the room you have seen a photograph of, not the address.
 
-- **The Gallery** is the room people mean — **and it is no longer pink.** The millennial-pink velvet and David Shrigley drawings that made it famous were replaced in 2022, when India Mahdavi redesigned it in warm yellow and copper around artworks by Yinka Shonibare. Most photographs online are still of the pink version. It serves **afternoon tea and dinner**, and afternoon tea is both the easiest booking to get and the cheapest way in.
-- **The Glade** is the room in the photograph above: a woodland painted across every wall, lit in shafts as though through a canopy, with the bottles on floating wooden shelves. Breakfast, lunch and afternoon tea by day, a bar at night.
+- **The Gallery** is the room people mean, and **it is no longer pink**: the pink velvet and David Shrigley drawings were replaced in 2022 by India Mahdavi's yellow-and-copper redesign around artworks by Yinka Shonibare, though many photographs online show the old version. It serves **afternoon tea and dinner**; afternoon tea is the easiest booking and the cheapest way in.
+- **The Glade** is the room in the photograph above: a woodland painted across every wall, with bottles on floating wooden shelves. Breakfast, lunch and afternoon tea by day, a bar at night.
 - **The Parlour** is the casual one, open all day.
-- **The Lecture Room & Library** is Pierre Gagnaire's fine-dining room, with **three Michelin stars** in the 2026 guide — a tasting menu at a completely different price, and a booking that needs months rather than weeks.
+- **The Lecture Room & Library** is Pierre Gagnaire's fine-dining room, with **three Michelin stars** in the 2026 guide, a tasting menu at a much higher price and a booking that needs months.
 - **The East Bar** at the back is a small round room under a domed ceiling, beside the pods.
 
 ![The Gallery at Sketch since its 2022 redesign, long yellow velvet banquettes and white-clothed tables under a gilded ceiling, with artworks on copper-coloured walls](../../assets/articles/most-instagrammable-restaurants-london/sketch-gallery.jpg)
 *The Gallery, at Sketch.*
 
-**And the lavatories.** Up the staircase from the Gallery is an atrium of **egg-shaped pods**, each a self-contained white capsule under a stained-glass dome, with birdsong playing.
+**The lavatories** are egg-shaped pods in an atrium up the staircase from the Gallery, under a stained-glass dome, with birdsong playing.
 
 > 💡 **The pods are free.** You do not need a booking, a table or a drink to walk up and photograph them.
 
@@ -120,13 +117,13 @@ The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and
 ![The dining room at Circolo Popolare, its walls stacked with bottles under a canopy of greenery, wisteria and fairy lights](../../assets/articles/most-instagrammable-restaurants-london/circolo-popolare-room.jpg)
 *The dining room at Circolo Popolare.*
 
-**The cheapest of the three most-cited rooms, at ££ against ££££.** Big Mamma's Sicilian room hangs fairy lights from a canopy of foliage over walls stacked floor to ceiling with bottles — one source counts over 20,000, though that is the restaurant's own figure repeated.
+Big Mamma's Sicilian room hangs fairy lights from a canopy of foliage over walls stacked floor to ceiling with bottles. It is ££ against ££££ for the other two most-cited rooms.
 
-**Order the truffle pasta**, finished tableside in a wheel of pecorino, or the **giant lemon meringue pie**, which arrives about the size of a football and is built to be photographed. Pizza and regional southern Italian otherwise. The portions are enormous and the prices are not Mayfair.
+**Order the truffle pasta**, finished tableside in a wheel of pecorino, or the **giant lemon meringue pie**, about the size of a football. Pizza and regional southern Italian otherwise. Portions are large.
 
-**It is loud** — the room is designed for volume and turnover, which is the trade for the price.
+**It is loud.**
 
-**Book weeks ahead**; the queue for walk-ins is real. 40–41 Rathbone Place, W1T 1HX, three minutes from Tottenham Court Road. If you want the photograph without the wait, its sibling **Ave Mario** in Covent Garden is the same idea with a hall of mirrors and duomo-striped walls.
+**Book weeks ahead**; walk-ins queue. 40–41 Rathbone Place, W1T 1HX, three minutes from Tottenham Court Road. Its sibling **Ave Mario** in Covent Garden has a hall of mirrors and duomo-striped walls.
 
 ---
 
@@ -141,11 +138,11 @@ The cooking is Greek and southern Italian — grilled fish, mezze, pasta — and
 ![The main hall at Ave Mario, black-and-white striped walls and arches under globe chandeliers, with red velvet booths and walls of bottles behind](../../assets/articles/most-instagrammable-restaurants-london/ave-mario-room.jpg)
 *The main hall at Ave Mario.*
 
-A Studio Kiki room with psychedelic duomo-striped walls, a hall of mirrors and a bar holding 3,500 bottles. Same group as Circolo Popolare and the same trick — maximalism at a price that does not match it. The lavatories are a mirrored infinity room.
+A Studio Kiki room with duomo-striped walls, a hall of mirrors and a bar holding 3,500 bottles. Same group as Circolo Popolare. The lavatories are a mirrored infinity room.
 
-**Order the pasta here, not the pizza.** The **cacio e pepe**, finished in the cheese wheel, and the **carbonara** are what the kitchen is for; the grill menu is the weaker half.
+**Order the pasta here, not the pizza.** The **cacio e pepe**, finished in the cheese wheel, and the **carbonara**.
 
-**It is enormous** — several rooms over two floors — so where you are seated changes the experience completely. Ask for the main hall, not the side rooms if the interior is why you are coming.
+**It has several rooms over two floors.** Ask for the main hall if the interior is why you are coming.
 
 **15 Henrietta Street, WC2E 8QG**, five minutes from Embankment. Books weeks ahead.
 
@@ -158,27 +155,27 @@ A Studio Kiki room with psychedelic duomo-striped walls, a hall of mirrors and a
 
 Built around **a 24-foot crystal-encrusted Damien Hirst Pegasus**, in Art Deco mirror and brass inside Selfridges. Four sources name it and every one leads on the sculpture.
 
-**The menu is brasserie classics**: a seafood counter with oysters and shellfish platters, **steak tartare**, **truffle chicken**, and a long list of salads aimed squarely at people who have been shopping. Seasonal and unfussy rather than inventive.
+**The menu is brasserie classics**: a seafood counter with oysters and shellfish platters, **steak tartare**, **truffle chicken** and salads.
 
-**It is inside Selfridges**, on the first floor, which is the practical fact — it keeps the store's hours rather than restaurant hours, so it closes earlier than you would expect for somewhere at this price.
+**It is on the first floor of Selfridges** and keeps the store's hours.
 
-**Only a few days' notice needed**, unlike most of this page. 400 Oxford Street, W1A 1AB, three minutes from Bond Street.
+**A few days' notice is usually enough.** 400 Oxford Street, W1A 1AB, three minutes from Bond Street.
 
 ### Dalloway Terrace, Bloomsbury
 
 *£££ · Bloomsbury · 2 min from Tottenham Court Road · Cited by 4 sources · book a few days ahead*
 
-A covered terrace at The Bloomsbury Hotel whose floral installation is **changed with the season** — wisteria in spring, something else entirely in November. Check that before travelling for a specific photograph, because the room you saw online may not be the room that is there on the day.
+A covered terrace at The Bloomsbury Hotel whose floral installation **changes with the season**, from wisteria in spring to dried autumn foliage. Check what is up before travelling for a specific photograph.
 
 ![Dalloway Terrace dressed in dried autumn foliage in copper, cream and gold across the walls and ceiling, with marble tables and rattan chairs](../../assets/articles/most-instagrammable-restaurants-london/dalloway-terrace-autumn.jpg)
 ![The same terrace in summer, green climbing plants and blue flowers on the walls over the same marble tables and rattan chairs](../../assets/articles/most-instagrammable-restaurants-london/dalloway-terrace-summer.jpg)
 *Dalloway Terrace, in two seasons.*
 
-**It is an all-day room, not a dinner one.** Breakfast, then **afternoon tea**, then a short brasserie menu — and afternoon tea is what it is really for, taken under the flowers with the terrace heated and covered.
+**It is an all-day room.** Breakfast, then **afternoon tea**, then a short brasserie menu; the terrace is heated and covered.
 
-**Two minutes from Tottenham Court Road and about five from the [British Museum](/articles/british-museum-guide/)**, so it works as the sit-down after a museum day, not a trip of its own.
+**Two minutes from Tottenham Court Road and about five from the [British Museum](/articles/british-museum-guide/).**
 
-**A few days' notice is usually enough**, which makes it much the easiest booking here. 16–22 Great Russell Street, WC1B 3NN.
+**A few days' notice is usually enough.** 16–22 Great Russell Street, WC1B 3NN.
 
 ### Gloria, Shoreditch
 
@@ -189,11 +186,11 @@ A covered terrace at The Bloomsbury Hotel whose floral installation is **changed
 
 Big Mamma's 1970s Capri pastiche: hand-painted plates, a blossom tree in the middle of the room, and striped banquettes.
 
-**The dish to order is the carbonara**, made in a hollowed pecorino wheel at the table, and the **lemon meringue** for pudding — both are the group's signatures and both are what the room is photographed with.
+**Order the carbonara**, made in a hollowed pecorino wheel at the table, and the **lemon meringue** for pudding.
 
-**It is two different rooms on two floors**, and only one of them is the room in the photographs. The ground floor is the bright Capri room with the blossom tree; the basement is a darker 1970s room with a mirrored ceiling. Ask for upstairs if you want the room in the pictures.
+**It is two different rooms on two floors.** The ground floor is the bright Capri room with the blossom tree; the basement is a darker 1970s room with a mirrored ceiling. Ask for the ground-floor room if you want the room in the pictures.
 
-**Books weeks ahead** like the rest of the group. 54–56 Great Eastern Street, EC2A 3QR, eight minutes from Old Street.
+54–56 Great Eastern Street, EC2A 3QR, eight minutes from Old Street. Books weeks ahead.
 
 ### Jacuzzi, Kensington
 
@@ -204,9 +201,9 @@ A four-floor Sicilian palazzo on Kensington High Street under a **retractable gl
 ![The dining room at Jacuzzi, red curved booths and white tables around indoor trees, under Murano glass chandeliers hung with fairy lights](../../assets/articles/most-instagrammable-restaurants-london/jacuzzi-room.jpg)
 *The main room at Jacuzzi.*
 
-**Plan around the roof.** It opens in warm weather and the room becomes a different place; on a wet January evening you are in a covered atrium instead. Worth asking when you book if the open roof is what you came for.
+**Plan around the roof.** It opens in warm weather; otherwise it is a covered atrium. Ask when you book if the open roof is what you came for.
 
-**Order the seafood** — the raw bar and the fritto misto are what the kitchen does best — or the pasta, which is the group's usual strength.
+**Order the seafood**: the raw bar and the fritto misto, or the pasta.
 
 **Also Big Mamma**, one of four rooms on this page from that group. **High Street Kensington**, one minute from the station.
 
@@ -214,16 +211,16 @@ A four-floor Sicilian palazzo on Kensington High Street under a **retractable gl
 
 *££££ · Clerkenwell · 3 min from Farringdon · Cited by 3 sources · book months ahead*
 
-**A restored eighteenth-century courthouse**, on the top floor of the old Clerkenwell Sessions House, with peeling plaster left deliberately unrestored and battered armchairs scattered through it. The hardest booking on this page — months rather than weeks.
+**A restored eighteenth-century courthouse**, on the top floor of the old Clerkenwell Sessions House, with peeling plaster left deliberately unrestored and battered armchairs scattered through it.
 
 ![The dining room at Sessions Arts Club, tall arched windows and walls of peeling green and pink plaster above candlelit tables with white cloths](../../assets/articles/most-instagrammable-restaurants-london/sessions-arts-club-room.jpg)
 *The dining room at Sessions Arts Club.*
 
 It is also one of the few here where the kitchen is cited as often as the interior.
 
-**The cooking is short, seasonal and small-plates** — whatever is good that week rather than a fixed list — so there is no dish to name in advance, and the menu changes often enough that regulars come back for it, not the room.
+**The cooking is short, seasonal small plates** and the menu changes often, so there is no dish to name in advance.
 
-**Book months ahead**, and note it is on the top floor of the old Sessions House with the entrance easy to miss from Clerkenwell Green. 24 Clerkenwell Green, EC1R 0NA, three minutes from Farringdon.
+**Book months ahead.** The entrance is easy to miss from Clerkenwell Green. 24 Clerkenwell Green, EC1R 0NA, three minutes from Farringdon.
 
 ---
 
@@ -231,9 +228,9 @@ It is also one of the few here where the kitchen is cited as often as the interi
 
 ## The Big Mamma rooms
 
-**Four of the twenty-three rooms named by two or more sources belong to one group.** When every guide agrees, some of that agreement is one company's design department.
+**Four of the twenty-three rooms named by two or more sources belong to one group.**
 
-Big Mamma builds maximalist Italian rooms at prices that do not match them, and it now has six London sites. Ranked by how many of this page's sources name each:
+Big Mamma has six London sites. Ranked by how many of this page's sources name each:
 
 | Room | Where | Named by |
 | --- | --- | --- |
@@ -249,11 +246,9 @@ Big Mamma builds maximalist Italian rooms at prices that do not match them, and 
 ![The dining room at Carlotta, deep red leather booths and small tables in front of ruched cream curtains, with framed boxing posters and photographs on the walls](../../assets/articles/most-instagrammable-restaurants-london/carlotta-room.jpg)
 *Carlotta, Marylebone.*
 
-**Barbarella** in Canary Wharf is a 1970s Italian fantasy, and none of the seven guides name it. Interior lists lag: a room has to be open long enough to be written up, and these guides are refreshed less often than the group opens restaurants. Both rooms are on Big Mamma's own site, and both are listed here rather than ranked because no source reaches them.
+**Barbarella** in Canary Wharf is a 1970s Italian fantasy that none of the seven guides name. It is listed here rather than ranked.
 
 ## By setting
-
-Rooms group by what makes them photograph well, not by price.
 
 **Inside a building that was something else first.** Sessions Arts Club, an eighteenth-century courthouse. **NoMad London**, a three-storey glass atrium in the former Bow Street Magistrates Court, opposite the Royal Opera House and a working court until 2006. *££££ · Covent Garden · 3 min from Covent Garden · Cited by 2 sources.*
 
@@ -275,7 +270,7 @@ Rooms group by what makes them photograph well, not by price.
 ![The rooftop dining room at Seabird, rattan chairs, palms and woven pendant lamps in front of floor-to-ceiling windows over the city](../../assets/articles/most-instagrammable-restaurants-london/seabird-room.jpg)
 *Seabird's rooftop dining room.*
 
-**[Sky Garden](/articles/sky-garden-guide/)** is not really a restaurant at all — it is a planted dome on top of 20 Fenchurch Street with restaurants inside it. **Entry to the garden is free with a booked timed slot**; the restaurants are separate and are not. *£££ · City of London · 3 min from Monument · Cited by 2 sources.*
+**[Sky Garden](/articles/sky-garden-guide/)** is a planted dome on top of 20 Fenchurch Street with restaurants inside it. **Entry to the garden is free with a booked timed slot**; the restaurants are separate and are not. *£££ · City of London · 3 min from Monument · Cited by 2 sources.*
 
 ![Terraced tropical planting inside the glass dome of Sky Garden, with visitors at the windows looking out over east London](../../assets/articles/most-instagrammable-restaurants-london/sky-garden.jpg)
 *The garden inside Sky Garden.*
@@ -285,7 +280,7 @@ Rooms group by what makes them photograph well, not by price.
 ![The walled garden at The Ivy Chelsea Garden, café tables under a green scalloped umbrella surrounded by potted plants and climbers](../../assets/articles/most-instagrammable-restaurants-london/ivy-chelsea-garden.jpg)
 *The Ivy Chelsea Garden's walled garden.*
 
-**Basements.** **Sucre** in Soho is lit by cut-glass chandeliers over an open fire kitchen; one source calls it impressive but *just subdued enough not to feel gimmicky*. *£££ · Soho · 5 min from Oxford Circus · Cited by 2 sources.*
+**Basements.** **Sucre** in Soho is lit by cut-glass chandeliers over an open fire kitchen. *£££ · Soho · 5 min from Oxford Circus · Cited by 2 sources.*
 
 ![The long dining room at Sucre, clusters of glass chandeliers over leather chairs and banquettes, with the open kitchen lit at the far end](../../assets/articles/most-instagrammable-restaurants-london/sucre-room.jpg)
 *Sucre's chandeliers.*
@@ -293,8 +288,6 @@ Rooms group by what makes them photograph well, not by price.
 ---
 
 ## The cheapest striking rooms
-
-Most of this list is expensive. Four rooms are not.
 
 - **[Bar Douro](#bar-douro-borough)** — ££, Borough. Hand-painted azulejo tiles under a slatted ceiling. *Cited by 2 sources.*
 - **Circolo Popolare** — ££, Fitzrovia. *Cited by 5 sources.*
@@ -310,21 +303,21 @@ Most of this list is expensive. Four rooms are not.
 
 A narrow Portuguese counter, tiled floor to ceiling in hand-painted azulejos, under a slatted shack-like ceiling, at ££.
 
-**Order the petiscos**: the **presunto**, the **bacalhau**, the **pastéis de nata** made on site, and a glass of something from the Douro — the list is heavily Portuguese and priced to be drunk rather than admired.
+**Order the petiscos**: the **presunto**, the **bacalhau**, the **pastéis de nata** made on site, and a glass of something from the Douro.
 
-**You eat sitting at the counter**, which is the format rather than a shortage of tables, so it suits two people, not a group.
+**You eat sitting at the counter**, so it suits two people, not a group.
 
-**A few days' notice is enough**, unlike almost everything else here. It is in a railway arch off Southwark Bridge Road, five minutes from Borough.
+**A few days' notice is enough.** It is in a railway arch off Southwark Bridge Road, five minutes from Borough.
 
 ---
 
 ## All look, ordinary plate
 
-A room can be worth photographing and unremarkable to eat in, and three here are cited almost entirely for the interior:
+Three rooms here are cited almost entirely for the interior:
 
-- **Sky Garden** is a viewing platform. The restaurants inside it are convenient rather than good, and the garden, which is what people come for, is free.
-- **The Ivy Chelsea Garden** is part of a chain. People come for the walled garden; the menu is the same brasserie list served across the group.
-- **Brasserie of Light** sits inside a department store and is named by four sources, every one of which leads on the Pegasus sculpture rather than anything on the plate.
+- **Sky Garden** is a viewing platform with restaurants inside it.
+- **The Ivy Chelsea Garden** is part of a chain. People come for the walled garden; the menu is the group's brasserie list.
+- **Brasserie of Light** sits inside a department store; its four sources all lead on the Pegasus sculpture.
 
 Where the cooking does match the room: **Spring** at Somerset House, **Sessions Arts Club**, and **Bar Douro**.
 
@@ -337,9 +330,9 @@ Skye Gyngell's dining room in the New Wing of Somerset House — a nineteenth-ce
 ![The dining room at Spring in Somerset House, white-clothed tables and tan leather chairs between white columns, under clusters of white globe lights](../../assets/articles/most-instagrammable-restaurants-london/spring-room.jpg)
 *Spring's dining room.*
 
-**The cooking is seasonal and Italian-influenced**, built around produce from a single Sussex farm, so the menu changes constantly and there is no signature dish to name.
+**The cooking is seasonal and Italian-influenced**, built around produce from a single Sussex farm, so the menu changes constantly.
 
-> 💡 **The Scratch menu is the way in.** An early-evening set menu made from the day's trimmings and surplus, at a fraction of the à la carte, served before the main service starts.
+> 💡 **The Scratch menu is the way in.** An early-evening set menu made from the day's trimmings and surplus, served before the main service starts.
 
 **Somerset House, Lancaster Place, WC2R 1LA**, four minutes from Temple — and the courtyard outside is free, with fountains in summer and a rink in winter.
 
@@ -356,7 +349,7 @@ Rooms carried by two sources each:
 - **Tattu**, Fitzrovia — a Joyce Wang Studio room built as a Chinese courtyard around a full-size cherry blossom tree. The only venue here named by two editorial sources and no blog. *£££ · 3 min from Tottenham Court Road.*
 - **Joia**, Battersea — Portuguese cooking high in the Art'otel with floor-to-ceiling glass. *££££ · 2 min from Battersea Power Station.*
 - **Bancone**, Covent Garden — golden light over curved marble pasta counters. *££ · 3 min from Charing Cross.*
-- **Sticks'n'Sushi**, Battersea — Danish-Japanese, and the plainest room here. *£££ · 2 min from Battersea Power Station.*
+- **Sticks'n'Sushi**, Battersea — Danish-Japanese. *£££ · 2 min from Battersea Power Station.*
 
 ![The press-for-champagne button in a brass plate on a marble wall at Bob Bob Ricard, with a hand holding a glass of rosé champagne beside it](../../assets/articles/most-instagrammable-restaurants-london/bob-bob-ricard-champagne-button.jpg)
 *The press-for-champagne button, at Bob Bob Ricard.*
@@ -381,6 +374,6 @@ Two other guides are worth reading alongside this one: [unusual restaurants](/ar
 
 ## What to know
 
-**Seasonal rooms change.** Dalloway Terrace and The Ivy Chelsea Garden are both dressed to the season. The photograph that brought you here may be six months old.
+**Seasonal rooms change.** Dalloway Terrace and The Ivy Chelsea Garden are dressed to the season.
 
-**One room, several rooms.** Sketch is the clearest case: the Gallery, the Lecture Room and the lavatory pods are all "Sketch" to a source and all different to a diner.
+**One room, several rooms.** At Sketch, the Gallery, the Lecture Room and the lavatory pods are all "Sketch" to a source.
