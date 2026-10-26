@@ -340,7 +340,7 @@ Modern Turkish: **mezze, grilled meats and fish**, aimed at the City lunch trade
 
 ---
 
-## Recently opened
+## Named as a new restaurant
 
 ### Kismet, Borough
 
