@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Lutyens_Midland_Bank.JP
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
 publishedAt: 2026-09-24
-updatedAt: 2026-09-25
-reviewBy: 2027-03-24
+updatedAt: 2026-10-26
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -20,7 +20,7 @@ faq:
   - q: "Is the City of London a good area to stay in?"
     a: "Yes, for transport and for weekend prices. Liverpool Street and Farringdon are on the Elizabeth line with direct trains to Heathrow, Bank has five lines plus the DLR, and St Paul's and the Tower of London are both inside the Square Mile. The drawback is the evening: the City is an office district, so many of its pubs and restaurants keep weekday hours. For nightlife, Shoreditch is ten minutes' walk north of Liverpool Street."
   - q: "Are City of London hotels cheaper at weekends?"
-    a: "Often, because they are priced for business travellers from Monday to Thursday. South Place Hotel's own offer took up to 20% off Friday and Saturday nights in September and October 2026, with breakfast. Price a Friday and Saturday against a Tuesday before you book, and check the City against the West End for the same weekend."
+    a: "Often, because they are priced for business travellers from Monday to Thursday. South Place Hotel's November Nights offer, for Friday to Sunday stays in November 2026, is from £345 with breakfast and 50% off dining and drinks in the hotel. Price a Friday and Saturday against a Tuesday before you book, and check the City against the West End for the same weekend."
   - q: "Is the City of London dead at weekends?"
     a: "The office streets are, and some places close outright: the Bank of England Museum shuts at weekends and the Jamaica Wine House, a pub off Cornhill since 1652, opens Monday to Friday only. Tower Hill stays busy with visitors, Old Spitalfields Market trades daily, and Leadenhall Market's pubs and restaurants open through the weekend, with free pop-up markets from 12 to 5pm on set Saturdays and Sundays."
   - q: "What is the cheapest place to stay in the City of London?"
@@ -37,7 +37,7 @@ The range runs from a **£60 Z room on Fleet Street** and a hostel in St Paul's 
 
 ## Weekdays, weekends and the price
 
-**Hotel prices follow the offices.** South Place Hotel's own offer took up to 20% off Friday and Saturday nights in September and October 2026, with breakfast. Price a Friday and Saturday against a Tuesday, and against the West End for the same weekend.
+**Hotel prices follow the offices.** South Place Hotel's November Nights offer, for Friday to Sunday stays in November 2026, is from £345 with breakfast and 50% off dining and drinks in the hotel. Price a Friday and Saturday against a Tuesday, and against the West End for the same weekend.
 
 **What closes.** The Bank of England Museum and the Jamaica Wine House, a pub off Cornhill since 1652, open Monday to Friday only. St Paul's Cathedral is open for sightseeing Monday to Saturday; on Sundays it is open for services.
 
@@ -49,7 +49,7 @@ The range runs from a **£60 Z room on Fleet Street** and a hostel in St Paul's 
 
 **St Paul's and the river** is the west: the cathedral, the lanes of Carter Lane behind it, and the Millennium Bridge to Tate Modern. Most of the apartment buildings are here, and Fleet Street runs west to the Royal Courts of Justice.
 
-**Bank, Moorgate and Liverpool Street** is the middle and north: the Royal Exchange, Leadenhall Market and the towers, with the best train connections in the City.
+**Bank, Moorgate and Liverpool Street** is the middle and north: the Royal Exchange, Leadenhall Market and the towers, with the Elizabeth line and the Stansted Express at Liverpool Street.
 
 **Tower Hill** is the south-east: the Tower of London, Tower Bridge and the Roman wall. It is the corner that stays busy at weekends.
 
@@ -63,7 +63,7 @@ Our [City of London area guide](/articles/city-of-london-area-guide/) covers wha
 
 ## Hotels around St Paul's and the river
 
-### The Z Hotel City — the cheapest room in this guide
+### The Z Hotel City — compact rooms on Fleet Street
 
 *£60 single, £75 double with a window · 113 rooms · 24 Fleet Street, EC4Y 1AA · Temple and Chancery Lane 7 min · [Hotels.com](hotelscom:h103089591)*
 
@@ -83,7 +83,7 @@ Compact rooms at the western end of Fleet Street, near the Royal Courts of Justi
 
 *Dorms and private rooms · 36 Carter Lane, EC4V 5AB · St Paul's Cathedral 1 min · [Hotels.com](hotelscom:h11535931)*
 
-For nearly a hundred years this building was the school for St Paul's choirboys, and their graffiti survives in a wood-panelled former classroom. Most rooms are dormitories with bunk beds; private rooms are available too.
+The former St Paul's choir school, where the choirboys' graffiti survives in a wood-panelled former classroom. Most rooms are dormitories with bunk beds; private rooms are available too.
 
 ![A dormitory at YHA London St Paul's with numbered grey steel bunk beds made up in green bedding, tall wooden lockers, a skylight and a washbasin with a mirror on the wall](../../assets/articles/where-to-stay-city-of-london/yha-london-st-pauls-room.jpg)
 
@@ -93,7 +93,7 @@ For nearly a hundred years this building was the school for St Paul's choirboys,
 
 *£££ · Studios 36 sq m to three bedrooms 114 sq m · 53–55 Carter Lane, EC4V 5AE · St Paul's Cathedral 3 min, St Paul's and Mansion House stations 5 min · [check prices](hotel:native-kings-wardrobe)*
 
-Apartments in a Grade II listed building on the site of the Royal Wardrobe, where the king's state and ceremonial robes were kept from the fourteenth century.
+Apartments in a Grade II listed building on the site of the Royal Wardrobe.
 
 <div class="photo-row">
 
@@ -103,7 +103,7 @@ Apartments in a Grade II listed building on the site of the Royal Wardrobe, wher
 
 </div>
 
-**The sizes decide it.** Studios start at 36 square metres, one-bedrooms at 57, two-bedrooms at 75 and the three-bedroom at 114, so a large family or group can take one apartment. Each apartment has a kitchen and its own washer-dryer. Counter, the café-bar, is in the courtyard, and paid parking is underneath.
+Studios start at 36 square metres, one-bedrooms at 57, two-bedrooms at 75 and the three-bedroom at 114, so a large family or group can take one apartment. Each apartment has a kitchen and its own washer-dryer. Counter, the café-bar, is in the courtyard, and paid parking is underneath.
 
 ### Locke at Broken Wharf — studios on the river by the Millennium Bridge
 
@@ -141,7 +141,7 @@ Reception is 24 hours, there is a gym, a lounge and a courtyard, and cleaning is
 
 *92 rooms · 19–20 Garlick Hill, EC4V 2AU · Beside Mansion House station · [Hotels.com](hotelscom:h19458363)*
 
-A five-star named after two of the City's medieval trades, the wine merchants of the Vintry and the silk-selling Mercers, among the livery halls and lanes above the river.
+A five-star among the livery halls and lanes above the river.
 
 <div class="photo-row">
 
@@ -159,7 +159,7 @@ A five-star named after two of the City's medieval trades, the wine merchants of
 
 *About £400 · 250 bedrooms · 27 Poultry, EC2R 8AJ · On the Bank junction · [check prices](hotel:the-ned)*
 
-The Midland Bank's headquarters, built in 1924 to designs by Sir Edwin Lutyens, whose nickname gives the hotel its name, and reopened in 2017 after a four-year restoration. The **3,000-square-metre former banking hall** holds most of its ten restaurants and is open to anyone, hotel guest or not.
+The former Midland Bank headquarters, built in 1924 by Sir Edwin Lutyens (nicknamed Ned), reopened as a hotel in 2017. The **3,000-square-metre former banking hall** holds most of its ten restaurants and is open to anyone, hotel guest or not.
 
 <div class="photo-row">
 
@@ -177,7 +177,7 @@ The Midland Bank's headquarters, built in 1924 to designs by Sir Edwin Lutyens, 
 
 *£££ · 3 South Place, EC2M 2AF · Liverpool Street 5 min, Moorgate 6 min · [check prices](hotel:south-place-hotel)*
 
-A five-star built for the City's working week, which took **up to 20% off Friday and Saturday nights, with breakfast**, in September and October 2026. Angler and the all-day Bluebird City are the two restaurants. The glass bath pictured below comes only with the One Bedroom and Presidential Suites.
+A five-star built for the City's working week, with a November Nights offer for **Friday to Sunday stays in November 2026: from £345 with breakfast and 50% off dining and drinks in the hotel**, non-refundable. Angler and the all-day Bluebird City are the two restaurants. The glass bath pictured below comes only with the One Bedroom and Presidential Suites.
 
 <div class="photo-row">
 
@@ -227,7 +227,7 @@ Check-in is self-service, around the clock. The One Bedroom Apartment with Washe
 
 *££££ · 89 rooms and 11 suites · 10 Trinity Square, EC3N 4AJ · Tower Hill · [check prices](hotel:four-seasons-tower-bridge)*
 
-The 1922 Port of London Authority building by Edwin Cooper, facing the Tower across Trinity Square Gardens, opened as a Four Seasons in January 2017. It traded as Four Seasons Hotel London at Ten Trinity Square before its renaming. Its UN Ballroom hosted the first reception of the United Nations General Assembly in 1946. Not every room has the terrace pictured below facing Tower Bridge.
+The 1922 Port of London Authority building by Edwin Cooper, facing the Tower across Trinity Square Gardens, opened as a Four Seasons in January 2017. Not every room has the terrace pictured below facing Tower Bridge.
 
 <div class="photo-row">
 
@@ -367,4 +367,4 @@ The pub opens at 7am for its City Boy Breakfast, the kitchen is known for steaks
 
 **Across the river:** the Millennium Bridge leads to Tate Modern and Bankside, and London Bridge to Borough Market; our [South Bank guide](/articles/where-to-stay-south-bank/) and [Bermondsey guide](/articles/where-to-stay-bermondsey/) cover the hotels on that side. For how the City compares with the rest of London, see [the best areas to stay in London](/articles/best-areas-to-stay-in-london/).
 
-*Typical nightly rates for a double, or each operator's own published from-rate where it gives one, checked 24 September 2026. The £ symbols mark a price band where a hotel publishes no rate. Walking times come from the hotels where they give them. Prices move nightly, so check your own dates.*
+*Prices are typical nightly rates for a double, or the operator's own published from-rate where it gives one. The £ symbols mark a price band. Prices move nightly, so check your own dates.*
