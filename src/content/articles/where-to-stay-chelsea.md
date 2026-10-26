@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Mandarin_Oriental_Hyde_
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-06-13
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2027-01-05
 sites: [london]
 canonicalSite: london
@@ -29,7 +29,7 @@ faq:
     a: "18 to 22 May 2027 in the grounds of the Royal Hospital Chelsea: members' days on 18 and 19 May, public days from 20 to 22 May. All tickets are on sale now, and the RHS says to book before 4 January 2027 for the best prices. Book the room when you book the tickets."
 ---
 
-Chelsea and Knightsbridge share a postcode reputation and not much else. **Knightsbridge** is the busy half: Harrods, Hyde Park and the grand hotels on the main road, with the Piccadilly line running straight to Heathrow. **Chelsea** is the quiet half: garden squares, townhouse hotels of 14 to 56 rooms, and Sloane Square station at the top of the King's Road. The South Kensington museums are a walk from either.
+**Knightsbridge** is the busy half: Harrods, Hyde Park and the grand hotels on the main road, with the Piccadilly line running straight to Heathrow. **Chelsea** is the quiet half: garden squares, townhouse hotels of 14 to 56 rooms, and Sloane Square station at the top of the King's Road. The South Kensington museums are a walk from either.
 
 > 💡 **The Short Version:** **For the lowest price**, [Zedwell Knightsbridge](hotel:zedwell-knightsbridge) is £89 to £257 for a windowless room for two. **With a window**, the **Sloane Square Hotel** sells small doubles from about £128 on the square itself. **For a Chelsea townhouse**, [San Domenico House](hotel:san-domenico-house) is about £240 and [The Chelsea Townhouse](hotel:the-chelsea-townhouse) about £260. **For Sloane Street**, [The Cadogan](hotel:the-cadogan-belmond) is about £450 and gives guests the key to Cadogan Place's private gardens and tennis courts. **For a pool**, The Berkeley has an open-air one on its roof in spring and summer, and Bulgari a 25-metre one in its spa. **With children**, [The Lanesborough](hotel:the-lanesborough) has a butler for every room and splash hours in its spa pool. **For a kitchen**, Cheval runs apartments off Sloane Square and behind Harrods.
 
@@ -53,7 +53,7 @@ The hotels cluster at the eastern end. The western King's Road and Chelsea Emban
 
 *Over £350 · Hyde Park Corner, SW1X 7TA · Hyde Park Corner station next door · [Hotels.com](hotel:the-lanesborough)*
 
-Lanesborough House was built in 1719, became St George's Hospital in 1733, was rebuilt in its Regency form by William Wilkins, and opened as a hotel on New Year's Eve 1991. **Every room has round-the-clock butler service.** Guests use the Lanesborough Club & Spa and its hydrotherapy pool free; children have splash hours each morning and afternoon, and the Little VIP Club runs for under-16s. It sells connecting rooms and two- and three-bedroom suites, and added rooms with balconies in June 2026. The room pictured below is a Park Suite's; its bathroom is a Deluxe Room's. Victoria station is 15 minutes' walk. Afternoon tea is in our [afternoon tea guide](/articles/best-afternoon-tea-london/).
+**Every room has round-the-clock butler service.** Guests use the Lanesborough Club & Spa and its hydrotherapy pool free; children have splash hours each morning and afternoon, and the Little VIP Club runs for under-16s. It sells connecting rooms and two- and three-bedroom suites, and added rooms with balconies in June 2026. The room pictured below is a Park Suite's; its bathroom is a Deluxe Room's. Victoria station is 15 minutes' walk. Afternoon tea is in our [afternoon tea guide](/articles/best-afternoon-tea-london/).
 
 <div class="photo-row">
 
@@ -67,7 +67,7 @@ Lanesborough House was built in 1719, became St George's Hospital in 1733, was r
 
 *Over £350 · Wilton Place, SW1X 7RL · Hyde Park Corner, exit 4 · [Hotels.com](hotel:the-berkeley)*
 
-On the corner of Knightsbridge and Wilton Place, run by Maybourne, the group behind Claridge's. **The rooftop pool is heated, open-air, open in spring and summer, and for hotel guests only.** Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) sets it against the year-round rooftop pools at Battersea and Shoreditch. Every stay includes Surrenne Belgravia, Maybourne's four-floor wellness club with the gym. Cédric Grolet runs the pastry counter and the afternoon tea, and La Môme is the restaurant. Both rooms pictured below are suites, not standard rooms.
+On the corner of Knightsbridge and Wilton Place. **The rooftop pool is heated, open-air, open in spring and summer, and for hotel guests only.** Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) sets it against the year-round rooftop pools at Battersea and Shoreditch. Every stay includes Surrenne Belgravia, Maybourne's four-floor wellness club with the gym. Cédric Grolet runs the pastry counter and the afternoon tea, and La Môme is the restaurant. Both rooms pictured below are suites, not standard rooms.
 
 <div class="photo-row">
 
@@ -81,7 +81,7 @@ On the corner of Knightsbridge and Wilton Place, run by Maybourne, the group beh
 
 *Over £350 · 66 Knightsbridge, SW1X 7LA · Knightsbridge station next door · [Hotels.com](hotel:mandarin-oriental-hyde-park)*
 
-Built in 1889 as a gentlemen's club and a hotel since 1902, with Knightsbridge on one side and Hyde Park on the other. It sells a Mandarin Family Room, a Knightsbridge Family Room and interconnecting rooms. Dinner by Heston Blumenthal and The Aubrey, a Japanese izakaya, are in the building, and afternoon tea in The Rosebery looks over the park. Mandarin Oriental has a second London hotel in Mayfair, so check which one you are booking. The bathroom pictured below is a suite's, not the standard room's.
+Between Knightsbridge and Hyde Park. It sells a Mandarin Family Room, a Knightsbridge Family Room and interconnecting rooms. Dinner by Heston Blumenthal and The Aubrey, a Japanese izakaya, are in the building, and afternoon tea in The Rosebery looks over the park. Mandarin Oriental has a second London hotel in Mayfair, so check which one you are booking. The bathroom pictured below is a suite's, not the standard room's.
 
 ![The bathroom of the Two-Bedroom Imperial Suite at Mandarin Oriental Hyde Park: a freestanding oval bath in front of French windows onto trees, twin basins on a black marble counter and illuminated oval mirrors](../../assets/articles/where-to-stay-chelsea/mandarin-oriental-hyde-park-bathroom.jpg)
 
@@ -89,7 +89,7 @@ Built in 1889 as a gentlemen's club and a hotel since 1902, with Knightsbridge o
 
 *171 Knightsbridge, SW7 1DW · Harrods and the V&A on foot · [Hotels.com](hotelscom:h4922121)*
 
-Opened in 2012. **The spa has a 25-metre colonnaded swimming pool**, and there is a private cinema. Deluxe rooms are at least 43 square metres with marble bathrooms, and Sette is the Italian-American restaurant.
+**The spa has a 25-metre colonnaded swimming pool**, and there is a private cinema. Deluxe rooms are at least 43 square metres with marble bathrooms, and Sette is the Italian-American restaurant.
 
 ### Jumeirah Carlton Tower: a pool with a view
 
@@ -109,7 +109,7 @@ Opened in 2012. **The spa has a 25-metre colonnaded swimming pool**, and there i
 
 *22–24 Basil Street, SW3 1AT · [Hotels.com](hotelscom:h182475)*
 
-A boutique five-star on Basil Street, which runs along the side of Harrods, selling hotel rooms, suites, apartments for longer stays and a townhouse. Its rooms, suites and residences have all been refurbished, and Tom Brown at The Capital is its modern British seafood restaurant.
+A boutique five-star on Basil Street, which runs along the side of Harrods, selling hotel rooms, suites, apartments for longer stays and a townhouse. Tom Brown at The Capital is its modern British seafood restaurant.
 
 ![The bedroom of a Junior Suite at The Capital: a king bed with a cream upholstered headboard beneath a tapestry of trees, brass wall lights, an orange velvet bench, a green velvet desk chair and a wide window with sheer curtains](../../assets/articles/where-to-stay-chelsea/the-capital-room.jpg)
 
@@ -191,7 +191,7 @@ A Belmond hotel of 54 rooms, 37 of them suites, halfway down Sloane Street. **Gu
 
 *Over £350 · 1 Sloane Gardens, SW1W 8EA · Steps from Sloane Square · [Hotels.com](hotel:at-sloane)*
 
-Thirty bedrooms in a Victorian building, run by the Paris-based Costes group and decorated by François-Joseph Graf. **The dining room is on the sixth floor, looks across London and serves 24 hours a day**, and there is a hidden bar open late. The owners write the name with a leading ellipsis, "…At Sloane".
+Thirty bedrooms in a Victorian building, run by the Paris-based Costes group and decorated by François-Joseph Graf. **The dining room is on the sixth floor, looks across London and serves 24 hours a day**, and there is a hidden bar open late.
 
 <div class="photo-row">
 
@@ -301,4 +301,4 @@ The RHS Chelsea Flower Show runs from **18 to 22 May 2027** in the grounds of th
 
 **Rail terminals**: the Piccadilly line runs direct from Knightsbridge to King's Cross St Pancras for the Eurostar; the Circle line runs from Sloane Square to Paddington.
 
-*Typical nightly rates for a double, checked September 2026; the Zedwell range is from five nights sampled. Flower Show dates from the RHS.*
+*Typical nightly rates for a double, September 2026; the Zedwell range is from five nights sampled.*
