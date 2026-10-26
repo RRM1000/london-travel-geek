@@ -37,7 +37,7 @@ faq:
 
 For the first three weeks of October the summer crowds have gone and the autumn exhibitions and festivals open one after another. In the final week the clocks go back, half term starts and the evenings are dark by five.
 
-> 💡 **The Short Version:** **Half term runs 26 to 30 October 2026** and **Halloween falls on a Saturday**, so the last week is the busiest for families. **Asian Art in London** opens on 29 October, the free **Frieze Sculpture** in Regent's Park and the **London Literature Festival** run to 1 November, and **Black History Month** and the **Bloomsbury Festival** run all month. Frieze Week and the BFI London Film Festival fall in the middle of the month; in 2026 they ended on 18 October. The **clocks go back on the last Sunday**: 25 October in 2026, 31 October in 2027. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
+> 💡 **The Short Version:** **Half term runs 26 to 30 October 2026** and **Halloween falls on a Saturday**, so 26 to 31 October is the busiest stretch for families. **Asian Art in London** opens on 29 October, the free **Frieze Sculpture** in Regent's Park and the **London Literature Festival** run to 1 November, and **Black History Month** and the **Bloomsbury Festival** run all month. Frieze Week and the BFI London Film Festival fall in the middle of the month; in 2026 they ended on 18 October. The **clocks go back on the last Sunday**: 25 October in 2026, 31 October in 2027. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
 
 **Five ticketed art fairs ran in the same city on the same days in 2026**, inside the BFI London Film Festival's closing weekend, Thursday 15 to Sunday 18 October. What is left is the free half, Frieze Sculpture, which stays in Regent's Park until the start of November.
 
@@ -107,7 +107,7 @@ Match-day transport, the bag rules and the hotels that treble in price on event 
 
 <div data-stay-strip></div>
 
-## The last week: dark, full of children, and Halloween on a Saturday
+## 26 to 31 October: dark, full of children, and Halloween on a Saturday
 
 ### The clocks go back: 2am, last Sunday of October
 
