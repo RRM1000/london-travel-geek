@@ -3,7 +3,8 @@ title: "The Best Walking Tours in London, Theme by Theme"
 seoTitle: "Best Walking Tours in London 2026: 33 Worth Booking"
 description: "33 London walking tours worth booking in 2026, all on GetYourGuide: the award-winning pub walk, Jack the Ripper, Harry Potter, food, street art and rock and roll, with prices, meeting points and how each one runs."
 publishedAt: 2026-09-11
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -26,11 +27,11 @@ heroImage: "../../assets/articles/best-walking-tours-london/changing-the-guard.j
 heroImageAlt: "Mounted Household Cavalry troopers in red tunics and plumed helmets riding past Buckingham Palace's gates"
 ---
 
-London has hundreds of guided walks. **Every tour on this page is bookable on GetYourGuide**, and each is here because the evidence backs it: Tripadvisor's Travellers' Choice awards, the walking-tour lists from Time Out, Visit London and the travel writer Nomadic Matt, and review scores on GetYourGuide itself. Nothing below is rated under 4.5.
+**Every tour on this page is bookable on GetYourGuide.** Each is here on evidence: Tripadvisor's Travellers' Choice awards, the walking-tour lists from Time Out, Visit London and the travel writer Nomadic Matt, and its review score on GetYourGuide. Nothing below is rated under 4.5.
 
 > 💡 **The Short Version:** The strongest award record belongs to **Liquid History Tours' historic pub walk**, Tripadvisor's No. 1 experience in the UK in 2025 and No. 7 in the world in 2026 (**£35**). For a first visit, take a **Blue Badge guide round Westminster** (from about **£30**). The best score from a big pool of reviews is the **Great British Rock and Roll walk**, 5.0 from 2,251. Most themed walks cost **£15–£35** and last **two hours**; food tours run **£59–£92**.
 
-> 📘 **How we choose these (editorial note).** Only tours sold on GetYourGuide are listed, and we earn a commission if you book through our links; the price is the same either way. No operator paid to be included. Ratings, review counts and prices were checked on GetYourGuide on 11 September 2026. Prices are the lowest adult price for the standard option and move with the date.
+> 📘 **How we choose these (editorial note).** We earn a commission if you book through our links; the price is the same either way. No operator paid to be included. Prices are the lowest adult price for the standard option and move with the date.
 
 ## The pick for each theme
 
@@ -47,8 +48,6 @@ London has hundreds of guided walks. **Every tour on this page is bookable on Ge
 
 ## First time in London: the big sights
 
-These cover the postcard sights, Parliament, the Abbey and Buckingham Palace, with enough history to make them mean something.
-
 ### Westminster Abbey, Big Ben and Buckingham Palace — Rosotravel
 
 *From about £30 · 3–4 hours · Blue Badge guide · 4.8 from 3,940 reviews · <a href="https://www.getyourguide.com/activity/-t512555?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
@@ -59,19 +58,19 @@ The guides are **Blue Badge** holders, the top professional qualification for Lo
 
 *£47 · 5 hours · small group · 4.8 from 896 reviews · <a href="https://www.getyourguide.com/activity/-t169045?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-The one to take if you have a single day and want the lot. It goes through **Green Park to Buckingham Palace for the Changing of the Guard**, then Downing Street, Horse Guards Parade, Westminster Abbey, Parliament Square and Big Ben, before a Tube ride east for the **Tower of London and London Bridge**. Options add entry to the Tower or the Tower Bridge exhibition afterwards. On Tripadvisor, as *London 30 Top Sights with Fun Local Guide*, it has 4.9 from 2,008 reviews.
+Take it if you have a single day. It goes through **Green Park to Buckingham Palace for the Changing of the Guard**, then Downing Street, Horse Guards Parade, Westminster Abbey, Parliament Square and Big Ben, before a Tube ride east for the **Tower of London and London Bridge**. Options add entry to the Tower or the Tower Bridge exhibition afterwards. On Tripadvisor, as *London 30 Top Sights with Fun Local Guide*, it has 4.9 from 2,008 reviews.
 
 ### The Changing of the Guard, With an Expert — Urban Saunters
 
 *From £15 · 2–4 hours · 4.8 from 2,718 reviews · <a href="https://www.getyourguide.com/activity/-t413142?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-Rather than standing in the crowd at the palace railings, you **walk with the guards as they march to Buckingham Palace**, while the guide explains what each button, gesture and colour in the ceremony signifies. Nomadic Matt, who took more than 25 London walking tours for his list, picks this one. The ceremony doesn't happen every day, so check the tour's calendar before planning around it. One option adds tickets to the palace's State Rooms, which open to visitors from July to September.
+You **walk with the guards as they march to Buckingham Palace** while the guide explains the ceremony. Nomadic Matt, who took more than 25 London walking tours for his list, picks this one. The ceremony doesn't happen every day, so check the tour's calendar before planning around it. One option adds tickets to the palace's State Rooms, which open to visitors each summer.
 
 ### Medieval London From the Tower — The Sights of London Tour
 
 *£18 · 2 hours · starts at Tower Hill · 4.9 from 408 reviews · <a href="https://www.getyourguide.com/activity/-t433959?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-Meet outside the western exit of **Tower Hill** station, then cross **Tower Bridge** and follow the Thames west past **HMS Belfast**, which took part in the D-Day landings, into Shakespeare's Southwark. The guide is a historian and the story runs from the Romans to now. At £18 it costs less than most tours on this page.
+Meet outside the western exit of **Tower Hill** station, then cross **Tower Bridge** and follow the Thames west past **HMS Belfast**, which took part in the D-Day landings, into Shakespeare's Southwark. The guide is a historian and the story runs from the Romans to now.
 
 ## Historic pubs
 
@@ -87,35 +86,35 @@ Tripadvisor's Travellers' Choice awards named this the **No. 1 experience in the
 
 *£32 · 2½ hours · starts at Piccadilly Circus · 4.9 from 973 reviews · <a href="https://www.getyourguide.com/activity/-t80541?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-From the Eros statue at **Piccadilly Circus**, where the guide waits with an open umbrella, into Soho for **four pubs** with music history: ones where John Lennon drank, and the place where Jimi Hendrix gave his last live performance. Same company as the rock and roll walk further down, in the same format with pints.
+From the Eros statue at **Piccadilly Circus**, where the guide waits with an open umbrella, into Soho for **four pubs** with music history: ones where John Lennon drank, and the place where Jimi Hendrix gave his last live performance. Same company as the rock and roll walk below.
 
 ### Ancient Pubs and Historic Taverns — Side Routes
 
 *From £28 · 2–2½ hours · small group · 4.9 from 217 reviews · <a href="https://www.getyourguide.com/activity/-t1188504?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-A smaller-group alternative through cobbled streets and hidden courtyards, from coaching inns to Victorian gin palaces, with pubs dating back to the 16th century and the history of British ale along the way. For where to eat and drink in the oldest rooms afterwards, see our guide to [London's historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/).
+A small-group walk through cobbled streets and courtyards, from coaching inns to Victorian gin palaces, with pubs dating back to the 16th century. For where to eat and drink in the oldest rooms afterwards, see our guide to [London's historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/).
 
 ## Jack the Ripper
 
-Ripper walks start at dusk in Whitechapel and Spitalfields, where the murders of 1888 happened, and they are some of the most-reviewed walking tours on GetYourGuide. If you're here for Halloween, our [Halloween guide](/articles/halloween-london/) covers which Ripper walks run on the night itself.
+Ripper walks start at dusk in Whitechapel and Spitalfields, where the murders of 1888 happened. If you're here for Halloween, our [Halloween guide](/articles/halloween-london/) covers which Ripper walks run on the night itself.
 
 ### Jack the Ripper Evening Walking Tour — Meet The Street Tours
 
 *£20 · 2 hours · starts at Aldgate · 4.9 from 1,527 reviews · <a href="https://www.getyourguide.com/activity/-t54688?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-The highest-scoring Ripper walk on GetYourGuide with more than 500 reviews. You meet at **Aldgate** station and walk the streets where the murders happened, with as much time on the East End's poverty in the 1880s, the slums and the gin, as on the suspects.
+The highest-scoring Ripper walk on GetYourGuide with more than 500 reviews. You meet at **Aldgate** station and walk the streets where the murders happened, with as much time on the East End's poverty in the 1880s as on the suspects.
 
 ### The Original Jack the Ripper Walking Tour — See Your City
 
 *£22 · 2 hours · 4.7 from 8,757 reviews · <a href="https://www.getyourguide.com/activity/-t359535?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-The big one: nearly 9,000 reviews, and the only one of these three that runs in **Spanish, German, Italian, French, Portuguese and Japanese** as well as English, so the meeting point depends on the language you book. The guides call themselves Ripperologists. You look at the photographic evidence at the crime scenes and weigh up the suspects, passing Spitalfields Market on the way.
+The most reviewed, with nearly 9,000, and the only one of these three that runs in **Spanish, German, Italian, French, Portuguese and Japanese** as well as English, so the meeting point depends on the language you book. You look at the photographic evidence at the crime scenes and weigh up the suspects, passing Spitalfields Market on the way.
 
 ### Ripper-Vision — Secret Chamber Tours
 
 *£18 · 1¾ hours · starts at Aldgate East · 4.5 from 1,900 reviews · <a href="https://www.getyourguide.com/activity/-t104249?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-The guides carry **handheld projectors** and cast period photographs, crime-scene images, maps and newspaper illustrations onto the walls of the streets where the murders happened. The operator bills it as an immersive experience rather than a standard walk. Meet at **Aldgate East, Exit 3**, not Aldgate, outside the Whitechapel Gallery. On Tripadvisor it has 4.6 from 3,091 reviews. It isn't suitable for children under 10 without a parent's consent.
+The guides carry **handheld projectors** and cast period photographs, crime-scene images, maps and newspaper illustrations onto the walls of the streets where the murders happened. Meet at **Aldgate East, Exit 3**, not Aldgate, outside the Whitechapel Gallery. On Tripadvisor it has 4.6 from 3,091 reviews. It isn't suitable for children under 10 without a parent's consent.
 
 <div data-stay-strip></div>
 
@@ -125,17 +124,17 @@ The guides carry **handheld projectors** and cast period photographs, crime-scen
 
 *£20 · 2 hours · after dark · starts at All Hallows by the Tower · 4.9 from 815 reviews · <a href="https://www.getyourguide.com/activity/-t56795?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-After dark from **All Hallows by the Tower**, one of London's oldest churches, with a Saxon arch and recycled Roman tiles, through the alleys of the City to **St Paul's Cathedral**, on tales of terrible crimes, unsolved murders and the ghosts that followed. Visit London picks this company's walk as its London ghost tour. It's the same operator as the best-scoring Ripper walk above.
+After dark from **All Hallows by the Tower**, one of London's oldest churches, with a Saxon arch and recycled Roman tiles, through the alleys of the City to **St Paul's Cathedral**, on crimes, unsolved murders and the ghosts that followed. Visit London picks this company's walk as its London ghost tour. It's the same operator as the best-scoring Ripper walk above.
 
 ### Ghosts, Ghouls and Gallows — See Your City
 
 *£22 · 2 hours · 4.5 from 1,383 reviews · <a href="https://www.getyourguide.com/activity/-t96390?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-Past the site of what the tour calls London's most haunted house, through parks with grim histories, ending at the **Tower of London**, lit up against the night. It runs in French and German as well as English.
+Past the site of what the tour calls London's most haunted house, through parks with grim histories, ending at the **Tower of London**. It runs in French and German as well as English.
 
 ## Harry Potter
 
-None of these go inside a studio. For the Warner Bros tour and everything else Potter, see our [Harry Potter in London guide](/articles/harry-potter-london/). What these do is walk you round the real places the books drew on and the films used. To do it without a guide, follow our [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/).
+None of these go inside a studio; for the Warner Bros tour and everything else Potter, see our [Harry Potter in London guide](/articles/harry-potter-london/). They walk you round the real places the books drew on and the films used. To do it without a guide, follow our [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/).
 
 ### The Most Comprehensive Harry Potter Tour in London — Tours Teatralizados RV
 
@@ -155,7 +154,7 @@ The highest-rated Harry Potter walk with more than 1,000 reviews, and the longes
 
 *£15 · 3 hours · starts at King's Cross · kids go free · 4.7 from 3,208 reviews · <a href="https://www.getyourguide.com/activity/-t187638?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-It starts where you'd hope: inside **King's Cross**, at the stairs up to the Parcel Yard beside the Platform 9¾ shop. From there it takes in the **Millennium Bridge**, the Leaky Cauldron, the **Palace Theatre** where *Harry Potter and the Cursed Child* plays, Leicester Square and the House of Spells shop. The listing says kids go free, which makes it the cheap family option.
+It starts inside **King's Cross**, at the stairs up to the Parcel Yard beside the Platform 9¾ shop. From there it takes in the **Millennium Bridge**, the Leaky Cauldron, the **Palace Theatre** where *Harry Potter and the Cursed Child* plays, Leicester Square and the House of Spells shop. The listing says kids go free.
 
 ![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/best-walking-tours-london/platform-nine-three-quarters-trolley.jpg)
 *The Platform 9¾ trolley at King's Cross.*
@@ -172,7 +171,7 @@ It starts outside the **Criterion** at 224 Piccadilly, the bar where, in *A Stud
 
 *£16 · 2–2½ hours · starts by the London Eye · 4.9 from 227 reviews · <a href="https://www.getyourguide.com/activity/-t640062?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-How Ian Fleming's own wartime intelligence work became Bond, plus London's other spies, real and invented: John le Carré's George Smiley, Mick Herron's *Slow Horses* and Robert Ludlum's Jason Bourne. You'll see where Bond goes for his martini. It meets by the **London Eye**, and at £16 it's one of the cheapest walks here. For more of the city on screen, see our [London filming locations guide](/articles/london-filming-locations/).
+How Ian Fleming's own wartime intelligence work became Bond, plus London's other spies, real and invented: John le Carré's George Smiley, Mick Herron's *Slow Horses* and Robert Ludlum's Jason Bourne. It meets by the **London Eye**. For more of the city on screen, see our [London filming locations guide](/articles/london-filming-locations/).
 
 ### Notting Hill — Brit Icon Tours
 
@@ -216,19 +215,19 @@ Wireless headphones, a performer as host, and songs from the big musicals as you
 
 ## Food
 
-Food tours cost three or four times as much as a history walk because the tastings are included, so plan them instead of a meal rather than before one.
+Food tours cost three or four times as much as a history walk because the tastings are included, so plan them instead of a meal.
 
 ### East End Food Tour — Eating London
 
 *£89 · 3½ hours · groups of up to 12 · 4.9 from 84 reviews · <a href="https://www.getyourguide.com/activity/-t136652?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-The one with the award: Tripadvisor's Travellers' Choice 2025 put *Eating London: Brick Lane, Shoreditch & Spitalfields Food Tour* at **No. 12 among the world's food and drink experiences**. It walks Brick Lane, Spitalfields and Shoreditch with tastings along the way, including a specialist cheese shop, a hole-in-the-wall, **mini fish and chips with mushy peas** at an award-winning chippie and a Brick Lane curry. You pass the old Jewish Soup Kitchen and the pub linked to Jack the Ripper's victims. The GetYourGuide listing is the operator's 10-year anniversary edition.
+The one with the award: Tripadvisor's Travellers' Choice 2025 put *Eating London: Brick Lane, Shoreditch & Spitalfields Food Tour* at **No. 12 among the world's food and drink experiences**. It walks Brick Lane, Spitalfields and Shoreditch with tastings along the way, including a specialist cheese shop, a hole-in-the-wall, **mini fish and chips with mushy peas** at a chippie and a Brick Lane curry. You pass the old Jewish Soup Kitchen and the pub linked to Jack the Ripper's victims.
 
 ### Borough Market — Secret Food Tours
 
 *£92 · 3 hours · small group · 4.8 from 599 reviews · <a href="https://www.getyourguide.com/activity/-t67794?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-Six British classics plus a "secret" dish in and around **Borough Market** and London Bridge: award-winning fish and chips, a top-rated sausage roll, and **British cheeses with cider or local beer**. For the rest of London's markets, see our [markets guide](/articles/best-london-markets/).
+Six British classics plus a "secret" dish in and around **Borough Market** and London Bridge: fish and chips, a sausage roll, and **British cheeses with cider or local beer**. For the rest of London's markets, see our [markets guide](/articles/best-london-markets/).
 
 ### Soho and Chinatown — Carpe Diem Tours
 
@@ -240,7 +239,7 @@ Four cuisines, Mediterranean, Indian, Chinese and British, at pre-booked tables 
 
 *£59 · 3½ hours · starts at midday · 4.9 from 134 reviews · <a href="https://www.getyourguide.com/activity/-t508003?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-All the food is included for £59, the lowest price of these four: local cheese, local ice cream, the chai they rate as London's best, their favourite bakery and some surprises, between midday and 4pm. The founders started out in London's street-food markets in 2017. For eating on your own terms, see our [street food guide](/articles/best-street-food-london/).
+All the food is included for £59, the lowest price of these four: local cheese, local ice cream, chai, a bakery and some surprises, between midday and 4pm. For eating on your own terms, see our [street food guide](/articles/best-street-food-london/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-walking-tours-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -250,7 +249,7 @@ All the food is included for £59, the lowest price of these four: local cheese,
 
 *From about £20 · 2 hours · starts at Old Spitalfields Market · 4.8 from 1,518 reviews · <a href="https://www.getyourguide.com/activity/-t51536?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-Meet under the **White Goat statue on Brushfield Street**, outside Old Spitalfields Market (the nearest station is Liverpool Street), for work by around 40 street artists across **Spitalfields, Brick Lane and Shoreditch**. The guides are part of the scene themselves. To find the pieces on your own, see our [London street art guide](/articles/london-street-art/).
+Meet under the **White Goat statue on Brushfield Street**, outside Old Spitalfields Market (the nearest station is Liverpool Street), for work by around 40 street artists across **Spitalfields, Brick Lane and Shoreditch**. To find the pieces on your own, see our [London street art guide](/articles/london-street-art/).
 
 ![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/best-walking-tours-london/shoreditch-street-art.jpg)
 *Street art in Shoreditch.*
