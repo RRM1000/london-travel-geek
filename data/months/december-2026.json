@@ -580,7 +580,7 @@
   "gaps": [
     "Trafalgar Square tree lighting 3 December - Westminster City Council's page returns 403 to curl and no organiser text for 2026 was read; the date is from Rob's brief and two existing guides. Ceremony time and the carol-singing rota not read.",
     "TfL's 2026 Christmas and Boxing Day plan - not published (tfl.gov.uk/christmas-travel redirected to the major-works page on 17 October); the 2025 plan came out on 2 December.",
-    "Southbank Centre Winter Market, Leicester Square, Trafalgar Square market and Winter by the River 2026 dates - none published on an organiser page reachable on 17 October.",
+    "Southbank Centre Winter Market, Leicester Square, Trafalgar Square market and Winter by the River 2026 dates - RESOLVED 2026-10-26 for Southbank (2 November to 3 January), Leicester Square (31 October to 3 January) and Winter by the River (10 November to 3 January); the Trafalgar Square market's dates are still not published (it opens in November).",
     "Christmas at Kew sell-out status by date - Kew's page does not say; the Fever listing showed the one date it displayed sold out, which is not a statement about the whole run.",
     "Westminster Abbey sightseeing hours over Christmas and the Lessons and Carols prices - not on the pages read.",
     "Tower of London, Tate, St Paul's sightseeing and London Eye closures on 24 to 26 December and 1 January - the operators' date calendars are not in the page text; not in the article.",
@@ -590,7 +590,7 @@
     "Premier League times for 5, 12, 19 December and the Boxing Day round could move when broadcasters pick games; recheck when the League announces its selections."
   ],
   "flagsForHuman": [
-    "The New Year's Eve guide still said ticket dates were unannounced; City Hall now gives noon on Friday 23 October for the first batch.",
+    "The New Year's Eve guide still said ticket dates were unannounced; City Hall gave noon on Friday 23 October for the first batch. RESOLVED 2026-10-26: the first batch is on sale now and the guide says so; the second batch has no date yet.",
     "The Sheet-fed activity cards for the Royal Observatory and the Peter Harrison Planetarium now say closed in src/data/activities.json and scripts/write-activities.mjs, but the Activities tab in the Google Sheet has not been rewritten; do that before the next export or the old text returns."
   ],
   "lessonsForNextMonth": [

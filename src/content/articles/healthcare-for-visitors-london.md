@@ -3,7 +3,8 @@ title: "Healthcare in London for Visitors: NHS, A&E, GPs and What It Costs"
 seoTitle: "Healthcare in London for Visitors: NHS, A&E and Costs"
 description: "What to do if you're ill or hurt in London: 999 or 111, A&E versus an urgent treatment centre, what's free on the NHS and what visitors pay, GHIC/EHIC and reciprocal cover, and the current prescription charge — from NHS and GOV.UK's own rules."
 publishedAt: 2026-06-08
-reviewBy: 2026-10-31
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites:
   - london
 canonicalSite: london
@@ -156,4 +157,4 @@ For a same-day appointment without going through 111, or care outside NHS hours,
 - 💰 **[Money in London](/articles/money-in-london/)** — cash, cards and what things cost once you're here
 - 🚻 **[Public Toilets in London](/articles/public-toilets-london/)** — another practical guide for the same kind of trip
 
-*Rules, charges and figures in this guide are from NHS and GOV.UK's own pages — including nhs.uk, england.nhs.uk, the NHS Business Services Authority, and GOV.UK's guidance for NHS providers on overseas visitor charging — checked 17 September 2026. Private clinic prices are from each operator's own published price list, checked the same day. Charges, cover and clinical guidance change; this is information, not medical advice, so check the current NHS or GOV.UK page, or call 111, before you rely on it.*
+*Charges, cover and clinical guidance change; this is information, not medical advice, so check the current NHS or GOV.UK page, or call 111, before you rely on it.*

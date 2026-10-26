@@ -3,11 +3,11 @@
   "year": 2026,
   "compiled": "2026-09-08",
   "researched": "2026-09-09",
-  "status": "RESEARCHED. The perishable half is done: Bayeux ticket dates re-verified, exhibitions verified opening and closing, theatre openings AND closings collected, a deliberate new-venue pass run, restaurant openings re-read and checked against the restaurants' own sites. The annual spine, data/months/october.json, is a separate job and is not covered here.",
+  "status": "RESEARCHED. The perishable half is done: Bayeux ticket dates re-verified, exhibitions verified opening and closing, theatre openings AND closings collected, a deliberate new-venue pass run, restaurant openings re-read and checked against the restaurants' own sites. The annual spine, data/months/october.json, is a separate job and is not covered here. Updated 2026-10-26: Bayeux ticket status, Blue Note's last week and the closed items brought in line with the October guide.",
   "note": "THE OVERLAY. Everything here is true only in 2026. Every entry carries the source it came from and the date it was checked. Entries flagged needsHumanCheck must not be printed without asking Rob first - see flagsForHuman at the bottom.",
 
   "bayeuxTickets": {
-    "headline": "BOTH DATES STILL HOLD. Re-checked 2026-09-09 against the British Museum's own exhibition page. Nothing has moved since 8 September.",
+    "headline": "BOTH DATES HAVE PASSED. Members' priority booking opened on 6 October 2026 and the general release on 21 October 2026; every ticket from 10 September 2026 to 31 March 2027 is now sold out and April to July 2027 opens in early 2027 (updated 2026-10-26 to match the October guide and the British Museum guide).",
     "membersPriorityBooking": "6 October 2026",
     "generalRelease": "21 October 2026",
     "covering": "Visits from 1 January to 31 March 2027",
@@ -868,7 +868,7 @@
 
   "gigsFullListingsForReference": {
     "note": "NOT FOR PRINTING - the curated handful above is the article. This is the raw verification, kept so the next pass can see what was checked.",
-    "blueNoteOctober": "Nubiyan Twist 2 Oct; Mark Kavuma & the Banger Factory 3 Oct; Baaba Maal 4-6 Oct; Gary Crosby Quartet feat. CHERISE 7 Oct; Zara McFarlane 7 Oct; Jamie Cullum 8-9 Oct; Erykah Badu (IMEHO) 10-11 Oct; Moses Yoofee Trio 12-13 Oct; Emily Bear 14 Oct; Nubya Garcia 15-17 Oct; Hak Baker 18 Oct; Shabaka 19-20 Oct; Steam Down X Nyjo Big Band 22-23 Oct; Keyon Harrold 24-25 Oct; The Soul Rebels 26 Oct. Also Nik West 30 Sep - 1 Oct. IDENTICAL to the 8 September stub - nothing has moved. The site's carousel stops at 26 October; 27-31 October were not visible and are unknown rather than empty.",
+    "blueNoteOctober": "Nubiyan Twist 2 Oct; Mark Kavuma & the Banger Factory 3 Oct; Baaba Maal 4-6 Oct; Gary Crosby Quartet feat. CHERISE 7 Oct; Zara McFarlane 7 Oct; Jamie Cullum 8-9 Oct; Erykah Badu (IMEHO) 10-11 Oct; Moses Yoofee Trio 12-13 Oct; Emily Bear 14 Oct; Nubya Garcia 15-17 Oct; Hak Baker 18 Oct; Shabaka 19-20 Oct; Steam Down X Nyjo Big Band 22-23 Oct; Mahalia 25 Oct; The Soul Rebels 26 Oct; Allysha Joy and the Actions of Love Choir 27 Oct; Elements: A Celebration of Earth, Wind & Fire 28 Oct; Laura Mvula 29-30 Oct; Milena Casado 31 Oct. Also Nik West 30 Sep - 1 Oct. Updated 2026-10-26 from Blue Note London's own listing, which replaced the 24-25 October act in the September stub.",
     "allyPalaceOctober": "Knit + Stitch 8-11 Oct; Mind Body Soul Experience, OM Yoga Show and Vegan Life Live all 16-18 Oct; Friday Night Is Music Night - Sound of Sleep 18 Oct (just announced); Rhythm Stick Club Night 21 Oct (just announced); Beth Orton 22 Oct; Fat Freddy's Drop 23 Oct; Qurat-ul-Ain Balouch 23 Oct; The Reytons 24 Oct; Best of Both Worlds 24 Oct (just announced); Crouch End Festival Chorus - Mozart Requiem 25 Oct; Overmono 28 Oct; Gary Delaney - Gary On Laughing 29 Oct; London Bollywood Orchestra - Sounds Of Mumbai 30 Oct; Skindred 31 Oct. Every date in the 8 September stub HOLDS; the five marked 'just announced' are new since then.",
     "otherOctoberEvents": "AnimeCon London, Olympia Grand Hall, 3-4 October 2026 - the UK's biggest anime and manga convention. Park Nights 2026 at the Serpentine Pavilion, 2 & 3 October 2026, 8pm: Ebun Sodipo and Rosa-Johan Uddoh's 'Atlantic Cruises: The Sex Tour'. RA Late: Friday night life drawing, bathers by the sea, 23 October 2026."
   },
@@ -913,7 +913,7 @@
     "CLOTH CORNHILL Simpson's Tavern name-rights detail is not sourced to the operator",
     "SONORA TAQUERIA is closing but no closing date was established",
     "OPEN ROOTS at the Photographers' Gallery was carried from the stub and NOT re-verified in this pass",
-    "BLUE NOTE 27-31 OCTOBER is unknown rather than empty - the site's carousel stopped at 26 October",
+    "BLUE NOTE 27-31 OCTOBER - RESOLVED 2026-10-26: Blue Note London's listing now runs to 31 October (see blueNoteOctober)",
     "SPORT is still undecided - see sportFlagged, which records the Ally Pally ice hockey fixtures only",
     "THE SPINE data/months/october.json is a separate job and is not covered by this overlay"
   ],
@@ -931,7 +931,7 @@
     "SONORA TAQUERIA is closing but I have no closing date and nothing from the business itself. A 'last chance' line needs a date.",
     "SEPTEMBER'S RENT ENTRY looks wrong on both venue and date - see theatreNotes. Rob's call, and it touches a live article.",
     "OPEN ROOTS at the Photographers' Gallery is carried from the stub and was NOT re-verified in this pass.",
-    "BLUE NOTE 27-31 OCTOBER is unknown, not empty - the site's carousel stopped at 26 October. If the guide wants to say the month's programme ends on the 26th, check first."
+    "BLUE NOTE 27-31 OCTOBER - RESOLVED 2026-10-26: the venue's listing runs to 31 October and the October guide names the last acts."
   ],
 
   "todoBeforeWriting": [

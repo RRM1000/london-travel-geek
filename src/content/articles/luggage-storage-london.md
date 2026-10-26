@@ -1,10 +1,10 @@
 ---
 title: "Luggage Storage in London: Left Luggage at Every Station, Airport and Storage App"
 seoTitle: "Luggage Storage in London: Stations, Apps and Prices"
-description: "Which London stations and airports have a staffed left-luggage desk, what Stasher, Bounce and the other storage apps charge per bag, and which attractions won't let a suitcase through the door — prices, hours and rules from each operator's own site, checked 17 September 2026."
+description: "Which London stations and airports have a staffed left-luggage desk, what Stasher, Bounce and the other storage apps charge per bag, and which attractions won't let a suitcase through the door — prices, hours and rules from each operator's own site."
 publishedAt: 2026-09-17
-updatedAt: 2026-09-27
-reviewBy: 2026-10-31
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites:
   - london
 canonicalSite: london
@@ -94,8 +94,8 @@ Five networks book a bag into a nearby shop, hotel or storage room instead of a 
 
 | App | London locations | Price | Cover included |
 | --- | --- | --- | --- |
-| [Stasher](https://stasher.com/luggage-storage/united-kingdom/london) | 550+ (22 Aug 2026) | From £1.49/bag/day | Up to £10,000 per booking |
-| [Bounce](https://usebounce.com/city/london) | 608 | From £1.95/day (most shops £3.50–£4.50) | £10,000 bag protection |
+| [Stasher](https://stasher.com/luggage-storage/united-kingdom/london) | 620+ | From £1.49/bag/day | Up to £10,000 per booking |
+| [Bounce](https://usebounce.com/city/london) | 605 | From £1.95/day (most shops £3.50–£4.50) | £10,000 bag protection |
 | [Radical Storage](https://radicalstorage.com/luggage-storage/london) | 762 | From £3.90/day | €10,000 guarantee |
 | [LuggageHero](https://luggagehero.com/london/) | 881 | From £1.49/hour or £4.90/day, + £1.60 one-time fee/bag | £500 included; paid upgrades available |
 | [Nannybag](https://www.nannybag.com/en/luggage-storage/london) | Not published separately | £3.40/day small bag, £4.90 regular, £6.90 odd-size | £10,000 included |
@@ -138,4 +138,4 @@ Four big venues publish bag limits that turn a suitcase away at the door.
 - 🎪 **[ExCeL London Guide](/articles/excel-london-guide/)** — free cloakrooms, but bag policy is set by each show's own organiser, not the venue
 - 🗓️ **[London Itineraries by Days and Interests](/articles/london-itineraries-by-days-and-interests/)** — planning what to see between a landing and a check-in
 
-*Prices, hours and rules are from Excess Baggage Company, Heathrow, Gatwick, Stansted, London Luton Airport, London City Airport, London Southend Airport, Historic Royal Palaces and UK Parliament's own sites, and from Stasher, Bounce, Radical Storage, LuggageHero and Nannybag's own sites, checked 17 September 2026. Wembley Stadium and The O2's bag rules are sourced to the venues in our own venue guides, checked the weeks of 9 and 13 September 2026 respectively. Storage prices, locations and opening hours change; check the operator's own site before you travel.*
+*Storage prices, locations and opening hours change; check the operator's own site before you travel.*

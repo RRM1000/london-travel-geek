@@ -3,8 +3,8 @@ title: "Is London Safe? Crime Data, Common Scams and Who to Call for Help"
 seoTitle: "Is London Safe for Tourists? Crime, Scams and Help"
 description: "The Metropolitan Police's own crime trend, what the US and Canadian governments' travel advice says, where phone theft actually concentrates, the scams aimed at visitors, and exactly who to call — sourced and dated throughout."
 publishedAt: 2026-06-09
-updatedAt: 2026-09-19
-reviewBy: 2026-10-31
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites:
   - london
 canonicalSite: london
@@ -34,14 +34,14 @@ faq:
   - q: "What number do I call for the police in London if it's not an emergency?"
     a: "101. That's the Metropolitan Police's own non-emergency number. Dial 999, or the pan-European 112, only for a genuine emergency — a crime in progress, or a threat to life."
   - q: "Does the UK have a high terrorism risk for tourists?"
-    a: "Both the US State Department and the Government of Canada place the UK at the second of four levels on their travel-advisory scales — Exercise Increased Caution and Exercise a high degree of caution respectively — and both attribute that rating specifically to the threat of terrorism, not to street crime or scams. The US advisory was last reissued 8 May 2025; Canada's was last updated 9 September 2026."
+    a: "Both the US State Department and the Government of Canada place the UK at the second of four levels on their travel-advisory scales — Exercise Increased Caution and Exercise a high degree of caution respectively — and both attribute that rating specifically to the threat of terrorism, not to street crime or scams. The US advisory was last reissued 8 May 2025; Canada's was last updated 26 May 2026."
   - q: "How do I report something on the Tube or a train?"
     a: "Text British Transport Police on 61016, free and discreet, for anything non-emergency happening on a train, the Tube, the DLR or at a station — it runs around the clock. You can also call BTP on 0800 40 50 40. For a genuine emergency, always call 999."
 ---
 
 London's crime figures are public, updated monthly, and searchable by street. So is the advice the US and Canadian governments give their own citizens about visiting. Neither deals in reassurance or alarm — both just publish numbers. Here's what those numbers actually say, what happens to visitors specifically, the scams aimed at them, and exactly who to call if something goes wrong.
 
-> 💡 **The Short Version:** The US State Department rates the UK **Level 2 of 4: Exercise Increased Caution**, over terrorism, not street crime (reissued 8 May 2025). Canada's government sets the same second-of-four tier and separately notes that **cellphone theft is common in certain tourist areas of London** (updated 9 September 2026). The Metropolitan Police's own figures show phone theft down **15.6%** and robbery down **12.8%** in 2026 — but theft from the person still concentrates hard around the West End: **963 thefts within a mile of Oxford Circus and 871 near Leicester Square in July 2026 alone**, against 148 around Camden Town. Only ever book a minicab in advance; an unbooked one is illegal, not just unwise. For an emergency call **999 or 112**; otherwise it's **101** for police, **NHS 111** for health, and a **text to 61016** for British Transport Police on the rail and Tube network.
+> 💡 **The Short Version:** The US State Department rates the UK **Level 2 of 4: Exercise Increased Caution**, over terrorism, not street crime (reissued 8 May 2025). Canada's government sets the same second-of-four tier and separately notes that **cellphone theft is common in certain tourist areas of London** (updated 26 May 2026). The Metropolitan Police's own figures show phone theft down **15.6%** and robbery down **12.8%** in 2026 — but theft from the person still concentrates hard around the West End: **963 thefts within a mile of Oxford Circus and 871 near Leicester Square in July 2026 alone**, against 148 around Camden Town. Only ever book a minicab in advance; an unbooked one is illegal, not just unwise. For an emergency call **999 or 112**; otherwise it's **101** for police, **NHS 111** for health, and a **text to 61016** for British Transport Police on the rail and Tube network.
 
 ## The answer, in numbers
 
@@ -54,7 +54,7 @@ Foreign governments assess the UK on a separate scale of their own, and it's a t
 | Government | Rating | Date | Says |
 | --- | --- | --- | --- |
 | US State Department | Level 2 of 4: Exercise Increased Caution | Reissued 8 May 2025 | "Exercise increased caution in the United Kingdom due to terrorism." |
-| Government of Canada | 2nd of 4 levels: exercise a high degree of caution | Updated 9 September 2026 | "Exercise a high degree of caution in the United Kingdom due to the threat of terrorism." |
+| Government of Canada | 2nd of 4 levels: exercise a high degree of caution | Updated 26 May 2026 | "Exercise a high degree of caution in the United Kingdom due to the threat of terrorism." |
 
 Both governments use a four-level scale running from routine precautions up to avoiding all travel, and both put the UK on the second rung of it, one step above normal precautions. Neither rating is about theft, scams or violent crime; both name terrorism specifically as the reason.
 
@@ -70,7 +70,7 @@ A Metropolitan Police operation against the gangs behind it, announced 10 Septem
 
 *Metropolitan Police officers on a busy London street.*
 
-Police.uk's street-level crime data — free to query by location and month, no account needed — shows how concentrated the risk is. In July 2026, the most recent month published, here's what was recorded within a mile of three London points:
+Police.uk's street-level crime data — free to query by location and month, no account needed — shows how concentrated the risk is. In July 2026, here's what was recorded within a mile of three London points:
 
 | Area | Thefts from the person, July 2026 (within a mile) |
 | --- | --- |
@@ -134,4 +134,4 @@ To report an incident on a taxi or minicab journey specifically: dial 999 in an 
 - 📱 **[Travel SIM and eSIM Guide](/articles/travel-sim-esim-guide/)** — mobile data sorted before you land, so you're never without a way to call for help
 - 🏥 **[Healthcare in London for Visitors](/articles/healthcare-for-visitors-london/)** — NHS, A&E and what treatment actually costs
 
-*Figures and quotes in this guide are from the Metropolitan Police, the Office for National Statistics, police.uk's street-level crime data, Transport for London, GOV.UK, and the official travel advice of the US State Department and the Government of Canada, checked 17 September 2026. Crime figures, advisory levels and contact details change; check the source directly for anything urgent.*
+*Crime figures, advisory levels and contact details change; check the source directly for anything urgent.*

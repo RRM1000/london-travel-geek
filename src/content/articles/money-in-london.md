@@ -3,8 +3,8 @@ title: "Money in London: Cash, Cards, Cash Machines and Tipping Explained"
 seoTitle: "Money in London: Cash, Cards and ATMs Guide"
 description: "Whether London takes cash, what the contactless limit actually is, which cash machines charge, how to change money without losing on the rate, and what to tip — sourced to the Bank of England, the FCA, TfL, LINK and UK Finance."
 publishedAt: 2026-09-17
-updatedAt: 2026-09-27
-reviewBy: 2026-10-31
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites:
   - london
 canonicalSite: london
@@ -182,7 +182,7 @@ Restaurant discount schemes and set menus are a separate way to spend less on th
 
 **Every London black cab is required to take cards.** TfL's board mandated it from 31 October 2016, and since 1 January 2017 every licensed taxi has had to carry a card reader fixed inside the passenger compartment.
 
-*Figures from the Bank of England, the Royal Mint, the FCA, TfL, LINK, GOV.UK and UK Finance, checked 12–17 September 2026. Rates, limits and bank policies change — always check the figure at the point of payment rather than relying on any guide, including this one.*
+*Rates, limits and bank policies change — always check the figure at the point of payment rather than relying on any guide, including this one.*
 
 ## Continue planning your London trip
 
