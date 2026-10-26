@@ -13249,7 +13249,7 @@ const rows = [
     hood: "Soho", borough: "Westminster", areaGuide: "soho-area-guide",
     address: "1 Bateman's Buildings", postcode: "W1D 3EN",
     priceBand: "£££",
-    whyGo: "Oyster Hour runs 3pm to 7pm Tuesday to Saturday and all day Sunday, with Jersey and Poole rocks from GBP2. Lunch is GBP16 for two courses. A 2023 opening from the Wolseley group, not a continuation of the Chinatown original.",
+    whyGo: "Oyster Hour runs 3pm to 7pm Tuesday to Saturday and all day Sunday, with Poole rock oysters from GBP2. Lunch is GBP16 for two courses. A 2023 opening from the Wolseley group, not a continuation of the Chinatown original.",
     angle: "value",
     goodFor: "date, pre-theatre, groups",
     bookingLead: "days",
