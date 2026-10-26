@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_L
 heroImageLicense: "CC BY 2.5"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.5/"
 publishedAt: 2026-09-26
-updatedAt: 2026-09-27
-reviewBy: 2026-12-26
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -31,9 +31,9 @@ faq:
     a: "No. London Zoo closed the 1926 Reptile House, where Harry talks to the python in Philosopher's Stone, to the public in 2023. Its reptiles moved to a new building, the Secret Life of Reptiles and Amphibians, from Easter 2024."
 ---
 
-**This route keeps to places the films actually used that you can still stand in.** Nine stops from the City to Westminster, in walking order: the market Hagrid walks Harry through, the door that played the Leaky Cauldron, the bridge the Death Eaters destroy, the building that played Gringotts, the Tube station Harry uses to reach the Ministry, and the bridge the Knight Bus squeezes across.
+**Nine stops from the City to Westminster, in walking order:** the market Hagrid walks Harry through, the door that played the Leaky Cauldron, the bridge the Death Eaters destroy, the building that played Gringotts, the Tube station Harry uses to reach the Ministry, and the bridge the Knight Bus squeezes across.
 
-It is about **8.6km and four hours with stops**, and it splits into two halves at Australia House. Everything on it is free. Platform 9¾ is a Tube ride north, so it goes first.
+It is about **8.6km and four hours with stops**, in two halves split at Australia House. Everything on it is free. Platform 9¾ is a Tube ride north, so it goes first.
 
 For everything else Potter in London, from the Studio Tour to Cursed Child, see our [Harry Potter in London guide](/articles/harry-potter-london/).
 
@@ -85,11 +85,11 @@ For everything else Potter in London, from the Studio Tour to Cursed Child, see 
 ![A luggage trolley loaded with trunks and an owl cage, standing against the brick wall beneath the Platform 9¾ sign at King's Cross](../../assets/articles/harry-potter-london/platform-nine-three-quarters-trolley.jpg)
 *The trolley at Platform 9¾.*
 
-**Platform 9¾** is the luggage trolley half-sunk into a brick wall in King's Cross's western departures concourse, outside the ticket barriers. It costs nothing and needs no train ticket; staff will take the photo on your own phone, and only the professional photographer's print is paid for. King's Cross is also where the films shot their Platform 9¾ scenes.
+**Platform 9¾** is the luggage trolley half-sunk into a brick wall in King's Cross's western departures concourse, outside the ticket barriers. It costs nothing and needs no train ticket; staff will take the photo on your own phone, and only the professional photographer's print is paid for.
 
 The trolley is only out while the Harry Potter Shop beside it is open: **8am to 10pm Monday to Saturday and 9am to 8pm on Sunday**. At 8am on a weekday you walk straight up to it.
 
-**St Pancras**, next door, is the red-brick Gothic front on Euston Road. In *Chamber of Secrets* Harry and Ron miss the Hogwarts Express and fly the Ford Anglia over it; St Pancras International describes the scene on its own site. The frontage is a couple of minutes from the trolley.
+**St Pancras**, a couple of minutes away on Euston Road, is the red-brick Gothic front Harry and Ron fly the Ford Anglia over in *Chamber of Secrets*.
 
 **Then take the Northern line** (Bank branch) from King's Cross St Pancras to Bank, four stops. Leadenhall Market is five minutes' walk from the Bank exits.
 
@@ -101,23 +101,21 @@ The trolley is only out while the Harry Potter Shop beside it is open: **8am to 
 
 *The crossing at Leadenhall Market.*
 
-It did not play Diagon Alley. The market's own history page says it stood in for the Muggle London streets leading to the Leaky Cauldron. Diagon Alley was a set at Leavesden, and you can walk down it on the [Studio Tour](/articles/harry-potter-studio-tour/).
+It did not play Diagon Alley: it stood in for the Muggle streets leading to the Leaky Cauldron. Diagon Alley was a set at Leavesden, and you can walk down it on the [Studio Tour](/articles/harry-potter-studio-tour/).
 
-The building is the work of **Sir Horace Jones**, the City Architect who also designed Smithfield, Billingsgate and Tower Bridge. It went up in **1881**, replacing a stone market, and was listed Grade II in 1972. The City of London Corporation still owns and runs it.
+The public lanes are **open 24 hours a day, seven days a week**. The shops, bars and restaurants keep City hours, so at the weekend most shutters are down.
 
-The public lanes are **open 24 hours a day, seven days a week**. The shops, bars and restaurants keep City hours, so on a weekday it is full and at the weekend most shutters are down.
-
-> ⚠️ **Scaffolding is up for maintenance works** (September 2026). The market stays fully open and walkable, but one part of it is behind boards.
+> ⚠️ **Scaffolding is up for maintenance works** (October 2026). The market stays fully open and walkable.
 
 ## 2. The Leaky Cauldron door
 
-Take **Bull's Head Passage**, the lane that runs from the market west to Gracechurch Street. The door that played the entrance to the Leaky Cauldron in the first film is now the front door of **Two Eyes Coffee House, 4 Bull's Head Passage**, and the coffee shop says so on its own site.
+Take **Bull's Head Passage**, the lane that runs from the market west to Gracechurch Street. The door that played the entrance to the Leaky Cauldron in the first film is now the front door of **Two Eyes Coffee House, 4 Bull's Head Passage**.
 
 ![The bright blue frontage of 4 Bull's Head Passage, a 2i's Coffee House sign hanging above and a yellow door whose glass is lettered Two Eyes Speciality Coffee House and The Leaky Cauldron](../../assets/articles/harry-potter-filming-locations-walk/the-leaky-cauldron-door.jpg)
 
-It shares the building with the Glass House Opticians and the London Migraine Clinic, which is where the name comes from, and its profits help fund the clinic's migraine research. That is why some guides call this door an opticians: both are right.
+The building also houses the Glass House Opticians and the London Migraine Clinic, so some guides call this door an opticians.
 
-**It opens on weekdays only:** Monday and Friday 8.30am to 3.30pm, Tuesday to Thursday 8am to 4pm. At the weekend the door is still there to photograph, but you can't go through it.
+**It opens on weekdays only:** Monday and Friday 8.30am to 3.30pm, Tuesday to Thursday 8am to 4pm. At the weekend you can photograph the door but not go through it.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-filming-locations-walk-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -125,7 +123,7 @@ It shares the building with the Glass House Opticians and the London Migraine Cl
 
 South across **London Bridge**, about fifteen minutes.
 
-*Prisoner of Azkaban* moved the Leaky Cauldron to this side of the river. The Knight Bus scenes that drop Harry off were shot in and around Borough Market, and the pub's entrance was a shopfront on the market's edge that was then the Chez Michele flower shop.
+*Prisoner of Azkaban* moved the Leaky Cauldron to this side of the river. The Knight Bus scenes that drop Harry off were shot in and around the market, and the pub's entrance was a shopfront on its edge, then the Chez Michele flower shop.
 
 The market is **free to walk into** and the food stop for this half:
 
@@ -136,15 +134,15 @@ The market is **free to walk into** and the food stop for this half:
 | Saturday | 9am – 5pm |
 | Sunday | 10am – 4pm |
 
-The streets around it are public at any hour, but on a Monday you are walking past shutters.
+On a Monday you are walking past shutters.
 
 ## 4. The Millennium Bridge
 
 West along the river on Clink Street and Bankside, about fifteen minutes, past Southwark Cathedral and the Globe.
 
-In the opening minutes of **Half-Blood Prince** the Death Eaters twist the bridge until it breaks and drops into the Thames. The destruction was visual effects. The filming was on the weekend of 8 and 9 March 2008, when the bridge was closed to pedestrians for a time and the river was shut between Blackfriars and Southwark bridges so a helicopter could fly low over it. None of the main cast took part.
+In the opening minutes of **Half-Blood Prince** the Death Eaters twist the bridge until it breaks and drops into the Thames. The destruction was visual effects; the filming was on 8 and 9 March 2008, when the river was shut between Blackfriars and Southwark bridges so a helicopter could fly low over it.
 
-It is a footbridge, free and **open at all hours**. Walk it south to north and St Paul's is straight ahead of you.
+It is a footbridge, free and **open at all hours**. Walk it south to north and St Paul's is straight ahead.
 
 ![The steel deck of the Millennium Bridge running north across the Thames with the dome of St Paul's Cathedral at the far end, a few people crossing](../../assets/articles/harry-potter-filming-locations-walk/the-millennium-bridge.jpg)
 
@@ -154,21 +152,21 @@ It is a footbridge, free and **open at all hours**. Walk it south to north and S
 
 From St Paul's, west down Ludgate Hill and Fleet Street and past the Royal Courts of Justice to the Strand, about twenty minutes.
 
-**The banking hall of Australia House played Gringotts** in *Philosopher's Stone*. The director, Chris Columbus, chose it for the goblins' bank.
+**The banking hall of Australia House played Gringotts** in *Philosopher's Stone*.
 
 ![The stone entrance of Australia House, Australia House carved on the pedestals either side of black and gilt gates, sculpture groups above them and Australian, Aboriginal and Torres Strait Islander flags along the facade](../../assets/articles/harry-potter-filming-locations-walk/australia-house.jpg)
 
 *Australia House.*
 
-The building is the **Australian High Commission**, opened by George V on 3 August 1918 and listed Grade II. It is a working diplomatic building, not a visitor attraction: **you see it from the pavement** on the Strand, at WC2B 4LA.
+The building is the **Australian High Commission**, a working diplomatic building: **you see it from the pavement** on the Strand, at WC2B 4LA.
 
-This is the halfway point. Temple and Holborn stations are both within about ten minutes if you are stopping here, and Somerset House, where the [Covent Garden walk](/articles/covent-garden-walk/) ends, is a few minutes west along the Strand.
+This is the halfway point. Temple and Holborn stations are both within about ten minutes, and Somerset House, where the [Covent Garden walk](/articles/covent-garden-walk/) ends, is a few minutes west along the Strand.
 
 ## 6. House of MinaLima
 
 North-west through Covent Garden to Soho, about twenty-two minutes.
 
-This one was not a filming location. **Miraphora Mina and Eduardo Lima designed the graphic props for all the Harry Potter films**, working together on them from 2001. House of MinaLima is their own gallery and shop.
+Not a filming location: **Miraphora Mina and Eduardo Lima designed the graphic props for all the Harry Potter films**, and House of MinaLima is their own gallery and shop.
 
 ![The maroon shopfront of House of MinaLima at 157 Wardour Street, its window full of Hogwarts letters flying out of a fireplace, with Prints, Gifts and Books painted beneath](../../assets/articles/harry-potter-filming-locations-walk/house-of-minalima.jpg)
 
@@ -186,7 +184,7 @@ Down Wardour Street, about eight minutes.
 
 In **Deathly Hallows Part 1**, when the Death Eaters break up Bill and Fleur's wedding, Harry, Ron and Hermione escape to Piccadilly Circus. In the book they land on Tottenham Court Road.
 
-It is the busiest junction on this walk and free at any hour.
+It is free at any hour.
 
 <div data-stay-strip></div>
 
@@ -194,7 +192,7 @@ It is the busiest junction on this walk and free at any hour.
 
 Down Haymarket, across Trafalgar Square and along Whitehall, about twenty minutes.
 
-In **Order of the Phoenix** Arthur Weasley takes Harry through the ticket barriers here, among the commuters, on the way to his hearing at the Ministry of Magic. TfL closed the station for the whole of Sunday 22 October 2006 for the filming, with trains running straight through.
+In **Order of the Phoenix** Arthur Weasley takes Harry through the ticket barriers here, among the commuters, on the way to his hearing at the Ministry of Magic. TfL closed the station for the whole of Sunday 22 October 2006 for the filming.
 
 ![The ticket barriers in Westminster station's ticket hall under a bare concrete ceiling, signs pointing to the Houses of Parliament, Westminster Abbey and Westminster Pier](../../assets/articles/harry-potter-filming-locations-walk/westminster-station.jpg)
 
@@ -212,7 +210,7 @@ In **Prisoner of Azkaban** the Knight Bus, three storeys of purple, squeezes thr
 
 *Lambeth Bridge.*
 
-Nothing marks the spot. What you get is the view down the river to the Houses of Parliament, and the end of the walk.
+Nothing marks the spot, but the bridge looks down the river to the Houses of Parliament.
 
 ![Lambeth Bridge's red-painted arches and parapet over the Thames, with the Victoria Tower and the Elizabeth Tower of the Houses of Parliament behind](../../assets/articles/harry-potter-filming-locations-walk/lambeth-bridge.jpg)
 
@@ -220,7 +218,7 @@ Nothing marks the spot. What you get is the view down the river to the Houses of
 
 ## Off the route
 
-**London Zoo's Reptile House** is where Harry talks to the python in *Philosopher's Stone*. The zoo closed that 1926 building to the public in 2023, and its reptiles moved to a new house, the Secret Life of Reptiles and Amphibians, from Easter 2024. There is no longer anything from the scene to see, so it is not on this walk.
+**London Zoo's Reptile House**, where Harry talks to the python in *Philosopher's Stone*, closed to the public in 2023; its reptiles moved to the Secret Life of Reptiles and Amphibians from Easter 2024. It is not on this walk.
 
 **The Studio Tour** at Leavesden is where the sets are: Diagon Alley, the Great Hall and the Hogwarts Express. Prices, booking and the train from Euston are in our [Studio Tour guide](/articles/harry-potter-studio-tour/).
 
@@ -228,16 +226,14 @@ Nothing marks the spot. What you get is the view down the river to the Houses of
 
 ## Where to eat
 
-**Borough Market at stop three** is the food stop, Tuesday to Sunday: street food and hot counters, free to walk in. On an 8am start you reach it mid-morning, so buy something to carry.
+**Borough Market at stop three** is the food stop, Tuesday to Sunday: street food and hot counters, free to walk in. On an 8am start you reach it as it opens, so buy something to carry.
 
 - **Two Eyes Coffee House** (£) at stop two — coffee behind the Leaky Cauldron door, weekdays only.
-- **Soho**, around stop six, is where the walk reaches lunchtime and the place to sit down. The [Soho area guide](/articles/soho-area-guide/) has where to go.
-
-On a Monday, when Borough Market is shut, eat in Soho instead.
+- **Soho**, around stop six, is lunch and the place to sit down. The [Soho area guide](/articles/soho-area-guide/) has where to go. On a Monday, when Borough Market is shut, eat here instead.
 
 ## The best day to go
 
-**Tuesday to Friday.** They are the only days both the coffee shop behind the Leaky Cauldron door and Borough Market are open. On Monday the market is shut; at the weekend the coffee shop is.
+**Tuesday to Friday**, the only days both the coffee shop behind the Leaky Cauldron door and Borough Market are open.
 
 | Day | What changes |
 | --- | --- |
@@ -249,13 +245,13 @@ On a Monday, when Borough Market is shut, eat in Soho instead.
 
 **What never closes:** Leadenhall's lanes, the Millennium Bridge, the Strand outside Australia House, Piccadilly Circus and Lambeth Bridge. House of MinaLima opens every day from 11am.
 
-**The case for Sunday:** the City is empty, and Leadenhall Market has no office crowd. You lose the coffee behind the Leaky Cauldron door and get the arcade to yourself.
+**On Sunday** the City is empty and you get Leadenhall to yourself, but you lose the coffee behind the Leaky Cauldron door.
 
-**On time of day:** an 8am start at King's Cross puts you in Leadenhall at about nine, at Borough Market as it opens, and at House of MinaLima shortly after its 11am opening.
+**An 8am start** at King's Cross puts you in Leadenhall at about nine, at Borough Market as it opens, and at House of MinaLima shortly after its 11am opening.
 
 ## If you would rather be guided
 
-The walking tours cover much the same ground with someone to tell the stories. The most-reviewed on GetYourGuide, **Magical London: Harry Potter Guided Walking Tour**, runs about two and a half hours and was from £20 in September 2026, with more than 22,000 reviews. Others, including a bus tour, are compared in [the best walking tours in London](/articles/best-walking-tours-london/#harry-potter).
+Walking tours cover much the same ground with someone to tell the stories. The most-reviewed on GetYourGuide, **Magical London: Harry Potter Guided Walking Tour**, runs about two and a half hours and had more than 22,000 reviews in September 2026. Others, including a bus tour, are compared in [the best walking tours in London](/articles/best-walking-tours-london/#harry-potter).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="174648" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -263,7 +259,7 @@ The walking tours cover much the same ground with someone to tell the stories. T
 
 **Start:** King's Cross St Pancras for Platform 9¾, then Bank (Northern, Central, Waterloo & City, DLR) or Monument for Leadenhall Market. **Halfway:** Temple or Holborn, both within about ten minutes of Australia House. **Finish:** Westminster (Jubilee, District, Circle), about fifteen minutes back up Millbank from Lambeth Bridge.
 
-The route is flat and rarely more than ten minutes from a station, so you can stop anywhere. Walked in reverse it works, but it reaches the Leaky Cauldron door late in the day, close to the coffee shop's 3.30pm or 4pm close.
+The route is flat and rarely more than ten minutes from a station, so you can stop anywhere. Walked in reverse, it reaches the Leaky Cauldron door close to the coffee shop's 3.30pm or 4pm closing.
 
 ## Carry on walking
 
