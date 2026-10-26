@@ -3,7 +3,8 @@ title: "The Best Pizza in London, Cross-Referenced Across Every Major List and R
 seoTitle: "Best Pizza in London 2026: Ranked Across Major Lists"
 description: "Not our opinion. Every pizzeria here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-08-22
-updatedAt: 2026-09-21
+updatedAt: 2026-10-26
+reviewBy: 2026-11-04
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -13,7 +14,7 @@ heroImage: "../../assets/articles/best-pizza-london/crisp-pizza.jpg"
 heroImageAlt: "A New Haven-style pepperoni pizza at Crisp in Mayfair, its crust blistered and charred dark at the edge, topped with cupped pepperoni, tomato and spoonfuls of ricotta, on a metal pan"
 faq:
   - q: "What is the best pizza in London?"
-    a: "Three judges, three answers. The National Pizza Awards gave the 2025 national title to Short Road Pizza, a residency in a Leyton brewery pub, and Time Out ranks it first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for 2026. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve. They disagree because they are measuring different things."
+    a: "Three judges, three answers. The National Pizza Awards gave the 2025 national title to Short Road Pizza, a residency in a Leyton brewery pub, and Time Out ranks it first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for 2026. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve."
   - q: "Where is the best pizza in central London?"
     a: "50 Kalò is a minute from Charing Cross and placed fourth in Europe in the 2026 rankings, which makes it the highest-ranked pizzeria you can reach without leaving the tourist core. For New York-style, Crisp Pizza in the basement of a Mayfair pub is the one the critics rate highest — but it does not serve pizza on Mondays."
   - q: "Do I need to book a pizzeria in London?"
@@ -21,12 +22,12 @@ faq:
   - q: "Where do I get pizza by the slice in London?"
     a: "Vincenzo's on Bethnal Green Road cuts 20-inch pies from 5pm, Bad Boy Pizza Society does 22-inch slices at Seven Dials Market, and Breadstall runs a pizza slice counter on Berwick Street in Soho. Paulie's on Commercial Street, Carmela's on Upper Street, Sarv's Slice in Ealing and Sud Italia at Old Spitalfields Market are the others to try."
   - q: "Which London pizzerias do gluten-free bases?"
-    a: "Zia Lucia offers four different doughs including a 48-hour ferment and a charcoal base, which makes it the most useful of the group for gluten-sensitive diners. Check directly before travelling — a separate base is not the same as a separate preparation area."
+    a: "Zia Lucia offers four different doughs including a 48-hour ferment and a charcoal base. Check directly before travelling — a separate base is not the same as a separate preparation area."
 ---
 
-Ask who makes the best pizza in London and you will start an argument, because the city stopped cooking one thing a while ago. A soft Neapolitan you eat with a knife and fork. A foldable New York slice. A Detroit square with the cheese burnt crisp against the side of the pan. A Chicago pie deep enough to need a spoon. A Roman base rolled thin enough to snap. Those are not better and worse versions of the same food — they are different foods, and someone who loves one will happily turn down another.
+London cooks several kinds of pizza: a soft Neapolitan you eat with a knife and fork, a foldable New York slice, a Detroit square with the cheese burnt crisp against the pan, a Chicago pie deep enough to need a spoon, and a Roman base rolled thin enough to snap.
 
-Which is why the judges cannot agree either. The Italians give it to a Neapolitan pizzeria in Chiswick. The British give it to a pub kitchen in Leyton. So this guide opens with the three places that actually won something, then sorts the rest by style — because once you know what you are in the mood for, most of the argument disappears.
+The judges disagree too: the Italians pick a Neapolitan pizzeria in Chiswick and the British pick a pub kitchen in Leyton. This guide opens with the three places that won something, then sorts the rest by style.
 
 > 💡 **The Short Version:** **Short Road Pizza** won National Pizza of the Year 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
 
@@ -70,7 +71,7 @@ Which is why the judges cannot agree either. The Italians give it to a Neapolita
 
 ## The three number ones
 
-Three judges, three different winners, because they are not measuring the same thing: 50 Top Pizza marks Neapolitan technique against the tradition, the National Pizza Awards and Time Out pick the best thing to eat regardless of style, and the citation count measures how many independent sources arrived at the same address.
+Three different winners: 50 Top Pizza marks Neapolitan technique, the National Pizza Awards and Time Out pick the best thing to eat regardless of style, and the citation count measures how many independent sources name the same address.
 
 The 2026 national title is still open. Sixteen kitchens cook in front of the judges at **[Big Penny Social in London on 3 November 2026](https://nationalpizzaawards.co.uk/finalists)**, and six of them are London: Bad Boy Pizza Society, Crust Bros, Franco Manca, Pizza Pilgrims, Yard Sale Pizza and the newcomer Five Feet. Bad Boy, which won in 2022 and 2024, is going for a third.
 
@@ -78,9 +79,7 @@ The 2026 national title is still open. Sixteen kitchens cook in front of the jud
 
 *££ · Leyton · William The Fourth, 816 High Road · walk-in · Cited by 4 sources · Winner, National Pizza Awards 2025 · #1 of 21, Time Out · [website](https://shortroadpizza.com/)*
 
-The best pizza in Britain is cooked in the back of a Leyton brewery pub by a kitchen that had been trading for a year. Riccardo Demuru's Short Road Marinara took the 2025 national title and Time Out's top spot in London: confit garlic purée, spicy chimichurri, fresh stracciatella and Cantabrian anchovies on a Romana base — thin, long-fermented, crisp right to the edge. He took the Alternative Slice Award the same night with a vegan one.
-
-Ugo and Kate started it on Short Road in Leytonstone, which is where the name comes from.
+Short Road won the 2025 national title from the back of a Leyton brewery pub, after a year of trading. Riccardo Demuru's Short Road Marinara took the title and Time Out's top spot in London: confit garlic purée, spicy chimichurri, fresh stracciatella and Cantabrian anchovies on a Romana base — thin, long-fermented, crisp right to the edge. He took the Alternative Slice Award the same night with a vegan one.
 
 ![A Short Road pizza on a metal tray, the rim puffed and charred in patches, topped with cupped pepperoni, torn mozzarella, grated parmesan and fresh basil, sitting on green Short Road Pizza paper](../../assets/articles/best-pizza-london/short-road-pizza.jpg)
 
@@ -92,9 +91,9 @@ Ugo and Kate started it on Short Road in Leytonstone, which is where the name co
 
 *££ · Chiswick · 8 min from Turnham Green · Cited by 6 sources · #1 in Europe and Top Pizzeria in England, 50 Top Pizza 2026 · #16 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations)*
 
-**A Chiswick pizzeria whose chef has placed among the best pizza makers in the world** — Michele Pascarella has won the top individual prizes in the trade, which is unusual for a suburban high street.
+**A Chiswick pizzeria, first in Europe in the 2026 50 Top Pizza rankings.**
 
-The dough is a long-fermented Neapolitan base, and the pizzas move well beyond the classics: **seasonal toppings, burrata, nduja** and specials that change monthly. Order the **margherita** first to judge the dough, then something from the specials board.
+A long-fermented Neapolitan base with **seasonal toppings, burrata, nduja** and monthly specials. Order the **margherita** first, then something from the specials board.
 
 **££ and it books ahead** at weekends. Chiswick High Road, and there is a second site — check which one you are booking.
 
@@ -106,7 +105,7 @@ The dough is a long-fermented Neapolitan base, and the pizzas move well beyond t
 
 *££ · Mayfair · 4 min from Bond Street · Cited by 11 sources · #15 of 21, Time Out · #1 of 12, The Infatuation · [book a table](https://www.sevenrooms.com/explore/crispmayfair/reservations)*
 
-The most-cited pizza in London, and the one the critics rank highest. Carl McCluskey's New Haven-style pizza — charred, thin, deliberately scorched at the edge — moved from a Hammersmith pub into the basement of a relaunched Mayfair pub run by the team behind The Devonshire.
+The most-cited pizza in London. Carl McCluskey's New Haven-style pizza — charred, thin, deliberately scorched at the edge — moved from a Hammersmith pub into the basement of a relaunched Mayfair pub run by the team behind The Devonshire.
 
 Order the grandma pie: square, thicker, feeds two or three.
 
@@ -116,21 +115,21 @@ Order the grandma pie: square, thicker, feeds two or three.
 
 > ⚠️ **No pizza on Mondays.** The pub upstairs is walk-in. The pizzeria downstairs takes [bookings](https://www.sevenrooms.com/explore/crispmayfair/reservations).
 
-> 📍 **Two pubs, one kitchen.** Crisp runs at The Chancellors on Crisp Road in Hammersmith — the original, and the one The Infatuation actually ranked first — and at The Marlborough in Mayfair. The citations above cover both, because it is one operation under one owner. If you are travelling for the ranked one, that is W6, not W1.
+> 📍 **Two pubs, one kitchen.** Crisp runs at The Chancellors on Crisp Road in Hammersmith — the original, and the one The Infatuation actually ranked first — and at The Marlborough in Mayfair. The citations above cover both. If you are travelling for the ranked one, that is W6, not W1.
 
 ---
 
 ## Also strongly backed
 
-No single ranking crowns these, but they carry the widest agreement in the city after the three above.
+Named by many sources, with no single ranking behind them.
 
 ### Alley Cats Pizza, Marylebone
 
 *££ · Marylebone · Paddington Street · Cited by 9 sources · #6 of 21, Time Out · #4 of 12, The Infatuation · [book a table](https://www.sevenrooms.com/explore/alleycatsmarylebone/reservations/create/search/)*
 
-The only New York-style pizzeria that Time Out, The Infatuation and Country & Town House all name. Eighteen-inch pies, Southern Italian ingredients, and a room that behaves like a Brooklyn slice joint rather than a trattoria.
+The only New York-style pizzeria that Time Out, The Infatuation and Country & Town House all name. Eighteen-inch pies and Southern Italian ingredients.
 
-Despite the framing, most of the rooms sell whole pies rather than slices. There are four sites — 22 Paddington Street in Marylebone, 342 King's Road in Chelsea, 84 Westbourne Grove and 233 Portobello Road — and Portobello Road is the one that runs a slice counter alongside the dining menu.
+Most sites sell whole pies rather than slices. There are four — 22 Paddington Street in Marylebone, 342 King's Road in Chelsea, 84 Westbourne Grove and 233 Portobello Road — and Portobello Road runs a slice counter alongside the dining menu.
 
 ![An Alley Cats pizza cut into slices on a metal tray, tomato sauce and thin melted cheese under dollops of green pesto and a scatter of dried oregano, held up on the pavement outside](../../assets/articles/best-pizza-london/alley-cats-portobello-road.jpg)
 
@@ -140,9 +139,9 @@ Despite the framing, most of the rooms sell whole pies rather than slices. There
 
 *£ · Covent Garden · Seven Dials Market · walk-in · Cited by 8 sources · #3 of 21, Time Out · #6 of 12, The Infatuation · [website](https://badboypizzasoc.com/locations/)*
 
-Twenty-two-inch New York pies sold by the slice from a counter inside Seven Dials Market, and a two-time National Pizza of the Year winner — 2022 with the Pepperoni Alla Vodka, 2024 with the Sausage Party. It is back in the 2026 final with a pizza called the Vodka Sausage, which reads like a summary of both.
+Twenty-two-inch New York pies sold by the slice from a counter inside Seven Dials Market, and a two-time National Pizza of the Year winner — 2022 with the Pepperoni Alla Vodka, 2024 with the Sausage Party. It is back in the 2026 final with a pizza called the Vodka Sausage.
 
-It began in 2018 as a parody university society in Southampton set up to get students discounted pizza. The brand also runs residencies at Vinegar Yard and The Railway in Tulse Hill, and opened its first permanent restaurant, Bad Boy Pizzeria, at 419 Bethnal Green Road in August 2025.
+The brand also runs residencies at Vinegar Yard and The Railway in Tulse Hill, and opened its first permanent restaurant, Bad Boy Pizzeria, at 419 Bethnal Green Road in August 2025.
 
 ![The two-level hall of Seven Dials Market, with communal benches and festoon lighting](../../assets/articles/best-pizza-london/seven-dials-market.jpg)
 
@@ -152,13 +151,13 @@ It began in 2018 as a parody university society in Southampton set up to get stu
 
 *£ · Soho · Berwick Street · walk-in · Cited by 7 sources · #10 of 21, Time Out · [website](https://www.breadstall.com/)*
 
-**A Soho slice counter selling big round pizzas by the quarter, half or whole** — not by weight, and not, whatever else you read, Roman *al taglio*. Breadstall are blunt about the category on their own site: the result *"isn't Neapolitan or New York style, it's our style"*.
+**A Soho slice counter selling big round pizzas by the quarter, half or whole**, not by weight and not Roman *al taglio*. Its own site calls the result *"isn't Neapolitan or New York style, it's our style"*.
 
-What makes it is the dough. They use a **biga pre-ferment**, a stiff overnight starter, which gives a base that stays crisp underneath while the crust puffs light and open — the thing most slice shops cannot do, because a reheated slice usually goes leathery.
+The dough uses a **biga pre-ferment**, a stiff overnight starter, which keeps the base crisp underneath while the crust puffs light and open.
 
 **The standing order is a Margherita or a pepperoni**, but the one to ask about is the **'New York' Vodka**, and there is a Chicken Parm and a rotating specials board. Crust dippers on the side.
 
-**£, walk-in, and no extra charge to eat in** — which their own window makes a joke of. Quick, cheap and one of the better fast lunches in Soho.
+**£, walk-in, and no extra charge to eat in.**
 
 ![The Breadstall counter on Berwick Street in Soho, staff cutting large round pizzas behind a glass display with a menu board and stacked pizza boxes](../../assets/articles/best-pizza-london/breadstall.jpg)
 
@@ -168,24 +167,21 @@ What makes it is the dough. They use a **biga pre-ferment**, a stiff overnight s
 
 *££ · Hackney · 7 min from London Fields · Cited by 6 sources · #2 of 21, Time Out · #7 of 12, The Infatuation · [website](https://www.doughhands.com/)*
 
-**A pub residency in Hackney** rather than a restaurant — the kitchen operates out of a pub and people are there for the pizza.
+**A pub residency in Hackney.**
 
-The style is its own: a **long-fermented, heavily blistered base** with toppings that lean far from the Neapolitan canon — expect things like **confit garlic, fermented chilli and unusual cheeses** rather than a straight margherita. Six sources name it, which is more than most bricks-and-mortar pizzerias here.
+A **long-fermented, heavily blistered base** with toppings away from the Neapolitan canon: **confit garlic, fermented chilli and unusual cheeses** rather than a straight margherita.
 
-**££, walk-in, and check the residency is running before you go** — pub kitchens move, and this one has changed venue before.
+**££, walk-in.** It has changed venue before, so check the residency is running.
 
-
-> ⚠️ It runs on the pub's **kitchen** hours, which are shorter than the pub's own. Check before travelling.
+> ⚠️ It runs on the pub's **kitchen** hours, which are shorter than the pub's own.
 
 ### Vincenzo's, Shoreditch
 
 *£ · Shoreditch · 122 Bethnal Green Road · walk-in · Cited by 6 sources · #9 of 21, Time Out · #3 of 12, The Infatuation · [website](https://vincenzospizzas.com/)*
 
-**A Shoreditch counter where New York meets Naples**, by design rather than as a compromise. Tom went to the slice counters of Manhattan and Brooklyn first and to Naples second, came home, built a dome oven in his own back garden and worked out a style that keeps both halves.
+**A Shoreditch counter where New York meets Naples.** A wide pie on a long-fermented dough, Neapolitan under the middle and New York in the proportions, sold by the slice as well as whole.
 
-What comes out is a wide pie on a long-fermented dough — Neapolitan under the middle, New York in the proportions, and sold by the slice as well as whole.
-
-Small, and the queue moves quickly. There is a second branch at 42 High Street in Bushey, which is where it started.
+Small, and the queue moves quickly. The Bushey branch at 42 High Street is where it started.
 
 ![A wide New York-style pepperoni pizza on a metal tray at Vincenzo's, cut into slices and covering most of the table, with shakers of chilli flakes and dried oregano beside it](../../assets/articles/best-pizza-london/vincenzos.jpg)
 
@@ -195,7 +191,7 @@ Small, and the queue moves quickly. There is a second branch at 42 High Street i
 
 *££ · Clapton · 105 Lower Clapton Road · walk-in · Cited by 6 sources · 3rd, National Pizza Awards 2025 · #8 of 21, Time Out · [website](https://yardsalepizza.com/shop/clapton/)*
 
-Started in a back-yard oven in Homerton in 2014 and grew into east London's default good pizza without ever becoming a chain you would avoid. British ingredients, a considered vegan menu, and consistent across every branch. Paolo Burini's Ragu Pazzo took third in Britain in 2025, and the kitchen is back in the 2026 final with The Gaeng Pizza Gang.
+Started in a back-yard oven in Homerton in 2014. British ingredients and a vegan menu. Paolo Burini's Ragu Pazzo took third in Britain in 2025, and the kitchen is back in the 2026 final with The Gaeng Pizza Gang.
 
 Six London sites: Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow and Finsbury Park. Clapton is the original.
 
@@ -209,8 +205,6 @@ Six London sites: Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow 
 
 ## By style
 
-Five different foods under one word.
-
 ### Neapolitan: the ranked pizzerias
 
 The formal end. Long-fermented dough, a wet centre you are supposed to eat with a knife and fork, and a puffed, blistered rim.
@@ -219,19 +213,15 @@ The formal end. Long-fermented dough, a wet centre you are supposed to eat with 
 
 *££ · Trafalgar Square · 1 min from Charing Cross · Cited by 2 sources · #4 in Europe and Best Fried Food, 50 Top Pizza 2026 · [book a table](https://www.sevenrooms.com/reservations/50kalopizzerialondon)*
 
-Ciro Salvo's London outpost, and the answer to the question this guide gets asked most: where is the good pizza that does not require a journey. Fourth in Europe, one minute from Charing Cross, and surrounded by some of the worst-value restaurants in London.
+Ciro Salvo's London outpost: fourth in Europe, one minute from Charing Cross.
 
-The same panel gave it Best Fried Food in Europe for 2026, so order the fritti before the pizza rather than instead of a starter.
-
-If you are staying central and want one very good pizza with no planning at all, this is it.
+The same panel gave it Best Fried Food in Europe for 2026, so order the fritti as a starter.
 
 #### L'Antica Pizzeria da Michele, Marylebone
 
 *££ · Marylebone · 2 min from Baker Street · Cited by 5 sources · #28 in Europe, 50 Top Pizza 2026 · [website](https://www.anticapizzeriadamichele.co.uk/)*
 
-The London arm of the Naples institution founded in 1870 — the one from *Eat Pray Love*, if that is a reference point. The menu is deliberately, almost aggressively short, because in Naples the argument is that a pizzeria doing forty toppings is not concentrating.
-
-Baker Street is the branch named in the 2026 rankings.
+The London arm of the Naples pizzeria founded in 1870. The menu is deliberately short. Baker Street is the branch named in the 2026 rankings.
 
 #### Connie's Pizza, Peckham
 
@@ -239,7 +229,7 @@ Baker Street is the branch named in the 2026 rankings.
 
 Entered the European ranking at 48 within a year of opening and took the One to Watch award for 2026 with it — the only London pizzeria in the 60 south of the river. It sits in the railway arches directly under Queen's Road Peckham station, in the old Little Kudu site.
 
-Andrea Asciuti, who founded 081 Pizzeria, calls the style "Bri-talian": a crisp London base built with Italian method, which describes what most good London pizza now is better than "Neapolitan" would.
+Andrea Asciuti, who founded 081 Pizzeria, calls the style "Bri-talian": a crisp London base built with Italian method.
 
 ### The one with a tasting menu
 
@@ -247,25 +237,25 @@ Andrea Asciuti, who founded 081 Pizzeria, calls the style "Bri-talian": a crisp 
 
 *£££ · Soho · 140 Wardour Street · book weeks ahead · London's first pizza tasting menu · [book a table](https://www.sevenrooms.com/explore/napoliontheroadsoho/reservations)*
 
-Seven courses, four of them pizza, in a basement under Wardour Street — the only pizza tasting menu in the city. Around £65 a head, with the wine pairing charged on top. It opens with fritti, then works through a white pizza with asparagus and anchovy colatura before it gets anywhere near a margherita. The ground floor is a separate à la carte restaurant; the tasting menu downstairs books separately.
+Seven courses, four of them pizza, in a basement under Wardour Street. Around £65 a head, with the wine pairing charged on top. It opens with fritti and works through a white pizza with asparagus and anchovy colatura before the margherita. The ground floor is a separate à la carte restaurant; the tasting menu downstairs books separately.
 
 ### New York
 
-Thinner, wider, foldable, sold by the slice, and where most of the 2026 coverage went.
+Thinner, wider, foldable, often sold by the slice.
 
 #### Spring Street Pizza, Borough
 
 *££ · Borough · Arch 32, Southwark Street · Cited by 4 sources · #4 of 21, Time Out · #9 of 12, The Infatuation · [book a table](https://www.opentable.co.uk/r/spring-street-pizza-southwark)*
 
-Tom Kemble left fine dining — he held a star at Bonhams — to make eighteen-inch New York slices under a railway arch off O'Meara Street. The dough is a biga fermented past forty-eight hours, which is where the thin, foldable, charred base comes from.
+Tom Kemble, who held a star at Bonhams, makes eighteen-inch New York slices under a railway arch off O'Meara Street. The dough is a biga fermented past forty-eight hours.
 
-A few minutes from Borough Market, London Bridge and the Shard, which makes it the most useful entry on this page for anyone doing the South Bank.
+A few minutes from Borough Market, London Bridge and the Shard.
 
 #### Paulie's, Spitalfields
 
 *££ · Spitalfields · 146 Commercial Street · walk-in · Cited by 5 sources · #12 of 12, The Infatuation · [website](https://paulieslondon.com/)*
 
-The Paulie's Pie — fennel-seed pepperoni under hot honey — sold by the slice or whole on Commercial Street, with enough room to actually sit down, which most slice shops do not offer.
+The Paulie's Pie — fennel-seed pepperoni under hot honey — sold by the slice or whole on Commercial Street, with room to sit down.
 
 #### Ace Pizza, Victoria Park
 
@@ -277,13 +267,13 @@ A chewy base somewhere between New York and Naples, on the Victoria Park village
 
 *££ · Islington · 149A Upper Street · walk-in · Cited by 3 sources · #12 of 21, Time Out · #11 of 12, The Infatuation · [website](https://linktr.ee/Carmelaspizzeria)*
 
-A softer, foldable New York slice on Upper Street, where the competition is mostly chains.
+A softer, foldable New York slice on Upper Street.
 
 #### Lauretta's, Bethnal Green
 
 *££ · Bethnal Green · 93 Columbia Road · Cited by 3 sources · #5 of 12, The Infatuation*
 
-Proudly thin with a puffy, fire-kissed crust, on Columbia Road — which means Sunday lunch is flower-market chaos and the rest of the week is evenings only. Closed Mondays.
+Thin, with a puffy crust, on Columbia Road; Sunday lunch coincides with the flower market and the rest of the week is evenings only. Closed Mondays.
 
 #### 67 Sourdough, East Finchley
 
@@ -293,21 +283,21 @@ Thin-crust New York pizza served inside a working car dealership on the Great No
 
 ### Detroit and Chicago
 
-The shapes almost nobody else in London attempts.
+Detroit squares and Chicago deep dish.
 
 #### Ria's, Notting Hill
 
 *££ · Notting Hill · Cited by 5 sources · #21 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/riasnottinghill/reservations/create/search/?venues=riasnottinghill%2Criassoho)*
 
-Thick, crisp-edged Detroit pies, baked in a rectangular steel pan so the cheese caramelises against the sides into what Detroit calls the frico edge. Matched to a natural wine list, and the only one doing the style in west London.
+Thick, crisp-edged Detroit pies, baked in a rectangular steel pan so the cheese caramelises against the sides into what Detroit calls the frico edge. Matched to a natural wine list.
 
-Founded in 2023 by a husband-and-wife pair who came out of tech. A second site opened in Soho at 29 Foubert's Place with a wine cave downstairs.
+A second site is at 29 Foubert's Place in Soho, with a wine cave downstairs.
 
 #### Detroit Pizza London, Spitalfields
 
 *££ · Spitalfields · 75 Commercial Street · Cited by 3 sources · [website](https://detroitpizzalondon.com/)*
 
-Baked in blue steel pans so the cheese caramelises against the edge — crunchy corners, cloud-like middle. The other serious Detroit pizza in the city, and the one on the east side.
+Baked in blue steel pans so the cheese caramelises against the edge — crunchy corners and a light middle.
 
 ![The dining room at Detroit Pizza London, brick walls hung with framed American memorabilia above a long shared table](../../assets/articles/best-pizza-london/detroit-pizza-london.jpg)
 
@@ -317,9 +307,9 @@ Baked in blue steel pans so the cheese caramelises against the edge — crunchy 
 
 *££ · Soho · 22–25 Dean Street · Cited by 4 sources · #19 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/japescamden/reservations/create/search/)*
 
-Chicago deep dish, which almost nothing else in central London attempts — a pie built in a pan deep enough that the cheese pull becomes the entire point of it. Also in Greenwich and Camden.
+Chicago deep dish, in a pan deep enough that the cheese pull is the point. Also in Greenwich and Camden.
 
-Deep dish is slow to cook. Expect a wait that a Neapolitan pizzeria would never ask of you, and do not arrive starving.
+Deep dish is slow to cook, so expect a wait and do not arrive starving.
 
 #### Little Earthquakes, Stoke Newington
 
@@ -329,21 +319,19 @@ Neil Rankin of Temper doing deep-dish modelled on the frozen supermarket pizzas 
 
 ### Neapolitan you can walk into
 
-Good, widespread, and no planning required.
-
 #### Rudy's Pizza Napoletana, Soho
 
 *££ · Soho · 80 Wardour Street · walk-in · Cited by 6 sources · #7 of 21, Time Out · Highly Commended, PAPA Industry Awards 2025 · [book a table](https://www.rudyspizza.co.uk/book-now)*
 
-Naples by way of Manchester, and accredited by the Associazione Verace Pizza Napoletana — meaning the dough, the flour and the oven all meet the Neapolitan association's own written standard. Very few London pizzerias bother to get that.
+Accredited by the Associazione Verace Pizza Napoletana, meaning the dough, the flour and the oven all meet the association's written standard.
 
-A 2025 National Pizza Awards finalist, highly commended behind Pizza Pilgrims for the pizza trade's own chain-of-the-year award the same year, and the most reliable cheap Neapolitan pizza in central London, with sites on Wardour Street, Shoreditch High Street and Spital Square. Consistent enough that any branch will do.
+A 2025 National Pizza Awards finalist, highly commended behind Pizza Pilgrims for the PAPA Industry Awards' chain of the year that year, with sites on Wardour Street, Shoreditch High Street and Spital Square.
 
 #### Zia Lucia, Holloway
 
 *££ · Holloway · 7 min from Highbury & Islington · Cited by 4 sources · [website](https://zialucia.com/)*
 
-Four different doughs, including a 48-hour ferment and a charcoal base, which makes this the most useful entry here for anyone avoiding standard wheat flour. A 2025 National Pizza Awards finalist.
+Four different doughs, including a 48-hour ferment and a charcoal base. A 2025 National Pizza Awards finalist.
 
 **Gluten-free base available** — though a separate base is not a separate preparation area, so ask if you need it for medical reasons.
 
@@ -351,7 +339,7 @@ Four different doughs, including a 48-hour ferment and a charcoal base, which ma
 
 *££ · Stratford · Cited by 3 sources · #13 of 21, Time Out · [book a table](https://www.berberepizzeria.co.uk/book-here/)*
 
-An Italian group doing sourdough bases with crisp bottoms and a light, fluffy rim, split into halves so a table can order two things. Five London locations.
+An Italian group doing sourdough bases with crisp bottoms and a light, fluffy rim, split into halves so a table can order two things. Several London locations.
 
 #### Homeslice, Covent Garden
 
@@ -367,7 +355,7 @@ Twenty-inch pizzas sold whole or by the slice, with toppings split across halves
 
 *££ · Soho · 5 min from Tottenham Court Road · bookable, rarely needed · Cited by 8 sources · Pizza Restaurant Chain of the Year, PAPA Industry Awards 2025 · [book a table](https://www.pizzapilgrims.co.uk/bookings)*
 
-Started as a Soho market cart in 2012 and now runs across London. The pizza trade's own association judged it the best pizza restaurant chain in the country in 2025, it reached the National Pizza Awards final that year, and it is back in the 2026 one with a pizza called Che Cavolo. Reliable rather than remarkable at any single branch, but consistent, and you can walk into all of them. The fried pizza starter is worth ordering beyond the pizza itself.
+Started as a Soho market cart in 2012 and now runs across London. It won Pizza Restaurant Chain of the Year at the 2025 PAPA Industry Awards, reached the National Pizza Awards final that year, and is back in the 2026 one with a pizza called Che Cavolo. You can walk into any branch. Order the fried pizza starter.
 
 ![A margherita pizza on a checked tablecloth](../../assets/articles/best-pizza-london/pizza-pilgrims.jpg)
 
@@ -389,7 +377,7 @@ A south London sourdough chain whose head pizzaiolo, Antonio Raspone, took Pizza
 
 *££ · Ealing · 7 min from Ealing Broadway · Cited by 2 sources · [book a table](https://booking.resdiary.com/widget/Standard/SantaMariaPaddington/59017)*
 
-A small Ealing pizzeria that built its reputation on strict Neapolitan method years before the current wave arrived. Useful if you are anywhere in west London.
+A small Ealing pizzeria built on strict Neapolitan method.
 
 ![The white frontage of Santa Maria pizzeria at night](../../assets/articles/best-pizza-london/santa-maria.jpg)
 
@@ -401,14 +389,14 @@ A small Ealing pizzeria that built its reputation on strict Neapolitan method ye
 
 ## Cheapest
 
-Everything here is in the **£** band, under £15 a head, and none of it takes a booking.
+Everything here is in the **£** band, under £15 a head.
 
 [Breadstall](#breadstall-soho) · [Bad Boy Pizza Society](#bad-boy-pizza-society-covent-garden) · [Vincenzo's](#vincenzos-shoreditch), plus four with no entry above:
 
-- **[Franco Manca](https://eu.sevenrooms.com/reservations/francomancaaldwych?venues=francomancaaldwych,francomancacoventgarden,francomancaholborn,francomancasoho)**, Soho — sourdough at a price nothing central matches, from a 2008 Brixton Market stall. A finalist at both the 2025 and 2026 National Pizza Awards. *Cited by 4 sources*
+- **[Franco Manca](https://eu.sevenrooms.com/reservations/francomancaaldwych?venues=francomancaaldwych,francomancacoventgarden,francomancaholborn,francomancasoho)**, Soho — sourdough from a 2008 Brixton Market stall. A finalist at both the 2025 and 2026 National Pizza Awards. *Cited by 4 sources*
 - **[Sarv's Slice](https://www.sarvsslice.com/)**, Ealing — slice counter in the Filmworks development by Ealing Broadway. *Cited by 2 sources*
 - **[ICCO](https://icco.co.uk/)**, Fitzrovia — long-running cheap pizza near Goodge Street. *Cited by 1 source*
-- **[Voodoo Ray's](http://www.voodoorays.com/)**, Dalston — late-night slices, a category with almost no competition.
+- **[Voodoo Ray's](http://www.voodoorays.com/)**, Dalston — late-night slices.
 
 ## Food halls and market stalls
 
@@ -417,22 +405,16 @@ Market hours and communal benches rather than a table of your own. Three traders
 - **[Gracey's Pizza](https://graceyspizza.com/covent-garden)**, Arcade Covent Garden — New Haven apizza on a light, charred, crisp base, also in the Arcade hall at Battersea Power Station. The Infatuation ranked it second of twelve, judging the original, which is in St Albans. *Cited by 3 sources · #2 of 12, The Infatuation*
 - **[Sud Italia](http://www.suditaliapizza.co.uk/)**, Old Spitalfields — sourdough Neapolitan matured 24 to 36 hours at room temperature, from a stall at 16 Horner Square. There is a second site in Arsenal. *Cited by 1 source*
 
-> ⚠️ **Market stalls trade on market hours.** Bad Boy at Seven Dials and Sud Italia at Old Spitalfields both close when the market does, which is earlier than a restaurant.
-
 ## Pub pizza
 
-A serious pizza kitchen operating inside somebody else's pub. No guide treats it as a category, and it is how the best pizza in Britain is cooked.
+A pizza kitchen operating inside somebody else's pub, which is how the 2025 National Pizza Awards winner is cooked.
 
 [Short Road Pizza](#short-road-pizza-leyton) · [Crisp Pizza](#crisp-pizza-at-the-marlborough-mayfair) · [Dough Hands](#dough-hands-hackney) · [Little Earthquakes](#little-earthquakes-stoke-newington), plus:
 
 - **Bing Bong Pizza** — You Call The Shots, 13 Morning Lane, Hackney. Second in Britain in 2025, cooked out of a leopard-print bar. *Cited by 2 sources · 2nd, National Pizza Awards 2025*
 - **Patio Pizza** — The Greyhound, Peckham. *Cited by 1 source · #10 of 12, The Infatuation*
 
-> ⚠️ **The kitchen closes before the bar.** Every entry here keeps shorter hours than the pub it sits in, and several do not cook every day. Check the pizza hours, not the pub's.
-
 ## Recent arrivals
-
-New enough that the lists are still catching up.
 
 - **[Connie's Pizza](https://conniespizzeria.com/)**, Peckham — entered the European top 50 at 48 within a year of opening, and took the 'one to watch' award with it. *Cited by 2 sources · #48 in Europe, 50 Top Pizza*
 - **Bing Bong Pizza**, Hackney — went from a bar pop-up to second in Britain. *Cited by 2 sources · 2nd, National Pizza Awards 2025*
@@ -443,32 +425,32 @@ New enough that the lists are still catching up.
 
 ## Also named, briefly
 
-Places the sources back but that did not earn a full entry, either because only one or two guides name them or because pizza is not the main event. Several are very good.
+Named by the sources but not written up above.
 
 | Venue | Area | Price | Cited by | What it is |
 | --- | --- | --- | --- | --- |
 | **[Crust Bros](https://www.crustbros.co.uk/book-now)** | Waterloo | ££ | 2 sources · 2026 National Pizza Awards finalist | Neapolitan on Waterloo Road, handy for the South Bank theatres, with two more branches in Covent Garden and Earl's Court |
 | **[Bar Etna](https://www.instagram.com/bar.etna.london/)** | Newington Green | £££ | 1 source · #11 of 21, Time Out | Thin, crisp East Coast style with simple but serious toppings |
 | **[Purezza](https://purezza.co.uk/reservations/)** | Camden Town | ££ | 1 source | Vegan-led, and a past National Pizza of the Year winner |
-| **[Cecconi's](https://www.opentable.co.uk/widget/reservation/loader?rid=4919)** | Mayfair | £££ | 1 source | Mayfair Italian where the pizza is a sideline, not the reason |
+| **[Cecconi's](https://www.opentable.co.uk/widget/reservation/loader?rid=4919)** | Mayfair | £££ | 1 source | Mayfair Italian where pizza is one item on the menu |
 | **[Florencio](https://www.florenciopizza.com/)** | Marylebone | ££ | 2 sources | A light, thin base from a 48-hour ferment. Closed Sunday and Monday |
 | **[Weezie's](https://www.weezieslondon.com/)** | Belgravia | ££ | 1 source | Thin crust, Guinness and a proper wine list, in a courtyard near Victoria |
-| **[Elliot's](https://elliots.london/)** | Borough Market | £££ | 1 source | A wine bar that happens to make a pizza people cross London for |
+| **[Elliot's](https://elliots.london/)** | Borough Market | £££ | 1 source | A wine bar with a pizza on the menu |
 | **[Theo's Pizzeria](https://www.theospizzeria.com/)** | Camberwell | ££ | 2 sources | Neapolitan that made its name on house chilli oil |
 | **['O Ver](https://www.overuk.com/)** | Borough | ££ | 2 sources | Doughs made with filtered Mediterranean sea water instead of salt |
 | **[Made in Italy](https://www.madeinitalygroup.co.uk/)** | Chelsea | ££ | 1 source | Sold by the half-metre on a board, on the King's Road |
 | **Pizza Union** | Various | £ | 2 sources | Fast, very cheap Neapolitan near several stations |
-| **[Circolo Popolare](https://www.sevenrooms.com/explore/circolopopolare/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)** | Fitzrovia | ££ | — | Big Mamma's wall-of-bottles room; the pizza is not why you book |
-| **[Lardo](http://www.lardo.co.uk/book)** | London Fields | ££ | — | Pizza and pasta, a London Fields fixture |
-| **[Wandercrust](http://www.wandercrust.com/)** | Greenwich | ££ | — | Neapolitan, and the reason to eat in Greenwich rather than at the market |
-| **[CRATE Brewery](http://www.cratebrewery.com/)** | Hackney Wick | ££ | — | Canalside brewery doing pizza — go for the canal, stay for the beer |
-| **[Santi](http://www.santirestaurant.com/)** | Stratford | ££ | — | Neighbourhood Italian in East Village, useful near the Olympic Park |
+| **[Circolo Popolare](https://www.sevenrooms.com/explore/circolopopolare/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)** | Fitzrovia | ££ | — | Big Mamma's wall-of-bottles room |
+| **[Lardo](http://www.lardo.co.uk/book)** | London Fields | ££ | — | Pizza and pasta |
+| **[Wandercrust](http://www.wandercrust.com/)** | Greenwich | ££ | — | Neapolitan pizza in Greenwich |
+| **[CRATE Brewery](http://www.cratebrewery.com/)** | Hackney Wick | ££ | — | Canalside brewery doing pizza |
+| **[Santi](http://www.santirestaurant.com/)** | Stratford | ££ | — | Neighbourhood Italian in East Village, near the Olympic Park |
 
 ![The bar at Circolo Popolare, backed by a wall of bottles beneath hanging greenery](../../assets/articles/best-pizza-london/circolo-popolare-bar.jpg)
 
 *Circolo Popolare, Fitzrovia.*
 
-[See all 112 Italian restaurants →](/restaurants/cuisine/italian)
+[See all Italian restaurants →](/restaurants/cuisine/italian)
 
 ---
 
