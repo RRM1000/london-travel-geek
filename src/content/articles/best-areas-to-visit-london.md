@@ -205,7 +205,7 @@ Read the [Kensington area guide](/articles/kensington-area-guide/).
 
 *Zone 1–2 · Notting Hill Gate · half a day, or a full day on a Saturday · Saturday for the full market*
 
-Portobello Road Market runs for more than a mile: antiques arcades at the southern end (Friday and Saturday), then fruit and veg, then vintage stalls under the Westway flyover. The pastel terraces are not on Portobello Road. Hillgate Village, four minutes from Notting Hill Gate, has the strongest colour and few visitors; Lancaster Road is the closest to the market.
+Portobello Road Market runs for more than a mile: antiques at the southern end (the arcades open on Saturdays only), then fruit and veg, then vintage stalls under the Westway flyover. The pastel terraces are not on Portobello Road. Hillgate Village, four minutes from Notting Hill Gate, has the strongest colour and few visitors; Lancaster Road is the closest to the market.
 
 The market does not run on Sundays. The houses are people's homes, so photograph from the pavement. Over the August bank holiday weekend Carnival takes over the area, shops board up and nearby stations go exit-only or close.
 
