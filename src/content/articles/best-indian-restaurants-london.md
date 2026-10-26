@@ -3,7 +3,8 @@ title: "The Best Indian Restaurants in London, Cross-Referenced Across Every Maj
 seoTitle: "Best Indian Restaurants in London 2026, Ranked"
 description: "Not our opinion. Every restaurant here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-08-11
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -28,11 +29,11 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-London does not have one Indian restaurant scene. It has a dozen running in parallel, and a British menu convention files them all under one word. A Mayfair club room cooking game over charcoal. A Keralan kitchen working coconut, curry leaf and appam. Awadhi biryani from the courts of Lucknow. Assamese and Naga food from the north-east, smoky and fermented and nothing like a curry. Gujarati thalis at a market stall for a fiver.
+London's Indian restaurants cover many regional cuisines under one word: game over charcoal in a Mayfair club room, Keralan coconut, curry leaf and appam, Awadhi biryani from Lucknow, smoky fermented Assamese and Naga food, Gujarati thalis at a market stall for a fiver.
 
-So this guide does two things. It starts with the restaurants that actually won something — the stars, the icons, the award winners — then arranges the rest **by what each kitchen cooks**. Once you know you want appam rather than a tandoor, half the famous names stop mattering.
+This guide starts with the restaurants that won something — the stars and the icons — then arranges the rest **by what each kitchen cooks**.
 
-> 💡 **The Short Version:** **Gymkhana** holds two Michelin stars and is named by more sources than anything else here — book months out. **Trishna** is the same idea at half the price and the safest booking on this page. **Dishoom** or **Kricket** for a good central meal with no plan. **Rasa** for Keralan vegetarian cooking that shames most Mayfair vegetable courses. **Shree Krishna Vada Pav** for the best £6 in London.
+> 💡 **The Short Version:** **Gymkhana** holds two Michelin stars and is named by more sources than anything else here — book months out. **Trishna** is the same idea at half the price and the safest booking on this page. **Dishoom** or **Kricket** for a good central meal with no plan. **Rasa** for Keralan vegetarian cooking. **Shree Krishna Vada Pav** for a counter meal under £20.
 
 > 📊 **The evidence behind this guide.**
 > **22 sources carrying 242 citations** across **103 named restaurants**. **43 restaurants are named by two or more independent sources; 42 carry a dated award.**
@@ -74,15 +75,15 @@ So this guide does two things. It starts with the restaurants that actually won 
 
 ## The most decorated
 
-Every restaurant in this section holds a current Michelin star, a British Indian Good Food Guide London Icon, or both. These are the judged results rather than press consensus, and they are the closest thing this category has to a settled answer.
+Every restaurant in this section holds a current Michelin star, a British Indian Good Food Guide London Icon, or both.
 
 ### Gymkhana, Mayfair
 
 *££££ · Mayfair · 3 min from Green Park · book months ahead · Cited by 11 sources · 2 Michelin stars · London Icon 2025*
 
-The only Indian kitchen in Britain with two stars, and the most-cited Indian restaurant in London by a clear margin — eleven independent sources, including six of the year's food videos. The room takes its cues from the colonial-era gymkhana clubs: ceiling fans, dark wood, a bar that behaves like a members' club. The kitchen leans hard into game and grilling, and the wild boar biryani is the order.
+The only Indian kitchen in Britain with two stars, and the most-cited Indian restaurant here: eleven independent sources, including six of the year's food videos. The room is modelled on the colonial-era gymkhana clubs, with ceiling fans and dark wood. The kitchen leans on game and grilling, and the wild boar biryani is the order.
 
-Book as far ahead as the window allows, which in practice means months rather than weeks. This is not a meal you slot in before a show; it is the evening.
+**Book as far ahead as the window allows**, which means months rather than weeks.
 
 ![A full table at Gymkhana: a biryani sealed under a browned pastry lid, seekh kebabs with green chutney, a curry in a copper handi and a whole spiced cauliflower, on patterned china](../../assets/articles/best-indian-restaurants-london/gymkhana.jpg)
 
@@ -100,11 +101,11 @@ Book as far ahead as the window allows, which in practice means months rather th
 
 *Soft-shell crab at Trishna.*
 
-**Michelin-starred cooking from India's south-west coast**, and the most-cited Indian restaurant in London across every guide read for this page — the Konkan and Kerala coastline rather than the Punjabi repertoire that shaped British Indian food.
+**Michelin-starred cooking from India's south-west coast** — the Konkan and Kerala coastline rather than the Punjabi repertoire of British Indian food.
 
-Seafood is the whole proposition. The **hariyali bream** is the signature — whole fish in a green herb marinade — and the **butter pepper garlic crab** is the dish regulars order before looking at the menu. Coastal spicing: coconut, curry leaf, tamarind, and far less cream than a curry house.
+Seafood. The **hariyali bream** is the signature — whole fish in a green herb marinade — and the **butter pepper garlic crab** is the other standing order. Coastal spicing: coconut, curry leaf, tamarind, and far less cream than a curry house.
 
-**£££ and it books weeks ahead.** Marylebone. The set lunch is a fraction of dinner and comes out of the same kitchen.
+**£££ and it books weeks ahead.** The set lunch costs a fraction of dinner and comes from the same kitchen.
 
 ### Jamavar, Mayfair
 
@@ -114,19 +115,19 @@ Seafood is the whole proposition. The **hariyali bream** is the signature — wh
 
 *The dining room at Jamavar.*
 
-**Named for the handwoven Kashmiri shawl**, and cooking across the whole subcontinent rather than one region of it — which is unusual at this level, where most kitchens pick a coastline and stay there.
+**Named for the handwoven Kashmiri shawl**, and cooking across the whole subcontinent rather than one region.
 
-The menu moves from Kashmiri to Keralan in a few pages: **rogan josh**, coastal seafood, and a **biryani** sealed under pastry and opened at the table. Michelin-starred, and the cooking is precise rather than showy.
+The menu moves from Kashmiri to Keralan: **rogan josh**, coastal seafood, and a **biryani** sealed under pastry and opened at the table.
 
-**££££ and it books weeks ahead.** Mount Street. Amaya and Benares are within walking distance, which makes this stretch of Mayfair the densest Indian fine dining in the country.
+**££££ and it books weeks ahead.** Mount Street, within walking distance of Amaya and Benares.
 
 ### Veeraswamy, Piccadilly
 
 *££££ · Piccadilly · 4 min from Piccadilly Circus · book weeks ahead · Cited by 8 sources · 1 Michelin star · London Icon 2025*
 
-**Open since 1926 and the oldest surviving Indian restaurant in Britain**, above Regent Street — with a Michelin star to go with the history, which very few centenarian restaurants manage.
+**Open since 1926 and the oldest surviving Indian restaurant in Britain**, above Regent Street.
 
-The **dum biryani** is the signature: rice and meat sealed under a pastry lid and steamed, cracked open at the table. Around it, dishes from across India cooked in the old formal register, in a room of chandeliers and colour that has been there since the Raj was a going concern.
+The **dum biryani** is the signature: rice and meat sealed under a pastry lid and steamed, cracked open at the table. Around it, dishes from across India in a room of chandeliers and colour.
 
 **££££ and it books weeks ahead.** The entrance is easy to miss — it is on Swallow Street, up a lift.
 
@@ -145,11 +146,11 @@ The **dum biryani** is the signature: rice and meat sealed under a pastry lid an
 
 *The dining room at Benares.*
 
-**Named Best Fine Dining Restaurant in London at the Asian Curry Awards**, and a Berkeley Square fixture for two decades — the room Atul Kochhar built and the one that won London's first Michelin star for Indian cooking.
+**Named Best Fine Dining Restaurant in London at the Asian Curry Awards**, on Berkeley Square for two decades.
 
-Modern Indian in the fine-dining sense: British produce through Indian technique, a **tasting menu** that changes seasonally, and a bar that is a destination in itself. Less regional than Trishna, more composed than a curry house.
+British produce through Indian technique, a **tasting menu** that changes seasonally, and a bar.
 
-**££££ and it books weeks ahead.** Up a flight of stairs off Berkeley Square, which keeps it quieter than the street below.
+**££££ and it books weeks ahead.** Up a flight of stairs off Berkeley Square.
 
 ### Amaya, Knightsbridge
 
@@ -159,11 +160,11 @@ Modern Indian in the fine-dining sense: British produce through Indian technique
 
 *The dining room at Amaya, looking towards the grill.*
 
-**An open kitchen of tawa, sigri and tandoor in Belgravia, with a Michelin star for grilling rather than saucing** — which makes it unlike every other starred Indian room in London.
+**An open kitchen of tawa, sigri and tandoor in Belgravia, with a Michelin star for grilling rather than saucing.**
 
-Three cooking methods, all visible from the tables: the **tawa** griddle, the **sigri** charcoal grill and the **tandoor** clay oven. Order the **tandoori lamb chops** and the griddled scallops; there is barely a curry on the menu and that is deliberate.
+Three cooking methods, all visible from the tables: the **tawa** griddle, the **sigri** charcoal grill and the **tandoor** clay oven. Order the **tandoori lamb chops** and the griddled scallops; there is barely a curry on the menu.
 
-**££££ and it books weeks ahead.** Ask for a table facing the kitchen — the cooking is the entertainment.
+**££££ and it books weeks ahead.** Ask for a table facing the kitchen.
 
 ### Quilon, Westminster
 
@@ -173,9 +174,9 @@ Three cooking methods, all visible from the tables: the **tawa** griddle, the **
 
 *The dining room at Quilon.*
 
-Kerala and the Malabar coast: appam, coconut, curry leaf, and seafood treated as the main event. Quilon has held its star since 2008 and remains the one starred kitchen in London working the south-west rather than the north. Order the Mangalorean chicken.
+Kerala and the Malabar coast: appam, coconut, curry leaf, and seafood treated as the main event. Quilon has held its star since 2008. Order the Mangalorean chicken.
 
-It sits inside the St James' Court hotel, a short walk from Buckingham Palace and Westminster Abbey, which makes it an unusually easy dinner to attach to a sightseeing day.
+It sits inside the St James' Court hotel, a short walk from Buckingham Palace and Westminster Abbey.
 
 **9 minutes from The Cinnamon Club.**
 
@@ -185,9 +186,9 @@ It sits inside the St James' Court hotel, a short walk from Buckingham Palace an
 
 *££££ · Westminster · 7 min from St. James's Park · Cited by 3 sources · London Icon 2025*
 
-**Inside the Grade II listed old Westminster Library**, bookshelves still in place and the gallery still running round the room — the most unusual dining room of any Indian restaurant in London, and it sits close enough to Parliament that it fills with MPs and lobbyists whenever the House is sitting.
+**Inside the Grade II listed old Westminster Library**, with the bookshelves and gallery still in place, close enough to Parliament that it fills with MPs and lobbyists whenever the House is sitting.
 
-Vivek Singh's cooking is Indian technique applied to British produce: **game, venison and grouse in season**, spiced rather than curried, with a wine list built to match. The breakfast service is a genuine oddity.
+Vivek Singh's cooking applies Indian technique to British produce: **game, venison and grouse in season**, with a wine list built to match. It also serves breakfast.
 
 **££££, closed Sunday, and it books weeks ahead.** Great Smith Street, two minutes from Westminster Abbey.
 
@@ -205,9 +206,9 @@ Vivek Singh's cooking is Indian technique applied to British produce: **game, ve
 
 **A Mayfair room built around the food of undivided Punjab** — the region split between India and Pakistan in 1947 — from the JKS group, and styled as a 1920s Bombay gentlemen's club.
 
-The cooking is Punjabi and north Indian rather than the coastal food elsewhere in this guide: **tandoori meats, rich gravies, breads off the grill**, with a **butter chicken** that regulars order without discussion. Two floors and a bar with a serious cocktail list.
+Punjabi and north Indian cooking: **tandoori meats, rich gravies, breads off the grill**, and a **butter chicken**. Two floors and a bar with a cocktail list.
 
-**££££ and it books weeks ahead.** Heddon Street, and busier and louder than the Mayfair rooms around it.
+**Book weeks ahead.** Heddon Street, and louder than the Mayfair rooms around it.
 
 ---
 
@@ -215,7 +216,7 @@ The cooking is Punjabi and north Indian rather than the coastal food elsewhere i
 
 ## Also strongly backed
 
-No star, but the widest agreement in the city after the section above.
+No star, but named by many sources.
 
 ### Brigadiers, City of London
 
@@ -225,9 +226,7 @@ No star, but the widest agreement in the city after the section above.
 
 *Lamb chops at Brigadiers.*
 
-Built on the idea of an Indian army mess bar: several large rooms, barbecue over coals, a serious whisky list, and live sport on the screens. It is loud, and that is a design decision rather than an accident — nobody at Brigadiers is having a quiet conversation.
-
-Which makes it the obvious answer for a group of six or more, and the wrong answer for almost everything else. The tandoori lamb chops are what to order first. TOPJAW's best-curry list, voted by 200 chefs and industry figures they interviewed, put it top.
+Modelled on an Indian army mess bar: several large rooms, barbecue over coals, a serious whisky list and live sport on the screens. It is loud, which makes it right for a group of six or more and wrong for a quiet conversation. Order the **tandoori lamb chops** first. TOPJAW's best-curry list, voted by 200 chefs and industry figures they interviewed, put it top.
 
 ▶ **In the videos:** [TOPJAW opens here](https://www.youtube.com/watch?v=AHUnqeRroYk&t=0s), and so does [Harrison Webb](https://www.youtube.com/watch?v=6mDJrJFvllo&t=0s).
 
@@ -241,9 +240,9 @@ Which makes it the obvious answer for a group of six or more, and the wrong answ
 
 *The counter at BiBi, facing the grill.*
 
-Chet Sharma's room, and the one on this page that most rewards paying attention. The menu works through regional Indian dishes with fine-dining technique and British produce, and the drinks list was built alongside the food.
+Chet Sharma's room. The menu works through regional Indian dishes with fine-dining technique and British produce, and the drinks list was built alongside the food.
 
-It is small and the seating is scheduled, so allergies, deposits and timings are worth settling when you book.
+It is small and the seating is scheduled, so settle allergies, deposits and timings when you book.
 
 ▶ **In the videos:** [TOPJAW visits from 7:20](https://www.youtube.com/watch?v=AHUnqeRroYk&t=440s).
 
@@ -255,18 +254,18 @@ It is small and the seating is scheduled, so allergies, deposits and timings are
 
 *££ · Covent Garden · 3 min from Covent Garden · Cited by 7 sources · British Indian Good Food Guide 2025*
 
-**The Irani cafés of old Bombay recreated in careful detail** — Parsi-run all-day rooms that were among the few places in the city where anyone could sit regardless of caste or religion. Covent Garden was the first, in 2010.
+**The Irani cafés of old Bombay recreated as an all-day room.** Covent Garden was the first, in 2010.
 
-The **bacon naan roll** made it a breakfast destination as much as a dinner one: smoked streaky bacon, cream cheese and chilli-tomato jam in fresh naan. At dinner the **black daal**, cooked for twenty-four hours, and the **chicken ruby** are the standing orders, with chai poured from a height.
+The **bacon naan roll** — smoked streaky bacon, cream cheese and chilli-tomato jam in fresh naan — is the breakfast order. At dinner, the **black daal**, cooked for twenty-four hours, and the **chicken ruby**.
 
-**££. Any party size can book before 6pm; after 6pm bookings are for groups of six or more only**, and most tables are held for walk-ins either way. Seven London branches.
+**Any party size can book before 6pm; after 6pm bookings are for groups of six or more only.**
 
 ![A crowded table at Dishoom holding lamb chops, chicken tikka, malai chicken, gunpowder potatoes, a prawn curry and a tin of naan on a marble top](../../assets/articles/best-indian-restaurants-london/dishoom.jpg)
 
 *Dishoom's dinner order.*
 
 
-> 💡 **Getting a table:** 6pm is the cut-off, not the party size — any number can book before it, six or more after. Most tables are held for walk-ins at every hour, so an empty booking page is not a full restaurant. Breakfast and lunch barely queue.
+> 💡 **Getting a table:** most tables are held for walk-ins at every hour, so an empty booking page is not a full restaurant. Breakfast and lunch barely queue.
 
 ### Darjeeling Express, Soho
 
@@ -278,17 +277,17 @@ The **bacon naan roll** made it a breakfast destination as much as a dinner one:
 
 **Asma Khan's kitchen, staffed entirely by women** — most of whom had never cooked professionally before she hired them — **cooking the food of Calcutta and the royal Mughlai tradition she grew up in.**
 
-The **Calcutta biryani** is the dish: Mughlai rice with meat and, distinctively, **a whole potato**, which Bengali biryani has and no other regional version does. Around it, Bengali fish, puchka, and the home cooking of a household rather than a restaurant repertoire.
+The **Calcutta biryani** is the dish: rice with meat and **a whole potato**, which Bengali biryani has and other regional versions do not. Around it, Bengali fish, puchka and home cooking.
 
-**£££, closed Sunday, and it books weeks ahead.** 36–40 Rupert Street, Soho. The story is not decoration — the kitchen model is the restaurant.
+**£££, closed Sunday, and it books weeks ahead.** 36–40 Rupert Street, Soho.
 
 ### Kricket, Soho
 
 *££ · Soho · 1 min from Piccadilly Circus · Cited by 5 sources · British Indian Good Food Guide 2025*
 
-**Started in a Brixton shipping container and grew into several sites**, doing Indian cooking as **small plates rather than curries** — which was a new idea in London when it opened.
+**Started in a Brixton shipping container and grew into several sites**, doing Indian cooking as **small plates rather than curries**.
 
-The **Keralan fried chicken** with curry leaf mayonnaise is the signature and has been since the container. Beside it, **bhel puri**, samphire pakoras and a **smoked haddock kedgeree**, ordered four or five at a time across the table.
+The **Keralan fried chicken** with curry leaf mayonnaise is the signature. Beside it, **bhel puri**, samphire pakoras and a **smoked haddock kedgeree**, ordered four or five at a time across the table.
 
 **££, and the counter seats are walk-in.** Soho is the busiest site; Brixton and White City are easier. Book for a table.
 
@@ -304,9 +303,9 @@ The **Keralan fried chicken** with curry leaf mayonnaise is the signature and ha
 
 *A dish at Oudh 1722.*
 
-**Two-Michelin-star chef Aktar Islam cooking the Awadhi food of Lucknow** — biryanis and kebabs — **across three floors of a Victorian townhouse near London Bridge.** The year in the name is the founding of the Oudh court kitchens.
+**Two-Michelin-star chef Aktar Islam cooking the Awadhi food of Lucknow** — biryanis and kebabs — **across three floors of a Victorian townhouse near London Bridge.**
 
-Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and steamed, **galouti kebab** — minced lamb so soft it was made for a toothless nawab — and breads off the tandoor. Almost nowhere else in Britain cooks this specifically.
+Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and steamed, **galouti kebab**, a very soft minced-lamb kebab, and breads off the tandoor.
 
 **££££, closed Monday, and it books weeks ahead.** The ground floor is the bar; the dining rooms are above it.
 
@@ -318,11 +317,11 @@ Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and 
 
 *A table of dishes at Kutir.*
 
-**A Chelsea townhouse done as an Indian hunting lodge**, with a menu built around game and the outdoors — a *kutir* is a cottage or hut, and the room commits to the idea completely.
+**A Chelsea townhouse done as an Indian hunting lodge**, with a menu built around game and the outdoors; a *kutir* is a cottage or hut.
 
-**Game is the distinguishing feature**: venison, partridge and grouse in season, cooked with Indian spicing rather than European. Rohit Ghai holds a Michelin star elsewhere and the technique shows. Tasting menus alongside the à la carte.
+**Game** — venison, partridge and grouse in season — cooked with Indian spicing. Rohit Ghai holds a Michelin star elsewhere. Tasting menus alongside the à la carte.
 
-**£££ and it books ahead.** Lincoln Street, off the King's Road, and one of the quieter fine-dining rooms in this guide.
+**£££ and it books ahead.** Lincoln Street, off the King's Road.
 
 ### The Tamil Prince, Islington
 
@@ -332,11 +331,11 @@ Awadhi cooking is slow and perfumed rather than hot: **dum biryani** sealed and 
 
 *The Tamil Crown's Sunday roast — see the [Sunday roast guide](/articles/best-sunday-roast-london/).*
 
-**A Victorian pub with a Tamil kitchen in it** — the format London does better than anywhere, and this is the room that made it fashionable. Prince Durairaj cooks the food of Tamil Nadu and Sri Lanka in a proper Islington boozer with the carpet and the bar intact.
+**A Victorian pub with a Tamil kitchen in it.** Prince Durairaj cooks the food of Tamil Nadu and Sri Lanka in an Islington pub with the carpet and the bar intact.
 
-The **Chettinad chicken** and the **lamb kari dosa** are the orders, with heat that is not moderated for the pub setting, and breads and sambals alongside. The Sunday roast comes with masala gravy.
+The **Chettinad chicken** and the **lamb kari dosa** are the orders, with heat that is not moderated, and breads and sambals alongside. The Sunday roast comes with masala gravy.
 
-**££, and it books weeks ahead** — it is small and the reputation outran the room years ago. Sibling to The Tamil Crown, also in Islington; two separate pubs, not two names for one.
+**££, and it books weeks ahead** — it is small. Sibling to The Tamil Crown, also in Islington; two separate pubs, not two names for one.
 
 ---
 
@@ -344,7 +343,7 @@ The **Chettinad chicken** and the **lamb kari dosa** are the orders, with heat t
 
 ## By region
 
-The section that justifies the page. Each of these is the only serious representative of its regional tradition in London, or close to it.
+Grouped by what the kitchen cooks.
 
 ### South Indian and Keralan
 
@@ -352,7 +351,7 @@ The section that justifies the page. Each of these is the only serious represent
 
 *£ · Stoke Newington · book days ahead · Cited by 2 sources · British Indian Good Food Guide 2025*
 
-The same coast as Quilon for a fifth of the price. An entirely vegetarian Keralan kitchen behind a shocking pink shopfront on Stoke Newington Church Street, built on coconut, curry leaf and mustard seed rather than cream and tomato — which is what south Indian vegetarian food actually tastes like and what most of London's vegetarian curry does not.
+The same coast as Quilon at under £20 a head. An entirely vegetarian Keralan kitchen behind a pink shopfront on Stoke Newington Church Street, built on coconut, curry leaf and mustard seed rather than cream and tomato.
 
 ![A bowl of aubergine curry in a steel dish](../../assets/articles/best-indian-restaurants-london/rasa.jpg)
 
@@ -366,7 +365,7 @@ The same coast as Quilon for a fifth of the price. An entirely vegetarian Kerala
 
 *A table at Hoppers.*
 
-Sri Lankan and Tamil cooking built around the hopper — a fermented rice-and-coconut pancake cooked in a bowl-shaped pan — with fast service and confident heat. Karan Gokani's kitchen, and the one most likely to change what a reader thinks "Indian food" covers.
+Sri Lankan and Tamil cooking built around the hopper — a fermented rice-and-coconut pancake cooked in a bowl-shaped pan — with fast service and confident heat. Karan Gokani's kitchen.
 
 #### Kokum, East Dulwich
 
@@ -376,7 +375,7 @@ Sri Lankan and Tamil cooking built around the hopper — a fermented rice-and-co
 
 *A table of dishes at Kokum.*
 
-Named for the sour, dark coastal fruit used along India's western shore, and the menu follows it — Goan and Konkani seafood, tamarind and coconut, very little cream. Three independent guides name a neighbourhood restaurant thirteen minutes' walk from a suburban station.
+Named for the sour coastal fruit used along India's western shore, and the menu follows it: Goan and Konkani seafood, tamarind and coconut, very little cream.
 
 **Book:** [Reserve a table](https://order.kokumlondon.com/reservations)
 
@@ -390,7 +389,7 @@ Named for the sour, dark coastal fruit used along India's western shore, and the
 
 *The dining room at Kanishka.*
 
-Atul Kochhar cooking the north-eastern states — Assam, Nagaland, Sikkim — which almost nothing else in London attempts at any price. The flavours run smokier, more fermented and less obviously "curry" than anything else in Mayfair, and that is what you go for.
+Atul Kochhar cooking the north-eastern states — Assam, Nagaland, Sikkim. The flavours run smokier and more fermented than a curry.
 
 **7 minutes from Benares.**
 
@@ -404,7 +403,7 @@ Atul Kochhar cooking the north-eastern states — Assam, Nagaland, Sikkim — wh
 
 *The bar and dining room at Vatavaran.*
 
-Cooking from the Himalayan foothills, a region nothing else in London represents. Named by both the Good Food Guide and Time Out.
+Cooking from the Himalayan foothills. Named by both the Good Food Guide and Time Out.
 
 ### Mughlai, Punjabi and the modern rooms
 
@@ -412,7 +411,7 @@ Cooking from the Himalayan foothills, a region nothing else in London represents
 
 *£££ · Notting Hill · 8 min from Westbourne Park · Cited by 3 sources*
 
-A love letter to the Bombay dining rooms of the 1970s, from the group behind Gymkhana and Trishna — velvet, brass, mirrored panels and a disco-era swagger played entirely straight. The food is north Indian and unfussy; it gets written about for the room.
+Modelled on the Bombay dining rooms of the 1970s, from the group behind Gymkhana and Trishna: velvet, brass and mirrored panels. The food is north Indian and unfussy.
 
 ▶ **In the videos:** [Harrison Webb visits from 18:15](https://www.youtube.com/watch?v=6mDJrJFvllo&t=1095s).
 
@@ -430,13 +429,13 @@ A love letter to the Bombay dining rooms of the 1970s, from the group behind Gym
 
 *The dining room at Colonel Saab, in the old Holborn Town Hall.*
 
-The old Holborn Town Hall, filled with the owner's family collection of Indian antiques — carved doors, brass, textiles, most of it carried over from India rather than sourced to a brief. Took Newcomer of the Year at the Asian Curry Awards.
+The old Holborn Town Hall, filled with the owner's family collection of Indian antiques: carved doors, brass, textiles. Took Newcomer of the Year at the Asian Curry Awards.
 
 #### Tamarind, Mayfair
 
 *££££ · Mayfair · 5 min from Green Park · book weeks ahead · Cited by 2 sources · British Indian Good Food Guide 2025*
 
-One of the first two Indian restaurants anywhere in the world to win a Michelin star — it and Zaika were awarded jointly in 2001. It is still a Mayfair basement doing tandoor cooking, and it has never tried to become anything else: no reinvention, no small plates, no counter.
+One of the first two Indian restaurants anywhere in the world to win a Michelin star — it and Zaika were awarded jointly in 2001. Still a Mayfair basement doing tandoor cooking.
 
 **6 minutes from Benares.**
 
@@ -454,7 +453,7 @@ One of the first two Indian restaurants anywhere in the world to win a Michelin 
 
 *Raan, a slow-roasted leg of lamb, at Babur.*
 
-Thirty years of outcooking most of central London, in south-east London, and in the Good Food Guide as well as the BIGFG top 100.
+A south-east London restaurant open for thirty years, in the Good Food Guide as well as the British Indian Good Food Guide top 100.
 
 #### Jikoni, Marylebone
 
@@ -464,7 +463,7 @@ Thirty years of outcooking most of central London, in south-east London, and in 
 
 *Jikoni on Blandford Street.*
 
-Ravinder Bhogal cooks across her Kenyan, Indian and British background without picking one of them, which is why Jikoni is hard to file and easy to love. This is food built on borrowing rather than on authenticity.
+Ravinder Bhogal cooks across her Kenyan, Indian and British background without picking one.
 
 **1 minute from Trishna.**
 
@@ -474,12 +473,12 @@ Ravinder Bhogal cooks across her Kenyan, Indian and British background without p
 
 ## Cheap and quick
 
-Everything here comes in under £20 a head and none of it takes a booking.
+Everything here comes in under £20 a head, and apart from Rasa none of it takes a booking.
 
-- **Shree Krishna Vada Pav**, Fitzrovia — vada pav, a spiced potato fritter in a soft bun with chutneys, from a counter rather than a dining room. Three independent guides name a place where nothing costs more than a sandwich. *Cited by 3 sources*
-- **[Rasa](#rasa-stoke-newington)**, Stoke Newington — Keralan vegetarian, cheaper than almost anything in this guide and better than most of it. *Cited by 2 sources*
+- **Shree Krishna Vada Pav**, Fitzrovia — vada pav, a spiced potato fritter in a soft bun with chutneys, from a counter. *Cited by 3 sources*
+- **[Rasa](#rasa-stoke-newington)**, Stoke Newington — Keralan vegetarian. *Cited by 2 sources*
 - **Horn OK Please**, Borough Market — an all-vegetarian stall whose samosa chaat is built in front of you: the samosas crushed under hot chickpea curry, then yoghurt, then tamarind. Eat it standing up; it does not survive being carried.
-- **Gujarati Rasoi**, Borough Market — mother-and-son Gujarati cooking a few steps away and a completely different tradition: thalis, bhajia and dhal, gently sweet where the other stall is sharp.
+- **Gujarati Rasoi**, Borough Market — mother-and-son Gujarati cooking a few steps away: thalis, bhajia and dhal, gently sweet where Horn OK Please is sharp.
 - **Kolkati**, Seven Dials Market — kati rolls the Kolkata way: paratha cooked with egg through it, wrapped around spiced chicken or paneer with pickled onion and lime.
 
 ![Large karahi pans of spiced vegetable curries and simmering dhal at Gujarati Rasoi in Borough Market](../../assets/articles/best-indian-restaurants-london/gujarati-rasoi.jpg)
@@ -494,9 +493,9 @@ A 1970s Tooting curry house and a Mayfair tasting menu both get called "the best
 
 **Dining rooms** are everything in the two sections above: booked weeks out, £50 and up, tasting menus and sommeliers. **Curry houses** are the neighbourhood institutions — often decades old, family-run, walk-in, and where most Londoners actually eat.
 
-> 🌶️ **A note on what "Indian" means here.** London's best-known curry streets are largely *not* Indian. Brick Lane's kitchens are Bangladeshi; Whitechapel's are Pakistani; Tooting runs to Peshawari and Punjabi Lahori grilling. Those are their own traditions, not sub-types of Indian cooking, and this guide keeps them separate rather than filing them under one word the way most London guides do.
+> 🌶️ **A note on what "Indian" means here.** London's best-known curry streets are largely *not* Indian. Brick Lane's kitchens are Bangladeshi; Whitechapel's are Pakistani; Tooting runs to Peshawari and Punjabi Lahori grilling. Those are their own traditions, not sub-types of Indian cooking, and this guide keeps them separate.
 >
-> That is a labelling decision, not a quality one — Tayyabs in Whitechapel is among the best-value serious meals in the city. You will find those kitchens in the **[Pakistani restaurants guide](/restaurants/cuisine/pakistani)** instead.
+> That is a labelling decision, not a quality one. You will find those kitchens in the **[Pakistani restaurants guide](/restaurants/cuisine/pakistani)** instead.
 
 ---
 
@@ -504,28 +503,28 @@ A 1970s Tooting curry house and a Mayfair tasting menu both get called "the best
 
 ## Also named, briefly
 
-Restaurants the sources back that did not earn a full entry, either because only one or two guides name them or because they sit further out.
+Named by the sources but not written up above.
 
 | Restaurant | Area | Price | Cited by | What it is |
 | --- | --- | --- | --- | --- |
-| **Gunpowder** | Spitalfields | ££ | 3 sources | Sharing plates, confidently seasoned and clearly defined |
+| **Gunpowder** | Spitalfields | ££ | 3 sources | Sharing plates |
 | **The Tamil Crown** | Islington | ££ | 2 sources | A Tamil kitchen inside a Victorian pub. Sibling to The Tamil Prince |
 | **Tamila** | Clapham | ££ | 2 sources | Tamil home cooking, picked up by both the Good Food Guide and Time Out |
 | **Bombay Bustle** | Mayfair | £££ | 2 sources | Bombay tiffin-culture cooking from the Jamavar group |
 | **Pahli Hill** | Fitzrovia | £££ | 2 sources | Bombay small plates, with a basement bar that runs later than the dining room |
 | **Kahani** | Chelsea | £££ | 2 sources | Peter Joseph's kitchen, in the BIGFG top 100 |
-| **Heritage** | Dulwich | £££ | 2 sources | Modern compositions backed by discipline and technique |
+| **Heritage** | Dulwich | £££ | 2 sources | Modern Indian |
 | **Shiuli** | Twickenham | £££ | 2 sources | Contemporary Indian from a two-Michelin-star chef, well outside the centre |
-| **Masala Zone** | Piccadilly | ££ | 2 sources | Thalis and street-food plates well below Mayfair prices, from the Amaya group |
+| **Masala Zone** | Piccadilly | ££ | 2 sources | Thalis and street-food plates, from the Amaya group |
 | **Fatt Pundit** | Covent Garden | ££ | 2 sources | Kolkata's Indian-Chinese Hakka cooking; the rest of London's Indo-Chinese kitchens are in our [fusion guide](/articles/best-fusion-restaurants-london/) |
 | **Thecha** | — | ££ | 2 sources | Maharashtrian cooking named for the chilli-and-garlic relish |
-| **Udaya Kerala** | East Ham | ££ | 2 sources | Appam, coastal fish and coconut, out where the Keralan community actually eats |
-| **Hyderabadi Spice** | East Ham | ££ | 2 sources | Hyderabadi biryani treated as its own tradition rather than as a side dish |
-| **Madhu's** | Southall | ££ | 2 sources | Kenyan-Punjabi cooking, and Southall's most consistently named kitchen |
-| **Shankeys** | Homerton | ££ | 2 sources | Named by both The Infatuation and Time Out, a narrow overlap to land in |
-| **Asher's Africana** | Wembley | ££ | 2 sources | East African Indian cooking, a tradition with almost no other London representative |
+| **Udaya Kerala** | East Ham | ££ | 2 sources | Appam, coastal fish and coconut |
+| **Hyderabadi Spice** | East Ham | ££ | 2 sources | Hyderabadi biryani |
+| **Madhu's** | Southall | ££ | 2 sources | Kenyan-Punjabi cooking |
+| **Shankeys** | Homerton | ££ | 2 sources | Named by both The Infatuation and Time Out |
+| **Asher's Africana** | Wembley | ££ | 2 sources | East African Indian cooking |
 
-[See all 50 Indian restaurants →](/restaurants/cuisine/indian) · [See all 6 Pakistani restaurants →](/restaurants/cuisine/pakistani)
+[See all Indian restaurants →](/restaurants/cuisine/indian) · [See all Pakistani restaurants →](/restaurants/cuisine/pakistani)
 
 ---
 
