@@ -5,8 +5,8 @@ description: "Why London Stadium has almost no parking of its own, which of Stra
 heroImage: "../../assets/articles/london-stadium-travel-guide/london-stadium-bowl.jpg"
 heroImageAlt: "Inside London Stadium during the Novuna London Athletics Meet, a packed crowd under the distinctive roof and \"LONDON STADIUM\" branding on the pitch-side screens"
 publishedAt: 2026-06-06
-updatedAt: 2026-10-03
-reviewBy: 2026-10-15
+updatedAt: 2026-10-25
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -28,7 +28,7 @@ faq:
   - q: "What is the bag policy at London Stadium?"
     a: "No bag bigger than A4. The stadium runs a 100% search policy on the way in, and there are no left luggage facilities on site at all, so plan not to be carrying one rather than hoping to check it somewhere."
   - q: "Is London Stadium only used for West Ham matches?"
-    a: "No — that's the point of it. It hosts an annual one-day athletics meet each summer (the Novuna London Athletics Meet ran on 18 July 2026), and stadium tours run on non-event days. As of September 2026 no concerts are on sale for the rest of the year, but Fontaines D.C. are booked in for 2027, so treat it as a multi-purpose venue, not a football ground that occasionally does something else."
+    a: "No — that's the point of it. It hosts an annual one-day athletics meet each summer (the Novuna London Athletics Meet ran on 18 July 2026 and returns on 17 July 2027), and stadium tours run on non-event days. Fontaines D.C. play on 9 July 2027, so treat it as a multi-purpose venue, not a football ground that occasionally does something else."
   - q: "Is there step-free access to London Stadium?"
     a: "Yes, extensively. There are 261 wheelchair-accessible viewing spaces across the four stands, step-free routes and lifts at all the approach stations, an accessible shuttle bus between Stratford, Stratford International and the stadium for registered users, and 41 Disabled Supporter Assistants plus 27 Supporter Liaison Officers on duty on a matchday. West Ham's accessibility team is on 0333 030 0174."
   - q: "Can you drink alcohol at London Stadium?"
@@ -241,4 +241,4 @@ London Stadium is, on the evidence of its own published access statement, thorou
 
 ---
 
-*Figures come from London Stadium's and West Ham United's own sites, West Ham's official 2026/27 Access Statement, Newham Council and Transport for London, checked the week of 13 September 2026. Where two official sources gave different numbers — the walk from Stratford station, chief among them — we've said so instead of picking one. Parking and event details are set match by match, so check the operators' own sites for your date.*
+*Where two official sources give different numbers — the walk from Stratford station, chief among them — we've said so instead of picking one. Parking and event details are set match by match, so check the operators' own sites for your date.*

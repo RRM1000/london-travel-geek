@@ -1,7 +1,7 @@
 ---
-title: "NFL London Games 2026: Every Fixture, What Tickets Cost and What a Game Day Is Like"
-seoTitle: "NFL London Games 2026: Fixtures, Tickets, Prices"
-description: "Three games on three Sundays in October 2026, at Tottenham and Wembley. The fixtures, what tickets cost, how the two ticket systems work, and what to expect on the day."
+title: "NFL London Games 2026: The Fixtures, What Tickets Cost and What a Game Day Is Like"
+seoTitle: "NFL London Games 2026: Tickets, Prices, Game Day"
+description: "The three NFL London Games of October 2026, on three Sundays at Tottenham and Wembley: the fixtures, what tickets cost, how the two ticket systems worked, and what a game day is like."
 heroImage: "../../assets/articles/nfl-london-games/tottenham-nfl-opening-ceremony.jpg"
 heroImageAlt: "A giant American flag unfurled across the pitch at Tottenham Hotspur Stadium during an NFL London Game opening ceremony"
 heroImageCredit: "Staff Sgt. Eugene Oliver / U.S. Air Force"
@@ -9,19 +9,20 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Pathfinders_participate
 heroImageLicense: "Public Domain"
 heroImageLicenseUrl: https://commons.wikimedia.org/wiki/Public_domain
 publishedAt: 2026-07-24
-reviewBy: 2026-10-19
+updatedAt: 2026-10-25
+reviewBy: 2027-03-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
 tags: [NFL, NFL London Games, American football, Tottenham Hotspur Stadium, Wembley Stadium, tickets, sport, October]
 draft: false
 faq:
-  - q: "When are the NFL London Games in 2026?"
+  - q: "When were the NFL London Games in 2026?"
     a: "Three Sundays, all kicking off at 2.30pm BST: Indianapolis Colts v Washington Commanders at Tottenham Hotspur Stadium on 4 October, Philadelphia Eagles v Jacksonville Jaguars at Tottenham on 11 October, and Houston Texans v Jacksonville Jaguars at Wembley Stadium on 18 October."
-  - q: "How much are NFL London Games tickets in 2026?"
+  - q: "How much were NFL London Games tickets in 2026?"
     a: "At Tottenham, £79.13 to £245.65 for Colts v Commanders and £79.13 to £280.65 for Eagles v Jaguars, fees included. At Wembley, £70 to £297, with under-16 tickets at £51."
   - q: "How do you buy tickets for the NFL London Games?"
-    a: "The two Tottenham games are sold by the NFL and need an NFL Ticketmaster account, with a limit of six tickets per account per game. The Wembley game is sold by the Jacksonville Jaguars on their own site. An account for one does not work for the other."
+    a: "In 2026 the two Tottenham games were sold by the NFL and needed an NFL Ticketmaster account, with a limit of six tickets per account per game. The Wembley game was sold by the Jacksonville Jaguars on their own site. An account for one did not work for the other."
   - q: "Is there tailgating at the NFL London Games?"
     a: "No. Instead there is the free NFL Gameday Experience in the streets around Tottenham from 10am to 2pm, with a quarterback challenge, DJs, cheerleaders, the official NFL shop and food stalls. Gates open at 12.30pm."
   - q: "Can you drink beer in your seat at an NFL game in London?"
@@ -33,28 +34,26 @@ faq:
   - q: "What time does an NFL game in London finish?"
     a: "In the early evening. The clock stops often, so a 2.30pm kick-off runs well past the time a 3pm football match would end. It is a Sunday, so there is no Night Tube."
   - q: "Where can you watch the NFL London game without a ticket?"
-    a: "All three games are live free-to-air on 5, and on Sky Sports and NFL Game Pass on DAZN. The six Sport London pubs show all three and take table bookings; book, because the 11 and 18 October games clash with Premier League matches."
+    a: "The 2026 games were live free-to-air on 5, and on Sky Sports and NFL Game Pass on DAZN. The six Sport London pubs show the NFL London games and take table bookings; book, because a pub that has not promised a screen to the NFL will show the football."
   - q: "Do Americans need anything to visit London for an NFL game?"
     a: "A UK ETA (£20), approved before you fly; allow up to three working days. Both stadiums are cashless, and every person needs their own digital ticket on their own phone."
 ---
 
-The NFL plays three games in London in October 2026, all on Sundays at **2.30pm BST**: two at Tottenham Hotspur Stadium, one at Wembley. The Tottenham games and the Wembley game are sold through different systems and different accounts.
+The NFL played three games in London in October 2026, all on Sundays at **2.30pm BST**: two at Tottenham Hotspur Stadium, one at Wembley. The Tottenham games and the Wembley game were sold through different systems and different accounts, and the NFL announces the following season's London fixtures on [nfl.com](https://www.nfl.com/international/games/london).
 
-> 💡 **The Short Version:** **Colts v Commanders, Sunday 4 October** and **Eagles v Jaguars, Sunday 11 October**, both at **Tottenham**; **Texans v Jaguars, Sunday 18 October**, at **Wembley**. All **2.30pm**. Tottenham tickets are sold by the NFL (an **NFL Ticketmaster account**, six per account per game, **£79.13 to £280.65** with fees included); **Eagles v Jaguars has sold out**. Wembley tickets are sold by the **Jaguars**, **£70 to £297**, **under-16s £51**. **Gates open at 12.30pm**. You **can drink in your seat** (18+, photo ID, four drinks per purchase). Both stadiums are **cashless**, and bags must be **clear and no bigger than 30.5 x 15.25 x 30.5cm**, with nowhere to leave one that fails. No ticket? All three are **free to air on 5**.
+> 💡 **The Short Version:** **Colts v Commanders, Sunday 4 October** and **Eagles v Jaguars, Sunday 11 October** were at **Tottenham**; **Texans v Jaguars, Sunday 18 October**, was at **Wembley**. All **2.30pm**. Tottenham tickets were sold by the NFL (an **NFL Ticketmaster account**, six per account per game, **£79.13 to £280.65** with fees included). Wembley tickets were sold by the **Jaguars**, **£70 to £297**, **under-16s £51**. **Gates opened at 12.30pm**. You **could drink in your seat** (18+, photo ID, four drinks per purchase). Both stadiums are **cashless**, and bags must be **clear and no bigger than 30.5 x 15.25 x 30.5cm**, with nowhere to leave one that fails.
 
 ---
 
 > 🧭 **Plan the rest of it:** [Getting to Tottenham Hotspur Stadium](/articles/tottenham-hotspur-stadium-travel-guide/) · [Getting to Wembley](/articles/wembley-stadium-arena-guide/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/) · [The UK ETA](/articles/uk-eta-guide/)
 
-## The three fixtures
+## The three 2026 fixtures
 
 | Date | Kick-off | Stadium | Game and who sells the tickets |
 | --- | --- | --- | --- |
 | **Sun 4 October** | 2.30pm | **Tottenham Hotspur Stadium** | **Indianapolis Colts v Washington Commanders**, sold by the NFL |
 | **Sun 11 October** | 2.30pm | **Tottenham Hotspur Stadium** | **Philadelphia Eagles v Jacksonville Jaguars**, sold by the NFL |
 | **Sun 18 October** | 2.30pm | **Wembley Stadium** | **Houston Texans v Jacksonville Jaguars**, sold by the Jaguars |
-
-*From the [NFL](https://www.nfl.com/international/games/london/faqs), [Tottenham Hotspur Stadium](https://www.tottenhamhotspurstadium.com/events/1069172/nfl-2026) and [Wembley Stadium](https://www.wembleystadium.com/events/2026/Jacksonville-Jaguars), 21 September 2026.*
 
 Getting there, road closures and parking are in our [Tottenham Hotspur Stadium guide](/articles/tottenham-hotspur-stadium-travel-guide/) and [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
@@ -82,14 +81,12 @@ You need an **NFL Ticketmaster account**: set it up at [nfl.com/international/ti
 | **Category 4 child** | **£101.48** | **£106.93** |
 | **Category 9 child** | **£39.89** | **£39.89** |
 
-*Prices [published by the NFL](https://www.nfl.com/news/2026-nfl-london-games-tickets-sales-windows), 21 September 2026.*
+*Prices [published by the NFL](https://www.nfl.com/news/2026-nfl-london-games-tickets-sales-windows).*
 
 - **Child tickets are only in categories 4 and 9.**
 - **Six tickets per account per game.** The NFL cancels orders from bots or duplicate accounts.
 - **Accessible seats aren't sold online.** Apply through the NFL's enquiry form; it replies within five working days.
 - **Tickets are digital only**, emailed to the lead booker at least 72 hours before kick-off. Each person needs their own ticket in Apple Wallet or Google Pay on their own phone.
-
-> ⚠️ **Eagles v Jaguars has sold out.** On 21 September 2026 the official site had nothing left for 11 October, including accessible seats. **Colts v Commanders on 4 October is still on sale.**
 
 ### The Wembley game: sold by the Jaguars
 
@@ -115,7 +112,7 @@ On sale on the [Jaguars' own site](https://jaguars.co.uk/wembley2026/).
 | Level 5: Category 9 | £70 |
 | **Under-16s** | **£51** |
 
-*The Jaguars' prices, 21 September 2026.*
+*The Jaguars' 2026 prices.*
 
 - **Under-16 tickets are only in categories 5, 9 and 10**, bought with an adult ticket in the same category, and at most three per adult.
 - **No under-2s at all.** Tottenham lets an under-2 in free; Wembley doesn't.
@@ -139,7 +136,7 @@ Resell it at face value through the official channel: the **NFL Ticket Exchange*
 | **14.30** | **Kick-off** |
 | **early evening** | Final whistle |
 
-*From the [NFL's gameday guide](https://www.nfl.com/news/2026-nfl-london-games-gameday-guide), 21 September 2026. Wembley has not published its entry times for 18 October.*
+*From the [NFL's gameday guide](https://www.nfl.com/news/2026-nfl-london-games-gameday-guide).*
 
 **There's no tailgating.** Instead, the Gameday Experience runs from 10am to 2pm, with the McCoy's Quarterback Challenge, DJs, cheerleaders, mascots, the official NFL shop and food and drink stalls.
 
@@ -170,9 +167,9 @@ For step-free routes, see our [step-free London guide](/articles/step-free-londo
 
 ## If you can't get a ticket
 
-**All three games are live free-to-air on 5**, as well as on Sky Sports and NFL Game Pass on DAZN.
+**The 2026 games were live free-to-air on 5**, as well as on Sky Sports and NFL Game Pass on DAZN.
 
-**Sport London** shows all three games at its six pubs and takes table bookings:
+**Sport London** shows the NFL London games at its six pubs and takes table bookings:
 
 | Pub | Where |
 | --- | --- |
@@ -185,18 +182,11 @@ For step-free routes, see our [step-free London guide](/articles/step-free-londo
 
 The Jaguars hold their own UK watch parties at the Greenwood, listed on [jaguars.co.uk](https://jaguars.co.uk/).
 
-> ⚠️ **Book a table.** On **11 and 18 October** the game overlaps [Premier League matches](/articles/premier-league-tickets-london/) at 2pm, and a pub that hasn't promised a screen to the NFL will show the football. [Sport London's NFL schedule](https://www.sportlondon.com/american-football/nfl) lists each game.
+> ⚠️ **Book a table.** The 2.30pm kick-off overlaps [Premier League matches](/articles/premier-league-tickets-london/), and a pub that hasn't promised a screen to the NFL will show the football. [Sport London's NFL schedule](https://www.sportlondon.com/american-football/nfl) lists each game.
 
 ---
 
-## What else is on those weekends
-
-- **BFI London Film Festival, 7 to 18 October**: see our [London Film Festival guide](/articles/london-film-festival/).
-- **Frieze Week, 14 to 18 October**: five art fairs, and higher hotel prices in central London.
-- **England v Czechia at Wembley, Tuesday 6 October.**
-- **Jaguars practice session, Friday 16 October**: a free draw for two passes, open to UK and Ireland residents aged 18 or over. [Entries close on 25 September](https://jaguars.co.uk/join-the-practice-session-draw/).
-
-More in our [things to do in London in October guide](/articles/things-to-do-in-london-in-october/).
+## Where to stay
 
 Stay in central London rather than near either ground: Wembley room prices roughly treble on a big night (see our [Wembley guide](/articles/wembley-stadium-arena-guide/)). Our [best areas to stay in London](/articles/best-areas-to-stay-in-london/) guide covers the Victoria and Jubilee line areas that reach both stadiums.
 
@@ -208,4 +198,4 @@ Stay in central London rather than near either ground: Wembley room prices rough
 - **Bring a contactless card or phone wallet.** The stadiums are cashless and so is London transport; [how Oyster and contactless work](/articles/oyster-card-guide-london/).
 - **Charge your phone.** Your ticket is on it, and there's no paper backup.
 
-*Prices, sale dates, bag rules and timings from the NFL, the Jaguars and both stadiums, 21 September 2026. Check the official page for your game before you book travel.*
+*Prices, bag rules and timings are from the NFL, the Jaguars and both stadiums for the 2026 games. Check the official page for your game before you book travel.*

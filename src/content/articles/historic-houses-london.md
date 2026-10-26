@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Kenwood-House-JBU_03.j
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-09-12
-updatedAt: 2026-09-25
-reviewBy: 2026-10-15
+updatedAt: 2026-10-25
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -141,7 +141,7 @@ The Courtaulds' half gives you a **circular entrance hall** lit from above and p
 
 Nineteen acres of garden outside, with a rock garden, a sunken rose garden and **London's oldest working bridge** over the moat.
 
-**Book online by midnight the day before to pay £17 rather than £20 on the door.** The calendar limits it: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of order**, checked September 2026 — ask staff about the alternative.
+**Book online by midnight the day before to pay £17 rather than £20 on the door.** The calendar limits it: it runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of service** and the upper floors are reached by stairs only; a virtual tour of them is on the multimedia guide.
 
 ### Kensington Palace
 
@@ -163,13 +163,13 @@ Queen Victoria's birthplace and childhood home, and the palace where **the rooms
 
 ### Buckingham Palace State Rooms
 
-*£33 advance · summer only · closed Tue and Wed in September*
+*£33 advance in 2026 · summer only*
 
-The nineteen State Rooms the King uses for official entertaining, open **only while the court is away** — in 2026 that was 9 July to 27 September. Grand Staircase, Throne Room, Picture Gallery, Ballroom.
+The nineteen State Rooms the King uses for official entertaining, open **only while the court is away** — in 2026 that was 9 July to 27 September, and tickets for summer 2027 are released in November. Grand Staircase, Throne Room, Picture Gallery, Ballroom.
 
-**The date trap is September.** The palace is **closed on Tuesdays and Wednesdays throughout September**, and the last admission drops from 5.30pm to 4.30pm on 1 September. Slots are timed in 15-minute intervals and dates sell out.
+**The date trap is September.** In 2026 the palace was **closed on Tuesdays and Wednesdays throughout September**, and the last admission dropped from 5.30pm to 4.30pm on 1 September. Slots are timed in 15-minute intervals and dates sell out.
 
-**£33 booked ahead against £37 on the door**, and **£1 tickets** exist for anyone on Universal Credit and similar benefits. Whatever you pay, **convert the ticket to a 1-Year Pass at the desk** — it is free and gets you back in for a year. To add the Changing of the Guard, City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=historic-houses-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> watches the ceremony with a guide and then goes in with the official audio guide, from £72 on GetYourGuide, 4.4 from 2,979 reviews; on Tuesday, Thursday and Saturday the ceremony half becomes a walk round Westminster.
+**In 2026 it was £33 booked ahead against £37 on the door**, and **£1 tickets** exist for anyone on Universal Credit and similar benefits. Whatever you pay, **convert the ticket to a 1-Year Pass at the desk** — it is free and gets you back in for a year. To add the Changing of the Guard, City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=historic-houses-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> watches the ceremony with a guide and then goes in with the official audio guide, from £72 on GetYourGuide, 4.4 from 2,979 reviews; on Tuesday, Thursday and Saturday the ceremony half becomes a walk round Westminster.
 
 **The garden is partly included**: the route leaves through it along a half-kilometre gravel path, and **the only toilets are at that end**, so go before you start. A proper guided garden walk is a separate, dearer ticket.
 
@@ -311,7 +311,7 @@ Christopher Wren's hospital of 1692, **still home to the Chelsea Pensioners** in
 
 ### Westminster Abbey
 
-*£31 · free at services · no sightseeing on Sunday*
+*£32 · free at services · no sightseeing on Sunday*
 
 Every English monarch since 1066 has been crowned here, and more than three thousand people are buried or commemorated in it.
 
@@ -335,7 +335,7 @@ Every English monarch since 1066 has been crowned here, and more than three thou
 
 Historic houses are the one category where London does not give everything away — but several of the best are still free, and most of the ticketed ones have a way in that is cheaper than the headline price.
 
-> ⚠️ **Prices moved on 2 September 2026.** A temporary government VAT cut held admission down between 25 June and 1 September; the figures on this page are the **standard rates that apply now**, not the summer ones. Westminster Abbey went back to £31 and St Paul's to £27 on that date. Check before you travel, as always.
+> ⚠️ **The prices on this page are the standard rates.** A temporary government VAT cut held admission down between 25 June and 1 September 2026; Westminster Abbey is now £32 and St Paul's £27. Check before you travel, as always.
 
 **Three ways in that are barely advertised:**
 
