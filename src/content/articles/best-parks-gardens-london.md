@@ -5,7 +5,8 @@ description: "A Wren church left as a shell and filled with vines, dinosaurs bui
 heroImage: "../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg"
 heroImageAlt: "Greenwich Park in spring, the grass slope running down past the Old Royal Naval College to Canary Wharf beyond"
 publishedAt: 2026-09-11
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2026-11-10
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -13,25 +14,20 @@ tags: [parks, gardens, free things to do, things to do, outdoors]
 draft: false
 faq:
   - q: "What is the best park in London?"
-    a: "Depends what you want. Richmond Park is the largest and has free-roaming deer. Hampstead Heath has the swimming ponds and the Parliament Hill view. Regent's Park has the best formal gardens. All three are free."
+    a: "Depends what you want. Richmond Park is the largest and has free-roaming deer. Hampstead Heath has the swimming ponds and the Parliament Hill view. Regent's Park has the formal gardens, including London's largest rose collection. All three are free."
   - q: "Which London gardens are free?"
     a: "All eight Royal Parks, Postman's Park, St Dunstan in the East, the Crystal Palace Dinosaurs and most local parks. The Barbican Conservatory is free but needs a timed ticket booked on the day. Kew Gardens and Chelsea Physic Garden charge."
   - q: "Where can I swim outdoors in London?"
-    a: "Hampstead Heath has three swimming ponds — men's, women's and mixed — open year-round. London Fields Lido and Brockwell Lido are heated 50-metre outdoor pools. The Serpentine in Hyde Park has a lido too."
+    a: "Hampstead Heath has three bathing ponds — men's, women's and mixed — and a lido. The men's and women's ponds stay open through winter and the mixed pond closes for it; an adult pays £5. London Fields Lido and Brockwell Lido are heated 50-metre outdoor pools. The Serpentine in Hyde Park has a lido too."
   - q: "What are the Crystal Palace Dinosaurs?"
-    a: "The first dinosaur sculptures ever made anywhere, built in 1854 before anyone knew what dinosaurs looked like. They are gloriously, confidently wrong and Grade I listed. Free."
+    a: "The first dinosaur sculptures ever made anywhere, built in 1854 before anyone knew what dinosaurs looked like. They are Grade I listed and free to see."
   - q: "Which London park is best with children?"
     a: "Battersea Park has a boating lake, a children's zoo and the Peace Pagoda on the river. Regent's Park has the Open Air Theatre and London Zoo. Both are free to enter."
 ---
 
-London is nearly half green space, and the best of it is not the famous parks. It is a bombed Wren church filled with climbing plants, a tropical conservatory hidden inside a brutalist fly tower, and a set of dinosaur sculptures built in 1854 by people who had never seen a complete skeleton.
+London is nearly half green space. Beyond the famous parks are a bombed Wren church filled with climbing plants, a tropical conservatory inside a brutalist fly tower and a set of dinosaur sculptures from 1854. Almost all of it is free.
 
-Almost all of it is free.
-
-> 💡 **The Short Version:** **Richmond Park** for the deer and the scale. **Hampstead Heath** for swimming and the Parliament Hill view. **St Dunstan in the East** is the most atmospheric free thing in the City. **The Barbican Conservatory** is 1,500 plant species under glass, free, and open on selected dates only. And **the Crystal Palace Dinosaurs** are magnificently, confidently wrong.
-
-> 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Admission is the parks' own and checked August 2026 — the Royal Parks and all council parks are free and always have been. Opening hours are seasonal for most gardens.
+> 💡 **The Short Version:** **Richmond Park** for the deer and the scale. **Hampstead Heath** for swimming and the Parliament Hill view. **St Dunstan in the East** for a ruined Wren church turned garden, free. **The Barbican Conservatory** for 1,500 plant species under glass, free, on selected dates only. And **the Crystal Palace Dinosaurs**, sculpted in 1854.
 
 ## Where they are
 
@@ -53,23 +49,23 @@ Almost all of it is free.
 
 *Free · 2,500 acres · free-roaming deer*
 
-The largest of the Royal Parks and the only one with **free-roaming red and fallow deer** - around 600 of them. It has been a deer park since Charles I enclosed it in 1637, and the herds have never been fenced off from the public.
+The largest of the Royal Parks, with around 600 **free-roaming red and fallow deer**.
 
-The Isabella Plantation inside it is spectacular in May when the azaleas go, and it is a woodland garden rather than a formal one, so it stays interesting outside that fortnight.
+The Isabella Plantation, a woodland garden inside the park, peaks with the azaleas in late April and May.
 
-**It is big enough to need a plan.** Two and a half thousand acres is larger than several London boroughs; pick a gate near what you want - Pembroke Lodge for the protected view to St Paul's, Isabella for the planting - rather than arriving and walking.
+**It is big enough to need a plan.** Pick a gate near what you want: Pembroke Lodge for the protected view to St Paul's, Isabella for the planting.
 
-> ⚠️ **Keep 50 metres from the deer**, especially in the September–November rut and the May–July birthing season. People are injured here every year.
+> ⚠️ **Keep 50 metres from the deer**, especially in the September–November rut and the May–July birthing season.
 
 ### Hampstead Heath
 
-*Free · swimming ponds*
+*Free · swimming ponds £5*
 
-Eight hundred acres of wild-feeling ground, with **three swimming ponds open year-round** - men's, women's and mixed - and the protected Parliament Hill view south over the City.
+Eight hundred acres of wild-feeling ground, with **three bathing ponds** (men's, women's and mixed), a lido and the protected Parliament Hill view south over the City.
 
-The Heath is deliberately unmanicured: it was saved from development by campaign in the 1870s and has been kept semi-wild since, which is why it feels like countryside rather than a park. **Kenwood House** at the north end is free and holds a Rembrandt and a Vermeer.
+**Kenwood House** at the north end is free and holds a Rembrandt and a Vermeer.
 
-The ponds charge a small fee and are open all year, including winter, when the water sits a few degrees above freezing. The Parliament Hill view is one of London's protected sightlines, so nothing can legally be built into it.
+The ponds cost £5 for an adult (£3 concessions), cashless. The men's and women's ponds stay open through winter; the mixed pond closes for it.
 
 ![Dense woodland and shrubbery near the Hill Garden and Pergola on Hampstead Heath](../../assets/articles/best-parks-gardens-london/hampstead-heath-woodland.jpg)
 
@@ -79,13 +75,13 @@ The ponds charge a small fee and are open all year, including winter, when the w
 
 *Free*
 
-The best formal gardens in London, plus the Open Air Theatre, London Zoo and Primrose Hill at the north end for the skyline.
+Formal gardens, the Open Air Theatre, London Zoo and, at the north end, Primrose Hill for the skyline.
 
-**Queen Mary's Gardens** holds London's largest rose collection, in 85 beds, and peaks in early June, which is the best week to come. The park was laid out by John Nash in the 1810s as the setting for the terraces that still ring it.
+**Queen Mary's Gardens** holds London's largest rose collection, in 85 beds, and peaks in early June.
 
 For a walk through it, our [Regent's Park and Marylebone walking route](/articles/regents-park-marylebone-walk/) crosses from Baker Street past the rose garden and the Nash terraces to Bond Street.
 
-Primrose Hill is technically separate and just to the north, and its view south over the city is another of the protected ones. It is a five-minute walk from the top of the park.
+**Primrose Hill**, just north of the park and five minutes' walk from the top of it, has a protected view south over the city. **It is locked from 10pm to 6am every night from 30 October to 9 November 2026.**
 
 ![A flowerbed of white and near-black tulips in Regent's Park, with people walking behind](../../assets/articles/best-parks-gardens-london/regents-park-tulips.jpg)
 
@@ -97,11 +93,9 @@ Primrose Hill is technically separate and just to the north, and its view south 
 
 *Free · 200 acres*
 
-A boating lake, a children's zoo, a **Japanese Peace Pagoda** on the Thames path, and a bandstand. The most family-usable of the big parks.
+A boating lake, a children's zoo, a **Japanese Peace Pagoda** on the Thames path and a bandstand.
 
-Much of the layout dates from the **Festival of Britain in 1951**, when the Festival Gardens were laid out here, and the Peace Pagoda was a gift from the Nipponzan-Myohoji Buddhist order in 1985.
-
-The park itself is free. **The children's zoo is ticketed**, which families most often get caught by when they price a day here.
+The park is free, but **the children's zoo is ticketed**.
 
 ---
 
@@ -109,9 +103,9 @@ The park itself is free. **The children's zoo is ticketed**, which families most
 
 *Free · London's oldest enclosed royal park*
 
-**183 acres and the oldest enclosed royal park in London**, rising steeply from the Old Royal Naval College to the Observatory on the hill — which gives it the best composed view in the city and, in The Wilderness, a wild deer herd.
+**183 acres and the oldest enclosed royal park in London**, rising steeply from the Old Royal Naval College to the Observatory on the hill, with a deer herd in The Wilderness.
 
-The view from the General Wolfe statue is free and sits outside the Royal Observatory, which is closed from 2 November 2026.
+The view from the General Wolfe statue is free and sits outside the Royal Observatory, which closes for refurbishment on 2 November 2026.
 
 ![Greenwich Park in spring, looking down the grass slope over the Old Royal Naval College to Canary Wharf and the O2 under a clear blue sky](../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg)
 
@@ -121,7 +115,7 @@ The view from the General Wolfe statue is free and sits outside the Royal Observ
 
 *Free · beside Hyde Park*
 
-Quieter and more formal than Hyde Park next door, and easy to treat as the same place when it is not. The **Italian Gardens** at the Lancaster Gate end, the Serpentine Galleries, the Albert Memorial, and Kensington Palace at the western edge.
+Quieter and more formal than Hyde Park next door. The **Italian Gardens** are at the Lancaster Gate end, with the Serpentine Galleries, the Albert Memorial and, at the western edge, Kensington Palace.
 
 ![The still, fountain-fed pool of the Italian Gardens in Kensington Gardens, reflecting clouds](../../assets/articles/best-parks-gardens-london/kensington-gardens-italian-gardens.jpg)
 
@@ -131,13 +125,13 @@ Quieter and more formal than Hyde Park next door, and easy to treat as the same 
 
 *The Serpentine, Kensington Gardens.*
 
-The Round Pond and the Diana Memorial Playground are the two things families come back for.
+The Round Pond and the Diana Memorial Playground are the family draws.
 
 ### St James's Park
 
 *Free · the pelicans*
 
-The most central of the royal parks, running from Buckingham Palace to Horse Guards, with a lake full of waterfowl and **a resident colony of pelicans** first presented to Charles II by a Russian ambassador in 1664.
+Runs from Buckingham Palace to Horse Guards, with a lake of waterfowl and **a resident colony of pelicans**.
 
 ![A flowerbed of red and pink tulips and wallflowers in St James's Park](../../assets/articles/best-parks-gardens-london/st-james-park-tulips.jpg)
 
@@ -149,9 +143,9 @@ The bridge over the lake gives the postcard view of Buckingham Palace one way an
 
 *Free · the Victorian dinosaurs*
 
-Two hundred acres in south London built around the **Crystal Palace Dinosaurs** — thirty Victorian sculptures from 1854, the first attempt anywhere to model prehistoric animals at full size, and gloriously wrong about most of them.
+Two hundred acres in south London built around the **Crystal Palace Dinosaurs** — thirty Victorian sculptures from 1854, the first attempt anywhere to model prehistoric animals at full size.
 
-The park is in transition after a long programme of works, and the restored **Crystal Palace Subway** opens to the public on occasional free days.
+The restored **Crystal Palace Subway** opens to the public on occasional free days.
 
 ---
 
@@ -163,7 +157,7 @@ The park is in transition after a long programme of works, and the restored **Cr
 
 *Free*
 
-A 186-acre former Rothschild estate, and most of it is given over to sports pitches and a boating lake rather than anything to linger in. **Head for the old pleasure gardens around the mansion and museum instead of the open parkland** — that is where the Rothschilds actually spent their money, and where the Gothic Ruins folly, an orangery and a walled kitchen garden survive.
+A 186-acre former Rothschild estate, mostly sports pitches and a boating lake. **Head for the old pleasure gardens around the mansion and museum**, where the Gothic Ruins folly, an orangery and a walled kitchen garden survive.
 
 ![The small castellated Gothic Ruins folly on a lawn at Gunnersbury Park](../../assets/articles/best-parks-gardens-london/gunnersbury-park-gothic-ruins.jpg)
 
@@ -175,9 +169,9 @@ A 186-acre former Rothschild estate, and most of it is given over to sports pitc
 
 A **Wren church gutted in the Blitz and left as a shell**, now filled with climbing plants and trees growing through the windows.
 
-Wren rebuilt the church after the Great Fire; it was gutted again in 1941, and the City of London opened the ruin as a public garden in 1971 rather than rebuilding it a second time. The walls and the steeple still stand.
+The City of London opened the ruin as a public garden in 1971. The walls and the steeple still stand.
 
-**It is no longer the secret it once was.** Expect photographers at weekends and in good weather - early morning is when you get it to yourself. Monument and Tower Hill are both about five minutes away.
+Expect photographers at weekends and in good weather; early morning is quietest. Monument and Tower Hill are both about five minutes away.
 
 ![The Gothic window tracery of St Dunstan in the East standing roofless, with ivy growing over the walls and planting along the base](../../assets/articles/best-parks-gardens-london/st-dunstan-in-the-east.jpg)
 
@@ -187,19 +181,15 @@ Wren rebuilt the church after the Great Fire; it was gutted again in 1941, and t
 
 *Free*
 
-A wall of hand-painted ceramic tablets, each recording **an ordinary person who died saving someone else**. Devastating and takes ten minutes.
+A wall of hand-painted ceramic tablets, each recording **an ordinary person who died saving someone else**. It takes ten minutes.
 
-It is the **Watts Memorial to Heroic Self-Sacrifice**, opened in 1900 and the idea of the painter G. F. Watts, who wanted ordinary courage recorded somewhere permanent. Each tablet gives the name, the date and what happened in a couple of lines.
-
-The park is named for the postal workers from the old General Post Office headquarters who ate their lunch here. It is two minutes from St Paul's, and almost nobody visiting the cathedral knows it exists.
+It is the **Watts Memorial to Heroic Self-Sacrifice**, opened in 1900. Each tablet gives the name, the date and what happened in a couple of lines. The park is two minutes from St Paul's.
 
 ### Barbican Conservatory, City of London
 
 *Free, but ticketed · selected dates only*
 
 Around **1,500 species of plants and trees**, some rare or endangered in the wild, and a pond of koi and terrapins — grown across 23,000 square feet under a steel and glass roof on Level 3 of the Barbican.
-
-It is the least likely garden in London: the glasshouse exists because the theatre's fly tower had to be concealed, and someone decided the way to do it was to plant it.
 
 > ⚠️ **It is free, but you still need a ticket, and turning up does not work.** The Conservatory opens on **selected dates only** — it is closed on any date not listed — and **a limited number of day tickets are released online from 9.30am on each open day**, for timed entry slots. Check the Barbican's own listing for the dates, then book.
 
@@ -211,7 +201,7 @@ It is the least likely garden in London: the glasshouse exists because the theat
 
 Built in **1854, the first dinosaur sculptures ever made anywhere**, before anyone knew what dinosaurs actually looked like.
 
-They were made by **Benjamin Waterhouse Hawkins working with Richard Owen**, the anatomist who coined the word dinosaur - and they predate Darwin's *Origin of Species* by five years, which is precisely why the anatomy is so far off. The Iguanodon wears its thumb spike on its nose.
+They were made by **Benjamin Waterhouse Hawkins working with Richard Owen**, the anatomist who coined the word dinosaur, five years before Darwin's *Origin of Species*. The Iguanodon wears its thumb spike on its nose.
 
 Grade I listed, spread across islands in the lake, and free to walk round whenever the park is open. Crystal Palace station sits at the top of the park.
 
@@ -219,9 +209,9 @@ Grade I listed, spread across islands in the lake, and free to walk round whenev
 
 *Free*
 
-Two acres of reedbed, pond and woodland on a former coal yard beside the Regent's Canal, run by the **London Wildlife Trust** and opened in 1985 - when this was still industrial no-man's-land rather than a redeveloped King's Cross.
+Two acres of reedbed, pond and woodland on a former coal yard beside the Regent's Canal, run by the **London Wildlife Trust** and opened in 1985.
 
-There is a visitor centre and a cafe, and it is five minutes from the station. **It sits against the railway**: a working wetland reserve with the train sheds directly behind it.
+There is a visitor centre and a cafe, five minutes from King's Cross station, and the train sheds sit directly behind the reserve.
 
 ---
 
@@ -231,9 +221,9 @@ There is a visitor centre and a cafe, and it is five minutes from the station. *
 
 ### Kew Gardens
 
-*About £22 · a UNESCO World Heritage Site*
+*About £22 · £10 on Tuesdays until 29 December 2026 · a UNESCO World Heritage Site*
 
-Three hundred acres of botanic garden with the Victorian Palm House, the Temperate House and a **treetop walkway eighteen metres up**. A genuine half-day, not an hour — it is far bigger than people expect.
+Three hundred acres of botanic garden with the Victorian Palm House, the Temperate House and a **treetop walkway eighteen metres up**. Allow a half-day.
 
 ![The curved glass and iron Palm House at Kew Gardens, framed by lawns and formal flowerbeds](../../assets/articles/best-parks-gardens-london/kew-palm-house.jpg)
 
@@ -241,7 +231,7 @@ Three hundred acres of botanic garden with the Victorian Palm House, the Tempera
 
 ### Chelsea Physic Garden
 
-*Ticketed*
+*From £13.50*
 
 ![A spiral of rusted steel bands engraved with names, wound around a small tree at the Chelsea Physic Garden, with autumn borders of purple monkshood and verbena in front and a red-brick house beyond the wall](../../assets/articles/best-parks-gardens-london/chelsea-physic-garden.jpg)
 
@@ -249,13 +239,13 @@ Three hundred acres of botanic garden with the Victorian Palm House, the Tempera
 
 Founded by the Apothecaries in **1673 to grow medicinal plants**, and still growing 5,000 of them behind a high wall on the Embankment. It is the oldest botanic garden in London.
 
-The walls and the river together make it **the warmest corner of the city**, which is why olives, grapefruit and pomegranates fruit outdoors here when they will not elsewhere in Britain.
+The walls and the river keep it warm enough for olives, grapefruit and pomegranates to fruit outdoors.
 
 It is small - a couple of hours is plenty - and **opening is seasonal**, so check before travelling.
 
 ### WWT London Wetland Centre, Barnes
 
-*About £14.50*
+*£17.10 adult, £18.85 with Gift Aid*
 
 **105 acres built on four disused Victorian reservoirs** — kingfishers, otters and rare wildfowl, twenty minutes from Hammersmith.
 
@@ -263,7 +253,7 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ## Outdoor swimming
 
-* **Hampstead Heath ponds** — three of them, open year-round, and cold in winter.
+* **Hampstead Heath ponds** — three of them, £5 for an adult; the mixed pond closes for the winter.
 * **London Fields Lido** — a heated 50-metre outdoor pool, open all year.
 * **Brockwell Lido** — a 1937 art deco lido in Herne Hill.
 * **Serpentine Lido**, Hyde Park — summer only, in the middle of the park.
@@ -283,13 +273,12 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 
 ## All free, with a few exceptions
 
-**Almost every park in this guide is free and open every day**, which is the best thing about London as a city to spend time in. Nearly half its surface area is green space, and it was designated the world's first National Park City in 2019.
+**Almost every park in this guide is free and open every day.** London was designated the world's first National Park City in 2019.
 
 **The exceptions:**
 
-* **Kew Gardens** is ticketed and the most expensive — but it is a botanical research institution rather than a park, and priced as one.
-* **The Chelsea Physic Garden** and **the Garden Museum** both charge, both are small, and both are worth it.
-* **Deer parks close at dusk** — Richmond and Bushy gates shut to vehicles earlier than to pedestrians.
+* **Kew Gardens**, **the Chelsea Physic Garden**, **the WWT London Wetland Centre** and **the Garden Museum** charge.
+* **Richmond and Bushy vehicle gates** shut earlier than the pedestrian gates.
 
 **Free things people pay for elsewhere:**
 
@@ -298,20 +287,16 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 ![The Kyoto Garden in Holland Park, with a stone lantern beside a still pond and Japanese maples](../../assets/articles/best-parks-gardens-london/kyoto-garden-holland-park.jpg)
 
 *The Kyoto Garden, Holland Park.*
-* **Hampstead Heath's swimming ponds** — the mixed pond is free at quiet times, the single-sex ponds charge a small fee.
 * **Sky-high views** from Primrose Hill, Parliament Hill and Alexandra Palace, all covered in our views guide, all free.
-* **Deckchairs in the royal parks** are the one thing that catches people out — they are hired, not free, and the attendant will find you.
+* **Deckchairs in the royal parks** are hired, not free.
 
 ---
 
 ## What to know
 
 * **All eight Royal Parks are free, and their hours differ.** Hyde Park, Green Park and St James's Park are open 5am to midnight. Kensington Gardens and Greenwich Park open at 6am and The Regent's Park at 5am, and all three close at dusk. Richmond Park and Bushy Park are open to walkers 24 hours a day, except at night during their deer culls.
-* **Richmond Park's deer are wild animals.** Keep well back, especially in autumn.
-* **The Barbican Conservatory is free but ticketed**, opens on selected dates only, and releases day tickets online from 9.30am on the day. Check its listing and book — you cannot walk in.
+* **Primrose Hill is locked from 10pm to 6am every night from 30 October to 9 November 2026.**
 * **Bringing a dog?** Our [dog-friendly hotels guide](/articles/dog-friendly-hotels-london/) gives each hotel's fee, weight limit and walk to the nearest park, with the Royal Parks' lead rules.
-* **Kew is a half-day minimum** and cheaper booked online.
-* **Isabella Plantation peaks in late April and May.** Outside that it is pleasant rather than remarkable.
 * **For the trees themselves in autumn colour**, see our guide to [where to see autumn leaves in London](/articles/best-places-autumn-leaves-london/) — which parks, which named trees, and when it peaks.
 
 ---
