@@ -5,8 +5,8 @@ description: "The best area to stay in London depends on the trip: Covent Garden
 heroImage: "../../assets/articles/best-areas-to-stay-in-london/covent-garden-piazza-aerial.jpg"
 heroImageAlt: "Covent Garden piazza seen from above in late afternoon light: the glass-roofed market building and its colonnade, cafe umbrellas and crowds on the cobbles below, and central London rooftops stretching away behind"
 publishedAt: 2026-09-08
-updatedAt: 2026-10-18
-reviewBy: 2026-11-01
+updatedAt: 2026-10-26
+reviewBy: 2027-01-25
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -40,7 +40,7 @@ faq:
 > - **Quiet:** [Chelsea](/articles/where-to-stay-chelsea/), [Notting Hill](/articles/where-to-stay-notting-hill/) or [Marylebone](/articles/where-to-stay-marylebone/).
 > - **A gig, match or trade show:** [Wembley](/articles/where-to-stay-near-wembley-stadium/), [The O2](/articles/where-to-stay-near-the-o2/) or [ExCeL](/articles/where-to-stay-near-excel/), each with a base that gets you home.
 
-The area you most want to visit is often a poor place to sleep. What decides a base is what a room costs, how far you walk home, whether anything is open for breakfast and whether the streets empty at six. Our [guide to the best areas to visit](/articles/best-areas-to-visit-london/) sorts neighbourhoods on the opposite question, and the two lists differ more often than they agree.
+The area you most want to visit is often a poor place to sleep. A base comes down to what a room costs, how far you walk home, whether anything is open for breakfast and whether the streets empty at six. Our [guide to the best areas to visit](/articles/best-areas-to-visit-london/) sorts neighbourhoods on the opposite question.
 
 ## The areas compared
 
@@ -74,7 +74,7 @@ The area you most want to visit is often a poor place to sleep. What decides a b
 
 ## Getting home at night
 
-**The Tube runs until about half past midnight, and night buses run everywhere, every night.** Night Tube is Friday and Saturday only, and Sundays finish earlier everywhere. Most trips never run into this. Three things catch people out on a late night, and none is a reason to book somewhere else.
+**The Tube runs until about half past midnight, and night buses run everywhere, every night.** Night Tube is Friday and Saturday only, and Sundays finish earlier everywhere. Three things catch people out on a late night.
 
 | What people assume | What actually happens |
 | --- | --- |
@@ -88,7 +88,7 @@ The DLR shuts overnight too, which affects Greenwich and Canary Wharf.
 
 ## First time in London
 
-On a first trip you overestimate how much fits in a day and underestimate how tired you are by nine at night. Pick somewhere central enough that a theatre or a dinner is a walk, not a journey.
+Pick somewhere central enough that a theatre or a dinner is a walk, not a journey.
 
 ### Covent Garden: the walk home from the theatre
 
@@ -96,15 +96,15 @@ On a first trip you overestimate how much fits in a day and underestimate how ti
 
 The theatres, the river, Soho, Trafalgar Square and the [British Museum](/articles/british-museum-guide/) are all within a fifteen-minute walk, and more than twenty West End theatres are inside ten minutes. **Most evenings you do not need a train.** Do not plan around Covent Garden station itself, which has four lifts and a 193-step spiral staircase but no escalators. Leicester Square, 260 metres away, is quicker in both directions and adds the Northern line.
 
-The trade is that it never quiets. The Piazza has street performers from mid-morning, the surrounding streets carry theatre crowds twice a night, and there is no quiet hour between about ten in the morning and midnight. It is also short of ordinary shops, and you will struggle to buy milk. The premium is measurable: Z Hotels sells the same 9 sq m double for £100 here and £70 at Holborn, a nine-minute walk east.
+The trade is that it never quiets: street performers from mid-morning, theatre crowds twice a night, and no quiet hour between about ten and midnight. It is also short of ordinary shops, so buying milk is a struggle. The premium is measurable: Z Hotels sells the same 9 sq m double for £100 here and £70 at Holborn, a nine-minute walk east.
 
-**[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** is £70 for an "Inside" room with no window and £100 for the first room that has one, and people book the Inside grades by accident constantly.
+**[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** is £70 for an "Inside" room with no window and £100 for the first room that has one, and the Inside grades are easy to book by accident.
 
 ![A Z Hotel Covent Garden room with a dark upholstered headboard, a wall-mounted TV showing the Z Hotels welcome screen, and a tall sash window facing a brick light well](../../assets/articles/best-areas-to-stay-in-london/z-hotel-covent-garden.jpg)
 
 *A window room at the Z Hotel Covent Garden.*
 
-**[Strand Palace](hotel:strand-palace)** is about £140, open since 1909 with 785 rooms, and the one with availability when the small hotels are full. **[The Savoy](hotel:the-savoy)** is about £700 on the same road.
+**[Strand Palace](hotel:strand-palace)** is about £140, with 785 rooms. **[The Savoy](hotel:the-savoy)** is about £700 on the same road.
 
 ![A Strand Palace guest room with white bedding, two tan leather armchairs around a round table, and a mirrored panel behind the headboard](../../assets/articles/best-areas-to-stay-in-london/strand-palace.jpg)
 
@@ -132,9 +132,9 @@ Three stations serve the strip: Waterloo has the Jubilee and the Northern, and S
 
 Garden squares, the British Museum, and prices that run from a dorm bed to a rebuilt grand hotel inside about ten minutes' walk. Russell Square is on the Piccadilly line, which runs to Heathrow without a change, so your arrival and your flight home are the same single train. St Pancras is ten minutes on foot.
 
-Evenings are the thin part. Bloomsbury is academic and residential, so it goes quiet early and the restaurant choice is nothing like Soho's. Soho is ten minutes' walk west when you want it, and out of earshot when you do not, which is why people sleep well here.
+Evenings are thin: Bloomsbury is academic and residential, so it goes quiet early. Soho is ten minutes' walk west.
 
-**[Generator London](hotel:generator-london)** is about £26 a bed, with 750 beds across its dorms and private rooms, a bar built into a bus and a 24-hour reception. It is openly a party hostel, so it is the wrong call for an early start.
+**[Generator London](hotel:generator-london)** is about £26 a bed, with 750 beds across its dorms and private rooms, a bar built into a bus and a 24-hour reception. It is a party hostel, so it is the wrong call for an early start.
 
 ![A Generator London dorm room with a bright pink, orange and teal geometric wall mural, bunk beds and a small desk](../../assets/articles/best-areas-to-stay-in-london/generator-london.jpg)
 
@@ -152,15 +152,15 @@ Evenings are the thin part. Bloomsbury is academic and residential, so it goes q
 
 ## Nightlife and going out
 
-Stay where the night is, or stay ten minutes from it. The in-between gives you the noise without the short walk home, and the areas where people go out are hard to sleep in because they are the same streets.
+Stay where the night is, or stay ten minutes from it. The in-between gives you the noise without the short walk home.
 
 ### Soho: loud, central, and priced across the whole range
 
 *£33 a capsule to about £500 a room · Zone 1 · Piccadilly Circus and Tottenham Court Road · [hotel guide](/articles/where-to-stay-soho-west-end/) · [area guide](/articles/soho-area-guide/)*
 
-Bars, theatres, restaurants and late food on every street, and rooms priced from a £33 capsule to about £500. **Chinatown's noodle and roast-meat places run past 1am** and are priced for the people who work in them, so you can eat a full meal at an hour when most of London has stopped serving. The West End is cheaper than its reputation because of the windowless format, which stacks hundreds of rooms into buildings with no external walls to spare.
+Bars, theatres, restaurants and late food on every street, and rooms from a £33 capsule to about £500. **Chinatown's noodle and roast-meat places run past 1am.** Windowless rooms, which stack hundreds of rooms into buildings with no external walls to spare, keep some West End prices low.
 
-**It is very loud and it is not a place to sleep lightly.** Every one of Soho's streets carries people until the early hours, and a room facing one of them is a compromise you are making deliberately. Ask for a high floor and an internal room at booking, not at check-in. For an ordinary double with a window, look at Fitzrovia five minutes north or Covent Garden to the east.
+**It is very loud.** Every street carries people until the early hours. Ask for a high floor and an internal room at booking, not at check-in. For an ordinary double with a window, look at Fitzrovia five minutes north or Covent Garden to the east.
 
 At the bottom, **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is £33 to £68 for a berth one minute from the Tube.
 
@@ -200,7 +200,7 @@ Shoreditch is not the bargain it is still sold as: **the cheapest room in our gu
 
 **There is no Tube station called Shoreditch**, which catches people out at the booking page. Old Street is the Northern line, Shoreditch High Street is the Overground's Windrush line, and Liverpool Street ten minutes south is the useful one, with the Central line and the Elizabeth line under the same roof. Old Street has no night service; Shoreditch High Street and Liverpool Street both do.
 
-**[The Hoxton](hotel:the-hoxton-shoreditch)** is about £200 with breakfast hung on your door in a bag, and its room grades are named by size, so a Shoebox is exactly that.
+**[The Hoxton](hotel:the-hoxton-shoreditch)** is about £200 with breakfast hung on your door in a bag, and its room grades are named by size, from Shoebox up.
 
 ![A Hoxton Shoreditch room with a scalloped grey headboard, a mustard armchair, a desk, and a window looking onto bare trees](../../assets/articles/best-areas-to-stay-in-london/the-hoxton-shoreditch.jpg)
 
@@ -222,7 +222,7 @@ Shoreditch is not the bargain it is still sold as: **the cheapest room in our gu
 
 *Studios, and about £230 for the townhouse · Zone 1 · Liverpool Street and Aldgate East · [City of London hotel guide](/articles/where-to-stay-city-of-london/)*
 
-The Georgian streets south of Shoreditch, and the compromise if you want the bars and also want to sleep: **a ten-minute walk from them and far enough that you cannot hear them.** Liverpool Street is seven minutes on foot, which means the Central line at night and the Elizabeth line to Bond Street in about twelve minutes by day. Aldgate East, the other station here, has no night train.
+The Georgian streets south of Shoreditch, **ten minutes' walk from the bars and far enough that you cannot hear them.** Liverpool Street is seven minutes on foot, which means the Central line at night and the Elizabeth line to Bond Street in about twelve minutes by day. Aldgate East, the other station here, has no night train.
 
 Food after midnight is easy. **Beigel Bake on Brick Lane is open twenty-four hours** and sells a salt beef beigel for £7.50, and the Polo Bar opposite Liverpool Street has traded around the clock since 1953.
 
@@ -232,7 +232,7 @@ Food after midnight is easy. **Beigel Bake on Brick Lane is open twenty-four hou
 
 *A room at Batty Langley's.*
 
-**It has no lift and no air conditioning**, a problem in July or with a heavy case, and the price of a real Georgian building. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, a minute from Aldgate East, and the one that started the aparthotel format in London.
+**It has no lift and no air conditioning**, which matters in July or with a heavy case. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, a minute from Aldgate East.
 
 ![A Leman Locke studio with a pink sofa in the foreground and the bed, with its grey headboard and diamond-patterned throw, visible beyond](../../assets/articles/best-areas-to-stay-in-london/leman-locke.jpg)
 
@@ -244,23 +244,23 @@ Food after midnight is easy. **Beigel Bake on Brick Lane is open twenty-four hou
 
 ## Museums, and going with children
 
-A short walk to the front door of the thing, somewhere to make a sandwich, and a lift. For the room itself, [the best family hotels in London](/articles/best-family-hotels-london/) cross-checks 21 hotels against Mumsnet, family-travel blogs and the travel press for one that sleeps two adults and two children. For a pool and the hours children can use it, see [London hotels with a pool](/articles/hotels-with-pool-london/).
+Children want a short walk to the museum, somewhere to make a sandwich, and a lift. [The best family hotels in London](/articles/best-family-hotels-london/) lists hotels that sleep two adults and two children. For a pool and the hours children can use it, see [London hotels with a pool](/articles/hotels-with-pool-london/).
 
 ### South Kensington: three free museums and a tunnel most of the way to them
 
 *From £18 a hostel bed · Zone 1 · South Kensington · [hotel guide](/articles/where-to-stay-south-kensington/) · [area guide](/articles/south-kensington-area-guide/)*
 
-The Natural History Museum, the Science Museum and the V&A sit within 400 metres of each other and all three are free. What makes it worth sleeping here is the walk in: **a tiled Victorian pedestrian subway, opened in 1885 and free since 1908, runs from inside the ticket hall north under Exhibition Road.** The Natural History Museum has a gate directly off it, so you can walk in without going outside; for the Science Museum and the V&A you come up on the museums side of the road and walk the last stretch in the open.
+The Natural History Museum, the Science Museum and the V&A sit within 400 metres of each other and all three are free. What makes it worth sleeping here is the walk in: **a tiled Victorian pedestrian subway, opened in 1885, runs from inside the ticket hall north under Exhibition Road.** The Natural History Museum has a gate directly off it, so you can walk in without going outside; for the Science Museum and the V&A you come up on the museums side of the road and walk the last stretch in the open.
 
-South Kensington station is on the Piccadilly, District and Circle lines, with a direct train to Heathrow, and **it has no lifts to its platforms**: with a pram or a heavy case, stay within walking distance and never use the station for the museums. **The area is expensive and quiet in the evening.** The museums close between 17:45 and 18:00, dinner options thin out fast and the residential streets are dead by nine, so plan on eating early or eating elsewhere.
+South Kensington station is on the Piccadilly, District and Circle lines, with a direct train to Heathrow, and **it has no lifts to its platforms**: with a pram or a heavy case, stay within walking distance. **The area is expensive and quiet in the evening.** The museums close between 17:45 and 18:00 and the residential streets are dead by nine, so eat early or elsewhere.
 
-**[Astor Hyde Park](hotel:astor-hyde-park)** is £18 for a dorm bed and £99 for a private room, breakfast included, in a Victorian townhouse opposite the Royal Albert Hall with the cornicing and fireplaces intact. Its dorms are for guests aged 18 to 39, and it has townhouse stairs and no lift.
+**[Astor Hyde Park](hotel:astor-hyde-park)** is £18 for a dorm bed and £99 for a private room, breakfast included, in a Victorian townhouse opposite the Royal Albert Hall. Its dorms are for guests aged 18 to 39, and it has townhouse stairs and no lift.
 
 ![Astor Hyde Park's communal dining room, with a chalkboard mural reading "WELCOME TO ASTOR HYDE PARK" and listing nearby museums and parks](../../assets/articles/best-areas-to-stay-in-london/astor-hyde-park.jpg)
 
 *The communal room at Astor Hyde Park.*
 
-**[Nell Gwynn House](hotel:nell-gwynn-house-pods)** does serviced apartments with their own kitchens in a 1930s mansion block ten minutes east, the cheap way to cook for yourself in this postcode. **[The Ampersand](hotel:the-ampersand-hotel)** is about £280, with a Science Family Suite whose children's room is built around a rocket-shaped bunk bed.
+**[Nell Gwynn House](hotel:nell-gwynn-house-pods)** does serviced apartments with their own kitchens in a 1930s mansion block ten minutes east. **[The Ampersand](hotel:the-ampersand-hotel)** is about £280, with a Science Family Suite whose children's room is built around a rocket-shaped bunk bed.
 
 ### Kensington, Earl's Court and Olympia: palace, park and a trade-fair hotel
 
@@ -274,9 +274,9 @@ West of the museums: Kensington Palace and the Gardens across the road from the 
 
 *About £180, or £550 in the Shard · Zones 1–2 · Bermondsey and London Bridge · [hotel guide](/articles/where-to-stay-bermondsey/) · [area guide](/articles/bermondsey-area-guide/)*
 
-The family answer on this page. **Breakfast for four in central London runs £60 to £80 a day**, and Bermondsey's aparthotels put a hob and a fridge in the room, which over four mornings is most of a night's difference in the room rate. Tower Bridge is fifteen minutes' walk, Borough Market and the Shard are ten, and Bermondsey station is on the Jubilee.
+**Breakfast for four in central London runs £60 to £80 a day**, and Bermondsey's aparthotels put a hob and a fridge in the room. Tower Bridge is fifteen minutes' walk, Borough Market and the Shard are ten, and Bermondsey station is on the Jubilee.
 
-**It is a walking area rather than a doorstep one.** Bermonds Locke is about eight minutes from the Tube, the furthest of the Locke sites from a station. It trades connectivity for space and quiet, and with children that is often the right trade.
+**It is a walking area.** Bermonds Locke is about eight minutes from the Tube, the furthest of the Locke sites from a station.
 
 **[Bermonds Locke](hotel:bermonds-locke)** does 143 desert-toned studios with kitchens and a washer-dryer on Tower Bridge Road.
 
@@ -290,7 +290,7 @@ The family answer on this page. **Breakfast for four in central London runs £60
 
 *A room at Bermondsey Square Hotel.*
 
-And **[Shangri-La The Shard](hotel:shangri-la-the-shard)** occupies floors 34 to 52 with a 52nd-floor infinity pool, at about £550. The entry-level rooms face south, away from London, and a low-floor room defeats the purpose.
+And **[Shangri-La The Shard](hotel:shangri-la-the-shard)** occupies floors 34 to 52 with a 52nd-floor infinity pool, at about £550. The entry-level rooms face south, away from London.
 
 ![A Shangri-La The Shard room high above London, with floor-to-ceiling corner windows looking out over the city and the river below](../../assets/articles/best-areas-to-stay-in-london/shangri-la-the-shard.jpg)
 
@@ -300,11 +300,11 @@ And **[Shangri-La The Shard](hotel:shangri-la-the-shard)** occupies floors 34 to
 
 *£66–£160 · Zones 2–3 · Cutty Sark DLR and Greenwich rail · [hotel guide](/articles/where-to-stay-greenwich/) · [area guide](/articles/greenwich-area-guide/)*
 
-A maritime village with the Cutty Sark, the Old Royal Naval College, the National Maritime Museum, and a hill with the Royal Observatory (closed from 2 November 2026) on it. Most of it is free, all of it walkable, and there is a park for children to run in, which no Zone 1 base offers. The DLR reaches Bank in about 21 minutes, and trains from Greenwich station reach London Bridge in about ten.
+A maritime village with the Cutty Sark, the Old Royal Naval College, the National Maritime Museum, and a hill with the Royal Observatory (closed from 2 November 2026) on it. Most of it is free, all of it walkable, and there is a park for children to run in. The DLR reaches Bank in about 21 minutes, and trains from Greenwich station reach London Bridge in about ten.
 
-**Evenings in town are the awkward part.** The last DLR from Bank to Cutty Sark leaves at 00:33 Monday to Saturday and 23:33 on Sunday, and Greenwich's mainline trains stop overnight, so a late night in the West End means a night bus back or a taxi. North Greenwich keeps a Jubilee night service, but that is the O2, a bus ride from the historic quarter. If your days are here that is a small cost. If your evenings are all in town, base yourself in town.
+**Evenings in town are the awkward part.** The last DLR from Bank to Cutty Sark leaves at 00:33 Monday to Saturday and 23:33 on Sunday, and Greenwich's mainline trains stop overnight, so a late night in the West End means a night bus back or a taxi. North Greenwich keeps a Jubilee night service, but that is the O2, a bus ride from the historic quarter.
 
-**[ibis London Greenwich](hotelscom:179227)** is on Stockwell Street, a few minutes from the park gates and the market. **[Zedwell Greenwich](hotel:zedwell-greenwich)** is £66 to £145 for a windowless Cocoon 2, and the steadiest-priced Zedwell: early check-in costs £25 here against £60 in the West End. **[DoubleTree Greenwich](hotel:doubletree-greenwich)** is about £160, in a former 1940s police section house, about 18 minutes' walk from the Cutty Sark.
+**[ibis London Greenwich](hotelscom:179227)** is on Stockwell Street, a few minutes from the park gates and the market. **[Zedwell Greenwich](hotel:zedwell-greenwich)** is £66 to £145 for a windowless Cocoon 2, and the steadiest-priced Zedwell: early check-in costs £25 here against £60 in the West End. **[DoubleTree Greenwich](hotel:doubletree-greenwich)** is about £160, about 18 minutes' walk from the Cutty Sark.
 
 ---
 
@@ -312,15 +312,15 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 ## On a budget, and the business districts
 
-The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. Moving outwards only pays when the saving survives the travelling. For a hotel room at £150 a night or less, our [budget hotels guide](/articles/best-budget-hotels-london/) priced 46 hotels on the same five nights. The City and Canary Wharf work the other way round: they are priced for the offices, so weekends are the bargain.
+The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. For a hotel room at £150 a night or less, our [budget hotels guide](/articles/best-budget-hotels-london/) priced the hotels on the same five nights. The City and Canary Wharf work the other way round: they are priced for the offices, so weekends are the bargain.
 
 ### Bethnal Green: cheap capsules and a two-Michelin-star town hall
 
 *£42–£220 · Zone 2 · Bethnal Green*
 
-East London on the Central line, which is fast into town and one of the six lines that keeps running on Friday and Saturday nights, unusual for a Zone 2 address at this price. Roman Road is a working market street rather than a tourist strip, Victoria Park is a short walk, and Brick Lane is about ten minutes away.
+East London on the Central line, which is fast into town and runs through the night on Fridays and Saturdays. Roman Road is a market street, Victoria Park is a short walk, and Brick Lane is about ten minutes away.
 
-Do the arithmetic before booking the cheap one. **[The GreenHouse Capsules](hotel:greenhouse-capsules)** is £42 to £53 a capsule, and that price barely moves all year, which makes it *dearer* than a Zone 1 capsule on a quiet night (£42 against £33) and cheaper in December (£45 against £68). Its Zone 2 address buys you nothing most of the time. It is also tiny, at eight units, with no front desk and entry by code.
+**[The GreenHouse Capsules](hotel:greenhouse-capsules)** is £42 to £53 a capsule, and that price barely moves all year, which makes it *dearer* than a Zone 1 capsule on a quiet night (£42 against £33) and cheaper in December (£45 against £68). It is tiny, at eight units, with no front desk and entry by code.
 
 **[Town Hall Hotel](hotel:town-hall-hotel)** is the other end: about £220 for a 1910 town hall with the council chamber and marble staircases intact, a 14-metre pool and the two-Michelin-starred Da Terra in the building.
 
@@ -344,9 +344,9 @@ The nights are quiet, especially around St Paul's and the river. Liverpool Stree
 
 A business district, which means it fills Monday to Thursday and **is cheapest on a Sunday night**: a Novotel double was £165 on Sunday 11 October and £227 on Saturday 17 October. If your trip includes a Sunday night, check a Canary Wharf rate against a central one before assuming central is cheaper.
 
-**Weekends are quiet rather than dead, and that changed around 2023.** The old malls still wind down on a Sunday, but Wood Wharf at the eastern end runs all week, with waterside restaurants, Mercato Metropolitano, a floating fifty-metre lido, and Fairgame serving until 1am on Saturdays. The Elizabeth line runs here direct from Heathrow in about 48 minutes, and the Jubilee goes straight to Bond Street and Green Park. Of the three lines here only the Jubilee runs through the night on Fridays and Saturdays; the DLR and the Elizabeth line stop, so check which entrance your hotel is nearest if you are out late.
+**Weekends are quiet rather than dead.** The old malls wind down on a Sunday, but Wood Wharf at the eastern end runs all week, with waterside restaurants, Mercato Metropolitano, a floating fifty-metre lido, and Fairgame serving until 1am on Saturdays. The Elizabeth line runs here direct from Heathrow in about 48 minutes, and the Jubilee goes straight to Bond Street and Green Park. Of the three lines here only the Jubilee runs through the night on Fridays and Saturdays; the DLR and the Elizabeth line stop, so stay near the Jubilee station if you are out late.
 
-**[Point A](hotelscom:h9080289)** is the budget booking, with breakfast included when you book direct. **[Novotel Canary Wharf](hotel:novotel-canary-wharf)** ran £156 to £229 on five sampled nights and has Bokan, a rooftop restaurant on floors 38 and 39 that is open to non-residents. **[London Marriott Canary Wharf](hotel:london-marriott-canary-wharf)** is about £200 on West India Quay, with floor-to-ceiling windows over the dock and a 24-hour gym and business centre. **[Locke Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites with kitchens, five minutes from the Jubilee.
+**[Point A](hotelscom:h9080289)** is the budget booking, with breakfast included when you book direct. **[Novotel Canary Wharf](hotel:novotel-canary-wharf)** ran £156 to £229 on five sampled nights and has Bōkan, with a restaurant, bar and roof terrace on its top three floors, open to non-residents. **[London Marriott Canary Wharf](hotel:london-marriott-canary-wharf)** is about £200 on West India Quay, with floor-to-ceiling windows over the dock and a 24-hour gym and business centre. **[Locke Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites with kitchens, five minutes from the Jubilee.
 
 ## Gigs, matches and trade shows
 
@@ -384,25 +384,25 @@ For the West Entrance, which includes MCM Comic Con, stay on Western Gateway by 
 
 ## Quiet and residential
 
-Where to stay if the trip is a long one, if you are a light sleeper, or if you have done the sights and now want a neighbourhood rather than an attraction.
+For long stays, light sleepers, or a neighbourhood rather than an attraction.
 
 ### Chelsea: low-rise and silent by ten
 
 *£89–£450 · Zones 1–2 · Sloane Square and Knightsbridge · [hotel guide](/articles/where-to-stay-chelsea/) · [area guide](/articles/chelsea-area-guide/)*
 
-Low-rise, affluent, residential, and about as far from a nightlife district as Zone 1 gets. The King's Road, the Physic Garden and the river walk are all here, and the streets behind them are silent by ten.
+Low-rise and residential. The King's Road, the Physic Garden and the river walk are all here, and the streets behind them are silent by ten.
 
-**Sloane Square is District and Circle**, quick and frequent all day and stopping overnight like most of the network. If a late Friday or Saturday is part of the plan, Knightsbridge on the Piccadilly is about twelve minutes' walk and Victoria about fifteen, and the N11 and N22 run along the King's Road through Sloane Square all night.
+**Sloane Square is District and Circle**, which stop overnight. For a late Friday or Saturday, Knightsbridge on the Piccadilly is about twelve minutes' walk and Victoria about fifteen, and the N11 and N22 run along the King's Road through Sloane Square all night.
 
-**[Zedwell Knightsbridge](hotel:zedwell-knightsbridge)** is £89 to £257 for a windowless room for two. **[San Domenico House](hotel:san-domenico-house)** is about £240, nineteen rooms in an Italian-furnished townhouse off Sloane Square, and it books out well ahead. **[The Cadogan](hotel:the-cadogan-belmond)** is about £450 on Sloane Street, and gives guests the key to Cadogan Place's private gardens and tennis courts. The Chelsea Townhouse, about £260, was the Draycott until 2022, so older reviews are about the same building.
+**[Zedwell Knightsbridge](hotel:zedwell-knightsbridge)** is £89 to £257 for a windowless room for two. **[San Domenico House](hotel:san-domenico-house)** is about £240, nineteen rooms in an Italian-furnished townhouse off Sloane Square. **[The Cadogan](hotel:the-cadogan-belmond)** is about £450 on Sloane Street, and gives guests the key to Cadogan Place's private gardens and tennis courts. The Chelsea Townhouse, about £260, was the Draycott until 2022, so older reviews are about the same building.
 
 ### Notting Hill: pastel streets, five stops from Oxford Circus
 
 *Studios from £97 · About £240–£260 · Zones 1–2 · Notting Hill Gate · [hotel guide](/articles/where-to-stay-notting-hill/) · [area guide](/articles/notting-hill-area-guide/)*
 
-Residential in a way almost nothing else this central is: garden squares, pastel terraces, Portobello Road, and an evening that is pubs and neighbourhood restaurants rather than crowds. **Notting Hill Gate is five stops from Oxford Circus on the Central line**, without changing.
+Garden squares, pastel terraces, Portobello Road, and evenings of pubs and neighbourhood restaurants. **Notting Hill Gate is five stops from Oxford Circus on the Central line**, without changing.
 
-**Portobello is a Saturday proposition.** The market is quiet midweek and enormous on Saturday, which is either the reason you booked or the morning you will want to be somewhere else. The Carnival, on 29 and 30 August 2027, closes the area entirely for two days.
+**Portobello is a Saturday proposition**: the market is quiet midweek and very busy on Saturday. The Carnival, on 29 and 30 August 2027, closes the area for two days.
 
 **[Vancouver Hotel and Studios](hotelscom:h520898)** on Prince's Square lists studios with kitchenettes from £97. **[The Laslett](hotel:the-laslett)** is about £240 on Pembridge Gardens, a minute from the station, with work by local artists in the rooms. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 with breakfast, 21 rooms on a quiet garden square: **no lift, and some rooms have round beds and baths in the bedroom**, so ask what you are getting. The hotel guide covers Bayswater's cheaper streets too.
 
@@ -410,7 +410,7 @@ Residential in a way almost nothing else this central is: garden squares, pastel
 
 *£65–£550 · Zone 1 · Baker Street, Bond Street and Marble Arch · [hotel guide](/articles/where-to-stay-marylebone/) · [area guide](/articles/marylebone-area-guide/)*
 
-The Georgian grid north of Oxford Street, up to Regent's Park, with a village high street, the free Wallace Collection and a Sunday farmers' market. Where you sleep in it counts for more than which hotel. **The village** is the quiet middle, five to eight minutes from the Elizabeth line at Bond Street. **The Marble Arch corner** is for Hyde Park and the Central line, with heavy traffic where Oxford Street, Park Lane and Edgware Road meet. **Baker Street and Marylebone Road** are for Regent's Park, Wembley trains and the cheapest rooms. Langham Place is five minutes from Oxford Circus.
+The Georgian grid north of Oxford Street, up to Regent's Park, with a village high street, the free Wallace Collection and a Sunday farmers' market. **The village** is the quiet middle, five to eight minutes from the Elizabeth line at Bond Street. **The Marble Arch corner** is for Hyde Park and the Central line, with heavy traffic where Oxford Street, Park Lane and Edgware Road meet. **Baker Street and Marylebone Road** are for Regent's Park, Wembley trains and the cheapest rooms. Langham Place is five minutes from Oxford Circus.
 
 **[The Z Hotel Gloucester Place](hotelscom:h109287658)** is £65 for a windowless room and £75 with a window. **[The Mandeville](hotelscom:h6983)** starts at £200 booked direct, two minutes from the high street. **[The Langham](hotel:the-langham-london)** is about £550, with afternoon tea in the Palm Court.
 
@@ -420,9 +420,9 @@ The Georgian grid north of Oxford Street, up to Regent's Park, with a village hi
 
 A hilltop village with the Heath attached, swimming ponds, Kenwood House and views over the whole city, at roughly half what Chelsea costs. **Hampstead and Belsize Park are both on the Northern line's Charing Cross branch**, so you are eight stops from Tottenham Court Road on one train, and that is the branch that keeps running on Friday and Saturday nights.
 
-**It is a proper distance out and hilly with it.** You are outside Zone 1 and the walk from the station up to the Heath is uphill; this is a base for a longer stay or a return trip, not a first three days.
+**It is outside Zone 1 and hilly**; the walk from the station up to the Heath is uphill. It suits a longer stay or a return trip, not a first three days.
 
-**[NOX Hotels Belsize Park](hotel:nox-belsize-park)** is about £130 in a converted pub, walkable to both the Heath and Primrose Hill. **[La Gaffe](hotel:la-gaffe)** is about £140 with breakfast, family-run for decades on Heath Street on the site of an 18th-century shepherd's cottage, five minutes from the Heath, and there is no lift.
+**[NOX Hotels Belsize Park](hotel:nox-belsize-park)** is about £130 in a converted pub, walkable to both the Heath and Primrose Hill. **[La Gaffe](hotel:la-gaffe)** is about £140 with breakfast, family-run on Heath Street, five minutes from the Heath, and there is no lift.
 
 ---
 
@@ -478,9 +478,9 @@ St Pancras London is the only hotel inside the terminus, at about £350. The Meg
 
 *Dorms from £18 · about £140–£900 · Zone 1 · Victoria, Westminster and St James's Park · [hotel guide](/articles/where-to-stay-westminster/) · [area guide](/articles/westminster-area-guide/)*
 
-Four districts share the SW1 postcode: Westminster and Whitehall, with the Abbey, Parliament and the Churchill War Rooms on the doorstep; St James's, with the old-fashioned five-star hotels; Victoria, the railway and coach terminus; and Pimlico, south of Victoria, where the small cheaper hotels are, several with no lift. They share quiet evenings: Whitehall and the streets round St James's Park are government offices, empty after work and at weekends, which helps you sleep and doesn't help you find dinner.
+Four districts share the SW1 postcode: Westminster and Whitehall, with the Abbey, Parliament and the Churchill War Rooms on the doorstep; St James's, with the old-fashioned five-star hotels; Victoria, the railway and coach terminus; and Pimlico, south of Victoria, where the small cheaper hotels are, several with no lift. Evenings are quiet: Whitehall and the streets round St James's Park are government offices, empty after work and at weekends.
 
-Gatwick Express and Southern trains from Gatwick end at Victoria, Victoria Coach Station is about five minutes' walk down Buckingham Palace Road, and Buckingham Palace is about ten minutes north. **[The Clermont](hotelscom:h10939)** opened in 1862 beside the station, so the Gatwick train is a short walk from reception. **[Astor Victoria](hotel:astor-victoria)** has dorms from £18 for guests aged 18 to 39. **[St Ermin's](hotel:st-ermins-hotel)** is about £220 and 100 metres from St James's Park station, for the sights on foot.
+Gatwick Express and Southern trains from Gatwick end at Victoria, Victoria Coach Station is about five minutes' walk down Buckingham Palace Road, and Buckingham Palace is about ten minutes north. **[The Clermont](hotelscom:h10939)** is beside the station, so the Gatwick train is a short walk from reception. **[Astor Victoria](hotel:astor-victoria)** has dorms from £18 for guests aged 18 to 39. **[St Ermin's](hotel:st-ermins-hotel)** is about £220 and 100 metres from St James's Park station, for the sights on foot.
 
 ### Mayfair: expensive, central, and one train from everywhere
 
@@ -488,7 +488,7 @@ Gatwick Express and Southern trains from Gatwick end at Victoria, Victoria Coach
 
 **Green Park is served by the Piccadilly, Victoria and Jubilee lines**, so Heathrow, Victoria, King's Cross and Canary Wharf are all one train. Bond Street adds the Central, the Jubilee and the Elizabeth line, which runs to Heathrow in about 35 minutes without a change. All three of Green Park's lines run on Friday and Saturday nights as well, so late evenings are easy from here.
 
-**It is expensive and it does not really have an evening**: Mayfair's restaurants are destinations rather than a scene and the streets are empty by eleven. That is a virtue if you are here to sleep between a late arrival and an early flight.
+**It is expensive and has little evening life**: the streets are empty by eleven, which suits a night between a late arrival and an early flight.
 
 **[Zedwell Park Lane](hotel:zedwell-park-lane)** is the anomaly: £90 to £207 for a windowless underground Cocoon 2 with a Park Lane address, seven minutes from Marble Arch, within a pound of Knightsbridge on a quiet night and about £50 under it on an October Saturday.
 
@@ -510,11 +510,11 @@ At the top, a double at The Connaught, Claridge's, The Dorchester or Brown's run
 
 ## The mistakes people make choosing a base
 
-**Booking Zone 3 to save £20 a night.** The daily fare cap is £10.50 for Zones 1–3 against £8.90 for Zones 1–2, a difference of £1.60 a person a day. What you are buying is twenty to twenty-five minutes each way, and on a sightseeing trip you make that journey two or three times a day because you come back to change or drop bags. Four days of that is most of a day underground. **Take a smaller room in Zone 1 instead**: a capsule, a windowless room or a compact-format hotel. Our [pod hotels guide](/articles/pod-hotels-london/) and [windowless rooms guide](/articles/windowless-hotel-rooms-london/) cover both, and both start under £70 a night in the West End.
+**Booking Zone 3 to save £20 a night.** The daily fare cap is £10.50 for Zones 1–3 against £8.90 for Zones 1–2, a difference of £1.60 a person a day. What you are buying is twenty to twenty-five minutes each way, and on a sightseeing trip you make that journey two or three times a day. Four days of that is most of a day underground. **Take a smaller room in Zone 1 instead**: a capsule, a windowless room or a compact-format hotel. Our [pod hotels guide](/articles/pod-hotels-london/) and [windowless rooms guide](/articles/windowless-hotel-rooms-london/) cover both, and both start under £70 a night in the West End.
 
-**Booking where the sightseeing is.** Westminster has the Abbey and Parliament and almost nothing open in the evening. Soho is where London goes out, and one of the hardest places in it to sleep. Decide the two separately, then use [the visiting guide](/articles/best-areas-to-visit-london/) for the daytime half.
+**Booking where the sightseeing is.** Westminster has the Abbey and Parliament and almost nothing open in the evening. Soho is where London goes out, and one of the hardest places in it to sleep. Decide the two separately, and use [the visiting guide](/articles/best-areas-to-visit-london/) for the daytime half.
 
-**Booking the cheapest room grade without reading what it is.** Both Z Hotels here lead with a windowless "Inside" rate. art'otel Hoxton charges about £56 for breakfast on top of a £230 room. Zedwell cleans every four days rather than daily and charges £15 a piece for luggage storage. All of them are decided at the booking page and none is in the headline.
+**Booking the cheapest room grade without reading what it is.** Both Z Hotels here lead with a windowless "Inside" rate. art'otel Hoxton charges about £56 for breakfast on top of a £230 room. Zedwell cleans every four days rather than daily and charges £15 a piece for luggage storage. None of this is in the headline price.
 
 ## And if you are staying more than four nights
 
@@ -522,4 +522,4 @@ Beyond about the third or fourth night a kitchen starts to pay for itself, mostl
 
 If you are not staying the night at all (a long layover, an evening flight, a bag and a shower), a [day room](/articles/day-rooms-london/) is cheaper than any of this. If the dog is coming, [our dog-friendly hotels guide](/articles/dog-friendly-hotels-london/) compares hotels on the fee, the weight limit and the walk to the nearest park. If you want a swim, [London hotels with a pool](/articles/hotels-with-pool-london/) gives each pool's length, whether guests swim free and when children are allowed in; the rooftop ones are in Knightsbridge, Battersea and Shoreditch, and The Berkeley's opens in spring and summer only. For hostel beds, see [London hostels compared](/articles/best-hostels-london/).
 
-*Room rates change nightly, so check prices for your own dates. Tube times are weekday-morning journeys to Piccadilly Circus.*
+*Room rates change nightly, so check prices for your own dates.*
