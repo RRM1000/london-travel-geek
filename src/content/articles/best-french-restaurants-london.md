@@ -5,7 +5,8 @@ description: "Duck pressed at your table, unapologetic bourgeois cooking above a
 heroImage: "../../assets/articles/best-french-restaurants-london/l-escargot.jpg"
 heroImageAlt: "The green awnings and frontage of L'Escargot on Greek Street"
 publishedAt: 2026-09-10
-updatedAt: 2026-09-19
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -13,20 +14,20 @@ tags: [restaurants, French restaurants, fine dining, bistro, dining]
 draft: false
 faq:
   - q: "What is the best French restaurant in London?"
-    a: "Two of London's six three-Michelin-star restaurants are French — Alain Ducasse at The Dorchester and Hélène Darroze at The Connaught. For a fraction of the price, Bouchon Racine above a Farringdon pub was named restaurant of the year by several critics."
+    a: "Two of London's six three-Michelin-star restaurants are French — Alain Ducasse at The Dorchester and Hélène Darroze at The Connaught. Bouchon Racine, above a Farringdon pub, was named best restaurant in the UK at the 2026 National Restaurant Awards."
   - q: "Where can I eat classic French bistro food in London?"
-    a: "Bouchon Racine in Clerkenwell does unapologetic bourgeois cooking — the kind of food that fell out of fashion and came back. La Poule au Pot in Belgravia has been doing coq au vin by candlelight since the 1960s."
+    a: "Bouchon Racine in Clerkenwell does unapologetic bourgeois cooking. La Poule au Pot in Belgravia has been doing coq au vin by candlelight since the 1960s."
   - q: "What is canard à la presse?"
     a: "A duck carved and then pressed at your table to extract the juices for the sauce, using a silver press. Otto's in Holborn is one of the last places in London performing it, and it must be ordered in advance."
   - q: "Which London restaurant is most romantic?"
-    a: "La Poule au Pot in Belgravia — candlelight, coq au vin and a garden terrace, unchanged since the 1960s. Clos Maggiore in Covent Garden is the other answer, though it is Provençal rather than strictly French."
+    a: "La Poule au Pot in Belgravia serves coq au vin by candlelight and has a garden terrace. Clos Maggiore in Covent Garden is the other answer, though it is Provençal rather than strictly French."
   - q: "Is French food in London expensive?"
     a: "The starred rooms are. The bistro end is not — Bouchon Racine and the neighbourhood bistros run £40–£55 a head, and lunch menus at almost every French restaurant here are materially cheaper than dinner."
 ---
 
-French cooking in London runs from two three-star hotel dining rooms to a Farringdon pub upstairs doing bourgeois classics that had gone out of fashion entirely. The revival at the bistro end has been the more interesting story.
+French cooking in London runs from two three-star hotel dining rooms to a Farringdon pub upstairs doing bourgeois classics.
 
-> 💡 **The Short Version:** **Alain Ducasse** and **Hélène Darroze** are two of London's six three-star kitchens. **Bouchon Racine** is the bistro revival, above a pub. **Otto's** presses duck at your table. **La Poule au Pot** has been romantic by candlelight since the 1960s. And **lunch is much cheaper everywhere**.
+> 💡 **The Short Version:** **Alain Ducasse** and **Hélène Darroze** are two of London's six three-star kitchens. **Bouchon Racine** is the bistro revival, above a pub. **Otto's** presses duck at your table. **La Poule au Pot** serves coq au vin by candlelight. And **lunch is much cheaper everywhere**.
 
 > 📊 **The evidence behind this guide.**
 > **7 sources carrying 114 citations** across **72 named restaurants**. **19 restaurants are named by two or more independent sources; 27 carry a dated Good Food Guide listing.**
@@ -59,11 +60,11 @@ French cooking in London runs from two three-star hotel dining rooms to a Farrin
 
 *££££ · Park Lane · book months ahead*
 
-**Classical French haute cuisine at three Michelin stars**, inside The Dorchester on Park Lane — the most decorated French kitchen in the country and one of only a handful of three-star rooms in Britain.
+**Classical French haute cuisine at three Michelin stars**, inside The Dorchester on Park Lane.
 
-The cooking is Ducasse orthodoxy: sauces reduced for hours, luxury produce handled with restraint, and a tasting menu that moves slowly. The room's other draw is the **Table Lumière** — a private table for six ringed by a curtain of fibre optics, and the single most requested seat in Mayfair.
+The cooking is classical: sauces reduced for hours, luxury produce, and a tasting menu that moves slowly. The **Table Lumière** is a private table for six ringed by a curtain of fibre optics.
 
-**££££, closed Sunday and Monday, and it books months ahead. Ask about the Table Lumière specifically when booking; it is not offered by default.**
+**Closed Sunday and Monday. Ask about the Table Lumière specifically when booking; it is not offered by default.**
 
 ![Two slices of rare-cooked beef with crisped artichoke, mushrooms and slivers of pear on a plain cream plate](../../assets/articles/best-french-restaurants-london/alain-ducasse-dorchester.jpg)
 
@@ -73,11 +74,11 @@ The cooking is Ducasse orthodoxy: sauces reduced for hours, luxury produce handl
 
 *££££ · Carlos Place · book months ahead* · Cited by 1 source
 
-**Three stars for cooking rooted in Darroze's native Landes**, in south-west France — a regional French kitchen at the very top end, which London has almost none of. The **third star came in 2021**.
+**Three stars for cooking rooted in Darroze's native Landes**, in south-west France. The **third star came in 2021**.
 
-Expect the produce of Gascony treated at three-star level: **Landes duck, foie gras, Armagnac**, and vegetables from named growers, in a tasting sequence chosen from an ingredient list rather than a fixed menu. It is warmer and less austere than most cooking at this level.
+Expect the produce of Gascony: **Landes duck, foie gras, Armagnac**, and vegetables from named growers, in a tasting sequence chosen from an ingredient list rather than a fixed menu.
 
-**££££, closed Sunday and Monday, books months ahead.** Inside The Connaught, so the room is the hotel's rather than the restaurant's own.
+**Closed Sunday and Monday.** It is inside The Connaught, so the room is the hotel's.
 
 ![A seared, seed-crusted piece of foie gras in a dark jus, with a small ravioli, charred onion petals, purée dots and a blue cornflower on a ridged white plate](../../assets/articles/best-french-restaurants-london/helene-darroze-connaught.jpg)
 
@@ -91,11 +92,11 @@ Expect the produce of Gascony treated at three-star level: **Landes duck, foie g
 
 *££££ · 3 min from Farringdon · above a pub* · Cited by 3 sources
 
-**Henry Harris cooking unapologetic French bourgeois food above a Farringdon pub** — and **named the best restaurant in the UK at the 2026 National Restaurant Awards**, which is a considerable thing for a room over a boozer.
+**Henry Harris cooking unapologetic French bourgeois food above a Farringdon pub**, **named the best restaurant in the UK at the 2026 National Restaurant Awards**.
 
-The menu is the old repertoire done without irony: **snails, veal kidneys, duck confit, tarte tatin**, in butter and cream quantities modern kitchens have talked themselves out of. Harris ran Racine in Knightsbridge for a decade before this.
+The menu is the old repertoire: **snails, veal kidneys, duck confit, tarte tatin**.
 
-**££££, closed Sunday and Monday, and it books months ahead** — considerably harder to get into since the award.
+**Closed Sunday and Monday**, and harder to book since the award.
 
 ![Tomatoes, green beans, anchovy fillets, almonds and croutons piled on a bed of cream on a white plate, on a white tablecloth](../../assets/articles/best-french-restaurants-london/bouchon-racine.jpg)
 
@@ -105,11 +106,11 @@ The menu is the old repertoire done without irony: **snails, veal kidneys, duck 
 
 *££££ · 5 min from Sloane Square · since the 1960s* · Cited by 1 source
 
-**Trading since the 1960s on coq au vin, beef bourguignon and candlelight** — the most reliably romantic dining room in London by some distance, and it has not changed in decades.
+**Trading since the 1960s on coq au vin, beef bourguignon and candlelight.**
 
-The menu is written in French with no translation, which is part of the act. **Coq au vin**, **bœuf bourguignon** and a whole roast chicken for two, brought to the table in the dish they were cooked in, at tables crowded with dried flowers and mismatched china.
+The menu is in French with no translation. **Coq au vin**, **bœuf bourguignon** and a whole roast chicken for two come to the table in the dish they were cooked in, among dried flowers and mismatched china.
 
-**££££ and it books weeks ahead.** Belgravia. Ask for a corner table; the room is dark.
+Ask for a corner table; the room is dark.
 
 ![Coq au vin in a terracotta dish set on a green-patterned plate, with mashed potato in a floral bowl, a glass of white wine and a wooden pepper mill on the table](../../assets/articles/best-french-restaurants-london/la-poule-au-pot.jpg)
 
@@ -125,11 +126,11 @@ The menu is written in French with no translation, which is part of the act. **C
 
 *££££ · 7 min from Chancery Lane · order in advance* · Cited by 4 sources
 
-**Canard à la presse carved and pressed at the table** — one of the last places in London performing classical French service as theatre, and a reason to book beyond the food.
+**Canard à la presse carved and pressed at the table**, a classical French service few London restaurants still perform.
 
 The duck is roasted, carved, and the carcass crushed in a **silver duck press** to extract the juices for the sauce, all in front of you, over about forty minutes. It must be ordered **48 hours in advance**. Beyond it, lobster Thermidor and the rest of the old canon.
 
-**££££, closed Sunday and Monday, books weeks ahead.** Order the duck when you book or do not bother coming for it.
+**Closed Sunday and Monday.** Order the duck when you book.
 
 ### Brooklands, Belgravia
 
@@ -137,9 +138,9 @@ The duck is roasted, carved, and the carcass crushed in a **silver duck press** 
 
 **Claude Bosi cooking on the roof of the Peninsula**, in a room themed on British motor racing and aviation, looking over Hyde Park Corner — with a **Concorde model suspended through the dining room**.
 
-Bosi holds two stars at Bibendum and the cooking here is in the same register: French technique, British produce, and a tasting menu that takes its time. The view over Wellington Arch and the park is the other half of the ticket.
+Bosi holds two stars at Bibendum; the cooking here is French technique with British produce, in a tasting menu. The view is over Wellington Arch and the park.
 
-**££££, closed Sunday and Monday, and it books months ahead.** Ask for a window table when booking, because the view from the roof is what you are paying for.
+**Closed Sunday and Monday.** Ask for a window table when booking.
 
 ![Four small tasting-menu courses on separate white plates and a bowl, each holding a single mouthful, on a white tablecloth](../../assets/articles/best-french-restaurants-london/brooklands.jpg)
 
@@ -153,21 +154,19 @@ Bosi holds two stars at Bibendum and the cooking here is in the same register: F
 
 *£££ · Borough Market* · Cited by 3 sources
 
-A Borough Market bistro cooking the French provincial repertoire without apology — small, permanently full, and one of the openings that made French food fashionable in London again.
+A small Borough Market bistro cooking the French provincial repertoire.
 
-The menu is short and changes constantly: **terrines and pâté en croûte**, offal, slow-cooked meat, and a **tarte** to finish. Everything leans on the market it sits beside, so what is on depends on the day. Natural wine list rather than a classical one.
+The menu is short and changes constantly: **terrines and pâté en croûte**, offal, slow-cooked meat, and a **tarte** to finish. It leans on the market next door, so what is on depends on the day. The wine list is natural rather than classical.
 
-**£££ and it books weeks ahead** — a small room with a large following. Lunch is easier to get than dinner.
+Lunch is easier to book than dinner.
 
 ### Casse-Croûte, Bermondsey
 
 *£££ · Bermondsey Street* · Cited by 5 sources
 
-**Three dishes per course chalked on a board, a room the size of a front parlour, and no concession to anything but France** — the most convincingly French room in London, and one of the smallest.
+**Three dishes per course chalked on a board, in a room the size of a front parlour.**
 
-The board changes daily and offers exactly three starters, three mains and three puddings. Expect **rillettes, blanquette de veau, îles flottantes** — bistro cooking done seriously, in a room with about twenty covers and red-checked tablecloths.
-
-**£££ and it books weeks ahead.** Bermondsey Street. Three editorial sources and a Good Food Guide entry — as much agreement as this topic produces.
+The board changes daily: three starters, three mains, three puddings. Expect **rillettes, blanquette de veau, îles flottantes**, in a room with about twenty covers and red-checked tablecloths.
 
 ![A plate of galette with charcuterie and salad on a checked tablecloth](../../assets/articles/best-french-restaurants-london/casse-croute.jpg)
 *Casse-Croûte, Bermondsey Street. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/34881836400), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -177,21 +176,21 @@ The board changes daily and offers exactly three starters, three mains and three
 
 *£££ · Tanner Street Park* · Cited by 4 sources
 
-**The Casse-Croûte team in a former park pavilion in Bermondsey**, built around **rotisserie chicken** and a short set menu — the same hands, a different and cheaper format.
+**The Casse-Croûte team in a former park pavilion in Bermondsey**, built around **rotisserie chicken** and a short set menu, from the same team in a cheaper format.
 
-The chicken comes off the spit and is the dish to order; there is a **set menu** of five or so courses for anyone wanting the full treatment. The pavilion setting, in Tanner Street Park, is unlike anywhere else in this guide.
+The chicken comes off the spit and is the dish to order; there is a **set menu** of five or so courses for anyone wanting the full treatment.
 
-**£££ and it books weeks ahead.** Easier to get into than Casse-Croûte and roughly as good.
+Easier to book than Casse-Croûte.
 
 ### 64 Goodge Street, Fitzrovia
 
 *£££ · 64 Goodge Street* · Cited by 3 sources
 
-**A Fitzrovia brasserie from the Woodhead group doing the format straight** — steak frites, a long bar, and late service, with none of the reinvention the postcode usually attracts.
+**A Fitzrovia brasserie from the Woodhead group** with steak frites, a long bar and late service.
 
-**Steak frites** is the order and the reason the room exists; oysters, soufflé and the standard brasserie canon around it. The bar runs the length of the room and takes walk-ins when the tables have gone.
+**Steak frites** is the order, with oysters, soufflé and the standard brasserie canon. The bar runs the length of the room and takes walk-ins when the tables have gone.
 
-**£££, books weeks ahead**, and serving later than most of this guide — useful after a show or a late finish.
+It serves later than most of this guide, useful after a show or a late finish.
 
 ![A chicken breast with crisp skin and a slice of stuffed ballotine in a glossy red wine sauce, with mushrooms, glazed shallots, watercress and a quenelle, on a blue-rimmed plate](../../assets/articles/best-french-restaurants-london/64-goodge-street.jpg)
 
@@ -201,21 +200,19 @@ The chicken comes off the spit and is the dish to order; there is a **set menu**
 
 *£££ · Duke Street* · Cited by 3 sources
 
-**A grand Parisian brasserie in St James's**, done at full scale — high ceilings, banquettes, a trolley, and the sort of room London stopped building decades ago.
+**A large Parisian brasserie in St James's**, with high ceilings, banquettes and a trolley.
 
-Classic brasserie cooking with the theatre intact: **the dessert trolley**, wheeled over and worked through in front of you, and a **grand plateau de fruits de mer** for the table. Steak, sole and soufflé behind them. **Frank's**, the bar downstairs, is a separate and quieter proposition.
-
-**££££ and it books weeks ahead.** One of the few large French dining rooms in central London.
+Classic brasserie cooking: **the dessert trolley**, wheeled over and worked through in front of you, and a **grand plateau de fruits de mer** for the table. Steak, sole and soufflé behind them. **Frank's**, the bar downstairs, is a separate and quieter proposition.
 
 ### Les 2 Garçons, Crouch End
 
 *£££ · Crouch End* · Cited by 2 sources
 
-**A Crouch End neighbourhood bistro that would pass without comment in Lyon** and stands out considerably in north London — run by two Frenchmen, as the name says.
+**A Crouch End neighbourhood bistro run by two Frenchmen, as the name says.**
 
-The menu is short and traditional: **escargots, steak tartare, duck confit, crème brûlée**, cooked and priced for a neighbourhood rather than for a destination. Nothing on it is trying to be modern.
+The menu is short and traditional: **escargots, steak tartare, duck confit, crème brûlée**.
 
-**£££, closed Sunday and Monday, and it books weeks ahead** — a small room and a local following that fills it.
+**Closed Sunday and Monday.**
 
 ---
 
@@ -227,9 +224,9 @@ The menu is short and traditional: **escargots, steak tartare, duck confit, crè
 
 *£££ · Monmouth Street* · Cited by 3 sources
 
-**London's oldest French restaurant**, opened in the 1940s, with a zinc bar salvaged from a Lyon brasserie and four connected dining rooms that have been added one at a time over the decades.
+**London's oldest family-run French restaurant**, in business since the 1940s, with a zinc bar salvaged from a Lyon brasserie and four connected dining rooms.
 
-Most people come for the pre-theatre menu, which is cheap for the postcode.
+Most people come for the pre-theatre menu.
 
 ![A tureen of soup with croutons on a lion-footed bowl](../../assets/articles/best-french-restaurants-london/mon-plaisir.jpg)
 
@@ -239,11 +236,11 @@ Most people come for the pre-theatre menu, which is cheap for the postcode.
 
 *£££ · Greek Street* · Cited by 3 sources
 
-**Soho's oldest French restaurant, open since 1927**, on Greek Street — and the room has the layers of history to match, with a private dining floor above the main one.
+**Established in 1896 and on Greek Street since 1927**, with a private dining floor above the main room.
 
-**Snails** are on the menu for the obvious reason and are the thing to order at least once, alongside a full classical repertoire: **coq au vin, steak tartare, soufflé**. The ground-floor room is the one with the atmosphere.
+**Snails** are the thing to order, alongside a classical repertoire: **coq au vin, steak tartare, soufflé**. The ground-floor room has the atmosphere.
 
-**£££ and it books ahead.** Central Soho, so it works before a theatre; the dining room upstairs is quieter.
+Central Soho, so it works before a theatre; the dining room upstairs is quieter.
 
 ![The green awnings and frontage of L'Escargot on Greek Street](../../assets/articles/best-french-restaurants-london/l-escargot.jpg)
 *L'Escargot, Greek Street. Photo: [michaeljohnbutton](https://www.flickr.com/photos/73156278@N08/9671711481), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -253,11 +250,11 @@ Most people come for the pre-theatre menu, which is cheap for the postcode.
 
 *££ · Dean Street · no chips, no phones* · Cited by 5 sources
 
-**The Soho pub that was the Free French headquarters in the war** — de Gaulle drank here — with a small dining room above it and **beer served only in halves downstairs**, which is a house rule rather than a gimmick.
+**The Soho pub that was the Free French headquarters in the war**, with a small dining room above it and **beer served only in halves downstairs**.
 
-The upstairs room does a short, changing menu of French and British cooking: offal, whole fish, and the sort of dishes that suit the room. **No music, no mobile phones downstairs**, and people come for the bar as much as the food.
+The upstairs room does a short, changing menu of French and British cooking: offal, whole fish. **No music, no mobile phones downstairs.**
 
-**£££ and the dining room books weeks ahead.** Drink in halves downstairs first; it is the tradition and they will not serve you a pint anyway.
+The dining room books weeks ahead. Drink in halves downstairs first; they do not serve pints.
 
 ![The upstairs dining room at The French House, red walls hung with framed black-and-white photographs around an ornate silver mirror, with bentwood chairs and white-clothed tables](../../assets/articles/best-french-restaurants-london/the-french-house.jpg)
 
@@ -267,11 +264,11 @@ The upstairs room does a short, changing menu of French and British cooking: off
 
 *££££ · Michelin star · a converted chapel* · Cited by 3 sources
 
-**A Michelin-starred dining room inside a former Victorian girls' school chapel** in Spitalfields — vaulted ceilings, arched windows and a mezzanine, and one of the most striking dining rooms in London.
+**A Michelin-starred dining room inside a former Victorian girls' school chapel** in Spitalfields, with vaulted ceilings, arched windows and a mezzanine.
 
 The cooking is classical French with a light touch: **Dorset crab lasagne**, tagine of Bresse pigeon, and a soufflé to finish. The Galvin brothers have held the star here since 2011.
 
-**££££ and it books weeks ahead.** The set lunch is significantly cheaper than dinner and served in the same room.
+The set lunch is cheaper than dinner and served in the same room.
 
 ![Sliced duck breast with red cabbage and a dark sauce](../../assets/articles/best-french-restaurants-london/galvin-la-chapelle.jpg)
 *Galvin La Chapelle, Spitalfields. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4286655868), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -281,11 +278,11 @@ The cooking is classical French with a light touch: **Dorset crab lasagne**, tag
 
 *££££ · Michelin star · by Wandsworth Common* · Cited by 2 sources
 
-**A neighbourhood restaurant on Wandsworth Common that has held a Michelin star for over two decades** — and is still, above everything, somewhere local people eat regularly.
+**A neighbourhood restaurant on Wandsworth Common that has held a Michelin star for over two decades.**
 
-The cooking is French with British produce and no theatre: **offal treated seriously**, a strong cheese board wheeled to the table, and puddings in the old style. The set menu format keeps it accessible for what it is.
+The cooking is French with British produce: **offal**, a cheese board wheeled to the table, and puddings in the old style. It runs a set menu.
 
-**££££ and it books weeks ahead** — particularly for Sunday lunch, which is the service locals guard. A long way from central London and worth the journey.
+Book weeks ahead, particularly for Sunday lunch. It is a long way from central London.
 
 ![The frontage of Chez Bruce beside Wandsworth Common](../../assets/articles/best-french-restaurants-london/chez-bruce.jpg)
 *Chez Bruce, Wandsworth. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2879798210), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -295,11 +292,11 @@ The cooking is French with British produce and no theatre: **offal treated serio
 
 *£££ · a wine warehouse* · Cited by 2 sources
 
-**A wine warehouse with a restaurant attached** on the Haggerston side of Kingsland Road — members store their own bottles in the racks along the wall, which is the room's organising idea.
+**A wine warehouse with a restaurant attached** on the Haggerston side of Kingsland Road; members store their own bottles in the racks along the wall.
 
-The kitchen cooks modern French to match the cellar: a short menu built around **fire and fermentation**, with plates designed to be ordered against a bottle rather than the other way round. You do not need to be a member to eat there.
+The kitchen cooks modern French to match the cellar: a short menu built around **fire and fermentation**, with plates designed to be ordered against a bottle. You do not need to be a member to eat there.
 
-**£££ and it books ahead.** Come for the wine list; the food is built to serve it and does the job well.
+Come for the wine list.
 
 ---
 
@@ -307,24 +304,22 @@ The kitchen cooks modern French to match the cellar: a short menu built around *
 
 ## Best value
 
-French food in London has a reputation for being expensive that the bistro end no longer deserves.
-
 ### Borough Market
 
-The cheapest French food in London is **standing up at Borough Market**. There is raclette scraped onto potatoes, saucisson and cheese from the French traders, and galettes from the crêpe stalls — a proper lunch for under a tenner, thirty seconds from Camille's front door.
+French food is cheapest **standing up at Borough Market**: raclette scraped onto potatoes, saucisson and cheese from the French traders, and galettes from the crêpe stalls — a proper lunch for under a tenner, thirty seconds from Camille's front door.
 
-**Maltby Street Market** ten minutes away does the same trick on Saturdays, with fewer people.
+**Maltby Street Market**, ten minutes away, does the same on Saturdays.
 
 #### Pre-theatre and set lunch
 
-* **Mon Plaisir's pre-theatre menu** is among the cheapest sit-down French meals in Covent Garden, in London's oldest French restaurant.
-* **Pique-Nique's set menu** is materially cheaper than its sibling Casse-Croûte for the same kitchen's thinking.
-* **Otto's set lunch** costs a fraction of the pressed duck — and the duck needs ordering in advance anyway.
-* **Lunch menus generally.** Every restaurant on this page runs one at a fraction of dinner, from the same kitchen. This is more true of French restaurants in London than of any other cuisine.
+* **Mon Plaisir's pre-theatre menu** is the cheaper way into London's oldest family-run French restaurant.
+* **Pique-Nique's set menu** is cheaper than its sibling Casse-Croûte.
+* **Otto's set lunch** costs a fraction of the pressed duck, and the duck needs ordering in advance anyway.
+* **Lunch menus generally.** Almost every restaurant on this page runs one for materially less than dinner, from the same kitchen.
 
 #### The bistros
 
-* **Bouchon Racine** is still the best-value serious French cooking in London, and it is above a pub.
+* **Bouchon Racine** serves serious French cooking above a pub.
 * **Casse-Croûte** and **Les 2 Garçons** both run about £40–£55 a head for three courses.
 * **The French House** is a pub, and priced like one downstairs.
 
@@ -336,10 +331,9 @@ The cheapest French food in London is **standing up at Borough Market**. There i
 
 ## What to know
 
-* **Canard à la presse must be ordered in advance** — it is a whole-duck preparation and takes the kitchen a long time.
-* **The Table Lumière at Ducasse** seats six and is requested more than any other table in Mayfair. Ask early.
+* **Canard à la presse must be ordered in advance**, 48 hours ahead at Otto's.
+* **The Table Lumière at Ducasse** seats six. Ask early.
 * **Dress codes** are smart at the hotel rooms; the bistros have none.
-* **Lunch is the value.** This is more true of French restaurants in London than any other cuisine.
 * **Service charge** of 12.5% is discretionary and standard.
 
 ---
