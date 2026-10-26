@@ -263,7 +263,7 @@ The Wunderground Bar & Kitchen is open without a ticket. Adult-only After Hours 
 
 *All ages · three minutes from Custom House station (Elizabeth line, DLR) · Immerse LDN ticket holders ride the Cable Car for £3 single*
 
-**[Euphoria: Art is in the Air](https://london.balloonmuseum.world/en/shop/tickets)** (Balloon Museum, 24 October 2026 to August 2027) has 13 giant artworks that react to you: an inflatable maze, a vortex, a room of hundreds of balloons. It spans two floors with lift access and takes 1 to 1.5 hours.
+**[Euphoria: Art is in the Air](https://london.balloonmuseum.world/en/shop/tickets)** (Balloon Museum, from 24 October 2026) has 13 giant artworks that react to you: an inflatable maze, a vortex, a room of hundreds of balloons. It spans two floors with lift access and takes 1 to 1.5 hours.
 
 **[House of Dreamers](https://www.immerseldn.com/events/house-dreamers-london)** (to November 2026) is 16 installations by the designers Elena and Giulia Sella.
 
