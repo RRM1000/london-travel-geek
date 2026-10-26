@@ -169,7 +169,7 @@ The central sibling of the Peckham original, on top of the National Theatre with
 
 Alongside the open garden — shrubs, trees, the City skyline to the west — there is a **heated glass orangery**, so it is a year-round booking rather than a summer one.
 
-The food is grill-led Mediterranean: chermoula prawns with sesame mayonnaise, lamb köfte, octopus with sundried tomato, a vegan moussaka. Seasonal hours currently run noon to 11pm every day; the rooftop is 18+ and dogs are not permitted.
+The food is grill-led Mediterranean: chermoula prawns with sesame mayonnaise, lamb köfte, octopus with sundried tomato, a vegan moussaka. On seasonal hours it opens noon to 11pm every day; the rooftop is 18+ and dogs are not permitted.
 
 ### Coq d'Argent, Bank
 
