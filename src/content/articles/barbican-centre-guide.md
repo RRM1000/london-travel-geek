@@ -1,10 +1,10 @@
 ---
 title: "What's On at the Barbican: Concerts, Theatre, Film and How to Visit"
 seoTitle: "What's On at the Barbican: Tickets, Food, Getting There"
-description: "Every upcoming concert, play, film event and talk at the Barbican, updated twice a week, plus the £4 booking fee you avoid by buying at the desk, the £6 tickets for 16 to 29s, the bag rule, and where to eat before a show."
+description: "Every upcoming concert, play, film event and talk at the Barbican, updated daily, plus the £4 booking fee you avoid by buying at the desk, the £6 tickets for 16 to 29s, the bag rule, and where to eat before a show."
 publishedAt: 2026-06-10
-updatedAt: 2026-09-23
-reviewBy: 2027-03-01
+updatedAt: 2026-10-26
+reviewBy: 2027-01-02
 heroImage: "../../assets/articles/barbican-centre-guide/barbican-lakeside-terrace.jpg"
 heroImageAlt: "The Barbican Centre's Lakeside Terrace on a sunny day, with people at benches and tables beside the fountains and the long balconied block of Barbican flats behind"
 sites: [london]
@@ -22,9 +22,9 @@ faq:
   - q: "Can I take a bag into the Barbican?"
     a: "One reasonably sized handbag per person into the auditoria, and bags are searched. The Barbican suggests nothing bigger than 32 x 18 x 22cm. Anything larger goes in the free cloakroom on the Stalls floor (Level -1), open from 90 minutes before a performance; a £2 donation is asked for but voluntary."
   - q: "Is the Barbican Conservatory free?"
-    a: "Yes, but it's ticketed and only open on listed dates. Free tickets are released online a month ahead, and a limited number of day tickets go on sale at 9.30am each day it's open. Large bags, luggage, prams and buggies are not allowed inside."
+    a: "Yes, but it's ticketed and only open on listed dates, and none are scheduled at the moment. When it opens, free tickets are released online a month ahead, and a limited number of day tickets go on sale at 9.30am each day it's open. Large bags, luggage, prams and buggies are not allowed inside."
   - q: "Where can I eat at the Barbican before a show?"
-    a: "Barbican Kitchen on the ground floor serves all day, 9am to 8pm, with pizza, salads and small plates in the evening. The Barbican Bar & Grill on level 1 has a pre-theatre menu, with last orders at 9pm Monday to Saturday and 5pm on Sunday."
+    a: "Barbican Kitchen on the ground floor serves all day, 9am to 8pm, with pizza, salads and small plates in the evening. The Barbican Bar & Grill on level 1 has a pre-theatre menu, with last orders at 9pm Monday to Saturday and 7pm on Sunday."
 ---
 
 > 💡 **The Short Version:** The Barbican is the City of London's arts centre: home of the **London Symphony Orchestra** and a London base of the **Royal Shakespeare Company**, with a concert hall, two theatres, three cinemas and an art gallery under one roof. Its full programme is below and updates daily. Come to the **Silk Street** entrance, four minutes from **Barbican** station or seven from **Moorgate** on the Elizabeth line. Buy at the desk on **Level G** and you skip the **£4** online booking fee. If you're **16 to 29**, sign up free to Young Barbican first: tickets start at **£6**. Bring one small bag, or leave the rest in the free cloakroom on **Level -1**.
@@ -47,7 +47,7 @@ Booking online or by phone costs **£4 per transaction**, or **£1.50** for cine
 
 ## Getting there
 
-All the Barbican's recommended routes lead to the main entrance on **Silk Street**. Walk times are the Barbican's own:
+All the Barbican's recommended routes lead to the main entrance on **Silk Street**:
 
 | Station | Walk | Lines |
 |---|---|---|
@@ -82,7 +82,7 @@ Only **one reasonably sized handbag per person** goes into the auditoria, and al
 **In the building:**
 
 - **Barbican Kitchen** (Level G) serves **9am to 8pm every day**: toasted sandwiches and salads by day, hand-stretched pizza and small plates in the evening. Under-10s eat free from the kids' menu with every adult meal over £10.
-- **Barbican Bar & Grill** (level 1, run by Searcys) has a pre-theatre menu and a terrace over the lake from April to September. Last orders are **9pm Monday to Saturday and 5pm on Sunday**, so on a Sunday eat early or eat elsewhere. [Its page on the Barbican's site](https://www.barbican.org.uk/your-visit/eat-drink/barbican-bar-grill) has the menus and table booking.
+- **Barbican Bar & Grill** (level 1, run by Searcys) has a pre-theatre menu and a terrace over the lake from April to September. Last orders are **9pm Monday to Saturday and 7pm on Sunday**. [Its page on the Barbican's site](https://www.barbican.org.uk/your-visit/eat-drink/barbican-bar-grill) has the menus and table booking.
 - **The Martini Bar** on the first floor looks over the foyers and the lake, for a drink before curtain up.
 
 ![Barbican Kitchen: long wooden tables and stools under trailing plants and racks of glass-jar lights, with diners by the windows](../../assets/articles/barbican-centre-guide/barbican-kitchen.jpg)
@@ -91,7 +91,7 @@ Only **one reasonably sized handbag per person** goes into the auditoria, and al
 
 **A short walk away**, around Smithfield, St John Street and Old Street:
 
-- **[St John](https://www.stjohnrestaurant.com/)** on St John Street: Fergus Henderson's whole-animal cooking, open since 1994.
+- **[St John](https://www.stjohnrestaurant.com/)** on St John Street: Fergus Henderson's whole-animal cooking.
 - **[Luca](https://luca.restaurant/)**, further up St John Street: Italian cooking through British produce, from the Clove Club team.
 - **[Ibai](https://www.ibai.london/)** on Bartholomew Close: Basque cooking over fire. It books up weeks ahead, so reserve when you buy the tickets.
 - **[Kennedy's](http://www.kennedyslondon.co.uk/)** on Goswell Road: pies baked on the premises and fish and chips, walk-in.
@@ -110,7 +110,7 @@ For other ways to split a trip between the City and the West End, see [where to 
 
 ## Free at the Barbican
 
-- **The Conservatory.** London's second-largest conservatory, a tropical garden inside the Centre, open on listed dates only. Entry is free but ticketed: tickets are released online **a month ahead**, and a few day tickets go on sale at **9.30am** each open day. Large bags, prams and buggies aren't allowed. [See dates and book](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory).
+- **The Conservatory.** A tropical garden inside the Centre, which the Barbican bills as the second biggest conservatory in London. It opens on listed dates only, and none are scheduled at the moment. Entry is free but ticketed: tickets are released online **a month ahead**, and a few day tickets go on sale at **9.30am** each open day. Large bags, prams and buggies aren't allowed. [See dates and book](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory).
 - **Concrete and Clay: Archiving the Barbican**, a free display in the foyers about the building's history, runs until **1 January 2027**.
 - **The Barbican Library**, a public lending library inside the Centre.
 
@@ -132,4 +132,4 @@ The Barbican runs **captioned**, **BSL-interpreted**, **audio-described** and **
 - 🖼️ **[Best Galleries in London](/articles/best-galleries-london/)**
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)**
 
-*Prices, opening hours and policies from the Barbican's own website, checked 22 September 2026. The listings are read from the Barbican's box office and refresh daily.*
+*Prices and opening hours as of October 2026. The listings are read from the Barbican's box office and refresh daily.*
