@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Excel_London_Summer_20
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-06-17
-updatedAt: 2026-10-25
-reviewBy: 2026-11-14
+updatedAt: 2026-10-26
+reviewBy: 2026-11-29
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -19,34 +19,34 @@ draft: false
 venueEvents: "ExCeL London"
 faq:
   - q: "Which station is nearest to ExCeL London?"
-    a: "It depends which end of the building your event is in. Custom House, on the Elizabeth line and DLR, sits right against the West Entrance — about 200m, a couple of minutes on foot. Prince Regent, DLR only, is the same distance from the East Entrance and the ICC suites. The two stations are roughly a kilometre apart walking through the venue, so check your event's hall or entrance before picking a station, not the other way round."
+    a: "It depends which end of the building your event is in. Custom House, on the Elizabeth line and DLR, is about 200m from the West Entrance. Prince Regent, DLR only, is the same distance from the East Entrance and the ICC suites. The two stations are roughly a kilometre apart walking through the venue, so check your event's hall or entrance before picking a station."
   - q: "Can you take your own food and drink into ExCeL?"
-    a: "There's no single venue-wide rule — ExCeL hosts a different organiser's event in each hall, and bag and food policy is set per show, not by the venue. What is constant: none of ExCeL's own food outlets take cash, so bring a contactless card, and a Market Express convenience shop (Amazon's tap-and-go format) sits by hall entrance N10 if you just need a bottle of water or a snack."
+    a: "Bag and food policy is set by each event's organiser, not the venue. What is constant: none of ExCeL's own food outlets take cash, so bring a contactless card, and a Market Express convenience shop (Amazon's tap-and-go format) sits by hall entrance N10 if you just need a bottle of water or a snack."
   - q: "How early should you arrive at ExCeL for a show?"
-    a: "Earlier than the ticket time suggests, because of the building's own geometry: the boulevard connecting the two entrances is about 600m, and if you land at the wrong end — say Custom House for an ICC conference — you're walking the better part of a kilometre before you've even reached the queue. Build in 20–30 minutes beyond the walk itself for security, which varies by event and can back up at a popular show's doors time."
+    a: "Earlier than the ticket time suggests. The boulevard connecting the two entrances is about 600m, so if you land at the wrong end — say Custom House for an ICC conference — you walk the better part of a kilometre before the queue. Allow 20–30 minutes beyond the walk for security, which varies by event and can back up at a popular show."
   - q: "How much does parking cost at ExCeL?"
-    a: "£27.50 a day pre-booked, £30 paying on the day, whether or not you hold a Blue Badge — both are charged at the same rate here, unlike venues that discount accessible bays. Pre-booking through ExCeL's own site is the only way to guarantee a space; the car park takes vehicles up to 1.9m without a booking, or up to 2.8m in a limited number of over-height bays."
+    a: "£27.50 a day pre-booked, £30 paying on the day, with Blue Badge holders paying the same. Pre-booking through ExCeL's own site is the only way to guarantee a space; the car park takes vehicles up to 1.9m without a booking, or up to 2.8m in a limited number of over-height bays."
   - q: "Is there a cloakroom at ExCeL?"
     a: "Yes, free of charge, subject to the organiser of your specific event allowing it. The main one is on Level 0, down the stairs between hall entrances N4 and S4, with a second at the east end of Level 0; the ICC's Capital Suite and Platinum Suite have their own. Nothing can be stored overnight, and cameras, laptops and other electronics aren't accepted."
   - q: "Do you pay the Congestion Charge or ULEZ to drive to ExCeL?"
-    a: "Not the Congestion Charge — the zone covers only central London, and Royal Docks is well outside it. ULEZ is different: since 2023 it covers every London borough with no gap, so a non-compliant car pays the standard £12.50 daily charge to park at or drive past ExCeL, the same as anywhere else in the city."
+    a: "Not the Congestion Charge: the zone covers only central London. ULEZ applies, as it has covered every London borough since 2023, so a non-compliant car pays the standard £12.50 daily charge to park at or drive past ExCeL."
   - q: "What's the quickest way to ExCeL from central London?"
-    a: "The Elizabeth line to Custom House, checked live against TfL's own journey planner: about 10 minutes from Liverpool Street, 16 from Tottenham Court Road, and a single stop — about 3 minutes, by ExCeL's own account — from Canary Wharf. Paddington is the outlier at around 21–24 minutes, since it's the long way across the line."
+    a: "The Elizabeth line to Custom House: about 10 minutes from Liverpool Street, 16 from Tottenham Court Road, and a single stop — about 3 minutes, by ExCeL's own account — from Canary Wharf. Paddington is the outlier at around 21–24 minutes, since it's the long way across the line."
 ---
 
-ExCeL London is a single building nearly a kilometre long, sitting between two DLR stations, with an Elizabeth line stop at one end and a cable car terminal a short walk from the other. Which of those you use depends entirely on which hall your event is in — get that wrong and the "five-minute walk" from the station becomes a fifteen-minute walk through the building.
+ExCeL London is a single building nearly a kilometre long, between two DLR stations, with an Elizabeth line stop at one end and a cable car terminal a short walk from the other. Which you use depends on which hall your event is in; get it wrong and a five-minute walk from the station becomes fifteen minutes through the building.
 
 ![ExCeL London's brick waterfront frontage and glass canopy along Royal Victoria Dock, with the Immerse LDN sign visible on the building](../../assets/articles/excel-london-guide/excel-exterior-waterfront.jpg)
 
 *ExCeL's Waterfront side, on Royal Victoria Dock.*
 
-> 💡 **The Short Version:** Custom House (Elizabeth line and DLR) serves the **West Entrance**; Prince Regent (DLR only) serves the **East Entrance and the ICC**. They're about a kilometre apart on foot. Parking is **£27.50 pre-booked / £30 on the day**, same price for Blue Badge holders, and the venue sits inside the **ULEZ** but outside the Congestion Charge zone. Cloakrooms are **free** but not guaranteed — it's down to the organiser of your event. Everything inside is **cashless**. For the show calendar, expect a different organiser and a different bag policy every time; there's no one venue-wide rule.
+> 💡 **The Short Version:** Custom House (Elizabeth line and DLR) serves the **West Entrance**; Prince Regent (DLR only) serves the **East Entrance and the ICC**. They're about a kilometre apart on foot. Parking is **£27.50 pre-booked / £30 on the day**, same price for Blue Badge holders, and the venue sits inside the **ULEZ** but outside the Congestion Charge zone. Cloakrooms are **free** but not guaranteed — it's down to the organiser of your event. Everything inside is **cashless**. Bag policy is set by each event's organiser.
 
 ---
 
 ## Which station for which end
 
-ExCeL was built long and thin along the north quay of Royal Victoria Dock, and the venue's own walking-distance guide for visitors makes the geometry explicit:
+ExCeL is long and thin along the north quay of Royal Victoria Dock:
 
 ![The purple Custom House roundel on the platform, with an Elizabeth line train alongside and the station canopy behind](../../assets/articles/excel-london-guide/custom-house-station.jpg)
 
@@ -64,13 +64,13 @@ ExCeL was built long and thin along the north quay of Royal Victoria Dock, and t
 | Prince Regent and the East Entrance | About 200m |
 | Custom House and the Waterfront (Immerse LDN) | About 420m |
 
-**Custom House** is the station for the West Entrance — it carries both the **Elizabeth line** and the **DLR**, and ExCeL's own advice is blunt about it: alight here for the west halls. **Prince Regent** is DLR only, and serves the **East Entrance and the ICC suites** (the Capital and Platinum Suites, used for conferences). Confirm which hall or suite your event is in before you travel — a west-hall show reached via Prince Regent means walking the better part of the building's length rather than the couple of hundred metres either station promises.
+**Custom House** is the station for the West Entrance, on both the **Elizabeth line** and the **DLR**. **Prince Regent** is DLR only and serves the **East Entrance and the ICC suites** (the Capital and Platinum Suites, used for conferences). Confirm which hall or suite your event is in before you travel: a west-hall show reached via Prince Regent means walking most of the building's length.
 
 ---
 
 ## Getting there from central London and the airports
 
-Checked live against TfL's own journey planner, on a Sunday:
+Journey times to Custom House:
 
 | From | Route | Time |
 | --- | --- | --- |
@@ -82,9 +82,9 @@ Checked live against TfL's own journey planner, on a Sunday:
 | **London City Airport** | Elizabeth line or DLR/bus | **5–13 minutes**, depending on the connection used |
 | **Heathrow** | Elizabeth line, direct | **43 minutes** (ExCeL's own figure) |
 
-The Elizabeth line is the quickest option from almost anywhere in central London, and it's a single train with no change from Liverpool Street, Paddington, Tottenham Court Road, Bond Street or Heathrow. Coming from the south or from stations only the DLR reaches, expect a change: the fastest route from Bank runs via the Northern line to Moorgate and a walk to Liverpool Street, not straight through on the DLR, and a same-line DLR route via Poplar takes about 25 minutes.
+The Elizabeth line is a single train with no change from Liverpool Street, Paddington, Tottenham Court Road, Bond Street or Heathrow. From the south or from stations only the DLR reaches, expect a change: the fastest route from Bank runs via the Northern line to Moorgate and a walk to Liverpool Street, while the DLR via Poplar takes about 25 minutes.
 
-**London City Airport** is close enough that ExCeL's own site calls it a 15-minute walk; by rail it's a handful of stops on the DLR or Elizabeth line, whichever a live journey planner offers first. International rail (Eurostar, Le Shuttle) and the other five London airports are all a further connection away — see our [London City Airport transport guide](/articles/london-city-airport-to-london/) for the full comparison.
+**London City Airport** is a 15-minute walk by ExCeL's own count, or a handful of stops by rail. International rail (Eurostar, Le Shuttle) and the other five London airports are all a further connection away — see our [London City Airport transport guide](/articles/london-city-airport-to-london/) for the full comparison.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="excel-london-guide-cable-car" data-gyg-partner-id="WWP7I0R" data-gyg-q="Emirates Cable Car London"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -92,7 +92,7 @@ The Elizabeth line is the quickest option from almost anywhere in central London
 
 ## The cable car and the river
 
-**The London Cable Car** (sold and signed by ExCeL as the IFS Cloud Cable Car; TfL's own pages now just call it the London Cable Car) crosses the Thames from Greenwich Peninsula, by The O2, to a terminal in the Royal Docks a short walk from ExCeL's Waterfront. ExCeL's own site offers every exhibitor and visitor **50% off a walk-up fare** — £3.50 single instead of £7 — on presentation of a ticket or confirmation email. TfL's opening hours:
+**The London Cable Car** (signed as the IFS Cloud Cable Car) crosses the Thames from Greenwich Peninsula, by The O2, to a terminal in the Royal Docks a short walk from ExCeL's Waterfront. ExCeL's own site offers every exhibitor and visitor **50% off a walk-up fare** — £3.50 single instead of £7 — on presentation of a ticket or confirmation email. TfL's opening hours:
 
 ![An IFS Cloud Cable Car cabin crossing the Royal Docks at dusk, with the Thames and the Docklands skyline behind](../../assets/articles/excel-london-guide/london-cable-car.jpg)
 
@@ -105,9 +105,9 @@ The Elizabeth line is the quickest option from almost anywhere in central London
 | Saturday | 09:00–23:00 |
 | Sunday and bank holidays | 09:00–21:00 |
 
-> ⚠️ **It's an arrival option, not a reliable way home.** It closes before most evening events finish clearing the building, and it doesn't run all night on any day of the week.
+> ⚠️ **It's an arrival option, not a reliable way home.** It closes before most evening events finish and does not run all night on any day.
 
-**Uber Boat by Thames Clippers** calls at Royal Wharf Pier, opened in 2019 specifically to serve ExCeL, City Airport and the Royal Docks. It's on the East zone of the river network. Checked against the operator's own published timetable, the last **westbound** sailing towards central London leaves at **21:41 on weekdays** and **22:17 at weekends** — earlier than North Greenwich Pier further downstream, so it suits an early finish, not a normal evening one. The pier is step-free, with a 162m² river-view platform; the nearest DLR stations for onward travel are West Silvertown or Pontoon Dock, not Custom House.
+**Uber Boat by Thames Clippers** calls at Royal Wharf Pier, opened in 2019 to serve ExCeL, City Airport and the Royal Docks, on the East zone of the river network. The last **westbound** sailing towards central London leaves at **21:41 on weekdays** and **22:17 at weekends**, so it suits an early finish. The pier is step-free; the nearest DLR stations for onward travel are West Silvertown or Pontoon Dock, not Custom House.
 
 ---
 
@@ -127,21 +127,21 @@ The car park takes vehicles up to **1.9m** without booking an over-height space,
 
 Two river crossings serve the car park's approach roads: the **Blackwall Tunnel**, the older and more delay-prone of the two, and the **Silvertown Tunnel**, which opened in April 2025 and gives an additional, tolled crossing from the Greenwich Peninsula side.
 
-**Congestion Charge and ULEZ.** ExCeL sits well outside the Congestion Charge zone, which covers only central London and charges £18 a day (£21 if paid late) between 07:00–18:00 on weekdays and 12:00–18:00 at weekends. ULEZ is different: since 2023 it has covered every London borough with no boundary gap, so a car that doesn't meet the emissions standard pays the standard **£12.50 daily charge** to be anywhere near ExCeL, exactly as it would anywhere else in London.
+**Congestion Charge and ULEZ.** ExCeL sits well outside the Congestion Charge zone, which covers only central London and charges £18 a day (£21 if paid late) between 07:00–18:00 on weekdays and 12:00–18:00 at weekends. ULEZ applies: it has covered every London borough since 2023, so a car that doesn't meet the emissions standard pays the standard **£12.50 daily charge**.
 
 ---
 
 ## Inside ExCeL: bags, cash, food and wifi
 
-Because ExCeL hosts a different organiser's event in every hall, there's no single venue-wide bag or security policy the way a single-tenant arena like The O2 has — check the specific event's own page for what it allows in. What does hold across the whole venue:
+Bag and security policy is set by each event's organiser, so check your event's page. What holds across the whole venue:
 
 ![An escalator and mezzanine level inside ExCeL London's boulevard, empty of visitors](../../assets/articles/excel-london-guide/central-boulevard-concourse.jpg)
 
 *Inside ExCeL's boulevard.*
 
-- **Cashless throughout.** ExCeL's own food and drink pages state plainly that none of its outlets take cash — bring a contactless card or phone. Market Express, an Amazon "tap in, walk out" convenience store by hall entrance N10, works the same way.
+- **Cashless throughout.** None of ExCeL's outlets take cash, so bring a contactless card or phone. Market Express, an Amazon "tap in, walk out" convenience store by hall entrance N10, works the same way.
 - **Cloakrooms are free**, on Level 0 between hall entrances N4 and S4 and at the east end of Level 0, plus dedicated cloakrooms in the ICC's Capital and Platinum Suites — but availability depends on your event's organiser, and nothing can be stored overnight. Cameras, laptops and other electronics aren't accepted.
-- **Free visitor wifi** covers the whole venue — look for "_Excel VISITOR ONLY Free Wi-Fi" and accept the terms. It's fine for browsing and messaging, not for anything that needs a stable connection like streaming or large uploads.
+- **Free visitor wifi** covers the whole venue — look for "_Excel VISITOR ONLY Free Wi-Fi" and accept the terms.
 - **Water refill points** are by the East and West Entrances and near halls S4 and S7.
 - **Food**: the sit-down option is **Waterfront Street Kitchen & Bar** on the dockside Waterfront, plus more than 20 counter-service kitchens along the boulevard — Habanero, Detroit City Burger, Chozen Noodle, Bagel Factory, Costa Coffee and Subway among them. Outside the gates, the Royal Victoria Dock waterfront and Custom House both have further options within a few minutes' walk.
 - **Power banks** can be rented from Joos units along the boulevard: £2 for the first hour, capped at £4 a day, or £30 to buy outright.
@@ -150,21 +150,21 @@ Because ExCeL hosts a different organiser's event in every hall, there's no sing
 
 ## Accessibility
 
-Both stations serving ExCeL are step-free — TfL's own step-free map confirms Custom House and Prince Regent — and inside the venue, every floor is level once you're through the entrance ramps.
+Custom House and Prince Regent are both step-free, and inside the venue every floor is level once you're through the entrance ramps.
 
 - **Wheelchairs and mobility scooters** can be hired free of charge, subject to availability, booked through ExCeL's own mobility-aid site.
 - **Changing Places** facilities, with a toilet, sink and hoist, are at the East (Prince Regent) end on Level 1 and in the Maritime Suite on Level 0, both on a RADAR key.
 - **Hearing loops** are fitted at information desks, cloakrooms and the security and traffic offices.
-- **Blue Badge parking** is available across all zones of the car park at the standard rate (see above), with dedicated wide bays and step-free routes into the building.
+- **Blue Badge parking** is in all zones of the car park at the standard rate (see above), with wide bays and step-free routes into the building.
 - ExCeL recognises the **Hidden Disabilities Sunflower** scheme, and assistance dogs are welcome throughout.
 
 ---
 
 ## Big shows here through the year
 
-ExCeL runs almost entirely on trade and B2B events, but a handful of shows each year are open to the public: [MCM Comic Con](/articles/mcm-comic-con-london/) in May and October, New Scientist Live, the London International Horse Show in December and Grand Designs Live in spring among them. The [upcoming public shows](#whats-on-excel-london) are listed at the foot of this page with their dates, and our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) covers every London venue.
+ExCeL runs almost entirely on trade and B2B events, but a handful of shows each year are open to the public: [MCM Comic Con](/articles/mcm-comic-con-london/) in May and October, New Scientist Live, the London International Horse Show in December and Grand Designs Live in spring among them. **Dragonmeet**, the tabletop roleplaying-games convention, is on Saturday 28 November in halls 7 to 9. The [upcoming public shows](#whats-on-excel-london) are listed at the foot of this page with their dates, and our [exhibitions and conventions calendar](/articles/exhibitions-conventions-london/) covers every London venue.
 
-**Two Christmas shows fill the weeks before 25 December.** **Wundrful World of Christmas**, a timed meet-Santa walk-through for three to eight-year-olds, runs on selected days from 13 November to 24 December in Immerse LDN on the Waterfront, about three minutes' walk from Custom House ([tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas)). **Scrooge: Cirque Extravaganza** plays the ICC Auditorium at the east end on 23, 24, 27 and 28 December, where Prince Regent is the nearer station, not Custom House ([tickets](https://scroogecirque.com/london)). Both are in our [Christmas shows guide](/articles/christmas-shows-london/).
+**Two Christmas shows fill the weeks before 25 December.** **Wundrful World of Christmas**, a timed meet-Santa walk-through for three to eight-year-olds, runs on selected days from 13 November to 24 December in Immerse LDN on the Waterfront, about three minutes' walk from Custom House ([tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas)). **Scrooge: Cirque Extravaganza** plays the ICC Auditorium at the east end on 23, 24, 27 and 28 December, where Prince Regent is the nearer station, not Custom House ([tickets](https://scroogecirque.com/london)). Both are in our [Christmas shows guide](/articles/christmas-shows-london/). **Euphoria: Art is in the Air**, a Balloon Museum exhibition of interactive artworks, is also at Immerse LDN, from 24 October to 31 December ([tickets](https://london.balloonmuseum.world/en/shop/tickets)).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="excel-london-guide-thames-cruise" data-gyg-partner-id="WWP7I0R" data-gyg-q="Thames river cruise"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -172,7 +172,7 @@ ExCeL runs almost entirely on trade and B2B events, but a handful of shows each 
 
 ## Where to stay
 
-A handful of hotels sit on the ExCeL campus itself or across Royal Victoria Dock, all trading on prices that track the exhibition calendar, not the season — a quiet week is cheap, a big trade show is not.
+Hotels on the ExCeL campus and across Royal Victoria Dock price to the exhibition calendar: a quiet week is cheap, a big trade show is not.
 
 - **[Aloft London ExCeL](hotel:aloft-london-excel)** — a minute's walk from the East Entrance and the ICC on the Eastern Gateway, with an indoor pool.
 - **[DoubleTree by Hilton London – ExCeL](hotelscom:218082)** — the other hotel ExCeL's own site names as part of the campus.
@@ -189,11 +189,11 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 
 ## Before or after: the Royal Docks and Canary Wharf
 
-- **Royal Victoria Dock** itself is the view from ExCeL's Waterfront side — a working dock turned public space, with the cable car's Royal Docks terminal at one end.
-- **The London Cable Car** (see above) makes a short, scenic crossing to North Greenwich and The O2 — see our [O2 travel guide](/articles/the-o2-travel-guide/) for what's on the other side.
+- **Royal Victoria Dock** is the view from ExCeL's Waterfront side, with the cable car's Royal Docks terminal at one end.
+- **The London Cable Car** (see above) crosses to North Greenwich and The O2; our [O2 travel guide](/articles/the-o2-travel-guide/) covers the other side.
 - **WakeUp Docklands**, a cable wakeboard park in the Royal Docks, runs from the water ExCeL backs onto.
-- **Immerse LDN**, an immersive exhibitions venue on the Waterfront about 400m from the West Entrance, runs a changing programme of ticketed shows; its Christmas one, [Wundrful World of Christmas](/articles/christmas-shows-london/#wundrful-world-of-christmas-excel-london), runs from 13 November to 24 December 2026.
-- **City Hall** — the striking glass-and-steel building on the dock, formerly The Crystal, isn't the sustainability exhibition it once was. The Greater London Authority moved its headquarters there in January 2022, and it's now the Mayor and London Assembly's base, not a visitor attraction.
+- **Immerse LDN**, an immersive exhibitions venue on the Waterfront about 400m from the West Entrance, runs a changing programme of ticketed shows, including [Wundrful World of Christmas](/articles/christmas-shows-london/#wundrful-world-of-christmas-excel-london) from 13 November to 24 December 2026 and Euphoria, a Balloon Museum exhibition, from 24 October.
+- **City Hall** — the glass-and-steel building on the dock, formerly The Crystal, has been the Mayor and London Assembly's base since January 2022 and is not a visitor attraction.
 - **Canary Wharf** is one Elizabeth line stop away — about 3 minutes — for the roof garden, Eden Dock and the restaurants at Wood Wharf; see our [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
 - **London City Airport** is a 15-minute walk or a couple of DLR stops, if you're flying in or out around your visit.
 
@@ -202,10 +202,7 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 ## Small print that catches people out
 
 - **Postcodes:** ExCeL and its car park, **E16 1FR**; the venue's management office, **E16 1XL**.
-- **Custom House serves the west halls, Prince Regent the east halls and the ICC** — a kilometre apart, so check which end your event is in before you travel.
-- **The whole venue is cashless.** Bring a contactless card.
-- **Bag and cloakroom policy is set per event, not by ExCeL as a whole** — check your specific show's own page.
-- **Blue Badge parking costs the same as standard parking here** — £27.50 pre-booked, £30 on the day.
+- **Blue Badge parking costs the same as standard parking here:** £27.50 pre-booked, £30 on the day.
 - **ULEZ applies; the Congestion Charge doesn't.**
 
 ---
