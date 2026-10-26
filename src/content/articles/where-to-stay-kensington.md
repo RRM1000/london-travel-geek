@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Milestone_Hotel.jpg
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-06-12
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -71,7 +71,7 @@ A Victorian red-brick house in the Red Carnation group, directly across Kensingt
 
 *A room at The Milestone, and its bathroom.*
 
-**For families it has a new Family Suite**: a main bedroom, a children's room with bunk beds, and separate bathrooms, overlooking Kensington Gardens. Guests use the resistance pool and gym free. The Stables Bar is in the building's former stables, and afternoon tea is served in the Park Lounge; our [afternoon tea guide](/articles/best-afternoon-tea-london/) reviews it.
+**For families it has a Family Suite**: a main bedroom, a children's room with bunk beds, and separate bathrooms, overlooking Kensington Gardens. Guests use the resistance pool and gym free. The Stables Bar is in the building's former stables, and afternoon tea is served in the Park Lounge; our [afternoon tea guide](/articles/best-afternoon-tea-london/) reviews it.
 
 ### Royal Garden Hotel — the rooms that look over Kensington Gardens
 
@@ -113,7 +113,7 @@ Bugis Kitchen serves Singaporean and Malaysian dishes, there is a 24-hour gym an
 
 *££ · 134–136 Lexham Gardens, W8 6JE · Earl's Court 5 min · [londonlodgehotel.com](hotel:london-lodge-hotel)*
 
-Two Victorian houses built in 1880 and joined, run by Mandy and Bernard since 1996, on a quiet street between Earl's Court and the high street. **There are steps up to the front door, then a lift to every floor.**
+Two Victorian houses built in 1880 and joined, family-run, on a quiet street between Earl's Court and the high street. **There are steps up to the front door, then a lift to every floor.**
 
 ![A twin room at London Lodge Hotel with two single beds against a striped velvet headboard, teal cushions, patterned curtains, a mahogany desk and a wall-mounted air-conditioning unit](../../assets/articles/where-to-stay-kensington/london-lodge-hotel-room.jpg)
 
@@ -125,7 +125,7 @@ It sells singles and a Standard Triple, rooms have air conditioning, and an extr
 
 *£ · Holland Walk, W8 7QU · Holland Park 4 min · [Hotels.com](hotel:safestay-kensington-holland-park)*
 
-In the surviving east wing of Holland House, the Jacobean mansion begun in 1605, in the same park as the Kyoto Garden. You step out of the dorm into the park rather than onto a road.
+In the surviving east wing of Holland House, in the same park as the Kyoto Garden. You step out of the dorm into the park.
 
 ![A Safestay Holland Park dorm of purple metal two- and three-tier bunks, each numbered bed with its own privacy curtain, wire baskets under the lowest bunks and striped wallpaper behind](../../assets/articles/where-to-stay-kensington/safestay-london-kensington-holland-park-room.jpg)
 
@@ -139,7 +139,7 @@ Private rooms and the female dorms are en-suite. **There is no guest kitchen**, 
 
 *££ · 156 rooms · 1–15 Templeton Place, SW5 9NB · Earl's Court 4 min · [Hotels.com](hotel:templeton-garden)*
 
-A Miiro hotel of 156 rooms with interiors by the London studio Thurstan. **Many rooms have balconies**, others look over the hotel's private garden, and the Templeton Garden Suites have a private garden or open onto the main one. Both suite grades have four-poster beds.
+A Miiro hotel of 156 rooms. **Many rooms have balconies**, others look over the hotel's private garden, and the Templeton Garden Suites have a private garden or open onto the main one. Both suite grades have four-poster beds.
 
 <div class="photo-row">
 
@@ -215,13 +215,13 @@ A listed Victorian building on a residential street, with **a lift, air conditio
 
 *A room at Mowbray Court, and its shower room.*
 
-On the nights sampled for our [budget hotels guide](/articles/best-budget-hotels-london/) it ran from £85 on a February Wednesday to £176 on an April Saturday.
+Rates run from £85 on a February Wednesday to £176 on an April Saturday; our [budget hotels guide](/articles/best-budget-hotels-london/) compares it with the alternatives.
 
 ### Premier Inn London Kensington (Earl's Court) — the family budget pick
 
 *About £147 · 11 Knaresborough Place, SW5 0TJ · Next to Earl's Court station · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-kensington-earls-court.html)*
 
-Family rooms, a restaurant, and up to two children eat breakfast free when an adult orders it. Across five sampled nights it ran from **£85 to £221**, and Saturdays were the dear ones.
+Family rooms, a restaurant, and up to two children eat breakfast free when an adult orders it. Rates run from **£85 to £221**, with Saturdays the dearest.
 
 <div class="photo-row">
 
@@ -239,7 +239,7 @@ Two things to check. **Air conditioning is only in the Premier Plus rooms.** And
 
 *£ · 17 Longridge Road, SW5 9SB · Earl's Court · Breakfast included · Adults only · [barmybadger.com](hotel:barmy-badger-backpackers)*
 
-A family-run hostel on a residential street, open since 1997, with 48 beds and no bar. Frankie, the hostel dog, is usually about. Dorms are mixed or female-only with four or six beds, and two female dorms are en-suite; private doubles and twins share bathrooms.
+A family-run hostel on a residential street, open since 1997, with 48 beds and no bar. Dorms are mixed or female-only with four or six beds, and two female dorms are en-suite; private doubles and twins share bathrooms.
 
 ![A Barmy Badger dorm with three-tier wooden bunks, green duvets, a pine chest of drawers in a bay window and a towel hanging on the door](../../assets/articles/where-to-stay-kensington/barmy-badger-backpackers-room.jpg)
 
@@ -253,7 +253,7 @@ A family-run hostel on a residential street, open since 1997, with 48 beds and n
 
 *About £120 · 181–183 Cromwell Road, SW5 0SF · Earl's Court 5 min · [Hotels.com](hotelscom:296058)*
 
-An independent Victorian townhouse with a bar, a restaurant and a garden. Rooms run from singles to Garden Rooms and a mezzanine suite; the Garden Room is 28 to 30 square metres with a king-size bed. Sampled nights ran from £105 on a February Wednesday to £190 on an October Saturday.
+An independent Victorian townhouse with a bar, a restaurant and a garden. Rooms run from singles to Garden Rooms and a mezzanine suite; the Garden Room is 28 to 30 square metres with a king-size bed. Rates run from £105 on a February Wednesday to £190 on an October Saturday.
 
 <div class="photo-row">
 
@@ -359,4 +359,4 @@ Unlike the Earl's Court branch, this one has **air conditioning in every room**.
 
 **Heathrow:** the Piccadilly line from Earl's Court, no change. Our [Heathrow to London guide](/articles/heathrow-airport-to-london/) compares it with the Elizabeth line and the Heathrow Express from Paddington.
 
-*Typical nightly rates for a double, checked 24 September 2026; the £ symbols mark a price band. Walking times come from the hotels where they give them. Prices move nightly, so check your own dates.*
+*Typical nightly rates for a double; the £ symbols mark a price band. Walking times come from the hotels where they give them. Prices move nightly, so check your own dates.*
