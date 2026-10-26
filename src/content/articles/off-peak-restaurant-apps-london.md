@@ -1,9 +1,9 @@
 ---
 title: "Off-Peak Restaurant Apps in London: First Table, EatClub and the Rest"
 seoTitle: "First Table vs EatClub London: 50% Off and the Rules"
-description: "First Table takes 50% off food at 936 London restaurants for a £6 fee; EatClub takes 25–40% off the whole bill at 1,069 but cannot hold you a table. Both bury the same line: the service charge is worked out before your discount."
+description: "First Table takes 50% off food at more than 900 London restaurants for a £6 fee; EatClub takes up to 50% off the whole bill at more than 1,400 but cannot hold you a table. Both bury the same line: the service charge is worked out before your discount."
 publishedAt: 2026-09-04
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
 reviewBy: 2026-12-31
 sites:
   - london
@@ -35,17 +35,17 @@ faq:
     a: "Yes, and nobody advertises it. First Table's terms say plainly that \"any applicable service charges will be calculated on the whole bill and are not subject to the offer\". EatClub's terms say its discount \"excludes tips, service charges\". So on an £80 food bill halved to £40, a 12.5% service charge is still levied on the £80 — costing you £5 more than you might expect."
 ---
 
-First Table lists 936 London restaurants and charges £6 to book one for two people. EatClub lists 1,069 and charges nothing to book — because you cannot book at all. **Both are selling the same thing: the tables a restaurant cannot fill at 5pm on a Tuesday**, at a discount that exists purely because an empty table earns nothing.
+First Table lists more than 900 London restaurants and charges £6 to book one for two people. EatClub lists more than 1,400 and charges nothing to book, because you cannot book at all. **Both sell the tables a restaurant cannot fill at 5pm on a Tuesday.**
 
-These apps suit one kind of diner: someone flexible about when they eat and relaxed about where. If you want a specific restaurant at 8pm on Saturday, none of this will help you.
+These apps suit someone flexible about when they eat and relaxed about where. If you want a specific restaurant at 8pm on Saturday, none of this will help.
 
-> 💡 **The Short Version:** **First Table** is the biggest single discount — 50% off food for a £6 booking fee, at 936 London restaurants. The famous names go at 5pm; the newer ones still have 8pm and 9pm tables. **EatClub** is free, needs no booking, and takes 25–40% off the **whole bill including drinks** at 1,069 London venues — but it is walk-in only and cannot hold you a table. **TheFork** costs nothing and its loyalty scheme needs ten bookings to earn £20. **Too Good To Go** is not a dining app at all. And the line every one of them buries: **the service charge is worked out on the bill before your discount.**
+> 💡 **The Short Version:** **First Table** is the biggest single discount — 50% off food for a £6 booking fee, at more than 900 London restaurants. The famous names go at 5pm; the newer ones still have 8pm and 9pm tables. **EatClub** is free, needs no booking, and takes up to 50% off the **whole bill including drinks** at more than 1,400 London venues — but it is walk-in only and cannot hold you a table. **TheFork** costs nothing and its loyalty scheme needs ten bookings to earn £20. **Too Good To Go** is not a dining app at all. And the line every one of them buries: **the service charge is worked out on the bill before your discount.**
 
 > ⚠️ **Nothing here stacks with anything else.** Every app on this page forbids combining its offer with another discount, with a Tastecard, or with a restaurant's own set menu — and EatClub says it detects and automatically removes them. Pick one per meal.
 
 ---
 
-Restaurants give these tables away for the same unglamorous reason they run [set lunch menus](/articles/restaurant-deals-london/): a room that is half empty at 5.30pm costs the same to staff as a full one. The discount is real, and so is the condition attached — **the earliest sittings, the last sittings, and midweek**.
+Like [set lunch menus](/articles/restaurant-deals-london/), these discounts fill rooms that are half empty at 5.30pm. The condition attached is **the earliest sittings, the last sittings, and midweek**.
 
 ---
 
@@ -53,9 +53,9 @@ Restaurants give these tables away for the same unglamorous reason they run [set
 
 | App | Cost | Discount | Slots | London reach | Main catch |
 | --- | --- | --- | --- | --- | --- |
-| First Table | £6 to book for 2 | 50% off food only | 4pm to 10pm, 5pm commonest | 936 restaurants | Fee never refunded |
-| EatClub | Free + 1–6% fee | 25–40% off total bill | Live, 7 days | 1,069 venues | No booking; you may wait |
-| TheFork | Free | Up to 50% off food | Varies by day | 2,152 restaurants | 10 bookings earn £20 |
+| First Table | £6 to book for 2 | 50% off food only | 4pm to 10pm, 5pm commonest | 900+ restaurants | Fee never refunded |
+| EatClub | Free + 1–6% fee | 25–45% off total bill | Live, 7 days | 1,400+ venues | No booking; you may wait |
+| TheFork | Free | Up to 50% off food | Varies by day | Thousands of restaurants | 10 bookings earn £20 |
 | Too Good To Go | Bag price only | ½ price or less | 1 collection window | 7 UK chains named | You collect; you don't dine |
 | OpenTable | Free | 0% off any bill | Any bookable time | 100–1,000 pts a booking | Points, not money off |
 | Deliveroo Reservations | Free | £10 credit | Any bookable time | 14 venues listed | Credit is for delivery |
@@ -64,19 +64,17 @@ Restaurants give these tables away for the same unglamorous reason they run [set
 
 ## First Table
 
-**£6 to book for two, £4 for one. 50% off the food bill. 936 London restaurants.**
+**£6 to book for two, £4 for one. 50% off the food bill. More than 900 London restaurants.**
 
 You pay a booking fee, the restaurant halves your food bill, and drinks stay at full price. Availability appears **14 days ahead, released at midday**, and the good tables go quickly. There is **no minimum spend**, you can book one to six people, and you can return to the same restaurant — just not twice in a row.
 
-**The London reality.** Of 936 restaurant pages in First Table's sitemap, **265 are in central London** — 28%, concentrated in Covent Garden (50), Soho (49), Fitzrovia (29), London Bridge (25) and Shoreditch (25). The list is overwhelmingly independent and good: **Manzi's**, **Brindisa Tapas**, **INKO NITO**, **Chotto Matte**, **Kapara**, **Maresco** and **Aqua Kyoto** in Soho alone, plus **Bala Baya** in Southwark, **Josette** in Clerkenwell, **RE:1996** in Islington and **Masala Zone** at Piccadilly Circus.
+**The London reality.** About a quarter of First Table's London restaurants are in central London, concentrated in Covent Garden, Soho, Fitzrovia, London Bridge and Shoreditch. Soho alone has **Manzi's**, **Brindisa Tapas**, **INKO NITO**, **Kapara**, **Maresco** and **Aqua Kyoto**; elsewhere there are **Bala Baya** in Southwark, **Josette** in Clerkenwell, **RE:1996** in Islington and **Masala Zone** at Piccadilly Circus.
 
-Across the fourteen-day grid for all ten Soho restaurants in early September, **eight had tables on Tuesday 15th, eight on Friday 11th — and only four on Saturday 12th.** It is Saturday, not Friday, that closes the door.
+**The 5pm sitting is what is left at the popular restaurants, not what the app offers.** 5pm is the commonest slot, but the range runs 4pm to 10pm and about a third of slots are 8pm or later. The newer, less-booked restaurants have the later tables; the hardest rooms to get into often have nothing after six.
 
-**The 5pm sitting is what is left at the popular restaurants, not what the app offers.** Across 448 slots on the Soho page, 5pm is the commonest at 16%, but **31% are at 8pm or later** and the range runs 4pm to 10pm. **Eight of the ten restaurants had tables at 7pm or later**, and the ones with the most were the newer and less-booked names — Wild Heart, Polpo, Brother Marcus, Fadiga — while the hardest rooms to get into, Chotto Matte and Heliot Steak House, had nothing after six. **If you are flexible about where rather than when, a normal Saturday dinner time is gettable.**
+**The catches.** The booking fee is **never refunded**, whether you cancel or reduce your party. Bring more people than you booked and the offer is void and the fee forfeited. Arrive more than **15 minutes** late and the restaurant need not honour it. Restaurants attach their own conditions, and they are enforced: Bala Baya's, in First Table's own data, is a **minimum purchase of one beverage per diner**. First Table's terms, updated on 21 October 2026, also add **Dine Now** in certain locations: a same-day offer where no table is reserved, you must arrive within a stated window, and the booking fee is still payable.
 
-**The catches.** The booking fee is **never refunded** — not for a cancellation, not for reducing your party. Bring more people than you booked and the offer is void and the fee forfeited. Arrive more than **15 minutes** late and the restaurant need not honour it. Restaurants attach their own conditions, and they are enforced: Bala Baya's, in First Table's own data, is a **minimum purchase of one beverage per diner**.
-
-Diners rate it very differently depending where you look: **4.9 out of 5 from 8,000 App Store ratings, against 3.0 out of 5 from 60 on Trustpilot**, where 38% are one-star. The complaints are consistent — a reviewer on 13 July 2026 found the service charge worked out on the full pre-discount amount; another on 26 June 2026 was required to buy full-price drinks that cancelled the saving.
+In September 2026 it stood at **4.9 out of 5 from 8,000 App Store ratings, against 3.0 out of 5 from 60 on Trustpilot**, where 38% were one-star. The complaints are consistent: the service charge worked out on the full pre-discount amount (a reviewer on 13 July 2026), and full-price drinks required that cancelled the saving (26 June 2026).
 
 **Verdict: the best discount here, if your food bill is big enough to make £6 trivial and you are willing to take the restaurant the app has, not the one you had in mind.**
 
@@ -86,15 +84,15 @@ Diners rate it very differently depending where you look: **4.9 out of 5 from 8,
 
 ## EatClub
 
-**Free app. 25–40% off the total bill, drinks included. 1,069 London venues.**
+**Free app. Up to 50% off the total bill, drinks included. More than 1,400 London venues.**
 
-Structurally the opposite of First Table. There is **no booking** — offers are walk-in only, and the app is explicit that "if the venue is busy, you may have to wait for a free table". You set up an EatClub card in Apple or Google Wallet, walk in, order normally, and tap to pay; the discount comes off automatically and, in the company's words, the venue "won't even know that you are using an EatClub offer". A reviewer on 14 May put it plainly: "you just walk in, order normally, and pay with the card".
+There is **no booking**: offers are walk-in only, and "if the venue is busy, you may have to wait for a free table". You set up an EatClub card in Apple or Google Wallet, walk in, order normally and tap to pay; the discount comes off automatically and the venue "won't even know that you are using an EatClub offer".
 
-**The London reality.** 1,069 London venues out of 1,549 across the UK, and offers are live rather than scheduled, so what you see is what is quiet now. Real examples on 3 September: **Chotto Matte Soho at 40%**, **Kanada-Ya Piccadilly at 35%**, **Maresco at 35%**, **Coqfighter at 35%**, **Kolamba Soho at 30%**, **Spagnoletti at 30%**, **Skylon at 25%** and **Quaglino's at 25%**.
+**The London reality.** Offers are live rather than scheduled, so what you see is what is quiet now. Examples on 26 October: **Maresco at 45%**, **Chotto Matte Soho at 40%**, **Coqfighter Soho at 35%**, **Kanada-Ya Piccadilly at 30%**, **Kolamba Soho at 30%**, **Spagnoletti at 30%**, **Skylon at 25%** and **Quaglino's at 25%**.
 
 **It is not quite free.** EatClub charges a service fee of **1% to 6% of the amount put through the card, minimum 20p**, and its optional paid tier, EatClub Premium, "does not reduce or waive Service Fees". Cancel after your stated arrival time and **a £6 fee may apply**. The discount **excludes tips and service charges**. One wrinkle from a reviewer on 16 August: the card shows the **full amount at the till, with the deduction landing on your bank statement afterwards**.
 
-EatClub has **no Trustpilot reviews at all** — the profile exists and is empty. Its App Store rating is **4.3 out of 5 from 255**. It is a new UK arrival, co-founded by Marco Pierre White, with no long track record here yet.
+Its App Store rating was **4.3 out of 5 from 255** in September 2026. It is a new UK arrival, co-founded by Marco Pierre White.
 
 **Verdict: the better deal on a drinks-heavy evening, and the worse one if you need certainty.** 30% of everything often beats 50% of the food.
 
@@ -102,9 +100,9 @@ EatClub has **no Trustpilot reviews at all** — the profile exists and is empty
 
 ## TheFork
 
-**Free to book. Up to 50% off food. 2,152 London restaurants. Owned by Tripadvisor.**
+**Free to book. Up to 50% off food. Owned by Tripadvisor.**
 
-Two things get muddled here. The first is genuine: percentage offers of **20%, 30% or 50% off food** at selected times. The discount varies by day at the same restaurant: Agrodolce in Fitzrovia showed **−50% on the Thursday and −20% on the Friday**. Discounted in London on 3 September: **Diwan** in Marylebone, **Cafe Pacifico** in Covent Garden, **Bengal Village** on Brick Lane, **PJ's Chelsea Brasserie** and **Bob Bob Ricard City**.
+Two things get muddled here. The first is genuine: percentage offers of **20%, 30% or 50% off food** at selected times, which vary by day at the same restaurant.
 
 The second is the **Yums** loyalty scheme, where the arithmetic is worth doing. You earn **100 Yums per booking** and need **1,000 for £20 off** or **2,000 for £50**, on minimum bills of £30 and £60. So **£20 off costs you ten bookings** — about £2 a meal. Yums last a year, land three days after you eat, and **cannot be combined with any other promotional offer**.
 
@@ -114,7 +112,7 @@ The second is the **Yums** loyalty scheme, where the arithmetic is worth doing. 
 
 ## Too Good To Go
 
-**Not a restaurant app, whatever the listicles tell you.**
+**Not a restaurant app.**
 
 You buy a **Surprise Bag** of surplus food at "½ price or less" and **collect it from the shop** in a fixed window. You cannot choose what is in it — the company states it has "no insights into the contents" — and the value shown is a minimum estimate of what the food would have cost unsold. Its named UK partners are bakeries, chains and supermarkets: Greggs, Pret, GAIL'S, Starbucks, Aldi, Morrisons, Krispy Kreme.
 
@@ -146,9 +144,9 @@ One free part is worth a line: **the Loyalty scheme is not a paid service**. Any
 
 ## The rest, briefly
 
-**Deliveroo Reservations** launched in London in 2026 and is the only new thing here. Book a table through the app, turn up, and **claim £10 Deliveroo credit** — no booking fee. The London list is strong: **SUSHISAMBA**, **Duck & Waffle**, **Osteria Locatelli** at the National Gallery, **50 Kalò**, **Beast**, **Parrillan** at Coal Drops Yard. But **the £10 is delivery credit, not money off your meal.**
+**Deliveroo Reservations** launched in London in 2026 and is the only new thing here. Book a table through the app, turn up, and **claim £10 Deliveroo credit** — no booking fee. The London list includes **SUSHISAMBA**, **Duck & Waffle**, **Osteria Locatelli** at the National Gallery, **50 Kalò**, **Beast**, **Parrillan** at Coal Drops Yard. But **the £10 is delivery credit, not money off your meal.**
 
-**Groupon** carries **400+ London food and drink deals**, and the list tells you who it is for — All Bar One at £36.95 against a £62.40 "was" price, Harvester at £35, Toby Carvery at £24.99, BrewDog at £23.95. You prepay a voucher, the saving is measured against the merchant's own claimed price, and days are restricted. It works for a chain dinner; it will not get you into Manzi's.
+**Groupon** carries hundreds of London food and drink deals, mostly chains such as All Bar One, Harvester, Toby Carvery and BrewDog. You prepay a voucher, the saving is measured against the merchant's own claimed price, and days are restricted. It works for a chain dinner; it will not get you into Manzi's.
 
 **Karma** no longer competes here, having pivoted to selling restaurant point-of-sale software. **Olio** shares free food between neighbours and does not discount restaurants. **Resy** takes bookings without public discounts, and **SevenRooms** is the plumbing behind Deliveroo Reservations, not a consumer app.
 
@@ -168,7 +166,7 @@ Two people. **£80 of food, £30 of drinks, 12.5% service charge.** Same restaur
 
 **First Table:** the food halves to £40, the drinks stay at £30, and the **service charge is still calculated on the full £110** — £13.75. Add the £6 booking fee and you pay **£89.75**.
 
-Notice what happened. Half of £80 is £40, but **you only keep £34 of it** — the £6 booking fee takes the rest. The service charge clause costs you separately: because it is worked out on the full £110 rather than the discounted £70, you miss out on the further £5 saving — 12.5% of the £40 you never spent — that you might reasonably have expected.
+Half of £80 is £40, but **you keep £34 of it** after the £6 booking fee. Because the service charge is worked out on the full £110 rather than the discounted £70, you also lose a further £5 (12.5% of the £40 you never spent).
 
 **EatClub at 30%:** £33 comes off the whole £110. Service is again charged on the pre-discount £110. Add EatClub's 1–6% fee on the £90.75 going through the card and you pay between **£91.66 and £96.20**.
 
@@ -178,11 +176,9 @@ Notice what happened. Half of £80 is £40, but **you only keep £34 of it** —
 
 ## Nothing stacks
 
-Every set of terms on this page says the same thing. First Table: bookings "cannot be combined with any other offers, in-house specials, drink specials, discounts or promotion". EatClub goes further, running automated checks for "instances where an Offer was stacked with competing platform deals".
+No app combines with another app, none combines with a [Tastecard or Gourmet Society membership](/articles/restaurant-discount-cards-london/), and none reliably comes off a restaurant's own [fixed-price lunch or pre-theatre menu](/articles/restaurant-deals-london/). **These are alternatives, not layers.**
 
-So no app combines with another app, none combines with a [Tastecard or Gourmet Society membership](/articles/restaurant-discount-cards-london/), and none reliably comes off a restaurant's own [fixed-price lunch or pre-theatre menu](/articles/restaurant-deals-london/). **These are alternatives, not layers.**
-
-**The same table is often sold through several apps at once.** Chotto Matte Soho and Maresco both appear on First Table and EatClub; Kanada-Ya Piccadilly is on EatClub, NeoTaste and Deliveroo Reservations. Compare before you book — you cannot combine them, but you can pick the better one.
+**The same table is often sold through several apps at once.** Maresco appears on both First Table and EatClub; Kanada-Ya Piccadilly is on EatClub, NeoTaste and Deliveroo Reservations. Compare before you book.
 
 ---
 
@@ -193,9 +189,7 @@ So no app combines with another app, none combines with a [Tastecard or Gourmet 
 - **Service charge is calculated before the discount** on both First Table and EatClub — about £5 you did not expect on a £110 bill.
 - **Minimum drink purchases are real.** Bala Baya requires one beverage per diner, and compulsory full-price drinks can swallow a modest saving.
 - **Turning up with an extra person voids First Table's offer** and forfeits the fee. Amend the booking instead.
-- **First Table availability opens at midday, fourteen days out**, and the best tables go the same afternoon.
 - **Show the booking before you order, not when the bill arrives.** Every one of these schemes puts that burden on you.
-- **Saturday is the hard day**, not Friday — only four of ten Soho restaurants had First Table slots on Saturday 12 September.
 
 ---
 
@@ -211,4 +205,4 @@ So no app combines with another app, none combines with a [Tastecard or Gourmet 
 - 🌙 **[Late Night Eating in London](/articles/late-night-eating-london/)** — for the Last Table crowd
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 
-*All fees, discounts, exclusions and venue counts were read off each app's own website and terms and conditions on 3 September 2026, with availability checked for Tuesday 15, Friday 11 and Saturday 12 September. Offers on these platforms change daily — confirm in the app before you travel.*
+*Fees and discounts as at September 2026; venue counts and EatClub offers as at 26 October 2026. Offers on these platforms change daily, so confirm in the app before you travel.*
