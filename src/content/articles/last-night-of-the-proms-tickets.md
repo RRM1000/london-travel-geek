@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_Royal_Albert_Ha
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
+updatedAt: 2026-10-26
 reviewBy: 2027-04-01
 sites: [london]
 canonicalSite: london
@@ -33,9 +33,7 @@ faq:
     a: "Yes. The 2026 Last Night was shown on BBC Two for the first half and BBC One for the second half, and broadcast live on BBC Radio 3, with catch-up on BBC iPlayer and BBC Sounds."
 ---
 
-**Most Last Night of the Proms tickets are allocated by ballot, and the cheapest way in is not a ballot at all.** A standing Day Promming ticket costs £8, goes on sale online at 9.30am on the day of the concert, and is limited to two per booker.
-
-> 💡 **The Short Version:** The BBC sells Last Night tickets five ways: an **Open Ballot** (200 seats, £101.96 or £165.20 in 2026), a **Five-Concert Ballot** (book five other concerts at the Royal Albert Hall first), a **general sale of leftovers**, a **Whole Season Pass**, and **£8 Day Promming** tickets online from **9.30am on the day**. **Two tickets per booker** on every route. The ballots close months ahead: in 2026 the Five-Concert Ballot closed on **4 June** and the Open Ballot on **9 July**, for a concert on **12 September**.
+> 💡 **The Short Version:** Most tickets are allocated by ballot, and the cheapest way in is not one: **£8 Day Promming** tickets go on sale online at **9.30am on the day**. The BBC sells Last Night tickets five ways: an **Open Ballot** (200 seats, £101.96 or £165.20 in 2026), a **Five-Concert Ballot** (book five other concerts at the Royal Albert Hall first), a **general sale of leftovers**, a **Whole Season Pass** and Day Promming. **Two tickets per booker** on every route. In 2026 the Five-Concert Ballot closed on **4 June** and the Open Ballot on **9 July**, for a concert on **12 September**.
 
 *Dates, prices and rules are the BBC's published 2026 figures for the concert on Saturday 12 September 2026.*
 
@@ -57,10 +55,7 @@ The BBC's page for the concert is the official source: [Last Night of the Proms 
 
 ## The £8 route in detail
 
-**Day Promming is the way in that needs no luck and no advance planning.** Promming means standing in the Arena or the Gallery at the Royal Albert Hall, and the BBC puts the supply at around 1,000 standing places for each concert. For the Last Night in 2026 the tickets were:
-
-- **£8 including fees**, online from **9.30am on the day**, up to two per booker.
-- **Queue details** came from the Royal Albert Hall's website, which the BBC said would publish them from Friday 4 September 2026.
+**Day Promming needs no ballot.** Promming means standing in the Arena or Gallery at the Royal Albert Hall, and the BBC puts the supply at around 1,000 standing places for each concert. For the 2026 Last Night, tickets were **£8 including fees**, online from **9.30am on the day**, up to two per booker.
 
 **There is a second £8 route for regular Prommers.** A limited number of Last Night Promming tickets are reserved for people who have attended five or more concerts in the Promming areas. You buy one ticket each, in person at the Door 12 box office, on presentation of your used e-tickets. In 2026 the releases were at 9am on Tuesday 21 July, Monday 17 August and Monday 7 September.
 
@@ -78,7 +73,7 @@ The BBC's page for the concert is the official source: [Last Night of the Proms 
 
 ## The concert
 
-The 2026 Last Night ran from **7.15pm to about 10.30pm** at the Royal Albert Hall, with a 20-minute interval. Sakari Oramo conducted the BBC Symphony Orchestra and Chorus, with Yuja Wang on piano and Nicky Spence as tenor. The second half ends with the Fantasia on British Sea-Songs, *Rule, Britannia!*, *Land of Hope and Glory*, *Jerusalem*, the National Anthem and *Auld Lang Syne*.
+The 2026 Last Night ran from **7.15pm to about 10.30pm**, with a 20-minute interval. Sakari Oramo conducted the BBC Symphony Orchestra and Chorus, with Yuja Wang on piano and Nicky Spence as tenor. The second half ends with the Fantasia on British Sea-Songs, *Rule, Britannia!*, *Land of Hope and Glory*, *Jerusalem*, the National Anthem and *Auld Lang Syne*.
 
 ![Inside the Royal Albert Hall during a Prom, with the orchestra on stage, the standing Arena in front of it and the circles rising above](../../assets/articles/last-night-of-the-proms-tickets/royal-albert-hall-during-a-prom.jpg)
 
@@ -87,14 +82,14 @@ The 2026 Last Night ran from **7.15pm to about 10.30pm** at the Royal Albert Hal
 ## If you miss out
 
 - **Watch it.** The 2026 Last Night was shown on BBC Two (first half) and BBC One (second half), broadcast live on BBC Radio 3, with catch-up on iPlayer and BBC Sounds.
-- **Go to a different Prom.** The 2026 season ran from 17 July to 12 September with 86 concerts. The BBC said it expected to sell around 70,000 £8 Promming tickets across the season, and the same Day Promming rule applies to most concerts: £8 online from 9.30am on the day, up to two per booker.
+- **Go to a different Prom.** The 2026 season ran from 17 July to 12 September with 86 concerts, and most have £8 Day Promming tickets online from 9.30am on the day, up to two per booker.
 - **Book the Hall.** The Royal Albert Hall runs guided tours of the auditorium, which is the way to see it without a ticket for a concert.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="1" data-gyg-cmp="last-night-of-the-proms-tickets-royal-albert-hall-tour" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="96342"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Planning the next one
 
-The timetable above is the BBC's 2026 one. Proms booking for 2026 opened on Saturday 16 May 2026, after a Proms Planner phase from 21 April to 15 May, and the two ballots closed in June and July. The BBC Proms site publishes each season's dates.
+In 2026 booking opened on Saturday 16 May, after a Proms Planner phase from 21 April to 15 May, and the two ballots closed in June and July. The BBC Proms site publishes each season's dates.
 
 More London nights the public can get into, from award-ceremony red carpets to premieres, are in [award ceremonies in London](/articles/award-ceremonies-london/).
 
