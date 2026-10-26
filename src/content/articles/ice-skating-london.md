@@ -27,11 +27,9 @@ faq:
     a: "Yes, at the indoor rinks that open all year: Alexandra Palace, Queens in Bayswater, Lee Valley Ice Centre in Leyton and Streatham. The outdoor rinks are all seasonal and close in the first days of January."
 ---
 
-London's outdoor rinks go up between the end of October and the third week of November and come down in the first days of January. Six are confirmed for 2026-27, in a Georgian courtyard, a Tudor palace, a Greenwich palace, the riverside at Battersea, Leicester Square and the middle of Hyde Park. Three that people still search for are not running.
+London's outdoor rinks open between the end of October and the third week of November and close in the first days of January. Six run in 2026-27: Somerset House, Hampton Court Palace, Battersea Power Station, the Queen's House in Greenwich, Leicester Square and Hyde Park. Three that people still search for are not running.
 
 > 💡 **The Short Version:** **Somerset House** is the classic: an 18th-century courtyard and a 40ft tree, **11 November 2026 to 10 January 2027**, adults **£13–£28.50**, children **£11–£15**, plus **£1.50 a ticket**. It went on sale on **25 September**; prices vary through the run, and early booking gets the lowest. **Hampton Court Palace** (20 November to 3 January, adults £19.50–£21.50) is the one with the Tudor backdrop. **Skate Leicester Square** opens first, on **31 October** (from £10), and **Battersea Power Station's Glide** follows on **6 November**, with three rinks and a 200-metre riverside trail. **The Queen's House** in Greenwich (18 November to 3 January) is the quieter one. **Winter Wonderland's** rink is the biggest, but you need an entry ticket on top. **Not running:** the Natural History Museum (closed for good), Canary Wharf (a break in 2026) and the Tower of London. Sessions last **45 minutes**, and all six outdoor rinks close on **Christmas Day**.
-
-*Dates, prices and rules are from each rink's own site.*
 
 ---
 
@@ -49,7 +47,7 @@ London's outdoor rinks go up between the end of October and the third week of No
 | **Alexandra Palace** (indoor) | Wood Green, N22 | Open all year; Festive Skate 9 Dec – 4 Jan | £11.75 off-peak, £12.75 peak | Up a steep hill, and indoors |
 | **Leicester Square** | West End, WC2 | 31 Oct – 3 Jan | From £10 + £3 transaction fee | Sessions last 45 minutes; under-3s are not allowed on the ice |
 
-Every outdoor rink skates in the rain, and none refunds for bad weather unless the rink itself cancels the session. All five confirmed rinks include skate hire in the ticket.
+Every outdoor rink skates in the rain, and none refunds for bad weather unless the rink itself cancels the session. All six outdoor rinks include skate hire in the ticket.
 
 ---
 
@@ -59,7 +57,7 @@ Every outdoor rink skates in the rain, and none refunds for bad weather unless t
 
 *The Somerset House rink, with skate aids for beginners on the right.*
 
-**The rink fills the Edmond J. Safra Fountain Court**, the quadrangle behind the Strand, with the building on all four sides and a 40ft Christmas tree. After dark, Skate Lates bring DJs to selected evenings from 12 November, and a first K-pop party on the ice is booked for **Monday 23 November**. Watching is free: anyone can walk into the courtyard, the viewing platform or the rinkside Virgin Atlantic Clubhouse without a ticket.
+**The rink fills the Edmond J. Safra Fountain Court**, the quadrangle behind the Strand, with a 40ft Christmas tree. Skate Lates bring DJs to selected evenings from 12 November, and there is a K-pop party on the ice on **Monday 23 November**. Watching is free: anyone can walk into the courtyard, the viewing platform or the rinkside Virgin Atlantic Clubhouse without a ticket.
 
 **Eat and drink:** The Chalet by Jimmy Garcia serves raclette with charcuterie and potatoes, from 12 November to 31 December. It keeps short hours: closed Monday to Wednesday in November, dinner only on Mondays and Tuesdays in December, and closed on several dates in both months. The huts in the courtyard do hot chocolate and German hot dogs without the booking.
 
@@ -81,7 +79,7 @@ Every outdoor rink skates in the rain, and none refunds for bad weather unless t
 
 *The rink in front of the palace's floodlit West Front.*
 
-**The rink sits in front of Henry VIII's palace**, and the skate exchange and café have been redesigned on the palace's Orangery, in rustic wood and greenery. The operator promises fewer skaters than before. Weekends bring live ice sculpting and a Skating Santa on dates still to be announced, and every Sunday from 6pm to 9pm is a Sunday Session aimed at families.
+**The rink sits in front of Henry VIII's palace.** Every Sunday from 6pm to 9pm is a Sunday Session aimed at families.
 
 **Eat and drink:** coffee and hot chocolate from Department of Coffee & Social Affairs, croissants, sausage rolls and sandwiches from Deelight Bakery, and mulled wine, hot toddies and festive cocktails.
 
@@ -101,11 +99,9 @@ Groups of ten or more get a further discount. Bookings are open at [hamptoncourt
 
 **Children:** no one under 3 on the ice; under-13s with an adult aged 18 or over, up to five children per adult. Skate aids are £6 on the day, first come first served, and staff measure each child before handing one over. Bob skates start at a child's size 6.5.
 
-**Getting there:** Hampton Court station, on South Western Railway from Waterloo in about 35 minutes, is across the bridge from the palace gates.
+**Getting there:** Hampton Court station, on South Western Railway from Waterloo in about 35 minutes, is across the bridge from the palace gates. It is the only rink here outside central London, so allow half a day. The rink ticket does not get you into the palace, whose own Christmas walkthrough, The Winter Palace, needs palace admission (see [Christmas in London](/articles/christmas-in-london/)). The site is **cashless**.
 
 The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court Palace guide](/articles/hampton-court-palace-guide/).
-
-**Getting there:** it is the only rink here outside central London, so allow half a day. The rink ticket does not get you into the palace, whose own Christmas walkthrough, The Winter Palace, needs palace admission (see [Christmas in London](/articles/christmas-in-london/)). The site is **cashless**.
 
 ---
 
@@ -119,7 +115,7 @@ The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court
 
 **Eat and drink:** the Glass House bar looks over the ice and is free to walk into, skating or not. For the rest of the power station's restaurants, see our [Battersea area guide](/articles/battersea-area-guide/).
 
-**Dates and hours:** **Friday 6 November 2026 to Sunday 3 January 2027**, the earliest opening of the season. Sessions last about **45 minutes**; arrive 40 minutes early. On weekday mornings early in the season, Extended Skate sessions let you stay on until 2.40pm (6 to 20 November) or 1.40pm (23 November to 4 December). The last session is 9pm on Christmas Eve and Boxing Day and 8pm on New Year's Day. **Christmas Day is closed**, and **New Year's Eve** adds a New Year's Skate from 11pm to 12.15am.
+**Dates and hours:** **Friday 6 November 2026 to Sunday 3 January 2027**. Sessions last about **45 minutes**; arrive 40 minutes early. On weekday mornings early in the season, Extended Skate sessions let you stay on until 2.40pm (6 to 20 November) or 1.40pm (23 November to 4 December). The last session is 9pm on Christmas Eve and Boxing Day and 8pm on New Year's Day. **Christmas Day is closed**, and **New Year's Eve** adds a New Year's Skate from 11pm to 12.15am.
 
 **Price and booking:** adult (13+), child (3–12), family (2 adults and 2 children, or 1 and 3) and wheelchair-user tickets, sold by session on the [Glide booking calendar](https://glidebatterseapowerstation.co.uk/tickets/), with a **£2.50 fee per order**. Student tickets, with ID, include a drink at the Glass House and are sold for Monday to Thursday sessions up to 10 December. An unlimited season pass is **£290**. You can move to another date up to a week ahead for £3 a ticket plus any price difference; there are no refunds.
 
@@ -154,7 +150,7 @@ The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court
 
 **Getting there:** Greenwich and Maze Hill stations are each about 10 minutes' walk, and Greenwich Pier is a few minutes for the Uber Boat. The [Greenwich area guide](/articles/greenwich-area-guide/) covers the rest of the day.
 
-**For families:** it runs more discounted sessions than any other rink here, and the kids-skate-free Tuesdays make it the cheapest for a family before Christmas. The site is cashless; cloakroom £2 an item.
+The site is cashless; cloakroom £2 an item.
 
 ---
 
@@ -192,21 +188,21 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 **Getting there:** Alexandra Palace station (Great Northern, from Moorgate and King's Cross), then a steep walk up through the park, or the W3 bus from Wood Green. Book at [alexandrapalace.com](https://www.alexandrapalace.com/the-ice-rink/book-a-skate/).
 
-**Indoors:** no wet ice and no rain, and it is the cheapest skate in this guide.
+**Indoors:** no rain and no wet ice.
 
 ---
 
 ## Leicester Square
 
-**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, runs from **31 October 2026 to 3 January 2027**, every day except Christmas Day, next to the [Christmas market](/articles/christmas-markets-london/) stalls. Until 26 November it opens at noon on weekdays and 10am at weekends; from 27 November it opens at 10am daily. It closes at 10pm, with the last session at 9.15pm, and at 6pm on Christmas Eve. Sessions last 45 minutes and tickets start at **£10** plus a £3 transaction fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk. It is the most central rink in London and the easiest to add to an evening in the West End.
+**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, runs from **31 October 2026 to 3 January 2027**, every day except Christmas Day, next to the [Christmas market](/articles/christmas-markets-london/) stalls. Until 26 November it opens at noon on weekdays and 10am at weekends; from 27 November it opens at 10am daily. It closes at 10pm, with the last session at 9.15pm, and at 6pm on Christmas Eve. Sessions last 45 minutes and tickets start at **£10** plus a £3 transaction fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk, which makes it the easiest rink to add to an evening in the West End.
 
 ---
 
 ## The rinks that are not running
 
-- **Natural History Museum.** The museum's rink has **closed for good** after 16 years. The gardens it stood on have been turned into wildlife gardens, which are free to walk round. Somerset House is a straight run from South Kensington to Temple on the District or Circle line.
-- **Canary Wharf.** Ice Rink Canary Wharf is **taking a break for the 2026 season** and will not operate in winter 2026. Canary Wharf's Winter Lights, in January, go ahead; see the [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
-- **Tower of London.** The moat rink ran in the mid-2010s, and **no rink is announced for 2026**.
+- **Natural History Museum.** The museum's rink has **closed for good** after 16 years; the gardens it stood on are now wildlife gardens, free to walk round. Somerset House is a straight run from South Kensington to Temple on the District or Circle line.
+- **Canary Wharf.** Ice Rink Canary Wharf is **taking a break for the 2026 season**. Canary Wharf's Winter Lights, in January, go ahead; see the [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
+- **Tower of London.** The moat rink ran in the mid-2010s and is **not running in 2026**.
 
 ## Skating out of season
 
