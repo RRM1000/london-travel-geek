@@ -3,7 +3,8 @@ title: "London Tube and Rail Lines: Which to Take and What to Expect"
 seoTitle: "London Tube Lines Guide: Crowding, Comfort and Stops"
 description: "A line-by-line guide to the London Underground, Elizabeth line, DLR and London Overground, with crowding and comfort ratings, key attractions and the best station exits."
 publishedAt: 2026-08-05
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2026-11-30
 sites:
   - london
 canonicalSite: london
@@ -22,15 +23,17 @@ heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/4.0/"
 ---
 
-The Underground is the rail network visitors arrive knowing about, but the Elizabeth line, the Overground, the DLR, Thameslink and the trams all take the same Oyster card or bank card, and several of them are the better ride.
+The Elizabeth line, Overground, DLR, Thameslink and trams take the same Oyster card or bank card as the Underground, and several are the better ride.
 
-> **The short answer:** London's rail lines are not interchangeable. The Elizabeth line, the sub-surface Tube lines and the London Overground are air-conditioned and comfortable; the deep-level Tube lines are faster through the centre but hot and crowded. This guide rates every line for crowding and comfort, and lists which attractions sit at which station — including the exit to use when you get there.
+> **The short answer:** The Elizabeth line, the sub-surface Tube lines and the London Overground are air-conditioned and comfortable; the deep-level Tube lines are faster through the centre but hot and crowded. Every line below is rated for crowding and comfort, with the attractions at each station and the exit to use.
 
-Oyster and contactless work on every line covered here. For the National Rail exceptions and the Elizabeth line boundary at West Drayton, see the [Oyster card and contactless guide](/articles/oyster-card-guide-london/). If you are new to the network, [How to Use the London Underground](/articles/how-to-use-the-london-underground/) explains touching in and out, fare zones, interchanges and common first-time mistakes. For what a journey costs, see the [2026 fares guide](/articles/london-public-transport-costs-and-fares/).
+Oyster and contactless work on every line covered here. For the National Rail exceptions and the Elizabeth line boundary at West Drayton, see the [Oyster card and contactless guide](/articles/oyster-card-guide-london/). New to the network? [How to Use the London Underground](/articles/how-to-use-the-london-underground/) explains touching in and out, fare zones and interchanges. For what a journey costs, see the [2026 fares guide](/articles/london-public-transport-costs-and-fares/).
+
+> ⚠️ **The Piccadilly line is closed from 1am on Saturday 31 October to the end of Sunday 1 November.** No Elizabeth line or Heathrow Express trains run to or from Heathrow on Saturday 28 and Sunday 29 November, or from Sunday 27 to Wednesday 30 December, and the Piccadilly line is the only train service to the airport on those dates ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/)).
 
 ## Official London rail and Tube map
 
-The Elizabeth line runs west–east through central London, linking Paddington, Bond Street, Tottenham Court Road, Farringdon, Liverpool Street and Canary Wharf. The DLR mainly serves Docklands, Greenwich and London City Airport, while the London Overground connects areas around and beyond central London. The map below shows Zones 1 and 2, and the full official map is linked below.
+The Elizabeth line runs west–east through central London, linking Paddington, Bond Street, Tottenham Court Road, Farringdon, Liverpool Street and Canary Wharf. The DLR mainly serves Docklands, Greenwich and London City Airport, while the London Overground connects areas around and beyond central London. The map below shows Zones 1 and 2; the full official map is linked under it.
 
 <div class="network-map">
   <img src="/tfl-rail-and-tube-map.png" alt="Transport for London's rail and Tube services map, showing Zones 1 and 2" />
@@ -42,7 +45,7 @@ The Elizabeth line runs west–east through central London, linking Paddington, 
 
 ![A platform line diagram at Great Portland Street showing westbound stops on the Hammersmith & City and Circle lines](../../assets/articles/oyster-train-lines/circle-hammersmith-line-diagram.jpg)
 
-All 11 Tube lines are rated below — tap any line to open it. Checking the platform diagram before boarding is the simplest way to avoid taking the wrong branch. The Elizabeth line, DLR and London Overground are covered after this section.
+All 11 Tube lines are rated below; tap any line to open it. Check the platform diagram before boarding to avoid the wrong branch. The Elizabeth line, DLR and London Overground follow.
 
 **Rating key:**
 
@@ -51,7 +54,7 @@ All 11 Tube lines are rated below — tap any line to open it. Checking the plat
 - **Ease of use:** how easy the line is to navigate — branches, interchanges and how often you have to check which train you are boarding.
 - **Night Tube:** whether the line runs through the night on Friday and Saturday.
 
-> 📶 **Phone signal is not a per-line thing, with one exception.** Station WiFi is free and near-universal across the network, but mobile coverage in the tunnels is being fitted section by section, not line by line — so a line is rarely all-or-nothing, and that is why there is no signal rating below. **The Elizabeth line is the exception**: it is complete end to end and the only line with genuine onboard WiFi, so route through it if you need to be reachable. The [full picture is in the Underground guide](/articles/how-to-use-the-london-underground/#wifi-and-phone-signal-underground).
+> 📶 **Phone signal is not rated per line.** Station WiFi is free and near-universal, but mobile coverage in the tunnels is being fitted section by section, so a line is rarely all-or-nothing. **The Elizabeth line is the exception**: it has signal end to end and is the only line with onboard WiFi. The [full picture is in the Underground guide](/articles/how-to-use-the-london-underground/#wifi-and-phone-signal-underground).
 
 <details class="line-details">
 <summary><span class="line-name line-name--piccadilly"><span aria-hidden="true" class="line-name__swatch"></span>Piccadilly</span> <span class="line-details__meta">crowding 5/5 &middot; comfort 2/5 &middot; ease 3/5</span></summary>
@@ -283,7 +286,7 @@ All 11 Tube lines are rated below — tap any line to open it. Checking the plat
   </tbody>
 </table>
 
-The Circle, District, Hammersmith & City and Metropolitan lines use modern S-stock trains with walk-through carriages and air-conditioning. The deep-level lines generally use forced ventilation, not passenger air-conditioning. Piccadilly line fleet replacement is beginning in 2026, so the train you receive will depend on the rollout.
+The Circle, District, Hammersmith & City and Metropolitan lines use modern S-stock trains with walk-through carriages and air-conditioning. The deep-level lines generally use forced ventilation, not passenger air-conditioning. Piccadilly line fleet replacement begins in 2026, so which train you get depends on the rollout.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-tube-and-rail-lines-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -297,7 +300,7 @@ The Elizabeth line is shown in purple. It crosses London from Shenfield and Abbe
 
 <table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Little Venice and canal walks</td><td>Paddington</td><td>Praed Street or Canal Walk exit</td></tr><tr><td>Selfridges, Oxford Street and Mayfair</td><td>Bond Street</td><td>Davies Street for Mayfair; Hanover Square for Regent Street</td></tr><tr><td>Soho, British Museum and Outernet London</td><td>Tottenham Court Road</td><td>Dean Street for Soho; Oxford Street / Plaza for Outernet and British Museum</td></tr><tr><td>Spitalfields Market, Brick Lane and Horizon 22</td><td>Liverpool Street</td><td>Bishopsgate / Octagon exit for Spitalfields</td></tr><tr><td>Crossrail Place Roof Garden and Museum of London Docklands</td><td>Canary Wharf</td><td>Crossrail Place exit</td></tr></tbody></table>
 
-The central section is especially busy at peak times. Long walk-through trains, generous luggage space and step-free access from street to platform at every Elizabeth line station make this a particularly convenient route for airport travel. Boarding is level at the new central stations and Heathrow.
+The central section is especially busy at peak times. Walk-through trains, generous luggage space and step-free access at every station make it a convenient airport route, with level boarding at the new central stations and Heathrow.
 
 If you are travelling to Heathrow, Elizabeth line and Piccadilly line fares and journey times differ, so use the [complete Heathrow Airport transport guide](/articles/heathrow-airport-to-london/) alongside TfL's Single Fare Finder.
 
@@ -307,7 +310,7 @@ East of central London, the line has two branches. Services to **Abbey Wood** ru
 
 The DLR serves the City, Canary Wharf, the Royal Docks, London City Airport, Stratford, Woolwich and Lewisham. Its trains are automated, although a passenger service agent is normally on board.
 
-Most DLR stations do not have ticket gates. Instead, tap your Oyster card, contactless card or device on a yellow reader when you enter and leave the station. It is easy to walk straight to the platform, so make a point of tapping in and out: ticket inspectors sometimes check for valid payment on the train.
+Most DLR stations do not have ticket gates. Instead, tap your Oyster card, contactless card or device on a yellow reader when you enter and leave the station. Tap in and out: inspectors sometimes check for valid payment on the train.
 
 <div class="line-guide"><dl><div><dt>Crowding</dt><dd>3/5 overall; 4/5 peak</dd></div><div><dt>Comfort</dt><dd>3/5</dd></div><div><dt>Air-conditioning</dt><dd>Older trains: no. New B23 trains: yes</dd></div></dl></div>
 
@@ -315,9 +318,9 @@ Most DLR stations do not have ticket gates. Instead, tap your Oyster card, conta
 
 <table class="line-attractions"><thead><tr><th>Attraction / area</th><th>Station</th><th>Best exit</th></tr></thead><tbody><tr><td>Tower of London and Tower Bridge</td><td>Tower Gateway</td><td>Main exit; around three minutes' walk to Tower Hill</td></tr><tr><td>Cutty Sark, National Maritime Museum, Greenwich Market and Greenwich Park (the Royal Observatory is closed from 2 November 2026)</td><td>Cutty Sark for Maritime Greenwich</td><td>Main street exit onto Cutty Sark Gardens / Greenwich Church Street</td></tr><tr><td>ExCeL London</td><td>Custom House</td><td>Direct covered walkway into the main entrance</td></tr><tr><td>ABBA Voyage / ABBA Arena</td><td>Pudding Mill Lane</td><td>Single exit directly opposite the arena entrance</td></tr><tr><td>London City Airport terminal</td><td>London City Airport</td><td>Escalators lead directly into the check-in hall</td></tr></tbody></table>
 
-At commuter times, services around Canary Wharf are busier. Every DLR station has step-free access from street to platform. The front seats give an excellent driver's-eye view when available.
+Services around Canary Wharf are busier at commuter times. Every DLR station is step-free from street to platform. The front seats give a driver's-eye view when free.
 
-TfL is replacing the older fleet with spacious, walk-through B23 trains. The new trains have air-conditioning and charging points, but the proportion in service will vary during the rollout.
+TfL is replacing the older fleet with walk-through B23 trains, which have air-conditioning and charging points; the proportion in service varies during the rollout.
 
 ![A DLR train beneath the high roof of Canary Wharf station.](../../assets/articles/oyster-train-lines/canary-wharf-dlr.jpg)
 
@@ -327,7 +330,7 @@ TfL is replacing the older fleet with spacious, walk-through B23 trains. The new
 
 ## <span class="line-name line-name--overground"><span aria-hidden="true" class="line-name__swatch"></span>London Overground</span>
 
-London Overground is the orange network that circles and crosses inner and outer London. Its six routes now have individual names.
+London Overground is the orange network that circles and crosses inner and outer London. Its six routes have individual names.
 
 | Overground line | Main route | Typical crowding | Comfort | Air-conditioning |
 | --- | --- | ---: | ---: | --- |
@@ -338,7 +341,7 @@ London Overground is the orange network that circles and crosses inner and outer
 | <span class="line-name line-name--weaver"><span aria-hidden="true" class="line-name__swatch"></span>Weaver</span> | Liverpool Street–Enfield Town, Cheshunt or Chingford | 4/5 | 4/5 | Yes |
 | <span class="line-name line-name--windrush"><span aria-hidden="true" class="line-name__swatch"></span>Windrush</span> | Highbury & Islington–New Cross, Clapham Junction, Crystal Palace or West Croydon | 5/5 | 4/5 | Yes |
 
-All London Overground trains are walk-through and air-conditioned. Several lines divide into branches, so the new line name does not remove the need to check the train's destination.
+All London Overground trains are walk-through and air-conditioned. Several lines divide into branches, so check the train's destination.
 
 ![A London Overground Class 710 train at Liverpool Street station.](../../assets/articles/oyster-train-lines/london-overground-liverpool-street.jpg)
 
@@ -355,24 +358,22 @@ Where a visitor can choose between routes:
   - District
   - Hammersmith & City
   - Metropolitan
-- **London Overground** is comfortable and air-conditioned, but the Windrush and Mildmay lines can be exceptionally busy.
+- **London Overground** is comfortable and air-conditioned, but the Windrush and Mildmay lines can be very busy.
 - **DLR** is scenic and accessible; seek the front seats outside peak time.
 - **Deep-level Tube lines** are often fastest for central journeys, but can be hot and crowded in summer.
 
-Speed, step-free access and interchange walking time can count for more than the train itself. Consider the whole journey, not just the ratings above.
-
 ## When walking between stations is simpler
 
-In central London, stations that look separate on the Tube map can be close together at street level. A short walk can be quicker or simply easier than changing lines once you allow for finding the interchange, stairs or escalators, long passageways and waiting for the next train. TfL's [station-to-station walking map](https://tfl.gov.uk/cdn/static/cms/documents/walking-tube-map.pdf) is a useful starting point.
+Stations that look separate on the Tube map can be close together at street level, and a short walk can beat changing lines once you allow for stairs, long passageways and waiting for the next train. TfL's [station-to-station walking map](https://tfl.gov.uk/cdn/static/cms/documents/walking-tube-map.pdf) is a useful starting point.
 
-Useful walking alternatives for visitors include:
+Useful walks:
 
-- **Covent Garden and Leicester Square** — Roughly 400 metres apart on foot, or around five minutes. Leicester Square is on the Piccadilly line, so getting off there for Covent Garden can be the simpler choice, particularly when a change of line would be involved.
-- **Waterloo and Southwark** — about four minutes on foot. This can be handy between the South Bank, Waterloo and the Tate Modern side of the river.
-- **Monument and London Bridge** — about five minutes on foot. It is a practical option when moving between the City and London Bridge or Borough Market.
-- **Embankment and Waterloo** — about eight minutes on foot along the river. Consider it for the South Bank, the London Eye or a connection at Waterloo instead of an extra change.
-- **Tower Hill and Tower Gateway** — roughly three minutes on foot. This is useful for changing between the District or Circle lines and the DLR near the Tower of London.
+- **Covent Garden and Leicester Square** — Roughly 400 metres apart on foot, or around five minutes. Leicester Square is on the Piccadilly line, so getting off there for Covent Garden can save a change.
+- **Waterloo and Southwark** — about four minutes on foot, handy between Waterloo and the Tate Modern side of the river.
+- **Monument and London Bridge** — about five minutes on foot, between the City and London Bridge or Borough Market.
+- **Embankment and Waterloo** — about eight minutes on foot along the river, instead of an extra change for the South Bank, the London Eye or Waterloo.
+- **Tower Hill and Tower Gateway** — roughly three minutes on foot, for changing between the District or Circle lines and the DLR near the Tower of London.
 
 ---
 
-*Information checked on 28 July 2026. Fare boundaries, train fleets and services change. Confirm a time-sensitive journey with [Transport for London](https://tfl.gov.uk/) before travelling.*
+*Fare boundaries, train fleets and services change. Confirm a time-sensitive journey with [Transport for London](https://tfl.gov.uk/) before travelling.*
