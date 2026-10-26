@@ -44,6 +44,14 @@ type Activity = {
 
 const { articleId, areaName } = Astro.props as Props;
 
+// Tag a GetYourGuide link with a campaign so the partner dashboard shows which
+// page earned it. Untagged sidebar and card links were the biggest earner in
+// October and could not be traced to a page.
+const tagGyg = (url: string, cmp: string) =>
+  url.includes("getyourguide.com") && !/[?&]cmp=/.test(url)
+    ? `${url}${url.includes("?") ? "&" : "?"}cmp=${encodeURIComponent(cmp)}`
+    : url;
+
 // Only rows with something to sell. affiliate.mjs sets affiliateUrl on a
 // narrow, deliberate list of activity types - a free park or a market browse
 // gets no link at all - so this filter inherits that judgement rather than
@@ -57,7 +65,7 @@ const picks = (data.activities as Activity[])
 
 // London's own city page on GetYourGuide - l57 is the same location id the old
 // widget used.
-const londonUrl = `https://www.getyourguide.com/london-l57/?partner_id=${GYG_PARTNER_ID}`;
+const londonUrl = `https://www.getyourguide.com/london-l57/?partner_id=${GYG_PARTNER_ID}&cmp=${encodeURIComponent(`${articleId}-sidebar-more`)}`;
 const heading = areaName ? `Book in ${areaName}` : "Book things to do";
 ---
 
@@ -70,7 +78,7 @@ const heading = areaName ? `Book in ${areaName}` : "Book things to do";
       {picks.map((a) => (
         <li>
           <a
-            href={a.affiliateUrl}
+            href={tagGyg(a.affiliateUrl!, `${articleId}-sidebar`)}
             rel="sponsored nofollow noopener"
             target="_blank"
             data-affiliate={a.affiliateNetwork}

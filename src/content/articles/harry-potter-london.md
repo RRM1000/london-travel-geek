@@ -215,7 +215,7 @@ The locations are scattered across four postcodes and most are worth about two m
 
 ### The bus tour, if you have one day
 
-**[London: Harry Potter Film Locations Sightseeing Bus Tour](https://www.getyourguide.com/london-l57/london-harry-potter-film-locations-sightseeing-bus-tour-t912548/)** runs on a purple 1960s Routemaster standing in for the Knight Bus, starts and returns to **Embankment**, and is **listed at three hours** with a live guide. **4.6 from more than 500 reviews**, free cancellation up to 24 hours ahead.
+**[London: Harry Potter Film Locations Sightseeing Bus Tour](https://www.getyourguide.com/activity/-t912548?partner_id=WWP7I0R&cmp=harry-potter-london)** runs on a purple 1960s Routemaster standing in for the Knight Bus, starts and returns to **Embankment**, and is **listed at three hours** with a live guide. **4.6 from more than 500 reviews**, free cancellation up to 24 hours ahead.
 
 It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, Lambeth Bridge, Great Scotland Yard and Horse Guards Parade**, with photo stops and short guided walks, not a drive-past, and a quiz on board. Lambeth Bridge is the one few people seek out alone: it is where the Knight Bus squeezes between two buses, and nothing marks the spot.
 
@@ -225,7 +225,7 @@ It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, L
 
 ### The walking tour, if you would rather see more
 
-**[The most comprehensive and exclusive Harry Potter tour in London](https://www.getyourguide.com/london-l57/the-most-comprehensive-and-exclusive-harry-potter-tour-in-london-t772912)** is the highest-rated of the lot — **4.9 from over 1,000 reviews** — and at **195 minutes** it is the longest. It starts by **King's Cross** and finishes at **Goodwin's Court**, the alley that is widely held to be the model for Diagon Alley and which almost no self-guided route finds.
+**[The most comprehensive and exclusive Harry Potter tour in London](https://www.getyourguide.com/activity/-t772912?partner_id=WWP7I0R&cmp=harry-potter-london)** is the highest-rated of the lot — **4.9 from over 1,000 reviews** — and at **195 minutes** it is the longest. It starts by **King's Cross** and finishes at **Goodwin's Court**, the alley that is widely held to be the model for Diagon Alley and which almost no self-guided route finds.
 
 In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops, not a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking, which is the trade for covering more ground than the bus.
 

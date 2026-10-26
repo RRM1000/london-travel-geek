@@ -17,6 +17,14 @@ interface Props {
 }
 const { articleId, areaName } = Astro.props as Props;
 
+// Tag a GetYourGuide link with a campaign so the partner dashboard shows which
+// page earned it. Untagged sidebar and card links were the biggest earner in
+// October and could not be traced to a page.
+const tagGyg = (url: string, cmp: string) =>
+  url.includes("getyourguide.com") && !/[?&]cmp=/.test(url)
+    ? `${url}${url.includes("?") ? "&" : "?"}cmp=${encodeURIComponent(cmp)}`
+    : url;
+
 type Activity = {
   slug: string; name: string; type?: string; style?: string;
   area?: string; station?: string; walkMin?: number;
@@ -148,7 +156,7 @@ const photos = await sheetPhotos(list.map((a) => a.slug));
                 <a href={a.bookingUrl} rel="nofollow noopener" target="_blank">Book direct</a>
               )}
               {!a.bookingUrl && a.affiliateUrl && (
-                <a href={a.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={a.affiliateNetwork}>
+                <a href={tagGyg(a.affiliateUrl, `${articleId}-cards`)} rel="sponsored nofollow noopener" target="_blank" data-affiliate={a.affiliateNetwork}>
                   Check tickets on GetYourGuide<span class="aa-ad">ad</span>
                 </a>
               )}

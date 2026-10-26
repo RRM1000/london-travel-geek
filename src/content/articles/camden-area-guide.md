@@ -203,7 +203,7 @@ Five different operators run from Camden Lock, and they are different trips rath
 | **[Jason's Trip](https://www.jasons.co.uk/)** | Little Venice ↔ Camden | ~45 min | £19 single, £25 return | Running since **1951** — the original Regent's Canal tour — on a canal boat built in **1906** |
 | **[Jenny Wren](https://walkersquay.com/)** | Camden → Little Venice → back | **~90 min round trip** | Phone to book | Guided the whole way, and the only one that **works a lock while you are aboard**. Ends where it started, so no walk back |
 | **[My Fair Lady](https://walkersquay.com/my-fair-lady/)** | Regent's Canal | An evening, a Sunday lunch or afternoon tea | Phone to book | A **restaurant boat** — fully enclosed and heated, three courses cooked in a galley on board |
-| **[The Music Boat](https://www.getyourguide.com/london-l57/london-regent-s-canal-punting-boat-ride-with-live-music-t1298125/)** | Camden loop | ~45 min | £16.25 | A **punt with live musicians** aboard, from Camden Lock from 11am. Passes the Pirate Castle and St Mark's Church |
+| **[The Music Boat](https://www.getyourguide.com/activity/-t1298125?partner_id=WWP7I0R&cmp=camden-area-guide)** | Camden loop | ~45 min | £16.25 | A **punt with live musicians** aboard, from Camden Lock from 11am. Passes the Pirate Castle and St Mark's Church |
 
 ![A wooden punt on the Regent's Canal under a bridge, with a guitarist playing to the passengers aboard](../../assets/articles/camden-area-guide/regents-canal-boat-bridge.jpg)
 
