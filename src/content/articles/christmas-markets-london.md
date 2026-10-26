@@ -1,7 +1,7 @@
 ---
 title: "Christmas Markets in London 2026: Dates, Hours and What Each One Is For"
 seoTitle: "London Christmas Markets 2026: Dates, Hours & Prices"
-description: "Every London Christmas market with its 2026 dates and opening hours where they are out and 2025's where they are not: Southbank from 2 November, Leicester Square from 31 October, Kingston from 12 November. What to eat, cash or card, and when to go."
+description: "Every London Christmas market with its 2026 dates and opening hours: Southbank from 2 November, Leicester Square from 31 October, Kingston from 12 November. What to eat, cash or card, and when to go."
 heroImage: "../../assets/articles/christmas-markets-london/trafalgar-square-market.jpg"
 heroImageAlt: "Red-roofed wooden chalets of the Trafalgar Square Christmas market lit with garlands at dusk, in front of the National Gallery's portico and dome, with the spire of St Martin-in-the-Fields on the right"
 heroImageCredit: "Donnchadh H"
@@ -26,24 +26,24 @@ faq:
   - q: "Do London Christmas markets take cards?"
     a: "Almost all do. The Southbank Centre's market is cash-free, so a card or phone is the only way to pay there. At Kingston most traders take both, but the organisers prefer cards. Winter Wonderland takes contactless at every bar, stall and ride."
   - q: "Are London's Christmas markets open on Christmas Day?"
-    a: "No. Leicester Square, Winter by the River, Kingston, Greenwich Market, Winter Wonderland and Borough Market all close on 25 December, and Borough also shuts on 26 and 27 December and New Year's Day. In 2025 the Southbank Centre's market closed on Christmas Day, New Year's Eve and New Year's Day."
+    a: "No. Leicester Square, Winter by the River, Kingston, Greenwich Market, Winter Wonderland and Borough Market all close on 25 December, and Borough also shuts on 26 and 27 December and New Year's Day."
   - q: "What is the difference between a Christmas market and London's regular markets?"
     a: "A Christmas market is a seasonal set of wooden chalets that exists for about six weeks, such as Southbank, Trafalgar Square or Kingston. Borough, Greenwich, Spitalfields and Camden trade all year and simply dress up for December. For the year-round markets, see our guide to London's best markets."
 ---
 
-London's Christmas markets come in three kinds: the chalet markets that go up for six weeks in November, the year-round markets that dress up for December, and one-weekend maker fairs where the stallholders made what they sell. Most cost nothing to walk into. Most of the chalet markets also publish their dates late, so several below still carry their 2025 dates.
+London's Christmas markets come in three kinds: the chalet markets that go up for six weeks in November, the year-round markets that dress up for December, and one-weekend maker fairs where the stallholders made what they sell. Most cost nothing to walk into.
 
-> 💡 **The Short Version:** **Kingston** runs **12 November 2026 to 3 January 2027**, free, in the Ancient Market Place. In central London, **Leicester Square** puts its chalets round an ice rink from **31 October to 3 January**; the **Southbank Centre Winter Market**, from **2 November**, is the food one, beside the river and **cash-free**; **Winter by the River** at London Bridge City opens on **10 November**; **Trafalgar Square** has the Norway spruce, lit on **3 December**. **Borough Market** opens seven days a week from **30 November** and closes **25 to 27 December**. For handmade gifts, **Crafty Fox** has four 2026 dates, from the British Library on **14–15 November** to King's Cross on **12–13 December**. **Winter Wonderland's** market needs an entry ticket; nothing else here does, apart from Chelsea Physic Garden's fair.
+> 💡 **The Short Version:** **Kingston** runs **12 November 2026 to 3 January 2027**, free, in the Ancient Market Place. In central London, **Leicester Square** puts its chalets round an ice rink from **31 October to 3 January**; the **Southbank Centre Winter Market**, from **2 November**, is the food one, beside the river and **cash-free**; **Winter by the River** at London Bridge City opens on **10 November**; **Trafalgar Square** has the Norway spruce, lit on **3 December**. **Borough Market** opens seven days a week from **30 November** and closes **25 to 27 December**. For handmade gifts, **Crafty Fox** has four 2026 dates, from the British Library on **14–15 November** to King's Cross on **12–13 December**. **Winter Wonderland's** market needs an entry ticket; nothing else here does, apart from the ticketed fairs.
 
 > 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
-*Dates, hours and prices as published by each organiser.*
+*Dates, hours and prices as at 26 October 2026.*
 
 ## The markets at a glance
 
 | Market | Where | 2026 dates | Price | Watch out for |
 | --- | --- | --- | --- | --- |
-| **Southbank Centre Winter Market** | Queen's Walk, SE1 | 2 Nov 2026 – 3 Jan 2027 | Free | Cash-free; in 2025 it closed on 25 Dec, 31 Dec and 1 Jan |
+| **Southbank Centre Winter Market** | Queen's Walk, SE1 | 2 Nov 2026 – 3 Jan 2027 | Free | Cash-free |
 | **Trafalgar Square** | North Terrace, WC2 | November to early January each year | Free | Small: one row of chalets. The tree is only lit from 3 December |
 | **Leicester Square** | Leicester Square, WC2 | 31 Oct 2026 – 3 Jan 2027 | Free; the rink is ticketed | Enclosed, and crowded in the evenings |
 | **Covent Garden** | The Piazza and Market Building, WC2 | Lights on 12 Nov 2026 | Free | No chalet market: you get the decorations and the everyday market halls |
@@ -52,13 +52,12 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 | **Winter Wonderland market** | Hyde Park, W2 | 19 Nov 2026 – 3 Jan 2027 | Entry ticket from £1 | Everyone needs a timed ticket, even just for the market |
 | **Kingston** | Ancient Market Place, KT1 | 12 Nov 2026 – 3 Jan 2027 | Free | Stalls shut at 6pm Sunday to Wednesday |
 | **Greenwich Market** | Greenwich, SE10 | Daily, all year | Free | Closes at 5.30pm; the street food market next door runs Friday to Sunday to 29 Nov |
-| **Wimbledon** | The Piazza, SW19 | Winterfest 28–29 Nov 2026; 2025: three Thursday-to-Sunday weekends, 27 Nov – 14 Dec | Free | Only 12 trading days in 2025 |
+| **Wimbledon** | The Piazza, SW19 | Winterfest 28–29 Nov 2026 | Free | Winterfest has ice skating and Santa's Grotto at Wimbledon Quarter |
 | **Crafty Fox** | British Library, RSA House, King's Cross | 14–15 Nov, 5 Dec, 6 Dec, 12–13 Dec | Free at the British Library, with a ticket to book | One or two days each; different makers each day |
 | **Chelsea Physic Garden fair** | Royal Hospital Road, SW3 | 26–29 Nov 2026 | £8–£10 | Ticketed; four days only |
 | **Spirit of Christmas Fair** | Olympia, W14 | 2–8 Nov 2026 | From £25.75 | Ticketed; open until 9pm on Thursday, 5pm on Sunday |
 | **Good Housekeeping Live with Country Living Christmas Market** | Business Design Centre, N1 | 11–14 Nov 2026 | Ticketed | Open 9.30am–5pm all four days |
 | **The Ideal Christmas Show** | Olympia, W14 | 26–29 Nov 2026 | From £16 | Ticketed; four days only |
-| **Columbia Road** | Columbia Road, E2 | 2025: four Wednesday evenings | Free | Shops only, 5–9pm, no road closure |
 
 ---
 
@@ -68,18 +67,18 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 **The food-led one, on the river under Hungerford Bridge, between the London Eye and Waterloo Bridge.** Alpine-style chalets line the Queen's Walk with bars, street food and independent craft traders under strings of lights. The 2026 hot-food stalls include Bang Bang Burger, Lil Watan's Lebanese grills, NUGS fried chicken, Venezuelan arepas from Pabellon, The Duck Shed, The Sausage and Yorkshire Burrito, with churros from The Churros Chalet and crumbles from Crumbled London.
 
-- **Dates:** **Monday 2 November 2026 to Sunday 3 January 2027**. In 2025 the market was closed on Christmas Day, New Year's Eve and New Year's Day.
+- **Dates:** **Monday 2 November 2026 to Sunday 3 January 2027**.
 - **Hours:** stalls **11am–10pm**, bars **11am–11pm**.
 - **Price:** free to walk through.
 - **Getting there:** Waterloo is about five minutes; from Embankment, cross the Golden Jubilee footbridge.
 
 > ⚠️ **It is cash-free.** Bring a card or phone.
 
-Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same food with room to stand at the barrel tables. The Southbank Centre is stop three on our [South Bank walk](/articles/south-bank-walk/), and the market is the easiest one to pair with a show there.
+Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same food with room to stand at the barrel tables. The Southbank Centre is stop three on our [South Bank walk](/articles/south-bank-walk/).
 
 ### Trafalgar Square Christmas Market
 
-**A single row of wooden chalets on the North Terrace, directly in front of the National Gallery**, selling decorations, gifts, mulled wine and hot snacks. It is small, and the setting is what you go for: the gallery portico behind, St Martin-in-the-Fields to one side and the Norway spruce below.
+**A single row of wooden chalets on the North Terrace, directly in front of the National Gallery**, selling decorations, gifts, mulled wine and hot snacks. It is small: the gallery portico is behind it, St Martin-in-the-Fields to one side and the Norway spruce below.
 
 - **Dates:** the market returns every year, opening in November and trading into early January.
 - **The tree:** a Norway spruce given by the people of Oslo every year since 1947. It is lit on **Thursday 3 December 2026** and stays until just before Twelfth Night. From the lighting until Christmas, charity choirs sing carols in one-hour sessions at its base most evenings, free to stand and listen.
@@ -104,7 +103,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ### Covent Garden
 
-**Covent Garden has no chalet market. What it has is a full set of Christmas decorations over the market halls that trade all year.** The lights go on on **Thursday 12 November 2026**, themed 'The Theatre of Christmas': over 300,000 of them across the neighbourhood, the gold bells, mirror balls and baubles hung inside the Market Building, and a British-grown tree on the West Piazza beside St Paul's Church. Festive Thursdays then run every Thursday to 24 December, with late-night shopping and choirs.
+**Covent Garden has no chalet market. What it has is a full set of Christmas decorations over the market halls that trade all year.** The lights go on on **Thursday 12 November 2026**, themed 'The Theatre of Christmas': over 300,000 of them across the neighbourhood, the gold bells, mirror balls and baubles hung inside the Market Building, and a 50ft tree on the West Piazza beside St Paul's Church. Festive Thursdays then run every Thursday, with late-night shopping and performances.
 
 **What to buy:** the **Apple Market** under the glass roof sells antiques on Mondays and crafts and general goods the rest of the week, from about 10am to 6pm. The **East Colonnade** has handmade jewellery and gifts, and the **Jubilee Market Hall** on the south side is cheaper and closer to a general market. A mulled wine cart stands on Central Avenue through the season.
 
@@ -119,7 +118,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ### Borough Market at Christmas
 
-**The market to buy Christmas food, not eat it standing up**, though it does both: cheesemongers, butchers, bakers and wine merchants under a Victorian iron roof, with the hot-food stalls in between. Borough has published its 2026 festive hours.
+**Cheesemongers, butchers, bakers and wine merchants under a Victorian iron roof**, with hot-food stalls in between. Borough has published its 2026 festive hours.
 
 - **Daily from Monday 30 November 2026:** Monday to Friday **10am–5pm**, Saturday **9am–5pm**, Sunday **10am–4pm**. Outside December it is closed on Mondays.
 - **Exceptions:** Wednesday 23 December **10am–6pm**; Christmas Eve **8am–3pm**; **closed 25, 26 and 27 December**; 31 December **10am–3pm**; closed New Year's Day; normal hours from Saturday 2 January 2027.
@@ -132,7 +131,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 *Elsey & Bent's fruit and vegetable stalls, with Roast restaurant on the floor above.*
 
-Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked and calm. Kappacasein's toastie, the most queued-for thing here, trades only Thursday to Saturday. The stall-by-stall detail is in our [best London markets](/articles/best-london-markets/) guide, and Borough is the lunch stop on the [Bankside and Borough walk](/articles/bankside-borough-walk/).
+Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked and calm. Kappacasein's toasties trade only Thursday to Saturday. The stall-by-stall detail is in our [best London markets](/articles/best-london-markets/) guide, and Borough is the lunch stop on the [Bankside and Borough walk](/articles/bankside-borough-walk/).
 
 ### Winter by the River, London Bridge City
 
@@ -156,7 +155,7 @@ Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked a
 
 ## Three markets in one evening, with a guide
 
-The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&amp;cmp=christmas-markets-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Christmas Lights & Bites Tour</a> meets at Embankment, walks through Covent Garden and Trafalgar Square and finishes at the Southbank market: **2.5 hours for £99**, with mulled wine, spiced cider or hot chocolate and snacks on the way. It has four reviews so far. The same route on your own costs nothing and is about half an hour's walking.
+The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&amp;cmp=christmas-markets-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Christmas Lights & Bites Tour</a> meets at Embankment, walks through Covent Garden and Trafalgar Square and finishes at the Southbank market: **2.5 hours for £99**, with mulled wine, spiced cider or hot chocolate and snacks on the way. The same route on your own costs nothing and is about half an hour's walking.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="317907" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -166,7 +165,7 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 ### Kingston Christmas Market
 
-**Wooden stalls** in the pedestrianised Ancient Market Place in Kingston upon Thames, a bar and live-music stage, and a carousel. The 2025 food traders included bratwurst, Yorkshire pudding wraps, Dutch pancakes and Belgian waffles, souvlaki, and pasta turned in a cheese wheel; the gift stalls sell personalised decorations, wooden music boxes and nutcrackers, jewellery and socks.
+**Wooden stalls** in the pedestrianised Ancient Market Place in Kingston upon Thames, a bar and live-music stage, and a carousel. There are food stalls and gift stalls.
 
 - **Dates:** **Thursday 12 November 2026 to Sunday 3 January 2027**, closed Christmas Day.
 - **Stalls:** Sunday to Wednesday **10am–6pm**, Thursday to Saturday **10am–8pm**; 10am–6pm on Christmas Eve and Boxing Day.
@@ -183,10 +182,10 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 ### Greenwich Market
 
-**A covered market of designer-makers, antiques dealers and food stalls, trading since 1737**, which dresses up for Christmas without turning into a Christmas market. It is the one to visit for gifts made by the person selling them, many under £15.
+**A covered market of designer-makers, antiques dealers and food stalls**, which dresses up for Christmas without turning into a Christmas market. It is the one to visit for gifts made by the person selling them.
 
 - **Open:** daily **10am–5.30pm**, all year, closed Christmas Day. Arts and crafts on Monday, Wednesday, Friday and weekends; antiques and collectables on Tuesday, Thursday and Friday.
-- **The Lantern Parade:** each November local schoolchildren carry lanterns from the Old Royal Naval College to the market, where the Christmas lights are switched on and the market stays open until 6pm. In 2025 it was Wednesday 19 November.
+- **The Lantern Parade:** each November local schoolchildren carry lanterns from the Old Royal Naval College to the market, where the Christmas lights are switched on and the market stays open until 6pm.
 - **Price:** free.
 - **Getting there:** Cutty Sark DLR, three minutes.
 
@@ -194,10 +193,9 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 ### Wimbledon Christmas Market
 
-**Love Wimbledon's market on The Piazza by the station**, with 70-plus local traders across its run: original art, candles, jewellery and knitwear, and food from Greek and Argentinian stalls to chimney cakes.
+**Love Wimbledon's market on The Piazza by the station**, with local traders selling original art, candles, jewellery and knitwear, and food stalls.
 
-- **Dates:** Wimbledon Winterfest is on **Saturday 28 and Sunday 29 November 2026**, 11am–6pm, across The Piazza and Wimbledon Quarter, with ice skating and Santa's Grotto at Wimbledon Quarter. In 2025 the market ran three Thursday-to-Sunday weekends from 27 November to 14 December.
-- **Hours in 2025:** Thursday and Friday **12pm–7pm**, Saturday and Sunday **11am–6pm**.
+- **Dates:** Wimbledon Winterfest is on **Saturday 28 and Sunday 29 November 2026**, 11am–6pm, across The Piazza and Wimbledon Quarter, with ice skating and Santa's Grotto at Wimbledon Quarter.
 - **Price:** free, and dogs are welcome.
 - **Getting there:** Wimbledon station, two minutes.
 
@@ -220,7 +218,7 @@ More in the [Battersea area guide](/articles/battersea-area-guide/).
 
 ### Crafty Fox Market
 
-**Independent designer-makers, most of them selling their own work: ceramics, prints, jewellery, textiles and homewares.** Crafty Fox has run London maker markets since 2010, and four of its 2026 Christmas dates are out:
+**Independent designer-makers, most of them selling their own work: ceramics, prints, jewellery, textiles and homewares.** Crafty Fox's 2026 Christmas dates:
 
 - **British Library**, 96 Euston Road: **Saturday 14 and Sunday 15 November 2026**, 10am–4pm, different traders each day. Free, with a free ticket to book.
 - **RSA House**, 8 John Adam Street, just off the Strand: **Saturday 5 December 2026**, 11am–5pm, in the Georgian Great Room, with food, drink and workshops.
@@ -236,19 +234,13 @@ More in the [Battersea area guide](/articles/battersea-area-guide/).
 - **Price:** **£8 booked in advance, £10 on the door**; free for Friends of the Garden.
 - **Where:** 66 Royal Hospital Road, SW3 4HS. Sloane Square is about 15 minutes' walk.
 
-It is the only ticketed fair here and worth booking early for the lower price. Our [Chelsea area guide](/articles/chelsea-area-guide/) has the rest of the neighbourhood.
-
-### Columbia Road Christmas Wednesdays
-
-**The shops behind the Sunday flower market stay open late on the Wednesdays before Christmas**, 5pm to 9pm, with a tree, mince pies and mulled wine, and the pubs and cafés open around them. In 2025 the dates were **26 November and 3, 10 and 17 December**.
-
-It is shops rather than stalls, with no road closure and no carol singing, and it is far quieter than the Sunday market. Hoxton is about five minutes' walk.
+Book early for the lower price. Our [Chelsea area guide](/articles/chelsea-area-guide/) has the rest of the neighbourhood.
 
 ---
 
 ## Indoor Christmas fairs
 
-Three ticketed shopping fairs run under glass roofs in November. None is a street market: each charges entry, and each is a day of shopping rather than an evening of food and lights.
+Three ticketed shopping fairs run under glass roofs in November.
 
 ### Spirit of Christmas Fair, Olympia
 
@@ -266,7 +258,7 @@ Three ticketed shopping fairs run under glass roofs in November. None is a stree
 
 ## Year-round markets in December
 
-**Old Spitalfields**, **Camden** and **Canopy Market** at King's Cross trade all year and add Christmas to what is already there without building a Christmas market. In December 2025 Spitalfields ran Christmas editions of its Wednesday Urban Makers market and a children's treasure trail on top of its daily stalls. Days, hours and what each is for are in our [best London markets](/articles/best-london-markets/) guide.
+**Old Spitalfields**, **Camden** and **Canopy Market** at King's Cross trade all year and add Christmas to what is already there without building a Christmas market. Days, hours and what each is for are in our [best London markets](/articles/best-london-markets/) guide.
 
 **Carrying on:** the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market.
 
