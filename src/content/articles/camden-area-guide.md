@@ -61,11 +61,11 @@ faq:
   - q: "What days is Camden Market open?"
     a: "Every day, 10am to 7pm. Saturday and Sunday are considerably busier, and some stalls only trade then; a weekday morning gets you the same market with room to move."
   - q: "Can you take a boat from Camden to Little Venice?"
-    a: "Yes. Narrowboat waterbuses run along the Regent's Canal from Camden Lock to Little Venice through Regent's Park and the London Zoo grounds, taking about 45 minutes. They do not stop at the zoo — the nearest stop is Camden Market, about fifteen minutes' walk from the entrance. Services are frequent in summer and much reduced in winter."
+    a: "Yes. Narrowboat waterbuses run along the Regent's Canal from Camden Lock to Little Venice through Regent's Park and the London Zoo grounds in about 45 minutes. They do not stop at the zoo. Services are frequent in summer and much reduced in winter."
   - q: "Is Primrose Hill worth the walk?"
     a: "Yes. It is fifteen minutes north-west of Camden Lock, and the free view from the top takes in the whole central skyline, with a plaque naming the buildings. Allow for the climb."
   - q: "Where was the Paddington film house?"
-    a: "Chalcot Crescent in Primrose Hill, about fifteen minutes north-west of Camden Lock. The address in the books and films is 32 Windsor Gardens, which is fictional — the curving terrace of pastel houses used for the exterior is on Chalcot Crescent. They are private homes on an ordinary residential street, so photograph from the pavement and keep off the steps."
+    a: "Chalcot Crescent in Primrose Hill, about fifteen minutes north-west of Camden Lock. The address in the books and films, 32 Windsor Gardens, is fictional. They are private homes on an ordinary residential street, so photograph from the pavement and keep off the steps."
   - q: "Is Camden safe?"
     a: "Yes, though it is very crowded and pickpocketing around the market and Camden Town station is a real risk. Keep your phone and bag secure, and expect the area around the station to get rowdy late at night."
 heroImage: "../../assets/articles/camden-area-guide/camden-lock-narrowboat.jpg"
@@ -210,7 +210,7 @@ Five operators run from Camden Lock. All use the same stretch of the Regent's Ca
 
 *The Music Boat.*
 
-**Which to pick.** For getting somewhere, the Waterbus or Jason's Trip — both are one-way journeys that happen to be scenic. For a round trip with no walk back, Jenny Wren, which also takes you through a working lock. For an evening out, not a sightseeing trip, My Fair Lady. The Music Boat is the one to avoid in bad weather.
+**Which to pick.** To get somewhere, the Waterbus or Jason's Trip, both one-way. For a round trip with no walk back, Jenny Wren, which also works a lock. For an evening out, My Fair Lady. The Music Boat is the one to avoid in bad weather.
 
 > ⚠️ **None of them stop at London Zoo.** The route runs through the zoo's grounds and you can see the painted wolves and colobus monkeys from the water, but there is no zoo landing. The nearest stop is Camden Market, about fifteen minutes' walk from the entrance.
 
@@ -261,12 +261,9 @@ Our full route into the area, walked the good way round: **ten numbered stops** 
 
 ## Common mistakes to avoid
 
-1. **Arriving at Camden Town station on a Sunday afternoon.** The queues to enter are grim. Use Chalk Farm.
-2. **Walking north up the High Street and stopping there.** The good part is past the bridge at the Lock and Stables.
-3. **Eating on the High Street.** The canal-side food stalls are cheaper.
-4. **Missing Primrose Hill.** Fifteen minutes away, free, with a view across the central skyline.
-5. **Not watching your pockets.** Dense crowds make this a known spot for pickpockets.
-6. **Taking the Tube to King's Cross.** The canal walk is 30 minutes and far more pleasant — [here it is stop by stop](/articles/kings-cross-camden-canal-walk/).
+1. **Walking north up the High Street and stopping there.** The good part is past the bridge at the Lock and Stables.
+2. **Missing Primrose Hill.** Fifteen minutes away, free, with a view across the central skyline.
+3. **Taking the Tube to King's Cross.** The canal walk is 30 minutes and far more pleasant — [here it is stop by stop](/articles/kings-cross-camden-canal-walk/).
 
 ## Where to stay
 

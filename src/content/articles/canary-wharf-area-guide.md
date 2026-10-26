@@ -249,7 +249,7 @@ Our full route out of this area: **eleven numbered stops** over about 6.5km and 
 
 **[A Riverside Pub Walk from Wapping to Canary Wharf: Four Historic Pubs in Eleven Stops →](/articles/wapping-canary-wharf-walk/)**
 
-The route in from the west, finishing at the roof garden where the Greenwich walk starts: **eleven stops**, just over 6km, from **St Katharine Docks** past four historic riverside pubs — the **Town of Ramsgate**, the **Captain Kidd**, the **Prospect of Whitby** and **The Grapes** on Narrow Street — with the Ornamental Canal, Tideway's riverside park at Shadwell and **Limehouse Basin** in between. Walk it on a Saturday for the market on Shadwell Basin.
+The route in from the west, finishing at the roof garden: **eleven stops**, just over 6km, from **St Katharine Docks** past four historic riverside pubs — the **Town of Ramsgate**, the **Captain Kidd**, the **Prospect of Whitby** and **The Grapes** on Narrow Street — with the Ornamental Canal, Tideway's riverside park at Shadwell and **Limehouse Basin** in between. Walk it on a Saturday for the market on Shadwell Basin.
 
 ### The short version, if you only have two hours here
 
@@ -263,12 +263,10 @@ The route in from the west, finishing at the roof garden where the Greenwich wal
 
 ## Common mistakes to avoid
 
-1. **Planning a Sunday shopping trip.** The malls keep short Sunday hours. Everything else is open.
-2. **Missing the roof garden.** It is on top of the station and free.
-3. **Taking the Jubilee line from the City.** The Elizabeth line from Liverpool Street takes six minutes.
-4. **Walking here from the Tower along the main roads.** It is about 6km. If you want to walk it, take the riverside pubs and the Ornamental Canal on our [Wapping to Canary Wharf pub walk](/articles/wapping-canary-wharf-walk/); if you just want to arrive, take the DLR.
-5. **Looking for a viewing platform.** There is not one anywhere in Canary Wharf. One has been proposed for 8 Canada Square, but building cannot start until HSBC leaves in 2027. The free views are Horizon 22 and the [Sky Garden](/articles/sky-garden-guide/) in the City.
-6. **Expecting the ice rink.** The Canada Square Park rink is **paused for winter 2026**. Winter Lights in January is unaffected, and the rinks that are open are in our [London ice skating guide](/articles/ice-skating-london/).
+1. **Missing the roof garden.** It is on top of the station and free.
+2. **Walking here from the Tower along the main roads.** It is about 6km. If you want to walk it, take the riverside pubs and the Ornamental Canal on our [Wapping to Canary Wharf pub walk](/articles/wapping-canary-wharf-walk/); if you just want to arrive, take the DLR.
+3. **Looking for a viewing platform.** There is not one anywhere in Canary Wharf. One has been proposed for 8 Canada Square, but building cannot start until HSBC leaves in 2027. The free views are Horizon 22 and the [Sky Garden](/articles/sky-garden-guide/) in the City.
+4. **Expecting the ice rink.** The Canada Square Park rink is **paused for winter 2026**. Winter Lights in January is unaffected, and the rinks that are open are in our [London ice skating guide](/articles/ice-skating-london/).
 
 ## Where to stay
 

@@ -186,11 +186,9 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 ## Common mistakes to avoid
 
 1. **Confusing Camden Passage with Camden Market.** Different places, two miles apart.
-2. **Coming for the antique market on the wrong day.** Wednesdays and Saturdays.
-3. **Trying to follow the canal towpath through Islington.** It goes into a tunnel with no path. Follow the signed street route.
-4. **Treating Islington as a daytime sightseeing stop.** There are no landmarks. Come for the evening.
-5. **Not booking the Almeida.** 325 seats; it sells out.
-6. **Walking the whole of Upper Street.** It is a mile. The interesting half is the southern end.
+2. **Trying to follow the canal towpath through Islington.** It goes into a tunnel with no path. Follow the signed street route.
+3. **Not booking the Almeida.** 325 seats; it sells out.
+4. **Walking the whole of Upper Street.** It is a mile. The interesting half is the southern end.
 
 ## Where to stay
 

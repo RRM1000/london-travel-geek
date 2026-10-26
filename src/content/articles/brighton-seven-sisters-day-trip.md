@@ -18,11 +18,11 @@ tags: [day trips, Brighton, Seven Sisters, Birling Gap, trains, coast, things to
 draft: false
 faq:
   - q: "How do you get from London to Brighton, and how long does it take?"
-    a: "Southern runs direct from London Victoria and Thameslink runs direct from London Bridge and St Pancras; both take about an hour, with the fastest trains covering the 47 miles in 58 minutes. Advance singles start at £8 one way booked ahead; there are 446 trains a day on the route, so turning up and going is realistic too. Oyster and contactless pay-as-you-go don't reach Brighton — buy your ticket before you travel."
+    a: "Southern runs direct from Victoria and Thameslink from London Bridge and St Pancras; the fastest trains cover the 47 miles in 58 minutes. Advance singles start at £8 one way. Oyster and contactless pay-as-you-go don't reach Brighton, so buy your ticket before you travel."
   - q: "How do you get from Brighton to the Seven Sisters and Birling Gap?"
-    a: "The 12, 12A and 12X Coaster buses run from Brighton to Eastbourne along the coast road and stop at the Seven Sisters Country Park visitor centre at Exceat; a single fare is a flat £3 anywhere on the network. Birling Gap itself is a further 1.5-mile walk from the East Dean stop, or the seasonal 13X runs a faster limited-stop service between Brighton and Seaford. Alternatively, take a direct Southern train from London to Seaford (Coastway East line via Lewes) and walk about an hour to the Country Park from there."
+    a: "The 12, 12A and 12X Coaster buses run from Brighton along the coast road and stop at the Seven Sisters Country Park visitor centre at Exceat; a single fare is a flat £3. Birling Gap is a further 1.5-mile walk from the East Dean stop. Alternatively, take a direct Southern train from London to Seaford (Coastway East line via Lewes) and walk about an hour to the Country Park."
   - q: "Is a coach tour worth it, or is Brighton and the Seven Sisters better done independently?"
-    a: "GetYourGuide's day tours from £84 solve the awkward bus-timing problem in one booking and include return transport, which independent travel doesn't. But they give you a fixed few hours in Brighton, not as long as you want, and the train plus bus costs less if you're comfortable planning the connections yourself. Compare the includes list before booking, not just the title."
+    a: "GetYourGuide's day tours from £84 solve the bus-timing problem in one booking and include return transport. They give you a fixed few hours in Brighton, and the train plus bus costs less if you're comfortable planning the connections. Compare the includes list before booking."
   - q: "How much is the Royal Pavilion?"
     a: "£21.50 for an adult on the door, with 5% off standard admission when you book online. A child aged 5 to 18 is £13.00, and a family of one adult and two children gets one child ticket free. It's open 9:30am to 5:45pm from April to September and 10am to 5:15pm from October to March, last admission 45 minutes before closing."
   - q: "Is Brighton Pier free to go on?"
@@ -69,7 +69,7 @@ The two halves don't share a station. Brighton has direct trains from London; th
 
 Neither has its own station. Get to Brighton first, then go on by bus or a second train.
 
-**By bus, from Brighton.** The 12, 12A and 12X Coaster buses run along the coast road between Brighton, Newhaven, Seaford and Eastbourne, and all three call at the Seven Sisters Country Park visitor centre at Exceat. The Country Park advises using them rather than driving: its car parks fill at peak times with no alternative parking nearby. A single fare is a flat **£3 anywhere on the network**, and a 24-hour ticket covering multiple journeys runs to roughly £6–£7. **Birling Gap is a further 1.5-mile walk from the East Dean stop** on the same route; there's no direct bus into Birling Gap outside the seasonal timetable. The faster **13X limited-stop service** between Brighton and Seaford skips the Seven Sisters and Birling Gap stops entirely.
+**By bus, from Brighton.** The 12, 12A and 12X Coaster buses run along the coast road between Brighton, Newhaven, Seaford and Eastbourne, and all three call at the Seven Sisters Country Park visitor centre at Exceat. The Country Park advises using them rather than driving: its car parks fill at peak times with no alternative parking nearby. A single fare is a flat **£3 anywhere on the network**. **Birling Gap is a further 1.5-mile walk from the East Dean stop** on the same route; there's no direct bus into Birling Gap outside the seasonal timetable. The faster **13X limited-stop service** between Brighton and Seaford skips the Seven Sisters and Birling Gap stops entirely.
 
 **By train, to Seaford.** Southern runs a direct service from London on the Coastway East line via Lewes, about twice an hour off-peak, to Seaford, around 59 miles from London Bridge. From Seaford station it's **about an hour's walk** to the Seven Sisters Country Park visitor centre, and roughly **two hours on** to Birling Gap along the clifftop path. This only makes sense if walking the cliffs is the main part of your day.
 
@@ -115,7 +115,7 @@ Independent travel is cheaper and gives you longer in Brighton. A tour is worth 
 
 ### Brighton i360
 
-**The standard View 360 ticket is from £20.50 through GetYourGuide**, and the whole visit — boarding, the ascent and the descent in the glass pod — takes about 30 minutes. The tower stands 162 metres tall on the seafront near the foot of the old West Pier and typically opens by mid-morning, running into the evening; hours shift through the year, so check the date you're travelling.
+**The standard View 360 ticket is from £20.50 through GetYourGuide**, and the whole visit — boarding, the ascent and the descent in the glass pod — takes about 30 minutes. The tower stands 162 metres tall on the seafront near the foot of the old West Pier. Hours shift through the year, so check the date you're travelling.
 
 ![The Brighton i360 tower and observation pod rising above the seafront, with the beach and Brighton Palace Pier below](../../assets/articles/brighton-seven-sisters-day-trip/brighton-i360.jpg)
 
@@ -137,13 +137,12 @@ Independent travel is cheaper and gives you longer in Brighton. A tour is worth 
 
 - **Driving to Birling Gap or Seven Sisters Country Park expecting to park easily.** Both car parks fill at peak times with no useful alternative nearby.
 - **Booking a coach tour by its title alone.** The three compared here cover similar ground for different prices and review counts, so read the itinerary.
-- **Assuming the i360 or Pier have a single year-round admission time.** Both shift their hours with the season and the day of the week.
 
 ## Continue planning your day out
 
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
-- 🗿 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — the day trip here where a coach tour beats the train, unlike Brighton itself.
+- 🗿 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — where a coach tour beats the train.
 - 🐑 **[The Cotswolds from London](/articles/cotswolds-day-trip/)** — another destination where a bus timetable, not a train, decides your day.
-- 🛁 **[Bath from London](/articles/bath-day-trip/)** — the other direct train over an hour out of London, priced and timed the same way.
+- 🛁 **[Bath from London](/articles/bath-day-trip/)** — another direct train from London.
 - 🚇 **[Getting around London](/articles/getting-around-london-transport-guide/)** — how to reach Victoria and London Bridge before you set off.
 - 🎟️ **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless and capping work on the London end of the trip.

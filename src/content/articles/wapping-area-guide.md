@@ -60,9 +60,9 @@ faq:
   - q: "What is the oldest pub in Wapping?"
     a: "The Prospect of Whitby on Wapping Wall claims a site dating to 1520, which would make it the oldest riverside pub in London. It has a pewter bar top, a flagstone floor and a replica gallows out the back facing the river. The Town of Ramsgate on Wapping High Street is a close rival with its own claim to the period."
   - q: "Where was Execution Dock?"
-    a: "On the foreshore at Wapping, near the Town of Ramsgate pub. Pirates and mutineers convicted by the Admiralty were hanged here between roughly the 1400s and 1830, using a shortened rope so that death came slowly. Bodies were left through three tides. Captain Kidd was executed here in 1701. There is no official monument, only a replica noose at the Prospect of Whitby."
+    a: "On the foreshore at Wapping, near the Town of Ramsgate pub. Pirates and mutineers convicted by the Admiralty were hanged here until 1830; Captain Kidd was executed here in 1701. There is no official monument, only a replica noose at the Prospect of Whitby."
   - q: "Can you walk through Brunel's Thames Tunnel?"
-    a: "Not on foot — it carries London Overground trains between Wapping and Rotherhithe, so you pass through it on a train. Completed in 1843, it was the first tunnel ever built under a navigable river. The Brunel Museum at Rotherhithe, on the far side, gives access to the original entrance shaft and tells the story."
+    a: "Not on foot — it carries London Overground trains between Wapping and Rotherhithe. Completed in 1843, it was the first tunnel built under a navigable river. The Brunel Museum at Rotherhithe, on the far side, gives access to the original entrance shaft."
   - q: "Is Wapping worth visiting?"
     a: "For a couple of hours, yes — if you like old pubs, riverside walks and warehouse architecture. It is quiet and almost entirely free, with no museum of its own."
   - q: "How do I get to Wapping?"
@@ -87,7 +87,7 @@ Wapping has its own share of the commemorative plaques marking where notable peo
 
 1. **The Prospect of Whitby** — Wapping Wall. A site claimed since 1520, with a pewter bar, flagstone floor and a replica gallows over the river commemorating Execution Dock.
 2. **The Town of Ramsgate** — Wapping High Street, beside Wapping Old Stairs. A narrow, dark pub with a small river terrace and its own claim to the 1500s.
-3. **Execution Dock** — On the foreshore near the Town of Ramsgate. Pirates were hanged here until 1830 with a shortened rope; Captain Kidd died here in 1701. There is no monument, only the replica noose along the river.
+3. **Execution Dock** — On the foreshore near the Town of Ramsgate. Pirates were hanged here until 1830; Captain Kidd died here in 1701. There is no monument, only the replica noose along the river.
 4. **Wapping High Street** — Cobbled and lined with converted warehouses, with their original hoist beams and bridges still in place.
 5. **St Katharine Docks** — Fifteen minutes west. A working marina beside the Tower, with yachts, a lock and a run of restaurants.
 6. **Spirit Quay** — A terrace of gabled brick townhouses along the western end of the Ornamental Canal, reflected in the water on a calm day. Residential, with no entrance, about five minutes east of St Katharine Docks.
@@ -207,12 +207,10 @@ Our full route out of this area: **eleven numbered stops** over just over 6km an
 
 ## Common mistakes to avoid
 
-1. **Expecting a monument at Execution Dock.** There is none — just the foreshore and a replica noose at the Prospect of Whitby.
-2. **Trying to walk through the Thames Tunnel.** It carries trains. The Brunel Museum at Rotherhithe is the way to see it.
-3. **Coming for a full day.** Two to three hours is right. Pair it with the Tower or Bermondsey.
-4. **Assuming Wapping station is step-free.** It is not. Use Shadwell or walk from Tower Hill.
-5. **Arriving at high tide for the foreshore.** Wapping Old Stairs is only interesting when the tide is out.
-6. **Missing St Katharine Docks.** It is on the way from the Tower.
+1. **Trying to walk through the Thames Tunnel.** It carries trains. The Brunel Museum at Rotherhithe is the way to see it.
+2. **Assuming Wapping station is step-free.** It is not. Use Shadwell or walk from Tower Hill.
+3. **Arriving at high tide for the foreshore.** Wapping Old Stairs is only interesting when the tide is out.
+4. **Missing St Katharine Docks.** It is on the way from the Tower.
 
 ## Where to stay
 
