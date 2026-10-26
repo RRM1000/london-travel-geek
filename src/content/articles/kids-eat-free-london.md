@@ -75,7 +75,7 @@ Three different things are sold as kids eat free:
 
 ### Bella Italia — and its exclusion list
 
-**Three courses and a drink free with one adult main per child, Sunday to Thursday outside school holidays and every day during them (this October half term, to 1 November).** No voucher, no app: tell the server when you order and remind them at the bill. Dine-in only, and it does not combine with any other offer, set menu, voucher or Tesco Clubcard voucher.
+**Three courses and a drink free with one adult main per child, Sunday to Thursday outside school holidays and every day during them (the October 2026 half term runs to 1 November).** No voucher, no app: tell the server when you order and remind them at the bill. Dine-in only, and it does not combine with any other offer, set menu, voucher or Tesco Clubcard voucher.
 
 Then read the terms. Bella Italia's own page excludes **Cranbourn Street, Paddington, Irving Street, Queensway 110, Queensway 55, St Martins Lane, Strand, South Kensington, Shaftesbury Avenue and Wellington Street**. Bella Italia has eleven London restaurants. **Croydon — Valley Leisure Park, CR0 4YA — is the only one the exclusion list does not name.**
 
@@ -95,7 +95,7 @@ Las Iguanas has two London restaurants, **The O2 and Wembley**, and the terms ex
 
 **A free kids' meal and any kids' drink — normally £4.00 — with an adult main of £5 or over, every day, seven days a week.** Children under 16 and with an adult. The adult main has to come from "The Breakfasts" or "The Classics"; extras do not count. The free meal is Birds Eye chicken dippers, fish fingers, veggie fingers or a Goodfella's mini pizza, and it also works on the Kids Pick n Mix deal.
 
-The catch is geography. Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Holloway, Peckham, Stamford Hill, Canning Town, Wood Green, Stratford and Acton — **only Acton, on King Street W3, lists a café.**
+Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Holloway, Peckham, Stamford Hill, Canning Town, Wood Green, Stratford and Acton — **only Acton, on King Street W3, lists a café.**
 
 ### Dunelm Pausa, Sizzling Pubs, Hungry Horse and IKEA
 

@@ -313,7 +313,7 @@ None of these takes a booking, and none of them is a dinner. Check hours before 
 
 **Kolamba East** opened on Blossom Street, by Spitalfields, in the summer of 2024, with a longer menu and a private dining room. **ADOH!** followed in Covent Garden, the same owners doing street food rather than home cooking.
 
-**Paradise Soho has closed.** Dom Fernando's Rupert Street restaurant is still named by nine of the sources and by many lists.
+**Paradise Soho has closed.** It was Dom Fernando's restaurant on Rupert Street.
 
 ---
 
