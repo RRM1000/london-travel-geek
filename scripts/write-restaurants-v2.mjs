@@ -3963,7 +3963,7 @@ const rows = [
     // The previous note said "no bookings for small groups", which is the myth
     // everybody repeats and is wrong: the gate is the CLOCK, not the party size.
     // A table for two books fine at lunch. Caught by the editor booking one.
-    opSummary: "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Seven London branches; the Branches tab has six named.",
+    opSummary: "Any party size can book before 6pm; after 6pm bookings are for groups of six or more only. Most tables are held back for walk-ins either way. Eight London branches, Borough the newest (opened 21 October 2026); the Branches tab has six named.",
     signature: "Bacon naan roll",
     goodFor: "groups, families, quick",
     signals: "4 sources; also a 3-source pick on the breakfast pass",
@@ -13733,7 +13733,7 @@ const rows = [
   {
     ...des, slug: "italian-bear-chocolate", name: "Italian Bear Chocolate",
     style: "Italian thick drinking chocolate", specialities: "hot-chocolate",
-    hood: "Carnaby",
+    hood: "Carnaby", bookingReq: "Takes table bookings; a second shop at 29 Rathbone Place W1T 1JG.",
     lists: "hot-chocolate",
     source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by 7 of 12 sources. 41 Broadwick St W1F 9QL per thiswasnotwellplanned.",
   },
@@ -13761,7 +13761,7 @@ const rows = [
   {
     ...des, slug: "andreas-hot-chocolate", name: "Andrea's Hot Chocolate",
     style: "Hot chocolate specialist", specialities: "hot-chocolate",
-    // hood deliberately blank: no source located it. Places will resolve it.
+    hood: "Columbia Road", address: "61 Columbia Road E2 7RG", opSummary: "Sundays 10am to 4pm behind Milagros on Columbia Road; also at Victoria Park on Sundays and Lloyd Park on Saturdays.",
     lists: "hot-chocolate",
     source: "Recorded from data/consensus/hot-chocolate.json, collected 7 September 2026 - named by The Infatuation and Rayscafe. HOOD NOT GIVEN.",
   },
