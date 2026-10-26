@@ -7,8 +7,8 @@ heroImageAlt: "The glass front of BAM Karaoke Box on Victoria Street, with green
 heroImageCredit: "Ewan-M"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:BAM_Karaoke_Box,_Victoria,_SW1.jpg"
 publishedAt: 2026-10-08
-updatedAt: 2026-10-08
-reviewBy: 2026-11-15
+updatedAt: 2026-10-26
+reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -29,9 +29,9 @@ faq:
     a: "Lucky Voice Holborn, Karaoke Box in Soho and Mayfair, Moyagi, U9 and Jihwaja run to 3am on their late nights, and Bunga 90 to 3am on Fridays and Saturdays. Karaoke Epoc closes at 11pm every night."
 ---
 
-**This guide covers the three ways to sing karaoke in London**: a private room you book for your own group, a KTV room inside an East Asian restaurant, and an open stage in a pub where anyone can put their name down. The private room is what most people mean, and it is where most of the sources' attention goes.
+**This guide covers the three ways to sing karaoke in London**: a private room you book for your own group, a KTV room inside an East Asian restaurant, and an open stage in a pub where anyone can put their name down.
 
-Prices come in three shapes, and they are not comparable at a glance. Some venues charge **per person per hour**, some charge **for the room by the hour**, and BAO and U9 charge **nothing for the room** but set a minimum spend on food and drink. The table below puts them side by side.
+Prices come in three shapes: **per person per hour**, **for the room by the hour**, and **nothing for the room** at BAO and U9, which set a minimum spend on food and drink. The table below puts them side by side.
 
 > 💡 **The Short Version:** **Lucky Voice** is the most-named karaoke in London, with private rooms in Soho, Holborn and Liverpool Street from £8 a head an hour. **BAM Karaoke Box** in Victoria has 22 themed rooms and an open-mic stage in its bar. Time Out ranks **Rowans**, a 1913 bowling alley in Finsbury Park, number one. **BAO** charges no room fee, just £35 a head on food and drink. **Bloomsbury Lanes** is half price on Sunday, Monday and Tuesday, and **Jihwaja** in Vauxhall is the Korean noraebang, open until 3am at weekends. For free karaoke, **The Star of Kings** runs an open stage every Friday.
 
@@ -92,7 +92,7 @@ Prices come in three shapes, and they are not comparable at a glance. Some venue
 
 ## The most backed
 
-Only Time Out ranks London's karaoke, and its number one, Rowans in Finsbury Park, is named by three of the 24 sources. The two places the most sources name are both central private-room operators: Lucky Voice by 14 and BAM by 12. The difference is the brief: Time Out leads with pubs and bowling alleys, while the other lists lead with purpose-built rooms.
+Only Time Out ranks London's karaoke, and its number one, Rowans in Finsbury Park, is named by three of the 24 sources. The two places the most sources name are both central private-room operators: Lucky Voice by 14 and BAM by 12.
 
 ### Lucky Voice, Soho, Holborn and Liverpool Street
 
@@ -102,23 +102,23 @@ Only Time Out ranks London's karaoke, and its number one, Rowans in Finsbury Par
 
 *Lucky Voice, Poland Street. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Lucky_Voice,_Soho,_W1_(7293681070).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Named by 14 of the 24 sources, more than any other venue here**, from Time Out and Londonist to two YouTube channels and Reddit, where one regular calls it "the longest standing karaoke venue in London". It opened on Poland Street in 2005, and calls itself London's first dedicated private karaoke venue. Each soundproofed room has two microphones and a "Thirsty?" button that brings cocktails and sharing plates to the door, so nobody queues at the bar mid-song.
+**Named by 14 of the 24 sources, more than any other venue here**, from Time Out and Londonist to two YouTube channels and Reddit. It opened on Poland Street in 2005, and calls itself London's first dedicated private karaoke venue. Each soundproofed room has two microphones and a "Thirsty?" button that brings cocktails and sharing plates to the door.
 
 Soho has nine rooms for two to 15; Holborn, the biggest, has ten rooms, an LED dance floor and DJs at weekends, with one room for 30. **Every booking is two or three hours, at £8 a head an hour off-peak and £11 to £14 at peak**, which starts at 7pm on weekdays. Holborn runs to 3am Thursday to Saturday and is closed Sunday and Monday.
 
-> ⚠️ **Islington and Waterloo closed on 6 October 2026**, when Moyagi Group bought Lucky Voice out of administration. Several lists still name five London branches; three are open.
+> ⚠️ **Islington and Waterloo closed on 6 October 2026**, when Moyagi Group bought Lucky Voice out of administration. Several lists still name five branches; three are open.
 
 ### BAM Karaoke Box, Victoria — 22 rooms and an open-mic stage
 
 *74 Victoria Street, SW1E 6SQ · Cited by 12 sources · [book a room](https://booking.bam-karaokebox.com/london)*
 
-A Paris karaoke brand that opened in Victoria in April 2024, in the space The Sauce remembers as M Restaurant, and bills itself as Europe's largest premium karaoke venue. **Twelve sources name it**, the most after Lucky Voice; on Reddit it comes up for cheap rooms and two-for-one drinks, and The Date Connoisseur called it her favourite karaoke spot in London.
+A Paris karaoke brand that opened in Victoria in April 2024 and bills itself as Europe's largest premium karaoke venue. **Twelve sources name it**, the most after Lucky Voice; on Reddit it comes up for cheap rooms and two-for-one drinks.
 
 ![A karaoke room at BAM, with a long navy banquette, small round tables with microphones, patterned copper walls and the BAM logo on a screen](../../assets/articles/best-karaoke-london/bam-karaoke-room.jpg)
 
 *A karaoke room at BAM.*
 
-There are 22 rooms over three floors, each decorated around Nell Gwyn and 18th-century excess, from four-person rooms such as the Library and the Slipper Room up to rooms for 35, with 45,000 songs and in-room games. Food in the BAM BAM Bar is by the chef Sabrina Gidda. **Thursday to Saturday the bar runs open-mic karaoke on its stage**, so you can sing to strangers after your room time ends.
+There are 22 rooms over three floors, each themed around Nell Gwyn and 18th-century excess, from four-person rooms such as the Library and the Slipper Room up to rooms for 35, with 45,000 songs and in-room games. **Thursday to Saturday the bar runs open-mic karaoke on its stage**, so you can sing to strangers after your room time ends.
 
 **The hen and stag package is £45 a head for two hours with a drink on arrival and two house drinks, or £62.50 with food**, and in a group of ten the bride or groom goes free. Open until 1.30am Thursday to Saturday and 9pm on Sunday.
 
@@ -126,19 +126,19 @@ There are 22 rooms over three floors, each decorated around Nell Gwyn and 18th-c
 
 *Borough, the City, Marylebone, Shoreditch and Battersea · Cited by 9 sources · #4 of 14, Time Out · [book a room](https://baolondon.com/bookings/karaoke/)*
 
-The Taiwanese bun restaurants have six private KTV rooms, the East Asian karaoke format where you eat in the room, and **charge no room hire: you spend at least £35 a head on food and drink in a two-hour slot**. Nine sources name it, and a Redditor adds that you don't mind the minimum "when the food is that good".
+The Taiwanese bun restaurants have six private KTV rooms, the East Asian karaoke format where you eat in the room, and **charge no room hire: you spend at least £35 a head on food and drink in a two-hour slot**. Nine sources name it.
 
 ![BAO Borough's narrow dining room, with red stools at a wooden counter, menu boards in Chinese characters along the walls and ceiling fans](../../assets/articles/best-karaoke-london/bao-borough-dining-room.jpg)
 
 *BAO Borough.*
 
-The rooms each take a film for a theme. The City has two: the Taipei Room, 13 to 23 people, with a wrap-around LED screen after Edward Yang's *Taipei Story*, and the New York Room for up to 12, which switches between dining and karaoke mode. Borough's red Paris, Texas Room was the first and takes 16; Marylebone's Hong Kong Room, after *In the Mood for Love*, takes 10. **Order from the KTV menu of mini baos and xiao chi platters**, or pre-order the set so the food arrives through the session.
+The City has two rooms: the Taipei Room, 13 to 23 people, with a wrap-around LED screen, and the New York Room for up to 12, which switches between dining and karaoke mode. Borough's red Paris, Texas Room takes 16; Marylebone's Hong Kong Room takes 10. **Order from the KTV menu of mini baos and xiao chi platters**, or pre-order the set so the food arrives through the session.
 
 ### Moyagi, Marylebone — Japanese-styled rooms off one corridor
 
 *5 Cavendish Place, W1G 0QA · Cited by 8 sources · [book a room](https://moyagi.com/london/book)*
 
-A Swedish karaoke brand that opened its London rooms in March 2024 behind Oxford Circus, and since October 2026 the owner of Lucky Voice too. The Nudge describes eight private rooms off "one beautifully moody, glowing corridor"; Country & Town House compares it to a members' club. On Reddit two Londoners single out the drinks.
+A Swedish karaoke brand that opened in March 2024 behind Oxford Circus, and since October 2026 the owner of Lucky Voice too. Eight private rooms open off one corridor; Country & Town House compares it to a members' club. Two Reddit users single out the drinks.
 
 ![A Moyagi karaoke room lit red, with a wall-mounted screen, a control panel and a banquette along one wall](../../assets/articles/best-karaoke-london/moyagi-karaoke-room.jpg)
 
@@ -152,7 +152,7 @@ Rooms take six to 30, with 200,000 songs, a host and drinks served to the room; 
 
 *Brick Lane, Holborn, Stratford and White City · Cited by 8 sources · #12 of 14, Time Out · [book a booth](https://www.allstarlanes.co.uk/play/karaoke)*
 
-A 1950s-styled bowling chain with American diner food, where the karaoke booths sit beside the lanes. Eight sources name it, from Time Out to LondonWorld, mostly as the cheaper way to book a room for a group that also wants to bowl.
+A 1950s-styled bowling chain with American diner food, where the karaoke booths sit beside the lanes. Eight sources name it, from Time Out to LondonWorld, mostly as a cheaper room for a group that also wants to bowl.
 
 **Booths are £10 a head an hour off-peak and £12 at peak**, booked by the hour. Brick Lane and Stratford have two booths each for up to 14, White City two for up to 12, and Holborn one for seven, so a group of more than seven at Holborn needs another site. Drinks are served in the booth.
 
@@ -180,7 +180,7 @@ A 1950s-styled bowling chain with American diner food, where the karaoke booths 
 
 *The Old Queen's Head. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Old_Queen%27s_Head,_Islington,_N1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-A late-licence pub on Essex Road whose upstairs karaoke room takes 15, with **its own host serving drinks and pizza**, so nobody leaves the room to get a round in. The food is Hot Saint pizza. For bigger groups the Playroom takes 60, with beer pong, karaoke, its own sound system and a private bar. Six sources name it.
+A late-licence pub on Essex Road whose upstairs karaoke room takes 15, with **its own host serving drinks and pizza**. The food is Hot Saint pizza. For bigger groups the Playroom takes 60, with beer pong, karaoke, its own sound system and a private bar. Six sources name it.
 
 **Room hire is free Sunday to Tuesday in October and November 2026**; book through the form. The pub is open until 2am on Friday and 3am on Saturday.
 
@@ -192,7 +192,7 @@ A late-licence pub on Essex Road whose upstairs karaoke room takes 15, with **it
 
 *The Star of Bethnal Green. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Star_of_Bethnal_Green,_Bethnal_Green,_E2.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-An East End party pub whose karaoke grew into five themed rooms the pub calls Karaoke Heaven, on a Lucky Voice system: Studio 54 for 18, the Viper Room and the Love Heart Room for 15, the Wild Room for eight and the Rainbow Room for six. The Sauce went for its piece and found the rooms freshly done out. Food comes from the pub's Peck Peck kitchen.
+An East End party pub whose karaoke grew into five themed rooms the pub calls Karaoke Heaven, on a Lucky Voice system: Studio 54 for 18, the Viper Room and the Love Heart Room for 15, the Wild Room for eight and the Rainbow Room for six. Food comes from the pub's Peck Peck kitchen.
 
 **Rooms start at £4 a head an hour: £4 to £10 off-peak and £6 to £13 at peak**, which starts at 6pm (5pm on Saturday), with Sunday and Monday cheapest and Saturday dearest. Rooms book in one- or two-hour slots for two to 25 people, two hours minimum on Saturday. Open until 2am on Friday and Saturday.
 
@@ -200,7 +200,7 @@ An East End party pub whose karaoke grew into five themed rooms the pub calls Ka
 
 *Basement, Tavistock Hotel, Bedford Way, WC1H 9EU · Cited by 5 sources · #10 of 14, Time Out · [book a room](https://bloomsburybowling.com/book-now)*
 
-A basement bowling alley under a hotel, with an American diner and five karaoke rooms beside the eight lanes, each with a big screen, banquettes and a hand-picked library of 30,000 songs. The Sauce likens the set-up to "a student union circa year 2000"; on Reddit someone held a 30th there and says it "does the job".
+A basement bowling alley under a hotel, with an American diner and five karaoke rooms beside the eight lanes, each with a big screen, banquettes and a hand-picked library of 30,000 songs.
 
 ![Bloomsbury Lanes' bowling lanes 1 to 4, polished wood running to the pins under a lit mask above each lane](../../assets/articles/best-karaoke-london/bloomsbury-lanes-lanes.jpg)
 
@@ -212,7 +212,7 @@ A basement bowling alley under a hotel, with an American diner and five karaoke 
 
 *12 Balham Station Road, SW12 9SG · Cited by 5 sources · [book the suite](https://book.theexhibit.co.uk/)*
 
-A Balham bar, restaurant and cinema with one karaoke suite running the Lucky Voice system and its 10,000 songs; The Nudge notes the seating faces the screen like an audience. Five sources name it, all as the south London alternative to the central rooms.
+A Balham bar, restaurant and cinema with one karaoke suite running the Lucky Voice system and its 10,000 songs. Five sources name it, all as the south London alternative to the central rooms.
 
 ![The restaurant at The Exhibit, with wooden tables, leather banquettes, pendant lamps, pot plants and glazed doors onto a balcony](../../assets/articles/best-karaoke-london/the-exhibit-restaurant.jpg)
 
@@ -236,13 +236,13 @@ Three private rooms — Mel B's for six, Mark's for eight and Gwen's for ten —
 
 *35 Queensdown Road, E5 8NN · Cited by 5 sources · #2 of 14, Time Out · [karaoke room](https://starbyhackneydowns.co.uk/karaoke/)*
 
-**Time Out's number two**: "a somewhat scruffy but deeply charming pub" by Hackney Downs with one karaoke room upstairs for 15, where the staff bring pints up. The kitchen is Dragon Flame BBQ, and the pub's drinks packages save trips downstairs.
+**Time Out's number two**: "a somewhat scruffy but deeply charming pub" by Hackney Downs with one karaoke room upstairs for 15, where the staff bring pints up. The kitchen is Dragon Flame BBQ.
 
 ![The Star by Hackney Downs, a corner pub with a painted Star Hackney Downs sign, a blue fascia and a planted terrace of tables under parasols](../../assets/articles/best-karaoke-london/star-by-hackney-downs.jpg)
 
 *The Star by Hackney Downs.*
 
-**The room is £49 an hour Sunday to Wednesday, £69 on Thursday and £109 on Friday and Saturday**, with 50% off on Fridays until 22 November 2026. Over-18s only after 8pm; open until 1am on Friday and Saturday.
+**The room is £49 an hour Sunday to Wednesday, £69 on Thursday and £109 on Friday and Saturday** (£10 more in December), with 50% off on Fridays until 22 November 2026. Over-18s only after 8pm; open until 1am on Friday and Saturday.
 
 ### The Star by Liverpool Street — six rooms in the basement
 
@@ -260,7 +260,7 @@ The same group's City pub, with the karaoke downstairs: the Disco and Star Rooms
 
 *Soho: 18 Frith Street, W1D 4RF · Mayfair: Basement, 14 Maddox Street, W1S 1PQ · Cited by 5 sources · #14 of 14, Time Out · [book a room](https://karaokebox.co.uk/book.php)*
 
-By its own account the UK's first private karaoke booths, open on Frith Street, next door to Ronnie Scott's, since 1997; the Mayfair basement on Maddox Street followed in 2010. The Nudge calls it "no-frills but endlessly dependable". **Time Out's entry was the Smithfield branch, which has closed**; the two West End sites carry on under the same management.
+By its own account the UK's first private karaoke booths, open on Frith Street, next door to Ronnie Scott's, since 1997; the Mayfair basement on Maddox Street followed in 2010. **Time Out's entry was the Smithfield branch, which has closed**; the two West End sites carry on under the same management.
 
 ![A small karaoke room at Karaoke Box Soho, with a grey padded corner sofa, a stool, a brick-effect wall and a screen showing the Karaoke Box logo](../../assets/articles/best-karaoke-london/karaoke-box-soho-room.jpg)
 
@@ -272,13 +272,13 @@ Rooms take two to 12 and are charged for the room. **An evening slot costs £104
 
 ## KTV and noraebang: karaoke inside a restaurant
 
-KTV is the East Asian format: a private room in or next to a restaurant, with food served to the room and songs in Korean, Mandarin, Cantonese and Japanese as well as English. In Korea it is called noraebang, "song room". [BAO](#bao-ktv-five-restaurants--no-room-fee) is the best-known London version, and the [Korean restaurants guide](/articles/best-korean-restaurants-london/) covers the grills around these rooms.
+KTV is the East Asian format: a private room in or next to a restaurant, with food served to the room and songs in Korean, Mandarin, Cantonese and Japanese as well as English. In Korea it is called noraebang, "song room". [BAO](#bao-ktv-five-restaurants--no-room-fee) is the London version most sources name, and the [Korean restaurants guide](/articles/best-korean-restaurants-london/) covers the grills around these rooms.
 
 ### Jihwaja, Vauxhall — Korean noraebang until 3am
 
 *353A Kennington Lane, SE11 5QY · Cited by 4 sources · [booking page](https://www.jihwaja.co.uk/booking)*
 
-A Korean restaurant whose own site explains noraebang to newcomers, with private rooms for four to 30 and lyrics in English, Korean, Chinese and Japanese. The Infatuation calls it a place for "fried chicken and warbling" and says "it's about the karaoke too"; two Reddit threads recommend it for KTV.
+A Korean restaurant with private rooms for four to 30 and lyrics in English, Korean, Chinese and Japanese. The Infatuation covers it as a place for fried chicken and karaoke; two Reddit threads recommend it for KTV.
 
 ![Jihwaja at night, its sign in Korean and English over a red awning reading Bar, Korean Restaurant, Karaoke, with people on the pavement outside](../../assets/articles/best-karaoke-london/jihwaja-kennington-lane.jpg)
 
@@ -290,7 +290,7 @@ A Korean restaurant whose own site explains noraebang to newcomers, with private
 
 *20 Gerrard Street, W1D 6JQ · Cited by 4 sources · [karaoke rooms](https://plumvalley.co.uk/karaoke-room-hire/)*
 
-A Cantonese restaurant serving dim sum all day, with four karaoke rooms upstairs where food and drink come to the room. SquareMeal and Country & Town House both list it; on Reddit "the rooms are decent and you can order food + drinks".
+A Cantonese restaurant serving dim sum all day, with four karaoke rooms upstairs where food and drink come to the room. SquareMeal and Country & Town House both list it.
 
 Each booking is a room fee plus a minimum spend: **two hours in K3, for six to eight, is £70 plus £200 on food and drink**, and K4, for 13 to 30, is £250 plus £750 for three hours. A deposit secures it; **the final bill is cash only**, with 12.5% service.
 
@@ -298,7 +298,7 @@ Each booking is a room fee plus a minimum spend: **two hours in K3, for six to e
 
 *30 Brewer Street, W1F 0SS · Cited by 3 sources · [book a room](https://epoclondon.com/reserve/)*
 
-Londonist calls it "as authentic experience as you're going to get on this side of the globe": a Japanese karaoke box with a large Japanese, Korean and Chinese catalogue — its own most-sung list starts with Ikimonogakari's "Blue Bird" and Kenshi Yonezu's "Lemon" — plus yakitori and highballs. On Reddit, "my Japanese friends love EPOC".
+Londonist calls it "as authentic experience as you're going to get on this side of the globe": a Japanese karaoke box with a large Japanese, Korean and Chinese catalogue, plus yakitori and highballs.
 
 ![A woman singing in a dark karaoke room at Karaoke Epoc, with lyrics in English and Japanese on the screen and drinks on a small table](../../assets/articles/best-karaoke-london/karaoke-epoc-room.jpg)
 
@@ -310,9 +310,9 @@ Londonist calls it "as authentic experience as you're going to get on this side 
 
 *47 Whitcomb Street, WC2H 7DH · Cited by 2 sources · [private rooms](https://www.u9-london.com/private-roomsu9)*
 
-A basement karaoke bar opened in 2025 with nine suites for ten to 35, 450,000 songs, East Asian food and a lounge for 120 with a DJ. The Nudge describes it as "spacecraft-meets-speakeasy".
+A basement karaoke bar opened in 2025 with nine suites for ten to 35, 450,000 songs, East Asian food and a lounge for 120 with a DJ.
 
-**There is no room fee; each suite carries a minimum spend on food and drink**, set by room, day and session, and a deposit comes off it. It rises 30% from late November through December. **Closed Monday**; open until 3am Thursday to Saturday. Bring photo ID: it is scanned at the door.
+**There is no room fee; each suite carries a minimum spend on food and drink**, set by room, day and session, and a deposit comes off it. Minimum spends are 30% higher from the last week of November through December. **Closed Monday**; open until 3am Thursday to Saturday. Bring photo ID: it is scanned at the door.
 
 ### SuperStar BBQ, St Giles — one room under a Korean grill
 
@@ -334,13 +334,13 @@ A Korean barbecue restaurant with one wood-clad karaoke room underneath for up t
 
 *The Black Eel, Dalston. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Black_Eel,_Dalston,_E8.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**Time Out's number three**: Exale Brewery's pub in the Grade II-listed F Cooke pie and mash shop, with the karaoke room at the top of the building. The Infatuation describes the décor as "Pat Butcher party girl"; the pub's own page lists a leopard-print carpet, a stage and 140,000 songs for up to 25. **It is up a flight of stairs**, and prices are set in the booking system.
+**Time Out's number three**: Exale Brewery's pub in the Grade II-listed F Cooke pie and mash shop, with the karaoke room at the top of the building. The pub's own page lists a leopard-print carpet, a stage and 140,000 songs for up to 25. **It is up a flight of stairs**, and prices are set in the booking system.
 
 ### The Cocktail Club, Shoreditch
 
 *29 Sclater Street, E1 6HT · Cited by 3 sources · [karaoke packages](https://www.thecocktailclub.com/bars/shoreditch/occasions/karaoke)*
 
-A cocktail bar off Brick Lane with one private karaoke room and a bartender assigned to it. **Bookings start at ten people, at £10 a head an hour**, and packages from £15 a head add a glass of prosecco and a cocktail. Condé Nast Traveller lists jam-jar daiquiris and espresso martinis among the drinks sent to the room, and Londonist notes the disco-ball wallpaper. The bar is open until 1.30am, and the room books through the form on the karaoke page.
+A cocktail bar off Brick Lane with one private karaoke room and a bartender assigned to it. **Bookings start at ten people, at £10 a head an hour**, and packages from £15 a head add a glass of prosecco and a cocktail. Condé Nast Traveller lists jam-jar daiquiris and espresso martinis among the drinks sent to the room,. The bar is open until 1.30am, and the room books through the form on the karaoke page.
 
 ### The Blues Kitchen, Shoreditch, Brixton and Camden
 
@@ -368,31 +368,31 @@ A school-themed cocktail bar with five karaoke rooms downstairs for two to 20. *
 
 *96 Isabella Street, SE1 8DD · Cited by 2 sources · [the pub's site](https://mollymcs.com/)*
 
-An Irish pub under the railway arches whose singing rooms are named from the owners' family story, with salvaged wallpaper and wood panelling: Slim's upstairs is the smallest, for up to four, and the largest takes ten to 15. **The kitchen is Thai**, and there is live trad music Thursday to Saturday.
+An Irish pub under the railway arches with singing rooms in a range of sizes: Slim's upstairs is the smallest, for up to four, and the largest takes ten to 15. **The kitchen is Thai**, and there is live trad music Thursday to Saturday.
 
 ### Three Colts Tavern, Bethnal Green
 
 *199 Cambridge Heath Road, E2 0EL · Cited by 2 sources · #7 of 14, Time Out · [party bookings](https://www.threecoltstavern.co.uk/party)*
 
-**Time Out's pick for a private party**: Exale's other pub, whose Glue Factory room has a karaoke set-up, a self-serve private bar, disco balls and a mirrored ceiling, for up to 80. Karaoke may cost extra. The pizza is Short Road's Romana-style thin crust with American toppings, and the room is booked as a private hire through the pub's party enquiry form.
+**Time Out's pick for a private party**: Exale's other pub, whose Glue Factory room has a karaoke set-up, a self-serve private bar, disco balls and a mirrored ceiling, for up to 80. Karaoke may cost extra. The pizza is Short Road's Romana-style thin crust, and the room is booked as a private hire through the pub's party enquiry form.
 
 ### The Thieves, Battersea
 
 *51 Lavender Gardens, SW11 1DJ · Cited by 2 sources · [the pub's site](https://www.thethieves.pub/)*
 
-The old Four Thieves, reopened as The Thieves in October 2025 with arcade games, darts, pool and private karaoke booths it calls Singpods. The kitchen's dish is chicken parmigiana, two for £20 on Tuesdays from 5pm to 9pm, and there is live music, DJs and comedy on other nights. Book a pod on the pub's booking page.
+The old Four Thieves, reopened as The Thieves in October 2025 with arcade games, darts, pool and private karaoke booths it calls Singpods. The kitchen's dish is chicken parmigiana, two for £20 on Tuesdays from 5pm to 9pm. Book a pod on the pub's booking page.
 
 ### Stokey Karaoke, Stamford Hill
 
 *20 Stamford Hill, N16 6XZ · Cited by 1 source · #9 of 14, Time Out · [the venue's site](https://www.stokeykaraoke.com/)*
 
-**Time Out's number nine**: an independent basement venue, the old Cotton Club, still run by the same family, with props and fancy dress and room for up to 60. **Two hours start at £125 and three hours at £175, two hours minimum**, booked by email through the site. It is the one room on this page priced for a whole party rather than a table of friends.
+**Time Out's number nine**: an independent basement venue, the old Cotton Club, still run by the same family, with props and fancy dress and room for up to 60. **Two hours start at £125 and three hours at £175, two hours minimum**, booked by email through the site.
 
 ### Infernos, Clapham
 
 *146 Clapham High Street, SW4 7UH · Cited by 3 sources · [the club's site](https://www.infernos.co.uk/)*
 
-A two-floor nightclub with private karaoke suites, where a pre-booked suite comes with drinks ordered in advance and **queue-jump entry before midnight**. Country & Town House notes the suites are booked from 10pm to 3am, for groups of 15 or 30, and everyone in the room needs club entry too. Book it for the end of a night out, not the start.
+A two-floor nightclub with private karaoke suites, where a pre-booked suite comes with drinks ordered in advance and **queue-jump entry before midnight**. Country & Town House notes the suites are booked from 10pm to 3am, for groups of 15 or 30, and everyone in the room needs club entry too.
 
 ### More rooms named by two sources
 
