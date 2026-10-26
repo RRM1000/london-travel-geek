@@ -1,5 +1,5 @@
 ---
-title: "The Best Dim Sum in London: 15 Rooms Compared"
+title: "The Best Dim Sum in London: Every Room Compared, With What to Order"
 seoTitle: "Best Dim Sum in London: Chinatown to Michelin Stars"
 description: "The best dim sum in London and Chinatown: Royal China on Baker Street, a two-Michelin-starred lunch at A. Wong, trolley-era Joy King Lau, and who serves all day."
 heroImage: "../../assets/articles/best-dim-sum-london/best-dim-sum-london.jpg"
