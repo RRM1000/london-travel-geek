@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:1-17_Norfolk_Square,_Pa
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-09-25
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
 reviewBy: 2027-03-25
 sites: [london]
 canonicalSite: london
@@ -18,7 +18,7 @@ tags: [where to stay, hotels, Paddington, Heathrow, Sussex Gardens, planning]
 draft: false
 faq:
   - q: "Is Paddington a good area to stay in London?"
-    a: "It is the best-connected base for Heathrow and the west of England. The Heathrow Express reaches Terminals 2 and 3 in 15 minutes, the Elizabeth line runs to Heathrow in about 27 and on through the West End to the City, and Great Western Railway runs direct to Bath and Oxford. Five Tube lines stop at the station. What it lacks is a Night Tube line, so a very late night out ends with a night bus or a walk to Lancaster Gate."
+    a: "The Heathrow Express reaches Terminals 2 and 3 in 15 minutes, the Elizabeth line runs to Heathrow in about 27 and on through the West End to the City, and Great Western Railway runs direct to Bath and Oxford. Five Tube lines stop at the station, but none runs a Night Tube service, so a very late night out ends with a night bus or a walk to Lancaster Gate."
   - q: "What is the cheapest place to stay in Paddington?"
     a: "Norfolk Towers on Norfolk Place sells Small Single rooms of about 4.5 square metres from £69 including VAT, with an en-suite shower. St David's Hotels on Norfolk Square has singles that share a bathroom with two other rooms, and Barry House on Sussex Place sells room-only budget rooms on its fourth floor. St David's and Barry House have no lift."
   - q: "Which Paddington hotel is closest to the Heathrow Express?"
@@ -29,7 +29,7 @@ faq:
     a: "Mitre House Hotel on Sussex Gardens sells family rooms for four and interconnecting rooms for five, with a cooked breakfast included and a lift. Hilton London Metropole on Edgware Road has a Two Bedroom Family Suite for six. At the two Premier Inns, up to two children eat breakfast free when an adult orders one. Rule out The Pilgrm: every room takes two people at most and no extra beds fit."
 ---
 
-Paddington is a railway station with a hotel district wrapped around it. The Heathrow Express and the Elizabeth line leave from here, Great Western Railway runs west to Bath and Oxford, and five Tube lines stop underneath. The hotels fill the streets in every direction: a Victorian railway hotel on the front of the station, chain hotels on the canal basin behind it, and a grid of converted stucco townhouses on Norfolk Square and Sussex Gardens.
+Paddington is a railway station with a hotel district wrapped around it. The Heathrow Express and the Elizabeth line leave from here, Great Western Railway runs west to Bath and Oxford, and five Tube lines stop underneath. The hotels are a Victorian railway hotel on the front of the station, chain hotels on the canal basin behind it, and a grid of converted stucco townhouses on Norfolk Square and Sussex Gardens.
 
 What decides where you sleep is how early your train is, whether you can manage stairs, and how late you plan to be out.
 
@@ -57,7 +57,7 @@ Bayswater, Queensway and Lancaster Gate have their own guide: [where to stay in 
 
 *About £200 · 146 Praed Street, W2 1EE · On the station · [Hotels.com](hotel:hilton-london-paddington)*
 
-Opened in June 1854 as the Great Western Royal Hotel, promoted by Isambard Kingdom Brunel, who chaired the company that ran it. Philip Charles Hardwick designed it, and it forms the front of the station, closing off the end of the train shed. It has been a Hilton since 2001. **You reach the Heathrow Express through the station, without crossing a road.** It also sells day rooms for a late flight; our [day rooms guide](/articles/day-rooms-london/) compares the rates. Bathrooms have a bath with a separate hand shower and grab rails beside both.
+Opened in 1854 as the Great Western Royal Hotel, it forms the front of the station. It has been a Hilton since 2001. **You reach the Heathrow Express through the station, without crossing a road.** It also sells day rooms for a late flight; our [day rooms guide](/articles/day-rooms-london/) compares the rates. Bathrooms have a bath with a separate hand shower and grab rails beside both.
 
 <div class="photo-row">
 
@@ -73,7 +73,7 @@ Opened in June 1854 as the Great Western Royal Hotel, promoted by Isambard Kingd
 
 *About £150 · 25 London Street, W2 1HH · Paddington 3 min · Check-in 3pm, out noon · [Hotels.com](hotel:the-pilgrm)*
 
-An independent hotel in a converted Victorian building, with a lounge and terrace serving Monmouth coffee and breakfast, and cocktails from Untitled Drinks, the team behind Bar Termini. Every room has a private shower room; there are no baths. **Rooms take two people at most, there are no twins and no extra beds fit**, though there is a bunk room. There is no step-free access: stairs at the entrance and in some corridors. Dogs are allowed in medium and large rooms.
+An independent hotel in a converted Victorian building, with a lounge and terrace serving Monmouth coffee, breakfast and cocktails. Every room has a private shower room; there are no baths. **Rooms take two people at most, there are no twins and no extra beds fit**, though there is a bunk room. There is no step-free access: stairs at the entrance and in some corridors. Dogs are allowed in medium and large rooms.
 
 <div class="photo-row">
 
@@ -185,7 +185,7 @@ A Premier Inn on the basin with **family rooms**, a lift and air conditioning in
 
 ## Hotels on Norfolk Square and Sussex Gardens
 
-These streets are lined with small hotels in converted Victorian houses, and the rooms vary from building to building. Before booking on price, check three things:
+These streets are lined with small hotels in converted Victorian houses. Check three things before booking on price:
 
 - **Whether there is a lift.** St David's Hotels and Barry House have none; Mitre House and Grand Hotel Bellevue do. At Stylotel there are a few steps between the lift and each floor.
 - **The room size.** Singles here start at about 4.5 square metres.
@@ -197,7 +197,7 @@ Our [budget hotels guide](/articles/best-budget-hotels-london/) covers the cheap
 
 *£££ · 60 rooms · 25–27 Norfolk Square, W2 1RX · Paddington 3 min · Check-in 3pm, out noon · [check prices](hotel:grand-hotel-bellevue-london)*
 
-A Victorian house on Norfolk Square run by a French hotel group, with interiors by the architect Fabrizio Casiraghi and Floris toiletries. Rooms run from **Cabins, whose beds are raised about a metre off the floor**, and Classic rooms of 12 square metres up to Deluxe rooms of 20 with sash windows, and **Executive rooms of 22 that take three people on a sofa bed**. The Grand Norfolk Suite, 35 square metres, looks over the square and has a bath. There is no restaurant: the Pondicherry bar serves a seasonal menu from morning to late evening. A lift serves every floor, but there are four steps at the front door.
+A Victorian house on Norfolk Square run by a French hotel group, with Floris toiletries. Rooms run from **Cabins, whose beds are raised about a metre off the floor**, and Classic rooms of 12 square metres up to Deluxe rooms of 20 with sash windows, and **Executive rooms of 22 that take three people on a sofa bed**. The Grand Norfolk Suite, 35 square metres, looks over the square and has a bath. There is no restaurant: the Pondicherry bar serves a seasonal menu from morning to late evening. A lift serves every floor, but there are four steps at the front door.
 
 <div class="photo-row">
 
@@ -213,7 +213,7 @@ A Victorian house on Norfolk Square run by a French hotel group, with interiors 
 
 *14–20 Norfolk Square, W2 1RS · Paddington 2 min · [Hotels.com](hotelscom:h75753026)*
 
-Four Grade II-listed townhouses facing the square's gardens, taken on one by one by George Neokleous from 1980 and now run by his children. Doubles are 9 to 16 square metres and twins 12 to 16. **The Superior Quad, about 20 square metres on the lower ground floor, has a double and a separate bunk area for four.** The cheapest are singles of about 4.5 square metres sharing a bathroom with two other rooms. **There is no lift, the stairs are narrow, and there are steep steps at the entrance**; ground-floor rooms can be requested. Reception is 24 hours.
+Four Grade II-listed townhouses facing the square's gardens, run by the same family since 1980. Doubles are 9 to 16 square metres and twins 12 to 16. **The Superior Quad, about 20 square metres on the lower ground floor, has a double and a separate bunk area for four.** The cheapest are singles of about 4.5 square metres sharing a bathroom with two other rooms. **There is no lift, the stairs are narrow, and there are steep steps at the entrance**; ground-floor rooms can be requested. Reception is 24 hours.
 
 ### Stylotel — breakfast included, and a bar with Concorde seats
 
@@ -326,4 +326,4 @@ Our [Heathrow guide](/articles/heathrow-airport-to-london/) compares every route
 
 For how Paddington compares with every other base in London, see [the best areas to stay in London](/articles/best-areas-to-stay-in-london/).
 
-*Typical nightly rates for a double, or each hotel's own published from-rate where it gives one, checked 25 September 2026. The £ symbols mark a price band where a hotel publishes no rate. Heathrow Express times and fares from Heathrow Express; Elizabeth line fare and Night Tube lines from TfL. Prices move nightly, so check your own dates.*
+*Typical nightly rates for a double. The £ symbols mark a price band. Heathrow Express times and fares from Heathrow Express; Elizabeth line fare and Night Tube lines from TfL. Prices move nightly, so check your own dates.*
