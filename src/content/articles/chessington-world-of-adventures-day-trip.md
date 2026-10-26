@@ -3,7 +3,7 @@ title: "Chessington World of Adventures from London: Tickets, Trains and Rides"
 seoTitle: "Chessington World of Adventures: Tickets and Trains"
 description: "Chessington tickets are from £32 online and £68 at the gate, with the zoo and SEA LIFE included and under-90cm children free. It is in Zone 6, 36 minutes from Waterloo on Oyster. Every ride's height limit, Fastrack prices, and the days it is shut."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
@@ -24,7 +24,7 @@ faq:
   - q: "Is Chessington in London?"
     a: "Yes. It is in Greater London, and Chessington South station is in Zone 6 of the London fare zones. Every entrance to the resort is also inside the ULEZ."
   - q: "Is Chessington open in winter?"
-    a: "Only on set dates. After Howl'o'ween ends on 1 November 2026 it opens on 7 and 8 November, then for Christmas at Chessington on selected days from 21 November to 24 December, and from 27 December 2026 to 3 January 2027 with selected rides. It is closed on 25 and 26 December."
+    a: "Only on set dates. After Howl'o'ween ends on 1 November 2026 it opens on 7 and 8 November, then for Christmas at Chessington on selected days from 21 November to 24 December, and from 27 December 2026 to 3 January 2027 (Twixmas) with selected rides. It is closed on 25 and 26 December."
   - q: "What age is Chessington best for?"
     a: "Roughly 3 to 12. Most rides need 0.9m to 1.2m, the zoo and aquarium are included, and only one ride, Rattlesnake, needs 1.4m. Teenagers after big coasters will get more from Thorpe Park."
   - q: "Can you take a picnic into Chessington?"
@@ -33,9 +33,9 @@ faq:
 
 **Chessington World of Adventures costs from £32 booked online and £68 at the gate, and the ticket includes a zoo and an aquarium.** Children under 90cm go free. It is the one big theme park inside Greater London: Chessington South is in Zone 6, so you can get there on an Oyster card.
 
-It is a park for families with children of about 3 to 12. Only one ride needs 1.4m, there are four rides from 0.9m in the World of PAW Patrol land that opened in 2026, and Chessington Zoo puts giraffes and meerkats between the rollercoasters.
+It is a park for families with children of about 3 to 12. Only one ride needs 1.4m, and there are four rides from 0.9m in the World of PAW Patrol land that opened in 2026.
 
-> 💡 **The Short Version:** **Best for children of about 3 to 12.** **Book online**: from **£32**, against **£68** at the gate, with the **zoo and SEA LIFE included** and **under-90cm free**. **Waterloo to Chessington South, 36 minutes, every half hour, £5.20 off-peak on Oyster or contactless**, then a **10-minute walk**. Driving, park for **£13** booked ahead, and check the ULEZ. **Closed on Tuesdays and Wednesdays in early October**, and on most days from November. **Howl'o'ween** runs to 1 November 2026 and **Christmas at Chessington** from 21 November. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> can be **cancelled free up to 24 hours before**, which helps if you are watching the weather.
+> 💡 **The Short Version:** **Best for children of about 3 to 12.** **Book online**: from **£32**, against **£68** at the gate, with the **zoo and SEA LIFE included** and **under-90cm free**. **Waterloo to Chessington South, 36 minutes, every half hour, £5.20 off-peak on Oyster or contactless**, then a **10-minute walk**. Driving, park for **£13** booked ahead, and check the ULEZ. **Closed on Tuesdays and Wednesdays in early October**, and on most days from November. **Howl'o'ween** runs to 1 November 2026 and **Christmas at Chessington** from 21 November. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> can be **cancelled free up to 24 hours before**.
 
 ## What tickets cost
 
@@ -50,20 +50,18 @@ It is a park for families with children of about 3 to 12. Only one ride needs 1.
 
 **The price depends on the date**: the cheapest days are weekdays in term time, and booking ahead saves up to £33 a head. **There is no family ticket.** Everyone 90cm and over needs a ticket, booked online to guarantee entry, and that includes passholders and carers; carers go free with accepted documentation. **Under-12s must be with someone aged 18 or over.**
 
-**The Adult and Pre-Schooler ticket** covers one adult and one child aged 4 or under, Monday to Friday in term time, for £29. For a parent with a toddler on a weekday it is the cheapest way in.
+**The Adult and Pre-Schooler ticket** covers one adult and one child aged 4 or under, Monday to Friday in term time, for £29.
 
 ### The cheapest way in
 
 - **Book online, for a weekday in term time.**
 - **Travelling by train as a group?** The [Days Out Guide](https://www.daysoutguide.co.uk/chessington-world-of-adventures-resort) takes **a third off the online advance price for up to six people** with one National Rail ticket, from £23 a head. Oyster and contactless do not count, so this only pays if you buy a rail ticket. It is valid in the main season only, and the terms exclude the Zoo Days and the winter event. Rules in our [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/) guide.
 - **Already have a London Pass?** Chessington is one of the out-of-town attractions on it, and it has to be reserved in advance; our [London Pass guide](/articles/london-pass-guide/) says whether the pass pays for itself.
-- **Going twice, or to Thorpe Park as well?** The Chessington Annual Pass is from £64. The **Merlin Essential Pass, £139**, covers both parks, [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/) and the London Eye, but is barred on 25 busy days, including 17, 24, 25 and 31 October 2026; the £239 Gold Pass adds free parking.
+- **Going twice, or to Thorpe Park as well?** The Chessington Annual Pass is from £64. The **Merlin Essential Pass, £139**, covers both parks, [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/) and the London Eye, but is barred on 25 busy days, including 31 October 2026; the £239 Gold Pass adds free parking.
 
 ## Booking through GetYourGuide
 
-GetYourGuide sells Chessington's own <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">day ticket</a>, issued by the resort, with **free cancellation up to 24 hours before**. For a family that wants to wait for a dry forecast before committing, that is the case for booking there. Under-90cm children are still free and collect their ticket at the gate.
-
-GetYourGuide sells no coach or transfer package from London, and with a train from Waterloo every half hour there is little need for one.
+GetYourGuide sells Chessington's own <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">day ticket</a>, issued by the resort, with **free cancellation up to 24 hours before**. Under-90cm children are still free and collect their ticket at the gate. GetYourGuide sells no coach or transfer package from London.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="112474" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -102,15 +100,15 @@ The postcode is **KT9 2NE**, on the A243 Leatherhead Road, two miles from the M2
 
 ### Howl'o'ween 2026
 
-**3–4 and 10–11 October, then every day from 17 October to 1 November 2026.** Day tickets are from £34 online (£66 at the gate). It is the family version of Halloween: shows, a Vampire's Lair scare zone with living statues, rides running at dusk and PAW Patrol pups in costume, but no scare mazes. **Enchanted Hollow: Trick or Treat** is an extra, from £9 a head. Our [Halloween in London](/articles/halloween-london/) guide sets it against Thorpe Park's Fright Nights, which is for teenagers and adults.
+**3–4 and 10–11 October, then every day from 17 October to 1 November 2026.** Day tickets are from £34 online (£66 at the gate). It is the family version of Halloween: shows, a Vampire's Lair scare zone with living statues, rides running at dusk and PAW Patrol pups in costume, with no scare mazes. **Enchanted Hollow: Trick or Treat** is an extra, from £9 a head. Our [Halloween in London](/articles/halloween-london/) guide sets it against Thorpe Park's Fright Nights, which is for teenagers and adults.
 
 ### Christmas at Chessington 2026
 
-**Selected days from 21 November to 24 December 2026.** The Christmas Village, with a visit to Father Christmas's grotto, a toy workshop and a panto, comes with park entry from £32; entry on its own is from £24. **Only selected rides open.** The gates open at 09:00 on Christmas dates and rides from 10:00. The open days are weekends from 21 November, Friday 11 to Monday 14 December, and every day from 17 to 24 December. The park then opens with selected rides from 27 December 2026 to 3 January 2027; it is closed on 25 and 26 December.
+**Selected days from 21 November to 24 December 2026.** The Christmas Village, with a visit to Father Christmas's grotto and a toy workshop, comes with park entry from £32; park entry on its own is from £24. Entry includes the Christmas panto (Cinderella in 2026) and carollers. **Only selected rides open.** The gates open at 09:00 on Christmas dates and rides from 10:00. The open days are weekends from 21 November, Friday 11 to Monday 14 December, and every day from 17 to 24 December. The park then opens with selected rides from 27 December 2026 to 3 January 2027, from £20 and without the Christmas Village; it is closed on 25 and 26 December.
 
 ### Coming in 2027: Minecraft World
 
-**Minecraft World**, a land based on the video game, opens at Chessington in 2027, with **Escape the Nether**, which the resort calls the world's first Minecraft rollercoaster, and a Minecraft World Hotel. Chessington has not announced the opening date or the coaster's height limit.
+**Minecraft World**, a land based on the video game, opens at Chessington in 2027, with **Escape the Nether**, which the resort calls the world's first Minecraft rollercoaster, and a Minecraft World Hotel.
 
 ## The rides, and the height you need
 
@@ -161,7 +159,7 @@ Most of Chessington's rides take children from 0.9m or 1.1m, and several have no
 
 ## Queues and Fastrack
 
-**Weekdays in term time are the quietest days**; school holidays and event days are the busiest. Chessington's own advice is to **arrive early and leave the most popular rides until last**, going against the flow of the crowd. Use the Chessington app for live queue times.
+**Weekdays in term time are the quietest days**; school holidays and event days are the busiest. Chessington advises you to **arrive early and leave the most popular rides until last**. Use the Chessington app for live queue times.
 
 | Fastrack, October 2026 prices | From | What it covers |
 | --- | --- | --- |
@@ -183,14 +181,6 @@ Most of Chessington's rides take children from 0.9m or 1.1m, and several have no
 ## Staying over
 
 The resort has two hotels next to the park, the **[Safari Resort Hotel and the Azteca Resort Hotel](https://www.chessington.com/short-breaks/accommodation/azteca-safari-resort-hotels/)**, with themed rooms (Gruffalo, Room on the Broom, PAW Patrol and others); some rooms look out over the giraffes on the Wanyama Reserve. They are sold as short breaks **from £73 a person**, for two adults and two children sharing a standard room on selected dates, including **a day's entry, breakfast, Early Ride Time, the Savannah Splash Pool and free parking**. Christmas breaks start at £62 a person.
-
-## What people get wrong
-
-- **Going on a weekday in November**, when the park is shut.
-- **Driving in an older car** without checking the ULEZ.
-- **Expecting the PAW Patrol rides on a Gold Fastrack.** They need their own.
-- **Taking teenagers.** One ride needs 1.4m; Thorpe Park is the thrill park.
-- **Skipping the zoo and the aquarium.** Both are in the ticket.
 
 ## Continue planning your London trip
 
