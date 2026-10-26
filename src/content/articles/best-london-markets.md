@@ -5,7 +5,8 @@ description: "A banana-ripening warehouse full of food traders, a flower market 
 heroImage: "../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg"
 heroImageAlt: "Traders and long picnic benches under the glass roof of Canopy Market in King's Cross"
 publishedAt: 2026-06-01
-updatedAt: 2026-10-04
+updatedAt: 2026-10-26
+reviewBy: 2026-12-13
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -13,27 +14,22 @@ tags: [markets, street food, shopping, free things to do, things to do]
 draft: false
 faq:
   - q: "What is the best market in London?"
-    a: "Borough Market for food, Columbia Road for flowers, Portobello for antiques and Broadway Market for a weekend. Which is best depends entirely on what day you are there — several only exist one day a week."
+    a: "Borough Market for food, Columbia Road for flowers, Portobello for antiques and Broadway Market for a weekend. Several trade only one or two days a week, so pick by day."
   - q: "Which London markets are open every day?"
-    a: "Borough, Camden, Greenwich, Leadenhall and Old Spitalfields all trade most days. Columbia Road is Sunday only and Broadway Market is Saturday and Sunday — turning up on the wrong day is the most common way to waste a morning here."
+    a: "Camden, Greenwich and Old Spitalfields are open seven days a week, Borough is open every day except Monday, and Leadenhall is open to walk through every day with its shops on City hours. Columbia Road is Sunday only and Broadway Market is Saturday and Sunday."
   - q: "Where can I eat at a London market?"
     a: "Maltby Street is built around hot food. Borough has both traders and produce. Columbia Road and Portobello are shopping markets where the food is incidental — good, but not the reason to go."
   - q: "Is Camden Market worth visiting?"
-    a: "Yes, but know what it is — Camden Lock, the Stables and Hawley Wharf run together into the best-known collection of street vendors in Britain. It is busy, touristy and still enjoyable. Go on a weekday morning if you dislike crowds."
+    a: "Yes. Camden Lock, the Stables and Hawley Wharf run together into one market of about 1,000 independent traders, open seven days a week. Go on a weekday morning if you dislike crowds."
   - q: "Can you visit Billingsgate Fish Market?"
-    a: "Yes. It is the UK's largest inland fish market, trades before dawn a few minutes from Canary Wharf, and the public can buy. Go very early — it is finished by about 8am."
+    a: "Yes. It is the UK's largest inland fish market, open to the public Tuesday to Saturday from 4am to 8:30am, ten minutes' walk from Canary Wharf. Children under 12 and dogs are not allowed on the floor."
 ---
 
-The single most useful thing to know about London markets is **which days they exist**. Columbia Road is a street of flower sellers on Sunday and an ordinary road the rest of the week. Broadway Market is a Saturday and Sunday. Turning up on the wrong day is the standard way to waste a morning.
-
-We keep a full [markets by day](/markets/) page for exactly that reason. This guide is about what each one is actually *for* — including the flower, antiques and shopping markets.
+Check which days a market trades before you go. Columbia Road is flower sellers on Sunday and an ordinary road the rest of the week; Broadway Market trades Saturday and Sunday. Our [markets by day](/markets/) page lists trading days, and this guide says what each market is for.
 
 **If you are only here to eat**, our [best street food in London](/articles/best-street-food-london/) guide compares every food hall, market and container yard on traders, variety, seating and trading days. The seasonal chalet markets and maker fairs of November and December are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
-> 💡 **The Short Version:** **Borough** is the food market everything else is measured against. **Columbia Road** is Sunday only and worth the alarm. **Maltby Street** is the one locals use instead of Borough. And **Billingsgate** trades before dawn and is finished by 8am.
-
-> 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Trading days are the thing that changes most and the thing that ruins a trip — every one here was checked in August 2026, but confirm before travelling for a specific market.
+> 💡 **The Short Version:** **Borough** is the big food market, closed Mondays. **Columbia Road** is Sunday only and worth the alarm. **Maltby Street** is the smaller food market, ten minutes from Borough, open Friday evening to Sunday. And **Billingsgate** trades before dawn and closes at 8:30am.
 
 ## Where they are
 
@@ -74,15 +70,15 @@ We keep a full [markets by day](/markets/) page for exactly that reason. This gu
 
 *Free to enter · most days*
 
-The one everything else is measured against — wholesale traders and produce stalls side by side with the hot-food counters that made it famous, under a Victorian iron roof beside Southwark Cathedral.
+Produce stalls and hot-food counters under a Victorian iron roof beside Southwark Cathedral.
 
-**The timing advice everyone gives is wrong by a day.** It is busiest **between 11am and 2pm on Saturday**, and the good window is **Friday mid-morning** — everything is stocked and the crush has not started. Tuesday and Wednesday are quiet but several traders are not there.
+It is busiest **between 11am and 2pm on Saturday**. **Friday mid-morning** is the better window: everything is stocked and the crush has not started. Tuesday and Wednesday are quiet but several traders are missing.
 
-**Kappacasein's toastie is £8** and is the most queued-for item; it trades **Thursday, Friday and Saturday only** and nothing the rest of the week. **The Black Pig** does porchetta thirty seconds away, Tuesday to Sunday, £11.50 to £13.50.
+**Kappacasein's toastie is £8**; Kappacasein trades **Thursday, Friday and Saturday only**. **The Black Pig** does porchetta thirty seconds away, Tuesday to Sunday, £11.50 to £13.50.
 
-Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth crossing London for.
+Horn OK Please and Gujarati Rasoi both serve vegetarian Indian food.
 
-**SE1 9AH, two minutes from London Bridge.** Free to enter, and the Borough Market Kitchen section at the back has the seating. **Closed on Mondays.** It is the lunch stop on our [Bankside and Borough walk](/articles/bankside-borough-walk/), between Cross Bones and Southwark Cathedral.
+**8 Southwark Street, SE1 1TL, beside London Bridge station.** Free to enter, and the Borough Market Kitchen section at the back has the seating. **Closed on Mondays**; open Tuesday to Friday 10am to 5pm, Saturday 9am to 5pm and Sunday 10am to 4pm. It is the lunch stop on our [Bankside and Borough walk](/articles/bankside-borough-walk/), between Cross Bones and Southwark Cathedral.
 
 ![A cheese stall hung with French flags and stacked with whole cheeses under the iron roof of Borough Market](../../assets/articles/best-london-markets/borough-market-cheese-stall.jpg)
 
@@ -90,23 +86,21 @@ Horn OK Please and Gujarati Rasoi are the two vegetarian Indian stalls worth cro
 
 *Weekends*
 
-A **narrow ropewalk of food traders wedged under the railway arches** since 2010 — oysters, waffles, gin, and about twenty stalls in a corridor. The market locals use instead of Borough, ten minutes away.
+A **narrow ropewalk of food traders under the railway arches** since 2010: oysters, waffles, gin, and about twenty stalls in a corridor. Borough is ten minutes away.
 
-> ⚠️ **Friday evening to Sunday only, and this is the most common wasted trip in Bermondsey.** Saturday 10am to 5pm, Sunday 11am to 4pm, and Friday 5.30pm to 9pm in summer. The rest of the week Ropewalk is an alley of shuttered arches.
+> ⚠️ **Friday evening to Sunday only.** Friday 5.30pm to 9pm, Saturday 10am to 5pm, Sunday 11am to 4pm. The rest of the week Ropewalk is an alley of shuttered arches.
 
-**A few arches do trade midweek**: **40 Maltby Street** at number 40 is a wine bar and kitchen open Wednesday to Sunday, and one of the best wine lists in London behind a roller shutter.
+**A few arches do trade midweek**: **40 Maltby Street** is a wine shop and restaurant, open for dinner Wednesday to Saturday and lunch Thursday to Saturday.
 
-**It is tight.** By midday on a Saturday you are shuffling single file, so go at opening or accept the crush. Bermondsey is about eight minutes' walk, London Bridge ten.
+**It is tight.** By midday on a Saturday you are shuffling single file, so go at opening. Bermondsey station is about eight minutes' walk, London Bridge ten.
 
 ### Canopy Market, King's Cross
 
 *Free to enter · Wednesday to Sunday*
 
-A market of food traders, producers and designer-makers under the glass roof of the **West Handyside Canopy**, a Victorian goods canopy behind Granary Square. Long communal benches, a bar, and far calmer than Camden or Borough.
+Food traders, producers and designer-makers under the glass roof of the **West Handyside Canopy**, a Victorian goods canopy behind Granary Square. There are long communal benches and a bar.
 
-**It runs on two schedules.** Wednesday and Thursday are street food only, midday to 8pm. **Friday to Sunday is the full market** — produce, jewellery, homeware and accessories alongside the food — noon to 8pm on Friday, 11am to 6pm at the weekend, and the same hours on bank holiday Mondays.
-
-Come at the weekend if you want the makers rather than lunch.
+**It runs on two schedules.** Wednesday and Thursday are street food only: noon to 7pm on Wednesday, noon to 8pm on Thursday. **Friday to Sunday is the full market**, with produce, jewellery, homeware and accessories alongside the food: noon to 8pm on Friday, 11am to 6pm at the weekend and on bank holiday Mondays.
 
 ![Traders and long picnic benches under the glass roof of Canopy Market in King's Cross](../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg)
 
@@ -114,15 +108,17 @@ Come at the weekend if you want the makers rather than lunch.
 
 *Free to enter · before dawn*
 
-The **UK's largest inland fish market**, trading from around 4am a few minutes from the Canary Wharf towers. **The public can buy** — you do not need a trade card — and the whole thing is finished by about 8am.
+The **UK's largest inland fish market**, open **Tuesday to Saturday, 4am to 8:30am**, ten minutes' walk from Canary Wharf. **The public can buy**, and you do not need a trade card.
 
-**Bring cash, bring a cool bag, and buy in quantity.** Traders sell in boxes rather than portions, so this works for a group or a freezer and not for a dinner for one. Wear shoes you do not mind soaking.
+**Children under 12, dogs, flip-flops, open-toed shoes and anything on wheels (trolleys, suitcases, folding carts) are not allowed on the floor.** Wear non-slip closed shoes.
 
-**The market café does a bacon and scallop roll** where the scallops come off the floor downstairs, which is the most London-specific breakfast in this guide.
+**Bring cash and a cool bag without wheels.** Traders sell in boxes rather than portions, so this suits a group or a freezer, not a dinner for one.
 
-> ⚠️ **It closes for good by 2028.** The City of London Corporation confirmed in November 2024 that Billingsgate will shut permanently and the Poplar site be redeveloped for housing. Traders continue in place until then, but this is an entry with an expiry date on it.
+**The market café does a bacon and scallop roll**, with the scallops bought on the floor downstairs.
 
-Trading days are Tuesday to Saturday. Canary Wharf and Poplar are the nearest stations, and neither is running at 4am — this is a taxi or a night bus.
+> ⚠️ **Billingsgate is due to leave Poplar.** Traders stay until at least 2028, then move to a new site at Albert Island in the Royal Docks, subject to a Parliamentary bill. The Poplar site is planned for up to 4,000 homes.
+
+Poplar and Blackwall DLR stations are five minutes' walk and Canary Wharf (Jubilee line) ten. Trains are sparse at 4am, so many people take a taxi or a night bus.
 
 ---
 
@@ -134,13 +130,13 @@ Trading days are Tuesday to Saturday. Canary Wharf and Poplar are the nearest st
 
 *Sunday only*
 
-A Victorian street **packed shoulder to shoulder with flower sellers shouting prices down**, plus about sixty independent shops in the terraces behind them — a cheesemonger, a perfumer, galleries and cafés that only open because the market does.
+Flower sellers line a Victorian street, with about sixty independent shops in the terraces behind: a cheesemonger, a perfumer, galleries and cafés.
 
 **Sunday only, roughly 8am to 3pm. It does not exist any other day**, and the shops behind it largely close with it.
 
-**The two-hour rule.** Arrive at 8am for the pick of the stock and room to move, or after 2pm when sellers start shouting prices down rather than up and a bunch that was £15 goes for £5. Between 10am and 1pm you are wedged in a crowd unable to carry a plant.
+**Arrive at 8am** for the best stock and room to move, or **after 2pm**, when sellers cut prices and a bunch that was £15 goes for £5. Between 10am and 1pm the street is too crowded to carry a plant.
 
-**Do not drive and do not bring a pushchair.** The street is narrow, closed to traffic and completely full.
+**Do not drive or bring a pushchair.** The street is narrow and closed to traffic.
 
 **E2 7RG.** Hoxton is the nearest station at about five minutes; Bethnal Green and Old Street are both around fifteen.
 
@@ -148,13 +144,13 @@ A Victorian street **packed shoulder to shoulder with flower sellers shouting pr
 
 *Saturday 9am–5pm, Sunday 10am–4pm · 35 Broadway Market E8 4PH*
 
-Food, produce and vintage along a single street running down to the Regent's Canal, with **London Fields at the northern end** — which makes it work better than a market on its own: you buy lunch and then have somewhere to eat it.
+Food, produce and vintage along a single street running down to the Regent's Canal, with **London Fields at the northern end** to eat what you buy.
 
-**Saturday is the market**, roughly 9am to 5pm. It is **much quieter and largely shut the rest of the week**, though the permanent shops and cafés along the street trade normally.
+**The market runs Saturday 9am to 5pm and Sunday 10am to 4pm**, all year. The permanent shops and cafés along the street trade through the week.
 
-**It is a locals' market rather than a visitor one**, so the crowd is people doing their weekly shop and the stalls are produce, bread and cheese as much as street food.
+**The stalls are produce, bread and cheese** as much as street food.
 
-**Cambridge Heath is the nearest station**, about eight minutes, and London Fields station is about the same — Bethnal Green on the Central line is a fifteen-minute walk.
+**Cambridge Heath is the nearest station**, about eight minutes, and London Fields station is about the same. Bethnal Green on the Central line is a fifteen-minute walk.
 
 ---
 
@@ -164,17 +160,17 @@ Food, produce and vintage along a single street running down to the Regent's Can
 
 *Antiques Saturday*
 
-Antiques on Saturday — **the largest antiques market in the world by number of dealers** — and a different market on every other day of the week, which nobody explains.
+Antiques on Saturday, and a different market on the other days of the week.
 
-**Saturday is antiques**, and it is the day the road fills end to end. **Friday is a smaller antiques day** and much the better one if you actually want to buy: the same dealers, room to negotiate, no crowd. The rest of the week the northern end is fruit and veg and general goods for the neighbourhood.
+**Saturday is antiques**, and the road fills end to end. **Friday is a smaller antiques day** and better if you want to buy: room to negotiate and no crowd. The rest of the week the northern end is fruit and veg and general goods.
 
 ![A dense crowd filling Portobello Road between market stalls and pastel shopfronts](../../assets/articles/best-london-markets/portobello-road-market-crowd.jpg)
 
-**It is a mile and a half long and the character changes as you walk.** Antiques at the Notting Hill Gate end, food in the middle, vintage and the Westway arches at the northern end towards Ladbroke Grove.
+**It is a mile and a half long.** Antiques are at the Notting Hill Gate end, food in the middle, and vintage and the Westway arches at the northern end towards Ladbroke Grove.
 
 ![A covered stall of second-hand records and prints under the Westway, with browsers going through the crates](../../assets/articles/best-london-markets/portobello-green-record-stall.jpg)
 
-**Walk it north and get the Tube back.** Notting Hill Gate to Ladbroke Grove is the natural direction, and both are on the Circle, District and Hammersmith & City lines.
+**Walk it north and get the Tube back.** Notting Hill Gate to Ladbroke Grove is the natural direction, with a station at each end.
 
 <div data-stay-strip></div>
 
@@ -182,11 +178,11 @@ Antiques on Saturday — **the largest antiques market in the world by number of
 
 *Most days*
 
-A short street market off Camden High Street, west of the crowds — produce, street food and general goods along a single row, and the part of Camden that locals actually shop in rather than photograph.
+A short street market off Camden High Street: produce, street food and general goods along a single row.
 
-**It is the antidote to Camden Market**, five minutes away and a different experience entirely: no tourists, no queues, and stalls selling vegetables rather than novelty T-shirts.
+**It is the calm alternative to Camden Market**, five minutes away, with stalls selling vegetables rather than novelty T-shirts.
 
-**It is small.** Twenty minutes covers it, so treat it as the calm half of a Camden trip rather than a destination — do this, then the canal, then the main market if you still want it.
+**It is small.** Twenty minutes covers it, so treat it as one stop on a Camden trip: this, then the canal, then the main market.
 
 **Most days rather than every day**, and it winds down in the afternoon. Camden Town station is two minutes away.
 
@@ -196,13 +192,11 @@ A short street market off Camden High Street, west of the crowds — produce, st
 
 *Most days*
 
-A covered Victorian market hall of 1887, restored and now half market and half restaurants, with **a different theme on different days**: antiques on Thursday, when the hall opens early at 8am; **records on the first and third Friday of the month** rather than every Friday; makers on Wednesday; and a general mix of independent traders, art and fashion the rest of the week.
+A covered market hall of 1887 with market stalls and restaurants, and **a different line-up on different days**: antiques on Thursday, when the hall opens early at 8am; **records on the first and third Friday of the month**; makers on Wednesday; and independent traders, art and fashion the rest of the week.
 
-**Check the day against what you want.** Turning up on a Thursday hoping for vintage clothes gets you a hall of dealers' antiques instead, and the two crowds barely overlap.
+**It is covered**, so it works in the rain, and the food traders around the edge run all week. The daily market is open 10am to 6pm (5pm on Sunday).
 
-**It is entirely covered**, which makes it one of the more reliable wet-weather afternoons in east London, and the food traders around the edge run all week rather than at weekends only.
-
-**16 Horner Square, E1 6EW.** Liverpool Street is about five minutes and Aldgate East eight, and Brick Lane is directly behind it — so the two combine into one walk.
+**16 Horner Square, E1 6EW.** Liverpool Street is about five minutes and Aldgate East eight, and Brick Lane is directly behind it, so the two combine into one walk.
 
 ![The signed entrance arcade of Old Spitalfields Market, with traders' units under a glass and steel roof](../../assets/articles/best-london-markets/old-spitalfields-market.jpg)
 
@@ -210,25 +204,25 @@ A covered Victorian market hall of 1887, restored and now half market and half r
 
 *Every day*
 
-**Camden Lock, the Stables and Hawley Wharf** run together into the best-known collection of street vendors in Britain — over a thousand stalls across three connected markets, and it is busy and touristy and still good.
+**Camden Lock, the Stables and Hawley Wharf** run together into one market of about 1,000 independent traders, open seven days a week. Most traders open 10am to 6pm.
 
 **Weekday lunch is the same food without the crush**: the food traders are there all week, and a Saturday afternoon adds queues rather than choice.
 
-**The Stables is the interesting half.** Built as horse hospital and stables for the canal, it holds the antiques and vintage; Camden Lock has the food; Hawley Wharf is the newest and the most polished.
+**The Stables**, built as a horse hospital and stables for the canal, holds the antiques and vintage; Camden Lock has the food; Hawley Wharf is the newest section.
 
-**54–56 Camden Lock Place, NW1 8AF**, five minutes from Camden Town station — which is **exit-only on Sunday afternoons**, so plan to leave from Chalk Farm instead.
+**32 Camden Lock Place, NW1 8AL**, five minutes from Camden Town station — which is **exit-only on Sunday afternoons**, so plan to leave from Chalk Farm instead.
 
 ### Greenwich Market, Greenwich
 
 *Most days*
 
-**Trading since 1737 and the only London market inside a World Heritage site** — a small covered hall of designer-makers, antiques and a good run of food stalls, roofed in glass and timber.
+A small covered hall of designer-makers, antiques and food stalls, inside the Maritime Greenwich World Heritage Site. The market dates to 1737.
 
-**The stall line-up changes day to day**, which is unusual: some traders are weekend-only, others run midweek, and the theme shifts with them. It is busiest at weekends, and a weekday visit is quieter but thinner.
+**It is open daily, 10am to 5:30pm**, and closed on Christmas Day and the first six Mondays of the year. **The stalls change by day**: arts and crafts on Mondays, Wednesdays, Fridays and weekends, antiques and collectables on Tuesdays, Thursdays and Fridays.
 
-**It is compact enough to do in half an hour**, which makes it the right anchor for a Greenwich day — the Old Royal Naval College, the Cutty Sark and the free park viewpoint are all within ten minutes.
+**It takes half an hour.** The Old Royal Naval College, the Cutty Sark and the park viewpoint are all within ten minutes.
 
-**Cutty Sark DLR is three minutes away.** The market is covered, so it works in rain when the rest of Greenwich does not.
+**Cutty Sark DLR is three minutes away.** The market is covered, so it works in the rain.
 
 ---
 
@@ -236,9 +230,9 @@ A covered Victorian market hall of 1887, restored and now half market and half r
 
 *Sundays for the whole stretch · the Vintage Market daily*
 
-On Sundays the whole stretch turns into a patchwork of markets — **Upmarket, Backyard Market** and the Old Truman Brewery yards — selling vintage clothes, records, antiques and some of the best street food in east London. Chaotic, crowded and much larger than it looks from the street.
+On Sundays the whole stretch becomes a patchwork of markets, including **Upmarket, Backyard Market** and the Old Truman Brewery yards, selling vintage clothes, records, antiques and street food.
 
-**The Brick Lane Vintage Market itself runs seven days a week**, in the basement at F Block, 85 Brick Lane: Mon–Fri 11am–6.30pm, Sat 11am–6pm, Sun 10am–6pm. It is the biggest vintage market in London and covers the 1920s to the 1990s — so if you only want the clothes and records, **come on a weekday** and skip the crowds entirely.
+**The Brick Lane Vintage Market itself runs seven days a week**, in the basement at F Block, 85 Brick Lane: Mon–Fri 11am–6.30pm, Sat 11am–6pm, Sun 10am–6pm. It covers the 1920s to the 1990s, so if you only want the clothes and records, **come on a weekday**.
 
 Go early on a Sunday if you want the vintage, late if you want the food. **[Our Shoreditch and Spitalfields walking route →](/articles/shoreditch-spitalfields-walk/)** strings Columbia Road, Brick Lane, Spitalfields and Petticoat Lane into one numbered walk with the days set out stop by stop.
 
@@ -250,13 +244,13 @@ Go early on a Sunday if you want the vintage, late if you want the food. **[Our 
 
 *Tue–Sat · Church Street*
 
-**Britain's largest indoor antiques market**, four floors of it in an old Edwardian department store on Church Street, with **a rooftop café most people never find** — go to the top rather than stopping at the first floor.
+Alfies calls itself **London's largest indoor antiques market**: nearly a hundred dealers over four floors of a former department store on Church Street, with **a rooftop café** at the top.
 
-Twentieth-century design, vintage fashion and jewellery rather than genuine antiques in the auction-house sense, spread across around a hundred independent dealers who each keep their own unit.
+Mostly twentieth-century design, vintage fashion and jewellery rather than antiques in the auction-house sense. Each dealer keeps their own unit.
 
-**Closed Sundays and Mondays**, open Tuesday to Saturday — which is the reverse of most London markets and the reason people turn up to a locked door at the weekend.
+**Open Tuesday to Saturday, 10am to 6pm; closed Sunday and Monday.**
 
-**Church Street around it is the rest of the trade**, with more antiques shops either side, so the market is the anchor of a street rather than the whole of it.
+**Church Street** has more antiques shops either side.
 
 Edgware Road and Marylebone stations are each about eight minutes.
 
@@ -264,27 +258,27 @@ Edgware Road and Marylebone stations are each about eight minutes.
 
 *Daily · covered arcades*
 
-Two covered arcades off Electric Avenue that went from near-derelict to one of the best places to eat in south London — and still hold the Caribbean grocers, fishmongers and butchers that were there first.
+Two covered arcades off Electric Avenue holding independent restaurants alongside the Caribbean grocers, fishmongers and butchers that were there first.
 
-**The mix is local**: a Colombian bakery next to a record shop next to a family greengrocer, and the restaurants pay rent alongside the market traders rather than replacing them.
+**Traders include** a Colombian bakery, a record shop and a family greengrocer.
 
-**Most of the food is small, independent and cash-friendly rather than card-only**, and the units seat a dozen people, so an evening here means eating early or waiting.
+**The restaurants are small**, with units seating around a dozen, so an evening here means eating early or waiting.
 
-**Both arcades are covered and open most days**, though individual traders keep their own hours and the restaurants run later than the shops — so a daytime visit and an evening one give you two different places.
+**Both arcades are covered and open most days.** Traders keep their own hours, and the restaurants open later than the shops.
 
-**Brixton station is two minutes** and Electric Avenue is directly outside, which Eddy Grant named the song after.
+**Brixton station is two minutes away**, and Electric Avenue, the street Eddy Grant's song is named after, is directly outside.
 
 ### Victoria Park Market, Hackney
 
 *Sundays · east London*
 
-Street food, groceries, fashion and cut flowers on the edge of Victoria Park, and the one east London market still mostly locals rather than visitors — no vintage stalls, no tour groups, and prices to match.
+Street food, groceries, fashion and cut flowers on the edge of Victoria Park.
 
-**Sundays only**, roughly 10am to 4pm, on Bonner Gate Plaza at the western edge of the park.
+**Sundays only**, 10am to 4pm, on Bonner Gate Plaza at the western edge of the park.
 
-**Combine it with the park.** Victoria Park is the oldest public park in Britain, and the natural plan is to buy lunch at the market and walk into it — there is a boating lake and a pavilion café inside.
+**Combine it with the park.** Buy lunch at the market and walk in; there is a boating lake and a pavilion café inside.
 
-**Hackney Wick and Bethnal Green are each about fifteen minutes' walk**: there is no station close, and that is precisely why it has stayed a local market.
+**There is no station close.** Hackney Wick and Bethnal Green are each about fifteen minutes' walk.
 
 ---
 
@@ -296,13 +290,13 @@ Street food, groceries, fashion and cut flowers on the edge of Victoria Park, an
 
 *Free · weekdays*
 
-An **1881 covered market in cream, maroon and green wrought iron**, standing on the site of the Roman forum and rebuilt by Horace Jones, who also designed Billingsgate and Tower Bridge. It played the London streets leading to the Leaky Cauldron in the first Harry Potter film, and the blue door used as the Leaky Cauldron entrance, on Bull's Head Passage, is now the Two Eyes Coffee House.
+An **1881 covered market in cream, maroon and green wrought iron**, standing on the site of the Roman forum and designed by Horace Jones, who also designed Billingsgate and Tower Bridge. It played the London streets leading to the Leaky Cauldron in the first Harry Potter film, and the blue door used as the Leaky Cauldron entrance, on Bull's Head Passage, is now the Two Eyes Coffee House.
 
-**It is not really a market any more.** The stalls are gone; what trades now is shops, bars and restaurants under the ironwork, so come for the building rather than to buy anything.
+**Day to day it is shops, bars and restaurants under the ironwork**, not stalls.
 
-> ⚠️ **It keeps City hours and is effectively dead at weekends.** Monday to Friday is when the units are open, and around six on a weekday evening is when it is fullest and best. A Sunday visit gets you a beautiful empty arcade and nothing else.
+> ⚠️ **It keeps City hours and is quiet at weekends.** The shops, bars and restaurants trade on weekdays, and around six on a weekday evening is when it is fullest. At weekends, pop-up markets run from noon to 5pm: SoLo Craft Fair on the second Saturday of the month (next on 14 November and 12 December 2026).
 
-**Gracechurch Street EC3V 1LT**, two minutes from Bank or Monument. Free, roofed, and open to walk through at any hour even when the shops are shut.
+**Gracechurch Street EC3V 1LT**, two minutes from Bank or Monument. Free, roofed, and open to walk through at any hour.
 
 ![The cream, maroon and green painted ironwork of Leadenhall Market's arcade, with shopfronts down both sides](../../assets/articles/best-london-markets/leadenhall-market.jpg)
 
@@ -312,13 +306,13 @@ An **1881 covered market in cream, maroon and green wrought iron**, standing on 
 
 Under the glass roof of Charles Fowler's 1830 market building — **antiques on Monday, crafts and general goods the rest of the week**, from about 10am to 6pm daily.
 
-**Monday is the day worth planning around.** The antiques dealers only appear then, and it is also the quietest day in Covent Garden, so you get the better stalls and room to look at them.
+**The antiques dealers appear on Mondays only.**
 
-**The traders are vetted and many make what they sell**, which is the difference between this and the Jubilee Market hall on the south side — that one is cheaper and closer to a general market.
+**The traders are vetted and many make what they sell.** The Jubilee Market hall on the south side is cheaper and closer to a general market.
 
-**The street performers under the glass in the North Hall are classical musicians** rather than jugglers, because those pitches are balloted separately. Free to watch; they pass a hat.
+**The performers in the North Hall are classical musicians**; those pitches are balloted separately. Free to watch; they pass a hat.
 
-**Free to walk through, roofed, and open every day**, which makes it a reliable wet-weather hour. Covent Garden station is two minutes, but it is **exit-only at busy times** — Leicester Square is often faster.
+**Free to walk through, roofed, and open every day.** Covent Garden station is two minutes, but it is **exit-only at busy times** — Leicester Square is often faster.
 
 ---
 
@@ -326,7 +320,7 @@ Under the glass roof of Charles Fowler's 1830 market building — **antiques on 
 
 Check the difference before you plan a morning around one.
 
-* **Battersea Power Station** — 150 shops and restaurants inside Gilbert Scott's power station. A shopping centre in an extraordinary building.
+* **Battersea Power Station** — 150 shops and restaurants inside Gilbert Scott's power station. A shopping centre.
 * **The King's Road**, Chelsea — a shopping street with history rather than a market. Mary Quant opened Bazaar here in 1955.
 * **Coal Drops Yard**, King's Cross — Heatherwick's converted coal drops, now retail.
 
@@ -336,23 +330,17 @@ Check the difference before you plan a morning around one.
 
 ## What things cost, and the free part
 
-Markets are the cheapest good food in London and one of the few free things to do that is not a museum.
-
-* **Walking round costs nothing.** Borough, Spitalfields, Columbia Road, Portobello, Camden and Leadenhall are all free to enter and worth an hour on their own. Columbia Road on a Sunday morning is one of the best free hours in London.
-* **Street food runs roughly £8–£14 a dish** across Borough, Maltby Street and Brick Lane — cheaper than a restaurant, more expensive than a supermarket, and the quality at the top end matches restaurants charging double.
-* **Go at closing time for flowers.** Columbia Road traders cut prices hard in the last hour, and the shouting is half the entertainment.
-* **Borough's free samples are real.** The cheese, charcuterie and oil stalls expect you to taste, and a slow circuit of the market is close to a free lunch, though buying something is the decent thing.
-* **Billingsgate is free to walk into** and over by 8am. Bring cash and a cool bag.
-* **Maltby Street is cheaper than Borough** for the same standard of food, ten minutes away, at weekends only.
+* **Walking round costs nothing.** Borough, Spitalfields, Columbia Road, Portobello, Camden and Leadenhall are all free to enter.
+* **Street food runs roughly £8–£14 a dish** across Borough, Maltby Street and Brick Lane.
+* **Go in the last hour for flowers.** Columbia Road traders cut prices.
+* **Borough's cheese, charcuterie and oil stalls offer tastings.**
+* **Billingsgate is free to walk into** and closes at 8:30am. Bring cash and a cool bag.
 
 ---
 
 ## What to know
 
 * **Check the day.** Columbia Road is Sunday, Broadway Market is Saturday and Sunday, Leadenhall trades on City hours, so weekdays. See our [markets by day](/markets/) page.
-* **Borough on a Tuesday** is a completely different and better experience than Borough on a Saturday.
-* **Columbia Road's last hour** is when the prices collapse.
-* **Billingsgate is over by 8am.** It is not a late-morning activity.
 * **Most food markets take cards**, but a few of the smaller antiques dealers still prefer cash.
 
 ---
@@ -363,7 +351,8 @@ Markets are the cheapest good food in London and one of the few free things to d
 - 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — the Filipino counters at Seven Dials and both Boxparks
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**
-- 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — the streets, stores and arcades around the markets- 🛍️ **[London Markets by Day](/markets/)**
+- 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — the streets, stores and arcades around the markets
+- 🛍️ **[London Markets by Day](/markets/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🎪 **[Free Things to Do in London](/free/)**
