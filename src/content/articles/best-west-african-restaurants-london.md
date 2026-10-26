@@ -5,6 +5,7 @@ description: "Michelin's African selection for London is three restaurants and a
 heroImage: "../../assets/articles/best-west-african-restaurants-london/chishuru-dining-room.jpg"
 heroImageAlt: "The dining room at Chishuru: green leather chairs at pale timber tables, a faceted wooden bar front, and glasses hanging above the open pass"
 publishedAt: 2026-06-11
+updatedAt: 2026-10-26
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london
@@ -13,24 +14,24 @@ tags: [restaurants, West African restaurants, Nigerian restaurants, Ghanaian res
 draft: false
 faq:
   - q: "What is the best West African restaurant in London?"
-    a: "Chishuru in Fitzrovia has the strongest claim. It holds a Michelin star in the 2026 guide, and its chef Adejoké Bakare took Chef of the Year at the 2024 National Restaurant Awards, which is the most senior award any London West African kitchen has won. Akoko, four streets away, holds a star too and is named by just as many independent sources. Michelin's African selection for Greater London is those two plus Akara, which holds a Bib Gourmand — three restaurants, three distinctions, and no fourth."
+    a: "Chishuru in Fitzrovia has the strongest claim. It holds a Michelin star in the 2026 guide, and its chef Adejoké Bakare took Chef of the Year at the 2024 National Restaurant Awards. Akoko, four streets away, holds a star too and is named by just as many independent sources. Michelin's African selection for Greater London is those two plus Akara, which holds a Bib Gourmand."
   - q: "What is the difference between Nigerian and Ghanaian food?"
-    a: "Both sell jollof and both sell fried plantain, which is why the shopfronts look interchangeable. The tells are elsewhere. A Ghanaian kitchen has waakye — rice and black-eyed beans steamed with dried sorghum leaves until both go red-brown — plus banku and kenkey, the sour fermented corn doughs. A Nigerian kitchen has egusi, a stew thickened with ground melon seed, pounded yam and amala to eat it with, and suya, thin beef grilled and dusted in a peanut-and-chilli spice called yaji."
+    a: "Both sell jollof and fried plantain. A Ghanaian kitchen has waakye — rice and black-eyed beans steamed with dried sorghum leaves until both go red-brown — plus banku and kenkey, the sour fermented corn doughs. A Nigerian kitchen has egusi, a stew thickened with ground melon seed, pounded yam and amala to eat it with, and suya, thin beef grilled and dusted in a peanut-and-chilli spice called yaji."
   - q: "Where is the best jollof rice in London?"
-    a: "Depends whose. For Nigerian party jollof, smoky from the bottom of the pot, 805 on the Old Kent Road and Bola Cuisine in New Cross are the two cheap benchmarks. For the Ghanaian version, 19FiftySeven on the Old Kent Road and Waakye Joint in Tottenham. For the Senegalese original it descends from, thieboudienne, you want a Senegambian kitchen: Safna Kitchen at Elephant and Castle or Walfathou Kitchen in Islington."
+    a: "For Nigerian party jollof, smoky from the bottom of the pot, try 805 on the Old Kent Road or Bola Cuisine in New Cross. For the Ghanaian version, 19FiftySeven on the Old Kent Road or Waakye Joint in Tottenham. For thieboudienne, the Senegalese original it descends from, go to a Senegambian kitchen: Safna Kitchen at Elephant and Castle or Walfathou Kitchen in Islington."
   - q: "Where do I get suya in London?"
-    a: "Alhaji Suya in Peckham is the name everyone gives, and its yaji spice is imported from Kano state in northern Nigeria, where the owner is from. Vittles reports that it burned down and reopened without its live fire grill. Suuyar, also in Peckham, runs an all-you-can-eat suya buffet and started as a stall on the corner of Choumert Road and Rye Lane."
+    a: "Alhaji Suya in Peckham imports its yaji spice from Kano state in northern Nigeria, where the owner is from. Vittles reports that it burned down and reopened without its live fire grill. Suuyar, also in Peckham, runs an all-you-can-eat suya buffet and started as a stall on the corner of Choumert Road and Rye Lane."
   - q: "Where is the West African food in Peckham?"
-    a: "Choumert Road, mostly. Lolak Afrique at number 38–40 does abula, the Yoruba trio of ewedu, gbegiri and tomato stew poured over one plate; Mingles at number 18 cooks Sierra Leonean, which almost nowhere in London does. Alhaji Suya is around the corner on Peckham Park Road and The Flygerians trade inside Peckham Palms on Bournemouth Close."
+    a: "Choumert Road, mostly. Lolak Afrique at number 38–40 does abula, the Yoruba trio of ewedu, gbegiri and tomato stew poured over one plate; Mingles at number 18 cooks Sierra Leonean. Alhaji Suya is around the corner on Peckham Park Road and The Flygerians trade inside Peckham Palms on Bournemouth Close."
   - q: "Is West African food in London expensive?"
-    a: "The gap is wider than in almost any other cuisine here. A tasting menu at Ikoyi is £395 and at Akoko £130. At the other end, Bola Cuisine in New Cross will give you change from a tenner, a jollof plate at The Flygerians is £9.50, and the stalls and bakeries sit under that. Nothing in between is missing — it is the same food at both ends."
+    a: "A tasting menu at Ikoyi is £395 and at Akoko £130. At the other end, Bola Cuisine in New Cross will give you change from a tenner, a jollof plate at The Flygerians is £9.50, and the stalls and bakeries sit under that."
 ---
 
 **Michelin's African selection for Greater London contains three restaurants and every one of them holds a distinction** — two one-stars and a Bib Gourmand in the 2026 guide. Two of the three have the same owner, and all three awards have been made since 2024.
 
-The published lists have followed the stars up and largely stopped there. **What they cover thinly is the part of the scene the stars came out of**: Chishuru began as a three-month pop-up in Brixton Village, won in a cooking competition; The Flygerians started as street food in 2016; Suuyar was a stall on a Peckham street corner before it took a shop. Those are not the humble-origins paragraph of the story. They are still where most of this food is sold.
+The published lists follow the stars and cover thinly the part of the scene the stars came out of: Chishuru began as a three-month pop-up in Brixton Village, won in a cooking competition; The Flygerians started as street food in 2016; Suuyar was a stall on a Peckham street corner before it took a shop. Most of this food is still sold from places like those.
 
-> 💡 **The Short Version:** **Chishuru** in Fitzrovia holds a Michelin star and its chef took Chef of the Year at the 2024 National Restaurant Awards. **Akoko**, four streets away, holds a star too. **Akara** in Borough Yards took a Bib Gourmand in the 2026 guide and is the one to book if a tasting menu is more evening than you want. For Ghanaian, **Waakye Joint** in Tottenham; for Ivorian, **Sikatiô** in Brockley, which a ranked London-wide list puts at number 34 in the city. Cheapest serious plate on this page: **Bola Cuisine** in New Cross, under a tenner.
+> 💡 **The Short Version:** **Chishuru** in Fitzrovia holds a Michelin star and its chef took Chef of the Year at the 2024 National Restaurant Awards. **Akoko**, four streets away, holds a star too. **Akara** in Borough Yards took a Bib Gourmand in the 2026 guide and is the one to book if a tasting menu is more evening than you want. For Ghanaian, **Waakye Joint** in Tottenham; for Ivorian, **Sikatiô** in Brockley, which a ranked London-wide list puts at number 34 in the city. For a plate under a tenner: **Bola Cuisine** in New Cross.
 
 > 📊 **The evidence behind this guide.**
 > **15 independent sources carrying 115 citations** across **43 named venues**, and **24 venues are named by two or more independent sources. Five carry a dated award.**
@@ -67,29 +68,29 @@ The published lists have followed the stars up and largely stopped there. **What
 
 ## The winners
 
-**These are the three restaurants Michelin classifies as African in Greater London, and there is no fourth.** Chishuru and Akoko hold a star each in the 2026 guide; Akara holds a Bib Gourmand, the inspectors' good-value award. Akoko and Akara belong to the same founder, Aji Akokomi.
+Chishuru and Akoko hold a star each in the 2026 guide; Akara holds a Bib Gourmand, the inspectors' good-value award. Akoko and Akara belong to the same founder, Aji Akokomi.
 
-The sources split almost exactly between the top two — ten independent sources name Chishuru, ten name Akoko. Both kitchens took a chef award at the 2024 National Restaurant Awards, voted by an academy of more than 200 chefs, restaurateurs and food writers, and **Chishuru took the more senior one**: Adejoké Bakare was Chef of the Year, while Akoko's then head chef Ayo Adeyemi was Chef to Watch. Akoko is the older room with the longer tasting menu; Chishuru is the one the jury put first.
+Ten independent sources name Chishuru and ten name Akoko. Both took a chef award at the 2024 National Restaurant Awards, voted by an academy of more than 200 chefs, restaurateurs and food writers: Adejoké Bakare was Chef of the Year, and Akoko's then head chef Ayo Adeyemi was Chef to Watch.
 
 ### Chishuru, Fitzrovia — a competition prize that became a Michelin star
 
 *£££ · 3 Great Titchfield Street, W1W 8AX · Cited by 10 sources · One Michelin star, 2026 guide · #77 of 100, National Restaurant Awards 2026 · [book a table](https://www.chishuru.com/reservations)*
 
-In 2019 **Adejoké Bakare's friends entered her for the Brixton Kitchen competition**, whose prize was a three-month pop-up in Brixton Village. She won the amateur category, opened the pop-up in September 2020, moved to Fitzrovia in September 2023, and was awarded a Michelin star on 5 February 2024 — the first Black woman in the United Kingdom to hold one.
+Adejoké Bakare won the amateur category of the Brixton Kitchen competition in 2019, opened the prize three-month pop-up in Brixton Village in September 2020, moved to Fitzrovia in September 2023 and was awarded a Michelin star on 5 February 2024, the first Black woman in the United Kingdom to hold one.
 
 ![The dining room at Chishuru: green leather chairs at pale timber tables, a faceted wooden bar front, and glasses hanging above the open pass](../../assets/articles/best-west-african-restaurants-london/chishuru-dining-room.jpg)
 
 *The dining room at Chishuru.*
 
-The kitchen cooks across three Nigerian traditions, Yoruba, Igbo and Hausa, and the restaurant's own description is "a modern west African restaurant" rather than a Nigerian one. Set menu only: **sinasir**, a fermented rice cake, under butternut squash purée; **àsáró**, a creamy yam and sweet potato porridge, with smoked eel; **mọ́ínmọ́ín**, a steamed black-eyed bean cake, salted with cured trout; a spiral of cabbage slathered in egusi. The name is a Hausa phrase for the silence that falls over a table when the food arrives.
+The kitchen cooks across three Nigerian traditions, Yoruba, Igbo and Hausa, and calls itself "a modern west African restaurant". Set menu only: **sinasir**, a fermented rice cake, under butternut squash purée; **àsáró**, a creamy yam and sweet potato porridge, with smoked eel; **mọ́ínmọ́ín**, a steamed black-eyed bean cake, salted with cured trout; a spiral of cabbage slathered in egusi.
 
-Tables are inscribed with Nsibidi, the ideographic script of southeastern Nigeria, and the wine list is entirely French. **Lunch is £55 a head and dinner £105, set menu only both times**, with a £65 pre-theatre menu bookable between 5.30pm and 6pm. There are dietary requirements the kitchen states plainly it cannot work around, so read that page before you book for a group.
+Tables are inscribed with Nsibidi, the ideographic script of southeastern Nigeria, and the wine list is entirely French. **Lunch is £55 a head and dinner £105, set menu only both times**, with a £65 pre-theatre menu bookable between 5.30pm and 6pm. The kitchen lists dietary requirements it cannot accommodate; read that page before booking a group.
 
 ### Akoko, Fitzrovia — twelve courses and a hand-washing ritual
 
 *£££ · 21 Berners Street, W1T 3LP · Cited by 10 sources · One Michelin star, 2026 guide · #52 of 100, National Restaurant Awards 2025 · [book a table](https://www.sevenrooms.com/reservations/akoko)*
 
-**Aji Akokomi's restaurant took its Michelin star in 2024 and holds it in the 2026 guide**, and its then head chef Ayo Adeyemi took Chef to Watch at the 2024 National Restaurant Awards. The name means first, or time, in Yoruba. Michelin's inspectors quote Akokomi on what the place is for: "We aim to prove that West African cuisine deserves its place in fine dining by highlighting its unique flavours and culinary traditions on its own terms."
+Aji Akokomi's restaurant took its Michelin star in 2024 and holds it in the 2026 guide. The name means first, or time, in Yoruba.
 
 ![A coarse red granita heaped over a pale cream base in a rough hand-thrown stone bowl, scattered with fine green shreds of leaf](../../assets/articles/best-west-african-restaurants-london/akoko-granita.jpg)
 
@@ -97,23 +98,23 @@ Tables are inscribed with Nsibidi, the ideographic script of southeastern Nigeri
 
 The tasting menu draws on Nigeria, Ghana, Senegal and The Gambia, not one of them. **Tatale** — a pancake made from over-ripe plantain and warm Ghanaian spices — arrives with goat cashew cream and caviar; **ọ̀jọ̀jọ̀**, a water yam fritter, carries baobab and yaji; there is a version of **ebunuebunu**, the green seafood soup of Ghana's Akan communities, with ribbons of squid. Dessert is ice cream scented with **uda**, grains of selim, a spice that tastes somewhere between smoke and black pepper.
 
-The room is pastel and quiet with an open kitchen and a counter, and the meal opens with a scented hand-washing. **The full tasting menu is £130 at lunch and dinner and takes two and a half hours; a shorter lunch menu is £65.** The kitchen publishes a list of allergies it cannot accommodate — tomato, allium, ginger, coconut milk, bell pepper, shiitake, soy and chilli among them — which is unusual enough to check before booking.
+The room is pastel and quiet with an open kitchen and a counter, and the meal opens with a scented hand-washing. **The full tasting menu is £130 at lunch and dinner and takes two and a half hours; a shorter lunch menu is £65.** The kitchen publishes a list of allergies it cannot accommodate — tomato, allium, ginger, coconut milk, bell pepper, shiitake, soy and chilli among them — so check it before booking.
 
 ### Akara, Borough Yards — the fritter the Atlantic carried, at a third of the price
 
 *££ · Arch 208, 18 Stoney Street, SE1 9AD · Cited by 9 sources · Michelin Bib Gourmand, 2026 guide · [book a table](https://www.sevenrooms.com/reservations/akara)*
 
-**Aji Akokomi's second restaurant, open since September 2023, and it took a Bib Gourmand in the 2026 guide** — the award Michelin gives for good cooking at a fair price, which is a different and in some ways harder thing than a star. Choose it over Akoko if a tasting menu is more evening than you want.
+Aji Akokomi's second restaurant, open since September 2023, took a Bib Gourmand in the 2026 guide, Michelin's award for good cooking at a fair price. Choose it over Akoko if a tasting menu is more evening than you want.
 
 ![The black shopfront of Akara in Borough Yards, its name lit above folding glass doors, with terracotta pots of shrubs and palms lined along the pavement and a Stoney Street sign at the left edge](../../assets/articles/best-west-african-restaurants-london/akara-shopfront.jpg)
 
 *Akara's shopfront, Borough Yards.*
 
-It is built around **akara**: a black-eyed bean fritter, crisp outside and cotton-loose inside, that travelled with enslaved West Africans to Brazil and is eaten there as acarajé. The kitchen serves both lineages at once, which is why Michelin files its cuisine as African and Brazilian.
+It is built around **akara**: a black-eyed bean fritter, crisp outside and cotton-loose inside, that travelled with enslaved West Africans to Brazil, where it is acarajé. The kitchen serves both, and Michelin files its cuisine as African and Brazilian.
 
-Order more than one filling — BBQ tiger prawn, crab kulikuli, and a vegan BBQ celeriac that is not a consolation. Then **efik rice**, a coconut-scented rice from southeastern Nigeria and western Cameroon, **short rib suya** with a nutty yaji crumb, and **lamb fataya**, the Senegalese pastry, under a squid-ink yassa sauce. Drink a Chapman, the Nigerian punch.
+Order more than one filling — BBQ tiger prawn, crab kulikuli, and a vegan BBQ celeriac. Then **efik rice**, a coconut-scented rice from southeastern Nigeria and western Cameroon, **short rib suya** with a nutty yaji crumb, and **lamb fataya**, the Senegalese pastry, under a squid-ink yassa sauce. Drink a Chapman, the Nigerian punch.
 
-A railway arch with blond wood, a long counter facing the open kitchen and a rainbow of artwork on the walls. Michelin's inspectors mark it good for solo dining, and the counter is the seat to ask for. The same allergy restrictions as Akoko apply.
+A railway arch with blond wood and a long counter facing the open kitchen. Michelin's inspectors mark it good for solo dining, and the counter is the seat to ask for. The same allergy restrictions as Akoko apply.
 
 ---
 
@@ -121,27 +122,27 @@ A railway arch with blond wood, a long counter facing the open kitchen and a rai
 
 *££££ · 180 Strand, WC2R 1EA · Cited by 8 sources · Two Michelin stars, 2026 guide · #24 of 100, National Restaurant Awards 2026 · #15, The World's 50 Best Restaurants 2025 · [the restaurant's site](https://ikoyilondon.com/)*
 
-It is named after a district of Lagos, eight of the fifteen sources here name it, and it is the most decorated restaurant on this page — so leaving it out would be a fiction. It is also **not in Michelin's African selection: the 2026 guide gives its cuisine as "Creative"**, and the three restaurants Michelin does file as African in London are the three above.
+It is named after a district of Lagos, eight of the fifteen sources here name it, and its two Michelin stars are the most of any restaurant on this page. It is **not in Michelin's African selection: the 2026 guide gives its cuisine as "Creative"**.
 
 ![A lacquered fillet glazed almost black at the edges on a pale plate, with a quenelle of orange purée striped in dark sauce, two pools of pale foam, a streak of green oil and a wedge of pickled beetroot; a small cylindrical loaf sits on a ridged black stand beside it](../../assets/articles/best-west-african-restaurants-london/ikoyi-plated-course.jpg)
 
 *A tasting-menu course at Ikoyi.*
 
-Everyone close to it says the same thing. Ikoyi's own website describes "spice-based cuisine around British micro-seasonality" and never uses the words West African. Time Out's entry says "it isn't quite a West African restaurant". The World's 50 Best calls the cooking "category-free". Vittles is blunter: Jeremy Chan and Iré Hassan-Odukale, it writes, "managed to kid themselves — or kid their PR — that they were opening a West African restaurant" in 2017, and the Strand room "has given up the pretence of being tied to any one region of Earth".
+Ikoyi's own website describes "spice-based cuisine around British micro-seasonality" and never uses the words West African. Time Out says "it isn't quite a West African restaurant", The World's 50 Best calls the cooking "category-free", and Vittles writes that the Strand room "has given up the pretence of being tied to any one region of Earth".
 
-What survives of the original idea is the best-known dish in the building: **smoked jollof rice**, on the menu in some form since the start, arriving late in the meal, not as a centrepiece. Around it is food from nowhere in particular — dried citrus, squid worked into marshmallow, Scotch bonnet in the puddings.
+The West African thread that remains is **smoked jollof rice**, on the menu in some form since the start and arriving late in the meal. Around it are dried citrus, squid worked into marshmallow and Scotch bonnet in the puddings.
 
-It won the Highest Climber Award at the 2025 World's 50 Best and sits 15th on that list. **The tasting menu is £395, with a shorter one at £180. Reservations open on the 1st of each month at noon, two months ahead**, and that is the only realistic way in. Go for Chan's cooking; do not go expecting the food in the rest of this guide.
+It won the Highest Climber Award at the 2025 World's 50 Best and sits 15th on that list. **The tasting menu is £395, with a shorter one at £180**, served for dinner Monday to Friday and lunch Wednesday to Friday. **Reservations open on the 1st of each month at noon, two months ahead**, and that is the only realistic way in. Do not go expecting the food in the rest of this guide.
 
 ---
 
 ## Also strongly backed
 
-### Chuku's, Tottenham — Nigerian small plates, and a brunch that outsells the dinner
+### Chuku's, Tottenham — Nigerian small plates and a weekend brunch
 
 *££ · 274 High Road, N15 4AJ · Cited by 7 sources · [book a table](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-bookings)*
 
-Run by **siblings Ifeyinwa and Emeka Frederick** and billed as the world's first Nigerian tapas restaurant — small plates in a cuisine where everybody normally guards their own bowl. The Good Food Guide named it in **Best Local Restaurants in London 2025**, and Grace Dent has called it a tiny slice of sleek, contemporary Lagos.
+Run by **siblings Ifeyinwa and Emeka Frederick** and billed as the world's first Nigerian tapas restaurant. The Good Food Guide named it in **Best Local Restaurants in London 2025**.
 
 ![An overhead spread of Nigerian small plates: a central bowl divided between a green stew, a yellow-orange one and a red one, each with a smooth white ball of pounded yam on it, held between two pairs of hands, with okra spears, jollof rice, peanut-crusted wings, meatballs in tomato and prawns in bowls around it](../../assets/articles/best-west-african-restaurants-london/chukus-small-plates.jpg)
 
@@ -149,13 +150,13 @@ Run by **siblings Ifeyinwa and Emeka Frederick** and billed as the world's first
 
 **Jollof quinoa**, plantain waffles, suya-spiced meatballs, **ojojo** (yam croquettes) and **sticky zobo wings**, glazed with the hibiscus-and-citrus drink Nigerians drink cold. The tricoloured egusi bowl takes the stew apart and rebuilds it as a shareable vegan dish. Finish with chin chin cheesecake, built on the deep-fried snack.
 
-Two minutes from Seven Sisters on the Victoria line. **Closed Mondays, and dinner only from Tuesday to Friday** — it opens at 5.30pm. Weekends run from noon, and the Saturday and Sunday brunch of three sharing dishes and drinks is the busiest service of the week.
+Two minutes from Seven Sisters on the Victoria line. **Closed Mondays, and dinner only from Tuesday to Friday** — it opens at 5.30pm. Weekends run from noon, and the Saturday and Sunday brunch, 12pm to 4pm, is three sharing plates and three drinks for £45 a head.
 
 ### 805, Old Kent Road — the Nigerian institution, open since 2001
 
 *££ · 805 Old Kent Road, SE15 1DZ · Cited by 5 sources · [the restaurant's site](https://www.805restaurants.com/)*
 
-The oldest name on this page and the one south London Nigerian families have been marking occasions in for a quarter of a century, with further London sites at Hyde Park and Hendon. The Infatuation calls it a pioneer of British West African fine dining; Olive's writer remembers being taken there in a gingham school dress.
+Open since 2001, with further London sites at Hyde Park and Hendon. The Infatuation calls it a pioneer of British West African fine dining.
 
 ![Two plates seen from above: a green leaf stew, thick and flecked, with a spoonful of red pepper sauce over it, and a smooth white oval of pounded yam on a plate of its own](../../assets/articles/best-west-african-restaurants-london/805-leaf-stew-pounded-yam.jpg)
 
@@ -163,13 +164,13 @@ The oldest name on this page and the one south London Nigerian families have bee
 
 The signature is **monika fish**, crisp-skinned and fierce with Scotch bonnet. Beyond it, **efo riro** — a spinach stew loaded with pepper sauce, goat, crayfish and iru, fermented locust bean — with pounded yam to tear and dip, **edikaikong**, and coconut fried rice. Lamb suya as a starter.
 
-Polished plates, smart service and music loud enough to carry a table of twelve. **It takes walk-ins and bookings both**, which almost nothing else at this price does, and it runs late.
+Smart service and loud music. **It takes walk-ins and bookings both** and runs late.
 
 ### The Flygerians, Peckham — street food that stayed in the neighbourhood
 
 *£ · 14 Bournemouth Close, Peckham Palms, SE15 4PB · Cited by 4 sources · [the restaurant's site](https://theflygerians.com/)*
 
-**Sisters Jess and Jo Edun** learned to cook from their grandmother, began trading street food in 2016 and now run a small bar inside **Peckham Palms**, the hair and beauty hub built to rehouse Black-owned businesses displaced by the station redevelopment.
+**Sisters Jess and Jo Edun** learned to cook from their grandmother, began trading street food in 2016 and now run a small bar inside **Peckham Palms**, a hair and beauty hub.
 
 ![A white bowl of fried plantain wedges, caramelised dark at the cut edges, scattered with sliced spring onion](../../assets/articles/best-west-african-restaurants-london/flygerians-fried-plantain.jpg)
 
@@ -177,39 +178,39 @@ Polished plates, smart service and music loud enough to carry a table of twelve.
 
 The **2 Fly Chicks Plate** is the order — two pieces of chicken in Mama's Forbidden Sauce, a sweet smoky red marinade, with jollof and plantain, £17.50. Jollof on its own is £9.50, gizdodo (gizzard with sweet pepper and plantain) £6.50, and there is a **Naija fish and chips**: battered red bream with cassava chips and hot sauce, £13.50. Sweet agege bread comes toasted with garlic butter.
 
-Halal, with vegan options. **Closed Mondays, and it does not open until 1pm** any day of the week; Saturdays run to 11pm with a DJ.
+Halal, with vegan options. **Closed Mondays, and it does not open until 1pm** any other day; it closes at 11pm Tuesday to Saturday and 10pm on Sunday, and Saturdays have a DJ.
 
 ### Sikatiô, Brockley — Ivorian, and ranked 34th in the city
 
 *££ · 5 Brockley Cross, SE4 2AB · Cited by 4 sources · #34 of 99, The Vittles 99, 2025*
 
-**Lynda Beble and Brice Assemian opened it in November 2022** after selling frozen sauce gombo and kedjenou out of Akwaba Market, their Ivorian grocery in Deptford — which is also how they get their ingredients. Jonathan Nunn's ranked ninety-nine puts it 34th in London and says a restaurant this accomplished "should, by rights, be in Paris". Olive's writer is more direct about why you would travel for it: "There aren't many places to dig into Ivorian cuisine in London."
+**Lynda Beble and Brice Assemian opened it in November 2022**; they also run Akwaba Market, the Ivorian grocery in Deptford that supplies it. Jonathan Nunn's ranked ninety-nine puts it 34th in London and says a restaurant this accomplished "should, by rights, be in Paris". Olive's writer adds: "There aren't many places to dig into Ivorian cuisine in London."
 
 ![An Ivorian table from above: a whole grilled fish under a heap of sliced onion and sweet pepper on a wooden board, a moulded dome of pale granular attiéké on one plate, an earthenware pot of orange-red stew, and a row of small pots of condiments including chopped green chilli, ground brown spice and red chilli sauce](../../assets/articles/best-west-african-restaurants-london/sikatio-grilled-fish-attieke.jpg)
 
 The dish is the **soupe du pêcheur**, a fisherman's soup of gently poached fish, crab and prawn served in an Asanka earthenware grinder, and after that the **croaker**, deep-fried in what Vittles calls a chainmail of crispy skin. **Choukouya** is on-bone lamb smoked through to the marrow. Sides are Ivorian: **attiéké**, a fluffy cassava couscous, **abolo**, faintly sweet steamed rice cakes, and alloco, ripe fried plantain. Drink bissap, the hibiscus infusion.
 
-A small, casual neighbourhood room a minute from Brockley station, and the plates are built for sharing, not for one. Come hungry and come in a pair at least.
+A small, casual room a minute from Brockley station. The plates are for sharing, so go with at least one other person.
 
 ### Pitanga, West Kensington — Nigerian food with a twist, since 2018
 
 *££ · 220 North End Road, W14 9NX · Cited by 4 sources · [the restaurant's site](https://www.pitangalondon.com/)*
 
-Opened on 31 May 2018 by **Nky Iweka**, who bills herself Executive Mamaput after the roadside cooks of Lagos, and it is the westernmost entry in this guide — everything else is central, south or north-east. The menu is built to be navigable by people who have never eaten Nigerian food, without thinning it: shredded stockfish stew and goat suya sit next to a Taste of Nigeria set menu.
+Opened on 31 May 2018 by **Nky Iweka**, who bills herself Executive Mamaput after the roadside cooks of Lagos. The menu suits people new to Nigerian food: shredded stockfish stew and goat suya sit next to a Taste of Nigeria set menu.
 
-Vegan, vegetarian and gluten-free versions run right through the list rather than being appended. The Lagos Jump Salad is the dish the restaurant is known for.
+Vegan, vegetarian and gluten-free versions run right through the list. The Lagos Jump Salad is the signature.
 
-A small, quiet dining room, not a lounge, which sets it apart from most of the Nigerian rooms on this page. **Bookable, and worth booking** — it seats few.
+A small, quiet dining room. **Bookable, and worth booking**, as it seats few.
 
 ---
 
 ## By country, because they are not one cuisine
 
-Jollof and fried plantain are on nearly every menu here, which is exactly why the shopfronts are hard to read from the pavement. The differences are elsewhere, and the writers who know this food sort by country rather than by continent — Time Out's title promises Ghana, The Gambia and Ivory Coast by name.
+Jollof and fried plantain are on nearly every menu here. The differences are elsewhere, so this section sorts by country, as the writers who know this food do.
 
 ### Nigerian
 
-**Aso Rock** in Dalston (10 Bradbury Street, N16 8JN, [its site](https://www.asorockfood.com/)) is the one to know for **ayamase**, the stew of green peppers, habanero, onion and iru fried in bleached palm oil that Felicia Ajibabi Adesina created in the town of Ikenne. The Adesina family have run it for decades; it started as a takeaway counter and now has a small neon-lit bar to drink a Guinness at while you wait. *Cited by 2 sources.*
+**Aso Rock** in Dalston (10 Bradbury Street, N16 8JN, [its site](https://www.asorockfood.com/)) is the one to know for **ayamase**, the stew of green peppers, habanero, onion and iru fried in bleached palm oil that Felicia Ajibabi Adesina created in the town of Ikenne. The Adesina family have run it for decades; it started as a takeaway counter and now has a small neon-lit bar to drink a Guinness at. *Cited by 2 sources.*
 
 **Eko Bar & Restaurant** (245 Wick Road, Homerton, E9 5DG) is a Nigerian lounge that does not wake up until late — a live band plays funk versions of afrobeats on Fridays, the asun goat arrives chewy and hot, and there is imported palm wine. *Cited by 1 source.*
 
@@ -219,13 +220,13 @@ Jollof and fried plantain are on nearly every menu here, which is exactly why th
 
 **Demi's** (89 Cricklewood Broadway, NW2 3JG, and Streatham) is where to eat southeastern Nigerian dishes that barely appear elsewhere in London — **ofe nsala**, a pale peppery catfish broth thickened with puna yam, and **oha**, made with a bitter leaf and cocoyam. *Cited by 2 sources.*
 
-**Kneluchii** in Beckenham is the smart Nigerian room the outer south-east did not used to have: asun, dun dun (fried yam blocks with a sweet pepper relish), and **banga**, the Niger Delta sauce made from palm fruit. *Cited by 1 source.*
+**Kneluchii** in Beckenham is a smart Nigerian room: asun, dun dun (fried yam blocks with a sweet pepper relish), and **banga**, the Niger Delta sauce made from palm fruit. *Cited by 1 source.*
 
 **Papi's Grill** in New Cross ([its site](https://www.papisgrill.co.uk/)) is a charcoal operation — asun, tozo beef under suya powder, and a £70 seafood feast for two. **Book the bottomless brunch a fortnight out.** *Cited by 2 sources.*
 
 ### Ghanaian
 
-**Waakye Joint** (80A West Green Road, Tottenham, N15 5NS, and Streatham High Road) is the one to send people to. **Waakye** is rice and black-eyed beans steamed with dried sorghum leaves until both turn red-brown, and it comes as a full plate: salad, noodles, boiled egg, fried fish and **shito**, the Ghanaian chilli sauce made with dried fish and prawn. Order **tofi** — deep-fried turkey tails — with yam fries alongside. A hot counter, not a dining room, and the waits are long. *Cited by 3 sources.*
+**Waakye Joint** (80A West Green Road, Tottenham, N15 5NS, and Streatham High Road) serves **waakye**, rice and black-eyed beans steamed with dried sorghum leaves until both turn red-brown, and it comes as a full plate: salad, noodles, boiled egg, fried fish and **shito**, the Ghanaian chilli sauce made with dried fish and prawn. Order **tofi** — deep-fried turkey tails — with yam fries alongside. A hot counter, not a dining room, and the waits are long. *Cited by 3 sources.*
 
 ![A Ghanaian hot counter in stainless trays: two trays of small dried fish, a tray of cooked orange prawns with tongs in them, a tray of leaf-wrapped parcels, golden deep-fried fish, and whole fish in a dark red stew, with plastic tubs of prawns in sauce stacked to one side](../../assets/articles/best-west-african-restaurants-london/waakye-joint-hot-counter.jpg)
 
@@ -241,11 +242,9 @@ Jollof and fried plantain are on nearly every menu here, which is exactly why th
 
 ### Ivorian
 
-**Sikatiô** in Brockley, above, is the one address, and it is the highest-placed West African restaurant on the only ranked London-wide list in this guide. Its owners also run **Akwaba Market** in Deptford, which is where to buy attiéké and sauce graine to cook at home.
+**Sikatiô** in Brockley, above, is the one address. Its owners also run **Akwaba Market** in Deptford, where you can buy attiéké and sauce graine to cook at home.
 
 ### Senegalese and Gambian
-
-The Senegambian kitchens are scattered and none of them is central, which is why they go missing from the round-ups.
 
 **Safna Kitchen** at Elephant and Castle does **ebbeh** — boiled cassava with prawn and crab in a tangy sauce made with unrefined red palm oil — and **domoda**, the Gambian peanut stew, alongside jollof platters with grilled meat. Ask for wonjo, the Gambian hibiscus drink. *Cited by 1 source.*
 
@@ -257,27 +256,25 @@ The Senegambian kitchens are scattered and none of them is central, which is why
 
 ### Sierra Leonean
 
-**Mingles** (18 Choumert Road, Peckham, SE15 4SE) cooks Sierra Leonean, which almost nowhere in London does. **Plasas** is the dish — cassava leaf pounded and cooked down with palm oil and fish or meat — with rice, jollof and fried fish alongside. A small room on a street of Nigerian kitchens. *Cited by 1 source.*
+**Mingles** (18 Choumert Road, Peckham, SE15 4SE) cooks Sierra Leonean. **Plasas** is the dish — cassava leaf pounded and cooked down with palm oil and fish or meat — with rice, jollof and fried fish alongside. *Cited by 1 source.*
 
 ---
 
 ## Cheapest
 
-The cheap end of this cuisine is cheap, and it is mostly nowhere near zone 1.
-
-* **Bola Cuisine**, 328 New Cross Road, SE14 6AG — there is a menu, but the actual system is that you ask for a combination and a price is agreed. Plantain, cassava, egusi, puff puff, and **change from a tenner or even a fiver**. Room for about six people, so eat elsewhere. *Cited by 1 source.*
-* **Angels Bakery**, 136 Plumstead High Street, SE18 1JQ — a bakery that also does jollof and grilled suya, and both are better than they need to be. Sweet bread spooned with shito is the snack. *Cited by 1 source.*
+* **Bola Cuisine**, 328 New Cross Road, SE14 6AG — there is a menu, but the actual system is that you ask for a combination and a price is agreed. Plantain, cassava, egusi, puff puff, and **change from a tenner or even a fiver**. Room for about six people, so it is takeaway in practice. *Cited by 1 source.*
+* **Angels Bakery**, 136 Plumstead High Street, SE18 1JQ — a bakery that also does jollof and grilled suya. Sweet bread spooned with shito is the snack. *Cited by 1 source.*
 * **The Flygerians**, Peckham — jollof £9.50, gizdodo £6.50, three wings £5. *Cited by 4 sources.*
 * **Lolak Afrique**, 38–40 Choumert Road, Peckham, SE15 4SE — counter-order Nigerian bukka food. Get the **abula**: ewedu, a leafy green; gbegiri, blended beans, sweet and yellow; and a red tomato stew, all three on one plate. *Cited by 2 sources.*
-* **Waakye Joint**, Tottenham and Streatham — the full waakye plate, under a tenner, and enough of it to skip dinner. *Cited by 3 sources.*
-* **Uncle John's Bakery**, Tottenham — bofrot, chin chin and a fish pie for the price of a coffee. *Cited by 1 source.*
+* **Waakye Joint**, Tottenham and Streatham — the full waakye plate, under a tenner. *Cited by 3 sources.*
+* **Uncle John's Bakery**, Tottenham — bofrot, chin chin and a fish pie. *Cited by 1 source.*
 
 ## Quickest
 
 Counters, stalls and takeaway operations where you are out inside fifteen minutes.
 
-* **Alhaji Suya**, 15 Peckham Park Road, SE15 6TR — suya wrapped and handed over, with branches in Greenwich, Brixton and Walworth. The yaji is imported from Kano state, where the owner is from. **One thing to know before travelling for it:** Vittles reports that the shop burned down and reopened without its live fire grill. *Cited by 2 sources.*
-* **Naija High Street**, Lower Marsh Market, Waterloo, SE1 7AB — grilled chicken or fish, or beef stew, in a tray with jollof, beans, plantain and egusi. **The sides are all vegan**, and it is five minutes from Waterloo station, which nothing else here is. *Cited by 2 sources.*
+* **Alhaji Suya**, 15 Peckham Park Road, SE15 6TR — suya wrapped and handed over, with branches in Greenwich, Brixton and Walworth. The yaji is imported from Kano state, where the owner is from. Vittles reports that the shop burned down and reopened without its live fire grill. *Cited by 2 sources.*
+* **Naija High Street**, Lower Marsh Market, Waterloo, SE1 7AB — grilled chicken or fish, or beef stew, in a tray with jollof, beans, plantain and egusi. **The sides are all vegan**, and it is five minutes from Waterloo station. *Cited by 2 sources.*
 * **Bola Cuisine**, New Cross — boxed up from the pot in a couple of minutes. *Cited by 1 source.*
 * **Aso Rock**, Dalston — began as a takeaway and still works best as one. *Cited by 2 sources.*
 * **Angels Bakery**, Plumstead — pies, bread and a hot counter. *Cited by 1 source.*
@@ -286,29 +283,27 @@ Counters, stalls and takeaway operations where you are out inside fifteen minute
 
 ## Market stalls and counters
 
-This is the part the restaurant lists undersell, and on this subject it is not a footnote. **Three of the best-known West African kitchens in London started on a stall.** Chishuru's Michelin star began with a three-month pop-up in Brixton Village won in a competition. The Flygerians traded street food and pop-ups for years before taking a unit in Peckham Palms. **Suuyar** ran a stall on the corner of Choumert Road and Rye Lane, where Kolawole Ajayi handed out tasters and filmed himself serving customers, and now has a shop at the tip of Peckham Rye doing an all-you-can-eat suya buffet.
+Chishuru began as a three-month pop-up in Brixton Village. The Flygerians traded street food and pop-ups for years before taking a unit in Peckham Palms. **Suuyar** ran a stall on the corner of Choumert Road and Rye Lane, where Kolawole Ajayi handed out tasters, and now has a shop at the tip of Peckham Rye doing an all-you-can-eat suya buffet.
 
 ![Three white takeaway boxes open on a wooden bench: thick slabs of dark, spice-crusted grilled beef under tomato wedges and raw red onion, thin-sliced beef in a dark sauce with more onion, and a box of orange jollof rice](../../assets/articles/best-west-african-restaurants-london/suuyar-suya-and-jollof.jpg)
 
 *Suya and jollof, Suuyar.*
 
-Named traders only — the halls are not the recommendation.
-
-* **Naija High Street**, Lower Marsh Market, Waterloo. Run by Sisi Olonje as a weekday lunch stall; most of the queue is office workers who are not Nigerian. *Cited by 2 sources.*
-* **Suuyar**, Peckham. The buffet and the suya are what it is known for. *Cited by 2 sources.*
+* **Naija High Street**, Lower Marsh Market, Waterloo. Run by Sisi Olonje as a weekday lunch stall. *Cited by 2 sources.*
+* **Suuyar**, Peckham. Suya, and an all-you-can-eat suya buffet. *Cited by 2 sources.*
 * **The Flygerians**, inside Peckham Palms on Bournemouth Close. *Cited by 4 sources.*
 * **KayBizz Dishes**, Peckham. People travel for the abula and its signature "1960s stew". *Cited by 1 source.*
-* **D&K Gambian Roast Chicken and Rice**, Forest Gate Market, E7. Roast chicken and rice cooked to order at a stall, and the east London end of the Senegambian scene. *Cited by 1 source.*
+* **D&K Gambian Roast Chicken and Rice**, Forest Gate Market, E7. Roast chicken and rice cooked to order at a stall. *Cited by 1 source.*
 
-**Peckham is the centre of this, and Choumert Road is the street.** Lolak Afrique at 38–40 does Nigerian bukka food and Mingles at 18 does Sierra Leonean; Alhaji Suya is round the corner on Peckham Park Road, and Wazobia has been on Rye Lane since 1994. The [Peckham area guide](/articles/peckham-area-guide/) covers the grocers, butchers and the sixty-unit indoor market the cooking comes out of. Southwark also runs street-market pitches on Choumert Road and the roads off Rye Lane, and publishes no trading days for any of them, so treat those as luck.
+**Peckham is the centre of this, and Choumert Road is the street.** Lolak Afrique at 38–40 does Nigerian bukka food and Mingles at 18 does Sierra Leonean; Alhaji Suya is round the corner on Peckham Park Road, and Wazobia has been on Rye Lane since 1994. The [Peckham area guide](/articles/peckham-area-guide/) covers the grocers, butchers and the sixty-unit indoor market the cooking comes out of.
 
-Brixton is the other cluster — Enish on Coldharbour Lane, Sato's Kitchen, an Alhaji Suya branch, Asafo up on Brixton Hill — and it is where Chishuru started. Deptford's contribution is a shop, not a kitchen: **Akwaba Market**, the Ivorian grocery whose owners went on to open Sikatiô, and still the supply line behind it.
+Brixton is the other cluster: Enish on Coldharbour Lane, Sato's Kitchen, an Alhaji Suya branch and Asafo up on Brixton Hill. It is also where Chishuru started.
 
 ---
 
-## New openings
+## More names
 
-**Suuyar** has moved from a Peckham street corner into a shop at the tip of Peckham Rye, and the suya buffet came with it. **Sato's Kitchen** is a new Nigerian halal kitchen in Brixton run by an owner called Agatha, and the only people who have written it up are two YouTube creators. **Akara** is the most recent of the dining rooms, open since September 2023 and already holding a Bib Gourmand. And **Gold Coast** does a £35 all-you-can-eat Ghanaian buffet, which is a format nothing else on this page attempts.
+**Sato's Kitchen** in Brixton is a Nigerian halal kitchen run by an owner called Agatha and covered by two YouTube creators. **Gold Coast** does a £35 all-you-can-eat Ghanaian buffet.
 
 ---
 
@@ -317,8 +312,8 @@ Brixton is the other cluster — Enish on Coldharbour Lane, Sato's Kitchen, an A
 * **Weeks ahead:** Ikoyi, where reservations open on the 1st of each month at noon and are gone the same day. Chishuru and Akoko at weekends.
 * **A few days:** Akara, Chuku's, Pitanga, Sikatiô, Papa L's Kitchen. Papi's Grill wants a fortnight for the bottomless brunch specifically.
 * **Bookable but rarely needed:** 805, Enish, Aso Rock, Eko Bar, 19FiftySeven.
-* **Walk in:** Bola Cuisine, Angels Bakery, Waakye Joint, Alhaji Suya, Naija High Street, Uncle John's Bakery, Lolak Afrique. None takes reservations. Waakye Joint is the one with a real queue, and it is a counter queue, not a door queue — long but moving.
-* **Check the day, not the hour.** More kitchens here close two days a week than open seven. 19FiftySeven serves Wednesday to Sunday only; Chuku's is shut Mondays and does not open until 5.30pm from Tuesday to Friday; The Flygerians is shut Mondays and never opens before 1pm.
+* **Walk in:** Bola Cuisine, Angels Bakery, Waakye Joint, Alhaji Suya, Naija High Street, Uncle John's Bakery, Lolak Afrique. None takes reservations. Waakye Joint has a queue, at the counter: long but moving.
+* **Check the day, not the hour.** 19FiftySeven serves Wednesday to Sunday only; Chuku's is shut Mondays and does not open until 5.30pm from Tuesday to Friday; The Flygerians is shut Mondays and never opens before 1pm.
 
 ---
 
@@ -333,4 +328,4 @@ Brixton is the other cluster — Enish on Coldharbour Lane, Sato's Kitchen, an A
 - 🎨 **[Peckham Area Guide](/articles/peckham-area-guide/)**
 - 🏛️ **[Fitzrovia Area Guide](/articles/fitzrovia-area-guide/)** — Akoko and Chishuru are four streets apart in it
 
-*Evidence built 22 September 2026 from fifteen independent sources. Prices and set-menu costs are from each restaurant's own site as read on that date. Stalls and takeaway counters change hours more often than restaurants do — check before travelling.*
+*Stalls and takeaway counters change hours more often than restaurants do — check before travelling.*
