@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:West_India_Quay_cranes
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-13
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
 reviewBy: 2027-03-25
 sites: [london]
 canonicalSite: london
@@ -29,9 +29,7 @@ faq:
     a: "Direct Elizabeth line trains take about 48 minutes from Heathrow Terminals 2 and 3 to Canary Wharf. The Elizabeth line station is at Crossrail Place, a few minutes' walk from the Jubilee line station."
 ---
 
-Canary Wharf is a business district on the Isle of Dogs with three railways under it: the Elizabeth line, the Jubilee and the DLR. That makes it a practical base for Heathrow (about 48 minutes, no change), the City (seven minutes to Liverpool Street) and The O2 (one stop). The hotels are large, modern and air-conditioned, and several are aparthotels with kitchens.
-
-What you give up is an old neighbourhood. The docks and a terrace of Georgian warehouses are the only things here older than the 1980s, and our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers what there is to do.
+Canary Wharf is a business district on the Isle of Dogs with three railways under it: the Elizabeth line, the Jubilee and the DLR. That makes it a practical base for Heathrow (about 48 minutes, no change), the City (seven minutes to Liverpool Street) and The O2 (one stop). The hotels are modern and air-conditioned, and several are aparthotels with kitchens. Little here is older than the 1980s apart from the docks and a terrace of Georgian warehouses; our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers what there is to do.
 
 > 💡 **The Short Version:** For a kitchen, **[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites, five minutes from the Jubilee; the studios have a kitchen and a washer-dryer. For the river, **[Canary Riverside Plaza](hotelscom:h519049)** has 141 rooms of 37 m² or more beside the Uber Boat pier. **[Novotel London Canary Wharf](hotel:novotel-canary-wharf)**, **£156 to £229** on five sampled nights, has a pool and the Bōkan bars on floors 38 and 39. On a budget, **[Premier Inn Canary Wharf (Westferry)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-canary-wharf-westferry.html)** is a minute from Westferry DLR, and **[Point A](hotelscom:h9080289)** includes breakfast when you book direct. **Sunday is the cheap night, not Saturday**: a Novotel double was £165 on Sunday 11 October and £227 on Saturday 17 October.
 
@@ -49,7 +47,7 @@ What you give up is an old neighbourhood. The docks and a terrace of Georgian wa
 
 **The estate** is Canada Square, Cabot Square and the malls underneath them, with the Crossrail Place roof garden on top of the Elizabeth line station. The malls keep short hours on a Sunday. Westferry Circus, at its river end, is where the Uber Boat stops.
 
-**Wood Wharf**, east of the towers, is residential rather than corporate, which is why it keeps going at weekends: Hawksmoor floats on the dock, Mercato Metropolitano's food hall is on George Street, and Eden Dock's planted islands are in Middle Dock.
+**Wood Wharf**, east of the towers, is residential rather than corporate and keeps going at weekends: Hawksmoor floats on the dock, Mercato Metropolitano's food hall is on George Street, and Eden Dock's planted islands are in Middle Dock.
 
 **South Quay and Marsh Wall** is the strip across South Dock, reached by footbridge. Most of the big hotels are here, seven or eight minutes' walk from the Jubilee, with the DLR on the doorstep.
 
@@ -57,16 +55,16 @@ Further out, the Holiday Inn Express is at **Limehouse** to the north-west and t
 
 ## Saturday is not the cheap night
 
-The usual advice is that Canary Wharf, a business district, gets cheaper at weekends. Prices for a double on five nights between October and April bear that out for Sunday, not Saturday:
+Canary Wharf is cheaper on Sunday nights, not Saturdays. Prices for a double on five nights between October and April:
 
 | Double for two | Sun 11 Oct 2026 | Sat 17 Oct 2026 | Sat 12 Dec 2026 | Wed 17 Feb 2027 | Sat 17 Apr 2027 |
 | --- | --- | --- | --- | --- | --- |
 | **Novotel London Canary Wharf** | £165 | £227 | £229 | £156 | £213 |
 | **TRIBE London Canary Wharf** | £157 | £185 | £199 | £175 | £164 |
 
-The saving comes on a Sunday night. For a Saturday, price Canary Wharf against central London instead of assuming it is cheaper.
+For a Saturday, price Canary Wharf against central London.
 
-What is open at the weekend: Wood Wharf's restaurants, the West India Quay restaurants, Eden Dock, the museum and the roof garden all run as normal; Fairgame, the fairground-games bar on Fisherman's Walk, stays open until 1am on Saturdays. The malls under Canada Square are the part that shuts early on Sunday.
+Open at the weekend: Wood Wharf's restaurants, the West India Quay restaurants, Eden Dock, the museum and the roof garden; Fairgame, the fairground-games bar on Fisherman's Walk, stays open until 1am on Saturdays. The malls under Canada Square are the part that shuts early on Sunday.
 
 ## Aparthotels: a kitchen and a washing machine
 
@@ -74,7 +72,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *Mid-range · 279 studios and suites · 1 Cartier Circle, E14 5HF · Canary Wharf (Jubilee) 5 min*
 
-**[Locke London Canary Wharf](hotel:locke-canary-wharf)** is set high above the docks on the Wood Wharf side of the estate. The City Studio is 23 m² with a kitchen area, a table for two and a washer-dryer and dishwasher in the room; the Locke Studio is 25 m², sold by its river, marina or panoramic view. The One Bedroom Suite, about 31 m², has a separate kitchen and twin beds that can be made up as a double. The front desk is open 24 hours and keeps luggage free on your arrival and departure days. LUQA, on the ground floor, serves coffee through the day and drinks in the evening, and there is a gym and dogs are welcome.
+**[Locke London Canary Wharf](hotel:locke-canary-wharf)** is on the Wood Wharf side of the estate. The City Studio is 23 m² with a kitchen area, a table for two and a washer-dryer and dishwasher in the room; the Locke Studio is 25 m², sold by its river, marina or panoramic view. The One Bedroom Suite, about 31 m², has a separate kitchen and twin beds that can be made up as a double. The front desk is open 24 hours and keeps luggage free on your arrival and departure days. LUQA, on the ground floor, serves coffee through the day and drinks in the evening, and there is a gym and dogs are welcome.
 
 <div class="photo-row">
 
@@ -90,7 +88,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *Mid-range · studios and apartments · 15 Westferry Road, E14 8FQ · Heron Quays DLR nearest, Jubilee 8 min*
 
-**[Cove Landmark Pinnacle](hotel:cove-landmark-pinnacle)** is serviced apartments inside Landmark Pinnacle, a residential tower at the western end of Marsh Wall, so the neighbours live here and the ground floor is a lounge and coworking space. The basic Studio has a kitchenette; the Large Studio and the apartments have a full kitchen with a hob, dishwasher and washer-dryer. A One Bedroom is 48 m², and the One Bedroom with Internal Balcony is 55 m² and sleeps three. The building's 27th-floor lounge has an indoor playground and a garden (ask at the desk for access), and cots are available. Cleaning is weekly, and the 56th-floor gym is only for guests staying seven nights or more. Accessible apartments have a wet room with a fold-down shower seat and grab rails.
+**[Cove Landmark Pinnacle](hotel:cove-landmark-pinnacle)** is serviced apartments inside Landmark Pinnacle, a residential tower at the western end of Marsh Wall. The basic Studio has a kitchenette; the Large Studio and the apartments have a full kitchen with a hob, dishwasher and washer-dryer. A One Bedroom is 48 m², and the One Bedroom with Internal Balcony is 55 m² and sleeps three. The building's 27th-floor lounge has an indoor playground and a garden (ask at the desk for access), and cots are available. Cleaning is weekly, and the 56th-floor gym is only for guests staying seven nights or more. Accessible apartments have a wet room with a fold-down shower seat and grab rails.
 
 <div class="photo-row">
 
@@ -118,7 +116,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *141 rooms and suites · 46 Westferry Circus, E14 8RS · Heron Quays DLR 8 min, Jubilee 11 min*
 
-**[Canary Riverside Plaza](hotelscom:h519049)** is the riverside hotel built as the Four Seasons Canary Wharf, now part of IHG's Vignette Collection. Rooms start at 37 m², each with a deep bath and a separate walk-in shower. **Book by which way the room faces**: Standard rooms look over Canary Wharf, Premium rooms over the Thames. Guests use the adjoining health club and spa free, with a 20-metre infinity lap pool that under-16s can use from 8.30 to 10.30am (our [London hotels with a pool](/articles/hotels-with-pool-london/) guide has the hours), and the restaurant, Quadrato, is Italian, with a terrace and an afternoon tea. Interconnecting rooms, extra beds and cots are available for families. Canary Wharf Pier is next door: the Uber Boat takes 8 to 13 minutes to Greenwich and about 40 to the London Eye.
+**[Canary Riverside Plaza](hotelscom:h519049)** is the riverside hotel on Westferry Circus. Rooms start at 37 m², each with a deep bath and a separate walk-in shower. **Book by which way the room faces**: Standard rooms look over Canary Wharf, Premium rooms over the Thames. Guests use the adjoining health club and spa free, with a 20-metre infinity lap pool that under-16s can use from 8.30 to 10.30am (our [London hotels with a pool](/articles/hotels-with-pool-london/) guide has the hours), and the restaurant, Quadrato, is Italian, with a terrace and an afternoon tea. Interconnecting rooms, extra beds and cots are available for families. Canary Wharf Pier is next door: the Uber Boat takes 8 to 13 minutes to Greenwich and about 40 to the London Eye.
 
 <div class="photo-row">
 
@@ -134,7 +132,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *About £200 · 22 Hertsmere Road, West India Quay, E14 4ED · West India Quay DLR 1 min, Elizabeth line 3 min*
 
-**[London Marriott Hotel Canary Wharf](hotel:london-marriott-canary-wharf)** is the curved glass tower at the end of West India Quay, with floor-to-ceiling windows over the dock and the towers. G&Tea, its gin bar, serves afternoon tea, and the gym, with a sauna, is open 24 hours. Guests must be 18 to check in and pets are not allowed. There is no hotel car park; it points drivers to the Saba car park on West India Quay. Bathrooms have a bath and a separate shower.
+**[London Marriott Hotel Canary Wharf](hotel:london-marriott-canary-wharf)** is the glass tower at the end of West India Quay. G&Tea, its gin bar, serves afternoon tea, and the gym, with a sauna, is open 24 hours. Guests must be 18 to check in and pets are not allowed. There is no hotel car park; it points drivers to the Saba car park on West India Quay. Bathrooms have a bath and a separate shower.
 
 <div class="photo-row">
 
@@ -182,7 +180,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 
 *£157–£199 · 15 Water Street, E14 5GX · Jubilee 4 min (Wood Wharf exit), Elizabeth line 8 min*
 
-**[TRIBE London Canary Wharf](hotelscom:h83096424)** is an Accor brand, on Water Street in Wood Wharf. There are three room types, all with a king bed and a rainfall shower: **the Essential Atrium, the cheapest, looks onto the atrium, not the city**; the Essential has a city view; the Extra is 21 m². Feels Like June, the all-day restaurant, has tables outside, and a grab-and-go counter sells coffee and meals 24 hours a day. For a gym, guests can buy a discounted day pass to Third Space, which has a pool and sauna, a short walk away.
+**[TRIBE London Canary Wharf](hotelscom:h83096424)** is on Water Street in Wood Wharf. There are three room types, all with a king bed and a rainfall shower: **the Essential Atrium, the cheapest, looks onto the atrium, not the city**; the Essential has a city view; the Extra is 21 m². Feels Like June, the all-day restaurant, has tables outside, and a grab-and-go counter sells coffee and meals 24 hours a day. For a gym, guests can buy a discounted day pass to Third Space, which has a pool and sauna, a short walk away.
 
 <div class="photo-row">
 
@@ -276,7 +274,7 @@ What is open at the weekend: Wood Wharf's restaurants, the West India Quay resta
 | **Gatwick Airport** | Jubilee to London Bridge, then Thameslink | About 45 min door to door |
 | **London City Airport** | Jubilee to Canning Town, then DLR | About 16 min door to door |
 
-*From TfL's Journey Planner for a weekday morning, September 2026.*
+*Journey times for a weekday morning.*
 
 The **Jubilee line and the Elizabeth line use separate stations** a few minutes' walk apart: the Jubilee under Canada Square, the Elizabeth line under Crossrail Place, north towards West India Quay. The **DLR** runs south to Greenwich and Lewisham, west to Bank and Tower Gateway, and north to Stratford. Our [Heathrow guide](/articles/heathrow-airport-to-london/) and [London City Airport guide](/articles/london-city-airport-to-london/) have the fares.
 
@@ -286,6 +284,6 @@ The **Jubilee line and the Elizabeth line use separate stations** a few minutes'
 
 ## Nearby, and the rest of the trip
 
-For a show at The O2, one stop east, our guide to [where to stay near The O2](/articles/where-to-stay-near-the-o2/) compares Canary Wharf with Canning Town, Stratford and the peninsula. For a trade show or exhibition instead, ExCeL is three Elizabeth line minutes further on: our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) compares Canary Wharf with the hotels at each end of the building, and our [ExCeL London guide](/articles/excel-london-guide/) covers the stations and parking. Two walks start or end here: the [Wapping to Canary Wharf pub walk](/articles/wapping-canary-wharf-walk/) arrives from the west, and the [Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/) goes under the Thames to the Cutty Sark. Across the river, our guide to [where to stay in Greenwich](/articles/where-to-stay-greenwich/) covers the hotels by the Cutty Sark and the park, ten minutes away on the DLR. For a kitchen elsewhere in London, the [aparthotels guide](/articles/aparthotels-london/) compares the operators, and the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for.
+For a show at The O2, one stop east, our guide to [where to stay near The O2](/articles/where-to-stay-near-the-o2/) compares Canary Wharf with Canning Town, Stratford and the peninsula. ExCeL is three Elizabeth line minutes further on: our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) compares Canary Wharf with the hotels at each end of the building, and our [ExCeL London guide](/articles/excel-london-guide/) covers the stations and parking. Two walks start or end here: the [Wapping to Canary Wharf pub walk](/articles/wapping-canary-wharf-walk/) arrives from the west, and the [Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/) goes under the Thames to the Cutty Sark. Across the river, our guide to [where to stay in Greenwich](/articles/where-to-stay-greenwich/) covers the hotels by the Cutty Sark and the park, ten minutes away on the DLR. For a kitchen elsewhere in London, the [aparthotels guide](/articles/aparthotels-london/) compares the operators, and the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for.
 
-*Typical nightly rates for a double, checked September 2026. The dated prices are the cheapest double for two on that night, taxes included.*
+*Typical nightly rates for a double. The dated prices are the cheapest double for two on that night, taxes included.*
