@@ -5,7 +5,8 @@ description: "London's best independent coffee — the roaster trading since 197
 heroImage: "../../assets/articles/best-coffee-london/rosslyn-coffee-exterior.jpg"
 heroImageAlt: "The corner shopfront of Rosslyn Coffee on London Wall, with two customers on the outside bench holding takeaway cups"
 publishedAt: 2026-08-23
-updatedAt: 2026-09-23
+updatedAt: 2026-10-26
+reviewBy: 2027-01-25
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -13,7 +14,7 @@ tags: [coffee, cafes, breakfast, cheap eats, dining]
 draft: false
 faq:
   - q: "Where is the best coffee in London?"
-    a: "Monmouth has been roasting since 1978 and is still the default answer — the Borough Market shop is the one to visit. Rosslyn in the City consistently tops London rankings and has almost nowhere to sit. Prufrock on Leather Lane trained a generation of London baristas."
+    a: "Monmouth has been roasting since 1978; its Borough Market shop is the one to visit. Rosslyn in the City has almost nowhere to sit. Prufrock on Leather Lane runs its own barista training centre."
   - q: "How much does coffee cost in London?"
     a: "A flat white runs £3.50–£4.50 at an independent. Under £3 is unusual, over £5 means a hotel. Filter is typically £3–£4 and often the better drink at a serious roaster."
   - q: "Which London coffee shops actually roast their own?"
@@ -21,17 +22,17 @@ faq:
   - q: "Where can I sit down and work in a London coffee shop?"
     a: "Caravan in Clerkenwell and WatchHouse have room and power. Rosslyn and Monmouth's Borough shop deliberately do not — they are counters, and standing is the format."
   - q: "What is Redemption Roasters?"
-    a: "A coffee company whose beans are roasted inside prisons by people it then trains and employs on release. The business exists to reduce reoffending, and the coffee is good on its own terms."
+    a: "A coffee company whose beans are roasted inside prisons by people it then trains and employs on release. The business exists to reduce reoffending."
 ---
 
-London's coffee is antipodean by descent — the flat white, the counter format and most of the early shops came from Australia and New Zealand — and it is now good enough to stand without the origin story.
+London's specialty coffee is antipodean by descent: the flat white, the counter format and most of the early shops came from Australia and New Zealand.
 
-This is a guide to **independents worth crossing a street for**, not chains. Most are counters rather than cafés, and several deliberately have nowhere to sit.
+This guide covers **independents**, not chains. Most are counters rather than cafés, and several have nowhere to sit.
 
-> 💡 **The Short Version:** **Monmouth** has been roasting since 1978 and remains the default. **Rosslyn** tops the rankings and has almost no seats. **Prufrock** trained most of the city's baristas. **Kaffeine** brought the antipodean thing here. **The Attendant** is inside a Victorian lavatory. And **Redemption Roasters** roasts in prisons.
+> 💡 **The Short Version:** **Monmouth** has been roasting since 1978. **Rosslyn** is a City counter with almost no seats and weekday hours. **Prufrock** runs its own barista training centre. **Kaffeine** is Australian-run, with a food counter. **The Attendant** is inside a Victorian lavatory. And **Redemption Roasters** roasts in prisons.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. No chains. Where a shop roasts its own we say so.
+> No paid placements and no chains. Where a shop roasts its own we say so.
 
 ## Where they are
 
@@ -72,25 +73,25 @@ This is a guide to **independents worth crossing a street for**, not chains. Mos
 
 *£ · 3 min from London Bridge*
 
-**Roasting since 1978** and still the default answer to where to get coffee in London. The Borough Market shop is the one to visit — long queue, no seats, and worth it.
+**Roasting since 1978.** The Borough Market shop is the one to visit: long queue, no seats.
 
 ![The corner shopfront of Monmouth Coffee Company on Park Street, with "MONMOUTH" painted above the open frontage](../../assets/articles/best-coffee-london/monmouth-coffee-borough-exterior.jpg)
 
 *Monmouth's Borough shop.*
 
-**Closed Sundays**, and the Borough queue is at its longest during weekend market hours — 11am to 2pm on a Saturday is the worst of it.
+**Open Monday to Saturday, 7.30am to 6pm; closed Sundays.** The Borough queue is longest during weekend market hours, and 11am to 2pm on a Saturday is the worst of it.
 
-**The Covent Garden shop is considerably quieter and pours the same coffee.** If the queue at Borough is round the corner, walk to Monmouth Street instead.
+**The Covent Garden shop** (27 Monmouth Street, Monday to Saturday 8am to 7pm) is quieter and pours the same coffee.
 
-**2 Park Street, SE1 9AB**, three minutes from London Bridge. **No seats** — this is a hatch and a standing counter, so plan to walk with it.
+**2 Park Street, SE1 9AB**, three minutes from London Bridge. **No seats**: it is a standing counter, so plan to walk with it.
 
 ### Prufrock Coffee, Clerkenwell
 
 *£ · Leather Lane*
 
-The shop that **trained a generation of London baristas**. It runs its own training centre, which is why so many people behind other counters in this city learned here.
+A Leather Lane counter that **runs its own barista training centre**.
 
-The food is simple and good — toasties, banana bread, a short breakfast list — but the counter is what you come for.
+The food is toasties, banana bread and a short breakfast list.
 
 ![The white frontage of Prufrock Coffee on Leather Lane, with red-framed pavement tables and chairs outside](../../assets/articles/best-coffee-london/prufrock-coffee-exterior.jpg)
 
@@ -98,13 +99,13 @@ The food is simple and good — toasties, banana bread, a short breakfast list �
 
 **Walk-in only, three minutes from Chancery Lane**, and busiest with the Leather Lane lunch trade between noon and 2pm, when the street market outside is at full volume.
 
-**It keeps weekday hours.** Leather Lane is an office-and-market street, so weekends are quiet or shut — check before a Saturday trip. Mid-morning is the window when you can actually talk to whoever is on the bar.
+**It keeps weekday hours.** Leather Lane is an office-and-market street, so weekends are quiet or shut; check before a Saturday trip. Mid-morning is the quiet window.
 
 ### Kaffeine, Fitzrovia
 
 *£ · 6 min from Oxford Circus*
 
-Australian-run, and one of the shops that brought antipodean coffee culture to London — the food counter is as good as the espresso, which is rare enough to be the reason to come.
+Australian-run, with a food counter alongside the espresso.
 
 A small, bright room off Great Titchfield Street with a handful of seats and a lot of people passing through.
 
@@ -112,11 +113,11 @@ A small, bright room off Great Titchfield Street with a handful of seats and a l
 
 *Kaffeine, Great Titchfield Street.*
 
-**Counter service, no bookings.** Mon–Fri 7.30am–5.30pm, Sat 9am–4pm, **closed Sundays**.
+**Counter service, no bookings.** Mon–Fri 7.30am–5pm, Sat 8.30am–5pm, Sun 9am–5pm.
 
-**Six minutes from Oxford Circus, which makes it the best coffee within reach of the shops** — and the reason to know it is that Oxford Street itself has nothing, so the choice is a six-minute walk or a chain.
+**Six minutes from Oxford Circus**; Oxford Street itself has only chains.
 
-**On Great Titchfield Street**, and there is a second Kaffeine on Eastcastle Street a few minutes away if the first is full. Seats are limited in both.
+**66 Great Titchfield Street**, and a second Kaffeine on Eastcastle Street is a few minutes away. Seats are limited at both.
 
 ---
 
@@ -126,37 +127,37 @@ A small, bright room off Great Titchfield Street with a handful of seats and a l
 
 *£ · 2 min from Moorgate*
 
-A **tiny City counter** that consistently tops London coffee rankings and has almost nowhere to sit. Built for a queue of people on their way somewhere else, and it works because of that rather than in spite of it.
+A **tiny City counter** with almost nowhere to sit, built for a queue of people on their way somewhere else.
 
 ![The corner shopfront of Rosslyn Coffee on London Wall, with two customers sitting on the outside bench holding takeaway cups](../../assets/articles/best-coffee-london/rosslyn-coffee-exterior.jpg)
 
 *Rosslyn's London Wall corner shop.*
 
-**Closed Saturdays and Sundays** — it runs on office hours, because its customers are office workers. That is the single thing to know: a weekend trip to the City for this is a wasted one.
+**Open Monday to Friday, 6.30am to 5pm; closed Saturdays and Sundays.** A weekend trip to the City for this is wasted.
 
 **118 London Wall, EC2Y 5JA**, two minutes from Moorgate. The queue moves fast because almost nobody sits down, so a long line is not the wait it looks like.
 
-**Go mid-morning or mid-afternoon.** Between 8 and 9.30 it is an entire office block's breakfast, and at lunchtime it is the same crowd again.
+**Go mid-morning or mid-afternoon.** 8 to 9.30 and lunchtime are the office rush.
 
 ### Carbon Kopi, Hammersmith
 
 *£ · 8 min from Barons Court*
 
-Moved from New Zealand to Hammersmith in 2019 and has been on the national best-of lists ever since — **the best coffee in west London by some distance**, in a part of town not otherwise well served.
+Moved from New Zealand to Hammersmith in 2019.
 
-A small neighbourhood room rather than a destination space, so expect to stand if you arrive at the wrong moment.
+A small neighbourhood room, so expect to stand at busy moments.
 
 ![The green-tiled counter at Carbon Kopi, with pendant lights overhead and coffee bags on the shelves behind](../../assets/articles/best-coffee-london/carbon-kopi-counter.jpg)
 
 *Carbon Kopi's counter.*
 
-**Walk-in only, eight minutes from Barons Court.** Worth the detour if you are already west; not worth crossing London for unless you are a completist.
+**Walk-in only, eight minutes from Barons Court.** Worth the detour if you are already in west London.
 
 ### WatchHouse, Bermondsey
 
 *£ · Bermondsey Street*
 
-Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew into the most polished coffee group in London — uniformly good across every site, which almost no other group manages.
+Started in a **nineteenth-century watchman's hut** on Bermondsey Street and now runs several sites.
 
 ![The small cream-painted watchman's hut on Bermondsey Street housing the original WatchHouse, with its sign over the door](../../assets/articles/best-coffee-london/watchhouse-bermondsey-exterior.jpg)
 
@@ -176,17 +177,15 @@ Started in a **nineteenth-century watchman's hut** on Bermondsey Street and grew
 
 *£ · 10 min from Farringdon*
 
-An all-day kitchen with its own roastery attached — **the room most responsible for London's brunch-and-flat-white format**, copied by half the city since.
-
-Big, loud and industrial.
+An all-day kitchen with its own roastery attached, in a big industrial room.
 
 ![The corner shopfront of Caravan on Exmouth Market, with awnings out and tables on the pavement](../../assets/articles/best-coffee-london/caravan-exmouth-market-exterior.jpg)
 
 *Caravan, Exmouth Market.*
 
-**Bookings are taken across the seven London sites**, which is unusual on this page — almost everything else here is walk-in only — and worth using at weekends when brunch runs long and the wait is real.
+**Bookings are taken at Caravan's London sites**, unlike most of this page, and are worth making at weekends when brunch runs long.
 
-**It is the one entry here you can treat as a meal rather than a coffee.** Full kitchen, all day, with room to sit and work in a way the specialist counters cannot offer.
+**It is the one entry here you can treat as a meal.** Full kitchen all day, with room to sit and work.
 
 **11–13 Exmouth Market, EC1R 4QD**, ten minutes from Farringdon and about the same from Angel.
 
@@ -194,13 +193,13 @@ Big, loud and industrial.
 
 *£ · 7 min from Russell Square*
 
-The beans are **roasted inside prisons** by people the company then trains and employs on release. A coffee business built around reducing reoffending, and the coffee stands up without the story.
+The beans are **roasted inside prisons** by people the company then trains and employs on release. The company exists to reduce reoffending.
 
 ![A cappuccino in a blue cup](../../assets/articles/best-coffee-london/redemption-roasters.jpg)
 
 *Redemption Roasters' coffee. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/36031309506), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-**Walk-in, no bookings.** At **84b Lamb's Conduit Street, WC1N 3LR**, seven minutes from Russell Square and five from Holborn — much the best cup within reach of the [British Museum](/articles/british-museum-guide/), and better than anything on Great Russell Street itself.
+**Walk-in, no bookings.** At **84b Lamb's Conduit Street, WC1N 3LR**, seven minutes from Russell Square and five from Holborn, close to the [British Museum](/articles/british-museum-guide/).
 
 **Walk down Lamb's Conduit Street.** Half-pedestrianised and independent end to end, with Noble Rot and Honey & Co on the same short run. **Most of it closes on Sundays**, including here.
 
@@ -208,13 +207,11 @@ The beans are **roasted inside prisons** by people the company then trains and e
 
 ## The roasters
 
-The shops that roast their own, which is where the difference actually gets made.
-
 ### Origin Coffee Roasters, Shoreditch
 
 *£ · 3 min from Old Street*
 
-Roasted in **Cornwall** and poured in a clean, modern Shoreditch room. A favourite of the people who take this most seriously, and the one to try if you want to taste what a roaster's own bar does differently.
+Roasted in **Cornwall** and poured in a modern Shoreditch room.
 
 Pastries and a short toastie list, so this is a coffee stop rather than a meal.
 
@@ -224,21 +221,21 @@ Pastries and a short toastie list, so this is a coffee stop rather than a meal.
 
 **65 Charlotte Road, EC2A 3PE.**
 
-**Calmest mid-afternoon.** Shoreditch coffee rooms fill with laptops from about ten and again at lunch; between two and four it is a different room.
+**Calmest mid-afternoon.** The room fills with laptops from about ten and again at lunch; between two and four it is quieter.
 
 ### Ozone Coffee Roasters, Shoreditch
 
 *£ · 4 min from Old Street*
 
-A **working roastery in the basement with a full kitchen above it** — closer to an all-day restaurant than a coffee shop, and busy for brunch as much as for coffee.
+A **working roastery in the basement with a full kitchen above it**, busy for brunch as much as for coffee.
 
 ![The open kitchen at Ozone Coffee Roasters, with a chef working at the pass and a customer seated at the counter](../../assets/articles/best-coffee-london/ozone-coffee-kitchen.jpg)
 
 *Ozone's kitchen.*
 
-**Walk-in, and the four minutes from Old Street in the line above is the realistic figure.** At **11 Leonard Street, EC2A 4AQ**.
+**Walk-in**, at **11 Leonard Street, EC2A 4AQ**.
 
-Brunch is the busy service and the queue peaks around 11am at weekends — **come on a weekday if you want the room rather than the wait**, and the basement roastery is running then too, which is half the point of being there.
+Brunch is the busy service and the queue peaks around 11am at weekends — **come on a weekday to avoid the wait**; the basement roastery is running then too.
 
 **It takes no bookings**, so a weekend brunch means queueing on the pavement.
 
@@ -246,23 +243,21 @@ Brunch is the busy service and the queue peaks around 11am at weekends — **com
 
 *£ · 5 min from Bond Street*
 
-A roaster's shop where **the filter list changes constantly** and the staff will talk you through it if you want them to, and leave you alone if you do not — which is rarer than it should be at this end of the market.
+A roaster's shop where **the filter list changes constantly** and the staff will talk you through it.
 
 **32–34 New Cavendish Street, W1G 8UE**, five minutes from Bond Street and about the same from Oxford Circus.
 
-**Walk-in, weekday-heavy, and it seats perhaps a dozen.** This is Marylebone office trade, so it is busiest at 9am and 1pm and pleasant in between — and unlike most of this list there is a genuine reason to sit rather than take away.
+**Walk-in, and it seats perhaps a dozen.** Marylebone office trade makes it busiest at 9am and 1pm and quieter in between.
 
 ![The open frontage of Workshop Coffee with a passer-by](../../assets/articles/best-coffee-london/workshop-coffee.jpg)
 
 *Workshop Coffee. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/8401291269), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Walk-in, five minutes from Bond Street** — the most civilised coffee within reach of Oxford Street, which helps on a shopping day.
-
 ### Climpson & Sons, London Fields
 
 *£ · 6 min from Cambridge Heath*
 
-On **Broadway Market since before the street became what it is now**, roasting its own and still busiest on a Saturday. Pair it with the market.
+On **Broadway Market**, roasting its own and busiest on a Saturday. Pair it with the market.
 
 Pastries and sandwiches from the counter rather than a menu.
 
@@ -270,19 +265,19 @@ Pastries and sandwiches from the counter rather than a menu.
 
 *Climpson & Sons, Broadway Market.*
 
-**Walk-in, and the six minutes from Cambridge Heath in the line above is the realistic figure** — London Fields station is about the same.
+**Walk-in**; London Fields station is about as far as Cambridge Heath.
 
-**Saturday is both the best and the worst time**: Broadway Market is on, and so is everybody else. A weekday gets you the same coffee, a seat, and a street that is quiet enough to enjoy — but several of the neighbouring shops are shut.
+**Saturday is busiest**: Broadway Market is on. A weekday gets you a seat and a quiet street, but several neighbouring shops are shut.
 
-**It roasts its own**, and the roastery arch is nearby rather than on site.
+The roastery arch is nearby rather than on site.
 
 ### Catalyst, Holborn
 
 *£ · 3 min from Chancery Lane*
 
-A pared-back Scandinavian room a few streets from Prufrock, and **named among the best coffee shops in the UK for 2026** — which in an area already holding Prufrock and Redemption makes this the densest good coffee in London.
+A Scandinavian-style room a few streets from Prufrock, **named among the best coffee shops in the UK for 2026**.
 
-**Walk-in, three minutes from Chancery Lane**, and small enough that a seat at the wrong hour is unlikely.
+**Walk-in, three minutes from Chancery Lane**. It is small, so a seat at the wrong hour is unlikely.
 
 **Do the three together.** Catalyst, Prufrock and Redemption Roasters are within about ten minutes of each other around Leather Lane and Lamb's Conduit Street, and all three keep weekday hours — so this is a Tuesday morning rather than a Sunday one.
 
@@ -290,17 +285,17 @@ A pared-back Scandinavian room a few streets from Prufrock, and **named among th
 
 *Catalyst, near King's Cross. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/33625242186), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-**Closed Saturdays and Sundays**, like most of the legal-district shops. Three minutes from Chancery Lane, and a few streets from Prufrock — the two make an easy pair on a weekday morning.
+**Closed Saturdays and Sundays**, like most of the legal-district shops.
 
 ### Old Spike, Peckham
 
 *£ · 5 min from Peckham Rye*
 
-A Peckham roastery that **employs and trains people who have experienced homelessness**. The coffee stands on its own merits, which is rather the point — it is not a charity you buy from out of sympathy.
+A Peckham roastery that **employs and trains people who have experienced homelessness**.
 
 **54 Peckham Rye, SE15 4JR**, five minutes from Peckham Rye station, and it faces the common rather than the high street — so it is a quieter stop than anything on Rye Lane.
 
-**Walk-in, with room to sit**, which makes it a genuine destination rather than a hatch. Pair it with Rye Lane and Frank's Cafe on the car park roof, which runs 15 May to 12 September only.
+**Walk-in, with room to sit.** Pair it with Rye Lane and Frank's Cafe on the car park roof, which opens in summer only.
 
 ![A cappuccino in a blue cup on a wooden table](../../assets/articles/best-coffee-london/old-spike.jpg)
 
@@ -316,9 +311,7 @@ A Peckham roastery that **employs and trains people who have experienced homeles
 
 *£ · Old Compton Street · since 1887*
 
-Trading on Old Compton Street since **1887**, selling beans over the counter with an espresso hatch and **nowhere at all to sit**. An espresso costs less than almost anywhere in central London and you drink it on the pavement.
-
-The oldest thing on this list by a century, and still a working merchant rather than a museum.
+Trading on Old Compton Street since **1887**, selling beans over the counter with an espresso hatch and **nowhere at all to sit**; you drink on the pavement.
 
 ![The red-painted Victorian shopfront of Algerian Coffee Stores on Old Compton Street](../../assets/articles/best-coffee-london/algerian-coffee-stores.jpg)
 
@@ -328,17 +321,17 @@ The oldest thing on this list by a century, and still a working merchant rather 
 
 *£ · 7 min from Goodge Street*
 
-Coffee served inside a **restored Victorian public lavatory**, with the original porcelain urinals turned into the counter you sit at — a gimmick that would be unbearable if the coffee were not good.
+Coffee served inside a **restored Victorian public lavatory**, with the original porcelain urinals turned into the counter you sit at.
 
 ![A row of converted Victorian porcelain urinals, now the counter at The Attendant, against white tiled walls](../../assets/articles/best-coffee-london/the-attendant-urinal-counter.jpg)
 
 *The Attendant's urinal counter.*
 
-It is a basement, so it is dim, small and warmer than you expect. **Better as a stop than a place to settle** — there are perhaps a dozen seats and the room does not suit lingering.
+It is a small, dim basement with perhaps a dozen seats, **better for a stop than a long stay**.
 
 **27A Foley Street, W1W 6DY**, seven minutes from Goodge Street and about the same from Oxford Circus.
 
-**Go for the room, not the ranking.** Fitzrovia has better coffee within a five-minute walk — Kaffeine and Workshop are both close — so this is the one you come to because of what the building used to be.
+**Come for the room.** Kaffeine is a few minutes' walk away if the coffee matters more than the setting.
 
 **Go outside the lunch hour.** A dozen people is a crowd down there.
 
@@ -346,7 +339,7 @@ It is a basement, so it is dim, small and warmer than you expect. **Better as a 
 
 *£ · Perrins Court*
 
-Serious coffee and a proper British breakfast down a Hampstead alley — a **bacon sandwich and a flat white**, done exactly right, and the default meeting place for anyone who lives up there.
+Coffee and a British breakfast down a Hampstead alley: **dippy eggs and toasties** to go with the flat white.
 
 Perrins Court is a pedestrian lane, so there are outdoor tables and no traffic.
 
@@ -354,7 +347,7 @@ Perrins Court is a pedestrian lane, so there are outdoor tables and no traffic.
 
 *Ginger & White, Perrins Court.*
 
-**No reservations**, indoor and outdoor seating. Mon–Fri 7.30am–5.30pm, Sat to 6pm, Sun 8am–6pm — **one of the few here open all weekend**. Two minutes from Hampstead station, and the obvious start to a Heath walk.
+**No reservations**, indoor and outdoor seating. Mon–Fri 7.30am–5.30pm, Sat 7.30am–6pm, Sun 8am–6pm, so **open all weekend**. Two minutes from Hampstead station, and the obvious start to a Heath walk.
 
 ### Beany Green, Little Venice
 
@@ -362,11 +355,11 @@ Perrins Court is a pedestrian lane, so there are outdoor tables and no traffic.
 
 *££ · the towpath*
 
-Australian brunch on the canal with a big terrace — **the easiest good coffee within walking distance of Paddington**, which is otherwise a desert for it.
+Australian brunch on the canal with a big terrace, **five minutes from Paddington**.
 
 The setting is outdoors: tables out on the towpath at **Sheldon Square, W2 6EZ**, water on one side and offices on the other.
 
-**It is an office district, so it empties at weekends** — which cuts both ways. Saturday gets you the terrace to yourself and a reduced operation; a weekday gets the full service and the lunch crowd.
+**It is an office district that empties at weekends.** Saturday gets you the terrace and a reduced operation; a weekday gets full service and the lunch crowd.
 
 **Walk-in, five minutes from Paddington station**, and the canal walk to Little Venice starts here — ten minutes west to the moorings, or about an hour on to Camden.
 
@@ -376,22 +369,19 @@ The setting is outdoors: tables out on the towpath at **Sheldon Square, W2 6EZ**
 
 ## Best value
 
-Speciality coffee in London settles around £3.50–£4.50 for a flat white almost everywhere, so the saving is rarely in the cup price. It is in what else you can get for it.
+A flat white costs £3.50–£4.50 almost everywhere, so the saving is not in the cup price.
 
 * **Buy beans from the roasters.** A bag from Monmouth, Square Mile, Assembly or Origin costs about the same as three flat whites and makes forty. The roasteries in this guide all sell retail, and several will grind to your method.
-* **Markets.** **Monmouth at Borough Market** is the original and still the best queue in London coffee. **Maltby Street** and **Netil Market** both have serious coffee carts at market prices rather than café ones.
+* **Markets.** **Monmouth at Borough Market** is the original. **Maltby Street** and **Netil Market** both have serious coffee carts at market prices rather than café ones.
 * **Food halls.** **Seven Dials Market**, **Mercato Mayfair** and **Old Spitalfields** all carry independent coffee counters — useful when you want a good flat white without hunting for a specific address.
-* **Filter over espresso.** Batch brew is usually £1 cheaper than a flat white and, at a shop that roasts its own, it is the drink that actually shows the roast off.
+* **Filter over espresso.** Batch brew is usually £1 cheaper than a flat white.
 * **Bring a cup.** Most independents take 25–50p off, and a few take more.
 
 ---
 
 ## What to know
 
-* **Order filter at a serious roaster.** It is cheaper than espresso drinks and usually shows the bean better.
-* **Most of these have no seats.** Rosslyn and Monmouth are counters by design.
 * **Monmouth's Borough queue** moves faster than it looks. Go before 10am at weekends.
-* **A flat white over £5** means you are in a hotel, not a coffee shop.
 * **Ask where the beans are from.** Every shop here will tell you, and several roast their own.
 
 ---
