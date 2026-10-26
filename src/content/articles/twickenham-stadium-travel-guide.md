@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenh
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
 publishedAt: 2026-07-23
-updatedAt: 2026-09-25
-reviewBy: 2027-01-15
+updatedAt: 2026-10-26
+reviewBy: 2026-11-09
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -32,7 +32,7 @@ faq:
   - q: "Is there a night train or Night Tube from Twickenham Stadium?"
     a: "Not from Twickenham. The last train to Waterloo on Saturday 21 November 2026 is 00:11. The all-night option is the Piccadilly line from Hounslow East on Friday and Saturday nights, about every 10 minutes, 37 minutes to Green Park. It's a 30 to 35 minute walk, and the shuttle will have stopped."
   - q: "What size bag can you take into Twickenham Stadium?"
-    a: "A4 or smaller, unless a bigger bag is needed for accessibility or small children. Anything larger goes in the bag drop at Webb Ellis House on Rugby Road (£10 for the September 2026 international). Pushchairs, buggies, cans, glass and flagpoles of 1.5m or more aren't allowed in."
+    a: "A4 or smaller, unless a bigger bag is needed for accessibility or small children. Anything larger goes in the bag drop at Webb Ellis House on Rugby Road (£10). Pushchairs, buggies, cans, glass and flagpoles of 1.5m or more aren't allowed in."
   - q: "What time do the gates open at Allianz Stadium?"
     a: "Three and a half hours before an England men's international: 10:40 for the 14:10 kick-off against New Zealand on 21 November 2026. Other fixtures vary, so check yours. Entry isn't guaranteed if you arrive less than 60 minutes before kick-off."
   - q: "Is Twickenham Stadium accessible for wheelchair users?"
@@ -43,7 +43,7 @@ faq:
     a: "One: Radisson RED London Twickenham, in the South Stand, with pitch-view suites. Otherwise Richmond is the nearest place with a choice of hotels, a free shuttle ride after the match."
 ---
 
-Allianz Stadium holds **82,000**, and most of that crowd arrives through one suburban station in Zone 5, into a mile-wide parking zone, down roads that close 90 minutes before kick-off. None of it is hard. It just takes longer than the stadium's own page suggests.
+Allianz Stadium holds **82,000**, and most of that crowd arrives through one suburban station in Zone 5, into a mile-wide parking zone, down roads that close 90 minutes before kick-off.
 
 > 💡 **The Short Version:** Come by train. **Twickenham station** is **four trains an hour from Waterloo, 22 to 23 minutes**, then a **1.3km walk**: the stadium says 10 minutes, TfL 17, and a full crowd makes it more. **Whitton is 20 minutes' walk** and has the shorter queue home. Don't park on the street: an event-day **controlled parking zone** covers about **a mile** around the ground from **11am to 11pm**, visitors **can't buy a permit**, and the penalty is **£140 to £160**. Stadium car parks must be **pre-booked** and **close five hours after kick-off**. Going home takes **two to three hours** to clear, and the **last train to Waterloo is 00:11**. The only all-night service is the **Piccadilly line from Hounslow East** on Friday and Saturday nights, a 30 to 35 minute walk away.
 
@@ -67,7 +67,7 @@ Allianz Stadium holds **82,000**, and most of that crowd arrives through one sub
 
 From **Waterloo** there are **four trains an hour** (about :03, :18, :33 and :48), taking **22 to 23 minutes** via Clapham Junction and Richmond. **Six an hour** go back, taking **24 to 33 minutes** depending on which way round the loop your train runs. The station is step-free, with taxi ranks at both entrances.
 
-> ⚠️ **The 10-minute walk is not 10 minutes.** [The stadium's travel page](https://allianzstadiumtwickenham.com/getting-here) says 10; TfL's journey planner makes it **17 minutes over 1.3km**, and the stadium's other walk times match TfL exactly. Allow 20 minutes each way, more once the pavements fill.
+> ⚠️ **The 10-minute walk is not 10 minutes.** [The stadium's travel page](https://allianzstadiumtwickenham.com/getting-here) says 10; TfL's journey planner makes it **17 minutes over 1.3km**. Allow 20 minutes each way, more once the pavements fill.
 
 ### The other stations
 
@@ -144,7 +144,7 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 
 ## Getting home
 
-**The trains don't change for the match**: **six an hour to Waterloo** on a match Saturday, the same as any other, for a crowd of 82,000. Expect the station queue and the road closures to take **two to three hours** to clear.
+**The trains don't change for the match**: **six an hour to Waterloo**, as on any Saturday. Expect the station queue and the road closures to take **two to three hours** to clear.
 
 - **Walk to Whitton** (20 minutes): two trains an hour, 29 minutes to Waterloo, no ticket gates. The north side of the ground empties faster.
 - **Take the free shuttle**, from **Rugby Road** to Richmond or **Whitton Dene** to Hounslow East, for three hours after the whistle.
@@ -163,7 +163,7 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 
 > ⚠️ **There is no night train from Twickenham.** After 00:11 nothing runs until 06:51. The only all-night option is the **Piccadilly line from Hounslow East**, Friday and Saturday only, a 30 to 35 minute walk after the shuttle has stopped. It is tightest on **Friday 27 November 2026**, when the second Nations Championship final kicks off at **20:10**.
 
-**Check Sunday trains.** Engineering work hits this line on some Sundays: on 18 October 2026, Twickenham to Waterloo is an hour with a change instead of 25 minutes. See [South Western Railway's engineering calendar](https://www.southwesternrailway.com/plan-my-journey/planned-improvements/planned-engineering-works).
+**Check Sunday trains**, especially for the 8 November and 29 November games. Engineering work hits this line on some Sundays and can turn a 25-minute journey to Waterloo into an hour with a change. See [South Western Railway's engineering calendar](https://www.southwesternrailway.com/plan-my-journey/planned-improvements/planned-engineering-works).
 
 ---
 
@@ -173,11 +173,10 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 
 *Inside Allianz Stadium. Photo: [Diliff](https://commons.wikimedia.org/w/index.php?curid=22436784), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
-Twickenham Stadium has been **Allianz Stadium** since September 2024; the postcode is unchanged. It's England's home ground: internationals, one Harlequins fixture a year and the occasional concert.
+Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts England's internationals, one Harlequins fixture a year and the occasional concert.
 
 | Date | Event | Kick-off | Crowd |
 | --- | --- | --- | --- |
-| Sat 26 Sep 2026 | Red Roses v New Zealand (WXV) | 15:00 | 60,000 |
 | **Sun 8 Nov 2026** | England v Australia | 15:10 | **82,000** |
 | **Sat 14 Nov 2026** | England v Japan | 16:40 | **82,000** |
 | **Sat 21 Nov 2026** | England v New Zealand | 14:10 | **82,000** |
@@ -189,7 +188,7 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024; the postco
 | **Sat 20 Feb 2027** | England v Italy, Six Nations | 16:40 | — |
 | **Sat 13 Mar 2027** | England v Scotland, Six Nations | 16:40 | — |
 
-*Crowd figures are Richmond Council's, published to warn residents when the parking zone is on.* England v New Zealand is sold out; the other autumn games started at £79 against Australia (£15 for children) and £51 against Japan. On a concert night everything here applies, except the crowd leaves in the dark, closer to the last train.
+*Crowd figures are Richmond Council's.* England v New Zealand is sold out; the other autumn games started at £79 against Australia (£15 for children) and £51 against Japan. On a concert night everything here applies, but the crowd leaves later, closer to the last train.
 
 ---
 
@@ -199,7 +198,7 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024; the postco
 | --- | --- |
 | **Bag limit** | **A4 or smaller.** Every bag is searched |
 | **Bigger than A4** | Refused entry without refund, unless needed for accessibility or small children |
-| **Bag drop** | **Webb Ellis House, Rugby Road**: **£10** for the September 2026 international |
+| **Bag drop** | **Webb Ellis House, Rugby Road**, opposite Gate F: **£10** |
 | **Not allowed in** | Alcohol, glass, cans, knives, air horns, professional cameras, **pushchairs and buggies**, flagpoles of 1.5m or more, large amounts of food |
 | **Re-entry** | **None** |
 
@@ -247,8 +246,8 @@ Accessible seating is sold through a **[Nimbus Disability Access Card](https://h
 | Where | Walk from the station | What to know |
 | --- | --- | --- |
 | **[The Cabbage Patch](https://www.cabbagepatch.co.uk/)**, 67 London Road | **1 min** | The Fuller's rugby pub. Opens **11am on Saturdays**, kitchen until 9pm. Step-free, big screens |
-| **[The William Webb Ellis](https://www.jdwetherspoon.com/pubs/the-william-webb-ellis-twickenham)**, 24 London Road | **2 min** | The Wetherspoon, in the old 1908 post office. **Opens 8am**, so it's the breakfast option. Step-free |
-| **[The Sussex Arms](https://www.thesussexarmstwickenham.co.uk/)**, 15 Staines Road | 12 min | CAMRA award-winner with a big garden and play area, known for pies. Nearer the Stoop than the stadium |
+| **[The William Webb Ellis](https://www.jdwetherspoon.com/pubs/the-william-webb-ellis-twickenham)**, 24 London Road | **2 min** | The Wetherspoon. **Opens 8am**, so it's the breakfast option. Step-free |
+| **[The Sussex Arms](https://www.thesussexarmstwickenham.co.uk/)**, 15 Staines Road | 12 min | Real ales, a big garden, a play area and Sunday roasts. Nearer the Stoop than the stadium |
 | **[The Huddle](https://thehuddletwickenham.co.uk/)**, 198 Whitton Road | 2 min from the gates | Neapolitan pizza on the stadium's doorstep. Bookable, and does collection |
 
 Inside, the **British Airways West Fan Village** needs a match ticket and its own security check; after a 15:00 kick-off it stays open until 19:30. Bars open about **three and a half hours before an international** and two before a club game.
@@ -259,7 +258,7 @@ Inside, the **British Airways West Fan Village** needs a match ticket and its ow
 
 **[Radisson RED London Twickenham](https://www.radissonhotels.com/en-us/hotels/london-twickenham-stadium)** is the one hotel at the stadium, built into the **South Stand**, with suites overlooking the pitch. Guest parking is free on **non-event days**; on an event day, ask the hotel (**020 8891 8200**).
 
-Otherwise **Richmond** has the nearest choice of rooms, one free shuttle ride away. **[Bingham Riverhouse](hotel:bingham-riverhouse)** is a Georgian townhouse on the Thames at 61–63 Petersham Road, with a well-regarded restaurant; lift access is limited. See our [Richmond area guide](/articles/richmond-area-guide/), or [where to stay in London](/articles/best-areas-to-stay-in-london/) if you'd rather stay central and travel out on the day.
+Otherwise **Richmond** has the nearest choice of rooms, one free shuttle ride away. **[Bingham Riverhouse](hotel:bingham-riverhouse)** is a Georgian townhouse on the Thames at 61–63 Petersham Road, with a restaurant; lift access is limited. See our [Richmond area guide](/articles/richmond-area-guide/), or [where to stay in London](/articles/best-areas-to-stay-in-london/) if you'd rather stay central and travel out on the day.
 
 ---
 
@@ -293,6 +292,3 @@ On **non-match days**, parking in the West or North car park is free if you regi
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)**, for anything bigger than A4
 
----
-
-*From Allianz Stadium's travel, ticketing and ground-rules pages, the RFU, South Western Railway, TfL and Richmond Council, checked the week of 21 September 2026. Parking prices are set per event, so check your fixture's page.*
