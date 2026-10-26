@@ -3,8 +3,8 @@ title: "London Music Festivals 2027: Dates, Line-ups and Getting There"
 seoTitle: "London Music Festivals 2027: Dates, Line-ups, Tickets"
 description: "London's music festivals for 2027, from Brockwell Park to Hyde Park and Victoria Park, and the ones a train ride away: the dates already set, when the rest ran in 2026, who headlined, what tickets cost, the age rules and how to get home."
 publishedAt: 2026-06-12
-updatedAt: 2026-10-04
-reviewBy: 2027-01-31
+updatedAt: 2026-10-26
+reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -12,9 +12,9 @@ tags: [festivals, music festivals, BST Hyde Park, All Points East, LIDO, Brockwe
 draft: false
 faq:
   - q: "When are London's music festivals in 2027?"
-    a: "Six have set their dates: Country to Country at The O2 on 12 to 14 March; four in Brockwell Park, Field Day on Saturday 29 May, Cross the Tracks on Sunday 30 May, City Splash on Monday 31 May and Mighty Hoopla on 5 and 6 June; and Kaleidoscope at Alexandra Palace on Saturday 10 July 2027. BST Hyde Park and All Points East haven't announced 2027 yet. In 2026 BST ran nine shows between 27 June and 12 July, and All Points East ran over two weekends, 21 to 23 and 28 to 30 August."
+    a: "Country to Country at The O2 on 12 to 14 March; four in Brockwell Park, Field Day on Saturday 29 May, Cross the Tracks on Sunday 30 May, City Splash on Monday 31 May and Mighty Hoopla on 5 and 6 June; Meltdown at the Southbank Centre on 10 to 20 June, curated by FKA twigs; and Kaleidoscope at Alexandra Palace on Saturday 10 July 2027. BST Hyde Park has announced Bon Jovi on Thursday 24 June and All Points East has announced Phoebe Bridgers on Friday 27 August; the rest of both line-ups are still to come. In 2026 BST ran nine shows between 27 June and 12 July, and All Points East ran over two weekends, 21 to 23 and 28 to 30 August."
   - q: "Can I buy 2027 festival tickets yet?"
-    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £315 with a public transport ticket. Truck's second tier starts at £172 including fees, and Cambridge Folk Festival's full festival ticket starts at £160. Early birds for Mighty Hoopla and The Great Escape have sold out. Prices checked 23 September 2026."
+    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £315 with a public transport ticket. Truck's third tier starts at £182 including fees, and Cambridge Folk Festival's full festival ticket starts at £170. BST Hyde Park's Bon Jovi show (24 June) is on sale from £105.95 plus fees. Early birds for Mighty Hoopla and The Great Escape have sold out."
   - q: "Which London festivals can children go to?"
     a: "Cross the Tracks and City Splash are all ages; at City Splash under-18s need an adult over 26, and child tickets were £20 for under-10s in 2026. BST Hyde Park sells Child + Guardian tickets for ages 2 to 9, and under-2s go free. Kaleidoscope at Alexandra Palace has child tickets for 5 to 15s and lets parents leave and come back between 4pm and 8.30pm. All Points East set its age limit show by show in 2026, from 12+ to 16+. Field Day, Mighty Hoopla, Junction 2, Boomtown and Lovebox are 18+."
   - q: "What can I take into BST Hyde Park or All Points East?"
@@ -25,7 +25,7 @@ heroImage: "../../assets/articles/london-music-festivals-2027/all-points-east-ju
 heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at night, white light beams over a packed crowd"
 ---
 
-> 💡 **The Short Version:** Six London festivals have **2027 dates**: **Country to Country** at The O2 (12–14 March); four in **Brockwell Park** around the late May bank holiday, **Field Day** (29 May), **Cross the Tracks** (30 May), **City Splash** (31 May) and **Mighty Hoopla** (5–6 June); and **Kaleidoscope** at Alexandra Palace (10 July). **BST Hyde Park** and **All Points East** haven't announced 2027 yet: in 2026 BST ran from late June to mid-July, and All Points East over the last two weekends of August. Within a train ride, **Reading** (26–29 August), **Boomtown** (11–15 August), **Love Supreme** (2–4 July), **Henley** (7–11 July) and **Cambridge Folk Festival** (ends 1 August) have set their dates, and several are already on sale. Also in 2026: the **EFG London Jazz Festival**, 13–22 November 2026.
+> 💡 **The Short Version:** These London festivals have **2027 dates**: **Country to Country** at The O2 (12–14 March); four in **Brockwell Park** around the late May bank holiday, **Field Day** (29 May), **Cross the Tracks** (30 May), **City Splash** (31 May) and **Mighty Hoopla** (5–6 June); **Meltdown** at the Southbank Centre (10–20 June, curated by FKA twigs); and **Kaleidoscope** at Alexandra Palace (10 July). **BST Hyde Park** has announced **Bon Jovi** on 24 June and **All Points East** has announced **Phoebe Bridgers** on 27 August; the rest of both line-ups are still to come. Within a train ride, **Reading** (26–29 August), **Boomtown** (11–15 August), **Love Supreme** (2–4 July), **Henley** (7–11 July) and **Cambridge Folk Festival** (ends 1 August) have set their dates, and several are already on sale. Also in 2026: the **EFG London Jazz Festival**, 13–22 November 2026.
 
 ## 2027 at a glance
 
@@ -37,14 +37,14 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 | City Splash | Brockwell Park, SE24 | **31 May** | 25 May |
 | Mighty Hoopla | Brockwell Park, SE24 | **5–6 June** | 30–31 May |
 | Hampton Court Palace Festival | Hampton Court Palace | Not yet announced | 10–20 June |
-| Meltdown | Southbank Centre | Not yet announced | 11–21 June |
-| BST Hyde Park | Hyde Park | Not yet announced | 27 June – 12 July |
+| Meltdown | Southbank Centre | **10–20 June** | 11–21 June |
+| BST Hyde Park | Hyde Park | **24 June** (Bon Jovi); rest not yet announced | 27 June – 12 July |
 | Kaleidoscope | Alexandra Palace Park | **10 July** | 11 July |
-| Wireless | Not yet announced | From 9 July on Skiddle's listing | — |
+| Wireless | Not yet announced | Not yet announced | — |
 | Somerset House Summer Series | Somerset House | Not yet announced | 16–26 July |
 | Junction 2 | Boston Manor Park | Summer, dates not yet announced | 25–26 July and 2 August |
 | BBC Proms | Royal Albert Hall | Not yet announced | 17 July – 12 September |
-| All Points East | Victoria Park | Not yet announced | 21–23 and 28–30 August |
+| All Points East | Victoria Park | **27 August** (Phoebe Bridgers); rest not yet announced | 21–23 and 28–30 August |
 | LIDO | Lido Field, Victoria Park | Not yet announced | 31 August |
 | The Great Escape | Brighton | **From 12 May** | May |
 | Love Supreme | Glynde, East Sussex | **2–4 July** | 3–5 July |
@@ -58,15 +58,13 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 
 ## Festivals in London
 
-In rough date order through the year.
-
 ### Country to Country, The O2
 
-**Friday 12 – Sunday 14 March 2027.** [C2C: Country to Country](https://c2cfestival.co.uk/) is three days of country music at The O2, running the same weekend in Glasgow and, for the first time in 2027, Manchester. It ran 13 to 15 March in 2026. Tickets for 2027 went on general sale on 2 October 2026. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers getting there and back.
+**Friday 12 – Sunday 14 March 2027.** [C2C: Country to Country](https://c2cfestival.co.uk/) is three days of country music at The O2, running the same weekend in Glasgow and, for the first time in 2027, Manchester. Tickets for 2027 went on general sale on 2 October 2026. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers getting there and back.
 
 ### Field Day, Brockwell Park
 
-**Saturday 29 May 2027.** [Field Day](https://www.fielddayfestivals.com/) is electronic and dance music, running since 2007 and in Brockwell Park since 2025, when Peggy Gou led the bill. The 2026 edition, on 23 May, included **Joy Orbison**, **Floating Points (live)**, **Honey Dijon**, **Andy C** playing a jungle set and **MJ Cole (live)**. **18+ only**, with ID checked at the gate. In 2026 it ran 12pm to 10.30pm, with last entry at 8pm. The site takes sign-ups for the next ticket release. [Tickets on Skiddle](https://www.skiddle.com/festivals/field-day/).
+**Saturday 29 May 2027.** [Field Day](https://www.fielddayfestivals.com/) is electronic and dance music. The 2026 edition, on 23 May, included **Joy Orbison**, **Floating Points (live)**, **Honey Dijon**, **Andy C** playing a jungle set and **MJ Cole (live)**. **18+ only**, with ID checked at the gate. In 2026 it ran 12pm to 10.30pm, with last entry at 8pm. The site takes sign-ups for the next ticket release. [Tickets on Skiddle](https://www.skiddle.com/festivals/field-day/).
 
 ### Cross the Tracks, Brockwell Park
 
@@ -74,7 +72,7 @@ In rough date order through the year.
 
 *Cross the Tracks, Brockwell Park.*
 
-**Sunday 30 May 2027.** [Cross the Tracks](https://www.xthetracks.com/) is jazz, funk and soul, mixing heritage acts with emerging artists. **Little Simz** headlined on 24 May 2026, the year after Ezra Collective. **All ages**; children aged 3 to 17 need a bolt-on to get into the VIP area. There are more than 50 street food traders and a craft beer fair. In 2026 it ran 12pm to 10.45pm, with last entry at 8pm. [Tickets on Skiddle](https://www.skiddle.com/festivals/crossthetracks/).
+**Sunday 30 May 2027.** [Cross the Tracks](https://www.xthetracks.com/) is jazz, funk and soul, mixing heritage acts with emerging artists. **Little Simz** headlined in 2026. **All ages**; children aged 3 to 17 need a bolt-on to get into the VIP area. There are more than 50 street food traders and a craft beer fair. In 2026 it ran 12pm to 10.45pm, with last entry at 8pm. [Tickets on Skiddle](https://www.skiddle.com/festivals/crossthetracks/).
 
 ### City Splash, Brockwell Park
 
@@ -82,9 +80,9 @@ In rough date order through the year.
 
 ### Mighty Hoopla, Brockwell Park
 
-**Saturday 5 and Sunday 6 June 2027.** [Mighty Hoopla](https://www.mightyhoopla.com/london) is pop, with queer culture at its centre: Brockwell Live puts it at more than 400 artists and performers over two days and eight stages. It ran 30 and 31 May in 2026. **18+ only, and no babies.** 12pm to 10.30pm on Saturday and to 10.15pm on Sunday, with last entry at 8pm. **The 2027 early birds have sold out**; general sale comes later in the year, with £20 deposits and a six-for-the-price-of-five group ticket. [Tickets on Skiddle](https://www.skiddle.com/festivals/mighty-hoopla/).
+**Saturday 5 and Sunday 6 June 2027.** [Mighty Hoopla](https://www.mightyhoopla.com/london) is pop, with queer culture at its centre: Brockwell Live puts it at more than 400 artists and performers over two days and eight stages. **18+ only, and no babies.** 12pm to 10.30pm on Saturday and to 10.15pm on Sunday, with last entry at 8pm. **The 2027 early birds have sold out**; general sale comes later in the year, with £20 deposits and a six-for-the-price-of-five group ticket. [Tickets on Skiddle](https://www.skiddle.com/festivals/mighty-hoopla/).
 
-**Brockwell Park rules.** Each of the four is ticketed separately, and all use the site rules set by [Brockwell Live](https://www.brockwell-live.com/), which runs the park's summer festival series. Herne Hill station is about 500 metres from the park's entrances, and Brixton (Victoria line) is about a mile away, or two minutes on the train to Herne Hill. You can't leave and come back in. Bags bigger than A4 aren't allowed, there's no cloakroom, and you can't bring your own food or drink. Expect a search at the gate, with search dogs.
+**Brockwell Park rules.** Each of the four is ticketed separately, under site rules set by [Brockwell Live](https://www.brockwell-live.com/). Herne Hill station is about 500 metres from the park's entrances, and Brixton (Victoria line) is about a mile away, or two minutes on the train to Herne Hill. You can't leave and come back in. Bags bigger than A4 aren't allowed, there's no cloakroom, and you can't bring your own food or drink. Expect a search at the gate, with search dogs.
 
 ### Hampton Court Palace Festival
 
@@ -92,7 +90,7 @@ In rough date order through the year.
 
 *Hampton Court Palace.*
 
-**June. 2027 not yet announced.** Evening concerts in Base Court at [Hampton Court Palace](https://hamptoncourtpalacefestival.com/), with **3,000 seats a night**. People picnic in the East Front Gardens first. It ran **10 to 20 June 2026**, and the headliners included **David Gray**, **OMD**, **The Stranglers**, **Nile Rodgers & CHIC**, **Elvis Costello & The Imposters** and **Sophie Ellis-Bextor**. There are two direct trains an hour from Waterloo to Hampton Court, taking about 40 minutes, and the 111 bus stops outside the palace 24 hours a day. The site has a waitlist for 2027 tickets. [Tickets on Skiddle](https://www.skiddle.com/festivals/hampton-court-palace-festival/).
+**June. 2027 not yet announced.** Evening concerts in Base Court at [Hampton Court Palace](https://hamptoncourtpalacefestival.com/), with **3,000 seats a night**. Doors open at 5.30pm, and people picnic in the East Front Gardens first. The **10 to 20 June 2026** headliners included **David Gray**, **OMD**, **The Stranglers**, **Nile Rodgers & CHIC**, **Elvis Costello & The Imposters** and **Sophie Ellis-Bextor**. There are two direct trains an hour from Waterloo to Hampton Court, taking about 40 minutes, and the 111 bus stops outside the palace 24 hours a day. The site takes sign-ups for 2027 line-up news and pre-sale access. [Tickets on Skiddle](https://www.skiddle.com/festivals/hampton-court-palace-festival/).
 
 ### Meltdown, Southbank Centre
 
@@ -100,7 +98,7 @@ In rough date order through the year.
 
 *The Royal Festival Hall.*
 
-**Mid-June. 2027 curator and dates not yet announced.** The Southbank Centre calls [Meltdown](https://www.southbankcentre.co.uk/events/meltdown/) the world's longest-running artist-curated music festival: each year one musician programmes the 11-acre site. **Harry Styles** curated 2026, from **11 to 21 June**, and played a headline show at the Royal Festival Hall on 16 June; Little Simz curated 2025. The 2026 festival added free events to the ticketed gigs. [Tickets on Skiddle](https://www.skiddle.com/festivals/meltdown/).
+**Thursday 10 – Sunday 20 June 2027.** The Southbank Centre calls [Meltdown](https://www.southbankcentre.co.uk/events/meltdown/) the world's longest-running artist-curated music festival: each year one musician programmes the 11-acre site. **FKA twigs** curates 2027, with dozens of concerts over 11 days and two weekends of free events; the line-up is still to be announced. **Harry Styles** curated 2026, from **11 to 21 June**, and Little Simz curated 2025. [Tickets on Skiddle](https://www.skiddle.com/festivals/meltdown/).
 
 ### BST Hyde Park
 
@@ -108,17 +106,17 @@ In rough date order through the year.
 
 *The Great Oak Stage, Hyde Park.*
 
-**Late June to mid-July. 2027 not yet announced.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage: in 2026 there were nine shows over three weekends, **27 June to 12 July**. The headliners were **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. All five shows on its 2026 line-up page are marked sold out. Between the weekends, BST's **Open House** fills the site with free events.
+**Thursday 24 June 2027: Bon Jovi, on sale.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage. General admission for Bon Jovi starts at **£105.95 plus fees**; the rest of the 2027 line-up is still to come. In 2026 there were nine shows over three weekends, **27 June to 12 July**: **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. Between the weekends, BST's **Open House** fills the site with free events.
 
-Every show is **standing only**. You can bring one bag no bigger than A4 and no chairs, and apart from an unopened bottle of water of up to 500ml, no food or drink. The bars and food stalls are cashless. Children aged **2 to 9** come in on a Child + Guardian ticket, sold as a pair, and **under-2s are free**. Shows finish by **10.30pm**, or **10pm on Sundays**. The stations are Hyde Park Corner, Knightsbridge, Green Park and Bond Street (Elizabeth line). Check for Piccadilly line closures before you go: in 2026 the whole line shut on the first weekend, closing Hyde Park Corner and Knightsbridge.
+Every show is **standing only**. You can bring one bag no bigger than A4 and no chairs, and apart from an unopened bottle of water of up to 500ml, no food or drink. The bars and food stalls are cashless. Children aged **2 to 9** come in on a Child + Guardian ticket, sold as a pair, and **under-2s are free**. Shows finish by **10.30pm**, or **10pm on Sundays**. The stations are Hyde Park Corner, Knightsbridge, Green Park and Bond Street (Elizabeth line). Check for Piccadilly line closures before you go; in 2026 the whole line shut on the first weekend, closing Hyde Park Corner and Knightsbridge.
 
 ### Kaleidoscope, Alexandra Palace
 
-**Saturday 10 July 2027, on sale.** [Kaleidoscope](https://kaleidoscope-festival.com/) is a one-day festival of music, comedy and family entertainment in the park below Alexandra Palace, across three stages, with a family area and a chance to explore the Palace's Victorian basements. It ran on 11 July 2026 and sold out; **tier 1 tickets for 2027 are on sale**. Adult tickets are for **16 and over**, child tickets for **5 to 15**, and under-5s cost **£10** plus fees; under-16s must be with an adult aged 21 or over. Parents can leave and come back between 4pm and 8.30pm to take children home. It finishes by **10.30pm**. Alexandra Palace station (Great Northern) is a 10-minute walk from the entrance, and Wood Green (Piccadilly line) about 15. [Tickets on Skiddle](https://www.skiddle.com/festivals/kaleidoscope-festival/).
+**Saturday 10 July 2027, on sale.** [Kaleidoscope](https://kaleidoscope-festival.com/) is a one-day festival of music, comedy and family entertainment in the park below Alexandra Palace, across three stages, with a family area and the Palace's Victorian basements to explore. It ran on 11 July 2026 and sold out; **tier 1 tickets for 2027 are on sale**. Adult tickets are for **16 and over**, child tickets for **5 to 15**, and under-5s cost **£10** plus fees; under-16s must be with an adult aged 21 or over. Parents can leave and come back between 4pm and 8.30pm to take children home. It finishes by **10.30pm**. Alexandra Palace station (Great Northern) is a 10-minute walk from the entrance, and Wood Green (Piccadilly line) about 15. [Tickets on Skiddle](https://www.skiddle.com/festivals/kaleidoscope-festival/).
 
 ### Wireless Festival
 
-**July 2027. Dates and venue not yet announced by the festival.** [Wireless](https://wirelessfestival.co.uk/) is Live Nation's festival, and its site is taking sign-ups for 2027 news; in September 2026 Live Nation ran a survey offering VIP weekend tickets to Wireless 2027 as the prize. Skiddle's page lists the 2027 festival from **Friday 9 July**, but Wireless itself hasn't confirmed dates or a site, so treat that as provisional. Its past bills include the first UK headline shows by Drake and Rihanna. [Tickets on Skiddle](https://www.skiddle.com/festivals/wireless-festival/).
+**July. 2027 dates and venue not yet announced.** [Wireless](https://wirelessfestival.co.uk/) is Live Nation's festival, and its site is taking sign-ups for 2027 news. Its past bills include the first UK headline shows by Drake and Rihanna. [Tickets on Skiddle](https://www.skiddle.com/festivals/wireless-festival/).
 
 ### Somerset House Summer Series
 
@@ -126,7 +124,7 @@ Every show is **standing only**. You can bring one bag no bigger than A4 and no 
 
 ### Junction 2, Boston Manor Park
 
-**Summer 2027, dates not yet announced.** [Junction 2](https://www.junction2.london/) ran in Boston Manor Park in 2026. Its site now announces The Bridge, a summer 2027 series of electronic music in the same park, with Junction 2 among its events. The 2026 dates were **25 and 26 July and 2 August**. The Bridge series is **18+ only**. The site takes sign-ups for first access to tickets and line-ups.
+**Summer 2027, dates not yet announced.** [Junction 2](https://www.junction2.london/) ran in Boston Manor Park on **25 and 26 July and 2 August** in 2026. Its site now announces The Bridge, a summer 2027 series of electronic music in the same park, with Junction 2 among its events. The Bridge is **18+ only**. The site takes sign-ups for first access to tickets and line-ups.
 
 ### BBC Proms, Royal Albert Hall
 
@@ -142,7 +140,7 @@ Every show is **standing only**. You can bring one bag no bigger than A4 and no 
 
 *All Points East, Victoria Park.*
 
-**Late August. 2027 not yet announced.** [All Points East](https://www.allpointseastfestival.com/) runs headline days in Victoria Park, with a free programme, In The Neighbourhood, in the week between. In 2026 it ran six days over two weekends: **Jorja Smith + Tems** (21 August), **Lorde** (22 August), **Outbreak Fest** with Deftones and IDLES (23 August), **Tyler, The Creator** (28 and 29 August) and **Twenty One Pilots** (30 August).
+**Late August. First 2027 day: Friday 27 August.** [All Points East](https://www.allpointseastfestival.com/) runs headline days in Victoria Park, with a free programme, In The Neighbourhood, in the week between. **Phoebe Bridgers** headlines on 27 August with Caroline Polachek, Kelsey Lu, Danielle Ponder and jasmine.4.t. General admission starts at **£79.95 plus booking**; tickets go on sale soon, with a presale for American Express cardmembers and a sign-up presale on the festival's site. The rest of the 2027 line-up is still to come. In 2026 it ran six days over two weekends: **Jorja Smith + Tems** (21 August), **Lorde** (22 August), **Outbreak Fest** with Deftones and IDLES (23 August), **Tyler, The Creator** (28 and 29 August) and **Twenty One Pilots** (30 August).
 
 **Age limits change by day.** In 2026 they ran from **12+** at Twenty One Pilots to **16+** for Lorde and Tyler, The Creator, with under-18s accompanied by an adult. Gates opened at 2pm on most days and closed at 8.30pm. You can bring one A4 bag, no chairs, and no food or drink apart from an empty reusable bottle or unopened water of up to 500ml. There's no cloakroom and the site is cashless. Stations and the Night Tube are under [getting home late](#getting-home-late) below. [Tickets on Skiddle](https://www.skiddle.com/festivals/all-points-east/).
 
@@ -156,7 +154,7 @@ Every show is **standing only**. You can bring one bag no bigger than A4 and no 
 
 ## A train ride away
 
-Our cut-off is a station that's about **90 minutes or less by train from central London**, so each of these works as a day out or a weekend without a car.
+Each of these has a station about **90 minutes or less by train from central London**, so it works as a day out or a weekend without a car.
 
 ### Reading Festival
 
@@ -174,7 +172,7 @@ Our cut-off is a station that's about **90 minutes or less by train from central
 
 ### Love Supreme
 
-**Friday 2 – Sunday 4 July 2027.** Jazz, soul and R&B at [Glynde Place](https://lovesupremefestival.com/) in the South Downs, with camping and glamping. The 2026 edition, 3 to 5 July, was headlined by **Loyle Carner**, **Ezra Collective** and **De La Soul**, with Sister Sledge, The Temptations & The Four Tops and Samara Joy further down. Weekend tickets are on sale on its site, with monthly payments, and day tickets go on sale when the first acts are announced. Glynde station is on Southern, and a **free shuttle** takes about five minutes to the North Entrance; on Saturday and Sunday it runs back to the station until the last train. There's a children's area, Little Supremos, and bookable nannies. [Tickets on Skiddle](https://www.skiddle.com/festivals/love-supreme-festival/).
+**Friday 2 – Sunday 4 July 2027.** Jazz, soul and R&B at [Glynde Place](https://lovesupremefestival.com/) in the South Downs, with camping and glamping. The 2026 edition, 3 to 5 July, was headlined by **Loyle Carner**, **Ezra Collective** and **De La Soul**. Weekend tickets are on sale on its site, with monthly payments, and day tickets go on sale when the first acts are announced. Glynde station is on Southern, and a **free shuttle** takes about five minutes to the North Entrance; on Saturday and Sunday it runs back to the station until the last train. There's a children's area, Little Supremos, and bookable nannies. [Tickets on Skiddle](https://www.skiddle.com/festivals/love-supreme-festival/).
 
 ### Henley Festival
 
@@ -182,7 +180,7 @@ Our cut-off is a station that's about **90 minutes or less by train from central
 
 ### Cambridge Folk Festival
 
-**Friday 30 July – Sunday 1 August 2027 at Cherry Hinton Hall, on sale.** Running since 1965 and now organised by Cambridge City Council, with smaller folk events around the city through July. Its main weekend in 2026 **sold out**, with **Frank Turner**, **Suzanne Vega** and **Richard Thompson** with Zara Phillips headlining. **Early birds for 2027 have sold out.** Full festival tickets now start at **£160** and camping at **£65**. The arena opens at 5pm on the Friday, and the campsite surrounds it. Fast trains from King's Cross take 49 minutes; our [Cambridge day trip guide](/articles/cambridge-day-trip/) has fares and the last trains. [Tickets on Skiddle](https://www.skiddle.com/festivals/cambridge-folk-festival/).
+**Friday 30 July – Sunday 1 August 2027 at Cherry Hinton Hall, on sale.** Organised by Cambridge City Council, with smaller folk events around the city through July. Its main weekend in 2026 **sold out**, with **Frank Turner**, **Suzanne Vega** and **Richard Thompson** with Zara Phillips headlining. Full festival tickets start at **£170** and camping at **£65**. The arena opens at 5pm on the Friday, and the campsite surrounds it. Fast trains from King's Cross take 49 minutes; our [Cambridge day trip guide](/articles/cambridge-day-trip/) has fares and the last trains. [Tickets on Skiddle](https://www.skiddle.com/festivals/cambridge-folk-festival/).
 
 ### The Great Escape, Brighton
 
@@ -198,7 +196,7 @@ Our cut-off is a station that's about **90 minutes or less by train from central
 
 ### Truck
 
-**July. 2027 tickets on sale.** Indie and alternative bands near Steventon in Oxfordshire, running since 1998, when it began as a birthday party. The second tier of 2027 tickets starts at **£172 including all fees** for camping with Friday entry, or **£224** from Thursday. The first tier sold out in 30 minutes. In 2026 the campsites opened on **Thursday 23 July** and closed on **Monday 27 July**. **Under-16s need an adult aged 21 or over**, one adult to four children. **Didcot Parkway** has direct trains from London, and Thames Travel runs shuttle buses from the station to the site. [Tickets on Skiddle](https://www.skiddle.com/festivals/truck/).
+**July. 2027 tickets on sale.** Indie and alternative bands near Steventon in Oxfordshire. The third tier of 2027 tickets starts at **£182 including all fees** for camping with Friday entry, or **£234** from Thursday. The first tier sold out in 30 minutes, and the second has sold out too. In 2026 the campsites opened on **Thursday 23 July** and closed on **Monday 27 July**. **Under-16s need an adult aged 21 or over**, one adult to four children. **Didcot Parkway** has direct trains from London, and Thames Travel runs shuttle buses from the station to the site. [Tickets on Skiddle](https://www.skiddle.com/festivals/truck/).
 
 ### Lovebox, Margate
 
@@ -224,7 +222,7 @@ The Great Escape's **First Fifty** also runs in November: one night in East Lond
 
 - **Buy from the festival or its named ticket agents.** BST asks fans not to buy from secondary sites, and Brockwell Live says it can't guarantee tickets bought from third parties. [Skiddle's festival guide](https://www.skiddle.com/festivals/) lists the festivals it sells across the UK.
 - **Deposits spread the cost.** Reading and Mighty Hoopla take £20 up front, and Boomtown, Truck and Big Green Coach all sell on instalments.
-- **Early birds go early.** Mighty Hoopla's and The Great Escape's 2027 early birds had sold out by 23 September 2026, and Truck's first tier sold out in 30 minutes. For the ones without dates yet, the mailing list is how you hear about the first release.
+- **Early birds go early.** Mighty Hoopla's and The Great Escape's 2027 early birds have sold out, and Truck's first two tiers have too. For the ones without dates yet, the mailing list is how you hear about the first release.
 - **Bring ID if you look under 25.** BST, All Points East, LIDO and the Brockwell Park festivals run Challenge 25 at the bars, and the 18+ events check ID at the gate.
 
 ## Continue planning your London trip
@@ -239,4 +237,4 @@ The Great Escape's **First Fifty** also runs in November: one night in East Lond
 - 🌤️ **[The Best Time to Visit London](/articles/best-time-to-visit-london/)**
 - 🏨 **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)**
 
-*Dates, line-ups, prices, age rules and travel details from each festival's own website, checked 23 September 2026. Festivals change prices by ticket tier, so check the booking page.*
+*Dates and prices as at 26 October 2026. Festivals change prices by ticket tier, so check the booking page.*
