@@ -3,8 +3,8 @@ title: "National Rail 2FOR1: How to Actually Get Two-for-One on London Attractio
 seoTitle: "2FOR1 London: Tower, Kew, Abbey and the Rules"
 description: "2FOR1 in London: show a National Rail ticket for a free second entry at the Tower of London, Kew and Westminster Abbey. Oyster does not count; the London Eye is a third off."
 publishedAt: 2026-07-02
-updatedAt: 2026-10-17
-reviewBy: 2026-12-31
+updatedAt: 2026-10-26
+reviewBy: 2027-01-01
 sites:
   - london
 canonicalSite: london
@@ -38,7 +38,7 @@ heroImageAlt: "The train shed at St Pancras International, with platforms and th
 
 ## What the scheme actually is
 
-It is run by **ATOC/RDG on behalf of Britain's train companies**, under the name **Days Out Guide**. The logic is simple: the railway wants you to travel by train, so it buys you a discount at the other end.
+It is National Rail's **Days Out Guide**, run for Britain's train companies.
 
 The five steps are:
 
@@ -82,9 +82,9 @@ There are three redemption routes, and **which one applies is set per attraction
 - Heathrow Express, Eurostar, Eurail and Interrail
 - E-tickets **without** the National Rail logo
 
-> 💡 **The rule of thumb Days Out Guide gives itself:** the best indication of a valid ticket is the **National Rail double arrow symbol**. If your ticket has it, you are fine.
+> 💡 **Days Out Guide's own test:** the best indication of a valid ticket is the **National Rail double arrow symbol**. If your ticket has it, you are fine.
 
-**Paper versus digital is not the distinction.** A National Rail e-ticket on your phone is perfectly valid. The distinction is **National Rail ticket versus TfL tap** — and a tap leaves you with nothing to show.
+**Paper versus digital is not the distinction.** A National Rail e-ticket on your phone is perfectly valid. The distinction is **National Rail ticket versus TfL tap**.
 
 **Your destination has to make sense.** Tickets need to show you travelled to the attraction by train; a ticket reading "London Terminals" works for London offers. Staff can refuse a ticket whose destination is nowhere near the attraction.
 
@@ -103,20 +103,20 @@ There are three redemption routes, and **which one applies is set per attraction
 - **One train ticket covers multiple attractions** on any day that ticket is valid
 - **One voucher per two people**, and you can download up to **three vouchers per attraction** at a time, enough for six people
 
-The second point is the one people miss. A weekend return from Brighton or Cambridge unlocks two-for-one on Friday, Saturday and Sunday, at as many participating attractions as you can reach.
+A weekend return from Brighton or Cambridge unlocks two-for-one on Friday, Saturday and Sunday, at as many participating attractions as you can reach.
 
 ---
 
 ## Which London attractions are in it
 
-There are more than a hundred London offers. These are the big draws.
+There are more than a hundred London offers.
 
 | Attraction | Route | Notes |
 | --- | --- | --- |
 | **Tower of London** | Pay at the door | Standard daytime admission only. **Excludes 19–31 December** |
 | **Kew Gardens** | Pay at the door | Not combinable with any other discount |
 | **Westminster Abbey** | Pay at the door | Mon–Sat only. **Cannot be pre-booked.** Adds a free child (17 or under) per adult ticket |
-| **Hampton Court Palace** | Pay at the door | **Excludes 29–31 August and 28 November–31 December** |
+| **Hampton Court Palace** | Pay at the door | **Excludes 29–31 August and 28 November 2026–3 January 2027** |
 | **Kensington Palace** | Pay at the door | **Excludes 1–6 January, 28 March–12 April, 18 July–31 August and 19–31 December** |
 | **ZSL London Zoo** | Advance booking | Excludes Christmas Day |
 | **St Paul's Cathedral** | Advance booking | Mon–Sat only; book one "National Rail Days Out - Two Visitors" ticket, which covers both of you |
@@ -138,21 +138,21 @@ Also included: Cutty Sark, the Royal Observatory (closed from 2 November 2026), 
 
 ## Is it actually worth it?
 
-**The offer is calculated on walk-up pricing.** Days Out Guide says so directly: offers apply to "on the door" prices, which are frequently higher than the advance rate on the attraction's own website. Two advance tickets bought online can beat 2FOR1 on the gate price. **Check both before you commit.**
+**The offer is calculated on walk-up pricing.** Offers apply to "on the door" prices, which are frequently higher than the advance rate on the attraction's own website. Two advance tickets bought online can beat 2FOR1 on the gate price. **Check both before you commit.**
 
 **It is full-price adult tickets only.** Buy an adult and a child ticket together and the *cheaper* one is deducted — so a family gets far less out of it than two adults do.
 
 **It never combines.** Not with family tickets, group rates, other vouchers or concessions. A family ticket often wins outright.
 
-**The blackout dates land on exactly the days visitors come.** Kensington Palace excludes 28 March–12 April, 18 July–31 August and the Christmas holidays. Hampton Court excludes 29–31 August and 28 November–31 December.
+**Blackout dates cover the holidays.** Kensington Palace excludes 28 March–12 April, 18 July–31 August and the Christmas holidays. Hampton Court excludes 29–31 August and 28 November 2026–3 January 2027.
 
 **A solo traveller gets nothing.** There is no single-visitor version.
 
-**Advance-booking offers are fiddly.** St Paul's and Tower Bridge both need a specific, easy-to-miss ticket type selected at checkout. Pick the wrong one and the discount is gone with no way back.
+**Advance-booking offers are fiddly.** St Paul's and Tower Bridge both need a specific, easy-to-miss ticket type selected at checkout. Pick the wrong one and the discount is gone.
 
 **Capacity is not guaranteed.** At the Historic Royal Palaces sites, if your slot is full when you arrive you wait for the next one. Westminster Abbey cannot be pre-booked at all.
 
-> 💡 **The verdict.** 2FOR1 is excellent for **two adults arriving by train from outside London** who were buying rail tickets anyway. It is usually pointless for someone already in London on contactless — buying a throwaway rail ticket to unlock it normally costs more than it saves.
+> 💡 **The verdict.** 2FOR1 pays off for **two adults arriving by train from outside London** who were buying rail tickets anyway. It is usually pointless for someone already in London on contactless: a throwaway rail ticket normally costs more than it saves.
 
 ---
 
@@ -160,7 +160,7 @@ Also included: Cutty Sark, the Royal Observatory (closed from 2 November 2026), 
 
 Our [transport costs guide](/articles/london-public-transport-costs-and-fares/) tells you to use contactless or Oyster and avoid paper tickets. For getting around London, that advice is right.
 
-**2FOR1 is the one case where it works against you.** If you are coming in from outside London and plan to visit paid attractions, the National Rail ticket you were buying anyway unlocks a discount that contactless cannot. That is not a reason to change how you pay for the Tube — it is a reason to keep the rail ticket you already have instead of binning it at the barrier.
+**2FOR1 is the one case where it works against you.** If you are coming in from outside London and plan to visit paid attractions, the National Rail ticket you were buying anyway unlocks a discount that contactless cannot. Keep paying for the Tube with contactless, but keep the rail ticket out of the barrier.
 
 ---
 
@@ -174,7 +174,7 @@ Our [transport costs guide](/articles/london-public-transport-costs-and-fares/) 
 
 **Anyone can use it** — residents and overseas visitors alike. The only requirement is that you travelled by National Rail.
 
-*Offers, prices and rules checked on 25 September 2026. This scheme changes constantly and attractions rotate in and out — always confirm on the attraction's own Days Out Guide listing before you travel.*
+*Offers and rules as at 26 October 2026. Attractions rotate in and out of the scheme, so confirm on the attraction's Days Out Guide listing before you travel.*
 
 ---
 
