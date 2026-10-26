@@ -1,5 +1,5 @@
 ---
-title: "The Best Art Galleries in London: 19 Compared"
+title: "The Best Art Galleries in London, Compared"
 seoTitle: "Best Art Galleries London 2026: Free & Ticketed"
 description: "The world's first purpose-built public gallery, 54,000 square feet behind a plain Bermondsey frontage, and a vault of silver under Chancery Lane."
 heroImage: "../../assets/articles/best-galleries-london/best-galleries-london.jpg"

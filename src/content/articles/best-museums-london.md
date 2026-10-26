@@ -1,6 +1,6 @@
 ---
-title: "The Best Museums in London: 17 Compared, Most of Them Free"
-seoTitle: "Best Museums in London 2026: 17 Compared, Most Free"
+title: "The Best Museums in London, Compared: Most of Them Free"
+seoTitle: "Best Museums in London 2026: Compared, Most Free"
 description: "Beyond the British Museum — a house preserved by Act of Parliament, 68,000 zoological specimens in one room, and a train through the Post Office's own tunnels."
 heroImage: "../../assets/articles/best-museums-london/best-museums-london.jpg"
 heroImageAlt: "The glass-roofed Great Court at the British Museum, with the circular Reading Room at its centre"
