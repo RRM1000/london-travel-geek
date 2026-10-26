@@ -5,7 +5,8 @@ description: "About 245 London hotels sell a room for the day, not the night: fi
 heroImage: "../../assets/articles/day-rooms-london/london-hotel-room-daytime.jpg"
 heroImageAlt: "A London hotel room with a double bed, a patterned throw, teal bedside tables and lamps lit either side of an upholstered headboard"
 publishedAt: 2026-09-23
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -29,8 +30,6 @@ faq:
 ---
 
 About **245 London hotels** will sell you a room for the afternoon, not the night. You book a window — 10am to 5pm, say — and pay somewhere between **24% and 69% less** than the same room costs overnight.
-
-It is the least-known useful thing in London accommodation, and the answer to a problem most visitors have at least once: a nine-hour gap, a suitcase, and nowhere to be.
 
 > 💡 **The Short Version:** You book a **fixed window**, not hours of your choosing, and **10am–5pm is close to a default** — 41 of the 73 London windows open at 10am. Most run **seven or eight hours**, and a longer window costs almost nothing extra, so **always take the longest one on offer**. Check **when it starts** before anything else, and whether it says *payment at the hotel* (most do, so it costs nothing to hold). Landing early? Only **Marlin Waterloo** and, at Heathrow, the **Crowne Plaza T4** and the **Atrium** open at 7am.
 >
@@ -57,47 +56,45 @@ Every rate below is the day price against that hotel's own overnight rate, with 
 | **[Treehouse Hotel London](hotel:treehouse-hotel-london)** | £169 | £300 | 44% | 10am–5pm |
 | **Athenaeum**, Piccadilly | £272 | £580 | **54%** | 10am–6pm |
 
-Dayuse advertises **"up to 75% off"**; the biggest we actually found across the London listings was 69%, at Seraphine Hammersmith. Treat 75% as the ceiling rather than the expectation.
+Dayuse advertises **"up to 75% off"**; the biggest discount across the London listings was 69%, at Seraphine Hammersmith.
 
-**The pattern is worth understanding before you shop.** The biggest discounts are at the *expensive* hotels, not the cheap ones — 69% off at Seraphine Hammersmith and 66% at the Mandeville, against 24% at ibis Earls Court. A budget hotel has no margin to give away; a £300 room does. So day use is at its best when it buys you a hotel you would not otherwise book.
+The biggest discounts are at the *expensive* hotels: 69% off at Seraphine Hammersmith and 66% at the Mandeville, against 24% at ibis Earls Court. Day use is at its best when it buys you a hotel you would not otherwise book.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The windows, and how long you actually get
 
-A day-use booking is a **fixed window**, not a number of hours you choose. The hotel decides the slot and you take it or leave it.
+A day-use booking is a **fixed window**, not a number of hours you choose. The hotel sets the slot.
 
-There is far less choice in that than the category suggests. Across the London listings, **more than half of all windows open at 10am**, and the single commonest slot by a wide margin is **10am–5pm**. After that it thins out quickly: 10am–6pm, 10am–4pm, 9am–5pm and 10am–3pm cover most of the rest. If your day fits the standard shape you have 245 hotels to pick from; if it does not, the field narrows fast.
+Across the London listings, **more than half of all windows open at 10am**, and the commonest slot by a wide margin is **10am–5pm**. 10am–6pm, 10am–4pm, 9am–5pm and 10am–3pm cover most of the rest. If your day fits the standard shape you have 245 hotels to pick from; if it does not, the field narrows fast.
 
-**Most slots run seven or eight hours.** The shortest that exists anywhere is three, so despite the "hourly hotels" label this is not an hourly product in London — you cannot book one hour, or two. At the other end, a handful stretch to nine and one runs twelve.
-
-**The earliest opening is 7am and the latest closing is 11pm.** Between those, the practical shape of the day is: arrive mid-morning, leave before six.
+**Most slots run seven or eight hours.** The shortest anywhere is three, so you cannot book one hour or two. A handful stretch to nine and one runs twelve. **The earliest opening is 7am and the latest closing is 11pm.**
 
 ### Always take the longest window
 
-The length of the slot barely affects what it costs. Across the London listings a nine-hour window averages slightly *less* than a seven-hour one, and an eight-hour slot runs anywhere from £50 at ibis Heathrow to £272 at the Athenaeum. You are not buying hours — you are buying that hotel's room, and the price is set by the hotel, not the clock.
+Window length barely affects the price. Across the London listings a nine-hour window averages slightly *less* than a seven-hour one, and an eight-hour slot runs from £50 at ibis Heathrow to £272 at the Athenaeum. The hotel sets the price, not the clock.
 
-So if a hotel sells both 10am–3pm and 10am–5pm, **take the longer one**. It is usually the same price or a few pounds more, and a shorter slot almost never saves anything worth having.
+If a hotel sells both 10am–3pm and 10am–5pm, **take the longer one**. It is usually the same price or a few pounds more.
 
-It also means a low headline price can be poor value. MSM Arena's £52 is among the cheapest rates in London until you notice it buys three hours — which works out dearer per hour than the Mandeville, a considerably better hotel. **Divide by the hours before you compare anything.**
+A low headline price can be poor value: MSM Arena's £52 buys three hours, which works out dearer per hour than the Mandeville. **Divide by the hours before you compare.**
 
 ### Filtering for the window you need
 
-Dayuse's filter bar lets you set **time of arrival**, **time of departure** and **duration** independently, which is the fastest way to cut 245 hotels down to the handful that fit a specific gap. Set the arrival time first — it is the constraint that eliminates most of the list, because of that 10am pile-up.
+Dayuse's filter bar sets **time of arrival**, **time of departure** and **duration** independently. Set the arrival time first: it eliminates most of the list, because of the 10am pile-up.
 
 ## The four reasons people actually do it
 
-**The layover.** A nine-hour connection, or a 6am arrival against a 3pm check-in. This is the original use and still the main one — a bed, a shower and somewhere to leave a suitcase for less than the price of a night.
+**The layover.** A nine-hour connection, or a 6am arrival against a 3pm check-in: a bed, a shower and somewhere to leave a suitcase for less than the price of a night.
 
-**Somewhere to work.** A desk, a door, fast wifi and a shower, with no barista wondering when you are leaving. Marlin Waterloo's 7am–3pm and 8am–4pm windows are aimed squarely at this, and Waterloo is where the Southeastern and South Western trains arrive.
+**Somewhere to work.** A desk, a door, wifi and a shower. Marlin Waterloo's 7am–3pm and 8am–4pm windows suit this, and Waterloo is where the Southeastern and South Western trains arrive.
 
-**A pool or a spa afternoon.** Several listings include pool access, which is unusual to buy on its own in London. **Leonardo Royal Tower Bridge** and **Leonardo Royal St Pauls** both include it, as does Warren House out at Kingston.
+**A pool or a spa afternoon.** Several listings include pool access. **Leonardo Royal Tower Bridge** and **Leonardo Royal St Pauls** both include it, as does Warren House out at Kingston.
 
 **The late flight.** You checked out at 10am and fly at 10pm. Evening windows exist for exactly this — 4pm–10pm at Novotel London West and the Atrium, 4pm–11pm at DoubleTree Kingston, 3pm–9pm at Holiday Inn Express ExCeL, 2pm–8pm at the Wesley.
 
 ## Heathrow and Gatwick work differently
 
-**Heathrow has no cabin hotel.** The YOTELAIR that used to sit in Terminal 4 is gone — YOTEL's UK estate is now Gatwick, London City, Stratford, Edinburgh and Manchester, and none of those is at Heathrow. So day use there runs through the ordinary hotels on Bath Road and around the terminals:
+**Heathrow has no cabin hotel**, so day use there runs through the ordinary hotels on Bath Road and around the terminals:
 
 | Hotel | Day rate | Overnight | Window |
 | --- | --- | --- | --- |
@@ -108,19 +105,19 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 | **Holiday Inn Heathrow Bath Road** | £89 | £135 | 9am–6pm, 11am–7pm |
 | **Crowne Plaza Heathrow T4** | £95 | £145 | **7am–2pm**, 9am–6pm, 4pm–10pm |
 
-**Gatwick has YOTELAIR**, in the South Terminal, which sells its cabins **by the hour from a four-hour minimum** rather than in fixed windows — a different and often better model if your gap is an awkward length. Cabins are soundproofed with a rain shower, and the smallest is 7 sq m.
+**Gatwick has YOTELAIR**, in the South Terminal, which sells its cabins **by the hour from a four-hour minimum** rather than in fixed windows, which suits an awkward-length gap. Cabins are soundproofed with a rain shower, and the smallest is 7 sq m.
 
-**The thing to know about it: YOTELAIR Gatwick is landside, not airside.** It is under a minute from arrivals and you do not pass security to reach it — which is convenient if you are collecting bags and a problem if you assumed you could stay past security between flights. From the North Terminal, the free shuttle takes about two minutes.
+**YOTELAIR Gatwick is landside, not airside.** It is under a minute from arrivals and you do not pass security to reach it, so it is no use if you want to stay past security between flights. From the North Terminal, the free shuttle takes about two minutes.
 
 ## What to check before you book
 
-**When the window starts, not just how long it is.** This is the most common disappointment. Most open at 9am or 10am, and a 6am landing means three hours in the terminal either way.
+**When the window starts, not just how long it is.** Most open at 9am or 10am, so a 6am landing means three hours in the terminal either way.
 
-**Whether it says "payment at the hotel".** Most London day-use listings do, alongside free cancellation, which means you can hold a room for a delayed flight and let it go for nothing. A minority are prepaid — Hilton Paddington, Courtyard Heathrow, DoubleTree Kingston and Hilton Syon Park among them — and those carry real risk if your plans move.
+**Whether it says "payment at the hotel".** Most London day-use listings do, alongside free cancellation, so you can hold a room for a delayed flight and let it go for nothing. A minority are prepaid — Hilton Paddington, Courtyard Heathrow, DoubleTree Kingston and Hilton Syon Park among them — and those carry real risk if your plans move.
 
-**Whether the pool is included.** It is listed when it is, and it changes what you are buying.
+**Whether the pool is included.** It is listed when it is.
 
-**That the room is a normal room.** These are not stripped-down day products; you get the hotel's ordinary room, its bathroom and usually its facilities. What you do not get is the night.
+**The room.** You get the hotel's ordinary room and bathroom, and usually its facilities.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="day-rooms-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -130,6 +127,6 @@ Dayuse's filter bar lets you set **time of arrival**, **time of departure** and 
 
 **If your gap is under about three hours**, by the time you have reached the hotel and back you have spent most of it travelling. The exception is Gatwick, where YOTELAIR is inside the terminal.
 
-**If you want the night as well.** Day use is not a discount on an overnight stay, and booking both is two bookings at two prices. For an actual night, our [where to stay hub](/stay/) is the better starting point — and for a longer stay, an [aparthotel](/articles/aparthotels-london/) or a [capsule](/articles/pod-hotels-london/) will beat both.
+**If you want the night as well.** Booking both is two bookings at two prices. For an actual night, our [where to stay hub](/stay/) is the better starting point — and for a longer stay, an [aparthotel](/articles/aparthotels-london/) or a [capsule](/articles/pod-hotels-london/) will beat both.
 
-*Rates and windows read off Dayuse.co.uk on 7 September 2026, with the discount shown against each hotel's own quoted overnight rate. YOTELAIR details from YOTEL's own site the same day. Day-use prices move like any other hotel rate — treat these as the shape of the market, not a quote.*
+*Rates and windows are from Dayuse.co.uk, with the discount shown against each hotel's own quoted overnight rate; YOTELAIR details are from YOTEL's own site. Day-use prices move like any other hotel rate.*
