@@ -5,7 +5,8 @@ description: "Eight venues named by two or more independent sources, with what e
 heroImage: "../../assets/articles/best-hot-chocolate-london/italian-bear-chocolate-hero.webp"
 heroImageAlt: "A cup of thick Italian hot chocolate dusted with cocoa, the cup lined with melted chocolate that has run down the outside and pooled on the saucer"
 publishedAt: 2026-09-07
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -13,22 +14,20 @@ tags: [restaurants, cafes, chocolate, dining, winter]
 draft: false
 faq:
   - q: "Where is the best hot chocolate in London?"
-    a: "Italian Bear Chocolate on Broadwick Street is named by more independent sources than anywhere else — nine of the twelve read for this page — with Dark Sugars on Brick Lane on eight and Chin Chin in Soho on six. No judged award exists for hot chocolate in Britain, so there is no winner in the sense a Michelin star would mean; this is a count of who names what."
+    a: "Italian Bear Chocolate on Broadwick Street is named by more independent sources than anywhere else — nine of the twelve read for this page — with Dark Sugars on Brick Lane on eight and Chin Chin in Soho on six."
   - q: "How much does a hot chocolate cost in London?"
     a: "Between about £4 and £6 at the places worth going to. Knoops starts at £4, Chin Chin's marshmallow-topped one is £4.95, Mamasons' ube version is £5 and Italian Bear starts at £4.90. The outlier is The Chocolate Cocktail Club at £32 a head, which is a bottomless drinking experience rather than a cup of anything."
-  - q: "What is the thickest hot chocolate in London?"
-    a: "Italian Bear Chocolate on Broadwick Street, which pours a triple-layered cup closer to warm ganache than to a drink — thick enough that a spoon is the sensible tool. It occupies the Soho premises that used to be Said dal 1923, which had the same reputation for the same reason."
-  - q: "Which London hot chocolate is best with children?"
+  - q: "Where can you get a thick, spoonable hot chocolate in London?"
+    a: "Italian Bear Chocolate on Broadwick Street, which pours a triple-layered cup closer to warm ganache than to a drink, thick enough that a spoon is the sensible tool."
+  - q: "Which London hot chocolate suits children?"
     a: "Chin Chin on Greek Street, where the marshmallow is blowtorched at the counter in front of you, and Mamasons in Chinatown for the bright purple ube cocoa. Both are small and busy, so they suit a walk-and-drink rather than a long stop."
   - q: "Can you choose how dark your hot chocolate is?"
     a: "At Knoops, yes. Its own menu runs nine cocoa percentages from 28% to 100%, and you pick the number rather than a flavour. There are five London stores — Chelsea, Covent Garden, Kensington, Knightsbridge and Notting Hill."
 ---
 
-**London's best hot chocolate is not a drink you sip.** At the top of this list it is closer to melted ganache in a cup, thick enough that the spoon is doing real work, and at £4 to £6 it is one of the few things in central London that has barely moved in price.
+At the top of this list hot chocolate is closer to melted ganache in a cup, thick enough that the spoon does real work, and it costs £4 to £6. Every venue is ranked by how many independent lists, blogs and video reviews name it.
 
-This page is not our opinion. Every venue is ranked by how many independent lists, blogs and video reviews name it.
-
-> 💡 **The Short Version:** **[Italian Bear Chocolate](#italian-bear-chocolate)** on Broadwick Street is named by more sources than anywhere else: a triple-layered cup closer to warm ganache than a drink, from £4.90. **[Dark Sugars](#dark-sugars-cocoa-house)** on Brick Lane grates chocolate over the cup until the first inch is solid shavings. **[Chin Chin Dessert Club](#chin-chin-dessert-club)** in Soho blowtorches a fist-sized marshmallow on top for £4.95. **[Knoops](#knoops)** lets you order by cocoa percentage, nine of them from 28% to 100%, from £4. None take bookings, and Italian Bear, Dark Sugars and Chin Chin queue at weekends, so go on a weekday afternoon.
+> 💡 **The Short Version:** **[Italian Bear Chocolate](#italian-bear-chocolate)** on Broadwick Street is named by more sources than anywhere else: a triple-layered cup closer to warm ganache than a drink, from £4.90. **[Dark Sugars](#dark-sugars-cocoa-house)** on Brick Lane grates chocolate over the cup until the first inch is solid shavings. **[Chin Chin Dessert Club](#chin-chin-dessert-club)** in Soho blowtorches a fist-sized marshmallow on top for £4.95. **[Knoops](#knoops)** lets you order by cocoa percentage, nine of them from 28% to 100%, from £4. Only Italian Bear takes bookings; Dark Sugars and Chin Chin queue at weekends, so go on a weekday afternoon.
 
 > 📊 **The evidence behind this guide.**
 > **12 sources carrying 67 citations** across **39 named venues**. **Eight venues are named by two or more independent sources.**
@@ -36,7 +35,7 @@ This page is not our opinion. Every venue is ranked by how many independent list
 > *Evidence rebuilt 7 September 2026 · [How we rank →](/how-we-rank/)*
 
 > ⏱️ **When to go.**
-> None of these take bookings — they are counters and shops rather than restaurants, so turning up is the only way in. Two things decide whether that works: **Andrea's opens at weekends only**, and **Dark Sugars, Chin Chin and Italian Bear all queue at weekends**. Go on a weekday afternoon and you walk straight in.
+> Only Italian Bear takes bookings; the rest are counters and shops where you turn up. **Andrea's opens at weekends only**, and **Dark Sugars and Chin Chin queue at weekends**. On a weekday afternoon you walk straight in.
 
 ---
 
@@ -50,11 +49,11 @@ This page is not our opinion. Every venue is ranked by how many independent list
 
 *Italian Bear's hot chocolate.*
 
-**41 Broadwick Street, W1F 9QL.** The thick Italian style, poured in three layers so the cup arrives striped, and dense enough that it behaves more like warm ganache than a drink. From **£4.90**. One reviewer's description — "poured triple-layered and overflowing" — is the whole proposition.
+**41 Broadwick Street, W1F 9QL.** The thick Italian style, poured in three layers so the cup arrives striped, and dense enough that it behaves more like warm ganache than a drink. From **£4.90**.
 
-It is a narrow shop with a handful of stools rather than a café, so most people take the cup out onto Broadwick Street and drink it standing up. **No booking; weekday afternoons are calm, and Saturdays queue onto the pavement.**
+Open 9am to 11pm Monday to Saturday and 9am to 10.30pm on Sunday. **Tables can be booked**, and there is a second shop at 29 Rathbone Place, W1T 1JG.
 
-> 💡 **This is the old Said dal 1923 site.** Said had a near-identical reputation for spoon-thick chocolate at the same address, and several lists still name it. Italian Bear took the premises over, which is why the two names resolve to one shop — and why merging them makes this the most-cited hot chocolate in London.
+> 💡 **This is the old Said dal 1923 site.** Several lists still name Said dal 1923, which was at the same address.
 
 ---
 
@@ -70,9 +69,9 @@ It is a narrow shop with a handful of stools rather than a café, so most people
 
 *Dark Sugars' hot chocolate.*
 
-**141 Brick Lane, E1 6SB.** Chocolate is grated over frothed milk in front of you and the cup arrives buried under shavings — three kinds, piled high enough that the first inch is solid. The shop makes 72 of its own chocolates and works with Ghanaian cocoa, and Time Out's line is that you smell it before you see it.
+**141 Brick Lane, E1 6SB.** Chocolate is grated over frothed milk in front of you and the cup arrives buried under shavings — three kinds, piled high enough that the first inch is solid. The shop makes 72 of its own chocolates and works with Ghanaian cocoa.
 
-Standing room only, with truffles heaped in mango-leaf bowls along the counter. **It is the busiest place on this page at weekends**, when Brick Lane's markets run.
+Standing room only. **It is busy at weekends**, when Brick Lane's markets run.
 
 ### Chin Chin Dessert Club
 
@@ -82,9 +81,9 @@ Standing room only, with truffles heaped in mango-leaf bowls along the counter. 
 
 *The blowtorched marshmallow at Chin Chin.*
 
-**54 Greek Street, W1D 3DS.** A paper cup topped with a handmade marshmallow the size of a fist, blowtorched at the counter until it chars and slumps. **£4.95**, with a vegan version done in raspberry and apricot. The same kitchen makes nitrogen ice cream, which is what the shop is better known for.
+**54 Greek Street, W1D 3DS.** A paper cup topped with a handmade marshmallow the size of a fist, blowtorched at the counter until it chars and slumps. **£4.95**, with a vegan version done in raspberry and apricot. The same kitchen makes nitrogen ice cream.
 
-Tiny, loud and built for a queue rather than a sit-down. **The blowtorching is the visit** — it happens in front of you and takes about ten seconds, which is why this is the one to bring children to.
+Tiny, loud and built for a queue rather than a sit-down. **The blowtorching** happens in front of you and takes about ten seconds, which suits children.
 
 ### Knoops
 
@@ -94,25 +93,25 @@ Tiny, loud and built for a queue rather than a sit-down. **The blowtorching is t
 
 *A Knoops iced chocolate.*
 
-**2 New Row, WC2N 4LH.** You order by number, not by flavour: its own menu runs **nine cocoa percentages — 28, 34, 38, 43, 54, 65, 70, 80 and 100%** — and the same drink tastes like four different things across that range. From **£4**. Ask for 70% if you have no idea; 100% is bitter and not a beginner's cup. The same percentages are sold iced too, which helps in summer.
+**2 New Row, WC2N 4LH.** You order by number, not by flavour: its own menu runs **nine cocoa percentages — 28, 34, 38, 43, 54, 65, 70, 80 and 100%** — and the same drink tastes like four different things across that range. From **£4**. Ask for 70% if you have no idea; 100% is bitter. The same percentages are sold iced.
 
-Small, bright and counter-led, with a few seats. **Five London stores** — Chelsea, Covent Garden, Kensington, Knightsbridge and Notting Hill — so this is the one you can reach from most of west and central London.
+Small, with a few seats. **Five London stores**: Chelsea, Covent Garden, Kensington, Knightsbridge and Notting Hill.
 
 ### Mamasons Dirty Ice Cream
 
 *£ · Chinatown · 2 min from Leicester Square · Cited by 3 sources*
 
-**32 Newport Court, WC2H 7PQ.** The ube hot cocoa, **£5**, made with purple yam so it arrives a startling violet — the only drink on this page that is not brown. Filipino desserts are the main business; the cocoa is the winter version of the ice cream.
+**32 Newport Court, WC2H 7PQ.** The ube hot cocoa, **£5**, made with purple yam so it arrives violet. Filipino ice cream is the main business.
 
-A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday and Saturday nights that is mostly there for the ice cream. **It opens late** — when the Soho counters have shut, this one has not, which makes it the answer after a show or a late dinner in Chinatown.
+A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday and Saturday nights that is mostly for the ice cream. **It opens late**, which suits after a show or a late dinner in Chinatown.
 
 ### Andrea's Hot Chocolate
 
 *£ · Columbia Road · 10 min from Hoxton · Cited by 2 sources · [andreacacao.com](http://andreacacao.com/)*
 
-**The Courtyard, Ezra Street, E2 7RH.** A single-origin specialist tucked behind Columbia Road, and the most serious cup on this page about the cocoa itself rather than what is piled on top.
+**The Courtyard, behind Milagros Mexican shop, 61 Columbia Road, E2 7RG.** A single-origin specialist, open **Sundays 10am to 4pm** at Columbia Road, where the flower market runs. It also trades on Sundays 10am to 4pm in Victoria Park, between Bonner Gate and Gore Road, and on Saturdays 10am to 4pm in Lloyd Park, Walthamstow.
 
-**It opens weekends only — closed Monday to Friday.** That is not a quirk, it is the whole plan: Ezra Street sits beside the Columbia Road flower market, which runs on Sundays, and the shop trades to that crowd. Turn up midweek and you will find it shut.
+**Weekends only; nothing Monday to Friday.**
 
 ### Melt Chocolates
 
@@ -122,9 +121,9 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 *Melt's chocolate counter.*
 
-**59 Ledbury Road, W11 2AA.** A working chocolate kitchen with the counter at the front, so the drink is made from the same chocolate being tempered a few feet behind it. Boxed chocolates, slabs and hampers are the main business — the shop sorts its gifting by price, from under £25 upwards — and the hot chocolate is what you drink while choosing them.
+**59 Ledbury Road, W11 2AA.** A working chocolate kitchen with the counter at the front, so the drink is made from the same chocolate being tempered a few feet behind it. Boxed chocolates, slabs and hampers are the main business, and the hot chocolate is what you drink while choosing them.
 
-**No booking and no queue.** That makes it the calmest room on this page by some distance, and the one to choose if you want to sit down with the cup rather than carry it down the street.
+**No booking and no queue.** The one to choose if you want to sit down with the cup.
 
 ### Badiani
 
@@ -134,9 +133,9 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 *Badiani's hot chocolate.*
 
-**2 Mercer Walk, WC2H 9QP.** A Florentine gelateria trading since 1932, whose hot chocolate comes out thick and dessert-like — no surprise from a business built on gelato rather than on drinks. The cocoa is the cold-weather line here, not the reason the counter is busy in July.
+**2 Mercer Walk, WC2H 9QP.** A Florentine gelateria trading since 1932, whose hot chocolate comes out thick and dessert-like.
 
-**No booking, and it is a counter**, so most people take the cup out into Mercer Walk. Fine if you are already in Covent Garden; not a journey when Italian Bear is fifteen minutes away.
+**No booking, and it is a counter**, so most people take the cup out into Mercer Walk.
 
 > ⚠️ **Sources name Badiani as a brand, not a branch.** There are several London sites and this is the Covent Garden one. Check which you are heading for.
 
@@ -144,16 +143,14 @@ A narrow Chinatown shopfront with almost nowhere to sit, and a queue on Friday a
 
 ## What the widely-shared list gets wrong
 
-The page that ranks highest for this search on most days is Time Out's, and **it is dated 28 October 2022**. Four years on, this is where its names stand:
+Time Out's list is dated **28 October 2022**. This is where its names stand now:
 
-| Time Out's names, September 2026 | |
+| Time Out's 2022 names | |
 | --- | --- |
 | **Closed** | Paul A Young Fine Chocolates, Ruby Violet, DeRosier, Rabot 1745 |
 | **Still trading** | Chin Chin, Dark Sugars, Italian Bear, Melange, Farm Girl, The Haberdashery, Kapihan, The Parlour at Fortnum & Mason |
 
-**Four have closed in four years.** Paul A Young was the best-known chocolatier on it, and Rabot 1745 was Hotel Chocolat's Borough Market café.
-
-The corroboration test is what protects against this. Every venue in the section above is named by at least two independent sources **and** confirmed trading — which is why Time Out's list and The Infatuation's current one share not a single name between them.
+**Four have closed in four years.** Rabot 1745 was Hotel Chocolat's Borough Market café.
 
 ---
 
@@ -161,11 +158,11 @@ The corroboration test is what protects against this. Every venue in the section
 
 Everything on this page except Melt sits in the **£4 to £6** band, which makes price a poor way to choose. The cheap end:
 
-- 💷 **[Knoops](#knoops)** — from **£4**, and the 28% is the cheapest way to find out whether you even like the strong stuff
-- 💷 **[Italian Bear Chocolate](#italian-bear-chocolate)** — from **£4.90** for the thickest cup in London
+- 💷 **[Knoops](#knoops)** — from **£4**
+- 💷 **[Italian Bear Chocolate](#italian-bear-chocolate)** — from **£4.90** for the triple-layered cup
 - 💷 **[Chin Chin Dessert Club](#chin-chin-dessert-club)** — **£4.95** including the blowtorched marshmallow
 
-The one to know about rather than book: **The Chocolate Cocktail Club** runs bottomless chocolate cocktails at **£32 a head**. It is an evening out, not a hot chocolate.
+The one to know about rather than book: **The Chocolate Cocktail Club** runs bottomless chocolate cocktails at **£32 a head**. It is an evening out rather than a hot chocolate.
 
 ---
 
@@ -185,11 +182,11 @@ The one to know about rather than book: **The Chocolate Cocktail Club** runs bot
 
 ## Booking essentials
 
-**Nothing on this page takes bookings.** They are shops and counters, and the whole category works on walking in. Three things decide the trip instead:
+**Only Italian Bear takes bookings.** The rest are shops and counters where you walk in.
 
 - **Andrea's is weekends only.** Closed Monday to Friday.
-- **Weekend queues** at Dark Sugars, Chin Chin and Italian Bear. A weekday afternoon is a different experience entirely.
-- **Most of these have almost nowhere to sit.** If you want a table rather than a paper cup, Melt in Notting Hill is the one.
+- **Weekend queues** at Dark Sugars and Chin Chin. A weekday afternoon is quieter.
+- **Most of these have almost nowhere to sit.** For a table, book Italian Bear or go to Melt in Notting Hill.
 
 ---
 
@@ -200,5 +197,3 @@ The one to know about rather than book: **The Chocolate Cocktail Club** runs bot
 - ☕ **[Best coffee in London](/articles/best-coffee-london/)** — the other winter drink
 - 🧋 **[Best bubble tea in London](/articles/best-bubble-tea-london/)** — the summer counter drink, several of them round the corner from Chin Chin
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights and what is worth queueing for
-
-*Prices, addresses and trading status checked on 7 September 2026. Source counts are derived from data/consensus/hot-chocolate.json, not typed by hand.*
