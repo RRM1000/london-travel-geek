@@ -3,8 +3,8 @@ title: "Paultons Park from London: Peppa Pig World, Tickets, Trains and Height L
 seoTitle: "Paultons Park from London: Tickets, Trains, Rides"
 description: "Paultons Park, home of Peppa Pig World, is £46.75 a person booked ahead in October 2026 and £61.50 on the day, with under-1m children free and parking free. The train and bus from Waterloo, every height limit, the new Valgard coasters and the closed dates."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
-reviewBy: 2027-01-03
+updatedAt: 2026-10-26
+reviewBy: 2026-11-03
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -33,7 +33,7 @@ faq:
 
 **Paultons Park costs £46.75 a person booked ahead for October 2026, children under 1 metre go free, and parking is free.** Book on the day and the same ticket is £61.50. Adults and children pay the same, so a family of two adults and two children over 1m pays £187 for an October day.
 
-It is a family-run park of more than 70 rides and attractions on 140 acres at the edge of the New Forest, near Romsey, and it is home to the UK's only Peppa Pig World. It is not owned by Merlin, so a Merlin Annual Pass does not get you in.
+It is a family-run park of more than 70 rides and attractions on 140 acres at the edge of the New Forest, near Romsey, and it is home to Peppa Pig World. It is not owned by Merlin, so a Merlin Annual Pass does not get you in.
 
 > 💡 **The Short Version:** **Built for families with children under 14**: Peppa Pig World is aimed at ages 1 to 6, and the new **Valgard** coasters give older children something bigger. **Tickets £46.75 online in advance in October 2026, £61.50 booked on the day; under 1m free.** By **train from Waterloo to Southampton Central (about 1 hour 20) and the X7 bus (£3)**, or a **£20 pre-booked taxi**. **Parking is free.** **The traps: the X7 does not run on Sundays**, and the park is shut on November weekdays, from **4 January to 5 February 2027**, and on most term-time weekdays in February and March.
 
@@ -48,13 +48,13 @@ It is a family-run park of more than 70 rides and attractions on 140 acres at th
 | Christmas event, two consecutive days | £61.50 | £75.50 |
 | **Under 1 metre**, measured in shoes | Free, no ticket needed | Free |
 
-*Per person, adult or child, from Paultons Park's own booking system.*
+*Per person, adult or child.*
 
 **Tickets are sold online only, and booking on the day of the visit costs almost a third more.** All the tickets in a booking enter together. There is no family ticket and no child rate; wheelchair users need a ticket too, and Access Card holders can buy an Essential Companion ticket that takes a discount off the carer.
 
 **Tickets are non-refundable, and changing the date costs £20** through [Paultons' date-change page](https://paultonspark.co.uk/tickets/change-visit-date/), up to midnight the night before, plus any price difference.
 
-**Two days is the usual advice in the school holidays.** Paultons suggests a first day in Peppa Pig World and a second for the rest of the park. The two-day ticket costs £23.25 more than one day in October 2026.
+**In the school holidays Paultons suggests two days**, the first in Peppa Pig World and the second for the rest of the park. The two-day ticket costs £23.25 more than one day in October 2026.
 
 ### Annual passes
 
@@ -106,8 +106,8 @@ The postcode is **SO51 6AL**, just off **junction 2 of the M27**; from London, t
 
 | Period | Days | Hours |
 | --- | --- | --- |
-| **October 2026** | Daily except 6 and 7 October | 10:30 to 16:30 on term-time weekdays, 10:00 to 17:00 at weekends and in half-term |
-| **Halloween Spooktacular** | 9 October to 2 November 2026 | Late opening to 19:30 on 17, 23, 24, 27, 28 and 29 October |
+| **October 2026** | Daily | 10:30 to 16:30 on term-time weekdays, 10:00 to 17:00 at weekends and in half-term |
+| **Halloween Spooktacular** | 9 October to 2 November 2026 | Late opening to 19:30 on 27, 28 and 29 October |
 | **November 2026** | Weekends only, 7 to 29 November | 10:30 to 16:00, selected rides |
 | **A Celebration of Christmas** | 5–6, 12–14 and 18–24 December 2026, 27–31 December, 2–3 January 2027 | 10:00 to 16:30 |
 | **February and March 2027** | 6–7 February, then Fridays to Mondays from 12 February; daily 13 to 22 February | 10:00 or 10:30 to 16:30 |
@@ -126,7 +126,7 @@ The postcode is **SO51 6AL**, just off **junction 2 of the M27**; from London, t
 The park is split into six themed areas, set among gardens, lakes and an animal collection of more than 90 species.
 
 - **Peppa Pig World** is included in every ticket and built for ages 1 to 6: nine rides, including Peppa's Big Balloon Ride, Grandpa Pig's Little Train and Miss Rabbit's Helicopter Flight, plus the Muddy Puddles splash park, George's Spaceship indoor playzone and Peppa and George to meet every day the park is open.
-- **Valgard: Realm of the Vikings**, opened on 16 May 2026, is the park's biggest addition. **Drakon** climbs a vertical lift hill, drops beyond vertical and turns riders upside down twice, the first coaster at Paultons to invert. **Raven** is the park's old bobsled coaster rebuilt and rethemed, and **Vild Swing** swings riders 12 metres up.
+- **Valgard: Realm of the Vikings** opened on 16 May 2026. **Drakon** climbs a vertical lift hill, drops beyond vertical and turns riders upside down twice, the first coaster at Paultons to invert. **Raven** is the park's old bobsled coaster rebuilt and rethemed, and **Vild Swing** swings riders 12 metres up.
 - **Lost Kingdom** is dinosaurs: **Velociraptor**, a boomerang coaster at up to 40mph, **Flight of the Pterosaur**, the gentler **Dino Chase** coaster and the Dinosaur Tour Co., a 4x4 ride through the dinosaurs.
 - **Tornado Springs** is the Wild West: the spinning **Storm Chaser** coaster, **Cyclonator**, which swings riders to 25 metres, and **Al's Auto Academy**, a driving school for children from 80cm.
 - Across the rest of the park: **Edge**, a giant disc that spins along a 90-metre track at 43mph, the **Buffalo Falls** rapids, **Sky Swinger**, **Kontiki** and a **Pirate Ship**.
@@ -160,7 +160,7 @@ The park is split into six themed areas, set among gardens, lakes and an animal 
 
 *From each ride's page on [paultonspark.co.uk](https://paultonspark.co.uk/rides/). A responsible adult is 16 or over.*
 
-**The rules here are about age as well as height.** A tall five-year-old still cannot ride Edge or Cyclonator, and under-8s need an adult on most of the bigger rides. A child under 1 metre gets in free and can ride every Peppa Pig World ride (George's Dinosaur Adventure needs 85cm), plus the many rides with no minimum height, including Ghostly Manor, the Rio Grande Train, the Victorian Carousel, the Dinosaur Tour Co. and the Viking Boats.
+**Age counts as well as height.** A tall five-year-old still cannot ride Edge or Cyclonator, and under-8s need an adult on most of the bigger rides. A child under 1 metre gets in free and can ride every Peppa Pig World ride (George's Dinosaur Adventure needs 85cm), plus the many rides with no minimum height, including Ghostly Manor, the Rio Grande Train, the Victorian Carousel, the Dinosaur Tour Co. and the Viking Boats.
 
 **Tot Swap** lets one parent ride while the other waits with a small child, then swap in through the exit without queueing again, on Edge, Sky Swinger, the Pirate Ship, Kontiki, Cat-O-Pillar, Flight of the Pterosaur, Velociraptor, Storm Chaser, Cyclonator, Windmill Towers and Al's Auto Academy. Ask the ride operator for the ticket as you get off; it is valid for 10 minutes.
 
@@ -170,11 +170,11 @@ The park is split into six themed areas, set among gardens, lakes and an animal 
 
 ## Queues
 
-**Queues at Paultons are short by theme-park standards.** Across 2025, queue-times.com, which logs each park's official wait times, recorded average waits of **5 to 12 minutes** a ride. The longest averages were George's Dinosaur Adventure and Grampy Rabbit's Sailing Club, both in Peppa Pig World, at 12 minutes, with Miss Rabbit's Helicopter Flight and The Queen's Flying Coach at 11.
+Across 2025, queue-times.com, which logs each park's official wait times, recorded average waits of **5 to 12 minutes** a ride. The longest averages were George's Dinosaur Adventure and Grampy Rabbit's Sailing Club, both in Peppa Pig World, at 12 minutes, with Miss Rabbit's Helicopter Flight and The Queen's Flying Coach at 11.
 
-**The busiest days are school holidays.** The same data put August at 76% of capacity on average against 21% in December, and Saturdays highest at 53%; the late-night Halloween openings averaged 86%, the busiest of any event. All ten of the busiest days of 2025 fell in August, October half-term or the Easter holidays.
+**The busiest days are school holidays.** The same data put August at 76% of capacity on average against 21% in December, and all ten of the busiest days of 2025 fell in August, October half-term or the Easter holidays.
 
-**Do Peppa Pig World first or last.** Paultons' own advice for the holidays is to go there at 10:00 before queues build, or come back after 16:00, and to do Miss Rabbit's Helicopter Flight and George's Dinosaur Adventure first because they fill quickly. Spend the middle of the day on the rest of the park.
+**Do Peppa Pig World first or last.** In the holidays Paultons advises going there at 10:00 before queues build, or coming back after 16:00, and doing Miss Rabbit's Helicopter Flight and George's Dinosaur Adventure first because they fill quickly. Spend the middle of the day on the rest of the park.
 
 **Fast track is only sold inside VIP packages**, from **£285 a person** for Bronze, with entry, priority parking for two cars, a host and unlimited fast-track rides. It cannot be bought on its own.
 
@@ -189,11 +189,11 @@ The park is split into six themed areas, set among gardens, lakes and an animal 
 - **Lockers**: all-day lockers by Guest Information at the entrance and by the Buffalo Falls photo kiosk, card only, £4 regular and £6 large; single-use lockers at Water Kingdom and Lost Kingdom are £1.
 - **Strollers** can be hired, £12 single or £15 double, booked online.
 - **Pet dogs are not allowed**; assistance dogs are welcome.
-- **Wear shoes.** Children are measured in them, and the free-entry rule is 1 metre in shoes.
+- **Wear shoes.** Children are measured in them.
 
 ## Halloween and Christmas
 
-**Halloween Spooktacular runs from 9 October to 2 November 2026**, included in the normal ticket. It is pitched at families rather than scare fans: Peppa and George in Halloween costumes, The Great Halloween Mystery show from 17 October, the Ghostly Manor dark ride, and Viking characters, magic and storytelling in Valgard from 15:00, with a fire show on selected dates. The **late openings to 19:30** on 17, 23, 24, 27, 28 and 29 October cost nothing extra; Peppa Pig World still closes at 18:00. **Water Kingdom, Muddy Puddles and Seal Falls are shut throughout**, Velociraptor until 11 October and Sky Swinger from 12 to 18 October. Our [Halloween in London guide](/articles/halloween-london/) covers the scare events closer to town.
+**Halloween Spooktacular runs from 9 October to 2 November 2026**, included in the normal ticket. It is pitched at families rather than scare fans: Peppa and George in Halloween costumes, The Great Halloween Mystery show, the Ghostly Manor dark ride, and Viking characters, magic and storytelling in Valgard from 15:00, with a fire show on selected dates. The **late openings to 19:30** on 27, 28 and 29 October cost nothing extra; Peppa Pig World still closes at 18:00. **Water Kingdom, Muddy Puddles and Seal Falls are shut throughout.** Our [Halloween in London guide](/articles/halloween-london/) covers the scare events closer to town.
 
 **A Celebration of Christmas runs on the dates in the opening table, 5 December 2026 to 3 January 2027.** Peppa Pig World, Valgard, Tornado Springs and Lost Kingdom's rides run; Edge, Cat-O-Pillar, the water rides and a few others close for winter maintenance. Santa's Storytime runs until 24 December, and Santa's Grotto is an extra booked with your ticket before the day. More festive days out are in our [Christmas in London guide](/articles/christmas-in-london/).
 
@@ -201,7 +201,7 @@ The park is split into six themed areas, set among gardens, lakes and an animal 
 
 **There is no hotel at Paultons.** Its official short breaks, sold as [Paultons Breaks](https://www.paultonsbreaks.com/) and run by Holiday Extras, package a nearby hotel with park tickets and add **a second park day free**. They start **from £48 a person a night**. The partner hotels range from 3 to 37 miles from the park, from Southampton and the New Forest to Winchester and Basingstoke, so check the distance before you pick one.
 
-Southampton is the obvious base if you arrive by train: the X7 leaves from beside Southampton Central, and the taxi is £20.
+Southampton is the base if you arrive by train: the X7 leaves beside Southampton Central.
 
 <div data-stay-strip></div>
 
@@ -213,7 +213,7 @@ Southampton is the obvious base if you arrive by train: the X7 leaves from besid
 - **Bringing a Merlin pass.** Paultons is independent; Merlin passes are not accepted.
 - **Expecting to buy fast track.** It only comes inside VIP packages.
 - **Measuring a toddler barefoot.** The 1 metre free-entry line is measured in shoes.
-- **Following the M27 east to Portsmouth.** From the M3, bear left onto the M27 west towards Southampton and Bournemouth.
+- **Following the M27 east to Portsmouth.** Take it west.
 
 ## Continue planning your London trip
 
