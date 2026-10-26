@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=155127135"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-06-14
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -31,7 +31,7 @@ faq:
 
 Every hotel in this guide is within a few minutes' walk of the Thames path between County Hall and London Bridge. The London Eye, Tate Modern, Shakespeare's Globe and Borough Market are all on foot, and Westminster and the City are one bridge away.
 
-What changes along the river is the station, and that is what should decide where you book. **Waterloo** at the western end is the Jubilee, Northern and Bakerloo interchange, with mainline trains out of the same building. **London Bridge** at the eastern end has Thameslink straight to Gatwick and St Pancras. **Bankside**, between them, has Southwark station on the Jubilee line and the quietest streets of the three.
+**Waterloo** at the western end is the Jubilee, Northern and Bakerloo interchange, with mainline trains out of the same building. **London Bridge** at the eastern end has Thameslink straight to Gatwick and St Pancras. **Bankside**, between them, has Southwark station on the Jubilee line and the quietest streets of the three.
 
 > 💡 **The Short Version:** **[Sea Containers London](hotelscom:474803)** is the riverside hotel, but only its Riverview grades face the Thames. **[Park Plaza Westminster Bridge](hotelscom:h3113039)** is the big family option, with a 15-metre pool and 36 m² studios that sleep two adults and two children. **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 with Seabird on the roof. **[citizenM Bankside](hotel:citizenm-bankside)** is from £155 for a small room with a very large bed, and the **[Premier Inn at County Hall](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html)** has been as low as £92 on a quiet Sunday. On a budget, a **double capsule at [St Christopher's Village](hotel:st-christophers-village)** by Borough Market sleeps two from £53.
 
@@ -87,7 +87,7 @@ The **15-metre indoor pool** is for residents and spa guests only and works on a
 
 *£92 to £295 on five sampled nights · Belvedere Road, SE1 7PB · Waterloo 7 min · [Premier Inn's site](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html)*
 
-The same Grade II listed building as the Marriott, round the corner on Belvedere Road, at a fraction of the price. Every room has blackout curtains and air conditioning. **Family rooms take two adults and two children**, and up to two children eat breakfast free with each adult who buys one.
+In the same Grade II listed building as the Marriott, round the corner on Belvedere Road. Every room has blackout curtains and air conditioning. **Family rooms take two adults and two children**, and up to two children eat breakfast free with each adult who buys one.
 
 <div class="photo-row">
 
@@ -99,7 +99,7 @@ The same Grade II listed building as the Marriott, round the corner on Belvedere
 
 *A family room at Premier Inn County Hall.*
 
-Prices swing widely: **£92 on a Sunday three weeks out, £208 on a Saturday a month out and £295 on the second Saturday in December**. There is no on-site parking; Waterloo Car Park on York Road is £20 for 24 hours. Hotels.com does not sell Premier Inn, so book on Premier Inn's own site.
+Prices swing widely: **£92 on a Sunday, £208 on a Saturday and £295 on the second Saturday in December**. There is no on-site parking; Waterloo Car Park on York Road is £20 for 24 hours. Hotels.com does not sell Premier Inn, so book on Premier Inn's own site.
 
 ### H10 London Waterloo — the rooftop bar with the London Eye in view
 
@@ -137,7 +137,7 @@ A hostel above a bar that draws locals as well as guests, ten minutes' walk from
 
 *£££ · 359 rooms and suites · 20 Upper Ground, SE1 9PD · Southwark 5 min, Blackfriars 7 min · [Hotels.com](hotelscom:474803)*
 
-Warren Platner designed the building as a hotel in 1974; it opened as offices instead and only became a hotel in 2014. It sits on the river between the OXO Tower and Blackfriars Bridge, with Tom Dixon interiors on a 1920s ocean-liner theme and a riverside entrance straight off the Thames path.
+Sea Containers sits on the river between the OXO Tower and Blackfriars Bridge, with Tom Dixon interiors on a 1920s ocean-liner theme and a riverside entrance straight off the Thames path.
 
 **Read the grades before you book.** Standard rooms promise no view; Superior rooms look over the skyline; the **Riverview Deluxe rooms are the first to sit over the Thames**, behind wall-to-wall windows. The Superior Double Double has two double beds and sleeps four, and the Riverview Balcony Suite has a private balcony over the river.
 
@@ -151,7 +151,7 @@ Warren Platner designed the building as a hotel in 1974; it opened as offices in
 
 *A Riverview room at Sea Containers.*
 
-The building carries the evening: **12th Knot** on the roof (Tuesday to Saturday, over-18s, terrace closes at 10pm), **Lyaness** cocktail bar, Gordon Ramsay at Sea Containers on the ground floor, the agua spa, a 24-hour gym and a 56-seat Curzon cinema. Check-in is 3pm, check-out noon, and dogs up to 20lb are welcome.
+In the building: **12th Knot** on the roof (Tuesday to Saturday, over-18s, terrace closes at 10pm), **Lyaness** cocktail bar, Gordon Ramsay at Sea Containers on the ground floor, the agua spa, a 24-hour gym and a 56-seat Curzon cinema. Check-in is 3pm, check-out noon, and dogs up to 20lb are welcome.
 
 ### Bankside Hotel — 161 rooms and an artist in residence
 
@@ -175,7 +175,7 @@ The entry **Modest rooms are 21 to 25 m² with a queen bed**. The ones to know a
 
 *3–7 Stamford Street, SE1 9NY · Southwark 4 min · [Hotels.com](hotelscom:h984512)*
 
-A Fuller's pub with 30 rooms upstairs, on Stamford Street just south of Blackfriars Bridge. Downstairs is an Ale & Pie pub serving breakfast from 7am on weekdays and pies until 9.30pm. **The doubles have a bath** as well as a shower, and rooms vary in size because of the old building.
+A Fuller's pub with 30 rooms upstairs, on Stamford Street just south of Blackfriars Bridge. Downstairs is an Ale & Pie pub serving breakfast from 7am on weekdays and pies until 9.30pm. **The doubles have a bath** as well as a shower, and rooms vary in size.
 
 ![A double room at The Mad Hatter with peacock-pattern wallpaper, a draped fabric canopy over the bed, a floral wingback chair and a patterned divan base](../../assets/articles/where-to-stay-south-bank/the-mad-hatter-room.jpg)
 
@@ -287,7 +287,7 @@ A small Premier Inn on Park Street, between the river and Borough Market. It has
 
 *A double at Premier Inn Southwark (Bankside).*
 
-On the same five nights it undercut the County Hall Premier Inn on four, including **£186 against £208 on an October Saturday and £243 against £295 in December**. There are four parking spaces at £15 a day, first come first served.
+On the same five nights it undercut the County Hall Premier Inn on four, including **£186 against £208 on one Saturday and £243 against £295 on the second Saturday in December**. There are four parking spaces at £15 a day, first come first served.
 
 ### London Bridge Hotel — apartments for six beside the station
 
@@ -299,7 +299,7 @@ An independent four-star next to the Shard and two minutes from the station. The
 
 *A double at London Bridge Hotel.*
 
-**The three apartments are what set it apart**: 92 m² each, with two bedrooms, a bathroom plus a separate shower room and a full kitchen, for up to six people, and a private entrance next door. For a smaller family, Deluxe rooms and Studio Suites have a sofa bed for two children, and some Executive rooms interconnect. Check-in is 3pm, check-out 11am, and there is no car park.
+**The three apartments** are 92 m² each, with two bedrooms, a bathroom plus a separate shower room and a full kitchen, for up to six people, and a private entrance next door. For a smaller family, Deluxe rooms and Studio Suites have a sofa bed for two children, and some Executive rooms interconnect. Check-in is 3pm, check-out 11am, and there is no car park.
 
 ### St Christopher's Village — a double capsule from £53
 
@@ -333,4 +333,4 @@ Our [South Bank area guide](/articles/south-bank-area-guide/) covers the sights 
 
 Still choosing an area? Our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for, and [Covent Garden](/articles/where-to-stay-covent-garden/) is fifteen minutes' walk north over Waterloo Bridge. For cheaper beds, see the [budget hotels](/articles/best-budget-hotels-london/) and [hostels](/articles/best-hostels-london/) guides.
 
-*Room grades, sizes, facilities and policies come from each hotel's own website. The sampled prices are the cheapest double for two adults on five nights between October 2026 and April 2027, taken on 14 September 2026 from Premier Inn's site and Hotels.com; other prices are what each hotel publishes or typically charges. Prices move nightly, so check your own dates.*
+*The sampled prices are the cheapest double for two adults on five nights between October 2026 and April 2027, as at 14 September 2026; other prices are what each hotel publishes or typically charges. Prices move nightly, so check your own dates.*
