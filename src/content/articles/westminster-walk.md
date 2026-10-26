@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Albert_Embank
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-05
-updatedAt: 2026-10-25
-reviewBy: 2026-12-31
+updatedAt: 2026-10-26
+reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -18,7 +18,7 @@ tags: [Westminster, walks, free things to do, Big Ben, neighbourhoods]
 draft: false
 faq:
   - q: "What is the best walking route around Westminster?"
-    a: "Westminster Bridge to Trafalgar Square, going west through the park and back east along The Mall. It starts with the view of the Elizabeth Tower, picks up the Abbey, the Churchill War Rooms and St James's Park in the middle, and finishes at Trafalgar Square and the National Gallery — which is free and open until 6pm, so the walk ends somewhere you can sit down indoors. It is about 4km and takes two to three hours with stops."
+    a: "Westminster Bridge to Trafalgar Square, going west through the park and back east along The Mall, past the Abbey, the Churchill War Rooms and St James's Park and finishing at the free National Gallery, open until 6pm. It is about 4km and takes two to three hours with stops."
   - q: "What day of the week should I walk around Westminster?"
     a: "Monday, Wednesday or Friday. Those are the only three days the guard actually changes — the King's Guard at Buckingham Palace and the King's Life Guard at Horse Guards both change at 11am on those days, and on Tuesday, Thursday, Saturday and Sunday you get a shorter inspection or patrol instead. Sunday is the day to avoid if you want to go inside things: Westminster Abbey is closed to sightseers and the Supreme Court is closed all weekend."
   - q: "Can you go inside the UK Supreme Court, and is it free?"
@@ -26,22 +26,20 @@ faq:
   - q: "Is Westminster Abbey open on Sundays?"
     a: "Not to sightseers. The Abbey opens 9.30am to 3.30pm Monday to Friday and 9.30am to 3pm on Saturday; on Sunday it opens for services only, which anyone may attend free of charge. Adult admission is £32, over-65s and students £29, and children aged 6 to 17 are £14."
   - q: "Where can you watch the Changing of the Guard for free without the crowd?"
-    a: "Horse Guards, on Whitehall. The King's Life Guard changes on Horse Guards Parade at 11am on Monday, Wednesday and Friday, with no barriers and a fraction of the audience at the Palace gates. The overlooked one is the dismounted inspection at 4pm, which happens every single day of the week — so an afternoon walk always ends with a ceremony."
+    a: "Horse Guards, on Whitehall. The King's Life Guard changes on Horse Guards Parade at 11am on Monday, Wednesday and Friday, with no barriers and a fraction of the audience at the Palace gates. A dismounted inspection at 4pm happens every day of the week."
   - q: "How long does the Westminster walk take?"
-    a: "Two to three hours at a walking pace with short stops, covering roughly 4km from Westminster Bridge to Trafalgar Square. Add two hours if you go into Westminster Abbey and another two for the Churchill War Rooms, which the Imperial War Museums recommend allowing at least that long for."
+    a: "Two to three hours at a walking pace with short stops, covering roughly 4km from Westminster Bridge to Trafalgar Square. Add two hours if you go into Westminster Abbey and another two for the Churchill War Rooms, for which the Imperial War Museums recommend allowing at least that long."
 ---
 
-People come out at Westminster station, take the picture of the tower, walk up Whitehall past the gates of Downing Street, take the picture of Trafalgar Square and leave — having spent two hours looking at the outside of buildings.
-
-**This walk is about the doors.** Half the good things in this postcode are free and require nothing but walking through one: a working supreme court opposite Parliament, the public galleries of the House of Commons, a park bridge with the best free view in central London, and a parade ground you can stand on.
+Much of Westminster is free if you walk through the right doors: the Supreme Court opposite Parliament, the public galleries of the House of Commons, a bridge in St James's Park with views of both Buckingham Palace and Whitehall's turrets, and Horse Guards Parade, which you can stand on.
 
 It runs **Westminster Bridge to Trafalgar Square**, west through the park to Buckingham Palace and back east along The Mall. About **4km, two to three hours** with stops, flat the whole way. Nine of the eleven stops cost nothing.
 
-The day of the week decides a lot of it. **The guard only changes on Monday, Wednesday and Friday** — at the Palace and at Horse Guards both. Turn up on a Tuesday and you get an inspection instead.
+**The guard only changes on Monday, Wednesday and Friday**, at the Palace and at Horse Guards both; on other days there is an inspection instead.
 
-For the wider area — the Cathedral, Millbank, where to eat, where to stay — see the [Westminster area guide](/articles/westminster-area-guide/). This is the walking route version of it.
+For the wider area — the Cathedral, Millbank, where to eat, where to stay — see the [Westminster area guide](/articles/westminster-area-guide/). 
 
-> 💡 **The Short Version:** Go on a **Monday, Wednesday or Friday** — the only days the guard changes rather than being inspected. Start on **Westminster Bridge**, finish at **Trafalgar Square**. The thing almost nobody does is walk into the **Supreme Court**, which is free, open weekdays and directly across the square from Parliament. **Watching a Commons debate is free too.** And if you are walking in the afternoon, be at **Horse Guards for 4pm**: there is a dismounted inspection every single day, and no crowd for it.
+> 💡 **The Short Version:** Go on a **Monday, Wednesday or Friday** — the only days the guard changes rather than being inspected. Start on **Westminster Bridge**, finish at **Trafalgar Square**. The **Supreme Court** is free, open weekdays and directly across the square from Parliament. **Watching a Commons debate is free too.** And if you are walking in the afternoon, be at **Horse Guards for 4pm**: there is a dismounted inspection every day, with a small crowd.
 
 ## The route
 
@@ -86,21 +84,19 @@ For the wider area — the Cathedral, Millbank, where to eat, where to stay — 
 
 *Westminster Bridge, looking back at Parliament. Photo: [Txllxt TxllxT](https://commons.wikimedia.org/wiki/File:London_-_Albert_Embankment_path_-_Lambeth_Palace_Road_-_South_Bank_-_Jubilee_Walkway_-_View_NNW_towards_Houses_of_Parliament,_Westminster_Bridge_%26_London_Eye.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**Start halfway across and look back.** Westminster station comes up at the foot of the Elizabeth Tower, which is exactly the wrong place to photograph it from — stand underneath a 96-metre tower and you cannot get it in the frame.
+**Start halfway across and look back.** Westminster station comes up at the foot of the 96-metre Elizabeth Tower, where you cannot fit it in a photograph.
 
-Walk out onto the bridge instead. From the middle, and better still from the far end on the South Bank side, you get the tower and the full length of the Palace of Westminster in one shot, with the river underneath. It costs nothing, it is open at every hour of the year, and it is the only stop on this walk that is better in the dark.
+From the middle of the bridge, or better the South Bank end, the tower and the full length of the Palace of Westminster are in one shot. It is free and open at every hour.
 
-Then turn round and walk back. Everything else on this route is on the north bank.
+Then walk back; everything else on this route is on the north bank.
 
 > 💡 **This is also where our [South Bank route](/articles/south-bank-walk/) begins**, running the other way — east along the river to Tower Bridge. If you have a whole day, the two join up here.
 
 ## 2. Parliament Square and the Palace of Westminster
 
-The green at the centre of it all, ringed by statues — Churchill glowering across at the building he ran the war from, Mandela, Gandhi, Lincoln, and Millicent Fawcett, added in 2018. It is unfenced, free and always open, and you can stand on the grass.
+The green is ringed by statues: Churchill, Mandela, Gandhi, Lincoln and Millicent Fawcett, added in 2018. It is unfenced, free and always open, and you can stand on the grass.
 
-But the useful thing here is not on the square. **Watching Parliament work is free.**
-
-Visitors from the UK and overseas are welcome to watch debates and committee hearings in **both the Commons and the Lords, free of charge**, from the public galleries — [Parliament's own visiting pages](https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/) say so in as many words. **Prime Minister's Questions is on Wednesdays at 12 noon**, which is the one slot everybody wants; ordinary debates and committee sessions are far easier to get into and considerably more interesting than the shouting.
+**Watching Parliament work is free.** Visitors from the UK and overseas can watch debates and committee hearings in **both the Commons and the Lords, free of charge**, from the public galleries ([Parliament's visiting pages](https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/)). **Prime Minister's Questions is on Wednesdays at 12 noon**; ordinary debates and committee sessions are easier to get into.
 
 If you want the building rather than the business, tours are ticketed and **open to all visitors**, not just UK residents:
 
@@ -109,21 +105,21 @@ If you want the building rather than the business, tours are ticketed and **open
 - **Big Ben tour** — **£55**, age 11 and over, and **300-plus steps** on foot. There is no lift.
 - **Speaker's House** — **£23**, and best suited to over-16s.
 
-> 💡 **The free tour exists but is not for visitors.** UK residents only can book a free 75-minute guided tour through their own MP. Everybody else pays. Big Ben works the same way: the paid climb is open to anyone, and it is the *free* tour that is restricted.
+> 💡 **The free tour is for UK residents only.** They can book a free 75-minute guided tour through their own MP; everybody else pays. The paid Big Ben climb is open to anyone.
 
 ## 3. The Supreme Court
 
-**The best free thing in Westminster, and it is directly across the square from the thing everyone photographs.**
+**Free, and directly across the square from Parliament.**
 
-The United Kingdom's final court of appeal sits in the Middlesex Guildhall on the west side of Parliament Square. It is **open to the public Monday to Friday, 9am to 5pm, last entry 4.30pm**, and it is **free**. It closes at weekends and on bank holidays, which is the single strongest argument for walking this route on a weekday.
+The United Kingdom's final court of appeal sits in the Middlesex Guildhall on the west side of Parliament Square. It is **open to the public Monday to Friday, 9am to 5pm, last entry 4.30pm**, and it is **free**. It closes at weekends and on bank holidays.
 
-Three things are worth the twenty minutes:
+Three things to see:
 
-**You can sit in on a hearing.** If the court is sitting, visitors are welcome in the courtrooms. The Justices sit as a panel on the same level as everyone else — no raised dais — and there is no witness box and no jury box, because this court hears arguments about law rather than facts.
+**You can sit in on a hearing.** If the court is sitting, visitors are welcome in the courtrooms; the Justices sit on the same level as everyone else, with no raised dais.
 
 **The exhibition on the lower ground floor** holds a set of ceremonial robes, a judicial letters patent and a large exemplification of Magna Carta rendered in modern English.
 
-**There is a café and a shop**, and both are open to anyone who walks in, which makes this the only free indoor sit-down between the bridge and the park.
+**There is a café and a shop**, both open to anyone who walks in.
 
 > ⚠️ **Airport-style security every time you enter**, and the court's own guidance is that queues build **between 9.30 and 10.30 and between 1.45 and 2.15**. Come at 11 or at 3.
 
@@ -133,15 +129,15 @@ Three things are worth the twenty minutes:
 
 *Westminster Abbey's west towers.*
 
-The coronation church since 1066, and the one stop on this walk that is a serious ticket.
+The coronation church since 1066.
 
-**Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3pm on Saturday.** On **Sunday it opens for services only**, and no amount of planning gets around that. Admission is **£32 adult, £29 for over-65s and students, £14 for children aged 6 to 17**, and under-6s are free. That covers the Cloisters, College Garden, the Chapter House and the Pyx Chamber; **the Queen's Diamond Jubilee Galleries are £5 more** on a timed ticket bought alongside, and free for children.
+**Open 9.30am to 3.30pm Monday to Friday and 9.30am to 3pm on Saturday.** On **Sunday it opens for services only**. Admission is **£32 adult, £29 for over-65s and students, £14 for children aged 6 to 17**, and under-6s are free. That covers the Cloisters, College Garden, the Chapter House and the Pyx Chamber; **the Queen's Diamond Jubilee Galleries are £5 more** on a timed ticket bought alongside, and free for children.
 
-Two things about the price are easy to miss:
+Two ways to pay less:
 
 **An online ticket upgrades to an annual pass for nothing.** Ask a member of the Visitor Experience team while you are inside and they will swap your ticket for a paper pass good for **three visits in a year**. It only works on tickets bought through the Abbey's own site.
 
-**And you do not have to pay at all.** Attending a daily service is free, entry is through the Great West Door, and you are welcome to come in for private prayer during opening hours — the Abbey says so on its [prices and entry times page](https://www.westminster-abbey.org/visit-us/prices-and-entry-times), which is not where most people look.
+**And you do not have to pay at all.** Attending a daily service is free, entry is through the Great West Door, and you are welcome to come in for private prayer during opening hours — see the Abbey's [prices and entry times page](https://www.westminster-abbey.org/visit-us/prices-and-entry-times).
 
 **St Margaret's Church** stands in the Abbey's shadow on the same site, is free, and keeps its own shorter hours — the Abbey lists them on the same page as its own.
 
@@ -149,13 +145,13 @@ Two things about the price are easy to miss:
 
 ## 5. The Cenotaph and Downing Street
 
-Walk north from Parliament Square and Whitehall opens up in front of you. Two hundred metres of it, and no ticket for any of it.
+Walk north from Parliament Square into Whitehall.
 
-**The Cenotaph stands in the middle of the road**, on the white line, with traffic either side. Lutyens designed it as a temporary structure for a victory parade in 1919 and it was rebuilt in stone the following year because nobody could face taking it down. There is no religious symbolism on it anywhere, deliberately.
+**The Cenotaph stands in the middle of the road**, on the white line, with traffic either side. Lutyens designed it as a temporary structure for a victory parade in 1919, and it was rebuilt in stone the following year.
 
-**Downing Street is gated**, and has been since 1989. What you see is a black iron gate, armed police and a slice of the street beyond it. It takes about ninety seconds and it is worth the ninety seconds, because the gate tells the story: people used to walk up that street, and now nobody does.
+**Downing Street is gated**, and has been since 1989. You see a black iron gate, armed police and a slice of the street beyond, in about ninety seconds.
 
-This whole stretch is free, unticketed and never closed, which makes it the part of the walk that works at seven in the morning.
+This stretch is free and never closed.
 
 ## 6. The Churchill War Rooms
 
@@ -163,11 +159,11 @@ Turn left off Whitehall down **King Charles Street** and keep going to the **Cli
 
 **The underground bunker from which Britain ran the Second World War**, left substantially as it was on the day it closed in 1945 — the Map Room in particular, which was abandoned with the pins still in the wall.
 
-Open **9.30am to 6pm, last entry 5pm, every day except 24 to 26 December**. Adult tickets are **£34**, with concessions at £30.60 and children at £17; members and under-fives go free. The Imperial War Museums' own advice is to **allow at least two hours**, because the Cabinet War Rooms and the Churchill Museum are two separate things under one ticket, and there are security checks on the way in.
+Open **9.30am to 6pm, last entry 5pm, every day except 24 to 26 December**. Adult tickets are **£34**, with concessions at £30.60 and children at £17; members and under-fives go free. The Imperial War Museums advise you to **allow at least two hours**: the Cabinet War Rooms and the Churchill Museum are two sections under one ticket, and there are security checks on the way in.
 
 There is a **café inside, open daily 10am to 5pm**, in the room the switchboard operators used.
 
-> ⚠️ **This is a half-day attraction sitting at stop six of eleven.** Doing it in full ends the walk. If you want both, do the War Rooms on a separate morning and walk past the door — or start here at 9.30 and pick the route up afterwards.
+> ⚠️ **Doing the War Rooms in full takes about two hours, at stop six of eleven.** Visit on a separate morning and walk past the door, or start here at 9.30 and pick the route up afterwards.
 
 ## 7. St James's Park
 
@@ -175,13 +171,13 @@ There is a **café inside, open daily 10am to 5pm**, in the room the switchboard
 
 *St James's Park, in late April.*
 
-Out of the Clive Steps, across Horse Guards Road, and into the oldest of the Royal Parks. **Pedestrian gates are open 5am to midnight** and there is no charge.
+Out of the Clive Steps, across Horse Guards Road, and into St James's Park. **Pedestrian gates are open 5am to midnight** and there is no charge.
 
-**Walk to the bridge over the lake.** The view works in both directions: Buckingham Palace framed at the western end, and at the eastern end a skyline of turrets and pinnacles above the trees that looks like nowhere in England. That is the back of Whitehall, and almost nobody recognises it.
+**Walk to the bridge over the lake.** Buckingham Palace is framed at the western end, and at the eastern end turrets and pinnacles rise above the trees. That is the back of Whitehall.
 
-**There are pelicans**, and they have been here since **1664**, when a pair was presented to Charles II by the Russian Ambassador. More than forty have lived in the park since. The Royal Parks feed them fish **daily, usually around 2.30pm**, and there are **extra feeds when there are pelican chicks** — so an afternoon walk has a decent chance of catching one.
+**There are pelicans**, and they have been here since **1664**, when a pair was presented to Charles II by the Russian Ambassador. The Royal Parks feed them fish **daily, usually around 2.30pm**, with **extra feeds when there are pelican chicks**.
 
-**St James's Café** sits by the lake and opens **8am to 6.30pm, seven days a week**. It is the mid-route lunch stop and it is the only one on this walk that never has a day-of-the-week problem.
+**St James's Café** sits by the lake and opens **8am to 6.30pm, seven days a week**. It is the mid-route lunch stop.
 
 <div data-stay-strip></div>
 
@@ -195,17 +191,17 @@ Out of the park at the western end, and the Victoria Memorial is in front of you
 
 **Changing the King's Guard happens on Monday, Wednesday and Friday**, and not on the other four days. The Household Division's own schedule puts the ceremony **in front of the Palace at 10.45**, running about **45 minutes**, with the soldiers gathering at St James's Palace and Wellington Barracks **from 10am**. On the days when there is no change, **the Guard is inspected by the Captain at 3pm** instead — a much shorter thing, and much less watched.
 
-**Sunday is its own case.** The Colour is incorporated into the inspection and the ceremony moves to **10am**: the Sunday Parade, in which the Colour is trooped through the Guard while the national anthem plays and then marched back to St James's Palace. It is the only version of this you can see at the weekend.
+On **Sunday** the ceremony is the Sunday Parade at **10am**: the Colour is trooped through the Guard while the national anthem plays, then marched back to St James's Palace.
 
 > ⚠️ **It can be cancelled at short notice**, especially in wet weather, and the Household Division says the decision can be made **as late as 10.45 on the day**. Check before you build a morning around it.
 
-**The State Rooms open only in summer.** The 2026 season is **9 July to 27 September**, and outside it the Palace opens on selected dates for Exclusive Guided Tours at £100 a head. City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=westminster-walk" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> puts the two together: the ceremony with a guide, then timed entry to the State Rooms with the official audio guide, 2½ hours from the Duke of York Column, from £72 on GetYourGuide and rated 4.4 from 2,979 reviews. It runs only while the State Rooms are open, from 9 July in 2027, and on Tuesday, Thursday and Saturday, when the guard does not change, the first half is a walk round Westminster instead. Everything else about the Palace — the gates, the memorial, the ceremony — is free and needs no ticket at all.
+**The State Rooms open only in summer.** The 2026 season has ended, and tickets for summer 2027 go on sale in November. Between October and May the Palace opens on selected dates for Exclusive Guided Tours at £100 a head; the East Wing tour runs from 6 November 2026 to 31 January 2027. City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=westminster-walk" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> puts the two together: the ceremony with a guide, then timed entry to the State Rooms with the official audio guide, 2½ hours from the Duke of York Column, from £72 on GetYourGuide and rated 4.4 from 2,979 reviews. It runs only while the State Rooms are open, so not until summer 2027 (the Royal Collection Trust announces the dates in November), and on Tuesday, Thursday and Saturday, when the guard does not change, the first half is a walk round Westminster instead. Everything else about the Palace — the gates, the memorial, the ceremony — is free and needs no ticket at all.
 
 ## 9. The Mall
 
 **A kilometre of processional road** running dead straight from the Victoria Memorial to Admiralty Arch, surfaced in red so that it reads as a carpet from the air. Plane trees down both sides, St James's Palace and Clarence House on the north side, and the park on the south.
 
-It is not a stop so much as **fifteen minutes of walking that you should not shortcut**. There is no station on it, nothing to queue for, and the parallel street is Pall Mall, which is offices and clubs.
+It is **fifteen minutes of walking**, with no station and nothing to queue for.
 
 Two-thirds of the way along, look right through the trees: the lake, the bridge you were standing on twenty minutes ago, and the back of Whitehall again from the other side.
 
@@ -215,9 +211,9 @@ Two-thirds of the way along, look right through the trees: the lake, the bridge 
 
 *The mounted ceremony, at Horse Guards.*
 
-Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which is a public space you can simply walk across. This is the good ceremony, and it is free.
+Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which is a public space you can simply walk across. The ceremony is free.
 
-**The King's Life Guard is mounted here by the Household Cavalry Mounted Regiment**, and has been since the Restoration in 1660 — the building is named after them rather than the other way round. The Life Guards wear red tunics and white plumes; the Blues and Royals wear blue tunics and red plumes. When the King is in London the guard is a **Long Guard** of an officer, a corporal major carrying the Standard, two NCOs, a trumpeter and six troopers; when he is not, it drops to a **Short Guard** of two NCOs and six troopers.
+**The King's Life Guard is mounted here by the Household Cavalry Mounted Regiment**. The Life Guards wear red tunics and white plumes; the Blues and Royals wear blue tunics and red plumes.
 
 **What happens on which day**, from the Household Division's own schedule:
 
@@ -228,7 +224,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 | **Sat, Sun** | The duty officer's inspection at **11am** — ten to fifteen minutes |
 | **Every day** | **The dismounted inspection at 4pm**, after which the guard comes off duty |
 
-**The 4pm inspection is the one to know about.** It happens seven days a week, in the front yard on the Whitehall side, it takes about ten minutes, and there is no crowd whatsoever. Two mounted sentries stand at the Whitehall entrance **from 10am until 4pm** and are changed every hour, so there is always a horse there in daylight.
+**The 4pm inspection is the one to know about.** It happens seven days a week, in the front yard on the Whitehall side, it takes about ten minutes, and the crowd is small. Two mounted sentries stand at the Whitehall entrance **from 10am until 4pm** and are changed every hour, so there is always a horse there in daylight.
 
 ![The Horse Guards building on a quiet afternoon, with tourists on the parade ground and the London Eye visible behind](../../assets/articles/westminster-walk/horse-guards-parade-building.jpg)
 
@@ -236,7 +232,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 
 **Inside is the [Household Cavalry Museum](https://householdcavalrymuseum.co.uk/visit/)**, where a glass screen looks into the working stables. **£11 adult, £8 students and children aged 5 to 15, £9.50 over-60s, £29 for a family** of two adults and up to three children, with a multimedia guide included in nine languages. Open **10am to 6pm April to October and 10am to 5pm November to March**, last admission an hour before closing, and closed on Marathon Day, Easter Friday, Remembrance Sunday, Christmas Eve to Boxing Day and New Year's Day.
 
-**Straight across Whitehall is the Banqueting House**, the only surviving fragment of the old Whitehall Palace, with a Rubens ceiling painted for Charles I and the site of his execution in 1649 outside it. **It is barely open any more.** Historic Royal Palaces runs a summer season, **1 August to 20 September 2026**, and after that the only dates open to the general public are **Sunday 1 November and Sunday 20 December**. When it does open it is **£10 adult and free for children aged 5 to 15**, and pre-booking is recommended. Check the [Banqueting House visiting page](https://www.hrp.org.uk/banqueting-house/visit/) before you count on it — the rest of the year the building is given over to schools, community partners and private events.
+**Straight across Whitehall is the Banqueting House**, the only surviving fragment of the old Whitehall Palace, with a Rubens ceiling painted for Charles I and the site of his execution in 1649 outside it. After its summer season it opens to the general public only on **Sunday 1 November** (10am to 4pm) and **Sunday 20 December**. It is **£10 adult and free for children aged 5 to 15**, and pre-booking is recommended. Dates are on the [Banqueting House visiting page](https://www.hrp.org.uk/banqueting-house/visit/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -244,37 +240,37 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 
 ![Nelson's Column and the fountains of Trafalgar Square in late afternoon](../../assets/articles/westminster-walk/trafalgar-square.jpg)
 
-North up Whitehall for four hundred metres and the road opens into the square. This is the end of the walk, and it is the right end — because it finishes at a free building you can go into and sit down in.
+North up Whitehall for four hundred metres and the road opens into the square.
 
 **The National Gallery is free and open daily, 10am to 6pm, and until 9pm on Fridays.** It closes on 24 to 26 December and 1 January. The **main free entrance is the Sainsbury Wing**; you can book a free general admission ticket for fast-track entry or simply walk up. Only the temporary exhibitions are ticketed. Some rooms can be shut for building work, so a specific painting is not guaranteed.
 
-Outside, **the Fourth Plinth** in the north-west corner carries a rotating contemporary commission chosen by public consultation and an independent panel. The work on it now is **Teresa Margolles's *Mil Veces un Instante* (A thousand times an Instant)**. It is free, it is at street level, and most people walk past it looking for the lions.
+Outside, **the Fourth Plinth** in the north-west corner carries a rotating contemporary commission. The work on it now is **Teresa Margolles's *Mil Veces un Instante* (A thousand times an Instant)**.
 
-**St Martin-in-the-Fields** is on the north-east corner, and the **Café in the Crypt** underneath it is the sit-down at the end of this walk: brick vaults, gravestones for a floor, and food at a fraction of what anything with a view of the square charges. Its hours move week to week and it closes for private events on scattered days, so [check the church's site](https://www.stmartin-in-the-fields.org/visit/) before you fix a plan around it.
+**St Martin-in-the-Fields** is on the north-east corner, and the **Café in the Crypt** underneath it is the sit-down at the end of this walk: brick vaults and gravestones for a floor. Its hours vary and it closes for private events on scattered days, so [check the church's site](https://www.stmartin-in-the-fields.org/visit/) before you fix a plan around it.
 
 ---
 
 ## The detour: Westminster Cathedral
 
-Worth its own section because it is nothing like anything else on this walk, and because almost nobody makes the ten-minute walk south-west from the Abbey to see it.
+A ten-minute walk south-west from the Abbey.
 
-**Westminster Cathedral is not Westminster Abbey.** It is the Roman Catholic mother church of England and Wales, finished in 1903 in striped red brick and Byzantine style, and it looks like nothing else in Britain — a campanile, domes and a colossal dark interior that was never fully decorated, so the upper walls are still bare brick.
+**Westminster Cathedral is not Westminster Abbey.** It is the Roman Catholic mother church of England and Wales, finished in 1903 in striped red brick and Byzantine style, with a campanile, domes and a dark interior that was never fully decorated, so the upper walls are still bare brick.
 
 **Entry is free and it is open every day.** The Cathedral Café opens **10am to 4pm, Tuesday to Saturday**.
 
-**Come for the tower.** The viewing gallery — the Cathedral calls it **The Campanile** — sits **210 feet above Victoria Street**, and it has **a lift rather than a staircase**, which makes it the only central London tower view that is not a climb. **£10 adult, £5 concession, £22 family.**
+**Come for the tower.** The viewing gallery — the Cathedral calls it **The Campanile** — sits **210 feet above Victoria Street**, and it has **a lift rather than a staircase**. **£10 adult, £5 concession, £22 family.**
 
 > ⚠️ **The tower's hours are the shop's hours.** Tickets are sold in person at the Cathedral Shop, open **10.30am to 4.30pm, Wednesday to Sunday**, and there is no online booking. On a Monday or Tuesday the cathedral is open and the tower is not.
 
 ## Where to eat
 
-**The restaurants immediately around Westminster Bridge are poor value.** They exist because everyone walks past them once and nobody comes back. Three better answers, and the choice is decided by where you are on the route, not by the food.
+Where to eat depends on where you are on the route.
 
-**St James's Café — the middle of the walk.** By the lake at stop seven, **8am to 6.30pm seven days**, with outdoor seating and the park around it. It is the only eating stop on this route with no day-of-the-week catch at all, and it lands at roughly the halfway point.
+**St James's Café — the middle of the walk.** By the lake at stop seven, **8am to 6.30pm seven days**, with outdoor seating, at roughly the halfway point.
 
-**Café in the Crypt — the end of the walk.** Under St Martin-in-the-Fields at stop eleven, in the vaulted brick crypt with tombstones in the floor. Better setting than anything else here and reasonably priced for the postcode, with the caveat above: the hours move and it shuts for private events on scattered days.
+**Café in the Crypt — the end of the walk.** Under St Martin-in-the-Fields at stop eleven, in the vaulted brick crypt with tombstones in the floor. The hours vary and it shuts for private events on scattered days.
 
-**The Supreme Court café — the start of the walk.** Free to walk into, weekdays only, and almost nobody in it. Sandwiches, cakes and coffee, not lunch, but it is a quiet room fifty metres from Parliament Square.
+**The Supreme Court café — the start of the walk.** Free to walk into, weekdays only: sandwiches, cakes and coffee, fifty metres from Parliament Square.
 
 If you have a Churchill War Rooms ticket, its café runs **10am to 5pm daily** and is inside the security line, so it only works if you are going in anyway. For the sit-down restaurants — the Cinnamon Club, the Regency Cafe, the Whitehall pubs — the [area guide covers them](/articles/westminster-area-guide/#where-to-eat-and-drink).
 
@@ -282,28 +278,28 @@ If you have a Churchill War Rooms ticket, its café runs **10am to 5pm daily** a
 
 ## The best day to go
 
-**Monday, Wednesday or Friday**, and it is not close. Those are the only days the guard changes rather than being looked at.
+**Monday, Wednesday or Friday**, the only days the guard changes.
 
 | Day | What you get |
 | --- | --- |
-| **Mon, Wed, Fri** | **The guard changes at 11am**, at both the Palace and Horse Guards. Everything else open. The best day |
+| **Mon, Wed, Fri** | **The guard changes at 11am**, at both the Palace and Horse Guards. Everything else open |
 | **Tue, Thu** | No change. Horse Guards runs the Patrol 10.30–11.15 and the Palace guard is inspected at 3pm. Everything else open |
 | **Saturday** | No change. Duty officer's inspection at Horse Guards at 11am. Abbey shuts at 3pm. **Supreme Court closed** |
 | **Sunday** | **Abbey closed to sightseers, Supreme Court closed.** But the Sunday Parade at the Palace at 10am is the weekend's best ceremony |
 | **Bank holidays** | **Supreme Court closed.** Check the Household Division schedule before planning around a ceremony |
 
-**Nobody plans around this.** Both 11am ceremonies happen at the same moment, a kilometre apart. You cannot see the Palace change and the Horse Guards change on the same day, and the choice is easy: **Horse Guards has no barriers and no crowd**, and it is where the route puts you anyway.
+**Pick one ceremony.** The Palace and Horse Guards changes happen at the same time, a kilometre apart. **Horse Guards has no barriers and a small crowd.**
 
-**What closes at the weekend:** the Supreme Court entirely, both days. That is the only outright loss — but it is the best free thing on the walk, which makes a weekday visit worth arranging.
+**What closes at the weekend:** the Supreme Court, both days, and the Abbey to sightseers on Sunday.
 
-**What does not care what day it is:** the bridge, Parliament Square, the Cenotaph, Downing Street's gate, the park from 5am to midnight, The Mall, Trafalgar Square, the National Gallery, St James's Café, and the two mounted sentries at Horse Guards between 10am and 4pm. That is still most of the walk.
+**What does not care what day it is:** the bridge, Parliament Square, the Cenotaph, Downing Street's gate, the park from 5am to midnight, The Mall, Trafalgar Square, the National Gallery, St James's Café, and the two mounted sentries at Horse Guards between 10am and 4pm.
 
-**Make the case for Sunday, though.** Whitehall is a working government district and it empties completely at the weekend, so Sunday gives you the Cenotaph and Downing Street without the commuter tide, the park at its best, and two ceremonies the weekday visitor never sees: **the Sunday Parade at the Palace at 10am**, with the Colour trooped, and the duty officer's inspection at Horse Guards at 11. The National Gallery is open. And **the Abbey's Sunday services are free and open to anyone** — which is the only way through that door on a Sunday, and you see the building working, not filing past it. You lose the Supreme Court and the Abbey's day tickets, and you gain a quieter version of everything else.
+**Sunday still works.** Whitehall empties at the weekend, and you get **the Sunday Parade at the Palace at 10am** and the duty officer's inspection at Horse Guards at 11. The National Gallery is open, and **the Abbey's Sunday services are free and open to anyone**. You lose the Supreme Court and the Abbey's day tickets.
 
-**On time of day**, there are three sensible starts:
+**Start times:**
 
 - **9.30am.** You get the Supreme Court and the Abbey with time inside both, and you reach Horse Guards around lunchtime — after the 11am ceremony has gone.
-- **Ceremony first, on a Mon, Wed or Fri.** Be at Horse Guards Parade for 11, watch the change, then start the walk at stop one and do it in order. It is the only way to get both the ceremony and the interiors.
+- **Ceremony first, on a Mon, Wed or Fri.** Be at Horse Guards Parade for 11, watch the change, then start the walk at stop one and do it in order.
 - **1pm.** Nine stops in three hours puts you at Horse Guards for the **4pm dismounted inspection**, which runs every day of the week. The trade is that the Abbey will have closed — it shuts at 3.30pm on weekdays and 3pm on Saturday.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -316,7 +312,7 @@ The route is **flat, paved and step-free throughout**, and the only stairs are o
 
 **Westminster Pier is at stop one**, next to the bridge, with river services east to Tower Bridge and Greenwich — see the [river boats guide](/articles/how-to-use-london-river-boats/) if you would rather leave by water.
 
-Walked in reverse — Trafalgar Square to Westminster Bridge — it works and ends on the better view. The reason we run it this way is the finish: Trafalgar Square gives you a free gallery open until six, and the bridge gives you a photograph and a road.
+The route also works in reverse. We run it north because it finishes at the free National Gallery, open until 6pm.
 
 ## Carry on walking
 
@@ -333,6 +329,6 @@ Walked in reverse — Trafalgar Square to Westminster Bridge — it works and en
 - **[The best walking tours in London](/articles/best-walking-tours-london/)** — the same ground with a guide, from a Blue Badge walk round the Abbey to the Changing of the Guard.
 - **[The South Bank walk](/articles/south-bank-walk/)** — starts on the far side of Westminster Bridge and runs east to Tower Bridge. The two make a full day.
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.
-- **[The best views in London](/articles/best-views-london/)** — including the Westminster Cathedral tower, which is on this page as a detour and is one of the cheapest good views in the city.
+- **[The best views in London](/articles/best-views-london/)** — including the Westminster Cathedral tower, a detour on this page.
 - **[Thames walks](/articles/london-walks-along-the-thames/)** — pick up the river at Westminster Pier and keep going in either direction.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.
