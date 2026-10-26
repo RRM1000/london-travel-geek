@@ -3,7 +3,8 @@ title: "How to Use the London Underground: A First-Time Visitor’s Guide"
 seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
 publishedAt: 2026-08-08
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2026-11-02
 sites:
   - london
 canonicalSite: london
@@ -23,7 +24,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ---
 
-The London Underground—**the Tube**—is the world's oldest underground railway network and the fastest way to travel across Central London. It runs 11 colour-coded lines serving 272 stations.
+The London Underground—**the Tube**—is the world's oldest underground railway network. It runs 11 colour-coded lines serving 272 stations.
 
 > 💡 **First-Time Tube Snapshot:**  
 > - **How to Pay:** Tap in and tap out at ticket barriers using the exact same contactless bank card, phone (Apple/Google Pay), or Oyster card.  
@@ -35,13 +36,11 @@ The London Underground—**the Tube**—is the world's oldest underground railwa
 
 ## Which line to take
 
-The eleven Tube lines differ more than the map suggests — some are air-conditioned and some are not, some run all night and most do not, and a few are far easier to navigate than others.
-
-**[The Tube and rail lines guide](/articles/london-tube-and-rail-lines-guide/)** rates all eleven on crowding, comfort, air-conditioning, Night Tube and ease of use, and lists the attractions each one serves with the station and the best exit.
+**[The Tube and rail lines guide](/articles/london-tube-and-rail-lines-guide/)** rates all eleven lines on crowding, comfort, air-conditioning, Night Tube and ease of use, and lists the attractions each one serves with the station and the best exit.
 
 ## How to pay: Contactless vs. Oyster
 
-For almost all adult visitors, tapping a **contactless bank card or mobile wallet (Apple Pay / Google Pay)** is the cheapest and most convenient payment method.
+For almost all adult visitors, tapping a **contactless bank card or mobile wallet (Apple Pay / Google Pay)** is the cheapest way to pay.
 
 | Payment Method | Adult Single (Zone 1) | Daily Cap (Zones 1–2) | Setup Required |
 | --- | ---: | ---: | --- |
@@ -68,10 +67,10 @@ For full pricing details, peak hours, and Travelcard comparisons, read our compl
 
 *The roundel at Great Portland Street.*
 
-Look for the famous red-and-blue Underground roundel outside — every platform repeats the station name inside it, the quickest way to confirm where you are when a train pulls in. Touch your card or device flat against the **yellow reader** on the right side of the ticket barrier. Wait for the green light and a single chime before walking through. Use the wider gates if carrying large luggage or a stroller.
+Look for the red-and-blue Underground roundel outside; platform walls repeat the station name inside it. Touch your card or device flat against the **yellow reader** on the right side of the ticket barrier. Wait for the green light and a single chime before walking through. Use the wider gates if carrying large luggage or a stroller.
 
 ### Step 2: Follow the colour-coded line signs
-Inside the station, follow the overhead signs matching your line's colour. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*). You do not need to know which compass direction you want — the sign lists every station on that platform's line, so find your stop in one of the two lists and take that platform.
+Inside the station, follow the overhead signs matching your line's colour. Directional signs indicate the compass heading and final destination (e.g. *"Piccadilly line Eastbound towards Cockfosters"*). The sign lists every station in that direction, so find your stop in one of the two lists and take that platform.
 
 ![Two Jubilee line direction signs at Waterloo, one reading Eastbound platform 6 and one Westbound platform 5, each listing every station in that direction, with a Night Tube panel below](../../assets/articles/how-to-use-the-london-underground/waterloo-jubilee-direction-signs.jpg)
 
@@ -116,20 +115,20 @@ Touch the exact same card or device to the yellow reader at your exit station ba
 
 ## When does the Underground run? (Operating Hours)
 
-London Underground trains operate 7 days a week, with operating hours varying slightly between weekdays, weekends, and specific lines:
+Hours vary by line and day:
 
 | Day of the Week | First Trains (Start Time) | Last Trains (End Time) | Operating Notes |
 | --- | --- | --- | --- |
 | **Monday – Thursday** | **05:00 – 05:30 AM** | **00:30 – 01:00 AM** | First trains leave outer terminals around 05:00; last central trains depart around 00:30–01:00 AM. |
-| **Friday** | **05:00 – 05:30** | **00:30 – 01:00** *(or 24 hours on Night Tube lines)* | Standard lines close ~01:00. **Six lines** (Central, Jubilee, Northern, Piccadilly, Victoria, Windrush) run 24 hours non-stop. |
-| **Saturday** | **05:00 – 05:30** *(or 24 hours on Night Tube lines)* | **00:30 – 01:00** *(or 24 hours on Night Tube lines)* | Standard lines close ~01:00. **Six lines** (Central, Jubilee, Northern, Piccadilly, Victoria, Windrush) run 24 hours non-stop. |
+| **Friday** | **05:00 – 05:30** | **00:30 – 01:00** *(or 24 hours on Night Tube lines)* | Night Tube lines run 24 hours; standard lines close ~01:00. |
+| **Saturday** | **05:00 – 05:30** *(or 24 hours on Night Tube lines)* | **00:30 – 01:00** *(or 24 hours on Night Tube lines)* | Night Tube lines run 24 hours; standard lines close ~01:00. |
 | **Sunday** | **06:30 – 07:00** | **23:30 – 23:45** | Starts ~1.5 hours later; last trains leave earlier before midnight across all lines. |
 
 > 🌙 **Important Night Tube Exception:**  
-> 24-hour weekend continuous service operates **on six lines only** (Central, Jubilee, Northern — Charing Cross branch, Piccadilly, Victoria, Windrush). Standard Tube lines close at their regular times (~00:30–01:00) on Friday and Saturday nights (note: the **Waterloo & City line** is closed entirely on Saturdays, Sundays, and Bank Holidays!).
+> 24-hour weekend service operates **on six lines only** (listed below). Standard Tube lines close at their regular times (~00:30–01:00) on Friday and Saturday nights. The **Waterloo & City line** is closed entirely on Saturdays, Sundays and Bank Holidays.
 
 > 💡 **TfL Fare Day Definition:**  
-> TfL's daily ticketing system operates on a **04:30 to 04:29** clock. Any journey made before 04:29 AM counts towards the previous day's daily fare cap!
+> TfL's fare day runs from **04:30 to 04:29**. Any journey made before 04:29 counts towards the previous day's daily cap.
 
 ---
 
@@ -144,12 +143,12 @@ On **Friday and Saturday nights**, 24-hour service operates across six lines:
 * **Victoria Line**
 * **Windrush Line** *(the former East London Overground route, which TfL now counts as Night Tube)*
 
-Standard off-peak fares apply, and night journeys count towards the previous day's daily capping threshold (the TfL fare day runs from 04:30 to 04:29).
+Standard off-peak fares apply.
 
 ### Weekend Engineering Work
-TfL frequently performs track maintenance and signaling upgrades over weekends. Before heading out on Saturday or Sunday—especially for airport flights or theatre shows—check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
+TfL does track maintenance and signalling upgrades over weekends. Before heading out on Saturday or Sunday, especially for airport flights or theatre shows, check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**. **The whole Piccadilly line is closed on 31 October and 1 November 2026.**
 
-**Changing between King's Cross St Pancras and the main line stations** is via the King's Cross Lightwall pedestrian tunnel — the quickest route between the two, though the signage is easy to miss. Follow signs for St Pancras International, not heading back up to street level.
+**Changing between King's Cross St Pancras and the main line stations** is via the King's Cross Lightwall pedestrian tunnel. Follow signs for St Pancras International rather than heading up to street level.
 
 ![A long curving pedestrian tunnel lined with a colour-changing light wall, linking King's Cross and St Pancras](../../assets/articles/how-to-use-the-london-underground/kings-cross-lightwall-tunnel.jpg)
 
@@ -161,34 +160,32 @@ TfL frequently performs track maintenance and signaling upgrades over weekends. 
 
 ## Travelling with luggage
 
-**The line counts for more than the station.** The **Elizabeth line** and **District line** run walk-through carriages with room for a case. The deep-level lines — Central, Piccadilly, Northern, Victoria — have narrow doorways, no racks, and a step up from the platform. With a large bag, going the long way round on the Elizabeth line is usually faster than the direct deep-level route.
+**The line counts for more than the station.** The **Elizabeth line** and **District line** run walk-through carriages with room for a case. The deep-level lines — Central, Piccadilly, Northern, Victoria — have narrow doorways, no racks, and a step up from the platform.
 
 Use the **wide gate** at the ticket barrier rather than wrestling a case through a standard one. Every station has at least one, beside the staffed gate.
 
-**Step-free access has a guide of its own.** [Step-free London](/articles/step-free-london/) covers which stations qualify, the difference between the two wheelchair symbols on the map, the eight central stations with no step-free access at all, and what to do when a lift is out.
+[Step-free London](/articles/step-free-london/) covers which stations qualify, the two wheelchair symbols on the map and what to do when a lift is out.
 
 ---
 
 ## WiFi and phone signal underground
 
-Two different things get muddled here, and the difference decides whether you can use your phone on a moving train.
+**Free WiFi is at stations, not on trains.** Platforms and ticket halls on every line have it, and it drops when the train leaves the station.
 
-**Free WiFi is at stations, not on trains.** Virtually every Underground station has it on the platforms and in ticket halls, across every line, and has done for years. It drops the moment the train pulls out. Useful for checking a message while you wait; no use at all between stops.
+**Mobile signal in the tunnels is being fitted section by section** by TfL and Boldyn Networks, with all four UK networks (EE, O2, Three and Vodafone).
 
-**Mobile signal in the tunnels is a separate, rolling build.** TfL and Boldyn Networks are fitting 4G and 5G section by section, with all four UK networks — EE, O2, Three and Vodafone — and it goes live a few stations and tunnel stretches at a time rather than line by line.
+### What to expect
 
-### What stays true whatever month you read this
-
-* **The Elizabeth line is the one to take if you need to work.** It was finished end to end in December 2024 and is the only line with genuine onboard WiFi as well as signal, plus air conditioning and room for luggage.
+* **The Elizabeth line is the one to take if you need to work.** TfL lists the whole line as covered, with 4G in every station and 4G and 5G in the tunnel sections. It also has air conditioning and room for luggage.
 * **Everywhere else, assume you are offline between stations.** Download your map, your tickets and anything you want to read before you go down. The TfL Go app plans journeys offline; a browser tab does not.
-* **Coverage arrives by tunnel section, not by line.** A line is rarely all-or-nothing — the Victoria line had signal in the Vauxhall to Pimlico tunnel while the rest of it still went dark.
-* **A gap is not a fault.** If a call drops between two stations on a line you were told is covered, you have crossed into a section that is not finished.
+* **Coverage arrives by tunnel section, not by line.** The Piccadilly line, for example, has continuous coverage between Knightsbridge and Holloway Road, but not beyond.
+* **A dropped call is not a fault.** If a call drops between two stations on a covered line, you have crossed into a section that is not finished.
 
-> 📶 **As of 6 September 2026:** roughly 60% of Underground stations have 4G and 5G, and TfL expects the whole network covered by the end of 2026. The Elizabeth line is complete. The remaining work in 2026 is on the Victoria, Jubilee, Bakerloo and Piccadilly lines and the last Circle and District sections.
+> 📶 **Mobile coverage.** Sections of the Circle, District, Central, Jubilee, Piccadilly, Bakerloo, Victoria and Northern lines have 4G and 5G in stations and tunnels, and the whole Elizabeth line is covered. Further sections of the Northern, Piccadilly, Victoria and Bakerloo lines are next.
 >
-> **The station list changes every few weeks.** [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) is the live version — check it if you need signal for a specific journey.
+> [TfL's connectivity page](https://tfl.gov.uk/travel-information/improvements-and-projects/improving-digital-connectivity-on-our-network) lists coverage line by line.
 
-**If you need to be reachable underground** — you are working, or meeting someone off a train — route the journey on the Elizabeth line where you can. It is the only line where that is a safe assumption today.
+**If you need to be reachable underground**, route the journey on the Elizabeth line where you can.
 
 ---
 
@@ -218,4 +215,4 @@ Two different things get muddled here, and the difference decides whether you ca
 
 ---
 
-*Information checked on 2 August 2026. Always verify live travel status using [Transport for London](https://tfl.gov.uk/).*
+*Live travel status: [Transport for London](https://tfl.gov.uk/).*
