@@ -194,4 +194,4 @@ Fitzrovia's **Attendant** coffee shop trades from a Victorian gentleman's conven
 
 ---
 
-*Charges and opening hours as of September 2026. The Great British Public Toilet Map shows the current status of any single toilet.*
+*Charges and opening hours change; the Great British Public Toilet Map shows the current status of any single toilet.*

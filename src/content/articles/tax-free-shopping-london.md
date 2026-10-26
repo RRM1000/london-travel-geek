@@ -127,7 +127,7 @@ Some things carry **no VAT for anyone**, resident or visitor: **printed books, n
 | **South Korea** | **US$800** basic exemption |
 | **China** | **RMB 5,000** for residents, **RMB 2,000** for non-residents |
 
-> ⚠️ **Americans shipping home: read that second row twice.** Until August 2025 a parcel under $800 arrived clean. Harrods and Selfridges will both quote an estimate of the destination charges at the till.
+> ⚠️ **Americans shipping home: read that second row twice.** Since 29 August 2025 a parcel under $800 no longer arrives clean. Harrods and Selfridges will both quote an estimate of the destination charges at the till.
 
 ---
 
