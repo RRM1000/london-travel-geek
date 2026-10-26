@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London,_China_Town_--_
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-07-26
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
 reviewBy: 2027-03-26
 sites: [london]
 canonicalSite: london
@@ -31,7 +31,7 @@ faq:
     a: "Nothing. The squares, the churchyard, the market, Kingly Court and Chinatown are all free to walk through, and every plaque is on the street. The only spending is on food: a coffee at Bar Italia, a slice on Berwick Street, a cake at Maison Bertaux and lunch in Chinatown."
 ---
 
-Most people see Soho from a restaurant table after dark, and Chinatown from the queue outside one. By day it is a square kilometre of plaques, squares and a market that has traded since 1778, and all of it is free to walk.
+By day Soho is a square kilometre of plaques, squares and a market that has traded since 1778, and all of it is free to walk.
 
 **This route runs from Denmark Street to Chinatown in eleven numbered stops**: about **3km, 45 minutes of walking and two and a half to three hours with stops**. It starts a minute from Tottenham Court Road station and finishes two minutes from Leicester Square.
 
@@ -80,9 +80,9 @@ For where to eat in the evening, the nightlife and where to stay, see the [Soho 
 
 *No.Tom's shopfront at No. 6 Denmark Street.*
 
-**One short street off Charing Cross Road, and for eighty years the home of British songwriting.** A blue plaque reads: "This street was 'Tin Pan Alley' 1911–1992, home of the British publishers and songwriters and their meeting place The Giaconda." Outernet, whose development takes in the street, lists the Sex Pistols among its residents and the Rolling Stones' first album among the records made here.
+**One short street off Charing Cross Road.** A blue plaque reads: "This street was 'Tin Pan Alley' 1911–1992, home of the British publishers and songwriters and their meeting place The Giaconda." Outernet, whose development takes in the street, lists the Sex Pistols among its residents and the Rolling Stones' first album among the records made here.
 
-The guitar shops that remain are the reason to look in: **Wunjo Guitars** at No. 5 opens Monday to Saturday 10am to 7pm and Sunday 11am to 5pm. The same building carries an English Heritage plaque to **Augustus Siebe**, pioneer of the diving helmet, who lived and worked there.
+Guitar shops remain: **Wunjo Guitars** at No. 5 opens Monday to Saturday 10am to 7pm and Sunday 11am to 5pm. The same building carries an English Heritage plaque to **Augustus Siebe**, pioneer of the diving helmet, who lived and worked there.
 
 Cross Charing Cross Road and take Sutton Row west into Soho Square.
 
@@ -106,15 +106,15 @@ Leave by the south-west corner into Dean Street.
 
 ## 3. Dean Street: Karl Marx
 
-**Marx lived at 28 Dean Street from 1851 to 1856**, in two rooms on the second floor: a back bedroom for the whole family and a front room that was kitchen and living room. Jenny Marx called them "the evil frightful rooms". Two of their children died here and a third, Eleanor, was born. He was working on the first volume of *Das Kapital*, researching it in the British Museum's library.
+**Marx lived at 28 Dean Street from 1851 to 1856**, in two rooms on the second floor. Jenny Marx called them "the evil frightful rooms". Two of their children died here and a third, Eleanor, was born.
 
 ![The round blue Greater London Council plaque to Karl Marx, 1818–1883, "lived here 1851–56", between two tall black-framed windows on the pale grey front of 28 Dean Street](../../assets/articles/soho-chinatown-walk/dean-street-karl-marx.jpg)
 
 *The Karl Marx plaque, above Quo Vadis.*
 
-**The blue plaque went up in 1967**, after two earlier ones at his last house, on Maitland Park Road, were vandalised. English Heritage records that the owner of the restaurant downstairs objected to it at the time.
+**The blue plaque went up in 1967.**
 
-That restaurant is **Quo Vadis**, which opened in 1926 and is marking its centenary with a calendar of centenary dishes. The **smoked eel sandwich is £18.50**. Lunch is served Monday to Saturday, noon to 2.30pm, and it is closed on Sundays.
+The restaurant downstairs is **Quo Vadis**, which opened in 1926. The **smoked eel sandwich is £18.50**. Lunch is served Monday to Saturday, noon to 2.30pm, and it is closed on Sundays.
 
 Take Bateman Street east to Frith Street.
 
@@ -132,9 +132,9 @@ Three plaques in a hundred metres, and the route's coffee stop.
 - **No. 20**: a Royal Musical Association plaque says **Mozart** "lived, played and composed" in a house on this site in 1764–5, aged eight. The family's first London lodging, on Cecil Court, is on the [Covent Garden walk](/articles/covent-garden-walk/#2-cecil-court).
 - **No. 22**: **John Logie Baird** worked in two attic rooms here from November 1924, and on **26 January 1926** gave the first demonstration of a working television, to 40 members of the Royal Institution.
 
-**Bar Italia** is on the ground floor of No. 22. The Polledri family opened it in 1949, and it is **open every day from 7am to 4am**: coffee at the counter, and a place to stand, not a meal.
+**Bar Italia** is on the ground floor of No. 22. The Polledri family opened it in 1949, and it is **open every day from 7am to 4am**: coffee at the counter.
 
-**Ronnie Scott's is directly opposite, at No. 47.** The club moved here in 1965; its first home is at the end of this walk. It opens in the evening, from 5.30pm, and for a Sunday lunchtime session, so on a daytime walk there is only the frontage and the month's bills. For a return visit, the **Late Late Show** starts at 11.15pm Wednesday to Saturday at £12, and most tickets are available on the door.
+**Ronnie Scott's is directly opposite, at No. 47.** The club moved here in 1965; its first home is at the end of this walk. It opens in the evening, from 5.30pm, and for a Sunday lunchtime session, so on a daytime walk you see only the frontage. The late-night **Late Late Show** runs several nights a week.
 
 ![The black frontage of Ronnie Scott's on Frith Street with its neon sign and posters for the month's shows](../../assets/articles/london-jazz-festival/ronnie-scotts-jazz-club-soho.jpg)
 
@@ -144,15 +144,15 @@ Continue down Frith Street to Old Compton Street and turn right. Turn right up D
 
 ## 5. Berwick Street market
 
-**Founded in 1778, and one of London's oldest street markets.** Westminster City Council licenses it **Monday to Saturday, 8am to 6pm**, for fruit and vegetables, flowers, coffee, dairy and hot food, and it is Soho's main lunchtime food street. The stalls are fewer than they were: count on a lunchtime pass-through, not a morning's shopping.
+**Founded in 1778.** Westminster City Council licenses it **Monday to Saturday, 8am to 6pm**, for fruit and vegetables, flowers, coffee, dairy and hot food, and calls it Soho's main lunchtime food destination. Count on a lunchtime pass-through, not a morning's shopping.
 
 ![A fruit and vegetable barrow on wooden cartwheels on Berwick Street, under a striped awning and an Exotic Fruits sign, piled with papayas, peppers, chillies and a sack of potatoes](../../assets/articles/soho-chinatown-walk/berwick-street-market.jpg)
 
 *A barrow at Berwick Street market.*
 
-**Breadstall** at No. 92 is the stop worth making: a counter selling slow-fermented pizza by the quarter, half or whole, walk-in only. It is covered in our [pizza guide](/articles/best-pizza-london/).
+**Breadstall** at No. 92 is a counter selling slow-fermented pizza by the quarter, half or whole, walk-in only. It is covered in our [pizza guide](/articles/best-pizza-london/).
 
-> ⚠️ **There is no market on Sunday.** It is the one stop on this walk that shuts for a whole day.
+> ⚠️ **There is no market on Sunday.**
 
 Walk north to the top of the market and turn left into Broadwick Street.
 
@@ -188,7 +188,7 @@ Leave Kingly Court by the Beak Street entrance and walk down Upper John Street i
 
 ## 8. Golden Square
 
-**Laid out in the 1670s, possibly to plans by Christopher Wren.** The statue in the middle is **George II**; Dickens described the square as a little wilderness of shrubs watched over by a "mournful statue". Four mature hornbeams stand in the garden.
+**Laid out in the 1670s, possibly to plans by Christopher Wren.** The statue in the middle is **George II**, among four mature hornbeams.
 
 ![Golden Square's paved garden in spring: a bed of red, orange and pink tulips, a stone urn, large hornbeams behind, and the statue of George II on its plinth on the right](../../assets/articles/soho-chinatown-walk/golden-square.jpg)
 
@@ -202,9 +202,9 @@ Leave by Lower John Street, follow Brewer Street east to Wardour Street, and tur
 
 ## 9. St Anne's churchyard
 
-**The garden is well above the pavement on Wardour Street, and the reason is underneath.** The church says up to 60,000 people are buried here. The churchyard closed to burials in the 1850s, largely because a sexton had been dumping bodies in the ground and selling their coffins for firewood, and because London's churchyards were full.
+**The garden stands well above the pavement on Wardour Street because of what is underneath.** The church says up to 60,000 people are buried here. The churchyard closed to burials in the 1850s.
 
-**William Hazlitt** is among them. The church itself was consecrated in 1686 by Bishop Henry Compton, after whom Old Compton Street is named, and was bombed in 1940. Only the **tower of 1803** survived, and its clock is still wound by hand. The crime writer **Dorothy L. Sayers** was churchwarden while there was no church building at all, and her ashes are in the base of the tower.
+**William Hazlitt** is among them. The church itself was consecrated in 1686 by Bishop Henry Compton, after whom Old Compton Street is named, and was bombed in 1940. Only the **tower of 1803** survived, and its clock is still wound by hand. The crime writer **Dorothy L. Sayers** was churchwarden here, and her ashes are in the base of the tower.
 
 ![The tower of St Anne's Soho: a brick base with a round window rising to a stone belfry, a copper-clad drum and a blue clock face, with a weathervane on top](../../assets/articles/soho-chinatown-walk/st-annes-churchyard.jpg)
 
@@ -228,9 +228,9 @@ Walk south down Greek Street, cross Shaftesbury Avenue, and take Gerrard Place i
 
 *Chinatown's Wardour Street gate.*
 
-**Gerrard Street was completed in 1685.** London's first Chinatown was in Limehouse; after the Blitz damaged it, the community moved west, and by the 1950s restaurants were opening here. In the late 1980s Gerrard Street was pedestrianised and the first gates went up. The largest, on **Wardour Street**, was opened on **25 July 2016**, built in the Qing dynasty style by Chinese craftsmen.
+**Gerrard Street was completed in 1685** and pedestrianised in the late 1980s, when the first gates went up. The largest, on **Wardour Street**, opened on **25 July 2016** and was built in the Qing dynasty style by Chinese craftsmen.
 
-The history is on the walls. A blue plaque at **No. 39** marks the basement where **Ronnie Scott opened his club in October 1959**, before the move to Frith Street. At **No. 9** a plaque marks the **Turk's Head Tavern**, where Samuel Johnson and Joshua Reynolds founded The Club in 1764, and **John Dryden** lived at No. 43.
+A blue plaque at **No. 39** marks the basement where **Ronnie Scott opened his club in October 1959**, before the move to Frith Street. At **No. 9** a plaque marks the **Turk's Head Tavern**, where Samuel Johnson and Joshua Reynolds founded The Club in 1764, and **John Dryden** lived at No. 43.
 
 Walk west along Gerrard Street and turn left down Wardour Street to the gate. Come back a few steps and turn into **Lisle Street**, whose 18th-century shopfronts were restored in the 1980s. It ends at Newport Place, two minutes from Leicester Square.
 
@@ -245,15 +245,13 @@ Walk west along Gerrard Street and turn left down Wardour Street to the gate. Co
 - **Bun House**, 26–27 Lisle Street: steamed buns from a counter, **walk-in only**, from noon daily.
 - **Chinatown Bakery**, 7 Newport Place: egg tarts and bolo bao, 10.30am to 9pm daily.
 
-> 💡 **Come for lunch, not tea.** Most dim sum kitchens stop at about 4pm, and Sunday afternoon is when Chinatown is at its busiest. For the full list, see our [dim sum guide](/articles/best-dim-sum-london/) and [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/); for dinner, Chinatown's hot pot rooms are in our [hot pot guide](/articles/best-hot-pot-london/).
+> 💡 **Come for lunch, not tea.** Most dim sum kitchens stop at about 4pm. For the full list, see our [dim sum guide](/articles/best-dim-sum-london/) and [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/); for dinner, Chinatown's hot pot rooms are in our [hot pot guide](/articles/best-hot-pot-london/).
 
 ---
 
 <div data-stay-strip></div>
 
 ## Where to eat
-
-The route is timed so the eating falls into place:
 
 - **Bar Italia** (£) at stop four: coffee at the counter from 7am, every day.
 - **Breadstall** (£) at stop five: pizza by the slice on the market street, walk-in.
@@ -264,7 +262,7 @@ For a sit-down lunch on the way, **Quo Vadis** at stop three serves Monday to Sa
 
 ## The best day to go
 
-**Monday to Saturday.** Almost everything on the route is a street, a plaque or a garden, and they do not close. Two things do.
+**Monday to Saturday.** Almost everything on the route is a street, a plaque or a garden, and they do not close.
 
 | Day | What you get |
 | --- | --- |
@@ -274,9 +272,9 @@ For a sit-down lunch on the way, **Quo Vadis** at stop three serves Monday to Sa
 
 **What closes:** Berwick Street market on Sundays, and the three gardens (Soho Square, Golden Square and St Anne's churchyard) in the late afternoon in winter. From the end of British Summer Time until 15 February they shut at 4.30pm.
 
-**Sunday still works** if the market is not the point. The squares and plaques are the same and Bar Italia opens at 7am. Reach Chinatown before 1pm to eat before the family crowds.
+**Sunday still works** if the market is not the point: reach Chinatown before 1pm to eat before the crowds.
 
-**On time of day:** start at 10am or 11am. Denmark Street's shops open at 10am, the market is at its fullest at lunchtime, and you reach Chinatown in time to eat. After dark the route turns into the Soho of the area guide: Frith Street is loud, Ronnie Scott's is open, and the gardens are locked.
+**Time of day:** start at 10am or 11am. Denmark Street's shops open at 10am and you reach Chinatown in time to eat. After dark the gardens are locked.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="soho-chinatown-walk-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -300,7 +298,7 @@ The route is flat. St Anne's churchyard is the one stop with steps and no step-f
 
 - **[The Soho area guide](/articles/soho-area-guide/)**: where to eat in the evening, the nightlife and how Soho changes after 6pm.
 - **[Where to stay in Soho and the West End](/articles/where-to-stay-soho-west-end/)**: which streets are still loud at 2am.
-- **[London's blue plaques](/articles/london-blue-plaques/)**: Marx's plaque and the rest of the city's best.
+- **[London's blue plaques](/articles/london-blue-plaques/)**: Marx's plaque and the rest of the city's plaques.
 - **[The best live music venues](/articles/best-live-music-venues-london/)**: Ronnie Scott's and the other jazz rooms, for the evening.
 - **[Free things to do in London](/free/)**: every stop on this walk costs nothing to see.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.
