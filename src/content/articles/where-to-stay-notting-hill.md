@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:View_of_the_seat_in_the
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 publishedAt: 2026-07-25
-updatedAt: 2026-10-07
-reviewBy: 2027-03-24
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -33,7 +33,7 @@ faq:
 
 Notting Hill and Bayswater are one stretch of stucco streets along the north side of Kensington Gardens, from Lancaster Gate in the east to Portobello Road in the west. Notting Hill is where the boutique hotels are. Bayswater, ten minutes' walk east, is where most of the rooms are and where the prices drop.
 
-The Central line runs under the whole strip, stopping at Notting Hill Gate, Queensway and Lancaster Gate, and Paddington, for Heathrow, is one stop from Bayswater on the Circle line. What decides where you sleep is the market, the park and one weekend in August.
+The Central line runs under the whole strip, stopping at Notting Hill Gate, Queensway and Lancaster Gate, and Paddington, for Heathrow, is one stop from Bayswater on the Circle line.
 
 > 💡 **The Short Version:** For Notting Hill itself, **[The Laslett](hotel:the-laslett)** is about £240 in five listed townhouses a minute from Notting Hill Gate station. **[The Portobello Hotel](hotel:the-portobello-hotel)** is about £260 for the round beds and freestanding baths, but every room takes two people only. On a budget, **[Vancouver Hotel and Studios](hotelscom:h520898)** on Prince's Square lists studios with kitchenettes from £97. With children, **[Royal Lancaster London](hotel:royal-lancaster-london)** sells interconnecting family rooms opposite Kensington Gardens. For the top end, **[Six Senses London](hotel:six-senses-london)** is about £700 inside the old Whiteleys department store. And check the calendar: **Notting Hill Carnival is on 29 and 30 August 2027**.
 
@@ -57,7 +57,7 @@ Our [Notting Hill area guide](/articles/notting-hill-area-guide/) covers the mar
 
 *About £240 · 8 Pembridge Gardens, W2 4DU · Notting Hill Gate 1 min · Breakfast extra · [Hotels.com](hotel:the-laslett)*
 
-Five Grade II-listed Victorian townhouses on the street beside the station. It is named after Rhaune Laslett, the community activist whose street festival helped start the Carnival, and the bar, The Henderson, after Russell Henderson, the Trinidadian steel pan player who led the band through it. The walls carry work by local artists, including Brian David Stevens's photographs of Carnival sound systems.
+Five Grade II-listed Victorian townhouses on the street beside the station. The walls carry work by local artists, including Brian David Stevens's photographs of Carnival sound systems.
 
 <div class="photo-row">
 
@@ -75,7 +75,7 @@ Rooms are named like a house's: **Spare Room Singles of 16 square metres**, Spar
 
 *££ · 146–164 Notting Hill Gate, W11 3QG · Notting Hill Gate 4 min · Check-in 3pm, out 11am · [Hotels.com](hotel:ruby-zoe)*
 
-Ruby calls its format Lean Luxury: compact rooms, with the money spent on the bed and the bar. Here the decoration is Caribbean colour and carnival costume, with instruments and speakers placed around the building. It is sold through IHG, so **IHG One Rewards points apply**. The minimum check-in age is 18.
+Compact rooms, with the money spent on the bed and the bar, and Caribbean colour and carnival costume throughout, with instruments and speakers placed around the building. It is sold through IHG, so **IHG One Rewards points apply**. The minimum check-in age is 18.
 
 ![A room at Ruby Zoe with a white platform bed crossed by a red ribbon, dark slatted wood panelling behind the bed and TV, a rattan armchair by a wide curtained window and a Marshall guitar amp on the floor](../../assets/articles/where-to-stay-notting-hill/ruby-zoe-room.jpg)
 
@@ -105,7 +105,7 @@ It runs like a guest house: **check-in is online with keyless entry, and staff a
 
 *About £260 · 22 Stanley Gardens, W11 2NG · Notting Hill Gate 10 min · [Hotels.com](hotel:the-portobello-hotel)*
 
-Open since 1971 on a residential street of the Ladbroke estate, west of Portobello Road, and long used by musicians. The hotel repeats the story that Johnny Depp and Kate Moss once filled the bath in Room 16 with champagne.
+Open since 1971 on a residential street of the Ladbroke estate, west of Portobello Road.
 
 Rooms are graded Good (15 square metres, at the front on the ground and second floors) through Better, Great, Marvellous and Outstanding to the **Best Room, 36 square metres with a round bed and a freestanding Victorian bath**. There is an honesty bar in the drawing room, and breakfast runs 7.30 to 10.30am, until 11 at weekends, downstairs or in your room.
 
@@ -130,7 +130,7 @@ Two rules decide it:
 
 *£££ · 47 Hereford Road, W2 5AH · Bayswater 9 min · [cubitthouse.co.uk](hotel:the-princess-royal-notting-hill)*
 
-A Cubitt House pub off Westbourne Grove, with four bedrooms upstairs named after princesses, sold as doubles and cosy doubles. Downstairs there is a conservatory, two terraces planted by the garden designer Jinny Blom, a raw bar and a kitchen serving from 8am. It is a working pub with two private dining rooms: book it for the pub, not for early nights.
+A Cubitt House pub off Westbourne Grove with four bedrooms upstairs, sold as doubles and cosy doubles. Downstairs there is a conservatory, two terraces, a raw bar and a kitchen serving from 8am. It is a working pub with two private dining rooms, so book it for the pub, not for early nights.
 
 <div class="photo-row">
 
@@ -146,7 +146,7 @@ A Cubitt House pub off Westbourne Grove, with four bedrooms upstairs named after
 
 *Studios from £97, doubles from £149 · 30 Prince's Square, W2 4NJ · Bayswater 4 min · [Hotels.com](hotelscom:h520898)*
 
-Opened in the 1920s by two Canadian sisters, who named it after their home city, and in only its second family's hands since. Every room has an en-suite and a kitchenette. The Standard Double Studio is listed from £149 and the Garden Double Studio, opening onto the private garden, from £185.
+Every room has an en-suite and a kitchenette. The Standard Double Studio is listed from £149 and the Garden Double Studio, opening onto the private garden, from £185.
 
 For a group, the **three-bedroom, two-bathroom garden apartment sleeps six from £350 a night**. There is a bar, a gym, a guest laundry and a 24-hour reception, and continental breakfast is served in the bar or the garden. **There is no lift**, only the original staircase. No pets.
 
@@ -200,7 +200,7 @@ A hostel run around a **free family dinner every evening**, plus a daily outing 
 
 *Hostel · 48–49 Prince's Square, W2 4PX · Bayswater 6 min · [Hotels.com](hotel:urbany-hostel-london)*
 
-On the same square as Onefam, from a Barcelona hostel group. **The London hostel takes guests aged 18 to 40 only**; anyone outside that has to contact it before booking. Dorms sleep four to eight, with a locker at every bed (bring your own padlock) and a plug and USB socket beside it. Every bathroom is outside the rooms, including for the private double and twin. Staff run free dinners, nights out and city walks.
+On the same square as Onefam. **The London hostel takes guests aged 18 to 40 only**; anyone outside that has to contact it before booking. Dorms sleep four to eight, with a locker at every bed (bring your own padlock) and a plug and USB socket beside it. Every bathroom is outside the rooms, including for the private double and twin. Staff run free dinners, nights out and city walks.
 
 <div class="photo-row">
 
@@ -218,7 +218,7 @@ On the same square as Onefam, from a Barcelona hostel group. **The London hostel
 
 *About £700 · 1 Redan Place, W2 4SA · Bayswater 5 min · Breakfast extra · [Hotels.com](hotel:six-senses-london)*
 
-109 rooms and suites inside The Whiteley, the rebuilt Whiteleys department store at the top of Queensway. **Pay for the spa**: it is built underground, designed to recall an old Tube station, with cryotherapy and flotation alongside the treatment rooms. Whiteley's Kitchen, Bar and Café is the restaurant, and hotel guests can use Six Senses Place, the members' club in the building.
+109 rooms and suites inside The Whiteley, the rebuilt Whiteleys department store at the top of Queensway. **The spa is underground**, with cryotherapy and flotation alongside the treatment rooms. Whiteley's Kitchen, Bar and Café is the restaurant, and hotel guests can use Six Senses Place, the members' club in the building.
 
 <div class="photo-row">
 
@@ -234,7 +234,7 @@ On the same square as Onefam, from a Barcelona hostel group. **The London hostel
 
 *1–9 Inverness Terrace, W2 3JP · Queensway 2 min · Check-in 3pm, out 11am · [Hotels.com](hotelscom:h1402870)*
 
-A four-star from the Montcalm Collection at the Bayswater Road end of Inverness Terrace. The hotel says the building was commissioned by Edward VII for Lillie Langtry and designed by Charles Mewès, architect of the Ritz; the top suite carries her name. Rooms start at singles, and the public rooms keep their wood panelling and marble fireplaces.
+A four-star from the Montcalm Collection at the Bayswater Road end of Inverness Terrace. Rooms start at singles, and the public rooms keep their wood panelling and marble fireplaces.
 
 <div class="photo-row">
 
@@ -266,7 +266,7 @@ A four-star on a residential street between Queensway and Paddington. Club Rooms
 
 *1–2 Queen's Gardens, W2 3BA · Bayswater, Lancaster Gate and Paddington 8 min · [Hotels.com](hotelscom:h3087913)*
 
-158 rooms in a crescent of mid-19th-century townhouses on a tree-lined square, with a spa and Yeotown, a meat-free restaurant. Rooms are small: the single Sleeper is 8 to 11 square metres and the standard Cosy double 12 to 15. **Family rooms sleep four in four single beds**, 20 to 24 square metres, and some interconnect.
+158 rooms in a crescent of townhouses on a square, with a spa and Yeotown, a meat-free restaurant. Rooms are small: the single Sleeper is 8 to 11 square metres and the standard Cosy double 12 to 15. **Family rooms sleep four in four single beds**, 20 to 24 square metres, and some interconnect.
 
 <div class="photo-row">
 
@@ -284,7 +284,7 @@ A four-star on a residential street between Queensway and Paddington. Club Rooms
 
 *95–99 Lancaster Gate, W2 3NS · Lancaster Gate 4 min, Paddington 7 min · [Hotels.com](hotelscom:h10546518)*
 
-Five Grade II Victorian townhouses from 1856, opposite the park, that have been a Red Cross hospital and an officers' club and were later the hotel bands on the way up stayed in. **Every room keeps its original 1970s avocado bathroom suite.**
+Five Grade II Victorian townhouses opposite the park. **Every room keeps its original 1970s avocado bathroom suite.**
 
 Rooms are small at the bottom and generous at the top: singles and small doubles of 10 to 12 square metres, doubles and twins of 14 to 16, **family rooms with two double beds** and triples of 18 to 20, and quads of 20 to 22. Booking direct gets free parking when a space is free and a noon check-out. Dogs are welcome.
 
@@ -302,7 +302,7 @@ Rooms are small at the bottom and generous at the top: singles and small doubles
 
 *£££ · Lancaster Terrace, W2 2TY · Lancaster Gate 1 min, Paddington 6 min · [Hotels.com](hotel:royal-lancaster-london)*
 
-A tower opened in 1967 on the edge of the park, opposite the Italian Gardens, and still independently owned. The upper floors look over the park to the skyline. **Classic Family rooms are two rooms with an interconnecting door and two marble bathrooms**, and children's amenities come on request; our [family hotels guide](/articles/best-family-hotels-london/) compares it with the others. Nipa Thai, run by an all-Thai kitchen, is the restaurant, and there is afternoon tea; our [afternoon tea guide](/articles/best-afternoon-tea-london/) covers where else to book one.
+A tower on the edge of the park, opposite the Italian Gardens. The upper floors look over the park to the skyline. **Classic Family rooms are two rooms with an interconnecting door and two marble bathrooms**, and children's amenities come on request; our [family hotels guide](/articles/best-family-hotels-london/) compares it with the others. Nipa Thai, run by an all-Thai kitchen, is the restaurant, and there is afternoon tea; our [afternoon tea guide](/articles/best-afternoon-tea-london/) covers where else to book one.
 
 <div class="photo-row">
 
@@ -331,7 +331,7 @@ At the 2026 Carnival, TfL ran these station restrictions on both days:
 
 TfL pointed visitors to Paddington instead, with signed walking routes to the Carnival. Road closures ran until 6am on the Tuesday, with traffic diverted onto a ring route including Holland Park Avenue and Kensington Church Street.
 
-For where to sleep, that means:
+For where to sleep:
 
 - **The Notting Hill hotels are in the crowd.** The Laslett, Ruby Zoe, The Lost Poet and The Portobello Hotel are minutes from the route, and their nearest station has no entry all afternoon.
 - **For a quiet night, book Lancaster Gate.** The Columbia and the Royal Lancaster are about twenty minutes' walk from Portobello Road, and Lancaster Gate station was not on TfL's restriction list.
@@ -360,4 +360,4 @@ Our [budget hotels guide](/articles/best-budget-hotels-london/) covers the cheap
 
 For how Notting Hill compares with every other base in London, see [the best areas to stay in London](/articles/best-areas-to-stay-in-london/). South of the park, our [South Kensington guide](/articles/where-to-stay-south-kensington/) covers the museum end, and the [Kensington area guide](/articles/kensington-area-guide/) covers Kensington Palace and Holland Park.
 
-*Typical nightly rates for a double, or each hotel's own published from-rate where it gives one, checked 24 September 2026. The £ symbols mark a price band where a hotel publishes no rate. Carnival dates from the Carnival organisers; 2026 station arrangements from TfL. Prices move nightly, so check your own dates.*
+*Prices are typical nightly rates for a double, or each hotel's own from-rate where it gives one. The £ symbols mark a price band where a hotel publishes no rate. Prices move nightly, so check your own dates.*
