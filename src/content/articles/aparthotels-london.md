@@ -5,7 +5,8 @@ description: "London aparthotels and serviced apartments compared by area: Locke
 heroImage: "../../assets/articles/aparthotels-london/aparthotel-studio-living-space.jpg"
 heroImageAlt: "A studio room with a bed, a sitting area with a bench sofa and cushions, a full-height wardrobe and a screened bathroom beyond"
 publishedAt: 2026-09-07
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -13,11 +14,11 @@ tags: [where to stay, hotels, planning, families]
 draft: false
 faq:
   - q: "What is an aparthotel?"
-    a: "A hotel where the room has a kitchen. You book by the night like a hotel, there is a front desk and someone changes the sheets, but the unit has a hob, a fridge and a microwave rather than a full cooker. A dishwasher is the exception — Staycity and Wilde both fit one as standard, most others don't say either way — and a washing machine only comes with specific properties, not the format as a whole. It sits between a hotel room and a rented flat: more service than an Airbnb, more space and self-sufficiency than a hotel."
+    a: "A hotel where the room has a kitchen. You book by the night like a hotel, there is a front desk and someone changes the sheets, but the unit has a hob, a fridge and a microwave rather than a full cooker. A dishwasher is the exception — Staycity and Wilde both fit one as standard, most others don't say either way — and a washing machine only comes with specific properties, not the format as a whole."
   - q: "Are aparthotels cheaper than hotels in London?"
     a: "Not per night — a studio usually costs about the same as a decent hotel room in the same postcode. The saving is in what you stop paying for: breakfast for a family of four in central London is £60 to £80 a day, and an aparthotel kitchen removes most of that. The format pays for itself somewhere around the third or fourth night, and earlier if there are children."
   - q: "Do aparthotels clean your room?"
-    a: "Weekly, not daily, and that is the format's defining trade. Locke lists weekly cleaning across its London sites. Staycity does a full clean on day four and every seven days after that, for stays of seven nights or more. Supercity cleans once a week with a full change of towels and linen. If you want your bed made every morning, book a hotel."
+    a: "Weekly, not daily. Locke lists weekly cleaning across its London sites. Staycity does a full clean on day four and every seven days after that, for stays of seven nights or more. Supercity cleans once a week with a full change of towels and linen. If you want your bed made every morning, book a hotel."
   - q: "Which London aparthotels have a washing machine?"
     a: "Supercity and Cheval put a washer-dryer in every unit, and so do specific addresses elsewhere: Bermonds Locke, and Native's Bankside and King's Wardrobe sites, all have one in the apartment. Buckle Street Studios, both Cove addresses and Staycity charge for a shared laundry room instead — Locke's is £5 to wash and £5 to dry — so it varies within a brand as much as between brands, and the specific address is what to check."
   - q: "Are aparthotels good for families?"
@@ -25,12 +26,12 @@ faq:
   - q: "What is the difference between an aparthotel and a serviced apartment?"
     a: "Increasingly nothing, and the same operator will use both words. In practice a serviced apartment leans longer-stay and more residential — a concierge rather than a reception, full kitchens, sometimes a building where people actually live. An aparthotel leans shorter-stay and more hotel-like, with a lobby and a bar. Cheval and the Cove sites are the first kind; Locke and Staycity the second."
   - q: "Is an aparthotel better than an Airbnb in London?"
-    a: "For most trips, yes, and the reasons are boring ones: a front desk, a company that has to answer the phone, published cleaning standards, and no chance of the booking evaporating a week out. You give up the character of a real flat and, sometimes, the price. Aparthotels are also unambiguously legal, which short lets in London are not always."
+    a: "For most trips, yes: a front desk, a company that has to answer the phone, published cleaning standards, and no chance of the booking evaporating a week out. You give up the character of a real flat and, sometimes, the price. Aparthotels are also unambiguously legal, which short lets in London are not always."
 ---
 
-An aparthotel is a hotel where the room has a kitchen. Whether that is worth anything to you comes down to one number: **how many nights you are staying**.
+An aparthotel is a hotel where the room has a kitchen. Whether that is worth it comes down to **how many nights you are staying**.
 
-Per night, a London studio costs about what a decent hotel room costs in the same postcode. The saving is in what you stop paying for — and for a family, breakfast alone in central London runs £60 to £80 a day.
+Per night, a London studio costs about what a decent hotel room costs in the same postcode. The saving is in what you stop paying for: for a family, breakfast alone in central London runs £60 to £80 a day.
 
 > 💡 **The Short Version:** The format pays for itself around the **third or fourth night**, sooner with children. The universal trade is that **nobody cleans your room daily** — weekly is the standard across every operator here. **Supercity** and **Cheval** put a washer-dryer in every unit, and so do a few specific Locke and Native addresses — most others use a shared laundry room instead. Kitchens vary just as much — some come with a dishwasher, others just a hob and a microwave — so check the room grade. **Cheval** and the **Cove** properties do proper separate bedrooms; most of the rest are studios, where a family of four shares one room.
 >
@@ -38,30 +39,30 @@ Per night, a London studio costs about what a decent hotel room costs in the sam
 
 ## The trade nobody puts on the booking page
 
-**Housekeeping is weekly, not daily.** This is consistent enough across the category to treat as the defining feature:
+**Housekeeping is weekly, not daily:**
 
 - **Locke** lists weekly cleaning across its London sites.
 - **Staycity** does a full clean on day four, then every seven days, on stays of seven nights or more.
 - **Supercity** cleans once a week, with a full change of towels and linen.
 
-If you like a made bed and fresh towels every morning, this is the wrong format and no amount of kitchen makes up for it. If you are staying a week and would rather nobody came in at all, it is the right one.
+If you want a made bed and fresh towels every morning, book a hotel.
 
-**The second trade is the layout.** A great many London aparthotels are **studios** — one room with a bed, a sofa and a kitchen along the wall. That is comfortable for one or two and cramped for four, and the booking pages are not always clear which you are getting. Separate bedrooms exist, but they are the expensive end.
+**The second trade is the layout.** Many London aparthotels are **studios**: one room with a bed, a sofa and a kitchen along the wall, comfortable for one or two and cramped for four. Separate bedrooms cost more.
 
 ## What the six operators actually differ on
 
 | Operator | London sites | Format | The distinguishing thing |
 | --- | --- | --- | --- |
 | **Locke** | 10 | Studios, design-led | Lobbies that work as cafés and coworking; gyms at the bigger sites |
-| **Native** | 5 | Studios and apartments | Best-placed buildings — the Globe, Carter Lane, a Mayfair mews |
-| **Cheval** | 3 | Full apartments | One to three bedrooms, concierge, the luxury end |
+| **Native** | 5 | Studios and apartments | Buildings behind the Globe, on Carter Lane and in a Mayfair mews |
+| **Cheval** | 3 | Full apartments | One to three bedrooms, concierge |
 | **Supercity** | 3 | Suites | **A washer-dryer in every suite** |
-| **Staycity** | 3 | Kitchenette studios | Cheapest, and the only one well outside Zone 1 |
-| **Wilde** | 2 | Studios | Staycity's central, smarter sister brand |
+| **Staycity** | 3 | Kitchenette studios | Sites in Greenwich and Deptford, outside Zone 1 |
+| **Wilde** | 2 | Studios | Staycity's central sister brand |
 
-**Locke is the one to pick** if you want a lobby with life in it. Their sites are built so that the ground floor is a working café and bar used by people who are not staying there, which solves the biggest problem with the format — that an apartment can be a lonely way to spend a week. Leman Locke and Bermonds Locke both fit the same kit: a hob, a fridge and a microwave (a microwave-grill at Bermonds) rather than a full cooker, with a kettle and basic cookware but no dishwasher. Buckle Street Studios, the cheaper site next door to Leman, keeps to a smaller kitchenette again. Bermonds Locke is the only one of the three with a washer-dryer built in; Buckle Street Studios has a shared laundry room instead, £5 to wash and £5 to dry.
+**Locke** sites have a ground-floor café and bar used by people who are not staying there. Leman Locke and Bermonds Locke both fit the same kit: a hob, a fridge and a microwave (a microwave-grill at Bermonds) rather than a full cooker, with a kettle and basic cookware but no dishwasher. Buckle Street Studios, the cheaper site next door to Leman, keeps to a smaller kitchenette again. Bermonds Locke is the only one of the three with a washer-dryer built in; Buckle Street Studios has a shared laundry room instead, £5 to wash and £5 to dry.
 
-**Cheval is the one to know if you need bedrooms.** Three Quays sits on the river between the Tower and Tower Bridge with apartments looking at both, and Gloucester Park is eight minutes from the free South Kensington museums. Both do one- to three-bedroom layouts, which is what a family of four actually needs. Both also come with a full kitchen, a washer-dryer and a 24-hour gym as standard — Gloucester Park adds secure underground parking and a twelve-person private cinema room, while Three Quays has neither.
+**Cheval is the one for separate bedrooms.** Three Quays sits on the river between the Tower and Tower Bridge with apartments looking at both, and Gloucester Park is eight minutes from the free South Kensington museums. Both do one- to three-bedroom layouts, which is what a family of four actually needs. Both also come with a full kitchen, a washer-dryer and a 24-hour gym as standard — Gloucester Park adds secure underground parking and a twelve-person private cinema room, while Three Quays has neither.
 
 ![The living area of an apartment at Cheval Three Quays, with an armchair and coffee table in the foreground and the bedroom visible through an open partition beyond](../../assets/articles/aparthotels-london/cheval-three-quays-living-area.jpg)
 
@@ -77,7 +78,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 *A bedroom at Cheval Gloucester Park.*
 
-**Supercity is the one to know for a long stay**, on the washer-dryer that comes with every suite — though Cheval matches it, and so do Bermonds Locke and two of Native's addresses. Over two weeks that is the difference between doing laundry in your room and hunting for a launderette. The kitchen itself depends on the room grade: Supercity's cheapest Studio Suites get a kitchen/dining area rather than a full kitchen, which only arrives from the One Bedroom Suite up.
+**Supercity puts a washer-dryer in every suite**, as do Cheval, Bermonds Locke and two of Native's addresses; over two weeks that saves hunting for a launderette. The kitchen itself depends on the room grade: Supercity's cheapest Studio Suites get a kitchen/dining area rather than a full kitchen, which only arrives from the One Bedroom Suite up.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="aparthotels-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -103,7 +104,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
   </noscript>
 </details>
 
-**Central, and priced like it.** Wilde Covent Garden is on Adam Street between the Strand and the river, three minutes from the piazza — its studios run to a full kitchen, with a hob, a dishwasher, a fridge and Smeg kettle and toaster. [Native Mayfair](hotel:native-mayfair) is on a mews off Grosvenor Square, under ten minutes from Bond Street and the Elizabeth line; the kitchen comes as standard here too, though there's no gym on-site — the nearest is a short, paid walk away. Both are as central as this format gets in London.
+**Central, and priced like it.** Wilde Covent Garden is on Adam Street between the Strand and the river, three minutes from the piazza — its studios run to a full kitchen, with a hob, a dishwasher, a fridge and Smeg kettle and toaster. [Native Mayfair](hotel:native-mayfair) is on a mews off Grosvenor Square, under ten minutes from Bond Street and the Elizabeth line; the kitchen comes as standard here too, though there's no gym on-site — the nearest is a short, paid walk away.
 
 <div class="photo-row">
 
@@ -119,7 +120,7 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 *The bathroom at Native Mayfair.*
 
-**The City, which is the value trick.** Cove by Locke has Moorgate and Cannon Street, Native has King's Wardrobe on Carter Lane by St Paul's, Supercity has The Chronicle off Fetter Lane, and Cheval has Three Quays on the river. The Square Mile empties at weekends, so **Saturday is often the cheapest night of the week** — the reverse of everywhere else in London, and worth checking before you book a Friday. Cove's Cannon Street studios are kitchenettes rather than full kitchens, with a shared laundry room and a 24-hour front desk; there's no on-site parking, though there's a public car park close by. King's Wardrobe is the one Native address in this guide with its own restaurant downstairs — Counter, a café-bar-and-courtyard — and its own paid parking below the building, which none of the other Native sites here offer.
+**The City.** Cove by Locke has Moorgate and Cannon Street, Native has King's Wardrobe on Carter Lane by St Paul's, Supercity has The Chronicle off Fetter Lane, and Cheval has Three Quays on the river. The Square Mile empties at weekends, so **Saturday is often the cheapest night of the week**; check before booking a Friday. Cove's Cannon Street studios are kitchenettes rather than full kitchens, with a shared laundry room and a 24-hour front desk; there's no on-site parking, though there's a public car park close by. King's Wardrobe has its own restaurant downstairs (Counter, a café-bar-and-courtyard) and paid parking below the building; the other Native sites here have neither.
 
 <div class="photo-row">
 
@@ -233,12 +234,12 @@ If you like a made bed and fresh towels every morning, this is the wrong format 
 
 ## When it is worth it, and when it is not
 
-**Book an aparthotel if** you are staying four nights or more; you are travelling with children and dreading the breakfast bill; you want to do laundry mid-trip; you are working from London for a week and need a desk and a kettle at odd hours; or you simply want to be able to make a cup of tea without getting dressed.
+**Book an aparthotel if** you are staying four nights or more; you are travelling with children and dreading the breakfast bill; you want to do laundry mid-trip; or you are working from London for a week and need a desk and a kettle at odd hours.
 
 **Book a hotel instead if** the stay is one or two nights, you want daily housekeeping, or you want a restaurant downstairs and room service at eleven. On a short trip the kitchen is dead weight you have paid for, and [the best budget hotels in London](/articles/best-budget-hotels-london/) lists the rooms at £150 a night or less.
 
-**On the family question specifically:** check whether you are booking a studio or an apartment. A studio sleeping four means four people in one room, and the difference in comfort over a week is enormous. Cheval, the Cove properties and some Native units do separate bedrooms; most of the rest do not.
+**On the family question specifically:** check whether you are booking a studio or an apartment. A studio sleeping four means four people in one room, Cheval, the Cove properties and some Native units do separate bedrooms; most of the rest do not.
 
-**One thing that catches people:** several of these buildings are residential, with actual residents. Cove Landmark Pinnacle is partway up a residential tower and the front desk is a concierge rather than a reception. That is quieter and less hotel-like, which is either what you wanted or a surprise.
+**One thing that catches people:** several of these buildings are residential, with actual residents. Cove Landmark Pinnacle is partway up a residential tower and the front desk is a concierge rather than a reception.
 
-*Twenty-six properties, with addresses and coordinates checked on 7 September 2026. Housekeeping policies are from each operator's own site on the same date. In-room and on-site facilities for the sixteen properties covered in detail above were checked against each operator's own site on 13 September 2026. Nightly rates are not quoted here: see [our capsule hotels guide](/articles/pod-hotels-london/) for why a single night's price is worth so little.*
+*Nightly rates are not quoted here: see [our capsule hotels guide](/articles/pod-hotels-london/) for why a single night's price is worth so little.*
