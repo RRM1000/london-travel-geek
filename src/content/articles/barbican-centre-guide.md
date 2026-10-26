@@ -22,7 +22,7 @@ faq:
   - q: "Can I take a bag into the Barbican?"
     a: "One reasonably sized handbag per person into the auditoria, and bags are searched. The Barbican suggests nothing bigger than 32 x 18 x 22cm. Anything larger goes in the free cloakroom on the Stalls floor (Level -1), open from 90 minutes before a performance; a £2 donation is asked for but voluntary."
   - q: "Is the Barbican Conservatory free?"
-    a: "Yes, but it's ticketed and only open on listed dates, and none are scheduled at the moment. When it opens, free tickets are released online a month ahead, and a limited number of day tickets go on sale at 9.30am each day it's open. Large bags, luggage, prams and buggies are not allowed inside."
+    a: "Yes, but it's ticketed and only open on listed dates; a waiting list on the Barbican site gives notice of new dates. Free tickets are released online a month ahead, and a limited number of day tickets go on sale at 9.30am each day it's open. Large bags, luggage, prams and buggies are not allowed inside."
   - q: "Where can I eat at the Barbican before a show?"
     a: "Barbican Kitchen on the ground floor serves all day, 9am to 8pm, with pizza, salads and small plates in the evening. The Barbican Bar & Grill on level 1 has a pre-theatre menu, with last orders at 9pm Monday to Saturday and 7pm on Sunday."
 ---
@@ -110,7 +110,7 @@ For other ways to split a trip between the City and the West End, see [where to 
 
 ## Free at the Barbican
 
-- **The Conservatory.** A tropical garden inside the Centre, which the Barbican bills as the second biggest conservatory in London. It opens on listed dates only, and none are scheduled at the moment. Entry is free but ticketed: tickets are released online **a month ahead**, and a few day tickets go on sale at **9.30am** each open day. Large bags, prams and buggies aren't allowed. [See dates and book](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory).
+- **The Conservatory.** A tropical garden inside the Centre, which the Barbican bills as the second biggest conservatory in London. It opens on listed dates only, with a waiting list for new dates. Entry is free but ticketed: tickets are released online **a month ahead**, and a few day tickets go on sale at **9.30am** each open day. Large bags, prams and buggies aren't allowed. [See dates and book](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory).
 - **Concrete and Clay: Archiving the Barbican**, a free display in the foyers about the building's history, runs until **1 January 2027**.
 - **The Barbican Library**, a public lending library inside the Centre.
 

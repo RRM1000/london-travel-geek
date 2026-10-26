@@ -225,7 +225,7 @@ Scudamore's runs the Mill Lane station at Granta Place and the Quayside station 
 
 ### Grantchester
 
-Grantchester is the walk out of Cambridge along the Cam, and the Orchard Tea Garden at **47 Mill Way, CB3 9ND** is the point of it. Tea and scones are served under the fruit trees in summer and indoors in the Rupert Brooke Room when the weather turns. **It takes no bookings for lunch** — walk in, unless you are ten or more. Its published winter timetable is Wednesday to Sunday, 10:00 to 16:00, weather permitting.
+Grantchester is the walk out of Cambridge along the Cam, and the Orchard Tea Garden at **47 Mill Way, CB3 9ND** is the usual destination. Tea and scones are served under the fruit trees in summer and indoors in the Rupert Brooke Room when the weather turns. **It takes no bookings for lunch** — walk in, unless you are ten or more. Its published winter timetable is Wednesday to Sunday, 10:00 to 16:00, weather permitting.
 
 The Orchard publishes three of its own walks once you are there: a 1km circular, a 2km route to Byron's Pool past the Rupert Brooke statue at The Old Vicarage, and a 3.5km loop through Grantchester Meadows on the river path, back past the Red Lion and the Green Man.
 
