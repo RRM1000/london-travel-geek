@@ -3,7 +3,8 @@ title: "Cambridge from London: The Day Trip, Priced and Timed"
 seoTitle: "Cambridge Day Trip from London: Trains & Colleges"
 description: "An Off-Peak return to Cambridge is £32.40 and the fast train takes 49 minutes. Which colleges charge and when they shut, what punting really costs, and why the man selling you a punt on King's Parade is breaking the law."
 publishedAt: 2026-09-12
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2026-12-06
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -17,26 +18,26 @@ tags: [day trips, Cambridge, trains, punting, things to do]
 draft: false
 faq:
   - q: "How do you get from London to Cambridge, and what does it cost?"
-    a: "The fast Great Northern train from King's Cross takes 49 minutes. An Off-Peak return was £32.40 and Advance singles £15.20 each when we checked. Greater Anglia from Liverpool Street is cheaper at £27.50 return but takes 1 hour 25 minutes direct. National Express coaches start at £6.20 one way, though the Victoria departure runs only once a day at 15:00."
+    a: "The fast Great Northern train from King's Cross takes 49 minutes. An Off-Peak return is £32.40 and Advance singles start at £15.20 each. Greater Anglia from Liverpool Street is cheaper at £27.50 return but takes 1 hour 25 minutes direct. National Express coaches start at £6.20 one way, though the Victoria departure runs only once a day at 15:00."
   - q: "Can you use contactless or Oyster to get to Cambridge?"
     a: "No. Greater Anglia's own station page for Cambridge says plainly that Oyster cards are not valid there, and Cambridge sits well outside the TfL pay as you go area. Buy a National Rail ticket — which is also what unlocks 2FOR1."
   - q: "Which Cambridge colleges charge, and how much?"
-    a: "King's is £16.75 for an adult booked early, £17 to £18 otherwise. St John's is £17, but only opens to paying visitors from 6 July to 30 September. Queens' is £5. Trinity does not let the public into its courts at all — you pay £10 for a Porter-led tour instead, though the Backs and the Wren Library are free. All prices checked 12 September 2026."
+    a: "King's is £15.75 for an adult booked early and £17 otherwise (£16.75 and £18 on peak dates). St John's is £17, but takes paying visitors only from 5 December 2026 to 18 January 2027. Queens' is £5. Trinity does not let the public into its courts at all — you pay £10 for a Porter-led tour instead, though the Backs and the Wren Library are free."
   - q: "When are the Cambridge colleges closed to visitors?"
-    a: "Queens' shuts for the whole examination period, 19 April to 4 July in 2026, plus graduations, open days and Freshers' week. St John's only charges for general entry between 6 July and 30 September. Both were shut or part-shut on 11 and 13 September 2026. King's sells tickets all year but marks individual afternoon slots closed."
+    a: "Queens' shuts for the whole examination period, 19 April to 1 July in 2027, plus graduations, open days, Christmas and Freshers' week. St John's charges for general entry only from 5 December 2026 to 18 January 2027. King's sells tickets all year but marks individual afternoon slots closed."
   - q: "How much does punting in Cambridge cost?"
     a: "Self-hire from Scudamore's is £28.50 for an hour, £35.50 for 90 minutes or £54.00 for three hours — that is for the whole punt, up to six people. A shared chauffeured 45-minute tour starts at £41.00 for a row of two, and a private punt starts at £115."
   - q: "What is the last train back to London from Cambridge?"
     a: "On a weekday the last direct train to King's Cross leaves Cambridge at 23:51 and arrives 01:04; the last fast one is 22:42, in at 23:32. The last direct to Liverpool Street is 22:48, arriving 00:18."
 ---
 
-**An Off-Peak return from King's Cross to Cambridge is £32.40, and the fast train does it in 49 minutes.** That is closer than most people think, and it is why Cambridge works as a day trip in a way that needs no planning beyond one decision: which college you are paying to go into.
+**An Off-Peak return from King's Cross to Cambridge is £32.40, and the fast train does it in 49 minutes.** The day needs no planning beyond one decision: which college you are paying to go into.
 
-Contactless does not work. That trips people up at the gate, and it also costs them the 2FOR1 discount, which needs a paper or e-ticket from National Rail.
+Contactless does not work at Cambridge station, and a contactless fare forfeits the 2FOR1 discount, which needs a paper or e-ticket from National Rail.
 
-> 💡 **The Short Version:** **King's Cross, 49 minutes**, Off-Peak return **£32.40**, Advance singles from **£15.20**. **Liverpool Street is cheaper at £27.50** but takes 1h25. **Oyster and contactless are not valid.** **King's College £16.75** booked early, **St John's £17** but summer only, **Queens' £5**, and **Trinity does not admit the public to its courts** — £10 for a Porter-led tour. The **Fitzwilliam Museum is free**, the **Botanic Garden £7.74** in advance, the **Round Church £3.50**. **Punting is £28.50 an hour** for a whole self-hire punt, or **from £41** chauffeured. **Never buy punting from someone on King's Parade** — touting is a criminal offence in Cambridge and those sellers are unlicensed. Last direct train back **23:51**. **Or let a student show you round** — the <a href="https://www.getyourguide.com/activity/-t91614?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£23 alumni walking tour</a> takes 1½ to 2½ hours with a current student or graduate, though King's College Chapel costs extra.
+> 💡 **The Short Version:** **King's Cross, 49 minutes**, Off-Peak return **£32.40**, Advance singles from **£15.20**. **Liverpool Street is cheaper at £27.50** but takes 1h25. **Oyster and contactless are not valid.** **King's College £15.75** booked early (£16.75 on peak dates), **St John's £17** but open to paying visitors only from 5 December to 18 January, **Queens' £5**, and **Trinity does not admit the public to its courts** — £10 for a Porter-led tour. The **Fitzwilliam Museum is free**, the **Botanic Garden £7.74** in advance, the **Round Church £3.50**. **Punting is £28.50 an hour** for a whole self-hire punt, or **from £41** chauffeured. **Never buy punting from someone on King's Parade** — touting is a criminal offence in Cambridge and those sellers are unlicensed. Last direct train back **23:51**. **Or let a student show you round** — the <a href="https://www.getyourguide.com/activity/-t91614?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£23 alumni walking tour</a> takes 1½ to 2½ hours with a current student or graduate, though King's College Chapel costs extra.
 
-**Not one of those includes King's College at the price on the card.** [Day tours that include Cambridge, compared](#day-tours-that-include-cambridge-compared), with what each one actually buys you, follows the train and driving details below.
+**Not one of those includes King's College at the price on the card.** [Day tours that include Cambridge, compared](#day-tours-that-include-cambridge-compared) follows the train and driving details below.
 
 ![King's College Chapel in Cambridge, its pinnacles and great east window lit pink at dusk](../../assets/articles/cambridge-day-trip/kings-college-chapel.jpg)
 
@@ -46,8 +47,6 @@ Contactless does not work. That trips people up at the gate, and it also costs t
 
 ### The train, and the 49-minute one
 
-Two London termini serve Cambridge and they are not equivalent.
-
 | From | Fastest | Off-Peak return | Notes |
 | --- | --- | --- | --- |
 | **King's Cross** | **49 min direct** | **£32.40** | Also slow direct trains at 1h29–1h30, and routes with a change at 1h19 |
@@ -55,11 +54,11 @@ Two London termini serve Cambridge and they are not equivalent.
 
 **The 49-minute service is the one to aim for**, and it runs roughly hourly alongside the slow one. Out of King's Cross the 09:35 and the 09:24 leave eleven minutes apart and arrive 52 minutes apart.
 
-> ⚠️ **The cheap return is not valid on the earliest fast trains.** On the Tuesday we checked, the 09:24 fast departure was quoted at **£48.10** return while the 10:54 — the same journey, an hour and a half later — was **£32.40**. If you want the cheap fare and the fast train, leave after 10:00.
+> ⚠️ **The cheap return is not valid on the earliest fast trains.** The 09:24 fast departure is priced at **£48.10** return while the 10:54, an hour and a half later, is **£32.40**. If you want the cheap fare and the fast train, leave after 10:00.
 
-**Advance singles beat the walk-up return.** A month out, singles from King's Cross were **£15.20** each, so £30.40 for the day against £32.40 bought three days before. It is a small saving on this route, because the off-peak walk-up fare is already cheap. From Liverpool Street, Greater Anglia advertises Advance singles **from £8.00 each way**.
+**Advance singles beat the walk-up return, narrowly.** Singles from King's Cross start at **£15.20** each, so £30.40 for the day against £32.40 for an Off-Peak return. From Liverpool Street, Greater Anglia advertises Advance singles **from £8.00 each way**.
 
-> ⚠️ **Oyster and contactless are not accepted.** Greater Anglia's own Cambridge station page states it outright: Oyster cards are not valid at this station. Cambridge is far outside the pay as you go area, which stops just beyond Zone 9.
+> ⚠️ **Oyster and contactless are not accepted.** Oyster cards are not valid at Cambridge station, which is far outside the pay as you go area.
 
 **Cambridge station is about a mile from the centre**, a 20 to 25 minute walk. Stagecoach Citi 1, 3 and 7 run in, and PLUSBUS can be added to a rail ticket. The ticket office is open 05:10 to 23:00 Monday to Saturday and from 07:00 on Sundays.
 
@@ -90,7 +89,7 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 
 **A coach from London earns nothing here.** Cambridge is 49 minutes and £32.40 return, so the useful question is not how to get there — it is what to book for the hours once you arrive. GetYourGuide lists nine day trips from London that stop at Cambridge, against dozens for Windsor, and most of what there is to book is sold in Cambridge itself.
 
-Across the includes and excludes lists of twelve product pages on 12 September 2026, **every walking tour that puts King's College in its title makes the £16.75 entry an upgrade**, and two of the three punting prices are per boat, not per head. Links below are affiliate links; the price is the same either way.
+**Every walking tour that puts King's College in its title makes the £16.75 entry an upgrade**, and two of the three punting prices are per boat, not per head. Links below are affiliate links; the price is the same either way.
 
 | The day | Length | From | What entry is included |
 | --- | --- | --- | --- |
@@ -149,28 +148,28 @@ Across the includes and excludes lists of twelve product pages on 12 September 2
 
 *The Bridge of Sighs at St John's. Photo: Jean-Luc Benazet, Pexels.*
 
-This is the part worth getting right, because the colleges are not a set of equivalent tickets and two of the famous four are shut for large parts of the year.
+The colleges are not equivalent tickets, and two of the famous four are shut for large parts of the year.
 
 | College | Adult | What you get |
 | --- | --- | --- |
-| **King's** | **£16.75** early bird, £17–£18 otherwise | The Chapel and the grounds, self-guided, 15-minute arrival slots |
-| **St John's** | **£17** | The courts, the riverside grounds and the Bridge of Sighs — **6 July to 30 September only** |
+| **King's** | **£15.75** early bird, £17 otherwise; £16.75 and £18 on peak dates | The Chapel and the grounds, self-guided, timed arrival slots |
+| **St John's** | **£17** | The courts, the riverside grounds and the Bridge of Sighs — paid entry **5 December 2026 to 18 January 2027 only**, 09:30–15:30 |
 | **Queens'** | **£5** | Self-guided, including the Mathematical Bridge, Old Hall and Chapel |
 | **Trinity** | **£10** for a tour | **The courts are not open to the public.** A Porter-led tour at 10:00 or 14:00, booked ahead, paid by card on the day |
 | Trinity: the Backs | **Free** | The grounds beside the Cam, normally 09:00–17:00 |
-| Trinity: Wren Library | **Free** | Noon–14:00 weekdays, 10:30–12:30 Saturdays, **in term time only** |
+| Trinity: Wren Library | **Free** | Noon–14:00 Monday to Friday; Saturdays 10:30–12:30 on set dates; closed 24 December to 3 January |
 
 **Trinity's tour meets at the Great Gate on Trinity Street**, under-12s go free, and the Dining Hall is not included while work goes on. No bicycles, no dogs, no picnics, and nobody walks on the grass.
 
-**King's prices move with the week, not the season.** The early bird price for a given week ends on the Sunday night before it: a Saturday slot booked early was £16.75 adult and £14.25 for a student or a child aged 5 to 17, with family passes at £43.25 for one adult and up to three children, or £59.00 for two adults and up to three children. Arrival slots ran 09:30 to 16:00 in 30-minute steps, and individual afternoon slots were marked closed to visitors. Tickets are non-refundable, and **there are no public toilets in the college**.
+**King's early bird price ends on the Sunday night before the week of your visit.** On off-peak dates an adult is £15.75 early or £17; students and children aged 5 to 17 are £13.25 or £14.50; a family of one adult and up to three children is £39.50 or £43, and two adults and up to three children £55 or £60. Peak dates cost £1 more per adult or student ticket. Individual afternoon slots are sometimes closed to visitors. Tickets are non-refundable, and **there are no public toilets in the college**.
 
-**St John's is cheaper for almost everyone except full-price adults.** Over-66s, students and National Disability Card holders pay £10; children aged 12 to 16 pay £10, dropping to £8 between 25 June and 1 September. Card only, no Amex, and no re-entry once you are in.
+**St John's is cheaper for almost everyone except full-price adults.** Over-66s, students, National Disability Card holders and children aged 12 to 16 pay £10. Card only, no Amex, and no re-entry once you are in.
 
-**Queens' is the bargain and the most restricted.** £5, under-12s free, 10:00 to 16:00, in through the Visitors' Gate on Queens' Lane. Groups of six or more must be led by a Cambridge Blue Badge Guide and are turned away without one.
+**Queens' is £5**, under-12s free, 10:00 to 16:00, in through the Visitors' Gate on Queens' Lane. Groups of six or more must be led by a Cambridge Blue Badge Guide and are turned away without one.
 
-> ⚠️ **Queens' closes for the whole exam term — 19 April to 4 July in 2026.** It also shuts for MA Graduation on 28 February, General Admission on 2 July, Open Days on 9 and 10 July, a Degree Congregation on 23 July, private functions on 12 April, 11 July, 8 and 15 August, an Open Day on 11 September, Bridge the Gap on 13 September, and Freshers' week from 29 September to 6 October.
+> ⚠️ **Queens' closes for the whole exam term — 19 April to 1 July in 2027.** It is also shut from 23 December 2026 to 3 January 2027, and for MA Graduation on 27 February, Open Days on 8 and 9 July, a Degree Congregation on 22 July and private functions on 17 April, 10 and 24 July and 12 September.
 
-**St John's has the same problem from the other direction:** paid general entry exists only between 6 July and 30 September. Outside that window the free list — alumni, University and CAMCard holders with guests, Cambridge residents with a CB postcode, prospective students, and anyone going to a chapel service — is the only way in.
+**St John's has the same problem from the other direction:** paid general entry exists only from 5 December 2026 to 18 January 2027, 09:30 to 15:30, and the college is closed from midday on 24 December to 1 January. Outside that window the free list — alumni, University and CAMCard holders with guests, Cambridge residents with a CB postcode, prospective students, and anyone going to a chapel service — is the only way in.
 
 **The free alternative at King's is a service.** Chapel services are free and open to visitors. You will not be let in once one has begun, so arrive early; allow up to an hour for Evensong and an hour and a quarter for Holy Communion. No bags bigger than airline hand luggage, and no photography.
 
@@ -182,11 +181,11 @@ This is the part worth getting right, because the colleges are not a set of equi
 
 *Photo: Merve Aktas Yalman, Pexels.*
 
-**Punting is where people get ripped off, and the mechanism is specific.** The Conservators of the River Cam licence exactly **six punting stations**: La Mimosa on the corner of Jesus Green, Quayside, Trinity College, the Mill Pond on Silver Street, Mill Lane, and the Granta mill pond near Sheep's Green. Licensed companies trade at their own station and nowhere else.
+**Punting is where people get overcharged.** The Conservators of the River Cam licence exactly **six punting stations**: La Mimosa on the corner of Jesus Green, Quayside, Trinity College, the Mill Pond on Silver Street, Mill Lane, and the Granta mill pond near Sheep's Green. Licensed companies trade at their own station and nowhere else.
 
 > ⚠️ **Anyone selling you a punt trip on King's Parade or Market Square is unlicensed.** Cambridge City Council has a Public Spaces Protection Order prohibiting touting for punt custom anywhere in the city. Breaching it is a criminal offence carrying a £100 fixed penalty notice or prosecution, and uniformed enforcement officers and police patrol for it. **Buy at a punting station**, where the price is posted and the boat is the company's own.
 
-Scudamore's has been going since 1910 and runs the Mill Lane station at Granta Place and the Quayside station at Magdalene Bridge.
+Scudamore's runs the Mill Lane station at Granta Place and the Quayside station at Magdalene Bridge.
 
 | Punting | Price |
 | --- | --- |
@@ -218,21 +217,21 @@ Scudamore's has been going since 1910 and runs the Mill Lane station at Granta P
 | **Botanic Garden** | **£7.74** advance, £8.60 on the gate | Apr–Sep 10:00–18:00, Oct 10:00–17:00, Nov–Jan 10:00–16:00 |
 | **Round Church** | **£3.50**, £1 students and teenagers | Wed–Sat 10:00–17:00, last entry 16:45. Closed Sundays |
 
-**The Fitzwilliam is the best free thing in Cambridge** and it is closed on Mondays, which is the most common wasted trip. Ticketed exhibitions are free for under-18s, pay what you can on the first Sunday of the month, and free for 18 to 25s and students who join the Fitz List. Groups of ten or more pay £5 a head.
+**The Fitzwilliam is closed on Mondays.** Ticketed exhibitions are free for under-18s, pay what you can on the first Sunday of the month, and free for 18 to 25s and students who join the Fitz List. Groups of ten or more pay £5 a head.
 
 **The Botanic Garden is five minutes' walk from the station**, through the Station Road Gate on Hills Road, which makes it the obvious first or last stop of the day. Children up to 16 are free. Booking a day ahead takes 10% off — though not on event days like Apple Day or Cambridge Botanic Lights. The headline price of £9.50 includes an optional 10% donation; standard admission is £8.60.
 
-**The Round Church is not free**, despite how often it is listed that way. £3.50 standard, £1 for teenagers and students, free for Cambridge residents in CB1 to CB5 and under-13s. It is a 12th-century round church, founded between 1114 and 1131, one of only four medieval round churches left in England, and the visit is an exhibition plus a 23-minute film narrated by Sir David Suchet. Its own guided walks are £16, £14 for students and 13 to 18s, and include entry.
+**The Round Church is not free.** £3.50 standard, £1 for teenagers and students, free for Cambridge residents in CB1 to CB5 and under-13s. The visit is an exhibition plus a 23-minute film narrated by Sir David Suchet. Its own guided walks are £16, £14 for students and 13 to 18s, and include entry.
 
 ### Grantchester
 
-Grantchester is the walk out of Cambridge along the Cam, and the Orchard Tea Garden at **47 Mill Way, CB3 9ND** has been the point of it for over 125 years. Tea and scones are served under the fruit trees in summer and indoors in the Rupert Brooke Room when the weather turns. **It takes no bookings for lunch** — walk in, unless you are ten or more. Its published winter timetable is Wednesday to Sunday, 10:00 to 16:00, weather permitting.
+Grantchester is the walk out of Cambridge along the Cam, and the Orchard Tea Garden at **47 Mill Way, CB3 9ND** is the point of it. Tea and scones are served under the fruit trees in summer and indoors in the Rupert Brooke Room when the weather turns. **It takes no bookings for lunch** — walk in, unless you are ten or more. Its published winter timetable is Wednesday to Sunday, 10:00 to 16:00, weather permitting.
 
 The Orchard publishes three of its own walks once you are there: a 1km circular, a 2km route to Byron's Pool past the Rupert Brooke statue at The Old Vicarage, and a 3.5km loop through Grantchester Meadows on the river path, back past the Red Lion and the Green Man.
 
 ## Does 2FOR1 work in Cambridge?
 
-Yes, on less than you would hope, and on nothing academic.
+Only on a few things, and nothing academic.
 
 - **Rutherford's Punting, shared punting experience** — 2FOR1
 - **Museum of Cambridge** — 2FOR1
@@ -247,7 +246,7 @@ Yes, on less than you would hope, and on nothing academic.
 
 ## How long the day takes
 
-**Seven hours in Cambridge is plenty and five is enough.** The centre is small, the colleges are a ten-minute walk apart, and the only thing that eats time is the river.
+**Five to seven hours in Cambridge is enough.** The centre is small and the colleges are a ten-minute walk apart; the river is what takes time.
 
 A working shape: leave King's Cross at 10:54 for the fast train, in at 11:43. Walk or bus into the centre. One paying college, lunch at the market, punting mid-afternoon, the Fitzwilliam before it closes at 17:00, the Botanic Garden on the way back to the station if you still have light.
 
@@ -265,13 +264,13 @@ After the 22:48 to Liverpool Street you are into journeys with a change — the 
 - **Taking the 09:24 to save time** and paying £48.10 instead of £32.40.
 - **Buying punting from someone on King's Parade.** Unlicensed, and illegal for them to be selling it there.
 - **Turning up at Trinity expecting to walk into Great Court.** The courts are closed to the public. The Backs and the Wren Library are free; everything else is a booked tour.
-- **Planning around St John's in May.** It does not take paying visitors until 6 July.
-- **Planning around Queens' in June.** It is shut for exams until 4 July.
+- **Planning around St John's.** Paid entry is limited to 5 December to 18 January.
+- **Planning around Queens' in May or June.** It is shut for exams from 19 April to 1 July.
 - **Arriving at the Fitzwilliam on a Monday.**
 - **Driving in and parking at Grand Arcade.** Over five hours on a weekday is £33.50, against free parking and a £4.50 bus at any park and ride.
 - **Booking the Victoria coach** and finding it leaves once a day, at 15:00.
 
-All prices checked 12 September 2026.
+*Prices and opening times as of October 2026.*
 
 ## Continue planning your day out
 
