@@ -24,7 +24,7 @@ faq:
   - q: "Can you swim in the ponds on the walk?"
     a: "Yes. The route passes the Ladies' Pond and the Men's Pond, which open year-round from 7am (7.30am on some winter dates), and the Mixed Pond, which opens April to October only. A swim costs £5, or £3 for concessions and under-16s. From late May to early September some sessions have to be booked in advance."
   - q: "Is Hampstead Heath free?"
-    a: "Yes. The Heath, Parliament Hill and Primrose Hill are all free. Kenwood House and Burgh House are free to enter; Keats House charges. Primrose Hill is locked from 10pm to 6am on Friday, Saturday and Sunday nights in summer."
+    a: "Yes. The Heath, Parliament Hill and Primrose Hill are all free. Kenwood House and Burgh House are free to enter; Keats House charges. Primrose Hill is locked from 10pm to 6am on Friday, Saturday and Sunday nights in summer, and every night from 30 October to 9 November 2026."
 ---
 
 **This route starts in Hampstead village**, crosses the Heath to **Kenwood House**, comes down past the bathing ponds to **Parliament Hill**, and finishes on top of **Primrose Hill**: ten numbered stops, **about 9km and four to five hours** with stops. It is hilly, and almost all of it is free.
@@ -69,7 +69,7 @@ For the rest of the area, see the [Hampstead area guide](/articles/hampstead-are
 | **7** | The Mixed Pond | Free to pass; £5 to swim | Swimming **April–October** only |
 | **8** | Keats House | Ticketed; garden free | **Wed, Thu, Fri and Sun**, 11am–1pm and 2–5pm |
 | **9** | Regent's Park Road and Chalcot Square | Free | Always |
-| **10** | Primrose Hill | Free | Always, except 10pm–6am Fri–Sun nights in summer |
+| **10** | Primrose Hill | Free | Always, except 10pm–6am Fri–Sun nights in summer and every night 30 Oct–9 Nov 2026 |
 
 ---
 
