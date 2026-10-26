@@ -5,7 +5,8 @@ description: "A numbered walking route from 221b Baker Street through Regent's P
 heroImage: "../../assets/articles/marylebone-area-guide/sherlock-holmes-museum.jpg"
 heroImageAlt: "The Sherlock Holmes Museum shopfront on Baker Street, with a costumed Victorian policeman standing outside"
 publishedAt: 2026-07-11
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -19,18 +20,16 @@ faq:
   - q: "When is Marylebone Farmers' Market?"
     a: "Every Sunday, 10am to 2pm, rain or shine, on St Vincent Street, Aybrook Street and the top of Moxon Street, just west of Marylebone High Street. It does not run on other days."
   - q: "Is Regent's Park Open Air Theatre open all year?"
-    a: "No. It plays a summer season only, from May to September, and you go in for performances rather than to look round. Tickets start at £15 plus a £2.50 booking fee per transaction."
+    a: "No. It plays a summer season only, from May to September, and you go in for performances rather than to look round. The 2027 season is yet to be announced; in 2026 tickets started at £15 plus a £2.50 booking fee per transaction."
   - q: "Can you hire a boat in Regent's Park?"
-    a: "Yes, from late March to October, with no need to book. Boats go out from 11am on weekdays and 10am at weekends, and the lake closes at 5.30pm in April and May, 6.30pm from June to September and at dusk in October. Half an hour costs an adult £10.40, or £6.70 in the first two hours of the day."
+    a: "Yes, from late March to October, with no need to book. Boats go out from 11am on weekdays and 10am at weekends, and the lake closes at 5.30pm in April and May, 6.30pm from June to September and at dusk in October. Half an hour costs an adult £10.40, or £6.70 off-peak (11am to 1pm on weekdays, 10am to noon at weekends)."
   - q: "How much is the Sherlock Holmes Museum?"
     a: "£19 for adults, £17 concessions and £14 for under-16s; children five and under go free. It is open daily from 9.30am to 6pm, last entry 5.30pm, and closed on Christmas Day. Wheeled cases are not allowed inside."
 ---
 
-Most people do this corner of London as two outings: Regent's Park from Baker Street, and Marylebone High Street up from Bond Street. **They are one walk**, and the park is the better way into the village.
+Regent's Park from Baker Street and Marylebone High Street from Bond Street make **one walk**.
 
 This route starts at 221b, crosses the park past the boating lake and the rose garden, loops past Nash's terraces, and comes down through Marylebone to Bond Street: **eleven stops, about 5km, three to four hours** with stops. Almost all of it is free.
-
-The trap is Sunday. **Marylebone Farmers' Market runs 10am to 2pm only**, and it sits at stop nine, 4km in. Leave Baker Street late and you arrive as the stalls pack up.
 
 For the rest of the area — where to eat, Chiltern Street, where to stay — see the [Marylebone area guide](/articles/marylebone-area-guide/).
 
@@ -79,13 +78,13 @@ The statue of Holmes stands outside Baker Street station. The museum is two minu
 
 **Open daily 9.30am–6pm** (last entry 5.30pm, closed Christmas Day). **Adults £19, under-16s £14**, five and under free. Wheeled cases are not allowed in, so leave luggage elsewhere if you have come straight from a train.
 
-The frontage is free, and for most people it is enough. Carry on to the top of Baker Street and into the park through **Clarence Gate**.
+The frontage is free. Carry on to the top of Baker Street and into the park through **Clarence Gate**.
 
 ## 2. The boating lake
 
 The first thing inside the gate. Follow the path north to the water and along the shore towards the Inner Circle.
 
-**Row boats and pedalos** go out from the boathouse at the lake's western end, **late March to October**, with no need to book. Half an hour costs an adult **£10.40**, or **£6.70 before 1pm on weekdays and before noon at weekends**. Boats start at 11am on weekdays and 10am at weekends.
+**Row boats and pedalos** go out from the boathouse at the lake's western end, **late March to October**, with no need to book. Half an hour costs an adult **£10.40**, or **£6.70 off-peak (11am to 1pm on weekdays, 10am to noon at weekends)**. Boats start at 11am on weekdays and 10am at weekends.
 
 ![A blue pedal boat out on the boating lake, with a swan swimming past and trees lining the far shore](../../assets/articles/regents-park-marylebone-walk/the-boating-lake-pedalo.jpg)
 
@@ -93,9 +92,9 @@ The first thing inside the gate. Follow the path north to the water and along th
 
 ## 3. Regent's Park Open Air Theatre
 
-**The oldest professional permanent outdoor theatre in Britain**, open since 1932, with 1,304 seats inside the Inner Circle.
+**It calls itself the oldest professional permanent outdoor theatre in the UK.** It has been open since 1932, with 1,304 seats inside the Inner Circle.
 
-It plays **a summer season only, May to September**, and you go in for performances, not to look round. Tickets start at **£15**, plus a £2.50 booking fee per transaction. Grass-bank seats are sometimes sold on the day at the box office: from 11am for matinees and 5pm for evening shows, two per person.
+It plays **a summer season only, May to September**, and you go in for performances, not to look round. The 2027 season is yet to be announced; in 2026 tickets started at **£15**, plus a £2.50 booking fee per transaction. Grass-bank seats are sometimes sold on the day at the box office: from 11am for matinees and 5pm for evening shows, two per person.
 
 ![The wooden entrance gate to the Open Air Theatre, with the venue's name in gold letters above and a ticket holders' queue sign beside it](../../assets/articles/regents-park-marylebone-walk/open-air-theatre-entrance.jpg)
 
@@ -105,7 +104,7 @@ It plays **a summer season only, May to September**, and you go in for performan
 
 ## 4. Queen Mary's Gardens
 
-**London's largest collection of roses**, in 85 beds around the Inner Circle. Early June is the peak; the borders and the ornamental lake carry it the rest of the year.
+**40,000 roses in 85 beds** around the Inner Circle, at their peak in early June. The borders and the ornamental lake carry it the rest of the year.
 
 **Free**, inside park hours: the gates open at 5am and close at dusk. Dogs are not allowed in. Leave by the **Chester Road** gates and walk east to the edge of the park.
 
@@ -115,9 +114,9 @@ It plays **a summer season only, May to September**, and you go in for performan
 
 ## 5. Chester Terrace and Cumberland Terrace
 
-**The reason Regent's Park exists.** John Nash laid the park out as a setting for stucco palaces, and the Outer Circle is where you see them.
+John Nash laid the park out as a setting for stucco terraces, and the Outer Circle is where you see them.
 
-At Chester Gate, turn north. **Chester Terrace** comes first, with the longest unbroken façade in the park. **Cumberland Terrace**, completed in 1826, is the showpiece: a run of columns under a sculpted pediment.
+At Chester Gate, turn north. **Chester Terrace** comes first. **Cumberland Terrace**, completed in 1826, has a run of columns under a sculpted pediment.
 
 Both are private homes, so the pavement is the view. Where the two terraces meet, a gate on the park side leads back in to the Broad Walk.
 
@@ -139,9 +138,9 @@ The avenue runs dead straight to Park Square, and Park Crescent is across the ro
 
 ## 7. Park Crescent
 
-**Nash's stucco half-circle**, begun in 1806, stalled when the builder went bankrupt after six houses, and finished in 1821. It frames the top of Portland Place.
+**Nash's stucco half-circle**, begun in 1806 and finished in 1821. It frames the top of Portland Place.
 
-What you see is Nash's design. Almost everything behind the façade has been rebuilt, twice.
+Almost everything behind the façade has been rebuilt.
 
 Regent's Park station (Bakerloo) is on the corner, which makes this the halfway exit. Otherwise it is about ten minutes west to Marylebone High Street.
 
@@ -155,7 +154,7 @@ Regent's Park station (Bakerloo) is on the corner, which makes this the halfway 
 
 *Daunt Books, Marylebone High Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2417477044), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-Walk down the high street: low-rise, largely independent, and nothing like Oxford Street at its far end.
+Walk down the high street, which is low-rise and largely independent.
 
 **Daunt Books** at 83–84 is the stop, an Edwardian bookshop whose main room is shelved **by country**, so the novels, history and travel writing for each place sit together. **Open Monday to Saturday 9am–7.30pm and Sunday 11am–6pm.**
 
@@ -163,9 +162,7 @@ Walk down the high street: low-rise, largely independent, and nothing like Oxfor
 
 ## 9. Paddington Street Gardens and the farmers' market
 
-Turn right along Paddington Street. The south garden was **consecrated in 1733 as an overflow burial ground** for the parish church, and around 80,000 graves lie under the lawns. A 1759 mausoleum still stands in it.
-
-Now it is a quiet square of plane trees with a bandstand and a playground, **open daily from 8am**, with **public toilets** off Paddington Street.
+Turn right along Paddington Street. The south garden is a quiet square of plane trees with a bandstand and a playground, **open daily from 8am**, with **public toilets** off Paddington Street. It was consecrated in 1733 as a burial ground, and around 80,000 graves lie under the lawns.
 
 ![Paddington Street Gardens with a glass-sided bandstand, flower beds and mature plane trees against a blue sky](../../assets/articles/regents-park-marylebone-walk/paddington-street-gardens-bandstand.jpg)
 
@@ -215,7 +212,7 @@ For the full list, the [area guide covers it](/articles/marylebone-area-guide/#w
 | **Mon–Fri** | No market. Boats cheapest before 1pm |
 | **Saturday** | No market. Everything else open |
 
-**What never closes:** the park is open every day of the year, 5am to dusk. The Wallace Collection closes only 24–26 December and the Sherlock Holmes Museum only on Christmas Day. Daunt opens daily.
+**What never closes:** the park, open every day of the year, 5am to dusk.
 
 **What is seasonal:** the Open Air Theatre (May to September) and the boats (late March to October). Queen Mary's Gardens peak in early June.
 
@@ -239,7 +236,6 @@ On a Sunday the route also works in reverse from Bond Street. That puts the mark
 ## What to do with the rest of the day
 
 - **[The Marylebone area guide](/articles/marylebone-area-guide/)** — Chiltern Street, Marylebone Lane, Wigmore Hall and where to stay.
-- **[Hampstead Heath to Primrose Hill](/articles/hampstead-heath-primrose-hill-walk/)** — ends at a footbridge into the top of Regent's Park, if you want the long version.
 - **[The Mayfair area guide](/articles/mayfair-area-guide/)** — straight across Oxford Street from the finish.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — Regent's Park against the rest.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.
