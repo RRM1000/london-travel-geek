@@ -3,8 +3,8 @@ title: "Premier League Tickets in London: Why You Cannot Just Buy One"
 seoTitle: "Premier League Tickets London: How to Actually Get One"
 description: "The six London clubs in the Premier League sell home tickets to members first and mostly never reach general sale. What each membership costs, when ballots open, the club resale platforms, and why reselling a football ticket is a criminal offence."
 publishedAt: 2026-09-22
-updatedAt: 2026-09-25
-reviewBy: 2026-10-13
+updatedAt: 2026-10-26
+reviewBy: 2026-11-03
 sites:
   - london
 canonicalSite: london
@@ -24,19 +24,19 @@ tags:
 draft: false
 faq:
   - q: "Can tourists buy Premier League tickets in London?"
-    a: "Yes, but rarely by just buying a seat on a club website. Five of the six London clubs sell home league tickets to paying members first, and most fixtures sell out to them. Buy a membership — Crystal Palace Adult £25, Brentford Bees Overseas £30.30, Arsenal Red £38, Tottenham One Hotspur from £45, Chelsea CFC Blue £45, Fulham £50 — then enter that club's ballot or sale window. Fulham is the exception: its home matches reach a general sale, as the Crystal Palace fixture on 5 September 2026 did."
+    a: "Yes, but rarely by just buying a seat on a club website. Five of the six London clubs sell home league tickets to paying members first, and most fixtures sell out to them. Buy a membership — Crystal Palace Adult £25, Brentford Bees Overseas £30.30, Arsenal Red £38, Tottenham One Hotspur from £45, Chelsea CFC Blue £45, Fulham £50 — then enter that club's ballot or sale window. Fulham is the exception: some of its home matches reach a general sale, as the Crystal Palace fixture on 5 September 2026 did."
   - q: "Why can't I buy Premier League tickets?"
     a: "Season-ticket holders have most of the seats, and the rest go to paying members in priority order before anything reaches the public. Arsenal put 273,000 tickets into member ballots in 2025/26, more than 9,100 a match, and every competitive men's home fixture sold out to paid members. Tottenham says home tickets are 'unlikely to get to General Sale'. Brentford says a membership is, apart from a season ticket, 'the only way to purchase tickets for Premier League matches'."
   - q: "How much is a Premier League ticket in London?"
     a: "Roughly £40 to £145 for an ordinary seat, plus the membership. Arsenal's ballot for a Category A home match ran from £78 to £145.50. Chelsea's top Category AA band is £78 for an adult member in the East Upper, £66 in the Matthew Harding Lower and £27 for a restricted view, with general-sale seats £5 more. Brentford's overseas ballot charges £40.40 to £50.50 for an adult and £10.10 to £15.15 for a junior, depending on the fixture category."
   - q: "Which London club is easiest to get Premier League tickets for?"
-    a: "Fulham and Brentford. Fulham sells to members, then season-ticket holders wanting an extra seat, then anyone who has booked in the past five years, then on general sale — its home fixture against Crystal Palace on 5 September 2026 was released to general sale, up to four tickets per person. Brentford holds back 100 tickets for every home Premier League match in a ballot for Bees Overseas members only, which costs £30.30 a season and needs no loyalty points."
+    a: "Fulham and Brentford. Fulham sells to members, then season-ticket holders wanting an extra seat, then anyone who has booked in the past five years, then on general sale; its home match against Crystal Palace on 5 September 2026 was released to general sale, up to four tickets per person. Brentford holds back 100 tickets for every home Premier League match in a ballot for Bees Overseas members only, which costs £30.30 a season and needs no loyalty points."
   - q: "Is it illegal to buy football tickets from a tout in England?"
     a: "It is illegal to sell one. Under section 166 of the Criminal Justice and Public Order Act 1994, selling a ticket for a designated football match without the organisers' written authorisation is an offence, and 'sell' includes offering, advertising or bundling it with other goods. The fine is unlimited. Buying is not the offence, but the ticket is void and you will be turned away at the turnstile."
   - q: "Can I use StubHub or Viagogo to buy Premier League tickets?"
     a: "No. Reselling a football ticket without the club's authorisation is a criminal offence in England and Wales, so no general resale marketplace can lawfully sell you a Premier League ticket. Chelsea says tickets bought from anyone other than the club or an authorised partner 'will be confiscated and entry will be refused'. The legitimate equivalents are the clubs' own exchanges, where season-ticket holders resell at face value."
   - q: "How far in advance do Premier League tickets go on sale in London?"
-    a: "Around four to eight weeks. Chelsea opens applications about 42 days before each fixture. Arsenal's ballot for its 6 September 2026 match against Chelsea ran from noon on 17 July to noon on 20 July. Crystal Palace opened sales for its 11 October fixture on 14 September for Gold members and 17 September for everyone else. Brentford's overseas ballot closes 72 hours after the kick-off time is confirmed, usually four to six weeks before the match."
+    a: "Around four to eight weeks. Chelsea opens applications about 42 days before each fixture. Arsenal's ballot opens about seven weeks out and closes three days later. Crystal Palace opens sales about six weeks out, to Gold members first and to everyone else three days later; for its home match against Manchester United on 12 December 2026 that is 2 and 5 November. Brentford's overseas ballot closes 72 hours after the kick-off time is confirmed, usually four to six weeks before the match."
   - q: "Do I need a membership to go to a Premier League match in London?"
     a: "For a home league match at Arsenal, Chelsea, Tottenham, Crystal Palace or Brentford, in practice yes. The exceptions: a member can buy you a guest ticket in a later sale phase at Crystal Palace and Brentford; hospitality needs no membership (Chelsea says so for its non-Westview Club Chelsea packages); and Fulham reaches a genuine general sale."
   - q: "Can I buy a Premier League ticket on the day of the match in London?"
@@ -55,7 +55,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 ---
 
-At five of the six London clubs in the Premier League, the home end sells out to season-ticket holders and paying members weeks ahead and the sale rarely reaches the public. There are still legitimate routes in, and none of them involves the man outside the station.
+At five of the six London Premier League clubs, home tickets go to season-ticket holders and paying members weeks ahead and rarely reach the public. There are still legitimate routes in, and none involves a tout.
 
 > 💡 **The Short Version:** **You almost certainly cannot just buy a ticket.** Home league tickets at **Arsenal, Chelsea, Tottenham, Crystal Palace and Brentford** go to paying members first and rarely get past them. So buy the membership — **Crystal Palace Adult £25**, **Brentford Bees Overseas £30.30**, **Arsenal Red £38**, **Tottenham One Hotspur from £45**, **Chelsea CFC Blue £45**, **Fulham £50** — and enter that club's ballot or sale window, usually **four to eight weeks** before the match. The seat itself costs **£40–£145**. **Fulham is the one club that reaches a real general sale**, and **Brentford holds back 100 tickets per home game** for overseas members. For a sold-out match the only lawful resale is the club's **own exchange**: selling a football ticket any other way is a **criminal offence**, and the ticket will not scan. **Hospitality** always works and needs no membership, **from £285 plus VAT** at Selhurst Park. And **Championship and League One London clubs sell to anyone**: Charlton from **£20**, Bromley from **£25**.
 
@@ -67,15 +67,15 @@ At five of the six London clubs in the Premier League, the home end sells out to
 
 Six: **Arsenal, Brentford, Chelsea, Crystal Palace, Fulham and Tottenham Hotspur**.
 
-**West Ham United are not.** They were relegated at the end of 2025/26 and play in the Championship with Queens Park Rangers, Charlton Athletic and Millwall, which makes a ticket at London Stadium far easier to buy — see [the alternatives below](#where-you-can-just-buy-a-ticket).
+**West Ham United are not.** They were relegated at the end of 2025/26 and play in the Championship with Queens Park Rangers, Charlton Athletic and Millwall; see [the alternatives below](#where-you-can-just-buy-a-ticket).
 
 ---
 
 ## Why general sale barely exists
 
-- **Season-ticket holders take most of the ground.** Nothing is sold until they have used or released their seats.
-- **Members take what is left, in order of tier.** A club membership is really a place in the ticket queue, and the higher tiers go first.
-- **By then it is usually gone.** Arsenal put **273,000 tickets** into member ballots across 2025/26, more than **9,100 a match**, and every competitive men's home fixture sold out to paid members. Tottenham says home tickets are "unlikely to get to General Sale". Brentford says a membership is, apart from a season ticket, "the only way to purchase tickets for Premier League matches".
+- **Season-ticket holders take most of the ground.**
+- **Members take what is left, in order of tier.** A membership is a place in the ticket queue, and the higher tiers go first.
+- **By then it is usually gone.** Arsenal put **273,000 tickets** into member ballots across 2025/26, more than **9,100 a match**, and every competitive men's home fixture sold out to paid members. Brentford says a membership is, apart from a season ticket, "the only way to purchase tickets for Premier League matches".
 
 > ⚠️ **A membership buys a chance at a ticket, not a ticket.** £38 for Arsenal Red enters you in the draw for every home game and guarantees nothing, though **105,000 Arsenal members who entered at least one ballot in 2025/26 won at least once**, up 11 per cent on the season before.
 
@@ -97,7 +97,7 @@ New Premier League rules mean **every seat sold is registered, by name, to the p
 | **Chelsea** | **CFC Blue, £45** (True Blue £60, True Blue+ £80) | Application window opens **~42 days** before each fixture | Effectively none for the league. Domestic cup home ties have a general-sale phase |
 | **Tottenham** | **One Hotspur, from £45** (One Hotspur+ from £60) | Members' on-sale, five home games at a time | Very low. The club says home games are "unlikely to get to General Sale" |
 | **Crystal Palace** | **Adult, £25** (Gold £60, International from £35) | Gold first, all members three days later, guest tickets five days after that | Only as a member's guest in the third sale phase, or via hospitality |
-| **Fulham** | **Membership, £50** (Membership+ £65) | Members, then season-ticket holders, then booking history, then **general sale** | Real. The Crystal Palace fixture on 5 September 2026 reached general sale |
+| **Fulham** | **Membership, £50** (Membership+ £65) | Members, then season-ticket holders, then booking history, then **general sale** | Real. Some home matches reach general sale |
 | **Brentford** | **Bees Overseas, £30.30** (UK adult £45.45) | Overseas ballot closes 72 hours after kick-off is confirmed | None, but the overseas ballot needs no loyalty points |
 
 ---
@@ -120,7 +120,7 @@ Prices are from [Arsenal's own membership guidance](https://help.arsenal.com/sup
 
 > 💡 **Silver cannot simply be bought.** Numbers are capped and a place comes up only when a Silver member does not renew. Red members join the waiting list automatically, in order of purchase, and lose their place if Red lapses.
 
-**How the ballot runs.** For the Category A match against Chelsea on 6 September 2026, the ballot opened at **noon on Friday 17 July** and closed at **noon on Monday 20 July**. Silver winners were charged around 23 July and Red around 28 July. Prices ran from **£78.00 to £145.50**.
+**How the ballot runs.** It opens about seven weeks before the match and closes at noon three days later. Silver winners are charged around three days after it closes and Red winners around eight days after. Category A prices for 2026/27 run from **£78.00 to £145.50**.
 
 - Apply alone or as a group of up to four members.
 - Pick up to two preferred price bands.
@@ -163,7 +163,7 @@ Prices are from [Arsenal's own membership guidance](https://help.arsenal.com/sup
 
 **General-sale tickets cost £5 more than member prices in every category.**
 
-**Loyalty points** now come only from attending, not buying: the ticket, including an exchange or forwarded one, has to scan at the turnstile.
+**Loyalty points** come only from attending: the ticket, including an exchange or forwarded one, has to scan at the turnstile.
 
 ---
 
@@ -190,7 +190,7 @@ There is no public car park at the ground. See [how to get to Tottenham Hotspur 
 
 ## Crystal Palace
 
-**Selhurst Park, SE25.** The cheapest adult membership of the six, at £25, and an international tier built for a single visit.
+**Selhurst Park, SE25.** The cheapest adult membership of the six, at £25, plus an International tier for a single visit.
 
 ![The Arthur Wait Stand and pitch at Selhurst Park during a Premier League fixture](../../assets/articles/premier-league-tickets-london/selhurst-park-crystal-palace.jpg)
 
@@ -203,15 +203,17 @@ There is no public car park at the ground. See [how to get to Tottenham Hotspur 
 
 The [International Membership](https://www.cpfc.co.uk/2627-international-membership) adds Palace TV+ and a discount on international shipping over £100.
 
-**The sale phases.** For the home match against Nottingham Forest on Sunday 11 October 2026, online from 10:00 and by other methods from 14:00:
+**The sale phases.** For the home match against Manchester United on Saturday 12 December 2026:
 
 | Phase | Date | Who can buy |
 | --- | --- | --- |
-| 1 | Mon 14 September | Gold Members, Junior Gold Members, Season Ticket+ holders |
-| 2 | Thu 17 September | Adult Members, Junior Members, **International Members** |
-| 3 | Tue 22 September | **Guest tickets** for all season-ticket holders and members — the guest does **not** need a membership |
-| 4 | Mon 5 October | **Ticket Resale** opens to Gold and Junior Gold Members |
-| 5 | Tue 6 October | Ticket Resale opens to Adult, Junior and International Members |
+| 1 | Mon 2 November | Gold Members, Junior Gold Members, Season Ticket+ holders |
+| 2 | Thu 5 November | Adult Members, Junior Members, **International Members** |
+| 3 | Tue 10 November | **Guest tickets** for all season-ticket holders and members; the guest does **not** need a membership |
+| 4 | Mon 7 December | **Ticket Resale** opens to Gold and Junior Gold Members |
+| 5 | Tue 8 December | Ticket Resale opens to Adult, Junior and International Members |
+
+Other fixtures follow the same pattern: Gold members three days ahead of everyone else, guest tickets five days after that. The full list is on [Palace's on-sale dates page](https://www.cpfc.co.uk/tickets/tickets-on-sale-dates/).
 
 **Phase three is the way in without a membership.** A member can buy a guest ticket for someone with a free Palace ticketing account who is on the member's friends-and-family list.
 
@@ -225,10 +227,10 @@ The [International Membership](https://www.cpfc.co.uk/2627-international-members
 
 Fulham's [2026/27 membership](https://www.fulhamfc.com/tickets-and-hospitality/membership) is **£50 for adults and £30 for juniors**; the limited-run Membership+ at £65 and £45 adds a £20 retail voucher and a gift.
 
-**The order of sale** is members, then extra seats for season-ticket holders, then supporters with a booking history or general sale. For the 20 September 2026 home match against Manchester United: members from 9.30am on **1 September**, season-ticket holders' extra seats from **3 September**, booking history from **5 September**.
+**The order of sale** is members, then extra seats for season-ticket holders, then supporters with a booking history, then general sale.
 
 - **Booking history** means a Fulham men's first-team ticket bought in the **past five years**, not counting one bought only for the same opponent.
-- **Join in time.** For that Manchester United match, the membership had to be in place by **noon on 28 August**.
+- **Join in good time.** The membership has to be in place a few days before the members' sale opens.
 - **General sale does happen.** The derby against Crystal Palace on 5 September 2026 was released to **General Sale, up to four tickets per person**, with none in the Putney End.
 
 **Prices** fall into five fixture categories. A Category B seat in block H4 of the Hammersmith End is **£61 for an adult and £36 for a junior**. Members get **£10 off in The Riverside and £5 off elsewhere** on one ticket per fixture, and restricted-view seats are £2 cheaper. The full grid is on the [2026/27 match ticket prices page](https://www.fulhamfc.com/tickets-and-hospitality/match-tickets/26-27-match-ticket-prices).
@@ -237,7 +239,7 @@ Fulham's [2026/27 membership](https://www.fulhamfc.com/tickets-and-hospitality/m
 
 ## Brentford
 
-**Gtech Community Stadium, TW8.** The only London club that reserves a fixed block of seats for supporters who live abroad.
+**Gtech Community Stadium, TW8.** The only London club that reserves a block of seats for supporters who live abroad.
 
 ![Teams lined up on the pitch at Gtech Community Stadium ahead of a Premier League match](../../assets/articles/premier-league-tickets-london/brentford-community-stadium.jpg)
 
@@ -247,7 +249,7 @@ Fulham's [2026/27 membership](https://www.fulhamfc.com/tickets-and-hospitality/m
 
 - No loyalty points needed.
 - Enter as many ballots as you like; you are charged only if you win.
-- It **closes 72 hours after the broadcasters confirm the kick-off time**, roughly **four to six weeks** before the match. Enter early, and expect the game to move within the weekend.
+- It **closes 72 hours after the broadcasters confirm the kick-off time**, roughly **four to six weeks** before the match.
 
 | Fixture category | Adult | 18–24 and senior | Junior |
 | --- | --- | --- | --- |
@@ -277,14 +279,14 @@ The **Ticket Exchange** opens three weeks before each fixture to members includi
 - **It covers every fixture on this page**, from Arsenal to Bromley, under the [2007 designation order](https://www.legislation.gov.uk/uksi/2007/790/made).
 - **No general resale marketplace can lawfully sell you a Premier League ticket**, whatever guarantee it offers.
 - **Buying is not the offence, but the ticket is void.** It will not scan, you will be refused entry and the club will not refund you. Chelsea says tickets from any source other than the club or an authorised partner "will be confiscated and entry will be refused".
-- **One digital ticket can be sold to several people.** It scans once.
-- **Clubs enforce it.** Arsenal has cancelled almost **74,000 accounts** since 2022/23 for trying to get tickets through unauthorised means, banned more than **19,000** in 2025/26 alone, and removed over **45,000 suspicious ballot entries**.
+- **One digital ticket can be sold to several people**, and it scans once.
+- **Clubs enforce it.** Arsenal banned more than **19,000** accounts in 2025/26 alone for getting tickets through unauthorised means.
 
 ---
 
 ## The official resale platforms
 
-Every London club runs its own exchange, the legitimate route into a sold-out match, at the face value the club sets.
+Every London club runs its own exchange, the lawful route into a sold-out match, at face value.
 
 | Club | Platform | Who can buy | How it works |
 | --- | --- | --- | --- |
@@ -295,7 +297,7 @@ Every London club runs its own exchange, the legitimate route into a sold-out ma
 | **Fulham** | Ticket Exchange | Members and supporters, depending on the phase reached | Runs alongside the ordinary sale sequence |
 | **Brentford** | Ticket Exchange | Members meeting the TAPs threshold, including Bees Overseas | Opens three weeks before each fixture; 100+ TAPs for Category A\*, 30+ for Category A, none for B |
 
-> 💡 **When to look.** Crystal Palace holds its resale seats back and releases them all at one published date and time, so set an alarm. Everywhere else seats appear as holders drop out, "continually" up to matchday in Tottenham's words, so keep checking.
+> 💡 **When to look.** Crystal Palace releases all its resale seats on one published date, so set an alarm. Everywhere else seats appear as holders drop out, so keep checking up to matchday.
 
 ---
 
@@ -313,9 +315,9 @@ Crystal Palace publishes a standing matchday rate card. Prices are **per person 
 | **The 2010 Club** | **£425** | The club's smallest room, sparkling reception, table service, set menu |
 | **Executive Box** | **£3,750** | A private ten or twenty-person box |
 
-The other five clubs price hospitality fixture by fixture, so the same lounge costs more against a title contender than a newly promoted side. Brentford gives Bees Overseas members **10 per cent off selected hospitality**.
+The other five clubs price hospitality fixture by fixture. Brentford gives Bees Overseas members **10 per cent off selected hospitality**.
 
-> ⚠️ **Buy hospitality from the club or an agent the club names.** Arsenal publishes a list of authorised hospitality agents for overseas buyers and a checker for whether a website is authorised. An unauthorised package is an unauthorised ticket with lunch attached, and just as illegal to sell.
+> ⚠️ **Buy hospitality from the club or an agent the club names.** Arsenal publishes a list of authorised hospitality agents for overseas buyers and a checker for whether a website is authorised. An unauthorised package is an unauthorised ticket and just as illegal to sell.
 
 <div data-stay-strip></div>
 
@@ -329,7 +331,7 @@ Below the Premier League, clubs sell to anyone.
 
 Four London clubs in 2026/27: **West Ham United** at London Stadium, **Queens Park Rangers** at Loftus Road, **Charlton Athletic** at The Valley and **Millwall** at The Den.
 
-At Charlton a **bronze-category** match starts at **£20 for adults and £5 for under-12s**, with a family bundle from **£35 for two adults and two under-12s**. Every home fixture has a published **general sale date**: for the Lincoln City match, general sale opened to everyone on 13 October 2026.
+At Charlton a **bronze-category** match starts at **£20 for adults and £5 for under-12s**, with a family bundle from **£35 for two adults and two under-12s**. Every home fixture has a published **general sale date**.
 
 For West Ham, see [how to get to London Stadium](/articles/london-stadium-travel-guide/).
 
@@ -355,18 +357,18 @@ Tier 1 is the West and East Lower stands; Tier 2 is the rest of the ground. Over
 
 ### Cup ties
 
-League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end with "any remaining Match Tickets will go on general sale", up to four per person, and prices drop: its home League Cup tie against Luton Town was Category G, against Category AA for a Premier League Sunday. Watch for midweek early rounds against lower-league opposition.
+League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end with "any remaining Match Tickets will go on general sale", up to four per person, and prices drop: its home League Cup tie against Luton Town was Category G, against Category AA for a Premier League Sunday. Early rounds against lower-league opposition are the ones to watch.
 
 ---
 
 ## On the day
 
-- **Bring photo ID.** A name mismatch at the turnstile gets you stopped. Chelsea may ask for ID on any general-sale ticket, and Brentford hands over overseas ballot tickets only against it.
-- **Check the ticket is assigned to you.** One bought by a member or season-ticket holder has to be transferred to your account before the deadline: 24 hours before kick-off at Crystal Palace, three hours at Chelsea. An unassigned ticket does not scan.
-- **Stay out of the away end.** Chelsea will not sell general-sale tickets to non-members "who appear to be supporters of the opposition club", and every club can eject a visiting supporter found in a home area. With no allegiance, sit in the home end and behave accordingly.
+- **Bring photo ID.** Chelsea may ask for it on any general-sale ticket, and Brentford hands over overseas ballot tickets only against it.
+- **Check the ticket is assigned to you.** A ticket bought by a member has to be transferred to your account before the deadline, 24 hours before kick-off at Crystal Palace and three hours at Chelsea, or it does not scan.
+- **Stay out of the away end.** Chelsea will not sell general-sale tickets to non-members "who appear to be supporters of the opposition club", and every club can eject a visiting supporter found in a home area.
 - **Children sit next to an adult.** Chelsea requires under-16s to attend with and sit next to someone 18 or over; Arsenal requires children 13 and under to sit within reaching distance of an adult 18 or over. Both cancel bookings that break the rule.
-- **No alcohol in sight of the pitch.** [It is an offence](https://www.legislation.gov.uk/ukpga/1985/57/section/2) to have a drink anywhere the match can be seen, or to arrive drunk. Concourse bars serve up to kick-off and at half-time; drink there.
-- **Don't drive.** Tottenham has no public car park and London Stadium has 229 spaces for a 60,000-plus crowd. Tottenham's regional coaches arrive **two hours before kick-off**, a fair benchmark for any ground.
+- **No alcohol in sight of the pitch.** [It is an offence](https://www.legislation.gov.uk/ukpga/1985/57/section/2) to have a drink anywhere the match can be seen, or to arrive drunk. Drink in the concourse bars, which serve up to kick-off and at half-time.
+- **Don't drive.** Tottenham has no public car park and London Stadium has 229 spaces for a 60,000-plus crowd. Arrive **two hours before kick-off**, as Tottenham's regional coaches do.
 
 - 🚇 **[How to get to Tottenham Hotspur Stadium](/articles/tottenham-hotspur-stadium-travel-guide/)** — four stations, the £160 parking penalty and getting home
 - 🏟️ **[How to get to London Stadium](/articles/london-stadium-travel-guide/)** — Stratford's seven services, and the two stations that skip Westfield
@@ -377,7 +379,7 @@ League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end
 
 ## Continue planning your London trip
 
-- 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)** — the other London sporting ticket with a mechanism worth understanding
+- 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🏃 **[London Marathon: How to Get a Place](/articles/london-marathon-guide/)**
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)** — day seats, lotteries and rush tickets
 - 📺 **[Free TV Show Tickets in London](/articles/free-tv-show-tickets-london/)**
@@ -389,4 +391,4 @@ League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end
 
 ---
 
-*Membership prices, sale phases and ticket prices are as published by Arsenal, Chelsea, Tottenham Hotspur, Crystal Palace, Fulham, Brentford, Charlton Athletic and Bromley for the 2026/27 season, checked on 21 September 2026, as were league placings. On-sale dates move with broadcast selections, so check the club's ticket page for the match you want.*
+*Membership prices, sale phases and ticket prices are as published by the clubs for the 2026/27 season. On-sale dates move with broadcast selections, so check the club's ticket page for the match you want.*
