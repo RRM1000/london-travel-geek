@@ -3,7 +3,8 @@ title: "London City Airport to Central London: Every Option Compared"
 seoTitle: "London City Airport to London: Transport Guide"
 description: "A practical guide to the DLR, Elizabeth line connections, buses and taxis from London City Airport, including 2026 fares and hotel-area recommendations."
 publishedAt: 2026-07-30
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites:
   - london
 canonicalSite: london
@@ -22,15 +23,15 @@ heroImageLicense: "CC BY-SA 3.0 DE"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
 ---
 
-London City Airport (LCY) is the most centrally located airport in London, situated just 6 miles (10 km) east of the City of London in Zone 3.
+London City Airport (LCY) is 6 miles (10 km) east of the City of London, in Zone 3.
 
 > 💡 **Quick Verdict: London City Airport to London (2026).**
-> - **Cheapest & Fastest Route:** **Docklands Light Railway (DLR)**. Standard TfL Zone 3-to-1 pay-as-you-go fare (**£3.40 off-peak** / **£4.10 peak**).  
-> - **Direct Access:** The DLR station is physically attached to the airport terminal (a 2-minute covered walk).  
-> - **Best Connections:**  
->   - Change at **Custom House** (2 stops) for the **Elizabeth Line** to Liverpool Street, Farringdon, and Paddington.  
->   - Change at **Canning Town** (2 stops) for the **Jubilee Line** to London Bridge, Westminster, and Waterloo.  
-> - **Full TfL Acceptance:** Contactless bank cards, Apple/Google Pay, Oyster cards, and Travelcards are fully valid!
+> - **Cheapest Route:** **Docklands Light Railway (DLR)**. Standard TfL Zone 3-to-1 pay-as-you-go fare (**£3.40 off-peak** / **£4.10 peak**).  
+> - **Direct Access:** The DLR station is attached to the terminal by a covered walkway (about 2 minutes).  
+> - **Connections:**  
+>   - Change at **Canning Town** (3 stops) onto a Beckton-branch train to **Custom House** for the **Elizabeth Line** to Liverpool Street, Farringdon and Paddington.  
+>   - Change at **Canning Town** (3 stops) for the **Jubilee Line** to London Bridge, Westminster and Waterloo.  
+> - **Payment:** Contactless cards, Apple/Google Pay, Oyster cards and Travelcards all work.
 
 > 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
 
@@ -38,13 +39,11 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 
 ## London City Transport Options Compared
 
-*Fares and travel times checked on **2 August 2026**.*
-
 | Transport Option | Central Destination | Journey Time | Single Adult Fare (Contactless / PAYG) | Best Used For |
 | --- | --- | --- | --- | --- |
-| **DLR ➔ Custom House (Elizabeth Line)** | Liverpool Street / Paddington | 20–35 mins | **£3.40** *(Off-Peak)* / **£4.10** *(Peak)* | **Fastest route** to West End, City & Paddington |
-| **DLR ➔ Canning Town (Jubilee Line)** | London Bridge / Westminster | 20–30 mins | **£3.40** *(Off-Peak)* / **£4.10** *(Peak)* | Direct to South Bank, Westminster & Waterloo |
-| **DLR Direct** | Bank Station / City of London | 22 mins | **£3.40** *(Off-Peak)* / **£4.10** *(Peak)* | Direct to the Financial District & Bank |
+| **DLR ➔ Canning Town ➔ Custom House (Elizabeth Line)** | Liverpool Street / Paddington | 20–35 mins | **£3.40** *(Off-Peak)* / **£4.10** *(Peak)* | West End, City & Paddington |
+| **DLR ➔ Canning Town (Jubilee Line)** | London Bridge / Westminster | 20–30 mins | **£3.40** *(Off-Peak)* / **£4.10** *(Peak)* | South Bank, Westminster & Waterloo |
+| **DLR Direct** | Bank Station / City of London | 22 mins | **£3.40** *(Off-Peak)* / **£4.10** *(Peak)* | The Financial District & Bank, no change |
 | **Black Cab / Uber** | Door-to-door anywhere in London | 15–40 mins | **£30.00 – £60.00** | Door-to-door convenience & heavy luggage |
 
 ---
@@ -54,10 +53,10 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 | Hotel Area or Landmark | Recommended DLR Route | Why Take This Route? |
 | --- | --- | --- |
 | **Bank, Monument, The City** | **DLR Direct to Bank** | Direct train in 22 mins. |
-| **Liverpool Street, Farringdon, Paddington** | **DLR ➔ Custom House ➔ Elizabeth Line** | Fast step-free Elizabeth line interchange (Custom House). |
-| **London Bridge, Waterloo, Westminster** | **DLR ➔ Canning Town ➔ Jubilee Line** | Fast interchange to high-frequency Jubilee line trains. |
+| **Liverpool Street, Farringdon, Paddington** | **DLR ➔ Canning Town ➔ Custom House ➔ Elizabeth Line** | Step-free Elizabeth line interchange at Custom House. |
+| **London Bridge, Waterloo, Westminster** | **DLR ➔ Canning Town ➔ Jubilee Line** | Jubilee line trains from Canning Town. |
 | **Canary Wharf & Docklands** | **DLR ➔ Poplar or Westferry** | Direct DLR connection in under 15 mins. |
-| **ExCeL London (Custom House)** | **DLR Direct** | Just 2 stops away on the DLR. |
+| **ExCeL London (Custom House)** | **DLR ➔ Canning Town ➔ Custom House** | Custom House is ExCeL's station. |
 
 ---
 
@@ -65,7 +64,7 @@ London City Airport (LCY) is the most centrally located airport in London, situa
 
 ## DLR Station & Terminal Accessibility
 
-London City Airport has **one single compact terminal**.
+London City Airport has **one terminal**.
 
 ![The check-in hall inside London City Airport](../../assets/articles/london-city-airport/london-city-terminal.jpg)
 
@@ -78,11 +77,11 @@ London City Airport has **one single compact terminal**.
 
 ## 5 Common London City transit mistakes to avoid
 
-1. **Paying for private taxis into Central London unnecessarily:** The DLR costs **£3.40 off-peak** and reaches Bank in 22 minutes without road traffic.
-2. **Going all the way to Bank when heading to Paddington:** Change at **Custom House** for the Elizabeth line — it saves over 15 minutes.
+1. **Paying for private taxis into Central London unnecessarily:** The DLR costs **£3.40 off-peak** and reaches Bank in 22 minutes.
+2. **Going all the way to Bank when heading to Paddington:** Change at **Canning Town** and **Custom House** for the Elizabeth line.
 3. **Switching payment devices between taps:** Tapping in with a card and out with Apple Pay results in two maximum fare penalties.
-4. **Forgetting weekend operating hours:** London City Airport closes earlier on Saturdays (~13:00) due to local noise regulations.
-5. **Overpaying for paper single tickets:** Contactless or Oyster pay-as-you-go is automatic and significantly cheaper.
+4. **Forgetting weekend operating hours:** London City Airport closes to flights early on Saturdays (~13:00).
+5. **Overpaying for paper single tickets:** Contactless or Oyster pay-as-you-go is cheaper.
 
 ---
 
@@ -90,7 +89,7 @@ London City Airport has **one single compact terminal**.
 
 ## Related London Transport Guides
 
-* 🎟️ [ExCeL London Travel Guide](/articles/excel-london-guide/) — a 15-minute walk, or a couple of DLR stops, from this airport
+* 🎟️ [ExCeL London Travel Guide](/articles/excel-london-guide/) — the exhibition centre at Custom House
 * ✈️ [Heathrow Airport to London Transport Guide](/articles/heathrow-airport-to-london/)
 * ✈️ [Gatwick Airport to London Transport Guide](/articles/gatwick-airport-to-london/)
 * 🚊 [Getting Around London: Complete Transport Overview](/articles/getting-around-london-transport-guide/)
@@ -100,4 +99,4 @@ London City Airport has **one single compact terminal**.
 
 ---
 
-*Fares and travel times checked on 2 August 2026. Always verify live timetables with [Transport for London](https://tfl.gov.uk/).*
+*Live timetables: [Transport for London](https://tfl.gov.uk/).*
