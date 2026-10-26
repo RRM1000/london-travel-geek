@@ -3,7 +3,8 @@ title: "Southend Airport to London: Every Transport Option Compared"
 seoTitle: "Southend Airport to London: Liverpool St in 53 Minutes"
 description: "Greater Anglia runs every 20 minutes to Stratford in 46 minutes and Liverpool Street in 53, and takes contactless. The fares, the buses, what a taxi costs, and which part of London each route suits."
 publishedAt: 2026-07-31
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2027-01-05
 sites:
   - london
 canonicalSite: london
@@ -22,10 +23,10 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
-**Greater Anglia runs from the terminal to Liverpool Street in 53 minutes, from £13.40**, or Stratford in 46 for the Elizabeth line. A taxi is £100 or more. Southend is 40 miles (64 km) east of London, in Essex. It has a single passenger terminal connected via a covered 2-minute walkway to **Southend Airport railway station**.
+**Greater Anglia runs from the terminal to Liverpool Street in 53 minutes, from £13.40**, or Stratford in 46 for the Elizabeth line. A taxi is £100 or more. Southend is 40 miles (64 km) east of London, in Essex, and its single terminal is a two-minute covered walk from **Southend Airport railway station**.
 
 > 💡 **Quick Verdict: Southend to London (2026).**
-> - **Fastest & Best Option:** **Greater Anglia Rail**. Direct trains run every 20 minutes to **Stratford** (46 mins) and **London Liverpool Street** (53 mins).  
+> - **Best option:** **Greater Anglia Rail**. Direct trains run every 20 minutes to **Stratford** (46 mins) and **London Liverpool Street** (53 mins).  
 > - **Contactless vs. Oyster:** Contactless bank cards and Apple/Google Pay are accepted at Southend Airport station, but **Oyster cards are not valid**.  
 > - **Smart Interchange Tip:** Change at **Stratford** for the Elizabeth line to reach Paddington, Farringdon or Canary Wharf faster than staying on the train to Liverpool Street.
 
@@ -36,8 +37,6 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ---
 
 ## Southend Transport Options Compared
-
-*Fares and travel times checked on **2 August 2026**.*
 
 | Transport Option | Central London Station | Journey Time | Single Adult Fare | Best Used For |
 | --- | --- | --- | --- | --- |
@@ -65,24 +64,22 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 
 ## Greater Anglia Station & Terminal Access
 
-Southend Airport features a **single passenger terminal**.
-
 ![The terminal building inside London Southend Airport](../../assets/articles/southend-airport/southend-terminal.jpg)
 
 *Southend Airport's terminal. Photo: [Chris j wood](https://commons.wikimedia.org/wiki/File:Southend_Airport_terminal_building_01.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
-* **Covered Walkway:** Southend Airport station is **100 metres** from the terminal doors, a two-minute covered walk.
-* **Step-Free Platforms:** The station and platforms are 100% step-free.
+* **Covered walkway:** The station is **100 metres** from the terminal doors.
+* **Step-free:** The station and platforms are step-free.
 
 ---
 
 ## 5 common Southend travel mistakes to avoid
 
-1. **Trying to use an Oyster card:** Oyster cards are **not valid** at Southend Airport — contactless bank cards or train tickets are required.
-2. **Staying on the train to Liverpool Street when going to the West End:** change at **Stratford** for the Elizabeth line to reach Paddington or Bond Street faster.
-3. **Confusing Southend Airport station with Southend Victoria or Southend Central:** Southend Airport has its own station beside the terminal.
-4. **Switching payment devices between taps:** Tapping in with a bank card and out with Apple Pay creates two incomplete journey penalties.
-5. **Hailing unlicensed taxis:** Always pre-book licensed taxis or private transfers.
+1. **Trying to use an Oyster card:** it is **not valid** here; use a contactless bank card or a train ticket.
+2. **Staying on the train to Liverpool Street for the West End:** change at **Stratford** for the Elizabeth line to Paddington or Bond Street.
+3. **Confusing Southend Airport station with Southend Victoria or Southend Central:** the airport has its own station beside the terminal.
+4. **Switching payment devices between taps:** tapping in with a bank card and out with Apple Pay creates two incomplete-journey penalties.
+5. **Hailing unlicensed taxis:** pre-book a licensed taxi or private transfer.
 
 ---
 
@@ -100,4 +97,4 @@ Southend Airport features a **single passenger terminal**.
 
 ---
 
-*Fares and travel times checked on 2 August 2026. Always verify live timetables with [Greater Anglia](https://www.greateranglia.co.uk/).*
+*Timetables and fares: [Greater Anglia](https://www.greateranglia.co.uk/).*
