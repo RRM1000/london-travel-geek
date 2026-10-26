@@ -19,11 +19,11 @@ draft: false
 area:
   name: "Greenwich"
   zone: "2–3"
-  vibe: "Maritime village with a hill, a park and a world-class view"
+  vibe: "Maritime village with a hill, a park and a view"
   walkability: 4
   timeNeeded: "A full day"
   budget: "££"
-  bestDay: "Any day — the market now trades seven days, and weekdays are the quiet ones"
+  bestDay: "Any day; weekdays are the quiet ones"
   walkingRoute:
     slug: "canary-wharf-greenwich-walk"
     label: "Canary Wharf to Greenwich under the river"
@@ -59,42 +59,42 @@ area:
       note: "North by DLR and Overground for markets and evening bars."
 faq:
   - q: "Are Greenwich and North Greenwich the same place?"
-    a: "No, and this catches people out constantly. Greenwich is the historic maritime town — the Observatory, Cutty Sark, the park and the market, served by DLR and National Rail. North Greenwich is on the Greenwich Peninsula about two miles north, and is essentially the O2 arena and the cable car, served by the Jubilee line. If you are going to a concert you want North Greenwich; for everything else you want Greenwich or Cutty Sark station."
+    a: "No. Greenwich is the historic maritime town — the Observatory, Cutty Sark, the park and the market, served by DLR and National Rail. North Greenwich is on the Greenwich Peninsula about two miles north, and is essentially the O2 arena and the cable car, served by the Jubilee line. If you are going to a concert you want North Greenwich; for everything else you want Greenwich or Cutty Sark station."
   - q: "Do you have to pay to stand on the Prime Meridian?"
     a: "The marked meridian line is in the Royal Observatory courtyard, inside the ticketed area, and the whole Royal Observatory is closed from 2 November 2026 for the First Light refurbishment. Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January. The view from the hill outside the Observatory is free and is the famous one."
   - q: "Is the Painted Hall worth the ticket?"
     a: "Yes. It took James Thornhill nineteen years to paint and is often called the UK's Sistine Chapel. It sits in the Old Royal Naval College, separate from the Observatory, with its own ticket. The adjacent chapel is free."
   - q: "What is the best way to get to Greenwich?"
-    a: "By river. Uber Boat by Thames Clippers runs from Westminster, Embankment, Bankside and Tower piers and takes 30 to 60 minutes depending on where you start. It costs more than the DLR but is a far better journey. Oyster and contactless are accepted, though river fares are separate from the daily cap."
+    a: "By river. Uber Boat by Thames Clippers runs from Westminster, Embankment, Bankside and Tower piers and takes 30 to 60 minutes depending on where you start. It costs more than the DLR. Oyster and contactless are accepted, though river fares are separate from the daily cap."
   - q: "What days is Greenwich Market open?"
     a: "Every day. The market's own guidance is 10am to 5.30pm daily, including weekends and bank holidays, with the only closures being Christmas Day and the first six Mondays of the year, when traders take a break after the Christmas rush. It is a five-minute walk from Cutty Sark DLR station."
 heroImage: "../../assets/articles/greenwich-area-guide/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College to Canary Wharf and the City"
 ---
 
-Greenwich is a UNESCO World Heritage Site and the only part of London where the sightseeing, the park and the view all sit on top of each other. From the hill outside the Royal Observatory you look down over Christopher Wren's Naval College, across the river to Canary Wharf, and on to the City beyond.
+Greenwich is a UNESCO World Heritage Site. From the hill outside the Royal Observatory you look down over Christopher Wren's Naval College, across the river to Canary Wharf, and on to the City.
 
-It also holds the line the world sets its clocks by. Greenwich Mean Time and longitude zero are both defined here.
+Greenwich Mean Time and longitude zero are both defined here.
 
 Greenwich has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=greenwich).
 
 ## Why visit — and who should skip it
 
-**Come here if** you want a full day out of central London that still feels essential. Greenwich has the best free view in the city, a genuine village centre, a market, a park with deer, and enough maritime history to fill a day.
+**Come here if** you want a full day out of central London. Greenwich has a free hilltop view, a village centre, a market, a park with deer and enough maritime history to fill a day.
 
-**Skip it if** you have only two or three days in London and have not yet done Westminster or the South Bank. Greenwich is 30 to 60 minutes each way, so it costs you an entire day. Save it for a longer trip — and if you do come, arrive by boat.
+**Skip it if** you have only two or three days in London and have not yet done Westminster or the South Bank. Greenwich is 30 to 60 minutes each way, so it costs you an entire day. Save it for a longer trip.
 
 ## Top sights and activities
 
 1. **Royal Observatory and the Prime Meridian** — Longitude zero, the Harrison marine chronometers, and the red time ball that has dropped at 13:00 since 1833. **Closed from 2 November 2026** for the First Light refurbishment; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January.
-2. **The view from Observatory Hill** — Free, and the best panorama in London: the Naval College, the river, Canary Wharf and the City. Go up even though the Observatory itself is closed.
+2. **The view from Observatory Hill** — Free: the Naval College, the river, Canary Wharf and the City. It stays open when the Observatory closes.
 3. **Cutty Sark** — The last surviving tea clipper, dry-docked and raised so you can walk beneath the hull.
 4. **The Painted Hall** — Thornhill's ceiling in the Old Royal Naval College, nineteen years in the painting. Separate ticket; the chapel opposite is free.
 
 ![Looking straight up at the ornate painted dome ceiling of the Painted Hall in the Old Royal Naval College](../../assets/articles/greenwich-area-guide/painted-hall-ceiling.jpg)
 
 *The Painted Hall ceiling. Photo: [Maciek Lulko](https://www.flickr.com/photos/62401943@N06/10402473936), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-5. **National Maritime Museum** — Free. Nelson's coat with the bullet hole from Trafalgar, and a good children's gallery.
+5. **National Maritime Museum** — Free. Nelson's coat with the bullet hole from Trafalgar, and a children's gallery.
 6. **Greenwich Park and the deer** — 183 acres, London's oldest enclosed royal park, with a wild deer herd in The Wilderness.
 7. **Greenwich Market** — Covered, and open **daily, 10am to 5.30pm**, bank holidays included. Arts, crafts, antiques and food under one roof.
 8. **The Greenwich Foot Tunnel** — An 1902 tiled tunnel under the Thames to the Isle of Dogs. Free, open always, and the classic view back at Greenwich from the far side.
@@ -105,17 +105,15 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 
 ## Greenwich and North Greenwich Are Not the Same Place
 
-This is the most common Greenwich mistake, so it is worth stating plainly.
-
 | | Greenwich | North Greenwich |
 |---|---|---|
 | **What is there** | Cutty Sark, Painted Hall, park, market (the Observatory is closed from 2 November 2026) | The O2 arena, cable car, Design District |
 | **Station** | Cutty Sark or Greenwich (DLR/Rail) | North Greenwich (Jubilee) |
 | **Distance apart** | — | About two miles |
 
-They are on opposite sides of the Greenwich Peninsula and are **not walkable from one another** in any sensible way. If you have a concert ticket, you want **North Greenwich** on the Jubilee line. If you want Greenwich's sights (the Royal Observatory is closed from 2 November 2026), you want **Cutty Sark** on the DLR. Arriving at the wrong one costs you half an hour.
+They are **not walkable from one another** in any sensible way. If you have a concert ticket, you want **North Greenwich** on the Jubilee line. If you want Greenwich's sights (the Royal Observatory is closed from 2 November 2026), you want **Cutty Sark** on the DLR. Arriving at the wrong one costs you half an hour.
 
-What is at North Greenwich: **The O2**, one of the busiest arenas in the world, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks, where contactless is accepted and the crossing counts as a TfL journey; and the **Design District**, a cluster of small studios and a good canteen.
+What is at North Greenwich: **The O2** arena, with the **Up at The O2** roof climb over the dome; the **IFS Cloud Cable Car** across the river to the Royal Docks, where contactless is accepted and the crossing counts as a TfL journey; and the **Design District**, a cluster of small studios and a good canteen.
 
 ![The red brick and glass domed rotunda entrance to the Greenwich Foot Tunnel beside the Thames](../../assets/articles/greenwich-area-guide/greenwich-foot-tunnel-rotunda.jpg)
 
@@ -124,54 +122,54 @@ What is at North Greenwich: **The O2**, one of the busiest arenas in the world, 
 ## Key streets and micro-districts
 
 ### Maritime Greenwich
-The UNESCO core, and four separate sites within five minutes of each other — which makes **knowing what is free and what is not** the most useful thing here.
+The UNESCO core: four separate sites within five minutes of each other, some free and some paid.
 
-**Free:** the **National Maritime Museum**, the largest maritime museum in the world, with a sea-themed playground and a good family offer; and the **Queen's House**, an Inigo Jones villa holding the art collection, with the Tulip Stairs — the first geometric self-supporting staircase in Britain — costing nothing to walk up.
+**Free:** the **National Maritime Museum**, with a sea-themed playground and a family offer; and the **Queen's House**, an Inigo Jones villa holding the art collection, with the Tulip Stairs — the first geometric self-supporting staircase in Britain — costing nothing to walk up.
 
-**Paid:** the **Cutty Sark**, **£22 adult and £11 child**, open daily 10am–5pm with last entry 4.15pm, where the money buys you the space underneath the hull as much as the decks. And the **Old Royal Naval College's Painted Hall**, Thornhill's ceiling, which took him nineteen years.
+**Paid:** the **Cutty Sark**, **£22 adult and £11 child**, open daily 10am–5pm with last entry 4.15pm. And the **Old Royal Naval College's Painted Hall**.
 
 **At Christmas** an ice rink goes up beside the Queen's House, **18 November 2026 to 3 January 2027**; prices and the kids-skate-free Tuesdays are in our [London ice skating guide](/articles/ice-skating-london/).
 
-**The order that works** is the free museums first while you are fresh, then one paid site rather than both — most people run out of appetite before they run out of Greenwich.
+**The order that works:** the free museums first, then one paid site rather than both.
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/greenwich-area-guide/naval-college-colonnade.jpg)
 
 *The colonnade beside the Queen's House.*
 
 ### Greenwich town centre
-A compact grid around the covered market, and the part that still feels like a town, not a visitor attraction.
+A compact grid around the covered market.
 
-**Greenwich Market** is the anchor — under a roof, so it works in the rain, and unusual in that it mixes antiques, crafts and makers with food rather than being one or the other. It is **open daily, 10am to 5.30pm**. **Goddards at Greenwich** has been selling pie and mash here since 1890, which is the most Greenwich lunch available. There is also a **street food market by the Cutty Sark**.
+**Greenwich Market** is covered, so it works in the rain, and mixes antiques, crafts and makers with food. It is **open daily, 10am to 5.30pm**, closed on Christmas Day and the first six Mondays of the year. There are no stalls on Monday 9 and Tuesday 10 November while the Christmas lights go up; the shops stay open. **Goddards at Greenwich** has sold pie and mash here since 1890. There is also a **street food market by the Cutty Sark**.
 
-Around it, **Church Street, Nelson Road and College Approach** hold the second-hand bookshops, a printmakers' gallery, a guitar shop and several good pubs — including **The Admiral Hardy** on the market itself.
+Around it, **Church Street, Nelson Road and College Approach** hold the second-hand bookshops, a printmakers' gallery, a guitar shop and several pubs — including **The Admiral Hardy** on the market itself.
 
-**Come on a weekday if you want to browse.** It trades seven days now, but weekends are shoulder-to-shoulder, and the antiques stalls are the ones that suffer for it.
+**Come on a weekday if you want to browse**; weekends are crowded.
 
-In November a lantern parade from the Old Royal Naval College switches on the market's Christmas lights; the date and the market's festive hours are in our [London Christmas markets guide](/articles/christmas-markets-london/).
+A lantern parade from the Old Royal Naval College switches on the market's Christmas lights on Wednesday 18 November; the festive hours are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
 ### Greenwich Park and the hill
-The oldest enclosed royal park in London, and the climb behind the Maritime Museum is steeper than it looks from the bottom — allow ten minutes and take the path, not the grass in wet weather.
+The climb behind the Maritime Museum is steeper than it looks: allow ten minutes, and take the path, not the grass, in wet weather.
 
-**Come for the view from the top, which is free.** Queen's House and the Naval College below, the river, Canary Wharf opposite and the O2 to the right — one of the great London views, at no cost, whether or not you go into anything.
+**The view from the top is free.** The Queen's House and the Naval College are below, with the river, Canary Wharf opposite and the O2 to the right.
 
-**The Royal Observatory at the summit is closed from 2 November 2026** for the First Light refurbishment, which Royal Museums Greenwich says is due to finish by spring 2028. Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation)). Until then the free view from the hill, the National Maritime Museum and the Cutty Sark fill the day. Until 2 November it is £24 adult, £18 student, £12 child, 10am–5pm with last entry 4pm, and buys the **Prime Meridian line**, Wren's Octagon Room and the Great Equatorial Telescope.
+**The Royal Observatory at the summit is closed from 2 November 2026** for the First Light refurbishment, due to finish by spring 2028. The Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation)). Until 2 November it is £24 adult, £18 student, £12 child, 10am–5pm with last entry 4pm, and buys the **Prime Meridian line**, Wren's Octagon Room and the Great Equatorial Telescope.
 
-**The Peter Harrison Planetarium is closed for renovation**, so do not plan a show into the day. Royal Museums Greenwich runs a replacement 30-minute show, presented live by its astronomers, downstairs at the National Maritime Museum as part of Astronomers Take Over: £18 adult and £16 child with the planetarium, £8 without. [Science events in London](/articles/science-events-london/) covers that and the rest of the city's dated science programme.
+**The Peter Harrison Planetarium is closed for renovation.** Royal Museums Greenwich runs a replacement 30-minute live show downstairs at the National Maritime Museum as part of Astronomers Take Over: £18 adult and £16 child with the planetarium, £8 without. [Science events in London](/articles/science-events-london/) covers that and the rest of the city's dated science programme.
 
-Also free, and often missed: the **deer in The Wilderness** — a herd has been here since the seventeenth century — and the **rose garden** behind Ranger's House, at its best in June. English Heritage's own site now calls Ranger's House the exterior of the Bridgerton family home; see our [Bridgerton in London](/articles/bridgerton-london/) guide for opening dates.
+Also free: the **deer in The Wilderness** and the **rose garden** behind Ranger's House, at its best in June. English Heritage calls Ranger's House the exterior of the Bridgerton family home; see our [Bridgerton in London](/articles/bridgerton-london/) guide for opening dates.
 
 ![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/greenwich-area-guide/greenwich-park-view.jpg)
 
 *The view from Greenwich Park.*
 
 ### The riverside and the Foot Tunnel
-**The Greenwich Foot Tunnel is free, open at all hours, and the entrance is right at the pier beside the Cutty Sark** — a glazed rotunda you would walk past without noticing. Opened in 1902 so that south London dockworkers could reach the Isle of Dogs, it is white tile under the river, and it comes up at Island Gardens for the view back at Greenwich that Canaletto painted. The refurbishment left **four new lifts that the council says run 24 hours a day**, and it publishes a [live status page for both ends](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels) — worth a look before you rely on them. Walk your bike through rather than riding, and note that e-bikes are barred altogether.
+**The Greenwich Foot Tunnel is free, open at all hours, and the entrance is a glazed rotunda at the pier beside the Cutty Sark.** It is white tile under the river and comes up at Island Gardens for the view back at Greenwich that Canaletto painted. The refurbishment left **four new lifts that the council says run 24 hours a day**, and it publishes a [live status page for both ends](https://www.royalgreenwich.gov.uk/parking-transport-and-streets/travel-foot-bike-or-public-transport/check-status-foot-tunnels), so check it before you rely on them. Walk your bike through rather than riding, and note that e-bikes are barred altogether.
 
 **[The full walking route from Canary Wharf, stop by stop →](/articles/canary-wharf-greenwich-walk/)** — eleven stops, with the tunnel in the middle.
 
-**Head east along the river instead** and you pass the Naval College to the **Trafalgar Tavern**, an 1837 riverside pub where Dickens set the wedding breakfast in *Our Mutual Friend* — in the Hawke Room, which you can still eat in. Order the whitebait, historically and still.
+**Head east along the river instead** and you pass the Naval College to the **Trafalgar Tavern**, an 1837 riverside pub where Dickens set the wedding breakfast in *Our Mutual Friend* — in the Hawke Room, which you can still eat in. Whitebait is the traditional order.
 
-**Going by boat is better than the DLR.** Uber Boat by Thames Clippers runs from Greenwich Pier into central London, takes about 25 minutes to Tower Bridge, and is the only commute in the city people photograph.
+**Uber Boat by Thames Clippers** runs from Greenwich Pier into central London and takes about 25 minutes to Tower Bridge.
 
 ![The Trafalgar Tavern's riverside terrace strung with rows of colourful nautical signal flags](../../assets/articles/greenwich-area-guide/trafalgar-tavern.jpg)
 
@@ -182,19 +180,19 @@ Also free, and often missed: the **deer in The Wilderness** — a herd has been 
 *Inside the Foot Tunnel.*
 
 ### Greenwich Peninsula and North Greenwich
-Two miles north, and a different world from the Maritime Greenwich end of the peninsula — modern, arena-scale, and built around The O2, not around history. Match-day and event-night transport are in our [O2 travel guide](/articles/the-o2-travel-guide/). The Thames Clippers pier here is the fastest way in on an event night.
+Two miles north, and built around The O2, not around history. Match-day and event-night transport are in our [O2 travel guide](/articles/the-o2-travel-guide/). The Thames Clippers pier here is the fastest way in on an event night.
 
 ![The O2's white dome and yellow support masts seen from across the Thames at dusk, with an Uber Boat by Thames Clippers moored in front](../../assets/articles/greenwich-area-guide/o2-dusk-river.jpg)
 
 *The O2 from across the river at dusk.*
 
-**The O2 is not just the arena.** Wrapped around the dome is **Outlet Shopping at The O2** — over 60 discount and outlet stores (adidas, Nike, Calvin Klein, Tommy Hilfiger, Guess, Next and others), open the same hours as the rest of the complex. Alongside it: more than 30 bars and restaurants, a **Cineworld cinema**, **bowling**, and a **trampoline park**, on top of the **Up at The O2** roof climb and whatever is playing in the arena itself. It works as a destination on a day with no concert ticket at all.
+**Outlet Shopping at The O2** wraps around the dome: over 60 discount and outlet stores (adidas, Nike, Calvin Klein, Tommy Hilfiger, Guess, Next and others), open the same hours as the rest of the complex. There are also more than 30 bars and restaurants, a **Cineworld cinema**, **bowling**, a **trampoline park** and the **Up at The O2** roof climb, so a day here needs no concert ticket.
 
 ![A red and white IFS Cloud Cable Car cabin crossing high above the Thames, with the O2 dome and the Canary Wharf skyline behind](../../assets/articles/greenwich-area-guide/ifs-cloud-cable-car.jpg)
 
 *The IFS Cloud Cable Car.*
 
-The **Design District** sits opposite the arena, a minute from North Greenwich station — 16 low-rise buildings by eight different architects, holding small design studios, workspaces and a straightforward canteen. Worth a look if The O2 itself feels too retail-heavy.
+The **Design District** sits opposite the arena, a minute from North Greenwich station — 16 low-rise buildings by eight different architects, holding small design studios, workspaces and a canteen.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="greenwich-area-guide-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -215,7 +213,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 ## Getting there
 
-**By river.** The best way. **Uber Boat by Thames Clippers** runs from Westminster, Embankment, Bankside, Tower and Canary Wharf to Greenwich Pier. Thirty to sixty minutes depending on the start point. Oyster and contactless work, but river fares sit outside the daily cap — see the [river boats guide](/articles/how-to-use-london-river-boats/). Bought ahead, an <a href="https://www.getyourguide.com/activity/-t413091?partner_id=WWP7I0R&amp;cmp=greenwich-area-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Uber Boat single river ticket</a> is from £9.80 on GetYourGuide, for one trip from any central pier. For a boat with commentary, City Cruises' <a href="https://www.getyourguide.com/activity/-t1382143?partner_id=WWP7I0R&amp;cmp=greenwich-area-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one-day unlimited river pass</a> is from £9 for as many trips as you like between Westminster, London Eye, Tower and Greenwich piers, and the one-way Westminster to Greenwich cruises are from £14.62; see our [Thames river cruises guide](/articles/thames-river-cruises-london/).
+**By river.** **Uber Boat by Thames Clippers** runs from Westminster, Embankment, Bankside, Tower and Canary Wharf to Greenwich Pier. Thirty to sixty minutes depending on the start point. Oyster and contactless work, but river fares sit outside the daily cap — see the [river boats guide](/articles/how-to-use-london-river-boats/). Bought ahead, an <a href="https://www.getyourguide.com/activity/-t413091?partner_id=WWP7I0R&amp;cmp=greenwich-area-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Uber Boat single river ticket</a> is from £9.80 on GetYourGuide, for one trip from any central pier. For a boat with commentary, City Cruises' <a href="https://www.getyourguide.com/activity/-t1382143?partner_id=WWP7I0R&amp;cmp=greenwich-area-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one-day unlimited river pass</a> is from £9 for as many trips as you like between Westminster, London Eye, Tower and Greenwich piers, and the one-way Westminster to Greenwich cruises are from £14.62; see our [Thames river cruises guide](/articles/thames-river-cruises-london/).
 
 **By DLR.** **Cutty Sark** station is the one you want — it is in the middle of the town centre. Greenwich station is a little further out.
 
@@ -241,7 +239,7 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 
 **[A Walk from Canary Wharf to Greenwich: Under the River in Eleven Stops →](/articles/canary-wharf-greenwich-walk/)**
 
-Our full route into this area from the north: **eleven numbered stops** over about 6.5km and three to four hours, with a map, a Google Maps walking link for your phone and what is open on which day. It starts at Canary Wharf's free roof garden, comes down the Isle of Dogs past **Mudchute Farm**, crosses under the Thames through the **Greenwich Foot Tunnel** at stop six, and finishes on Greenwich hill — so it arrives at the Naval College out of a Victorian tunnel, not off a train. It also carries the **live foot-tunnel lift status**, which is the fact that decides whether the crossing is step-free on the day you go.
+Our full route into this area from the north: **eleven numbered stops** over about 6.5km and three to four hours, with a map, a Google Maps link and what is open on which day. It starts at Canary Wharf's free roof garden, comes down the Isle of Dogs past **Mudchute Farm**, crosses under the Thames through the **Greenwich Foot Tunnel** at stop six and finishes on Greenwich hill. It also carries the **live foot-tunnel lift status**, which decides whether the crossing is step-free on the day.
 
 ### The short version, if you are already in Greenwich
 
@@ -257,15 +255,13 @@ Our full route into this area from the north: **eleven numbered stops** over abo
 ## Common mistakes to avoid
 
 1. **Going to North Greenwich for the Cutty Sark and the park.** Two miles and a different Tube line. Cutty Sark on the DLR is the one you want.
-2. **Taking the Tube when you could take the boat.** The river journey is the best part of the day.
+2. **Taking the DLR when you could take the boat.** Greenwich Pier is beside the Cutty Sark.
 3. **Paying for a view.** The famous panorama from the hill is free.
 4. **Underestimating the hill.** It is a genuine climb from the Maritime Museum. There is a gentler path from Blackheath Gate.
 5. **Buying the Observatory and the Cutty Sark separately before 2 November 2026.** A Royal Museums Greenwich day pass covers both for £38 adult and £19 child. The Maritime Museum and Queen's House are free anyway.
-6. **Avoiding a Monday for the market.** You no longer need to. It trades seven days, 10am to 5.30pm, and Monday is one of the quietest.
+6. **Avoiding a Monday for the market.** It trades 10am to 5.30pm on Mondays too, except the first six of the year, and Monday is one of the quietest days.
 
 ## Where to stay
-
-A base for a trip where the park and the river count for more than being in the West End every evening.
 
 - **Greenwich town centre** — Rooms above pubs by the market, and chain hotels and apartments along Greenwich High Road. Cutty Sark DLR is in the middle; Greenwich station, with trains to London Bridge in about ten minutes, is at the west end.
 - **Blackheath** — A village on the heath beyond the park, with its own station and trains to London Bridge and Charing Cross. The hill and the Observatory (closed from 2 November 2026) are about 20 minutes' walk across the heath.
