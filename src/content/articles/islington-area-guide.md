@@ -3,7 +3,8 @@ title: "Islington Area Guide: Upper Street, Camden Passage and the Canal"
 seoTitle: "Islington Guide: Upper Street & Camden Passage"
 description: "A complete Islington guide: Camden Passage antiques, Upper Street dining, the Angel canal tunnel, Sadler's Wells and the small theatres worth booking."
 publishedAt: 2026-08-19
-updatedAt: 2026-09-19
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites:
   - london
 canonicalSite: london
@@ -55,13 +56,13 @@ faq:
   - q: "What is Camden Passage and is it the same as Camden Market?"
     a: "No, and they are not near each other. Camden Passage is a narrow pedestrian lane off Upper Street in Islington, lined with antique shops and arcades. Camden Market is two miles north-west in Camden Town. The antique market in Camden Passage runs on Wednesdays and Saturdays, with the shops open most days."
   - q: "Is Upper Street worth visiting?"
-    a: "Yes, if you are eating. Upper Street has one of the highest concentrations of restaurants in London along a single mile, at every price point, plus the Almeida and Little Angel theatres and the Union Chapel. It is a street for an evening rather than a sightseeing stop — there are no landmarks."
+    a: "Yes, if you are eating. Upper Street has restaurants at every price point along a single mile, plus the Almeida and Little Angel theatres and the Union Chapel. It is a street for an evening, not a sightseeing stop; there are no landmarks."
   - q: "Does the Regent's Canal go through Islington?"
     a: "Yes, but it disappears. The canal enters the 878-metre Islington Tunnel at City Road Basin and does not resurface until Muriel Street near Caledonian Road. There is no towpath through it — walkers follow a signed street-level route over the top, which takes about fifteen minutes."
   - q: "What is on at Sadler's Wells?"
-    a: "It is Britain's leading dance venue, programming contemporary dance, flamenco, hip hop and ballet year-round. It sits at the southern end of Islington near Angel. Book ahead — popular runs sell out, and the theatre has a second stage at the Peacock Theatre in Holborn."
+    a: "Sadler's Wells programmes contemporary dance, flamenco, hip hop and ballet year-round. It sits at the southern end of Islington near Angel. Book ahead as popular runs sell out; its second stage is the Peacock Theatre in Holborn."
   - q: "Is the Union Chapel still a working church?"
-    a: "Yes, both. It is an active Congregational church and one of London's most atmospheric music venues, with concerts held in the Gothic octagonal chapel itself. It also runs a night shelter. Gigs there are seated in the original pews."
+    a: "Yes, both. It is an active Congregational church and a music venue, with concerts held in the Gothic octagonal chapel itself, seated in the original pews. It also runs a night shelter."
 heroImage: ../../assets/articles/islington-area-guide/100-104-islington-high-street-islington-june-2022-02.jpg
 heroImageAlt: "Georgian shopfronts and independent businesses on Islington High Street near the Angel"
 heroImageCredit: "No Swan So Fine"
@@ -70,7 +71,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 ---
 
-Islington is a mile of Georgian terrace running north from Angel, and it has more restaurants along it than almost any comparable stretch in London. It also has two well-regarded small theatres, a Gothic chapel that doubles as a music venue, and a lane of antique shops that predates almost all of it.
+Islington is a mile of Georgian terrace running north from Angel, lined with restaurants. It also has two small theatres, a Gothic chapel that doubles as a music venue, and a lane of antique shops.
 
 There are no landmarks here. Islington is a place to eat, drink, browse and see something in the evening.
 
@@ -78,20 +79,20 @@ Islington has its own share of the commemorative plaques marking where notable p
 
 ## Why visit — and who should skip it
 
-**Come here if** you want dinner and a show without West End prices, or you like antiques and secondhand books. The Almeida punches well above its 325 seats, and the Union Chapel is the most atmospheric small venue in London.
+**Come here if** you want dinner and a show, or you like antiques and secondhand books. The Almeida has 325 seats, and the Union Chapel is a music venue in a Gothic chapel.
 
-**Skip it if** you are sightseeing. There is nothing here to photograph and nothing to queue for. Islington rewards an evening far more than an afternoon.
+**Skip it if** you are sightseeing: there are no landmarks, and Islington suits an evening better than an afternoon.
 
 ## Top sights and activities
 
 1. **Camden Passage** — A narrow pedestrian lane off Upper Street lined with antique dealers, vintage shops and arcades. The market runs **Wednesdays and Saturdays**; the shops open most days.
 2. **Upper Street** — A mile of restaurants and bars from Angel to Highbury Corner, at every price point.
-3. **The Almeida Theatre** — 325 seats in a converted Victorian literary institute, with a reputation far larger than its size. Book well ahead. It is one of the [off-West End houses](/articles/london-theatre-guide/) where shows that later transfer to Shaftesbury Avenue often begin.
+3. **The Almeida Theatre** — 325 seats in a converted Victorian literary institute. Book well ahead. It is one of the [off-West End houses](/articles/london-theatre-guide/) where shows that later transfer to the West End often begin.
 4. **Union Chapel** — A working Congregational church and a music venue, with gigs held in the Gothic octagon and the audience seated in the original pews.
-5. **Sadler's Wells** — Britain's leading dance house, at the southern end near Angel. Contemporary dance, flamenco, hip hop and ballet.
+5. **Sadler's Wells** — A dance house at the southern end near Angel: contemporary dance, flamenco, hip hop and ballet.
 
-6. **Chapel Market** — A traditional London street market off Liverpool Road, running most days. Fruit and veg, household goods and no pretensions.
-7. **The Regent's Canal and Islington Tunnel** — The canal vanishes into a 960-metre tunnel at City Road Basin. There is no towpath; a signed street route crosses over the top.
+6. **Chapel Market** — A traditional London street market off Liverpool Road, running most days: fruit and veg and household goods.
+7. **The Regent's Canal and Islington Tunnel** — The canal vanishes into an 878-metre tunnel at City Road Basin. There is no towpath; a signed street route crosses over the top.
 
 ![Antique shopfronts along Camden Passage in Islington](../../assets/articles/islington-area-guide/camden-passage.jpg)
 
@@ -103,23 +104,21 @@ Islington has its own share of the commemorative plaques marking where notable p
 Around the Tube station. Sadler's Wells, Chapel Market and the entrance to Camden Passage.
 
 ### Camden Passage
-Off Upper Street behind the Angel. Antique arcades, small shops and a handful of good cafes.
+Off Upper Street behind the Angel: antique arcades, small shops and cafes.
 
-It has nothing to do with Camden Town, beyond sharing a namesake — both were named after Charles Pratt, 1st Earl Camden, whose title was given to streets and land across north London in the 1760s. The passage itself was laid out in 1767 as a back alley behind the houses on what was then Islington High Street, and only took the Camden name during the 1800s.
-
-The **antiques trade** dates to the 1960s, when the market was founded by John Payton with the borough's backing and drew over 350 dealers at its peak. That number has shrunk as Islington rents have risen, but **Pierrepont Arcade** still runs a general antiques market most days plus a dedicated vintage clothing market on Thursdays. One well-known casualty: **The Mall Antiques Arcade**, a converted Victorian tram shed that once housed 35 dealers, closed in 2008 and is now an Amazon Fresh.
+The antiques market began in the 1960s and drew over 350 dealers at its peak; the number has shrunk as rents have risen. **Pierrepont Arcade** still runs a general antiques market most days plus a vintage clothing market on Thursdays. **The Mall Antiques Arcade**, a converted Victorian tram shed that once housed 35 dealers, closed in 2008.
 
 ![Antique dealers' shopfronts in Camden Passage, Islington, with pavement café tables and string lights strung overhead](../../assets/articles/islington-area-guide/camden-passage-cafes.jpg)
 
 *Café tables in Camden Passage.*
 
-The **Camden Head** pub, at the Islington Green end, hosts **Angel Comedy Club** every night of the week — free entry, and well enough regarded that Time Out has called it a "comedy institution." Arrive early; it fills up.
+The **Camden Head** pub, at the Islington Green end, hosts **Angel Comedy Club** seven nights a week with free stand-up shows. Arrive early; it fills up.
 
 ### Upper Street
 The spine, running north to Highbury Corner. Restaurants, bars, the Almeida and the Little Angel puppet theatre.
 
 ### Barnsbury and the garden squares
-West of Upper Street. Gibson Square, Lonsdale Square and Thornhill Square — quiet Georgian terraces almost nobody walks through.
+West of Upper Street. Gibson Square, Lonsdale Square and Thornhill Square — quiet Georgian terraces.
 
 <div data-stay-strip></div>
 
@@ -134,12 +133,12 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
-| **Ottolenghi Islington** | Middle Eastern deli | ££ | The original branch on Upper Street; the counter salads are the point |
+| **Ottolenghi Islington** | Middle Eastern deli | ££ | Upper Street; the counter salads |
 | **Trullo** | Italian | £££ | Highbury Corner; charcoal-grilled and hand-rolled pasta |
-| **Afghan Kitchen** | Afghan | £ | Tiny, cash-friendly, long-running Camden Passage institution |
+| **Afghan Kitchen** | Afghan | £ | Tiny and long-running, near Camden Passage |
 | **The Castle** | Pub | ££ | Corner pub off Upper Street with a roof terrace |
-| **Gallipoli** | Turkish | ££ | Upper Street mainstay; loud, cheap and busy |
-| **Chapel Market stalls** | Street market | £ | Everyday food and produce, no tourists |
+| **Gallipoli** | Turkish | ££ | Upper Street; loud and busy |
+| **Chapel Market stalls** | Street market | £ | Everyday food and produce |
 
 ![The Chapel Market sign spanning the street in Islington](../../assets/articles/islington-area-guide/chapel-market.jpg)
 
@@ -149,9 +148,9 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 ## Getting there
 
-**By Tube.** **Angel** (Northern) serves the southern end and has the longest escalator on the network at 60 metres. **Highbury & Islington** (Victoria, Overground) serves the north.
+**By Tube.** **Angel** (Northern) serves the southern end; its 60-metre escalator is the longest on the Underground. **Highbury & Islington** (Victoria, Overground) serves the north.
 
-**By Overground.** Highbury & Islington connects east to Hackney and Stratford, and south to Shoreditch and Whitechapel — often faster than going via central London.
+**By Overground.** Highbury & Islington connects east to Hackney and Stratford, and south to Shoreditch and Whitechapel.
 
 **Best exit.** From Angel, turn right out of the station and Camden Passage is two minutes north, opposite the old Angel building.
 
@@ -189,14 +188,14 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 1. **Confusing Camden Passage with Camden Market.** Different places, two miles apart.
 2. **Coming for the antique market on the wrong day.** Wednesdays and Saturdays.
 3. **Trying to follow the canal towpath through Islington.** It goes into a tunnel with no path. Follow the signed street route.
-4. **Treating Islington as a daytime sightseeing stop.** There is nothing to see. Come for the evening.
-5. **Not booking the Almeida.** 325 seats and a national reputation — it sells out.
+4. **Treating Islington as a daytime sightseeing stop.** There are no landmarks. Come for the evening.
+5. **Not booking the Almeida.** 325 seats; it sells out.
 6. **Walking the whole of Upper Street.** It is a mile. The interesting half is the southern end.
 
 ## Where to stay
 
-Well connected, residential, and good value for somewhere this close to the centre.
+Well connected and residential.
 
 - **Angel** — Mid-range hotels near the Tube, walkable to King's Cross and the City.
-- **Highbury** — Quieter and cheaper, on the Victoria line and Overground.
+- **Highbury** — Quieter, on the Victoria line and Overground.
 - **King's Cross** — Twenty minutes west, with far better rail connections.
