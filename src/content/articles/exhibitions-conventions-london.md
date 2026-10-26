@@ -14,7 +14,7 @@ tags: [exhibitions, conventions, events, ExCeL, Olympia, things to do, London ev
 draft: false
 faq:
   - q: "What is the biggest comic con in London?"
-    a: "MCM Comic Con London, at ExCeL — the organiser's own site calls it the UK's biggest. The next show is 28 to 30 May 2027, with tickets on sale from 26 October 2026; at the October 2026 show the Weekend ticket and both VIP tiers sold out more than a month before the doors opened. A separate show, London Comic Con Spring, runs at Olympia, usually in late February or early March, though 2027 dates aren't announced yet."
+    a: "MCM Comic Con London, at ExCeL — the organiser's own site calls it the UK's biggest. The next show is 28 to 30 May 2027, with tickets released on 26 October 2026; at the October 2026 show the Weekend ticket and both VIP tiers sold out more than a month before the doors opened. A separate show, London Comic Con Spring, runs at Olympia, usually in late February or early March, though 2027 dates aren't announced yet."
   - q: "What's on at ExCeL London?"
     a: "ExCeL runs almost entirely on trade and B2B events, but a handful of consumer shows each year are open to the public: a run of Christmas experiences and the London International Horse Show fill November and December, MegaCon Live comes in January, Grand Designs Live returns at the end of April 2027 and MCM Comic Con follows on 28 to 30 May 2027. Our [ExCeL London travel guide](/articles/excel-london-guide/) covers the stations, parking and campus hotels in full."
   - q: "How do you get to Olympia London?"
@@ -29,7 +29,7 @@ faq:
 
 MCM Comic Con sells its Weekend ticket and both VIP tiers more than a month before the doors open. Olympia fits two Christmas fairs into November. The Ideal Home Show takes over the same halls in April. This is the calendar behind all of it — every public exhibition, convention, consumer show and fair in Greater London from November 2026 to September 2027, at ExCeL, Olympia, Alexandra Palace, Somerset House and beyond.
 
-> 💡 **The Short Version:** **[MCM Comic Con London](https://www.mcmcomiccon.com/london/en-us.html)** — billed by its organiser as the UK's biggest — is at **ExCeL 28 to 30 May 2027**, with tickets on sale from **26 October 2026**. The **[Spirit of Christmas Fair](https://www.olympia.co.uk/events/spirit-of-christmas-fair)** runs at **Olympia 2 to 8 November**, from £25.75, and **The Ideal Christmas Show** follows there on **26 to 29 November**. The **[Ideal Home Show](https://www.idealhomeshow.co.uk/)** returns to **Olympia 2 to 11 April 2027**. For ExCeL, use **Custom House** (Elizabeth line and DLR) for the west halls or **Prince Regent** (DLR) for the east halls and the ICC; for Olympia, use **Kensington (Olympia)** — London Overground's Mildmay line, plus a District line shuttle from High Street Kensington at weekends.
+> 💡 **The Short Version:** **[MCM Comic Con London](https://www.mcmcomiccon.com/london/en-us.html)** — billed by its organiser as the UK's biggest — is at **ExCeL 28 to 30 May 2027**, with tickets released on **26 October 2026**. The **[Spirit of Christmas Fair](https://www.olympia.co.uk/events/spirit-of-christmas-fair)** runs at **Olympia 2 to 8 November**, from £25.75, and **The Ideal Christmas Show** follows there on **26 to 29 November**. The **[Ideal Home Show](https://www.idealhomeshow.co.uk/)** returns to **Olympia 2 to 11 April 2027**. For ExCeL, use **Custom House** (Elizabeth line and DLR) for the west halls or **Prince Regent** (DLR) for the east halls and the ICC; for Olympia, use **Kensington (Olympia)** — London Overground's Mildmay line, plus a District line shuttle from High Street Kensington at weekends.
 
 ## The calendar, month by month
 
@@ -94,7 +94,7 @@ Dates and prices come from each show's own organiser site. A show that sells tie
 
 | Show | Venue | Dates | From | What it is |
 | --- | --- | --- | --- | --- |
-| **MCM Comic Con London** | ExCeL London | 28–30 May | Tickets on sale from 26 October 2026 | Cosplay, comics, anime, gaming and guest signings; the Weekend ticket and both VIP tiers sold out at the October 2026 show. Full detail in [our MCM Comic Con guide](/articles/mcm-comic-con-london/). |
+| **MCM Comic Con London** | ExCeL London | 28–30 May | Tickets released 26 October 2026 | Cosplay, comics, anime, gaming and guest signings; the Weekend ticket and both VIP tiers sold out at the October 2026 show. Full detail in [our MCM Comic Con guide](/articles/mcm-comic-con-london/). |
 
 ### Dates not announced yet
 
