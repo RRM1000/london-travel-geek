@@ -40,7 +40,7 @@ faq:
     a: "Only a cabin-size one that fits the X-ray machine, up to 615 x 410 mm. Large bags and suitcases are not allowed, and there are no lockers and nowhere to leave luggage."
 ---
 
-The Sky Garden is the public garden at the top of 20 Fenchurch Street, the curved tower known as the Walkie-Talkie. You enter on Level 35, 155 metres up, under a glass roof, with planted terraces climbing either side of a café floor and an open-air terrace looking down on the Thames. Entry is free. Getting a ticket is the hard part.
+The Sky Garden is the public garden at the top of 20 Fenchurch Street, the curved tower known as the Walkie-Talkie. You enter on Level 35, 155 metres up, under a glass roof, with planted terraces either side of a café floor and an open-air terrace over the Thames. Entry is free; getting a ticket is the hard part.
 
 > 💡 **The Short Version:**
 > - **Free tickets come out every Monday morning, three weeks ahead,** a whole week of slots at a time, on the [Sky Garden's ticket site](https://tickets.skygarden.london/WebStore/shop/viewitems.aspx?cg=SkyGarden&c=Tickets). There is no release on bank holidays.
@@ -62,7 +62,7 @@ The Sky Garden is the public garden at the top of 20 Fenchurch Street, the curve
 
 Free tickets are sold only on the [Sky Garden's own ticket site](https://tickets.skygarden.london/WebStore/shop/viewitems.aspx?cg=SkyGarden&c=Tickets).
 
-- **When they come out:** every Monday morning, bank holidays excepted, for the whole week three weeks ahead. Book on Monday 26 October and you are choosing from the week beginning 16 November.
+- **When they come out:** every Monday morning, bank holidays excepted, for the whole week three weeks ahead. Book on a Monday and you are choosing from the week that starts three weeks later.
 - **How long you get:** one hour inside from the moment you enter, ending at 18:00 on weekdays and 21:00 at weekends and on bank holidays however late your slot.
 - **Arriving late:** more than 15 minutes after the time on your ticket and you are unlikely to be let in. Tickets cannot be moved on the day; to change one, cancel it online and book another slot.
 - **You still queue.** A ticket is for capacity, not a fast track. Join the back of the queue from Fenchurch Street and Philpot Lane and keep to the right-hand side, which is for pre-booked tickets.
@@ -82,7 +82,7 @@ One of the visitor lifts is out of service, and the Sky Garden warns that some t
 - **Go early.** The door sells an early-morning ticket for **£11.50**, with a hot drink and access to the gardens. The same early visit can be booked ahead as [Sunrise at Sky Garden on SevenRooms](https://www.sevenrooms.com/experiences/skygardenbars/sunrise-at-sky-garden-6211553286340608): from 08:00 on weekdays and 09:00 at weekends, coffee and a pastry, with the terrace closed.
 - **Go late.** Evening entry is sold at the door from **£15.50**, with a welcome drink and the DJ or live band. Music nights start at 18:30, are 18 and over, and need physical ID. Pre-book [standing access on SevenRooms](https://www.sevenrooms.com/experiences/skygardenbars/music-night-standing-access-5476695103815680); the Sky Garden says music nights get very busy.
 
-GetYourGuide resells the early-morning visit and two Larch packages, breakfast or dinner with Sky Garden entry. Each costs money where the Monday release costs nothing, so they are for when your dates are fixed and the free week has gone.
+GetYourGuide resells the early-morning visit and two Larch packages, breakfast or dinner with Sky Garden entry. They cost money where the Monday release is free, so they suit fixed dates once the free week has gone.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="sky-garden-guide-paid-entry" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="1100481,1264354,1264422"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -100,12 +100,12 @@ GetYourGuide resells the early-morning visit and two Larch packages, breakfast o
 
 Under-16s cannot be in the Sky Garden after 18:00 on weekdays or 21:00 at weekends, even with a parent, except at a restaurant table. Security can close the terrace without warning in bad weather.
 
-**The first Monday of most months is a maintenance day.** The garden and bars on Levels 35 and 36 stay shut until 18:30, and only diners with a reservation are let in, at their booking time. The [closure dates page](https://skygarden.london/sky-garden-closure-dates/) lists the rest. Between now and Christmas:
+**The first Monday of most months is a maintenance day.** The garden and bars on Levels 35 and 36 stay shut until 18:30, and only diners with a reservation are let in, at their booking time. The [closure dates page](https://skygarden.london/sky-garden-closure-dates/) lists the rest. Until Christmas:
 
 - **16 November and 7 December:** maintenance days, closed until 18:30.
 - **24 November, 3 and 10 December:** closed from 16:00.
 - **25 November:** closed all day.
-- **24 December:** closes at 18:00. **25 December:** closed.
+- **24 December:** closes at 18:00. **25 December:** closed. **26 December:** the bars close at 21:00.
 
 City Garden bar and Darwin Brasserie also close for a few hours on scattered dates, listed on the same page.
 
@@ -117,15 +117,15 @@ City Garden bar and Darwin Brasserie also close for a few hours on scattered dat
 
 *The planted terraces inside the dome.*
 
-The building was designed by Rafael Viñoly in 2004, widening as it rises so the top floors are the largest. The planting, by the landscape architects Gillespies, runs up both sides of the main floor in stepped beds of drought-tolerant Mediterranean and South African species, among them African lily, red hot poker, bird of paradise and French lavender. Stairs climb the beds to the upper levels, and lifts link the floors for anyone who cannot use them.
+Stepped beds of Mediterranean and South African plants, among them African lily, red hot poker, bird of paradise and French lavender, run up both sides of the main floor. Stairs climb the beds to the upper levels, and lifts link the floors for anyone who cannot use them.
 
-The windows look three ways. North and east you get the City cluster close up: the Gherkin, the Cheesegrater and Tower 42 a few hundred metres away, then Canary Wharf on the horizon. To the south-east the river runs past the Tower of London, Tower Bridge and HMS Belfast.
+To the north and east are the Gherkin, the Cheesegrater and Tower 42 a few hundred metres away, then Canary Wharf on the horizon. To the south-east the river runs past the Tower of London, Tower Bridge and HMS Belfast.
 
 ![The Tower of London, Tower Bridge, HMS Belfast and City Hall's glass dome on the Thames, seen from high above](../../assets/articles/sky-garden-guide/tower-bridge-from-sky-garden.jpg)
 
 *Tower Bridge and the Tower of London from the Sky Garden. Photo: [amandabhslater](https://commons.wikimedia.org/wiki/File:Tower_Bridge_Sky_Garden.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**The terrace** is outside the glass, behind a glass balustrade, looking out over the river. It is the only open air at the Sky Garden and opens 10:00 to 18:00 on weekdays and 11:00 to 18:00 at weekends, so on a weekend evening you watch the sunset through the glass. The bars, the terrace and the garden are naturally ventilated, which means they are roughly as warm or cold as the street: dress for outdoors. Only the two restaurants are heated.
+**The terrace** is outside the glass, behind a glass balustrade, looking out over the river. It opens 10:00 to 18:00 on weekdays and 11:00 to 18:00 at weekends, so on a weekend evening you watch the sunset through the glass. The bars, the terrace and the garden are not heated, so dress for the weather outside. Only the two restaurants are heated.
 
 ![Visitors on the open-air terrace behind a glass balustrade, the Thames and the towers of Blackfriars below a cloudy sky](../../assets/articles/sky-garden-guide/sky-garden-terrace.jpg)
 
@@ -133,9 +133,9 @@ The windows look three ways. North and east you get the City cluster close up: t
 
 ### Sunset
 
-On a weekday the free tickets stop at 18:00, so they catch the sunset only from about the third week of October to mid-March, when the sun goes down before then. In December it sets just before 16:00. Book a slot starting about 45 minutes before sunset and you get daylight, sunset and the lights coming on within your hour.
+On a weekday the free tickets stop at 18:00, so they catch the sunset only from about the third week of October to mid-March. In December it sets just before 16:00. Book a slot starting about 45 minutes before sunset to get daylight, sunset and the lights coming on within your hour.
 
-At weekends the garden is open to 21:00, which covers sunset all year except roughly late May to late July, when the sun sets later. From mid-March to the third week of October, then, a free sunset means a weekend ticket. On a summer weekday it takes a restaurant or bar booking, or evening entry at the door.
+At weekends the garden is open to 21:00, which covers sunset all year except roughly late May to late July. From mid-March to the third week of October, a free sunset means a weekend ticket. On a summer weekday it takes a restaurant or bar booking, or evening entry at the door.
 
 ![Low winter sun shining through the curved glass wall of the Sky Garden, with visitors in silhouette at the tables](../../assets/articles/sky-garden-guide/sky-garden-golden-hour.jpg)
 
@@ -161,7 +161,7 @@ An all-day British brasserie overlooking the Thames: breakfast, brunch, lunch an
 
 ### Fenchurch Restaurant
 
-Fine dining under Chef de Cuisine Kerth Gumbs, who puts British ingredients together with the Caribbean cooking of his Anguillan heritage, in a five-course tasting menu, an à la carte and a chef's set menu. The **Bar Experience** seats you at the counter for small plates such as whiskey barbecue wings and cured jerk salmon ceviche. Lunch is 12:00 to 14:30 and dinner 17:00 to 21:00, with all-day service from 12:00 to 21:00 on Saturdays. The dress code is stricter than Darwin's: no sportswear, hoodies or gym trainers. [Book Fenchurch on SevenRooms](https://www.sevenrooms.com/reservations/fenchurch).
+Fine dining from Chef de Cuisine Kerth Gumbs, who mixes British ingredients with the Caribbean cooking of his Anguillan heritage: a five-course tasting menu, an à la carte and a chef's set menu. The **Bar Experience** seats you at the counter for small plates such as whiskey barbecue wings and cured jerk salmon ceviche. Lunch is 12:00 to 14:30 and dinner 17:00 to 21:00, with all-day service from 12:00 to 21:00 on Saturdays. The dress code is stricter than Darwin's: no sportswear, hoodies or gym trainers. [Book Fenchurch on SevenRooms](https://www.sevenrooms.com/reservations/fenchurch).
 
 ### Sky Pod Bar and City Garden Bar
 
@@ -201,19 +201,11 @@ The Sky Garden has its own entrance on **Philpot Lane**, at the south-west corne
 
 The visitor route is step-free throughout. Lifts run from street level on Philpot Lane and Rood Lane to the entrance level, and more lifts inside link the garden's floors. Assistance dogs are welcome and should stay on a lead; no other animals are allowed. Email skygarden@20fenchurchstreet.co.uk ahead of a visit to arrange support. Our [step-free London guide](/articles/step-free-london/) compares the other viewpoints.
 
-### Common mistakes to avoid
-
-- **Waiting until you are in London to book.** By then the Monday release for your week has been and gone.
-- **Arriving at the end of your slot.** Fifteen minutes late and you are unlikely to get in.
-- **Planning a summer weekday sunset on a free ticket.** Weekday tickets stop at 18:00; from mid-March to the third week of October that is before sunset.
-- **Bringing a suitcase.** There is nowhere to leave it.
-- **Bringing a party of more than ten** on separate bookings. You will be turned away.
-
 ---
 
 ## Sky Garden or somewhere else?
 
-Four other high viewpoints are within a short walk or a Tube stop. The Sky Garden is the only one with a planted garden under glass and an open-air terrace together. Our [best views in London guide](/articles/best-views-london/) covers all of them and the rest of the city.
+Four other high viewpoints are within a short walk or a Tube stop. Our [best views in London guide](/articles/best-views-london/) covers all of them and the rest of the city.
 
 | Viewpoint | Cost and booking | How it compares |
 | --- | --- | --- |
@@ -222,13 +214,13 @@ Four other high viewpoints are within a short walk or a Tube stop. The Sky Garde
 | **[The View from The Shard](https://www.theviewfromtheshard.com/)** | Paid, prices vary by date | Floors 68 to 72 across the river, with an open-air skydeck at the top. Children are from £10 and under-fours go free with an adult. |
 | **[Tate Modern, Level 10](https://www.tate.org.uk/visit/tate-modern)** | Free, no booking | The top floor of the Blavatnik Building on Bankside, looking across the river to St Paul's and the City. Tate Modern is open to 21:00 on Fridays and Saturdays. |
 
-**If you could not get a Sky Garden ticket**, walk along Fenchurch Street to The Garden at 120: no booking, open air, and the City's towers all round you. **If you want height**, book Horizon 22. **If you want to stand in the open air high over the river**, the Shard's skydeck is the one that charges for it.
+**If you could not get a Sky Garden ticket**, walk along Fenchurch Street to The Garden at 120: no booking, open air, and the City's towers all round you. **If you want height**, book Horizon 22. **If you want open air high over the river**, the Shard's skydeck charges for it.
 
 ---
 
 ## Nearby
 
-The Sky Garden sits in the east of the City, so the rest of the Square Mile's sights are close. **St Dunstan-in-the-East**, a bombed church turned into a garden inside its own walls, is about five minutes south down St Dunstan's Hill. **Leadenhall Market** and **the Monument** are each about five minutes away, and the **Tower of London** about ten. The [City of London walk](/articles/city-of-london-walk/) passes all of them.
+**St Dunstan-in-the-East**, a bombed church turned into a garden inside its own walls, is about five minutes south down St Dunstan's Hill. **Leadenhall Market** and **the Monument** are each about five minutes away, and the **Tower of London** about ten. The [City of London walk](/articles/city-of-london-walk/) passes all of them.
 
 ---
 
@@ -243,7 +235,3 @@ The Sky Garden sits in the east of the City, so the rest of the Square Mile's si
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** and **[Free Things to Do in London](/free/)** — the free viewpoints, museums and walks.
 - 🛏️ **[Where to Stay in the City of London](/articles/where-to-stay-city-of-london/)** — hotels within a short walk of Fenchurch Street.
 - ♿ **[Step-Free London](/articles/step-free-london/)** — lifts and level access at the Sky Garden and the other big sights.
-
----
-
-*Ticket rules, opening hours, closure dates and restaurant details are the Sky Garden's own, checked 8 October 2026.*
