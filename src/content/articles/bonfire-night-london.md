@@ -214,7 +214,7 @@ Some of the best-known viewpoints are **locked before the fireworks start**. Dis
 
 **Alexandra Park** is open around the clock while the display happens inside it. Some of the park is fenced off for the ticketed arena, so you will not get the paying guests' view, but the fireworks go up over the whole hill.
 
-**Primrose Hill** closes at **10pm**, well after any display. It is separately gated from The Regent's Park, so approach from the Chalk Farm side — the main park shuts at 16:30. The 10pm closure applies on Friday, Saturday and Sunday nights until 8 November; on the Thursday, Bonfire Night itself, it is open all night.
+**Primrose Hill** is locked from **10pm to 6am every night from 30 October to 9 November 2026**, well after any display, and the Royal Parks ban fireworks and lanterns there. It is separately gated from The Regent's Park, so approach from the Chalk Farm side — the main park shuts at 16:30. The 10pm closure applies on Friday, Saturday and Sunday nights until 8 November; on the Thursday, Bonfire Night itself, it is open all night.
 
 **Greenwich Park** shuts its gates at **6pm** in November, so the General Wolfe viewpoint is out.
 

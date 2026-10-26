@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_MMB_%C2%BB062_R
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-26
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -333,7 +333,7 @@ The photograph everyone takes, with protected vistas to both St Paul's and Westm
 
 Two notes. The official framework itself now admits **the Euston towers partly obscure the City cluster**, with St Paul's framed between two of them — the view is not what it was, and the writing on the stone predates the buildings.
 
-> ⚠️ **The detail nearly every guide misses, and we have now confirmed it is still live for 2026.** Primrose Hill closes **10pm to 6am on Friday, Saturday and Sunday nights, from Friday 3 April to Sunday 8 November 2026**. Those are the Royal Parks' own dates. Weekday nights are unaffected — the hill stays open 24 hours Monday to Thursday — which is exactly the trap: people go up on a Friday evening in July expecting the same and find the gates shut.
+> ⚠️ **The detail nearly every guide misses, and we have now confirmed it is still live for 2026.** Primrose Hill closes **10pm to 6am on Friday, Saturday and Sunday nights, from Friday 3 April to Sunday 8 November 2026, and every night from 30 October to 9 November 2026**. Those are the Royal Parks' own dates. Weekday nights are unaffected — the hill stays open 24 hours Monday to Thursday — which is exactly the trap: people go up on a Friday evening in July expecting the same and find the gates shut.
 
 Royal Parks publishes no height, no postcode and no nearest station for the hill on any of its pages, so treat the 64-metre figure that circulates as unofficial.
 
@@ -570,7 +570,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 * **The highest view is free.** Horizon 22 beats The Shard's gallery by around ten metres and costs nothing. Anything that still calls The Shard the highest public viewpoint in western Europe is out of date.
 * **Three free viewpoints need tickets** — Horizon 22, Sky Garden and The Lookout. Only The Garden at 120, One New Change, Tate Modern, Bar Cicoria and the OXO gallery are true walk-ins. Horizon 22 also takes same-day walk-ins by QR code at the door, subject to space.
 * **Check the day, not just the hour.** Severndroog Castle's viewing platform opens **Sundays only**. Westminster Cathedral's tower is Wednesday to Sunday. 12th Knot is shut Sundays and Mondays. The Garden at 120 shuts on bank holidays, and The Lookout closes on scattered individual dates that are not weekends.
-* **Primrose Hill closes at 10pm at weekends**, 3 April to 8 November 2026, on Friday, Saturday and Sunday nights only. Confirmed still in force. Alexandra Palace terrace, a comparable north London panorama, has no closing time at all.
+* **Primrose Hill closes at 10pm at weekends**, 3 April to 8 November 2026, and every night from 30 October to 9 November 2026. Confirmed still in force. Alexandra Palace terrace, a comparable north London panorama, has no closing time at all.
 * **You can usually avoid paying.** Greenwich's famous view is outside the paid Observatory. St Paul's is free to look at from One New Change. Aqua Shard is cheaper than a Shard ticket. The best Tower Bridge view is the free pavement.
 * **Seasons close things you would not expect.** Frank's Cafe runs 15 May to 12 September and then shuts for the year. Bōkan withdraws terrace service entirely for the winter. The Chimney Lift is back open after a maintenance closure that ran to 7 September 2026.
 * **The best light** is the hour before sunset — and most free City viewpoints close before it in winter. The Lookout on a Monday or Friday, or Tate Modern on a Friday or Saturday, are the exceptions.
