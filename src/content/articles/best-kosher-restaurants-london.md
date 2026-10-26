@@ -33,7 +33,7 @@ faq:
     a: "Overwhelmingly in the north-west. Of the London Beth Din's London listings, ten are in Hendon and eight in Golders Green, with more in Temple Fortune and Edgware. Central London has very little — Tony Page on Paddington Street in Marylebone is the main certified restaurant inside the West End, with Reubens nearby under a different authority."
 ---
 
-Nothing here is ranked: the people who certify these kitchens already publish the full list, for free. The catch is that **there are four authorities, each publishes only its own licensees, and checking one register gives you a partial answer with no warning that it is partial.** This guide reads the registers together.
+Nothing here is ranked: the people who certify these kitchens already publish the full list, for free. **There are four authorities, each publishes only its own licensees, and checking one register gives you a partial answer with no warning that it is partial.** This guide reads the registers together.
 
 > 💡 **The Short Version:** Four certifying bodies, four separate lists. **The London Beth Din (KLBD) has the biggest** — 35 restaurants and takeaways. **KF Kosher licenses a different set**, including Reubens, which is not on the KLBD list at all. Kitchens are **meat or dairy, never both**, so Bagels Bar and Bagels Bar Grill House sit next door to each other on Brent Street. And almost everything **closes for Shabbat**.
 
