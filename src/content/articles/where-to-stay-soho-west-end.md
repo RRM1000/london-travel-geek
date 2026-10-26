@@ -40,7 +40,7 @@ The windowless part is the surprise, and it is why the West End is cheaper than 
 
 **Soho proper** — Wardour, Dean, Frith, Greek and Old Compton Streets — is the loud core. It is pedestrian-dense rather than traffic-dense, which sounds better and is not: the noise is people, at pavement level, in streets narrow enough to hold the sound. The four expensive hotels are all here and all of them handle it with thick glazing and inward-facing rooms.
 
-**Piccadilly Circus and the Regent Street edge** is where the big buildings are, and therefore where the cheap rooms are. The London Pavilion alone holds close to a thousand Zedwell rooms and 965 capsules. You are on top of the Tube and thirty seconds from Soho without sleeping in it.
+**Piccadilly Circus and the Regent Street edge** is where the big buildings are, and therefore where the cheap rooms are. The London Pavilion alone holds close to a thousand Zedwell rooms and over 1,000 capsules. You are on top of the Tube and thirty seconds from Soho without sleeping in it.
 
 **Covent Garden and the Strand** is tourist-heavy by day and considerably calmer than Soho by night, because the crowds are theatre crowds and they go home. This is where the mid-priced rooms are, and where you should look if you have children.
 
