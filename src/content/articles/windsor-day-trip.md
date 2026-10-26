@@ -3,7 +3,8 @@ title: "Windsor from London: The Castle, the Trains and the Rest of the Day"
 seoTitle: "Windsor Day Trip from London: Trains and Tickets"
 description: "Windsor Castle is £32 in advance and shut every Tuesday and Wednesday. Contactless works to both Windsor stations — £7.90 off-peak from Paddington — and St George's Chapel is closed to visitors on Sundays."
 publishedAt: 2026-07-12
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2026-11-21
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -21,7 +22,7 @@ faq:
   - q: "How much is Windsor Castle?"
     a: "£32.00 for an adult booked in advance and £36.00 on the day, £16.00 for a child aged 5 to 17 in advance and £18.00 on the day, and £21.00 for a young person aged 18 to 24. There is no family ticket — children simply go half price — so two adults and two children come to £96.00 in advance. Under-5s are free but still need a ticket."
   - q: "Is Windsor Castle open every day?"
-    a: "No. It is closed every Tuesday and Wednesday, and open Thursday to Monday. It opens at 10:00 all year; last admission is 16:00 with a 17:15 close from March to October, and 15:00 with a 16:15 close from November to February. It is also closed on 19 October and from 24 to 26 December 2026."
+    a: "No. It is closed every Tuesday and Wednesday, and open Thursday to Monday. It opens at 10:00 all year; last admission is 16:00 with a 17:15 close from March to October, and 15:00 with a 16:15 close from November to February. It is also closed from 24 to 26 December 2026."
   - q: "Is St George's Chapel open on Sundays?"
     a: "Not to visitors. On Sundays the Chapel is open only for worship, and worshippers are welcome at the services. On every other open day it takes its last entry at 16:00 and closes at 16:15 to prepare for the 17:15 evening service, which visitors may attend."
   - q: "When is Changing of the Guard at Windsor Castle?"
@@ -30,15 +31,15 @@ faq:
     a: "No. Windsor Castle is not in the Days Out Guide scheme at all, and neither is any other Royal Collection Trust site. LEGOLAND Windsor Resort is in it, at one third off rather than two-for-one."
 ---
 
-**Windsor Castle costs £32.00 in advance, and it is shut every Tuesday and Wednesday.** Get that one fact wrong and the whole day out collapses, because there is no second great thing in Windsor to fall back on.
+**Windsor Castle costs £32.00 in advance, and it is shut every Tuesday and Wednesday.**
 
-It is, otherwise, the easiest big day trip out of London: half an hour from Paddington, payable on contactless, and the station exit is a two-minute walk from the ticket desk.
+It is half an hour from Paddington, payable on contactless, and the station exit is a two-minute walk from the ticket desk.
 
 > 💡 **The Short Version:** **£32.00 adult in advance, £16.00 child, £96.00 for two and two.** **Closed Tuesdays and Wednesdays.** **Paddington via Slough, 28–38 minutes, £7.90 off-peak**, or **Waterloo direct, 53 minutes, £8.90**. **Contactless works, Oyster does not.** **St George's Chapel is shut to visitors on Sundays.** **Changing of the Guard is Thursday and Saturday at 11:00.** Allow **1½ to 2 hours** inside. **2FOR1 does not cover the Castle.** Sign your ticket on the way out and it becomes a **free pass for a year**. **Or book a coach tour** — the <a href="https://www.getyourguide.com/activity/-t18994?partner_id=WWP7I0R&amp;cmp=windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£69 afternoon sightseeing tour</a> includes Castle entry and the coach both ways.
 
 > ⚠️ **Great Western trains do not run between Paddington and Slough from Sunday 27 to Wednesday 30 December 2026, and the Elizabeth line does not run between Paddington and Reading.** From Thursday 31 December to Sunday 3 January the Elizabeth line stops at Hayes & Harlington, with replacement buses on to Slough, and on Saturday 28 and Sunday 29 November the lines to and from Paddington are shut. Waterloo to Windsor & Eton Riverside is the other route, and South Western Railway has its own engineering work over the same dates ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
-**The coach tour most people end up booking does not get you inside the Castle.** Windsor, Stonehenge and Bath in a single day, from £71, is among the most-booked day trips out of London, and its inclusions list reads "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" — so the tickets are yours to buy on top, and on a Tuesday or Wednesday there is nothing to go into at the Windsor end. [Which tours include what](#day-tours-that-include-windsor-compared), read off fourteen product pages, follows the getting there details below. [Stonehenge from London](/articles/stonehenge-day-trip/) and [Bath from London](/articles/bath-day-trip/) price the other two stops.
+**The Windsor, Stonehenge and Bath coach tour, from £71, does not get you inside the Castle.** Its inclusions list reads "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" — so the tickets are yours to buy on top, and on a Tuesday or Wednesday there is nothing to go into at the Windsor end. [Which tours include what](#day-tours-that-include-windsor-compared) is below. [Stonehenge from London](/articles/stonehenge-day-trip/) and [Bath from London](/articles/bath-day-trip/) price the other two stops.
 
 ## Getting there
 
@@ -56,7 +57,7 @@ Peak means **Monday to Friday, 06:30–09:30 and 16:00–19:00**. Trains run rou
 
 **Paddington wins on speed and price; Waterloo wins on not having to change.** If you are wrangling a pushchair, or you are already south of the river, the direct train is worth the extra pound.
 
-> ⚠️ **Contactless works to Windsor. Oyster does not.** Both Windsor stations are in the pay-as-you-go area, but TfL classes them as contactless-only — a bank card or phone is fine, an Oyster card is not. There is a second trap in the timing: touch in at Windsor between **09:15** (Central) or **09:10** (Riverside) and 09:30 on a weekday and you are charged a peak fare, though it still counts towards the off-peak cap.
+> ⚠️ **Contactless works to Windsor. Oyster does not.** Both Windsor stations are in the pay-as-you-go area, but TfL classes them as contactless-only — a bank card or phone is fine, an Oyster card is not. Touch in at Windsor between **09:15** (Central) or **09:10** (Riverside) and 09:30 on a weekday and you are charged a peak fare, though it still counts towards the off-peak cap.
 
 ### Coach
 
@@ -72,9 +73,9 @@ Reading Buses' **Green Line 702** runs hourly between central London and LEGOLAN
 | Alexandra Gardens, Alma Road — the only one allowing overnight | £19.00 |
 | **Home Park Public and King Edward VII** (Crown Estate) | **£13.00** |
 
-Home Park and King Edward VII are the cheapest full day and they sit beside the Long Walk, which is where you want to be anyway. They can close at weekends and during events, so check before you set off.
+Home Park and King Edward VII are the cheapest full day and they sit beside the Long Walk. They can close at weekends and during events, so check before you set off.
 
-**None of which is an argument for hiring a car.** Twenty-three miles is a short drive and £13 is cheap parking, but a £7.90 train drops you two minutes from the ticket desk, and Windsor is on the short list of places our guide to [hiring a car and driving in the UK](/articles/car-hire-driving-uk/) tells you not to bother. If you already have the car — because the Cotswolds or Stonehenge are in the same trip — Home Park is the place to put it.
+**Take the train unless the car is already on the trip.** A £7.90 train drops you two minutes from the ticket desk, and Windsor is on the short list of places our guide to [hiring a car and driving in the UK](/articles/car-hire-driving-uk/) tells you not to bother. If you have the car because the Cotswolds or Stonehenge are in the same trip, Home Park is the place to put it.
 
 ## Day tours that include Windsor, compared
 
@@ -138,7 +139,7 @@ And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partne
 | Access companion | Free | Free |
 | Under 5 | Free, ticket still needed | Free |
 
-**There is no family ticket.** Children go half price and that is the whole of the discount, so two adults and two children is £96.00 in advance. On-the-day tickets exist but are subject to availability, and cost £4 more per adult — unlike the [Harry Potter Studio Tour](/articles/harry-potter-studio-tour/), you will not be turned away for arriving without one.
+**There is no family ticket.** Children go half price, so two adults and two children is £96.00 in advance. On-the-day tickets cost £4 more per adult and are subject to availability.
 
 **£1 tickets** are available to people on Universal Credit and other named UK benefits. **Royal Borough of Windsor and Maidenhead Advantage Card** holders get 50% off with one child free per cardholder.
 
@@ -153,11 +154,11 @@ And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partne
 
 The State Apartments stop admitting 30 minutes after the last admission time. Tickets carry a **timed entry slot**.
 
-**Closures already on the calendar for 2026:** the Castle is shut on **Monday 19 October** and from **Thursday 24 to Saturday 26 December**. St George's Hall and the Semi-State Rooms are closed on **17 and 18 October**. The **Semi-State Rooms** — George IV's private rooms, the most heavily decorated interiors in the building — are closed until **1 October 2026** and then open through the winter, which is a genuine argument for a cold-weather visit. On days when parts of the Castle are shut, a reduced admission price applies.
+**The Castle is shut from Thursday 24 to Saturday 26 December 2026.** The **Semi-State Rooms**, George IV's private rooms, are open until **22 March 2027**, except on 20 November, 4, 10 and 14 December 2026 and 5 and 19 February 2027. St George's Chapel closes at 12:00 on Monday 7 December. On days when parts of the Castle are shut, a reduced admission price applies.
 
 ### What you actually see
 
-**The State Apartments** are the ceremonial rooms still used for state visits and investitures, hung with Holbein, Van Dyck and Rubens, plus the historic rooms built for Charles II and George IV's Waterloo Chamber. **Queen Mary's Dolls' House** is on permanent display. **St George's Chapel** holds the tombs of eleven monarchs — Queen Elizabeth II, George VI, Henry VIII and Charles I among them — and is where the recent royal weddings happened.
+**The State Apartments** are the ceremonial rooms still used for state visits and investitures, hung with Holbein, Van Dyck and Rubens, plus the historic rooms built for Charles II and George IV's Waterloo Chamber. **Queen Mary's Dolls' House** is on permanent display. **St George's Chapel** holds the tombs of eleven monarchs — Queen Elizabeth II, George VI, Henry VIII and Charles I among them.
 
 > ⚠️ **The Chapel is closed to visitors on Sundays**, open only for worship. If you are going for the Chapel, do not go on a Sunday. On other days it takes its last entry at 16:00 and closes at 16:15 for the 17:15 evening service, which you are welcome to attend.
 
@@ -175,11 +176,11 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 ### Allow less time than you think, and get a year out of it
 
-**Royal Collection Trust suggests 1½ to 2 hours.** That is about right. The route is one-way, the Castle sits at the top of a steep hill, and the distances inside are long.
+**Royal Collection Trust suggests 1½ to 2 hours.** The route is one-way, the Castle sits at the top of a steep hill, and the distances inside are long.
 
 > 💡 **Sign your ticket before you leave and it becomes a 1-Year Pass.** Print and sign your name in the spaces provided, and your purchase is treated as a donation giving 12 months of free re-admission from the date of your first visit. To come back, either phone **+44 (0)303 123 7334** to lock in a time slot for a £2.00 fee, or turn up with the signed ticket and photo ID and take the next available slot. It does not work on £1 tickets, complimentary tickets, or anything bought through a tour operator or ticket agent.
 
-**Two more things the website buries.** There is **airport-style security screening** on arrival. And **large backpacks and pushchairs are not allowed in the State Apartments** — the cloakroom is at the China Museum, a ten-minute, mostly uphill walk from the Admission Centre.
+There is **airport-style security screening** on arrival, and **large backpacks and pushchairs are not allowed in the State Apartments** — the cloakroom is at the China Museum, a ten-minute, mostly uphill walk from the Admission Centre.
 
 ![A State Apartment at Windsor Castle: crimson walls, gilded ceiling, chandeliers and portraits above a marble fireplace](../../assets/articles/windsor-day-trip/state-apartments.jpg)
 
@@ -189,9 +190,9 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 ## What 2FOR1 does and does not cover
 
-**Windsor Castle is not in the National Rail 2FOR1 scheme.** Neither is any other Royal Collection Trust site. The Castle is full price however you arrive.
+**Windsor Castle is not in the National Rail 2FOR1 scheme.** Neither is any other Royal Collection Trust site.
 
-**LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets, for up to six people, during LEGOLAND's main season only. Two Golden Tours bus tours of Windsor are listed too. Every offer needs a valid National Rail ticket and a booking through the Days Out Guide, and contactless does not qualify, so the cheapest way to reach Windsor is the one that disqualifies you. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
+**LEGOLAND Windsor Resort is in it, at one third off** rather than two-for-one — the same treatment every Merlin attraction gets, for up to six people, during LEGOLAND's main season only. Two Golden Tours bus tours of Windsor are listed too. Every offer needs a valid National Rail ticket and a booking through the Days Out Guide, and contactless does not qualify. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
 
 ## What fills the rest of the day
 
@@ -201,11 +202,11 @@ Weather permitting, and the schedule changes, so check the British Army listing 
 
 ### The Long Walk
 
-**Free, and the best thing in Windsor after the Castle.** Charles II laid it out between 1682 and 1685: almost **2.5 miles** of tree-lined avenue running dead straight from the Castle up to the **Copper Horse**, the 1831 statue of George III at the top of the rise. The view back down to the Castle is the one on the postcards. There and back is about five miles.
+**Free.** Almost **2.5 miles** of tree-lined avenue run dead straight from the Castle up to the **Copper Horse**, the 1831 statue of George III at the top of the rise. There and back is about five miles.
 
 It crosses the **Deer Park**, home to roughly **500 red deer**. Rutting season runs from September to early November, the stags get aggressive, and the Deer Park is occasionally closed for it — check before you walk. **No bikes, scooters, skateboards or rollerblades** on the Long Walk or in the Deer Park, not even pushed.
 
-Windsor Great Park beyond it is free and open all year; the charges are for parking, Adventure Play and the Savill Garden. **The Savill Garden** is 35 acres of gardens and woodland, **£14.95 adult and £6.50 child booked ahead**, £18.95 and £8.50 on the day, open 09:00–18:00 with last entry at 17:00. It is across the park at TW20 0UJ, though, and realistically needs a car.
+Windsor Great Park beyond it is free and open all year; the charges are for parking, Adventure Play and the Savill Garden. **The Savill Garden** is 35 acres of gardens and woodland, **£14.95 adult and £6.50 child booked ahead**, £18.95 and £8.50 on the day; opening times vary through the year. It is across the park at TW20 0UJ and realistically needs a car.
 
 ### The river
 
@@ -217,19 +218,19 @@ The **two-hour cruise** goes the other way, through Romney Lock and the private 
 
 Five minutes over Windsor Bridge. **Eton College's museums and exhibition gallery are free and open on Sunday afternoons, 13:30 to 16:00** — the Museum of Eton Life in Brewhouse Yard off the High Street, the Natural History Museum and the Museum of Antiquities on South Meadow Lane. **There are no Heritage Tours in 2026** while essential building works run.
 
-Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the one day Eton's museums are open.**
+**Sunday, when St George's Chapel is shut to visitors, is the day Eton's museums are open.**
 
 ### LEGOLAND
 
 **This is a separate day out, not an afternoon after the Castle.** It is two miles from Windsor town centre at SL4 4AY, with over 55 rides and attractions, open from 10:00 and closing between 16:30 and 18:00 depending on the day. It shuts on most weekdays from November to February. Our [LEGOLAND Windsor guide](/articles/legoland-windsor-day-trip/) has the ticket prices by date, every height limit, Fastrack and the closed days, and [theme parks near London](/articles/theme-parks-near-london/) sets it against Thorpe Park, Chessington and Paultons.
 
-**Day tickets start at £32 booked online at least a day ahead, and cost £68 on the day.** Parking is **£13 booked ahead, £15 on the day**, with Priority Parking at £18 per car. Green Line **702 and 703 between them give a half-hourly service** from central Windsor and Slough to the gate for that £3 single. There is also a shuttle bus from stops near both rail stations, but LEGOLAND is careful to say it is **chargeable and not operated by the park** — the 702 is the option with a published price.
+**Day tickets start at £32 booked online at least a day ahead, and cost £68 on the day.** Parking is **£13 booked ahead, £15 on the day**, with Priority Parking at £18 per car. Green Line **702 and 703 between them give a half-hourly service** from central Windsor and Slough to the gate for that £3 single. A shuttle bus also runs from stops near both rail stations; it is **chargeable and not operated by the park**.
 
 ### Where to eat
 
-- **Undercroft Café**, inside the Castle, in one of the oldest surviving spaces in the building. Nothing else is edible on site and you cannot eat in the State Apartments or the Chapel.
-- **The Two Brewers**, Park Street — Grade II listed, in a 1709 building, pouring since 1792, right by the Castle end of the Long Walk. Children on the outdoor benches only; indoors is 18+. Bookings by phone, 01753 855426.
-- **The Boatman**, 10 Thames Side — Windsor's only pub on the river, below the Castle by Eton Bridge, with a terrace over the water.
+- **Undercroft Café**, inside the Castle. Nothing else is edible on site and you cannot eat in the State Apartments or the Chapel.
+- **The Two Brewers**, Park Street — right by the Castle end of the Long Walk. Children on the outdoor benches only; indoors is 18+. Bookings by phone, 01753 855426.
+- **The Boatman**, 10 Thames Side — below the Castle by Eton Bridge, with a terrace over the water.
 - **Windsor Royal**, built into the Victorian station beside Windsor & Eton Central, for the straight-off-the-train option.
 - **Eton High Street**, for cafés and restaurants without the coach parties.
 
@@ -246,7 +247,7 @@ Which sets up a neat trade: **Sunday is the one day the Chapel is shut and the o
 | **Windsor & Eton Central → Paddington** | **23:56** (arr 00:28) | 23:20 | 23:05 |
 | **Windsor & Eton Riverside → Waterloo** | 22:53 direct, 23:37 via Staines | 23:21 (arr 00:22) | 22:59, routed via Hounslow |
 
-> ⚠️ **Sunday engineering work closes the Slough–Windsor branch outright some weeks.** Checking two consecutive Sundays in September 2026 gave no evening service at all on one and a normal service on the other. If you are counting on a late Sunday train home, check that specific date.
+> ⚠️ **Sunday engineering work closes the Slough–Windsor branch outright some weeks.** If you are counting on a late Sunday train home, check that specific date.
 
 **A Castle-only trip is a comfortable half day.** Leave London at 09:30, be inside by 10:30, out by 12:30. **Castle plus the Long Walk, or Castle plus a river trip and Eton, is a full day** and you will still be home for dinner. Anything involving LEGOLAND is a day of its own.
 
