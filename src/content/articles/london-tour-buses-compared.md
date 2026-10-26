@@ -1,7 +1,7 @@
 ---
 title: "London Tour Buses Compared: Routes, Stops and Prices"
 seoTitle: "London Hop-On Hop-Off Buses 2026: Online Saves 13–41%"
-description: "Every Big Bus, Golden Tours and Tootbus route and stop, with what each really costs — Golden Tours from £24.78 online against £42 at the kerb — and the ordinary red bus that covers much of the same ground for £1.75."
+description: "Every Big Bus stop and the Golden Tours, Tootbus and City Sightseeing routes, with what each really costs — Golden Tours from £24.78 online against £42 at the kerb — and the ordinary red bus that covers much of the same ground for £1.75."
 publishedAt: 2026-06-28
 updatedAt: 2026-10-26
 reviewBy: 2026-12-31
@@ -14,13 +14,13 @@ faq:
   - q: "Are London hop-on hop-off bus tours worth it?"
     a: "For some people, yes. They earn their money if you have limited mobility, a very short trip, tired children, or you want commentary and orientation on a first day. If you are reasonably mobile and have a few days, an ordinary London bus covers much of the same ground for £1.75, capped at £5.25 a day."
   - q: "How much is a hop-on hop-off bus in London?"
-    a: "Big Bus starts at £32 for an adult one-day ticket booked online against £39 full price. Tootbus is £35.20 against £44. Golden Tours discounts hardest, from £24.78 against £42 walk-up. Book online: the gap to the kerbside price is the biggest saving available."
+    a: "Big Bus starts at £32 for an adult one-day ticket booked online against £39 full price. Tootbus is £35.20 against £44. Golden Tours discounts hardest, from £24.78 against £42 walk-up. Book online rather than at the kerb."
   - q: "How many stops do London tour buses have?"
     a: "Big Bus has around 55 stops across three routes — a central and eastern Red Route, a western Blue Route, and a Green Link serving Bloomsbury, Euston, King's Cross and St Pancras. Golden Tours has over 60 stops across three routes, City Sightseeing 45 across three, and Tootbus runs four routes with six walking tours included."
   - q: "Which normal London bus is best for sightseeing?"
     a: "Route 11 is the classic: Liverpool Street, St Paul's, Fleet Street, the Strand, Trafalgar Square, Whitehall, Westminster and on to Victoria. Route 24 runs Hampstead Heath through Camden to Trafalgar Square and Westminster. Both cost £1.75 and take contactless."
   - q: "Do London buses still use the old Routemaster?"
-    a: "Not on a scheduled route. Transport for London's own route 15 page lists no heritage service, so the old open-platform Routemaster you could hop onto is gone. Golden Tours, TransporaBus and The Classic Tour run vintage Routemasters as paid tours with a live guide instead, from £19.50."
+    a: "Not on a scheduled route: the heritage service on route 15 has gone, so the old open-platform Routemaster you could hop onto is no longer running. Golden Tours, TransporaBus and The Classic Tour run vintage Routemasters as paid tours with a live guide instead, from £19.50."
   - q: "How much does a London bus cost?"
     a: "£1.75 a journey with contactless or Oyster, capped at £5.25 a day. The Hopper fare means further bus journeys within an hour of touching in are free, so a morning of hopping between sights can cost a single £1.75."
 heroImage: "../../assets/articles/london-tour-buses-compared/london-tour-buses-compared.jpg"
@@ -31,15 +31,15 @@ heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 ---
 
-Almost everything written about London tour buses is written by someone earning a commission on the ticket. So here is what those pages leave out: **London's ordinary red buses cover much of the same route for £1.75, capped at £5.25 a day**, and the top deck of a normal double-decker has the same view as the top deck of a tour bus.
+**London's ordinary red buses cover much of the same route for £1.75, capped at £5.25 a day**, and the top deck of a normal double-decker has the same view as the top deck of a tour bus.
 
-That does not make tour buses a rip-off. It makes them a specific product for a specific person. This page lists **every route and every stop** so you can see exactly what you would be buying, then makes the case both ways.
+This page lists **every Big Bus stop** and the routes of the other operators, then makes the case for and against a tour bus.
 
-> 💡 **The Short Version:** **Never buy at the kerb — booking online saves 13–41%.** **Golden Tours** is cheapest at **£24.78** and **Big Bus** from **£32** has the densest network. **Tootbus** at **£35.20** includes six walking tours. The free alternative is **route 11** or **route 24** for **£1.75**.
+> 💡 **The Short Version:** **Never buy at the kerb — booking online saves 13–41%.** **Golden Tours** is cheapest at **£24.78**, and **Big Bus** from **£32** adds a western route to South Kensington and Notting Hill. **Tootbus** at **£35.20** includes six walking tours. The free alternative is **route 11** or **route 24** for **£1.75**.
 
 ## What they cost
 
-Prices as published by the operators in August 2026; City Sightseeing, the Big Bus London Eye ticket and the two vintage tours are GetYourGuide prices from September 2026. The gap between the online and full price is the whole game.
+Prices as published by the operators in August 2026; City Sightseeing, the Big Bus London Eye ticket and the two vintage tours are GetYourGuide prices from September 2026.
 
 ![A red open-top City Sightseeing tour bus in London, its upper deck open to the sky](../../assets/articles/london-tour-buses-compared/sightseeing-bus.jpg)
 
@@ -60,15 +60,13 @@ Prices as published by the operators in August 2026; City Sightseeing, the Big B
 | **The Classic Tour** — Routemaster, day or night | **£25.00** | — | Live guide, 75 minutes, a top-deck seat for everyone, not hop-on hop-off |
 | **TransporaBus** — Routemaster | **£30.00** | — | Live guide, 90 minutes, not hop-on hop-off |
 
-**Tootbus family and child pricing:** child (5–15) **£19.20** against £24.00, and a family ticket (2 adults + 2 children) at **£112.00**. Tootbus tickets run for 1, 2 or 3 days.
+**Tootbus family and child pricing:** child (5–15) **£19.20** against £24.00, and a family ticket (2 adults + 2 children) at **£112.00**.
 
-> ⚠️ **Never buy from a seller at a bus stop.** Every operator discounts heavily online and charges near full price at the kerb. On a Golden Tours day ticket that difference is **£17.22**; on Tootbus it is **£8.80**. Street sellers are commission-paid, and the price they quote is the one you should not pay.
+> ⚠️ **Never buy from a seller at a bus stop.** Every operator discounts heavily online and charges near full price at the kerb. On a Golden Tours day ticket that difference is **£17.22**; on Tootbus it is **£8.80**.
 
 ---
 
 ## Big Bus: three routes, around 55 stops
-
-The largest network, and the one with stops closest together. Operating hours and frequencies are from Big Bus's own timetables.
 
 | Route | Covers | Operates | Frequency |
 | --- | --- | --- | --- |
@@ -78,7 +76,7 @@ The largest network, and the one with stops closest together. Operating hours an
 
 ### Red Route — the landmarks loop
 
-The one most people ride. It threads Mayfair and Piccadilly into Whitehall and Westminster, crosses to the South Bank, runs east to the Tower, then comes back along the Embankment through Victoria.
+It threads Mayfair and Piccadilly into Whitehall and Westminster, crosses to the South Bank, runs east to the Tower, then comes back along the Embankment through Victoria.
 
 1. **Green Park Underground** — next to the Ritz
 2. **Hard Rock Cafe** — Piccadilly, opposite the restaurant
@@ -116,7 +114,7 @@ The one most people ride. It threads Mayfair and Piccadilly into Whitehall and W
 
 ### Blue Route — the western loop
 
-Museums, parks and the smart end of west London. This is the route people underrate, and it is the only one that reaches South Kensington or Notting Hill.
+Museums, parks and west London. It reaches South Kensington and Notting Hill.
 
 30. **Marble Arch (westbound)** — Park Lane
 31. **Green Park** — Piccadilly
@@ -137,11 +135,11 @@ Museums, parks and the smart end of west London. This is the route people underr
 46. **Baker Street** — Marylebone Road, for Madame Tussauds and Sherlock Holmes
 47. **Oxford Circus** — Regent Street
 
-**Best stops:** 35 puts you at all three South Kensington museums at once, which makes it the most useful tour bus stop in London. 34 for Harrods, 37 for Kensington Palace, 38 for Portobello Road.
+**Best stops:** 35 for all three South Kensington museums at once, 34 for Harrods, 37 for Kensington Palace, 38 for Portobello Road.
 
 ### Green Link — the Bloomsbury spur
 
-A short connector rather than a sightseeing loop, and at **every 45 minutes** it is the one to plan around, not rely on. Worth it almost entirely for the [British Museum](/articles/british-museum-guide/) and the Eurostar terminal.
+A short connector rather than a sightseeing loop; at **every 45 minutes**, plan around it. Worth it almost entirely for the [British Museum](/articles/british-museum-guide/) and the Eurostar terminal.
 
 48. **Woburn (northbound)** — opposite Russell Court
 49. **Euston Station** — Upper Woburn Place at Euston Road
@@ -152,7 +150,7 @@ A short connector rather than a sightseeing loop, and at **every 45 minutes** it
 54. **British Museum (southbound)** — Southampton Row
 55. **British Museum (northbound)** — Southampton Row
 
-> **If you are arriving by Eurostar**, stop 51 puts a tour bus at St Pancras — which is convenient, and the reason this route exists.
+> **If you are arriving by Eurostar**, stop 51 is at St Pancras.
 
 ### Big Bus with the London Eye
 
@@ -164,7 +162,7 @@ A 24- or 48-hour Big Bus ticket with **London Eye entry** and a **one-way City C
 
 ## Golden Tours: three routes, 60+ stops
 
-The cheapest hop-on hop-off ticket here, and the routes are organised by theme, not geography. A full loop takes **50–60 minutes** on each.
+Routes are organised by theme, not geography. A full loop takes **50–60 minutes** on each.
 
 | Route | Operates | Stops | Covers |
 | --- | --- | --- | --- |
@@ -174,17 +172,13 @@ The cheapest hop-on hop-off ticket here, and the routes are organised by theme, 
 
 Tickets include a free app audio guide in **12 languages**, live bus tracking, and free cancellation.
 
-**The Red Route runs latest**, to 20:00, which makes Golden Tours the better choice if you want a late-afternoon start — Big Bus's Red Route has its last departure at 17:45.
-
-> Golden Tours' own site describes "three carefully designed routes" on its product pages and "four different routes" in its FAQ. We have listed the three that are documented with times and stop counts.
+**The Red Route runs latest**, to 20:00, so Golden Tours suits a late-afternoon start; Big Bus's Red Route has its last departure at 17:45.
 
 ---
 
 ## Tootbus: four routes and six walking tours
 
 Tootbus tickets run for **1, 2 or 3 days** and cover **four bus routes**, with **six walking tours included** in the Discovery ticket, which is why its headline price is higher.
-
-At **£35.20** adult and **£19.20** child, a family of four is better served by the **£112 family ticket**, which saves about £10 against buying separately.
 
 ---
 
@@ -234,13 +228,13 @@ The <a href="https://www.getyourguide.com/activity/-t685713?partner_id=WWP7I0R&a
 
 A normal London bus costs **£1.75** a journey with contactless or Oyster, and the **daily cap is £5.25** — after that, buses are free for the rest of the day.
 
-The **Hopper fare** gives unlimited bus journeys within **one hour** of touching in for that single £1.75. Hop off, look at something, hop on the next one, and it is all one fare.
+The **Hopper fare** gives unlimited bus journeys within **one hour** of touching in for that single £1.75.
 
 ### The routes worth riding, and what they pass
 
 **Route 11 — the classic.** Liverpool Street, the Bank of England, **St Paul's Cathedral**, Fleet Street, the Strand, **Trafalgar Square**, Whitehall, the **Houses of Parliament**, **Westminster Abbey**, and on to Victoria. That is most of a Big Bus Red Route for £1.75.
 
-**Route 24 — north to south.** **Hampstead Heath**, Camden Town, Mornington Crescent, Tottenham Court Road, **Trafalgar Square**, Whitehall, **Westminster** and Pimlico. The best cross-city sightseeing run in London, and it reaches somewhere no tour bus goes.
+**Route 24 — north to south.** **Hampstead Heath**, Camden Town, Mornington Crescent, Tottenham Court Road, **Trafalgar Square**, Whitehall, **Westminster** and Pimlico. It reaches Hampstead Heath, where no tour bus goes.
 
 **Route 15 — the eastern half.** Trafalgar Square, the Strand, Fleet Street, **St Paul's**, Monument and the **Tower of London**.
 
@@ -250,13 +244,13 @@ The **Hopper fare** gives unlimited bus journeys within **one hour** of touching
 
 **Route 148 — over the river.** Camberwell, Elephant & Castle, **Westminster**, Hyde Park Corner, **Notting Hill** and White City, crossing Westminster Bridge with the Parliament view.
 
-> **The heritage Routemaster is gone.** Route 15 used to run a limited service with the old open-platform buses. TfL's own route 15 page now lists no heritage service. If you want a vintage Routemaster, the [guided tours above](#vintage-routemasters-a-live-guide-and-no-hopping-off) run them from £19.50.
+> **The heritage Routemaster is gone.** Route 15 used to run a limited service with the old open-platform buses. If you want a vintage Routemaster, the [guided tours above](#vintage-routemasters-a-live-guide-and-no-hopping-off) run them from £19.50.
 
 <div data-stay-strip></div>
 
 ### What you give up
 
-No commentary, no guaranteed seat, and no guaranteed top-deck front window — the seat everyone actually wants. Ordinary buses get crowded, and they do not wait while you photograph anything. You also need to know where you are going.
+No commentary, no guaranteed seat and no guaranteed top-deck front window. Ordinary buses get crowded, they do not wait while you photograph anything, and you need to know where you are going.
 
 ---
 
@@ -264,11 +258,11 @@ No commentary, no guaranteed seat, and no guaranteed top-deck front window — t
 
 Worth it if:
 
-* **You have limited mobility.** The strongest case by far. Step-free boarding, stops directly outside the sights, and none of the walking between them.
-* **You have one day and no plan.** The commentary and the loop buy you orientation you would otherwise spend a morning acquiring.
-* **You are travelling with children who have run out of legs.** A guaranteed sit-down that is still moving past things.
+* **You have limited mobility.** Step-free boarding, stops directly outside the sights, and no walking between them.
+* **You have one day and no plan.** The commentary and the loop give you orientation in one go.
+* **You are travelling with children who have run out of legs.** A sit-down that keeps moving past things.
 * **The weather is bad.** Covered lower deck, and you never wait long.
-* **The bundle fits.** Big Bus Essential at £46.99 includes a cruise and walking tours; Tootbus includes six walking tours. If you were paying for those anyway, the arithmetic changes completely.
+* **The bundle fits.** Big Bus Essential at £46.99 includes a cruise and walking tours; Tootbus includes six walking tours. If you were paying for those anyway, the bundle can work out cheaper.
 * **You want South Kensington in one stop.** Big Bus stop 35 lands you at three major museums at once.
 
 ## Who should not
@@ -282,15 +276,15 @@ Worth it if:
 
 ## Traps to watch for
 
-1. **"24 hours" is not always 24 hours.** Some tickets run for a calendar day and expire that evening; others run 24 hours from first use. Check which you are buying — the most common complaint by far.
+1. **"24 hours" is not always 24 hours.** Some tickets run for a calendar day and expire that evening; others run 24 hours from first use. Check which you are buying.
 2. **The kerbside price.** Buy online, ideally before you arrive.
 3. **Late-afternoon starts.** Big Bus's Red Route last departure is **17:45**. Buying a day ticket at 4pm buys you well under two hours.
 4. **The 45-minute frequency on Big Bus's Green Link.** Miss one and you have lost most of an hour.
 5. **"Included" extras that still need booking.** River cruises and walking tours bundled into a ticket often need a slot reserved, and popular ones fill.
 6. **Reduced winter service.** Frequencies drop and last departures get much earlier outside summer.
-7. **Similar-looking brands.** Several operators use comparable names, red buses and near-identical livery. Tickets are not interchangeable between operators.
-8. **Live guide versus recorded commentary.** Recorded is multilingual and consistent; a live guide is better on a good day and worse on a bad one. Operators mix both across routes.
-9. **Traffic.** No operator controls the roads. Advertised frequencies are optimistic in central London, particularly around Parliament Square.
+7. **Similar-looking brands.** Several operators use red buses and similar names. Tickets are not interchangeable between operators.
+8. **Live guide versus recorded commentary.** Recorded commentary is multilingual and consistent; a live guide varies. Operators mix both across routes.
+9. **Traffic.** Advertised frequencies are optimistic in central London, particularly around Parliament Square.
 
 ---
 
@@ -300,9 +294,9 @@ Worth it if:
 
 * **Contactless is all you need for ordinary buses.** Tap the reader with a bank card or phone, and you do not tap out. See our [fares guide](/articles/london-public-transport-costs-and-fares/).
 * **The bus daily cap is separate from the Tube cap.** £5.25 for buses and trams alone.
-* **Children under 11 travel free on London buses**, which changes the family arithmetic sharply against a tour bus child ticket.
-* **The river bus is the better-value scenic ride** — ordinary fares, genuine views, and it is transport, not a tour. See [how to use London's river boats](/articles/how-to-use-london-river-boats/), or [Thames river cruises compared](/articles/thames-river-cruises-london/) for a boat with commentary.
-* **A free alternative to commentary:** the [three-day itinerary](/articles/three-days-in-london-itinerary/) walks the same ground with the context built in.
+* **Children under 11 travel free on London buses.**
+* **The river bus is a cheaper scenic ride** — ordinary fares, and it is transport, not a tour. See [how to use London's river boats](/articles/how-to-use-london-river-boats/), or [Thames river cruises compared](/articles/thames-river-cruises-london/) for a boat with commentary.
+* **A free alternative to commentary:** the [three-day itinerary](/articles/three-days-in-london-itinerary/) walks the same ground with context.
 
 ---
 
@@ -317,4 +311,4 @@ Worth it if:
 
 ---
 
-*Operator prices and timetables change frequently. Bus fares are from Transport for London. Stop lists are as published by the operators; routes are occasionally altered for roadworks and events, so check the operator's live map on the day.*
+*Routes are occasionally altered for roadworks and events; check the operator's live map on the day.*
