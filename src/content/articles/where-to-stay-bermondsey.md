@@ -9,7 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=152631540"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-07-08
-updatedAt: 2026-09-29
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -17,40 +18,40 @@ tags: [where to stay, hotels, Bermondsey, London Bridge, planning]
 draft: false
 faq:
   - q: "Is Bermondsey a good area to stay in London?"
-    a: "It is very good for a long weekend and only fair for a working week. Everything the area is famous for — Maltby Street Market, the Beer Mile arches, the Friday antiques market — runs Friday to Sunday, and on a Tuesday you are staying in a quiet residential district with a good restaurant street. What holds up all week is the position: Tower Bridge and Borough Market are both about fifteen minutes on foot from Bermondsey Square, and London Bridge puts you one train from Gatwick and one from St Pancras."
+    a: "It suits a long weekend better than a working week. Everything the area is known for — Maltby Street Market, the Beer Mile arches, the Friday antiques market — runs Friday to Sunday, and on a Tuesday it is a quiet residential district with a restaurant street. What holds up all week is the position: Tower Bridge and Borough Market are both about fifteen minutes on foot from Bermondsey Square, and London Bridge puts you one train from Gatwick and one from St Pancras."
   - q: "Is there a night Tube from London Bridge and Bermondsey?"
     a: "Yes, on the Jubilee line, Friday and Saturday nights, and that is the only night service either station has. London Bridge also carries the Northern line, but the Night Tube's Northern service runs on the Charing Cross branch — Waterloo, Embankment, Leicester Square — and not through Bank or London Bridge at all. Coming home from the West End after midnight means changing at Green Park or Waterloo onto the Jubilee."
   - q: "When is Maltby Street Market open?"
     a: "Fridays 5.30pm to 9pm, Saturdays 10am to 5pm and Sundays 11am to 4pm, on Ropewalk under the railway arches at SE1 3PA. The Friday evening session is why a Friday arrival in Bermondsey is worth more than a Thursday one. There is no midweek market."
   - q: "How much is a hotel in Bermondsey?"
-    a: "There are three properties and they are spread deliberately far apart: Bermonds Locke is a mid-range aparthotel with a kitchen in every studio, Bermondsey Square Hotel is about £180 for a boutique double, and Shangri-La The Shard is about £550. For anything cheaper, walk ten minutes west to Borough High Street, where a private double capsule at St Christopher's Village ran £53 to £166."
+    a: "Bermonds Locke is a mid-range aparthotel with a kitchen in every studio, Bermondsey Square Hotel is about £180 for a boutique double, and Shangri-La The Shard is about £550. For anything cheaper, walk ten minutes west to Borough High Street, where a private double capsule at St Christopher's Village ran £53 to £166."
   - q: "Should I stay on Bermondsey Street or near London Bridge station?"
-    a: "Near the station if you are moving around London every day, on Bermondsey Street if you are staying put. Bermondsey Square is a fifteen-minute walk from London Bridge by the hotel's own reckoning, and three-quarters of a mile from Bermondsey Tube station in the other direction — so wherever you arrive from, you walk. That is fine at nine in the evening and a real consideration at two in the morning."
+    a: "Near the station if you are moving around London every day, on Bermondsey Street if you are staying put. Bermondsey Square is a fifteen-minute walk from London Bridge by the hotel's own reckoning, and three-quarters of a mile from Bermondsey Tube station in the other direction — so wherever you arrive from, you walk."
   - q: "Which Bermondsey hotel is best for a longer stay or a family?"
     a: "Bermonds Locke for a longer stay: every studio has a kitchen with a hob, fridge and microwave and a washer-dryer in the room, and there is a Sainsbury's open until midnight on Bermondsey Square two minutes away. Bermondsey Square Hotel for a family, because children under 12 stay and eat free in a Family Room, cots are free and interconnecting Superior rooms are bookable — though neither cots nor extra beds go into the seventh-floor suites."
 ---
 
 Bermondsey is a good base if you want a kitchen, a short walk to Tower Bridge and a station that runs late at weekends. The hotels here are spread right across the price range: a self-catering studio, a boutique double at about £180, and a room in the Shard at about £550.
 
-The first thing to understand is the shape of the place. **Bermondsey is long and thin**, running a mile and a half east from the back of London Bridge station towards Rotherhithe and Canada Water, and the hotels are all clustered at the western end. Bermondsey Tube station is three-quarters of a mile from Bermondsey Square, on the other side of Jamaica Road. Wherever you stay you will be walking, so check the walk before you check the room.
+The first thing to understand is the shape of the place. **Bermondsey is long and thin**, running a mile and a half east from the back of London Bridge station towards Rotherhithe and Canada Water, and the hotels are all clustered at the western end. Bermondsey Tube station is three-quarters of a mile from Bermondsey Square, on the other side of Jamaica Road. Wherever you stay you will be walking.
 
-The second is the calendar. **Maltby Street Market runs Friday evening, Saturday and Sunday**, the antiques market is Friday morning, and most of the Beer Mile arches only open on a Saturday. Come on a Tuesday and you get a pleasant residential area with one very good restaurant street, so weigh that before you pick your dates.
+The second is the calendar. **Maltby Street Market runs Friday evening, Saturday and Sunday**, the antiques market is Friday morning, and most of the Beer Mile arches only open on a Saturday. Come on a Tuesday and you get a residential area with one restaurant street.
 
 > 💡 **The Short Version:** **[Bermonds Locke](hotel:bermonds-locke)** is what tips the choice to this area over Bankside — 143 studios with real kitchens and a washer-dryer in the room, ten minutes from London Bridge. **[Bermondsey Square Hotel](hotel:bermondsey-square-hotel)** is about £180 with a shared terrace over the square and free breakfast if you book direct. **[Shangri-La The Shard](hotel:shangri-la-the-shard)** is about £550 — but check the aspect before you book, because the entry-level rooms face **south, away from London**. For cheaper, walk west: **[St Christopher's Village](hotel:st-christophers-village)** on Borough High Street sells a private double capsule from £53.
 
 ## Which part of Bermondsey and London Bridge
 
-Four stretches, and they behave nothing like each other after dark.
+Four stretches, which differ after dark.
 
-**London Bridge and Tooley Street** is the transport end: the station, the Shard on top of it, HMS Belfast and the river. It is dense, well lit and busy until late, and it is the only part of this guide where you step off a train and are already there. It empties of workers by seven and fills with people going out.
+**London Bridge and Tooley Street** is the transport end: the station, the Shard on top of it, HMS Belfast and the river. It is busy until late and the only part of this guide where you step off a train and are already there. It empties of workers by seven and fills with people going out.
 
-**Bermondsey Street and Bermondsey Square**, running half a mile south from Tooley Street, is where you actually want to be in the evening — Georgian terraces, White Cube, the Fashion and Textile Museum and about twenty places to eat. Both mid-range hotels are here. **It is a ten to fifteen minute walk from London Bridge station**, which is the number to hold on to.
+**Bermondsey Street and Bermondsey Square**, running half a mile south from Tooley Street, is the evening part of the area — Georgian terraces, White Cube, the Fashion and Textile Museum and about twenty places to eat. Both mid-range hotels are here. **It is a ten to fifteen minute walk from London Bridge station.**
 
-**Shad Thames and Butler's Wharf**, east of Tower Bridge, is warehouse conversions and river views. Lovely to walk through, almost entirely flats, and the restaurants price for the view.
+**Shad Thames and Butler's Wharf**, east of Tower Bridge, is warehouse conversions and river views. It is almost entirely flats, and the restaurants price for the view.
 
-**Jamaica Road, Bermondsey station and the Spa end** is SE16 and a different proposition: post-war estates, a Tube station with a night service, and a fifteen-minute walk back to anywhere you would want to eat.
+**Jamaica Road, Bermondsey station and the Spa end** is SE16: post-war estates, a Tube station with a night service, and a fifteen-minute walk back to anywhere you would want to eat.
 
-**The station trap is the one to read twice.** Bermondsey station is not on Bermondsey Street and is not near it. If your booking says "five minutes from Bermondsey station", check which end of the area it means before you agree to the walk.
+**The station trap.** Bermondsey station is not on Bermondsey Street and is not near it. If your booking says "five minutes from Bermondsey station", check which end of the area it means before you agree to the walk.
 
 ## The hotels in Bermondsey
 
@@ -58,11 +59,11 @@ Four stretches, and they behave nothing like each other after dark.
 
 *143 studios and apartments · Kitchens throughout · 157 Tower Bridge Road, SE1 3LW · London Bridge 10 min · [check prices](hotel:bermonds-locke)*
 
-The case for Bermondsey over Bankside, and it is a practical one, not an atmospheric one. Every unit is a studio or apartment with a **Belko kitchenette — hob, fridge, microwave oven and a dining table** — and, unusually for the format at this price, **a washer-dryer inside the room**, not a shared laundry down the corridor. A dishwasher comes on request.
+Every unit is a studio or apartment with a **Belko kitchenette — hob, fridge, microwave oven and a dining table** — and **a washer-dryer inside the room**, not a shared laundry down the corridor. A dishwasher comes on request.
 
 Grades run 26 m² for a City Studio, 28 m² for the sixth-floor Skyline version, 30 m² for a Locke Studio and about 35 m² for a Twin. The **Courtyard Suite is the one to ask for**: 30 m², double-height ceilings and a private planted terrace.
 
-Two things to know before booking. **Cleaning is weekly, not daily** — this is an apartment, and it is priced like one. And **the standard studio has no sofa**, so a week here means eating at the dining table.
+Two things to know before booking. **Cleaning is weekly, not daily.** And **the standard studio has no sofa**, so a week here means eating at the dining table.
 
 There is a gym and yoga studio, a coworking floor, a 24-hour desk, and the Locke Bar & Lounge open daily 5pm to 11pm. Dogs are welcome, breakfast is extra, and **if you will arrive after 11pm you must tell them in advance** — a house host has to come and unlock the front doors.
 
@@ -80,11 +81,11 @@ There is a gym and yoga studio, a coworking floor, a 24-hour desk, and the Locke
 
 *About £180 · 90 rooms · Bermondsey Square, SE1 3UN · London Bridge 15 min walk · [check prices](hotel:bermondsey-square-hotel)*
 
-Ninety rooms on the square at the bottom of Bermondsey Street, and the only conventional hotel in the area between a hostel bed and the Shard. **Continental breakfast is included when you book through the hotel's own site** and charged when you do not, which is the rare case where booking direct is straightforwardly the cheaper move.
+Ninety rooms on the square at the bottom of Bermondsey Street. **Continental breakfast is included when you book through the hotel's own site** and charged when you do not.
 
 The grade to book is **Terrace**: French doors opening onto a shared terrace that runs the length of the building above the square. Above that are the Ruby, Jude and Lily suites and the **Lucy in the Sky penthouse, which has a hot tub on a private roof terrace**. Club rooms are sold on being the quiet ones, with a Nespresso machine and a 43-inch television; Superior is the entry grade.
 
-**Nobody warns you about the market.** Bermondsey's antiques market takes over the square **every Friday from 6am until 2pm** — a working dealers' market, set up in the dark. Ask for a room off the square for a Thursday night, or book the Friday deliberately and go down at seven.
+**Friday is market day.** Bermondsey's antiques market takes over the square **every Friday from 6am until 2pm** — a working dealers' market, set up in the dark. Ask for a room off the square for a Thursday night, or book the Friday deliberately and go down at seven.
 
 Families do well here: **children under 12 stay and eat free in a Family Room**, cots are free, extra beds are £20, and two Superior rooms can be booked interconnecting. Neither cots nor extra beds go into the seventh-floor suites. There is a gym, dogs are welcome, and the hotel takes no cash at all.
 
@@ -102,11 +103,11 @@ Families do well here: **children under 12 stay and eat free in a Family Room**,
 
 *About £550 · 202 rooms, from level 34 · 31 St Thomas Street, SE1 9QU · London Bridge 2 min · [check prices](hotel:shangri-la-the-shard)*
 
-Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms and suites, directly above the station. Nothing else in London sells this, and the practical case for it is stronger than the price suggests: you are two minutes from a concourse with trains to Gatwick, St Pancras and the whole of the south-east.
+Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms and suites, directly above the station, two minutes from a concourse with trains to Gatwick, St Pancras and the south-east.
 
-**Read the room names before you book, because they are directions rather than adjectives.** A **Superior Shard room is 30 to 48 m² and faces south**, over Kent, Surrey and Sussex; a Premier Shard is 40 to 58 m² and is "mostly southerly". The London everybody pays to look at — the river, the City, St Paul's — is out of the **City View** grades on the other side of the building. Paying £550 for the entry grade and getting the suburbs is an avoidable disappointment.
+**Read the room names before you book: they are directions, not adjectives.** A **Superior Shard room is 30 to 48 m² and faces south**, over Kent, Surrey and Sussex; a Premier Shard is 40 to 58 m² and is "mostly southerly". The London everybody pays to look at — the river, the City, St Paul's — is out of the **City View** grades on the other side of the building.
 
-**GŎNG on level 52 is the highest hotel bar in western Europe**, and its published hours run Wednesday to Sunday — 3pm to 11.30pm on Wednesday, noon to 1am Thursday to Saturday. The **infinity Sky Pool sits inside it and joins the bar on Wednesday to Saturday evenings**. For a swim, hotel guests book a free slot: adults from 6am to 6pm and children from 9 to 11am and 3 to 5pm, any day of the week. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with the other pools in London. TĪNG, on level 35, does lunch Monday to Friday and dinner Wednesday to Sunday.
+**GŎNG on level 52** is, in Shangri-La's words, the highest hotel bar in Western Europe, and its published hours run Wednesday to Sunday — 3pm to 11.30pm on Wednesday, noon to 1am Thursday to Saturday. The **infinity Sky Pool sits inside it and joins the bar on Wednesday to Saturday evenings**. For a swim, hotel guests book a free slot: adults from 6am to 6pm and children from 9 to 11am and 3 to 5pm, any day of the week. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with the other pools in London. TĪNG, on level 35, does lunch Monday to Friday and dinner Wednesday to Sunday.
 
 ![The view from a corner room at Shangri-La The Shard, with floor-to-ceiling windows on two sides and the bed in the foreground](../../assets/articles/where-to-stay-bermondsey/shangri-la-the-shard-room.jpg)
 
@@ -116,13 +117,13 @@ Eighteen floors of the Shard, starting at **level 34** and running to 202 rooms 
 
 ## Where to stay just outside
 
-The area has three hotels, which is not a lot of choice, and on a busy weekend it is no choice at all. Everything below is within half an hour of Bermondsey Street, and most of it is cheaper. If you have not settled on a part of London yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is actually for.
+Everything below is within half an hour of Bermondsey Street, and most of it is cheaper. If you have not settled on a part of London yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
 
 ### Borough High Street — two minutes from the station, and the cheapest bed here
 
-**[St Christopher's Village](hotel:st-christophers-village)** at 161–165 Borough High Street is the budget answer for this whole side of the river, and it is a hostel rather than a hotel: 178 beds over three floors, with **26 purpose-built capsules** among them and a **private Double Capsule that sleeps two, from £53 and up to £166** on a busy date. Belushi's bar is downstairs and there is a roof terrace, which no dedicated capsule hotel in London offers.
+**[St Christopher's Village](hotel:st-christophers-village)** at 161–165 Borough High Street is a hostel: 178 beds over three floors, with **26 purpose-built capsules** among them and a **private Double Capsule that sleeps two, from £53 and up to £166** on a busy date. Belushi's bar is downstairs and there is a roof terrace.
 
-It is **adults only, 18 and over**, breakfast is £3, check-out is 11am and reception takes arrivals until 2am — but not beyond, so a late flight needs a different plan. Two minutes from London Bridge station and Borough Market, and considerably livelier at midnight than anywhere in Bermondsey proper. Our [capsule hotels guide](/articles/pod-hotels-london/) compares all five in London.
+It is **adults only, 18 and over**, breakfast is £3, check-out is 11am and reception takes arrivals until 2am — but not beyond, so a late flight needs a different plan. It is two minutes from London Bridge station and Borough Market. Our [capsule hotels guide](/articles/pod-hotels-london/) compares all five in London.
 
 <div class="photo-row">
 
@@ -136,17 +137,17 @@ It is **adults only, 18 and over**, breakfast is £3, check-out is 11am and rece
 
 ### Bankside — ten minutes west, and where the mid-range actually lives
 
-Bermondsey has exactly one hotel in the £150 to £200 band. Bankside has several, ten minutes' walk west along the river.
+Bankside has mid-range hotels ten minutes' walk west along the river.
 
-**[citizenM London Bankside](hotel:citizenm-bankside)** is about £160 at 20 Lavington Street: 192 rooms, **one room type only**, built around a wall-to-wall XL king bed with a tablet running the blinds, lights and television, and a canteenM selling food and drink around the clock. The rooms are small — the bed fills the width — and that is the trade for the price.
+**[citizenM London Bankside](hotel:citizenm-bankside)** is about £160 at 20 Lavington Street: 192 rooms, **one room type only**, built around a wall-to-wall XL king bed with a tablet running the blinds, lights and television, and a canteenM selling food and drink around the clock. The rooms are small; the bed fills the width.
 
-**[Native Bankside](hotel:native-bankside)** is the aparthotel answer on Bear Gardens behind Shakespeare's Globe, in a **restored Victorian tea warehouse** with polished concrete, exposed brick and arched factory windows. Studios run 23 to 33 m² and one-bedrooms 34 to 45 m², with **daily cleaning**, not Locke's weekly, which is part of what the higher band buys. Southwark, London Bridge and Blackfriars are each under ten minutes' walk, and the Thames Clipper stops at the end of the street.
+**[Native Bankside](hotel:native-bankside)** is the aparthotel answer on Bear Gardens behind Shakespeare's Globe, in a **restored Victorian tea warehouse** with polished concrete, exposed brick and arched factory windows. Studios run 23 to 33 m² and one-bedrooms 34 to 45 m², with **daily cleaning**, not Locke's weekly. Southwark, London Bridge and Blackfriars are each under ten minutes' walk, and the Thames Clipper stops at the end of the street.
 
 ![The bathroom in an apartment at Native Bankside, with dark tiling, a walk-in shower and a wall-hung sink](../../assets/articles/where-to-stay-bermondsey/native-bankside-bathroom.jpg)
 
 *The bathroom in a Native Bankside apartment.*
 
-Two more worth pricing on your own dates: **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 for one of 192 rooms over six floors, with the Seabird rooftop and its very long oyster list on top, and **[Premier Inn London County Hall](hotel:premier-inn-county-hall)** is about £110, two Jubilee stops west at Waterloo. Our [aparthotels guide](/articles/aparthotels-london/) has the full South Bank comparison.
+Two more worth pricing on your own dates: **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 for one of 192 rooms over six floors, with the Seabird rooftop restaurant on top, and **[Premier Inn London County Hall](hotel:premier-inn-county-hall)** is about £110, two Jubilee stops west at Waterloo. Our [aparthotels guide](/articles/aparthotels-london/) has the full South Bank comparison.
 
 <div class="photo-row">
 
@@ -160,9 +161,9 @@ Two more worth pricing on your own dates: **[The Hoxton, Southwark](hotel:the-ho
 
 ### Spitalfields and Aldgate — across the river, and better connected
 
-Twenty minutes' walk north of London Bridge, over the river, and a different transport picture: the Elizabeth line at Whitechapel and Liverpool Street puts Bond Street about twelve minutes away and Heathrow on one train, which Bermondsey cannot match.
+Twenty minutes' walk north of London Bridge, over the river. The Elizabeth line at Whitechapel and Liverpool Street puts Bond Street about twelve minutes away and Heathrow on one train.
 
-**[Leman Locke](hotel:leman-locke)** is the sister property to Bermonds Locke and the original of the format in London — studios with proper kitchens on Leman Street, a minute from Aldgate East, with a lobby that works as a desk by day and a bar at night. If you like the Bermonds Locke idea but want a Tube station at the end of the road rather than a fifteen-minute walk, this is the swap.
+**[Leman Locke](hotel:leman-locke)** is the sister property to Bermonds Locke — studios with proper kitchens on Leman Street, a minute from Aldgate East, with a lobby that works as a desk by day and a bar at night. If you like the Bermonds Locke idea but want a Tube station at the end of the road rather than a fifteen-minute walk, this is the swap.
 
 ![The living area of a studio at Leman Locke, with a pink sofa, a round marble dining table and floor-to-ceiling windows](../../assets/articles/where-to-stay-bermondsey/leman-locke-lounge.jpg)
 
@@ -178,39 +179,37 @@ Twenty minutes' walk north of London Bridge, over the river, and a different tra
 
 Twenty minutes from London Bridge by Tube and noticeably cheaper, with the trade that you are in Zone 2 and walking home from the station.
 
-**[Town Hall Hotel](hotel:town-hall-hotel)** on Patriot Square is about £220 and the best building in this entire guide: a 1910 town hall with the council chamber and marble staircases still intact, a **14-metre heated pool** in the basement and the Michelin-starred Da Terra upstairs. It costs roughly what a plain Bankside double costs and it is not a plain anything.
+**[Town Hall Hotel](hotel:town-hall-hotel)** on Patriot Square is about £220: a 1910 town hall with the council chamber and marble staircases still intact, a **14-metre heated pool** in the basement and the Michelin-starred Da Terra upstairs.
 
-**[The GreenHouse Capsules](hotel:greenhouse-capsules)** at 93 Roman Road is the other end entirely, at **£42 to £53 a capsule** — eight units, no front desk, entry by access code, and the flattest price in our whole capsule set. It barely moves between a quiet Sunday and mid-December, which makes it dearer than a Zone 1 berth on a quiet night and cheaper at Christmas — the opposite of what a Zone 2 address implies.
+**[The GreenHouse Capsules](hotel:greenhouse-capsules)** at 93 Roman Road is the other end entirely, at **£42 to £53 a capsule** — eight units, no front desk, entry by access code. The price barely moves between a quiet Sunday and mid-December.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## The night train, and the fact almost everyone gets wrong
 
-This is the part of the area that people assume and should check.
-
 **London Bridge and Bermondsey both have a Night Tube on Friday and Saturday, and it is the Jubilee line only.** Both stations are step-free from street to train, so a case is no trouble at 2am.
 
-**The Northern line at London Bridge does not run at night.** The Night Tube's Northern service uses the **Charing Cross branch** — Waterloo, Embankment, Leicester Square, Tottenham Court Road — and skips Bank and London Bridge entirely. Guides that list London Bridge as "Jubilee and Northern, both with night service" are simply wrong, and it is an expensive thing to discover at half past midnight in Camden.
+**The Northern line at London Bridge does not run at night.** The Night Tube's Northern service uses the **Charing Cross branch** — Waterloo, Embankment, Leicester Square, Tottenham Court Road — and skips Bank and London Bridge entirely. Some guides list London Bridge as "Jubilee and Northern, both with night service"; that is wrong.
 
 So the routes home are these. **From the West End, change at Green Park** — the Piccadilly and Victoria lines both run all night and both meet the Jubilee there. **From anywhere on the Northern line, change at Waterloo.** From Shoreditch or Dalston, take the Windrush line to **Canada Water**, which is one Jubilee stop from Bermondsey and two from London Bridge.
 
-And then you walk. From London Bridge to Bermondsey Square is fifteen minutes down Bermondsey Street; from Bermondsey station it is about the same in the other direction. That is the cost of staying here, and it is why the Shard, sitting on top of the station, is the only property in the area with no walk at all.
+Then you walk. From London Bridge to Bermondsey Square is fifteen minutes down Bermondsey Street; from Bermondsey station it is about the same in the other direction. Only the Shard, on top of London Bridge station, has no walk.
 
 ## Come Friday, not Tuesday
 
-If the market and the arches are why you picked Bermondsey, the booking should start on a Friday.
+If the market and the arches are why you picked Bermondsey, arrive on a Friday.
 
-**Maltby Street Market opens Friday 5.30pm to 9pm**, then Saturday 10am to 5pm and Sunday 11am to 4pm, on Ropewalk under the arches. The Friday evening session turns a Friday arrival into an evening, not a wasted one.
+**Maltby Street Market opens Friday 5.30pm to 9pm**, then Saturday 10am to 5pm and Sunday 11am to 4pm, on Ropewalk under the arches.
 
-**The antiques market is Friday, 6am to 2pm**, on Bermondsey Square. **The Beer Mile taprooms are mostly a weekend proposition**, with Saturday the day nearly all of them trade. Midweek, the compensation is that Bermondsey Street's restaurants are bookable and the Fashion and Textile Museum is quiet.
+**The antiques market is Friday, 6am to 2pm**, on Bermondsey Square. **The Beer Mile taprooms are mostly a weekend proposition**, with Saturday the day nearly all of them trade.
 
-One good midweek fact: **the Sainsbury's on Bermondsey Square is open until midnight**, which is what makes a kitchen at Bermonds Locke useful rather than theoretical. And **The Arzner**, on the same square, is London's first LGBTQ+ cinema — a 50-seat screen with a cocktail bar attached, screening daily, the bar open to 11pm Sunday to Thursday and to midnight on Friday and Saturday.
+**The Sainsbury's on Bermondsey Square is open until midnight**, which is what makes a kitchen at Bermonds Locke useful. **The Arzner**, on the same square, is an LGBTQ+ cinema — a 50-seat screen with a cocktail bar attached, screening daily, the bar open to 11pm Sunday to Thursday and to midnight on Friday and Saturday.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-bermondsey-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What you are staying for
 
-Our [Bermondsey area guide](/articles/bermondsey-area-guide/) covers the market, the Beer Mile arches, White Cube and the Shad Thames warehouse canyon — what to do once you have a room. For the stretch immediately west, the [South Bank guide](/articles/south-bank-area-guide/) covers Borough Market, HMS Belfast and Tower Bridge, including the £3 benefits ticket for HMS Belfast that almost nobody mentions.
+Our [Bermondsey area guide](/articles/bermondsey-area-guide/) covers the market, the Beer Mile arches, White Cube and the Shad Thames warehouse canyon — what to do once you have a room. For the stretch immediately west, the [South Bank guide](/articles/south-bank-area-guide/) covers Borough Market, HMS Belfast and Tower Bridge, including the £3 benefits ticket for HMS Belfast.
 
 ## Getting in and out
 
@@ -222,6 +221,6 @@ Our [Bermondsey area guide](/articles/bermondsey-area-guide/) covers the market,
 
 **Bermondsey** is Jubilee only, and useful mainly for Canary Wharf, Stratford and the night service.
 
-**By river**, London Bridge City Pier on Tooley Street puts you on the Uber Boat for Greenwich east or Westminster west — slower than the Tube, and the best-value sightseeing in London if you have a Travelcard.
+**By river**, London Bridge City Pier on Tooley Street puts you on the Uber Boat for Greenwich east or Westminster west — slower than the Tube.
 
-*Room grades, sizes, opening hours and night service checked against each hotel's own site, Maltby Street Market's own site and Transport for London on 8 September 2026. Rates are indicative of what these properties typically ask and move a long way by date — always price your own nights.*
+*Rates move a long way by date: price your own nights.*
