@@ -1,9 +1,10 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "inProgress": [],
   "nextUp": [
+    "Push ltg-dates-1025 when Rob says; push ltg-fares-1101 on or after 1 November 2026 (bus fare £1.85, cap £5.55).",
     "Add Oxford Street's 2026 lights switch-on date to the lights walk, the Christmas guide and the November guide as soon as Oxford Street announces it.",
     "Fix the affiliate_click venue capture: every venue name ends in 'ad' because the Ad badge text is read with it (BaseLayout.astro).",
     "Finish the sushi guide (ltg-sushi): photos and Sheet rows, so the 'sushi' searches have a page that ranks.",
@@ -50,9 +51,14 @@
     "Fares page: TfL maximum fares (£9.40 and £30.40) came off because no TfL page shows them; send the source to put them back. On 1 November switch the bus line in the Short Version and first FAQ to £1.85.",
     "Best Sushi in London is written on branch ltg-sushi (29 sources, 140 venues) but not live: it needs venue photos, 38 Sheet rows and five booking links checked in a browser.",
     "Still to do from 17 October: January 2027 guide, hotels with a pool, Wimbledon 2027 ballot and Bonfire Night refresh, dog-friendly chains and Soho/Shoreditch hotels (agents were stopped before finishing).",
-    "Confirm: The Vault at Milroy's still open? Left off for want of an operator site: Mannions Prince Arthur, Army & Navy (karaoke), The Blind Pig, Lost Property Office (speakeasy), Sophocles Bakery, Santorini Bayswater (Greek), Logma (fusion)."
+    "Confirm: The Vault at Milroy's still open? Left off for want of an operator site: Mannions Prince Arthur, Army & Navy (karaoke), The Blind Pig, Lost Property Office (speakeasy), Sophocles Bakery, Santorini Bayswater (Greek), Logma (fusion).",
+    "Events tab in the Google Sheet: mirror the events.json fixes from ltg-dates-1025 (MCM May 2027, Winter Wonderland price, NYE price, Leicester Sq and Southbank start dates, Kew, Parade, Ideal Christmas Show), or the next export-events.mjs run overwrites them. Also unconfirmed: Primrose Hill 10pm close to 8 Nov, the Banksy piranhas at the London Museum, Kew 3.15pm close from 12 Nov, Uber Boat fares from 1 Nov."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-26",
+      "what": "Dates sweep (branch ltg-dates-1025, not pushed): 54+ pages corrected against operators: Tower £38, Abbey £32, Greenwich, Hampton Court Winter Palace £33–£36, London Pass sums; lapsed Halloween, Bonfire Night, October and MCM items removed (MCM page now May 2027); NYE batches, Thames winter timetable, Buckingham Palace closed to summer 2027, Chelsea Flower Show tickets, Great Christmas Feast 6 Nov–31 Dec; Christmas pages checked; month data updated; how-we-checked footers removed. Branch ltg-fares-1101 switches every £1.75/£5.25 to £1.85/£5.55 and must go live on or after 1 November."
+    },
     {
       "date": "2026-10-25",
       "what": "Pushed live: the rebuilt best areas to visit and where to stay pages; the fares page with the 1 November bus fare (£1.85, cap £5.55, new weekly and monthly passes) in every place; the Christmas pages for 2026 (Carnaby 4 Nov, Regent Street 5 Nov, Bond Street and Covent Garden 12 Nov switch-ons; Oxford Street's date not yet announced; Southbank, Winter by the River, Leicester Square and other market dates; Winter Wonderland's Giant Wheel Light Show; NYE tickets and City Hall's entry rules); the Bayeux Tapestry sold out to 31 March 2027 on five pages and the month data; the Comic Con and Halloween additions; the table-of-contents height fix. Two-week analytics (11–24 Oct): sessions +20%, Google clicks +26%, affiliate clicks +16%."
