@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Pontoon_Dock_DLR_stati
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-14
-updatedAt: 2026-10-17
-reviewBy: 2027-03-24
+updatedAt: 2026-10-26
+reviewBy: 2027-01-25
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -29,7 +29,7 @@ faq:
     a: "Yes, if you want Westfield, the Olympic Park or the Central and Elizabeth lines as well. The Jubilee line starts at Stratford and reaches North Greenwich in seven to nine minutes, about 25 minutes door to door. The last eastbound train back is 01:01 Monday to Thursday and 00:16 on a Sunday."
 ---
 
-The O2 has one station, North Greenwich, on one Tube line, the Jubilee. So the useful question is not which hotel is nearest but which one is on the Jubilee close enough that the last train and the queue at the gates don't decide how your night ends. The same applies to indigo at The O2, the smaller venue on the same site. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers parking, the cable car and the boat.
+The O2 has one station, North Greenwich, on one Tube line, the Jubilee. So the useful question is which hotel is on the Jubilee close enough that the last train and the queue at the gates don't decide how your night ends. The same goes for indigo at The O2, the smaller venue on the same site. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers parking, the cable car and the boat.
 
 > 💡 **The Short Version:** **Canary Wharf** and **Canning Town** are the bases for most people: one stop either side of North Greenwich, two minutes on the train. The cheapest beds are at **[ibis London Canning Town](hotelscom:h19692814)**, opposite the station at a typical **£106**, and **[Travelodge London Docklands Central](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)**, **£34.99** on an October Sunday. The central base is **London Bridge**, nine minutes on the Jubilee. The trap is sleeping on the peninsula on a show night: the **InterContinental** was **£465** on a Sunday concert night and **£261** a week later. On Fridays and Saturdays the Jubilee runs all night; other nights the last train west leaves North Greenwich at **00:19**, or **23:45** on a Sunday.
 >
@@ -47,7 +47,7 @@ The O2 has one station, North Greenwich, on one Tube line, the Jubilee. So the u
 | **Greenwich town** | Bus 188 or 129, 11–25 min | 22–42 min | No train at all |
 | **Greenwich Peninsula** | On foot | 5–15 min walk | Prices can quadruple on a show night |
 
-*Door-to-door times include the walk from the hotel and from North Greenwich to The O2's doors, for a Saturday evening arrival and a 23:00 weekday departure, from TfL's Journey Planner, September 2026.*
+*Door-to-door times include the walk from the hotel and from North Greenwich to The O2's doors, for a Saturday evening arrival and a 23:00 weekday departure.*
 
 ## Where to stay, base by base
 
@@ -65,7 +65,7 @@ Canary Wharf is two minutes from North Greenwich, the first stop on the westboun
 
 </div>
 
-**[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites at 1 Cartier Circle, E14 5HF, five minutes' walk from the station, each with a kitchenette, at a mid-range rate. The front desk is open 24 hours and keeps luggage free on your arrival and departure days, and The O2 admits nothing bigger than an A4 bag. LUQA, its restaurant, serves from morning coffee to evening drinks.
+**[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites at 1 Cartier Circle, E14 5HF, five minutes' walk from the station, each with a kitchenette. The front desk is open 24 hours and keeps luggage free on your arrival and departure days, and The O2 admits nothing bigger than an A4 bag. LUQA, its restaurant, serves from morning coffee to evening drinks.
 
 <div class="photo-row">
 
@@ -131,7 +131,7 @@ Stratford is the Jubilee's eastern terminus, three stops and seven to nine minut
 
 ![A room at Hyatt Regency London Stratford with a king bed against a tan leather headboard and brass reading lamps, a navy fabric feature wall, a blue sofa and bench, and an open wardrobe with a bathrobe by the door](../../assets/articles/where-to-stay-near-the-o2/hyatt-regency-stratford-room.jpg)
 
-**[Moxy London Stratford](hotelscom:h19544649)** is Marriott's Moxy brand at 86 Great Eastern Road, E15 1GR, three minutes from Stratford station. It was a typical **£143**: **£99** on an October Sunday, **£143 to £199** on Saturdays. Door to door, 25 minutes.
+**[Moxy London Stratford](hotelscom:h19544649)** is at 86 Great Eastern Road, E15 1GR, three minutes from Stratford station. It was a typical **£143**: **£99** on an October Sunday, **£143 to £199** on Saturdays. Door to door, 25 minutes.
 
 ![A double room at Moxy London Stratford with a padded charcoal headboard on a wood strip, white-shaded wall lamps, a grey swivel chair, a magenta pouffe and a window looking over trees and distant towers](../../assets/articles/where-to-stay-near-the-o2/moxy-london-stratford-room.jpg)
 
@@ -187,7 +187,7 @@ London Bridge is four stops and eight or nine minutes west of North Greenwich, a
 
 ### The queue at North Greenwich
 
-After a big event, TfL doesn't let the whole crowd into the station at once. Its answer to a Freedom of Information request describes staff holding event crowds outside and letting them in gradually, working with The O2's security and the police under a local event plan. Expect to queue outside or on the concourse before you reach the gates. If you'd rather let the crowd go first, The Stargazer, the Wetherspoon inside The O2, is open until 00:15 with food until 23:00. On a Sunday to Thursday, keep an eye on the last train while you wait.
+After a big event, TfL holds the crowd outside and lets people into the station gradually. Expect to queue outside or on the concourse before you reach the gates. If you'd rather let the crowd go first, The Stargazer, the Wetherspoon inside The O2, is open until 00:15 with food until 23:00. On a Sunday to Thursday, keep an eye on the last train while you wait.
 
 ### Last trains from North Greenwich
 
@@ -199,15 +199,15 @@ After a big event, TfL doesn't let the whole crowd into the station at once. Its
 | **DLR from Canning Town** to East India | 00:52 | About 00:52, then none | 23:53 |
 | **Bus 188** to Greenwich and Waterloo | 24 hours | 24 hours | 24 hours |
 
-*From TfL's timetables, 24 September 2026. Sunday times are for Sunday evening.*
+*Sunday times are for Sunday evening.*
 
-The Jubilee is one of six Night Tube lines, running all night on Friday and Saturday nights only. The DLR and the Elizabeth line do not run through the night. So on a Friday or Saturday, the Royal Docks and East India are the only bases here without an all-night train: after the last DLR, take the Night Tube to Canning Town and then a night bus from there (the 474 towards ExCeL's eastern end, the N15 towards East India) or a taxi. There's a taxi rank at North Greenwich bus station.
+The Jubilee runs all night on Friday and Saturday nights only; the DLR and the Elizabeth line do not run through the night. So on a Friday or Saturday, the Royal Docks and East India are the only bases here without an all-night train: after the last DLR, take the Night Tube to Canning Town and then a night bus from there (the 474 towards ExCeL's eastern end, the N15 towards East India) or a taxi. There's a taxi rank at North Greenwich bus station.
 
 TfL doesn't add late trains for O2 events. If your show is due to finish after 23:30 on a Sunday, the last westbound train is 23:45, so the eastern bases are the safer bet.
 
 ## Staying next to The O2
 
-The two hotels nearest the arena both reprice on a show night. These figures, from our [O2 travel guide](/articles/the-o2-travel-guide/), were taken on the operators' own booking engine in September 2026 for a standard single-headliner arena show on a Sunday:
+The two hotels nearest the arena both reprice on a show night. These figures, from our [O2 travel guide](/articles/the-o2-travel-guide/), are for a standard single-headliner arena show on a Sunday:
 
 | | Show night (Sunday) | Same Sunday, one week later |
 | --- | --- | --- |
@@ -246,4 +246,4 @@ Canary Wharf, Custom House and Stratford are all on the Elizabeth line, and Lond
 
 Still deciding between areas for the rest of the trip? Our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the city by what the trip is for, and the [Wembley travel guide](/articles/wembley-stadium-arena-guide/) covers London's other big arena, also on the Jubilee line.
 
-*Typical nightly rates for a double, checked September 2026; the sampled figures are the cheapest double for two on five nights between October 2026 and April 2027, taxes included.*
+*Typical nightly rates for a double; the sampled figures are the cheapest double for two on five nights between October 2026 and April 2027, taxes included.*
