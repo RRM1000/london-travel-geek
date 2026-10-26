@@ -5,8 +5,8 @@ description: "Through a fridge, behind a bookcase, past a detective's desk or do
 heroImage: "../../assets/articles/best-cocktail-bars-london/discount-suit-company-bar-room.jpg"
 heroImageAlt: "A long wooden bar with drawer fronts and iron hooks, bentwood stools, bare brick walls and old ceiling joists, with leather armchairs at the back of the room"
 publishedAt: 2026-10-08
-updatedAt: 2026-10-08
-reviewBy: 2027-04-08
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -20,14 +20,14 @@ faq:
   - q: "Do I need a password for London speakeasies?"
     a: "Only at Barts in Chelsea, which asks for one at its unmarked black door: in its own words, the password is 'whispered only to those in the know'. Everywhere else the trick is finding the door: a fridge at The Mayor of Scaredy Cat Town, a bookcase at The Vault, a repair shop at The Natural Philosopher, a detective agency's front at Evans & Peel."
   - q: "How much is a cocktail in a London speakeasy?"
-    a: "Where the bars publish a price, £13 to £19: £13 at The Natural Philosopher, £13 to £15 at Basement Sate, £14 to £18 at Nightjar and £15 to £19 at Opium. Go early for less: Supermax pours £9 cocktails until 7pm, Opium's classics are £10 from 5pm to 7pm, and Blind Spot runs two-for-one from 5pm to 7pm."
+    a: "Cocktails cost £13 to £19: £13 at The Natural Philosopher, £13 to £15 at Basement Sate, £14 to £18 at Nightjar and £15 to £19 at Opium. Go early for less: Supermax pours £9 cocktails until 7pm, Opium's classics are £10 from 5pm to 7pm, and Blind Spot gives a free second cocktail from 5pm to 7pm, Tuesday to Thursday."
   - q: "Is Cahoots a speakeasy?"
     a: "It is the bar the lists call a speakeasy most often, but its name is lit up over the door in Kingly Court, so this guide does not rank it with the hidden bars. It is a 1940s Underground-station theme bar, and a good one for a group."
 ---
 
-**A speakeasy here means a bar you have to find**: through a fridge, behind a bookcase, past a pizzeria counter, down a staircase behind a door with no name on it. A cocktail bar with its name lit over the door is not one, however often a list calls it that, and the most famous of those get a short section of their own further down.
+**A speakeasy here means a bar you have to find**: through a fridge, behind a bookcase, past a pizzeria counter, down a staircase behind a door with no name on it. A cocktail bar with its name lit over the door is not one, however often a list calls it that; the best known get a short section further down.
 
-The bars are ranked by how many independent sources name them: judged awards, editorial lists, independent blogs, YouTube creators and Reddit threads in which Londoners argue about where to drink.
+The bars are ranked by how many independent sources name them: judged awards, editorial lists, blogs, YouTube creators and Reddit threads.
 
 > 💡 **The Short Version:** **Discount Suit Company** in Spitalfields and **Nightjar** on City Road are the hidden bars the most sources name. **The Mayor of Scaredy Cat Town** is the one through the fridge. For a judged verdict, **Archive & Myth**, reached through the Hippodrome Casino, is No.18 in the Top 50 Cocktail Bars 2026, and **The Spy Bar** sits behind a door in The OWO, the old War Office. **Barts** in Chelsea is the one with a password. The cheapest way in is before 7pm: **£9 cocktails at Supermax** under a King's Cross pizzeria, and **£10 classics at Opium** behind its jade door in Chinatown.
 
@@ -41,7 +41,7 @@ The bars are ranked by how many independent sources name them: judged awards, ed
 * **Book ahead:** Archive & Myth (you arrive at your booking time through the Magic Mike Live entrance), and Nightjar, which takes walk-ins but recommends booking, especially for the music.
 * **Book or walk in:** The Natural Philosopher, Basement Sate, Supermax, Opium and The Mayor of Scaredy Cat Town. Barts takes walk-ins for its late Speakeasy Sundowners, Thursday to Saturday from 11pm.
 * **Expect a queue:** SOMA Soho holds a few tables for bookings and runs a first-in-line queue for the rest of the night.
-* **Check the day before you go.** The Natural Philosopher opens Thursday to Sunday only, Supermax Wednesday to Saturday, The Spy Bar Tuesday to Saturday, and Barts is closed on Mondays and Tuesdays.
+* **Check the day before you go.** The Natural Philosopher opens Thursday to Sunday only, Supermax Wednesday to Saturday, The Spy Bar Tuesday to Saturday, Blind Spot Tuesday to Saturday, and Barts is closed on Mondays and Tuesdays.
 
 ## Where they are
 
@@ -56,7 +56,7 @@ The bars are ranked by how many independent sources name them: judged awards, ed
 | **King's Cross** | Supermax |
 | **Chelsea & Earl's Court** | Barts, Evans & Peel Detective Agency |
 
-**Cocktail prices** are given where the bar publishes them: £13 to £19 a drink.
+**Cocktails** cost £13 to £19, with happy hours from £9 (see Cheapest below).
 
 ---
 
@@ -68,27 +68,25 @@ Two judged awards for 2026 reach London's hidden bars. The Top 50 Cocktail Bars 
 
 *£££ · Hippodrome Casino, Cranbourn Street, WC2H 7JH · No.18, Top 50 Cocktail Bars 2026 · Cited by 5 sources · [book a table](https://www.sevenrooms.com/explore/archiveandmythhippodromecasino/reservations/create/search/)*
 
-**The highest-placed hidden bar in the Top 50 Cocktail Bars 2026**, and the one with the most involved way in. The bar's own directions: at your booking time, use the **Magic Mike Live entrance to the Hippodrome off Cranbourn Street**, go through the door to the left of the lift and head downstairs. Its site calls the room "a timeless chamber filled with mystery and intrigue" below the casino.
+**The highest-placed hidden bar in the Top 50 Cocktail Bars 2026.** The bar's own directions: at your booking time, use the **Magic Mike Live entrance to the Hippodrome off Cranbourn Street**, go through the door to the left of the lift and head downstairs.
 
 ![The bar at Archive & Myth, a long backlit counter with red-cushioned stools against a brick wall, under rows of spotlights](../../assets/articles/best-speakeasy-bars-london/archive-and-myth-bar.jpg)
 
 *The bar at Archive & Myth.*
 
-DesignMyNight calls it "a secret within a secret"; Sis Behaving wrote it up for its London speakeasy guide, and on Reddit one Londoner's verdict was that the drinks "are on the pricier side but the vibes are 💯". No standing cocktail prices are published; the bar runs guest shifts and one-night tastings with their own prices.
-
-**Book: the directions are given for your reservation time.**
+DesignMyNight calls it "a secret within a secret", and one Reddit verdict is that the drinks "are on the pricier side". The bar runs guest shifts and one-night tastings with their own prices.
 
 ### The Spy Bar, Whitehall — the old War Office's rooms 006 and 007
 
 *££££ · Raffles London at The OWO, SW1A 2BX · No.43, Top 50 Cocktail Bars 2026 · CLASS Bar Manager of the Year 2026 · Cited by 4 sources · [the bar's site](https://www.raffles.com/london/experiences/spy-bar-tasting-experience/)*
 
-**The only hidden bar among the 2026 CLASS winners**: Sotiris Konomi, who runs it, is the 2026 Bar Manager of the Year. Raffles places it "in the secret corridors" of the Old War Office, in two rooms numbered 006 and 007 that held the identity papers and mission reports of MI5 and MI6 agents. Time Out, which puts it first of fifteen secret bars, found it "behind a door marked with a tiny 007" in the basement.
+**The only hidden bar among the 2026 CLASS winners**: Sotiris Konomi, who runs it, is the 2026 Bar Manager of the Year. Raffles places it "in the secret corridors" of the Old War Office, in rooms 006 and 007. Time Out, which puts it first of fifteen secret bars, found it "behind a door marked with a tiny 007" in the basement.
 
 ![Two martinis on a wooden bar counter at The Spy Bar, with olives, a water bottle and dark red walls behind](../../assets/articles/best-speakeasy-bars-london/spy-bar-martinis.jpg)
 
 *Martinis at The Spy Bar.*
 
-The order is a martini: The OWO's own line is "descend to The Spy Bar for a secret Martini", and Time Out names the Vesper. A guided Spy Bar tasting is £150 a head; the bar publishes no cocktail list prices.
+The order is a martini: The OWO's own line is "descend to The Spy Bar for a secret Martini", and Time Out names the Vesper. A guided Spy Bar tasting is £150 a head.
 
 **Open Tuesday to Saturday from 5pm.** Closed Sunday and Monday.
 
@@ -104,13 +102,13 @@ Opium's own directions are "Find our hidden jade door" on Gerrard Street; Time O
 
 Cocktails run **£15 to £19**. **Classic Hour, 5pm to 7pm every day, puts every classic at £10**, and a pre-theatre deal pairs dim sum with a signature cocktail for £25. Nine sources name it, the most of any award-listed hidden bar, from Time Out and SquareMeal to The Nudge and Secret London.
 
-**Open every day from 5pm until late.** Book through the bar's site, and, says Time Out, don't be put off by the doorman.
+**Open every day from 5pm until late.** Book through the bar's site.
 
 ### SOMA Soho, Piccadilly Circus — the unmarked door on Denman Street
 
 *£££ · 14 Denman Street, W1D 7HJ · No.48, Top 50 Cocktail Bars 2026 · Cited by 4 sources · [the bar's site](https://soma.london/soho/)*
 
-The bar's own description: "Through an unmarked door, descend the stairs from Denman Street". At the bottom is a stainless steel counter, with curtained walls leading to a snug at one end and a lounge at the other, and cocktails built on flavours from the Indian subcontinent. GQ named it Best Bar at its 2022 Food & Drink Awards.
+Through an unmarked door, you descend the stairs from Denman Street to a stainless steel counter, with curtained walls leading to a snug at one end and a lounge at the other, and cocktails built on flavours from the Indian subcontinent. GQ named it Best Bar at its 2022 Food & Drink Awards.
 
 ![SOMA Soho's long stainless steel counter with wooden stools, globe pendant lights and dark curtained walls](../../assets/articles/best-speakeasy-bars-london/soma-soho-counter.jpg)
 
@@ -118,13 +116,13 @@ The bar's own description: "Through an unmarked door, descend the stairs from De
 
 The music changes with the hour: jazz early in the evening, Golden Age hip hop after that. A second SOMA under the DLR at Canary Wharf is not a hidden bar.
 
-**A limited number of tables can be booked; after that it is a first-in-line queue.** Open until 1am Monday and Tuesday, 2am Wednesday and Thursday, 3am Friday and Saturday, and 10.30pm on Sunday. No prices are published.
+**A limited number of tables can be booked; after that it is a first-in-line queue.** Open until 1am Monday and Tuesday, 2am Wednesday and Thursday, 3am Friday and Saturday, and 10.30pm on Sunday.
 
 ---
 
 ## The most named
 
-Nobody ranks speakeasies by how often they are written up, so this is where the counts lead: these five are named across editorial lists, blogs and Reddit alike.
+These five are named most often, across editorial lists, blogs and Reddit alike.
 
 ### Discount Suit Company, Spitalfields — the old tailor's
 
@@ -134,11 +132,11 @@ Nobody ranks speakeasies by how often they are written up, so this is where the 
 
 *Discount Suit Company.*
 
-**Named by thirteen sources, joint most of any hidden bar in this guide**, and the most recommended name in r/london's 2025 thread on speakeasies. It opened in January 2014 in a former suit tailor's store room and, as Time Out notes, kept the old premises' name; Time Out describes it as "hidden away under one of the many clothiers" around Petticoat Lane.
+**Named by thirteen sources, joint most of any hidden bar in this guide**, and the most recommended name in r/london's 2025 thread on speakeasies. It opened in January 2014 in a former suit tailor's store room; Time Out describes it as "hidden away under one of the many clothiers" around Petticoat Lane.
 
-Inside it is a low room of bare brick and old joists, with classically inspired cocktails to a soundtrack the bar gives as Northern Soul and vintage rock 'n' roll. It is also in our [best cocktail bars guide](/articles/best-cocktail-bars-london/).
+Inside it is a low room of bare brick and old joists, with classically inspired cocktails to a soundtrack the bar gives as Northern Soul and vintage rock 'n' roll.
 
-**Book, especially at the weekend:** the Reddit verdict is that it "ended getting a bit too busy". The bar does not publish its cocktail prices.
+**Book, especially at the weekend:** the Reddit verdict is that it "ended getting a bit too busy".
 
 ### Nightjar, Old Street — the door beside the KFC
 
@@ -150,7 +148,7 @@ Inside it is a low room of bare brick and old joists, with classically inspired 
 
 **Thirteen sources, level with Discount Suit Company.** The door is a pair of dark wooden doors with a small brass nightjar on them, next to a KFC, and the bar is in the basement. The menu runs by era, pre-Prohibition to modern: a Singapore Sling at £15, a Charlie Chaplin at £14, an El Presidente at £17, and **cocktails at £14 to £18** in all.
 
-**Live jazz, blues, swing and funk every night from 9pm**, with a cover charge that goes to the musicians. Walk-ins are taken, but Nightjar recommends booking, and groups of up to 20 are accepted Sunday to Thursday only. It is in our [best cocktail bars guide](/articles/best-cocktail-bars-london/) too.
+**Live jazz, blues, swing and funk every night from 9pm**, with a cover charge that goes to the musicians. Walk-ins are taken, but Nightjar recommends booking, and groups of up to 20 are accepted Sunday to Thursday only.
 
 ### The Mayor of Scaredy Cat Town, Spitalfields — through the fridge
 
@@ -162,15 +160,15 @@ The bar's address line on its own page reads "Through the fridge…": you walk i
 
 *The basement at The Mayor of Scaredy Cat Town.*
 
-The basement is candlelit, and the bar sells it as "best in class cocktails" for "hush hush conversations, or raucous celebrations, plus the odd cat here & there". **Saturdays open at noon with a boozy brunch**; every other day it opens at 5pm, until 11pm Monday to Wednesday and Sunday and midnight Thursday to Saturday.
+The basement is candlelit. **Saturdays open at noon with a boozy brunch**; every other day it opens at 5pm, until 11pm Monday to Wednesday and Sunday and midnight Thursday to Saturday.
 
-Eleven sources name it, more than any other bar that is hidden behind another business. No drink prices are published.
+Eleven sources name it, more than any other bar that is hidden behind another business.
 
 ### Barts, Chelsea — the password
 
 *£££ · Chelsea Cloisters, Sloane Avenue, SW3 · Cited by 8 sources · [the bar's site](https://www.barts-london.com/)*
 
-**The only bar on this page that asks for a password.** Barts' own story sends you to "an unmarked black door at the back of the building on the ground floor" of Chelsea Cloisters, an apartment block off Sloane Avenue, dressed inside as the Chicago flat of a 1920s gangster called Uncle Barts. "To gain entry, you'll need the password, whispered only to those in the know."
+**The only bar on this page that asks for a password.** Barts' own story sends you to "an unmarked black door at the back of the building on the ground floor" of Chelsea Cloisters, an apartment block off Sloane Avenue, dressed inside as a 1920s gangster's Chicago flat. "To gain entry, you'll need the password, whispered only to those in the know."
 
 ![The bar room at Barts, with fringed lampshades, framed pictures covering the ceiling, patterned armchairs and a doorway to a garden at the back](../../assets/articles/best-speakeasy-bars-london/barts-bar-room.jpg)
 
@@ -184,13 +182,13 @@ Cocktails arrive in antique books and cigar boxes, at **£15 to £17**, with alc
 
 *£££ · 13a Gerrard Street, W1D 5PS · #6 of 11, Time Out · Cited by 7 sources · [the bar's site](https://www.experimentalgroup.com/explore-experimental-cocktail-club)*
 
-The London branch of the Paris bar that opened in 2007. Stylist describes "a discreet, unmarked door" on Gerrard Street and stairs up; the group's own description is a room "perched above Chinatown", designed by Dorothée Meilichzon to look plucked from the 1920s, across three floors of an old townhouse by Time Out's account.
+The London branch of the Paris bar that opened in 2007. Stylist describes "a discreet, unmarked door" on Gerrard Street and stairs up to a room designed by Dorothée Meilichzon to look plucked from the 1920s, across three floors of an old townhouse by Time Out's account.
 
 ![The back bar at Experimental Cocktail Club, shelves of bottles between curved wooden columns, with shakers and glasses on a marble counter](../../assets/articles/best-speakeasy-bars-london/experimental-cocktail-club-back-bar.jpg)
 
 *The back bar at Experimental Cocktail Club.*
 
-The evening runs from an acoustic set to vinyl to deep house as it gets later. **Time Out says half the room is kept back for walk-ins**, so a booking is worth having but not essential; reservations go to reservation@chinatownecc.com or through the group's site. Cocktail prices are not published.
+The evening runs from an acoustic set to vinyl to deep house as it gets later. **Time Out says half the room is kept back for walk-ins**, so a booking is worth having but not essential; reservations go to reservation@chinatownecc.com or through the group's site.
 
 ---
 
@@ -206,7 +204,7 @@ The evening runs from an acoustic set to vinyl to deep house as it gets later. *
 
 *The MacSmiths on Hackney Road. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Natural_Philosopher,_Bethnal_Green,_E2.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-"Enter through The MacSmiths Repair Shop", the bar says, and the front on Hackney Road is still the repair shop's. Behind it is a low-lit cocktail and whisky bar with "an unconventional whisky list that never stands still".
+"Enter through The MacSmiths Repair Shop", the bar says, and the front on Hackney Road is still the repair shop's. Behind it is a low-lit cocktail and whisky bar.
 
 **Every house cocktail, classic and freezer martini is £13.** Before 10pm, every day, the Pickleback Sour, Pickle Martini and Pickle Marg are **£10**, and on Thursdays drams from the "odd bins" shelf are £5.
 
@@ -222,9 +220,7 @@ The evening runs from an acoustic set to vinyl to deep house as it gets later. *
 
 Milroy's, a whisky shop established in 1964, keeps its bar under the shop, and Milroy's own page for it is headed "Through the bookcase, Soho". Time Out describes the bookcase as "unassuming", at the rear of the shop, with stairs down to a small basement where the cocktails are made from potent spirits, whisky included.
 
-A Reddit commenter in 2024 recommended it for the entrance alone. Milroy's lists jazz nights, a seasonal menu and private hire for the room.
-
-**Book through Milroy's site.** Prices are not published.
+Milroy's lists jazz nights, a seasonal menu and private hire for the room. **Book through Milroy's site.**
 
 #### Supermax, King's Cross — under a pizzeria
 
@@ -238,7 +234,7 @@ A Reddit commenter in 2024 recommended it for the entrance alone. Milroy's lists
 
 **Aperitivo hour puts cocktails at £9 until 7pm**, the cheapest standing price of any bar on this page. Later it is a disco bar.
 
-**Open Wednesday to Saturday only:** 5pm to midnight Wednesday and Thursday, 5pm to 1am Friday and Saturday. Its line on booking is "Book up or rock up."
+**Open Wednesday to Saturday only:** 5pm to midnight Wednesday and Thursday, 5pm to 1am Friday and Saturday.
 
 ### Hidden inside a hotel
 
@@ -246,7 +242,7 @@ A Reddit commenter in 2024 recommended it for the entrance alone. Milroy's lists
 
 *£££ · St Martins Lane hotel, WC2N 4HX · Cited by 6 sources · [the bar's site](https://morgansoriginals.com/st-martins-lane/restaurants-bars/blind-spot/)*
 
-The hotel calls it "a secret bar"; a Londoner on Reddit who found it by chance put it better: "it's not signposted or visible from the street". The menu is built as a trip round the world, from Harare to Turin and Havana, and the hotel's pitch is to "spin the globe" and pick a drink.
+The hotel calls it "a secret bar", and a Reddit user says "it's not signposted or visible from the street". The menu is a trip round the world, from Harare to Turin and Havana.
 
 ![Decanters, bottles, cocktail cherries and a mixing glass on silver trays on a marble bar, in front of shelves of bottles lit gold](../../assets/articles/best-speakeasy-bars-london/blind-spot-bar.jpg)
 
@@ -254,17 +250,17 @@ The hotel calls it "a secret bar"; a Londoner on Reddit who found it by chance p
 
 Six sources name it, including The Handbook, London x London, The Sauce and Devour Tours.
 
-**Two-for-one cocktails from 5pm to 7pm every day**; hotel guests get it until 9pm. Book through the hotel's site.
+**Open Tuesday to Thursday 5pm to 1am and Friday and Saturday 5pm to 2am; closed Sunday and Monday.** The second cocktail is free from 5pm to 7pm, Tuesday to Thursday. Book through the hotel's site.
 
 #### Sibin, Westminster — inside the Great Scotland Yard Hotel
 
 *£££ · Great Scotland Yard Hotel, 3-5 Great Scotland Yard, SW1A 2HN · Cited by 3 sources · [the bar's site](https://www.hyattrestaurants.com/en/london/bar/sibin-speakeasy-cocktail-bar)*
 
-The hotel calls it "a clandestine haven" for heritage whiskies, wines and Champagnes, and reviewers quoted on its own page call it "intelligently hidden inside the Great Scotland Yard hotel". The current menu is titled "Tales from a Speakeasy", and the bar runs cocktail masterclasses and live music.
+The hotel calls it "a clandestine haven" for heritage whiskies, wines and Champagnes. The current menu is titled "Tales from a Speakeasy", and the bar runs cocktail masterclasses and live music.
 
-It suits a whisky drinker more than a cocktail crawl. DesignMyNight, The Handbook and The Sauce name it, the last as one of ten secret speakeasies.
+DesignMyNight, The Handbook and The Sauce name it, the last as one of ten secret speakeasies.
 
-**Book through the hotel's site.** No hours or prices are published on its page.
+**Book through the hotel's site.**
 
 ### Behind a false front
 
@@ -272,15 +268,15 @@ It suits a whisky drinker more than a cocktail crawl. DesignMyNight, The Handboo
 
 *£££ · 310c Earls Court Road, SW5 9BA · #11 of 11, Time Out · Cited by 5 sources · [the bar's site](https://www.evansandpeel.com/)*
 
-The bar presents itself as "a highly renowned Detective duo who operate from our hidden Agency": the street door on Earls Court Road leads to a detective's office, and the bar is behind it. "Go beyond our façade and discover our famous secret," as its own site puts it. Time Out describes an intercom at the door and "a dapper chap behind a desk" inside it.
+The bar presents itself as "a highly renowned Detective duo who operate from our hidden Agency": the street door on Earls Court Road leads to a detective's office, and the bar is behind it. Time Out describes an intercom at the door and "a dapper chap behind a desk" inside it.
 
 ![The basement bar at Evans & Peel seen past a red velvet curtain, with candlelit tables, stools along a wooden counter and a tiled floor](../../assets/articles/best-speakeasy-bars-london/evans-and-peel-basement.jpg)
 
 *Inside Evans & Peel Detective Agency.*
 
-Inside it is a basement done as a Prohibition-era den, and the drinks list is a "cocktail notebook". A Reddit commenter's verdict was that "you have to play along with their theme to get it".
+Inside it is a basement done as a Prohibition-era den, and the drinks list is a "cocktail notebook".
 
-**Book through the bar's site.** Prices are not published.
+**Book through the bar's site.**
 
 ### Behind an unmarked door
 
@@ -288,7 +284,7 @@ Inside it is a basement done as a Prohibition-era den, and the drinks list is a 
 
 *£££ · 8 Broadwick Street, W1F 8HN · Cited by 4 sources · [book a table](https://www.designmynight.com/london/bars/soho/basement-sate?tab=bookings)*
 
-"You won't spot us from the street", the bar says: look for **the red door at 8 Broadwick Street** and go downstairs. It is a low-lit, candlelit room of leather seats, and on Reddit a Londoner gave it the line every bar on this page would want: "Not well sign posted, small and cosy."
+"You won't spot us from the street", the bar says: look for **the red door at 8 Broadwick Street** and go downstairs. It is a low-lit, candlelit room of leather seats.
 
 ![A row of cocktails on a glass table in front of a green buttoned-leather sofa at Basement Sate](../../assets/articles/best-speakeasy-bars-london/basement-sate-cocktails.jpg)
 
@@ -308,8 +304,8 @@ These are named by the same lists, often near the top, but each has its name ove
 
 *Cahoots in Kingly Court. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Cahoots,_Soho,_W1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-* **[Cahoots](https://www.cahoots.co.uk/underground/)**, Kingly Court — **the most-named "speakeasy" in this pass**, a 1940s Underground station in a former air-raid shelter, with seats in a tube carriage. Its own site talks of a "discreet Cahoots sign"; the sign is lit over the door, and on Reddit one regular's view was that "the queue makes it less speakeasy than it would like". Book for a group. Cited by 17 sources.
-* **[Happiness Forgets](https://www.happinessforgets.com/)**, Hoxton Square — a basement cocktail bar at 8-9 Hoxton Square, No.44 in the Top 50 Cocktail Bars 2026, open from 5pm every day. Its own site gives the address and nothing about hiding, and a board on the pavement points the way down. Cited by 9 sources.
+* **[Cahoots](https://www.cahoots.co.uk/underground/)**, Kingly Court — **the most-named "speakeasy" in this pass**, a 1940s Underground station in a former air-raid shelter, with seats in a tube carriage. The sign is lit over the door. Book for a group. Cited by 17 sources.
+* **[Happiness Forgets](https://www.happinessforgets.com/)**, Hoxton Square — a basement cocktail bar at 8-9 Hoxton Square, No.44 in the Top 50 Cocktail Bars 2026, open from 5pm every day. A board on the pavement points the way down. Cited by 9 sources.
 * **[Disrepute](https://www.disrepute.co.uk/)**, Kingly Court — No.45 in the Top 50 Cocktail Bars 2026, with cocktails at £16 to £18 and a 3am close. It calls itself "a hideaway", but its name is lit over the door at 4 Kingly Court. Cited by 7 sources.
 * **[69 Colebrooke Row](https://www.69colebrookerow.com/)**, Angel — Time Out's number one London speakeasy. It calls itself "the Bar with No Name", but the address is printed on the awning over the door. Live piano, house cocktails £15, and booking is advised. Cited by 3 sources.
 
@@ -328,7 +324,7 @@ These are named by the same lists, often near the top, but each has its name ove
 * **Supermax**, King's Cross — **£9 cocktails until 7pm**, Wednesday to Saturday. Cited by 3 sources.
 * **Opium**, Chinatown — **every classic £10 from 5pm to 7pm**, every day. Cited by 9 sources.
 * **The Natural Philosopher**, Bethnal Green — pickle cocktails **£10 before 10pm**, everything else £13. Cited by 6 sources.
-* **Blind Spot**, Covent Garden — **two-for-one from 5pm to 7pm** every day. Cited by 6 sources.
+* **Blind Spot**, Covent Garden — **second cocktail free from 5pm to 7pm**, Tuesday to Thursday. Cited by 6 sources.
 * **Basement Sate**, Soho — the list starts at **£13**. Cited by 4 sources.
 
 ## Late
