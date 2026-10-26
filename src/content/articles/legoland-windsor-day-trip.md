@@ -3,8 +3,8 @@ title: "LEGOLAND Windsor from London: Tickets, Trains, Height Limits and Queues"
 seoTitle: "LEGOLAND Windsor Tickets and Travel from London"
 description: "LEGOLAND Windsor costs from £32 booked online at least a day ahead and £68 on the day. The train-and-bus route from Paddington or Waterloo, the 702 bus from Victoria, every height limit, Fastrack prices and the 2026–27 closed dates."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-17
-reviewBy: 2027-01-02
+updatedAt: 2026-10-26
+reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -28,16 +28,16 @@ faq:
   - q: "Can you take a picnic into LEGOLAND Windsor?"
     a: "Yes. Food from outside is allowed. There is little covered seating, the lockers are too small for a cool box, and LEGOLAND suggests leaving it in the car and getting a hand stamp to go out and fetch it at lunch. No glass and no alcohol."
   - q: "When is LEGOLAND Windsor closed?"
-    a: "After Brick or Treat ends on 1 November 2026 the park opens only on selected days: 7 November, 21 November and the Christmas dates from 28 November. It is closed 24 to 26 December, then from 3 January to 10 February 2027, and the main 2027 season starts on 12 March."
+    a: "After Brick or Treat ends on 1 November 2026 the park opens only on selected days: 7 November, then the Christmas dates from 21 November to 3 January 2027. It is closed 24 to 26 December, then from 4 January to 11 February 2027, and the main 2027 season starts on 12 March."
 ---
 
-**LEGOLAND Windsor costs from £32 a person booked online at least a day ahead, and £68 if you buy on the day.** That gap is the whole ticket strategy: LEGOLAND charges the same for adults and children, lets anyone under 90cm in free, and keeps its lowest prices for off-peak dates booked at least five days out.
+**LEGOLAND Windsor costs from £32 a person booked online at least a day ahead, and £68 if you buy on the day.** LEGOLAND charges the same for adults and children, lets anyone under 90cm in free, and keeps its lowest prices for off-peak dates booked at least five days out.
 
-LEGOLAND designs it for children aged 2 to 12: over 55 rides and attractions on a steep hillside two miles from Windsor town centre. From London it is a train and a short bus ride, or one direct bus from Victoria.
+The park is built for children aged 2 to 12, with over 55 rides and attractions on a steep hillside two miles from Windsor town centre. From London it is a train and a short bus ride, or one direct bus from Victoria.
 
-> 💡 **The Short Version:** **Built for ages 2 to 12**; under-90cm children are free, and the fastest coaster tops out at 30mph. **Tickets from £32 online, booked at least a day ahead; £68 on the day.** Go by **train to Windsor and the 702 or 703 bus** (about 15 minutes, £3), or the **702 direct from Victoria**. Parking is **£13 online, £15 on the day**. Arriving by National Rail? The **Days Out Guide takes a third off**. **Would rather keep the option to cancel?** <a href="https://www.getyourguide.com/activity/-t111115?partner_id=WWP7I0R&amp;cmp=legoland-windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide sells the same ticket from £32</a> with free cancellation up to 24 hours ahead, which LEGOLAND's own tickets do not have. **The trap is the calendar:** the park is shut most weekdays from November to February, and closed outright from **3 January to 10 February 2027**.
+> 💡 **The Short Version:** **Built for ages 2 to 12**; under-90cm children are free, and the fastest coaster tops out at 30mph. **Tickets from £32 online, booked at least a day ahead; £68 on the day.** Go by **train to Windsor and the 702 or 703 bus** (about 15 minutes, £3), or the **702 direct from Victoria**. Parking is **£13 online, £15 on the day**. Arriving by National Rail? The **Days Out Guide takes a third off**. **Would rather keep the option to cancel?** <a href="https://www.getyourguide.com/activity/-t111115?partner_id=WWP7I0R&amp;cmp=legoland-windsor-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide sells the same ticket from £32</a> with free cancellation up to 24 hours ahead, which LEGOLAND's own tickets do not have. **The trap is the calendar:** the park is shut most weekdays from November to February, and closed outright from **4 January to 11 February 2027**.
 
-> ⚠️ **Great Western trains do not run between Paddington and Slough from Sunday 27 to Wednesday 30 December 2026, and from 31 December to 3 January the Elizabeth line stops at Hayes & Harlington, with replacement buses on to Slough.** LEGOLAND reopens on 27 December, so allow extra time on the Paddington route or use Waterloo to Windsor & Eton Riverside, where South Western Railway has engineering work ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
+> ⚠️ **Engineering work at Slough affects the Paddington route on LEGOLAND open days.** On 28 and 29 November 2026, buses replace trains between Ealing Broadway and Slough. Great Western trains do not run between Paddington and Slough from Sunday 27 to Wednesday 30 December, and from 31 December to 3 January the Elizabeth line stops at Hayes & Harlington, with replacement buses on to Slough. Allow extra time, or use Waterloo to Windsor & Eton Riverside: South Western Railway has engineering work over Christmas, and its trains will be extremely busy on 28 and 29 November because of the rugby at Twickenham ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
 ## What tickets cost
 
@@ -50,7 +50,7 @@ LEGOLAND designs it for children aged 2 to 12: over 55 rides and attractions on 
 | Brick or Treat (Halloween) days | From £37 online |
 | LEGOLAND at Christmas days | From £34 online, £68 on the day |
 
-*Prices for October 2026 onwards, from LEGOLAND's own booking pages.*
+*Prices for October 2026 onwards.*
 
 **There is no family ticket and no child rate.** Everyone over 90cm pays the same, adult or child, and LEGOLAND offers no senior or non-rider price. Children under 14 must be with someone aged 18 or over.
 
@@ -58,7 +58,7 @@ LEGOLAND designs it for children aged 2 to 12: over 55 rides and attractions on 
 
 **Tickets are non-refundable.** You can move the date yourself through LEGOLAND's Manage My Booking up to 24 hours before, to a comparable date within seven days of the original, up to three times. A weekday ticket cannot be moved to a weekend.
 
-**Everyone pre-books, pass holders included.** LEGOLAND manages capacity this way, and on peak days the park can fill.
+**Everyone pre-books, pass holders included**, and on peak days the park can fill.
 
 ### The cheapest legitimate routes
 
@@ -67,7 +67,7 @@ LEGOLAND designs it for children aged 2 to 12: over 55 rides and attractions on 
 - **The LEGOLAND Annual Pass is £64**, and covers Brick or Treat and Christmas. Two visits on £32 days already cost the same.
 - **A Merlin Annual Pass** also covers Chessington, SEA LIFE and the rest of Merlin's 20-plus UK attractions: Essential £139, Gold £239 (includes free parking at LEGOLAND), Platinum £299 (no exclusion dates and one free One Shot Fastrack per visit).
 
-LEGOLAND's own site lists no two-for-one offer. The Days Out Guide discount above is a third off, not half.
+There is no two-for-one offer: the Days Out Guide discount is a third off.
 
 ## Booking through GetYourGuide
 
@@ -91,11 +91,11 @@ Two products:
 
 *Single fares on contactless; our [Windsor guide](/articles/windsor-day-trip/) has the peak times and the Oyster rules for both stations.*
 
-**From either station, walk to the Windsor Parish Church stop and take the 702 or 703.** Between them they run about every half hour to LEGOLAND's main entrance, in about 15 minutes, and every single fare on Reading Buses' Windsor Express routes is **capped at £3**. The buses take cash, contactless and the Windsor Express app. LEGOLAND mentions a separate shuttle from near both stations, but says it is chargeable and not run by the park; the 702 and 703 are the ones with a published fare.
+**From either station, walk to the Windsor Parish Church stop and take the 702 or 703.** Between them they run about every half hour to LEGOLAND's main entrance, in about 15 minutes, and every single fare on Reading Buses' Windsor Express routes is **capped at £3**. The buses take cash, contactless and the Windsor Express app. LEGOLAND mentions a separate chargeable shuttle from near both stations, not run by the park.
 
 ### The 702 direct from Victoria
 
-Reading Buses' **702** runs **hourly from Buckingham Palace Road, Victoria**, through Hyde Park Corner, the Royal Albert Hall, Kensington and Hammersmith to LEGOLAND's main entrance. It takes **about two hours**, for the same **£3 single** or a **£6 return** bought on the bus. In the timetable that started on 28 March 2026, the Saturday 07:30 from Victoria reaches the gate at 09:23: cheap, but slow next to the train, and easiest for anyone staying in west London.
+Reading Buses' **702** runs **hourly from Buckingham Palace Road, Victoria**, through Hyde Park Corner, the Royal Albert Hall, Kensington and Hammersmith to LEGOLAND's main entrance. It takes **about two hours**, for the same **£3 single** or a **£6 return** bought on the bus. It is cheap but slow next to the train, and easiest for anyone staying in west London.
 
 ### Driving
 
@@ -113,16 +113,15 @@ The barriers read number plates, so add your registration when you book. Going h
 
 | Period | Days | Hours |
 | --- | --- | --- |
-| **October 2026** | Daily except Wednesday 7 October | 10:00 to 16:30 on term-time weekdays, to 17:00 on Fridays, to 18:00 at weekends and in half-term |
-| **Brick or Treat** | 10–11 October and 17 October to 1 November 2026 | 10:00 to 18:00 |
-| **November 2026** | Saturday 7 and Saturday 21 November only, plus a pass holders' day on 8 November | 10:00 to 17:00 |
-| **LEGOLAND at Christmas** | 28–29 November, 5–6, 12–14 and 17–23 December 2026, 27 December to 2 January 2027 | 10:00 to 17:00 |
-| **February 2027** | 11–13, 15–22 and 27–28 February | 10:00 to 16:30 or 17:00 |
+| **Brick or Treat** | Daily until 1 November 2026 | 10:00 to 18:00 |
+| **November 2026** | Saturday 7 November only, plus a pass holders' day on 8 November | 10:00 to 17:00 |
+| **LEGOLAND at Christmas** | 21 and 28–29 November, 5–6, 12–14 and 17–23 December 2026, 27 December to 3 January 2027 | 10:00 to 17:00 |
+| **February 2027** | 12–13, 15–22 and 27–28 February | 10:00 to 16:30 or 17:00 |
 | **2027 main season** | Daily from 12 March 2027, apart from some term-time Wednesdays | 10:00 to 16:30–18:00 |
 
-**Last entry is an hour before closing**, and ride queues close up to 30 minutes before the park does. The 2027 term-time Wednesday closures in the calendar so far are 17 March, 21 and 28 April, 12 and 19 May, and 15, 22 and 29 September; check [LEGOLAND's opening calendar](https://www.legoland.co.uk/plan-your-day/before-you-visit/opening-hours/) before you book trains.
+**Last entry is an hour before closing**, and ride queues close up to 30 minutes before the park does. The 2027 term-time Wednesday closures are 17 March, 21 and 28 April, 12 and 19 May, 8, 15, 22 and 29 September and 6 October; check [LEGOLAND's opening calendar](https://www.legoland.co.uk/plan-your-day/before-you-visit/opening-hours/) before you book trains.
 
-> ⚠️ **LEGOLAND is closed 24 to 26 December 2026 and from 3 January to 10 February 2027.** Outside the Christmas dates, November and January are almost entirely shut. The water play areas, Splash Safari and Drench Towers, only open from May half-term to early September.
+> ⚠️ **LEGOLAND is closed 24 to 26 December 2026 and from 4 January to 11 February 2027.** Outside the event dates, November and January are shut. The water play areas, Splash Safari and Drench Towers, only open from May half-term to early September.
 
 ## Rides, and who they suit
 
@@ -176,7 +175,7 @@ For under-fives, **DUPLO Valley** has the gentlest rides: the DUPLO Express trai
 
 **The longest average waits in 2025** were Flight of the Sky Lion (34 minutes), Coastguard HQ (33), Fire Academy (31), Pirate Falls (30) and Laser Raiders (29). Do two of those before 11:00.
 
-**Start at the back of the park.** Rides open at 10:00, and LEGOLAND's own advice is that the attractions near the entrance are busiest in the morning; it suggests The Dragon, Driving School, Pirate Falls and LEGO Mythica first thing or late in the afternoon. The LEGO Store is quietest between 12:00 and 16:00, and anything you buy can wait at Shopper Services until you leave.
+**Start at the back of the park.** Rides open at 10:00. LEGOLAND says the attractions near the entrance are busiest in the morning, and suggests The Dragon, Driving School, Pirate Falls and LEGO Mythica first thing or late in the afternoon. The LEGO Store is quietest between 12:00 and 16:00, and anything you buy can wait at Shopper Services until you leave.
 
 ### Fastrack
 
@@ -187,7 +186,7 @@ For under-fives, **DUPLO Valley** has the gentlest rides: the DUPLO Express trai
 | **Gold** | From £75 | Unlimited Fastrack all day |
 | One Shot | Varies | One ride, while they last |
 
-Fastrack does not include park entry. Each ticket is for one person, has no time slots, and scans once every three minutes; numbers are limited, so book ahead for a busy day. It replaced the older Reserve & Ride system.
+Fastrack does not include park entry. Each ticket is for one person, has no time slots, and scans once every three minutes; numbers are limited, so book ahead for a busy day.
 
 **Ride Access Pass** is LEGOLAND's queueing help for disabled guests, pre-booked through its app. LEGOLAND says it will move to virtual queuing from the end of 2026, with the same eligibility.
 
@@ -207,7 +206,7 @@ Fastrack does not include park entry. Each ticket is for one person, has no time
 
 **Brick or Treat** runs on **10–11 October and from 17 October to 1 November 2026**, with tickets from £37 online. It is Halloween for young children, not a scare event: Lord Vampyre's House Party show, a Monster Jam show, a disco on The Dragon, LEGO Monsters to meet, and the usual rides. Costumes are encouraged; full face masks and imitation weapons are not allowed. For scare mazes aimed at teenagers, our [Halloween in London guide](/articles/halloween-london/) covers Thorpe Park's Fright Nights.
 
-**LEGOLAND at Christmas** runs on the selected dates in the opening table, from 21 November 2026 to 2 January 2027, with tickets from £34 online and £68 on the day. Over 20 rides run, including The Dragon, NINJAGO and Driving School, alongside festive shows and LEGO Santa. Meeting Father Christmas in his grotto is **from £27.50 per child** extra, with a LEGO gift, and does not include entry. More festive days out are in our [Christmas in London guide](/articles/christmas-in-london/).
+**LEGOLAND at Christmas** runs on the selected dates in the opening table, from 21 November 2026 to 3 January 2027, with tickets from £34 online and £68 on the day. Over 20 rides run, including The Dragon, NINJAGO and Driving School, alongside festive shows and LEGO Santa. Meeting Father Christmas in his grotto is **from £27.50 per child** extra, with a LEGO gift, and does not include entry. More festive days out are in our [Christmas in London guide](/articles/christmas-in-london/).
 
 ## Staying over
 
@@ -217,19 +216,16 @@ LEGOLAND's three on-site hotels are sold as short breaks that include a day's pa
 - **[The LEGOLAND Castle Hotel](https://www.legoland.co.uk/short-breaks/accommodation/the-legoland-castle-hotel/)**, LEGOLAND's site — next door, knight and wizard rooms, with use of the Resort Hotel's pool and playroom.
 - **[LEGOLAND Woodland Village](https://www.legoland.co.uk/short-breaks/accommodation/legoland-woodland-village/)**, LEGOLAND's site — lodges for five or seven and glamping-style barrels for four, a few minutes' walk from the main entrance. Christmas breaks here start from £85 a person.
 
-Windsor itself is two miles away; our [Windsor day trip guide](/articles/windsor-day-trip/) covers the castle and the town, which make a second day, not an add-on.
+Windsor is two miles away; our [Windsor day trip guide](/articles/windsor-day-trip/) covers the castle and the town, which make a second day.
 
 <div data-stay-strip></div>
 
 ## What people get wrong
 
-- **Buying on the day.** Even online from the car park, it is £68.
-- **Paying for a toddler.** Under 90cm, in shoes, is free whatever their age.
 - **Going on a closed day.** Most of November, January and early February, and some term-time Wednesdays.
 - **Bringing teenagers for thrills.** The fastest coaster tops out at 30mph; [Thorpe Park](/articles/thorpe-park-day-trip/) is built for them.
 - **Booking Bronze Fastrack for the longest queues.** It excludes Flight of the Sky Lion, Coastguard HQ and Hydra's Challenge.
 - **Tapping in with contactless and then trying the Days Out Guide discount.** It needs a National Rail ticket.
-- **Bringing a scooter.** It stays at Guest Services all day.
 
 ## Continue planning your London trip
 
