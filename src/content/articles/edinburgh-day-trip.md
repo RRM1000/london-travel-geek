@@ -3,7 +3,8 @@ title: "Edinburgh from London: The Trains, the Castle and the Case for a Night"
 seoTitle: "Edinburgh Day Trip from London: Trains and Fares"
 description: "King's Cross to Edinburgh Waverley is from 4h08 on LNER's fastest trains, Advance singles from £41.40; Lumo runs the same route from £31.90. Edinburgh Castle is £23.50 booked online, and a same-day return leaves too little time — one night works far better."
 publishedAt: 2026-06-20
-reviewBy: 2026-10-28
+updatedAt: 2026-10-26
+reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -21,7 +22,7 @@ faq:
   - q: "Can you do Edinburgh as a genuine day trip from London?"
     a: "Only if you're prepared for a very long day. Even on LNER's fastest scheduled service, the round trip alone is over 8 hours; most trains push that closer to 9. GetYourGuide's own escorted rail day trip from London books a 15-hour day door-to-door and still only fits in Edinburgh Castle and a hop-on-hop-off bus loop — an independent match for how little slack a same-day return actually leaves. One night in the city, rather than a same-day return, is the trip that works."
   - q: "How much are Edinburgh Castle tickets, and do you need to book ahead?"
-    a: "£23.50 online for an adult against £26.00 bought at the gate; concessions (65+ or unemployed, not students) are £19.00 online and £21.00 on the day, and a child aged 7 to 15 is £14.00 or £15.50. A Flexi Ticket (£38.00 adult, online only) skips the timed slot and lets you visit any day within a 7-day window instead of a fixed date. The castle's own advice is to book online in advance, especially over summer — tickets sell out, and once they're gone online there are no further tickets at the castle. Checked on the castle's own site, 28 September 2026."
+    a: "£23.50 online for an adult against £26.00 bought at the gate; concessions (65+ or unemployed, not students) are £19.00 online and £21.00 on the day, and a child aged 7 to 15 is £11.50 or £13.00. A Flexi Ticket (£38.00 adult, online only) skips the timed slot and lets you visit any day within a 7-day window instead of a fixed date. The castle's own advice is to book online in advance, especially over summer — tickets sell out, and once they're gone online there are no further tickets at the castle. Checked on the castle's own site, 28 September 2026."
   - q: "Is the GetYourGuide day trip to Edinburgh worth booking instead of doing it yourself?"
     a: "It depends what you're paying for. 'From London: Day Trip to Edinburgh by Rail with Castle Entry' bundles the train, a hop-on-hop-off bus tour and castle entry for £219 (3.8 stars, 87 reviews) — cheaper than pricing the same pieces separately once you add an LNER Advance return and a castle ticket, but you're locked into its 15-hour schedule. 'Edinburgh: The Royal City Tour from London' costs £239, rated higher at 4.4 stars but on only 35 reviews, and its own listing describes it as an unescorted rail trip rather than a guided day out — you're mostly paying for organised train tickets. Booking it yourself on LNER or Lumo, and the castle direct, costs less than either and lets you set your own timetable."
   - q: "Where's the best place to stay in Edinburgh for a one-night trip?"
@@ -59,7 +60,7 @@ That's the maths this guide works through — what a same-day return to Edinburg
 | Advance single, with a railcard | **£27.55** |
 | Booking window | Released around **12 weeks** ahead |
 
-LNER's own figures, checked 28 September 2026. The 4h08 fastest time only applies to the newer, faster hourly trains introduced with the 14 December timetable change — LNER's own route page is explicit that this covers about a quarter of weekday departures, so don't assume every train you can book runs that fast. Book as far ahead as the 12-week Advance window allows for the cheapest fare; both figures above are one-way, so a return is roughly double.
+LNER's own figures. The 4h08 fastest time only applies to the newer, faster hourly trains introduced with the 14 December timetable change — LNER's own route page is explicit that this covers about a quarter of weekday departures, so don't assume every train you can book runs that fast. Book as far ahead as the 12-week Advance window allows for the cheapest fare; both figures above are one-way, so a return is roughly double.
 
 ### Lumo, the budget alternative
 
@@ -125,7 +126,7 @@ This is why most people make the trip, and it's the one attraction in this guide
 | --- | --- | --- |
 | **Adult (16–64)** | **£23.50** | **£26.00** |
 | Concession (65+, unemployed — not students) | £19.00 | £21.00 |
-| **Child (7–15)** | **£14.00** | £15.50 |
+| **Child (7–15)** | **£11.50** | £13.00 |
 | Adult Flexi Ticket | £38.00 | n/a |
 | Concession Flexi Ticket | £30.50 | n/a |
 | Child Flexi Ticket | £22.50 | n/a |
@@ -149,7 +150,7 @@ This is why most people make the trip, and it's the one attraction in this guide
 | 1 January | 11am | 4pm | 5pm |
 | 2 January – 31 March | 9:30am | 4pm | 5pm |
 
-Checked on the castle's own site, 28 September 2026 — the castle switches from summer to winter hours on 1 October, so check which season applies to your date.
+The castle is on its winter hours until 31 March.
 
 ## The rest of the Old Town
 

@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:View_of_a_Christmas_tr
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
-reviewBy: 2026-10-27
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites:
   - london
 canonicalSite: london
@@ -109,7 +109,7 @@ Mark Birley opened Annabel's as a basement nightclub at 44 Berkeley Square in 19
 
 *Annabel's, Berkeley Square. Photo: [Robert Lamb](https://commons.wikimedia.org/wiki/File:View_of_a_Christmas_tree_covering_the_front_of_Annabel%27s_Club_on_Berkeley_Square_-_geograph.org.uk_-_6342705.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**The way in without joining:** because the house is listed, Westminster requires public access, and Annabel's runs **tours of the staircase and the principal rooms** on the ground and first floors. The 2026 dates are Monday 16 February, Friday 10 April, Saturday 12 September (open to under-18s) and **Monday 26 October**, with tours on the hour from 9am to 4pm for up to 12 people. Email reservations@annabels.co.uk with a date, time and party size. The dress code applies to visitors too.
+**The way in without joining:** because the house is listed, Westminster requires public access, and Annabel's runs **tours of the staircase and the principal rooms** on the ground and first floors. The 2026 dates were Monday 16 February, Friday 10 April, Saturday 12 September (open to under-18s) and **Monday 26 October**, with tours on the hour from 9am to 4pm for up to 12 people. Email reservations@annabels.co.uk with a date, time and party size. The dress code applies to visitors too.
 
 ### Ned's Club at The Ned
 

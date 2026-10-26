@@ -3,8 +3,8 @@ title: "Canterbury, Dover and Leeds Castle from London: Trains vs the Tour"
 seoTitle: "Canterbury and Dover Day Trip from London: Trains"
 description: "St Pancras to Canterbury West is under an hour on Southeastern's high-speed line, against 1h30 from Victoria to Canterbury East. Dover Castle costs from £24.65 and Canterbury Cathedral from £18. Leeds Castle has no useful station, so seeing all three in one day means the £79-£125 coach tours instead."
 publishedAt: 2026-06-20
-updatedAt: 2026-09-28
-reviewBy: 2026-10-28
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -22,7 +22,7 @@ faq:
   - q: "What does Canterbury Cathedral cost and when is it open?"
     a: "£19.50 for an adult booked in the April–September season, dropping to £18.00 from October to March; weekends in July and August are £21.00. Kids go free every day. Opening hours are Monday to Saturday 10:00–17:00 (last admission 16:00) and Sunday 11:30–17:00, though the grounds and shop open from 11:30 on Sundays with the church itself opening at 12:30."
   - q: "How much is Dover Castle, and does it include the tunnels?"
-    a: "Yes — the Secret Wartime Tunnels tour is included in the standard admission. An adult pays £24.65 on the cheaper days and £27.03 on the dearer ones (add roughly 10% for Gift Aid); from 19 October 2026 the weekend is the cheaper end and the castle opens 10:00–16:00."
+    a: "Yes — the Secret Wartime Tunnels tour is included in the standard admission. An adult pays £24.65 on the cheaper days and £27.03 on the dearer ones (add roughly 10% for Gift Aid); since 19 October 2026 the weekend has been the cheaper end and the castle opens 10:00–16:00."
   - q: "Is the White Cliffs walk free?"
     a: "Yes. The clifftop path is open access National Trust land, with the Gateway visitor centre at Langdon Cliffs as the usual starting point for the walk out towards South Foreland Lighthouse. There's no charge to walk it; the Trust charges for parking on site."
   - q: "What's the best tour for doing Leeds Castle, Canterbury and Dover in one day?"
@@ -96,14 +96,13 @@ One station, and the fast line's advantage is bigger than on the Canterbury run.
 
 England's largest castle, and the admission price includes the Secret Wartime Tunnels tour used to run the Dunkirk evacuation.
 
-| Adult admission (with 10% Gift Aid) | To 18 Oct 2026 | From 19 Oct 2026 |
+| Admission from 19 Oct 2026 (with 10% Gift Aid) | Weekday | Weekend |
 | --- | --- | --- |
-| **Weekday** | **£24.65** (£27.20) | £27.03 (£29.75) |
-| **Weekend** | £27.03 (£29.75) | **£24.65** (£27.20) |
-| Child, weekday / weekend | £12.32 / £13.51 | £13.51 / £12.32 |
-| Family (2+3), weekday / weekend | £61.79 / £67.57 | £67.57 / £61.79 |
+| Adult | £27.03 (£29.75) | **£24.65** (£27.20) |
+| Child | £13.51 | £12.32 |
+| Family (2+3) | £67.57 | £61.79 |
 
-**The cheaper day of the week flips at the end of October** — weekdays are the bargain now, weekends are from 19 October. English Heritage members go free. **Hours are daily 10:00–17:00 to 18 October, then 10:00–16:00 from 19 October.**
+**The weekend is the cheaper end since 19 October 2026.** English Heritage members go free. **Hours are daily 10:00–16:00 since 19 October.**
 
 ![Dover Castle's Great Tower, a square stone keep with battlements, rising above the lawn under a clear sky](../../assets/articles/canterbury-dover-day-trip/dover-castle.jpg)
 
@@ -170,7 +169,7 @@ A **16-25 Railcard, Disabled Persons Railcard or Two Together Railcard** cuts a 
 - **Booking a "Canterbury and Dover" tour expecting to see Dover Castle.** Most of them stop at the White Cliffs for a walk; only one of the tours above takes you inside the castle.
 - **Trying to reach Leeds Castle by train without budgeting for the taxi or the walk.** The nearest stations are 70–75 minutes from Victoria, and then still 30–40 minutes on foot from the gate.
 - **Not showing a train ticket at Leeds Castle.** The 20% green-travel discount is only given at the Visitor Centre, on production of the ticket.
-- **Booking Dover Castle without checking which half of the pricing calendar you're in.** The cheap day of the week swaps from weekday to weekend on 19 October.
+- **Booking Dover Castle without checking which half of the pricing calendar you're in.** The cheap day of the week swaps between weekday and weekend during the year; since 19 October 2026 it is the weekend.
 
 All prices and times checked 28 September 2026.
 

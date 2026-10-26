@@ -3,8 +3,8 @@ title: "Amsterdam from London by Eurostar: The Train, the Fares and a Day or a W
 seoTitle: "Day Trip to Amsterdam from London: 4h19, From £39"
 description: "A day trip to Amsterdam from London is possible but tight: 4h19 direct on Eurostar from £39 one-way, plus 75-90 minutes of border checks at each end. One night is better."
 publishedAt: 2026-06-15
-updatedAt: 2026-10-17
-reviewBy: 2026-10-27
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -28,7 +28,7 @@ faq:
   - q: "Do UK travellers need a passport for Amsterdam, and is ETIAS required yet?"
     a: "Yes, a passport, not a driving licence or ID card — issued within the last 10 years and valid for at least 3 months after you leave the Netherlands. EU Entry/Exit System (EES) registration, a passport scan, a photo and, on your first crossing, fingerprints, now happens at the station before you board. ETIAS, the EU's separate pre-travel authorisation for visa-exempt visitors, isn't required yet: the EU dropped its 'last quarter of 2026' target from its own site in August 2026 without setting a new date."
   - q: "How far ahead do Rijksmuseum, Van Gogh Museum and Anne Frank House tickets need to be booked?"
-    a: "Anne Frank House is the strictest: tickets go on sale every Tuesday at 10am CEST for a visit exactly six weeks later, only through its own website, and there's no door sale at all. The Van Gogh Museum is also online-only with no door sale — checked on GetYourGuide on 27 September 2026, its ticket was flagged 'Likely to sell out' with nothing available before 6 October, nine days out. The Rijksmuseum is the easiest of the three: booking is required, but the museum sells remaining tickets at the door subject to availability, and GetYourGuide still had next-day slots when we checked."
+    a: "Anne Frank House is the strictest: tickets go on sale every Tuesday at 10am CEST for a visit exactly six weeks later, only through its own website, and there's no door sale at all. The Van Gogh Museum is also online-only with no door sale, and its tickets sell out days ahead. The Rijksmuseum is the easiest of the three: booking is required, but the museum sells remaining tickets at the door subject to availability."
 ---
 
 **A day trip to Amsterdam from London is possible but tight: St Pancras to Amsterdam Centraal is 4h19 direct on Eurostar (4h09 back), Standard fares start from £39 one-way, and the 75 to 90 minutes of border checks at each end leave under four hours in the city on the realistic train.** That's twice the journey time of the Eurostar to Paris, and the border admin comes at both ends, not just one. A day trip works only for an early riser; a night in the city is what actually lets Amsterdam breathe.
@@ -136,7 +136,7 @@ Amsterdam's big three sights all require a timed-entry ticket, but they don't se
 
 *The Anne Frank House, on the Prinsengracht.*
 
-**The Van Gogh Museum is also online-only, with no ticket sold at the door.** Adult admission is **€25**, students €16, under-18s free, and the museum runs no waiting list if your date shows as sold out. Checked on GetYourGuide on 27 September 2026, the museum's own entry ticket was flagged **"Likely to sell out"** and showed nothing available before **6 October — nine days out**. Book this one as soon as your dates are fixed, not the week before.
+**The Van Gogh Museum is also online-only, with no ticket sold at the door.** Adult admission is **€25**, students €16, under-18s free, and the museum runs no waiting list if your date shows as sold out. Its entry tickets sell out days ahead, so book this one as soon as your dates are fixed, not the week before.
 
 **The Rijksmuseum is the easiest of the three to get into at short notice.** Booking a start time is required for every visitor, including Museumkaart holders, but the museum still sells tickets at the entrance, subject to availability, and its GetYourGuide listing was still showing slots the next day when we checked. Adult admission is **€25**, free for under-18s. The Rijksmuseum and the Van Gogh Museum both sit on Museumplein, a few minutes' walk apart, so a booked Van Gogh slot and a same-day, on-the-door Rijksmuseum visit pair up easily.
 
@@ -164,7 +164,7 @@ Stay by Centraal Station if you have an early train home and want to be close to
 - **Treating Amsterdam like Paris and planning a rushed single day.** The journey alone is twice as long each way; a night changes the trip from a sprint to an actual visit.
 - **Assuming a UK driving licence works.** It doesn't — you need a passport that clears both the 10-year issue rule and the 3-month validity rule.
 
-All prices and times checked 27 September 2026.
+
 
 ## Continue planning your trip
 

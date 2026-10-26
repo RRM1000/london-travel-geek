@@ -3,8 +3,8 @@ title: "Bruges from London: The Eurostar, the Belfry and the Canals"
 seoTitle: "Bruges Day Trip from London: Eurostar and Fares"
 description: "St Pancras to Bruges takes about four hours with a change at Brussels-Midi: Eurostar Standard from £39 one-way, then a Belgian train from €17.60. Arrive 75 minutes early for UK exit and EU entry checks, and the day gives you roughly seven hours in Bruges before the last realistic train home."
 publishedAt: 2026-06-16
-updatedAt: 2026-09-28
-reviewBy: 2026-10-27
+updatedAt: 2026-10-26
+reviewBy: 2026-12-31
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -184,7 +184,7 @@ Stay near Brugge station if the plan is an early train home or on to Ghent or Br
 - **Visiting on a day the Belfry is shut for maintenance.** Check the 19–22 October 2026 closure before booking a specific date.
 - **Expecting the beguines' courtyard to be a normal tourist stop.** The Begijnhof is still lived in, and the City of Bruges asks for real quiet, not just lowered voices.
 
-All prices and times checked 27 September 2026.
+
 
 ## Continue planning your trip
 
