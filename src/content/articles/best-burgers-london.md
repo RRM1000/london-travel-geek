@@ -3,7 +3,8 @@ title: "The Best Burgers in London, Cross-Referenced Across Every Major List and
 seoTitle: "Best Burgers in London 2026: Ranked Across Every List"
 description: "Not our opinion. Every burger here is ranked by how many independent awards, critics and reviewers name it — and by what the National Burger Awards judges actually cooked against."
 publishedAt: 2026-08-31
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2027-03-17
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -15,7 +16,7 @@ faq:
   - q: "Which London burger won the National Burger Awards 2026?"
     a: "Honest Burgers, with 'The Honest' — dry-aged beef, thick-cut Wiltshire bacon, beef and onion relish, XL cheese, pickles and diced onion. It is served only at the Smash + Grab site on Liverpool Street, not across the chain. Burger & Beyond came second in the signature round."
   - q: "Do I need to book a table for a burger in London?"
-    a: "Mostly no. Bleecker, Supernova, Jupiter Burger, Manna and the market stalls are walk-in only. The exceptions are the restaurants that happen to serve a great burger rather than burger shops: Dove and Vesper make about ten a service and go early, Blacklock and Dover Street Counter take bookings, and Burger & Lobster is bookable too. One Club Row is the hard one to book — try its walk-in light box outside, or a lunch slot."
+    a: "Mostly no. Bleecker, Supernova, Jupiter Burger, Manna and the market stalls are walk-in only. The exceptions are restaurants rather than burger shops: Dove and Vesper make about ten a service and go early, Blacklock and Dover Street Counter take bookings, and Burger & Lobster is bookable too. One Club Row is the hard one to book — try its walk-in light box outside, or a lunch slot."
   - q: "Where can I get a cheap burger in London?"
     a: "Jupiter Burger at Netil Market, Manna inside Arcade Food Hall, Mother Flipper at Brockley Market and Buk in Camden all come in well under £15. Honest Burgers and Beer + Burger Store are the cheapest of the sit-down options."
   - q: "What is a smash burger, and is that all London does now?"
@@ -24,11 +25,11 @@ heroImage: "../../assets/articles/best-burgers-london/patty-and-bun.jpg"
 heroImageAlt: "A cheeseburger with a slice of melted cheese, pink pickled onion and lettuce in a glazed bun, next to a metal bucket of thick-cut chips"
 ---
 
-London's burger argument comes down to two shapes. There is the **smash** — a thin patty pressed hard onto the hot plate so the crust caramelises edge to edge — and there is the **thick dry-aged patty**, cooked pink and treated like a small steak. Almost every place below is committed to one or the other, and knowing which you prefer narrows this list by half before you read a word of it.
+London's burgers come in two shapes: the **smash**, a thin patty pressed hard onto the hot plate so the crust caramelises edge to edge, and the **thick dry-aged patty**, cooked pink and treated like a small steak. Almost every place below commits to one, and knowing which you prefer halves the list.
 
-So rather than add another opinion, we counted. Every restaurant below is ranked by **how many independent awards, critics and reviewers named it**, with the judged award weighted above the press and the press above the listings sites. Where they disagree, that disagreement is the interesting part, and it gets its own section.
+Every restaurant below is ranked by **how many independent awards, critics and reviewers named it**, with the judged award weighted above the press and the press above the listings sites. Where they disagree, it gets its own section.
 
-> 💡 **The Short Version:** **Bleecker** and **The Plimsoll** are level at the top on seven sources each. **Honest Burgers** won the National Burger Awards 2026 — but only at one branch. **Supernova** is the best thing in Soho with a 25-word menu. **Dove** makes ten burgers a night and stops. And **Jupiter Burger** is the best £10 of the lot.
+> 💡 **The Short Version:** **Bleecker** and **The Plimsoll** are level at the top on seven sources each. **Honest Burgers** won the National Burger Awards 2026 — but only at one branch. **Supernova** in Soho runs a 25-word menu. **Dove** makes ten burgers a night and stops. And **Jupiter Burger** at Netil Market sells two burgers and nothing else.
 
 > 📊 **The evidence behind this guide.**
 > **9 sources carrying 110 citations** across **49 named burgers**. **24 are named by two or more independent sources; 6 carry a dated award.**
@@ -54,7 +55,7 @@ So rather than add another opinion, we counted. Every restaurant below is ranked
 
 ## The two number ones
 
-Two restaurants sit level at the top on seven sources each, and they are not doing remotely the same thing. **Bleecker** is a burger shop that has been making one burger for a decade. **The Plimsoll** is a Finsbury Park pub whose kitchen happens to make the burger critics keep writing about. A third name, **Honest Burgers**, holds the only trophy in the room. The section below is why all three answers are defensible.
+Two restaurants sit level at the top on seven sources each. **Bleecker** is a burger shop; **The Plimsoll** is a Finsbury Park pub whose kitchen makes the burger critics keep writing about. A third name, **Honest Burgers**, holds the 2026 trophy.
 
 ### Bleecker, Victoria, Soho and Baker Street
 
@@ -64,13 +65,13 @@ Two restaurants sit level at the top on seven sources each, and they are not doi
 
 *Bleecker's double cheeseburger.*
 
-**The one that most London burger arguments end at**, and the only name here that appears on every kind of list — the award shortlist, the critics, the listings sites and the tourist board.
+**The only name here that appears on every kind of list**: the award shortlist, the critics, the listings sites and the tourist board.
 
-The menu is deliberately tiny: **a cheeseburger, a double, a bacon double, and a blue cheeseburger** built on dry-aged beef with a crust that comes off a hard sear rather than a long cook. Nothing is garnished into complication — no lettuce, no tomato, no aioli of anything. The **Bacon Double** is what it took to the National Burger Awards 2026 final.
+The menu is tiny: **a cheeseburger, a double, a bacon double, and a blue cheeseburger**, on dry-aged beef with a crust from a hard sear. There is no lettuce or tomato. The **Bacon Double** is what it took to the National Burger Awards 2026 final.
 
-Add a malted shake, which is on the menu for the specific job of cutting through the salt and fat. It started as a truck in 2012 and the shops still feel like one: counters, paper, no ceremony.
+Add a malted shake to cut through the salt and fat. The shops are counters and paper, no ceremony.
 
-**££, walk-in, no bookings.** Victoria, Soho and Baker Street among others, and the queues move because the kitchen only makes four things.
+**££, walk-in, no bookings.** Victoria, Soho and Baker Street among others; queues move because the kitchen makes four things.
 
 ### The Plimsoll, Finsbury Park
 
@@ -80,11 +81,11 @@ Add a malted shake, which is on the menu for the specific job of cutting through
 
 *The Plimsoll's Dexter cheeseburger.*
 
-**A modern Finsbury Park pub with the most-written-about burger in London**, cooked by the chef duo Four Legs — which is why some sources file it under Four Legs and some under the pub. It is one burger, in one room.
+**A modern Finsbury Park pub whose burger is cooked by the chef duo Four Legs**, so some sources file it under Four Legs and some under the pub.
 
-The **Dexter cheeseburger** is the order, and it is restrained: a Dexter beef patty, diced onion, pickles, cheese and burger sauce in a soft bun, and **no lettuce and no tomato**. The kitchen has said openly it is aiming at what a McDonald's does and doing it with better beef, which is a plainer description than most burger menus manage.
+The **Dexter cheeseburger** is the order: a Dexter beef patty, diced onion, pickles, cheese and burger sauce in a soft bun, and **no lettuce and no tomato**. The kitchen has said it is aiming at a McDonald's burger made with better beef.
 
-Beyond it the pub cooks a proper seasonal menu and pours a serious pint, so this is a night out rather than a counter stop.
+The pub also cooks a seasonal menu, so this is a night out rather than a counter stop.
 
 **££, and it does not take bookings for the burger** — turn up, put your name down, drink while you wait. Busiest from seven and at weekends.
 
@@ -96,13 +97,13 @@ Beyond it the pub cooks a proper seasonal menu and pours a serious pint, so this
 
 *Honest's cheeseburger.*
 
-**The only burger in this guide that actually won something in 2026** — and the detail everyone drops is that the winning burger is served at one address.
+**The 2026 National Burger Awards winner**, and the winning burger is served at one address.
 
-**The Honest** took the National Burger Awards outright: dry-aged beef from the company's own butchery, thick-cut Wiltshire bacon, a beef and onion relish, XL cheese, house pickles and diced onion. **It is on the menu only at the Smash + Grab site on Liverpool Street**, not at the other forty-odd branches, so ordering "the Honest" elsewhere does not get you the winner.
+**The Honest** took the National Burger Awards outright: dry-aged beef from the company's own butchery, thick-cut Wiltshire bacon, a beef and onion relish, XL cheese, house pickles and diced onion. **It is on the menu only at the Smash + Grab site on Liverpool Street**, not at the chain's other branches, so ordering it elsewhere does not get you the winner.
 
-What the rest of the estate does well is the **local special** — a different burger at each branch, changed regularly. Borough Market runs Brindisa chorizo and raclette; Covent Garden has done Lincolnshire Poacher with bourbon barbecue sriracha and crispy onions. Rosemary salted chips come with everything.
+The other branches each run a **local special**, changed regularly: Borough Market has done Brindisa chorizo and raclette, Covent Garden Lincolnshire Poacher with bourbon barbecue sriracha and crispy onions. Rosemary salted chips come with everything.
 
-**£, walk-in at most sites**, and the cheapest sit-down burger worth crossing a road for. Judges preferring a 46-site chain over the trendy independents is itself the story.
+**£, walk-in at most sites**, among the cheapest sit-down burgers here.
 
 ---
 
@@ -110,13 +111,13 @@ What the rest of the estate does well is the **local special** — a different b
 
 **The award and the critics are not measuring the same burger.**
 
-The National Burger Awards is a live cook-off: sixteen finalists cook their signature burger for judges on one day in March, then cook two more rounds against a set of ingredients. It rewards a kitchen that can execute under pressure — which is why a national chain with a butchery behind it, **Honest Burgers**, beat the independents.
+The National Burger Awards is a live cook-off: sixteen finalists cook their signature burger for judges on one day in March, then cook two more rounds against a set of ingredients. The next is on 16 March 2027. It rewards a kitchen that can execute under pressure, and in 2026 a chain with its own butchery, **Honest Burgers**, beat the independents.
 
-The critics are measuring something else: what it is like to eat there on a Tuesday. That produces a different top of the list — **The Plimsoll**, **Bleecker**, **Black Bear Burger**, **Supernova** — none of which won anything in 2026, and one of which does not enter.
+The critics favour **The Plimsoll**, **Bleecker**, **Black Bear Burger** and **Supernova**, none of which won in 2026; The Plimsoll did not enter.
 
-And the listings sites measure a third thing again: how easy it is to get to. That is why **MEATliquor**, **Burger & Lobster** and **Byron** turn up on Visit London and DesignMyNight and nowhere else in the sources.
+The listings sites favour chains that are easy to reach: **MEATliquor**, **Burger & Lobster** and **Byron** turn up on Visit London and DesignMyNight and nowhere else in the sources.
 
-None of the three is wrong. They answer "best" for different evenings. If you want the burger a jury picked, go to Liverpool Street. If you want the one London's critics keep going back to, go to Finsbury Park.
+For the burger a jury picked, go to Liverpool Street. For the one London's critics keep going back to, go to Finsbury Park.
 
 ---
 
@@ -124,7 +125,7 @@ None of the three is wrong. They answer "best" for different evenings. If you wa
 
 ## Smash burgers
 
-The thin patty pressed hard onto the plancha so the crust caramelises edge to edge. It has taken over London, and these are the ones the sources agree on.
+The smash burgers the sources agree on.
 
 ### Supernova, Soho
 
@@ -134,11 +135,11 @@ The thin patty pressed hard onto the plancha so the crust caramelises edge to ed
 
 *Supernova's House Cheeseburger.*
 
-**A 25-word menu, and one of the best cheeseburgers in central London.** It went viral on the shortness of the offer rather than on any gimmick.
+**A 25-word menu.** It went viral on the shortness of the offer.
 
-The **House Cheeseburger** is a smashed patty with house sauce, and the crust comes off so lacy at the edges that The Infatuation compared it to a doily. Hand-cut fries beside it. That is close to the whole menu.
+The **House Cheeseburger** is a smashed patty with house sauce, and the crust comes off so lacy at the edges that The Infatuation compared it to a doily. Hand-cut fries come beside it.
 
-The room is small, pale and contemporary — closer to a coffee bar than a burger joint — and it does takeaway, which is the right move at lunch.
+The room is small and pale, closer to a coffee bar than a burger joint, and it does takeaway.
 
 **££, walk-in.** Soho, and it queues from about half past twelve.
 
@@ -150,11 +151,11 @@ The room is small, pale and contemporary — closer to a coffee bar than a burge
 
 *Manna's cheeseburger.*
 
-**A smash burger counter inside a food hall**, which makes it the easiest good burger to reach in central London — straight up from the Tottenham Court Road ticket hall.
+**A smash burger counter inside Arcade Food Hall**, straight up from the Tottenham Court Road ticket hall.
 
-The burger is **heavy on cheese, with pickles and diced onion** on a thin, crisp-edged patty. There is a Nashville hot chicken version alongside it that half the queue orders instead.
+The burger is **heavy on cheese, with pickles and diced onion** on a thin, crisp-edged patty. There is a Nashville hot chicken version alongside it.
 
-Being in **Arcade Food Hall** is the practical advantage: everyone you are with can eat something different, nobody has to book, and it is one of very few places in the West End where a good burger costs under a tenner.
+Everyone you are with can eat something different, nobody has to book, and a good burger costs under a tenner.
 
 **£, walk-in, food hall hours.** Order at the counter, sit anywhere.
 
@@ -166,13 +167,13 @@ Being in **Arcade Food Hall** is the practical advantage: everyone you are with 
 
 *Jupiter Burger's cheeseburger.*
 
-**A stall at Netil Market styled as a retro diner**, from the team behind Dom's Subs — and the best value on this page.
+**A stall at Netil Market styled as a retro diner**, from the team behind Dom's Subs.
 
-**Two burgers on the menu and nothing else.** The cheeseburger is a well-seasoned smashed patty on a Martin's potato roll, sized to be eaten with one hand while walking round the market, with hand-cut fries if you want to stop. Nothing about it is complicated and everything about it is balanced.
+**Two burgers on the menu and nothing else.** The cheeseburger is a well-seasoned smashed patty on a Martin's potato roll, small enough to eat one-handed round the market, with hand-cut fries if you want to stop.
 
-Netil Market is a small yard of traders beside Broadway Market, so this works as one stop of several rather than a destination meal.
+Netil Market is a small yard of traders beside Broadway Market.
 
-**£, walk-in, and market hours only** — check the day before travelling, because it is not open every day.
+**£, walk-in, and market hours only**: it is not open every day, so check before travelling.
 
 ### Dumbo, Shoreditch
 
@@ -182,13 +183,13 @@ Netil Market is a small yard of traders beside Broadway Market, so this works as
 
 *Dumbo's smash burger.*
 
-**Paris-born, and the menu runs to four items** — a cheeseburger, an earth burger, nuggets and fries. That is the entire proposition, and it works.
+**Paris-born, with four items on the menu:** a cheeseburger, an earth burger, nuggets and fries.
 
-The smashburgers have **juicy, crispy-edged patties with American cheese, onions, pickles, ketchup and mustard**, assembled the same way every time. The earth burger is the plant-based version and is not an afterthought.
+The smashburgers have **juicy, crispy-edged patties with American cheese, onions, pickles, ketchup and mustard**, assembled the same way every time. The earth burger is the plant-based version.
 
-Minimal room, quick turnover, and it draws a queue that moves.
+Minimal room, quick turnover, a queue that moves.
 
-**£, walk-in.** Shoreditch, and it is one of the cheaper good meals in an area that is not cheap.
+**£, walk-in.** Shoreditch.
 
 ### Bake Street, Hackney
 
@@ -198,11 +199,11 @@ Minimal room, quick turnover, and it draws a queue that moves.
 
 *Bake Street's weekend smashburger.*
 
-**A café that makes a burger good enough to appear on three critics' lists**, which is not a sentence you write often.
+**A bakery and all-day café whose burger is on three critics' lists.**
 
-The smashburger is a **weekend-only item** — this is a bakery and all-day café the rest of the week — and the **Nashville hot chicken** is the alternative when it is on. Everything is made with the care you would expect of a bakery, starting with the bun.
+The smashburger is a **weekend-only item**, and the **Nashville hot chicken** is the alternative when it is on.
 
-**££, walk-in, and check the day**: turning up midweek expecting the burger is the standard mistake here.
+**££, walk-in, and check the day**: the burger is weekends only.
 
 ### Chuck's, Fitzrovia
 
@@ -212,11 +213,11 @@ The smashburger is a **weekend-only item** — this is a bakery and all-day caf�
 
 *Chuck's smash burger.*
 
-**A candlelit den with a natural wine list that also makes a serious smash burger** — an unlikely combination that works because the kitchen refuses to compromise either half.
+**A candlelit den with a natural wine list that also makes a smash burger.**
 
-The signature smashburger comes with **heavily charred edges on a fluffy potato bun**, and the kitchen has a **no-modifications policy**: it arrives as built or not at all. Natural wine by the glass rather than a milkshake, which tells you which evening this is for.
+The signature smashburger comes with **heavily charred edges on a fluffy potato bun**, and the kitchen has a **no-modifications policy**: it arrives as built or not at all.
 
-**££, walk-in.** Fitzrovia, small, and better later than earlier.
+**££, walk-in.** Small, in Fitzrovia.
 
 ### Hanbaagaasuuteeki, Victoria
 
@@ -226,11 +227,11 @@ The signature smashburger comes with **heavily charred edges on a fluffy potato 
 
 *The kimchi double smash.*
 
-**The name translates roughly as "wonderful hamburger steak"**, and the whole restaurant is built on the Japanese *hanbāgu* tradition of treating a burger as a steak dish rather than a sandwich.
+**The name translates roughly as "wonderful hamburger steak"**, and the restaurant is built on the Japanese *hanbāgu* tradition of treating a burger as a steak dish rather than a sandwich.
 
-Smash patties are loaded into **fluffy potato buns with Japanese, Korean, Thai and Chinese flavours** — the seasoning sets it apart, and nothing else in this guide is attempting it.
+Smash patties go into **fluffy potato buns with Japanese, Korean, Thai and Chinese flavours**.
 
-**££, walk-in, open daily 11.30am to 11pm.** Buckingham Palace Road, which is a part of London badly served for anything this interesting.
+**££, walk-in, open daily 11.30am to 11pm.**
 
 ---
 
@@ -238,25 +239,25 @@ Smash patties are loaded into **fluffy potato buns with Japanese, Korean, Thai a
 
 ## Thick patties, and the ones worth booking
 
-The counterweight to the smash burger: a thick, dry-aged patty cooked pink. These are restaurants that make a burger, not burger shops, and several make very few of them.
+A thick, dry-aged patty cooked pink. These are restaurants that make a burger, not burger shops, and several make very few of them.
 
 ### Dove, Notting Hill
 
 *£££ · Notting Hill · book ahead · Cited by 4 sources*
 
-**Ten burgers a service, and when they are gone they are gone.** That single fact is why it appears on every serious list and why most people have never eaten one.
+**Ten burgers a service, and when they are gone they are gone.**
 
-The patty is **50-day dry-aged British beef made from bavette offcuts, seared in beef dripping** for a heavy crust over a pink centre, then finished with **Lyonnaise onions cooked in butter and champagne and a layer of melted gorgonzola**. It is extremely rich — The Infatuation recommends splitting it — and it is a neighbourhood restaurant's idea of a burger rather than a burger shop's.
+The patty is **50-day dry-aged British beef made from bavette offcuts, seared in beef dripping** for a heavy crust over a pink centre, then finished with **Lyonnaise onions cooked in butter and champagne and a layer of melted gorgonzola**. It is very rich; The Infatuation recommends splitting it.
 
-**£££ and you must book**, early in the service. Just off Portobello Road. Everything else on the menu is a proper modern European kitchen at work.
+**£££ and you must book**, early in the service. Just off Portobello Road; the rest of the menu is modern European.
 
 ### Blacklock, Shoreditch and across London
 
 *£££ · 28–30 Rivington Street, EC2A 3DZ · book ahead · Cited by 4 sources · [book a table](https://theblacklock.com/)*
 
-**A chop house whose burger critics rate above most burger restaurants** — which is the kind of thing that only happens when the meat sourcing was already sorted.
+**A chop house whose burger critics rate above most burger restaurants.**
 
-Inside a soft sesame bun: a juicy patty, **sliced gherkins, onions caramelised in vermouth and a mild sriracha-laced burger sauce**, with **beef-dripping fries** beside it. The rest of the menu is chops over charcoal in a warehouse room, and the Sunday roast is separately famous.
+Inside a soft sesame bun: a juicy patty, **sliced gherkins, onions caramelised in vermouth and a mild sriracha-laced burger sauce**, with **beef-dripping fries** beside it. The rest of the menu is chops over charcoal in a warehouse room, plus a Sunday roast.
 
 **£££ and it books ahead**, particularly at weekends. Several London sites; Rivington Street is the Shoreditch one.
 
@@ -264,11 +265,11 @@ Inside a soft sesame bun: a juicy patty, **sliced gherkins, onions caramelised i
 
 *£££ · Mayfair · book ahead · Cited by 3 sources · National Burger Awards 2026 finalist*
 
-**An upmarket diner in Mayfair that took its plain cheeseburger to the National Burger Awards final** — and got there without adding a single thing to it.
+**An upmarket Mayfair diner that took its plain cheeseburger to the National Burger Awards final.**
 
-The burger is **ketchup, mustard and pickles on a golden brioche bun**, which in a part of London where everything is truffled is close to a statement. There is **late-night service**, which Mayfair also does not have much of.
+The burger is **ketchup, mustard and pickles on a golden brioche bun**, with **late-night service**.
 
-**£££, book ahead.** Dover Street. Come after a show rather than instead of one.
+**£££, book ahead.** Dover Street.
 
 ### Burger & Beyond, Shoreditch and Borough Yards
 
@@ -278,13 +279,13 @@ The burger is **ketchup, mustard and pickles on a golden brioche bun**, which in
 
 *The whole table at Burger & Beyond.*
 
-**Second best burger in the UK on the 2026 judging**, and the most-cited name here after the top two.
+**Second in the 2026 National Burger Awards**, and the most-cited name here after the top two.
 
-The **Bacon Butter Burger** is what it entered and what to order: a dry-aged patty, **double American cheese, crispy pancetta, burnt butter mayo and onion**. Nobody else is doing the burnt butter mayo. Beyond it, the **Bougie Burger** with marrownaise and beef-fat onions, and a **Rice Krispie fried chicken burger** that people order on purpose rather than as a concession.
+The **Bacon Butter Burger** is what it entered and what to order: a dry-aged patty, **double American cheese, crispy pancetta, burnt butter mayo and onion**. Beyond it, the **Bougie Burger** with marrownaise and beef-fat onions, and a **Rice Krispie fried chicken burger**.
 
 Order the **dirty tots** — tater tots under bone marrow gravy — rather than fries.
 
-**££, walk-in at Shoreditch**, and the beef is dry-aged, grass-fed and native breed, which is where the price goes.
+**££, walk-in at Shoreditch**, and the beef is dry-aged, grass-fed and native breed.
 
 ### Black Bear Burger, Shoreditch, Brixton and Exmouth Market
 
@@ -294,9 +295,9 @@ Order the **dirty tots** — tater tots under bone marrow gravy — rather than 
 
 *Black Bear's dry-aged patty.*
 
-**The 2025 national champion**, and it has stayed on every list since — five sources still name it.
+**The 2025 national champion**, still named by five sources.
 
-The **Miso Bacon Burger** is the one that won: dry-aged beef under **miso butter mayo and smoked bacon**, the miso doing a savoury job that cheese alone does not. The **double black and blue** is the other order — dry-aged beef, cheese, smoked bacon, blue cheese sauce and onions. Add the wings; several sources insist on it.
+The **Miso Bacon Burger** is the one that won: dry-aged beef under **miso butter mayo and smoked bacon**. The **double black and blue** is the other order — dry-aged beef, cheese, smoked bacon, blue cheese sauce and onions. Add the wings; several sources insist on it.
 
 **££, walk-in.** Sites in Shoreditch, Brixton and Exmouth Market among others.
 
@@ -308,23 +309,21 @@ The **Miso Bacon Burger** is the one that won: dry-aged beef under **miso butter
 
 *Heard's double.*
 
-**Founded by a two-Michelin-starred chef, Jordan Bailey**, which explains a burger menu that reads like a sourcing document.
+**Founded by the two-Michelin-starred chef Jordan Bailey.**
 
-Six burgers, all built on **British beef from regenerative farms**, in **butter-toasted roast potato buns** — the bun is toasted in the way a roast potato is cooked, which is a detail nobody else bothers with. Wine or beer to match.
+Six burgers, all on **British beef from regenerative farms**, in **butter-toasted roast potato buns**. Wine or beer to match.
 
-**££, walk-in.** Soho and Borough, and the closest thing on this page to fine dining in a bun.
+**££, walk-in.** Soho and Borough.
 
 ---
 
 ## Cheap, quick and at a market
 
-Short entries. Full detail on any of these is above where it exists.
-
 * **Mother Flipper, Brockley** — *£ · Cited by 2 sources.* Started as a van, now a permanent Brockley site. The **Candy Bacon Flipper** is bacon fried in maple syrup with ketchup, mustard, lettuce, red onion, pickle and American cheese. **The van still trades at Brockley Market every Saturday, 10am to 2pm.**
-* **Beer + Burger Store, King's Cross and east London** — *£ · Cited by 3 sources.* Craft ale alongside a double patty cheeseburger, a monthly special, kids' meals and a genuine vegan burger on two pea protein patties. Order the dipping gravy.
+* **Beer + Burger Store, King's Cross and east London** — *£ · Cited by 3 sources.* Craft ale alongside a double patty cheeseburger, a monthly special, kids' meals and a vegan burger on two pea protein patties. Order the dipping gravy.
 * **Baba G's, Brixton** — *£ · Cited by 2 sources.* Indian-spiced burgers out of Brixton, on both Eater's and Hot Dinners' lists.
 * **Lucky Chip, Islington** — *£ · Cited by 2 sources.* A long-running residency operation, at the Old Queen's Head.
-* **Lagom, Dalston** — *££ · Cited by 4 sources.* A kitchen inside The Three Compasses doing a **smashburger with dill pickle slaw**, plus fried chicken and lamb. Pub setting, walk-in, and one of the four most-cited names here.
+* **Lagom, Dalston** — *££ · Cited by 4 sources.* A kitchen inside The Three Compasses doing a **smashburger with dill pickle slaw**, plus fried chicken and lamb. Pub setting, walk-in.
 * **Buk, Camden** — *£ · Cited by 1 source.* Thin patty, double American cheese, chilli house sauce and caramelised onion. **Halal.**
 * **Burnt Smokehouse, Leyton** — *£ · Cited by 1 source.* Double patty smashburger with caramelised onions and dill pickles, communal seating by the station. **Halal.**
 
@@ -350,12 +349,12 @@ Short entries. Full detail on any of these is above where it exists.
 
 ## The chains, and what they are for
 
-Named by the listings sites rather than the critics — which is not a criticism: they are there for reliability.
+Named by the listings sites rather than the critics.
 
 * **Patty & Bun** — *££ · Cited by 2 sources.* Started as a 30-seat Marylebone room and now runs seven sites. Order **The Don**, or the **Ari Gold** with red leicester.
 * **MEATliquor** — *££ · Cited by 2 sources.* The **Dead Hippie** with its secret sauce is the fan order. Good vegan options, including impossible nuggets and a black bean chilli dog.
-* **Burger & Lobster** — *£££ · Cited by 2 sources.* The **B&L burger** with Nebraskan beef and Atlantic lobster, which is the most expensive burger in this guide and priced as an occasion: burger, lobster or lobster roll, all at one price, with the sides included. Bookable.
-* **Dirty Bones, Carnaby, Soho and Shoreditch** — *££ · Cited by 1 source.* The **Mac Daddy** is topped with pulled beef rib and mac and cheese. Cocktails are half the reason people go.
+* **Burger & Lobster** — *£££ · Cited by 2 sources.* The **B&L burger** with Nebraskan beef and Atlantic lobster, the most expensive burger in this guide: burger, lobster or lobster roll, all at one price, with the sides included. Bookable.
+* **Dirty Bones, Carnaby, Soho and Shoreditch** — *££ · Cited by 1 source.* The **Mac Daddy** is topped with pulled beef rib and mac and cheese.
 * **Fat Hippo, Soho** — *£ · National Burger Awards 2026 London finalist.* Entered **The Lovue Loot**. Won the plant-based Burger of the Year in 2025.
 * **SoBe Burger, Walthamstow** — *£ · National Burger Awards 2026 London finalist.* Entered a **Double Bacon Black Garlic**.
 
@@ -391,13 +390,13 @@ Named by the listings sites rather than the critics — which is not a criticism
 * **Four places need one:** **Dove** and **Vesper** make roughly ten burgers a service and sell out early; **Blacklock** and **Dover Street Counter** are restaurants first. **One Club Row** is hard to book — it runs a walk-in light box outside, or try a lunch slot.
 * **The award-winning burger is at one address.** "The Honest" is served at Honest Burgers' Smash + Grab on Liverpool Street and nowhere else.
 * **Check the day before travelling** for **Bake Street** (burger at weekends only), **Jupiter Burger** (market hours) and **Mother Flipper's** Saturday van at Brockley Market.
-* **Halal options** are limited but real: **Buk** in Camden and **Burnt Smokehouse** in Leyton are both halal and both named by critics rather than by halal listings.
+* **Halal:** **Buk** in Camden and **Burnt Smokehouse** in Leyton are both halal.
 
 ---
 
 ## Continue planning your London trip
 
-- 🍔 **[Cheap Eats in London: 34 Places to Eat Well Under £15](/articles/cheap-eats-london/)**
+- 🍔 **[Cheap Eats in London: Places to Eat Well Under £15](/articles/cheap-eats-london/)**
 - 🥩 **[The Best Steak in London](/articles/best-steak-restaurants-london/)**
 - 🍕 **[The Best Pizza in London](/articles/best-pizza-london/)**
 - 🍺 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
