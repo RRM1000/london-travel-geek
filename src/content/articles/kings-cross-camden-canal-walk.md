@@ -35,7 +35,7 @@ East to west puts the built end first, the empty stretch in the middle, and the 
 
 For the areas at either end, see the [King's Cross area guide](/articles/kings-cross-area-guide/) and the [Camden area guide](/articles/camden-area-guide/).
 
-> 💡 **The Short Version:** Start at **Granary Square** and finish at **Camden Market**. The one stop with a clock on it is **Camley Street Natural Park** — free, on the far bank, and it shuts at **4pm from October to March**. **Camden Market runs 10am to 7pm every day**, bank holidays included. If you want to see a lock actually working, come **before 3.30pm**: Camden's three locks are closed to boats from 3.30pm to 9am because of the drought. And there is a fenced-off stretch of towpath near Camley Street with a **floating pontoon** round it — you do not need a diversion.
+> 💡 **The Short Version:** Start at **Granary Square** and finish at **Camden Market**. The one stop with a clock on it is **Camley Street Natural Park** — free, on the far bank, and it shuts at **4pm from October to March**. **Camden Market runs 10am to 7pm every day**, bank holidays included. There is a fenced-off stretch of towpath near Camley Street with a **floating pontoon** round it — you do not need a diversion.
 
 ## The route
 
@@ -163,8 +163,6 @@ The first of Camden's three locks, with room to stand and watch.
 
 The Canal & River Trust numbers them **downwards** as you walk west: this is **Lock 3**, Hawley is Lock 2, and Camden Lock is Lock 1. All three sit inside **300 metres**, so walking is quicker than floating.
 
-> ⚠️ **Come before 3.30pm if you want to see a lock work.** Because of the drought, the Trust has closed **all three Camden locks to boats between 3.30pm and 9am**, ongoing since 26 August 2026 and under review from 24 September.
-
 ## 8. Hawley Lock and Hawley Wharf
 
 ![Redbrick warehouse buildings along the Regent's Canal at Hawley Wharf, with the towpath running below](../../assets/articles/kings-cross-camden-canal-walk/camden-canal-hawley-wharf.jpg)
@@ -240,7 +238,6 @@ Visit it first, before you turn west; it is ten minutes there and back.
 **What sets the timing is the hour.** Three clocks apply:
 
 - **Camley Street Natural Park** shuts at **4pm** from October to March, and it is stop three.
-- **Camden's locks close to boats at 3.30pm** while the drought restriction holds, so a working lock is a morning sight.
 - **Camden Market shuts at 7pm** — but Hawley Wharf runs to 11pm, so the day does not end there.
 
 **Start at 10am** and everything lands on the right side of its clock. Start at 3pm in January and the towpath is dark and the reserve locked.
