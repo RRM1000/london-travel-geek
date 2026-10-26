@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=5549835"
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-09-24
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -18,7 +18,7 @@ tags: [where to stay, hotels, Mayfair, luxury hotels, planning]
 draft: false
 faq:
   - q: "Is Mayfair a good area to stay in London?"
-    a: "For a short trip with money to spend, yes. Green Park and Bond Street between them put the Piccadilly, Victoria, Jubilee, Central and Elizabeth lines within a few minutes' walk, Hyde Park is on the western edge, and the streets are quiet at night because Mayfair is offices, galleries and embassies after dark. It is a poor choice on a budget or if you want a lively evening on the doorstep: Soho is ten minutes east for that."
+    a: "For a short trip with money to spend, yes. Green Park and Bond Street between them put the Piccadilly, Victoria, Jubilee, Central and Elizabeth lines within a few minutes' walk, Hyde Park is on the western edge, and the streets are quiet at night. It is a poor choice on a budget or if you want a lively evening on the doorstep: Soho is ten minutes east for that."
   - q: "What is the cheapest hotel in Mayfair?"
     a: "The cheapest in this guide is Zedwell Underground Hotel Park Lane, at £90 to £207 a night for a Cocoon 2 across five sampled dates. It is entirely below ground and windowless by design, the Cocoon 2 is 7 square metres, and Marble Arch is a seven-minute walk. The best-known grand hotels, The Beaumont, Brown's, Claridge's, The Dorchester and The Connaught, typically run from about £600 to £850."
   - q: "Which Tube station is best for Mayfair hotels?"
@@ -31,7 +31,7 @@ faq:
     a: "The middle is. Mount Street, Grosvenor Square and the Georgian side streets empty after the shops and galleries close, and the evening crowd gathers at Shepherd Market's pubs. The exception is Park Lane itself, a dual carriageway along the western edge: ask for a room facing the park or the back."
 ---
 
-Mayfair is where London keeps its grand hotels. **The Ritz, Claridge's, The Connaught, The Dorchester and Brown's** all sit in the grid of streets between Oxford Street, Regent Street, Piccadilly and Park Lane, and a double at the best known of them typically runs from **about £600 to £850** a night.
+**The Ritz, Claridge's, The Connaught, The Dorchester and Brown's** all sit in the grid of streets between Oxford Street, Regent Street, Piccadilly and Park Lane, and a double at the best known of them typically runs from **about £600 to £850** a night.
 
 For less, there is an underground hotel on Park Lane from £90; for a group or a long stay, there are apartments with kitchens.
 
@@ -39,11 +39,11 @@ For less, there is an underground hotel on Park Lane from £90; for a group or a
 
 ## Which part of Mayfair
 
-Mayfair's four edges feel different and use different stations.
+Mayfair's four edges use different stations.
 
 **Park Lane**, the western edge, is a dual carriageway facing Hyde Park. The Dorchester, 45 Park Lane and the Four Seasons are here, with Hyde Park Corner at the southern end and Marble Arch at the northern. You get the park across the road and the traffic under the window.
 
-**Grosvenor Square and Mount Street**, the north-west, is the quiet, residential heart: Mount Street's pink terracotta terraces, Mount Street Gardens and small, very expensive shops. The Connaught, Claridge's, The Chancery Rosewood, The Beaumont and The Twenty Two are all within a few hundred metres of each other, and Bond Street station, with the Elizabeth line, is about five minutes' walk.
+**Grosvenor Square and Mount Street**, the north-west, is the quiet, residential part: Mount Street's pink terracotta terraces, Mount Street Gardens and small shops. The Connaught, Claridge's, The Chancery Rosewood, The Beaumont and The Twenty Two are all within a few hundred metres of each other, and Bond Street station, with the Elizabeth line, is about five minutes' walk.
 
 **Piccadilly and Green Park**, the south, is the busiest edge. The Ritz and the Athenaeum face the park, Brown's is on Albemarle Street by the Royal Academy, and Half Moon Street and Curzon Street lead into **Shepherd Market**, a pocket of pubs and small restaurants where Mayfair's evening crowd drinks outside.
 
@@ -167,7 +167,7 @@ Downstairs are Alain Ducasse at The Dorchester, The Grill, China Tang, Vesper Ba
 
 *About £850 · Carlos Place, W1K 2AL · Bond Street 5 min, Green Park 10 min*
 
-**[The Connaught](hotel:the-connaught)** sits where Mount Street meets Carlos Place, the part of Mayfair its owners call Mayfair Village. Most non-residents come for **the Connaught Bar** (in our [cocktail bars guide](/articles/best-cocktail-bars-london/)); residents also get Hélène Darroze's restaurant, the Connaught Grill, the Aman Spa in the basement and, in the suites, a personal butler. The afternoon tea is smaller and calmer than Claridge's.
+**[The Connaught](hotel:the-connaught)** sits where Mount Street meets Carlos Place. Most non-residents come for **the Connaught Bar** (in our [cocktail bars guide](/articles/best-cocktail-bars-london/)); residents also get Hélène Darroze's restaurant, the Connaught Grill, the Aman Spa in the basement and, in the suites, a personal butler.
 
 ![A Connaught bedroom in sage green with a panelled green leather headboard, an abstract painting above the bed, a grey armchair by a tall arched leaded window and a swirling green carpet](../../assets/articles/where-to-stay-mayfair/the-connaught-room.jpg)
 
@@ -187,7 +187,7 @@ Downstairs are Alain Ducasse at The Dorchester, The Grill, China Tang, Vesper Ba
 
 *Over £350 · 144 suites · 30 Grosvenor Square, W1K · Bond Street 5 min*
 
-Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[The Chancery Rosewood](hotel:the-chancery-rosewood)** is that Grade II-listed building converted by David Chipperfield Architects into **an all-suite hotel**. Theodore Roszak's aluminium eagle is still in place. It has **eight restaurants and bars**, including Tobi Masa, a Japanese counter from the chef behind New York's Masa, and the Eagle Bar on the roof, with terraces over the square and Hyde Park. The spa has **a 25-metre pool**. There are **no fixed check-in or check-out times**. Its tea room, Jacqueline, is in our [afternoon tea guide](/articles/best-afternoon-tea-london/).
+Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[The Chancery Rosewood](hotel:the-chancery-rosewood)** is that Grade II-listed building converted by David Chipperfield Architects into **an all-suite hotel**. It has **eight restaurants and bars**, including Tobi Masa, a Japanese counter from the chef behind New York's Masa, and the Eagle Bar on the roof, with terraces over the square and Hyde Park. The spa has **a 25-metre pool**. There are **no fixed check-in or check-out times**. Its tea room, Jacqueline, is in our [afternoon tea guide](/articles/best-afternoon-tea-london/).
 
 <div class="photo-row">
 
@@ -203,7 +203,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 *About £600 · 101 rooms · 8 Balderton Street, Brown Hart Gardens, W1K 6TF · Bond Street nearest*
 
-**[The Beaumont](hotel:the-beaumont-mayfair)** is an art deco building on Brown Hart Gardens, a raised public garden just south of Oxford Street. The entry-level Classic rooms are **30 square metres**, twice the Mayfair Townhouse's smallest. Its oddity is **ROOM by Antony Gormley**, a sculpture on the facade with a bedroom inside, 4 metres square and 10 metres high. Rosi is the restaurant, Le Magritte the bar, and tea is in The Gatsby Room, with no formal dress code. Dogs are welcome.
+**[The Beaumont](hotel:the-beaumont-mayfair)** is an art deco building on Brown Hart Gardens, a raised public garden just south of Oxford Street. The entry-level Classic rooms are **30 square metres**, twice the Mayfair Townhouse's smallest. **ROOM by Antony Gormley** is a sculpture on the facade with a bedroom inside, 4 metres square and 10 metres high. Rosi is the restaurant, Le Magritte the bar, and tea is in The Gatsby Room, with no formal dress code. Dogs are welcome.
 
 ![A Beaumont bedroom in gold and black, with a lacquered walnut headboard under a framed map of the Thames, a two-seat settee at the foot of the bed, a round armchair and a full-height window behind sheer curtains](../../assets/articles/where-to-stay-mayfair/the-beaumont-room.jpg)
 
@@ -213,7 +213,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 *Over £350 · 22 Grosvenor Square, W1K 6LF · Check-in 3pm, out at noon*
 
-**[The Twenty Two](hotel:the-twenty-two)** is an Edwardian house on Grosvenor Square that is both a members' club and a hotel, and one of the few ways into a [Mayfair members' club](/articles/private-members-clubs-london/) without joining. Guests become temporary members for their stay, but **the club is over-21s only** and the Living Room admits children until 5pm, so it suits couples far better than families. There is no gym on site; guests get free use of BXR Marylebone, a 12-minute walk. The hotel pre-authorises **£300 a night for incidentals** on top of the room. Top-floor rooms sit under a sloping ceiling that cuts the headroom on one side.
+**[The Twenty Two](hotel:the-twenty-two)** is an Edwardian house on Grosvenor Square that is both a members' club and a hotel. It is a way into a [Mayfair members' club](/articles/private-members-clubs-london/) without joining: guests become temporary members for their stay, but **the club is over-21s only** and the Living Room admits children until 5pm, so it suits couples far better than families. There is no gym on site; guests get free use of BXR Marylebone, a 12-minute walk. The hotel pre-authorises **£300 a night for incidentals** on top of the room. Top-floor rooms sit under a sloping ceiling that cuts the headroom on one side.
 
 <div class="photo-row">
 
@@ -273,7 +273,7 @@ Eero Saarinen designed the American Embassy on Grosvenor Square in 1960, and **[
 
 *116 Piccadilly · Green Park 2 min · [Hotels.com](hotelscom:175165)*
 
-An independent hotel facing Green Park across Piccadilly, in a building that was Henry Hope's house in 1850 and an art deco apartment block from the 1930s. Superior rooms are 19 square metres and interconnecting rooms are available; for families there are **18 townhouse residences with a kitchen and separate sitting room**, and a concierge who keeps kites and bikes for the park. There is a 24-hour gym and a spa with cedar hot tubs, and an afternoon tea with no ceremony. Cancellation on the residences closes seven days before arrival.
+An independent hotel facing Green Park across Piccadilly. Superior rooms are 19 square metres and interconnecting rooms are available; for families there are **18 townhouse residences with a kitchen and separate sitting room**, and a concierge who keeps kites and bikes for the park. There is a 24-hour gym and a spa with cedar hot tubs, and afternoon tea. Cancellation on the residences closes seven days before arrival.
 
 ![An Athenaeum bedroom with a walnut cabinet holding a television and tea tray, a desk by the window, and a balcony door looking over the trees of Green Park](../../assets/articles/where-to-stay-mayfair/the-athenaeum-room.jpg)
 
@@ -283,7 +283,7 @@ An independent hotel facing Green Park across Piccadilly, in a building that was
 
 *Stratton Street, W1J 8LT · Green Park 2 min · Check-in 3pm, out at noon*
 
-**[The May Fair](hotelscom:h7606)** opened in 1927 and, at **404 rooms and suites**, is the largest hotel in this guide, which makes it the likeliest to have a room when the smaller houses are full. It has May Fair Kitchen (Japanese and Italian), a bar that often has live music, a spa and 24-hour gym, and a casino in the old art deco ballroom. Lifts work by room key only. Pets are not accepted apart from assistance dogs.
+**[The May Fair](hotelscom:h7606)** opened in 1927 and, at **404 rooms and suites**, is the largest hotel in this guide. It has May Fair Kitchen (Japanese and Italian), a bar that often has live music, a spa and 24-hour gym, and a casino in the old art deco ballroom. Lifts work by room key only. Pets are not accepted apart from assistance dogs.
 
 <div class="photo-row">
 
@@ -331,7 +331,7 @@ Robert Fleming opened his hotel on Half Moon Street in 1851, and it now fills **
 
 *94 rooms and 14 suites · 35 Charles Street, W1J 5EB*
 
-Three houses on Charles Street, and Red Carnation's first hotel. **[The Chesterfield](hotelscom:h2276)** is known for its **Sweetshop Afternoon Tea**, which has a children's version for under-12s, and for **Sem's of Mayfair, the bar, which has live music every evening**. There is also a rooftop bar, Stanley's. The hotel arranges babysitting through a nanny service.
+Three houses on Charles Street. **[The Chesterfield](hotelscom:h2276)** is known for its **Sweetshop Afternoon Tea**, which has a children's version for under-12s, and for **Sem's of Mayfair, the bar, which has live music every evening**. There is also a rooftop bar, Stanley's. The hotel arranges babysitting through a nanny service.
 
 <div class="photo-row">
 
@@ -349,7 +349,7 @@ Three houses on Charles Street, and Red Carnation's first hotel. **[The Chesterf
 
 *About £850 · 22 Hanover Square, W1S 1JP · Oxford Circus nearest · Breakfast extra*
 
-**[Mandarin Oriental Mayfair](hotel:mandarin-oriental-mayfair)** is on Hanover Square at Mayfair's eastern edge, the grand hotel closest to Oxford Circus, Regent Street and Soho. Each room has a panel of hand-painted de Gournay wallpaper based on the magnolias in Hanover Square outside. It sells connecting and family rooms. The restaurants are **A.Wong**, Mazarine and the Atrium, and there is a rooftop bar. It is a separate hotel from Mandarin Oriental Hyde Park in Knightsbridge, so check which one you are booking. Its **25-metre indoor pool** is free to in-house guests; the spa and fitness centre are 18 and over without a parent's written consent, and our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with the other 25-metre pools.
+**[Mandarin Oriental Mayfair](hotel:mandarin-oriental-mayfair)** is on Hanover Square at Mayfair's eastern edge, the grand hotel closest to Oxford Circus, Regent Street and Soho. It sells connecting and family rooms. The restaurants are **A.Wong**, Mazarine and the Atrium, and there is a rooftop bar. It is a separate hotel from Mandarin Oriental Hyde Park in Knightsbridge, so check which one you are booking. Its **25-metre indoor pool** is free to in-house guests; the spa and fitness centre are 18 and over without a parent's written consent, and our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with the other 25-metre pools.
 
 <div class="photo-row">
 
@@ -373,4 +373,4 @@ Three houses on Charles Street, and Red Carnation's first hotel. **[The Chesterf
 
 **The rail terminals**: Victoria is one stop from Green Park on the Victoria line, King's Cross St Pancras four, and Paddington one stop from Bond Street on the Elizabeth line.
 
-*Typical nightly rates for a double, checked September 2026. Mayfair prices change by the night, so check your own dates.*
+*Typical nightly rates for a double. Mayfair prices change by the night, so check your own dates.*
