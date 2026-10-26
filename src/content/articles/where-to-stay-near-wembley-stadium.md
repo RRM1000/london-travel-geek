@@ -5,8 +5,8 @@ description: "The best bases for a Wembley gig or match, compared by door-to-doo
 heroImage: "../../assets/articles/where-to-stay-near-wembley-stadium/premier-inn-wembley-stadium-exterior.jpg"
 heroImageAlt: "Premier Inn London Wembley Stadium, a tall grey block with purple Premier Inn signs, beside the London Designer Outlet under a blue sky"
 publishedAt: 2026-09-25
-updatedAt: 2026-10-07
-reviewBy: 2026-10-19
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -14,7 +14,7 @@ tags: [where to stay, hotels, Wembley, Wembley Stadium, OVO Arena Wembley, conce
 draft: false
 faq:
   - q: "What is the closest hotel to Wembley Stadium?"
-    a: "Novotel London Wembley, at 5 Olympic Way on the stadium approach, and the Hilton London Wembley on Lakeside Way, beside the OVO Arena. Premier Inn London Wembley Stadium, on Wembley Park Boulevard, is about ten minutes' walk. The ibis London Wembley on South Way, by Wembley Stadium station, is temporarily closed."
+    a: "Novotel London Wembley, at 5 Olympic Way on the stadium approach, and the Hilton London Wembley on Lakeside Way, beside the OVO Arena. Premier Inn London Wembley Stadium, on Wembley Park Boulevard, is about ten minutes' walk."
   - q: "What is the best area to stay in for Wembley Stadium?"
     a: "Baker Street or Marylebone for most people: 35 minutes door to door on the Metropolitan line, Chiltern trains from Marylebone to Wembley Stadium station in under ten minutes, and the Jubilee Night Tube on Fridays and Saturdays. For a cheaper room, Harrow-on-the-Hill is 7 minutes from Wembley Park on the Metropolitan line, and the last train back leaves just before 1am Monday to Saturday."
   - q: "How do you get back from Wembley after a concert?"
@@ -22,12 +22,12 @@ faq:
   - q: "Is it worth staying in Watford for Wembley?"
     a: "Rarely. Watford's Metropolitan line station is 27 minutes from Wembley Park and about 48 minutes door to door, no quicker than Waterloo, and the last train back leaves Wembley Park at about 00:25 (00:05 on Sundays). Via Watford Junction the return is 48 to 56 minutes with a change. Harrow-on-the-Hill is 29 minutes."
   - q: "Is it cheaper to stay in Wembley or central London for a Wembley event?"
-    a: "Central, on an event night. Novotel London Wembley was £426.60 on the night of England v Czechia, Tuesday 6 October 2026, against £131.40 a week later, while Novotel London Waterloo was £300.60 on the match night. On an ordinary night Wembley is the cheaper place to sleep."
+    a: "Central, on an event night. Novotel London Wembley was £426.60 on the night of England v Czechia, Tuesday 6 October 2026, against £131.40 on the Tuesday after, while Novotel London Waterloo was £300.60 on the match night. On an ordinary night Wembley is the cheaper place to sleep."
   - q: "Is Harrow a good place to stay for Wembley?"
     a: "Yes, if you are near Harrow-on-the-Hill station. Every Metropolitan train calls there and at Wembley Park, seven minutes apart, and the last train back leaves Wembley Park at 00:56 Monday to Saturday. It has no Night Tube, so on a Friday or Saturday a Finchley Road or Baker Street base keeps an all-night option that Harrow does not."
 ---
 
-If you have a ticket for Wembley Stadium or OVO Arena Wembley and need a bed, what decides the base is the train home once 90,000 people are leaving at the same time. Our [Wembley Stadium and OVO Arena guide](/articles/wembley-stadium-arena-guide/) covers the stations, parking, bags and food; this page covers where to sleep.
+If you have a ticket for Wembley Stadium or OVO Arena Wembley, the train home decides the base, because 90,000 people are leaving at the same time. Our [Wembley Stadium and OVO Arena guide](/articles/wembley-stadium-arena-guide/) covers the stations, parking, bags and food; this page covers where to sleep.
 
 > 💡 **The Short Version:** For most people, stay around **Baker Street or Marylebone**: **35 minutes** door to door on the **Metropolitan line**, Chiltern trains from Marylebone in **under ten minutes**, and the **Jubilee Night Tube** on Fridays and Saturdays. The cheaper base is **Harrow-on-the-Hill**, where the Met is **7 minutes** from Wembley Park, **29 minutes** door to door, with a last train back at **00:56**. **Finchley Road** is just as quick and keeps the Night Tube. **Watford is no quicker than Waterloo.** The trap is a Wembley hotel on an event night: the **Novotel was £426.60 on an England match night and £131.40 a week later**. Stay next to the venue the night *after*, or on a night with nothing on.
 >
@@ -50,15 +50,15 @@ The Metropolitan line is the fastest way to Wembley Park. **Every Met train call
 | **Watford Junction** | Southern to Wembley Central, **12 min**, then a bus | **45 min** there, **48–56 min** back | A change each way |
 | **Waterloo / London Bridge** | Jubilee, change to the Met at Finchley Road | **49 min** | The longest ride, but it has the Night Tube |
 
-*Door-to-door times are from TfL's Journey Planner for Saturday and Tuesday evening events, checked on 24 September 2026. They include the walk down Olympic Way from Wembley Park, which TfL puts at up to 17 minutes to the stadium. Last trains are Monday-to-Saturday departures from Wembley Park.*
+*Door-to-door times are for Saturday and Tuesday evening events and include the walk down Olympic Way from Wembley Park, which TfL puts at up to 17 minutes to the stadium. Last trains are Monday-to-Saturday departures from Wembley Park.*
 
 <div data-stay-strip></div>
 
 ## Wembley Park: walking distance
 
-On an ordinary night a Wembley room is cheap by London standards: the Novotel was £131.40 on a Tuesday in October against £315.90 at Novotel Waterloo. On an event night it triples (see [staying next to the venue](#staying-next-to-the-venue) below).
+On an ordinary night a Wembley room is cheap by London standards: the Novotel was £131.40 on Tuesday 13 October 2026 against £315.90 at Novotel Waterloo. On an event night it triples (see [staying next to the venue](#staying-next-to-the-venue) below).
 
-**Novotel London Wembley** · [Hotels.com](hotel:novotel-london-wembley). 235 rooms at 5 Olympic Way, on the stadium approach itself, 480 metres from the OVO Arena. About **£120** on an ordinary night, with a car park, restaurant, bar and gym. Check-out is 12:00. It sells out months ahead for big fixtures: for England v Spain on 26 September it had nothing left 17 days before.
+**Novotel London Wembley** · [Hotels.com](hotel:novotel-london-wembley). 235 rooms at 5 Olympic Way, on the stadium approach itself, 480 metres from the OVO Arena. About **£120** on an ordinary night, with a car park, restaurant, bar and gym. Check-out is 12:00. It sells out months ahead for big fixtures.
 
 **Hilton London Wembley** · [Hotels.com](hotel:hilton-london-wembley). The four-star on Lakeside Way, beside the OVO Arena and about eight minutes from the stadium. About **£130**. It has an **indoor pool** and the rooftop **Sky Bar 9** (walk-in only). Parking is **£15 per 24 hours** in the Gold car park, with **no in-out**: once you have parked, the car stays there.
 
@@ -88,7 +88,7 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 
 *Premier Inn Wembley Stadium, by the London Designer Outlet.*
 
-**Premier Inn London Wembley Park** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-park.html). A different hotel, at 151 Wembley Park Drive, HA9 8HQ, **180 metres from Wembley Park station**, so after the show you walk to it instead of queueing for a train. It has its own car park: **£15 per 24 hours** for guests, more on event days, first come first served. Not to be confused with the Wembley Stadium branch above.
+**Premier Inn London Wembley Park** · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-park.html). A different hotel from the Stadium branch above, at 151 Wembley Park Drive, HA9 8HQ, **180 metres from Wembley Park station**, so after the show you walk to it instead of queueing for a train. It has its own car park: **£15 per 24 hours** for guests, more on event days, first come first served.
 
 <div class="photo-row">
 
@@ -111,8 +111,6 @@ On an ordinary night a Wembley room is cheap by London standards: the Novotel wa
 </div>
 
 *A double at the Wembley International Hotel.*
-
-The **ibis London Wembley**, on South Way by Wembley Stadium station, is temporarily closed.
 
 ## Harrow-on-the-Hill: the cheaper base
 
@@ -172,7 +170,7 @@ Finchley Road is the Met's last stop before Wembley Park: **7 minutes, 29 minute
 
 This is the base with the most ways back. The Met is **13 minutes** from Baker Street to Wembley Park, the Jubilee runs through Baker Street too, and from Marylebone **Chiltern** trains reach Wembley Stadium station in **under ten minutes**. Our [Marylebone stay guide](/articles/where-to-stay-marylebone/) covers the wider area.
 
-**The Landmark London** · [Hotels.com](hotel:the-landmark-london). At 222 Marylebone Road, opposite Marylebone station. It is a former railway hotel, with an eight-storey glass atrium full of palm trees, and large rooms by central London standards. The spa has a vitality pool, sauna, steam room and 24-hour gym. It is the shortest walk to a Chiltern train in this guide.
+**The Landmark London** · [Hotels.com](hotel:the-landmark-london). At 222 Marylebone Road, opposite Marylebone station. A former railway hotel with an eight-storey glass atrium and large rooms for central London. The spa has a vitality pool, sauna, steam room and 24-hour gym. It is the shortest walk to a Chiltern train in this guide.
 
 <div class="photo-row">
 
@@ -184,13 +182,13 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 *A room at The Landmark London.*
 
-**Dorset Square Hotel** · [Hotels.com](hotel:dorset-square-hotel). Kit and Tim Kemp's first hotel: 38 rooms in a Regency house on the square that was Thomas Lord's first cricket ground, decorated with cricket memorabilia. Five minutes from Marylebone station, ten from Baker Street, on a quiet residential square.
+**Dorset Square Hotel** · [Hotels.com](hotel:dorset-square-hotel). 38 rooms in a Regency house, decorated with cricket memorabilia. Five minutes from Marylebone station, ten from Baker Street, on a quiet residential square.
 
 ![A room at the Dorset Square Hotel with green walls, a tall arched headboard in red and blue floral crewelwork, a white scalloped quilt, a coral bench at the foot of the bed and a green striped armchair by the window](../../assets/articles/where-to-stay-near-wembley-stadium/dorset-square-hotel-room.jpg)
 
 *A room at the Dorset Square Hotel.*
 
-**Travelodge London Central Marylebone** · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/312/London-Central-Marylebone-hotel). On Harewood Row, NW1 6SE, beside Marylebone station. The budget answer for the Chiltern route. Its SuperRooms add blackout curtains, a coffee machine and a rain shower.
+**Travelodge London Central Marylebone** · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/312/London-Central-Marylebone-hotel). On Harewood Row, NW1 6SE, beside Marylebone station: the budget option for the Chiltern route. Its SuperRooms add blackout curtains, a coffee machine and a rain shower.
 
 <div class="photo-row">
 
@@ -210,13 +208,13 @@ This is the base with the most ways back. The Met is **13 minutes** from Baker S
 
 **King's Cross and Euston** (Euston Square on the Met) are one Met train from Wembley Park, **18 minutes** from King's Cross St Pancras and about 41 minutes door to door. The drawback is late at night: the last train through to King's Cross leaves Wembley Park at **23:32**, and after that the Met terminates at Baker Street. Our [King's Cross stay guide](/articles/where-to-stay-kings-cross/) has the hotels.
 
-**Waterloo and London Bridge** are on the Jubilee, but the quick way is to change to the Met at Finchley Road: about **49 minutes** door to door. It is one of the longest rides on this list, but on a Friday or Saturday the Jubilee Night Tube runs straight back, and the Novotel Waterloo's price did not rise on a match night (see below). Our [South Bank stay guide](/articles/where-to-stay-south-bank/) covers the area.
+**Waterloo and London Bridge** are on the Jubilee, but the quick way is to change to the Met at Finchley Road: about **49 minutes** door to door. It is one of the longest rides on this list, but on a Friday or Saturday the Jubilee Night Tube runs straight back, and the Novotel Waterloo's price barely rose on a match night (see below). Our [South Bank stay guide](/articles/where-to-stay-south-bank/) covers the area.
 
 For the cheapest hotel rooms across London, see our [budget hotels guide](/articles/best-budget-hotels-london/).
 
 ## Watford and Rickmansworth: further out, and no quicker
 
-Watford is often suggested for a cheap room near Wembley. On the train times it does not work. The Met from **Watford** is **27 minutes** to Wembley Park and about **48 minutes** door to door, no quicker than Waterloo. The Met station is in Cassiobury, about 2km from the town-centre hotels. The last train back leaves Wembley Park at **00:25**, or **00:05** on Sunday.
+Watford is often suggested for a cheap room near Wembley, but the train times do not work. The Met from **Watford** is **27 minutes** to Wembley Park and about **48 minutes** door to door, no quicker than Waterloo. The Met station is in Cassiobury, about 2km from the town-centre hotels. The last train back leaves Wembley Park at **00:25**, or **00:05** on Sunday.
 
 **Watford Junction** is quicker to reach Wembley: Southern trains take **12 minutes** to Wembley Central, about 45 minutes door to door with the bus or walk at the end. Coming back it is **48 to 56 minutes** with a change, after the Wembley Central queue.
 
@@ -245,31 +243,28 @@ Watford is often suggested for a cheap room near Wembley. On the train times it 
 | **Waterloo and London Bridge** (Jubilee) | **00:24** Mon–Thu, **all night** Fri–Sat | about 23:40 |
 | **King's Cross** (Met, direct) | **23:32** | 23:22 |
 
-*From TfL's published timetable, checked on 24 September 2026. Weekend engineering work changes these, so check TfL's journey planner for your date.*
+*From TfL's published timetable. Weekend engineering work changes these, so check TfL's journey planner for your date.*
 
 After a Sunday event, the last Jubilee south leaves Wembley Park at about **23:40**, so on a Sunday the Met is the later way home.
 
 ## Staying next to the venue
 
-A Wembley hotel is the right call when **there is no stadium event that night**: the night after, or the night before an early start. It suits families with young children, who can walk back to the room instead of queueing.
-
-On a stadium event night it costs far more:
+A Wembley hotel is the right call when **there is no stadium event that night**: the night after, or the night before an early start. It suits families with young children, who can walk back to the room instead of queueing. On a stadium event night it costs far more. In October 2026:
 
 | | Novotel Wembley | Novotel Waterloo |
 | --- | --- | --- |
 | **Tuesday 6 Oct, England v Czechia** | **£426.60**, one room type left | **£300.60**, seven room types |
 | Tuesday 13 Oct, nothing on | **£131.40** | £315.90 |
 
-*Accor member rates for one room, two adults, checked on 9 September 2026.*
+*Accor member rates for one room, two adults, booked in September 2026.*
 
-On the match night the only room left at the Novotel was a suite, while Novotel Waterloo, one change from Wembley Park, barely moved. After England v Spain on Saturday 26 September, the Sunday night was **£91**.
+On the match night the only room left at the Novotel was a suite, while Novotel Waterloo, one change from Wembley Park, barely moved.
 
 - **For a big stadium date, book a Wembley room months ahead or stay on the Met line.**
 - **Or stay the night after**, when the price falls back.
-- **For the NFL game on Sunday 18 October** (14:30 kick-off), our [NFL London Games guide](/articles/nfl-london-games/) has the tickets and bag rules.
 
 If you check out at noon and doors are at 18:30, the bag is a problem: the stadium admits nothing bigger than A4, and the arena has no cloakroom. The Novotel and Hilton both store luggage for guests. Our [luggage storage guide](/articles/luggage-storage-london/) covers the rest.
 
 If the event is one night of a longer trip, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
 
-*Hotel prices are typical ordinary-night rates for a double unless a date is given, checked September 2026. Event-night rates move daily, so check your own date.*
+*Hotel prices are typical ordinary-night rates for a double unless a date is given. Event-night rates move daily, so check your own date.*
