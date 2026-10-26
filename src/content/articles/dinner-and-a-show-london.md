@@ -4,7 +4,7 @@ seoTitle: "Dinner and a Show London 2026: Jazz, Cabaret & Brunch"
 description: "A free house band with a £16.95 prix fixe at Brasserie Zédel, jazz with dinner from £16 at the 606 Club, burlesque at The Maine and Basil Fawlty serving the soup. What the show costs on top of the food, which nights, and what to book."
 publishedAt: 2026-06-21
 updatedAt: 2026-10-26
-reviewBy: 2026-11-23
+reviewBy: 2026-11-09
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -20,14 +20,14 @@ faq:
   - q: "Do you pay extra for the music at London restaurants?"
     a: "Often, and it is added to the bill rather than sold as a ticket. Toulouse Lautrec adds £5 a head on Thursdays and £7 on Fridays and Saturdays; Oriole's cover runs £4 to £12; Mu's £8 is optional; The Ned's Parlour charges £20 unless you take its £80 set menu; the 606 Club's is £16 to £23. Brasserie Zédel, Quaglino's, Dishoom Kensington and The Blues Kitchen's nightly music carry no charge."
   - q: "Is there a gospel brunch in London?"
-    a: "Soul Mama in Islington runs the House Gospel Choir brunch on selected Sundays, two sittings a day at noon and 3pm, with dates on 11 October, 8 November, 13 December and 20 December 2026. Amazing Grace near London Bridge is in a former church and is often called a gospel brunch, but its weekend brunch is live acoustic music, not a choir."
+    a: "Soul Mama in Islington runs the House Gospel Choir brunch on selected Sundays, two sittings a day at noon and 3pm, with dates on 8 November and 20 December 2026. Amazing Grace near London Bridge is in a former church and is often called a gospel brunch, but its weekend brunch is live acoustic music, not a choir."
   - q: "What is the cheapest dinner and a show in London?"
     a: "Dalston Superstore's drag brunch is £8 with a mimosa or soft drink, every Saturday and Sunday. The Blues Kitchen's live music is free and mains start around £13. Brasserie Zédel's house band costs nothing on top of a £16.95 two-course prix fixe. For a jazz club, the 606 Club's Sunday lunch music charge is £16."
 ---
 
-London sells dinner and a show in two very different shapes. In one, a restaurant has a band in the corner and the music is either free or a few pounds on the bill. In the other, you buy a ticket for a production and dinner comes with it, at a price closer to a West End seat plus a restaurant meal.
+London sells dinner and a show in two shapes. In one, a restaurant has a band in the corner and the music is free or a few pounds on the bill. In the other, you buy a ticket for a production and dinner comes with it, at a price closer to a West End seat plus a restaurant meal.
 
-The difference decides the evening. A restaurant with a band lets you book a table for two on a Thursday, talk through the set and pay for what you eat. A dinner show fixes the start time, the menu, often the dress code, and sometimes who you sit with. Every entry below says which it is, what the show adds to the bill, and which nights it runs.
+A restaurant with a band lets you book a table for two on a Thursday and pay for what you eat. A dinner show fixes the start time, the menu, often the dress code, and sometimes who you sit with. Every entry says which it is, what the show adds to the bill, and which nights it runs.
 
 > 💡 **The Short Version:** For a band while you eat and nothing extra on the bill, book **Brasserie Zédel**: its house band plays every day and two courses are £16.95. For a jazz gig with dinner at your table, the **606 Club** in Chelsea is £16–£23 a head for the music. **Quaglino's** is the dressed-up one, with a band Monday to Saturday and no music charge. For a full production, **The London Cabaret Club** does three courses and a show from £99.50, and **58th Street** in Peckham does six courses and three sets of jazz. **The Blues Kitchen** is named by more of the sources than anything else on this page, and its nightly music is free. For the cheapest ticket in town, **Dalston Superstore's drag brunch** is £8.
 
@@ -67,17 +67,17 @@ The difference decides the evening. A restaurant with a band lets you book a tab
 
 ## Jazz clubs with dinner at the table
 
-Here the music comes first and the kitchen serves the audience. Expect to be asked to stop talking during the set.
+The music comes first. Expect to be asked to stop talking during the set.
 
 ### Ronnie Scott's, Soho
 
 *££ · Soho · 47 Frith Street, W1D · Cited by 7 sources · #1 of 10, Time Out · [what's on](https://www.ronniescotts.co.uk/find-a-show)*
 
-The Frith Street room runs two shows every evening, and you watch them from a small table with dinner from the club's own menu served through the set. Main-room tickets usually run £40 to £65 (September 2026), and the food is on top. It is the club Time Out puts first on its jazz list, and the one Reddit threads about dining with jazz name more than any other, with two warnings repeated in them: it is "more a club that serves meals than a restaurant", and talking during the music gets you a warning and then asked to leave. Another reviewer was told no photos while the band is on.
+The Frith Street room runs two shows every evening, watched from a small table with dinner from the club's own menu served through the set. Main-room tickets usually run £40 to £65 (September 2026), and the food is on top. Time Out puts it first on its jazz list. It is a club that serves meals, not a restaurant: talking during the music gets you a warning and then asked to leave, and photos are not allowed while the band plays.
 
 ![A band plays on the Ronnie Scott's stage under the club's neon sign, with the audience at small lamplit tables in front](../../assets/articles/dinner-and-a-show-london/ronnie-scotts.jpg)
 
-The £12 Late Late Show is the cheap way into the same room, and the full history of the club, its Upstairs bar and the Monday jam is in [our live music venues guide](/articles/best-live-music-venues-london/). Book the main show ahead for any name you have heard of.
+The £12 Late Late Show is the cheap way into the same room; the Upstairs bar and the Monday jam are in [our live music venues guide](/articles/best-live-music-venues-london/). Book the main show ahead for any name you know.
 
 ### PizzaExpress Jazz Club, Soho
 
@@ -87,13 +87,13 @@ A basement under the Dean Street PizzaExpress with a ticketed act on its stage a
 
 ![A five-piece band on piano, trumpet, saxophone and drums plays in the basement room, a few feet from diners' tables](../../assets/articles/dinner-and-a-show-london/pizzaexpress-jazz-club.jpg)
 
-The rooms are small and the tables close together; one Reddit regular describes eating "in a cramped restaurant" with the band a few feet away, and the room is built that way. Two sister rooms work the same way with an act every night of the week: PizzaExpress Live Holborn at 99 High Holborn, and The Pheasantry at 152 King's Road in Chelsea, which [our cabaret guide](/articles/best-cabaret-london/) covers in full. Smart casual is the norm.
+The rooms are small and the tables close together, with the band a few feet away. Two sister rooms work the same way with an act every night of the week: PizzaExpress Live Holborn at 99 High Holborn, and The Pheasantry at 152 King's Road in Chelsea, which [our cabaret guide](/articles/best-cabaret-london/) covers in full. Smart casual is the norm.
 
 ### 606 Club, Chelsea
 
 *££ · Chelsea · 90 Lots Road, SW10 · Cited by 4 sources · #2 of 10, Time Out · [times and prices](https://www.606club.co.uk/times-prices/)*
 
-A basement club seating about 100, owned and run by musician Steve Rubie since 1976, which makes 2026 its fiftieth year. It publishes its whole price list: **£18 a head for the music Sunday to Thursday evenings, £23 on Friday and Saturday, and £16 for Sunday lunch** (doors 12.30pm, music 1.30 to 3.30pm). Evenings are two sets of jazz, Latin or soul by UK players, from 8pm in the week and 9pm at weekends.
+A basement club seating about 100. Its prices: **£18 a head for the music Sunday to Thursday evenings, £23 on Friday and Saturday, and £16 for Sunday lunch** (doors 12.30pm, music 1.30 to 3.30pm). Evenings are two sets of jazz, Latin or soul by UK players, from 8pm in the week and 9pm at weekends.
 
 ![A pianist and a saxophonist play in front of the lit 606 sign, beside round tables laid with white cloths and candles](../../assets/articles/dinner-and-a-show-london/606-club.jpg)
 
@@ -108,7 +108,7 @@ A two-level music venue where the first-floor restaurant is a mezzanine looking 
 
 ![Diners eat on the first-floor mezzanine at the Jazz Cafe, looking down on a band playing on the stage below](../../assets/articles/dinner-and-a-show-london/jazz-cafe.jpg)
 
-The music is soul, Afrobeat, jazz and singer-songwriters, not a jazz house style, and it usually starts 60 to 90 minutes after doors. **It is strictly 18+ with photo ID**, and the restaurant is up 16 steps with no step-free access. [Our live music guide](/articles/best-live-music-venues-london/) has the rest of the building.
+The music is soul, Afrobeat, jazz and singer-songwriters, and it usually starts 60 to 90 minutes after doors. **It is strictly 18+ with photo ID**, and the restaurant is up 16 steps with no step-free access. [Our live music guide](/articles/best-live-music-venues-london/) has the rest of the building.
 
 ### Toulouse Lautrec, Kennington
 
@@ -118,17 +118,17 @@ A French brasserie with live music in the dining room **every Thursday, Friday a
 
 ![A four-piece band plays on the stage of the Toulouse Lautrec jazz club, with people seated at small tables in front](../../assets/articles/dinner-and-a-show-london/toulouse-lautrec.jpg)
 
-The upstairs club serves small plates and sharing boards only, so the house advice is to buy the club ticket separately and eat downstairs 90 minutes before the show. Reddit's r/Jazz thread on dining with music lays out the rooms the same way. Tables for up to 12 book online.
+The upstairs club serves small plates and sharing boards only, so buy the club ticket separately and eat downstairs 90 minutes before the show. Tables for up to 12 book online.
 
 ### Oriole, Covent Garden
 
 *££ · Covent Garden · 7–9 Slingsby Place, St Martin's Courtyard, WC2E · Cited by 4 sources · [book a table](https://www.oriolebar.com/#reservations)*
 
-Oriole has moved from Smithfield and now plays **jazz, blues and world music Tuesday to Saturday** in St Martin's Courtyard, usually two sets from 8pm, with a Global Tuesdays slot for Cuban and other bands. It is closed on Sundays and Mondays. The menu is Latin and Asian-leaning: seabream ceviche with peach and leche de tigre at £15, a miso-gochujang pork chop at £25, a 34-day sirloin with triple-cooked chips at £45.
+Oriole plays **jazz, blues and world music Tuesday to Saturday** in St Martin's Courtyard, usually two sets from 8pm, with a Global Tuesdays slot for Cuban and other bands. It is closed on Sundays and Mondays. The menu is Latin and Asian-leaning: seabream ceviche with peach and leche de tigre at £15, a miso-gochujang pork chop at £25, a 34-day sirloin with triple-cooked chips at £45.
 
 ![A five-piece jazz band plays in front of a palm-tree mural at Oriole, with diners at a booth to one side](../../assets/articles/dinner-and-a-show-london/oriole.jpg)
 
-A cover charge of **£4 to £12** goes on the bill and is paid to the band; each night's figure is printed in the listing, and special nights can be ticketed. The downstairs room sometimes closes for private events, which shows in the same listings, so check the night before you plan around it.
+A cover charge of **£4 to £12** goes on the bill and is paid to the band; each night's figure is printed in the listing, and special nights can be ticketed. The downstairs room sometimes closes for private events, which show in the listings.
 
 ### Mu, Dalston
 
@@ -138,7 +138,7 @@ A Japanese robata restaurant with jazz five nights a week, Wednesday to Sunday, 
 
 ![Mu's dining room, with round tables in front of a small stage holding a piano and a drum kit](../../assets/articles/dinner-and-a-show-london/mu.jpg)
 
-The **£8 music charge is optional**, paid to the musicians and added only for guests seated during a performance; the house says it made it optional so people who do not care about the music can still eat. The Nudge puts it on both its live-music and its fun-restaurants lists, and a Reddit reply sums it up as "Japanese food and jazz. Good drinks."
+The **£8 music charge is optional**, paid to the musicians and added only for guests seated during a performance.
 
 ### Ladbroke Hall, North Kensington
 
@@ -148,13 +148,13 @@ A Grade II-listed building with jazz **every Friday** in its Sunbeam Theatre. Ti
 
 ![A vaulted dining room at Ladbroke Hall with a large sculptural chandelier, palm trees, a central bar and tables laid for dinner](../../assets/articles/dinner-and-a-show-london/ladbroke-hall.jpg)
 
-Standing tickets are sold on the door if there is room. It is a ten-minute walk from Ladbroke Grove, further out than anything else in this section.
+Standing tickets are sold on the door if there is room. It is a ten-minute walk from Ladbroke Grove.
 
 ### Dalston Jazz Bar, Dalston
 
 *£ · Dalston · 4 Bradbury Street, N16 · Cited by 2 sources · [its site](https://www.dalstonjazzbar.com)*
 
-A small room open **Thursday, Friday and Saturday nights only**, from 6pm to 1am on Thursdays and to 3am at weekends, where the band plays among the tables. Both TikTok creators who filmed it describe the same format: a menu with no prices, a run of seafood (baked and fresh oysters, mussels, prawns, a whole fish) and paying what you think it was worth. One suggests taking a late table and staying for when the tables are moved and it turns into a party. Book through the link on its site.
+A small room open **Thursday, Friday and Saturday nights only**, from 6pm to 1am on Thursdays and to 3am at weekends, where the band plays among the tables. The format, according to the two TikTok creators who filmed it: a menu with no prices, a run of seafood (baked and fresh oysters, mussels, prawns, a whole fish) and paying what you think it was worth. Late in the evening the tables are moved and it turns into a party. Book through the link on its site.
 
 ![A guitarist and a drummer play among tables laid with white cloths at Dalston Jazz Bar, under a large BEER sign](../../assets/articles/dinner-and-a-show-london/dalston-jazz-bar.jpg)
 
@@ -164,13 +164,13 @@ A small room open **Thursday, Friday and Saturday nights only**, from 6pm to 1am
 
 ## Restaurants with a band while you eat
 
-The restaurant comes first here. You book a table as normal, the music is background you can talk over, and it costs little or nothing extra.
+You book a table as normal, the music is background you can talk over, and it costs little or nothing extra.
 
 ### Brasserie Zédel, Piccadilly
 
 *£ · Piccadilly · 20 Sherwood Street, W1F · Cited by 7 sources · [book a table](https://www.sevenrooms.com/explore/brasseriezedellondon/reservations/create/search/?venues=brasseriezedellondon)*
 
-A gilded Art Deco basement brasserie off Piccadilly Circus where a house band plays **every day of the week**: 7 to 10.30pm Monday to Wednesday, 8 to 11.15pm Thursday to Saturday, and at lunch as well at the weekend (12.30 to 3.30pm, plus 6 to 9pm on Sundays). The week starting 28 September 2026 is La Bouche Manouche, a vintage swing band. **There is no music charge**, and the prix fixe is £16.95 for two courses or £19.95 for three, vichyssoise then steak haché; à la carte runs to boeuf bourguignon at £27.25 and coq au vin at £25.50.
+An Art Deco basement brasserie off Piccadilly Circus where a house band plays **every day of the week**: 7 to 10.30pm Monday to Wednesday, 8 to 11.15pm Thursday to Saturday, and at lunch as well at the weekend (12.30 to 3.30pm, plus 6 to 9pm on Sundays). The band changes weekly. **There is no music charge**, and the prix fixe is £16.95 for two courses or £19.95 for three, vichyssoise then steak haché; à la carte runs to boeuf bourguignon at £27.25 and coq au vin at £25.50.
 
 ![The gilded Art Deco dining room at Brasserie Zédel, with marble columns and tables laid with pink cloths](../../assets/articles/dinner-and-a-show-london/brasserie-zedel.jpg)
 
@@ -184,14 +184,14 @@ A big St James's dining room with live music **Monday to Saturday**: a duo, trio
 
 ![A singer and band perform on the stage at Quaglino's while diners eat at candlelit tables in front](../../assets/articles/dinner-and-a-show-london/quaglinos.jpg)
 
-There is no dress code, though the room is dressed-up. Children are not allowed in the bar after 6pm, and **Saturday brunch, with a five-piece band from 1.15pm, is adults only**. A Reddit r/Jazz reply describes the balance: "less of a focus on the quality of the jazz and more on the atmosphere".
+There is no dress code. Children are not allowed in the bar after 6pm, and **Saturday brunch, with a five-piece band from 1.15pm, is adults only**.
 
 ### The Parlour at The Ned, Bank
 
 <!-- evidence: The Ned -->
 *££ · Bank · 27 Poultry, EC2R · Cited by 5 sources · [its site](https://www.thened.com/london/restaurants/the-parlour)*
 
-The only one of The Ned's restaurants with live music, a jazz and cabaret room open **Wednesday to Saturday**, from 6pm to 11pm midweek and to midnight at weekends. The October 2026 bill has a Black Cat Cabaret show on Saturdays and soul on Fridays. The **"Jazz It Up" set menu is £80** for three courses and a welcome drink, with the entertainment included; book off the à la carte instead and **a £20 a head entertainment cover** goes on the bill. The kitchen does caviar, shellfish, fillet steak au poivre and a chicken Kiev with black truffle.
+The only one of The Ned's restaurants with live music, a jazz and cabaret room open **Wednesday to Saturday**, from 6pm to 11pm midweek and to midnight at weekends. The **"Jazz It Up" set menu is £80** for three courses and a welcome drink, with the entertainment included; book off the à la carte instead and **a £20 a head entertainment cover** goes on the bill. The kitchen does caviar, shellfish, fillet steak au poivre and a chicken Kiev with black truffle.
 
 ![A jazz band with trumpet, clarinet, trombone and double bass plays among velvet armchairs and lamplit tables at The Parlour](../../assets/articles/dinner-and-a-show-london/the-parlour-at-the-ned.jpg)
 
@@ -205,7 +205,7 @@ A Scottish restaurant with live music **Monday to Saturday nights** in Belgravia
 
 ![The red-painted shopfront of Boisdale at 13 Eccleston Street in Belgravia](../../assets/articles/dinner-and-a-show-london/boisdale.jpg)
 
-**A table in the restaurant does not include the show** unless you buy the ticket, and the 14.5% service charge applies to the dinner part. Evening music is 13+. The Belgravia building has stairs throughout and no lift. Canary Wharf runs weekend lunch-and-show sittings and shows booked through the same calendar; a Reddit commenter's warning applies to both: "more of a jazz-themed show than a proper gig".
+**A table in the restaurant does not include the show** unless you buy the ticket, and the 14.5% service charge applies to the dinner part. Evening music is 13+. The Belgravia building has stairs throughout and no lift. Canary Wharf runs weekend lunch-and-show sittings and shows booked through the same calendar.
 
 ### Louie, Covent Garden
 
@@ -219,7 +219,7 @@ A French brasserie between Soho and Covent Garden where **a pianist and a singer
 
 *££ · Marylebone · 76 Jason Court, Wigmore Street, W1U · Cited by 3 sources · [its site](https://2850bynight.co.uk)*
 
-A wine bar and kitchen off Wigmore Street that turns into a jazz room **Thursday to Saturday, 8pm to 2am**, playing Dixieland, trad jazz, blues and swing; Sunday to Wednesday it is private hire only. The food is bistro: seared tuna with ratatouille and romesco at £27.95, confit duck leg at £28.95, a 28-day rib-eye at £38.95, a cheeseburger at £19.95. There is no music charge for a normal table. Dress is smart casual. A TikTok creator filming London jazz rooms called it "relaxed, proper jazzy environment and delicious food".
+A wine bar and kitchen off Wigmore Street that turns into a jazz room **Thursday to Saturday, 8pm to 2am**, playing Dixieland, trad jazz, blues and swing; Sunday to Wednesday it is private hire only. The food is bistro: seared tuna with ratatouille and romesco at £27.95, confit duck leg at £28.95, a 28-day rib-eye at £38.95, a cheeseburger at £19.95. There is no music charge for a normal table. Dress is smart casual.
 
 ![A singer performs with a drummer, double bass and piano in front of the 28-50 By Night sign, with diners in the foreground](../../assets/articles/dinner-and-a-show-london/28-50-by-night.jpg)
 
@@ -228,7 +228,7 @@ A wine bar and kitchen off Wigmore Street that turns into a jazz room **Thursday
 <!-- evidence: Dishoom -->
 *£ · Kensington · 4 Derry Street, W8 · Cited by 4 sources · [book a table](https://www.sevenrooms.com/explore/dishoomkensington/reservations/create/search)*
 
-The Kensington branch of the Bombay café chain has live music **on Wednesdays, Thursdays and Fridays**. It is the ordinary Dishoom menu, with no cover charge: samosas, chicken ruby, house black daal and the nalli nihari biryani. The Sauce, The Handbook, The Nudge and London The Inside all single out this branch for it. Times are not published; book an evening table and the music comes with it. It is three minutes from High Street Kensington station.
+The Kensington branch of the Bombay café chain has live music **on Wednesdays, Thursdays and Fridays**. It is the ordinary Dishoom menu, with no cover charge: samosas, chicken ruby, house black daal and the nalli nihari biryani. The Sauce, The Handbook, The Nudge and London The Inside all single out this branch for it. Book an evening table and the music comes with it. It is three minutes from High Street Kensington station.
 
 ![The Art Deco dining room at Dishoom Kensington, with orange leather booths, a chequerboard floor and a mezzanine gallery](../../assets/articles/dinner-and-a-show-london/dishoom-kensington.jpg)
 
@@ -236,7 +236,7 @@ The Kensington branch of the Bombay café chain has live music **on Wednesdays, 
 
 *Angel · 139 Graham Street, N1 · Cited by 2 sources · [book a table](https://www.sevenrooms.com/reservations/plaqueminelock)*
 
-A Cajun and Creole pub with live jazz, blues and brass **on Friday nights, Saturday brunch and dinner, and Sunday brunch** — music from around 8.30pm at dinner and 12.30pm at brunch. The bands are named week by week; Ewan Bleach has the Saturday brunch slot through October 2026. The kitchen does shrimp and okra gumbo, po'boys and Eggs Sardou with artichoke, spinach and cornbread at brunch, and a happy hour (4 to 5.45pm, Tuesday to Friday) with £1 oysters. A 13.5% service charge applies. Reddit threads recommend it for exactly this, "a Saturday jazz brunch".
+A Cajun and Creole pub with live jazz, blues and brass **on Friday nights, Saturday brunch and dinner, and Sunday brunch** — music from around 8.30pm at dinner and 12.30pm at brunch. The bands are named week by week. The kitchen does shrimp and okra gumbo, po'boys and Eggs Sardou with artichoke, spinach and cornbread at brunch, and a happy hour (4 to 5.45pm, Tuesday to Friday) with £1 oysters. A 13.5% service charge applies.
 
 ![Tables beneath a painted mural of a Louisiana paddle steamer and the Plaquemine Lock building](../../assets/articles/dinner-and-a-show-london/plaquemine-lock.jpg)
 
@@ -245,7 +245,7 @@ A Cajun and Creole pub with live jazz, blues and brass **on Friday nights, Satur
 <!-- evidence: The Blues Kitchen -->
 *£ · Camden, Shoreditch and Brixton · 111–113 Camden High Street, NW1 · Cited by 9 sources · [book a table in Camden](https://theblueskitchen.com/camden/bookings/)*
 
-Three American-style bar-restaurants with **live music every night**, a different named night each evening (soul, R&B, blues, a Sunday blues jam), and **free entry for the music from 9.45pm**. It is named by more of the sources on this page than anything else. From the Camden menu: Korean fried chicken at £9.50, a birria taco at £11.50, a dry-aged cheeseburger at £13, a Hereford fillet at £35. A 12.5% service charge goes on food.
+Three American-style bar-restaurants with **live music every night**, a different named night each evening (soul, R&B, blues, a Sunday blues jam), and **free entry for the music from 9.45pm**. From the Camden menu: Korean fried chicken at £9.50, a birria taco at £11.50, a dry-aged cheeseburger at £13, a Hereford fillet at £35. A 12.5% service charge goes on food.
 
 ![The corner building of The Blues Kitchen on Camden High Street, its blue neon sign lit at dusk](../../assets/articles/dinner-and-a-show-london/the-blues-kitchen.jpg)
 
@@ -265,7 +265,7 @@ Dinner tables are held for about two hours, and booked tables get priority over 
 
 *££ · Bayswater · 27 Westbourne Grove, W2 · Cited by 2 sources · [its site](https://www.tirolerhutrestaurant.co.uk)*
 
-An Austrian restaurant open since 1967, where the owner, Josef Friedmann, has been playing his cowbell show for more than 30 years, alongside yodelling and an accordion "Do-Re-Mi". Time Out ranks it fifth of 19 on its quirky restaurants list. Groups eat a party menu at £49 a head. The show nights are not published, and bookings are by phone (020 7243 9277), so ask when the cowbells are on as you book.
+An Austrian restaurant where the owner, Josef Friedmann, plays his cowbell show, alongside yodelling and an accordion "Do-Re-Mi". Time Out ranks it fifth of 19 on its quirky restaurants list. Groups eat a party menu at £49 a head. Bookings are by phone (020 7243 9277); ask when the cowbells are on as you book.
 
 ![A man in Tyrolean dress lays out cowbells on a red-checked tablecloth for the show at The Tiroler Hut](../../assets/articles/dinner-and-a-show-london/the-tiroler-hut.jpg)
 
@@ -280,7 +280,7 @@ These sell a show first. You buy a ticket at a set time, and dinner is either in
 <!-- evidence: 58th Street -->
 *£££ · Peckham · 133 Rye Lane, SE15 · Cited by 4 sources · [book](https://58thstreet.co.uk/reservations/)*
 
-A recreation of Belle Livingstone's 1930s New York speakeasy, three minutes from Peckham Rye station, with **three sets of live jazz** from The 58th Street Stompers, burlesque and a story told around you. It lasts about three hours 45 minutes. **Experience-only tickets are £74.85 and the six-course "Park Avenue" dining tickets from £119.85**, so you can see the whole show without the dinner. Evenings start at 6pm (first course 6.30pm, no admission after 7pm), with matinees from noon.
+A 1930s New York speakeasy show, three minutes from Peckham Rye station, with **three sets of live jazz** from The 58th Street Stompers, burlesque and a story told around you. It lasts about three hours 45 minutes. **Experience-only tickets are £74.85 and the six-course "Park Avenue" dining tickets from £119.85**, so you can see the whole show without the dinner. Evenings start at 6pm (first course 6.30pm, no admission after 7pm), with matinees from noon.
 
 ![A singer in a feathered headdress and beaded 1920s dress performs at a vintage microphone, with diners at lamplit tables behind](../../assets/articles/dinner-and-a-show-london/58th-street.jpg)
 
@@ -294,7 +294,7 @@ GetYourGuide sells <a href="https://www.getyourguide.com/activity/-t888396?partn
 
 *£££ · Holborn · Victoria House, Bloomsbury Square, WC1B · Cited by 7 sources · [book](https://www.thelondoncabaretclub.com/book-tickets/)*
 
-A full themed production in an Art Deco room, with pre-show entertainment from 6.30pm, the main show around 7pm to 7.30pm and an after-party. The current show is **Roxie Rocks Chicago**, a 1920s speakeasy story; El Dia of the Dead takes over at Halloween and Christmas in Chicago in December. Tiers start at **Silver from £49.50, which includes no food at all**, then Gold from £99.50 with three courses, Diamond from £154.50 with a VIP three-course menu, and Royal Diamond from £199.50 with half a bottle of Moët. Fridays and Saturdays cost far more than weekdays, and Thursdays are 25% off through October 2026.
+A full themed production in an Art Deco room, with pre-show entertainment from 6.30pm, the main show around 7pm to 7.30pm and an after-party. The regular show is **All About Gatsby**, a Roaring Twenties dining and cabaret evening; **El Día of the Dead** runs on 30 and 31 October, **A Gatsby Christmas** follows, and there is a Great Gatsby New Year's Eve party on 31 December. Tiers start at **Silver from £49.50, which includes no food at all**, then Gold from £99.50 with three courses, Diamond from £154.50 with a VIP three-course menu, and Royal Diamond from £199.50 with half a bottle of Moët. Fridays and Saturdays cost far more than weekdays.
 
 ![Dancers in gold feathered headdresses and capes performing on stage](../../assets/articles/dinner-and-a-show-london/the-london-cabaret-club.jpg)
 
@@ -338,13 +338,13 @@ It is over-14s only from 7pm on Thursday to Saturday. The balcony is up a narrow
 
 ## Dining theatre: comedy, a murder and a tiny chef
 
-A cast, a script and dinner as part of the plot. Several of these want you to join in; the entries say which.
+A cast, a script and dinner as part of the plot. The entries say which ones want you to join in.
 
 ### Faulty Towers The Dining Experience, Russell Square
 
 *££ · Bloomsbury · President Hotel, 56–60 Guilford Street, WC1N · Cited by 2 sources · [its site](https://www.interactivetheatre.com.au/faulty-towers-the-dining-experience/)*
 
-Basil, Sybil and Manuel serve you a three-course set menu in a Bloomsbury hotel over two hours, in a show now in its thirteenth year here. You are a hotel guest, not an audience, so you will be spoken to and roped in. Prices rise through the week: **from £65.50 on a Wednesday to £88.50 on a Saturday evening**, dinner included and drinks extra. Nut allergies must be flagged 72 hours ahead, and the show contains a peanut gag. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/). [Our immersive guide](/articles/immersive-experiences-london/) has more on how much it asks of you.
+Basil, Sybil and Manuel serve you a three-course set menu in a Bloomsbury hotel over two hours. You are a hotel guest, not an audience, so you will be spoken to and roped in. Prices rise through the week: **from £65.50 on a Wednesday to £88.50 on a Saturday evening**, dinner included and drinks extra. Nut allergies must be flagged 72 hours ahead, and the show contains a peanut gag. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/). [Our immersive guide](/articles/immersive-experiences-london/) has more on how much it asks of you.
 
 ![Manuel, in a white waiter's jacket, walks between diners at numbered tables in a hotel function room, with Sybil and Basil behind](../../assets/articles/dinner-and-a-show-london/faulty-towers.jpg)
 
@@ -360,7 +360,7 @@ A 1937 dining car in a railway arch, seven minutes from Bethnal Green station, w
 
 *£££ · Victoria · Taj 51 Buckingham Gate, SW1E · Cited by 3 sources · [book](https://booking.lepetitchef.com/londont/)*
 
-A projection, not a performer: an animated chef six centimetres tall cooks each course on your plate before the real one arrives, over about two hours. The Classic and Vegetarian menus are £139 a head, the Grand menu £149, and a Juniors menu for 6 to 12-year-olds £69, all plus 12.5% service. Arrive 30 minutes early; you may share a table with other guests, and gluten-free needs 48 hours' notice. Dress is smart casual with closed shoes. It runs at Taj 51 Buckingham Gate.
+A projection, not a performer: an animated chef six centimetres tall cooks each course on your plate before the real one arrives, over about two hours. The Classic and Vegetarian menus are £139 a head, the Grand menu £149, and a Juniors menu for 6 to 12-year-olds £69, all plus 12.5% service. Arrive 30 minutes early; you may share a table with other guests, and gluten-free needs 48 hours' notice. Dress is smart casual with closed shoes.
 
 ![A tiny animated chef projected onto a dinner plate, among projected kitchen tools on the table](../../assets/articles/dinner-and-a-show-london/le-petit-chef.jpg)
 
@@ -376,7 +376,7 @@ A film on screen and a multi-course menu cooked to match it, course by course, a
 
 *£££ · North Greenwich · The O2 · Cited by 3 sources · [book](https://mammamiatheparty.com/london/tickets/)*
 
-A Greek taverna set inside The O2, where a Sandi Toksvig story plays out around, above and below the tables over a four-course Greek sharing menu — mezze, lamb stifado and slow-cooked beef, a dessert plate with baklava and orange ravani — and then the room becomes an ABBA disco. It lasts about four hours. **Tier C, with a view restricted by pillars, is £120 off-peak and £154 peak; Tier A is £213 to £246.** Drinks are extra, tables are pre-allocated and you may share with strangers. Minimum age 5. Tickets are on sale to April 2027.
+A Greek taverna set inside The O2, where a Sandi Toksvig story plays out around, above and below the tables over a four-course Greek sharing menu — mezze, lamb stifado and slow-cooked beef, a dessert plate with baklava and orange ravani — and then the room becomes an ABBA disco. It lasts about four hours. **Tier C, with a view restricted by pillars, is £120 off-peak and £154 peak; Tier A is £213 to £246.** Drinks are extra, tables are pre-allocated and you may share with strangers. Minimum age 5. Tickets are on sale to 4 April 2027.
 
 ![Looking down on the Greek taverna set of Mamma Mia! The Party, with diners at long tables, balconies and a fountain](../../assets/articles/dinner-and-a-show-london/mamma-mia-the-party.jpg)
 
@@ -402,7 +402,7 @@ None of London's comedy clubs is a restaurant, so these are the ways to eat and 
 
 *£ · Dalston · 117 Kingsland High Street, E8 · Cited by 2 sources · [book](https://dalstonsuperstore.com/drag-brunch/)*
 
-A drag brunch **every Saturday and Sunday**, with rotating hosts performing through the afternoon, for **£8 a head including a mimosa cocktail or a soft drink** on arrival. Walk-ins are welcome but not guaranteed a table, and the booking widget takes parties up to 14. A Reddit thread on drag brunches calls the drag "very quirky, fun and often hilarious", and adds that a lot of the *Drag Race UK* queens have roots there. It is the cheapest ticket on this page.
+A drag brunch **every Saturday and Sunday**, with rotating hosts performing through the afternoon, for **£8 a head including a mimosa cocktail or a soft drink** on arrival. Walk-ins are welcome but not guaranteed a table, and the booking widget takes parties up to 14. It is the cheapest ticket on this page.
 
 ![The tiled bar and wooden booths inside Dalston Superstore, under a skylight](../../assets/articles/dinner-and-a-show-london/dalston-superstore.jpg)
 
@@ -425,7 +425,7 @@ A drag bingo brunch across three floors of a Shoreditch bar with a rooftop, **ev
 
 *££ · Angel · Angel Central, 21 Parkfield Street, N1 · [its brunches](https://www.soulmama.co.uk/brunches)*
 
-The House Gospel Choir performs at Soul Mama in Angel Central on selected Sundays, with **two sittings, noon to 2.30pm and 3pm to 5.30pm**. The dates on sale are **11 October, 8 November, 13 December and 20 December 2026**. Soul Mama runs other themed brunches on Saturdays, from soca to Afrobeats, so check you are booking the choir.
+The House Gospel Choir performs at Soul Mama in Angel Central on selected Sundays, with **two sittings, noon to 2.30pm and 3pm to 5.30pm**. The dates on sale are **8 November and 20 December 2026**. Soul Mama runs other themed brunches on Saturdays, from soca to Afrobeats, so check you are booking the choir.
 
 ![Diners at tables in Soul Mama, with the glittering Soul Mama stage behind them](../../assets/articles/dinner-and-a-show-london/soul-mama.jpg)
 
@@ -458,7 +458,7 @@ A bar and restaurant inside a Grade II-listed former church. Its brunch is not a
 
 *££ · Westminster · Westminster Pier, SW1A · [its site](https://www.cityexperiences.com/london/city-cruises/)*
 
-City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, on selected dates, not nightly, at £119 in late September 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, and has one date on sale, 31 October. All three are for ages 13 and over.
+City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, on selected dates, not nightly, at £119 in late September 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, at 19:45 for three hours, about twice a month, at £89 a head. All three are for ages 13 and over.
 
 GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">three-hour Thames dinner cruise with a live performance and dancing</a> from £81. [Our Thames cruises guide](/articles/thames-river-cruises-london/) compares every sailing, including the cheaper lunch cruise that passes the same landmarks.
 
@@ -468,11 +468,11 @@ GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partn
 
 ## What to know before you book
 
-* **Check whether the music is on the bill.** Toulouse Lautrec (£5–£7), Oriole (£4–£12), Mu (£8, optional), The Parlour (£20 off the set menu), The Piano Works (£5 at 7.30pm) and the 606 Club (£16–£23) all add it at the end. Zédel, Quaglino's, Dishoom Kensington and The Blues Kitchen do not.
+* **Check whether the music is on the bill.** Toulouse Lautrec (£5–£7), Oriole (£4–£12), Mu (£8, optional), The Parlour (£20 off the set menu), The Piano Works (£5 at 7.30pm) and the 606 Club (£16–£23) add it at the end. Zédel, Quaglino's, Dishoom Kensington and The Blues Kitchen do not.
 * **A dinner booking is not always a show booking.** At Boisdale the restaurant and the music are separate tickets; at Crazy Coqs the show and Brasserie Zédel's dinner are separate; at the Kit Kat Club, food is cleared before the curtain.
 * **The cheapest tier may have no food in it.** The London Cabaret Club's Silver and 58th Street's experience-only tickets are the show without dinner.
 * **Age limits vary widely.** Jazz Cafe, INCA, The Maine, The Piano Works and the drag brunches are 18+. Sarastro is over-14s from 7pm Thursday to Saturday, Boisdale's evening music 13+, the Thames cruises 13+. The London Cabaret Club takes children from 7, Mamma Mia! The Party and The Murdér Express from 5.
-* **Keep quiet in the jazz clubs.** Ronnie Scott's and the PizzaExpress rooms are listening rooms. For somewhere you can talk over the music, choose a restaurant from the second section.
+* **Keep quiet in the jazz clubs.** Ronnie Scott's and the PizzaExpress rooms are listening rooms; to talk over the music, choose a restaurant from the second section.
 * **Dress up for the shows.** 58th Street asks for "1930s luxe", The London Cabaret Club for "smart elegance", INCA and The Maine for "smart elegant". The jazz clubs are smart casual, and the 606 turns away shorts.
 * **November is jazz month.** The EFG London Jazz Festival runs 13 to 22 November 2026; [our festival guide](/articles/london-jazz-festival/) has what is on where.
 
