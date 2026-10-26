@@ -20,7 +20,7 @@ faq:
   - q: "What is the best historic house in London?"
     a: "Sir John Soane's Museum: the architect's own house, preserved by Act of Parliament exactly as he left it in 1837, and free. For a different kind of house, Eltham Palace has a 1930s art deco mansion built onto Henry VIII's childhood palace."
   - q: "Which London palaces can you visit?"
-    a: "Hampton Court, Kensington Palace, the Tower of London and Eltham Palace are all open year-round, though Eltham opens weekends only from early November to mid-February and Kensington Palace is closed Mondays and Tuesdays at present. Buckingham Palace's State Rooms open only in summer, with a guided winter tour of the East Wing, and sell out months ahead."
+    a: "Hampton Court, Kensington Palace, the Tower of London and Eltham Palace are all open year-round, though Eltham opens weekends only from early November to mid-February and Kensington Palace opens Wednesday to Sunday from late October. Buckingham Palace's State Rooms open only in summer, with a guided winter tour of the East Wing, and sell out months ahead."
   - q: "Which historic buildings in London are free?"
     a: "Sir John Soane's Museum, St Paul's the Actors' Church in Covent Garden, the Fitzrovia Chapel, All Saints Margaret Street, St Dunstan in the East and the grounds of the Old Royal Naval College and Royal Hospital Chelsea."
   - q: "Is St Paul's Cathedral worth the entry fee?"
