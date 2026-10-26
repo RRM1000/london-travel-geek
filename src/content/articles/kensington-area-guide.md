@@ -3,7 +3,8 @@ title: "Kensington Area Guide: The Palace, Holland Park and the Kyoto Garden"
 seoTitle: "Kensington Guide: Kensington Palace & Holland Park"
 description: "A complete Kensington guide: Kensington Palace and Gardens, Holland Park and the Kyoto Garden, the Design Museum, Leighton House and opera under canvas."
 publishedAt: 2026-08-21
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2026-11-26
 sites:
   - london
 canonicalSite: london
@@ -56,13 +57,13 @@ faq:
   - q: "Is Kensington Gardens the same as Hyde Park?"
     a: "They adjoin and most people walk between them without noticing, but they are separate parks with separate managers. Kensington Gardens is the western half, containing Kensington Palace, the Albert Memorial, the Serpentine galleries and the Italian Gardens. Hyde Park is the eastern half, with Speakers' Corner and the Serpentine lake. The boundary runs roughly along the West Carriage Drive."
   - q: "Do you have to pay to enter Kensington Palace?"
-    a: "To go inside the State Apartments, yes — it is a Historic Royal Palaces site with an admission charge, and booking ahead is cheaper. The surrounding Kensington Gardens are free and open daily, as is the Sunken Garden beside the palace, which is one of the prettiest formal gardens in London."
+    a: "To go inside the State Apartments, yes: it is a Historic Royal Palaces site and adults pay £24.70. The surrounding Kensington Gardens are free and open daily, as is the Sunken Garden beside the palace."
   - q: "Where is the Kyoto Garden?"
-    a: "Inside Holland Park, about ten minutes north-west of High Street Kensington. It is a Japanese garden given by the Chamber of Commerce of Kyoto in 1991, with a tiered waterfall, a koi pond and resident peacocks. It is free and open during park hours, and it is small — allow twenty minutes rather than an afternoon."
+    a: "Inside Holland Park, about ten minutes north-west of High Street Kensington. It is a Japanese garden given by the Chamber of Commerce of Kyoto in 1991, with a tiered waterfall, a koi pond and resident peacocks. It is free and open during park hours; allow twenty minutes."
   - q: "Is the Design Museum free?"
-    a: "The permanent Designer Maker User gallery is free; temporary exhibitions are ticketed. It sits on the southern edge of Holland Park in the former Commonwealth Institute, a 1962 building with a dramatic hyperbolic paraboloid roof that is worth seeing in its own right."
+    a: "The permanent Designer Maker User gallery is free; temporary exhibitions are ticketed. It sits on the southern edge of Holland Park in the former Commonwealth Institute, a 1962 building with a hyperbolic paraboloid roof."
   - q: "What is Opera Holland Park?"
-    a: "A summer opera season staged under a temporary canopy in the grounds of the ruined Holland House, running roughly June to August. It is open-air in feel, considerably less formal than the major houses, and tickets are far cheaper. Peacocks have been known to wander across during performances."
+    a: "A summer opera season staged under a temporary canopy in the grounds of the ruined Holland House, running June to August. The 2027 season opens on 1 June."
 heroImage: ../../assets/articles/kensington-area-guide/victoria-and-kensington-palace.jpg
 heroImageAlt: "Kensington Palace and the Queen Victoria statue in Kensington Gardens"
 heroImageSource: https://commons.wikimedia.org/wiki/File:Victoria_and_Kensington_Palace.jpg
@@ -70,27 +71,27 @@ heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/3.0
 ---
 
-Kensington is the stretch between Notting Hill and the museums: a royal palace, two very different parks, and a high street that is calmer than anything comparable in central London.
+Kensington is the stretch between Notting Hill and the museums: a royal palace, two very different parks, and a calm high street.
 
-It is also where several of London's best-known sights actually sit — Kensington Palace, the Albert Memorial and the Serpentine galleries are all here, in Kensington Gardens, not Hyde Park, which is the adjoining park to the east.
+Kensington Palace, the Albert Memorial and the Serpentine galleries are all here, in Kensington Gardens, not Hyde Park, which is the adjoining park to the east.
 
 Kensington has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=kensington).
 
 ## Why visit — and who should skip it
 
-**Come here if** you want gardens. Between Kensington Gardens, Holland Park and the Kyoto Garden, this is the greenest walkable district in central London, and almost all of it is free.
+**Come here if** you want gardens. Between Kensington Gardens, Holland Park and the Kyoto Garden, almost everything is free.
 
-**Skip it if** you are short on time and already doing South Kensington's museums. The two adjoin and cover similar ground for a visitor — if you only have one afternoon in west London, the free museums will give you more.
+**Skip it if** you are short on time and already doing South Kensington's museums. The two adjoin, and if you only have one afternoon in west London the free museums will give you more.
 
 ## Top sights and activities
 
-1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed; the **Sunken Garden** beside it is free and one of the best formal gardens in the city.
+1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed (adults £24.70; as of 26 October 2026 open Wednesday to Sunday, 10am to 4pm, last entry 3pm). The **Sunken Garden** beside it is free.
 2. **Kensington Gardens** — 265 acres. The Albert Memorial, the Italian Gardens at the north end, the Peter Pan statue and the Diana Memorial Playground.
-3. **Holland Park and the Kyoto Garden** — A Japanese garden given by Kyoto in 1991, with a tiered waterfall, koi and peacocks. Free, small, and the best twenty minutes in the area.
-4. **The Design Museum** — In the former Commonwealth Institute, under a swooping 1962 roof. The permanent gallery is free.
-5. **Leighton House** — The purpose-built studio-home of the Victorian painter Frederic Leighton, with an Arab Hall lined in Damascus tiles. Small, ticketed and extraordinary.
-6. **Serpentine Galleries** — Two free contemporary art spaces in Kensington Gardens, with the annual summer **Pavilion** commissioned from a different architect each year.
-7. **Opera Holland Park** — Summer opera under canvas in the ruins of Holland House, cheaper and far less formal than the major houses.
+3. **Holland Park and the Kyoto Garden** — A Japanese garden given by Kyoto in 1991, with a tiered waterfall, koi and peacocks. Free and small; allow twenty minutes.
+4. **The Design Museum** — In the former Commonwealth Institute, under a 1962 hyperbolic paraboloid roof. The permanent gallery is free.
+5. **Leighton House** — The purpose-built studio-home of the Victorian painter Frederic Leighton, with an Arab Hall lined in Damascus tiles. Ticketed; open Wednesday to Monday, 10am to 5.30pm.
+6. **Serpentine Galleries** — Two free contemporary art spaces in Kensington Gardens, with a **Pavilion** commissioned from a different architect each summer.
+7. **Opera Holland Park** — Summer opera under canvas in the ruins of Holland House.
 
 ![The Round Pond in Kensington Gardens at dusk, with Kensington Palace low on the horizon beyond](../../assets/articles/kensington-area-guide/kensington-gardens.jpg)
 
@@ -99,11 +100,9 @@ Kensington has its own share of the commemorative plaques marking where notable 
 ## Key streets and micro-districts
 
 ### Kensington High Street
-The main road, and a high street that was once a genuine rival to Oxford Street before the department stores went. What survives is the chains, and one thing that is unlike anywhere else in London.
+The main road: chains, and one thing unlike anywhere else in London.
 
-**Kensington Roof Gardens** sit a hundred feet up on top of the old Derry & Toms building — an acre and a half laid out in 1938 as a Spanish garden, a Tudor garden and an English woodland, with mature trees growing in rooftop soil and flamingos that have lived up there for decades.
-
-**Access has never been reliable.** The gardens have opened and closed with successive owners and are not a public park, so check before you build an afternoon around them. The street itself is a five-minute walk end to end from High Street Kensington station.
+**Kensington Roof Gardens** sit a hundred feet up on top of the old Derry & Toms building: an acre and a half laid out in 1938 as a Spanish garden, a Tudor garden and an English woodland, with flamingos. They are now a private members' club, not a public visit. The street itself is a five-minute walk end to end from High Street Kensington station.
 
 South of the high street, **Olympia London** runs a year-round programme of exhibitions and conventions, from AnimeCon to the Ideal Home Show — our [exhibitions and conventions guide](/articles/exhibitions-conventions-london/) has the full calendar and how to reach the venue.
 
@@ -118,57 +117,55 @@ South of the high street, **Olympia London** runs a year-round programme of exhi
 ![The Pavilion cafe at Kensington Palace, a long red brick building with outdoor tables under white umbrellas](../../assets/articles/kensington-area-guide/kensington-palace-pavilion.jpg)
 
 *The Pavilion cafe, Kensington Palace.*
-North-east, and the reason most people come. **Kensington Palace is ticketed**; the gardens around it are free, which is the distinction that catches people out.
+North-east. **Kensington Palace is ticketed**; the gardens around it are free.
 
-Free and worth the walk: the **Sunken Garden**, the **Albert Memorial**, the two **Serpentine galleries** — which run free contemporary art shows and a new architectural pavilion each summer — the **Italian Gardens** at the Lancaster Gate end, and the **Diana Memorial Playground**.
+Free: the **Sunken Garden**, the **Albert Memorial**, the two **Serpentine galleries**, which run contemporary art shows and a new architectural pavilion each summer, the **Italian Gardens** at the Lancaster Gate end, and the **Diana Memorial Playground**.
 
-**The gardens open at 6am and close at dusk**, and are considerably quieter than Hyde Park next door despite being continuous with it — Hyde Park itself stays open later.
+**The gardens open at 6am and close at dusk** (5pm in winter). Hyde Park next door stays open later.
 
 ### Holland Park
-North-west, and **the best park in this part of London by a distance** — twenty-two hectares, half of it genuine woodland, not mown grass, which is rare this far in.
+North-west: twenty-two hectares, half of it woodland rather than mown grass.
 
 ![Formal planted beds at Holland Park, clipped box balls and dense borders on a terraced slope](../../assets/articles/kensington-area-guide/holland-park-formal-garden.jpg)
 
-The **Kyoto Garden** is the one people photograph: a Japanese garden given to the borough in 1991, with a tiered waterfall, koi, and **peacocks that wander through it** and are entirely unbothered by anyone. The **Dutch Garden** has formal beds in front of the surviving wing of Holland House, and an **opera canopy** stands over the ruins for a summer season.
+The **Kyoto Garden** is the one people photograph: a Japanese garden given to the borough in 1991, with a tiered waterfall, koi and **peacocks that wander through it**. The **Dutch Garden** has formal beds in front of the surviving wing of Holland House, and an **opera canopy** stands over the ruins for a summer season.
 
 ![The garden terrace beside the surviving wing of Holland House, with the cupola above the trees](../../assets/articles/kensington-area-guide/holland-park-belvedere.jpg)
 
-**Free and open daily.** Come on a weekday morning if you want the Kyoto Garden without a queue for the same photograph.
+**Free and open daily.** Come on a weekday morning to have the Kyoto Garden to yourself.
 
 ### Kensington Church Street
-Running north towards Notting Hill, and **the antiques street of west London** — dealers in furniture, ceramics and Asian art, most of them by appointment or looking as though they would prefer to be.
+Running north towards Notting Hill: antiques dealers in furniture, ceramics and Asian art, many by appointment.
 
 ![The Churchill Arms on Kensington Church Street, its whole frontage covered in hanging flower baskets and Union flags, with a crowd drinking outside](../../assets/articles/kensington-area-guide/churchill-arms-flowers.jpg)
 
-At the top stands the **Churchill Arms**, buried under thousands of flowers in summer and around ninety Christmas trees in December, with a Thai kitchen in the conservatory at the back. The flowers peak in high summer and the crowd outside is year-round.
+At the top stands the **Churchill Arms**, covered in flowers in summer and around ninety Christmas trees in December, with a Thai kitchen in the conservatory at the back. The flowers peak in high summer and the crowd outside is year-round.
 
-**It is a steady uphill walk**, about ten minutes from High Street Kensington to Notting Hill Gate, and the shops keep their own hours, not a high street's — expect a good number shut on a Monday.
+**It is a steady uphill walk**, about ten minutes from High Street Kensington to Notting Hill Gate, and the shops keep their own hours: expect a good number shut on a Monday.
 
 <div data-stay-strip></div>
 
 ### Holland Park Avenue and Campden Hill
-The stucco terraces and private garden squares between the two parks — among the most expensive residential streets in Britain, and almost entirely without shops, cafés or anything to do.
+The stucco terraces and private garden squares between the two parks, with almost no shops or cafés.
 
-**That is the appeal, and the limit.** It is a lovely twenty minutes on foot between Holland Park and Notting Hill Gate, past white-fronted houses and communal gardens you cannot enter, and there is nothing at the end of it but another main road.
-
-Walk it as a link between the two parks rather than as a destination.
+It is a twenty-minute walk between Holland Park and Notting Hill Gate, past white-fronted houses and communal gardens you cannot enter. Walk it as a link between the two parks, not as a destination.
 
 ## Go deeper
 
-- **[London's historic houses](/articles/historic-houses-london/)** — Kensington Palace and Leighton House, the second of which almost nobody visits.
+- **[London's historic houses](/articles/historic-houses-london/)** — Kensington Palace and Leighton House.
 - **[The best afternoon tea in London](/articles/best-afternoon-tea-london/)** — the Kensington hotels do several of the better ones, at less than Mayfair prices.
-- **[HYPER JAPAN Festival](/articles/hyper-japan-london/)** — the UK's biggest Japanese culture event fills Olympia's Grand Hall for a weekend most summers, a short walk beyond Holland Park.
+- **[HYPER JAPAN Festival](/articles/hyper-japan-london/)** — the Japanese culture festival at Olympia, a short walk beyond Holland Park.
 
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **The Belvedere** | Modern British | £££ | In Holland Park itself, in a former ballroom |
-| **The Churchill Arms** | Historic pub, Thai kitchen | ££ | Kensington Church Street; buried in flowers in summer |
+| **The Churchill Arms** | Historic pub, Thai kitchen | ££ | Kensington Church Street; covered in flowers in summer |
 | **Kensington Palace Pavilion** | Cafe | ££ | Beside the palace, with garden seating |
-| **The Ivy Kensington Brasserie** | Modern European | £££ | High Street; reliable and good for a long lunch |
+| **The Ivy Kensington Brasserie** | Modern European | £££ | On the High Street |
 | **Holland Park Cafe** | Park cafe | £ | Beside the Kyoto Garden and the sports pitches |
-| **Whole Foods Kensington** | Food hall | £ | The practical option; large hot counter upstairs |
+| **Whole Foods Kensington** | Food hall | £ | Large hot counter upstairs |
 
 ## Getting there
 
@@ -188,9 +185,9 @@ Walk it as a link between the two parks rather than as a destination.
 | **Half a day** | Add Kensington Gardens, the Sunken Garden and the Albert Memorial |
 | **A full day** | Add Kensington Palace and Leighton House |
 
-**Best time:** First thing. The Kyoto Garden is small and gets busy from mid-morning, and the peacocks are most active early.
+**Best time:** First thing. The Kyoto Garden gets busy from mid-morning, and the peacocks are most active early.
 
-**Seasonal:** The Serpentine Pavilion runs June to October. Opera Holland Park runs June to August. The Sunken Garden is at its best in late spring.
+**Seasonal:** A new Serpentine Pavilion opens each June and stays until October. Opera Holland Park runs June to August. The Sunken Garden is at its best in late spring.
 
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
@@ -213,8 +210,8 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 2. **Allowing an afternoon for the Kyoto Garden.** It is small. Twenty minutes, then the rest of Holland Park.
 3. **Paying for the Design Museum's free gallery.** The permanent collection is free; only temporary shows are ticketed.
 4. **Arriving after dusk.** Both parks close their gates at nightfall.
-5. **Missing Leighton House.** It is ten minutes west of Holland Park and unlike anything else in London.
-6. **Doing this and South Kensington on the same afternoon.** They adjoin, but both deserve their own half day.
+5. **Missing Leighton House.** It is ten minutes west of Holland Park.
+6. **Doing this and South Kensington on the same afternoon.** They adjoin, but both need their own half day.
 
 ## Where to stay
 
@@ -222,7 +219,7 @@ Quiet, green and well connected, with prices to match the postcode.
 
 - **Kensington High Street** — Larger hotels on the District and Circle lines, walkable to both parks.
 - **Holland Park and Campden Hill** — Townhouse hotels in the quietest streets, at a premium.
-- **Earl's Court** — Ten minutes south, considerably cheaper, same District line access.
+- **Earl's Court** — Ten minutes south, cheaper, same District line access.
 
 Our [Kensington and Earl's Court hotel guide](/articles/where-to-stay-kensington/) compares the hotels, from Kensington High Street to Olympia.
 
