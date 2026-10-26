@@ -3,7 +3,7 @@ title: "Mayfair Area Guide: The Arcades, Bond Street and the Royal Academy"
 seoTitle: "Mayfair Guide: Bond Street, Arcades & Free Galleries"
 description: "A complete Mayfair guide: the Victorian shopping arcades, the Royal Academy, Handel and Hendrix next door to each other, and the free things worth doing."
 publishedAt: 2026-08-20
-updatedAt: 2026-10-03
+updatedAt: 2026-10-26
 sites:
   - london
 canonicalSite: london
@@ -14,6 +14,7 @@ tags:
   - Royal Academy
   - neighbourhoods
 draft: false
+reviewBy: 2027-01-15
 area:
   name: "Mayfair"
   zone: "1"
@@ -57,40 +58,40 @@ area:
       note: "East along Piccadilly for the Piazza and the theatres."
 faq:
   - q: "Is there anything free to do in Mayfair?"
-    a: "More than you would expect. The **Burlington Arcade** and the other Victorian arcades are free to walk through. The Royal Academy's courtyard and its Fine Rooms are free, with only the main exhibitions ticketed. Almost all of Mayfair's commercial art galleries — and there are dozens on Cork Street and around — are free to walk into. Green Park and the Georgian squares cost nothing."
+    a: "The **Burlington Arcade** and the other Victorian arcades are free to walk through. The Royal Academy's courtyard and Fine Rooms are free; only the main exhibitions are ticketed. The dozens of commercial galleries on and around Cork Street are free to walk into, and so are Green Park and the Georgian squares."
   - q: "What are the Beadles in Burlington Arcade?"
-    a: "The arcade's own uniformed guards, in place since 1819 and still enforcing its original rules: no running, no whistling, no singing, and no opening of umbrellas. They are believed to be the oldest small police force in the world. The rules are enforced politely but firmly."
+    a: "The arcade's own uniformed guards, in place since 1819. They enforce its original rules: no running, no whistling, no singing and no opening of umbrellas."
   - q: "Did Handel and Jimi Hendrix really live next door to each other?"
     a: "Yes, at 25 and 23 Brook Street, though 200 years apart. Handel lived at number 25 from 1723 until his death in 1759 and wrote *Messiah* there. Hendrix rented the top floor of number 23 in 1968. Both flats are now a single museum, Handel Hendrix House, which is ticketed."
   - q: "Is Mayfair worth visiting if I am not shopping?"
-    a: "Yes, for the architecture and the galleries. It is the best-preserved Georgian grid in central London — laid out from the 1720s — and the density of free commercial art galleries is unmatched anywhere in the city. Shepherd Market in the middle is a genuine surprise: a small, scruffy village of pubs in the most expensive postcode in Britain."
+    a: "Yes, for the architecture and the galleries: a Georgian street grid laid out from the 1720s, and dozens of free commercial galleries. Shepherd Market in the middle is a small village of pubs and pavement tables."
   - q: "What is the Royal Academy Summer Exhibition?"
-    a: "An open-submission show held every year since 1769 — the longest-running of its kind in the world. Anyone can submit, and the accepted works hang salon-style, floor to ceiling, alongside Royal Academicians. It runs roughly June to August and is ticketed."
+    a: "An open-submission show held every year since 1769. Anyone can submit, and the accepted works hang floor to ceiling alongside work by Royal Academicians. It runs roughly June to August and is ticketed."
 heroImage: "../../assets/articles/mayfair-area-guide/regent-street-quadrant.jpg"
 heroImageAlt: "The curving Regent Street Quadrant with a black cab passing the Hotel Cafe Royal"
 ---
 
-Mayfair is a Georgian grid laid out from the 1720s between [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Piccadilly and Park Lane, and it has been the most expensive part of London for most of the three centuries since.
+Mayfair is a Georgian grid laid out from the 1720s between [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Piccadilly and Park Lane.
 
-It is also less closed off than it looks. The Victorian arcades are public passages, the Royal Academy's courtyard is free, and the dozens of commercial art galleries on and around Cork Street will let anyone walk in.
+The Victorian arcades are public passages, the Royal Academy's courtyard is free, and the dozens of commercial art galleries on and around Cork Street let anyone walk in.
 
 Mayfair has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=mayfair).
 
 ## Why visit — and who should skip it
 
-**Come here if** you like architecture or art. Mayfair has a Georgian grid that survived largely intact, dozens of free commercial galleries, and four Victorian arcades you can walk through for nothing.
+**Come here if** you like architecture or art: a Georgian grid that survived largely intact, dozens of free commercial galleries, and four Victorian arcades you can walk through for nothing.
 
-**Skip it if** you want to eat or drink cheaply. This is the most expensive postcode in Britain and it shows on every menu. It is also quiet in the evening — most of Mayfair is offices and embassies once the shops shut.
+**Skip it if** you want to eat or drink cheaply. Menus are priced for the postcode. It is also quiet in the evening, because most of Mayfair is offices and embassies once the shops shut.
 
 ## Top sights and activities
 
-1. **Burlington Arcade** — Britain's first shopping arcade, opened 1819, still patrolled by uniformed **Beadles** enforcing the original rules: no running, whistling, singing or opening umbrellas.
-2. **The Royal Academy** — In Burlington House. The courtyard and Fine Rooms are free; the exhibitions are ticketed. The **Summer Exhibition** has run every year since 1769.
-3. **The Cork Street galleries** — A concentration of commercial art dealers, nearly all free to enter and none of them expecting you to buy.
-4. **Handel Hendrix House** — 23 and 25 Brook Street. Handel lived at 25 and wrote *Messiah* there; Hendrix rented the top floor of 23 in 1968. Now one ticketed museum.
-5. **Shepherd Market** — A small, scruffy village of narrow lanes and pubs in the middle of the most expensive district in the country. Unexpected.
+1. **Burlington Arcade** — opened 1819 and still patrolled by uniformed **Beadles** enforcing the original rules: no running, whistling, singing or opening umbrellas.
+2. **The Royal Academy** — in Burlington House. The courtyard and Fine Rooms are free; the exhibitions are ticketed. The **Summer Exhibition** has run every year since 1769.
+3. **The Cork Street galleries** — commercial art dealers, nearly all free to enter, with no pressure to buy.
+4. **Handel Hendrix House** — 23 and 25 Brook Street. Handel lived at 25 and wrote *Messiah* there; Hendrix rented the top floor of 23 in 1968. Now one ticketed museum, £14.50 for both houses, open Wednesday to Sunday 10am to 5pm.
+5. **Shepherd Market** — narrow lanes and pubs in the middle of the district.
 6. **The other arcades** — Piccadilly Arcade, Princes Arcade and the Royal Arcade, all free to walk through and all quieter than Burlington.
-7. **Green Park and Berkeley Square** — Green Park to the south, and the plane trees of Berkeley Square, planted in 1789 and among the oldest in London.
+7. **Green Park and Berkeley Square** — Green Park to the south, and the plane trees of Berkeley Square, planted in 1789.
 
 ![The glass-roofed Burlington Arcade lined with jewellers' windows](../../assets/articles/mayfair-area-guide/burlington-arcade.jpg)
 
@@ -100,9 +101,9 @@ Mayfair has its own share of the commemorative plaques marking where notable peo
 
 ### Bond Street
 
-Old Bond Street at the Piccadilly end, New Bond Street running north to Oxford Street, and one continuous run of flagship fashion and jewellers between them. It is the most expensive retail street in Europe and it does not pretend otherwise.
+Old Bond Street at the Piccadilly end, New Bond Street running north to Oxford Street, and one continuous run of flagship fashion shops and jewellers between them.
 
-**Sotheby's at 34–35 New Bond Street is the free one.** Auction viewings are open to the public, no ticket and no appointment, in the days before a sale — you can walk in off the street and stand in front of things that will sell for millions. Over the door is a black granite **Egyptian statue of Sekhmet, around 1320 BC**, the oldest outdoor object in London and older than anything in the British Museum's frontage.
+**Sotheby's at 34–35 New Bond Street is the free one.** Auction viewings are open to the public, no ticket and no appointment, in the days before a sale. Over the door is a black granite **Egyptian statue of Sekhmet, around 1320 BC**.
 
 **Allies**, the bench sculpture of Roosevelt and Churchill mid-conversation, sits halfway along, and you can sit down between them.
 
@@ -110,43 +111,43 @@ Old Bond Street at the Piccadilly end, New Bond Street running north to Oxford S
 
 ### The arcades and Piccadilly
 
-Four covered Victorian shopping arcades within a few hundred metres — **Burlington**, **Piccadilly**, **Princes** and **Royal** — plus the Royal Academy between them. All free to walk through and all roofed, which makes this the best rainy hour in Mayfair.
+Four covered Victorian shopping arcades within a few hundred metres — **Burlington**, **Piccadilly**, **Princes** and **Royal** — plus the Royal Academy between them. All are free to walk through and roofed, so they suit a wet hour.
 
-**Burlington Arcade opened in 1819** and is the oldest and grandest. It is still patrolled by **Beadles** in top hats and frock coats, the oldest small police force in the world, and they enforce the original rules: **no running, no whistling, no singing, and no opening an umbrella inside.** They will stop you, politely.
+**Burlington Arcade opened in 1819** and is the oldest of the four. It is open Monday to Friday 8am to 7pm, Saturday 9am to 7pm and Sunday 11am to 6pm. **Beadles** in top hats and frock coats still patrol it and enforce the original rules: **no running, no whistling, no singing, and no opening an umbrella inside.** They will stop you, politely.
 
-**The Royal Academy** is through the courtyard next door. It is **closed on Mondays**, open Tuesday to Thursday and Sunday 10am to 6pm and until 9pm on Fridays and Saturdays, and the free Fine Rooms open 11am to 4pm, Sundays included. Its exhibitions are ticketed but the courtyard, the shop and parts of the building are free to enter.
+**The Royal Academy** is through the courtyard next door. It is **closed on Mondays**, open Tuesday to Thursday and Sunday 10am to 6pm, and Friday 10am to 9pm. Until 31 January 2027 it also opens until 9pm on Saturdays for *Painting the French Riviera*. The free Fine Rooms open 11am to 4pm (until 9pm on Fridays and Saturdays) until early 2027. The courtyard, the shop and parts of the building are free to enter; exhibitions are ticketed.
 
-**Cecconi's at 5A Burlington Gardens** is the all-day Italian at the back of the arcade, and it takes bookings — most of Mayfair at this end does not do walk-ins well.
+**Cecconi's at 5A Burlington Gardens** is the all-day Italian at the back of the arcade, and it takes bookings. Most of Mayfair at this end does not do walk-ins well.
 
 ### Cork Street and Savile Row
 
-Two parallel streets doing two different trades, both free to walk down, and both far more welcoming than they look from outside.
+Two parallel streets, both free to walk down.
 
-**Cork Street is commercial art galleries**, one after another, showing work at museum quality with no admission charge and no crowd. **You are allowed to walk in.** Nobody will ask what you want, the price list is on the desk if you care, and looking without buying is entirely normal — this is the same argument as White Cube in Bermondsey, at a fraction of the distance from Piccadilly.
+**Cork Street is commercial art galleries**, one after another, with no admission charge and no crowd. **You are allowed to walk in.** The price list is on the desk and looking without buying is normal. White Cube in Bermondsey works the same way, a few miles east.
 
-**Savile Row is bespoke tailoring**, and the shopfronts are worth the walk even if a suit is not: Huntsman at number 11 supplied the Kingsman films with their entire premise. **Gieves & Hawkes at number 1** has been at that address since 1912.
+**Savile Row is bespoke tailoring.** Huntsman is at number 11 and **Gieves & Hawkes** at number 1, where it has been since 1912.
 
 **Come on a weekday.** Galleries typically run Tuesday to Saturday. Henry Poole opens Monday to Friday only and Huntsman shuts at 3pm on Saturdays, though Gieves & Hawkes at No. 1 opens every day. Green Park and Piccadilly Circus are each about five minutes.
 
 ### Shepherd Market
 
-A pocket of narrow lanes and small squares between Curzon Street and Piccadilly, built on the site of the May Fair the district is named after. **No chains, no flagships, and a completely different scale** from the streets around it — two-storey buildings and pavement tables where everything else is six floors of plate glass.
+A pocket of narrow lanes and small squares between Curzon Street and Piccadilly, built on the site of the May Fair the district is named after. It has no chains or flagships: two-storey buildings and pavement tables where the surrounding streets are six floors of plate glass.
 
-It is the one part of Mayfair that feels like a village, and it is thirty seconds off Piccadilly through an easily-missed archway.
+It is thirty seconds off Piccadilly through an easily-missed archway.
 
-**The pubs are the point.** Ye Grapes and the Shepherd's Tavern both put tables out, and the whole square fills with drinkers on a warm evening — the closest thing central Mayfair has to a beer garden.
+**The pubs are the draw.** Ye Grapes and the Shepherd's Tavern both put tables out, and the whole square fills with drinkers on a warm evening.
 
 **Green Park is three minutes away** and Hyde Park Corner about five. Go in the early evening; at lunchtime it is quiet and at eleven it is shut.
 
 ### Mount Street and Berkeley Square
 
-The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terracotta and red-brick Victorian Gothic — deliberately ornate, built by the Grosvenor estate in the 1880s — and now the address for a particular kind of very expensive small shop.
+**Mount Street** is a run of pink terracotta and red-brick Victorian Gothic, built by the Grosvenor estate in the 1880s, and now the address for very expensive small shops.
 
-**Berkeley Square's plane trees were planted in 1789** and are among the oldest in central London. The square is a public garden, free, open in daylight and locked overnight. **Annabel's**, the members' club at No. 46, opens its staircase and principal rooms to public tours on set days; our [members' clubs guide](/articles/private-members-clubs-london/) has the dates, the fees and the dress codes.
+**Berkeley Square's plane trees were planted in 1789.** The square is a public garden, free, open in daylight and locked overnight. **Annabel's**, the members' club at No. 46, opens its staircase and principal rooms to public tours on set days; our [members' clubs guide](/articles/private-members-clubs-london/) has the dates, the fees and the dress codes.
 
-**Eat on Mount Street rather than around the square.** **Bacchanalia at 1–3** does Greek and southern Italian under a ceiling of classical sculpture; **The Guinea Grill at 30 Bruton Place**, in the mews behind, is a chophouse that has been there since the 1950s and is the least Mayfair thing in Mayfair.
+**Eat on Mount Street rather than around the square.** **Bacchanalia at 1–3** does Greek and southern Italian under a ceiling of classical sculpture; **The Guinea Grill at 30 Bruton Place**, in the mews behind, is a chophouse that has been there since the 1950s.
 
-**Mount Street Gardens**, tucked behind the street beside the Jesuit church, is the secret one — a walled garden of benches and London planes, free, and almost never busy. It is the best place to sit down in W1.
+**Mount Street Gardens**, behind the street beside the Jesuit church, is a walled garden of benches and London planes, free, and almost never busy.
 
 ![Two adjoining Mayfair townhouses with blue plaques, one to Handel and one to Hendrix](../../assets/articles/mayfair-area-guide/handel-hendrix-house.jpg)
 
@@ -157,13 +158,13 @@ The quietest handsome walking in Mayfair. **Mount Street** is a run of pink terr
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **The Guinea Grill** | Historic pub and grill | ££ | Bruton Place; a pub since 1423, famous for its pies |
-| **Ye Grapes** | Pub | £ | Shepherd Market; unpretentious, in the middle of Mayfair |
-| **The Audley** | Restored pub | ££ | Mount Street; ornate Victorian interior, restored |
-| **Mercato Mayfair** | Food hall | ££ | Inside a deconsecrated Victorian church on North Audley Street |
+| **Ye Grapes** | Pub | £ | Shepherd Market; a plain pub with pavement tables |
+| **The Audley** | Pub | ££ | Mount Street; ornate Victorian interior |
+| **Mercato Mayfair** | Food hall | ££ | Inside the Grade I-listed St Mark's Church on North Audley Street |
 | **The Wolseley** | Grand cafe | £££ | Piccadilly, in a former car showroom; book for breakfast |
 | **Sketch** | Modern European | ££££ | Conduit Street; the Gallery and the egg-pod toilets |
 
-Bar des Prés on South Audley Street is the French chef Cyril Lignac's French-Japanese restaurant. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+Bar des Prés on South Audley Street, the French chef Cyril Lignac's French-Japanese restaurant, is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 ## Getting there
 
@@ -183,7 +184,7 @@ Bar des Prés on South Audley Street is the French chef Cyril Lignac's French-Ja
 
 **Best time:** Tuesday to Friday, in the daytime. The Royal Academy shuts on Mondays, the galleries mostly on Sundays, and Henry Poole opens on weekdays only.
 
-**Note:** The Summer Exhibition runs roughly June to August and is the busiest the Royal Academy gets.
+**Note:** The Summer Exhibition runs roughly June to August.
 
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
@@ -193,7 +194,7 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 
 **[A Walk from Fitzrovia to Mayfair →](/articles/fitzrovia-mayfair-walk/)**
 
-Our full route comes down from Fitzroy Square through Savile Row, both arcades, Grosvenor Square, Mount Street and Shepherd Market to Green Park: **eleven numbered stops**, 5.6km, with a map, a Google Maps walking link and the day-by-day of what is open. The Royal Academy is shut on Mondays; the arcades and Gieves & Hawkes open on Sundays.
+Our full route comes down from Fitzroy Square through Savile Row, both arcades, Grosvenor Square, Mount Street and Shepherd Market to Green Park: **eleven numbered stops**, 5.6km, with a map and a Google Maps walking link. The Royal Academy is shut on Mondays; the arcades and Gieves & Hawkes open on Sundays.
 
 ### The short version, if you only have two hours
 
@@ -208,19 +209,16 @@ Our full route comes down from Fitzroy Square through Savile Row, both arcades, 
 
 ## Common mistakes to avoid
 
-1. **Assuming everything costs money.** The arcades, the RA courtyard and nearly every commercial gallery are free.
-2. **Coming on a Sunday.** Galleries shut and the area empties.
-3. **Whistling in Burlington Arcade.** Against the rules, and the Beadles will say so.
-4. **Missing Shepherd Market.** Two minutes off Piccadilly and completely unlike the rest of Mayfair.
-5. **Eating on Bond Street.** Walk to Shepherd Market or Mercato Mayfair instead.
-6. **Expecting evening life.** Mayfair is offices and embassies after dark. Soho is ten minutes east.
+1. **Coming on a Sunday.** Galleries shut and the area empties.
+2. **Eating on Bond Street.** Walk to Shepherd Market or Mercato Mayfair instead.
+3. **Expecting evening life.** Soho is ten minutes east.
 
 ## Where to stay
 
-The most expensive hotel district in London, and the quietest central one at night.
+Landmark hotels at landmark prices, and quiet at night.
 
-- **Mayfair proper** — [Claridge's](hotel:claridges), [the Connaught](hotel:the-connaught), [the Ritz](hotel:the-ritz-london) on the Piccadilly edge. Landmark hotels at landmark prices.
-- **Marylebone** — Twelve minutes north, considerably better value, same Elizabeth line access at Bond Street.
+- **Mayfair proper** — [Claridge's](hotel:claridges), [the Connaught](hotel:the-connaught), [the Ritz](hotel:the-ritz-london) on the Piccadilly edge.
+- **Marylebone** — Twelve minutes north, better value, with the same Elizabeth line access at Bond Street.
 - **Soho and Covent Garden** — East, cheaper, and far more open in the evening.
 
-Our [Mayfair hotel guide](/articles/where-to-stay-mayfair/) compares the grand hotels and the few cheaper beds.
+Our [Mayfair hotel guide](/articles/where-to-stay-mayfair/) compares the grand hotels and the cheaper beds.
