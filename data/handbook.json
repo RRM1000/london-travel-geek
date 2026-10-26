@@ -3,10 +3,11 @@
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
   "updated": "2026-10-26",
   "inProgress": [
-    "Site-wide trim and date check, by Google clicks, eight pages per agent, two agents at a time (brief: scratchpad ltg-trim-brief.md; ranking: ltg-top-pages.json). Done: immersive experiences (6,871 to 4,536 words) and batches 1 to 3 (24 pages). Running: batches 4 and 5."
+    "Site-wide trim and date check, by Google clicks, eight pages per agent, two at a time. Done: the immersive page and batches 1 to 7 (57 pages). Running: batches 8 and 9."
   ],
   "nextUp": [
     "Push ltg-dates-1025 when Rob says; push ltg-fares-1101 on or after 1 November 2026 (bus fare £1.85, cap £5.55).",
+    "On 1 November, before pushing ltg-fares-1101: rebase it on ltg-dates-1025 and add the new Uber Boat peak fares (Central £10.80, Central & East or West £12.40; online singles £10.60 and £12.20) to five-days-in-london-itinerary, london-public-transport-costs-and-fares, thames-river-cruises-london and the-o2-travel-guide.",
     "Add Oxford Street's 2026 lights switch-on date to the lights walk, the Christmas guide and the November guide as soon as Oxford Street announces it.",
     "Fix the affiliate_click venue capture: every venue name ends in 'ad' because the Ad badge text is read with it (BaseLayout.astro).",
     "Finish the sushi guide (ltg-sushi): photos and Sheet rows, so the 'sushi' searches have a page that ranks.",
