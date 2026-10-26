@@ -75,7 +75,7 @@ Two Michelin stars, first awarded in 2024 and held in the 2025 and 2026 guides. 
 
 *The dining room at Brooklands.*
 
-The cooking is Claude Bosi's: turbot with wild sea leeks, Cornish squid with artichoke, Lake District lamb with mint and pastrami. Time Out's note on the weather is the practical one — if it turns, the staff move you back inside.
+The cooking is Claude Bosi's: turbot with wild sea leeks, Cornish squid with artichoke, Lake District lamb with mint and pastrami. Time Out notes that if the weather turns, staff move you back inside.
 
 ### Angler, Moorgate
 
@@ -99,7 +99,7 @@ Nine sources name it, more than any other restaurant on the water here, and it i
 
 *The open kitchen at The River Café.*
 
-Order the chargrilled squid with chilli and rocket, and the Chocolate Nemesis, on the menu since the beginning. The Good Food Guide marks it ££££, the only London waterside entry it rates that high. Summer lunch on the terrace is the version to book.
+Order the chargrilled squid with chilli and rocket, and the Chocolate Nemesis. The Good Food Guide marks it ££££, the only London waterside entry it rates that high. Book summer lunch on the terrace.
 
 ### OMA, Borough
 
@@ -133,7 +133,7 @@ The most-cited rooftop in London, at nine independent sources across mastheads, 
 
 *The dining room at Seabird.*
 
-The kitchen is Mediterranean seafood: dressed crab, fried calamari, whole tiger prawns with aioli, whole market fish off the grill, and an oyster list the restaurant claims is London's longest. The creator who rated it dish by dish put the whole market fish and the Gillardeau oysters at the top and the octopus roll well below them. **Oyster happy hour runs daily 3–6pm**, a cheaper way to sit up there.
+The kitchen is Mediterranean seafood: dressed crab, fried calamari, whole tiger prawns with aioli, whole market fish off the grill, and an oyster list the restaurant claims is London's longest. The creator who rated it dish by dish put the whole market fish and the Gillardeau oysters at the top. **Oyster happy hour runs daily 3–6pm**, a cheaper way to sit up there.
 
 ### The Culpeper, Spitalfields
 
@@ -147,7 +147,7 @@ Time Out's number one rooftop restaurant in London, and it is a pub. The roof is
 
 *££ · Peckham · top floor of Market Peckham, Rye Lane · Cited by 5 sources · #2 of 15, Time Out · [its site](https://forzawine.com/)*
 
-A wine bar on the roof of a Rye Lane shopping centre where the food is why the queue forms. Small plates, Italian-leaning and sharply seasoned: cauliflower fritti with aioli, which has never left the menu; butterflied mackerel with fennel, mustard and dill; hake croquettes with tartare. Time Out's tip is the group order — the entire menu plus four Custardos for £130, which works out at around ten dishes.
+A wine bar on the roof of a Rye Lane shopping centre where the food is why the queue forms. Small plates, Italian-leaning: cauliflower fritti with aioli, which has never left the menu; butterflied mackerel with fennel, mustard and dill; hake croquettes with tartare. Time Out's tip is the group order — the entire menu plus four Custardos for £130, which works out at around ten dishes.
 
 ![The top floor at Forza Wine in Peckham: long wooden refectory tables and benches under a low white ceiling, sliding glass onto an open terrace with bar stools, and the London skyline with the Shard on the horizon](../../assets/articles/best-rooftop-restaurants-london/forza-wine-peckham-terrace.jpg)
 
@@ -169,7 +169,7 @@ The central sibling of the Peckham original, on top of the National Theatre with
 
 Alongside the open garden — shrubs, trees, the City skyline to the west — there is a **heated glass orangery**, so it is a year-round booking rather than a summer one.
 
-The food is grill-led Mediterranean: chermoula prawns with sesame mayonnaise, lamb köfte, octopus with sundried tomato, a vegan moussaka. The menu shifts with the season and the kitchen runs occasional chef residencies. Seasonal hours currently run noon to 11pm every day; the rooftop is 18+ and dogs are not permitted.
+The food is grill-led Mediterranean: chermoula prawns with sesame mayonnaise, lamb köfte, octopus with sundried tomato, a vegan moussaka. Seasonal hours currently run noon to 11pm every day; the rooftop is 18+ and dogs are not permitted.
 
 ### Coq d'Argent, Bank
 
@@ -275,7 +275,7 @@ Seven sources name it, and only The River Café has more. A long outdoor terrace
 
 *The terrace at Le Pont de la Tour.*
 
-Inside splits in two — a brasserie-style Bar & Grill and a more formal restaurant — and the cooking is classical French: moules marinière, roast native lobster with garlic butter, a seasonal set menu of two or three courses. Bookings run to 12 people; beyond that it is the events team.
+Inside are a brasserie-style Bar & Grill and a more formal restaurant, serving classical French cooking: moules marinière, roast native lobster with garlic butter, a seasonal set menu of two or three courses. Bookings run to 12 people; beyond that it is the events team.
 
 ### Sam's Riverside, Hammersmith
 
