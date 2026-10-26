@@ -3,8 +3,8 @@ title: "Public Toilets in London: The Free Ones, the Paid Ones, and Where Else t
 seoTitle: "Public Toilets in London 2026: Free, Paid & By Area"
 description: "Which London toilets are free, which charge and how much, plus the museums, department stores and pubs that let anyone use theirs — organised by area, built from the UK's own public toilet database."
 publishedAt: 2026-07-01
-updatedAt: 2026-09-25
-reviewBy: 2027-03-31
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -20,7 +20,7 @@ faq:
   - q: "What is the RADAR key and do I need one?"
     a: "It unlocks accessible toilets fitted with a National Key Scheme lock, found in shopping centres, stations and pubs across the country. It costs around £5-£6 plus postage from Disability Rights UK, and a handful of London facilities — including one at Cutty Sark Gardens — waive their usual charge for key holders."
   - q: "Is there an app for finding a public toilet in London?"
-    a: "The Great British Public Toilet Map (toiletmap.org.uk) is the one this guide is built from — a crowdsourced, council-fed database of over 14,000 UK facilities. The Flush app does the same job with an offline-first design."
+    a: "The Great British Public Toilet Map (toiletmap.org.uk) is the one this guide is built from — a crowdsourced, council-fed database of UK facilities. The Flush app does the same job with an offline-first design."
 heroImage: "../../assets/articles/public-toilets-london/attendant-foley-street-former-toilet.jpg"
 heroImageAlt: "The ornate Victorian cast-iron entrance to a former underground gents' toilet on Foley Street, Fitzrovia, now signed as the Attendant coffee shop"
 heroImageCredit: "Mike Quinn"
@@ -29,7 +29,7 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
 
-Nobody plans a London trip around this until the moment they need one. What follows comes from the Great British Public Toilet Map's own database — the crowdsourced, council-fed dataset that most toilet-finder apps run on — plus the official pages for the parks, boroughs and venues that operate them.
+This guide uses the Great British Public Toilet Map's database, the crowdsourced, council-fed dataset most toilet-finder apps run on, plus the official pages of the parks, boroughs and venues that operate toilets.
 
 > 💡 **The Short Version:** About **85% of London's logged public toilets are free**. The main things that charge are the **Royal Parks (a flat 20p, card only)**, **Trafalgar Square (20p)** and the **Camden markets (up to £1)**. Mainline station toilets and TfL's own Tube station toilets are free. **Community Toilet Scheme** pubs, cafes and libraries let anyone in without buying anything, and every major free museum has toilets open to all visitors.
 
@@ -60,11 +60,9 @@ Nobody plans a London trip around this until the moment they need one. What foll
 
 ## Free, by area
 
-Pulled from the same database, filtered to active listings only.
-
 **Trafalgar Square &amp; the West End**
-- **National Gallery** and **National Portrait Gallery** — free with general admission, no ticket needed for the toilets themselves
-- **Jubilee Hall, Covent Garden** — daily 8am–7.30pm. Westminster's Covent Garden and Leicester Square toilets are closed, and this and Piccadilly Circus are its nearest alternatives
+- **National Gallery** and **National Portrait Gallery** — free to enter
+- **Jubilee Hall, Covent Garden** — daily 8am–7.30pm. Westminster's Covent Garden and Leicester Square toilets are closed
 - **Charing Cross Library** — ground floor only
 
 **South Bank &amp; Waterloo**
@@ -82,7 +80,7 @@ Pulled from the same database, filtered to active listings only.
 - **St Pancras International** — ground floor by Boots, 24 hours (expect a queue for the Ladies)
 - **British Library**
 - **Coal Drops Yard**, lower level — fully accessible
-- **Granary Square** — a standalone block, relocated from the square itself in 2018
+- **Granary Square** — a standalone block
 
 **Greenwich**
 - **National Maritime Museum**
@@ -104,7 +102,7 @@ Pulled from the same database, filtered to active listings only.
 
 **Richmond &amp; Kew**
 - **Marble Hill Park**
-- **Kew Gardens** — two of the three toilets nearest the gardens are free-standing and free; the third is inside the gate, so you'd pay Kew's entrance fee to reach it
+- **Kew Gardens** — two of the three nearest toilets are free-standing and free; the third is inside the gate
 
 **Islington &amp; Angel**
 - **Chapel Market** — 8am–6pm daily
@@ -113,13 +111,13 @@ Pulled from the same database, filtered to active listings only.
 
 ## The Community Toilet Scheme: free at pubs, cafes and libraries
 
-This is a real, named UK council scheme, not an informal courtesy. Camden's own wording: they pay participating businesses **up to £750 a year** to let the public use their toilet **"without the need to buy goods or services."** The City of London runs an identically-named scheme with its own interactive map. Southwark runs the same idea under a different name — asking businesses "to make their toilets available to all, without the need to be paying customers." Westminster points people to the Great British Public Toilet Map instead, and Islington to the same map and the Toilets4London app.
+Camden pays participating businesses **up to £750 a year** to let the public use their toilet without buying anything. The City of London runs an identically named scheme with its own interactive map, and Southwark runs the same idea under a different name. Westminster points people to the Great British Public Toilet Map instead, and Islington to the same map and the Toilets4London app.
 
 There is no sticker or window decal marking a participating premises, so if you are not sure, just ask.
 
-Some of the more surprising participants:
+Participants include:
 - **The Shakespeare** and **The Old Red Cow**, two pubs on the City of London's scheme
-- **JD Wetherspoon, Ledger Building** and **The Alchemist**, both in Canary Wharf — proof this isn't only independent cafes
+- **JD Wetherspoon, Ledger Building** and **The Alchemist**, both in Canary Wharf
 - **The Angel and Crown**, a pub on Richmond's scheme
 - **Whitechapel Gallery** and the **Vagina Museum**, both on Tower Hamlets' scheme
 - **Mudchute Park &amp; Farm** and **The Rotunda**, also Tower Hamlets
@@ -131,39 +129,39 @@ Some of the more surprising participants:
 
 ## Museums, department stores and shopping centres
 
-Every major free-entry museum in London has toilets open to any visitor — you don't need a ticket for a paid exhibition to use them, only to be inside the building:
+Every major free-entry museum in London has toilets open to any visitor inside the building; you don't need a ticket for a paid exhibition:
 
-**[British Museum](/articles/british-museum-guide/)**, **Tate Modern**, **Tate Britain**, **National Gallery**, **V&amp;A**, **Natural History Museum** and **Science Museum** are all free to enter, and all publish accessible-toilet and baby-change locations on their own sites. Tate Modern and Tate Britain both have a **Changing Places** toilet; the V&amp;A's nearest one is next door at the Science Museum, which has its own.
+**[British Museum](/articles/british-museum-guide/)**, **Tate Modern**, **Tate Britain**, **National Gallery**, **V&amp;A**, **Natural History Museum** and **Science Museum** are all free to enter. Tate Modern and Tate Britain both have a **Changing Places** toilet; the V&amp;A's nearest one is next door at the Science Museum, which has its own.
 
-**Battersea Power Station** gives the clearest answer anywhere — its own FAQ asks outright: *"Are there public toilets?"* and answers *"Yes, throughout The Power Station we have accessible toilets and family friendly toilets."*
+**Battersea Power Station** has public toilets throughout, including accessible and family-friendly ones.
 
-**Westfield London** and **Westfield Stratford City** both list accessible toilets (RADAR key, available from Guest Services) and a baby-change lounge as standard centre services.
+**Westfield London** and **Westfield Stratford City** both list accessible toilets (RADAR key, from Guest Services) and a baby-change lounge.
 
-**Department stores are vague about who may use them.** Selfridges and John Lewis Oxford Street both publish exactly where their toilets are, floor by floor — but neither states a "non-customers welcome" policy in writing, so it's a judgement call in practice, not a published rule.
+**Department stores publish where their toilets are, not who may use them.** Selfridges and John Lewis Oxford Street list their toilets floor by floor; neither states a policy for non-customers.
 
 ---
 
 ## The RADAR key, and where it gets you in free
 
-Locked accessible toilets across the UK often use the same lock — the **National Key Scheme**, opened with what's universally called a **RADAR key**. It costs **£5**, or £6 if you pay VAT, plus **£1.75 postage** from Disability Rights UK, and once you have one it works nationwide, not just in London.
+Locked accessible toilets across the UK often use the National Key Scheme lock, opened with a **RADAR key**. It costs **£5**, or £6 if you pay VAT, plus **£1.75 postage** from Disability Rights UK, which sells it to people who need it because of a disability or health condition. It works nationwide.
 
-In this guide specifically, a RADAR key gets you into the accessible-only toilet at **Canary Wharf's Jubilee line station**, and waives the usual 50p charge at **Cutty Sark Gardens** in Greenwich.
+A RADAR key gets you into the accessible-only toilet at **Canary Wharf's Jubilee line station**, and waives the 50p charge at **Cutty Sark Gardens** in Greenwich.
 
-**Changing Places toilets** — the larger rooms with an adult changing bench and a hoist — are a separate provision again, and several of the central ones are behind a RADAR key you ask staff for, not one you carry. Our [step-free London guide](/articles/step-free-london/) lists where they are, from Tate Modern and the National Gallery to five main-line stations.
+**Changing Places toilets** are larger rooms with an adult changing bench and a hoist. Several of the central ones are behind a key you ask staff for, not a RADAR key you carry. Our [step-free London guide](/articles/step-free-london/) lists where they are, from Tate Modern and the National Gallery to five main-line stations.
 
 ---
 
 ## Old toilets that became something else
 
-Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman's convenience — Time Out describes it as "London's most original location for a coffee bar: a late-nineteenth-century gents' toilet," where **the original urinals now provide seating with small tables**. The ornate cast-iron railings over the stairwell down from street level are the same ones that would have marked the toilet's entrance when it opened.
+Fitzrovia's **Attendant** coffee shop trades from a Victorian gentleman's convenience, where the original urinals now provide seating with small tables. The ornate cast-iron railings over the stairwell down from street level are the originals.
 
 ---
 
 ## Apps and tools for finding one anywhere
 
-- **The Great British Public Toilet Map** (toiletmap.org.uk) — the database this entire article is built from. Crowdsourced and fed by council open data, covering over 14,000 UK facilities, with London as its default view.
-- **Flush** — a toilet-finder app that stores its database on your phone for offline use, so it works even without signal.
-- **Toilets4London** — named specifically by Islington and the City of London councils as their pointer app for finding both council-run and Community Toilet Scheme facilities.
+- **The Great British Public Toilet Map** (toiletmap.org.uk) — the database this article uses. Crowdsourced and fed by council open data.
+- **Flush** — a toilet-finder app that stores its database on your phone, so it works without signal.
+- **Toilets4London** — the app Islington and the City of London councils point to for council-run and Community Toilet Scheme toilets.
 
 ![A black fingerpost in Kensington with arms pointing to Kensington High Street, Kensington Church Street and Holland Park, each marked with toilet, wheelchair and baby-change symbols and a distance in metres](../../assets/articles/public-toilets-london/traditional-public-convenience-sign.jpg)
 
@@ -175,10 +173,10 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 
 ## What to know before you go
 
-* **Royal Parks toilets are card and contactless only.** Cash is no longer accepted, so carry a card or phone wallet.
+* **Royal Parks toilets are card and contactless only.** Cash is no longer accepted.
 * **Some toilets are seasonal.** Camden's High Street blocks and Greenwich Park's Lower Avenue toilet both run shorter hours in winter.
-* **"Free" and "no purchase necessary" aren't the same claim.** A Community Toilet Scheme venue explicitly welcomes non-customers; a department store or independent café simply hasn't published a policy either way, so use your judgement.
-* **Accessible toilets often need a RADAR key**, not just a different door — worth carrying one if you'll need it more than once.
+* **A Community Toilet Scheme venue welcomes non-customers**; a department store or independent café has not published a policy either way.
+* **Accessible toilets often need a RADAR key**; carry one if you will need it more than once.
 
 ---
 
@@ -196,4 +194,4 @@ Fitzrovia's **Attendant** coffee shop trades from a genuine Victorian gentleman'
 
 ---
 
-*Charges and opening hours checked in September 2026. The Great British Public Toilet Map shows the current status of any single toilet you're planning around.*
+*Charges and opening hours as of September 2026. The Great British Public Toilet Map shows the current status of any single toilet.*
