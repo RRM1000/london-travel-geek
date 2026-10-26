@@ -75,7 +75,7 @@ The menu runs from viennoiserie and classic egg dishes through to a full English
 
 ### Dishoom, Covent Garden
 
-*££ · 3 min from Covent Garden · 8 London sites* · Cited by 3 sources
+*££ · 3 min from Covent Garden · 7 London sites* · Cited by 3 sources
 
 The original, opened in **2010** by cousins Shamil and Kavi Thakrar, modelled on the **Irani cafés of 1960s Bombay**: sepia photographs, ceiling fans, marble-topped tables, bentwood chairs.
 
