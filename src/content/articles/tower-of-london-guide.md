@@ -4,7 +4,7 @@ seoTitle: "Tower of London 2026: Tickets, Prices & Hours"
 description: "Historic Royal Palaces' own 2026 prices for the Tower of London: adult, child and concession tickets, the £1 concession scheme, membership, opening hours, and how to book the Ceremony of the Keys."
 publishedAt: 2026-09-20
 updatedAt: 2026-10-26
-reviewBy: 2026-12-31
+reviewBy: 2026-11-02
 sites:
   - london
 canonicalSite: london
@@ -42,7 +42,7 @@ Historic Royal Palaces, the independent charity that runs the Tower, prices tick
 
 > 💡 **The Short Version:**
 > - **Price:** Adult £38.00 (£41.80 with the optional 10% donation). Young person (16–17) and child (5–15) £19.00 (£21.00 with the donation); under 5s free. Senior, student and disabled concession £30.30 (£33.40 with the donation). No family ticket — book each person separately, or as an <a href="https://www.getyourguide.com/activity/-t21253?partner_id=WWP7I0R&amp;cmp=tower-of-london-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official timed entry ticket on GetYourGuide</a>, which matches the gate price and includes free cancellation up to 24 hours before.
-> - **Hours:** The Tower opens at 09:00 Tuesday to Saturday and 10:00 on Monday. Closing time and last entry change with the season, so check [HRP's opening times](https://www.hrp.org.uk/tower-of-london/visit/opening-and-closing-times/) for your date.
+> - **Hours:** From 26 October to 1 November 2026 the Tower is open every day 09:00 to 16:30, with last entry at 15:00 and the last Yeoman Warder tour at 14:30. Hours change through the year, so check [HRP's opening times](https://www.hrp.org.uk/tower-of-london/visit/opening-times/) for your date.
 > - **When to go:** HRP's own guidance is that the Tower is quieter after midday. Allow two to three hours.
 > - **The Yeoman Warder (Beefeater) tour** is free with admission — never pay a third party for an "exclusive" version.
 > - **The Ceremony of the Keys** is pay-what-you-choose (HRP suggests £30, from £10 to £50), booked online only, in advance.
