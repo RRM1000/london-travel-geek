@@ -307,7 +307,7 @@ Baked in blue steel pans so the cheese caramelises against the edge — crunchy 
 
 *££ · Soho · 22–25 Dean Street · Cited by 4 sources · #19 of 21, Time Out · [book a table](https://www.sevenrooms.com/explore/japescamden/reservations/create/search/)*
 
-Chicago deep dish, in a pan deep enough that the cheese pull is the point. Also in Greenwich and Camden.
+Chicago deep dish, in a pan deep enough for a long cheese pull. Also in Greenwich and Camden.
 
 Deep dish is slow to cook, so expect a wait and do not arrive starving.
 
