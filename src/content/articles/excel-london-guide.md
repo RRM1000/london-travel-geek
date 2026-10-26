@@ -79,7 +79,7 @@ Journey times to Custom House:
 | **Paddington** | Elizabeth line, direct | **21–24 minutes** |
 | **Canary Wharf** | Elizabeth line, one stop | **About 3 minutes** (ExCeL's own figure) |
 | **Bank** | DLR, changing at Poplar | **About 25 minutes** |
-| **London City Airport** | Elizabeth line or DLR/bus | **5–13 minutes**, depending on the connection used |
+| **London City Airport** | Walk, or DLR changing at Canning Town | **About 15 minutes** on foot, by ExCeL's own count |
 | **Heathrow** | Elizabeth line, direct | **43 minutes** (ExCeL's own figure) |
 
 The Elizabeth line is a single train with no change from Liverpool Street, Paddington, Tottenham Court Road, Bond Street or Heathrow. From the south or from stations only the DLR reaches, expect a change: the fastest route from Bank runs via the Northern line to Moorgate and a walk to Liverpool Street, while the DLR via Poplar takes about 25 minutes.
@@ -195,7 +195,7 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 - **Immerse LDN**, an immersive exhibitions venue on the Waterfront about 400m from the West Entrance, runs a changing programme of ticketed shows, including [Wundrful World of Christmas](/articles/christmas-shows-london/#wundrful-world-of-christmas-excel-london) from 13 November to 24 December 2026 and Euphoria, a Balloon Museum exhibition, from 24 October.
 - **City Hall** — the glass-and-steel building on the dock, formerly The Crystal, has been the Mayor and London Assembly's base since January 2022 and is not a visitor attraction.
 - **Canary Wharf** is one Elizabeth line stop away — about 3 minutes — for the roof garden, Eden Dock and the restaurants at Wood Wharf; see our [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
-- **London City Airport** is a 15-minute walk or a couple of DLR stops, if you're flying in or out around your visit.
+- **London City Airport** is a 15-minute walk by ExCeL's own count; by DLR you change at Canning Town.
 
 ---
 
