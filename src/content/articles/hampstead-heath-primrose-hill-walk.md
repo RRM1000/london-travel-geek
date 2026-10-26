@@ -5,7 +5,8 @@ description: "A numbered walk from Hampstead village over the Heath to Kenwood H
 heroImage: "../../assets/articles/hampstead-heath-primrose-hill-walk/hampstead-heath-pond-north-end.jpg"
 heroImageAlt: "A duckweed-covered pond fringed with reeds in a wooded corner of Hampstead Heath"
 publishedAt: 2026-09-02
-updatedAt: 2026-09-22
+updatedAt: 2026-10-26
+reviewBy: 2026-11-10
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -13,7 +14,7 @@ tags: [Hampstead, Hampstead Heath, Primrose Hill, Kenwood House, walks, free thi
 draft: false
 faq:
   - q: "How long does the Hampstead Heath to Primrose Hill walk take?"
-    a: "About 9km, which is two hours of walking. With stops it takes four to five hours. It is hilly, which is unusual for a London walk: up to Kenwood, up Parliament Hill, and up again at the end to the top of Primrose Hill."
+    a: "About 9km, which is two hours of walking. With stops it takes four to five hours. It is hilly: up to Kenwood, up Parliament Hill, and up again at the end to the top of Primrose Hill."
   - q: "Is Kenwood House free to visit?"
     a: "Yes. English Heritage runs it free, paintings included, and they include Vermeer's The Guitar Player and Rembrandt's Self-Portrait with Two Circles. You can book a free ticket online until 8.45am on the day; after that there are walk-up tickets, subject to availability. It opens every day except 24 to 26 December, from 10am."
   - q: "What is Kite Hill?"
@@ -21,20 +22,18 @@ faq:
   - q: "What is the best day for the Hampstead Heath walk?"
     a: "Wednesday, Thursday, Friday or Sunday. Burgh House and Keats House both close on Mondays, Tuesdays and Saturdays. Kenwood House, the Heath and Primrose Hill are open every day."
   - q: "Can you swim in the ponds on the walk?"
-    a: "Yes. The route passes the Ladies' Pond and the Men's Pond, which open year-round from 7am, and the Mixed Pond, which opens April to October only. A swim costs £5, or £3 for concessions and under-16s. From late May to early September some sessions have to be booked in advance."
+    a: "Yes. The route passes the Ladies' Pond and the Men's Pond, which open year-round from 7am (7.30am on some winter dates), and the Mixed Pond, which opens April to October only. A swim costs £5, or £3 for concessions and under-16s. From late May to early September some sessions have to be booked in advance."
   - q: "Is Hampstead Heath free?"
-    a: "Yes. The Heath, Parliament Hill and Primrose Hill are all free. The Heath is run by the City of London Corporation and Primrose Hill by the Royal Parks, which locks it from 10pm to 6am on Friday, Saturday and Sunday nights in summer. Kenwood House and Burgh House are free to enter; Keats House charges."
+    a: "Yes. The Heath, Parliament Hill and Primrose Hill are all free. Kenwood House and Burgh House are free to enter; Keats House charges. Primrose Hill is locked from 10pm to 6am on Friday, Saturday and Sunday nights in summer."
 ---
 
-Most people do Hampstead Heath as one hill. They come out of Hampstead Heath station, climb Parliament Hill for the view and go home, and never reach the free house full of Old Masters twenty minutes further on, or the second skyline view to the south.
+**This route starts in Hampstead village**, crosses the Heath to **Kenwood House**, comes down past the bathing ponds to **Parliament Hill**, and finishes on top of **Primrose Hill**: ten numbered stops, **about 9km and four to five hours** with stops. It is hilly, and almost all of it is free.
 
-**This route joins them up.** It starts in Hampstead village, crosses the Heath to **Kenwood House**, comes down past the bathing ponds to **Parliament Hill**, and finishes on top of **Primrose Hill**: ten numbered stops, **about 9km and four to five hours** with stops. It is hilly, and almost all of it is free.
-
-The trap is the two small houses. **Burgh House and Keats House both close on Mondays, Tuesdays and Saturdays**, and Keats House shuts for an hour at lunch.
+**Burgh House and Keats House both close on Mondays, Tuesdays and Saturdays**, and Keats House shuts for an hour at lunch.
 
 For the rest of the area, see the [Hampstead area guide](/articles/hampstead-area-guide/).
 
-> 💡 **The Short Version:** Walk it on a **Wednesday, Thursday, Friday or Sunday**, when every stop is open. **Kenwood House is free**, opens daily from 10am and holds a Vermeer and a Rembrandt. **Parliament Hill**, known to some as Kite Hill, has the view that is protected by law. **Keats House** closes from 1pm to 2pm. Finish on **Primrose Hill** late in the day, when the skyline has some definition instead of haze.
+> 💡 **The Short Version:** Walk it on a **Wednesday, Thursday, Friday or Sunday**, when every stop is open. **Kenwood House is free**, opens daily from 10am and holds a Vermeer and a Rembrandt. **Parliament Hill**, known to some as Kite Hill, has the view that is protected by law. **Keats House** closes from 1pm to 2pm. Finish on **Primrose Hill** late in the day.
 
 ![A duckweed-covered pond fringed with reeds in a wooded corner of Hampstead Heath, near North End](../../assets/articles/hampstead-heath-primrose-hill-walk/hampstead-heath-pond-north-end.jpg)
 
@@ -57,7 +56,7 @@ For the rest of the area, see the [Hampstead area guide](/articles/hampstead-are
   </noscript>
 </details>
 
-**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.556511,-0.177626&destination=51.539538,-0.160757&waypoints=51.558191,-0.175038%7C51.562939,-0.176282%7C51.571545,-0.16736%7C51.567,-0.160462%7C51.559647,-0.159756%7C51.560321,-0.166108%7C51.555522,-0.167935%7C51.541041,-0.155826&travelmode=walking)** — all ten stops in walking order, set to walking directions, which is the version to put on your phone. The Heath's paths are not signposted, so you will want it.
+**[Open the whole route in Google Maps →](https://www.google.com/maps/dir/?api=1&origin=51.556511,-0.177626&destination=51.539538,-0.160757&waypoints=51.558191,-0.175038%7C51.562939,-0.176282%7C51.571545,-0.16736%7C51.567,-0.160462%7C51.559647,-0.159756%7C51.560321,-0.166108%7C51.555522,-0.167935%7C51.541041,-0.155826&travelmode=walking)** — all ten stops in walking order, set to walking directions. The Heath's paths are not signposted.
 
 | # | Stop | Cost | Open |
 | --- | --- | --- | --- |
@@ -76,9 +75,9 @@ For the rest of the area, see the [Hampstead area guide](/articles/hampstead-are
 
 ## 1. Flask Walk
 
-**Hampstead was a spa town**, and this narrow passage off the high street is where its well water was bottled and sold in flasks. It is two minutes from Hampstead station, the deepest on the Underground.
+**This narrow passage off the high street** is where Hampstead's spa water was bottled and sold in flasks. It is two minutes from Hampstead station.
 
-**The Flask** is still here at number 14: a Young's pub in a Grade II listed building, open **11am to 11pm Monday to Saturday and noon to 10.30pm on Sunday**, with food from noon.
+**The Flask** at number 14 is a Young's pub in a Grade II listed building, open **11am to 11pm Monday to Saturday and noon to 10.30pm on Sunday**, with food from noon.
 
 <div data-stay-strip></div>
 
@@ -96,13 +95,13 @@ Leave along **Well Walk**, which runs straight to the edge of the Heath.
 
 *The wooded dip below the Vale of Health.*
 
-**A hamlet with the Heath on every side**, reached by a single lane off East Heath Road. It began in 1714, when a harness maker called Samuel Hatch built a workshop here, and the spot became known as Hatch's, or Hatchett's, Bottom. The name Vale of Health was recorded in 1801, in what might be London's most successful piece of rebranding.
+**A hamlet with the Heath on every side**, reached by a single lane off East Heath Road. It began in 1714 as a harness maker's workshop and was known as Hatch's Bottom; the name Vale of Health is recorded from 1801.
 
-From here to Kenwood is the longest stretch of open Heath on the route, about 1.7km and uphill most of the way. Hampstead Heath covers 320 hectares, and it is easy to get turned around in.
+From here to Kenwood is the longest stretch of open Heath on the route, about 1.7km and mostly uphill. The Heath covers 320 hectares.
 
 ## 4. Kenwood House
 
-**A stately home that costs nothing to walk into.** Robert Adam remodelled it in the 1760s and 1770s, and it holds the collection Edward Guinness, 1st Earl of Iveagh, left to the nation in 1927: 63 paintings to start with, including **Vermeer's *The Guitar Player*** and **Rembrandt's *Self-Portrait with Two Circles***, alongside Gainsborough, Turner and Constable.
+**A stately home with free entry**, remodelled by Robert Adam in the 1760s and 1770s. It holds the collection the 1st Earl of Iveagh left to the nation in 1927, including **Vermeer's *The Guitar Player*** and **Rembrandt's *Self-Portrait with Two Circles***, alongside Gainsborough, Turner and Constable.
 
 It opens **every day except 24 to 26 December**. The house runs from **10am to 5pm, or 4pm in winter**. The grounds open at 7am, and the café at 9am, closing between 4pm and 6pm depending on the season.
 
@@ -118,21 +117,19 @@ South-east from Kenwood, the Heath drops to a chain of ponds along its eastern e
 
 *One of the Heath's bathing ponds.*
 
-Both are natural, unheated and open **all year from 7am**. A swim is **£5, or £3** for concessions and under-16s. Closing time follows the daylight: last entry ranges from 8.15pm in high summer to 2pm in November. From late May to early September some sessions have to be booked in advance.
-
-Walking past them costs nothing.
+Both are natural, unheated and open **all year from 7am** (7.30am on some winter dates). A swim is **£5, or £3** for concessions and under-16s. Closing time follows the daylight: last entry ranges from 8.15pm in high summer to 2pm in November. From late May to early September some sessions have to be booked in advance.
 
 ## 6. Parliament Hill
 
-**The view this whole walk is built around.** The hill is 98 metres high, and its highest part is known to some as **Kite Hill**, for the obvious reason. From the top the panorama takes in Canary Wharf, the City and St Paul's Cathedral in one sweep.
+**The hill is 98 metres high**, and its highest part is known to some as **Kite Hill**, because the kites go up there. The panorama takes in Canary Wharf, the City and St Paul's Cathedral.
 
-**The view is protected by law**, so nothing can be built tall enough in between to block it. It is one of very few London skylines that cannot be developed away. The hill is free and never closes.
+**The view is protected by law**: nothing can be built tall enough in between to block it. The hill is free and never closes.
 
-On a warm weekend it fills with picnickers and kite-flyers. Early morning is emptier, and the view has more definition then too.
+On a warm weekend it fills with picnickers and kite-flyers; early morning is emptier.
 
 ## 7. The Mixed Pond
 
-Down the west side of Parliament Hill, the **Hampstead Mixed Pond** is the only one of the three that anyone can swim in. It opens **from April to October only**, and costs £5, the same as the others.
+Down the west side of Parliament Hill, the **Hampstead Mixed Pond** is the only one of the three open to everyone. It opens **from April to October only** and costs £5.
 
 Follow the ponds south to the edge of the Heath, and Keats Grove is a couple of minutes further.
 
@@ -154,18 +151,18 @@ Two plaques are a minute apart. **Friedrich Engels** lived at 122 Regent's Park 
 
 ## 10. Primrose Hill
 
-**The second view, and the finish.** At 64 metres Primrose Hill is lower than Parliament Hill, but it is a different view rather than a repeat: central London straight ahead, Hampstead and Belsize Park behind you, and a William Blake quotation engraved in the paving at the summit.
+At 64 metres Primrose Hill is lower than Parliament Hill, with central London straight ahead, Hampstead and Belsize Park behind you, and a William Blake quotation engraved in the paving at the summit.
 
-The Royal Parks keep it **open 24 hours on weekdays**. From **3 April to 8 November** it is **locked from 10pm to 6am on Friday, Saturday and Sunday nights**.
+The Royal Parks keep it **open 24 hours on weekdays**. From **3 April to 8 November 2026** it is **locked from 10pm to 6am on Friday, Saturday and Sunday nights**, and every night from **30 October to 9 November 2026**.
 
-It is at its best at golden hour. Regent's Park is across Prince Albert Road at the bottom if you want to keep walking.
+Regent's Park is across Prince Albert Road at the bottom if you want to keep walking.
 
 ---
 
 ## Where to eat
 
-- **The Flask** (££) at stop 1. Food from noon every day, until 9.30pm (9pm on Sundays). Better as a finish than a start, but it is the one proper pub on the route.
-- **Kenwood's café** (£) at stop 4. Open from 9am every day, and it comes at the right point for lunch.
+- **The Flask** (££) at stop 1. Food from noon every day, until 9.30pm (9pm on Sundays).
+- **Kenwood's café** (£) at stop 4. Open from 9am every day.
 - **Burgh House café** (£) at stop 2. Closed on Mondays and Tuesdays.
 - **Lemonia** (££) at stop 9. Lunch until 3.30pm last orders and dinner from 5.30pm, Monday to Saturday; **Sunday is lunch only**, last orders 4pm.
 
@@ -184,13 +181,11 @@ For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-t
 | **Saturday** | Burgh House and Keats House closed. Burgh House café still open |
 | **Mon–Tue** | Burgh House, its café and Keats House all closed. Kenwood and the Heath as normal |
 
-**What closes:** **Burgh House** on Mondays, Tuesdays and Saturdays, and its café on Mondays and Tuesdays. **Keats House** on Mondays, Tuesdays and Saturdays, and from 1pm to 2pm on the days it opens. The **Mixed Pond** from November to March. **Primrose Hill** at 10pm on summer Friday, Saturday and Sunday nights. **Kenwood** only from 24 to 26 December. **Lemonia** on Sunday evenings.
+**What closes:** **Burgh House** on Mondays, Tuesdays and Saturdays, and its café on Mondays and Tuesdays. **Keats House** on Mondays, Tuesdays and Saturdays, and from 1pm to 2pm on the days it opens. The **Mixed Pond** from November to March. **Primrose Hill** at 10pm on summer Friday, Saturday and Sunday nights, and every night from 30 October to 9 November 2026. **Kenwood** only from 24 to 26 December. **Lemonia** on Sunday evenings.
 
-**What does not care what day it is:** the Heath, the Vale of Health, Parliament Hill, Kenwood, the Ladies' and Men's ponds and Primrose Hill by day, which make up most of the walk.
+**On a Thursday or Friday** every door is open and the Keats House tour runs.
 
-**The case for a Thursday or Friday:** every door is open, the Keats House tour runs, the Heath is close to empty, and you will get a walk-up ticket at Kenwood without trying.
-
-**On time of day:** start at 10am. You reach Burgh House as it opens, Kenwood late in the morning in time for lunch at its café, Keats House after it reopens at 2pm, and Primrose Hill in the late afternoon. In winter Kenwood shuts at 4pm and the Heath gets dark early, so aim to be past Parliament Hill before dusk.
+**On time of day:** start at 10am. You reach Burgh House as it opens, Kenwood late in the morning, Keats House after it reopens at 2pm, and Primrose Hill in the late afternoon. In winter Kenwood shuts at 4pm and the Heath gets dark early, so aim to be past Parliament Hill before dusk.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-heath-primrose-hill-walk-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -213,7 +208,6 @@ For more, see the [Hampstead area guide](/articles/hampstead-area-guide/#where-t
 
 - **[The Hampstead area guide](/articles/hampstead-area-guide/)**: Church Row, the Spaniards Inn and the Hill Garden and Pergola, which this route skips.
 - **[The Camden area guide](/articles/camden-area-guide/)**: the markets and the canal, down the hill from Primrose Hill.
-- **[King's Cross to Camden by canal](/articles/kings-cross-camden-canal-walk/)**: ends at Camden, so walk it back towards King's Cross.
 - **[The best views in London](/articles/best-views-london/)**: Parliament Hill and Primrose Hill against the rest.
 - **[Historic houses in London](/articles/historic-houses-london/)**: Kenwood and the others worth the trip.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)**: where the Heath sits against the royal parks.
