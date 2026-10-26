@@ -1,9 +1,10 @@
 ---
 title: "Soho Guide: Chinatown, Carnaby Street and After Dark"
 seoTitle: "Soho Guide: Chinatown, Carnaby Street & Nightlife"
-description: "Soho is two places depending on when you arrive: a working media district with quiet streets and good coffee by day, the busiest nightlife in London after six. Chinatown, Carnaby Street, Old Compton Street and where to eat late."
+description: "Soho is two places depending on when you arrive: a working media district with quiet streets and good coffee by day, a crowded nightlife district after six. Chinatown, Carnaby Street, Old Compton Street and where to eat late."
 publishedAt: 2026-08-03
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2026-11-05
 sites:
   - london
 canonicalSite: london
@@ -56,11 +57,11 @@ area:
       note: "South through Trafalgar Square and over the Golden Jubilee Bridges."
 faq:
   - q: "Is Soho safe at night?"
-    a: "Yes, in the sense that it is busy and well lit until very late. It is London's densest nightlife district, so expect crowds, noise and drunk people at closing time, particularly around Old Compton Street and Wardour Street on weekends. Normal city awareness applies: watch your bag and your phone in crowds."
+    a: "Yes, in the sense that it is busy and well lit until very late. Expect crowds, noise and drunk people at closing time, particularly around Old Compton Street and Wardour Street on weekends. Normal city awareness applies: watch your bag and your phone in crowds."
   - q: "Where is Chinatown in London?"
     a: "Centred on Gerrard Street, between Shaftesbury Avenue and Leicester Square, marked by ornate gates at either end. It is pedestrianised and takes in Lisle Street and Newport Place as well. It is a five-minute walk from Piccadilly Circus or Leicester Square stations."
   - q: "What is Soho actually known for?"
-    a: "Three overlapping things: eating and drinking, the music industry, and LGBTQ+ nightlife centred on Old Compton Street. Historically it was London's red-light district and its film and recording hub — Denmark Street was the country's centre for instrument shops and songwriting. Most of that character survives in fragments."
+    a: "Three overlapping things: eating and drinking, the music industry, and LGBTQ+ nightlife centred on Old Compton Street. Historically it was London's red-light district and its film and recording hub; Denmark Street was a centre for instrument shops and songwriting."
   - q: "Do I need to book restaurants in Soho?"
     a: "For dinner between Thursday and Saturday, yes. Many of the best-known places do not take bookings at all and run walk-in queues instead — go early, around 17:30, or late after 21:00. Chinatown is the reliable fallback, as most restaurants there seat quickly."
   - q: "Is Carnaby Street worth visiting?"
@@ -75,24 +76,24 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 
 **Soho is one square kilometre, walkable end to end in fifteen minutes**, bounded by [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Shaftesbury Avenue and Charing Cross Road, and packed with restaurants, bars, theatres and recording studios.
 
-It is also two different places depending on when you arrive. By day it is a working media district with good coffee and quiet streets. From about 18:00 it becomes the busiest nightlife area in London.
+It is two different places depending on when you arrive: by day a working media district with good coffee and quiet streets, and from about 18:00 a nightlife district.
 
 Soho has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=soho).
 
 ## Why visit — and who should skip it
 
-**Come here if** you want to eat and drink well, or you want London with the volume turned up. Soho has the best concentration of restaurants in the city at every price point, from £8 roast duck on Gerrard Street to tasting menus on Lexington Street.
+**Come here if** you want to eat and drink well, or you want London with the volume turned up. Restaurants run from £8 roast duck on Gerrard Street to tasting menus on Lexington Street.
 
-**Skip it if** you are travelling with young children in the evening, or you want landmarks. Soho has no major sights — no museum, no monument, nothing to queue for. Its appeal is entirely atmosphere and food. Come for dinner, not sightseeing.
+**Skip it if** you are travelling with young children in the evening, or you want landmarks. Soho has no museum and no monument. Come for dinner, not sightseeing.
 
 ## Top sights and activities
 
-1. **Chinatown (Gerrard Street)** — Pedestrianised, gated at both ends, and the best-value eating in central London. Roast meats in the windows, dim sum from mid-morning, bakeries and bubble tea throughout.
+1. **Chinatown (Gerrard Street)** — Pedestrianised and gated at both ends. Roast meats in the windows, dim sum from mid-morning, bakeries and bubble tea throughout.
 2. **Carnaby Street and Kingly Court** — The 1960s fashion street, now largely chains. **Kingly Court** just off it is the better stop: three storeys of independent restaurants and bars around a covered courtyard.
-3. **Old Compton Street** — The heart of London's LGBTQ+ nightlife for decades, and still the busiest street in Soho after dark. Cafes and bars spill onto the pavement all evening.
+3. **Old Compton Street** — The heart of London's LGBTQ+ nightlife for decades. Cafes and bars spill onto the pavement all evening.
 4. **Berwick Street** — A street market since the 1770s, plus the surviving record shops that made this the centre of London's vinyl trade.
-5. **Denmark Street** — "Tin Pan Alley". The guitar shops and the studios where the Rolling Stones and David Bowie recorded. Much reduced by redevelopment but still recognisable.
-6. **Soho Square** — One of Soho's three public gardens, with the mock-Tudor gardener's hut at its centre. Full of office workers at lunchtime and the quietest spot in the area.
+5. **Denmark Street** — "Tin Pan Alley": guitar shops and the studios where the Rolling Stones and David Bowie recorded. Much reduced by redevelopment.
+6. **Soho Square** — A public garden with a mock-Tudor gardener's hut at its centre, full of office workers at lunchtime.
 7. **Ronnie Scott's** — The jazz club on Frith Street. Founded in 1959, though it opened on Gerrard Street and only moved here in 1965. Book ahead for the main show, or turn up for the 11.15pm Late Late Show at £12.
 
 ## Key streets and micro-districts
@@ -103,31 +104,31 @@ Soho has its own share of the commemorative plaques marking where notable people
 
 *The Chinatown stretch of Wardour Street.*
 
-Pedestrianised and lantern-strung, and **London's Chinatown is Cantonese first** — roast meats hanging in windows, dim sum until mid-afternoon, hotpot, and bakeries open later than almost anything else in the West End.
+Pedestrianised and lantern-strung, and **London's Chinatown is Cantonese first** — roast meats hanging in windows, dim sum until mid-afternoon, hotpot and bakeries.
 
 Gerrard Street is the spine, with Lisle Street parallel to it and usually cheaper. The first **gates** went up in the late 1980s, and the largest, on Wardour Street, in 2016; the community moved here from Limehouse after the war.
 
-**Busiest on Sunday afternoons**, which is when families come to eat — good for atmosphere, bad for a table. Dim sum kitchens generally stop by about 4pm, so come earlier than you think.
+**Busiest on Sunday afternoons**, when families come to eat. Dim sum kitchens generally stop by about 4pm, so come earlier than you think.
 
 ### Old Compton Street
 
 ![Old Compton Street at dusk, busy with people, lined with bars and a florally decorated frontage](../../assets/articles/soho-area-guide/old-compton-street.jpg)
 
 *Old Compton Street at dusk.*
-The east–west spine of Soho nightlife, and **the centre of its LGBTQ+ scene** since the 1980s — bars, cafés and a street that has been the visible heart of gay London for forty years.
+The east–west spine of Soho nightlife, and **the centre of its LGBTQ+ scene** since the 1980s.
 
-By day it is coffee and outside tables; from about 9pm it is shoulder to shoulder, and the drinking spills into the street itself in summer.
+By day it is coffee and outside tables; from about 9pm it is shoulder to shoulder, with the drinking spilling into the street in summer.
 
-**It is four minutes end to end.** Leicester Square and Tottenham Court Road stations are both close, and the whole street is pedestrian-friendly rather than pedestrianised, so traffic still comes through.
+**It is four minutes end to end.** Leicester Square and Tottenham Court Road stations are both close. The street is pedestrian-friendly rather than pedestrianised, so traffic still comes through.
 
 ### Carnaby Street and Kingly Court
-Pedestrian shopping to the west, and **fourteen streets rather than one** — Carnaby is the name people know, but the surrounding lanes hold most of what is worth finding.
+Pedestrian shopping to the west, and **a district of lanes rather than one street**. Carnaby is the name people know, but the surrounding lanes hold most of the shops.
 
 **Liberty**, the mock-Tudor department store on the corner of Great Marlborough Street, was built in the 1920s from the timbers of two Royal Navy ships and is free to walk into.
 
-**Come for Kingly Court**: three galleried floors around an open courtyard, almost entirely food and drink, and covered enough to work in the rain.
+**Come for Kingly Court**: three galleried floors around an open courtyard, almost entirely food and drink, and covered enough to use in the rain.
 
-**Free to walk through, open daily**, and five minutes from Oxford Circus. The courtyard is busiest between 6pm and 8pm, and most of its restaurants take bookings — worth doing at a weekend.
+**Free to walk through, open daily**, and five minutes from Oxford Circus. The courtyard is busiest between 6pm and 8pm; most of its restaurants take bookings, which is worth doing at a weekend.
 
 Carnaby's Christmas lights switch-on is Wednesday 4 November 2026, and the street is stop six on our [Christmas lights walk](/articles/christmas-lights-walk-london/), between the Regent Street angels and Seven Dials.
 
@@ -143,11 +144,11 @@ Broadwick Street has the **John Snow pump replica**, marking where Snow traced t
 ![The corner of Frith Street in Soho, with the street sign above a red-awninged restaurant frontage](../../assets/articles/soho-area-guide/frith-street-corner.jpg)
 
 *Frith Street, at Shaftesbury Avenue.*
-North–south restaurant streets running parallel through the middle of Soho, and where most of the eating actually happens.
+North–south restaurant streets running parallel through the middle of Soho.
 
-**Ronnie Scott's** has been on Frith Street since 1965 and is still the serious jazz room in London — two sets a night, booked well ahead. **Bar Italia**, directly across the street, has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street and Greek Street, unmarked and not for walking into; our [members' clubs guide](/articles/private-members-clubs-london/) covers what the Groucho and Soho House cost to join and which Soho House bedrooms take non-members.
+**Ronnie Scott's** has been on Frith Street since 1965: two sets a night, booked well ahead. **Bar Italia**, directly across the street, has been open since 1949 and trades nearly around the clock. The private members' clubs are on Dean Street and Greek Street, unmarked and not for walking into; our [members' clubs guide](/articles/private-members-clubs-london/) covers what the Groucho and Soho House cost to join and which Soho House bedrooms take non-members.
 
-**Book anything you actually want.** These two streets fill from about 7pm and the good tables go days in advance, particularly at weekends.
+**Book ahead.** These two streets fill from about 7pm and tables go days in advance, particularly at weekends.
 
 
 ![The mock-Tudor timbered frontage of Liberty department store on Great Marlborough Street](../../assets/articles/soho-area-guide/liberty-store.jpg)
@@ -159,7 +160,7 @@ North–south restaurant streets running parallel through the middle of Soho, an
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **Bao Soho** | Taiwanese buns | £ | Small counter on Lexington Street; queue, no bookings |
-| **Four Seasons** | Cantonese roast duck | £ | Chinatown institution; the duck is the entire point |
+| **Four Seasons** | Cantonese roast duck | £ | Chinatown roast duck |
 | **Kiln** | Thai, live fire | ££ | Counter seating on Brewer Street; walk-ins downstairs |
 | **Barrafina** | Spanish tapas | ££ | Counter only, no bookings; go early or late |
 | **Bar Italia** | Coffee | £ | Frith Street, open since 1949 and nearly around the clock |
@@ -175,11 +176,11 @@ Five of the bars in our speakeasy guide are in Soho and Chinatown: Opium behind 
 
 ## Getting there
 
-**By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side and Chinatown. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate.
+**By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate, and **Leicester Square** (Northern, Piccadilly) to its eastern end.
 
 **Best exit.** From Tottenham Court Road, use the **Dean Street** exit to come out directly in Soho, not on Oxford Street.
 
-**Late night.** The Central, Victoria, Northern, Jubilee, Piccadilly and Windrush lines run a **Night Tube** on Friday and Saturday nights. The Elizabeth line does not — it runs later than the rest of the Tube but still stops. Night buses run from Trafalgar Square and Oxford Circus every night. Details in the [Getting Around London guide](/articles/getting-around-london-transport-guide/).
+**Late night.** The Central, Victoria, Northern, Jubilee, Piccadilly and Windrush lines run a **Night Tube** on Friday and Saturday nights. The Elizabeth line does not run overnight. Night buses run from Trafalgar Square and Oxford Circus every night. Details in the [Getting Around London guide](/articles/getting-around-london-transport-guide/).
 
 ## How long to spend, and when to go
 
@@ -189,7 +190,7 @@ Five of the bars in our speakeasy guide are in Soho and Chinatown: Opium behind 
 | **An evening** | Early dinner, a drink on Old Compton Street, a show or Ronnie Scott's |
 | **Half a day** | Add Carnaby Street, Denmark Street and Soho Square |
 
-**Best time:** Evening. Soho is a nightlife district and feels flat before about 17:00.
+**Best time:** Evening.
 
 **For Chinatown:** Sunday afternoon is traditional and busiest. Weekday lunch is the quiet alternative.
 
@@ -216,19 +217,18 @@ Our full daytime route: **eleven numbered stops** over about 3km, from Denmark S
 
 ## Common mistakes to avoid
 
-1. **Coming in the morning.** Much of Soho does not open until midday and the atmosphere is entirely absent before evening.
+1. **Coming in the morning.** Much of Soho does not open until midday.
 2. **Expecting to book everywhere.** Several of the best restaurants are walk-in only. Arrive at 17:30 or after 21:00 to avoid the worst queues.
 3. **Treating Carnaby Street as the destination.** Twenty minutes is enough. Kingly Court beside it is better.
-4. **Assuming Chinatown is expensive.** It is the cheapest good eating in Zone 1, and most places seat you quickly.
-5. **Driving or taking a cab.** Much of Soho is pedestrianised or one-way, and the Congestion Charge applies. Walk.
-6. **Missing the last Tube on a weeknight.** Night Tube runs Friday and Saturday only; other nights the last trains go around 00:30.
+4. **Driving or taking a cab.** Much of Soho is pedestrianised or one-way, and the Congestion Charge applies. Walk.
+5. **Missing the last Tube on a weeknight.** Night Tube runs Friday and Saturday only; other nights the last trains go around 00:30.
 
 ## Where to stay
 
 Central and convenient, but noisy. Ask for a room away from the street.
 
 - **Soho proper** — Boutique hotels on Dean, Frith and Greek Streets. You will hear the street until late.
-- **Fitzrovia** — Ten minutes north across Oxford Street. Same access, considerably quieter.
+- **Fitzrovia** — Ten minutes north across Oxford Street, and quieter.
 - **Covent Garden** — East, calmer after the market closes, and better for theatre.
 
-Soho has almost nothing between a windowless room at £100 and a boutique double at £450, and the ordinary room at the ordinary price turns out to be ten minutes north. For the nine West End hotels compared on price and room size, what the windowless formats actually cost, and which streets are still loud at 2am, see [where to stay in Soho and the West End](/articles/where-to-stay-soho-west-end/).
+[Where to stay in Soho and the West End](/articles/where-to-stay-soho-west-end/) compares the hotels on price and room size, says what the windowless formats cost, and names the streets still loud at 2am.
