@@ -3,7 +3,7 @@ title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
 seoTitle: "London Bus and Tube Fares 2026: £3.10 Tube, £8.90 Cap"
 description: "A London bus costs £1.75 (£1.85 from 1 November 2026), capped at £5.25 a day. A Zone 1 Tube single is £3.10 at peak, and Zones 1–2 cap at £8.90 a day."
 publishedAt: 2026-07-30
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-01
 sites:
   - london
@@ -40,12 +40,12 @@ faq:
 
 > 💡 **The Short Version:** **A London bus costs £1.75** and the **daily bus cap is £5.25**; on **1 November 2026** they rise to **£1.85** and **£5.55**. **A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak** (Zones 1–2: £3.60 and £3.10). **The Zones 1–2 daily cap is £8.90** across Tube, bus, tram, DLR, Overground and Elizabeth line, as long as you tap the same contactless card, phone or Oyster every time. A paper single costs £7.00, so never buy one. Under-11s travel free and 11–15s pay half. Tube caps are frozen until March 2027.
 
-London transport prices depend on the service, zones, time of travel and how you pay. Contactless or Oyster pay as you go is normally the simplest and least expensive choice for an adult visitor because eligible journeys are automatically capped.
+Contactless or Oyster pay as you go is normally the cheapest choice for an adult visitor, because eligible journeys are capped automatically.
 
 > 🌟 **3 Golden Rules for London Transit.**
 > 1. **Always use Contactless or Oyster:** Never buy single paper tickets at station ticket machines.
-> 2. **Stick to one card or device:** Using Apple Pay on your phone and your physical bank card counts as two separate accounts, splitting your journey history and breaking your daily cap.
-> 3. **Let automatic daily capping work for you:** Avoid buying 1-Day Paper Travelcards—automatic daily capping is almost always cheaper.
+> 2. **Stick to one card or device:** A phone and a bank card count as two accounts, and capping stops working.
+> 3. **Let daily capping work for you:** it is almost always cheaper than a paper Day Travelcard.
 
 Not sure which payment method to choose? Read the [complete Oyster card and contactless guide](/articles/oyster-card-guide-london/), including the current card fee, where Oyster works and when your own bank card is the better option.
 
@@ -74,13 +74,9 @@ The **Hopper Fare** allows you to make unlimited bus and tram journeys across Lo
 * **Touch in only:** Always tap your card or device on the yellow reader when boarding a bus or tram, but **never touch out** when alighting.
 * **Use the same payment method:** You must use the exact same contactless card, phone, or Oyster card for every tap so TfL can automatically link your journeys.
 * **60-minute window:** Any additional bus or tram you board within 60 minutes of your first touch-in is automatically free.
-* **Tube transfers:** Taking the Underground in between two bus rides does not cancel your 60-minute Hopper window (the Tube fare is charged separately, but your second bus remains free if boarded within 60 minutes of the first).
+* **Tube transfers:** Taking the Underground between two bus rides does not cancel the Hopper window. The Tube fare is charged separately, and the second bus is still free if you board within 60 minutes of the first.
 
 For detailed journey scenarios, read the [worked examples in our bus and tram guide](/articles/how-to-use-london-buses-and-trams/#mixing-buses-and-the-underground).
-
-### The Weekend Hopper has ended
-
-On summer weekends from **25 July to 31 August 2026**, including the August bank holiday Monday, one £1.75 fare covered unlimited bus and tram journeys all day. It has ended, and TfL has not said whether it will return. More in our [bus and tram guide](/articles/how-to-use-london-buses-and-trams/#the-weekend-hopper-trial-has-ended).
 
 ## Peak and off-peak times
 
@@ -133,7 +129,7 @@ Adult Oyster and contactless pay-as-you-go fares since 1 March 2026. Some Nation
 
 ### Single Fare Finder: check any journey's exact price
 
-The tables above are the standard zonal fares. For a specific journey — particularly one that touches National Rail, an airport, or any of the peak-time exceptions listed earlier — use TfL's **[Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)**. Enter any two stations and it returns the exact pay-as-you-go single for Oyster and contactless, peak and off-peak, including any Railcard discount loaded on the card. It draws on the same fare data the barriers charge from, so if a figure on this page and the finder ever disagree, trust the finder.
+The tables above are the standard zonal fares. For a specific journey — particularly one that touches National Rail, an airport, or any of the peak-time exceptions listed earlier — use TfL's **[Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder)**. Enter any two stations and it returns the exact pay-as-you-go single for Oyster and contactless, peak and off-peak, including any Railcard discount loaded on the card.
 
 ## Tube daily and weekly caps
 
@@ -161,14 +157,14 @@ Heathrow Express and Southeastern high-speed journeys are excluded from these ca
 A **7-Day Travelcard** is only worth buying if you will travel a lot on 5 to 7 consecutive days and your trip starts mid-week, spanning two Monday-to-Sunday weeks. Otherwise pay as you go is cheaper.
 
 * **Flexible Start Date:** Unlike contactless weekly capping (which strictly runs Monday to Sunday), a **7-Day Travelcard can start on any day of the week** you choose (e.g. Wednesday to Tuesday). It is valid for 7 consecutive days starting at 04:30 on your chosen start date, and can be purchased up to 30 days in advance.
-* **Bonus River Discount:** Holding a valid Travelcard (including a 7-Day Travelcard) gives you a **33% discount (1/3 off)** on standard [Uber Boat River Bus fares](#river-bus-prices) and scheduled Thames passenger services.
+* **Bonus River Discount:** a valid Travelcard takes **33% off** standard [Uber Boat River Bus fares](#river-bus-prices).
 
 > **Quick Example (Zones 1–2).**  
 > The daily contactless cap for Zones 1–2 is **£8.90**, while a 7-Day Travelcard costs **£44.70**. 
 > - If you travel over **4 days**, contactless capping costs **£35.60** (saving you £9.10 compared to a Travelcard).
 > - If you travel heavily for **5 full days**, contactless capping reaches **£44.50** (5 × £8.90), making a 7-Day Travelcard virtually identical in cost.
 
-A 7-Day Travelcard costs the same as the Monday–Sunday cap for its zones, shown in the caps table above.
+A 7-Day Travelcard costs the same as the Monday–Sunday cap for its zones.
 
 > **Avoid paper Day Travelcards.** A Zones 1–2 Day Travelcard is **£16.60**, against the **£8.90** daily cap. Zones 1–6 is **£23.60** anytime or **£16.60** off-peak, against the **£16.30** cap. TfL has frozen Travelcard prices, and with them the caps, until March 2027.
 
@@ -178,7 +174,7 @@ A 7-Day Travelcard costs the same as the Monday–Sunday cap for its zones, show
 
 ## National Rail and airport rail fares
 
-Suburban National Rail pricing inside London can be complex because train lines fall under two separate fare systems: **TfL Zonal Fares** (which count towards daily caps) and **National Rail Operator Fares** (which may carry custom rates or exclusions).
+Trains inside London fall under two fare systems: **TfL zonal fares**, which count towards daily caps, and **National Rail operator fares**, which may carry their own rates or exclusions.
 
 > ⚠️ **Key Rules for National Rail & Airports.**
 > * **Oyster vs. Contactless Boundaries:** Contactless is accepted much farther out than Oyster. Both work to Gatwick, but only contactless works to Luton Airport Parkway, Stansted Airport (since March 2026) and Southend Airport.
@@ -186,7 +182,7 @@ Suburban National Rail pricing inside London can be complex because train lines 
 
 To check exact pay-as-you-go rates, use TfL's [Single Fare Finder](https://tfl.gov.uk/fares/find-fares/single-fare-finder). For long-distance, return, or Railcard tickets, book via [National Rail](https://www.nationalrail.co.uk/).
 
-> 💡 **The one case where a paper rail ticket beats contactless.** If you are travelling into London on National Rail and plan to visit paid attractions, **keep the ticket** — it unlocks **2FOR1 entry** at the Tower of London, Kew, Westminster Abbey and more than a hundred other London offers through the Days Out Guide scheme. Contactless, Oyster, Freedom Passes and Travelcards bought at Tube stations do **not** qualify, and there is no way to print a TfL journey history as a substitute. Keep paying for the Tube with contactless; just don't let the barrier swallow the rail ticket. Full rules, the attractions that are only a third off, and the blackout dates are in our [National Rail 2FOR1 guide](/articles/national-rail-2for1-london-attractions/).
+> 💡 **The one case where a paper rail ticket beats contactless.** If you are travelling into London on National Rail and plan to visit paid attractions, **keep the ticket** — it unlocks **2FOR1 entry** at the Tower of London, Kew, Westminster Abbey and more than a hundred other London offers through the Days Out Guide scheme. Contactless, Oyster, Freedom Passes and Travelcards bought at Tube stations do **not** qualify, and there is no way to print a TfL journey history as a substitute. Pay for the Tube with contactless, but keep the rail ticket out of the barrier. Full rules, the attractions that are only a third off, and the blackout dates are in our [National Rail 2FOR1 guide](/articles/national-rail-2for1-london-attractions/).
 
 ### Heathrow Airport Links
 
@@ -195,7 +191,7 @@ Heathrow has three rail options at very different prices: the Piccadilly line is
 ### Gatwick Airport & Other Airport Links
 
 * **Gatwick (LGW):** Compare Thameslink (serving London Bridge, Blackfriars, and St Pancras) with Southern Trains and Gatwick Express to Victoria. Thameslink is often cheaper and more convenient for Central London. Read our [Gatwick Airport Transport Guide](/articles/gatwick-airport-to-london/).
-* **Stansted, Luton & Southend:** Trains to all three accept contactless, but **not Oyster**.
+* **Stansted, Luton & Southend:** trains to all three accept contactless, but **not Oyster**.
 * **Complete Airport Overview:** Read our [London Airport Transport Overview](/articles/getting-around-london-transport-guide/#travelling-to-and-from-londons-6-airports) for all six London airports.
 
 ## River Bus prices
@@ -227,7 +223,7 @@ For pier maps, recommended scenic river routes, and commuter tips, read our [Com
 
 ## London Cable Car prices
 
-The **IFS Cloud Cable Car** crosses the Thames between the Greenwich Peninsula (near The O2 Arena) and the Royal Docks, offering panoramic views of East London, Canary Wharf, and the river.
+The **IFS Cloud Cable Car** crosses the Thames between the Greenwich Peninsula (near The O2 Arena) and the Royal Docks.
 
 | Flight type | Adult price | Child price *(Age 5–15)* |
 | --- | ---: | ---: |
@@ -248,7 +244,7 @@ The **IFS Cloud Cable Car** crosses the Thames between the Greenwich Peninsula (
 
 The **Woolwich Ferry** is a **100% free** public ferry service crossing the Thames between Woolwich and North Woolwich for pedestrians, cyclists, and motor vehicles.
 
-> ⛴️ **Travel tip:** Because service can be temporarily suspended due to high tides, severe weather, or vessel maintenance, always check live status on the TfL website before making a dedicated trip.
+> ⛴️ **Travel tip:** the ferry is sometimes suspended for high tides, severe weather or maintenance, so check live status on the TfL website before a dedicated trip.
 
 ---
 
@@ -280,7 +276,7 @@ Black cabs can be hailed on the street, picked up at designated taxi ranks (majo
 Every licensed black cab has been required to take card and contactless since 2016, with the reader fixed inside the passenger compartment — see our [money in London guide](/articles/money-in-london/) for what else does and doesn't take cash across the city.
 
 ### Private Hire & Ride-Hailing (Uber, Bolt, FreeNow)
-Private hire vehicles must be pre-booked through a licensed operator or app. Unlike black cabs, private hire apps show an exact upfront fare quote before you confirm your ride. Prices fluctuate dynamically based on distance, traffic demand (surge pricing), and vehicle tier.
+Private hire vehicles must be pre-booked through a licensed operator or app. Unlike black cabs, private hire apps show an exact upfront fare quote before you confirm your ride. Prices rise with demand.
 
 *(Visiting from abroad? Make sure your phone has mobile data for ride-hailing and transit apps with our [UK Travel SIM & eSIM Guide](/articles/travel-sim-esim-guide/).)*
 
@@ -290,16 +286,16 @@ Private hire vehicles must be pre-booked through a licensed operator or app. Unl
 
 ## Top 10 money-saving transport tips for London
 
-1. **Always use contactless or an Oyster card:** Paper single tickets are a heavy tourist tax. Tapping in and out automatically calculates the cheapest fare.
-2. **Use the exact same card or device:** Tapping with your physical bank card and then using Apple Pay/Google Pay on your phone counts as two separate accounts, splitting your journey history and preventing daily capping.
+1. **Always use contactless or an Oyster card:** a paper single costs £7.00 whatever the distance.
+2. **Use the same card or device all day:** a phone and a bank card count as two accounts, and capping stops working.
 3. **Travel off-peak when possible:** Avoid peak hours (06:30–09:29 and 16:00–18:59 on weekdays) for significant savings on longer Tube and rail trips.
-4. **Take advantage of the Hopper Fare:** Board as many buses and trams as you want within 60 minutes for a single bus fare.
+4. **Use the Hopper Fare:** every further bus or tram you board within 60 minutes is free.
 5. **Tap the pink card readers:** On a journey that avoids Zone 1, tapping the pink reader mid-journey proves it and cuts the fare. See [the pink readers](#what-are-the-pink-card-readers) below.
-6. **Beware of paper Day Travelcards:** a Zones 1–2 Day Travelcard is £16.60 against the £8.90 contactless cap. Stick to contactless unless buying a 7-Day Travelcard for a mid-week trip.
-7. **Use your Travelcard for river discounts:** Presenting a valid Travelcard gives you a **33% discount** on Uber Boat River Bus fares.
-8. **Load Railcard discounts onto your Oyster:** a 16-25, 26-30, Senior, HM Forces or Veterans Railcard can be added to an Oyster card by staff at a Tube station for a third off off-peak pay-as-you-go fares. Other Railcards, such as Two Together, can't.
-9. **Compare airport transit options:** from Heathrow, the Elizabeth line and Piccadilly line cost a fraction of Heathrow Express and count towards the daily cap.
-10. **Register children for free or half-price travel:** Take advantage of TfL's generous child travel policies outlined below.
+6. **Skip paper Day Travelcards:** a Zones 1–2 Day Travelcard is £16.60 against the £8.90 contactless cap.
+7. **Show a Travelcard on the river:** it takes **33% off** Uber Boat River Bus fares.
+8. **Load a Railcard onto your Oyster:** staff at a Tube station can add a 16-25, 26-30, Senior, HM Forces or Veterans Railcard for a third off off-peak pay-as-you-go fares. Other Railcards, such as Two Together, can't be added.
+9. **Skip Heathrow Express:** the Elizabeth line and Piccadilly line cost a fraction of the price and count towards the daily cap.
+10. **Claim child fares:** under-11s travel free and 11–15s pay half (see below).
 
 ---
 
@@ -307,7 +303,7 @@ Private hire vehicles must be pre-booked through a licensed operator or app. Unl
 
 **Stand-alone pink card readers, on the platform rather than at a gate.** They exist for one job: to prove you travelled between two outer zones **without going through Zone 1**, which is cheaper.
 
-The system otherwise assumes the route through the middle, because that is usually the quickest, and charges you for Zone 1 whether you went through it or not.
+Without it, the system assumes you went through Zone 1 and charges you for it.
 
 **Tap the pink reader when you change trains, and only then.** You still touch the normal yellow readers at the start and end of the journey.
 
@@ -330,10 +326,10 @@ The system otherwise assumes the route through the middle, because that is usual
 | **Age 16–17** | Adult fare *(unless holding 16+ Zip Photocard)* | Adult fare | Use contactless card or adult Oyster. |
 
 > 🧒 **How to get the 50% Young Visitor Discount.**  
-> If you are visiting London with children aged 11–15, buy a standard Oyster card for each child. Ask a member of TfL staff at a Tube or London Overground station, or at a Visitor Centre, to apply the **Young Visitor Discount**. The child must be present. Staff will instantly programme a **50% discount** on adult-rate pay-as-you-go fares and daily caps for up to 14 days (e.g., reducing the Zone 1–2 daily cap to just **£4.45**).
+> Buy a standard Oyster card for each child aged 11–15 and ask TfL staff at a Tube or London Overground station, or at a Visitor Centre, to apply the **Young Visitor Discount**. The child must be present. It takes **50% off** adult pay-as-you-go fares and daily caps for up to 14 days (the Zones 1–2 daily cap becomes **£4.45**).
 
 > 👴 **Senior & Overseas Concessions.**  
-> Free senior travel passes (such as the 60+ London Oyster or Freedom Pass) are strictly reserved for London or UK residents. Overseas senior citizen cards, student IDs, or international disability badges are **not accepted** for discounts on TfL services. However, any visitor holding a 16-25, 26-30, Senior, HM Forces or Veterans Railcard can have it added to an Oyster card at a Tube station for a third off off-peak pay-as-you-go fares.
+> Free senior travel passes (such as the 60+ London Oyster or Freedom Pass) are strictly reserved for London or UK residents. Overseas senior citizen cards, student IDs, or international disability badges are **not accepted** for discounts on TfL services. A visitor's 16-25, 26-30, Senior, HM Forces or Veterans Railcard can be added to an Oyster card (see tip 8).
 
 ---
 
