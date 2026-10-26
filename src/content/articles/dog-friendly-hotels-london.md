@@ -5,7 +5,7 @@ description: "Dog and pet-friendly London hotels by area, from free at Rosewood 
 heroImage: "../../assets/articles/dog-friendly-hotels-london/dog-on-hotel-bed.jpg"
 heroImageAlt: "A golden retriever lying on a bed with a grey star-print duvet, chin resting on its paw, in a softly lit room"
 publishedAt: 2026-09-27
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
 reviewBy: 2027-03-27
 sites: [london]
 canonicalSite: london
@@ -25,11 +25,11 @@ faq:
     a: "The Egerton House Hotel in Knightsbridge says it welcomes anything from a Yorkshire Terrier to a Great Dane, and takes up to two large dogs a room. Kimpton Fitzroy takes dogs up to 35kg. Rosewood London, Bankside Hotel and Bermondsey Square Hotel publish no weight limit. The Langham, Mandarin Oriental Hyde Park and Wilde stop at 20kg, The Stafford at 15kg and Sea Containers at 9kg."
   - q: "Are there dog-friendly hotels in Covent Garden and Soho?"
     a: "In Covent Garden, Wilde's aparthotel takes one dog up to 20kg for stays of seven nights or more, and Travelodge's Covent Garden branch takes pets in every room. Rosewood London, free for dogs, is in neighbouring Holborn. For Soho and Oxford Circus, Treehouse on Langham Place charges nothing, and The Langham, at the top of Regent Street, charges £100 a stay."
-  - q: "What is the best dog-friendly hotel near Hyde Park?"
+  - q: "Which dog-friendly hotels are nearest Hyde Park?"
     a: "Mandarin Oriental Hyde Park is two minutes from the park and lets dogs into its public spaces, bar the Dinner by Heston restaurant and the spa. Royal Lancaster, at £25 a pet per day, is three minutes from the Italian Gardens in Kensington Gardens. The Milestone, at £50 a night, is four minutes from the Broad Walk."
 ---
 
-London hotels that take dogs differ more than the label suggests. The fee runs from nothing to £100 a stay and the weight limit from 9kg to none, and some hotels let the dog into every restaurant and bar while others keep it in the bedroom.
+The fee for a dog at a London hotel runs from nothing to £100 a stay and the weight limit from 9kg to none. Some hotels let the dog into every restaurant and bar; others keep it in the bedroom.
 
 The rule most of them share is the one that shapes the trip: **you cannot leave the dog alone in the room.**
 
@@ -85,7 +85,7 @@ The rule most of them share is the one that shapes the trip: **you cannot leave 
 
 *252 High Holborn, WC1V 7EN · Lincoln's Inn Fields, 5 min · Free*
 
-**[Rosewood London](hotel:rosewood-london)** welcomes cats and dogs free of charge, and its [hotel policy](https://www.rosewoodhotels.com/en/london/hotel-policy) lets pets into every food and drink outlet in the building. Pets stay on a lead, out of the spa and fitness rooms, and the hotel asks you to keep barking to a minimum. Holborn is the station.
+**[Rosewood London](hotel:rosewood-london)** welcomes cats and dogs free of charge, and its [hotel policy](https://www.rosewoodhotels.com/en/london/hotel-policy) lets pets into every food and drink outlet in the building. Pets stay on a lead, out of the spa and fitness rooms, with barking kept to a minimum. Holborn is the station.
 
 <div class="photo-row">
 
@@ -151,7 +151,7 @@ The rule most of them share is the one that shapes the trip: **you cannot leave 
 
 ## Red Carnation's five: £50 a night
 
-The Red Carnation group runs five London hotels on one pet policy: **£50 a night per room**, waived for service dogs, a **£500 damage deposit** held on arrival (The Chesterfield charges damage to your card instead), a lead of no more than 6ft outside the room, and no leaving the dog alone. What differs is the room and the restaurant.
+The Red Carnation group runs five London hotels on one pet policy: **£50 a night per room**, waived for service dogs, a **£500 damage deposit** held on arrival (The Chesterfield charges damage to your card instead), a lead of no more than 6ft outside the room, and no leaving the dog alone.
 
 ### The Milestone, Kensington
 
@@ -339,7 +339,7 @@ The Red Carnation group runs five London hotels on one pet policy: **£50 a nigh
 
 ### Is Premier Inn dog-friendly?
 
-No. **Premier Inn and hub by Premier Inn take [assistance dogs only](https://www.premierinn.com/gb/en/faq/smoking-and-pets.html)**. The budget chain that takes pets is Travelodge.
+No. **Premier Inn and hub by Premier Inn take [assistance dogs only](https://www.premierinn.com/gb/en/faq/smoking-and-pets.html)**. Travelodge is the budget chain that takes pets.
 
 ### Travelodge: every room, every London hotel
 
@@ -419,4 +419,4 @@ Our [guide to London's parks](/articles/best-parks-gardens-london/) covers what 
 - 🏊 **[London Hotels With a Pool](/articles/hotels-with-pool-london/)** - The Langham and Mandarin Oriental Hyde Park have pools as well as a dog policy; the length and the children's hours at every hotel pool
 - 🏨 Area stay guides for the hotels above: [Bloomsbury](/articles/where-to-stay-bloomsbury/), [Marylebone](/articles/where-to-stay-marylebone/), [Mayfair](/articles/where-to-stay-mayfair/), [Westminster and Victoria](/articles/where-to-stay-westminster/), [Kensington](/articles/where-to-stay-kensington/), [City of London](/articles/where-to-stay-city-of-london/), [South Bank](/articles/where-to-stay-south-bank/), [Bermondsey](/articles/where-to-stay-bermondsey/), [Covent Garden](/articles/where-to-stay-covent-garden/) and [Paddington](/articles/where-to-stay-paddington/)
 
-*Pet fees, weight limits and house rules are from each hotel's own pet page, policy or FAQ, checked on 27 September 2026; hotels change them without notice, so confirm when you book. Walking times are from TfL's journey planner.*
+*Pet fees, weight limits and house rules are from each hotel's own pet page, policy or FAQ. Hotels change them without notice, so confirm when you book.*
