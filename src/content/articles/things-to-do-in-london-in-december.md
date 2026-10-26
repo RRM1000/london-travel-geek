@@ -22,9 +22,9 @@ faq:
   - q: "Can you still get tickets for the Bayeux Tapestry in December 2026?"
     a: "No. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. The British Museum is also closed on 24, 25 and 26 December. A free evening event, Bayeux Late, is on Friday 4 December."
   - q: "When is the Trafalgar Square Christmas tree lit in 2026?"
-    a: "Thursday 3 December. The tree is a Norway spruce, given to London by the city of Oslo every year since 1947. Carol groups sing beneath it on most evenings until Christmas, with no ticket."
+    a: "Thursday 3 December. Carol groups sing beneath it on most evenings until Christmas, with no ticket."
   - q: "Are the Tube, buses and trains running on Christmas Day and Boxing Day in London?"
-    a: "TfL runs no service on most of its network on Christmas Day, as it does every year. On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line. National Rail runs almost nothing in England on Christmas Day or Boxing Day, and in 2026 London Paddington is closed from Christmas Day, with Great Western Railway trains unable to use it until Monday 4 January."
+    a: "TfL runs no service on most of its network on Christmas Day. On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line. National Rail runs almost nothing in England on Christmas Day or Boxing Day, and in 2026 London Paddington is closed from Christmas Day, with Great Western Railway trains unable to use it until Monday 4 January."
   - q: "What is closed in London on Christmas Day 2026?"
     a: "The British Museum, Natural History Museum, Science Museum, V&A and Wallace Collection are all closed on 24, 25 and 26 December, and the National Gallery is also closed on 1 January. Hyde Park Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Somerset House and Hampton Court Palace shut on Christmas Day only. St Paul's holds a Choral Eucharist at 11am and a Festal Evensong at 3pm, both free."
   - q: "Which Premier League games are in London on Boxing Day 2026?"
@@ -68,7 +68,7 @@ The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and car
 
 ### Trafalgar Square tree — Thursday 3 December
 
-The Trafalgar Square tree is a Norway spruce, given to London by the city of Oslo every year since 1947. It is lit on **Thursday 3 December**, and carol groups sing beneath it on most evenings until Christmas, with no ticket and a collection for charity. Sunset on the 3rd is at 3.56pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) ends here.
+The Trafalgar Square tree is lit on **Thursday 3 December**, and carol groups sing beneath it on most evenings until Christmas, with no ticket and a collection for charity. Sunset on the 3rd is at 3.56pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) ends here.
 
 ### Carols at the Royal Albert Hall — 19 to 24 December
 
@@ -181,7 +181,7 @@ The Serpentine Swimming Club's Christmas morning handicap is a 100-yard swim in 
 
 ### Transport
 
-**TfL runs no service on most of its network on Christmas Day, as it does every year.** On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line, and Christmas Eve services finished early. The festive plan is at [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel).
+**TfL runs no service on most of its network on Christmas Day.** On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line, and Christmas Eve services finished early. The festive plan is at [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel).
 
 **National Rail runs almost nothing in England on Christmas Day and Boxing Day**, and Network Rail uses the days after for engineering:
 
@@ -203,7 +203,7 @@ Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Som
 
 ## Practical: December in London
 
-**Weather.** The Met Office's Heathrow average for the month (1991 to 2020) is a daily high of **8.8C** and a low of **3.1C**, with **57.0mm of rain**, **7.2 air-frost days** and **53 hours of sunshine**, the least of any month. January is colder by a fraction (8.4C), but December has more days of frost than any other month. Our [London in the rain guide](/articles/london-in-the-rain/) has the indoor fallbacks.
+**Weather.** The Met Office's Heathrow average for the month (1991 to 2020) is a daily high of **8.8C** and a low of **3.1C**, with **57.0mm of rain**, **7.2 air-frost days** and **53 hours of sunshine**, the least of any month. December has more days of frost than any other month. Our [London in the rain guide](/articles/london-in-the-rain/) has the indoor fallbacks.
 
 **Daylight.** Sunset is **3.57pm on 1 December**, about **3.53pm from the 10th to the 15th**, **3.55pm on 21 December** and **4.02pm on the 31st**. Sunrise moves from 7.41am to 8.04am. **The shortest day is 21 December: sunrise at 8.01am, sunset at 3.55pm, 7 hours 54 minutes of daylight.**
 
