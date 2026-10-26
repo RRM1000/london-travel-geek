@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london
@@ -24,7 +24,7 @@ faq:
   - q: "When is the Trafalgar Square Christmas tree lit in 2026?"
     a: "Thursday 3 December. The tree is a Norway spruce, given to London by the city of Oslo every year since 1947. Carol groups sing beneath it on most evenings until Christmas, with no ticket."
   - q: "Are the Tube, buses and trains running on Christmas Day and Boxing Day in London?"
-    a: "TfL runs no service on most of its network on Christmas Day, as it does every year. On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line, and it published that plan on 2 December. National Rail runs almost nothing in England on Christmas Day or Boxing Day, and in 2026 London Paddington is closed from Christmas Day, with Great Western Railway trains unable to use it until Monday 4 January."
+    a: "TfL runs no service on most of its network on Christmas Day, as it does every year. On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line. National Rail runs almost nothing in England on Christmas Day or Boxing Day, and in 2026 London Paddington is closed from Christmas Day, with Great Western Railway trains unable to use it until Monday 4 January."
   - q: "What is closed in London on Christmas Day 2026?"
     a: "The British Museum, Natural History Museum, Science Museum, V&A and Wallace Collection are all closed on 24, 25 and 26 December, and the National Gallery is also closed on 1 January. Hyde Park Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Somerset House and Hampton Court Palace shut on Christmas Day only. St Paul's holds a Choral Eucharist at 11am and a Festal Evensong at 3pm, both free."
   - q: "Which Premier League games are in London on Boxing Day 2026?"
@@ -35,7 +35,7 @@ faq:
     a: "Sunset is at 3.57pm on 1 December, 3.53pm from about the 10th to the 15th and 3.55pm on 21 December, the shortest day, with sunrise at 8.01am. Heathrow's 1991 to 2020 average for the month is a high of 8.8C, a low of 3.1C, 57.0mm of rain and 53 hours of sunshine, the least of any month."
 ---
 
-December has four beats. The Christmas machinery starts properly with the Trafalgar Square tree on the 3rd, and the pantos, Nutcrackers and carols fill the run to Christmas Eve. Christmas Day closes most of the city. The football and the darts carry the days between to New Year's Eve. The sun sets before 4pm for the whole month.
+The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and carols fill the run to Christmas Eve. Christmas Day closes most of the city, and the football and the darts carry the days to New Year's Eve. The sun sets before 4pm all month.
 
 > 💡 **The Short Version:** **The Trafalgar Square tree is lit on Thursday 3 December**, the night the Royal Ballet's **Nutcracker** opens. **Carols at the Royal Albert Hall run 19 to 24 December**, and **St Paul's carol services are free but balloted**. The **PDC World Darts** runs at Alexandra Palace from **11 December**. **Christmas Day has no TfL service**, **London Paddington is shut from 25 December to 3 January**, and the British Museum, Natural History Museum, Science Museum and V&A close **24 to 26 December**. **Boxing Day football** is Fulham v Brighton and Spurs v Bournemouth at 3pm. The **Bayeux Tapestry** is sold out to 31 March 2027, and the **New Year's Eve fireworks** have tickets on sale, with a second batch to follow.
 
@@ -103,7 +103,7 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 - **Winter Palace: The Christmas Beast Ball**, Hampton Court Palace, 28 November to 3 January, included in palace admission with pre-booking. The **Festive Fayre** has more than 100 artisan producers on 4 to 6 and 11 to 13 December, 10am to 5pm. See our [Hampton Court guide](/articles/hampton-court-palace-guide/).
 - **Victoria's Countryside Christmas** at Kensington Palace, 25 November to 3 January, is included in palace admission.
 
-**Chiswick House's Christmas programme runs 1 November to 24 December** and is a grotto, markets and theatre rather than a light trail: Father Christmas on selected dates from 28 November, markets at the Duck Pond, and a Georgian-style opera, *The Duchess's Christmas*, in the house on 12 and 13 December.
+**Chiswick House's Christmas programme runs 1 November to 24 December**: Father Christmas on selected dates from 28 November, markets at the Duck Pond, and a Georgian-style opera, *The Duchess's Christmas*, in the house on 12 and 13 December.
 
 ### Ice rinks
 
@@ -131,9 +131,9 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 
 ## Exhibitions
 
-These opened in November and run into the new year or spring.
+These open in November and run into the new year or spring.
 
-- **Constantinople to Istanbul: One City, Two Empires**, V&A South Kensington, opened **7 November**. £25 on weekdays, £27 at weekends.
+- **Constantinople to Istanbul: One City, Two Empires**, V&A South Kensington, opens **7 November**. £25 on weekdays, £27 at weekends.
 - **Van Eyck: The Portraits**, National Gallery, 21 November to 11 April 2027. The first time all of Jan van Eyck's portraits have been shown together; £18 including an audio guide, and under-18s go free.
 - **Peggy Guggenheim in London**, Royal Academy, 21 November to 14 March 2027, £17.
 - **Vanessa Bell & Duncan Grant: Inside Bloomsbury**, Tate Britain, 12 November to 11 April 2027, £20.
@@ -144,7 +144,7 @@ These opened in November and run into the new year or spring.
 
 ### The London Museum at Smithfield
 
-**The Museum of London's new home opened its permanent galleries on Saturday 28 November in Smithfield's Victorian General Market, and they are free.** December is its first full month. Inside are the Cheapside Hoard of Elizabethan and Jacobean jewellery, the Lord Mayor's Coach and a six-metre window onto the Thameslink line. The temporary exhibition space in the Poultry Market opens in 2028.
+**The London Museum's new home in Smithfield's Victorian General Market opens its permanent galleries on Saturday 28 November, and they are free.** December is its first full month. Inside are the Cheapside Hoard of Elizabethan and Jacobean jewellery, the Lord Mayor's Coach and a six-metre window onto the Thameslink line. The temporary exhibition space in the Poultry Market opens in 2028.
 
 ### The Royal Observatory, Greenwich
 
@@ -175,13 +175,13 @@ Chelsea play away at Coventry on the 27th, and Brentford are away at Ipswich on 
 
 ### The Peter Pan Cup swim — Christmas Day, Serpentine
 
-The Serpentine Swimming Club's Christmas morning handicap is a 100-yard swim in the lake for the Peter Pan Cup. It has been held every year since 1864 except 2020. The race starts at 9am, with swimmers marching to the board from 8.45am. Entry is limited to club members with a handicap. See the [club's page](https://serpentineswimmingclub.com/christmas-day-race-and-peter-pan-cup).
+The Serpentine Swimming Club's Christmas morning handicap is a 100-yard swim in the lake for the Peter Pan Cup. The race starts at 9am, with swimmers marching to the board from 8.45am. Entry is limited to club members with a handicap. See the [club's page](https://serpentineswimmingclub.com/christmas-day-race-and-peter-pan-cup).
 
 ## Christmas Day, Boxing Day and the days between
 
 ### Transport
 
-**TfL runs no service on most of its network on Christmas Day, as it does every year.** On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line, and Christmas Eve services finished early. TfL published its 2025 festive plan on 2 December 2025, and it puts the festive plan at [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel).
+**TfL runs no service on most of its network on Christmas Day, as it does every year.** On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line, and Christmas Eve services finished early. The festive plan is at [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel).
 
 **National Rail runs almost nothing in England on Christmas Day and Boxing Day**, and Network Rail uses the days after for engineering:
 
@@ -205,7 +205,7 @@ Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Som
 
 **Weather.** The Met Office's Heathrow average for the month (1991 to 2020) is a daily high of **8.8C** and a low of **3.1C**, with **57.0mm of rain**, **7.2 air-frost days** and **53 hours of sunshine**, the least of any month. January is colder by a fraction (8.4C), but December has more days of frost than any other month. Our [London in the rain guide](/articles/london-in-the-rain/) has the indoor fallbacks.
 
-**Daylight.** Sunset is **3.57pm on 1 December**, about **3.53pm from the 10th to the 15th**, **3.55pm on 21 December** and **4.02pm on the 31st**. Sunrise moves from 7.41am to 8.04am. **The shortest day is 21 December: sunrise at 8.01am, sunset at 3.55pm, 7 hours 54 minutes of daylight.** Anything outdoors that needs light belongs before 3pm.
+**Daylight.** Sunset is **3.57pm on 1 December**, about **3.53pm from the 10th to the 15th**, **3.55pm on 21 December** and **4.02pm on the 31st**. Sunrise moves from 7.41am to 8.04am. **The shortest day is 21 December: sunrise at 8.01am, sunset at 3.55pm, 7 hours 54 minutes of daylight.**
 
 **Working out which month suits you best?** [Best time to visit London](/articles/best-time-to-visit-london/) compares December against the rest of the year, and [November's guide](/articles/things-to-do-in-london-in-november/) covers the month before. With children, see [London with children](/articles/london-with-children/).
 
@@ -213,7 +213,7 @@ Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Som
 
 ## What's on in December 2026
 
-One evening pick a day: music, comedy, theatre, classical and dance, each at a different venue.
+One evening pick a day, each at a different venue.
 
 <div data-listings-match="." data-exclude="open mic|weekly|insights|recital" data-cat="music,comedy,theatre,classical,dance" data-evening data-from="2026-12-01" data-to="2026-12-31" data-per-venue="1" data-per-day="1" data-limit="20" data-flat></div>
 
