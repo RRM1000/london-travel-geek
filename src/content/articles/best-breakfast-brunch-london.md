@@ -243,7 +243,7 @@ Coffee is **Square Mile**, with a rotating guest espresso and filter.
 
 **The menu changes weekly.** Expect **espresso-drizzled pancakes with mascarpone and berries**, **smashed avocado on sourdough**, and sandwiches made on site — smoked salmon with chive cream cheese, breaded brie with roasted aubergine — alongside a pastry case that sells out by early afternoon.
 
-**Mon–Fri 7.30am–5.30pm, Saturday 9am–4pm, closed Sundays.** It fills with office workers, so it is calmest before 9am and after 3pm. Counter service.
+**Mon–Fri 7.30am–5pm, Saturday 8.30am–5pm, Sunday 9am–5pm.** It fills with office workers, so it is calmest before 9am and after 3pm. Counter service.
 
 ![A slice of tart with a green salad on a wooden counter](../../assets/articles/best-breakfast-brunch-london/kaffeine.jpg)
 *Kaffeine, Great Titchfield Street. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3859693639), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
