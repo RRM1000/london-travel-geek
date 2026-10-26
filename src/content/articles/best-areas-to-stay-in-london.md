@@ -232,7 +232,7 @@ Food after midnight is easy. **Beigel Bake on Brick Lane is open twenty-four hou
 
 *A room at Batty Langley's.*
 
-**It has no lift and no air conditioning**, which matters in July or with a heavy case. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, a minute from Aldgate East.
+**It has no lift and no air conditioning**, a drawback in July or with a heavy case. **[Leman Locke](hotel:leman-locke)** is the studio-with-a-kitchen option, a minute from Aldgate East.
 
 ![A Leman Locke studio with a pink sofa in the foreground and the bed, with its grey headboard and diamond-patterned throw, visible beyond](../../assets/articles/best-areas-to-stay-in-london/leman-locke.jpg)
 
