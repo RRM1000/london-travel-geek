@@ -3,7 +3,8 @@ title: "How to Use London Buses and Trams: A Visitor's Guide"
 seoTitle: "London Buses and Trams: the £1.75 Flat Fare Explained"
 description: "Every London bus and tram journey costs £1.75 however far you go, and the Hopper gives you unlimited transfers for 60 minutes on that one fare. How to pay, how to plan, and the routes worth riding for the view."
 publishedAt: 2026-07-28
-updatedAt: 2026-09-23
+updatedAt: 2026-10-26
+reviewBy: 2026-11-02
 sites:
   - london
 canonicalSite: london
@@ -11,7 +12,6 @@ category: "Getting around London"
 tags:
   - buses
   - trams
-  - Weekend Hopper
   - live bus times
   - sightseeing buses
   - Oyster card
@@ -24,7 +24,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-**Every London bus is £1.75 flat, however far you go**, against £3.00 to £5.90 on the Tube — and the Hopper fare lets you change buses free within an hour. Buses also reach neighbourhoods with no nearby Tube station, and save the long walk down into one.
+**Every London bus is £1.75 flat, however far you go**, against £3.00 to £5.90 on the Tube — and the Hopper fare lets you change buses free within an hour. Buses also reach neighbourhoods with no Tube station.
 
 > 💡 **Bus & Tram Snapshot:**  
 > - **Flat Fare:** All London bus and tram journeys cost a flat **£1.75** (no peak rates, no distance zones).  
@@ -45,9 +45,9 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 | **Night Travel** | 24-hour routes & N-prefixed night buses | 24-hour Night Tube *(6 lines, Fri/Sat only)* |
 | **Luggage Space** | Limited floor space for large suitcases | Dedicated luggage areas on newer lines |
 
-> 🚀 **When to take the bus:** Choose a bus for short hops (1–4 stops), when travelling with a stroller/wheelchair, when avoiding station stairs, or when taking in the sights. Take the Tube or Elizabeth line when heading to an airport or timed appointment.
+> 🚀 **When to take the bus:** Choose a bus for short hops (1–4 stops), with a pushchair or wheelchair, to avoid station stairs, or for the sights. Take the Tube or Elizabeth line to an airport or a timed appointment.
 
-Every route runs low-floor buses with an access ramp and one wheelchair space, and **wheelchair and mobility scooter users travel free on buses and trams**. Our [step-free London guide](/articles/step-free-london/) covers how that compares with the rail network, and which central Tube stations have no step-free access at all.
+Every route runs low-floor buses with an access ramp and one wheelchair space, and **wheelchair and mobility scooter users travel free on buses and trams**. Our [step-free London guide](/articles/step-free-london/) compares that with the rail network and lists the central Tube stations with no step-free access.
 
 ---
 
@@ -56,8 +56,8 @@ Every route runs low-floor buses with an access ramp and one wheelchair space, a
 > 🌟 **Golden Rules of London Buses:**  
 > 1. **Signal the Driver:** Stand visible at the bus stop flag and extend your arm out to signal the driver to stop.  
 > 2. **Touch In Once:** Touch your card or device flat against the yellow reader beside the driver when boarding. Wait for the green light.  
-> 3. **Never Touch Out:** Unlike the Tube, touching out on a bus is unnecessary and will confuse the card reader!  
-> 4. **Press the Red STOP Button:** When your stop is next, press the red **STOP** button to request the driver to pull over.  
+> 3. **Never Touch Out:** Touching out on a bus is unnecessary and confuses the reader.  
+> 4. **Press the Red STOP Button:** When your stop is next, press the red **STOP** button.  
 > 5. **Exit Through the Middle Doors:** Exit using the middle doors on double-decker buses so boarding passengers can enter at the front.
 
 ---
@@ -66,10 +66,8 @@ Every route runs low-floor buses with an access ramp and one wheelchair space, a
 
 ## How the Hopper Fare works
 
-The **Hopper fare** is TfL's automatic transfer discount system for buses and trams.
-
 * **60-Minute Window:** Board as many TfL buses or trams as you want within **60 minutes** of your first tap, and you will only be charged a total of **£1.75**.
-* **Automatic Discount:** Tap in on every bus you board. TfL recognises the same card or device and waives the extra £1.75 charges.
+* **Automatic Discount:** Tap in on every bus you board with the same card or device and the extra £1.75 charges are waived.
 
 ### Mixing Buses and the Underground
 
@@ -81,17 +79,6 @@ The **Hopper fare** is TfL's automatic transfer discount system for buses and tr
 | **Bus ➔ Tube** | £1.75 bus fare + Underground Tube fare |
 | **Bus ➔ Tube ➔ Bus** *(within 60 mins of 1st bus)* | **£1.75** for both buses + Underground Tube fare |
 | **Bus ➔ Bus** *(after 60 mins)* | £1.75 + £1.75 = **£3.50** |
-
----
-
-## The Weekend Hopper trial has ended
-
-> ℹ️ **This offer is over.** To mark ten years of the Hopper fare, TfL ran an
-> **unlimited Weekend Hopper** from 25 July to 31 August 2026: a single £1.75
-> fare bought a whole Saturday or Sunday of bus and tram travel, so a full
-> weekend cost £3.50. It ended at 23:59 on Monday 31 August 2026 and **has not
-> been extended or made permanent**. Normal fares apply again — £1.75 a
-> journey, £5.25 daily cap, with the sixty-minute Hopper as described above.
 
 ---
 
@@ -137,14 +124,14 @@ London Trams operate across South London surrounding **Croydon, Wimbledon, Becke
 
 ## 8 Common bus & tram mistakes to avoid
 
-1. **Touching out when leaving a bus:** Touching out is unnecessary and can confuse the fare reader!
-2. **Waiting at the wrong stop flag letter:** Major stations have multiple bus stops (A, B, C, D) spread across adjacent streets—match the letter flag in your app.
-3. **Forgetting to signal the driver:** Drivers will not stop unless you extend your arm to signal.
+1. **Touching out when leaving a bus.**
+2. **Waiting at the wrong stop flag letter:** Major stations have several stops (A, B, C, D) on adjacent streets, so match the letter in your app.
+3. **Forgetting to signal the driver:** Drivers will not stop unless you extend your arm.
 4. **Using different devices:** Tapping in with a bank card on Bus 1 and Apple Pay on Bus 2 counts as two different cards (charging £1.75 twice).
 5. **Trying to pay cash:** London buses have been 100% cashless since 2014.
-6. **Pressing the STOP button too late:** Press the red button right after the bus leaves the stop prior to yours.
-7. **Forgetting the Wimbledon Platform 10 tap:** When transferring to trams at Wimbledon, tap the platform 10 validator.
-8. **Not checking weekend road closures:** Major events (parades, marathons, demonstrations) cause central bus diversions—check live status on **TfL Go**.
+6. **Pressing the STOP button too late:** Press it as the bus leaves the stop before yours.
+7. **Forgetting the Wimbledon Platform 10 tap** when transferring to trams.
+8. **Not checking road closures:** Parades, marathons and demonstrations divert central buses, so check live status on **TfL Go**.
 
 ---
 
@@ -161,4 +148,4 @@ London Trams operate across South London surrounding **Croydon, Wimbledon, Becke
 
 ---
 
-*Information checked on 2 August 2026. Always verify live bus arrivals and route diversions with [Transport for London](https://tfl.gov.uk/).*
+*Check live bus arrivals and route diversions with [Transport for London](https://tfl.gov.uk/).*
