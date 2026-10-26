@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Odeon_Leicester_Square
 heroImageLicense: "CC0"
 heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
+updatedAt: 2026-10-26
 reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
@@ -30,14 +30,14 @@ faq:
   - q: "Where do film premieres happen in London?"
     a: "Mostly in Leicester Square, where Odeon, Cineworld and Vue all have cinemas, and in a few other cinemas such as Curzon Mayfair. A gated-off section of the square usually means a premiere that evening. The Royal Festival Hall on the South Bank hosts the London Film Festival galas."
   - q: "Can you get autographs at a premiere?"
-    a: "Sometimes. Applause Store's FAQ says a handshake or an autograph from a star cannot be promised, because the stars are working and there is little time. Treat a signature as a bonus on top of watching the arrivals."
+    a: "Sometimes. Applause Store's FAQ says a handshake or an autograph from a star cannot be promised, because the stars are working and there is little time."
 ---
 
-**Most London film premieres are invitation only, and a few are not.** The public routes in are free fan-pen places released one premiere at a time, ballots some studios run, and the handful of premieres that sell tickets.
+**Most London film premieres are invitation only, and a few are not.**
 
 > 💡 **The Short Version:** The main free route is **Applause Store**, which posts **fan-pen invitations beside the red carpet** for individual premieres. **Photo ID** is usually checked for **everyone in the party**, and the London examples were **16+ or 18+**. Some studios run their own **fan-zone ballot**. To see the film too, the **Royal Film Performance** (from **£150**) and the **London Film Festival galas** (**£21 to £30**) sell tickets. Resellers advertise premiere access at **£1,999 to £4,000**. The working habit is to **register interest on Applause Store** and watch for the email.
 
-*Prices, ages and ID rules are the 2026 figures from Applause Store, the Film and TV Charity and the BFI.*
+*Prices, ages and ID rules are the 2026 figures.*
 
 ---
 
@@ -88,14 +88,13 @@ Resellers such as Cornucopia Events advertise premiere access at **£1,999 to £
 
 **Resale.** Applause says anyone found selling or advertising a free ticket has it voided, and may face formal proceedings.
 
-**Autographs.** Applause's FAQ says a handshake or autograph from a star cannot be promised.
+**Autographs.** Applause says a handshake or autograph from a star cannot be promised.
 
 **What a viewing area can ban.** BAFTA's red carpet area in 2024 had no cover, no seating, no toilets and no bag storage, and allowed no re-entry. The [BAFTA red carpet guide](/articles/bafta-red-carpet/) has the full list.
 
 ## Finding the next one
 
 - **Applause Store**: register interest on every premiere listing, and on the BAFTA red carpet listing.
-- **Leicester Square itself**: a gated-off section means an event that evening.
 - **The film's official accounts**: the place to catch a studio ballot.
 
 More London ceremonies and big nights, and which ones the public can get into, are in [award ceremonies in London](/articles/award-ceremonies-london/).
