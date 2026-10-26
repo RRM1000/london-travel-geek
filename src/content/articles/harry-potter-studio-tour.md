@@ -1,7 +1,7 @@
 ---
 title: "The Harry Potter Studio Tour: Tickets, Extras and How to Get There"
 seoTitle: "Harry Potter Studio Tour London: Prices and Travel"
-description: "Warner Bros. Studio Tour London costs £58.50 and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
+description: "Warner Bros. Studio Tour London costs £58.50 for 2026 dates and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
 publishedAt: 2026-09-20
 updatedAt: 2026-10-26
 reviewBy: 2026-11-09
@@ -14,7 +14,7 @@ tags: [harry potter, Watford, family, things to do, days out, day trips]
 draft: false
 faq:
   - q: "How much is the Harry Potter Studio Tour?"
-    a: "£58.50 for an adult, £47.00 for a child aged 5 to 15, and free for under-4s, who still need a booked ticket. Two adults and two children come to £188 because a £23 family saving is applied automatically at checkout. The price is the same on every date, including peak Saturdays."
+    a: "£58.50 for an adult, £47.00 for a child aged 5 to 15, and free for under-4s, who still need a booked ticket. Two adults and two children come to £188 because a £23 family saving is applied automatically at checkout. The price is the same on every 2026 date, including peak Saturdays; adult tickets for 2027 dates are £61."
   - q: "Can you buy Studio Tour tickets on the day?"
     a: "No. Every ticket is pre-booked, nothing is held back for the day, and you need a booking confirmation just to get into the car park. Even the Studio Shop is ticket holders only."
   - q: "How do you get to the Harry Potter Studio Tour from London?"
@@ -27,17 +27,17 @@ faq:
     a: "Dark Arts runs to 8 November 2026 and Hogwarts in the Snow from 14 November 2026 to 17 January 2027. Both are included in the ticket price. The tour is closed 9 to 13 November while the sets are redressed, and on 25 and 26 December."
 ---
 
-**A ticket to Warner Bros. Studio Tour London costs £58.50 for an adult, and you cannot buy one at the door.** Everything is pre-booked, in 30-minute entry slots, and nothing is held back for the day — you need a booking confirmation even to drive into the car park.
+**A ticket to Warner Bros. Studio Tour London costs £58.50 for an adult on 2026 dates, and you cannot buy one at the door.** Everything is pre-booked, in 30-minute entry slots, and you need a booking confirmation even to drive into the car park.
 
-It is not a theme park. It is a walking tour of the sets, props and costumes the films were made on, at Leavesden in Hertfordshire, and it takes about three and a half hours.
+It is a walking tour of the sets, props and costumes the films were made on, at Leavesden in Hertfordshire, and it takes about three and a half hours. There are no rides.
 
-> 💡 **The Short Version:** **£58.50 adult, £47.00 child, £188 for a family of four**, the same price on every date. **Book ahead** — Saturdays sell out weeks out. Get there by **train from Euston to Watford Junction (£7.20 off-peak) and the free shuttle bus**, or drive and park free. **Butterbeer is £7.95** and only sold halfway round. The **Digital Guide is £4.75 if you pre-book it**, and £1 more on the day. **Dark Arts runs to 8 November and Hogwarts in the Snow from 14 November**, both included — and the tour is **closed 9 to 13 November**. **Sold out, or would rather not change at Watford Junction?** A <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">coach tour from Victoria</a> includes entry, from £87.
+> 💡 **The Short Version:** **£58.50 adult, £47.00 child, £188 for a family of four** on any 2026 date; adult tickets for 2027 dates are £61. **Book ahead**: Saturdays sell out weeks out. Get there by **train from Euston to Watford Junction (£7.20 off-peak) and the free shuttle bus**, or drive and park free. **Butterbeer is £7.95** and only sold halfway round. The **Digital Guide is £4.75 if you pre-book it**, and £1 more on the day. **Dark Arts runs to 8 November and Hogwarts in the Snow from 14 November**, both included, and the tour is **closed 9 to 13 November**. **Sold out, or would rather not change at Watford Junction?** A <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">coach tour from Victoria</a> includes entry, from £87.
 
 ## What it costs
 
 | Ticket | Price |
 | --- | --- |
-| **Adult (16+)** | **£58.50** |
+| **Adult (16+)** | **£58.50** (£61 for 2027 dates) |
 | **Child (5–15)** | **£47.00** |
 | **Under 4** | Free, but still needs a booked ticket |
 | **Family** | **£188.00** — two adults and two children, or one adult and three children |
@@ -45,7 +45,7 @@ It is not a theme park. It is a walking tour of the sets, props and costumes the
 
 The family price is not a separate product. Put two adults and two children in the basket and a **£23.00 saving** appears at checkout.
 
-**The price does not move with the date.** A quiet September Tuesday and a peak Hogwarts in the Snow Saturday both charged £58.50. What changes with demand is availability, not price.
+**The price does not move with the date within a year.** A quiet September Tuesday and a peak Hogwarts in the Snow Saturday both charged £58.50. What changes with demand is availability.
 
 ## Tour packages compared, and what they really cost
 
@@ -61,19 +61,19 @@ The family price is not a separate product. Put two adults and two children in t
 | <a href="https://www.getyourguide.com/activity/-t297085?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Studio Tour with hotel pickup</a> | Shared car, up to 8 people | Your Zone 1 hotel | Yes | 7 hours, 4 inside | £159 |
 | <a href="https://www.getyourguide.com/activity/-t63735?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Guided Studio Tour</a> | Train and shuttle, with a guide | Euston, 11:05 or 12:05 | Yes | 6 hours | From £175 |
 
-*Prices for one adult, checked 13 September 2026.*
+*Prices for one adult, September 2026.*
 
 **What the extra money buys:**
 
 - **The coach** gets you a seat from central London and a rep who hands out the tickets. It takes 75 to 90 minutes each way, against about 35 by train and shuttle.
-- **The train package buys nothing.** It is the same Euston train and the same free bus you would use anyway, for more.
+- **The train package buys nothing.** It is the same Euston train and the same free bus, for more.
 - **Hotel pickup** is the only door-to-door option: a shared car from a Zone 1 address, a 45-minute pickup window, and free cancellation up to 14 days before.
 - **A guide** is otherwise only sold as the £250 Deluxe Tour. The guided package takes a group of up to eight round the sets, then gives you free time inside.
-- **A ticket on a sold-out day.** This is the best reason to pay. When the operator's own site is sold out for your date, the packages often still have tickets.
+- **A ticket on a sold-out day.** This is the best reason to pay: when the operator's own site is sold out for your date, the packages often still have tickets.
 
-**The coach packages are one product sold by several companies.** Four resellers run the same day out — a coach from central London, about four hours inside, a rep with the tickets — from Victoria, Bloomsbury, King's Cross, Paddington and Marble Arch. The Victoria coach has the most reviews, 4.7 from almost 28,000, and is usually the cheapest, so book that one. Only two others add something: the Victoria, Paddington or Marble Arch coach sells an extended stay of about six hours inside, and the branded bus, run by Golden Tours, is the only one listed as wheelchair accessible — close to the same price as booking with Golden Tours direct.
+**The coach packages are one product sold by several companies.** Four resellers run the same day out (a coach from central London, about four hours inside, a rep with the tickets) from Victoria, Bloomsbury, King's Cross, Paddington and Marble Arch. The Victoria coach has the most reviews, 4.7 from almost 28,000, and is usually the cheapest. Only two others add something: the Victoria, Paddington or Marble Arch coach sells an extended stay of about six hours inside, and the branded bus, run by Golden Tours, is the only one listed as wheelchair accessible.
 
-**The Studio Tour and Thames cruise** is the ticket and a hop-on hop-off cruise from Westminster or Tower Pier, which you can take on a different day, with **no transport at all**. GetYourGuide sells it twice under the same name: <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one listing</a> is £84.50 on every date, with free cancellation up to three days before; the <a href="https://www.getyourguide.com/activity/-t469400?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">other</a>, rated 4.8 from 1,004 reviews, is from £66 but £89 to £110 on most dates when checked on 29 September 2026, and non-refundable. Bought separately, the £58.50 ticket and City Cruises' [£9 one-day river pass](/articles/thames-river-cruises-london/) come to £67.50.
+**The Studio Tour and Thames cruise** is the ticket and a hop-on hop-off cruise from Westminster or Tower Pier, which you can take on a different day, with **no transport at all**. GetYourGuide sells it twice under the same name: <a href="https://www.getyourguide.com/activity/-t408850?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one listing</a> is £84.50 on every date, with free cancellation up to three days before; the <a href="https://www.getyourguide.com/activity/-t469400?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">other</a>, rated 4.8 from 1,004 reviews, is from £66 but £89 to £110 on most dates, and non-refundable. Bought separately, the £58.50 ticket and City Cruises' [£9 one-day river pass](/articles/thames-river-cruises-london/) come to £67.50.
 
 ### Which to book
 
@@ -83,16 +83,16 @@ The family price is not a separate product. Put two adults and two children in t
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="31392" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-**Do it yourself whenever the operator still has tickets for your date.** For anyone who can manage a 20-minute train from Euston, that is at least £14 a head cheaper than any transport package here, with no fixed coach time to be back for.
+Doing it yourself is at least £14 a head cheaper than any transport package here, with no fixed coach time to be back for.
 
 > ⚠️ **Do not buy a transfer without a ticket by mistake.** Some listings sell the coach seat only, and you will be refused boarding without your own Studio Tour ticket. Check that entry is included before you pay.
 
 ## Booking, and the rules that catch people out
 
-- **Tickets are on sale until 31 December 2026**, on a rolling window the operator does not publish a schedule for.
+- **Tickets are on sale until 31 December 2027.**
 - **Nothing is sold on the day**, by phone or at the desk.
 - **Tickets are non-refundable.** Moving to another date costs **£10 per change**, by phone, before your visit date.
-- **Sold-out days sometimes reopen**, precisely because other people pay that £10 to move.
+- **Sold-out days sometimes reopen**, because other people pay that £10 to move.
 - **Resale voids the ticket.** Tickets bought from auction sites or unauthorised resellers are refused at the door.
 - **You get a 30-minute entry window** and cannot go in early. Miss it and entry is not guaranteed; at busy times you may have to rebook.
 
@@ -108,7 +108,7 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 
 **The sets:** the Great Hall, the Gryffindor common room and Dumbledore's office, Platform 9¾ with the original Hogwarts Express locomotive and a carriage you can walk into, the Forbidden Forest, Gringotts and the Lestrange vault, Diagon Alley, Professor Sprout's greenhouse, the Backlot with the Knight Bus, the Hogwarts bridge and Number Four Privet Drive, the castle model, and the Wand Room.
 
-**Free with any ticket:** the shuttle bus from Watford Junction, car parking, the cloakroom, the Activity Passport for children, WiFi, water refill stations, manual wheelchairs and folding stools, sensory support bags, two sensory rooms and a multi-faith room. **All the seasonal content is included too** — Dark Arts and Hogwarts in the Snow cost nothing extra.
+**Free with any ticket:** the shuttle bus from Watford Junction, car parking, the cloakroom, the Activity Passport for children, WiFi, water refill stations, manual wheelchairs and folding stools, sensory support bags, two sensory rooms and a multi-faith room. **All the seasonal content is included too**: Dark Arts and Hogwarts in the Snow cost nothing extra.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-studio-tour-bundles" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -130,19 +130,19 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 
 The photo package covers the green screen broomstick flight and the printed extras, **but not the Hogwarts Express carriage photo**, which is sold separately.
 
-**The free accessibility alternatives:** audio descriptive tours, tactile tours, braille and large-print image books, induction loops, and BSL tours with a qualified interpreter, all free — the BSL tours need 14 days' notice.
+**The free accessibility alternatives:** audio descriptive tours, tactile tours, braille and large-print image books, induction loops, and BSL tours with a qualified interpreter. The BSL tours need 14 days' notice.
 
 ## The upgrades
 
 | Package | Price | What you get |
 | --- | --- | --- |
 | **Twilight Tour** | **£105** | Selected Fridays. A 20-minute drink reception in the Great Hall with a glass of Champagne, then a part-guided tour of the Hogwarts sets |
-| Breakfast package | £127 | Entry, a premium breakfast at The Hogwarts Table, Butterbeer in a souvenir tankard and the guidebook |
-| Dinner package | £157.50 | Entry and dinner at The Hogwarts Table |
+| Breakfast package | £127 (£129.50 for 2027 dates) | Entry, a premium breakfast at The Hogwarts Table, Butterbeer in a souvenir tankard and the guidebook |
+| Dinner package | £157.50 (£160 for 2027 dates) | Entry and dinner at The Hogwarts Table |
 | **Deluxe Tour** | **£250** (same for children) | A 2½-hour guided tour in a small group, breakfast, priority parking, every green screen photo and video, Butterbeer, a photo at the Great Hall doors, the guidebook, and re-entry to walk round again afterwards |
-| **Relaxed Tours** | £58.50 | Standard price, adapted for visitors with autism: reduced numbers, changed lighting and quieter sound from 08:00 to 10:00 on three dates a year |
+| **Relaxed Tours** | £58.50 (£61 for 2027 dates) | Standard price, adapted for visitors with autism: reduced numbers, changed lighting and quieter sound from 08:00 to 10:00 on three dates a year |
 
-**The Hogwarts Table is not in the Great Hall.** The breakfast, dinner and afternoon tea all happen in a dining room in the entrance hub, not on the set. It is the most common disappointment, and the operator is upfront about it.
+**The Hogwarts Table is not in the Great Hall.** The breakfast, dinner and afternoon tea all happen in a dining room in the entrance hub, not on the set.
 
 <div data-stay-strip></div>
 
@@ -175,6 +175,8 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 | --- | --- | --- |
 | **Dark Arts** | 16 September – 8 November 2026 | None |
 | **Hogwarts in the Snow** | 14 November 2026 – 17 January 2027 | None |
+| **Hogwarts House Spirit** | 23 January – 19 April 2027 | None |
+| **Summer feature** | 13 May – 6 September 2027 | None |
 
 **Dark Arts** puts over a hundred floating pumpkins above the Great Hall, Death Eaters through the sets, duelling in the Defence Against the Dark Arts classroom and Dementors in the Forbidden Forest. There are pyrotechnics, water-based smoke and flashing lights at Hagrid's hut, the Hogwarts Express and Diagon Alley, and from 18:00 on the Hogwarts bridge. Ask a team member if you want to bypass any of it.
 
@@ -190,7 +192,7 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 | Last tour | 16:00 | 18:30 |
 | Closes | 20:00 | 22:00 |
 
-Entry slots run every 30 minutes. Saturdays and school holidays sell out first; late-afternoon slots are the ones left when a date is nearly full, and they work well — the tour has no closing rush because there is no time limit once you are in.
+Entry slots run every 30 minutes. Saturdays and school holidays sell out first; late-afternoon slots are the ones left when a date is nearly full, and they work well because there is no time limit once you are in.
 
 ## Getting there
 
@@ -204,7 +206,7 @@ Entry slots run every 30 minutes. Saturdays and school holidays sell out first; 
 
 Peak fares apply northbound out of Euston only from **16:00 to 19:00 on weekdays**, so a morning trip out is off-peak even midweek.
 
-**The shuttle bus from Watford Junction is free and included in your ticket.** It takes about 15 minutes, runs at least every half hour from 09:20 (from 08:15 on early days), and cannot be pre-booked — you show your ticket for that date at the stop. The buses are electric and wheelchair accessible, one wheelchair per journey. The last bus back leaves when the tour closes, typically 20:00 on quiet weekdays and 22:00 on busy ones.
+**The shuttle bus from Watford Junction is free and included in your ticket.** It takes about 15 minutes, runs at least every half hour from 09:20 (from 08:15 on early days), and cannot be pre-booked: you show your ticket for that date at the stop. The buses are electric and wheelchair accessible, one wheelchair per journey. The last bus back leaves when the tour closes, typically 20:00 on quiet weekdays and 22:00 on busy ones.
 
 Both stations are step-free to the platforms, and Watford Junction has staff on hand around the clock.
 
@@ -216,7 +218,7 @@ Golden Tours is the Studio Tour's own coach partner, leaving from **Victoria, Ba
 
 **WD25 7LR**, about 50 minutes and 22 miles from central London. **Parking is free**, with blue badge bays by the entrance and Pod Point EV chargers (bring your own cable and the app). **Priority parking next to the entrance is £10** and must be booked in advance.
 
-Every car needs a booking confirmation to get in, and **you cannot go back to the car during your visit** — so take what you need with you.
+Every car needs a booking confirmation to get in, and **you cannot go back to the car during your visit**, so take what you need with you.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -224,7 +226,6 @@ Every car needs a booking confirmation to get in, and **you cannot go back to th
 
 - **Turning up without a ticket.** You cannot buy at the door, and you cannot even reach the shop.
 - **Arriving at the ticketed time**, rather than 20 minutes before it.
-- **Expecting rides.** There are none. It is a walking tour of sets.
 - **Bringing luggage.** Large or multiple bags are discouraged and everything goes through a scanner.
 - **Bringing a dog.** Pets are refused, and cannot be left in the car either. Assistance dogs are welcome.
 - **Forgetting a ticket for a toddler.** Under-4s are free but still need one booked.
