@@ -3,7 +3,7 @@ title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
 description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
 publishedAt: 2026-06-30
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-02
 sites:
   - london
@@ -117,7 +117,7 @@ One West End show is a horror title outright, and two long-running shows do the 
 
 A stage adaptation of the horror film franchise, booking at the Ambassadors until **27 February 2027**. The Ambassadors is one of the smallest West End houses, which suits a horror premise.
 
-**On Halloween night, Saturday 31 October, there's an extra late performance at 10.30pm**, on top of the 2.30pm matinee and an evening show brought forward to 7pm. Tickets for the late show start at £36. The show runs 2 hours 10 minutes with an interval, so it lets out around 12.40am; the Night Tube runs on Saturday nights from Leicester Square, two minutes' walk away, on the Northern and Piccadilly lines. The theatre advises caution for under-15s. [Book the 31 October performances at the Ambassadors box office](https://www.atgtickets.com/shows/paranormal-activity/ambassadors-theatre/calendar/2026-10-31/).
+**On Halloween night, Saturday 31 October, there's an extra late performance at 10.30pm**, on top of the 2.30pm matinee and an evening show brought forward to 7pm. Tickets for the late show start at £36. The show runs 2 hours 10 minutes with an interval, so it lets out around 12.40am; the Night Tube runs on Saturday nights from Leicester Square, two minutes' walk away, on the Northern line only that night: **the Piccadilly line is closed from 1am on Saturday 31 October to the end of Sunday 1 November, Night Tube included**. The theatre advises caution for under-15s. [Book the 31 October performances at the Ambassadors box office](https://www.atgtickets.com/shows/paranormal-activity/ambassadors-theatre/calendar/2026-10-31/).
 
 ### Stranger Things: The First Shadow, Phoenix Theatre
 

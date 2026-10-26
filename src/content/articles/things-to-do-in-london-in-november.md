@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-04
 sites: [london]
 canonicalSite: london
@@ -30,7 +30,7 @@ faq:
   - q: "When does it get dark in London in November?"
     a: "Sunset is at 4.35pm on 1 November, 4.28pm on Bonfire Night, 4.14pm on the 14th and 3.57pm on the 30th. The clocks went back on 25 October, so the whole month is on GMT. Heathrow's 1991 to 2020 average for the month is a high of 11.5C, a low of 5.3C, 66.6mm of rain and 68 hours of sunshine."
   - q: "Is Diwali in November in 2026?"
-    a: "Diwali itself falls on Sunday 8 November. The Mayor of London's free Diwali on the Square in Trafalgar Square was earlier, on Sunday 25 October. The National Maritime Museum in Greenwich holds its free Diwali day on Saturday 7 November, 10.30am to 5pm, with a lantern parade and a new Diwali Bazaar."
+    a: "Diwali itself falls on Sunday 8 November. The Mayor of London's free Diwali on the Square in Trafalgar Square was due on Sunday 25 October and was cancelled the day before. The National Maritime Museum in Greenwich holds its free Diwali day on Saturday 7 November, 10.30am to 5pm, with a lantern parade and a new Diwali Bazaar."
 ---
 
 November has three beats. The first fortnight is fireworks and ceremony. Ten days of jazz sit in the middle. The Christmas lights, rinks and markets switch on in stages from the 5th. The clocks went back on 25 October, and the sun sets before 4.40pm all month.
@@ -91,7 +91,7 @@ After the Show you are in the middle of a car-free City with an hour or two of d
 
 ### Diwali — Sunday 8 November
 
-Diwali itself falls on **Sunday 8 November**. The Mayor of London's free Diwali on the Square in Trafalgar Square was on 25 October, so it is not a November event. The free **Diwali day at the National Maritime Museum** is on **Saturday 7 November, 10.30am to 5pm**: dance and music, rangoli workshops, a lantern parade and, new in 2026, the Diwali Bazaar. Our [Greenwich guide](/articles/greenwich-area-guide/) has the rest of the day.
+Diwali itself falls on **Sunday 8 November**. The Mayor of London's free Diwali on the Square in Trafalgar Square was due on 25 October and was cancelled the day before; it is not a November event. The free **Diwali day at the National Maritime Museum** is on **Saturday 7 November, 10.30am to 5pm**: dance and music, rangoli workshops, a lantern parade and, new in 2026, the Diwali Bazaar. Our [Greenwich guide](/articles/greenwich-area-guide/) has the rest of the day.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-november-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

@@ -135,13 +135,13 @@ British Summer Time ends at 2am on the last Sunday of October. Clocks go back an
 
 ### Diwali on the Square — Trafalgar Square, the same Sunday
 
-The Mayor of London's Diwali celebration took place on 25 October: an opening dance sequence with 200 dancers, a main stage of music and dance from London's Hindu, Sikh and Jain communities, sari and turban tying, yoga and dance workshops, and vegetarian and vegan food stalls. **It is not held on Diwali itself**, which moves with the lunar calendar and falls in November in 2026 (see our [November guide](/articles/things-to-do-in-london-in-november/)).
+The Mayor of London's Diwali celebration was due on 25 October and was cancelled the day before by the Diwali in London committee. **It is not held on Diwali itself**, which moves with the lunar calendar and falls in November in 2026 (see our [November guide](/articles/things-to-do-in-london-in-november/)).
 
 ### MCM Comic Con London — ExCeL, 23 to 25 October
 
 *Full guide: [MCM Comic Con London](/articles/mcm-comic-con-london/)*
 
-A three-day comics, gaming, anime and pop culture convention, which closed on the same Sunday as Diwali and the clock change. General entry was **£29 on Friday or Sunday and £38 on Saturday**; a child ticket was £7, and under-5s went free. The **Weekend ticket and both VIP tiers sold out**. The next MCM London is **28 to 30 May 2027**, with tickets on sale from 26 October.
+A three-day comics, gaming, anime and pop culture convention, which closed on the Sunday the clocks went back. General entry was **£29 on Friday or Sunday and £38 on Saturday**; a child ticket was £7, and under-5s went free. The **Weekend ticket and both VIP tiers sold out**. The next MCM London is **28 to 30 May 2027**, with tickets on sale from 26 October.
 
 ### School half term — Monday 26 to Friday 30 October
 

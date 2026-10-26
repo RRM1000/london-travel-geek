@@ -1,6 +1,6 @@
 {
  "generated": "2026-10-26",
- "count": 129,
+ "count": 128,
  "events": [
   {
    "slug": "national-portrait-es-devlin",
@@ -3733,44 +3733,6 @@
    ],
    "lists": [
     "events"
-   ],
-   "annual": true,
-   "notYetOpen": false
-  },
-  {
-   "slug": "diwali-trafalgar-square",
-   "name": "Diwali on the Square",
-   "type": "festival",
-   "style": "Free Diwali celebration in Trafalgar Square",
-   "venue": "Trafalgar Square",
-   "recurring": "annual",
-   "typicalWhen": "A Sunday in October or November",
-   "area": "Westminster",
-   "borough": "Westminster",
-   "guide": "westminster-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Trafalgar Square, WC2N",
-   "postcode": "WC2N 5DS",
-   "lat": 51.50728,
-   "lng": -0.12867,
-   "agePolicy": "all-ages",
-   "duration": "An afternoon",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "stepFree": "yes",
-   "whyGo": "Free dance, music and food in Trafalgar Square for one of the largest Diwali celebrations outside India, run by the Mayor's office.",
-   "opNote": "Free and unticketed. The date follows the lunar calendar and the nearest convenient Sunday, so it shifts between October and November.",
-   "goodFor": [
-    "families",
-    "groups",
-    "solo"
-   ],
-   "lists": [
-    "events",
-    "free"
    ],
    "annual": true,
    "notYetOpen": false

@@ -120,9 +120,9 @@ For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Ha
 
 The lights are free to walk past, but the streets that carry the best of them — Oxford Street, Regent Street, Knightsbridge — are also the ones with the worst December pavements. A bus solves that, and there are two quite different ways to do it.
 
-### The cheap way: a normal red bus
+### The cheap way: on foot
 
-**Route 390** runs Oxford Street end to end and costs **£1.75**. **Route 139** does Oxford Circus to Trafalgar Square. Sit at the front of the top deck after dark and you have most of the same view for the price of a bus fare, with a Hopper transfer inside the hour if you want to chain two routes together. This is the answer for most people, and nobody sells it because nobody makes anything from it.
+**Oxford Street between Orchard Street and Great Portland Street has been closed to all traffic, buses included, since 26 October 2026**, so its lights are now a free walk of just under a kilometre, from Selfridges to Oxford Circus. Carry on down Regent Street and you have the two biggest displays for nothing. This is the answer for most people, and nobody sells it because nobody makes anything from it.
 
 <div data-stay-strip></div>
 
