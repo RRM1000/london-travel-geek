@@ -3,7 +3,7 @@ title: "Westminster Area Guide: Big Ben, the Abbey and Whitehall"
 seoTitle: "Westminster Guide: Big Ben, Westminster Abbey & Timings"
 description: "A complete Westminster guide: the best view of Big Ben, what to book ahead, Abbey opening days, the Churchill War Rooms and how to avoid the worst crowds."
 publishedAt: 2026-08-04
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
 sites:
   - london
 canonicalSite: london
@@ -176,7 +176,7 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 
 **Tate Britain is free and open daily 10am to 6pm.** It holds the national collection of British art and **the largest collection of Turner anywhere**, in the purpose-built Clore Gallery — if Turner is why you came to London's galleries, this is the building rather than the National.
 
-**The Tate Boat runs from the pier outside to Tate Modern every 40 minutes**, taking about eighteen minutes, and it accepts contactless. It is a river bus rather than a tour and it is the best way to travel between the two.
+**The Tate Boat runs from the pier outside to Tate Modern every 20 to 30 minutes during gallery hours**, taking about eighteen minutes, and it accepts contactless. It is a river bus rather than a tour and it is the best way to travel between the two.
 
 **Millbank Tower and the Victoria Tower Gardens** are on the way, the latter holding the Burghers of Calais and the Buxton Memorial.
 
