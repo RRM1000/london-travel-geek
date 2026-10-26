@@ -1,7 +1,7 @@
 ---
 title: "Thorpe Park from London: Tickets, the Train and Height Limits"
 seoTitle: "Thorpe Park: Tickets, Getting There and Height Limits"
-description: "Thorpe Park tickets are from £32 online and £68 on the day, and anyone under 1.2m goes free. The train from Waterloo to Staines and the 950 bus, every ride's height limit, Fastrack prices, and the dates the park is shut."
+description: "Thorpe Park tickets are from £32 online and £68 on the day, and anyone under 1.2m goes free. The train from Waterloo to Staines and the 950 bus, every ride's height limit, Fastrack prices, and when the park is shut."
 publishedAt: 2026-10-03
 updatedAt: 2026-10-26
 reviewBy: 2026-11-02
@@ -24,18 +24,18 @@ faq:
   - q: "What is the height restriction at Thorpe Park?"
     a: "Most of the big coasters need 1.4m: Stealth, The Swarm, Colossus, Nemesis Inferno, SAW and The Walking Dead. Hyperia, Rush, Detonator and the Ghost Train need 1.3m, and Tidal Wave and Quantum 1.2m. Children from 0.9m can ride Flying Fish, Depth Charge, Mr Monkey's Banana Ride and High Striker."
   - q: "When does Thorpe Park close for the winter?"
-    a: "The 2026 season ends on Sunday 1 November with the last night of Fright Nights. The park stays shut over the winter; the 2026 season opened on 27 March."
+    a: "The 2026 season ends on Sunday 1 November with the last night of Fright Nights. The park stays shut over the winter."
   - q: "Can you take food into Thorpe Park?"
     a: "Yes, as long as it is sealed. Opened food and drink has to be finished before the security check, and alcohol is confiscated. There are water refill points at Tidal Wave, Rush, Swarm Island and opposite Detonator."
   - q: "Is Fastrack worth it at Thorpe Park?"
     a: "On a weekend or a Fright Nights date, for the coasters. Silver Fastrack, from £35, gives one skip on each of Stealth, The Swarm, Colossus, Nemesis Inferno and SAW. Only Platinum, from £135, includes Hyperia; otherwise a single One Shot Fastrack is sold in the app from £6."
 ---
 
-**Thorpe Park tickets are from £32 booked online and £68 at the gate, and anyone under 1.2m gets in free.** There is no child price: everyone 1.2m and over pays the same, which makes it cheap for a family with small children and dear for one with tall ten-year-olds.
+**Thorpe Park tickets are from £32 booked online and £68 at the gate, and anyone under 1.2m gets in free.** There is no child price: everyone 1.2m and over pays the same.
 
-It is a thrill park on a set of lakes outside Chertsey in Surrey, about 20 miles from central London, built around six big coasters. The family rides are a corner of it, not the point.
+It is a thrill park outside Chertsey in Surrey, about 20 miles from central London, built around six big coasters. The family rides are a small part of it.
 
-> 💡 **The Short Version:** **Teenagers and adults** get the most from it; most of the big rides need **1.4m**. **Book online**: from **£32**, against **£68** on the day, and **under-1.2m free**. **Waterloo to Staines, 34–38 minutes, £7.40 off-peak on contactless (not Oyster)**, then the **950 bus, cash or contactless only**. Driving, park for **£13**. **The 2026 season ends on Sunday 1 November**, and in early October the park is shut on most weekdays. **Fright Nights** runs to 1 November 2026, from £39. For a group, the **Days Out Guide takes a third off** with a National Rail ticket. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t111550?partner_id=WWP7I0R&amp;cmp=thorpe-park-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> costs the same from-price but can be **cancelled up to 24 hours before**, which a ticket bought direct cannot.
+> 💡 **The Short Version:** **Teenagers and adults** get the most from it; most of the big rides need **1.4m**. **Book online**: from **£32**, against **£68** on the day, and **under-1.2m free**. **Waterloo to Staines, 34–38 minutes, £7.40 off-peak on contactless (not Oyster)**, then the **950 bus, cash or contactless only**. Driving, park for **£13**. **The 2026 season ends on Sunday 1 November.** **Fright Nights** runs to 1 November 2026, from £39. For a group, the **Days Out Guide takes a third off** with a National Rail ticket. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t111550?partner_id=WWP7I0R&amp;cmp=thorpe-park-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> costs the same from-price but can be **cancelled up to 24 hours before**, which a ticket bought direct cannot.
 
 ## What tickets cost
 
@@ -47,11 +47,11 @@ It is a thrill park on a set of lakes outside Chertsey in Surrey, about 20 miles
 | **Under 1.2m** | **Free**, booked with a paid ticket | Free |
 | Thorpe Park Annual Pass | £64 a year | — |
 
-**The price moves with the date.** £32 is the floor on quiet days; school holidays, weekends and Fright Nights cost more. Thorpe Park's own [price table](https://www.thorpepark.com/price-table/) puts the on-the-day price at £68 against from £32 in advance.
+**The price moves with the date.** £32 is the floor on quiet days; school holidays, weekends and Fright Nights cost more. Thorpe Park's [price table](https://www.thorpepark.com/price-table/) has the current prices.
 
 **The under-1.2m ticket has rules.** Book it during your online booking, up to four per booking and only alongside at least one paid ticket. Every child on one has to be at the Island Ticket Centre on the day to be measured, in flat shoes, before a barcode is issued. Anyone who measures 1.2m pays.
 
-**Nobody gets in without a ticket**, and there is no spectator rate: a parent who will not ride pays the same as one who will. **Under-12s must be with someone aged 18 or over.**
+There is no spectator rate: a parent who will not ride pays the same as one who will. **Under-12s must be with someone aged 18 or over.**
 
 **Tickets bought direct are non-refundable.** You can move the date in the booking portal for a revalidation fee, to another date in the same year.
 
@@ -59,11 +59,11 @@ It is a thrill park on a set of lakes outside Chertsey in Surrey, about 20 miles
 
 - **Book online, early, for a weekday in term time.** That is where the £32 days are.
 - **Travelling as a group by train?** The [Days Out Guide](https://www.daysoutguide.co.uk/thorpe-park) offer takes **a third off the online advance price for up to six people** on one National Rail ticket, from £23 a head. Contactless and Oyster do not count, so buy a rail ticket to Staines instead, and book by 23:00 the night before. It does not cover the Fright Nights scare mazes. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
-- **Going twice?** The **Thorpe Park Annual Pass is £64**, which is two £32 days. A **Merlin Essential Pass, £139**, adds [Chessington](/articles/chessington-world-of-adventures-day-trip/), [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/), the London Eye and more, but is barred on 25 busy days, including 17, 24, 25 and 31 October 2026; the £239 Gold Pass adds free parking.
+- **Going twice?** The **Thorpe Park Annual Pass is £64**, which is two £32 days. A **Merlin Essential Pass, £139**, adds [Chessington](/articles/chessington-world-of-adventures-day-trip/), [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/), the London Eye and more, but has up to 40 exclusion dates; the £239 Gold Pass excludes only Alton Towers Fireworks and adds free parking.
 
 ## Booking through GetYourGuide
 
-GetYourGuide sells Thorpe Park's own <a href="https://www.getyourguide.com/activity/-t111550?partner_id=WWP7I0R&amp;cmp=thorpe-park-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">day ticket</a>, issued by the park, from the same £32. **What it buys you is the cancellation**: free up to 24 hours before, against no refund at all on a direct booking. On a date picked weeks ahead in a British spring, that is worth having. Children under 1.2m still go free and collect their ticket on arrival.
+GetYourGuide sells Thorpe Park's own <a href="https://www.getyourguide.com/activity/-t111550?partner_id=WWP7I0R&amp;cmp=thorpe-park-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">day ticket</a>, issued by the park, from the same £32. **What it buys you is the cancellation**: free up to 24 hours before, against no refund at all on a direct booking. Children under 1.2m still go free and collect their ticket on arrival.
 
 There is no coach or transfer package from London. The train and the 950 bus are the only public route.
 
@@ -100,13 +100,11 @@ The postcode is **KT16 8PN**, but some sat navs send you to Norlands Lane. Look 
 
 **The park opens at 10:00.** Rides usually close between 17:00 and 19:00 depending on the season, and **only the ride queues close at the advertised time**: join your favourite one minute before and you still ride.
 
-**The 2026 season ends on Sunday 1 November**, the last night of Fright Nights, and the park is closed through the winter. The 2026 season opened on 27 March. Check the [opening calendar](https://www.thorpepark.com/plan-your-visit/before-you-visit/opening-times/) before booking a train.
-
-> ⚠️ **Thorpe Park is shut on most weekdays in early October.** In 2026 it is closed Monday 5 to Thursday 8 October and Monday 12 to Wednesday 14 October, then open every day from 15 October to 1 November.
+**The 2026 season ends on Sunday 1 November**, the last night of Fright Nights, and the park is closed through the winter. Check the [opening calendar](https://www.thorpepark.com/plan-your-visit/before-you-visit/opening-times/) before booking a train.
 
 ### Fright Nights 2026
 
-**2–4 and 9–11 October, then every day from 15 October to 1 November 2026, 10:00 to 21:00.** Day tickets are from £39 online (£66 at the gate) and include the scare zones and shows. The **Fearsome Four** package, from £71, adds four scare mazes: DeadBeat, Stitches, Trailers and Survival Games. The new maze, **Tenement**, is not in it and needs its own ticket. The mazes are for 13 and over. Saturday 31 October is the date to book first. Our [Halloween in London](/articles/halloween-london/) guide sets it against the other scare attractions.
+**Every day until Sunday 1 November 2026, 10:00 to 21:00.** Day tickets are from £39 online (£66 at the gate) and include the scare zones and shows. The **Fearsome Four** package, from £71, adds four scare mazes: DeadBeat, Stitches, Trailers and Survival Games. The new maze, **Tenement**, is not in it and needs its own ticket. The mazes are for 13 and over. Saturday 31 October is the date to book first. Our [Halloween in London](/articles/halloween-london/) guide sets it against the other scare attractions.
 
 There is no Christmas event: the park is closed from 2 November 2026.
 
@@ -151,7 +149,7 @@ The heights come from Thorpe Park's [ride restrictions guide](https://www.thorpe
 
 ### What suits which age
 
-- **Under 1.2m (free):** Flying Fish, Depth Charge, Mr Monkey's Banana Ride, High Striker, the Amity Beach pool and The Playground. A handful of rides, so it works for a younger sibling tagging along, not as the day's main event.
+- **Under 1.2m (free):** Flying Fish, Depth Charge, Mr Monkey's Banana Ride, High Striker, the Amity Beach pool and The Playground. A handful of rides, so it suits a younger sibling tagging along, not a day out.
 - **1.2m to 1.3m:** add Tidal Wave, Quantum, Storm Surge, Zodiac, the dodgems and the teacups.
 - **1.3m:** Hyperia, Rush and Detonator open up. Hyperia is the one exception to the 1.4m rule on the big coasters.
 - **1.4m:** everything, apart from the three attractions that also require riders to be 13 or over.
@@ -162,7 +160,7 @@ The heights come from Thorpe Park's [ride restrictions guide](https://www.thorpe
 
 **The order that works:** go to the back of the park first, because most people start at the front, and do SAW, Nemesis Inferno and Colossus before midday. **Hyperia** sits in the back left corner beside Samurai. Eat before 12:30 or after 14:00, and use the Thorpe Park app for live queue times.
 
-| Fastrack, October 2026 prices | From | What it covers |
+| Fastrack | From | What it covers |
 | --- | --- | --- |
 | Bronze | £9 | Three skips on a choice of nine rides, none of them the six big coasters |
 | **Silver** | **£35** | **One skip each on Colossus, Nemesis Inferno, Stealth, SAW and The Swarm** |
@@ -184,13 +182,13 @@ Every Fastrack is for one person, can be scanned once every three minutes, sells
 
 ## Staying over
 
-**[Thorpe Shark Cabins](https://www.thorpepark.com/short-breaks/accommodation/thorpe-shark-cabins/)** is the park's own hotel: cabins beside the lake, each with a double bed and a bunk bed and an en-suite wet room. It is sold as a short break with **two days' park entry, buffet breakfast, parking and an hour of Fastrack on the second day**, from **£77 a person** for four sharing a standard cabin on selected Monday to Thursday dates in 2026. Themed cabins for Hyperia, The Swarm, Stealth, Colossus and Nemesis Inferno add a Coasters Fastrack on day two, and for 2026 there is a Fright Nights cabin too. Packages with nearby hotels are sold on the same page.
+**[Thorpe Shark Cabins](https://www.thorpepark.com/short-breaks/accommodation/thorpe-shark-cabins/)** is the park's own hotel: cabins beside the lake, each with a double bed and a bunk bed and an en-suite wet room. It is sold as a short break with **two days' park entry, buffet breakfast, parking and an hour of Fastrack on the second day**, from **£77 a person** on the 2027 short-break dates. Themed cabins for Hyperia, The Swarm, Stealth, Colossus and Nemesis Inferno add a Coasters Fastrack on day two. Packages with nearby hotels are sold on the same page.
 
 ## What people get wrong
 
 - **Buying a child ticket.** There is no child price; anyone under 1.2m is free and anyone over pays in full.
 - **Tapping in with Oyster.** It does not work to Staines. Use contactless, and have a card or cash for the 950.
-- **Turning up on a weekday in early October**, when the park is shut on most of them, or after 1 November, when it is shut for the winter.
+- **Turning up after 1 November**, when the park is shut for the winter.
 - **Paying for Gold Fastrack to skip Hyperia.** Only Platinum includes it.
 - **Bringing a six-year-old who is just under 1.4m** and expecting them to ride the coasters with an older sibling.
 
