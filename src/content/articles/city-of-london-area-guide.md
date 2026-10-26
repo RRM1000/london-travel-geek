@@ -3,7 +3,8 @@ title: "City of London Area Guide: St Paul's, the Tower and the Square Mile"
 seoTitle: "City of London Guide: St Paul's, Tower & Free Views"
 description: "Half a million people work in the Square Mile and about eight thousand live there, which makes it a crush on a weekday and empty on a Sunday morning. St Paul's, the Tower, the Roman remains and the skyline viewpoints that cost nothing."
 publishedAt: 2026-08-09
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2026-11-29
 sites:
   - london
 canonicalSite: london
@@ -59,41 +60,41 @@ area:
       note: "East by DLR from Bank or Tower Gateway — walking is not practical."
 faq:
   - q: "Is the City of London the same as London?"
-    a: "No. The City of London is a separate square-mile authority at the historic centre, with its own police force, its own Lord Mayor and around 8,000 residents. It is the original Roman and medieval city. Greater London — the 32 boroughs around it — grew up later and is what people usually mean by London."
+    a: "No. The City of London is a separate square-mile authority at the historic centre, with its own police force, its own Lord Mayor and around 8,000 residents. Greater London, the 32 boroughs around it, is what people usually mean by London."
   - q: "Why is the City empty at weekends?"
-    a: "Around half a million people work here and only about 8,000 live here. On Saturdays and Sundays most offices, sandwich shops and many pubs close. It is eerie and excellent for photography, but plan food in advance — you may walk ten minutes to find somewhere open."
+    a: "Around half a million people work here and only about 8,000 live here. On Saturdays and Sundays most offices, sandwich shops and many pubs close. Plan food in advance: you may walk ten minutes to find somewhere open."
   - q: "What are the free views of London from the City?"
-    a: "Two, both free but both requiring booking. **Horizon 22** at 22 Bishopsgate is the highest public viewpoint in London, on level 58. The **Sky Garden** at 20 Fenchurch Street has an indoor planted terrace. Both release slots online some weeks ahead and both go quickly."
+    a: "Three, all free and all booked online. **Horizon 22** at 22 Bishopsgate is on level 58, about ten metres above The Shard's gallery. The **Sky Garden** at 20 Fenchurch Street is an indoor planted terrace, with tickets released three weeks ahead. **The Lookout** at 8 Bishopsgate runs to 9pm on Mondays and Fridays."
   - q: "Do I need to book the Tower of London?"
-    a: "Yes, book online — it is cheaper than the gate price and the queue is long, particularly in summer. Allow three hours. Go at opening and head straight for the Crown Jewels before the coach parties arrive, then work back through the White Tower."
+    a: "Yes, book online in advance; the queue is long, particularly in summer. Allow three hours. Go at opening and head straight for the Crown Jewels, then work back through the White Tower."
   - q: "Can you climb the dome at St Paul's?"
     a: "Yes, 528 steps to the Golden Gallery outside the dome, via the Whispering Gallery and the Stone Gallery. It is included in the admission ticket. The last section is steep and narrow. Entry to the cathedral is ticketed for sightseeing, but attending a service — including free daily Evensong — costs nothing."
 heroImage: "../../assets/articles/city-of-london-area-guide/royal-exchange-bus.jpg"
 heroImageAlt: "A red bus passing the Royal Exchange at Bank, with the City's towers rising behind it"
 ---
 
-The City of London is the original city: a square mile on the Roman street plan, still a separate authority with its own Lord Mayor and police force, and now the densest cluster of tall buildings in Britain.
+The City of London is the original city: a square mile on the Roman street plan, still a separate authority with its own Lord Mayor and police force.
 
-It is also the strangest place in London to visit, because roughly half a million people work here and only about eight thousand live here. On a weekday it is a crush. On a Sunday morning you can stand in the middle of a medieval street and hear nothing.
+Roughly half a million people work here and only about eight thousand live here, so it is a crush on a weekday and almost silent on a Sunday morning.
 
 The City of London has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=city-of-london).
 
 ## Why visit — and who should skip it
 
-**Come here if** you want history stacked on history — a Wren cathedral, a Norman keep, fragments of Roman wall, and glass towers built over all of it. It also has the two best free viewpoints in London.
+**Come here if** you want a Wren cathedral, a Norman keep, fragments of Roman wall and glass towers built over all of it, plus three free viewpoints.
 
-**Skip it if** you want to eat or drink casually at the weekend. The City empties on Saturdays and Sundays, and much of it closes with the offices. Come on a weekday for atmosphere, or a weekend specifically for the emptiness — but bring a plan for lunch.
+**Skip it if** you want to eat or drink casually at the weekend: much of the City closes with the offices. Come on a weekday for open pubs, or at the weekend for empty streets, and bring a plan for lunch.
 
 ## Top sights and activities
 
 1. **St Paul's Cathedral** — Wren's 1710 dome, and the 528-step climb to the Golden Gallery via the Whispering Gallery. Sightseeing is ticketed; **Evensong is free** and lets you sit in the quire.
 2. **Tower of London** — A Norman fortress begun in 1066, the Crown Jewels, the Yeoman Warders and the ravens. Book ahead and arrive at opening.
-3. **Tower Bridge** — The 1894 bascule bridge beside the Tower, and the one most people mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms. Lift times are published in advance, and watching it open costs nothing.
-4. **Horizon 22** — Level 58 of 22 Bishopsgate and the highest public viewpoint in London, about ten metres above The Shard's gallery. Book a slot online.
+3. **Tower Bridge** — The 1894 bascule bridge beside the Tower, and the one many visitors mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms.
+4. **Horizon 22** — Level 58 of 22 Bishopsgate, about ten metres above The Shard's gallery. Free; book a slot online.
 5. **[Sky Garden](/articles/sky-garden-guide/)** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
 6. **Leadenhall Market** — A painted Victorian arcade of 1881, where Hagrid walks Harry to the Leaky Cauldron in the first Harry Potter film. Best on a weekday when the traders are open.
 7. **The Roman remains** — The London Wall at Tower Hill and Noble Street, the Temple of Mithras rebuilt in situ beneath Bloomberg's building (free, booked), and the amphitheatre under the Guildhall Art Gallery.
-8. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook, St Mary-le-Bow and St Bartholomew the Great are the best, and all are free.
+8. **The Wren churches** — Around 50 were built after the Great Fire; roughly half survive. St Stephen Walbrook and St Mary-le-Bow are free to enter.
 
 ![Guildhall Yard at sunset, with the medieval Guildhall on one side and the Guildhall Art Gallery, entrance to the Roman amphitheatre, on the other](../../assets/articles/city-of-london-area-guide/guildhall-yard.jpg)
 
@@ -115,13 +116,13 @@ The City of London has its own share of the commemorative plaques marking where 
 
 ### St Paul's and Paternoster Square
 
-The cathedral, the square behind it, and the shopping centre opposite that most visitors walk past without realising what is on its roof.
+The cathedral, the square behind it, and One New Change, the shopping centre opposite, which has a free roof terrace.
 
 **St Paul's is £27 for an adult**, which includes the floor, the crypt and all three dome galleries. The climb to the Golden Gallery is **528 steps with no lift at any point** — 257 to the Whispering Gallery, 376 to the Stone, 528 to the top — and the cathedral itself advises against it for anyone with mobility difficulties. **Monday to Saturday only** for sightseeing; services are free to attend.
 
-**The roof terrace at One New Change is free**, has no ticket and no queue, and gives you the dome at close range from a bar-height parapet. It is the best free thing in this part of the City, and it is directly opposite. Looking *at* St Paul's costs nothing; climbing it costs £27.
+**The roof terrace at One New Change is free**, needs no ticket and gives you the dome at close range from directly opposite.
 
-**Paternoster Square** behind the cathedral is a modern pedestrian square with the Temple Bar gateway on one corner, Wren's 1670s arch moved here from the Strand in 2004. **Sweetings at 39 Queen Victoria Street** is the Victorian fish restaurant nearby — lunch only, weekdays only, no bookings.
+**Paternoster Square** behind the cathedral is a modern pedestrian square with the Temple Bar gateway on one corner, Wren's 1670s arch, returned to London in 2004. **Sweetings at 39 Queen Victoria Street** is the Victorian fish restaurant nearby — lunch only, weekdays only, no bookings.
 
 ### Bank and the Royal Exchange
 
@@ -129,27 +130,25 @@ The cathedral, the square behind it, and the shopping centre opposite that most 
 
 *The Royal Exchange at Bank.*
 
-Seven roads meeting at once, with the **Bank of England**, the **Royal Exchange** and **Mansion House** on three corners of the junction. It is the most concentrated piece of imperial architecture in Britain and it is also a working traffic interchange, so give yourself a moment to look up.
+Seven roads meet at this junction, with the **Bank of England**, the **Royal Exchange** and **Mansion House** on three corners.
 
-**The Royal Exchange is open and free to walk into** — Victorian courtyard, mosaic floor, now luxury shops around a central bar. Nobody will stop you.
+**The Royal Exchange is open and free to walk into** — Victorian courtyard, mosaic floor, now luxury shops around a central bar.
 
-**The Bank of England Museum is free**, entered from Bartholomew Lane round the side, and it lets you lift a real gold bar. **Weekdays only, closed at weekends and bank holidays**, which is the trap here — this whole district shuts on a Saturday.
+**The Bank of England Museum is free**, entered from Bartholomew Lane round the side, and it lets you lift a real gold bar. **Open weekdays only, 10am to 5pm** (last entry 4.30pm), and closed at weekends and bank holidays.
 
 **Royal Exchange Buildings**, the alley behind, is where the snowy kiss at the end of *Bridget Jones's Diary* was filmed. **Bloomberg Arcade** two minutes south has the modern eating, including **Brigadiers** for Indian barbecue, and the **London Mithraeum** beneath it — a reconstructed Roman temple, free, but pre-booked.
 
-Bank station is directly underneath and has been substantially rebuilt, so exits are not where older maps put them.
-
 ### Leadenhall and the tower cluster
 
-**Leadenhall Market** sitting directly beneath 22 Bishopsgate, with the Gherkin, the Cheesegrater and the Scalpel within two streets. The most dramatic street-level contrast in London, and the reason to walk this bit rather than ride through it.
+**Leadenhall Market** stands among the Gherkin, the Cheesegrater and the Scalpel, all within two streets.
 
-**The market is free, roofed and open to walk through**, which makes it the best wet-weather ten minutes in the City. In the first Harry Potter film it played **the streets leading to the Leaky Cauldron**, and the blue door used as the pub's entrance is now Two Eyes Coffee House on Bull's Head Passage. It is the first stop on our [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/).
+**The market is free, roofed and open to walk through**, so it doubles as shelter in the rain. In the first Harry Potter film it played **the streets leading to the Leaky Cauldron**, and the blue door used as the pub's entrance is now Two Eyes Coffee House on Bull's Head Passage. It is the first stop on our [Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/).
 
-**It keeps City hours.** The shops and bars trade Monday to Friday and it is close to dead on a Sunday, so come on a weekday — around six in the evening is when it is fullest and best.
+**It keeps City hours.** The shops and bars trade Monday to Friday and it is close to dead on a Sunday. Come on a weekday; it fills around six in the evening.
 
-**Three viewpoints are within five minutes, and two are free.** **Horizon 22** on level 58 is the highest public view in London and costs nothing, though it needs a timed ticket and is fully enclosed. **The Lookout at 8 Bishopsgate** is also free and runs to 9pm on Mondays and Fridays. **[Sky Garden](/articles/sky-garden-guide/)** is free with a ticket released three weeks ahead, with paid walk-in slots from £11.50 if you have missed them.
+**Three free viewpoints are within five minutes.** **Horizon 22** on level 58 needs a timed ticket and is fully enclosed. **The Lookout at 8 Bishopsgate** is also free and runs to 9pm on Mondays and Fridays. **[Sky Garden](/articles/sky-garden-guide/)** is free with a ticket released three weeks ahead. If you miss the release, the door sells an early-morning ticket with a hot drink for £11.50.
 
-For eating up high, **Duck & Waffle at 110 Bishopsgate is open 24 hours** — the only London viewpoint you can use at four in the morning.
+For eating up high, **Duck & Waffle at 110 Bishopsgate is open 24 hours**.
 
 ![A classical stone portico and carved cornice in the foreground with the glass towers of 22 Bishopsgate and the Scalpel rising directly behind](../../assets/articles/city-of-london-area-guide/old-and-new-city.jpg)
 
@@ -157,25 +156,25 @@ For eating up high, **Duck & Waffle at 110 Bishopsgate is open 24 hours** — th
 
 ### Tower Hill and the riverside
 
-The **Tower of London**, the best surviving stretch of the **Roman city wall** — right beside Tower Hill station, free and unfenced — and the approach to Tower Bridge.
+The **Tower of London**, a stretch of the **Roman city wall** beside Tower Hill station (free and unfenced), and the approach to Tower Bridge.
 
-**Almost all of the view is free.** The Tower is expensive and busiest between 11am and 3pm, but the moat, the wharf and the riverside pavement cost nothing, and the **upstream pavement on Tower Bridge** is the officially designated viewpoint: the Tower, St Paul's, The Monument and HMS Belfast in one sweep.
+**Most of the view is free.** The moat, the wharf and the riverside pavement cost nothing, and the **upstream pavement on Tower Bridge** is the officially designated viewpoint: the Tower, St Paul's, The Monument and HMS Belfast in one sweep.
 
-**The Tower Bridge Exhibition is £18**, one adult rate with no seasonal tier, open daily 9.30am to 6pm with last entry at 5pm. It buys you the glass floors 43.5 metres up and the Victorian engine rooms, and there is **lift access to both** — it is not a stairs-only climb. Residents of the City, Southwark or Tower Hamlets pay **£1** with proof.
+**The Tower Bridge Exhibition is £18** for an adult, open daily 9.30am to 6pm with last entry at 5pm. It buys you the glass floors 43.5 metres up and the Victorian engine rooms, and there is **lift access to both**. Residents of the City, Southwark or Tower Hamlets pay **£1** with proof.
 
 **Bridge lift times are published** at towerbridge.org.uk/bridge-lifts and updated daily, so you can watch it open for free.
 
-This is the one part of the City that is busy at weekends, and the only part where the crowd is tourists, not workers.
+This is the one part of the City that is busy at weekends.
 
 ### Smithfield and Barbican
 
-The north-west edge, and the most atmospheric corner of the City. **Smithfield** has been a livestock and meat market for over eight hundred years, and the Victorian market buildings are being converted into the new **London Museum** — a major change to this district, not yet open.
+The north-west edge of the City. **Smithfield** has been a livestock and meat market for over eight hundred years, and its Victorian market buildings become the new **London Museum**, free to enter, on 28 November 2026.
 
-**Come for St Bartholomew the Great.** Founded in 1123, it is the oldest surviving parish church in London, and its Norman interior has stood in for St Paul's in *Sherlock Holmes* and appeared in *Four Weddings* and *Shakespeare in Love*. There is a small admission charge for sightseers and none for worship, and it closes to visitors during services.
+**Come for St Bartholomew the Great.** Founded in 1123, it has a Norman interior that has stood in for St Paul's in *Sherlock Holmes* and appeared in *Four Weddings* and *Shakespeare in Love*. There is a small admission charge for sightseers and none for worship, and it closes to visitors during services.
 
-**The Barbican** is next door: a brutalist estate of concrete towers, raised walkways and a lake, with an arts centre at its heart. **The Curve gallery is free**, the main Art Gallery is ticketed, and finding the entrance is difficult — **follow the yellow line painted on the pavement** from Barbican station rather than trusting a map. For the programme, the booking fee and where to eat before a show, see [what's on at the Barbican](/articles/barbican-centre-guide/).
+**The Barbican** is next door: a brutalist estate of concrete towers, raised walkways and a lake, with an arts centre at its heart. **The Curve gallery is free** and the main Art Gallery is ticketed. The entrance is hard to find: **follow the yellow line painted on the pavement** from Barbican station. For the programme, the booking fee and where to eat before a show, see [what's on at the Barbican](/articles/barbican-centre-guide/).
 
-**Ye Olde Cheshire Cheese** on Fleet Street, rebuilt in 1667 after the Great Fire, is ten minutes west and worth the walk for the warren of dark rooms alone.
+**Ye Olde Cheshire Cheese** on Fleet Street, rebuilt in 1667 after the Great Fire, is ten minutes west, a warren of dark rooms.
 
 ![The painted maroon and green ironwork and glass roof of Leadenhall Market, with the Lamb Tavern under the arcade](../../assets/articles/city-of-london-area-guide/leadenhall-market.jpg)
 
@@ -191,9 +190,9 @@ The north-west edge, and the most atmospheric corner of the City. **Smithfield**
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **Leadenhall Market** | Pubs and cafes | ££ | Under the painted arcade; City hours, so best on a weekday |
-| **St. JOHN Smithfield** | British nose-to-tail | £££ | Bone marrow and eccles cakes; a genuine institution |
+| **St. JOHN Smithfield** | British nose-to-tail | £££ | Bone marrow and eccles cakes |
 | **Ye Olde Cheshire Cheese** | Historic pub | ££ | Rebuilt 1667, off Fleet Street, a warren of dark rooms |
-| **The Blackfriar** | Art nouveau pub | ££ | Extraordinary 1905 interior by Blackfriars station |
+| **The Blackfriar** | Art nouveau pub | ££ | 1905 interior by Blackfriars station |
 | **One New Change** | Food court | ££ | Reliable at weekends when everything else is shut |
 | **Borough Market** | Food market | £ | Ten minutes over London Bridge when the City closes |
 
@@ -217,7 +216,7 @@ Los Mochis cooks Mexican-Japanese food nine floors above Broadgate Circle, with 
 
 **Best time:** Weekday mornings for atmosphere and open pubs. Early Sunday morning for photography with empty streets.
 
-**Book ahead:** Tower of London, Horizon 22, Sky Garden and the Temple of Mithras all need booking, and the free ones go fastest.
+**Book ahead:** Tower of London, Horizon 22, Sky Garden, The Lookout and the Temple of Mithras all need booking.
 
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
@@ -227,7 +226,7 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 
 **[A Walk Around the City of London: Bank to Tower Bridge →](/articles/city-of-london-walk/)**
 
-Our full route for this area: **eleven numbered stops** over about 3km and two to three hours, with a map, a Google Maps walking link for your phone, and a day-by-day breakdown of what is actually open. It starts at the Bank junction rather than St Paul's, goes inside the Royal Exchange, and takes in **St Dunstan-in-the-East** — the church bombed in 1941 and left as a ruin with a garden planted inside it, which is the best free thing in the Square Mile.
+**Eleven numbered stops** over about 3km and two to three hours, with a map, a Google Maps walking link and a day-by-day breakdown of what is open. It starts at the Bank junction rather than St Paul's, goes inside the Royal Exchange, and takes in **St Dunstan-in-the-East**, the church bombed in 1941 and left as a ruin with a garden planted inside it.
 
 ### The short version, if you only have three hours
 
@@ -242,16 +241,14 @@ Our full route for this area: **eleven numbered stops** over about 3km and two t
 
 ## Common mistakes to avoid
 
-1. **Coming at the weekend without a food plan.** Much of the City shuts. One New Change and Borough Market are the reliable fallbacks.
-2. **Not booking the free viewpoints.** Horizon 22 and the Sky Garden cost nothing but both require a slot booked weeks ahead.
-3. **Arriving at the Tower mid-morning.** Go at opening and see the Crown Jewels first.
-4. **Paying to enter St Paul's just to see inside.** Evensong is free daily and you sit in the quire.
-5. **Getting lost at Bank station.** A dozen exits across a large junction. Check which one you want before you surface.
-6. **Trying to walk to Canary Wharf.** It is much further than it looks. Take the DLR from Bank.
+1. **Coming at the weekend without a food plan.** One New Change and Borough Market are the fallbacks.
+2. **Paying to enter St Paul's just to see inside.** Evensong is free daily and you sit in the quire.
+3. **Surfacing at the wrong Bank exit.** A dozen exits across a large junction; check which one you want first.
+4. **Walking to Canary Wharf.** It is much further than it looks. Take the DLR from Bank.
 
 ## Where to stay
 
-Excellent transport and good weekend rates, with the caveat that the area is dead at night.
+Transport links are good, and the area is quiet at night.
 
 - **Liverpool Street and Aldgate** — The main hotel cluster, walkable to Shoreditch for the evening.
 - **Barbican and Smithfield** — Quieter, near the arts centre, good for Farringdon and the Elizabeth line.
