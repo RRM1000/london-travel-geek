@@ -61,7 +61,7 @@ Two things first, because both catch people out.
 
 Every British high street chain has a flagship on Oxford Street, so it is the one place to see them all in a single walk. Its department stores are at the western end:
 
-* **Selfridges**: fashion, beauty, and a food hall. The Duke Street entrance is worth knowing.
+* **Selfridges**: fashion, beauty, and a food hall, with an entrance on Duke Street.
 * **John Lewis**: where Londoners buy things they intend to keep. It price-matches.
 * **Marks & Spencer**: the Marble Arch flagship.
 
