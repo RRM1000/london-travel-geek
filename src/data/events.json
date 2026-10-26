@@ -1,958 +1,7 @@
 {
- "generated": "2026-09-27",
- "count": 138,
+ "generated": "2026-10-26",
+ "count": 129,
  "events": [
-  {
-   "slug": "lasting-impressions-women-printmakers",
-   "name": "Lasting Impressions: Women Printmakers 1900-Now",
-   "type": "exhibition",
-   "style": "A century of printmaking by women",
-   "venue": "V&A South Kensington",
-   "endsOn": "2026-09-27",
-   "area": "South Kensington",
-   "borough": "Kensington and Chelsea",
-   "guide": "south-kensington-area-guide",
-   "zone": "1",
-   "district": "West",
-   "address": "Cromwell Road",
-   "postcode": "SW7 2RL",
-   "agePolicy": "all-ages",
-   "duration": "Under an hour",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Free, easy to miss inside a museum this size, and a rare thematic thread - women printmakers specifically - rather than a general survey.",
-   "opNote": "A display within the free museum; no ticket.",
-   "goodFor": [
-    "free",
-    "art"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "whistler-tate-britain",
-   "name": "James McNeill Whistler",
-   "type": "exhibition",
-   "style": "Full Whistler retrospective",
-   "venue": "Tate Britain",
-   "endsOn": "2026-09-27",
-   "area": "Millbank",
-   "borough": "Westminster",
-   "guide": "westminster-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Millbank",
-   "postcode": "SW1P 4RG",
-   "agePolicy": "all-ages",
-   "duration": "About 90 minutes",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Whistler gets a full retrospective far less often than his Impressionist contemporaries, and this one closes at the end of September.",
-   "opNote": "Free for Tate Members. Price not on the listing page - check when booking.",
-   "goodFor": [
-    "art"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "luminiscence-westminster-cathedral",
-   "name": "LUMINISCENCE",
-   "type": "concert",
-   "style": "360-degree projection concert in a cathedral",
-   "venue": "Westminster Cathedral",
-   "endsOn": "2026-09-27",
-   "area": "Westminster",
-   "borough": "Westminster",
-   "guide": "westminster-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "42 Francis Street",
-   "agePolicy": "all-ages",
-   "duration": "About an hour",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Projection mapped across the inside of Westminster Cathedral with live music - the unfinished blackened brick above the marble takes the light unusually well.",
-   "opNote": "In the cathedral itself, which is otherwise free to enter. Closes 27 September 2026.",
-   "goodFor": [
-    "date",
-    "solo",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "totally-thames",
-   "name": "Totally Thames",
-   "type": "festival",
-   "style": "A month of river-themed events across twenty boroughs",
-   "venue": "Along the Thames, Richmond to Barking",
-   "startsOn": "2026-09-01",
-   "endsOn": "2026-09-30",
-   "recurring": "annual",
-   "typicalWhen": "The whole of September",
-   "area": "South Bank",
-   "borough": "Multiple",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Riverside sites city-wide",
-   "agePolicy": "all-ages",
-   "duration": "Pick individual events",
-   "price": "Mostly free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "whyGo": "Over a hundred river events under one umbrella - foreshore walks, boat festivals, art installations - that absorbed the old Mayor's Thames Festival. A September visit can be built around it without realising it is one programme.",
-   "opNote": "Most events free and unticketed. Highlights in 2026 include Chiswick Tidefest on 6 September and the St Katharine Docks Classic Boat Festival on 12-13 September.",
-   "goodFor": [
-    "free",
-    "families"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": true,
-   "notYetOpen": false
-  },
-  {
-   "slug": "nigo-from-japan-with-love",
-   "name": "NIGO: From Japan with Love",
-   "type": "exhibition",
-   "style": "Retrospective of the streetwear designer",
-   "venue": "Design Museum",
-   "endsOn": "2026-10-04",
-   "area": "Kensington",
-   "borough": "Kensington and Chelsea",
-   "guide": "kensington-area-guide",
-   "zone": "1–2",
-   "district": "West",
-   "address": "224-238 Kensington High Street",
-   "postcode": "W8 6AG",
-   "agePolicy": "all-ages",
-   "duration": "About an hour",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "A rare institutional show for a streetwear figure rather than a traditional designer - BAPE, Human Made and two decades of Japanese street culture.",
-   "opNote": "Closes early October. Price not on the listing - check when booking.",
-   "goodFor": [
-    "fashion",
-    "design"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "constable-views-of-nature",
-   "name": "John Constable: Views of Nature",
-   "type": "exhibition",
-   "style": "Constable's works on paper",
-   "venue": "British Museum",
-   "startsOn": "2026-06-02",
-   "endsOn": "2026-10-04",
-   "area": "Bloomsbury",
-   "borough": "Camden",
-   "guide": "bloomsbury-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Great Russell Street",
-   "postcode": "WC1B 3DG",
-   "agePolicy": "all-ages",
-   "duration": "Under an hour",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Free, and focused on the drawings and watercolours rather than the oils everyone knows from the National Gallery.",
-   "opNote": "Walk in with general admission.",
-   "goodFor": [
-    "free",
-    "art"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "animecon-london",
-   "name": "AnimeCon London",
-   "type": "exhibition-convention",
-   "style": "Anime, manga, J-Pop, K-Pop and fashion over two days",
-   "venue": "Olympia London (The Grand Hall)",
-   "startsOn": "2026-10-03",
-   "endsOn": "2026-10-04",
-   "recurring": "annual",
-   "typicalWhen": "Early October, annually",
-   "area": "Olympia",
-   "borough": "Hammersmith and Fulham",
-   "zone": "2",
-   "district": "West",
-   "address": "Hammersmith Road",
-   "postcode": "W14 8UX",
-   "agePolicy": "all-ages",
-   "duration": "A few hours",
-   "price": "£25",
-   "priceBand": "20-50",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Billed by its organiser, the Oakham Group, as the UK's biggest anime and manga convention.",
-   "opNote": "In the Grand Hall.",
-   "goodFor": [
-    "families",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://animeconuk.com",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "npg-portrait-award-2026",
-   "name": "The National Portrait Gallery's Portrait Award 2026",
-   "type": "exhibition",
-   "style": "The annual contemporary portrait painting prize",
-   "venue": "National Portrait Gallery",
-   "startsOn": "2026-06-25",
-   "endsOn": "2026-10-07",
-   "area": "Charing Cross",
-   "borough": "Westminster",
-   "guide": "covent-garden-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "St Martin's Place",
-   "postcode": "WC2H 0HE",
-   "agePolicy": "all-ages",
-   "duration": "Under an hour",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Free, judged rather than curated, and the quickest way to see where contemporary portrait painting actually is this year. Usually quieter than the ticketed shows downstairs.",
-   "opNote": "On Floor 2, away from the Monroe queues.",
-   "goodFor": [
-    "free",
-    "art"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "new-scientist-live",
-   "name": "New Scientist Live",
-   "type": "exhibition-convention",
-   "style": "Four stages of talks and a show floor, livestreamed for ticket holders",
-   "venue": "ExCeL London",
-   "startsOn": "2026-10-10",
-   "endsOn": "2026-10-11",
-   "recurring": "annual",
-   "typicalWhen": "Second week of October, annually",
-   "area": "Royal Docks",
-   "borough": "Newham",
-   "zone": "3",
-   "district": "East",
-   "address": "One Western Gateway, Royal Victoria Dock",
-   "postcode": "E16 1XL",
-   "agePolicy": "all-ages",
-   "duration": "Half a day",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Four stages and 47-plus speakers on one show floor; the organiser's own site advertises up to 44% off its final-release tickets against paying on the door.",
-   "opNote": "10-11 October are the public days; 12 October is a Schools' Day, not open to the public.",
-   "goodFor": [
-    "families",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://live.newscientist.com/",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "knit-and-stitch",
-   "name": "Knit + Stitch",
-   "type": "exhibition-convention",
-   "style": "300-plus specialist textile craft suppliers under one roof",
-   "venue": "Alexandra Palace (The Great Hall)",
-   "startsOn": "2026-10-08",
-   "endsOn": "2026-10-11",
-   "recurring": "annual",
-   "typicalWhen": "Early to mid-October, annually",
-   "area": "Muswell Hill",
-   "borough": "Haringey",
-   "zone": "3",
-   "district": "North",
-   "address": "Alexandra Palace Way",
-   "postcode": "N22 7AY",
-   "agePolicy": "all-ages",
-   "duration": "A few hours",
-   "price": "£15.50",
-   "priceBand": "under-20",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "The venue's own billing calls it the UK's biggest textile craft exhibition, with over 300 specialist suppliers under one roof.",
-   "goodFor": [
-    "solo",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.alexandrapalace.com/whats-on/knit-stitch/",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "open-studios-alexandra-park",
-   "name": "Open Studios (Muswell Hill & Alexandra Park)",
-   "type": "exhibition-convention",
-   "style": "Seventy-plus local artists open their own studios for the weekend",
-   "venue": "Alexandra Palace (Creativity Pavilion) and artists' own studios",
-   "startsOn": "2026-10-10",
-   "endsOn": "2026-10-11",
-   "recurring": "annual",
-   "typicalWhen": "Second weekend of October, annually",
-   "area": "Muswell Hill",
-   "borough": "Haringey",
-   "zone": "3",
-   "district": "North",
-   "address": "Alexandra Palace Way",
-   "postcode": "N22 7AY",
-   "agePolicy": "family-friendly",
-   "duration": "An afternoon",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "both",
-   "whyGo": "Free, and the second year of Muswell Hill and Alexandra Park artists opening their own studios rather than showing in a single hall.",
-   "opNote": "The Creativity Pavilion at Alexandra Palace is the starting point; the rest of the trail runs across artists' own studios nearby.",
-   "goodFor": [
-    "free",
-    "families",
-    "solo"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "website": "https://www.alexandrapalace.com/whats-on/open-studios/",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "uk-black-business-week",
-   "name": "UK Black Business Week & Show",
-   "type": "exhibition-convention",
-   "style": "A week of Black-owned business networking, awards and a public show day",
-   "venue": "ExCeL London",
-   "startsOn": "2026-10-13",
-   "endsOn": "2026-10-17",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, annually",
-   "area": "Royal Docks",
-   "borough": "Newham",
-   "zone": "3",
-   "district": "East",
-   "address": "One Western Gateway, Royal Victoria Dock",
-   "postcode": "E16 1XL",
-   "agePolicy": "all-ages",
-   "duration": "A few hours",
-   "price": "Day Pass: Early Bird £45, Pre-Reg £50, Onsite £65",
-   "priceBand": "20-50",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "The public-ticketed day is Saturday 17 October; the rest of the week runs on delegate passes for the Awards, Forum and networking parties.",
-   "opNote": "Public Day Pass runs 9am-6pm on the Saturday only.",
-   "goodFor": [
-    "solo",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.ukblackbusinessweek.com/",
-   "bookingUrl": "https://www.blackbusinessexperience.com/uk-black-business-week/book-tickets",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "anish-kapoor-hayward",
-   "name": "Anish Kapoor",
-   "type": "exhibition",
-   "style": "Major survey anchoring the Southbank Centre's 75th year",
-   "venue": "Hayward Gallery",
-   "startsOn": "2026-06-16",
-   "endsOn": "2026-10-18",
-   "area": "South Bank",
-   "borough": "Lambeth",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Belvedere Road",
-   "postcode": "SE1 8XX",
-   "agePolicy": "all-ages",
-   "duration": "About two hours",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "The anchor show of the Southbank Centre's 75th anniversary, and Kapoor's large-scale work suits the Hayward's raw concrete unusually well.",
-   "opNote": "The smaller Jen Liu show runs alongside in the same building to the same closing date.",
-   "goodFor": [
-    "art",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "bfi-london-film-festival",
-   "name": "BFI London Film Festival",
-   "type": "festival",
-   "style": "The UK's biggest public film festival",
-   "venue": "BFI Southbank and cinemas across the West End",
-   "startsOn": "2026-10-07",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Twelve days in October",
-   "area": "South Bank",
-   "borough": "Lambeth",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Belvedere Road",
-   "postcode": "SE1 8XT",
-   "lat": 51.50695,
-   "lng": -0.115944,
-   "agePolicy": "all-ages",
-   "duration": "Per screening",
-   "price": "Roughly £15-£25 a screening, galas more",
-   "priceBand": "under-20",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "whyGo": "Unlike Cannes or Venice, anyone can buy a ticket to the premieres - no accreditation, just booking speed. The 2026 edition is the 70th.",
-   "opNote": "Public booking opens in September and the galas go fast; ordinary screenings of the same films are far easier to get.",
-   "goodFor": [
-    "film",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "affordable-art-fair-battersea-autumn",
-   "name": "Affordable Art Fair - Battersea Autumn",
-   "type": "exhibition-convention",
-   "style": "Collector-entry art fair, aimed at first-time buyers rather than blue-chip galleries",
-   "venue": "Battersea Park",
-   "startsOn": "2026-10-14",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, in Frieze Week, annually",
-   "area": "Battersea",
-   "borough": "Wandsworth",
-   "guide": "battersea-area-guide",
-   "zone": "1",
-   "district": "South",
-   "address": "Battersea Park",
-   "postcode": "SW11 4NJ",
-   "agePolicy": "all-ages",
-   "duration": "A few hours",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "whyGo": "One of Frieze Week's satellite fairs, priced and pitched at collectors buying their first piece rather than six-figure lots.",
-   "opNote": "Private view Wednesday 14 October, 5-9pm; general admission runs Thursday 15 to Sunday 18 October.",
-   "goodFor": [
-    "art",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://affordableartfair.com/fairs/london-battersea-autumn/",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "african-art-fair-1-54",
-   "name": "1-54 Contemporary African Art Fair",
-   "type": "exhibition-convention",
-   "style": "Contemporary African and diaspora galleries filling Somerset House's wings and courtyard",
-   "venue": "Somerset House",
-   "startsOn": "2026-10-15",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, alongside Frieze Week, annually",
-   "area": "Strand",
-   "borough": "Westminster",
-   "guide": "covent-garden-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Strand",
-   "postcode": "WC2R 1LA",
-   "agePolicy": "all-ages",
-   "duration": "A few hours",
-   "price": "£18 concessions / £32 general",
-   "priceBand": "under-20",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Its 14th edition, and the one Frieze Week fair built entirely around African and diaspora galleries rather than a general survey.",
-   "opNote": "15 October is a ticketed press and VIP preview; public days are 16 to 18 October.",
-   "goodFor": [
-    "art",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.somersethouse.org.uk/whats-on/1-54-contemporary-african-art-fair-2026",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "musical-con",
-   "name": "Musical Con",
-   "type": "exhibition-convention",
-   "style": "West End cast meet-and-greets, workshops and masterclasses",
-   "venue": "ExCeL London",
-   "startsOn": "2026-10-17",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, annually",
-   "area": "Royal Docks",
-   "borough": "Newham",
-   "zone": "3",
-   "district": "East",
-   "address": "One Western Gateway, Royal Victoria Dock",
-   "postcode": "E16 1XL",
-   "agePolicy": "all-ages",
-   "duration": "Half a day",
-   "price": "£45-49 day pass; £75-85 weekend",
-   "priceBand": "20-50",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "West End cast meet-and-greets and workshops are sold as separate add-ons on top of entry, and several tiers were already marked sold out on the organiser's own ticket page.",
-   "goodFor": [
-    "date",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.musicalcon.co.uk/",
-   "bookingUrl": "https://www.musicalcon.co.uk/tickets",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "home-life-you-live",
-   "name": "Home, Life & You LIVE",
-   "type": "exhibition-convention",
-   "style": "Home, lifestyle and gardening exhibitors and demonstrations",
-   "venue": "ExCeL London",
-   "startsOn": "2026-10-17",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, annually",
-   "area": "Royal Docks",
-   "borough": "Newham",
-   "zone": "3",
-   "district": "East",
-   "address": "One Western Gateway, Royal Victoria Dock",
-   "postcode": "E16 1XL",
-   "agePolicy": "family-friendly",
-   "duration": "A few hours",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Home, lifestyle and gardening exhibitors and demonstrations on the same October weekend as the National Wedding Show and Musical Con at the same venue.",
-   "opNote": "Ticket price not published on the organiser's own site.",
-   "goodFor": [
-    "families",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.homelifeandyou.com/",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "vegan-life-live-alexandra-palace",
-   "name": "Vegan Life Live / OM Yoga Show / Mind Body Soul Experience",
-   "type": "exhibition-convention",
-   "style": "Three co-located shows on one ticket: plant-based food, yoga and wellbeing",
-   "venue": "Alexandra Palace (The Great Hall)",
-   "startsOn": "2026-10-16",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, annually",
-   "area": "Muswell Hill",
-   "borough": "Haringey",
-   "zone": "3",
-   "district": "North",
-   "address": "Alexandra Palace Way",
-   "postcode": "N22 7AY",
-   "agePolicy": "family-friendly",
-   "duration": "Half a day",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "One entrance ticket covers all three co-located shows, and under-16s go free with a paying adult.",
-   "goodFor": [
-    "families",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://veganlifelive.com",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "national-wedding-show",
-   "name": "The National Wedding Show",
-   "type": "exhibition-convention",
-   "style": "Wedding suppliers and showcases under one roof",
-   "venue": "ExCeL London",
-   "startsOn": "2026-10-17",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, annually",
-   "area": "Royal Docks",
-   "borough": "Newham",
-   "zone": "3",
-   "district": "East",
-   "address": "One Western Gateway, Royal Victoria Dock",
-   "postcode": "E16 1XL",
-   "agePolicy": "all-ages",
-   "duration": "Half a day",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Wedding suppliers and showcases under one roof, on the same weekend as Musical Con and Home, Life & You LIVE at the same venue.",
-   "opNote": "Ticket price not published on the organiser's own site.",
-   "goodFor": [
-    "date",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://nationalweddingshow.co.uk/",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "london-snow-show",
-   "name": "London Snow Show",
-   "type": "exhibition-convention",
-   "style": "Ski and snowsports consumer show",
-   "venue": "Olympia London (The National Hall)",
-   "startsOn": "2026-10-17",
-   "endsOn": "2026-10-18",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October, annually",
-   "area": "Olympia",
-   "borough": "Hammersmith and Fulham",
-   "zone": "2",
-   "district": "West",
-   "address": "Hammersmith Road",
-   "postcode": "W14 8UX",
-   "agePolicy": "all-ages",
-   "duration": "A few hours",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "A ski and snowsports consumer show in the National Hall, the same October weekend as the National Wedding Show and Musical Con at ExCeL.",
-   "opNote": "Ticket price not published on the organiser's own listing.",
-   "goodFor": [
-    "groups",
-    "date"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.olympia.co.uk/events/london-snow-show-2",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "ai-live-olympia",
-   "name": "AI LIVE",
-   "type": "exhibition-convention",
-   "style": "AI industry talks and a show floor",
-   "venue": "Olympia London",
-   "startsOn": "2026-10-20",
-   "endsOn": "2026-10-21",
-   "recurring": "annual",
-   "typicalWhen": "Late October, annually",
-   "area": "Olympia",
-   "borough": "Hammersmith and Fulham",
-   "zone": "2",
-   "district": "West",
-   "address": "Hammersmith Road",
-   "postcode": "W14 8UX",
-   "agePolicy": "all-ages",
-   "duration": "Half a day",
-   "price": "£295",
-   "priceBand": "over-50",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Labelled a trade show on Olympia's own listing, but openly ticketed with no business-email gate found on the organiser's site.",
-   "goodFor": [
-    "solo"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://aimagazine.com/events/tech-and-ai-live/ai-live-london-summit-2026",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "serpentine-pavilion-2026",
-   "name": "Serpentine Pavilion 2026",
-   "type": "installation",
-   "style": "This year's architecture commission, by LANZA atelier",
-   "venue": "Serpentine South lawn",
-   "startsOn": "2026-06-06",
-   "endsOn": "2026-10-25",
-   "area": "Kensington Gardens",
-   "borough": "Westminster",
-   "guide": "kensington-area-guide",
-   "zone": "1",
-   "district": "West",
-   "address": "Kensington Gardens",
-   "postcode": "W2 3XA",
-   "agePolicy": "all-ages",
-   "duration": "Twenty minutes",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "stepFree": "yes",
-   "whyGo": "Each year's Pavilion is demolished at the end of October and never rebuilt - see it or miss it permanently. Free, outdoors, and a natural stop on a Kensington Gardens walk.",
-   "opNote": "The Soto walk-through sculpture nearby closes the same day, so the two make one outdoor stop.",
-   "goodFor": [
-    "free",
-    "architecture"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "soto-penetrable-serpentine",
-   "name": "Jesus Rafael Soto: Penetrable BBL Jaune",
-   "type": "installation",
-   "style": "A kinetic sculpture you walk through",
-   "venue": "Serpentine South",
-   "startsOn": "2026-06-16",
-   "endsOn": "2026-10-25",
-   "area": "Kensington Gardens",
-   "borough": "Westminster",
-   "guide": "kensington-area-guide",
-   "zone": "1",
-   "district": "West",
-   "address": "Kensington Gardens",
-   "postcode": "W2 3XA",
-   "agePolicy": "family-friendly",
-   "duration": "Minutes, repeatedly",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "stepFree": "partial",
-   "whyGo": "Physically walk-through rather than look-at - hanging yellow strands you push into and disappear inside - which makes it the most child-friendly thing on the autumn art calendar.",
-   "opNote": "Outdoors by Serpentine South; closes with the Pavilion on 25 October.",
-   "goodFor": [
-    "free",
-    "families"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
-  {
-   "slug": "diwali-on-the-square",
-   "name": "Diwali on the Square",
-   "type": "festival",
-   "style": "The Mayor of London's free Diwali festival",
-   "venue": "Trafalgar Square",
-   "startsOn": "2026-10-25",
-   "endsOn": "2026-10-25",
-   "recurring": "annual",
-   "typicalWhen": "A Sunday in October or November, moving with the Hindu lunar calendar",
-   "area": "Trafalgar Square",
-   "borough": "Westminster",
-   "guide": "westminster-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Trafalgar Square",
-   "postcode": "WC2N 5DN",
-   "agePolicy": "family-friendly",
-   "duration": "1pm to 7pm",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "whyGo": "London's biggest single Diwali gathering, around 35,000 people, with the Mayor lighting the ceremonial lamp. City-hall-run and completely free, like Eid and Vaisakhi on the same square.",
-   "opNote": "2026 edition confirmed for Sunday 25 October, 1pm-7pm. No ticket, just turn up.",
-   "goodFor": [
-    "free",
-    "families"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "mcm-comic-con-london-oct",
-   "name": "MCM Comic Con London",
-   "type": "exhibition-convention",
-   "style": "The organiser's own billing calls it the UK's biggest Comic Con",
-   "venue": "ExCeL London",
-   "startsOn": "2027-05-28",
-   "endsOn": "2027-05-30",
-   "recurring": "annual",
-   "typicalWhen": "Two editions a year, at ExCeL in May and October",
-   "area": "Royal Docks",
-   "borough": "Newham",
-   "zone": "3",
-   "district": "East",
-   "address": "One Western Gateway, Royal Victoria Dock",
-   "postcode": "E16 1XL",
-   "agePolicy": "all-ages",
-   "duration": "Half a day",
-   "price": "Priority entry from £39; tickets on sale from 26 October 2026",
-   "priceBand": "20-50",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Billed by its organiser as the UK's biggest Comic Con; the Weekend ticket and both VIP tiers sold out more than a month before the October 2026 show.",
-   "opNote": "EGX, RX's sister gaming show, has been folded into this London date - egx.net now lists only MCM London and MCM Birmingham.",
-   "goodFor": [
-    "families",
-    "groups"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.mcmcomiccon.com/london/en-us.html",
-   "bookingUrl": "https://www.mcmcomiccon.com/london/en-us/tickets.html",
-   "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "the-baby-show-olympia",
-   "name": "The Baby Show",
-   "type": "exhibition-convention",
-   "style": "Pregnancy through to toddler care, exhibitors and talks",
-   "venue": "Olympia London (The Grand Hall)",
-   "startsOn": "2026-10-23",
-   "endsOn": "2026-10-25",
-   "recurring": "annual",
-   "typicalWhen": "Late October, annually",
-   "area": "Olympia",
-   "borough": "Hammersmith and Fulham",
-   "zone": "2",
-   "district": "West",
-   "address": "Hammersmith Road",
-   "postcode": "W14 8UX",
-   "agePolicy": "family-friendly",
-   "duration": "Half a day",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Pregnancy through to toddler care in one hall, running the same weekend as MCM Comic Con at ExCeL across town.",
-   "goodFor": [
-    "families"
-   ],
-   "lists": [
-    "events"
-   ],
-   "website": "https://www.thebabyshow.co.uk/olympia",
-   "annual": true,
-   "notYetOpen": true
-  },
   {
    "slug": "national-portrait-es-devlin",
    "name": "A National Portrait",
@@ -2044,7 +1093,7 @@
     "free"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "music-is-black-va-east",
@@ -2244,7 +1293,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "megacon-live-london",
@@ -2314,7 +1363,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "painting-the-french-riviera",
@@ -2348,7 +1397,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "amar-kanwar-serpentine",
@@ -2417,7 +1466,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "platform-simone-brewster",
@@ -2516,7 +1565,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "chinese-new-year-london",
@@ -2589,7 +1638,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "light-and-magic-tate",
@@ -2624,7 +1673,7 @@
     "free"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "london-fashion-week",
@@ -2691,7 +1740,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "motorsport-expo",
@@ -3035,7 +2084,7 @@
     "free"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "ideal-home-show",
@@ -3177,6 +2226,43 @@
    "notYetOpen": true
   },
   {
+   "slug": "mcm-comic-con-london-oct",
+   "name": "MCM Comic Con London",
+   "type": "exhibition-convention",
+   "style": "The organiser's own billing calls it the UK's biggest Comic Con",
+   "venue": "ExCeL London",
+   "startsOn": "2027-05-28",
+   "endsOn": "2027-05-30",
+   "recurring": "annual",
+   "typicalWhen": "Two editions a year, at ExCeL in May and October",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "One Western Gateway, Royal Victoria Dock",
+   "postcode": "E16 1XL",
+   "agePolicy": "all-ages",
+   "duration": "Half a day",
+   "price": "Priority entry from £39; tickets on sale from 26 October 2026",
+   "priceBand": "20-50",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Billed by its organiser as the UK's biggest Comic Con; the Weekend ticket and both VIP tiers sold out more than a month before the October 2026 show.",
+   "opNote": "EGX, RX's sister gaming show, has been folded into this London date - egx.net now lists only MCM London and MCM Birmingham.",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.mcmcomiccon.com/london/en-us.html",
+   "bookingUrl": "https://www.mcmcomiccon.com/london/en-us/tickets.html",
+   "annual": true,
+   "notYetOpen": true
+  },
+  {
    "slug": "monet-painting-time",
    "name": "Monet: Painting Time",
    "type": "exhibition",
@@ -3266,6 +2352,40 @@
    "indoorOutdoor": "outdoor",
    "whyGo": "Single scullers race four miles and seven furlongs from London Bridge to Chelsea for a scarlet coat and silver badge, as they have since 1715 - older than the Boat Race and the Derby. Watch free from any bridge on the route.",
    "opNote": "The 312th running starts 1.15pm on 2 September 2026. Organised by the Fishmongers' and Watermen's Companies, who have never needed to market it - which is why almost nobody watching knows what they are seeing.",
+   "goodFor": [
+    "free",
+    "families"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "totally-thames",
+   "name": "Totally Thames",
+   "type": "festival",
+   "style": "A month of river-themed events across twenty boroughs",
+   "venue": "Along the Thames, Richmond to Barking",
+   "recurring": "annual",
+   "typicalWhen": "The whole of September",
+   "area": "South Bank",
+   "borough": "Multiple",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Riverside sites city-wide",
+   "agePolicy": "all-ages",
+   "duration": "Pick individual events",
+   "price": "Mostly free",
+   "priceBand": "free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "Over a hundred river events under one umbrella - foreshore walks, boat festivals, art installations - that absorbed the old Mayor's Thames Festival. A September visit can be built around it without realising it is one programme.",
+   "opNote": "Most events free and unticketed. Highlights in 2026 include Chiswick Tidefest on 6 September and the St Katharine Docks Classic Boat Festival on 12-13 September.",
    "goodFor": [
     "free",
     "families"
@@ -3374,6 +2494,77 @@
    "goodFor": [
     "free",
     "design"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "bfi-london-film-festival",
+   "name": "BFI London Film Festival",
+   "type": "festival",
+   "style": "The UK's biggest public film festival",
+   "venue": "BFI Southbank and cinemas across the West End",
+   "recurring": "annual",
+   "typicalWhen": "Twelve days in October",
+   "area": "South Bank",
+   "borough": "Lambeth",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Belvedere Road",
+   "postcode": "SE1 8XT",
+   "lat": 51.50695,
+   "lng": -0.115944,
+   "agePolicy": "all-ages",
+   "duration": "Per screening",
+   "price": "Roughly £15-£25 a screening, galas more",
+   "priceBand": "under-20",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "whyGo": "Unlike Cannes or Venice, anyone can buy a ticket to the premieres - no accreditation, just booking speed. The 2026 edition is the 70th.",
+   "opNote": "Public booking opens in September and the galas go fast; ordinary screenings of the same films are far easier to get.",
+   "goodFor": [
+    "film",
+    "date"
+   ],
+   "lists": [
+    "events"
+   ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "diwali-on-the-square",
+   "name": "Diwali on the Square",
+   "type": "festival",
+   "style": "The Mayor of London's free Diwali festival",
+   "venue": "Trafalgar Square",
+   "recurring": "annual",
+   "typicalWhen": "A Sunday in October or November, moving with the Hindu lunar calendar",
+   "area": "Trafalgar Square",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Trafalgar Square",
+   "postcode": "WC2N 5DN",
+   "agePolicy": "family-friendly",
+   "duration": "1pm to 7pm",
+   "price": "Free",
+   "priceBand": "free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "London's biggest single Diwali gathering, around 35,000 people, with the Mayor lighting the ceremonial lamp. City-hall-run and completely free, like Eid and Vaisakhi on the same square.",
+   "opNote": "2026 edition confirmed for Sunday 25 October, 1pm-7pm. No ticket, just turn up.",
+   "goodFor": [
+    "free",
+    "families"
    ],
    "lists": [
     "events",
@@ -4321,7 +3512,7 @@
     "events"
    ],
    "annual": false,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "phantom-peak-stratford",
@@ -4802,6 +3993,493 @@
    "lists": [
     "events"
    ],
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "affordable-art-fair-battersea-autumn",
+   "name": "Affordable Art Fair - Battersea Autumn",
+   "type": "exhibition-convention",
+   "style": "Collector-entry art fair, aimed at first-time buyers rather than blue-chip galleries",
+   "venue": "Battersea Park",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, in Frieze Week, annually",
+   "area": "Battersea",
+   "borough": "Wandsworth",
+   "guide": "battersea-area-guide",
+   "zone": "1",
+   "district": "South",
+   "address": "Battersea Park",
+   "postcode": "SW11 4NJ",
+   "agePolicy": "all-ages",
+   "duration": "A few hours",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "whyGo": "One of Frieze Week's satellite fairs, priced and pitched at collectors buying their first piece rather than six-figure lots.",
+   "opNote": "Private view Wednesday 14 October, 5-9pm; general admission runs Thursday 15 to Sunday 18 October.",
+   "goodFor": [
+    "art",
+    "date"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://affordableartfair.com/fairs/london-battersea-autumn/",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "african-art-fair-1-54",
+   "name": "1-54 Contemporary African Art Fair",
+   "type": "exhibition-convention",
+   "style": "Contemporary African and diaspora galleries filling Somerset House's wings and courtyard",
+   "venue": "Somerset House",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, alongside Frieze Week, annually",
+   "area": "Strand",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Strand",
+   "postcode": "WC2R 1LA",
+   "agePolicy": "all-ages",
+   "duration": "A few hours",
+   "price": "£18 concessions / £32 general",
+   "priceBand": "under-20",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Its 14th edition, and the one Frieze Week fair built entirely around African and diaspora galleries rather than a general survey.",
+   "opNote": "15 October is a ticketed press and VIP preview; public days are 16 to 18 October.",
+   "goodFor": [
+    "art",
+    "date"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.somersethouse.org.uk/whats-on/1-54-contemporary-african-art-fair-2026",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "animecon-london",
+   "name": "AnimeCon London",
+   "type": "exhibition-convention",
+   "style": "Anime, manga, J-Pop, K-Pop and fashion over two days",
+   "venue": "Olympia London (The Grand Hall)",
+   "recurring": "annual",
+   "typicalWhen": "Early October, annually",
+   "area": "Olympia",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "Hammersmith Road",
+   "postcode": "W14 8UX",
+   "agePolicy": "all-ages",
+   "duration": "A few hours",
+   "price": "£25",
+   "priceBand": "20-50",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Billed by its organiser, the Oakham Group, as the UK's biggest anime and manga convention.",
+   "opNote": "In the Grand Hall.",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://animeconuk.com",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "musical-con",
+   "name": "Musical Con",
+   "type": "exhibition-convention",
+   "style": "West End cast meet-and-greets, workshops and masterclasses",
+   "venue": "ExCeL London",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, annually",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "One Western Gateway, Royal Victoria Dock",
+   "postcode": "E16 1XL",
+   "agePolicy": "all-ages",
+   "duration": "Half a day",
+   "price": "£45-49 day pass; £75-85 weekend",
+   "priceBand": "20-50",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "West End cast meet-and-greets and workshops are sold as separate add-ons on top of entry, and several tiers were already marked sold out on the organiser's own ticket page.",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.musicalcon.co.uk/",
+   "bookingUrl": "https://www.musicalcon.co.uk/tickets",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "new-scientist-live",
+   "name": "New Scientist Live",
+   "type": "exhibition-convention",
+   "style": "Four stages of talks and a show floor, livestreamed for ticket holders",
+   "venue": "ExCeL London",
+   "recurring": "annual",
+   "typicalWhen": "Second week of October, annually",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "One Western Gateway, Royal Victoria Dock",
+   "postcode": "E16 1XL",
+   "agePolicy": "all-ages",
+   "duration": "Half a day",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Four stages and 47-plus speakers on one show floor; the organiser's own site advertises up to 44% off its final-release tickets against paying on the door.",
+   "opNote": "10-11 October are the public days; 12 October is a Schools' Day, not open to the public.",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://live.newscientist.com/",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "ai-live-olympia",
+   "name": "AI LIVE",
+   "type": "exhibition-convention",
+   "style": "AI industry talks and a show floor",
+   "venue": "Olympia London",
+   "recurring": "annual",
+   "typicalWhen": "Late October, annually",
+   "area": "Olympia",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "Hammersmith Road",
+   "postcode": "W14 8UX",
+   "agePolicy": "all-ages",
+   "duration": "Half a day",
+   "price": "£295",
+   "priceBand": "over-50",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Labelled a trade show on Olympia's own listing, but openly ticketed with no business-email gate found on the organiser's site.",
+   "goodFor": [
+    "solo"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://aimagazine.com/events/tech-and-ai-live/ai-live-london-summit-2026",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "home-life-you-live",
+   "name": "Home, Life & You LIVE",
+   "type": "exhibition-convention",
+   "style": "Home, lifestyle and gardening exhibitors and demonstrations",
+   "venue": "ExCeL London",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, annually",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "One Western Gateway, Royal Victoria Dock",
+   "postcode": "E16 1XL",
+   "agePolicy": "family-friendly",
+   "duration": "A few hours",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Home, lifestyle and gardening exhibitors and demonstrations on the same October weekend as the National Wedding Show and Musical Con at the same venue.",
+   "opNote": "Ticket price not published on the organiser's own site.",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.homelifeandyou.com/",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "vegan-life-live-alexandra-palace",
+   "name": "Vegan Life Live / OM Yoga Show / Mind Body Soul Experience",
+   "type": "exhibition-convention",
+   "style": "Three co-located shows on one ticket: plant-based food, yoga and wellbeing",
+   "venue": "Alexandra Palace (The Great Hall)",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, annually",
+   "area": "Muswell Hill",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "Alexandra Palace Way",
+   "postcode": "N22 7AY",
+   "agePolicy": "family-friendly",
+   "duration": "Half a day",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "One entrance ticket covers all three co-located shows, and under-16s go free with a paying adult.",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://veganlifelive.com",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "knit-and-stitch",
+   "name": "Knit + Stitch",
+   "type": "exhibition-convention",
+   "style": "300-plus specialist textile craft suppliers under one roof",
+   "venue": "Alexandra Palace (The Great Hall)",
+   "recurring": "annual",
+   "typicalWhen": "Early to mid-October, annually",
+   "area": "Muswell Hill",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "Alexandra Palace Way",
+   "postcode": "N22 7AY",
+   "agePolicy": "all-ages",
+   "duration": "A few hours",
+   "price": "£15.50",
+   "priceBand": "under-20",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "The venue's own billing calls it the UK's biggest textile craft exhibition, with over 300 specialist suppliers under one roof.",
+   "goodFor": [
+    "solo",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.alexandrapalace.com/whats-on/knit-stitch/",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "open-studios-alexandra-park",
+   "name": "Open Studios (Muswell Hill & Alexandra Park)",
+   "type": "exhibition-convention",
+   "style": "Seventy-plus local artists open their own studios for the weekend",
+   "venue": "Alexandra Palace (Creativity Pavilion) and artists' own studios",
+   "recurring": "annual",
+   "typicalWhen": "Second weekend of October, annually",
+   "area": "Muswell Hill",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "Alexandra Palace Way",
+   "postcode": "N22 7AY",
+   "agePolicy": "family-friendly",
+   "duration": "An afternoon",
+   "price": "Free",
+   "priceBand": "free",
+   "booking": "walk-in",
+   "indoorOutdoor": "both",
+   "whyGo": "Free, and the second year of Muswell Hill and Alexandra Park artists opening their own studios rather than showing in a single hall.",
+   "opNote": "The Creativity Pavilion at Alexandra Palace is the starting point; the rest of the trail runs across artists' own studios nearby.",
+   "goodFor": [
+    "free",
+    "families",
+    "solo"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "website": "https://www.alexandrapalace.com/whats-on/open-studios/",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "national-wedding-show",
+   "name": "The National Wedding Show",
+   "type": "exhibition-convention",
+   "style": "Wedding suppliers and showcases under one roof",
+   "venue": "ExCeL London",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, annually",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "One Western Gateway, Royal Victoria Dock",
+   "postcode": "E16 1XL",
+   "agePolicy": "all-ages",
+   "duration": "Half a day",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Wedding suppliers and showcases under one roof, on the same weekend as Musical Con and Home, Life & You LIVE at the same venue.",
+   "opNote": "Ticket price not published on the organiser's own site.",
+   "goodFor": [
+    "date",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://nationalweddingshow.co.uk/",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "uk-black-business-week",
+   "name": "UK Black Business Week & Show",
+   "type": "exhibition-convention",
+   "style": "A week of Black-owned business networking, awards and a public show day",
+   "venue": "ExCeL London",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, annually",
+   "area": "Royal Docks",
+   "borough": "Newham",
+   "zone": "3",
+   "district": "East",
+   "address": "One Western Gateway, Royal Victoria Dock",
+   "postcode": "E16 1XL",
+   "agePolicy": "all-ages",
+   "duration": "A few hours",
+   "price": "Day Pass: Early Bird £45, Pre-Reg £50, Onsite £65",
+   "priceBand": "20-50",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "The public-ticketed day is Saturday 17 October; the rest of the week runs on delegate passes for the Awards, Forum and networking parties.",
+   "opNote": "Public Day Pass runs 9am-6pm on the Saturday only.",
+   "goodFor": [
+    "solo",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.ukblackbusinessweek.com/",
+   "bookingUrl": "https://www.blackbusinessexperience.com/uk-black-business-week/book-tickets",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "the-baby-show-olympia",
+   "name": "The Baby Show",
+   "type": "exhibition-convention",
+   "style": "Pregnancy through to toddler care, exhibitors and talks",
+   "venue": "Olympia London (The Grand Hall)",
+   "recurring": "annual",
+   "typicalWhen": "Late October, annually",
+   "area": "Olympia",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "Hammersmith Road",
+   "postcode": "W14 8UX",
+   "agePolicy": "family-friendly",
+   "duration": "Half a day",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Pregnancy through to toddler care in one hall, running the same weekend as MCM Comic Con at ExCeL across town.",
+   "goodFor": [
+    "families"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.thebabyshow.co.uk/olympia",
+   "annual": true,
+   "awaitingDates": true,
+   "notYetOpen": false
+  },
+  {
+   "slug": "london-snow-show",
+   "name": "London Snow Show",
+   "type": "exhibition-convention",
+   "style": "Ski and snowsports consumer show",
+   "venue": "Olympia London (The National Hall)",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October, annually",
+   "area": "Olympia",
+   "borough": "Hammersmith and Fulham",
+   "zone": "2",
+   "district": "West",
+   "address": "Hammersmith Road",
+   "postcode": "W14 8UX",
+   "agePolicy": "all-ages",
+   "duration": "A few hours",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "A ski and snowsports consumer show in the National Hall, the same October weekend as the National Wedding Show and Musical Con at ExCeL.",
+   "opNote": "Ticket price not published on the organiser's own listing.",
+   "goodFor": [
+    "groups",
+    "date"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.olympia.co.uk/events/london-snow-show-2",
    "annual": true,
    "awaitingDates": true,
    "notYetOpen": false
