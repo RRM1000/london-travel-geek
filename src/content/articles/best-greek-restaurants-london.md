@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Lemonia,_Primrose_Hill
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-08
-updatedAt: 2026-10-08
-reviewBy: 2027-04-08
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -35,7 +35,7 @@ faq:
 
 > 💡 **The Short Version:** **Oma** in Borough Market is named by more sources than any other Greek restaurant in London and is the only one with a Michelin star. **Agora**, its souvla bar downstairs, holds a Bib Gourmand and is mostly walk-in. **Tsiakkos & Charcoal** in Maida Vale tops Time Out's ranked list, for a £35 Greek-Cypriot meze. **Andy's Taverna** in Camden, open since 1967, is the one Londoners recommend first on Reddit. For modern Greek, **Opso** and **Kima** face each other on Paddington Street in Marylebone. For the food the Cypriot community eats itself, go north to **Palmers Green**.
 
-London's Greek restaurants are two cities. One is the modern Greek dining room: Oma, Opso, Myrtos and a run of Mayfair openings, cooking over fire with long Greek wine lists. The other is older and mostly Cypriot: family tavernas in Camden and Bayswater from the 1960s to the 1980s, and the souvlaki counters, bakeries and meze houses of Palmers Green. This guide covers both, sorted by the kind of evening each one is.
+London's Greek restaurants are two cities. One is the modern Greek dining room: Oma, Opso, Myrtos and a run of Mayfair openings, cooking over fire with long Greek wine lists. The other is older and mostly Cypriot: family tavernas in Camden and Bayswater from the 1960s to the 1980s, and the souvlaki counters, bakeries and meze houses of Palmers Green.
 
 > 📊 **The evidence behind this guide.**
 > **36 independent sources carrying 238 citations** across **81 named restaurants**. **44 restaurants are named by two or more independent sources.**
@@ -85,21 +85,21 @@ The judges and the one ranked list crown different restaurants. Michelin gives i
 
 *£££ · 2-4 Bedale Street, SE1 9AL · One Michelin star, 2026 guide · #73, National Restaurant Awards 2026 · #2 of 17, Time Out · Cited by 17 sources · [book a table](https://www.sevenrooms.com/reservations/oma)*
 
-**Named by 17 of the 36 sources, more than any other restaurant on this page.** David Carter, who also owns Smokestak and Manteca, opened it in spring 2024 on the first floor above Agora. Michelin gave it a star in February 2025, the first for a Greek restaurant in London, and the Good Food Guide rates it Very Good.
+**Named by 17 of the 36 sources, more than any other restaurant on this page.** David Carter, who also owns Smokestak and Manteca, opened it in spring 2024 on the first floor above Agora. Michelin gave it a star in February 2025, the first for a Greek restaurant in London.
 
 ![Oma's dining room under the green iron roof of Borough Market, with diners at round tables on a wooden floor, a curved concrete counter and pendant lights](../../assets/articles/best-greek-restaurants-london/oma-dining-room.jpg)
 
 *Oma's dining room.*
 
-The menu is Greek with the Levant and the Balkans mixed in, which the Good Food Guide calls "Greek in spirit". Start with the dips at £6.50 each (tarama with carob rusk; hummus with hot honey), then the **spanakopita gratin** with malawach flatbread (£15), which Grace Dent called "frankly obscene", and the **oxtail giouvetsi** with bone marrow (£34). There is a raw-fish counter and a charcoal grill in the middle of the room, and a covered terrace over the market.
+The menu is Greek with the Levant and the Balkans mixed in. Start with the dips at £6.50 each (tarama with carob rusk; hummus with hot honey), then the **spanakopita gratin** with malawach flatbread (£15), and the **oxtail giouvetsi** with bone marrow (£34). There is a raw-fish counter and a charcoal grill in the middle of the room, and a covered terrace over the market.
 
-Not everyone is sold. A Reddit regular calls it Greek "inspired", "with very little to do with actual Greek cuisine", and another found it "pretentious and expensive". **Tables are released 30 days ahead, for up to eight; a late cancellation may cost £60 a head.**
+A Reddit regular calls it Greek "inspired", "with very little to do with actual Greek cuisine". **Tables are released 30 days ahead, for up to eight; a late cancellation may cost £60 a head.**
 
 ### Agora, Borough Market — Oma's souvla bar, with a Bib Gourmand
 
 *££ · 2-4 Bedale Street, SE1 9AL · Bib Gourmand, 2026 guide · Cited by 10 sources · [book a table](https://www.sevenrooms.com/explore/agoralondon/reservations/create/search/)*
 
-The ground floor of Oma's building, built around a rotisserie spit, with counter seats facing the grill and communal tables. Michelin calls it "a simple yet brilliantly effective souvla bar" and the Good Food Guide rates it Good; The Infatuation rates it 8.5.
+The ground floor of Oma's building, built around a rotisserie spit, with counter seats facing the grill and communal tables. The Good Food Guide rates it Good; The Infatuation rates it 8.5.
 
 ![A minced lamb skewer and grilled chicken thigh scattered with oregano, with a lemon wedge, on a metal plate](../../assets/articles/best-greek-restaurants-london/agora-skewers.jpg)
 
@@ -113,7 +113,7 @@ Order skewers by the piece: **pork souvlaki with oregano** (£5 each), slow-gril
 
 *££ · 5 Marylands Road, W9 2DU · #1 of 17, Time Out · Cited by 10 sources · [book on its site](https://www.tsiakkos.co.uk/)*
 
-A Greek-Cypriot taverna on a residential street in Maida Vale, with fairy lights, plastic foliage and a covered garden room at the back. Everything grilled is cooked over charcoal in the open kitchen by the door. Jay Rayner's 2022 review was headlined "It's just so damn lovely".
+A Greek-Cypriot taverna on a residential street in Maida Vale, with fairy lights, plastic foliage and a covered garden room at the back. Everything grilled is cooked over charcoal in the open kitchen by the door.
 
 ![The covered garden room at Tsiakkos & Charcoal, with checked tablecloths, wooden folding chairs, a whitewashed brick wall, a hedge-covered wall and strings of fairy lights under a glazed roof](../../assets/articles/best-greek-restaurants-london/tsiakkos-garden-room.jpg)
 
@@ -131,7 +131,7 @@ There is one thing to order: **the house meze**, which Time Out puts at £35 a h
 
 *£££ · 10 Paddington Street, W1U 5QL · #8 of 17, Time Out · Cited by 10 sources · [book a table](https://www.sevenrooms.com/reservations/opso)*
 
-Opened in 2014 and named by ten sources, level with Agora and Tsiakkos & Charcoal. Athinorama, the Athens listings magazine, counts it among the first restaurants to show London modern Greek cooking. A bright, Nordic-looking room on two floors, with a marble communal table, a pavement terrace and a Greek wine list it bills as the largest in London.
+Opened in 2014. Athinorama, the Athens listings magazine, counts it among the first restaurants to show London modern Greek cooking. A bright, Nordic-looking room on two floors, with a marble communal table, a pavement terrace and a Greek wine list it bills as the largest in London.
 
 ![Smoked salmon and kale on a sesame bun, on a pale plate stamped OPSO](../../assets/articles/best-greek-restaurants-london/opso-brunch.jpg)
 
@@ -145,7 +145,7 @@ From the all-day menu: **feta kataifi** (£16), **giouvarlakia** lamb and beef d
 
 *££££ · 57 Paddington Street, W1U 4HZ · #4 of 17, Time Out · Cited by 9 sources · [book a table](https://www.sevenrooms.com/reservations/kima)*
 
-Opso's sister across the road, opened in 2023 by Andreas Labridis and chef Nikos Roussos, who cooked at the two-starred Funky Gourmet in Athens. You choose a fish from the iced counter by the door, and the kitchen cooks all of it, which it calls "fin to gill": the fillet raw, the bones into broth, the head and collar on the grill. House & Garden describes the small room as "calm and deliberate".
+Opso's sister across the road, opened in 2023 by Andreas Labridis and chef Nikos Roussos, who cooked at the two-starred Funky Gourmet in Athens. You choose a fish from the iced counter by the door, and the kitchen cooks all of it, which it calls "fin to gill": the fillet raw, the bones into broth, the head and collar on the grill.
 
 ![Kima's white shopfront on Paddington Street, with its name in navy lettering, tall windows and two pavement tables laid with white cloths](../../assets/articles/best-greek-restaurants-london/kima-paddington-street.jpg)
 
@@ -173,13 +173,13 @@ Start with the **spanakopita pastel de nata** (£5) and the **potato pita from t
 
 *££ · 23 Pratt Street, NW1 0BG · #9 of 17, Time Out · Cited by 8 sources · [the restaurant's site](https://www.andystaverna.com/)*
 
-A small family taverna off Camden High Street that opened in 1967. Asked for the best Greek restaurant in London in March 2026, r/LondonFood's top answer was "Andys in Camden", backed by seven replies; in a Camden budget thread in September one called it "shockingly good value". The Infatuation rates it 8.6, the highest score on its Greek list, and Gary Eats gave it his first ten out of ten on YouTube.
+A small family taverna off Camden High Street that opened in 1967. Asked for the best Greek restaurant in London in March 2026, r/LondonFood's top answer was "Andys in Camden", backed by seven replies. The Infatuation rates it 8.6, the highest score on its Greek list, and Gary Eats gave it his first ten out of ten on YouTube.
 
 ![Andy's Taverna at night, a corner restaurant with a blue-and-white fascia, checked tablecloths on pavement tables and a chalkboard reading Welcome to Andy's Greek Taverna](../../assets/articles/best-greek-restaurants-london/andys-taverna-pratt-street.jpg)
 
 *Andy's Taverna on Pratt Street.*
 
-Hot Dinners' must-orders are the **dolmades** and **moussaka**, with the **fish meze** for seafood eaters; Time Out adds pork afelia and sheftalia. The portions are large and the room is small. Not everyone agrees: the YouTuber Michael's Bites was "extremely disappointed".
+Hot Dinners' must-orders are the **dolmades** and **moussaka**, with the **fish meze** for seafood eaters; Time Out adds pork afelia and sheftalia. The portions are large and the room is small. The YouTuber Michael's Bites was "extremely disappointed".
 
 **Reservations are by email.** Reddit's tip is the lunch menu.
 
@@ -187,7 +187,7 @@ Hot Dinners' must-orders are the **dolmades** and **moussaka**, with the **fish 
 
 *£££ · 12-14 Hillgate Street, W8 7SR · Michelin selected, 2026 guide · Cited by 7 sources · [book a table](https://www.sevenrooms.com/explore/mazinottinghill/reservations/create/search/)*
 
-Christina Mouratoglou and Adrien Carré opened Mazi in 2012, and told Condé Nast Traveller they were "pioneers of the modern Greek restaurant" in London. A small, busy room with a front terrace and a larger vine-covered courtyard behind, which The Infatuation compares to "the backyard of a villa".
+Christina Mouratoglou and Adrien Carré opened Mazi in 2012. A small, busy room with a front terrace and a larger vine-covered courtyard behind.
 
 ![Diners at tables behind Mazi's front window in the evening, with wire cage pendant lights inside and a wooden bench on the terrace outside](../../assets/articles/best-greek-restaurants-london/mazi-front-window.jpg)
 
@@ -205,9 +205,9 @@ Michelin singles out the **spiced lamb rump** and the **loukoumades**, honey dou
 
 *Lemonia on Regent's Park Road.*
 
-A family-run Greek restaurant in a former pub, open since 1979, with a vine-hung dining room and tables outside in summer. Reddit calls it "a local institution" and "our family outing restaurant when I was a kid", and The Infatuation says it fills you with food and wine "without taking more than £60 quid off you".
+A family-run Greek restaurant in a former pub, open since 1979, with a vine-hung dining room and tables outside in summer. The Infatuation says it fills you with food and wine "without taking more than £60 quid off you".
 
-The Standard's picks are the **sheftalia**, calamari and Greek salad; Hot Dinners says vegetarians do especially well. It has its critics: one Reddit regular says it has gone downhill, after paying £25.50 for three sheftalia, and another finds it "really expensive" now.
+The Standard's picks are the **sheftalia**, calamari and Greek salad; Hot Dinners says vegetarians do especially well. One Reddit regular says it has gone downhill, after paying £25.50 for three sheftalia.
 
 **A three-course set dinner is £29.75, Monday to Thursday,** and a daily set lunch runs on weekdays.
 
@@ -215,19 +215,19 @@ The Standard's picks are the **sheftalia**, calamari and Greek salad; Hot Dinner
 
 ## Modern Greek
 
-The new Greek restaurants of the last few years, most of them in Marylebone, Mayfair and Notting Hill. Expect small plates to share, a lot of cooking over charcoal, and wine lists that are all or mostly Greek. The last three, Gaia, Bacchanalia and Fenix, are big Mayfair rooms that sell Greece as a night out.
+Openings of the last few years, mostly in Marylebone, Mayfair and Notting Hill: small plates to share, cooking over charcoal, and wine lists that are all or mostly Greek. Gaia, Bacchanalia and Fenix are big Mayfair rooms.
 
 ### Myrtos, South Kensington — the chef from Pied à Terre
 
 *£££ · 260-262 Brompton Road, SW3 2AS · Michelin selected, 2026 guide · Cited by 6 sources · [the restaurant's site](https://myrtoslondon.com/)*
 
-Asimakis Chaniotis spent 13 years at Pied à Terre before opening this in 2025, named after his favourite beach on Kefalonia. A bright room built around an olive tree, with a fish counter. House & Garden's food editor called the food "quietly dazzling".
+Asimakis Chaniotis spent 13 years at Pied à Terre before opening this in 2025, named after his favourite beach on Kefalonia. A bright room built around an olive tree, with a fish counter.
 
 ![Myrtos's blue shopfront on Brompton Road, its name in Greek letters above the windows, with blue-and-white patterned chairs at pavement tables](../../assets/articles/best-greek-restaurants-london/myrtos-brompton-road.jpg)
 
 *Myrtos on Brompton Road.*
 
-Order the **taramosalata** with trout roe and dill oil (£11), **tirokafteri**, which Michelin calls "a winner", and the **lamb moussaka**, which the menu describes as "the non-deconstructed, traditional way" (£24).
+Order the **taramosalata** with trout roe and dill oil (£11), **tirokafteri**, and the **lamb moussaka** (£24).
 
 **Lunch is two courses for £25 or three for £29.**
 
@@ -249,13 +249,13 @@ The Infatuation's orders are **Grandmama's meatballs** and the **chicken souvlak
 
 *£££ · 6 Bedford Street, WC2E 9HZ · #7 of 17, Time Out · Cited by 6 sources · [book a table](https://www.sevenrooms.com/explore/zyliacoventgarden/reservations/create/search/)*
 
-Opened in 2026 beside the Arcade food hall by Nick Molyviatis, an Athenian who ran the kitchen at Kiln, and Barry Karacostas, whose family is Cypriot. Whitewashed walls, lace doilies framed on them and an open charcoal grill. Grace Dent said it had "the feel of a family taverna that's already been here for about 62 years".
+Opened in 2026 beside the Arcade food hall by Nick Molyviatis, an Athenian who ran the kitchen at Kiln, and Barry Karacostas, whose family is Cypriot. Whitewashed walls, lace doilies framed on them and an open charcoal grill.
 
 ![Zylia's entrance on Bedford Street, a red-brick and terracotta building with cream awnings printed ZYLIA, a hanging sign and a potted lemon tree by the door](../../assets/articles/best-greek-restaurants-london/zylia-bedford-street.jpg)
 
 *Zylia on Bedford Street.*
 
-Order Karacostas's mother's **taramosalata** (£7), **sheftalia** (£14) and the **wild prawn saganaki** in a spiced tomato, yoghurt and tahini sauce (£18.50), which Dent called outstanding. The milk-fed **lamb shoulder kleftiko** is £58 to share.
+Order Karacostas's mother's **taramosalata** (£7), **sheftalia** (£14) and the **wild prawn saganaki** in a spiced tomato, yoghurt and tahini sauce (£18.50). The milk-fed **lamb shoulder kleftiko** is £58 to share.
 
 **Bookings open 60 days ahead,** but The Infatuation says some space is held back for walk-ins.
 
@@ -285,7 +285,7 @@ Luxury London's picks are the **crispy potato terrine** and the **Greek salad** 
 
 Opened in January 2023 by Markos, Alexandros and Stefanos Tsimikalis, who ran Hungry Donkey in Spitalfields, and named after a beach on Andros. Tables outside on Holland Park Avenue, an all-Greek wine list, and meat from Lidgates, the butcher next door.
 
-From the charcoal: **pork suvlaki skewers** (£24), **octopus with Santorini fava** (£28) and paidakia, lamb chops (£38). Hot Dinners says the **koulouri** with thyme-honey butter at weekend brunch is "unmissable".
+From the charcoal: **pork suvlaki skewers** (£24), **octopus with Santorini fava** (£28) and paidakia, lamb chops (£38). Hot Dinners recommends the **koulouri** with thyme-honey butter at weekend brunch.
 
 **Closed Monday.** A weekday suvlaki lunch runs from Tuesday to Friday.
 
@@ -295,7 +295,7 @@ From the charcoal: **pork suvlaki skewers** (£24), **octopus with Santorini fav
 
 The Pachamama group's casual Greek restaurant, opened in 2025 on the old Pachamama East site. Paper tablecloths, crayons on every table, a chrome open kitchen and flatbreads coming out of the oven non-stop. The Infatuation rates it 8.4.
 
-Order a flatbread (Condé Nast Traveller had the **prawn saganaki** one), the smoked **chicken thigh** with lemon sauce, and the **salted caramel cheesecake**, which The Infatuation would "plan an entire dinner around".
+Order a flatbread (Condé Nast Traveller had the **prawn saganaki** one), the smoked **chicken thigh** with lemon sauce, and the **salted caramel cheesecake**.
 
 **Tables are held back for walk-ins,** and 4.30pm bookings are easy to get.
 
@@ -303,7 +303,7 @@ Order a flatbread (Condé Nast Traveller had the **prawn saganaki** one), the sm
 
 *££££ · 1 Regent Street, St James's · Cited by 4 sources · [book a table](https://www.estiatoriomilos.com/location/london/reserve)*
 
-The London branch, opened in 2015, of Costas Spiliadis's international chain of Greek fish restaurants, in a marble-and-pale-wood dining room off Pall Mall. Fish is priced by weight from an iced display. The London Economic's critic was reminded of "long lunches of grilled fish before the Aegean Sea".
+The London branch, opened in 2015, of Costas Spiliadis's international chain of Greek fish restaurants, in a marble-and-pale-wood dining room off Pall Mall. Fish is priced by weight from an iced display.
 
 Order **octopus over Santorini fava**, the lightly fried **calamari**, and a whole fish grilled with lemon and olive oil.
 
@@ -323,7 +323,7 @@ Time Out's pick is the **kopanisti**, a barrel-aged feta dip with Florina pepper
 
 *£££ · 18 Hillgate Street, W8 7SR · Cited by 3 sources · [book a table](https://suzitros.com/reservations/)*
 
-Mazi's sister, opened in 2019 and named after a line by the Greek actress Rena Vlachopoulou. Its menu looks to Thessaloniki and northern Greece. Luxury London calls the room "bright and bouncy".
+Mazi's sister, opened in 2019 and named after a line by the Greek actress Rena Vlachopoulou. Its menu looks to Thessaloniki and northern Greece.
 
 The owner's recommendations, as Luxury London reports them, are the **smoked aubergine** with red pepper cream and **Grandmama's meatballs**; Cookout adds kebabs, soutzoukakia and pork belly.
 
@@ -343,7 +343,7 @@ Hot Dinners says to "save room for the phenomenal **wild goat**, cooked for 14 h
 
 *£££ · 66 Chiltern Street, W1U 4EJ · Michelin selected, 2026 guide · Cited by 2 sources · [the restaurant's site](https://cliorestaurant.co.uk/)*
 
-A modern Greek restaurant below a block of flats, named after one of Zeus's daughters; Michelin describes "a faux-rustic look with plenty of tasteful Hellenic touches", and The Infatuation rates it 7.
+A modern Greek restaurant below a block of flats, named after one of Zeus's daughters; Michelin describes a faux-rustic look, and The Infatuation rates it 7.
 
 From the menu: **taramasalata with bottarga**, fresh sea urchin, charred homemade **loukaniko** sausage, and a **monkfish kebab** with wild greens. Michelin singles out a deconstructed red prawn saganaki and suckling pig.
 
@@ -353,9 +353,9 @@ From the menu: **taramasalata with bottarga**, fresh sea urchin, charred homemad
 
 *£££ · 383 King's Road, SW10 0LP · Cited by 2 sources · [book a table](https://bottarga.london/reservations)*
 
-The Pachamama group's second Greek restaurant, in a small, dark room on the King's Road with a covered, heated terrace. The Infatuation rates it 8.3 and calls it "effortless, chic, cool"; The London Economic's critic said it showed Chelsea "being reborn as a dining destination".
+The Pachamama group's second Greek restaurant, in a small, dark room on the King's Road with a covered, heated terrace. The Infatuation rates it 8.3.
 
-The Infatuation's formula: **raw yellowtail** or a whole grilled **sea bass**, the cucumber dip, and the **lamb belly**, which "needs to be studied for its crisp-factor".
+The Infatuation's formula: **raw yellowtail** or a whole grilled **sea bass**, the cucumber dip, and the **lamb belly**.
 
 **For a same-week table, The Infatuation's advice is to phone and ask for the bar or the terrace,** or try a Monday.
 
@@ -381,7 +381,7 @@ The London branch, opened in 2023, of a Greek-Mediterranean group from Dubai, Mo
 
 *££££ · 1-3 Mount Street, W1K 3NA · Cited by 2 sources · [the restaurant's site](https://bacchanalia.co.uk/)*
 
-Richard Caring's huge room of hand-painted ceiling murals and Damien Hirst statues. The food is Greek-led: Athinorama names chef Athinagoras Kostakos and his meatballs with smoked yoghurt and slow-cooked lamb with thyme. The Standard called the room "rather fun".
+Richard Caring's huge room of hand-painted ceiling murals and Damien Hirst statues. The food is Greek-led: Athinorama names chef Athinagoras Kostakos and his meatballs with smoked yoghurt and slow-cooked lamb with thyme.
 
 **Two courses from the set menu are £36,** the cheap way to see it.
 
@@ -397,7 +397,7 @@ The London branch of a Manchester restaurant, opened in March 2026 under chandel
 
 ## Tavernas and Greek-Cypriot classics
 
-The family restaurants, most of them in Camden, Bayswater and Belsize Park, where Greek-Cypriot families settled from the 1950s. Big meze menus, grills, kleftiko and moussaka, and owners who have been there for decades.
+Family restaurants, mostly in Camden, Bayswater and Belsize Park, where Greek-Cypriot families settled from the 1950s: big meze menus, grills, kleftiko and moussaka.
 
 ### Daphne, Camden — three floors, run by one family since the 1980s
 
@@ -405,7 +405,7 @@ The family restaurants, most of them in Camden, Bayswater and Belsize Park, wher
 
 A Greek-Cypriot restaurant on three floors: floral booths and black-and-white photographs of Cypriot villages on the ground floor, whitewashed walls and tiled floors on the first. The Standard says the Lymbouri family has run it since the 1980s, in a corner of Camden it calls the old "Peloponnese Triangle".
 
-Time Out's orders are the **koubes**, deep-fried bulgur shells stuffed with lamb, then spanakopita and lamb souvlaki; Stylist's is **afelia**, pork in red wine. A Reddit reply calls it "quite good... I believe the owners are Cypriot".
+Time Out's orders are the **koubes**, deep-fried bulgur shells stuffed with lamb, then spanakopita and lamb souvlaki; Stylist's is **afelia**, pork in red wine.
 
 **Book by phone.**
 
@@ -453,7 +453,7 @@ Order one of the **meze feasts**, or the **kleftiko**; Time Out adds avgolemono 
 
 *££ · 8 Plender Street, NW1 0JT · Cited by 2 sources · [book a table](https://alexanderthegreatgreekrestaurant.co.uk/en/reservation)*
 
-A Greek taverna a few minutes from Camden Town station, with a private dining room. Gary Eats reviewed it in December 2024 after viewers sent him there from Andy's, a few seconds' walk away. On Reddit it is where "my Greek coworkers took me and it was fantastic".
+A Greek taverna a few minutes from Camden Town station, with a private dining room. Gary Eats reviewed it in December 2024 after viewers sent him there from Andy's, a few seconds' walk away.
 
 Reddit's orders are the **mixed meze** for a group and the **sheftalia**. House wine is £20.95 a bottle.
 
@@ -463,9 +463,9 @@ Reddit's orders are the **mixed meze** for a group and the **sheftalia**. House 
 
 *££ · Rosebery Avenue, EC1R 4RR · Cited by 2 sources*
 
-The Kolossi Grill opened in 1966 near Exmouth Market and fed generations of Guardian and Observer journalists. New owners, involved with the nearby Sekforde pub, took over the lease and renamed it Attica: the mock-Palladian front is now painted deep blue, the wood panelling cream, and the tables are marble under a canopy of fairy-lit twigs. Jay Rayner reviewed it in 2023: "It's not revelatory, it's much better than that." On Reddit in 2026 it is "a classic".
+The Kolossi Grill opened in 1966 near Exmouth Market and fed generations of Guardian and Observer journalists. New owners, involved with the nearby Sekforde pub, took over the lease and renamed it Attica: the mock-Palladian front is now painted deep blue, the wood panelling cream, and the tables are marble under a canopy of fairy-lit twigs. Jay Rayner reviewed it in 2023.
 
-Rayner's orders were the **tarama**, "whipped and frothy", **prawns saganaki** baked with feta and cherry tomatoes, and **sea bass** on new potatoes.
+Rayner's orders were the **tarama**, **prawns saganaki** baked with feta and cherry tomatoes, and **sea bass** on new potatoes.
 
 **A short menu now, where the old one was long.**
 
@@ -493,13 +493,13 @@ Time Out's orders are slow-cooked **octopus with fava** and pork marinated in re
 
 ## Palmers Green: Greek-Cypriot north London
 
-North London's Cypriot community moved up Green Lanes from the 1970s, and Palmers Green, Southgate and Wood Green still have the city's densest run of Cypriot bakeries, souvlaki counters and tavernas. Eater London's Jonathan Nunn called it "one of the luckiest neighbourhoods in the capital". Most of the food here is eaten on the go or at home, so the restaurants are fewer and quieter than the Turkish ocakbaşı grills down Green Lanes in Harringay.
+North London's Cypriot community moved up Green Lanes from the 1970s, and Palmers Green, Southgate and Wood Green still have the city's densest run of Cypriot bakeries, souvlaki counters and tavernas.
 
 ### Paneri Taverna, Wood Green — the mix kebab
 
 *£ · 340 High Road, N22 8JW · Cited by 4 sources*
 
-Eater London called it the souvlaki house "most resembling the experience in Cyprus": charcoal smoke, wicker chairs outside and regulars at the counter, with a dining room at the back for meze. The Standard noted the sign that still reads "Exclusive Greek cuisine".
+Eater London called it the souvlaki house "most resembling the experience in Cyprus": charcoal smoke, wicker chairs outside and regulars at the counter, and a dining room at the back for meze. The Standard noted the sign that still reads "Exclusive Greek cuisine".
 
 Order the **mix**: a giant Cypriot pitta filled with salted pork souvlaki, tomato, cucumber and **sheftalia**, the caul-fat pork sausages. The Standard adds pastitsio, stifado and keftedes.
 
@@ -519,7 +519,7 @@ Order the **mezedakia**, small dishes, and Hayden's favourite, the **fish meze**
 
 *£ · 44 High Street, Southgate, N14 6EB · Cited by 2 sources · [the restaurant's site](https://www.dionysus.co.uk/)*
 
-Dionysus began in the West End in the 1950s, as its own site puts it, and closed there in 2009; the sign came back in Southgate. A Reddit reply calls it "an authentic Greek Souvlaki House" whose pittas are "exactly as they are in Cyprus", and Eater London picks the grilled loukaniko and pastourma.
+Dionysus began in the West End in the 1950s, as its own site puts it, and closed there in 2009; the sign came back in Southgate. A Reddit reply says the pittas are "exactly as they are in Cyprus", and Eater London picks the grilled loukaniko and pastourma.
 
 The **mixed souvlaki** in Cypriot pitta is the order; the menu also runs to kleftiko, louvi (black-eyed beans with greens) and makaronia tou fournou.
 
@@ -527,7 +527,7 @@ The **mixed souvlaki** in Cypriot pitta is the order; the menu also runs to klef
 
 ### Also on the strip
 
-Named by one source each, mostly Eater London's 2020 and 2022 maps. Check before travelling: these are the oldest recommendations on the page.
+Named by one source each, mostly Eater London's 2020 and 2022 maps.
 
 | Place | What it is | Where |
 | --- | --- | --- |
@@ -546,7 +546,7 @@ Named by one source each, mostly Eater London's 2020 and 2022 maps. Check before
 
 *£ · 21 Bateman Street, W1D 3AL · #16 of 17, Time Out · Cited by 2 sources · [the restaurant's site](https://www.suvlaki.co.uk/)*
 
-A small room off Frith Street, from two founders from Athens, with a second branch in Shoreditch. Time Out says the meat is threaded on site daily and cooked over charcoal on a robata grill. On Reddit, asked to choose between it and The Real Greek chain, a regular said Suvlaki was "leagues better".
+A small room off Frith Street, from two founders from Athens, with a second branch in Shoreditch. Time Out says the meat is threaded on site daily and cooked over charcoal on a robata grill.
 
 **Wraps are £9.50 to £10,** skewer plates £11 to £12. Open until 9.30pm, and 10.30pm on Friday and Saturday.
 
@@ -554,7 +554,7 @@ A small room off Frith Street, from two founders from Athens, with a second bran
 
 *£ · Tooting Broadway Market and Colour Factory, Hackney Wick · Cited by 2 sources · [the restaurant's site](https://www.pittagoras.co.uk/)*
 
-A gyros counter in Tooting Broadway Market, with a second site at the Colour Factory in Hackney Wick; its co-founder Ilias is the third generation of a Kefalonian restaurant family. MyLondon called the wraps "some of the best Greek wraps and dishes in London", and a Reddit reply "by far the best gyro I've had".
+A gyros counter in Tooting Broadway Market, with a second site at the Colour Factory in Hackney Wick; its co-founder Ilias is the third generation of a Kefalonian restaurant family. MyLondon called the wraps "some of the best Greek wraps and dishes in London".
 
 Order the **chicken gyros wrap**, with chips inside, or a souvlaki platter.
 
@@ -566,7 +566,7 @@ Order the **chicken gyros wrap**, with chips inside, or a souvlaki platter.
 
 Opened in Swiss Cottage in 2018 by Tony Shyti, who learned to cook in Greek restaurants as a teenager. MyLondon reported in 2023 that it had won Best Greek Restaurant at the British Kebab Awards three years running. A Reddit reply recommends the Ealing branch "for cheap takeaway (souvlaki wraps etc)".
 
-**A small chain now, with more branches opening;** the three above are the ones the sources name.
+**A small chain;** the three above are the branches the sources name.
 
 ### The Souvlaki, Kingston and East Sheen — the takeaway award winner
 
