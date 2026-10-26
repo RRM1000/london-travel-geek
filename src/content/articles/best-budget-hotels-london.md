@@ -3,7 +3,8 @@ title: "The Best Budget Hotels in London, Cross-Referenced and Price-Checked"
 seoTitle: "Best Budget Hotels in London 2026, Price-Checked"
 description: "The budget hotels London's lists agree on, each priced on five nights across the year. Most of the central favourites cost more than £150 a night. These are the ones that don't."
 publishedAt: 2026-09-16
-updatedAt: 2026-10-07
+updatedAt: 2026-10-26
+reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -22,9 +23,9 @@ faq:
     a: "In Which?'s member survey published in November 2025, Wetherspoon Hotels scored 76% and Premier Inn 73%, while Travelodge scored 59% and ibis budget 57%. Those are scores for each brand across the UK, not for its London hotels."
 ---
 
-We priced 46 budget hotels that London's lists and travellers name, each on the same five nights across the year. 22 made this guide: 3 in central London, and 19 further out, near a fast train into town. It covers hotels only, priced on their cheapest double or twin, which at some hotels is a windowless room. [Hostels](/articles/best-hostels-london/), [capsule hotels](/articles/pod-hotels-london/) and [windowless hotels](/articles/windowless-hotel-rooms-london/), where every room has no window, each have their own guide.
+We priced 46 budget hotels that London's lists and travellers name, each on the same five nights across the year. 22 made this guide: 3 in central London, and 19 further out, near a fast train into town. Hotels are priced on their cheapest double or twin, which at some is a windowless room. [Hostels](/articles/best-hostels-london/), [capsule hotels](/articles/pod-hotels-london/) and [windowless hotels](/articles/windowless-hotel-rooms-london/) have their own guides.
 
-This page isn't our opinion. Every hotel here is named by independent lists, blogs and travellers, and was kept only if its typical night came to **£150 or less**.
+Every hotel here is named by independent lists, blogs and travellers, and was kept only if its typical night came to **£150 or less**.
 
 > 💡 **The Short Version:** Only three central London hotels the lists agree on came in at £150 a night or less: **[The Z Hotel Shoreditch](#the-z-hotel-shoreditch)** (£150 typical), **[hub by Premier Inn London Shoreditch](#hub-by-premier-inn-london-shoreditch)** (£131) and **[hub by Premier Inn London King's Cross](#hub-by-premier-inn-london-kings-cross)** (£137). Go further out on a fast train and 19 more do, from **[Kip Hotel](#kip-hotel)** in Hackney (£81) and **[Travelodge London Docklands](#travelodge-london-docklands)** (£81.99) to Time Out's number one, **[Good Hotel London](#good-hotel-london)** (£150). **Book a Sunday if you can**: at the same hotel, the October Saturday cost a median 72% more.
 >
@@ -37,7 +38,7 @@ This page isn't our opinion. Every hotel here is named by independent lists, blo
 
 ## What a night actually costs
 
-We priced every hotel the same way: the cheapest double or twin for two adults, for one night, with taxes and fees, on the five nights below. **Its typical night is the middle of those prices**, and that decides whether it's in.
+Every hotel was priced the same way: the cheapest double or twin for two adults, for one night, with taxes and fees, on the five nights below. **Its typical night is the middle of those prices**, and that decides whether it's in.
 
 | Night | Date | Central London | Further out |
 |---|---|---|---|
@@ -49,7 +50,7 @@ We priced every hotel the same way: the cheapest double or twin for two adults, 
 
 *The middle price that night across the hotels we priced, 19 in central London and 26 further out, among those with a room.*
 
-**Book the Sunday if you can.** It was the cheapest of the five nights at 34 of the 46 hotels, and at the same hotel the October Saturday, six days later, cost a median 72% more. At 14 hotels it cost double or more. The December Saturday was the dearest night in central London, and the October one further out.
+**Book the Sunday if you can.** It was the cheapest of the five nights at 34 of the 46 hotels, and the October Saturday, six days later, cost a median 72% more at the same hotel. At 14 hotels it cost double or more. The December Saturday was the dearest night in central London, and the October one further out.
 
 ## Central London hotels at £150 or less
 
@@ -61,7 +62,7 @@ We priced every hotel the same way: the cheapest double or twin for two adults, 
 
 *A family room at The Z Hotel Shoreditch.*
 
-**136-144 City Road, EC1V 2RL.** Z Hotels save money on floor space, not on location, and on all five nights we priced, the cheapest double here was one with **no window**. The Hotel Guru puts it on its budget list from £125, and The Holiday Lab gives $110 to $135 a night. Steffen, a German blogger who says he's tested every hotel he lists, says you can't go wrong with it. A YouTube review from June 2026 gave it three and a half stars, for a double at about £59, and mentioned noisy plumbing.
+**136-144 City Road, EC1V 2RL.** On all five nights we priced, the cheapest double here was one with **no window**. The Hotel Guru puts it on its budget list from £125.
 
 It's a minute's walk from Old Street station. Z's free membership takes 10% off the public rate and adds complimentary cheese and wine. Family rooms sleep four, on two beds stacked as bunks with separate stairs to the top one.
 
@@ -73,9 +74,9 @@ It's a minute's walk from Old Street station. Z's free membership takes 10% off 
 
 *A room at hub by Premier Inn London Shoreditch.*
 
-**Quaker Street, E1 6SN.** The cheapest night in central London was here: **£63 on a Sunday in October**. A Wednesday in February was £90, and the two Saturdays in October and December were £167 and £179. A traveller on r/uktravel says it "can be vastly cheaper and especially on Sunday and Monday nights", and our prices show the same thing.
+**Quaker Street, E1 6SN.** The cheapest night in central London was here: **£63 on a Sunday in October**. A Wednesday in February was £90, and the two Saturdays in October and December were £167 and £179. A traveller on r/uktravel says it "can be vastly cheaper and especially on Sunday and Monday nights".
 
-hub is Premier Inn's small-room brand. A Standard room is 11 square metres with a double bed, storage underneath it and a touchscreen for the lights and heating. A Bigger room is 14 square metres with a king-size bed. Travel Off Script says the rooms are compact "but nice and prices low if you get a deal", and Wanderings with Bri picks it for nightlife. It's four minutes from Shoreditch High Street on the Overground.
+hub is Premier Inn's small-room brand. A Standard room is 11 square metres with a double bed, storage underneath it and a touchscreen for the lights and heating. A Bigger room is 14 square metres with a king-size bed. It's four minutes from Shoreditch High Street on the Overground.
 
 ### hub by Premier Inn London King's Cross
 
@@ -85,17 +86,17 @@ hub is Premier Inn's small-room brand. A Standard room is 11 square metres with 
 
 *The lobby at hub by Premier Inn London King's Cross.*
 
-**50 Wharfdale Road, N1 9FA.** Six minutes from King's Cross St Pancras, which puts the Eurostar, six Underground lines and the Regent's Canal on the doorstep. The rooms are the same as at every hub: 11 square metres for the Standard double, 14 for the Bigger room with a king-size bed. The Sunday we priced was £92 and the February Wednesday £114.
+**50 Wharfdale Road, N1 9FA.** Six minutes from King's Cross St Pancras, for the Eurostar, six Underground lines and the Regent's Canal. The rooms are the same as at every hub: 11 square metres for the Standard double, 14 for the Bigger room with a king-size bed. The Sunday we priced was £92 and the February Wednesday £114.
 
-This one is mostly backed by people who've stayed. "Stayed at Premier Inn Hub Kings X. Was v nice," says one Mumsnet poster. On r/TravelHacks: "Certainly budget but reasonably modern, clean, and comfortable." Candace Abroad lists it among London hotels under £150.
+A Mumsnet poster found it "v nice", and on r/TravelHacks it is "reasonably modern, clean, and comfortable". Candace Abroad lists it among London hotels under £150.
 
 ## Further out, on a fast line
 
-A cheaper hotel further out is only a saving if the journey in is quick. So we started with the areas, not the hotels. Every area here passed one test first: **a direct train, with no change, to the West End or the City in 30 minutes or less**, on a line that runs all day. The minutes below are time on the train, from TfL's Journey Planner for a weekday morning. The walk from the hotel to the station is given in each entry. For choosing an area by what the trip is for, see [the best areas to stay in London](/articles/best-areas-to-stay-in-london/).
+Every area here has **a direct train, with no change, to the West End or the City in 30 minutes or less**, on a line that runs all day. The minutes below are time on the train, from TfL's Journey Planner for a weekday morning; each entry gives the walk to the station. To choose an area by what the trip is for, see [the best areas to stay in London](/articles/best-areas-to-stay-in-london/).
 
-The saving is real. Across the 26 hotels we priced further out, the middle typical night was **£141.50**, against **£179** across the 19 in central London. **19 of the 26 came in at £150 or less; in central London, 3 of the 19 did.**
+Across the 26 hotels we priced further out, the middle typical night was **£141.50**, against **£179** across the 19 in central London. **19 of the 26 came in at £150 or less; in central London, 3 of the 19 did.**
 
-We timed 151 stations in zones 2 to 4. These are the areas with a hotel at £150 or less, fastest first.
+These are the areas with a hotel at £150 or less, fastest first.
 
 | Area | Station | West End | City | The train |
 |---|---|---|---|---|
@@ -124,7 +125,7 @@ We timed 151 stations in zones 2 to 4. These are the areas with a hotel at £150
 
 *A room at ibis budget London Whitechapel.*
 
-**100 Whitechapel Road, E1 1JG.** Mumsnet's pick for east London, with one warning: the rooms only sleep three. A YouTube review from July 2026 gave it four stars, for a double at about £62, and called ibis budget "probably the best of the budget brands although not the cheapest". Visit London lists it for "the low-cost and great location".
+**100 Whitechapel Road, E1 1JG.** Mumsnet's pick for east London, with one warning: the rooms only sleep three. Visit London lists it for "the low-cost and great location".
 
 The October Sunday was £84 and the April Saturday £107; the December and October Saturdays were £144 and £168. From Whitechapel station, six minutes' walk, the Elizabeth line reaches Liverpool Street in 3 minutes.
 
@@ -136,7 +137,7 @@ The October Sunday was £84 and the April Saturday £107; the December and Octob
 
 *A double at New Road Hotel.*
 
-**103-107 New Road, E1 1HJ.** A 79-room hotel in a former textile factory, the detail ELLE and The Frugality both pick out. Every room gets daylight and has a rainfall shower and air conditioning. There's no kettle: tea, coffee and hot chocolate are free from machines on every floor. Suitcase calls it "cheap and cheerful".
+**103-107 New Road, E1 1HJ.** A 79-room hotel in a former textile factory. Every room gets daylight and has a rainfall shower and air conditioning. There's no kettle: tea, coffee and hot chocolate are free from machines on every floor.
 
 The cheapest room is the Pocket Double: £97 on the February Wednesday and £109 on the October Sunday. On the October Saturday the cheapest double left was a Warehouse Double, at £215. Whitechapel station is five minutes' walk.
 
@@ -144,7 +145,7 @@ The cheapest room is the Pocket Double: £97 on the February Wednesday and £109
 
 *Typical night £134 · £71 to £203 on our five nights · Stratford · 6 min from Stratford · Cited by 2 sources · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-stratford.html)*
 
-**9 International Square, Westfield Stratford City, E20 1EE.** Inside the Westfield Stratford City development, and a Mumsnet poster finds it "handy for Westfield". Wandermust Family lists it among its family bases further out.
+**9 International Square, Westfield Stratford City, E20 1EE.** Inside the Westfield Stratford City development, "handy for Westfield" according to a Mumsnet poster.
 
 The October Sunday was £71 and the February Wednesday £106; the October and December Saturdays were £186 and £203. Stratford International is three minutes' walk, but the Elizabeth line leaves from Stratford station, six minutes away, and reaches Liverpool Street in 7.
 
@@ -152,7 +153,7 @@ The October Sunday was £71 and the February Wednesday £106; the October and De
 
 *Typical night £143 · £99 to £199 on our five nights · Stratford · 3 min from Stratford · Cited by 4 sources · [Hotels.com](hotelscom:626428768)*
 
-**86 Great Eastern Road, E15 1GR.** Marriott's Moxy brand, three minutes from Stratford station. ELLE promises "good value, sleek design and top eco credentials", and Visit London calls it "boutique on a budget". A traveller on Reddit found it a "great hotel and price, but far away from everything", though the Elizabeth line reaches Tottenham Court Road in 13 minutes.
+**86 Great Eastern Road, E15 1GR.** Marriott's Moxy brand, three minutes from Stratford station. Visit London calls it "boutique on a budget". A Reddit traveller found it "far away from everything", though the Elizabeth line reaches Tottenham Court Road in 13 minutes.
 
 The cheapest room on all five nights was a double with one queen bed: £99 on the October Sunday and £124 on the February Wednesday, then £143 to £199 on the Saturdays.
 
@@ -160,7 +161,7 @@ The cheapest room on all five nights was a double with one queen bed: £99 on th
 
 *Typical night £106 · £84 to £168 on our five nights · Canning Town · next to Canning Town · Cited by 2 sources · [Hotels.com](hotelscom:631170048)*
 
-**8 Silvertown Way, E16 1ED.** Next to Canning Town station, where the Jubilee line reaches London Bridge in 11 minutes and Westminster in 17, and runs all night at weekends. The Budget Savvy Travelers call it "both affordable and convenient", and a Reddit poster singles out "particularly the Canning Town one".
+**8 Silvertown Way, E16 1ED.** Next to Canning Town station, where the Jubilee line reaches London Bridge in 11 minutes and Westminster in 17, and runs all night at weekends. The Budget Savvy Travelers call it "both affordable and convenient".
 
 The February Wednesday was £84, and the April Saturday and October Sunday £100 and £106. The October and December Saturdays were £153 and £168.
 
@@ -168,7 +169,7 @@ The February Wednesday was £84, and the April Saturday and October Sunday £100
 
 *Typical night £101 · £76 to £185 on our five nights · Royal Docks · 6 min from Custom House · Cited by 2 sources · [Hotels.com](hotelscom:215235)*
 
-**9 Western Gateway, E16 1AB.** Beside the ExCeL exhibition centre, six minutes' walk from Custom House, where the Elizabeth line reaches Liverpool Street in 11 minutes. A Mumsnet poster calls it "excellent - cheaper than a PI", meaning Premier Inn, and a Reddit poster makes the point about the train: "central London in 15 mins".
+**9 Western Gateway, E16 1AB.** Beside the ExCeL exhibition centre, six minutes' walk from Custom House, where the Elizabeth line reaches Liverpool Street in 11 minutes. A Mumsnet poster calls it "excellent - cheaper than a PI", meaning Premier Inn.
 
 The October Sunday was £76, and the April Saturday and February Wednesday £97 and £101. The October and December Saturdays were £185 and £156.
 
@@ -180,13 +181,13 @@ The October Sunday was £76, and the April Saturday and February Wednesday £97 
 
 *Good Hotel London, moored at Royal Victoria Dock.*
 
-**Western Gateway, E16 1FA.** A floating hotel, moored at Royal Victoria Dock since 2016, and **Time Out's number one** budget hotel in London. Its prices barely moved: £150 to £153 on three of the five nights, and **£75 on the October Sunday**. The rooms are Dutch-designed, with walk-in rain showers, and there's a bar on the roof. The hotel's own pledge is that every night's sleep helps a disadvantaged child go to school for a week.
+**Western Gateway, E16 1FA.** A floating hotel, moored at Royal Victoria Dock, and **Time Out's number one** budget hotel in London. Its prices barely moved: £150 to £153 on three of the five nights, and **£75 on the October Sunday**. The rooms have walk-in rain showers, and there's a bar on the roof.
 
 ![The roof terrace bar at Good Hotel London at sunset, with the O2 and the Canary Wharf towers across the water](../../assets/articles/best-budget-hotels-london/good-hotel-london-roof-terrace.jpg)
 
 *The roof bar at Good Hotel London.*
 
-Lonely Planet's warning is that the rooms are compact, "but the Elizabeth Line gets you into central London quickly".
+Lonely Planet warns that the rooms are compact.
 
 #### Kip Hotel
 
@@ -196,7 +197,7 @@ Lonely Planet's warning is that the rooms are compact, "but the Elizabeth Line g
 
 *A double at Kip Hotel.*
 
-**2 Aspland Grove, E8 1JW.** A design-led hotel next to Hackney Central station that sells its rooms by size, from solo cabins and a "snug double for two" up to large doubles, family rooms and a penthouse. Holiday Expert warns that the cheapest rooms are singles with no window and a shared bathroom; the prices here are for a double.
+**2 Aspland Grove, E8 1JW.** A hotel next to Hackney Central station that sells its rooms by size, from solo cabins and a "snug double for two" up to large doubles, family rooms and a penthouse. The cheapest rooms are singles with no window and a shared bathroom; the prices here are for a double.
 
 The October Sunday was £72 and the February Wednesday £81, but the December Saturday was £163. For the centre, walk five minutes to Hackney Downs, where the Overground reaches Liverpool Street in 12 minutes.
 
@@ -208,17 +209,17 @@ The October Sunday was £72 and the February Wednesday £81, but the December Sa
 
 *The Travelodge tower at East India.*
 
-**1 Oregano Drive, E14 2AE.** A new-build Travelodge at East India, which Travelodge calls London Docklands Central, and the cheapest night in this guide: **£34.99 on the October Sunday**. The February Wednesday was £42.99, and the three Saturdays £81.99 to £111.99.
+**1 Oregano Drive, E14 2AE.** A new-build Travelodge at East India, which Travelodge calls London Docklands Central, with the cheapest night in this guide: **£34.99 on the October Sunday**. The February Wednesday was £42.99, and the three Saturdays £81.99 to £111.99.
 
-A YouTube review gave it four stars for a £49 double: "a decent option if you don't mind being away from London's nightlife". On Mumsnet: "clean and spacious, depending on the day really cheap". The DLR from East India reaches Bank in 13 minutes, but only six trains an hour.
+A Mumsnet poster found it "clean and spacious". The DLR from East India reaches Bank in 13 minutes, but only six trains an hour.
 
 #### Premier Inn London Greenwich
 
 *Typical night £142 · £66 to £166 on our five nights · Greenwich · 4 min from Deptford Bridge · Cited by 4 sources · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-greenwich.html)*
 
-**43-81 Greenwich High Road, SE10 8JL.** Globetotting calls it "ideal for exploring Greenwich", and two more family travel blogs list it. The October Sunday was £66 and the February Wednesday £86; the three Saturdays were £142 to £166.
+**43-81 Greenwich High Road, SE10 8JL.** Three family travel blogs list it. The October Sunday was £66 and the February Wednesday £86; the three Saturdays were £142 to £166.
 
-It's the slowest journey in this guide. Deptford Bridge is four minutes' walk, the DLR takes 25 minutes to Bank, and there's no direct train to the West End.
+This is the slowest journey in the guide: Deptford Bridge is four minutes' walk, the DLR takes 25 minutes to Bank, and there's no direct train to the West End.
 
 ### South London
 
@@ -230,7 +231,7 @@ It's the slowest journey in this guide. Deptford Bridge is four minutes' walk, t
 
 *The Tommyfield, Kennington Lane.*
 
-**185 Kennington Lane, SE11 4EZ.** A pub with six bedrooms upstairs, each with a king or super-king bed. Downstairs, The Sunday Telegraph put it among Britain's best pubs for Sunday lunch, and its function room hosts a stand-up comedy club. The Hotel Guru and Forever Out of Office both list its rooms.
+**185 Kennington Lane, SE11 4EZ.** A pub with six bedrooms upstairs, each with a king or super-king bed. The Hotel Guru and Forever Out of Office both list its rooms.
 
 The October Sunday was £139, the February Wednesday £149 and the April Saturday £189. Kennington station is five minutes' walk, and the Northern line reaches London Bridge in 6 minutes and Leicester Square in 7.
 
@@ -244,13 +245,13 @@ The October Sunday was £139, the February Wednesday £149 and the April Saturda
 
 *A double at W12 Rooms.*
 
-**54 Uxbridge Road, W12 8LP.** Nineteen rooms, with Westfield London on the doorstep, and one of the cheapest hotels in this guide. It was **sold out on the October Saturday**, and £80 to £130 on the other four nights. Wanderings with Bri calls it "the cutest stay on the list". On r/LondonTravel: "£80 a night and clean and well connected." The Central line from Shepherd's Bush reaches Bond Street in 10 minutes.
+**54 Uxbridge Road, W12 8LP.** Nineteen rooms, with Westfield London on the doorstep. It was **sold out on the October Saturday**, and £80 to £130 on the other four nights. On r/LondonTravel: "£80 a night and clean and well connected." The Central line from Shepherd's Bush reaches Bond Street in 10 minutes.
 
 #### Mowbray Court Hotel
 
 *Typical night £119 · £85 to £176 on three of our five nights · Earl's Court · 1 min from Earl's Court · Cited by 2 sources · [Hotels.com](hotelscom:608469)*
 
-**28-32 Penywern Road, SW5 9SU.** A hotel in a listed Victorian building around the corner from Earl's Court station, with a lift and a 24-hour front desk. The rooms are practical: a twin is 12 square metres, and every room has its own shower room and a kettle. Breakfast is £10 a head. The Holiday Lab and Her Nomad Eyes both list it.
+**28-32 Penywern Road, SW5 9SU.** A hotel in a listed Victorian building around the corner from Earl's Court station, with a lift and a 24-hour front desk. A twin is 12 square metres, and every room has its own shower room and a kettle. Breakfast is £10 a head. The Holiday Lab and Her Nomad Eyes both list it.
 
 The February Wednesday was £85 and the October Sunday £119; the April Saturday was £176. The Piccadilly line from Earl's Court reaches Green Park in 10 minutes and runs all night at weekends.
 
@@ -262,7 +263,7 @@ The February Wednesday was £85 and the October Sunday £119; the April Saturday
 
 *Inside The Rockwell.*
 
-**181-183 Cromwell Road, SW5 0SF.** An independent hotel in a Victorian townhouse, with a bar, a restaurant and a garden, and rooms from singles up to garden rooms and a mezzanine suite. The Evening Standard called it a bargain in 2024, with rooms "just over a hundred quid", and a Reddit poster found it "lovely and really affordable".
+**181-183 Cromwell Road, SW5 0SF.** An independent hotel in a Victorian townhouse, with a bar, a restaurant and a garden, and rooms from singles up to garden rooms and a mezzanine suite. The Evening Standard called it a bargain in 2024, with rooms "just over a hundred quid".
 
 The February Wednesday was £105 and the October Sunday £120, but the October Saturday was £190. Earl's Court station is five minutes' walk.
 
@@ -274,7 +275,7 @@ The February Wednesday was £105 and the October Sunday £120, but the October S
 
 *A double at the Earl's Court Premier Inn.*
 
-**11 Knaresborough Place, SW5 0TJ.** Mumsnet's guide to budget family hotels calls it the best overall, and two family travel blogs pick it for the museums: Globetotting says the Natural History Museum, the Science Museum and the Royal Albert Hall are a short walk away. The Sunday we priced was £85 and the February Wednesday £104. Both October and December Saturdays were over £200, so this is a weeknight hotel if the budget is tight.
+**11 Knaresborough Place, SW5 0TJ.** Mumsnet's guide to budget family hotels calls it the best overall, and two family travel blogs pick it for the museums, a short walk away. The Sunday we priced was £85 and the February Wednesday £104. Both October and December Saturdays were over £200, so this is a weeknight hotel if the budget is tight.
 
 It has family rooms and a restaurant, and when an adult orders a Premier Inn breakfast, up to two children eat breakfast free.
 
@@ -290,7 +291,7 @@ Our Sunday and Wednesday bear that out, at £59 and £64. The three Saturdays we
 
 *Typical night £114 · £47 to £142 on our five nights · Hanger Lane · next to Hanger Lane · Cited by 2 sources · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-hanger-lane.html)*
 
-**1-6 Ritz Parade, W5 3RA.** The cheapest Premier Inn we priced: £47 on the October Sunday, £76 on the February Wednesday, and no night over £142. A Mumsnet poster found it "very handy for the Central line", which runs from Hanger Lane station, next door, to Bond Street in 21 minutes, 10 trains an hour.
+**1-6 Ritz Parade, W5 3RA.** The cheapest Premier Inn we priced: £47 on the October Sunday, £76 on the February Wednesday, and no night over £142. The Central line runs from Hanger Lane station, next door, to Bond Street in 21 minutes, 10 trains an hour.
 
 ### North London
 
@@ -298,7 +299,7 @@ Our Sunday and Wednesday bear that out, at £59 and £64. The three Saturdays we
 
 *Typical night £119 · £89 to £208 on our five nights · Golders Green · 5 min from Golders Green · Cited by 3 sources · [noxhotels.co.uk](https://www.noxhotels.co.uk/en/hotel-golders-green-in-golders-green/)*
 
-**146-150 Golders Green Road, NW11 8HE.** A hotel with a 24-hour reception, selling doubles and double studios; some studios are on the lower ground floor, with no window. The Hotel Journal calls it "contemporary apartment-style accommodation", and a traveller on Reddit found it "budget friendly but clean".
+**146-150 Golders Green Road, NW11 8HE.** A hotel with a 24-hour reception, selling doubles and double studios; some studios are on the lower ground floor, with no window. A Reddit traveller found it "budget friendly but clean".
 
 Four of our nights were £89 to £124; the April Saturday was £208. Golders Green station is five minutes' walk, and the Northern line reaches Tottenham Court Road in 17 minutes.
 
@@ -310,7 +311,7 @@ Four of our nights were £89 to £124; the April Saturday was £208. Golders Gre
 
 *The café and bar at Green Rooms.*
 
-**13-27 Station Road, N22 6UW.** An arts hotel opposite Wood Green station, and ELLE notes that artists and creatives get a discount. The standard and corner rooms share bathrooms on both floors; there are also en-suite rooms, studio apartments for up to four adults, and two dormitories. Wanderings with Bri calls it "an artsy, affordable hotel that supports creatives".
+**13-27 Station Road, N22 6UW.** An arts hotel opposite Wood Green station, with a discount for artists and creatives. The standard and corner rooms share bathrooms on both floors; there are also en-suite rooms, studio apartments for up to four adults, and two dormitories.
 
 The October Sunday was £88, and the October and December Saturdays £96 and £80. The Piccadilly line reaches Leicester Square in 23 minutes and runs all night at weekends.
 
@@ -338,11 +339,11 @@ These hotels are named by four or more independent sources, but their typical ni
 | [The Resident Victoria](hotelscom:545888) | 4 | £258 | £222 to £272 |
 | [The Hoxton, Holborn](hotelscom:266481024) | 4 | £304 | £239 to £369 |
 
-Four more had too few nights to judge. The Corner London City, the most-cited budget hotel of all, was £132 on the October Sunday and £153 on the December Saturday, and sold out on the October Saturday; its 2027 prices on Hotels.com, £446 to £1,008 a night for every room, are too far above those to count. The Culpeper had rooms on two of the five, at £185 both times, and St. Athans Hotel on one, at £106. The Lime Tree Hotel wouldn't sell a single night for two on any of them.
+The Corner London City, the most-cited budget hotel of all, was £132 on the October Sunday and £153 on the December Saturday, and sold out on the October Saturday; its 2027 prices on Hotels.com run from £446 to £1,008 a night. The Culpeper had rooms on two of the five nights, at £185 both times, and St. Athans Hotel on one, at £106.
 
 ## The budget chains, compared
 
-Which? asks its members to score the hotel chains they've stayed with. Its latest survey, published in November 2025, covers 7,287 leisure stays at 32 large chains across the UK. These are scores for each brand as a whole, not for any London branch.
+Which? members score the hotel chains they've stayed with. Its survey, published in November 2025, covers 7,287 leisure stays at 32 large chains across the UK. These are scores for each brand as a whole, not for any London branch.
 
 | Chain | Which? member score | Place, of 32 |
 |---|---|---|
@@ -366,7 +367,7 @@ Which? members still rate Premier Inn "far superior" to Travelodge, which got tw
 
 ## Family rooms on a budget
 
-We priced a double for two adults, so for a family these are the hotels to price first rather than a verdict on what a family room costs.
+Our prices are for a double, so for a family these are the hotels to price first.
 
 **[Premier Inn London Kensington (Earl's Court)](#premier-inn-london-kensington-earls-court)** is the one the family sources agree on most. Mumsnet calls it the best budget family hotel in London, and up to two children eat breakfast free when an adult orders one. **Travelodge London Covent Garden** is Mumsnet's pick in central London, and Lost in Landmarks puts its family rooms from around £150 for two adults and two children. **[ibis budget London Whitechapel](#ibis-budget-london-whitechapel)** is Mumsnet's pick in east London, with the warning that its rooms only sleep three. **[The Z Hotel Shoreditch](#the-z-hotel-shoreditch)** has family rooms for four, on two beds stacked as bunks.
 
