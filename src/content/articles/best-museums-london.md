@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Great_Russell
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-08-28
-updatedAt: 2026-10-25
+updatedAt: 2026-10-26
 reviewBy: 2026-11-29
 sites: [london]
 canonicalSite: london
@@ -31,12 +31,10 @@ faq:
 
 London's great museums are free at the door, and most visitors see three of them. The Natural History Museum was the UK's most visited attraction in 2025 with over seven million people through the door — and a mile away, a house preserved exactly as its owner left it in 1837 gets a fraction of that.
 
-This guide covers both: the ones you have heard of, and the ones worth crossing London for.
-
-> 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does, and both deserve it. **Sir John Soane's Museum** is a house left exactly as its owner had it in 1837, and free. **The Wellcome Collection** is the strangest free thing in London. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
+> 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does. **Sir John Soane's Museum** is a house left exactly as its owner had it in 1837, and free. **The Wellcome Collection** is a free museum of medical objects. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Visitor figures are ALVA's audited numbers for 2025. Admission prices are the museums' own and were checked in August 2026 — special exhibitions inside free museums are almost always ticketed separately.
+> No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Visitor figures are ALVA's audited numbers for 2025. Special exhibitions inside free museums are almost always ticketed separately.
 
 ## Where they are
 
@@ -64,7 +62,7 @@ This guide covers both: the ones you have heard of, and the ones worth crossing 
 
 *The Assyrian galleries.*
 
-The Rosetta Stone, the Parthenon sculptures and the Sutton Hoo helmet, under Foster's glass-roofed Great Court — a covered square that was an open courtyard hidden from the public for 150 years until it opened in 2000.
+The Rosetta Stone, the Parthenon sculptures and the Sutton Hoo helmet, under Foster's glass-roofed Great Court — a covered square that was a closed courtyard for 150 years until it opened in 2000.
 
 Eight million objects, of which perhaps one percent is on display, and it is **impossible to cover in one visit**. Pick two galleries and accept it: Egypt and Assyria on the ground floor if it is your first time, the Enlightenment Gallery if it is not.
 
@@ -78,7 +76,7 @@ Our [British Museum guide](/articles/british-museum-guide/) has the Bayeux Tapes
 
 Over **7 million visits in 2025**, an all-time record for a British museum — and the Waterhouse building is as much a sight as the collection, a Romanesque cathedral of terracotta with carved animals worked into every column and arch.
 
-Hintze Hall and the blue whale are what people come for, along with the dinosaur gallery and the earthquake simulator in the Red Zone. The **Darwin Centre cocoon**, holding the spirit collection, is the part most visitors walk past.
+Hintze Hall and the blue whale are what people come for, along with the dinosaur gallery and the earthquake simulator in the Red Zone. The **Darwin Centre cocoon** holds the spirit collection.
 
 **Come at opening or late afternoon.** The queue on Cromwell Road is at its worst between 11am and 2pm, especially in school holidays. The **Exhibition Road entrance is consistently quieter**, and connects to the Science Museum without going back outside.
 
@@ -90,11 +88,11 @@ Hintze Hall and the blue whale are what people come for, along with the dinosaur
 
 *The Science Museum's ground-floor galleries.*
 
-Next door to the Natural History Museum, and **the better of the two with older children** — less queuing, more to press, and rooms that reward curiosity rather than crowd management.
+Next door to the Natural History Museum, and **the better of the two with older children** — less queuing and more to press.
 
 The Energy Hall of beam engines, Stephenson's Rocket, the Apollo 10 command module and the Information Age gallery are the spine of it. **Wonderlab is ticketed** while the rest of the museum is free, which catches families out at the door.
 
-**It is quieter than its neighbour all day.** If you are doing both in one visit, do the Natural History Museum first thing and cross over here at lunchtime when the queues outside have peaked.
+**It is quieter than its neighbour all day.** If you are doing both in one visit, do the Natural History Museum first thing and cross over here at lunchtime.
 
 Anything with a start time rather than an opening time — Royal Institution Discourses, Gresham College lectures, Wellcome Lates, the Natural History Museum's evening panels, and the Victorian pumping engines that run on published dates — is in [science events in London](/articles/science-events-london/).
 
@@ -108,9 +106,9 @@ Anything with a start time rather than an opening time — Royal Institution Dis
 
 The national collection of international modern art inside Giles Gilbert Scott's power station, with the **Turbine Hall** running its full length — a room 155 metres long and 35 metres high, and free to walk into whether or not an installation is in it.
 
-The permanent collection is free and arranged thematically rather than chronologically, which some people find liberating and others infuriating. **Special exhibitions are ticketed** and are usually what you plan a visit around.
+The permanent collection is free and arranged thematically rather than chronologically. **Special exhibitions are ticketed.**
 
-**The Blavatnik Building has a free upper-level view** across the river to St Paul's, and the walk over the Millennium Bridge to get there is half the pleasure. Check the current access arrangements on the day — the terrace has been subject to restrictions.
+**The Blavatnik Building has a free upper-level view** across the river to St Paul's.
 
 <div data-stay-strip></div>
 
@@ -120,9 +118,9 @@ The permanent collection is free and arranged thematically rather than chronolog
 
 Housed in what was **Bethlem Royal Hospital — the original Bedlam** — with two enormous naval guns on the lawn outside and a Spitfire and a V-2 rocket hanging in the atrium.
 
-The First and Second World War galleries are the core and run chronologically from the ground up, so start at the bottom. The **Holocaust Galleries** are among the most carefully made permanent exhibitions in the country, and are deliberately laid out so you cannot pass through them by accident.
+The First and Second World War galleries are the core and run chronologically from the ground up, so start at the bottom. The **Holocaust Galleries** are a separate permanent exhibition.
 
-**Allow three hours and eat before you come.** It sits in a park ten minutes from Lambeth North, away from anywhere with much choice, and the galleries are dense enough that people run out of stamina before they run out of museum.
+**Allow three hours and eat before you come.** It sits in a park ten minutes from Lambeth North, away from anywhere with much choice.
 
 ![The domed portico of the Imperial War Museum with two large naval guns mounted on the lawn in front](../../assets/articles/best-museums-london/imperial-war-museum.jpg)
 
@@ -140,13 +138,13 @@ Two thousand paintings from the 1200s to 1900 at the National — Van Gogh's Sun
 
 *Van Gogh's Sunflowers.*
 
-The **Portrait Gallery round the corner** reopened in 2023 after a three-year rebuild and is markedly quieter. It is also the more interesting of the two if you like a story: the pictures are chosen for who is in them rather than who painted them.
+The **Portrait Gallery round the corner** reopened in 2023 after a three-year rebuild and is quieter; its pictures are chosen for who is in them rather than who painted them.
 
 ![A gallery wall of Tudor-era portraits at the National Portrait Gallery, including a coronation portrait of Elizabeth I in an ornate gilt frame](../../assets/articles/best-museums-london/national-portrait-gallery-elizabethan-portraits.jpg)
 
 *Inside the National Portrait Gallery.*
 
-**Both are free, and both are open late one night a week**, which is far and away the best time to go — Trafalgar Square empties, and the Sunflowers room is almost civilised. Check which evening before travelling.
+**Both are free and open late**: the National Gallery until 9pm on Fridays, the National Portrait Gallery until 9pm on Fridays and Saturdays.
 
 
 ![The blue whale skeleton suspended in the vaulted Hintze Hall of the Natural History Museum](../../assets/articles/best-museums-london/natural-history-museum-hintze-hall.jpg)
@@ -161,7 +159,7 @@ The **Portrait Gallery round the corner** reopened in 2023 after a three-year re
 
 ### Sir John Soane's Museum, Holborn
 
-*Free · Lincoln's Inn Fields*
+*Free · Lincoln's Inn Fields · open Wednesday to Sunday, 10am–5pm*
 
 ![The Soane Museum's Picture Room, densely hung with paintings, with a hinged wall panel visible open on the right revealing a further painting behind](../../assets/articles/best-museums-london/sir-john-soanes-museum-picture-room.jpg)
 
@@ -171,7 +169,7 @@ The architect's own house, **preserved by Act of Parliament exactly as he left i
 
 The Picture Room is the trick everyone remembers: hinged walls that open outwards to reveal more paintings behind the paintings, including Hogarth's *A Rake's Progress*.
 
-**It costs nothing.** Rooms are narrow and numbers are capped, so **entry is sometimes timed and there can be a queue on Lincoln's Inn Fields** — go on a weekday morning, and allow an hour.
+Rooms are narrow and numbers are capped, so **entry is sometimes timed and there can be a queue on Lincoln's Inn Fields** — go on a weekday morning, and allow an hour.
 
 ### Wellcome Collection, Bloomsbury
 
@@ -181,11 +179,11 @@ The Picture Room is the trick everyone remembers: hinged walls that open outward
 
 *The staircase to the Wellcome Collection's Reading Room.*
 
-Strange, and built around Henry Wellcome's collection of medical objects — a pharmacist who spent a fortune assembling artefacts about how humans have treated the body, from surgical tools to amulets.
+Built around Henry Wellcome's collection of medical objects — a pharmacist who assembled artefacts about how humans have treated the body, from surgical tools to amulets.
 
-The permanent displays sit alongside a rolling programme of exhibitions on medicine, illness and the body, which are consistently more thoughtful than the subject usually gets. The reading room upstairs is part library, part gallery, and you can sit in it.
+The permanent displays sit alongside a rolling programme of exhibitions on medicine, illness and the body. The reading room upstairs is part library, part gallery, and you can sit in it.
 
-**The most interesting free hour in London**, and it is a two-minute walk from Euston — which makes it the best possible way to kill time before a train.
+It is on Euston Road, a short walk from Euston.
 
 ### Grant Museum of Zoology, Bloomsbury
 
@@ -197,9 +195,9 @@ The permanent displays sit alongside a rolling programme of exhibitions on medic
 
 One cramped room of UCL's teaching collection — **68,000 specimens** in Victorian wooden cases, including the jar packed with preserved moles that has become internet-famous, and the skeleton of a quagga, an extinct half-zebra of which few remain anywhere.
 
-It is a working zoology collection rather than a designed visitor experience: labels are handwritten, cases are crammed, and nothing is dumbed down.
+It is a working zoology collection: labels are handwritten and cases are crammed.
 
-**Opening hours are short and tied to the university term**, so check before travelling — and allow half an hour, because there is only one room.
+**Opening hours are short and tied to the university term.** Allow half an hour, because there is only one room.
 
 ### Petrie Museum of Egyptian Archaeology, Bloomsbury
 
@@ -211,11 +209,11 @@ It is a working zoology collection rather than a designed visitor experience: la
 
 Where the British Museum has the monuments, the Petrie has the **ordinary things** — the pots, tools, beads and sandals of ordinary Egyptians, including the Tarkhan Dress, claimed as the world's oldest woven garment at around 5,000 years.
 
-The cases are dense, the lighting is dim enough that torches are handed out for some, and the effect is closer to a stockroom than a gallery. That is the appeal.
+The cases are dense, the lighting is dim enough that torches are handed out for some, and the effect is closer to a stockroom than a gallery.
 
-**Like the Grant, opening is limited and term-dependent** — check first. Both are inside UCL buildings, so follow the signs rather than expecting a grand entrance.
+**Like the Grant, opening is limited and term-dependent.** Both are inside UCL buildings, so follow the signs rather than expecting a grand entrance.
 
-Sir John Soane's on Lincoln's Inn Fields, the Grant on Gower Street and the Petrie on Malet Place are within fifteen minutes of each other, which makes the walk from Holborn up through Bloomsbury the densest run of museums in London.
+Sir John Soane's on Lincoln's Inn Fields, the Grant on Gower Street and the Petrie on Malet Place are within fifteen minutes of each other.
 
 ---
 
@@ -223,11 +221,11 @@ Sir John Soane's on Lincoln's Inn Fields, the Grant on Gower Street and the Petr
 
 ## Newly open
 
-The two biggest additions to London's museums in a generation both opened in the last eighteen months, and a third arrives in November 2026.
+V&A East opened two sites in Stratford in the last eighteen months, and the London Museum opens in November 2026.
 
 ### V&A East Storehouse, Stratford
 
-*Free · opened May 2025*
+*Free · opened May 2025 · open daily 10am–6pm, until 10pm on Thursdays and Saturdays*
 
 ![A multi-storey warehouse hall at V&A East Storehouse with open metal racking on both sides holding objects, models and furniture](../../assets/articles/best-museums-london/va-east-storehouse-open-racking.jpg)
 
@@ -235,33 +233,33 @@ The two biggest additions to London's museums in a generation both opened in the
 
 Not a museum in the usual sense but a **working store you can walk into** — more than half a million objects on open racking, from samurai swords to Elton John's costumes, with conservators visible at work rather than hidden behind the scenes.
 
-The **Order an Object** service sets it apart: you can request almost anything in the collection and have it brought out to you, free, by appointment. Nowhere else in Britain does this.
+The **Order an Object** service sets it apart: you can request almost anything in the collection and have it brought out to you, free, by appointment.
 
 The **David Bowie Centre** opened inside it in September 2025, holding his personal archive.
 
 ### V&A East Museum, Stratford
 
-*Opened April 2026*
+*Free · opened April 2026 · open daily 10am–6pm, until 10pm on Thursdays and Saturdays*
 
 ![The angular pale stone facade of V&A East Museum on East Bank, with a large V&A logo mounted near the roofline](../../assets/articles/best-museums-london/va-east-museum-building.jpg)
 
 *V&A East Museum, on East Bank.*
 
-The separate, purpose-built museum on **East Bank** in the Olympic Park, opened 18 April 2026 — the V&A's first new museum in London in over a century. It opened with *The Music is Black: A British Story*, on 125 years of Black British music.
+The separate, purpose-built museum on **East Bank** in the Olympic Park, opened 18 April 2026 with *The Music is Black: A British Story*, on 125 years of Black music-making in Britain.
 
-Two very different buildings ten minutes apart. The Storehouse is the one people come out of talking about; do both in a morning.
+The two buildings are ten minutes apart; do both in a morning.
 
 ### London Museum, Smithfield
 
 *Free · opens 28 November 2026*
 
-> ⚠️ **Not open yet.** The date is 28 November 2026 — check before travelling.
+> ⚠️ **Not open yet.** It opens on 28 November 2026.
 
 ![The colourful iron and glass roof of the covered walkway through Smithfield's Victorian General Market](../../assets/articles/best-museums-london/london-museum-market-arcade.jpg)
 
 *The Victorian market buildings at Smithfield.*
 
-The old Museum of London, rehoused in the **Victorian General Market at Smithfield** after a decade-long restoration by Stanton Williams and Asif Khan. Free permanent galleries, DJ nights on Fridays and Saturdays, and a six-metre window looking onto a **live railway line running past the galleries** — which no other museum in the world has.
+The old Museum of London, rehoused in the **Victorian General Market at Smithfield** after a decade-long restoration by Stanton Williams and Asif Khan. Free permanent galleries, DJ nights on Fridays and Saturdays, and a six-metre window looking onto a **live railway line running past the galleries**.
 
 The opening programme, *London Tastes*, runs to August 2027 and is about the city's food.
 
@@ -277,9 +275,9 @@ The opening programme, *London Tastes*, runs to August 2027 and is about the cit
 
 *Inside Young V&A.*
 
-The V&A's museum **built entirely around children**, reopened in 2023 after a redesign that put play first. Three galleries — Play, Imagine and Design — a stage, and things to climb rather than only look at, inside a Victorian iron-framed hall that was originally part of the South Kensington museum and moved here brick by brick.
+The V&A's museum **built entirely around children**, reopened in 2023 after a redesign that put play first. Three galleries — Play, Imagine and Design — a stage, and things to climb rather than only look at.
 
-**Free, and aimed squarely at under-14s.** Best on a weekday in term time; weekends and holidays are extremely busy, and the ground floor gets loud.
+**Free, and aimed at under-14s.** Weekends and holidays are very busy; a weekday in term time is quieter.
 
 ### The Postal Museum and Mail Rail, Bloomsbury
 
@@ -301,11 +299,9 @@ A **miniature train ride through the actual tunnels** of the Post Office's own u
 
 *Inside a preserved Tube carriage.*
 
-Real Tube carriages and horse buses you can climb into, a 1938 stock car, and the poster archive — a century of commissioned design, alongside the Johnston typeface that has been on every roundel since 1916.
+Real Tube carriages and horse buses you can climb into, a 1938 stock car, and the poster archive — a century of commissioned design, alongside the Johnston typeface that has been on every roundel since 1916. It sits in the old flower market on the Covent Garden piazza.
 
-It sits in the old flower market on the Covent Garden piazza, so the building is a Victorian iron-and-glass shed rather than a gallery.
-
-**It is ticketed, unlike most on this page, but the ticket lasts a year** — and the shop is one of the best museum shops in London, open to anyone without a ticket.
+**It is ticketed, unlike most on this page, but the ticket lasts a year**, and the shop is open to anyone without a ticket.
 
 ### Horniman Museum and Gardens, Forest Hill
 
@@ -315,7 +311,7 @@ It sits in the old flower market on the Covent Garden piazza, so the building is
 
 *The Horniman's stuffed walrus.*
 
-A Victorian tea trader's collection, most famous for **a walrus stuffed by taxidermists who had never seen one** and therefore filled it until the skin was smooth — an animal that should be wrinkled, rendered as a taut balloon, and now the museum's mascot.
+A Victorian tea trader's collection, most famous for **a walrus stuffed by taxidermists who had never seen one** and therefore filled it until the skin was smooth; it is now the museum's mascot.
 
 Beyond the walrus there is a serious anthropology collection, a musical instrument gallery, and sixteen acres of gardens with a bandstand and a view north across the whole city.
 
@@ -338,7 +334,7 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
   *The Georgian warehouse at London Museum Docklands.*
 
-* **National Army Museum**, Chelsea — free and quiet.
+* **National Army Museum**, Chelsea — free.
 * **RAF Museum**, Colindale — free, over a hundred aircraft in hangars on the old Hendon aerodrome.
 * **Fashion and Textile Museum**, Bermondsey — founded by Zandra Rhodes in a building she painted hot pink and orange.
 * **The Cartoon Museum**, Fitzrovia — three hundred years of British cartooning, with drawing tables.
@@ -350,23 +346,18 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
 ## How to actually do the big ones
 
-The free national museums are enormous and most people do them badly. These are the things that make the difference.
-
-* **Pick three things and leave.** The British Museum has around eight million objects and about 80,000 on display. Completeness is not available, and trying for it is how people end up exhausted in Room 62 having enjoyed none of it.
-* **Go at opening or in the last two hours.** The V&A, the Natural History Museum and the British Museum are all substantially quieter before 11am and after 4pm. The queues at the Natural History Museum in half-term are the worst in London.
+* **Pick three things and leave.** The British Museum has around eight million objects and about 80,000 on display.
+* **Go at opening or in the last two hours.** The V&A, the Natural History Museum and the British Museum are all substantially quieter before 11am and after 4pm.
 * **Use the side entrances.** The Natural History Museum's Exhibition Road entrance is almost always shorter than the Cromwell Road one. The V&A's tunnel entrance from South Kensington station skips the street entirely.
-* **Free does not mean no booking.** Several still ask for a timed slot at busy periods even though entry costs nothing, and turning up without one on a Saturday can mean a wait.
-* **The temporary exhibitions are what you pay for**, and they are where the queues are. The permanent collections are free, permanently, and are why these museums are internationally famous.
-* **Lates are the part most visitors miss.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly, usually free, and usually with a bar and a much better atmosphere than a Saturday afternoon.
-* **The gift shops and cafés are the funding.** Entry is free because of them, so buying a coffee is closer to paying admission than it looks.
+* **Free does not mean no booking.** Several still ask for a timed slot at busy periods, and turning up without one on a Saturday can mean a wait.
+* **The temporary exhibitions are the ticketed part**, and they are where the queues are.
+* **Lates.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly and usually free.
 
 ---
 
 ## What to know
 
-* **Free means free.** The national museums have no admission charge and never ask for one at the door, though donation boxes are prominent.
 * **Special exhibitions are ticketed** even inside free museums, often £18–£25.
-* **Late openings are the quietest slots.** Several run Friday evenings.
 * **Bags are searched** at the big museums and large luggage is usually refused.
 * **The Bloomsbury and Holborn cluster** — British Museum, Soane, Wellcome, Grant, Petrie, Foundling — is walkable in a day and mostly free.
 
