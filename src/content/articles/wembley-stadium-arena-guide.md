@@ -3,7 +3,8 @@ title: "How to Get to Wembley Stadium and OVO Arena: Parking, Trains and Getting
 seoTitle: "Wembley Stadium & OVO Arena Parking: £3 to £50"
 description: "Wembley Stadium and OVO Arena parking on event days: £50 official car parks, a £130 fine on the street, and car parks a stop out from £3. Plus which station to use and the last trains home."
 publishedAt: 2026-07-10
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -15,7 +16,7 @@ faq:
   - q: "Can you park on the street near Wembley Stadium on an event day?"
     a: "No. Brent's event-day zone reaches 3.26km from the ground and runs from 8am to midnight on main roads and generally 10am to midnight in residential streets. Only residents and businesses with a permit may park, and visitors cannot buy one. The penalty is £130, halved if paid within 14 days, and cars can be removed. Off-street car parks inside the zone still operate."
   - q: "How much is parking at Wembley Stadium?"
-    a: "£50 per car plus a £2.50 booking fee for stadium events, £25 for Blue Badge bays, £75 for minibuses and £120 for coaches. Arena events are roughly half, from £16.25."
+    a: "£50 per car plus a £2.50 booking fee for stadium events, £25 for Blue Badge bays, £75 for minibuses and £120 for coaches. Arena events are £22.50 for a car and £18.50 for Blue Badge bays."
   - q: "Which station is best for Wembley Stadium?"
     a: "Wembley Park for most people: Jubilee and Metropolitan lines, a ten-minute walk down Olympic Way, and 33 ticket gates to absorb the crowd. Wembley Stadium station, one stop from Marylebone on Chiltern, suits seats in the south and east. Wembley Central, on the Bakerloo and Overground, is a 15 to 20 minute walk."
   - q: "Is there a Night Tube from Wembley Park?"
@@ -23,7 +24,7 @@ faq:
   - q: "What time is the last train from Wembley Stadium to Marylebone?"
     a: "Around midnight, and an event does not push it later. After a midweek concert the last Chiltern train left at 00:06; after a Saturday 17:00 kick-off it left at 23:44, earlier than on an ordinary Thursday. Events add trains during the evening, not at the end of it."
   - q: "Is it cheaper to stay in Wembley or central London on a match night?"
-    a: "Central. Novotel London Wembley was £426.60 on an England match night against £131.40 a week later, while Novotel Waterloo, on the Jubilee line direct to Wembley Park, was £300.60 on the match night. On an ordinary night Wembley is the cheaper option."
+    a: "Central. Wembley rooms roughly treble on a stadium night, while a central hotel on the Jubilee line, such as Novotel Waterloo, barely moves. On an ordinary night Wembley is the cheaper option."
   - q: "Is Boxpark Wembley open on event days?"
     a: "Often not. On many stadium event days it becomes a ticketed Fanpark all day, and happy hour does not apply. Check Boxpark's closures page against your date."
   - q: "Can you buy alcohol in Wembley on a match day?"
@@ -36,7 +37,7 @@ heroImage: "../../assets/articles/wembley-stadium-arena-guide/olympic-way-matchn
 heroImageAlt: "A crowd walking up Olympic Way towards Wembley Stadium before kick-off, the arch above the roof and the stadium screens lit ahead"
 ---
 
-Wembley is easy to reach and easy to get wrong. Up to 90,000 people arrive through three suburban stations, the streets for up to two miles around are closed to visitors' cars from 8am, and the place you planned to eat may be ticketed and shut all day.
+Up to 90,000 people arrive through three suburban stations, the streets for up to two miles around are closed to visitors' cars from 8am, and the place you planned to eat may be ticketed and shut all day.
 
 > 💡 **The Short Version:** Come by train — **Wembley Park** is ten minutes down Olympic Way and has **33 ticket gates**. If you drive, **do not park on the street**: Brent's event-day zone reaches **3.26km** from the ground, runs from **8am to midnight**, visitors **cannot buy a permit**, and the penalty is **£130**. Official parking is **£50 plus a £2.50 fee**. Cheaper: **park a stop out** in a car park — **Preston Road £10** all day, **Northwick Park £3** and free at weekends — but **not at Neasden or Stonebridge Park**. Going home on a **Friday or Saturday**, the **Jubilee Night Tube runs all night** and the car parks stay open until **03:00**. Any other night the last trains go around **midnight**. On a big night a Wembley hotel costs about **three times** a normal night; central London does not move.
 
@@ -58,7 +59,7 @@ Two stops from Baker Street on the Metropolitan, and on the Jubilee. You come ou
 
 *The Olympic Steps.*
 
-> ⚠️ **Lift works.** Until **autumn 2026** there is **no lift between the street and the ticket hall** on the Olympic Way side; step-free access is via the **Bridge Road entrance**. Lifts to the platforms are unaffected. The operators give different end dates for the work, so check TfL's station page on the day.
+> ⚠️ **Lift works.** Until **autumn 2026** there is **no lift between the street and the ticket hall** on the Olympic Way side; step-free access is via the **Bridge Road entrance**. Lifts to the platforms are unaffected. Check TfL's station page on the day.
 
 ### Wembley Stadium station: an event station
 
@@ -76,7 +77,7 @@ Routes **18, 83, 92, 182, 206, 223, 297 and 483** serve the area, and the **N18 
 
 ## Driving: no street parking on event days
 
-Brent Council's **Wembley Stadium Event Day Protective Parking Scheme** is far bigger than anyone expects. Its furthest point is **3.26km from the stadium**, taking in Wembley Park, Wembley Central, Preston Road, Neasden, Stonebridge Park and Sudbury Town. On an event day **only residents and businesses with a permit may park on the street** — not even in a pay-and-display bay.
+Brent Council's **Wembley Stadium Event Day Protective Parking Scheme** reaches **3.26km from the stadium** at its furthest point, taking in Wembley Park, Wembley Central, Preston Road, Neasden, Stonebridge Park and Sudbury Town. On an event day **only residents and businesses with a permit may park on the street** — not even in a pay-and-display bay.
 
 | | |
 | --- | --- |
@@ -109,7 +110,7 @@ All event parking, Blue Badge included, is booked through **[Wembley Official Pa
 | **Coach** | £120.00 | £40.00 |
 | **Booking fee** | £2.50 car and Blue Badge, £1 motorbike, £3.50 minibus, £5 coach | as stadium |
 
-Prices are set per event. Quintain advertises stadium parking from £40 and arena parking from £16.25, but expect £50 for a big stadium night.
+Prices are set per event. Quintain advertises stadium parking from £40 and arena parking from £16.25; a big stadium night is £50.
 
 | Car park | Postcode | Walk | Height limit | Takes |
 | --- | --- | --- | --- | --- |
@@ -127,7 +128,7 @@ Prices are set per event. Quintain advertises stadium parking from £40 and aren
 
 > ⚠️ **Book early.** Blue Badge and wheelchair bays can sell out **more than two weeks ahead**, and EV bays sell out too. Refunds are only for cancellations **more than 72 hours** before, and never cover the booking fee.
 
-### Brent Civic Centre: the car park nobody mentions
+### Brent Civic Centre: the council car park
 
 A **council** car park on **Engineers Way, HA9 0FJ**, next to the arena and 370m from the stadium, booked separately from the official parking.
 
@@ -172,7 +173,7 @@ Leave the car a stop or two down the line and take the tube in. It works **only 
 | **Neasden** | Jubilee | 2 stops | Brent, 38 bays | **Two-hour maximum** on event days | **Does not work** |
 | **Stonebridge Park** | Bakerloo, Overground | — | **None** | — | **Does not work** |
 
-Brent car parks take **RingGo** (Preston Road 5005, Northwick Park 5096, Kingsbury 5002) or cash, and **Blue Badge holders park free with no time limit**. Brent last updated these tariffs in March 2023, so check the machine.
+Brent car parks take **RingGo** (Preston Road 5005, Northwick Park 5096, Kingsbury 5002) or cash, and **Blue Badge holders park free with no time limit**.
 
 ### The safest version: the stadium's park-and-ride
 
@@ -214,7 +215,7 @@ On **Friday and Saturday nights the Jubilee line runs all night through Wembley 
 | Ordinary Thursday | 00:05 | — |
 | Ordinary Sunday | 23:50 | — |
 
-An event adds trains — fifteen Chiltern departures after 22:00 on a midweek concert night — but **not a later last train**. After a Saturday 17:00 kick-off the last train to Marylebone was **23:44**, earlier than on an ordinary Thursday. Weekend engineering can also cut Wembley Stadium station to a Marylebone-only shuttle: [Chiltern's Wembley events page](https://www.chilternrailways.co.uk/wembley-events-travel-information) has each event's timetable and queue colours.
+An event adds trains — fifteen Chiltern departures after 22:00 on a midweek concert night — but **not a later last train**; after a Saturday 17:00 kick-off it left earlier than on an ordinary Thursday. Weekend engineering can also cut Wembley Stadium station to a Marylebone-only shuttle: [Chiltern's Wembley events page](https://www.chilternrailways.co.uk/wembley-events-travel-information) has each event's timetable and queue colours.
 
 <div data-stay-strip></div>
 
@@ -226,16 +227,16 @@ An event adds trains — fifteen Chiltern departures after 22:00 on a midweek co
 
 ## Where to stay, and why Wembley is the trap on a match night
 
-**Novotel London Wembley was £426.60 on the night of England v Czechia, Tuesday 6 October, and £131.40 on an ordinary Tuesday a week later.** On the match night there was one room type left. Novotel London Waterloo, on the Jubilee line direct to Wembley Park, barely moved:
+**On the night of England v Czechia, Tuesday 6 October 2026, Novotel London Wembley cost £426.60 against £131.40 the Tuesday after.** Only one room type was left. Novotel London Waterloo, on the Jubilee line direct to Wembley Park, barely moved:
 
 | | Novotel Wembley | Novotel Waterloo |
 | --- | --- | --- |
 | **Event Tuesday, 6 Oct** | **£426.60**, one room type | **£300.60**, seven room types |
 | Ordinary Tuesday, 13 Oct | **£131.40** | £315.90 |
 
-*Accor member rates for one room, two adults, checked on 9 September 2026.*
+*Accor member rates for one room, two adults.*
 
-**Wembley is the bargain on a normal night and the trap on an event night.** For England v Spain on Saturday 26 September the Novotel was sold out seventeen days before; the night after was **£91**.
+**Wembley is the bargain on a normal night and the trap on an event night.**
 
 - **For a big stadium fixture, book months ahead or stay central.**
 - **Or stay the night after** and travel home the next day.
@@ -267,14 +268,14 @@ Everything here is a few minutes from both venues.
 
 **The Wembley Park Art Trail** is free: 26 outdoor works across the estate, taking **30 minutes to an hour**. Start outside Wembley Park station; the free CityTrotter app guides you, and the route is step-free. The best:
 
-- **The Bobby Moore Statue**, six metres of bronze in front of the stadium — the classic pre-match photo.
+- **The Bobby Moore Statue**, six metres of bronze in front of the stadium.
 - **I'm Mr. Mercury**, a huge anamorphic Freddie Mercury on the Spanish Steps, beside the Taylor Swift tapestry that got them renamed the Swiftie Steps.
 - **Shadow Wall** by Jason Bruges in the Royal Route Underpass, which mimics people walking past.
 - **Flight**, a red kite mural above platform 1 at Wembley Stadium station, best seen from platform 2.
 
 **The Square of Fame** on Arena Square has bronze handprints of performers who have played the arena, from Dolly Parton to Kylie — you stand on it while you queue.
 
-**Brent Civic Centre** has Wembley Library and public toilets, the best wet-weather option.
+**Brent Civic Centre** has Wembley Library and public toilets, a wet-weather option.
 
 > ⚠️ **No stadium tour on your match day.** The tour does not run on stadium event days, and in the days before it is cut down to an **Express Tour** without the player areas or dressing rooms. When it runs: **£28 adult, £19 child or concession, £75 family**, about 90 minutes, no cloakroom.
 
@@ -290,9 +291,9 @@ Everything here is a few minutes from both venues.
 
 *Inside Boxpark Wembley.*
 
-**Boxpark Wembley often closes to the public on stadium event days**, becoming a ticketed **Fanpark** all day, not just in the evening. "We'll eat at Boxpark first" is the plan almost everyone makes, and it fails on the day you are going. Closures are listed only a few dates ahead, so **check [Boxpark's closures page](https://www.boxpark.co.uk/venues/wembley/blog/closures) against your event date.**
+**Boxpark Wembley often closes to the public on stadium event days**, becoming a ticketed **Fanpark** all day, not just in the evening. Closures are listed only a few dates ahead, so **check [Boxpark's closures page](https://www.boxpark.co.uk/venues/wembley/blog/closures) against your event date.**
 
-When it is open: **09:00 to 23:00 daily**, more than twenty kitchens — Zia Lucia, The Athenian, Neat Burger, Molo Fish & Chips and others — and a sports bar. The 17:00–20:00 weekday happy hour does not apply on Fanpark, arena or televised England nights.
+When it is open: **11:00 to 23:00 Monday to Saturday and 11:00 to 22:00 on Sundays**, more than twenty kitchens — Zia Lucia, The Athenian, Neat Burger, Molo Fish & Chips and others — and a sports bar. The 17:00–20:00 weekday happy hour does not apply on Fanpark, arena or televised England nights.
 
 ### Fast food
 
@@ -357,11 +358,11 @@ OVO Arena's kiosks do hot dogs, burgers, pizza and nachos, with bars for cocktai
 
 **There is no blanket ban on shops selling alcohol on event days.** The Tesco Express, Sainsbury's Local and Co-op on the estate keep normal hours.
 
-**But some shops will refuse you, because their licence says so.** Brent's [licensing policy](https://www.brent.gov.uk/-/media/files/business-documents/licencing/statement-of-licensing-policy---2025-2030.pdf?rev=18ceab9f9de6419badbee8d6ec57a872) sets event-day conditions for Wembley: "no sale of alcohol one hour before the event, and one hour after", no off-sales to anyone wearing "game day paraphernalia" (a team shirt, in other words), and no more than four cans a customer. They are written into individual licences, so one shop may serve you and the next may not.
+**But some shops will refuse you, because their licence says so.** Brent's [licensing policy](https://www.brent.gov.uk/-/media/files/business-documents/licencing/statement-of-licensing-policy---2025-2030.pdf?rev=18ceab9f9de6419badbee8d6ec57a872) sets event-day conditions for Wembley: "no sale of alcohol one hour before the event, and one hour after", no off-sales to anyone wearing "game day paraphernalia", and no more than four cans a customer. They are written into individual licences, so one shop may serve you and the next may not.
 
-> ⚠️ **You cannot drink it on the street.** A [Public Spaces Protection Order](https://www.brent.gov.uk/nuisance-crime-and-community-safety/public-spaces-protection-orders) covers Wembley Park, and the rest of Brent, at all times until January 2029. Officers can make you stop and hand over your alcohol, **sealed cans included**; refusing is a **£100 fixed penalty**, or up to £500 in court. A pub's own terrace or garden is exempt. Cans from the Tesco, drunk on Olympic Way, is the plan that gets your drink taken off you.
+> ⚠️ **You cannot drink it on the street.** A [Public Spaces Protection Order](https://www.brent.gov.uk/nuisance-crime-and-community-safety/public-spaces-protection-orders) covers Wembley Park, and the rest of Brent, at all times until January 2029. Officers can make you stop and hand over your alcohol, **sealed cans included**; refusing is a **£100 fixed penalty**, or up to £500 in court. A pub's own terrace or garden is exempt.
 
-**Inside the stadium, it depends on the fixture.** At concerts, NFL and rugby league the bars serve as normal. At football nobody may drink in view of the pitch, and at competitive UEFA and FIFA games — including England's autumn 2026 Nations League matches against Spain, Czechia and Croatia — **alcohol is sold only in restaurants and hospitality, not on the level 1 and level 5 concourses**. You cannot bring any in: the only container allowed is one empty, clear plastic bottle of up to 500ml for the water points, and not in the pitch standing area at concerts. The arena has no readmission.
+**Inside the stadium, it depends on the fixture.** At concerts, NFL and rugby league the bars serve as normal. At football nobody may drink in view of the pitch, and at competitive UEFA and FIFA games — including England's Nations League matches — **alcohol is sold only in restaurants and hospitality, not on the level 1 and level 5 concourses**. You cannot bring any in: the only container allowed is one empty, clear plastic bottle of up to 500ml for the water points, and not in the pitch standing area at concerts. The arena has no readmission.
 
 ### Where to go for a drink
 
@@ -369,7 +370,7 @@ OVO Arena's kiosks do hot dogs, burgers, pizza and nachos, with bars for cocktai
 
 *The White Horse, Arena Square.*
 
-**On football days Brent allocates pubs to one set of fans or the other**, by the side of the stadium on your ticket, and pubs near the ground often admit only ticket holders for their team. The list changes each fixture and goes up on [Brent's event-days page](https://www.brent.gov.uk/parking-roads-and-travel/parking/wembley-event-day-parking/event-days). There are no allocations for concerts.
+**On football days Brent allocates pubs to one set of fans or the other**, by the side of the stadium on your ticket, and pubs near the ground often admit only ticket holders for their team. The list changes each fixture and goes up on [Brent's Wembley events page](https://www.brent.gov.uk/events-in-brent/wembley-events-landing-page). There are no allocations for concerts.
 
 | Where | Walk to the stadium | What to know |
 | --- | --- | --- |
@@ -393,7 +394,7 @@ If your checkout is 12:00 and doors are at 18:30, you cannot carry a bag around 
 | **Storage on site** | — | **None. No cloakroom** |
 | **Luggage** | — | **Refused entry** |
 
-Bags over the stadium limit **will not be allowed in**, and folding a half-empty bag smaller does not count. A handbag is your one bag. The rules differ from the **NFL Clear Bag Policy**, so check before an NFL game — the Texans v Jaguars game on 18 October and its ticket rules are in our [NFL London Games guide](/articles/nfl-london-games/). The arena points people to Stasher for storage nearby.
+Bags over the stadium limit **will not be allowed in**, and folding a half-empty bag smaller does not count. A handbag is your one bag. The rules differ from the **NFL Clear Bag Policy**, so check before an NFL game; our [NFL London Games guide](/articles/nfl-london-games/) covers the October 2026 games. The arena points people to Stasher for storage nearby.
 
 > 💡 **Use the hotel.** The Novotel and Hilton both offer luggage storage, which on an event day is worth more than the room.
 
@@ -446,4 +447,4 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers Stasher an
 
 ---
 
-*Figures come from the venues, TfL, Chiltern Railways, National Rail and Brent Council, checked the week of 9 September 2026. Hotel prices are samples from the operators' own booking engines and will move. Parking prices are set per event, so check the booking site for your date.*
+*Hotel prices are samples and will move. Parking prices are set per event, so check the booking site for your date.*
