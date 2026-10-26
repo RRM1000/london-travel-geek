@@ -44,7 +44,7 @@ Walking times are [TfL's](https://tfl.gov.uk/plan-a-journey/), which run slower 
 | **A West End show** | 2–4 weeks for anything popular | Cheaper direct from the theatre. See the [theatre guide](/articles/london-theatre-guide/) |
 | **One proper dinner** | 2–4 weeks | Five nights leave room for one proper dinner. See [special occasion restaurants](/articles/special-occasion-restaurants-london/) |
 
-> ⚠️ **Four closures decide the order of these five days.** Westminster Abbey and St Paul's do no sightseeing on Sundays. Borough Market is closed on Mondays. The British Library's Treasures Gallery is closed on Sundays. Check which day of the week you land on before you fix anything else.
+> ⚠️ **Two closures decide the order of these five days.** Westminster Abbey and St Paul's do no sightseeing on Sundays. Borough Market is closed on Mondays. Check which day of the week you land on before you fix anything else.
 
 ---
 
@@ -241,7 +241,7 @@ Then south into [Chelsea](/articles/chelsea-area-guide/) for the King's Road and
 
 - **[British Museum](/articles/british-museum-guide/)** — **free, daily 10.00–17.00 and Fridays to 20.30, last entry 16.45 (20.15 on Fridays).** A free ticket buys priority entry when it is busy; walk-ups are admitted daily. Pick three things — Sutton Hoo, the Egyptian mummies, the Islamic world galleries.
 - **Lunch on Lamb's Conduit Street** — *sixteen minutes and 1.1km north-east*, a pedestrianised Georgian street of independents.
-- **British Library** — *twenty-six minutes and 1.5km from the museum.* **[The Treasures Gallery is free and needs no booking](https://events.bl.uk/exhibitions/treasures-of-the-british-library)**: Magna Carta and *Beowulf* sit in the same room as Shakespeare and Monty Python. **Monday to Thursday 09.30–17.45, Friday 09.30–16.15, Saturday 09.30–16.45 — and closed all day Sunday**, even though the building itself opens 11.00–17.00. It is kept cool and dark to protect the manuscripts, so take a layer.
+- **British Library** — *twenty-six minutes and 1.5km from the museum.* **[The Treasures Gallery is free and needs no booking](https://events.bl.uk/exhibitions/treasures-of-the-british-library)**: Magna Carta and *Beowulf* sit in the same room as Shakespeare and Monty Python. **Monday to Thursday 09.30–20.00, Friday 09.30–18.00, Saturday 09.30–17.00 and Sunday 11.00–17.00.** It is kept cool and dark to protect the manuscripts, so take a layer.
 - **Coal Drops Yard and the Regent's Canal** — *fifteen minutes and 1.1km on*, then the towpath. See [King's Cross](/articles/kings-cross-area-guide/) and the [King's Cross to Camden canal walk](/articles/kings-cross-camden-canal-walk/).
 
 ### Option C — East London, on a Sunday
@@ -287,11 +287,10 @@ Windsor, Oxford, Cambridge, Bath and Brighton are all reachable, but on five day
 3. **Planning Greenwich around a planetarium show.** The Peter Harrison Planetarium is closed for renovation.
 4. **Buying the Painted Hall ticket and walking out.** It converts to an annual pass if you ask.
 5. **Landing at Borough Market on a Monday.** Closed. Move Day 3.
-6. **Putting the British Library on a Sunday.** The Treasures Gallery is shut.
-7. **Taking the Tower's first slot out of habit.** It is quieter after midday.
-8. **Doing both museum districts.** Day 5 is one of them.
-9. **Planning a Saturday night in the Square Mile.** Most of the City is shut.
-10. **Stacking every special evening at the end of the trip.**
+6. **Taking the Tower's first slot out of habit.** It is quieter after midday.
+7. **Doing both museum districts.** Day 5 is one of them.
+8. **Planning a Saturday night in the Square Mile.** Most of the City is shut.
+9. **Stacking every special evening at the end of the trip.**
 
 ---
 
