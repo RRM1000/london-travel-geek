@@ -14,7 +14,7 @@ faq:
   - q: "Where can I see cabaret in London?"
     a: "It depends on the night you want. Crazy Coqs at Brasserie Zédel is a seated listening room. Underbelly Boulevard Soho runs several shows a night. The Royal Vauxhall Tavern and The Divine are queer cabaret and cost £8 or nothing. Bethnal Green Working Men's Club is under threat of sale, so go sooner."
   - q: "Is Proud Cabaret still open?"
-    a: "No. The whole London operation has gone — Proud Embankment, Proud Cabaret City and Haus of Cabaret London. No exact closing date was ever published. Fifteen companies linked to Proud have been declared insolvent since 2010, owing £13.8m between them, against a £535,000 Arts Council grant, amid a Cabaret Unpaid campaign over more than £100,000 in allegedly unpaid wages. The Embankment building is now the Emerald Theatre, which has no events on sale."
+    a: "No. The whole London operation has gone — Proud Embankment, Proud Cabaret City and Haus of Cabaret London. No exact closing date was ever published. Fifteen companies linked to Proud have been declared insolvent since 2010, owing £13.8m between them, against a £535,000 Arts Council grant, amid a Cabaret Unpaid campaign over more than £100,000 in allegedly unpaid wages. The Embankment building is now the Emerald Theatre."
   - q: "What happened to The Glory?"
     a: "It closed on 31 January 2024 after ten years at 281 Kingsland Road in Haggerston, for redevelopment. The team behind it — Jonny Woo, John Sizzle and Colin Rothbart — reopened as The Divine in Dalston on Friday 2 February 2024, two days later. LIPSYNC1000 and MAN UP moved with them."
   - q: "What is the cheapest cabaret in London?"
