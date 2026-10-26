@@ -1,9 +1,10 @@
 ---
 title: "Hiring a Car in the UK: Licence Rules, Costs and Driving Out of London"
 seoTitle: "UK Car Hire for London Visitors: Rules and Costs"
-description: "What you need to hire a car in the UK as a visitor: which licences are accepted, the age limits and surcharges, the excess and deposit, and every charge London adds. Prices checked 12 September 2026."
+description: "What you need to hire a car in the UK as a visitor: which licences are accepted, the age limits and surcharges, the excess and deposit, and every charge London adds."
 publishedAt: 2026-09-13
-updatedAt: 2026-09-22
+updatedAt: 2026-10-26
+reviewBy: 2026-11-26
 sites: [london]
 canonicalSite: london
 category: "Getting around London"
@@ -17,7 +18,7 @@ tags: [driving, day trips, car hire, road trip, getting around]
 draft: false
 faq:
   - q: "Can I drive in the UK on my own licence as a visitor?"
-    a: "Yes. A visitor to Great Britain can drive any small vehicle listed on their full, valid licence for 12 months from the day they last entered the country, whatever country issued it. That is the law. Hire companies add their own rules on top: Hertz and Sixt both want the licence to have been held for at least a year, and none of them accept a digital licence."
+    a: "Yes. A visitor to Great Britain can drive any small vehicle listed on their full, valid licence for 12 months from the day they last entered the country, whatever country issued it. Hire companies add their own rules on top: Hertz and Sixt both want the licence to have been held for at least a year, and none of them accept a digital licence."
   - q: "Do I need an International Driving Permit to hire a car in the UK?"
     a: "Not in law, but hire companies ask for one when your licence is not in English. Enterprise requires an IDP if the licence is written in a different language or characters; Sixt requires one for any licence printed in a non-Roman alphabet, and for Indian licences without a chip. An IDP is never valid on its own — carry the original licence too."
   - q: "How old do you have to be to hire a car in the UK?"
@@ -25,28 +26,28 @@ faq:
   - q: "What is the excess on a UK hire car?"
     a: "Typically £1,600 to £3,000 even with the included damage cover. Hertz's non-waivable excess is £1,700 on a Corsa, £1,900 on an Astra and £2,100 on an Octavia; Sixt quotes £1,600 to £3,000 by vehicle. You can buy it down at the counter, or buy cheaper standalone excess insurance before you travel and claim the excess back."
   - q: "Do I have to pay the Congestion Charge in a hire car?"
-    a: "Yes. Hire cars are not exempt and the charge is yours to pay, not the rental company's — Hertz says so in as many words. It is £18 a day paid on the day or in advance, £21 if you pay within three days after. If a penalty reaches the hire company instead, expect a £40 to £46.20 admin fee on top."
+    a: "Yes. Hire cars are not exempt and the charge is yours to pay, not the rental company's. It is £18 a day paid on the day or in advance, £21 if you pay within three days after. If a penalty reaches the hire company instead, expect a £40 to £46.20 admin fee on top."
   - q: "Is it worth hiring a car to see places near London?"
     a: "For the Cotswolds, the South Downs, country houses and anywhere without a station, yes. For Oxford, Cambridge, Brighton and Windsor, no — all four have direct trains from central London, and a car adds parking to the problem rather than solving it. Oxford charges even a clean modern petrol car £4 a day to drive into its Zero Emission Zone."
 ---
 
-**You can drive in the UK on the licence in your pocket for 12 months from the day you arrived.** Hiring the car is the easy part. The expensive part is what happens after you turn the key — and if you are staying in central London, the best decision is to pick the car up on the morning you leave town and drop it off the moment you get back.
+**You can drive in the UK on the licence in your pocket for 12 months from the day you arrived.** If you are staying in central London, pick the car up on the morning you leave town and drop it off the moment you get back.
 
-> 💡 **The Short Version:** **Any full foreign licence works for 12 months** from your last entry; you only need an **International Driving Permit if your licence is not in English**. UK licence holders must generate a **DVLA check code** (valid 21 days). Minimum age is usually **25**, or **21 with a surcharge** of about **£61 a day**. The **excess is £1,600–£3,000** and the **deposit £200–£750** held on your card. London costs **£18 a day Congestion Charge plus £12.50 ULEZ** if the car is old, and Westminster kerbside parking runs to **£7.78 an hour**. Petrol is **164.4p a litre**. Hire for the countryside; take the train to Oxford, Cambridge, Brighton and Windsor.
+> 💡 **The Short Version:** **Any full foreign licence works for 12 months** from your last entry; you only need an **International Driving Permit if your licence is not in English**. UK licence holders must generate a **DVLA check code** (valid 21 days). Minimum age is usually **25**, or **21 with a surcharge** of about **£61 a day**. The **excess is £1,600–£3,000** and the **deposit £200–£750** held on your card. London costs **£18 a day Congestion Charge plus £12.50 ULEZ** if the car is old, and Westminster kerbside parking runs to **£7.78 an hour**. Petrol is **174.6p a litre**. Hire for the countryside; take the train to Oxford, Cambridge, Brighton and Windsor.
 
 ## Should you hire a car at all?
 
-**Hire one for the places the railway forgot.** The Cotswolds is the clearest case: the villages people actually want — Bibury, the Slaughters, Snowshill, Stow — have no station, and the bus network between them is thin. The same goes for the South Downs, the Peak District, country houses, coastal walks and anything that works as a loop, not a line.
+**Hire one for the places the railway misses.** In the Cotswolds, Bibury, the Slaughters, Snowshill and Stow have no station and the buses between them are thin. The same goes for the South Downs, the Peak District, country houses, coastal walks and anything that works as a loop, not a line.
 
-**Do not hire one to visit a city.** Oxford, Cambridge, Brighton and Windsor all have direct trains from central London, and in each case the car replaces a simple journey with a parking problem at the far end. **Oxford's Zero Emission Zone charges £4 a day even for a clean modern petrol car**, 07:00 to 19:00, seven days a week — a fee you pay before you have found anywhere to leave it.
+**Do not hire one to visit a city.** Oxford, Cambridge, Brighton and Windsor all have direct trains from central London, and in each case the car replaces a simple journey with a parking problem at the far end. **Oxford's Zero Emission Zone charges £4 a day even for a clean modern petrol car**, 07:00 to 19:00, seven days a week.
 
 **The middle case is a day out with a car park at the end of it.** The [Harry Potter Studio Tour](/articles/harry-potter-studio-tour/) is one: parking is free, it is about 50 minutes from central London, and the drive avoids a change of train. Even then the train from Euston plus the free shuttle is cheaper than a day's hire.
 
-> ⚠️ **Collect the car on your way out of town, not on arrival.** A car parked in central London for three days earns you nothing and costs you the Congestion Charge, ULEZ and hotel parking. Branches at St Pancras, Victoria, Waterloo, Marble Arch and Paddington exist precisely so you can start a trip without going to an airport.
+> ⚠️ **Collect the car on your way out of town, not on arrival.** A car left in central London costs hotel parking, plus the Congestion Charge and ULEZ whenever you drive it. Branches at St Pancras, Victoria, Waterloo, Marble Arch and Paddington let you start a trip without going to an airport.
 
 ## Your licence
 
-**Visitors can drive on a full, valid licence from any country for 12 months from the date they last entered Great Britain.** That applies to EU and EEA licences, to Northern Ireland, Gibraltar, Jersey, Guernsey and the Isle of Man, and to "any other country" — the DVLA's own wording. No permit, no paperwork, no registration.
+**Visitors can drive on a full, valid licence from any country for 12 months from the date they last entered Great Britain.** That covers licences from any country, including EU and EEA licences and those from Northern Ireland, Gibraltar, Jersey, Guernsey and the Isle of Man. No permit, paperwork or registration.
 
 The hire companies ask for more than the law does:
 
@@ -60,11 +61,11 @@ The hire companies ask for more than the law does:
 | **Photo ID** | Passport or ID card. Sixt wants it valid at least **3 months beyond** the rental |
 | **Proof of your trip** | Enterprise asks visitors for **proof of return travel and accommodation** |
 
-Two national oddities: a **Chinese or Japanese licence** needs a Hertz certification form issued by Hertz in that country, and a **Vietnamese licence** needs a translation from the Vietnamese Ministry of Transport.
+Two exceptions: a **Chinese or Japanese licence** needs a Hertz certification form issued by Hertz in that country, and a **Vietnamese licence** needs a translation from the Vietnamese Ministry of Transport.
 
 ### The check code, if your licence is British
 
-**UK licence holders have to generate a DVLA "check code" before they reach the desk.** The paper counterpart was abolished, so the code is the only way the branch can see your endorsements.
+**UK licence holders have to generate a DVLA "check code" before they reach the desk.**
 
 Go to [gov.uk/view-driving-licence](https://www.gov.uk/view-driving-licence) with your **licence number, National Insurance number and the postcode on the licence**, then choose "Get your check code". **It is valid for 21 days and it is case sensitive.** Sixt will not rent to a driver with more than **8 penalty points**.
 
@@ -76,11 +77,9 @@ Go to [gov.uk/view-driving-licence](https://www.gov.uk/view-driving-licence) wit
 | **Hertz** | **25**, or **21** on small cars and vans | **£61.43 a day** inc. tax, £430 a week, capped at **£1,719.98 per rental** |
 | **Sixt** | **21, 23, 25 or 30** depending on the car | Applies to **anyone under 28** |
 
-Checked 12 September 2026.
+**None of the three publishes an upper age limit.** Hertz's higher car groups have higher minimums: 27 for an Audi Q7, 28 for a Porsche Cayenne, 30 for a Bentley and 35 for a 17-seat minibus.
 
-**None of the three publishes an upper age limit** — Enterprise states outright that there is no maximum. Hertz's higher car groups climb instead: 27 for an Audi Q7, 28 for a Porsche Cayenne, 30 for a Bentley and 35 for a 17-seat minibus.
-
-Under 25, one more thing bites: **Sixt will not sell you its lowest-excess damage cover at all**, so you carry the bigger excess as well as the surcharge.
+Under 25, **Sixt will not sell you its lowest-excess damage cover**, so you carry the bigger excess as well as the surcharge.
 
 ## Insurance, excess and the deposit
 
@@ -95,11 +94,11 @@ Under 25, one more thing bites: **Sixt will not sell you its lowest-excess damag
 | Skoda Octavia, most EVs, small vans | **£2,100** |
 | Mercedes C-Class or E-Class | **£2,800** |
 
-Sixt quotes **£1,600 to £3,000** across its fleet. Checked 12 September 2026.
+Sixt quotes **£1,600 to £3,000** across its fleet.
 
-**You have two ways to shrink it.** Buy the company's own excess reduction — Hertz SuperCover, Europcar's Medium or Premium tier — at the counter, which is instant but expensive. Or buy **standalone excess insurance** from an insurer before you travel, pay the hire company if you damage the car, and claim it back. The standalone route is far cheaper; the trade-off is that you front the money.
+**Two ways to shrink it.** Buy the company's own excess reduction — Hertz SuperCover, Europcar's Medium or Premium tier — at the counter, which is instant but expensive. Or buy **standalone excess insurance** from an insurer before you travel, pay the hire company if you damage the car, and claim it back. The standalone route is cheaper, but you front the money.
 
-Read what the counter product excludes, because the exclusions are the same everywhere and they are broad: **kerbed wheel rims, putting the wrong fuel in, height strikes on car park barriers, lost keys, ignoring a warning light, missing charging cables and spare wheels.** Europcar's tiers only cover **glass, lights and tyres from the middle tier upwards** — on the basic tier, a stone chip in the windscreen is yours.
+The counter products exclude **kerbed wheel rims, putting the wrong fuel in, height strikes on car park barriers, lost keys, ignoring a warning light, missing charging cables and spare wheels**. Europcar's tiers only cover **glass, lights and tyres from the middle tier upwards** — on the basic tier, a stone chip in the windscreen is yours.
 
 ### The hold on your card
 
@@ -117,15 +116,15 @@ The deposit is refundable and is not the excess. Hertz warns it can take **up to
 
 ## Automatic or manual
 
-**Assume manual unless you have explicitly booked otherwise.** British cars default to manual gearboxes, and hire fleets are organised by car group, not by preference — so "Vauxhall Astra or similar" is a manual group, and ticking a box marked "automatic" later does not change what is waiting for you.
+**Assume manual unless you have booked an automatic.** Hire fleets are organised by car group, so "Vauxhall Astra or similar" is a manual group, and ticking an "automatic" box later does not change what is waiting for you.
 
-So book the **automatic group itself**, and book it as early as you book the flights. A hire company only has to supply the group you reserved; if no automatic group is available on your dates, there is nothing to upgrade into and no obligation on them to find one.
+Book the **automatic group itself**, as early as you book the flights. The hire company only has to supply the group you reserved, and if no automatic group is free on your dates it has no obligation to find one.
 
-This has legal as well as practical consequences: if your licence carries **DVLA code 78**, you are restricted to automatics and a manual hire car would be an offence as well as a problem.
+If your licence carries **DVLA code 78** you are restricted to automatics, and driving a manual would be an offence.
 
 ## What it actually costs
 
-Base daily rates move with the date and the branch, so treat them as the part you shop around for. The fees below are the part nobody quotes you up front.
+Base daily rates vary with date and branch. These fees are not quoted up front:
 
 | Charge | Amount | Who |
 | --- | --- | --- |
@@ -140,9 +139,9 @@ Base daily rates move with the date and the branch, so treat them as the part yo
 | Late return not reported | **£28.80** Flexi Return fee, plus the extra time | Sixt |
 | Cancelling a pre-paid booking | **£99** | Sixt |
 
-Checked 12 September 2026. Hertz figures include tax.
+Hertz figures include tax.
 
-**Airport and station branches cost more for the same car.** Hertz calls it a location service charge and applies it at airports and railway stations "to reflect the higher cost of providing services from there". A city branch a short Tube ride away is usually cheaper than the Heathrow desk — and at Heathrow the cars are not in the terminal anyway: you take a courtesy bus, 7 minutes from Terminal 5 and up to 20 from Terminal 4.
+**Airport and station branches cost more for the same car.** Hertz adds a location service charge at airports and railway stations. A city branch a short Tube ride away is usually cheaper than the Heathrow desk — and at Heathrow the cars are not in the terminal anyway: you take a courtesy bus, 7 minutes from Terminal 5 and up to 20 from Terminal 4.
 
 **Child seats are not optional.** UK law requires one for every child up to **12 years old or 1.35 m tall**. Book it ahead — Hertz needs 24 hours' notice at most branches and 48 at franchised ones.
 
@@ -164,14 +163,12 @@ Checked 12 September 2026. Hertz figures include tax.
 | --- | --- | --- |
 | **Congestion Charge** | **£18** paid in advance or on the day; **£21** if paid by midnight of the third day after | 07:00–18:00 Mon–Fri, 12:00–18:00 Sat, Sun and bank holidays. Free Christmas Day to New Year's Day |
 | **ULEZ** | **£12.50**, only if the car fails the standard | 24 hours, every day except Christmas Day, across **every London borough** |
-| **Blackwall and Silvertown tunnels** | **£4.20** per crossing, each way | 06:00–22:00 every day. Free overnight. Rose from £4.00 on 21 September 2026 |
+| **Blackwall and Silvertown tunnels** | **£4.20** per crossing, each way | 06:00–22:00 every day. Free overnight |
 | **Low Emission Zone** | Heavy diesels over 3.5 tonnes only | Never applies to a car |
-
-Checked 12 September 2026.
 
 **The ULEZ charge almost certainly will not apply to you.** Cars need Euro 4 for petrol (broadly anything registered new after 2005) or Euro 6 for diesel (broadly after September 2015), which most hire stock clears comfortably — **Enterprise states that its London cars and vans are ULEZ-compliant.** Run the registration through TfL's vehicle checker anyway if you are renting something older or unusual.
 
-**The Congestion Charge is unavoidable and it is yours to pay.** Hertz's terms are blunt: hire vehicles are not exempt, it is the renter's responsibility "including visitors from abroad, and not Hertz" to pay each day, and Hertz will not accept liability. One payment covers any number of entries that day. **Electric cars get 25% off (£13.50) only if the vehicle is on Auto Pay**, which a hire car will not be.
+**The Congestion Charge is yours to pay**, not the hire company's: Hertz's terms put it on the renter, "including visitors from abroad", and Hertz accepts no liability. One payment covers any number of entries that day. **Electric cars get 25% off (£13.50) only if the vehicle is on Auto Pay**, which a hire car will not be.
 
 > ⚠️ **Sixt bills you for day one.** Hire from a Sixt branch inside the Congestion Charge zone and the charge is added to your rental agreement automatically to cover the first day. Every other day is still yours to pay — and if you forget, the penalty comes back through Sixt with a **£40** admin fee attached.
 
@@ -186,7 +183,7 @@ Checked 12 September 2026.
 | **A** | **£5.35** |
 | **C** | **£2.46** |
 
-Rates from 2 March 2026 for a car emitting 91–150 g/km. A pre-2015 diesel pays **50% more**.
+Rates from 13 July 2026 for a car emitting 91–150 g/km. A pre-2015 diesel pays **50% more**.
 
 Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge and before you have moved. For getting around town, use the Tube and the bus — our [London transport costs and fares guide](/articles/london-public-transport-costs-and-fares/) has the numbers.
 
@@ -198,7 +195,7 @@ Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge a
 
 *A roundabout, from above. Photo: Altaf Shah, Pexels.*
 
-**You drive on the left, and the car will be right-hand drive.** Give yourself a quiet road for the first ten minutes; the two things that catch people out are drifting left into the kerb and reaching for the gearstick with the wrong hand.
+**You drive on the left, and the car will be right-hand drive.** Two things catch people out: drifting left into the kerb and reaching for the gearstick with the wrong hand.
 
 **Roundabouts are the other adjustment.** Traffic flows clockwise and you **give way to the right** unless road markings say you do not. Turning left: signal left, approach in the left lane, stay left all the way round. Turning right: signal right, approach in the right lane, keep right until you need to move across to exit. Straight on: pick the lane the markings tell you to and stay in it. Give cyclists and horse riders room — they are allowed to sit in the left lane while continuing round.
 
@@ -209,7 +206,7 @@ Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge a
 | Single carriageway | **60 mph** |
 | Dual carriageway and motorway | **70 mph** |
 
-**Speed cameras are fixed, average-speed and mobile, and the limits change often.** The 20mph rollout across central London finished in 2020 and now covers 267 km of TfL's roads, with two-thirds of boroughs applying it to most of their own streets too.
+**Speed cameras are fixed, average-speed and mobile.** TfL's 20mph roads cover 267 km, and two-thirds of boroughs apply 20mph to most of their own streets.
 
 ### Motorways and smart motorways
 
@@ -231,9 +228,7 @@ Eight hours in a Mayfair bay is **£59.44**, before the £18 Congestion Charge a
 | **Oxford Zero Emission Zone** | **£4** for a normal petrol or diesel car, **£2** hybrid, **£0** electric, **£10** older | 07:00–19:00 every day. Charges even compliant cars |
 | **Aberdeen, Dundee, Edinburgh, Glasgow** | **No charge — a ban** | Non-compliant vehicles are not allowed in. **You cannot prepay**; you get a penalty instead |
 
-Checked 12 September 2026.
-
-> ⚠️ **Miss the Dart Charge and it is £70.** Reduced to £35 within 14 days, increased to £105 if you leave it — on top of the £3.50 you should have paid. There are no barriers at Dartford, so nothing stops you crossing and forgetting.
+> ⚠️ **Miss the Dart Charge and it is £70.** Reduced to £35 within 14 days, increased to £105 if you leave it — on top of the £3.50 you should have paid. There are no barriers, so nothing stops you crossing and forgetting.
 
 <div data-stay-strip></div>
 
@@ -243,19 +238,19 @@ Checked 12 September 2026.
 
 *Photo: Luke Seago, Pexels.*
 
-**Learn three markings and you will avoid most of it.**
+**Three markings to learn:**
 
 - **Single yellow line** — no waiting during the hours shown on the nearby time plate, or on the zone entry sign in a Controlled Parking Zone. Outside those hours it is usually legal.
 - **Double yellow line** — no waiting at any time, sign or no sign.
-- **Red line** — a red route, meaning **no stopping at all**, even briefly. These are TfL's roads: 5% of London's road length carrying over 30% of its traffic, and heavily camera-enforced.
+- **Red line** — a red route, meaning **no stopping at all**, even briefly. These are TfL's roads, heavily camera-enforced.
 
 Also: no parking within **10 metres of a junction**, no parking on the pavement anywhere in London or Scotland, and no parking at night facing against the traffic.
 
 ### Paying by app
 
-**Westminster has removed every pay-and-display machine from its streets.** You now pay through one of three apps, all at the same tariff: **RingGo, PayByPhone or JustPark**. Each adds its own end-user charge of **up to 30p a transaction**, and optional confirmation or expiry texts cost **20p each**. RingGo also takes payment by phone on **020 7125 9090**. Scratchcard Parking Cards are sold in Westminster libraries if you would rather not install anything.
+**In Westminster you pay through one of three apps, all at the same tariff: RingGo, PayByPhone or JustPark**. Each adds its own end-user charge of **up to 30p a transaction**, and optional confirmation or expiry texts cost **20p each**. RingGo also takes payment by phone on **020 7125 9090**. Scratchcard Parking Cards are sold in Westminster libraries if you would rather not install anything.
 
-Other boroughs run the same apps, but not always all three — the sign tells you which, and gives you the **bay or location code** you will be asked for along with your **registration**. Read it before you start tapping. Extending a session from the app, rather than walking back to the car, is the one real advantage.
+Other boroughs run the same apps, but not always all three. The sign tells you which, and gives the **bay or location code** you enter with your **registration**. You can extend a session from the app instead of walking back to the car.
 
 > ⚠️ **Ignore "Scan to Pay" QR stickers.** Westminster has confirmed that scam QR codes are being stuck on its pay-to-park signs, concentrated in **Mayfair, St James's, Hyde Park, Marylebone and Fitzrovia**. The council does not use QR codes for payment at all.
 
@@ -277,25 +272,13 @@ A **Penalty Charge Notice** is a civil parking or traffic fine issued by a counc
 
 ## Fuel and charging
 
-**Petrol is £1.644 a litre and diesel £1.864** — UK averages for the week commencing 7 September 2026, published by the government on 8 September. A 45-litre tank of petrol is about £74, so the refuelling charge for bringing the car back empty is £25 on top of that.
+**Petrol is £1.746 a litre and diesel £1.993** — UK averages for the week commencing 19 October 2026, published by the government on 20 October. A 45-litre tank of petrol is about £79, and bringing the car back short adds Hertz's £25 refuelling charge.
 
 **Check which one your car takes before you reach the pump.** Petrol handles are green, diesel black, and misfuelling is an explicit exclusion in both the Hertz and Europcar damage products — you pay the whole bill however much cover you bought.
 
-**If you hire an electric car, you do not need a pile of apps.** Since the Public Charge Point Regulations 2023, public chargepoints must take **contactless payment**, must display the price in **pence per kilowatt hour**, must run a **free 24/7 helpline**, and rapid networks must average **99% reliability** and publish it. A single contactless card covers most rapid charging.
+**If you hire an electric car, you do not need a pile of apps.** Public chargepoints must take **contactless payment**, show the price in **pence per kilowatt hour** and run a **free 24/7 helpline**, and rapid networks must average **99% reliability**. A single contactless card covers most rapid charging.
 
-What you do need to know is the return rule: **Hertz wants the car back at the charge level you collected it at, or 80%, whichever is lower**, and adds a **£22.68** admin fee if you bring it back at 10% or less, plus the cost of the recharge. Its included network is Shell Recharge, plus Tesla Superchargers in a Tesla, accessed with the fob supplied. Anything else is billed to you, as are idle fees if you leave the car plugged in after it finishes.
-
-## What people get wrong
-
-- **Collecting the car on arrival day.** It sits outside the hotel racking up charges while you walk round Westminster.
-- **Turning up with a digital licence** on a phone. No UK branch accepts one.
-- **Forgetting the DVLA check code** — or generating it more than 21 days before the rental, which makes it invalid.
-- **Assuming the included insurance means no excess.** It means an excess of £1,600 to £3,000.
-- **Booking a car with no card in the main driver's name**, or with Maestro or a pre-paid card.
-- **Booking "a car" and getting a manual.** Book the automatic group if you need one.
-- **Driving into the Congestion Charge zone without paying**, and discovering it six weeks later as £180 plus an admin fee.
-- **Parking on a single yellow without reading the plate.** The hours are the whole rule.
-- **Hiring a car for a city with a direct train.** Oxford charges you £4 just to drive in, and you still have to park.
+On return, **Hertz wants the car back at the charge level you collected it at, or 80%, whichever is lower**, and adds a **£22.68** admin fee if you bring it back at 10% or less, plus the cost of the recharge. Its included network is Shell Recharge, plus Tesla Superchargers in a Tesla, accessed with the fob supplied. Anything else is billed to you, as are idle fees if you leave the car plugged in after it finishes.
 
 ## Continue planning your London trip
 
