@@ -299,9 +299,9 @@ The organisers split the route into places that will be heaving and places that 
 
 > ⚠️ **Expect station queues of up to 90 minutes** at the busy points, according to the organisers, particularly at Cutty Sark and Limehouse.
 
-**Tower Bridge is the iconic spot and worth it once.** Arrive early, and use London Bridge rather than Tower Hill or Tower Gateway.
+**Tower Bridge is the best-known spot and worth it once.** Arrive early, and use London Bridge rather than Tower Hill or Tower Gateway.
 
-### The best place to watch: the Isle of Dogs
+### A quieter place to watch: the Isle of Dogs
 
 ![The elite women's lead pack running past spectators and a brass band on Westferry Road, Isle of Dogs, with the Canary Wharf towers behind](../../assets/articles/london-marathon-guide/london-marathon-isle-of-dogs.jpg)
 
