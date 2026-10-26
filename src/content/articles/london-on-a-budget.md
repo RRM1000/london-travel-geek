@@ -121,7 +121,7 @@ the day.
 
 * **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — two people in for the price of one at a long list of attractions. You need two people, two valid National Rail tickets, an eVoucher and an attraction actually in the scheme. **Oyster and contactless do not qualify**, which is the trap almost everyone falls into.
 * **[Is the London Pass worth it?](/articles/london-pass-guide/)** — the arithmetic, not the marketing. Briefly: a 2-day pass is £149 against £142 for the classic big five, so you need a sixth paid attraction before it starts winning.
-* **[Cinema deals](/articles/cinema-deals-london/)** — **Meerkat Movies gives 2-for-1 every Tuesday or Wednesday with no purchase required**, just the app. If you are 16 to 25, the BFI is **£4** and Picturehouse **£5.99**.
+* **[Cinema deals](/articles/cinema-deals-london/)** — **Meerkat Movies gives 2-for-1 every Tuesday or Wednesday with no purchase required**, just the app. If you are 16 to 25, the BFI is **£4** and Picturehouse **£6.99**.
 * **[Theatre](/articles/london-theatre-guide/)** — TKTS at the Leicester Square booth or online, midweek rather than Saturday, plus day seats, rush tickets and lotteries. Where you sit makes as much difference as what you see.
 
 ## Cheap nights out
