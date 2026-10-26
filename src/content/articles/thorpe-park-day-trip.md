@@ -3,8 +3,8 @@ title: "Thorpe Park from London: Tickets, the Train and Height Limits"
 seoTitle: "Thorpe Park: Tickets, Getting There and Height Limits"
 description: "Thorpe Park tickets are from £32 online and £68 on the day, and anyone under 1.2m goes free. The train from Waterloo to Staines and the 950 bus, every ride's height limit, Fastrack prices, and the dates the park is shut."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
-reviewBy: 2026-11-01
+updatedAt: 2026-10-26
+reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
 category: "Day trips"

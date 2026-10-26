@@ -5,8 +5,8 @@ description: "London's outdoor Christmas ice rinks for 2026-27: Somerset House, 
 heroImage: "../../assets/articles/ice-skating-london/somerset-house-rink.jpg"
 heroImageAlt: "Skaters on the Somerset House ice rink on an overcast day, in front of the domed courtyard front with large white SKATE letters along its roofline and a marquee down the right"
 publishedAt: 2026-09-27
-updatedAt: 2026-10-25
-reviewBy: 2026-10-31
+updatedAt: 2026-10-26
+reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"

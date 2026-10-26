@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Trafalgar_Square_Christ
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-09-27
-updatedAt: 2026-10-25
-reviewBy: 2026-10-31
+updatedAt: 2026-10-26
+reviewBy: 2026-11-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"

@@ -3,7 +3,8 @@ title: "Greenwich Area Guide: The Observatory, Cutty Sark and North Greenwich"
 seoTitle: "Greenwich Guide: Royal Observatory, Cutty Sark & the O2"
 description: "A complete Greenwich guide: the Painted Hall, the Cutty Sark, the park view, Greenwich Market days, getting there by river — and why Greenwich and North Greenwich are not the same place. The Royal Observatory is closed from 2 November 2026."
 publishedAt: 2026-08-10
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2026-11-03
 sites:
   - london
 canonicalSite: london

@@ -3,8 +3,8 @@ title: "Dinner and a Show in London: Jazz Suppers, Cabaret Dinners, Drag Brunche
 seoTitle: "Dinner and a Show London 2026: Jazz, Cabaret & Brunch"
 description: "A free house band with a £16.95 prix fixe at Brasserie Zédel, jazz with dinner from £16 at the 606 Club, burlesque at The Maine and Basil Fawlty serving the soup. What the show costs on top of the food, which nights, and what to book."
 publishedAt: 2026-06-21
-updatedAt: 2026-09-29
-reviewBy: 2026-11-01
+updatedAt: 2026-10-26
+reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

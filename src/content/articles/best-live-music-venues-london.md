@@ -5,7 +5,8 @@ description: "A Victorian railway turning shed, a veterans' club with a gold tin
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
 publishedAt: 2026-08-26
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
+reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
 category: "Things to do"

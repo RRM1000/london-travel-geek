@@ -5,7 +5,8 @@ description: "A numbered walking route from the Crossrail roof garden to Greenwi
 heroImage: "../../assets/articles/canary-wharf-greenwich-walk/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College and the Thames to Canary Wharf's towers, with both ends of the walk in one frame"
 publishedAt: 2026-09-13
-updatedAt: 2026-10-17
+updatedAt: 2026-10-26
+reviewBy: 2026-11-03
 sites: [london]
 canonicalSite: london
 category: "London areas"

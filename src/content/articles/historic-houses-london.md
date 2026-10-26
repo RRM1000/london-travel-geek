@@ -335,7 +335,7 @@ Every English monarch since 1066 has been crowned here, and more than three thou
 
 Historic houses are the one category where London does not give everything away — but several of the best are still free, and most of the ticketed ones have a way in that is cheaper than the headline price.
 
-> ⚠️ **The prices on this page are the standard rates.** A temporary government VAT cut held admission down between 25 June and 1 September 2026; Westminster Abbey is now £32 and St Paul's £27. Check before you travel, as always.
+> ⚠️ **The prices on this page are the standard rates.** Westminster Abbey is £32 and St Paul's £27. Check before you travel, as always.
 
 **Three ways in that are barely advertised:**
 

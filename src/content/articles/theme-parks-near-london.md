@@ -3,8 +3,8 @@ title: "Theme Parks Near London: Every Day Trip Compared"
 seoTitle: "Theme Parks Near London: Prices, Trains and Seasons"
 description: "Thorpe Park, Chessington, LEGOLAND Windsor, Paultons Park and four smaller parks compared: the train from London, the cheapest ticket, who each one suits, and the dates each is shut in autumn and winter 2026."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-03
-reviewBy: 2026-11-01
+updatedAt: 2026-10-26
+reviewBy: 2026-11-02
 sites: [london]
 canonicalSite: london
 category: "Day trips"

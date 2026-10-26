@@ -3,8 +3,8 @@ title: "EFG London Jazz Festival 2026: Dates, Tickets and the Free Half"
 seoTitle: "London Jazz Festival 2026: Dates, Tickets & Free Gigs"
 description: "The EFG London Jazz Festival runs 13-22 November 2026 across 82 venues. Nineteen free concerts, tickets from £5, ten shows sold out, and why there is no single on-sale date."
 publishedAt: 2026-09-21
-updatedAt: 2026-10-19
-reviewBy: 2026-11-05
+updatedAt: 2026-10-26
+reviewBy: 2026-11-23
 sites:
   - london
 canonicalSite: london

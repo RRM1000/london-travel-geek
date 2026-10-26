@@ -3,8 +3,8 @@ title: "Where to Stay in Greenwich: The Town, the Park, the Peninsula and Deptfo
 seoTitle: "Where to Stay in Greenwich, London: Hotels by Area"
 description: "Greenwich hotels sorted by the part of Greenwich they are in: the town centre by the Cutty Sark, Blackheath and the park's edges, the O2 peninsula and Deptford Bridge. The station each is nearest, the trains, boats and buses into town, and how to get back after midnight."
 publishedAt: 2026-06-22
-updatedAt: 2026-10-17
-reviewBy: 2026-11-01
+updatedAt: 2026-10-26
+reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
 category: "Stay"
@@ -280,11 +280,11 @@ A former Metropolitan Police section house from the 1940s, converted into a hote
 
 **Despite the name, this Travelodge is by Deptford Bridge DLR**, on the A2 where it meets Greenwich High Road. Doubles have king-size beds, there are family and accessible rooms, and the Bar Café serves an unlimited breakfast from 7 to 10am on weekdays and 8 to 11am at weekends, with **children's breakfast at £1** for up to two under-15s per adult. Some rooms take pets. The nearest parking is the Burney Street car park.
 
-### Staycity Aparthotels London Deptford Bridge — opening in October 2026
+### Staycity Aparthotels London Deptford Bridge
 
 *18–20 Deptford Bridge, SE8 4HH · Deptford Bridge DLR 1 min · [Hotels.com](hotelscom:448740)*
 
-Staycity's second aparthotel in the area opens in October 2026 beside the DLR, with studios for two, **one-bedroom apartments for four**, and hotel rooms for two. The apartments have kitchens, there is a lift to every floor, a 24-hour gym and a breakfast from 7 to 10am on weekdays and 7.30 to 10.30am at weekends. Parking is at the Greenwich High Road building, five minutes' walk, at £13 a night, booked ahead. The Cutty Sark is about 15 minutes' walk.
+Staycity's second aparthotel in the area stands beside the DLR, with studios for two, **one-bedroom apartments for four**, and hotel rooms for two. The apartments have kitchens, there is a lift to every floor, a 24-hour gym and a breakfast from 7 to 10am on weekdays and 7.30 to 10.30am at weekends. Parking is at the Greenwich High Road building, five minutes' walk, at £13 a night, booked ahead. The Cutty Sark is about 15 minutes' walk.
 
 ## Getting into central London
 
