@@ -39,7 +39,7 @@ faq:
     a: "A UK ETA (£20), approved before you fly; allow up to three working days. Both stadiums are cashless, and every person needs their own digital ticket on their own phone."
 ---
 
-The NFL played three games in London in October 2026, all on Sundays at **2.30pm BST**: two at Tottenham Hotspur Stadium, one at Wembley. The Tottenham and Wembley games were sold through different accounts. Next season's London fixtures are announced on [nfl.com](https://www.nfl.com/international/games/london).
+The NFL played three games in London in October 2026, all on Sundays at **2.30pm BST**: two at Tottenham Hotspur Stadium, one at Wembley. The Tottenham and Wembley games were sold through different accounts. London fixtures for each season are announced on [nfl.com](https://www.nfl.com/international/games/london).
 
 > 💡 **The Short Version:** **Colts v Commanders, Sunday 4 October** and **Eagles v Jaguars, Sunday 11 October** were at **Tottenham**; **Texans v Jaguars, Sunday 18 October**, was at **Wembley**. All **2.30pm**. Tottenham tickets were sold by the NFL (an **NFL Ticketmaster account**, six per account per game, **£79.13 to £280.65** with fees included). Wembley tickets were sold by the **Jaguars**, **£70 to £297**, **under-16s £51**. **Gates opened at 12.30pm**. You **could drink in your seat** (18+, photo ID, four drinks per purchase). Both stadiums are **cashless**, and bags must be **clear and no bigger than 30.5 x 15.25 x 30.5cm**, with nowhere to leave one that fails.
 

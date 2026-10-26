@@ -188,7 +188,7 @@ A capsule hostel on the Roman Road market street, a short walk from Victoria Par
 
 Eight units, no front desk, entry by access code through a private entrance. Rated **7.3 out of 10 across 41 guest reviews**.
 
-The catch is **£42 in Zone 2 against £33 in Zone 1** on a quiet night. It earns its place in December, when Zedwell climbs and this does not.
+The drawback: **£42 in Zone 2 against £33 in Zone 1** on a quiet night. It earns its place in December, when Zedwell climbs and this does not.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="pod-hotels-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
