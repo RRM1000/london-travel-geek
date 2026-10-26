@@ -3,7 +3,8 @@ title: "Chelsea Area Guide: King's Road, Sloane Square and the Physic Garden"
 seoTitle: "Chelsea Guide: King's Road, Sloane Square & Walks"
 description: "A complete Chelsea guide: King's Road shopping, the Chelsea Physic Garden, Royal Hospital Chelsea, riverside walks and what the area is actually like now."
 publishedAt: 2026-08-14
-updatedAt: 2026-09-27
+updatedAt: 2026-10-26
+reviewBy: 2026-11-27
 sites:
   - london
 canonicalSite: london
@@ -57,15 +58,15 @@ area:
       note: "East from Sloane Square along Pont Street for Elizabeth Street and the blue plaques."
 faq:
   - q: "Is King's Road still worth visiting?"
-    a: "Yes, but manage expectations. The 1960s and punk-era King's Road is long gone and much of the street is now the same chains you find on any high street. What survives is the Saatchi Gallery, Duke of York Square, some good independent shops at the western end, and a very pleasant walk. Come for the street and the side roads rather than the shopping."
+    a: "Yes, for the walk rather than the shopping. Much of the street is now chains. What survives is the Saatchi Gallery, Duke of York Square and some independent shops at the western end."
   - q: "What is the Chelsea Physic Garden?"
-    a: "London's oldest botanic garden, founded in 1673 by the Society of Apothecaries to grow medicinal plants. It is walled, about four acres, and hidden behind Royal Hospital Road with an easily missed entrance. It charges admission and closes on some days of the week, so check before going."
+    a: "London's oldest botanic garden, founded in 1673 by the Society of Apothecaries to grow medicinal plants. It is walled, about four acres, with an easily missed entrance on Royal Hospital Road. Open 11am to 5pm every day except Saturday; adults £15."
   - q: "Where do the Chelsea Pensioners live?"
-    a: "The Royal Hospital Chelsea, a Christopher Wren building of 1682 that is still a working retirement home for around 300 army veterans. The grounds host the Chelsea Flower Show each May. Parts are open to visitors, and the Pensioners in their scarlet coats are a common sight around the area."
+    a: "The Royal Hospital Chelsea, a Christopher Wren building of 1682 that is still a retirement home for around 300 army veterans. The grounds host the Chelsea Flower Show each May, and parts are open to visitors."
   - q: "When is the Chelsea Flower Show?"
-    a: "Late May, over five days in the Royal Hospital grounds. Tickets sell out months ahead and the first two days are RHS members only. The whole area gets extremely busy that week, and Sloane Square station in particular is heaving."
+    a: "18 to 22 May 2027, in the Royal Hospital grounds. Tickets sell out months ahead and the first two days are RHS members only. The area is congested that week, Sloane Square station especially."
   - q: "Is Chelsea expensive?"
-    a: "Yes, among the most expensive parts of London. Eating and shopping here costs noticeably more than a mile north or east. The free things — the river walk, Royal Hospital grounds, the Saatchi Gallery, the residential streets — are the best of it."
+    a: "Yes. Eating and shopping here costs noticeably more than a mile north or east. The river walk, the Royal Hospital grounds and the residential streets are free."
 heroImage: ../../assets/articles/chelsea-area-guide/royal-hospital-chelsea-south-front.jpg
 heroImageAlt: "The south front and Figure Court of the Royal Hospital Chelsea, designed by Christopher Wren"
 heroImageCredit: "Camster2"
@@ -74,25 +75,25 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
 ---
 
-Chelsea is a low-rise, well-kept stretch between the King's Road and the Thames, and it is more interesting for walking than for shopping. The King's Road made its name in the 1960s and again with punk in the 1970s; most of that has been replaced by chains, and the reasons to come now are the side streets, the river and two very good gardens.
+Chelsea is a low-rise, well-kept stretch between the King's Road and the Thames, and it is better for walking than for shopping. The King's Road made its name in the 1960s and again with punk in the 1970s; most of that has been replaced by chains. The reasons to come now are the side streets, the river and two gardens.
 
 Chelsea has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=chelsea).
 
 ## Why visit — and who should skip it
 
-**Come here if** you like walking through good architecture, or you want a garden, a gallery and a riverside afternoon without queuing for anything. The stretch from Sloane Square down to Cheyne Walk is one of the most pleasant hours' walking in London.
+**Come here if** you like walking through good architecture, or you want a garden, a gallery and a riverside afternoon without queuing for anything. The stretch from Sloane Square down to Cheyne Walk takes about an hour.
 
-**Skip it if** you came for the King's Road you have read about. That version is gone. Also skip it if you are on a budget — this is one of the most expensive postcodes in the country and everyday things cost accordingly.
+**Skip it if** you came for the King's Road of the 1960s and 70s. Skip it too on a tight budget: everyday things cost more here.
 
 ## Top sights and activities
 
-1. **Chelsea Physic Garden** — London's oldest botanic garden, walled and founded in 1673 to grow medicinal plants. Four acres, easy to miss from the road, and the best thing in Chelsea. Check opening days. Its ticketed Christmas Fair, 26 to 29 November 2026, is in our [London Christmas markets guide](/articles/christmas-markets-london/).
-2. **Royal Hospital Chelsea** — Wren's 1682 veterans' home, still housing around 300 Chelsea Pensioners. The grounds are open and host the Flower Show each May.
-3. **Saatchi Gallery** — Free contemporary art in a former barracks at Duke of York Square. Reliably worth an hour.
-4. **King's Road** — The two-mile spine. Best at the western end past World's End, where the independents survive.
-5. **Cheyne Walk and the Chelsea Embankment** — Riverside Georgian houses with blue plaques on half of them: Turner, Whistler, Rossetti, Elizabeth Gaskell. The walk between Albert Bridge and Battersea Bridge is the prettiest in the area.
-6. **Albert Bridge** — Cast-iron, painted pink and green, and lit by 4,000 bulbs at night. Still signed to ask troops to break step when crossing.
-7. **Duke of York Square** — A pedestrian square off the King's Road with a Saturday fine food market and the Saatchi Gallery behind it.
+1. **Chelsea Physic Garden** — Walled botanic garden of four acres, founded in 1673 to grow medicinal plants. Open 11am to 5pm every day except Saturday; adults £15. Its ticketed Christmas Fair, 26 to 29 November 2026, is in our [London Christmas markets guide](/articles/christmas-markets-london/).
+2. **Royal Hospital Chelsea** — Wren's veterans' home, begun in 1682, still housing around 300 Chelsea Pensioners. The grounds are open and host the Flower Show each May.
+3. **Saatchi Gallery** — Contemporary art in a former barracks at Duke of York Square. Open daily 10am to 6pm.
+4. **King's Road** — The two-mile spine. The independents are at the western end, past World's End.
+5. **Cheyne Walk and the Chelsea Embankment** — Riverside Georgian houses with blue plaques on half of them: Turner, Whistler, Rossetti, Elizabeth Gaskell. The stretch between Albert Bridge and Battersea Bridge is the prettiest.
+6. **Albert Bridge** — Cast-iron, painted pink and green, and lit by around 4,000 bulbs at night. A sign still asks troops to break step when crossing.
+7. **Duke of York Square** — A pedestrian square off the King's Road with a Saturday food market and the Saatchi Gallery behind it.
 
 ![A spiral of rusted steel bands engraved with names, wound around a small tree at the Chelsea Physic Garden, with autumn borders of purple monkshood and verbena in front and a red-brick house beyond the wall](../../assets/articles/chelsea-area-guide/chelsea-physic-garden.jpg)
 
@@ -108,11 +109,11 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 ![A terrace on Bywater Street painted pink, white and pale blue, with a car parked outside](../../assets/articles/chelsea-area-guide/bywater-street.jpg)
 
-**Bywater Street** is the one people photograph, and it earns it — a cul-de-sac off the King's Road in blues, pinks and lilac, with basement railings and shutters. Being a dead end, there is no traffic passing through your picture.
+**Bywater Street** is the one people photograph: a cul-de-sac off the King's Road in blues, pinks and lilac, so there is no traffic passing through your picture.
 
 ![Two houses on Bywater Street, one sage green with an orange door and one pale blue](../../assets/articles/chelsea-area-guide/bywater-street-doors.jpg)
 
-**Godfrey Street, Burnsall Street and Smith Terrace** are the same idea with fewer people on them, and **Markham Square** is thirty seconds away. All four sit inside one block, so the whole thing is a twenty-minute walk, not a route — the opposite of Notting Hill, where the pastel streets are scattered over a mile.
+**Godfrey Street, Burnsall Street and Smith Terrace** are the same idea with fewer people on them, and **Markham Square** is thirty seconds away. All four sit inside one block, so it is a twenty-minute walk, not a route.
 
 ![Pastel terraced houses along Smith Terrace in Chelsea](../../assets/articles/chelsea-area-guide/smith-terrace.jpg)
 
@@ -120,65 +121,63 @@ Chelsea has its own share of the commemorative plaques marking where notable peo
 
 ![Pink and cream houses on Markham Square, Chelsea](../../assets/articles/chelsea-area-guide/markham-square.jpg)
 
-**These are people's homes**, and Bywater Street being a cul-de-sac means anyone photographing is visible from every window on it. Shoot from the pavement and keep off the steps.
+**These are people's homes**, and anyone photographing Bywater Street is visible from every window on it. Shoot from the pavement and keep off the steps.
 
 ### Sloane Square and the eastern King's Road
 
-The entrance to Chelsea, and the stretch most visitors mistake for the whole of it. The **Royal Court Theatre** sits on the square — the theatre that premiered *Look Back in Anger* in 1956 and still runs new writing, with cheap seats worth checking before anything in the West End.
+The **Royal Court Theatre** sits on the square. It premiered *Look Back in Anger* in 1956 and still runs new writing; check its cheap seats before the West End.
 
-**Peter Jones**, the John Lewis department store, occupies the west side behind a curved 1930s glass curtain wall that was radical when it went up and still looks it.
+**Peter Jones**, the John Lewis department store, occupies the west side behind a curved 1930s glass curtain wall.
 
-**The first few hundred metres of the King's Road are chain retail**, and the least interesting part of the street. The independents start after Duke of York Square and get better the further west you go.
+**The first few hundred metres of the King's Road are chain retail.** The independents start after Duke of York Square and get better the further west you go.
 
-**Sloane Square station is on the District and Circle lines**, and the whole of this guide is walkable from it — the King's Road runs a mile and a half west, so decide how far you are going before you start.
+**Sloane Square station is on the District and Circle lines.** The King's Road runs a mile and a half west, so decide how far you are going before you start.
 
 ### Duke of York Square
 
-Off the north side of the road, a hundred metres in, and the best place to sit down in Chelsea. A pedestrianised square of paving, fountains and benches in front of the former **Duke of York's military headquarters**.
+Off the north side of the road, a hundred metres in: a pedestrianised square of paving, fountains and benches in front of the former **Duke of York's military headquarters**.
 
-**The Saatchi Gallery occupies the building**, seventy thousand square feet over three floors, open daily 10am to 6pm. Some shows are free and some are individually ticketed, with their own separate last-entry times — check which before you turn up.
+**The Saatchi Gallery occupies the building**, seventy thousand square feet over three floors, open daily 10am to 6pm with last entry to the ground-floor exhibitions at 5.20pm. Some shows are free and some are individually ticketed, so check which before you turn up.
 
-**The food market runs on Saturdays**, roughly 10am to 4pm, and is the one day this square is busy. **Partridges**, the grocer on the square, is open the rest of the week.
+**The food market runs on Saturdays**, roughly 10am to 4pm. **Partridges**, the grocer on the square, is open the rest of the week.
 
 ![Outdoor tables under umbrellas and bunting at Duke of York Square off the King's Road](../../assets/articles/chelsea-area-guide/duke-of-york-square.jpg)
 
 ![Shops and outdoor dining along Duke of York Square, with bunting overhead](../../assets/articles/chelsea-area-guide/duke-of-york-square-shops.jpg)
 
-**Pavilion Road runs north from here** — a converted mews of independent food shops, butcher, baker, cheesemonger, with **The Sea, The Sea at 243** doing seafood at the top of it. It is the most concentrated good food in Chelsea and almost nobody walking the King's Road turns up it.
+**Pavilion Road runs north from here**, a converted mews of independent food shops (butcher, baker, cheesemonger) with **The Sea, The Sea at 243** doing seafood at the top of it.
 
 <div data-stay-strip></div>
 
 ### Cheyne Walk and Chelsea Embankment
 
-The riverfront, and the quietest handsome walk in this part of London. Georgian terraces facing the water, **more blue plaques per hundred metres than almost any street in Britain** — Turner, Whistler, Rossetti, Elizabeth Gaskell, Mick Jagger and Keith Richards all at various points — and houseboats moored west of Battersea Bridge.
+The riverfront: Georgian terraces facing the water, blue plaques for Turner, Whistler, Rossetti, Elizabeth Gaskell, Mick Jagger and Keith Richards, and houseboats moored west of Battersea Bridge.
 
-**Albert Bridge is the set piece.** Pink and green, lit by around four thousand bulbs after dark, and the crossing where Bridget Jones is carried between Mark and Jack in *Bridget Jones's Baby*. **Free, open to pedestrians at all hours, and best after sunset** when the bulbs are on.
+**Albert Bridge is the set piece.** It is lit by around four thousand bulbs after dark, and it is **free and open to pedestrians at all hours**.
 
-**Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back — three Michelin stars since 2001, and booked months ahead.
+**Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back: three Michelin stars since 2001, booked months ahead.
 
-**It is a walk, not a destination**, about fifteen minutes end to end, and there is very little to buy along it. Come for the plaques and the bridge, and eat elsewhere.
+**It is a walk, not a destination**: about fifteen minutes end to end, with very little to buy along it.
 
 ### World's End and the western King's Road
 
-Past the bend, where the road narrows and the chains give out. This is where the independent shops still are, and where Chelsea's actual history happened.
+Past the bend, where the road narrows and the chains give out. This is where the independent shops still are, and where Chelsea's punk history happened.
 
-**Vivienne Westwood's shop at 430 King's Road** is the one with the **backwards-running clock** over the door — the same address that was SEX in 1974 and where the Sex Pistols were assembled. It still trades.
+**Vivienne Westwood's shop at 430 King's Road** has the **backwards-running clock** over the door. The address was SEX in 1974, where the Sex Pistols were put together.
 
-**The World's End Distillery** on the corner is the Victorian pub the district takes its name from, and the stretch around it is what people mean by punk-era Chelsea.
+**The World's End Distillery** on the corner is the Victorian pub the district takes its name from.
 
-**Eat here rather than at the Sloane Square end.** **Mucci's at 442** does modern Italian a few doors from Westwood's, and **Made in Italy at 249** has been doing Neapolitan pizza by the metre on the way down for decades.
+**Eat here rather than at the Sloane Square end.** **Mucci's at 442** does modern Italian a few doors from Westwood's, and **Made in Italy at 249** does Neapolitan pizza by the metre.
 
-**It is a solid twenty-five-minute walk from Sloane Square**, and there is no station at this end — the 11, 19 and 22 buses run the length of the King's Road, which is the sensible way to do it in one direction and walk the other.
+**It is a twenty-five-minute walk from Sloane Square**, and there is no station at this end. The 11, 19 and 22 buses run the length of the King's Road: ride one way and walk the other.
 
 ### The Chelsea backstreets
 
-Between the King's Road and the river, and the reason to stop looking at shops. **Bywater Street** is the cul-de-sac of painted stucco houses that gets photographed most; **St Leonard's Terrace** faces the Royal Hospital's grounds; **Margaretta Terrace** is the pastel one.
+Between the King's Road and the river. **St Leonard's Terrace** faces the Royal Hospital's grounds and **Margaretta Terrace** is the pastel one. There is almost no traffic and nothing to buy, and people live in these streets, so do not linger on doorsteps.
 
-There is almost no traffic and nothing to buy, which is the appeal. These are residential streets and people live in them — look, do not linger on doorsteps.
+**Three restaurants here need booking**: **Daphne's at 112 Draycott Avenue**, **Kutir at 10 Lincoln Street** for modern Indian, and **Dinings SW3** in a mews off Walton Street for Japanese small plates.
 
-**Three good restaurants hide in here**, all of which need booking and none of which you would find by accident: **Daphne's at 112 Draycott Avenue**, **Kutir at 10 Lincoln Street** for modern Indian, and **Dinings SW3** in a mews off Walton Street for Japanese small plates.
-
-**The Royal Hospital Chelsea** is the anchor — Wren's home for army veterans since 1692, its grounds free and open on weekdays, and the site of the Chelsea Flower Show every May, when the whole area is impassable and hotel prices double.
+**The Royal Hospital Chelsea** is the anchor: Wren's home for army veterans, with Pensioners in residence since 1692. Its grounds are free and open on weekdays, and it hosts the Chelsea Flower Show every May (18 to 22 May 2027), when the area is congested and hotel prices rise.
 
 ![The ornate red brick and stone frontage of the World's End Distillery pub on the King's Road](../../assets/articles/chelsea-area-guide/kings-road.jpg)
 
@@ -186,7 +185,7 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 ## Go deeper
 
-- **[London's historic houses](/articles/historic-houses-london/)** — including the Royal Hospital Chelsea, whose grounds are more visitable than most people realise.
+- **[London's historic houses](/articles/historic-houses-london/)** — including the Royal Hospital Chelsea.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="chelsea-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -198,28 +197,28 @@ There is almost no traffic and nothing to buy, which is the appeal. These are re
 
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
-| **Duke of York Square Market** | Fine food market | ££ | Saturdays only; the best value eating in Chelsea |
-| **Colbert** | French brasserie | ££ | Sloane Square corner spot built for watching the square |
-| **The Cross Keys** | Historic pub | ££ | Chelsea's oldest pub, on Lawrence Street since 1708 |
+| **Duke of York Square Market** | Fine food market | ££ | Saturdays only |
+| **Colbert** | French brasserie | ££ | Corner spot on Sloane Square |
+| **The Cross Keys** | Pub | ££ | On Lawrence Street, dating from 1708 |
 | **Bluebird** | Modern British | £££ | In a 1923 art deco garage on the King's Road |
-| **The Pig's Ear** | Gastropub | ££ | Backstreet pub off the river end, popular with locals |
-| **Chelsea Physic Garden Cafe** | Garden cafe | ££ | Requires garden admission, but you are sitting in it |
+| **The Pig's Ear** | Gastropub | ££ | Backstreet pub off the river end |
+| **Chelsea Physic Garden Cafe** | Garden cafe | ££ | Requires garden admission |
 
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 
 *Albert Bridge.*
 
-The 606 Club on Lots Road serves dinner through two jazz sets every night, from £18 a head for the music. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) has it beside the other jazz suppers.
+The 606 Club on Lots Road serves dinner through two jazz sets every night; the music charge is £18 Sunday to Thursday and £23 on Friday and Saturday. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) has it beside the other jazz suppers.
 
 Barts, a 1920s speakeasy behind an unmarked black door at Chelsea Cloisters on Sloane Avenue, asks for a password at the door. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) covers it and the rest of London's hidden bars.
 
 ## Getting there
 
-**By Tube.** **Sloane Square** (District, Circle) is the eastern entrance and the only Tube station actually in Chelsea. The western end has no Tube at all.
+**By Tube.** **Sloane Square** (District, Circle) is the only Tube station in Chelsea, at the eastern edge. The western end has none.
 
-**Getting to the western end.** Take the **11, 19, 22 or 49 bus** along the King's Road, or walk from Sloane Square (25 minutes end to end). **Imperial Wharf** on the Overground serves the far south-west.
+**Getting to the western end.** Take the **11, 19, 22 or 49 bus** along the King's Road, or walk from Sloane Square (25 minutes). **Imperial Wharf** on the Overground serves the far south-west.
 
-**Best exit.** From Sloane Square there is one exit; turn right for the King's Road, left for Sloane Street and Knightsbridge.
+**Best exit.** Sloane Square has one exit; turn right for the King's Road, left for Sloane Street and Knightsbridge.
 
 **On foot.** Fifteen minutes to South Kensington, fifteen across Albert Bridge to Battersea Park.
 
@@ -233,7 +232,7 @@ Barts, a 1920s speakeasy behind an unmarked black door at Chelsea Cloisters on S
 
 **Best time:** Weekday afternoons. Saturday brings the food market but also the crowds.
 
-**Avoid:** Chelsea Flower Show week in late May unless you have tickets — the whole area is congested and Sloane Square station struggles.
+**Avoid:** Chelsea Flower Show week in late May unless you have tickets. Sloane Square station is congested.
 
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
@@ -241,7 +240,7 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 
 **[Chelsea to Belgravia: a blue plaque walk →](/articles/chelsea-belgravia-plaques-walk/)**
 
-Our full route for this area: **eleven numbered stops** over about 4km and two to three hours, with a map, a Google Maps walking link and a day-by-day breakdown of what is open. It runs through the densest concentration of blue plaques in London — **184 inside the square between Cheyne Walk and Belgrave Square** — taking in Oscar Wilde, Mark Twain, Bram Stoker and George Eliot, who all lived within ten minutes of one another. It also settles which day to come: **Wednesday is the only one on which all three ticketed stops open**.
+Our full route for this area: **eleven numbered stops** over about 4km and two to three hours, with a map, a Google Maps walking link and a day-by-day breakdown of what is open. It runs through the densest concentration of blue plaques in London — **184 inside the square between Cheyne Walk and Belgrave Square** — taking in Oscar Wilde, Mark Twain, Bram Stoker and George Eliot, who all lived within ten minutes of one another. **Wednesday is the only day on which all three ticketed stops open.**
 
 ### The short version, if you only have two hours
 
@@ -256,19 +255,19 @@ Our full route for this area: **eleven numbered stops** over about 4km and two t
 
 ## Common mistakes to avoid
 
-1. **Expecting the 1960s King's Road.** It is mostly chains now. The side streets and the river are the reason to come.
+1. **Expecting the 1960s King's Road.** It is mostly chains now.
 2. **Walking the whole King's Road for the shops.** It is two miles. Take a bus west and walk back.
-3. **Turning up at the Physic Garden unannounced.** It is closed on some days and the entrance on Royal Hospital Road is hard to spot.
-4. **Assuming there is a Tube at the western end.** There is not. Sloane Square is the only one, at the far eastern edge.
-5. **Eating on the King's Road itself.** You pay a premium for the address. Duke of York Square on a Saturday is far better value.
+3. **Missing the Physic Garden's closed day.** It is shut on Saturdays, and the entrance on Royal Hospital Road is hard to spot.
+4. **Assuming there is a Tube at the western end.** Sloane Square is the only station, at the far eastern edge.
+5. **Eating on the King's Road itself.** You pay a premium for the address. Duke of York Square on a Saturday costs less.
 6. **Visiting during Flower Show week without a plan.** Late May is the one time to avoid.
 
 ## Where to stay
 
-Quiet, attractive and expensive, with limited Tube access — a good base if you value calm over convenience.
+Quiet and expensive, with limited Tube access — a good base if you value calm over convenience.
 
 - **Sloane Square** — The only part with direct Tube access. Boutique hotels and townhouses.
 - **South Kensington** — Fifteen minutes north-west, better connected, and next to the museums.
-- **Earl's Court and Fulham** — West and considerably cheaper, with District line access.
+- **Earl's Court and Fulham** — West and cheaper, with District line access.
 
 Our [Chelsea and Knightsbridge hotel guide](/articles/where-to-stay-chelsea/) compares the hotels from Sloane Square to Hyde Park Corner.
