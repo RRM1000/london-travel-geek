@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:The_Langham_Hotel_-_geo
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 publishedAt: 2026-09-24
-updatedAt: 2026-09-25
+updatedAt: 2026-10-26
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -33,9 +33,7 @@ faq:
 
 Marylebone is the grid of Georgian streets directly north of Oxford Street, running up to Regent's Park. It has a village high street, the free Wallace Collection, and stations on every side, including the Elizabeth line at Bond Street.
 
-Where you sleep in it counts for more than which hotel. **The Marble Arch corner** is for Hyde Park and the Central line. **The village** is the quiet middle, a few minutes from the Elizabeth line at Bond Street. **Baker Street and Marylebone Road** are for Regent's Park, Wembley trains and the cheapest rooms. **Langham Place** is the West End edge, five minutes from Oxford Circus.
-
-Most of the hotels below are four- and five-star.
+**The Marble Arch corner** is for Hyde Park and the Central line. **The village** is the quiet middle, a few minutes from the Elizabeth line at Bond Street. **Baker Street and Marylebone Road** are for Regent's Park, Wembley trains and the cheapest rooms. **Langham Place** is the West End edge, five minutes from Oxford Circus.
 
 > 💡 **The Short Version:** On a budget, **The Z Hotel Gloucester Place** is £75 for a 14-square-metre room with a window, or £65 without one. In the village, **The Mandeville** starts at £200 booked direct, two minutes from Marylebone High Street. With children, **[The Landmark London](hotel:the-landmark-london)** has family rooms with two double beds and a pool with children's hours, and **Durrant's** has a family room with a separate bunk room for three. For a Wembley event, **[Dorset Square Hotel](hotel:dorset-square-hotel)** is five minutes from Marylebone station, nine minutes by train from the stadium. For the grand hotel, **[The Langham](hotel:the-langham-london)** at about £550, with afternoon tea in the Palm Court.
 
@@ -45,7 +43,7 @@ Most of the hotels below are four- and five-star.
 
 **Portman Square and Marble Arch** is the south-west corner, where most of the big hotels are. Hyde Park is across the road, Selfridges and the west end of Oxford Street are a few minutes away, and Marble Arch station is on the Central line. The traffic is heavy where Oxford Street, Park Lane and Edgware Road meet.
 
-**Baker Street, Dorset Square and Marylebone Road** is the north: Regent's Park, the Sherlock Holmes Museum, Madame Tussauds, and the widest choice of trains. Marylebone Road is four lanes and loud; Dorset Square, just behind it, is a residential garden square. Chiltern Street is here too; the Chiltern Firehouse hotel on it has been closed since a fire.
+**Baker Street, Dorset Square and Marylebone Road** is the north: Regent's Park, the Sherlock Holmes Museum, Madame Tussauds, and the widest choice of trains. Dorset Square, just behind Marylebone Road, is a residential garden square. Chiltern Street is here too; the Chiltern Firehouse hotel on it has been closed since a fire.
 
 **Langham Place and Portland Place** is the eastern edge, opposite BBC Broadcasting House. Oxford Circus is five minutes' walk and Soho ten.
 
@@ -59,7 +57,7 @@ Our [Marylebone area guide](/articles/marylebone-area-guide/) covers what to see
 
 *Cosy Rooms from £405 · 47 Welbeck Street, W1G 8DN · Bond Street 7 min · [Hotels.com](hotelscom:h469914)*
 
-The Doyle Collection's five-star, just east of the high street. The deciding fact is downstairs: guests get free use of the on-site **Third Space health club, with a gym and a swimming pool**.
+The Doyle Collection's five-star, just east of the high street. Guests get free use of the on-site **Third Space health club, with a gym and a swimming pool**.
 
 <div class="photo-row">
 
@@ -75,7 +73,7 @@ Rooms run from Cosy Rooms, listed from £405, to terrace suites and a two-bedroo
 
 *92 rooms and suites · George Street, W1H 5BJ · Bond Street 500m · Check-out 11am · [Hotels.com](hotelscom:h1408397)*
 
-A Georgian former coaching inn, owned by the Miller family since 1921, with the Wallace Collection as its nearest neighbour. There are 88 rooms and 4 suites, and the old layout means no two are quite the same.
+A Georgian former coaching inn with the Wallace Collection as its nearest neighbour. There are 88 rooms and 4 suites, and no two are quite the same.
 
 <div class="photo-row">
 
@@ -107,7 +105,7 @@ Room sizes spread widely, from a **Tiny Single of 11 square metres** to Executiv
 
 *57–59 Welbeck Street, W1G 9BL · Bond Street 5 min · [Hotels.com](hotelscom:h8769)*
 
-Built in 1907–09 to designs by Boehmer & Gibbs as the Welbeck Palace Hotel, on a street where doctors have practised since 1800. Its basement ballroom was a dance hall between the wars.
+An Edwardian hotel on Welbeck Street, with a bar called The Welbecker.
 
 <div class="photo-row">
 
@@ -117,7 +115,7 @@ Built in 1907–09 to designs by Boehmer & Gibbs as the Welbeck Palace Hotel, on
 
 </div>
 
-Rooms are graded by size: **Cosy doubles of 15 to 17 square metres**, Standard 18 to 22, Premium 23 to 24 with some taking a third guest on a sofa bed, and **Grand Family rooms of 26 square metres with two double beds**. Massages and facials can be booked in your room. The Welbecker is the bar.
+Rooms are graded by size: **Cosy doubles of 15 to 17 square metres**, Standard 18 to 22, Premium 23 to 24 with some taking a third guest on a sofa bed, and **Grand Family rooms of 26 square metres with two double beds**. Massages and facials can be booked in your room.
 
 ## Hotels around Portman Square and Marble Arch
 
@@ -125,7 +123,7 @@ Rooms are graded by size: **Cosy doubles of 15 to 17 square metres**, Standard 1
 
 *££ · Great Cumberland Place, W1H 7DL · Marble Arch 1 min · Check-out 11am · [check prices](hotel:the-cumberland-london)*
 
-A large hotel on the corner where Oxford Street meets Hyde Park. **Gordon Ramsay chose it for the first UK branch of Hell's Kitchen.**
+A large hotel on the corner where Oxford Street meets Hyde Park. **The first UK branch of Gordon Ramsay's Hell's Kitchen is downstairs.**
 
 ![A twin room at The Cumberland with two single beds against a grey leather headboard, red London-print cushions, blue curtains at the far window and a long desk with a coffee machine under a wall-mounted TV](../../assets/articles/where-to-stay-marylebone/the-cumberland-room.jpg)
 
@@ -137,7 +135,7 @@ Grades run from Classic singles to Park View rooms and suites; the **Family Room
 
 *£££ · 2 Wallenberg Place, W1H 7TN · Marble Arch 3 min · Check-out noon · [check prices](hotel:montcalm-mayfair)*
 
-The Montcalm group's flagship, in a Grade II listed Georgian crescent on Great Cumberland Place. It trades as Mayfair, but the address is north of Oxford Street, in Marylebone; this is the former Montcalm London Marble Arch.
+In a Grade II listed Georgian crescent on Great Cumberland Place. It trades as Mayfair but is north of Oxford Street, in Marylebone; it is the former Montcalm London Marble Arch.
 
 <div class="photo-row">
 
@@ -153,7 +151,7 @@ It is part of Marriott's Autograph Collection, so **Bonvoy points apply**. Lilli
 
 *About £230 · 28–30 Seymour Street, W1H 7JB · Marble Arch 3 min, Bond Street 8 min · [Hotels.com](hotel:the-zetter-townhouse-marylebone)*
 
-A Georgian townhouse, formerly called the Zetter Townhouse, decorated like an eccentric relative's home. The ground-floor bar, **The Parlour, fills with non-residents in the evening**, which is why some guests choose to stay here and a reason for others to ask for an upper floor.
+A Georgian townhouse, formerly the Zetter Townhouse, decorated like an eccentric relative's home. The ground-floor bar, **The Parlour, fills with non-residents in the evening**, so ask for an upper floor if you sleep early.
 
 <div class="photo-row">
 
@@ -169,7 +167,7 @@ Deluxe Doubles are 19 square metres and Deluxe Kings 27. **Each of the four Juni
 
 *££££ · 22 Portman Square, W1H 7BG · Marble Arch 5 min · [check prices](hotel:nobu-portman-square)*
 
-Not to be confused with Nobu's Shoreditch hotel. The hotel is built around the Nobu restaurant, which has a terrace, a bar, Sunday brunch and an afternoon tea as well as the main room.
+Not to be confused with Nobu's Shoreditch hotel. The hotel is built around the Nobu restaurant, which has a terrace, a bar, Sunday brunch and an afternoon tea.
 
 <div class="photo-row">
 
@@ -231,7 +229,7 @@ Eighteenth-century Georgian houses on both sides of Gloucester Place, with a 24-
 
 *118 rooms · 83 Chiltern Street, W1U 6NF · Baker Street 2 min · [Hotels.com](hotelscom:h6473)*
 
-Four restored Georgian buildings on Chiltern Street, one of them the former Bedford College for Women, themed lightly on Baker Street's fictional resident. The restaurant, Kitchen at Holmes, holds two AA rosettes, and the Duplex Loft Suites are 50 square metres over two floors. There is a gym, and dogs are welcome.
+Four restored Georgian buildings on Chiltern Street, themed lightly on Baker Street's fictional resident. The restaurant, Kitchen at Holmes, holds two AA rosettes, and the Duplex Loft Suites are 50 square metres over two floors. There is a gym, and dogs are welcome.
 
 ![A suite at Holmes Hotel London with the bed's black headboard printed with a gold 221B door and knocker, oak floors, and a sitting area with a leather sofa and yellow cushions through a wide opening](../../assets/articles/where-to-stay-marylebone/holmes-hotel-room.jpg)
 
@@ -243,7 +241,7 @@ Four restored Georgian buildings on Chiltern Street, one of them the former Bedf
 
 *££££ · 38 rooms · 39–40 Dorset Square, NW1 6QN · Marylebone station 5 min, Baker Street 10 min · [check prices](hotel:dorset-square-hotel)*
 
-Tim and Kit Kemp's first hotel, in a Regency building facing the garden square that was Thomas Lord's original cricket ground. The 38 bedrooms carry cricket artwork, the Drawing Room has an honesty bar and a fire, and The Potting Shed names its cocktails after the same history. It is on a residential square, not a shopping street.
+A Regency building facing the garden square that was Thomas Lord's first cricket ground. The 38 bedrooms carry cricket artwork, the Drawing Room has an honesty bar and a fire, and The Potting Shed names its cocktails after the same history.
 
 ![A bedroom at Dorset Square Hotel with green walls, a tall arched headboard embroidered with red and blue flowers, a scalloped white quilt, a green-striped armchair and a sash window over the rooftops](../../assets/articles/where-to-stay-marylebone/dorset-square-hotel-room.jpg)
 
@@ -255,9 +253,9 @@ Tim and Kit Kemp's first hotel, in a Regency building facing the garden square t
 
 *££££ · 222 Marylebone Road, NW1 6JQ · Opposite Marylebone station, Baker Street 5 min · Check-out noon · [Hotels.com](hotel:the-landmark-london)*
 
-Open since 1 July 1899, opposite Marylebone station. The Winter Garden is a glass-roofed atrium planted with palm trees, home to the restaurant and an afternoon tea served beneath the palms.
+Opposite Marylebone station. The Winter Garden is a glass-roofed atrium planted with palm trees, home to the restaurant and an afternoon tea.
 
-**For families it has two things**: an Executive Family Room with two double beds and a lounge area, plus family suites and studios, and a **vitality pool, heated to 34°C, in the spa, with children's hours of 9 to 11am and 3 to 5pm**. Cots are free for under-twos. Marylebone Road outside is four lanes of traffic. At weekends breakfast is for residents only. Our [family hotels guide](/articles/best-family-hotels-london/) compares it with the other family hotels in London, and for a pool to swim lengths in, [London hotels with a pool](/articles/hotels-with-pool-london/) has The Langham's 16-metre pool and The Marylebone's 18-metre one nearby.
+**For families it has two things**: an Executive Family Room with two double beds and a lounge area, plus family suites and studios, and a **vitality pool, heated to 34°C, in the spa, with children's hours of 9 to 11am and 3 to 5pm**. Cots are free for under-twos. At weekends breakfast is for residents only. Our [family hotels guide](/articles/best-family-hotels-london/) compares it with the other family hotels in London, and for a pool to swim lengths in, [London hotels with a pool](/articles/hotels-with-pool-london/) has The Langham's 16-metre pool and The Marylebone's 18-metre one nearby.
 
 <div class="photo-row">
 
@@ -277,7 +275,7 @@ Open since 1 July 1899, opposite Marylebone station. The Winter Garden is a glas
 
 *About £550 · 1c Portland Place, W1B 1JA · Oxford Circus 5 min · Breakfast extra · [check prices](hotel:the-langham-london)*
 
-Opened in 1865 as Europe's first grand hotel, opposite BBC Broadcasting House. **The Palm Court claims to be where British afternoon tea began**, and it books out weeks ahead, so reserve a table when you book the room; our [afternoon tea guide](/articles/best-afternoon-tea-london/) covers the sittings.
+Opposite BBC Broadcasting House. **The Palm Court claims to be where British afternoon tea began**, and it books out weeks ahead, so reserve a table when you book the room; our [afternoon tea guide](/articles/best-afternoon-tea-london/) covers the sittings.
 
 Artesian is the cocktail bar, Chuan Body + Soul is the spa, and there is a swimming pool. The Wigmore, the hotel's British tavern, is the cheap way to eat in the building. There are family rooms as well as suites.
 
@@ -293,7 +291,7 @@ Artesian is the cocktail bar, Chuan Body + Soul is the spa, and there is a swimm
 
 *About £250 · 14–15 Langham Place, W1B 2QS · Oxford Circus 4 min · Breakfast extra · [Hotels.com](hotel:treehouse-hotel-london)*
 
-The hotel occupies the top floors of a building next to Broadcasting House, so the rooms look out over the city, not into a light well. The Nest, the rooftop bar, looks across to Regent's Park and the Shard, and Madera serves Californian-Mexican food.
+The hotel occupies the top floors of a building next to Broadcasting House. The Nest, the rooftop bar, looks across to Regent's Park and the Shard, and Madera serves Californian-Mexican food.
 
 <div class="photo-row">
 
@@ -333,4 +331,4 @@ Rooms are 21 to 24 square metres. **The Lookout Two Twin Doubles sleeps four in 
 
 **Heathrow:** the Elizabeth line from Bond Street, no change, or the Heathrow Express from Paddington. Our [Heathrow to London guide](/articles/heathrow-airport-to-london/) compares the fares.
 
-*Typical nightly rates for a double, or each hotel's own published from-rate where it gives one, checked 24 September 2026. The £ symbols mark a price band where a hotel publishes no rate. Walking times come from the hotels where they give them. Prices move nightly, so check your own dates.*
+*Typical nightly rates for a double, or each hotel's own published from-rate where it gives one, September 2026. The £ symbols mark a price band where a hotel publishes no rate. Prices move nightly, so check your own dates.*
