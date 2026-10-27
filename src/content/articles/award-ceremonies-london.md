@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:British_Academy_Film_A
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-26
+updatedAt: 2026-10-27
 reviewBy: 2026-11-05
 sites:
   - london
@@ -141,6 +141,7 @@ These are industry, trade or private events.
 
 | Event | Date and venue | What the public can do |
 | --- | --- | --- |
+| Ballon d'Or | Mon 26 Oct 2026, London Palladium | Invitation only. Broadcast live, starting at 8pm GMT |
 | Ivor Novello Awards | Thu 20 May 2027, JW Marriott Grosvenor House, Park Lane | An industry event with press accreditation. Amazon Music livestreamed the red carpet and backstage in 2026 |
 | Music Week Awards | May (2026: 7 May), JW Marriott Grosvenor House | A music-trade event whose 2026 tickets sold out. Register interest for 2027 on [musicweekawards.com](https://www.musicweekawards.com/) |
 | Booker Prize ceremony | Mon 9 Nov 2026, Old Billingsgate | Private, with a free livestream and ticketed watch parties in bookshops |

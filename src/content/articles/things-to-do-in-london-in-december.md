@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-10-26
+updatedAt: 2026-10-27
 reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london
@@ -45,7 +45,7 @@ The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and car
 | Wed 2 Dec | Spurs v Fulham, Chelsea v Crystal Palace and Brentford v Arsenal, 8pm | Ticketed |
 | Thu 3 Dec | Trafalgar Square tree lit; Royal Ballet's Nutcracker opens; Kew adults-only evening | Tree free |
 | Fri 4 Dec | Bayeux Late at the British Museum; Hampton Court Festive Fayre starts | Late free |
-| Sat 5 Dec | Spurs v Arsenal; London Palladium panto opens | Ticketed |
+| Sat 5 Dec | Spurs v Arsenal; London Palladium panto opens; England Women v Ukraine at Wembley, 5.30pm | Ticketed |
 | Wed 9 Dec | Alexandra Palace Festive Skate opens | Ticketed |
 | Thu 10 Dec | Carols by Candlelight at the Tower; A Celebration of Christmas at St Paul's | £30; paid |
 | Fri 11 Dec | PDC World Darts begins at Alexandra Palace | Ticketed |

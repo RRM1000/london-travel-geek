@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26",
- "count": 128,
+ "generated": "2026-10-27",
+ "count": 131,
  "events": [
   {
    "slug": "national-portrait-es-devlin",
@@ -495,6 +495,39 @@
    "notYetOpen": true
   },
   {
+   "slug": "england-women-v-ukraine-wembley",
+   "name": "England Women v Ukraine",
+   "type": "sporting-event",
+   "style": "FIFA Women's World Cup 2027 European qualifying play-off, second leg",
+   "venue": "Wembley Stadium",
+   "startsOn": "2026-12-05",
+   "endsOn": "2026-12-05",
+   "area": "Wembley",
+   "borough": "Brent",
+   "zone": "4",
+   "district": "North",
+   "address": "Wembley Stadium",
+   "postcode": "HA9 0WS",
+   "agePolicy": "family-friendly",
+   "duration": "An evening",
+   "price": "Adults £15 to £59; under-16s, students and seniors £5 to £17.50",
+   "priceBand": "under-20",
+   "booking": "required",
+   "whyGo": "England, the 2025 European champions, host the second leg at Wembley with a place at the 2027 World Cup finals in Brazil at stake.",
+   "opNote": "Kick-off 5.30pm. Official tickets come through Wembley Stadium and Ticketmaster only. No under-2s are admitted.",
+   "goodFor": [
+    "families",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.wembleystadium.com/events/2026/England-Women-v-Ukraine",
+   "bookingUrl": "https://www.ticketmaster.co.uk/england-women-v-ukraine-women-london-05-12-2026/event/230065539B210BC0",
+   "annual": false,
+   "notYetOpen": true
+  },
+  {
    "slug": "london-perfume-exhibition",
    "name": "London Perfume Exhibition",
    "type": "exhibition-convention",
@@ -950,6 +983,40 @@
    "notYetOpen": true
   },
   {
+   "slug": "world-darts-championship-alexandra-palace",
+   "name": "Paddy Power World Darts Championship 2026/27",
+   "type": "sporting-event",
+   "style": "PDC world title darts over 36 sessions, in the Great Hall for the first time",
+   "venue": "Alexandra Palace (The Great Hall)",
+   "startsOn": "2026-12-11",
+   "endsOn": "2027-01-03",
+   "recurring": "annual",
+   "typicalWhen": "Mid-December to early January, annually",
+   "area": "Muswell Hill",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "Alexandra Palace Way",
+   "postcode": "N22 7AY",
+   "duration": "A session",
+   "price": "Tiered seats from £55, table seats from £75, 501 Club hospitality from £399",
+   "priceBand": "over-50",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "whyGo": "The PDC world title runs for 36 sessions from Friday 11 December to Sunday 3 January, in the Great Hall for the first time, with room for over 5,000 a session.",
+   "opNote": "Tickets were allocated by ballot, which has closed; any resale must go through See Tickets' Fan-to-Fan platform. Evening doors open at 7pm.",
+   "goodFor": [
+    "groups",
+    "date"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/",
+   "annual": true,
+   "notYetOpen": true
+  },
+  {
    "slug": "leicester-square-christmas",
    "name": "Leicester Square Christmas Market",
    "type": "seasonal",
@@ -1263,6 +1330,42 @@
    "notYetOpen": false
   },
   {
+   "slug": "masters-snooker-alexandra-palace",
+   "name": "Johnstone's Paint Masters Snooker 2027",
+   "type": "sporting-event",
+   "style": "Invitation snooker for the world's top 16 players",
+   "venue": "Alexandra Palace (West Hall)",
+   "startsOn": "2027-01-10",
+   "endsOn": "2027-01-17",
+   "recurring": "annual",
+   "typicalWhen": "Mid-January, annually",
+   "area": "Muswell Hill",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "Alexandra Palace Way",
+   "postcode": "N22 7AY",
+   "agePolicy": "all-ages",
+   "duration": "A session",
+   "price": "From £35 a session, plus a 10% booking fee and a £2.10 restoration levy per ticket",
+   "priceBand": "20-50",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "whyGo": "The Masters has been staged at Alexandra Palace since 2012, with a crowd of over 2,000 watching the world's top 16 players.",
+   "opNote": "Doors open at 11:30. Sessions start at 1pm and 7pm and are provisional until World Snooker Tour confirms them. All seating is reserved. Matches are best of 11 frames until the final, which is best of 19. Under-16s must be with an adult over 21.",
+   "goodFor": [
+    "groups",
+    "date"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.alexandrapalace.com/whats-on/johnstones-paint-masters-snooker-2027/",
+   "bookingUrl": "https://www.wst.tv/tickets/masters-tickets-2027/",
+   "annual": true,
+   "notYetOpen": true
+  },
+  {
    "slug": "yuko-mohri-curve",
    "name": "Yuko Mohri: In Concert",
    "type": "installation",
@@ -1294,6 +1397,43 @@
    ],
    "annual": false,
    "notYetOpen": false
+  },
+  {
+   "slug": "london-art-fair",
+   "name": "London Art Fair",
+   "type": "exhibition",
+   "style": "Modern and contemporary galleries selling direct to visitors in Islington",
+   "venue": "Business Design Centre",
+   "startsOn": "2027-01-20",
+   "endsOn": "2027-01-24",
+   "recurring": "annual",
+   "typicalWhen": "Mid-to-late January",
+   "area": "Islington",
+   "borough": "Islington",
+   "guide": "islington-area-guide",
+   "zone": "1–2",
+   "district": "North",
+   "address": "52 Upper Street",
+   "postcode": "N1 0QH",
+   "agePolicy": "all-ages",
+   "duration": "Half a day",
+   "price": "Day ticket £27.75 in advance, £28 on the door; Wednesday Late £21.25; concessions £23.25",
+   "priceBand": "20-50",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "whyGo": "Galleries from across the world sell modern and contemporary art direct at the Business Design Centre; the 2027 fair is the 39th edition.",
+   "opNote": "Preview Evening is Tuesday 19 January, 5pm to 9pm, from £42.75 in advance. Public hours are 11am to 9pm on Wednesday (Wednesday Late View from 5pm), 11am to 7pm Thursday to Saturday and 11am to 5pm on Sunday. Large bags and rucksacks are not allowed inside; there is a cloakroom.",
+   "goodFor": [
+    "art",
+    "date"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.londonartfair.co.uk/",
+   "bookingUrl": "https://www.londonartfair.co.uk/tickets/",
+   "annual": true,
+   "notYetOpen": true
   },
   {
    "slug": "megacon-live-london",
@@ -3345,39 +3485,6 @@
    "lists": [
     "events",
     "free"
-   ],
-   "annual": true,
-   "notYetOpen": false
-  },
-  {
-   "slug": "london-art-fair",
-   "name": "London Art Fair",
-   "type": "exhibition",
-   "style": "A hundred galleries selling modern and contemporary art in Islington",
-   "venue": "Business Design Centre",
-   "recurring": "annual",
-   "typicalWhen": "Mid-to-late January",
-   "area": "Islington",
-   "borough": "Islington",
-   "guide": "islington-area-guide",
-   "zone": "1–2",
-   "district": "North",
-   "address": "52 Upper Street",
-   "postcode": "N1 0QH",
-   "agePolicy": "all-ages",
-   "duration": "Half a day",
-   "price": "Roughly £20-£30 on the door",
-   "priceBand": "20-50",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "whyGo": "More than a hundred galleries fill the Business Design Centre in the dead week after New Year - a rare chance to buy directly from small dealers rather than watch an auction. January's most reliable indoor fixture.",
-   "opNote": "Tickets cheaper online than on the door. Quietest on the weekday afternoons.",
-   "goodFor": [
-    "art",
-    "date"
-   ],
-   "lists": [
-    "events"
    ],
    "annual": true,
    "notYetOpen": false
