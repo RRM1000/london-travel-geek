@@ -85,7 +85,7 @@ Kensington has its own share of the commemorative plaques marking where notable 
 
 ## Top sights and activities
 
-1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed (adults £24.70; as of 26 October 2026 open Wednesday to Sunday, 10am to 4pm, last entry 3pm). The **Sunken Garden** beside it is free.
+1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed (adults £24.70; as of October 2026 open Wednesday to Sunday, 10am to 4pm, last entry 3pm). The **Sunken Garden** beside it is free.
 2. **Kensington Gardens** — 265 acres. The Albert Memorial, the Italian Gardens at the north end, the Peter Pan statue and the Diana Memorial Playground.
 3. **Holland Park and the Kyoto Garden** — A Japanese garden given by Kyoto in 1991, with a tiered waterfall, koi and peacocks. Free and small; allow twenty minutes.
 4. **The Design Museum** — In the former Commonwealth Institute, under a 1962 hyperbolic paraboloid roof. The permanent gallery is free.

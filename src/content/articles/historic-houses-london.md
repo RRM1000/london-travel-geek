@@ -33,7 +33,7 @@ London's historic interiors range from royal palaces to a chapel that is the las
 
 > 💡 **The Short Version:** **Sir John Soane's Museum** is free and preserved as the architect left it in 1837. **Eltham Palace** is an art deco mansion grafted onto a medieval palace. **The Painted Hall** in Greenwich is often called Britain's Sistine Chapel. **St Dunstan in the East** is a bombed church filled with vines. **Evensong at St Paul's** is free and daily.
 
-*Admission prices and opening times as of 26 October 2026.*
+*Admission prices and opening times as of October 2026.*
 
 ## Where they are
 
@@ -140,7 +140,7 @@ The Courtaulds' half gives you a **circular entrance hall** lit from above and p
 
 Nineteen acres of garden outside, with a rock garden, a sunken rose garden and a medieval bridge over the moat.
 
-**Book online by midnight the day before to pay £17 rather than £20 on the door.** It runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of service** (as of 26 October 2026) and the upper floors are reached by stairs only; a virtual tour of them is on the multimedia guide.
+**Book online by midnight the day before to pay £17 rather than £20 on the door.** It runs daily through the summer, but from **early November to mid-February it opens weekends only**, and it closes early on some Saturdays for weddings. **The lift is out of service** (as of October 2026) and the upper floors are reached by stairs only; a virtual tour of them is on the multimedia guide.
 
 ### Kensington Palace
 
@@ -152,7 +152,7 @@ Queen Victoria's birthplace and childhood home, where **the rooms she grew up in
 
 **Parts are shut.** The **Queen's State Apartments are closed until spring 2027** for re-presentation, and the **King's Gallery closes from 18 November until spring 2027** for roof repairs.
 
-**Open Wednesday to Sunday, 10am–4pm, last entry 3pm** (as of 26 October 2026; closed Monday and Tuesday). Adults pay £24.70. **£1 tickets** are available to anyone on Universal Credit and several other benefits, up to four per household. Free 15-minute talks and a free audio guide come with admission, and there are **free BSL tours Wednesday to Sunday**, booked ahead.
+**Open Wednesday to Sunday, 10am–4pm, last entry 3pm** (as of October 2026; closed Monday and Tuesday). Adults pay £24.70. **£1 tickets** are available to anyone on Universal Credit and several other benefits, up to four per household. Free 15-minute talks and a free audio guide come with admission, and there are **free BSL tours Wednesday to Sunday**, booked ahead.
 
 ![The statue of Queen Victoria outside the red-brick frontage of Kensington Palace](../../assets/articles/historic-houses-london/victoria-and-kensington-palace.jpg)
 
@@ -190,7 +190,7 @@ Included with admission: talks every half hour from 11am to 4pm, a daily history
 
 The **Secret Dome Tour** takes six people at a time up into Wren's dome for £48. It is **125 steps you must climb unaided**, with no step-free alternative.
 
-**Open daily 10am–5pm** (last entry 4.30pm), but it closes for events on set dates, sometimes all day and sometimes from mid-afternoon; the closures are listed on the college's opening-times page. **The lift is out of order** (as of 26 October 2026), leaving 50 steps in four flights.
+**Open daily 10am–5pm** (last entry 4.30pm), but it closes for events on set dates, sometimes all day and sometimes from mid-afternoon; the closures are listed on the college's opening-times page. **The lift is out of order** (October 2026), leaving 50 steps in four flights.
 
 ![The painted ceiling of the Painted Hall at Greenwich, crowded with baroque figures](../../assets/articles/historic-houses-london/painted-hall-ceiling.jpg)
 

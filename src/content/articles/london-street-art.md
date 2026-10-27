@@ -37,7 +37,7 @@ Most Banksy maps of London send you to walls where the work no longer exists. Pi
 
 > 💡 **The Short Version:** **Ten of the fifteen are on one route**. Our [Banksy route](/articles/banksy-walk-london/) runs from **Blind Patriotism** at Waterloo Place to the **Royal Family** in Stoke Newington in about three and a half hours, with one Tube ride and one Overground train. The **2024 animal series** left work across the city, though six of the nine have gone. **Leake Street** is legal graffiti under Waterloo and repainted constantly. **Shoreditch** is the densest area.
 
-*Status of each work as of 26 October 2026.*
+*Status of each work as of October 2026.*
 
 ## Where they are
 

@@ -167,7 +167,7 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 
 ---
 
-*Policy as of 26 October 2026; retailer terms as published on 3 September 2026. Confirm with the shop before you commit to a £1,500 purchase.*
+*Policy as of October 2026; retailer terms as published on 3 September 2026. Confirm with the shop before you commit to a £1,500 purchase.*
 
 ---
 

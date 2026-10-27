@@ -31,7 +31,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0"
 
 > 💡 **The Short Version:** **Bridge Command** is the most interactive: you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest, and you cannot hide from it. **Frameless** is for people who hate being spoken to. **Outernet is free.** Opening next: Alice Immersive Wonderland and Wundrful World of Christmas (13 November), Phantom Peak (4 December) and Secret Cinema's Pirates of the Caribbean (16 February). Closed: Jeff Wayne's War of the Worlds, Vikings, the Gunpowder Plot and LUMINISCENCE.
 
-*Prices and dates as of 26 October 2026.*
+*Prices and dates as of October 2026.*
 
 ---
 

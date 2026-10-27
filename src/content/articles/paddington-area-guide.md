@@ -109,7 +109,7 @@ The junction where the Grand Union meets the Regent's Canal, lined with white st
 
 East of the station, on the same water but a different place from Little Venice: glass offices, hard landscaping and a canal that dead-ends into the city.
 
-**Two moving footbridges are the reason to walk down.** Thomas Heatherwick's **Rolling Bridge** curls up into an octagon, usually around midday on Fridays. The **Fan Bridge** opens in five segments and is scheduled to lift at 11.30am on Mondays, Wednesdays and Fridays, but is out of order as of 26 October 2026.
+**Two moving footbridges are the reason to walk down.** Thomas Heatherwick's **Rolling Bridge** curls up into an octagon, usually around midday on Fridays. The **Fan Bridge** opens in five segments and is scheduled to lift at 11.30am on Mondays, Wednesdays and Fridays, but is out of order as of October 2026.
 
 There is also a **Floating Pocket Park**, a moored island of trees and benches that rises and falls with the water.
 
