@@ -60,6 +60,10 @@
   "recentlyDone": [
     {
       "date": "2026-10-27",
+      "what": "Events radar: the Ballon d'Or in London (26 Oct) was missed, scored 2.6 across five stories. The radar now recognises named one-off occasions (awards, premieres, state occasions), merges same-name headlines into one story, and searches \"London to host\" style announcements. A look-back search for Nov-Jan found four gaps, now in the Events tab (152 rows): World Darts Championship (11 Dec-3 Jan), Masters snooker (10-17 Jan), London Art Fair 2027 dates, England Women v Ukraine at Wembley (5 Dec). Ballon d'Or row added to the award ceremonies page. Daily radar email now sends without an approval prompt."
+    },
+    {
+      "date": "2026-10-27",
       "what": "Site-wide trim and date check finished: all 282 articles read sentence by sentence (34 batches, by Google clicks), waffle cut (typically 10-30% on prose pages, 2-10% on fact-dense ones), every dated or priced claim checked against the operator, \"checked on\" and website-state lines removed, stale counts taken out of titles. Dozens of real errors fixed, e.g. Tower hours, Westminster Abbey phone number, Portobello market days, Billingsgate closure, Bruges through-tickets, Kensington Palace winter hours, City Airport routes. Sheet rows fixed: Flat Iron bookings, Dishoom 8 sites, Italian Bear, Andrea's, Manzi's, Naïfs, Sushi Tetsu, Dinings SW3, Jikoni postcode; Events tab: BST, All Points East, Meltdown 2027, Winter Wonderland, duplicate Diwali row. Branch ltg-dates-1025 (335 commits) builds 507 pages, links clean, no expired claims; not pushed."
     },
     {
