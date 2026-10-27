@@ -1,12 +1,10 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-26",
-  "inProgress": [
-    "Site-wide trim and date check, by Google clicks, eight pages per agent, two at a time. Done: the immersive page and batches 1 to 7 (57 pages). Running: batches 8 and 9."
-  ],
+  "updated": "2026-10-27",
+  "inProgress": [],
   "nextUp": [
-    "Push ltg-dates-1025 when Rob says; push ltg-fares-1101 on or after 1 November 2026 (bus fare £1.85, cap £5.55).",
+    "Push ltg-dates-1025 when Rob says (all trim and date fixes, the Events tab, the GetYourGuide tags). Then on or after 1 November: rebase ltg-fares-1101 onto it, add the new Uber Boat fares, build and push.",
     "On 1 November, before pushing ltg-fares-1101: rebase it on ltg-dates-1025 and add the new Uber Boat peak fares (Central £10.80, Central & East or West £12.40; online singles £10.60 and £12.20) to five-days-in-london-itinerary, london-public-transport-costs-and-fares, thames-river-cruises-london and the-o2-travel-guide.",
     "Add Oxford Street's 2026 lights switch-on date to the lights walk, the Christmas guide and the November guide as soon as Oxford Street announces it.",
     "Fix the affiliate_click venue capture: every venue name ends in 'ad' because the Ad badge text is read with it (BaseLayout.astro).",
@@ -56,9 +54,14 @@
     "Still to do from 17 October: January 2027 guide, hotels with a pool, Wimbledon 2027 ballot and Bonfire Night refresh, dog-friendly chains and Soho/Shoreditch hotels (agents were stopped before finishing).",
     "Confirm: The Vault at Milroy's still open? Left off for want of an operator site: Mannions Prince Arthur, Army & Navy (karaoke), The Blind Pig, Lost Property Office (speakeasy), Sophocles Bakery, Santorini Bayswater (Greek), Logma (fusion).",
     "Events tab in the Google Sheet: mirror the events.json fixes from ltg-dates-1025 (MCM May 2027, Winter Wonderland price, NYE price, Leicester Sq and Southbank start dates, Kew, Parade, Ideal Christmas Show), or the next export-events.mjs run overwrites them. Also unconfirmed: Primrose Hill 10pm close to 8 Nov, the Banksy piranhas at the London Museum, Kew 3.15pm close from 12 Nov, Uber Boat fares from 1 Nov.",
-    "Immersive page: has Sherlock: The Game Is Now closed? Is Arcade Arena open? Christmas Day page: Hard Rock Cafe at Piccadilly Circus or Old Park Lane?"
+    "Immersive page: has Sherlock: The Game Is Now closed? Is Arcade Arena open? Christmas Day page: Hard Rock Cafe at Piccadilly Circus or Old Park Lane?",
+    "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-27",
+      "what": "Site-wide trim and date check finished: all 282 articles read sentence by sentence (34 batches, by Google clicks), waffle cut (typically 10-30% on prose pages, 2-10% on fact-dense ones), every dated or priced claim checked against the operator, \"checked on\" and website-state lines removed, stale counts taken out of titles. Dozens of real errors fixed, e.g. Tower hours, Westminster Abbey phone number, Portobello market days, Billingsgate closure, Bruges through-tickets, Kensington Palace winter hours, City Airport routes. Sheet rows fixed: Flat Iron bookings, Dishoom 8 sites, Italian Bear, Andrea's, Manzi's, Naïfs, Sushi Tetsu, Dinings SW3, Jikoni postcode; Events tab: BST, All Points East, Meltdown 2027, Winter Wonderland, duplicate Diwali row. Branch ltg-dates-1025 (335 commits) builds 507 pages, links clean, no expired claims; not pushed."
+    },
     {
       "date": "2026-10-26",
       "what": "Events radar: daily 6.30am digest email via a Claude scheduled task (C:/Users/rober/Projects/ltg-radar, 43 sources incl. Ticketmaster for 25 venues, TfL, the Mayor, Ian Visits, Time Out, Google News). Radar-led fixes: Diwali on the Square cancelled; Oxford Street traffic-free from 26 Oct (no 390 bus tip); Piccadilly line shut on Halloween night. Events tab synced with write-events.mjs (149 rows; BST, All Points East, Meltdown 2027). GetYourGuide sidebar and area-card links now carry campaign tags."
