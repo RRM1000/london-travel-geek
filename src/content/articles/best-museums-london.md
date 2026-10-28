@@ -20,7 +20,7 @@ faq:
   - q: "Are London museums free?"
     a: "The national museums are — the British Museum, Natural History, Science Museum, V&A, Tate Modern, Tate Britain, National Gallery, National Portrait Gallery, Imperial War Museum and London Museum Docklands all cost nothing. Special exhibitions inside them are ticketed. Independent museums usually charge £10–£20."
   - q: "What is the most visited museum in London?"
-    a: "The Natural History Museum, which in 2025 became the most visited attraction in the UK with over 7 million visits — an all-time record for any British museum. The British Museum is second with 6.4 million."
+    a: "The Natural History Museum, which in 2025 was the most visited attraction in the UK with over 7 million visits. The British Museum is second with 6.4 million."
   - q: "Which London museum is best for children?"
     a: "Young V&A in Bethnal Green is built entirely around children and is free. The Science Museum and Natural History Museum are the classic answers, and the Postal Museum's Mail Rail is a miniature train ride through real tunnels."
   - q: "What is the most unusual museum in London?"
@@ -74,11 +74,11 @@ Our [British Museum guide](/articles/british-museum-guide/) has the Bayeux Tapes
 
 *Free · the UK's most visited attraction*
 
-Over **7 million visits in 2025**, an all-time record for a British museum — and the Waterhouse building is as much a sight as the collection, a Romanesque cathedral of terracotta with carved animals worked into every column and arch.
+**7,116,929 visits in 2025**, the most of any UK attraction in the [ALVA figures](https://www.alva.org.uk/details.cfm?p=423) — and the Waterhouse building is as much a sight as the collection, a Romanesque cathedral of terracotta with carved animals worked into every column and arch.
 
-Hintze Hall and the blue whale are what people come for, along with the dinosaur gallery and the earthquake simulator in the Red Zone. The **Darwin Centre cocoon** holds the spirit collection.
+Hintze Hall and the blue whale are what people come for, along with the dinosaur gallery and the earthquake simulator in the Volcanoes and Earthquakes gallery. The **Darwin Centre** has the Cocoon and the Spirit Collection tour.
 
-**Come at opening or late afternoon.** The queue on Cromwell Road is at its worst between 11am and 2pm, especially in school holidays. The **Exhibition Road entrance is consistently quieter**, and connects to the Science Museum without going back outside.
+**Weekends and school holidays can get busy, and ticket holders skip the queue.** Book the free entry ticket. The East Entrance on Exhibition Road is the way in from the Science Museum. The [full Natural History Museum guide](/articles/natural-history-museum-guide/) has entrances, a route, cafés and exhibition prices.
 
 ### Science Museum, South Kensington
 
@@ -348,8 +348,8 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
 * **Pick three things and leave.** The British Museum has around eight million objects and about 80,000 on display.
 * **Go at opening or in the last two hours.** The V&A, the Natural History Museum and the British Museum are all substantially quieter before 11am and after 4pm.
-* **Use the side entrances.** The Natural History Museum's Exhibition Road entrance is almost always shorter than the Cromwell Road one. The V&A's tunnel entrance from South Kensington station skips the street entirely.
-* **Free does not mean no booking.** Several still ask for a timed slot at busy periods, and turning up without one on a Saturday can mean a wait.
+* **Use the station tunnel.** From South Kensington station the subway runs to the Natural History Museum's Subway Gate, and brings you out on the museums' side of the road for the V&A and Science Museum.
+* **Free does not mean no booking.** Several still ask for a ticket at busy periods, and turning up without one on a Saturday can mean a wait.
 * **The temporary exhibitions are the ticketed part**, and they are where the queues are.
 * **Lates.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly and usually free.
 

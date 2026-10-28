@@ -129,9 +129,9 @@ The V&A's museum for children, reopened in 2023 on the old Museum of Childhood s
 
 ### Natural History Museum and Science Museum, South Kensington
 
-*Both free · book a free timed ticket · South Kensington*
+*Both free · book a free entry ticket · South Kensington*
 
-Next door to each other on Exhibition Road, **and both free**. The Natural History Museum has Hintze Hall with the blue whale hung overhead, and the dinosaur gallery; it opens daily 10.00 to 17.50, last entry 17.30, and is closed 24 to 26 December. The Science Museum suits children old enough to press things, opens daily 10.00 to 18.00, last entry 17.15, and its hands-on Wonderlab gallery is the one part that carries a charge. **General admission at both is free, but book the free timed ticket** instead of queueing: the walk-up line at the Natural History Museum in half term can swallow a morning. With anyone under about eight, pick one and go at opening or after three.
+Next door to each other on Exhibition Road, **and both free**. The Natural History Museum has Hintze Hall with the blue whale hung overhead, and the dinosaur gallery; it opens daily 10.00 to 17.50, last entry 17.30, and is closed 24 to 26 December. Our [Natural History Museum guide](/articles/natural-history-museum-guide/) has the entrances, a route through the galleries and where children can eat. The Science Museum suits children old enough to press things, opens daily 10.00 to 18.00, last entry 17.15, and its hands-on Wonderlab gallery is the one part that carries a charge. **General admission at both is free, but book the free ticket** instead of queueing: at weekends and in school holidays the Natural History Museum can have a queue to enter, and ticket holders skip it. With anyone under about eight, pick one and go at opening or after three.
 
 ### London Transport Museum, Covent Garden
 
@@ -253,7 +253,7 @@ The draw is photographs beside waxworks, plus a short dark ride at the end. **Bo
 
 ## Free spectacle
 
-* **Changing the Guard**, St James's: guards in bearskins and a full regimental band, free to watch. Check the schedule; it does not run daily.
+* **Changing the Guard**, St James's: guards in bearskins and a full regimental band, free to watch. Check the schedule; it does not run daily. Our [Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/) has the days and where to stand.
 * **Greenwich Foot Tunnel**: walk **under the Thames** through a tiled Victorian tunnel and come up on the Isle of Dogs. Free and open at all hours.
 * **Word on the Water**, King's Cross: a bookshop on a barge, with a roof deck.
 * **The Crystal Palace Dinosaurs**: the first dinosaur sculptures ever made, from 1854, and scientifically out of date.

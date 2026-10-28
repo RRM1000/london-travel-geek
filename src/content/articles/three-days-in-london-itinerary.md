@@ -88,7 +88,7 @@ Skip the bridge approaches. Walk into St James's or ride two stops to Covent Gar
 
 *Fifteen minutes, one kilometre, from the Clive Steps across the lake.* The bridge over the lake gives the view of the palace, with the London Eye behind you the other way.
 
-**Changing the Guard at Buckingham Palace is at 11am on Monday, Wednesday and Friday**, per the Household Division's own [calendar](https://www.householddivision.org.uk/changing-the-guard-calendar). On Tuesday, Thursday and Saturday the palace runs a **Captain's Inspection at 3pm** instead, and on some Sundays a **Sunday Parade at 10am**.
+**Changing the Guard at Buckingham Palace is at 11am on Monday, Wednesday and Friday**, per the Household Division's own [calendar](https://www.householddivision.org.uk/changing-the-guard-calendar). On Tuesday, Thursday and Saturday the palace runs a **Captain's Inspection at 3pm** instead, and on some Sundays a **Sunday Parade at 10am**. Where to stand is in our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
 
 It only fits alongside the Abbey if you do the Abbey second. The view worth having is from the Victoria Memorial steps.
 
@@ -179,13 +179,13 @@ Three national museums within a few minutes of each other, all free.
 
 | Museum | Hours | Last entry | What it is for |
 | --- | --- | --- | --- |
-| **Natural History Museum** | Daily 10:00–17:50 | 17:30 | Specimens and the building itself. Book a free ticket; walk-ups admitted. Closed 24–26 December |
+| **[Natural History Museum](/articles/natural-history-museum-guide/)** | Daily 10:00–17:50 | 17:30 | Specimens and the building itself. Book a free ticket; walk-ups admitted. Closed 24–26 December |
 | **V&A** | Daily 10.00–17.45, **Friday to 22.00** | — | Design, fashion and objects. The Friday late runs four hours past the other two |
 | **Science Museum** | Daily 10.00–18.00 | 17.15 | Engineering you can press. Its own figure for an average visit is **around two hours**. **Closed 11 November 2026** |
 
 **Choose two, not three.** The Science Museum's galleries begin closing 30 minutes before the museum does, so a 4pm arrival gets you about an hour of it against the two hours it says an average visit takes.
 
-*South Kensington station to the Natural History Museum is thirteen minutes, 870 metres, on TfL's street route* — or use the pedestrian subway from the station, which is shorter and dry. The **Exhibition Road entrances** to the Natural History Museum and the Science Museum are quieter than the grand ones on Cromwell Road. *The V&A to the Science Museum is five minutes, 370 metres.*
+*South Kensington station to the Natural History Museum is thirteen minutes, 870 metres, on TfL's street route* — or use the pedestrian subway from the station, which is shorter and dry. Our [Natural History Museum guide](/articles/natural-history-museum-guide/) has the three entrances and a route through the galleries. *The V&A to the Science Museum is five minutes, 370 metres.*
 
 Then walk into Hyde Park, or south to [Chelsea](/articles/chelsea-area-guide/). The [South Kensington guide](/articles/south-kensington-area-guide/) has where to eat that is not the museum café.
 

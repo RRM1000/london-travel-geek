@@ -200,7 +200,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 ## The rinks that are not running
 
-- **Natural History Museum.** The museum's rink has **closed for good** after 16 years; the gardens it stood on are now wildlife gardens, free to walk round. Somerset House is a straight run from South Kensington to Temple on the District or Circle line.
+- **[Natural History Museum](/articles/natural-history-museum-guide/).** The museum's rink has **closed for good** after 16 years; the gardens it stood on are now wildlife gardens, free to walk round. Somerset House is a straight run from South Kensington to Temple on the District or Circle line.
 - **Canary Wharf.** Ice Rink Canary Wharf is **taking a break for the 2026 season**. Canary Wharf's Winter Lights, in January, go ahead; see the [Canary Wharf area guide](/articles/canary-wharf-area-guide/).
 - **Tower of London.** The moat rink ran in the mid-2010s and is **not running in 2026**.
 

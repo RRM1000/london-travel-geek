@@ -111,7 +111,7 @@ A Victorian townhouse at the top of Queen's Gate. Large mixed dorms of nine to f
 
 **The rule: Astor takes guests aged 18 to 39 in its shared dormitories.** If you are forty or over, this is not your hostel.
 
-By Astor's own reckoning the Natural History Museum is ten minutes' walk and the V&A eleven. You approach from Queen's Gate, so the museum's **West Entrance — step-free, with a ramp** — is the one to head for. **No lift, and townhouse stairs with a case.**
+By Astor's own reckoning the Natural History Museum is ten minutes' walk and the V&A eleven. You approach from Queen's Gate, so the museum's **West Entrance** is the one to head for. **No lift, and townhouse stairs with a case.**
 
 ![A shared dorm at Astor Hyde Park, with red-framed bunk beds and a tall sash window](../../assets/articles/where-to-stay-south-kensington/astor-hyde-park-dorm.jpg)
 
@@ -177,7 +177,7 @@ Take this if the museums are one day of a longer trip. If they are the trip, you
 
 ## What you are staying for
 
-The three museums are all free. The Natural History Museum's free timed entry is worth booking because standby queues at weekends are long. Our [best museums in London](/articles/best-museums-london/) guide covers which halls in each are worth your time, and the [Kensington area guide](/articles/kensington-area-guide/) picks up the ground north of here — Kensington Palace, Holland Park and Kensington High Street — if you are staying more than two days.
+The three museums are all free. The Natural History Museum's free entry ticket is worth booking because there can be a queue at weekends and in school holidays; our [Natural History Museum guide](/articles/natural-history-museum-guide/) covers the entrances, a route and the exhibition prices. Our [best museums in London](/articles/best-museums-london/) guide covers which halls in each are worth your time, and the [Kensington area guide](/articles/kensington-area-guide/) picks up the ground north of here — Kensington Palace, Holland Park and Kensington High Street — if you are staying more than two days.
 
 Our [aparthotels guide](/articles/aparthotels-london/) compares the kitchens-and-washing-machine option, and the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains what you are buying at Zedwell.
 

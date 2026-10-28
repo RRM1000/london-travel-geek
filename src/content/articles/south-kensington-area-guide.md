@@ -55,7 +55,7 @@ faq:
   - q: "Are the South Kensington museums free?"
     a: "Yes. The Natural History Museum, Science Museum and V&A all have free general admission, as do most UK national museums. Only special exhibitions are ticketed. Donations are invited but entirely optional."
   - q: "Do I need to book the Natural History Museum in advance?"
-    a: "Booking is not required but is recommended, and it is free. Standby queues at weekends and in school holidays can be long, while booked visitors walk in. Book a morning slot online before you travel."
+    a: "Booking is not required but is recommended, and it is free. At weekends and in school holidays you may have to queue, while ticket holders skip the queue. Book the free entry ticket online before you travel."
   - q: "Is there a tunnel from South Kensington station to the museums?"
     a: "Yes. A tiled Victorian pedestrian subway runs from inside the station north under Exhibition Road, free and signposted from the ticket hall. The Natural History Museum has its own gate straight off it, so you can walk in without going outside. For the Science Museum and the V&A you come up on the museums side of the road and walk the last few metres outside."
   - q: "Can you visit all three museums in one day?"
@@ -78,7 +78,7 @@ South Kensington has its own share of the commemorative plaques marking where no
 
 ## Top sights and activities
 
-1. **Natural History Museum** — Alfred Waterhouse's terracotta building, with "Hope" the blue whale skeleton suspended in Hintze Hall. Open daily 10:00–17:50. The ticketed Wildlife Photographer of the Year exhibition runs from 16 October 2026 to 11 July 2027, with adult off-peak tickets from £17.
+1. **[Natural History Museum](/articles/natural-history-museum-guide/)** — Alfred Waterhouse's terracotta building, with "Hope" the blue whale skeleton suspended in Hintze Hall. Open daily 10:00–17:50. The ticketed Wildlife Photographer of the Year exhibition runs from 16 October 2026 to 11 July 2027, with adult off-peak tickets from £17.
 2. **Victoria and Albert Museum (V&A)** — 145 galleries covering 5,000 years of art and design. The John Madejski Garden in the centre is a courtyard to sit in, and the Victorian refreshment rooms are billed by the V&A as the world's first museum cafe.
 3. **Science Museum** — Rockets, jet engines and the Apollo 10 command module. **Wonderlab** upstairs is hands-on and ticketed.
 4. **Royal Albert Hall** — The circular concert hall at the top of Exhibition Road. Home of the BBC Proms each summer, when standing tickets in the Arena or Gallery cost £8 on the day; the [Last Night of the Proms ticket routes](/articles/last-night-of-the-proms-tickets/) are set out separately.
@@ -197,7 +197,7 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 ## Suggested three-hour route
 
 1. **Start:** South Kensington station, via the **Museum Subway**.
-2. **Natural History Museum:** Hintze Hall and the dinosaur gallery. Book a slot.
+2. **[Natural History Museum](/articles/natural-history-museum-guide/):** Hintze Hall and the dinosaur gallery. Book the free entry ticket.
 3. **Exhibition Road:** North past Imperial College to the **Royal Albert Hall**.
 4. **Kensington Gardens:** Cross to the **Albert Memorial** and into the park.
 5. **Finish:** Back down for the **V&A** courtyard, or east to Harrods.

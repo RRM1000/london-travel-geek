@@ -169,7 +169,7 @@ Shonibare's *Mr and Mrs Andrews without their Heads* (1998) hangs beside the Gai
 
 ### Wildlife Photographer of the Year: Natural History Museum, from 16 October
 
-The year's winning pictures, running to **11 July 2027**. Adults from **£17** off-peak, children aged 4 to 17 **£10.50**, under-4s free.
+The year's winning pictures, running to **11 July 2027**. Adults from **£17** off-peak, children aged 4 to 17 from **£8.50**, under-4s free. Prices, entrances and a route through the rest of the museum are in our [Natural History Museum guide](/articles/natural-history-museum-guide/).
 
 **Declaring Independence: USA 250** at the British Museum is free and continues to 29 November.
 

@@ -104,7 +104,7 @@ Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/c
 
 Three major museums within *five minutes of each other*, all **free**.
 
-* **Natural History Museum** — the UK's most visited attraction. Be there at opening.
+* **[Natural History Museum](/articles/natural-history-museum-guide/)** — the UK's most visited attraction. Be there at opening.
 * **V&A** — 145 galleries, and the one for design and objects.
 * **Science Museum** — the most hands-on.
 
@@ -129,7 +129,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 *About 3 miles with deliberate gaps.*
 
-**Morning.** **One** South Kensington museum, chosen by age. The Science Museum for children who want to press things; the Natural History Museum for dinosaurs and the whale. Arrive at opening — the half-term queues are the worst in London.
+**Morning.** **One** South Kensington museum, chosen by age. The Science Museum for children who want to press things; the Natural History Museum for dinosaurs and the whale. Arrive at opening: weekends and school holidays can bring a queue to get in.
 
 **Lunch.** A picnic in **Hyde Park** in good weather, or a booked table. Museum cafés at 1pm with tired children is a bad combination.
 
@@ -179,7 +179,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 *About 3 miles, flat, and best on a Changing the Guard day.*
 
-**Morning.** **Changing the Guard** — but check the schedule, because **it does not run daily**, and get there for 10.30am for an 11am start. The crush at the Palace gates is considerable; the **Horse Guards Parade** ceremony is the same regiments with a fraction of the crowd, and the **4pm dismount inspection** there is the quietest of the lot.
+**Morning.** **Changing the Guard** — but check the schedule, because **it does not run daily**, and get there for 10.30am for an 11am start. The crush at the Palace gates is considerable; the **Horse Guards Parade** ceremony is the same regiments with a fraction of the crowd, and the **4pm dismount inspection** there is the quietest of the lot. The days and times are in our [Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
 
 **Midday.** The **Household Cavalry Museum** on Whitehall is small, cheap and good — you see the working stables through a glass screen.
 

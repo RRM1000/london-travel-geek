@@ -39,7 +39,7 @@ faq:
 
 **Every national museum in London is free.** The [British Museum](/articles/british-museum-guide/)'s Great Court, the Natural History Museum, the Science Museum, the V&A, Tate Modern, the National Gallery and National Portrait Gallery on Trafalgar Square, and smaller free ones — the Wellcome Collection, Sir John Soane's Museum, Young V&A — are all indoors and cost nothing at the door. Our [guide to London's best museums](/articles/best-museums-london/) has all of them compared.
 
-**South Kensington has a pedestrian subway from inside the Tube station**, and the Natural History Museum has a gate straight off it, so you can walk in without going outside. The Science Museum and the V&A are a short stretch above ground from the same subway.
+**South Kensington has a pedestrian subway from inside the Tube station**, and the Natural History Museum has a gate straight off it, so you can walk in without going outside; our [Natural History Museum guide](/articles/natural-history-museum-guide/) has the route through the galleries. The Science Museum and the V&A are a short stretch above ground from the same subway.
 
 ---
 
