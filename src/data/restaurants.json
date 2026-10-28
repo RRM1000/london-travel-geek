@@ -14611,7 +14611,6 @@
    "opNote": "St Giles is walk-in only; the Piccadilly branch takes bookings.",
    "lists": [
     "best-value",
-    "late-night",
     "ramen"
    ],
    "sourceCount": "4",
@@ -14652,7 +14651,6 @@
    "opNote": "No reservations: the whole party has to be there before it is seated. Closed Saturday and Sunday lunch.",
    "lists": [
     "best-value",
-    "late-night",
     "ramen"
    ],
    "sourceCount": "4",
@@ -14675,21 +14673,21 @@
    "district": "Central",
    "borough": "Westminster",
    "guide": "soho-area-guide",
-   "address": "14A Old Compton Street",
-   "postcode": "W1D 4TJ",
+   "address": "31 Peter Street",
+   "postcode": "W1F 0AR",
    "lat": 51.51377,
    "lng": -0.130176,
    "station": "Leicester Square",
    "walkMin": 3,
-   "bookingUrl": "https://www.opentable.co.uk/r/bone-daddies-old-compton-street-reservations-london?restref=121113&lang=en-GB",
-   "website": "https://bonedaddies.com/",
+   "bookingUrl": "https://web.dojo.app/create_booking/vendor/Oam-qapPTqVzjo6FpZopCsgE2borLTWWX26QRfpsY5E_restaurant",
+   "website": "https://bonedaddies.com/location/soho/",
    "noise": "loud",
    "goodFor": [
     "quick",
     "groups",
     "solo"
    ],
-   "whyGo": "A ramen bar group that opened on Peter Street, Soho, in 2012. The Old Compton Street branch seats 80 across counter seats, low tables and group booths.",
+   "whyGo": "The original Bone Daddies, opened on Peter Street, Soho, in 2012: a loud ramen bar with counter seating and a second Soho branch on Old Compton Street.",
    "opNote": "Takes bookings for lunch and dinner; walk-ins are welcome.",
    "lists": [
     "best-value",

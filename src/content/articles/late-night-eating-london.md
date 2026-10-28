@@ -1,11 +1,11 @@
 ---
 title: "Late-Night Eating in London: Where to Eat After Midnight"
 seoTitle: "Late Night Food London 2026: Open After Midnight"
-description: "A 24-hour caff with no front door, ramen at 1am, Whitechapel lamb chops and a fry-up forty floors up — where London feeds you late."
+description: "A 24-hour caff with no front door, Whitechapel lamb chops and a fry-up forty floors up — where London feeds you late."
 heroImage: "../../assets/articles/late-night-eating-london/duck-waffle-heron-tower-view.jpg"
 heroImageAlt: "The dining room at Duck & Waffle, forty floors up in the Heron Tower, with floor-to-ceiling windows over the City at dusk"
 publishedAt: 2026-06-25
-updatedAt: 2026-10-26
+updatedAt: 2026-10-28
 reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
@@ -56,8 +56,7 @@ Most London kitchens stop at 10pm, and by midnight the options narrow to a handf
 | **Whitechapel** | Tayyabs, Original Lahore Kebab House |
 | **Edgware Road** | Ranoush Juice, Cafe Helen |
 | **Chinatown** | Joy King Lau |
-| **Covent Garden** | Kanada-Ya |
-| **Shoreditch & Dalston** | Monohon Ramen, Voodoo Ray's |
+| **Dalston** | Voodoo Ray's |
 | **Marylebone** | Royal China |
 
 **Price guide:** **£** under £15 · **££** £15–£30 · **£££** £35–£55 · **££££** £70+.
@@ -169,42 +168,6 @@ Lebanese grills, mezze and mixed plates, plus the shisha terrace that keeps the 
 **Come here for a table at 1am** rather than a wrap from Ranoush a few doors along.
 
 **105a Edgware Road, W2 2HX**, six minutes from Marble Arch. No bookings; you take a table when one goes.
-
----
-
-## Ramen and noodles
-
-The full ramen list, by broth style, is in [The Best Ramen in London](/articles/best-ramen-london/).
-
-### Kanada-Ya, Covent Garden
-
-*££ · 4 min from Covent Garden*
-
-The **tonkotsu broth recipe comes from Fukuoka**. Pork bone broth simmered for hours, thin straight noodles, chashu and a marinated egg.
-
-![A queue stretching along the pavement outside Kanada-Ya's St Giles High Street branch](../../assets/articles/late-night-eating-london/kanada-ya-queue.jpg)
-
-*The queue outside Kanada-Ya.*
-
-**St Giles takes no bookings; the Piccadilly branch does.** St Giles closes at 22:00 from Sunday to Wednesday and 22:30 from Thursday to Saturday.
-
-**Check the branch.** Hours differ between sites; this entry is the St Giles High Street site near Covent Garden, at **WC2H 8DA**, four minutes from Tottenham Court Road.
-
-### Monohon Ramen, Shoreditch
-
-*££ · 7 min from Old Street · no reservations*
-
-A single-site ramen bar on Old Street that takes **no reservations**. It opened as a pop-up in 2015.
-
-![A bowl of ramen with a marinated egg, chashu and chilli oil at Monohon Ramen](../../assets/articles/late-night-eating-london/monohon-ramen-bowl.jpg)
-
-*Monohon's ramen.*
-
-**Walk in and wait;** there is no list or app, and the room seats 32. It closes at 21:30, or 21:00 on Sundays.
-
-**The broth is made on site,** and there is no second branch.
-
-**102 Old Street, EC1V 9AY**, seven minutes from Old Street station.
 
 ---
 

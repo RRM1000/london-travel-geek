@@ -267,18 +267,18 @@ Ippudo opened in Fukuoka in 1985 and runs four London shops: Central St Giles, V
 
 *Soho · 3 min from Leicester Square*
 
-Bone Daddies opened on Peter Street, Soho, in 2012 and has restaurants at Old Compton Street, Bermondsey, Bond Street, High Street Kensington, Leicester Square, Old Street and Victoria. Old Compton Street, at 14A, seats 80 across counter seats, low tables and group booths, with exposed brick, red neon and a classic-rock soundtrack.
+Bone Daddies opened at 31 Peter Street, Soho, in 2012, and has since added Old Compton Street, Bermondsey, Bond Street, High Street Kensington, Leicester Square, Old Street and Victoria. Old Compton Street, at 14A, seats 80 across counter seats, low tables and group booths, with exposed brick, red neon and a classic-rock soundtrack.
 
 ![A red-rimmed bowl of Yuzu Tonkotsu at Bone Daddies, seen from above, with fried pork belly, bamboo shoots, beansprouts, spring onion and a halved soy egg in pale pork broth](../../assets/articles/best-ramen-london/bone-daddies-yuzu-tonkotsu.jpg)
 *Yuzu Tonkotsu at Bone Daddies. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Yuzu_Tonkotsu_Ramen_-_Bone_Daddies_2026-03-24.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 The pork bowls are **Tonkotsu [The OG]** with chashu pork belly and burnt garlic, **Yuzu Tonkotsu** with fried chashu pork belly, **Pork Pork Chilli** and the hot **Spicy Miso Tonkotsu**. The chicken bowls are **Tokyo Cock Cock**, with fried chicken, "cock scratchings" and yuzu, **T22** and **Tantanmen**. A new ramen is added every month, and a **Breakfast Ramen** of Cumberland sausage mince, hash browns and HP tonkatsu sauce is on the menu.
 
-**Takes bookings for lunch and dinner, and walk-ins are welcome.** Soho and Old Compton Street open 10:00 to 22:00 Sunday to Wednesday and 10:00 to 23:00 Thursday to Saturday.
+**Peter Street takes bookings, and walk-ins are welcome.** Both Soho branches open 10:00 to 22:00 Sunday to Wednesday and 10:00 to 23:00 Thursday to Saturday.
 
 **The venue's site:** [bonedaddies.com](https://bonedaddies.com/)
 
-**Book:** [Reserve a table](https://www.opentable.co.uk/r/bone-daddies-old-compton-street-reservations-london?restref=121113&lang=en-GB)
+**Book:** [Reserve a table](https://web.dojo.app/create_booking/vendor/Oam-qapPTqVzjo6FpZopCsgE2borLTWWX26QRfpsY5E_restaurant)
 
 ### Shoryu Ramen
 
