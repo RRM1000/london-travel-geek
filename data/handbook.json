@@ -1,10 +1,10 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "inProgress": [],
   "nextUp": [
-    "Push ltg-dates-1025 when Rob says (all trim and date fixes, the Events tab, the GetYourGuide tags). Then on or after 1 November: rebase ltg-fares-1101 onto it, add the new Uber Boat fares, build and push.",
+    "Push when Rob says: ltg-new-guides contains ltg-dates-1025 plus the three new guides, so pushing it pushes both. Then on or after 1 November: rebase ltg-fares-1101 onto it, add the new Uber Boat fares, build and push. Delete the main checkout preview copies of the three guides before syncing.",
     "On 1 November, before pushing ltg-fares-1101: rebase it on ltg-dates-1025 and add the new Uber Boat peak fares (Central £10.80, Central & East or West £12.40; online singles £10.60 and £12.20) to five-days-in-london-itinerary, london-public-transport-costs-and-fares, thames-river-cruises-london and the-o2-travel-guide.",
     "Add Oxford Street's 2026 lights switch-on date to the lights walk, the Christmas guide and the November guide as soon as Oxford Street announces it.",
     "Fix the affiliate_click venue capture: every venue name ends in 'ad' because the Ad badge text is read with it (BaseLayout.astro).",
@@ -55,9 +55,14 @@
     "Confirm: The Vault at Milroy's still open? Left off for want of an operator site: Mannions Prince Arthur, Army & Navy (karaoke), The Blind Pig, Lost Property Office (speakeasy), Sophocles Bakery, Santorini Bayswater (Greek), Logma (fusion).",
     "Events tab in the Google Sheet: mirror the events.json fixes from ltg-dates-1025 (MCM May 2027, Winter Wonderland price, NYE price, Leicester Sq and Southbank start dates, Kew, Parade, Ideal Christmas Show), or the next export-events.mjs run overwrites them. Also unconfirmed: Primrose Hill 10pm close to 8 Nov, the Banksy piranhas at the London Museum, Kew 3.15pm close from 12 Nov, Uber Boat fares from 1 Nov.",
     "Immersive page: has Sherlock: The Game Is Now closed? Is Arcade Arena open? Christmas Day page: Hard Rock Cafe at Piccadilly Circus or Old Park Lane?",
-    "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
+    "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ).",
+    "Ramen: Bone Daddies Old Compton Street OpenTable link untested (curl times out); Monohon and Kanada-Ya close by 22:30, so drop them from the late-night guide?; record Heddon Yokocho in data/closed.json?"
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-28",
+      "what": "Three new guides finished on branch ltg-new-guides (from ltg-dates-1025): Buckingham Palace & Changing of the Guard, Natural History Museum, Best Ramen in London. Each fact-checked against the operators, linked both ways (11+ pages each), wrong claims fixed on the linking pages. Ramen: Heddon Yokocho (liquidated) and Supa Ya (gone from Arcade) dropped; 9 venues added to Restaurants v2 (998 rows), 7 existing rows cleaned; facts lines from the Sheet via sync-article-facts (new --h3 --plain flags). London Pass guide corrected: the State Rooms are not on the pass. NHM activity card fixed in the Activities tab. Build 512 pages, links clean, no expired claims. Not pushed."
+    },
     {
       "date": "2026-10-27",
       "what": "Events radar: the Ballon d'Or in London (26 Oct) was missed, scored 2.6 across five stories. The radar now recognises named one-off occasions (awards, premieres, state occasions), merges same-name headlines into one story, and searches \"London to host\" style announcements. A look-back search for Nov-Jan found four gaps, now in the Events tab (152 rows): World Darts Championship (11 Dec-3 Jan), Masters snooker (10-17 Jan), London Art Fair 2027 dates, England Women v Ukraine at Wembley (5 Dec). Ballon d'Or row added to the award ceremonies page. Daily radar email now sends without an approval prompt."
