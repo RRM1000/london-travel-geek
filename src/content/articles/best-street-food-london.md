@@ -66,7 +66,7 @@ heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights 
 | --- | --- | --- | --- | --- | --- | --- |
 | **Borough Market** | London Bridge | Market | 100+ stalls and shops | Everything | Scarce | **Closed Mon**, Tue–Sun |
 | **Seven Dials Market** | Covent Garden | Food hall | 21 | Pan-global | Plenty | Daily |
-| **Arcade Food Hall** | Tottenham Court Rd | Food hall | 7 chef-led | Thai, Levantine, Mexican, ramen | Plenty | Daily |
+| **Arcade Food Hall** | Tottenham Court Rd | Food hall | 7 chef-led | Thai, Levantine, Mexican | Plenty | Daily |
 | **Arcade Food Hall** | Covent Garden | Food hall | 7 chef-led | Greek Cypriot, Thai, Indian, tacos | Plenty | Daily |
 | **Arcade Food Hall** | Battersea | Food hall | 13 | The widest spread of the three | Plenty | Daily |
 | **Bang Bang Oriental** | Colindale | Food hall | 25+ | Pan-Asian | Plenty, 450 covers | Daily |
@@ -133,7 +133,7 @@ A covered food hall in a former banana-ripening warehouse off Earlham Street. Tw
 
 **Chef-led**: closer to restaurants sharing a room than a street food market.
 
-Tottenham Court Road has seven kitchens including **Plaza Khao Gaeng** for Southern Thai curries and **Supa Ya Ramen**. Covent Garden has seven more. Battersea has thirteen and the widest cuisine spread of the three, including **BAO** and Indonesian duck at **Bebek! Bebek!**
+Tottenham Court Road has seven kitchens including **Plaza Khao Gaeng** for Southern Thai curries. Covent Garden has seven more. Battersea has thirteen and the widest cuisine spread of the three, including **BAO** and Indonesian duck at **Bebek! Bebek!**
 
 **Plenty of seating, indoors, walk-in.** The Tottenham Court Road site is inside Centre Point, straight up from the Tube.
 

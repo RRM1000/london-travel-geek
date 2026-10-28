@@ -174,6 +174,8 @@ Lebanese grills, mezze and mixed plates, plus the shisha terrace that keeps the 
 
 ## Ramen and noodles
 
+The full ramen list, by broth style, is in [The Best Ramen in London](/articles/best-ramen-london/).
+
 ### Kanada-Ya, Covent Garden
 
 *££ · 4 min from Covent Garden*
@@ -184,9 +186,9 @@ The **tonkotsu broth recipe comes from Fukuoka**. Pork bone broth simmered for h
 
 *The queue outside Kanada-Ya.*
 
-**No bookings at any site.** The queue is shortest before noon; at midnight expect to wait.
+**St Giles takes no bookings; the Piccadilly branch does.** St Giles closes at 22:00 from Sunday to Wednesday and 22:30 from Thursday to Saturday.
 
-**Check the branch.** Hours differ between sites; this entry is the St Giles High Street site near Covent Garden, at **WC2H 8LE**, four minutes from Tottenham Court Road.
+**Check the branch.** Hours differ between sites; this entry is the St Giles High Street site near Covent Garden, at **WC2H 8DA**, four minutes from Tottenham Court Road.
 
 ### Monohon Ramen, Shoreditch
 
@@ -198,7 +200,7 @@ A single-site ramen bar on Old Street that takes **no reservations**. It opened 
 
 *Monohon's ramen.*
 
-**Walk in and wait;** there is no list or app, and the room is small.
+**Walk in and wait;** there is no list or app, and the room seats 32. It closes at 21:30, or 21:00 on Sundays.
 
 **The broth is made on site,** and there is no second branch.
 

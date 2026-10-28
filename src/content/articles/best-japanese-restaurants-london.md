@@ -250,15 +250,17 @@ Order across the divide: **tuna tostadas**, sashimi dressed with chilli and lime
 
 ## Ramen and noodles
 
+The ramen shops are covered in full, by broth style and with prices and booking rules, in [The Best Ramen in London](/articles/best-ramen-london/).
+
 ### Kanada-Ya, Covent Garden
 
 *£ · no bookings* · Cited by 4 sources
 
-**Tonkotsu broth simmered for eighteen hours** and **no bookings**, so there is usually a queue on St Giles High Street.
+**Tonkotsu ramen** from a shop founded in Yukuhashi, Japan, in 2009. The St Giles High Street branch takes **no bookings**; the Piccadilly branch does.
 
 Order the **tonkotsu ramen**: pork-bone broth boiled until it turns opaque, thin Hakata-style noodles cooked to your stated firmness, and chāshū on top. Ask for the noodles *barikata* if you like them firm.
 
-**£, walk-in only. The queue is shortest before noon and after 2pm.**
+**£, walk-in only at St Giles.**
 
 ### Monohon Ramen, Old Street
 
@@ -284,7 +286,7 @@ The udon is made in-house and cut by hand. The classic order is **kake udon**, h
 
 *££ · Japanese home cooking* · Cited by 2 sources
 
-Neither sushi counter nor ramen shop: **everyday Japanese home cooking**, open since 2006.
+Neither sushi counter nor ramen shop: **everyday Japanese home cooking**.
 
 **Donburi and set meals** are the format: rice bowls topped with grilled fish, katsu or beef, with miso soup and pickles. Sushi, **sukiyaki** and **tonkotsu ramen** are on the menu too.
 

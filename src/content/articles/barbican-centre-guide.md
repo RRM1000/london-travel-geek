@@ -95,7 +95,7 @@ Only **one reasonably sized handbag per person** goes into the auditoria, and al
 - **[Luca](https://luca.restaurant/)**, further up St John Street: Italian cooking through British produce, from the Clove Club team.
 - **[Ibai](https://www.ibai.london/)** on Bartholomew Close: Basque cooking over fire. It books up weeks ahead, so reserve when you buy the tickets.
 - **[Kennedy's](http://www.kennedyslondon.co.uk/)** on Goswell Road: pies baked on the premises and fish and chips, walk-in.
-- **[Monohon Ramen](http://www.monohonramen.com/)** on Old Street: no reservations, so walk in and wait.
+- **[Monohon Ramen](http://www.monohonramen.com/)** on Old Street: no reservations, so walk in and wait. More in [The Best Ramen in London](/articles/best-ramen-london/).
 
 ## Staying nearby
 

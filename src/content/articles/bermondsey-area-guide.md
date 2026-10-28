@@ -107,7 +107,7 @@ The spine of the area, running south from London Bridge: Georgian houses, wareho
 
 **The Fashion and Textile Museum at 83** is the orange and pink building, founded by Zandra Rhodes. It is ticketed (£12.65 for the current exhibition, which runs to 11 April 2027) and open Tuesday to Saturday, 11am to 6pm.
 
-**Eat along it:** **Casse-Croûte at 109** is a twenty-seat French bistro with a menu of three starters, three mains and three puddings chalked up daily; **Flour & Grape at 214** does pasta and wine cheaply enough to be a weeknight option; **Hakata Ramen at 177** does Kyushu tonkotsu.
+**Eat along it:** **Casse-Croûte at 109** is a twenty-seat French bistro with a menu of three starters, three mains and three puddings chalked up daily; **Flour & Grape at 214** does pasta and wine cheaply enough to be a weeknight option; **Hakata Ramen + Bar at 177** does tonkotsu ramen with no reservations ([the ramen guide](/articles/best-ramen-london/)).
 
 **Casse-Croûte takes reservations by phone (020 7407 2140) or walk-ins**: lunch from noon daily, dinner from 6pm Monday to Saturday. London Bridge is five minutes from the northern end, Borough about the same.
 
