@@ -3,7 +3,7 @@ title: "Is the London Pass Worth It? What It Saves, and When It Doesn't"
 seoTitle: "London Pass 2026: Real Prices & When It Loses Money"
 description: "A 2-day pass is £149. The classic big five cost £144.00 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
 publishedAt: 2026-09-03
-updatedAt: 2026-10-26
+updatedAt: 2026-10-28
 reviewBy: 2026-11-03
 sites: [london]
 canonicalSite: london
@@ -112,7 +112,7 @@ A child pass covers ages **5 to 15**; adult means 16 and over.
 
 **Every attraction you pick must cost more than the per-attraction figure, or you lose money on that pick.**
 
-At two choices you need each one to beat **£32**. Among the landmark sights on the Explorer list, only the Tower of London (£38) and, in summer, Buckingham Palace (£33) clear that.
+At two choices you need each one to beat **£32**. Among the landmark sights on the Explorer list, only the Tower of London (£38) clears that.
 
 ---
 
@@ -126,7 +126,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **Westminster Abbey** | £32.00 | £14.00 | Child 6–17; under 6 free |
 | **St Paul's Cathedral** | £27.00 | £10.50 | £29.70 / £11.55 with donation |
 | **Windsor Castle** | £32.00 | £16.00 | **£36.00 / £18.00 on the day** |
-| **Buckingham Palace State Rooms** | £33.00 | £16.50 | **£37.00 / £18.50 on the day** (2026 prices); open in summer only, with 2027 tickets released in November |
+| **Buckingham Palace State Rooms** | £33.00 | £16.50 | **£37.00 / £18.50 on the day** (2026 prices); open in summer only, with 2027 tickets released in November; **not on the pass** |
 | **Hampton Court Palace** | £30.00 | £15.00 | £33.00 / £16.50 at weekends and bank holidays; from 28 November, Winter Palace prices are £33.00 / £16.50 weekdays and £36.00 / £18.00 at weekends |
 | **Kensington Palace** | £24.70 | £12.40 | £27.20 / £13.70 with donation |
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
@@ -155,12 +155,11 @@ Go City prints a "price without pass" against each attraction. On several of the
 | Madame Tussauds | £34.13 | from £27.00 | **£7.13** |
 | London Eye | £34.13 | from £29.00 | £5.13 |
 | Windsor Castle | £36.00 | £32.00 | £4.00 |
-| Buckingham Palace State Rooms | £37.00 | £33.00 | £4.00 |
 | Hampton Court Palace | £32.00 | £30.00 | £2.00 |
 
 At the Merlin attractions and the Royal Collection sites, Go City quotes the **on-the-day box office price**. At Hampton Court it quotes a price that includes Historic Royal Palaces' optional 10% donation.
 
-On a five-attraction itinerary that is about **£22.26 of saving that was never available to you in the first place.**
+Across those four attractions that is about **£18.26 of saving that was never available to you in the first place.**
 
 ---
 
@@ -248,7 +247,7 @@ What the pass adds at London's free museums is a **British Museum audio tour (£
 
 ## The "37 exclusive experiences", examined
 
-The All-Inclusive pass carries 113 attractions against the Explorer's 76. The difference — the 37 "exclusive experiences" that justify paying £30 to £120 more — breaks down like this:
+In September 2026 the All-Inclusive pass carried 113 attractions against the Explorer's 76. The difference — the 37 "exclusive experiences" that justify paying £30 to £120 more — breaks down like this:
 
 * **17 are food and drink.** A breakfast at Bill's, afternoon tea at Huffkins, a Burger & Lobster, fish and chips, a steak and ale pie, a curry on Brick Lane, a Hard Rock lunch, gin tastings, a cocktail, conveyor-belt cheese.
 * **5 are guidebooks and audio tours at museums that are free to walk into.**
@@ -256,7 +255,7 @@ The All-Inclusive pass carries 113 attractions against the Explorer's 76. The di
 * **3 are services** — 2.5GB of mobile data (£6.51), a day pass to a hotel gym (£26), and ClassPass credits (£30).
 * **3 are entertainment** — a Science Museum IMAX film, a Soho comedy club, and a *Wicked* ticket.
 
-**That leaves one major London landmark: the State Rooms at Buckingham Palace.** In 2026 they opened **9 July to 27 September**, about eleven weeks, with 2027 tickets released in November. The rest of the year, the one thing that distinguishes the expensive pass from the cheap one is shut. Opening dates, ticket types and the palace's year-round options, The King's Gallery and the winter guided tours, are in our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
+**That left one major London landmark: the State Rooms at Buckingham Palace,** listed on the All-Inclusive pass for their 2026 summer opening, **9 July to 27 September**. The pass no longer lists them, and the State Rooms stay shut until summer 2027, with tickets released in November. Outside those eleven weeks, nothing on the exclusive list is a major London landmark. Opening dates, ticket types and the palace's year-round options, The King's Gallery and the winter guided tours, are in our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
 
 ---
 
