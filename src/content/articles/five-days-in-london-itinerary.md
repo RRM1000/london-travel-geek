@@ -81,7 +81,7 @@ Walk into St James's or two stops to Covent Garden, not eating on the bridge app
 
 *Fifteen minutes and one kilometre from the Clive Steps to Buckingham Palace* across St James's Park. The bridge over the lake has the palace one way and the London Eye the other.
 
-**Changing the Guard at Buckingham Palace is 11am on Monday, Wednesday and Friday** on the Household Division's own [calendar](https://www.householddivision.org.uk/changing-the-guard-calendar). There is also a **Sunday Parade at 10am**, and on Tuesday, Thursday and Saturday a **Captain's Inspection at 3pm** — shorter, less crowded, band on most days, and the one that fits a day with an Abbey ticket in it. The view worth standing for is from the Victoria Memorial steps.
+**Changing the Guard at Buckingham Palace is 11am on Monday, Wednesday and Friday** on the Household Division's own [calendar](https://www.householddivision.org.uk/changing-the-guard-calendar). There is also a **Sunday Parade at 10am**, and on Tuesday, Thursday and Saturday a **Captain's Inspection at 3pm** — shorter, less crowded, band on most days, and the one that fits a day with an Abbey ticket in it. The view worth standing for is from the Victoria Memorial steps. Where else to stand, and what the palace charges to go inside, is in our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
 
 ### The Mall, Trafalgar Square and the evening
 

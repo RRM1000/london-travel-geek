@@ -137,7 +137,7 @@ Runs from Buckingham Palace to Horse Guards, with a lake of waterfowl and **a re
 
 *Flowerbeds in St James's Park.*
 
-The bridge over the lake gives the postcard view of Buckingham Palace one way and the Horse Guards rooftops the other.
+The bridge over the lake gives the postcard view of Buckingham Palace one way and the Horse Guards rooftops the other. The pelicans are fed at 14:30 by Duck Island Cottage; the [Buckingham Palace, Changing of the Guard and St James's Park guide](/articles/buckingham-palace-changing-of-the-guard-guide/) has the details and the guard's schedule.
 
 ### Crystal Palace Park
 

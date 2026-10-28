@@ -256,7 +256,7 @@ The All-Inclusive pass carries 113 attractions against the Explorer's 76. The di
 * **3 are services** — 2.5GB of mobile data (£6.51), a day pass to a hotel gym (£26), and ClassPass credits (£30).
 * **3 are entertainment** — a Science Museum IMAX film, a Soho comedy club, and a *Wicked* ticket.
 
-**That leaves one major London landmark: the State Rooms at Buckingham Palace.** In 2026 they opened **9 July to 27 September**, about eleven weeks, with 2027 tickets released in November. The rest of the year, the one thing that distinguishes the expensive pass from the cheap one is shut.
+**That leaves one major London landmark: the State Rooms at Buckingham Palace.** In 2026 they opened **9 July to 27 September**, about eleven weeks, with 2027 tickets released in November. The rest of the year, the one thing that distinguishes the expensive pass from the cheap one is shut. Opening dates, ticket types and the palace's year-round options, The King's Gallery and the winter guided tours, are in our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
 
 ---
 

@@ -64,7 +64,7 @@ Take it if you have a single day. It goes through **Green Park to Buckingham Pal
 
 *From £15 · 2–4 hours · 4.8 from 2,718 reviews · <a href="https://www.getyourguide.com/activity/-t413142?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-You **walk with the guards as they march to Buckingham Palace** while the guide explains the ceremony. Nomadic Matt, who took more than 25 London walking tours for his list, picks this one. The ceremony doesn't happen every day, so check the tour's calendar before planning around it. One option adds tickets to the palace's State Rooms, which open to visitors each summer.
+You **walk with the guards as they march to Buckingham Palace** while the guide explains the ceremony. Nomadic Matt, who took more than 25 London walking tours for his list, picks this one. The ceremony doesn't happen every day, so check the tour's calendar before planning around it. One option adds tickets to the palace's State Rooms, which open to visitors each summer. To watch it on your own, our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/) has the days, times and best places to stand.
 
 ### Medieval London From the Tower — The Sights of London Tour
 
