@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-26",
- "count": 1025,
+ "generated": "2026-10-28",
+ "count": 1034,
  "withCoords": 821,
  "facets": {
   "cuisine": [
@@ -25,6 +25,11 @@
     "count": 55
    },
    {
+    "value": "Japanese",
+    "slug": "japanese",
+    "count": 49
+   },
+   {
     "value": "Middle Eastern",
     "slug": "middle-eastern",
     "count": 42
@@ -32,11 +37,6 @@
    {
     "value": "Greek",
     "slug": "greek",
-    "count": 40
-   },
-   {
-    "value": "Japanese",
-    "slug": "japanese",
     "count": 40
    },
    {
@@ -154,7 +154,7 @@
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 114
+    "count": 116
    },
    {
     "value": "Mayfair",
@@ -169,17 +169,17 @@
    {
     "value": "Covent Garden",
     "slug": "covent-garden",
+    "count": 40
+   },
+   {
+    "value": "Fitzrovia",
+    "slug": "fitzrovia",
     "count": 39
    },
    {
     "value": "South Bank",
     "slug": "south-bank",
     "count": 39
-   },
-   {
-    "value": "Fitzrovia",
-    "slug": "fitzrovia",
-    "count": 37
    },
    {
     "value": "Marylebone",
@@ -217,6 +217,11 @@
     "count": 15
    },
    {
+    "value": "Bloomsbury",
+    "slug": "bloomsbury",
+    "count": 14
+   },
+   {
     "value": "Camden",
     "slug": "camden",
     "count": 14
@@ -230,11 +235,6 @@
     "value": "Kings Cross",
     "slug": "kings-cross",
     "count": 14
-   },
-   {
-    "value": "Bloomsbury",
-    "slug": "bloomsbury",
-    "count": 13
    },
    {
     "value": "Paddington",
@@ -316,7 +316,7 @@
    {
     "value": "small-plates",
     "slug": "small-plates",
-    "count": 154
+    "count": 155
    },
    {
     "value": "street-food",
@@ -359,6 +359,11 @@
     "count": 43
    },
    {
+    "value": "noodles",
+    "slug": "noodles",
+    "count": 42
+   },
+   {
     "value": "roast",
     "slug": "roast",
     "count": 39
@@ -389,11 +394,6 @@
     "count": 33
    },
    {
-    "value": "noodles",
-    "slug": "noodles",
-    "count": 33
-   },
-   {
     "value": "fish-and-chips",
     "slug": "fish-and-chips",
     "count": 28
@@ -414,6 +414,11 @@
     "count": 25
    },
    {
+    "value": "sushi",
+    "slug": "sushi",
+    "count": 25
+   },
+   {
     "value": "bakery",
     "slug": "bakery",
     "count": 22
@@ -424,14 +429,14 @@
     "count": 22
    },
    {
-    "value": "sushi",
-    "slug": "sushi",
-    "count": 22
-   },
-   {
     "value": "coffee",
     "slug": "coffee",
     "count": 21
+   },
+   {
+    "value": "ramen",
+    "slug": "ramen",
+    "count": 16
    },
    {
     "value": "tacos",
@@ -467,11 +472,6 @@
     "value": "south-indian",
     "slug": "south-indian",
     "count": 8
-   },
-   {
-    "value": "ramen",
-    "slug": "ramen",
-    "count": 7
    },
    {
     "value": "ice-cream",
@@ -513,12 +513,12 @@
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 255
+    "count": 256
    },
    {
     "value": "£",
     "slug": "price-1",
-    "count": 170
+    "count": 175
    },
    {
     "value": "££££",
@@ -13018,7 +13018,7 @@
     "date"
    ],
    "foodOffer": "hot-food",
-   "whyGo": "Less a food court than a set of proper kitchens under one roof - residents have included Plaza Khao Gaeng and Supa Ya Ramen rather than generic concessions.",
+   "whyGo": "Less a food court than a set of proper kitchens under one roof - residents include Plaza Khao Gaeng rather than generic concessions.",
    "lists": [
     "markets",
     "showstopper",
@@ -14592,27 +14592,27 @@
    "district": "Central",
    "borough": "Westminster",
    "guide": "covent-garden-area-guide",
-   "address": "64 St Giles High St, London WC2H 8LE, UK",
-   "postcode": "WC2H 8LE",
+   "address": "64 St Giles High Street",
+   "postcode": "WC2H 8DA",
    "lat": 51.515475,
    "lng": -0.127685,
    "station": "Covent Garden",
    "walkMin": 4,
    "price": "££",
-   "booking": "walk-in",
-   "website": "http://www.kanada-ya.com/",
+   "bookingUrl": "https://www.sevenrooms.com/explore/kanadayapiccadilly/reservations/create/search/",
+   "website": "https://www.kanada-ya.com/",
    "setting": "counter",
    "goodFor": [
     "quick",
     "solo"
    ],
-   "whyGo": "The broth recipe was worked out in Fukuoka before the first London site opened, and the queue outside the St Giles branch has become part of the experience.",
+   "whyGo": "Tonkotsu ramen from a shop founded in Yukuhashi, Japan, in 2009. Tonkotsu X, a pork and chicken broth finished with yuzu-shoyu, is on the London menu only.",
    "signature": "Tonkotsu ramen",
-   "opNote": "No bookings. The queue is shortest before noon and after 2pm.",
-   "signals": "5 consensus domains",
+   "opNote": "St Giles is walk-in only; the Piccadilly branch takes bookings.",
    "lists": [
     "best-value",
-    "late-night"
+    "late-night",
+    "ramen"
    ],
    "sourceCount": "4",
    "sourceTiers": "B2 C2",
@@ -14642,17 +14642,18 @@
    "walkMin": 7,
    "price": "££",
    "booking": "walk-in",
-   "website": "http://www.monohonramen.com/",
+   "website": "https://monohonramen.com/",
    "setting": "counter",
    "goodFor": [
     "quick",
     "solo"
    ],
-   "whyGo": "A single-site ramen bar on Old Street that takes no reservations and has outlasted most of the chains that opened around it.",
-   "opNote": "No reservations - walk in and wait.",
+   "whyGo": "A 32-seat ramen shop on Old Street that makes its noodles and broth in house every day and takes no reservations.",
+   "opNote": "No reservations: the whole party has to be there before it is seated. Closed Saturday and Sunday lunch.",
    "lists": [
     "best-value",
-    "late-night"
+    "late-night",
+    "ramen"
    ],
    "sourceCount": "4",
    "sourceTiers": "B1 C3",
@@ -14674,14 +14675,13 @@
    "district": "Central",
    "borough": "Westminster",
    "guide": "soho-area-guide",
-   "address": "14A Old Compton St, London W1D 4TJ, UK",
+   "address": "14A Old Compton Street",
    "postcode": "W1D 4TJ",
    "lat": 51.51377,
    "lng": -0.130176,
    "station": "Leicester Square",
    "walkMin": 3,
-   "price": "££",
-   "booking": "walk-in",
+   "bookingUrl": "https://www.opentable.co.uk/r/bone-daddies-old-compton-street-reservations-london?restref=121113&lang=en-GB",
    "website": "https://bonedaddies.com/",
    "noise": "loud",
    "goodFor": [
@@ -14689,9 +14689,11 @@
     "groups",
     "solo"
    ],
-   "whyGo": "Ramen with a deliberate Western slant and a soundtrack to match - the bowl that made ramen a night out in London rather than a quick lunch.",
+   "whyGo": "A ramen bar group that opened on Peter Street, Soho, in 2012. The Old Compton Street branch seats 80 across counter seats, low tables and group booths.",
+   "opNote": "Takes bookings for lunch and dinner; walk-ins are welcome.",
    "lists": [
-    "best-value"
+    "best-value",
+    "ramen"
    ],
    "sourceCount": "2",
    "sourceTiers": "B1 C1",
@@ -14713,23 +14715,25 @@
    "district": "Central",
    "borough": "Westminster",
    "guide": "soho-area-guide",
-   "address": "3 Denman St, London W1D 7HB, UK",
+   "address": "3 Denman Street",
    "postcode": "W1D 7HB",
    "lat": 51.510878,
    "lng": -0.134388,
    "station": "Piccadilly Circus",
    "walkMin": 1,
    "price": "££",
-   "booking": "walk-in",
-   "website": "https://www.shoryuramen.com/stores/11-soho?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing&utm_content=11-soho",
+   "bookingUrl": "https://www.shoryuramen.com/bookings",
+   "website": "https://www.shoryuramen.com/stores/11-soho",
    "goodFor": [
     "quick",
     "families",
     "solo"
    ],
-   "whyGo": "Hakata-style tonkotsu across a spread of central sites, which makes it the ramen you can actually get into when the single-site places have queues out the door.",
+   "whyGo": "Hakata-style tonkotsu on a 12-hour pork broth, from a group opened by Tak Tokumine and Kanji Furukawa in 2012. The Soho branch lists more than 130 sakes, shochu and umeshu.",
+   "opNote": "Takes bookings (90-minute tables) and keeps tables for walk-ins.",
    "lists": [
-    "best-value"
+    "best-value",
+    "ramen"
    ],
    "sourceCount": "4",
    "sourceTiers": "B3 C1",
@@ -15142,18 +15146,19 @@
    "lng": -0.125895,
    "station": "Holborn",
    "walkMin": 5,
-   "price": "££",
-   "booking": "days",
-   "website": "http://cocororestaurant.co.uk/",
+   "price": "£",
+   "bookingUrl": "https://www.cocorobloomsbury.co.uk/",
+   "website": "https://www.cocorobloomsbury.co.uk/",
    "goodFor": [
     "families",
     "groups",
     "solo",
     "quick"
    ],
-   "whyGo": "Open since 2006 and the sort of place Japanese office groups and families actually eat - sushi, sukiyaki and a tonkotsu ramen that punches above the room.",
+   "whyGo": "A Japanese restaurant with branches in Marylebone, Bloomsbury, Highgate and Bayswater. The Bloomsbury menu runs from sushi and donburi to six ramens at £14 to £14.50.",
    "lists": [
-    "best-value"
+    "best-value",
+    "ramen"
    ],
    "sourceCount": "4",
    "sourceTiers": "B1 C3",
@@ -15206,7 +15211,7 @@
    "slug": "hakata-ramen-bar",
    "name": "Hakata Ramen + Bar",
    "cuisine": "Japanese",
-   "style": "Kyushu tonkotsu ramen",
+   "style": "Tonkotsu ramen",
    "specialities": [
     "ramen",
     "noodles",
@@ -15225,8 +15230,8 @@
    "lng": -0.080927,
    "station": "Borough",
    "walkMin": 16,
-   "price": "££",
-   "booking": "days",
+   "price": "£",
+   "booking": "walk-in",
    "website": "https://www.hakata.co.uk/",
    "goodFor": [
     "date",
@@ -15234,10 +15239,12 @@
     "solo",
     "quick"
    ],
-   "whyGo": "Named for the Fukuoka district the style comes from, doing Kyushu tonkotsu on Bermondsey Street with enough room to actually sit down.",
+   "whyGo": "A Bermondsey Street ramen bar with communal and bar seating, a basement izakaya bar and a vegan version of every ramen on the menu.",
    "signature": "Tonkotsu ramen",
+   "opNote": "No reservations: walk-ins only, with the basement bar for a drink while you wait.",
    "lists": [
-    "best-value"
+    "best-value",
+    "ramen"
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
@@ -15382,14 +15389,14 @@
    "fallback": "yes",
    "area": "Soho",
    "borough": "Westminster",
-   "address": "63 Dean St, London W1D 4QG, UK",
+   "address": "63 Dean Street",
    "postcode": "W1D 4QG",
    "lat": 51.513066,
    "lng": -0.132295,
    "station": "Leicester Square",
    "walkMin": 5,
    "price": "££",
-   "booking": "walk-in",
+   "bookingUrl": "https://app.walkup.co/create_booking/vendor/restaurant_000000Bo6urTUyCADsYOiM7Vi1SCO",
    "website": "https://tonkotsu.co.uk/locations/soho/",
    "goodFor": [
     "quick",
@@ -15397,14 +15404,331 @@
     "solo",
     "groups"
    ],
-   "whyGo": "Launched in Soho in 2012 by Ken Yamada and Emma Reynolds, making its own noodles - and now the ramen you are never more than a short walk from.",
-   "opNote": "Around 18 sites across the UK. Reliable rather than remarkable, which is the useful thing about it.",
+   "whyGo": "Opened on Dean Street, Soho, in 2012 after a pop-up the year before. It makes its noodles fresh every day, and a weekday lunch of a small bowl and a side is £10.50.",
+   "opNote": "Takes bookings and leaves space for walk-ins. £10.50 weekday lunch until 17:00, excluding bank holidays.",
    "lists": [
-    "best-value"
+    "best-value",
+    "ramen"
    ],
    "sourceCount": "5",
    "sourceTiers": "B3 C2",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked | https://www.standard.co.uk/going-out/restaurants/best-fried-chicken-london-b1143323.html | https://idealmagazine.co.uk/best-ramen-london/"
+  },
+  {
+   "slug": "ramen-moto",
+   "name": "Ramen Moto",
+   "cuisine": "Japanese",
+   "style": "Sapporo-style ramen",
+   "specialities": [
+    "ramen",
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Fitzrovia",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Camden",
+   "guide": "fitzrovia-area-guide",
+   "address": "6 Charlotte Street",
+   "postcode": "W1T 2LR",
+   "station": "Goodge Street",
+   "walkMin": 5,
+   "booking": "walk-in",
+   "website": "https://www.ramenmoto.uk/",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "A silky, foamy chicken white broth, served with Sapporo noodles from Nishiyama Seimen that the shop says only it is licensed to use in London.",
+   "opNote": "Walk-in only. Closed on Tuesdays.",
+   "lists": [
+    "ramen"
+   ]
+  },
+  {
+   "slug": "ivan-ramen",
+   "name": "Ivan Ramen",
+   "cuisine": "Japanese",
+   "style": "Ramen",
+   "specialities": [
+    "ramen",
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Clerkenwell",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Islington",
+   "address": "98 Farringdon Road",
+   "postcode": "EC1R 3EA",
+   "station": "Farringdon",
+   "walkMin": 9,
+   "price": "££",
+   "booking": "walk-in",
+   "website": "https://www.ivanramen.co.uk/",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "Ivan Orkin ran a ramen shop in Tokyo from 2007 and one in New York from 2013; the London shop opened in late 2025. Weekday lunch from 12:00 to 15:00 is £15.",
+   "opNote": "Walk-in only. £15 weekday lunch, 12:00 to 15:00.",
+   "lists": [
+    "ramen"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://idealmagazine.co.uk/best-ramen-london/"
+  },
+  {
+   "slug": "tenmaru",
+   "name": "Tenmaru",
+   "cuisine": "Japanese",
+   "style": "Chicken paitan ramen",
+   "specialities": [
+    "ramen",
+    "noodles",
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Fitzrovia",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "fitzrovia-area-guide",
+   "address": "50 Margaret Street",
+   "postcode": "W1W 8SF",
+   "station": "Oxford Circus",
+   "walkMin": 2,
+   "price": "££",
+   "booking": "walk-in",
+   "website": "https://www.tenmaru.co.uk/",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "A chicken-broth ramen menu with four vegan bowls and a soup-less mazesoba. The first shop opened in Finsbury Park in November 2019; Margaret Street followed in January 2023.",
+   "opNote": "Walk-in only at both branches.",
+   "lists": [
+    "ramen"
+   ]
+  },
+  {
+   "slug": "koi-ramen-bar",
+   "name": "Koi Ramen Bar",
+   "cuisine": "Japanese",
+   "style": "Ramen bar",
+   "specialities": [
+    "ramen",
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Brixton",
+   "zone": "2",
+   "district": "South",
+   "borough": "Lambeth",
+   "address": "8 Brixton Station Road",
+   "postcode": "SW9 8PD",
+   "station": "Brixton",
+   "walkMin": 1,
+   "price": "£",
+   "website": "https://www.koiramenbar.co.uk/",
+   "goodFor": [
+    "quick",
+    "solo"
+   ],
+   "whyGo": "Four ramens on a one-page menu, from £9.95 to £12.95 eaten in: pork tonkotsu, miso, shoyu and a soup-less Naked Ramen. Five sites across south and east London.",
+   "opNote": "Open from 11:30 daily; closing 22:00, or 22:30 on Fridays and Saturdays.",
+   "lists": [
+    "best-value",
+    "ramen"
+   ]
+  },
+  {
+   "slug": "taro",
+   "name": "Taro",
+   "cuisine": "Japanese",
+   "style": "Japanese noodle bar",
+   "specialities": [
+    "ramen",
+    "noodles",
+    "sushi"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "61 Brewer Street",
+   "postcode": "W1F 9UW",
+   "station": "Piccadilly Circus",
+   "walkMin": 2,
+   "price": "£",
+   "bookingUrl": "https://tarorestaurants.uk/locations/soho/reservation/",
+   "website": "https://tarorestaurants.uk/location/soho/",
+   "goodFor": [
+    "families",
+    "groups",
+    "quick",
+    "solo"
+   ],
+   "whyGo": "An everyday Japanese dining room opened on Brewer Street in 1999, with 50 seats and ramen, udon, sushi and bento. Tonkotsu ramen and vegan ramen are both £14.90.",
+   "opNote": "Open seven days; book at least three hours ahead.",
+   "lists": [
+    "best-value",
+    "ramen"
+   ]
+  },
+  {
+   "slug": "ippudo",
+   "name": "Ippudo",
+   "cuisine": "Japanese",
+   "style": "Hakata tonkotsu ramen",
+   "specialities": [
+    "ramen",
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Covent Garden",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Camden",
+   "guide": "covent-garden-area-guide",
+   "address": "Central Saint Giles",
+   "booking": "walk-in",
+   "website": "https://www.ippudo.co.uk/",
+   "goodFor": [
+    "quick",
+    "groups",
+    "solo"
+   ],
+   "whyGo": "Hakata-style tonkotsu from the Fukuoka group founded in 1985; the pork broth is cooked for 18 hours and matured for a further day. London branches are Central St Giles, Villiers Street, Goodge Street and Canary Wharf.",
+   "opNote": "No reservations.",
+   "lists": [
+    "ramen"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://idealmagazine.co.uk/best-ramen-london/"
+  },
+  {
+   "slug": "maki-and-ramen",
+   "name": "Maki & Ramen",
+   "cuisine": "Japanese",
+   "style": "Ramen and sushi",
+   "specialities": [
+    "ramen",
+    "noodles",
+    "sushi"
+   ],
+   "format": "Restaurant",
+   "chainType": "chain",
+   "area": "Soho",
+   "borough": "Westminster",
+   "guide": "soho-area-guide",
+   "address": "9 Old Compton Street",
+   "postcode": "W1D 5JF",
+   "station": "Leicester Square",
+   "walkMin": 3,
+   "price": "£",
+   "bookingUrl": "https://web.dojo.app/create_booking/vendor/oJzsg1WJou2r34ZeC68FjmdRmjuPmG_VzG35Y9J0dZ8_restaurant",
+   "website": "https://www.makiramen.com/our-venues/soho/",
+   "goodFor": [
+    "groups",
+    "quick",
+    "families"
+   ],
+   "dietary": "halal chicken and beef; vegan menu",
+   "whyGo": "A ramen and sushi group founded in Edinburgh in 2015. All its chicken and beef is halal-certified, chicken gyoza excepted; the pork tonkotsu bowls are not halal.",
+   "opNote": "Open until midnight on Fridays and Saturdays.",
+   "lists": [
+    "ramen"
+   ],
+   "sourceCount": "2",
+   "sourceTiers": "B1 C1",
+   "sourceUrls": "https://www.designmynight.com/london/blog/new-restaurants-london | https://mayfairfoodie.com/best-ramen-in-london/"
+  },
+  {
+   "slug": "uzumaki",
+   "name": "Uzumaki",
+   "cuisine": "Japanese",
+   "style": "Anime-themed ramen",
+   "specialities": [
+    "ramen",
+    "noodles"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "area": "Bloomsbury",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Camden",
+   "guide": "bloomsbury-area-guide",
+   "address": "107 Great Russell Street",
+   "postcode": "WC1B 3NA",
+   "station": "Tottenham Court Road",
+   "walkMin": 2,
+   "price": "££",
+   "bookingUrl": "https://www.sevenrooms.com/explore/uzumaki/reservations/create/search/",
+   "website": "https://www.uzumakilondon.com/",
+   "goodFor": [
+    "groups",
+    "families",
+    "date"
+   ],
+   "dietary": "selected dishes available halal",
+   "whyGo": "An anime-themed Japanese restaurant on Great Russell Street whose ramens are named after anime characters, with selected dishes available halal.",
+   "opNote": "Closed Mondays. Takes bookings through SevenRooms.",
+   "lists": [
+    "ramen"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "B1",
+   "sourceUrls": "https://idealmagazine.co.uk/best-ramen-london/"
+  },
+  {
+   "slug": "kinoya",
+   "name": "Kinoya",
+   "cuisine": "Japanese",
+   "style": "Ramen",
+   "specialities": [
+    "ramen",
+    "noodles",
+    "sushi"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "context": "Harrods",
+   "area": "Knightsbridge",
+   "zone": "1",
+   "district": "West",
+   "borough": "Kensington and Chelsea",
+   "address": "Harrods, ground floor, 87-135 Brompton Road",
+   "postcode": "SW1X 7XL",
+   "station": "Knightsbridge",
+   "walkMin": 6,
+   "price": "£££",
+   "bookingUrl": "https://www.sevenrooms.com/reservations/kinoyaramenbar",
+   "website": "https://www.kinoya.com/Kinoya-London.html",
+   "goodFor": [
+    "date",
+    "solo",
+    "business"
+   ],
+   "whyGo": "The London branch of a Dubai ramen izakaya whose flagship holds a Michelin Bib Gourmand. Ramen is £29.90 to £49.50, with a compulsory £1 cover charge per person.",
+   "opNote": "Open 11:30 to 21:00 on Mondays, 22:30 Tuesday to Saturday and 18:00 on Sundays.",
+   "lists": [
+    "ramen"
+   ],
+   "sourceCount": "1",
+   "sourceTiers": "C1",
+   "sourceUrls": "https://mayfairfoodie.com/best-ramen-in-london/"
   },
   {
    "slug": "al-waha",

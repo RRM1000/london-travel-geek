@@ -13,12 +13,24 @@
 //
 //   node scripts/sync-article-facts.mjs best-sunday-roast-london sunday-roast
 //
+// Two options for guides that group their entries under section headings:
+//
+//   --h3     entries are "### Name" headings (no numbers), where Name is the
+//            Restaurants v2 Name exactly. Other headings are left alone.
+//   --plain  write only the facts strip and the booking link: no "Known for"
+//            line and no "N minutes from X" cross-reference.
+//
+//   node scripts/sync-article-facts.mjs best-ramen-london ramen --h3 --plain
+//
 import fs from "node:fs";
 import { readTab } from "./sheets.mjs";
 
-const [slugArg, listName] = process.argv.slice(2);
+const flags = process.argv.slice(2).filter((a) => a.startsWith("--"));
+const [slugArg, listName] = process.argv.slice(2).filter((a) => !a.startsWith("--"));
+const H3 = flags.includes("--h3");
+const PLAIN = flags.includes("--plain");
 if (!slugArg || !listName) {
-  console.error("usage: node scripts/sync-article-facts.mjs <article-slug> <list-name>");
+  console.error("usage: node scripts/sync-article-facts.mjs <article-slug> <list-name> [--h3] [--plain]");
   process.exit(1);
 }
 
@@ -73,11 +85,13 @@ const strip = (r) => {
 
 let md = fs.readFileSync(PATH, "utf8");
 // Split on numbered entry headings, keeping everything before the first one.
-const parts = md.split(/\n(?=## \d+\. )/);
+// With --h3 every level-2 and level-3 heading starts a block, so a block never
+// runs past its own entry into the next section; only ### blocks are entries.
+const parts = H3 ? md.split(/\n(?=##{1,2} )/) : md.split(/\n(?=## \d+\. )/);
 let updated = 0, linked = 0, crossed = 0;
 
 const out = parts.map((block) => {
-  const m = /^## \d+\.\s+(.+)$/m.exec(block);
+  const m = H3 ? /^### (.+)$/m.exec(block.split("\n").slice(0, 2).join("\n")) : /^## \d+\.\s+(.+)$/m.exec(block);
   if (!m) return block;
   const row = byName.get(m[1].trim());
   if (!row) { console.log(`  no sheet row for "${m[1].trim()}"`); return block; }
@@ -112,7 +126,7 @@ const out = parts.map((block) => {
   // instruction. "Known for" is accurate whether or not the dish matches the
   // occasion, where "Order" is only accurate when it does.
   const dish = row["Signature Dish"];
-  if (dish) tail.push(`**Known for:** ${dish}`);
+  if (dish && !PLAIN) tail.push(`**Known for:** ${dish}`);
 
   const url = row["Booking URL"];
   if (url) {
@@ -120,21 +134,29 @@ const out = parts.map((block) => {
     // platform but no deep link. That is still useful, but calling it "Book"
     // overpromises - the reader lands on a front page, not a form. Label the
     // two cases differently rather than pretending they are the same.
-    const site = cache[row.Slug]?.website;
+    const site = row.Website || cache[row.Slug]?.website;
     const isHomepage = site && url.replace(/\/$/, "") === site.replace(/\/$/, "");
     tail.push(isHomepage
       ? `**Booking:** [${new URL(url).hostname.replace(/^www\./, "")}](${url}) — book through their site`
       : `**Book:** [Reserve a table](${url})`);
     linked++;
   }
-  const near = nearest(row);
+  const near = PLAIN ? null : nearest(row);
   if (near) { tail.push(near); crossed++; }
 
-  while (kept.length && kept[kept.length - 1].trim() === "") kept.pop();
-  return kept.join("\n") + (tail.length ? "\n\n" + tail.join("\n\n") : "") + "\n";
+  // Peel off trailing furniture (blank lines, a rule, an embedded widget) so
+  // the generated lines land with the entry, not after the section break.
+  const furniture = [];
+  while (kept.length && (kept[kept.length - 1].trim() === "" || kept[kept.length - 1].trim() === "---"
+    || kept[kept.length - 1].trim().startsWith("<div data-gyg"))) furniture.unshift(kept.pop());
+  const body = kept.join("\n") + (tail.length ? "\n\n" + tail.join("\n\n") : "");
+  return body + (furniture.length ? "\n" + furniture.join("\n") : "\n");
 });
 
-fs.writeFileSync(PATH, out.join("\n"));
+// Re-running replaces the generated lines but would otherwise leave an extra
+// blank line behind each time, so collapse runs of blank lines.
+const text = out.join("\n");
+fs.writeFileSync(PATH, H3 ? text.replace(/\n{3,}/g, "\n\n") : text);
 console.log(`${PATH}`);
 console.log(`  facts strips refreshed : ${updated}`);
 console.log(`  booking links          : ${linked}`);
