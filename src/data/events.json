@@ -1,42 +1,7 @@
 {
- "generated": "2026-10-27",
- "count": 131,
+ "generated": "2026-10-29",
+ "count": 130,
  "events": [
-  {
-   "slug": "national-portrait-es-devlin",
-   "name": "A National Portrait",
-   "type": "installation",
-   "style": "A crowd-built digital portrait with Es Devlin",
-   "venue": "National Portrait Gallery",
-   "startsOn": "2026-05-14",
-   "endsOn": "2026-10-27",
-   "area": "Charing Cross",
-   "borough": "Westminster",
-   "guide": "covent-garden-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "St Martin's Place",
-   "postcode": "WC2H 0HE",
-   "agePolicy": "all-ages",
-   "duration": "Half an hour",
-   "price": "Free",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "Visitors contribute to the work rather than only viewing it - a collective national portrait built with Es Devlin, who designed the London 2012 closing ceremony staging.",
-   "opNote": "Free; drop in around the ticketed shows.",
-   "goodFor": [
-    "free",
-    "families"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": false,
-   "notYetOpen": false
-  },
   {
    "slug": "frieze-london",
    "name": "Frieze London and Frieze Sculpture",
@@ -2471,6 +2436,45 @@
    "notYetOpen": false
   },
   {
+   "slug": "wildlife-photographer-of-the-year",
+   "name": "Wildlife Photographer of the Year",
+   "type": "exhibition",
+   "style": "The winning images from the Natural History Museum's annual nature photography competition",
+   "venue": "Natural History Museum",
+   "startsOn": "2026-10-16",
+   "endsOn": "2027-07-11",
+   "recurring": "annual",
+   "typicalWhen": "Mid-October to the following July",
+   "area": "South Kensington",
+   "borough": "Kensington and Chelsea",
+   "guide": "south-kensington-area-guide",
+   "zone": "1",
+   "district": "West",
+   "address": "Cromwell Road",
+   "postcode": "SW7 5BD",
+   "agePolicy": "all-ages",
+   "duration": "About an hour",
+   "price": "Adults £17 off-peak, £19 standard, £21 peak; children 4-17 £8.50-£10.50",
+   "priceBand": "under-20",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "The 62nd Wildlife Photographer of the Year: the winning photographs, each shown with the story behind the picture.",
+   "opNote": "Off-peak is Tuesday to Thursday in term time; peak is weekends in the school holidays. Under-4s free. Central Building, Natural History Museum.",
+   "goodFor": [
+    "families",
+    "art",
+    "photography"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.nhm.ac.uk/visit/exhibitions/wildlife-photographer-of-the-year.html",
+   "bookingUrl": "https://ticketing.nhm.ac.uk/events/EXH-WPY62",
+   "annual": true,
+   "notYetOpen": false
+  },
+  {
    "slug": "doggetts-coat-and-badge",
    "name": "Doggett's Coat and Badge Race",
    "type": "sporting-event",
@@ -4028,42 +4032,6 @@
     "free"
    ],
    "annual": true,
-   "notYetOpen": false
-  },
-  {
-   "slug": "wildlife-photographer-of-the-year",
-   "name": "Wildlife Photographer of the Year",
-   "type": "exhibition",
-   "style": "The 100 winning images from the world's biggest nature photography competition",
-   "venue": "Natural History Museum",
-   "recurring": "annual",
-   "typicalWhen": "Mid-October to the following July",
-   "area": "South Kensington",
-   "borough": "Kensington and Chelsea",
-   "guide": "south-kensington-area-guide",
-   "zone": "1",
-   "district": "West",
-   "address": "Cromwell Road",
-   "postcode": "SW7 5BD",
-   "agePolicy": "all-ages",
-   "duration": "About an hour",
-   "price": "£15.50 off-peak, £18 peak (adult)",
-   "priceBand": "under-20",
-   "booking": "recommended",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "The longest-running nature photography competition in the world, and consistently the Museum's strongest temporary show - 100 images chosen from tens of thousands of entries, with the conservation story behind each one.",
-   "opNote": "Between editions as of this run - the 2025/26 exhibition closed 12 July 2026 and the next opens in October 2026. Check nhm.ac.uk before planning a visit around it specifically.",
-   "goodFor": [
-    "families",
-    "art",
-    "photography"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": true,
-   "awaitingDates": true,
    "notYetOpen": false
   },
   {
