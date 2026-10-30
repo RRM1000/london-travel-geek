@@ -1,9 +1,10 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-28",
+  "updated": "2026-10-30",
   "inProgress": [],
   "nextUp": [
+    "Display ads, once the Journey details arrive: load the script from BaseLayout.astro with a list of ad-free pages (trip pages such as Harry Potter Studio Tour, Thames cruises, London Eye, tour buses and day trips, plus ticket pages such as Christmas shows). Hotel guides carry ads, because hotel affiliates have earned £3. Load it before GA4 with Mediavine's consent prompt on (the site has none), add ads.txt, leave the optional pop-ups off, test locally, then show Rob. After 30 live days compare ad income and affiliate clicks with the baseline of 287 clicks and about 15,000 views (2-29 Oct). Apply to Raptive at 25,000 views a month.",
     "On or after 1 November: rebase ltg-fares-1101 onto origin/main (10ec86de or later), add the new Uber Boat fares (Central £10.80, Central & East/West £12.40; online singles £10.60/£12.20), build and push. Delete the main checkout preview copies of the three new guides before syncing it.",
     "On 1 November, before pushing ltg-fares-1101: rebase it on ltg-dates-1025 and add the new Uber Boat peak fares (Central £10.80, Central & East or West £12.40; online singles £10.60 and £12.20) to five-days-in-london-itinerary, london-public-transport-costs-and-fares, thames-river-cruises-london and the-o2-travel-guide.",
     "Add Oxford Street's 2026 lights switch-on date to the lights walk, the Christmas guide and the November guide as soon as Oxford Street announces it.",
@@ -21,6 +22,7 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    "Display ads, Journey by Mediavine: accepted 30 Oct. Send the ad script code and the ads.txt file (or redirect link) from the Mediavine dashboard, then the install can start.",
     "Spot-check two or three Ticketmaster links added on the October guide and the jazz festival page (Ticketmaster blocks our scripts, so they came from the listings feed unopened).",
     "Hotels.com check: LEGOLAND's three hotels, Thorpe Shark Cabins, Chessington Safari and Azteca hotels, Dean Street Townhouse, Redchurch Townhouse and The Twenty Two link to their own sites; send Hotels.com links if it sells them.",
     "Click the Spear's link on the members' clubs guide once in a browser (it blocks scripts).",
@@ -58,6 +60,10 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-10-30",
+      "what": "Accepted by Journey by Mediavine for display ads. Estimated £80-£150 a month on 13,000-14,000 sessions (my estimate, not a quote). Nothing installed yet; plan and ad-free page rule are in Next up."
+    },
     {
       "date": "2026-10-28",
       "what": "PUSHED live (00bb640d..10ec86de): the whole trim and date pass, Events tab work, GetYourGuide tags, and the three new guides (Buckingham Palace, Natural History Museum, Best Ramen). Before the push: Bone Daddies books through Peter Street (Dojo), Kanada-Ya and Monohon out of the late-night guide, Heddon Yokocho in data/closed.json. Build 512 pages, links clean, no expired claims."
