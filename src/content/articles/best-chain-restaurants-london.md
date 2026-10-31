@@ -4,7 +4,7 @@ seoTitle: "Best Chain Restaurants in London 2026: Where to Eat"
 description: "London's best chain and mini-chain restaurants by cuisine, from Dishoom and Hoppers to Padella and Hawksmoor, with what to order, prices and whether you can walk in."
 publishedAt: 2026-10-31
 updatedAt: 2026-10-31
-reviewBy: 2026-12-31
+reviewBy: 2026-11-04
 sites:
   - london
 canonicalSite: london
@@ -91,7 +91,7 @@ Breakfast runs from 8am on weekdays and 9am at weekends to 11.45am. The **bacon 
 
 **Mostly walk-in.** Groups of any size can book before 6pm, and after 6pm only groups of six or more can. Dishoom keeps most tables back for walk-ins. On weekdays from 12pm to 5pm, lunch for two to share is £16 or £20 a head and can be booked. More in the [restaurant deals guide](/articles/restaurant-deals-london/).
 
-**Book:** [Dishoom reservations](https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche)
+**Book:** [Dishoom reservations](https://www.sevenrooms.com/explore/dishoom/reservations/create/search/)
 
 ### Hoppers
 
