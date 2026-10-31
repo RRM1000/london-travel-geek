@@ -246,6 +246,7 @@ A large, formal dim sum room on Baker Street that stays open later than most.
 - 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)** — 13–22 November, and Ronnie Scott's puts a band on stage at midnight
 - 🛡️ **[Is London Safe?](/articles/is-london-safe/)** — getting home at night, and who to call
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
+- 🛵 **[Food Delivery Apps in London](/articles/food-delivery-apps-london/)** — Deliveroo, Uber Eats and Just Eat, for when you would rather eat in
 - 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — Jihwaja in Vauxhall serves Korean food and karaoke until 3am at weekends
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)**

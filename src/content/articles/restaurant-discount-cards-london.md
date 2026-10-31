@@ -183,7 +183,7 @@ There is a free trial. Cancellation is by email at the end of the billing cycle.
 - **Vitality** rewards are Caffè Nero drinks and cinema tickets earned by hitting activity targets — not a restaurant discount.
 - **O2 Priority** gives a £1 Greggs hot drink or savoury item weekly, up to four times a month: about £3.20 a month, at a bakery.
 - **[Tourist](https://tourist.com/explore/restaurants/united-kingdom/london)** is a free app for visitors: show it when you pay for a discount, with no card to buy. It lists 79 London restaurants, mostly independents, a handful around Covent Garden and the Strand. Tourist says free members get 5–15% off; a paid Tourist Plus tier unlocks bigger offers. Some venues ask you to book ahead and quote a code.
-- **Deliveroo Plus** (£4.99/month) and **Uber One** discount *delivery*, which is a different product.
+- **Deliveroo Plus** (£4.99 a month) and **Uber One** (£4.99 a month) discount *delivery*, which is a different product: see our [food delivery apps guide](/articles/food-delivery-apps-london/) for what they save.
 
 ---
 
@@ -225,6 +225,7 @@ So a card will not usually come off a restaurant's own fixed-price lunch — ask
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
+- 🛵 **[Food Delivery Apps in London](/articles/food-delivery-apps-london/)** — Deliveroo, Uber Eats and Just Eat: fees and memberships
 - 🎬 **[The Best Cinema Deals in London](/articles/cinema-deals-london/)** — including the free 2-for-1 Meerkat Movies offer
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 - ☕ **[The Best Coffee in London](/articles/best-coffee-london/)**
