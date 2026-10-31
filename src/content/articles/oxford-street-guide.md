@@ -23,12 +23,8 @@ faq:
     a: "Wednesday 4 November 2026, at The Ribbon, 134-140 Oxford Street, according to the Harry Potter Shop's own site. The Hogwarts Bear Ceremony inside needs a free timeslot booked in advance."
   - q: "When is Oxford Street quietest?"
     a: "Oxford Street's own advice is weekday mornings. Weekends and the last days before Christmas are the busiest."
-heroImage: ../../assets/articles/oxford-street-guide/selfridges-oxford-street.jpg
-heroImageAlt: "The columned Portland stone front of Selfridges on Oxford Street, floodlit at night"
-heroImageCredit: "Daniel X. O'Neil"
-heroImageSource: https://commons.wikimedia.org/wiki/File:Selfridges_Oxford_Street_at_Night,_London_2012-12-29.jpg
-heroImageLicense: "CC BY 2.0"
-heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
+heroImage: ../../assets/articles/oxford-street-guide/oxford-street-traffic-free.jpg
+heroImageAlt: "People walking down the middle of the road on traffic-free Oxford Street, under strings of hanging stars"
 ---
 
 > 💡 **The Short Version:** Since **Monday 26 October 2026**, no cars, buses, taxis, bicycles, e-scooters or pedicabs are allowed on **Oxford Street from Orchard Street (Selfridges) to Great Portland Street**, nearly a kilometre. Come by Tube: **Bond Street** for Selfridges and John Lewis, **Oxford Circus** for the east end, **Tottenham Court Road** for the new **Harry Potter Shop**, which opens **Wednesday 4 November 2026**. Go on a weekday morning, and turn off the street for the lanes and squares either side of it.
@@ -38,6 +34,10 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 ## What changed on 26 October 2026
 
 Oxford Street is traffic-free between **Orchard Street**, beside Selfridges, and **Great Portland Street**, just east of Oxford Circus. The stretch takes in Selfridges, Bond Street station, John Lewis, Oxford Circus and IKEA. TfL, the highway authority, made the change on **Monday 26 October 2026**, and the closure is permanent. [TfL's page](https://tfl.gov.uk/travel-information/improvements-and-projects/oxford-street) has the rules.
+
+![Crowds walking in the road on Oxford Street past the HMV shop, with lamp posts, trees and hanging stars](../../assets/articles/oxford-street-guide/traffic-free-stretch-crowds.jpg)
+
+*The traffic-free stretch, looking past the HMV shop.*
 
 | | On the stretch |
 | --- | --- |
@@ -90,13 +90,23 @@ Listed west to east, with each shop's own opening hours. HMV has said its flagsh
 
 300 Oxford Street. Open **10am to 8pm Monday, Tuesday, Wednesday, Friday and Saturday, 10am to 9pm Thursday and 11.30am to 6pm Sunday**; the [Christmas hours](#christmas-opening-hours) are below. John Lewis says the refurbished store has a new 300-seat restaurant and a sports department. The 1864 Rooftop Bar & Kitchen is on the roof, and its festive igloos take bookings for dinners and parties.
 
+![A wall of fairy-lit greenery along the front of John Lewis, under red banners for the Christmas Shop, with shoppers on the pavement](../../assets/articles/oxford-street-guide/john-lewis-christmas-shop.jpg)
+
+*The Christmas Shop signs on the front of John Lewis.*
+
 ### IKEA Oxford Street
 
 214 Oxford Street, at the Oxford Circus end. The store stocks 3,500 smaller home items to take away, and the rest of the range is for delivery or collection, so bring a bag. Open **10am to 9pm Monday to Saturday and 12pm to 6pm on Sunday**; the bistro and Swedish food market keep slightly shorter hours, according to the [store page](https://www.ikea.com/gb/en/stores/oxford-street/).
 
 ### Harry Potter Shop
 
-The Ribbon, 134-140 Oxford Street, **opening Wednesday 4 November 2026**, according to the [shop's own page](https://harrypottershop.co.uk/pages/harry-potter-shop-oxford-street). It is east of Great Portland Street, so outside the traffic-free stretch. Tottenham Court Road and Oxford Circus are the nearest stations. The operator calls it the UK's largest official Harry Potter shop, on two floors themed as Diagon Alley. It says the shop has:
+The Ribbon, 134-140 Oxford Street, **opening Wednesday 4 November 2026**, according to the [shop's own page](https://harrypottershop.co.uk/pages/harry-potter-shop-oxford-street). It is east of Great Portland Street, so outside the traffic-free stretch. Tottenham Court Road and Oxford Circus are the nearest stations. The operator calls it the UK's largest official Harry Potter shop, on two floors themed as Diagon Alley.
+
+![The red-brick and glass front of the Harry Potter Shop on Oxford Street, with gold lettering over the doors and people walking past](../../assets/articles/oxford-street-guide/harry-potter-shop-front.jpg)
+
+*The Harry Potter Shop at The Ribbon, on Oxford Street.*
+
+It says the shop has:
 
 - **The Leaky Cauldron**, a food and drink space serving Butterbeer, frozen and hot Butterbeer and Butterbeer ice cream.
 - **A full-sized Knight Bus**, towards the rear of the shop.
@@ -150,9 +160,9 @@ Each of these is a minute or two from the street. Listed west to east.
 
 ### St Christopher's Place
 
-![The wrought-iron arch over the entrance to St Christopher's Place, with the street's red signs and a lamp](../../assets/articles/oxford-street-guide/st-christophers-place-arch.jpg)
+![The square at St Christopher's Place, with a green metal arch on a patch of grass, restaurant tables and an autumn tree](../../assets/articles/oxford-street-guide/st-christophers-place-square.jpg)
 
-*St Christopher's Place. Photo: Christine Matthews, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:St_Christopher%27s_Place,_London_W1_-_geograph.org.uk_-_1998760.jpg).*
+*The square at St Christopher's Place.*
 
 A short pedestrian lane off the north side, with smaller and pricier shops than the chains on Oxford Street. Shops open **10am to 8pm daily**, and its cafés and restaurants **8am to 11pm**, according to [its own site](https://www.stchristophersplace.com/); individual units vary. It comes out on Wigmore Street, so it is the way into Marylebone, and our [Regent's Park to Marylebone walk](/articles/regents-park-marylebone-walk/) finishes here.
 
