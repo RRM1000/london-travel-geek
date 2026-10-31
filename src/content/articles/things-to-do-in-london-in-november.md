@@ -147,7 +147,7 @@ Rugby tickets are from £79 for Australia and from £51 for Japan; the New Zeala
 
 ### Open since 30 October
 
-- **Agatha Christie: A World of Mystery**, British Library, to **20 June 2027**. Rooms styled as a country house, a WWI dispensary, an Orient Express-style carriage, an archaeological dig and a West End theatre, with Christie's 1937 Remington typewriter and her early manuscripts. £25 at peak (weekends, bank holidays and the last month) and £20 off-peak until 21 February; [book on the British Library's site](https://events.bl.uk/exhibitions/agathachristie).
+- **Agatha Christie: A World of Mystery**, British Library, to **20 June 2027**. Rooms styled as a country house, a WWI dispensary, an Orient Express-style carriage, an archaeological dig and a West End theatre, with Christie's 1937 Remington typewriter and her early manuscripts. £25 at peak (weekends, bank holidays and the final month) and £20 off-peak until 21 February; [book on the British Library's site](https://events.bl.uk/exhibitions/agathachristie).
 
 ### Opening in November
 
