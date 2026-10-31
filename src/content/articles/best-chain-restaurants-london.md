@@ -76,19 +76,17 @@ All three are in the [British Indian Good Food Guide's 2025 top 100](https://bri
 
 ### Dishoom
 
-*£ · Covent Garden*
-
 Dishoom has eight London cafés: Battersea, Borough, Canary Wharf, Carnaby, Covent Garden, Kensington, King's Cross and Shoreditch. They are modelled on the Irani cafés of Bombay. Covent Garden is dressed as a 1940s cinema-era Bombay, with period photographs and portraits covering the walls.
 
 Breakfast runs from 8am on weekdays and 9am at weekends to 11.45am. The **bacon naan roll (£11.70)** is a tandoor-baked naan with cream cheese, tomato-chilli jam and coriander. Later in the day, order the **house black daal (£11.50)**, cooked for 24 hours, the **keema pau (£11.50)**, minced lamb with buttered toasted buns, and the **lamb biryani (£21.50)**. The [breakfast guide](/articles/best-breakfast-brunch-london/) covers the morning menu.
 
 **Mostly walk-in.** Groups of any size can book before 6pm, and after 6pm only groups of six or more can. Dishoom keeps most tables back for walk-ins. On weekdays from 12pm to 5pm, lunch for two to share is £16 or £20 a head and can be booked. More in the [restaurant deals guide](/articles/restaurant-deals-london/).
 
-**Book:** [Dishoom reservations](https://www.dishoom.com/reservations/)
+**Book:** [Dishoom reservations](https://www.sevenrooms.com/explore/dishoom/reservations/create/search?venues=dishoombattersea%2Cdishoomcarnaby%2Cdishoomcanarywharf%2Cdishoomcoventgarden%2Cdishoomkensington%2Cdishoomkingscross%2Cdishoomshoreditch%2Cdishoombirmingham%2Cdishoomedinburgh%2Cdishoomglasgow%2Cdishoomleeds%2Cdishoommanche)
 
 ### Hoppers
 
-*£££ · Soho*
+*£££ · Soho · 4 min from Leicester Square · book weeks ahead*
 
 Hoppers has four London restaurants: Soho, Marylebone, King's Cross and Shoreditch. The Soho original on Frith Street is modelled on a Sri Lankan village toddy shop (a bar selling palm wine). Time Out ranks it first among London chains.
 
@@ -96,11 +94,9 @@ A **hopper (£6.60)** is a bowl-shaped pancake of fermented rice and coconut bat
 
 **Reservations are for parties of two to four; everyone else joins the virtual queue,** which seats complete parties only. Soho takes card payments only.
 
-**Book:** [Hoppers Soho](https://www.hopperslondon.com/soho/)
+**Book:** [Hoppers Soho](https://www.sevenrooms.com/explore/hopperssoho/reservations/create/search/)
 
 ### Kricket
-
-*££ · Soho*
 
 Kricket has four London restaurants: Brixton, Canary Wharf, Shoreditch and Soho. Soho, on Denman Street, was the first and has held a Bib Gourmand since its first year. It has two floors: a long marble counter facing the open kitchen upstairs and big communal tables downstairs.
 
@@ -136,7 +132,7 @@ Order the signature **bao** (soft steamed buns), the **Taiwanese fried chicken**
 
 ### Tonkotsu
 
-*££ · Soho*
+*££ · Soho · 5 min from Leicester Square*
 
 Tonkotsu has 15 London restaurants, from Soho and Bankside to Peckham, Walthamstow and Ealing. Soho on Dean Street was the first, opened in 2012, with two floors, a few seats outside and beer on tap. The noodles are made in-house; you can watch them being made at Tonkotsu East in Haggerston. Time Out ranks it twentieth among London chains.
 
@@ -144,7 +140,7 @@ The namesake **Tonkotsu (£15.95)** is a pork-bone broth with lardo, roast pork 
 
 **The £10.50 weekday lunch is the reason to go:** a lunch-sized ramen or chilled noodle salad plus a lunch-sized side, Monday to Friday until 5pm, excluding bank holidays. Soho takes bookings and leaves plenty of room for walk-ins.
 
-**Book:** [Tonkotsu Soho](https://tonkotsu.co.uk/locations/soho/)
+**Book:** [Tonkotsu Soho](https://app.walkup.co/create_booking/vendor/restaurant_000000Bo6urTUyCADsYOiM7Vi1SCO)
 
 ### Roti King
 
@@ -158,7 +154,7 @@ Order the **roti canai**, two pieces of flaky roti served with a kari to dip: dh
 
 ### Din Tai Fung
 
-*£££ · Covent Garden*
+*£££ · Covent Garden · 5 min from Covent Garden · book weeks ahead*
 
 Din Tai Fung has four London restaurants: Covent Garden on Henrietta Street, Centre Point on St Giles Square, Canary Wharf in Crossrail Place and the fourth floor of Selfridges. A fifth, at 1 Lewis Cubitt Walk in King's Cross, opens on 1 December 2026.
 
@@ -166,17 +162,15 @@ The reason to go is the **xiao long bao**, soup dumplings that Din Tai Fung fold
 
 **Book online for parties of six or seven, depending on the site; Din Tai Fung holds some tables for walk-ins,** who may wait. A discretionary service charge is added, and Covent Garden, Centre Point and Canary Wharf do not take American Express.
 
-**Book:** [Din Tai Fung reservations](https://dintaifung-uk.com/reservations/)
+**Book:** [Din Tai Fung reservations](https://www.sevenrooms.com/reservations/dintaifungcanarywharf/?venues=dintaifungcanarywharf,dintaifungkingscross,dintaifungcentrepoint,dintaifunglondon,dintaifungatselfridges)
 
 ---
 
 ## Pasta and Italian
 
-Padella, Bancone and Lina Stores all roll their pasta by hand on site. The [Italian guide](/articles/best-italian-restaurants-london/) has the independent restaurants.
+Padella, Bancone and Lina Stores all make fresh pasta by hand. The [Italian guide](/articles/best-italian-restaurants-london/) has the independent restaurants.
 
 ### Padella
-
-*£ · Borough*
 
 Padella has three restaurants: Borough Market, Shoreditch and Soho. The original opened at Borough Market in 2016, and its pappardelle with beef shin ragu and pici cacio e pepe have been on the menu since day one. It has two floors, a little outside seating and a kitchen counter, and holds a 2026 Bib Gourmand.
 
@@ -188,7 +182,7 @@ Order the **pappardelle with 8-hour Hereford beef shin ragu (£16.50)**, the **p
 
 ### Bancone
 
-*££ · Covent Garden*
+*££ · Covent Garden · 3 min from Charing Cross · Michelin Guide*
 
 Bancone has six London restaurants: Covent Garden, Golden Square in Soho, Borough Yards, Kensington, the City and Russell Square. The Covent Garden restaurant on William IV Street holds a 2026 Bib Gourmand.
 
@@ -200,7 +194,7 @@ The **silk handkerchiefs with walnut butter and confit egg yolk (£14.50)** are 
 
 ### Lina Stores
 
-*££ · Soho*
+*££ · Soho · 4 min from Tottenham Court Road*
 
 Lina Stores has eight London restaurants: Greek Street, King's Cross, Bloomberg Arcade, Marylebone Lane, Clapham, South Kensington, Shoreditch and Broadgate Circle. Its Brewer Street delicatessen in Soho has traded since 1944. Time Out ranks it sixth among London chains.
 
@@ -218,8 +212,6 @@ The independent pizzerias are in the [pizza guide](/articles/best-pizza-london/)
 
 ### Pizza Pilgrims
 
-*££ · Soho*
-
 Pizza Pilgrims has 20 London pizzerias, from Dean Street in Soho to Wimbledon and Queen's Park, and cooks Neapolitan pizza. It won Pizza Restaurant Chain of the Year at the PAPA Industry Awards in 2025, and it is a finalist in the 2026 National Pizza Awards, which are decided on 3 November 2026.
 
 Order the **'nduja**, made with nduja di Spilinga, the **8 Cheese**, which is twice a four-cheese and finished with smoked chilli jam, or the **double pepperoni and hot honey**. The **margherita** is on the menu too, and the **carbonara pizza** carries guanciale, pecorino, spaghetti and an egg yolk.
@@ -229,8 +221,6 @@ Order the **'nduja**, made with nduja di Spilinga, the **8 Cheese**, which is tw
 **Book:** [Pizza Pilgrims bookings](https://www.pizzapilgrims.co.uk/bookings)
 
 ### Franco Manca
-
-*£ · Soho*
 
 Franco Manca has 31 London pizzerias. The sourdough pizzas are numbered 1 to 12 on the menu, and the dough rises for 24 hours. A few sites vary the menu slightly. It is a finalist in the 2025 and 2026 National Pizza Awards.
 
@@ -248,7 +238,7 @@ For the independent steakhouses, see the [steak guide](/articles/best-steak-rest
 
 ### Hawksmoor
 
-*£££££ · Spitalfields*
+*££££ · Spitalfields · 4 min from Shoreditch High Street · book weeks ahead*
 
 Hawksmoor has eight London restaurants: Air Street, Borough, Guildhall, Knightsbridge, Seven Dials, Spitalfields, St Pancras and Wood Wharf. The St Pancras restaurant is 13th in the World's 101 Best Steak Restaurants 2026, and Time Out ranks Hawksmoor fifth among London chains. Seven Dials is in the old Watney-Combe brewery on Langley Street.
 
@@ -256,11 +246,9 @@ Beef is dry-aged and cooked over charcoal. Order the **cast-iron fillet steak (�
 
 **The set lunch is the way in:** Monday to Saturday, 12pm to 3pm, £21 for a main and a side, £26 for two courses and £30 for three. At Seven Dials the main is a 35-day dry-aged rump steak, and a table is capped at seven people.
 
-**Book:** [Hawksmoor Seven Dials](https://thehawksmoor.com/book-a-table/?location=45565)
+**Book:** [Hawksmoor](https://thehawksmoor.com/book-a-table/)
 
 ### Blacklock
-
-*££ · Soho*
 
 Blacklock has five London restaurants: Soho, the City, Shoreditch, Covent Garden and Canary Wharf. Soho on Great Windmill Street is in a basement, with no lift; Canary Wharf and Shoreditch are at ground level.
 
@@ -272,7 +260,7 @@ Order **All In (£28 a head, for two or more)**: pre-chop bites, then beef, pork
 
 ### Flat Iron
 
-*£ · Soho*
+*£ · Soho · 6 min from Piccadilly Circus · bookings and walk-ins*
 
 Flat Iron has 16 London restaurants. Soho on Beak Street was the first, opened after a 2012 pop-up above the Owl and Pussycat pub in Shoreditch. Time Out ranks it eighth among London chains.
 
@@ -298,7 +286,7 @@ Order a **smashed burger**, either single or double, with American cheese, brown
 
 ### Berenjak
 
-*£££ · Soho*
+*£££ · Soho · 3 min from Leicester Square · book weeks ahead*
 
 Berenjak has three London restaurants: Soho on Romilly Street, Borough and Mayfair. Soho, "the Tehran hole-in-the-wall", opened in 2018 and holds a 2026 Bib Gourmand. Parties of two sit at the counter.
 
@@ -309,8 +297,6 @@ The menu centres on charcoal-grilled kababs. Order the **koobideh kabab (£26)**
 **Book:** [Berenjak reservations](https://www.sevenrooms.com/explore/berenjakjks/reservations/create/search/?party_size=4&tracking=berenjak-website&venues=berenjakjks%2Cberenjakborough)
 
 ### Bubala
-
-*£££ · Spitalfields*
 
 Bubala has four London restaurants: Spitalfields on Commercial Street, Soho, King's Cross and Covent Garden. The cooking is vegetable-led and Middle Eastern, with most dishes vegan.
 
@@ -346,22 +332,19 @@ Tacos come two to a plate. Order the **pork pibil (£7.95)**, free-range pork sl
 
 ### Mildreds
 
-*££ · Soho*
+*££ · Soho · 6 min from Piccadilly Circus*
 
 Mildreds has five London restaurants: Camden, Covent Garden, King's Cross, Soho and Victoria. Soho at 45 Lexington Street is where it began in 1988, and is open from 9am. More in the [vegetarian and vegan guide](/articles/best-vegetarian-vegan-restaurants-london/).
 
 The winter menu includes the **oyster mushroom and hispi shawarma**, the **gochujang tofu** with kimchi rice, **glazed handmade dumplings** with chilli miso and **shiitake whipped silken tofu**. Soho has a breakfast menu.
 
-**Book through SevenRooms.**
-
 **Book:** [Mildreds reservations](https://www.sevenrooms.com/explore/mildredslondon/reservations/create/search/)
 
 ### Poppies Fish and Chips
-
-*££ · Spitalfields*
 
 Poppies Fish and Chips has four London restaurants: Spitalfields on Hanbury Street, Soho on Old Compton Street, Camden on Hawley Crescent and Portobello. The restaurants have a retro look and cook fish in groundnut oil, with vegetable oil available for nut allergies. More in the [fish and chips guide](/articles/best-fish-and-chips-london/).
 
 Every fish meal comes with chips and homemade tartare sauce. Order **haddock (£20.99 regular, £24 large)** or **cod (£21.99)**, or share the **hot seafood platter (£20.99)** of fish bites, scampi, calamari and whitebait.
 
 **Book:** [Poppies reservations](https://poppiesfishandchips.co.uk/reservations/)
+
