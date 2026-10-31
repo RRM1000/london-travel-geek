@@ -113,33 +113,24 @@ On the street and a few minutes off it, each with one thing that decides the vis
 
 ### Brasserie of Light
 
-*placeholder*
+*££££ · Mayfair · 3 min from Bond Street · book days ahead*
 
-Inside Selfridges, under a 24ft, crystal-encrusted Damien Hirst sculpture of Pegasus. Order afternoon tea, served beneath the Pegasus wings, or the Saturday set menu. It opens at 8am Monday to Friday and 9am at weekends, and closes at 11.30pm Monday to Thursday, midnight Friday and Saturday and 10.30pm Sunday. The main restaurant and its toilets are reached by lift.
-
-### Market Halls Oxford Street
-
-*placeholder*
-
-Upstairs at 9 Holles Street, just north of Oxford Street: nine street-food kitchens, two bars and a games hall. The kitchens include Gopal's Corner (Malaysian), Krapow (northern Thai), Salt Shed (fire and barbecue), Fresco (Neapolitan pizza) and Le Bab (kebabs). Each kitchen sets its own hours. You can walk in, and groups of 2 to 50 can book. All areas are wheelchair accessible.
-
-### Govinda's
-
-*placeholder*
-
-A vegetarian and vegan Indian canteen at 9-10 Soho Street, which calls itself London's oldest vegetarian restaurant and has traded since 1979. Order the thali, which changes. Open **7.30am to 10pm Monday to Saturday and 7.30am to 9pm Sunday**, and walk-ins are seated at the next free table.
-
-### Shree Krishna Vada Pav
-
-*placeholder*
-
-A counter at 38 Eastcastle Street, north of Oxford Street. Order the vada pav, a Mumbai potato fritter in a soft roll. Open **11am to 10pm Monday to Thursday and 9am to 10pm Friday to Sunday**.
+Inside Selfridges, under a 24ft, crystal-encrusted Damien Hirst sculpture of Pegasus. Order afternoon tea, served beneath the Pegasus wings, or the Saturday set menu. It opens at 8am Monday to Friday and 9am at weekends, and closes at 11.30pm Monday to Thursday, midnight Friday and Saturday and 10.30pm Sunday. The main restaurant and its toilets are reached by lift. [Reserve through its site](https://brasserie-of-light.co.uk/).
 
 ### Le Bab
 
-*placeholder*
+*££ · Soho · 6 min from Piccadilly Circus · book days ahead*
 
 On the top floor of Kingly Court, off Carnaby Street. Order the paneer kebab; kebabs run from £12 to £19. Open daily for lunch and dinner. [Reserve through its site](https://www.eatlebab.com/).
+
+### More places near the street
+
+| Place | Hours | Order |
+| --- | --- | --- |
+| **Market Halls Oxford Street**, 9 Holles Street | Each kitchen sets its own | One of nine street-food kitchens, among them Gopal's Corner (Malaysian), Krapow (northern Thai), Salt Shed (fire and barbecue) and Fresco (Neapolitan pizza). Upstairs, with two bars and a games hall. Walk in or [book](https://markethalls.co.uk/booking/) |
+| **Khao So-i**, 9-10 Market Place, off the north side by Oxford Circus | 12pm to 10.30pm Monday to Saturday, 12pm to 4pm Sunday | The khao soi, the northern Thai coconut curry noodle the restaurant is named for |
+| **Govinda's**, 9-10 Soho Street | 7.30am to 10pm Monday to Saturday, to 9pm Sunday | The thali, which changes. A vegetarian and vegan Indian canteen that calls itself London's oldest vegetarian restaurant, trading since 1979. Walk-ins are seated at the next free table |
+| **Shree Krishna Vada Pav**, 38 Eastcastle Street | 11am to 10pm Monday to Thursday, 9am to 10pm Friday to Sunday | The vada pav, a Mumbai potato fritter in a soft roll, from a counter |
 
 For a sit-down meal inside a department store, there is the Brasserie of Light above, the 1864 Rooftop Bar & Kitchen at John Lewis and, at IKEA, a bistro open 10am to 8.30pm Monday to Saturday and 12pm to 5.30pm Sunday. [Eat in London](/articles/eat-in-london-guide/) has the full list, and [cheap eats](/articles/cheap-eats-london/) covers the places under £15.
 
