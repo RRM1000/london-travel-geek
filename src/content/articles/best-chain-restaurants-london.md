@@ -99,7 +99,7 @@ Breakfast runs from 8am on weekdays and 9am at weekends to 11.45am. The **bacon 
 
 Hoppers has four London restaurants: Soho, Marylebone, King's Cross and Shoreditch. The Soho original on Frith Street is modelled on a Sri Lankan village toddy shop (a bar selling palm wine). Time Out ranks it first among London chains.
 
-A **hopper (£6.60)** is a bowl-shaped pancake of fermented rice and coconut batter, with a runny egg in the middle for £7.80. Scoop it through a **kari**, Sri Lanka's word for curry: the **Lankan chicken kari (£15.20)**, **black pork kari (£16.60)** or **bone marrow varuval (£14.20)** with roti. The **lamb kothu roti (£22.40)** is chopped roti stir-fried with lamb curry, eggs and greens. The **Hoppers Experience (£35 a head)** is a shared spread for the whole table, and the **Lunch Plate (£22 a head)** is a shorter version of it.
+A **hopper (£6.60)** is a bowl-shaped pancake of fermented rice and coconut batter, with a runny egg in the middle for £7.80. Scoop it through a **kari**, Sri Lanka's word for curry: the **Lankan chicken kari (£15.20)**, **black pork kari (£16.60)** or **bone marrow varuval (£14.20)** with roti. The **lamb kothu roti (£22.40)** is chopped roti stir-fried with lamb curry, eggs and greens. The **Hoppers Experience (£35 a head)** is a shared spread for the whole table, and the **Lunch Plate (£22 a head)** is a lighter, quicker taste of the classics.
 
 **Reservations are for parties of two to four; everyone else joins the virtual queue,** which seats complete parties only. Soho takes card payments only.
 
@@ -147,7 +147,7 @@ Tonkotsu has 15 London restaurants, from Soho and Bankside to Peckham, Walthamst
 
 The namesake **Tonkotsu (£15.95)** is a pork-bone broth with lardo, roast pork belly, bamboo shoots, beansprouts and burnt garlic oil. The **Geki Kara (£16.95)** adds scotch bonnet mash for heat, and the **Chilli Chicken (£15.95)** is a chicken-broth bowl. Every ramen comes in a small size for 25% off. More bowls in the [ramen guide](/articles/best-ramen-london/).
 
-**The £10.50 weekday lunch is the reason to go:** a lunch-sized ramen or chilled noodle salad plus a lunch-sized side, Monday to Friday until 5pm, excluding bank holidays. Soho takes bookings and leaves plenty of room for walk-ins.
+**The weekday lunch is £10.50:** a lunch-sized ramen or chilled noodle salad plus a lunch-sized side, Monday to Friday until 5pm, excluding bank holidays. Soho takes bookings and leaves plenty of room for walk-ins.
 
 **Book:** [Tonkotsu Soho](https://app.walkup.co/create_booking/vendor/restaurant_000000Bo6urTUyCADsYOiM7Vi1SCO)
 
@@ -170,7 +170,7 @@ Order the **roti canai**, two pieces of flaky roti served with a kari to dip: dh
 
 Din Tai Fung has four London restaurants: Covent Garden on Henrietta Street, Centre Point on St Giles Square, Canary Wharf in Crossrail Place and the fourth floor of Selfridges. A fifth, at 1 Lewis Cubitt Walk in King's Cross, opens on 1 December 2026.
 
-The reason to go is the **xiao long bao**, soup dumplings that Din Tai Fung folds by hand with at least 18 pleats; the menu says each passes through six preparation stations over 40 minutes. The pork version comes in fives or tens. Other fillings are crab and pork, truffle and pork, chilli crab and pork, beef and chicken, plus a vegan mushroom and truffle one. Add the **chilli crab and pork buns**, **Taiwanese fried chicken** or **egg fried rice**. More dumplings in the [dim sum guide](/articles/best-dim-sum-london/).
+The main order is the **xiao long bao**, soup dumplings that Din Tai Fung folds by hand with at least 18 pleats; the menu says each passes through six preparation stations over 40 minutes. The pork version comes in fives or tens. Other fillings are crab and pork, truffle and pork, chilli crab and pork, beef and chicken, plus a vegan mushroom and truffle one. Add the **chilli crab and pork buns**, **Taiwanese fried chicken** or **egg fried rice**. More dumplings in the [dim sum guide](/articles/best-dim-sum-london/).
 
 **Book online for parties of six or seven, depending on the site; Din Tai Fung holds some tables for walk-ins,** who may wait. A discretionary service charge is added, and Covent Garden, Centre Point and Canary Wharf do not take American Express.
 
