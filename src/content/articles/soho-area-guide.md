@@ -3,7 +3,7 @@ title: "Soho Guide: Chinatown, Carnaby Street and After Dark"
 seoTitle: "Soho Guide: Chinatown, Carnaby Street & Nightlife"
 description: "Soho is two places depending on when you arrive: a working media district with quiet streets and good coffee by day, a crowded nightlife district after six. Chinatown, Carnaby Street, Old Compton Street and where to eat late."
 publishedAt: 2026-08-03
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-05
 sites:
   - london
@@ -74,7 +74,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 ---
 
-**Soho is one square kilometre, walkable end to end in fifteen minutes**, bounded by [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Shaftesbury Avenue and Charing Cross Road, and packed with restaurants, bars, theatres and recording studios.
+**Soho is one square kilometre, walkable end to end in fifteen minutes**, bounded by [Oxford Street](/articles/oxford-street-guide/), Regent Street, Shaftesbury Avenue and Charing Cross Road, and packed with restaurants, bars, theatres and recording studios.
 
 It is two different places depending on when you arrive: by day a working media district with good coffee and quiet streets, and from about 18:00 a nightlife district.
 
@@ -130,7 +130,7 @@ Pedestrian shopping to the west, and **a district of lanes rather than one stree
 
 **Free to walk through, open daily**, and five minutes from Oxford Circus. The courtyard is busiest between 6pm and 8pm; most of its restaurants take bookings, which is worth doing at a weekend.
 
-Carnaby's Christmas lights switch-on is Wednesday 4 November 2026, and the street is stop six on our [Christmas lights walk](/articles/christmas-lights-walk-london/), between the Regent Street angels and Seven Dials.
+Oxford Circus is five minutes north, and our [Oxford Street guide](/articles/oxford-street-guide/) covers the traffic-free stretch and the shops there. Carnaby's Christmas lights switch-on is Wednesday 4 November 2026, and the street is stop six on our [Christmas lights walk](/articles/christmas-lights-walk-london/), between the Regent Street angels and Seven Dials.
 
 ### Berwick Street and Broadwick Street
 Market stalls, record shops and some of Soho's better restaurants — **Berwick Street market has traded since the 1770s** and is now a short run of food stalls, not the fruit and veg it was, with the surviving record shops on the same stretch.

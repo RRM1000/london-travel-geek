@@ -3,7 +3,7 @@ title: "Harry Potter in London: Everything a Fan Can Actually Do"
 seoTitle: "Harry Potter London 2026: Prices & What to Skip"
 description: "Studio Tour tickets are £58.50 for 2026 dates and cannot be bought on the door. Cursed Child is now one play. The Cauldron has closed. Prices, addresses and what to skip."
 publishedAt: 2026-09-05
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-05
 sites:
   - london
@@ -161,7 +161,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **Harry Potter Shop King's Cross** — King's Cross station, N1 9AP, open 8am-10pm Monday to Saturday and 9am-8pm Sunday. The first shop Warner Bros. opened outside an attraction, back in 2012, with five themed areas and over 5,000 props in the fit-out. Free to walk into, no ticket.
 
-**Harry Potter Shop Oxford Street** — The Ribbon, 134-140 Oxford Street, **opening 4 November 2026**. Two floors themed as Diagon Alley, a Butterbeer counter, a full-sized Knight Bus at the back and a dragon over the Gringotts section.
+**Harry Potter Shop Oxford Street** — The Ribbon, 134-140 Oxford Street, **opening 4 November 2026**. Two floors themed as Diagon Alley, a Butterbeer counter, a full-sized Knight Bus at the back and a dragon over the Gringotts section. Our [Oxford Street guide](/articles/oxford-street-guide/) has the shop's exclusives, the Hogwarts Bear Ceremony booking and the street around it.
 
 **Harry Potter Shop at the Studio Tour** — Leavesden. **You cannot visit it without a valid tour ticket for that day.** Do not drive to Hertfordshire to shop.
 

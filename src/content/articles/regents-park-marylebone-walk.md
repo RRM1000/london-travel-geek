@@ -5,7 +5,7 @@ description: "A numbered walking route from 221b Baker Street through Regent's P
 heroImage: "../../assets/articles/marylebone-area-guide/sherlock-holmes-museum.jpg"
 heroImageAlt: "The Sherlock Holmes Museum shopfront on Baker Street, with a costumed Victorian policeman standing outside"
 publishedAt: 2026-07-11
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -229,7 +229,8 @@ On a Sunday the route also works in reverse from Bond Street. That puts the mark
 ## Carry on walking
 
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Mayfair is just south of Bond Street, where this one ends.
-- **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — starts at Selfridges, across Oxford Street from St Christopher's Place, and runs after dark to Trafalgar Square from November.
+- **[Oxford Street](/articles/oxford-street-guide/)** — the traffic-free stretch, the shops and the side streets, from the end of this walk.
+- **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — starts at Selfridges, four minutes west of Bond Street station along Oxford Street, and runs after dark to Trafalgar Square from November.
 - **[Hampstead Heath to Primrose Hill](/articles/hampstead-heath-primrose-hill-walk/)** — Primrose Hill is across the road from the north of the park.
 - **[King's Cross to Camden along the canal](/articles/kings-cross-camden-canal-walk/)** — the canal runs along the park's northern edge to Camden.
 

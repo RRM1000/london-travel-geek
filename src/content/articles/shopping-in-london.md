@@ -3,7 +3,7 @@ title: "Shopping in London: Every Street, Market and Store Worth Your Time"
 seoTitle: "Shopping in London 2026: Best Areas, Markets & Prices"
 description: "Where to shop in London by what you want to buy: department stores, streets, markets, arcades and malls, with price guides and the two rules that catch every visitor out."
 publishedAt: 2026-07-01
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london
@@ -59,15 +59,15 @@ Two things first, because both catch people out.
 
 ### Oxford Street, and the big three
 
-Every British high street chain has a flagship on Oxford Street, so it is the one place to see them all in a single walk. Its department stores are at the western end:
+Oxford Street is where to see the high street chains in a single walk, and it has three department stores:
 
 * **Selfridges**: fashion, beauty, and a food hall, with an entrance on Duke Street.
 * **John Lewis**: where Londoners buy things they intend to keep. It price-matches.
-* **Marks & Spencer**: the Marble Arch flagship.
+* **Marks & Spencer**: the Marble Arch store, at the western end.
 
-**From 26 October 2026 the stretch between Orchard Street and Great Portland Street is traffic-free, buses included.** HMV's Oxford Street store closes in March 2027.
+**From 26 October 2026 the stretch between Orchard Street and Great Portland Street is traffic-free, buses included.** HMV's Oxford Street store closes in March 2027. Our [Oxford Street guide](/articles/oxford-street-guide/) covers the closure, the shops, where to eat and the streets off it.
 
-**Practical:** Bond Street and Tottenham Court Road stations sit at either end and both are on the **Elizabeth line**. Avoid Oxford Circus on a Saturday afternoon: TfL closes the station entrances when crowds build.
+**Practical:** Marble Arch (Central line) and Tottenham Court Road (Elizabeth line) are at either end, and Bond Street is on the **Elizabeth line** too. Avoid Oxford Circus on a Saturday afternoon: TfL closes the station entrances when crowds build.
 
 ### Regent Street and Piccadilly
 

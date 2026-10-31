@@ -174,6 +174,7 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 ## Continue planning your London trip
 
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — every street, market and store worth your time
+- 🏬 **[Oxford Street](/articles/oxford-street-guide/)** — the traffic-free stretch, the department stores and the streets off it
 - 🏪 **[The Best Markets in London](/articles/best-london-markets/)** — and what day each one actually runs
 - ✈️ **[Heathrow to Central London](/articles/heathrow-airport-to-london/)** — every route, and what each costs
 - 🚆 **[Gatwick to London](/articles/gatwick-airport-to-london/)** — the fast train against the cheap coach

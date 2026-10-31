@@ -9,7 +9,7 @@ heroImageSource: https://www.flickr.com/photos/16801915@N06/3282398164
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-07-11
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -257,6 +257,7 @@ Walked in reverse it finishes by Charlotte Street at dinner time.
 - **[Westminster](/articles/westminster-walk/)** — cross Green Park and St James's Park to Westminster.
 - **[Soho and Chinatown](/articles/soho-chinatown-walk/)** — starts on Denmark Street, fifteen minutes south of Fitzroy Square across Oxford Street.
 - **[Chelsea and Belgravia plaques](/articles/chelsea-belgravia-plaques-walk/)** — Belgravia starts at Hyde Park Corner, at the west end of Green Park.
+- **[Oxford Street](/articles/oxford-street-guide/)** — the walk crosses it at Oxford Circus; the guide covers the traffic-free stretch and the shops.
 - **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — from November it crosses this route on Piccadilly, heading down Bond Street and up the Regent Street Quadrant after dark.
 
 ## What to do with the rest of the day

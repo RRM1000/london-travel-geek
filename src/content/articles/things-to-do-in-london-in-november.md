@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-04
 sites: [london]
 canonicalSite: london
@@ -40,7 +40,7 @@ The first fortnight is fireworks and ceremony, ten days of jazz sit in the middl
 | Date | What | Cost |
 | --- | --- | --- |
 | Sun 1 Nov | London to Brighton Veteran Car Run leaves Hyde Park | Free |
-| Wed 4 Nov | Carnaby Street's lights switch on | Free |
+| Wed 4 Nov | Carnaby Street's lights switch on; the Harry Potter Shop opens on Oxford Street | Lights free |
 | Thu 5 Nov | Bonfire Night; Regent Street's lights switch on | Mostly free |
 | Sat 7 Nov | The big fireworks night; National Maritime Museum Diwali day | Fireworks ticketed |
 | Sun 8 Nov | Remembrance Sunday and Diwali itself; England v Australia at Twickenham | Cenotaph free |
@@ -163,6 +163,8 @@ Still running through the month: **Korea** at the British Museum and **Renoir an
 <div data-stay-strip></div>
 
 ## Also in November
+
+**Oxford Street has been traffic-free between Orchard Street and Great Portland Street since Monday 26 October 2026**, and the Harry Potter Shop at 134-140 Oxford Street opens on Wednesday 4 November. Our [Oxford Street guide](/articles/oxford-street-guide/) has the bus changes, the shops and the streets off it.
 
 **Thanksgiving is Thursday 26 November.** The Red Lion in Barnes, a Fuller's pub, has served an American Thanksgiving dinner for more than 20 years, with a lunchtime sitting and two in the evening on the day.
 
