@@ -16,6 +16,12 @@ tags:
   - dining
   - cheap eats
 draft: false
+heroImage: "../../assets/articles/best-chain-restaurants-london/roti-king-nasi-lemak.jpg"
+heroImageAlt: "A plate of nasi lemak at Roti King: coconut rice with fried chicken, a boiled egg, fried anchovies, cucumber and sambal on a blue plate"
+heroImageCredit: "Andy Li"
+heroImageSource: "https://commons.wikimedia.org/wiki/File:Nasi_Lemak_-_Roti_King_2025-09-19.jpg"
+heroImageLicense: "CC0 1.0"
+heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 faq:
   - q: "What is the best chain restaurant in London?"
     a: "On the evidence, Hoppers. Time Out ranks it first among London chains with three or more branches (list updated 27 August 2026), and its Soho restaurant holds a Bib Gourmand in the 2026 Michelin Guide. Four other chains hold a Bib Gourmand at one restaurant: Kricket in Soho, Berenjak in Soho, Bancone in Covent Garden and Padella at Borough Market."
@@ -77,6 +83,9 @@ All three are in the [British Indian Good Food Guide's 2025 top 100](https://bri
 ### Dishoom
 
 Dishoom has eight London cafés: Battersea, Borough, Canary Wharf, Carnaby, Covent Garden, Kensington, King's Cross and Shoreditch. They are modelled on the Irani cafés of Bombay. Covent Garden is dressed as a 1940s cinema-era Bombay, with period photographs and portraits covering the walls.
+
+![A plate of akuri, spiced scrambled eggs, with two buttered buns and a grilled tomato on a blue patterned plate](../../assets/articles/best-chain-restaurants-london/dishoom-akuri.jpg)
+*Akuri at Dishoom. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Dishoom,_King's_Cross,_London.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 Breakfast runs from 8am on weekdays and 9am at weekends to 11.45am. The **bacon naan roll (£11.70)** is a tandoor-baked naan with cream cheese, tomato-chilli jam and coriander. Later in the day, order the **house black daal (£11.50)**, cooked for 24 hours, the **keema pau (£11.50)**, minced lamb with buttered toasted buns, and the **lamb biryani (£21.50)**. The [breakfast guide](/articles/best-breakfast-brunch-london/) covers the morning menu.
 
@@ -145,6 +154,9 @@ The namesake **Tonkotsu (£15.95)** is a pork-bone broth with lardo, roast pork 
 ### Roti King
 
 Roti King has four London restaurants: Spitalfields on Artillery Lane, Euston on Doric Way, Battersea Power Station and Waterloo on Lower Marsh. Time Out ranks it seventh among London chains.
+
+![A plate of nasi lemak at Roti King: coconut rice with fried chicken, a boiled egg, fried anchovies, cucumber and sambal](../../assets/articles/best-chain-restaurants-london/roti-king-nasi-lemak.jpg)
+*The nasi lemak at Roti King. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Nasi_Lemak_-_Roti_King_2025-09-19.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 Order the **roti canai**, two pieces of flaky roti served with a kari to dip: dhal (£10.50), chicken (£11.75), mutton (£12.95) or beef rendang (£13.45). The **nasi lemak (£13.25)** is coconut rice with fried anchovies, peanuts, egg, sambal and spiced fried chicken, and the **kari laksa (£13.25)** is egg noodles in coconut curry broth with seafood and tofu.
 
@@ -224,6 +236,9 @@ Order the **'nduja**, made with nduja di Spilinga, the **8 Cheese**, which is tw
 
 Franco Manca has 31 London pizzerias. The sourdough pizzas are numbered 1 to 12 on the menu, and the dough rises for 24 hours. A few sites vary the menu slightly. It is a finalist in the 2025 and 2026 National Pizza Awards.
 
+![The Franco Manca pizzeria on Winchester Walk in Southwark, a brick corner building lit at dusk](../../assets/articles/best-chain-restaurants-london/franco-manca-southwark.jpg)
+*Franco Manca, Winchester Walk, Southwark. Photo: [Daniel from Glasgow](https://commons.wikimedia.org/wiki/File:Franco_Manca,_15_Winchester_Walk,_Blows_Yard,_Southwark,_November_2021.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
+
 Order **No. 2, the margherita**, **No. 5, the Napoli**, with Cantabrian anchovies, olives and capers, or **No. 8, the Mezzaluna**, half pizza with ventricina salami and slow-cooked pork and half calzone filled with ricotta, spinach and grana. More deals in the [restaurant deals guide](/articles/restaurant-deals-london/).
 
 **A pizza and a soft drink is £12.50 at every pizzeria, Monday to Friday, 12pm to 4pm.** There is plenty of room for walk-ins, and most sites also take bookings.
@@ -241,6 +256,9 @@ For the independent steakhouses, see the [steak guide](/articles/best-steak-rest
 *££££ · Spitalfields · 4 min from Shoreditch High Street · book weeks ahead*
 
 Hawksmoor has eight London restaurants: Air Street, Borough, Guildhall, Knightsbridge, Seven Dials, Spitalfields, St Pancras and Wood Wharf. The St Pancras restaurant is 13th in the World's 101 Best Steak Restaurants 2026, and Time Out ranks Hawksmoor fifth among London chains. Seven Dials is in the old Watney-Combe brewery on Langley Street.
+
+![The glass-fronted Hawksmoor restaurant at Wood Wharf, lit at night beside the dock with flats behind](../../assets/articles/best-chain-restaurants-london/hawksmoor-wood-wharf.jpg)
+*Hawksmoor, Wood Wharf. Photo: [The wub](https://commons.wikimedia.org/wiki/File:Hawksmoor,_Wood_Wharf_-_2022-02-09.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 Beef is dry-aged and cooked over charcoal. Order the **cast-iron fillet steak (£39)** with bone marrow and onions, or the **prime rib (£16 per 100g)**, or start with **roasted bone marrow (£12)**. The Sunday roast is in the [roast guide](/articles/best-sunday-roast-london/).
 
@@ -264,6 +282,9 @@ Order **All In (£28 a head, for two or more)**: pre-chop bites, then beef, pork
 
 Flat Iron has 16 London restaurants. Soho on Beak Street was the first, opened after a 2012 pop-up above the Owl and Pussycat pub in Shoreditch. Time Out ranks it eighth among London chains.
 
+![Sliced flat iron steak on a stone-inset wooden board](../../assets/articles/best-chain-restaurants-london/flat-iron-steak.jpg)
+*The flat iron steak. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Flat_Iron_Steak_-_Flat_Iron_2026-02-24.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
+
 The **flat iron steak is £15**. Alongside it come **beef dripping chips** and **crispy bone marrow garlic mash**, a **35-day aged ribeye (£20)** and a **Wagyu steak of the day**. The **smashed onion double cheeseburger** is £14.
 
 **Flat Iron takes bookings and keeps space for walk-ins; if there is a wait, it takes your number rather than making you queue.** Bookings are 90 minutes for one to four guests.
@@ -273,6 +294,9 @@ The **flat iron steak is £15**. Alongside it come **beef dripping chips** and *
 ### Honest Burgers
 
 Honest Burgers has 33 restaurants in London and Greater London, from Baker Street to Brixton Village and Kingston. Its burger The Honest won the overall title at the National Burger Awards 2026; the [burger guide](/articles/best-burgers-london/) explains where it is served.
+
+![A burger with melted cheese and chips in an enamel dish lined with paper at Honest Burgers](../../assets/articles/best-chain-restaurants-london/honest-burgers.jpg)
+*A burger and chips at Honest Burgers. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Teriyaki_Burger_with_rosemary_chips_-_Honest_Burgers_2023-07-21.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
 Order a **smashed burger**, either single or double, with American cheese, brown butter mustard mayo, onions and pickles, or the **Honest**, with dry-aged beef, red onion relish, smoked bacon and cheddar. **Honest Mighties** are slider-sized burgers, from £5 for a solo taster. Each restaurant also has a local special.
 
@@ -299,6 +323,9 @@ The menu centres on charcoal-grilled kababs. Order the **koobideh kabab (£26)**
 ### Bubala
 
 Bubala has four London restaurants: Spitalfields on Commercial Street, Soho, King's Cross and Covent Garden. The cooking is vegetable-led and Middle Eastern, with most dishes vegan.
+
+![The red-brick arcaded corner building at King's Cross that houses Bubala, with terrace tables and potted plants outside](../../assets/articles/best-chain-restaurants-london/bubala-kings-cross.jpg)
+*Bubala, King's Cross. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Bubala,_King's_Cross,_N1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 On the Spitalfields menu, order the **falafel with tahini, amba and sumac onions (£9.50)**, the **hummus with burnt butter (£9)** and the **Herefordshire fryer "halloumi" with chamomile and fennel honey (£13)**, with the **oyster mushroom skewer (£5.50)** on the side. Bubala Knows Best is a set menu for the table, served in waves. More in the [Middle Eastern guide](/articles/best-middle-eastern-restaurants-london/).
 
