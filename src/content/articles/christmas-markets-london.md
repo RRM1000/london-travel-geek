@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Trafalgar_Square_Christ
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-09-27
-updatedAt: 2026-10-26
-reviewBy: 2026-11-01
+updatedAt: 2026-10-31
+reviewBy: 2026-11-13
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -37,7 +37,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 > 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
-*Dates, hours and prices as at 26 October 2026.*
+*Dates, hours and prices as at 31 October 2026.*
 
 ## The markets at a glance
 
@@ -50,6 +50,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 | **Borough Market** | Southwark Street, SE1 | Daily from 30 Nov 2026 | Free | Closed 25–27 Dec and 1 Jan; shuts at 5pm |
 | **Winter by the River** | London Bridge City, SE1 | 10 Nov 2026 – 3 Jan 2027 | Free; curling is paid | Closed Christmas Day; 5pm close on Christmas Eve |
 | **Winter Wonderland market** | Hyde Park, W2 | 19 Nov 2026 – 3 Jan 2027 | Entry ticket from £1 | Everyone needs a timed ticket, even just for the market |
+| **King's Cross Winter Market** | Granary Square, N1C | 26 Nov 2026 – 3 Jan 2027 | Free | New for 2026; closed 25 and 26 Dec and 1 Jan |
 | **Kingston** | Ancient Market Place, KT1 | 12 Nov 2026 – 3 Jan 2027 | Free | Stalls shut at 6pm Sunday to Wednesday |
 | **Greenwich Market** | Greenwich, SE10 | Daily, all year | Free | Closes at 5.30pm; the street food market next door runs Friday to Sunday to 29 Nov |
 | **Wimbledon** | The Piazza, SW19 | Winterfest 28–29 Nov 2026 | Free | Winterfest has ice skating and Santa's Grotto at Wimbledon Quarter |
@@ -140,6 +141,15 @@ Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked a
 - **Dates:** **Tuesday 10 November 2026 to Sunday 3 January 2027**, **11am–10pm** daily; Christmas Eve 11am–5pm, closed Christmas Day, New Year's Eve 11am–9pm.
 - **Price:** free to walk through; curling is paid.
 - **Getting there:** London Bridge station, about five minutes.
+
+### King's Cross Winter Market
+
+**A new free market in Granary Square for 2026**, with independent food, drink and makers' stalls, seasonal bars and a winter bandstand. It is part of Christmas at King's Cross, with Aardman's Cracking Christmas Tree and the bookable Remixed Roller Rink, which runs 26 November to 22 December.
+
+- **Dates:** **Thursday 26 November 2026 to Sunday 3 January 2027**.
+- **Hours:** until 23 December, Sunday to Thursday **11am–10pm** and Friday and Saturday **11am–11pm**; Christmas Eve 11am–7pm; closed 25 and 26 December and 1 January.
+- **Price:** free to enter.
+- **Getting there:** King's Cross St Pancras is a short walk. The Crafty Fox and Canopy Market dates below combine with it, and our [King's Cross area guide](/articles/kings-cross-area-guide/) has the rest.
 
 ### Hyde Park Winter Wonderland
 

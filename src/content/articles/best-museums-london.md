@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Great_Russell
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-08-28
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-29
 sites: [london]
 canonicalSite: london
@@ -253,7 +253,7 @@ The two buildings are ten minutes apart; do both in a morning.
 
 *Free · opens 28 November 2026*
 
-> ⚠️ **Not open yet.** It opens on 28 November 2026.
+> ⚠️ **Not open yet.** It opens on 28 November 2026, and free tickets for 28 November to 31 December can be booked on the [museum's site](https://www.londonmuseum.org.uk/whats-on/smithfield-general-admission/). Walk-ups are welcome, but booking is recommended in the opening weeks.
 
 ![The colourful iron and glass roof of the covered walkway through Smithfield's Victorian General Market](../../assets/articles/best-museums-london/london-museum-market-arcade.jpg)
 
@@ -261,7 +261,7 @@ The two buildings are ten minutes apart; do both in a morning.
 
 The old Museum of London, rehoused in the **Victorian General Market at Smithfield** after a decade-long restoration by Stanton Williams and Asif Khan. Free permanent galleries, DJ nights on Fridays and Saturdays, and a six-metre window looking onto a **live railway line running past the galleries**.
 
-The opening programme, *London Tastes*, runs to August 2027 and is about the city's food.
+The opening programme, *London Tastes*, runs to August 2027 and is about the city's food. It is open 10am to 6pm Sunday to Thursday and 10am to 11pm on Fridays and Saturdays.
 
 ---
 

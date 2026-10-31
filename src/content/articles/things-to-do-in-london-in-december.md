@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-10-27
+updatedAt: 2026-10-31
 reviewBy: 2026-11-15
 sites: [london]
 canonicalSite: london
@@ -76,7 +76,7 @@ The Trafalgar Square tree is lit on **Thursday 3 December**, and carol groups si
 
 ### St Paul's Cathedral
 
-**Most services are free and need no ticket; the carol services that fill are balloted.** The ticketed events are Handel's Messiah on Wednesday 2nd and A Celebration of Christmas on Thursday 10th, both paid. **Family Carols on Saturday 19th (11am) and the 4pm Christmas Carol Services on Wednesday 23rd and Thursday 24th are free but allocated by ballot**, which opens in November, and any tickets not claimed are released to the public.
+**Most services are free and need no ticket; the carol services that fill are balloted.** The ticketed events are Handel's Messiah on Wednesday 2nd (6.30pm to 9pm; **£35** under the dome, **£20** in the nave) and A Celebration of Christmas on Thursday 10th (6.30pm to 8pm; nave seats **£30**). **Family Carols on Saturday 19th (11am) and the 4pm Christmas Carol Services on Wednesday 23rd and Thursday 24th are free but allocated by ballot**, which opens in November, and any tickets not claimed are released to the public.
 
 Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5pm), the Blessing of the Crib with the lighting of the Christmas trees on Sunday 20th (3pm), the **Midnight Eucharist** on Thursday 24th (11pm), and on Christmas Day the Choral Eucharist at 11am and Festal Evensong at 3pm. Doors open an hour before, queues form outside, seating is unreserved, there is no cloakroom and bags over 450 x 300 x 250mm are not allowed. Details are on [St Paul's Christmas page](https://www.stpauls.co.uk/christmas).
 
@@ -123,9 +123,17 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 
 **The Royal Ballet's Nutcracker opens at the Royal Opera House on Thursday 3 December and runs to 13 January 2027**, with tickets from £10 to £238. Peter Wright's production lasts about 2 hours 20 minutes with one interval, is for ages 5 and over, and uses flashing lights and dry ice. **English National Ballet's Nutcracker is at the London Coliseum from 17 December to 10 January**, from £27.25 including fees, with 25% off for under-16s.
 
+### Candlelight at The Fan Museum, Greenwich — 11 to 18 December
+
+The [Fan Museum](https://www.thefanmuseum.org.uk/events/museum-by-candlelight), at 12 Crooms Hill, opens from **4.30pm to 7pm** on five evenings, **11 to 18 December**, with its exhibition spaces lit almost entirely by candles and classical festive music playing. A mulled wine, cider or juice in the Orangery comes with the ticket. Tickets are **£10**, must be [booked in advance](https://online1.venpos.net/VenposJourneyUI/?locationId=626&id=d0153577-78a7-4e9c-a69a-1b29c2ab159c), and are not sold on the door. Cutty Sark DLR is five minutes' walk, and the rest of the day is in our [Greenwich guide](/articles/greenwich-area-guide/).
+
+### Barbican Conservatory plant adoption — Wednesday 2 December
+
+The Barbican is giving away plants from its Conservatory at its final plant adoption event on **Wednesday 2 December**. Places are free, one ticket per person, and allocated by a ballot that closes on **Thursday 19 November** on the [Barbican's plant adoption page](https://www.barbican.org.uk/whats-on/event/conservatory-plant-adoption). Successful entrants have 48 hours to claim a ticket, and there are no walk-ins. The Conservatory itself is open to visitors on listed dates from 13 November to 3 January, free but ticketed; see our [Barbican guide](/articles/barbican-centre-guide/).
+
 ### Other Christmas nights
 
-**Matthew Bourne's Cinderella opens at Sadler's Wells on 1 December**, set in the Blitz. **Cirque Alice**, an acrobatic Alice in Wonderland, is at the Royal Festival Hall from 12 December to 3 January. **Christmas Carol Goes Wrong** opens at Wyndham's Theatre on 18 December. Our [Christmas shows guide](/articles/christmas-shows-london/) lists the rest with prices, running times and age guidance, and the [London theatre guide](/articles/london-theatre-guide/) covers everything that isn't Christmas.
+**Matthew Bourne's Cinderella opens at Sadler's Wells on 1 December**, set in the Blitz. **Cirque Alice**, an acrobatic Alice in Wonderland, is at the Royal Festival Hall from 12 December to 3 January. **Christmas Carol Goes Wrong** opens at Wyndham's Theatre on 18 December. **Dune: Part Three** is in IMAX 70mm at the Science Museum until 3 February 2027, with tickets at [£18 to £23](https://www.sciencemuseum.org.uk/see-and-do/dune-part-three); the film is in UK cinemas from 18 December. Our [Christmas shows guide](/articles/christmas-shows-london/) lists the rest with prices, running times and age guidance, and the [London theatre guide](/articles/london-theatre-guide/) covers everything that isn't Christmas.
 
 <div data-stay-strip></div>
 
@@ -144,7 +152,7 @@ These open in November and run into the new year or spring.
 
 ### The London Museum at Smithfield
 
-**The London Museum's new home in Smithfield's Victorian General Market opens its permanent galleries on Saturday 28 November, and they are free.** December is its first full month. Inside are the Cheapside Hoard of Elizabethan and Jacobean jewellery, the Lord Mayor's Coach and a six-metre window onto the Thameslink line. The temporary exhibition space in the Poultry Market opens in 2028.
+**The London Museum's new home in Smithfield's Victorian General Market opens its permanent galleries on Saturday 28 November, and they are free.** December is its first full month, and free tickets for 28 November to 31 December can be [booked on the museum's site](https://www.londonmuseum.org.uk/whats-on/smithfield-general-admission/); walk-ups are welcome. It is open 10am to 6pm Sunday to Thursday and 10am to 11pm on Fridays and Saturdays. Inside are the Cheapside Hoard of Elizabethan and Jacobean jewellery, the Lord Mayor's Coach and a six-metre window onto the Thameslink line. The temporary exhibition space in the Poultry Market opens in 2028.
 
 ### The Royal Observatory, Greenwich
 
@@ -188,8 +196,9 @@ The Serpentine Swimming Club's Christmas morning handicap is a 100-yard swim in 
 - **London Paddington is closed from Christmas Day.** No Elizabeth line or Heathrow Express trains run to or from Heathrow from Sunday 27 to Wednesday 30 December, and the Piccadilly line is the only rail link to the airport. Both resume on New Year's Eve, but Great Western Railway trains cannot use Paddington until Monday 4 January: long-distance services start and finish at Reading, and some divert to Euston.
 - **The Great Eastern Main Line is closed for 10 days from Christmas Day** for track renewal at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area until the early hours of Monday 4 January.
 - **The railway through Redhill is closed from 20 December** to the early hours of Monday 4 January, with buses between Reigate, Earlswood and Purley; Brighton and Gatwick Airport trains still run.
+- **London Waterloo runs a reduced and amended timetable on Sunday 27 and Monday 28 December**, and engineering work affects trains through **London Charing Cross** on 27 and 28 December and 1 to 3 January.
 
-National Rail's [Dolphin Junction page](https://www.nationalrail.co.uk/dolphinjunction/) has the Paddington dates, its [engineering works calendar](https://www.nationalrail.co.uk/engineering-works/) shows every date, and Network Rail's [announcement](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work) lists the major projects. Our [airport guides](/articles/heathrow-airport-to-london/) and [transport guide](/articles/getting-around-london-transport-guide/) cover the usual routes.
+National Rail's [Christmas page](https://www.nationalrail.co.uk/travel-information/christmas/) lists every route, its [Dolphin Junction page](https://www.nationalrail.co.uk/dolphinjunction/) has the Paddington dates, its [engineering works calendar](https://www.nationalrail.co.uk/engineering-works/) shows every date, and Network Rail's [announcement](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work) lists the major projects. Our [airport guides](/articles/heathrow-airport-to-london/) and [transport guide](/articles/getting-around-london-transport-guide/) cover the usual routes.
 
 ### What closes
 

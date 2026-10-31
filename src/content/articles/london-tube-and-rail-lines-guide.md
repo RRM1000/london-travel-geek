@@ -3,7 +3,7 @@ title: "London Tube and Rail Lines: Which to Take and What to Expect"
 seoTitle: "London Tube Lines Guide: Crowding, Comfort and Stops"
 description: "A line-by-line guide to the London Underground, Elizabeth line, DLR and London Overground, with crowding and comfort ratings, key attractions and the best station exits."
 publishedAt: 2026-08-05
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-30
 sites:
   - london
@@ -29,7 +29,7 @@ The Elizabeth line, Overground, DLR, Thameslink and trams take the same Oyster c
 
 Oyster and contactless work on every line covered here. For the National Rail exceptions and the Elizabeth line boundary at West Drayton, see the [Oyster card and contactless guide](/articles/oyster-card-guide-london/). New to the network? [How to Use the London Underground](/articles/how-to-use-the-london-underground/) explains touching in and out, fare zones and interchanges. For what a journey costs, see the [2026 fares guide](/articles/london-public-transport-costs-and-fares/).
 
-> ⚠️ **The Piccadilly line is closed from 1am on Saturday 31 October to the end of Sunday 1 November.** No Elizabeth line or Heathrow Express trains run to or from Heathrow on Saturday 28 and Sunday 29 November, or from Sunday 27 to Wednesday 30 December, and the Piccadilly line is the only train service to the airport on those dates ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/)).
+> ⚠️ **The Piccadilly line does not run between Hammersmith and Heathrow or Uxbridge from 1.30am on Saturday 21 November to the end of Sunday 22 November.** No Elizabeth line or Heathrow Express trains run to or from Heathrow on Saturday 28 and Sunday 29 November, or from Sunday 27 to Wednesday 30 December, and the Piccadilly line is the only train service to the airport on those dates ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/)).
 
 ## Official London rail and Tube map
 

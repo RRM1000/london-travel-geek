@@ -89,7 +89,7 @@ For cinema, the **Prince Charles** off Leicester Square and **The Garden Cinema*
 
 A short flight of stairs from Barbican station leads over a bridge onto the estate's raised highwalks, and from there the Centre connects **two art galleries** (the main gallery and the free Curve), **three cinema screens**, the 1,943-seat **Barbican Hall** (home to the London Symphony Orchestra), the **Barbican Theatre** and **The Pit**, and the public **Barbican Library** by internal walkway. Our [City of London area guide](/articles/city-of-london-area-guide/#smithfield-and-barbican) has the wider estate, and our [independent cinemas guide](/articles/best-cinemas-london/#barbican-cinema-city-of-london) covers the Barbican's own repertory programme, including a second pair of screens a few minutes away on Beech Street.
 
-The **Conservatory**, around 1,500 species inside the old theatre's fly tower, is free but opens on selected dates only, published up to a month ahead on [the Barbican's own booking page](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory), with a small batch of day tickets released online at 9.30am on the day itself.
+The **Conservatory**, around 1,500 species inside the old theatre's fly tower, is free but opens on selected dates only, listed on [the Barbican's own booking page](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory), with a small batch of day tickets released online at 9.30am on the day itself.
 
 ![Palms, monstera and trailing vines spilling from the tiered concrete balconies of the Barbican Conservatory, under a steel-framed glass roof](../../assets/articles/london-in-the-rain/barbican-conservatory-interior.jpg)
 

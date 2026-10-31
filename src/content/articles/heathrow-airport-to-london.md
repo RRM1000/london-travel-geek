@@ -3,8 +3,8 @@ title: "Heathrow Airport to London: Every Transport Option Compared"
 seoTitle: "Heathrow to London: Tube from £4, Elizabeth Line £15.50"
 description: "The Piccadilly line is the cheapest way in at £4–£5.90 and runs straight to South Kensington, the West End and King's Cross. The Elizabeth line costs £15.50 and is faster. Heathrow Express only reaches Paddington."
 publishedAt: 2026-08-04
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-10-31
+reviewBy: 2026-11-23
 sites:
   - london
 canonicalSite: london
@@ -40,7 +40,7 @@ The Heathrow Express stops at Paddington and goes no further; the **Elizabeth li
 > - **Best for Paddington & Advance Deals:** Take the **Heathrow Express** (15 mins non-stop to Paddington, best if pre-booked for £10).  
 > - **Best for Groups & Heavy Bags:** Pre-book a private transfer or take a licensed London Black Cab.
 
-> ⚠️ **The Piccadilly line is closed from 1am on Saturday 31 October to the end of Sunday 1 November 2026.** Take the Elizabeth line or Heathrow Express instead.
+> ⚠️ **The Piccadilly line does not run between Hammersmith and Heathrow from 1.30am on Saturday 21 November to the end of Sunday 22 November 2026.** Take the Elizabeth line or Heathrow Express instead; the Elizabeth line does not run between Paddington and Ealing Broadway until 7.40am on Sunday.
 
 > ⚠️ **No Elizabeth line or Heathrow Express trains run to or from Heathrow from Sunday 27 to Wednesday 30 December 2026, or on Saturday 28 and Sunday 29 November.** The Piccadilly line is the only rail link between central London and the airport on those dates. Both services resume on Thursday 31 December, and Paddington is closed to Great Western trains until Monday 4 January for the Dolphin Junction upgrade ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
