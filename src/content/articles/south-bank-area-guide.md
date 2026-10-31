@@ -208,7 +208,7 @@ Behind Waterloo station, five minutes off the tourist route.
 | **Lower Marsh** | Independent cafes | £ | Behind Waterloo |
 | **The Anchor Bankside** | Historic riverside pub | ££ | Terrace over the Thames |
 | **OXO Tower Brasserie** | Modern British | £££ | Eighth-floor river views; the public viewing balcony is free |
-| **Padella** | Handmade pasta | £ | Beside Borough Market; queue-only |
+| **Padella** | Handmade pasta | £ | Beside Borough Market; virtual queue, no reservations |
 | **Tower Bridge Collective** | Food hall | £ | Thirteen kitchens off Shad Thames, from 8am daily |
 
 ![Black gazebos of the Southbank Centre Food Market, a jerk chicken stall in front, beside the Hayward Gallery](../../assets/articles/south-bank-area-guide/southbank-centre-food-market.jpg)

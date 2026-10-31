@@ -341,6 +341,7 @@ Named by one or two sources, or further out from the centre.
 * **Sambol is not chutney.** Pol sambol is grated coconut pounded with chilli, lime and dried Maldive fish; katta sambol drops the coconut and doubles the chilli. Both are seasoning, not a side.
 * **Heat is real.** Coconut milk does not make it milder. Kothu and Apollo Banana Leaf both let you pick a level; most kitchens do not ask.
 * **Vegetarians and vegans.** The curries are built on coconut milk rather than dairy, so a vegetarian menu is usually vegan already. Check the Maldive fish, which turns up in sambols and in dhal.
+* **Hoppers runs several London restaurants,** and the [chain restaurants guide](/articles/best-chain-restaurants-london/) has what to order and how to get a table at each.
 * **Arrack is the island's spirit**, distilled from coconut flower sap. Hoppers and Kolamba both pour it.
 * **Halal:** Trinco Bay and Tharshini's are fully halal, and Hoppers serves halal chicken and lamb. Elsewhere, ask — it varies by dish as well as by kitchen.
 

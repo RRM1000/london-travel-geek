@@ -227,6 +227,8 @@ Coffee is the main trade, with **sandwiches, salads and brunch plates** alongsid
 
 ## Proper sit-down meals under £15
 
+The chains with a cheap lunch, such as Tonkotsu's £10.50 weekday ramen, Franco Manca's £12.50 pizza and drink and Padella's pasta from £9.50, are in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
+
 ### Kung Fu Noodle, Chinatown
 
 *£ · walk-in* · Cited by 2 chinese sources

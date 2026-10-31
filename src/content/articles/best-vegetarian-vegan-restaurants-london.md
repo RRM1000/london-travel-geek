@@ -437,6 +437,8 @@ The cooking is Italian-leaning and vegetable-led, built on produce from the kitc
 
 ---
 
+Mildreds and Bubala each run several London restaurants and are in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
+
 ## Continue planning your London trip
 
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**

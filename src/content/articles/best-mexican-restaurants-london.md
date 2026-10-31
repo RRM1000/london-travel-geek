@@ -288,6 +288,8 @@ The **jackfruit carnitas** and the vegan **al pastor** are the orders. It is lou
 
 ---
 
+Wahaca, the Mexican chain, is in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
+
 ## Continue planning your London trip
 
 - 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)**

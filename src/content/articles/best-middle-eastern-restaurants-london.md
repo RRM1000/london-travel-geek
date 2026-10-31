@@ -346,6 +346,8 @@ Falafel is the cheapest option, and all of these are entirely vegetarian.
 
 ---
 
+Berenjak and Bubala each run several London restaurants and are in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
+
 ## Continue planning your London trip
 
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

@@ -196,6 +196,7 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 ### By Occasion
 
 * [**Special occasions**](/articles/special-occasion-restaurants-london/) — What to book and how far ahead.
+* [**Chain restaurants**](/articles/best-chain-restaurants-london/) — Dishoom, Hoppers, Padella, Hawksmoor and the other London mini-chains, grouped by food, with what to order and whether you can walk in.
 * [**Dinner and a show**](/articles/dinner-and-a-show-london/) — Live music, cabaret and dining theatre, and which nights each runs.
 * [**Cocktail bars**](/articles/best-cocktail-bars-london/) — for before or instead of dinner.
 * [**Speakeasy bars**](/articles/best-speakeasy-bars-london/) — the hidden ones, through a fridge, a bookcase or an unmarked door.
@@ -241,6 +242,6 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 
 **By dietary rule:** [Kosher](/articles/best-kosher-restaurants-london/) · [Vegetarian and vegan](/articles/best-vegetarian-vegan-restaurants-london/)
 
-**By budget, occasion and room:** [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Craft beer pubs](/articles/best-craft-beer-pubs-london/) · [Wetherspoons](/articles/best-wetherspoons-pubs-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Eating outside](/articles/eat-outside-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
+**By budget, occasion and room:** [Chain restaurants](/articles/best-chain-restaurants-london/) · [Street food](/articles/best-street-food-london/) · [Cheap eats](/articles/cheap-eats-london/) · [Special occasions](/articles/special-occasion-restaurants-london/) · [Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/) · [Craft beer pubs](/articles/best-craft-beer-pubs-london/) · [Wetherspoons](/articles/best-wetherspoons-pubs-london/) · [Unusual restaurants](/articles/unusual-restaurants-london/) · [Eating outside](/articles/eat-outside-london/) · [Rooms worth photographing](/articles/most-instagrammable-restaurants-london/) · [Markets and food halls](/articles/best-london-markets/)
 
 **By occasion and for paying less:** [Bottomless brunch](/articles/bottomless-brunch-london/) · [Dinner and a show](/articles/dinner-and-a-show-london/) · [Restaurant deals](/articles/restaurant-deals-london/) · [Off-peak booking apps](/articles/off-peak-restaurant-apps-london/) · [Discount cards](/articles/restaurant-discount-cards-london/) · [Kids eat free](/articles/kids-eat-free-london/) · [Open on Christmas Day](/articles/christmas-day-restaurants-london/)

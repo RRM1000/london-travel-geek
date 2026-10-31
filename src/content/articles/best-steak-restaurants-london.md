@@ -246,11 +246,13 @@ A Soho pub with a dining room upstairs that grills over coals and placed 45th in
 
 ## Best value
 
-* **[Flat Iron](#flat-iron-soho)** — £15 for a single 200g cut, no bookings. *Cited by 7 sources*
+* **[Flat Iron](#flat-iron-soho)** — £15 for a single cut; it takes bookings and walk-ins. *Cited by 7 sources*
 * **[Blacklock](#blacklock-soho)** — the All In at £28 a head, and a dry-aged steak list from £16. *Cited by 6 sources*
 * **[Hawksmoor](#hawksmoor-spitalfields)** — the set lunch is the same beef and the same kitchen at a fraction of the dinner price. *Cited by 8 sources*
 * **[The Guinea Grill](#the-guinea-grill-mayfair)** — the award-winning steak and kidney pie, in the grill room, for less than the beef. *Cited by 6 sources*
 * **[Sagardi](#sagardi-shoreditch)** — the cheapest of the three asadors and the easiest table. *Cited by 3 sources*
+
+Hawksmoor, Blacklock and Flat Iron each run several London restaurants; the [chain restaurants guide](/articles/best-chain-restaurants-london/) covers what to order and how to get a table at each.
 
 ---
 

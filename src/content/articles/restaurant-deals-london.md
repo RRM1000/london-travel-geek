@@ -119,6 +119,8 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 
 **Franco Manca's £12.50** includes a soft drink and is the cheapest price on this page.
 
+The [chain restaurants guide](/articles/best-chain-restaurants-london/) covers these chains' menus and booking rules in full.
+
 **Côte's price varies by branch**, so check the one you are going to.
 
 ---

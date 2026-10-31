@@ -465,6 +465,7 @@ Named by the sources but not written up above.
 * **Market stalls trade on market hours.** Bad Boy at Seven Dials and Sud Italia at Old Spitalfields both close when the market does.
 * **Some of the best ones close early in the week.** Florencio is shut Sunday and Monday, Lauretta's is shut Monday, 67 Sourdough opens Wednesday to Sunday, and Crisp does not cook pizza on Mondays.
 * **For gluten-free**, Zia Lucia is the one with a dedicated alternative base. Confirm the preparation separately if it is a medical requirement.
+* **Pizza Pilgrims and Franco Manca** take bookings at most sites and keep room for walk-ins. They are covered with the other London mini-chains in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills, though counters and stalls generally do not add it.
 
 ---

@@ -99,7 +99,7 @@ Breakfast runs from 8am on weekdays and 9am at weekends to 11.45am. The **bacon 
 
 Hoppers has four London restaurants: Soho, Marylebone, King's Cross and Shoreditch. The Soho original on Frith Street is modelled on a Sri Lankan village toddy shop (a bar selling palm wine). Time Out ranks it first among London chains.
 
-A **hopper (£6.60)** is a bowl-shaped pancake of fermented rice and coconut batter, with a runny egg in the middle for £7.80. Scoop it through a **kari**, Sri Lanka's word for curry: the **Lankan chicken kari (£15.20)**, **black pork kari (£16.60)** or **bone marrow varuval (£14.20)** with roti. The **lamb kothu roti (£22.40)** is chopped roti stir-fried with lamb curry, eggs and greens. The **Hoppers Experience (£35 a head)** is a shared spread for the whole table.
+A **hopper (£6.60)** is a bowl-shaped pancake of fermented rice and coconut batter, with a runny egg in the middle for £7.80. Scoop it through a **kari**, Sri Lanka's word for curry: the **Lankan chicken kari (£15.20)**, **black pork kari (£16.60)** or **bone marrow varuval (£14.20)** with roti. The **lamb kothu roti (£22.40)** is chopped roti stir-fried with lamb curry, eggs and greens. The **Hoppers Experience (£35 a head)** is a shared spread for the whole table, and the **Lunch Plate (£22 a head)** is a shorter version of it.
 
 **Reservations are for parties of two to four; everyone else joins the virtual queue,** which seats complete parties only. Soho takes card payments only.
 

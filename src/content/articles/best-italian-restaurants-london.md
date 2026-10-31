@@ -16,13 +16,13 @@ faq:
   - q: "What is the best Italian restaurant in London?"
     a: "Trullo in Highbury and Padella in Borough are named by more independent sources than anything else — nine each. For a starred kitchen, River Café, Murano and Luca are the three Italian restaurants in London holding a Michelin star in the 2026 guide."
   - q: "Where can I eat good Italian food in London cheaply?"
-    a: "Padella charges under £12 for most plates, Al Dente on Goodge Street keeps every plate under £15, and Ciao Bella in Bloomsbury has been doing the same since 1983. Mucci's in Chelsea puts every starter at £10 and every main at £20."
+    a: "Padella's pastas run from £9.50 to £16.50, Al Dente on Goodge Street keeps every plate under £15, and Ciao Bella in Bloomsbury has been doing the same since 1983. Mucci's in Chelsea puts every starter at £10 and every main at £20."
   - q: "Which London Italian restaurants have the nicest rooms?"
     a: "The Big Mamma group — Circolo Popolare, Ave Mario, Gloria, Carlotta and Jacuzzi — build rooms to be photographed. For something calmer, River Café has the Thames terrace, Forza Wine sits on the National Theatre roof, and Campania & Jones is a converted Victorian dairy."
   - q: "Is London Italian food actually regional?"
     a: "Increasingly yes, and it is the most useful thing to know before booking. Norma cooks Sicilian, Campania & Jones cooks Campanian, Brutto is Florentine, Ornella is Milanese and Macellaio RC is Piedmontese. Choosing the region tells you more than choosing the star rating."
   - q: "How far ahead should I book?"
-    a: "River Café takes months and Murano weeks. Padella and Bancone take no bookings at their original sites — turn up and queue, or use the virtual queue. The Big Mamma rooms go weeks out. Most neighbourhood trattorias are a few days."
+    a: "River Café takes months and Murano weeks. Padella's original at Borough Market takes no reservations, only a virtual queue. Bancone takes online bookings up to 120 days ahead. The Big Mamma rooms go weeks out. Most neighbourhood trattorias are a few days."
 ---
 
 A Sicilian room in Fitzrovia, a Florentine steak house in Clerkenwell, a Milanese kitchen in London Fields and a Piedmontese butcher's counter in South Kensington cook different food, and "Italian" tells you almost nothing about any of them.
@@ -128,9 +128,9 @@ No star, but the most citations from the sources.
 
 *£ · walk-in only · Cited by 9 sources*
 
-**A short menu of hand-rolled pasta at low prices**, with a queue since 2016. Eight or nine dishes, most under a tenner: **pici cacio e pepe**, **tagliarini with Dorset crab**, and the pappardelle with beef shin ragù it shares with Trullo. Pasta is rolled in the room and cooked to order at a counter you can watch.
+**A short menu of hand-rolled pasta at low prices**, with a queue since 2016. Ten pastas from £9.50 to £16.50: **pici cacio e pepe**, **tagliarini with Dorset crab**, and the pappardelle with beef shin ragù it shares with Trullo. Pasta is rolled in the room and cooked to order at a counter you can watch.
 
-**No bookings at Borough Market — join the virtual queue on the Walk-In app** and go for a drink until it calls you. The Shoreditch and Soho sites take limited bookings.
+**No reservations at Borough Market: join the virtual queue** by scanning the QR code at the door or through the Dojo app, and go for a drink until it calls you. Soho books up to four weeks ahead, and Shoreditch books groups.
 
 ![The interior counter of Padella with cooks working behind it](../../assets/articles/best-italian-restaurants-london/padella.jpg)
 *Padella, Borough. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/28035454561), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
@@ -177,7 +177,7 @@ The **mint-green deli on Brewer Street, open since 1944.** The shop sells fresh 
 
 Watch the pasta being rolled at the counter. The **silk handkerchiefs with walnut butter and confit egg yolk** are the signature and originated here.
 
-The Covent Garden original takes no bookings for small tables. The Borough and Golden Square sites do, and the pasta is the same.
+Covent Garden takes online bookings for up to four guests, up to 120 days ahead; Kensington books parties of up to 30. The pasta is the same at all six restaurants.
 
 ![The Bancone restaurant frontage on Lower James Street in Soho](../../assets/articles/best-italian-restaurants-london/bancone.jpg)
 
@@ -353,7 +353,7 @@ A terrace on top of the **National Theatre** looking up the Thames, with no tick
 
 - **Mucci's**, Chelsea — **every starter £10, every main £20**, including a 200g sliced sirloin. *Cited by 4 sources*
 - **[Ciao Bella](#ciao-bella-bloomsbury)**, Bloomsbury — a full Italian dinner under £30, with a pianist. *Cited by 5 sources*
-- **[Padella](#padella-borough)**, Borough — most plates under £12. *Cited by 9 sources*
+- **[Padella](#padella-borough)**, Borough — pastas £9.50 to £16.50. *Cited by 9 sources*
 - **Al Dente**, Fitzrovia — handmade pasta rolled in front of you on Goodge Street, **every plate under £15**. The cacio e pepe is the order. *Cited by 2 sources*
 - **Flour and Grape**, Bermondsey — pasta and a short wine list on Bermondsey Street, with almost everything under £13. *Cited by 3 sources*
 - **[Café Murano](#murano-mayfair)**, Covent Garden — Angela Hartnett's everyday counterpart to Murano at roughly a third of the price. The set lunch is the cheapest way in. *Cited by 2 sources*
@@ -399,12 +399,14 @@ Backed by the sources but not written up above, either because only two guides n
 ## What to know
 
 * **Region beats rating.** Choosing between Sicilian, Florentine and Milanese will change your meal more than a star will.
-* **Padella and Bancone do not take bookings** at their original sites. Both run virtual queues.
+* **Padella's Borough Market original takes no reservations;** it runs a virtual queue. Bancone books online, up to 120 days ahead.
 * **The Big Mamma rooms** book out weeks ahead and are loud by design. Bar seats early in the evening are the walk-in route.
 * **The pizza is a separate question** — see the dedicated guide below.
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills.
 
 ---
+
+Padella, Bancone and Lina Stores each run several London restaurants; the [chain restaurants guide](/articles/best-chain-restaurants-london/) covers what to order and how to get a table at each.
 
 ## Continue planning your London trip
 

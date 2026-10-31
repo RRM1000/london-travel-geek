@@ -481,6 +481,8 @@ Everything here comes in under £20 a head, and apart from Rasa none of it takes
 - **Gujarati Rasoi**, Borough Market — mother-and-son Gujarati cooking a few steps away: thalis, bhajia and dhal, gently sweet where Horn OK Please is sharp.
 - **Kolkati**, Seven Dials Market — kati rolls the Kolkata way: paratha cooked with egg through it, wrapped around spiced chicken or paneer with pickled onion and lime.
 
+Dishoom, Hoppers and Kricket each run several London restaurants. The [chain restaurants guide](/articles/best-chain-restaurants-london/) has what to order and how to get a table at each.
+
 ![Large karahi pans of spiced vegetable curries and simmering dhal at Gujarati Rasoi in Borough Market](../../assets/articles/best-indian-restaurants-london/gujarati-rasoi.jpg)
 
 *The Gujarati Rasoi stall at Borough Market.*
