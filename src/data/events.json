@@ -1,6 +1,6 @@
 {
- "generated": "2026-10-29",
- "count": 130,
+ "generated": "2026-10-31",
+ "count": 135,
  "events": [
   {
    "slug": "frieze-london",
@@ -209,6 +209,36 @@
    ],
    "website": "https://www.olympia.co.uk/events/spirit-of-christmas-fair",
    "annual": true,
+   "notYetOpen": true
+  },
+  {
+   "slug": "pitchfork-music-festival-london-2026",
+   "name": "Pitchfork Music Festival London 2026",
+   "type": "festival",
+   "style": "Six days of gigs at Moth Club, KOKO, Roundhouse, Royal Festival Hall and a dozen more London venues",
+   "venue": "Venues across London",
+   "startsOn": "2026-11-02",
+   "endsOn": "2026-11-08",
+   "area": "Hackney",
+   "borough": "Hackney",
+   "guide": "hackney-area-guide",
+   "zone": "2",
+   "district": "East",
+   "price": "Each gig is ticketed separately",
+   "priceBand": "unknown",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "whyGo": "Pitchfork has taken London venues over for a week each November since 2021. The 2026 bill includes Noname, Panda Bear & Sonic Boom, The Avalanches, DIIV, Tortoise and The Radio Dept., in rooms from the Moth Club in Hackney to KOKO in Camden and the Royal Festival Hall.",
+   "opNote": "Shows are ticketed separately unless the festival says otherwise, and some have sold out. The programme page lists each gig with its venue and ticket link.",
+   "goodFor": [
+    "music"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://pitchforkmusicfestival.co.uk/",
+   "bookingUrl": "https://pitchforkmusicfestival.co.uk/programme-tickets/",
+   "annual": false,
    "notYetOpen": true
   },
   {
@@ -526,6 +556,41 @@
    ],
    "website": "https://londonperfumeexpo.com/",
    "annual": true,
+   "notYetOpen": true
+  },
+  {
+   "slug": "fan-museum-by-candlelight",
+   "name": "Museum by Candlelight at The Fan Museum",
+   "type": "seasonal",
+   "style": "Five late evenings in a Georgian house lit almost entirely by candles",
+   "venue": "The Fan Museum",
+   "startsOn": "2026-12-11",
+   "endsOn": "2026-12-18",
+   "area": "Greenwich",
+   "borough": "Greenwich",
+   "guide": "greenwich-area-guide",
+   "zone": "2–3",
+   "district": "South",
+   "address": "12 Crooms Hill",
+   "postcode": "SE10 8ER",
+   "station": "Cutty Sark DLR",
+   "walkMin": 5,
+   "price": "£10",
+   "priceBand": "under-20",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "whyGo": "The museum opens late for five evenings with its exhibition spaces lit almost entirely by candles, classical festive music, and a complimentary mulled wine, cider or juice in the Orangery.",
+   "opNote": "4.30pm to 7pm. Tickets must be booked in advance; none are sold on the door.",
+   "goodFor": [
+    "couples",
+    "christmas"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.thefanmuseum.org.uk/events/museum-by-candlelight",
+   "bookingUrl": "https://online1.venpos.net/VenposJourneyUI/?locationId=626&id=d0153577-78a7-4e9c-a69a-1b29c2ab159c",
+   "annual": false,
    "notYetOpen": true
   },
   {
@@ -877,6 +942,43 @@
    "notYetOpen": false
   },
   {
+   "slug": "southbank-winter-market",
+   "name": "Southbank Centre Winter Market",
+   "type": "seasonal",
+   "style": "Free-entry riverside Christmas market",
+   "venue": "Southbank Centre riverside",
+   "startsOn": "2026-11-02",
+   "endsOn": "2027-01-03",
+   "recurring": "annual",
+   "typicalWhen": "Mid-November to just after Christmas",
+   "area": "South Bank",
+   "borough": "Lambeth",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Belvedere Road",
+   "postcode": "SE1 8XX",
+   "agePolicy": "family-friendly",
+   "duration": "An evening stroll",
+   "price": "Free to enter",
+   "priceBand": "free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "The free-entry alternative to ticketed Winter Wonderland - chalets, food and mulled wine along the river with the Eye behind, walkable as part of a South Bank evening rather than an outing in itself.",
+   "opNote": "No entry fee; you pay at the stalls. Busiest weekend evenings.",
+   "goodFor": [
+    "free",
+    "families",
+    "date"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "annual": true,
+   "notYetOpen": true
+  },
+  {
    "slug": "peaky-blinders-underworld",
    "name": "Peaky Blinders: Underworld",
    "type": "immersive-theatre",
@@ -982,6 +1084,42 @@
    "notYetOpen": true
   },
   {
+   "slug": "kings-cross-winter-market",
+   "name": "King's Cross Winter Market",
+   "type": "seasonal",
+   "style": "Free-entry Christmas market in Granary Square, new for 2026",
+   "venue": "Granary Square",
+   "startsOn": "2026-11-26",
+   "endsOn": "2027-01-03",
+   "area": "King's Cross",
+   "borough": "Camden",
+   "guide": "kings-cross-area-guide",
+   "zone": "1",
+   "district": "North",
+   "address": "Granary Square",
+   "station": "King's Cross St Pancras",
+   "agePolicy": "family-friendly",
+   "duration": "An evening stroll",
+   "price": "Free to enter",
+   "priceBand": "free",
+   "booking": "walk-in",
+   "indoorOutdoor": "outdoor",
+   "whyGo": "A new market for 2026 with independent food, drink and makers' stalls, seasonal bars and a winter bandstand. It sits beside Aardman's Cracking Christmas Tree and the bookable Remixed Roller Rink, which runs 26 November to 22 December.",
+   "opNote": "Until 23 December: Sunday to Thursday 11am to 10pm, Friday and Saturday 11am to 11pm. Closed 25 and 26 December and 1 January; 11am to 7pm on Christmas Eve.",
+   "goodFor": [
+    "free",
+    "christmas",
+    "date"
+   ],
+   "lists": [
+    "events",
+    "free"
+   ],
+   "website": "https://www.kingscross.co.uk/event/kings-cross-winter-market",
+   "annual": false,
+   "notYetOpen": true
+  },
+  {
    "slug": "leicester-square-christmas",
    "name": "Leicester Square Christmas Market",
    "type": "seasonal",
@@ -1017,44 +1155,7 @@
     "free"
    ],
    "annual": true,
-   "notYetOpen": true
-  },
-  {
-   "slug": "southbank-winter-market",
-   "name": "Southbank Centre Winter Market",
-   "type": "seasonal",
-   "style": "Free-entry riverside Christmas market",
-   "venue": "Southbank Centre riverside",
-   "startsOn": "2026-11-02",
-   "endsOn": "2027-01-04",
-   "recurring": "annual",
-   "typicalWhen": "Mid-November to just after Christmas",
-   "area": "South Bank",
-   "borough": "Lambeth",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Belvedere Road",
-   "postcode": "SE1 8XX",
-   "agePolicy": "family-friendly",
-   "duration": "An evening stroll",
-   "price": "Free to enter",
-   "priceBand": "free",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "whyGo": "The free-entry alternative to ticketed Winter Wonderland - chalets, food and mulled wine along the river with the Eye behind, walkable as part of a South Bank evening rather than an outing in itself.",
-   "opNote": "No entry fee; you pay at the stalls. Busiest weekend evenings.",
-   "goodFor": [
-    "free",
-    "families",
-    "date"
-   ],
-   "lists": [
-    "events",
-    "free"
-   ],
-   "annual": true,
-   "notYetOpen": true
+   "notYetOpen": false
   },
   {
    "slug": "skate-somerset-house",
@@ -2368,6 +2469,76 @@
    "notYetOpen": true
   },
   {
+   "slug": "u2-tottenham-hotspur-stadium-2027",
+   "name": "U2: The Greatest Show On Earth World Tour",
+   "type": "concert",
+   "style": "Two stadium nights with Wolf Alice supporting, the tour's only UK venue",
+   "venue": "Tottenham Hotspur Stadium",
+   "startsOn": "2027-06-18",
+   "endsOn": "2027-06-19",
+   "area": "Tottenham",
+   "borough": "Haringey",
+   "zone": "3",
+   "district": "North",
+   "address": "782 High Road",
+   "postcode": "N17 0BX",
+   "station": "White Hart Lane",
+   "walkMin": 5,
+   "duration": "An evening",
+   "price": "Not yet published",
+   "priceBand": "unknown",
+   "booking": "required",
+   "whyGo": "U2 play Friday 18 and Saturday 19 June 2027 at Tottenham Hotspur Stadium, which the stadium lists as the only UK venue on the tour. Wolf Alice support.",
+   "opNote": "General sale opens at 10am on Friday 6 November 2026, for reserved seating, standing and VIP packages. U2.com presales run from Monday 2 November, and the artist presale is on Thursday 5 November. Accessible tickets need Nimbus Disability Access Scheme registration before booking.",
+   "goodFor": [
+    "music",
+    "groups"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://www.tottenhamhotspurstadium.com/events/1181495/u2",
+   "annual": false,
+   "notYetOpen": true
+  },
+  {
+   "slug": "agatha-christie-world-of-mystery-british-library",
+   "name": "Agatha Christie: A World of Mystery",
+   "type": "exhibition",
+   "style": "Christie's life and travels, from a WWI dispensary to an Orient Express-style carriage",
+   "venue": "British Library",
+   "startsOn": "2026-10-30",
+   "endsOn": "2027-06-20",
+   "area": "King's Cross",
+   "borough": "Camden",
+   "guide": "kings-cross-area-guide",
+   "zone": "1",
+   "district": "North",
+   "address": "96 Euston Road",
+   "postcode": "NW1 2DB",
+   "station": "King's Cross St Pancras",
+   "agePolicy": "all-ages",
+   "price": "£25 at peak; £20 off-peak to 21 February 2027, then £23",
+   "priceBand": "20-50",
+   "booking": "recommended",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "Rooms styled as a country house, a WWI dispensary, an Orient Express-style carriage, an archaeological dig and a West End theatre, with Christie's 1937 Remington typewriter, early manuscripts, notebooks and letters.",
+   "opNote": "Peak is Saturdays, Sundays, bank holidays and the last month of the run, from Monday 24 May 2027. Off-peak tickets rise from £20 to £23 on 22 February 2027. Concessions for under-16s, 16 to 25s, students, disabled people and carers; members go free; Universal Credit and Pension Credit recipients pay £3 off-peak.",
+   "goodFor": [
+    "books",
+    "couples",
+    "rainy days"
+   ],
+   "lists": [
+    "events"
+   ],
+   "website": "https://events.bl.uk/exhibitions/agathachristie",
+   "bookingUrl": "https://events.bl.uk/exhibitions/agathachristie",
+   "annual": false,
+   "notYetOpen": false
+  },
+  {
    "slug": "monet-painting-time",
    "name": "Monet: Painting Time",
    "type": "exhibition",
@@ -3041,12 +3212,12 @@
    "postcode": "E3 5TB",
    "agePolicy": "family-friendly",
    "duration": "Full days",
-   "price": "From £79.95 plus booking (27 August 2027)",
+   "price": "From £84.95 plus booking for general admission (Phoebe Bridgers, 27 August 2027)",
    "priceBand": "over-50",
    "booking": "required",
    "indoorOutdoor": "outdoor",
    "whyGo": "The east London festival that stayed put while Lovebox and Field Day moved on, now two full weekends. The 2026 second weekend was headlined by Lorde and Tyler, the Creator.",
-   "opNote": "Single-day tickets per headliner rather than camping. 2027 opens on Friday 27 August with Phoebe Bridgers.",
+   "opNote": "Single-day tickets per headliner rather than camping. 2027 opens on Friday 27 August with Phoebe Bridgers, Caroline Polachek, Kelsey Lu, Danielle Ponder and jasmine.4.t; tickets are on sale.",
    "goodFor": [
     "music",
     "groups"
@@ -3054,6 +3225,8 @@
    "lists": [
     "events"
    ],
+   "website": "https://www.allpointseastfestival.com/",
+   "bookingUrl": "https://www.allpointseastfestival.com/tickets/",
    "annual": true,
    "awaitingDates": true,
    "notYetOpen": false
