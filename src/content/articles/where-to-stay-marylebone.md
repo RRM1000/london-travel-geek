@@ -41,7 +41,7 @@ Marylebone is the grid of Georgian streets directly north of Oxford Street, runn
 
 **Marylebone Village** is Marylebone High Street, the curve of Marylebone Lane, Manchester Square and the streets east to Welbeck Street. Daunt Books, the Wallace Collection and the Sunday farmers' market are here, and Bond Street station is five to eight minutes' walk south. The Marylebone, Durrant's, The Mandeville and The Welbeck are in this part.
 
-**Portman Square and Marble Arch** is the south-west corner, where most of the big hotels are. Hyde Park is across the road, Selfridges and the west end of Oxford Street are a few minutes away, and Marble Arch station is on the Central line. The traffic is heavy where Oxford Street, Park Lane and Edgware Road meet.
+**Portman Square and Marble Arch** is the south-west corner, where most of the big hotels are. Hyde Park is across the road, Selfridges and the west end of Oxford Street (see our [Oxford Street guide](/articles/oxford-street-guide/)) are a few minutes away, and Marble Arch station is on the Central line. The traffic is heavy where Oxford Street, Park Lane and Edgware Road meet.
 
 **Baker Street, Dorset Square and Marylebone Road** is the north: Regent's Park, the Sherlock Holmes Museum, Madame Tussauds, and the widest choice of trains. Dorset Square, just behind Marylebone Road, is a residential garden square. Chiltern Street is here too; the Chiltern Firehouse hotel on it has been closed since a fire.
 

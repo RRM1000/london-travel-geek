@@ -31,9 +31,9 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 ---
 
-*Closure, bus and shop details as of 31 October 2026.*
-
 > 💡 **The Short Version:** Since **Monday 26 October 2026**, no cars, buses, taxis, bicycles, e-scooters or pedicabs are allowed on **Oxford Street from Orchard Street (Selfridges) to Great Portland Street**, nearly a kilometre. Come by Tube: **Bond Street** for Selfridges and John Lewis, **Oxford Circus** for the east end, **Tottenham Court Road** for the new **Harry Potter Shop**, which opens **Wednesday 4 November 2026**. Go on a weekday morning, and turn off the street for the lanes and squares either side of it.
+
+*Closure, bus and shop details as of 31 October 2026.*
 
 ## What changed on 26 October 2026
 
@@ -45,7 +45,7 @@ Oxford Street is traffic-free between **Orchard Street**, beside Selfridges, and
 | **Allowed** | People on foot, mobility scooters, emergency vehicles at any time |
 | **Deliveries** | Freight and servicing vehicles, midnight to 7am, by approved routes only |
 
-> ⚠️ **Traffic still crosses the stretch at seven junctions:** Orchard Street and North Audley Street, Duke Street, Stratford Place and Davies Street, Vere Street and New Bond Street, Holles Street and Harewood Place, Regent Street at Oxford Circus, and Great Portland Street. Look both ways at each.
+> ⚠️ **Traffic still crosses the stretch at seven junctions.** They are Orchard Street and North Audley Street, Duke Street, Stratford Place and Davies Street, Vere Street and New Bond Street, Holles Street and Harewood Place, Regent Street at Oxford Circus, and Great Portland Street. Look both ways at each.
 
 **Buses.** None run along the stretch, and [TfL's area works page](https://tfl.gov.uk/status-updates/major-works-and-events/oxford-street-area-works) has the bus maps.
 
@@ -212,7 +212,7 @@ John Lewis publishes its hours on its [store page](https://www.johnlewis.com/our
 
 ## Toilets
 
-TfL's station data lists no toilets at Marble Arch, Bond Street or Oxford Circus, and lists them at Tottenham Court Road's Elizabeth line station. Marks & Spencer Marble Arch lists toilets on its store page, and Selfridges and John Lewis list theirs floor by floor. [Public toilets in London](/articles/public-toilets-london/) covers the free ones and the RADAR key.
+TfL's station data lists no toilets at Marble Arch, Bond Street or Oxford Circus. Marks & Spencer Marble Arch lists toilets on its store page, and Selfridges and John Lewis list theirs floor by floor. [Public toilets in London](/articles/public-toilets-london/) covers the free ones and the RADAR key.
 
 ## Where to stay
 

@@ -47,7 +47,7 @@ Mayfair's four edges use different stations.
 
 **Piccadilly and Green Park**, the south, is the busiest edge. The Ritz and the Athenaeum face the park, Brown's is on Albemarle Street by the Royal Academy, and Half Moon Street and Curzon Street lead into **Shepherd Market**, a pocket of pubs and small restaurants where Mayfair's evening crowd drinks outside.
 
-**Hanover Square and Regent Street**, the east, is closest to Oxford Circus and a ten-minute walk from Soho. Mandarin Oriental Mayfair and No.5 Maddox Street are here.
+**Hanover Square and Regent Street**, the east, is closest to Oxford Circus, the traffic-free stretch of Oxford Street ([our guide](/articles/oxford-street-guide/)) and a ten-minute walk from Soho. Mandarin Oriental Mayfair and No.5 Maddox Street are here.
 
 Our [Mayfair area guide](/articles/mayfair-area-guide/) covers what to see once you are here: the arcades, Cork Street's galleries and the Royal Academy. The [Fitzrovia to Mayfair walk](/articles/fitzrovia-mayfair-walk/) finishes down Mount Street and through Shepherd Market to Green Park.
 
