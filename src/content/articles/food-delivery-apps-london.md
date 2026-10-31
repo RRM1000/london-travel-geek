@@ -28,7 +28,7 @@ faq:
   - q: "Which food delivery app is cheapest in London?"
     a: "None of them publishes a flat price, so the cheapest is whichever shows the lowest total for your basket. Delivery fees depend on distance, service fees on the app and the basket, and the same restaurant can price its menu differently on each. Put the same basket in two apps and compare the total on the last screen, before you pay."
   - q: "Is Deliveroo Plus or Uber One worth it?"
-    a: "Both cost £4.99 a month, so each pays for itself once the delivery fees you stop paying add up to £4.99. At a £2.50 delivery fee that is two orders a month. Both waive delivery only on baskets over a minimum (Deliveroo £10 at restaurants, Uber One £15), and neither removes the small-order fee."
+    a: "Both cost £4.99 a month, so each pays for itself once the delivery fees you stop paying add up to £4.99. At a £2.50 delivery fee that is two orders a month. Both waive delivery only on baskets over a minimum: £10 at restaurants on Deliveroo, £15 on Uber One."
   - q: "Can I order food delivery in London without an account?"
     a: "On Just Eat, yes: you can check out as a guest with an email address, a delivery address and a mobile number, and pay by card, Apple Pay, Google Pay or PayPal. A guest order cannot be paid for in cash."
   - q: "Can I have food delivered to a hotel in London?"
@@ -38,8 +38,6 @@ faq:
   - q: "Do I have to tip a delivery rider in London?"
     a: "No. Tipping is optional on all three apps, and each says 100% of a tip goes to the rider or courier. Just Eat takes a tip only at checkout; Deliveroo and Uber Eats also let you tip after delivery."
 ---
-
-**Deliveroo, Uber Eats and Just Eat all deliver restaurant food across London, and each adds a delivery fee, a service fee and, on small baskets, a small-order fee to the menu price.** The fees depend on your address and basket, so the way to find the cheapest is to put the same order into two apps.
 
 > 💡 **The Short Version:** **Pick the app that lists the restaurant you want**, then compare the total on the last screen before you pay. **Visitors:** Just Eat is the one that lets you check out as a guest, with no account, paying by card, Apple Pay, Google Pay or PayPal. **Locals who order often:** **Deliveroo Plus** (£4.99 a month) and **Uber One** (£4.99 a month or £49.99 a year) waive delivery on baskets over £10 and £15, and pay back once the fees you skip reach £4.99, which is two orders at a £2.50 fee. **Just Eat+** does the same over £15. **Collecting the order yourself** skips the delivery fee on all three. **Carry photo ID** if there is alcohol in the basket.
 
