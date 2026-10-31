@@ -445,6 +445,21 @@
       "detail": "Toastie specialist; domain dead and status unverifiable. Deliberately left out of the sandwich guide for that reason.",
       "recorded": "2026-08-26"
     },
+    "sonora taqueria": {
+      "name": "Sonora Taquería",
+      "closed": "2026-10-31",
+      "detail": "208 Stoke Newington High Street N16 7HU. Northern Mexican taqueria that started as a Netil Market stall and took its own room in 2023. Owners Michelle Salazar de la Rocha and Sam Napier announced on 1 September 2026 that the last service would be on 31 October 2026, an indefinite break from the business.",
+      "stillRecommendedBy": [
+        "theinfatuation.com",
+        "timeout.com",
+        "thehandbook.com",
+        "foodism.co.uk",
+        "londontheinside.com",
+        "chicome.co.uk"
+      ],
+      "source": "https://www.timeout.com/london/news/sonora-taqueria-one-of-the-best-mexican-restaurants-in-london-is-closing-090126",
+      "recorded": "2026-10-31"
+    },
     "sonora taqueria postcode": {
       "name": "Sonora Taqueria (postcode conflict)",
       "detail": "208 Stoke Newington High Street. Sources split between N16 7HU and N16 8BP. Do not print a postcode until one is confirmed.",
