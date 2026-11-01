@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenh
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
 publishedAt: 2026-07-23
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-09
 sites: [london]
 canonicalSite: london
@@ -30,7 +30,7 @@ faq:
   - q: "How long does it take to get out of Twickenham after a match?"
     a: "Plan on two to three hours. Whitton Road and Rugby Road stay closed while the crowd clears, and trains run to the normal timetable: six an hour to Waterloo."
   - q: "Is there a night train or Night Tube from Twickenham Stadium?"
-    a: "Not from Twickenham. The last train to Waterloo on Saturday 21 November 2026 is 00:11. The all-night option is the Piccadilly line from Hounslow East on Friday and Saturday nights, about every 10 minutes, 37 minutes to Green Park. It's a 30 to 35 minute walk, and the shuttle will have stopped."
+    a: "Not from Twickenham. The last train to Waterloo on Saturday 21 November 2026 is 00:11. The all-night option is normally the Piccadilly line from Hounslow East on Friday and Saturday nights, about every 10 minutes, 37 minutes to Green Park, but the Piccadilly line is closed west of Hammersmith on 21 and 22 November, Night Tube included. It's a 30 to 35 minute walk to Hounslow East, and the shuttle will have stopped."
   - q: "What size bag can you take into Twickenham Stadium?"
     a: "A4 or smaller, unless a bigger bag is needed for accessibility or small children. Anything larger goes in the bag drop at Webb Ellis House on Rugby Road (£10). Pushchairs, buggies, cans, glass and flagpoles of 1.5m or more aren't allowed in."
   - q: "What time do the gates open at Allianz Stadium?"
@@ -160,6 +160,8 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 | **Hounslow East** → Green Park | **All night Friday and Saturday** | 37 minutes | Night Tube, about every **10 minutes** |
 
 *Times for Saturday 21 November 2026, England v New Zealand.*
+
+> ⚠️ **On Saturday 21 November 2026 the Piccadilly line does not run west of Hammersmith**, so Hounslow East has no Tube service that day or that night, Night Tube included. Use Twickenham or Whitton for Waterloo, or take the shuttle to Richmond, instead of the Hounslow East shuttle.
 
 > ⚠️ **There is no night train from Twickenham.** After 00:11 nothing runs until 06:51. The only all-night option is the **Piccadilly line from Hounslow East**, Friday and Saturday only, a 30 to 35 minute walk after the shuttle has stopped. It is tightest on **Friday 27 November 2026**, when the second Nations Championship final kicks off at **20:10**.
 

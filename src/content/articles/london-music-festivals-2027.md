@@ -3,7 +3,7 @@ title: "London Music Festivals 2027: Dates, Line-ups and Getting There"
 seoTitle: "London Music Festivals 2027: Dates, Line-ups, Tickets"
 description: "London's music festivals for 2027, from Brockwell Park to Hyde Park and Victoria Park, and the ones a train ride away: the dates already set, when the rest ran in 2026, who headlined, what tickets cost, the age rules and how to get home."
 publishedAt: 2026-06-12
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
@@ -14,7 +14,7 @@ faq:
   - q: "When are London's music festivals in 2027?"
     a: "Country to Country at The O2 on 12 to 14 March; four in Brockwell Park, Field Day on Saturday 29 May, Cross the Tracks on Sunday 30 May, City Splash on Monday 31 May and Mighty Hoopla on 5 and 6 June; Meltdown at the Southbank Centre on 10 to 20 June, curated by FKA twigs; and Kaleidoscope at Alexandra Palace on Saturday 10 July 2027. BST Hyde Park has announced Bon Jovi on Thursday 24 June and All Points East has announced Phoebe Bridgers on Friday 27 August; the rest of both line-ups are still to come. In 2026 BST ran nine shows between 27 June and 12 July, and All Points East ran over two weekends, 21 to 23 and 28 to 30 August."
   - q: "Can I buy 2027 festival tickets yet?"
-    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £315 with a public transport ticket. Truck's third tier starts at £182 including fees, and Cambridge Folk Festival's full festival ticket starts at £170. BST Hyde Park's Bon Jovi show (24 June) is on sale from £105.95 plus fees. Early birds for Mighty Hoopla and The Great Escape have sold out."
+    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £315 with a public transport ticket. Truck's third tier starts at £182 including fees, and Cambridge Folk Festival's full festival ticket starts at £170. BST Hyde Park's Bon Jovi show (24 June) is on sale from £105.95 plus fees, and All Points East's Phoebe Bridgers day (27 August) from £84.95 plus booking. Early birds for Mighty Hoopla and The Great Escape have sold out."
   - q: "Which London festivals can children go to?"
     a: "Cross the Tracks and City Splash are all ages; at City Splash under-18s need an adult over 26, and child tickets were £20 for under-10s in 2026. BST Hyde Park sells Child + Guardian tickets for ages 2 to 9, and under-2s go free. Kaleidoscope at Alexandra Palace has child tickets for 5 to 15s and lets parents leave and come back between 4pm and 8.30pm. All Points East set its age limit show by show in 2026, from 12+ to 16+. Field Day, Mighty Hoopla, Junction 2, Boomtown and Lovebox are 18+."
   - q: "What can I take into BST Hyde Park or All Points East?"
@@ -140,7 +140,7 @@ Every show is **standing only**. You can bring one bag no bigger than A4 and no 
 
 *All Points East, Victoria Park.*
 
-**Late August. First 2027 day: Friday 27 August.** [All Points East](https://www.allpointseastfestival.com/) runs headline days in Victoria Park, with a free programme, In The Neighbourhood, in the week between. **Phoebe Bridgers** headlines on 27 August with Caroline Polachek, Kelsey Lu, Danielle Ponder and jasmine.4.t. General admission starts at **£79.95 plus booking**; tickets go on sale soon, with a presale for American Express cardmembers and a sign-up presale on the festival's site. The rest of the 2027 line-up is still to come. In 2026 it ran six days over two weekends: **Jorja Smith + Tems** (21 August), **Lorde** (22 August), **Outbreak Fest** with Deftones and IDLES (23 August), **Tyler, The Creator** (28 and 29 August) and **Twenty One Pilots** (30 August).
+**Late August. First 2027 day: Friday 27 August.** [All Points East](https://www.allpointseastfestival.com/) runs headline days in Victoria Park, with a free programme, In The Neighbourhood, in the week between. **Phoebe Bridgers** headlines on 27 August with Caroline Polachek, Kelsey Lu, Danielle Ponder and jasmine.4.t. Tickets are on sale on the [festival's site](https://www.allpointseastfestival.com/tickets/): general admission starts at **£84.95 plus booking**, Primary Entry at £94.95 and the VIP Garden at £139.95. The rest of the 2027 line-up is still to come. In 2026 it ran six days over two weekends: **Jorja Smith + Tems** (21 August), **Lorde** (22 August), **Outbreak Fest** with Deftones and IDLES (23 August), **Tyler, The Creator** (28 and 29 August) and **Twenty One Pilots** (30 August).
 
 **Age limits change by day.** In 2026 they ran from **12+** at Twenty One Pilots to **16+** for Lorde and Tyler, The Creator, with under-18s accompanied by an adult. Gates opened at 2pm on most days and closed at 8.30pm. You can bring one A4 bag, no chairs, and no food or drink apart from an empty reusable bottle or unopened water of up to 500ml. There's no cloakroom and the site is cashless. Stations and the Night Tube are under [getting home late](#getting-home-late) below. [Tickets on Skiddle](https://www.skiddle.com/festivals/all-points-east/).
 

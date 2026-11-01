@@ -5,8 +5,8 @@ description: "Why there is no stadium car park, which of the four stations to us
 heroImage: "../../assets/articles/tottenham-hotspur-stadium-travel-guide/tottenham-hotspur-stadium-exterior.jpg"
 heroImageAlt: "An aerial view of Tottenham Hotspur Stadium's curved glass and steel exterior, its retractable roof open, surrounded by the residential streets of N17"
 publishedAt: 2026-07-18
-updatedAt: 2026-10-26
-reviewBy: 2027-01-26
+updatedAt: 2026-10-31
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -177,6 +177,10 @@ On an NFL Sunday the same four stations, the same lack of a public car park and 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="tottenham-hotspur-stadium-travel-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 Tickets, prices, the clear bag rule and what a game day looks like hour by hour are in our [NFL London Games guide](/articles/nfl-london-games/).
+
+## Concerts
+
+**U2 play the stadium on Friday 18 and Saturday 19 June 2027**, with Wolf Alice supporting; the stadium lists it as the tour's only UK venue. General sale for reserved seating and standing opens at **10am on Friday 6 November 2026**, after U2.com presales from 2 November and an artist presale on 5 November. Accessible tickets need Nimbus Disability Access Scheme registration before you book. The booking route is on the [stadium's U2 page](https://www.tottenhamhotspurstadium.com/events/1181495/u2). Use White Hart Lane, as for a match, and read the last-train warning above before you plan the journey home.
 
 ## Where to stay, and why this isn't Wembley
 

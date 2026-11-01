@@ -40,6 +40,7 @@ The first fortnight is fireworks and ceremony, ten days of jazz sit in the middl
 | Date | What | Cost |
 | --- | --- | --- |
 | Sun 1 Nov | London to Brighton Veteran Car Run leaves Hyde Park | Free |
+| Mon 2 Nov | Pitchfork Music Festival London opens, to 8 Nov | Gigs ticketed separately |
 | Wed 4 Nov | Carnaby Street's lights switch on; the Harry Potter Shop opens on Oxford Street | Lights free |
 | Thu 5 Nov | Bonfire Night; Regent Street's lights switch on | Mostly free |
 | Sat 7 Nov | The big fireworks night; National Maritime Museum Diwali day | Fireworks ticketed |
@@ -95,6 +96,10 @@ Diwali itself falls on **Sunday 8 November**. The Mayor of London's free Diwali 
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-november-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## Pitchfork Music Festival London — 2 to 8 November
+
+Six days of gigs in venues across London, each show ticketed separately unless the festival says otherwise. The line-up includes Noname, Panda Bear & Sonic Boom, The Avalanches, DIIV, Tortoise and The Radio Dept., in rooms from the Moth Club in Hackney and KOKO in Camden to the Roundhouse and the Royal Festival Hall. Some shows have sold out. The [programme page](https://pitchforkmusicfestival.co.uk/programme-tickets/) lists every gig with its venue and ticket link.
+
 ## EFG London Jazz Festival — 13 to 22 November
 
 Ten days across more than 80 venues, from the Royal Festival Hall to clubs in Dalston and Chelsea. The Opening Gala is at the Royal Festival Hall on 13 November, with a Coltrane 100 night at the Barbican the same evening. Nineteen concerts are free. Tickets start at £5, and most shows are sold by the venues, so there is no single on-sale date.
@@ -111,7 +116,7 @@ The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglo
 
 **Skate Leicester Square opens on Saturday 31 October, and Glide at Battersea Power Station on Friday 6 November.** Somerset House follows on **Wednesday 11th**, with adults at £13 to £28.50 and children at £11 to £15, plus £1.50 a ticket. The other rinks open from the 18th. [Our ice skating guide](/articles/ice-skating-london/) has every rink and what it costs.
 
-**Hyde Park Winter Wonderland opens on Thursday 19 November and runs to 3 January 2027.** Entry is **£1 at off-peak sessions, Monday to Thursday through November**, with no booking fees, and everything inside is charged separately. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices. **Chelsea Winter Village & Illuminations**, a light trail at the Royal Hospital Chelsea, runs from **25 November to 28 December**. **Christmas at Kew** is on from 13 November.
+**Hyde Park Winter Wonderland opens on Thursday 19 November and runs to 3 January 2027.** Entry is **£1 at off-peak sessions, Monday to Thursday through November**, with no booking fees, and everything inside is charged separately. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices. **Chelsea Winter Village & Illuminations**, a light trail at the Royal Hospital Chelsea, runs from **25 November to 28 December**. **Christmas at Kew** is on from 13 November. **King's Cross Winter Market**, new in 2026 and free to enter, fills Granary Square from **26 November to 3 January 2027**, with a bookable roller rink beside it.
 
 The chalet markets are in the [Christmas markets guide](/articles/christmas-markets-london/). Three ticketed shopping fairs fall in the month: the **Spirit of Christmas Fair** at Olympia (2 to 8 November), **Good Housekeeping Live with the Country Living Christmas Market** at the Business Design Centre (11 to 14 November) and the **Ideal Christmas Show** at Olympia (26 to 29 November).
 
@@ -136,7 +141,13 @@ Rugby tickets are from £79 for Australia and from £51 for Japan; the New Zeala
 
 **A six-metre window in the underground galleries looks onto the live Thameslink line.** The first spotlight exhibition, **London Tastes**, led by Ruby Tandoh and Jonathan Nunn, runs from November to August 2027. The museum's temporary exhibition space, in the Poultry Market next door, opens in 2028.
 
+**Free tickets for 28 November to 31 December are on the [museum's booking page](https://www.londonmuseum.org.uk/whats-on/smithfield-general-admission/).** Walk-ups are welcome, but the museum recommends booking during the opening weeks. It is open 10am to 6pm Sunday to Thursday, with last entry at 4.45pm, and 10am to 11pm on Fridays and Saturdays, with the last ticketed entry at 7.15pm. **On the opening weekend the Elizabeth line, Circle, Hammersmith & City and Metropolitan lines are all closed**, which are the lines at Farringdon and Barbican. St Paul's, on the Central line, is not affected.
+
 ## Exhibitions
+
+### Open since 30 October
+
+- **Agatha Christie: A World of Mystery**, British Library, to **20 June 2027**. Rooms styled as a country house, a WWI dispensary, an Orient Express-style carriage, an archaeological dig and a West End theatre, with Christie's 1937 Remington typewriter and her early manuscripts. £25 at peak (weekends, bank holidays and the final month) and £20 off-peak until 21 February; [book on the British Library's site](https://events.bl.uk/exhibitions/agathachristie).
 
 ### Opening in November
 
@@ -177,6 +188,17 @@ Still running through the month: **Korea** at the British Museum and **Renoir an
 One evening pick a day: music, comedy, theatre, classical and dance, each at a different venue.
 
 <div data-listings-match="." data-exclude="open mic|weekly|insights|recital" data-cat="music,comedy,theatre,classical,dance" data-evening data-from="2026-11-01" data-to="2026-11-30" data-per-venue="1" data-per-day="1" data-limit="20" data-flat></div>
+
+## Tube and rail closures that catch a day out
+
+| Dates | Event it hits | What is closed |
+| --- | --- | --- |
+| Sat 31 Oct and Sun 1 Nov | Veteran Car Run, Hyde Park | The whole Piccadilly line, so no Hyde Park Corner or Knightsbridge; Marble Arch and Lancaster Gate on the Central line serve the park |
+| Sat 14 and Sun 15 Nov | Lord Mayor's Show | The Northern line between Euston or Charing Cross and Morden or Battersea Power Station, which takes out Bank, London Bridge, Waterloo and Battersea Power Station; on Sunday until 10.15am there is also no Elizabeth line between Paddington and Abbey Wood or Stratford |
+| Sat 21 and Sun 22 Nov | Heathrow, Uxbridge and Stratford journeys | The Piccadilly line between Hammersmith and Heathrow or Uxbridge, with the Metropolitan line closed from Harrow-on-the-Hill to Uxbridge; the DLR is closed between Canning Town and Stratford International |
+| Sat 28 and Sun 29 Nov | London Museum opening | The Elizabeth line along its whole length, with Paddington closed and no Heathrow Express; the whole Hammersmith & City line; the Circle line between Hammersmith or High Street Kensington and Tower Hill, via King's Cross St Pancras; the Metropolitan line from Baker Street to Aldgate; and the District line from High Street Kensington to Edgware Road |
+
+TfL updates these as the dates get closer, so check the [live status page](https://tfl.gov.uk/tube-dlr-overground/status/) before you set out.
 
 ## Practical: November in London
 

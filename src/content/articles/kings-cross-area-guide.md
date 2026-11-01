@@ -3,7 +3,7 @@ title: "King's Cross Area Guide: Coal Drops Yard, the British Library and the Ca
 seoTitle: "King's Cross Guide: Coal Drops Yard & Granary Square"
 description: "A complete King's Cross guide: Coal Drops Yard, the British Library treasures, Platform 9¾, the canal walk to Camden, and navigating two stations that look like one."
 publishedAt: 2026-08-16
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2027-01-26
 sites:
   - london
@@ -114,6 +114,8 @@ The centre of the redevelopment. **Granary Square has more than a thousand chore
 
 **Coal Drops Yard** is the shopping half, in Victorian arches built in the 1850s to drop coal from rail wagons into carts below, with Thomas Heatherwick's two roofs kissing in the middle. Free to walk through.
 
+**From 26 November 2026 to 3 January 2027 the square also holds the free King's Cross Winter Market**, new for 2026; the dates and hours are in our [Christmas markets guide](/articles/christmas-markets-london/).
+
 **The canal steps below the square are free seating**: a wide flight of stone terraces down to the water, facing west, which fill on a warm evening. You can bring your own lunch and sit without buying anything. Our guide to [eating outside in London](/articles/eat-outside-london/) maps more places like it.
 
 **It is quiet early and busiest from mid-afternoon.** The shops keep normal retail hours but the bars and the steps run late.
@@ -189,7 +191,7 @@ North of the stations, across the canal: kebab shops, hardware stores and buses.
 
 West of the stations, between Euston Road and Camden, a quiet residential pocket.
 
-**Come for the British Library, which is free.** The **Treasures gallery** holds Magna Carta, Leonardo's notebook, Shakespeare's First Folio, Handel's *Messiah* in his own hand and the Beatles' lyrics on the back of envelopes. No ticket or booking, and it takes an hour. The reading rooms need a reader's pass.
+**Come for the British Library, which is free.** The **Treasures gallery** holds Magna Carta, Leonardo's notebook, Shakespeare's First Folio, Handel's *Messiah* in his own hand and the Beatles' lyrics on the back of envelopes. No ticket or booking, and it takes an hour. The reading rooms need a reader's pass. The paid exhibition **Agatha Christie: A World of Mystery** runs to 20 June 2027, from £25 at peak and £20 off-peak until 21 February, [booked on the Library's site](https://events.bl.uk/exhibitions/agathachristie).
 
 **Its piazza is free to sit in**, with Paolozzi's huge bronze Newton at the centre.
 
