@@ -39,8 +39,6 @@ faq:
 > - **No admission ticket needed:** the **London Transport Museum** shop, the **V&A** shops, and from 13 November 2026 to 4 January 2027 the **Royal Mews Christmas Shop**. The **British Museum** shops are free to enter, but the museum asks for a timed ticket.
 > - **No VAT refund** for visitors on anything carried home; see [tax-free shopping](/articles/tax-free-shopping-london/).
 
-The sections run by what you spend, then the museum and palace shops you can walk into without a ticket, then gifts by who they are for.
-
 *Prices, dates and shop details as of 1 November 2026.*
 
 ## Under £10
