@@ -3,7 +3,7 @@ title: "Christmas Dinner in London: Where to Eat on Christmas Day"
 seoTitle: "Christmas Day Restaurants London 2026: What It Costs"
 description: "Almost nothing opens on 25 December, and no transport runs to get you there. What actually opens, what the price bands buy, and why booking is non-refundable."
 publishedAt: 2026-09-05
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-30
 sites:
   - london
@@ -25,7 +25,7 @@ faq:
   - q: "Does the Tube run on Christmas Day?"
     a: "No. TfL runs no services at all on 25 December — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. Santander Cycles, e-scooter hire, black cabs and private hire are the only ways to move, and taxi fares are far higher than usual. Book somewhere you can walk to."
   - q: "When should I book Christmas dinner in London?"
-    a: "As early as you can. DesignMyNight's booking data puts the average Christmas Day reservation at about 59 days ahead, which lands in the last week of October, and the best-known rooms go earlier than that. The Ritz takes bookings a year out."
+    a: "As early as you can. DesignMyNight's booking data puts the average Christmas Day reservation at about 59 days ahead, which for 2026 means 26 October, and the best-known rooms go earlier than that. The Ritz takes bookings a year out."
   - q: "Can you cancel a Christmas Day restaurant booking?"
     a: "Usually not. Full non-refundable prepayment is the norm rather than the exception on 25 December — the Ritz requires the entire amount up front to confirm. Read the terms before you pay, because a deposit you assume is refundable generally is not."
 ---
@@ -89,7 +89,7 @@ For a venue not listed here, use the price bands above rather than a figure from
 
 **Full prepayment, non-refundable, is normal on Christmas Day.** The Ritz wants the whole £670 before it will hold the table, and others take a substantial deposit on the same terms. A no-show on 25 December cannot be resold, so a booking is a purchase, not a reservation: read the terms before you pay.
 
-**Book as early as you can.** DesignMyNight's booking data puts the average Christmas Day reservation at about 59 days in advance, which lands in the last week of October. The best-known dining rooms go well before that, and the Ritz takes bookings a year out.
+**Book as early as you can.** DesignMyNight's booking data puts the average Christmas Day reservation at about 59 days in advance, which for 2026 means 26 October. The best-known dining rooms go well before that, and the Ritz takes bookings a year out.
 
 Confirm these when you book, because they vary and are rarely on the listing:
 

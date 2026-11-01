@@ -3,7 +3,7 @@ title: "How to Get Wimbledon Tickets: The Ballot, The Queue and Every Other Way 
 seoTitle: "Wimbledon Tickets 2027: Ballot Dates, The Queue, Prices"
 description: "Every legitimate route into Wimbledon: the public ballot and when it opens, exactly how The Queue works and when to arrive, the in-grounds Ticket Resale, and what to do if you are coming from abroad."
 publishedAt: 2026-08-30
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2027-01-26
 sites:
   - london
@@ -51,7 +51,7 @@ There are a small number of legitimate ways in, and the All England Club control
 
 **The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.**
 
-> 💡 **The Short Version:** **Both ballots for 2027 have closed**, and Public Ballot offers go out by email **from October 2026**. For 2028, enter both: the **AELTC Public Ballot** is free and open to anyone in the world, and the **LTA draw costs £25 a year** for any adult and lets winners **choose their day and court**. For 2027, an LTA Fan+ membership bought now still gets you into the LTA's **March sale of returned tickets**, and **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** put Centre Court seats on sale for **£15** in 2026 — 2027's price isn't out yet. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
+> 💡 **The Short Version:** **Both ballots for 2027 have closed**, and Public Ballot offers go out by email **from October 2026**. For 2028, enter both: the **AELTC Public Ballot** is free and open to anyone in the world, and the **LTA draw costs £25 a year** for any adult and lets winners **choose their day and court**. For 2027, an LTA Fan+ membership bought before the sale still gets you into the LTA's **March sale of returned tickets**, and **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** put Centre Court seats on sale for **£15** in 2026 — 2027's price isn't out yet. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
 ---
 
@@ -530,7 +530,7 @@ These are the official channels for a guaranteed ticket on a chosen day.
 
 ### Newmarket Holidays: a reserved No.1 Court seat with a hotel
 
-**Newmarket Holidays** is an authorised seller of packages for The Championships, with a **reserved No.1 Court seat** and a hotel included. 2027 packages are on sale now on a **£150pp deposit**:
+**Newmarket Holidays** is an authorised seller of packages for The Championships, with a **reserved No.1 Court seat** and a hotel included. 2027 packages carry a **£150pp deposit**:
 
 | Package | From, per person |
 | --- | --- |
@@ -544,7 +544,7 @@ These are the official channels for a guaranteed ticket on a chosen day.
 
 **Keith Prowse** is the **exclusive Official Hospitality Partner**. The AELTC states that it has no affiliation with any other hospitality merchant and cannot authenticate tickets bought elsewhere. This is the only route that guarantees a ticket on a court and date of your choosing.
 
-2027 packages are on general sale now and Keith Prowse says they are **over 75% sold out**. Prices are **per person and exclude VAT** — add 20% for the real number.
+2027 packages are on general sale, and in October 2026 Keith Prowse said they were **over 75% sold out**. Prices are **per person and exclude VAT** — add 20% for the real number.
 
 | Package | What it is | From (ex VAT) |
 | --- | --- | --- |

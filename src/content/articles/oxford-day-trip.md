@@ -148,7 +148,7 @@ Two patterns catch people out: **halls close over lunch**, and **free colleges o
 | College | Adult | Concession | Hours |
 | --- | --- | --- | --- |
 | **Christ Church** | **£22.95**–£26.95 | £17.50 child | Mon–Sat from 10:00, Sun from 14:00, exit by 17:00 |
-| **New College** | **£12** | £11 | 10:00–17:00 to 31 Oct. From 1 Nov: closed Mon, 11:00–15:00 Tue–Fri and Sun, 10:00–16:30 Sat |
+| **New College** | **£12** | £11 | 1 Nov to 8 Mar: closed Mon, 11:00–15:00 Tue–Fri and Sun, 10:00–16:30 Sat. 10 Mar to 31 Oct: 10:00–17:00 |
 | **Magdalen** | **£10** | £9 | Daily 10:00 to dusk or 17:00 |
 | **Trinity** | **£7** | £5 | 10:00–12:00 and 14:00–17:00 |
 | **Balliol** | **£6** | £3 | 10:00–17:00 or dusk |
@@ -294,7 +294,7 @@ A working shape:
 
 **Last departures back**, on a weekday: Oxford to Paddington at **23:06**, arriving 00:12, with a **00:10** service arriving 01:16. Oxford to Marylebone, last direct at **22:44**, arriving 00:16. **The Oxford Tube has no last coach**, so take it if you want dinner in Oxford.
 
-> ⚠️ **Check the closures before you book a college.** Christ Church, Magdalen, New College and Merton each publish dated closure lists. Full-day closures ahead include Merton on Saturday 7 November, New College on Saturday 12 December and Christ Church on 25 December. Balliol caps groups at eight in term, and New College closes on Mondays from 1 November.
+> ⚠️ **Check the closures before you book a college.** Christ Church, Magdalen, New College and Merton each publish dated closure lists. Full-day closures ahead include Merton on Saturday 7 November, New College on Saturday 12 December and Christ Church on 25 December. Balliol caps groups at eight in term, and New College closes on Mondays from 1 November to 8 March.
 
 ## Continue planning your trip
 

@@ -3,8 +3,8 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-31
-reviewBy: 2026-11-01
+updatedAt: 2026-11-01
+reviewBy: 2026-11-04
 sites:
   - london
 canonicalSite: london
@@ -51,7 +51,7 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas markets
 
-**Leicester Square's** chalets ring an ice rink and open on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** (**2 November** to 3 January) is the food one and is cash-free, **Winter by the River** at London Bridge City opens on **10 November**, and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £8 to £10.
+**Leicester Square's** chalets ring an ice rink and opened on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** (**2 November** to 3 January) is the food one and is cash-free, **Winter by the River** at London Bridge City opens on **10 November**, and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £8 to £10.
 
 > 🎄 **[Every Christmas market in London, with dates and hours →](/articles/christmas-markets-london/)** — the central markets, Kingston, Greenwich, Wimbledon and Battersea, and the maker fairs at the British Library, King's Cross and Chelsea Physic Garden.
 
@@ -112,7 +112,7 @@ These are paid, walk-through experiences.
 
 **Book Somerset House early:** prices vary through the run and the lowest go to early bookers. **Not running in 2026:** the **Natural History Museum's** rink has closed for good, **Canary Wharf's** is taking a break for the season, and there is no **Tower of London** rink.
 
-For grottos, **Fortnum & Mason's** "Storytelling with Father Christmas" and **Hamleys'** Regent Street grotto are both expected back but are not on sale yet — 2025 prices were roughly £36–£45 and from £65 for a group of three, respectively. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead. Outside the centre, **[Chessington World of Adventures](/articles/chessington-world-of-adventures-day-trip/)**, in Zone 6, puts Father Christmas's grotto in a Christmas Village on selected dates from 21 November to 24 December 2026, with park entry from £32; [theme parks near London](/articles/theme-parks-near-london/) has the other parks' Christmas dates.
+For grottos, 2025 prices were roughly £36–£45 for **Fortnum & Mason's** "Storytelling with Father Christmas" and from £65 for a group of three at **Hamleys'** Regent Street grotto. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead. Outside the centre, **[Chessington World of Adventures](/articles/chessington-world-of-adventures-day-trip/)**, in Zone 6, puts Father Christmas's grotto in a Christmas Village on selected dates from 21 November to 24 December 2026, with park entry from £32; [theme parks near London](/articles/theme-parks-near-london/) has the other parks' Christmas dates.
 
 ---
 

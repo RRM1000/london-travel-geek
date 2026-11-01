@@ -1,9 +1,9 @@
 ---
 title: "EFG London Jazz Festival 2026: Dates, Tickets and the Free Half"
 seoTitle: "London Jazz Festival 2026: Dates, Tickets & Free Gigs"
-description: "The EFG London Jazz Festival runs 13-22 November 2026 across 83 venues. Forty-four free concerts, tickets from £5, twelve shows sold out, and why there is no single on-sale date."
+description: "The EFG London Jazz Festival runs 13-22 November 2026. Free concerts, tickets from £5, the shows that have sold out, and why there is no single on-sale date."
 publishedAt: 2026-09-21
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-12
 sites:
   - london
@@ -42,11 +42,11 @@ faq:
     a: "Most concert-hall shows start at 7.30pm and finish around 10pm, which is inside normal Tube service everywhere. The late programme is the exception. Ronnie Scott's runs eleven Late Late Shows between 13 and 21 November, the main room on stage at midnight with doors at 11.15pm at £15.50, and Upstairs at 11.30pm at £18.50. The Jazz Social near Moorgate stays open until 1am on the Fridays and Saturdays. Night Tube runs on Friday and Saturday nights only, on the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines, and the festival's two Fridays and two Saturdays are 13, 14, 20 and 21 November."
 ---
 
-The EFG London Jazz Festival runs **13 to 22 November 2026**, ten days with both weekends. Serious, the producer that started it in 1992, had **348 shows listed at 83 venues** on 26 October. They are spread across the city: the Royal Festival Hall and the Barbican, Ronnie Scott's and the Vortex, a church in Leytonstone, a bookshop off Kensington Church Street and a pop-up in an office block by Moorgate.
+The EFG London Jazz Festival runs **13 to 22 November 2026**, ten days with both weekends. Serious, the producer that started it in 1992, had **348 shows listed at 83 venues** on 26 October; the festival's listing held 360 events on 1 November. They are spread across the city: the Royal Festival Hall and the Barbican, Ronnie Scott's and the Vortex, a church in Leytonstone, a bookshop off Kensington Church Street and a pop-up in an office block by Moorgate.
 
 There is no festival wristband and no single box office. Most shows are sold by the venue, so there is no single on-sale morning to be ready for.
 
-> 💡 **The Short Version:** **13-22 November 2026.** The full programme is on the festival's [what's on listing](https://efglondonjazzfestival.org.uk/whats-on), the only place all the shows sit together; each one sends you to whoever is selling it. **Forty-four concerts are free**, at the [Barbican FreeStage](https://efglondonjazzfestival.org.uk/by-type/free), the Clore Ballroom at the Southbank Centre, Milton Court, the Bloomsbury Club and The Jazz Social. Paid tickets start at **£5** and the median cheapest ticket across the programme is **£20**. If you are 16-25, join the free [Serious Youth Network](https://serious.org.uk/serious-youth-network) before you book: it makes shows Serious produces **£5**. Twelve shows are sold out on 26 October, among them **Coltrane 100** and **Ben Folds**, while **Melody Gardot's** Royal Albert Hall night has had tickets released at £39 to £79. The way back into a full show is the venue's own returns, not a resale site.
+> 💡 **The Short Version:** **13-22 November 2026.** The full programme is on the festival's [what's on listing](https://efglondonjazzfestival.org.uk/whats-on), the only place all the shows sit together; each one sends you to whoever is selling it. **Forty-four of the 348 shows listed on 26 October are free**, at the [Barbican FreeStage](https://efglondonjazzfestival.org.uk/by-type/free), the Clore Ballroom at the Southbank Centre, Milton Court, the Bloomsbury Club and The Jazz Social. Paid tickets start at **£5** and the median cheapest ticket among the 289 priced shows on 26 October was **£20**. If you are 16-25, join the free [Serious Youth Network](https://serious.org.uk/serious-youth-network) before you book: it makes shows Serious produces **£5**. Twelve shows are sold out on 26 October, among them **Coltrane 100** and **Ben Folds**, while **Melody Gardot's** Royal Albert Hall night has had tickets released at £39 to £79. The way back into a full show is the venue's own returns, not a resale site.
 
 ---
 
@@ -54,7 +54,7 @@ There is no festival wristband and no single box office. Most shows are sold by 
 
 ## The shape of the ten days
 
-Each Saturday carries two and a half times what Monday 16 November does, and all twelve sold-out shows are on a Friday or a weekend.
+Each Saturday carries two and a half times what Monday 16 November does, and all twelve shows sold out on 26 October are on a Friday or a weekend.
 
 | Date | Shows listed | What is on |
 | --- | --- | --- |
@@ -83,7 +83,7 @@ Prices on the festival's listings **include booking fees**, so the number you se
 | **£20-£40** | 147 | Most of the concert halls and most of the jazz clubs |
 | **£40 and up** | 18 | Ronnie Scott's headliners, the Royal Festival Hall galas |
 
-Another 12 shows are sold out and one has no price yet. The cheapest adult ticket in the festival is **£5**: the Out to Lunch seats at Cadogan Hall, Eliane Correa at Hootananny Brixton, the two "100 Years Of" nights at Ninety One Brick Lane and the late Elgar Room show on 13 November. Children pay **£2.50** at the Barbican's family film club on 21 November, £5 for adults. The dearest concert is the **Opening Gala at £48 to £100.50**.
+On 26 October another 12 shows were sold out and one had no price yet. The cheapest adult ticket in the festival is **£5**: the Out to Lunch seats at Cadogan Hall, Eliane Correa at Hootananny Brixton, the two "100 Years Of" nights at Ninety One Brick Lane and the late Elgar Room show on 13 November. Children pay **£2.50** at the Barbican's family film club on 21 November, £5 for adults. The dearest concert is the **Opening Gala at £48 to £100.50**.
 
 ### The fee that is worth understanding
 

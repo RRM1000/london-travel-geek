@@ -3,8 +3,8 @@ title: "How to Use the London Underground: A First-Time Visitor’s Guide"
 seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
 publishedAt: 2026-08-08
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2026-11-23
 sites:
   - london
 canonicalSite: london
@@ -146,7 +146,7 @@ On **Friday and Saturday nights**, 24-hour service operates across six lines:
 Standard off-peak fares apply.
 
 ### Weekend Engineering Work
-TfL does track maintenance and signalling upgrades over weekends. Before heading out on Saturday or Sunday, especially for airport flights or theatre shows, check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**. **The whole Piccadilly line is closed on 31 October and 1 November 2026.**
+TfL does track maintenance and signalling upgrades over weekends. Before heading out on Saturday or Sunday, especially for airport flights or theatre shows, check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
 
 **Changing between King's Cross St Pancras and the main line stations** is via the King's Cross Lightwall pedestrian tunnel. Follow signs for St Pancras International rather than heading up to street level.
 

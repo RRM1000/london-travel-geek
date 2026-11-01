@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Leadenhall_Market_In_L
 heroImageLicense: "CC BY 2.5"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.5/"
 publishedAt: 2026-09-26
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -104,8 +104,6 @@ The trolley is only out while the Harry Potter Shop beside it is open: **8am to 
 It did not play Diagon Alley: it stood in for the Muggle streets leading to the Leaky Cauldron. Diagon Alley was a set at Leavesden, and you can walk down it on the [Studio Tour](/articles/harry-potter-studio-tour/).
 
 The public lanes are **open 24 hours a day, seven days a week**. The shops, bars and restaurants keep City hours, so at the weekend most shutters are down.
-
-> ⚠️ **Scaffolding is up for maintenance works** (October 2026). The market stays fully open and walkable.
 
 ## 2. The Leaky Cauldron door
 

@@ -3,8 +3,8 @@ title: "London Marathon: How to Get a Place, and How to Watch It"
 seoTitle: "London Marathon 2027: Ballot, Charity Places and Entry"
 description: "Every route into the TCS London Marathon — the ballot, charity places, Good For Age, club and overseas entry — plus what is still open for the two-day 2027 race, and where to watch."
 publishedAt: 2026-06-30
-updatedAt: 2026-10-26
-reviewBy: 2026-10-30
+updatedAt: 2026-11-01
+reviewBy: 2026-12-15
 sites:
   - london
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "When is the London Marathon 2027?"
     a: "It runs over two days for the first time: Saturday 24 and Sunday 25 April 2027. The organisers are calling it the TCS London Marathon Double, with 100,000 people across the weekend on the same Greenwich-to-Westminster route. It is a one-off format for 2027 only."
   - q: "Has the 2027 London Marathon ballot closed?"
-    a: "Yes. The ballot ran from 24 April to 1 May 2026, results were emailed on 9 July 2026, and successful applicants had to confirm by 31 July. Charity places are the main route still open for 2027, along with official international tour operators for overseas runners and the MyWay virtual marathon. Good For Age applications close at 16:00 on Thursday 29 October 2026."
+    a: "Yes. The ballot ran from 24 April to 1 May 2026, results were emailed on 9 July 2026, and successful applicants had to confirm by 31 July. Good For Age applications closed at 16:00 on Thursday 29 October 2026. Charity places are the main route still open for 2027, along with official international tour operators for overseas runners and the MyWay virtual marathon."
   - q: "What are the odds of getting a London Marathon ballot place?"
     a: "Long, and getting longer. A record 1,338,541 people applied for the 2027 race, up 18% on the previous year and more than double the 2024 figure. London Marathon Events has never published how many ballot places there are, so no exact success rate exists. Reporting has put the ballot allocation at roughly 20,000 places a year, which would make the odds somewhere around 1 in 30 to 1 in 60 depending on the year. Treat any precise percentage you see quoted with suspicion."
   - q: "How much does it cost to enter the London Marathon ballot?"
@@ -28,7 +28,7 @@ faq:
   - q: "How much do you have to raise for a London Marathon charity place?"
     a: "Usually between £2,000 and £3,000, plus a registration fee of about £40 to £100. Smaller charities tend to set £2,000; big-name charities more often ask £2,500 to £2,750. Targets are pledges, not debts, but charities set interim milestones, can withdraw your place before race day if you are well short, and some state they will report shortfalls to the organisers."
   - q: "What time do you need to run for a Good For Age place?"
-    a: "Sub-2:52 for men aged 18–39 and sub-3:38 for women, easing with each age band. The qualifying period was 1 October 2025 to 30 September 2026, and applications for 2027 close at 16:00 on Thursday 29 October 2026. Men run on Saturday 24 April and women on Sunday 25 April. Meeting the time only earns you the right to apply: places are capped at 6,000 and allocated fastest-first."
+    a: "Sub-2:52 for men aged 18–39 and sub-3:38 for women, easing with each age band. The qualifying period was 1 October 2025 to 30 September 2026, and applications for 2027 closed at 16:00 on Thursday 29 October 2026. Men run on Saturday 24 April and women on Sunday 25 April. Meeting the time only earns you the right to apply: places are capped at 6,000 and allocated fastest-first."
   - q: "Can you buy or transfer a London Marathon place?"
     a: "No. Selling, swapping or transferring a place is explicitly banned, and so is running on someone else's number. The penalty is annulled results and a ban from all London Marathon Events races for up to five years, rising to a possible life ban for a second breach. There is no official resale platform, so any bib for sale online is one that will be cancelled."
 heroImage: "../../assets/articles/london-marathon-guide/london-marathon-costume-runner.jpg"
@@ -39,7 +39,7 @@ A record **1,338,541 people applied for a place in the 2027 London Marathon** �
 
 **2027 is also unlike any London Marathon before it.** For one year only it runs over **two days, Saturday 24 and Sunday 25 April 2027**, with 100,000 runners across the weekend on the same course from Greenwich to The Mall.
 
-> 💡 **The Short Version:** The **2027 ballot has closed**. **Good For Age** applications for UK residents close at **16:00 on Thursday 29 October 2026**; Championship entry has closed. Otherwise, what is still open for 2027 is a **charity place**, which means raising roughly **£2,000–£3,000**; an **official international tour operator** if you live abroad; or the **MyWay virtual marathon** at £40. For 2028, the ballot should open around **race weekend in late April 2027** — it is **free to enter** and you only pay if you get in. To **watch**, skip the famous spots and go to the **Isle of Dogs**.
+> 💡 **The Short Version:** The **2027 ballot has closed**. **Good For Age** applications for UK residents closed at **16:00 on Thursday 29 October 2026**, and Championship entry has closed too. What is still open for 2027 is a **charity place**, which means raising roughly **£2,000–£3,000**; an **official international tour operator** if you live abroad; or the **MyWay virtual marathon** at £40. For 2028, the ballot should open around **race weekend in late April 2027** — it is **free to enter** and you only pay if you get in. To **watch**, skip the famous spots and go to the **Isle of Dogs**.
 
 ---
 
@@ -50,7 +50,7 @@ A record **1,338,541 people applied for a place in the 2027 London Marathon** �
 | **TCS London Marathon 2027** | **Sat 24 and Sun 25 April 2027** |
 | Field size | **100,000** across the two days |
 | 2027 ballot | Closed — ran 24 April to 1 May 2026, results 9 July 2026 |
-| Good For Age 2027 | Applications close **16:00, Thu 29 October 2026** |
+| Good For Age 2027 | Applications closed **16:00, Thu 29 October 2026** |
 | Championship 2027 | Applications closed |
 | 2028 ballot | Not announced. Expect it around **race weekend, late April 2027** |
 
@@ -133,7 +133,7 @@ Charities buy entries from the organisers (£400 plus VAT each) and give them to
 
 If you are fast, this is a far better bet than the ballot, and most people who would qualify never check.
 
-**Applications for 2027 are open until 16:00 on Thursday 29 October 2026.** Only UK residents can apply, and the qualifying period was 1 October 2025 to 30 September 2026. Men run on Saturday 24 April and women on Sunday 25 April. The standards:
+**Applications for 2027 closed at 16:00 on Thursday 29 October 2026.** Only UK residents can apply, and the qualifying period was 1 October 2025 to 30 September 2026. Men run on Saturday 24 April and women on Sunday 25 April. The standards:
 
 | Age | Women | Men |
 | --- | --- | --- |

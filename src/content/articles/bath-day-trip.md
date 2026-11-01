@@ -1,10 +1,10 @@
 ---
 title: "Bath from London: The Roman Baths, the Spa and the Train"
 seoTitle: "Bath Day Trip from London: Trains and Tickets"
-description: "Paddington to Bath Spa takes 1h15 and Advance singles cut the return from £75.90 to £47.60. The Roman Baths cost £26.50 on a weekday and £29.00 at the weekend, the rooftop pool is £44, and cars pay nothing in Bath's Clean Air Zone."
+description: "Paddington to Bath Spa takes 1h15 and Advance singles cut the return from £75.90 to £47.60. The Roman Baths cost £23.50 on a weekday and £26.50 at the weekend until 18 December 2026, the rooftop pool is £44, and cars pay nothing in Bath's Clean Air Zone."
 publishedAt: 2026-09-19
-updatedAt: 2026-10-26
-reviewBy: 2026-11-01
+updatedAt: 2026-11-01
+reviewBy: 2026-12-19
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -19,22 +19,22 @@ faq:
   - q: "How do you get from London to Bath, and what does it cost?"
     a: "Great Western Railway runs direct from London Paddington to Bath Spa in 1 hour 15 minutes. A walk-up Off-Peak Return is £75.90; Advance singles booked a month ahead are £22.60 out and £25.00 back, so £47.60 for the round trip. National Express service 403 from Victoria Coach Station takes 2 hours 50 minutes and starts at £5.40 one way."
   - q: "How much are the Roman Baths?"
-    a: "Booked in advance between 1 September and 31 October 2026: £26.50 adult on a weekday and £29.00 at the weekend, £19.50 and £22.00 for a child aged 6 to 18, and £69.00 or £77.00 for a family of two adults and up to four children. Tickets bought on the day cost £2 more each. From 1 November to 18 December the adult price drops to £23.50 on a weekday."
+    a: "Booked in advance between 1 November and 18 December 2026: £23.50 adult on a weekday and £26.50 at the weekend, £16.50 and £19.50 for a child aged 6 to 18, and £59.00 or £69.00 for a family of two adults and up to four children. Tickets bought on the day cost £2 more each. From 19 December the adult price returns to £26.50 on a weekday and £29.00 at the weekend."
   - q: "How long do you need at the Roman Baths?"
     a: "The museum recommends 90 minutes to 2 hours, and warns that the last slots of the day may not be long enough to see everything. Every ticket carries a timed entry slot, the audio guide is included in 13 languages, and there is no re-entry because the route is one way."
   - q: "How much is Thermae Bath Spa's rooftop pool?"
-    a: "A two-hour Thermae Welcome session, which covers the open-air rooftop pool, the indoor Minerva Bath and the Wellness Suite, is £44 Monday to Friday and £49 at the weekend, including towel and robe. The minimum age is 16. The Twilight package is £60 for one person or £100 for two, a special offer for Monday to Thursday in October (full price on Fridays). Entry is from 15:00 with last full entry at 18:00, Monday to Friday, and it is booked by phone."
+    a: "A two-hour Thermae Welcome session, which covers the open-air rooftop pool, the indoor Minerva Bath and the Wellness Suite, is £44 Monday to Friday and £49 at the weekend, including towel and robe. The minimum age is 16."
   - q: "Do you pay Bath's Clean Air Zone charge in a car?"
     a: "No. Bath runs a Class C zone, so cars and motorbikes are never charged whatever their emissions. Older vans, pick-ups, minibuses, taxis and private hire vehicles pay £9 a day, and older coaches, buses and lorries pay £100. The trap is that some SUVs, four-by-fours and campervans are registered as N1 rather than M1 and are chargeable, so check the registration on the GOV.UK vehicle checker."
   - q: "Does National Rail 2FOR1 cover anything in Bath?"
     a: "Two things, neither of them the big ones. Mary Shelley's House of Frankenstein is 2FOR1 and the Bridgerton Tour of Bath walking tour is 20% off. The Roman Baths, Thermae Bath Spa, Bath Abbey and the Jane Austen Centre are not in the scheme at all."
 ---
 
-**Paddington to Bath Spa is 1 hour 15 minutes on a direct train, and the Roman Baths cost £26.50 on a weekday against £29.00 at the weekend.** Bath is close enough that you need not leave early, and the Roman Baths are cheaper Monday to Friday.
+**Paddington to Bath Spa is 1 hour 15 minutes on a direct train, and the Roman Baths cost £23.50 on a weekday against £26.50 at the weekend until 18 December 2026.** Bath is close enough that you need not leave early, and the Roman Baths are cheaper Monday to Friday.
 
 The Roman Baths, the Abbey, Pulteney Bridge, the Circus and the Royal Crescent are within fifteen minutes' walk of each other, and the Roman Baths are under ten minutes from the platform.
 
-> 💡 **The Short Version:** **Paddington to Bath Spa, 1h15 direct.** Off-Peak Return **£75.90**, or **£47.60** in Advance singles booked a month out. **Roman Baths £26.50 weekday, £29.00 weekend** in advance, **£2 more on the door**, timed slots, **allow 90 minutes to 2 hours**. **Thermae Bath Spa rooftop pool £44 weekdays, £49 weekends**, two hours, **16 and over only**, and walk-in slots run out. **Bath Abbey £9**, tower tour **£18**, and Sunday visiting is only **13:00–15:30**. **No.1 Royal Crescent £16**, closed Mondays. **Cars pay nothing in the Clean Air Zone**; older vans pay £9. **2FOR1 covers almost nothing here.** Last direct train back **23:05** on a weekday. **Or take a coach tour** — the <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£85 Stonehenge and Bath tour</a> adds the stones to the day with entry included, though the Roman Baths are extra.
+> 💡 **The Short Version:** **Paddington to Bath Spa, 1h15 direct.** Off-Peak Return **£75.90**, or **£47.60** in Advance singles booked a month out. **Roman Baths £23.50 weekday, £26.50 weekend until 18 December 2026** (£26.50 and £29.00 after) in advance, **£2 more on the door**, timed slots, **allow 90 minutes to 2 hours**. **Thermae Bath Spa rooftop pool £44 weekdays, £49 weekends**, two hours, **16 and over only**, and walk-in slots run out. **Bath Abbey £9**, tower tour **£18**, and Sunday visiting is only **13:00–15:30**. **No.1 Royal Crescent £16**, closed Mondays. **Cars pay nothing in the Clean Air Zone**; older vans pay £9. **2FOR1 covers almost nothing here.** Last direct train back **23:05** on a weekday. **Or take a coach tour** — the <a href="https://www.getyourguide.com/activity/-t61147?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£85 Stonehenge and Bath tour</a> adds the stones to the day with entry included, though the Roman Baths are extra.
 
 > ⚠️ **Great Western trains cannot run to or from Paddington from Sunday 27 December 2026 to Sunday 3 January 2027, or on Saturday 28 and Sunday 29 November, for the Dolphin Junction upgrade.** Trains to and from the Bristol area and South Wales are diverted to run to and from Euston with longer journey times, and most other long-distance trains start and finish at Reading ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
@@ -118,7 +118,7 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 
 **Staying in Bath rather than London?** <a href="https://www.getyourguide.com/activity/-t525528?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Rabbie's runs out of Terrace Walk at £95</a> with the Stonehenge ticket included, 4.8 from 781 reviews, back by about 18:00.
 
-> ⚠️ **The title is not the includes list, and on this route the two often disagree.** <a href="https://www.getyourguide.com/activity/-t1408799?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">One £102 tour called "Bath and Cotswolds Day Trip with Roman Baths"</a> lists "Entry to the Roman Baths (ONLY IF PURCHASED)", and <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the most-booked Bath trip of all</a> puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. Many Bath tours word it this way. **Assume the £26.50 Roman Baths ticket is yours to buy** unless the includes list says otherwise without a clause — and note that the 16-seat small-group operators exclude the Stonehenge ticket openly, and print its price, so the extra cost is visible up front.
+> ⚠️ **The title is not the includes list, and on this route the two often disagree.** <a href="https://www.getyourguide.com/activity/-t1408799?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">One £102 tour called "Bath and Cotswolds Day Trip with Roman Baths"</a> lists "Entry to the Roman Baths (ONLY IF PURCHASED)", and <a href="https://www.getyourguide.com/activity/-t945?partner_id=WWP7I0R&amp;cmp=bath-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the most-booked Bath trip of all</a> puts "Admissions to Windsor Castle, Stonehenge and Roman Baths (IF PURCHASED)" in its inclusions. Many Bath tours word it this way. **Assume the Roman Baths ticket is yours to buy** unless the includes list says otherwise without a clause — and note that the 16-seat small-group operators exclude the Stonehenge ticket openly, and print its price, so the extra cost is visible up front.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bath-day-trip-stonehenge" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="219849,16096,61147"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -130,19 +130,19 @@ Prices change with the day of the week and the time of year.
 
 *The terrace above the Great Bath. Photo: Marvin Sacdalan, Pexels.*
 
-| Ticket, booked in advance, 1 Sep – 31 Oct 2026 | Weekday | Weekend / bank holiday |
+| Ticket, booked in advance, 1 Nov – 18 Dec 2026 | Weekday | Weekend / bank holiday |
 | --- | --- | --- |
-| **Adult (19+)** | **£26.50** | **£29.00** |
-| Student | £25.50 | £28.00 |
-| Senior (65+) | £25.50 | £28.00 |
-| **Child (6–18)** | **£19.50** | **£22.00** |
-| **Family, 2 adults + 2–4 children** | **£69.00** | **£77.00** |
-| Family, 2 adults + 1 child | £63.00 | £70.00 |
-| Family, 1 adult + 2–4 children | £51.00 | £57.00 |
+| **Adult (19+)** | **£23.50** | **£26.50** |
+| Student | £22.50 | £25.50 |
+| Senior (65+) | £22.50 | £25.50 |
+| **Child (6–18)** | **£16.50** | **£19.50** |
+| **Family, 2 adults + 2–4 children** | **£59.00** | **£69.00** |
+| Family, 2 adults + 1 child | £54.00 | £63.00 |
+| Family, 1 adult + 2–4 children | £44.00 | £51.00 |
 
 **Tickets bought on the day cost £2 more each.** Under-6s are free but still need a reserved ticket.
 
-**From 1 November to 18 December prices drop**: £23.50 adult on a weekday, £26.50 at the weekend, children £16.50 and £19.50, and a 2+2 family £59.00 on a weekday and £69.00 at the weekend. From 19 December they return to the September level.
+**From 19 December the adult price returns to £26.50 on a weekday and £29.00 at the weekend**, with children at £19.50 and £22.00.
 
 > ⚠️ **Every ticket carries an allocated time slot and you cannot join the queue without one.** Tickets often sell out in advance, especially over the summer; the museum recommends booking at least 24 hours ahead. You have a 15-minute grace period from your slot. Tickets are non-refundable, but the date and time can be moved before your visit by phone or email, subject to availability.
 
@@ -152,7 +152,7 @@ Prices change with the day of the week and the time of year.
 
 **If you want a guide instead:** shared one-hour tours leave the Great Bath hourly from 10:00 to 15:00, **£8 per person on top of admission**, free for under-6s, capped at sixteen people. Private tours run at 11:00 and 15:00 for up to ten people at **£80 per tour** plus admission. Book the admission ticket for an hour before the tour so you have time to reach the Great Bath.
 
-**Opening hours, 1 September to 31 October 2026: daily 09:00–18:00, last admission 17:00.** The Roman Baths open every day of the year except Christmas Day and Boxing Day, close early on 24 December with last entry at 4.15pm, and open at 10:00 on 1 January.
+**The Roman Baths open every day of the year except Christmas Day and Boxing Day**, close early on 24 December with last entry at 4.15pm, and open at 10:00 on 1 January.
 
 **Cheap ways in, if they apply to you.** £1 tickets for UK visitors on Universal Credit, Pension Credit or ESA. Free entry for full-time students at Bath Spa University, the University of Bath and Bath College with ID, and for Discovery Card holders. Free carer or companion ticket. Blue Peter badge holders get in free with a paying adult.
 
@@ -164,15 +164,12 @@ Prices change with the day of the week and the time of year.
 | --- | --- |
 | **Thermae Welcome, 2 hours, Mon–Fri** | **£44** |
 | **Thermae Welcome, 2 hours, Sat–Sun** | **£49** |
-| **Twilight package** | **£60 for one, £100 for two** |
 | Cross Bath, 90 minutes, Tuesdays only | £40 per person |
 | Treatment packages | £130–£190, or £300–£320 for two |
 
 **The £44 session covers the open-air rooftop pool, the indoor Minerva Bath, the Wellness Suite and the Springs Café**, with towel and robe included. The spa is open 09:00–21:30, with pools and the Wellness Suite closing at 21:00.
 
 > ⚠️ **Minimum age 16, and walk-in places are not guaranteed.** Thermae Bath Spa is adults-only: 16 to get in, 18 for treatments. The spa strongly recommends booking ahead, because walk-in availability on the day cannot be guaranteed.
-
-**The Twilight package suits a day trip**, because it maps onto the late train home. £60 for one person or £100 for two, a special offer for Monday to Thursday in October; Friday is full price. You get a two-hour session each plus a sharing platter with a seasonal side and a glass of wine, beer, juice or water each in the Springs Café. Monday to Friday only, excluding bank holidays, entry from **15:00 with last full entry at 18:00**, booked by phone on 01225 33 1234. Friday evenings go first.
 
 > 💡 **Travelling with a 12 to 15-year-old? The Cross Bath, not the main spa.** The separate open-air Cross Bath runs 90-minute sessions on **Tuesdays only**, at 10:00, 12:00, 14:00, 16:00 and 18:00, at **£40 a head**. Under-12s are not allowed, but 12 to 15s can go accompanied one-to-one — which the main spa does not permit at any age under 16.
 
@@ -262,7 +259,7 @@ Little, and none of the headline attractions.
 
 *Photo: Jocelyn Erskine-Kellie, Pexels.*
 
-**Leave Paddington at 09:30 and you are in Bath at 10:45.** A working shape: Roman Baths on a pre-booked late-morning slot, lunch, the walk up through Queen Square to the Circus and the Royal Crescent, the Abbey or No.1 Royal Crescent in the afternoon, and the spa from 15:00 if you have booked the Twilight package.
+**Leave Paddington at 09:30 and you are in Bath at 10:45.** A working shape: Roman Baths on a pre-booked late-morning slot, lunch, the walk up through Queen Square to the Circus and the Royal Crescent, the Abbey or No.1 Royal Crescent in the afternoon, and a Thermae session in the late afternoon.
 
 | Last direct train, Bath Spa → Paddington | Departs | Arrives |
 | --- | --- | --- |
@@ -279,11 +276,11 @@ Little, and none of the headline attractions.
 
 - **Buying the train ticket on the day.** £75.90 walk-up against £47.60 in Advance singles is the biggest saving on this trip.
 - **Taking the £29.40 "cheapest" same-day fare** and discovering it goes via Salisbury in 3 hours 26 minutes.
-- **Visiting the Roman Baths at the weekend** when the same ticket is £2.50 cheaper on a weekday, and £3 cheaper from 1 November to 18 December.
+- **Visiting the Roman Baths at the weekend** when the same ticket is £3 cheaper on a weekday until 18 December 2026, and £2.50 cheaper after that.
 - **Turning up at Thermae Bath Spa expecting to walk in.** Walk-in availability on the day cannot be guaranteed.
 - **Booking a coach tour whose title names the Roman Baths.** Read the includes list — entry is usually an optional extra.
 
-Prices as at September 2026, with attraction prices updated October 2026.
+Prices as at September 2026, with Roman Baths and Thermae Bath Spa prices updated November 2026.
 
 ## Continue planning your day out
 

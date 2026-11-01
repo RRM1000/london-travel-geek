@@ -3,8 +3,8 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-06-29
-updatedAt: 2026-10-26
-reviewBy: 2026-11-09
+updatedAt: 2026-11-01
+reviewBy: 2026-11-06
 sites:
   - london
 canonicalSite: london
@@ -39,7 +39,7 @@ Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow.
 
 ---
 
-> 🎃 **Coming a week earlier?** Our [Halloween in London guide](/articles/halloween-london/) covers the same fortnight — the ticketed events, the free ones, and which of the scare attractions are worth the money.
+> 🎃 **Halloween 2026 has passed.** Our [Halloween in London guide](/articles/halloween-london/) is the record of the 2026 events, plus the ghost walks, creepy places and costume hire that stay open all year.
 
 > 🧭 **Plan the rest of it:** [Getting around on the night](/articles/getting-around-london-transport-guide/) · [Late-night eating](/articles/late-night-eating-london/) · [New Year's Eve fireworks](/articles/new-years-eve-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/)
 
@@ -47,10 +47,8 @@ Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow.
 
 | Date | What is on |
 | --- | --- |
-| **Sat 31 Oct** | Enfield Town Park Halloween Spooktacular |
-| **Sun 1 Nov** | Richmond Family Fireworks · Colets, Thames Ditton |
 | **Thu 5 Nov** | **Coram's Fields (free)** · Wimbledon Park · Stow |
-| **Fri 6 Nov** | Stow · Totteridge · Orpington Golf Centre · Farringtons School, Chislehurst · Esher Rugby |
+| **Fri 6 Nov** | Stow (sold out) · Totteridge · Orpington Golf Centre · Farringtons School, Chislehurst · Esher Rugby |
 | **Sat 7 Nov** | **The big one** — Alexandra Palace · **Battersea Park** · **Blackheath** · Danson Park · Morden Park · Harrow · Southgate · Ealing Cricket Club · Brentham Club · Dulwich · Beckenham · West Wickham · Chislehurst Rotary · Bromley High · Kempton Park · Chiswick Rugby Club · Lift Richmond Park · Stow (sold out) |
 | **Sun 8 Nov** | Alexandra Palace family day · **Battersea Park** · St Francis Monks Hill, Selsdon |
 
@@ -71,11 +69,11 @@ Also on site across the weekend: a bonfire, funfair, **ice skating** on the perm
 
 ![The Alexandra Palace bonfire fully ablaze, with a large crowd silhouetted against the flames](../../assets/articles/bonfire-night-london/alexandra-palace-bonfire.jpg)
 
-The event is now called the Fireworks and Drone Festival. Hundreds of choreographed drones, flown by Celestial, runners-up on Britain's Got Talent 2026, fly formations over the park before the fireworks take over.
+The event is called the Fireworks and Drone Festival. Hundreds of choreographed drones, flown by Celestial, runners-up on Britain's Got Talent 2026, fly formations over the park before the fireworks take over.
 
 ![A drone display forming a lit figure in the night sky above Alexandra Park, watched by a crowd](../../assets/articles/bonfire-night-london/alexandra-palace-drone-show.jpg)
 
-> ⚠️ **Tickets are on sale now.** Both nights are sold through [DICE](https://link.dice.fm/lb38fc167352), the ticket link on the festival's own site, and through Universe and Fever; the festival names those three as its only official partners. This event sells out.
+> ⚠️ **Tickets are on sale.** Both nights are sold through [DICE](https://link.dice.fm/lb38fc167352), the ticket link on the festival's own site, and through Universe and Fever; the festival names those three as its only official partners. This event sells out.
 
 **Alexandra Palace's own page says tickets start from £11.50, and the under-10 ticket is £6.50 including fees.** Universe lists tickets from £6.05 to £18.70 a night, fees included.
 
@@ -98,7 +96,7 @@ The event has **moved off Halloween** (2025 ran on 31 October and 1 November wit
 
 **Battersea Park is the other large paid display in London**, and it sells out in much the same way. [Time Out](https://www.timeout.com/london/things-to-do/bonfire-night-fireworks-displays-in-london) puts it at 50,000 ticketed spectators a night.
 
-**Saturday 7 and Sunday 8 November**, run by Wandsworth Council, with tickets on sale. On the Saturday gates open at 6pm, a Rudimental DJ set starts at 7.30pm, last entry is 8pm, the fireworks start at about 8.30pm and the show ends at 11pm, with a Disco Ceilidh party after the display. On the Sunday gates open at 4.30pm, the Lords of Lightning electrical show is at 5.45pm, last entry is 6.30pm, the fireworks start at about 7pm and the show ends at 9.30pm.
+**Saturday 7 and Sunday 8 November**, run by Wandsworth Council, with tickets on sale for both nights. On the Saturday gates open at 6pm, a Rudimental DJ set starts at 7.30pm, last entry is 8pm, the fireworks start at about 8.30pm and the show ends at 11pm, with a Disco Ceilidh party after the display. On the Sunday gates open at 4.30pm, the Lords of Lightning electrical show is at 5.45pm, last entry is 6.30pm, the fireworks start at about 7pm and the show ends at 9.30pm.
 
 **General admission (16+) is £16.70, rising to £18.10 for the final release; youth tickets (5–15) are £11.50, and under-5s go free but still need a ticket.** Tickets are advance only, sold through Kaboodle from the [Battersea Park Fireworks booking page](https://www.batterseaparkfireworks.com/booktickets) — there are no gate sales, no resale and no waiting list for sold-out dates. Bars and food stalls take cards only.
 
@@ -124,21 +122,19 @@ Under-18s must be with an adult, and adults need photo ID for the wristband if t
 
 | Display | Date | Prices | Notes |
 | --- | --- | --- | --- |
-| **[Stow Firework Spectacular](https://www.stowfireworkspectacular.co.uk/)**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Age 0–5 **£1** · Family **£27**, no booking fees | Two displays, 6pm and 8pm, one ticket covers both; last entry 8pm. **Saturday has sold out.** **Online only, no gate sales**, and babies need a ticket too. Sold out four years running. Wood Street station is three minutes' walk |
+| **[Stow Firework Spectacular](https://www.stowfireworkspectacular.co.uk/)**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Age 0–5 **£1** · Family **£27**, no booking fees | Two displays, 6pm and 8pm, one ticket covers both; last entry 8pm. **Friday and Saturday have sold out.** **Online only, no gate sales**, and babies need a ticket too. Sold out four years running. Wood Street station is three minutes' walk |
 | **[Harrow Fireworks + Diwali](https://harrowfireworks.co.uk/buy-tickets/)**, Byron Park | **Sat 7 Nov**, fireworks ~19:45 | Adult **£13.95** · Child 3–15 **£8.95** · Under-3 free · VIP **£39.95** · plus £1.50 a ticket (£2 for VIP) | Free entry noon–3pm for the Diwali show; paid from 3pm. The Diwali stage show and Bollywood acts run through the night. Online sales stop at noon on the day, then tickets are sold only at the gate. **Printed tickets only** — phones are not accepted. The VIP pack adds a queue jump, a ride token, a meal token, front-row viewing and a glow toy |
 | **[Southgate](https://www.eventbrite.co.uk/e/the-walker-ground-fireworks-2026-tickets-1997391432543)**, The Walker Ground | **Sat 7 Nov**, fireworks and drones 19:30 | Adult **£14** · Child up to 16 **£9.50** · Family (2 adults + 2 children) **£43** · Under-5 free, plus Eventbrite fees | Gates 17:00. The drone show is included in the ticket |
 | **[Dulwich Sports Club](https://www.eventbrite.co.uk/e/dulwich-firework-display-2026-kids-for-a-quid-tickets-1991896534154)** | **Sat 7 Nov**, fireworks ~19:00 | Adult **£13** · Junior **£8** · **Under-12s £1**, plus Eventbrite fees | "Kids for a Quid". Doors 17:00, live music from 17:30. **Advance tickets only, none on the night**, and no parking. Herne Hill, North Dulwich and West Dulwich stations are each ten minutes' walk |
 | **[Beckenham Charity Fireworks](https://www.beckenhamfireworks.com/)**, Croydon Road Recreation Ground | **Sat 7 Nov**, gates 16:30 | Adult 14+ **£18** · Child 5–13 **£6** · Under-5 free · Concession **£12.50**, plus fees (£19.08 an adult) | Two displays, 6pm for smaller children and 7.30pm. Run by the 5th Beckenham South Scout Group. **No gate sales.** Some food stalls and rides take cash only, and there is no cash machine in the park. Clock House station is 11 minutes' walk |
 | **[West Wickham Fireworks](http://westwickhamfireworks.com/where-to-buy-tickets/)**, Club Langley, Eden Park | **Sat 7 Nov**, gates 16:00, display 18:30 | Adult **£12** · Child under 18 **£6** · Family (2 adults + 2 children) **£30** · Under-5 free | A Rotary West Wickham charity display. **No gate sales.** Online sales are capped at 1,500 and close at 4pm on the day; the rest go through local schools and shops. E-tickets must be printed. No parking on site |
-| **[Chislehurst Rotary](https://www.chislehurstfireworks.com/)**, Chislehurst Recreation Ground | **Sat 7 Nov**, gates 17:00, fireworks 19:30 | To 1 Nov: adult **£14** · child **£9** · family (2 adults + 2 children) **£30**. From 2 Nov: **£18** · **£10** · **£40** | **Advance tickets only, none at the gate**; booking closes at 10am on 7 Nov. The organisers ask everyone to be inside by 7pm. Under-12s funfair, street food and a beer tent run by The Cockpit micropub. Elmstead Woods station is 15 to 20 minutes' walk |
+| **[Chislehurst Rotary](https://www.chislehurstfireworks.com/)**, Chislehurst Recreation Ground | **Sat 7 Nov**, gates 17:00, fireworks 19:30 | Adult **£18** · child **£10** · family (2 adults + 2 children) **£40** | **Advance tickets only, none at the gate**; booking closes at 10am on 7 Nov. The organisers ask everyone to be inside by 7pm. Under-12s funfair, street food and a beer tent run by The Cockpit micropub. Elmstead Woods station is 15 to 20 minutes' walk |
 | **[Bromley High School](https://www.eventbrite.co.uk/e/bromley-high-fireworks-2026-tickets-1992816335304)**, Blackbrook Lane | **Sat 7 Nov**, doors 17:45, fireworks 19:30 | Admission **£13**, or **£25** and **£33** with unlimited rides | Run by the school's Parents' Association, with a funfair, food stalls and a bar. Funfair and food run to 22:00. No refunds |
-| **[Danson Park](https://www.skiddle.com/e/42711388)**, Bexleyheath | **Sat 7 Nov**, gates 16:00, fireworks 20:00 | Adult 16+ **£15** · Child 5–15 **£9** · Concession (65+ or disabled) **£12** · Under-5 free · Family from **£22** (1 adult, 1 child), plus Skiddle fees | Back after the 2025 cancellation. A 20-minute display fired to music over Danson Lake, with entertainment from 17:15, a funfair and a street food village. Two adults and two children is **£42**. Early-bird tickets have sold out and the organiser says prices rise closer to the day. Capacity 21,000 |
-| **[Ealing Cricket Club](https://www.ticketor.com/ealingcc/tickets/ealing-cc-festival-of-fire-light-2026-366873)**, Corfton Road, W5 | **Sat 7 Nov**, gates 18:00, fireworks 19:45 | Early bird: adult **£13.50** · child 5–14 **£7.50** · family (2 adults + 3 children) **£33**. On the gate: **£17** and **£11**, no family tickets | The "Festival of Fire and Light", a Diwali-themed night. Kids' light quest and lantern parade from 18:00, live music and a DJ after the display. Ealing Broadway and North Ealing stations are a short walk |
+| **[Danson Park](https://www.skiddle.com/e/42711388)**, Bexleyheath | **Sat 7 Nov**, gates 16:00, fireworks 20:00 | Adult 16+ **£15** · Child 5–15 **£9** · Concession (65+ or disabled) **£12** · Under-5 free · Family from **£22** (1 adult, 1 child), plus Skiddle fees | Back after the 2025 cancellation. A 20-minute display fired to music over Danson Lake, with entertainment from 17:15, a funfair and a street food village. Two adults and two children is **£42**. Capacity 21,000 |
+| **[Ealing Cricket Club](https://www.ticketor.com/ealingcc/tickets/ealing-cc-festival-of-fire-light-2026-366873)**, Corfton Road, W5 | **Sat 7 Nov**, gates 18:00, fireworks 19:45 | Adult **£14.50** · child 5–14 **£8** · family (2 adults + 3 children) **£36**. On the gate: **£17** and **£11**, no family tickets | The "Festival of Fire and Light", a Diwali-themed night. Kids' light quest and lantern parade from 18:00, live music and a DJ after the display. Ealing Broadway and North Ealing stations are a short walk |
 | **[Brentham Club](https://www.ticketor.com/brenthamclub/tickets/fireworks-night-2026-367335)**, Meadvale Road, W5 | **Sat 7 Nov**, 17:00–21:00 | Adult 16+ **£13.50** · Child 3–15 **£7.50** · Family (2 adults + up to 3 children) **£33**, no booking fees | Online sales close at 15:20 on the day |
 | **[Kempton Park](https://www.thejockeyclub.co.uk/kempton/events-tickets/fireworks/)**, Sunbury | **Sat 7 Nov**, fireworks 19:30 | **£10** in advance | Gates 5pm, last entry 7pm. Funfair to 10pm. Kempton Park station from Waterloo |
 | **[Chiswick Rugby Club](https://www.chiswickrugby.co.uk/news/chiswick-rugby-community-fireworks-3000088.html)**, Dan Mason Drive, W4 | **Sat 7 Nov**, fireworks 19:30 | Adult **£12** · Child **£8** · Family **£30** | A charity display: £2 of each ticket, and £3 of a family ticket, goes to Maggie's. Doors 17:30, bonfire 18:30, live music from 20:00 |
-| **[Richmond Family Fireworks](https://www.rag-events.co.uk/major-public-events-at-the-rag/richmond-family-fireworks/)**, Richmond Athletic Ground | **Sun 1 Nov**, gates 16:30, fireworks 19:00 | Adult 16+ **£12.50** · Child 5–15 **£7.50** · Grandstand **£17.50** · Under-5 free · Parking **£10**, booked in advance | A Halloween-themed display choreographed to music. **No gate sales.** Sold out four years running, and the grandstand has already sold out for 2026. **Under-5s still need a ticket**. Last entry 18:30. Richmond station is under five minutes' walk |
-| **[Enfield Town Park](https://www.dugdaleartscentre.co.uk/whats-on/town-park-fireworks)** | **Sat 31 Oct**, fireworks 19:00 | Adult **£15.40** · Under-16 **£10.50** · Under-5 **£4.25** · Family (2 adults, 1 child) **£35.20**, plus £1.50 a ticket | Halloween theme with a fancy-dress competition. Gates 17:00, last entry 18:30. No gate sales and no digital tickets: **collect them from Dugdale Arts Centre, 39 London Road, by 5pm on Friday 30 October** |
 | **[Totteridge Fireworks Night](https://www.totteridgefireworks.co.uk/)**, Totteridge Millhillians Cricket Club, N20 | **Fri 6 Nov**, 17:00–23:30 | Tickets through the club's box office | The club's own night, in aid of the club and Rays of Sunshine |
 | **[Bonfire Night on the Thames](https://www.londonpartyboats.co.uk/tickets/bonfire-night-on-the-thames/229)** | **Sat 7 Nov**, boards 19:00 | Adult **£50** · Child **£45** | Boat from Festival Pier with buffet and DJ, viewing the Battersea display |
 
@@ -278,4 +274,4 @@ People still search for all of these.
 
 ---
 
-*Dates, prices and on-sale status as at 26 October 2026.*
+*Dates, prices and on-sale status as at 1 November 2026.*

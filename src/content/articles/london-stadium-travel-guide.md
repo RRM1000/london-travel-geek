@@ -5,8 +5,8 @@ description: "Why London Stadium has almost no parking of its own, which of Stra
 heroImage: "../../assets/articles/london-stadium-travel-guide/london-stadium-bowl.jpg"
 heroImageAlt: "Inside London Stadium during the Novuna London Athletics Meet, a packed crowd under the distinctive roof and \"LONDON STADIUM\" branding on the pitch-side screens"
 publishedAt: 2026-06-06
-updatedAt: 2026-10-26
-reviewBy: 2026-11-01
+updatedAt: 2026-11-01
+reviewBy: 2026-11-28
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -131,7 +131,7 @@ The Gold Top accessible car park reopens roughly 20–30 minutes after the final
 
 ## Match days, athletics and a very different kind of event
 
-**Football** is the frequent case: a roughly two-hour window with the hold-and-release egress described above. Away supporters have their own turnstile allocation and up to 19 wheelchair-accessible spaces in the visitors' section. The next home fixture is West Ham v West Bromwich Albion on Saturday 31 October 2026, kick-off 15:00.
+**Football** is the frequent case: a roughly two-hour window with the hold-and-release egress described above. Away supporters have their own turnstile allocation and up to 19 wheelchair-accessible spaces in the visitors' section. West Ham's Championship home games in November are Preston North End on Saturday 21 November 2026 and Stoke City on Saturday 28 November, both kicking off at 15:00.
 
 **Athletics** happens once a year: the Novuna London Athletics Meet ran on 18 July 2026 and returns on **17 July 2027**. It's a long afternoon-into-evening session, not a 90-minute match.
 

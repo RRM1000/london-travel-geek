@@ -3,8 +3,8 @@ title: "Kids Eat Free in London: Every Restaurant Deal and Its Small Print"
 seoTitle: "Kids Eat Free London 2026: Every Deal"
 description: "Every kids-eat-free and kids-eat-for-£1 offer with a London branch: the exact terms, the adult spend you have to make, the age limits, and the ten central London Bella Italia branches excluded by name."
 publishedAt: 2026-09-05
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2026-12-18
 sites:
   - london
 canonicalSite: london
@@ -34,7 +34,7 @@ faq:
 
 A free children's meal in London almost always costs you an adult main course at full price, and at ten of Bella Italia's eleven London restaurants it is not available at any price. **Kids eat free is mostly an outer-London offer**, and the small print decides whether you get it.
 
-> 💡 **The Short Version:** **Bella Italia** runs kids eat free Sunday to Thursday all year (every day until 1 November this half term), but its terms exclude ten of its eleven London restaurants, leaving only Croydon. **Morrisons Café** runs seven days a week with a £5 adult main, though only one of the ten Morrisons nearest Covent Garden has a café. **Prezzo's £1.99-a-month Kids Club** feeds up to three children free on one adult main. **IKEA charges 95p** for a kids' meal with no adult purchase at all. And if you are staying the night, **Premier Inn** feeds two under-16s free at breakfast.
+> 💡 **The Short Version:** **Bella Italia** runs kids eat free Sunday to Thursday outside school holidays, but its terms exclude ten of its eleven London restaurants, leaving only Croydon. **Morrisons Café** runs seven days a week with a £5 adult main, though only one of the ten Morrisons nearest Covent Garden has a café. **Prezzo's £1.99-a-month Kids Club** feeds up to three children free on one adult main. **IKEA charges 95p** for a kids' meal with no adult purchase at all. And if you are staying the night, **Premier Inn** feeds two under-16s free at breakfast.
 
 > ⚠️ **School-holiday offers disappear when term restarts.** Several chains — ASK Italian, Zizzi, TGI Fridays and Toby Carvery among them — run kids-eat-free only in school holidays. They come and go on a few weeks' notice, so check the operator's own page in the fortnight before each half term.
 
@@ -56,7 +56,7 @@ Three different things are sold as kids eat free:
 
 | Where | Offer | Age | When | Adult condition | Central London |
 | --- | --- | --- | --- | --- | --- |
-| Bella Italia | 3 courses + drink free | Not stated | Sun–Thu, all year (daily to 1 Nov) | 1 adult main per child | No — 10 branches excluded |
+| Bella Italia | 3 courses + drink free | Not stated | Sun–Thu outside school holidays, daily in them | 1 adult main per child | No — 10 branches excluded |
 | Las Iguanas | Main + 2 sides + dessert free | Under 12 | 7 days, all year | 1 à la carte main per child | No — 2 branches, both outer |
 | Prezzo Kids Club | 3 courses free, up to 3 children | 2 to 12 | 7 days, all year | 1 full-price main + £1.99/month | Yes — check the app finder |
 | Morrisons Café | Meal + drink free, worth £4.00 | Under 16 | 7 days, all year | Adult main £5 or over | No — nearest café Acton W3 |
@@ -75,7 +75,7 @@ Three different things are sold as kids eat free:
 
 ### Bella Italia — and its exclusion list
 
-**Three courses and a drink free with one adult main per child, Sunday to Thursday outside school holidays and every day during them (the October 2026 half term runs to 1 November).** No voucher, no app: tell the server when you order and remind them at the bill. Dine-in only, and it does not combine with any other offer, set menu, voucher or Tesco Clubcard voucher.
+**Three courses and a drink free with one adult main per child, Sunday to Thursday outside school holidays and every day during them (in England it ran every day from 17 October to 1 November 2026).** No voucher, no app: tell the server when you order and remind them at the bill. Dine-in only, and it does not combine with any other offer, set menu, voucher or Tesco Clubcard voucher.
 
 Then read the terms. Bella Italia's own page excludes **Cranbourn Street, Paddington, Irving Street, Queensway 110, Queensway 55, St Martins Lane, Strand, South Kensington, Shaftesbury Avenue and Wellington Street**. Bella Italia has eleven London restaurants. **Croydon — Valley Leisure Park, CR0 4YA — is the only one the exclusion list does not name.**
 
@@ -111,7 +111,7 @@ Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Ho
 
 ## The two that survive the school holidays
 
-Most of the big chains run kids-eat-free as a school-holiday campaign, appearing a week or two before half term and withdrawn the day term restarts. For autumn half term (most London boroughs run **Monday 26 to Friday 30 October 2026**), **ASK Italian** has kids eat free every day in October through the ASK Perks app, **Zizzi** has a free Bambini meal with an adult main from **18 October to 1 November** (not Saturdays), and **TGI Fridays** has it for Stripes Rewards members in October. Expect the next round from **Saturday 19 December**, then **February half term on 15 to 19 February 2027**. Academies and individual boroughs shift by a day or two.
+Most of the big chains run kids-eat-free as a school-holiday campaign, appearing a week or two before half term and withdrawn the day term restarts. For autumn half term 2026 (most London boroughs ran **Monday 26 to Friday 30 October**), **ASK Italian** had kids eat free every day in October through the ASK Perks app and **Zizzi** gave a free Bambini meal with an adult main from **18 October to 1 November** (not Saturdays). **TGI Fridays** lists kids eat free for Stripes Rewards members for the festive season on its offers page. The next school holidays begin on **Saturday 19 December**, then **February half term is 15 to 19 February 2027**. Academies and individual boroughs shift by a day or two.
 
 Two things run without a published end date.
 

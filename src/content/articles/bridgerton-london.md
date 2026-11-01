@@ -3,7 +3,7 @@ title: "Bridgerton in London: Everywhere a Fan Can Actually Go"
 seoTitle: "Bridgerton Filming Locations London: Prices & Tours"
 description: "Ranger's House is free to view, with its interior open on select dates in 2027. Castle Howard played the Duke of Hastings's estate. Bath's Assembly Rooms are closed until 2027. Locations, prices and the Bridgerton tours you can book."
 publishedAt: 2026-09-15
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-28
 sites:
   - london
@@ -23,7 +23,7 @@ faq:
   - q: "Where is the real Bridgerton family house?"
     a: "The exterior is Ranger's House in Greenwich Park, Chesterfield Walk, SE10 8QX. English Heritage describes it as the exterior of the Bridgerton home. The house interior opens on select dates in 2027; the exterior is free any day. For series four, Benedict Bridgerton's terrace scene and the house's below-stairs kitchen were filmed at Ham House in Richmond, a separate National Trust property that doubles as three different addresses in the show."
   - q: "Can you visit Castle Howard, the Duke of Hastings's estate?"
-    a: "Yes. Castle Howard's own website says it 'doubled as Clyvedon Castle, the Duke of Hastings' home' in series one, and its holiday cottages sit in Coneysthorpe, used as Clyvedon village. House and Gardens tickets run to 31 October; the grounds are open 10am-5pm and the house 10am-4pm, a self-guided visit of 40 to 60 minutes. Allow at least two hours each way to York, plus a bus or taxi on to the house."
+    a: "Yes. Castle Howard's own website says it 'doubled as Clyvedon Castle, the Duke of Hastings' home' in series one, and its holiday cottages sit in Coneysthorpe, used as Clyvedon village. The House and Gardens season ended on 31 October and the house reopens on 12 November for its Christmas event, which runs to 3 January 2027; a self-guided visit takes 40 to 60 minutes. Allow at least two hours each way to York, plus a bus or taxi on to the house."
   - q: "Is there a Bridgerton walking tour in London?"
     a: "Yes. A 2½-hour Bridgerton walking tour of Greenwich costs £27 on GetYourGuide, taking in the Queen's House and the Royal Observatory, which is closed from 2 November 2026 to visitors. The best-reviewed Bridgerton tours are in Bath: two walking tours from £20, with 408 and 519 reviews."
   - q: "Can the public visit Lancaster House, used for St James's Palace?"
@@ -170,7 +170,7 @@ Most of the grand interiors were filmed outside London. Each needs a full day.
 | Wilton House, near Salisbury, Wiltshire | Hyde Park, Hastings House interior, St James's throne room (S1) | Open summer months only; still a private family home |
 | Hatfield House, Hertfordshire | Featheringtons' interior (S1); Queen Charlotte | House and gardens closed for the season; park open weekends |
 | Painshill, Cobham, Surrey | Garden scenes (S1) | Open daily, 10am–4pm |
-| Castle Howard, North Yorkshire | Clyvedon Castle, the Duke of Hastings's estate (S1) | House and Gardens ticket to 31 Oct; Christmas event from 12 Nov |
+| Castle Howard, North Yorkshire | Clyvedon Castle, the Duke of Hastings's estate (S1) | House and Gardens season ended 31 Oct; Christmas event from 12 Nov |
 | Blenheim Palace, Oxfordshire | Buckingham House (S3) | Park and Gardens from £34 adult |
 | Basildon Park, Berkshire | Featherington garden (S2); Lady Tilley Arnold's home (S3) | £20 house and garden |
 | Claydon House, Buckinghamshire | The wedding breakfast (S3) | £12 house and garden; closed Tue–Thu |
@@ -208,7 +208,7 @@ A landscape garden of follies, a Gothic Temple and a Crystal Grotto, used for **
 
 Castle Howard's own website states that the house **"doubled as Clyvedon Castle, the Duke of Hastings' home that he shares with his new wife Daphne."** Its holiday cottages sit in the real village of **Coneysthorpe**, used on screen as Clyvedon village.
 
-**House and Gardens tickets run to 31 October**, and the house reopens on 12 November for its Christmas event, which runs to 3 January 2027. Grounds 10am–5pm (last entry 4pm), house 10am–4pm (last entry 3pm), a self-guided visit of 40 to 60 minutes. Budget at least two hours each way on the train to York, plus a bus or taxi on to the house, which makes it a very long single day and better as an overnight. Worth it only if you want to see Castle Howard itself.
+**The House and Gardens season ended on 31 October**, and the house reopens on 12 November for its Christmas event, which runs to 3 January 2027. A self-guided visit takes 40 to 60 minutes. Budget at least two hours each way on the train to York, plus a bus or taxi on to the house, which makes it a very long single day and better as an overnight. Worth it only if you want to see Castle Howard itself.
 
 ### Blenheim Palace, Oxfordshire
 

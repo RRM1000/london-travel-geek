@@ -1,10 +1,10 @@
 ---
 title: "Halloween in London: Events, Parties and Where to Get a Costume"
 seoTitle: "Halloween in London 2026: Events, Parties and Costumes"
-description: "What to do in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours — plus where you can still hire a proper costume."
+description: "What ran in London for Halloween 2026, from scare attractions and light trails to club nights and ghost tours, plus the year-round ghost walks, creepy museums and costume hire."
 publishedAt: 2026-06-30
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2027-09-01
 sites:
   - london
 canonicalSite: london
@@ -17,37 +17,37 @@ tags:
   - free things to do
 draft: false
 faq:
-  - q: "When is Halloween 2026 and does it fall on a weekend?"
-    a: "Halloween 2026 is Saturday 31 October. Club nights, parties and one-off events will be at full strength, and the popular ones sell out earlier than in years when it lands midweek."
+  - q: "When is Halloween and does it fall on a weekend?"
+    a: "Halloween 2026 was Saturday 31 October, so club nights, parties and one-off events ran at full strength. Halloween 2027 falls on Sunday 31 October."
   - q: "Where can you hire a Halloween costume in London?"
     a: "Two places will hire to a member of the public: Prangsta Costumiers in New Cross, which is appointment-only and charges £130–£350 plus VAT for a full costume with a £300 deposit, and Costume Studio in Islington, which takes walk-ins and is happy to do a single costume. Angels on Shaftesbury Avenue closed in 2014."
   - q: "Is the London Dungeon worth it for Halloween?"
-    a: "Its Halloween show, Curse of the Mummy, runs from 17 October to 1 November 2026 and is included in a standard London Dungeon ticket, which starts from £27 for an adult and £22 for a child aged 5 to 15 when booked online. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
+    a: "Its 2026 Halloween show, Curse of the Mummy, ran from 17 October to 1 November 2026 and was included in a standard London Dungeon ticket, which started from £27 for an adult and £22 for a child aged 5 to 15 when booked online. It does have a permanent Jack the Ripper scare-actor scene, but for a dedicated Ripper experience the long-running walking tours — Jack the Ripper Walking Tour by London Walks, or The Jack the Ripper Tour with its Ripper-Vision projections — are the better-reviewed choice."
 heroImage: "../../assets/articles/halloween-london/beetlejuice-curtain-call.jpg"
 heroImageAlt: "The cast of Beetlejuice taking their curtain call at the Prince Edward Theatre, lit in green and blue, with the Maitland house tilting above them and the sandworm reared up at the side of the stage"
 ---
 
-**Halloween 2026 lands on a Saturday**, so scare attractions, club nights, ghost walks and one-off parties all run at full strength, and the best of them will sell out earlier than usual. Here's what's worth booking, from genuine scares to where to find a costume at this notice.
+**Halloween 2026 fell on a Saturday**, so scare attractions, club nights, ghost walks and one-off parties all ran at full strength. This page is the 2026 record: every Halloween event below ran between 9 October and 1 November 2026 and has finished (the West End shows keep their own run dates), and its prices, age limits and booking rules show what the same organisers charged and asked. The ghost tours, creepy places and costume hire further down are standing information. Halloween 2027 falls on Sunday 31 October.
 
 ---
 
-> 🧭 **Plan the rest of it:** [Bonfire Night, the week after](/articles/bonfire-night-london/) · [Immersive experiences](/articles/immersive-experiences-london/) · [London theatre guide](/articles/london-theatre-guide/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/)
+> 🧭 **Plan the rest of it:** [Bonfire Night](/articles/bonfire-night-london/) · [Immersive experiences](/articles/immersive-experiences-london/) · [London theatre guide](/articles/london-theatre-guide/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/)
 
-## Scare attractions
+## Scare attractions in 2026
 
-Most of London's big scare attractions are a train ride out: Thorpe Park is in Surrey, Tulleys is in Sussex, and Chessington is the Zone 6 exception. Inside the city there are two walk-through attractions, in Greenwich and Bethnal Green.
+Most of London's big scare attractions are a train ride out: Thorpe Park is in Surrey, Tulleys is in Sussex, and Chessington is the Zone 6 exception. Inside the city in 2026 there were two walk-through attractions, in Greenwich and Bethnal Green.
 
 ### The Nightmare Realm, Avery Hill Mansion
 
 The Gatehouse to Avery Hill, Bexley Road, London SE9 2PQ. **9 October to 1 November 2026**, on **18 selected nights** through the season.
 
-An Irish attraction making its first London appearance, built inside a Victorian mansion in Greenwich. Your ticket covers two headline walk-through horror experiences, Avery Hill Asylum and Sundown Manor, plus Halloween Town, an outdoor village of performers, and five hidden "secret" experiences. Allow **at least two hours**, arrive 15 minutes before your slot, and book an earlier slot: the headline attractions start closing from 10pm and everything shuts by 10.30pm.
+An Irish attraction that made its first London appearance in 2026, built inside a Victorian mansion in Greenwich. Your ticket covers two headline walk-through horror experiences, Avery Hill Asylum and Sundown Manor, plus Halloween Town, an outdoor village of performers, and five hidden "secret" experiences. Allow **at least two hours**, arrive 15 minutes before your slot, and book an earlier slot: the headline attractions start closing from 10pm and everything shuts by 10.30pm.
 
 **Recommended for ages 13 and over**; under-16s need a responsible adult with them. It runs a strict no-touch policy, bans alcohol and full-face masks, and warns of strobe lighting, theatrical smoke and sudden scares.
 
 **Getting there:** Jubilee line to North Greenwich, then the 132 bus (a two-to-five-minute walk from the stop), or Southeastern rail to New Eltham or Falconwood, both a 15–20 minute walk. Free on-site parking if you are driving.
 
-Fridays, Saturdays and the final week before Halloween are peak nights and sell out first; Sunday to Thursday is off-peak. Tickets are sold through the official ticketing site linked from [The Nightmare Realm's site](https://thenightmarerealm.com/).
+Fridays, Saturdays and the final week before Halloween were peak nights and sold out first; Sunday to Thursday was off-peak. [The Nightmare Realm's site](https://thenightmarerealm.com/) links to the official ticketing site.
 
 ### Hell's Waiting Room, The Curiosity Shop, Bethnal Green
 
@@ -55,35 +55,35 @@ Fridays, Saturdays and the final week before Halloween are peak nights and sell 
 
 A live-actor Halloween walk-through behind a curiosity shop at 261 Paradise Row, E2 9LE, run by ScreamWorks. It runs through nine rooms of the underworld's overflow queue: a medical department where you may be sealed in a coffin, a canteen serving your "last meal", a court of moral trials and a descent to the lower levels. Expect darkness, crawl spaces, one-on-one encounters and sudden scares.
 
-**Recommended for ages 12 and over**; under-16s need an adult who stays with them throughout. ScreamWorks calls it an intense horror experience, not a family attraction, and it is not suitable for anyone pregnant or with epilepsy. Standard tickets queue first come, first served, with groups of up to eight admitted every five minutes; Fast Track tickets cut the wait. [Book with ScreamWorks](https://screamworks.co.uk/experience-hells-waiting-room-scare-maze/).
+**Recommended for ages 12 and over**; under-16s need an adult who stays with them throughout. ScreamWorks calls it an intense horror experience, not a family attraction, and it is not suitable for anyone pregnant or with epilepsy. Standard tickets queue first come, first served, with groups of up to eight admitted every five minutes; Fast Track tickets cut the wait. [ScreamWorks' page for the experience](https://screamworks.co.uk/experience-hells-waiting-room-scare-maze/).
 
 For the traditional theme-park scare, three are worth the train fare.
 
 ### Thorpe Park: Fright Nights
 
-Chertsey, Surrey, KT16 8PN. Runs **15 October to 1 November 2026**, park open 10am–9pm on event days. Five mazes for 2026 — Tenement is new — plus scare zones including Rebel Ball and The Crows.
+Chertsey, Surrey, KT16 8PN. Ran **15 October to 1 November 2026**, park open 10am–9pm on event days. Five mazes for 2026 — Tenement is new — plus scare zones including Rebel Ball and The Crows.
 
-**Book online in advance** on [Thorpe Park's own site](https://www.thorpepark.com/explore/events/halloween-fright-nights/): park entry from **£39** (£66 at the gate), or entry plus the Fearsome Four maze package from **£71** (£98 at the gate). That package covers four of the five mazes, not the new Tenement, which is sold separately. Popular dates sell out, and **Saturday 31 October, Halloween itself, is the one to book earliest.** Mazes are recommended for **13 and over**; The Conjuring 4D Experience needs **15 and over**.
+Online prices on [Thorpe Park's own site](https://www.thorpepark.com/explore/events/halloween-fright-nights/) started at **£39** for park entry (£66 at the gate), or **£71** (£98 at the gate) for entry plus the Fearsome Four maze package. That package covered four of the five mazes, not the new Tenement, which was sold separately. Popular dates sold out, and **Saturday 31 October, Halloween itself, was the date to book earliest.** Mazes are recommended for **13 and over**; The Conjuring 4D Experience needs **15 and over**.
 
 **Getting there:** train from Waterloo to Staines, then the 950 bus to the park. Contactless works to Staines but Oyster does not, and the 950 takes cash or contactless only. Our [Thorpe Park guide](/articles/thorpe-park-day-trip/) has the times, the fares and every ride's height limit.
 
 ### Chessington: Howl'o'ween
 
-Leatherhead Road, Chessington, KT9 2NE. Runs **17 October to 1 November 2026**. The family-friendly version: no scare mazes, just Halloween shows and a "Vampire's Lair" zone, pitched at all ages. The Enchanted Hollow trick-or-treat trail is an extra, from £9 a head.
+Leatherhead Road, Chessington, KT9 2NE. Ran **17 October to 1 November 2026**. The family-friendly version: no scare mazes, just Halloween shows and a "Vampire's Lair" zone, pitched at all ages. The Enchanted Hollow trick-or-treat trail is an extra, from £9 a head.
 
-Advance day tickets from **£34** (£66 at the gate); under-90cm children go free. Book on [Chessington's own site](https://www.chessington.com/explore/events/halloween/).
+Advance day tickets started at **£34** (£66 at the gate); under-90cm children went free. [Chessington's own site](https://www.chessington.com/explore/events/halloween/) has the current listing.
 
 **Getting there:** trains from Waterloo, Clapham Junction and Wimbledon run to Chessington South, in Zone 6 so Oyster works, about 35 minutes from central London and a 10-minute walk from the station. Our [Chessington guide](/articles/chessington-world-of-adventures-day-trip/) has the rest: heights, Fastrack and the days it is shut.
 
-**Thorpe Park or Chessington is a choice about age.** Thorpe Park's Fright Nights is built for teenagers and adults (mazes 13 and over), with actors who chase you; Chessington has none of that, and the theme park rides run as normal alongside the Halloween dressing. With children under about twelve, choose Chessington. For younger children still, [LEGOLAND Windsor's Brick or Treat](/articles/legoland-windsor-day-trip/) (from £37) and [Paultons Park's Halloween Spooktacular](/articles/paultons-park-day-trip/) (in the normal ticket, with late openings to 7.30pm) dress up the rides with shows and characters, not scares.
+**Thorpe Park or Chessington is a choice about age.** Thorpe Park's Fright Nights is built for teenagers and adults (mazes 13 and over), with actors who chase you; Chessington has none of that, and the theme park rides run as normal alongside the Halloween dressing. With children under about twelve, choose Chessington. For younger children still, [LEGOLAND Windsor's Brick or Treat](/articles/legoland-windsor-day-trip/) (from £37 in 2026) and [Paultons Park's Halloween Spooktacular](/articles/paultons-park-day-trip/) (in the normal ticket, with late openings to 7.30pm) dress up the rides with shows and characters, not scares.
 
 Chessington is the easier journey from central London. Thorpe Park needs the Staines change and a bus, so budget most of a day.
 
 ### Tulleys Farm: Shocktober Fest
 
-Crawley, West Sussex, near Gatwick. Billed as Europe's largest scream park. Open on **26 nights from 2 October to 1 November 2026**, every night from 20 October to the finale night on 1 November. Gates open at 4.30pm and the haunts run 5.30pm–11.30pm.
+Crawley, West Sussex, near Gatwick. Billed as Europe's largest scream park. Opened on **26 nights from 2 October to 1 November 2026**, every night from 20 October to the finale night on 1 November. Gates open at 4.30pm and the haunts run 5.30pm–11.30pm.
 
-Book on [Tulleys' own site](https://www.shocktoberfest.co.uk/). Prices are dynamic and rise toward peak dates: the standard pass starts at **£42.95**, and Fast Track bundles start at £62.95. This is a **16+ event**: expect strong language, adult themes and one show (Carnevil Cabaret) that admits nobody under 16. Under-16s who are admitted to the rest of the park need a paying adult with them, and 16–21-year-olds need photo ID at the gate.
+Tickets were sold on [Tulleys' own site](https://www.shocktoberfest.co.uk/). Prices were dynamic and rose toward peak dates: the standard pass started at **£42.95**, and Fast Track bundles at £62.95. This is a **16+ event**: expect strong language, adult themes and one show (Carnevil Cabaret) that admits nobody under 16. Under-16s who are admitted to the rest of the park need a paying adult with them, and 16–21-year-olds need photo ID at the gate.
 
 ### Tulleys Pumpkin Festival
 
@@ -91,21 +91,21 @@ Book on [Tulleys' own site](https://www.shocktoberfest.co.uk/). Prices are dynam
 
 The daytime, family side of the same farm in Crawley (sat-nav RH10 4PD, Turners Hill Road): a field of 1.5 million pumpkins and gourds, a wheelbarrow per group, and a new Pumpkin Valley of giant pumpkin sculptures for 2026, plus street theatre, a vintage carousel and a 33-metre observation wheel. You pay for each pumpkin you pick by its size ring, from **£1 to £25**, on top of the entry ticket you book online. Wear wellies; the fields are open to the weather. Under-16s need a paying adult.
 
-On Sunday 1 November the farm reopens from 4pm to 11pm for the Pumpkin Nights fireworks finale, with fireworks at 7.15pm. Tickets and dates are on [Tulleys Pumpkin Festival's site](https://www.pumpkinfarm.co.uk/dates-times).
+On Sunday 1 November the farm reopened from 4pm to 11pm for the Pumpkin Nights fireworks finale, with fireworks at 7.15pm. [Tulleys Pumpkin Festival's site](https://www.pumpkinfarm.co.uk/dates-times) lists the dates.
 
 ---
 
-## Cinema
+## Cinema in 2026
 
-**The Prince Charles Cinema** in Leicester Square is the main event. Its **HorrOctober** season runs across the whole of October 2026, building to **Saturday 31 October**: a Halloween Marathon running the first six *Halloween* films back to back from 11.15pm, with a second screening from 11.45pm, **18+**. The original 1978 *Halloween* also plays there at 3.10pm that day, a screening that has sold out. Doors are shut to new arrivals after midnight on the marathon nights.
+**The Prince Charles Cinema** in Leicester Square was the main event. Its **HorrOctober** season ran across the whole of October 2026, ending on **Saturday 31 October** with a Halloween Marathon of the first six *Halloween* films back to back from 11.15pm, with a second screening from 11.45pm, **18+**. The original 1978 *Halloween* also played there at 3.10pm that day and sold out. Doors were shut to new arrivals after midnight on the marathon nights.
 
-Smaller Halloween-night screenings: **Genesis Cinema** on Mile End Road shows the original 1978 *Halloween* at 9pm on the night itself, and **Rio Cinema** in Dalston runs Queer Horror Nights, a midnight *Rocky Horror Picture Show* sing-along with a live Shadow Cabaret Cast on 31 October, **18+**, with the bar open from 10.30pm.
+Smaller Halloween-night screenings: **Genesis Cinema** on Mile End Road showed the original 1978 *Halloween* at 9pm on the night itself, and **Rio Cinema** in Dalston ran Queer Horror Nights, a midnight *Rocky Horror Picture Show* sing-along with a live Shadow Cabaret Cast on 31 October, **18+**, with the bar open from 10.30pm.
 
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-london-ghost-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London ghost tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## Theatre and immersive experiences
+## Theatre and immersive experiences in 2026
 
 ### Paranormal Activity, Ambassadors Theatre
 
@@ -113,7 +113,7 @@ Smaller Halloween-night screenings: **Genesis Cinema** on Mile End Road shows th
 
 A stage adaptation of the horror film franchise, booking at the Ambassadors until **27 February 2027**.
 
-**On Halloween night, Saturday 31 October, there's an extra late performance at 10.30pm**, on top of the 2.30pm matinee and an evening show brought forward to 7pm. Tickets for the late show start at £36. The show runs 2 hours 10 minutes with an interval, so it lets out around 12.40am; the Night Tube runs on Saturday nights from Leicester Square, two minutes' walk away, on the Northern line only that night: **the Piccadilly line is closed from 1am on Saturday 31 October to the end of Sunday 1 November, Night Tube included**. The theatre advises caution for under-15s. [Book the 31 October performances at the Ambassadors box office](https://www.atgtickets.com/shows/paranormal-activity/ambassadors-theatre/calendar/2026-10-31/).
+**On Halloween night, Saturday 31 October 2026, there was an extra late performance at 10.30pm**, on top of the 2.30pm matinee and an evening show brought forward to 7pm. Tickets for the late show started at £36. The show runs 2 hours 10 minutes with an interval. The theatre advises caution for under-15s. [Paranormal Activity at the Ambassadors](https://www.atgtickets.com/shows/paranormal-activity/ambassadors-theatre/) has the booking calendar.
 
 ### Stranger Things: The First Shadow, Phoenix Theatre
 
@@ -131,7 +131,7 @@ Performances run Tuesday to Saturday at 7pm, with matinees Friday and Saturday a
 
 The stage musical of the film, a **limited West End engagement** with its final performance on **2 January 2027**.
 
-**Look out for Netherworld performances**, a cheaper way in: fixed pricing at **£30, £40 or £50** a ticket, rather than the usual dynamic pricing that climbs closer to the show and toward Halloween itself. They sell out first.
+**Look out for Netherworld performances**, a cheaper way in: fixed pricing at **£30, £40 or £50** a ticket, rather than the usual dynamic pricing that climbs closer to the performance. They sold out first.
 
 It is a comedy musical with a ghost in it, not a horror show, and fine for children who would not sit through the others.
 
@@ -141,37 +141,37 @@ It is a comedy musical with a ghost in it, not a horror show, and fine for child
 
 *13 to 31 October 2026 · eleven shows · tickets £13 to £18*
 
-**London's horror theatre festival, in its fifth year, in the theatre above the Old Red Lion pub at 418 St John Street, near Angel station.** Eleven shows, each playing for a few nights only, and most run about an hour, from ghost stories and folk horror to black comedy. Prices on the venue's site include the booking fee. [See the GrimFest programme](https://weareoldred.co.uk/whats-on/grimfest/).
+**London's horror theatre festival, in its fifth year, in the theatre above the Old Red Lion pub at 418 St John Street, near Angel station.** Eleven shows, each playing for a few nights only, and most ran about an hour, from ghost stories and folk horror to black comedy. Prices on the venue's site include the booking fee. [See the GrimFest programme](https://weareoldred.co.uk/whats-on/grimfest/).
 
 ### The Séance, Greenwich Theatre
 
 *Saturday 31 October 2026 · 7.30pm · 1 hour 40 minutes · ages 12+*
 
-A theatrical Halloween experience in the theatre's main house at Greenwich Theatre, Crooms Hill, SE10 8ES. Four siblings gather at the family home after their father's suspicious death, and a séance that starts as a game turns darker. One performance, on Halloween night. [Book via Greenwich Theatre](https://greenwichtheatre.org.uk/events/the-seance/).
+A theatrical Halloween experience in the theatre's main house at Greenwich Theatre, Crooms Hill, SE10 8ES. Four siblings gather at the family home after their father's suspicious death, and a séance that starts as a game turns darker. One performance, on Halloween night 2026. [Event page at Greenwich Theatre](https://greenwichtheatre.org.uk/events/the-seance/).
 
 ### A Ghost Story by Candlelight, Dennis Severs' House
 
 *29, 30 and 31 October 2026 · 6pm or 8pm · £58 plus a £2 booking fee · ages 12+*
 
-Walter de la Mare's short story "Out of the Deep", read by a flickering fire in the candlelit Withdrawing Room of 18 Folgate Street, Spitalfields, E1 6BX. You are served a glass of Crémant or a soft drink in the Dining Room first, and the reading (performed by Lisa D'Agostino, with music and sound by Dominic Stokes) is limited to **16 guests**. Latecomers cannot be admitted, tickets are non-refundable and there is no photography. [Book via Dennis Severs' House](https://www.dennissevershouse.co.uk/event/a-ghost-story-by-candlelight).
+Walter de la Mare's short story "Out of the Deep", read by a flickering fire in the candlelit Withdrawing Room of 18 Folgate Street, Spitalfields, E1 6BX. You are served a glass of Crémant or a soft drink in the Dining Room first, and the reading (performed by Lisa D'Agostino, with music and sound by Dominic Stokes) is limited to **16 guests**. Latecomers cannot be admitted, tickets are non-refundable and there is no photography. [Event page at Dennis Severs' House](https://www.dennissevershouse.co.uk/event/a-ghost-story-by-candlelight).
 
 ### Dante's Inferno, The Mandrake
 
 *Saturday 31 October 2026 · 8.30pm to 3am, last entry 11pm · 21+ · from £160*
 
-A hotel-wide immersive night at the Mandrake, 20–21 Newman Street, Fitzrovia, W1T 1PG: nine circles of Hell told through installations, opera, live performance and tableaux vivants, with DJs until 3am. **21+, with government photo ID checked at the door.** The dress code is "Dolce Morte", and there are strobes, flashing lights and loud sound throughout. An optional nine-course dinner runs from 7.30pm to 10pm with a strict last entry of 8pm; VIP tables carry a minimum spend of £1,500 to £3,000, and stay packages are on sale, though The Ascension, one of the three, has sold out. [Book via the Mandrake](https://themandrake.com/halloween/).
+A hotel-wide immersive night at the Mandrake, 20–21 Newman Street, Fitzrovia, W1T 1PG: nine circles of Hell told through installations, opera, live performance and tableaux vivants, with DJs until 3am. **21+, with government photo ID checked at the door.** The dress code is "Dolce Morte", and there are strobes, flashing lights and loud sound throughout. An optional nine-course dinner runs from 7.30pm to 10pm with a strict last entry of 8pm; VIP tables carried a minimum spend of £1,500 to £3,000. [Event page at Mandrake](https://themandrake.com/halloween/).
 
 ### Duskveil, The Arcanist's Tavern
 
 *Saturday 31 October 2026 · 6.30pm to 1am · 18+ · from £62.40 · Hackney Road, Shoreditch*
 
-A vampire-masquerade ball in a tabletop-gaming café at 87–91 Hackney Road, E2 8FE. The ticket covers a buffet at the start of the night (vegetarian and vegan options included), a welcome cocktail, period dance lessons, a mystery trail through the vampire court's schemes, live music, tarot readings and social-deduction games, with actors playing the court throughout. The dress code is vampire-inspired (aristocratic, Regency, gothic) and encouraged, not enforced. Optional live scenes include simulated blood and weaponry. Tickets are sold through [Design My Night](https://www.designmynight.com/london/whats-on/activity/duskveil-a-vampire-masquerade-ball?t=tickets), and all sales are final. Hoxton station is the nearest.
+A vampire-masquerade ball in a tabletop-gaming café at 87–91 Hackney Road, E2 8FE. The ticket covers a buffet at the start of the night (vegetarian and vegan options included), a welcome cocktail, period dance lessons, a mystery trail through the vampire court's schemes, live music, tarot readings and social-deduction games, with actors playing the court throughout. The dress code is vampire-inspired (aristocratic, Regency, gothic) and encouraged, not enforced. Optional live scenes include simulated blood and weaponry. Tickets were sold through [Design My Night](https://www.designmynight.com/london/whats-on/activity/duskveil-a-vampire-masquerade-ball?t=tickets), and all sales were final. Hoxton station is the nearest.
 
 ### Halloween Ball, The Candlelight Club
 
 *Saturday 31 October 2026 · 7pm to 1am · 18+ · secret location in south London*
 
-A 1920s speakeasy party in an abandoned ballroom whose location is emailed after you buy. Sinister songbird Elise Roth and her band the High Spirits play 1920s and 1930s songs, Suri Sumatra performs burlesque, and there is a resident tarot reader. The dress code is Jazz Age with a Halloween twist. The entry ticket covers entry and entertainment only; a table, a three-course dinner and a £50 wristband for unlimited drinks until 11pm are optional extras. Tickets go through Design My Night, which adds an admin fee, and the club's events often sell out. [Book via the Candlelight Club](https://www.thecandlelightclub.com/events/halloween-party-2026).
+A 1920s speakeasy party in an abandoned ballroom whose location is emailed after you buy. Sinister songbird Elise Roth and her band the High Spirits play 1920s and 1930s songs, Suri Sumatra performs burlesque, and there is a resident tarot reader. The dress code is Jazz Age with a Halloween twist. The entry ticket covers entry and entertainment only; a table, a three-course dinner and a £50 wristband for unlimited drinks until 11pm are optional extras. Tickets went through Design My Night, which added an admin fee, and the club's events often sell out. [Event page at Candlelight Club](https://www.thecandlelightclub.com/events/halloween-party-2026).
 
 ### The Halloween Cabaret, The Scarlet Lotus
 
@@ -179,57 +179,57 @@ A 1920s speakeasy party in an abandoned ballroom whose location is emailed after
 
 **A Halloween cabaret bill of burlesque, circus, aerial and fire performance, with cocktails.**
 
-**Two shows on Saturday 31 October: an early show at 4pm and an evening show at 7pm.** The early one is the same show and the easier ticket.
+**Two shows on Saturday 31 October 2026: an early show at 4pm and an evening show at 7pm.** The early one was the same show and the easier ticket.
 
-**Silver seats £59, down from £69**, with Premium (closer seats, tables may be shared), VIP private-table and front-row VIP LUX tiers above that. Roaming welcome canapés are a £40-a-head supplement added after you have chosen seats.
+**Silver seats were £59, down from £69**, with Premium (closer seats, tables may be shared), VIP private-table and front-row VIP LUX tiers above that. Roaming welcome canapés were a £40-a-head supplement added after you had chosen seats.
 
-Dressing up is encouraged, not required, and the best-dressed guest wins a bottle of wine. [Book via the London Cabaret Collective](https://londoncabaretcollective.co.uk/products/the-halloween-cabaret).
+Dressing up was encouraged, not required, and the best-dressed guest won a bottle of wine. [Event page at London Cabaret Collective](https://londoncabaretcollective.co.uk/products/the-halloween-cabaret).
 
 ### Ghost House with Fern Brady and Tom Rosenthal, Union Chapel
 
 *Saturday 31 October 2026 · doors 6.30pm, show 7.45pm, finish by 10.30pm · 16+ (under-18s with an adult) · Islington*
 
-A Halloween comedy bill in the Victorian chapel on Compton Terrace, with Fern Brady, Tom Rosenthal, Kiran Saggu, Horatio Gould and John Tothill. Early-dinner ticket holders can eat with Margins Cafe from 6pm. [Book via Union Chapel](https://unionchapel.org.uk/whats-on/ghost-house-with-fern-brady-tom-rosenthal).
+A Halloween comedy bill in the Victorian chapel on Compton Terrace, with Fern Brady, Tom Rosenthal, Kiran Saggu, Horatio Gould and John Tothill. Early-dinner ticket holders can eat with Margins Cafe from 6pm. [Event page at Union Chapel](https://unionchapel.org.uk/whats-on/ghost-house-with-fern-brady-tom-rosenthal).
 
 ### Dina Martina: Halloweena!, Soho Theatre
 
 *19 to 31 October 2026 · 60 minutes · 16+ · from £16 · Soho Downstairs*
 
-A cabaret and comedy show from Dina Martina in the basement room on Dean Street. Prices move with demand. [Book via Soho Theatre](https://sohotheatre.com/events/dina-martina-halloweena/).
+A cabaret and comedy show from Dina Martina in the basement room on Dean Street. Prices moved with demand. [Event page at Soho Theatre](https://sohotheatre.com/events/dina-martina-halloweena/).
 
 ### The Tiger Lillies: Songs for the Dead, Soho Theatre Walthamstow
 
 *Sunday 1 November 2026 · 110 minutes · 16+ · from £15*
 
-The cabaret trio play a concert of their songs about death on the Day of the Dead, the day after Halloween, in the 960-seat auditorium of the restored Granada cinema on Hoe Street. [Book via Soho Theatre](https://sohotheatre.com/events/the-tiger-lillies-songs-of-the-dead/).
+The cabaret trio played a concert of their songs about death on the Day of the Dead, the day after Halloween, in the 960-seat auditorium of the restored Granada cinema on Hoe Street. [Event page at Soho Theatre](https://sohotheatre.com/events/the-tiger-lillies-songs-of-the-dead/).
 
 ### Halloween at Kew, Royal Botanic Gardens
 
-Kew, Richmond, London, TW9 3AE — enter at Victoria, Elizabeth or Brentford Gate only. **16 October to 1 November 2026**, 4pm–10pm from 25 October. Returning for a third year.
+Kew, Richmond, London, TW9 3AE — enter at Victoria, Elizabeth or Brentford Gate only. Ran **16 October to 1 November 2026**, 4pm–10pm from 25 October. 2026 was its third year.
 
 An after-dark trail through the Gardens: Dracula among the trees, fire performers, the Headless Horseman, and a new cursed tomb for 2026. Entry is timed into three tiers that get scarier through the evening: **Daylight** sessions before 6pm suit younger children, **Twilight** (6–7.30pm) "ramps up a notch," and **Moonlight** (after 7.30pm) is, in Kew's own words, as scary as it gets, though still billed as suitable for all ages. Food and drink cost extra.
 
-**Non-member tickets from £19.50 off-peak or £24 peak for an adult**, with family and child pricing and a limited run of Anytime entry also on sale. The event sells out, with no exchanges or refunds once booked. Book via [kew.org](https://www.kew.org/kew-gardens/whats-on/halloween-at-kew).
+**Non-member tickets started at £19.50 off-peak or £24 peak for an adult**, with family and child pricing and a limited run of Anytime entry. Tickets were not exchangeable or refundable once booked. The event page is on [kew.org](https://www.kew.org/kew-gardens/whats-on/halloween-at-kew).
 
 ### Paddington Bear Experience, County Hall
 
-South Bank, inside County Hall. **17 October to 1 November 2026**, across all time slots. Standard admission is from **£34 adult (16+) and from £24 child (2–15), free for babes in arms**, with an optional Halloween add-on on top.
+South Bank, inside County Hall. **17 October to 1 November 2026**, across all time slots. Standard admission started at **£34 adult (16+) and £24 child (2–15), free for babes in arms**, with an optional Halloween add-on on top.
 
-The regular walk-through, Paddington-themed rooms leading to the Brown family's home in Windsor Gardens, gets an autumnal dressing for the season. **The £15-per-child trick-or-treat add-on** brings a souvenir pumpkin bucket, sweet treats throughout the experience, a Paw Biscuit, a pair of Paddington ears and a Halloween postcard; you need a standard ticket to buy it.
+The regular walk-through, Paddington-themed rooms leading to the Brown family's home in Windsor Gardens, got an autumnal dressing for the season. **The £15-per-child trick-or-treat add-on** brought a souvenir pumpkin bucket, sweet treats throughout the experience, a Paw Biscuit, a pair of Paddington ears and a Halloween postcard; you need a standard ticket to buy it.
 
-Fancy dress is encouraged, and it's aimed at small children, not anyone chasing a scare. **Booking ahead is required**, through [the experience's own site](https://paddingtonbearexperience.com/halloween).
+Fancy dress is encouraged, and it's aimed at small children, not anyone chasing a scare. **Booking ahead was required**, through [the experience's own site](https://paddingtonbearexperience.com/halloween).
 
 ### Tales from the Haunted House, Charles Dickens Museum
 
 *Thursday 29 October 2026 · 10.30am, 12.15pm and 2pm · £8 child, £14 adult · ages 7+*
 
-A 45-minute ghost story told in the kitchen of the Dickens family home at 48 Doughty Street, Bloomsbury, WC1N 2LX, by storyteller Emily of Dragonfly Tales, with a look at why the Victorians loved spectres. Every ticket includes admission to the rest of the house. Children must be accompanied, and the museum asks adults without children not to book. Special events are non-refundable. [Book via the Charles Dickens Museum](https://dickensmuseum.com/blogs/all-events/tales-from-the-haunted-house-halloween-2026).
+A 45-minute ghost story told in the kitchen of the Dickens family home at 48 Doughty Street, Bloomsbury, WC1N 2LX, by storyteller Emily of Dragonfly Tales, with a look at why the Victorians loved spectres. Every ticket includes admission to the rest of the house. Children must be accompanied, and the museum asks adults without children not to book. Special events are non-refundable. [Event page at Charles Dickens Museum](https://dickensmuseum.com/blogs/all-events/tales-from-the-haunted-house-halloween-2026).
 
 ---
 
 ## Ghost tours
 
-Check the schedule against 31 October specifically: **the Ripper walks don't all run every night**, and the walking-tour trade has its share of copycats trading on famous names, so stick to operators with a long track record and a real review history.
+Check the schedule against the date you plan to go: **the Ripper walks don't all run every night**, and the walking-tour trade has its share of copycats trading on famous names, so stick to operators with a long track record and a real review history.
 
 Outside Halloween, our [guide to the best walking tours in London](/articles/best-walking-tours-london/#jack-the-ripper) compares the Ripper and ghost walks you can book on GetYourGuide.
 
@@ -237,29 +237,29 @@ Outside Halloween, our [guide to the best walking tours in London](/articles/bes
 
 Run by London's oldest walking-tour company for more than 50 years, with professional guides, several of them actors and historians.
 
-**£20 adult, £15 students and seniors, £5 children; nightly at 7.30pm plus a Saturday 3pm matinee**, and it runs on Halloween night itself. **No need to book ahead: just turn up at Tower Hill station.** You can decide at six o'clock and still do it.
+**£20 adult, £15 students and seniors, £5 children; nightly at 7.30pm plus a Saturday 3pm matinee**, and it ran on Halloween night itself. **No need to book ahead: just turn up at Tower Hill station.** You can decide at six o'clock and still do it.
 
 ### The Jack the Ripper Tour ("Ripper-Vision")
 
 The guide carries a projector and puts **crime-scene photographs onto the actual walls where the murders happened**.
 
-**£18 adult, £10 child**, £2 less than London Walks for an adult. Thursday to Sunday at 5pm and 7.30pm, Monday to Wednesday at 7.30pm only, and it runs on the night itself. It meets at **Aldgate East** rather than Tower Hill.
+**£18 adult, £10 child**, £2 less than London Walks for an adult. Thursday to Sunday at 5pm and 7.30pm, Monday to Wednesday at 7.30pm only, and it ran on Halloween night itself. It meets at **Aldgate East** rather than Tower Hill.
 
-**Booking is required**, and Halloween night sells out. It is the better-reviewed walk, with over 3,000 Tripadvisor reviews at 4.6. In late October it is dark by the 5pm slot.
+**Booking is required**, and Halloween night sells out. It is the better-reviewed walk, with over 3,000 Tripadvisor reviews at 4.6. From late October it is dark by the 5pm slot.
 
 ### Barbican Ghost Tours
 
 *From £25 plus a £1.50 fee · 75 to 90 minutes · 12+ · meet on Level G*
 
-An after-dark walk through the Barbican estate: Roman ruins, plague pits and the ghost stories its staff tell, finishing in the Library Stack Rooms. It takes place partly outdoors, includes steps and uneven surfaces, and is not wheelchair accessible. Tours run on selected evenings, with extra departures from 4pm to 9pm on Saturday 31 October. [Book via the Barbican](https://www.barbican.org.uk/whats-on/2026/event/ghost-tours-the-barbican-after-dark).
+An after-dark walk through the Barbican estate: Roman ruins, plague pits and the ghost stories its staff tell, finishing in the Library Stack Rooms. It takes place partly outdoors, includes steps and uneven surfaces, and is not wheelchair accessible. Tours ran on selected evenings, with extra departures from 4pm to 9pm on Saturday 31 October 2026. [Event page at Barbican](https://www.barbican.org.uk/whats-on/2026/event/ghost-tours-the-barbican-after-dark).
 
 ### Ghost Bus Tours
 
 A 75-minute comedy-horror ride around London's landmarks on a converted 1960s Routemaster double-decker. **£25 adult, £17 child, £63 family.** Departs daily from **8 Northumberland Avenue**, just off Trafalgar Square outside the Grand Hotel. Book through [theghostbustours.com](https://theghostbustours.com/london/buy-tickets/).
 
-Two more, though neither falls on Halloween night itself in 2026: **Serial Killers: The Blood and Tears Walk**, a look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
+Two more, though neither fell on Halloween night itself in 2026: **Serial Killers: The Blood and Tears Walk**, a look at the Ripper and nine other London murder cases, runs Wednesday to Friday only, so the closest date is Friday 30 October; and London Walks' own **Haunted London** walk runs Sundays only, landing on 1 November.
 
-**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, and its Halloween show, **Curse of the Mummy**, runs **17 October to 1 November 2026**, included in a standard ticket — from **£27** adult and **£22** child (5–15) online, or £35 and £29 on the door. [See the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/).
+**The London Dungeon** has a Jack the Ripper scene among its scare-actor sets, and its 2026 Halloween show, **Curse of the Mummy**, ran **17 October to 1 November 2026**, included in a standard ticket — from **£27** adult and **£22** child (5–15) online, or £35 and £29 on the door. [See the listing](https://www.thedungeons.com/london/whats-inside/events/halloween/).
 
 ---
 
@@ -291,25 +291,21 @@ These places are unsettling all year round.
 
 <div data-stay-strip></div>
 
-## Club nights and parties
+## Club nights and parties in 2026
 
-The big club nights run at full strength on a Saturday Halloween, and several have already sold their early ticket tiers.
+The big club nights ran at full strength on Saturday 31 October 2026.
 
-**Drumsheds** hosts **elrow Horroween**, a daytime-into-night festival, Saturday 31 October, 1pm–10.30pm, 18+, from £40 plus booking fee. [Book via Drumsheds](https://drumshedslondon.com/event/elrow-horroween-festival/).
+**Drumsheds** hosted **elrow Horroween**, a daytime-into-night festival, Saturday 31 October, 1pm–10.30pm, 18+, from £40 plus booking fee. [Event page at Drumsheds](https://drumshedslondon.com/event/elrow-horroween-festival/).
 
-**Fabric** runs its regular Saturday techno night on 31 October, 11pm–7am, with Rødhåd, FJAAK, Demi Riquisimo and Desireé. It is not Halloween-branded. [See the line-up](https://www.fabriclondon.com/event/fabric-rodhad-demi-riquisimo-desiree-kamma-masalo-more-tba).
+**Fabric** ran its regular Saturday techno night on 31 October, 11pm–7am, with Rødhåd, FJAAK, Demi Riquisimo and Desireé. It is not Halloween-branded. [See the line-up](https://www.fabriclondon.com/event/fabric-rodhad-demi-riquisimo-desiree-kamma-masalo-more-tba).
 
-**Studio 338** in Greenwich runs **Release Halloween**, 7pm–6am, 18+, with Bontan, Ida Engberg and Matthias Tanzmann; bring physical photo ID, as screenshots and printouts are refused at the door. [See the event](https://www.studio338.co.uk/events/release-halloween-28-raves-later).
+**Studio 338** in Greenwich ran **Release Halloween**, 7pm–6am, 18+, with Bontan, Ida Engberg and Matthias Tanzmann; physical photo ID was required, as screenshots and printouts were refused at the door. [See the event](https://www.studio338.co.uk/events/release-halloween-28-raves-later).
 
-**Club de Fromage**, the long-running Camden pop night, does its Halloween special at Dingwalls on 31 October, 11pm–3am, 18+. [Tickets from Club de Fromage](https://clubdefromage.com/club-de-fromage/).
+**Club de Fromage**, the long-running Camden pop night, did its Halloween special at Dingwalls on 31 October, 11pm–3am, 18+. [Tickets from Club de Fromage](https://clubdefromage.com/club-de-fromage/).
 
-**On the river**, London Boat Parties runs a four-hour Halloween cruise on the Thames on 31 October, 7pm–11pm, from Temple Pier (a minute from Temple station). It is 18+ and every ticket includes free entry to an after party at Embargo in Chelsea, open until 3am, but **all ticket types have sold out**. [London Boat Parties](https://boatpartylondon.com/products/halloween-boat-party-london-saturday-31st-october-2026) has the details.
+**On the river**, London Boat Parties ran a four-hour Halloween cruise on the Thames on 31 October, 7pm–11pm, from Temple Pier (a minute from Temple station). It was 18+ and every ticket included free entry to an after party at Embargo in Chelsea, open until 3am. [London Boat Parties](https://boatpartylondon.com/products/halloween-boat-party-london-saturday-31st-october-2026) has the details.
 
-Cheaper and looser: **93 Feet East** in Shoreditch runs Boat Club Halloween (house and tech house, 5pm–1am) and The Halloween Disco (9pm–1.30am) on 31 October, both 18+, and **Electric Ballroom** in Camden has its Halloween Rave from 11pm, with tickets from £3.
-
-## More Halloween nights out
-
-<div data-listings-match="halloween|haunted|ghost" data-exclude="hungry ghost|ghost town|club de fromage" data-from="2026-10-24" data-to="2026-11-01" data-per-venue="2" data-limit="20"></div>
+Cheaper and looser: **93 Feet East** in Shoreditch ran Boat Club Halloween (house and tech house, 5pm–1am) and The Halloween Disco (9pm–1.30am) on 31 October, both 18+, and **Electric Ballroom** in Camden had its Halloween Rave from 11pm, with tickets from £3.
 
 ---
 
@@ -341,15 +337,15 @@ The walk-in option. In their words: *"You are welcome to visit to see exactly wh
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="halloween-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-## The week after
+## After Halloween
 
-**Bonfire Night is five days later**, on Thursday 5 November, though most of the big displays are on Saturday 7 November. Several venues run Halloween until the 2nd and switch straight to fireworks. Our [Bonfire Night guide](/articles/bonfire-night-london/) has the display dates, what each one costs and where to book.
+In 2026 **Bonfire Night fell five days later**, on Thursday 5 November, with most of the big displays on Saturday 7 November. Our [Bonfire Night guide](/articles/bonfire-night-london/) has the display dates, what each one costs and where to book.
 
 ## Free Halloween things
 
-**High Street Kensington runs the best-known free one.** A Halloween trail through the shops runs from 23 to 31 October 2026, following a map with clues and treats. On Saturday 31 October the Big Kensington Vintage Flea goes gothic from 10am to 4.30pm, and from 4.30pm to 7.30pm Holland Park becomes the **Playful Park of Peculiar**, a walk-through of characters, performers and lit installations. It is free, but you need a timed ticket from [High Street Ken's Halloween page](https://highstreetkensington.co.uk/halloween/playful-park-of-peculiar/); the first batches have sold out, so check for further releases. Enter by the Holland Park gates on Kensington High Street, W8 7RG. Earlier sessions suit younger families; the park gets darker as the light fades.
+**High Street Kensington ran the best-known free one in 2026.** A Halloween trail through the shops ran from 23 to 31 October 2026, following a map with clues and treats. On Saturday 31 October the Big Kensington Vintage Flea went gothic from 10am to 4.30pm, and from 4.30pm to 7.30pm Holland Park became the **Playful Park of Peculiar**, a walk-through of characters, performers and lit installations. It was free, with timed tickets from [High Street Ken's Halloween page](https://highstreetkensington.co.uk/halloween/playful-park-of-peculiar/). The entrance was by the Holland Park gates on Kensington High Street, W8 7RG. Earlier sessions suit younger families; the park gets darker as the light fades.
 
-**The free museums are your reliable fallback.** The [British Museum](/articles/british-museum-guide/), Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run half-term activity programmes across Halloween week. Each lists its programme on its own site.
+**The free museums are your reliable fallback.** The [British Museum](/articles/british-museum-guide/), Natural History Museum, Wellcome Collection, Hunterian Museum and Sir John Soane's Museum are all free year-round, and several run activity programmes in school holidays. Each lists its programme on its own site.
 
 **Planning the rest of your trip around October?** [Best Time to Visit London](/articles/best-time-to-visit-london/) covers the month's weather, crowds and cost against the rest of the year.
 

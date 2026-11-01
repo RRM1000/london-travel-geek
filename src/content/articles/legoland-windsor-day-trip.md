@@ -4,7 +4,7 @@ seoTitle: "LEGOLAND Windsor Tickets and Travel from London"
 description: "LEGOLAND Windsor costs from £32 booked online at least a day ahead and £68 on the day. The train-and-bus route from Paddington or Waterloo, the 702 bus from Victoria, every height limit, Fastrack prices and the 2026–27 closed dates."
 publishedAt: 2026-10-03
 updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+reviewBy: 2026-11-07
 sites: [london]
 canonicalSite: london
 category: "Day trips"

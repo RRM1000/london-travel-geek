@@ -3,8 +3,8 @@ title: "Thorpe Park from London: Tickets, the Train and Height Limits"
 seoTitle: "Thorpe Park: Tickets, Getting There and Height Limits"
 description: "Thorpe Park tickets are from £32 online and £68 on the day, and anyone under 1.2m goes free. The train from Waterloo to Staines and the 950 bus, every ride's height limit, Fastrack prices, and when the park is shut."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2027-03-01
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -24,7 +24,7 @@ faq:
   - q: "What is the height restriction at Thorpe Park?"
     a: "Most of the big coasters need 1.4m: Stealth, The Swarm, Colossus, Nemesis Inferno, SAW and The Walking Dead. Hyperia, Rush, Detonator and the Ghost Train need 1.3m, and Tidal Wave and Quantum 1.2m. Children from 0.9m can ride Flying Fish, Depth Charge, Mr Monkey's Banana Ride and High Striker."
   - q: "When does Thorpe Park close for the winter?"
-    a: "The 2026 season ends on Sunday 1 November with the last night of Fright Nights. The park stays shut over the winter."
+    a: "The 2026 season ends on Sunday 1 November with the last night of Fright Nights. The park stays shut over the winter and reopens on 19 March 2027."
   - q: "Can you take food into Thorpe Park?"
     a: "Yes, as long as it is sealed. Opened food and drink has to be finished before the security check, and alcohol is confiscated. There are water refill points at Tidal Wave, Rush, Swarm Island and opposite Detonator."
   - q: "Is Fastrack worth it at Thorpe Park?"
@@ -35,7 +35,7 @@ faq:
 
 It is a thrill park outside Chertsey in Surrey, about 20 miles from central London, built around six big coasters. The family rides are a small part of it.
 
-> 💡 **The Short Version:** **Teenagers and adults** get the most from it; most of the big rides need **1.4m**. **Book online**: from **£32**, against **£68** on the day, and **under-1.2m free**. **Waterloo to Staines, 34–38 minutes, £7.40 off-peak on contactless (not Oyster)**, then the **950 bus, cash or contactless only**. Driving, park for **£13**. **The 2026 season ends on Sunday 1 November.** **Fright Nights** runs to 1 November 2026, from £39. For a group, the **Days Out Guide takes a third off** with a National Rail ticket. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t111550?partner_id=WWP7I0R&amp;cmp=thorpe-park-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> costs the same from-price but can be **cancelled up to 24 hours before**, which a ticket bought direct cannot.
+> 💡 **The Short Version:** **Teenagers and adults** get the most from it; most of the big rides need **1.4m**. **Book online**: from **£32**, against **£68** on the day, and **under-1.2m free**. **Waterloo to Staines, 34–38 minutes, £7.40 off-peak on contactless (not Oyster)**, then the **950 bus, cash or contactless only**. Driving, park for **£13**. **The 2026 season ends on Sunday 1 November** and the park reopens on 19 March 2027. **Fright Nights** runs to 1 November 2026, from £39. For a group, the **Days Out Guide takes a third off** with a National Rail ticket. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t111550?partner_id=WWP7I0R&amp;cmp=thorpe-park-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> costs the same from-price but can be **cancelled up to 24 hours before**, which a ticket bought direct cannot.
 
 ## What tickets cost
 
@@ -100,13 +100,13 @@ The postcode is **KT16 8PN**, but some sat navs send you to Norlands Lane. Look 
 
 **The park opens at 10:00.** Rides usually close between 17:00 and 19:00 depending on the season, and **only the ride queues close at the advertised time**: join your favourite one minute before and you still ride.
 
-**The 2026 season ends on Sunday 1 November**, the last night of Fright Nights, and the park is closed through the winter. Check the [opening calendar](https://www.thorpepark.com/plan-your-visit/before-you-visit/opening-times/) before booking a train.
+**The 2026 season ends on Sunday 1 November**, the last night of Fright Nights, and the park is closed through the winter, reopening on 19 March 2027. Check the [opening calendar](https://www.thorpepark.com/plan-your-visit/before-you-visit/opening-times/) before booking a train.
 
 ### Fright Nights 2026
 
-**Every day until Sunday 1 November 2026, 10:00 to 21:00.** Day tickets are from £39 online (£66 at the gate) and include the scare zones and shows. The **Fearsome Four** package, from £71, adds four scare mazes: DeadBeat, Stitches, Trailers and Survival Games. The new maze, **Tenement**, is not in it and needs its own ticket. The mazes are for 13 and over. Saturday 31 October is the date to book first. Our [Halloween in London](/articles/halloween-london/) guide sets it against the other scare attractions.
+**Every day until Sunday 1 November 2026, 10:00 to 21:00.** Day tickets are from £39 online (£66 at the gate) and include the scare zones and shows. The **Fearsome Four** package, from £71, adds four scare mazes: DeadBeat, Stitches, Trailers and Survival Games. The new maze, **Tenement**, is not in it and needs its own ticket. The mazes are for 13 and over. Our [Halloween in London](/articles/halloween-london/) guide sets it against the other scare attractions.
 
-There is no Christmas event: the park is closed from 2 November 2026.
+There is no Christmas event: the park is closed from 2 November 2026 to 18 March 2027.
 
 ## The rides, and the height you need
 
@@ -188,7 +188,7 @@ Every Fastrack is for one person, can be scanned once every three minutes, sells
 
 - **Buying a child ticket.** There is no child price; anyone under 1.2m is free and anyone over pays in full.
 - **Tapping in with Oyster.** It does not work to Staines. Use contactless, and have a card or cash for the 950.
-- **Turning up after 1 November**, when the park is shut for the winter.
+- **Turning up between 2 November 2026 and 18 March 2027**, when the park is shut for the winter.
 - **Paying for Gold Fastrack to skip Hyperia.** Only Platinum includes it.
 - **Bringing a six-year-old who is just under 1.4m** and expecting them to ride the coasters with an older sibling.
 

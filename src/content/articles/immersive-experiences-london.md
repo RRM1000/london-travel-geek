@@ -1,10 +1,10 @@
 ---
 title: "The Best Immersive Experiences in London: What's Actually Still Open"
 seoTitle: "Best Immersive Experiences London 2026: Still Open"
-description: "Immersive shows close constantly. What is open now, what opens next and what has shut, with prices and dates from the operators."
+description: "Immersive shows close constantly. What is open, what opens next and what has shut, with prices and dates from the operators."
 publishedAt: 2026-07-02
-updatedAt: 2026-10-26
-reviewBy: 2026-11-20
+updatedAt: 2026-11-01
+reviewBy: 2026-11-13
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -62,7 +62,7 @@ Prices are adult starting prices. Several use dynamic pricing, so treat them as 
 | **Lightroom: Wallace & Gromit** | King's Cross | £25 · **to 4 Jan** | No |
 | **Lightroom: David Bowie** | King's Cross | £25 · **to 10 Jan** | No |
 | **Euphoria, Balloon Museum** | Custom House | see below | Hands-on |
-| **House of Dreamers** | Custom House | see below | No · **to November** |
+| **House of Dreamers** | Custom House | see below | No · **to January** |
 | **Timewalk** | Custom House | see below | No |
 | **Outernet** | Tottenham Court Rd | **Free** | No |
 | **The London Dungeon** | Waterloo | £27 | You may be picked on |
@@ -263,9 +263,9 @@ The Wunderground Bar & Kitchen is open without a ticket. Adult-only After Hours 
 
 *All ages · three minutes from Custom House station (Elizabeth line, DLR) · Immerse LDN ticket holders ride the Cable Car for £3 single*
 
-**[Euphoria: Art is in the Air](https://london.balloonmuseum.world/en/shop/tickets)** (Balloon Museum, from 24 October 2026) has 13 giant artworks that react to you: an inflatable maze, a vortex, a room of hundreds of balloons. It spans two floors with lift access and takes 1 to 1.5 hours.
+**[Euphoria: Art is in the Air](https://london.balloonmuseum.world/en/shop/tickets)** (Balloon Museum, 24 October 2026 to August 2027) has 13 giant artworks that react to you: an inflatable maze, a vortex, a room of hundreds of balloons. It spans two floors with lift access and takes 1 to 1.5 hours.
 
-**[House of Dreamers](https://www.immerseldn.com/events/house-dreamers-london)** (to November 2026) is 16 installations by the designers Elena and Giulia Sella.
+**[House of Dreamers](https://www.immerseldn.com/events/house-dreamers-london)** (to January 2027) is 16 installations by the designers Elena and Giulia Sella.
 
 **[Timewalk](https://www.immerseldn.com/events/timewalk-immersive-experience-museum)** (to October 2027) tells the story of ancient civilisations, from Babylon and Egypt to the Maya and Rapa Nui, in projection and sound. It has narration in 25 languages and a separate children's version.
 

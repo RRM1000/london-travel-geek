@@ -3,7 +3,7 @@ title: "Hampton Court Palace: Tickets, Prices and How to Get There"
 seoTitle: "Hampton Court Palace 2026: Tickets, Prices & Hours"
 description: "Historic Royal Palaces' own 2026 prices for Hampton Court: adult tickets from £30 off-peak to £36 over Christmas, the train from Waterloo in 35 minutes, and what's included — the maze, the Tudor Kitchens and the Great Vine."
 publishedAt: 2026-06-21
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-24
 sites:
   - london
@@ -73,7 +73,7 @@ An optional **10% donation** is added at checkout; tick the Gift Aid box and His
 
 Book direct through [Historic Royal Palaces' ticket page](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/), or bundle the ticket with return transport from central London via the <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-half-day-trip-from-london-with-tickets-t70032/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Half-Day Trip from London with Tickets</a>.
 
-**Opening hours:** 10am–4pm, last entry 3pm, daily from 26 October to 1 November. In school term time the palace opens Wednesday to Sunday only, closed Monday and Tuesday; in Easter, summer, Christmas and half-term school holidays it opens daily. Winter Palace hours (28 November–3 January) are 10am–4.30pm, last entry 2.30pm, extended to 7.30pm (last entry 5.30pm) on 9–11, 16–17 and 19–30 December.
+**Opening hours:** 10am–4pm, last entry 3pm. In school term time the palace opens Wednesday to Sunday only, closed Monday and Tuesday; in Easter, summer, Christmas and half-term school holidays it opens daily. Winter Palace hours (28 November–3 January) are 10am–4.30pm, last entry 2.30pm, extended to 7.30pm (last entry 5.30pm) on 9–11, 16–17 and 19–30 December.
 
 ---
 

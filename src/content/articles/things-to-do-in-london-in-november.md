@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-10-31
+updatedAt: 2026-11-01
 reviewBy: 2026-11-04
 sites: [london]
 canonicalSite: london
@@ -114,7 +114,7 @@ The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglo
 
 ### Rinks, markets and Winter Wonderland
 
-**Skate Leicester Square opens on Saturday 31 October, and Glide at Battersea Power Station on Friday 6 November.** Somerset House follows on **Wednesday 11th**, with adults at £13 to £28.50 and children at £11 to £15, plus £1.50 a ticket. The other rinks open from the 18th. [Our ice skating guide](/articles/ice-skating-london/) has every rink and what it costs.
+**Skate Leicester Square opened on Saturday 31 October, and Glide at Battersea Power Station opens on Friday 6 November.** Somerset House follows on **Wednesday 11th**, with adults at £13 to £28.50 and children at £11 to £15, plus £1.50 a ticket. The other rinks open from the 18th. [Our ice skating guide](/articles/ice-skating-london/) has every rink and what it costs.
 
 **Hyde Park Winter Wonderland opens on Thursday 19 November and runs to 3 January 2027.** Entry is **£1 at off-peak sessions, Monday to Thursday through November**, with no booking fees, and everything inside is charged separately. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices. **Chelsea Winter Village & Illuminations**, a light trail at the Royal Hospital Chelsea, runs from **25 November to 28 December**. **Christmas at Kew** is on from 13 November. **King's Cross Winter Market**, new in 2026 and free to enter, fills Granary Square from **26 November to 3 January 2027**, with a bookable roller rink beside it.
 
@@ -193,7 +193,7 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 | Dates | Event it hits | What is closed |
 | --- | --- | --- |
-| Sat 31 Oct and Sun 1 Nov | Veteran Car Run, Hyde Park | The whole Piccadilly line, so no Hyde Park Corner or Knightsbridge; Marble Arch and Lancaster Gate on the Central line serve the park |
+| Sun 1 Nov | Veteran Car Run, Hyde Park | The whole Piccadilly line, so no Hyde Park Corner or Knightsbridge; Marble Arch and Lancaster Gate on the Central line serve the park |
 | Sat 14 and Sun 15 Nov | Lord Mayor's Show | The Northern line between Euston or Charing Cross and Morden or Battersea Power Station, which takes out Bank, London Bridge, Waterloo and Battersea Power Station; on Sunday until 10.15am there is also no Elizabeth line between Paddington and Abbey Wood or Stratford |
 | Sat 21 and Sun 22 Nov | Heathrow, Uxbridge and Stratford journeys | The Piccadilly line between Hammersmith and Heathrow or Uxbridge, with the Metropolitan line closed from Harrow-on-the-Hill to Uxbridge; the DLR is closed between Canning Town and Stratford International |
 | Sat 28 and Sun 29 Nov | London Museum opening | The Elizabeth line along its whole length, with Paddington closed and no Heathrow Express; the whole Hammersmith & City line; the Circle line between Hammersmith or High Street Kensington and Tower Hill, via King's Cross St Pancras; the Metropolitan line from Baker Street to Aldgate; and the District line from High Street Kensington to Edgware Road |

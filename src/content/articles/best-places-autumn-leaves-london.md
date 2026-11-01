@@ -5,8 +5,8 @@ description: "Seven of fifteen independent sources name Richmond Park, Kew's own
 heroImage: "../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg"
 heroImageAlt: "A Japanese maple in scarlet and orange reflected in a still pond in Richmond Park"
 publishedAt: 2026-09-16
-updatedAt: 2026-10-26
-reviewBy: 2026-11-03
+updatedAt: 2026-11-01
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -18,11 +18,11 @@ faq:
   - q: "Where can I see autumn leaves in London for free?"
     a: "Nearly everywhere on this page. Richmond Park, Bushy Park, Hyde Park, Regent's Park, St James's Park, Greenwich Park, Green Park, Hampstead Heath, Kensington Gardens, Victoria Park, Holland Park, Epping Forest and every cemetery here are free, open dawn to dusk or later, and need no ticket. Kew Gardens is the one paid entry."
   - q: "Is Kew Gardens worth paying for in autumn?"
-    a: "It has the widest range of autumn colour of anywhere on this list — the Arboretum alone holds 11,000 trees, 2,700 of them oaks, including maples, sweet gums and ginkgoes, plus deciduous conifers few free London parks grow at all, such as swamp cypress and larch. Peak entry (2 September to 31 October 2026) is £25 online or £28 at the gate; from 1 November it drops to £17 online. Every Tuesday from 8 September to 29 December 2026, tickets are £10."
+    a: "It has the widest range of autumn colour of anywhere on this list — the Arboretum alone holds 11,000 trees, 2,700 of them oaks, including maples, sweet gums and ginkgoes, plus deciduous conifers few free London parks grow at all, such as swamp cypress and larch. Peak entry (2 September to 31 October 2026) was £25 online or £28 at the gate; off-peak entry from 1 November 2026 to 31 January 2027 is £17 online or £20 at the gate. Every Tuesday from 8 September to 29 December 2026, tickets are £10."
   - q: "Where can I see the deer rut near London in autumn?"
     a: "Richmond Park and Bushy Park, the only two London parks with free-roaming deer — over 1,000 between them. The rut runs from late September to early November, and BBC News has quoted both parks' own managers warning visitors to keep at least 50 metres back; the Independent has reported real injuries from people getting closer. Both parks are free."
   - q: "What happens to London's parks when the clocks go back in October 2026?"
-    a: "Closing times get earlier overnight, not gradually. The clocks went back at 2am on Sunday 25 October 2026, and Kew Gardens' hours show the effect: it closed at 6pm (last entry 5pm) through 24 October and now closes at 4pm (last entry 3pm)."
+    a: "Closing times get earlier overnight, not gradually. The clocks went back at 2am on Sunday 25 October 2026, and Kew Gardens' hours show the effect: it closed at 6pm (last entry 5pm) through 24 October and from 25 October closes at 4pm (last entry 3pm)."
   - q: "Which London park is named by the most independent sources for autumn?"
     a: "Richmond Park, named by seven of this guide's fifteen independent sources — for the Isabella Plantation's Acer Glade, the wider park's deer and its Tamsin Trail. Kew Gardens is second, with six."
 ---
@@ -72,7 +72,7 @@ Autumn is also rutting season; see "Richmond and Bushy: the deer rut," below. Fr
 
 Kew's Arboretum holds 11,000 trees, 2,700 of them oaks. The Independent picks out specifics few visitors find alone: the red oak (*Quercus robur*) puts on "a flashy show of crimson along the Riverside Walk," and russet-leaved pin oaks (*Quercus palustris*) grow near the Treetop Walkway. The Evening Standard adds Kew's deciduous conifers — golden larch and fiery orange swamp cypress by the lake — which few free London parks grow at all.
 
-The Guardian reported on 1 September 2026 that Kevin Martin, Kew's head of tree collections, was "really worried" about autumn 2026: after May's 35C heatwave the growing season was under stress, and he expected heat and drought to kill trees at Kew and across the south-east. **Peak pricing runs 2 September to 31 October 2026** — £25 online, £28 at the gate — **then drops to £17 online from 1 November.** Every Tuesday from 8 September to 29 December 2026, entry is £10. Hours shortened when the clocks went back: 10am–6pm, last entry 5pm, through 24 October, then **10am–4pm, last entry 3pm, from the 25th.**
+The Guardian reported on 1 September 2026 that Kevin Martin, Kew's head of tree collections, was "really worried" about autumn 2026: after May's 35C heatwave the growing season was under stress, and he expected heat and drought to kill trees at Kew and across the south-east. **Peak pricing ran from 2 September to 31 October 2026** (£25 online, £28 at the gate); **off-peak pricing, £17 online or £20 at the gate, applies from 1 November 2026 to 31 January 2027.** Every Tuesday from 8 September to 29 December 2026, entry is £10. Hours shortened when the clocks went back: 10am–6pm, last entry 5pm, through 24 October, then **10am–4pm, last entry 3pm, from the 25th.**
 
 ### St James's Park — the view from the Blue Bridge
 
@@ -104,7 +104,7 @@ Free, open 6am to dusk, and the climb to the Observatory gives the view over all
 
 The Broad Walk, the wide north–south avenue through the park, becomes what Londonist calls "a golden tunnel" as its trees turn. Two YouTube walks, filmed a year apart, both chose this park to film in autumn, one calling it "even more beautiful with autumn colours." The travel blogger Brogan Abroad lists it among her top parks for the season too.
 
-Free, open 5am to dusk (later in summer). Frieze Sculpture, a free outdoor art exhibition, runs in the park's English Gardens from 16 September to 1 November 2026.
+Free, open 5am to dusk (later in summer). Frieze Sculpture, a free outdoor art exhibition, ran in the park's English Gardens from 16 September to 1 November 2026.
 
 ---
 
@@ -273,7 +273,7 @@ Most years the earliest trees turn from September, most of London peaks in Octob
 
 - **Check a park's own social media before a special trip in 2026.** With trees on very different timetables, a plan built around "late October" could be a week too late for some species and too early for others.
 - **Weekday mornings are quietest everywhere on this list.** St James's Park's Blue Bridge, the Isabella Plantation and Kynance Mews all draw a weekend photography crowd; at 8am on a weekday they are usually empty.
-- **Plan afternoon visits for before 3–4pm** now the clocks have gone back; Kew closes at 4pm with last entry at 3pm.
+- **Plan afternoon visits for before 3–4pm** after the clocks go back; from 25 October Kew closes at 4pm with last entry at 3pm.
 
 ## Just outside London
 

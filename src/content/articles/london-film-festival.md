@@ -62,7 +62,7 @@ The calendar catches people out. **Tickets went on general sale at 10am on 17 Se
 | **Thu 1 October** | 10am | **Extra tickets released, and LFF for Free booking opened** |
 | **Wed 7 – Sun 18 October** | — | The festival itself |
 
-Two things follow. Membership taken out now saves booking fees and buys the priority window for the 2027 festival, not a seat in 2026. And 1 October is a second chance that most people miss: it was a real release of held-back stock.
+Two things follow. Membership taken out after the festival saves booking fees and buys the priority window for the 2027 festival, not a seat in 2026. And 1 October is a second chance that most people miss: it was a real release of held-back stock.
 
 ---
 
@@ -110,7 +110,7 @@ If the festival is the only reason you are considering it:
 
 - The **booking fee saving is £1 a ticket**. To recover £44 on that alone you would need to buy 44 tickets.
 - The **two free tickets** and the **£2.50 discount** are Southbank benefits, useful year-round but not at the festival.
-- What you are buying is **the priority window**. A membership taken out now applies to the 2027 festival.
+- What you are buying is **the priority window**. A membership taken out after the 2026 festival applies to the 2027 festival.
 
 If you go to BFI Southbank through the year anyway, membership pays for itself on the free tickets and the per-ticket discount. If you turn up once a year for the festival, it buys the head start on the screenings that sell out, and whether that is worth £44 depends on whether there is a film you would be disappointed to miss.
 
