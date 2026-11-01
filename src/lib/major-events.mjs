@@ -73,10 +73,10 @@ function fromListings(listings, today) {
       if (start < e.start) e.start = start;
       if (end > e.end) e.end = end;
       e.days.add(start);
-      if (onSale && (!e.onSale || onSale < e.onSale)) e.onSale = onSale;
+      if (onSale >= today && (!e.onSale || onSale < e.onSale)) e.onSale = onSale;
       continue;
     }
-    seen.set(key, { id: key, title: name, group, start, end, days: new Set([start]), venue, url, linkLabel, onSale: onSale ?? "", note: "" });
+    seen.set(key, { id: key, title: name, group, start, end, days: new Set([start]), venue, url, linkLabel, onSale: onSale >= today ? onSale : "", note: "" });
   }
   return [...seen.values()].map(({ days, ...e }) => ({ ...e, nights: days.size }));
 }
