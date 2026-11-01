@@ -157,7 +157,7 @@ The London Transport Museum, the V&A and the Royal Mews shops let you in without
 
 *Paddington station · plush bears, books and jars of marmalade*
 
-The [Paddington Bear Shop](https://thisispaddington.com/article/paddington-bear-shop) is on the station concourse beside Platform 1. It sells plush toys, picture books, stationery, clothing for adults and children, and jars of official Paddington marmalade. It is worth a visit only if you are already at the station; the [Paddington guide](/articles/paddington-area-guide/) covers the area.
+The [Paddington Bear Shop](https://thisispaddington.com/article/paddington-bear-shop) is at The Lawn in Paddington station. It sells plush toys, picture books, stationery, clothing for adults and children, and jars of official Paddington marmalade. It is worth a visit only if you are already at the station; the [Paddington guide](/articles/paddington-area-guide/) covers the area.
 
 ![The front of the Paddington Bear shop at Paddington station, with a plush Paddington on a red post box and T-shirts in the window](../../assets/articles/london-gifts-souvenirs/paddington-bear-shop.jpg)
 *The Paddington Bear Shop. Photo: [eebAMDG](https://commons.wikimedia.org/wiki/File:Paddington_Bear_shop_-_2026-04-19.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
