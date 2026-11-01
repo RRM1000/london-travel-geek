@@ -34,11 +34,13 @@ const BIG_THEATRES = new Set([
 const BIG_MUSEUMS = /^(V&A|Victoria and Albert|Tate |British Museum|National Gallery|National Portrait|Natural History|Science Museum|Royal Academy of Arts|Design Museum|Barbican Arts Centre|Somerset House)/;
 
 // Add-ons and changes that are not events.
-const NOT_AN_EVENT = /\b(vip|hospitality|package|parking|upgrade|premium seat|stadium tour|moved to|cancelled|postponed)\b/i;
+const NOT_AN_EVENT = /\b(vip|hospitality|package|parking|upgrade|premium seat|stadium tour|moved to|cancelled|postponed|relaxed view)\b/i;
 const ENGLAND = /^England( Women)? v/i;
 const EVENT_TYPES = new Set(["festival", "seasonal", "exhibition-convention", "exhibition", "concert", "ceremony", "sporting-event", "secret-cinema", "immersive-theatre", "installation"]);
 const EVENT_GROUP = { "secret-cinema": "immersive", "immersive-theatre": "immersive", installation: "exhibition", festival: "festival", seasonal: "festival", ceremony: "festival", concert: "music", "sporting-event": "sport", exhibition: "exhibition", "exhibition-convention": "exhibition" };
 const SKIP_EVENTS = new Set(["peter-pan-cup"]);
+// Trade fairs and niche shows stay on What's On. Only these public shows count as big.
+const BIG_SHOWS = new Set(["ideal-home-show", "grand-designs-live-london", "mcm-comic-con-london-oct", "megacon-live-london", "new-scientist-live", "london-art-fair", "frieze-london"]);
 
 const norm = (s) => String(s ?? "").toLowerCase().replace(/&amp;/g, "and").replace(/[^a-z0-9]/g, "");
 // "Gladiators Live Tour 2026" and "Gladiators Live Tour" are one event, listed
@@ -85,6 +87,7 @@ function fromEvents(events, today) {
   const out = [];
   for (const e of events) {
     if (!EVENT_TYPES.has(e.type) || SKIP_EVENTS.has(e.slug) || !e.startsOn) continue;
+    if (e.type === "exhibition-convention" && !BIG_SHOWS.has(e.slug)) continue;
     const end = e.endsOn || e.startsOn;
     if (end < today) continue;
     out.push({

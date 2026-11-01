@@ -1,17 +1,76 @@
 {
   "_comment": "Hand-kept layer of the major events calendar (src/lib/major-events.mjs). 'sport' lists the big one-off events: internationals, finals, athletics meets, marathons. League matches stay out. 'remove' takes an event off by id, and 'add' puts on anything the rules miss.",
   "sport": [
-    { "title": "England v Japan, rugby", "start": "2026-11-14", "venue": "Twickenham Stadium", "guide": "twickenham-stadium-travel-guide" },
-    { "title": "England v New Zealand, rugby", "start": "2026-11-21", "venue": "Twickenham Stadium", "guide": "twickenham-stadium-travel-guide" },
-    { "title": "Nations Championship finals, rugby", "start": "2026-11-27", "end": "2026-11-29", "venue": "Twickenham Stadium", "guide": "twickenham-stadium-travel-guide" },
-    { "title": "England v France, Six Nations", "start": "2027-02-14", "venue": "Twickenham Stadium", "guide": "twickenham-stadium-travel-guide" },
-    { "title": "England v Italy, Six Nations", "start": "2027-02-20", "venue": "Twickenham Stadium", "guide": "twickenham-stadium-travel-guide" },
-    { "title": "England v Scotland, Six Nations", "start": "2027-03-13", "venue": "Twickenham Stadium", "guide": "twickenham-stadium-travel-guide" },
-    { "title": "The Boat Race", "start": "2027-04-11", "venue": "The Thames, Putney to Mortlake" },
-    { "title": "TCS London Marathon", "start": "2027-04-24", "end": "2027-04-25", "venue": "Greenwich to The Mall", "guide": "london-marathon-guide" },
-    { "title": "The Championships, Wimbledon", "start": "2027-06-28", "end": "2027-07-11", "venue": "All England Lawn Tennis Club", "guide": "wimbledon-tickets-guide" },
-    { "title": "London Athletics Meet", "start": "2027-07-17", "venue": "London Stadium", "guide": "london-stadium-travel-guide" }
+    {
+      "title": "England v Japan, rugby",
+      "start": "2026-11-14",
+      "venue": "Twickenham Stadium",
+      "guide": "twickenham-stadium-travel-guide"
+    },
+    {
+      "title": "England v New Zealand, rugby",
+      "start": "2026-11-21",
+      "venue": "Twickenham Stadium",
+      "guide": "twickenham-stadium-travel-guide"
+    },
+    {
+      "title": "Nations Championship finals, rugby",
+      "start": "2026-11-27",
+      "end": "2026-11-29",
+      "venue": "Twickenham Stadium",
+      "guide": "twickenham-stadium-travel-guide"
+    },
+    {
+      "title": "England v France, Six Nations",
+      "start": "2027-02-14",
+      "venue": "Twickenham Stadium",
+      "guide": "twickenham-stadium-travel-guide"
+    },
+    {
+      "title": "England v Italy, Six Nations",
+      "start": "2027-02-20",
+      "venue": "Twickenham Stadium",
+      "guide": "twickenham-stadium-travel-guide"
+    },
+    {
+      "title": "England v Scotland, Six Nations",
+      "start": "2027-03-13",
+      "venue": "Twickenham Stadium",
+      "guide": "twickenham-stadium-travel-guide"
+    },
+    {
+      "title": "The Boat Race",
+      "start": "2027-04-11",
+      "venue": "The Thames, Putney to Mortlake"
+    },
+    {
+      "title": "TCS London Marathon",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "venue": "Greenwich to The Mall",
+      "guide": "london-marathon-guide"
+    },
+    {
+      "title": "The Championships, Wimbledon",
+      "start": "2027-06-28",
+      "end": "2027-07-11",
+      "venue": "All England Lawn Tennis Club",
+      "guide": "wimbledon-tickets-guide"
+    },
+    {
+      "title": "London Athletics Meet",
+      "start": "2027-07-17",
+      "venue": "London Stadium",
+      "guide": "london-stadium-travel-guide"
+    }
   ],
   "add": [],
-  "remove": []
+  "remove": [
+    "concrete-and-clay-barbican",
+    "amar-kanwar-serpentine",
+    "justin-caguiat-serpentine",
+    "yuko-mohri-curve",
+    "waldorf-project-chapter-five",
+    "robert-ryman-barbican"
+  ]
 }
