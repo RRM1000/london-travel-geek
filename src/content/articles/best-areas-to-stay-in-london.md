@@ -24,7 +24,7 @@ faq:
   - q: "Is it better to stay in central London?"
     a: "Usually, and the reason is time rather than fares: the daily cap for Zones 1 to 3 is £10.50 against £8.90 for Zones 1 to 2, a difference of £1.60 a person, but an outer-zone room costs twenty to twenty-five minutes each way. The exception is a stadium, arena or exhibition night, when a base near the venue or one train from it beats the crush."
   - q: "Do I need to stay near a Night Tube station?"
-    a: "Only if you plan to be out past midnight. The last Central line train from Oxford Circus is 00:30 on a weekday and the last Piccadilly from Piccadilly Circus is 00:34; after that the Night Tube covers the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines on Friday and Saturday nights, and night buses run everywhere, every night, for £1.75."
+    a: "Only if you plan to be out past midnight. The last Central line train from Oxford Circus is 00:30 on a weekday and the last Piccadilly from Piccadilly Circus is 00:34; after that the Night Tube covers the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines on Friday and Saturday nights, and night buses run everywhere, every night, for £1.85."
   - q: "Where should I stay before an early flight or a Eurostar?"
     a: "Paddington for Heathrow: the Heathrow Express takes 15 minutes and some hotels are attached to the station. King's Cross or Fitzrovia for Eurostar: Eurostar asks standard-class passengers to be inside St Pancras 75 minutes before departure, and Fitzrovia is a walk or two Victoria line stops away. Victoria suits Gatwick and the coach station."
   - q: "Is Shoreditch a cheap area to stay in?"
