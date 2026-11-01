@@ -185,7 +185,7 @@ The two main east–west shopping streets, running parallel from the Piazza towa
 
 **The Bridge of Aspiration crosses Floral Street** — a twisting glass and aluminium footbridge of 2003 linking the Royal Ballet School to the Opera House, so dancers cross above the street between class and stage. It is free to look at.
 
-**Stanfords on Mercer Walk**, just off Long Acre, has been selling maps and travel books since 1853.
+**Stanfords on Mercer Walk**, just off Long Acre, has been selling maps and travel books since 1853. The London Transport Museum shop on the piazza lets in shop-only visitors without a museum ticket; both are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/), with Benjamin Pollock's toy theatres and Neal's Yard Dairy.
 
 These are working shopping streets, so they keep retail hours and go quiet by seven.
 

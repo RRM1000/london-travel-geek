@@ -3,7 +3,7 @@ title: "Notting Hill Area Guide: Portobello Road, Pastel Streets and Carnival"
 seoTitle: "Notting Hill Guide: Portobello Market & Best Streets"
 description: "A complete Notting Hill guide: when Portobello Road Market actually runs, which streets have the pastel houses, where to eat, and how long to spend."
 publishedAt: 2026-08-21
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2027-01-26
 sites:
   - london
@@ -140,6 +140,8 @@ The east–west shopping street, with independent fashion, homeware and brunch c
 It crosses Portobello Road about halfway along, which makes it the natural pivot point for a walk around the area.
 
 **Open all week, ordinary shop hours**, and considerably calmer than Portobello. Come on a Sunday or a Tuesday, when the market end is quiet.
+
+**Biscuiteers at 194 Kensington Park Road** is a shop and icing café selling iced biscuits, with a gift box at £10.25. It is in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 
 ### Golborne Road — the local end
 North of the Westway, a Portuguese and Moroccan neighbourhood with pastelarias selling custard tarts and a handful of antique dealers, with far fewer visitors.

@@ -138,7 +138,7 @@ In December Crafty Fox brings its Christmas maker market to Granary Square, on 6
 
 **King's Cross has the Western Concourse**, opened in 2012 — a single steel fan springing from one central funnel, and **Platform 9¾ is against the wall on the left**, outside the ticket barriers.
 
-**The trolley is free to look at and free to photograph yourself.** The staff photographer is optional and will use your phone. Expect a long wait at weekends and in school holidays; first thing in the morning is quietest. The shop beside it has no queue.
+**The trolley is free to look at and free to photograph yourself.** The staff photographer is optional and will use your phone. Expect a long wait at weekends and in school holidays; first thing in the morning is quietest. The shop beside it has no queue. Our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/) sorts it and London's other gift shops by price.
 
 ![The white lattice roof of the Western Concourse at King's Cross station fanning out above the crowds](../../assets/articles/kings-cross-area-guide/kings-cross-western-concourse.jpg)
 

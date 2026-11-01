@@ -3,7 +3,7 @@ title: "Shopping in London: Every Street, Market and Store Worth Your Time"
 seoTitle: "Shopping in London 2026: Best Areas, Markets & Prices"
 description: "Where to shop in London by what you want to buy: department stores, streets, markets, arcades and malls, with price guides and the two rules that catch every visitor out."
 publishedAt: 2026-07-01
-updatedAt: 2026-10-31
+updatedAt: 2026-11-01
 reviewBy: 2027-03-31
 sites: [london]
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "Which London market is best for antiques?"
     a: "Portobello Road on a Saturday, and only on a Saturday: the rest of the week is general market and food. Get there before 10am. For twentieth-century design rather than antiques, Alfies Antique Market in Marylebone is open Tuesday to Saturday, 10am to 6pm, and far calmer."
   - q: "How much should I budget for shopping in London?"
-    a: "A high-street outfit runs £60–£150, a decent pair of British-made shoes £150–£400, and cashmere from £120. Vintage at Camden or Brick Lane runs £15–£60 a piece. For edible gifts, Fortnum's tea starts at about £6 and Borough Market cheese at around £8 a wedge."
+    a: "A high-street outfit runs £60–£150, a decent pair of British-made shoes £150–£400, and cashmere from £120. Vintage at Camden or Brick Lane runs £15–£60 a piece. For edible gifts, Fortnum's tea starts at £5.95 for a pocket tin and Neal's Yard Dairy cheese at £13.95."
   - q: "Is Oxford Street worth visiting?"
     a: "For the department stores at the Selfridges end, yes. The chains are the same as in every British city, and one street back (Marylebone, Bond Street, Carnaby, Seven Dials) the shops are more varied. From 26 October 2026 the stretch between Orchard Street and Great Portland Street is traffic-free, buses included."
 heroImage: "../../assets/articles/shopping-in-london/covent-garden-market-hall.jpg"
@@ -35,7 +35,7 @@ Two things first, because both catch people out.
 
 > ⏰ **Sunday is a six-hour day.** Any shop **over 280 square metres** can open for only **six hours between 10am and 6pm**. Most of Oxford Street trades **noon to 6pm**, with some department stores open from **11.30am for browsing only**: you can look, you cannot pay. **Small independents and markets are exempt**, so Sunday is the best market day and the worst department store day.
 
-> 💡 **The Short Version:** **Oxford Street** has the high street chains and, from 26 October 2026, a traffic-free stretch. **Regent Street** and **Bond Street** are the architecture and the luxury. **Marylebone High Street** is the pick of the independent streets. **Camden and Brick Lane** are vintage. **Portobello is antiques, but only on Saturday.** **Westfield London** is everything indoors. **Food** is the best souvenir.
+> 💡 **The Short Version:** **Oxford Street** has the high street chains and, from 26 October 2026, a traffic-free stretch. **Regent Street** and **Bond Street** are the architecture and the luxury. **Marylebone High Street** is the pick of the independent streets. **Camden and Brick Lane** are vintage. **Portobello is antiques, but only on Saturday.** **Westfield London** is everything indoors. **For gifts to take home**, see [gifts and souvenirs from London](/articles/london-gifts-souvenirs/).
 
 ---
 
@@ -51,7 +51,7 @@ Two things first, because both catch people out.
 | Antiques | [Portobello Road](#markets-and-what-day-they-actually-run) | **Saturday only** |
 | Everything under one roof | [Westfield or Battersea](#malls-and-centres) | Any |
 | Books and records | [Charing Cross Road, Soho](#books-records-and-specialists) | Any |
-| Gifts to take home | [Food halls and markets](#what-to-actually-take-home) | Any |
+| Gifts to take home | [Gifts and souvenirs guide](/articles/london-gifts-souvenirs/) | Any |
 
 ---
 
@@ -229,26 +229,13 @@ The percentages are off list price rather than off what the item last sold for, 
 
 ## What to actually take home
 
-**Food is cheaper than fashion, more distinctive than a keyring, and survives the flight.**
-
-| What | Where | Rough price |
-| --- | --- | --- |
-| Tea | Fortnum & Mason, Postcard Teas | **from ~£6** a caddy |
-| Cheese | Neal's Yard Dairy, Borough Market | **~£8–£20** a wedge |
-| Marmalade and preserves | Fortnum's, Borough | **£5–£12** |
-| Gin | The distilleries, Gerry's in Soho | **£30–£45** |
-| Biscuits and shortbread | Fortnum's, M&S | **£5–£15** |
-| Liberty print silk scarf | Liberty | **from £95** |
-| Prints and art | Spitalfields, Columbia Road, Greenwich | **£15–£60** |
-| Vintage clothing | Camden, Brick Lane | **£15–£60** |
-| A proper British shirt | Jermyn Street | **£90–£200** |
-| British-made shoes | Jermyn Street, Northampton brands | **£150–£400** |
+**Food is cheaper than fashion, more distinctive than a keyring, and survives the flight.** Our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/) sorts the shops and their prices into under £10, £10 to £30 and £30 and over, and lists the museum shops you can enter without an admission ticket.
 
 ![A cheese stall at Borough Market with wheels of cheese stacked behind the counter](../../assets/articles/shopping-in-london/borough-market-cheese-stall.jpg)
 
 *Borough Market's cheese counter.*
 
-> ⚠️ **Check what you can take home.** Meat and dairy have restrictions entering many countries, including the EU and the US. Cheese is fine for most of Europe and **not permitted into the United States** in many forms. Neal's Yard and Borough will vacuum-pack cheese for travel if you say you are flying. Check your own country's rules before you buy £40 of Stilton.
+> ⚠️ **Check what you can take home.** Meat and dairy are restricted entering many countries. Check your own country's rules before you buy cheese or cured meat.
 
 ---
 

@@ -109,6 +109,8 @@ The centre: low-rise, largely independent, four minutes north of Oxford Street.
 
 **Daunt Books** is the anchor: an Edwardian bookshop with a galleried oak room, skylights and a stained-glass window at the back, shelved by country, not genre. **La Fromagerie**, Cadenhead's whisky shop and a run of delis fill the rest.
 
+Daunt and other shops for presents are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
+
 **A farmers' market runs behind it on Sundays**, the one day the street is busy. The high street is about eight minutes from Bond Street.
 
 ### Marylebone Lane
