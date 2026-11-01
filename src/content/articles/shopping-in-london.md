@@ -238,7 +238,7 @@ The percentages are off list price rather than off what the item last sold for, 
 | Marmalade and preserves | Fortnum's, Borough | **£5–£12** |
 | Gin | The distilleries, Gerry's in Soho | **£30–£45** |
 | Biscuits and shortbread | Fortnum's, M&S | **£5–£15** |
-| Liberty print scarf or fabric | Liberty | **£40+** |
+| Liberty print silk scarf | Liberty | **from £95** |
 | Prints and art | Spitalfields, Columbia Road, Greenwich | **£15–£60** |
 | Vintage clothing | Camden, Brick Lane | **£15–£60** |
 | A proper British shirt | Jermyn Street | **£90–£200** |
