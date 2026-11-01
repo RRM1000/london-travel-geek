@@ -118,7 +118,7 @@ Photography with hand-held flash is allowed in most galleries, but not tripods, 
 - **Tube:** Tottenham Court Road (Elizabeth line, Central, Northern), five minutes' walk. Holborn (Central, Piccadilly) and Russell Square (Piccadilly), seven. Goodge Street (Northern), eight.
 - **For Montague Place,** come in from Russell Square, or walk round from Tottenham Court Road.
 - **Bus:** routes 1, 8, 19, 25, 38, 55, 98 and 242 stop on New Oxford Street.
-- **By bike or car:** the museum has no parking, and its bicycle racks are closed for now. The nearest Santander Cycles docking station is on the corner of Great Russell Street and Montague Street, two minutes from the main entrance.
+- **By bike or car:** the museum has no parking, and its bicycle racks are closed as of November 2026. The nearest Santander Cycles docking station is on the corner of Great Russell Street and Montague Street, two minutes from the main entrance.
 
 ---
 
