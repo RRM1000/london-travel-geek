@@ -227,7 +227,7 @@ The mummies are why most children want to come. **Pick three things and leave**:
 
 ### Tower Bridge
 
-*Adult £18, child (5–15) £9 · under-5s free · Tower Hill*
+*Adult £18, child (5–15) £9 · under-5s free · Tower Hill · [full guide](/articles/tower-bridge-guide/)*
 
 The **glass floors in the high-level walkways** are what children come for, and a bus passing underneath your feet is the draw. The ticket also covers the Victorian engine rooms on the south side: the original coal-fired pumping engines that raised the bascules. **Adults are £18 and children aged 5 to 15 are £9, with under-5s free though they still need a ticket on the booking.** Open daily 09.30 to 18.00, last entry 17.00, and an hour covers it. **Watching the bridge lift from the pavement is free**, and the lift times are published on their site weeks ahead.
 

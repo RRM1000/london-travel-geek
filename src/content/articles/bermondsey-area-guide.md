@@ -88,7 +88,7 @@ Bermondsey has its own share of the commemorative plaques marking where notable 
 1. **Maltby Street Market** — Friday evenings and weekends along **Ropewalk**, a narrow alley beneath the arches. Go before midday at the weekend.
 2. **The Bermondsey Beer Mile** — Breweries and taprooms in the arches between Bermondsey and South Bermondsey, mostly open at weekends. The line-up changes, so check before you go.
 3. **White Cube Bermondsey** — Free, and described by White Cube as Europe's largest commercial gallery space, showing major contemporary work on Bermondsey Street.
-4. **Shad Thames** — The warehouse canyon east of Tower Bridge, with the original iron gantries still spanning the street overhead.
+4. **Shad Thames** — The warehouse canyon east of [Tower Bridge](/articles/tower-bridge-guide/), with the original iron gantries still spanning the street overhead.
 5. **Bermondsey Antiques Market** — Fridays on Bermondsey Square, 6am to 2pm. A working trade market; the best finds go early.
 6. **Fashion and Textile Museum** — Zandra Rhodes's orange and pink building on Bermondsey Street, ticketed, open Tuesday to Saturday 11am to 6pm, focused on textiles and design.
 7. **The Thames Path and Bermondsey Beach** — East from Tower Bridge past Butler's Wharf. At low tide a shingle foreshore is exposed with views back to the bridge.

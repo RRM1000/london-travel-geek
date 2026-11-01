@@ -87,9 +87,9 @@ The City of London has its own share of the commemorative plaques marking where 
 
 ## Top sights and activities
 
-1. **St Paul's Cathedral** — Wren's 1710 dome, and the 528-step climb to the Golden Gallery via the Whispering Gallery. Sightseeing is ticketed; **Evensong is free** and lets you sit in the quire.
+1. **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)** — Wren's dome, topped out in 1708, and the 528-step climb to the Golden Gallery via the Whispering Gallery. Sightseeing is ticketed; **Evensong is free**, with seats under the dome or in the nave.
 2. **Tower of London** — A Norman fortress begun in 1066, the Crown Jewels, the Yeoman Warders and the ravens. Book ahead and arrive at opening.
-3. **Tower Bridge** — The 1894 bascule bridge beside the Tower, and the one many visitors mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms.
+3. **[Tower Bridge](/articles/tower-bridge-guide/)** — The 1894 bascule bridge beside the Tower, and the one many visitors mistake for London Bridge. **Walking across it is free.** The ticketed Exhibition adds the high-level walkways, the glass floor over the road and the Victorian engine rooms.
 4. **Horizon 22** — Level 58 of 22 Bishopsgate, about ten metres above The Shard's gallery. Free; book a slot online.
 5. **[Sky Garden](/articles/sky-garden-guide/)** — The planted terrace at the top of 20 Fenchurch Street, the "Walkie-Talkie". Free with booking.
 6. **Leadenhall Market** — A painted Victorian arcade of 1881, where Hagrid walks Harry to the Leaky Cauldron in the first Harry Potter film. Best on a weekday when the traders are open.
@@ -118,7 +118,7 @@ The City of London has its own share of the commemorative plaques marking where 
 
 The cathedral, the square behind it, and One New Change, the shopping centre opposite, which has a free roof terrace.
 
-**St Paul's is £27 for an adult**, which includes the floor, the crypt and all three dome galleries. The climb to the Golden Gallery is **528 steps with no lift at any point** — 257 to the Whispering Gallery, 376 to the Stone, 528 to the top — and the cathedral itself advises against it for anyone with mobility difficulties. **Monday to Saturday only** for sightseeing; services are free to attend.
+**St Paul's is £27 for an adult**, which includes the floor, the crypt and all three dome galleries. The climb to the Golden Gallery is **528 steps with no lift at any point** — 257 to the Whispering Gallery, 376 to the Stone, 528 to the top — and the cathedral itself advises against it for anyone with mobility difficulties. **Monday to Saturday only** for sightseeing; services are free to attend. Our [St Paul's Cathedral guide](/articles/st-pauls-cathedral-guide/) has tickets, tours and the crypt.
 
 **The roof terrace at One New Change is free**, needs no ticket and gives you the dome at close range from directly opposite.
 
@@ -242,7 +242,7 @@ Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-t
 ## Common mistakes to avoid
 
 1. **Coming at the weekend without a food plan.** One New Change and Borough Market are the fallbacks.
-2. **Paying to enter St Paul's just to see inside.** Evensong is free daily and you sit in the quire.
+2. **Paying to enter St Paul's just to see inside.** Evensong is free, usually at 5pm Monday to Saturday and 3pm on Sunday, with seats under the dome.
 3. **Surfacing at the wrong Bank exit.** A dozen exits across a large junction; check which one you want first.
 4. **Walking to Canary Wharf.** It is much further than it looks. Take the DLR from Bank.
 

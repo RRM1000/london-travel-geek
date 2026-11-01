@@ -207,7 +207,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Late afternoon.** **Horizon 22** at Level 58 — **the highest free viewing platform in London**. Book a free slot in advance.
 
-**Evening.** **Evensong at St Paul's** — free, daily, and you sit in the quire instead of filing past on the £27 tourist route.
+**Evening.** **Evensong at [St Paul's](/articles/st-pauls-cathedral-guide/)** — free, usually at 5pm Monday to Saturday and 3pm on Sunday, with seats under the dome instead of the £27 tourist route.
 
 **[The full free London guide →](/articles/london-on-a-budget/)**
 

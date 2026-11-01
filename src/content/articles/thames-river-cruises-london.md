@@ -61,7 +61,7 @@ The cruises that cover most people, bookable on GetYourGuide:
 
 ## Sightseeing cruises
 
-The two main narrated services between Westminster and Greenwich both pass the Houses of Parliament, the London Eye, St Paul's, the Shard and the Tower, go under Tower Bridge and finish at the Cutty Sark.
+The two main narrated services between Westminster and Greenwich both pass the Houses of Parliament, the London Eye, [St Paul's](/articles/st-pauls-cathedral-guide/), the Shard and the Tower, go under [Tower Bridge](/articles/tower-bridge-guide/) and finish at the Cutty Sark.
 
 ### City Cruises
 

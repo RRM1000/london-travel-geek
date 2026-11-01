@@ -123,7 +123,7 @@ Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliam
 *Passing beneath Tower Bridge.*
 
 ### 2. Battersea Power Station ➔ Tower Hill
-Board at Battersea Power Station Pier and pass Westminster, Big Ben and the South Bank to land at Tower Pier beside the Tower of London and Tower Bridge.
+Board at Battersea Power Station Pier and pass Westminster, Big Ben and the South Bank to land at Tower Pier beside the Tower of London and [Tower Bridge](/articles/tower-bridge-guide/).
 * **Zones:** Central Zone Only (£9.90 off-peak PAYG).
 
 ### 3. Canary Wharf ➔ Greenwich Shortcut

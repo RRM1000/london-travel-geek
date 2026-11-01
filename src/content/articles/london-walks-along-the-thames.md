@@ -44,7 +44,7 @@ The Thames Path runs 185 miles from its source in Gloucestershire to the Thames 
 
 **[We have this one stop by stop →](/articles/south-bank-walk/)** — eleven numbered stops with a map, a Google Maps walking link and what is open on which day.
 
-**Detour:** cross the Millennium Bridge for St Paul's.
+**Detour:** cross the Millennium Bridge for [St Paul's](/articles/st-pauls-cathedral-guide/). The walk ends at [Tower Bridge](/articles/tower-bridge-guide/).
 
 ![The riverside walk at Gabriel's Wharf, a signed run of small shops and food units under plane trees](../../assets/articles/london-walks-along-the-thames/gabriels-wharf.jpg)
 

@@ -119,7 +119,7 @@ City Garden bar and Darwin Brasserie also close for a few hours on scattered dat
 
 Stepped beds of Mediterranean and South African plants, among them African lily, red hot poker, bird of paradise and French lavender, run up both sides of the main floor. Stairs climb the beds to the upper levels, and lifts link the floors for anyone who cannot use them.
 
-To the north and east are the Gherkin, the Cheesegrater and Tower 42 a few hundred metres away, then Canary Wharf on the horizon. To the south-east the river runs past the Tower of London, Tower Bridge and HMS Belfast.
+To the north and east are the Gherkin, the Cheesegrater and Tower 42 a few hundred metres away, then Canary Wharf on the horizon. To the south-east the river runs past the Tower of London, [Tower Bridge](/articles/tower-bridge-guide/) and HMS Belfast.
 
 ![The Tower of London, Tower Bridge, HMS Belfast and City Hall's glass dome on the Thames, seen from high above](../../assets/articles/sky-garden-guide/tower-bridge-from-sky-garden.jpg)
 

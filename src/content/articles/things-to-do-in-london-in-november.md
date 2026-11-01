@@ -90,6 +90,8 @@ The organiser's timetable puts the head of the procession at the Royal Courts by
 
 **For the full noise, stand between Bank and St Paul's from 11am; for room, take the Embankment after 1.15pm.** The organiser's advice is to get off at Mansion House, Cannon Street or Blackfriars rather than Bank or St Paul's. Almost the whole City is closed to traffic, and every bus route that normally crosses it turns back or goes round. There are no fireworks.
 
+St Paul's Cathedral marks the day with free entry to the Cathedral Floor and Crypt (last admission 4pm) and a £13.50 adult ticket for the Dome Galleries. See our [St Paul's Cathedral guide](/articles/st-pauls-cathedral-guide/).
+
 Our [City of London walk](/articles/city-of-london-walk/) fills the daylight left after the Show.
 
 ### Diwali — Sunday 8 November

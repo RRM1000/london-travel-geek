@@ -107,7 +107,7 @@ Walk into St James's or two stops to Covent Garden, not eating on the bridge app
 
 ### Tower Bridge
 
-*Six minutes, 470 metres, from the Tower gate.* **Walking across is free.** The Exhibition — the high walkways with the glass floor, and the Victorian engine rooms below the south approach — is ticketed and **[open daily 09:30 to 18:00, last entry 17:00](https://www.towerbridge.org.uk/plan-your-visit)**. Its ticket office is on the north-west side. On the **second Saturday of the month it runs a low-capacity Relaxed Opening, 09:30 to 11:30**, last entry 11:10, designed for neurodivergent visitors.
+*Six minutes, 470 metres, from the Tower gate.* **Walking across is free.** Our [Tower Bridge guide](/articles/tower-bridge-guide/) has the details. The Exhibition — the high walkways with the glass floor, and the Victorian engine rooms below the south approach — is ticketed and **[open daily 09:30 to 18:00, last entry 17:00](https://www.towerbridge.org.uk/plan-your-visit)**. Its ticket office is on the north-west side. On the **second Saturday of the month it runs a low-capacity Relaxed Opening, 09:30 to 11:30**, last entry 11:10, designed for neurodivergent visitors.
 
 ### The City, on foot
 
@@ -151,7 +151,7 @@ The [markets guide](/articles/best-london-markets/) has what to eat there and [b
 
 *Thirteen minutes and 980 metres from the Tate doors to the cathedral steps*, over the footbridge.
 
-**[Sightseeing is £27 an adult and £10.50 a child, Monday to Saturday only.](https://www.stpauls.co.uk/visits/visits/visiting-information)** The cathedral opens for sightseeing from 8.30am with last entry usually 4pm, and sightseeing ends half an hour after that. **The Dome Galleries open at 9.30am with last entry at 4.15pm**, so a late-afternoon arrival gets you the floor and the crypt and not the view. The climb is [528 steps with no lift at any point](/articles/city-of-london-area-guide/): 257 to the Whispering Gallery, 376 to the Stone, 528 to the Golden. **There is no sightseeing on a Sunday**; services are free to attend.
+**[Sightseeing is £27 an adult and £10.50 a child, Monday to Saturday only.](https://www.stpauls.co.uk/visits/visits/visiting-information)** The cathedral opens for sightseeing from 8.30am with last entry usually 4pm, and sightseeing ends half an hour after that. **The Dome Galleries open at 9.30am with last entry at 4.15pm**, so a late-afternoon arrival gets you the floor and the crypt and not the view. The climb is [528 steps with no lift at any point](/articles/st-pauls-cathedral-guide/): 257 to the Whispering Gallery, 376 to the Stone, 528 to the Golden. **There is no sightseeing on a Sunday**; services are free to attend.
 
 ### West to the London Eye
 

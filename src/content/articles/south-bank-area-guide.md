@@ -90,9 +90,9 @@ The South Bank has its own share of the commemorative plaques marking where nota
 3. **The Southbank Centre and BFI** — Brutalist arts complex with free foyer spaces, the secondhand book market under Waterloo Bridge, and the BFI's film programme.
 4. **Shakespeare's Globe** — A faithful reconstruction of the 1599 open-air theatre, 230 metres from the original site. **Standing in the yard is £10**, the cheapest way in — and a batch of **£5 Rush standing tickets is released every Friday at 11am** for the following week, including for shows that are otherwise sold out. The indoor, candlelit Sam Wanamaker Playhouse runs through the winter.
 5. **[The London Eye](/articles/london-eye-guide/)** — 30 minutes, 135 metres. Book a timed slot online; walk-up prices are considerably higher. Our [London Eye guide](/articles/london-eye-guide/) covers Fast Track vs standard queues, dynamic pricing and sunset timing.
-6. **Millennium Bridge** — The pedestrian bridge from Tate Modern to St Paul's, a five-minute crossing.
+6. **Millennium Bridge** — The pedestrian bridge from Tate Modern to [St Paul's](/articles/st-pauls-cathedral-guide/), a five-minute crossing.
 7. **Leake Street Arches** — A road tunnel under Waterloo station given over to legal graffiti, repainted constantly by anyone who turns up with a can. Free.
-8. **HMS Belfast and Tower Bridge** — At the eastern end. HMS Belfast is nine decks and around three hours; adult tickets start at £26.80, but **anyone on Universal Credit or Pension Credit pays £3, for up to five people in the household**, booked online. **Walking across Tower Bridge is free** — you only pay for the high-level walkways, the glass floor and the Victorian engine rooms.
+8. **HMS Belfast and [Tower Bridge](/articles/tower-bridge-guide/)** — At the eastern end. HMS Belfast is nine decks and around three hours; adult tickets start at £26.80, but **anyone on Universal Credit or Pension Credit pays £3, for up to five people in the household**, booked online. **Walking across Tower Bridge is free** — you only pay for the high-level walkways, the glass floor and the Victorian engine rooms.
 9. **Hay's Galleria** — The old Hay's Wharf, where Britain's tea came ashore, roofed over in 1987 with a glass barrel vault. Free, covered, and holding a sixty-foot kinetic sculpture called The Navigators. Directly behind HMS Belfast.
 
 ![The Navigators, a tall kinetic sculpture of ship parts, under the glass barrel vault of Hay's Galleria](../../assets/articles/south-bank-area-guide/hays-galleria.jpg)
@@ -179,7 +179,7 @@ Around them are three small paid museums: the **Old Operating Theatre**, a Georg
 
 **HMS Belfast** anchors this stretch. Nine decks, open 10am–5pm daily (last entry 4pm), and IWM suggests at least three hours. Adult tickets start at £26.80, but **anyone on Universal Credit, Pension Credit or several other benefits pays £3, covering up to five people in the household**, booked online in advance.
 
-Then **Tower Bridge**, which is free to walk across; the ticket buys the high-level walkways with the glass floor over the traffic and the Victorian engine rooms. **The bridge lifts around 800 times a year and the schedule is published weeks ahead** on its own site; watching it open from the riverside costs nothing.
+Then **Tower Bridge**, which is free to walk across; the ticket buys the high-level walkways with the glass floor over the traffic and the Victorian engine rooms. **The bridge lifts around 500 times a year and the schedule is published on its own site**; watching it open from the riverside costs nothing.
 
 A minute past the southern end of the bridge, on Horselydown Lane, **[Tower Bridge Collective](/articles/best-street-food-london/)** opened in October 2025: thirteen independent kitchens over two floors, open from 8am daily.
 

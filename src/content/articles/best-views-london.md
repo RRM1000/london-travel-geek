@@ -50,7 +50,7 @@ That changes the whole shape of this question. The Shard still has something no 
 | **London Bridge & Bankside** | The View from The Shard, Aqua Shard, Tate Modern Level 10, Southwark Bridge |
 | **South Bank** | OXO Tower gallery, Waterloo Bridge, Forza Wine, 12th Knot |
 | **Covent Garden** | Royal Ballet and Opera terrace |
-| **Tower & Bermondsey** | Tower Bridge |
+| **Tower & Bermondsey** | [Tower Bridge](/articles/tower-bridge-guide/) |
 | **Victoria** | Westminster Cathedral bell tower |
 | **Battersea** | The Chimney Lift |
 | **Greenwich & south-east** | Greenwich Park, Blackheath Point, Island Gardens, Severndroog Castle |
@@ -84,7 +84,7 @@ Not a panorama — **one spectacular framed view of St Paul's**, directly opposi
 
 The long hours are what make it valuable. It is the best free sunrise viewpoint in the City by a distance, and one of the few places you can photograph the cathedral lit up late at night.
 
-The irony: looking *at* St Paul's from here is free, and climbing *up* St Paul's costs £27.
+The irony: looking *at* St Paul's from here is free, and climbing *up* St Paul's costs £27 (see our [St Paul's Cathedral guide](/articles/st-pauls-cathedral-guide/)).
 
 ![The dome of St Paul's Cathedral behind a glass balustrade, with planted beds on a paved roof terrace and a tilted glass roof to the right under a blue sky](../../assets/articles/best-views-london/one-new-change-roof-terrace-st-pauls.jpg)
 

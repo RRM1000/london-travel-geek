@@ -242,6 +242,7 @@ For more, the area guides cover both ends: [Wapping](/articles/wapping-area-guid
 - **[Canary Wharf to Greenwich](/articles/canary-wharf-greenwich-walk/)** — starts at Crossrail Place, where this one ends. Carry on under the river.
 - **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — ends at St Katharine Docks, so walk it first.
 - **[South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)** — ends at Tower Bridge, beside St Katharine Docks.
+- **[Tower Bridge guide](/articles/tower-bridge-guide/)** — tickets, the glass floor and bridge lift times, a few minutes west of the start.
 
 ## What to do with the rest of the day
 

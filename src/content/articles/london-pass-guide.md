@@ -31,7 +31,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 ---
 
-A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — [Tower of London](/articles/tower-of-london-guide/), Westminster Abbey, St Paul's, the London Eye, Tower Bridge — come to **£144.00** booked direct at the prices those attractions charge on their own websites.
+A **2-day adult pass is £149**. The five attractions a first-time visitor actually names — [Tower of London](/articles/tower-of-london-guide/), Westminster Abbey, [St Paul's](/articles/st-pauls-cathedral-guide/), the London Eye, [Tower Bridge](/articles/tower-bridge-guide/) — come to **£144.00** booked direct at the prices those attractions charge on their own websites.
 
 **The pass loses by £5.00.** You need a sixth paid attraction in those two days before it starts to pay.
 
@@ -124,7 +124,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | --- | --- | --- | --- |
 | **Tower of London** | £38.00 | £19.00 | £41.80 / £21.00 with the optional 10% donation |
 | **Westminster Abbey** | £32.00 | £14.00 | Child 6–17; under 6 free |
-| **St Paul's Cathedral** | £27.00 | £10.50 | £29.70 / £11.55 with donation |
+| **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)** | £27.00 | £10.50 | £29.70 / £11.55 with donation |
 | **Windsor Castle** | £32.00 | £16.00 | **£36.00 / £18.00 on the day** |
 | **Buckingham Palace State Rooms** | £33.00 | £16.50 | **£37.00 / £18.50 on the day** (2026 prices); open in summer only, with 2027 tickets released in November; **not on the pass** |
 | **Hampton Court Palace** | £30.00 | £15.00 | £33.00 / £16.50 at weekends and bank holidays; from 28 November, Winter Palace prices are £33.00 / £16.50 weekdays and £36.00 / £18.00 at weekends |
@@ -132,7 +132,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **Madame Tussauds** | from £27.00 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |
-| **Tower Bridge** | £18.00 | £9.00 | Child 5–15; under 5 free but needs a ticket |
+| **[Tower Bridge](/articles/tower-bridge-guide/)** | £18.00 | £9.00 | Child 5–15; under 5 free but needs a ticket |
 | **Cutty Sark** | £22.00 | £11.00 | £10 entry on Tuesdays |
 | **Royal Observatory Greenwich** | £24.00 | £12.00 | £38 combined with Cutty Sark; closed from 2 November 2026 |
 | **Kew Gardens** | £25.00–£28.00 | £2.00–£4.00 | £25 online, £28 at the gate; child flat rate |

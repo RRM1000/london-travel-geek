@@ -171,6 +171,8 @@ The grounds are cobbled, with steep ramps and narrow spiral stairs. The Jewel Ho
 
 ## Continue planning your London trip
 
+- 🌉 **[Tower Bridge Guide](/articles/tower-bridge-guide/)** — the glass floor, the Engine Rooms and bridge lift times, next door.
+- ⛪ **[St Paul's Cathedral Guide](/articles/st-pauls-cathedral-guide/)** — the dome climb, the crypt and free Evensong, a walk west through the City.
 - 🏛️ **[City of London Area Guide](/articles/city-of-london-area-guide/)** — Roman ruins, Leadenhall Market, and historic pubs surrounding the Tower.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — where the Tower fits into an efficient Zone 1 walking plan.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — when the pass saves money on Tower admission and when it does not.

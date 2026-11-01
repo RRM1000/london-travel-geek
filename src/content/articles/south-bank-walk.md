@@ -192,7 +192,7 @@ Beside it, **Hay's Galleria** is a covered Victorian dock with a glass roof, now
 
 **Crossing it is free**; the road and pavements are a public highway. The ticketed parts are the high-level walkways with the glass floor and the Victorian engine rooms that powered the bascules.
 
-This is the end of the walk and the start of another one: cross the bridge and you are at the finish of our [City of London route](/articles/city-of-london-walk/), which runs back inland to Bank.
+Our [Tower Bridge guide](/articles/tower-bridge-guide/) has tickets, tours and bridge lift times. This is the end of the walk and the start of another one: cross the bridge and you are at the finish of our [City of London route](/articles/city-of-london-walk/), which runs back inland to Bank.
 
 ---
 
@@ -255,6 +255,7 @@ Walked east to west it works equally well and ends at Westminster, which is a be
 
 - **[Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/)** — starts at St Katharine Docks, beside Tower Bridge where this one ends.
 - **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — cross Tower Bridge and walk it backwards, or start it at Bank.
+- **[Tower Bridge guide](/articles/tower-bridge-guide/)** — the walkways, glass floor and bridge lift times, at the end of this walk.
 - **[Westminster](/articles/westminster-walk/)** — starts across Westminster Bridge from the London Eye.
 - **[Bankside and Borough](/articles/bankside-borough-walk/)** — the inland walk behind stops 7 to 9: the coaching-inn yards, the George, Cross Bones, the Clink and the Rose, from London Bridge station to the Millennium Bridge.
 
