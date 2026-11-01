@@ -27,7 +27,7 @@ faq:
   - q: "Is Platform 9¾ free?"
     a: "Yes. The trolley, the scarf and the queue cost nothing, you need no ticket, and staff will take the photo on your own phone. Only the professional photographer's print or digital file is paid for. The trolley is only out during the shop's hours: 8am-10pm Monday to Saturday, 9am-8pm Sunday."
   - q: "Where is the official Harry Potter shop in London?"
-    a: "There are three official shops in the UK. Harry Potter Shop King's Cross is inside the station at N1 9AP. A larger flagship opens at The Ribbon, 134-140 Oxford Street on 4 November 2026. The third is inside the Studio Tour and needs a valid tour ticket to enter."
+    a: "There are three official shops in the UK. Harry Potter Shop King's Cross is inside the station at N1 9AP. A larger flagship is at The Ribbon, 134-140 Oxford Street. The third is inside the Studio Tour and needs a valid tour ticket to enter."
   - q: "How do you get cheap Cursed Child tickets?"
     a: "The Friday Forty. Forty seats at £40 are released for every performance of the following week, entered through the TodayTix app between 12.01am and 1pm every Friday, with winners notified by 5pm the same day. There is no day-seat scheme for this production."
   - q: "Is the Warner Bros. Studio Tour afternoon tea in the Great Hall?"
@@ -161,7 +161,7 @@ The trolley half-buried in a wall at King's Cross, with a member of staff to fli
 
 **Harry Potter Shop King's Cross** — King's Cross station, N1 9AP, open 8am-10pm Monday to Saturday and 9am-8pm Sunday. The first shop Warner Bros. opened outside an attraction, back in 2012, with five themed areas and over 5,000 props in the fit-out. Free to walk into, no ticket.
 
-**Harry Potter Shop Oxford Street** — The Ribbon, 134-140 Oxford Street, **opening 4 November 2026**. Two floors themed as Diagon Alley, a Butterbeer counter, a full-sized Knight Bus at the back and a dragon over the Gringotts section. Our [Oxford Street guide](/articles/oxford-street-guide/) has the shop's exclusives, the Hogwarts Bear Ceremony booking and the street around it.
+**Harry Potter Shop Oxford Street** — The Ribbon, 134-140 Oxford Street. Two floors themed as Diagon Alley, a Butterbeer counter, a full-sized Knight Bus at the back and a dragon over the Gringotts section. Our [Oxford Street guide](/articles/oxford-street-guide/) has the shop's exclusives, the Hogwarts Bear Ceremony booking and the street around it.
 
 **Harry Potter Shop at the Studio Tour** — Leavesden. **You cannot visit it without a valid tour ticket for that day.** Do not drive to Hertfordshire to shop.
 

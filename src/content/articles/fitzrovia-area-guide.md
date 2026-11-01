@@ -145,7 +145,7 @@ Quiet, almost entirely residential Georgian streets between the square and Eusto
 
 The southern edge, running down to Oxford Street, **where the newer openings land**. It is a working stretch of offices, hotels and restaurants that change faster than elsewhere in Fitzrovia.
 
-**Tottenham Court Road station is at the bottom**, the fastest approach from the Elizabeth line. The Harry Potter Shop opens at 134-140 Oxford Street on Wednesday 4 November 2026; our [Oxford Street guide](/articles/oxford-street-guide/) has the details.
+**Tottenham Court Road station is at the bottom**, the fastest approach from the Elizabeth line. The Harry Potter Shop is at 134-140 Oxford Street; our [Oxford Street guide](/articles/oxford-street-guide/) has the details.
 
 ### Great Titchfield Street
 The western side, running towards Great Portland Street, **the coffee end of the neighbourhood**, including Kaffeine. Small independent shops fill the rest, and the rag-trade wholesalers that once occupied the whole street still hold some of it.

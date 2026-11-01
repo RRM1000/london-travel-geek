@@ -19,15 +19,15 @@ faq:
     a: "None go through the traffic-free stretch. Routes 7, N7, 94, N113 and N137 now end at Marble Arch, and routes 98, 139, 390, N98 and N207 use Wigmore Street, Henrietta Place and Cavendish Place, with stops about 200 metres from the closure. TfL lists minor changes to a further 16 routes on its Oxford Street area works page."
   - q: "Which station is best for Oxford Street?"
     a: "Bond Street (Elizabeth line, Central, Jubilee) for Selfridges and John Lewis, Oxford Circus (Central, Bakerloo, Victoria) for the east end of the closure, and Tottenham Court Road (Elizabeth line, Central, Northern) for the Harry Potter Shop. Bond Street and Tottenham Court Road are step-free; TfL's station data shows no lifts at Oxford Circus or Marble Arch."
-  - q: "When does the Harry Potter Shop open on Oxford Street?"
-    a: "Wednesday 4 November 2026, at The Ribbon, 134-140 Oxford Street, according to the Harry Potter Shop's own site. The Hogwarts Bear Ceremony inside needs a free timeslot booked in advance."
+  - q: "Where is the Harry Potter Shop on Oxford Street?"
+    a: "At The Ribbon, 134-140 Oxford Street, nearest Tottenham Court Road and Oxford Circus stations. The Hogwarts Bear Ceremony inside needs a free timeslot booked in advance."
   - q: "When is Oxford Street quietest?"
     a: "Oxford Street's own advice is weekday mornings. Weekends and the last days before Christmas are the busiest."
 heroImage: ../../assets/articles/oxford-street-guide/oxford-street-traffic-free.jpg
 heroImageAlt: "People walking down the middle of the road on traffic-free Oxford Street, under strings of hanging stars"
 ---
 
-> 💡 **The Short Version:** Since **Monday 26 October 2026**, no cars, buses, taxis, bicycles, e-scooters or pedicabs are allowed on **Oxford Street from Orchard Street (Selfridges) to Great Portland Street**, nearly a kilometre. Come by Tube: **Bond Street** for Selfridges and John Lewis, **Oxford Circus** for the east end, **Tottenham Court Road** for the new **Harry Potter Shop**, which opens **Wednesday 4 November 2026**. Go on a weekday morning, and turn off the street for the lanes and squares either side of it.
+> 💡 **The Short Version:** Since **Monday 26 October 2026**, no cars, buses, taxis, bicycles, e-scooters or pedicabs are allowed on **Oxford Street from Orchard Street (Selfridges) to Great Portland Street**, nearly a kilometre. Come by Tube: **Bond Street** for Selfridges and John Lewis, **Oxford Circus** for the east end, **Tottenham Court Road** for the new **Harry Potter Shop**. Go on a weekday morning, and turn off the street for the lanes and squares either side of it.
 
 *Closure, bus and shop details as of 31 October 2026.*
 
@@ -100,7 +100,7 @@ Listed west to east, with each shop's own opening hours. HMV has said its flagsh
 
 ### Harry Potter Shop
 
-The Ribbon, 134-140 Oxford Street, **opening Wednesday 4 November 2026**, according to the [shop's own page](https://harrypottershop.co.uk/pages/harry-potter-shop-oxford-street). It is east of Great Portland Street, so outside the traffic-free stretch. Tottenham Court Road and Oxford Circus are the nearest stations. The operator calls it the UK's largest official Harry Potter shop, on two floors themed as Diagon Alley.
+The [Harry Potter Shop](https://harrypottershop.co.uk/pages/harry-potter-shop-oxford-street) is at The Ribbon, 134-140 Oxford Street, east of Great Portland Street, so outside the traffic-free stretch. Tottenham Court Road and Oxford Circus are the nearest stations. The operator calls it the UK's largest official Harry Potter shop, on two floors themed as Diagon Alley.
 
 ![The red-brick and glass front of the Harry Potter Shop on Oxford Street, with gold lettering over the doors and people walking past](../../assets/articles/oxford-street-guide/harry-potter-shop-front.jpg)
 
