@@ -15,7 +15,7 @@ import fs from "node:fs";
 
 export const GROUPS = [
   ["music", "Gigs and concerts"], ["theatre", "Theatre openings"], ["sport", "Sport"], ["comedy", "Comedy"],
-  ["exhibition", "Exhibitions and shows"], ["festival", "Festivals and seasonal"], ["family", "Family"],
+  ["immersive", "Immersive shows"], ["exhibition", "Exhibitions and shows"], ["festival", "Festivals and seasonal"], ["family", "Family"],
 ];
 
 const BIG_VENUES = new Set([
@@ -36,8 +36,8 @@ const BIG_MUSEUMS = /^(V&A|Victoria and Albert|Tate |British Museum|National Gal
 // Add-ons and changes that are not events.
 const NOT_AN_EVENT = /\b(vip|hospitality|package|parking|upgrade|premium seat|stadium tour|moved to|cancelled|postponed)\b/i;
 const ENGLAND = /^England( Women)? v/i;
-const EVENT_TYPES = new Set(["festival", "seasonal", "exhibition-convention", "exhibition", "concert", "ceremony", "sporting-event"]);
-const EVENT_GROUP = { festival: "festival", seasonal: "festival", ceremony: "festival", concert: "music", "sporting-event": "sport", exhibition: "exhibition", "exhibition-convention": "exhibition" };
+const EVENT_TYPES = new Set(["festival", "seasonal", "exhibition-convention", "exhibition", "concert", "ceremony", "sporting-event", "secret-cinema", "immersive-theatre", "installation"]);
+const EVENT_GROUP = { "secret-cinema": "immersive", "immersive-theatre": "immersive", installation: "exhibition", festival: "festival", seasonal: "festival", ceremony: "festival", concert: "music", "sporting-event": "sport", exhibition: "exhibition", "exhibition-convention": "exhibition" };
 const SKIP_EVENTS = new Set(["peter-pan-cup"]);
 
 const norm = (s) => String(s ?? "").toLowerCase().replace(/&amp;/g, "and").replace(/[^a-z0-9]/g, "");
@@ -90,7 +90,7 @@ function fromEvents(events, today) {
     out.push({
       id: e.slug, title: e.name, group: EVENT_GROUP[e.type], start: e.startsOn, end, nights: 1,
       venue: String(e.venue ?? "").replace(/\s+\([^)]*\)\s*$/, ""),
-      url: e.guide ? guideUrl(e.guide) : e.type === "exhibition-convention" ? "/articles/exhibitions-conventions-london/" : "/whats-on/",
+      url: EVENT_GROUP[e.type] === "immersive" ? "/articles/immersive-experiences-london/" : e.guide ? guideUrl(e.guide) : e.type === "exhibition-convention" ? "/articles/exhibitions-conventions-london/" : "/whats-on/",
       linkLabel: "Our guide",
       onSale: "", note: "",
     });
@@ -159,7 +159,7 @@ export function loadMajorEvents(today, root = process.cwd()) {
 /** A month guide's short list: the month's biggest dates, sport and theatre included. */
 export function monthPicks(all, month, limit = 10) {
   const inMonth = all.filter((e) => monthKey(e.start) === month);
-  const shares = { music: 3, theatre: 3, sport: 3, festival: 2, exhibition: 2, comedy: 1, family: 0 };
+  const shares = { music: 3, theatre: 3, sport: 3, immersive: 1, festival: 2, exhibition: 2, comedy: 1, family: 0 };
   const picked = [];
   for (const [group, n] of Object.entries(shares)) picked.push(...inMonth.filter((e) => e.group === group).slice(0, n));
   return picked.sort((a, b) => a.start.localeCompare(b.start)).slice(0, limit);
