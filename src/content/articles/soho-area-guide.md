@@ -3,7 +3,7 @@ title: "Soho Guide: Chinatown, Carnaby Street and After Dark"
 seoTitle: "Soho Guide: Chinatown, Carnaby Street & Nightlife"
 description: "Soho is two places depending on when you arrive: a working media district with quiet streets and good coffee by day, a crowded nightlife district after six. Chinatown, Carnaby Street, Old Compton Street and where to eat late."
 publishedAt: 2026-08-03
-updatedAt: 2026-10-31
+updatedAt: 2026-11-01
 reviewBy: 2026-11-05
 sites:
   - london
@@ -124,7 +124,7 @@ By day it is coffee and outside tables; from about 9pm it is shoulder to shoulde
 ### Carnaby Street and Kingly Court
 Pedestrian shopping to the west, and **a district of lanes rather than one street**. Carnaby is the name people know, but the surrounding lanes hold most of the shops.
 
-**Liberty**, the mock-Tudor department store on the corner of Great Marlborough Street, was built in the 1920s from the timbers of two Royal Navy ships and is free to walk into.
+**Liberty**, the mock-Tudor department store on the corner of Great Marlborough Street, was built in the 1920s from the timbers of two Royal Navy ships and is free to walk into. Its silk scarves start at £95, and House of MinaLima at 157 Wardour Street sells illustrated classics at £28 to £35; both are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 
 **Come for Kingly Court**: three galleried floors around an open courtyard, almost entirely food and drink, and covered enough to use in the rain.
 

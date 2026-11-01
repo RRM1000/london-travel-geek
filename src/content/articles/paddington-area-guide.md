@@ -83,7 +83,7 @@ Paddington has its own share of the commemorative plaques marking where notable 
 1. **Little Venice** — The basin where the Grand Union and Regent's Canals meet, lined with painted narrowboats. Waterside pubs, a floating cafe and a puppet theatre barge.
 2. **The narrowboat waterbus to Camden** — About 45 minutes along Regent's Canal, from £17, through the Maida Hill tunnel and the grounds of London Zoo. It does not stop at the zoo.
 3. **The canal towpath west** — Follow the Grand Union towards Westbourne Park and Notting Hill. Flat and almost entirely traffic-free.
-4. **Paddington station itself** — Brunel's 1854 trainshed, and the Paddington Bear statue on the concourse. On the plaza outside, a bronze group of animals sits around a dining table.
+4. **Paddington station itself** — Brunel's 1854 trainshed, and the Paddington Bear statue on the concourse. On the plaza outside, a bronze group of animals sits around a dining table. The Paddington Bear Shop on the concourse is in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 5. **Paddington Basin** — The modern waterfront east of the station, with the Rolling and Fan Bridges and a run of canalside restaurants.
 6. **St Mary's Hospital and the Fleming Museum** — The laboratory where penicillin was discovered in 1928. Free; open Monday to Thursday, 10am to 1pm.
 

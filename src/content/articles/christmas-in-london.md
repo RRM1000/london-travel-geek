@@ -285,7 +285,7 @@ Hotels run festive tea menus, usually from early November to the first week of J
 
 **The Winter Garden at The Landmark** is a glass atrium eight storeys high with full-grown palms, decorated for the season, with a pianist and a harpist.
 
-**Fortnum & Mason's** Diamond Jubilee Salon is four floors above the food hall, so tea and Christmas shopping are the same trip.
+**Fortnum & Mason's** Diamond Jubilee Salon is four floors above the food hall, so tea and Christmas shopping are the same trip. Fortnum's Christmas hampers, Liberty's Christmas Shop and the Royal Mews Christmas Shop are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 
 **The Ritz** has five sittings a day and an enforced dress code, in the Palm Court. Book months out for December.
 

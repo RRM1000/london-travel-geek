@@ -79,7 +79,7 @@ South Kensington has its own share of the commemorative plaques marking where no
 ## Top sights and activities
 
 1. **[Natural History Museum](/articles/natural-history-museum-guide/)** — Alfred Waterhouse's terracotta building, with "Hope" the blue whale skeleton suspended in Hintze Hall. Open daily 10:00–17:50. The ticketed Wildlife Photographer of the Year exhibition runs from 16 October 2026 to 11 July 2027, with adult off-peak tickets from £17.
-2. **Victoria and Albert Museum (V&A)** — 145 galleries covering 5,000 years of art and design. The John Madejski Garden in the centre is a courtyard to sit in, and the Victorian refreshment rooms are billed by the V&A as the world's first museum cafe.
+2. **Victoria and Albert Museum (V&A)** — 145 galleries covering 5,000 years of art and design. Its three shops need no ticket and stay open until 9.45pm on Fridays; they are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/). The John Madejski Garden in the centre is a courtyard to sit in, and the Victorian refreshment rooms are billed by the V&A as the world's first museum cafe.
 3. **Science Museum** — Rockets, jet engines and the Apollo 10 command module. **Wonderlab** upstairs is hands-on and ticketed.
 4. **Royal Albert Hall** — The circular concert hall at the top of Exhibition Road. Home of the BBC Proms each summer, when standing tickets in the Arena or Gallery cost £8 on the day; the [Last Night of the Proms ticket routes](/articles/last-night-of-the-proms-tickets/) are set out separately.
 5. **Kensington Gardens and the Albert Memorial** — Across the road, with Kensington Palace at the far end and the Serpentine galleries in between.

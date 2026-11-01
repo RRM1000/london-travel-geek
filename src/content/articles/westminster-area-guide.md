@@ -3,7 +3,7 @@ title: "Westminster Area Guide: Big Ben, the Abbey and Whitehall"
 seoTitle: "Westminster Guide: Big Ben, Westminster Abbey & Timings"
 description: "A complete Westminster guide: the best view of Big Ben, what to book ahead, Abbey opening days, the Churchill War Rooms and how to avoid the worst crowds."
 publishedAt: 2026-08-04
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 sites:
   - london
 canonicalSite: london
@@ -155,6 +155,8 @@ The ceremonial route to Buckingham Palace, walk it for the park rather than take
 **There are pelicans**, descended from a gift to Charles II in 1664, and they are fed at the lakeside around 2.30pm each day.
 
 **Buckingham Palace State Rooms open only in summer**, roughly July to September, and are ticketed and timed. City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=westminster-area-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> is the ceremony with a guide followed by State Rooms entry, from £72 on GetYourGuide, 4.4 from 2,979 reviews; it runs only during the summer opening, from 9 July in 2027. The **Changing of the Guard at the Palace is free** but the crowd is deep — the Horse Guards version ten minutes away is the better watch.
+
+**The Royal Mews Christmas Shop**, on Buckingham Palace Road, needs no ticket. It is open from 13 November 2026 to 4 January 2027 and closed 24 to 26 December; see our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 
 **The park is free and open dawn to midnight.** St James's Park station is at the western end, Charing Cross at the eastern.
 

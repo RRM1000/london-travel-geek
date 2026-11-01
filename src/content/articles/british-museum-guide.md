@@ -228,7 +228,7 @@ Montague Place is step-free, and the Great Russell Street entrance has lifts eit
 
 ## Nearby
 
-The garden squares, Lamb's Conduit Street and the small free museums of Bloomsbury are all within ten minutes. Sir John Soane's Museum, a house kept as its owner left it in 1837, is covered in [the best museums in London](/articles/best-museums-london/).
+The garden squares, Lamb's Conduit Street and the small free museums of Bloomsbury are all within ten minutes. Sir John Soane's Museum, a house kept as its owner left it in 1837, is covered in [the best museums in London](/articles/best-museums-london/). The museum's shops and James Smith & Sons, the umbrella shop on New Oxford Street, are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 
 ---
 

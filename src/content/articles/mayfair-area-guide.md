@@ -3,7 +3,7 @@ title: "Mayfair Area Guide: The Arcades, Bond Street and the Royal Academy"
 seoTitle: "Mayfair Guide: Bond Street, Arcades & Free Galleries"
 description: "A complete Mayfair guide: the Victorian shopping arcades, the Royal Academy, Handel and Hendrix next door to each other, and the free things worth doing."
 publishedAt: 2026-08-20
-updatedAt: 2026-10-31
+updatedAt: 2026-11-01
 sites:
   - london
 canonicalSite: london
@@ -108,6 +108,8 @@ Old Bond Street at the Piccadilly end, New Bond Street running north to Oxford S
 **Allies**, the bench sculpture of Roosevelt and Churchill mid-conversation, sits halfway along, and you can sit down between them.
 
 **It is a weekday street.** The galleries and auction houses keep office hours and close at weekends, when only the shops are open. Bond Street station is at the north end, Green Park at the south.
+
+**Postcard Teas at 9 Dering Street**, off New Bond Street, sells single-estate tea from £9.50 and is closed on Sundays. It, Charbonnel et Walker in the Royal Arcade, and Fortnum & Mason and Hatchards on Piccadilly are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 
 ### The arcades and Piccadilly
 

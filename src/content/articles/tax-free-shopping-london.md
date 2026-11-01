@@ -109,7 +109,7 @@ Discounts are shop discounts, not tax. Gatwick's World Duty Free advertises **up
 
 Some things carry **no VAT for anyone**, resident or visitor: **printed books, newspapers and magazines; children's clothes, footwear and babywear; and most food** — though restaurant meals, hot takeaway, confectionery, crisps and alcohol are all standard-rated, and children's car seats are 5% rather than zero.
 
-**This is the only tax-free thing a visitor can carry out of a London shop.**
+**This is the only tax-free thing a visitor can carry out of a London shop.** Our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/) lists books and food gifts by price.
 
 ---
 

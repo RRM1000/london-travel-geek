@@ -301,7 +301,7 @@ A **miniature train ride through the actual tunnels** of the Post Office's own u
 
 Real Tube carriages and horse buses you can climb into, a 1938 stock car, and the poster archive — a century of commissioned design, alongside the Johnston typeface that has been on every roundel since 1916. It sits in the old flower market on the Covent Garden piazza.
 
-**It is ticketed, unlike most on this page, but the ticket lasts a year**, and the shop is open to anyone without a ticket.
+**It is ticketed, unlike most on this page, but the ticket lasts a year**, and the shop is open to anyone without a ticket. The [gifts and souvenirs guide](/articles/london-gifts-souvenirs/) lists it with the other museum shops that need no admission ticket.
 
 ### Horniman Museum and Gardens, Forest Hill
 

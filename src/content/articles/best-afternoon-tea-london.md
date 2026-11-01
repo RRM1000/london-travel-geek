@@ -126,7 +126,7 @@ Savouries lean British and specific: **smoked Scottish salmon**, seasonal pastri
 
 *££££ · the tea merchant's own salon · Cited by 2 sources*
 
-The **Diamond Jubilee Tea Salon**, opened by the Queen in 2012 on the fourth floor of the shop, where the tea list leads and the pastries follow. Fortnum's has been selling leaf since 1707.
+The **Diamond Jubilee Tea Salon**, opened by the Queen in 2012 on the fourth floor of the shop, where the tea list leads and the pastries follow. Fortnum's has been selling leaf since 1707, and its pocket tins of tea start at £5.95; the tea to take home is in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/).
 
 Savouries are British and specific: **Suffolk cured ham with piccalilli**, rare breed hen egg with cress, soft smoked salmon. Plain and fruit scones arrive warm with clotted cream, lemon curd and preserves, and the patisserie changes with the season.
 

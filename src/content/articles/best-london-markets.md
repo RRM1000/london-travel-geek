@@ -333,7 +333,7 @@ Check the difference before you plan a morning around one.
 * **Walking round costs nothing.** Borough, Spitalfields, Columbia Road, Portobello, Camden and Leadenhall are all free to enter.
 * **Street food runs roughly £8–£14 a dish** across Borough, Maltby Street and Brick Lane.
 * **Go in the last hour for flowers.** Columbia Road traders cut prices.
-* **Borough's cheese, charcuterie and oil stalls offer tastings.**
+* **Borough's cheese, charcuterie and oil stalls offer tastings.** For gifts from shops as well as stalls, see [gifts and souvenirs from London](/articles/london-gifts-souvenirs/).
 * **Billingsgate is free to walk into** and closes at 8:30am. Bring cash and a cool bag.
 
 ---

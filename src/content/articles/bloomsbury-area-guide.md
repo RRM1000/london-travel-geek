@@ -99,7 +99,7 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 
 ### Great Russell Street and the museum precinct
 
-The **British Museum** frontage and the souvenir shops opposite. The colonnade is the photograph; the Great Court is behind it.
+The **British Museum** frontage and the souvenir shops opposite. The museum's own shops and James Smith & Sons, the umbrella shop on New Oxford Street, are in our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/). The colonnade is the photograph; the Great Court is behind it.
 
 **The museum is free, and a free timed ticket from its website is recommended.** The queue forms on Great Russell Street; the **Montague Place door at the back** is the second entrance. Friday is the late night, until 20:30.
 
