@@ -1,5 +1,6 @@
 ---
 import { activeSite } from "../sites";
+import { isAdFree } from "../data/adFreePages";
 import SiteFooter from "../components/SiteFooter.astro";
 import SiteHeader from "../components/SiteHeader.astro";
 import "@fontsource-variable/fraunces";
@@ -216,6 +217,14 @@ const jsonLd = JSON.stringify(
         });
       })();
     </script>
+    {/*
+      Journey by Mediavine display ads. It stays above Google Analytics so its
+      consent prompt comes first. The tag is Mediavine's own, unaltered, and
+      src/data/adFreePages.ts lists the pages that skip it.
+    */}
+    {import.meta.env.PROD && !isAdFree(canonicalUrl.pathname) && (
+      <script is:inline type="text/javascript" async="async" data-noptimize="1" data-cfasync="false" src="//scripts.mediavine.com/tags/1f35f700-ab2d-4ad3-a29d-2c56589e4ac1.js"></script>
+    )}
     {import.meta.env.PROD && (
       <>
         {/*
