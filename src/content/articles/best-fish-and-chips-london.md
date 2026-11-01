@@ -382,6 +382,8 @@ Several of London's best fish and chips are served in dining rooms rather than c
 
 ---
 
+Poppies Fish and Chips is also in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
+
 ## Continue planning your London trip
 
 - 🇬🇧 **[Classic British Food in London](/articles/classic-british-food-london/)** — Scotch eggs, pie and mash, sausage rolls and proper puddings, dish by dish.

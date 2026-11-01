@@ -222,6 +222,8 @@ Dim sum in a **bar-led room** rather than a banquet hall, open into the evening:
 
 ---
 
+Din Tai Fung is also in the [chain restaurants guide](/articles/best-chain-restaurants-london/), with what to order and how to book.
+
 ## Continue planning your London trip
 
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**

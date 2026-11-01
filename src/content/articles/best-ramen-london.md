@@ -237,6 +237,8 @@ The **Tonkotsu Ramen** (pork broth) and **Miso Tonkotsu Ramen** are £14.50, and
 
 ## The chains, halal ramen and a luxury bowl
 
+Tonkotsu is also in the [chain restaurants guide](/articles/best-chain-restaurants-london/), alongside Dishoom, Hoppers, Padella and Hawksmoor.
+
 ### Tonkotsu
 
 *££ · Soho · 5 min from Leicester Square*

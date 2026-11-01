@@ -451,7 +451,7 @@ The brunch menu includes a **crab and 'nduja herby omelette** with brown crab ai
 
 ## Chains and mini-chains worth the visit
 
-Three chains are covered in full above: **[Granger & Co](#granger--co-notting-hill)** (four London sites), **[Dishoom](#dishoom-covent-garden)** (eight) and **[Caravan](#caravan-clerkenwell)** (seven). The rest are below.
+Three chains are covered in full above: **[Granger & Co](#granger--co-notting-hill)** (four London sites), **[Dishoom](#dishoom-covent-garden)** (eight) and **[Caravan](#caravan-clerkenwell)** (seven). The rest are below. For lunch and dinner at Dishoom, Hawksmoor and others, see the [chain restaurants guide](/articles/best-chain-restaurants-london/).
 
 ### The Breakfast Club, several sites
 

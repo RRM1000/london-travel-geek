@@ -284,6 +284,8 @@ Shellfish from Scottish waters treated with Spanish technique: **grilled langous
 
 ---
 
+Barrafina is also in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
+
 ## Continue planning your London trip
 
 - 🇮🇹 **[Best Italian Restaurants in London](/articles/best-italian-restaurants-london/)**

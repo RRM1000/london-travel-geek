@@ -394,6 +394,8 @@ Named by the listings sites rather than the critics.
 
 ---
 
+Honest Burgers, Blacklock and Flat Iron are also in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
+
 ## Continue planning your London trip
 
 - 🍔 **[Cheap Eats in London: Places to Eat Well Under £15](/articles/cheap-eats-london/)**

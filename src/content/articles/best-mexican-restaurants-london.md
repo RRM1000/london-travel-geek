@@ -48,7 +48,7 @@ faq:
 | **Chelsea** | Ixchel |
 | **Notting Hill** | Los Mochis |
 | **Shoreditch** | Zapote |
-| **Dalston & Stoke Newington** | Corrochio's, Sonora Taquería |
+| **Dalston & Stoke Newington** | Corrochio's |
 | **Peckham & south** | Guacamoles, Taquiza, Taca Tacos, La Chingada (Rotherhithe) |
 | **East London** | Homies on Donkeys (Leytonstone), Comalera (Walthamstow) |
 | **Tooting** | Guacamoles |
@@ -163,16 +163,6 @@ The masa is made from scratch daily. The scallop aguachile with Clamato and pome
 ![Sliced meat with pineapple on a corn tortilla](../../assets/articles/best-mexican-restaurants-london/zapote.jpg)
 
 *Tacos at Zapote. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53436663110), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
-### Sonora Taquería, Stoke Newington
-
-*££ · 208 Stoke Newington High Street* · Cited by 6 sources
-
-**Northern Mexican cooking**: Michelle Salazar de la Rocha is from Sonora, and the menu is Sonoran.
-
-Sonoran tortillas are **flour, not corn**, made in house from flour, salt, fat and water. Carne asada is the taco to order.
-
-Started as a Netil Market stall and took a permanent room in 2023.
 
 ### Corrochio's, Dalston
 
@@ -297,6 +287,8 @@ The **jackfruit carnitas** and the vegan **al pastor** are the orders. It is lou
 * **Service charge** of 12.5% is discretionary and standard.
 
 ---
+
+Wahaca, the Mexican chain, is in the [chain restaurants guide](/articles/best-chain-restaurants-london/).
 
 ## Continue planning your London trip
 
