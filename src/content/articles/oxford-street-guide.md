@@ -3,7 +3,7 @@ title: "Oxford Street, Traffic-Free: The Shops, the Food and the Streets Off It"
 seoTitle: "Oxford Street London: Traffic-Free Guide & Shops 2026"
 description: "Oxford Street has been traffic-free between Orchard Street and Great Portland Street since 26 October 2026. Where the closure runs, what happens to buses and bikes, which end to use, the shops worth the trip, where to eat and the side streets to turn into."
 publishedAt: 2026-10-31
-updatedAt: 2026-10-31
+updatedAt: 2026-11-01
 reviewBy: 2026-11-12
 sites: [london]
 canonicalSite: london
@@ -63,16 +63,20 @@ Oxford Street is traffic-free between **Orchard Street**, beside Selfridges, and
 
 | Station | Lines | Nearest to |
 | --- | --- | --- |
-| **Marble Arch** | Central | Marks & Spencer, west of the closure. Selfridges is four minutes east. No lifts |
-| **Bond Street** | Elizabeth line, Central, Jubilee | Selfridges, John Lewis, St Christopher's Place, South Molton Street, Marylebone Lane. Step-free |
+| **Marble Arch** | Central | Primark and Marks & Spencer, west of the closure. Selfridges is four minutes east. No lifts |
+| **Bond Street** | Elizabeth line, Central, Jubilee | Selfridges, the Disney Store, Zara, Uniqlo, John Lewis, St Christopher's Place, South Molton Street, Marylebone Lane. Step-free |
 | **Oxford Circus** | Central, Bakerloo, Victoria | The east end of the closure, IKEA, Carnaby Street, the Photographers' Gallery. No lifts |
-| **Tottenham Court Road** | Elizabeth line, Central, Northern | The Harry Potter Shop, Soho Street, Rathbone Place. Step-free |
+| **Tottenham Court Road** | Elizabeth line, Central, Northern | The Harry Potter Shop, the second Primark, Soho Street, Rathbone Place. Step-free |
 
 TfL names Bond Street and Tottenham Court Road as the step-free stations on its Oxford Street page. Its station data lists no lifts at Oxford Circus or Marble Arch. [Step-Free London](/articles/step-free-london/) covers the rest of the network, and the [transport guide](/articles/getting-around-london-transport-guide/) covers fares and the Elizabeth line.
 
 ## The shops worth the trip
 
-Listed west to east, with each shop's own opening hours. HMV has said its flagship at 363 Oxford Street will [close in March 2027](https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo).
+Listed west to east. HMV has said its flagship at 363 Oxford Street will [close in March 2027](https://www.bbc.co.uk/news/articles/cjzxl7ee4e9xo).
+
+### Primark
+
+Two stores, one beyond each end of the closure. [499-517 Oxford Street](https://marble-arch.london/shopping/primark-marble-arch/), beside Marble Arch station, has three floors and 70,000 sq ft of clothes, lingerie, beauty and homeware. The other is at 14-28 Oxford Street, beside Tottenham Court Road station.
 
 ### Marks & Spencer, Marble Arch
 
@@ -86,6 +90,18 @@ Listed west to east, with each shop's own opening hours. HMV has said its flagsh
 
 *Selfridges. Photo: Daniel X. O'Neil, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Selfridges_Oxford_Street_at_Night,_London_2012-12-29.jpg).*
 
+### Disney Store
+
+[350-352 Oxford Street](https://stores.disneystore.co.uk/london/london/D350/), a few minutes east of Selfridges, near Bond Street station. Open **9am to 10pm Monday to Saturday and 12pm to 6pm on Sunday**, so it suits an evening visit with children.
+
+### Zara
+
+333 Oxford Street, the [refreshed flagship](https://www.oxfordstreet.co.uk/whats-happening/a-new-look-shop-at-zaras-refreshed-flagship/). Go for the fragrance space, which sells an exclusive "Bond Street" scent, and for monogram embossing on leather goods. It also has a clothing repair service. Open **9.30am to 9pm Monday to Saturday and 11.30am to 6pm on Sunday**.
+
+### Uniqlo
+
+[311 Oxford Street](https://map.uniqlo.com/uk/en/detail/102890), between Bond Street and Oxford Circus stations. This is the big one of Uniqlo's three stores on the street, selling women's, men's, kids' and baby clothes. UTme! prints your own design on a T-shirt, and RE.UNIQLO STUDIO repairs and remakes clothes. Open **10am to 9pm Monday to Saturday and 11.30am to 6pm on Sunday**, with browsing only until 12pm on Sunday.
+
 ### John Lewis
 
 300 Oxford Street. Open **10am to 8pm Monday, Tuesday, Wednesday, Friday and Saturday, 10am to 9pm Thursday and 11.30am to 6pm Sunday**; the [Christmas hours](#christmas-opening-hours) are below. John Lewis says the refurbished store has a new 300-seat restaurant and a sports department. The 1864 Rooftop Bar & Kitchen is on the roof, and its festive igloos take bookings for dinners and parties.
@@ -97,6 +113,18 @@ Listed west to east, with each shop's own opening hours. HMV has said its flagsh
 ### IKEA Oxford Street
 
 214 Oxford Street, at the Oxford Circus end. The store stocks 3,500 smaller home items to take away, and the rest of the range is for delivery or collection, so bring a bag. Open **10am to 9pm Monday to Saturday and 12pm to 6pm on Sunday**; the bistro and Swedish food market keep slightly shorter hours, according to the [store page](https://www.ikea.com/gb/en/stores/oxford-street/).
+
+### Nike
+
+NikeTown at 236 Oxford Street has closed for a rebuild. The stand-in is [Nike Oxford Circus](https://www.nike.com/retail/s/nike-oxford-circus/), at 253-259 Regent Street, just south of the Circus. It has Jersey by You football shirt customising and a Nike Sport Research Lab that analyses runners. Open **10am to 8pm Monday to Saturday and 12pm to 6pm on Sunday**.
+
+### Adidas, NBA Store and Pop Mart
+
+Three more for a specific trip, all on the traffic-free stretch. [Adidas](https://www.oxfordstreet.co.uk/shop/adidas/) has its flagship at 425 Oxford Street, near Bond Street station. The [NBA Store](https://www.oxfordstreet.co.uk/shop/nba-store/) at 267 Oxford Street has a personalisation station, and [Pop Mart](https://www.oxfordstreet.co.uk/shop/pop-mart/) at 262 sells blind-box collectibles such as Labubu and Sonny Angel.
+
+### Liverpool FC store
+
+[Opened on 15 May 2026](https://www.liverpoolfc.com/news/lfc-opens-oxford-street-store-special-appearance-sir-kenny-dalglish), it is the club's first standalone London store and the first Premier League club shop on Oxford Street. It sells official kits, an exclusive collection and personalised merchandise.
 
 ### Harry Potter Shop
 
