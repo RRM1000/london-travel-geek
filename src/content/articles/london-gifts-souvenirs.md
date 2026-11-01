@@ -184,7 +184,7 @@ For Harry Potter fans, the official Harry Potter Shop at King's Cross station an
 
 *Brompton Road, Knightsbridge · Harrods tea and biscuit tins*
 
-The Food Halls on the ground floor of [Harrods](https://www.harrods.com/), by Knightsbridge station, are the part of the store to head for if you want a gift. They are a run of grand food rooms selling chocolate, tea, biscuits and hampers, and the one to take home is Harrods' own tea or biscuits in a tin printed with the shop's frontage, because the name on the tin is the point. If Harrods ships a purchase to an overseas address, the VAT comes off at the till, which is covered in the [tax-free shopping guide](/articles/tax-free-shopping-london/).
+The Food Halls on the ground floor of [Harrods](https://www.harrods.com/), by Knightsbridge station, are the part of the store to head for if you want a gift. They are a run of grand food rooms selling chocolate, tea, biscuits and hampers, and the one to take home is Harrods' own tea or biscuits in a tin printed with the shop's frontage. If Harrods ships a purchase to an overseas address, the VAT comes off at the till, which is covered in the [tax-free shopping guide](/articles/tax-free-shopping-london/).
 
 For the rest, Fortnum & Mason, Postcard Teas, Neal's Yard Dairy, Biscuiteers and Twinings are in the price sections above.
 

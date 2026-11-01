@@ -260,7 +260,7 @@ It is a concert, not a service, and secular in feel. **Tickets go on sale in the
 
 **St Martin-in-the-Fields**, on the corner of Trafalgar Square, runs a long season of carols by candlelight, the one to pick if you want a church rather than a concert hall. **St Paul's Cathedral** and **Westminster Abbey** both hold carol services, under the dome and in the nave respectively, and both are heavily oversubscribed. **Southwark Cathedral** is the quieter, easier alternative on the south bank, and **Union Chapel** in Islington does the least formal version of all, in a Victorian octagon with the pews still in.
 
-> ⚠️ **Cathedral carol services are free but not open-door.** St Paul's and Westminster Abbey release seats by ballot or advance booking, and the queue for any unallocated space forms long before the doors do. Check each cathedral's own site from about October.
+> ⚠️ **Cathedral carol services are not open-door.** St Paul's and Westminster Abbey release seats by ballot or advance booking, and the St Paul's carol services on 23 and 24 December are ticketed. Book on each cathedral's own site.
 
 ### Carols for nothing
 
