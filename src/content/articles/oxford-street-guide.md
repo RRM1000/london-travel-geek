@@ -115,7 +115,11 @@ It says the shop has:
 
 > ⚠️ **The Hogwarts Bear Ceremony needs a booking.** Reserve a free timeslot on the [shop's booking page](https://harrypottershop.co.uk/pages/hogwarts-bear-ceremony). Availability shows seven days ahead, and the £75 per bear is paid after the five-to-seven-minute ceremony, on the first floor opposite the Leaky Cauldron's exit.
 
-It is a shop, not the Studio Tour: the Studio Tour's own shop needs a tour ticket, and our [Studio Tour guide](/articles/harry-potter-studio-tour/) covers tickets and transport. [Harry Potter in London](/articles/harry-potter-london/) compares the three official shops, and the [filming locations walk](/articles/harry-potter-filming-locations-walk/) passes the one at King's Cross. For VAT, see [tax-free shopping](/articles/tax-free-shopping-london/), and for the rest of the city's shopping, [shopping in London](/articles/shopping-in-london/).
+It is a shop, not the Studio Tour: the Studio Tour's own shop needs a tour ticket, and our [Studio Tour guide](/articles/harry-potter-studio-tour/) covers tickets and transport. [Harry Potter in London](/articles/harry-potter-london/) compares the three official shops, and the [filming locations walk](/articles/harry-potter-filming-locations-walk/) passes the one at King's Cross. For a Harry Potter day out, these cover the Studio Tour and the film locations:
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-street-guide-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,912548,772912"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+For VAT, see [tax-free shopping](/articles/tax-free-shopping-london/), and for the rest of the city's shopping, [shopping in London](/articles/shopping-in-london/).
 
 ## Where to eat
 
