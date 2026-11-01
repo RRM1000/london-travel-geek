@@ -1,10 +1,10 @@
 ---
 title: "How to Use London Buses and Trams: A Visitor's Guide"
-seoTitle: "London Buses and Trams: the £1.75 Flat Fare Explained"
-description: "Every London bus and tram journey costs £1.75 however far you go, and the Hopper gives you unlimited transfers for 60 minutes on that one fare. How to pay, how to plan, and the routes worth riding for the view."
+seoTitle: "London Buses and Trams: the £1.85 Flat Fare Explained"
+description: "Every London bus and tram journey costs £1.85 however far you go, and the Hopper gives you unlimited transfers for 60 minutes on that one fare. How to pay, how to plan, and the routes worth riding for the view."
 publishedAt: 2026-07-28
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2027-02-01
 sites:
   - london
 canonicalSite: london
@@ -24,12 +24,12 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-**Every London bus is £1.75 flat, however far you go**, against £3.00 to £5.90 on the Tube — and the Hopper fare lets you change buses free within an hour. Buses also reach neighbourhoods with no Tube station.
+**Every London bus is £1.85 flat, however far you go**, against £3.00 to £5.90 on the Tube — and the Hopper fare lets you change buses free within an hour. Buses also reach neighbourhoods with no Tube station.
 
 > 💡 **Bus & Tram Snapshot:**  
-> - **Flat Fare:** All London bus and tram journeys cost a flat **£1.75** (no peak rates, no distance zones).  
+> - **Flat Fare:** All London bus and tram journeys cost a flat **£1.85** (no peak rates, no distance zones).  
 > - **Touch In ONLY:** Always tap your contactless bank card, phone, or Oyster card ONCE on the yellow reader beside the driver as you board. **Never touch out** when exiting.  
-> - **Hopper Fare:** Make unlimited bus and tram transfers within **60 minutes** of your first tap for just **£1.75**.  
+> - **Hopper Fare:** Make unlimited bus and tram transfers within **60 minutes** of your first tap for just **£1.85**.  
 > - **100% Cashless:** Drivers do not accept cash. Every passenger must tap their own card or phone.
 
 ---
@@ -38,7 +38,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 
 | Feature | London Bus | London Underground (Tube) |
 | --- | --- | --- |
-| **Single Adult Fare** | Flat **£1.75** everywhere | **£3.00 – £5.90** *(Zones 1–6)* |
+| **Single Adult Fare** | Flat **£1.85** everywhere | **£3.00 – £5.90** *(Zones 1–6)* |
 | **Sightseeing & Views** | 🌟 Top deck front seats offer scenic views | Underground in dark tunnels |
 | **Speed & Timing** | Subject to road traffic & diversions | High-speed, fixed schedules |
 | **Accessibility** | 100% low-floor with wheelchair ramps | ~33% step-free stations |
@@ -66,8 +66,8 @@ Every route runs low-floor buses with an access ramp and one wheelchair space, a
 
 ## How the Hopper Fare works
 
-* **60-Minute Window:** Board as many TfL buses or trams as you want within **60 minutes** of your first tap, and you will only be charged a total of **£1.75**.
-* **Automatic Discount:** Tap in on every bus you board with the same card or device and the extra £1.75 charges are waived.
+* **60-Minute Window:** Board as many TfL buses or trams as you want within **60 minutes** of your first tap, and you will only be charged a total of **£1.85**.
+* **Automatic Discount:** Tap in on every bus you board with the same card or device and the extra £1.85 charges are waived.
 
 ### Mixing Buses and the Underground
 
@@ -75,16 +75,16 @@ Every route runs low-floor buses with an access ramp and one wheelchair space, a
 
 | Journey Combination | What You Pay |
 | --- | --- |
-| **Bus ➔ Bus** *(within 60 mins)* | **£1.75** total *(Hopper fare)* |
-| **Bus ➔ Tube** | £1.75 bus fare + Underground Tube fare |
-| **Bus ➔ Tube ➔ Bus** *(within 60 mins of 1st bus)* | **£1.75** for both buses + Underground Tube fare |
-| **Bus ➔ Bus** *(after 60 mins)* | £1.75 + £1.75 = **£3.50** |
+| **Bus ➔ Bus** *(within 60 mins)* | **£1.85** total *(Hopper fare)* |
+| **Bus ➔ Tube** | £1.85 bus fare + Underground Tube fare |
+| **Bus ➔ Tube ➔ Bus** *(within 60 mins of 1st bus)* | **£1.85** for both buses + Underground Tube fare |
+| **Bus ➔ Bus** *(after 60 mins)* | £1.85 + £1.85 = **£3.70** |
 
 ---
 
 ## Top 4 sightseeing bus routes for visitors
 
-Sit on the top deck at the front window of an ordinary red TfL bus and the fare is the same **£1.75** as any other journey:
+Sit on the top deck at the front window of an ordinary red TfL bus and the fare is the same **£1.85** as any other journey:
 
 | Route Number | Useful Sightseeing Section | Key Landmarks Passed |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ London Trams operate across South London surrounding **Croydon, Wimbledon, Becke
 1. **Tap on the Platform:** Touch your Oyster or contactless card on the yellow reader at the tram stop **before stepping onto the tram**.
 2. **Never Touch Out:** Do not touch out after exiting the tram.
 3. **Wimbledon Interchange Rule:** When interchanging at Wimbledon station, touch the dedicated **tram-only reader on Platform 10**.
-4. **Fares:** Tram fares match bus fares (£1.75 flat rate) and are included in the 60-minute Hopper. All tram stops feature step-free street-to-tram access.
+4. **Fares:** Tram fares match bus fares (£1.85 flat rate) and are included in the 60-minute Hopper. All tram stops feature step-free street-to-tram access.
 
 ---
 
@@ -127,7 +127,7 @@ London Trams operate across South London surrounding **Croydon, Wimbledon, Becke
 1. **Touching out when leaving a bus.**
 2. **Waiting at the wrong stop flag letter:** Major stations have several stops (A, B, C, D) on adjacent streets, so match the letter in your app.
 3. **Forgetting to signal the driver:** Drivers will not stop unless you extend your arm.
-4. **Using different devices:** Tapping in with a bank card on Bus 1 and Apple Pay on Bus 2 counts as two different cards (charging £1.75 twice).
+4. **Using different devices:** Tapping in with a bank card on Bus 1 and Apple Pay on Bus 2 counts as two different cards (charging £1.85 twice).
 5. **Trying to pay cash:** London buses have been 100% cashless since 2014.
 6. **Pressing the STOP button too late:** Press it as the bus leaves the stop before yours.
 7. **Forgetting the Wimbledon Platform 10 tap** when transferring to trams.

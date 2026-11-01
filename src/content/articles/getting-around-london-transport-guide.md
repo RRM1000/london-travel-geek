@@ -29,7 +29,7 @@ The Underground (the "Tube") is the network most visitors know, but buses, commu
 
 > 💡 **Master Transport Snapshot:**  
 > - **Fastest Central Travel:** Take the Underground or the high-speed Elizabeth line.  
-> - **Sightseeing & Short Hops:** Use the red double-decker buses (£1.75 flat fare with 60-minute unlimited Hopper transfers).  
+> - **Sightseeing & Short Hops:** Use the red double-decker buses (£1.85 flat fare with 60-minute unlimited Hopper transfers).  
 > - **Airports:** Heathrow, Gatwick, and London City are linked by train/DLR. Stansted and Luton accept contactless cards, but **do NOT accept Oyster cards**.  
 > - **Paying:** Always tap in and out using the exact same contactless card or Oyster card for automatic daily capping.
 
@@ -115,14 +115,14 @@ National Rail lines link London's major terminal stations (Waterloo, Victoria, L
 ## London Buses & Trams
 
 ### Red Double-Decker Buses
-London buses run across the capital 24 hours a day. They are **cashless** and cost a flat **£1.75 per ride**.
+London buses run across the capital 24 hours a day. They are **cashless** and cost a flat **£1.85 per ride**.
 
 * **Touch In Only:** Always tap your contactless card or Oyster card on the yellow reader when boarding. **Never touch out** when alighting a bus.
-* **Hopper Fare:** Make unlimited bus and tram transfers within **60 minutes** of your first tap for just **£1.75**.
+* **Hopper Fare:** Make unlimited bus and tram transfers within **60 minutes** of your first tap for just **£1.85**.
 * **Sightseeing:** The top-deck front seat on routes 11, 15 or 24 is cheap sightseeing.
 
 ### London Trams
-Operating in South London around Croydon, Wimbledon, and Beckenham, London Trams connect with Overground and National Rail services. Fares match the bus network (£1.75 flat fare). Tap in on the platform reader before stepping onto the tram.
+Operating in South London around Croydon, Wimbledon, and Beckenham, London Trams connect with Overground and National Rail services. Fares match the bus network (£1.85 flat fare). Tap in on the platform reader before stepping onto the tram.
 
 ### Hop-On Hop-Off Sightseeing Buses
 

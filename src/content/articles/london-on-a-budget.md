@@ -23,7 +23,7 @@ faq:
   - q: "How much should I budget for food in London?"
     a: "£25–£35 a day eats well if you use markets and counters — £5 for breakfast, £10 for lunch, £15 for dinner. Sit-down restaurant meals start around £20 a head and rise fast."
   - q: "What is the cheapest way to get around London?"
-    a: "Contactless or Oyster, and never a paper ticket. Buses are capped at about £5.25 a day regardless of how many you take. Walking is free and central London is smaller than it looks — Covent Garden to Soho is five minutes."
+    a: "Contactless or Oyster, and never a paper ticket. Buses are capped at about £5.55 a day regardless of how many you take. Walking is free and central London is smaller than it looks — Covent Garden to Soho is five minutes."
   - q: "Is the London Pass worth it?"
     a: "Only if you are doing several expensive paid attractions in a short time. Since the best museums are already free, most visitors are better off paying for the two or three ticketed things they actually want."
 ---
@@ -57,7 +57,7 @@ Five lines carry almost the whole budget, and only one of them is unavoidable.
 | **Day total** | **about £32** | **about £150** | |
 
 The daily cap does the work on transport: **£8.90 across Zones 1–2** however
-much you travel, and **£5.25 if you only use buses**. You cannot overspend on
+much you travel, and **£5.55 if you only use buses**. You cannot overspend on
 transport in London unless you take taxis or buy paper tickets.
 
 **Seeing things is the line most people get wrong in both directions.** London
@@ -137,7 +137,7 @@ Gigs, comedy and theatre with an evening ticket at £15 or under, for the week a
 ## Getting around
 
 * **Always use contactless or Oyster.** A paper single is roughly double.
-* **Buses cap at about £5.25 a day** however many you take — and you see the city.
+* **Buses cap at about £5.55 a day** however many you take — and you see the city.
 * **Walk.** Covent Garden to Soho is five minutes; Westminster to the South Bank is ten. The Tube map is not to scale and it makes London look far bigger than it is.
 * **Under-11s travel free** with a fare-paying adult.
 * **Avoid Zone 1 in the morning peak** if your ticket allows — off-peak fares are materially cheaper.

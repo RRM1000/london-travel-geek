@@ -3,8 +3,8 @@ title: "Five Days in London: The Itinerary With Room to Breathe"
 seoTitle: "Five Days in London Itinerary: Day by Day"
 description: "Five days in London with hours, prices, TfL walking times and the river fare to Greenwich: Westminster, the City, the South Bank, Greenwich by boat, and one museum district with its neighbourhood."
 publishedAt: 2026-08-14
-updatedAt: 2026-10-26
-reviewBy: 2026-11-01
+updatedAt: 2026-11-01
+reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -16,7 +16,7 @@ faq:
   - q: "What is different about a five-day London plan versus three days?"
     a: "Three days puts the Tower and the entire South Bank in one march. Five days splits them: the Tower and the City on day two, the South Bank end to end on day three. It also buys a full day in Greenwich and a fifth day that is not a sightseeing day at all."
   - q: "How do I get to Greenwich from central London, and what does it cost?"
-    a: "By Uber Boat by Thames Clippers from Westminster, Embankment or Tower piers. Westminster to Greenwich is scheduled at 56 to 60 minutes on the weekend timetable and Tower to Greenwich at about 25 minutes. Pay with contactless: Central and East zones cost £11.40 off-peak and £13.70 peak, and Saturdays, Sundays and bank holidays are charged at the peak fare all day. River fares do not count towards the Tube and bus daily cap."
+    a: "By Uber Boat by Thames Clippers from Westminster, Embankment or Tower piers. Westminster to Greenwich is scheduled at 56 to 60 minutes on the weekend timetable and Tower to Greenwich at about 25 minutes. Pay with contactless: Central and East zones cost £11.40 off-peak and £12.40 peak, and Saturdays, Sundays and bank holidays are charged at the peak fare all day. River fares do not count towards the Tube and bus daily cap."
   - q: "What does Greenwich cost once you are there?"
     a: "Cutty Sark is £22 for an adult and £11 for a child. The Royal Observatory is £24 and £12 until it closes on 2 November 2026. The Painted Hall at the Old Royal Naval College is £19 and children go free. The National Maritime Museum, the Queen's House, Greenwich Park, Greenwich Market and the view from the Observatory hill are all free."
   - q: "Should I take a day trip out of London on a five-day visit?"
@@ -171,10 +171,10 @@ Walk-up tickets for the **London Eye** are £39 an adult and £35 a child aged 2
 
 | From | Scheduled to Greenwich | Contactless off-peak | Contactless peak |
 | --- | --- | ---: | ---: |
-| **Westminster** | 56–60 min | **£11.40** | **£13.70** |
-| **Tower** | about 25 min | **£11.40** | **£13.70** |
+| **Westminster** | 56–60 min | **£11.40** | **£12.40** |
+| **Tower** | about 25 min | **£11.40** | **£12.40** |
 
-Journey times are from the weekend eastbound timetable; fares are the [Central and East zone rate](https://www.thamesclippers.com/plan-your-journey/ticket-information), valid until 31 October 2026.
+Journey times are from the weekend eastbound timetable; fares are the [Central and East zone rate](https://www.thamesclippers.com/plan-your-journey/ticket-information).
 
 > ⚠️ **Saturdays, Sundays and bank holidays are charged at the peak river fare all day, and river fares are not capped.** A **TfL Travelcard gets a third off** the boat. Touch in *and* out at the pier readers, with the same card or device both ends. Full detail in our [river boats guide](/articles/how-to-use-london-river-boats/).
 
@@ -308,4 +308,4 @@ Windsor, Oxford, Cambridge, Bath and Brighton are all reachable, but on five day
 
 ---
 
-*Walking times are TfL's. River fares hold until 31 October 2026. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*
+*Walking times are TfL's. Attractions close for ceremonies and services at short notice, and hours move around public holidays.*

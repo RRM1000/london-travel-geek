@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 publishedAt: 2026-06-07
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
@@ -159,7 +159,7 @@ Booked online, a one-way adult ticket starts at **£7** and a round trip at **£
 
 ### The river
 
-**Uber Boat by Thames Clippers** calls at North Greenwich Pier, on the East zone of the river network (you need a Central & East ticket to reach central piers like Embankment or Westminster). A single fare bought online is **£13.50**, or **from £9.80** as the <a href="https://www.getyourguide.com/activity/-t413091?partner_id=WWP7I0R&amp;cmp=the-o2-travel-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Uber Boat single river ticket on GetYourGuide</a>, valid from any pier between Battersea Power Station and Barking Riverside. Pay as you go by contactless or Oyster is **£13.70 at peak times**, which on this stretch means practically every evening: off-peak is weekdays before 09:27 only, and every weekend and bank holiday is peak all day. The crossing to Blackfriars takes about **44 minutes**.
+**Uber Boat by Thames Clippers** calls at North Greenwich Pier, on the East zone of the river network (you need a Central & East ticket to reach central piers like Embankment or Westminster). A single fare bought online is **£12.20**, or **from £9.80** as the <a href="https://www.getyourguide.com/activity/-t413091?partner_id=WWP7I0R&amp;cmp=the-o2-travel-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Uber Boat single river ticket on GetYourGuide</a>, valid from any pier between Battersea Power Station and Barking Riverside. Pay as you go by contactless or Oyster is **£13.70 at peak times**, which on this stretch means practically every evening: off-peak is weekdays before 09:27 only, and every weekend and bank holiday is peak all day. The crossing to Blackfriars takes about **44 minutes**.
 
 Sailings run roughly every 20 minutes in the evening, but the last sailing towards central London leaves North Greenwich Pier at **21:45 on a weekday** and **22:22 at weekends**. A matinee or an early-finishing show can catch it; a 19:30 or 20:00 doors show usually can't. The pier is step-free and wheelchair accessible, with accessible toilets on the larger boats.
 

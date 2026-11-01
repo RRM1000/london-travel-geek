@@ -3,8 +3,8 @@ title: "Thames River Cruises in London: Which to Book and What They Cost"
 seoTitle: "Thames River Cruises London 2026: Prices & Routes"
 description: "Every kind of Thames cruise compared on price, piers and commentary. Westminster to Greenwich from £14.62 online, a £9 City Cruises day pass, lunch from £43, dinner from £99, speedboats from £59.95 and the seasonal boat to Kew and Hampton Court."
 publishedAt: 2026-06-15
-updatedAt: 2026-10-26
-reviewBy: 2026-11-01
+updatedAt: 2026-11-01
+reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -22,7 +22,7 @@ faq:
   - q: "How much is a Thames river cruise?"
     a: "Prices in September 2026: Westminster to Greenwich one way £14.62 to £15 online, return £19.12 to £21. Day passes £9 (City Cruises, online) to £29.30 (Uber Boat). Lunch cruise from £43, afternoon tea from £55, dinner from £99, all City Cruises adult prices that rise on busy dates. Speedboats £59.95 to £79.95. Westminster to Hampton Court on the seasonal upriver boat is £27 one way."
   - q: "Is the Uber Boat cheaper than a cruise?"
-    a: "Only slightly, and not always. Westminster to Greenwich on Uber Boat is £13.70 by contactless at most times, against £14.62 online with Thames River Sightseeing and £15 with City Cruises. The Uber Boat is faster and runs every 10 to 20 minutes, but has no commentary unless you buy its £2.50 audio guide. City Cruises' £9 one-day pass beats all three."
+    a: "Only slightly, and not always. Westminster to Greenwich on Uber Boat is £12.40 by contactless at most times, against £14.62 online with Thames River Sightseeing and £15 with City Cruises. The Uber Boat is faster and runs every 10 to 20 minutes, but has no commentary unless you buy its £2.50 audio guide. City Cruises' £9 one-day pass beats all three."
   - q: "Do Thames cruises run in winter?"
     a: "Yes. City Cruises sails every day of the year; from 26 October 2026 its last departure from Westminster to Greenwich is 14:40. Thames River Sightseeing runs a winter timetable from 2 November with no service on 24, 25 and 26 December. Uber Boat and Thames Rockets run all year. The upriver boat to Kew, Richmond and Hampton Court is seasonal and tide-dependent."
   - q: "Can you do a Thames dinner cruise?"
@@ -33,7 +33,7 @@ faq:
 
 **Westminster to Greenwich by narrated boat costs £14.62 to £15 one way online, and City Cruises sells a one-day hop-on hop-off pass for £9.** That pass is cheaper than tapping a card on the commuter Uber Boat. Lunch cruises start at £43 and speedboats at £59.95.
 
-> 💡 **The Short Version:** **Sightseeing:** [Thames River Sightseeing](https://thamesriversightseeing.com/booking-tickets/westminster-to-greenwich-thames-river-sightseeing/) Westminster to Greenwich **from £14.62 online**, about an hour, live commentary from the crew; [City Cruises](https://www.cityexperiences.com/london/city-cruises/river-thames-sightseeing/) **£15 single, £21 return**, online only, or its **£9 one-day pass**. **Cheap and fast:** Uber Boat, **£13.70 by contactless**, no commentary. **Meals:** City Cruises lunch **from £43**, afternoon tea **from £55**, dinner **from £99**, all booked ahead. **Speed:** Thames Rockets **from £59.95** for 50 minutes; **no pregnant passengers**. **Upriver:** one boat a day to Kew, Richmond and Hampton Court, **£27** one way. **Winter:** the big sightseeing boats run all year; last City Cruises sailing to Greenwich drops to **14:40 from 26 October**. **Or book on GetYourGuide:** the Westminster to Greenwich cruise there has **25,506 reviews at 4.5**, from **£17**. Prices September 2026.
+> 💡 **The Short Version:** **Sightseeing:** [Thames River Sightseeing](https://thamesriversightseeing.com/booking-tickets/westminster-to-greenwich-thames-river-sightseeing/) Westminster to Greenwich **from £14.62 online**, about an hour, live commentary from the crew; [City Cruises](https://www.cityexperiences.com/london/city-cruises/river-thames-sightseeing/) **£15 single, £21 return**, online only, or its **£9 one-day pass**. **Cheap and fast:** Uber Boat, **£12.40 by contactless**, no commentary. **Meals:** City Cruises lunch **from £43**, afternoon tea **from £55**, dinner **from £99**, all booked ahead. **Speed:** Thames Rockets **from £59.95** for 50 minutes; **no pregnant passengers**. **Upriver:** one boat a day to Kew, Richmond and Hampton Court, **£27** one way. **Winter:** the big sightseeing boats run all year; last City Cruises sailing to Greenwich drops to **14:40 from 26 October**. **Or book on GetYourGuide:** the Westminster to Greenwich cruise there has **25,506 reviews at 4.5**, from **£17**. Prices September 2026.
 
 ## Which cruise to pick
 
@@ -41,7 +41,7 @@ faq:
 | --- | --- | --- | --- |
 | Landmarks with a guide, cheapest | City Cruises one-day pass | £9 online | Unlimited trips between Westminster, London Eye, Tower and Greenwich piers until the last boat; captain's commentary in English, app in 14 languages |
 | Westminster to Greenwich, one way | Thames River Sightseeing | from £14.62 online | An hour with the skipper talking; tickets also sold at the pier, and good on any sailing that day |
-| Just to get there | Uber Boat | £13.70 contactless | Every 10 to 20 minutes, faster, indoor seats; no commentary |
+| Just to get there | Uber Boat | £12.40 contactless | Every 10 to 20 minutes, faster, indoor seats; no commentary |
 | A sit-down meal | City Cruises lunch or dinner | from £43 / £99 | Fixed boarding time, pre-booked only; window tables seat two |
 | Speed | Thames Rockets | from £59.95 | 50 minutes, 35mph past Canary Wharf; not for pregnant passengers or bad backs |
 | The Thames Barrier | Thames Rockets Thames Barrier Voyage | from £79.95 | 80 minutes from London Eye Pier, out to the Barrier and back |
@@ -97,10 +97,10 @@ Golden Tours and Big Bus sell hop-on hop-off bus tickets with a river cruise bun
 
 [Uber Boat by Thames Clippers](https://www.thamesclippers.com/plan-your-journey/ticket-information) is the river's commuter service. It runs every 10 to 20 minutes at the central piers, faster than the sightseeing boats, with indoor seats and a small open deck at the back.
 
-- **Westminster to Greenwich** (Central and East zones): **£13.70** by contactless or Oyster at weekends and after 09:27 on weekdays, **£13.50** online, **£17.70** at the pier.
-- **Hop-on Hop-off** day ticket: **£29.30** online, **£32.60** at the pier; child £14.65; family £58.70. Online singles, returns and day tickets bought at least three days ahead are 15% off.
+- **Westminster to Greenwich** (Central and East zones): **£12.40** by contactless or Oyster at weekends and after 09:27 on weekdays, **£12.20** online, **£16.00** at the pier.
+- **Hop-on Hop-off** day ticket: **£29.30** online, **£32.60** at the pier; child £14.65; family £58.60. Online singles, returns and day tickets bought at least three days ahead are 15% off.
 - **No commentary**, but a **£2.50 [audio guide](https://www.thamesclippers.com/explore-london/london-river-tour-audio-guide)** narrated by Rory Bremner plays over the boat Wi-Fi. Bring headphones.
-- River fares do not count towards the Tube's daily cap. These contactless fares run until 31 October 2026.
+- River fares do not count towards the Tube's daily cap.
 
 Zones, piers, touching in and out and the Travelcard discount are in our guide to [using London's river boats](/articles/how-to-use-london-river-boats/).
 

@@ -1,7 +1,7 @@
 ---
 title: "London Tour Buses Compared: Routes, Stops and Prices"
 seoTitle: "London Hop-On Hop-Off Buses 2026: Online Saves 13–41%"
-description: "Every Big Bus stop and the Golden Tours, Tootbus and City Sightseeing routes, with what each really costs — Golden Tours from £24.78 online against £42 at the kerb — and the ordinary red bus that covers much of the same ground for £1.75."
+description: "Every Big Bus stop and the Golden Tours, Tootbus and City Sightseeing routes, with what each really costs — Golden Tours from £24.78 online against £42 at the kerb — and the ordinary red bus that covers much of the same ground for £1.85."
 publishedAt: 2026-06-28
 updatedAt: 2026-10-26
 reviewBy: 2026-12-31
@@ -12,17 +12,17 @@ tags: [tour buses, sightseeing, getting around, budget, transport]
 draft: false
 faq:
   - q: "Are London hop-on hop-off bus tours worth it?"
-    a: "For some people, yes. They earn their money if you have limited mobility, a very short trip, tired children, or you want commentary and orientation on a first day. If you are reasonably mobile and have a few days, an ordinary London bus covers much of the same ground for £1.75, capped at £5.25 a day."
+    a: "For some people, yes. They earn their money if you have limited mobility, a very short trip, tired children, or you want commentary and orientation on a first day. If you are reasonably mobile and have a few days, an ordinary London bus covers much of the same ground for £1.85, capped at £5.55 a day."
   - q: "How much is a hop-on hop-off bus in London?"
     a: "Big Bus starts at £32 for an adult one-day ticket booked online against £39 full price. Tootbus is £35.20 against £44. Golden Tours discounts hardest, from £24.78 against £42 walk-up. Book online rather than at the kerb."
   - q: "How many stops do London tour buses have?"
     a: "Big Bus has around 55 stops across three routes — a central and eastern Red Route, a western Blue Route, and a Green Link serving Bloomsbury, Euston, King's Cross and St Pancras. Golden Tours has over 60 stops across three routes, City Sightseeing 45 across three, and Tootbus runs four routes with six walking tours included."
   - q: "Which normal London bus is best for sightseeing?"
-    a: "Route 11 is the classic: Liverpool Street, St Paul's, Fleet Street, the Strand, Trafalgar Square, Whitehall, Westminster and on to Victoria. Route 24 runs Hampstead Heath through Camden to Trafalgar Square and Westminster. Both cost £1.75 and take contactless."
+    a: "Route 11 is the classic: Liverpool Street, St Paul's, Fleet Street, the Strand, Trafalgar Square, Whitehall, Westminster and on to Victoria. Route 24 runs Hampstead Heath through Camden to Trafalgar Square and Westminster. Both cost £1.85 and take contactless."
   - q: "Do London buses still use the old Routemaster?"
     a: "Not on a scheduled route: the heritage service on route 15 has gone, so the old open-platform Routemaster you could hop onto is no longer running. Golden Tours, TransporaBus and The Classic Tour run vintage Routemasters as paid tours with a live guide instead, from £19.50."
   - q: "How much does a London bus cost?"
-    a: "£1.75 a journey with contactless or Oyster, capped at £5.25 a day. The Hopper fare means further bus journeys within an hour of touching in are free, so a morning of hopping between sights can cost a single £1.75."
+    a: "£1.85 a journey with contactless or Oyster, capped at £5.55 a day. The Hopper fare means further bus journeys within an hour of touching in are free, so a morning of hopping between sights can cost a single £1.85."
 heroImage: "../../assets/articles/london-tour-buses-compared/london-tour-buses-compared.jpg"
 heroImageAlt: "An open-top red sightseeing tour bus passing the Palace of Westminster"
 heroImageCredit: "Editor5807"
@@ -31,11 +31,11 @@ heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 ---
 
-**London's ordinary red buses cover much of the same route for £1.75, capped at £5.25 a day**, and the top deck of a normal double-decker has the same view as the top deck of a tour bus.
+**London's ordinary red buses cover much of the same route for £1.85, capped at £5.55 a day**, and the top deck of a normal double-decker has the same view as the top deck of a tour bus.
 
 This page lists **every Big Bus stop** and the routes of the other operators, then makes the case for and against a tour bus.
 
-> 💡 **The Short Version:** **Never buy at the kerb — booking online saves 13–41%.** **Golden Tours** is cheapest at **£24.78**, and **Big Bus** from **£32** adds a western route to South Kensington and Notting Hill. **Tootbus** at **£35.20** includes six walking tours. The free alternative is **route 11** or **route 24** for **£1.75**.
+> 💡 **The Short Version:** **Never buy at the kerb — booking online saves 13–41%.** **Golden Tours** is cheapest at **£24.78**, and **Big Bus** from **£32** adds a western route to South Kensington and Notting Hill. **Tootbus** at **£35.20** includes six walking tours. The free alternative is **route 11** or **route 24** for **£1.85**.
 
 ## What they cost
 
@@ -226,13 +226,13 @@ The <a href="https://www.getyourguide.com/activity/-t685713?partner_id=WWP7I0R&a
 
 ## The alternative
 
-A normal London bus costs **£1.75** a journey with contactless or Oyster, and the **daily cap is £5.25** — after that, buses are free for the rest of the day.
+A normal London bus costs **£1.85** a journey with contactless or Oyster, and the **daily cap is £5.55** — after that, buses are free for the rest of the day.
 
-The **Hopper fare** gives unlimited bus journeys within **one hour** of touching in for that single £1.75.
+The **Hopper fare** gives unlimited bus journeys within **one hour** of touching in for that single £1.85.
 
 ### The routes worth riding, and what they pass
 
-**Route 11 — the classic.** Liverpool Street, the Bank of England, **St Paul's Cathedral**, Fleet Street, the Strand, **Trafalgar Square**, Whitehall, the **Houses of Parliament**, **Westminster Abbey**, and on to Victoria. That is most of a Big Bus Red Route for £1.75.
+**Route 11 — the classic.** Liverpool Street, the Bank of England, **St Paul's Cathedral**, Fleet Street, the Strand, **Trafalgar Square**, Whitehall, the **Houses of Parliament**, **Westminster Abbey**, and on to Victoria. That is most of a Big Bus Red Route for £1.85.
 
 **Route 24 — north to south.** **Hampstead Heath**, Camden Town, Mornington Crescent, Tottenham Court Road, **Trafalgar Square**, Whitehall, **Westminster** and Pimlico. It reaches Hampstead Heath, where no tour bus goes.
 
@@ -268,7 +268,7 @@ Worth it if:
 ## Who should not
 
 * **Anyone with three or more days.** You will walk past these places anyway and the ticket duplicates them.
-* **Anyone comfortable tapping onto a normal bus.** Route 11 costs £1.75.
+* **Anyone comfortable tapping onto a normal bus.** Route 11 costs £1.85.
 * **Anyone in a hurry.** Tour buses sit in the same traffic and stop more often. Westminster to Trafalgar Square is a fifteen-minute walk; the bus is not faster.
 * **Anyone planning to get off at lots of stops.** The hop-off, wait, hop-on cycle eats a day quickly, especially on a 45-minute frequency.
 
@@ -293,7 +293,7 @@ Worth it if:
 ## What to know
 
 * **Contactless is all you need for ordinary buses.** Tap the reader with a bank card or phone, and you do not tap out. See our [fares guide](/articles/london-public-transport-costs-and-fares/).
-* **The bus daily cap is separate from the Tube cap.** £5.25 for buses and trams alone.
+* **The bus daily cap is separate from the Tube cap.** £5.55 for buses and trams alone.
 * **Children under 11 travel free on London buses.**
 * **The river bus is a cheaper scenic ride** — ordinary fares, and it is transport, not a tour. See [how to use London's river boats](/articles/how-to-use-london-river-boats/), or [Thames river cruises compared](/articles/thames-river-cruises-london/) for a boat with commentary.
 * **A free alternative to commentary:** the [three-day itinerary](/articles/three-days-in-london-itinerary/) walks the same ground with context.
