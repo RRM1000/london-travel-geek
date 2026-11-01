@@ -3,8 +3,8 @@ title: "Three Days in London: A First-Time Itinerary That Works"
 seoTitle: "Three Days in London Itinerary: Hours & Prices"
 description: "A three-day London plan with opening hours, prices and TfL walking times between every stop, and the closures that wreck a day: the Abbey on Sundays and Borough Market on Mondays."
 publishedAt: 2026-08-06
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -124,7 +124,7 @@ We have the same ground as a [numbered South Bank walk](/articles/south-bank-wal
 
 **£38 for an adult, £19 for a child aged 5 to 15 and for a young person aged 16 to 17, £30.30 for seniors, students and disabled visitors, free under 5.** Historic Royal Palaces prices by age band with one optional 10% donation on top, and there is no family ticket. **Anyone on Universal Credit, Pension Credit, ESA, Income Support, Jobseeker's Allowance or Working Tax Credit pays £1 a head for up to four people, booked online in advance.** Tower Hamlets residents pay £1 all year. The [full price list is in our Tower guide](/articles/tower-of-london-guide/).
 
-**From 26 October to 1 November the Tower is open 09:00 to 16:30 daily, with last entry at 15:00 and the last Yeoman Warder tour at 14:30.** Hours change through the year, so check [HRP's opening times](https://www.hrp.org.uk/tower-of-london/visit/opening-times/) for your date. **Allow two and a half to three hours**: the Crown Jewels, the White Tower and the ramparts are three separate visits inside one wall.
+Hours change through the year, so check [HRP's opening times](https://www.hrp.org.uk/tower-of-london/visit/opening-times/) for your date. **Allow two and a half to three hours**: the Crown Jewels, the White Tower and the ramparts are three separate visits inside one wall.
 
 > 💡 **Historic Royal Palaces' own advice is that the Tower is quieter after midday.** That contradicts the standard first-slot advice, and it is worth following if you are through the gate with three hours left. The Yeoman Warder tour explains the buildings, so an entry slot of 12:00 to 13:00 is the sweet spot: past the morning crush, still in time for a Beefeater.
 

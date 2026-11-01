@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-updatedAt: 2026-10-26
-reviewBy: 2026-11-01
+updatedAt: 2026-11-01
+reviewBy: 2026-11-06
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -22,24 +22,24 @@ faq:
   - q: "Can you still get tickets for the Bayeux Tapestry in October 2026?"
     a: "Not for an October visit. Every ticket for 10 September to 31 December 2026, including the members' priority allocation, has sold out, and so has 1 January to 31 March 2027; April to July 2027 opens in early 2027. The exhibition runs to 11 July 2027 in Room 30 at the British Museum."
   - q: "What is Frieze Week, and is it worth going if you're not buying art?"
-    a: "Frieze Week is the run of days in the middle of October (14 to 18 October in 2026) when the two fairs in Regent's Park are joined by three satellite fairs: PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park. All are ticketed, and Frieze weekend tickets alone ran from about £38. The free version is Frieze Sculpture: large-scale works by 11 international artists in the same park's English Gardens, no ticket needed, open until 1 November 2026."
+    a: "Frieze Week is the run of days in the middle of October (14 to 18 October in 2026) when the two fairs in Regent's Park are joined by three satellite fairs: PAD on Berkeley Square, 1-54 at Somerset House and the Affordable Art Fair in Battersea Park. All are ticketed, and Frieze weekend tickets alone ran from about £38. The free version is Frieze Sculpture: large-scale works by 11 international artists in the same park's English Gardens, no ticket needed, open until 1 November in 2026."
   - q: "When do the clocks go back in October, and how much daylight do you lose?"
     a: "At 2am on the last Sunday of October: 25 October in 2026 and 31 October in 2027. British Summer Time ends and the country returns to GMT. The change is overnight: in 2026 sunset was about 5.50pm on the Saturday and about 4.48pm on the Sunday, so an hour of evening disappeared between one day and the next. By the 31st, sunset is nearer 4.37pm. Anything you want to do outdoors in the last week of October needs to happen before mid-afternoon."
   - q: "When is October half term in London 2026, and what does it change?"
-    a: "Monday 26 to Friday 30 October for most London boroughs, though academies and free schools can set their own dates. It is an attraction spike rather than a hotel spike: timed-entry slots at the paid attractions go first, so book before the week starts rather than turning up on spec. The free museums are the fallback for anyone who didn't book, not the plan."
+    a: "Monday 26 to Friday 30 October in 2026 for most London boroughs, though academies and free schools can set their own dates. It is an attraction spike rather than a hotel spike: timed-entry slots at the paid attractions go first, so book before the week starts rather than turning up on spec. The free museums are the fallback for anyone who didn't book, not the plan."
   - q: "Is Halloween in London 2026 on a good night to be out?"
-    a: "Yes. 31 October 2026 falls on a Saturday, so events run at full strength instead of being squeezed onto the nearest weekend. Our [Halloween in London guide](/articles/halloween-london/) has the scare attractions, club nights and where to still hire a costume."
+    a: "Yes. 31 October 2026 was a Saturday, so events ran at full strength instead of being squeezed onto the nearest weekend; in 2027 it is a Sunday. Our [Halloween in London guide](/articles/halloween-london/) has the scare attractions, club nights and where to still hire a costume."
   - q: "What festivals are on in London in October?"
-    a: "The BFI London Film Festival (7 to 18 October in 2026), the Bloomsbury Festival and Black History Month all month, Dance Umbrella (7 to 27 October in 2026), and the London Literature Festival, which in 2026 runs 20 October to 1 November, curated by Dua Lipa. Frieze Week's five art fairs overlap the film festival's closing weekend."
+    a: "The BFI London Film Festival (7 to 18 October in 2026), the Bloomsbury Festival and Black History Month all month, Dance Umbrella (7 to 27 October in 2026), and the London Literature Festival, which in 2026 ran 20 October to 1 November, curated by Dua Lipa. Frieze Week's five art fairs overlap the film festival's closing weekend."
   - q: "Are there NFL games in London in October?"
     a: "In 2026 there were three, on consecutive Sundays: Indianapolis Colts v Washington Commanders on 4 October and Philadelphia Eagles v Jacksonville Jaguars on 11 October, both at Tottenham Hotspur Stadium, then Houston Texans v Jacksonville Jaguars at Wembley on 18 October."
 ---
 
 For the first three weeks of October the summer crowds have gone and the autumn exhibitions and festivals open one after another. In the final week the clocks go back, half term starts and the evenings are dark by five.
 
-> 💡 **The Short Version:** **Half term runs 26 to 30 October 2026** and **Halloween falls on a Saturday**, so 26 to 31 October is the busiest stretch for families. **Asian Art in London** opens on 29 October, the free **Frieze Sculpture** in Regent's Park and the **London Literature Festival** run to 1 November, and **Black History Month** and the **Bloomsbury Festival** run all month. Frieze Week and the BFI London Film Festival fall in the middle of the month; in 2026 they ended on 18 October. The **clocks go back on the last Sunday**: 25 October in 2026, 31 October in 2027. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
+> 💡 **The Short Version:** **Half term ran 26 to 30 October 2026** and **Halloween fell on a Saturday**, so 26 to 31 October was the busiest stretch for families. **Asian Art in London** opened on 29 October and runs to 10 November. The free **Frieze Sculpture** in Regent's Park and the **London Literature Festival** ran to 1 November, and **Black History Month** and the **Bloomsbury Festival** run all month. Frieze Week and the BFI London Film Festival fall in the middle of the month; in 2026 they ended on 18 October. The **clocks go back on the last Sunday**: 25 October in 2026, 31 October in 2027. **Bayeux Tapestry** tickets are sold out to 31 March 2027.
 
-**Five ticketed art fairs ran in the same city on the same days in 2026**, inside the BFI London Film Festival's closing weekend, Thursday 15 to Sunday 18 October. What is left is the free half, Frieze Sculpture, which stays in Regent's Park until the start of November.
+**Five ticketed art fairs ran in the same city on the same days in 2026**, inside the BFI London Film Festival's closing weekend, Thursday 15 to Sunday 18 October. The free half, Frieze Sculpture, stayed in Regent's Park until 1 November.
 
 **Then the month has a hinge.** The clocks go back at 2am on the last Sunday of October and an hour of evening disappears overnight: sunset drops from about 5.50pm on the Saturday to about 4.48pm on the Sunday. In 2026 school half term started the next day, and Halloween falls on the Saturday that ends it. If you can choose your dates, the first ten days of October are the easier trip.
 
@@ -87,7 +87,7 @@ The autumn edition of the American Express-backed restaurant festival has festiv
 
 ### Asian Art in London: 29 October to 10 November
 
-The 29th edition of the dealers' and auction houses' programme of selling exhibitions, auctions and lectures. Its first late-night gallery openings fall on Halloween: **South Kensington and Belgravia on Saturday 31 October**, then St James's on 1 November and Mayfair on 2 November.
+The 29th edition of the dealers' and auction houses' programme of selling exhibitions, auctions and lectures. Its late-night gallery openings ran in four districts: **South Kensington and Belgravia on Saturday 31 October**, then St James's on 1 November and Mayfair on 2 November.
 
 ### Science and consumer shows
 
@@ -121,13 +121,13 @@ The Mayor of London's Diwali celebration in Trafalgar Square, due on 25 October 
 
 Most London boroughs break up for the week beginning the last Monday of October; academies and free schools can set their own dates. It is an attraction spike rather than a hotel spike: timed-entry slots at the paid attractions go first, so **book before the week starts**. The free museums are the fallback for anyone who didn't, not the plan.
 
-Family options in the week: **Absurd City** at Westfield London and **Larger Than Life: Starring Wallace & Gromit, Shaun and More** at Lightroom in King's Cross (both under "New in October" below), and **Wildlife Photographer of the Year** at the Natural History Museum. At Shakespeare's Globe, **MakeBeth**, an interactive retelling of Macbeth in recycled cardboard for ages 7 and up, runs **24 October to 1 November** and has sold out, and a **Ghosts & Ghouls** family tour of the theatre runs from **24 October to 30 January**. More ideas are in [London with children](/articles/london-with-children/).
+Family options in the week: **Absurd City** at Westfield London and **Larger Than Life: Starring Wallace & Gromit, Shaun and More** at Lightroom in King's Cross (both under "New in October" below), and **Wildlife Photographer of the Year** at the Natural History Museum. At Shakespeare's Globe, **MakeBeth**, an interactive retelling of Macbeth in recycled cardboard for ages 7 and up, ran **24 October to 1 November** and sold out, and a **Ghosts & Ghouls** family tour of the theatre runs from **24 October to 30 January**. More ideas are in [London with children](/articles/london-with-children/).
 
 ### Halloween: Saturday 31 October 2026
 
 *Full guide: [Halloween in London](/articles/halloween-london/)*
 
-Scare attractions, club nights, ghost walks and one-off parties run on the night itself, not on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where you can still hire a costume this late. In the West End, the horror play **Paranormal Activity** adds a **10.30pm performance** at the Ambassadors that night, from £36 ([book at the box office](https://www.atgtickets.com/shows/paranormal-activity/ambassadors-theatre/calendar/2026-10-31/)).
+Scare attractions, club nights, ghost walks and one-off parties ran on the night itself, not on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where to hire a costume. In the West End, the horror play **Paranormal Activity** added a **10.30pm performance** at the Ambassadors that night, from £36.
 
 ## Exhibitions that opened in October
 
@@ -173,7 +173,7 @@ The year's winning pictures, running to **11 July 2027**. Adults from **£17** o
 
 **Declaring Independence: USA 250** at the British Museum is free and continues to 29 November.
 
-## Theatre: what's open for the end of the month
+## Theatre: what opened in October
 
 **The Cherry Orchard** opened at the Harold Pinter Theatre on **3 October**, running to 9 January. **High School Musical** opened at Troubadour Wembley Park on **12 October**, running to **3 January**. **Jesus Christ Superstar** has been at Drury Lane since **16 October**, also running into January, as is **The Lives of Others** at the Adelphi, from **14 October**.
 
@@ -181,7 +181,7 @@ The year's winning pictures, running to **11 July 2027**. Adults from **£17** o
 
 *The Cherry Orchard, at the Harold Pinter Theatre. Artwork: Sonia Friedman Productions.*
 
-At the London Coliseum, English National Opera stages **Tosca** from **30 October**. **Cirque Berserk!** is at the Garrick for half term until **31 October** (book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1J7JN-cirque-berserk/)), **Ceilidh** is at Shoreditch Town Hall, and the cheapest opening of the month is **The Bridge** at the Bush from **28 October**, from £13.
+At the London Coliseum, English National Opera stages **Tosca** from **30 October**. **Cirque Berserk!** played the Garrick for half term, 21 to 31 October, and the cheapest opening of the month was **The Bridge** at the Bush from **28 October**, from £13.
 
 The **Duke of York's Theatre is now the Tom Stoppard Theatre**, and you will see both names in circulation.
 
@@ -201,17 +201,11 @@ A new Aardman show on Lightroom's walls, booking to **4 January 2027**. It runs 
 
 ### Blue Note London
 
-The New York jazz club's first UK venue, on St Martin's Lane, plays two sets a night (7pm and 9.30pm) in a 300-seat main room. October ends with Elements: A Celebration of Earth, Wind & Fire on 28 October and Laura Mvula on 29 and 30 October. Its entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
+The New York jazz club's first UK venue, on St Martin's Lane, plays two sets a night (7pm and 9.30pm) in a 300-seat main room. October ended with Elements: A Celebration of Earth, Wind & Fire on 28 October and Laura Mvula on 29 and 30 October. Its entry is in our [guide to London's live music venues](/articles/best-live-music-venues-london/).
 
 ## Gigs worth planning around
 
-Alexandra Palace carries the end of the month: **Overmono on 28 October**, and **[Skindred](https://www.ticketmaster.co.uk/skindred-you-got-this-tour-london-31-10-2026/event/1F006474E2A68594) on Halloween night, 31 October**.
-
-## What's on in October 2026
-
-One evening pick a day: music, comedy, theatre, classical and dance, each at a different venue.
-
-<div data-listings-match="." data-exclude="open mic|weekly|insights|recital" data-cat="music,comedy,theatre,classical,dance" data-evening data-from="2026-10-01" data-to="2026-10-31" data-per-venue="1" data-per-day="1" data-limit="20" data-flat></div>
+Alexandra Palace carried the end of the month: **Overmono on 28 October**, and **[Skindred](https://www.ticketmaster.co.uk/skindred-you-got-this-tour-london-31-10-2026/event/1F006474E2A68594) on Halloween night, 31 October**.
 
 ## New restaurants and bars
 
@@ -225,11 +219,11 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 The full month is in our [Things to Do in London in November](/articles/things-to-do-in-london-in-november/).
 
-**Bonfire Night** is Thursday **5 November**, but most of the big displays, Alexandra Palace and Battersea Park among them, are on **Saturday 7 November**, and both are on sale now. Every display, which of them need tickets, and the free viewpoints are in our [Bonfire Night guide](/articles/bonfire-night-london/).
+**Bonfire Night** is Thursday **5 November**, but most of the big displays, Alexandra Palace and Battersea Park among them, are on **Saturday 7 November**, and both are on sale. Every display, which of them need tickets, and the free viewpoints are in our [Bonfire Night guide](/articles/bonfire-night-london/).
 
-**Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027**, and booking is open: advance entry is **£1** for off-peak slots and **£8.25** at peak, with everything inside, including rides, the ice rink and the circus, charged separately. Full prices and gates are in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/). Somerset House's rink and the other outdoor rinks are booking too; dates and prices are in our [London ice skating guide](/articles/ice-skating-london/).
+**Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027**, and advance entry is **£1** for off-peak slots and **£8.25** at peak, with everything inside, including rides, the ice rink and the circus, charged separately. Full prices and gates are in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/). Dates and prices for Somerset House's rink and the other outdoor rinks are in our [London ice skating guide](/articles/ice-skating-london/).
 
-**The EFG London Jazz Festival** runs **13 to 22 November 2026** across 82 venues, from the Royal Festival Hall to basement clubs in Dalston and Chelsea. Nineteen of its concerts are free and tickets otherwise start at £5, but ten shows are sold out, so book before you arrive. See our [London Jazz Festival guide](/articles/london-jazz-festival/).
+**The EFG London Jazz Festival** runs **13 to 22 November 2026** across 83 venues, from the Royal Festival Hall to basement clubs in Dalston and Chelsea. Forty-four of the 348 shows listed on 26 October are free and tickets otherwise start at £5; some, such as Coltrane 100 at the Barbican on 13 November, had already sold out, so book before you arrive. See our [London Jazz Festival guide](/articles/london-jazz-festival/).
 
 **Christmas in London** starts earlier than most people expect: Kingston's Christmas market opens on **12 November** and the Trafalgar Square tree is lit on **3 December**. Every market's dates and hours are in our [London Christmas markets guide](/articles/christmas-markets-london/), and the light switch-ons are in our [Christmas in London guide](/articles/christmas-in-london/).
 

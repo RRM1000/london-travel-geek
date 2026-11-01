@@ -3,7 +3,7 @@ title: "South Bank Area Guide: The River Walk, Tate Modern and Borough Market"
 seoTitle: "South Bank Guide: Tate Modern, Borough Market & Walks"
 description: "A complete South Bank guide: the walk from the London Eye to Tower Bridge, Tate Modern, Borough Market opening days, and the free views worth queuing for."
 publishedAt: 2026-08-06
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-08
 sites:
   - london
@@ -127,7 +127,7 @@ Street performers, the Undercroft skate space, the second-hand book market under
 
 The Royal Festival Hall foyers are free and open to anyone: seats, heating, toilets, a piano, a view over the river. **The Southbank Centre lets you bring your own food and soft drinks in**; only alcohol has to be bought on site, and the whole complex is **cash-free**. Upstairs, the **Queen Elizabeth Hall Roof Garden** is free too: over 200 wild native plants and a bar, open Tuesday from 4pm and Wednesday to Sunday from midday, closed Mondays.
 
-The **book market under Waterloo Bridge** runs daily, roughly 10am to 7pm, and has done since 1983 — eight stalls of second-hand fiction, children's books, maps and prints. Past it, the **National Theatre** — one of London's major [off-West End houses](/articles/london-theatre-guide/) — has foyers open 10am to 11pm Monday to Saturday with no ticket needed, and a bar on every level. Roof replacement works run from October 2026 through 2027, so some routes round the building change. **The Olivier foyers and terraces are closed 26 to 30 October, with limited access 2 to 7 November.**
+The **book market under Waterloo Bridge** runs daily, roughly 10am to 7pm, and has done since 1983 — eight stalls of second-hand fiction, children's books, maps and prints. Past it, the **National Theatre** — one of London's major [off-West End houses](/articles/london-theatre-guide/) — has foyers open 10am to 11pm Monday to Saturday with no ticket needed, and a bar on every level. Roof replacement works run from October 2026 through 2027, so some routes round the building change. **The Olivier foyers and terraces have limited access 2 to 7 November.**
 
 ![The concrete banks and graffiti-covered pillars of the Undercroft skate park beneath the Southbank Centre](../../assets/articles/south-bank-area-guide/southbank-undercroft.jpg)
 

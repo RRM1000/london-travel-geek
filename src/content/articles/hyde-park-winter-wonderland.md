@@ -3,7 +3,7 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-20
 sites:
   - london
@@ -18,7 +18,7 @@ tags:
 draft: false
 faq:
   - q: "How much does it cost to get into Hyde Park Winter Wonderland?"
-    a: "Advance entry is £1 off-peak, £5.50 standard or £8.25 peak, and those prices now include booking fees. The £1 slots run Monday to Thursday throughout November. Everyone needs a ticket, including children aged two and under. Spend £25 or more online in one transaction on rides, attractions, passes or food meal deals and your entry becomes free — every further £25 unlocks another free entry ticket."
+    a: "Advance entry is £1 off-peak, £5.50 standard or £8.25 peak, and those prices include booking fees. The £1 slots run Monday to Thursday throughout November. Everyone needs a ticket, including children aged two and under. Spend £25 or more online in one transaction on rides, attractions, passes or food meal deals and your entry becomes free — every further £25 unlocks another free entry ticket."
   - q: "When is Hyde Park Winter Wonderland quietest?"
     a: "The organisers say Monday to Wednesday daytime, and mornings before noon on any day. Late November and early December are quieter than the fortnight around Christmas. Off-peak pricing applies then too: a family on the Giant Wheel pays £26.40 off-peak against £39.60 at peak."
   - q: "Is the live music at Winter Wonderland free?"
@@ -448,7 +448,7 @@ Two limitations from the operator: **there are no accessible fast-track options 
 
 **Bar Ice becomes an Arctic snow cave** with a live DJ, and there are two brand-new Bavarian Village venues, the **Almhütte** and **Café Bavaria**, plus an **Après-Ski Party Resort** in Thrillville.
 
-**On the commercial side:** the Coaster Pass, Explorer Pass, Show Town Spectacular package and standalone Ride & Game Credit are all new, booking fees are now inclusive, and all three table packages — Gracy's VIP, Bavarian Hall and Mary & Me — gained a fourth drink per person.
+**On the commercial side:** the Coaster Pass, Explorer Pass, Show Town Spectacular package and standalone Ride & Game Credit are all new, booking fees are inclusive, and all three table packages — Gracy's VIP, Bavarian Hall and Mary & Me — gained a fourth drink per person.
 
 > ⚠️ **Zippos Christmas Circus and Cirque Berserk: Ignite! are not running in 2026**, so ignore any listing that still offers them. The Santa Land Unlimited Ride Pass is **£27.50**, up from £25 in 2025.
 
@@ -463,4 +463,4 @@ Two limitations from the operator: **there are no accessible fast-track options 
 - 🍽️ **[The Best Street Food in London](/articles/best-street-food-london/)** — where the Winter Wonderland traders go the rest of the year
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)** — including what runs on Christmas Day, which is nothing
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — where November and December sit against the rest of the year
-- 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)** — 13–22 November, so its closing weekend is Winter Wonderland's opening one, and 19 of its concerts are free
+- 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)** — 13–22 November, so its closing weekend is Winter Wonderland's opening one, and dozens of its concerts are free

@@ -5,8 +5,8 @@ description: "The public exhibitions and conventions in London from November 202
 heroImage: "../../assets/articles/exhibitions-conventions-london/excel-london.jpg"
 heroImageAlt: "Visitors queuing beside the Royal Victoria Dock outside ExCeL London, with dockside cranes, moored boats and a large screen advertising a show at the entrance"
 publishedAt: 2026-06-17
-updatedAt: 2026-10-25
-reviewBy: 2026-11-03
+updatedAt: 2026-11-01
+reviewBy: 2026-11-09
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -22,7 +22,7 @@ faq:
   - q: "Is it cheaper to book exhibition tickets in advance in London?"
     a: "Where the organiser says so, yes, and it's worth checking rather than assuming. New Scientist Live's own site advertises up to 44% off its final-release tickets against paying on the day. MCM Comic Con's cheapest tiers sell out weeks ahead, so late booking there means paying more for what's left, not less. Neither is a universal rule — always check the specific show's own ticket page."
   - q: "When is Frieze Week in London?"
-    a: "Mid-October. Frieze London and Frieze Masters open in Regent's Park — they ran 14 to 18 October in 2026 — the same days as the Affordable Art Fair in Battersea Park and 1-54 Contemporary African Art Fair at Somerset House. All are ticketed. The free version is Frieze Sculpture, an outdoor exhibition in the same park that runs for weeks either side of the fairs with no ticket needed; in 2026 it runs to 1 November."
+    a: "Mid-October. Frieze London and Frieze Masters open in Regent's Park — they ran 14 to 18 October in 2026 — the same days as the Affordable Art Fair in Battersea Park and 1-54 Contemporary African Art Fair at Somerset House. All are ticketed. The free version is Frieze Sculpture, an outdoor exhibition in the same park that runs for weeks either side of the fairs with no ticket needed; in 2026 it ran to 1 November."
   - q: "What Christmas fairs and shows are on in London?"
     a: "Olympia runs the Spirit of Christmas Fair (2 to 8 November 2026) and the Ideal Christmas Show (26 to 29 November 2026). ExCeL has Wundrful World of Christmas, a meet-Santa experience for three to eight-year-olds running 13 November to 24 December, and Scrooge: Cirque Extravaganza, a festive circus show, on 23, 24, 27 and 28 December. The Business Design Centre in Islington hosts Good Housekeeping Live with the Country Living Christmas Market from 11 to 14 November."
 ---

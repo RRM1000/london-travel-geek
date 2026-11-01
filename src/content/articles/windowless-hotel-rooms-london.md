@@ -6,7 +6,7 @@ heroImage: "../../assets/articles/windowless-hotel-rooms-london/zedwell-cocoon-r
 heroImageAlt: "A Zedwell cocoon room with a bed on a lit wooden plinth, a full-length mirror, hooks and a private door"
 publishedAt: 2026-07-07
 updatedAt: 2026-10-26
-reviewBy: 2026-11-03
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "Stay"

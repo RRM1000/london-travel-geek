@@ -3,8 +3,8 @@ title: "Tax-Free Shopping in London: There Is No VAT Refund — Here's What Actu
 seoTitle: "Tax-Free Shopping in London 2026: No VAT Refund"
 description: "No: visitors can't claim VAT back on shopping in London, and haven't since 2021. The one way to buy tax-free, the shops that do it, and what airport duty free really saves."
 publishedAt: 2026-07-03
-updatedAt: 2026-10-26
-reviewBy: 2026-10-29
+updatedAt: 2026-11-01
+reviewBy: 2027-03-31
 sites:
   - london
 canonicalSite: london
@@ -53,7 +53,7 @@ Until the end of 2020 an overseas visitor filled in a form in the shop, had it s
 
 GOV.UK says the scheme is no longer available in Great Britain. You can only buy tax-free in Great Britain if the goods are **delivered straight to an address outside the UK**.
 
-**Is it coming back?** Reinstatement was announced in the September 2022 Growth Plan, then dropped weeks later. The Office for Budget Responsibility has put the saving from keeping the scheme abolished at **around £539 million in 2025-26**. Retail and tourism bodies keep lobbying. As of **26 October 2026** nothing has changed; the next Budget is on **28 October 2026**.
+**Is it coming back?** Reinstatement was announced in the September 2022 Growth Plan, then dropped weeks later. The Office for Budget Responsibility has put the saving from keeping the scheme abolished at **around £539 million in 2025-26**. Retail and tourism bodies keep lobbying. The Budget on **28 October 2026** did not reinstate it, and as of **1 November 2026** nothing has changed.
 
 > ⚠️ **Northern Ireland is the one exception.** The scheme still runs there for visitors who live outside both Northern Ireland and the EU — but you get nothing if you travel from Northern Ireland straight to Great Britain, or to Great Britain through an EU country, so it is no use on a London trip.
 

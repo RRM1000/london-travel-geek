@@ -5,8 +5,8 @@ description: "Eight free city farms, a zoo scaled for under-tens, an indoor roll
 heroImage: "../../assets/articles/london-with-children/granary-square-fountains.jpg"
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
 publishedAt: 2026-06-27
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2026-12-18
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -316,12 +316,6 @@ An ice show following the search for Tinker Bell through scenes from *Coco*, *Mo
 Children's theatre, comedy and one-off shows in the next two weeks.
 
 <div data-listings-match="." data-exclude="Satans Baby|Tiny Tides|Bow Families|Parent and Baby Soundbath|Rooted: Our Hair Stories|Watch with Mother" data-cat="family" data-also-venues="Little Angel Theatre|Unicorn Theatre" data-days="14" data-per-venue="2" data-limit="12"></div>
-
-## October half-term
-
-Family theatre, comedy and one-off shows in the week of October half-term.
-
-<div data-listings-match="." data-exclude="Satans Baby|Tiny Tides|Bow Families|Parent and Baby Soundbath|Rooted: Our Hair Stories|Watch with Mother" data-cat="family" data-also-venues="Little Angel Theatre|Unicorn Theatre" data-from="2026-10-24" data-to="2026-11-01" data-per-venue="2" data-limit="12"></div>
 
 ---
 

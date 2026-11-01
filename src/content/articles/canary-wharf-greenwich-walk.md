@@ -5,8 +5,8 @@ description: "A numbered walking route from the Crossrail roof garden to Greenwi
 heroImage: "../../assets/articles/canary-wharf-greenwich-walk/greenwich-hill-view.jpg"
 heroImageAlt: "The view from Greenwich Park over the Old Royal Naval College and the Thames to Canary Wharf's towers, with both ends of the walk in one frame"
 publishedAt: 2026-09-13
-updatedAt: 2026-10-26
-reviewBy: 2026-11-03
+updatedAt: 2026-11-01
+reviewBy: 2026-11-26
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -164,7 +164,7 @@ If you are not going in, the ship is free to look at from the street, and **the 
 **Wren's hospital for seamen.** Three things here, three answers on cost:
 
 - **The grounds** are free and open daily 8am to 11pm.
-- **The Chapel** is free, 10am to 5pm, and closed all day 26 to 30 October and 26 November. It was rebuilt in 1779 by James "Athenian" Stuart after a fire.
+- **The Chapel** is free, 10am to 5pm, and closed all day on 26 November. It was rebuilt in 1779 by James "Athenian" Stuart after a fire.
 - **The Painted Hall** is £19, children free, open 10am to 5pm (last entry 4.30pm) and closed all day 16 to 19 November. The ticket converts to an annual pass at no extra cost. Talks about the ceiling run every 30 minutes from 11am to 4pm. Buy tickets at the Visitor Centre by the Cutty Sark.
 
 ![The colonnade beside the Queen's House at the Old Royal Naval College, its white columns throwing long shadows across the flagstones](../../assets/articles/canary-wharf-greenwich-walk/naval-college-colonnade.jpg)

@@ -2449,7 +2449,7 @@
    "postcode": "E16 1XL",
    "agePolicy": "all-ages",
    "duration": "Half a day",
-   "price": "Priority entry from £39; tickets on sale from 26 October 2026",
+   "price": "Priority entry from £39; tickets released 26 October 2026",
    "priceBand": "20-50",
    "booking": "required",
    "indoorOutdoor": "indoor",
@@ -2841,7 +2841,7 @@
    "priceBand": "under-20",
    "booking": "required",
    "indoorOutdoor": "indoor",
-   "whyGo": "Unlike Cannes or Venice, anyone can buy a ticket to the premieres - no accreditation, just booking speed. The 2026 edition is the 70th.",
+   "whyGo": "Unlike Cannes or Venice, anyone can buy a ticket to the premieres - no accreditation, just booking speed. The 2026 edition, the 70th, ran 7 to 18 October.",
    "opNote": "Public booking opens in September and the galas go fast; ordinary screenings of the same films are far easier to get.",
    "goodFor": [
     "film",
@@ -2876,7 +2876,7 @@
    "booking": "walk-in",
    "indoorOutdoor": "outdoor",
    "whyGo": "London's biggest single Diwali gathering, around 35,000 people, with the Mayor lighting the ceremonial lamp. City-hall-run and completely free, like Eid and Vaisakhi on the same square.",
-   "opNote": "2026 edition confirmed for Sunday 25 October, 1pm-7pm. No ticket, just turn up.",
+   "opNote": "No ticket, just turn up. The 2026 edition, due on Sunday 25 October, was cancelled the day before.",
    "goodFor": [
     "free",
     "families"
@@ -3788,7 +3788,7 @@
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
    "whyGo": "Aardman's actual sets and models up close, where you can see the thumbprints left in the plasticine.",
-   "opNote": "OPENS 14 OCTOBER 2026 - not open yet. No published closing date.",
+   "opNote": "Opened 14 October 2026; tickets are on sale to 4 January 2027. About 50 minutes on a loop, in half-hour entry slots.",
    "goodFor": [
     "families"
    ],
@@ -4229,7 +4229,7 @@
    "booking": "recommended",
    "indoorOutdoor": "indoor",
    "whyGo": "One of Frieze Week's satellite fairs, priced and pitched at collectors buying their first piece rather than six-figure lots.",
-   "opNote": "Private view Wednesday 14 October, 5-9pm; general admission runs Thursday 15 to Sunday 18 October.",
+   "opNote": "In 2026 the private view was Wednesday 14 October, 5-9pm, and general admission ran Thursday 15 to Sunday 18 October.",
    "goodFor": [
     "art",
     "date"
@@ -4265,7 +4265,7 @@
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
    "whyGo": "Its 14th edition, and the one Frieze Week fair built entirely around African and diaspora galleries rather than a general survey.",
-   "opNote": "15 October is a ticketed press and VIP preview; public days are 16 to 18 October.",
+   "opNote": "In 2026 15 October was a ticketed press and VIP preview, and the public days were 16 to 18 October.",
    "goodFor": [
     "art",
     "date"
@@ -4334,7 +4334,7 @@
    "booking": "required",
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
-   "whyGo": "West End cast meet-and-greets and workshops are sold as separate add-ons on top of entry, and several tiers were already marked sold out on the organiser's own ticket page.",
+   "whyGo": "West End cast meet-and-greets and workshops are sold as separate add-ons on top of entry.",
    "goodFor": [
     "date",
     "groups"
@@ -4370,7 +4370,7 @@
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
    "whyGo": "Four stages and 47-plus speakers on one show floor; the organiser's own site advertises up to 44% off its final-release tickets against paying on the door.",
-   "opNote": "10-11 October are the public days; 12 October is a Schools' Day, not open to the public.",
+   "opNote": "In 2026 the public days were 10-11 October; 12 October was a Schools' Day, not open to the public.",
    "goodFor": [
     "families",
     "groups"
@@ -4611,7 +4611,7 @@
    "booking": "required",
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
-   "whyGo": "The public-ticketed day is Saturday 17 October; the rest of the week runs on delegate passes for the Awards, Forum and networking parties.",
+   "whyGo": "The public-ticketed day is the Saturday; the rest of the week runs on delegate passes for the Awards, Forum and networking parties.",
    "opNote": "Public Day Pass runs 9am-6pm on the Saturday only.",
    "goodFor": [
     "solo",

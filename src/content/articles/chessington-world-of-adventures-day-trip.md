@@ -3,8 +3,8 @@ title: "Chessington World of Adventures from London: Tickets, Trains and Rides"
 seoTitle: "Chessington World of Adventures: Tickets and Trains"
 description: "Chessington tickets are from £32 online and £68 at the gate, with the zoo and SEA LIFE included and under-90cm children free. It is in Zone 6, 36 minutes from Waterloo on Oyster. Every ride's height limit, Fastrack prices, and the days it is shut."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2026-11-06
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -35,7 +35,7 @@ faq:
 
 It is a park for families with children of about 3 to 12. Only one ride needs 1.4m, and there are four rides from 0.9m in the World of PAW Patrol land that opened in 2026.
 
-> 💡 **The Short Version:** **Best for children of about 3 to 12.** **Book online**: from **£32**, against **£68** at the gate, with the **zoo and SEA LIFE included** and **under-90cm free**. **Waterloo to Chessington South, 36 minutes, every half hour, £5.20 off-peak on Oyster or contactless**, then a **10-minute walk**. Driving, park for **£13** booked ahead, and check the ULEZ. **Closed on Tuesdays and Wednesdays in early October**, and on most days from November. **Howl'o'ween** runs to 1 November 2026 and **Christmas at Chessington** from 21 November. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> can be **cancelled free up to 24 hours before**.
+> 💡 **The Short Version:** **Best for children of about 3 to 12.** **Book online**: from **£32**, against **£68** at the gate, with the **zoo and SEA LIFE included** and **under-90cm free**. **Waterloo to Chessington South, 36 minutes, every half hour, £5.20 off-peak on Oyster or contactless**, then a **10-minute walk**. Driving, park for **£13** booked ahead, and check the ULEZ. **Closed on most days from 2 November** until Christmas at Chessington begins. **Howl'o'ween** runs to 1 November 2026 and **Christmas at Chessington** from 21 November. **Or book through GetYourGuide**: the <a href="https://www.getyourguide.com/activity/-t112474?partner_id=WWP7I0R&amp;cmp=chessington-world-of-adventures-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">official day ticket</a> can be **cancelled free up to 24 hours before**.
 
 ## What tickets cost
 
@@ -44,7 +44,7 @@ It is a park for families with children of about 3 to 12. Only one ride needs 1.
 | **Day ticket: theme park, zoo and SEA LIFE** | **From £32** | **£68** |
 | **Under 90cm** | **Free** | Free |
 | Adult and Pre-Schooler, Monday to Friday in term time | £29 | — |
-| Howl'o'ween day ticket, October 2026 | From £34 | £66 |
+| Howl'o'ween day ticket, to 1 November 2026 | From £34 | £66 |
 | Christmas Village and park entry, 21 November to 24 December 2026 | From £32 | — |
 | Chessington Annual Pass | From £64 a year | — |
 
@@ -57,7 +57,7 @@ It is a park for families with children of about 3 to 12. Only one ride needs 1.
 - **Book online, for a weekday in term time.**
 - **Travelling by train as a group?** The [Days Out Guide](https://www.daysoutguide.co.uk/chessington-world-of-adventures-resort) takes **a third off the online advance price for up to six people** with one National Rail ticket, from £23 a head. Oyster and contactless do not count, so this only pays if you buy a rail ticket. It is valid in the main season only, and the terms exclude the Zoo Days and the winter event. Rules in our [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/) guide.
 - **Already have a London Pass?** Chessington is one of the out-of-town attractions on it, and it has to be reserved in advance; our [London Pass guide](/articles/london-pass-guide/) says whether the pass pays for itself.
-- **Going twice, or to Thorpe Park as well?** The Chessington Annual Pass is from £64. The **Merlin Essential Pass, £139**, covers both parks, [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/) and the London Eye, but is barred on 25 busy days, including 31 October 2026; the £239 Gold Pass adds free parking.
+- **Going twice, or to Thorpe Park as well?** The Chessington Annual Pass is from £64. The **Merlin Essential Pass, £139**, covers both parks, [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/) and the London Eye, but is barred on busy days, next on 6 to 8 November and 19 and 26 to 27 December 2026; the £239 Gold Pass adds free parking.
 
 ## Booking through GetYourGuide
 
@@ -161,7 +161,7 @@ Most of Chessington's rides take children from 0.9m or 1.1m, and several have no
 
 **Weekdays in term time are the quietest days**; school holidays and event days are the busiest. Chessington advises you to **arrive early and leave the most popular rides until last**. Use the Chessington app for live queue times.
 
-| Fastrack, October 2026 prices | From | What it covers |
+| Fastrack | From | What it covers |
 | --- | --- | --- |
 | Bronze | £15 | Three skips, on your choice of rides |
 | **Silver** | **£29** | **Six skips** |

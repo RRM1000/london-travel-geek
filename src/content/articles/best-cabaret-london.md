@@ -3,8 +3,8 @@ title: "The Best Cabaret in London: What's Actually Still Open"
 seoTitle: "Best Cabaret London 2026: Venues Still Open"
 description: "London's biggest cabaret operator has collapsed. Every venue here is open, and the closed ones are named."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -69,7 +69,6 @@ Cabaret runs on short leases, small rooms and thin margins; the closed venues ar
 | **606 Club** | Jazz supper club | Chelsea | £16 | Seated |
 | **The Box Soho** | Burlesque nightclub | Soho | — | Table service |
 | **Cirque le Soir** | Circus nightclub | Soho | — | Standing |
-| **Cirque Berserk** | Circus | Charing Cross | £15 | Seated · **21–31 Oct** |
 | **The Vaults** | Immersive venue | Waterloo | — | Both |
 | **Cabaret at the Kit Kat Club** | Musical, not a variety bill | Embankment | £37.15 | Seated |
 | **Magic Mike Live** | Dance and variety | Leicester Square | £42 | Seated |
@@ -130,8 +129,6 @@ There are three spaces, and the cabaret room is **Soho Downstairs**, with late s
 
 **Cabaret and variety tickets run from £16 to £20.** Access provision is strong and clearly stated: **audio-described, BSL, captioned and relaxed performances** are all offered across the programme.
 
-**For Halloween, Dina Martina: Halloweena! plays Soho Downstairs from 19 to 31 October 2026**, 60 minutes, 16+, from £20, with prices moving by demand. [Book via Soho Theatre](https://sohotheatre.com/events/dina-martina-halloweena/).
-
 ### Soho Theatre Walthamstow
 
 *186 Hoe Street, E17 4QH · Walthamstow Central · seated*
@@ -141,8 +138,6 @@ There are three spaces, and the cabaret room is **Soho Downstairs**, with late s
 It opened on **1 May 2025** in the restored 1930s Granada — later the MGM, the ABC and the EMD — a Grade II* listed cinema that sat empty for twenty years before a **£30m restoration**. It seats **960**, far bigger than Dean Street, and the programme runs to comedy, cabaret, theatre, music, talks and podcasts, with dedicated South Asian heritage and LGBTQ+ strands.
 
 Ticket prices vary by show. The same access provision as Dean Street applies — **audio-described, BSL, captioned and relaxed performances**.
-
-**The Tiger Lillies play Songs for the Dead on Sunday 1 November 2026**, a 110-minute, 16+ concert for the Day of the Dead, from £15. [Book via Soho Theatre](https://sohotheatre.com/events/the-tiger-lillies-songs-of-the-dead/).
 
 ### The Phoenix Arts Club
 
@@ -298,7 +293,7 @@ Shows rotate: current productions include All About Gatsby, A Gatsby Christmas a
 
 **The Scarlet Lotus runs Thursdays only, 6pm to 9pm**, as a limited seasonal run; the company stages a small number of branded shows in short bursts.
 
-The Scarlet Lotus is **£50 for a Silver drinks table, £89 Platinum with three courses, £149 Diamond with five, and £225 for a seven-course Chef's Table with a four-glass wine flight.** The Halloween Cabaret on 31 October is £49, £69 and £119 for front-row VIP. Santa's Secret Cabaret runs in November at £69, £99, £180 and **£360 for the Chef's Table**, then December at £69, £99 and £139, with roaming canapés addable at £40 a head.
+The Scarlet Lotus is **£50 for a Silver drinks table, £89 Platinum with three courses, £149 Diamond with five, and £225 for a seven-course Chef's Table with a four-glass wine flight.** Santa's Secret Cabaret runs in November at £69, £99, £180 and **£360 for the Chef's Table**, then December at £69, £99 and £139, with roaming canapés addable at £40 a head.
 
 The venue is at 194 Piccadilly; ask the collective about its age policy when you book.
 
@@ -403,20 +398,6 @@ Table reservations are taken only by phone or WhatsApp.
 ---
 
 ## Circus and spectacle
-
-### Cirque Berserk
-
-*Garrick Theatre · Leicester Square, Charing Cross · seated · **21–31 October 2026***
-
-**A circus playing a West End theatre.**
-
-More than thirty international acrobats, aerialists and stunt performers do the Globe of Death on motorcycles, aerial work, hand-balancing, knife throwing and comedy — theatre-seated, so everyone can see, which is not true of a big top. The Garrick run is **21 to 31 October 2026, tickets from £15**, running **1 hour 45 minutes including one interval.** Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1J7JN-cirque-berserk/).
-
-![A rider in full leathers and helmet on a motorcycle in front of the steel mesh sphere of the Globe of Death, one arm raised, backlit through stage haze](../../assets/articles/best-cabaret-london/cirque-berserk-globe.jpg)
-
-*The Globe of Death. Photo: Cirque Berserk.*
-
-The 45-minute Winter Wonderland version, "IGNITE!", is **not running in 2026** — Gandeys has taken the Hyde Park circus slot. The Charing Cross run is the way to see the company in 2026.
 
 ### Scrooge: Cirque Extravaganza
 

@@ -1,10 +1,10 @@
 ---
 title: "Paultons Park from London: Peppa Pig World, Tickets, Trains and Height Limits"
 seoTitle: "Paultons Park from London: Tickets, Trains, Rides"
-description: "Paultons Park, home of Peppa Pig World, is £46.75 a person booked ahead in October 2026 and £61.50 on the day, with under-1m children free and parking free. The train and bus from Waterloo, every height limit, the new Valgard coasters and the closed dates."
+description: "Paultons Park, home of Peppa Pig World, is £29 a person booked ahead on its November weekends and £41 on Christmas days, with under-1m children free and parking free. The train and bus from Waterloo, every height limit, the new Valgard coasters and the closed dates."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-26
-reviewBy: 2026-11-03
+updatedAt: 2026-11-01
+reviewBy: 2026-11-07
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -18,7 +18,7 @@ tags: [day trips, Hampshire, New Forest, Peppa Pig, theme parks, family, kids, t
 draft: false
 faq:
   - q: "How much are Paultons Park tickets?"
-    a: "£46.75 a person booked online ahead for October 2026 dates, including the Halloween event, and £61.50 if you book on the day of the visit. November weekends are £29 ahead and the Christmas days £41. Adults and children pay the same; children under 1 metre, measured in shoes, are free and need no ticket."
+    a: "£29 a person booked online ahead for the November reduced-rate weekends (7 to 29 November 2026) and £41 for the Christmas days; booked on the day they are £38.50 and £55. The October 2026 Halloween dates were £46.75 ahead and £61.50 on the day. Adults and children pay the same; children under 1 metre, measured in shoes, are free and need no ticket."
   - q: "How do you get to Paultons Park from London by train?"
     a: "Direct train from Waterloo to Southampton Central, about 1 hour 20 minutes on the fastest trains, then the X7 bus towards Salisbury from stop SB on Wyndham Place, about 20 to 25 minutes, £3 single. The X7 runs roughly hourly Monday to Saturday and not at all on Sundays or bank holidays; Radio Taxis charge a set £20 from the station if you pre-book."
   - q: "Is Peppa Pig World included in the Paultons Park ticket?"
@@ -31,18 +31,16 @@ faq:
     a: "Only inside its VIP packages, from £285 a person, which add a host, priority parking and unlimited fast-track ride access. It cannot be bought on its own. Average queues are short: about 5 to 12 minutes a ride across 2025."
 ---
 
-**Paultons Park costs £46.75 a person booked ahead for October 2026, children under 1 metre go free, and parking is free.** Book on the day and the same ticket is £61.50. Adults and children pay the same, so a family of two adults and two children over 1m pays £187 for an October day.
+**Paultons Park costs £29 a person booked ahead on its November weekends and £41 on its Christmas days, children under 1 metre go free, and parking is free.** Book on the day and the same tickets are £38.50 and £55. Adults and children pay the same, so a family of two adults and two children over 1m pays £116 for a November weekend day. School-holiday dates cost more: October 2026 was £46.75 ahead.
 
 It is a family-run park of more than 70 rides and attractions on 140 acres at the edge of the New Forest, near Romsey, and it is home to Peppa Pig World. It is not owned by Merlin, so a Merlin Annual Pass does not get you in.
 
-> 💡 **The Short Version:** **Built for families with children under 14**: Peppa Pig World is aimed at ages 1 to 6, and the new **Valgard** coasters give older children something bigger. **Tickets £46.75 online in advance in October 2026, £61.50 booked on the day; under 1m free.** By **train from Waterloo to Southampton Central (about 1 hour 20) and the X7 bus (£3)**, or a **£20 pre-booked taxi**. **Parking is free.** **The traps: the X7 does not run on Sundays**, and the park is shut on November weekdays, from **4 January to 5 February 2027**, and on most term-time weekdays in February and March.
+> 💡 **The Short Version:** **Built for families with children under 14**: Peppa Pig World is aimed at ages 1 to 6, and the new **Valgard** coasters give older children something bigger. **Tickets £29 online in advance on November weekends and £41 on Christmas days, £38.50 and £55 booked on the day; under 1m free.** By **train from Waterloo to Southampton Central (about 1 hour 20) and the X7 bus (£3)**, or a **£20 pre-booked taxi**. **Parking is free.** **The traps: the X7 does not run on Sundays**, and the park is shut on November weekdays, from **4 January to 5 February 2027**, and on most term-time weekdays in February and March.
 
 ## What tickets cost
 
 | Dates | Booked ahead online | Booked on the day |
 | --- | --- | --- |
-| **October 2026**, including the Halloween event | **£46.75** | £61.50 |
-| October 2026, two consecutive days | £70.00 | £84.75 |
 | **November reduced-rate weekends**, 7 to 29 November 2026 | **£29.00** | £38.50 |
 | Christmas event days, 5 December 2026 to 3 January 2027 | £41.00 | £55.00 |
 | Christmas event, two consecutive days | £61.50 | £75.50 |
@@ -54,7 +52,7 @@ It is a family-run park of more than 70 rides and attractions on 140 acres at th
 
 **Tickets are non-refundable, and changing the date costs £20** through [Paultons' date-change page](https://paultonspark.co.uk/tickets/change-visit-date/), up to midnight the night before, plus any price difference.
 
-**In the school holidays Paultons suggests two days**, the first in Peppa Pig World and the second for the rest of the park. The two-day ticket costs £23.25 more than one day in October 2026.
+**In the school holidays Paultons suggests two days**, the first in Peppa Pig World and the second for the rest of the park. A two-day ticket for the Christmas event costs £20.50 more than one day.
 
 ### Annual passes
 
@@ -64,7 +62,7 @@ It is a family-run park of more than 70 rides and attractions on 140 acres at th
 | Star | £225 | Off-peak periods, including selected weekends; 20% off food and drink |
 | Premium | £290, or £26.50 a month | Any day the park is open; 20% off food and drink |
 
-At £46.75 a visit, the Essential pass pays for itself on the fourth off-peak visit. No pass needs pre-booking.
+No pass needs pre-booking.
 
 Book direct on [paultonspark.co.uk](https://paultonspark.co.uk/tickets/).
 
@@ -81,7 +79,7 @@ From Southampton Central, leave by platform 1, cross the road, and take the **X7
 | **Southampton Central → Paultons** | 09:12, 10:22, 11:32, 16:33 | 09:12, 10:22, 11:32, 15:32, 16:32 |
 | **Paultons → Southampton Central** | 15:33, 16:59, 17:41 | 15:33, 16:34, 17:37 |
 
-*Salisbury Reds X7 timetable for October 2026. These reach the gate 23 to 26 minutes after leaving the station; the rest of the hourly service uses the Ower stop. Check [the X7 timetable](https://www.salisburyreds.co.uk/services/SWWD/X7) for your date.*
+*Salisbury Reds X7 timetable in force from 18 July 2026. These reach the gate 23 to 26 minutes after leaving the station; the rest of the hourly service uses the Ower stop. Check [the X7 timetable](https://www.salisburyreds.co.uk/services/SWWD/X7) for your date.*
 
 > ⚠️ **There is no X7 on Sundays or bank holidays.** On those days, take a taxi from Southampton Central or drive.
 
@@ -106,8 +104,7 @@ The postcode is **SO51 6AL**, just off **junction 2 of the M27**; from London, t
 
 | Period | Days | Hours |
 | --- | --- | --- |
-| **October 2026** | Daily | 10:30 to 16:30 on term-time weekdays, 10:00 to 17:00 at weekends and in half-term |
-| **Halloween Spooktacular** | 9 October to 2 November 2026 | Late opening to 19:30 on 27, 28 and 29 October |
+| **Halloween Spooktacular** | 9 October to 2 November 2026 | Daily; 10:30 to 16:30 on term-time weekdays, 10:00 to 17:00 at weekends and in half-term |
 | **November 2026** | Weekends only, 7 to 29 November | 10:30 to 16:00, selected rides |
 | **A Celebration of Christmas** | 5–6, 12–14 and 18–24 December 2026, 27–31 December, 2–3 January 2027 | 10:00 to 16:30 |
 | **February and March 2027** | 6–7 February, then Fridays to Mondays from 12 February; daily 13 to 22 February | 10:00 or 10:30 to 16:30 |
@@ -193,7 +190,7 @@ Across 2025, queue-times.com, which logs each park's official wait times, record
 
 ## Halloween and Christmas
 
-**Halloween Spooktacular runs from 9 October to 2 November 2026**, included in the normal ticket. It is pitched at families rather than scare fans: Peppa and George in Halloween costumes, The Great Halloween Mystery show, the Ghostly Manor dark ride, and Viking characters, magic and storytelling in Valgard from 15:00, with a fire show on selected dates. The **late openings to 19:30** on 27, 28 and 29 October cost nothing extra; Peppa Pig World still closes at 18:00. **Water Kingdom, Muddy Puddles and Seal Falls are shut throughout.** Our [Halloween in London guide](/articles/halloween-london/) covers the scare events closer to town.
+**Halloween Spooktacular runs from 9 October to 2 November 2026**, included in the normal ticket. It is pitched at families rather than scare fans: Peppa and George in Halloween costumes, The Great Halloween Mystery show, the Ghostly Manor dark ride, and Viking characters, magic and storytelling in Valgard from 15:00, with a fire show on selected dates. The **late openings** on 17, 24, 27, 28 and 29 October cost nothing extra; Peppa Pig World closes at 18:00 on those nights. **Water Kingdom, Muddy Puddles and Seal Falls are shut throughout.** Our [Halloween in London guide](/articles/halloween-london/) covers the scare events closer to town.
 
 **A Celebration of Christmas runs on the dates in the opening table, 5 December 2026 to 3 January 2027.** Peppa Pig World, Valgard, Tornado Springs and Lost Kingdom's rides run; Edge, Cat-O-Pillar, the water rides and a few others close for winter maintenance. Santa's Storytime runs until 24 December, and Santa's Grotto is an extra booked with your ticket before the day. More festive days out are in our [Christmas in London guide](/articles/christmas-in-london/).
 
@@ -208,7 +205,7 @@ Southampton is the base if you arrive by train: the X7 leaves beside Southampton
 ## What people get wrong
 
 - **Planning a Sunday by bus.** The X7 does not run on Sundays or bank holidays.
-- **Booking on the morning of the visit.** Same-day tickets cost £61.50, not £46.75.
+- **Booking on the morning of the visit.** Same-day tickets cost £38.50 on a November weekend and £55 on a Christmas day, against £29 and £41 booked ahead.
 - **Going in winter on a weekday.** Closed on November weekdays and from 4 January to 5 February 2027.
 - **Bringing a Merlin pass.** Paultons is independent; Merlin passes are not accepted.
 - **Expecting to buy fast track.** It only comes inside VIP packages.

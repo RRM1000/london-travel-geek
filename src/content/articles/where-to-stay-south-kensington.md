@@ -5,7 +5,7 @@ description: "A 433-metre tiled tunnel runs from the Tube to the museums, and ma
 heroImage: "../../assets/articles/south-kensington-area-guide/royal-albert-hall.jpg"
 heroImageAlt: "The Royal Albert Hall's red-brick and terracotta rotunda under a blue sky, with the Prince Consort memorial column and its bronze statue of Albert in front, and pedestrians crossing the plaza and steps below"
 publishedAt: 2026-06-04
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
@@ -185,7 +185,7 @@ Our [aparthotels guide](/articles/aparthotels-london/) compares the kitchens-and
 
 **South Kensington** is Piccadilly, District and Circle. The Piccadilly line runs to Heathrow without a change, about 55 minutes from Gloucester Road by Cheval's measure.
 
-**The Piccadilly line is closed from 1am on 31 October to the end of 1 November.** TfL is also replacing the entire 1975 fleet, with new trains entering service in a window running from **December 2026 to June 2027**, and the work involves weekend part-closures; the V&A now warns its own visitors that upgrades through 2026 and 2027 may disrupt journeys. Have a second route to the airport.
+**TfL is replacing the Piccadilly line's entire 1975 fleet**, with new trains entering service in a window running from **December 2026 to June 2027**, and the work involves weekend part-closures; the V&A warns its own visitors that upgrades through 2026 and 2027 may disrupt journeys. Have a second route to the airport.
 
 **There is no step-free access at South Kensington**, and no lifts to the platforms. Knightsbridge is the nearest step-free station to the museums at 0.6 miles, Earl's Court the next at 1.2. Gloucester Road has a lift to the Piccadilly line platforms only.
 

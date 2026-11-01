@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Kenwood-House-JBU_03.j
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-09-12
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-27
 sites: [london]
 canonicalSite: london
@@ -190,7 +190,7 @@ Included with admission: talks every half hour from 11am to 4pm, a daily history
 
 The **Secret Dome Tour** takes six people at a time up into Wren's dome for £48. It is **125 steps you must climb unaided**, with no step-free alternative.
 
-**Open daily 10am–5pm** (last entry 4.30pm), but it closes for events on set dates, sometimes all day and sometimes from mid-afternoon; the closures are listed on the college's opening-times page. **The lift is out of order** (October 2026), leaving 50 steps in four flights.
+**Open daily 10am–5pm** (last entry 4.30pm), but it closes for events on set dates, sometimes all day and sometimes from mid-afternoon; the closures are listed on the college's opening-times page. The Painted Hall closes all day from 16 to 19 November 2026 and on 8 to 11 February 2027. **The lift is out of order** (as of 1 November 2026), leaving 50 steps in four flights.
 
 ![The painted ceiling of the Painted Hall at Greenwich, crowded with baroque figures](../../assets/articles/historic-houses-london/painted-hall-ceiling.jpg)
 
@@ -202,7 +202,7 @@ The **Secret Dome Tour** takes six people at a time up into Wren's dome for £48
 
 Christopher Wren's riverside campus, which the college calls Britain's most filmed heritage site: *Les Misérables*, *The Crown* and *Thor* among others.
 
-**Most of what is here costs nothing.** The **grounds are open daily 8am to 11pm**, and the **Chapel of St Peter and St Paul is free, daily 10am–5pm**, except 26 to 30 October and 26 November 2026, when it is shut all day. It was rebuilt after a fire by James "Athenian" Stuart, with a plaster ceiling in Wedgwood blue and cream, **Benjamin West's altarpiece**, and a **1789 Samuel Green organ**.
+**Most of what is here costs nothing.** The **grounds are open daily 8am to 11pm**, and the **Chapel of St Peter and St Paul is free, daily 10am–5pm**, except 26 November 2026, when it is shut all day. It was rebuilt after a fire by James "Athenian" Stuart, with a plaster ceiling in Wedgwood blue and cream, **Benjamin West's altarpiece**, and a **1789 Samuel Green organ**.
 
 Also free to walk to: the remains of Greenwich Palace, where Henry VIII, Mary I and Elizabeth I were all born; the Nelson Room, where Nelson's body lay in state after Trafalgar; and the skittle alley of 1873, open daily from noon to 3pm.
 

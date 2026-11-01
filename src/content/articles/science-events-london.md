@@ -3,8 +3,8 @@ title: "Science in London: The Lectures, Lates and Days the Engines Run"
 seoTitle: "Science Events in London: Lectures, Lates and Expos"
 description: "A Royal Institution Discourse is £20 and starts at 7.30pm without an introduction. Gresham College has been free since 1597. And the Victorian beam engines at Crossness, Kempton and Kew Bridge only turn on published dates."
 publishedAt: 2026-07-21
-updatedAt: 2026-10-26
-reviewBy: 2026-10-29
+updatedAt: 2026-11-01
+reviewBy: 2026-11-04
 sites:
   - london
 canonicalSite: london
@@ -55,9 +55,6 @@ Every date and price below is the organiser's own.
 
 | Date | Price | What is on |
 | --- | --- | --- |
-| **Mon 26 Oct** | £16/£10 | Ri: Global fusion developments, the race for power, 7pm. The Ri's six-part particle physics short course with Harry Cliff runs 26 Oct to 30 Nov |
-| **Wed 28 Oct** | Free | See Buildings Differently, a materials-science panel chaired by Mark Miodownik, the Royal Society |
-| **Fri 30 Oct** | £20/£15 | Ri Discourse: Dame Ijeoma Uchegbu on drug delivery, 7.30pm |
 | **Mon 2 Nov** | Members + one guest | RGS Monday Night Lecture: Lucy Hawkes on tracking wild animals, Kensington Gore, 6.30pm |
 | **Tue 3 Nov** | Free | Croonian Prize Lecture: David Baker on computational protein design, the Royal Society, 6.30pm |
 | **Tue 3 Nov** | £25, £15 members | NHM Dig Deeper: the team behind the *Wild London* documentary, Flett Theatre, 6.30pm |
@@ -83,7 +80,7 @@ Every date and price below is the organiser's own.
 
 Two price bands. A **[Discourse](https://www.rigb.org/whats-on/discourse-how-get-molecule-obey-you) is £20 or £15 in the theatre and free to Ri Members and Patrons**, with a pay-what-you-can livestream from £5. Doors open about 6.50pm, you must be seated by 7.20pm, and there is a pay bar from 6pm. **Ordinary evening talks are £16 or £10, and £7 for Members**, usually 7pm to 8.30pm. Eventbrite's booking fee is on top of both.
 
-The next Discourse is **Dame Ijeoma Uchegbu on 30 October**, on drug delivery. Ordinary talks run several nights a week, among them Alan Costley on fusion power on 26 October, and Harry Cliff teaches a six-part particle physics short course from 26 October to 30 November.
+Discourses run on selected Fridays and ordinary talks several nights a week; Harry Cliff teaches a six-part particle physics short course that ends on 30 November. The [what's on page](https://www.rigb.org/whats-on) lists them.
 
 The **[Faraday Museum](https://www.rigb.org/visit/faraday-museum) downstairs is free** and holds Faraday's magnetic laboratory laid out as it was in the 1850s, opposite a working nanotechnology lab. The Ri is **[open Monday to Friday 9am to 5pm](https://www.rigb.org/visit)** and closed on bank holidays, and a 45-minute welcome tour is £10, or free to Members and refunded if you join on the day. Green Park is five minutes away and step-free.
 
@@ -101,9 +98,9 @@ Coming up at Barnard's Inn Hall: Alain Goriely on **the end of mathematics and t
 
 ### The Royal Society, Carlton House Terrace
 
-**Free, and open to anyone.** The [public programme](https://royalsociety.org/science-events-and-lectures/public/) at 6–9 Carlton House Terrace SW1Y 5AG runs prize lectures and panels at 6.30pm, doors 6pm, with live subtitles. Coming up: **See Buildings Differently on 28 October**, the **Croonian Prize Lecture on 3 November** (David Baker on computational protein design), the **[Michael Faraday Prize Lecture on 10 November](https://royalsociety.org/science-events-and-lectures/2026/11/faraday-prize-lecture/)** (Anjali Goswami) and the **Milner Prize Lecture on 12 November** (Johan Håstad on complexity theory).
+**Free, and open to anyone.** The [public programme](https://royalsociety.org/science-events-and-lectures/public/) at 6–9 Carlton House Terrace SW1Y 5AG runs prize lectures and panels at 6.30pm, doors 6pm, with live subtitles. Coming up: the **Croonian Prize Lecture on 3 November** (David Baker on computational protein design), the **[Michael Faraday Prize Lecture on 10 November](https://royalsociety.org/science-events-and-lectures/2026/11/faraday-prize-lecture/)** (Anjali Goswami) and the **Milner Prize Lecture on 12 November** (Johan Håstad on complexity theory).
 
-In-person seats are free but booked through Eventbrite, and the Society warns it issues more than it has seats, so entry is first-come. It also releases them in waves: for the Faraday lecture, **last-chance tickets go on sale on 27 October**. **Watching online needs no booking at all** — it goes out on the Society's YouTube channel with a live Q&A through Slido, and the recording stays up.
+In-person seats are free but booked through Eventbrite, and the Society warns it issues more than it has seats, so entry is first-come. It also releases them in waves. **Watching online needs no booking at all** — it goes out on the Society's YouTube channel with a live Q&A through Slido, and the recording stays up.
 
 The free **[Summer Science Exhibition](https://royalsociety.org/science-events-and-lectures/summer-science-exhibition/)** fills the building for a week each summer; in 2026 it ran 30 June to 5 July with 13 flagship exhibits and was suitable for all ages.
 
@@ -155,7 +152,7 @@ For the full night, **[Dino Snores for Grown Ups](https://www.nhm.ac.uk/events/d
 
 ### Royal Observatory Greenwich
 
-**Closed from 2 November 2026** for the First Light refurbishment, due to finish by spring 2028; the Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([project page](https://www.rmg.co.uk/royal-observatory/transformation)). Until 2 November it is **open daily, £24 adult, £18 student, £12 child, under-4s and Members free** — the [prices](https://www.rmg.co.uk/plan-your-visit/tickets-prices) — and **£3 for visitors on Universal Credit and several other benefits**. Standard hours are 10am to 5pm with last entry at 4pm. Two short guided add-ons run on top of entry at **£5 adult, £3.50 student and £2.50 child**: the **[Treasures Tour](https://www.rmg.co.uk/royal-observatory) daily at 11am and 3pm**, and the Lunar Tours daily at 1.30pm. Observatory Unlocked, where the Explainers take questions in the galleries, is on Saturdays and Sundays and costs nothing extra.
+**Closed from 2 November 2026** for the First Light refurbishment, due to finish by spring 2028; the Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([project page](https://www.rmg.co.uk/royal-observatory/transformation)).
 
 > ⚠️ **The Peter Harrison Planetarium is closed for renovation.** The replacement show is downstairs at the National Maritime Museum.
 

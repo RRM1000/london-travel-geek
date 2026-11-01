@@ -3,8 +3,8 @@ title: "Canterbury, Dover and Leeds Castle from London: Trains vs the Tour"
 seoTitle: "Canterbury and Dover Day Trip from London: Trains"
 description: "St Pancras to Canterbury West is under an hour on Southeastern's high-speed line, against 1h30 from Victoria to Canterbury East. Dover Castle costs from £24.65 and Canterbury Cathedral from £18. Leeds Castle has no useful station, so seeing all three in one day means the £79-£125 coach tours instead."
 publishedAt: 2026-06-20
-updatedAt: 2026-10-26
-reviewBy: 2026-11-07
+updatedAt: 2026-11-01
+reviewBy: 2026-11-06
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -121,7 +121,7 @@ Leeds Castle sits between Maidstone and Ashford, with no train near the gate.
 | Family 2 (2 adults + up to 3 children) | £115.00 | £128.50 |
 | Under-3s | Free | Free |
 
-Admission covers unlimited return visits for a year. **Hours 1 October–19 November 2026: grounds 10:00–17:00, the Castle itself 10:30–15:30, last entry 15:00. From 20 November to 3 January 2027: grounds 10:00–15:30, the Castle 10:30–15:00, last entry 14:30.**
+Admission covers unlimited return visits for a year. **Hours 1 October–19 November 2026: grounds 10:00–17:00, the Castle itself 10:30–15:30, last entry 15:00. From 20 November to 3 January 2027: grounds 10:00–15:30, the Castle 10:30–15:00, last entry 14:30.** The castle is closed from 6 to 11 November 2026, apart from a fireworks evening on 7 and 8 November for ticket holders, on 25 December, and from Monday to Friday between 4 January and 11 February 2027.
 
 **By train, Southeastern runs to Bearsted and Hollingbourne**, 25–30 minutes from Ashford International or 70–75 minutes from Victoria — but from either station it's a 5-minute taxi ride or a 30–40 minute walk to the gate, with no shuttle bus. Leeds Castle's own green-travel offer gives 20% off admission if you show a same-day train, bus or cycling ticket at the Visitor Centre. From London, a 70-minute train plus a 30-minute walk each way eats most of a day, which is why people come by coach: Evan Evans, Golden Tours and Premium Tours all run scheduled sightseeing coaches here.
 

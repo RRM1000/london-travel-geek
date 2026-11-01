@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Albert_Embank
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-05
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-01
+reviewBy: 2026-12-20
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -232,7 +232,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 
 **Inside is the [Household Cavalry Museum](https://householdcavalrymuseum.co.uk/visit/)**, where a glass screen looks into the working stables. **£11 adult, £8 students and children aged 5 to 15, £9.50 over-60s, £29 for a family** of two adults and up to three children, with a multimedia guide included in nine languages. Open **10am to 6pm April to October and 10am to 5pm November to March**, last admission an hour before closing, and closed on Marathon Day, Easter Friday, Remembrance Sunday, Christmas Eve to Boxing Day and New Year's Day.
 
-**Straight across Whitehall is the Banqueting House**, the only surviving fragment of the old Whitehall Palace, with a Rubens ceiling painted for Charles I and the site of his execution in 1649 outside it. After its summer season it opens to the general public only on **Sunday 1 November** (10am to 4pm) and **Sunday 20 December**. It is **£10 adult and free for children aged 5 to 15**, and pre-booking is recommended. Dates are on the [Banqueting House visiting page](https://www.hrp.org.uk/banqueting-house/visit/).
+**Straight across Whitehall is the Banqueting House**, the only surviving fragment of the old Whitehall Palace, with a Rubens ceiling painted for Charles I and the site of his execution in 1649 outside it. After its summer season it opens to the general public only on **Sunday 20 December**. It is **£10 adult and free for children aged 5 to 15**, and pre-booking is recommended. Dates are on the [Banqueting House visiting page](https://www.hrp.org.uk/banqueting-house/visit/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="westminster-walk-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
