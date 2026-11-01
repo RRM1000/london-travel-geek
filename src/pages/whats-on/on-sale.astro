@@ -11,10 +11,11 @@
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
 import heroImage from "../../assets/articles/london-theatre-guide/tkts-booth-leicester-square.jpg";
 import listingsJson from "../../data/listings.json";
-import { itemHtml, firstRunDayOf, type Listings, type Row } from "../../lib/whats-on";
+import theatreData from "../../data/theatre-shows.json";
+import { itemHtml, firstRunDayOf, withTheatreBooking, type Listings, type Row } from "../../lib/whats-on";
 import "../../styles/whats-on.css";
 
-const listings = listingsJson as unknown as Listings;
+const listings = withTheatreBooking(listingsJson as unknown as Listings, theatreData.shows);
 const buildDay = listings.generated;
 const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
   day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
@@ -85,7 +86,7 @@ const headings = [
     <p class="wo-intro">
       Shows whose tickets aren't on sale yet, grouped by the day they're released. Each one shows its
       first performance; where there is a presale, its date is under the show.
-      <em class="wo-intro__fresh">Updated {updated}. Everything already on sale is on the <a href="/whats-on/">What's On page</a>.</em>
+      <em class="wo-intro__fresh">Updated {updated}. Everything already on sale is on the <a href="/whats-on/">What's On page</a>, and the biggest dates are in the <a href="/whats-on/big-events/">major events calendar</a>.</em>
     </p>
 
     <h2 id="going-on-sale">Going on sale</h2>

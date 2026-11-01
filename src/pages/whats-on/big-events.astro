@@ -1,0 +1,134 @@
+---
+// The major events calendar: the big gigs, sport, theatre openings, exhibitions
+// and festivals, picked by rule (src/lib/major-events.mjs) so it fills itself at
+// every listings refresh. Filtering happens in the browser; everything is in
+// the HTML, so search engines and no-JS readers see the whole list.
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+import heroImage from "../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg";
+import listingsJson from "../../data/listings.json";
+import { GROUPS, loadMajorEvents, monthKey, monthName, shortDay, whenText } from "../../lib/major-events.mjs";
+import "../../styles/whats-on.css";
+
+const buildDay = listingsJson.generated;
+const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
+  day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
+});
+
+const all = loadMajorEvents(buildDay);
+const onNow = all.filter((e) => e.start < buildDay);
+const coming = all.filter((e) => e.start >= buildDay);
+const months = [...new Set(coming.map((e) => monthKey(e.start)))];
+const groups = GROUPS.filter(([g]) => all.some((e) => e.group === g));
+const label = Object.fromEntries(GROUPS);
+
+const headings = [
+  { depth: 2, slug: "on-now", text: "On now" },
+  ...months.map((m) => ({ depth: 2, slug: `m-${m}`, text: monthName(m) })),
+];
+---
+
+<ArticleLayout
+  title="Major Events in London: the Big Dates Calendar"
+  seoTitle="Major Events in London: Gigs, Sport, Theatre, Shows"
+  description="The big dates in London by month: arena gigs, internationals, marathons, new theatre openings, major exhibitions and festivals, with on-sale dates."
+  articleId="whats-on-big-events"
+  category="Things to do"
+  tags={["what's on", "events", "gigs", "sport", "theatre", "exhibitions"]}
+  publishedAt={new Date("2026-11-01")}
+  updatedAt={new Date(`${buildDay}T12:00:00Z`)}
+  heroImage={heroImage}
+  heroImageAlt="The Royal Albert Hall, one of the venues in the major events calendar"
+  headings={headings}
+>
+  <div class="wo bigev">
+    <p class="wo-intro">
+      The biggest dates in London, month by month. Pick a type or a month, or show only what isn't on sale yet.
+      <em class="wo-intro__fresh">Updated {updated}. Every smaller event is on the <a href="/whats-on/">What's On page</a>, and release dates are on the <a href="/whats-on/on-sale/">on-sale page</a>.</em>
+    </p>
+
+    <div class="bigev__filters">
+      <div class="wo__chips" id="bigev-types" role="group" aria-label="Type of event">
+        <button type="button" data-group="all" class="is-on">All</button>
+        {groups.map(([g, name]) => <button type="button" data-group={g}>{name}</button>)}
+      </div>
+      <div class="wo__chips" id="bigev-months" role="group" aria-label="Month">
+        <button type="button" data-month="all" class="is-on">Any month</button>
+        {months.map((m) => <button type="button" data-month={m}>{monthName(m)}</button>)}
+      </div>
+      <label class="bigev__toggle"><input type="checkbox" id="bigev-sale" /> Not on sale yet</label>
+    </div>
+
+    {onNow.length > 0 && (
+      <section data-section="now">
+        <h2 id="on-now">On now</h2>
+        <ul class="bigev__list">
+          {onNow.map((e) => (
+            <li data-group={e.group} data-month="now" data-end={e.end} data-sale="">
+              <span class="bigev__when">To {shortDay(e.end)}</span>
+              <span class="bigev__what">{e.url ? <a href={e.url}>{e.title}</a> : e.title}</span>
+              <span class="bigev__meta">{label[e.group]} · {e.venue}</span>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {months.map((m) => (
+      <section data-section={m}>
+        <h2 id={`m-${m}`}>{monthName(m)}</h2>
+        <ul class="bigev__list">
+          {coming.filter((e) => monthKey(e.start) === m).map((e) => (
+            <li data-group={e.group} data-month={m} data-end={e.end} data-sale={e.onSale}>
+              <span class="bigev__when">{whenText(e)}</span>
+              <span class="bigev__what">{e.url ? <a href={e.url}>{e.title}</a> : e.title}</span>
+              <span class="bigev__meta">
+                {label[e.group]} · {e.venue}
+                {e.note && <> · {e.note.replace(/\d{4}-\d{2}-\d{2}/, (d) => shortDay(d))}</>}
+              </span>
+              {e.onSale && <span class="wo__badge wo__badge--soon bigev__sale">On sale {shortDay(e.onSale)}</span>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+    <p class="wo__status" id="bigev-none" hidden>Nothing matches those filters.</p>
+  </div>
+</ArticleLayout>
+
+<script>
+  import { londonDay } from "../../lib/whats-on";
+  const today = londonDay(new Date());
+  const items = [...document.querySelectorAll<HTMLElement>(".bigev__list li")];
+  const sections = [...document.querySelectorAll<HTMLElement>(".bigev section")];
+  const none = document.getElementById("bigev-none") as HTMLElement;
+  const sale = document.getElementById("bigev-sale") as HTMLInputElement;
+  let group = "all";
+  let month = "all";
+
+  function apply() {
+    for (const li of items) {
+      const d = li.dataset;
+      li.hidden = (d.end ?? "") < today
+        || (group !== "all" && d.group !== group)
+        || (month !== "all" && d.month !== month)
+        || (sale.checked && (d.sale ?? "") < today);
+    }
+    for (const s of sections) s.hidden = !s.querySelector("li:not([hidden])");
+    none.hidden = sections.some((s) => !s.hidden);
+  }
+
+  function chips(id: string, read: (b: HTMLElement) => string, set: (v: string) => void) {
+    const box = document.getElementById(id);
+    box?.addEventListener("click", (ev) => {
+      const b = (ev.target as HTMLElement).closest("button");
+      if (!b) return;
+      for (const x of box.querySelectorAll("button")) x.classList.toggle("is-on", x === b);
+      set(read(b));
+      apply();
+    });
+  }
+  chips("bigev-types", (b) => b.dataset.group ?? "all", (v) => (group = v));
+  chips("bigev-months", (b) => b.dataset.month ?? "all", (v) => (month = v));
+  sale.addEventListener("change", apply);
+  apply();
+</script>

@@ -397,3 +397,22 @@ html body .venue-listings .wo__day { font-size: 1.1rem; }
   html body .wo-picks a, html body .wo-picks button, html body .wo__results li.wo__item { transition: none; }
   html body .wo-picks a:hover, html body .wo-picks button:hover { transform: none; }
 }
+
+/* Major events calendar */
+.bigev__filters { display: grid; gap: 0.75rem; margin-block: 1.25rem 1.75rem; }
+.bigev__toggle { display: inline-flex; gap: 0.5rem; align-items: center; font-weight: 600; }
+.bigev__list { list-style: none; margin: 0 0 2rem; padding: 0; }
+.bigev__list li { display: grid; grid-template-columns: 11rem 1fr; gap: 0.1rem 1rem; padding-block: 0.7rem; border-top: 1px solid var(--line, rgba(127, 127, 127, 0.25)); }
+.bigev__when { grid-row: span 3; font-size: 0.9rem; color: var(--muted); }
+.bigev__what { font-weight: 650; }
+.bigev__meta { font-size: 0.9rem; color: var(--muted); }
+.bigev__sale { justify-self: start; }
+.bigev__list li[hidden], .bigev section[hidden] { display: none; }
+@media (max-width: 40rem) {
+  .bigev__list li { grid-template-columns: 1fr; }
+  .bigev__when { grid-row: auto; }
+}
+.bigev-mini { margin-block: 1.5rem; padding: 1rem 1.25rem; border: 1px solid var(--line, rgba(127, 127, 127, 0.25)); border-radius: 0.5rem; }
+.bigev-mini ul { margin: 0.5rem 0; padding-left: 1.1rem; }
+.bigev-mini__when { font-weight: 650; }
+.bigev-mini__where { color: var(--muted); font-size: 0.9rem; }

@@ -2,6 +2,7 @@ import { defineConfig } from "astro/config";
 import remarkAreaRestaurants from "./src/lib/remark-area-restaurants.mjs";
 import remarkHotelLinks from "./src/lib/remark-hotel-links.mjs";
 import remarkPartnerLinks from "./src/lib/remark-partner-links.mjs";
+import remarkBigEvents from "./src/lib/remark-big-events.mjs";
 import remarkStayStrips from "./src/lib/remark-stay-strips.mjs";
 import remarkSubmitEvent from "./src/lib/remark-submit-event.mjs";
 import remarkVenueListings from "./src/lib/remark-venue-listings.mjs";
@@ -25,7 +26,7 @@ export default defineConfig({
   // file for why this replaced a hand-maintained endpoint.
   integrations: [sitemap()],
   markdown: {
-    remarkPlugins: [remarkAreaRestaurants, remarkHotelLinks, remarkPartnerLinks, remarkStayStrips, remarkSubmitEvent, remarkVenueListings],
+    remarkPlugins: [remarkAreaRestaurants, remarkHotelLinks, remarkPartnerLinks, remarkStayStrips, remarkBigEvents, remarkSubmitEvent, remarkVenueListings],
     rehypePlugins: [rehypeTableAlign, rehypeTableResponsive],
   },
   vite: {

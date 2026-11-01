@@ -38,6 +38,30 @@ export const addDays = (iso: string, n: number) => {
 };
 export const londonDay = (d: Date) => d.toLocaleDateString("en-CA", { timeZone: "Europe/London" });
 
+type TheatreShow = { slug: string; name: string; venue: string; firstPreview: string | null; opening: string | null; closing: string | null; bookingFrom: string | null };
+
+/** Adds shows from London Theatre Geek whose booking hasn't opened, unless the listings already carry them. */
+export function withTheatreBooking(base: Listings, shows: TheatreShow[]): Listings {
+  const cats = [...base.cats];
+  const venues = [...base.venues];
+  const catIdx = cats.indexOf("theatre");
+  const norm = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, "");
+  const held = new Set(base.rows.filter((r) => r[7]).map((r) => norm(r[2])));
+  const rows: Row[] = [];
+  for (const s of shows) {
+    const start = s.firstPreview || s.opening;
+    if (!s.bookingFrom || s.bookingFrom < base.generated || !start || held.has(norm(s.name))) continue;
+    let venue = venues.findIndex((v) => v[0] === s.venue);
+    if (venue < 0) venue = venues.push([s.venue, "", ""]) - 1;
+    rows.push([
+      start, "", s.name, catIdx, venue, null, null, s.bookingFrom, 0,
+      s.closing && s.closing > start ? `${start} to ${s.closing}` : "",
+      `https://www.londontheatregeek.co.uk/shows/${s.slug}`, "London Theatre Geek", base.generated, "", "",
+    ]);
+  }
+  return { ...base, cats, venues, rows: [...base.rows, ...rows], count: base.count + rows.length };
+}
+
 /** The first and last day a row covers: one day, or a whole run's span. */
 export const span = (r: Row): [string, string] => (r[9] ? (r[9].split(" to ") as [string, string]) : [r[0], r[0]]);
 

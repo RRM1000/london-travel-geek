@@ -21,6 +21,7 @@ const AD_FREE_PATHS = new Set([
   "/articles/premier-league-tickets-london/",
   "/articles/wimbledon-tickets-guide/",
   "/whats-on/",
+  "/whats-on/big-events/",
   "/whats-on/on-sale/",
 ]);
 

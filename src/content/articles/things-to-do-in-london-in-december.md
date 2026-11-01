@@ -56,6 +56,8 @@ The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and car
 | Sat 26 Dec | Fulham v Brighton and Spurs v Bournemouth, 3pm | Ticketed |
 | Thu 31 Dec | Mayor's New Year's Eve fireworks, 8pm to 12.30am | £20 to £55 |
 
+<div data-big-events="2026-12"></div>
+
 ## The Bayeux Tapestry: sold out to March 2027
 
 *British Museum, Room 30 · to 11 July 2027*

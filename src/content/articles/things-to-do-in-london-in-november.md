@@ -52,6 +52,8 @@ The first fortnight is fireworks and ceremony, ten days of jazz sit in the middl
 | Thu 19 Nov | Hyde Park Winter Wonderland opens | £1 entry off-peak |
 | Sat 28 Nov | London Museum opens at Smithfield | Free |
 
+<div data-big-events="2026-11"></div>
+
 ## The Bayeux Tapestry: sold out to March 2027
 
 *British Museum, Room 30 · to 11 July 2027*
