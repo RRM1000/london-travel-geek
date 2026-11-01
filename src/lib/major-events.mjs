@@ -98,7 +98,14 @@ function fromEvents(events, today) {
   return out;
 }
 
-function fromTheatre(shows, today) {
+function fromTheatre(shows, today, listings) {
+  // A box office's own release date, where the theatre site has none yet.
+  const released = new Map();
+  for (const r of listings.rows) {
+    if (!r[7] || r[7] < today) continue;
+    const k = norm(r[2]);
+    if (!released.has(k) || r[7] < released.get(k)) released.set(k, r[7]);
+  }
   const out = [];
   for (const s of shows) {
     const start = s.firstPreview || s.opening;
@@ -109,7 +116,7 @@ function fromTheatre(shows, today) {
     out.push({
       id: `theatre-${s.slug}`, title: s.name, group: "theatre", start, end: start, nights: 1, venue: s.venue,
       url: theatreUrl(s.slug), linkLabel: "London Theatre Geek",
-      onSale: s.bookingFrom && s.bookingFrom >= today ? s.bookingFrom : "", note: pressNight,
+      onSale: s.bookingFrom && s.bookingFrom >= today ? s.bookingFrom : released.get(norm(s.name)) ?? "", note: pressNight,
     });
   }
   return out;
@@ -125,7 +132,7 @@ const fromHand = (rows, group) =>
 /** @returns {MajorEvent[]} every major event still to come, soonest first. */
 export function majorEvents({ listings, events, theatre, hand, today }) {
   const manual = [...fromHand(hand.sport, "sport"), ...fromHand(hand.add, "festival")].filter((e) => e.end >= today);
-  const auto = [...fromListings(listings, today), ...fromEvents(events, today), ...fromTheatre(theatre, today)];
+  const auto = [...fromListings(listings, today), ...fromEvents(events, today), ...fromTheatre(theatre, today, listings)];
   // Hand-kept rows and events.json outrank a listing of the same thing.
   const titles = new Set([...manual, ...fromEvents(events, today)].map((e) => matchKey(e.title)));
   const kept = auto.filter((e) => !e.id.includes("|") || !titles.has(matchKey(e.title)));

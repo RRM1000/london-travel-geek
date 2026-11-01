@@ -5,11 +5,10 @@
 // the HTML, so search engines and no-JS readers see the whole list.
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
 import heroImage from "../../assets/articles/best-live-music-venues-london/royal-albert-hall.jpg";
-import listingsJson from "../../data/listings.json";
 import { GROUPS, loadMajorEvents, monthKey, monthName, shortDay, whenText } from "../../lib/major-events.mjs";
 import "../../styles/whats-on.css";
 
-const buildDay = listingsJson.generated;
+const buildDay = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/London" });
 const updated = new Date(`${buildDay}T12:00:00Z`).toLocaleDateString("en-GB", {
   day: "numeric", month: "long", year: "numeric", timeZone: "Europe/London",
 });
@@ -55,7 +54,7 @@ const headings = [
         <button type="button" data-month="all" class="is-on">Any month</button>
         {months.map((m) => <button type="button" data-month={m}>{monthName(m)}</button>)}
       </div>
-      <label class="bigev__toggle"><input type="checkbox" id="bigev-sale" /> Not on sale yet</label>
+      {all.some((e) => e.onSale) && <label class="bigev__toggle"><input type="checkbox" id="bigev-sale" /> Not on sale yet</label>}
     </div>
 
     {onNow.length > 0 && (
@@ -101,7 +100,7 @@ const headings = [
   const items = [...document.querySelectorAll<HTMLElement>(".bigev__list li")];
   const sections = [...document.querySelectorAll<HTMLElement>(".bigev section")];
   const none = document.getElementById("bigev-none") as HTMLElement;
-  const sale = document.getElementById("bigev-sale") as HTMLInputElement;
+  const sale = document.getElementById("bigev-sale") as HTMLInputElement | null;
   let group = "all";
   let month = "all";
 
@@ -111,7 +110,7 @@ const headings = [
       li.hidden = (d.end ?? "") < today
         || (group !== "all" && d.group !== group)
         || (month !== "all" && d.month !== month)
-        || (sale.checked && (d.sale ?? "") < today);
+        || (!!sale?.checked && (d.sale ?? "") < today);
     }
     for (const s of sections) s.hidden = !s.querySelector("li:not([hidden])");
     none.hidden = sections.some((s) => !s.hidden);
@@ -129,6 +128,6 @@ const headings = [
   }
   chips("bigev-types", (b) => b.dataset.group ?? "all", (v) => (group = v));
   chips("bigev-months", (b) => b.dataset.month ?? "all", (v) => (month = v));
-  sale.addEventListener("change", apply);
+  sale?.addEventListener("change", apply);
   apply();
 </script>
