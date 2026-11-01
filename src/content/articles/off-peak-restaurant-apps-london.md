@@ -203,6 +203,7 @@ No app combines with another app, none combines with a [Tastecard or Gourmet Soc
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
 - 🌙 **[Late Night Eating in London](/articles/late-night-eating-london/)** — for the Last Table crowd
+- 🛵 **[Food Delivery Apps in London](/articles/food-delivery-apps-london/)** — Deliveroo, Uber Eats and Just Eat compared
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 
 *Fees and discounts as at September 2026; venue counts and EatClub offers as at 26 October 2026. Offers on these platforms change daily, so confirm in the app before you travel.*

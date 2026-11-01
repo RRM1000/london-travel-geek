@@ -193,6 +193,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - 🍽️ **[London Restaurant Deals](/articles/restaurant-deals-london/)** — set lunch and pre-theatre, with the real prices
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — what the 50% actually covers
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard vs the rest, tested
+- 🛵 **[Food Delivery Apps in London](/articles/food-delivery-apps-london/)** — the fees, and when a £4.99 membership pays back
 - 👶 **[Kids Eat Free in London](/articles/kids-eat-free-london/)** — every offer, with the terms
 - 🎬 **[Cinema Deals in London](/articles/cinema-deals-london/)**
 - 🚂 **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — why contactless does not qualify

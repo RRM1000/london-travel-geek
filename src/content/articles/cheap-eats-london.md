@@ -479,6 +479,7 @@ Cooked breakfast from 8am, burgers and curries in a large multi-level room a min
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
+- 🛵 **[Food Delivery Apps in London](/articles/food-delivery-apps-london/)** — Deliveroo, Uber Eats and Just Eat: fees, memberships and collecting instead
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
 - 🐟 **[The Best Fish and Chips in London](/articles/best-fish-and-chips-london/)**

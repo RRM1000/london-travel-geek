@@ -242,4 +242,6 @@ If you want a made bed and fresh towels every morning, book a hotel.
 
 **One thing that catches people:** several of these buildings are residential, with actual residents. Cove Landmark Pinnacle is partway up a residential tower and the front desk is a concierge rather than a reception.
 
+**Eating in without cooking:** the fees, minimums and drop-off options for Deliveroo, Uber Eats and Just Eat are in our [food delivery apps guide](/articles/food-delivery-apps-london/).
+
 *Nightly rates are not quoted here: see [our capsule hotels guide](/articles/pod-hotels-london/) for why a single night's price is worth so little.*

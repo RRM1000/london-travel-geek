@@ -39,7 +39,7 @@ Fixed-price lunch and early-evening menus serve the same kitchen's food for less
 
 > ⚠️ **Prices change and menus rotate.** Confirm on the restaurant's own site before you travel.
 
-> 🧭 **This is one of several ways to pay less to eat out in London, and it needs no membership, app or code.** If it does not fit, the others might: [discount cards](/articles/restaurant-discount-cards-london/) if you eat out monthly, [off-peak apps](/articles/off-peak-restaurant-apps-london/) if you will eat at five, [bottomless brunch](/articles/bottomless-brunch-london/) if the drinks are the point, [kids eat free](/articles/kids-eat-free-london/) if you are feeding children, or [cheap eats](/articles/cheap-eats-london/) if you would rather just spend less.
+> 🧭 **This is one of several ways to pay less to eat out in London, and it needs no membership, app or code.** If it does not fit, the others might: [discount cards](/articles/restaurant-discount-cards-london/) if you eat out monthly, [off-peak apps](/articles/off-peak-restaurant-apps-london/) if you will eat at five, [bottomless brunch](/articles/bottomless-brunch-london/) if the drinks are the point, [kids eat free](/articles/kids-eat-free-london/) if you are feeding children, [food delivery apps](/articles/food-delivery-apps-london/) if you are eating in, or [cheap eats](/articles/cheap-eats-london/) if you would rather just spend less.
 
 ---
 
