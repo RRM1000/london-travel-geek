@@ -3,7 +3,7 @@ title: "Shoreditch Area Guide: Street Art, Brick Lane and Spitalfields"
 seoTitle: "Shoreditch Guide: Street Art, Brick Lane & Market Days"
 description: "A complete Shoreditch guide: where the street art actually is, which market runs on which day, Brick Lane curry houses and bagels, and when to come."
 publishedAt: 2026-08-15
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2027-01-26
 sites:
   - london
@@ -95,7 +95,7 @@ Shoreditch has its own share of the commemorative plaques marking where notable 
 5. **The Truman Brewery** — A former brewery complex holding separate markets, food halls, studios and event space either side of Brick Lane. Not all of them run on the same days.
 6. **The Brick Lane Vintage Market** — Which the operator calls the largest vintage market in the UK, in a 13,000 sq ft basement under the Truman Brewery, with over a hundred shops. **Open seven days a week.**
 7. **Dennis Severs' House** — A candlelit Georgian house on Folgate Street presented as if the family has just left the room: fires lit, food on the table, no labels and no talking. Booked in advance.
-8. **Boxpark Shoreditch** — Shipping containers stacked into a food and retail court by Shoreditch High Street station.
+8. **Boxpark Shoreditch** — Shipping containers stacked into a food and retail court by Shoreditch High Street station. Our [street food guide](/articles/best-street-food-london/) compares it with the markets and food halls elsewhere.
 
 ![Two large mural faces with green rope-like hair and a pink nebula painted between them, on a Shoreditch corner](../../assets/articles/shoreditch-area-guide/shoreditch-street-art.jpg)
 

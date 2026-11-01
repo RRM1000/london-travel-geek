@@ -41,7 +41,7 @@ Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow.
 
 > 🎃 **Halloween 2026 has passed.** Our [Halloween in London guide](/articles/halloween-london/) is the record of the 2026 events, plus the ghost walks, creepy places and costume hire that stay open all year.
 
-> 🧭 **Plan the rest of it:** [Getting around on the night](/articles/getting-around-london-transport-guide/) · [Late-night eating](/articles/late-night-eating-london/) · [New Year's Eve fireworks](/articles/new-years-eve-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/)
+> 🧭 **Plan the rest of it:** [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Getting around on the night](/articles/getting-around-london-transport-guide/) · [Late-night eating](/articles/late-night-eating-london/) · [New Year's Eve fireworks](/articles/new-years-eve-london/) · [Things to do in London in October](/articles/things-to-do-in-london-in-october/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/)
 
 ## When everything actually happens
 
@@ -266,6 +266,7 @@ People still search for all of these.
 
 ## Continue planning your London trip
 
+- 🎄 **[The Christmas Lights Walk](/articles/christmas-lights-walk-london/)** and **[Christmas Markets in London](/articles/christmas-markets-london/)** — what comes next
 - 🌳 **[Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
 - 🏙️ **[The Best Views in London](/articles/best-views-london/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**

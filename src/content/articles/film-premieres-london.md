@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Odeon_Leicester_Square
 heroImageLicense: "CC0"
 heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
@@ -96,6 +96,7 @@ Resellers such as Cornucopia Events advertise premiere access at **£1,999 to £
 
 - **Applause Store**: register interest on every premiere listing, and on the BAFTA red carpet listing.
 - **The film's official accounts**: the place to catch a studio ballot.
+- **The big December releases**: *Dune: Part Three* has UK previews from 15 December 2026 and opens on 18 December, the same day as *Avengers: Doomsday*. Follow both films' accounts through November.
 
 More London ceremonies and big nights, and which ones the public can get into, are in [award ceremonies in London](/articles/award-ceremonies-london/).
 

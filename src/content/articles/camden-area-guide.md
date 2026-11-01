@@ -3,7 +3,7 @@ title: "Camden Area Guide: The Markets, the Canal and Primrose Hill"
 seoTitle: "Camden Guide: Markets, Camden Lock & Primrose Hill"
 description: "A complete Camden guide: which of the markets is which, the canal walk to Little Venice, Primrose Hill, the music history, and when to avoid the crowds."
 publishedAt: 2026-08-22
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2026-11-10
 sites:
   - london
@@ -80,7 +80,7 @@ Camden has its own share of the commemorative plaques marking where notable peop
 
 ## Why visit — and who should skip it
 
-**Come here if** you want street food, vintage, or live music, or you want to walk the Regent's Canal. Camden Lock has dozens of food traders, most under £10.
+**Come here if** you want street food, vintage, or live music, or you want to walk the Regent's Canal. Camden Lock has dozens of food traders, most under £10; our [street food guide](/articles/best-street-food-london/) compares it with London's other markets and food halls.
 
 **Skip it if** crowds bother you. Sunday afternoon is the most crowded time; come on a weekday morning for the market without the crush.
 

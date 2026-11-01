@@ -147,7 +147,7 @@ It is a shop, not the Studio Tour: the Studio Tour's own shop needs a tour ticke
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-street-guide-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,912548,772912"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-For VAT, see [tax-free shopping](/articles/tax-free-shopping-london/), and for the rest of the city's shopping, [shopping in London](/articles/shopping-in-london/).
+For VAT, see [tax-free shopping](/articles/tax-free-shopping-london/), for the rest of the city's shopping, [shopping in London](/articles/shopping-in-london/), and for presents to take home, [what to buy in London](/articles/london-gifts-souvenirs/).
 
 ## Where to eat
 

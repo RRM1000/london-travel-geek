@@ -5,7 +5,7 @@ description: "Where to eat well in London on a budget — a £3.95 pizza in Fitz
 heroImage: "../../assets/articles/cheap-eats-london/camden-market-food-stalls.jpg"
 heroImageAlt: "Street food counters in Camden Market, including a focaccia stall and a burrito stall"
 publishedAt: 2026-08-27
-updatedAt: 2026-10-26
+updatedAt: 2026-11-01
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -163,7 +163,7 @@ A *comal* is the flat griddle a tortilla is cooked on: the masa is pressed and g
 
 *£ · Greenwich Market · 4 min from Cutty Sark · walk-in*
 
-**A permanent stall in Greenwich Market** doing vegetarian and vegan Indian street food.
+**A permanent stall in Greenwich Market** doing vegetarian and vegan Indian street food. Our [street food guide](/articles/best-street-food-london/) compares every market and food hall.
 
 **Dosa, chaat and curries** served in boxes, cooked to order. Everything is vegetarian and much of it vegan.
 
