@@ -19,6 +19,10 @@ const coming = all.filter((e) => e.start >= buildDay);
 const months = [...new Set(coming.map((e) => monthKey(e.start)))];
 const groups = GROUPS.filter(([g]) => all.some((e) => e.group === g));
 const label = Object.fromEntries(GROUPS);
+const dateBit = (iso, o) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { ...o, timeZone: "UTC" });
+const dayNum = (iso) => dateBit(iso, { day: "numeric" });
+const weekday = (iso) => dateBit(iso, { weekday: "short" });
+const monthShort = (iso) => dateBit(iso, { month: "short" });
 
 const headings = [
   { depth: 2, slug: "on-now", text: "On now" },
@@ -62,10 +66,13 @@ const headings = [
         <h2 id="on-now">On now</h2>
         <ul class="bigev__list">
           {onNow.map((e) => (
-            <li data-group={e.group} data-month="now" data-end={e.end} data-sale="">
-              <span class="bigev__when">To {shortDay(e.end)}</span>
-              <span class="bigev__what">{e.url ? <a href={e.url}>{e.title}</a> : e.title}</span>
-              <span class="bigev__meta">{label[e.group]} · {e.venue}</span>
+            <li class="bigev__card" data-group={e.group} data-month="now" data-end={e.end} data-sale="">
+              <span class="bigev__tile" aria-hidden="true"><small>Until</small><b>{dayNum(e.end)}</b><small>{monthShort(e.end)}</small></span>
+              <div class="bigev__body">
+                <span class="bigev__type">{label[e.group]}</span>
+                <h3 class="bigev__what">{e.url ? <a href={e.url}>{e.title}</a> : e.title}</h3>
+                <p class="bigev__meta">To {shortDay(e.end)} · {e.venue}</p>
+              </div>
             </li>
           ))}
         </ul>
@@ -77,14 +84,17 @@ const headings = [
         <h2 id={`m-${m}`}>{monthName(m)}</h2>
         <ul class="bigev__list">
           {coming.filter((e) => monthKey(e.start) === m).map((e) => (
-            <li data-group={e.group} data-month={m} data-end={e.end} data-sale={e.onSale}>
-              <span class="bigev__when">{whenText(e)}</span>
-              <span class="bigev__what">{e.url ? <a href={e.url}>{e.title}</a> : e.title}</span>
-              <span class="bigev__meta">
-                {label[e.group]} · {e.venue}
-                {e.note && <> · {e.note.replace(/\d{4}-\d{2}-\d{2}/, (d) => shortDay(d))}</>}
-              </span>
-              {e.onSale && <span class="wo__badge wo__badge--soon bigev__sale">On sale {shortDay(e.onSale)}</span>}
+            <li class="bigev__card" data-group={e.group} data-month={m} data-end={e.end} data-sale={e.onSale}>
+              <span class="bigev__tile" aria-hidden="true"><small>{weekday(e.start)}</small><b>{dayNum(e.start)}</b><small>{monthShort(e.start)}</small></span>
+              <div class="bigev__body">
+                <span class="bigev__type">{label[e.group]}</span>
+                <h3 class="bigev__what">{e.url ? <a href={e.url}>{e.title}</a> : e.title}</h3>
+                <p class="bigev__meta">
+                  {whenText(e)} · {e.venue}
+                  {e.note && <> · {e.note.replace(/\d{4}-\d{2}-\d{2}/, (d) => shortDay(d))}</>}
+                </p>
+                {e.onSale && <span class="wo__badge wo__badge--soon bigev__sale">On sale {shortDay(e.onSale)}</span>}
+              </div>
             </li>
           ))}
         </ul>
@@ -97,7 +107,7 @@ const headings = [
 <script>
   import { londonDay } from "../../lib/whats-on";
   const today = londonDay(new Date());
-  const items = [...document.querySelectorAll<HTMLElement>(".bigev__list li")];
+  const items = [...document.querySelectorAll<HTMLElement>(".bigev__card")];
   const sections = [...document.querySelectorAll<HTMLElement>(".bigev section")];
   const none = document.getElementById("bigev-none") as HTMLElement;
   const sale = document.getElementById("bigev-sale") as HTMLInputElement | null;
@@ -112,7 +122,7 @@ const headings = [
         || (month !== "all" && d.month !== month)
         || (!!sale?.checked && (d.sale ?? "") < today);
     }
-    for (const s of sections) s.hidden = !s.querySelector("li:not([hidden])");
+    for (const s of sections) s.hidden = !s.querySelector(".bigev__card:not([hidden])");
     none.hidden = sections.some((s) => !s.hidden);
   }
 
