@@ -20,7 +20,7 @@ faq:
   - q: "What is actually free at Christmas in London?"
     a: "Every street light display, every Christmas market to browse, the Trafalgar Square tree and St Pancras's charity tree are all free. What is not: ice rinks, ticketed light trails such as Christmas at Kew, grottos at the department stores, and Hyde Park Winter Wonderland, which needs a ticket even to walk in."
   - q: "When do London's Christmas lights switch on?"
-    a: "Carnaby Street's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November, and Bond Street's and Covent Garden's are Thursday 12 November. Oxford Street has not published its 2026 date; its lights went on Monday 3 November in 2025. The Trafalgar Square tree is lit on Thursday 3 December 2026."
+    a: "Leicester Square's lights went on Sunday 1 November 2026 and St Martin's Lane's follow on Tuesday 3 November. Carnaby Street's switch-on is Wednesday 4 November, Regent Street's is Thursday 5 November, Old Spitalfields Market's and Marylebone Village's are Wednesday 11 November, and Bond Street's and Covent Garden's are Thursday 12 November. Oxford Street has not published its 2026 date; its lights went on Monday 3 November in 2025. The Trafalgar Square tree is lit on Thursday 3 December 2026."
   - q: "Where can you still ice skate outdoors in London at Christmas 2026?"
     a: "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House in Greenwich and Hyde Park Winter Wonderland all have outdoor rinks in 2026-27, and Alexandra Palace has a year-round indoor one. The Natural History Museum's rink has closed for good, Canary Wharf's is taking a break for 2026, and there is no Tower of London rink."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
@@ -51,7 +51,7 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas markets
 
-**Leicester Square's** chalets ring an ice rink and opened on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** (**2 November** to 3 January) is the food one and is cash-free, **Winter by the River** at London Bridge City opens on **10 November**, and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £8 to £10.
+**Leicester Square's** chalets ring an ice rink and opened on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** (**2 November** to 3 January) is the food one and is cash-free, **Winter by the River** at London Bridge City opens on **10 November**, the new free **[King's Cross Winter Market](https://www.kingscross.co.uk/event/kings-cross-winter-market)** in Granary Square runs **26 November to 3 January** (until 23 December, 11am to 10pm Sunday to Thursday and 11pm Friday and Saturday; closed 25 and 26 December), and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £8 to £10.
 
 > 🎄 **[Every Christmas market in London, with dates and hours →](/articles/christmas-markets-london/)** — the central markets, Kingston, Greenwich, Wimbledon and Battersea, and the maker fairs at the British Library, King's Cross and Chelsea Physic Garden.
 
@@ -67,7 +67,16 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas lights: where to see them
 
-The 2026 switch-ons run from **Wednesday 4 November** (Carnaby Street) and **Thursday 5 November** (Regent Street, closed to traffic from 5pm to 9pm) to **Thursday 12 November** (Bond Street and Covent Garden). Oxford Street has not published its date, and the lights stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
+The 2026 switch-ons, in order:
+
+- **Sunday 1 November:** [Leicester Square](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november), star-shaped lights to 6 January 2027.
+- **Tuesday 3 November:** St Martin's Lane, to 6 January 2027.
+- **Wednesday 4 November:** [Carnaby Street](https://www.thisissoho.co.uk/carnaby-street/).
+- **Thursday 5 November:** [Regent Street](https://www.regentstreetonline.com/news/festive-spirits-return-for-2026), closed to traffic from 5pm to 9pm.
+- **Wednesday 11 November:** [Marylebone Village](https://www.marylebonevillage.com/whats-on-and-features/item/1477-merry-marylebone-christmas), 3pm to 8pm with the switch-on at 6pm on Devonshire Street, and [Old Spitalfields Market](https://oldspitalfieldsmarket.com/events/christmas-2026-light-switch-on), 4pm to 7.30pm with the switch-on at 6pm.
+- **Thursday 12 November:** [Bond Street](https://www.bondstreet.co.uk/articles/bond-streets-magical-christmas-lights), traffic-free from 4pm to 8pm with the lights on between 6pm and 7pm, and [Covent Garden](https://www.coventgarden.london/event/covent-garden-lights-switch-on), with Seven Dials.
+
+Oxford Street has not published its date. It is traffic-free from Selfridges to Great Portland Street, so you walk its lights down the middle of the road. They stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
 
 | Street | Known for |
 | --- | --- |
@@ -76,7 +85,7 @@ The 2026 switch-ons run from **Wednesday 4 November** (Carnaby Street) and **Thu
 | **Carnaby Street** | A completely different sculptural light installation each year |
 | **Bond Street & South Molton Street** | Tens of thousands of LEDs on a different theme annually; South Molton Street's own blue-lit arches |
 | **Covent Garden & Seven Dials** | The Piazza tree plus Seven Dials' light "canopies" radiating from the sundial monument |
-| **Marylebone High Street** | "Merry Marylebone" — an afternoon street festival with a ferris wheel and live music |
+| **Marylebone High Street** | "A Very Merry Marylebone Christmas" on Wednesday 11 November — an afternoon street festival with a Ferris wheel and live music |
 | **Chelsea** | King's Road part-pedestrianised for a festival day; Sloane Street's lights run the length of the boulevard |
 | **Canary Wharf** | No switch-on ceremony — the whole estate becomes a themed winter village from October (its ice rink is taking a break for 2026) |
 
@@ -265,7 +274,7 @@ It is a concert, not a service, and secular in feel. **Tickets go on sale in the
 
 **The Barbican Hall runs three evenings in Raymond Gubbay's Christmas season.** A **Christmas Carol Singalong** on Saturday 19 December 2026 (about two hours, from £27.50), **Christmas with King's College Choir** on Monday 21 December at 7.30pm (from £27.50) and **Candlelit Carols** with the Mozart Festival Orchestra on Tuesday 22 December at 7.30pm (from £27). Book the [Singalong](https://www.barbican.org.uk/whats-on/2026/event/christmas-carol-singalong), [King's College Choir](https://www.barbican.org.uk/whats-on/2026/event/christmas-with-kings-college-choir) or [Candlelit Carols](https://www.barbican.org.uk/whats-on/2026/event/candlelit-carols).
 
-**Handel's Messiah has two London dates in the first half of December**: the English Chamber Orchestra at [Cadogan Hall](https://cadoganhall.com/whats-on/handels-messiah/) on Sunday 6 December at 6pm (from £19.50, ages seven and over), and Bach Collegium Japan at the [Barbican](https://www.barbican.org.uk/whats-on/2026/event/bach-collegium-japan-handels-messiah) on Tuesday 15 December at 7pm (from £24). **The Sixteen sing A Ceremony of Carols** at [Cadogan Hall](https://cadoganhall.com/whats-on/choral-at-cadogan-2026-27-the-sixteen-a-ceremony-of-carols-1/) on 16 and 17 December at 7.30pm, from £26.50. All prices include the booking fee. Our [Christmas shows guide](/articles/christmas-shows-london/#christmas-concerts-and-carols) has the full list.
+**Handel's Messiah has three London dates in the first half of December.** The first is at [St Paul's Cathedral](https://www.stpauls.co.uk/whats-on/handels-messiah-2) on Wednesday 2 December 2026, 6.30pm to 9pm, sung by the Cathedral Choir and Cathedral Chorus with the City of London Sinfonia under the dome: **Dome tickets £35, Nave tickets £20**, with an interval and unreserved seating. The others: the English Chamber Orchestra at [Cadogan Hall](https://cadoganhall.com/whats-on/handels-messiah/) on Sunday 6 December at 6pm (from £19.50, ages seven and over), and Bach Collegium Japan at the [Barbican](https://www.barbican.org.uk/whats-on/2026/event/bach-collegium-japan-handels-messiah) on Tuesday 15 December at 7pm (from £24). **The Sixteen sing A Ceremony of Carols** at [Cadogan Hall](https://cadoganhall.com/whats-on/choral-at-cadogan-2026-27-the-sixteen-a-ceremony-of-carols-1/) on 16 and 17 December at 7.30pm, from £26.50. All prices include the booking fee. Our [Christmas shows guide](/articles/christmas-shows-london/#christmas-concerts-and-carols) has the full list.
 
 ### More carol concerts to book
 
@@ -276,6 +285,14 @@ Beyond the free ones above, several concert halls run ticketed carol and candlel
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Smaller December events
+
+**Museum by Candlelight, The Fan Museum, Greenwich: 11 to 18 December 2026, 4.30pm to 7pm.** The museum at 12 Crooms Hill opens late on five evenings with its rooms lit by candles and classical festive music playing; a mulled wine, cider or juice in the Orangery comes with the ticket. Tickets are **£10** and must be [booked in advance](https://www.thefanmuseum.org.uk/events/museum-by-candlelight): none are sold on the door. The rest of the day is in our [Greenwich guide](/articles/greenwich-area-guide/).
+
+**Barbican Conservatory plant adoption: Wednesday 2 December 2026.** The Barbican is giving away plants from its Conservatory at its final adoption event. It is free, one ticket per person, allocated by a ballot on the [Barbican's plant adoption page](https://www.barbican.org.uk/whats-on/event/conservatory-plant-adoption) that closes on **Thursday 19 November**; winners have 48 hours to claim a ticket and there are no walk-ins. The Conservatory itself is open on listed dates from 13 November to 3 January, free but ticketed; see our [Barbican guide](/articles/barbican-centre-guide/).
+
+---
 
 ## Afternoon tea at Christmas
 
@@ -307,7 +324,14 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 
 **TfL runs no services at all on Christmas Day** — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. Black cabs, private hire, Santander Cycles and rental e-scooters are the only options moving. **Boxing Day is reduced, not closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) nearer the date for the exact 2026 detail.
 
-**National Rail has its own Christmas 2026 closures.** London Paddington is closed to Great Western trains until Monday 4 January, with no Elizabeth line or Heathrow Express trains to or from Heathrow from Sunday 27 to Wednesday 30 December, and the Great Eastern Main Line is closed for 10 days from Christmas Day, with no Greater Anglia or Elizabeth line trains through Forest Gate until the early hours of 4 January ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)). Our [December guide](/articles/things-to-do-in-london-in-december/) has the detail.
+**National Rail has its own closures around Christmas 2026**, and no trains run in England on Christmas Day itself ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)):
+
+- **Saturday 28 and Sunday 29 November:** Dolphin Junction work means no Elizabeth line or Heathrow Express trains run to or from Heathrow, and the Piccadilly line is the only train service between central London and the airport. Great Western trains do not run to Paddington, and the Bristol and South Wales trains run to Euston instead.
+- **Sunday 27 December to Sunday 3 January 2027:** Great Western trains cannot reach Paddington, and long-distance services start and finish at Reading or divert to Euston. The Elizabeth line and Heathrow Express do not run to or from Heathrow until Wednesday 30 December, and resume on New Year's Eve.
+- **From Christmas Day to the early hours of Monday 4 January:** the Great Eastern Main Line is closed at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area, on the route into Liverpool Street.
+- **From Sunday 20 December to the early hours of Monday 4 January:** buses replace trains from Reigate and from Earlswood to Purley on the Brighton Main Line; Brighton and Gatwick Airport services still run.
+
+Our [December guide](/articles/things-to-do-in-london-in-december/) has the detail.
 
 **Deciding whether December is worth it against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets its weather, crowds and cost against every other month.
 

@@ -18,7 +18,7 @@ tags: [christmas, winter, Christmas markets, markets, free things to do, things 
 draft: false
 faq:
   - q: "When do London's Christmas markets open in 2026?"
-    a: "Leicester Square opened first, on Saturday 31 October 2026, and runs to 3 January 2027 alongside its ice rink. The Southbank Centre Winter Market opens on Monday 2 November and also runs to 3 January. Winter by the River at London Bridge City opens on Tuesday 10 November, and Kingston on Thursday 12 November, both to 3 January. Borough Market opens seven days a week from Monday 30 November. Trafalgar Square's market opens in November and trades into early January."
+    a: "Leicester Square opened first, on Saturday 31 October 2026, and runs to 3 January 2027 alongside its ice rink. The Southbank Centre Winter Market opens on Monday 2 November and also runs to 3 January. Winter by the River at London Bridge City opens on Tuesday 10 November, and Kingston on Thursday 12 November, both to 3 January. Hyde Park Winter Wonderland opens on Thursday 19 November, Christmas Under the Canopy at King's Cross on 20 November, and the King's Cross Winter Market on Thursday 26 November. Borough Market opens seven days a week from Monday 30 November. Trafalgar Square's market opens in November and trades into early January."
   - q: "Are London's Christmas markets free?"
     a: "Nearly all of them. Southbank, Trafalgar Square, Leicester Square, Covent Garden, Borough, Kingston, Greenwich and Crafty Fox at the British Library cost nothing to walk into. The exceptions are Hyde Park Winter Wonderland, where everyone needs a timed entry ticket from £1 even to reach its market, the Chelsea Physic Garden Christmas Fair, £8 in advance or £10 on the door, and the indoor fairs at Olympia and the Business Design Centre, which start at £16."
   - q: "Which London Christmas markets are close enough to do in one evening?"
@@ -33,7 +33,7 @@ faq:
 
 London's Christmas markets come in three kinds: the chalet markets that go up for six weeks in November, the year-round markets that dress up for December, and one-weekend maker fairs where the stallholders made what they sell. Most cost nothing to walk into.
 
-> 💡 **The Short Version:** **Kingston** runs **12 November 2026 to 3 January 2027**, free, in the Ancient Market Place. In central London, **Leicester Square** puts its chalets round an ice rink from **31 October to 3 January**; the **Southbank Centre Winter Market**, from **2 November**, is the food one, beside the river and **cash-free**; **Winter by the River** at London Bridge City opens on **10 November**; **Trafalgar Square** has the Norway spruce, lit on **3 December**. **Borough Market** opens seven days a week from **30 November** and closes **25 to 27 December**. For handmade gifts, **Crafty Fox** has four 2026 dates, from the British Library on **14–15 November** to King's Cross on **12–13 December**. **Winter Wonderland's** market needs an entry ticket; nothing else here does, apart from the ticketed fairs.
+> 💡 **The Short Version:** **Go to the Southbank Centre Winter Market for food** (from **2 November**, beside the river, **cash-free**), or **Leicester Square for chalets round an ice rink** (open since **31 October**). Both run to 3 January. **For the biggest, Hyde Park Winter Wonderland** opens **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City opens **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross opens **20 November**, and **Crafty Fox** has dates from the British Library on **14–15 November** to King's Cross on **12–13 December**.
 
 > 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
@@ -51,6 +51,8 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 | **Winter by the River** | London Bridge City, SE1 | 10 Nov 2026 – 3 Jan 2027 | Free; curling is paid | Closed Christmas Day; 5pm close on Christmas Eve |
 | **Winter Wonderland market** | Hyde Park, W2 | 19 Nov 2026 – 3 Jan 2027 | Entry ticket from £1 | Everyone needs a timed ticket, even just for the market |
 | **King's Cross Winter Market** | Granary Square, N1C | 26 Nov 2026 – 3 Jan 2027 | Free | New for 2026; closed 25 and 26 Dec and 1 Jan |
+| **Christmas Under the Canopy** | West Handyside Canopy, N1C | 20 Nov – 23 Dec 2026 | Free | Closed Mondays, except Monday 21 Dec (noon–7pm) |
+| **Old Spitalfields Market** | 16 Horner Square, E1 | Lights on 11 Nov 2026 | Free | Switch-on party is 4pm to 7.30pm, with the lights at 6pm |
 | **Kingston** | Ancient Market Place, KT1 | 12 Nov 2026 – 3 Jan 2027 | Free | Stalls shut at 6pm Sunday to Wednesday |
 | **Greenwich Market** | Greenwich, SE10 | Daily, all year | Free | Closes at 5.30pm; the street food market next door runs Friday to Sunday to 29 Nov |
 | **Wimbledon** | The Piazza, SW19 | Winterfest 28–29 Nov 2026 | Free | Winterfest has ice skating and Santa's Grotto at Wimbledon Quarter |
@@ -68,7 +70,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 **The food-led one, on the river under Hungerford Bridge, between the London Eye and Waterloo Bridge.** Alpine-style chalets line the Queen's Walk with bars, street food and independent craft traders under strings of lights. The 2026 hot-food stalls include Bang Bang Burger, Lil Watan's Lebanese grills, NUGS fried chicken, Venezuelan arepas from Pabellon, The Duck Shed, The Sausage and Yorkshire Burrito, with churros from The Churros Chalet and crumbles from Crumbled London.
 
-- **Dates:** **Monday 2 November 2026 to Sunday 3 January 2027**.
+- **Dates:** **Monday 2 November 2026 to Sunday 3 January 2027** ([Southbank Centre](https://www.southbankcentre.co.uk/whats-on/winter-market)).
 - **Hours:** stalls **11am–10pm**, bars **11am–11pm**.
 - **Price:** free to walk through.
 - **Getting there:** Waterloo is about five minutes; from Embankment, cross the Golden Jubilee footbridge.
@@ -92,7 +94,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 **Chalets in the gardens around a circular ice rink**, run by Underbelly as Skate Leicester Square. The market is free; the rink is ticketed.
 
-- **Dates:** **31 October 2026 to 3 January 2027**, the same run as the rink, open every day except Christmas Day.
+- **Dates:** **31 October 2026 to 3 January 2027** ([Leicester Square](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november)), the same run as the rink, open every day except Christmas Day.
 - **Rink hours:** until 26 November, noon to 10pm Monday to Friday and 10am to 10pm at weekends; from 27 November, 10am to 10pm daily. The last session is 9.15pm. On Christmas Eve it closes at 6pm, on Boxing Day and New Year's Day it opens at noon.
 - **Getting there:** Leicester Square station is a minute's walk; Piccadilly Circus about four.
 
@@ -138,7 +140,7 @@ Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked a
 
 **Boutique market stalls along the Thames at London Bridge City**, with gifts, crafts and food, two pop-up bars and a glass-walled curling venue on the pier. The Clubhouse is a two-storey bar with an enclosed, heated rooftop canopy and a balcony over the river. Swift Stone Curling has six lanes, up to eight players a lane and 50-minute sessions.
 
-- **Dates:** **Tuesday 10 November 2026 to Sunday 3 January 2027**, **11am–10pm** daily; Christmas Eve 11am–5pm, closed Christmas Day, New Year's Eve 11am–9pm.
+- **Dates:** **Tuesday 10 November 2026 to Sunday 3 January 2027** ([London Bridge City](https://www.londonbridgecity.co.uk/events/2026/november/winter-by-the-river-2026)), **11am–10pm** daily; Christmas Eve 11am–5pm, closed Christmas Day, New Year's Eve 11am–9pm.
 - **Price:** free to walk through; curling is paid.
 - **Getting there:** London Bridge station, about five minutes.
 
@@ -146,10 +148,28 @@ Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked a
 
 **A new free market in Granary Square for 2026**, with independent food, drink and makers' stalls, seasonal bars and a winter bandstand. It is part of Christmas at King's Cross, with Aardman's Cracking Christmas Tree and the bookable Remixed Roller Rink, which runs 26 November to 22 December.
 
-- **Dates:** **Thursday 26 November 2026 to Sunday 3 January 2027**.
-- **Hours:** until 23 December, Sunday to Thursday **11am–10pm** and Friday and Saturday **11am–11pm**; Christmas Eve 11am–7pm; closed 25 and 26 December and 1 January.
+- **Dates:** **Thursday 26 November 2026 to Sunday 3 January 2027** ([King's Cross](https://www.kingscross.co.uk/event/kings-cross-winter-market)).
+- **Hours:** until 23 December, Sunday to Thursday **11am–10pm** and Friday and Saturday **11am–11pm**; Christmas Eve 11am–7pm; closed 25 and 26 December; 27 and 28 December 11am–7pm; 29 and 30 December 11am–10pm; New Year's Eve 11am–5pm; closed 1 January.
 - **Price:** free to enter.
-- **Getting there:** King's Cross St Pancras is a short walk. The Crafty Fox and Canopy Market dates below combine with it, and our [King's Cross area guide](/articles/kings-cross-area-guide/) has the rest.
+- **What to do:** eat first. It has three bars, street food and live music, and is the one to pick for an evening.
+- **Getting there:** King's Cross St Pancras is a short walk. Our [King's Cross area guide](/articles/kings-cross-area-guide/) has the rest.
+
+**Six more markets share the neighbourhood**, all free to enter ([the full list](https://www.kingscross.co.uk/christmas/markets)):
+
+- **[Christmas Under the Canopy](https://www.kingscross.co.uk/event/canopy-christmas-market):** 50-plus independent makers, artists and designers under the West Handyside Canopy, with live music and masala chai or mulled wine. **20 November to 23 December 2026**: Tuesday and Wednesday noon–7pm, Thursday and Friday noon–8pm, Saturday and Sunday 11am–6pm. Closed Mondays, except Monday 21 December.
+- **[Lower Stable Street Christmas Market](https://www.kingscross.co.uk/event/lower-stable-street-christmas-market):** sustainable gifts from a B Corp certified market, on **26–29 November and 10–13 December**.
+- **[Mexican Christmas Market](https://www.kingscross.co.uk/event/mexican-christmas-market):** tamales, churros and Mexican hot chocolate in Coal Drops Yard, **Friday 27 to Sunday 29 November, 11am–7pm**.
+- **[Shotengai Christmas Market](https://www.kingscross.co.uk/event/shotengai-christmas-market):** Lower Stable Street, **3–6 and 17–20 December**: Thursday and Friday noon–7pm, Saturday and Sunday 11am–6pm.
+- **[Illustrators' Festive Fair](https://www.kingscross.co.uk/event/illustrators-festive-fair):** **Saturday 5 December, 11am–5pm**, at The Crossing in Granary Square.
+- **Crafty Fox:** **6, 12 and 13 December**; the details are under maker fairs below.
+
+### Old Spitalfields Market
+
+**A covered market in Spitalfields with a Christmas market inside it, lit at a free switch-on party on Wednesday 11 November 2026.** The [party](https://oldspitalfieldsmarket.com/events/christmas-2026-light-switch-on) runs from 4pm to 7.30pm, with music from 4pm, a gospel choir from 5.30pm, face painting and craft activities for children, mulled wine and street food, and the lights go on at 6pm. The Christmas Market and shops are open throughout.
+
+- **Hours:** Monday, Tuesday, Wednesday and Friday **10am–8pm**, Thursday **8am–6pm**, Saturday **10am–6pm**, Sunday **10am–5pm**.
+- **Price:** free.
+- **Getting there:** Liverpool Street is about five minutes; the [best London markets](/articles/best-london-markets/) guide has the stalls and the Brick Lane walk.
 
 ### Hyde Park Winter Wonderland
 
@@ -177,7 +197,7 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 **Wooden stalls** in the pedestrianised Ancient Market Place in Kingston upon Thames, a bar and live-music stage, and a carousel. There are food stalls and gift stalls.
 
-- **Dates:** **Thursday 12 November 2026 to Sunday 3 January 2027**, closed Christmas Day.
+- **Dates:** **Thursday 12 November 2026 to Sunday 3 January 2027** ([Kingston Christmas Market](https://www.kingstonchristmasmarket.co.uk/)), closed Christmas Day.
 - **Stalls:** Sunday to Wednesday **10am–6pm**, Thursday to Saturday **10am–8pm**; 10am–6pm on Christmas Eve and Boxing Day.
 - **Bar, food and stage:** Monday to Wednesday **10am–9pm**, Thursday to Saturday **10am–10pm**, Sunday, Christmas Eve and Boxing Day **10am–8pm**.
 - **Price:** free; the carousel and rides are ticketed.
@@ -234,7 +254,7 @@ More in the [Battersea area guide](/articles/battersea-area-guide/).
 - **RSA House**, 8 John Adam Street, just off the Strand: **Saturday 5 December 2026**, 11am–5pm, in the Georgian Great Room, with food, drink and workshops.
 - **King's Cross**, The Crossing, Granary Square: **Sunday 6 December 2026**, 11am–5pm, with 110 makers, and again on **Saturday 12 and Sunday 13 December**, 11am–5pm.
 
-**The King's Cross dates combine with Canopy Market**, the covered weekend food and makers' market two minutes away under the West Handyside Canopy. More in our [King's Cross area guide](/articles/kings-cross-area-guide/).
+**The King's Cross dates combine with Christmas Under the Canopy**, which is open on all three days under the West Handyside Canopy. More in our [King's Cross area guide](/articles/kings-cross-area-guide/).
 
 ### Chelsea Physic Garden Christmas Fair
 
