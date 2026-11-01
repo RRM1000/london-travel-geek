@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Reg
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0/
 publishedAt: 2026-09-26
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-05
 sites: [london]
 canonicalSite: london
@@ -83,7 +83,7 @@ It is **about 5km, 70 minutes of walking**, and two to two and a half hours with
 
 Start outside **Selfridges** and walk east.
 
-**This is Oxford Street's first Christmas without traffic.** From **Monday 26 October 2026** no cars, buses, bicycles, scooters, taxis or pedicabs are allowed from Orchard Street, by Selfridges, to Great Portland Street, and the change is permanent.
+**This is Oxford Street's first Christmas without traffic.** From **Monday 26 October 2026** no cars, buses, bicycles, scooters, taxis or pedicabs are allowed from Orchard Street, by Selfridges, to Great Portland Street, and the change is permanent. Our [Oxford Street guide](/articles/oxford-street-guide/) has the bus changes, the shops and the streets off it.
 
 **Oxford Street has not published its 2026 switch-on date.** Its 2026 Christmas is a Harry Potter tie-in with HBO Max: displays of the Hogwarts houses hang over the street, and a Harry Potter Christmas tree with a snow show every hour on the hour stands in Hanover Square, a short detour away. In 2025 the scheme was **Sky Full of Stars**, white stars strung the length of the street, lit from **Monday 3 November**. The lights stay up until early January.
 
@@ -248,7 +248,7 @@ A 4.30pm start at Selfridges in December puts you at Covent Garden at about 6.30
 
 ## Rather ride?
 
-An open-top bus tour covers Oxford Street, Regent Street and the West End with commentary. It will not go down Carnaby, Seven Dials or St James's Market, which are pedestrian. To carry on after the walk, The Classic Tour's <a href="https://www.getyourguide.com/activity/-t1236950?partner_id=WWP7I0R&amp;cmp=christmas-lights-walk-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Vintage Open-Top Bus Night Tour</a> leaves from Northumberland Avenue, just off Trafalgar Square where the walk ends: 75 minutes on a 1960s Routemaster past floodlit Parliament, the London Eye, St Paul's and the Tower, with a live guide, from £25 on GetYourGuide and rated 4.6 from 860 reviews.
+An open-top bus tour covers Regent Street and the West End with commentary. It cannot use the traffic-free stretch of Oxford Street, and will not go down Carnaby, Seven Dials or St James's Market, which are pedestrian. To carry on after the walk, The Classic Tour's <a href="https://www.getyourguide.com/activity/-t1236950?partner_id=WWP7I0R&amp;cmp=christmas-lights-walk-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Vintage Open-Top Bus Night Tour</a> leaves from Northumberland Avenue, just off Trafalgar Square where the walk ends: 75 minutes on a 1960s Routemaster past floodlit Parliament, the London Eye, St Paul's and the Tower, with a live guide, from £25 on GetYourGuide and rated 4.6 from 860 reviews.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="129039" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -271,6 +271,7 @@ The route is flat, on pavements and pedestrian streets throughout, with a stretc
 
 ## What to do with the rest of the day
 
+- **[Oxford Street](/articles/oxford-street-guide/)** — the closure, the shops and where to eat before or after the walk.
 - **[Christmas in London](/articles/christmas-in-london/)** — the markets, ice rinks and ticketed light trails, and every other street display.
 - **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)** — its Red and Gold gates are nearest Marble Arch, where this walk starts. Entry needs a timed ticket.
 - **[Christmas shows in London](/articles/christmas-shows-london/)** — the West End is all around the second half of this walk.

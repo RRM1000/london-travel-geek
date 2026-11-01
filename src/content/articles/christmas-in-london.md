@@ -3,7 +3,7 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-01
 sites:
   - london
@@ -122,13 +122,13 @@ Oxford Street, Regent Street and Knightsbridge carry the best lights and the mos
 
 ### The cheap way: on foot
 
-**Oxford Street between Orchard Street and Great Portland Street has been closed to all traffic, buses included, since 26 October 2026**, so its lights are now a free walk of just under a kilometre, from Selfridges to Oxford Circus. Carry on down Regent Street and you have the two biggest displays for nothing.
+**Oxford Street between Orchard Street and Great Portland Street has been closed to all traffic, buses included, since 26 October 2026**, so its lights are a free walk of nearly a kilometre, from Selfridges past Oxford Circus to Great Portland Street. Carry on down Regent Street and you have the two biggest displays for nothing. Our [Oxford Street guide](/articles/oxford-street-guide/) covers the closure and the shops.
 
 <div data-stay-strip></div>
 
 ### The tour: a decorated vintage Routemaster
 
-**Christmas Bus Tour** runs an open-top 1960s Routemaster, decked out, with live commentary — **75 minutes**, departing from **8 Northumberland Avenue, WC2N 5BY**, beside Trafalgar Square. Typical departures are **4.10pm, 6.15pm and 7.45pm**, with more on busier dates. The route takes in Oxford Street, Regent Street, Knightsbridge and a pass by Winter Wonderland. **A top open-deck seat is guaranteed on every booking.**
+**Christmas Bus Tour** runs an open-top 1960s Routemaster, decked out, with live commentary — **75 minutes**, departing from **8 Northumberland Avenue, WC2N 5BY**, beside Trafalgar Square. Typical departures are **4.10pm, 6.15pm and 7.45pm**, with more on busier dates. The route takes in Regent Street, Knightsbridge and a pass by Winter Wonderland. **A top open-deck seat is guaranteed on every booking.**
 
 **All ages, and under-5s go free** on an adult's lap with no ticket needed.
 

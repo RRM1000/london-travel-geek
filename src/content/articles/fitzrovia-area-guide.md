@@ -3,7 +3,7 @@ title: "Fitzrovia Area Guide: Charlotte Street, the BT Tower and the Restaurants
 seoTitle: "Fitzrovia Guide: Charlotte Street, Restaurants & Sights"
 description: "A complete Fitzrovia guide: Charlotte Street and Goodge Street, the Georgian squares, the pubs Orwell and Dylan Thomas drank in, and where to eat."
 publishedAt: 2026-08-19
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-19
 sites:
   - london
@@ -81,7 +81,7 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 
 Fitzrovia has no headline sight. People come for dinner: Charlotte Street and Goodge Street hold restaurants of a dozen cuisines, and unlike Soho you can usually get a table.
 
-The area is a rough square between [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three) and Euston Road, crossed constantly by people going somewhere else. Above street level it is Georgian terraces and the BT Tower.
+The area is a rough square between [Oxford Street](/articles/oxford-street-guide/) and Euston Road, crossed constantly by people going somewhere else. Above street level it is Georgian terraces and the BT Tower.
 
 Fitzrovia has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=fitzrovia).
 
@@ -145,7 +145,7 @@ Quiet, almost entirely residential Georgian streets between the square and Eusto
 
 The southern edge, running down to Oxford Street, **where the newer openings land**. It is a working stretch of offices, hotels and restaurants that change faster than elsewhere in Fitzrovia.
 
-**Tottenham Court Road station is at the bottom**, the fastest approach from the Elizabeth line.
+**Tottenham Court Road station is at the bottom**, the fastest approach from the Elizabeth line. The Harry Potter Shop is at 134-140 Oxford Street; our [Oxford Street guide](/articles/oxford-street-guide/) has the details.
 
 ### Great Titchfield Street
 The western side, running towards Great Portland Street, **the coffee end of the neighbourhood**, including Kaffeine. Small independent shops fill the rest, and the rag-trade wholesalers that once occupied the whole street still hold some of it.

@@ -3,7 +3,7 @@ title: "Mayfair Area Guide: The Arcades, Bond Street and the Royal Academy"
 seoTitle: "Mayfair Guide: Bond Street, Arcades & Free Galleries"
 description: "A complete Mayfair guide: the Victorian shopping arcades, the Royal Academy, Handel and Hendrix next door to each other, and the free things worth doing."
 publishedAt: 2026-08-20
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 sites:
   - london
 canonicalSite: london
@@ -71,7 +71,7 @@ heroImage: "../../assets/articles/mayfair-area-guide/regent-street-quadrant.jpg"
 heroImageAlt: "The curving Regent Street Quadrant with a black cab passing the Hotel Cafe Royal"
 ---
 
-Mayfair is a Georgian grid laid out from the 1720s between [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three), Regent Street, Piccadilly and Park Lane.
+Mayfair is a Georgian grid laid out from the 1720s between [Oxford Street](/articles/oxford-street-guide/), Regent Street, Piccadilly and Park Lane.
 
 The Victorian arcades are public passages, the Royal Academy's courtyard is free, and the dozens of commercial art galleries on and around Cork Street let anyone walk in.
 
@@ -168,7 +168,7 @@ Bar des Prés on South Audley Street, the French chef Cyril Lignac's French-Japa
 
 ## Getting there
 
-**By Tube.** **Green Park** (Piccadilly, Victoria, Jubilee) is best for the arcades and the Royal Academy. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the north. Oxford Circus serves the north-east corner.
+**By Tube.** **Green Park** (Piccadilly, Victoria, Jubilee) is best for the arcades and the Royal Academy. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the north. Oxford Circus serves the north-east corner. Oxford Street, on the north edge, has been traffic-free since 26 October 2026 between Orchard Street and Great Portland Street; see our [Oxford Street guide](/articles/oxford-street-guide/).
 
 **Best exit.** From Green Park, take the **Piccadilly North** exit and Burlington Arcade is four minutes east along Piccadilly.
 

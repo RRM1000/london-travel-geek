@@ -44,7 +44,7 @@ The windowless part is the surprise, and it is why the West End is cheaper than 
 
 **Covent Garden and the Strand** is tourist-heavy by day and considerably calmer than Soho by night, because the crowds are theatre crowds and they go home. This is where the mid-priced rooms are, and where you should look if you have children.
 
-**Fitzrovia**, north of Oxford Street, is where to look for a conventional room. Charlotte Street has the densest run of restaurants in central London, it is a five-minute walk to Soho Square, and the buildings are big enough to hold ordinary hotels with ordinary windows.
+**Fitzrovia**, north of Oxford Street, is where to look for a conventional room. Charlotte Street has the densest run of restaurants in central London, it is a five-minute walk to Soho Square, and the buildings are big enough to hold ordinary hotels with ordinary windows. Oxford Street's shops and traffic-free stretch are in our [Oxford Street guide](/articles/oxford-street-guide/).
 
 **There is no station called the West End**, and the one you want is **Tottenham Court Road**: Elizabeth line, Central and Northern, Heathrow without a change. Covent Garden station is the trap. It runs on lifts and a spiral staircase, not escalators, and at a weekend Leicester Square, four minutes' walk away, will be quicker in both directions.
 

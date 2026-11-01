@@ -3,7 +3,7 @@ title: "The Harry Potter Studio Tour: Tickets, Extras and How to Get There"
 seoTitle: "Harry Potter Studio Tour London: Prices and Travel"
 description: "Warner Bros. Studio Tour London costs £58.50 for 2026 dates and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
 publishedAt: 2026-09-20
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2026-11-09
 sites: [london]
 canonicalSite: london
@@ -235,6 +235,7 @@ Every car needs a booking confirmation to get in, and **you cannot go back to th
 
 - ⚡ **[Harry Potter in London](/articles/harry-potter-london/)** — the filming locations, the shops, Cursed Child and what to skip.
 - 🚶 **[The Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/)** — the London streets the films used, from the Leaky Cauldron door to Gringotts, in walking order.
+- 🛍️ **[Oxford Street](/articles/oxford-street-guide/)** — the new Harry Potter Shop at 134-140 Oxford Street, which needs no tour ticket, and the rest of the street.
 - 🎬 **[London filming locations](/articles/london-filming-locations/)** — Harry Potter, Bond, Paddington and more.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless capping works on days like this one.
 - 👨‍👩‍👧 **[London with kids](/articles/london-with-children/)** — free farms, zoos and family days out.

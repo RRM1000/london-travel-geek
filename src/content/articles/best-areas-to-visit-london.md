@@ -3,7 +3,7 @@ title: "Best Areas to Visit in London: Which Neighbourhood for Which Trip"
 seoTitle: "Best Areas to Visit in London: Neighbourhoods Compared"
 description: "Which part of London to visit: each neighbourhood compared by what it is best for, time needed, nearest station and the best day to go."
 publishedAt: 2026-08-13
-updatedAt: 2026-10-18
+updatedAt: 2026-10-31
 reviewBy: 2026-11-03
 sites:
   - london
@@ -329,6 +329,7 @@ Read the [Richmond area guide](/articles/richmond-area-guide/).
 
 - **[Chelsea](/articles/chelsea-area-guide/):** the Physic Garden, Cheyne Walk and the pastel streets off the King's Road. Walk it with [Belgravia](/articles/belgravia-area-guide/) on the [blue plaque route](/articles/chelsea-belgravia-plaques-walk/).
 - **[Fitzrovia](/articles/fitzrovia-area-guide/):** Charlotte Street's restaurants, a short walk from the British Museum.
+- **[Oxford Street](/articles/oxford-street-guide/):** a shopping street rather than a neighbourhood, traffic-free from Orchard Street to Great Portland Street since 26 October 2026, with St Christopher's Place, South Molton Street and Carnaby Street a turn off it.
 - **[Islington](/articles/islington-area-guide/):** Upper Street's restaurants, the Almeida Theatre, Union Chapel and the Camden Passage antiques market on Wednesdays and Saturdays.
 - **[Peckham](/articles/peckham-area-guide/):** Rye Lane's grocers and market stalls, with rooftop bars above a car park.
 - **[Canary Wharf](/articles/canary-wharf-area-guide/):** a free roof garden on top of the Elizabeth line station and the free London Museum Docklands.

@@ -3,7 +3,7 @@ title: "Marylebone Area Guide: The High Street, the Wallace Collection and Baker
 seoTitle: "Marylebone Guide: High Street & Wallace Collection"
 description: "A complete Marylebone guide: the village high street, the free Wallace Collection, Daunt Books, the Sherlock Holmes museum and Regent's Park on the doorstep."
 publishedAt: 2026-08-20
-updatedAt: 2026-10-26
+updatedAt: 2026-10-31
 reviewBy: 2027-01-26
 sites:
   - london
@@ -74,7 +74,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 ---
 
-Marylebone runs parallel to [Oxford Street](/articles/shopping-in-london/#oxford-street-and-the-big-three) about four minutes north: low-rise Georgian, largely independent, and quiet. It holds a free museum of Old Masters and armour, and backs directly onto Regent's Park.
+Marylebone runs parallel to [Oxford Street](/articles/oxford-street-guide/) about four minutes north: low-rise Georgian, largely independent, and quiet. It holds a free museum of Old Masters and armour, and backs directly onto Regent's Park.
 
 Marylebone has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=marylebone).
 
@@ -170,7 +170,7 @@ Opso and Kima face each other on Paddington Street, Taverna Ermou is on James St
 
 **By Tube.** **Baker Street** (five lines) is best for the north end and Regent's Park. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the south end, four minutes' walk from the high street.
 
-**Best exit.** From Bond Street, take the **Marylebone Lane** exit and walk north: it drops you into the village, not onto Oxford Street.
+**Best exit.** From Bond Street, take the **Marylebone Lane** exit and walk north: it drops you into the village, not onto Oxford Street. For the shops and the traffic-free stretch on the other side, see our [Oxford Street guide](/articles/oxford-street-guide/).
 
 **On foot.** Ten minutes to Regent's Park, twelve to Mayfair, twenty to Soho.
 
