@@ -14,20 +14,20 @@ heroImage: "../../assets/articles/best-fish-and-chips-london/fish-and-chips-plat
 heroImageAlt: "A plate of battered fish with thick hand-cut chips and a side salad at a Greenwich chip shop"
 faq:
   - q: "Where is the best fish and chips in London?"
-    a: "Poppies is named by more independent sources than any other chippy — eight. The Fryer's Delight, The Golden Hind and Fish Central are next on seven each, and The Fryer's Delight is the one that still fries in beef dripping. If you want the award answer instead, Brockley's Rock and Stones in Acton are the only two London shops on the National Fish and Chip Awards 2026 shortlist."
+    a: "Poppies is named by more independent sources than any other chippy — eight. The Fryer's Delight and The Golden Hind are next on seven each, and The Fryer's Delight is the one that still fries in beef dripping. If you want the award answer instead, Brockley's Rock and Stones in Acton were the only two London shops on the National Fish and Chip Awards 2026 shortlist, and Brockley's Rock reached the final ten. The title went to The Scrap Box in York on 25 February 2026."
   - q: "How much should fish and chips cost in London?"
     a: "Around £10–£14 at a neighbourhood chippy and £16–£22 at a central sit-down one. Anything under a tenner means a takeaway counter, which is not a worse meal — Michael's Fish Bar in Leytonstone is cash-only, has no seating, and is Time Out's number one."
   - q: "Which London chippy is best for vegans?"
     a: "Sutton & Sons in Hackney runs an entirely vegan chip shop alongside its traditional ones, using banana blossom in place of cod. The Mayfair Chippy also keeps vegan options on the main menu."
   - q: "Is there an award for the best fish and chips?"
-    a: "The National Fish and Chip Awards, run by the National Federation of Fish Friers. Its Takeaway of the Year category cuts a forty-shop shortlist to ten finalists, and the winner is announced each February. Two of the forty shops on the 2026 shortlist are in London."
+    a: "The National Fish and Chip Awards, run by the National Federation of Fish Friers. Its Takeaway of the Year category cuts a forty-shop shortlist to ten finalists, and the winner is announced each February. The 2026 title went to The Scrap Box in York on 25 February 2026. Two of the forty shops on the shortlist were in London, and Brockley's Rock was one of the final ten."
   - q: "What is matzo-fried fish?"
     a: "Fish coated in matzo meal instead of batter — a Jewish north London tradition. Nautilus in West Hampstead is the place to try it, and the crust is lighter and crisper than batter."
 ---
 
 Every shop below is placed by how many independent awards, critics and reviewers name it. Two things came out of the numbers: **the most-cited chippy in London does not appear on Time Out's list at all**, and **the two shops with an actual award are not the two everybody writes about**.
 
-> 💡 **The Short Version:** **Poppies** is the most-cited chippy in London. **The Fryer's Delight** is the one that still fries in beef dripping. **Brockley's Rock** and **Stones** are the only London shops on the 2026 award shortlist. **Michael's Fish Bar** is Time Out's number one and costs half what the centre does. **Nautilus** fries in matzo meal. And **Masters Superfish** near Waterloo is the biggest portion for the money.
+> 💡 **The Short Version:** **Poppies** is the most-cited chippy in London. **The Fryer's Delight** is the one that still fries in beef dripping. **Brockley's Rock** and **Stones** were the only London shops on the 2026 award shortlist, and Brockley's Rock reached the final ten. **Michael's Fish Bar** is Time Out's number one and costs half what the centre does. **Nautilus** fries in matzo meal. And **Masters Superfish** near Waterloo is the biggest portion for the money.
 
 > 📊 **The evidence behind this guide.**
 > **13 sources carrying 137 citations** across **58 named chippies**. **24 are named by two or more independent sources; 2 carry a dated award.**
@@ -55,7 +55,7 @@ Every shop below is placed by how many independent awards, critics and reviewers
 | **Soho & Covent Garden** | Golden Union, Rock & Sole Plaice |
 | **Mayfair** | The Mayfair Chippy |
 | **Waterloo & South Bank** | Masters Superfish, Fishcotheque |
-| **Shoreditch & Spitalfields** | Poppies, Shoreditch Fish and Chips, Fish Central |
+| **Shoreditch & Spitalfields** | Poppies, Shoreditch Fish and Chips |
 | **Hackney & Dalston** | Sutton & Sons, Faulkners |
 | **North London** | Nautilus (West Hampstead), Toff's (Muswell Hill), Mickey's Chippy (Stoke Newington) |
 | **South London** | Ken's Fish Bar (Herne Hill), Fish Lounge (Clapham), Brockley's Rock (Brockley) |
@@ -69,13 +69,13 @@ Every shop below is placed by how many independent awards, critics and reviewers
 
 ## The two with an award
 
-The **National Fish and Chip Awards**, run by the National Federation of Fish Friers, is the only national award for the category. Its Takeaway of the Year category runs a forty-shop shortlist down to twenty, then ten, then a winner announced each February. Two of the forty shops on the 2026 shortlist are in London, and one of them made the final ten.
+The **National Fish and Chip Awards**, run by the National Federation of Fish Friers, is the only national award for the category. Its Takeaway of the Year category runs a forty-shop shortlist down to twenty, then ten, then a winner announced each February. Two of the forty shops on the 2026 shortlist were in London, and one of them made the final ten. The Scrap Box in York took the title at the ceremony on 25 February 2026.
 
 ### Brockley's Rock, Brockley
 
 *££ · Brockley Road, SE4 · Cited by 4 sources · National Fish and Chip Awards 2026 shortlist*
 
-**The only London chippy in the UK top ten.** The National Federation of Fish Friers named its ten Takeaway of the Year finalists in November 2025 and Brockley's Rock is the single London entry, against three from Yorkshire and two from Scotland.
+**The only London chippy in the UK top ten.** The National Federation of Fish Friers named its ten Takeaway of the Year finalists in November 2025 and Brockley's Rock was the single London entry, against three from Yorkshire and two from Scotland. It did not win the title.
 
 On Brockley Road since 2011, on the site of a run-down Chinese takeaway. MSC-certified cod and a homemade tartare sauce it is known locally for. The award judges also weigh the schools, raffles and food banks it supports.
 
@@ -132,16 +132,6 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus **jellied eels
 Cod and haddock in a light batter, and **grilled fish for anyone who does not want it fried**, which most chippies will not do. Hand-cut chips, mushy peas, and homemade fishcakes that regulars order instead of the fillet.
 
 **££, walk-in, and BYO**: no licence, so bring a bottle. A sit-down room rather than a counter, and quieter at lunch than dinner.
-
-### Fish Central, Clerkenwell
-
-*££ · Clerkenwell · 11 min from Old Street · Cited by 7 sources · #9, Time Out*
-
-**Half chippy, half sit-down fish restaurant**, on the edge of the Old Street roundabout.
-
-The fryer does cod, haddock and rock in a crisp batter with thick chips; the restaurant menu behind it runs to **grilled fish, scallops and oysters**. Seven independent sources name it, as many as the Fryer's Delight and the Golden Hind, second only to Poppies.
-
-**££, walk-in**, and large enough to take a group without booking. Order from the restaurant menu if you are sitting down.
 
 ### The Seashell of Lisson Grove, Marylebone
 
@@ -215,11 +205,10 @@ Time Out ranks eighteen London chippies, and its number one is **Michael's Fish 
 | **#6** | The Fryer's Delight, Bloomsbury | 7 sources |
 | **#7** | Ken's Fish Bar, Herne Hill | 4 sources |
 | **#8** | Sutton & Sons, Hackney | 5 sources |
-| **#9** | Fish Central, Clerkenwell | 7 sources |
 | **#10** | Mickey's Chippy, Stoke Newington | 3 sources |
 | **#11** | Faulkners, Dalston | 1 source |
 
-Where the two rankings line up (The Fryer's Delight, Fish Central, The Seashell) you can be fairly confident.
+Where the two rankings line up (The Fryer's Delight and The Seashell) you can be fairly confident.
 
 ---
 

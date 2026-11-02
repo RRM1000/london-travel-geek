@@ -138,7 +138,7 @@ The duck is roasted, carved, and the carcass crushed in a **silver duck press** 
 
 **Claude Bosi cooking on the roof of the Peninsula**, in a room themed on British motor racing and aviation, looking over Hyde Park Corner — with a **Concorde model suspended through the dining room**.
 
-Bosi holds two stars at Bibendum; the cooking here is French technique with British produce, in a tasting menu. The view is over Wellington Arch and the park.
+Bosi held two Michelin stars at Bibendum until it closed in 2025; the cooking here is French technique with British produce, in a tasting menu. The view is over Wellington Arch and the park.
 
 **Closed Sunday and Monday.** Ask for a window table when booking.
 

@@ -234,7 +234,7 @@ The original London Nobu, **co-founded by Nobu Matsuhisa with Robert De Niro**.
 
 Japanese-Peruvian-Brazilian cooking: **sushi and robata** alongside ceviche and churrasco skewers. Order across all of them.
 
-**££££ and it books weeks ahead.** Ask for a terrace table specifically. A second, ground-level site in Covent Garden has the food without the view.
+**££££ and it books weeks ahead.** Ask for a terrace table specifically. A second site on the Opera Terrace in Covent Garden runs along the east side of the market and looks over the piazza.
 
 ### Los Mochis, Notting Hill
 

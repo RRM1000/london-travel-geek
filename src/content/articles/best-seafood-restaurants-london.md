@@ -58,7 +58,7 @@ Seafood here comes three ways: shucked at an **oyster counter**, cooked whole ov
 | **The City & Moorgate** | Sweetings, Angler |
 | **Borough & Bermondsey** | Wright Brothers, Applebee's, Furness, Richard Haward's, Maltby Street |
 | **Southwark** | Seabird |
-| **Chelsea & Sloane Square** | The Sea, The Sea, Bibendum Oyster Bar |
+| **Chelsea & Sloane Square** | The Sea, The Sea |
 | **Hackney & Shoreditch** | Behind |
 | **Notting Hill & west** | Orasay, Faber, Sam's Riverside |
 | **North London** | Tollington's, London Shell Co |
@@ -207,7 +207,7 @@ West Mersea natives, **Dover sole at £31**, **fish pie at £13.50**, and a Blac
 
 > ⚠️ **Weekday lunch only, 11.30am to 3pm, and no reservations.** There is no dinner service.
 
-**More:** [sweetingsrestaurant.com](https://sweetingsrestaurant.com/) · 39 Queen Victoria Street, EC4N 4SF
+**More:** [sweetingsrestaurant.co.uk](http://www.sweetingsrestaurant.co.uk/) · 39 Queen Victoria Street, EC4N 4SF
 
 ### Manzi's, Soho
 
@@ -377,7 +377,6 @@ Everything else named by two or more independent sources, plus single-source pic
 | **Kima** | Marylebone | ££££ | 1 · Time Out #5 | Greek fin-to-gill cooking with a zero-waste policy; you may end up eating an entire gilt-head bream |
 | **Cometa** | Fitzrovia | £££ | 1 · Time Out #8 | Mexican seafood specifically — tostadas, ceviche, aguachile, and not a taco in sight |
 | **Rick Stein** | Barnes | £££ | 3 · Time Out #17 | The TV chef's only London site, on the Mortlake towpath; the Indonesian seafood curry is the order |
-| **Bibendum Oyster Bar** | South Kensington | £££ | 1 | Claude Bosi's French seafood bistro on the ground floor of Michelin House; platters and caviar |
 | **London Shell Co** | Highgate | £££ | 1 | The Paddington barge operation's permanent restaurant and fishmonger; the menu follows the landings |
 | **Mandarin Kitchen** | Bayswater | £££ | 1 | Whole lobster over ginger and spring onion noodles |
 | **Sea Garden & Grill** | Tooting | ££ | 1 · Time Out #18 | Small plates of seafood on Tooting Broadway Market |

@@ -427,6 +427,66 @@
       "stillRecommendedBy": [],
       "source": "https://www.thegazette.co.uk/notice/4964960",
       "recorded": "2026-10-28"
+    },
+    "krokodilos": {
+      "name": "Krokodilos",
+      "closed": "2026-03-29",
+      "detail": "Lancer Square, 28A Kensington Church Street W8 4EP. Greek, Wild Group. Final service 29 March 2026 ('spring break' notice on its own homepage); Restaurant magazine, 9 Oct 2026, reports Wild Group replacing it on the same site with a grill concept, Lucky Grill.",
+      "stillRecommendedBy": [
+        "Greek guides, The Infatuation, Hot Dinners"
+      ],
+      "source": "https://www.restaurantonline.co.uk/Article/2026/10/09/wild-group-to-replace-krokodilos-in-kensington-with-new-grill-concept/",
+      "recorded": "2026-11-02"
+    },
+    "ombra": {
+      "name": "Ombra",
+      "closed": "2026-06",
+      "detail": "Bethnal Green. Venetian cicchetti on the Regent's Canal. Closed June 2026 after 15 years (Hot Dinners closures ledger).",
+      "stillRecommendedBy": [
+        "Italian listicles"
+      ],
+      "source": "https://www.hot-dinners.com/202001319148/Gastroblog/Latest-news/recent-restaurant-closures-shut-london",
+      "recorded": "2026-11-02"
+    },
+    "zelman meats": {
+      "name": "Zelman Meats",
+      "closed": "2026",
+      "detail": "Knightsbridge. Goodman group steak counter. Listing data marks it permanently closed; Harvey Nichols' Knightsbridge restaurant page no longer lists it. No operator notice found.",
+      "stillRecommendedBy": [
+        "steak listicles"
+      ],
+      "source": "https://www.harveynichols.com/restaurants/knightsbridge",
+      "recorded": "2026-11-02"
+    },
+    "m restaurant": {
+      "name": "M Restaurant",
+      "closed": "2025-05",
+      "detail": "M Threadneedle Street, the last of the M steakhouses, closed May 2025 (Hot Dinners closures ledger; Victoria site closed 2023).",
+      "stillRecommendedBy": [
+        "steak listicles"
+      ],
+      "source": "https://www.hot-dinners.com/202001319148/Gastroblog/Latest-news/recent-restaurant-closures-shut-london",
+      "recorded": "2026-11-02"
+    },
+    "bibendum oyster bar": {
+      "name": "Bibendum Oyster Bar",
+      "closed": "2025-08-31",
+      "detail": "Michelin House, South Kensington. Claude Bosi closed Bibendum and the Oyster Bar on 31 August 2025 (Time Out, 27 Aug 2025); Bosi's own site lists no Bibendum venue.",
+      "stillRecommendedBy": [
+        "seafood listicles"
+      ],
+      "source": "https://www.timeout.com/london/news/bibendum-legendary-two-michelin-star-restaurant-in-chelsea-has-been-forced-to-close-082825",
+      "recorded": "2026-11-02"
+    },
+    "fish central": {
+      "name": "Fish Central",
+      "closed": "UNVERIFIED",
+      "detail": "149-155 Central Street, Clerkenwell EC1V 8AP. Google listing status CLOSED_TEMPORARILY when last pulled (17 Aug 2026). Its own site still prints hours and a 2026 lunch menu, so this may be a stale flag. Treated as closed under the house rule (a listing marking it closed, even temporarily); delete this entry if it is confirmed trading.",
+      "stillRecommendedBy": [
+        "Time Out, DesignMyNight, fish and chip blogs"
+      ],
+      "source": "data/enrichment.json businessStatus",
+      "recorded": "2026-11-02"
     }
   },
   "uncertain": {

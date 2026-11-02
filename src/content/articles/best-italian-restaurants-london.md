@@ -58,7 +58,7 @@ This guide starts with the restaurants the sources agree on, then splits the res
 | **Fitzrovia & Marylebone** | Norma, Circolo Popolare, Al Dente, The Italian Greyhound, Carlotta |
 | **Clerkenwell & the City** | Luca, Brutto, Eataly |
 | **Islington & north** | Trullo, Noci, Ciao Bella |
-| **Shoreditch & east** | Manteca, Gloria, Campania & Jones, Ombra, E. Pellicci |
+| **Shoreditch & east** | Manteca, Gloria, Campania & Jones, E. Pellicci |
 | **Borough & South Bank** | Padella, Flour and Grape, Legare, Forza Wine |
 | **West London** | River Café, Jacuzzi, Como Garden |
 | **South London** | Artusi (Peckham) |
@@ -378,7 +378,6 @@ Backed by the sources but not written up above, either because only two guides n
 | **Sette** | Knightsbridge | ££££ | 2 sources | Italian-American in the Bulgari hotel |
 | **Como Garden** | Kensington | £££ | 2 sources | Lake Como cooking under a retractable glass roof |
 | **Bar Italia** | Soho | £ | 2 sources | Frith Street since 1949, open almost around the clock, coffee rather than dinner |
-| **Ombra** | Bethnal Green | ££ | 2 sources | Venetian cooking on the Regent's Canal, cicchetti and short pastas |
 | **40 Dean Street** | Soho | ££ | 2 sources | An old-school Soho favourite, lobster ravioli |
 | **Bardo St James's** | St James's | £££ | 2 sources | Opulent room near the National Gallery, with live classical evenings |
 | **Casa Tua** | Camden | ££ | 2 sources | Small independent family kitchen; the carbonara is the one people go for |
