@@ -187,7 +187,7 @@ The palace has cafés inside the gate, and picnics are allowed on the lawns in H
 
 1. **Assuming the maze and gardens cost extra.** They're part of standard admission.
 2. **Turning up on a Monday or Tuesday in term time.** The palace is closed those two days outside school holidays; check the calendar before you travel.
-3. **Missing the last off-peak train back.** Hampton Court has no barriers, so forgetting to touch out means the maximum fare, not a fine.
+3. **Forgetting to touch out.** Hampton Court has no barriers, so skipping the reader charges the maximum fare.
 4. **Booking the ice rink and the palace as if they're the same ticket.** They aren't; you need both if you want to do both.
 
 ---

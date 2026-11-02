@@ -3,8 +3,8 @@ title: "The Harry Potter Studio Tour: Tickets, Extras and How to Get There"
 seoTitle: "Harry Potter Studio Tour London: Prices and Travel"
 description: "Warner Bros. Studio Tour London costs £58.50 for 2026 dates and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
 publishedAt: 2026-09-20
-updatedAt: 2026-10-31
-reviewBy: 2026-11-09
+updatedAt: 2026-11-02
+reviewBy: 2026-11-16
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -31,7 +31,7 @@ faq:
 
 It is a walking tour of the sets, props and costumes the films were made on, at Leavesden in Hertfordshire, and it takes about three and a half hours. There are no rides.
 
-> 💡 **The Short Version:** **£58.50 adult, £47.00 child, £188 for a family of four** on any 2026 date; adult tickets for 2027 dates are £61. **Book ahead**: Saturdays sell out weeks out. Get there by **train from Euston to Watford Junction (£7.20 off-peak) and the free shuttle bus**, or drive and park free. **Butterbeer is £7.95** and only sold halfway round. The **Digital Guide is £4.75 if you pre-book it**, and £1 more on the day. **Dark Arts runs to 8 November and Hogwarts in the Snow from 14 November**, both included, and the tour is **closed 9 to 13 November**. **Sold out, or would rather not change at Watford Junction?** A <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">coach tour from Victoria</a> includes entry, from £87.
+> 💡 **The Short Version:** **£58.50 adult, £47.00 child, £188 for a family of four** on any 2026 date; adult tickets for 2027 dates are £61. **Book ahead**: Saturdays sell out weeks out. Get there by **train from Euston to Watford Junction (£7.20 off-peak) and the free shuttle bus**, or drive and park free. **Butterbeer is £7.95** and only sold halfway round. The **Digital Guide is £4.75 if you pre-book it**, and £5.25 on the day. **Dark Arts runs to 8 November and Hogwarts in the Snow from 14 November**, both included, and the tour is **closed 9 to 13 November**. **Sold out, or would rather not change at Watford Junction?** A <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">coach tour from Victoria</a> includes entry, from £87.
 
 ## What it costs
 
@@ -120,7 +120,7 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 
 | Extra | Pre-booked | On the day |
 | --- | --- | --- |
-| **Digital Guide** (Evanna Lynch narrates) | **£4.75** | £5.75 |
+| **Digital Guide** (Evanna Lynch narrates) | **£4.75** | £5.25 |
 | Souvenir guidebook | £7.95 | £9.95 |
 | **Digital photo and video package** | **£22.50** | About £30 |
 | **Butterbeer**, souvenir tankard | — | **£7.95** |

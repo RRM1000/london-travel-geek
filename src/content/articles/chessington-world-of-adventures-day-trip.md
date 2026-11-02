@@ -3,8 +3,8 @@ title: "Chessington World of Adventures from London: Tickets, Trains and Rides"
 seoTitle: "Chessington World of Adventures: Tickets and Trains"
 description: "Chessington tickets are from £32 online and £68 at the gate, with the zoo and SEA LIFE included and under-90cm children free. It is in Zone 6, 36 minutes from Waterloo on Oyster. Every ride's height limit, Fastrack prices, and the days it is shut."
 publishedAt: 2026-10-03
-updatedAt: 2026-11-01
-reviewBy: 2026-11-06
+updatedAt: 2026-11-02
+reviewBy: 2026-11-20
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -24,7 +24,7 @@ faq:
   - q: "Is Chessington in London?"
     a: "Yes. It is in Greater London, and Chessington South station is in Zone 6 of the London fare zones. Every entrance to the resort is also inside the ULEZ."
   - q: "Is Chessington open in winter?"
-    a: "Only on set dates. After Howl'o'ween ends on 1 November 2026 it opens on 7 and 8 November, then for Christmas at Chessington on selected days from 21 November to 24 December, and from 27 December 2026 to 3 January 2027 (Twixmas) with selected rides. It is closed on 25 and 26 December."
+    a: "Only on set dates. Howl'o'ween ended on 1 November 2026. The park opens on 7 and 8 November, then for Christmas at Chessington on selected days from 21 November to 24 December, and from 27 December 2026 to 3 January 2027 (Twixmas) with selected rides. It is closed on 25 and 26 December."
   - q: "What age is Chessington best for?"
     a: "Roughly 3 to 12. Most rides need 0.9m to 1.2m, the zoo and aquarium are included, and only one ride, Rattlesnake, needs 1.4m. Teenagers after big coasters will get more from Thorpe Park."
   - q: "Can you take a picnic into Chessington?"
@@ -44,7 +44,6 @@ It is a park for families with children of about 3 to 12. Only one ride needs 1.
 | **Day ticket: theme park, zoo and SEA LIFE** | **From £32** | **£68** |
 | **Under 90cm** | **Free** | Free |
 | Adult and Pre-Schooler, Monday to Friday in term time | £29 | — |
-| Howl'o'ween day ticket, to 1 November 2026 | From £34 | £66 |
 | Christmas Village and park entry, 21 November to 24 December 2026 | From £32 | — |
 | Chessington Annual Pass | From £64 a year | — |
 
@@ -94,13 +93,13 @@ The postcode is **KT9 2NE**, on the A243 Leatherhead Road, two miles from the M2
 
 *Dragon's Fury. Photo: [BenBowser](https://commons.wikimedia.org/wiki/File:Dragon%27s_Fury_CWOA.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**The park opens at 10:00** and closes between 16:00 and 19:00 depending on the date: 19:00 until 1 November 2026.
+**The park opens at 10:00** and closes between 16:00 and 19:00 depending on the date.
 
 > ⚠️ **Chessington is shut on most days in November.** After 1 November it opens only on 7 and 8 November until Christmas at Chessington begins on 21 November. Check the [opening calendar](https://www.chessington.com/plan-your-visit/before-you-visit/opening-hours/) before you book.
 
-### Howl'o'ween 2026
+### Howl'o'ween
 
-**3–4 and 10–11 October, then every day from 17 October to 1 November 2026.** Day tickets are from £34 online (£66 at the gate). It is the family version of Halloween: shows, a Vampire's Lair scare zone with living statues, rides running at dusk and PAW Patrol pups in costume, with no scare mazes. **Enchanted Hollow: Trick or Treat** is an extra, from £9 a head. Our [Halloween in London](/articles/halloween-london/) guide sets it against Thorpe Park's Fright Nights, which is for teenagers and adults.
+Howl'o'ween 2026 ran on 3–4 and 10–11 October, then every day from 17 October to 1 November. Day tickets were from £34 online (£66 at the gate). It is the family version of Halloween: shows, a Vampire's Lair scare zone with living statues, rides running at dusk and PAW Patrol pups in costume, with no scare mazes. **Enchanted Hollow: Trick or Treat** was an extra, from £9 a head. Our [Halloween in London](/articles/halloween-london/) guide sets it against Thorpe Park's Fright Nights, which is for teenagers and adults.
 
 ### Christmas at Chessington 2026
 

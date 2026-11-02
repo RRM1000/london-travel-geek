@@ -52,9 +52,9 @@ A record **1,338,541 people applied for a place in the 2027 London Marathon** �
 | 2027 ballot | Closed — ran 24 April to 1 May 2026, results 9 July 2026 |
 | Good For Age 2027 | Applications closed **16:00, Thu 29 October 2026** |
 | Championship 2027 | Applications closed |
-| 2028 ballot | Not announced. Expect it around **race weekend, late April 2027** |
+| 2028 ballot | Opens around **race weekend, late April 2027**, if the usual pattern holds |
 
-> ⚠️ **The two-day format is a 2027 one-off.** The Saturday field, the split of Good For Age and Championship runners by sex across the two days, and the extra charity and club places apply to 2027 only. Expect a single-day race in 2028.
+> ⚠️ **The two-day format is a 2027 one-off.** The Saturday field, the split of Good For Age and Championship runners by sex across the two days, and the extra charity and club places apply to 2027 only.
 
 ---
 

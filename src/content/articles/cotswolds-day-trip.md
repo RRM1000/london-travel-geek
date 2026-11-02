@@ -3,8 +3,8 @@ title: "The Cotswolds from London: Which Villages You Can Actually Reach"
 seoTitle: "Cotswolds Day Trip from London: Trains and Buses"
 description: "The Cotswolds is not one place and it has almost no buses between villages. Paddington to Moreton-in-Marsh is £54 return and the 801 bus gets you to Stow and Bourton hourly, including Sundays. Bibury and Broadway have no Sunday service at all."
 publishedAt: 2026-09-15
-updatedAt: 2026-10-26
-reviewBy: 2026-11-30
+updatedAt: 2026-11-02
+reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -198,9 +198,9 @@ Castle Combe is the same story in Wiltshire: a pay-and-display car park up in Up
 | **Birdland**, Bourton | £14.95 gate / **£13.95 online** | £11.50 / £10.50 (3–15) | 10:00–17:00, last entry 16:00. £1.50 booking fee online |
 | **Cotswold Motoring Museum**, Bourton | £9.95 | £6.95 (5–16) | 10:00–18:00, last admission 17:15. Family £27.00 |
 | **Broadway Tower** | **£14.00** | £6.00 (11–16), £3.00 (6–10) | Grounds only **£4.00**. Bunker tour £12.00, combined £20.00. **Parking £3/£6 extra** |
-| **Snowshill Manor** (NT) | **£18.00** | £9.00 (5–17) | £13.00 from 2 November. Garden 11:00–16:30; manor from 11:30, last admission 14:30 to 1 November and 13:30 from 7 to 29 November. Free parking 500 yards away |
-| **Hidcote** (NT) | **£20.00** | £10.00 (5–17) | £12.00 from 2 November, £11.00 from 1 January. Garden 10:00–17:00 |
-| **Sudeley Castle**, Winchcombe | **£24.00** | £10.50 (3–15) | **Daily 14 March to 1 November only.** Last admission 15:00 |
+| **Snowshill Manor** (NT) | **£13.00** | £6.50 (5–17) | £18.00 in the main season, which ended on 1 November. Manor last admission 13:30 from 7 to 29 November. Free parking 500 yards away |
+| **Hidcote** (NT) | **£12.00** | £6.00 (5–17) | £20.00 in the main season; £11.00 from 1 January. Garden 10:00–17:00 |
+| **Sudeley Castle**, Winchcombe | **£24.00** | £10.50 (3–15) | **Closed for the winter; reopens in March 2027.** Last admission 15:00 |
 | **Bibury Trout Farm** | £9.50 | £8.00 (3–15) | 09:00–17:30, last entry 16:45. **Car park £10** |
 | **Corinium Museum**, Cirencester | £8.70 | £4.00 (5–16) | Mon–Sat 10:00–16:00, **Sunday 14:00–16:00 only** |
 | **Batsford Arboretum** | £10.90 | £3.15 (4–16) | **1.9 miles, 44 minutes on foot from Moreton station** |

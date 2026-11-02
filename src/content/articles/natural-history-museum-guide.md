@@ -3,8 +3,8 @@ title: "Natural History Museum London: Tickets, Dinosaurs, Route & Tips"
 seoTitle: "Natural History Museum London: Free Tickets & Route"
 description: "How to visit the Natural History Museum: the free entry ticket, which of the three entrances to use, a two-to-three-hour route, cafés, cloakrooms, step-free access and 2026–2027 exhibition prices."
 publishedAt: 2026-10-28
-updatedAt: 2026-11-01
-reviewBy: 2027-01-03
+updatedAt: 2026-11-02
+reviewBy: 2026-12-28
 sites:
   - london
 canonicalSite: london
@@ -44,7 +44,7 @@ faq:
 
 Alfred Waterhouse's terracotta building on Cromwell Road, opened in 1881, was the UK's most visited attraction in 2025, with 7,116,929 visits according to the [Association of Leading Visitor Attractions](https://www.alva.org.uk/details.cfm?p=423). It holds 80 million specimens.
 
-*Prices and opening times as of October 2026.*
+*Prices and opening times as of November 2026.*
 
 ---
 
@@ -112,8 +112,7 @@ Hintze Hall is the main entrance hall.
 - **Fixing Our Broken Planet** (ground floor, free): more than 200 specimens, from a Sumatran rhino to an ancient cow skull, on food, energy, materials and health.
 - **Treasures in the Cadogan Gallery** (first floor): 22 objects including a Moon rock, a meteorite, Darwin's pigeons, Blaschka glass models and Guy the gorilla.
 - **The Vault** and **Minerals Gallery** (first floor): the Aurora Pyramid of Hope, a collection of 296 coloured diamonds, the Devonshire Emerald and a piece of the Winchcombe meteorite in the Vault. The Minerals Gallery keeps its original 1881 oak cabinets, a 9,381-carat blue topaz and a 635-kilogramme iron meteorite that fell in Argentina in 1783. The Minerals Gallery is one of the museum's quieter spaces.
-- **Nature and Us** (second floor, free): a gallery reopened on 16 September 2026 for the first time since 1943, once a working herbarium. It holds a miniature model of one of the Crystal Palace dinosaurs and the skeleton of a monk seal called Jenny. It is closed on Tuesday 3 November 2026.
-
+- **Nature and Us** (second floor, free): a gallery reopened on 16 September 2026 for the first time since 1943, once a working herbarium. It holds a miniature model of one of the Crystal Palace dinosaurs and the skeleton of a monk seal called Jenny.
 The Creepy Crawlies gallery has closed and will reopen as a new family gallery.
 
 <div data-stay-strip></div>
@@ -130,7 +129,7 @@ Earth Hall is on the ground floor of the East Wing, inside the Exhibition Road e
 
 - **The Darwin Centre's Cocoon:** hundreds of specimens, including beetles, butterflies, metre-high plants, tarantulas and historic herbaria, and the Centre for UK Nature in its atrium. The Cocoon is subject to last-minute closures, so ask a member of staff in the galleries.
 - **The gardens:** five acres, free, with no ticket needed, opened on 18 July 2024 as part of the Urban Nature Project. The Evolution Garden is open daily 10:00 to 17:50. Its Evolution Timeline runs along ancient rocks from the oldest in the UK to the present day. **Fern**, a full-size bronze *Diplodocus* unveiled on 16 July 2024, stands among tree ferns and cycads, with a prowling *Hypsilophodon* nearby. The ponds hold newts, frogs and dragonflies.
-- **Winter hours:** the Nature Discovery Garden has no lighting and is open in daylight only. It closes at 16:00 (as of 1 November 2026). The gardens may close at short notice when conditions are icy.
+- **Winter hours:** the Nature Discovery Garden has no lighting and is open in daylight only. In winter it closes at 16:00. The gardens may close at short notice when conditions are icy.
 
 ![The terracotta towers of the Natural History Museum in evening light](../../assets/articles/south-kensington-area-guide/natural-history-museum-own.jpg)
 
@@ -182,7 +181,7 @@ For a sit-down meal outside, see the restaurants in our [South Kensington area g
 ### Step-free access, wheelchairs and quiet spaces
 
 - **Entrances:** use the Central Entrance (steep ramp) or the Subway Gate from the station tunnel. The East Entrance has steps in its lobby, then a lift to the galleries.
-- **Lifts:** the building has lifts and step-free access to most areas, but some lifts are out of service. As of 28 October 2026, a number of Darwin Centre lifts and the Mammals Hall lift are out of order. The lift status is in the maintenance works section of the [museum's facilities page](https://www.nhm.ac.uk/visit/facilities.html), and it is worth checking before you travel.
+- **Lifts:** the building has lifts and step-free access to most areas, but some lifts are out of service. As of 2 November 2026, a number of Darwin Centre lifts and the Mammals Hall lift are out of order. The lift status is in the maintenance works section of the [museum's facilities page](https://www.nhm.ac.uk/visit/facilities.html), and it is worth checking before you travel.
 - **Wheelchairs and stools:** manual wheelchairs are free to borrow from the cloakrooms, first come, first served, and cannot be reserved. Folding stools are free from the cloakrooms too.
 - **Fast-track entry:** staff can fast-track entry for anyone with access requirements. They do not ask for ID or proof of disability.
 - **Changing Places:** a Changing Places toilet is on the ground floor. If it is out of order, the Hintze Hall information desk will give you access to a second one in the Nature Activity Centre.

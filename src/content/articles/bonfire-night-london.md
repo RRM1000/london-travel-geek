@@ -3,7 +3,7 @@ title: "Bonfire Night in London: Every Display, and Where to Watch for Free"
 seoTitle: "Bonfire Night London 2026: Fireworks and Free Views"
 description: "Every London fireworks display for Bonfire Night 2026 with dates, prices and booking links, which famous ones no longer run, and the free viewpoints that are actually open after dark."
 publishedAt: 2026-06-29
-updatedAt: 2026-11-01
+updatedAt: 2026-11-02
 reviewBy: 2026-11-06
 sites:
   - london
@@ -31,9 +31,7 @@ heroImage: "../../assets/articles/bonfire-night-london/alexandra-palace-firework
 heroImageAlt: "A large red firework bursting in the night sky at the Alexandra Palace fireworks"
 ---
 
-**Bonfire Night 2026 is Thursday 5 November, but the fireworks are on Saturday 7th** — **most of the displays land on that one night**, with a second wave on the Sunday.
-
-Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow.
+**Bonfire Night 2026 is Thursday 5 November, but most of the fireworks are on Saturday 7th**, with a second wave on the Sunday. Just three run on the 5th itself: Coram's Fields, Wimbledon Park and Stow.
 
 > 💡 **The Short Version:** The real night is **Saturday 7 November**. **Alexandra Palace** and **Battersea Park** are both on sale and both sell out. **Danson Park** is back after cancelling in 2025. The only free display is **Coram's Fields** on the 5th, where adults must bring a child. For a free view, **Parliament Hill** has no gates and never closes — while **Greenwich Park shuts at 6pm**, before anything starts.
 
@@ -122,7 +120,7 @@ Under-18s must be with an adult, and adults need photo ID for the wristband if t
 
 | Display | Date | Prices | Notes |
 | --- | --- | --- | --- |
-| **[Stow Firework Spectacular](https://www.stowfireworkspectacular.co.uk/)**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Age 0–5 **£1** · Family **£27**, no booking fees | Two displays, 6pm and 8pm, one ticket covers both; last entry 8pm. **Friday and Saturday have sold out.** **Online only, no gate sales**, and babies need a ticket too. Sold out four years running. Wood Street station is three minutes' walk |
+| **[Stow Firework Spectacular](https://www.stowfireworkspectacular.co.uk/)**, Walthamstow | **5, 6 and 7 Nov**, gates 16:00 | Adult **£11** · Child 6–15 **£5** · Age 0–5 **£1** · Family **£27**, no booking fees | Two displays, 6pm and 8pm, one ticket covers both; last entry 8pm. **Friday and Saturday have sold out, and fewer than 5% of Thursday's tickets remain.** **Online only, no gate sales**, and babies need a ticket too. Sold out four years running. Wood Street station is three minutes' walk |
 | **[Harrow Fireworks + Diwali](https://harrowfireworks.co.uk/buy-tickets/)**, Byron Park | **Sat 7 Nov**, fireworks ~19:45 | Adult **£13.95** · Child 3–15 **£8.95** · Under-3 free · VIP **£39.95** · plus £1.50 a ticket (£2 for VIP) | Free entry noon–3pm for the Diwali show; paid from 3pm. The Diwali stage show and Bollywood acts run through the night. Online sales stop at noon on the day, then tickets are sold only at the gate. **Printed tickets only** — phones are not accepted. The VIP pack adds a queue jump, a ride token, a meal token, front-row viewing and a glow toy |
 | **[Southgate](https://www.eventbrite.co.uk/e/the-walker-ground-fireworks-2026-tickets-1997391432543)**, The Walker Ground | **Sat 7 Nov**, fireworks and drones 19:30 | Adult **£14** · Child up to 16 **£9.50** · Family (2 adults + 2 children) **£43** · Under-5 free, plus Eventbrite fees | Gates 17:00. The drone show is included in the ticket |
 | **[Dulwich Sports Club](https://www.eventbrite.co.uk/e/dulwich-firework-display-2026-kids-for-a-quid-tickets-1991896534154)** | **Sat 7 Nov**, fireworks ~19:00 | Adult **£13** · Junior **£8** · **Under-12s £1**, plus Eventbrite fees | "Kids for a Quid". Doors 17:00, live music from 17:30. **Advance tickets only, none on the night**, and no parking. Herne Hill, North Dulwich and West Dulwich stations are each ten minutes' walk |
@@ -135,7 +133,7 @@ Under-18s must be with an adult, and adults need photo ID for the wristband if t
 | **[Brentham Club](https://www.ticketor.com/brenthamclub/tickets/fireworks-night-2026-367335)**, Meadvale Road, W5 | **Sat 7 Nov**, 17:00–21:00 | Adult 16+ **£13.50** · Child 3–15 **£7.50** · Family (2 adults + up to 3 children) **£33**, no booking fees | Online sales close at 15:20 on the day |
 | **[Kempton Park](https://www.thejockeyclub.co.uk/kempton/events-tickets/fireworks/)**, Sunbury | **Sat 7 Nov**, fireworks 19:30 | **£10** in advance | Gates 5pm, last entry 7pm. Funfair to 10pm. Kempton Park station from Waterloo |
 | **[Chiswick Rugby Club](https://www.chiswickrugby.co.uk/news/chiswick-rugby-community-fireworks-3000088.html)**, Dan Mason Drive, W4 | **Sat 7 Nov**, fireworks 19:30 | Adult **£12** · Child **£8** · Family **£30** | A charity display: £2 of each ticket, and £3 of a family ticket, goes to Maggie's. Doors 17:30, bonfire 18:30, live music from 20:00 |
-| **[Totteridge Fireworks Night](https://www.totteridgefireworks.co.uk/)**, Totteridge Millhillians Cricket Club, N20 | **Fri 6 Nov**, 17:00–23:30 | Tickets through the club's box office | The club's own night, in aid of the club and Rays of Sunshine |
+| **[Totteridge Fireworks Night](https://tmcc.littleboxoffice.com/events/179152)**, Totteridge Millhillians Cricket Club, N20 | **Fri 6 Nov**, 17:00–23:30 | Tickets through the club's box office | The club's own night, in aid of the club and Rays of Sunshine |
 | **[Bonfire Night on the Thames](https://www.londonpartyboats.co.uk/tickets/bonfire-night-on-the-thames/229)** | **Sat 7 Nov**, boards 19:00 | Adult **£50** · Child **£45** | Boat from Festival Pier with buffet and DJ, viewing the Battersea display |
 
 ### Smaller local displays
@@ -168,7 +166,7 @@ Under-18s must be with an adult, and adults need photo ID for the wristband if t
 
 **[Coram's Fields](https://coramsfields.org/event/fireworks-night-2026/)**, Guilford Street, Bloomsbury WC1N 1DN — **Thursday 5 November 2026**. Gates 15:30, performances from 16:15, **display at 18:00**, closes 19:00. Free, no ticket, first come first served until the park is full.
 
-> ⚠️ **Adults may only attend accompanied by a child.** Coram's Fields is a children's park, and that rule applies all year round. A paid Fast-Track ticket, booked in advance on Eventbrite, guarantees entry and skips the queue, but gives no better view; accessible-viewing tickets are booked the same way.
+> ⚠️ **Adults may only attend accompanied by a child.** Coram's Fields is a children's park, and that rule applies all year round. A paid Fast-Track ticket, booked in advance on Eventbrite, guarantees entry and skips the queue, but gives no better view and covers one adult and one child. Accessible-viewing tickets are free but must be booked in advance on Eventbrite.
 
 **No London borough council still funds a free public display.** The BBC asked all 32 under freedom of information and found **17 council events cancelled over cost in five years**, ten of them in Tower Hamlets alone. The displays that survive have migrated to cricket clubs, rugby clubs, schools, Scout groups and Rotary — and they charge.
 
@@ -206,7 +204,7 @@ Some of the best-known viewpoints are **locked before the fireworks start**. Dis
 | Horniman Gardens | Sunset | ❌ |
 | Severndroog Castle | Viewing platform **Sundays, daytime only** | ❌ |
 
-**Parliament Hill is the pick.** At 98 metres it is the highest of the classic viewpoints, it has legally protected sightlines to both St Paul's and the Palace of Westminster, and the Heath has no perimeter gates to lock. Nearest stations are Gospel Oak and Hampstead Heath. Two drawbacks: the Heath is unlit, so bring a torch for the walk up, and the Westminster view is partly obscured by intervening construction.
+**Parliament Hill is the pick.** At 98 metres it has legally protected sightlines to both St Paul's and the Palace of Westminster, and the Heath has no perimeter gates to lock. Nearest stations are Gospel Oak and Hampstead Heath. Two drawbacks: the Heath is unlit, so bring a torch for the walk up, and the Westminster view is partly obscured by intervening construction.
 
 **Alexandra Park** is open around the clock while the display happens inside it. Some of the park is fenced off for the ticketed arena, so you will not get the paying guests' view, but the fireworks go up over the whole hill.
 
@@ -275,4 +273,4 @@ People still search for all of these.
 
 ---
 
-*Dates, prices and on-sale status as at 1 November 2026.*
+*Dates, prices and on-sale status as at 2 November 2026.*

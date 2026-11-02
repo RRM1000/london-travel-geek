@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Excel_London_Summer_20
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0"
 publishedAt: 2026-06-17
-updatedAt: 2026-10-26
-reviewBy: 2026-11-29
+updatedAt: 2026-11-02
+reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -25,7 +25,7 @@ faq:
   - q: "How early should you arrive at ExCeL for a show?"
     a: "Earlier than the ticket time suggests. The boulevard connecting the two entrances is about 600m, so if you land at the wrong end — say Custom House for an ICC conference — you walk the better part of a kilometre before the queue. Allow 20–30 minutes beyond the walk for security, which varies by event and can back up at a popular show."
   - q: "How much does parking cost at ExCeL?"
-    a: "£27.50 a day pre-booked, £30 paying on the day, with Blue Badge holders paying the same. Pre-booking through ExCeL's own site is the only way to guarantee a space; the car park takes vehicles up to 1.9m without a booking, or up to 2.8m in a limited number of over-height bays."
+    a: "£27.50 a day pre-booked, £30 paying on the day, with Blue Badge holders paying the same. Pre-booking through ExCeL's own site is the only way to guarantee a space; the car park takes vehicles up to 2m without a booking, or up to 2.8m in a limited number of over-height bays."
   - q: "Is there a cloakroom at ExCeL?"
     a: "Yes, free of charge, subject to the organiser of your specific event allowing it. The main one is on Level 0, down the stairs between hall entrances N4 and S4, with a second at the east end of Level 0; the ICC's Capital Suite and Platinum Suite have their own. Nothing can be stored overnight, and cameras, laptops and other electronics aren't accepted."
   - q: "Do you pay the Congestion Charge or ULEZ to drive to ExCeL?"
@@ -123,7 +123,7 @@ ExCeL runs its own on-site car park, pre-booked through the venue's own booking 
 | **Coach and minibus** (pre-booked only, west taxi rank) | £50 flat rate |
 | **Motorcycles** | Free, not pre-bookable |
 
-The car park takes vehicles up to **1.9m** without booking an over-height space, with a limited number of bays for vehicles up to **2.8m**. There are 134 Blue Badge bays across the west, east and waterfront zones, each 5.9m by 3.6m, and an £80 fine for a car parked in one without displaying a badge.
+The car park takes vehicles up to **2m** without booking an over-height space, with a limited number of bays for vehicles up to **2.8m**. There are 134 Blue Badge bays across the west, east and waterfront zones, each 5.9m by 3.6m, and an £80 fine for a car parked in one without displaying a badge.
 
 Two river crossings serve the car park's approach roads: the **Blackwall Tunnel**, the older and more delay-prone of the two, and the **Silvertown Tunnel**, which opened in April 2025 and gives an additional, tolled crossing from the Greenwich Peninsula side.
 
@@ -201,7 +201,7 @@ Our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) sorts the hot
 
 ## Small print that catches people out
 
-- **Postcodes:** ExCeL and its car park, **E16 1FR**; the venue's management office, **E16 1XL**.
+- **Postcodes:** the car park entrance and the east drop-off, **E16 1FR**; the venue itself and the west drop-off, **E16 1XL**.
 - **Blue Badge parking costs the same as standard parking here:** £27.50 pre-booked, £30 on the day.
 - **ULEZ applies; the Congestion Charge doesn't.**
 

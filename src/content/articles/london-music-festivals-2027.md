@@ -3,7 +3,7 @@ title: "London Music Festivals 2027: Dates, Line-ups and Getting There"
 seoTitle: "London Music Festivals 2027: Dates, Line-ups, Tickets"
 description: "London's music festivals for 2027, from Brockwell Park to Hyde Park and Victoria Park, and the ones a train ride away: the dates already set, when the rest ran in 2026, who headlined, what tickets cost, the age rules and how to get home."
 publishedAt: 2026-06-12
-updatedAt: 2026-10-31
+updatedAt: 2026-11-02
 reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
@@ -12,9 +12,9 @@ tags: [festivals, music festivals, BST Hyde Park, All Points East, LIDO, Brockwe
 draft: false
 faq:
   - q: "When are London's music festivals in 2027?"
-    a: "Country to Country at The O2 on 12 to 14 March; four in Brockwell Park, Field Day on Saturday 29 May, Cross the Tracks on Sunday 30 May, City Splash on Monday 31 May and Mighty Hoopla on 5 and 6 June; Meltdown at the Southbank Centre on 10 to 20 June, curated by FKA twigs; and Kaleidoscope at Alexandra Palace on Saturday 10 July 2027. BST Hyde Park has announced Bon Jovi on Thursday 24 June and All Points East has announced Phoebe Bridgers on Friday 27 August; the rest of both line-ups are still to come. In 2026 BST ran nine shows between 27 June and 12 July, and All Points East ran over two weekends, 21 to 23 and 28 to 30 August."
+    a: "Country to Country at The O2 on 12 to 14 March; four in Brockwell Park, Field Day on Saturday 29 May, Cross the Tracks on Sunday 30 May, City Splash on Monday 31 May and Mighty Hoopla on 5 and 6 June; Meltdown at the Southbank Centre on 10 to 20 June, curated by FKA twigs; and Kaleidoscope at Alexandra Palace on Saturday 10 July 2027. BST Hyde Park has announced Bon Jovi on Thursday 24 June and RAYE on Saturday 10 July, and All Points East has announced Phoebe Bridgers on Friday 27 August; the rest of both line-ups are still to come. In 2026 BST ran nine shows between 27 June and 12 July, and All Points East ran over two weekends, 21 to 23 and 28 to 30 August."
   - q: "Can I buy 2027 festival tickets yet?"
-    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £315 with a public transport ticket. Truck's third tier starts at £182 including fees, and Cambridge Folk Festival's full festival ticket starts at £170. BST Hyde Park's Bon Jovi show (24 June) is on sale from £105.95 plus fees, and All Points East's Phoebe Bridgers day (27 August) from £84.95 plus booking. Early birds for Mighty Hoopla and The Great Escape have sold out."
+    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £315 with a public transport ticket. Truck's third tier starts at £182 including fees, and Cambridge Folk Festival's full festival ticket starts at £170. BST Hyde Park's Bon Jovi show (24 June) is on sale from £105.95 plus fees (RAYE, on 10 July, has an American Express cardmember presale), and All Points East's Phoebe Bridgers day (27 August) from £84.95 plus booking. Early birds for Mighty Hoopla and The Great Escape have sold out."
   - q: "Which London festivals can children go to?"
     a: "Cross the Tracks and City Splash are all ages; at City Splash under-18s need an adult over 26, and child tickets were £20 for under-10s in 2026. BST Hyde Park sells Child + Guardian tickets for ages 2 to 9, and under-2s go free. Kaleidoscope at Alexandra Palace has child tickets for 5 to 15s and lets parents leave and come back between 4pm and 8.30pm. All Points East set its age limit show by show in 2026, from 12+ to 16+. Field Day, Mighty Hoopla, Junction 2, Boomtown and Lovebox are 18+."
   - q: "What can I take into BST Hyde Park or All Points East?"
@@ -25,7 +25,7 @@ heroImage: "../../assets/articles/london-music-festivals-2027/all-points-east-ju
 heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at night, white light beams over a packed crowd"
 ---
 
-> 💡 **The Short Version:** These London festivals have **2027 dates**: **Country to Country** at The O2 (12–14 March); four in **Brockwell Park** around the late May bank holiday, **Field Day** (29 May), **Cross the Tracks** (30 May), **City Splash** (31 May) and **Mighty Hoopla** (5–6 June); **Meltdown** at the Southbank Centre (10–20 June, curated by FKA twigs); and **Kaleidoscope** at Alexandra Palace (10 July). **BST Hyde Park** has announced **Bon Jovi** on 24 June and **All Points East** has announced **Phoebe Bridgers** on 27 August; the rest of both line-ups are still to come. Within a train ride, **Reading** (26–29 August), **Boomtown** (11–15 August), **Love Supreme** (2–4 July), **Henley** (7–11 July) and **Cambridge Folk Festival** (ends 1 August) have set their dates, and several are already on sale. Also in 2026: the **EFG London Jazz Festival**, 13–22 November 2026.
+> 💡 **The Short Version:** These London festivals have **2027 dates**: **Country to Country** at The O2 (12–14 March); four in **Brockwell Park** around the late May bank holiday, **Field Day** (29 May), **Cross the Tracks** (30 May), **City Splash** (31 May) and **Mighty Hoopla** (5–6 June); **Meltdown** at the Southbank Centre (10–20 June, curated by FKA twigs); and **Kaleidoscope** at Alexandra Palace (10 July). **BST Hyde Park** has announced **Bon Jovi** on 24 June and **RAYE** on 10 July, and **All Points East** has announced **Phoebe Bridgers** on 27 August; the rest of both line-ups are still to come. Within a train ride, **Reading** (26–29 August), **Boomtown** (11–15 August), **Love Supreme** (2–4 July), **Henley** (7–11 July) and **Cambridge Folk Festival** (ends 1 August) have set their dates, and several are already on sale. Also in 2026: the **EFG London Jazz Festival**, 13–22 November 2026.
 
 ## 2027 at a glance
 
@@ -38,7 +38,7 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 | Mighty Hoopla | Brockwell Park, SE24 | **5–6 June** | 30–31 May |
 | Hampton Court Palace Festival | Hampton Court Palace | Not yet announced | 10–20 June |
 | Meltdown | Southbank Centre | **10–20 June** | 11–21 June |
-| BST Hyde Park | Hyde Park | **24 June** (Bon Jovi); rest not yet announced | 27 June – 12 July |
+| BST Hyde Park | Hyde Park | **24 June** (Bon Jovi), **10 July** (RAYE); rest not yet announced | 27 June – 12 July |
 | Kaleidoscope | Alexandra Palace Park | **10 July** | 11 July |
 | Wireless | Not yet announced | Not yet announced | — |
 | Somerset House Summer Series | Somerset House | Not yet announced | 16–26 July |
@@ -60,7 +60,7 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 
 ### Country to Country, The O2
 
-**Friday 12 – Sunday 14 March 2027.** [C2C: Country to Country](https://c2cfestival.co.uk/) is three days of country music at The O2, running the same weekend in Glasgow and, for the first time in 2027, Manchester. Tickets for 2027 went on general sale on 2 October 2026. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers getting there and back.
+**Friday 12 – Sunday 14 March 2027.** [C2C: Country to Country](https://www.countrytocountry.com/) is three days of country music at The O2, running the same weekend in Glasgow and, for the first time in 2027, Manchester. Tickets for 2027 went on general sale on 2 October 2026. Our [O2 travel guide](/articles/the-o2-travel-guide/) covers getting there and back.
 
 ### Field Day, Brockwell Park
 
@@ -80,7 +80,7 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 
 ### Mighty Hoopla, Brockwell Park
 
-**Saturday 5 and Sunday 6 June 2027.** [Mighty Hoopla](https://www.mightyhoopla.com/london) is pop, with queer culture at its centre: Brockwell Live puts it at more than 400 artists and performers over two days and eight stages. **18+ only, and no babies.** 12pm to 10.30pm on Saturday and to 10.15pm on Sunday, with last entry at 8pm. **The 2027 early birds have sold out**; general sale comes later in the year, with £20 deposits and a six-for-the-price-of-five group ticket. [Tickets on Skiddle](https://www.skiddle.com/festivals/mighty-hoopla/).
+**Saturday 5 and Sunday 6 June 2027.** [Mighty Hoopla](https://www.mightyhoopla.com/) is pop, with queer culture at its centre: Brockwell Live puts it at more than 400 artists and performers over two days and eight stages. **18+ only, and no babies.** 12pm to 10.30pm on Saturday and to 10.15pm on Sunday, with last entry at 8pm. **The 2027 early birds have sold out**; general sale comes later in the year, with £20 deposits and a six-for-the-price-of-five group ticket. [Tickets on Skiddle](https://www.skiddle.com/festivals/mighty-hoopla/).
 
 **Brockwell Park rules.** Each of the four is ticketed separately, under site rules set by [Brockwell Live](https://www.brockwell-live.com/). Herne Hill station is about 500 metres from the park's entrances, and Brixton (Victoria line) is about a mile away, or two minutes on the train to Herne Hill. You can't leave and come back in. Bags bigger than A4 aren't allowed, there's no cloakroom, and you can't bring your own food or drink. Expect a search at the gate, with search dogs.
 
@@ -106,7 +106,7 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 
 *The Great Oak Stage, Hyde Park.*
 
-**Thursday 24 June 2027: Bon Jovi, on sale.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage. General admission for Bon Jovi starts at **£105.95 plus fees**; the rest of the 2027 line-up is still to come. In 2026 there were nine shows over three weekends, **27 June to 12 July**: **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. Between the weekends, BST's **Open House** fills the site with free events.
+**Thursday 24 June 2027: Bon Jovi, on sale. Saturday 10 July 2027: RAYE, just announced.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage. General admission for Bon Jovi starts at **£105.95 plus fees**; the rest of the 2027 line-up is still to come. In 2026 there were nine shows over three weekends, **27 June to 12 July**: **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. Between the weekends, BST's **Open House** fills the site with free events.
 
 Every show is **standing only**. You can bring one bag no bigger than A4 and no chairs, and apart from an unopened bottle of water of up to 500ml, no food or drink. The bars and food stalls are cashless. Children aged **2 to 9** come in on a Child + Guardian ticket, sold as a pair, and **under-2s are free**. Shows finish by **10.30pm**, or **10pm on Sundays**. The stations are Hyde Park Corner, Knightsbridge, Green Park and Bond Street (Elizabeth line). Check for Piccadilly line closures before you go; in 2026 the whole line shut on the first weekend, closing Hyde Park Corner and Knightsbridge.
 

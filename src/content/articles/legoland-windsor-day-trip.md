@@ -3,8 +3,8 @@ title: "LEGOLAND Windsor from London: Tickets, Trains, Height Limits and Queues"
 seoTitle: "LEGOLAND Windsor Tickets and Travel from London"
 description: "LEGOLAND Windsor costs from £32 booked online at least a day ahead and £68 on the day. The train-and-bus route from Paddington or Waterloo, the 702 bus from Victoria, every height limit, Fastrack prices and the 2026–27 closed dates."
 publishedAt: 2026-10-03
-updatedAt: 2026-10-26
-reviewBy: 2026-11-07
+updatedAt: 2026-11-02
+reviewBy: 2026-11-20
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -28,7 +28,7 @@ faq:
   - q: "Can you take a picnic into LEGOLAND Windsor?"
     a: "Yes. Food from outside is allowed. There is little covered seating, the lockers are too small for a cool box, and LEGOLAND suggests leaving it in the car and getting a hand stamp to go out and fetch it at lunch. No glass and no alcohol."
   - q: "When is LEGOLAND Windsor closed?"
-    a: "After Brick or Treat ends on 1 November 2026 the park opens only on selected days: 7 November, then the Christmas dates from 21 November to 3 January 2027. It is closed 24 to 26 December, then from 4 January to 11 February 2027, and the main 2027 season starts on 12 March."
+    a: "Brick or Treat ended on 1 November 2026. The park now opens only on selected days: 7 November, then the Christmas dates from 21 November to 3 January 2027. It is closed 24 to 26 December, then from 4 January to 11 February 2027, and the main 2027 season starts on 12 March."
 ---
 
 **LEGOLAND Windsor costs from £32 a person booked online at least a day ahead, and £68 if you buy on the day.** LEGOLAND charges the same for adults and children, lets anyone under 90cm in free, and keeps its lowest prices for off-peak dates booked at least five days out.
@@ -47,7 +47,6 @@ The park is built for children aged 2 to 12, with over 55 rides and attractions 
 | **Bought on the day**, online or at the gate | **£68** |
 | **Under 90cm**, measured in shoes | Free |
 | Adult and Pre-schooler, one adult and one child aged 4 or under | £29 online, term-time weekdays only |
-| Brick or Treat (Halloween) days | From £37 online |
 | LEGOLAND at Christmas days | From £34 online, £68 on the day |
 
 *Prices for October 2026 onwards.*
@@ -113,7 +112,6 @@ The barriers read number plates, so add your registration when you book. Going h
 
 | Period | Days | Hours |
 | --- | --- | --- |
-| **Brick or Treat** | Daily until 1 November 2026 | 10:00 to 18:00 |
 | **November 2026** | Saturday 7 November only, plus a pass holders' day on 8 November | 10:00 to 17:00 |
 | **LEGOLAND at Christmas** | 21 and 28–29 November, 5–6, 12–14 and 17–23 December 2026, 27 December to 3 January 2027 | 10:00 to 17:00 |
 | **February 2027** | 12–13, 15–22 and 27–28 February | 10:00 to 16:30 or 17:00 |
@@ -204,7 +202,7 @@ Fastrack does not include park entry. Each ticket is for one person, has no time
 
 *Haunted House Monster Party. Photo: [Coz4836](https://commons.wikimedia.org/wiki/File:Haunted_House_Monster_Party.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**Brick or Treat** runs on **10–11 October and from 17 October to 1 November 2026**, with tickets from £37 online. It is Halloween for young children, not a scare event: Lord Vampyre's House Party show, a Monster Jam show, a disco on The Dragon, LEGO Monsters to meet, and the usual rides. Costumes are encouraged; full face masks and imitation weapons are not allowed. For scare mazes aimed at teenagers, our [Halloween in London guide](/articles/halloween-london/) covers Thorpe Park's Fright Nights.
+**Brick or Treat** ran on 10–11 October and from 17 October to 1 November 2026, with tickets from £37 online. It was Halloween for young children, not a scare event: Lord Vampyre's House Party show, a Monster Jam show, a disco on The Dragon, LEGO Monsters to meet, and the usual rides. Costumes are encouraged; full face masks and imitation weapons are not allowed. For scare mazes aimed at teenagers, our [Halloween in London guide](/articles/halloween-london/) covers Thorpe Park's Fright Nights.
 
 **LEGOLAND at Christmas** runs on the selected dates in the opening table, from 21 November 2026 to 3 January 2027, with tickets from £34 online and £68 on the day. Over 20 rides run, including The Dragon, NINJAGO and Driving School, alongside festive shows and LEGO Santa. Meeting Father Christmas in his grotto is **from £27.50 per child** extra, with a LEGO gift, and does not include entry. More festive days out are in our [Christmas in London guide](/articles/christmas-in-london/).
 
