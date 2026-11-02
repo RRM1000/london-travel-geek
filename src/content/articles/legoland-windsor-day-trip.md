@@ -28,7 +28,7 @@ faq:
   - q: "Can you take a picnic into LEGOLAND Windsor?"
     a: "Yes. Food from outside is allowed. There is little covered seating, the lockers are too small for a cool box, and LEGOLAND suggests leaving it in the car and getting a hand stamp to go out and fetch it at lunch. No glass and no alcohol."
   - q: "When is LEGOLAND Windsor closed?"
-    a: "Brick or Treat ended on 1 November 2026. The park now opens only on selected days: 7 November, then the Christmas dates from 21 November to 3 January 2027. It is closed 24 to 26 December, then from 4 January to 11 February 2027, and the main 2027 season starts on 12 March."
+    a: "Brick or Treat ended on 1 November 2026. The park opens only on selected days: 7 November, then the Christmas dates from 21 November to 3 January 2027. It is closed 24 to 26 December, then from 4 January to 11 February 2027, and the main 2027 season starts on 12 March."
 ---
 
 **LEGOLAND Windsor costs from £32 a person booked online at least a day ahead, and £68 if you buy on the day.** LEGOLAND charges the same for adults and children, lets anyone under 90cm in free, and keeps its lowest prices for off-peak dates booked at least five days out.
