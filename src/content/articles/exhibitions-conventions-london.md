@@ -106,7 +106,7 @@ These recur every year. The table gives the last edition; check the organiser's 
 | **[Collect](https://www.craftscouncil.org.uk/collect-fair)** | Somerset House | 27 Feb–1 Mar 2026 | The Crafts Council's fair for museum-quality contemporary craft and design; 14th edition, up to 40 galleries. |
 | **[Affordable Art Fair — Battersea Spring](https://affordableartfair.com/fairs/london-battersea-spring/)** | Battersea Park | 4–8 Mar 2026 | Returns in March 2027. |
 | **[Photo London](https://www.olympia.co.uk/events/photo-london)** | Olympia London | 13–17 May 2026 | A contemporary and classic photography fair. |
-| **[Affordable Art Fair — Hampstead](https://affordableartfair.com/fairs/london-hampstead/)** | Hampstead Heath | 6–10 May 2026 | Returns in May 2027. |
+| **[Affordable Art Fair — Hampstead](https://affordableartfair.com/fairs/london-hampstead/)** | Hampstead Heath | May 2027 | Returns in May 2027. |
 | **[London Tech Week](https://londontechweek.com/)** | Olympia London | 8–10 Jun 2026 | A London-wide tech festival; Olympia hosts part of the programme. |
 | **[Hyper Japan](https://hyperjapan.co.uk/festival/)** | Olympia London | 24–26 Jul 2026 | Billed by its organiser as the UK's biggest J-Culture celebration — anime, manga, cosplay, J-Pop and street food. |
 | **[British Art Fair](https://www.saatchigallery.com/exhibition/british-art-fair-2026)** | Saatchi Gallery | 24–27 Sep 2026 | Billed by its organiser as the only UK fair dedicated exclusively to Modern and Contemporary British art. |
@@ -176,6 +176,6 @@ These recur every year. The table gives the last edition; check the organiser's 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Things to do in October](/articles/things-to-do-in-london-in-october/) · [Things to do in September](/articles/things-to-do-in-london-in-september/) · [Things to do in November](/articles/things-to-do-in-london-in-november/) · [Things to do in December](/articles/things-to-do-in-london-in-december/) · [Science events in London](/articles/science-events-london/) · [Christmas shows in London](/articles/christmas-shows-london/) · [What's On in London](/whats-on/) · [ExCeL London travel guide](/articles/excel-london-guide/) · [Where to stay near ExCeL](/articles/where-to-stay-near-excel/) · [Where to stay near Kensington](/articles/where-to-stay-kensington/) · [Where to stay near Canary Wharf](/articles/where-to-stay-canary-wharf/)
+> 🧭 **Plan the rest of it:** [Major events calendar](/whats-on/big-events/) · [Things to do in November](/articles/things-to-do-in-london-in-november/) · [Things to do in December](/articles/things-to-do-in-london-in-december/) · [Science events in London](/articles/science-events-london/) · [Christmas shows in London](/articles/christmas-shows-london/) · [What's On in London](/whats-on/) · [ExCeL London travel guide](/articles/excel-london-guide/) · [Where to stay near ExCeL](/articles/where-to-stay-near-excel/) · [Where to stay near Kensington](/articles/where-to-stay-kensington/) · [Where to stay near Canary Wharf](/articles/where-to-stay-canary-wharf/)
 
 *Dates, prices and ticket availability come from each show's own organiser site and, for shows at Olympia, Somerset House and Alexandra Palace, the venue's own listings. Shows change their dates and sell out tiers without much notice — check the organiser's own page before you book.*

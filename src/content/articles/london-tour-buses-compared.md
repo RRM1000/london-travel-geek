@@ -307,6 +307,8 @@ Worth it if:
 - 🚲 **[Cycling and Bike Hire in London](/articles/cycling-bike-hire-scooters-london/)**
 - ⛵ **[How to Use London's River Boats](/articles/how-to-use-london-river-boats/)**
 - 🗓️ **[Three Days in London](/articles/three-days-in-london-itinerary/)**
+- ⛪ **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)**, **[Tower Bridge](/articles/tower-bridge-guide/)** and the **[Tower of London](/articles/tower-of-london-guide/)**: three stops on the routes, each with its own ticket rules
+- 🎡 **[London Eye Guide](/articles/london-eye-guide/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
 
 ---

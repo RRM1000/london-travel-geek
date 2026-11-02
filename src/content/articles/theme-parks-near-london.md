@@ -87,7 +87,7 @@ It pays for a group: on a £32 day, a third off for four people is about £43. F
 
 *Chertsey, Surrey · Waterloo to Staines, then the 950 bus · from £32 online, under-1.2m free · closed until 19 March 2027*
 
-The thrill park. **Hyperia**, which Thorpe Park bills as the UK's tallest and fastest coaster, needs 1.3m; Stealth, The Swarm, Colossus, Nemesis Inferno and SAW need 1.4m. Children under 1.2m go free, but they have only a handful of rides. **Contactless works to Staines, Oyster does not**, and the 950 bus takes cash or contactless. **Fright Nights** runs on set dates to 1 November 2026, from £39.
+The thrill park. **Hyperia**, which Thorpe Park bills as the UK's tallest and fastest coaster, needs 1.3m; Stealth, The Swarm, Colossus, Nemesis Inferno and SAW need 1.4m. Children under 1.2m go free, but they have only a handful of rides. **Contactless works to Staines, Oyster does not**, and the 950 bus takes cash or contactless. The park is closed for the winter until 19 March 2027.
 
 → **[The full Thorpe Park guide](/articles/thorpe-park-day-trip/)**
 
