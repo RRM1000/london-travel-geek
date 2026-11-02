@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01",
+ "generated": "2026-11-02",
  "shows": [
   {
    "slug": "a-christmas-carol-2026",
@@ -14,6 +14,21 @@
    "opening": "2026-11-12",
    "closing": "2027-01-09",
    "bookingFrom": "2026-02-26",
+   "priorityFrom": null
+  },
+  {
+   "slug": "a-dickens-of-a-christmas",
+   "name": "A Dickens of a Christmas",
+   "venue": "Park Theatre",
+   "venueSlug": "park-theatre",
+   "location": "Off-West End",
+   "genre": "Entertainment",
+   "popularity": null,
+   "firstPreview": "2026-12-15",
+   "pressNight": "2026-12-18",
+   "opening": "2026-12-15",
+   "closing": "2027-01-09",
+   "bookingFrom": null,
    "priorityFrom": null
   },
   {
@@ -182,6 +197,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "bedlam",
+   "name": "Bedlam",
+   "venue": "Arcola Theatre",
+   "venueSlug": "arcola-theatre",
+   "location": "Fringe",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-04-21",
+   "closing": "2027-05-15",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "beetlejuice-the-musical",
    "name": "Beetlejuice the Musical",
    "venue": "Prince Edward Theatre",
@@ -210,6 +240,21 @@
    "closing": "2027-04-17",
    "bookingFrom": null,
    "priorityFrom": null
+  },
+  {
+   "slug": "beyond-caring",
+   "name": "Beyond Caring",
+   "venue": "Almeida Theatre",
+   "venueSlug": "almeida-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-03-22",
+   "closing": "2027-05-22",
+   "bookingFrom": "2026-10-27",
+   "priorityFrom": "2026-10-20"
   },
   {
    "slug": "bill-bailey-vaudevillean",
@@ -283,6 +328,21 @@
    "pressNight": null,
    "opening": "2027-03-30",
    "closing": "2027-04-24",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "brocks-mill",
+   "name": "Brock’s Mill",
+   "venue": "Lyric Hammersmith",
+   "venueSlug": "lyric-hammersmith",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-05-13",
+   "closing": "2027-06-05",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -572,6 +632,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "faith-hope-and-charity",
+   "name": "Faith, Hope and Charity",
+   "venue": "Almeida Theatre",
+   "venueSlug": "almeida-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-03-30",
+   "closing": "2027-05-22",
+   "bookingFrom": "2026-10-27",
+   "priorityFrom": "2026-10-20"
+  },
+  {
    "slug": "faulty-towers-the-dining-experience",
    "name": "Faulty Towers The Dining Experience",
    "venue": "President Hotel",
@@ -704,6 +779,21 @@
    "opening": "2026-11-25",
    "closing": "2027-01-16",
    "bookingFrom": "2026-06-18",
+   "priorityFrom": null
+  },
+  {
+   "slug": "glorious-madness",
+   "name": "Glorious Madness",
+   "venue": "National Theatre (Dorfman)",
+   "venueSlug": "national-theatre-dorfman",
+   "location": "Off-West End",
+   "genre": "Musical",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-03-01",
+   "closing": null,
+   "bookingFrom": "2027-01-01",
    "priorityFrom": null
   },
   {
@@ -1112,6 +1202,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "love",
+   "name": "LOVE",
+   "venue": "Almeida Theatre",
+   "venueSlug": "almeida-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-04-06",
+   "closing": "2027-05-22",
+   "bookingFrom": "2026-10-27",
+   "priorityFrom": "2026-10-20"
+  },
+  {
    "slug": "magic-mike-live",
    "name": "Magic Mike Live",
    "venue": "Hippodrome Casino",
@@ -1288,6 +1393,21 @@
    "pressNight": "2026-12-09",
    "opening": "2026-12-03",
    "closing": "2027-01-23",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "mother-courage-and-her-children-2027",
+   "name": "Mother Courage and Her Children",
+   "venue": "Shakespeare's Globe",
+   "venueSlug": "shakespeares-globe",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-06-10",
+   "closing": "2027-07-17",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -1682,6 +1802,21 @@
    "priorityFrom": "2026-10-07"
   },
   {
+   "slug": "sami-abu-wardeh-hates-you",
+   "name": "Sami Abu Wardeh Hates You",
+   "venue": "Park Theatre",
+   "venueSlug": "park-theatre",
+   "location": "Off-West End",
+   "genre": "Entertainment",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2026-12-08",
+   "closing": "2026-12-20",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "samira",
    "name": "Samira",
    "venue": "National Theatre (Dorfman)",
@@ -2042,6 +2177,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "the-history-boys-by-alan-bennett",
+   "name": "The History Boys by Alan Bennett",
+   "venue": "Theatre Royal Haymarket",
+   "venueSlug": "theatre-royal-haymarket",
+   "location": "West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-04-10",
+   "closing": "2027-07-24",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "the-history-boys-haymarket",
    "name": "The History Boys",
    "venue": "Theatre Royal Haymarket",
@@ -2070,6 +2220,21 @@
    "closing": null,
    "bookingFrom": null,
    "priorityFrom": null
+  },
+  {
+   "slug": "the-inequalities-by-alexander-zeldin",
+   "name": "The Inequalities By Alexander Zeldin",
+   "venue": "Almeida Theatre",
+   "venueSlug": "almeida-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-03-22",
+   "closing": "2027-05-22",
+   "bookingFrom": "2026-10-27",
+   "priorityFrom": "2026-10-20"
   },
   {
    "slug": "the-island",
@@ -2413,6 +2578,21 @@
    "pressNight": null,
    "opening": "2027-12-01",
    "closing": "2028-01-31",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "the-young-team",
+   "name": "The Young Team",
+   "venue": "Lyric Hammersmith",
+   "venueSlug": "lyric-hammersmith",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-08-31",
+   "closing": "2027-09-25",
    "bookingFrom": null,
    "priorityFrom": null
   },
