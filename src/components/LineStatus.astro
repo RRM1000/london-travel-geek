@@ -1,0 +1,138 @@
+---
+// Live tube and rail status in two lines, linking to /tube-status/ - Rob,
+// 3 November 2026. On transport pages and guides with a "Getting there"
+// section only (ArticleLayout decides), never on a page about food or hotels.
+//
+// Light and short, like SidebarStay, because the pinned column holds one dark
+// card. The desktop copy sits under "In this guide"; the sidebar falls to the
+// foot of the page on a phone, so a second copy renders inline under the
+// phone contents card instead. Each keeps its height while loading and if TfL
+// does not answer, so nothing below it jumps.
+interface Props {
+  variant: "desktop" | "mobile";
+}
+const { variant } = Astro.props;
+---
+
+<aside class={`line-status line-status--${variant}`} data-line-status aria-label="Tube and rail status">
+  {/* divs, not p: the article body's paragraph margins would reach in. */}
+  <div class="line-status__title">Tube and rail now</div>
+  <div class="line-status__now" aria-live="polite">
+    <span class="line-status__dot" data-dot></span>
+    <span data-text>Checking TfL…</span>
+  </div>
+  <a class="line-status__go" href="/tube-status/">Live status and weekend closures →</a>
+</aside>
+
+<script>
+  import { liveStatus, disrupted, level } from "../lib/tfl-status";
+
+  const boxes = document.querySelectorAll<HTMLElement>("[data-line-status]");
+  if (boxes.length) {
+    liveStatus()
+      .then((lines) => {
+        const bad = disrupted(lines);
+        const names = bad.map((l) => l.name);
+        const text = !bad.length
+          ? "Good service on all lines"
+          : names.length <= 2
+            ? `${names.join(" and ")}: ${bad[0].label.toLowerCase()}`
+            : `${names.slice(0, 2).join(", ")} and ${names.length - 2} more disrupted`;
+        const tone = !bad.length ? "green" : level(bad[0].severity);
+        for (const box of boxes) {
+          box.querySelector("[data-text]")!.textContent = text;
+          box.querySelector<HTMLElement>("[data-dot]")!.dataset.tone = tone;
+        }
+      })
+      .catch(() => {
+        for (const box of boxes) box.querySelector("[data-text]")!.textContent = "See the latest line status";
+      });
+  }
+</script>
+
+<style>
+  .line-status {
+    display: grid;
+    flex: 0 0 auto;
+    gap: 0.35rem;
+    padding: 0.7rem 0.9rem 0.75rem;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
+  }
+
+  .line-status__title {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.68rem;
+    font-variation-settings: "wght" 750;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .line-status__now {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+    color: var(--ink);
+    font-size: 0.86rem;
+    font-variation-settings: "wght" 650;
+    line-height: 1.3;
+    /* One line, always: a long run of line names must not change the height. */
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .line-status__now > span:last-child {
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .line-status__dot {
+    width: 0.6rem;
+    height: 0.6rem;
+    flex: 0 0 auto;
+    border-radius: 50%;
+    background: var(--line-strong);
+  }
+
+  .line-status__dot[data-tone="green"] { background: #1f8a4c; }
+  .line-status__dot[data-tone="amber"] { background: #d98a00; }
+  .line-status__dot[data-tone="red"] { background: #c62828; }
+
+  .line-status__go {
+    color: var(--accent);
+    font-size: 0.78rem;
+    font-variation-settings: "wght" 700;
+    text-decoration: none;
+  }
+
+  .line-status__go:hover {
+    text-decoration: underline;
+  }
+
+  .line-status--mobile {
+    display: none;
+    margin-bottom: 2rem;
+  }
+
+  /* On a short laptop screen the pinned column runs out of room, and the
+     affiliate cards below this would be the ones cropped. Measured at 1366 wide:
+     contents, strip, tours card and Hotels.com strip need 743px. */
+  @media (max-height: 47.5rem) {
+    .line-status--desktop {
+      display: none;
+    }
+  }
+
+  @media (max-width: 52rem) {
+    .line-status--mobile {
+      display: grid;
+    }
+
+    .line-status--desktop {
+      display: none;
+    }
+  }
+</style>

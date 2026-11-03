@@ -9,6 +9,7 @@ import TableOfContents from "../components/TableOfContents.astro";
 import SidebarActivities from "../components/SidebarActivities.astro";
 import SidebarHotels from "../components/SidebarHotels.astro";
 import SidebarStay from "../components/SidebarStay.astro";
+import LineStatus from "../components/LineStatus.astro";
 import { hotelsComAreaLink } from "../lib/hotelsComAreas";
 import { STAY_STRIP_CATEGORIES } from "../../scripts/lib/affiliate.mjs";
 import AreaAtAGlance from "../components/AreaAtAGlance.astro";
@@ -206,6 +207,12 @@ if (hasStaySection && area) {
 // splitAreaGuideBody for why this can't just be markdown heading order.
 contentsHeadings.push(...closingHeadings);
 const showContents = contentsHeadings.length >= 4;
+// Live line status (LineStatus.astro) on transport guides and on any guide
+// that tells the reader how to get somewhere - not the status page itself.
+const showLineStatus =
+  articleId !== "tube-status" &&
+  (category === "Getting around London" ||
+    headings.some((h) => h.depth <= 3 && /^(getting there|how to get there|getting here)\b/i.test(h.text)));
 const siteArticles = (await getCollection("articles")).filter(
   (article) =>
     !article.data.draft && article.data.sites.includes(activeSite.id),
@@ -349,6 +356,7 @@ const formatDate = (d: Date) =>
         {showContents && (
           <TableOfContents headings={contentsHeadings} variant="mobile" />
         )}
+        {showLineStatus && <LineStatus variant="mobile" />}
         {area && (
           <AreaAtAGlance
             zone={area.zone}
@@ -428,6 +436,7 @@ const formatDate = (d: Date) =>
         {showContents && (
           <TableOfContents headings={contentsHeadings} variant="desktop" />
         )}
+        {showLineStatus && <LineStatus variant="desktop" />}
         {/* ONE card, not two: the column is sticky and viewport-capped, and a
             second dark card below the first gets cropped - the failure that got
             GetYourGuide's city widget pulled out of this column. So where we
@@ -2632,6 +2641,16 @@ const formatDate = (d: Date) =>
      on a short screen the contents list scrolls instead of the pair cropping. */
   :global(.article__sidebar:has(> .sidebar-stay)) {
     --sidebar-widget-reserve: 24.5rem;
+  }
+
+  /* And for the line status strip (LineStatus.astro), alone or with it. */
+  /* The strip measures 94px at 1440 wide, plus the column gap: 7rem. */
+  :global(.article__sidebar:has(> .line-status)) {
+    --sidebar-widget-reserve: 26rem;
+  }
+
+  :global(.article__sidebar:has(> .line-status):has(> .sidebar-stay)) {
+    --sidebar-widget-reserve: 31.5rem;
   }
 
   @media (prefers-reduced-motion: reduce) {

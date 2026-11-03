@@ -1,0 +1,216 @@
+---
+// Live tube and rail status, and the closures planned for this weekend and
+// next - Rob, 3 November 2026.
+//
+// Everything live is fetched in the reader's browser from TfL's open API (see
+// src/lib/tfl-status.ts): the site is built once a day and a status baked in
+// at build would be wrong within the hour. The static text is what stays true.
+// LineStatus.astro, on transport guides, links here.
+import ArticleLayout from "../layouts/ArticleLayout.astro";
+import heroImage from "../assets/articles/london-underground/great-portland-street-platform.jpg";
+
+const headings = [
+  { depth: 2, slug: "right-now", text: "Right now" },
+  { depth: 2, slug: "this-weekend", text: "This weekend" },
+  { depth: 2, slug: "next-weekend", text: "Next weekend" },
+  { depth: 2, slug: "reading-the-status", text: "Reading the status" },
+  { depth: 2, slug: "planning-around-it", text: "Planning around a closure" },
+];
+---
+
+<ArticleLayout
+  title="London Tube Status: Live Lines and Weekend Closures"
+  seoTitle="London Tube Status Today and Weekend Closures"
+  description="Live status for every Tube line, the Elizabeth line, DLR, Overground and trams, plus the closures TfL has planned for this weekend and next."
+  articleId="tube-status"
+  category="Getting around London"
+  tags={["transport", "tube", "getting around"]}
+  publishedAt={new Date("2026-11-03")}
+  heroImage={heroImage}
+  heroImageAlt="A sub-surface line train waiting at the curved, brick-arched platform at Great Portland Street station"
+  headings={headings}
+>
+  <div class="ts">
+    <p>
+      Live status for every Tube line, the Elizabeth line, the DLR, the six Overground lines and
+      trams, straight from TfL, with the engineering work planned for the next two weekends below it.
+      Weekend closures are announced weeks ahead, so check them while you plan.
+    </p>
+
+    <h2 id="right-now">Right now</h2>
+    <div class="ts__panel" data-live>
+      <p class="ts__wait">Checking TfL…</p>
+    </div>
+
+    <h2 id="this-weekend">This weekend</h2>
+    <p class="ts__dates" data-dates="0"></p>
+    <div class="ts__panel" data-weekend="0">
+      <p class="ts__wait">Checking TfL…</p>
+    </div>
+
+    <h2 id="next-weekend">Next weekend</h2>
+    <p class="ts__dates" data-dates="1"></p>
+    <div class="ts__panel" data-weekend="1">
+      <p class="ts__wait">Checking TfL…</p>
+    </div>
+
+    <noscript>
+      <p>This page needs JavaScript to load the status. <a href="https://tfl.gov.uk/tube-dlr-overground/status/">TfL's own status page</a> has the same information.</p>
+    </noscript>
+
+    <p class="ts__credit">Powered by TfL Open Data. <span data-checked></span></p>
+
+    <h2 id="reading-the-status">Reading the status</h2>
+    <ul>
+      <li><strong>Part closure</strong> means no trains on one stretch of the line; the rest runs. TfL's note names the stretch and any replacement bus.</li>
+      <li><strong>Planned closure</strong> is engineering work booked in advance; TfL's note gives the days and the stretch.</li>
+      <li><strong>Severe or minor delays</strong> mean trains are running but late or less often. The note says why.</li>
+      <li><strong>Reduced service</strong> means fewer trains than the timetable.</li>
+      <li>The Waterloo &amp; City line runs Monday to Friday only, so it is not listed as closed at weekends here.</li>
+    </ul>
+
+    <h2 id="planning-around-it">Planning around a closure</h2>
+    <p>
+      <a href="https://tfl.gov.uk/plan-a-journey/">TfL's Journey Planner</a> routes around closures for the date and
+      time you enter. Our <a href="/articles/getting-around-london-transport-guide/">guide to getting around London</a>
+      covers the buses, river boats and trains that take over when a line is down, and
+      <a href="/articles/how-to-use-the-london-underground/">how to use the Underground</a> covers the network itself.
+      For what a journey costs, see <a href="/articles/london-public-transport-costs-and-fares/">London transport fares</a>.
+      Flying in? Check the line your airport depends on: <a href="/articles/heathrow-airport-to-london/">Heathrow</a>,
+      <a href="/articles/gatwick-airport-to-london/">Gatwick</a>, <a href="/articles/stansted-airport-to-london/">Stansted</a>,
+      <a href="/articles/luton-airport-to-london/">Luton</a> or <a href="/articles/london-city-airport-to-london/">London City</a>.
+    </p>
+  </div>
+</ArticleLayout>
+
+<script>
+  import { liveStatus, plannedStatus, disrupted, level, weekends, shortDate, clock, type LineState } from "../lib/tfl-status";
+
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
+
+  function render(panel: Element, lines: LineState[], allClear: string) {
+    const bad = disrupted(lines);
+    const good = lines.filter((l) => l.severity === 10).map((l) => l.name);
+    const items = bad
+      .map(
+        (l) => `<li class="ts__line">
+          <p class="ts__head"><span class="ts__dot" data-tone="${level(l.severity)}"></span><strong>${esc(l.name)}</strong><span class="ts__label">${esc(l.label)}</span></p>
+          ${l.reasons.map((r) => `<p class="ts__reason">${esc(r)}</p>`).join("")}
+        </li>`,
+      )
+      .join("");
+    panel.innerHTML =
+      (bad.length ? `<ul class="ts__list">${items}</ul>` : `<p class="ts__clear"><span class="ts__dot" data-tone="green"></span>${allClear}</p>`) +
+      (bad.length && good.length ? `<p class="ts__good"><span class="ts__dot" data-tone="green"></span>Good service: ${good.map(esc).join(", ")}.</p>` : "");
+  }
+
+  const fail = (panel: Element | null) => {
+    if (panel) panel.innerHTML = `<p class="ts__wait">See <a href="https://tfl.gov.uk/tube-dlr-overground/status/">TfL's status page</a> for the latest.</p>`;
+  };
+
+  const ends = weekends();
+  ends.forEach((w, i) => {
+    const el = document.querySelector(`[data-dates="${i}"]`);
+    if (el) el.textContent = `${shortDate(w.from)} to ${shortDate(w.to)}`;
+  });
+
+  liveStatus()
+    .then((lines) => {
+      render(document.querySelector("[data-live]")!, lines, "Good service on every line.");
+      const checked = document.querySelector("[data-checked]");
+      if (checked) checked.textContent = `Checked at ${clock()}.`;
+      const ids = lines.map((l) => l.id);
+      ends.forEach((w, i) => {
+        const panel = document.querySelector(`[data-weekend="${i}"]`)!;
+        plannedStatus(ids, w.from, w.to)
+          .then((planned) => render(panel, planned, "No closures planned on any line."))
+          .catch(() => fail(panel));
+      });
+    })
+    .catch(() => {
+      for (const sel of ["[data-live]", '[data-weekend="0"]', '[data-weekend="1"]']) fail(document.querySelector(sel));
+    });
+</script>
+
+<style>
+  .ts__panel {
+    min-height: 3rem;
+  }
+
+  .ts__dates {
+    margin-top: -0.5rem;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  .ts :global(.ts__list) {
+    display: grid;
+    gap: 0.75rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .ts :global(.ts__line) {
+    margin: 0;
+    padding: 0.8rem 1rem;
+    border: 1px solid var(--line);
+    border-radius: var(--card-radius);
+    background: var(--surface);
+  }
+
+  .ts :global(.ts__head) {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0;
+  }
+
+  .ts :global(.ts__label) {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  .ts :global(.ts__reason) {
+    margin: 0.4rem 0 0;
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+  .ts :global(.ts__clear),
+  .ts :global(.ts__good) {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+  }
+
+  .ts :global(.ts__good) {
+    margin-top: 1rem;
+    color: var(--muted);
+    font-size: 0.92rem;
+  }
+
+  .ts :global(.ts__dot) {
+    display: inline-block;
+    width: 0.65rem;
+    height: 0.65rem;
+    flex: 0 0 auto;
+    border-radius: 50%;
+    background: var(--line-strong);
+  }
+
+  .ts :global(.ts__dot[data-tone="green"]) { background: #1f8a4c; }
+  .ts :global(.ts__dot[data-tone="amber"]) { background: #d98a00; }
+  .ts :global(.ts__dot[data-tone="red"]) { background: #c62828; }
+
+  .ts :global(.ts__wait) {
+    color: var(--muted);
+  }
+
+  .ts__credit {
+    margin-top: 1.5rem;
+    color: var(--muted);
+    font-size: 0.82rem;
+  }
+</style>
