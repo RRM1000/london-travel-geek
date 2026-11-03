@@ -13,6 +13,7 @@ import heroImage from "../../assets/articles/london-theatre-guide/tkts-booth-lei
 import listingsJson from "../../data/listings.json";
 import theatreData from "../../data/theatre-shows.json";
 import { itemHtml, firstRunDayOf, withTheatreBooking, type Listings, type Row } from "../../lib/whats-on";
+import { ADD_ON } from "../../lib/major-events.mjs";
 import "../../styles/whats-on.css";
 
 const listings = withTheatreBooking(listingsJson as unknown as Listings, theatreData.shows);
@@ -27,6 +28,7 @@ const byShow = new Map<string, { r: Row; runs: number }>();
 const shows: { r: Row; runs: number }[] = [];
 for (const r of [...listings.rows].sort((a, b) => a[7].localeCompare(b[7]) || a[0].localeCompare(b[0]))) {
   if (!r[7] || r[7] < buildDay) continue; // today included: tickets released this morning are still news
+  if (ADD_ON.test(r[2])) continue;
   const key = `${r[7]}|${r[4]}|${r[2].toLowerCase()}`;
   const seen = byShow.get(key);
   if (seen) { seen.runs++; continue; }

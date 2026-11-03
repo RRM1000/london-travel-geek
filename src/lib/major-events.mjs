@@ -34,7 +34,9 @@ const BIG_THEATRES = new Set([
 const BIG_MUSEUMS = /^(V&A|Victoria and Albert|Tate |British Museum|National Gallery|National Portrait|Natural History|Science Museum|Royal Academy of Arts|Design Museum|Barbican Arts Centre|Somerset House)/;
 
 // Add-ons and changes that are not events.
-const NOT_AN_EVENT = /\b(vip|hospitality|package|parking|upgrade|premium seat|stadium tour|moved to|cancelled|postponed|relaxed view)\b/i;
+/** Box offices list bar packages, parking and upgrades as if they were shows. */
+export const ADD_ON = /\b(vip|hospitality|packages?|parking|upgrades?|premium seats?)\b/i;
+const NOT_AN_EVENT = new RegExp(`${ADD_ON.source}|\\b(stadium tour|moved to|cancelled|postponed|relaxed view)\\b`, "i");
 const ENGLAND = /^England( Women)? v/i;
 const EVENT_TYPES = new Set(["festival", "seasonal", "exhibition-convention", "exhibition", "concert", "ceremony", "sporting-event", "secret-cinema", "immersive-theatre", "installation"]);
 const EVENT_GROUP = { "secret-cinema": "immersive", "immersive-theatre": "immersive", installation: "exhibition", festival: "festival", seasonal: "festival", ceremony: "festival", concert: "music", "sporting-event": "sport", exhibition: "exhibition", "exhibition-convention": "exhibition" };
