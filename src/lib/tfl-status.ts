@@ -97,6 +97,22 @@ const rank = (id: string) => (ORDER.includes(id) ? ORDER.indexOf(id) : ORDER.len
 /** Every line, most important first. */
 export const ranked = (lines: LineState[]) => [...lines].sort((a, b) => rank(a.id) - rank(b.id) || a.name.localeCompare(b.name));
 
+const STRIKE = /\b(strike|industrial action)\b/i;
+
+/** Lines with strike action in TfL's notes for the range, and only that note. */
+export const strikes = (lines: LineState[]) =>
+  ranked(lines)
+    .map((l) => ({ ...l, reasons: l.reasons.filter((r) => STRIKE.test(r)) }))
+    .filter((l) => l.reasons.length);
+
+export const addDaysIso = (iso: string, n: number) => {
+  const d = new Date(`${iso}T12:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + n);
+  return d.toISOString().slice(0, 10);
+};
+
+export const todayLondon = () => new Date().toLocaleDateString("en-CA", { timeZone: "Europe/London" });
+
 /** Disrupted lines, most important first. */
 export const disrupted = (lines: LineState[]) => ranked(lines).filter((l) => l.severity !== 10);
 

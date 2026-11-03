@@ -11,6 +11,7 @@ import heroImage from "../assets/articles/london-underground/great-portland-stre
 
 const headings = [
   { depth: 2, slug: "right-now", text: "Right now" },
+  { depth: 2, slug: "strikes", text: "Strikes" },
   { depth: 2, slug: "this-weekend", text: "This weekend" },
   { depth: 2, slug: "next-weekend", text: "Next weekend" },
   { depth: 2, slug: "reading-the-status", text: "Reading the status" },
@@ -39,6 +40,12 @@ const headings = [
 
     <h2 id="right-now">Right now</h2>
     <div class="ts__panel ts__panel--now" data-live>
+      <p class="ts__wait">Checking TfL…</p>
+    </div>
+
+    <h2 id="strikes">Strikes</h2>
+    <p class="ts__dates" data-strike-dates></p>
+    <div class="ts__panel" data-strikes>
       <p class="ts__wait">Checking TfL…</p>
     </div>
 
@@ -84,7 +91,7 @@ const headings = [
 </ArticleLayout>
 
 <script>
-  import { liveStatus, plannedStatus, ranked, disrupted, level, worst, weekends, shortDate, clock, COLOUR, type LineState } from "../lib/tfl-status";
+  import { liveStatus, plannedStatus, ranked, disrupted, strikes, level, worst, weekends, shortDate, clock, todayLondon, addDaysIso, COLOUR, type LineState } from "../lib/tfl-status";
 
   const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]!);
 
@@ -130,6 +137,22 @@ const headings = [
     if (panel) panel.innerHTML = `<p class="ts__wait">See <a href="https://tfl.gov.uk/tube-dlr-overground/status/">TfL's status page</a> for the latest.</p>`;
   };
 
+  // Strike action anywhere in TfL's notes over the next four weeks. TfL adds a
+  // strike once its travel advice is out, which is usually days ahead rather
+  // than when a union first announces it.
+  const strikeFrom = todayLondon();
+  const strikeTo = addDaysIso(strikeFrom, 27);
+  const strikeDates = document.querySelector("[data-strike-dates]");
+  if (strikeDates) strikeDates.textContent = `${shortDate(strikeFrom)} to ${shortDate(strikeTo)}`;
+
+  function renderStrikes(panel: Element, lines: LineState[]) {
+    const hit = strikes(lines);
+    panel.innerHTML = !hit.length
+      ? summary("green", "No strike action on TfL's list for the next four weeks")
+      : summary("red", `Strike action on ${hit.length} ${hit.length === 1 ? "line" : "lines"}`, "TfL's notes give the days and what still runs") +
+        `<ul class="ts__board">${hit.map((l) => row({ ...l, severity: Math.min(l.severity, 6), label: "Strike" }, true)).join("")}</ul>`;
+  }
+
   const ends = weekends();
   ends.forEach((w, i) => {
     const el = document.querySelector(`[data-dates="${i}"]`);
@@ -147,9 +170,13 @@ const headings = [
           .then((planned) => renderWeekend(panel, planned))
           .catch(() => fail(panel));
       });
+      const strikePanel = document.querySelector("[data-strikes]")!;
+      plannedStatus(ids, strikeFrom, strikeTo)
+        .then((planned) => renderStrikes(strikePanel, planned))
+        .catch(() => fail(strikePanel));
     })
     .catch(() => {
-      for (const sel of ["[data-live]", '[data-weekend="0"]', '[data-weekend="1"]']) fail(document.querySelector(sel));
+      for (const sel of ["[data-live]", "[data-strikes]", '[data-weekend="0"]', '[data-weekend="1"]']) fail(document.querySelector(sel));
     });
 
   // A page left open refreshes "Right now" every two minutes while it is in
