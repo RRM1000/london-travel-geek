@@ -20661,8 +20661,7 @@
     "topics": [
       "barbecue",
       "british",
-      "seafood",
-      "sunday-roast"
+      "seafood"
     ],
     "sourceCount": 3,
     "tierSpread": "B2 C1",
@@ -20682,12 +20681,6 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -28747,8 +28740,7 @@
     "name": "Jones & Sons",
     "topics": [
       "breakfast-brunch",
-      "british",
-      "sunday-roast"
+      "british"
     ],
     "sourceCount": 2,
     "tierSpread": "B1 C1",
@@ -28762,12 +28754,6 @@
         "hasAward": false
       },
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34539,8 +34525,7 @@
   "ricepaddyatthewhitehorse": {
     "name": "Rice Paddy at The White Horse",
     "topics": [
-      "british",
-      "sunday-roast"
+      "british"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -34548,12 +34533,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34847,8 +34826,7 @@
     "name": "DakaDaka",
     "topics": [
       "british",
-      "new-openings",
-      "sunday-roast"
+      "new-openings"
     ],
     "sourceCount": 3,
     "tierSpread": "B3",
@@ -34864,12 +34842,6 @@
       "new-openings": {
         "sourceCount": 2,
         "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -34928,8 +34900,7 @@
     "name": "Rake at The Compton Arms",
     "topics": [
       "british",
-      "seafood",
-      "sunday-roast"
+      "seafood"
     ],
     "sourceCount": 2,
     "tierSpread": "B2",
@@ -34943,12 +34914,6 @@
         "hasAward": false
       },
       "seafood": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -34972,8 +34937,7 @@
     "name": "The Prince Arthur",
     "topics": [
       "british",
-      "new-openings",
-      "sunday-roast"
+      "new-openings"
     ],
     "sourceCount": 2,
     "tierSpread": "B2",
@@ -34987,12 +34951,6 @@
         "hasAward": false
       },
       "new-openings": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -35075,8 +35033,7 @@
     "name": "Bistro Sable",
     "topics": [
       "british",
-      "french",
-      "sunday-roast"
+      "french"
     ],
     "sourceCount": 2,
     "tierSpread": "B2",
@@ -35090,12 +35047,6 @@
         "hasAward": false
       },
       "french": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -35223,9 +35174,9 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
         "hasAward": true
       }
     },
@@ -35373,8 +35324,7 @@
   "williamiv": {
     "name": "William IV",
     "topics": [
-      "british",
-      "sunday-roast"
+      "british"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -35382,12 +35332,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -35427,9 +35371,9 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "A1 B1",
-        "tierCount": 2,
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
         "hasAward": true
       }
     },
@@ -35498,8 +35442,7 @@
   "blackcactus": {
     "name": "Black Cactus",
     "topics": [
-      "british",
-      "sunday-roast"
+      "british"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -35507,12 +35450,6 @@
     "hasAward": false,
     "byTopic": {
       "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -35533,8 +35470,7 @@
       "british",
       "dinner-and-a-show",
       "french",
-      "italian",
-      "sunday-roast"
+      "italian"
     ],
     "sourceCount": 4,
     "tierSpread": "A1 B2 C1",
@@ -35560,12 +35496,6 @@
         "hasAward": true
       },
       "italian": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -35613,9 +35543,9 @@
         "hasAward": false
       },
       "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "B1 D1",
-        "tierCount": 2,
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -72211,8 +72141,7 @@
   "longlensonluxury": {
     "name": "The Long Lens on Luxury",
     "topics": [
-      "cinemas",
-      "sunday-roast"
+      "cinemas"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -72220,12 +72149,6 @@
     "hasAward": false,
     "byTopic": {
       "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -72243,8 +72166,7 @@
   "mainnavigation": {
     "name": "Main navigation",
     "topics": [
-      "cinemas",
-      "sunday-roast"
+      "cinemas"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -72252,12 +72174,6 @@
     "hasAward": false,
     "byTopic": {
       "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -72275,8 +72191,7 @@
   "footermenu": {
     "name": "Footer menu",
     "topics": [
-      "cinemas",
-      "sunday-roast"
+      "cinemas"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -72284,12 +72199,6 @@
     "hasAward": false,
     "byTopic": {
       "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -72307,8 +72216,7 @@
   "stayintheluxuryloop": {
     "name": "Stay in the Luxury Loop",
     "topics": [
-      "cinemas",
-      "sunday-roast"
+      "cinemas"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -72316,12 +72224,6 @@
     "hasAward": false,
     "byTopic": {
       "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -72339,8 +72241,7 @@
   "withsphere": {
     "name": "with SPHERE",
     "topics": [
-      "cinemas",
-      "sunday-roast"
+      "cinemas"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -72348,12 +72249,6 @@
     "hasAward": false,
     "byTopic": {
       "cinemas": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "sunday-roast": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -107183,10 +107078,10 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
+        "sourceCount": 3,
+        "tierSpread": "A1 B2",
+        "tierCount": 2,
+        "hasAward": true
       },
       "wine-bars": {
         "sourceCount": 1,
@@ -107295,8 +107190,8 @@
       "most-beautiful-pubs",
       "sunday-roast"
     ],
-    "sourceCount": 5,
-    "tierSpread": "A2 B1 C2",
+    "sourceCount": 6,
+    "tierSpread": "A2 B2 C2",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -107313,9 +107208,9 @@
         "hasAward": true
       },
       "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "A1",
-        "tierCount": 1,
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
         "hasAward": true
       }
     },
@@ -107336,6 +107231,12 @@
         "tier": "B",
         "source": "SquareMeal",
         "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-london-gastropubs_10243"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches",
+        "quote": "#6 in Time Out's ranking. This airily retro Kensington boozer from Allsopp's brewery is designed as the platonic ideal of the pub. The Blue Stoops was the name of proprietor Jamie Allsopp's nine-time great grandfather's tavern, with this new one is a"
       },
       {
         "tier": "C",
@@ -230956,6 +230857,84 @@
       }
     ]
   },
+  "elmatthemontpelier": {
+    "name": "Elm at The Montpelier",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches",
+        "quote": "#1 in Time Out's ranking. A lavish luncheon by Elm - the Peckham gastropub side hustle from Australian chef Mike Bagnall of the very good Auguste restaurant in London Fields . Why we love it: A perfectly proportioned plate, the roast at Elm is a mast"
+      }
+    ]
+  },
+  "linglingsatgodet": {
+    "name": "Ling Ling's at Godet",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches",
+        "quote": "#2 in Time Out's ranking. A roving contemporary Cantonese residency from chefs Jenny Phung and James Shepherd, currently serving up fusion-y Sunday roasts at hip-yet-low-key Essex Road natty wine pub Godet. Why we love it: If you're gonna put a spin "
+      }
+    ]
+  },
+  "fromtheashesatfivepointstaproom": {
+    "name": "From The Ashes at Five Points Taproom",
+    "topics": [
+      "sunday-roast"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "sunday-roast": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches",
+        "quote": "#10 in Time Out's ranking. A bona fide meat feast cooked over wood that puts sustainable technique and heaps of flavour front and centre. Why we love it: In the courtyard of Hackney brewery Five Points, From The Ashes is a Sunday roast for people tha"
+      }
+    ]
+  },
   "blueboarpub": {
     "name": "The Blue Boar Pub",
     "topics": [
@@ -231083,31 +231062,6 @@
   },
   "starrating": {
     "name": "star rating",
-    "topics": [
-      "sunday-roast"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "sunday-roast": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "Pub Guide London",
-        "url": "https://pubguidelondon.com/best-sunday-roasts.html"
-      }
-    ]
-  },
-  "pricerange": {
-    "name": "price range",
     "topics": [
       "sunday-roast"
     ],

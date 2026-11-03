@@ -4,70 +4,56 @@
   "recorded": "2026-08-30",
   "sources": [
     {
-      "name": "Time Out (28 best Sunday lunches)",
+      "name": "Time Out (20 best Sunday lunch roasts)",
       "url": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches",
       "scope": "sunday-roast",
       "names": [
-        "The Golden Tooth",
-        "Rice Paddy at The White Horse",
-        "Sessions Arts Club",
-        "The Macbeth",
-        "The Duke Organic",
+        "Elm at The Montpelier",
+        "Ling Ling's at Godet",
         "Old Nun's Head",
-        "The Angel",
-        "DakaDaka",
+        "LD’s Kitchen at The Imperial Palace of Big Red",
+        "The Duke Organic",
+        "The Blue Stoops",
         "The Mall Tavern",
-        "Rake at The Compton Arms",
-        "The Prince Arthur",
+        "The Golden Tooth",
+        "The Angel",
+        "From The Ashes at Five Points Taproom",
+        "The Nelson’s",
         "Quality Chop House",
         "Camberwell Arms",
+        "Sessions Arts Club",
+        "The Macbeth",
         "Buster Mantis",
-        "Bistro Sable",
-        "The Nelson’s",
         "The Salusbury",
-        "Ekstedt at the Yard",
-        "Canton Arms",
-        "The Parakeet",
-        "The Dragon Flame at Star by Hackney Downs",
         "The Chalk Freehouse",
-        "William IV",
-        "Jones & Sons",
-        "The Audley Public House",
-        "Black Cactus",
-        "Julie's",
-        "Clapton Country Club"
+        "Canton Arms",
+        "The Dragon Flame at Star by Hackney Downs"
       ],
       "quotes": {
-        "The Golden Tooth": "#1 in Time Out's ranking. A great Green Lanes gastropub from the Papi chappies, aka chef Matthew Scott and sommelier Charlie Carr. Why we love it: This superior roast is delivered in the dining area of this new pub near Newington Green, and is one for the ",
-        "Rice Paddy at The White Horse": "#2 in Time Out's ranking. A northern Thai kitchen residency at Peckham boozer The White Horse. Why we love it: He may be Irish, but chef Paul Asher rustles up really excellent northern Thai grub.",
-        "Sessions Arts Club": "#3 in Time Out's ranking. A surprisingly good value luncheon in a Grade II-listed former courthouse in Clerkenwell. Why we love it: The stunning Sessions Arts Club feels like a tatty but much loved Tuscan villa, complete with faded plaster walls, beautiful",
-        "The Macbeth": "#4 in Time Out's ranking. A rowdy Portuguese luncheon in a revamped Hoxton boozer. Why we love it: This former indie sleaze hangout now serves excellent Portuguese cuisine and as of February 2026 has added a Sunday menu to its repertoire.",
-        "The Duke Organic": "#5 in Time Out's ranking. A revolutionary roast by London's OG organic pub. Why we love it: Don't get all the fuss about organic grub?",
-        "Old Nun's Head": "#6 in Time Out's ranking. Fit Roasts by name, fit roasts by nature, with impressive veggie and vegan options in one of our favourite London pubs . Why we love it: Taking residence at surely the only 1930s boozer to also feature a Britney Spears shrine behi",
-        "The Angel": "#7 in Time Out's ranking. A sturdy Sunday offering in a revamped pub with big bistro energy. Why we love it: This charming Highgate Village gastropub is now run by the same team as the nearby Red Lion & Sun.",
-        "DakaDaka": "#8 in Time Out's ranking. A contemporary Georgian feast that'll have all vegetarians drooling. Why we love it: The fact that DakaDaka's Supra Sunday menu launched only a month before we came to try it made the entire experience here all the more impressive",
-        "The Mall Tavern": "#9 in Time Out's ranking. An unfussy gem of a roast, in a buzzy boozer that makes Sunday afternoon feel like Friday night. Why we love it: What makes a roast go from meh to marvellous?",
-        "Rake at The Compton Arms": "#10 in Time Out's ranking. A lovingly curated, herocially sized historical meat-feast. Why we love it: Currently in residence at Highbury gastropub The Compton Arms, Rake like to serve up a touch of British culinary history with their meals.",
-        "The Prince Arthur": "#11 in Time Out's ranking. Voguish kitchen talent dealing in upmarket roasts with a difference. Why we love it: This classy London Fields boozer offers a sublime Sunday lunch, that isn 't like other roasts.",
-        "Quality Chop House": "#12 in Time Out's ranking. A three-course feast in an iconic Victorian dining room. Why we love it: This one means business.",
-        "Camberwell Arms": "#13 in Time Out's ranking. Sharing roasts in a south London gastropub from the gods. Why we love it: A supercharged roast that knows how to kick off a party (ie.",
-        "Buster Mantis": "#14 in Time Out's ranking. A ravishing Jamaican-inspired roast in Deptford. Why we love it: According to Buster Mantis - a sleek eatery in a railway arch - they serve 'neither a traditional Jamaican Sunday lunch, nor a British one, but borrow some bits that",
-        "Bistro Sable": "#15 in Time Out's ranking. A French-flavoured Sunday slap-up dinner in the Canonbury backstreets. Why we love it: Bistro Sable is a charming brick 1930s corner pub building that still looks like a boozer but in the right light also gives rustic Parisian bis",
-        "The Nelson's": "#16 in Time Out's ranking. No nonsense roasts in one of London's finest, independently owned LGBTQ+ pubs. Why we love it: If you're looking for a Sunday roast that does what it says on the tin for a reasonable price and with a side order of genital drawings",
-        "The Salusbury": "#17 in Time Out's ranking. An upmarket roast in a posh gastropub with a fab wine list. Why we love it: I enjoy a roast where everything comes on one plate.",
-        "Ekstedt at the Yard": "#18 in Time Out's ranking. A Nordic-style roast from Ekstedt at the Yard at the Great Scotland Yard Hotel. Why we love it: The vibe here is posh but Scandi, filled with hanging plants and huge multicoloured jars of pickles, and you can see the kitchen's roa",
-        "Canton Arms": "#19 in Time Out's ranking. A carnivorous menu, with a show-piece lamb shoulder for five. Why we love it: Sharing roasts for two are fairly de rigeur, but if you want to go full banquet then head to Stockwell's Canton Arms, where you and four meat-loving mat",
-        "The Parakeet": "#20 in Time Out's ranking. A chic gastropub with stained glass windows and top level atmos. Why we love it: Rumours once told that Jimi Hendrix was the first man to introduce parakeets to London, which would explain the day-glo rendering of the guitarist in",
-        "The Dragon Flame at Star by Hackney Downs": "#21 in Time Out's ranking. Oak-smoked meats and live-fire cooking, with meat sourced from top quality UK farmers. Why we love it: The Dragon Flame know how to barbecue.",
-        "The Chalk Freehouse": "#22 in Time Out's ranking. Upmarket roast at Tom Kerridge ' s Chelsea gastropub. Why we love it: If you blindly wandered into the Chalk Freehouse you might imagine that the handsome but superficially unflashy Chelsea pub might offer an unremarkable Sunday l",
-        "William IV": "#23 in Time Out's ranking. A recently revamped 200 year old Victorian boozer, with a candlelit dining room. Why we love it: Hoxton's William IV treads the line between classic and modern with gusto.",
-        "Jones & Sons": "#24 in Time Out's ranking. The actual restaurant from Boiling Point , but far less stressful. Why we love it: A vast dining room in a hidden Dalston courtyard, the on-screen celebrity status of Jones & Sons certainly isn't its only selling point.",
-        "The Audley Public House": "#25 in Time Out's ranking. An elegantly revamped Mayfair boozer with an arty twist. Why we love it: If you eat with your eyes first, then at The Audley your peepers are in for a treat.",
-        "Black Cactus": "#26 in Time Out's ranking. A highly decent roast option from BBQ pros Black Cactus . Why we love it: Now in residency at Walthamstow ' s Burnt Faith Brandy House, these pit masters have just come back from a stint in Texas, and are whipping up an epic Sunda",
-        "Julie's": "#27 in Time Out's ranking. A decadent West London spot which rustles up classy French takes on English Sunday lunch. Why we love it: From October to March, receiving the 'fancy a roast on Sunday?' text is a weekly occurrence, but around Christmas I prefer t",
-        "Clapton Country Club": "#28 in Time Out's ranking. Sunday lunch with live jazz in an old tram shed. Why we love it: A classy alternative to your classic pub lunch, Clapton Country Club switches out leather booths and low-level bustle for chandeliers and a live jazz band."
+        "Elm at The Montpelier": "#1 in Time Out's ranking. A lavish luncheon by Elm - the Peckham gastropub side hustle from Australian chef Mike Bagnall of the very good Auguste restaurant in London Fields . Why we love it: A perfectly proportioned plate, the roast at Elm is a mast",
+        "Ling Ling's at Godet": "#2 in Time Out's ranking. A roving contemporary Cantonese residency from chefs Jenny Phung and James Shepherd, currently serving up fusion-y Sunday roasts at hip-yet-low-key Essex Road natty wine pub Godet. Why we love it: If you're gonna put a spin ",
+        "Old Nun's Head": "#3 in Time Out's ranking. Fit Roasts by name, fit roasts by nature, with impressive veggie and vegan options in one of our favourite London pubs . Why we love it: Taking residence at surely the only 1930s boozer to also feature a Britney Spears shrin",
+        "LD’s Kitchen at The Imperial Palace of Big Red": "#4 in Time Out's ranking. An all-vegan roast with a heavy metal twist, courtesy of the kitchen at Camden rock pub The Imperial Palace of Big Red . Why we love it: Bristol-born &lsquo;plant-based soul food' specialists LD's Kitchen serve up a smorgasb",
+        "The Duke Organic": "#5 in Time Out's ranking. A revolutionary roast by London's OG organic pub. Why we love it: Don't get all the fuss about organic grub? Islington's The Duke of Cambridge aka The Duke Organic will win you over in a single mouthful. Back in 1998 this ba",
+        "The Blue Stoops": "#6 in Time Out's ranking. This airily retro Kensington boozer from Allsopp's brewery is designed as the platonic ideal of the pub. The Blue Stoops was the name of proprietor Jamie Allsopp's nine-time great grandfather's tavern, with this new one is a",
+        "The Mall Tavern": "#7 in Time Out's ranking. An unfussy gem of a roast, in a buzzy boozer that makes Sunday afternoon feel like Friday night. Why we love it: What makes a roast go from meh to marvellous? If you're anything like us the list is simple: excellent core coo",
+        "The Golden Tooth": "#8 in Time Out's ranking. A great Green Lanes gastropub from the Papi chappies, aka chef Matthew Scott and sommelier Charlie Carr. Why we love it: This superior roast is delivered in the dining area of this new pub near Newington Green, and is one fo",
+        "The Angel": "#9 in Time Out's ranking. A sturdy Sunday offering in a revamped pub with big bistro energy. Why we love it: This charming Highgate Village gastropub is now run by the same team as the nearby Red Lion & Sun. Roasts are hefty; our slow roasted belly o",
+        "From The Ashes at Five Points Taproom": "#10 in Time Out's ranking. A bona fide meat feast cooked over wood that puts sustainable technique and heaps of flavour front and centre. Why we love it: In the courtyard of Hackney brewery Five Points, From The Ashes is a Sunday roast for people tha",
+        "The Nelson’s": "#11 in Time Out's ranking. No nonsense roasts in one of London's finest, independently owned LGBTQ+ pubs. Why we love it: If you're looking for a Sunday roast that does what it says on the tin for a reasonable price and with a side order of genital d",
+        "Quality Chop House": "#12 in Time Out's ranking. A three-course feast in an iconic Victorian dining room. Why we love it: This one means business. The cherry on top of the Quality Chop House's magnificent meaty menu, their Sunday roast is one to truly dedicate a whole aft",
+        "Camberwell Arms": "#13 in Time Out's ranking. Sharing roasts in a south London gastropub from the gods. Why we love it: A supercharged roast that knows how to kick off a party (ie. with scotch bonnet pork fat on toast), the Camberwell Arms' entire Sunday lunch menu is ",
+        "Sessions Arts Club": "#14 in Time Out's ranking. A surprisingly good value luncheon in a Grade II-listed former courthouse in Clerkenwell. Why we love it: The stunning Sessions Arts Club feels like a tatty but much loved Tuscan villa, complete with faded plaster walls, be",
+        "The Macbeth": "#15 in Time Out's ranking. A rowdy Portuguese luncheon in a revamped Hoxton boozer. Why we love it: This former indie sleaze hangout now serves excellent Portuguese cuisine and as of February 2026 has added a Sunday menu to its repertoire. Trad diner",
+        "Buster Mantis": "#16 in Time Out's ranking. A ravishing Jamaican-inspired roast in Deptford. Why we love it: According to Buster Mantis - a sleek eatery in a railway arch - they serve &lsquo;neither a traditional Jamaican Sunday lunch, nor a British one, but borrow s",
+        "The Salusbury": "#17 in Time Out's ranking. An upmarket roast in a posh gastropub with a fab wine list. Why we love it: I enjoy a roast where everything comes on one plate. I don't want any of this plonking a load of veg on a shared platter in the middle of the table",
+        "The Chalk Freehouse": "#18 in Time Out's ranking. Upmarket roast at Tom Kerridge ' s Chelsea gastropub. Why we love it: If you blindly wandered into the Chalk Freehouse you might imagine that the handsome but superficially unflashy Chelsea pub might offer an unremarkable S",
+        "Canton Arms": "#19 in Time Out's ranking. A carnivorous menu, with a show-piece lamb shoulder for five. Why we love it: Sharing roasts for two are fairly de rigeur, but if you want to go full banquet then head to Stockwell's Canton Arms, where you and four meat-lov",
+        "The Dragon Flame at Star by Hackney Downs": "#20 in Time Out's ranking. Oak-smoked meats and live-fire cooking, with meat sourced from top quality UK farmers. Why we love it: The Dragon Flame know how to barbecue. Serving up high-end British produce with a focus on fire, this isn't your average"
       },
-      "ranked": true
+      "ranked": true,
+      "recorded": "2026-11-03",
+      "_note": "Re-recorded 3 Nov 2026 from the list as updated 26 Oct 2026, which cut the ranking from 28 to 20 and put Elm at The Montpelier first. The 30 Aug 2026 recording (28 names, The Golden Tooth #1) is in git history."
     },
     {
       "name": "The Infatuation (17 best roasts)",
@@ -128,9 +114,6 @@
       "url": "https://www.spherelife.com/restaurants/best-sunday-roasts-in-london-2026",
       "scope": "sunday-roast",
       "names": [
-        "The Long Lens on Luxury",
-        "Main navigation",
-        "Eat",
         "Elliot's",
         "The Quality Chop House",
         "CUT at 45 Park Lane",
@@ -138,22 +121,16 @@
         "The Camberwell Arms",
         "Charlie’s at Brown’s Hotel",
         "Clarence Tavern",
-        "The Red Lion & Sun",
-        "Footer menu",
-        "Stay in the Luxury Loop",
-        "with SPHERE"
+        "The Red Lion & Sun"
       ],
-      "quotes": {
-        "Footer menu": "Sphere Magazine, Soho Works, The Tea Building 4th Floor, 56 Shoreditch High St, London E1 6JJ"
-      }
+      "quotes": {}
     },
     {
       "name": "Pub Guide London (roasts)",
       "url": "https://pubguidelondon.com/best-sunday-roasts.html",
       "scope": "sunday-roast",
       "names": [
-        "star rating",
-        "price range"
+        "star rating"
       ]
     },
     {
@@ -204,7 +181,8 @@
         "The Eagle",
         "The Lady Mildmay",
         "The Blue Stoops",
-        "Parlour"
+        "Parlour",
+        "The Clarence Tavern"
       ],
       "quotes": {
         "The Devonshire": "#1 in the Estrella Damm Top 50 Gastropubs 2026 - the UK's number one, and a ranking of the pub, not specifically its roast",
@@ -229,10 +207,11 @@
         "The Eagle": "#77 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
         "The Lady Mildmay": "#83 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
         "The Blue Stoops": "#88 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
-        "Parlour": "#91 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast"
+        "Parlour": "#91 in the Estrella Damm Top 50 Gastropubs 2026 extended list (51-100) - a ranking of the pub, not specifically its roast",
+        "The Clarence Tavern": "#78 in the Estrella Damm Top 50 Gastropubs 2026 (extended 51-100 list) - a ranking of the pub, not specifically its roast"
       },
       "recorded": "2026-08-30",
-      "_note": "23 London entries across the ranked 100. Ranks the PUB, not the roast - say so wherever a placement is printed. Also relevant to the historic-pubs topic."
+      "_note": "24 London entries across the ranked 100. Ranks the PUB, not the roast - say so wherever a placement is printed. Also relevant to the historic-pubs topic."
     },
     {
       "name": "Insider Food (YouTube)",

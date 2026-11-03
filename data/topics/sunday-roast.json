@@ -2,7 +2,7 @@
   "topic": "sunday-roast",
   "article": "src/content/articles/best-sunday-roast-london.md",
   "headTerm": "Sunday Roast",
-  "status": "re-collected 2026-08-30; second award added 2026-09-21; video tier is the strongest tier in this topic; community tier thin (1 name)",
+  "status": "re-collected 2026-08-30; second award added 2026-09-21; Time Out re-recorded and furniture names stripped 2026-11-03; video tier is the strongest tier in this topic; community tier thin (1 name)",
   "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This file records what is specific to Sunday roast: the two awards that cover it, the fact that neither actually judges the roast, and the ranks the previous article got wrong.",
   "awardBodies": [
     {
@@ -39,7 +39,7 @@
       "domain": "timeout.com",
       "tier": "B",
       "ranked": true,
-      "note": "RANKED 1-28, and its ranking disagrees with everyone else's - The Golden Tooth at #1, The Macbeth at #4, and no Devonshire, Blacklock, Hawksmoor or Harwood Arms anywhere on it. Ranks recorded 2026-08-30. That disagreement is worth printing rather than smoothing over."
+      "note": "RANKED, and it is rewritten often: 1-28 with The Golden Tooth #1 when recorded 2026-08-30; cut to 1-20 with Elm at The Montpelier #1 in its 26 Oct 2026 update (re-recorded 2026-11-03). It shares only three names with the whole Estrella Damm 100 (Camberwell Arms, Canton Arms, The Blue Stoops) and has no Devonshire, Blacklock, Hawksmoor or Harwood Arms. Re-read the ranks on every pass; the Sheet's Signals column carries Time Out ranks and goes stale with it."
     },
     {
       "name": "The Infatuation",
@@ -106,17 +106,22 @@
     "Two London names in the National Pub & Bar Awards are deliberately not recorded: Somers Town Coffee House (#2 Industry's Choice 2026) and The Star by Liverpool Street (City of London county winner 2026). No operator page could be found for either, so neither can be confirmed to serve a Sunday roast, and a roast citation for a pub that may not serve one is worse than a missing one. Worth resolving on the next pass.",
     "COMMUNITY TIER IS ALMOST EMPTY. r/london contributed one name (The Gun), backed by nothing else. Reddit is blocked to curl and to the browser pane.",
     "The video tier carries more weight here than in any other topic: Blacklock's five sunday-roast citations are ALL tier D, and its editorial support belongs to the steak corpus, not this one. Printed as such rather than blended.",
-    "Time Out's list and the gastropub ranking share almost no names. Two of the sources point at genuinely different pubs, which is a finding, not noise."
+    "Time Out's list and the gastropub ranking share almost no names. Two of the sources point at genuinely different pubs, which is a finding, not noise.",
+    "The 30 Aug 2026 Sphere record carried six page-furniture strings ('Main navigation', 'Footer menu', 'with SPHERE' and others) and Pub Guide London carried 'price range'; all seven were stripped 2026-11-03. Check every Sphere re-record for them.",
+    "The Estrella Damm record missed The Clarence Tavern (#78, extended list); added 2026-11-03, making 24 London entries.",
+    "Hot Dinners' 'London's best new Sunday lunches' (24 Sep 2026) is the best source for new openings but is not recorded as a source; the article's new-openings section names its venues without citation lines. Worth recording on the next pass.",
+    "Chain deals could not be read from the operators: Toby Carvery, Harvester, Miller & Carter, Nicholson's (Mitchells & Butlers) and Fuller's all return 403 to curl. Young's prints no prices. No chain deal is on the page for that reason.",
+    "LD's Kitchen at The Imperial Palace of Big Red (Time Out #4, vegan roast) has no operator page we could find; Old Nun's Head (#3) and The Dragon Flame at Star by Hackney Downs (#20, kids' roasts from £10.50 per Time Out) likewise. Their prices are not printed."
   ],
   "currentState": {
-    "recorded": "2026-09-21",
+    "recorded": "2026-11-03",
     "sources": 20,
-    "citations": 120,
-    "namesInCorpus": 82,
-    "twoPlusDomains": 24,
-    "tierACitations": 25,
+    "citations": 106,
+    "namesInCorpus": 69,
+    "twoPlusDomains": 22,
+    "tierACitations": 26,
     "articleExists": true,
-    "meetingTheBar": 16
+    "meetingTheBar": 15
   },
   "openVenueQuestions": [
     "8 named venues have no Restaurants v2 row: The Baring, The Drapers Arms, The Macbeth, The George (Fitzrovia), Roe, Clapton Country Club, The Clarence Tavern, The Kerfield Arms.",
