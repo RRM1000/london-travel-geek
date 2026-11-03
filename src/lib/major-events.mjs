@@ -47,7 +47,10 @@ const norm = (s) => String(s ?? "").toLowerCase().replace(/&amp;/g, "and").repla
 // by two box offices. So are "England Women v Ukraine" and "... Ukraine Women".
 const matchKey = (s) => norm(s).replace(/(live)?(tour)?(20\d\d)?$/, "").replace(/women$/, "");
 // "Enter Shikari - LOSE YOUR SELF TOUR 2026" and its second night are one event.
-const shortTitle = (t) => t.replace(/\s+[-–|:]\s+.*$/, "").replace(/\s*\(.*\)\s*$/, "").trim();
+// "American Express Presents BST Hyde Park" and "Amex Presents BST Hyde Park"
+// are one festival under two sponsor spellings.
+const SPONSOR = /^(american express|amex)\s+presents\s+/i;
+const shortTitle = (t) => t.replace(SPONSOR, "").replace(/\s+[-–|:]\s+.*$/, "").replace(/\s*\(.*\)\s*$/, "").trim();
 
 const theatreUrl = (slug) => `https://www.londontheatregeek.co.uk/shows/${slug}`;
 const guideUrl = (slug) => `/articles/${slug}/`;
