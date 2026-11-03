@@ -80,9 +80,37 @@ export async function plannedStatus(ids: string[], from: string, to: string): Pr
   return toLines(await res.json());
 }
 
-/** Disrupted lines, worst first. */
-export const disrupted = (lines: LineState[]) =>
-  lines.filter((l) => l.severity !== 10).sort((a, b) => a.severity - b.severity || a.name.localeCompare(b.name));
+// The order lines are listed in, by how much a visitor depends on them - Rob,
+// 3 November 2026: the Elizabeth line, then the Tube (Piccadilly first, for
+// Heathrow), the DLR, the Overground lines and trams last. Not TfL's
+// alphabetical order, so a tram closure never heads the list.
+const ORDER = [
+  "elizabeth",
+  "piccadilly", "central", "northern", "jubilee", "victoria", "district", "circle",
+  "bakerloo", "hammersmith-city", "metropolitan", "waterloo-city",
+  "dlr",
+  "windrush", "mildmay", "lioness", "weaver", "suffragette", "liberty",
+  "tram",
+];
+const rank = (id: string) => (ORDER.includes(id) ? ORDER.indexOf(id) : ORDER.length);
+
+/** Every line, most important first. */
+export const ranked = (lines: LineState[]) => [...lines].sort((a, b) => rank(a.id) - rank(b.id) || a.name.localeCompare(b.name));
+
+/** Disrupted lines, most important first. */
+export const disrupted = (lines: LineState[]) => ranked(lines).filter((l) => l.severity !== 10);
+
+/** The worst severity among the lines given (lower is worse). */
+export const worst = (lines: LineState[]) => Math.min(...lines.map((l) => l.severity));
+
+// TfL's line colours, for the bar beside each name.
+export const COLOUR: Record<string, string> = {
+  bakerloo: "#b36305", central: "#e32017", circle: "#ffd300", district: "#00782a",
+  "hammersmith-city": "#f3a9bb", jubilee: "#a0a5a9", metropolitan: "#9b0056", northern: "#000000",
+  piccadilly: "#003688", victoria: "#0098d4", "waterloo-city": "#95cdba",
+  elizabeth: "#6950a1", dlr: "#00a4a7", tram: "#84b817",
+  liberty: "#61686b", lioness: "#ffa600", mildmay: "#006fe6", suffragette: "#18a95d", weaver: "#9b0058", windrush: "#dc241f",
+};
 
 const londonParts = (d: Date) => {
   const day = d.toLocaleDateString("en-CA", { timeZone: "Europe/London" });

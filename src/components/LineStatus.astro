@@ -25,7 +25,7 @@ const { variant } = Astro.props;
 </aside>
 
 <script>
-  import { liveStatus, disrupted, level } from "../lib/tfl-status";
+  import { liveStatus, disrupted, level, worst } from "../lib/tfl-status";
 
   const boxes = document.querySelectorAll<HTMLElement>("[data-line-status]");
   if (boxes.length) {
@@ -35,10 +35,12 @@ const { variant } = Astro.props;
         const names = bad.map((l) => l.name);
         const text = !bad.length
           ? "Good service on all lines"
-          : names.length <= 2
-            ? `${names.join(" and ")}: ${bad[0].label.toLowerCase()}`
-            : `${names.slice(0, 2).join(", ")} and ${names.length - 2} more disrupted`;
-        const tone = !bad.length ? "green" : level(bad[0].severity);
+          : names.length === 1
+            ? `${names[0]}: ${bad[0].label.toLowerCase()}`
+            : names.length === 2
+              ? `${names.join(" and ")} disrupted`
+              : `${names.slice(0, 2).join(", ")} and ${names.length - 2} more disrupted`;
+        const tone = !bad.length ? "green" : level(worst(bad));
         for (const box of boxes) {
           box.querySelector("[data-text]")!.textContent = text;
           box.querySelector<HTMLElement>("[data-dot]")!.dataset.tone = tone;
