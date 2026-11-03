@@ -11,9 +11,9 @@ import heroImage from "../assets/articles/london-underground/great-portland-stre
 
 const headings = [
   { depth: 2, slug: "right-now", text: "Right now" },
-  { depth: 2, slug: "strikes", text: "Strikes" },
   { depth: 2, slug: "this-weekend", text: "This weekend" },
   { depth: 2, slug: "next-weekend", text: "Next weekend" },
+  { depth: 2, slug: "strikes", text: "Strikes" },
   { depth: 2, slug: "reading-the-status", text: "Reading the status" },
   { depth: 2, slug: "planning-around-it", text: "Planning around a closure" },
 ];
@@ -43,12 +43,6 @@ const headings = [
       <p class="ts__wait">Checking TfL…</p>
     </div>
 
-    <h2 id="strikes">Strikes</h2>
-    <p class="ts__dates" data-strike-dates></p>
-    <div class="ts__panel" data-strikes>
-      <p class="ts__wait">Checking TfL…</p>
-    </div>
-
     <h2 id="this-weekend">This weekend</h2>
     <p class="ts__dates" data-dates="0"></p>
     <div class="ts__panel" data-weekend="0">
@@ -58,6 +52,12 @@ const headings = [
     <h2 id="next-weekend">Next weekend</h2>
     <p class="ts__dates" data-dates="1"></p>
     <div class="ts__panel" data-weekend="1">
+      <p class="ts__wait">Checking TfL…</p>
+    </div>
+
+    <h2 id="strikes">Strikes</h2>
+    <p class="ts__dates" data-strike-dates></p>
+    <div class="ts__panel" data-strikes>
       <p class="ts__wait">Checking TfL…</p>
     </div>
 
