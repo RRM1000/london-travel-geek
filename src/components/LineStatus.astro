@@ -119,10 +119,16 @@ const { variant } = Astro.props;
 
   /* On a short laptop screen the pinned column runs out of room, and the
      affiliate cards below this would be the ones cropped. Measured at 1366 wide:
-     contents, strip, tours card and Hotels.com strip need 743px. */
+     contents, strip, tours card and Hotels.com strip need 743px. There the
+     strip moves into the article, at the top, as it does on a phone. */
   @media (max-height: 47.5rem) {
     .line-status--desktop {
       display: none;
+    }
+
+    .line-status--mobile {
+      display: grid;
+      max-width: 26rem;
     }
   }
 
