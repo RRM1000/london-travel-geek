@@ -152,6 +152,7 @@ Rugby tickets are from £79 for Australia and from £51 for Japan; the New Zeala
 ### Open since 30 October
 
 - **Agatha Christie: A World of Mystery**, British Library, to **20 June 2027**. Rooms styled as a country house, a WWI dispensary, an Orient Express-style carriage, an archaeological dig and a West End theatre, with Christie's 1937 Remington typewriter and her early manuscripts. £25 at peak (weekends, bank holidays and the final month) and £20 off-peak until 21 February; [book on the British Library's site](https://events.bl.uk/exhibitions/agathachristie).
+- **Kate's Knitalian**, Air Contemporary, Ham Yard, Soho, to **5 December**. Kate Jenkins has turned the gallery into an Italian restaurant and delicatessen in which everything is knitted or crocheted: spaghetti, ravioli, tins of sardines, antipasti, cannoli and a build-your-own pizza station. More than 100 new pieces, all for sale. Free, with no booking. Open Tuesday to Friday 10am to 6pm and Saturday 10am to 5pm, **closed Sunday and Monday**. The gallery is in the courtyard of the Ham Yard Hotel, reached from Great Windmill Street or Denman Street, a few minutes from Piccadilly Circus. [Air Contemporary's exhibition page](https://www.air-contemporary.com/exhibitions/64-kate-jenkins-kate-s-knitalian/).
 
 ### Opening in November
 
