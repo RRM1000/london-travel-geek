@@ -74,9 +74,12 @@ function fromListings(listings, today) {
     if (!group) continue;
 
     const name = shortTitle(title) || title;
-    const key = `${matchKey(name)}|${norm(venue)}`;
+    // "Stevie Wonder" and "Stevie Wonder: Songs In The Key of Life Performances"
+    // are one residency at The O2, listed twice. The shorter title is kept.
+    const key = `${matchKey(name.replace(/:\s.*$/, ""))}|${norm(venue)}`;
     const e = seen.get(key);
     if (e) {
+      if (name.length < e.title.length) e.title = name;
       if (start < e.start) e.start = start;
       if (end > e.end) e.end = end;
       e.days.add(start);
@@ -172,6 +175,17 @@ export function monthPicks(all, month, limit = 10) {
   for (const [group, n] of Object.entries(shares)) picked.push(...inMonth.filter((e) => e.group === group).slice(0, n));
   return picked.sort((a, b) => a.start.localeCompare(b.start)).slice(0, limit);
 }
+
+/** A month guide's on-sale list: big events whose tickets are released that month, soonest release first. */
+export function monthOnSale(all, month, limit = 8) {
+  return all
+    .filter((e) => e.onSale && monthKey(e.onSale) === month)
+    .sort((a, b) => a.onSale.localeCompare(b.onSale) || a.start.localeCompare(b.start))
+    .slice(0, limit);
+}
+
+/** One word per group, for the month guides' tags. */
+export const GROUP_TAG = { music: "Gig", theatre: "Theatre", sport: "Sport", comedy: "Comedy", immersive: "Immersive", exhibition: "Exhibition", festival: "Festival", family: "Family" };
 
 export const shortDay = (iso) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: "UTC" });
 export const monthKey = (iso) => iso.slice(0, 7);
