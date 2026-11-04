@@ -17,7 +17,7 @@ const FULL = process.argv.includes("--full");
 // Routes that exist outside the article collection. Anything linked that is
 // neither an article nor one of these is a broken link.
 const STATIC_ROUTES = new Set([
-  "/", "/free/", "/markets/", "/plaques/", "/stay/", "/search/", "/whats-on/", "/whats-on/on-sale/",
+  "/", "/free/", "/markets/", "/plaques/", "/stay/", "/search/", "/whats-on/", "/whats-on/on-sale/", "/whats-on/big-events/", "/tube-status/",
   "/how-we-rank/", "/privacy/", "/components/", "/restaurants/", "/guides/",
   "/articles/", "/topics/", "/tags/",
 ]);
