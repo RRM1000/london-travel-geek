@@ -2,8 +2,8 @@
 title: "Things to Do in London in January: The Parade, the End of Christmas, Darts, Snooker and the Art Fair"
 seoTitle: "Things to Do in London in January 2027"
 description: "The New Year's Day Parade, Winter Wonderland closing and the rinks, the PDC darts final and Masters snooker at Alexandra Palace, MimeLondon, London Art Fair, Canary Wharf Winter Lights, new West End openings and the exhibitions closing in January 2027."
-heroImage: "../../assets/articles/ice-skating-london/hampton-court-palace.jpg"
-heroImageAlt: "The Hampton Court Palace ice rink at night, with empty ice in front of the Tudor West Front floodlit red either side of the blue-lit Great Gatehouse"
+heroImage: "../../assets/articles/things-to-do-in-london-in-january/winter-lights-canary-wharf-installation.jpg"
+heroImageAlt: "A ring of mirrored panels framed in purple light at Winter Lights, Canary Wharf, with visitors standing around it below lit office windows"
 publishedAt: 2026-11-04
 updatedAt: 2026-11-04
 reviewBy: 2026-12-15
@@ -99,6 +99,10 @@ Every rink, price and children's rule is in our [ice skating guide](/articles/ic
 ### Winter Lights, Canary Wharf — 19 to 30 January
 
 **Canary Wharf's free light-art trail runs from Tuesday 19 to Saturday 30 January, 5pm to 10pm every evening, with no booking.** Temporary light installations and sculptures are spread among the docks, squares and towers, alongside the estate's permanent artworks. The 2027 theme is RE(IMAGINE), and the artist line-up is announced in January. Stewards hand out paper maps on the night. Weekends are the busiest; a weekday evening is quieter. The [Canary Wharf guide](/articles/canary-wharf-area-guide/) has where to eat before or after.
+
+![The WINTER LIGHTS sign lit up in white at Canary Wharf at night, with a large illuminated globe and office towers behind it](../../assets/articles/things-to-do-in-london-in-january/winter-lights-canary-wharf-sign.jpg)
+
+*Winter Lights, Canary Wharf.*
 
 ### London Art Fair — 19 to 24 January
 
