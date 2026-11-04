@@ -79,7 +79,7 @@ The [2026 National Pizza Awards](https://nationalpizzaawards.co.uk/the-uks-best-
 
 *Bermondsey · 4 Tanner Street · opens 11 November 2026 · Cited by 1 source · National Pizza of the Year and Pizza Chef of the Year 2026, National Pizza Awards · [website](https://fivefeet.co.uk/)*
 
-Jack Ellingham won the national title with a Sicilian, or Grandma-style, square pie: sausage and broccoli over vodka sauce, with fior di latte, provolone, friarielli greens, pickled chillies, ricotta and Coolea cheese. He also took Pizza Chef of the Year in the technical round. Ellingham was a baker at Dusty Knuckle; the restaurant comes from Jay Patel of Legare, also in Bermondsey.
+The title is decided at a live cook-off, where finalists make their pizza in front of the judges, so Five Feet won it a week before opening its doors. Jack Ellingham won with a Sicilian, or Grandma-style, square pie: sausage and broccoli over vodka sauce, with fior di latte, provolone, friarielli greens, pickled chillies, ricotta and Coolea cheese. He also took Pizza Chef of the Year in the technical round. Ellingham was a baker at Dusty Knuckle; the restaurant comes from Jay Patel of Legare, also in Bermondsey.
 
 > ⚠️ **Evenings only.** Five Feet opens on 11 November and serves Tuesday to Saturday evenings.
 
