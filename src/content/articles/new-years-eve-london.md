@@ -244,6 +244,7 @@ Or book a table for 7pm, walk home and have a lie-in; our [cocktail bars](/artic
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)**
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)**
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)**: carols, pantos and Christmas Day closures
+- 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)**: the Parade, the end of the Christmas season and the first weeks of the year
 
 ---
 

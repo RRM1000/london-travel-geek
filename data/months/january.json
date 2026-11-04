@@ -1,0 +1,202 @@
+{
+  "month": "january",
+  "monthNumber": 1,
+  "article": "src/content/articles/things-to-do-in-london-in-january.md",
+  "note": "THE SPINE. What is true about January EVERY year: the annual fixtures as date RULES, and the character of the month. Everything true in one year only lives in january-<year>.json. Same shape as the December spine so scripts/check-month-freshness.mjs reads both the same way.",
+  "rules": "A fixture belongs here only if it recurs annually AND is run by a body with a website. Dates come from the organiser, never a listings site. Every entry carries `official` and `verified`. If a fixture is missed in a year, do not delete it: set `status` and say why. Anything a listings site or a language model will confidently place in January that is actually elsewhere, or in another month, goes in `notInJanuary` with the proof.",
+  "character": {
+    "inOneLine": "The coldest month by daily high, with the Christmas machinery switched off after the first weekend, then art, snooker, theatre openings and the first sales of the year.",
+    "weather": "Met Office Heathrow monthly records, 1991 to 2020 averages (computed from the Met Office's station data file): a daily high of 8.4C, a daily low of 2.7C, 58.8mm of rain, 59.0 hours of sunshine and 6.8 air-frost days. January has the lowest daily high of any month; December has more air frost (7.2 days) and less sunshine (53 hours).",
+    "daylight": "Sunset in central London (51.5074N, 0.1278W, GMT all month) is 4.01pm on 1 January, 4.12pm on the 10th, 4.20pm on the 15th and 4.47pm on the 31st. Sunrise moves from 8.05am on the 1st to 7.40am on the 31st. Day length grows from 7 hours 56 minutes to 9 hours 7 minutes. Source: api.sunrise-sunset.org for the central London coordinates, UTC equals GMT all month.",
+    "crowds": "The first weekend is the last of the Christmas crowds. Schools in England are back around 4 January and January has no half term; 1 January is the only bank holiday. Weekdays after the first weekend are the quietest of the year at most attractions.",
+    "seasonShape": "Four beats: New Year's Day (the Parade, closures, rail engineering), the Christmas wind-down (Winter Wonderland, Kew, rinks and markets close from 3 to 10 January), the sports and theatre run (darts final, Masters snooker, West End openings, the New Year Sale) and the art and festival fortnight in the second half (MimeLondon, London Art Fair)."
+  },
+  "standingSections": {
+    "note": "Slots that recur every year. Source each from the operator, not a listings site.",
+    "theatreOpeningsAndClosings": {
+      "sourceFrom": "The theatre's or producer's own what's-on page, or Official London Theatre's show pages. The Christmas Nutcrackers, pantos and Bourne's Christmas show end between 3 and 17 January."
+    },
+    "exhibitionsOpeningAndClosing": {
+      "sourceFrom": "The museum's own what's-on page. Most big autumn exhibitions close on 31 January or earlier; few open in January."
+    },
+    "sportAndAlexandraPalace": {
+      "sourceFrom": "Alexandra Palace's own what's-on pages (darts final, Masters snooker); the FA's round-dates page; the Premier League's fixtures feed for London home games."
+    }
+  },
+  "fixtures": [
+    {
+      "id": "london-new-years-day-parade",
+      "name": "London New Year's Day Parade",
+      "what": "A parade of marching bands, dancers, cheerleaders and floats from Piccadilly to Whitehall, free to watch standing, with ticketed grandstand and VIP seating.",
+      "dateRule": "1 January every year. 2027: Friday 1 January, 1pm to 4.30pm.",
+      "typical": "1 January, early afternoon",
+      "area": "Piccadilly, Regent Street, St James's, Pall Mall, Trafalgar Square and Whitehall",
+      "price": "Free standing; grandstand, VIP and Fun Zone tickets sold through Ticketmaster.",
+      "booking": "Seats through Ticketmaster; none needed to stand.",
+      "official": "https://londonparade.com/parade-location-timing/",
+      "verified": "2026-11-04",
+      "internalLink": "/articles/new-years-eve-london/"
+    },
+    {
+      "id": "christmas-wind-down",
+      "name": "The end of the Christmas season",
+      "what": "Hyde Park Winter Wonderland, Christmas at Kew, the Hampton Court rink and most chalet markets close on the first weekend of January; Somerset House's rink runs about a week longer.",
+      "dateRule": "First Sunday of January for most; Somerset House about the second Sunday. 2027: 3 January (Winter Wonderland, Kew, Hampton Court, Battersea Power Station), 4 January (Alexandra Palace Festive Skate), 10 January (Somerset House).",
+      "typical": "3 to 10 January",
+      "area": "Hyde Park, Kew, Hampton Court, Battersea, Alexandra Palace, Somerset House",
+      "price": "Ticketed",
+      "booking": "Operators' own sites.",
+      "official": "https://hydeparkwinterwonderland.com/tickets-guide/",
+      "verified": "2026-11-04",
+      "internalLink": "/articles/hyde-park-winter-wonderland/"
+    },
+    {
+      "id": "pdc-world-darts-final",
+      "name": "PDC World Darts Championship, to the final",
+      "what": "The world title tournament at Alexandra Palace, ending in the first days of January.",
+      "dateRule": "Mid-December to 3 January. 2026-27: 11 December 2026 to 3 January 2027, Great Hall.",
+      "typical": "Ends 3 January",
+      "area": "Alexandra Palace",
+      "price": "Ticketed; allocated by ballot in 2026-27.",
+      "booking": "Ballot closed; resale only via the organiser's official platform.",
+      "official": "https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/",
+      "verified": "2026-11-04"
+    },
+    {
+      "id": "masters-snooker",
+      "name": "Masters snooker",
+      "what": "Invitation tournament for the world's top 16 players, held at Alexandra Palace since 2012.",
+      "dateRule": "Mid-January, a Sunday to Sunday. 2027: 10 to 17 January, West Hall, doors 11.30am.",
+      "typical": "Second to third week of January",
+      "area": "Alexandra Palace",
+      "price": "Ticketed",
+      "booking": "Alexandra Palace's page.",
+      "official": "https://www.alexandrapalace.com/whats-on/johnstones-paint-masters-snooker-2027/",
+      "verified": "2026-11-04"
+    },
+    {
+      "id": "london-art-fair",
+      "name": "London Art Fair",
+      "what": "Modern and contemporary galleries selling direct, at the Business Design Centre in Islington.",
+      "dateRule": "Third week of January. 2027: preview Tuesday 19 January, public Wednesday 20 to Sunday 24 January (the 39th edition).",
+      "typical": "Mid-to-late January",
+      "area": "Islington",
+      "price": "Day ticket £27.75 in advance including a £4.25 fee, £28 on the door; preview evening £42.75 advance; Wednesday Late £21.25; Premier Pass £50.25.",
+      "booking": "Fair's ticket page.",
+      "official": "https://www.londonartfair.co.uk/tickets/",
+      "verified": "2026-11-04",
+      "internalLink": "/articles/islington-area-guide/"
+    },
+    {
+      "id": "mimelondon",
+      "name": "MimeLondon",
+      "what": "A season of visual and physical theatre curated with the Barbican, Sadler's Wells, Southbank Centre and The Place. It continues the London International Mime Festival (1977 to 2023).",
+      "dateRule": "Mid-January to early February. 2027: supported events 9 January to 6 February.",
+      "typical": "January to early February",
+      "area": "Barbican, Southbank Centre, Sadler's Wells East, The Place",
+      "price": "Set by each venue.",
+      "booking": "Each venue's box office, linked from mimelondon.com.",
+      "official": "https://mimelondon.com/",
+      "verified": "2026-11-04"
+    },
+    {
+      "id": "official-london-theatre-new-year-sale",
+      "name": "Official London Theatre New Year Sale",
+      "what": "Society of London Theatre's winter discount campaign (earlier branded Get Into London Theatre).",
+      "dateRule": "Launches early January. 2027: 5 January; end date and terms not yet published.",
+      "typical": "January into February",
+      "area": "West End",
+      "price": "Varies by show.",
+      "booking": "officiallondontheatre.com",
+      "official": "https://officiallondontheatre.com/new-year-sale/",
+      "verified": "2026-11-04"
+    },
+    {
+      "id": "fa-cup-third-round",
+      "name": "FA Cup third round proper",
+      "what": "Premier League and Championship clubs enter the FA Cup.",
+      "dateRule": "A Saturday in the first half of January. 2027: Saturday 9 January.",
+      "typical": "Second weekend of January",
+      "area": "Wherever the draw sends it",
+      "price": "Ticketed",
+      "booking": "Clubs' own sites after the draw.",
+      "official": "https://www.thefa.com/competitions/thefacup/round-dates",
+      "verified": "2026-11-04"
+    },
+    {
+      "id": "premier-league-london-january",
+      "name": "Premier League London home games",
+      "what": "Home games of Arsenal, Brentford, Chelsea, Crystal Palace, Fulham and Spurs.",
+      "dateRule": "Fixtures are set each summer; the League's listed kick-offs move when broadcasters pick games.",
+      "typical": "Weekends and midweek rounds",
+      "area": "London",
+      "price": "Ticketed",
+      "booking": "Clubs' own sites.",
+      "official": "https://fantasy.premierleague.com/api/fixtures/",
+      "verified": "2026-11-04",
+      "verifiedNote": "Read from the League's own fixtures feed on 4 November 2026.",
+      "internalLink": "/articles/premier-league-tickets-london/"
+    }
+  ],
+  "notInJanuary": [
+    {
+      "name": "Chinese New Year in London",
+      "theError": "Listings sites place Chinatown's celebration in January.",
+      "theTruth": "Lunar New Year 2027 falls on Saturday 6 February; the celebration is in February.",
+      "official": "https://www.rmg.co.uk/whats-on",
+      "verified": "2026-11-04",
+      "verifiedNote": "Royal Museums Greenwich lists its own Lunar New Year day on Saturday 13 February 2027."
+    },
+    {
+      "name": "London International Mime Festival",
+      "theError": "Still listed as an annual January festival by older pages.",
+      "theTruth": "It ended with its 47th edition in 2023; MimeLondon is the successor.",
+      "official": "https://mimelondon.com/about-mimelondon/",
+      "verified": "2026-11-04"
+    },
+    {
+      "name": "Kids Week",
+      "theError": "Often listed as a January family event.",
+      "theTruth": "It runs through the summer holidays; the 2026 edition is over and 2027 is announced only as 'back before you know it'.",
+      "official": "https://officiallondontheatre.com/kids-week/",
+      "verified": "2026-11-04"
+    },
+    {
+      "name": "Six Nations",
+      "theError": "Assumed to start in January.",
+      "theTruth": "The 2027 championship starts on 5 February.",
+      "official": "https://en.wikipedia.org/wiki/2027_Six_Nations_Championship",
+      "verified": "2026-11-04"
+    },
+    {
+      "name": "Get Into London Theatre",
+      "theError": "The old brand for the January deals.",
+      "theTruth": "The campaign now runs as Official London Theatre's New Year Sale, launching 5 January 2027.",
+      "official": "https://officiallondontheatre.com/new-year-sale/",
+      "verified": "2026-11-04"
+    }
+  ],
+  "recurringButUnverified": [
+    {
+      "id": "winter-lights-canary-wharf",
+      "name": "Winter Lights, Canary Wharf",
+      "typical": "Second half of January, nightly about 5pm to 10pm, free",
+      "official": "https://www.canarywharf.com/whats-on/winter-lights/",
+      "reason": "No 2027 dates read; canarywharf.com does not return to curl."
+    },
+    {
+      "id": "burns-night",
+      "name": "Burns Night, 25 January",
+      "typical": "25 January; Boisdale (Belgravia and Canary Wharf) runs a Burns week",
+      "official": "https://www.boisdale.co.uk/burns-night",
+      "reason": "Boisdale's page still shows the 2026 programme."
+    },
+    {
+      "id": "january-sales",
+      "name": "January sales",
+      "typical": "Starts around Boxing Day or New Year",
+      "official": "https://www.libertylondon.com/uk/sale",
+      "reason": "No 2027 sale dates published by the stores read."
+    }
+  ]
+}

@@ -234,5 +234,6 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)**
 - 🍽️ **[Christmas Day Restaurants in London](/articles/christmas-day-restaurants-london/)**
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)**: the month's dates, closures and Christmas Day transport
+- 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)**: when each pantomime and Nutcracker ends
 
 *Prices change as performances sell, so check the booking page.*

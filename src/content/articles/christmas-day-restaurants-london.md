@@ -132,3 +132,4 @@ A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theri
 - 🍽️ **[Special occasion restaurants](/articles/special-occasion-restaurants-london/)** — for the rest of the year
 - 🚇 **[Getting around London](/articles/getting-around-london-transport-guide/)** — including what runs over the festive week
 - 🗓️ **[Things to do in London in December](/articles/things-to-do-in-london-in-december/)** — what shuts on 24, 25 and 26 December and the rail closures
+**[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — when the Christmas season ends and what is open on New Year's Day

@@ -33,7 +33,7 @@ London's outdoor rinks open between the end of October and the third week of Nov
 
 ---
 
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas markets](/articles/christmas-markets-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
 ## The rinks at a glance
 

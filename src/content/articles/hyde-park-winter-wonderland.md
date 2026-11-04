@@ -37,7 +37,7 @@ Half a million £1 tickets get people through the gate; the ice rink is £19.25 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [London's other Christmas markets](/articles/christmas-markets-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/)
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [London's other Christmas markets](/articles/christmas-markets-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
 
 ## The short version
 
