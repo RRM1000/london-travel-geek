@@ -146,7 +146,7 @@ On **Friday and Saturday nights**, 24-hour service operates across six lines:
 Standard off-peak fares apply.
 
 ### Weekend Engineering Work
-TfL does track maintenance and signalling upgrades over weekends. Before heading out on Saturday or Sunday, especially for airport flights or theatre shows, check the [TfL Planned Closures Page](https://tfl.gov.uk/status-updates/planned-track-closures) or use the **TfL Go App**.
+TfL does track maintenance and signalling upgrades over weekends. Before heading out on Saturday or Sunday, especially for airport flights or theatre shows, check our [tube status page](/tube-status/), which lists the closures for this weekend and next, or use the **TfL Go App**.
 
 **Changing between King's Cross St Pancras and the main line stations** is via the King's Cross Lightwall pedestrian tunnel. Follow signs for St Pancras International rather than heading up to street level.
 

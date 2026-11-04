@@ -203,7 +203,7 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 | Sat 21 and Sun 22 Nov | Heathrow, Uxbridge and Stratford journeys | The Piccadilly line between Hammersmith and Heathrow or Uxbridge, with the Metropolitan line closed from Harrow-on-the-Hill to Uxbridge; the DLR is closed between Canning Town and Stratford International |
 | Sat 28 and Sun 29 Nov | London Museum opening | The Elizabeth line along its whole length, with Paddington closed and no Heathrow Express; the whole Hammersmith & City line; the Circle line between Hammersmith or High Street Kensington and Tower Hill, via King's Cross St Pancras; the Metropolitan line from Baker Street to Aldgate; and the District line from High Street Kensington to Edgware Road |
 
-TfL updates these as the dates get closer, so check the [live status page](https://tfl.gov.uk/tube-dlr-overground/status/) before you set out.
+TfL updates these as the dates get closer, so check our [live tube status page](/tube-status/) before you set out.
 
 ## Practical: November in London
 
