@@ -129,7 +129,7 @@ One of the **oldest Korean restaurants in New Malden**, family-run and plainer t
 
 Order **sundubu jjigae** (soft tofu stew, arriving still boiling) and **jeon**, the savoury pancakes. The **yukhoe** beef tartare is also on the menu. Barbecue is available but is not the draw.
 
-**Walk-in and cheap.** A short bus or walk from New Malden station.
+**Closed Mondays;** open Tuesday to Sunday for lunch and dinner. Cheap, and a short bus or walk from New Malden station.
 
 ### Seoul Matjib, Burlington Road
 

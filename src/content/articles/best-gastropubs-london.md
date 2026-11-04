@@ -82,7 +82,7 @@ The real cost at the walk-ins is the wait. At The Devonshire and The Audley, arr
 
 Two businesses in one building. **Downstairs is a pub run by Oisin Rogers**, who made his name at The Guinea, with a large share of the crowd there for the Guinness. **Upstairs is a wood-ember grill** under Ashley Palmer-Watts, formerly of The Fat Duck and Dinner by Heston: Scottish beef dry-aged and butchered on site, langoustines from Oban, day-boat fish. The Infatuation singles out the lamb hotpot, duck-fat chips and sticky toffee pudding.
 
-It won **Gastropub of the Year at the National Restaurant Awards**, and it is on Michelin's list of London's best dining pubs. Five video creators have filmed it, more than any other pub here.
+It was named **Gastropub of the Year at the National Restaurant Awards in June 2026**, where it also placed 18th in the UK Top 100, and it is on Michelin's list of London's best dining pubs. Five video creators have filmed it, more than any other pub here.
 
 **How to get in:** the restaurant books online, with à la carte bookings opening every Thursday at 10.30am for three weeks ahead. The pub downstairs takes no bookings at all, drinks or snacks, and **the roof terrace is walk-in only**, which on a dry day is the realistic way in. Sunday lunch, 12pm to 4pm, is a Sunday lunch menu only.
 

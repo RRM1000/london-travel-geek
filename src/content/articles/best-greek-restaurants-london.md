@@ -45,7 +45,7 @@ London's Greek restaurants are two cities. One is the modern Greek dining room: 
 ## Booking at a glance
 
 * **Weeks ahead:** Oma (tables released 30 days out), Zylia (bookings open 60 days ahead).
-* **A few days:** Kima (a small room), Maza, Opso, Pyro, Mazi, Myrtos, Taverna Ermou, Krokodilos, Clio, Vori, and Tsiakkos & Charcoal and Halepi for evenings.
+* **A few days:** Kima (a small room), Maza, Opso, Pyro, Mazi, Myrtos, Taverna Ermou, Clio, Vori, and Tsiakkos & Charcoal and Halepi for evenings.
 * **Walk-in friendly:** Agora is mostly walk-in from 5pm to 9.30pm; Lagana and Suzi Tros hold tables back; most of Evi's diners walk in.
 * **By phone or email:** Andy's Taverna (email), Retsina (phone), Daphne (phone).
 * **Counters, no booking needed:** Suvlaki, Pittagoras, Tony's Pita, The Souvlaki, Paneri Taverna, Dionysus.
@@ -63,7 +63,7 @@ London's Greek restaurants are two cities. One is the modern Greek dining room: 
 | **Camden & Primrose Hill** | Andy's Taverna, Daphne, Alexander the Great, Lemonia |
 | **Belsize Park & Swiss Cottage** | Retsina, Tony's Pita |
 | **Notting Hill & Bayswater** | Mazi, Suzi Tros, Zephyr, Aphrodite Taverna, Halepi |
-| **Holland Park & Kensington** | Vori, Krokodilos |
+| **Holland Park & Kensington** | Vori |
 | **Maida Vale** | Tsiakkos & Charcoal |
 | **South Kensington & Chelsea** | Myrtos, Bottarga |
 | **Clerkenwell** | Attica |
@@ -329,16 +329,6 @@ The owner's recommendations, as Luxury London reports them, are the **smoked aub
 
 **It takes bookings but keeps space for walk-ins;** confirm your table by 4pm on the day.
 
-### Krokodilos, Kensington — wild goat for two
-
-*£££ · Lancer Square, 28A Kensington Church Street, W8 4EP · Cited by 3 sources · [book a table](https://www.krokodilos.co.uk/reservations)*
-
-A large, smart Greek restaurant from the group behind Wild Tavern, cooked by Angelos Togias, who worked at The Connaught. Athinorama describes a bronze, peach and gold room split into three, and a tasting of five Greek olive oils to start.
-
-Hot Dinners says to "save room for the phenomenal **wild goat**, cooked for 14 hours"; it comes with Cretan spaghetti at £45 a head for two. Grace Dent's order was the **prawn saganaki** (£32). The Infatuation disagrees, rating it 6.8 and calling it forgettable.
-
-**Prices are high:** signature dishes run from £28 to £34.
-
 ### Clio, Marylebone — new on Chiltern Street
 
 *£££ · 66 Chiltern Street, W1U 4EJ · Michelin selected, 2026 guide · Cited by 2 sources · [the restaurant's site](https://cliorestaurant.co.uk/)*
@@ -546,7 +536,7 @@ Named by one source each, mostly Eater London's 2020 and 2022 maps.
 
 *£ · 21 Bateman Street, W1D 3AL · #16 of 17, Time Out · Cited by 2 sources · [the restaurant's site](https://www.suvlaki.co.uk/)*
 
-A small room off Frith Street, from two founders from Athens, with a second branch in Shoreditch. Time Out says the meat is threaded on site daily and cooked over charcoal on a robata grill.
+A small room off Frith Street, from two founders from Athens. Time Out says the meat is threaded on site daily and cooked over charcoal on a robata grill.
 
 **Wraps are £9.50 to £10,** skewer plates £11 to £12. Open until 9.30pm, and 10.30pm on Friday and Saturday.
 

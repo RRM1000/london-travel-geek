@@ -266,12 +266,10 @@ Named by the sources but not written up above.
 | **Chelsea Grill** | Chelsea | £££ | 1 source · #55, World's 101 | Placed 55th in the world |
 | **Sucre** | Soho | £££ | 2 sources | Argentine wood-fire cooking in a large Soho basement |
 | **Gaucho** | Various | £££ | 2 sources | The Argentine chain, with sites across London |
-| **M Restaurant** | Threadneedle Street | ££££ | 2 sources | A tasting flight of beef from different countries, side by side |
 | **Daffodil Mulligan** | Old Street | £££ | 2 sources | Irish cooking over fire from Richard Corrigan |
 | **Karve Steakhouse** | Lower Clapton | ££ | 1 source | Everything over wood fire, and halal |
 | **Smiths of Smithfield** | Farringdon | £££ | 1 source | Next to Smithfield meat market |
 | **Brutto** | Clerkenwell | ££ | — | The Florentine T-bone for sharing |
-| **Zelman Meats** | Knightsbridge | ££ | — | Sliced picanha and sharing cuts, from the Goodman group |
 
 [See all steak restaurants →](/restaurants/cuisine/british)
 
