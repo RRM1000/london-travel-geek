@@ -49,6 +49,8 @@ New Year's Day opens with the Parade, and Winter Wonderland and the Christmas tr
 | Sun 17 Jan | Masters snooker ends; Matthew Bourne's Cinderella ends | Ticketed |
 | Tue 19 Jan | Winter Lights opens at Canary Wharf, to 30 January; London Art Fair preview evening; Dirty Dancing opens at the Prince Edward Theatre | Winter Lights free |
 | Wed 20 to Sun 24 Jan | London Art Fair open to the public | From £27.75 |
+| Wed 27 Jan | Irish Film Festival London opens, to 31 January | Ticketed |
+| Thu 28 Jan | Destinations travel show at Olympia, to 31 January | Ticketed |
 | Sun 31 Jan | Renoir and Love, Painting the French Riviera and Korea close | Ticketed |
 
 <div data-big-events="2027-01"></div>
@@ -121,6 +123,14 @@ Every rink, price and children's rule is in our [ice skating guide](/articles/ic
 - **Buster Keaton's *The General***, Barbican Cinema 1, Sunday 31 January at 3pm, with live music by Haiku Salut.
 
 Each show is booked through its own venue, linked from the [MimeLondon site](https://mimelondon.com/).
+
+### Irish Film Festival London — 27 to 31 January
+
+**The 15th Irish Film Festival London moves from November to January this time, running from Wednesday 27 to Sunday 31 January.** The opening-night gala is at the Vue in Leicester Square on the 27th, and screenings then spread across London cinemas, with the Irish Film Awards at the Century Club in Soho on Monday 1 February. The programme comes from the organisers, Irish Film & TV UK.
+
+### Destinations: The Holiday & Travel Show — 28 to 31 January
+
+**The holiday and travel show is at Olympia London from Thursday 28 to Sunday 31 January**, with tour operators, tourist boards and travel talks under one roof. [Tickets are on the show's site](https://www.destinationsshow.com/london).
 
 ## Theatre
 
