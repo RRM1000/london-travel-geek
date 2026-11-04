@@ -3,8 +3,8 @@ title: "The Best Pizza in London, Cross-Referenced Across Every Major List and R
 seoTitle: "Best Pizza in London 2026: Ranked Across Major Lists"
 description: "Not our opinion. Every pizzeria here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-08-22
-updatedAt: 2026-10-26
-reviewBy: 2026-11-04
+updatedAt: 2026-11-04
+reviewBy: 2026-11-18
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -14,7 +14,7 @@ heroImage: "../../assets/articles/best-pizza-london/crisp-pizza.jpg"
 heroImageAlt: "A New Haven-style pepperoni pizza at Crisp in Mayfair, its crust blistered and charred dark at the edge, topped with cupped pepperoni, tomato and spoonfuls of ricotta, on a metal pan"
 faq:
   - q: "What is the best pizza in London?"
-    a: "Three judges, three answers. The National Pizza Awards gave the 2025 national title to Short Road Pizza, a residency in a Leyton brewery pub, and Time Out ranks it first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for 2026. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve."
+    a: "The judges disagree. The National Pizza Awards gave the 2026 national title to Five Feet, a Bermondsey pizzeria opening on 11 November 2026, and the 2025 one to Short Road Pizza, a residency in a Leyton brewery pub that Time Out ranks first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for 2026. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve."
   - q: "Where is the best pizza in central London?"
     a: "50 Kalò is a minute from Charing Cross and placed fourth in Europe in the 2026 rankings, which makes it the highest-ranked pizzeria you can reach without leaving the tourist core. For New York-style, Crisp Pizza in the basement of a Mayfair pub is the one the critics rate highest — but it does not serve pizza on Mondays."
   - q: "Do I need to book a pizzeria in London?"
@@ -27,14 +27,14 @@ faq:
 
 London cooks several kinds of pizza: a soft Neapolitan you eat with a knife and fork, a foldable New York slice, a Detroit square with the cheese burnt crisp against the pan, a Chicago pie deep enough to need a spoon, and a Roman base rolled thin enough to snap.
 
-The judges disagree too: the Italians pick a Neapolitan pizzeria in Chiswick and the British pick a pub kitchen in Leyton. This guide opens with the three places that won something, then sorts the rest by style.
+The judges disagree too: the Italians pick a Neapolitan pizzeria in Chiswick and the British pick a Bermondsey newcomer for 2026 and a pub kitchen in Leyton for 2025. This guide opens with the places that won something, then sorts the rest by style.
 
-> 💡 **The Short Version:** **Short Road Pizza** won National Pizza of the Year 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
+> 💡 **The Short Version:** **Five Feet** in Bermondsey won National Pizza of the Year 2026 and opens on 11 November. **Short Road Pizza** won in 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
 
 > 📊 **The evidence behind this guide.**
-> **31 sources carrying 260 citations** across **125 named pizzerias**. **39 pizzerias are named by two or more independent sources; 23 carry a dated award.**
-> **Built on:** the [National Pizza Awards](https://nationalpizzaawards.co.uk/previous-winners), [50 Top Pizza](https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/) and the [PAPA Industry Awards](https://www.papaindustryawards.co.uk/award-winners-2025); the editorial mastheads; London pizza creators.
-> *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
+> **31 sources carrying 262 citations** across **126 named pizzerias**. **39 pizzerias are named by two or more independent sources; 24 carry a dated award.**
+> **Built on:** the [National Pizza Awards](https://nationalpizzaawards.co.uk/the-uks-best-pizza), [50 Top Pizza](https://www.50toppizza.it/50-top-pizza-europa-2026-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe-for-2026/) and the [PAPA Industry Awards](https://www.papaindustryawards.co.uk/award-winners-2025); the editorial mastheads; London pizza creators.
+> *Evidence rebuilt 4 November 2026 · [How we rank →](/how-we-rank/)*
 
 ## Where they are
 
@@ -69,11 +69,19 @@ The judges disagree too: the Italians pick a Neapolitan pizzeria in Chiswick and
 
 ---
 
-## The three number ones
+## The number ones
 
-Three different winners: 50 Top Pizza marks Neapolitan technique, the National Pizza Awards and Time Out pick the best thing to eat regardless of style, and the citation count measures how many independent sources name the same address.
+Different judges, different winners: 50 Top Pizza marks Neapolitan technique, the National Pizza Awards and Time Out pick the best thing to eat regardless of style, and the citation count measures how many independent sources name the same address.
 
-The 2026 national title is still open. Sixteen kitchens cook in front of the judges at **[Big Penny Social in London on 3 November 2026](https://nationalpizzaawards.co.uk/finalists)**, and six of them are London: Bad Boy Pizza Society, Crust Bros, Franco Manca, Pizza Pilgrims, Yard Sale Pizza and the newcomer Five Feet. Bad Boy, which won in 2022 and 2024, is going for a third.
+The [2026 National Pizza Awards](https://nationalpizzaawards.co.uk/the-uks-best-pizza) were judged at Big Penny Social in Walthamstow on 3 November. Five Feet won, Stretch in Hove came second and Bad Boy Pizza Society third. Crust Bros, Franco Manca, Pizza Pilgrims and Yard Sale Pizza were the other London finalists.
+
+### Five Feet, Bermondsey
+
+*Bermondsey · 4 Tanner Street · opens 11 November 2026 · Cited by 1 source · National Pizza of the Year and Pizza Chef of the Year 2026, National Pizza Awards · [website](https://fivefeet.co.uk/)*
+
+Jack Ellingham won the national title with a Sicilian, or Grandma-style, square pie: sausage and broccoli over vodka sauce, with fior di latte, provolone, friarielli greens, pickled chillies, ricotta and Coolea cheese. He also took Pizza Chef of the Year in the technical round. Ellingham was a baker at Dusty Knuckle; the restaurant comes from Jay Patel of Legare, also in Bermondsey.
+
+> ⚠️ **Evenings only.** Five Feet opens on 11 November and serves Tuesday to Saturday evenings.
 
 ### Short Road Pizza, Leyton
 
@@ -137,9 +145,9 @@ Most sites sell whole pies rather than slices. There are four — 22 Paddington 
 
 ### Bad Boy Pizza Society, Covent Garden
 
-*£ · Covent Garden · Seven Dials Market · walk-in · Cited by 8 sources · #3 of 21, Time Out · #6 of 12, The Infatuation · [website](https://badboypizzasoc.com/locations/)*
+*£ · Covent Garden · Seven Dials Market · walk-in · Cited by 8 sources · 3rd, National Pizza Awards 2026 · #3 of 21, Time Out · #6 of 12, The Infatuation · [website](https://badboypizzasoc.com/locations/)*
 
-Twenty-two-inch New York pies sold by the slice from a counter inside Seven Dials Market, and a two-time National Pizza of the Year winner — 2022 with the Pepperoni Alla Vodka, 2024 with the Sausage Party. It is back in the 2026 final with a pizza called the Vodka Sausage.
+Twenty-two-inch New York pies sold by the slice from a counter inside Seven Dials Market, and a two-time National Pizza of the Year winner — 2022 with the Pepperoni Alla Vodka, 2024 with the Sausage Party. It took third in 2026 with the Vodka Sausage.
 
 The brand also runs residencies at Vinegar Yard and The Railway in Tulse Hill, and opened its first permanent restaurant, Bad Boy Pizzeria, at 419 Bethnal Green Road in August 2025.
 
@@ -191,7 +199,7 @@ Small, and the queue moves quickly. The Bushey branch at 42 High Street is where
 
 *££ · Clapton · 105 Lower Clapton Road · walk-in · Cited by 6 sources · 3rd, National Pizza Awards 2025 · #8 of 21, Time Out · [website](https://yardsalepizza.com/shop/clapton/)*
 
-Started in a back-yard oven in Homerton in 2014. British ingredients and a vegan menu. Paolo Burini's Ragu Pazzo took third in Britain in 2025, and the kitchen is back in the 2026 final with The Gaeng Pizza Gang.
+Started in a back-yard oven in Homerton in 2014. British ingredients and a vegan menu. Paolo Burini's Ragu Pazzo took third in Britain in 2025, and the kitchen reached the 2026 final with The Gaeng Pizza Gang.
 
 Six London sites: Clapton, East Dulwich, Hackney Road, Leytonstone, Walthamstow and Finsbury Park. Clapton is the original.
 
@@ -355,7 +363,7 @@ Twenty-inch pizzas sold whole or by the slice, with toppings split across halves
 
 *££ · Soho · 5 min from Tottenham Court Road · bookable, rarely needed · Cited by 8 sources · Pizza Restaurant Chain of the Year, PAPA Industry Awards 2025 · [book a table](https://www.pizzapilgrims.co.uk/bookings)*
 
-Started as a Soho market cart in 2012 and now runs across London. It won Pizza Restaurant Chain of the Year at the 2025 PAPA Industry Awards, reached the National Pizza Awards final that year, and is back in the 2026 one with a pizza called Che Cavolo. You can walk into any branch. Order the fried pizza starter.
+Started as a Soho market cart in 2012 and now runs across London. It won Pizza Restaurant Chain of the Year at the 2025 PAPA Industry Awards, reached the National Pizza Awards final that year, and reached the 2026 one with a pizza called Che Cavolo. You can walk into any branch. Order the fried pizza starter.
 
 ![A margherita pizza on a checked tablecloth](../../assets/articles/best-pizza-london/pizza-pilgrims.jpg)
 

@@ -99,7 +99,8 @@
     "Bebere - suspected misspelling of Berbere from a TikTok caption. Left separate; merging on a hunch would hand Berbere a source it may not have.",
     "Gracey's Pizza - RESOLVED 21 Sep 2026. The Infatuation ranked the St Albans original, but graceyspizza.com's own Locations menu lists three London sites, all inside Arcade food halls: Covent Garden, Battersea Power Station and Centre Point on Tottenham Court Road. It is a London venue and the guide now carries it as one.",
     "Three sources labelled SYNDICATION in their quotes are still counted as independent opinions. Resolving them would take Napoli on the Road 8 -> 6 and Short Road Pizza 4 -> 3.",
-    "Five Feet - a 2026 National Pizza Awards finalist that the awards' host calls a newly launched London restaurant. fivefeet.co.uk is live but client-rendered and publishes no address; data/months/october-2026.json has it at 4 Tanner Street, Bermondsey on Hot Dinners alone. Recorded in the corpus, deliberately kept out of the guide's list until the operator confirms an address.",
+    "Five Feet - RESOLVED 4 Nov 2026. Won National Pizza of the Year 2026 before opening. Time Out (4 Nov) confirms Hot Dinners' address, 4 Tanner Street, Bermondsey SE1 3LD, opening 11 November, Tuesday to Saturday evenings. Now in the guide as the 2026 winner; reviewBy is set to check it has opened.",
+    "East West - Bloggers' Choice Award 2026, listed as London by the awards, but no address published. Recorded in the corpus, kept out of the guide until an address is found.",
     "Pizza Pilgrims and Rudy's both took the PAPA Industry Awards' chain category, which judges the BRAND, not a London branch - written up as a chain award for that reason."
   ]
 }
