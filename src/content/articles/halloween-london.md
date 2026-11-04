@@ -55,7 +55,7 @@ Fridays, Saturdays and the final week before Halloween were peak nights and sold
 
 A live-actor Halloween walk-through behind a curiosity shop at 261 Paradise Row, E2 9LE, run by ScreamWorks. It runs through nine rooms of the underworld's overflow queue: a medical department where you may be sealed in a coffin, a canteen serving your "last meal", a court of moral trials and a descent to the lower levels. Expect darkness, crawl spaces, one-on-one encounters and sudden scares.
 
-**Recommended for ages 12 and over**; under-16s need an adult who stays with them throughout. ScreamWorks calls it an intense horror experience, not a family attraction, and it is not suitable for anyone pregnant or with epilepsy. Standard tickets queue first come, first served, with groups of up to eight admitted every five minutes; Fast Track tickets cut the wait. [ScreamWorks' page for the experience](https://screamworks.co.uk/experience-hells-waiting-room-scare-maze/).
+**Recommended for ages 12 and over**; under-16s need an adult who stays with them throughout. ScreamWorks calls it an intense horror experience, not a family attraction, and it is not suitable for anyone pregnant or with epilepsy. Standard tickets queue first come, first served, with groups of up to eight admitted every five minutes; Fast Track tickets cut the wait. ScreamWorks' page for the experience.
 
 For the traditional theme-park scare, three are worth the train fare.
 
@@ -147,7 +147,7 @@ It is a comedy musical with a ghost in it, not a horror show, and fine for child
 
 *Saturday 31 October 2026 · 7.30pm · 1 hour 40 minutes · ages 12+*
 
-A theatrical Halloween experience in the theatre's main house at Greenwich Theatre, Crooms Hill, SE10 8ES. Four siblings gather at the family home after their father's suspicious death, and a séance that starts as a game turns darker. One performance, on Halloween night 2026. [Event page at Greenwich Theatre](https://greenwichtheatre.org.uk/events/the-seance/).
+A theatrical Halloween experience in the theatre's main house at Greenwich Theatre, Crooms Hill, SE10 8ES. Four siblings gather at the family home after their father's suspicious death, and a séance that starts as a game turns darker. One performance, on Halloween night 2026. Event page at Greenwich Theatre.
 
 ### A Ghost Story by Candlelight, Dennis Severs' House
 

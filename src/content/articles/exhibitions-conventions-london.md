@@ -5,7 +5,7 @@ description: "The public exhibitions and conventions in London from November 202
 heroImage: "../../assets/articles/exhibitions-conventions-london/excel-london.jpg"
 heroImageAlt: "Visitors queuing beside the Royal Victoria Dock outside ExCeL London, with dockside cranes, moored boats and a large screen advertising a show at the entrance"
 publishedAt: 2026-06-17
-updatedAt: 2026-11-01
+updatedAt: 2026-11-02
 reviewBy: 2026-11-09
 sites: [london]
 canonicalSite: london
@@ -45,7 +45,7 @@ Dates and prices come from each show's own organiser site. A show that sells tie
 | **Wundrful World of Christmas** | ExCeL London | 13 Nov–24 Dec | £29.90–£34.90 adult | A timed meet-Santa walk-through for ages 3 to 8 rather than a market, with off-peak and peak prices and children from £24.90. [Tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas). |
 | **What University? & What Career? Live** | Olympia London | 13–14 Nov | Free | Careers and university-choice advice for school leavers. |
 | **Collectors Showcase** | Olympia London | 21–22 Nov | £5 | Rare cards, comics and memorabilia. |
-| **The Ideal Christmas Show** | Olympia London | 26–29 Nov | £16 | Festive shopping, open until 8pm on Thursday and 6pm Friday to Sunday; the Cake & Bake Show's own 2026 dates aren't confirmed yet. [Organiser](https://idealhomeshowchristmas.co.uk). |
+| **The Ideal Christmas Show** | Olympia London | 26–29 Nov | £16 | Festive shopping, open until 8pm on Thursday and 6pm Friday to Sunday. [Organiser](https://idealhomeshowchristmas.co.uk). |
 
 ### December 2026
 
@@ -55,15 +55,12 @@ Dates and prices come from each show's own organiser site. A show that sells tie
 | **London International Horse Show** | ExCeL London | 17–21 Dec | £37.95 | The traditional Christmas showjumping fixture. |
 | **Scrooge: Cirque Extravaganza** | ExCeL London | 23, 24, 27, 28 Dec | Sold in bands | A festive circus and theatre show for families, with a £1,000 cash prize drawn at every performance; the Christmas Eve group offer needs four tickets. [Tickets](https://scroogecirque.com/london). |
 
-*Winter Funland London, Olympia's own indoor Christmas experience, last ran 19 to 24 December 2025; its 2026 dates aren't announced yet — see the table below.*
-
 ### January 2027
 
 | Show | Venue | Dates | From | What it is |
 | --- | --- | --- | --- | --- |
 | **MegaCon Live (London)** | ExCeL London | 23–24 Jan | £24–£25 | A gaming, anime and pop-culture convention; weekend tickets cover ages 10 and up. |
-
-*Destinations: The Holiday & Travel Show and The British & International Franchise Exhibition both usually run at Olympia in late January; neither has announced 2027 dates yet.*
+| **[Destinations: The Holiday & Travel Show](https://www.olympia.co.uk/events/destinations-the-holiday-travel-show)** | Olympia London | 28–31 Jan | — | Travel inspiration, advice and deals; Thursday to Sunday, 10am to 5.30pm. |
 
 ### February 2027
 
@@ -72,8 +69,6 @@ Dates and prices come from each show's own organiser site. A show that sells tie
 | **Motorsport Expo** | ExCeL London | 26–28 Feb | £20 (race-licence holder) | Billed by its organiser as the UK's biggest indoor live motorsport experience; 200-plus exhibitors. |
 | **Car Culture UK** | ExCeL London | 27–28 Feb | — | A curated indoor automotive showcase, run by the same organiser as Motorsport Expo on overlapping dates. |
 
-*London Career Forum and London Comic Con Spring both usually run at Olympia in late February; neither has announced 2027 dates yet.*
-
 ### March 2027
 
 | Show | Venue | Dates | From | What it is |
@@ -81,7 +76,7 @@ Dates and prices come from each show's own organiser site. A show that sells tie
 | **MOVE IT** | ExCeL London | 19–21 Mar | £34.65 | Billed by its organiser as the UK's largest dance exhibition — a class programme plus performances across four stages. |
 | **Agentic Expo** | Olympia London | 23–24 Mar | £99 + VAT | Billed by its organiser as the world's first trade exhibition for market-ready AI agents; openly ticketed. |
 
-*Affordable Art Fair's Battersea Park spring edition returns "Coming March 2027" per the organiser's own site, which hasn't published exact dates yet — its 2026 run was 4 to 8 March.*
+*Affordable Art Fair's Battersea Park spring edition returns in March 2027; its 2026 run was 4 to 8 March.*
 
 ### April 2027
 
@@ -94,25 +89,24 @@ Dates and prices come from each show's own organiser site. A show that sells tie
 
 | Show | Venue | Dates | From | What it is |
 | --- | --- | --- | --- | --- |
+| **[Ceramic Art London](https://www.olympia.co.uk/events/ceramic-art-london)** | Olympia London | 6–9 May | — | A contemporary ceramics fair with 120-plus exhibitors; Thursday is a private view. |
 | **MCM Comic Con London** | ExCeL London | 28–30 May | Tickets released 26 October 2026 | Cosplay, comics, anime, gaming and guest signings; the Weekend ticket and both VIP tiers sold out at the October 2026 show. Full detail in [our MCM Comic Con guide](/articles/mcm-comic-con-london/). |
 
-### Dates not announced yet
+### Other annual shows
 
-These recur every year, but the organiser hadn't set next in-window dates as of 27 September 2026. Check the link before planning around any of them.
+These recur every year. The table gives the last edition; check the organiser's link for the next dates.
 
-| Show | Venue | Last confirmed | What it is |
+| Show | Venue | Last held | What it is |
 | --- | --- | --- | --- |
 | **[The Cake & Bake Show](https://www.olympia.co.uk/events/the-cake-bake-show)** | Olympia London | 26–30 Nov 2025 | Baking demonstrations and exhibitors, usually alongside the Ideal Christmas Show. |
 | **[Winter Funland London](https://www.olympia.co.uk/events/winter-funland)** | Olympia London | 19–24 Dec 2025 | An indoor Christmas experience. |
-| **[Destinations: The Holiday & Travel Show](https://www.olympia.co.uk/events/destinations-the-holiday-travel-show)** | Olympia London | 29 Jan–1 Feb 2026 | Travel inspiration, advice and deals. |
 | **[The British & International Franchise Exhibition](https://www.franchiseinfo.co.uk/franchise-exhibitions/the-british-international-franchise-exhibition/)** | Olympia London | 30–31 Jan 2026 | Free entry, for aspiring business owners. |
 | **[London Career Forum](https://careerforum.net/en/event/ldn/)** | Olympia London | 21–22 Feb 2026 | Free careers and job fair. |
 | **[London Comic Con Spring](https://www.londoncomicconspring.com/)** | Olympia London | 28 Feb–1 Mar 2026 | The spring counterpart to ExCeL's autumn MCM Comic Con. |
 | **[Collect](https://www.craftscouncil.org.uk/collect-fair)** | Somerset House | 27 Feb–1 Mar 2026 | The Crafts Council's fair for museum-quality contemporary craft and design; 14th edition, up to 40 galleries. |
-| **[Affordable Art Fair — Battersea Spring](https://affordableartfair.com/fairs/london-battersea-spring/)** | Battersea Park | 4–8 Mar 2026 | Confirmed for "March 2027" on the organiser's site; exact dates to follow. |
-| **[Ceramic Art London](https://www.olympia.co.uk/events/ceramic-art-london)** | Olympia London | 8–10 May 2026 | 120-plus exhibitors, a contemporary ceramics fair. |
+| **[Affordable Art Fair — Battersea Spring](https://affordableartfair.com/fairs/london-battersea-spring/)** | Battersea Park | 4–8 Mar 2026 | Returns in March 2027. |
 | **[Photo London](https://www.olympia.co.uk/events/photo-london)** | Olympia London | 13–17 May 2026 | A contemporary and classic photography fair. |
-| **[Affordable Art Fair — Hampstead](https://affordableartfair.com/fairs/london-hampstead/)** | Hampstead Heath | 6–10 May 2026 | Confirmed for "May 2027" on the organiser's site; exact dates to follow. |
+| **[Affordable Art Fair — Hampstead](https://affordableartfair.com/fairs/london-hampstead/)** | Hampstead Heath | May 2027 | Returns in May 2027. |
 | **[London Tech Week](https://londontechweek.com/)** | Olympia London | 8–10 Jun 2026 | A London-wide tech festival; Olympia hosts part of the programme. |
 | **[Hyper Japan](https://hyperjapan.co.uk/festival/)** | Olympia London | 24–26 Jul 2026 | Billed by its organiser as the UK's biggest J-Culture celebration — anime, manga, cosplay, J-Pop and street food. |
 | **[British Art Fair](https://www.saatchigallery.com/exhibition/british-art-fair-2026)** | Saatchi Gallery | 24–27 Sep 2026 | Billed by its organiser as the only UK fair dedicated exclusively to Modern and Contemporary British art. |
@@ -142,7 +136,7 @@ These recur every year, but the organiser hadn't set next in-window dates as of 
 
 ### Crafts
 
-**Knit + Stitch** at Alexandra Palace, held each October, is the one the venue itself calls the UK's biggest textile craft exhibition, 300-plus specialist suppliers. **Ceramic Art London** (Olympia, last run 8–10 May 2026) and **Collect** (Somerset House, the Crafts Council's museum-quality craft and design fair) are the other two, though neither has 2027 dates yet.
+**Knit + Stitch** at Alexandra Palace, held each October, is the one the venue itself calls the UK's biggest textile craft exhibition, 300-plus specialist suppliers. **Ceramic Art London** (Olympia, 6–9 May 2027) and **Collect** (Somerset House, the Crafts Council's museum-quality craft and design fair) are the other two.
 
 ### Travel, careers and weddings
 
@@ -182,6 +176,6 @@ These recur every year, but the organiser hadn't set next in-window dates as of 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Things to do in October](/articles/things-to-do-in-london-in-october/) · [Things to do in September](/articles/things-to-do-in-london-in-september/) · [Things to do in November](/articles/things-to-do-in-london-in-november/) · [Things to do in December](/articles/things-to-do-in-london-in-december/) · [Things to do in January](/articles/things-to-do-in-london-in-january/) · [Science events in London](/articles/science-events-london/) · [Christmas shows in London](/articles/christmas-shows-london/) · [What's On in London](/whats-on/) · [ExCeL London travel guide](/articles/excel-london-guide/) · [Where to stay near ExCeL](/articles/where-to-stay-near-excel/) · [Where to stay near Kensington](/articles/where-to-stay-kensington/) · [Where to stay near Canary Wharf](/articles/where-to-stay-canary-wharf/)
+> 🧭 **Plan the rest of it:** [Major events calendar](/whats-on/big-events/) · [Things to do in November](/articles/things-to-do-in-london-in-november/) · [Things to do in December](/articles/things-to-do-in-london-in-december/) · [Things to do in January](/articles/things-to-do-in-london-in-january/) · [Science events in London](/articles/science-events-london/) · [Christmas shows in London](/articles/christmas-shows-london/) · [What's On in London](/whats-on/) · [ExCeL London travel guide](/articles/excel-london-guide/) · [Where to stay near ExCeL](/articles/where-to-stay-near-excel/) · [Where to stay near Kensington](/articles/where-to-stay-kensington/) · [Where to stay near Canary Wharf](/articles/where-to-stay-canary-wharf/)
 
 *Dates, prices and ticket availability come from each show's own organiser site and, for shows at Olympia, Somerset House and Alexandra Palace, the venue's own listings. Shows change their dates and sell out tiers without much notice — check the organiser's own page before you book.*

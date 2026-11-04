@@ -151,7 +151,7 @@ On GetYourGuide, a <a href="https://www.getyourguide.com/activity/-t16670?partne
 
 ### Greenwich
 
-Every sightseeing boat above ends at Greenwich Pier beside the Cutty Sark. Get off, see the Painted Hall and the Cutty Sark (the Royal Observatory is closed from 2 November 2026), and come back on a later boat: return tickets on both sightseeing lines allow it. Our [Greenwich area guide](/articles/greenwich-area-guide/) plans the day, and the [Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/) arrives beside the same pier through the foot tunnel. For The O2, the Uber Boat stops at North Greenwich Pier; the [O2 travel guide](/articles/the-o2-travel-guide/) has the last boats after a show.
+Every sightseeing boat above ends at Greenwich Pier beside the Cutty Sark. Get off, see the Painted Hall and the Cutty Sark (the Royal Observatory is temporarily closed for refurbishment), and come back on a later boat: return tickets on both sightseeing lines allow it. Our [Greenwich area guide](/articles/greenwich-area-guide/) plans the day, and the [Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/) arrives beside the same pier through the foot tunnel. For The O2, the Uber Boat stops at North Greenwich Pier; the [O2 travel guide](/articles/the-o2-travel-guide/) has the last boats after a show.
 
 ### The Thames Barrier
 

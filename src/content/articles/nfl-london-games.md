@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Pathfinders_participate
 heroImageLicense: "Public Domain"
 heroImageLicenseUrl: https://commons.wikimedia.org/wiki/Public_domain
 publishedAt: 2026-07-24
-updatedAt: 2026-10-26
+updatedAt: 2026-11-02
 reviewBy: 2027-03-01
 sites: [london]
 canonicalSite: london
@@ -63,7 +63,7 @@ The NFL played three games in London in October 2026, all on Sundays at **2.30pm
 
 ![Miami Dolphins and Jacksonville Jaguars players in action on the synthetic turf at Tottenham Hotspur Stadium](../../assets/articles/nfl-london-games/dolphins-jaguars-tottenham.jpg)
 
-You need an **NFL Ticketmaster account**: set it up at [nfl.com/international/ticketaccount](https://www.nfl.com/international/ticketaccount) before you buy. Both games are sold on the [NFL's Tottenham ticket site](https://www.eticketing.co.uk/nfl-tottenham). Prices include fees.
+The Tottenham games needed an **NFL Ticketmaster account**, set up at [nfl.com/international/ticketaccount](https://www.nfl.com/international/ticketaccount) before buying, and were sold on the NFL's own Tottenham ticket site. Prices include fees.
 
 | Category | Colts v Commanders, 4 Oct | Eagles v Jaguars, 11 Oct |
 | --- | --- | --- |
@@ -83,14 +83,14 @@ You need an **NFL Ticketmaster account**: set it up at [nfl.com/international/ti
 
 - **Child tickets are only in categories 4 and 9.**
 - **Six tickets per account per game.** The NFL cancels orders from bots or duplicate accounts.
-- **Accessible seats aren't sold online.** Apply through the NFL's enquiry form; it replies within five working days.
-- **Tickets are digital only**, emailed to the lead booker at least 72 hours before kick-off. Each person needs their own ticket in Apple Wallet or Google Pay on their own phone.
+- **Accessible seats weren't sold online.** The NFL took applications through an enquiry form and replied within five working days.
+- **Tickets were digital only**, emailed to the lead booker at least 72 hours before kick-off. Each person needs their own ticket in Apple Wallet or Google Pay on their own phone.
 
 ### The Wembley game: sold by the Jaguars
 
 ![The Jacksonville Jaguars facing the Dallas Cowboys in front of a packed crowd at Wembley Stadium](../../assets/articles/nfl-london-games/cowboys-jaguars-wembley.jpg)
 
-On sale on the [Jaguars' own site](https://jaguars.co.uk/wembley2026/).
+These tickets were sold on the Jaguars' own site.
 
 | Level and seat | Price |
 | --- | --- |

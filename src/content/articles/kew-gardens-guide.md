@@ -226,7 +226,6 @@ From 25 October the glasshouses and the Treetop Walkway close at 3pm (Walkway la
 - **Pavilion Bar & Grill:** Near the Temperate House. Burgers and Mediterranean-inspired dishes grilled on charcoal or smoked over wood, with outdoor terrace seating.
 - **Victoria Plaza Café:** At Victoria Gate. Coffee, cakes, sandwiches and snacks.
 - **Picnics:** Bring your own food onto the grass, but not a barbecue or picnic furniture.
-- **Early November closures:** The Pavilion Bar & Grill and the Family Kitchen are closed 2–4 November, and the Botanical Brasserie 3–4 November.
 
 ### Accessibility and mobility
 - **Terrain:** The Gardens are largely flat, with tarmac paths in most places, which suits wheelchairs and prams.

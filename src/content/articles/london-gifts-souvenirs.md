@@ -3,7 +3,7 @@ title: "Souvenirs and Gifts from London: What to Buy, and Where to Buy It"
 seoTitle: "What to Buy in London: Gifts and Souvenirs by Budget"
 description: "What to buy in London and where, by budget: tea from £5.95, maps, toy theatres, a Liberty silk scarf from £95, and the museum shops you can enter without a ticket."
 publishedAt: 2026-11-01
-updatedAt: 2026-11-01
+updatedAt: 2026-11-02
 reviewBy: 2027-01-05
 sites:
   - london
@@ -138,7 +138,7 @@ The London Transport Museum, the V&A and the Royal Mews shops let you in without
 | [British Museum shops](https://www.britishmuseum.org/visit), Great Russell Street | Museum entry is free; book a free timed ticket, or entry depends on capacity and queues | Four shops inside the building: the Bookshop, the Family shop, the Collections shop and the Grenville Room. They stay open until 8.15pm on Fridays. More in the [British Museum guide](/articles/british-museum-guide/). |
 | [V&A shops](https://www.vam.ac.uk/south-kensington/visit), South Kensington | Free, no booking | The Main Shop, the Fashion Shop and the Exhibition Road Quarter Shop. They stay open until 9.45pm on Fridays. More in the [South Kensington guide](/articles/south-kensington-area-guide/). |
 | [Royal Mews Christmas Shop](https://www.rct.uk/visit/the-royal-mews-buckingham-palace), Buckingham Palace Road, SW1W 0QH | No ticket; open 13 November 2026 to 4 January 2027, closed 24 to 26 December | A pop-up inside the Royal Mews gift shop, entered from Buckingham Palace Road while the Royal Mews itself is closed to the public for the winter. Stocking fillers under £10 include plush toys, keyrings made from recycled materials and confectionery from the Royal Sweet Shop range. There are necklaces with corgi or crown pendants and a reusable, fillable Buckingham Palace advent calendar. Its hampers are online only and delivered in the UK. |
-| [Design Museum High Street Shop](https://designmuseum.org/plan-your-visit/museum-shops), 224 to 238 Kensington High Street | No ticket: it stands outside the main building | Stock follows the exhibition, and as of 1 November 2026 it is NIGO product. It closes at 5pm Monday to Thursday and 6pm Friday to Sunday, takes card payments only and is shut 24 to 26 December. |
+| [Design Museum High Street Shop](https://designmuseum.org/plan-your-visit/museum-shops), 224 to 238 Kensington High Street | No ticket: it stands outside the main building | Stock follows the exhibition on show. It closes at 5pm Monday to Thursday and 6pm Friday to Sunday, takes card payments only and is shut 24 to 26 December. |
 
 ![Shoppers on two floors of the London Transport Museum shop, with Underground-themed models, games and posters on display](../../assets/articles/london-gifts-souvenirs/london-transport-museum-shop.jpg)
 *The London Transport Museum shop. Photo: [Cityswift](https://commons.wikimedia.org/wiki/File:London_Transport_Museum_shop.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*

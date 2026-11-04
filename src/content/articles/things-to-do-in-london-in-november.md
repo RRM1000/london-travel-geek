@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-11-01
-reviewBy: 2026-11-04
+updatedAt: 2026-11-02
+reviewBy: 2026-11-13
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -18,7 +18,7 @@ tags: [things to do, London events, November, seasonal, London experiences]
 draft: false
 faq:
   - q: "What is on in London in November 2026?"
-    a: "The first fortnight is fireworks and ceremony: the Veteran Car Run on Sunday 1 November, Bonfire Night on Thursday 5th with the big displays on Saturday 7th, Remembrance Sunday on the 8th, Armistice Day on the 11th and the Lord Mayor's Show on Saturday 14th. The EFG London Jazz Festival runs 13 to 22 November. Christmas arrives in stages, from Regent Street's lights on the 5th to Hyde Park Winter Wonderland on the 19th, and the new London Museum opens in Smithfield on 28 November."
+    a: "The first fortnight is fireworks and ceremony: Bonfire Night on Thursday 5th with the big displays on Saturday 7th, Remembrance Sunday on the 8th, Armistice Day on the 11th and the Lord Mayor's Show on Saturday 14th. The EFG London Jazz Festival runs 13 to 22 November. Christmas arrives in stages, from Regent Street's lights on the 5th to Hyde Park Winter Wonderland on the 19th, and the new London Museum opens in Smithfield on 28 November."
   - q: "Can you still get tickets for the Bayeux Tapestry in November 2026?"
     a: "Not for a November visit. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. Adult tickets are £33, with off-peak at £27 and a term-time weekday slot from 3.30pm at £25."
   - q: "When is Bonfire Night in London in 2026, and when are the fireworks?"
@@ -39,12 +39,12 @@ The first fortnight is fireworks and ceremony, ten days of jazz sit in the middl
 
 | Date | What | Cost |
 | --- | --- | --- |
-| Sun 1 Nov | London to Brighton Veteran Car Run leaves Hyde Park | Free |
 | Mon 2 Nov | Pitchfork Music Festival London opens, to 8 Nov | Gigs ticketed separately |
 | Wed 4 Nov | Carnaby Street's lights switch on; the Harry Potter Shop opens on Oxford Street | Lights free |
 | Thu 5 Nov | Bonfire Night; Regent Street's lights switch on | Mostly free |
 | Sat 7 Nov | The big fireworks night; National Maritime Museum Diwali day | Fireworks ticketed |
 | Sun 8 Nov | Remembrance Sunday and Diwali itself; England v Australia at Twickenham | Cenotaph free |
+| Mon 9 Nov | Oxford Street's lights switch on at a Harry Potter event, from 4:30pm | Lights free |
 | Wed 11 Nov | Armistice Day silence at 11am; Somerset House ice rink opens | Rink ticketed |
 | Thu 12 Nov | Bond Street's and Covent Garden's lights switch on; England v Croatia at Wembley | Lights free |
 | Fri 13 Nov | EFG London Jazz Festival opens | From £5 |
@@ -65,10 +65,6 @@ Bookings are capped at 10 tickets, each ticket can only be used by the person wh
 Two talks fall in November: **Harald Hardrada: the other 'Harold'**, an online lecture on **5 November** (£6), and **The women of the Bayeux Tapestry** on **20 November** (£50). The rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
 
 ## The first fortnight: fireworks and ceremony
-
-### London to Brighton Veteran Car Run — Hyde Park, Sunday 1 November
-
-The RM Sotheby's run for cars built before 1905 leaves Hyde Park for Madeira Drive in Brighton, 60 miles away. It is free to watch, and the cars arrive in the Hyde Park paddock from **6am**. The Royal Automobile Club's free St James's Motoring Spectacle on Pall Mall runs the day before, Saturday 31 October, 10am to 3pm.
 
 ### Bonfire Night — Thursday 5 November, with the big night on Saturday 7th
 
@@ -198,7 +194,6 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 | Dates | Event it hits | What is closed |
 | --- | --- | --- |
-| Sun 1 Nov | Veteran Car Run, Hyde Park | The whole Piccadilly line, so no Hyde Park Corner or Knightsbridge; Marble Arch and Lancaster Gate on the Central line serve the park |
 | Sat 14 and Sun 15 Nov | Lord Mayor's Show | The Northern line between Euston or Charing Cross and Morden or Battersea Power Station, which takes out Bank, London Bridge, Waterloo and Battersea Power Station; on Sunday until 10.15am there is also no Elizabeth line between Paddington and Abbey Wood or Stratford |
 | Sat 21 and Sun 22 Nov | Heathrow, Uxbridge and Stratford journeys | The Piccadilly line between Hammersmith and Heathrow or Uxbridge, with the Metropolitan line closed from Harrow-on-the-Hill to Uxbridge; the DLR is closed between Canning Town and Stratford International |
 | Sat 28 and Sun 29 Nov | London Museum opening | The Elizabeth line along its whole length, with Paddington closed and no Heathrow Express; the whole Hammersmith & City line; the Circle line between Hammersmith or High Street Kensington and Tower Hill, via King's Cross St Pancras; the Metropolitan line from Baker Street to Aldgate; and the District line from High Street Kensington to Edgware Road |

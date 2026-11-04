@@ -279,6 +279,7 @@ The walk also works in reverse, from Tate Modern to London Bridge, which puts th
 
 ## What to do with the rest of the day
 
+- **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)**: at the north end of the Millennium Bridge, with the ticket prices, the dome climb and the free Evensong.
 - **[The South Bank area guide](/articles/south-bank-area-guide/)**: the river from the London Eye to Tower Bridge, where to stay and what to book.
 - **[Where to stay on the South Bank](/articles/where-to-stay-south-bank/)**: hotels from County Hall to Borough, including around Bankside and London Bridge.
 - **[The Bermondsey area guide](/articles/bermondsey-area-guide/)**: Bermondsey Street, Maltby Street Market and the Beer Mile, starting just east of London Bridge station.

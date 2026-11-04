@@ -30,7 +30,7 @@ faq:
   - q: "Are Olivier Awards green carpet tickets free?"
     a: "Yes. Applause Store describes them as free and says anyone found selling a place has it voided. Do not pay anyone for one."
   - q: "When are the Olivier Awards in 2027?"
-    a: "The Society of London Theatre publishes the date on officiallondontheatre.com. The 2026 ceremony was on Sunday 12 April 2026 at the Royal Albert Hall, hosted by Nick Mohammed."
+    a: "The 2026 ceremony was on Sunday 12 April 2026 at the Royal Albert Hall, hosted by Nick Mohammed. Each year's date is on officiallondontheatre.com."
   - q: "How old do you have to be for the Olivier Awards green carpet?"
     a: "Applause Store's page for the 2026 green carpet set a minimum age of 5, with anyone under 18 accompanied by an adult."
   - q: "What time does the Olivier Awards green carpet open?"

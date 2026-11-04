@@ -240,6 +240,7 @@ Or book a table for 7pm, walk home and have a lie-in; our [cocktail bars](/artic
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)**
 - 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)**
 - 🎆 **[Bonfire Night in London](/articles/bonfire-night-london/)**
+- 📅 **[Major Events Calendar](/whats-on/big-events/)**: the big dates by month
 - 🏙️ **[The Best Views in London](/articles/best-views-london/)**
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)**
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)**

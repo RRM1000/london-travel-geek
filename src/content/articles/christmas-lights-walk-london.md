@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Reg
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0/
 publishedAt: 2026-09-26
-updatedAt: 2026-11-01
-reviewBy: 2026-11-05
+updatedAt: 2026-11-02
+reviewBy: 2026-11-13
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -18,7 +18,7 @@ tags: [Christmas, walks, free things to do, Oxford Street, Regent Street, Covent
 draft: false
 faq:
   - q: "When are the Oxford Street Christmas lights switched on in 2026?"
-    a: "Oxford Street has not published its 2026 switch-on date. Its lights went on Monday 3 November in 2025 and Thursday 2 November in 2023. From Monday 26 October 2026 the street is traffic-free from Orchard Street, by Selfridges, to Great Portland Street, and its 2026 Christmas is a Harry Potter tie-in with HBO Max."
+    a: "Oxford Street's lights switch on on Monday 9 November 2026 from 4:30pm, at a Harry Potter event. From Monday 26 October 2026 the street is traffic-free from Orchard Street, by Selfridges, to Great Portland Street, and its 2026 Christmas is a Harry Potter tie-in with HBO Max."
   - q: "When are the Regent Street Christmas lights switched on in 2026?"
     a: "Thursday 5 November 2026. Regent Street is closed to traffic from 5pm to 9pm that evening, with in-store events along the street, and the Spirit of Christmas angels return with new details for 2026. The lights went on 6 November in 2025 and 7 November in 2024."
   - q: "When are London's other Christmas lights switched on in 2026?"
@@ -35,7 +35,7 @@ faq:
     a: "Into early January. Oxford Street keeps its lights on until early January, and the Trafalgar Square tree stays until just before Twelfth Night."
 ---
 
-**The 2026 switch-on dates:** [Leicester Square](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november) on Sunday 1 November, St Martin's Lane on Tuesday 3 November, [Carnaby Street](https://www.thisissoho.co.uk/carnaby-street/) on Wednesday 4 November, [Regent Street](https://www.regentstreetonline.com/news/festive-spirits-return-for-2026) on Thursday 5 November, [Marylebone Village](https://www.marylebonevillage.com/whats-on-and-features/item/1477-merry-marylebone-christmas) on Wednesday 11 November, and [Bond Street](https://www.bondstreet.co.uk/articles/bond-streets-magical-christmas-lights) and [Covent Garden](https://www.coventgarden.london/event/covent-garden-lights-switch-on), with Seven Dials, on Thursday 12 November. Oxford Street has not published its date; its lights went on Monday 3 November in 2025.
+**The 2026 switch-on dates:** [Leicester Square](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november) on Sunday 1 November, St Martin's Lane on Tuesday 3 November, [Carnaby Street](https://www.thisissoho.co.uk/carnaby-street/) on Wednesday 4 November, [Regent Street](https://www.regentstreetonline.com/news/festive-spirits-return-for-2026) on Thursday 5 November, [Marylebone Village](https://www.marylebonevillage.com/whats-on-and-features/item/1477-merry-marylebone-christmas) on Wednesday 11 November, and [Bond Street](https://www.bondstreet.co.uk/articles/bond-streets-magical-christmas-lights) and [Covent Garden](https://www.coventgarden.london/event/covent-garden-lights-switch-on), with Seven Dials, on Thursday 12 November. [Oxford Street](https://www.oxfordstreet.co.uk/whats-happening/harry-potter-x-oxford-street-christmas-switch-on-event/) on Monday 9 November, from 4:30pm.
 
 The displays run in a line about 5km long from Selfridges to Trafalgar Square, and several of the best hang over side streets that most crowds walk past: St James's Market, Glasshouse Street, Seven Dials, Floral Street.
 
@@ -43,7 +43,7 @@ The displays run in a line about 5km long from Selfridges to Trafalgar Square, a
 
 It is **about 5km, 70 minutes of walking**, and two to two and a half hours with stops. Start at dusk.
 
-> 💡 **The Short Version:** Start at **Selfridges at about 4.30pm** in December (5pm in early November), when it is dark. **Carnaby's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November, and Bond Street's and Covent Garden's are Thursday 12 November.** Oxford Street has not published its 2026 date and was lit from 3 November in 2025; from **Monday 26 October 2026** it is traffic-free from Selfridges to Great Portland Street, so its lights are walked from the roadway. **Go Monday to Wednesday, or on Sunday after 6pm** when the big shops have shut. The Trafalgar Square tree is only lit from **Thursday 3 December**; before that, finish at Covent Garden.
+> 💡 **The Short Version:** Start at **Selfridges at about 4.30pm** in December (5pm in early November), when it is dark. **Carnaby's switch-on is Wednesday 4 November 2026, Regent Street's is Thursday 5 November, and Bond Street's and Covent Garden's are Thursday 12 November.** **Oxford Street's is Monday 9 November, from 4:30pm**; from **Monday 26 October 2026** it is traffic-free from Selfridges to Great Portland Street, so its lights are walked from the roadway. **Go Monday to Wednesday, or on Sunday after 6pm** when the big shops have shut. The Trafalgar Square tree is only lit from **Thursday 3 December**; before that, finish at Covent Garden.
 
 ## The route
 
@@ -66,7 +66,7 @@ It is **about 5km, 70 minutes of walking**, and two to two and a half hours with
 
 | # | Stop | 2026 switch-on | Runs |
 | --- | --- | --- | --- |
-| **1** | Oxford Street | Not published; 3 Nov in 2025 | Every year |
+| **1** | Oxford Street | **Mon 9 November**, from 4:30pm | Every year |
 | **2** | South Molton Street | — | Its own blue arches in previous years; the way through to Bond Street |
 | **3** | Bond Street | **Thu 12 November**, traffic-free 4pm to 8pm | Every year, often a new design |
 | **4** | St James's Market | With Regent Street | Every year |
@@ -85,7 +85,7 @@ Start outside **Selfridges** and walk east.
 
 **This is Oxford Street's first Christmas without traffic.** From **Monday 26 October 2026** no cars, buses, bicycles, scooters, taxis or pedicabs are allowed from Orchard Street, by Selfridges, to Great Portland Street, and the change is permanent. Our [Oxford Street guide](/articles/oxford-street-guide/) has the bus changes, the shops and the streets off it.
 
-**Oxford Street has not published its 2026 switch-on date.** With no traffic on the street, you can walk down the middle of the road under the display rather than looking up from the pavement. Its 2026 Christmas is a Harry Potter tie-in with HBO Max: displays of the Hogwarts houses hang over the street, and a Harry Potter Christmas tree with a snow show every hour on the hour stands in Hanover Square, a short detour away. In 2025 the scheme was **Sky Full of Stars**, white stars strung the length of the street, lit from **Monday 3 November**. The lights stay up until early January.
+**Oxford Street's lights go on at a Harry Potter switch-on event on Monday 9 November 2026, from 4:30pm.** With no traffic on the street, you can walk down the middle of the road under the display rather than looking up from the pavement. Its 2026 Christmas is a Harry Potter tie-in with HBO Max: displays of the Hogwarts houses hang over the street, and a Harry Potter Christmas tree with a snow show every hour on the hour stands in Hanover Square, a short detour away. In 2025 the scheme was **Sky Full of Stars**, white stars strung the length of the street, lit from **Monday 3 November**. The lights stay up until early January.
 
 ![Rows of white stars on hanging strands of light strung across Oxford Street at dusk, with red buses at Oxford Circus below](../../assets/articles/christmas-lights-walk-london/oxford-street.jpg)
 
@@ -249,7 +249,7 @@ A 4.30pm start at Selfridges in December puts you at Covent Garden at about 6.30
 
 **The case for Sunday evening.** The big shops on Oxford Street and Regent Street close by 6pm on Sundays. The lights stay on and the pavements thin out. Seven Dials Market is open until 9pm and Bar Cicoria until 9.15pm.
 
-**Switch-on nights are the most crowded of the season:** Carnaby on 4 November, Regent Street on 5 November, Bond Street and Covent Garden on 12 November, and Oxford Street on its own date. Go for the countdown if that is what you want; for the lights, choose another night.
+**Switch-on nights are the most crowded of the season:** Carnaby on 4 November, Regent Street on 5 November, Oxford Street on 9 November, and Bond Street and Covent Garden on 12 November. Go for the countdown if that is what you want; for the lights, choose another night.
 
 ## Rather ride?
 

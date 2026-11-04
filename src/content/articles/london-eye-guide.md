@@ -3,8 +3,8 @@ title: "London Eye Ticket Prices, Fast Track and Sunset Timing"
 seoTitle: "London Eye Price: From £29 Online, £39 at the Gate"
 description: "London Eye price: an adult ticket is from £29 online and £39 at the gate, a child from £26. What Fast Track adds, the sunset slot to book and the bundles."
 publishedAt: 2026-09-19
-updatedAt: 2026-10-26
-reviewBy: 2027-01-26
+updatedAt: 2026-11-02
+reviewBy: 2027-01-11
 sites:
   - london
 canonicalSite: london
@@ -75,6 +75,8 @@ The London Eye is operated by **Merlin Entertainments** and uses dynamic pricing
 | **Merlin Annual Pass** | **Included** | **Included** | **Free** | Pre-booking fee required (£1–£5) depending on pass tier; excluded on select peak dates. |
 
 Online tickets need a timed entry slot. If you arrive late, staff fit you into the next boarding group, which can mean a long wait on peak afternoons.
+
+**Opening hours:** 10:00 to 20:30 at weekends, in school and bank holidays and from May to September; shorter on winter weekdays, such as 11:00 to 18:00 in early November 2026. Entry stops 30 to 45 minutes before closing. The wheel is closed on 25 December and throughout January for annual maintenance. The [opening hours page](https://www.londoneye.com/plan-your-visit/before-you-visit/opening-hours/) has your date.
 
 Current dates, slots and entry times:
 
@@ -170,7 +172,7 @@ Look up the sunset time for your date and book a slot **30 minutes before it**.
 
 | Month | Approximate Sunset | Target Booking Slot | Notes |
 | :--- | :--- | :--- | :--- |
-| **January** | 16:00 – 16:45 | **15:30 – 16:15** | Earliest evening slots; combines well with winter South Bank lights. |
+| **December** | 15:50 – 16:00 | **15:20 – 15:30** | Earliest sunsets of the year; closed 25 December. The wheel is shut all January. |
 | **April** | 19:40 – 20:20 | **19:15 – 19:30** | British Summer Time begins; clear spring sunsets. |
 | **July** | 21:00 – 21:20 | **20:30 – 20:45** | Long summer twilight; check late attraction closing hours. |
 | **October** | 16:40 – 18:35 | **16:10 – 18:05** | Clocks go back on the last Sunday, which moves sunset about an hour earlier overnight. |

@@ -3,8 +3,8 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-01
-reviewBy: 2026-11-04
+updatedAt: 2026-11-02
+reviewBy: 2026-11-13
 sites:
   - london
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "What is actually free at Christmas in London?"
     a: "Every street light display, every Christmas market to browse, the Trafalgar Square tree and St Pancras's charity tree are all free. What is not: ice rinks, ticketed light trails such as Christmas at Kew, grottos at the department stores, and Hyde Park Winter Wonderland, which needs a ticket even to walk in."
   - q: "When do London's Christmas lights switch on?"
-    a: "Leicester Square's lights went on Sunday 1 November 2026 and St Martin's Lane's follow on Tuesday 3 November. Carnaby Street's switch-on is Wednesday 4 November, Regent Street's is Thursday 5 November, Old Spitalfields Market's and Marylebone Village's are Wednesday 11 November, and Bond Street's and Covent Garden's are Thursday 12 November. Oxford Street has not published its 2026 date; its lights went on Monday 3 November in 2025. The Trafalgar Square tree is lit on Thursday 3 December 2026."
+    a: "Leicester Square's lights went on Sunday 1 November 2026 and St Martin's Lane's follow on Tuesday 3 November. Carnaby Street's switch-on is Wednesday 4 November, Regent Street's is Thursday 5 November, Old Spitalfields Market's and Marylebone Village's are Wednesday 11 November, and Bond Street's and Covent Garden's are Thursday 12 November. Oxford Street's switch-on is Monday 9 November, from 4:30pm. The Trafalgar Square tree is lit on Thursday 3 December 2026."
   - q: "Where can you still ice skate outdoors in London at Christmas 2026?"
     a: "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House in Greenwich and Hyde Park Winter Wonderland all have outdoor rinks in 2026-27, and Alexandra Palace has a year-round indoor one. The Natural History Museum's rink has closed for good, Canary Wharf's is taking a break for 2026, and there is no Tower of London rink."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
@@ -76,7 +76,7 @@ The 2026 switch-ons, in order:
 - **Wednesday 11 November:** [Marylebone Village](https://www.marylebonevillage.com/whats-on-and-features/item/1477-merry-marylebone-christmas), 3pm to 8pm with the switch-on at 6pm on Devonshire Street, and [Old Spitalfields Market](https://oldspitalfieldsmarket.com/events/christmas-2026-light-switch-on), 4pm to 7.30pm with the switch-on at 6pm.
 - **Thursday 12 November:** [Bond Street](https://www.bondstreet.co.uk/articles/bond-streets-magical-christmas-lights), traffic-free from 4pm to 8pm with the lights on between 6pm and 7pm, and [Covent Garden](https://www.coventgarden.london/event/covent-garden-lights-switch-on), with Seven Dials.
 
-Oxford Street has not published its date. It is traffic-free from Selfridges to Great Portland Street, so you walk its lights down the middle of the road. They stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
+Oxford Street's lights switch on on Monday 9 November 2026, from 4:30pm. It is traffic-free from Selfridges to Great Portland Street, so you walk its lights down the middle of the road. They stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
 
 | Street | Known for |
 | --- | --- |

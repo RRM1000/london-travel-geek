@@ -246,6 +246,7 @@ Each of these has a station about **90 minutes or less by train from central Lon
 ## Continue planning your London trip
 
 - 🗓️ **[What's On in London](/whats-on/)**: every gig, show and concert we list, searchable by date and price
+- 📅 **[Major Events Calendar](/whats-on/big-events/)**: the big gigs, sport and shows by month
 - 🎟️ **[Tickets Going On Sale Soon](/whats-on/on-sale/)**
 - 🎤 **[Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🚆 **[Day Trips from London](/articles/day-trips-from-london/)**

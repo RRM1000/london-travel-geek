@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 publishedAt: 2026-06-07
-updatedAt: 2026-11-01
+updatedAt: 2026-11-02
 reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
@@ -83,7 +83,7 @@ Capacity is the constraint: Car Park 1 is a single car park serving a very large
 
 ### Coming from north or east London? Park by the cable car instead
 
-**Parking:** the cable car's far terminal is in **Royal Docks**, by ExCeL London and Custom House, a different river crossing with no tunnel and no toll. ExCeL has a large, pre-bookable multi-storey car park on site (postcode **E16 1FR**), with Blue Badge bays at the same tariff and space for vehicles up to 1.9m (over-height bays to 2.8m).
+**Parking:** the cable car's far terminal is in **Royal Docks**, by ExCeL London and Custom House, a different river crossing with no tunnel and no toll. ExCeL has a large, pre-bookable multi-storey car park on site (postcode **E16 1FR**), with Blue Badge bays at the same tariff and space for vehicles up to 2m (over-height bays to 2.8m).
 
 **Hotels:** the same Royal Victoria Dock development has three bookable hotels: **Aloft London Excel** on Eastern Gateway, by Prince Regent DLR, and **Novotel London Excel** and **Crowne Plaza London Docklands** on the Western Gateway side near Custom House. Our [ExCeL London guide](/articles/excel-london-guide/) covers stations, parking and the campus hotels, and our [hotels near ExCeL guide](/articles/where-to-stay-near-excel/) compares them.
 

@@ -51,7 +51,7 @@ faq:
 > - **A guided tour saves you the choosing.** A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> takes you to the main objects in order and skips the entry queue; entry itself costs nothing, so the price is the guide.
 > - **Leave big bags behind.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed. The entrances are Great Russell Street and Montague Place.
 > - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10a). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
-> - **Quietest:** 10:00 to 11:00 and after 16:00. **Closures this fortnight:** Rooms 68 to 73 (Money, Greek and Roman life, the Roman Empire, Etruscans, Cyprus and the Greeks in Italy) are shut 2 to 13 November 2026, and Room 4 (the Rosetta Stone) is shut 11 to 22 January 2027.
+> - **Quietest:** 10:00 to 11:00 and after 16:00. **Closures:** Rooms 68 to 73 (Money, Greek and Roman life, the Roman Empire, Etruscans, Cyprus and the Greeks in Italy) are shut 2 to 13 November 2026, and Room 4 (the Rosetta Stone) is shut 11 to 22 January 2027.
 
 > ⚠️ **Bayeux Tapestry tickets to 31 March 2027 are sold out, and a free museum ticket does not include them.** The free events around the exhibition are free to attend, but none of them gets you into Room 30.
 

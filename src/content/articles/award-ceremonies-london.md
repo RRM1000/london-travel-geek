@@ -157,6 +157,7 @@ These are industry, trade or private events.
 - 🌟 **[Film Premieres in London](/articles/film-premieres-london/)** — how to watch the Leicester Square carpet
 - 🎶 **[Last Night of the Proms Tickets](/articles/last-night-of-the-proms-tickets/)** — the ballots and the £8 Day Prom
 - 🎞️ **[BFI London Film Festival](/articles/london-film-festival/)** — the galas and the cheap tickets
+- 📅 **[Major Events Calendar](/whats-on/big-events/)** — the big dates in London by month
 - 📺 **[Free TV Show Tickets in London](/articles/free-tv-show-tickets-london/)** — the free studio-audience route
 - 🏟️ **[The O2 Travel Guide](/articles/the-o2-travel-guide/)** — getting to the National Television Awards
 - 🏛️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)** — the Royal Albert Hall neighbourhood

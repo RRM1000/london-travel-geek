@@ -3,8 +3,8 @@ title: "Churchill War Rooms: Tickets, Prices and What to See"
 seoTitle: "Churchill War Rooms 2026: Tickets, Map Room & Guide"
 description: "Churchill War Rooms ticket prices and booking, the Cabinet Room and Map Room explained, and why the audio guide already included with your ticket makes a paid 'audio tour' pointless."
 publishedAt: 2026-09-20
-updatedAt: 2026-10-26
-reviewBy: 2027-04-01
+updatedAt: 2026-11-02
+reviewBy: 2027-01-11
 sites:
   - london
 canonicalSite: london
@@ -154,7 +154,7 @@ IWM says the quietest time is the afternoon, after 3pm, though school and tour g
 ## Practical information and getting there
 
 - **Where:** Clive Steps, King Charles Street, SW1A 2AQ.
-- **Open:** 9.30am to 6pm daily, last entry 5pm.
+- **Open:** 9.30am to 6pm daily, last entry 5pm. On Sunday 6 December 2026 it closes early, with last entry at 3pm.
 - **Closed:** 24, 25 and 26 December.
 - **Luggage:** no cloakroom, lockers or pram parking, and suitcases, wheeled luggage and large holdalls are not admitted. The nearest suitcase storage is Charing Cross station.
 - **Audio guide:** included in admission.

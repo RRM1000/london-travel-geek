@@ -5,7 +5,7 @@ description: "A riverside pub walk from Wapping to Canary Wharf in eleven number
 heroImage: "../../assets/articles/wapping-canary-wharf-walk/spirit-quay.jpg"
 heroImageAlt: "Gabled yellow-brick houses along the Ornamental Canal at Spirit Quay, red ivy on the end wall and the terrace reflected in still water"
 publishedAt: 2026-06-04
-updatedAt: 2026-10-26
+updatedAt: 2026-11-02
 reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
@@ -195,7 +195,7 @@ Three places worth five minutes each, none of them on the direct line.
 
 ![Inside the Yurt Café: a round timber-ribbed ceiling hung with lights and flowers, wooden tables on a patterned rug and the counter at the back](../../assets/articles/wapping-canary-wharf-walk/yurt-cafe.jpg)
 
-**The Yurt Café** is a café inside a yurt, in the grounds of the Royal Foundation of St Katharine on Butcher Row — five minutes north of the river between stops 8 and 9, and **not** St Katharine Docks at stop 1. It runs as a social enterprise and moved into two new yurts in October 2026, with **longer evening opening from November 2026**. **Worth the five minutes if** you are walking with children, or you want the only cheap, non-pub meal on the route.
+**The Yurt Café** is a café inside a yurt, in the grounds of the Royal Foundation of St Katharine on Butcher Row — five minutes north of the river between stops 8 and 9, and **not** St Katharine Docks at stop 1. It runs as a social enterprise and has two new yurts, installed in October 2026, and extends its evenings from November 2026. **Worth the five minutes if** you are walking with children, or you want a cheap meal away from the pubs.
 
 ---
 

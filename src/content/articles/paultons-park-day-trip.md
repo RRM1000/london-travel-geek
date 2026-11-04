@@ -3,8 +3,8 @@ title: "Paultons Park from London: Peppa Pig World, Tickets, Trains and Height L
 seoTitle: "Paultons Park from London: Tickets, Trains, Rides"
 description: "Paultons Park, home of Peppa Pig World, is £29 a person booked ahead on its November weekends and £41 on Christmas days, with under-1m children free and parking free. The train and bus from Waterloo, every height limit, the new Valgard coasters and the closed dates."
 publishedAt: 2026-10-03
-updatedAt: 2026-11-01
-reviewBy: 2026-11-07
+updatedAt: 2026-11-02
+reviewBy: 2026-11-20
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -104,7 +104,6 @@ The postcode is **SO51 6AL**, just off **junction 2 of the M27**; from London, t
 
 | Period | Days | Hours |
 | --- | --- | --- |
-| **Halloween Spooktacular** | 9 October to 2 November 2026 | Daily; 10:30 to 16:30 on term-time weekdays, 10:00 to 17:00 at weekends and in half-term |
 | **November 2026** | Weekends only, 7 to 29 November | 10:30 to 16:00, selected rides |
 | **A Celebration of Christmas** | 5–6, 12–14 and 18–24 December 2026, 27–31 December, 2–3 January 2027 | 10:00 to 16:30 |
 | **February and March 2027** | 6–7 February, then Fridays to Mondays from 12 February; daily 13 to 22 February | 10:00 or 10:30 to 16:30 |
@@ -190,7 +189,7 @@ Across 2025, queue-times.com, which logs each park's official wait times, record
 
 ## Halloween and Christmas
 
-**Halloween Spooktacular runs from 9 October to 2 November 2026**, included in the normal ticket. It is pitched at families rather than scare fans: Peppa and George in Halloween costumes, The Great Halloween Mystery show, the Ghostly Manor dark ride, and Viking characters, magic and storytelling in Valgard from 15:00, with a fire show on selected dates. The **late openings** on 17, 24, 27, 28 and 29 October cost nothing extra; Peppa Pig World closes at 18:00 on those nights. **Water Kingdom, Muddy Puddles and Seal Falls are shut throughout.** Our [Halloween in London guide](/articles/halloween-london/) covers the scare events closer to town.
+**Halloween Spooktacular ran from 9 October to 2 November 2026**, included in the normal ticket. It was pitched at families rather than scare fans: Peppa and George in Halloween costumes, The Great Halloween Mystery show, the Ghostly Manor dark ride, and Viking characters, magic and storytelling in Valgard from 15:00, with a fire show on selected dates. Our [Halloween in London guide](/articles/halloween-london/) covers the scare events closer to town.
 
 **A Celebration of Christmas runs on the dates in the opening table, 5 December 2026 to 3 January 2027.** Peppa Pig World, Valgard, Tornado Springs and Lost Kingdom's rides run; Edge, Cat-O-Pillar, the water rides and a few others close for winter maintenance. Santa's Storytime runs until 24 December, and Santa's Grotto is an extra booked with your ticket before the day. More festive days out are in our [Christmas in London guide](/articles/christmas-in-london/).
 

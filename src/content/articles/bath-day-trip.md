@@ -226,7 +226,7 @@ Free for Discovery Card holders and BA1 and BA2 residents with proof of address;
 
 **£18 adult online, £9.95 child, £16.30 concessions for students and over-60s, £40.95 for two adults and up to three children, £30.45 for one adult and up to three children** — prices include booking fees, and pre-booking is recommended. It is at **40 Gay Street, BA1 2NT**, on the walk between Queen Square and the Circus, with a Regency Tea Room on site and costumed character actors in the exhibition.
 
-Hours are 10:00–17:30 daily until 2 November, then from 3 November to 4 April 10:00–16:30 Sunday to Friday and 10:00–17:30 on Saturdays. **Last entry is one hour before closing.**
+From 3 November to 4 April the Centre is open 10:00–16:30 Sunday to Friday and 10:00–17:30 on Saturdays. **Last entry is one hour before closing.**
 
 ### Two free museums, and one that is shut
 

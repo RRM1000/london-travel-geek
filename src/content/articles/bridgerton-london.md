@@ -3,7 +3,7 @@ title: "Bridgerton in London: Everywhere a Fan Can Actually Go"
 seoTitle: "Bridgerton Filming Locations London: Prices & Tours"
 description: "Ranger's House is free to view, with its interior open on select dates in 2027. Castle Howard played the Duke of Hastings's estate. Bath's Assembly Rooms are closed until 2027. Locations, prices and the Bridgerton tours you can book."
 publishedAt: 2026-09-15
-updatedAt: 2026-11-01
+updatedAt: 2026-11-02
 reviewBy: 2026-11-28
 sites:
   - london
@@ -51,9 +51,9 @@ faq:
 | Syon Park gardens only | £7.00 | Private estate |
 | Claydon House, house and garden | £12.00 | National Trust |
 | Waddesdon Manor, grounds only | £14.00 | Rothschild Foundation |
+| Osterley Park, house and garden | £16.00 | National Trust |
 | Syon House and gardens, guided tour | £16.50 | Private estate |
 | Bath Bridgerton walking tour | From £20.00 | GetYourGuide |
-| Osterley Park, house and garden | £18.00 | National Trust |
 | Ham House, house and garden | £18.00 | National Trust |
 | Bridgerton walking tour, Greenwich | £27.00 | GetYourGuide |
 | Hampton Court Palace, off-peak | £30.00 | Historic Royal Palaces |
@@ -82,7 +82,7 @@ The locations in London:
 | --- | --- | --- |
 | Ranger's House, Greenwich, SE10 8QX | Bridgerton House exterior | Grounds free; house open select dates in 2027 |
 | Ham House, Richmond, TW10 7RS | Bridgerton House terrace and kitchen, Penwood House, Benedict's cottage (S4) | £18 house and garden, no booking |
-| Osterley Park and House, Isleworth, TW7 4RB | The Full Moon Ball (S3) | £18 house and garden, house closed Mon–Tue |
+| Osterley Park and House, Isleworth, TW7 4RB | The Full Moon Ball (S3) | £16 house and garden, house closed Mon–Tue |
 | Hampton Court Palace, East Molesey, KT8 9AU | Queen Charlotte's palace: Base Court, Fountain Court, Privy Garden | £30 off-peak adult, included in standard ticket |
 | Syon House and Park, Isleworth, TW7 6AZ | Hastings House (S1) | House £16.50, gardens £7; open Sun–Tue, mid-March to 27 October |
 | Lancaster House, Stable Yard, SW1A 1BB | St James's Palace, with Hampton Court | Exterior only — no public entry |
@@ -120,7 +120,7 @@ Robert Adam's house played the **Full Moon Ball** in series three's second episo
 ![The Entrance Hall at Osterley Park House, a patterned stone floor beneath a grey and white plasterwork ceiling](../../assets/articles/bridgerton-london/osterley-park-entrance-hall.jpg)
 *The Entrance Hall at Osterley Park.*
 
-**Jersey Road, Isleworth, Middlesex, TW7 4RB**, a short walk from Osterley Underground (Piccadilly line). **House open Wednesday to Sunday, 11am–3:30pm** (closed Monday and Tuesday except bank holidays). **House and garden: adult £18.00 (£19.80 Gift Aid), child £9.00, family £45.00.** A garden-only ticket runs on the Monday/Tuesday closure days: **adult £10.00, child £5.00.** Car parking £7.
+**Jersey Road, Isleworth, Middlesex, TW7 4RB**, a short walk from Osterley Underground (Piccadilly line). **House open Wednesday to Sunday, 11am–3:30pm** (closed Monday and Tuesday except bank holidays). **House and garden: adult £16.00 (£17.60 with Gift Aid), child £8.00, family £40.00.** A garden-only ticket runs on the Monday and Tuesday closure days: **adult £9.00, child £4.50.** Car parking £7.
 
 ### Syon House, Isleworth
 
@@ -260,9 +260,9 @@ Ham House and Osterley Park are National Trust houses in west London, with Syon 
 | --- | --- |
 | Contactless daily cap, Zones 1–6 | £16.30 |
 | Ham House, house and garden | £18.00 |
-| Osterley Park, house and garden | £18.00 |
+| Osterley Park, house and garden | £16.00 |
 | Lunch | £12.00 |
-| Total per adult | £64.30 |
+| Total per adult | £62.30 |
 
 Swap either house for Hampton Court Palace (£30 off-peak on weekdays, £33 at weekends) to add Queen Charlotte's palace.
 

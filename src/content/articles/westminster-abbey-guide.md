@@ -3,8 +3,8 @@ title: "Westminster Abbey: Tickets, Opening Times, Evensong and the Verger Tour"
 seoTitle: "Westminster Abbey 2026: Tickets, Times & Evensong"
 description: "2026 admission prices and the £1 rate for benefits claimants; what the £10 verger tour gets you to; free Choral Evensong times; and the current bag and photography rules."
 publishedAt: 2026-06-10
-updatedAt: 2026-10-26
-reviewBy: 2026-12-31
+updatedAt: 2026-11-02
+reviewBy: 2027-01-11
 sites:
   - london
 canonicalSite: london
@@ -27,7 +27,7 @@ faq:
   - q: "What is the best time of day to visit Westminster Abbey?"
     a: "Arrive 15 minutes before opening: that's 09:15 for the 09:30 start Monday to Friday, but Saturday opens earlier, at 09:00, with last entry at 15:00 against 15:30 on weekdays. Entering with the first intake lets you reach the royal tombs and the Henry VII Lady Chapel before the organised coach parties fill the ambulatory."
   - q: "Can you attend Choral Evensong for free at Westminster Abbey?"
-    a: "Yes. Choral Evensong is open to the public free of charge without a sightseeing ticket. It is sung every day it runs, Monday to Friday at 17:00 and Saturday and Sunday at 15:00. Visitors sit in the Quire stalls, but there is no tourist access to the royal tombs or ambulatory."
+    a: "Yes. Choral Evensong is open to the public free of charge without a sightseeing ticket. It is sung at 17:00 on most weekdays and at 15:00 on Sundays, and the Abbey's Evensong calendar lists each service. Visitors sit in the Quire stalls, but there is no tourist access to the royal tombs or ambulatory."
   - q: "Is Westminster Abbey open to tourists on Sundays?"
     a: "No. Westminster Abbey is closed to tourist sightseeing on Sundays. The building stays open for worship and church services, which anyone may attend free of charge."
   - q: "How much are tickets to Westminster Abbey in 2026?"
@@ -41,7 +41,7 @@ faq:
 > 💡 **The Short Version:**
 > - **Arrive early.** Get there 15 minutes before opening — 09:15 for the 09:30 start Monday to Friday, or 08:45 for Saturday's earlier 09:00 start — and head straight to the **royal tombs and Henry VII Lady Chapel** before the ambulatory fills up.
 > - **The verger tour** is the only way to reach the **Shrine of Edward the Confessor**. It costs the Abbey entry price plus **£10**, but you can only book it in person, on arrival, Monday to Saturday — not online or by phone.
-> - **Choral Evensong is free**, no ticket needed. It's sung every day it runs: Monday to Friday at 17:00, Saturday and Sunday at 15:00. You sit in the Quire stalls, but touring the tombs before or after isn't permitted.
+> - **Choral Evensong is free**, no ticket needed. It's sung at 17:00 on most weekdays and 15:00 on Sundays; check the Abbey's [Evensong calendar](https://www.westminster-abbey.org/worship-and-music/services-and-times/regular-services/evensong/) for your date. You sit in the Quire stalls, but touring the tombs before or after isn't permitted.
 > - **The Abbey is closed to tourist sightseeing on Sundays** — it's open for worship only.
 > - **Tickets and the London Pass.** Standard adult admission is **£32**, children (6–17) are **£14**, and concessions (65+ and students) are **£29**; under-6s go free. Pre-book a <a href="https://www.getyourguide.com/activity/-t399163?partner_id=WWP7I0R&amp;cmp=westminster-abbey-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">timed entry ticket on GetYourGuide</a>, or use **The London Pass**, which includes admission if you reserve a slot online.
 
@@ -153,11 +153,12 @@ General admission does not include the **Shrine of St Edward the Confessor**. It
 
 ## Choral Evensong, free to attend
 
-You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Evensong is free to attend and is sung daily, by the Choir of Westminster Abbey or, on Wednesdays, St Margaret's Choristers and Consort.
+You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Evensong is free to attend, sung by the Choir of Westminster Abbey or the Lay Vicars of Westminster Abbey.
 
 ### Evensong times
-- **Monday to Friday:** 17:00
-- **Saturday and Sunday:** 15:00
+- **Tuesday, Thursday and Friday:** 17:00. Saturday 7 November 2026 is also at 17:00.
+- **Sunday:** 15:00.
+- **Monday and Wednesday** in the week of 2 November 2026 are Evening Prayer, not choral Evensong. Check the [Evensong calendar](https://www.westminster-abbey.org/worship-and-music/services-and-times/regular-services/evensong/) for your date.
 
 <div data-stay-strip></div>
 
@@ -172,7 +173,7 @@ You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Ev
 ## Practical information and visitor policies
 
 ### Opening hours and the Sunday closure
-- **Monday to Friday:** 09:30–15:30.
+- **Monday to Friday:** 09:30–16:30, last entry 15:30. The Abbey sometimes closes early for services, so check the entry times calendar for your date.
 - **Saturday:** 09:00–16:00, last entry 15:00. As a working church, the Abbey sometimes closes early for weddings and other services (some Saturdays close at 13:00), so check the Abbey's own [entry times calendar](https://www.westminster-abbey.org/visit-us/opening-times-and-prices/) for your date before you travel.
 - **Sunday:** closed to tourist sightseeing. Open for worship only, at 08:00 (Holy Communion), 10:00 (Matins), 11:15 (Sung Eucharist) and 15:00 (Evensong).
 

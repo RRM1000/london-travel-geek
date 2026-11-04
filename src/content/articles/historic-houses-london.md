@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Kenwood-House-JBU_03.j
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-09-12
-updatedAt: 2026-11-01
+updatedAt: 2026-11-02
 reviewBy: 2026-11-27
 sites: [london]
 canonicalSite: london
@@ -24,7 +24,7 @@ faq:
   - q: "Which historic buildings in London are free?"
     a: "Sir John Soane's Museum, St Paul's the Actors' Church in Covent Garden, the Fitzrovia Chapel, All Saints Margaret Street, St Dunstan in the East and the grounds of the Old Royal Naval College and Royal Hospital Chelsea."
   - q: "Is St Paul's Cathedral worth the entry fee?"
-    a: "The dome climb and the Whispering Gallery are, at £27. Evensong is free and daily, and you sit in the quire rather than filing past it."
+    a: "The dome climb and the Whispering Gallery are, at £27. Evensong is free on most days, and you sit in the quire rather than filing past it."
   - q: "What is the Painted Hall?"
     a: "Forty thousand square feet of baroque ceiling at the Old Royal Naval College in Greenwich, which took James Thornhill nineteen years and is often called Britain's Sistine Chapel. Adults pay £19, and children 16 and under go free."
 ---
@@ -226,7 +226,7 @@ Wren's 1710 dome, the Whispering Gallery, and **528 steps in total to the Golden
 
 **Sightseeing is Monday to Saturday only**, doors from about 8.30am with last entry around 4pm.
 
-> 💡 **Evensong is free, unticketed and daily**: 5pm most days, 3pm on Sunday. You sit in the quire, not filing past it. No booking, no dress code, about 45 minutes. **You can also pray in St Dunstan's chapel without paying for entry.**
+> 💡 **Evensong is free and unticketed**: usually 5pm Monday to Saturday and 3pm on Sunday, with Evening Prayer or a Eucharist on some weekday evenings. You sit in the quire, not filing past it. No booking, no dress code, about 45 minutes. **You can also pray in St Dunstan's chapel without paying for entry.**
 
 **The dome is stairs only** and there is no lift: not advisable with vertigo, a heart condition or claustrophobia, and **prams cannot go up**. A video fly-through on the multimedia guide is the substitute. There is a **£1 sightseeing ticket** for those who qualify.
 
@@ -312,11 +312,11 @@ Christopher Wren's hospital, begun in 1682 and **still home to the Chelsea Pensi
 
 Every English monarch since 1066 has been crowned here, and more than three thousand people are buried or commemorated in it.
 
-**Sightseeing is Monday to Saturday only**: 9.30am to 3.30pm on weekdays, 3pm close on Saturday. **On Sunday the Abbey is open for services only.** Admission covers the cloisters, College Garden, Chapter House and Pyx Chamber; the Diamond Jubilee Galleries are £5 more.
+**Sightseeing is Monday to Saturday only**: 9.30am to 4.30pm on weekdays with last entry at 3.30pm, and 9am to 4pm on Saturday with last entry at 3pm. **On Sunday the Abbey is open for services only.** Admission covers the cloisters, College Garden, Chapter House and Pyx Chamber; the Diamond Jubilee Galleries are £5 more.
 
 **Two things to ask for.** A ticket bought on the Abbey's own site can be **upgraded to an annual pass free of charge**. And **£10 on top of admission buys the verger-led tour, which is the only way to enter the Tomb of St Edward the Confessor**. It can only be arranged in person, so phone ahead to find out what is running.
 
-> 💡 **The services are free and open to everyone.** Evensong is 5pm Monday to Friday and 3pm at weekends, in the quire.
+> 💡 **The services are free and open to everyone.** Evensong is sung at 5pm on most weekdays and 3pm on Sundays, in the quire; some weekday evenings are Evening Prayer, so check the Abbey's calendar.
 
 **Photography is allowed** in most of the Abbey, but never in the Shrine of St Edward, St Faith's Chapel or the Jubilee Galleries, and never during a service.
 
@@ -357,7 +357,7 @@ Every English monarch since 1066 has been crowned here, and more than three thou
 
 ## What to know
 
-* **Evensong is free** at both St Paul's and Westminster Abbey, daily, and is the cheapest way inside either.
+* **Evensong is free** at both St Paul's and Westminster Abbey, on most days, and is the cheapest way inside either.
 * **Sir John Soane's is very small** and entry is sometimes timed. Go early.
 * **Historic Royal Palaces membership** covers the Tower, Hampton Court, Kensington Palace and Kew Palace, and is worth it if you are doing two or more.
 * **The Fitzrovia Chapel and Barbican Conservatory** open on selected dates only, and the Conservatory needs a free timed ticket booked on the day.
