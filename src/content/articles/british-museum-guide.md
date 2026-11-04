@@ -301,5 +301,6 @@ The garden squares, Lamb's Conduit Street and the small free museums of Bloomsbu
 - 🌧️ **[London in the Rain](/articles/london-in-the-rain/)** — the museum as an all-day indoor plan.
 - 🍂 **[Things to Do in London in November](/articles/things-to-do-in-london-in-november/)** — the Bayeux Tapestry and the rest of the city's November events.
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — Bayeux Late on 4 December and the Christmas closures.
+- 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — the Korea exhibition's last weeks and the sold-out Bayeux Tapestry.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — where the museum fits into a Zone 1 plan.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** and **[Westminster Abbey Guide](/articles/westminster-abbey-guide/)** — the two historic sights most visitors pair with it.

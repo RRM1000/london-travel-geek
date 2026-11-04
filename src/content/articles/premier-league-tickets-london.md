@@ -388,6 +388,7 @@ League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end
 - 🛏️ **[Where to Stay in London](/articles/best-areas-to-stay-in-london/)**
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — the season runs from August to May
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — every London home game from 2 to 30 December, Boxing Day included.
+- 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — every London home game in January, from 2 to 30 January.
 
 ---
 

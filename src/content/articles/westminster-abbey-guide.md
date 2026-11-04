@@ -209,6 +209,7 @@ You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Ev
 
 - 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — tickets, the quieter afternoon, the Crown Jewels and the Norman White Tower.
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — the Abbey's Christmas concert and when carol service tickets are released.
+- 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — the sold-out Bayeux Tapestry, the New Year's Day Parade and the month's closures.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — how to combine Westminster Abbey with Whitehall, Covent Garden, and South Bank.
 - ⛪ **[St Paul's Cathedral Guide](/articles/st-pauls-cathedral-guide/)** — the dome climb, the crypt and the other big free Evensong.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — when the pass pays for itself and when it loses money.

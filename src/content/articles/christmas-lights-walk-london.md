@@ -281,6 +281,7 @@ The route is flat, on pavements and pedestrian streets throughout, with a stretc
 - **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)** — its Red and Gold gates are nearest Marble Arch, where this walk starts. Entry needs a timed ticket.
 - **[Christmas shows in London](/articles/christmas-shows-london/)** — the West End is all around the second half of this walk.
 - **[Things to do in London in December](/articles/things-to-do-in-london-in-december/)** — the Trafalgar Square tree lighting on 3 December, with carols, pantos and the Christmas Day closures.
+- **[Things to do in London in January](/articles/things-to-do-in-london-in-january/)** — the last nights of the lights, rinks and trails, from 1 to 10 January.
 - **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** or **[in Soho and the West End](/articles/where-to-stay-soho-west-end/)** — to be a few minutes' walk from the lights rather than a Tube ride.
 - **[The Soho guide](/articles/soho-area-guide/)**, **[the Covent Garden guide](/articles/covent-garden-area-guide/)** and **[the Mayfair guide](/articles/mayfair-area-guide/)** — where to eat and drink along the route.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

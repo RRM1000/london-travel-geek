@@ -230,6 +230,6 @@ One evening pick a day, each at a different venue.
 
 ## Looking ahead to January
 
-Winter Wonderland closes on **3 January** with its Family Fun Day. The London New Year's Day Parade is on **Friday 1 January**, 1pm. For the rest of the Christmas run see [Christmas in London](/articles/christmas-in-london/).
+Winter Wonderland closes on **3 January** with its Family Fun Day. The London New Year's Day Parade is on **Friday 1 January**, 1pm. Our [January guide](/articles/things-to-do-in-london-in-january/) has the Parade, the end of the Christmas season, the Masters snooker, MimeLondon and London Art Fair. For the rest of the Christmas run see [Christmas in London](/articles/christmas-in-london/).
 
 <div data-submit-event></div>

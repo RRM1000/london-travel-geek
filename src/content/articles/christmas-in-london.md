@@ -31,7 +31,7 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/)
+> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
 
 ## Hyde Park Winter Wonderland
 
@@ -331,7 +331,7 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 - **From Christmas Day to the early hours of Monday 4 January:** the Great Eastern Main Line is closed at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area, on the route into Liverpool Street.
 - **From Sunday 20 December to the early hours of Monday 4 January:** buses replace trains from Reigate and from Earlswood to Purley on the Brighton Main Line; Brighton and Gatwick Airport services still run.
 
-Our [December guide](/articles/things-to-do-in-london-in-december/) has the detail.
+Our [December guide](/articles/things-to-do-in-london-in-december/) has the detail. The last days of the season, to 10 January, are in our [January guide](/articles/things-to-do-in-london-in-january/).
 
 **Deciding whether December is worth it against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets its weather, crowds and cost against every other month.
 

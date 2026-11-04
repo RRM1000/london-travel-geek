@@ -251,6 +251,7 @@ From 25 October the glasshouses and the Treetop Walkway close at 3pm (Walkway la
 - 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — prices, the quieter afternoon slots, and the ticket that reaches the Crown Jewels before other visitors.
 - 👑 **[Hampton Court Palace Guide](/articles/hampton-court-palace-guide/)** — Henry VIII's palace, further upriver, reachable by boat from Kew in summer.
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — Christmas at Kew with the other light trails and rinks.
+- 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — Christmas at Kew's last night, Sunday 3 January.
 
 ---
 
