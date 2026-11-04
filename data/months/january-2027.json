@@ -25,16 +25,70 @@
     "verifiedNote": "britishmuseum.org returns 403 to curl. Carried from the December overlay, itself from a browser read on 7 October 2026. Members' final window for April to July 2027 opens in January 2027. Recheck before publishing."
   },
   "christmasEndDates": [
-    { "what": "Hyde Park Winter Wonderland", "lastDay": "2027-01-03", "detail": "Family Fun Day; gates 10am on 2 and 3 January, 11am on 28 December to 1 January; closes 10pm.", "source": "https://hydeparkwinterwonderland.com/tickets-guide/", "verified": "2026-10-17" },
-    { "what": "Christmas at Kew", "lastDay": "2027-01-03", "source": "https://www.kew.org/kew-gardens/whats-on/christmas", "verified": "2026-10-17" },
-    { "what": "Hampton Court Palace rink and Winter Palace", "lastDay": "2027-01-03", "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/", "verified": "2026-10-17" },
-    { "what": "Christmas at the Tower", "lastDay": "2027-01-03", "source": "https://www.hrp.org.uk/tower-of-london/whats-on/carols-by-candlelight/", "verified": "2026-10-17" },
-    { "what": "Glide at Battersea Power Station", "lastDay": "2027-01-03", "source": "https://batterseapowerstation.co.uk/events/glide-at-battersea-power-station/", "verified": "2026-11-04" },
-    { "what": "King's Cross Winter Market", "lastDay": "2027-01-03", "detail": "Closed 1 January.", "source": "https://www.kingscross.co.uk/event/kings-cross-winter-market", "verified": "2026-11-04" },
-    { "what": "Southbank Centre Winter Market", "lastDay": "2027-01-03", "source": "https://www.southbankcentre.co.uk/", "verified": "2026-10-26", "verifiedNote": "From the December overlay." },
-    { "what": "Leicester Square and St Martin's Lane festive lights", "lastDay": "2027-01-06", "source": "https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november", "verified": "2026-11-04" },
-    { "what": "Alexandra Palace Festive Skate", "lastDay": "2027-01-04", "source": "https://www.alexandrapalace.com/whats-on/festive-skate/", "verified": "2026-11-04" },
-    { "what": "Skate at Somerset House", "lastDay": "2027-01-10", "price": "Adults £13 to £28.50, children £11 to £15, plus £1.50 per ticket", "source": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house", "verified": "2026-11-04" }
+    {
+      "what": "Hyde Park Winter Wonderland",
+      "lastDay": "2027-01-03",
+      "detail": "Family Fun Day; gates 10am on 2 and 3 January, 11am on 28 December to 1 January; closes 10pm.",
+      "source": "https://hydeparkwinterwonderland.com/tickets-guide/",
+      "verified": "2026-10-17"
+    },
+    {
+      "what": "Christmas at Kew",
+      "lastDay": "2027-01-03",
+      "source": "https://www.kew.org/kew-gardens/whats-on/christmas",
+      "verified": "2026-10-17"
+    },
+    {
+      "what": "Hampton Court Palace rink and Winter Palace",
+      "lastDay": "2027-01-03",
+      "source": "https://www.hrp.org.uk/hampton-court-palace/christmas/",
+      "verified": "2026-10-17"
+    },
+    {
+      "what": "Christmas at the Tower",
+      "lastDay": "2027-01-03",
+      "source": "https://www.hrp.org.uk/tower-of-london/whats-on/carols-by-candlelight/",
+      "verified": "2026-10-17"
+    },
+    {
+      "what": "Glide at Battersea Power Station",
+      "lastDay": "2027-01-03",
+      "source": "https://batterseapowerstation.co.uk/events/glide-at-battersea-power-station/",
+      "verified": "2026-11-04"
+    },
+    {
+      "what": "King's Cross Winter Market",
+      "lastDay": "2027-01-03",
+      "detail": "Closed 1 January.",
+      "source": "https://www.kingscross.co.uk/event/kings-cross-winter-market",
+      "verified": "2026-11-04"
+    },
+    {
+      "what": "Southbank Centre Winter Market",
+      "lastDay": "2027-01-03",
+      "source": "https://www.southbankcentre.co.uk/",
+      "verified": "2026-10-26",
+      "verifiedNote": "From the December overlay."
+    },
+    {
+      "what": "Leicester Square and St Martin's Lane festive lights",
+      "lastDay": "2027-01-06",
+      "source": "https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november",
+      "verified": "2026-11-04"
+    },
+    {
+      "what": "Alexandra Palace Festive Skate",
+      "lastDay": "2027-01-04",
+      "source": "https://www.alexandrapalace.com/whats-on/festive-skate/",
+      "verified": "2026-11-04"
+    },
+    {
+      "what": "Skate at Somerset House",
+      "lastDay": "2027-01-10",
+      "price": "Adults £13 to £28.50, children £11 to £15, plus £1.50 per ticket",
+      "source": "https://www.somersethouse.org.uk/whats-on/skate-somerset-house",
+      "verified": "2026-11-04"
+    }
   ],
   "festivals": {
     "londonArtFair": {
@@ -50,62 +104,314 @@
       "source": "https://mimelondon.com/about-mimelondon/",
       "verified": "2026-11-04",
       "events": [
-        { "title": "Modo Grosso, TOUT/RIEN", "venue": "Barbican, The Pit", "dates": "12 to 16 January", "source": "https://mimelondon.com/modo-grosso-tout-rien-2027/" },
-        { "title": "Michael Zandl, FOOD", "venue": "Southbank Centre, Purcell Room", "dates": "13 to 17 January", "detail": "About 55 minutes, no interval, ages 8+", "source": "https://mimelondon.com/michael-zandl-food/" },
-        { "title": "Andrew Dawson, ABSENCE AND PRESENCE", "venue": "Barbican, The Pit", "dates": "19 to 23 January", "source": "https://mimelondon.com/andrew_dawson_absence_and_presence_2027/" },
-        { "title": "Ockham's Razor, COLLABORATOR", "venue": "The Place", "dates": "19 to 23 January", "source": "https://mimelondon.com/ockhams-razor-collaborator-2027/" },
-        { "title": "Gecko, KIN", "venue": "Sadler's Wells East", "dates": "20 to 23 January", "source": "https://mimelondon.com/gecko-kin/" },
-        { "title": "Miet Warlop, INHALE DELIRIUM EXHALE", "venue": "Southbank Centre, Queen Elizabeth Hall", "dates": "23 and 24 January", "source": "https://mimelondon.com/miet-warlop-inhale-delirium-exhale/" },
-        { "title": "Buster Keaton, The General", "venue": "Barbican Cinema 1", "dates": "Sunday 31 January, 3pm, live music by Haiku Salut", "source": "https://mimelondon.com/buster-keaton-2027/" },
-        { "title": "Plexus Polaire, A Doll's House", "venue": "Barbican Theatre", "dates": "3 to 6 February", "source": "https://mimelondon.com/plexus-polaire-dolls-house-2027/" }
+        {
+          "title": "Modo Grosso, TOUT/RIEN",
+          "venue": "Barbican, The Pit",
+          "dates": "12 to 16 January",
+          "source": "https://mimelondon.com/modo-grosso-tout-rien-2027/"
+        },
+        {
+          "title": "Michael Zandl, FOOD",
+          "venue": "Southbank Centre, Purcell Room",
+          "dates": "13 to 17 January",
+          "detail": "About 55 minutes, no interval, ages 8+",
+          "source": "https://mimelondon.com/michael-zandl-food/"
+        },
+        {
+          "title": "Andrew Dawson, ABSENCE AND PRESENCE",
+          "venue": "Barbican, The Pit",
+          "dates": "19 to 23 January",
+          "source": "https://mimelondon.com/andrew_dawson_absence_and_presence_2027/"
+        },
+        {
+          "title": "Ockham's Razor, COLLABORATOR",
+          "venue": "The Place",
+          "dates": "19 to 23 January",
+          "source": "https://mimelondon.com/ockhams-razor-collaborator-2027/"
+        },
+        {
+          "title": "Gecko, KIN",
+          "venue": "Sadler's Wells East",
+          "dates": "20 to 23 January",
+          "source": "https://mimelondon.com/gecko-kin/"
+        },
+        {
+          "title": "Miet Warlop, INHALE DELIRIUM EXHALE",
+          "venue": "Southbank Centre, Queen Elizabeth Hall",
+          "dates": "23 and 24 January",
+          "source": "https://mimelondon.com/miet-warlop-inhale-delirium-exhale/"
+        },
+        {
+          "title": "Buster Keaton, The General",
+          "venue": "Barbican Cinema 1",
+          "dates": "Sunday 31 January, 3pm, live music by Haiku Salut",
+          "source": "https://mimelondon.com/buster-keaton-2027/"
+        },
+        {
+          "title": "Plexus Polaire, A Doll's House",
+          "venue": "Barbican Theatre",
+          "dates": "3 to 6 February",
+          "source": "https://mimelondon.com/plexus-polaire-dolls-house-2027/"
+        }
       ]
     }
   },
   "theatre": {
-    "newYearSale": { "launch": "2027-01-05", "source": "https://officiallondontheatre.com/new-year-sale/", "verified": "2026-11-04", "note": "End date and terms not published." },
+    "newYearSale": {
+      "launch": "2027-01-05",
+      "source": "https://officiallondontheatre.com/new-year-sale/",
+      "verified": "2026-11-04",
+      "note": "End date and terms not published."
+    },
     "opening": [
-      { "title": "Romeo & Juliet (English National Ballet)", "venue": "London Coliseum", "runs": "14 to 24 January", "price": "From £28", "source": "https://www.ballet.org.uk/production/romeo-juliet/", "verified": "2026-11-04" },
-      { "title": "Three and a Bit", "venue": "Almeida", "runs": "14 January to 13 March", "source": "https://almeida.co.uk/whats-on", "verified": "2026-11-04" },
-      { "title": "The Seagull", "venue": "Sam Wanamaker Playhouse", "runs": "15 January to 10 April", "source": "https://www.shakespearesglobe.com/whats-on/", "verified": "2026-11-04" },
-      { "title": "Purpose", "venue": "Royal Court", "runs": "16 January to 27 February", "source": "https://royalcourttheatre.com/whats-on/", "verified": "2026-11-04" },
-      { "title": "The Guilty", "venue": "Harold Pinter Theatre", "runs": "18 January to 3 April", "price": "From £32.27", "source": "https://officiallondontheatre.com/show/the-guilty-111478069/", "verified": "2026-11-04" },
-      { "title": "Dirty Dancing", "venue": "Prince Edward Theatre", "runs": "19 January to 24 April", "source": "https://www.delfontmackintosh.co.uk/whats-on/dirty-dancing-the-classic-story-on-stage", "verified": "2026-11-04" }
+      {
+        "title": "Romeo & Juliet (English National Ballet)",
+        "venue": "London Coliseum",
+        "runs": "14 to 24 January",
+        "price": "From £28",
+        "source": "https://www.ballet.org.uk/production/romeo-juliet/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Three and a Bit",
+        "venue": "Almeida",
+        "runs": "14 January to 13 March",
+        "source": "https://almeida.co.uk/whats-on",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "The Seagull",
+        "venue": "Sam Wanamaker Playhouse",
+        "runs": "15 January to 10 April",
+        "source": "https://www.shakespearesglobe.com/whats-on/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Purpose",
+        "venue": "Royal Court",
+        "runs": "16 January to 27 February",
+        "source": "https://royalcourttheatre.com/whats-on/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "The Guilty",
+        "venue": "Harold Pinter Theatre",
+        "runs": "18 January to 3 April",
+        "price": "From £32.27",
+        "source": "https://officiallondontheatre.com/show/the-guilty-111478069/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Dirty Dancing",
+        "venue": "Prince Edward Theatre",
+        "runs": "19 January to 24 April",
+        "source": "https://www.delfontmackintosh.co.uk/whats-on/dirty-dancing-the-classic-story-on-stage",
+        "verified": "2026-11-04"
+      }
     ],
     "closing": [
-      { "title": "Beetlejuice", "venue": "Prince Edward Theatre", "last": "2027-01-02", "source": "https://www.delfontmackintosh.co.uk/whats-on/beetlejuice", "verified": "2026-11-04" },
-      { "title": "Into the Woods", "venue": "Noël Coward Theatre", "last": "2027-01-09", "source": "https://www.delfontmackintosh.co.uk/whats-on/into-the-woods", "verified": "2026-11-04" },
-      { "title": "Jesus Christ Superstar", "venue": "Theatre Royal Drury Lane", "last": "2027-01-09", "source": "https://officiallondontheatre.com/show/jesus-christ-superstar-111470377/", "verified": "2026-11-04" },
-      { "title": "ENB Nutcracker", "venue": "London Coliseum", "last": "2027-01-10", "source": "https://www.ballet.org.uk/production/nutcracker/", "verified": "2026-11-04" },
-      { "title": "London Palladium Cinderella", "last": "2027-01-10", "source": "https://lwtheatres.co.uk/whats-on/cinderella/", "verified": "2026-10-17" },
-      { "title": "Royal Ballet Nutcracker", "venue": "Royal Opera House", "last": "2027-01-13", "source": "https://www.rbo.org.uk/production/the-nutcracker-peter-wright", "verified": "2026-11-04" },
-      { "title": "Matthew Bourne's Cinderella", "venue": "Sadler's Wells", "last": "2027-01-17", "source": "https://www.new-adventures.net/cinderella", "verified": "2026-11-04" },
-      { "title": "A Christmas Carol Goes Wrong", "venue": "Wyndham's Theatre", "last": "2027-01-23", "source": "https://officiallondontheatre.com/show/christmas-carol-goes-wrong-111474261/", "verified": "2026-11-04" }
+      {
+        "title": "Beetlejuice",
+        "venue": "Prince Edward Theatre",
+        "last": "2027-01-02",
+        "source": "https://www.delfontmackintosh.co.uk/whats-on/beetlejuice",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Into the Woods",
+        "venue": "Noël Coward Theatre",
+        "last": "2027-01-09",
+        "source": "https://www.delfontmackintosh.co.uk/whats-on/into-the-woods",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Jesus Christ Superstar",
+        "venue": "Theatre Royal Drury Lane",
+        "last": "2027-01-09",
+        "source": "https://officiallondontheatre.com/show/jesus-christ-superstar-111470377/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "ENB Nutcracker",
+        "venue": "London Coliseum",
+        "last": "2027-01-10",
+        "source": "https://www.ballet.org.uk/production/nutcracker/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "London Palladium Cinderella",
+        "last": "2027-01-10",
+        "source": "https://lwtheatres.co.uk/whats-on/cinderella/",
+        "verified": "2026-10-17"
+      },
+      {
+        "title": "Royal Ballet Nutcracker",
+        "venue": "Royal Opera House",
+        "last": "2027-01-13",
+        "source": "https://www.rbo.org.uk/production/the-nutcracker-peter-wright",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Matthew Bourne's Cinderella",
+        "venue": "Sadler's Wells",
+        "last": "2027-01-17",
+        "source": "https://www.new-adventures.net/cinderella",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "A Christmas Carol Goes Wrong",
+        "venue": "Wyndham's Theatre",
+        "last": "2027-01-23",
+        "source": "https://officiallondontheatre.com/show/christmas-carol-goes-wrong-111474261/",
+        "verified": "2026-11-04"
+      }
     ],
     "kidsWeek": "Summer only; not a January event (https://officiallondontheatre.com/kids-week/)."
   },
   "exhibitions": {
     "openingInJanuary": "None found on the organiser pages that could be read on 4 November 2026.",
     "closing": [
-      { "title": "Frida: The Making of an Icon", "venue": "Tate Modern", "last": "2027-01-03", "source": "https://www.tate.org.uk/whats-on", "verified": "2026-11-04" },
-      { "title": "Windrush Food Culture", "venue": "National Maritime Museum", "last": "2027-01-03", "price": "Free", "source": "https://www.rmg.co.uk/whats-on", "verified": "2026-11-04" },
-      { "title": "The Music is Black: A British Story", "venue": "V&A East Museum", "last": "2027-01-10", "price": "£22.50 weekday, £24.50 weekend", "source": "https://www.vam.ac.uk/exhibitions", "verified": "2026-11-04" },
-      { "title": "Rising Voices", "venue": "V&A South Kensington", "last": "2027-01-10", "price": "£17", "source": "https://www.vam.ac.uk/exhibitions", "verified": "2026-11-04" },
-      { "title": "LAIKA presents Wildwood: The Exhibition", "venue": "Design Museum", "last": "2027-01-10", "source": "https://designmuseum.org/exhibitions/laika-presents-wildwood-the-exhibition", "verified": "2026-11-04" },
-      { "title": "Justin Caguiat: Change Ringing", "venue": "Serpentine South", "last": "2027-01-10", "price": "Free", "source": "https://www.serpentinegalleries.org/whats-on/", "verified": "2026-11-04" },
-      { "title": "Salman Toor: Someone Like You", "venue": "Courtauld Gallery", "last": "2027-01-10", "source": "https://www.courtauld.ac.uk/whats-on/", "verified": "2026-11-04" },
-      { "title": "Ana Mendieta", "venue": "Tate Modern", "last": "2027-01-17", "source": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta", "verified": "2026-11-04" },
-      { "title": "Zineb Sedira Tate Britain Commission", "venue": "Tate Britain", "last": "2027-01-17", "price": "Free", "source": "https://www.tate.org.uk/whats-on", "verified": "2026-11-04" },
-      { "title": "Freddie Mercury | Splendid Things", "venue": "V&A South Kensington", "last": "2027-01-17", "price": "Free", "source": "https://www.vam.ac.uk/exhibitions", "verified": "2026-11-04" },
-      { "title": "PLATFORM: Simone Brewster", "venue": "Design Museum", "last": "2027-01-24", "price": "Free", "source": "https://designmuseum.org/exhibitions", "verified": "2026-11-04" },
-      { "title": "Renoir and Love", "venue": "National Gallery", "last": "2027-01-31", "price": "£20 off-peak Sun to Thu, £25 Fri and Sat, under-18s free", "source": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love", "verified": "2026-11-04" },
-      { "title": "Painting the French Riviera", "venue": "Royal Academy", "last": "2027-01-31", "price": "£24 to £26", "source": "https://www.royalacademy.org.uk/exhibition/painting-the-french-riviera", "verified": "2026-11-04" },
-      { "title": "Korea", "venue": "British Museum, Room 35", "last": "2027-01-31", "price": "Adults £20, £18 off-peak", "source": "https://www.britishmuseum.org/exhibitions", "verified": "2026-10-04", "verifiedNote": "From the british-museum-guide; the museum's pages return 403 to curl." },
-      { "title": "Amar Kanwar", "venue": "Serpentine North", "last": "2027-01-31", "price": "Free", "source": "https://www.serpentinegalleries.org/whats-on/", "verified": "2026-11-04" }
+      {
+        "title": "Frida: The Making of an Icon",
+        "venue": "Tate Modern",
+        "last": "2027-01-03",
+        "source": "https://www.tate.org.uk/whats-on",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Windrush Food Culture",
+        "venue": "National Maritime Museum",
+        "last": "2027-01-03",
+        "price": "Free",
+        "source": "https://www.rmg.co.uk/whats-on",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "The Music is Black: A British Story",
+        "venue": "V&A East Museum",
+        "last": "2027-01-10",
+        "price": "£22.50 weekday, £24.50 weekend",
+        "source": "https://www.vam.ac.uk/exhibitions",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Rising Voices",
+        "venue": "V&A South Kensington",
+        "last": "2027-01-10",
+        "price": "£17",
+        "source": "https://www.vam.ac.uk/exhibitions",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "LAIKA presents Wildwood: The Exhibition",
+        "venue": "Design Museum",
+        "last": "2027-01-10",
+        "source": "https://designmuseum.org/exhibitions/laika-presents-wildwood-the-exhibition",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Justin Caguiat: Change Ringing",
+        "venue": "Serpentine South",
+        "last": "2027-01-10",
+        "price": "Free",
+        "source": "https://www.serpentinegalleries.org/whats-on/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Salman Toor: Someone Like You",
+        "venue": "Courtauld Gallery",
+        "last": "2027-01-10",
+        "source": "https://www.courtauld.ac.uk/whats-on/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Ana Mendieta",
+        "venue": "Tate Modern",
+        "last": "2027-01-17",
+        "source": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Zineb Sedira Tate Britain Commission",
+        "venue": "Tate Britain",
+        "last": "2027-01-17",
+        "price": "Free",
+        "source": "https://www.tate.org.uk/whats-on",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Freddie Mercury | Splendid Things",
+        "venue": "V&A South Kensington",
+        "last": "2027-01-17",
+        "price": "Free",
+        "source": "https://www.vam.ac.uk/exhibitions",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "PLATFORM: Simone Brewster",
+        "venue": "Design Museum",
+        "last": "2027-01-24",
+        "price": "Free",
+        "source": "https://designmuseum.org/exhibitions",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Renoir and Love",
+        "venue": "National Gallery",
+        "last": "2027-01-31",
+        "price": "£20 off-peak Sun to Thu, £25 Fri and Sat, under-18s free",
+        "source": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Painting the French Riviera",
+        "venue": "Royal Academy",
+        "last": "2027-01-31",
+        "price": "£24 to £26",
+        "source": "https://www.royalacademy.org.uk/exhibition/painting-the-french-riviera",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Korea",
+        "venue": "British Museum, Room 35",
+        "last": "2027-01-31",
+        "price": "Adults £20, £18 off-peak",
+        "source": "https://www.britishmuseum.org/exhibitions",
+        "verified": "2026-10-04",
+        "verifiedNote": "From the british-museum-guide; the museum's pages return 403 to curl."
+      },
+      {
+        "title": "Amar Kanwar",
+        "venue": "Serpentine North",
+        "last": "2027-01-31",
+        "price": "Free",
+        "source": "https://www.serpentinegalleries.org/whats-on/",
+        "verified": "2026-11-04"
+      }
     ],
     "stillRunning": [
-      { "title": "Yinka Shonibare and Thomas Gainsborough: A Conversation", "venue": "National Gallery", "last": "2027-02-07", "price": "Free", "source": "https://www.nationalgallery.org.uk/", "verified": "2026-11-04" },
-      { "title": "Van Eyck: The Portraits", "venue": "National Gallery", "last": "2027-04-11", "source": "https://www.nationalgallery.org.uk/", "verified": "2026-11-04" },
-      { "title": "Julio Le Parc: Light. Colour. Action.", "venue": "Tate Modern", "last": "2027-05-03", "source": "https://www.tate.org.uk/whats-on", "verified": "2026-11-04" }
+      {
+        "title": "Yinka Shonibare and Thomas Gainsborough: A Conversation",
+        "venue": "National Gallery",
+        "last": "2027-02-07",
+        "price": "Free",
+        "source": "https://www.nationalgallery.org.uk/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Van Eyck: The Portraits",
+        "venue": "National Gallery",
+        "last": "2027-04-11",
+        "source": "https://www.nationalgallery.org.uk/",
+        "verified": "2026-11-04"
+      },
+      {
+        "title": "Julio Le Parc: Light. Colour. Action.",
+        "venue": "Tate Modern",
+        "last": "2027-05-03",
+        "source": "https://www.tate.org.uk/whats-on",
+        "verified": "2026-11-04"
+      }
     ]
   },
   "royalObservatory": {
@@ -114,9 +420,22 @@
     "verified": "2026-11-04"
   },
   "sport": {
-    "darts": { "ends": "2027-01-03", "source": "https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/", "verified": "2026-11-04" },
-    "mastersSnooker": { "dates": "10 to 17 January 2027", "venue": "Alexandra Palace West Hall, doors 11.30am", "source": "https://www.alexandrapalace.com/whats-on/johnstones-paint-masters-snooker-2027/", "verified": "2026-11-04" },
-    "faCupThirdRound": { "date": "Saturday 9 January 2027", "source": "https://www.thefa.com/competitions/thefacup/round-dates", "verified": "2026-11-04" },
+    "darts": {
+      "ends": "2027-01-03",
+      "source": "https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/",
+      "verified": "2026-11-04"
+    },
+    "mastersSnooker": {
+      "dates": "10 to 17 January 2027",
+      "venue": "Alexandra Palace West Hall, doors 11.30am",
+      "source": "https://www.alexandrapalace.com/whats-on/johnstones-paint-masters-snooker-2027/",
+      "verified": "2026-11-04"
+    },
+    "faCupThirdRound": {
+      "date": "Saturday 9 January 2027",
+      "source": "https://www.thefa.com/competitions/thefacup/round-dates",
+      "verified": "2026-11-04"
+    },
     "premierLeague": {
       "source": "https://fantasy.premierleague.com/api/fixtures/",
       "verified": "2026-11-04",
@@ -144,8 +463,18 @@
   },
   "closures": {
     "janFirst": [
-      { "what": "National Gallery", "closed": "1 January", "source": "https://www.nationalgallery.org.uk/visiting/plan-your-visit", "verified": "2026-11-04" },
-      { "what": "King's Cross Winter Market", "closed": "1 January", "source": "https://www.kingscross.co.uk/event/kings-cross-winter-market", "verified": "2026-11-04" }
+      {
+        "what": "National Gallery",
+        "closed": "1 January",
+        "source": "https://www.nationalgallery.org.uk/visiting/plan-your-visit",
+        "verified": "2026-11-04"
+      },
+      {
+        "what": "King's Cross Winter Market",
+        "closed": "1 January",
+        "source": "https://www.kingscross.co.uk/event/kings-cross-winter-market",
+        "verified": "2026-11-04"
+      }
     ]
   },
   "weatherAndDaylight": {
@@ -154,7 +483,6 @@
     "verified": "2026-11-04"
   },
   "gaps": [
-    "Winter Lights, Canary Wharf, 2027 dates - canarywharf.com does not return to curl and no 2027 dates were found; add the dates and a Canary Wharf entry when published.",
     "Burns Night (Monday 25 January 2027) - Boisdale's page still shows the 2026 programme; add venues when 2027 programmes appear.",
     "January sales - no 2027 start dates published by Harrods, Selfridges or Liberty that could be read.",
     "Lumiere London - no 2027 edition on Artichoke's listing; Lumiere Durham is the only Lumiere it lists since 2023.",
@@ -174,5 +502,12 @@
   "lessonsForNextMonth": [
     "The London International Mime Festival no longer exists; MimeLondon is the name to use.",
     "Check londonparade.com, not londonparade.co.uk, which is a landing page without route details."
-  ]
+  ],
+  "winterLights": {
+    "dates": "Tue 19 to Sat 30 January 2027, 5pm to 10pm",
+    "price": "Free, no booking",
+    "theme": "RE(IMAGINE)",
+    "source": "https://londonist.com/london/free-and-cheap/canary-wharf-winter-lights-festival-january",
+    "note": "Dates from Canary Wharf Group announcement of 8 October 2026 as reported by Londonist and My London; canarywharf.com blocks automated reads."
+  }
 }

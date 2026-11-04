@@ -1,7 +1,7 @@
 ---
 title: "Things to Do in London in January: The Parade, the End of Christmas, Darts, Snooker and the Art Fair"
 seoTitle: "Things to Do in London in January 2027"
-description: "The New Year's Day Parade, Winter Wonderland closing and the rinks, the PDC darts final and Masters snooker at Alexandra Palace, MimeLondon, London Art Fair, new West End openings and the exhibitions closing in January 2027."
+description: "The New Year's Day Parade, Winter Wonderland closing and the rinks, the PDC darts final and Masters snooker at Alexandra Palace, MimeLondon, London Art Fair, Canary Wharf Winter Lights, new West End openings and the exhibitions closing in January 2027."
 heroImage: "../../assets/articles/ice-skating-london/hampton-court-palace.jpg"
 heroImageAlt: "The Hampton Court Palace ice rink at night, with empty ice in front of the Tudor West Front floodlit red either side of the blue-lit Great Gatehouse"
 publishedAt: 2026-11-04
@@ -33,7 +33,7 @@ faq:
 
 New Year's Day opens with the Parade, and Winter Wonderland and the Christmas trails close on the 3rd. The darts finish, the snooker moves into Alexandra Palace, and the art fair and the first West End openings of the year follow. Sunset is before 4.50pm all month.
 
-> 💡 **The Short Version:** **The London New Year's Day Parade is on Friday 1 January, 1pm to 4.30pm**, and it is free to watch standing. **Winter Wonderland, Christmas at Kew and the PDC World Darts Championship all end on Sunday 3 January**, Somerset House's rink on **10 January**. **MimeLondon** (the successor to the London International Mime Festival) opens at the Barbican on **12 January**, the **Masters snooker** is at Alexandra Palace on **10 to 17 January** and **London Art Fair** is at the Business Design Centre on **19 to 24 January**. **Official London Theatre's New Year Sale launches on 5 January.** The **Bayeux Tapestry** is sold out to 31 March, and the **National Gallery is closed on 1 January**.
+> 💡 **The Short Version:** **The London New Year's Day Parade is on Friday 1 January, 1pm to 4.30pm**, and it is free to watch standing. **Winter Wonderland, Christmas at Kew and the PDC World Darts Championship all end on Sunday 3 January**, Somerset House's rink on **10 January**. **MimeLondon** (the successor to the London International Mime Festival) opens at the Barbican on **12 January**, the **Masters snooker** is at Alexandra Palace on **10 to 17 January** **London Art Fair** is at the Business Design Centre on **19 to 24 January**, and **Winter Lights** lights up Canary Wharf free from **19 to 30 January**. **Official London Theatre's New Year Sale launches on 5 January.** The **Bayeux Tapestry** is sold out to 31 March, and the **National Gallery is closed on 1 January**.
 
 | Date | What | Cost |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ New Year's Day opens with the Parade, and Winter Wonderland and the Christmas tr
 | Wed 13 Jan | Last night of the Royal Ballet's Nutcracker | Ticketed |
 | Thu 14 Jan | English National Ballet's Romeo & Juliet opens at the Coliseum | From £28 |
 | Sun 17 Jan | Masters snooker ends; Matthew Bourne's Cinderella ends | Ticketed |
-| Tue 19 Jan | London Art Fair preview evening; Dirty Dancing opens at the Prince Edward Theatre | £42.75 |
+| Tue 19 Jan | Winter Lights opens at Canary Wharf, to 30 January; London Art Fair preview evening; Dirty Dancing opens at the Prince Edward Theatre | Winter Lights free |
 | Wed 20 to Sun 24 Jan | London Art Fair open to the public | From £27.75 |
 | Sun 31 Jan | Renoir and Love, Painting the French Riviera and Korea close | Ticketed |
 
@@ -95,6 +95,10 @@ Every rink, price and children's rule is in our [ice skating guide](/articles/ic
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-january-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Festivals and fairs
+
+### Winter Lights, Canary Wharf — 19 to 30 January
+
+**Canary Wharf's free light-art trail runs from Tuesday 19 to Saturday 30 January, 5pm to 10pm every evening, with no booking.** Temporary light installations and sculptures are spread among the docks, squares and towers, alongside the estate's permanent artworks. The 2027 theme is RE(IMAGINE), and the artist line-up is announced in January. Stewards hand out paper maps on the night. Weekends are the busiest; a weekday evening is quieter. The [Canary Wharf guide](/articles/canary-wharf-area-guide/) has where to eat before or after.
 
 ### London Art Fair — 19 to 24 January
 
