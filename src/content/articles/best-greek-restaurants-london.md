@@ -38,7 +38,7 @@ faq:
 London's Greek restaurants are two cities. One is the modern Greek dining room: Oma, Opso, Myrtos and a run of Mayfair openings, cooking over fire with long Greek wine lists. The other is older and mostly Cypriot: family tavernas in Camden and Bayswater from the 1960s to the 1980s, and the souvlaki counters, bakeries and meze houses of Palmers Green.
 
 > 📊 **The evidence behind this guide.**
-> **36 independent sources carrying 238 citations** across **81 named restaurants**. **44 restaurants are named by two or more independent sources.**
+> **36 independent sources carrying 235 citations** across **80 named restaurants**. **43 restaurants are named by two or more independent sources.**
 > **Built on:** Michelin, the Good Food Guide and the National Restaurant Awards; Time Out's ranked list, The Infatuation, Eater London and the Guardian; Greek-language Cookout, Athinorama and LiFO; YouTube and Reddit.
 > *Evidence built 8 October 2026 · [How we rank →](/how-we-rank/)*
 

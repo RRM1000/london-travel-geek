@@ -32,7 +32,7 @@ This guide starts with the restaurants the sources agree on, then splits the res
 > 💡 **The Short Version:** **Trullo** and **Padella** are the two most-cited Italian restaurants in London. **River Café**, **Murano** and **Luca** are the three holding a Michelin star. **Bancone** and **Al Dente** are the value picks. **Norma** for Sicilian, **Brutto** for Florentine steak. And **Circolo Popolare** if you want the room more than the meal.
 
 > 📊 **The evidence behind this guide.**
-> **47 sources carrying 333 citations** across **187 named restaurants**. **45 restaurants are named by two or more independent sources; 27 carry a dated award.**
+> **47 sources carrying 333 citations** across **186 named restaurants**. **44 restaurants are named by two or more independent sources; 27 carry a dated award.**
 > **Built on:** Michelin, the Good Food Guide, Gambero Rosso and the Italian Awards; Time Out, The Infatuation and Eater London; YouTube.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
