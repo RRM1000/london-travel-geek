@@ -160,6 +160,8 @@ The Black Eel on Kingsland High Street has a leopard-carpeted karaoke room for 2
 
 Angelina on Dalston Lane cooks a Japanese-Italian set menu, and Cálong on Stoke Newington Church Street holds a Bib Gourmand for Korean-European cooking. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
+To watch the match outdoors, Pub on the Park has three decks over London Fields with screens and heaters; it is in our [sports bars guide](/articles/best-sports-bars-london/).
+
 ## Getting there
 
 **By Overground.** There is no Tube in Hackney. The **London Overground** is the way in: **London Fields** for Broadway Market, **Hackney Central** for Mare Street, **Hackney Wick** for the warehouses and the Olympic Park. A few minutes from Liverpool Street or Highbury & Islington.

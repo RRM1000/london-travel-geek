@@ -176,6 +176,8 @@ Soho is also where central London's Indo-Chinese cooking is: Fatt Pundit on Berw
 
 Five of the bars in our speakeasy guide are in Soho and Chinatown: Opium behind a jade door on Gerrard Street, Experimental Cocktail Club upstairs from the same street, SOMA down an unmarked staircase on Denman Street, Basement Sate behind a red door on Broadwick Street, and The Vault behind a bookcase in Milroy's whisky shop on Greek Street. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) says how to find each door.
 
+To watch the match, BOX Piccadilly on Shaftesbury Avenue has 33 screens over three floors, and De Hems on Macclesfield Street is the Dutch pub; both are in our [sports bars guide](/articles/best-sports-bars-london/).
+
 ## Getting there
 
 **By Tube.** Four stations sit on Soho's edges. **Tottenham Court Road** (Elizabeth line, Central, Northern) is best for the east side. **Oxford Circus** is best for Carnaby Street. **Piccadilly Circus** is closest to Chinatown's southern gate, and **Leicester Square** (Northern, Piccadilly) to its eastern end.

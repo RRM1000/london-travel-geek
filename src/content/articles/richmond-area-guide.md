@@ -183,6 +183,8 @@ Behind the hill, and at 2,500 acres the largest of London's Royal Parks, so arri
 
 *The Cricketers, Richmond Green. Photo: [Jim Linwood](https://www.flickr.com/photos/54238124@N00/2231008770), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+On rugby days, The Orange Tree on Kew Road shows the internationals on big screens on the way to Twickenham; it is in our [sports bars guide](/articles/best-sports-bars-london/).
+
 ## Getting there
 
 **By Tube.** The **District line** runs direct to Richmond, the end of the Richmond branch, in about 30 minutes from Earl's Court. Step-free at Richmond.

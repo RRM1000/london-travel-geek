@@ -202,6 +202,8 @@ Luna Omakase on the ninth floor of 100 Liverpool Street, Pham Sushi in the Heron
 
 Los Mochis cooks Mexican-Japanese food nine floors above Broadgate Circle, with a rooftop terrace, and SUSHISAMBA's Japanese, Brazilian and Peruvian menu is on the 38th floor of Heron Tower. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
+To watch the match, Brigadiers in Bloomberg Arcade has private rooms with screens and self-pour taps, The Side Hustle on Wood Street opened in June 2026, and The Minories under the arches by Tower Hill has screens in its beer garden; all are in our [sports bars guide](/articles/best-sports-bars-london/).
+
 ## Getting there
 
 **By Tube.** Four useful stations. **St Paul's** (Central) for the cathedral, **Bank** (Central, Northern, Waterloo & City, DLR) for the middle, **Liverpool Street** (Elizabeth line and four others) for the north-east, **Tower Hill** (District, Circle) for the Tower.

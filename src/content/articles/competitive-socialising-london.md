@@ -406,6 +406,7 @@ Most venues charge per lane, per oche or per time band rather than a flat per-he
 
 ## Continue planning your London trip
 
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🎪 **[Free Things to Do in London](/free/)**
 - 👋 **[How to Meet People in London](/articles/meet-people-london/)** — run clubs, language exchanges and board-game nights for people on their own
 - 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — private rooms, KTV and free pub nights, with room sizes and prices

@@ -215,6 +215,8 @@ Behind Waterloo station, five minutes off the tourist route.
 
 *The Southbank Centre Food Market.*
 
+To watch the match, Flat Iron Square on Southwark Street has screens inside and out, and Redwood is inside London Bridge station; both are in our [sports bars guide](/articles/best-sports-bars-london/).
+
 ## Getting there
 
 **By Tube and rail.** **Waterloo** (Jubilee, Northern, Bakerloo, National Rail) serves the western end. **Southwark** (Jubilee) is closest to Tate Modern. **London Bridge** (Jubilee, Northern, National Rail) serves Borough Market and the eastern end.

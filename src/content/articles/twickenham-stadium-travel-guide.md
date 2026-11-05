@@ -288,6 +288,7 @@ On **non-match days**, parking in the West or North car park is free if you regi
 ## Continue planning your London trip
 
 - 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the Six Nations and Premiership final dates here, and the rest of London's sporting year
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**

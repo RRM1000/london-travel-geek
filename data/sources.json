@@ -145,7 +145,19 @@
     "dinewithjp.com",
     "hirespace.com",
     "youtube.com/@tripinn1975",
-    "youtube.com/@trip_train_"
+    "youtube.com/@trip_train_",
+    "londonfootballclubs.com",
+    "thelateedition.co.uk",
+    "worlddartshub.com",
+    "bestsportsbars.net",
+    "sportspasslondon.co.uk",
+    "sportsyard.co.uk",
+    "discusssports.co.uk",
+    "roamrecs.com",
+    "watchpartyradar.com",
+    "fanzo.com",
+    "sportsbarwatch.com",
+    "foamfinders.co.uk"
   ],
   "domains": {
     "thedrinksbusiness.com": {
@@ -2630,6 +2642,47 @@
       "tier": "F",
       "name": "Inside Kitchen London (YouTube)",
       "note": "Behind-the-scenes filming written from the restaurants' side. DECLINED on sushi."
+    },
+    "greatbritishpubawards.co.uk": {
+      "tier": "A",
+      "name": "Great British Pub Awards",
+      "note": "Morning Advertiser's annual judged awards. National: scope to London finalists before counting (trap 12). Best Pub to Watch Sport category used for sports-bars."
+    },
+    "talkchelsea.net": {
+      "tier": "C",
+      "name": "Talk Chelsea",
+      "note": "Chelsea fan site."
+    },
+    "londonopia.co.uk": {
+      "tier": "C",
+      "name": "Londonopia"
+    },
+    "londoncelticpunks.wordpress.com": {
+      "tier": "C",
+      "name": "London Celtic Punks",
+      "note": "Celtic supporters' web-zine; keeps a list of Celtic pubs and CSCs in London."
+    },
+    "accidentaltravelwriter.com": {
+      "tier": "C",
+      "name": "Accidental Travel Writer",
+      "note": "Michael Taylor's travel blog."
+    },
+    "youtube.com/@HannahandMartinOnTheGlobe": {
+      "tier": "D",
+      "name": "Hannah and Martin On The Globe"
+    },
+    "youtube.com/@buddywoodstudios": {
+      "tier": "D",
+      "name": "BUDDYWOOD"
+    },
+    "youtube.com/@axlandsean": {
+      "tier": "D",
+      "name": "Axl and Sean"
+    },
+    "tiktok.com/@historicpubcrawls": {
+      "tier": "D",
+      "name": "Historic Pub Crawls",
+      "note": "Author of the Historic Pub Crawls books."
     }
   },
   "excludedWhy": {
@@ -2668,6 +2721,18 @@
     "dinewithjp.com": "Emoji-headed SEO template on a Marbella/Dubai luxury site (speakeasy, 8 Oct 2026).",
     "hirespace.com": "Venue-hire platform (speakeasy, 8 Oct 2026).",
     "youtube.com/@tripinn1975": "Compilation channel: one 'hidden speakeasy' template across Las Vegas, Tokyo, New York, London (speakeasy, 8 Oct 2026).",
-    "youtube.com/@trip_train_": "Trip.com's own channel selling tickets (speakeasy, 8 Oct 2026)."
+    "youtube.com/@trip_train_": "Trip.com's own channel selling tickets (speakeasy, 8 Oct 2026).",
+    "londonfootballclubs.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "thelateedition.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "worlddartshub.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "bestsportsbars.net": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "sportspasslondon.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "sportsyard.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "discusssports.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "roamrecs.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "watchpartyradar.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "fanzo.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "sportsbarwatch.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "foamfinders.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page."
   }
 }

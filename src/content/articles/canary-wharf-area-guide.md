@@ -202,6 +202,8 @@ The DLR runs overhead on its viaduct.
 
 *Adams Plaza Bridge.*
 
+To watch the match, Directors Box in the Crossrail Place building shows Sky Sports, TNT Sports and LaLiga TV; it is in our [sports bars guide](/articles/best-sports-bars-london/).
+
 ## Getting there
 
 **By Elizabeth line.** **Six minutes** from Liverpool Street, about thirteen from Bond Street. Air-conditioned and step-free.

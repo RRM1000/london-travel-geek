@@ -186,6 +186,8 @@ Chelsea play away at Coventry on the 27th, and Brentford are away at Ipswich on 
 
 **The tournament runs from 11 December 2026 to 3 January 2027 and moves into the Great Hall for the first time, with a record 180,000 tickets.** They were allocated by ballot, which has closed, and the organiser says any resale must go through See Tickets' official Fan-to-Fan platform. Evening doors open at 7pm. Details are on [Alexandra Palace's page](https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/).
 
+Without a ticket, Big Penny Social in Walthamstow and Brigadiers in the City head Time Out's list of pubs for watching the darts; both are in our [sports bars guide](/articles/best-sports-bars-london/).
+
 ### The Peter Pan Cup swim — Christmas Day, Serpentine
 
 The Serpentine Swimming Club's Christmas morning handicap is a 100-yard swim in the lake for the Peter Pan Cup. The race starts at 9am, with swimmers marching to the board from 8.45am. Entry is limited to club members with a handicap. See the [club's page](https://serpentineswimmingclub.com/christmas-day-race-and-peter-pan-cup).
