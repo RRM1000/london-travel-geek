@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02",
+ "generated": "2026-11-05",
  "shows": [
   {
    "slug": "a-christmas-carol-2026",
@@ -332,6 +332,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "brixton-calling",
+   "name": "Brixton Calling",
+   "venue": "Southwark Playhouse Borough",
+   "venueSlug": "southwark-playhouse-borough",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-01-22",
+   "pressNight": null,
+   "opening": "2027-01-22",
+   "closing": "2027-03-13",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "brocks-mill",
    "name": "Brock’s Mill",
    "venue": "Lyric Hammersmith",
@@ -444,7 +459,7 @@
    "location": "Off-West End",
    "genre": "Play",
    "popularity": null,
-   "firstPreview": "2026-11-02",
+   "firstPreview": "2026-11-05",
    "pressNight": "2026-11-10",
    "opening": "2026-11-02",
    "closing": "2027-01-13",
@@ -587,6 +602,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "dog-mom-southwark-playhouse",
+   "name": "Dog Mom",
+   "venue": "Southwark Playhouse Borough",
+   "venueSlug": "southwark-playhouse-borough",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2026-10-14",
+   "pressNight": null,
+   "opening": "2026-10-14",
+   "closing": "2026-11-07",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "dogstar",
    "name": "Dogstar",
    "venue": "Hampstead Theatre",
@@ -688,6 +718,21 @@
    "pressNight": "2026-11-18",
    "opening": "2026-11-16",
    "closing": "2026-11-21",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "fly-you-fools",
+   "name": "Fly, You Fools!",
+   "venue": "Southwark Playhouse Borough",
+   "venueSlug": "southwark-playhouse-borough",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2026-11-25",
+   "pressNight": null,
+   "opening": "2026-11-25",
+   "closing": "2027-01-16",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -1322,6 +1367,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "memoriam",
+   "name": "Memoriam",
+   "venue": "Southwark Playhouse Borough",
+   "venueSlug": "southwark-playhouse-borough",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2026-10-22",
+   "pressNight": null,
+   "opening": "2026-10-22",
+   "closing": "2026-11-21",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "million-dollar-quartet",
    "name": "Million Dollar Quartet",
    "venue": "The Arts at Marble Arch",
@@ -1532,6 +1592,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "nero-the-musical",
+   "name": "Nero",
+   "venue": "Southwark Playhouse Elephant",
+   "venueSlug": "southwark-playhouse-elephant",
+   "location": "Off-West End",
+   "genre": "Musical",
+   "popularity": null,
+   "firstPreview": "2026-11-02",
+   "pressNight": null,
+   "opening": "2026-11-02",
+   "closing": "2026-12-05",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "nevermore",
    "name": "Nevermore",
    "venue": "Charing Cross Theatre",
@@ -1618,6 +1693,21 @@
    "pressNight": null,
    "opening": "2024-12-16",
    "closing": null,
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "once-upon-a-time-in-sokoto",
+   "name": "Once Upon A Time in Sokoto",
+   "venue": "Lyric Hammersmith",
+   "venueSlug": "lyric-hammersmith",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-04-13",
+   "closing": "2027-05-08",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -1727,6 +1817,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "private-jones",
+   "name": "Private Jones",
+   "venue": "Southwark Playhouse Elephant",
+   "venueSlug": "southwark-playhouse-elephant",
+   "location": "Off-West End",
+   "genre": "Musical",
+   "popularity": null,
+   "firstPreview": "2026-12-14",
+   "pressNight": null,
+   "opening": "2026-12-14",
+   "closing": "2027-01-30",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "rachel-zegler-live-in-london",
    "name": "Rachel Zegler – Live in London",
    "venue": "@sohoplace Theatre",
@@ -1738,6 +1843,21 @@
    "pressNight": null,
    "opening": "2027-01-05",
    "closing": "2027-01-17",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "relative-motion",
+   "name": "Relative Motion",
+   "venue": "Southwark Playhouse Borough",
+   "venueSlug": "southwark-playhouse-borough",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2026-11-11",
+   "pressNight": null,
+   "opening": "2026-11-11",
+   "closing": "2026-12-05",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -1843,6 +1963,21 @@
    "pressNight": "2026-12-01",
    "opening": "2026-11-24",
    "closing": "2027-01-17",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "sherlocks-last-tape",
+   "name": "Sherlock's Last Tape",
+   "venue": "Southwark Playhouse Borough",
+   "venueSlug": "southwark-playhouse-borough",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2026-12-10",
+   "pressNight": null,
+   "opening": "2026-12-10",
+   "closing": "2027-01-09",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -2222,21 +2357,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "the-inequalities-by-alexander-zeldin",
-   "name": "The Inequalities By Alexander Zeldin",
-   "venue": "Almeida Theatre",
-   "venueSlug": "almeida-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
-   "opening": "2027-03-22",
-   "closing": "2027-05-22",
-   "bookingFrom": "2026-10-27",
-   "priorityFrom": "2026-10-20"
-  },
-  {
    "slug": "the-island",
    "name": "The Island",
    "venue": "Almeida Theatre",
@@ -2413,6 +2533,21 @@
    "pressNight": "2027-07-12",
    "opening": "2027-07-09",
    "closing": "2027-08-07",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "the-radium-girls",
+   "name": "The Radium Girls",
+   "venue": "Southwark Playhouse Borough",
+   "venueSlug": "southwark-playhouse-borough",
+   "location": "Off-West End",
+   "genre": "Musical",
+   "popularity": null,
+   "firstPreview": "2027-03-20",
+   "pressNight": null,
+   "opening": "2027-03-20",
+   "closing": "2027-05-08",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -2679,8 +2814,8 @@
    "location": "Off-West End",
    "genre": "Musical",
    "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
+   "firstPreview": "2027-11-12",
+   "pressNight": "2027-11-25",
    "opening": "2027-11-01",
    "closing": null,
    "bookingFrom": null,
