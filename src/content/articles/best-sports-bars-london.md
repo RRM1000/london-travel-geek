@@ -164,7 +164,7 @@ A pub under the railway arches by Tower Hill, showing Sky Sports and TNT Sports 
 
 *1 Crossrail Place, E14 5AR · Cited by 2 sources · Great British Pub Awards finalist, Best Pub to Watch Sport, 2023 (as Sports Bar & Grill Canary Wharf) · [the pub's site](https://www.socialpubandkitchen.co.uk/pubs/directors-box-canary-wharf)*
 
-![The Canary Wharf entrance under its old Sports Bar & Grill sign](../../assets/articles/best-sports-bars-london/directors-box-canary-wharf.jpg)
+![The Canary Wharf entrance under its old Sports Bar and Grill sign](../../assets/articles/best-sports-bars-london/directors-box-canary-wharf.jpg)
 
 *Directors Box, Canary Wharf.*
 
