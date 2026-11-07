@@ -2,6 +2,8 @@
 title: "Sports Bars in London: Where to Watch Football and Rugby"
 seoTitle: "Sports Bars in London: Where to Watch the Match"
 description: "London's sports bars and pubs with screens, ranked by how many independent sources name them: where to watch football, rugby, the NFL, F1 and darts, which ones take bookings, and where to find your own country's fans."
+heroImage: "../../assets/articles/best-sports-bars-london/greenwood-victoria.jpg"
+heroImageAlt: "The Greenwood sports pub entrance and terrace under green awnings in Victoria"
 publishedAt: 2026-11-05
 updatedAt: 2026-11-05
 reviewBy: 2027-01-31
@@ -63,6 +65,10 @@ BOX Piccadilly and Bloodsports, both opened since 2025, have their entries under
 
 *[Book a table](https://www.sportlondon.com/book) · official NFL watch-party bars*
 
+![The Greenwood sports pub entrance and terrace under green awnings in Victoria](../../assets/articles/best-sports-bars-london/greenwood-victoria.jpg)
+
+*Greenwood, Victoria.*
+
 Sport London runs six sports pubs with the same set-up: big screens, a fixtures list on its site, and online booking by match. The NFL lists all six as official UK watch-party bars, and Sport London's own pages list the NFL, F1, cricket (the Ashes, the T20 Blast) and AFL, with "surround sound" for the Aussie rules.
 
 - **Greenwood**, 170 Victoria Street, SW1E 5LB · Cited by 7 sources · 30-plus HD screens and a 150-inch LED wall over two floors, matches shown with the sound on; open Monday to Saturday 11am to midnight. Londonist warns it "gets fearsomely busy on big match days".
@@ -76,6 +82,10 @@ Sport London runs six sports pubs with the same set-up: big screens, a fixtures 
 
 *1 Priestley Way, E17 6AL · Cited by 7 sources · [book a table](https://bigpennysocial.co.uk/book-now)*
 
+![The empty beer hall at Big Penny Social, with long wooden tables and a table-tennis table](../../assets/articles/best-sports-bars-london/big-penny-social.jpg)
+
+*Big Penny Social, Walthamstow.*
+
 A beer hall near Blackhorse Road station with a capacity of 700 and tables bookable for groups of up to 60. The NFL held its official Super Bowl LX party here in February 2026, and it opens Time Out's list for watching the PDC World Darts Championship. The Evening Standard writes of "booming sound" and "a mix of families" on match days.
 
 It closes at 8pm on Sundays, so a Sunday evening kick-off is out; it is open 12pm to 11pm Monday to Thursday and until 1am on Fridays and Saturdays.
@@ -83,6 +93,10 @@ It closes at 8pm on Sundays, so a Sunday evening kick-off is out; it is open 12p
 ### Brigadiers, Bank — Indian barbecue with screens
 
 *1–5 Bloomberg Arcade, EC4N 8AR · Cited by 7 sources · [book a table](https://www.sevenrooms.com/explore/brigadiers/reservations/create/search/)*
+
+![The bar at Brigadiers, with red leather stools and a back bar of whisky](../../assets/articles/best-sports-bars-london/brigadiers-bank.jpg)
+
+*Brigadiers, Bloomberg Arcade.*
 
 An Indian barbecue restaurant that doubles as a sports bar: private rooms for 6 to 25 with their own screens and self-pour beer taps, and a partly covered terrace with screens. On Saturdays a sports menu runs from 12pm to 4pm. Time Out sent darts fans here, the Evening Standard sent rugby and World Cup fans, and The Infatuation lists it for big groups.
 
@@ -92,11 +106,19 @@ It closes between 2.45pm and 5pm Monday to Wednesday, so check a weekday kick-of
 
 *161–165 Borough High Street, SE1 · Cited by 7 sources · #41 of 42, Time Out football pubs · [Belushi's site](https://belushis.com/london-bridge)*
 
+![The bar counter at Belushi's, with beer taps and painted signs on white tiles](../../assets/articles/best-sports-bars-london/belushis-dugout-london-bridge.jpg)
+
+*Belushi's.*
+
 A bar chain with branches across London; the London Bridge site has the Dugout, a basement sports room seating 125 (250 standing) with multiple screens and two large projectors. It is open until 2am Sunday to Thursday and 3am on Fridays and Saturdays, the latest of any bar here. Londonist's tip: "They're strict with IDs, so bring one."
 
 ### Boxpark Shoreditch, Wembley and Croydon — ticketed screenings
 
 *Shoreditch: 2–10 Bethnal Green Road, E1 6GY · Cited by 7 sources · [fixtures and tickets](https://www.boxpark.co.uk/sports-bar)*
+
+![The BOXPARK Wembley building at dusk, with its sign above the entrance](../../assets/articles/best-sports-bars-london/boxpark-wembley.jpg)
+
+*BOXPARK Wembley.*
 
 Food halls built from shipping containers, with big screens over communal tables. Boxpark sells entry tickets for its big screenings through Eventbrite, marks each fixture "Sound on", and shows football, rugby, F1, NFL and boxing. The Evening Standard calls it "the first point of call for many football fans in London"; Boxpark Wembley sits a few hundred feet from the stadium.
 
@@ -106,11 +128,19 @@ Tickets are non-refundable, and Shoreditch takes table bookings only for six or 
 
 *19 Perth Road, N4 3HB · Cited by 6 sources · #2 of 42, Time Out football pubs · #2 of 16, Time Out rugby pubs · [the pub's site](https://www.falteringfullback.com/)*
 
+![Inside The Faltering Fullback, with a bicycle, a guitar and sports shirts hanging from the ceiling](../../assets/articles/best-sports-bars-london/the-faltering-fullback.jpg)
+
+*The Faltering Fullback, Finsbury Park.*
+
 A family-run Irish pub on a residential side street off Stroud Green Road, its front covered in vines. Inside it is "cluttered with gimcrack and TVs" (Londonist); out back is a garden on several levels with outdoor screens, and a room called the Sin Bin. The kitchen serves Thai food. It is a regular stop on Arsenal matchday crawls, filmed by the YouTube channel Hannah and Martin on the Globe, and the home pub of London's Limerick GAA community.
 
 ### Flat Iron Square, London Bridge — screens inside and out
 
 *45 Southwark Street, SE1 9HP · Cited by 6 sources · #3 of 16, Time Out rugby pubs · [book a table](https://flatironsquare.co.uk/book-a-table)*
+
+![The Camden bar under a railway arch at Flat Iron Square, with football on two screens](../../assets/articles/best-sports-bars-london/flat-iron-square.jpg)
+
+*Flat Iron Square, London Bridge.*
 
 A yard of railway arches and street-food stalls under the Shard that calls itself "London's home of sport", with a large heated outdoor screen. Londonist counts 19 screens showing every Sky Sports and TNT Sports game, inside and out; the Evening Standard says it was "outrageously busy" during Euro 2024. The food is from the traders: Greek souvlaki, Korean fried chicken and New York-style pizza slices.
 
@@ -124,11 +154,19 @@ The Great British Pub Awards' Best Pub to Watch Sport went to pubs in Nantwich (
 
 *64–73 Minories, EC3N 1JL · Cited by 2 sources · Great British Pub Awards finalist, Best Pub to Watch Sport, 2025 · [the pub's site](https://www.socialpubandkitchen.co.uk/pubs/minories-london)*
 
+![The covered beer garden at The Minories, with football on a screen](../../assets/articles/best-sports-bars-london/the-minories.jpg)
+
+*The Minories, Tower Hill.*
+
 A pub under the railway arches by Tower Hill, showing Sky Sports and TNT Sports across numerous plasma screens and two large projector screens, plus outdoor screens in a heated beer garden. The TikTok channel Historic Pub Crawls says it has "the most amount of TVs I've ever seen outside of a US sports bar".
 
 ### Directors Box, Canary Wharf — 2023 finalist
 
 *1 Crossrail Place, E14 5AR · Cited by 2 sources · Great British Pub Awards finalist, Best Pub to Watch Sport, 2023 (as Sports Bar & Grill Canary Wharf) · [the pub's site](https://www.socialpubandkitchen.co.uk/pubs/directors-box-canary-wharf)*
+
+![The Canary Wharf entrance under its old Sports Bar & Grill sign](../../assets/articles/best-sports-bars-london/directors-box-canary-wharf.jpg)
+
+*Directors Box, Canary Wharf.*
 
 A sports bar in the Crossrail Place building at Canary Wharf, with HD screens, Sky Sports, TNT Sports, LaLiga TV and NFL Game Pass, plus a dartboard and pool table. It was the 2023 finalist under its old name.
 
@@ -136,11 +174,19 @@ A sports bar in the Crossrail Place building at Canary Wharf, with HD screens, S
 
 *18 Great Queen Street, WC2B 5DG · Cited by 2 sources · #1 of 42, Time Out football pubs · [the pub's site](https://www.herculespillars.co.uk/)*
 
+![Tables laid for Christmas in The Hercules Pillars, with the bar behind](../../assets/articles/best-sports-bars-london/the-hercules-pillars.jpg)
+
+*The Hercules Pillars, Holborn.*
+
 A pub on Great Queen Street since 1703, with a gilded Hercules over the bar and Greek-style sculptures, a projector and four HD screens. Its fixtures list marks each match's sound, and many go out "Sound Off", so a quiet pint over the football is possible here. There is a function room for 100.
 
 ### Café Kick, Exmouth Market — Time Out's best bar in London, 2026
 
 *43 Exmouth Market, EC1R 4QL · Cited by 3 sources · #1 of 50, Time Out 50 Best Bars · #17 of 42, Time Out football pubs · [Café Kick's site](https://www.cafekick.co.uk/)*
+
+![The Café Sport Bar sign and awning of Café Kick on Exmouth Market](../../assets/articles/best-sports-bars-london/cafe-kick-exmouth-market.jpg)
+
+*Café Kick, Exmouth Market.*
 
 A small continental-style café-bar, open since 1997, with table football and screens showing the football. Time Out made it number one of its 50 Best Bars in London for 2026. Most matches are shown without sound.
 
@@ -161,6 +207,10 @@ Seven sources name it within a year of opening, level with the most-cited bars. 
 ### Bloodsports, Covent Garden — sport and horror films until 2am
 
 *27–29 Endell Street, WC2H 9BA · Cited by 6 sources · #37 of 50, Time Out 50 Best Bars · opened February 2025 · [book a table](https://www.sevenrooms.com/explore/bloodsports/reservations/create/search/)*
+
+![The Bloodsports sign above its entrance on Endell Street](../../assets/articles/best-sports-bars-london/bloodsports-covent-garden.jpg)
+
+*Bloodsports, Covent Garden.*
 
 From the team behind MeatLiquor: 30-plus screens, live sport from around the world on some and cult horror films on others. The nine screens in the main bar never have commentary, but other areas play sound on request when you book. It is open every day from 12pm to 2am.
 
@@ -191,6 +241,10 @@ Famous Three Kings, the Duke of Edinburgh, Pub on the Park and the Leyton Star a
 #### Famous Three Kings, West Kensington — 30-plus screens
 
 *171 North End Road, W14 9NL · Cited by 4 sources · #23 of 42, Time Out football pubs · [the pub's site](https://www.famousthreekings.co.uk/)*
+
+![The Famous Three Kings on its corner beside West Kensington station](../../assets/articles/best-sports-bars-london/famous-three-kings.jpg)
+
+*Famous Three Kings, West Kensington.*
 
 A pub rebuilt in 1902 and now given over to sport, with more than 30 UHD screens showing Sky Sports and TNT Sports. When you book, write your match in the Special Requests box, so you're seated in view of the right screen. It's open 12pm to 11pm. The Evening Standard calls it the pub for Wales fans.
 
@@ -247,6 +301,10 @@ BOX Piccadilly and the Sport London pubs are the NFL's official UK bars. The Sup
 #### Passyunk Avenue — Philadelphia bars in four places
 
 *Fitzrovia, Waterloo (Leake Street), Battersea and Kensington · Cited by 5 sources · [book a table](https://www.sevenrooms.com/explore/passyunkgroup/reservations/create/search/)*
+
+![The back bar at Passyunk Avenue, covered in dollar bills and Philadelphia sports mascots](../../assets/articles/best-sports-bars-london/passyunk-avenue-fitzrovia.jpg)
+
+*Passyunk Avenue, Fitzrovia.*
 
 A Philly-themed dive bar chain serving cheesesteaks, wings, hoagies and Pabst Blue Ribbon, with big screens and a giant projection screen showing baseball, basketball and American football. Passyunk Play in Waterloo adds baseball batting cages. Londonist calls it a "baseball and basketball dive bar".
 
