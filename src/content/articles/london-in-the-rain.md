@@ -113,6 +113,10 @@ London's two Westfield centres are fully roofed malls.
 
 **Westfield London**, at White City and Shepherd's Bush, has around 476 shops and a 17-screen Vue cinema under one roof. **Absurd City**, an 80,000 sq ft immersive art experience from the makers of Bristol's "amazement park", opened inside the centre, in the old KidZania unit, on 15 October 2026. **Westfield Stratford City** connects directly to Stratford station, so you walk through it to reach the Olympic Park whatever the weather, and has around 250 shops, a cinema, a casino and a bowling alley; **Phantom Peak**, the immersive free-roam show that closed at Canada Water, reopens here on 4 December 2026. Both malls are covered in our [shopping guide](/articles/shopping-in-london/) and [immersive experiences guide](/articles/immersive-experiences-london/); Stratford also has its own [area guide](/articles/stratford-area-guide/#westfield-stratford-city).
 
+![The atrium of Westfield London under its lattice glass roof, hung with purple and orange light globes, with fairy lights on the balconies and the Vue cinema on the top floor](../../assets/articles/london-in-the-rain/westfield-london-atrium.jpg)
+
+*Westfield London, White City.*
+
 **The UK abolished VAT refunds for visitors in 2021**; the only way to claim it back now is to have the shop ship your purchase abroad. Our [tax-free shopping guide](/articles/tax-free-shopping-london/) has what still works.
 
 ---

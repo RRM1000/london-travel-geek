@@ -71,6 +71,10 @@ Covent Garden's shops run on a Thursday schedule: its [Festive Thursdays](https:
 
 **[Westfield London](https://www.westfield.com/en/united-kingdom/london)**, at Shepherd's Bush, is the larger of the two and has The Village, the luxury wing with Louis Vuitton and Tiffany & Co. Its [Black Friday page](https://www.westfield.com/en/united-kingdom/london/news/black-friday-at-westfield-london/139471) names Zara, COS, AllSaints, Sephora, Charlotte Tilbury, Apple and Samsung among the shops to plan around, and Bill's, Wagamama and Rosa's Thai for a break. Shepherd's Bush (Central line and Overground) and Wood Lane (Hammersmith & City and Circle) are the stations.
 
+![The atrium of Westfield London under its lattice glass roof, hung with purple and orange light globes, with fairy lights on the balconies and the Vue cinema on the top floor](../../assets/articles/black-friday-london/westfield-london-atrium.jpg)
+
+*Westfield London, White City.*
+
 **[Westfield Stratford City](https://www.westfield.com/en/united-kingdom/stratfordcity)** sits next to the Olympic Park, and Stratford station has the Central, Jubilee and Elizabeth lines, the DLR and the Overground. Our [Stratford guide](/articles/stratford-area-guide/) covers what else is nearby.
 
 ### Bicester Village and the outlets

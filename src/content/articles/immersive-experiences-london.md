@@ -3,7 +3,7 @@ title: "The Best Immersive Experiences in London: What's Actually Still Open"
 seoTitle: "Best Immersive Experiences London 2026: Still Open"
 description: "Immersive shows close constantly. What is open, what opens next and what has shut, with prices and dates from the operators."
 publishedAt: 2026-07-02
-updatedAt: 2026-11-01
+updatedAt: 2026-11-08
 reviewBy: 2026-11-13
 sites: [london]
 canonicalSite: london
@@ -253,11 +253,15 @@ A fantasy prison for dark magic. You are issued a uniform and put in a cell with
 
 ### Absurd City, Westfield London
 
-*80,000 sq ft · 3+ hours · all ages, under-13s with an adult · White City · opened 15 October 2026*
+*From £21 plus booking fee · open daily 11am–8pm · 80,000 sq ft · 3+ hours · all ages, under-13s with an adult · White City · opened 15 October 2026*
 
 A parallel city called Meridia, run by a digital mascot named REX. You wander five districts across two floors of surreal installations and hidden rooms, or follow the story of an underground resistance. It is self-guided and non-linear, so there is no start time to miss.
 
 The Wunderground Bar & Kitchen is open without a ticket. Adult-only After Hours evenings need a separate ticket: arrive between 7pm and 9pm, with last drinks at 11pm. Booking early saves up to 40%. The venue is cashless. [Tickets](https://london.wakethetiger.com/tickets).
+
+![The Absurd City entrance inside Westfield London, a painted rainbow wall and a neon OPEN arrow above a corridor marked Department Store, Under New Management, beside a concrete facade with pipes and the Wake The Tiger sign](../../assets/articles/immersive-experiences-london/absurd-city-entrance.jpg)
+
+*The Absurd City entrance at Westfield London.*
 
 ### Euphoria, House of Dreamers and Timewalk, Immerse LDN at ExCeL
 

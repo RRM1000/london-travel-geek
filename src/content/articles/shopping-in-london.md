@@ -196,6 +196,10 @@ Prices span a wide range.
 * **Broadgate**, by Liverpool Street: shops and restaurants around a covered circle among the City's offices. It works to office hours: busiest at weekday lunchtime and very quiet at the weekend.
 * **Brent Cross** and **Bluewater**: big, out of town, for volume shopping.
 
+![The atrium of Westfield London under its lattice glass roof, hung with purple and orange light globes, with fairy lights on the balconies and the Vue cinema on the top floor](../../assets/articles/shopping-in-london/westfield-london-atrium.jpg)
+
+*Westfield London, White City.*
+
 ![The covered arcade at Broadgate Central, with shops on two levels and tables on the lower walkway](../../assets/articles/shopping-in-london/broadgate-central.jpg)
 
 ### The two outlets
