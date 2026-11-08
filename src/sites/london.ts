@@ -80,6 +80,7 @@ export const londonSite: SiteConfig = {
       secondary: {
         title: "This season",
         children: [
+          { label: "Black Friday in London", href: "/articles/black-friday-london/", months: [11] },
           { label: "Halloween in London", href: "/articles/halloween-london/", months: [9, 10] },
           // From September: the big ticketed displays go on sale in early
           // October and the best ones sell out, so surfacing it the month

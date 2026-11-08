@@ -236,6 +236,7 @@ Both run north from the east end of Oxford Street. Rathbone Place is where Fitzr
 - **Late-opening shops.** Selfridges is open to 10pm Monday to Saturday. John Lewis stays open until 9pm on Thursdays.
 - **Evenings for the lights.** Our [Christmas lights walk](/articles/christmas-lights-walk-london/) has the dates and the quietest nights, and [Christmas in London](/articles/christmas-in-london/) has the other displays.
 - **Oxford Circus on busy Saturdays.** TfL can close the station's entrances when crowds build; Bond Street and Tottenham Court Road are the alternatives.
+- **Black Friday, Friday 27 November 2026.** Our [Black Friday guide](/articles/black-friday-london/) has the late hours, the outlets and the crowd advice for the weekend.
 
 ## Christmas opening hours
 
@@ -263,6 +264,7 @@ Oxford Street is the border between three areas. [Where to stay in Soho and the 
 ## Carry on
 
 - **[Shopping in London](/articles/shopping-in-london/)**: Regent Street, Bond Street, the markets and the arcades.
+- **[Black Friday in London](/articles/black-friday-london/)**: where to shop on 27 November, which stores open late and the theatre deals.
 - **[Christmas lights walk](/articles/christmas-lights-walk-london/)**: starts at Selfridges and finishes at Trafalgar Square.
 - **[Best areas to visit in London](/articles/best-areas-to-visit-london/)**: the neighbourhoods compared by what each is for.
 - **[London in November](/articles/things-to-do-in-london-in-november/)**: the lights switch-ons and the rest of the month.

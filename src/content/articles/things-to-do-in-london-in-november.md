@@ -178,6 +178,8 @@ Still running through the month: **Korea** at the British Museum and **Renoir an
 
 **Oxford Street has been traffic-free between Orchard Street and Great Portland Street since Monday 26 October 2026**, and the Harry Potter Shop at 134-140 Oxford Street opens on Wednesday 4 November. Our [Oxford Street guide](/articles/oxford-street-guide/) has the bus changes, the shops and the streets off it.
 
+**Black Friday is Friday 27 November.** Our [Black Friday guide](/articles/black-friday-london/) covers the late-opening hours, Bicester Village and the outlets, and the theatre deals.
+
 **Thanksgiving is Thursday 26 November.** The Red Lion in Barnes, a Fuller's pub, has served an American Thanksgiving dinner for more than 20 years, with a lunchtime sitting and two in the evening on the day.
 
 **Three awards nights fall in the month**: the Booker Prize winner is announced on Monday 9 November, the Royal Variety Performance is on Friday 20th and the Fashion Awards are on Monday 30th. The details are in our [awards ceremonies guide](/articles/award-ceremonies-london/).

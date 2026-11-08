@@ -333,6 +333,8 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 
 Our [December guide](/articles/things-to-do-in-london-in-december/) has the detail. The last days of the season, to 10 January, are in our [January guide](/articles/things-to-do-in-london-in-january/).
 
+**Shopping on the same trip?** Black Friday is Friday 27 November 2026, and our [Black Friday guide](/articles/black-friday-london/) has the late hours, the outlets and the theatre deals.
+
 **Deciding whether December is worth it against the rest of the year?** [Best Time to Visit London](/articles/best-time-to-visit-london/) sets its weather, crowds and cost against every other month.
 
 ---

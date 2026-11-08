@@ -265,10 +265,13 @@ The percentages are off list price rather than off what the item last sold for, 
 
 **Shop on a weekday morning.** Saturday afternoon on Oxford Street has the same shops as a weekday, with more people in them.
 
+**Black Friday is Friday 27 November 2026.** Our [Black Friday guide](/articles/black-friday-london/) has the late-opening hours, Bicester Village and the outlets, and how to avoid the crowds.
+
 ---
 
 ## Continue planning your London trip
 
+- 🏷️ **[Black Friday in London](/articles/black-friday-london/)** — late hours, the outlets and the deals on 27 November
 - 🏪 **[The Best Markets in London](/articles/best-london-markets/)** — every market, and what day it runs
 - 🍽️ **[The Best Street Food in London](/articles/best-street-food-london/)** — the food halls, compared
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — including a day that costs nothing
