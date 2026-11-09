@@ -3,8 +3,8 @@ title: "The Best Ramen in London: Tonkotsu, Chicken Broth and Brothless Bowls"
 seoTitle: "Best Ramen in London 2026: Tonkotsu to Abura Soba"
 description: "Where to eat ramen in London by broth style: pork-bone tonkotsu, chicken paitan, brothless abura soba, halal and vegan bowls, with menu prices and booking rules."
 publishedAt: 2026-10-28
-updatedAt: 2026-10-28
-reviewBy: 2027-01-28
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites:
   - london
 canonicalSite: london
@@ -49,7 +49,7 @@ faq:
 
 Knowing which of these a shop cooks settles where to go before you join a pavement queue.
 
-*Menus, prices and opening hours as of October 2026.*
+*Menus, prices and opening hours as of November 2026.*
 
 ---
 

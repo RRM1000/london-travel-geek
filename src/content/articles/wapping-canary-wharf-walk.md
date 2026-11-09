@@ -5,8 +5,8 @@ description: "A riverside pub walk from Wapping to Canary Wharf in eleven number
 heroImage: "../../assets/articles/wapping-canary-wharf-walk/spirit-quay.jpg"
 heroImageAlt: "Gabled yellow-brick houses along the Ornamental Canal at Spirit Quay, red ivy on the end wall and the terrace reflected in still water"
 publishedAt: 2026-06-04
-updatedAt: 2026-11-02
-reviewBy: 2026-11-30
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -183,7 +183,7 @@ Two more places on the same stretch, in walking order:
 
 About 1.5km: past Westferry Circus and along the dock edge to **Crossrail Place**, whose free roof garden sits on top of the Elizabeth line station.
 
-**Canary Wharf Winter Lights runs 19–30 January 2027.** This is also stop 1 of our **[Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/)**, which carries on south through the docks and under the Thames by the Greenwich Foot Tunnel. Walk both and you have gone from the Tower to Greenwich hill, above the Prime Meridian (the Royal Observatory's courtyard is closed from 2 November 2026).
+**Canary Wharf Winter Lights runs 19–30 January 2027.** This is also stop 1 of our **[Canary Wharf to Greenwich walk](/articles/canary-wharf-greenwich-walk/)**, which carries on south through the docks and under the Thames by the Greenwich Foot Tunnel. Walk both and you have gone from the Tower to Greenwich hill, above the Prime Meridian (the Royal Observatory's courtyard is closed until summer 2027).
 
 ## The detours: Wapping Woods, Tobacco Dock and the Yurt Café
 
@@ -195,7 +195,7 @@ Three places worth five minutes each, none of them on the direct line.
 
 ![Inside the Yurt Café: a round timber-ribbed ceiling hung with lights and flowers, wooden tables on a patterned rug and the counter at the back](../../assets/articles/wapping-canary-wharf-walk/yurt-cafe.jpg)
 
-**The Yurt Café** is a café inside a yurt, in the grounds of the Royal Foundation of St Katharine on Butcher Row — five minutes north of the river between stops 8 and 9, and **not** St Katharine Docks at stop 1. It runs as a social enterprise and has two new yurts, installed in October 2026, and extends its evenings from November 2026. **Worth the five minutes if** you are walking with children, or you want a cheap meal away from the pubs.
+**The Yurt Café** is a café inside a yurt, in the grounds of the Royal Foundation of St Katharine on Butcher Row — five minutes north of the river between stops 8 and 9, and **not** St Katharine Docks at stop 1. It runs as a social enterprise, installed two new yurts in October 2026 and has opened later in the evenings since November 2026. **Worth the five minutes if** you are walking with children, or you want a cheap meal away from the pubs.
 
 ---
 

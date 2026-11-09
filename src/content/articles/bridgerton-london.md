@@ -3,8 +3,8 @@ title: "Bridgerton in London: Everywhere a Fan Can Actually Go"
 seoTitle: "Bridgerton Filming Locations London: Prices & Tours"
 description: "Ranger's House is free to view, with its interior open on select dates in 2027. Castle Howard played the Duke of Hastings's estate. Bath's Assembly Rooms are closed until 2027. Locations, prices and the Bridgerton tours you can book."
 publishedAt: 2026-09-15
-updatedAt: 2026-11-02
-reviewBy: 2026-11-28
+updatedAt: 2026-11-09
+reviewBy: 2026-11-27
 sites:
   - london
 canonicalSite: london
@@ -25,7 +25,7 @@ faq:
   - q: "Can you visit Castle Howard, the Duke of Hastings's estate?"
     a: "Yes. Castle Howard's own website says it 'doubled as Clyvedon Castle, the Duke of Hastings' home' in series one, and its holiday cottages sit in Coneysthorpe, used as Clyvedon village. The House and Gardens season ended on 31 October and the house reopens on 12 November for its Christmas event, which runs to 3 January 2027; a self-guided visit takes 40 to 60 minutes. Allow at least two hours each way to York, plus a bus or taxi on to the house."
   - q: "Is there a Bridgerton walking tour in London?"
-    a: "Yes. A 2½-hour Bridgerton walking tour of Greenwich costs £27 on GetYourGuide, taking in the Queen's House and the Royal Observatory, which is closed from 2 November 2026 to visitors. The best-reviewed Bridgerton tours are in Bath: two walking tours from £20, with 408 and 519 reviews."
+    a: "Yes. A 2½-hour Bridgerton walking tour of Greenwich costs £27 on GetYourGuide, taking in the Queen's House and the Royal Observatory, which has been closed to visitors since 2 November 2026. The best-reviewed Bridgerton tours are in Bath: two walking tours from £20, with 408 and 519 reviews."
   - q: "Can the public visit Lancaster House, used for St James's Palace?"
     a: "No, not on an ordinary day. Lancaster House on Stable Yard, St James's, is run by the Foreign, Commonwealth & Development Office as a government hospitality venue hired out for events, with no regular visitor opening. You can see it from the street, five minutes' walk from Green Park station."
   - q: "Where was Queen Charlotte: A Bridgerton Story filmed?"
@@ -111,7 +111,7 @@ Ham House stood in for **Bridgerton House, Penwood House and Benedict Bridgerton
 ![Ham House in Richmond, a red-brick Jacobean mansion with tall chimneys, seen across the garden lawn and its reclining stone statue](../../assets/articles/bridgerton-london/ham-house-richmond.jpg)
 *Ham House, Richmond.*
 
-**Ham Street, Ham, Richmond, Surrey, TW10 7RS.** **House 11:30am–3:30pm, garden 10am–5pm.** No pre-booking — go to Visitor Reception on arrival. **Adult £18.00 (£19.80 with Gift Aid), child (5–17) £9.00, family (2 adults + up to 3 children) £45.00.** National Trust members go free.
+**Ham Street, Ham, Richmond, Surrey, TW10 7RS.** **Garden 10am–4pm in November, with the house open on tours only: weekday conservation tours run 10 to 24 November, and Christmas at Ham House runs 28 November 2026 to 3 January 2027.** No pre-booking for the garden — go to Visitor Reception on arrival. **Adult £18.00 (£19.80 with Gift Aid), child (5–17) £9.00, family (2 adults + up to 3 children) £45.00.** National Trust members go free.
 
 ### Osterley Park and House, Isleworth
 
@@ -173,7 +173,7 @@ Most of the grand interiors were filmed outside London. Each needs a full day.
 | Castle Howard, North Yorkshire | Clyvedon Castle, the Duke of Hastings's estate (S1) | House and Gardens season ended 31 Oct; Christmas event from 12 Nov |
 | Blenheim Palace, Oxfordshire | Buckingham House (S3) | Park and Gardens from £34 adult |
 | Basildon Park, Berkshire | Featherington garden (S2); Lady Tilley Arnold's home (S3) | £20 house and garden |
-| Claydon House, Buckinghamshire | The wedding breakfast (S3) | £12 house and garden; closed Tue–Thu |
+| Claydon House, Buckinghamshire | The wedding breakfast (S3) | £12 house and garden; house closed until 14 November, then Fri–Mon only |
 | Waddesdon Manor, Buckinghamshire | Queen Charlotte | Grounds £14, house and grounds £27 |
 | Belton House, Lincolnshire | King George's residence, Queen Charlotte | National Trust — see below |
 
@@ -223,7 +223,7 @@ Basildon's Georgian rooms and rose garden did double duty: the **Featherington f
 
 ### Claydon House, Buckinghamshire
 
-The **wedding breakfast** in series three's episode seven was filmed here, in a room dressed as the Featheringtons' dining room. **Adult £13.20 (£12.00 without Gift Aid), child £6.00, family £30.00.** The house opens **Friday to Monday only**, so plan around that rather than around London train times.
+The **wedding breakfast** in series three's episode seven was filmed here, in a room dressed as the Featheringtons' dining room. **Adult £13.20 (£12.00 without Gift Aid), child £6.00, family £30.00.** The house is closed until 14 November, when it reopens for House of Bells, and opens **Friday to Monday only**, so plan around that rather than around London train times. The gardens are closed until March 2027.
 
 ### Waddesdon Manor, Buckinghamshire
 
@@ -284,4 +284,4 @@ Swap either house for Hampton Court Palace (£30 off-peak on weekdays, £33 at w
 - 🚶 **[Best Walking Tours in London](/articles/best-walking-tours-london/)**
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)**
 
-*Prices and opening times as of October 2026.*
+*Prices and opening times as of November 2026.*

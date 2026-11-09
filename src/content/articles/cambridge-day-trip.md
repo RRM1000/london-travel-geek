@@ -3,7 +3,7 @@ title: "Cambridge from London: The Day Trip, Priced and Timed"
 seoTitle: "Cambridge Day Trip from London: Trains & Colleges"
 description: "An Off-Peak return to Cambridge is £32.40 and the fast train takes 49 minutes. Which colleges charge and when they shut, what punting really costs, and why the man selling you a punt on King's Parade is breaking the law."
 publishedAt: 2026-09-12
-updatedAt: 2026-10-26
+updatedAt: 2026-11-09
 reviewBy: 2026-12-06
 sites: [london]
 canonicalSite: london
@@ -270,7 +270,7 @@ After the 22:48 to Liverpool Street you are into journeys with a change — the 
 - **Driving in and parking at Grand Arcade.** Over five hours on a weekday is £33.50, against free parking and a £4.50 bus at any park and ride.
 - **Booking the Victoria coach** and finding it leaves once a day, at 15:00.
 
-*Prices and opening times as of October 2026.*
+*Prices and opening times as of November 2026.*
 
 ## Continue planning your day out
 

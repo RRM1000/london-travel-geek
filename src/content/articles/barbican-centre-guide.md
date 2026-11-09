@@ -3,7 +3,7 @@ title: "What's On at the Barbican: Concerts, Theatre, Film and How to Visit"
 seoTitle: "What's On at the Barbican: Tickets, Food, Getting There"
 description: "Every upcoming concert, play, film event and talk at the Barbican, updated daily, plus the £4 booking fee you avoid by buying at the desk, the £6 tickets for 16 to 29s, the bag rule, and where to eat before a show."
 publishedAt: 2026-06-10
-updatedAt: 2026-11-02
+updatedAt: 2026-11-09
 reviewBy: 2027-01-02
 heroImage: "../../assets/articles/barbican-centre-guide/barbican-lakeside-terrace.jpg"
 heroImageAlt: "The Barbican Centre's Lakeside Terrace on a sunny day, with people at benches and tables beside the fountains and the long balconied block of Barbican flats behind"
@@ -132,4 +132,4 @@ The Barbican runs **captioned**, **BSL-interpreted**, **audio-described** and **
 - 🖼️ **[Best Galleries in London](/articles/best-galleries-london/)**
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)**
 
-*Prices and opening hours as of 2 November 2026. The listings are read from the Barbican's box office and refresh daily.*
+*Prices and opening hours as of November 2026. The listings are read from the Barbican's box office and refresh daily.*

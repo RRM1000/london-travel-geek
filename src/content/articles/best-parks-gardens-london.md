@@ -5,8 +5,8 @@ description: "A Wren church left as a shell and filled with vines, dinosaurs bui
 heroImage: "../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg"
 heroImageAlt: "Greenwich Park in spring, the grass slope running down past the Old Royal Naval College to Canary Wharf beyond"
 publishedAt: 2026-09-11
-updatedAt: 2026-10-26
-reviewBy: 2026-11-10
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -81,7 +81,7 @@ Formal gardens, the Open Air Theatre, London Zoo and, at the north end, Primrose
 
 For a walk through it, our [Regent's Park and Marylebone walking route](/articles/regents-park-marylebone-walk/) crosses from Baker Street past the rose garden and the Nash terraces to Bond Street.
 
-**Primrose Hill**, just north of the park and five minutes' walk from the top of it, has a protected view south over the city. **It is locked from 10pm to 6am every night from 30 October to 9 November 2026.**
+**Primrose Hill**, just north of the park and five minutes' walk from the top of it, has a protected view south over the city.
 
 ![A flowerbed of white and near-black tulips in Regent's Park, with people walking behind](../../assets/articles/best-parks-gardens-london/regents-park-tulips.jpg)
 
@@ -105,7 +105,7 @@ The park is free, but **the children's zoo is ticketed**.
 
 **183 acres and the oldest enclosed royal park in London**, rising steeply from the Old Royal Naval College to the Observatory on the hill, with a deer herd in The Wilderness.
 
-The view from the General Wolfe statue is free and sits outside the Royal Observatory, which closes for refurbishment on 2 November 2026.
+The view from the General Wolfe statue is free and sits outside the Royal Observatory, which has been closed for refurbishment since 2 November 2026.
 
 ![Greenwich Park in spring, looking down the grass slope over the Old Royal Naval College to Canary Wharf and the O2 under a clear blue sky](../../assets/articles/best-parks-gardens-london/greenwich-park-spring.jpg)
 
@@ -295,7 +295,6 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 ## What to know
 
 * **All eight Royal Parks are free, and their hours differ.** Hyde Park, Green Park and St James's Park are open 5am to midnight. Kensington Gardens and Greenwich Park open at 6am and The Regent's Park at 5am, and all three close at dusk. Richmond Park and Bushy Park are open to walkers 24 hours a day, except at night during their deer culls.
-* **Primrose Hill is locked from 10pm to 6am every night from 30 October to 9 November 2026.**
 * **Bringing a dog?** Our [dog-friendly hotels guide](/articles/dog-friendly-hotels-london/) gives each hotel's fee, weight limit and walk to the nearest park, with the Royal Parks' lead rules.
 * **For the trees themselves in autumn colour**, see our guide to [where to see autumn leaves in London](/articles/best-places-autumn-leaves-london/) — which parks, which named trees, and when it peaks.
 
