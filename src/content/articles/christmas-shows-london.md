@@ -99,6 +99,10 @@ faq:
 
 ## Circus, dance and adult Christmas shows
 
+### Gandeys K-Pop Dragon Circus, Hyde Park Winter Wonderland
+
+**19 November 2026 – 3 January 2027.** New for 2026: a big-top show of dragons and circus acts set to K-Pop music and dance, inside [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/). It runs **55 minutes**, has **no age restriction**, and the organiser asks you to arrive 20 minutes before the start. Tickets are for a set performance and cost less booked in advance than on the day. [Circus details and tickets](https://hydeparkwinterwonderland.com/attraction/gandeys-circus/)
+
 ### Scrooge: Cirque Extravaganza, ExCeL London
 
 **23, 24, 27 and 28 December 2026.** *A Christmas Carol* told with aerialists, acrobats, a trampoline wall and fire breathers, in the ICC Auditorium at ExCeL, with the East Entrance and Prince Regent DLR station about two minutes away. The organiser calls it a family show and warns of water effects, audience participation, loud noises, strobe lights and pyrotechnics. One seat number is drawn at every performance, and its holder wins £1,000 cash on stage (school matinees excluded).
