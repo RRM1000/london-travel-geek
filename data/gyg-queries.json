@@ -250,6 +250,19 @@
         "Downton Abbey filming locations and Highclere Castle"
       ]
     },
+    "leeds-castle-tours": {
+      "for": "The Leeds Castle page: the three most reviewed Leeds Castle, Canterbury and Dover coach tours.",
+      "tourIds": [
+        "2257",
+        "1309",
+        "969"
+      ],
+      "titles": [
+        "Leeds Castle, Canterbury Cathedral and Dover",
+        "Leeds Castle, Canterbury, Dover and Greenwich",
+        "Leeds Castle, Canterbury, Dover and Greenwich boat ride"
+      ]
+    },
     "museums-and-history": {
       "for": "Museums, galleries and historic-building pages.",
       "tourIds": [
@@ -630,6 +643,18 @@
     "downton-abbey-highclere-castle-day-trip": {
       "slot1": "pick:downton-abbey-tours",
       "adjacent": "Downton Abbey Highclere Castle tour"
+    },
+    "leeds-castle-day-trip": {
+      "slot1": "pick:leeds-castle-tours",
+      "adjacent": "Leeds Castle tour from London"
+    },
+    "london-foods-worth-travelling-for": {
+      "slot1": "pick:london-food-classics",
+      "adjacent": "London afternoon tea bus tour"
+    },
+    "bicester-village-day-trip": {
+      "slot1": "pick:bicester-village-trips",
+      "adjacent": "Oxford day trip from London"
     },
     "cheap-eats-london": {
       "slot1": "pick:food-tours",

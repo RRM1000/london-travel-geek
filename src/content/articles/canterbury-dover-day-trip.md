@@ -110,7 +110,7 @@ The clifftop path is National Trust open-access land, with no admission charge. 
 
 ## Leeds Castle — why the coach is the practical way in
 
-Leeds Castle sits between Maidstone and Ashford, with no train near the gate.
+Leeds Castle sits between Maidstone and Ashford, with no train near the gate. Our [Leeds Castle day trip guide](/articles/leeds-castle-day-trip/) has its hours, closures and ticket rules in full.
 
 | Ticket | Online | Onsite |
 | --- | --- | --- |
@@ -170,6 +170,7 @@ A **16-25 Railcard, Disabled Persons Railcard or Two Together Railcard** cuts a 
 ## Continue planning your day out
 
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
+- 🏰 **[Leeds Castle day trip](/articles/leeds-castle-day-trip/)** — opening hours, the one-year ticket and the train to Bearsted.
 - 🎓 **[Cambridge from London](/articles/cambridge-day-trip/)** — another under-an-hour train, priced and timed the same way.
 - 🛁 **[Bath day trip](/articles/bath-day-trip/)** — the other big train day out, and how its Advance fares compare with Southeastern's Off-Peak singles.
 - 🗿 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — the other trip where a coach tour beats the train outright.
