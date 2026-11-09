@@ -162,7 +162,7 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 
 ## Ways to spend less anyway
 
-* **Bicester Village.** Direct from **London Marylebone in 56 minutes** on Chiltern Railways, and the station is a **two-minute walk** from the Village. **Oyster and contactless are not valid** on that line, so buy a ticket; there is a Bicester kiosk at Marylebone, open 08:45–16:30 daily.
+* **Bicester Village.** Direct from **London Marylebone in 56 minutes** on Chiltern Railways, and the station is a **two-minute walk** from the Village. **Oyster and contactless are not valid** on that line, so buy a ticket; there is a Bicester kiosk at Marylebone, open 08:45–16:30 daily. Our [Bicester Village guide](/articles/bicester-village-day-trip/) covers the coach and the trips as well.
 * **The sales.** Late December into January, and late June into July — deeper than the year-round outlet discounts, and no shipping to arrange.
 
 ---

@@ -302,4 +302,5 @@ A working shape:
 - 🚶 **[The best walking tours in London](/articles/best-walking-tours-london/)** — the London equivalent.
 - 🎟️ **[National Rail 2FOR1 explained](/articles/national-rail-2for1-london-attractions/)** — the voucher rules.
 - 🏛️ **[The best museums in London](/articles/best-museums-london/)** — the free museums at home.
+- 🛍️ **[Bicester Village from London](/articles/bicester-village-day-trip/)** — the outlet village on the same Chiltern line, 56 minutes from Marylebone, with trips that combine it with Oxford.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — costs, journey times and closing days.

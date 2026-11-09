@@ -48,6 +48,7 @@ The good day trips from London are about an hour away, and the money is in the e
 | **[Brighton and the Seven Sisters](/articles/brighton-seven-sisters-day-trip/)** | Victoria or London Bridge | **58 min** direct to Brighton | Advance singles from £8 one way | Royal Pavilion **£21.50**; Seven Sisters bus £3 flat fare |
 | **[Stonehenge](/articles/stonehenge-day-trip/)** | Waterloo to Salisbury, then a bus | About 3 hours each way | Advance from £16.40 single, bus £20.50 | Entry **£27.20–£32.30** booked ahead; tours from £66 with entry |
 | **[The Cotswolds](/articles/cotswolds-day-trip/)** | Paddington to Moreton-in-Marsh | **1h25**, then the 801 bus | £54 off-peak return | Villages are free; tours from £89 |
+| **[Bicester Village](/articles/bicester-village-day-trip/)** | Marylebone, or coach from Victoria | **56 min** by train, about 2 hours by coach | A ticket on Chiltern Railways, no Oyster; coach £45 return | Free to walk round; coach and private trips on GetYourGuide |
 
 **The pattern:** the train is the small number. Windsor Castle costs four times the fare to get there, and the Studio Tour costs eight times it. The exceptions are Stonehenge and the Cotswolds, where getting there is the hard part and the tour pays for the transport. Book the attraction first and fit the train around it.
 

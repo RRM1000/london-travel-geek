@@ -146,6 +146,19 @@
         "Cheese walking tour with tastings"
       ]
     },
+    "bicester-village-trips": {
+      "for": "The Bicester Village page: the £45 shopping trip with a VIP discount, a private Oxford and Bicester Village day, and a private shopping trip by car.",
+      "tourIds": [
+        "867896",
+        "1383633",
+        "1559060"
+      ],
+      "titles": [
+        "Bicester Village shopping trip with VIP discount",
+        "Oxford and Bicester Village private trip",
+        "Private Bicester Village shopping trip"
+      ]
+    },
     "afternoon-tea-buses": {
       "for": "The afternoon tea bus comparison: the Great British tour, the Prosecco bus and the Paddington bus, three different operators' tea buses.",
       "tourIds": [
@@ -567,6 +580,10 @@
     "london-foods-worth-travelling-for": {
       "slot1": "pick:london-food-classics",
       "adjacent": "London afternoon tea bus tour"
+    },
+    "bicester-village-day-trip": {
+      "slot1": "pick:bicester-village-trips",
+      "adjacent": "Oxford day trip from London"
     },
     "cheap-eats-london": {
       "slot1": "pick:food-tours",

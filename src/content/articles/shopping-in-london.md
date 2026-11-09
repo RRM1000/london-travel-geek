@@ -251,7 +251,7 @@ The percentages are off list price rather than off what the item last sold for, 
 * **A book:** £9–£20 paperback
 * **Lunch while shopping:** £8–£15 at a market, £20+ sitting down
 
-**Sales:** the big ones are **late December to January** and **late June to July**. **Bicester Village**, an hour out, is the outlet option and is extremely busy at weekends.
+**Sales:** the big ones are **late December to January** and **late June to July**. **Bicester Village**, an hour out, is the outlet option and is extremely busy at weekends; our [Bicester Village guide](/articles/bicester-village-day-trip/) covers the train, the £45 coach and the trips on GetYourGuide.
 
 ---
 
