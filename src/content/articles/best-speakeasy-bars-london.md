@@ -349,6 +349,7 @@ These are named by the same lists, often near the top, but each has its name ove
 ## Continue planning your London trip
 
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)** — the signed rooms, from the Connaught to Satan's Whiskers
+- 🥃 **[Gin Distillery Tours in London](/articles/gin-distillery-tours-london/)** — tastings and make-your-own-gin classes
 - 🗝️ **[Hidden London: Secret Places Worth Finding](/articles/hidden-london-secret-places/)**
 - 🍷 **[The Best Wine Bars in London](/articles/best-wine-bars-london/)**
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)**

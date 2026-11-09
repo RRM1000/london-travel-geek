@@ -172,6 +172,32 @@
         "Borough Market doughnuts and tea tour"
       ]
     },
+    "gin-distillery-tours": {
+      "for": "The gin distillery tours page: the Sipsmith tour, the make-your-own-gin workshop and the gin tasting and masterclass.",
+      "tourIds": [
+        "1107345",
+        "928650",
+        "928581"
+      ],
+      "titles": [
+        "Sipsmith gin distillery tour and tasting",
+        "Make your own gin workshop with a take-home bottle",
+        "Gin tasting and masterclass"
+      ]
+    },
+    "cookery-classes": {
+      "for": "The cookery classes page: the scone workshop, the Pasta Evangelists pasta class and the pork pie class.",
+      "tourIds": [
+        "826151",
+        "1198349",
+        "608869"
+      ],
+      "titles": [
+        "Scone workshop and afternoon tea",
+        "Pasta-making class with unlimited Prosecco and antipasti",
+        "Traditional pork pie cookery class"
+      ]
+    },
     "museums-and-history": {
       "for": "Museums, galleries and historic-building pages.",
       "tourIds": [
@@ -523,6 +549,12 @@
     "london-food-tours": {
       "slot1": "pick:food-and-drink-experiences",
       "adjacent": "London afternoon tea bus tour"
+    },
+    "gin-distillery-tours-london": {
+      "slot1": "pick:gin-distillery-tours"
+    },
+    "cookery-classes-london": {
+      "slot1": "pick:cookery-classes"
     },
     "afternoon-tea-bus-tours-london": {
       "slot1": "pick:afternoon-tea-buses",
