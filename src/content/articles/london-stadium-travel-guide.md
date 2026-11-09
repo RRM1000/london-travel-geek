@@ -141,7 +141,7 @@ The Gold Top accessible car park reopens roughly 20–30 minutes after the final
 
 **Concerts** are the least frequent case. The next, Fontaines D.C., is on **9 July 2027**. For a concert, use the transport advice in this guide as the starting point and check the venue's site for that event's doors and curfew times.
 
-**Stadium tours** run on non-event days, covering the pitch and dressing rooms.
+**Stadium tours** run on non-event days, covering the pitch and dressing rooms. Prices, times and the other clubs' tours are in our guide to [football stadium tours in London](/articles/football-stadium-tours-london/).
 
 ---
 
@@ -218,6 +218,7 @@ London Stadium operates a **100% search policy**: every supporter and their belo
 
 ## Continue planning your London trip
 
+- ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — London Stadium's tour from £22, and five other grounds
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — London's biggest rugby crowd, and the last train out at 00:11
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — West Ham are in the Championship in 2026/27, which makes this a far easier ticket than a top-flight one
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**

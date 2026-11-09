@@ -173,7 +173,7 @@ Bamboo Mat in East Village cooks Nikkei, the Japanese-Peruvian cuisine, and open
 | If you have | Do this |
 | --- | --- |
 | **Two hours** | The southern park, the Orbit and the waterways |
-| **Half a day** | Add a swim at the Aquatics Centre or a stadium tour |
+| **Half a day** | Add a swim at the Aquatics Centre or a [stadium tour](/articles/football-stadium-tours-london/) |
 | **A full day** | Walk the canal west to Hackney Wick and on to Victoria Park |
 
 **Best time:** Weekday mornings, when the park is quiet. Summer evenings suit the waterways and the Hackney Wick bars.

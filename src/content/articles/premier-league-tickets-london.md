@@ -379,6 +379,7 @@ League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end
 
 ## Continue planning your London trip
 
+- ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — see the dressing rooms and the tunnel at Chelsea, Arsenal, Tottenham, West Ham, Wembley and Fulham without a match ticket
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🏃 **[London Marathon: How to Get a Place](/articles/london-marathon-guide/)**
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)** — day seats, lotteries and rush tickets

@@ -204,7 +204,7 @@ The regular **Stadium Tour** is **from £25** for an adult, with kids going free
 
 In its place, a separate **Matchday Tour** (from £50, 10% off booked ahead) runs in the hours before kick-off on event days, going into the home changing room, the tunnel and the media mixed zone, with a seat in the manager's dugout chair and a pitch-side photo with the match ball. On an NFL day it includes the **NFL away dressing room and press auditorium**.
 
-The site also runs **The Dare Skywalk** (a harnessed walk 46.8 metres above the pitch), **F1 Drive London** (an outdoor go-kart circuit, seasonal), Legends Tours and VIP Tours.
+For the other clubs' tours, see our guide to [football stadium tours in London](/articles/football-stadium-tours-london/). The site also runs **The Dare Skywalk** (a harnessed walk 46.8 metres above the pitch), **F1 Drive London** (an outdoor go-kart circuit, seasonal), Legends Tours and VIP Tours.
 
 ---
 
@@ -266,6 +266,7 @@ Visiting (away) supporters use entrances 11 and 12, in blocks 114–118 in the s
 
 ## Continue planning your London trip
 
+- ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — Tottenham's tour next to Chelsea, Arsenal, West Ham, Wembley and Fulham
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — the same problem in reverse: no station on the doorstep, and a parking zone run by two boroughs
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**

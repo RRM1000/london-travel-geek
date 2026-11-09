@@ -123,7 +123,7 @@ West of Upper Street. Gibson Square, Lonsdale Square and Thornhill Square — qu
 <div data-stay-strip></div>
 
 ### Highbury and the northern end
-Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential streets around the old Arsenal stadium site.
+Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential streets around the old Arsenal stadium site. Arsenal's current ground, Emirates Stadium, runs a self-guided tour; see [football stadium tours in London](/articles/football-stadium-tours-london/).
 
 ![The white stucco frontage of the Almeida Theatre in Islington](../../assets/articles/islington-area-guide/almeida-theatre.jpg)
 

@@ -263,6 +263,19 @@
         "Jack the Ripper tour with historic pub stops"
       ]
     },
+    "football-stadium-tours": {
+      "for": "The football stadium tours page: the Chelsea tour, the Arsenal tour with audio guide and the Wembley tour.",
+      "tourIds": [
+        "52605",
+        "45135",
+        "12486"
+      ],
+      "titles": [
+        "Chelsea FC stadium and museum tour",
+        "Emirates Stadium entry ticket and audio guide",
+        "Wembley Stadium guided tour"
+      ]
+    },
     "cookery-classes": {
       "for": "The cookery classes page: the scone workshop, the Pasta Evangelists pasta class and the pork pie class.",
       "tourIds": [
@@ -633,6 +646,9 @@
     },
     "jack-the-ripper-ghost-tours-london": {
       "slot1": "pick:ripper-and-ghost-tours"
+    },
+    "football-stadium-tours-london": {
+      "slot1": "pick:football-stadium-tours"
     },
     "cookery-classes-london": {
       "slot1": "pick:cookery-classes"

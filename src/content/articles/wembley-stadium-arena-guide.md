@@ -436,6 +436,7 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers Stasher an
 
 ## Continue planning your London trip
 
+- ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — Wembley's tour compared with Chelsea, Arsenal, Tottenham, West Ham and Fulham
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — 82,000 people through one Zone 5 station, and why the 10-minute walk is not 10 minutes
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
