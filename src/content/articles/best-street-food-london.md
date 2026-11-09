@@ -385,6 +385,7 @@ Standing only, with a two-to-four hour window.
 - 🛒 **[London's Best Markets](/articles/best-london-markets/)** — including the flower, antiques and shopping markets
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — places to eat well under £15
 - 🥘 **[Food Tours in London](/articles/london-food-tours/)** — market and neighbourhood tastings with a guide
+- 🥯 **[London Foods Worth Travelling For](/articles/london-foods-worth-travelling-for/)** — the beigel, pie and mash, fish and chips and more, each with where to eat it
 - 🍔 **[The Best Burgers in London](/articles/best-burgers-london/)**
 - 🗺️ **[Eat in London: the full food handbook](/articles/eat-in-london-guide/)**
 

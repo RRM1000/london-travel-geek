@@ -151,7 +151,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Midday.** Walk north across the river into the **City**, then east to **Spitalfields** — *about 30 minutes*, or a short Tube hop. Coffee or a bakery stop on the way; the [coffee](/articles/best-coffee-london/) and [bakeries](/articles/best-bakeries-london/) guides both cover this ground.
 
-**Afternoon.** **Brick Lane** for beigels — the 24-hour shops are an institution — or Chinatown and Soho for a completely different day.
+**Afternoon.** **Brick Lane** for beigels — the 24-hour shops are an institution — or Chinatown and Soho for a completely different day. For what to eat on the way, see [London foods worth travelling for](/articles/london-foods-worth-travelling-for/).
 
 **Evening.** A booked dinner. Our [restaurant guides](/articles/eat-in-london-guide/) cover every cuisine; [cheap eats](/articles/cheap-eats-london/) if the market has already done the damage.
 

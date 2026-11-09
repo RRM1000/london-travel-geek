@@ -133,6 +133,19 @@
         "Sipsmith gin distillery tour and tasting"
       ]
     },
+    "london-food-classics": {
+      "for": "The London foods worth travelling for page: the East End tour (beigel, curry, fish and chips), the Brixton Caribbean tour and a cheese walk, so each widget card matches a food the page describes.",
+      "tourIds": [
+        "136652",
+        "548968",
+        "399788"
+      ],
+      "titles": [
+        "East End food tour, Eating London",
+        "African and Caribbean food tour, Brixton",
+        "Cheese walking tour with tastings"
+      ]
+    },
     "afternoon-tea-buses": {
       "for": "The afternoon tea bus comparison: the Great British tour, the Prosecco bus and the Paddington bus, three different operators' tea buses.",
       "tourIds": [
@@ -518,6 +531,10 @@
     "borough-market-tours": {
       "slot1": "pick:borough-market-tastings",
       "adjacent": "Borough Market food tour"
+    },
+    "london-foods-worth-travelling-for": {
+      "slot1": "pick:london-food-classics",
+      "adjacent": "London afternoon tea bus tour"
     },
     "cheap-eats-london": {
       "slot1": "pick:food-tours",
