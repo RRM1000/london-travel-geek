@@ -22,7 +22,7 @@ faq:
   - q: "Can you still get tickets for the Bayeux Tapestry in November 2026?"
     a: "Not for a November visit. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. Adult tickets are £33, with off-peak at £27 and a term-time weekday slot from 3.30pm at £25."
   - q: "Is Bonfire Night over in London in 2026?"
-    a: "Yes. Bonfire Night was Thursday 5 November, and most displays ran on Saturday 7th and Sunday 8th, including Alexandra Palace and Battersea Park. Our Bonfire Night guide lists what each display ran and cost, and the free viewpoints, for next year."
+    a: "Yes. Bonfire Night was Thursday 5 November, and most displays ran on Saturday 7th and Sunday 8th, including Alexandra Palace and Battersea Park. Our Bonfire Night guide lists what each display ran and cost, and the free viewpoints."
   - q: "When is the Lord Mayor's Show in 2026, and are there fireworks?"
     a: "Saturday 14 November, setting off from Mansion House at 11am and going to the Royal Courts of Justice by St Paul's and Fleet Street, with the return leg along the Embankment from about 1.10pm. It is free to watch. There are no Thames fireworks."
   - q: "When do London's Christmas lights go on in 2026?"
@@ -63,7 +63,7 @@ Bookings are capped at 10 tickets, each ticket can only be used by the person wh
 
 ### Bonfire Night: over for 2026
 
-Bonfire Night was Thursday 5 November, and most displays moved to the weekend: **Alexandra Palace and Battersea Park both ran on Saturday 7 and Sunday 8 November**, and Coram's Fields in Bloomsbury held the free display on the 5th. What each display cost, which ones sell out and the free viewpoints are in our [Bonfire Night guide](/articles/bonfire-night-london/), for planning next year.
+Bonfire Night was Thursday 5 November, and most displays moved to the weekend: **Alexandra Palace and Battersea Park both ran on Saturday 7 and Sunday 8 November**, and Coram's Fields in Bloomsbury held the free display on the 5th. What each display cost, which ones sell out and the free viewpoints are in our [Bonfire Night guide](/articles/bonfire-night-london/).
 
 ### Remembrance Sunday and Armistice Day
 
@@ -99,7 +99,7 @@ The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglo
 
 ### The lights
 
-**Carnaby Street's lights went on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**, with the Spirit of Christmas angels back above the street. **Oxford Street's go on today, Monday 9th**, and **Bond Street and Covent Garden switch on on Thursday 12 November**, Bond Street with the street traffic-free from 4pm to 8pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
+**Carnaby Street's lights went on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**, with the Spirit of Christmas angels back above the street. **Oxford Street's on Monday 9 November**, and **Bond Street and Covent Garden switch on on Thursday 12 November**, Bond Street with the street traffic-free from 4pm to 8pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
 
 ### Rinks, markets and Winter Wonderland
 

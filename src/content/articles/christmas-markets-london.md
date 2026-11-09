@@ -216,7 +216,7 @@ The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&a
 
 - **Open:** daily **10am–5.30pm**, all year, closed Christmas Day. Arts and crafts on Monday, Wednesday, Friday and weekends; antiques and collectables on Tuesday, Thursday and Friday.
 - **The Lantern Parade:** on **Wednesday 18 November 2026** local schoolchildren carry lanterns from the Old Royal Naval College to the market, where the Christmas lights go on at 5pm. Festivities run from noon to 6.30pm.
-- **This week:** there are no stalls on Monday 9 and Tuesday 10 November while the festive lights are hung. The shops in the market stay open.
+- **9–10 November:** there are no stalls on Monday 9 and Tuesday 10 November while the festive lights are hung. The shops in the market stay open.
 - **Price:** free.
 - **Getting there:** Cutty Sark DLR, three minutes.
 
@@ -275,7 +275,7 @@ Three ticketed shopping fairs run under glass roofs in November.
 
 ### Spirit of Christmas Fair, Olympia
 
-**Ran 2–8 November 2026.** The fair's 25th anniversary, in the Grand Hall at Olympia: more than 600 brands, 30 of them emerging ones in the Spirit Rising Stars area, plus free workshops, live music and a restaurant run by the chef Kate Austen. Entry included The Luxury Travel Fair in Olympia's National Hall. It is the first of the three, and has finished; [the fair's site](https://spiritofchristmasfair.co.uk) is the place for next year.
+**Ran 2–8 November 2026.** The fair's 25th anniversary, in the Grand Hall at Olympia: more than 600 brands, 30 of them emerging ones in the Spirit Rising Stars area, plus free workshops, live music and a restaurant run by the chef Kate Austen. Entry included The Luxury Travel Fair in Olympia's National Hall. It is the first of the three, and has finished; [the fair's site](https://spiritofchristmasfair.co.uk) is the place for the 2027 dates.
 
 ### Good Housekeeping Live with the Country Living Christmas Market, Business Design Centre
 

@@ -200,7 +200,6 @@ The same format, with a Paddington theme for children and the grown-ups who take
 
 For tea at a hotel table rather than a moving bus, our [afternoon tea guide](/articles/best-afternoon-tea-london/) ranks the rooms, and [London tour buses compared](/articles/london-tour-buses-compared/) covers the sightseeing buses that don't serve tea.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="london-food-tours-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Doing it yourself
 
