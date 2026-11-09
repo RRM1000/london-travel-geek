@@ -3,7 +3,7 @@ title: "Kensington Area Guide: The Palace, Holland Park and the Kyoto Garden"
 seoTitle: "Kensington Guide: Kensington Palace & Holland Park"
 description: "A complete Kensington guide: Kensington Palace and Gardens, Holland Park and the Kyoto Garden, the Design Museum, Leighton House and opera under canvas."
 publishedAt: 2026-08-21
-updatedAt: 2026-10-26
+updatedAt: 2026-11-09
 reviewBy: 2026-11-26
 sites:
   - london
@@ -57,7 +57,7 @@ faq:
   - q: "Is Kensington Gardens the same as Hyde Park?"
     a: "They adjoin and most people walk between them without noticing, but they are separate parks with separate managers. Kensington Gardens is the western half, containing Kensington Palace, the Albert Memorial, the Serpentine galleries and the Italian Gardens. Hyde Park is the eastern half, with Speakers' Corner and the Serpentine lake. The boundary runs roughly along the West Carriage Drive."
   - q: "Do you have to pay to enter Kensington Palace?"
-    a: "To go inside the State Apartments, yes: it is a Historic Royal Palaces site and adults pay £24.70. The surrounding Kensington Gardens are free and open daily, as is the Sunken Garden beside the palace."
+    a: "To go inside the State Apartments, yes: it is a Historic Royal Palaces site and adults pay £19.00 from 11 November. The surrounding Kensington Gardens are free and open daily, as is the Sunken Garden beside the palace."
   - q: "Where is the Kyoto Garden?"
     a: "Inside Holland Park, about ten minutes north-west of High Street Kensington. It is a Japanese garden given by the Chamber of Commerce of Kyoto in 1991, with a tiered waterfall, a koi pond and resident peacocks. It is free and open during park hours; allow twenty minutes."
   - q: "Is the Design Museum free?"
@@ -85,7 +85,7 @@ Kensington has its own share of the commemorative plaques marking where notable 
 
 ## Top sights and activities
 
-1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed (adults £24.70; as of October 2026 open Wednesday to Sunday, 10am to 4pm, last entry 3pm). The **Sunken Garden** beside it is free.
+1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed (adults £19.00 from 11 November; open Wednesday to Sunday in winter, 10am to 4pm, last entry 3pm). The **Sunken Garden** beside it is free.
 2. **Kensington Gardens** — 265 acres. The Albert Memorial, the Italian Gardens at the north end, the Peter Pan statue and the Diana Memorial Playground.
 3. **Holland Park and the Kyoto Garden** — A Japanese garden given by Kyoto in 1991, with a tiered waterfall, koi and peacocks. Free and small; allow twenty minutes.
 4. **The Design Museum** — In the former Commonwealth Institute, under a 1962 hyperbolic paraboloid roof. The permanent gallery is free.

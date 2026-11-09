@@ -3,7 +3,7 @@ title: "Is the London Pass Worth It? What It Saves, and When It Doesn't"
 seoTitle: "London Pass 2026: Real Prices & When It Loses Money"
 description: "A 2-day pass is £149. The classic big five cost £144.00 at the gate. Here is exactly which itineraries the London Pass pays on, which it loses on, and the memberships that beat it outright."
 publishedAt: 2026-09-03
-updatedAt: 2026-11-02
+updatedAt: 2026-11-09
 reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
@@ -126,9 +126,9 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **Westminster Abbey** | £32.00 | £14.00 | Child 6–17; under 6 free |
 | **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)** | £27.00 | £10.50 | £29.70 / £11.55 with donation |
 | **Windsor Castle** | £32.00 | £16.00 | **£36.00 / £18.00 on the day** |
-| **Buckingham Palace State Rooms** | £33.00 | £16.50 | **£37.00 / £18.50 on the day** (2026 prices); open in summer only, with 2027 tickets released in November; **not on the pass** |
+| **Buckingham Palace State Rooms** | £35.00 | £17.50 | **£39.00 / £19.50 on the day** (summer 2027 prices); open 8 July to 26 September 2027; **not on the pass** |
 | **Hampton Court Palace** | £30.00 | £15.00 | £33.00 / £16.50 at weekends and bank holidays; from 28 November, Winter Palace prices are £33.00 / £16.50 weekdays and £36.00 / £18.00 at weekends |
-| **Kensington Palace** | £24.70 | £12.40 | £27.20 / £13.70 with donation |
+| **Kensington Palace** | £19.00 | £9.50 | £20.90 / £10.50 with donation, from 11 November |
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **Madame Tussauds** | from £27.00 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |
@@ -215,7 +215,7 @@ You have done the Tower. Now you want Kensington Palace, Greenwich and Kew. A 3-
 
 | | Adult |
 | --- | --- |
-| Kensington Palace | £24.70 |
+| Kensington Palace | £19.00 |
 | Cutty Sark | £22.00 |
 | Kew Gardens | £25.00 |
 | **Gate total** | **£71.70** |

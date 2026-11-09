@@ -5,7 +5,7 @@ description: "Eight free city farms, a zoo scaled for under-tens, an indoor roll
 heroImage: "../../assets/articles/london-with-children/granary-square-fountains.jpg"
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
 publishedAt: 2026-06-27
-updatedAt: 2026-11-01
+updatedAt: 2026-11-09
 reviewBy: 2026-12-18
 sites: [london]
 canonicalSite: london
@@ -239,9 +239,9 @@ Thirty minutes, one slow rotation in a sealed pod with no way off once the door 
 
 ### Westminster Abbey and Buckingham Palace
 
-*Abbey £32 adult, £14 child (6–17) · Palace £33 and £16.50 · Westminster*
+*Abbey £32 adult, £14 child (6–17) · Palace £35 and £17.50 · Westminster*
 
-Neither is designed for children. **Westminster Abbey is £32 for an adult and £14 for a child aged 6 to 17, under-6s free, with general sightseeing from 9.30am to 3.30pm**; hours shift around services, and Sunday is for worship, not visits. **Buckingham Palace's State Rooms open only in summer, cost £33 for an adult and £16.50 for a child aged 5 to 17 booked in advance, and under-5s go free.** For most families the version worth having is the free one outside: **Changing the Guard costs nothing to watch**, happens on the forecourt and along the Mall, and does not run every day, so check the schedule.
+Neither is designed for children. **Westminster Abbey is £32 for an adult and £14 for a child aged 6 to 17, under-6s free, with general sightseeing from 9.30am to 3.30pm**; hours shift around services, and Sunday is for worship, not visits. **Buckingham Palace's State Rooms open only in summer, cost £35 for an adult and £17.50 for a child aged 5 to 17 booked in advance (summer 2027), and under-5s go free.** For most families the version worth having is the free one outside: **Changing the Guard costs nothing to watch**, happens on the forecourt and along the Mall, and does not run every day, so check the schedule.
 
 ### Madame Tussauds
 

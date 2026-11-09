@@ -162,13 +162,13 @@ Queen Victoria's birthplace and childhood home, where **the rooms she grew up in
 
 ### Buckingham Palace State Rooms
 
-*£33 advance in 2026 · summer only*
+*£35 advance in 2027 · summer only*
 
-The nineteen State Rooms the King uses for official entertaining, open **only while the court is away**: in 2026 that was 9 July to 27 September. Tickets for summer 2027 are released in November. Grand Staircase, Throne Room, Picture Gallery, Ballroom.
+The nineteen State Rooms the King uses for official entertaining, open **only while the court is away**: in 2027 that is 8 July to 26 September. Grand Staircase, Throne Room, Picture Gallery, Ballroom.
 
 **In winter the only way in is a guided tour.** The East Wing Exclusive Guided Tour runs from 6 November 2026 to 31 January 2027, at £100 a head.
 
-**In 2026 it was £33 booked ahead against £37 on the door**, and **£1 tickets** exist for anyone on Universal Credit and similar benefits. Slots are timed in 15-minute intervals and dates sell out. Whatever you pay, **convert the ticket to a 1-Year Pass at the desk**: it is free and gets you back in for a year. To add the Changing of the Guard, City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=historic-houses-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> watches the ceremony with a guide and then goes in with the official audio guide, from £72 on GetYourGuide, 4.4 from 2,979 reviews; on Tuesday, Thursday and Saturday the ceremony half becomes a walk round Westminster. The palace, The King's Gallery and the Royal Mews each have their own season and price in our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
+**In 2027 it is £35 booked ahead against £39 on the door**, and **£1 tickets** exist for anyone on Universal Credit and similar benefits. Slots are timed in 15-minute intervals and dates sell out. Whatever you pay, **convert the ticket to a 1-Year Pass at the desk**: it is free and gets you back in for a year. To add the Changing of the Guard, City Wonders' <a href="https://www.getyourguide.com/activity/-t49917?partner_id=WWP7I0R&amp;cmp=historic-houses-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Buckingham Palace Entry & Changing of the Guard Tour</a> watches the ceremony with a guide and then goes in with the official audio guide, from £72 on GetYourGuide, 4.4 from 2,979 reviews; on Tuesday, Thursday and Saturday the ceremony half becomes a walk round Westminster. The palace, The King's Gallery and the Royal Mews each have their own season and price in our [Buckingham Palace and Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/).
 
 **The garden is partly included**: the route leaves through it along a half-kilometre gravel path, and **the only toilets are at that end**, so go before you start. A guided garden walk is a separate, dearer ticket.
 
