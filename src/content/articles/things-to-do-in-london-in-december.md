@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-10-31
-reviewBy: 2026-11-15
+updatedAt: 2026-11-09
+reviewBy: 2026-11-16
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -100,8 +100,8 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 
 ### Light trails
 
-- **Christmas at Kew**, to 3 January. A ticketed 3km trail through the gardens, with timed entry and last entry between 7pm and 8pm (up to an hour earlier on Christmas Eve). **Adults-only evenings are on 3 and 9 December.** It is closed on Christmas Day. Adults pay from £29.50 off-peak and £37 at peak. [Kew's page](https://www.kew.org/kew-gardens/whats-on/christmas) has dates; our [Kew guide](/articles/kew-gardens-guide/) covers the daytime gardens.
-- **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, 25 November to Monday 28 December, closed on Christmas Day. Gates are open from 4.30pm and the trail closes at 10pm; adults from £19. [chelseawintervillage.com](https://www.chelseawintervillage.com/).
+- **Christmas at Kew**, to 3 January. A ticketed 3km trail through the gardens, with timed entry and last entry between 7pm and 8pm (up to an hour earlier on Christmas Eve). **Adults-only evenings are on 3 and 9 December.** It is closed on Christmas Day. [Kew's page](https://www.kew.org/kew-gardens/whats-on/christmas) has dates; our [Kew guide](/articles/kew-gardens-guide/) covers the daytime gardens.
+- **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, 25 November to Monday 28 December, closed on Christmas Day. Gates are open from 4.30pm and the trail closes at 10pm; adults from £18. [chelseawintervillage.com](https://www.chelseawintervillage.com/).
 - **Winter Palace: The Christmas Beast Ball**, Hampton Court Palace, 28 November to 3 January, included in palace admission with pre-booking. The **Festive Fayre** has more than 100 artisan producers on 4 to 6 and 11 to 13 December, 10am to 5pm. See our [Hampton Court guide](/articles/hampton-court-palace-guide/).
 - **Victoria's Countryside Christmas** at Kensington Palace, 25 November to 3 January, is included in palace admission.
 
@@ -119,11 +119,11 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 
 ### Pantomime
 
-**The London Palladium's Cinderella runs 5 December to 10 January, from £25 with no booking fees.** Dawn French and Jennifer Saunders play the Ugly Sisters. The theatre says it is not tailored to young children and admits nobody under four. **Hackney Empire's Jack and the Beanstalk runs 21 November to 31 December.** Stratford East, the Lyric Hammersmith and the cheaper smaller houses are in the [Christmas shows guide](/articles/christmas-shows-london/).
+**The London Palladium's Cinderella runs 5 December to 10 January.** Dawn French and Jennifer Saunders play the Ugly Sisters. The theatre says it is not tailored to young children and admits nobody under four. **Hackney Empire's Jack and the Beanstalk runs 21 November to 31 December.** Stratford East, the Lyric Hammersmith and the cheaper smaller houses are in the [Christmas shows guide](/articles/christmas-shows-london/).
 
 ### Nutcrackers
 
-**The Royal Ballet's Nutcracker opens at the Royal Opera House on Thursday 3 December and runs to 13 January 2027**, with tickets from £10 to £238. Peter Wright's production lasts about 2 hours 20 minutes with one interval, is for ages 5 and over, and uses flashing lights and dry ice. **English National Ballet's Nutcracker is at the London Coliseum from 17 December to 10 January**, from £27.25 including fees, with 25% off for under-16s.
+**The Royal Ballet's Nutcracker opens at the Royal Opera House on Thursday 3 December and runs to 13 January 2027**, with tickets from £36 to £238. Peter Wright's production lasts about 2 hours 10 minutes, is for ages 5 and over, and uses flashing lights and dry ice. **English National Ballet's Nutcracker is at the London Coliseum from 17 December to 10 January**, from £27.25 including fees, with 25% off for under-16s.
 
 ### Candlelight at The Fan Museum, Greenwich — 11 to 18 December
 

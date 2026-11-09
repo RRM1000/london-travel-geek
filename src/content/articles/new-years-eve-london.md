@@ -3,8 +3,8 @@ title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
 description: "The Thames fireworks are ticketed, paid and sell out. The first batch of tickets for 31 December 2026 is on sale; the second batch has no date yet. Prices, the six viewing areas, the free viewpoints that are shut, and how to get home."
 publishedAt: 2026-09-04
-updatedAt: 2026-11-01
-reviewBy: 2026-11-13
+updatedAt: 2026-11-09
+reviewBy: 2026-12-14
 sites:
   - london
 canonicalSite: london
@@ -138,7 +138,7 @@ Boat parties on sale for 31 December 2026 (the sightseeing and dinner boats' New
 | Operator and vessel | Price per person | Boarding | Age |
 | --- | --- | --- | --- |
 | London Party Boats — Jewel of London | £240 standard | 20:15 at Bankside Pier, back by 01:30 | 21 and over |
-| London Party Boats — Pearl of London | £250 standard | 19:30 at Bankside Pier | 21 and over |
+| London Party Boats — Pearl of London | £250 standard | 19:30 at Bankside Pier | 18 and over |
 | London Party Boats — Sapphire of London | £260 | 21:00 at Bankside Pier, 4 hours | Family, ages 5 and up |
 | London Party Boats — Gold VIP balcony | £400, sold in pairs | 20:15 at Bankside Pier | 21 and over |
 | Thames Rockets — open-top speedboat | £449 | 23:00 at Bankside Pier, back at 00:30 | 12 seats per boat |

@@ -3,8 +3,8 @@ title: "Dinner and a Show in London: Jazz Suppers, Cabaret Dinners, Drag Brunche
 seoTitle: "Dinner and a Show London 2026: Jazz, Cabaret & Brunch"
 description: "A free house band with a £16.95 prix fixe at Brasserie Zédel, jazz with dinner from £16 at the 606 Club, burlesque at The Maine and Basil Fawlty serving the soup. What the show costs on top of the food, which nights, and what to book."
 publishedAt: 2026-06-21
-updatedAt: 2026-10-26
-reviewBy: 2026-11-09
+updatedAt: 2026-11-09
+reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -20,7 +20,7 @@ faq:
   - q: "Do you pay extra for the music at London restaurants?"
     a: "Often, and it is added to the bill rather than sold as a ticket. Toulouse Lautrec adds £5 a head on Thursdays and £7 on Fridays and Saturdays; Oriole's cover runs £4 to £12; Mu's £8 is optional; The Ned's Parlour charges £20 unless you take its £80 set menu; the 606 Club's is £16 to £23. Brasserie Zédel, Quaglino's, Dishoom Kensington and The Blues Kitchen's nightly music carry no charge."
   - q: "Is there a gospel brunch in London?"
-    a: "Soul Mama in Islington runs the House Gospel Choir brunch on selected Sundays, two sittings a day at noon and 3pm, with dates on 8 November and 20 December 2026. Amazing Grace near London Bridge is in a former church and is often called a gospel brunch, but its weekend brunch is live acoustic music, not a choir."
+    a: "The House Gospel Choir brunch at O2 Academy Islington in Angel Central has two sittings, at noon and 3pm, on Sundays 13 and 20 December 2026. Amazing Grace near London Bridge is in a former church and is often called a gospel brunch, but its weekend brunch is live acoustic music, not a choir."
   - q: "What is the cheapest dinner and a show in London?"
     a: "Dalston Superstore's drag brunch is £8 with a mimosa or soft drink, every Saturday and Sunday. The Blues Kitchen's live music is free and mains start around £13. Brasserie Zédel's house band costs nothing on top of a £16.95 two-course prix fixe. For a jazz club, the 606 Club's Sunday lunch music charge is £16."
 ---
@@ -73,11 +73,11 @@ The music comes first. Expect to be asked to stop talking during the set.
 
 *££ · Soho · 47 Frith Street, W1D · Cited by 7 sources · #1 of 10, Time Out · [what's on](https://www.ronniescotts.co.uk/find-a-show)*
 
-The Frith Street room runs two shows every evening, watched from a small table with dinner from the club's own menu served through the set. Main-room tickets usually run £40 to £65 (September 2026), and the food is on top. Time Out puts it first on its jazz list. It is a club that serves meals, not a restaurant: talking during the music gets you a warning and then asked to leave, and photos are not allowed while the band plays.
+The Frith Street room runs two shows every evening, watched from a small table with dinner from the club's own menu served through the set. The food is on top of the ticket. Time Out puts it first on its jazz list. It is a club that serves meals, not a restaurant: talking during the music gets you a warning and then asked to leave, and photos are not allowed while the band plays.
 
 ![A band plays on the Ronnie Scott's stage under the club's neon sign, with the audience at small lamplit tables in front](../../assets/articles/dinner-and-a-show-london/ronnie-scotts.jpg)
 
-The £12 Late Late Show is the cheap way into the same room; the Upstairs bar and the Monday jam are in [our live music venues guide](/articles/best-live-music-venues-london/). Book the main show ahead for any name you know.
+The Late Late Show is the cheaper way into the same room; the Upstairs bar and the Monday jam are in [our live music venues guide](/articles/best-live-music-venues-london/). Book the main show ahead for any name you know.
 
 ### PizzaExpress Jazz Club, Soho
 
@@ -294,7 +294,7 @@ GetYourGuide sells <a href="https://www.getyourguide.com/activity/-t888396?partn
 
 *£££ · Holborn · Victoria House, Bloomsbury Square, WC1B · Cited by 7 sources · [book](https://www.thelondoncabaretclub.com/book-tickets/)*
 
-A full themed production in an Art Deco room, with pre-show entertainment from 6.30pm, the main show around 7pm to 7.30pm and an after-party. The regular show is **All About Gatsby**, a Roaring Twenties dining and cabaret evening; **El Día of the Dead** runs on 30 and 31 October, **A Gatsby Christmas** follows, and there is a Great Gatsby New Year's Eve party on 31 December. Tiers start at **Silver from £49.50, which includes no food at all**, then Gold from £99.50 with three courses, Diamond from £154.50 with a VIP three-course menu, and Royal Diamond from £199.50 with half a bottle of Moët. Fridays and Saturdays cost far more than weekdays.
+A full themed production in an Art Deco room, with pre-show entertainment from 6.30pm, the main show around 7pm to 7.30pm and an after-party. The regular show is **All About Gatsby**, a Roaring Twenties dining and cabaret evening running to 27 March 2027. **A Gatsby Christmas** runs from 26 November to 19 December, and there is a Great Gatsby New Year's Eve party on 31 December. For All About Gatsby, tiers start at **Silver from £49.50, which includes no food at all**, then Gold from £99.50 with three courses, Diamond from £154.50 with a VIP three-course menu, and Royal Diamond from £199.50 with half a bottle of Moët. Fridays and Saturdays cost far more than weekdays.
 
 ![Dancers in gold feathered headdresses and capes performing on stage](../../assets/articles/dinner-and-a-show-london/the-london-cabaret-club.jpg)
 
@@ -352,7 +352,7 @@ Basil, Sybil and Manuel serve you a three-course set menu in a Bloomsbury hotel 
 
 *££ · Bethnal Green · Arch 63, Pedley Street, E1 · Cited by 2 sources · [its site](https://themurderexpress.com/bethnalgreen/)*
 
-A 1937 dining car in a railway arch, seven minutes from Bethnal Green station, where the current production, *Part Deux: The Jewel of the Empire*, puts a diamond on board and you solve the murder over three courses — the published example is asparagus velouté, chicken breast with peppercorn sauce and a chocolate brownie. It lasts two hours. Tickets run from £74 a head in a carriage for six to £94.60 in a private booth, plus a £4.90 booking fee; drinks are extra. The producers want you in character, so dress for dinner. **Children from 5 are allowed only at shows before 8pm.** There are three steps up into the train, with a ramp for most wheelchairs if you ask ahead.
+A 1937 dining car in a railway arch, seven minutes from Bethnal Green station, where the current production, *Part Deux: The Jewel of the Empire*, puts a diamond on board and you solve the murder over three courses — the published example is asparagus velouté, chicken breast with peppercorn sauce and a chocolate brownie. It lasts two hours from the moment the doors open; drinks are extra. The producers want you in character, so dress for dinner. **Children from 5 are allowed only at shows before 8pm.** There are three steps up into the train, with a ramp for most wheelchairs if you ask ahead.
 
 ![A waiter in a waistcoat and bow tie serves a dish to diners in the train-carriage dining car, with a landscape projected in the windows](../../assets/articles/dinner-and-a-show-london/the-murder-express.jpg)
 
@@ -368,7 +368,7 @@ A projection, not a performer: an animated chef six centimetres tall cooks each 
 
 *££ · Kensal Green and Moorgate · Parlour, 5 Regent Street, NW10 · Cited by 2 sources · [tickets](https://www.tastefilm.co.uk/get-tickets)*
 
-A film on screen and a multi-course menu cooked to match it, course by course, as the scenes arrive: burgers, shakes and "an adrenaline shot" for *Pulp Fiction* at £87.50 for five courses, or six courses for *The Nightmare Before Christmas*, *Sinners* or *The Fellowship of the Ring* at £99.95. It runs at Parlour, Jesse Dunford Wood's gastropub in Kensal Green, and at The Refinery Citypoint opposite Moorgate station. There is no live cast. *Pulp Fiction* carries its film's 18 rating.
+A film on screen and a multi-course menu cooked to match it, course by course, as the scenes arrive: burgers, shakes and "an adrenaline shot" for *Pulp Fiction* over five courses. The Christmas run includes *Home Alone*, *Elf*, *Love Actually* (seven courses) and *The Nightmare Before Christmas* (six), and the price depends on the film. It runs at Parlour, Jesse Dunford Wood's gastropub in Kensal Green, and at The Refinery Citypoint opposite Moorgate station. There is no live cast. *Pulp Fiction* carries its film's 18 rating.
 
 ![A table laid with themed cocktails and a starter in front of the screen during a Taste Film dinner](../../assets/articles/dinner-and-a-show-london/taste-film.jpg)
 
@@ -421,11 +421,11 @@ Ms Ginger Phlappage and her drag squad run games, quizzes and dance numbers **ev
 
 A drag bingo brunch across three floors of a Shoreditch bar with a rooftop, **every Saturday from 2pm to 6pm**, with drag hosts, bingo, games and bottomless bubbles or mimosa cocktails from £43.20. A later drag and disco day party, from 4.30pm, is £5.50 entry without the brunch. It is 18+, with no hoodies, trainers or sportswear. [Our bottomless brunch guide](/articles/bottomless-brunch-london/) compares it with the brunches that come without a show.
 
-### Soul Mama's House Gospel Choir brunch, Islington
+### House Gospel Choir brunch, Islington
 
-*££ · Angel · Angel Central, 21 Parkfield Street, N1 · [its brunches](https://www.soulmama.co.uk/brunches)*
+*££ · Angel · Angel Central, 21 Parkfield Street, N1*
 
-The House Gospel Choir performs at Soul Mama in Angel Central on selected Sundays, with **two sittings, noon to 2.30pm and 3pm to 5.30pm**. The dates on sale are **8 November and 20 December 2026**. Soul Mama runs other themed brunches on Saturdays, from soca to Afrobeats, so check you are booking the choir.
+The House Gospel Choir performs a brunch at O2 Academy Islington in Angel Central on **Sundays 13 and 20 December 2026**, with **two sittings, at noon and 3pm**. Tickets are sold through Ticketmaster. Soul Mama, on the floor above, runs its own themed live-music brunches on other weekends, from soul and Lovers Rock to Afrobeats, so check you are booking the choir; its programme is on its [brunches page](https://www.soulmama.co.uk/brunches).
 
 ![Diners at tables in Soul Mama, with the glittering Soul Mama stage behind them](../../assets/articles/dinner-and-a-show-london/soul-mama.jpg)
 
@@ -458,7 +458,7 @@ A bar and restaurant inside a Grade II-listed former church. Its brunch is not a
 
 *££ · Westminster · Westminster Pier, SW1A · [its site](https://www.cityexperiences.com/london/city-cruises/)*
 
-City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing, from £99 in late September 2026; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, on selected dates, not nightly, at £119 in late September 2026. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, at 19:45 for three hours, about twice a month, at £89 a head. All three are for ages 13 and over.
+City Cruises runs the Thames dinner sailings from Westminster Pier. Its **dinner cruise** sails nightly at 7.45pm for three hours, three British courses with live singers and dancing; a VIP upgrade adds Champagne, front seats, canapés and a cheeseboard. Its **jazz dinner cruise** puts a jazz band on the same route over three courses, on selected dates, not nightly. The **murder mystery dinner cruise**, with actors running a whodunnit at your table, leaves from **Tower Millennium Pier, not Westminster**, at 19:45 for three hours, about twice a month, at £89 a head. All three are for ages 13 and over.
 
 GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">three-hour Thames dinner cruise with a live performance and dancing</a> from £81. [Our Thames cruises guide](/articles/thames-river-cruises-london/) compares every sailing, including the cheaper lunch cruise that passes the same landmarks.
 

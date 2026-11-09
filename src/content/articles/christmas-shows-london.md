@@ -5,8 +5,8 @@ description: "Every Christmas show in London for 2026: the pantomimes from the P
 heroImage: "../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg"
 heroImageAlt: "Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats"
 publishedAt: 2026-09-22
-updatedAt: 2026-10-26
-reviewBy: 2026-11-09
+updatedAt: 2026-11-09
+reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -16,7 +16,7 @@ faq:
   - q: "Which London panto is best for young children?"
     a: "Stratford East's Robin Hood and the Merry Mandem is rated suitable for all ages, and the Lyric Hammersmith's Cinderella has a relaxed performance on 1 December. The London Palladium's Cinderella is the one to think twice about with small children: the theatre says its humour includes innuendo and it isn't tailored for young children, and nobody under four is admitted."
   - q: "What's the cheapest Christmas show in London?"
-    a: "Little Angel Theatre in Islington charges £8.50 for every seat at its 4.45pm Thursday shows of The Snowflake and its 4.45pm Wednesday shows of Scruff's Christmas Adventure. Among the pantos, the Lyric Hammersmith has £10 tickets during previews, and Stratford East's cheapest seats in the box office are £6."
+    a: "Little Angel Theatre in Islington charges £8.50 for every seat at its 4.45pm Thursday shows of The Snowflake and its 4.45pm Wednesday shows of Scruff's Christmas Adventure. Among the pantos, the Lyric Hammersmith and the Hackney Empire both start at £10."
   - q: "Is there a Nutcracker in London at Christmas 2026?"
     a: "English National Ballet's Nutcracker is at the London Coliseum from 17 December 2026 to 10 January 2027, from £27.25 including fees, with 25% off for under-16s. Soho Theatre has a 70-minute Nutcracker for ages five and up from 22 December to 3 January, from £15."
   - q: "Can under-fives go to the Nutcracker?"
@@ -25,7 +25,7 @@ faq:
     a: "An hour and a half, including a 20-minute interval. The 2026 production is new, directed and choreographed by Will Tuckett, running from 21 November 2026 to 3 January 2027, from £18 plus a £4 transaction fee."
 ---
 
-> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with cheapest seats from **£6 to £10**. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. For three to eight-year-olds, **Wundrful World of Christmas** at ExCeL is a timed walk-through to Santa's grotto from **13 November**. Every Christmas show we list is at the bottom of the page.
+> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with seats from **£10** at the Lyric and the Hackney Empire. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, opens on **10 November**. For three to eight-year-olds, **Wundrful World of Christmas** at ExCeL is a timed walk-through to Santa's grotto from **13 November**. Every Christmas show we list is at the bottom of the page.
 
 ## Pantomimes
 
@@ -35,9 +35,9 @@ faq:
 
 *The London Palladium.*
 
-**5 December 2026 – 10 January 2027, from £25 with no booking fees.** Dawn French and Jennifer Saunders play the Ugly Sisters, together on a West End stage for the first time in 17 years, with Julian Clary, wand in hand.
+**5 December 2026 – 10 January 2027.** Dawn French and Jennifer Saunders play the Ugly Sisters, together on a West End stage for the first time in 17 years, with Julian Clary, wand in hand.
 
-**Read the age advice before booking.** The theatre says the show includes playful innuendo and cheeky jokes and is not tailored for young children, and it doesn't admit anyone **under four**. Hospitality packages with a reserved table start at £40 a head on top of the ticket. [Book on the Palladium's site](https://lwtheatres.co.uk/whats-on/cinderella/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/cinderella-tickets).
+**Read the age advice before booking.** The theatre says the show includes playful innuendo and cheeky jokes and is not tailored for young children, and it doesn't admit anyone **under four**. [Book on the Palladium's site](https://lwtheatres.co.uk/whats-on/cinderella/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/cinderella-tickets).
 
 ### Robin Hood and the Merry Mandem, Stratford East
 
@@ -45,11 +45,11 @@ faq:
 
 *Theatre Royal Stratford East.*
 
-**21 November 2026 – 2 January 2027.** Rated **suitable for all ages** and running about two hours plus an interval. Its box office has seats **from £6 to £41.50**, and some school-day and Friday 27 November performances have sold out. Under-twos can sit on a lap for £1, and the theatre suggests under-fives sit in the Stalls or Dress Circle rather than the Upper Circle. Access performances: **BSL** 11 December, **captioned** 18 December, **audio described** 19 December, **relaxed** 2 January. [Dates and tickets](https://www.stratfordeast.com/whats-on/all-shows/robin-hood-and-the-merry-mandem).
+**21 November 2026 – 2 January 2027.** Rated **suitable for all ages** and running about two hours plus an interval. Ticket prices rise as the theatre fills, so book early. Access performances: **BSL** 11 December, **captioned** 18 December, **audio described** 19 December, **relaxed** 2 January. [Dates and tickets](https://www.stratfordeast.com/whats-on/all-shows/robin-hood-and-the-merry-mandem).
 
 ### Cinderella, Lyric Hammersmith
 
-**14 November 2026 – 3 January 2027, £10 to £50.** Written by Joel Horwood and directed by Robin Belfield. **£10 tickets are available during previews**, and Young Lyric members get two £5 tickets. Children under 18 months don't need a ticket. Access performances: **relaxed** 1 December at 10am, **audio described** 10 December, **BSL** 11 December, **captioned** 16 December. [Dates and tickets](https://lyric.co.uk/shows/cinderella-2026/).
+**14 November 2026 – 3 January 2027, from £10.** Written by Joel Horwood and directed by Robin Belfield. Young Lyric members get two £5 tickets, and under-16s pay £30 in Band B and £20 in Band C. Children under 18 months don't need a ticket. Access performances: **relaxed** 1 December at 10am, **audio described** 10 December, **BSL** 11 December, **captioned** 16 December. [Dates and tickets](https://lyric.co.uk/shows/cinderella-2026/).
 
 ### Jack and the Beanstalk, Hackney Empire
 
@@ -75,11 +75,11 @@ faq:
 
 *A Christmas Carol at the Old Vic.*
 
-**10 November 2026 – 9 January 2027, £19.50 to £91.50.** Matthew Warchus's production of Jack Thorne's adaptation. It runs about **two hours including a 20-minute interval**, and the Old Vic suggests it for **ages eight and up**. Previews (10–23 November) and the off-peak dates in January (1–9 January) top out at £81.50 instead of £91.50. Access performances include **audio described** and **BSL** on 12 December and **captioned** on 14 December, and there's an access rate of £23.50–£26.50 at every performance. [Dates and tickets](https://www.oldvictheatre.com/stage/a-christmas-carol-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/a-christmas-carol-old-vic-tickets).
+**10 November 2026 – 9 January 2027, £19.50 to £91.50.** Matthew Warchus's production of Jack Thorne's adaptation. It runs about **two hours including a 20-minute interval**, and the Old Vic suggests it for **ages eight and up**. Previews (10–23 November) top out at £81.50. Access performances include **audio described** and **BSL** on 12 December and **captioned** on 14 December, and there's an access rate of £23.50–£26.50 at every performance. [Dates and tickets](https://www.oldvictheatre.com/stage/a-christmas-carol-2026/). Also sold by [London Box Office](https://www.londonboxoffice.co.uk/a-christmas-carol-old-vic-tickets).
 
 ### Christmas Carol Goes Wrong, Wyndham's Theatre
 
-**18 December 2026 – 23 January 2027, from £15.** Mischief, the company behind *The Play That Goes Wrong*, turn the Dickens story into a disaster, with the cast feuding over who plays Scrooge while the set comes apart. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/christmas-carol-goes-wrong-tickets) and [Ticketmaster](https://www.ticketmaster.co.uk/christmas-carol-goes-wrong-london-18-12-2026/event/Zor9uZKbZL4ZefkGjZd).
+**18 December 2026 – 23 January 2027.** Mischief, the company behind *The Play That Goes Wrong*, turn the Dickens story into a disaster, with the cast feuding over who plays Scrooge while the set comes apart. Also sold by [London Box Office](https://www.londonboxoffice.co.uk/christmas-carol-goes-wrong-tickets) and [Ticketmaster](https://www.ticketmaster.co.uk/christmas-carol-goes-wrong-london-18-12-2026/event/Zor9uZKbZL4ZefkGjZd).
 
 ### Sherlock Holmes and the 12 Days of Christmas, Alexandra Palace
 
@@ -115,7 +115,7 @@ Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3
 
 ### Sophie's Surprise Christmas Party, Underbelly Boulevard Soho
 
-**13 November 2026 – 10 January 2027, from £30 including the booking fee.** Circus and comedy at a party where one audience member is picked each night to be Sophie, the guest of honour. **Age 16 and over**, **1 hour 30 minutes including an interval**, at 6 Walker's Court. The 9.30pm "Sophie's Lates" run 70 minutes without an interval. Groups of five or more get £2 off each ticket with the code FESTFRIENDS. [Dates and tickets](https://underbellyboulevard.com/tickets/sophies-surprise-christmas-party/).
+**13 November 2026 – 10 January 2027, from £30 including the booking fee.** Circus and comedy at a party where one audience member is picked each night to be Sophie, the guest of honour. **Age 16 and over**, **1 hour 30 minutes including an interval**, at 6 Walker's Court. The 9.30pm "Sophie's Lates" run 70 minutes without an interval. [Dates and tickets](https://underbellyboulevard.com/tickets/sophies-surprise-christmas-party/).
 
 ## Christmas concerts and carols
 
@@ -171,11 +171,11 @@ Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3
 
 **13 November – 24 December 2026, on selected days.** A timed walk-through for **ages three to eight** and their adults, in Immerse LDN on ExCeL's waterfront, about three minutes' walk from Custom House (Elizabeth line and DLR). A lift to the North Pole, an Enchanted Forest, the Elves' Workshop, Mrs Claus's Kitchen and a meeting with Santa, with a photo taken at the end. The walk-through takes about **50 minutes**, followed by the Elves' Playground, an indoor festive village with light installations, gentle fairground rides and Christmas food stalls. Allow **at least 90 minutes in all**.
 
-**Prices by session.** Peak: adults £34.90, children £29.90. Off-peak: adults £29.90, children £24.90. A family pass for four or five tickets (no more than two adults) is £29.90 a head at peak and £24.90 off-peak. **Every child needs a ticket**, babies included, though tickets for under-12-months are free. Santa photo prints, rides and food are paid for separately, and the venue is **cashless**. Pushchairs are not allowed inside the walk-through, but there is a pram park. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
+Peak and off-peak sessions are priced differently, so check the booking page. **Every child needs a ticket**, babies included. Santa photo prints, rides and food are paid for separately, and the venue is **cashless**. Pushchairs are not allowed inside the walk-through, but there is a pram park. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
 
 ### Pinocchio, Shakespeare's Globe
 
-**28 November 2026 – 3 January 2027.** A musical by Charlie Josephine and Jim Fortune, directed by Sean Holmes, staged in the Globe Theatre itself, for **ages five and over**. It runs **2 hours 10 minutes including a 20-minute interval**. Seats are **£28 to £88** including a £3 per-order fee, standing tickets are £10 or £5, and **under-16s pay half price for seats**; they must sit next to an adult. [Dates and tickets](https://www.shakespearesglobe.com/whats-on/pinocchio/).
+**28 November 2026 – 3 January 2027.** A musical by Charlie Josephine and Jim Fortune, directed by Sean Holmes, staged in the Globe Theatre itself, for **ages five and over**. It runs **2 hours 10 minutes including a 20-minute interval**. Seats are **£29 to £89** including a £3 per-order fee and a £1 per-ticket restoration levy, standing tickets are £10 or £5, and **under-16s pay half price for seats**; they must sit next to an adult. [Dates and tickets](https://www.shakespearesglobe.com/whats-on/pinocchio/).
 
 ### Peppa Pig's Big Family Show!, Theatre Royal Haymarket
 
@@ -207,15 +207,15 @@ Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3
 
 ### Santa's First Christmas, Unicorn Theatre
 
-**14 November 2026 – 3 January 2027.** From Mac Barnett and Sydney Smith's picture book, told mainly through **dance and music**, for **ages four and up**, about **50 minutes**. Seats from **£7 to £31.50**. [Dates and tickets](https://www.unicorntheatre.com/events/santas-first-christmas).
+**14 November 2026 – 3 January 2027.** From Mac Barnett and Sydney Smith's picture book, told mainly through **dance and music**, for **ages four and up**, about **50 minutes**. [Dates and tickets](https://www.unicorntheatre.com/events/santas-first-christmas).
 
 ### The Gingerbread Man, The Albany
 
-**5 – 24 December 2026, £13 to £15, or four tickets for £44.** A **50-minute** show at the Albany in Deptford. Babies under 18 months don't need a ticket. The 11am show on **Saturday 12 December** is both **BSL-interpreted and relaxed**. [Dates and tickets](https://www.thealbany.org.uk/events/the-gingerbread-man).
+**5 – 24 December 2026, £15, or four tickets for £50.** A **50-minute** show for ages three to ten at the Albany in Deptford. Babies under 18 months don't need a ticket. The 11am show on **Saturday 12 December** is both **BSL-interpreted and relaxed**. [Dates and tickets](https://www.thealbany.org.uk/events/the-gingerbread-man).
 
 ### Stick Man, Bloomsbury Theatre
 
-**3 December 2026 – 3 January 2027**, with seats from **£10 to £40** in the box office, at UCL's Bloomsbury Theatre on Gordon Street.
+**3 December 2026 – 3 January 2027**, at UCL's Bloomsbury Theatre on Gordon Street.
 
 ## Every Christmas show in the listings
 
