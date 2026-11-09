@@ -5,8 +5,8 @@ description: "Japanese-Italian, Indo-Chinese, Nikkei, Korean-European and Mexica
 heroImage: "../../assets/articles/unusual-restaurants-london/sushisamba.jpg"
 heroImageAlt: "A high dining room on the 38th floor of Heron Tower, with arched bamboo poles and hanging plants overhead, orange velvet banquettes and floor-to-ceiling windows over London"
 publishedAt: 2026-10-07
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "Food and drink"

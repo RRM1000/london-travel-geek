@@ -3,8 +3,8 @@ title: "The Harry Potter Studio Tour: Tickets, Extras and How to Get There"
 seoTitle: "Harry Potter Studio Tour London: Prices and Travel"
 description: "Warner Bros. Studio Tour London costs £58.50 for 2026 dates and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
 publishedAt: 2026-09-20
-updatedAt: 2026-11-02
-reviewBy: 2026-11-16
+updatedAt: 2026-11-09
+reviewBy: 2026-11-14
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -24,14 +24,14 @@ faq:
   - q: "Is Butterbeer included in the Studio Tour ticket?"
     a: "No. Butterbeer is £7.95 in a souvenir tankard and is sold only at the Butterbeer Bar, about halfway round, next to the Backlot Café."
   - q: "What is on at the Studio Tour in winter 2026?"
-    a: "Dark Arts runs to 8 November 2026 and Hogwarts in the Snow from 14 November 2026 to 17 January 2027. Both are included in the ticket price. The tour is closed 9 to 13 November while the sets are redressed, and on 25 and 26 December."
+    a: "Hogwarts in the Snow runs from 14 November 2026 to 17 January 2027 and is included in the ticket price. The tour is closed 9 to 13 November while the sets are redressed, and on 25 and 26 December. Dark Arts ran until 8 November."
 ---
 
 **A ticket to Warner Bros. Studio Tour London costs £58.50 for an adult on 2026 dates, and you cannot buy one at the door.** Everything is pre-booked, in 30-minute entry slots, and you need a booking confirmation even to drive into the car park.
 
 It is a walking tour of the sets, props and costumes the films were made on, at Leavesden in Hertfordshire, and it takes about three and a half hours. There are no rides.
 
-> 💡 **The Short Version:** **£58.50 adult, £47.00 child, £188 for a family of four** on any 2026 date; adult tickets for 2027 dates are £61. **Book ahead**: Saturdays sell out weeks out. Get there by **train from Euston to Watford Junction (£7.20 off-peak) and the free shuttle bus**, or drive and park free. **Butterbeer is £7.95** and only sold halfway round. The **Digital Guide is £4.75 if you pre-book it**, and £5.25 on the day. **Dark Arts runs to 8 November and Hogwarts in the Snow from 14 November**, both included, and the tour is **closed 9 to 13 November**. **Sold out, or would rather not change at Watford Junction?** A <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">coach tour from Victoria</a> includes entry, from £87.
+> 💡 **The Short Version:** **£58.50 adult, £47.00 child, £188 for a family of four** on any 2026 date; adult tickets for 2027 dates are £61. **Book ahead**: Saturdays sell out weeks out. Get there by **train from Euston to Watford Junction (£7.20 off-peak) and the free shuttle bus**, or drive and park free. **Butterbeer is £7.95** and only sold halfway round. The **Digital Guide is £4.75 if you pre-book it**, and £5.25 on the day. **Hogwarts in the Snow runs from 14 November**, included in the ticket, and the tour is **closed 9 to 13 November**. **Sold out, or would rather not change at Watford Junction?** A <a href="https://www.getyourguide.com/activity/-t31392?partner_id=WWP7I0R&amp;cmp=harry-potter-studio-tour" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">coach tour from Victoria</a> includes entry, from £87.
 
 ## What it costs
 
@@ -108,7 +108,7 @@ The tour runs in one direction through 21 sections, starting with the doors of t
 
 **The sets:** the Great Hall, the Gryffindor common room and Dumbledore's office, Platform 9¾ with the original Hogwarts Express locomotive and a carriage you can walk into, the Forbidden Forest, Gringotts and the Lestrange vault, Diagon Alley, Professor Sprout's greenhouse, the Backlot with the Knight Bus, the Hogwarts bridge and Number Four Privet Drive, the castle model, and the Wand Room.
 
-**Free with any ticket:** the shuttle bus from Watford Junction, car parking, the cloakroom, the Activity Passport for children, WiFi, water refill stations, manual wheelchairs and folding stools, sensory support bags, two sensory rooms and a multi-faith room. **All the seasonal content is included too**: Dark Arts and Hogwarts in the Snow cost nothing extra.
+**Free with any ticket:** the shuttle bus from Watford Junction, car parking, the cloakroom, the Activity Passport for children, WiFi, water refill stations, manual wheelchairs and folding stools, sensory support bags, two sensory rooms and a multi-faith room. **All the seasonal content is included too**: Hogwarts in the Snow and the later seasons cost nothing extra.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="harry-potter-studio-tour-studio-tour-bundles" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="679208,31392,297085"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -173,14 +173,12 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 
 | Feature | Dates | Extra cost |
 | --- | --- | --- |
-| **Dark Arts** | 16 September – 8 November 2026 | None |
 | **Hogwarts in the Snow** | 14 November 2026 – 17 January 2027 | None |
 | **Hogwarts House Spirit** | 23 January – 19 April 2027 | None |
 | **Summer feature** | 13 May – 6 September 2027 | None |
 
-**Dark Arts** puts over a hundred floating pumpkins above the Great Hall, Death Eaters through the sets, duelling in the Defence Against the Dark Arts classroom and Dementors in the Forbidden Forest. There are pyrotechnics, water-based smoke and flashing lights at Hagrid's hut, the Hogwarts Express and Diagon Alley, and from 18:00 on the Hogwarts bridge. Ask a team member if you want to bypass any of it.
 
-> ⚠️ **The tour is closed 9–13 November 2026**, between the two seasonal runs, while the sets are redressed, and on **25 and 26 December**. On **24 and 31 December the last tour starts at 14:30**. Check the calendar before you book trains or a hotel.
+> ⚠️ **The tour is closed 9–13 November 2026**, between Dark Arts and Hogwarts in the Snow, while the sets are redressed, and on **25 and 26 December**. On **24 and 31 December the last tour starts at 14:30**. Check the calendar before you book trains or a hotel.
 
 <div data-stay-strip></div>
 

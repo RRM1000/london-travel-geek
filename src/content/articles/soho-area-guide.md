@@ -3,8 +3,8 @@ title: "Soho Guide: Chinatown, Carnaby Street and After Dark"
 seoTitle: "Soho Guide: Chinatown, Carnaby Street & Nightlife"
 description: "Soho is two places depending on when you arrive: a working media district with quiet streets and good coffee by day, a crowded nightlife district after six. Chinatown, Carnaby Street, Old Compton Street and where to eat late."
 publishedAt: 2026-08-03
-updatedAt: 2026-11-01
-reviewBy: 2026-11-05
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites:
   - london
 canonicalSite: london
@@ -130,7 +130,7 @@ Pedestrian shopping to the west, and **a district of lanes rather than one stree
 
 **Free to walk through, open daily**, and five minutes from Oxford Circus. The courtyard is busiest between 6pm and 8pm; most of its restaurants take bookings, which is worth doing at a weekend.
 
-Oxford Circus is five minutes north, and our [Oxford Street guide](/articles/oxford-street-guide/) covers the traffic-free stretch and the shops there. Carnaby's Christmas lights switch-on is Wednesday 4 November 2026, and the street is stop six on our [Christmas lights walk](/articles/christmas-lights-walk-london/), between the Regent Street angels and Seven Dials.
+Oxford Circus is five minutes north, and our [Oxford Street guide](/articles/oxford-street-guide/) covers the traffic-free stretch and the shops there. Carnaby's Christmas lights have been on since Wednesday 4 November 2026, and the street is stop six on our [Christmas lights walk](/articles/christmas-lights-walk-london/), between the Regent Street angels and Seven Dials.
 
 ### Berwick Street and Broadwick Street
 Market stalls, record shops and some of Soho's better restaurants — **Berwick Street market has traded since the 1770s** and is now a short run of food stalls, not the fruit and veg it was, with the surviving record shops on the same stretch.

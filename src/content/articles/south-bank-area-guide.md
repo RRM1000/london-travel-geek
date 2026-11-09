@@ -3,8 +3,8 @@ title: "South Bank Area Guide: The River Walk, Tate Modern and Borough Market"
 seoTitle: "South Bank Guide: Tate Modern, Borough Market & Walks"
 description: "A complete South Bank guide: the walk from the London Eye to Tower Bridge, Tate Modern, Borough Market opening days, and the free views worth queuing for."
 publishedAt: 2026-08-06
-updatedAt: 2026-11-01
-reviewBy: 2026-11-08
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites:
   - london
 canonicalSite: london
@@ -62,7 +62,7 @@ faq:
   - q: "Is Tate Modern free?"
     a: "Yes. The permanent collection is free, as at all Tate galleries, and so is the tenth-floor Blavatnik Building viewing level. Only the special exhibitions are ticketed."
   - q: "What days is Borough Market open?"
-    a: "Tuesday to Friday 10am to 5pm, Saturday 9am to 5pm and Sunday 10am to 4pm. It is closed on Mondays, except in December, when it opens seven days a week. Arrive before midday on a Saturday if you want to move around it comfortably."
+    a: "Tuesday to Friday 10am to 5pm, Saturday 9am to 5pm and Sunday 10am to 4pm. It is closed on Mondays. Arrive before midday on a Saturday if you want to move around it comfortably."
   - q: "What is the best free view of London?"
     a: "The tenth floor of Tate Modern's Blavatnik Building looks straight across to St Paul's and is completely free. The Sky Garden at 20 Fenchurch Street is also free but requires booking a slot weeks ahead."
   - q: "Is the South Bank good in the rain?"
@@ -163,7 +163,7 @@ Ninety seconds west of Tate's door, **Bankside Gallery**, home of the Royal Wate
 
 Inland from the river: Borough Market, Southwark Cathedral and the Victorian streets around Stoney Street.
 
-**Borough Market is closed on Mondays.** Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm, and seven days a week through December. Saturday is the busiest day; Tuesday or Wednesday morning has room to move. Borough Market Kitchen is the hot street food section.
+**Borough Market is closed on Mondays.** Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm. Saturday is the busiest day; Tuesday or Wednesday morning has room to move. Borough Market Kitchen is the hot street food section.
 
 **Southwark Cathedral is free** and open 9am–6pm Monday to Saturday, 8.30am–5pm Sunday — a thousand years of building beside a market, with a churchyard, a herb garden and a resident cat. There is an hourly pause for prayer on the half hour, about two minutes, when visitors are asked to stand still.
 

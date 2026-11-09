@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenh
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
 publishedAt: 2026-07-23
-updatedAt: 2026-10-31
-reviewBy: 2026-11-09
+updatedAt: 2026-11-09
+reviewBy: 2026-11-20
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -165,7 +165,7 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 
 > ⚠️ **There is no night train from Twickenham.** After 00:11 nothing runs until 06:51. The only all-night option is the **Piccadilly line from Hounslow East**, Friday and Saturday only, a 30 to 35 minute walk after the shuttle has stopped. It is tightest on **Friday 27 November 2026**, when the second Nations Championship final kicks off at **20:10**.
 
-**Check Sunday trains**, especially for the 8 November and 29 November games. Engineering work hits this line on some Sundays and can turn a 25-minute journey to Waterloo into an hour with a change. See [South Western Railway's engineering calendar](https://www.southwesternrailway.com/plan-my-journey/planned-improvements/planned-engineering-works).
+**Check Sunday trains**, especially for the 29 November games. Engineering work hits this line on some Sundays and can turn a 25-minute journey to Waterloo into an hour with a change. See [South Western Railway's engineering calendar](https://www.southwesternrailway.com/plan-my-journey/planned-improvements/planned-engineering-works).
 
 ---
 
@@ -179,7 +179,6 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts E
 
 | Date | Event | Kick-off | Crowd |
 | --- | --- | --- | --- |
-| **Sun 8 Nov 2026** | England v Australia | 15:10 | **82,000** |
 | **Sat 14 Nov 2026** | England v Japan | 16:40 | **82,000** |
 | **Sat 21 Nov 2026** | England v New Zealand | 14:10 | **82,000** |
 | **Fri 27 Nov 2026** | Nations Championship finals | 16:40 & 20:10 | **82,000** |
@@ -190,7 +189,7 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts E
 | **Sat 20 Feb 2027** | England v Italy, Six Nations | 16:40 | — |
 | **Sat 13 Mar 2027** | England v Scotland, Six Nations | 16:40 | — |
 
-*Crowd figures are Richmond Council's.* England v New Zealand is sold out; the other autumn games started at £79 against Australia (£15 for children) and £51 against Japan. On a concert night everything here applies, but the crowd leaves later, closer to the last train.
+*Crowd figures are Richmond Council's.* England v New Zealand is sold out; the England v Japan game started at £51. On a concert night everything here applies, but the crowd leaves later, closer to the last train.
 
 ---
 

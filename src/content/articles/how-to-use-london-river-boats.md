@@ -3,7 +3,7 @@ title: "How to Use London River Boats: Fares, Routes and Piers"
 seoTitle: "How to Use London River Boats"
 description: "A practical guide to London's River Bus, including zone fares, day tickets, touching in and out, scenic routes, key piers and the River Bus Comedy Night."
 publishedAt: 2026-08-02
-updatedAt: 2026-11-01
+updatedAt: 2026-11-09
 reviewBy: 2027-02-01
 sites:
   - london
@@ -114,7 +114,7 @@ A Hop-on Hop-off ticket is £29.30 online for one day and £48.80 for two, or £
 ![A London Eye River Cruise boat on the Thames with its top deck full, passing the buildings near Tower Bridge](../../assets/articles/getting-around-london/city-cruise-tower-bridge.jpg)
 
 *A sightseeing cruise, not a river bus.*
-Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before passing **directly beneath Tower Bridge** to reach Greenwich (*Cutty Sark*; the Royal Observatory closes for refurbishment on 2 November 2026).
+Board at Westminster Pier or London Eye Pier and sail past the Houses of Parliament, South Bank, St Paul's, and the skyscrapers of the City, before passing **directly beneath Tower Bridge** to reach Greenwich (*Cutty Sark*; the Royal Observatory is closed for refurbishment, with the Meridian Courtyard due to reopen in summer 2027).
 * **Zones:** Central & East Zone (£11.40 off-peak PAYG).
 * **With commentary:** City Cruises sails Westminster, London Eye, Tower and Greenwich piers with the captain talking. Its <a href="https://www.getyourguide.com/activity/-t1382143?partner_id=WWP7I0R&amp;cmp=how-to-use-london-river-boats" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">one-day unlimited river pass</a> is on GetYourGuide.
 

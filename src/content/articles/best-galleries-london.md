@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Turbine_Hall_-_geograp
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-08-24
-updatedAt: 2026-10-26
-reviewBy: 2026-11-07
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -197,7 +197,7 @@ Founded in 1901, it gave **Picasso's Guernica its only British showing in 1939**
 
 The first gallery in Britain devoted entirely to photography, founded in 1971, now in a converted warehouse on a Soho side street behind Oxford Street — five floors, a bookshop, and a print sales room where you can buy work.
 
-> 💡 **Entry is free after 5pm on the first Friday of each month**: 6 November, 4 December, 8 January and 5 February. On other Fridays it is £5 after 5pm. Otherwise admission is **£14 including a £2 optional donation**, or £11 for seniors, students, jobseekers and disabled visitors; 18s and under go free.
+> 💡 **Entry is free after 5pm on the first Friday of each month**: 4 December, 8 January and 5 February. On other Fridays it is £5 after 5pm. Otherwise admission is **£14 including a £2 optional donation**, or £11 for seniors, students, jobseekers and disabled visitors; 18s and under go free.
 
 **Late opening Thursday and Friday to 8pm**, otherwise 10.30am–6pm Monday to Wednesday and Saturday and 11am–6pm Sunday, with last admission 30 minutes before close. Closed 24 December to 1 January.
 

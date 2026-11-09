@@ -3,7 +3,7 @@ title: "Buckingham Palace, Changing of the Guard and St James's Park"
 seoTitle: "Buckingham Palace & Changing of the Guard Guide"
 description: "When the guard changes (Monday, Wednesday and Friday from 10:45) and where to watch; Buckingham Palace State Rooms, the £100 winter East Wing tour, The King's Gallery, the Royal Mews, and St James's Park's 14:30 pelican feed."
 publishedAt: 2026-10-28
-updatedAt: 2026-11-02
+updatedAt: 2026-11-09
 reviewBy: 2026-12-14
 sites:
   - london
@@ -30,9 +30,9 @@ faq:
   - q: "Where is the best place to watch Changing of the Guard without crowds?"
     a: "Instead of standing behind the crowd at the Buckingham Palace railings, watch the soldiers form up at St James's Palace or Wellington Barracks on Birdcage Walk from 10:00 and follow them along The Mall, or stand on the raised steps of the Queen Victoria Memorial. For a mounted ceremony with no railings between you and the horses, watch the King's Life Guard at Horse Guards Parade on Whitehall at 11:00 on Monday, Wednesday and Friday, or the daily 16:00 dismounted inspection."
   - q: "Can you go inside Buckingham Palace in autumn, winter or spring?"
-    a: "Only on a pre-booked guided tour, or by visiting The King's Gallery at the side of the palace (the Royal Mews is closed for winter and reopens on 4 March 2027). The nineteen State Rooms open for general timed entry in summer only — in 2026 that ran from 9 July to 27 September, and summer 2027 tickets go on sale in November. Between 6 November 2026 and 31 January 2027 the Royal Collection Trust runs East Wing Guided Tours at £100 per person."
+    a: "Only on a pre-booked guided tour, or by visiting The King's Gallery at the side of the palace (the Royal Mews is closed for winter and reopens on 4 March 2027). The nineteen State Rooms open for general timed entry in summer only — in 2027 that is 8 July to 26 September, with tickets on sale now. Until 31 January 2027 the Royal Collection Trust runs East Wing Guided Tours at £100 per person."
   - q: "How much are tickets to Buckingham Palace, The King's Gallery and the Royal Mews?"
-    a: "Buckingham Palace State Rooms cost £33.00 adult in advance (£37.00 on the day), £21.50 young person (18–24) and £16.50 child (5–17) or disabled visitor in the 2026 summer season. The King's Gallery costs £22.00 adult (£24.00 in 2027), £14.00 young person and £11.00 child, booked in advance. The Royal Mews costs £18.00 adult, £12.00 young person and £9.00 child, and is closed for winter until 4 March 2027. Recipients of Universal Credit and other named UK benefits can pre-book £1.00 tickets for up to six people per household at all three."
+    a: "Buckingham Palace State Rooms cost £35.00 adult in advance (£39.00 on the day), £23.00 young person (18–24) and £17.50 child (5–17) or disabled visitor for summer 2027. The King's Gallery costs £22.00 adult (£24.00 in 2027), £14.00 young person and £11.00 child, booked in advance. The Royal Mews costs £18.00 adult, £12.00 young person and £9.00 child, and is closed for winter until 4 March 2027. Recipients of Universal Credit and other named UK benefits can pre-book £1.00 tickets for up to six people per household at all three."
   - q: "When are the pelicans fed in St James's Park?"
     a: "Every day at around 14:30 by Duck Island Cottage, at the eastern end of the lake near Horse Guards Road. Pelicans have lived in St James's Park since 1664, when a pair was presented to Charles II by the Russian Ambassador."
   - q: "Is Buckingham Palace included on The London Pass?"
@@ -42,7 +42,7 @@ faq:
 > 💡 **The Short Version:**
 > - **The guard only changes on Monday, Wednesday and Friday.** Soldiers gather at **St James's Palace** and **Wellington Barracks** from **10:00**, the ceremony is under way on the Buckingham Palace forecourt from **10:45** (handover at **11:00**, lasting about 45 minutes). On **Sunday** there is a **10:00 Sunday Parade**; on **Tuesday, Thursday and Saturday** a shorter **Captain's Inspection at 15:00**.
 > - **Don't stand at the palace railings.** You will see only one part of the handover through iron bars. Watch the detachments form up at St James's Palace or Wellington Barracks from 10:00 and march along **The Mall**, or go to **Horse Guards Parade** on Whitehall for the **11:00** mounted ceremony (Monday, Wednesday and Friday) with no railings at all — or walk with a guide on Urban Saunters' <a href="https://www.getyourguide.com/activity/-t413142?partner_id=WWP7I0R&amp;cmp=buckingham-palace-changing-of-the-guard-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Changing of the Guard walking tour on GetYourGuide</a> (from **£15**).
-> - **The State Rooms open in summer only** (9 July to 27 September in 2026; summer 2027 tickets go on sale in November; **£33** adult in advance, **£37** on the day). From **6 November 2026 to 31 January 2027**, the Royal Collection Trust runs **East Wing Guided Tours (£100)**.
+> - **The State Rooms open in summer only** (8 July to 26 September in 2027; **£35** adult in advance, **£39** on the day). Until **31 January 2027**, the Royal Collection Trust runs **East Wing Guided Tours (£100)**.
 > - **The King's Gallery and the Royal Mews sit beside the palace:** **The King's Gallery** stays open through autumn, winter and spring (**£22** adult in 2026, £24 in 2027; showing *Queen Elizabeth II: Her Life in Style* from 10 April 2026 to 18 April 2027), while **The Royal Mews** (**£18** adult) is closed for winter and reopens on **4 March 2027** (Thursday to Monday).
 > - **£1 tickets and free 1-Year Passes.** Anyone on Universal Credit or other named UK benefits can pre-book **£1 tickets** for up to six people per household at the State Rooms, King's Gallery and Royal Mews. Standard tickets bought direct from the Royal Collection Trust convert free to a **1-Year Pass** before you leave.
 > - **St James's Park is free (05:00–midnight).** Stand on the **Blue Bridge** for the view of the palace one way and Horse Guards and Whitehall the other, and be by **Duck Island Cottage at 14:30** when the park's pelicans are fed.
@@ -107,8 +107,8 @@ Three separate Royal Collection Trust venues sit at Buckingham Palace: the **Sta
 
 | Venue | When it opens | Adult | Young Person (18–24) | Child (5–17) / Disabled | Notes |
 | --- | --- | ---: | ---: | ---: | --- |
-| **State Rooms** (summer) | Mid-July to late September (9 Jul–27 Sep in 2026; 2027 tickets go on sale in Nov) | **£33.00** adv / £37.00 day | **£21.50** adv / £24.00 day | **£16.50** adv / £18.50 day | Timed entry in 15-min slots; includes multimedia guide and garden exit walk. Under-5s free. |
-| **East Wing Guided Tour** (winter) | **6 Nov 2026 – 31 Jan 2027** | **£100.00** | **£100.00** | **£100.00** | Pre-booked guided tour of the East Wing while the State Rooms are closed for winter. |
+| **State Rooms** (summer) | Early July to late September (8 Jul–26 Sep in 2027) | **£35.00** adv / £39.00 day | **£23.00** adv / £26.00 day | **£17.50** adv / £19.50 day | Timed entry in 15-min slots; includes multimedia guide and garden exit walk. Under-5s free. |
+| **East Wing Guided Tour** (winter) | **Until 31 Jan 2027** | **£100.00** | **£100.00** | **£100.00** | Pre-booked guided tour of the East Wing while the State Rooms are closed for winter. |
 | **The King's Gallery** | Daily **10:00–17:30** (last entry 16:15) during exhibitions | **£22.00** (2026) / £24.00 (2027) | **£14.00** (2026) / £15.50 (2027) | **£11.00** (2026) / £12.00 (2027) | Advance timed booking required. |
 | **The Royal Mews** | Closed for winter; reopens **4 Mar 2027**, Thu–Mon **10:00–17:00** (last entry 16:00) | **£18.00** | **£12.00** | **£9.00** | Includes multimedia guide and free 45-min warder tour. Included on [The London Pass](/articles/london-pass-guide/). |
 
@@ -126,7 +126,7 @@ Three separate Royal Collection Trust venues sit at Buckingham Palace: the **Sta
 Buckingham Palace's public summer route covers the **19 State Rooms** used by the King for investitures, audiences and state banquets while the court is away in summer.
 
 - **What you see on the summer route:** You climb John Nash's **Grand Staircase**, pass through the **Green Drawing Room** into the **Throne Room** (holding the chairs of estate made for the 2023 Coronation), walk the **Picture Gallery** hung with works by Rembrandt, Rubens, Van Dyck and Vermeer, and finish in the **Ballroom** before walking down the **West Terrace** and along a half-kilometre gravel path through the **Palace Garden** towards the exit on Grosvenor Place.
-- **The winter East Wing tour (6 November 2026 to 31 January 2027):** Outside the summer opening, the Royal Collection Trust runs guided tours of the **East Wing** — the front wing facing The Mall built in the 1840s — at **£100 per person**, booked in advance through [rct.uk](https://www.rct.uk/visit/buckingham-palace).
+- **The winter East Wing tour (until 31 January 2027):** Outside the summer opening, the Royal Collection Trust runs guided tours of the **East Wing** — the front wing facing The Mall built in the 1840s — at **£100 per person**, booked in advance through [rct.uk](https://www.rct.uk/visit/buckingham-palace).
 - **Allow two to two and a half hours** for the summer State Rooms including airport-style security and the garden exit walk.
 
 ### 2. The King's Gallery
@@ -221,7 +221,7 @@ For a complete 11-stop self-guided route connecting Buckingham Palace and St Jam
 ## Common mistakes to avoid
 
 1. **Turning up on a Tuesday, Thursday, Saturday or Sunday expecting the 11:00 Changing of the Guard:** The full ceremony only runs on **Monday, Wednesday and Friday**; Sunday has a 10:00 parade and the other days a 15:00 inspection.
-2. **Expecting to tour Buckingham Palace's State Rooms outside summer:** They open for about ten weeks from mid-July to late September. Outside summer, book **The King's Gallery**, **The Royal Mews** (closed for winter, reopening 4 March 2027) or the **£100 winter East Wing guided tour** (6 November 2026 to 31 January 2027).
+2. **Expecting to tour Buckingham Palace's State Rooms outside summer:** They open for about ten weeks from early July to late September. Outside summer, book **The King's Gallery**, **The Royal Mews** (closed for winter, reopening 4 March 2027) or the **£100 winter East Wing guided tour** (until 31 January 2027).
 3. **Standing against the Buckingham Palace railings from 09:30:** You lose an hour and a half and still miss the soldiers and bands forming up at Wellington Barracks and St James's Palace from 10:00.
 4. **Arriving with a suitcase or large rucksack:** None of the palace venues will store suitcases. Drop bags at **Victoria station** first.
 5. **Forgetting to stamp your ticket for the free 1-Year Pass:** You must ask at the desk and sign your ticket *before* leaving the building; it cannot be converted once you have exited.

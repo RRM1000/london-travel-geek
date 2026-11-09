@@ -3,8 +3,8 @@ title: "How to Plan a London Itinerary That Actually Works"
 seoTitle: "London Itinerary Planner: How Many Days You Need"
 description: "How many days London needs, what sells out and how far ahead, what a day costs, and the plan to follow once you know."
 publishedAt: 2026-08-07
-updatedAt: 2026-10-26
-reviewBy: 2026-11-02
+updatedAt: 2026-11-09
+reviewBy: 2026-11-12
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -76,7 +76,7 @@ Every national museum is free and takes walk-ins. These are the bookings that ne
 | **Horizon 22** | A week or two | Free, timed, and Level 58 of 22 Bishopsgate. [Horizon 22](https://horizon22.co.uk/book) takes walk-ins by QR code at the door subject to capacity, but its own advice is to book |
 | **Tower of London** | A few days; longer in school holidays | Not a timed ticket — it is valid for the whole day you choose. £38 an adult and £19 for 5–15s [direct](https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/), or £41.80 and £21 with the optional 10% donation. HRP advises booking online in advance at busy times |
 | **A West End show** | Whenever you decide | The booking window is long, not short: *Les Misérables* at the Sondheim [is selling to October 2027](https://london.lesmis.com/). What runs out is the good seat at the price you wanted |
-| **Buckingham Palace State Rooms** | Summer only | The State Rooms open to visitors each summer; tickets for summer 2027 are released in November on [rct.uk](https://www.rct.uk/visit/buckingham-palace). A guided East Wing tour runs 6 November 2026 to 31 January 2027 |
+| **Buckingham Palace State Rooms** | Summer only | The State Rooms open to visitors each summer; summer 2027 (8 July to 26 September) tickets are on sale on [rct.uk](https://www.rct.uk/visit/buckingham-palace). A guided East Wing tour runs until 31 January 2027 |
 
 > ⚠️ **Ceremony of the Keys tickets go on release day.** The Tower locks up at 21:30 every night and the whole of the following month's tickets go on release day at 13:00 UK time — if that day falls on a Friday, it moves to the Monday. Visitors are admitted at 21:30 precisely and you must be there by 21:25; late arrivals are turned away, and the tickets cannot be exchanged or refunded. Book it for the middle of your trip, never for the night you land.
 
@@ -130,7 +130,7 @@ A good arrival day: drop the bag, have a full meal, walk one riverside stretch i
 
 | When | What changes | What it does to a day |
 | --- | --- | --- |
-| **Until summer 2027** | Buckingham Palace's State Rooms are closed to visitors; tickets for summer 2027 are released in November | The summer-only sight is not an option on a winter trip |
+| **Until summer 2027** | Buckingham Palace's State Rooms are closed to visitors; they reopen on 8 July 2027 | The summer-only sight is not an option on a winter trip |
 | **From 25 October 2026** | The clocks went back; sunset moved from about 5.50pm to 4.48pm overnight | Every outdoor plan loses its last hour. Move the viewpoint earlier |
 | **Until 11 November 2026** | Kew closes at 4pm, last entry 3pm | A morning trip, not an afternoon one |
 | **12 November 2026 to 3 January 2027** | Kew closes at **3.15pm**, last entry 2.30pm | Kew plus anything else in one day stops working |

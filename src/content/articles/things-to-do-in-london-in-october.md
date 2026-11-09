@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-updatedAt: 2026-11-01
-reviewBy: 2026-11-06
+updatedAt: 2026-11-09
+reviewBy: 2026-11-11
 sites: [london]
 canonicalSite: london
 category: "Things to do"

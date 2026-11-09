@@ -3,8 +3,8 @@ title: "Greenwich Area Guide: The Observatory, Cutty Sark and North Greenwich"
 seoTitle: "Greenwich Guide: Royal Observatory, Cutty Sark & the O2"
 description: "A complete Greenwich guide: the Painted Hall, the Cutty Sark, the park view, Greenwich Market days, getting there by river — and why Greenwich and North Greenwich are not the same place. The Royal Observatory is closed from 2 November 2026."
 publishedAt: 2026-08-10
-updatedAt: 2026-10-26
-reviewBy: 2026-11-03
+updatedAt: 2026-11-09
+reviewBy: 2027-01-15
 sites:
   - london
 canonicalSite: london
@@ -152,7 +152,7 @@ The climb behind the Maritime Museum is steeper than it looks: allow ten minutes
 
 **The view from the top is free.** The Queen's House and the Naval College are below, with the river, Canary Wharf opposite and the O2 to the right.
 
-**The Royal Observatory at the summit is closed from 2 November 2026** for the First Light refurbishment, due to finish by spring 2028. The Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation)). Until 2 November it is £24 adult, £18 student, £12 child, 10am–5pm with last entry 4pm, and buys the **Prime Meridian line**, Wren's Octagon Room and the Great Equatorial Telescope.
+**The Royal Observatory at the summit is closed from 2 November 2026** for the First Light refurbishment, due to finish by spring 2028. The Meridian Courtyard reopens in summer 2027, with tickets on sale in January ([Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation)). Before it closed, the ticket bought the **Prime Meridian line**, Wren's Octagon Room and the Great Equatorial Telescope.
 
 **The Peter Harrison Planetarium is closed for renovation.** Royal Museums Greenwich runs a replacement 30-minute live show downstairs at the National Maritime Museum as part of Astronomers Take Over: £18 adult and £16 child with the planetarium, £8 without. [Science events in London](/articles/science-events-london/) covers that and the rest of the city's dated science programme.
 
@@ -231,7 +231,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 
 **Best time:** Arrive by boat in the morning and walk up the hill before the coach parties. The hill view is best in afternoon light looking back towards the City.
 
-**Note:** The Observatory, Cutty Sark and Painted Hall are three separate tickets from two separate organisations. Until the Observatory closes on 2 November 2026, Royal Museums Greenwich sells a **day pass covering it and the Cutty Sark for £38 adult and £19 child**; the Painted Hall belongs to the Old Royal Naval College and is bought separately.
+**Note:** The Cutty Sark and the Painted Hall are separate tickets from separate organisations: the Cutty Sark belongs to Royal Museums Greenwich, the Painted Hall to the Old Royal Naval College. The Maritime Museum and Queen's House are free.
 
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
@@ -258,7 +258,7 @@ Our full route into this area from the north: **eleven numbered stops** over abo
 2. **Taking the DLR when you could take the boat.** Greenwich Pier is beside the Cutty Sark.
 3. **Paying for a view.** The famous panorama from the hill is free.
 4. **Underestimating the hill.** It is a genuine climb from the Maritime Museum. There is a gentler path from Blackheath Gate.
-5. **Buying the Observatory and the Cutty Sark separately before 2 November 2026.** A Royal Museums Greenwich day pass covers both for £38 adult and £19 child. The Maritime Museum and Queen's House are free anyway.
+5. **Planning around the Observatory.** It has been closed since 2 November 2026; the hill view outside is free, and so are the Maritime Museum and Queen's House.
 6. **Avoiding a Monday for the market.** It trades 10am to 5.30pm on Mondays too, except the first six of the year, and Monday is one of the quietest days.
 
 ## Where to stay

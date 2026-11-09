@@ -3,8 +3,8 @@ title: "Best Areas to Visit in London: Which Neighbourhood for Which Trip"
 seoTitle: "Best Areas to Visit in London: Neighbourhoods Compared"
 description: "Which part of London to visit: each neighbourhood compared by what it is best for, time needed, nearest station and the best day to go."
 publishedAt: 2026-08-13
-updatedAt: 2026-10-31
-reviewBy: 2026-11-03
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites:
   - london
 canonicalSite: london
@@ -307,7 +307,7 @@ Read the [Bermondsey area guide](/articles/bermondsey-area-guide/).
 
 The Cutty Sark and the Painted Hall are ticketed. The National Maritime Museum and the Queen's House are free, Greenwich Market trades daily, and the Greenwich Foot Tunnel runs under the Thames to Island Gardens. The view from Observatory Hill over the Old Royal Naval College to Canary Wharf is free.
 
-The Royal Observatory and the Prime Meridian line close on 2 November 2026 for refurbishment; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027. The hill view stays free. North Greenwich, the stop for The O2, is two miles away and a different place: for the sights, use Cutty Sark. By Uber Boat, Greenwich is about 25 minutes from Tower Bridge.
+The Royal Observatory and the Prime Meridian line have been closed for refurbishment since 2 November 2026; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027. The hill view stays free. North Greenwich, the stop for The O2, is two miles away and a different place: for the sights, use Cutty Sark. By Uber Boat, Greenwich is about 25 minutes from Tower Bridge.
 
 ![Greenwich Park looking down over the Old Royal Naval College to the Thames, Canary Wharf and the O2](../../assets/articles/greenwich-area-guide/greenwich-park-view.jpg)
 

@@ -3,8 +3,8 @@ title: "The Best Chain Restaurants in London: Mini-Chains Worth Booking, by Cuis
 seoTitle: "Best Chain Restaurants in London 2026: Where to Eat"
 description: "London's best chain and mini-chain restaurants by cuisine, from Dishoom and Hoppers to Padella and Hawksmoor, with what to order, prices and whether you can walk in."
 publishedAt: 2026-10-31
-updatedAt: 2026-10-31
-reviewBy: 2026-11-04
+updatedAt: 2026-11-09
+reviewBy: 2026-12-02
 sites:
   - london
 canonicalSite: london
@@ -44,7 +44,7 @@ faq:
 
 This page covers brands with two or more London restaurants cooking one menu, grouped by food. The national high-street names, such as Wagamama, Pizza Express and Nando's, are left out.
 
-*Branch counts, menus, prices and booking rules as of 31 October 2026.*
+*Branch counts, menus, prices and booking rules as of 9 November 2026.*
 
 There is no judged ranking of chain restaurants. Time Out's [ranked list of London chains](https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked) covers brands with three or more London branches, and nine of the brands below are on it: Hoppers (1st), Dishoom (4th), Hawksmoor (5th), Lina Stores (6th), Roti King (7th), Flat Iron (8th), Bao (10th), Wahaca (15th) and Tonkotsu (20th). Michelin awards a Bib Gourmand, its mark for good cooking at a fair price, to one restaurant rather than a brand, and the [2026 London list](https://guide.michelin.com/gb/en/greater-london/london/restaurants/bib-gourmand) includes five of these: Hoppers, Kricket and Berenjak in Soho, Bancone in Covent Garden and Padella at Borough Market.
 
@@ -224,7 +224,7 @@ The independent pizzerias are in the [pizza guide](/articles/best-pizza-london/)
 
 ### Pizza Pilgrims
 
-Pizza Pilgrims has 20 London pizzerias, from Dean Street in Soho to Wimbledon and Queen's Park, and cooks Neapolitan pizza. It won Pizza Restaurant Chain of the Year at the PAPA Industry Awards in 2025, and it is a finalist in the 2026 National Pizza Awards, which are decided on 3 November 2026.
+Pizza Pilgrims has 20 London pizzerias, from Dean Street in Soho to Wimbledon and Queen's Park, and cooks Neapolitan pizza. It won Pizza Restaurant Chain of the Year at the PAPA Industry Awards in 2025, and it is a finalist in the 2026 National Pizza Awards.
 
 Order the **'nduja**, made with nduja di Spilinga, the **8 Cheese**, which is twice a four-cheese and finished with smoked chilli jam, or the **double pepperoni and hot honey**. The **margherita** is on the menu too, and the **carbonara pizza** carries guanciale, pecorino, spaghetti and an egg yolk.
 

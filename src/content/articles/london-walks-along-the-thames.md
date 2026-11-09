@@ -5,8 +5,8 @@ description: "The South Bank walk past Tate Modern and Borough Market, the Wappi
 heroImage: "../../assets/articles/london-walks-along-the-thames/tower-bridge.jpg"
 heroImageAlt: "Tower Bridge from the north bank, both towers and the raised walkways above the road deck"
 publishedAt: 2026-07-12
-updatedAt: 2026-10-26
-reviewBy: 2026-11-03
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -100,7 +100,7 @@ The Square Mile empties at weekends, so it is a good time to walk it and a bad t
 
 The only walk on this page that crosses the Thames without a bridge. It runs south down the Isle of Dogs past the old docks and **Mudchute Farm**, dives under the river through the **1902 Greenwich Foot Tunnel** at Island Gardens, and comes up beside the *Cutty Sark* with the whole of Maritime Greenwich in front of you.
 
-The Royal Observatory at the end of it is closed from 2 November 2026, so the walk finishes on the hill above it.
+The Royal Observatory at the end of it has been closed for refurbishment since 2 November 2026, so the walk finishes on the hill above it.
 
 **[We have this one stop by stop →](/articles/canary-wharf-greenwich-walk/)** — the full **Canary Wharf to Greenwich walk via the Isle of Dogs**, eleven numbered stops with a map, a Google Maps walking link, the live status of the foot tunnel's lifts and what is open on which day.
 

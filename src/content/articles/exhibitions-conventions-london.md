@@ -5,8 +5,8 @@ description: "The public exhibitions and conventions in London from November 202
 heroImage: "../../assets/articles/exhibitions-conventions-london/excel-london.jpg"
 heroImageAlt: "Visitors queuing beside the Royal Victoria Dock outside ExCeL London, with dockside cranes, moored boats and a large screen advertising a show at the entrance"
 publishedAt: 2026-06-17
-updatedAt: 2026-11-02
-reviewBy: 2026-11-09
+updatedAt: 2026-11-09
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -24,12 +24,12 @@ faq:
   - q: "When is Frieze Week in London?"
     a: "Mid-October. Frieze London and Frieze Masters open in Regent's Park — they ran 14 to 18 October in 2026 — the same days as the Affordable Art Fair in Battersea Park and 1-54 Contemporary African Art Fair at Somerset House. All are ticketed. The free version is Frieze Sculpture, an outdoor exhibition in the same park that runs for weeks either side of the fairs with no ticket needed; in 2026 it ran to 1 November."
   - q: "What Christmas fairs and shows are on in London?"
-    a: "Olympia runs the Spirit of Christmas Fair (2 to 8 November 2026) and the Ideal Christmas Show (26 to 29 November 2026). ExCeL has Wundrful World of Christmas, a meet-Santa experience for three to eight-year-olds running 13 November to 24 December, and Scrooge: Cirque Extravaganza, a festive circus show, on 23, 24, 27 and 28 December. The Business Design Centre in Islington hosts Good Housekeeping Live with the Country Living Christmas Market from 11 to 14 November."
+    a: "Olympia runs the Ideal Christmas Show (26 to 29 November 2026). ExCeL has Wundrful World of Christmas, a meet-Santa experience for three to eight-year-olds running 13 November to 24 December, and Scrooge: Cirque Extravaganza, a festive circus show, on 23, 24, 27 and 28 December. The Business Design Centre in Islington hosts Good Housekeeping Live with the Country Living Christmas Market from 11 to 14 November."
 ---
 
-MCM Comic Con sells its Weekend ticket and both VIP tiers more than a month before the doors open. Olympia fits two Christmas fairs into November. The Ideal Home Show takes over the same halls in April. This is the calendar behind all of it — every public exhibition, convention, consumer show and fair in Greater London from November 2026 to September 2027, at ExCeL, Olympia, Alexandra Palace, Somerset House and beyond.
+MCM Comic Con sells its Weekend ticket and both VIP tiers more than a month before the doors open. Olympia hosts the Ideal Christmas Show in late November. The Ideal Home Show takes over the same halls in April. This is the calendar behind all of it — every public exhibition, convention, consumer show and fair in Greater London from November 2026 to September 2027, at ExCeL, Olympia, Alexandra Palace, Somerset House and beyond.
 
-> 💡 **The Short Version:** **[MCM Comic Con London](https://www.mcmcomiccon.com/london/en-us.html)** — billed by its organiser as the UK's biggest — is at **ExCeL 28 to 30 May 2027**, with tickets released on **26 October 2026**. The **[Spirit of Christmas Fair](https://www.olympia.co.uk/events/spirit-of-christmas-fair)** runs at **Olympia 2 to 8 November**, from £25.75, and **The Ideal Christmas Show** follows there on **26 to 29 November**. The **[Ideal Home Show](https://www.idealhomeshow.co.uk/)** returns to **Olympia 2 to 11 April 2027**. For ExCeL, use **Custom House** (Elizabeth line and DLR) for the west halls or **Prince Regent** (DLR) for the east halls and the ICC; for Olympia, use **Kensington (Olympia)** — London Overground's Mildmay line, plus a District line shuttle from High Street Kensington at weekends.
+> 💡 **The Short Version:** **[MCM Comic Con London](https://www.mcmcomiccon.com/london/en-us.html)** — billed by its organiser as the UK's biggest — is at **ExCeL 28 to 30 May 2027**, with tickets released on **26 October 2026**. **The Ideal Christmas Show** is at **Olympia on 26 to 29 November**. The **[Ideal Home Show](https://www.idealhomeshow.co.uk/)** returns to **Olympia 2 to 11 April 2027**. For ExCeL, use **Custom House** (Elizabeth line and DLR) for the west halls or **Prince Regent** (DLR) for the east halls and the ICC; for Olympia, use **Kensington (Olympia)** — London Overground's Mildmay line, plus a District line shuttle from High Street Kensington at weekends.
 
 ## The calendar, month by month
 
@@ -39,13 +39,11 @@ Dates and prices come from each show's own organiser site. A show that sells tie
 
 | Show | Venue | Dates | From | What it is |
 | --- | --- | --- | --- | --- |
-| **Spirit of Christmas Fair** | Olympia London | 2–8 Nov | £25.75 | Independent traders, festive shopping and food under the Grand Hall's roof. |
-| **The Luxury Travel Fair** | Olympia London | 5–8 Nov | £25.75 | High-end travel operators and destination showcases. |
 | **Good Housekeeping Live with Country Living Christmas Market** | Business Design Centre | 11–14 Nov | — | Christmas shopping with talks, craft sessions and cooking demonstrations, 9.30am–5pm each day. [Organiser](https://www.goodhousekeepinglive.co.uk/). |
 | **Wundrful World of Christmas** | ExCeL London | 13 Nov–24 Dec | £29.90–£34.90 adult | A timed meet-Santa walk-through for ages 3 to 8 rather than a market, with off-peak and peak prices and children from £24.90. [Tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas). |
 | **What University? & What Career? Live** | Olympia London | 13–14 Nov | Free | Careers and university-choice advice for school leavers. |
 | **Collectors Showcase** | Olympia London | 21–22 Nov | £5 | Rare cards, comics and memorabilia. |
-| **The Ideal Christmas Show** | Olympia London | 26–29 Nov | £16 | Festive shopping, open until 8pm on Thursday and 6pm Friday to Sunday. [Organiser](https://idealhomeshowchristmas.co.uk). |
+| **The Ideal Christmas Show** | Olympia London | 26–29 Nov | £16 | Festive shopping, 10am to 5pm Thursday, Friday and Sunday and 10am to 6pm Saturday. [Organiser](https://idealhomeshowchristmas.co.uk). |
 
 ### December 2026
 
@@ -140,11 +138,11 @@ These recur every year. The table gives the last edition; check the organiser's 
 
 ### Travel, careers and weddings
 
-**The Luxury Travel Fair** (Olympia, 5–8 November) covers travel. **What University? & What Career? Live** (Olympia, 13–14 November) is free and aimed at school leavers.
+**What University? & What Career? Live** (Olympia, 13–14 November) is free and aimed at school leavers.
 
 ### Christmas fairs
 
-**Spirit of Christmas Fair** (Olympia, 2–8 November) and **The Ideal Christmas Show** (Olympia, 26–29 November) are the shopping fairs. **Good Housekeeping Live with the Country Living Christmas Market** (Business Design Centre, 11–14 November) adds talks and demonstrations to its stalls. **Wundrful World of Christmas** (ExCeL, 13 November–24 December) is a meet-Santa experience rather than a market, and **Scrooge: Cirque Extravaganza** (ExCeL, 23, 24, 27 and 28 December) is a festive circus. Our [Christmas shows in London guide](/articles/christmas-shows-london/) covers the theatre and lights side of the season.
+**The Ideal Christmas Show** (Olympia, 26–29 November) is the main shopping fair. **Good Housekeeping Live with the Country Living Christmas Market** (Business Design Centre, 11–14 November) adds talks and demonstrations to its stalls. **Wundrful World of Christmas** (ExCeL, 13 November–24 December) is a meet-Santa experience rather than a market, and **Scrooge: Cirque Extravaganza** (ExCeL, 23, 24, 27 and 28 December) is a festive circus. Our [Christmas shows in London guide](/articles/christmas-shows-london/) covers the theatre and lights side of the season.
 
 ## The venues
 

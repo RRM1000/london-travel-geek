@@ -5,8 +5,8 @@ description: "A numbered riverside route from the London Eye to Tower Bridge, ta
 heroImage: "../../assets/articles/south-bank-walk/tower-bridge-from-the-wharf.jpg"
 heroImageAlt: "Tower Bridge seen along the Thames, both towers and the high walkway in full, under a bright sky"
 publishedAt: 2026-07-17
-updatedAt: 2026-11-01
-reviewBy: 2026-11-08
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "London areas"
@@ -122,7 +122,7 @@ The **exhibitions in the foyers are free**, the riverside terrace garden is free
 
 *KERB's food stalls at the National Theatre.*
 
-> ⚠️ **The building opens Monday to Saturday, 10am to 11pm — not Sundays.** The Olivier foyers and terraces have limited access from 2 to 7 November.
+> ⚠️ **The building opens Monday to Saturday, 10am to 11pm — not Sundays.**
 
 <div data-stay-strip></div>
 

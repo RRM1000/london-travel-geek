@@ -5,8 +5,8 @@ description: "Not our opinion. Every rooftop and riverside restaurant here is ra
 heroImage: "../../assets/articles/best-rooftop-restaurants-london/coq-dargent-terrace.jpg"
 heroImageAlt: "A rooftop restaurant terrace with white-clothed tables and rattan chairs under furled parasols, climbing greenery along the parapet and City buildings beyond"
 publishedAt: 2026-09-23
-updatedAt: 2026-10-26
-reviewBy: 2026-11-09
+updatedAt: 2026-11-09
+reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -18,7 +18,7 @@ faq:
   - q: "What happens at a London rooftop restaurant if it rains?"
     a: "It depends entirely on the roof, and almost no list tells you. Alto by San Carlo at Selfridges, Angler and Stanley's at The Chesterfield have roofs that close over the terrace, so the booking survives the forecast. Boundary Shoreditch has a glass orangery, Coq d'Argent, Smiths of Smithfield and The Rooftop St James run heaters, and Aviary puts up igloos in winter. Rick Stein's riverside courtyard in Barnes says outright that it may have to close in bad weather."
   - q: "Which London rooftops are seasonal?"
-    a: "Frank's Cafe on the roof of Peckham's multi-storey car park is summer only: its 2026 season ran 15 May to 12 September, Wednesday to Sunday, with no reservations. The Culpeper's roof garden in Spitalfields is closed until spring 2027. The Devonshire's third-floor terrace in Soho is seasonal and takes no bookings at all. Towpath on the Regent's Canal is open Wednesday to Sunday until 8 November 2026."
+    a: "Frank's Cafe on the roof of Peckham's multi-storey car park is summer only: its 2026 season ran 15 May to 12 September, Wednesday to Sunday, with no reservations. The Culpeper's roof garden in Spitalfields is closed until spring 2027. The Devonshire's third-floor terrace in Soho is seasonal and takes no bookings at all. Towpath on the Regent's Canal takes no bookings either."
   - q: "Do you have to book a table to get onto a London rooftop?"
     a: "Often the opposite. Several of the best roofs hold their outdoor seats for walk-ins and take bookings only for the indoor restaurant: The Devonshire, The Culpeper's rooftop drinks, Rick Stein Barnes's courtyard and Peggy Jean's terrace in Richmond all work that way. Where the roof is the restaurant — Seabird, Angler, Coq d'Argent, Brooklands — you book like anywhere else."
   - q: "Is Sky Garden free, and do you need to eat there?"
@@ -255,7 +255,7 @@ The kitchen is San Carlo's Italian menu, from pizza and pasta through to grilled
 - **[Frank's Cafe](#the-cheap-ones)**, Peckham — the 2026 season ran **15 May to 12 September**, Wednesday to Sunday, 11am to 11pm. Card only, and no table reservations. *Cited by 3 sources*
 - **[The Culpeper](#the-culpeper-spitalfields)**, Spitalfields — the roof garden is closed until spring 2027. *Cited by 5 sources · #1 of 15, Time Out*
 - **[The Devonshire](#the-devonshire-soho)**, Soho — Time Out describes the third floor as a seasonal terrace, and it never takes bookings. *Cited by 4 sources*
-- **[Towpath](#towpath-haggerston)**, Haggerston — open Wednesday to Sunday until 8 November 2026. *Cited by 6 sources · #2 of 16, Time Out*
+- **[Towpath](#towpath-haggerston)**, Haggerston — canal-side café, no bookings. *Cited by 6 sources · #2 of 16, Time Out*
 - **Forza Taps**, South Bank — the summer-only walk-in terrace a level below [Forza Wine at the National Theatre](#forza-wine-at-the-national-theatre-south-bank).
 - **Kioku by Endo**, Whitehall — the sixth-floor terrace at The OWO opens for the summer season; the dining room runs all year. *Cited by 2 sources · #10 of 15, Time Out*
 
@@ -323,7 +323,7 @@ Four small units cut into the canal wall, with almost all the seating outdoors o
 
 *Towpath, on the Regent's Canal.*
 
-**No bookings at all — just turn up.** The 2026 season runs until 8 November, Wednesday to Sunday, 9am to 5pm. Midweek is the version where you get a table.
+**No bookings at all — just turn up.** Midweek is the version where you get a table.
 
 ### OXO Tower Restaurant, South Bank
 
@@ -407,7 +407,7 @@ Time Out's rooftop ranking is topped by pubs: its number one is a Spitalfields p
 Everything here is **£**, under £15 a head, and none of it takes a booking.
 
 - **Frank's Cafe**, Peckham — the roof of a multi-storey car park, run as part of the Bold Tendencies art season. **Summer only: the 2026 season ran 15 May to 12 September, Wednesday to Sunday, 11am–11pm; card only; no reservations.** Cocktails, draught beer and a short menu cooked to order, with the whole of central London on the horizon. *Cited by 3 sources* · [Bold Tendencies](https://boldtendencies.com/franks-cafe/)
-- **[Towpath](#towpath-haggerston)**, Haggerston — canal-side eggs, sandwiches and cake; no bookings, open Wednesday to Sunday until 8 November 2026. *Cited by 6 sources · #2 of 16, Time Out*
+- **[Towpath](#towpath-haggerston)**, Haggerston — canal-side eggs, sandwiches and cake; no bookings. *Cited by 6 sources · #2 of 16, Time Out*
 - **[Crate Brewery](#also-on-the-water)**, Hackney Wick — pizza and own-brewed beer on benches by the Lea. *Cited by 5 sources*
 - **[Pear Tree Cafe](https://www.peartreecafe.co.uk/)**, Battersea — a lakeside café in Battersea Park. *Cited by 2 sources*
 - **[Market Halls Victoria](https://markethalls.co.uk/locations/victoria/)** — a food hall with a roof terrace above Terminus Place, at street-food prices, a minute from Victoria station. *Cited by 2 sources*
@@ -455,7 +455,7 @@ Named by the sources but without a full entry.
 * **Book weeks ahead** for Brooklands, The River Café, OMA and Restaurant Gordon Ramsay High — twelve seats at the last one.
 * **Several roofs cannot be booked at all.** The Devonshire's terrace, The Marksman's twenty seats, Frank's Cafe, Towpath, Rick Stein Barnes's courtyard and Riverside Bar, The Culpeper's rooftop drinks and Forza Taps are all walk-in. At the rest, the indoor room takes the booking and the terrace is first come, first served — Peggy Jean works exactly that way.
 * **Check the roof before you check the forecast.** Only Alto by San Carlo, Angler and Stanley's have a roof that closes over the terrace. Boundary's orangery and the glass rooms at Smiths, Mercer and SUSHISAMBA keep you dry beside the view. Heaters solve cold, not rain.
-* **Some of it closes for the winter.** Frank's Cafe is summer only (its 2026 season ended on 12 September); The Culpeper's roof is closed until spring 2027; Kioku's terrace is summer only; Towpath is open until 8 November 2026, Wednesday to Sunday.
+* **Some of it closes for the winter.** Frank's Cafe is summer only (its 2026 season ended on 12 September); The Culpeper's roof is closed until spring 2027; Kioku's terrace is summer only; Towpath is mostly outdoors, so it is a dry-weather visit.
 * **You never have to buy a meal for the view.** [Sky Garden](/articles/sky-garden-guide/) is free with a timed ticket, and Horizon 22 on Level 58 of 22 Bishopsgate is a free viewing platform two floors below a Michelin-starred restaurant.
 * **A cheaper way onto a good roof** is the oyster happy hour at Seabird, 3–6pm daily, or Frank's Cafe in season.
 * **Two family notes.** Children are not allowed in The Devonshire's pub after 5pm on weekdays or at all at weekends, though they are welcome in the restaurant; and Peggy Jean sits on a working pontoon on tidal water with open edges, so children need supervising and prams have to be folded at the entrance.
