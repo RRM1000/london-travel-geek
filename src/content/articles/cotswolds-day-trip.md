@@ -240,6 +240,7 @@ National Trust prices are the without-Gift-Aid ones. Snowshill and Hidcote are f
 ## Continue planning your day out
 
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
+- 🎬 **[Downton Abbey and Highclere Castle](/articles/downton-abbey-highclere-castle-day-trip/)** — the dates Highclere is open, the tours that include Bampton, and the train to Newbury.
 - ♨️ **[Bath from London](/articles/bath-day-trip/)** — the southern end of the Cotswold Way, and the right trip for Castle Combe.
 - 🪨 **[Stonehenge from London](/articles/stonehenge-day-trip/)** — the other one the coach tours bundle with the Cotswolds.
 - 🏖️ **[Brighton and the Seven Sisters](/articles/brighton-seven-sisters-day-trip/)** — another day trip where the last leg is a bus.

@@ -237,6 +237,19 @@
         "Traditional pork pie cookery class"
       ]
     },
+    "downton-abbey-tours": {
+      "for": "The Downton Abbey and Highclere Castle page: the Bampton and Oxford coach tour, the Cotswolds small-group tour and the filming-locations tour with Highclere admission.",
+      "tourIds": [
+        "76972",
+        "123059",
+        "61489"
+      ],
+      "titles": [
+        "Downton Abbey tour with Highclere, Bampton and Oxford",
+        "Downton Abbey, Cotswolds and Highclere Castle",
+        "Downton Abbey filming locations and Highclere Castle"
+      ]
+    },
     "museums-and-history": {
       "for": "Museums, galleries and historic-building pages.",
       "tourIds": [
@@ -613,6 +626,10 @@
     "bicester-village-day-trip": {
       "slot1": "pick:bicester-village-trips",
       "adjacent": "Oxford day trip from London"
+    },
+    "downton-abbey-highclere-castle-day-trip": {
+      "slot1": "pick:downton-abbey-tours",
+      "adjacent": "Downton Abbey Highclere Castle tour"
     },
     "cheap-eats-london": {
       "slot1": "pick:food-tours",
