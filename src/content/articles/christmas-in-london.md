@@ -109,8 +109,6 @@ These are paid, walk-through experiences.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-christmas-at-kew-gardens" data-gyg-partner-id="WWP7I0R" data-gyg-q="Christmas at Kew Gardens"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## Ice rinks and Santa's grottos
 
 **Six outdoor rinks are confirmed for 2026-27:** **Skate Leicester Square** (31 October 2026 – 3 January 2027; from £10 plus a £3 transaction fee), **Somerset House** (11 November 2026 – 10 January 2027; adults £13–£28.50, children £11–£15, plus a £1.50 fee per ticket), **Hampton Court Palace** (20 November – 3 January; adults £19.50 off-peak, £21.50 peak), **Glide at Battersea Power Station** (6 November – 3 January), **the Queen's House** in Greenwich (18 November – 3 January) and the rink inside Winter Wonderland. **Alexandra Palace** has a year-round indoor rink, from £11.75. Dates, prices and children's rules for every rink are in our [London ice skating guide](/articles/ice-skating-london/).
@@ -125,6 +123,8 @@ For grottos, 2025 prices were roughly £36–£45 for **Fortnum & Mason's** "Sto
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-christmas-at-kew-gardens" data-gyg-partner-id="WWP7I0R" data-gyg-q="Christmas at Kew Gardens"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Seeing the lights from a bus
 
 Oxford Street, Regent Street and Knightsbridge carry the best lights and the most crowded December pavements. There are two ways to see them.
@@ -132,8 +132,6 @@ Oxford Street, Regent Street and Knightsbridge carry the best lights and the mos
 ### The cheap way: on foot
 
 **Oxford Street between Orchard Street and Great Portland Street has been closed to all traffic, buses included, since 26 October 2026**, so its lights are a free walk of nearly a kilometre, from Selfridges past Oxford Circus to Great Portland Street. Carry on down Regent Street and you have the two biggest displays for nothing. Our [Oxford Street guide](/articles/oxford-street-guide/) covers the closure and the shops.
-
-<div data-stay-strip></div>
 
 ### The tour: a decorated vintage Routemaster
 
@@ -176,6 +174,8 @@ Book on [Ticketmaster](https://www.ticketmaster.co.uk/christmas-carol-goes-wrong
 
 The second act takes the happy endings apart, so it suits adults and older children, not a family with small ones. It runs to 9 January if December is already booked.
 
+<div data-stay-strip></div>
+
 ### The Great Christmas Feast, The Lost Estate
 
 **A Christmas Carol as an immersive Victorian dinner.** The Lost Estate in West Kensington stages it around the moment Dickens first read the story aloud, with live music, theatre performed around the tables and a full feast.
@@ -203,8 +203,6 @@ It runs from **6 November to 31 December 2026** at 7-9 Beaumont Avenue, W14 9LP,
 **[More immersive nights out →](/articles/immersive-experiences-london/)** · **[The cabaret guide →](/articles/best-cabaret-london/)**
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Christmas for children
 
@@ -246,7 +244,7 @@ It has run for 32 years and **in 2026 it is a new production** — a world premi
 
 ---
 
-<div data-stay-strip></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Carols
 
@@ -276,6 +274,8 @@ It is a concert, not a service, and secular in feel. **Tickets go on sale in the
 
 **Handel's Messiah has three London dates in the first half of December.** The first is at [St Paul's Cathedral](https://www.stpauls.co.uk/whats-on/handels-messiah-2) on Wednesday 2 December 2026, 6.30pm to 9pm, sung by the Cathedral Choir and Cathedral Chorus with the City of London Sinfonia under the dome: **Dome tickets £35, Nave tickets £20**, with an interval and unreserved seating. The others: the English Chamber Orchestra at [Cadogan Hall](https://cadoganhall.com/whats-on/handels-messiah/) on Sunday 6 December at 6pm (from £19.50, ages seven and over), and Bach Collegium Japan at the [Barbican](https://www.barbican.org.uk/whats-on/2026/event/bach-collegium-japan-handels-messiah) on Tuesday 15 December at 7pm (from £24). **The Sixteen sing A Ceremony of Carols** at [Cadogan Hall](https://cadoganhall.com/whats-on/choral-at-cadogan-2026-27-the-sixteen-a-ceremony-of-carols-1/) on 16 and 17 December at 7.30pm, from £26.50. All prices include the booking fee. Our [Christmas shows guide](/articles/christmas-shows-london/#christmas-concerts-and-carols) has the full list.
 
+<div data-stay-strip></div>
+
 ### More carol concerts to book
 
 Beyond the free ones above, several concert halls run ticketed carol and candlelight evenings through December.
@@ -283,8 +283,6 @@ Beyond the free ones above, several concert halls run ticketed carol and candlel
 <div data-listings-match="carol|candlelight" data-exclude="goes wrong|^A Christmas Carol$" data-from="2026-12-01" data-to="2026-12-24" data-per-venue="2" data-limit="12"></div>
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Smaller December events
 
@@ -311,6 +309,8 @@ Hotels run festive tea menus, usually from early November to the first week of J
 **[The full afternoon tea guide, with every price →](/articles/best-afternoon-tea-london/)**
 
 ---
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-in-london-christmas-lights-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="847216,388700,1494089"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Eating out on Christmas Day itself
 

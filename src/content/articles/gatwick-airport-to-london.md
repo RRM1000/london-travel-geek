@@ -71,9 +71,11 @@ Gatwick (LGW) is 28 miles (45 km) south of central London. Its one railway stati
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="gatwick-airport-to-london-gatwick-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Gatwick Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Book Airport Transfers & Experiences
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="gatwick-airport-to-london-gatwick-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Gatwick Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+Flying home from Gatwick? Entry to the <a href="https://www.getyourguide.com/activity/-t1098479?partner_id=WWP7I0R&amp;cmp=gatwick-airport-to-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">No1 Lounge at Gatwick</a> is sold for a set date and time, so book it before you leave for the airport.
 
 ## Detailed Train Breakdowns
 

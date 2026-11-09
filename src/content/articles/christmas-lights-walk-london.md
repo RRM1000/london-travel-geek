@@ -103,7 +103,7 @@ A short **pedestrian street** running south from Oxford Street next to Bond Stre
 
 At the bottom it meets **Brook Street**. **Claridge's** is a hundred metres to the right, and every Christmas it hands the tree at the foot of its staircase to a different fashion designer to dress. Turn left, then right into **New Bond Street**.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-lights-walk-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-lights-walk-london-christmas-lights-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="847216,388700,1494089"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 3. Bond Street
 
@@ -143,8 +143,6 @@ Look left down **Swallow Street** and right along **Glasshouse Street** and into
 
 Carry on up Regent Street past the top of the Quadrant and turn right into **Beak Street**, then left into Carnaby Street.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-lights-walk-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ## 6. Carnaby Street and Kingly Court
 
 **Carnaby's lights went on Wednesday 4 November 2026**, the first switch-on on this walk. The 2026 theme is "the feel-good nostalgia of the 90s", in the words of Shaftesbury Capital, which owns the street.
@@ -156,6 +154,8 @@ Carry on up Regent Street past the top of the Quadrant and turn right into **Bea
 **Kingly Court** opens off the west side of Carnaby: three floors of restaurants around a courtyard, which is covered through the winter. The courtyard is busiest from 6pm to 8pm and most of its restaurants take bookings, so book a table on a Friday or Saturday.
 
 Oxford Circus is five minutes north if you want to stop here.
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-lights-walk-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 7. Seven Dials
 
@@ -174,8 +174,6 @@ A narrow cobbled street of fashion shops, strung with Covent Garden's lights, an
 ![The red-brick corner front of the White Lion pub by day, with a Floral Street WC2 sign on its wall](../../assets/articles/christmas-lights-walk-london/floral-street.jpg)
 
 *Floral Street, by day.*
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-lights-walk-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 9. Covent Garden: the tree and the Market Building
 
@@ -197,6 +195,8 @@ A narrow cobbled street of fashion shops, strung with Covent Garden's lights, an
 
 Every Thursday from 12 November Covent Garden runs **Festive Thursdays**, with late-night shopping and surprise performances across Seven Dials as well as the Piazza. Thursday is the liveliest night here and the most crowded.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-lights-walk-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## 10. Trafalgar Square
 
 From the Piazza take King Street and New Row to St Martin's Lane, and follow it south past the Coliseum to Trafalgar Square, about nine minutes. **St Martin's Lane has its own lights**, on from Tuesday 3 November 2026 until 6 January 2027, with a [switch-on event](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november) you can reserve a place for.
@@ -212,8 +212,6 @@ From the Piazza take King Street and New Row to St Martin's Lane, and follow it 
 
 ---
 
-<div data-stay-strip></div>
-
 ## Where to eat
 
 - **Kingly Court** (££), stop six: three floors of restaurants around a covered courtyard, about halfway round. Book at weekends.
@@ -221,6 +219,8 @@ From the Piazza take King Street and New Row to St Martin's Lane, and follow it 
 - **Bar Cicoria** (££), stop nine: small plates and drinks on the Royal Opera House terrace, over the Piazza lights.
 
 For more, see the [Soho guide](/articles/soho-area-guide/) and [where to eat in Covent Garden](/articles/covent-garden-area-guide/#where-to-eat-and-drink).
+
+<div data-stay-strip></div>
 
 ## The best time to go
 

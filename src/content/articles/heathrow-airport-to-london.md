@@ -63,6 +63,8 @@ The Heathrow Express stops at Paddington and goes no further; the **Elizabeth li
 
 ---
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-lounges" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="369936,1019494,417373"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ## Which route is best for your hotel location?
 
 | Hotel Area or Destination | Recommended Route | Why |
@@ -81,8 +83,6 @@ The Heathrow Express stops at Paddington and goes no further; the **Elizabeth li
 | **London Bridge / Bankside** | Elizabeth line to Farringdon, then Thameslink | Change at Farringdon for Thameslink to London Bridge |
 
 ---
-
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="heathrow-airport-to-london-heathrow-express-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-q="Heathrow Express tickets"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## 1. Elizabeth Line (Recommended for Most Visitors)
 
