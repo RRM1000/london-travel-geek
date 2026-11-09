@@ -3,7 +3,7 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-01
+updatedAt: 2026-11-09
 reviewBy: 2026-11-20
 sites:
   - london
@@ -445,6 +445,8 @@ Two limitations from the operator: **there are no accessible fast-track options 
 **The Giant Wheel Light Show** is new: the wheel puts on a show of colour, movement and light set to a festive soundtrack inspired by 'Twas the Night Before Christmas.
 
 **A VIP Tour Experience** is also new: a guided small-group tour that starts in a private lounge and includes fast-track entry, £30 of Ride & Game Credit per person and a guide with headsets. It runs on four days in December and is £149 a head, or £894 for a private tour of up to six, and you book it on the event's own page rather than with ordinary tickets.
+
+**The Spinning Racer**, an award-winning ride, also arrives for 2026.
 
 **Bar Ice becomes an Arctic snow cave** with a live DJ, and there are two brand-new Bavarian Village venues, the **Almhütte** and **Café Bavaria**, plus an **Après-Ski Party Resort** in Thrillville.
 

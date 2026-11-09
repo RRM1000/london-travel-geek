@@ -5,7 +5,7 @@ description: "London's outdoor Christmas ice rinks for 2026-27: Somerset House, 
 heroImage: "../../assets/articles/ice-skating-london/somerset-house-rink.jpg"
 heroImageAlt: "Skaters on the Somerset House ice rink on an overcast day, in front of the domed courtyard front with large white SKATE letters along its roofline and a marquee down the right"
 publishedAt: 2026-09-27
-updatedAt: 2026-11-01
+updatedAt: 2026-11-09
 reviewBy: 2026-11-11
 sites: [london]
 canonicalSite: london
@@ -14,7 +14,7 @@ tags: [Christmas, winter, ice skating, things to do, Somerset House, Hampton Cou
 draft: false
 faq:
   - q: "When do the London Christmas ice rinks open in 2026?"
-    a: "Skate Leicester Square opened first, on Saturday 31 October 2026. Glide at Battersea Power Station opens on Friday 6 November, Somerset House on Wednesday 11 November, the Queen's House in Greenwich on 18 November, Hyde Park Winter Wonderland on 19 November and Hampton Court Palace on 20 November. Somerset House runs longest, to 10 January 2027; the others close on 3 January. All six outdoor rinks are closed on Christmas Day."
+    a: "Skate Leicester Square opened first, on Saturday 31 October 2026. Glide at Battersea Power Station opened on Friday 6 November, Somerset House on Wednesday 11 November, the Queen's House in Greenwich on 18 November, Hyde Park Winter Wonderland on 19 November and Hampton Court Palace on 20 November. Somerset House runs longest, to 10 January 2027; the others close on 3 January. All six outdoor rinks are closed on Christmas Day."
   - q: "How much does ice skating cost in London?"
     a: "For an adult at an outdoor Christmas rink, between £12.65 and £28.50 a session in 2026, before fees. Somerset House runs from £13 to £28.50 plus a £1.50 fee per ticket, Hampton Court £19.50 off-peak and £21.50 peak, and Winter Wonderland £12.65 to £19.25 plus a separate £1 to £8.25 entry ticket. Skate hire is included at all of them. The year-round indoor rink at Alexandra Palace is £11.75 off-peak."
   - q: "When do Somerset House skating tickets go on sale?"
@@ -29,7 +29,7 @@ faq:
 
 London's outdoor rinks open between the end of October and the third week of November and close in the first days of January. Six run in 2026-27: Somerset House, Hampton Court Palace, Battersea Power Station, the Queen's House in Greenwich, Leicester Square and Hyde Park. Three that people still search for are not running.
 
-> 💡 **The Short Version:** **Somerset House** is the classic: an 18th-century courtyard and a 40ft tree, **11 November 2026 to 10 January 2027**, adults **£13–£28.50**, children **£11–£15**, plus **£1.50 a ticket**. It went on sale on **25 September**; prices vary through the run, and early booking gets the lowest. **Hampton Court Palace** (20 November to 3 January, adults £19.50–£21.50) is the one with the Tudor backdrop. **Skate Leicester Square** has been open since **31 October** (from £10), and **Battersea Power Station's Glide** opens on **6 November**, with three rinks and a 200-metre riverside trail. **The Queen's House** in Greenwich (18 November to 3 January) is the quieter one. **Winter Wonderland's** rink is the biggest, but you need an entry ticket on top. **Not running:** the Natural History Museum (closed for good), Canary Wharf (a break in 2026) and the Tower of London. Sessions last **45 minutes**, and all six outdoor rinks close on **Christmas Day**.
+> 💡 **The Short Version:** **Somerset House** is the classic: an 18th-century courtyard and a 40ft tree, **11 November 2026 to 10 January 2027**, adults **£13–£28.50**, children **£11–£15**, plus **£1.50 a ticket**. It went on sale on **25 September**; prices vary through the run, and early booking gets the lowest. **Hampton Court Palace** (20 November to 3 January, adults £19.50–£21.50) is the one with the Tudor backdrop. **Skate Leicester Square** has been open since **31 October** (from £10), and **Battersea Power Station's Glide** has been open since **6 November**, with three rinks and a 200-metre riverside trail. **The Queen's House** in Greenwich (18 November to 3 January) is the quieter one. **Winter Wonderland's** rink is the biggest, but you need an entry ticket on top. **Not running:** the Natural History Museum (closed for good), Canary Wharf (a break in 2026) and the Tower of London. Sessions last **45 minutes**, and all six outdoor rinks close on **Christmas Day**.
 
 ---
 
@@ -194,7 +194,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 ## Leicester Square
 
-**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, is open from **31 October 2026 to 3 January 2027**, every day except Christmas Day, next to the [Christmas market](/articles/christmas-markets-london/) stalls. Until 26 November it opens at noon on weekdays and 10am at weekends; from 27 November it opens at 10am daily. It closes at 10pm, with the last session at 9.15pm, and at 6pm on Christmas Eve. Sessions last 45 minutes and tickets start at **£10** plus a £3 transaction fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk, which makes it the easiest rink to add to an evening in the West End.
+**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, is open from **31 October 2026 to 3 January 2027**, every day except Christmas Day, next to the [Christmas market](/articles/christmas-markets-london/) stalls. Until 26 November the first session is at 12.15pm on weekdays and 10.15am at weekends; from 27 November it is 10.15am daily. It closes at 10pm, with the last session at 9.15pm, and at 6pm on Christmas Eve. Sessions last 45 minutes and tickets start at **£10** plus a £3 transaction fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk, which makes it the easiest rink to add to an evening in the West End.
 
 ---
 
