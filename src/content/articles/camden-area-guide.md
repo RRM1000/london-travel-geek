@@ -190,6 +190,8 @@ North-west across the railway, ten minutes' walk away: pastel stucco terraces, i
 | **The Lansdowne** | Gastropub | ££ | Primrose Hill; a gastropub away from the market |
 | **Chin Chin Labs** | Ice cream | £ | Liquid-nitrogen ice cream made in front of you |
 
+To have the market's stalls picked for you, see our [food tours guide](/articles/london-food-tours/), which includes a Camden Market tasting tour, a brewery tour and a scone workshop.
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="camden-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 On Kentish Town Road, Belly cooks French bistro dishes through a Filipino lens, and Bintang has served Filipino-Asian food on the same street since 1987. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).

@@ -120,6 +120,19 @@
     "Shoreditch street art and graffiti walk"
    ]
   },
+  "food-and-drink-experiences": {
+   "for": "The food tours page: three different kinds of booking, so a reader who has read about tastings is offered a tea bus and a distillery as well.",
+   "tourIds": [
+    "136652",
+    "860156",
+    "1107345"
+   ],
+   "titles": [
+    "East End food tour, Eating London",
+    "Great British afternoon tea bus tour",
+    "Sipsmith gin distillery tour and tasting"
+   ]
+  },
   "museums-and-history": {
    "for": "Museums, galleries and historic-building pages.",
    "tourIds": [
@@ -441,6 +454,10 @@
   "best-walking-tours-london": {
    "slot1": "pick:walking-tours",
    "adjacent": "London Jack the Ripper tour"
+  },
+  "london-food-tours": {
+   "slot1": "pick:food-and-drink-experiences",
+   "adjacent": "London afternoon tea bus tour"
   },
   "cheap-eats-london": {
    "slot1": "pick:food-tours",

@@ -174,6 +174,8 @@ Two short residential streets that appear constantly on social media — **St Lu
 | **Lisboa Patisserie** | Portuguese cafe | £ | Pastéis de nata on Golborne Road since 1985 |
 | **Electric Diner** | American diner | ££ | Next to the Electric Cinema; good for a late lunch |
 
+A guided morning of bakeries, cafés and market bites is in our [food tours guide](/articles/london-food-tours/).
+
 ![The Distillery on Portobello Road, a corner building with a deep green ground floor and cream upper storeys](../../assets/articles/notting-hill-area-guide/the-distillery-portobello-road.jpg)
 
 *The Distillery, Portobello Road.*

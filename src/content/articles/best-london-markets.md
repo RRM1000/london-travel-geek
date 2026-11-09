@@ -353,6 +353,7 @@ Check the difference before you plan a morning around one.
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — the streets, stores and arcades around the markets
 - 🛍️ **[London Markets by Day](/markets/)**
+- 🥘 **[Food Tours in London](/articles/london-food-tours/)** — Borough, Camden and Spitalfields with a guide and tastings
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🎪 **[Free Things to Do in London](/free/)**

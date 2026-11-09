@@ -14,7 +14,7 @@ faq:
   - q: "What is the best walking tour in London?"
     a: "On awards, Liquid History Tours' historic pub walk: Tripadvisor's Travellers' Choice awards named it the No. 1 experience in the UK in 2025 and No. 7 in the world in 2026. For a first visit, a Blue Badge guided walk round Westminster Abbey, Big Ben and Buckingham Palace covers the essentials. The best score from a large number of reviews belongs to the Great British Rock and Roll walk, 5.0 from 2,251 reviews on GetYourGuide."
   - q: "How much does a walking tour in London cost?"
-    a: "Most themed walks cost £15 to £35 a person for about two hours. Food tours cost £59 to £92 because the tastings are included. A five-hour sightseeing day is around £47, and tours that include entry to an attraction, such as the Churchill War Rooms, are around £75."
+    a: "Most themed walks cost £15 to £35 a person for about two hours. Food tours cost £58 to £92 because the tastings are included. A five-hour sightseeing day is around £47, and tours that include entry to an attraction, such as the Churchill War Rooms, are around £75."
   - q: "Are there free walking tours in London?"
     a: "Yes. Companies such as Sandemans, Strawberry Tours and London with a Local run tip-based walks: you book for free and pay what you think the tour was worth at the end. None of them sell through GetYourGuide, which is why they are not on this page."
   - q: "Which Jack the Ripper tour is best?"
@@ -29,7 +29,7 @@ heroImageAlt: "Mounted Household Cavalry troopers in red tunics and plumed helme
 
 **Every tour on this page is bookable on GetYourGuide.** Each is here on evidence: Tripadvisor's Travellers' Choice awards, the walking-tour lists from Time Out, Visit London and the travel writer Nomadic Matt, and its review score on GetYourGuide. Nothing below is rated under 4.5.
 
-> 💡 **The Short Version:** The strongest award record belongs to **Liquid History Tours' historic pub walk**, Tripadvisor's No. 1 experience in the UK in 2025 and No. 7 in the world in 2026 (**£35**). For a first visit, take a **Blue Badge guide round Westminster** (from about **£30**). The best score from a big pool of reviews is the **Great British Rock and Roll walk**, 5.0 from 2,251. Most themed walks cost **£15–£35** and last **two hours**; food tours run **£59–£92**.
+> 💡 **The Short Version:** The strongest award record belongs to **Liquid History Tours' historic pub walk**, Tripadvisor's No. 1 experience in the UK in 2025 and No. 7 in the world in 2026 (**£35**). For a first visit, take a **Blue Badge guide round Westminster** (from about **£30**). The best score from a big pool of reviews is the **Great British Rock and Roll walk**, 5.0 from 2,251. Most themed walks cost **£15–£35** and last **two hours**; food tours run **£58–£92**.
 
 > 📘 **How we choose these (editorial note).** We earn a commission if you book through our links; the price is the same either way. No operator paid to be included. Prices are the lowest adult price for the standard option and move with the date.
 
@@ -215,31 +215,31 @@ Wireless headphones, a performer as host, and songs from the big musicals as you
 
 ## Food
 
-Food tours cost three or four times as much as a history walk because the tastings are included, so plan them instead of a meal.
+Food tours cost three or four times as much as a history walk because the tastings are included, so plan them instead of a meal. For more, including Camden Market, Brick Lane curry, cookery classes, gin distilleries and afternoon tea buses, see our [food tours in London guide](/articles/london-food-tours/).
 
 ### East End Food Tour — Eating London
 
-*£89 · 3½ hours · groups of up to 12 · 4.9 from 84 reviews · <a href="https://www.getyourguide.com/activity/-t136652?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*£89 · 3½ hours · groups of up to 12 · 4.9 from 88 reviews · <a href="https://www.getyourguide.com/activity/-t136652?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
 The one with the award: Tripadvisor's Travellers' Choice 2025 put *Eating London: Brick Lane, Shoreditch & Spitalfields Food Tour* at **No. 12 among the world's food and drink experiences**. It walks Brick Lane, Spitalfields and Shoreditch with tastings along the way, including a specialist cheese shop, a hole-in-the-wall, **mini fish and chips with mushy peas** at a chippie and a Brick Lane curry. You pass the old Jewish Soup Kitchen and the pub linked to Jack the Ripper's victims.
 
 ### Borough Market — Secret Food Tours
 
-*£92 · 3 hours · small group · 4.8 from 599 reviews · <a href="https://www.getyourguide.com/activity/-t67794?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*£92 · 3 hours · small group · 4.8 from 625 reviews · <a href="https://www.getyourguide.com/activity/-t67794?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
 Six British classics plus a "secret" dish in and around **Borough Market** and London Bridge: fish and chips, a sausage roll, and **British cheeses with cider or local beer**. For the rest of London's markets, see our [markets guide](/articles/best-london-markets/).
 
 ### Soho and Chinatown — Carpe Diem Tours
 
-*£76 · 3 hours · 4.8 from 253 reviews · <a href="https://www.getyourguide.com/activity/-t943039?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*£67 · 3 hours · 4.7 from 263 reviews · <a href="https://www.getyourguide.com/activity/-t943039?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
 Four cuisines, Mediterranean, Indian, Chinese and British, at pre-booked tables with a set menu, so there's no queueing, through **Soho and Chinatown**.
 
 ### East London Food — No Diet Club
 
-*£59 · 3½ hours · starts at midday · 4.9 from 134 reviews · <a href="https://www.getyourguide.com/activity/-t508003?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*£58 · 3½ hours · starts at midday · 4.9 from 141 reviews · <a href="https://www.getyourguide.com/activity/-t508003?partner_id=WWP7I0R&amp;cmp=best-walking-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-All the food is included for £59, the lowest price of these four: local cheese, local ice cream, chai, a bakery and some surprises, between midday and 4pm. For eating on your own terms, see our [street food guide](/articles/best-street-food-london/).
+All the food is included for £58, the lowest price of these four: local cheese, local ice cream, chai, a bakery and some surprises, between midday and 4pm. For eating on your own terms, see our [street food guide](/articles/best-street-food-london/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-walking-tours-london-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

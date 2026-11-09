@@ -158,5 +158,6 @@ London's two Westfield centres are fully roofed malls.
 - 💳 **[Tax-Free Shopping in London](/articles/tax-free-shopping-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🫖 **[The Best Afternoon Tea in London](/articles/best-afternoon-tea-london/)**
+- 🥘 **[Food Tours in London](/articles/london-food-tours/)** — cookery classes, a distillery tour and a wine tasting, all indoors
 - 👨‍👩‍👧 **[London With Children](/articles/london-with-children/)**
 - 🛒 **[London Markets by Day](/markets/)**

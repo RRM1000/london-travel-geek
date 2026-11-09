@@ -5,6 +5,7 @@
 const AD_FREE_PATHS = new Set([
   // Trips
   "/articles/best-walking-tours-london/",
+  "/articles/london-food-tours/",
   "/articles/day-trips-from-london/",
   "/articles/disneyland-paris-from-london/",
   "/articles/harry-potter-studio-tour/",

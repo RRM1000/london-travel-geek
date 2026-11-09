@@ -300,6 +300,7 @@ The route is flat. St Anne's churchyard is the one stop with steps and no step-f
 - **[The Soho area guide](/articles/soho-area-guide/)**: where to eat in the evening, the nightlife and how Soho changes after 6pm.
 - **[Where to stay in Soho and the West End](/articles/where-to-stay-soho-west-end/)**: which streets are still loud at 2am.
 - **[London's blue plaques](/articles/london-blue-plaques/)**: Marx's plaque and the rest of the city's plaques.
+- **[Food tours in London](/articles/london-food-tours/)**: a Soho and Chinatown tasting walk with a set menu at pre-booked tables.
 - **[The best live music venues](/articles/best-live-music-venues-london/)**: Ronnie Scott's and the other jazz rooms, for the evening.
 - **[Free things to do in London](/free/)**: every stop on this walk costs nothing to see.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

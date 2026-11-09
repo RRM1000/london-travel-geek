@@ -223,5 +223,6 @@ Union Jack goods and novelty royal items are the main stock of the souvenir shop
 
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — the streets, department stores and markets
 - 🏪 **[The Best Markets in London](/articles/best-london-markets/)** — makers' stalls and food, by day
+- 🥘 **[Food Tours in London](/articles/london-food-tours/)** — an experience as a gift, including a make-your-own-gin workshop
 - 🎄 **[Christmas Markets in London](/articles/christmas-markets-london/)** — where to buy gifts from stalls in 2026
 - 💷 **[Tax-Free Shopping in London](/articles/tax-free-shopping-london/)** — what you can and cannot get back

@@ -284,5 +284,6 @@ The walk also works in reverse, from Tate Modern to London Bridge, which puts th
 - **[Where to stay on the South Bank](/articles/where-to-stay-south-bank/)**: hotels from County Hall to Borough, including around Bankside and London Bridge.
 - **[The Bermondsey area guide](/articles/bermondsey-area-guide/)**: Bermondsey Street, Maltby Street Market and the Beer Mile, starting just east of London Bridge station.
 - **[Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/)**: the George and London's other old pubs.
+- **[Food tours in London](/articles/london-food-tours/)**: a three-hour Borough Market tasting tour with a guide.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)**: more of the river on foot.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

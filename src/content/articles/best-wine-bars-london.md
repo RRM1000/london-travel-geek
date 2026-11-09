@@ -211,4 +211,6 @@ The cooking is modern French. Two sites — the **Covent Garden** room is a wine
 
 **Star Wine List's UK Gold Stars are a guide to wine lists with dinner.** They include Claridge's, Trivet and a Tuscan restaurant on Dean Street; only one is a wine bar.
 
+For a guided tasting instead of a bar, our [food tours guide](/articles/london-food-tours/) lists an Italian wine tasting in a Mayfair church and an English vineyard day trip.
+
 *Wine bars change hours often: check before a long journey.*

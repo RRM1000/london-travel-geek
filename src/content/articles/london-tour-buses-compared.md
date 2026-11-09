@@ -310,6 +310,7 @@ Worth it if:
 - ⛪ **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)**, **[Tower Bridge](/articles/tower-bridge-guide/)** and the **[Tower of London](/articles/tower-of-london-guide/)**: three stops on the routes, each with its own ticket rules
 - 🎡 **[London Eye Guide](/articles/london-eye-guide/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
+- 🫖 **[Food Tours in London](/articles/london-food-tours/)** — the afternoon tea bus tours, with prices and ratings
 
 ---
 
