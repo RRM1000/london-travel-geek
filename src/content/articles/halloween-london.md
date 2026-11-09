@@ -231,7 +231,7 @@ A 45-minute ghost story told in the kitchen of the Dickens family home at 48 Dou
 
 Check the schedule against the date you plan to go: **the Ripper walks don't all run every night**, and the walking-tour trade has its share of copycats trading on famous names, so stick to operators with a long track record and a real review history.
 
-Outside Halloween, our [guide to the best walking tours in London](/articles/best-walking-tours-london/#jack-the-ripper) compares the Ripper and ghost walks you can book on GetYourGuide.
+Outside Halloween, our [Jack the Ripper and ghost tours guide](/articles/jack-the-ripper-ghost-tours-london/) has the meeting points, prices and children's ages, and our [guide to the best walking tours in London](/articles/best-walking-tours-london/#jack-the-ripper) compares the Ripper and ghost walks you can book on GetYourGuide.
 
 ### Jack the Ripper Walking Tour, London Walks
 

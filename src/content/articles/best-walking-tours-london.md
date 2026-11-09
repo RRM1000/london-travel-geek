@@ -96,7 +96,7 @@ A small-group walk through cobbled streets and courtyards, from coaching inns to
 
 ## Jack the Ripper
 
-Ripper walks start at dusk in Whitechapel and Spitalfields, where the murders of 1888 happened. If you're here for Halloween, our [Halloween guide](/articles/halloween-london/) covers which Ripper walks run on the night itself.
+Ripper walks start at dusk in Whitechapel and Spitalfields, where the murders of 1888 happened. For London Walks, the Jack the Ripper Museum and the Ghost Bus as well, with meeting points and children's ages, see our [Jack the Ripper and ghost tours guide](/articles/jack-the-ripper-ghost-tours-london/). If you're here for Halloween, our [Halloween guide](/articles/halloween-london/) covers which Ripper walks run on the night itself.
 
 ### Jack the Ripper Evening Walking Tour — Meet The Street Tours
 

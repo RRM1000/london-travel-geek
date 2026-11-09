@@ -159,6 +159,19 @@
         "Private Bicester Village shopping trip"
       ]
     },
+    "london-bike-tours": {
+      "for": "The cycling page: the three best-reviewed guided bike tours, a royal parks morning ride, the relaxed Royal London highlights tour and the Classic Gold ride.",
+      "tourIds": [
+        "159101",
+        "15875",
+        "27370"
+      ],
+      "titles": [
+        "Parks and Palaces guided morning bike tour",
+        "Highlights of Royal London bike tour",
+        "Classic Gold bike tour"
+      ]
+    },
     "afternoon-tea-buses": {
       "for": "The afternoon tea bus comparison: the Great British tour, the Prosecco bus and the Paddington bus, three different operators' tea buses.",
       "tourIds": [
@@ -196,6 +209,19 @@
         "Sipsmith gin distillery tour and tasting",
         "Make your own gin workshop with a take-home bottle",
         "Gin tasting and masterclass"
+      ]
+    },
+    "ripper-and-ghost-tours": {
+      "for": "The Jack the Ripper and ghost tours page: the best-reviewed evening Ripper walk, the most reviewed Ripper walk and the Ripper walk with pub stops.",
+      "tourIds": [
+        "54688",
+        "359535",
+        "981012"
+      ],
+      "titles": [
+        "Jack the Ripper evening walking tour, Meet The Street Tours",
+        "The Original Jack the Ripper walking tour, See Your City",
+        "Jack the Ripper tour with historic pub stops"
       ]
     },
     "cookery-classes": {
@@ -566,6 +592,9 @@
     "gin-distillery-tours-london": {
       "slot1": "pick:gin-distillery-tours"
     },
+    "jack-the-ripper-ghost-tours-london": {
+      "slot1": "pick:ripper-and-ghost-tours"
+    },
     "cookery-classes-london": {
       "slot1": "pick:cookery-classes"
     },
@@ -610,7 +639,7 @@
       "adjacent": "pick:river-and-views"
     },
     "cycling-bike-hire-scooters-london": {
-      "slot1": "London bike tour",
+      "slot1": "pick:london-bike-tours",
       "adjacent": "pick:river-and-views"
     },
     "gatwick-airport-to-london": {

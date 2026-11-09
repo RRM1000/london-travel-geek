@@ -127,7 +127,7 @@ Family options in the week: **Absurd City** at Westfield London and **Larger Tha
 
 *Full guide: [Halloween in London](/articles/halloween-london/)*
 
-Scare attractions, club nights, ghost walks and one-off parties ran on the night itself, not on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, the ones that don't need one, and where to hire a costume. In the West End, the horror play **Paranormal Activity** added a **10.30pm performance** at the Ambassadors that night, from £36.
+Scare attractions, club nights, ghost walks and one-off parties ran on the night itself, not on the nearest weekend. Our Halloween guide has the scare attractions worth a train fare, and our [Jack the Ripper and ghost tours guide](/articles/jack-the-ripper-ghost-tours-london/) covers the walks and the Ghost Bus that run all year, the ones that don't need one, and where to hire a costume. In the West End, the horror play **Paranormal Activity** added a **10.30pm performance** at the Ambassadors that night, from £36.
 
 ## Exhibitions that opened in October
 

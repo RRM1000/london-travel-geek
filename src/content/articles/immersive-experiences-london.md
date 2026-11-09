@@ -385,6 +385,7 @@ Live actors who single people out, a drop ride, and London's grimmest history pl
 
 - 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎭 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
+- 👻 **[Jack the Ripper and Ghost Tours](/articles/jack-the-ripper-ghost-tours-london/)** — the Ghost Bus, ghost walks and Ripper walks
 - 🎬 **[The Best Independent Cinemas in London](/articles/best-cinemas-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🎲 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**

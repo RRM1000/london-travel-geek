@@ -314,6 +314,7 @@ The walk is **flat and paved throughout** and never more than about five minutes
 
 - **[The Shoreditch area guide](/articles/shoreditch-area-guide/)** — Hoxton, the bars, Boxpark, the Museum of the Home, and where to stay.
 - **[London's best markets](/articles/best-london-markets/)** — where Columbia Road, Spitalfields and Brick Lane sit among the rest, and which days the others run.
+- **[Jack the Ripper and ghost tours](/articles/jack-the-ripper-ghost-tours-london/)** — the Ripper walks go through Spitalfields, and the Ten Bells at stop nine is close to where they end.
 - **[Food tours in London](/articles/london-food-tours/)** — the East End and Brick Lane Indian food tours, with tastings along these streets.
 - **[London street art and Banksy](/articles/london-street-art/)** — the Rivington Street cluster north of here, and eight more areas.
 - **[The City of London walk](/articles/city-of-london-walk/)** — starts at Bank, ten minutes south-west of where this one finishes.
