@@ -31,7 +31,7 @@ faq:
     a: "A Japanese-style sandwich on shokupan or Tokyo milk bread — soft, crustless, and usually filled with egg salad, a panko cutlet or fruit and cream. Secret Sandwich Shop in Notting Hill is the London standard-bearer."
 ---
 
-The classic is a **salt beef beigel on Brick Lane**, sold at four in the morning from a shop that opened in 1974. The modern sandwich shops, the toastie stalls, the caffs and the market stalls are below.
+The classic is a **salt beef beigel on Brick Lane**, sold at four in the morning at Beigel Bake, open around the clock. The modern sandwich shops, the toastie stalls, the caffs and the market stalls are below.
 
 > 💡 **The Short Version:** **Beigel Bake** on Brick Lane for salt beef, open 24 hours. **Max's Sandwich Shop** for the Ham, Egg 'n' Chips. **Paul Rothe & Son** has been cutting sandwiches into triangles since 1900. **Kappacasein** does the toastie, three days a week only. And **Quo Vadis** in Soho does the smoked eel sandwich.
 

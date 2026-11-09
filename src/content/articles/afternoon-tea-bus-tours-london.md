@@ -44,7 +44,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 | Tour | Price | Fizz | Leaves from | Rating on GetYourGuide |
 |---|---|---|---|---|
 | Brigit's Bakery classic | from £45 adult, £37 child | Glass of Prosecco £9 extra | Victoria Coach Station | book with Brigit's |
-| Great British Afternoon Tea Bus Tour | £59 | not listed | not listed | 4.7 from 1,141 |
+| Great British Afternoon Tea Bus Tour | £47 | not listed | not listed | 4.7 from 1,141 |
 | Afternoon Tea Bus with a Glass of Prosecco | £49 | Glass included | not listed | 4.4 from 2,156 |
 | Taylor Swift-inspired bus | £49 | Prosecco or soft drink | not listed | 4.4 from 216 |
 | Afternoon Tea Sightseeing Bus with PG Tips | £49 | not listed | not listed | 4.4 from 18 |
@@ -106,7 +106,7 @@ These listings give the bus type, the route highlights and the price. They do no
 
 ### Great British Afternoon Tea Bus Tour
 
-*£59 · 90 minutes · 4.7 from 1,141 reviews · <a href="https://www.getyourguide.com/activity/-t860156?partner_id=WWP7I0R&amp;cmp=afternoon-tea-bus-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*£47 · 90 minutes · 4.7 from 1,141 reviews · <a href="https://www.getyourguide.com/activity/-t860156?partner_id=WWP7I0R&amp;cmp=afternoon-tea-bus-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
 A specially converted **1960s Routemaster** on a round-London sightseeing route that takes in Tower Bridge and Big Ben, with a choice of tea, coffee or hot chocolate. It has the highest rating of the two buses with more than a thousand reviews, 4.7 against 4.4, and costs £10 more than the Prosecco bus. Free cancellation, and you must book 10 hours ahead.
 
@@ -153,7 +153,7 @@ Changes are subject to availability and carry a per-person fee, and guests stay 
 
 ## Which one to book
 
-- **First visit, sights first:** Brigit's classic from Victoria, or the Great British tour (£59), whose route includes Tower Bridge and Big Ben.
+- **First visit, sights first:** Brigit's classic from Victoria, or the Great British tour (£47), whose route includes Tower Bridge and Big Ben.
 - **Fizz in the price:** the Prosecco bus (£49). On Brigit's you add a £9 glass.
 - **Children under 5:** only Brigit's Peppa Pig and PAW Patrol buses take them, from age 2.
 - **Vegetarian, vegan or gluten-free:** Brigit's, with the £3 supplement and 72 hours' notice for the last two. Bustronome for vegetarian only.

@@ -20,7 +20,7 @@ faq:
   - q: "Do I need to eat before a food tour?"
     a: "No. Plan the tour in place of a meal: the Borough Market, Indian food and Camden Market tours each include six or more tastings, and the Soho and Chinatown tour serves a set menu at pre-booked tables."
   - q: "Are afternoon tea bus tours worth it?"
-    a: "They are a 90-minute loop round the sights with tea served on board, £48 to £59 a person, rated 4.4 to 4.7 on GetYourGuide from between 212 and 2,156 reviews. The Great British Afternoon Tea Bus Tour runs a vintage Routemaster; the Paddington tour is themed for children. For a table at a hotel instead, see our afternoon tea guide."
+    a: "They are a 90-minute loop round the sights with tea served on board, £47 to £49 a person, rated 4.4 to 4.7 on GetYourGuide from between 212 and 2,156 reviews. The Great British Afternoon Tea Bus Tour runs a vintage Routemaster; the Paddington tour is themed for children. For a table at a hotel instead, see our afternoon tea guide."
   - q: "Can I eat my way round London without a tour?"
     a: "Yes. Borough Market, Camden Market and Brick Lane are open to walk round and eat in without a guide, and our guides to London's markets, street food, craft beer pubs and wine bars list where to go."
 heroImage: "../../assets/articles/london-food-tours/borough-market-sign.jpg"
@@ -33,7 +33,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 
 **Every tour on this page is bookable on GetYourGuide.** They fall into four kinds: a guided walk with tastings, a class where you make the food or drink, a tasting at a distillery or brewery, and afternoon tea on a bus.
 
-> 💡 **The Short Version:** For a first visit, take the **Borough Market tour** (**£92**, three hours, 4.8 from 625 reviews). For a cheaper meal on foot, **No Diet Club's East London tour** is **£58**. For a market other than Borough, **Camden Market** has seven street-food tastings (**£92**). For a rainy day, the **Sipsmith distillery tour** (**£30**) and the **scone workshop** (**£23**) are both indoors. For a gift, **make your own gin** and take the bottle home (**£68**). For tea with a view, the **Great British Afternoon Tea Bus Tour** (**£59**) runs a vintage Routemaster.
+> 💡 **The Short Version:** For a first visit, take the **Borough Market tour** (**£92**, three hours, 4.8 from 625 reviews). For a cheaper meal on foot, **No Diet Club's East London tour** is **£58**. For a market other than Borough, **Camden Market** has seven street-food tastings (**£92**). For a rainy day, the **Sipsmith distillery tour** (**£30**) and the **scone workshop** (**£29**) are both indoors. For a gift, **make your own gin** and take the bottle home (**£68**). For tea with a view, the **Great British Afternoon Tea Bus Tour** (**£59**) runs a vintage Routemaster.
 
 > 📘 **Booking and prices.** We earn a commission if you book through our links; the price is the same either way. No operator paid to be included. Prices are the lowest adult price for the standard option and move with the date.
 
@@ -46,7 +46,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 | Budget | East London Food, No Diet Club | £58 | 3½ hours |
 | A rainy day | Sipsmith gin distillery tour | £30 | 1½ hours |
 | A gift | Make your own gin workshop | £68 | 2½ hours |
-| Afternoon tea | Great British Afternoon Tea Bus Tour | £59 | 1½ hours |
+| Afternoon tea | Great British Afternoon Tea Bus Tour | £47 | 1½ hours |
 
 ## Market tours
 
@@ -54,7 +54,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 
 *£92 · 3 hours · 4.8 from 625 reviews · <a href="https://www.getyourguide.com/activity/-t67794?partner_id=WWP7I0R&amp;cmp=london-food-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-Six or more British classics in and around **Borough Market** and London Bridge, with a drink, a dessert and a "secret" dish the guide doesn't name in advance. It is the most reviewed food tour on this page. To eat round the market on your own, our [Bankside and Borough walk](/articles/bankside-borough-walk/) has the route.
+Six or more British classics in and around **Borough Market** and London Bridge, with a drink, a dessert and a "secret" dish the guide doesn't name in advance. It is the most reviewed food tour on this page. To eat round the market on your own, our [Bankside and Borough walk](/articles/bankside-borough-walk/) has the route, and [Borough Market food tours compared](/articles/borough-market-tours/) sets this one against the other operators.
 
 ![Large pans of hot food on a stall at Borough Market, with a stallholder serving and shoppers queuing behind](../../assets/articles/london-food-tours/borough-market-stall.jpg)
 *Hot food stall at Borough Market. Photo: [Mike Pennington](https://commons.wikimedia.org/wiki/File:Stall_in_Borough_Market,_Southwark_-_geograph.org.uk_-_4414179.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -129,9 +129,9 @@ You make **pork pies** under the instruction of the host, JoJo, or her team. It 
 
 ### Scone Workshop and Afternoon Tea
 
-*£23 · 1 hour · near Camden Market · 4.9 from 1,236 reviews · <a href="https://www.getyourguide.com/activity/-t826151?partner_id=WWP7I0R&amp;cmp=london-food-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*£29 · 1 hour · near Camden Market · 4.9 from 1,236 reviews · <a href="https://www.getyourguide.com/activity/-t826151?partner_id=WWP7I0R&amp;cmp=london-food-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-You bake **traditional British scones** a short walk from Camden Market, with a cup of tea while you work, and eat them warm from the oven with jam and cream. At £23 it is one of the cheapest bookings on this page. Our [Camden area guide](/articles/camden-area-guide/) has what to do after it.
+You bake **traditional British scones** a short walk from Camden Market, with a cup of tea while you work, and eat them warm from the oven with jam and cream. At £29 it is one of the cheapest bookings on this page. Our [Camden area guide](/articles/camden-area-guide/) has what to do after it. [Cookery classes in London](/articles/cookery-classes-london/) compares the cookery schools, from Jamie Oliver to Leiths.
 
 ## Gin and whisky
 
@@ -145,7 +145,7 @@ You see the **copper stills** and hear the history of gin, then taste **four gin
 
 *£68 · 2½ hours · 5.0 from 22 reviews · <a href="https://www.getyourguide.com/activity/-t928650?partner_id=WWP7I0R&amp;cmp=london-food-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-You smell and taste the **botanical distillates**, write your own recipe, then **craft, label and seal a bottle** to take home, and drink a gin cocktail while you're there. The take-home bottle makes it the best gift on this page.
+You smell and taste the **botanical distillates**, write your own recipe, then **craft, label and seal a bottle** to take home, and drink a gin cocktail while you're there. The take-home bottle makes it the best gift on this page. Our [gin distillery tours guide](/articles/gin-distillery-tours-london/) compares the London distilleries that take visitors.
 
 <div data-stay-strip></div>
 
@@ -179,7 +179,7 @@ Three award-winning **English vineyards** in the countryside, with wines tasted 
 
 ### Great British Afternoon Tea Bus Tour
 
-*£59 · 1½ hours · 4.7 from 1,141 reviews · <a href="https://www.getyourguide.com/activity/-t860156?partner_id=WWP7I0R&amp;cmp=london-food-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*£47 · 1½ hours · 4.7 from 1,141 reviews · <a href="https://www.getyourguide.com/activity/-t860156?partner_id=WWP7I0R&amp;cmp=london-food-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
 Afternoon tea on a **vintage Routemaster** bus, on a round-London sightseeing route, so you see the sights from your seat while you eat.
 
@@ -187,7 +187,7 @@ Afternoon tea on a **vintage Routemaster** bus, on a round-London sightseeing ro
 
 *£49 · 1½ hours · 4.4 from 2,156 reviews · <a href="https://www.getyourguide.com/activity/-t267952?partner_id=WWP7I0R&amp;cmp=london-food-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-A classic **double-decker** with sweet and savoury treats and a glass of **Prosecco**. It is the most reviewed tour on this page, and £10 cheaper than the Great British tour.
+A classic **double-decker** with sweet and savoury treats and a glass of **Prosecco**. It is the most reviewed tour on this page.
 
 ### Paddington Bear-Themed Afternoon Tea Bus Tour — Brigit's Bakery
 
@@ -198,13 +198,14 @@ The same format, with a Paddington theme for children and the grown-ups who take
 ![A red Routemaster bus in Paddington Bear afternoon tea livery crossing Parliament Square, with Big Ben behind](../../assets/articles/london-food-tours/paddington-afternoon-tea-bus.jpg)
 *Brigit's Bakery's Paddington afternoon tea bus in Westminster. Photo: [Vintage Fan 5678](https://commons.wikimedia.org/wiki/File:Paddington_Bear_Afternoon_Tea_London_Routemaster_Heritage_bus_in_Westminster,_London_(April_2026).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-For tea at a hotel table rather than a moving bus, our [afternoon tea guide](/articles/best-afternoon-tea-london/) ranks the rooms, and [London tour buses compared](/articles/london-tour-buses-compared/) covers the sightseeing buses that don't serve tea.
+[Afternoon tea bus tours compared](/articles/afternoon-tea-bus-tours-london/) sets every operator side by side. For tea at a hotel table rather than a moving bus, our [afternoon tea guide](/articles/best-afternoon-tea-london/) ranks the rooms, and [London tour buses compared](/articles/london-tour-buses-compared/) covers the sightseeing buses that don't serve tea.
 
 
 ## Doing it yourself
 
 You can eat your way round London without a guide, and the tours above are a good way to learn where to return. Our own guides cover the same ground:
 
+* **What to eat:** [London foods worth travelling for](/articles/london-foods-worth-travelling-for/), the dishes and where to have them.
 * **Markets:** [the best London markets](/articles/best-london-markets/), including Borough, Camden and Spitalfields, with opening days.
 * **Street food:** [the best street food in London](/articles/best-street-food-london/).
 * **Afternoon tea:** [the best afternoon tea in London](/articles/best-afternoon-tea-london/).

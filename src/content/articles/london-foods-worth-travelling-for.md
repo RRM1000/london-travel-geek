@@ -57,7 +57,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 | Salt beef beigel | Beigel Bake, Brick Lane | East End food tour, £89 |
 | Pie, mash and eels | M. Manze, Bermondsey; Goddards, Greenwich | None |
 | Brick Lane curry | Aladin, Brick Lane | Authentic Indian food tour, £92 |
-| Afternoon tea and the scone | The Langham, Marylebone | Scone workshop, £23 |
+| Afternoon tea and the scone | The Langham, Marylebone | Scone workshop, £29 |
 | Cheese | Neal's Yard Dairy, Borough Market | Cheese walking tour, £39 |
 | The full English | E. Pellicci, Bethnal Green | None |
 | Fish and chips | Poppies, Spitalfields; Golden Hind, Marylebone | East End food tour, £89 |
@@ -107,7 +107,7 @@ Sandwiches, scones with clotted cream and jam, then cakes, over a pot of tea. Th
 
 **Tour:** To make the scones yourself, the one-hour workshop near Camden Market ends with them warm from the oven. For tea on a moving bus, the [afternoon tea bus tours](/articles/afternoon-tea-bus-tours-london/) are compared on their own page.
 
-*Scone workshop: £23 · 1 hour · 4.9 from 1,236 reviews · <a href="https://www.getyourguide.com/activity/-t826151?partner_id=WWP7I0R&amp;cmp=london-foods-worth-travelling-for" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
+*Scone workshop: £29 · 1 hour · 4.9 from 1,236 reviews · <a href="https://www.getyourguide.com/activity/-t826151?partner_id=WWP7I0R&amp;cmp=london-foods-worth-travelling-for" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
 ## Cheese at Borough Market
 
