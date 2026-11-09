@@ -226,5 +226,6 @@ Union Jack goods and novelty royal items are the main stock of the souvenir shop
 - 🥃 **[Gin Distillery Tours in London](/articles/gin-distillery-tours-london/)** — a bottle you blend yourself, and gin tastings to give as vouchers
 - 🍝 **[Cookery Classes in London](/articles/cookery-classes-london/)** — pasta, pies and scones, with gift cards from the schools
 - 🥘 **[Food Tours in London](/articles/london-food-tours/)** — an experience as a gift, including a make-your-own-gin workshop
+- 📷 **[Photography Tours and Photoshoots in London](/articles/london-photography-tours/)** — a photoshoot as a gift, with edited photos of the trip
 - 🎄 **[Christmas Markets in London](/articles/christmas-markets-london/)** — where to buy gifts from stalls in 2026
 - 💷 **[Tax-Free Shopping in London](/articles/tax-free-shopping-london/)** — what you can and cannot get back

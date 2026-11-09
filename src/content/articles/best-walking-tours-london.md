@@ -298,5 +298,6 @@ Choose from three trails, **Westminster, Brixton or the City of London**, each o
 * **Ripper and ghost walks run in the evening**, and Changing of the Guard tours in the morning, so one of each fits in a day.
 * **Children:** the Harry Potter and Paddington walks are the family ones. Ripper-Vision isn't suitable for under-10s without a parent's consent.
 * **Rather go on your own?** Our self-guided walks cover [Westminster](/articles/westminster-walk/), [the City](/articles/city-of-london-walk/), [the South Bank](/articles/south-bank-walk/), [Covent Garden](/articles/covent-garden-walk/) and [Shoreditch and Spitalfields](/articles/shoreditch-spitalfields-walk/), with maps.
+* **Want a photographer on the walk?** [Photography tours and photoshoots in London](/articles/london-photography-tours/) covers photo walks, night walks and private shoots.
 * **Already buying a bus tour?** Tootbus and Big Bus tickets bundle in some walking tours. See [London tour buses compared](/articles/london-tour-buses-compared/).
 * **Choosing where to walk?** [The best areas to visit in London](/articles/best-areas-to-visit-london/) compares the neighbourhoods by what each is best for, how long it takes and the best day to go.

@@ -585,6 +585,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — when the free tickets come out, the ways in once they have gone, and the sunset times
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same roofs, sorted by whether the kitchen is any good
 - 🎪 **[Free Things to Do in London](/free/)**
+- 📷 **[Photography Tours and Photoshoots in London](/articles/london-photography-tours/)** — a night walk or a photographer at Tower Bridge, with prices
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

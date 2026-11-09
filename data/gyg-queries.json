@@ -172,6 +172,19 @@
         "Classic Gold bike tour"
       ]
     },
+    "london-photo-tours": {
+      "for": "The photography tours page: a one-hour photo walk with a photographer, the most-reviewed one-hour private photoshoot and the private photoshoot with a video-clip option.",
+      "tourIds": [
+        "1045160",
+        "942741",
+        "671690"
+      ],
+      "titles": [
+        "Iconic Sights photo walking tour",
+        "1-hour London photoshoot",
+        "Private photoshoot with video clip option"
+      ]
+    },
     "afternoon-tea-buses": {
       "for": "The afternoon tea bus comparison: the Great British tour, the Prosecco bus and the Paddington bus, three different operators' tea buses.",
       "tourIds": [
@@ -183,6 +196,32 @@
         "Great British afternoon tea bus tour",
         "Afternoon tea bus with a glass of Prosecco",
         "Paddington Bear afternoon tea bus tour"
+      ]
+    },
+    "downton-abbey-tours": {
+      "for": "The Downton Abbey and Highclere Castle page: the Bampton and Oxford coach tour, the Cotswolds small-group tour and the filming-locations tour with Highclere admission.",
+      "tourIds": [
+        "76972",
+        "123059",
+        "61489"
+      ],
+      "titles": [
+        "Downton Abbey tour with Highclere, Bampton and Oxford",
+        "Downton Abbey, Cotswolds and Highclere Castle",
+        "Downton Abbey filming locations and Highclere Castle"
+      ]
+    },
+    "leeds-castle-tours": {
+      "for": "The Leeds Castle page: the three most reviewed Leeds Castle, Canterbury and Dover coach tours.",
+      "tourIds": [
+        "2257",
+        "1309",
+        "969"
+      ],
+      "titles": [
+        "Leeds Castle, Canterbury Cathedral and Dover",
+        "Leeds Castle, Canterbury, Dover and Greenwich",
+        "Leeds Castle, Canterbury, Dover and Greenwich boat ride"
       ]
     },
     "borough-market-tastings": {
@@ -235,32 +274,6 @@
         "Scone workshop and afternoon tea",
         "Pasta-making class with unlimited Prosecco and antipasti",
         "Traditional pork pie cookery class"
-      ]
-    },
-    "downton-abbey-tours": {
-      "for": "The Downton Abbey and Highclere Castle page: the Bampton and Oxford coach tour, the Cotswolds small-group tour and the filming-locations tour with Highclere admission.",
-      "tourIds": [
-        "76972",
-        "123059",
-        "61489"
-      ],
-      "titles": [
-        "Downton Abbey tour with Highclere, Bampton and Oxford",
-        "Downton Abbey, Cotswolds and Highclere Castle",
-        "Downton Abbey filming locations and Highclere Castle"
-      ]
-    },
-    "leeds-castle-tours": {
-      "for": "The Leeds Castle page: the three most reviewed Leeds Castle, Canterbury and Dover coach tours.",
-      "tourIds": [
-        "2257",
-        "1309",
-        "969"
-      ],
-      "titles": [
-        "Leeds Castle, Canterbury Cathedral and Dover",
-        "Leeds Castle, Canterbury, Dover and Greenwich",
-        "Leeds Castle, Canterbury, Dover and Greenwich boat ride"
       ]
     },
     "museums-and-history": {
@@ -632,14 +645,6 @@
       "slot1": "pick:borough-market-tastings",
       "adjacent": "Borough Market food tour"
     },
-    "london-foods-worth-travelling-for": {
-      "slot1": "pick:london-food-classics",
-      "adjacent": "London afternoon tea bus tour"
-    },
-    "bicester-village-day-trip": {
-      "slot1": "pick:bicester-village-trips",
-      "adjacent": "Oxford day trip from London"
-    },
     "downton-abbey-highclere-castle-day-trip": {
       "slot1": "pick:downton-abbey-tours",
       "adjacent": "Downton Abbey Highclere Castle tour"
@@ -683,6 +688,10 @@
     "cycling-bike-hire-scooters-london": {
       "slot1": "pick:london-bike-tours",
       "adjacent": "pick:river-and-views"
+    },
+    "london-photography-tours": {
+      "slot1": "pick:london-photo-tours",
+      "adjacent": "London night walking tour"
     },
     "gatwick-airport-to-london": {
       "slot1": "Gatwick Express tickets",
