@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05",
+ "generated": "2026-11-09",
  "shows": [
   {
    "slug": "a-christmas-carol-2026",
@@ -287,21 +287,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "blood-of-my-blood",
-   "name": "Blood of my Blood",
-   "venue": "Royal Court Theatre",
-   "venueSlug": "royal-court-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": "High",
-   "firstPreview": "2026-10-01",
-   "pressNight": "2026-10-07",
-   "opening": "2026-10-01",
-   "closing": "2026-11-07",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "blue-man-group",
    "name": "Blue Man Group",
    "venue": "London Palladium",
@@ -437,6 +422,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "cinderella-buttons-undone",
+   "name": "Cinderella: Buttons Undone!",
+   "venue": "Charing Cross Theatre",
+   "venueSlug": "charing-cross-theatre",
+   "location": "Off-West End",
+   "genre": "Entertainment",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2026-11-21",
+   "closing": "2027-01-09",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "cirque-du-soleil-kurios",
    "name": "Cirque du Soleil: KURIOS – Cabinet of Curiosities",
    "venue": "Royal Albert Hall",
@@ -459,7 +459,7 @@
    "location": "Off-West End",
    "genre": "Play",
    "popularity": null,
-   "firstPreview": "2026-11-05",
+   "firstPreview": "2026-11-09",
    "pressNight": "2026-11-10",
    "opening": "2026-11-02",
    "closing": "2027-01-13",
@@ -602,21 +602,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "dog-mom-southwark-playhouse",
-   "name": "Dog Mom",
-   "venue": "Southwark Playhouse Borough",
-   "venueSlug": "southwark-playhouse-borough",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-14",
-   "pressNight": null,
-   "opening": "2026-10-14",
-   "closing": "2026-11-07",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "dogstar",
    "name": "Dogstar",
    "venue": "Hampstead Theatre",
@@ -643,6 +628,21 @@
    "pressNight": null,
    "opening": "2026-10-15",
    "closing": "2026-11-14",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "ebony-scrooge",
+   "name": "Ebony Scrooge",
+   "venue": "Sadler's Wells East",
+   "venueSlug": "sadlers-wells-east",
+   "location": "West End",
+   "genre": "Dance",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2026-11-24",
+   "closing": "2027-01-03",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -865,10 +865,10 @@
    "genre": "Musical",
    "popularity": null,
    "firstPreview": "2027-04-14",
-   "pressNight": null,
+   "pressNight": "2027-05-05",
    "opening": "2027-04-14",
    "closing": null,
-   "bookingFrom": null,
+   "bookingFrom": "2026-11-18",
    "priorityFrom": "2026-11-03"
   },
   {
@@ -1367,6 +1367,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "matthew-bournes-play-without-words",
+   "name": "Matthew Bourne’s Play Without Words",
+   "venue": "Sadler's Wells Theatre",
+   "venueSlug": "sadlers-wells-theatre",
+   "location": "Off-West End",
+   "genre": "Dance",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-07-27",
+   "closing": "2027-08-21",
+   "bookingFrom": "2026-11-16",
+   "priorityFrom": null
+  },
+  {
    "slug": "memoriam",
    "name": "Memoriam",
    "venue": "Southwark Playhouse Borough",
@@ -1569,11 +1584,11 @@
    "location": "West End",
    "genre": "Musical",
    "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
+   "firstPreview": "2027-11-06",
+   "pressNight": "2027-11-24",
    "opening": "2027-11-06",
    "closing": null,
-   "bookingFrom": null,
+   "bookingFrom": "2026-10-14",
    "priorityFrom": null
   },
   {
@@ -2177,21 +2192,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "the-banality-of-evil-hannah-arendt-france-1940",
-   "name": "The Banality of Evil: Hannah Arendt, France, 1940",
-   "venue": "Arcola Theatre",
-   "venueSlug": "arcola-theatre",
-   "location": "Fringe",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": "2026-10-12",
-   "opening": "2026-10-08",
-   "closing": "2026-11-07",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "the-book-of-mormon",
    "name": "The Book of Mormon",
    "venue": "Prince of Wales Theatre",
@@ -2304,26 +2304,11 @@
    "location": "West End",
    "genre": "Play",
    "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
+   "firstPreview": "2027-01-18",
+   "pressNight": "2027-01-27",
    "opening": "2027-01-18",
    "closing": null,
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "the-history-boys-by-alan-bennett",
-   "name": "The History Boys by Alan Bennett",
-   "venue": "Theatre Royal Haymarket",
-   "venueSlug": "theatre-royal-haymarket",
-   "location": "West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
-   "opening": "2027-04-10",
-   "closing": "2027-07-24",
-   "bookingFrom": null,
+   "bookingFrom": "2026-10-16",
    "priorityFrom": null
   },
   {
@@ -2338,7 +2323,7 @@
    "pressNight": "2027-04-19",
    "opening": "2027-04-10",
    "closing": "2027-07-24",
-   "bookingFrom": null,
+   "bookingFrom": "2026-10-23",
    "priorityFrom": null
   },
   {
@@ -2818,8 +2803,8 @@
    "pressNight": "2027-11-25",
    "opening": "2027-11-01",
    "closing": null,
-   "bookingFrom": null,
-   "priorityFrom": "2026-11-01"
+   "bookingFrom": "2026-11-12",
+   "priorityFrom": "2026-11-04"
   },
   {
    "slug": "white-rabbit-red-rabbit-duchess",
