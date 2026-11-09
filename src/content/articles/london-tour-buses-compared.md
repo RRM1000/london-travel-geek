@@ -311,6 +311,7 @@ Worth it if:
 - 🎡 **[London Eye Guide](/articles/london-eye-guide/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
 - 🫖 **[Food Tours in London](/articles/london-food-tours/)** — the afternoon tea bus tours, with prices and ratings
+- 🚌 **[Afternoon Tea Bus Tours in London Compared](/articles/afternoon-tea-bus-tours-london/)** — routes, menus, dietary options and prices for every tea bus
 
 ---
 

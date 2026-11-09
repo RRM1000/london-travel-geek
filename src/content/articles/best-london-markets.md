@@ -78,7 +78,7 @@ It is busiest **between 11am and 2pm on Saturday**. **Friday mid-morning** is th
 
 Horn OK Please and Gujarati Rasoi both serve vegetarian Indian food.
 
-**8 Southwark Street, SE1 1TL, beside London Bridge station.** Free to enter, and the Borough Market Kitchen section at the back has the seating. **Closed on Mondays**; open Tuesday to Friday 10am to 5pm, Saturday 9am to 5pm and Sunday 10am to 4pm. It is the lunch stop on our [Bankside and Borough walk](/articles/bankside-borough-walk/), between Cross Bones and Southwark Cathedral.
+**8 Southwark Street, SE1 1TL, beside London Bridge station.** Free to enter, and the Borough Market Kitchen section at the back has the seating. **Closed on Mondays**; open Tuesday to Friday 10am to 5pm, Saturday 9am to 5pm and Sunday 10am to 4pm. It is the lunch stop on our [Bankside and Borough walk](/articles/bankside-borough-walk/), between Cross Bones and Southwark Cathedral. For a guided tasting, see our [Borough Market food tours](/articles/borough-market-tours/), with prices, ratings and the market's December hours.
 
 ![A cheese stall hung with French flags and stacked with whole cheeses under the iron roof of Borough Market](../../assets/articles/best-london-markets/borough-market-cheese-stall.jpg)
 

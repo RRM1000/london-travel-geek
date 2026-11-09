@@ -120,7 +120,7 @@ Five minutes north up Redcross Way, under the railway and across Southwark Stree
 
 > ⚠️ **Borough Market is closed on Mondays.** Tuesday to Friday **10am–5pm**, Saturday **9am–5pm**, Sunday **10am–4pm**. Hours change at bank holidays and over Christmas. Saturday afternoon is busiest, and some passages are only 1.5 metres wide.
 
-This is lunch. The [London markets guide](/articles/best-london-markets/#borough-market-southwark) covers which stalls trade on which days and what to queue for. The cathedral is at the market's north-east corner.
+This is lunch. The [London markets guide](/articles/best-london-markets/#borough-market-southwark) covers which stalls trade on which days and what to queue for. To eat round it with a guide, see our [Borough Market food tours](/articles/borough-market-tours/). The cathedral is at the market's north-east corner.
 
 ## 5. Southwark Cathedral
 

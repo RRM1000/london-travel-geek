@@ -133,6 +133,32 @@
         "Sipsmith gin distillery tour and tasting"
       ]
     },
+    "afternoon-tea-buses": {
+      "for": "The afternoon tea bus comparison: the Great British tour, the Prosecco bus and the Paddington bus, three different operators' tea buses.",
+      "tourIds": [
+        "860156",
+        "267952",
+        "433305"
+      ],
+      "titles": [
+        "Great British afternoon tea bus tour",
+        "Afternoon tea bus with a glass of Prosecco",
+        "Paddington Bear afternoon tea bus tour"
+      ]
+    },
+    "borough-market-tastings": {
+      "for": "The Borough Market tours page: the two most reviewed group tours and the sweet-treats tour.",
+      "tourIds": [
+        "67794",
+        "431336",
+        "420888"
+      ],
+      "titles": [
+        "Borough Market food tour, Secret Food Tours",
+        "Borough Market food tour, Eating London",
+        "Borough Market doughnuts and tea tour"
+      ]
+    },
     "museums-and-history": {
       "for": "Museums, galleries and historic-building pages.",
       "tourIds": [
@@ -484,6 +510,14 @@
     "london-food-tours": {
       "slot1": "pick:food-and-drink-experiences",
       "adjacent": "London afternoon tea bus tour"
+    },
+    "afternoon-tea-bus-tours-london": {
+      "slot1": "pick:afternoon-tea-buses",
+      "adjacent": "London afternoon tea bus tour"
+    },
+    "borough-market-tours": {
+      "slot1": "pick:borough-market-tastings",
+      "adjacent": "Borough Market food tour"
     },
     "cheap-eats-london": {
       "slot1": "pick:food-tours",

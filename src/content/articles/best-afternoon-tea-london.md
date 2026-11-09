@@ -549,7 +549,7 @@ The tea is a full one — finger sandwiches, pastries, cakes — with Birchall t
 
 **Three things to know before you book.** It is **age 5 and over**, with no exceptions and no babies. **There is no toilet on board** for the full ninety minutes. And **VIP seating means the front row of the upper deck**, the best view. There is a wheelchair-accessible bus; ask when booking.
 
-B Bakery is Brigit's Bakery, which sells the same 90-minute Routemaster tour on GetYourGuide: <a href="https://www.getyourguide.com/activity/-t226702?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-tea-bus" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">book the Afternoon Tea Bus Tour on GetYourGuide</a>.
+B Bakery is Brigit's Bakery, which sells the same 90-minute Routemaster tour on GetYourGuide: <a href="https://www.getyourguide.com/activity/-t226702?partner_id=WWP7I0R&amp;cmp=best-afternoon-tea-london-tea-bus" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">book the Afternoon Tea Bus Tour on GetYourGuide</a>. For the other buses, including Paddington and Peppa Pig tours for children, a Prosecco bus and a glass-roofed one, see our [afternoon tea bus tours compared](/articles/afternoon-tea-bus-tours-london/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="226702" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
