@@ -77,7 +77,22 @@ The docking stations thin out beyond Zone 1.
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-london-bike-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London bike tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+## Guided bike tours
+
+A guided ride covers the central sights without you having to find the route, and the tours below start from £39 a person on GetYourGuide. The first four are priced per person; the last two are priced per group of up to four.
+
+| Tour | From | Length | Rating | What it covers |
+|---|---|---|---|---|
+| <a href="https://www.getyourguide.com/activity/-t159101?partner_id=WWP7I0R&amp;cmp=cycling-bike-hire-scooters-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Parks and Palaces morning tour</a> | £39 | 3½ hours | 4.9 from 359 reviews | The royal parks, with Big Ben, Buckingham Palace and Trafalgar Square |
+| <a href="https://www.getyourguide.com/activity/-t15875?partner_id=WWP7I0R&amp;cmp=cycling-bike-hire-scooters-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Highlights of Royal London</a> | £42 | 3 hours | 4.8 from 157 reviews | A relaxed ride on cruiser bikes past Buckingham Palace, Big Ben and Westminster Abbey |
+| <a href="https://www.getyourguide.com/activity/-t27370?partner_id=WWP7I0R&amp;cmp=cycling-bike-hire-scooters-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Classic Gold tour</a> | £50 | 3½ hours | 4.7 from 1,346 reviews | A morning ride round central London's best-known sights; the most reviewed tour in this table |
+| <a href="https://www.getyourguide.com/activity/-t626967?partner_id=WWP7I0R&amp;cmp=cycling-bike-hire-scooters-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Guided e-bike tour</a> | £59 | 2½ hours | 4.7 from 150 reviews | Westminster Bridge, Trafalgar Square and Buckingham Palace on an e-bike |
+| <a href="https://www.getyourguide.com/activity/-t68396?partner_id=WWP7I0R&amp;cmp=cycling-bike-hire-scooters-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Private Gold Classic tour</a> | £265 for up to 4 | 3 hours | 4.8 from 107 reviews | A private, child-friendly ride with a guide, on traditional bikes or e-bikes |
+| <a href="https://www.getyourguide.com/activity/-t38977?partner_id=WWP7I0R&amp;cmp=cycling-bike-hire-scooters-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace bike tour</a> | £300 for up to 4 | 3½ hours | 5.0 from 28 reviews | The Thames out to Hampton Court Palace, with a market stop to buy lunch and a picnic in the old royal hunting ground |
+
+For the same ground on foot, see our [walking tours guide](/articles/best-walking-tours-london/).
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="cycling-bike-hire-scooters-london-london-bike-tour" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="159101,15875,27370"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Forest and Lime: dockless e-bikes
 
