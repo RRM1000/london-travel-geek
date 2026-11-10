@@ -3,7 +3,7 @@ title: "Gin Distillery Tours in London: Tastings, Tours and Make-Your-Own-Gin Cl
 seoTitle: "Gin Distillery Tours in London: Prices and Booking"
 description: "London distilleries you can book: Sipsmith in Chiswick, Hayman's in Balham, The Ginstitute and Portobello Road Gin in Notting Hill, East London Liquor Company and Bimber whisky, with prices, tasting counts, length, age limits and booking links."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -59,7 +59,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 ![The Portobello Star pub at 171 Portobello Road, a cream-painted three-storey building with a black shopfront, a star-shaped hanging sign and orange café chairs outside](../../assets/articles/gin-distillery-tours-london/portobello-star.jpg)
 *The Portobello Star at 171 Portobello Road, where Ginstitute sessions start. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Portobello_Star,_Portobello_Road,_W11.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-No food is provided, so eat first. The distillery asks you to arrive at least 10 minutes early so your party sits together, and it lets you rebook if you give 48 hours' notice. The Ginstitute is also on <a href="https://www.getyourguide.com/activity/-t1484294?partner_id=WWP7I0R&amp;cmp=gin-distillery-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £125, in a three-hour tour that adds time in the Portobello Road market first.
+No food is provided, so eat first. The distillery asks you to arrive at least 10 minutes early so your party sits together, and it lets you rebook if you give 48 hours' notice. A ticket is valid for a year from purchase, and parties of more than 12 need to contact the distillery. The Ginstitute is also on <a href="https://www.getyourguide.com/activity/-t1484294?partner_id=WWP7I0R&amp;cmp=gin-distillery-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £125, in a three-hour tour that adds time in the Portobello Road market first.
 
 ### Make Your Own Gin Workshop with a Take-Home Bottle
 
@@ -73,7 +73,7 @@ You smell and taste botanical distillates, write your own gin recipe, then craft
 
 *£30 · 1½ hours · 5.0 from 18 reviews · weeknights only · <a href="https://www.getyourguide.com/activity/-t1107345?partner_id=WWP7I0R&amp;cmp=gin-distillery-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a> or <a href="https://sipsmith.com/distillery-tours/" target="_blank" rel="noopener">on Sipsmith's site</a>*
 
-**83 Cranbrook Road, Chiswick, W4 2LJ.** Turnham Green is the nearest station, 600 metres away. You see the copper stills, hear the history of gin and taste four gins, then take home a gift bag with two samples. There is a gin shop on site. Sipsmith's distillery stands on a residential road, so tours run on weeknights only and it takes no walk-ins. It says tours are often full a few months ahead, and it asks for as much notice as possible if you cannot come.
+**83 Cranbrook Road, Chiswick, W4 2LJ.** Turnham Green is the nearest station, 600 metres away. You see the copper stills, hear the history of gin and taste four gins, then take home a gift bag with two samples. There is a gin shop on site. Sipsmith's distillery stands on a residential road, so tours run on weeknights only and it takes no walk-ins. It says tours are often full a few months ahead, and it asks for as much notice as possible if you cannot come. There is no parking at the distillery, and the distillery asks anyone with access needs to phone 020 8747 0753 beforehand.
 
 ![A bottle of Sipsmith sloe gin with a label showing a swan, beside a tasting glass holding a little of the gin, on a wooden table](../../assets/articles/gin-distillery-tours-london/sipsmith-sloe-gin.jpg)
 *A bottle of Sipsmith sloe gin. Photo: [JIP](https://commons.wikimedia.org/wiki/File:Sipsmith_Sloe_Gin.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
@@ -84,7 +84,7 @@ You smell and taste botanical distillates, write your own gin recipe, then craft
 
 **8a Weir Road, Balham.** It is a 12-minute walk from Balham station or 15 minutes from Clapham South. The Hayman family says it has made gin in London for five generations, and the tour starts with a welcome G&T or a seasonal cocktail. You then handle the botanicals, hear how the two-day distillation works and taste three gins in a tutored tasting. You get 15% off a 70cl bottle in the distillery shop on the day. Hayman's own booking page shows 5.0 from 103 ratings.
 
-Dates are released about every six weeks, so a date you want may not be on sale yet. You can change or cancel up to 10 days before; inside that window the tour is not refundable. Hayman's may reschedule a tour if fewer than six people have booked. It serves no food, and under-18s, including babies, are not allowed in. For a longer evening, its Cocktail Masterclass is £40 and its Martini Masterclass is £45.
+Dates are released about every six weeks, so a date you want may not be on sale yet. You can change or cancel up to 10 days before; inside that window the tour is not refundable. Doors open 15 minutes before the start, and Hayman's asks you not to arrive earlier. It may reschedule a tour if fewer than six people have booked. It serves no food, and under-18s, including babies, are not allowed in. For a longer evening, its Cocktail Masterclass is £40 and its Martini Masterclass is £45.
 
 ![A bottle of Hayman's Old Tom gin beside a bottle of tonic water and a tall glass with a lemon slice and two straws](../../assets/articles/gin-distillery-tours-london/haymans-old-tom-gin-and-tonic.jpg)
 *Hayman's Old Tom gin with tonic. Photo: [JIP](https://commons.wikimedia.org/wiki/File:Home-made_gin%26tonic_from_Haymans_Old_Tom_Gin_and_Fever-Tree_Premium_Indian_Tonic_Water.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
