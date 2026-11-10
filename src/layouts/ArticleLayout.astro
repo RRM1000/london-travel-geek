@@ -10,6 +10,7 @@ import SidebarActivities from "../components/SidebarActivities.astro";
 import SidebarHotels from "../components/SidebarHotels.astro";
 import SidebarStay from "../components/SidebarStay.astro";
 import LineStatus from "../components/LineStatus.astro";
+import { isAdFree } from "../data/adFreePages";
 import { hotelsComAreaLink } from "../lib/hotelsComAreas";
 import { STAY_STRIP_CATEGORIES } from "../../scripts/lib/affiliate.mjs";
 import AreaAtAGlance from "../components/AreaAtAGlance.astro";
@@ -261,6 +262,9 @@ const breadcrumbs = [
 const hasRealUpdate = !!updatedAt && updatedAt.valueOf() > publishedAt.valueOf();
 const formatDate = (d: Date) =>
   d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+
+// Same test BaseLayout uses to load the Mediavine script.
+const hasAds = !isAdFree(Astro.url.pathname);
 ---
 
 <BaseLayout
@@ -432,11 +436,15 @@ const formatDate = (d: Date) =>
         {closingHtml && <Fragment set:html={closingHtml} />}
         <ArticleFaq items={faq} />
       </div>
-      <aside class="article__sidebar">
-        {showContents && (
+      {/* On pages with ads the column does not pin: Mediavine puts its sticky
+          sidebar unit at the end of this column, and asked for nothing else in
+          it to be sticky. The cards move above the contents so the ad sits
+          directly under "In this guide". Ad-free pages keep the pinned column. */}
+      <aside class:list={["article__sidebar", { "article__sidebar--ads": hasAds }]}>
+        {!hasAds && showContents && (
           <TableOfContents headings={contentsHeadings} variant="desktop" />
         )}
-        {showLineStatus && <LineStatus variant="desktop" />}
+        {!hasAds && showLineStatus && <LineStatus variant="desktop" />}
         {/* ONE card, not two: the column is sticky and viewport-capped, and a
             second dark card below the first gets cropped - the failure that got
             GetYourGuide's city widget pulled out of this column. So where we
@@ -451,6 +459,10 @@ const formatDate = (d: Date) =>
             for the column (see SidebarStay). Not where the hotels card already
             holds the slot. */}
         {!hotelsComAreaLink(articleId) && STAY_STRIP_CATEGORIES.has(category) && <SidebarStay />}
+        {hasAds && showContents && (
+          <TableOfContents headings={contentsHeadings} variant="desktop" />
+        )}
+        {hasAds && showLineStatus && <LineStatus variant="desktop" />}
       </aside>
     </div>
     </div>
@@ -2623,6 +2635,14 @@ const formatDate = (d: Date) =>
     max-height: calc(100dvh - var(--sticky-top-max) - var(--rail-gap));
     min-width: 0;
     transition: top 260ms var(--ease);
+  }
+
+  /* Ad pages: a normal column the full height of the article, so Mediavine's
+     sticky unit at its foot has the length of the article to travel. */
+  .article__sidebar.article__sidebar--ads {
+    position: static;
+    align-self: stretch;
+    max-height: none;
   }
 
   /* No scrollbar out here - the contents card owns the only one.

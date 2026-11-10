@@ -12,6 +12,22 @@ const AD_FREE_PATHS = new Set([
   "/articles/london-eye-guide/",
   "/articles/london-tour-buses-compared/",
   "/articles/thames-river-cruises-london/",
+  // Tour-selling pages, where GetYourGuide is the point of the page
+  // (10 November 2026). Venue and attraction guides with a few tour links
+  // keep their ads.
+  "/articles/afternoon-tea-bus-tours-london/",
+  "/articles/amsterdam-from-london/",
+  "/articles/beatles-london/",
+  "/articles/borough-market-tours/",
+  "/articles/bridgerton-london/",
+  "/articles/cookery-classes-london/",
+  "/articles/football-stadium-tours-london/",
+  "/articles/gin-distillery-tours-london/",
+  "/articles/jack-the-ripper-ghost-tours-london/",
+  "/articles/london-foods-worth-travelling-for/",
+  "/articles/london-photography-tours/",
+  "/articles/sherlock-holmes-london/",
+  "/articles/theme-parks-near-london/",
   // Tickets
   "/articles/christmas-shows-london/",
   "/articles/dinner-and-a-show-london/",
