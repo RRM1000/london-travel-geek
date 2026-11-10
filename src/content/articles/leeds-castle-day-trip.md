@@ -3,7 +3,7 @@ title: "Leeds Castle Day Trip from London: Tickets, Opening Hours, Train and Tou
 seoTitle: "Leeds Castle Day Trip from London: Tickets and Tours"
 description: "Leeds Castle tickets are £34.50 online for an adult and valid for a year. The train from Victoria to Bearsted takes 70 to 75 minutes, then a 5-minute taxi, or book a coach tour with Canterbury and Dover from £105. Hours, closures and Christmas dates."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -96,11 +96,12 @@ Leeds Castle names Evan Evans, Golden Tours and Premium Tours as coach operators
 
 ## What's inside
 
-Admission covers the Castle, whose rooms are set in the 1930s, and the gardens and parkland of about 500 acres. The Black Swan Ferry runs on weekends and school holidays, but is not in operation from November until 11 February 2027.
+Admission covers the Castle, the gardens and about 500 acres of grounds. Inside, the rooms are staged as a 1930s house party hosted by Lady Baillie, the Anglo-American heiress who restored the Castle. The multimedia guide, included with Explorer and Ultimate Explorer tickets, covers its 900 years, from six medieval queens to Lady Baillie. The Black Swan Ferry runs on weekends and school holidays, but is not in operation from November until 11 February 2027.
 
 - **The Castle** opens 10:30 to 15:30 until 19 November. Multimedia guides are not available from 20 November to 3 January.
 - **The maze and grotto**, the playgrounds and the beach close at 16:00 until 19 November, and at 15:00 after.
 - **Birds of prey** have a centre and displays; the centre closes at 16:00 until 19 November and at 15:00 after.
+- **The Dog Collar Museum** shows a selection of the Castle's historic collars, included with admission.
 - **The gardens** include the Culpeper Garden, the Lady Baillie Mediterranean Garden Terraces and the Princess Alexandra Gardens.
 
 ![A yew hedge maze at Leeds Castle seen from above, with a notice about the grotto on the hedge and a stone wall in front](../../assets/articles/leeds-castle-day-trip/maze-and-grotto.jpg)
@@ -108,6 +109,12 @@ Admission covers the Castle, whose rooms are set in the 1930s, and the gardens a
 
 ![Terraced gardens above a still stretch of water, with pines, palms and brick walls in the trees beyond](../../assets/articles/leeds-castle-day-trip/gardens-from-the-water.jpg)
 *The gardens seen from the water. Photo: [DimiTalen](https://commons.wikimedia.org/wiki/File:View_towards_Culpeper_Garden_from_the_Black_Swan_Ferry,_Leeds_Castle,_2019.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
+
+## Food and access
+
+- **Lunch:** the Castle View Restaurant is for ticket holders from 11:30 to 14:30, seated first come, first served. The kiosks in the Stable Courtyard sell fish fingers and chips and snacks, and the Maze Café sells grab-and-go food such as sausage rolls.
+- **Dinner:** the Castle View Restaurant serves from 17:30, needs no admission ticket and should be pre-booked.
+- **Wheelchairs** are lent free, subject to availability. A free mobility bus runs from near the ticket office, except on ticketed event days such as fireworks and cinema nights. Elsie the Castle Train is not wheelchair accessible; the Black Swan Ferry takes up to three wheelchairs.
 
 ## Christmas and winter events
 
