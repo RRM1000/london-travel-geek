@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-10-30",
+  "updated": "2026-11-10",
   "inProgress": [],
   "nextUp": [
     "Display ads, once the Journey details arrive: load the script from BaseLayout.astro with a list of ad-free pages (trip pages such as Harry Potter Studio Tour, Thames cruises, London Eye, tour buses and day trips, plus ticket pages such as Christmas shows). Hotel guides carry ads, because hotel affiliates have earned £3. Load it before GA4 with Mediavine's consent prompt on (the site has none), add ads.txt, leave the optional pop-ups off, test locally, then show Rob. After 30 live days compare ad income and affiliate clicks with the baseline of 287 clicks and about 15,000 views (2-29 Oct). Apply to Raptive at 25,000 views a month.",
@@ -22,6 +22,12 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    {
+      "what": "Mediavine launch (application 18393): reply to Jacob that the sidebar is no longer sticky; in the dashboard finish ads.txt swap, Payment Profile, Privacy Policy link, GA4 connection and the consent platform; check the application domain reads londontravelgeek.com, not .co.uk."
+    },
+    {
+      "what": "ltg-black-friday branch (993bc93b, 775f7dae) still to push, before Black Friday week."
+    },
     "Display ads, Journey by Mediavine: accepted 30 Oct. Send the ad script code and the ads.txt file (or redirect link) from the Mediavine dashboard, then the install can start.",
     "Spot-check two or three Ticketmaster links added on the October guide and the jazz festival page (Ticketmaster blocks our scripts, so they came from the listings feed unopened).",
     "Hotels.com check: LEGOLAND's three hotels, Thorpe Shark Cabins, Chessington Safari and Azteca hotels, Dean Street Townhouse, Redchurch Townhouse and The Twenty Two link to their own sites; send Hotels.com links if it sells them.",
@@ -60,6 +66,10 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-10",
+      "what": "Pushed b5a67480: seasonal date fixes, Gandeys circus on the Christmas shows page, 12 new food and tour pages with GetYourGuide picks, and the Mediavine sidebar change (no pinned column on ad pages, ad directly under the contents). 13 tour-selling pages added to the ad-free list (46 paths plus every -day-trip page)."
+    },
     {
       "date": "2026-10-30",
       "what": "Accepted by Journey by Mediavine for display ads. Estimated £80-£150 a month on 13,000-14,000 sessions (my estimate, not a quote). Nothing installed yet; plan and ad-free page rule are in Next up."
