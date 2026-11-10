@@ -3,7 +3,7 @@ title: "Downton Abbey Day Trip from London: Highclere Castle, Tours and Trains"
 seoTitle: "Downton Abbey Day Trip from London: Highclere Castle"
 description: "Highclere Castle, the real Downton Abbey, opens to the public on set dates only: 27 March to 3 June and 11 July to 2 September 2027, at £32 for an adult. Coach tours from £155, including Bampton and Oxford, or the train to Newbury and a 15-minute taxi."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -98,13 +98,15 @@ Coach tours leave London for the days Highclere is open, and they cover the cast
 
 ## What you see at Highclere
 
-You tour the main state rooms that appear in *Downton Abbey*, some of the bedrooms, then go down to the cellars and the old staff quarters, where the **Egyptian Exhibition** marks the 5th Earl of Carnarvon's discovery of Tutankhamun's tomb. Highclere puts the building at between 250 and 300 rooms. Photography is not allowed inside.
+You tour the main state rooms that appear in *Downton Abbey*, some of the bedrooms, then go down to the cellars and the old staff quarters, where the **Egyptian Exhibition** marks the 5th Earl of Carnarvon's discovery of Tutankhamun's tomb. Highclere puts the building at between 250 and 300 rooms. Sir Charles Barry, who designed the Houses of Parliament, remodelled the house into the present Castle in 1842. The Egyptian Exhibition has six rooms, running from the Earl's own antiquities to the discovery of the tomb and a reproduction of the sarcophagus. Photography is not allowed inside.
 
 The **gardens and parkland** are open on any ticket. They include the Monk's Garden, the Secret Garden, the White Border, the Wood of Goodwill and the Wild Flower Meadow, and Highclere points out the spots seen in the series, such as Lady Mary's bench and the Secret Garden. The parkland was designed by Capability Brown in 1771, with follies that include the Temple of Diana. The woodland walks are rough grass paths.
 
 **Eating.** The tearooms open from 9:30 for coffee and pastries, with sandwiches, salads, scones and hot takeaway food through the day. There is no vegan menu, and Highclere can't guarantee dairy-free or nut-free. Picnics are not allowed in the gardens, but you can eat one in the car park.
 
 **Dogs** are not allowed on the grounds apart from guide dogs, though they are welcome on the public footpaths that cross the estate, on leads.
+
+**Pushchairs and wheelchairs.** Pushchairs are useful on the lawns but are not allowed inside the Castle; leave one in the front hall, space permitting and at your own risk. Highclere hires manual wheelchairs if you reserve one after booking, on 01635 888518. It offers no escort, so a companion has to push.
 
 ## Bampton: the village in the series
 
