@@ -3,7 +3,7 @@ title: "Football Stadium Tours in London: Chelsea, Arsenal, Tottenham, West Ham,
 seoTitle: "Football Stadium Tours in London: Prices and Booking"
 description: "Stadium tours at Stamford Bridge, Emirates Stadium, Tottenham Hotspur Stadium, London Stadium, Wembley and Craven Cottage, with what each includes, how long it lasts, prices, opening days and what happens on match days."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -57,7 +57,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 ![The pitch at Stamford Bridge seen from the touchline, with the stands on three sides](../../assets/articles/football-stadium-tours-london/stamford-bridge-pitch.jpg)
 *The pitch at Stamford Bridge. Photo: [Ank kumar](https://commons.wikimedia.org/wiki/File:Chelsea_Football_Club,_Stamford_Bridge_08.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-Tours are booked by date and time slot, with the first slots at 10am. There is a longer **Classic Tour** at £49 on the club's site, and the stadium tour is also on <a href="https://www.getyourguide.com/activity/-t52605?partner_id=WWP7I0R&amp;cmp=football-stadium-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £34, rated 4.8 from 5,478 reviews. Our [Chelsea area guide](/articles/chelsea-area-guide/) covers the neighbourhood.
+Tours are booked by date and time slot. On the dates listed, weekday slots run from about 9.40am to 4pm and Sundays from 11am to 3.20pm. There is a longer **Classic Tour** at £49 on the club's site, and the stadium tour is also on <a href="https://www.getyourguide.com/activity/-t52605?partner_id=WWP7I0R&amp;cmp=football-stadium-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £34, rated 4.8 from 5,478 reviews. Our [Chelsea area guide](/articles/chelsea-area-guide/) covers the neighbourhood.
 
 ## Arsenal — Emirates Stadium
 
@@ -106,7 +106,7 @@ Wembley has a 100% bag search, no cloakroom and no large bags or suitcases. The 
 
 *£30 · 75 minutes · 4.9 from 297 reviews · <a href="https://www.getyourguide.com/activity/-t409415?partner_id=WWP7I0R&amp;cmp=football-stadium-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-A guided tour of the club's history at Craven Cottage, which GetYourGuide describes as London's original football club. Putney Bridge is the nearest station, about a kilometre away. GetYourGuide describes the tour as a trip through the club's history at Craven Cottage.
+A guided 75-minute tour of the club's history at Craven Cottage. Putney Bridge is the nearest station, about a kilometre away.
 
 ## Doing it yourself
 
