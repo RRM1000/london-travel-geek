@@ -3,7 +3,7 @@ title: "Photography Tours and Photoshoots in London"
 seoTitle: "London Photography Tours and Photoshoots Compared"
 description: "Photography tours and photoshoots in London on GetYourGuide: photo walks that teach you to shoot, night walks, a photographer who takes your picture, and private photoshoots, with prices, group sizes and the number of edited photos."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -66,7 +66,7 @@ A 3-hour walk through hidden alleys, gardens and street art, with photo stops at
 
 *£90 a person · 4 hours · <a href="https://www.getyourguide.com/activity/-t1187287?partner_id=WWP7I0R&amp;cmp=london-photography-tours" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-A guided walk for the park's deer, birds and woodland rather than the landmarks. It suits nature and wildlife photography. Our [Richmond guide](/articles/richmond-area-guide/) covers getting there.
+A guided walk for the park's deer, birds and woodland rather than the landmarks. It suits nature and wildlife photography, for beginners or experienced photographers, and covers zoom lenses for the deer and autofocus for birds. You meet at the RSPCA monument at Richmond Gate. Our [Richmond guide](/articles/richmond-area-guide/) covers getting there.
 
 ## Night and sunrise
 
