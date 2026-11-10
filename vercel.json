@@ -2,6 +2,11 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "redirects": [
     {
+      "source": "/ads.txt",
+      "destination": "https://adstxt.mediavine.com/sites/1f35f700-ab2d-4ad3-a29d-2c56589e4ac1/ads.txt",
+      "permanent": true
+    },
+    {
       "source": "/articles/london-plaque-colours",
       "destination": "/articles/london-plaques-guide",
       "permanent": true
