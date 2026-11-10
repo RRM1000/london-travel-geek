@@ -3,7 +3,7 @@ title: "London Foods Worth Travelling For: Ten Dishes and Where to Eat Them"
 seoTitle: "London Foods Worth Travelling For and Where to Eat Them"
 description: "Ten foods London is known for, from the salt beef beigel and pie and mash to Brick Lane curry and Brixton's Caribbean food: where each came from, where to eat it now, and the guided tour that includes it."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -85,7 +85,7 @@ A minced beef pie, mashed potato and "liquor", a green parsley sauce that is not
 ![Two pies under green liquor with mashed potato, beside a bowl of jellied eels, on a wooden table at Goddards](../../assets/articles/london-foods-worth-travelling-for/goddards-pie-mash-liquor-eels.jpg)
 *Pie, mash, liquor and jellied eels at Goddards at Greenwich. Photo: [Goddards Pies Limited](https://commons.wikimedia.org/wiki/File:Goddards_pie_mash_and_liquor.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**Eat it at:** [M. Manze](https://www.manze.co.uk/), 87 Tower Bridge Road, SE1. The shop was opened by Robert Cooke and bought in 1902 by his son-in-law Michele Manze. Its eels are cooked on the premises and its pies are filled with beef minced on site. It shuts at 5.45pm Monday to Thursday, 6.45pm on Friday, 7.45pm on Saturday and 3.45pm on Sunday. [Goddards at Greenwich](https://goddardsatgreenwich.co.uk/), 22 King William Walk, has traded since 1890 and opens daily from 10am to 7.30pm, to 8pm on Friday and Saturday. It also sells vegetarian pies. Our [classic British food guide](/articles/classic-british-food-london/) covers the other pies.
+**Eat it at:** [M. Manze](https://www.manze.co.uk/), 87 Tower Bridge Road, SE1. The shop was opened by Robert Cooke and bought in 1902 by his son-in-law Michele Manze. Its eels are cooked on the premises and its pies are filled with beef minced on site. It is open 10.30am to 5.45pm Monday to Thursday, 10am to 6.45pm on Friday, 10am to 7.45pm on Saturday and 11am to 3.45pm on Sunday. [Goddards at Greenwich](https://goddardsatgreenwich.co.uk/), 22 King William Walk, has traded since 1890 and opens daily from 10am to 7.30pm, to 8pm on Friday and Saturday. Eels come hot or jellied, or as pie, mash and eels, and there are vegetarian pies. Our [classic British food guide](/articles/classic-british-food-london/) covers the other pies.
 
 **Tour:** None of the GetYourGuide food tours lists pie and mash, so this one is a visit of its own.
 
@@ -103,7 +103,7 @@ The curry houses on Brick Lane are Bangladeshi. The [Runnymede Trust's history o
 
 Sandwiches, scones with clotted cream and jam, then cakes, over a pot of tea. The custom is credited to Anna, Duchess of Bedford, who around 1840 found the gap between lunch and an eight o'clock dinner too long, according to [Historic UK](https://www.historic-uk.com/CultureUK/Afternoon-Tea/). [The Langham](https://www.palm-court.co.uk/) in Marylebone says it has served afternoon tea in its Palm Court since the hotel opened in 1865.
 
-**Eat it at:** The Palm Court, 1C Portland Place, serves tea from 12.30pm to 4pm on weekdays and to 5pm at weekends, with home-baked scones and Devonshire clotted cream. Book ahead. Our [afternoon tea guide](/articles/best-afternoon-tea-london/) ranks the other rooms.
+**Eat it at:** The Palm Court, 1C Portland Place, serves tea from 12.30pm to 4pm on weekdays and to 5pm at weekends, with home-baked scones and Devonshire clotted cream. The dress code is smart casual, with no sportswear or flip-flops. There are vegan, vegetarian and gluten-free menus and a children's tea for ages 12 and under. Book ahead. Our [afternoon tea guide](/articles/best-afternoon-tea-london/) ranks the other rooms.
 
 **Tour:** To make the scones yourself, the one-hour workshop near Camden Market ends with them warm from the oven. For tea on a moving bus, the [afternoon tea bus tours](/articles/afternoon-tea-bus-tours-london/) are compared on their own page.
 
@@ -136,7 +136,7 @@ Fried fish came to London with Jewish immigrants. The earliest recorded shop to 
 ![A plate of battered fish and thick chips with tartare sauce, lemon and parsley, on a table set for two at Poppies in Spitalfields](../../assets/articles/london-foods-worth-travelling-for/poppies-fish-and-chips.jpg)
 *Fish and chips at Poppies, Spitalfields. Photo: [Platdujour](https://commons.wikimedia.org/wiki/File:Fish_and_Chips_at_Poppies_Restaurant_Spitalfields_London_UK.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**Eat it at:** [Poppies](https://poppiesfishandchips.co.uk/poppies-spitalfields/), 6-8 Hanbury Street in Spitalfields, the first Poppies and done out as a retro diner, open daily from 11am to 10pm. In Marylebone, the [Golden Hind](https://www.goldenhindrestaurant.com/about-us-the-golden-hind-fish-chips-restaurant-marylebone-london/) at 71a-73 Marylebone Lane says it has traded in the area since 1914. It serves lunch and dinner Monday to Saturday, and on Sunday from noon to 7.30pm. Our [fish and chips guide](/articles/best-fish-and-chips-london/) ranks both, with Poppies named by eight sources and the Golden Hind by seven.
+**Eat it at:** [Poppies](https://poppiesfishandchips.co.uk/poppies-spitalfields/), 6-8 Hanbury Street in Spitalfields, the first Poppies and done out as a retro diner, open 11am to 10pm Sunday to Wednesday and to 11pm Thursday to Saturday. Haddock and chips is £20.99 and cod £21.99 on its menu, or £24 and £25.50 for a large. In Marylebone, the [Golden Hind](https://www.goldenhindrestaurant.com/about-us-the-golden-hind-fish-chips-restaurant-marylebone-london/) at 71a-73 Marylebone Lane says it has traded in the area since 1914. It is open noon to 3.30pm and 6pm to 10.30pm Monday to Saturday, and noon to 7.30pm on Sunday, with fried cod or haddock and chips at £21.95 at lunch and £24.95 at dinner. Our [fish and chips guide](/articles/best-fish-and-chips-london/) ranks both, with Poppies named by eight sources and the Golden Hind by seven.
 
 **Tour:** The East End tour above includes fish and chips from Poppies, and the Borough Market tour includes an award-winning chippy.
 
@@ -144,7 +144,7 @@ Fried fish came to London with Jewish immigrants. The earliest recorded shop to 
 
 Roast beef or another joint, roast potatoes, vegetables, gravy and a Yorkshire pudding, eaten at lunchtime on Sunday. Hannah Glasse's cookery book of 1747 gives a recipe for "a Yorkshire pudding": a batter of milk, eggs and flour, cooked under the roasting meat in the dripping, according to the [Foods of England](https://foodsofengland.info/yorkshirepudding.html) archive.
 
-**Eat it at:** [The Devonshire](https://www.devonshiresoho.co.uk/), 17 Denman Street, Soho, which our [Sunday roast guide](/articles/best-sunday-roast-london/) ranks first, named by six sources. Sunday lunch is served from 12pm to 4pm and is the only lunch menu that day. Tables in the restaurant are released every Thursday at 10.30am for the next three weeks, and the ground-floor pub does not take bookings.
+**Eat it at:** [The Devonshire](https://www.devonshiresoho.co.uk/), 17 Denman Street, Soho, which our [Sunday roast guide](/articles/best-sunday-roast-london/) ranks first, named by six sources. Sunday lunch is served from 12pm to 4pm and is the only lunch menu that day; the roast rib of beef is £33, with a 12.5 per cent service charge added. Tables in the restaurant are released every Thursday at 10.30am for the next three weeks, and the ground-floor pub does not take bookings.
 
 **Tour:** None.
 
@@ -152,7 +152,7 @@ Roast beef or another joint, roast potatoes, vegetables, gravy and a Yorkshire p
 
 Roast duck with crisp skin, hung in restaurant windows along Gerrard Street. London's first Chinatown was in Limehouse, serving Chinese sailors; the Second World War bombing hit the area, and [Wikipedia](https://en.wikipedia.org/wiki/Chinatown,_London) reports that the present Chinatown around Gerrard Street was not widely recognised until the 1970s, with the first restaurants on Lisle Street.
 
-**Eat it at:** [Four Seasons](https://www.fs-restaurants.co.uk/chinatown-gerrard-street), 12 Gerrard Street. The chain's own site says it began in Queensway in 1990 and introduced London to its roast duck then, and that the birds are on display in the window. Hours are 12pm to 11pm Monday to Thursday, to 11.30pm Friday and Saturday, and 11am to 10pm on Sunday. For the streets around it, see our [Soho and Chinatown walk](/articles/soho-chinatown-walk/).
+**Eat it at:** [Four Seasons](https://www.fs-restaurants.co.uk/chinatown-gerrard-street), 12 Gerrard Street. The chain's own site says it began in Queensway in 1990 and introduced London to its roast duck then, and that the birds are on display in the window. The à la carte menu lists roast duck at £23.50 a half and £36.80 whole. Hours are 12pm to 11pm Monday to Thursday, to 11.30pm Friday and Saturday, and 11am to 10pm on Sunday. For the streets around it, see our [Soho and Chinatown walk](/articles/soho-chinatown-walk/).
 
 **Tour:** The Soho and Chinatown tour serves a set menu of Mediterranean, Indian, Chinese and British food at pre-booked tables, so dietary needs have to be settled with the operator first. It tastes Chinese flavours but does not list roast duck.
 
@@ -165,7 +165,7 @@ Brixton's Caribbean food follows its settlement. [Brixton Village's own history]
 ![Paper lanterns hung under the glazed roof of Brixton Village arcade, with food counters and shoppers below](../../assets/articles/london-foods-worth-travelling-for/brixton-village-arcade.jpg)
 *Inside Brixton Village arcade. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:Brixton_Village_2024-06-29.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-**Eat it at:** [Fish, Wings & Tings](https://fishwingsandtings.co.uk/), Brixton Village, 3 Granville Arcade, Coldharbour Lane. Its Trinidadian owner, Brian Danclair, cooks Caribbean street food, and our [Caribbean restaurants guide](/articles/best-caribbean-restaurants-london/) names it in seven sources, for its doubles and aloo pies.
+**Eat it at:** [Fish, Wings & Tings](https://fishwingsandtings.co.uk/), Brixton Village, 3 Granville Arcade, Coldharbour Lane. Its Trinidadian owner, Brian Danclair, cooks Caribbean street food, and our [Caribbean restaurants guide](/articles/best-caribbean-restaurants-london/) names it in seven sources, for its doubles and aloo pies. The menu runs to rotis, jerk chicken, curried chicken, curry mutton, stew oxtail and Creole fish stew, with no nuts in any dish. Brixton Village is open 8am to 6pm on Mondays and 8am to midnight Tuesday to Sunday, and there is outdoor seating in its courtyard.
 
 **Tour:** Obi's African and Caribbean food tour walks through Brixton with the area's history.
 
