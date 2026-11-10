@@ -3,7 +3,7 @@ title: "Bicester Village from London: Train, Coach and Tour Options"
 seoTitle: "Bicester Village from London: Train, Coach and Tours"
 description: "Getting to Bicester Village from London: the 56-minute Chiltern train from Marylebone, the £45 Shopping Express coach with its pick-up points and times, and the GetYourGuide trips, including private cars and Oxford combinations."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -54,6 +54,26 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 | GetYourGuide shopping trip | From £45 | 8 hours | A day trip with a VIP discount in the listing |
 | Private car with a driver | From £450 for the group | 7 to 12 hours | Door to door, priced per vehicle |
 
+## At the Village
+
+Bicester Village opened in April 1995 and is a pedestrianised, open-air village of more than 150 boutiques. The brands run from Burberry, Dior, Gucci and Prada to Barbour, Jo Malone London, Dyson, Le Creuset, The North Face and Fortnum & Mason. It is at 50 Pingle Drive, Bicester, OX26 6WD, open 9am to 9pm every day, with free parking and a playground.
+
+![A paved walkway between planted willow and flower beds at Bicester Village, with a Coach boutique ahead and a wooden signpost pointing to food](../../assets/articles/bicester-village-day-trip/bicester-village-walkway.jpg)
+*A planted walkway at Bicester Village. Photo: [Peter Trimming](https://commons.wikimedia.org/wiki/File:Bicester_Village_-_geograph.org.uk_-_5800337.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
+The Village's offers page claims up to 40% off the original retail price every day, on selected lines in participating boutiques, with some brands showing more. Its Black Friday event runs from 12 to 30 November 2026 at up to 50% off. The Christmas programme of lights and snow runs from 5 November 2026.
+
+**Food.** Cecconi's serves Italian dishes and breakfast until 11.15am. It takes bookings for breakfast and dinner and is walk-in only at lunch. Ottolenghi is open 8.30am to 7pm. Others include The Double Red Duke, La Tua Pasta, Shan Shui, Ladurée, Pret A Manger and Itsu.
+
+**Services.**
+* The Guest Concierge and the Train Station Information Hub handle luggage: bag drop is £10.
+* Hands-free shopping, where staff collect your purchases for pick-up when you leave, is £35, and free for members at level 3 and above.
+* All boutiques are wheelchair accessible, and the Guest Concierge lends wheelchairs subject to availability; email Enquiry@BicesterVillage.com to reserve one. Accessible toilets are in all seven washrooms.
+* Well-behaved dogs are allowed on a short lead, and each boutique and restaurant decides whether to admit them. Assistance dogs are welcome.
+
+![Christmas lights across the gables of a corner building at Bicester Village at dusk, with shoppers below](../../assets/articles/bicester-village-day-trip/bicester-village-christmas-lights.jpg)
+*Christmas lights at Bicester Village. Photo: [P L Chadwick](https://commons.wikimedia.org/wiki/File:Christmas_at_Bicester_Village_Outlet_Shopping_Centre_%281%29,_Pingle_Drive,_Bicester_-_geograph.org.uk_-_2707277.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 ## By train from Marylebone
 
 Chiltern Railways says Bicester Village is 56 minutes from London Marylebone, and the Village says its own station is on site, with a short, signposted walk into the Village. Contactless and Oyster cards are not valid on this route, so buy a ticket. If your ticket is for Bicester North, a shuttle bus runs to the Village and is free with a ticket marked Bicester North or Bicester Village. The Village says its hosts staff a kiosk in Marylebone station from 8.45am to 4.30pm every day, and Marylebone is on the Bakerloo line.
@@ -81,13 +101,6 @@ The Village says it never sells VIP cards, and that cards sold online are invali
 A private car costs by the vehicle, not by the person, and none of these has enough reviews to rate. **£450 for up to four people** buys a seven-hour trip or a 12-hour trip. **£1,920 for up to six** is the eight-hour VIP tour. To add Oxford, **£634 for up to four** covers a 10-hour return trip; **£750 for up to six** is a Mercedes V-Class day with Oxford and the Village; and **£1,050 for up to three** is a 12-hour day. Our [Oxford guide](/articles/oxford-day-trip/) has the colleges and what they charge.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="bicester-village-day-trip-trips" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="867896,1383633,1559060"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-## At the Village
-
-The Village is at 50 Pingle Drive, Bicester, OX26 6WD, with free parking for drivers, a left-luggage drop at the Train Station Information Hub and a playground. Its site shows 9am to 9pm and says it is open seven days a week. Its site says a Christmas programme of lights and snow starts on 5 November.
-
-![Christmas lights across the gables of a corner building at Bicester Village at dusk, with shoppers below](../../assets/articles/bicester-village-day-trip/bicester-village-christmas-lights.jpg)
-*Christmas lights at Bicester Village. Photo: [P L Chadwick](https://commons.wikimedia.org/wiki/File:Christmas_at_Bicester_Village_Outlet_Shopping_Centre_%281%29,_Pingle_Drive,_Bicester_-_geograph.org.uk_-_2707277.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ## Tax-free shopping
 
