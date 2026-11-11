@@ -49,7 +49,7 @@ for (const r of rows) {
   }
   if (!o.slug || !o.name) continue;
   const aff = hotelAffiliate(o);
-  if (aff) { o.affiliateUrl = aff.url; o.affiliateNetwork = aff.network; }
+  if (aff) { o.affiliateUrl = aff.url; o.affiliateNetwork = aff.network; o.affiliateMerchant = aff.merchant; }
   out.push(o);
 }
 
@@ -77,8 +77,9 @@ console.log(`  types: ${Object.entries(byType).map(([k, v]) => `${k} ${v}`).join
 
 const live = enabledHotelProgrammes();
 const linked = out.filter((h) => h.affiliateUrl).length;
+const viaBooking = out.filter((h) => h.affiliateMerchant === "Booking.com").length;
 if (live.length) {
-  console.log(`  affiliate programmes enabled: ${live.join(", ")} - ${linked} of ${out.length} rows linked`);
+  console.log(`  affiliate programmes enabled: ${live.join(", ")} - ${linked} of ${out.length} rows linked (${viaBooking} via Booking.com, the rest Hotels.com)`);
 } else {
   console.log(`  NO AFFILIATE PROGRAMMES ENABLED - 0 rows linked.`);
   console.log(`    This is the shipped default. To switch one on: join it, then in`);

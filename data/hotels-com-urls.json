@@ -596,5 +596,153 @@
  "cheval-gloucester-park": {
   "url": "https://uk.hotels.com/h7822670.Hotel-Information",
   "note": "Resolved 2026-09-25 via Hotels.com typeahead: Cheval Gloucester Park at Kensington, Ashburn Place."
+ },
+ "citizenm-london-shoreditch": {
+  "url": "https://uk.hotels.com/ho510497376/citizenm-london-shoreditch-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "london-bridge-hotel": {
+  "url": "https://uk.hotels.com/ho4711616/london-bridge-hotel/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "point-a-kings-cross": {
+  "url": "https://uk.hotels.com/ho410470/point-a-hotel-london-kings-cross-st-pancras-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "staycity-deptford-bridge": {
+  "url": "https://uk.hotels.com/ho448740/staycity-aparthotels-deptford-bridge-station-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "staycity-greenwich-high-road": {
+  "url": "https://uk.hotels.com/ho448739/staycity-aparthotels-greenwich-high-road-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-resident-soho": {
+  "url": "https://uk.hotels.com/ho465894/the-resident-soho-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-tower-hotel": {
+  "url": "https://uk.hotels.com/ho224174/the-tower-hotel-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-victoria-inn-peckham": {
+  "url": "https://uk.hotels.com/ho126966176/the-victoria-inn-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "z-hotel-soho": {
+  "url": "https://uk.hotels.com/ho154280320/the-z-hotel-soho/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "boundary-shoreditch": {
+  "url": "https://uk.hotels.com/ho91221728/boundary-london-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "hart-shoreditch": {
+  "url": "https://uk.hotels.com/ho1269628640/hart-shoreditch-hotel-london-curio-collection-by-hilton-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "hazlitts": {
+  "url": "https://uk.hotels.com/ho198718/hazlitt-s-hotel-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "henrietta-experimental": {
+  "url": "https://uk.hotels.com/ho672281/the-henrietta-hotel-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "karma-sanctum-soho": {
+  "url": "https://uk.hotels.com/ho311943/karma-sanctum-soho-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "mimis-hotel-soho": {
+  "url": "https://uk.hotels.com/ho646472/mimi-s-hotel-soho-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "number-sixteen": {
+  "url": "https://uk.hotels.com/ho481123/number-sixteen-hotel-firmdale-hotels-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "pullman-london-st-pancras": {
+  "url": "https://uk.hotels.com/ho171220/pullman-london-st-pancras-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "sunborn-london": {
+  "url": "https://uk.hotels.com/ho463416/sunborn-london-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "supercity-chronicle": {
+  "url": "https://uk.hotels.com/ho978187744/the-chronicle-by-supercity-aparthotels-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-gore-london": {
+  "url": "https://uk.hotels.com/ho108803/the-gore-london-starhotels-collezione-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-kensington-hotel": {
+  "url": "https://uk.hotels.com/ho182801/the-kensington-hotel-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-lalit-london": {
+  "url": "https://uk.hotels.com/ho666176/the-lalit-london-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-megaro": {
+  "url": "https://uk.hotels.com/ho317515/megaro-hotel-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-mitre-hampton-court": {
+  "url": "https://uk.hotels.com/ho398856/the-mitre-hotel-hampton-court-east-molesey-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-newman": {
+  "url": "https://uk.hotels.com/ho3380243776/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-petersham-hotel": {
+  "url": "https://uk.hotels.com/ho606011/petersham-hotel-richmond-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "supercity-rosebery": {
+  "url": "https://uk.hotels.com/ho875839968/the-rosebery-by-supercity-aparthotels-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-standard-london": {
+  "url": "https://uk.hotels.com/ho1118697024/the-standard-london-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "covent-garden-hotel": {
+  "url": "https://uk.hotels.com/ho481100/covent-garden-hotel-firmdale-hotels-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "fulham-pier-hotel": {
+  "url": "https://uk.hotels.com/ho3967301504/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "nomad-london": {
+  "url": "https://uk.hotels.com/ho1919200096/nomad-london-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "one-aldwych": {
+  "url": "https://uk.hotels.com/ho141466/one-aldwych-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "st-pancras-renaissance": {
+  "url": "https://uk.hotels.com/ho360456/st-pancras-renaissance-hotel-london-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-london-edition": {
+  "url": "https://uk.hotels.com/ho129344/the-london-edition-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-londoner": {
+  "url": "https://uk.hotels.com/ho1468658720/the-londoner-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "the-milestone-hotel": {
+  "url": "https://uk.hotels.com/ho129112/the-milestone-hotel-london-united-kingdom/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
+ },
+ "zedwell-leicester-place-capsule": {
+  "url": "https://uk.hotels.com/ho4293864032/leicester-place-capsule-hotel/",
+  "note": "Found 11 Nov 2026 through the uk.hotels.com typeahead; the property page title and slug name this hotel."
  }
 }

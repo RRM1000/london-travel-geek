@@ -170,7 +170,7 @@ export default function remarkHotelLinks() {
         ...(node.data.hProperties || {}),
         target: "_blank",
         rel: isAffiliate ? "sponsored nofollow noopener" : "nofollow noopener",
-        ...(isAffiliate ? { "data-affiliate": h.affiliateNetwork || "" } : {}),
+        ...(isAffiliate ? { "data-affiliate": h.affiliateNetwork || "", ...(h.affiliateMerchant ? { "data-merchant": h.affiliateMerchant } : {}) } : {}),
         class: "hotel-link",
       };
 

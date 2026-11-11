@@ -261,7 +261,7 @@ Inside, the **British Airways West Fan Village** needs a match ticket and its ow
 
 ## Where to stay
 
-**[Radisson RED London Twickenham](https://www.radissonhotels.com/en-us/hotels/london-twickenham-stadium)** is the one hotel at the stadium, built into the **South Stand**, with suites overlooking the pitch. Guest parking is free on **non-event days**; on an event day, ask the hotel (**020 8891 8200**).
+**[Radisson RED London Twickenham](hotelscom:313923)** is the one hotel at the stadium, built into the **South Stand**, with suites overlooking the pitch. Guest parking is free on **non-event days**; on an event day, ask the hotel (**020 8891 8200**).
 
 Otherwise **Richmond** has the nearest choice of rooms, one free shuttle ride away. **[Bingham Riverhouse](hotel:bingham-riverhouse)** is a Georgian townhouse on the Thames at 61–63 Petersham Road, with a restaurant; lift access is limited. Staying on the Waterloo line works too, since the trains to Twickenham leave from Waterloo: [ibis London Blackfriars](hotel:ibis-london-blackfriars) is a short stroll from Southwark and Waterloo stations, with 297 rooms and air conditioning throughout. See our [Richmond area guide](/articles/richmond-area-guide/), or [where to stay in London](/articles/best-areas-to-stay-in-london/) if you'd rather stay central and travel out on the day.
 

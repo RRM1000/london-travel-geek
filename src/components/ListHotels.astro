@@ -34,7 +34,7 @@ type Hotel = {
   roomTypes?: string; accessibility?: string;
   whyGo?: string; opNote?: string; lists?: string[];
   website?: string; bookingUrl?: string;
-  affiliateUrl?: string; affiliateNetwork?: string;
+  affiliateUrl?: string; affiliateNetwork?: string; affiliateMerchant?: string;
 };
 
 const TYPE_LABEL: Record<string, string> = {
@@ -130,7 +130,7 @@ const hasAffiliate = rows.some((h) => h.affiliateUrl);
               )}
               {!h.bookingUrl && h.affiliateUrl && (
                 <a href={h.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={h.affiliateNetwork}>
-                  Check prices<span class="ah-ad">ad</span>
+                  {h.affiliateMerchant === "Booking.com" ? "Check prices on Booking.com" : "Check prices"}<span class="ah-ad">ad</span>
                 </a>
               )}
               {h.website && !h.bookingUrl && (
