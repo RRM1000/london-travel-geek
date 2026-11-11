@@ -44,7 +44,7 @@ Half a million £1 tickets get people through the gate; the ice rink is £19.25 
 - **Dates:** 19 November 2026 – 3 January 2027. **Closed Christmas Day only.**
 - **1 December:** closed to the public until 2pm for Winter Wishes, a free low-sensory morning for invited groups.
 - **Hours:** closes **10pm** every night, **last entry 21:30**. Most days open 10am, but a long list of quieter dates open at 11am or noon.
-- **Entry:** **£1 / £5.50 / £8.25** in advance, booking fees included. More on the door. [Tickets are on the event's See Tickets shop](https://winterwonderland.seetickets.com/winterwonderland/).
+- **Entry:** **£1 / £5.50 / £8.25** in advance, booking fees included. More on the door. Tickets are on the event's [See Tickets shop](https://winterwonderland.seetickets.com/winterwonderland/) and [London Box Office](https://www.londonboxoffice.co.uk/hyde-park-winter-wonderland-tickets).
 - **The money trick:** spend **£25 online in one transaction** and entry is free.
 - **Quietest:** Monday to Wednesday daytime, late November, which is also the cheapest.
 - **Free inside:** Santa's Grotto, all live music, the Christmas Market, the light arches, every bar to walk into.
@@ -389,7 +389,7 @@ The trade-off is daylight, and the lighting is much of the appeal. A mid-afterno
 
 ### Booking ahead
 
-Peak slots sell out in advance, and advance pricing ends at 23:59 the day before. December weekends are the ones that go. Entry, rides, passes and packages are all sold on the event's [See Tickets shop](https://winterwonderland.seetickets.com/winterwonderland/).
+Peak slots sell out in advance, and advance pricing ends at 23:59 the day before. December weekends are the ones that go. Entry, rides, passes and packages are all sold on the event's [See Tickets shop](https://winterwonderland.seetickets.com/winterwonderland/); entry tickets are also sold by [London Box Office](https://www.londonboxoffice.co.uk/hyde-park-winter-wonderland-tickets).
 
 ---
 
