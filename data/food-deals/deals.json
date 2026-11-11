@@ -3339,7 +3339,7 @@
   "conditions": "Check individual restaurants for availability and timings",
   "branches": "most branches",
   "endDate": null,
-  "sourceUrl": "https://thehawksmoor.com/set-menus/",
+  "sourceUrl": "https://thehawksmoor.com/",
   "checked": "2026-11-11",
   "quote": "Early evening set menu 2/3 courses for £26/£30"
  },
@@ -3883,7 +3883,7 @@
   "conditions": "Check individual restaurants for availability and timings",
   "branches": "most branches",
   "endDate": null,
-  "sourceUrl": "https://thehawksmoor.com/set-menus/",
+  "sourceUrl": "https://thehawksmoor.com/",
   "checked": "2026-11-11",
   "quote": "Lunch set menu 1/2/3 courses for £21/£26/£30"
  },
