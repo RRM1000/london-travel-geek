@@ -5,7 +5,7 @@ description: "The New Year's Day Parade, Winter Wonderland closing and the rinks
 heroImage: "../../assets/articles/things-to-do-in-london-in-january/winter-lights-canary-wharf-installation.jpg"
 heroImageAlt: "A ring of mirrored panels framed in purple light at Winter Lights, Canary Wharf, with visitors standing around it below lit office windows"
 publishedAt: 2026-11-04
-updatedAt: 2026-11-04
+updatedAt: 2026-11-11
 reviewBy: 2026-12-15
 sites: [london]
 canonicalSite: london
@@ -77,7 +77,7 @@ Most of the festive attractions run to the first weekend, so plan them for 1 to 
 
 ### Winter Wonderland — to Sunday 3 January
 
-**Hyde Park Winter Wonderland closes on Sunday 3 January with a Family Fun Day.** It is open every day to then, with a timed ticket, and it closes at 10pm. On 28 December to 1 January the gates open at 11am; on the 2nd and 3rd they open at 10am. The [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices.
+**Hyde Park Winter Wonderland closes on Sunday 3 January with a Family Fun Day.** It is open every day to then, with a timed ticket, and it closes at 10pm. On 28 December to 1 January the gates open at 11am; on the 2nd and 3rd they open at 10am. The [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices, and tickets are on the event's [See Tickets shop](https://winterwonderland.seetickets.com/winterwonderland/).
 
 ### Light trails, rinks and markets
 
@@ -92,7 +92,7 @@ Most of the festive attractions run to the first weekend, so plan them for 1 to 
 | Alexandra Palace Festive Skate | Mon 4 Jan | An indoor rink under a Christmas tree, on [Alexandra Palace's page](https://www.alexandrapalace.com/whats-on/festive-skate/). |
 | Skate at Somerset House | Sun 10 Jan | The courtyard rink, with adults £13 to £28.50 and children £11 to £15 plus a £1.50 fee per ticket. [Somerset House](https://www.somersethouse.org.uk/whats-on/skate-somerset-house) sells the tickets. |
 
-Every rink, price and children's rule is in our [ice skating guide](/articles/ice-skating-london/), and the rest of the Christmas run is in [Christmas in London](/articles/christmas-in-london/).
+Dates and hours for the chalet markets are in our [Christmas markets guide](/articles/christmas-markets-london/). Every rink, price and children's rule is in our [ice skating guide](/articles/ice-skating-london/), and the rest of the Christmas run is in [Christmas in London](/articles/christmas-in-london/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-january-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -138,6 +138,8 @@ Each show is booked through its own venue, linked from the [MimeLondon site](htt
 
 **Official London Theatre's New Year Sale launches on 5 January**, with special offers, exclusive ticket prices and dining deals across West End shows. The Society of London Theatre runs it, and the [New Year Sale page](https://officiallondontheatre.com/new-year-sale/) is where the offers appear. Our [London theatre guide](/articles/london-theatre-guide/) covers choosing a show.
 
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-january-west-end-theatre" data-gyg-partner-id="WWP7I0R" data-gyg-q="West End theatre"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
 ### Opening in January
 
 - **English National Ballet's Romeo & Juliet**, London Coliseum, 14 to 24 January. It runs 2 hours 55 minutes with two intervals and is for ages 10 and over; tickets are from £28. [English National Ballet](https://www.ballet.org.uk/production/romeo-juliet/).
@@ -152,6 +154,8 @@ Each show is booked through its own venue, linked from the [MimeLondon site](htt
 **The Royal Ballet's Nutcracker ends at the Royal Opera House on Wednesday 13 January**, and **Matthew Bourne's Cinderella ends at Sadler's Wells on Sunday 17 January**. **English National Ballet's Nutcracker at the London Coliseum finishes on Sunday 10 January**, and **A Christmas Carol Goes Wrong at Wyndham's Theatre runs to 23 January**. **The London Palladium's Cinderella pantomime runs to 10 January**, and Cirque Alice at the Royal Festival Hall ends on 3 January. Dates, prices and age guidance for all of them are in our [Christmas shows guide](/articles/christmas-shows-london/).
 
 Other productions end in the first fortnight: **Into the Woods** at the Noël Coward Theatre and **Jesus Christ Superstar** at Theatre Royal Drury Lane both close on 9 January, and Beetlejuice at the Prince Edward Theatre closes on 2 January, with Dirty Dancing taking over the theatre.
+
+For a West End base, [Strand Palace](hotel:strand-palace) has nearly 800 rooms on the Strand between Covent Garden and the river, and [The Z Hotel Covent Garden](hotel:z-hotel-covent-garden) has small rooms on Orange Street; its cheapest have no window.
 
 <div data-stay-strip></div>
 
