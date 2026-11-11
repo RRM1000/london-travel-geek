@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Trafalgar_Square_Christ
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-09-27
-updatedAt: 2026-11-09
+updatedAt: 2026-11-11
 reviewBy: 2026-11-13
 sites: [london]
 canonicalSite: london
@@ -35,7 +35,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 > 💡 **The Short Version:** **Go to the Southbank Centre Winter Market for food** (open since **2 November**, beside the river, **cash-free**), or **Leicester Square for chalets round an ice rink** (open since **31 October**). Both run to 3 January. **For the biggest, Hyde Park Winter Wonderland** opens **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City opens **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross opens **20 November**, and **Crafty Fox** has dates from the British Library on **14–15 November** to King's Cross on **12–13 December**.
 
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas shows and pantomimes](/articles/christmas-shows-london/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
 *Dates, hours and prices as at 9 November 2026.*
 
@@ -175,7 +175,7 @@ Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked a
 
 **Winter Wonderland has a Christmas market of 60-plus traders beside the ice rink, best reached through the Blue Gate at Hyde Park Corner**, plus more stalls along Luminarie Lane and a weekend artisan market in Market Square. It runs **19 November 2026 to 3 January 2027**, closed only on Christmas Day, until 10pm.
 
-**The market is free once you are inside, but getting inside is not:** everyone needs a timed entry ticket, **£1 off-peak, £5.50 standard or £8.25 peak** in advance. Every price, gate and quiet time is in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/).
+**The market is free once you are inside, but getting inside is not:** everyone needs a timed entry ticket, **£1 off-peak, £5.50 standard or £8.25 peak** in advance, sold on the event's [See Tickets shop](https://winterwonderland.seetickets.com/winterwonderland/). Every price, gate and quiet time is in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/).
 
 ![Wooden chalets and a garlanded maypole in Winter Wonderland's Bavarian village on a sunny morning, with the giant wheel and a thrill ride behind and a bratwurst stall on the right](../../assets/articles/christmas-markets-london/hyde-park-winter-wonderland.jpg)
 
@@ -188,6 +188,22 @@ Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked a
 The <a href="https://www.getyourguide.com/activity/-t317907?partner_id=WWP7I0R&amp;cmp=christmas-markets-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Christmas Lights & Bites Tour</a> meets at Embankment, walks through Covent Garden and Trafalgar Square and finishes at the Southbank market: **2.5 hours for £99**, with mulled wine, spiced cider or hot chocolate and snacks on the way. The same route on your own costs nothing and is about half an hour's walking.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="317907" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+Other guided routes, including a family tour that ends at Westminster Abbey:
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-markets-london-guided-routes" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="1063222,1132970,1556690"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+---
+
+## Where to stay for the central markets
+
+Three hotels between Covent Garden and the South Bank:
+
+- **[Strand Palace](hotel:strand-palace)** has nearly 800 rooms on the Strand, between Covent Garden and the river, with an art deco frontage from its 1909 opening.
+- **[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** gives a Covent Garden address with deliberately small rooms. The cheapest have no window and are sold as "Inside" rooms, so pay up a grade unless you do not mind.
+- **[citizenM London Bankside](hotel:citizenm-bankside)** is on the South Bank side, with one room type and small rooms.
+
+More areas are in [where to stay in London](/articles/best-areas-to-stay-in-london/).
 
 ---
 
@@ -265,7 +281,7 @@ More in the [Battersea area guide](/articles/battersea-area-guide/).
 - **Price:** **£8 booked in advance, £10 on the door**; free for Friends of the Garden.
 - **Where:** 66 Royal Hospital Road, SW3 4HS. Sloane Square is about 15 minutes' walk.
 
-Book early for the lower price. Our [Chelsea area guide](/articles/chelsea-area-guide/) has the rest of the neighbourhood.
+Book early for the lower price: the [garden's fair page](https://www.chelseaphysicgarden.co.uk/visit/whats-on/christmas-fair/) links to its tickets. Our [Chelsea area guide](/articles/chelsea-area-guide/) has the rest of the neighbourhood.
 
 ---
 
@@ -291,6 +307,6 @@ Three ticketed shopping fairs run under glass roofs in November.
 
 **Old Spitalfields**, **Camden** and **Canopy Market** at King's Cross trade all year and add Christmas to what is already there without building a Christmas market. Days, hours and what each is for are in our [best London markets](/articles/best-london-markets/) guide. For gifts from shops rather than stalls, with Christmas dates and prices, see [gifts and souvenirs from London](/articles/london-gifts-souvenirs/).
 
-**Carrying on:** the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market.
+**Carrying on:** the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market. Most chalet markets close on 3 January; what stays open after that is in [things to do in London in January](/articles/things-to-do-in-london-in-january/).
 
 <div data-submit-event></div>
