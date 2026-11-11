@@ -37,6 +37,8 @@ Cabaret runs on short leases, small rooms and thin margins; the closed venues ar
 
 > 💡 **The Short Version:** **Bethnal Green Working Men's Club** is the one to go to first, because its owners intend to sell it. **Crazy Coqs** is an Art Deco basement cabaret room. **Underbelly Boulevard** runs several shows a night. **The Royal Vauxhall Tavern** is £8 and **CellarDoor is free.** **The London Cabaret Club** is the full dinner-show production. And **the entire Proud operation and The Glory have closed** — do not let an old listicle send you to either.
 
+*Every venue status-checked against its own website on 1 September 2026.*
+
 ---
 
 ## Still open, at a glance
@@ -79,6 +81,10 @@ Cabaret runs on short leases, small rooms and thin margins; the closed venues ar
 
 ### Bethnal Green Working Men's Club
 
+![Bethnal Green Working Men's Club in London](../../assets/articles/best-cabaret-london/bethnal-green-working-mens-club.jpg)
+
+*Bethnal Green Working Men's Club.*
+
 *42–46 Pollard Row, E2 6NB · Bethnal Green · standing*
 
 **The venue's own campaign line is "WE ARE OPEN, THE FIGHT IS ON" and "COME TO OUR EVENTS WHILE YOU CAN."**
@@ -97,6 +103,10 @@ Seated, ticketed, and built for watching turns rather than dancing.
 
 ### Crazy Coqs, Brasserie Zédel
 
+![Crazy Coqs in London](../../assets/articles/best-cabaret-london/crazy-coqs.jpg)
+
+*Crazy Coqs.*
+
 *20 Sherwood Street, W1F 7ED · Piccadilly Circus · seated at tables*
 
 **An Art Deco basement under Brasserie Zédel that books international names**: Ann Hampton Callaway and George Salazar have both played it.
@@ -108,6 +118,10 @@ It is seated at small tables, with cocktails, wine, champagne and snacks served 
 The Black Cat Cabaret is £37.50 full price through the venue's own ticketing system. Email the venue about age restrictions. The room is wheelchair accessible; give advance notice and email seating requests.
 
 ### Underbelly Boulevard Soho
+
+![Underbelly Boulevard Soho in London](../../assets/articles/best-cabaret-london/underbelly-boulevard-soho.jpg)
+
+*Underbelly Boulevard Soho.*
 
 *6 Walker's Court, W1F 0BT · Tottenham Court Road, Leicester Square · seated*
 
@@ -121,6 +135,10 @@ Access: **wheelchair accessible throughout, step-free entry, accessible toilets 
 
 ### Soho Theatre
 
+![Soho Theatre in London](../../assets/articles/best-cabaret-london/soho-theatre.jpg)
+
+*Soho Theatre.*
+
 *21 Dean Street, W1D 3NE · Tottenham Court Road · seated*
 
 **Drag and cabaret acts often play here before a West End run**, and roughly 49 shows are on sale at any one time.
@@ -130,6 +148,10 @@ There are three spaces, and the cabaret room is **Soho Downstairs**, with late s
 **Cabaret and variety tickets run from £16 to £20.** Access provision is strong and clearly stated: **audio-described, BSL, captioned and relaxed performances** are all offered across the programme.
 
 ### Soho Theatre Walthamstow
+
+![Soho Theatre Walthamstow in London](../../assets/articles/best-cabaret-london/soho-theatre-walthamstow.jpg)
+
+*Soho Theatre Walthamstow.*
 
 *186 Hoe Street, E17 4QH · Walthamstow Central · seated*
 
@@ -157,6 +179,10 @@ It is a basement under a listed theatre, so ring ahead if steps are a problem.
 
 ### CellarDoor
 
+![CellarDoor in London](../../assets/articles/best-cabaret-london/cellardoor.jpg)
+
+*CellarDoor.*
+
 *Zero Aldwych, WC2R 0HS · Temple · seated, barely*
 
 **A converted Victorian public lavatory that seats a couple of dozen people, and the only free live cabaret in this guide.**
@@ -177,6 +203,10 @@ Rooms where the building is the draw.
 
 ### The Clapham Grand
 
+![The Clapham Grand in London](../../assets/articles/best-cabaret-london/the-clapham-grand.jpg)
+
+*The Clapham Grand.*
+
 *21–25 St John's Hill, SW11 1TT · Clapham Junction · seated and standing*
 
 **A 1,250-capacity Edwardian variety house.**
@@ -187,6 +217,10 @@ It is a restored variety house from 1900 on several levels, with a mix of seated
 
 ### Wilton's Music Hall
 
+![Wilton's Music Hall in London](../../assets/articles/best-cabaret-london/wiltons-music-hall.jpg)
+
+*Wilton's Music Hall.*
+
 *Graces Alley, E1 8JB · Tower Hill, Shadwell, Aldgate East · seated*
 
 **The oldest surviving grand music hall in the world.**
@@ -196,6 +230,10 @@ The important distinction, and the one that catches people out: **Wilton's progr
 **Its shows sell out**, so book well ahead.
 
 ### Hoxton Hall
+
+![Hoxton Hall in London](../../assets/articles/best-cabaret-london/hoxton-hall.jpg)
+
+*Hoxton Hall.*
 
 *130 Hoxton Street, N1 6SH · Hoxton, Old Street · seated*
 
@@ -213,6 +251,10 @@ Cheap, frequent cabaret.
 
 ### The Divine
 
+![The Divine in London](../../assets/articles/best-cabaret-london/the-divine.jpg)
+
+*The Divine.*
+
 *33 Stoke Newington Road, N16 8BJ · Dalston Kingsland 5 mins · standing*
 
 **The successor to The Glory, and where new drag and cabaret acts get their first London stage.** It opened on **2 February 2024**, two days after The Glory closed, run by the same team — Jonny Woo, John Sizzle and Colin Rothbart — in a 200-capacity space on the former Birthdays and BrewDog site, with a bigger stage and a new light and sound rig than the old room had.
@@ -224,6 +266,10 @@ Cabaret runs on many nights each month. Weekly residencies are **LIPSYNC1000 on 
 **Access is partial.** The ground-floor bar is fully wheelchair accessible with street-level entry, a wide main door and a gender-accessible toilet with key access. **The basement performance space is down 17 steps and is not wheelchair accessible.** The venue says it is not fully accessible and is working on it.
 
 ### Royal Vauxhall Tavern
+
+![Royal Vauxhall Tavern in London](../../assets/articles/best-cabaret-london/royal-vauxhall-tavern.jpg)
+
+*Royal Vauxhall Tavern.*
 
 *372 Kennington Lane, SE11 5HY · Vauxhall · standing, very few seats · 18+*
 
@@ -237,6 +283,10 @@ Access is good: **step-free, wheelchair accessible, and a complimentary ticket f
 
 ### Halfway II Heaven
 
+![Halfway To Heaven in London](../../assets/articles/best-cabaret-london/halfway-ii-heaven.jpg)
+
+*Halfway To Heaven.*
+
 *7 Duncannon Street, WC2N 4JF · Charing Cross · standing*
 
 **A pub with a downstairs cabaret room**, running live cabaret or karaoke **seven nights a week**.
@@ -247,6 +297,10 @@ The week reads: **It's a Knockout on Mondays** 7–10.30pm; **Mother Tucking Tue
 
 ### Freedom Bar Soho
 
+![Freedom Bar in London](../../assets/articles/best-cabaret-london/freedom-bar-soho.jpg)
+
+*Freedom Bar.*
+
 *66 Wardour Street, Soho · Piccadilly Circus, Leicester Square · standing · 21+*
 
 **Open until 3am seven nights a week.**
@@ -256,6 +310,10 @@ The cabaret night specifically is **Monday, which is Kinky Kabaret** — a hoste
 Hours are 4pm to 3am Monday to Friday and Sunday, and 2pm to 3am on Saturday. **The age limit is over-21s**, which is higher than most of this list and catches people out.
 
 ### Dalston Superstore
+
+![Dalston Superstore in London](../../assets/articles/best-cabaret-london/dalston-superstore.jpg)
+
+*Dalston Superstore.*
 
 *117 Kingsland High Street, E8 2PB · Dalston Kingsland · seated and standing*
 
@@ -275,6 +333,10 @@ For jazz suppers, restaurants with a band and drag brunches as well, see [Dinner
 
 ### The London Cabaret Club
 
+![The London Cabaret Club in London](../../assets/articles/best-cabaret-london/the-london-cabaret-club.jpg)
+
+*The London Cabaret Club.*
+
 *Victoria House, Bloomsbury Square, WC1B 4DA · Holborn 4 mins · seated · 7+*
 
 **Built around a full themed production rather than a bill of variety turns.**
@@ -286,6 +348,10 @@ Shows rotate: current productions include All About Gatsby, A Gatsby Christmas a
 **Minimum age 7**, which makes it one of the few cabaret rooms in London that takes children.
 
 ### London Cabaret Collective: The Scarlet Lotus
+
+![London Cabaret Collective in London](../../assets/articles/best-cabaret-london/london-cabaret-collective-the-scarlet-lotus.jpg)
+
+*London Cabaret Collective.*
 
 *194 Piccadilly, W1J 9LN · Piccadilly Circus · seated*
 
@@ -309,11 +375,21 @@ The setting is 1930s New York: **three sets of live jazz** wrapped in theatrical
 
 *Photo: The Lost Estate.*
 
+![CHAT NOIR! in London](../../assets/articles/best-cabaret-london/the-lost-estate-chat-noir.jpg)
+
+*CHAT NOIR!.*
+
+*London W14 9PL · West Kensington, Earl's Court · seated · **ends September 2026***
+
 **The address is issued to ticket holders.** It is in Peckham, so plan your route home.
 
 The same company's **Great Christmas Feast**, its Dickens and *A Christmas Carol* show, runs **6 November to 31 December 2026**, with three courses included in every ticket: Classic Dining from £150, Private Dining from £195 and VIP Dining from £235, plus a £4.85 booking fee.
 
 ### Sarastro
+
+![Sarastro in London](../../assets/articles/best-cabaret-london/sarastro.jpg)
+
+*Sarastro.*
 
 *126 Drury Lane, WC2B 5SU · Covent Garden, Holborn · seated · no ticket*
 
@@ -333,6 +409,10 @@ Jazz rooms that cross into cabaret, all seated, all cheaper than the dinner show
 
 ### Ronnie Scott's: The Late Late Show
 
+![Ronnie Scott's in London](../../assets/articles/best-cabaret-london/ronnie-scotts-the-late-late-show.jpg)
+
+*Ronnie Scott's.*
+
 *47 Frith Street, Soho · Leicester Square, Tottenham Court Road · seated · £12*
 
 **£12 gets you into Ronnie Scott's**, several times less than the main-room shows in the same building.
@@ -342,6 +422,10 @@ It runs **Wednesday to Saturday from 11.15pm** through to around 3am, with a DJ 
 **Most tickets are available on the door** if advance sales have gone.
 
 ### PizzaExpress Live: The Pheasantry
+
+![PizzaExpress in London](../../assets/articles/best-cabaret-london/pizzaexpress-live-the-pheasantry.jpg)
+
+*PizzaExpress.*
 
 *152 King's Road, Chelsea · Sloane Square, South Kensington · seated*
 
@@ -354,6 +438,10 @@ There is **a different act every night of the week**: jazz, cabaret, fado, folk 
 **Sister venues:** the PizzaExpress Jazz Club on Dean Street in Soho, PizzaExpress Live in Holborn, and a newer Piano Lounge at Leicester Square.
 
 ### 606 Club
+
+![606 Club in London](../../assets/articles/best-cabaret-london/606-club.jpg)
+
+*606 Club.*
 
 *90 Lots Road, Chelsea, SW10 0QD · Imperial Wharf, Fulham Broadway · seated*
 
@@ -373,6 +461,10 @@ Two nightclubs that look like cabaret in photographs.
 
 ### The Box Soho
 
+![The Box Soho in London](../../assets/articles/best-cabaret-london/the-box-soho.jpg)
+
+*The Box Soho.*
+
 *11–12 Walker's Court, W1F 0BS · Piccadilly Circus · table service*
 
 **A table-service nightclub.**
@@ -384,6 +476,10 @@ Third-party booking agents quote table minimums of £1,500 for standard and £3,
 It is included because readers searching for burlesque will find it.
 
 ### Cirque le Soir
+
+![Cirque le Soir in London](../../assets/articles/best-cabaret-london/cirque-le-soir.jpg)
+
+*Cirque le Soir.*
 
 *15–21 Ganton Street, W1F 9BN · Oxford Circus, Piccadilly Circus · standing · 19+/20+*
 
@@ -402,18 +498,27 @@ Table reservations are taken only by phone or WhatsApp.
 ### Scrooge: Cirque Extravaganza
 
 *ICC Auditorium, ExCeL London · Prince Regent (DLR) · seated · **23, 24, 27 and 28 December 2026***
+*Garrick Theatre · Leicester Square, Charing Cross · seated · **21–31 October 2026***
 
 **A family show, not a late-night one**: Dickens's *A Christmas Carol* told by an international cast of aerialists, acrobats, fire breathers and a trampoline wall, with a musical-theatre storyline holding it together. The organiser warns of water effects, audience participation, loud noises, strobe lights and pyrotechnics.
 
 **One seat number is drawn at every performance, and its holder wins £1,000 cash on stage** (school matinees excluded). There are seven performances: 6pm on Wednesday 23 December, 11am and 3pm on Thursday 24 December, 1pm and 6pm on Sunday 27 December and 1pm and 5pm on Monday 28 December. Seats are sold in bands; Christmas Eve's Band A is £124.99 and Band B £94.99, each £25 cheaper per ticket for four or more. [Dates and tickets](https://scroogecirque.com/london).
 
 ### Cirque Alice
+![A rider in full leathers and helmet on a motorcycle in front of the steel mesh sphere of the Globe of Death, one arm raised, backlit through stage haze](../../assets/articles/best-cabaret-london/cirque-berserk-globe.jpg)
 
 *Royal Festival Hall · Waterloo, Embankment · seated, with on-stage seats · **12 December 2026 – 3 January 2027***
+*The Globe of Death, which is the act everyone leaves talking about — and the reason theatre seating matters. Photo: Cirque Berserk.*
 
 **The European premiere of an acrobatic *Alice in Wonderland*** from the creators of *Circus 1903*: aerialists, contortionists and puppetry, set to reworked classical hits. It runs about two hours and the producers describe it as suitable for all ages. [Dates and tickets](https://www.southbankcentre.co.uk/whats-on/cirque-alice/).
 
+*Touring London parks · seated · **28 August – 12 October 2026***
+
 ### The Vaults
+
+![The Vaults in London](../../assets/articles/best-cabaret-london/the-vaults.jpg)
+
+*The Vaults.*
 
 *Leake Street, Waterloo · seated and standing*
 
@@ -429,6 +534,10 @@ The tunnels are five minutes from Waterloo; check the specific show, as the rang
 
 ### Cabaret at the Kit Kat Club
 
+![Cabaret at the Kit Kat Club in London](../../assets/articles/best-cabaret-london/cabaret-at-the-kit-kat-club.jpg)
+
+*Cabaret at the Kit Kat Club.*
+
 *Playhouse Theatre, Northumberland Avenue · Embankment, Charing Cross · seated · 13+*
 
 **A musical rather than a variety bill.**
@@ -441,6 +550,10 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 
 ### Magic Mike Live
 
+![Hippodrome in London](../../assets/articles/best-cabaret-london/magic-mike-live.jpg)
+
+*Hippodrome.*
+
 *The Matcham Room, Hippodrome Casino, WC2H 7JH · Leicester Square · seated · 18+*
 
 **A dance and variety show in a 180-seat theatre inside a 24-hour casino.**
@@ -448,6 +561,9 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 The show has returned to its home in the Hippodrome's own theatre, and performance times are more frequent than most: **Wednesday 7pm; Thursday and Friday 7pm and 10pm; Saturday 4pm, 7pm and 10pm; Sunday 4pm and 7pm.** Tickets are **from £42** through official theatre channels — third-party agents quote from £62 for the same seats, so **book through the Hippodrome or an official theatre agent** rather than the first result you find. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1FHAC-magic-mike-live-bp-9/).
 
 ### Three that are not cabaret rooms
+![Duchess Theatre in London](../../assets/articles/best-cabaret-london/three-more-that-listings-still-get-wrong.jpg)
+
+*Duchess Theatre.*
 
 * **Bunga 90**, 167 Drury Lane — **the old Bunga Bunga cabaret no longer exists.** The Covent Garden site closed for a full overhaul and **relaunched as Bunga 90 on 18 September 2025** as a 90s-themed karaoke and pizza bar. Weekend brunch is £52 a head and the pre-theatre menu £26; karaoke room rates are not published. **Standing drinks areas are 21+ for groups.** The Battersea original closed after eleven years when its Wandsworth lease expired.
 * **She Soho**, 23a Old Compton Street — a lesbian and queer women's bar, now under the Ku Bar group, which describes itself as **"event-led, DJ-driven" and does not run a cabaret bill.** Regular nights are Ruby Tuesday, SING! Karaoke and the Sapphic Sunday Quiz.
@@ -510,3 +626,4 @@ The show has returned to its home in the Hippodrome's own theatre, and performan
 ---
 
 *This guide is independent and contains no paid placements.*
+*This guide is independent and contains no paid placements. Every venue was status-checked against its own website or ticketing system on 1 September 2026. Where a price, age limit or access statement is described here as not published, that means the venue itself does not state it — not that it does not exist.*

@@ -88,6 +88,10 @@ There is a separate **Antepliler Künefe & Patisserie** further along Green Lane
 
 ### Gökyüzü, Green Lanes
 
+![Gökyüzü Green Lanes in London](../../assets/articles/best-turkish-restaurants-london/gkyz.jpg)
+
+*Gökyüzü Green Lanes.*
+
 *££ · Harringay · Cited by 4 sources*
 
 Open since 1999. A large, brightly lit, loud room with the grill running its length, and a queue outside most evenings.
@@ -97,6 +101,10 @@ Order the **mixed grill**. It arrives on a platter built for four and feeds six,
 **Walk-in only, open all day and late.** Harringay Green Lanes overground is five minutes; go early evening on a weekday for a quieter room.
 
 ### The Counter, Notting Hill
+
+![The Counter - Notting Hill in London](../../assets/articles/best-turkish-restaurants-london/the-counter.jpg)
+
+*The Counter - Notting Hill.*
 
 *£££ · Notting Hill · Cited by 4 sources*
 
@@ -144,6 +152,10 @@ Walk-in, all day, and calmer at lunch. Harringay Green Lanes is a few minutes aw
 
 ### Köfteci Metin, Green Lanes
 
+![Kofteci Metin London in London](../../assets/articles/best-turkish-restaurants-london/kfteci-metin.jpg)
+
+*Kofteci Metin London.*
+
 *£ · Harringay · Cited by 2 sources*
 
 The name translates as "meatball-maker Metin", and that is the menu. **Köfte and very little else** — a specialist rather than a full ocakbaşı.
@@ -153,6 +165,10 @@ The köfte are hand-rolled and grilled to order, served with bread and salad. It
 **Walk-in and cash-friendly**, about fifteen minutes' walk from Turnpike Lane.
 
 ### Durak Tantuni, Harringay
+
+![Durak Tantuni in London](../../assets/articles/best-turkish-restaurants-london/durak-tantuni.jpg)
+
+*Durak Tantuni.*
 
 *£ · Harringay · Cited by 2 sources*
 
@@ -164,6 +180,10 @@ That is essentially the whole menu. A counter with a handful of seats, with the 
 
 ### Diyarbakır Kitchen, Harringay
 
+![Diyarbakir Kitchen in London](../../assets/articles/best-turkish-restaurants-london/diyarbakr-kitchen.jpg)
+
+*Diyarbakir Kitchen.*
+
 *££ · Harringay · Cited by 3 sources*
 
 An ocakbaşı on Grand Parade, named for the Kurdish city in the south-east, and **entirely teetotal**.
@@ -174,6 +194,10 @@ Walk-in; the menu is broad enough for a mixed group.
 
 ### Enfes Ocakbaşı, Harringay
 
+![Enfes Ocakbasi Haringey in London](../../assets/articles/best-turkish-restaurants-london/enfes-ocakba.jpg)
+
+*Enfes Ocakbasi Haringey.*
+
 *££ · Harringay · Cited by 2 sources*
 
 A brightly lit Green Lanes canteen. The Infatuation calls it a grill master, and both sources naming it lead on the meat.
@@ -183,6 +207,10 @@ Expect **adana, shish, liver and chops**, each cooked to suit the cut. **Grilled
 Loud and walk-in, good for families and groups, and five minutes from Harringay Green Lanes.
 
 ### Haringey Corbacisi, Green Lanes
+
+![Haringey Corbacisi in London](../../assets/articles/best-turkish-restaurants-london/haringey-corbacisi.jpg)
+
+*Haringey Corbacisi.*
 
 *£ · Harringay · Cited by 2 sources*
 
@@ -198,6 +226,10 @@ A *çorbacı* is a soup house. Expect lentil soup, tripe soup and slow-cooked st
 
 ### 19 Numara Bos Cirrik 2, Stoke Newington
 
+![19 Numara Bos Cirrik II in London](../../assets/articles/best-turkish-restaurants-london/19-numara-bos-cirrik-2.jpg)
+
+*19 Numara Bos Cirrik II.*
+
 *££ · Stoke Newington · Cited by 3 sources*
 
 An old-school ocakbaşı. Sources write the name as Cirrik, Cirrik 19 Numara Bos and 19 Numara Bos Cirrik; the numeral refers to the branch, and there are several along the same corridor.
@@ -208,6 +240,10 @@ Walk-in. Pick this over Mangal 1 for a quieter meal.
 
 ### Üstün Lahmacun & Pide Salonu, Newington Green
 
+![Ustun Lahmacun & Pide Salonu in London](../../assets/articles/best-turkish-restaurants-london/stn-lahmacun-pide-salonu.jpg)
+
+*Ustun Lahmacun & Pide Salonu.*
+
 *£ · Newington Green · Cited by 2 sources*
 
 A tiny dedicated **lahmacun and pide shop** at the Newington Green end of Green Lanes, and a *salonu*, not a restaurant: you eat quickly, often standing.
@@ -217,6 +253,10 @@ The dough is kneaded fresh and rolled **to a Rizla-like transparency** before it
 **Made to order, so there is a short wait.** Walk-in.
 
 ### 01 Adana, Newington Green
+
+![01 Adana Restaurant in London](../../assets/articles/best-turkish-restaurants-london/01-adana.jpg)
+
+*01 Adana Restaurant.*
 
 *££ · Newington Green · Cited by 2 sources*
 
@@ -232,6 +272,10 @@ Walk-in, all day.
 
 ### Mangal 1, Dalston
 
+![Mangal 1 in London](../../assets/articles/best-turkish-restaurants-london/mangal-1.jpg)
+
+*Mangal 1.*
+
 *££ · Dalston · Cited by 2 sources*
 
 The original, and a **BYOB ocakbaşı** just off the Dalston strip. The Infatuation calls it a boisterous institution.
@@ -241,6 +285,10 @@ The dining room is usually packed with groups cracking open bottles they brought
 **Bring your own; there is no licence.** Walk-in and loud.
 
 ### Umut 2000, Dalston
+
+![Yeni Umut 2000 Dalston in London](../../assets/articles/best-turkish-restaurants-london/umut-2000.jpg)
+
+*Yeni Umut 2000 Dalston.*
 
 *££ · Kingsland Road · Cited by 2 sources*
 
@@ -258,6 +306,10 @@ The **lamb ribs** are the dish to order: fat rendering over the charcoal, meat p
 
 ### Zahter, Soho
 
+![Zahter in London](../../assets/articles/best-turkish-restaurants-london/zahter.jpg)
+
+*Zahter.*
+
 *£££ · Soho · Cited by 3 sources*
 
 Just off Carnaby Street, with an **open kitchen you can watch the chefs work in**, listed in the Michelin Guide, as is Yeni. Modern Anatolian, not grill-house Turkish.
@@ -267,6 +319,10 @@ The **charcoal-grilled octopus** is the signature. Starters run to aubergine wit
 **Book**, particularly at weekends.
 
 ### Ishtar, Marylebone
+
+![Ishtar in London](../../assets/articles/best-turkish-restaurants-london/ishtar.jpg)
+
+*Ishtar.*
 
 *£££ · Marylebone · Cited by 2 sources*
 
@@ -278,6 +334,10 @@ Modern Anatolian and Mediterranean, not pure grill house: **hummus**, **kısır*
 
 ### Yamabahçe, Marylebone
 
+![Yamabahçe in London](../../assets/articles/best-turkish-restaurants-london/yamabahe.jpg)
+
+*Yamabahçe.*
+
 *££ · Marylebone · Cited by 2 sources*
 
 Between Marylebone and Mayfair, and **priced below its postcode**.
@@ -288,6 +348,10 @@ Counter-style and quick, suited to lunch or an early dinner. Walk-in.
 
 ### Dükkan, Hoxton
 
+![Dükkan. in London](../../assets/articles/best-turkish-restaurants-london/dkkan.jpg)
+
+*Dükkan..*
+
 *££ · Hoxton · Cited by 2 sources*
 
 Not a traditional Turkish restaurant, and **open only on certain days**.
@@ -295,6 +359,10 @@ Not a traditional Turkish restaurant, and **open only on certain days**.
 The cooking works from Turkish and Anatolian technique rather than the ocakbaşı menu: mezze rebuilt with British produce, on a short changing list.
 
 ### The Mantl, Knightsbridge
+
+![The Mantl in London](../../assets/articles/best-turkish-restaurants-london/the-mantl.jpg)
+
+*The Mantl.*
 
 *££££ · Knightsbridge · Cited by 2 sources*
 
@@ -312,6 +380,10 @@ Harden's lists three Turkish restaurants in London, all in the City.
 
 ### Haz, City of London
 
+![HAZ Plantation Place in London](../../assets/articles/best-turkish-restaurants-london/haz.jpg)
+
+*HAZ Plantation Place.*
+
 *££ · City of London · Cited by 2 sources · Harden's*
 
 A small City group that Time Out calls **chic and contemporary**, with branches including Mincing Lane, Plantation Place and Premier Place.
@@ -321,6 +393,10 @@ Broad modern Turkish: mezze to start, then **chargrilled kebabs, lamb chops and 
 Book for weekday lunch; evenings are quieter.
 
 ### Leydi, City of London
+
+![Leydi in London](../../assets/articles/best-turkish-restaurants-london/leydi.jpg)
+
+*Leydi.*
 
 *£££ · City of London · Cited by 2 sources · Harden's*
 
@@ -333,16 +409,23 @@ Listed by Harden's and by the Turkish-British press. Book for a long lunch.
 ### Baraka, City of London
 
 *££ · City of London · Cited by 1 source · Harden's*
+![Baraka London in London](../../assets/articles/best-turkish-restaurants-london/baraka.jpg)
 
 The third of Harden's three City Turkish rooms; no other source in this guide names it.
+*Baraka London.*
 
 Modern Turkish: **mezze, grilled meats and fish**, aimed at the City lunch trade.
+*££ · City of London · Cited by 1 source · Harden's*
 
 ---
 
 ## Named as a new restaurant
 
 ### Kismet, Borough
+
+![Kismet in London](../../assets/articles/best-turkish-restaurants-london/kismet.jpg)
+
+*Kismet.*
 
 *£££ · Borough · books weeks ahead · Named by 4 new-opening guides, not yet by the Turkish lists*
 

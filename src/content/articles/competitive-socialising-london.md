@@ -27,6 +27,8 @@ faq:
 
 > 💡 **The Short Version:** **Mission: Breakout** is an escape room inside a real abandoned Tube station. **Bounce** is £6 a head. **Fairgame** is 18+ at every hour it opens. **Flight Club** will not take a booking of fewer than six after 4pm on a Friday. **THE CUBE** costs up to £57.69 a head and pairs you with strangers. **Junkyard Golf, Swingers City, Bounce Old Street and Bounce Farringdon have all closed.**
 
+*Every venue status-checked against its own website or booking system on 1 September 2026.*
+
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources rather than any single list - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Age policies are the venues' own and count for more here than usual - several are family-friendly by day and over-18 after 5, 6 or 7pm. Check before booking with children.
 
@@ -50,6 +52,10 @@ faq:
 
 ### Mission: Breakout, Camden
 
+![MISSION: BREAKOUT in London](../../assets/articles/competitive-socialising-london/mission-breakout.jpg)
+
+*MISSION: BREAKOUT.*
+
 *141–145 Kentish Town Road, NW1 8PB · escape room · from £28 a player*
 
 An escape room built inside **South Kentish Town, an Underground station closed since 1924**.
@@ -60,6 +66,10 @@ Three games run in the station: Codebreakers, The Lost Passenger and UNDER-GROUN
 
 ### The Murdér Express, Bethnal Green
 
+![The Murdér Express Part Deux: Jewel Of The Empire in London](../../assets/articles/competitive-socialising-london/the-murdr-express.jpg)
+
+*The Murdér Express Part Deux: Jewel Of The Empire.*
+
 *Arch 63, 63 Pedley Street, E1 5BW · immersive dinner · from £88*
 
 A **1937 dining car built inside a railway arch**, with three courses and a murder to solve between them. The current show is Part Deux: Jewel of the Empire, with a menu by Lunar (two AA rosettes, listed in the Michelin Guide).
@@ -69,6 +79,10 @@ The show runs **two hours from the moment the doors open**, and the carriage is 
 **Group size changes the price.** General admission is £88 plus a £4.90 fee, minimum two tickets. The Group Carriage is £66.25 a head for four and **£60 a head for six**, wine included and seats together — so arriving as a six costs a third less each than arriving as a pair. Under-5s are refused entry; 5- to 14-year-olds only at shows finishing by 8pm.
 
 ### Bunga 90, Covent Garden
+
+![Bunga 90 in London](../../assets/articles/competitive-socialising-london/bunga-90.jpg)
+
+*Bunga 90.*
 
 *167 Drury Lane, WC2B 5PG · 1990s karaoke bar · walk-ins most days*
 
@@ -84,6 +98,10 @@ The bookable game is karaoke: **three private soundproofed rooms on 90-minute sl
 
 ### THE CUBE, Canary Wharf
 
+![THE CUBE Canary Wharf in London](../../assets/articles/competitive-socialising-london/the-cube.jpg)
+
+*THE CUBE Canary Wharf.*
+
 *14 Charter Street, E14 5GZ · from £48.65 a head · 9+*
 
 **Twenty-one glass cubes across three floors**, playing seven games from the show against a running score. Beat 10,000 points and you have beaten the Cube.
@@ -93,6 +111,10 @@ The bookable game is karaoke: **three private soundproofed rooms on 90-minute sl
 A session runs **90 minutes to two hours**, longer when busy. Minimum age is nine and under-16s must be supervised. The venue is cashless, refunds are not given but bookings can be rescheduled, and walk-in tickets exist but are never guaranteed.
 
 ### Race Across The World: The Experience
+
+![F1® Arcade London in London](../../assets/articles/competitive-socialising-london/race-across-the-world-the-experience.jpg)
+
+*F1® Arcade London.*
 
 *City of London · £35 an adult · teams of 2 to 8*
 
@@ -108,6 +130,10 @@ A foot race across the Square Mile run over WhatsApp, licensed from the series a
 
 ### Flight Club
 
+![Flight Club Bloomsbury in London](../../assets/articles/competitive-socialising-london/flight-club.jpg)
+
+*Flight Club Bloomsbury.*
+
 *Bloomsbury, Islington, Shoreditch and Victoria · darts · from £10 a head*
 
 Social darts, with seven multiplayer games, automatic scoring, food and drink brought to the oche, and a camera that emails you the highlights the next day.
@@ -119,8 +145,10 @@ Play starts at **£10 a head**. Groups over 12 get two oches, over 24 get three,
 ![A darts bay at Flight Club, with a board set in oak panelling, deep green leather booths and rings of bare bulbs hung from an exposed-pipe ceiling](../../assets/articles/competitive-socialising-london/flight-club-darts-interior.jpg)
 
 *A darts bay at Flight Club.*
+![Electric Shuffle London Bridge in London](../../assets/articles/competitive-socialising-london/electric-shuffle.jpg)
 
 ### Electric Shuffle
+*Electric Shuffle London Bridge.*
 
 *King's Cross, London Bridge and Canary Wharf · shuffleboard · from £10 a head*
 
@@ -133,8 +161,10 @@ Shuffleboard with table service, four games and a board that scores itself. It i
 ![Two shuffleboard lanes facing each other in a room with patterned wallpaper, vintage radios on the walls, leather bar stools and a screen at the end of each lane](../../assets/articles/competitive-socialising-london/social-shuffleboard-bar.jpg)
 
 *Shuffleboard lanes at Electric Shuffle.*
+![Swingers West End in London](../../assets/articles/competitive-socialising-london/swingers-west-end.jpg)
 
 ### Swingers West End
+*Swingers West End.*
 
 *15 John Prince's Street, W1G 0AB · crazy golf · from £12 a head*
 
@@ -150,6 +180,10 @@ The only Swingers left, now the City site has closed. Crazy golf courses, street
 
 ### Rocket Room, Leicester Square
 
+![Rocket Room in London](../../assets/articles/competitive-socialising-london/rocket-room.jpg)
+
+*Rocket Room.*
+
 *2nd floor, Market Place, 20–21 Leicester Square, WC2H 7JX · axes and darts · from £8 a head*
 
 Four games, **axe throwing, interactive darts, shuffleboard and beer pong**, in a bar-led space on the second floor of the Market Place food hall, so the food is whatever the hall is cooking.
@@ -160,6 +194,10 @@ Four games, **axe throwing, interactive darts, shuffleboard and beer pong**, in 
 
 ### Bat & Ball, Covent Garden and Stratford
 
+![Bat & Ball Covent Garden in London](../../assets/articles/competitive-socialising-london/bat-ball.jpg)
+
+*Bat & Ball Covent Garden.*
+
 *50 Earlham Street, WC2H 9LJ · everything, plus live sport · walk-ins welcome*
 
 A sports bar with games: **27 HD screens showing up to three matches at once**, alongside interactive darts, pool, ping pong, shuffleboard, mini golf, beer and prosecco pong, and karaoke.
@@ -169,6 +207,10 @@ A sports bar with games: **27 HD screens showing up to three matches at once**, 
 **Peak is from 5pm Wednesday to Friday and all day at weekends.** Under-18s are welcome until 7pm with a parent or guardian, and **it is 18-plus after 7pm** on physical government-approved ID. A **dress code applies from 7pm**: no tracksuit bottoms, sports shorts or gym wear, no hats, no work boots. Dogs are welcome until 8pm. Private spaces carry a minimum spend, not a hire fee.
 
 ### Bounce, Battersea Power Station
+
+![Bounce Battersea in London](../../assets/articles/competitive-socialising-london/bounce.jpg)
+
+*Bounce Battersea.*
 
 *Level 1, Turbine Hall B, 342 Circus Road South, SW11 8DD · ping pong · from £6 a head*
 
@@ -182,6 +224,10 @@ Battersea Power Station is on the Northern line extension.
 
 ### Fairgame, Canary Wharf and the City
 
+![Fairgame in London](../../assets/articles/competitive-socialising-london/fairgame.jpg)
+
+*Fairgame.*
+
 *25–35 Fisherman's Walk, E14 4DH, and 1 New Change, EC4M 9AF · fairground games · 18+ always*
 
 Fairground games wired for scoring (Down-the-Clown, skeeball, water guns), with an RFID card that tallies everything as you go round.
@@ -192,6 +238,10 @@ Fairground games wired for scoring (Down-the-Clown, skeeball, water guns), with 
 
 ### Gravity MAX, Wandsworth
 
+![Gravity MAX Wandsworth in London](../../assets/articles/competitive-socialising-london/gravity-max.jpg)
+
+*Gravity MAX Wandsworth.*
+
 *Southside, Wandsworth High Street, SW18 4TF · everything at once · MAX3 pass £28.50*
 
 Under one roof: indoor karting, ten-pin bowling, AR digital darts, urban street golf, shuffleboard, batting cages, beer pong, Hologate VR, Sandbox VR, Immersive Gamebox and a Pixel Hyperfloor.
@@ -201,6 +251,10 @@ Under one roof: indoor karting, ten-pin bowling, AR digital darts, urban street 
 Open **11am to 10pm Monday to Thursday, to 11pm on Friday and Saturday**, and from 10am at weekends.
 
 ### Boom Battle Bar
+
+![Boom Battle Bar Oxford Street in London](../../assets/articles/competitive-socialising-london/boom-battle-bar.jpg)
+
+*Boom Battle Bar Oxford Street.*
 
 *Oxford Street, Liverpool Street, Ealing and Wandsworth · bundles from £27.50*
 
@@ -218,6 +272,10 @@ The Oxford Street room, opposite the Tottenham Court Road Elizabeth line entranc
 
 ### Eclipso, Camden
 
+![Eclipso London – Camden in London](../../assets/articles/competitive-socialising-london/eclipso.jpg)
+
+*Eclipso London – Camden.*
+
 *213–219 Camden High Street, NW1 7BT · free-roaming VR · from £19*
 
 Free-roaming VR: you walk through the space wearing the headset rather than sitting in a chair.
@@ -228,11 +286,21 @@ Three experiences run in rotation. **Colosseum: The Legendary Arena** is 35 minu
 
 ### Moonshine Saloon, City of London
 
+![Moonshine Saloon in London](../../assets/articles/competitive-socialising-london/moonshine-saloon.jpg)
+
+*Moonshine Saloon.*
+
 *28–30 Houndsditch, EC3A 7DB · immersive cocktails · 18+ · from £38*
 
 A Prohibition saloon where you are cast as an outlaw and the barkeeps mix cocktails in front of you as part of the story. Actors work the room, there are cards and dice, and everyone is given period western dress to blend in.
 
 **You bring your own spirit.** The venue asks for a 35cl bottle between two guests or 70cl between four, new, unopened and sealed. Every mixer, bitter, syrup, liqueur, juice and garnish is included in the ticket, and the bar turns your bottle into **three to four rounds** across the session. Bring wine or beer instead and they will serve that.
+
+![Illusionaries in London](../../assets/articles/competitive-socialising-london/illusionaries.jpg)
+
+*Illusionaries.*
+
+*Crossrail Place, E14 5AR · nothing on sale*
 
 **Bookings last 1 hour 45 minutes** and admission closes 15 minutes after your start time. Tickets are £38 plus a £3.04 fee for the Rookie, £48 for the Bandit, £54.50 for the Outlaw. **Strictly 18-plus with ID.** There is **no minimum or maximum table size**, and groups over 30 must book through the group bookings page.
 
@@ -241,6 +309,10 @@ A Prohibition saloon where you are cast as an outlaw and the barkeeps mix cockta
 ## The traditional versions, which are much cheaper
 
 ### Bloomsbury Lanes
+
+![Bloomsbury Lanes in London](../../assets/articles/competitive-socialising-london/bloomsbury-lanes.jpg)
+
+*Bloomsbury Lanes.*
 
 *Bedford Way, WC1H 9EU · bowling, karaoke and darts · from £45 a lane*
 
@@ -256,6 +328,10 @@ Karaoke rooms hold 8 to 30 people and run **£60 to £120 an hour, half price on
 
 ### Rowans, Finsbury Park
 
+![Rowans Tenpin Bowl in London](../../assets/articles/competitive-socialising-london/rowans.jpg)
+
+*Rowans Tenpin Bowl.*
+
 *10 Stroud Green Road, N4 2DF · bowling, pool and karaoke · over-21s only after 7pm at weekends*
 
 Bowling, **14 electronic pool tables**, karaoke and a dance floor.
@@ -268,6 +344,10 @@ Open until 12.30am Sunday to Thursday and **2.30am on Friday and Saturday**.
 
 ### Tenpin, outer London
 
+![Tenpin Acton in London](../../assets/articles/competitive-socialising-london/tenpin.jpg)
+
+*Tenpin Acton.*
+
 *Acton, Bexleyheath, Croydon, Feltham and Kingston · bowling from £9.95*
 
 Five sites around the edge of London, each pairing lanes with some combination of karaoke rooms, laser tag, escape rooms, pool, table tennis and an arcade.
@@ -279,6 +359,10 @@ Karaoke is **£25 for a 30-minute room taking up to ten people**. Laser tag is �
 Acton opens **10am to 1am Monday to Thursday and to 2am on Friday and Saturday**, from 9am at weekends. A game takes roughly ten minutes a player.
 
 ### Free table tennis: King's Cross and Merchant Square
+
+![Table Tennis Area in London](../../assets/articles/competitive-socialising-london/free-table-tennis-kings-cross-and-merchant-square.jpg)
+
+*Table Tennis Area.*
 
 *Granary Square and Paddington Basin · free · no booking*
 
@@ -339,3 +423,4 @@ Most venues charge per lane, per oche or per time band rather than a flat per-he
 ---
 
 *This guide is independent and contains no paid placements.*
+*This guide is independent and contains no paid placements. Every venue was status-checked against its own website or booking system on 1 September 2026. Where a price or age limit is described here as not published, that means the venue itself does not state it — not that it does not exist.*

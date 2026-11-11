@@ -113,6 +113,10 @@ On arrival you get an apron, a hair tie and a fabric bag so your coat does not s
 
 ### Happy Lamb Hot Pot, Holborn
 
+![Happy Lamb in London](../../assets/articles/best-hot-pot-london/happy-lamb-hot-pot.jpg)
+
+*Happy Lamb.*
+
 *££ · Holborn · Cited by 6 sources · book a few days ahead*
 
 Mongolian rather than Sichuan, and clear proof that hot pot is not synonymous with chilli. The house broth is a clear herbal bone stock simmered for six hours with goji berries, jujubes and ginseng, and the lamb is sliced thin enough to curl. The Mongolian principle is that a good broth should not need a dipping sauce.
@@ -129,6 +133,10 @@ Beyond the pot, order boboji: meat and vegetables threaded on skewers, cooked in
 
 ### Shu Xiang Ge, Chinatown
 
+![Shu Xiang Ge Hot Pot in London](../../assets/articles/best-hot-pot-london/shu-xiang-ge.jpg)
+
+*Shu Xiang Ge Hot Pot.*
+
 *£££ · Chinatown · Cited by 5 sources · book a few days ahead*
 
 The nine-grid pot, or jiugongge: one broth divided into nine compartments, so tripe that wants thirty seconds and beef aorta that wants five minutes each cook in the grid that suits them. Almost nobody else in London serves it. A yuanyang split pot is the way out for anyone at the table who cannot take the mala.
@@ -136,6 +144,10 @@ The nine-grid pot, or jiugongge: one broth divided into nine compartments, so tr
 It claims to be London's first dedicated Sichuan hot pot restaurant, and has moved from New Oxford Street to Gerrard Street since. The room is basic, and one guide says the service can be hit and miss while the flavours are not.
 
 ### Tian Fu, Shepherd's Bush
+
+![Tian Fu Restaurant in London](../../assets/articles/best-hot-pot-london/tian-fu.jpg)
+
+*Tian Fu Restaurant.*
 
 *££ · Shepherd's Bush · Cited by 5 sources · book a few days ahead*
 
@@ -145,6 +157,10 @@ The stir-fry menu is rated as highly as the pot, so it works for someone who doe
 
 ### Hotto Potto, Aldgate
 
+![Hotto Potto in London](../../assets/articles/best-hot-pot-london/hotto-potto.jpg)
+
+*Hotto Potto.*
+
 *££ · Aldgate · Cited by 4 sources · book a few days ahead*
 
 A fiery beef tallow broth, a charcoal barbecue list alongside the pot, and a menu that prints a recommended cooking time against each ingredient, the most useful thing a beginner can be handed. Mixed platters help anyone frozen by the length of the order sheet.
@@ -152,6 +168,10 @@ A fiery beef tallow broth, a charcoal barbecue list alongside the pot, and a men
 It runs a dedicated halal menu, which is rare in a format built on pork, and a **£20 solo hot pot set** listed on its own site: your own broth, meat, vegetables and rice or noodles for one person. There are karaoke rooms downstairs.
 
 ### Da Long Yi, Fitzrovia
+
+![大龙燚火锅 Da Long Yi Hot Pot in London](../../assets/articles/best-hot-pot-london/da-long-yi.jpg)
+
+*大龙燚火锅 Da Long Yi Hot Pot.*
 
 *£££ · Fitzrovia · Cited by 3 sources · book a few days ahead*
 
@@ -161,6 +181,10 @@ The dish to order is the Volcano Beef: marbled beef built into a cone over crush
 
 ### Super Three, Poplar
 
+![Super Three - Grill City in London](../../assets/articles/best-hot-pot-london/super-three.jpg)
+
+*Super Three - Grill City.*
+
 *££ · Poplar · Cited by 3 sources · book a few days ahead*
 
 All-you-can-eat Sichuan hot pot on a spicy butter base with a Korean charcoal grill built into the same table, so a group that cannot agree between hot pot and barbecue does not have to. You grill while the pot comes up to heat, then swap.
@@ -168,6 +192,10 @@ All-you-can-eat Sichuan hot pot on a spicy butter base with a Korean charcoal gr
 On East India Dock Road, a few doors from Han Restaurant. This is the value end of Sichuan cooking in London, and the Sichuan à la carte menu is as well regarded as the pot.
 
 ### Han Restaurant, Poplar
+
+![Han Restaurant in London](../../assets/articles/best-hot-pot-london/han-restaurant.jpg)
+
+*Han Restaurant.*
 
 *££ · Poplar · Cited by 2 sources · book a few days ahead*
 
@@ -177,6 +205,10 @@ Crab pot, barbecue, Dongbei stews and Sichuan stir-fries fill out a long menu. I
 
 ### Shujie Hotpot, Holborn
 
+![Shujie in London](../../assets/articles/best-hot-pot-london/shujie-hotpot.jpg)
+
+*Shujie.*
+
 *££ · Holborn · Cited by 2 sources · book a few days ahead*
 
 Regulars call it the most Sichuanese pot in London, with duck intestine, pork brain and beef aorta on the menu in earnest. Both sources naming it are Chinese-language, and both recommend the red sugar ciba, glutinous rice cakes fried and rolled in brown sugar, to finish.
@@ -185,6 +217,10 @@ It came third in Red Scarf's 2023 UK readers' poll once the list is narrowed to 
 
 ### Mr Wang Hot Pot, Aldgate
 
+![Mr Wang Hot Pot Aldgate in London](../../assets/articles/best-hot-pot-london/mr-wang-hot-pot.jpg)
+
+*Mr Wang Hot Pot Aldgate.*
+
 *£ · Aldgate · Cited by 2 sources · walk in*
 
 Malatang rather than shared hot pot, and the easiest first solo meal in this guide. You take a basket to a chilled counter and load it with what you want (beef rolls, tripe, lotus root, Fuzhou fish balls, frozen tofu, sweet potato vermicelli, greens), then it is weighed, priced and cooked into one bowl.
@@ -192,6 +228,10 @@ Malatang rather than shared hot pot, and the easiest first solo meal in this gui
 Broadsheet's rule of thumb is 400 to 500 grams of ingredients per person, which most first-timers overshoot. The milky beef bone broth absorbs the sauce better than the clear bases. Build the dip from Chinkiang black vinegar, light soy, sesame paste, chilli powder, minced garlic and a lot of coriander.
 
 ### Yangguofu Malatang, Chinatown
+
+![YGF Yangguofu Malatang Chinatown杨国福麻辣烫中国城店 in London](../../assets/articles/best-hot-pot-london/yangguofu-malatang.jpg)
+
+*YGF Yangguofu Malatang Chinatown杨国福麻辣烫中国城店.*
 
 *£ · Chinatown · Cited by 2 sources · walk in*
 
@@ -207,6 +247,10 @@ There are over a hundred things to put in the basket: sliced meat, fish, tofu in
 
 ### Real Beijing, Chinatown
 
+![Real Beijing Food House in London](../../assets/articles/best-hot-pot-london/real-beijing.jpg)
+
+*Real Beijing Food House.*
+
 *££ · Chinatown · Cited by 1 source · book a few days ahead*
 
 The northern format: a charcoal-fired copper pot with a chimney up the middle, broth that is water with preserved cabbage, and lamb sliced so thin it cooks in the time it takes to count to ten. You dip it in sesame sauce, not chilli oil.
@@ -214,6 +258,10 @@ The northern format: a charcoal-fired copper pot with a chimney up the middle, b
 This is shuan yang rou, instant-boiled lamb, and it is what most of northern China means by hot pot. The charcoal adds a faint smokiness and holds the broth at a steady simmer.
 
 ### Mailinda, Isle of Dogs
+
+![Mailinda BBQ Skewers and Charcoal Hotpot in London](../../assets/articles/best-hot-pot-london/mailinda.jpg)
+
+*Mailinda BBQ Skewers and Charcoal Hotpot.*
 
 *££ · Isle of Dogs · Cited by 2 sources · book a few days ahead*
 
@@ -223,6 +271,10 @@ A neighbourhood canteen; both sources that name it are Chinese-language guides. 
 
 ### Niu Hot Pot, Spitalfields
 
+![NIU HOT POT in London](../../assets/articles/best-hot-pot-london/niu-hot-pot.jpg)
+
+*NIU HOT POT.*
+
 *££ · Spitalfields · Cited by 1 source · book a few days ahead*
 
 Chaoshan beef, the third great hot pot tradition, where the broth deliberately stays out of the way. The menu is organised by cut rather than by dish (sirloin, short rib, rump, brisket, hand-cut omasum, ox aorta, hand-made beef balls), and each has its own cooking time measured in seconds. A mala pot would drown the beef, so people order the beef bone clear soup or the spring water base.
@@ -230,6 +282,10 @@ Chaoshan beef, the third great hot pot tradition, where the broth deliberately s
 There is a congee base served with two live crabs, a halal section on the ordering sheet, charcoal skewers, and a private karaoke room. Teo Hot Pot in Fitzrovia does the same Chaoshan thing at a higher price.
 
 ### Shan Shui Jian, Limehouse
+
+![Shan Shui Jian in London](../../assets/articles/best-hot-pot-london/shan-shui-jian.jpg)
+
+*Shan Shui Jian.*
 
 *££ · Limehouse · Cited by 1 source · book a few days ahead*
 
@@ -239,6 +295,10 @@ A branch of a well-known Chinese chain, with the owner stewing to his own recipe
 
 ### Simmer Huang, Canary Wharf
 
+![Simmer Huang in London](../../assets/articles/best-hot-pot-london/simmer-huang.jpg)
+
+*Simmer Huang.*
+
 *££ · Canary Wharf · Cited by 1 source · book a few days ahead*
 
 Not quite hot pot. A simmer pot arrives with the ingredients already stacked in the pan, cooking down dry, and once you have eaten the top layers the staff pour broth in and it becomes a hot pot for the second half of the meal.
@@ -246,6 +306,10 @@ Not quite hot pot. A simmer pot arrives with the ingredients already stacked in 
 It is halal throughout, one of the few places in London where a mixed group can eat this format without editing the order. Baltimore Wharf, a walk from Canary Wharf proper.
 
 ### Dragon Inn Club, Pimlico
+
+![Dragon Inn Club in London](../../assets/articles/best-hot-pot-london/dragon-inn-club.jpg)
+
+*Dragon Inn Club.*
 
 *£££ · Pimlico · Cited by 2 sources · book a few days ahead*
 
@@ -255,6 +319,10 @@ It draws a mix of students and office tables from around Victoria. The Sichuan s
 
 ### Muyang Hot Pot & BBQ, Shepherd's Bush
 
+![Muyang in London](../../assets/articles/best-hot-pot-london/muyang-hot-pot-bbq.jpg)
+
+*Muyang.*
+
 *££ · Shepherd's Bush · Cited by 2 sources · book a few days ahead*
 
 One pot per person rather than one for the table: the mini hot pot, which it claims to have brought to London first. You get your own broth and your own spice level at a shared table.
@@ -263,6 +331,10 @@ Order the hand-made fish balls, with black fungus, quail eggs and rice cake; the
 
 ### Crystal China, Bermondsey
 
+![Crystal China Tower Bridge in London](../../assets/articles/best-hot-pot-london/crystal-china.jpg)
+
+*Crystal China Tower Bridge.*
+
 *££ · Bermondsey · Cited by 2 sources · book a few days ahead*
 
 Dry hot pot, which is not hot pot in the broth sense: the ingredients are stir-fried together in mala oil and arrive already cooked, so there is no simmering and no cooking times to learn.
@@ -270,6 +342,10 @@ Dry hot pot, which is not hot pot in the broth sense: the ingredients are stir-f
 Useful when you want the taste on a weeknight, or for a mixed group where somebody is squeamish about raw meat on the table. On Tower Bridge Road, and named by Strictly Dumpling on a Chinatown food tour that walked all the way here for it.
 
 ### Leong's Legend, Chinatown
+
+![Leongs Legend in London](../../assets/articles/best-hot-pot-london/leongs-legend.jpg)
+
+*Leongs Legend.*
 
 *££ · Chinatown · Cited by 2 sources · book a few days ahead*
 
