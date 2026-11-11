@@ -97,7 +97,7 @@ Resellers such as Cornucopia Events advertise premiere access at **£1,999 to £
 Premiere nights run late, with the stars on the carpet from about 5.45pm, so a bed within walking distance saves a rush for the last Tube. Three hotels from our [Soho and West End](/articles/where-to-stay-soho-west-end/) and [Covent Garden](/articles/where-to-stay-covent-garden/) guides:
 
 - **The Z Hotel Covent Garden** has 113 compact rooms on Bedford Street, three minutes from Leicester Square. The cheapest grade has no window, so check the room type before you book. [Hotels.com](hotel:z-hotel-covent-garden)
-- **Zedwell Piccadilly Circus** sells windowless private rooms from £97 in the London Pavilion, a short walk from the square. The price swings with demand. [Hotels.com](hotel:zedwell-piccadilly-circus)
+- **Zedwell Piccadilly Circus** has windowless private rooms in the London Pavilion, a short walk from the square. [Hotels.com](hotel:zedwell-piccadilly-circus)
 - **Strand Palace** has 785 rooms on the Strand, so it still has stock when the smaller hotels are full. [Hotels.com](hotel:strand-palace)
 
 ## Make an evening of it
