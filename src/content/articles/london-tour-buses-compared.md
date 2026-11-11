@@ -68,6 +68,8 @@ Prices as published by the operators in August 2026; City Sightseeing, the Big B
 
 ## Big Bus: three routes, around 55 stops
 
+The One Day, Discover and Essential tickets are sold on [Big Bus Tours](https://www.bigbustours.com/en/london/london-tour-tickets-and-passes), at the online prices above.
+
 | Route | Covers | Operates | Frequency |
 | --- | --- | --- | --- |
 | **Red Route** | Central and east — the landmarks loop | 08:30–17:45 | Every **15–20 min** |

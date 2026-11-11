@@ -181,6 +181,25 @@ export function awinUrl(destination, clickref) {
   return { url: `https://www.awin1.com/cread.php?${params}`, label: adv.label };
 }
 
+// CJ advertisers, listed by the host they sell on, the same way as Awin's: a
+// plain link to that host in an article goes out through CJ's deep link. CJ's
+// sid is its free-text tag, so the article slug says which guide sold it.
+const CJ_ADVERTISERS = {
+  // Big Bus Tours, joined November 2026.
+  "bigbustours.com": { label: "Big Bus Tours" },
+};
+
+/** The CJ tracking link for a url on a CJ advertiser's site, or undefined. */
+export function cjAdvertiserUrl(destination, sid) {
+  let u;
+  try { u = new URL(String(destination)); } catch { return undefined; }
+  const host = u.hostname.toLowerCase().replace(/^www\./, "");
+  const adv = CJ_ADVERTISERS[host];
+  if (!adv || !CJ_PID) return undefined;
+  const tag = sid ? `/sid/${encodeURIComponent(String(sid).slice(0, 64))}` : "";
+  return { url: `https://www.anrdoezrs.net/links/${CJ_PID}/type/dlg${tag}/${u.toString()}`, label: adv.label };
+}
+
 // How each network is named to the reader. Here rather than in the components
 // because the link text was hardcoded to "GetYourGuide" back when that was the
 // only programme - which would have labelled the first Skiddle link with a
