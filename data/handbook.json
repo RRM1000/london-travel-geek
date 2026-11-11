@@ -84,6 +84,10 @@
   "recentlyDone": [
     {
       "date": "2026-11-11",
+      "what": "Deal lines in every guide (ltg-food-deals, unpushed): src/lib/remark-venue-deals.mjs adds a **Deal:** line with an Offer details link under any restaurant heading that has a current deal in data/food-deals/deals.json, at build time. 115 entries across 38 guides; expired or changed deals drop out automatically."
+    },
+    {
+      "date": "2026-11-11",
       "what": "Food deals pipeline on branch ltg-food-deals (unpushed): crawl of the Sheet's restaurant sites plus 70 chains (scripts/discover-food-deals.mjs), three agents extracted 307 deals at 169 restaurants from the restaurants' own pages, merged into data/food-deals/deals.json and written to a new 'Food Deals' Sheet tab (scripts/write-food-deals.mjs, refuses to shrink the live tab)."
     },
     {
