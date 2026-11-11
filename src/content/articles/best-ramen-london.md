@@ -23,8 +23,6 @@ heroImageCredit: "Andy Li"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Yuzu_Tonkotsu_Ramen_-_Bone_Daddies_2026-03-24.jpg"
 heroImageLicense: "CC0 1.0"
 heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
-heroImage: "../../assets/articles/late-night-eating-london/monohon-ramen-bowl.jpg"
-heroImageAlt: "A black bowl of ramen at Monohon Ramen with golden-orange broth, a halved marinated egg, bamboo shoots, pork belly chashu, wood ear mushrooms, spring onions and red chilli paste"
 faq:
   - q: "What is the best ramen in London?"
     a: "It depends on the style. For pork-bone tonkotsu, Kanada-Ya (64 St Giles High Street and 3 Panton Street) and Hakata Ramen + Bar on Bermondsey Street are the dedicated counters. For house-made noodles and brothless abura soba, go to Monohon Ramen on Old Street. For chicken broth, try Ramen Moto on Charlotte Street or Tenmaru, which has shops in Fitzrovia and Finsbury Park."
