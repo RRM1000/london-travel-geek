@@ -39,7 +39,7 @@ Fixed-price lunch and early-evening menus serve the same kitchen's food for less
 
 > ⚠️ **Prices change and menus rotate.** Confirm on the restaurant's own site before you travel.
 
-> 🧭 **This is one of several ways to pay less to eat out in London, and it needs no membership, app or code.** If it does not fit, the others might: [discount cards](/articles/restaurant-discount-cards-london/) if you eat out monthly, [off-peak apps](/articles/off-peak-restaurant-apps-london/) if you will eat at five, [bottomless brunch](/articles/bottomless-brunch-london/) if the drinks are the point, [kids eat free](/articles/kids-eat-free-london/) if you are feeding children, [food delivery apps](/articles/food-delivery-apps-london/) if you are eating in, or [cheap eats](/articles/cheap-eats-london/) if you would rather just spend less.
+> 🧭 **This is one of several ways to pay less to eat out in London, and it needs no membership, app or code.** If it does not fit, the others might: [discount cards](/articles/restaurant-discount-cards-london/) if you eat out monthly, [off-peak apps](/articles/off-peak-restaurant-apps-london/) if you will eat at five, [bottomless brunch](/articles/bottomless-brunch-london/) if the drinks are the point, [food deals](/articles/food-deals-london/) for 2-for-1, student and Blue Light offers, [happy hour](/articles/happy-hour-london/) if you are drinking, [kids eat free](/articles/kids-eat-free-london/) if you are feeding children, [food delivery apps](/articles/food-delivery-apps-london/) if you are eating in, or [cheap eats](/articles/cheap-eats-london/) if you would rather just spend less.
 
 ---
 
@@ -166,6 +166,8 @@ For a 7.30pm curtain, book at 5.30pm. See our [London theatre guide](/articles/l
 **Paying less to eat out in London.** A few different strategies, and they rarely combine — pick the one that fits how you eat:
 
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
+- 🏷️ **[London Food Deals](/articles/food-deals-london/)** — 2-for-1, student and Blue Light discounts, offers by day, BYO and app rewards
+- 🍹 **[Happy Hour in London](/articles/happy-hour-london/)**
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
