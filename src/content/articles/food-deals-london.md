@@ -3,7 +3,7 @@ title: "London Food Deals: 2-for-1, Percentage Off, Student Discounts and Offers
 seoTitle: "London Food Deals 2026: 2-for-1, Discounts & Offers"
 description: "Restaurant offers across London: 2-for-1 deals, percentage-off offers, student and Blue Light discounts, deals for each day of the week, BYO nights, app sign-up rewards and birthday freebies, with the days, times and conditions."
 publishedAt: 2026-11-11
-updatedAt: 2026-11-11
+updatedAt: 2026-11-12
 reviewBy: 2026-12-11
 sites:
   - london
@@ -37,7 +37,7 @@ faq:
 
 London restaurant offers fall into a few types: two meals for the price of one, a percentage off for a card or ID, a set day of the week, and a reward for signing up. **Each carries a condition, usually an app, an ID or a day, and that condition is what decides whether you get it.**
 
-> 💡 **The Short Version:** **Zizzi** sells a second main for £1 Monday to Friday until 20 November 2026, with its free app. **Mamma Dough** in Brixton takes half off every pizza on Mondays. **Las Iguanas** gives students 40% off food and drink Sunday to Thursday until 26 November 2026. **Côte, Yo! Sushi, Frankie & Benny's and Las Iguanas** give Blue Light Card holders 20% off. **Sheba** and **Macellaio RC** charge no corkage, and **Tayyabs** lets you bring your own bottle. **Bella Italia** and **Las Iguanas** give a free main for downloading their apps.
+> 💡 **The Short Version:** **Zizzi** sells a second main for £1 Monday to Friday until 20 November 2026, with its free app. **Mamma Dough** in Brixton takes half off every pizza on Mondays. **Las Iguanas** gives students 40% off food and drink Sunday to Thursday until 26 November 2026. **Côte, Yo! Sushi, Frankie & Benny's and Las Iguanas** give Blue Light Card holders 20% off. **Itsu** halves the price of all its sushi and salads for the last half hour before closing. **Sheba** and **Macellaio RC** charge no corkage, and **Tayyabs** lets you bring your own bottle. **Bella Italia** and **Las Iguanas** give a free main for downloading their apps.
 
 > ⚠️ **Most of these exclude set menus and other offers, and several are dine-in only.** Show the app, card or ID when you order, not when the bill arrives.
 
@@ -218,6 +218,15 @@ Offers that run on one named day are below, with the deals that run on a handful
 
 ---
 
+## End-of-day reductions
+
+| Restaurant | Offer | When | Condition and where |
+| --- | --- | --- | --- |
+| [Itsu](https://www.itsu.com/faq/) | All sushi and salads half price | Every day, the last half hour before closing | Sushi and salads only. All shops |
+| [Too Good To Go](https://www.toogoodtogo.com/en-gb) | A bag of the day's unsold food at half price or less | The collection window each shop sets | You don't choose what's in the bag; collect, don't dine. Bakeries, cafés and chains across London; see [off-peak restaurant apps](/articles/off-peak-restaurant-apps-london/) |
+
+---
+
 ## Bring your own bottle
 
 | Restaurant | Corkage | When | Condition and where |
@@ -307,7 +316,7 @@ Set menus, happy hours, kids' offers, discount cards and bottomless brunch each 
 - 🍹 **[Happy Hour in London](/articles/happy-hour-london/)** — cocktails, beer and wine, by area
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — age limits and an adult-spend condition apply
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the other paid memberships
-- 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub
+- 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub, plus Too Good To Go's end-of-day bags at half price or less
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — priced by the hour
 - 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — sushi, Korean barbecue, hot pot, rodízio and buffets, with each time limit
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all

@@ -3722,6 +3722,22 @@
   "quote": "Your AA membership gets you 20% off your Zizzi food bill across the UK and ROI."
  },
  {
+  "name": "Itsu",
+  "slug": null,
+  "site": "https://www.itsu.com/",
+  "type": "end-of-day",
+  "offer": "All sushi and salads half price",
+  "price": null,
+  "days": "Every day",
+  "times": "the last half hour before closing",
+  "conditions": "Sushi and salads only",
+  "branches": "all",
+  "endDate": null,
+  "sourceUrl": "https://www.itsu.com/faq/",
+  "checked": "2026-11-12",
+  "quote": "Half an hour before closing, all our sushi & salads are available at half price."
+ },
+ {
   "name": "Arcade Food Hall",
   "slug": null,
   "site": "https://www.arcade-london.com/",
@@ -5336,6 +5352,22 @@
   "sourceUrl": "https://www.veeraswamy.com/menu/pre-theatre-dinner/",
   "checked": "2026-11-11",
   "quote": "PRE & POST THEATRE MENU 2 courses £40 | 3 Courses £45 Minimum 2 courses per person PRE-THEATRE - 5.30pm to 6.15pm POST THEATRE - 9.15-10pm"
+ },
+ {
+  "name": "Mucci's",
+  "slug": "muccis",
+  "site": "https://muccisrestaurant.co.uk/",
+  "type": "price-hook",
+  "offer": "Flat-price menu: every starter £10, Italian classics £15, every pasta, meat and fish main £20",
+  "price": null,
+  "days": null,
+  "times": null,
+  "conditions": "The 400g steak is £40",
+  "branches": "King's Road, Chelsea",
+  "endDate": null,
+  "sourceUrl": "https://muccisrestaurant.co.uk/menu/kitchen.pdf",
+  "checked": "2026-11-12",
+  "quote": "Starters 10 / Italian classics 15 / Pasta 20 / Meat & fish 20"
  },
  {
   "name": "Ave Mario",

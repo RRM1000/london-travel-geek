@@ -37,6 +37,7 @@ const MORE = {
   byo: { url: `${HUB}#bring-your-own-bottle`, label: "More BYO restaurants" },
   "app-reward": { url: `${HUB}#app-and-loyalty-sign-up-rewards`, label: "More app rewards" },
   birthday: { url: `${HUB}#birthday-freebies`, label: "More birthday freebies" },
+  "end-of-day": { url: `${HUB}#end-of-day-reductions`, label: "More end-of-day reductions" },
   default: { url: HUB, label: "All London food deals" },
 };
 
