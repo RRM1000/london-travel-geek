@@ -299,30 +299,16 @@ Offers that run on one named day are below, with the deals that run on a handful
 
 ---
 
-## Deals that have their own guide
+## More ways to pay less
 
-**Set lunch and pre-theatre menus** are fixed-price menus from £12.50 upwards, run mostly on weekdays; they are in [set lunch and pre-theatre menus](/articles/restaurant-deals-london/).
+Set menus, happy hours, kids' offers, discount cards and bottomless brunch each have their own guide:
 
-**Kids eat free** offers carry age limits and an adult-spend condition, and several exclude central London branches; they are in [kids eat free in London](/articles/kids-eat-free-london/).
-
-**Discount cards** such as Tastecard are paid memberships with their own restaurant lists, covered in [restaurant discount cards](/articles/restaurant-discount-cards-london/).
-
-**Bottomless brunch** packages are priced by the hour and differ on when the clock starts, in [bottomless brunch in London](/articles/bottomless-brunch-london/).
-
-**Happy hours** on cocktails, beer and wine are in [happy hour in London](/articles/happy-hour-london/).
-
----
-
-## Continue planning your London trip
-
-**Paying less to eat out in London.** A few different strategies, and they rarely combine — pick the one that fits how you eat:
-
-- 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership
-- 🍹 **[Happy Hour in London](/articles/happy-hour-london/)**
-- 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest
+- 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — fixed-price menus from £12.50, mostly on weekdays
+- 🍹 **[Happy Hour in London](/articles/happy-hour-london/)** — cocktails, beer and wine, by area
+- 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — age limits and an adult-spend condition apply
+- 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the other paid memberships
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub
-- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)**
-- 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)**
+- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — priced by the hour
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
 - 🍽️ **[Where to Eat in London](/articles/eat-in-london-guide/)**
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
