@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09",
+ "generated": "2026-11-12",
  "shows": [
   {
    "slug": "a-christmas-carol-2026",
@@ -325,10 +325,10 @@
    "genre": "Play",
    "popularity": null,
    "firstPreview": "2027-01-22",
-   "pressNight": null,
+   "pressNight": "2027-01-27",
    "opening": "2027-01-22",
    "closing": "2027-03-13",
-   "bookingFrom": null,
+   "bookingFrom": "2026-10-15",
    "priorityFrom": null
   },
   {
@@ -2132,21 +2132,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "tango-after-dark",
-   "name": "Tango After Dark",
-   "venue": "Sadler's Wells Theatre",
-   "venueSlug": "sadlers-wells-theatre",
-   "location": "Off-West End",
-   "genre": "Dance",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
-   "opening": "2026-11-05",
-   "closing": "2026-11-09",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "taylor-mac-holiday-sauce",
    "name": "Taylor Mac: Holiday Sauce",
    "venue": "Soho Theatre Walthamstow",
@@ -2203,21 +2188,6 @@
    "pressNight": null,
    "opening": "2013-02-25",
    "closing": null,
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "the-bridge",
-   "name": "The Bridge",
-   "venue": "Bush Theatre",
-   "venueSlug": "bush-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-28",
-   "pressNight": "2026-11-02",
-   "opening": "2026-10-28",
-   "closing": "2026-11-11",
    "bookingFrom": null,
    "priorityFrom": null
   },
