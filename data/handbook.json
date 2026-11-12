@@ -26,36 +26,16 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
-    {
-      "what": "Tube status page: add a fixed list of the eight announced RMT strike dates to the Strikes panel? (TfL's feed only shows them a few days ahead.)"
-    },
-    {
-      "what": "U2 at Tottenham is four nights in src/data/events.json; write the same fix into the Events Sheet tab so the next export doesn't revert it?"
-    },
-    {
-      "what": "Le Relais de Venise L'Entrecôte (Marylebone): set-menu price isn't published; Rob to supply it before it goes in the food deals data."
-    },
-    {
-      "what": "Food deals hub Short Version names short-lived offers (Zizzi until 20 Nov, Las Iguanas until 26 Nov): keep and refresh, or switch to standing offers?"
-    },
-    {
-      "what": "CBG: Request indexing in Search Console for 10 hubs: bangkok, tokyo, florence, istanbul, seville, dubrovnik, kyoto, reykjavik, tallinn, warsaw (citybreakgeek.com/<city>/)."
-    },
-    {
-      "what": "Food deals hub nav: the 'Deals' menu is capped at four, so 'Off-peak restaurant apps' was swapped for 'Food deals'. Keep, or restore and drop another?"
-    },
-    {
-      "what": "Push when ready: ltg-nov-dates and cbg-nov-weak (built and spot-checked, not pushed). ltg-food-deals went live on 12 Nov."
-    },
-    {
-      "what": "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek); check City Break Geek is listed as a website in the CJ account."
-    },
-    {
-      "what": "Mediavine launch (application 18393): reply to Jacob that the sidebar is no longer sticky; in the dashboard finish ads.txt swap, Payment Profile, Privacy Policy link, GA4 connection and the consent platform; check the application domain reads londontravelgeek.com, not .co.uk."
-    },
-    {
-      "what": "ltg-black-friday branch (993bc93b, 775f7dae) still to push, before Black Friday week."
-    },
+    "Tube status page: add a fixed list of the eight announced RMT strike dates to the Strikes panel? (TfL's feed only shows them a few days ahead.)",
+    "U2 at Tottenham is four nights in src/data/events.json; write the same fix into the Events Sheet tab so the next export doesn't revert it?",
+    "Le Relais de Venise L'Entrecôte (Marylebone): set-menu price isn't published; Rob to supply it before it goes in the food deals data.",
+    "Food deals hub Short Version names short-lived offers (Zizzi until 20 Nov, Las Iguanas until 26 Nov): keep and refresh, or switch to standing offers?",
+    "CBG: Request indexing in Search Console for 10 hubs: bangkok, tokyo, florence, istanbul, seville, dubrovnik, kyoto, reykjavik, tallinn, warsaw (citybreakgeek.com/<city>/).",
+    "Food deals hub nav: the 'Deals' menu is capped at four, so 'Off-peak restaurant apps' was swapped for 'Food deals'. Keep, or restore and drop another?",
+    "Push when ready: ltg-nov-dates and cbg-nov-weak (built and spot-checked, not pushed). ltg-food-deals went live on 12 Nov.",
+    "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek); check City Break Geek is listed as a website in the CJ account.",
+    "Mediavine launch (application 18393): reply to Jacob that the sidebar is no longer sticky; in the dashboard finish ads.txt swap, Payment Profile, Privacy Policy link, GA4 connection and the consent platform; check the application domain reads londontravelgeek.com, not .co.uk.",
+    "ltg-black-friday branch (993bc93b, 775f7dae) still to push, before Black Friday week.",
     "Display ads, Journey by Mediavine: accepted 30 Oct. Send the ad script code and the ads.txt file (or redirect link) from the Mediavine dashboard, then the install can start.",
     "Spot-check two or three Ticketmaster links added on the October guide and the jazz festival page (Ticketmaster blocks our scripts, so they came from the listings feed unopened).",
     "Hotels.com check: LEGOLAND's three hotels, Thorpe Shark Cabins, Chessington Safari and Azteca hotels, Dean Street Townhouse, Redchurch Townhouse and The Twenty Two link to their own sites; send Hotels.com links if it sells them.",
