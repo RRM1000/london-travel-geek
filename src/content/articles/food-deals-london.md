@@ -26,7 +26,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 faq:
   - q: "Which London restaurants do 2-for-1 deals?"
-    a: "Zizzi, ASK Italian, The Waterway in Little Venice and Made in Italy on the King's Road have 2-for-1 or £1 second-main offers on food. Big Easy, Sticks'n'Sushi, Turtle Bay, TGI Fridays and Banana Tree do 2-for-1 on cocktails. Each has its own condition, from a free app to a Tastecard to a particular day."
+    a: "Zizzi, The Waterway in Little Venice and Made in Italy on the King's Road have 2-for-1 or £1 second-main offers on food. Big Easy, Sticks'n'Sushi, Turtle Bay, TGI Fridays and Banana Tree do 2-for-1 on cocktails. Each has its own condition, from a free app to a particular day."
   - q: "Do London restaurants give student discounts?"
     a: "Many do, most of them as a percentage off food. Las Iguanas, Shoryu Ramen, Côte, Byron, Yo! Sushi, Bone Daddies, Pho, Franco Manca and Rosa's Thai all run one. You need student ID or a verified UNiDAYS or Student Beans account, and several apply only on certain days or exclude set menus."
   - q: "Can I use a Blue Light Card in London restaurants?"
@@ -50,8 +50,6 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 | Restaurant | Offer | When | Condition and where |
 | --- | --- | --- | --- |
 | [Zizzi](https://www.zizzi.co.uk/offers) | Buy a main, get a second for £1 | Monday to Friday all day; Sunday from 5pm; until 20 November 2026 | Zillionaires' Club membership, free through the app. All branches |
-| [Zizzi](https://www.zizzi.co.uk/offers) | 2-for-1 | Sunday to Thursday | Tastecard; see [restaurant discount cards](/articles/restaurant-discount-cards-london/). All branches |
-| [ASK Italian](https://www.askitalian.co.uk/offers) | 2-for-1 on starters, mains and desserts | Sunday to Thursday | Tastecard. Most restaurants |
 | [Made in Italy](https://www.madeinitalygroup.co.uk/deals) | Buy a pizza by the metre, get the same pizza free | Friday | Reserve online and add "2 X 1 PIZZA" to the booking notes; the free pizza must match the one bought; one main per person; dine-in only. King's Road, Chelsea |
 | [The Waterway](https://www.thewaterway.co.uk/winter-club) | Two main courses for the price of one, from the à la carte | Sunday evening, until 31 March 2027 | Free Winter Club card; not redeemable in December. The Waterway and The Summerhouse, Little Venice |
 | [The Mayfair Chippy](https://www.mayfairchippy.com/supporting-black-cabs) | Buy one The Mayfair Classic fish and chips, get one free | Monday to Friday, until 31 December 2026 | Arrive by black cab with a same-day receipt, minimum fare £20 including tip; one free dish per two guests, parties up to four; dine-in only. Mayfair and Knightsbridge |

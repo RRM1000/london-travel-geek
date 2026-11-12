@@ -29,7 +29,8 @@ function load() {
   if (cache.mtime === mtime) return cache;
   const today = new Date().toISOString().slice(0, 10);
   const deals = JSON.parse(fs.readFileSync(DEALS, "utf8"))
-    .filter((d) => !d.recheck && (!d.endDate || d.endDate >= today));
+    // Paid-card deals (Tastecard and the like) live on the discount cards page only.
+    .filter((d) => !d.recheck && !d.card && (!d.endDate || d.endDate >= today));
   const snap = fs.existsSync(SNAPSHOT) ? JSON.parse(fs.readFileSync(SNAPSHOT, "utf8")) : [];
   const slugByName = new Map(snap.map((r) => [norm(r.Name), r.Slug]));
   const bySlug = new Map();

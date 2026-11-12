@@ -1,0 +1,500 @@
+[
+ {
+  "name": "Pizza Pilgrims",
+  "slug": null,
+  "site": "https://www.pizzapilgrims.co.uk/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Bottomless pizza and drinks package at the Liverpool Street pizzeria: 1.5 hours of unlimited Neapolitan pizzas (Margherita, Mushroom & Truffle, Double Pepperoni & Spicy Honey, Nduja & Marinara; halal and vegan options) with prosecco, beer, soft drinks and cocktails.",
+  "price": null,
+  "days": "Weekdays from 3pm; all day Saturday",
+  "times": "Weekdays from 3pm, Saturday all day",
+  "conditions": "1.5-hour slot; tickets booked in advance",
+  "branches": "Liverpool Street only",
+  "sourceUrl": "https://www.pizzapilgrims.co.uk/pizza-party/",
+  "quote": "1.5 hours of unlimited freshly made Neapolitan pizzas and free-flowing booze! (And non-alc options too)",
+  "style": "pizza",
+  "area": "Liverpool Street"
+ },
+ {
+  "name": "Las Iguanas",
+  "slug": null,
+  "site": "https://www.iguanas.co.uk/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Tapas Tuesdays: 90 minutes of unlimited tapas dishes from the Bottomless Tapas menu. Sides and desserts are not included.",
+  "price": "From £17 per person (£20 per person at Royal Festival Hall)",
+  "days": "Every Tuesday",
+  "times": null,
+  "conditions": "90-minute limit; pre-booking essential; dine in only; whole table must take part; maximum 3 dishes per 2 people served at one time; sides and desserts extra",
+  "branches": "All Las Iguanas restaurants except Center Parcs, Leicester and airports; may not run on some days at event locations (O2, Wembley, Royal Festival Hall)",
+  "sourceUrl": "https://www.iguanas.co.uk/bottomless-tapas",
+  "quote": "Enjoy 90 minutes of nonstop plates and big flavours from just £17pp. Available every Tuesday.",
+  "style": "tapas",
+  "area": null
+ },
+ {
+  "name": "Big Easy",
+  "slug": null,
+  "site": "https://www.bigeasy.co.uk/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Monday 'Big Pig Gig': unlimited Bar.B.Q ribs, chicken and Carolina pulled pork with slaw, beans and cornbread, plus a stein of beer, glass of house wine, bubbles, thick shake or soft drink.",
+  "price": "£28.50 per person",
+  "days": "Monday",
+  "times": null,
+  "conditions": null,
+  "branches": "Listed on the site: Canary Wharf, Covent Garden, Chelsea, Westfield Stratford",
+  "sourceUrl": "https://www.bigeasy.co.uk/daily-specials/monday",
+  "quote": "'THE BIG PIG GIG' UNLIMITED BAR.B.Q RIBS, CHICKEN, PORK & 2 PINTS ICE COLD BREW. £28.5 per person",
+  "style": "bbq",
+  "area": null
+ },
+ {
+  "name": "Big Easy",
+  "slug": null,
+  "site": "https://www.bigeasy.co.uk/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "'Shrimp Tuesdays': unlimited deep-fried jumbo shrimp with chunky chips and tartar sauce, plus a slushy cocktail, beer, house wine, bubbles, thick shake or soft drink.",
+  "price": "£28.50 per person",
+  "days": "Tuesday",
+  "times": null,
+  "conditions": null,
+  "branches": "Listed on the site: Canary Wharf, Covent Garden, Chelsea, Westfield Stratford",
+  "sourceUrl": "https://www.bigeasy.co.uk/daily-specials/tuesday",
+  "quote": "UNLIMITED... DEEP FRIED JUMBO 'SHRIMP TUESDAYS'. £28.5 per person",
+  "style": "other",
+  "area": null
+ },
+ {
+  "name": "Big Easy",
+  "slug": null,
+  "site": "https://www.bigeasy.co.uk/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Friday unlimited jumbo shrimp boil with a stein of beer, a thick shake or a soft drink.",
+  "price": "From £29.50 per person",
+  "days": "Friday",
+  "times": null,
+  "conditions": null,
+  "branches": "Listed on the site: Canary Wharf, Covent Garden, Chelsea, Westfield Stratford",
+  "sourceUrl": "https://www.bigeasy.co.uk/daily-specials/friday",
+  "quote": "FRI is Unlimited Jumbo Shrimp Boil & Stein of Beer. From £29.5 per person",
+  "style": "other",
+  "area": null
+ },
+ {
+  "name": "Big Easy",
+  "slug": null,
+  "site": "https://www.bigeasy.co.uk/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Weekend unlimited home-smoked Bar.B.Q (St. Louis ribs, chicken, pulled pork, cornbread, beans and slaw to share) including a choice of beverage; the alternative on the same deal is half a 750g lobster.",
+  "price": "From £35.50 per person",
+  "days": "Saturday and Sunday",
+  "times": "Until 4pm",
+  "conditions": "Maximum table size 12; unlimited drinks upgrade £6 per person",
+  "branches": "Listed on the site: Canary Wharf, Covent Garden, Chelsea, Westfield Stratford",
+  "sourceUrl": "https://www.bigeasy.co.uk/daily-specials/saturday-sunday",
+  "quote": "Sat-Sun is Half 750gm Lobster or Unlimited Bar.B.Q inc choice of beverages. From £35.5 per person",
+  "style": "bbq",
+  "area": null
+ },
+ {
+  "name": "Ping Pong",
+  "slug": null,
+  "site": "https://www.pingpongdimsum.com/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Lazy Sumday: all-you-can-eat dim sum, buns and bowls from a selected menu. Add a bottle of bubbly for £15.",
+  "price": "£29.95 per adult; £12.95 under 12s",
+  "days": "Every Sunday and bank holiday Monday",
+  "times": null,
+  "conditions": "Selected menu only; groups of 20 or more book by email",
+  "branches": "4 London restaurants (not named on the page)",
+  "sourceUrl": "https://www.pingpongdimsum.com/lazy-sumday/",
+  "quote": "Every Sunday and bank holiday Monday, indulge in unlimited dim sum at 4 of our London restaurants for only £29.95 per adult and £12.95 for under 12s.",
+  "style": "dim-sum",
+  "area": null
+ },
+ {
+  "name": "Indian Veg",
+  "slug": "indian-veg",
+  "site": "https://theindianveg.wordpress.com/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Daily vegetarian buffet at the Chapel Market restaurant; the buffet menu changes constantly.",
+  "price": null,
+  "days": "Daily",
+  "times": "Noon to 11.30pm",
+  "conditions": null,
+  "branches": "92-93 Chapel Market, Islington N1 9EX",
+  "sourceUrl": "https://theindianveg.wordpress.com/menu/",
+  "quote": "Our buffet menus are never constant; in fact they are constantly changing! Open daily: noon to 11:30pm",
+  "style": "indian",
+  "area": "Islington"
+ },
+ {
+  "name": "Babur",
+  "slug": "babur",
+  "site": "https://www.babur.info/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Sunday buffet of classic Indian dishes that change weekly: starters, fish, chicken and lamb mains, vegetarian dishes, rice, baby naan and salads.",
+  "price": "£27.95 per adult; £18.95 for children 7 to 12; under 7s free",
+  "days": "Sunday",
+  "times": "Noon to 4pm",
+  "conditions": null,
+  "branches": "119 Brockley Rise, Forest Hill SE23",
+  "sourceUrl": "https://www.babur.info/menus/sunday-buffet",
+  "quote": "£27.95 for adults and £18.95 for children 7 – 12 years old – children under 7 eat for free.",
+  "style": "indian",
+  "area": "Forest Hill"
+ },
+ {
+  "name": "The Bombay Restaurant",
+  "slug": "the-bombay-restaurant",
+  "site": "https://bombayb.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=Knowledge_Graph",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Weekend Buffet Brunch in the Bombay Brasserie conservatory, with a weekly-changing buffet of biryanis, tandoori grills, chaats and desserts.",
+  "price": null,
+  "days": "Saturday and Sunday",
+  "times": null,
+  "conditions": null,
+  "branches": "Bombay Brasserie, South Kensington",
+  "sourceUrl": "https://bombayb.co.uk/menu.htm",
+  "quote": "Our buffet-style brunch menu changes weekly and features a curated selection of classic favourites and seasonal creations",
+  "style": "brunch",
+  "area": "South Kensington"
+ },
+ {
+  "name": "Pick & Cheese",
+  "slug": "pick-and-cheese",
+  "site": "https://www.pickandcheese.com/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Bottomless Plates: unlimited plates of cheese, charcuterie and pickles from the conveyor belt. Dessert plates and off-belt dishes are excluded.",
+  "price": "£29.50 per person",
+  "days": "Every Wednesday",
+  "times": "All day",
+  "conditions": "75-minute limit; booking recommended; yellow dessert plates and off-belt dishes not included",
+  "branches": "Pick & Cheese London sites (Camden, Seven Dials); page does not say which run it",
+  "sourceUrl": "https://www.pickandcheese.com/news/bottomless-plates",
+  "quote": "every Wednesday we go Bottomless at Pick & Cheese, which means for just £29.50 per person you can enjoy unlimited plates of cheese, charcuterie and pickles for 75 mins.",
+  "style": "other",
+  "area": null
+ },
+ {
+  "name": "Nobu Old Park Lane",
+  "slug": "nobu-old-park-lane",
+  "site": "https://www.noburestaurants.com/london-old-park-lane/home",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Saturday brunch with an unlimited Nobu sushi and sashimi buffet (Yellowtail Jalapeño, Sea Bass Ponzu, nigiri, cut rolls, Lobster Ceviche, Toro & Caviar hand rolls), a main dish such as Black Cod Miso, and a dessert buffet.",
+  "price": null,
+  "days": "Saturday",
+  "times": null,
+  "conditions": null,
+  "branches": "Nobu London, Old Park Lane",
+  "sourceUrl": "https://www.noburestaurants.com/london-old-park-lane/home",
+  "quote": "Enjoy unlimited Nobu signature Sushi and Sashimi dishes at Nobu London's Saturday Brunch.",
+  "style": "sushi",
+  "area": "Mayfair"
+ },
+ {
+  "name": "Nobu Portman Square",
+  "slug": "nobu-portman-square",
+  "site": "https://www.nobuhotels.com/london-portman/dining/nobu-portman-square/?utm_source=google&utm_medium=organic&utm_campaign=google_local_nobu_restaurant",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Sunday sushi brunch: unlimited sushi buffet (nigiri, crispy rice, salmon tacos, sashimi), one main course from the menu and a dessert bar, with a live DJ.",
+  "price": "£90 per person; ages 6 to 12 £45 (buffet only £27); under 5s free (one child per paying adult)",
+  "days": "Every Sunday",
+  "times": "12.30pm to 5.30pm",
+  "conditions": "Two-hour reservation; last reservation 3.30pm",
+  "branches": "Nobu Hotel Portman Square, Marylebone",
+  "sourceUrl": "https://www.nobuhotels.com/london-portman/offers/sunday-brunch/",
+  "quote": "During your two-hour reservation, you will have access to the sushi bar buffet, featuring nigiri rolls, crispy rice, salmon tacos, fresh sashimi, and more. Priced at £90 per person.",
+  "style": "sushi",
+  "area": "Marylebone"
+ },
+ {
+  "name": "Market Place Food Hall Vauxhall",
+  "slug": "market-place-vauxhall",
+  "site": "https://www.marketplacefoodhall.com/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "Bottomless Tacos at Streat Latin: 60 minutes of unlimited tacos (chicken, beef, chorizo or jackfruit) for two people, with a welcome Jarritos drink each and nachos to share.",
+  "price": "£50 for two people",
+  "days": "Monday to Saturday",
+  "times": "11am to 8pm bookings",
+  "conditions": "60-minute slot from booking time; tacos served three per person at a time; dine in only; late arrivals do not extend the slot; cancellations refunded with 3 or more days notice",
+  "branches": "Vauxhall and St Paul's",
+  "sourceUrl": "https://www.marketplacefoodhall.com/events/streat-latin-experience-bottomless-tacos",
+  "quote": "For just £50 for two people sharing, you’ll enjoy: 60 minutes of unlimited tacos, with your choice of Chicken, Beef, Chorizo, or a delicious Jackfruit vegetarian option.",
+  "style": "other",
+  "area": "Vauxhall"
+ },
+ {
+  "name": "Diwana Bhel Poori House",
+  "slug": "diwana-bhel-poori-house",
+  "site": "https://www.diwanalondon.com/",
+  "type": "all-you-can-eat",
+  "endDate": null,
+  "checked": "2026-11-12",
+  "offer": "All-you-can-eat vegetarian Indian buffet at the Drummond Street restaurant.",
+  "price": "£14.95 per person",
+  "days": "Friday, Saturday and Sunday",
+  "times": "Friday 12pm to 2.30pm; Saturday and Sunday 12pm to 4pm",
+  "conditions": null,
+  "branches": "121-123 Drummond Street NW1",
+  "sourceUrl": "https://www.diwanalondon.com/",
+  "quote": "BUFFET. All you can eat for £14.95. Friday (12 PM - 2:30 PM) Saturday & Sunday (12 PM - 4:00 PM)",
+  "style": "indian",
+  "area": "Euston"
+ },
+ {
+  "name": "Franco Manca",
+  "site": "https://www.francomanca.co.uk/",
+  "rejected": true,
+  "why": "Group sharer buffet menus only."
+ },
+ {
+  "name": "Dishoom",
+  "site": "https://www.dishoom.com/",
+  "rejected": true,
+  "why": "Ramadan iftar event buffet in the journal, not a regular offer."
+ },
+ {
+  "name": "Hard Rock Cafe",
+  "site": "https://cafe.hardrock.com/london/",
+  "rejected": true,
+  "why": "Christmas Day buffet and festive events only."
+ },
+ {
+  "name": "Cosy Club",
+  "site": "https://cosyclub.co.uk/",
+  "rejected": true,
+  "why": "Party and Christmas group dining only."
+ },
+ {
+  "name": "Comptoir Libanais",
+  "site": "https://www.comptoirlibanais.com/",
+  "rejected": true,
+  "why": "Private events and catering buffets only."
+ },
+ {
+  "name": "Big Mamma",
+  "site": "https://www.bigmammagroup.com/",
+  "rejected": true,
+  "why": "Page code only; no readable all-you-can-eat or bottomless food offer."
+ },
+ {
+  "name": "Revolution",
+  "site": "https://revolution-bars.co.uk/",
+  "rejected": true,
+  "why": "Festive and party buffets, venue hire only."
+ },
+ {
+  "name": "Slug & Lettuce",
+  "site": "https://www.slugandlettuce.co.uk/",
+  "rejected": true,
+  "why": "Bottomless drinks brunch; the buffet menus are for groups of 6+/10+ parties."
+ },
+ {
+  "name": "Gordon Ramsay Restaurants",
+  "site": "https://www.gordonramsayrestaurants.com/",
+  "rejected": true,
+  "why": "Bottomless pizza mentioned only for private group hire at Street Pizza."
+ },
+ {
+  "name": "Bocca di Lupo",
+  "site": "https://www.boccadilupo.com/",
+  "rejected": true,
+  "why": "Private dining buffet-style events only."
+ },
+ {
+  "name": "Circolo Popolare",
+  "site": "https://www.bigmammagroup.com/italian-restaurants/circolo-popolare-london",
+  "rejected": true,
+  "why": "Page renders as code; no readable bottomless/unlimited food offer found."
+ },
+ {
+  "name": "Gloria",
+  "site": "https://www.bigmammagroup.com/italian-restaurants/gloria-london",
+  "rejected": true,
+  "why": "Page renders as code; no readable bottomless/unlimited food offer found."
+ },
+ {
+  "name": "Ave Mario",
+  "site": "https://www.bigmammagroup.com/italian-restaurants/ave-mario",
+  "rejected": true,
+  "why": "Page renders as code; no readable bottomless/unlimited food offer found."
+ },
+ {
+  "name": "Jacuzzi",
+  "site": "https://www.bigmammagroup.com/italian-restaurants/jacuzzi",
+  "rejected": true,
+  "why": "Page renders as code; no readable bottomless/unlimited food offer found."
+ },
+ {
+  "name": "Carlotta",
+  "site": "https://www.bigmammagroup.com/italian-restaurants/carlotta",
+  "rejected": true,
+  "why": "Page renders as code; no readable bottomless/unlimited food offer found."
+ },
+ {
+  "name": "Barbarella",
+  "site": "https://www.bigmammagroup.com/italian-restaurants/barbarella",
+  "rejected": true,
+  "why": "Page renders as code; no readable bottomless/unlimited food offer found."
+ },
+ {
+  "name": "Sud Italia",
+  "site": "https://www.suditaliapizza.co.uk/",
+  "rejected": true,
+  "why": "Event catering wording only."
+ },
+ {
+  "name": "The Dickens Inn",
+  "site": "https://www.dickensinn.co.uk/",
+  "rejected": true,
+  "why": "Event buffet reception wording only."
+ },
+ {
+  "name": "The George Inn",
+  "site": "https://www.greeneking.co.uk/pubs/greater-london/george-southwark?utm_source=g_places&utm_medium=locations&utm_campaign=HT_pubpage",
+  "rejected": true,
+  "why": "Christmas Day buffet only."
+ },
+ {
+  "name": "The Prospect of Whitby",
+  "site": "https://www.greeneking.co.uk/pubs/greater-london/prospect-of-whitby?utm_source=g_places&utm_medium=locations&utm_campaign=HT_pubpage",
+  "rejected": true,
+  "why": "Christmas Day buffet only."
+ },
+ {
+  "name": "Arment's Pie & Mash",
+  "site": "https://armentspieandmash.com/",
+  "rejected": true,
+  "why": "Party and event catering only."
+ },
+ {
+  "name": "Dishoom",
+  "site": "https://www.dishoom.com/covent-garden/?utm_source=google&utm_medium=organic&utm_campaign=Yext&utm_content=D1-CoventGarden&y_source=1_MjMwNDkyMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "rejected": true,
+  "why": "Ramadan iftar event buffet in the journal, not a regular offer."
+ },
+ {
+  "name": "Masala Zone",
+  "site": "https://www.masalazone.com/locations/piccadilly-circus/",
+  "rejected": true,
+  "why": "Only a \"buffet breakfast menu\" link; no regular all-you-can-eat offer."
+ },
+ {
+  "name": "Royal China",
+  "site": "https://www.royalchinagroup.co.uk/",
+  "rejected": true,
+  "why": "No all-you-can-eat offer on the site (page code and restaurant description only)."
+ },
+ {
+  "name": "Xi'an Impression",
+  "site": "https://xian-impression-london.grubbio.com/",
+  "rejected": true,
+  "why": "Ordering-platform menu lists other restaurants named Buffet; no offer from the venue itself."
+ },
+ {
+  "name": "Camden Market",
+  "site": "https://camdenmarket.com/?utm_source=google_my_business&utm_medium=direct&utm_campaign=camden-market",
+  "rejected": true,
+  "why": "Voodoo Ray's all-you-can-eat pizza is a 2018 event listing, not current."
+ },
+ {
+  "name": "Engawa",
+  "site": "https://engawa-london.com/",
+  "rejected": true,
+  "why": "Vegan buffet is a side included with lunch boxes, not a fixed-price all-you-can-eat format."
+ },
+ {
+  "name": "Honey & Co",
+  "site": "https://honeyandco.co.uk/",
+  "rejected": true,
+  "why": "Catering platters only."
+ },
+ {
+  "name": "Cafe Helen",
+  "site": "https://cafe-helen.menujoys.com/",
+  "rejected": true,
+  "why": "Menu states no all-you-can-eat option."
+ },
+ {
+  "name": "Sohaila",
+  "site": "https://sohailarestaurant.com/",
+  "rejected": true,
+  "why": "Catering buffets only."
+ },
+ {
+  "name": "Chuku's",
+  "site": "https://www.chukuslondon.co.uk/",
+  "rejected": true,
+  "why": "Pick-and-mix menu described as like a buffet; not all-you-can-eat."
+ },
+ {
+  "name": "Le Bab",
+  "site": "https://www.eatlebab.com/",
+  "rejected": true,
+  "why": "Private events buffet and sharing options only."
+ },
+ {
+  "name": "José",
+  "site": "https://josepizarro.com/restaurants-venues/jose/",
+  "rejected": true,
+  "why": "Catering and events only."
+ },
+ {
+  "name": "Pizarro",
+  "site": "https://josepizarro.com/restaurants-venues/pizarro/",
+  "rejected": true,
+  "why": "Catering and events only."
+ },
+ {
+  "name": "Sticks'n'Sushi",
+  "site": "https://www.sticksnsushi.com/gb/en/restaurants/battersea/",
+  "rejected": true,
+  "why": "Saturday brunch is a set food menu with 90 minutes of bottomless drinks (drinks only, not unlimited food)."
+ },
+ {
+  "name": "The Roebuck",
+  "site": "https://www.greeneking.co.uk/pubs/surrey/roebuck?utm_source=g_places&utm_medium=locations&utm_campaign=HT_pubpage",
+  "rejected": true,
+  "why": "Christmas Day buffet and events menu only."
+ },
+ {
+  "name": "The Cheese Barge",
+  "site": "https://www.thecheesebar.com/",
+  "rejected": true,
+  "why": "Page is the Pick & Cheese Wednesday offer (recorded under Pick & Cheese); no separate offer for the Cheese Barge."
+ },
+ {
+  "name": "Champagne + Fromage",
+  "site": "https://champagneplusfromage.co.uk/",
+  "rejected": true,
+  "why": "Catering cheese buffet styling only."
+ }
+]
