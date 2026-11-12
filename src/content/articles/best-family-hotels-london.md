@@ -268,7 +268,7 @@ Every hotel above costs £257 or more for a room for four. The Drey isn't in the
 
 ### The Drey
 
-*Earl's Court · 3 min from Earl's Court · Family night £243 · [Hotels.com](hotelscom:3807684064)*
+*Earl's Court · 3 min from Earl's Court · Family night £243 · [Hotels.com](hotelscom:3807684064) · [thedrey.com](https://thedrey.com/offer/family-stays/)*
 
 <div class="photo-row">
 

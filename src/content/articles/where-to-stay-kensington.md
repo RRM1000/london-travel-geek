@@ -219,7 +219,7 @@ Rates run from £85 on a February Wednesday to £176 on an April Saturday; our [
 
 ### The Drey — rooms with bunk beds for four and six
 
-*About £214 · 1 Barkston Gardens, SW5 0ER · Earl's Court 3 min · No restaurant · [Hotels.com](hotelscom:3807684064)*
+*About £214 · 1 Barkston Gardens, SW5 0ER · Earl's Court 3 min · No restaurant · [Hotels.com](hotelscom:3807684064) · [thedrey.com](https://thedrey.com/)*
 
 A four-star hotel in a stucco-fronted terrace on Barkston Gardens, with check-in and the room key on its app. **The family rooms are built round bunk beds: the Nest sleeps four with a double bed and a bunk, and the Warren sleeps six in two bunks, one with a double lower bunk.** Both come in an accessible version with a roll-in shower.
 
