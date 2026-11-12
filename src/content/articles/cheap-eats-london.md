@@ -481,6 +481,7 @@ Cooked breakfast from 8am, burgers and curries in a large multi-level room a min
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)** — 2-for-1, student and Blue Light discounts, offers by day, BYO and app rewards
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — packages compared on price per minute, and what “bottomless” covers
+- 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — buffets from £9.95 and the other fixed-price unlimited menus
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
 - 🛵 **[Food Delivery Apps in London](/articles/food-delivery-apps-london/)** — Deliveroo, Uber Eats and Just Eat: fees, memberships and collecting instead
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

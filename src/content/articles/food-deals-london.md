@@ -309,6 +309,7 @@ Set menus, happy hours, kids' offers, discount cards and bottomless brunch each 
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the other paid memberships
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — priced by the hour
+- 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — sushi, Korean barbecue, hot pot, rodízio and buffets, with each time limit
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
 - 🍽️ **[Where to Eat in London](/articles/eat-in-london-guide/)**
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**

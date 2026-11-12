@@ -19,6 +19,25 @@ const DEALS = "data/food-deals/deals.json";
 const SNAPSHOT = "data/snapshot-restaurants-v2.json";
 const SKIP = /\/(food-deals-london|happy-hour-london|restaurant-deals-london|kids-eat-free-london|bottomless-brunch-london|restaurant-discount-cards-london)\.md$/;
 
+// Where "More ... →" goes for each type of deal: its own guide, or its section of the hub.
+const HUB = "/articles/food-deals-london/";
+const MORE = {
+  "happy-hour": { url: "/articles/happy-hour-london/", label: "More happy hours" },
+  "set-menu": { url: "/articles/restaurant-deals-london/", label: "More set menus" },
+  "pre-theatre": { url: "/articles/restaurant-deals-london/", label: "More pre-theatre menus" },
+  "all-you-can-eat": { url: "/articles/all-you-can-eat-london/", label: "More all-you-can-eat" },
+  "kids-eat-free": { url: "/articles/kids-eat-free-london/", label: "More kids eat free" },
+  bottomless: { url: "/articles/bottomless-brunch-london/", label: "More bottomless brunches" },
+  "two-for-one": { url: `${HUB}#2-for-1-deals`, label: "More 2-for-1 deals" },
+  "percent-off": { url: `${HUB}#percentage-off-deals`, label: "More money-off deals" },
+  "discount-group": { url: `${HUB}#student-blue-light-and-other-discount-group-deals`, label: "More student and Blue Light deals" },
+  "day-deal": { url: `${HUB}#deals-by-day-of-the-week`, label: "Deals by day of the week" },
+  byo: { url: `${HUB}#bring-your-own-bottle`, label: "More BYO restaurants" },
+  "app-reward": { url: `${HUB}#app-and-loyalty-sign-up-rewards`, label: "More app rewards" },
+  birthday: { url: `${HUB}#birthday-freebies`, label: "More birthday freebies" },
+  default: { url: HUB, label: "All London food deals" },
+};
+
 const norm = (s) => s.toLowerCase().replace(/&amp;/g, "&").replace(/['’]/g, "").replace(/[^a-z0-9]/g, "");
 
 // Reload when the data changes, so a dev server picks up a new export.
@@ -80,13 +99,17 @@ export default function remarkVenueDeals() {
       let at = i + 1;
       const next = kids[at];
       if (next?.type === "paragraph" && next.children.length === 1 && next.children[0].type === "emphasis") at++;
-      const children = [{ type: "strong", children: [{ type: "text", value: "Deal:" }] }, { type: "text", value: " " }];
+      const children = [{ type: "strong", data: { hProperties: { className: ["venue-deal__tag"] } }, children: [{ type: "text", value: "Deal" }] }, { type: "text", value: " " }];
       deals.slice(0, 2).forEach((d, n) => {
         if (n) children.push({ type: "text", value: " " });
         children.push({ type: "text", value: line(d) + " " });
         children.push({ type: "link", url: d.sourceUrl, children: [{ type: "text", value: "Offer details" }] });
         children.push({ type: "text", value: "." });
       });
+      // And onward to the page that lists every deal of this kind.
+      const more = MORE[deals[0].type] ?? MORE.default;
+      children.push({ type: "text", value: " " });
+      children.push({ type: "link", url: more.url, data: { hProperties: { className: ["venue-deal__more"] } }, children: [{ type: "text", value: `${more.label} →` }] });
       kids.splice(at, 0, { type: "paragraph", data: { hProperties: { className: ["venue-deal"] } }, children });
     }
   };

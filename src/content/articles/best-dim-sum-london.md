@@ -228,6 +228,7 @@ Din Tai Fung is also in the [chain restaurants guide](/articles/best-chain-resta
 
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
+- 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — unlimited dim sum at Ping Pong and FeiEr Cottage
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🇯🇵 **[Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)**
