@@ -1,9 +1,13 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "inProgress": [],
   "nextUp": [
+    "Live deal pages (decided 11 Nov: later). LTG is fully static, so a Sheet edit only reaches the site after a rebuild and push. Options: (1) let the weekly deals check build and push its own fixes; (2) build deal tables from the Food Deals tab at build time and trigger a Vercel deploy hook (uses build minutes); (3) recommended: add the Vercel adapter and render only the four deal pages on demand with a 24-hour cache, reading the Food Deals tab, so Sheet edits go live within a day with no push and no build minutes.",
+    "Food deals coverage beyond the Sheet: a deal-venues list of popular London chains and grab-and-go brands (Pret, Gail's, Itsu, Greggs, Leon and so on; not burger-and-fried-chicken fast food), crawled with the same pipeline, then Too Good To Go-style end-of-day offers, food halls, pub groups and the discount-card brand lists as discovery sources. Browser pass for the 55 sites that blocked the crawl.",
+    "CBG: internal links to the 305 unindexed pages from the home page, city hubs and pages with traffic; resubmit the sitemap.",
+    "Booking.com airport taxis (4%) on CBG airport sections for Rome, Budapest and Bangkok, alongside the hotel trial. Attractions, flights and car hire not worth adding.",
     "Display ads, once the Journey details arrive: load the script from BaseLayout.astro with a list of ad-free pages (trip pages such as Harry Potter Studio Tour, Thames cruises, London Eye, tour buses and day trips, plus ticket pages such as Christmas shows). Hotel guides carry ads, because hotel affiliates have earned £3. Load it before GA4 with Mediavine's consent prompt on (the site has none), add ads.txt, leave the optional pop-ups off, test locally, then show Rob. After 30 live days compare ad income and affiliate clicks with the baseline of 287 clicks and about 15,000 views (2-29 Oct). Apply to Raptive at 25,000 views a month.",
     "On or after 1 November: rebase ltg-fares-1101 onto origin/main (10ec86de or later), add the new Uber Boat fares (Central £10.80, Central & East/West £12.40; online singles £10.60/£12.20), build and push. Delete the main checkout preview copies of the three new guides before syncing it.",
     "On 1 November, before pushing ltg-fares-1101: rebase it on ltg-dates-1025 and add the new Uber Boat peak fares (Central £10.80, Central & East or West £12.40; online singles £10.60 and £12.20) to five-days-in-london-itinerary, london-public-transport-costs-and-fares, thames-river-cruises-london and the-o2-travel-guide.",
@@ -22,6 +26,18 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    {
+      "what": "CBG: Request indexing in Search Console for 10 hubs: bangkok, tokyo, florence, istanbul, seville, dubrovnik, kyoto, reykjavik, tallinn, warsaw (citybreakgeek.com/<city>/)."
+    },
+    {
+      "what": "Food deals hub nav: the 'Deals' menu is capped at four, so 'Off-peak restaurant apps' was swapped for 'Food deals'. Keep, or restore and drop another?"
+    },
+    {
+      "what": "Push when ready: ltg-nov-dates, cbg-nov-weak and ltg-food-deals (all built and spot-checked, none pushed)."
+    },
+    {
+      "what": "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek); check City Break Geek is listed as a website in the CJ account."
+    },
     {
       "what": "Mediavine launch (application 18393): reply to Jacob that the sidebar is no longer sticky; in the dashboard finish ads.txt swap, Payment Profile, Privacy Policy link, GA4 connection and the consent platform; check the application domain reads londontravelgeek.com, not .co.uk."
     },
@@ -66,6 +82,30 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-11",
+      "what": "Deal lines in every guide (ltg-food-deals, unpushed): src/lib/remark-venue-deals.mjs adds a **Deal:** line with an Offer details link under any restaurant heading that has a current deal in data/food-deals/deals.json, at build time. 115 entries across 38 guides; expired or changed deals drop out automatically."
+    },
+    {
+      "date": "2026-11-11",
+      "what": "Food deals pipeline on branch ltg-food-deals (unpushed): crawl of the Sheet's restaurant sites plus 70 chains (scripts/discover-food-deals.mjs), three agents extracted 307 deals at 169 restaurants from the restaurants' own pages, merged into data/food-deals/deals.json and written to a new 'Food Deals' Sheet tab (scripts/write-food-deals.mjs, refuses to shrink the live tab)."
+    },
+    {
+      "date": "2026-11-11",
+      "what": "New pages on ltg-food-deals: food-deals-london (2-for-1, % off, student/Blue Light, by day, BYO, app and birthday rewards) and happy-hour-london (27 venues by area), linked from set lunch, kids eat free, cheap eats, discount cards, bottomless brunch and the eat guide."
+    },
+    {
+      "date": "2026-11-11",
+      "what": "Weekly food deals expiry check (scripts/recheck-food-deals.mjs) scheduled as the 'LTG food deals: weekly expiry check' task, Mondays ~07:42: drops expired deals, fixes changed ones and the articles naming them, rebuilds the Food Deals tab, commits locally, never pushes."
+    },
+    {
+      "date": "2026-11-11",
+      "what": "CBG indexing check (URL Inspection API, free): 305 of 1,818 sitemap pages not indexed (191 unknown to Google, 114 discovered not indexed), mostly the newer cities; hubs for Bangkok, Tokyo, Florence, Istanbul and Seville not indexed."
+    },
+    {
+      "date": "2026-11-11",
+      "what": "On ltg-nov-dates (unpushed): GetYourGuide partner-id build check (WWP7I0R only), Christmas/January/Twickenham/film-premiere pages, 279 venue photos merged into 14 guides, London Box Office link on Winter Wonderland, Big Bus Tours via CJ, Booking.com as the hotel fallback after Hotels.com. On cbg-nov-weak (unpushed): Bintan and Amsterdam canal cruise rewrites, Booking.com trial as the main hotel link for Rome, Budapest and Bangkok."
+    },
     {
       "date": "2026-11-10",
       "what": "Pushed b5a67480: seasonal date fixes, Gandeys circus on the Christmas shows page, 12 new food and tour pages with GetYourGuide picks, and the Mediavine sidebar change (no pinned column on ad pages, ad directly under the contents). 13 tour-selling pages added to the ad-free list (46 paths plus every -day-trip page)."

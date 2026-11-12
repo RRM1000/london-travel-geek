@@ -1,0 +1,2282 @@
+{
+ "on": "2026-11-12",
+ "count": {
+  "ok": 375,
+  "changed": 2
+ },
+ "results": [
+  {
+   "name": "Bella Italia",
+   "offer": "Free main when you download the Bella Italia app",
+   "sourceUrl": "https://www.bellaitalia.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Bella Italia",
+   "offer": "Kids eat free with every adult main",
+   "sourceUrl": "https://www.bellaitalia.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Be At One",
+   "offer": "MiXR app: free Bit Of Me cocktail (or 0% Tanqueray) on download, points on purchases, and Appi Hour, an extra hour of discounted drinks up to 10pm.",
+   "sourceUrl": "https://www.beatone.co.uk/mixr",
+   "status": "ok"
+  },
+  {
+   "name": "ASK Italian",
+   "offer": "Free Amaretto Spritz when you dine in this November, via the ASK Perks app",
+   "sourceUrl": "https://www.askitalian.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Bubbleology",
+   "offer": "Loyalty app: 10 points per drink; 90 points earns a free standard-size fruit tea or milk tea with tapioca; 10% bonus on wallet top-ups",
+   "sourceUrl": "https://bubbleology.co.uk/loyalty/",
+   "status": "ok"
+  },
+  {
+   "name": "Bubbleology",
+   "offer": "Loyalty app: every drink earns 10 points and 90 points buys a free regular fruit or milk tea with tapioca.",
+   "sourceUrl": "https://bubbleology.co.uk/loyalty/",
+   "status": "ok"
+  },
+  {
+   "name": "Bubble Magik",
+   "offer": "Loyalty scheme: collect 10 bubbles for a free regular drink with one topping",
+   "sourceUrl": "https://bubblemagik.com/loyalty/",
+   "status": "ok"
+  },
+  {
+   "name": "Brasserie Blanc",
+   "offer": "Le Club: a small gift for downloading the app, plus birthday bubbles and member offers.",
+   "sourceUrl": "https://brasserieblanc.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Farmer J",
+   "offer": "Club Fork app: one Fork for every order of £12 or more; 12 Forks earn a free Fieldtray or Fieldbowl.",
+   "sourceUrl": "https://www.farmerj.com/club-fork-terms/",
+   "status": "ok"
+  },
+  {
+   "name": "Banana Tree",
+   "offer": "£10 off your next visit when you join the Big Flavour Club",
+   "sourceUrl": "https://bananatree.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Banana Tree",
+   "offer": "Bottomless Bowls: 90 minutes of unlimited bowls",
+   "sourceUrl": "https://bananatree.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Banana Tree",
+   "offer": "Wednesday: any Wok Tossed Noodles dish (£3 extra to upgrade to Steak/Salmon/Duck Soba or Steak Pad Thai)",
+   "sourceUrl": "https://bananatree.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Banana Tree",
+   "offer": "Free kids' main, drink and dessert with an adult main",
+   "sourceUrl": "https://bananatree.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Banana Tree",
+   "offer": "Express Lunch: Banana Tree favourites with a soft drink",
+   "sourceUrl": "https://bananatree.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Banana Tree",
+   "offer": "2 for 1 cocktails (mocktails too)",
+   "sourceUrl": "https://bananatree.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Five Guys",
+   "offer": "Free Little or Regular fries on signing up to Five Guys Rewards; spend £7+ to earn a Member Reward for next visit, plus a birthday treat",
+   "sourceUrl": "https://www.fiveguys.co.uk/rewards/",
+   "status": "ok"
+  },
+  {
+   "name": "Coco di Mama",
+   "offer": "Club Coco app: free treat on joining; a stamp for every order over £2.45; nine stamps earn a free reward (coffee, drink, breakfast item, snack, pasta pot, salad, sandwich or grain box).",
+   "sourceUrl": "https://www.cocodimama.co.uk/club-coco",
+   "status": "ok"
+  },
+  {
+   "name": "Coco di Mama",
+   "offer": "Free treat on your birthday through the Club Coco app.",
+   "sourceUrl": "https://www.cocodimama.co.uk/club-coco",
+   "status": "ok"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "offer": "Join the Frankie's family and get a free main",
+   "sourceUrl": "https://www.frankieandbennys.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Ginger & White",
+   "offer": "Free coffee with every completed loyalty card (digital app available)",
+   "sourceUrl": "https://www.gingerandwhite.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Franco Manca",
+   "offer": "Loyalty app: a free pizza for every 6 stamps (4 for students)",
+   "sourceUrl": "https://www.francomanca.co.uk/loyalty-rewards/",
+   "status": "ok"
+  },
+  {
+   "name": "Bone Daddies",
+   "offer": "Every bowl earns a stamp; five stamps means a free ramen",
+   "sourceUrl": "https://bonedaddies.com/home/app/",
+   "status": "ok"
+  },
+  {
+   "name": "Bone Daddies",
+   "offer": "20% off for students who register with their uni email",
+   "sourceUrl": "https://bonedaddies.com/home/app/",
+   "status": "ok"
+  },
+  {
+   "name": "Grind",
+   "offer": "Grind Rewards: 1 point per £1 in-store or online; 55 points buys a free coffee or Espresso Martini in any Grind.",
+   "sourceUrl": "https://grind.co.uk/pages/grind-rewards",
+   "status": "ok"
+  },
+  {
+   "name": "Hakata Ramen + Bar",
+   "offer": "Loyalty Club: 1 point per £1 spent; every 100 points earns a voucher for a free bowl of ramen",
+   "sourceUrl": "https://www.hakata.co.uk/loyalty-club",
+   "status": "ok"
+  },
+  {
+   "name": "Itsu",
+   "offer": "itsu rewards: a butterfly for every £5 order; rewards at the 3rd, 5th and 7th butterfly, plus a welcome gift and birthday treats",
+   "sourceUrl": "https://www.itsu.com/loyalty/",
+   "status": "ok"
+  },
+  {
+   "name": "Ixchel",
+   "offer": "Ixchel Rewards: after five visits, a complimentary Tommy's Margarita or dessert",
+   "sourceUrl": "https://www.ixchellondon.com/ixchel-rewards",
+   "status": "ok"
+  },
+  {
+   "name": "Greggs",
+   "offer": "Free hot or iced drink as a welcome gift when you register a new account on the Greggs App.",
+   "sourceUrl": "https://www.greggs.com/legals/promotions-and-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Greggs",
+   "offer": "Greggs App stamps: buy nine eligible products in one of six reward categories and the 10th item is free.",
+   "sourceUrl": "https://www.greggs.com/legals/promotions-and-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Greggs",
+   "offer": "Paper coffee loyalty card: buy nine hot drinks, get a free hot drink.",
+   "sourceUrl": "https://www.greggs.com/legals/promotions-and-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Greggs",
+   "offer": "Students get a free sausage roll, vegan roll, cheese and onion bake or sweet treat with a full Sandwich Deal.",
+   "sourceUrl": "https://www.greggs.com/legals/promotions-and-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Download the app for a free main, plus a £20 birthday voucher",
+   "sourceUrl": "https://www.iguanas.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Student bottomless brunch: 2 hours of unlimited drinks",
+   "sourceUrl": "https://www.iguanas.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Bottomless Tapas",
+   "sourceUrl": "https://www.iguanas.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Kids eat free, 7 days a week",
+   "sourceUrl": "https://www.iguanas.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Knoops",
+   "offer": "Knoops app points: 1 point per £1; 45 points for a free drink, 15 for a free marshmallow, 100 for a free Flakes Tube; birthday reward once a year",
+   "sourceUrl": "https://knoops.com/pages/loyalty-app",
+   "status": "ok"
+  },
+  {
+   "name": "Knoops",
+   "offer": "Coffee Club: 50% off coffee before midday",
+   "sourceUrl": "https://knoops.com/pages/loyalty-app",
+   "status": "ok"
+  },
+  {
+   "name": "Knoops",
+   "offer": "Coffee Club: 50% off selected coffees before midday when ordering through the Knoops app.",
+   "sourceUrl": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+   "status": "ok"
+  },
+  {
+   "name": "Knoops",
+   "offer": "Free small hot or iced chocolate in the week before and after your birthday via the app.",
+   "sourceUrl": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+   "status": "ok"
+  },
+  {
+   "name": "Knoops",
+   "offer": "Students get 15% off small barista-made drinks when ordering through the Knoops app.",
+   "sourceUrl": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+   "status": "ok"
+  },
+  {
+   "name": "Itsu",
+   "offer": "itsu app: a butterfly for each visit spending £5 or more; 3 butterflies give a free snack or drink, 5 a free gyoza, 7 a free itsu meal; double butterflies every evening after 5pm.",
+   "sourceUrl": "https://www.itsu.com/faq/",
+   "status": "ok"
+  },
+  {
+   "name": "Marugame Udon",
+   "offer": "Marugame Club: welcome gift of 2 classic tempura on first visit; stamp levels unlock free and discounted bowls, up to 15% off every order at VIP level",
+   "sourceUrl": "https://marugame.co.uk/jointheclub/",
+   "status": "ok"
+  },
+  {
+   "name": "Maki & Ramen",
+   "offer": "App sign-up gives a free drink; 2,500 lifetime points unlocks 20% off for life",
+   "sourceUrl": "https://www.makiramen.com/loyalty/",
+   "status": "ok"
+  },
+  {
+   "name": "Paul",
+   "offer": "Buy five eligible barista-made drinks and get the sixth free, collected on the PAUL app or a physical loyalty card.",
+   "sourceUrl": "https://www.paul-uk.com/our-stores/loyaltyapp",
+   "status": "ok"
+  },
+  {
+   "name": "Caffè Nero",
+   "offer": "Collect a stamp for each qualifying handcrafted drink on the paper card or app, and the 10th is free (any size, specialities included).",
+   "sourceUrl": "https://www.caffenero.com/uk/paper-loyalty-terms",
+   "status": "ok"
+  },
+  {
+   "name": "Caffè Nero",
+   "offer": "Bring your own reusable cup and get a bonus loyalty stamp.",
+   "sourceUrl": "https://www.caffenero.com/uk/paper-loyalty-terms",
+   "status": "ok"
+  },
+  {
+   "name": "PizzaExpress",
+   "offer": "PizzaExpress Club: on joining, free Dough Balls or a side, 25% off a Piccolo kids' meal and a birthday treat; Silver and Gold tiers add free Romana upgrades and half-price or free Piccolo meals",
+   "sourceUrl": "https://www.pizzaexpress.com/club",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Free Matcha Affogato when you join the Shoryu Loyalty Club app",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Free matcha affogato when you join the loyalty app",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Student Beans: 30% off food Mon–Wed, 15% off food Thu–Sun",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Student Beans: 30% off food Mon–Wed, 15% off Thu–Sun",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "2 cocktails or 2 pints of beer for £12",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Happy hour: 2 cocktails or 2 pints of beer for £12",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Kids set menu: starter, ramen and dessert",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "20% off the total bill when showing a valid theatre or cinema ticket",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "20% off the total bill with a theatre or cinema ticket (one ticket covers up to 6 people)",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Hakata set menu: two courses for £21 or three for £27",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Winter Wagyu set menu: wagyu main, seasonal side and a drink",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "offer": "Set menu: two or three courses",
+   "sourceUrl": "https://www.shoryuramen.com/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Starbucks",
+   "offer": "Starbucks Rewards: earn 10 Stars per £1 spent, redeem from 150 Stars for free items. Collect 2,500 Stars to reach Gold.",
+   "sourceUrl": "https://www.starbucks.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Starbucks",
+   "offer": "Gold members of Starbucks Rewards get a free drink on their birthday, plus free extras.",
+   "sourceUrl": "https://www.starbucks.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Nando's",
+   "offer": "Free starter on joining Nando's Rewards, then a Chilli for every day you spend £7+ (free food at 3, 6 and 10 Chillies)",
+   "sourceUrl": "https://www.nandos.co.uk/rewards",
+   "status": "ok"
+  },
+  {
+   "name": "TGI Fridays",
+   "offer": "Stripes Rewards: free dessert on your first visit with a main meal, and free dessert on your birthday",
+   "sourceUrl": "https://www.tgifridays.co.uk/rewards",
+   "status": "ok"
+  },
+  {
+   "name": "The Prospect of Whitby",
+   "offer": "Greene King app: new customers spin the wheel for a free dessert, pub classic or pint",
+   "sourceUrl": "https://www.greeneking.co.uk/loyalty",
+   "status": "ok"
+  },
+  {
+   "name": "Tortilla",
+   "offer": "Burrito Society: 2 stamps = free guac, 5 stamps = free main; free stamp on sign-up",
+   "sourceUrl": "https://www.tortilla.co.uk/burrito-society",
+   "status": "ok"
+  },
+  {
+   "name": "Angler",
+   "offer": "Evolv Rewards: 10% back in points on every visit and exclusive perks such as 20% off food and drink",
+   "sourceUrl": "https://anglerrestaurant.com/rewards/",
+   "status": "ok"
+  },
+  {
+   "name": "Wasabi",
+   "offer": "Wasabi Rewards: points on every penny spent, redeemable against drinks, sushi and hot dishes.",
+   "sourceUrl": "https://www.wasabi.uk.com/wasabi-rewards/",
+   "status": "ok"
+  },
+  {
+   "name": "Wasabi",
+   "offer": "Wasabi Rewards earns 1 point per penny spent. 4,000 points gets a free drink or snack, 8,000 a free small sushi set or side, 15,000 any menu item bar platters.",
+   "sourceUrl": "https://www.wasabi.uk.com/wasabi-rewards/",
+   "status": "ok"
+  },
+  {
+   "name": "The Dickens Inn",
+   "offer": "Club: first drink free as a welcome, a free bottle of prosecco on your birthday and a free drink or dessert on your third visit",
+   "sourceUrl": "https://www.dickensinn.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "The Dickens Inn",
+   "offer": "Set lunch: two or three courses",
+   "sourceUrl": "https://www.dickensinn.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "TOKii",
+   "offer": "Friends of TOKii sign-up: 40% off selected menus, complimentary upgrades and sides",
+   "sourceUrl": "https://www.tokii.co.uk/friends-of-tokii/",
+   "status": "ok"
+  },
+  {
+   "name": "WatchHouse",
+   "offer": "One free coffee for every six stamps in the WatchHouse app",
+   "sourceUrl": "https://watchhouse.com/pages/app",
+   "status": "ok"
+  },
+  {
+   "name": "Zia Lucia",
+   "offer": "Download the Zia Lucia app for offers and rewards, plus a birthday treat",
+   "sourceUrl": "https://zialucia.com/loyalty-and-rewards/",
+   "status": "ok"
+  },
+  {
+   "name": "WatchHouse",
+   "offer": "Loyalty stamps: collect six stamps and get one coffee free.",
+   "sourceUrl": "https://watchhouse.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Wagamama",
+   "offer": "Soul Club app: earn stamps as you eat and unlock free sides and mains, a welcome reward and a birthday gift",
+   "sourceUrl": "https://www.wagamama.com/soul-club",
+   "status": "ok"
+  },
+  {
+   "name": "Byron",
+   "offer": "Free birthday burger for Byron Club members",
+   "sourceUrl": "https://www.byron.co.uk/byron-club",
+   "status": "ok"
+  },
+  {
+   "name": "Byron",
+   "offer": "25% off food all week for students who are Byron Club members",
+   "sourceUrl": "https://www.byron.co.uk/byron-club",
+   "status": "ok"
+  },
+  {
+   "name": "Workshop Coffee",
+   "offer": "One free coffee after every six stamps on the WatchHouse app",
+   "sourceUrl": "https://watchhouse.com/blogs/locations/marylebone",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "Free garlic bread on your next visit when you join the Zillionaires' Club",
+   "sourceUrl": "https://www.zizzi.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "20% off the food bill for AA members",
+   "sourceUrl": "https://www.zizzi.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "One free Bambini meal with an adult main via Kids Pass",
+   "sourceUrl": "https://www.zizzi.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "Two Dine for £25: share a pizza, 2 sides and 2 soft drinks",
+   "sourceUrl": "https://www.zizzi.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "Lunch deal: starter and main, or main and dessert",
+   "sourceUrl": "https://www.zizzi.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "£1 mains: buy a main and get a second for £1",
+   "sourceUrl": "https://www.zizzi.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "2-for-1 via Tastecard",
+   "sourceUrl": "https://www.zizzi.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Bamboo Mat",
+   "offer": "Bamboo Brunch: Nikkei brunch to share, with a bottomless drinks upgrade",
+   "sourceUrl": "https://www.bamboo-mat.co.uk/menu",
+   "status": "ok"
+  },
+  {
+   "name": "All Star Lanes",
+   "offer": "Bottomless brunch with 90 minutes of bottomless drinks",
+   "sourceUrl": "https://www.allstarlanes.co.uk/offers-events",
+   "status": "ok"
+  },
+  {
+   "name": "Tower Bridge Collective",
+   "offer": "£5 reward in vouchers when you sign up to the app, spendable across the food partners",
+   "sourceUrl": "https://towerbridgecollective.co.uk/5-reward-sign-up-to-our-app-for-5-reward/",
+   "status": "ok"
+  },
+  {
+   "name": "Gail's",
+   "offer": "Birthday reward: a sweet treat from the baker's table with a purchase",
+   "sourceUrl": "https://gails.com/pages/loyalty-terms-and-conditions",
+   "status": "ok"
+  },
+  {
+   "name": "Big Easy",
+   "offer": "Bottomless brunch: unlimited drinks (prosecco, beer, frozen mojito, thick shake or wine) added to weekend brunch",
+   "sourceUrl": "https://www.bigeasy.co.uk/menus/weekend-boozy-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Barge East",
+   "offer": "Saturday bottomless lunch: starter and main plus 90 minutes of bottomless drinks",
+   "sourceUrl": "https://www.bargeeast.com/bottomless-menu",
+   "status": "ok"
+  },
+  {
+   "name": "Bar Kroketa",
+   "offer": "Bottomless brunch: set menu with unlimited kroketas and bottomless drinks for 90 minutes",
+   "sourceUrl": "https://kroketa.co.uk/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Cosy Club",
+   "offer": "90 minutes of bottomless drinks added to any brunch or lunch dish",
+   "sourceUrl": "https://cosyclub.co.uk/brunch/",
+   "status": "ok"
+  },
+  {
+   "name": "Beany Green Little Venice",
+   "offer": "Bottomless brunch: a savoury and a sweet brunch dish with 90 minutes of bottomless Daisy Fizz (or kombucha teas)",
+   "sourceUrl": "https://www.daisygreenfood.com/menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Parliament Hill Cafe",
+   "offer": "Bottomless brunch: one savoury and one sweet dish with 90 minutes of bottomless Daisy Fizz (kombucha tea version £43)",
+   "sourceUrl": "https://www.daisygreenfood.com/menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Côte",
+   "offer": "Free-flow fizz with weekend brunch",
+   "sourceUrl": "https://www.cote.co.uk/restaurant-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Côte",
+   "offer": "20% off the bill for Blue Light card and DDS holders",
+   "sourceUrl": "https://www.cote.co.uk/restaurant-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Côte",
+   "offer": "Prix Fixe: two courses",
+   "sourceUrl": "https://www.cote.co.uk/restaurant-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Festive bottomless brunch: 2 hours of unlimited cocktails, mocktails, beer and fizz plus a brunch dish",
+   "sourceUrl": "https://www.iguanas.co.uk/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Hard Rock Cafe",
+   "offer": "Weekend brunch: one brunch main and unlimited bubbles for 90 minutes",
+   "sourceUrl": "https://cafe.hardrock.com/london/",
+   "status": "ok"
+  },
+  {
+   "name": "Hard Rock Cafe",
+   "offer": "15% off food and non-alcoholic drinks for Blue Light Card holders",
+   "sourceUrl": "https://cafe.hardrock.com/london/",
+   "status": "ok"
+  },
+  {
+   "name": "Hard Rock Cafe",
+   "offer": "Happy Hour at the bar",
+   "sourceUrl": "https://cafe.hardrock.com/london/",
+   "status": "ok"
+  },
+  {
+   "name": "Chuku's",
+   "offer": "Bottomless sharing plates: unlimited reorders of selected sharing plates",
+   "sourceUrl": "https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday",
+   "status": "ok"
+  },
+  {
+   "name": "Chuku's",
+   "offer": "Free dessert for your table when everyone is dining",
+   "sourceUrl": "https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday",
+   "status": "ok"
+  },
+  {
+   "name": "Market Place Food Hall Vauxhall",
+   "offer": "Bottomless Tacos at Streat Latin: 60 minutes of unlimited tacos, a welcome Jarritos drink each and nachos to share",
+   "sourceUrl": "https://www.marketplacefoodhall.com/events/streat-latin-experience-bottomless-tacos",
+   "status": "ok"
+  },
+  {
+   "name": "Purcha",
+   "offer": "Download the app for 5 free stamps; 6 stamps = 1 free drink",
+   "sourceUrl": "https://purcha.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "BoxHall City",
+   "offer": "Guilty Pleasures bottomless brunch: 90 minutes of drinks, a brunch dish and three hours of entertainment",
+   "sourceUrl": "https://www.boxhall.co.uk/events/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Megan's",
+   "offer": "Classic bottomless brunch: 90 minutes of unlimited prosecco, mimosas, bellinis or similar",
+   "sourceUrl": "https://megans.co.uk/offers/bottomless-brunch-london/",
+   "status": "ok"
+  },
+  {
+   "name": "Pergola on the Wharf",
+   "offer": "Saturday bottomless brunch: three-course brunch with 90 minutes of bottomless cocktails or fizz",
+   "sourceUrl": "https://www.pergolacanarywharf.co.uk/events/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "Bottomless drinks upgrade to an a la carte meal: 90 minutes of unlimited beer, wine and Prosecco (add £3 for cocktails)",
+   "sourceUrl": "https://www.prezzo.co.uk/about/bottomless-brunch/",
+   "status": "ok"
+  },
+  {
+   "name": "Ping Pong",
+   "offer": "Bottomless Saturday brunch",
+   "sourceUrl": "https://www.pingpongdimsum.com/offers-events/",
+   "status": "ok"
+  },
+  {
+   "name": "Ping Pong",
+   "offer": "15% off for students",
+   "sourceUrl": "https://www.pingpongdimsum.com/offers-events/",
+   "status": "ok"
+  },
+  {
+   "name": "Ping Pong",
+   "offer": "All-you-can-eat dim sum",
+   "sourceUrl": "https://www.pingpongdimsum.com/offers-events/",
+   "status": "ok"
+  },
+  {
+   "name": "Ping Pong",
+   "offer": "Bento lunch set",
+   "sourceUrl": "https://www.pingpongdimsum.com/offers-events/",
+   "status": "ok"
+  },
+  {
+   "name": "Polo Bar",
+   "offer": "24-hour bottomless brunch: bottomless prosecco or Camden Hells lager for 1.5 hours",
+   "sourceUrl": "https://www.polobar.co.uk/pages/247-bottomless",
+   "status": "ok"
+  },
+  {
+   "name": "Slug & Lettuce",
+   "offer": "Bottomless brunch: a brunch dish and two hours of drinks.",
+   "sourceUrl": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Pick & Cheese",
+   "offer": "Bottomless Plates: unlimited cheese, charcuterie and pickles for 75 minutes",
+   "sourceUrl": "https://www.pickandcheese.com/news/bottomless-plates",
+   "status": "ok"
+  },
+  {
+   "name": "Seven Dials Market",
+   "offer": "Bottomless Cheese Wednesday at Pick & Cheese: 75 minutes of unlimited plates of cheese, charcuterie and pickles.",
+   "sourceUrl": "https://www.sevendialsmarket.com/whats-on/bottomless-cheese-wednesday/",
+   "status": "ok"
+  },
+  {
+   "name": "Temper",
+   "offer": "Saturday bottomless brunch with 90 minutes of drinks: Standard (prosecco, mimosas, beer) or Ultimate (adds wine and margaritas).",
+   "sourceUrl": "https://temperrestaurant.com/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Temper",
+   "offer": "Saturday lobster and steak bottomless brunch with 90 minutes of free-flowing drinks.",
+   "sourceUrl": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "The Breakfast Club",
+   "offer": "The Mayor's Boozy Brunch: 2 hours of bottomless fizz, beer and cocktails plus a brunch dish",
+   "sourceUrl": "https://www.thebreakfastclubcafes.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "The Gun",
+   "offer": "Bottomless Sunday roast: free bottomless wine with an a la carte main",
+   "sourceUrl": "https://www.thegundocklands.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Sticks'n'Sushi",
+   "offer": "Bottomless sushi brunch: 90 minutes of endless drinks with a brunch menu",
+   "sourceUrl": "https://www.sticksnsushi.com/gb/en/lp/bottomless-brunch/",
+   "status": "ok"
+  },
+  {
+   "name": "Dirty Bones",
+   "offer": "WingsDay: 90 minutes of bottomless chicken wings",
+   "sourceUrl": "https://dirty-bones.com/wingsday",
+   "status": "ok"
+  },
+  {
+   "name": "Mr Bao",
+   "offer": "Bottomless drinks specials with weekend brunch (mimosa, Bloody Maria, Bloody Mary, passion fruit rum punch, prosecco)",
+   "sourceUrl": "https://mrbao.co.uk/our-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Dinings SW3",
+   "offer": "No-Corkage Sundays and Mondays: bring your own wine at no charge",
+   "sourceUrl": "https://www.diningssw3.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Hawksmoor",
+   "offer": "BYO Wine Mondays: bring any bottle for £5 corkage",
+   "sourceUrl": "https://thehawksmoor.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Hawksmoor",
+   "offer": "Lunch set menu (1/2/3 courses) and early evening set menu (2/3 courses)",
+   "sourceUrl": "https://thehawksmoor.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Macellaio RC",
+   "offer": "Corkage-free restaurant",
+   "sourceUrl": "https://www.macellaiorc.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Roe",
+   "offer": "Saturday bottomless brunch with frozen margaritas, wine, sparkling and draught beer",
+   "sourceUrl": "https://roerestaurant.co.uk/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "Sheba",
+   "offer": "Bring your own alcohol with no corkage fee",
+   "sourceUrl": "https://www.shebabricklane.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Sheba",
+   "offer": "Tuesday offer: up to 50% off food (25% off with BYOB, 50% off without)",
+   "sourceUrl": "https://www.shebabricklane.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Sheba",
+   "offer": "50% off food at lunch and happy hour",
+   "sourceUrl": "https://www.shebabricklane.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "BYO wine Mondays: bring your favourite bottle to enjoy with dinner",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "£2 oysters",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "Six Maldon oysters and a pint of Guinness",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "Any pizza",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "Burger with skin-on fries",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "£7 margaritas",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "Midweek set lunch: two or three courses",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tavern",
+   "offer": "Lunch set menu",
+   "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Tayyabs",
+   "offer": "Bring your own bottle",
+   "sourceUrl": "https://www.tayyabs.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Marie's Café",
+   "offer": "Bring your own alcohol for £1 corkage per person",
+   "sourceUrl": "https://mariescafe.has.restaurant/menu/",
+   "status": "ok"
+  },
+  {
+   "name": "The Laundry",
+   "offer": "No corkage charge on Tuesdays: bring your own",
+   "sourceUrl": "https://thelaundrybrixton.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Be At One",
+   "offer": "Spicy Saturdays: £7 margaritas.",
+   "sourceUrl": "https://www.beatone.co.uk/offers/spicy-saturdays",
+   "status": "ok"
+  },
+  {
+   "name": "Brasserie Blanc",
+   "offer": "Steak Night: a complimentary bottle of wine to share when two steaks are ordered.",
+   "sourceUrl": "https://brasserieblanc.com/brasseries/chancery-lane/",
+   "status": "ok"
+  },
+  {
+   "name": "Brasserie Blanc",
+   "offer": "Moules Mondays: a pot of moules marinière, frites and a glass of Pionnier.",
+   "sourceUrl": "https://brasserieblanc.com/brasseries/chancery-lane/",
+   "status": "ok"
+  },
+  {
+   "name": "Brasserie Blanc",
+   "offer": "Charcuterie & Wine Night: a sharing charcuterie board with a drink pairing.",
+   "sourceUrl": "https://brasserieblanc.com/brasseries/southbank/",
+   "status": "ok"
+  },
+  {
+   "name": "Chez Bruce",
+   "offer": "Free corkage on Sunday evening: one 75cl bottle per person, up to 4 per table",
+   "sourceUrl": "https://www.chezbruce.co.uk/special-offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Chez Bruce",
+   "offer": "Brucie Bonus weekday set lunch",
+   "sourceUrl": "https://www.chezbruce.co.uk/special-offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Turtle Bay",
+   "offer": "2-hour Bottomless Brunch",
+   "sourceUrl": "https://turtlebay.co.uk/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Turtle Bay",
+   "offer": "Island Nights: 2 courses from the Island Nights menu and 90 minutes of bottomless drinks",
+   "sourceUrl": "https://turtlebay.co.uk/bottomless-brunch",
+   "status": "ok"
+  },
+  {
+   "name": "Greene King",
+   "offer": "Pub Classics: two mains for £15.95 (e.g. Sausage & Mash, Hunter's Chicken, Lasagne, Gammon Steak).",
+   "sourceUrl": "https://www.greeneking.co.uk/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Greene King",
+   "offer": "Any burger from the range for £9.95, with fries.",
+   "sourceUrl": "https://www.greeneking.co.uk/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Greene King",
+   "offer": "15% off food with a Blue Light Card.",
+   "sourceUrl": "https://www.greeneking.co.uk/deals",
+   "status": "ok"
+  },
+  {
+   "name": "Café Murano",
+   "offer": "Pasta of the day with an optional glass of wine for £5 more",
+   "sourceUrl": "https://www.cafemurano.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Chucs Mayfair",
+   "offer": "Monday's Uncorked: £4.50 corkage and 50% off the wine list (up to £200)",
+   "sourceUrl": "https://www.chucsrestaurants.com/restaurant/mayfair/",
+   "status": "ok"
+  },
+  {
+   "name": "Chucs Mayfair",
+   "offer": "Set menu, two or three courses",
+   "sourceUrl": "https://www.chucsrestaurants.com/restaurant/mayfair/",
+   "status": "ok"
+  },
+  {
+   "name": "Ixchel",
+   "offer": "£5 tacos and quesadillas, with an £8 Tommy's Margarita",
+   "sourceUrl": "https://www.ixchellondon.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Ixchel",
+   "offer": "Ritual de Carne: 400g cut of grass-fed meat",
+   "sourceUrl": "https://www.ixchellondon.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Ixchel",
+   "offer": "Three-course set lunch",
+   "sourceUrl": "https://www.ixchellondon.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "Mate Night: 2 mains and 2 drinks",
+   "sourceUrl": "https://www.prezzo.co.uk/about/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "Meat Free Monday: 50% off the vegetarian and vegan menu",
+   "sourceUrl": "https://www.prezzo.co.uk/about/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "Free From Wednesday: 50% off gluten free dishes",
+   "sourceUrl": "https://www.prezzo.co.uk/about/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "Student Perks: one free adult main each week with a full-priced drink",
+   "sourceUrl": "https://www.prezzo.co.uk/about/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "Any pizza or pasta plus a drink",
+   "sourceUrl": "https://www.prezzo.co.uk/about/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "MEATliquor",
+   "offer": "50p wings (Buffalo, K.C. BBQ or Garlicky) or Impossible nuggets (Naked or Nashville Dusted), all day Monday.",
+   "sourceUrl": "https://meatliquor.com/deals/",
+   "status": "ok"
+  },
+  {
+   "name": "MEATliquor",
+   "offer": "£5 Harbour Brewing pints and house wines on weekday afternoons.",
+   "sourceUrl": "https://meatliquor.com/deals/",
+   "status": "ok"
+  },
+  {
+   "name": "CRATE Brewery",
+   "offer": "£5 Margherita pizzas for Crate Perks members",
+   "sourceUrl": "https://www.cratebrewery.com/pages/perks",
+   "status": "ok"
+  },
+  {
+   "name": "CRATE Brewery",
+   "offer": "Half-price jug of Crate beer for Crate Perks members",
+   "sourceUrl": "https://www.cratebrewery.com/pages/perks",
+   "status": "ok"
+  },
+  {
+   "name": "Mamma Dough",
+   "offer": "Half-price pizza: every pizza on the menu",
+   "sourceUrl": "https://mammadough.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Temper",
+   "offer": "Taco Tuesday: tacos and margaritas at a set price.",
+   "sourceUrl": "https://temperrestaurant.com/taco-tuesday",
+   "status": "ok"
+  },
+  {
+   "name": "Wandercrust",
+   "offer": "Monday deal: 2 pizzas for £20",
+   "sourceUrl": "https://wandercrust.com/menu",
+   "status": "ok"
+  },
+  {
+   "name": "Be At One",
+   "offer": "Student prices via the MiXR app: £6 cocktails, £7 deluxe cocktails, 50% off spirit and mixer.",
+   "sourceUrl": "https://www.beatone.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Be At One",
+   "offer": "Hospitality industry offer: Peroni with a tequila shot for £6, cocktails £6.",
+   "sourceUrl": "https://www.beatone.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Be At One",
+   "offer": "Happy Hour: 2-for-1 cocktails, £6 pints, £5 spirit and mixer, £5 beer and cider, £7 wine and prosecco, 2 for £7 shots, chips and dips £4.",
+   "sourceUrl": "https://www.beatone.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "ASK Italian",
+   "offer": "20% off food for AA members",
+   "sourceUrl": "https://www.askitalian.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "ASK Italian",
+   "offer": "10% off the set menu",
+   "sourceUrl": "https://www.askitalian.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "ASK Italian",
+   "offer": "2-for-1 on starters, mains and desserts via Tastecard",
+   "sourceUrl": "https://www.askitalian.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Comptoir Libanais",
+   "offer": "25% off food for students, dine-in or takeaway.",
+   "sourceUrl": "https://www.comptoirlibanais.com/promotions/",
+   "status": "ok"
+  },
+  {
+   "name": "Brasserie Blanc",
+   "offer": "20% off the full à la carte food menu, including chef's daily specials, for NHS, emergency services, social care, armed forces and teaching staff.",
+   "sourceUrl": "https://brasserieblanc.com/blue-light-card/",
+   "status": "ok"
+  },
+  {
+   "name": "Côte",
+   "offer": "20% off food for UNiDAYS-registered students",
+   "sourceUrl": "https://www.cote.co.uk/restaurant-offers/student-discount",
+   "status": "ok"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "offer": "Student discount: 30% off food all year (40% until 12 November)",
+   "sourceUrl": "https://www.frankieandbennys.com/student-discount",
+   "status": "ok"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "offer": "Blue Light discount: 20% off the bill",
+   "sourceUrl": "https://www.frankieandbennys.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "offer": "2 cocktails for £12",
+   "sourceUrl": "https://www.frankieandbennys.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "offer": "50% off all burgers plus 90 minutes of unlimited fries",
+   "sourceUrl": "https://www.frankieandbennys.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "offer": "30% off mains in the movie-and-a-meal deal",
+   "sourceUrl": "https://www.frankieandbennys.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "offer": "Set lunch menu",
+   "sourceUrl": "https://www.frankieandbennys.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Four Seasons",
+   "offer": "12% off the whole bill with a UK student ID",
+   "sourceUrl": "https://www.fs-restaurants.co.uk/promotion",
+   "status": "ok"
+  },
+  {
+   "name": "Govinda's",
+   "offer": "Student discount on food and drinks",
+   "sourceUrl": "https://govindas.london/",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Student discount: 40% off food and drink",
+   "sourceUrl": "https://www.iguanas.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Blue Light discount: 20% off food",
+   "sourceUrl": "https://www.iguanas.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "2 classic cocktails from £13",
+   "sourceUrl": "https://www.iguanas.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Las Iguanas",
+   "offer": "Meal deal: a main course with a soft drink or mocktail (add tapas for £4)",
+   "sourceUrl": "https://www.iguanas.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Market Halls",
+   "offer": "Industry Night: £5 pints, £5 175ml glasses of house wine and £3 shots for hospitality and retail workers.",
+   "sourceUrl": "https://markethalls.co.uk/industry-night-london-market-halls-paddington/",
+   "status": "ok"
+  },
+  {
+   "name": "The Golden Hind",
+   "offer": "Bring your own bottle of wine or champagne",
+   "sourceUrl": "https://www.goldenhindrestaurant.com/menus-golden-hind-fish-chips-restaurant-marylebone-london/lunch-menu-golden-hind-fish-chips-restaurant-marylebone-london/",
+   "status": "ok"
+  },
+  {
+   "name": "Megan's",
+   "offer": "Students get 15% off all day, plus a free cookie every Wednesday",
+   "sourceUrl": "https://megans.co.uk/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Megan's",
+   "offer": "£8 cocktails",
+   "sourceUrl": "https://megans.co.uk/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Megan's",
+   "offer": "Two courses for £18",
+   "sourceUrl": "https://megans.co.uk/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Cafe La Divina",
+   "offer": "Nuffield members: 20% off selected food items",
+   "sourceUrl": "https://ladivina.co.uk/offers.php",
+   "status": "ok"
+  },
+  {
+   "name": "The Harwood Arms",
+   "offer": "Free corkage on Friday lunch only",
+   "sourceUrl": "https://harwoodarms.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Ivan Ramen",
+   "offer": "25% off ramen for students",
+   "sourceUrl": "https://www.ivanramen.co.uk/student-offer",
+   "status": "ok"
+  },
+  {
+   "name": "Patty & Bun",
+   "offer": "Student offer: any burger, rosemary chips and soft drink",
+   "sourceUrl": "https://www.pattyandbun.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Patty & Bun",
+   "offer": "Happy hour: 2 for £14 cocktails and £4 canned beers",
+   "sourceUrl": "https://www.pattyandbun.co.uk/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Masala Zone",
+   "offer": "Student discount: 20% off",
+   "sourceUrl": "https://www.masalazone.com/news/",
+   "status": "ok"
+  },
+  {
+   "name": "Masala Zone",
+   "offer": "Kids eat free during UK school holidays and bank holidays",
+   "sourceUrl": "https://www.masalazone.com/news/",
+   "status": "ok"
+  },
+  {
+   "name": "Masala Zone",
+   "offer": "Lunch offer: any chicken or veg thali, curry or biryani",
+   "sourceUrl": "https://www.masalazone.com/news/",
+   "status": "ok"
+  },
+  {
+   "name": "Pho",
+   "offer": "15% off food for students (plus one guest)",
+   "sourceUrl": "https://www.phocafe.co.uk/students/",
+   "status": "ok"
+  },
+  {
+   "name": "The Town of Ramsgate",
+   "offer": "Tannic Tuesdays: 10% off any fine wine; order two large glasses and get the rest of the bottle free",
+   "sourceUrl": "https://townoframsgate.pub/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "The Town of Ramsgate",
+   "offer": "Pie & Pint: free pint, soft drink or medium house wine with any pie",
+   "sourceUrl": "https://townoframsgate.pub/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "The Town of Ramsgate",
+   "offer": "Fry-day: free pint, medium house wine or soft drink with beer-battered cod and chips",
+   "sourceUrl": "https://townoframsgate.pub/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "The Town of Ramsgate",
+   "offer": "Sunday carvery with beef, lamb or pork, unlimited Yorkshire pudding, potatoes and veg",
+   "sourceUrl": "https://townoframsgate.pub/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "Rosa's Thai",
+   "offer": "20% off food for students with Student Beans, for the cardholder plus one guest",
+   "sourceUrl": "https://rosasthai.com/student-discounts",
+   "status": "ok"
+  },
+  {
+   "name": "Rosa's Thai",
+   "offer": "£5 Bangkok Spritz for students when buying food",
+   "sourceUrl": "https://rosasthai.com/student-discounts",
+   "status": "ok"
+  },
+  {
+   "name": "The Mayfair Chippy",
+   "offer": "Monday offer for local pensioners: The Mayfair Classic with unlimited tea, or with pudding",
+   "sourceUrl": "https://www.mayfairchippy.com/local-pensioners-offer",
+   "status": "ok"
+  },
+  {
+   "name": "Wildwood",
+   "offer": "20% off food for NHS staff, emergency services and armed forces with valid ID.",
+   "sourceUrl": "https://wildwoodrestaurants.co.uk/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Wildwood",
+   "offer": "£10 Club: a starter or dessert plus a main for £10, with 20% off your first drink, for students and over-60s.",
+   "sourceUrl": "https://wildwoodrestaurants.co.uk/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Wildwood",
+   "offer": "Lunchtime set menu with one 20% off selected drink per menu ordered.",
+   "sourceUrl": "https://wildwoodrestaurants.co.uk/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Wildwood",
+   "offer": "Evening set menu, dine-in only.",
+   "sourceUrl": "https://wildwoodrestaurants.co.uk/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Yo! Sushi",
+   "offer": "25% off for students",
+   "sourceUrl": "https://yosushi.com/restaurants/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Yo! Sushi",
+   "offer": "20% off for Blue Light Card holders",
+   "sourceUrl": "https://yosushi.com/restaurants/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Yo! Sushi",
+   "offer": "Little ones eat free during the school holidays",
+   "sourceUrl": "https://yosushi.com/restaurants/offers",
+   "status": "ok"
+  },
+  {
+   "name": "Old Spike",
+   "offer": "Student discount",
+   "sourceUrl": "https://oldspikeroastery.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Old Spike",
+   "offer": "Blue Light discount",
+   "sourceUrl": "https://oldspikeroastery.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Arcade Food Hall",
+   "offer": "Cocktails at £8 before and after the theatre.",
+   "sourceUrl": "https://www.arcade-london.com/whats-on/pre-theatre-deal",
+   "status": "ok"
+  },
+  {
+   "name": "Arcade Food Hall",
+   "offer": "Aperitivo Hour: £8 cocktails.",
+   "sourceUrl": "https://www.arcade-london.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "BOXPARK Wembley",
+   "offer": "Special Happy Hour",
+   "sourceUrl": "https://www.boxpark.co.uk/venues/wembley",
+   "status": "ok"
+  },
+  {
+   "name": "Pizza Pilgrims",
+   "offer": "Student offer: Margherita or Nduja pizza (also vegan) for £7.50",
+   "sourceUrl": "https://www.pizzapilgrims.co.uk/student-offer/",
+   "status": "ok"
+  },
+  {
+   "name": "Dishoom",
+   "offer": "Dishoom Margarita, Chai Caffè Martini or Sober Negroni for a fiver",
+   "sourceUrl": "https://www.dishoom.com/menu/lunch-set-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Dishoom",
+   "offer": "Lunch set menu: Swift Vitality or Prompt Replenishment lunch for two to share",
+   "sourceUrl": "https://www.dishoom.com/menu/lunch-set-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Dishoom",
+   "offer": "Lunch set menus for two to share: Swift Vitality and Prompt Replenishment",
+   "sourceUrl": "https://www.dishoom.com/menu/lunch-set-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Purezza",
+   "offer": "Blue Light workers: 15% off full-size pizza",
+   "sourceUrl": "https://purezza.co.uk/current-offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Purezza",
+   "offer": "Student discount: 15% off",
+   "sourceUrl": "https://purezza.co.uk/current-offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Purezza",
+   "offer": "Happy hour: 2 cocktails for £18; 2 alcohol-free spritz for £14",
+   "sourceUrl": "https://purezza.co.uk/current-offers/",
+   "status": "ok"
+  },
+  {
+   "name": "The Real Greek",
+   "offer": "25% off Main Menu food for NHS, Police and Fire Brigade workers.",
+   "sourceUrl": "https://www.therealgreek.com/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "The Real Greek",
+   "offer": "25% off the main menu for students.",
+   "sourceUrl": "https://www.therealgreek.com/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "The Real Greek",
+   "offer": "Greek Sangria happy hour: two glasses for £8.50.",
+   "sourceUrl": "https://www.therealgreek.com/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "The Real Greek",
+   "offer": "One free kids meal (kids menu item, drink and ice cream or sorbet) per adult spending £15 or more.",
+   "sourceUrl": "https://www.therealgreek.com/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "The Real Greek",
+   "offer": "Weekday Lunch Menu: souvlaki grill plate or souvlaki wrap with a side.",
+   "sourceUrl": "https://www.therealgreek.com/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "The Real Greek",
+   "offer": "Filoxenia menu: one cold meze, a souvlaki grill, a side or salad and warm Greek flatbread.",
+   "sourceUrl": "https://www.therealgreek.com/offers/",
+   "status": "ok"
+  },
+  {
+   "name": "Market Halls",
+   "offer": "Two Spritz (Aperol, Campari, Hugo, Pimms or Sarti) for £20 with the Hall Pass app.",
+   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+   "status": "ok"
+  },
+  {
+   "name": "Market Halls",
+   "offer": "£5 pints of selected draught beers (Camden Hells, Pale, Stout, Eazy IPA, Corona, San Miguel, Stella Artois) with the Hall Pass app.",
+   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+   "status": "ok"
+  },
+  {
+   "name": "Market Halls Paddington",
+   "offer": "2 spritz for £20",
+   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+   "status": "ok"
+  },
+  {
+   "name": "Market Halls Paddington",
+   "offer": "£5 pints on selected draught beers",
+   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+   "status": "ok"
+  },
+  {
+   "name": "Market Halls Victoria",
+   "offer": "2 Spritz for £20 (Aperol, Campari, Hugo, Pimms or Sarti Spritz)",
+   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+   "status": "ok"
+  },
+  {
+   "name": "Market Halls Victoria",
+   "offer": "£5 pints on selected draught beers",
+   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+   "status": "ok"
+  },
+  {
+   "name": "Kricket",
+   "offer": "A snack and a drink",
+   "sourceUrl": "https://kricketrestaurants.com/discover/",
+   "status": "ok"
+  },
+  {
+   "name": "Kricket",
+   "offer": "Kids eat free every school holiday when adults dine",
+   "sourceUrl": "https://kricketrestaurants.com/discover/",
+   "status": "ok"
+  },
+  {
+   "name": "Manzi's",
+   "offer": "Happy hour on the terrace: oysters at £2 each or 6 for £9, long boys, martinis at £10",
+   "sourceUrl": "https://manzis.co.uk/happy-hour/",
+   "status": "ok"
+  },
+  {
+   "name": "Ping Pong",
+   "offer": "Half-price drinks and dim sum on over thirty menu items",
+   "sourceUrl": "https://www.pingpongdimsum.com/happy-hour/",
+   "status": "ok"
+  },
+  {
+   "name": "Hakata Ramen + Bar",
+   "offer": "Any 2 of the same cocktail for £14",
+   "sourceUrl": "https://www.hakata.co.uk/november-happy-hour",
+   "status": "ok"
+  },
+  {
+   "name": "Hakata Ramen + Bar",
+   "offer": "KANPAI sake flight or Japanese flight",
+   "sourceUrl": "https://www.hakata.co.uk/november-happy-hour",
+   "status": "ok"
+  },
+  {
+   "name": "Nightjar",
+   "offer": "Happy Hour: a selection of cocktails each month",
+   "sourceUrl": "https://www.barnightjar.com/special-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Seabird",
+   "offer": "Oyster Happy Hour",
+   "sourceUrl": "https://seabirdlondon.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Sucre",
+   "offer": "Agave Hour: £8 tequila and mezcal cocktails with South American small plates",
+   "sourceUrl": "https://sucrerestaurant.com/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "Sucre",
+   "offer": "Seasonal Argentine set lunch",
+   "sourceUrl": "https://sucrerestaurant.com/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "The Natural Philosopher",
+   "offer": "Happy hour every day",
+   "sourceUrl": "https://www.naturalphilosopher.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Yauatcha",
+   "offer": "2-for-1 cocktails and dim sum",
+   "sourceUrl": "https://hakkasangroup.com/venues/yauatcha-soho-london/menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Ippudo",
+   "offer": "Happy hour menu",
+   "sourceUrl": "https://www.ippudo.co.uk/news/happy-hour/",
+   "status": "ok"
+  },
+  {
+   "name": "Café Rouge",
+   "offer": "Kids eat free with the purchase of any adult main.",
+   "sourceUrl": "https://www.caferouge.com/restaurant-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Café Rouge",
+   "offer": "Lunch menu including a soft drink.",
+   "sourceUrl": "https://www.caferouge.com/restaurant-offers",
+   "status": "ok"
+  },
+  {
+   "name": "Kricket",
+   "offer": "A free Little Kricket Thali for children under 10 when adults dine, every school holiday and half term.",
+   "sourceUrl": "https://kricketrestaurants.com/discovery-articles/kids-eat-free/",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "Kids Club subscription: kids eat free from the standard kids menu with an adult meal",
+   "sourceUrl": "https://www.prezzo.co.uk/about/kids-club/",
+   "status": "ok"
+  },
+  {
+   "name": "PizzaExpress",
+   "offer": "After School Club: selected menu items",
+   "sourceUrl": "https://www.pizzaexpress.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "PizzaExpress",
+   "offer": "Any starter and any main",
+   "sourceUrl": "https://www.pizzaexpress.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "PizzaExpress",
+   "offer": "Selected mains and drinks from the Festive Lunch Menu",
+   "sourceUrl": "https://www.pizzaexpress.com/offers",
+   "status": "ok"
+  },
+  {
+   "name": "TGI Fridays",
+   "offer": "Kids eat free: a free kids' main with a full-price adult main (up to age 12)",
+   "sourceUrl": "https://www.tgifridays.co.uk/promotions/kids-eat-free",
+   "status": "ok"
+  },
+  {
+   "name": "Rick Stein",
+   "offer": "Oyster Happy Hour and Aperitivo: £2 oysters",
+   "sourceUrl": "https://rickstein.com/restaurants/rick-stein-barnes/",
+   "status": "ok"
+  },
+  {
+   "name": "Rick Stein",
+   "offer": "Set menu, 3 courses from the daily menu dishes marked with an asterisk",
+   "sourceUrl": "https://rickstein.com/restaurants/rick-stein-barnes/",
+   "status": "ok"
+  },
+  {
+   "name": "Tower Bridge Collective",
+   "offer": "Kids eat free: children aged 10 and under get a complimentary meal when an adult buys a full-price dish from the same kitchen",
+   "sourceUrl": "https://towerbridgecollective.co.uk/kids-eat-free/",
+   "status": "ok"
+  },
+  {
+   "name": "Wasabi",
+   "offer": "Mini Bento Bundle: any mini bento, a hot or cold side and a water; upgrade to any drink for £1.",
+   "sourceUrl": "https://www.wasabi.uk.com/new-mini-bentos-meal-deal/",
+   "status": "ok"
+  },
+  {
+   "name": "Byron",
+   "offer": "Smash burger and fries lunch deal",
+   "sourceUrl": "https://www.byron.co.uk/menu",
+   "status": "ok"
+  },
+  {
+   "name": "Byron",
+   "offer": "Pre-theatre menu, 2 or 3 courses",
+   "sourceUrl": "https://www.byron.co.uk/menu",
+   "status": "ok"
+  },
+  {
+   "name": "Purezza",
+   "offer": "Children under 10 eat a free mini pizza",
+   "sourceUrl": "https://purezza.co.uk/kids-eat-free/",
+   "status": "ok"
+  },
+  {
+   "name": "The Mayfair Chippy",
+   "offer": "Free takeaway fish and chips for black cab drivers on Tuesdays in November",
+   "sourceUrl": "https://www.mayfairchippy.com/supporting-black-cabs",
+   "status": "ok"
+  },
+  {
+   "name": "The Mayfair Chippy",
+   "offer": "Arrive by black cab with a same-day receipt: buy one, get one free on The Mayfair Classic fish and chips",
+   "sourceUrl": "https://www.mayfairchippy.com/supporting-black-cabs",
+   "status": "ok"
+  },
+  {
+   "name": "Carluccio's",
+   "offer": "50% off Sunday roasts with an emailed voucher",
+   "sourceUrl": "https://www.carluccios.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Bread Street Kitchen",
+   "offer": "Happy hour on a selected drinks menu (Negronis, Margaritas, house wine, beers)",
+   "sourceUrl": "https://www.gordonramsayrestaurants.com/bread-street-kitchen/battersea/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "Bread Street Kitchen",
+   "offer": "22% off the food bill with a Chimney Lift ticket, plus a complimentary main from the Ramsay Kids menu for under-11s",
+   "sourceUrl": "https://www.gordonramsayrestaurants.com/bread-street-kitchen/battersea/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "Gordon Ramsay Restaurants",
+   "offer": "One free main from the Ramsay Kids' Menu per adult ordering two courses from the à la carte.",
+   "sourceUrl": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+   "status": "ok"
+  },
+  {
+   "name": "Corner Corner",
+   "offer": "10% off food and drink for people living or working within a mile",
+   "sourceUrl": "https://cornercorner.com/locals-discount",
+   "status": "ok"
+  },
+  {
+   "name": "Franco Manca",
+   "offer": "Student discount: 20% off food and drink",
+   "sourceUrl": "https://www.francomanca.co.uk/students/",
+   "status": "ok"
+  },
+  {
+   "name": "Escocesa",
+   "offer": "Half price oysters",
+   "sourceUrl": "https://www.escocesa.co.uk/menus",
+   "status": "ok"
+  },
+  {
+   "name": "Prezzo",
+   "offer": "50% off food and 2-for-1 cocktails for 18-25s every Sunday with Club Prezzo",
+   "sourceUrl": "https://www.prezzo.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Homies on Donkeys",
+   "offer": "20% off lunch tacos on Fridays",
+   "sourceUrl": "https://www.homiesondonkeys.com/lunch-promotion",
+   "status": "ok"
+  },
+  {
+   "name": "Royal China",
+   "offer": "10% off Supreme Seafood Broth with fresh whole crab",
+   "sourceUrl": "https://www.royalchinagroup.co.uk/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Rudy's Pizza",
+   "offer": "Bring a new, unwrapped toy (children aged 4-17, minimum value £10) and get a free pizza",
+   "sourceUrl": "https://www.rudyspizza.co.uk/toy-swap-for-pizza-joy/",
+   "status": "ok"
+  },
+  {
+   "name": "The Waterway",
+   "offer": "Winter Club card: 15% off food in the restaurant",
+   "sourceUrl": "https://www.thewaterway.co.uk/winter-club",
+   "status": "ok"
+  },
+  {
+   "name": "The Waterway",
+   "offer": "Winter Club card: 2-4-1 on all à la carte main courses",
+   "sourceUrl": "https://www.thewaterway.co.uk/winter-club",
+   "status": "ok"
+  },
+  {
+   "name": "Big Easy",
+   "offer": "Pre-theatre menu",
+   "sourceUrl": "https://www.bigeasy.co.uk/menus/covent-garden-express",
+   "status": "ok"
+  },
+  {
+   "name": "Big Easy",
+   "offer": "Weekday express lunch: one course, second course +£5",
+   "sourceUrl": "https://www.bigeasy.co.uk/menus/covent-garden-express",
+   "status": "ok"
+  },
+  {
+   "name": "Bentley's Oyster Bar & Grill",
+   "offer": "Set lunch and pre-theatre menu in the Grill Room",
+   "sourceUrl": "https://www.bentleys.org/menus",
+   "status": "ok"
+  },
+  {
+   "name": "Pret A Manger",
+   "offer": "Club Pret: 50% off up to five hot or iced barista-made drinks a day",
+   "sourceUrl": "https://www.pret.co.uk/en-GB/club-pret",
+   "status": "ok"
+  },
+  {
+   "name": "Busaba",
+   "offer": "Pre-theatre menu at selected branches",
+   "sourceUrl": "https://www.busaba.com/menu/food",
+   "status": "ok"
+  },
+  {
+   "name": "Cafe La Divina",
+   "offer": "Pre-theatre menu: 2 courses plus a drink",
+   "sourceUrl": "https://ladivina.co.uk/whats-on-islington.php",
+   "status": "ok"
+  },
+  {
+   "name": "Caravan",
+   "offer": "Pre-show menu for Sadler's Wells",
+   "sourceUrl": "https://caravanandco.com/pages/exmouth-market",
+   "status": "ok"
+  },
+  {
+   "name": "Caravan",
+   "offer": "Pre-theatre set menu",
+   "sourceUrl": "https://caravanandco.com/pages/our-restaurant-menus",
+   "status": "ok"
+  },
+  {
+   "name": "Darjeeling Express",
+   "offer": "Dining Car pre-theatre set menu",
+   "sourceUrl": "https://www.darjeeling-express.com/menus",
+   "status": "ok"
+  },
+  {
+   "name": "Plum Valley",
+   "offer": "Half-price cocktails",
+   "sourceUrl": "https://plumvalley.co.uk/promotions/",
+   "status": "ok"
+  },
+  {
+   "name": "Plum Valley",
+   "offer": "Pre-theatre set menu: starter, main and side",
+   "sourceUrl": "https://plumvalley.co.uk/promotions/",
+   "status": "ok"
+  },
+  {
+   "name": "Plum Valley",
+   "offer": "Lunch combo: dim sum plus a rice or noodle dish",
+   "sourceUrl": "https://plumvalley.co.uk/promotions/",
+   "status": "ok"
+  },
+  {
+   "name": "The Café at Clifton Nurseries",
+   "offer": "10% off food and drink at the café for Friends of Clifton card holders",
+   "sourceUrl": "https://www.clifton.co.uk/london-nursery-garden-centre/clifton-reward-club",
+   "status": "ok"
+  },
+  {
+   "name": "Hawksmoor",
+   "offer": "Early evening set menu: 2 or 3 courses",
+   "sourceUrl": "https://thehawksmoor.com/set-menus/",
+   "status": "changed",
+   "missingMoney": [
+    "26"
+   ],
+   "wordShare": 50,
+   "pages": []
+  },
+  {
+   "name": "Hawksmoor",
+   "offer": "Lunch set menu: 1, 2 or 3 courses",
+   "sourceUrl": "https://thehawksmoor.com/set-menus/",
+   "status": "changed",
+   "missingMoney": [
+    "21",
+    "26"
+   ],
+   "wordShare": 0,
+   "pages": []
+  },
+  {
+   "name": "Dim Sum Library",
+   "offer": "Theatre Menu",
+   "sourceUrl": "https://dimsumlibrary.co.uk/events/",
+   "status": "ok"
+  },
+  {
+   "name": "Kanishka",
+   "offer": "Early evening tasting menu",
+   "sourceUrl": "https://kanishkarestaurant.co.uk/menus",
+   "status": "ok"
+  },
+  {
+   "name": "ICCO",
+   "offer": "Roll a six before six: roll two dice in-store and a six wins a free pizza",
+   "sourceUrl": "https://www.icco.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Il Gattopardo",
+   "offer": "Early evening three courses",
+   "sourceUrl": "https://gattopardo.restaurant/whats-on-mayfair/",
+   "status": "ok"
+  },
+  {
+   "name": "Il Gattopardo",
+   "offer": "Set lunch: two or three courses",
+   "sourceUrl": "https://gattopardo.restaurant/whats-on-mayfair/",
+   "status": "ok"
+  },
+  {
+   "name": "Dalloway Terrace",
+   "offer": "Pre-theatre menu",
+   "sourceUrl": "https://dallowayterrace.com/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "Dalloway Terrace",
+   "offer": "Set lunch with a complimentary glass of Nyetimber Classic Cuvée",
+   "sourceUrl": "https://dallowayterrace.com/whats-on/",
+   "status": "ok"
+  },
+  {
+   "name": "Mercato Metropolitano",
+   "offer": "Wood Wharf pre-theatre menu from the hall's traders, for the new Troubadour Theatre",
+   "sourceUrl": "https://mercatometropolitano.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Ottolenghi",
+   "offer": "Pre-theatre set menu of dishes to share",
+   "sourceUrl": "https://ottolenghi.co.uk/pages/restaurants/islington",
+   "status": "ok"
+  },
+  {
+   "name": "Mercato Metropolitano",
+   "offer": "Wood Wharf pre-theatre menu: a dish from selected traders for £10, with Badiani crêpes and gelato to follow.",
+   "sourceUrl": "https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "The Milestone Hotel",
+   "offer": "Pre-theatre dining at Cheneston's",
+   "sourceUrl": "https://milestonehotel.com/dining-and-drinks/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "The Milestone Hotel",
+   "offer": "Set lunch, two or three courses",
+   "sourceUrl": "https://milestonehotel.com/dining-and-drinks/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Veeraswamy",
+   "offer": "Pre- and post-theatre menu, minimum 2 courses",
+   "sourceUrl": "https://www.veeraswamy.com/menu/pre-theatre-dinner/",
+   "status": "ok"
+  },
+  {
+   "name": "Babur",
+   "offer": "Daily set lunch (£29.95 with a 100ml glass of house wine)",
+   "sourceUrl": "https://www.babur.info/menus/daily-set-lunch",
+   "status": "ok"
+  },
+  {
+   "name": "Locatelli at The National Gallery",
+   "offer": "Pre-theatre set menu from 3pm",
+   "sourceUrl": "https://locatelliatnationalgallery.co.uk/pre-theatre-dinner-london/",
+   "status": "ok"
+  },
+  {
+   "name": "Tamarind",
+   "offer": "Early evening menu",
+   "sourceUrl": "https://www.tamarindrestaurant.com/menus/",
+   "status": "ok"
+  },
+  {
+   "name": "Ave Mario",
+   "offer": "Lunch set menu",
+   "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/ave-mario",
+   "status": "ok"
+  },
+  {
+   "name": "Fallow",
+   "offer": "Pre-theatre menu",
+   "sourceUrl": "https://fallowrestaurant.com/menus/",
+   "status": "ok"
+  },
+  {
+   "name": "Fallow",
+   "offer": "Set lunch",
+   "sourceUrl": "https://fallowrestaurant.com/menus/",
+   "status": "ok"
+  },
+  {
+   "name": "Burger & Lobster",
+   "offer": "Surf & Turf set menu: two courses or three",
+   "sourceUrl": "https://www.burgerandlobster.com/locations/london/leicester-square/menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Burger & Lobster",
+   "offer": "Lunchtime set menu: two or three courses",
+   "sourceUrl": "https://www.burgerandlobster.com/locations/london/bond-street/menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Barbarella",
+   "offer": "Pranzetto lunch set menu",
+   "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/barbarella",
+   "status": "ok"
+  },
+  {
+   "name": "Bocca di Lupo",
+   "offer": "Monthly changing lunch and pre-theatre set menu",
+   "sourceUrl": "https://www.boccadilupo.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Cafe La Divina",
+   "offer": "Lunch deal: 2 or 3 courses",
+   "sourceUrl": "https://ladivina.co.uk/italian-lunch-islington.php",
+   "status": "ok"
+  },
+  {
+   "name": "Café Rouge",
+   "offer": "Set Menu: two courses from £17.95, third course £3.50 more.",
+   "sourceUrl": "https://www.caferouge.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Café Rouge",
+   "offer": "Evening Prix Fixe: two courses (starter and main, or main and dessert) after 7.30pm.",
+   "sourceUrl": "https://www.caferouge.com/set-menu",
+   "status": "ok"
+  },
+  {
+   "name": "Franco Manca",
+   "offer": "Lunch deal: a sourdough pizza and a soft drink",
+   "sourceUrl": "https://www.francomanca.co.uk/whats-on/lunch-deal-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Half Cut Market",
+   "offer": "Set menu: two or three courses",
+   "sourceUrl": "https://halfcut.world/",
+   "status": "ok"
+  },
+  {
+   "name": "Carlotta",
+   "offer": "Pranzetto lunch set menu",
+   "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/carlotta",
+   "status": "ok"
+  },
+  {
+   "name": "Gloria",
+   "offer": "Lunch set menu",
+   "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/gloria-london",
+   "status": "ok"
+  },
+  {
+   "name": "Ivan Ramen",
+   "offer": "Lunch ramen: one bowl of Shoyu, Tonkotsu or Truffle Veg ramen",
+   "sourceUrl": "https://www.ivanramen.co.uk/lunch-ramen",
+   "status": "ok"
+  },
+  {
+   "name": "Jamavar",
+   "offer": "Tenth anniversary feast for two to share",
+   "sourceUrl": "https://jamavarrestaurants.com/london/",
+   "status": "ok"
+  },
+  {
+   "name": "Jamavar",
+   "offer": "Lunch and early evening menu, three or four courses",
+   "sourceUrl": "https://jamavarrestaurants.com/london/whats-on/lunch-and-early-evening-at-jamavar/",
+   "status": "ok"
+  },
+  {
+   "name": "Jikoni",
+   "offer": "Farm Fresh set lunch menu",
+   "sourceUrl": "https://www.jikonilondon.com/restaurant-menus",
+   "status": "ok"
+  },
+  {
+   "name": "Bacchanalia",
+   "offer": "Set menu: two courses or three",
+   "sourceUrl": "https://bacchanalia.co.uk/lunch/",
+   "status": "ok"
+  },
+  {
+   "name": "Koya",
+   "offer": "Koya set menu: starters, an udon and more",
+   "sourceUrl": "https://www.koya.co.uk/restaurant/soho",
+   "status": "ok"
+  },
+  {
+   "name": "Kricket",
+   "offer": "Lunch thali",
+   "sourceUrl": "https://kricketrestaurants.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Kricket",
+   "offer": "Lunch thali with a choice of Chicken Mappas or Grilled Squash Makhani.",
+   "sourceUrl": "https://kricketrestaurants.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Kokum",
+   "offer": "3 courses lunch and early evening menu",
+   "sourceUrl": "https://kokumlondon.com/",
+   "status": "ok"
+  },
+  {
+   "name": "Les 2 Garçons",
+   "offer": "Weekend early set menu: two courses with a glass of house wine",
+   "sourceUrl": "https://www.les2garconsbistro.com/whats-on",
+   "status": "ok"
+  },
+  {
+   "name": "Jacuzzi",
+   "offer": "Pranzetto lunch set menu",
+   "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/jacuzzi",
+   "status": "ok"
+  },
+  {
+   "name": "Lilibet's",
+   "offer": "Set lunch, 2 or 3 courses",
+   "sourceUrl": "https://www.lilibetsrestaurant.com/menus/",
+   "status": "ok"
+  },
+  {
+   "name": "Mowgli",
+   "offer": "Lunch Street Feast: choose any 3 dishes",
+   "sourceUrl": "https://mowglistreetfood.com/menus/",
+   "status": "ok"
+  },
+  {
+   "name": "Noci",
+   "offer": "Lunch menu: two courses (small plate and main, or main and dessert)",
+   "sourceUrl": "https://nocirestaurant.co.uk/menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Porte Noire",
+   "offer": "Set lunch, 2 courses",
+   "sourceUrl": "https://portenoire.co.uk/menu/set-lunch",
+   "status": "ok"
+  },
+  {
+   "name": "River Café",
+   "offer": "Set lunch: two or three courses plus dolci",
+   "sourceUrl": "https://www.rivercafe.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Sale e Pepe",
+   "offer": "Weekday prix fixe menu, three courses",
+   "sourceUrl": "https://www.saleepepe.co.uk/menu",
+   "status": "ok"
+  },
+  {
+   "name": "Sette",
+   "offer": "Weekday set lunch: two or three courses",
+   "sourceUrl": "https://www.settelondon.co.uk/menus/",
+   "status": "ok"
+  },
+  {
+   "name": "Simpson's in the Strand",
+   "offer": "Late supper in Romano's: three-course set menu",
+   "sourceUrl": "https://www.simpsonsinthestrand.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Sodo Pizza",
+   "offer": "Lunchtime menu deal",
+   "sourceUrl": "https://www.sodopizza.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Sorella",
+   "offer": "Sunday set menu, designed to share",
+   "sourceUrl": "https://www.sorellarestaurant.co.uk/menu",
+   "status": "ok"
+  },
+  {
+   "name": "Nobu Old Park Lane",
+   "offer": "Nobu Signature Lunch: weekday set lunch of Nobu classics",
+   "sourceUrl": "https://www.noburestaurants.com/london-old-park-lane/home",
+   "status": "ok"
+  },
+  {
+   "name": "Spring",
+   "offer": "Set lunch menu, 2 or 3 courses",
+   "sourceUrl": "https://springrestaurant.co.uk/menus/set-lunch-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "The Bull & Last",
+   "offer": "Set lunch: 2 courses £20 or 3 courses £25; set dinner: 2 courses £25 or 3 courses £30",
+   "sourceUrl": "https://thebullandlast.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "The Ivy Chelsea Garden",
+   "offer": "November set menu, lunch: two courses from £25 or three from £34",
+   "sourceUrl": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "The Ivy Chelsea Garden",
+   "offer": "November set menu, dinner: two courses from £28.50 or three from £37.50, including a glass of wine",
+   "sourceUrl": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "The Ivy Collection",
+   "offer": "November lunch and dinner set menus, each including a glass of Fernão Pires or Castelão Tinto.",
+   "sourceUrl": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Sparrow",
+   "offer": "Executive Set Lunch: two courses",
+   "sourceUrl": "https://sparrowitalia.com/events",
+   "status": "ok"
+  },
+  {
+   "name": "OPSO",
+   "offer": "Set lunch menu",
+   "sourceUrl": "https://www.opso.co.uk/menus",
+   "status": "ok"
+  },
+  {
+   "name": "Zapote",
+   "offer": "Menu del día: three courses at lunch",
+   "sourceUrl": "https://zapote.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Big Easy",
+   "offer": "2 for 1 cocktails",
+   "sourceUrl": "https://www.bigeasy.co.uk/menus/2-for-1",
+   "status": "ok"
+  },
+  {
+   "name": "Mazi",
+   "offer": "Lunch set menu",
+   "sourceUrl": "https://www.mazi.co.uk/lunch-set-menu/",
+   "status": "ok"
+  },
+  {
+   "name": "Zizzi",
+   "offer": "3-course set menu: starter, main and dessert",
+   "sourceUrl": "https://www.zizzi.co.uk/menus/set-menu",
+   "status": "ok"
+  },
+  {
+   "name": "Flat Iron Square",
+   "offer": "2-for-1 Spritz and FIS Lager",
+   "sourceUrl": "https://flatironsquare.co.uk/whatson/",
+   "status": "ok"
+  },
+  {
+   "name": "Brasserie Blanc",
+   "offer": "2-for-1 on selected beer, cocktails and soft drinks, with money off bottles of wine.",
+   "sourceUrl": "https://brasserieblanc.com/happy-hour/",
+   "status": "ok"
+  },
+  {
+   "name": "Made in Italy",
+   "offer": "2x1 pizza by the metre: buy one, get the same pizza free",
+   "sourceUrl": "https://www.madeinitalygroup.co.uk/deals",
+   "status": "ok"
+  },
+  {
+   "name": "TGI Fridays",
+   "offer": "2-for-1 cocktails and mocktails",
+   "sourceUrl": "https://www.tgifridays.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Slug & Lettuce",
+   "offer": "2-for-1 on cocktails and mocktails when you order two of the same.",
+   "sourceUrl": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+   "status": "ok"
+  },
+  {
+   "name": "Sticks'n'Sushi",
+   "offer": "Ni-bai: two-for-one cocktails",
+   "sourceUrl": "https://www.sticksnsushi.com/gb/en/restaurants/battersea/",
+   "status": "ok"
+  },
+  {
+   "name": "The Mantl",
+   "offer": "Weekday lunch set menu, two or three courses of Turkish-inspired dishes",
+   "sourceUrl": "https://themantl.com/the-perfect-lunch-in-knightsbridge/",
+   "status": "ok"
+  },
+  {
+   "name": "Turtle Bay",
+   "offer": "2 for 1 cocktails every day",
+   "sourceUrl": "https://turtlebay.co.uk/",
+   "status": "ok"
+  },
+  {
+   "name": "Norma",
+   "offer": "Pre-theatre menu, 2 or 3 courses (first glass of house wine +£5, fizz +£7.50)",
+   "sourceUrl": "https://normalondon.com/event/pre-theatre-dining/",
+   "status": "ok"
+  },
+  {
+   "name": "Norma",
+   "offer": "Sicilian Set Menu every evening",
+   "sourceUrl": "https://normalondon.com/",
+   "status": "ok"
+  }
+ ]
+}

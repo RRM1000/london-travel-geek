@@ -1,0 +1,34 @@
+[
+ {
+  "name": "Itsu",
+  "slug": null,
+  "site": "https://www.itsu.com/",
+  "type": "end-of-day",
+  "offer": "All sushi and salads half price",
+  "price": null,
+  "days": "Every day",
+  "times": "the last half hour before closing",
+  "conditions": "Sushi and salads only",
+  "branches": "all",
+  "endDate": null,
+  "sourceUrl": "https://www.itsu.com/faq/",
+  "checked": "2026-11-12",
+  "quote": "Half an hour before closing, all our sushi & salads are available at half price."
+ },
+ {
+  "name": "Mucci's",
+  "slug": "muccis",
+  "site": "https://muccisrestaurant.co.uk/",
+  "type": "price-hook",
+  "offer": "Flat-price menu: every starter £10, Italian classics £15, every pasta, meat and fish main £20",
+  "price": null,
+  "days": null,
+  "times": null,
+  "conditions": "The 400g steak is £40",
+  "branches": "King's Road, Chelsea",
+  "endDate": null,
+  "sourceUrl": "https://muccisrestaurant.co.uk/menu/kitchen.pdf",
+  "checked": "2026-11-12",
+  "quote": "Starters 10 / Italian classics 15 / Pasta 20 / Meat & fish 20"
+ }
+]

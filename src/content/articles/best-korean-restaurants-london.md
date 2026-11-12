@@ -302,5 +302,6 @@ On the Korean side: **bibimbap** in a hot stone bowl, where the rice crisps agai
 - 🇯🇵 **[Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)**
 - 🌶️ **[Best Thai Restaurants in London](/articles/best-thai-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
+- 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — Korean barbecue buffets at Keonbae and 113 K-BBQ
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**
 - 🎨 **[Hackney Area Guide](/articles/hackney-area-guide/)**

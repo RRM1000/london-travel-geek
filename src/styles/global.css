@@ -387,6 +387,37 @@
     background: var(--accent);
     color: var(--accent-contrast);
   }
+
+  /* A restaurant's current deal, added under its entry by remark-venue-deals.
+     Amber is the site's highlight colour, so a deal reads as a deal at a glance
+     without competing with the red links. */
+  .venue-deal {
+    margin-block: 0.75rem 1.25rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--highlight) 45%, var(--line));
+    border-left: 4px solid var(--highlight);
+    border-radius: 0.5rem;
+    background: color-mix(in srgb, var(--highlight) 10%, var(--surface));
+    font-size: 0.95em;
+    line-height: 1.55;
+  }
+
+  .venue-deal__tag {
+    display: inline-block;
+    margin-right: 0.4rem;
+    padding: 0.05rem 0.5rem;
+    border-radius: 999px;
+    background: var(--highlight);
+    color: var(--ink);
+    font-size: 0.75em;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    vertical-align: 0.1em;
+  }
+
+  .venue-deal__more {
+    white-space: nowrap;
+  }
 }
 
 @layer utilities {

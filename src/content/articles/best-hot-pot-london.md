@@ -344,6 +344,7 @@ For the same regional cooking served conventionally, our [Chinese and East Asian
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
 - 🥢 **[Best Dim Sum in London](/articles/best-dim-sum-london/)**
 - 🇰🇷 **[Best Korean Restaurants in London](/articles/best-korean-restaurants-london/)**
+- 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — unlimited hot pot at £28.99 to £38, with time limits
 - 🇯🇵 **[Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🏮 **[Soho Area Guide](/articles/soho-area-guide/)**

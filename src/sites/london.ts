@@ -44,7 +44,7 @@ export const londonSite: SiteConfig = {
           { label: "Set lunch & pre-theatre deals", href: "/articles/restaurant-deals-london/" },
           { label: "Restaurant discount cards", href: "/articles/restaurant-discount-cards-london/" },
           { label: "Kids eat free", href: "/articles/kids-eat-free-london/" },
-          { label: "Off-peak restaurant apps", href: "/articles/off-peak-restaurant-apps-london/" },
+          { label: "Food deals: 2-for-1 & discounts", href: "/articles/food-deals-london/" },
         ],
       },
     },

@@ -1,0 +1,645 @@
+{
+ "_note": "Chains with London branches whose own sites are crawled for deals alongside the Restaurants v2 sheet. Homepages only: discover-food-deals.mjs finds the offers pages itself. A site that fails the crawl is reported, not guessed at. Burger, fried-chicken and pizza-delivery fast food is left out (Rob, 12 Nov 2026).",
+ "chains": [
+  {
+   "name": "PizzaExpress",
+   "url": "https://www.pizzaexpress.com/"
+  },
+  {
+   "name": "Wagamama",
+   "url": "https://www.wagamama.com/"
+  },
+  {
+   "name": "Côte",
+   "url": "https://www.cote.co.uk/"
+  },
+  {
+   "name": "Bill's",
+   "url": "https://bills-website.co.uk/"
+  },
+  {
+   "name": "Franco Manca",
+   "url": "https://www.francomanca.co.uk/"
+  },
+  {
+   "name": "Honest Burgers",
+   "url": "https://www.honestburgers.co.uk/"
+  },
+  {
+   "name": "Byron",
+   "url": "https://www.byron.co.uk/"
+  },
+  {
+   "name": "GBK",
+   "url": "https://www.gbk.co.uk/"
+  },
+  {
+   "name": "Five Guys",
+   "url": "https://fiveguys.co.uk/"
+  },
+  {
+   "name": "Nando's",
+   "url": "https://www.nandos.co.uk/"
+  },
+  {
+   "name": "Zizzi",
+   "url": "https://www.zizzi.co.uk/"
+  },
+  {
+   "name": "ASK Italian",
+   "url": "https://www.askitalian.co.uk/"
+  },
+  {
+   "name": "Prezzo",
+   "url": "https://www.prezzo.co.uk/"
+  },
+  {
+   "name": "Bella Italia",
+   "url": "https://www.bellaitalia.co.uk/"
+  },
+  {
+   "name": "Carluccio's",
+   "url": "https://www.carluccios.com/"
+  },
+  {
+   "name": "Strada",
+   "url": "https://www.strada.co.uk/"
+  },
+  {
+   "name": "Pizza Pilgrims",
+   "url": "https://pizzapilgrims.co.uk/"
+  },
+  {
+   "name": "Rudy's Pizza",
+   "url": "https://www.rudyspizza.co.uk/"
+  },
+  {
+   "name": "Yo! Sushi",
+   "url": "https://yosushi.com/"
+  },
+  {
+   "name": "Itsu",
+   "url": "https://www.itsu.com/"
+  },
+  {
+   "name": "Wahaca",
+   "url": "https://www.wahaca.co.uk/"
+  },
+  {
+   "name": "Tortilla",
+   "url": "https://www.tortilla.co.uk/"
+  },
+  {
+   "name": "Chipotle",
+   "url": "https://www.chipotle.co.uk/"
+  },
+  {
+   "name": "Dishoom",
+   "url": "https://www.dishoom.com/"
+  },
+  {
+   "name": "Mowgli",
+   "url": "https://www.mowglistreetfood.com/"
+  },
+  {
+   "name": "Rosa's Thai",
+   "url": "https://rosasthaicafe.com/"
+  },
+  {
+   "name": "Busaba",
+   "url": "https://www.busaba.com/"
+  },
+  {
+   "name": "Banana Tree",
+   "url": "https://bananatree.co.uk/"
+  },
+  {
+   "name": "Giggling Squid",
+   "url": "https://www.gigglingsquid.com/"
+  },
+  {
+   "name": "Tonkotsu",
+   "url": "https://www.tonkotsu.co.uk/"
+  },
+  {
+   "name": "Kanada-Ya",
+   "url": "https://www.kanada-ya.com/"
+  },
+  {
+   "name": "Shoryu Ramen",
+   "url": "https://www.shoryuramen.com/"
+  },
+  {
+   "name": "Bone Daddies",
+   "url": "https://www.bonedaddies.com/"
+  },
+  {
+   "name": "Flat Iron",
+   "url": "https://flatironsteak.co.uk/"
+  },
+  {
+   "name": "Hawksmoor",
+   "url": "https://thehawksmoor.com/"
+  },
+  {
+   "name": "Miller & Carter",
+   "url": "https://www.millerandcarter.co.uk/"
+  },
+  {
+   "name": "Gaucho",
+   "url": "https://gauchorestaurants.com/"
+  },
+  {
+   "name": "Blacklock",
+   "url": "https://theblacklock.com/"
+  },
+  {
+   "name": "Burger & Lobster",
+   "url": "https://www.burgerandlobster.com/"
+  },
+  {
+   "name": "Patty & Bun",
+   "url": "https://www.pattyandbun.co.uk/"
+  },
+  {
+   "name": "Shake Shack",
+   "url": "https://shakeshack.co.uk/"
+  },
+  {
+   "name": "TGI Fridays",
+   "url": "https://www.tgifridays.co.uk/"
+  },
+  {
+   "name": "Hard Rock Cafe",
+   "url": "https://www.hardrockcafe.com/location/london/"
+  },
+  {
+   "name": "Frankie & Benny's",
+   "url": "https://www.frankieandbennys.com/"
+  },
+  {
+   "name": "Harvester",
+   "url": "https://www.harvester.co.uk/"
+  },
+  {
+   "name": "Toby Carvery",
+   "url": "https://www.tobycarvery.co.uk/"
+  },
+  {
+   "name": "Beefeater",
+   "url": "https://www.beefeater.co.uk/"
+  },
+  {
+   "name": "Wetherspoon",
+   "url": "https://www.jdwetherspoon.com/"
+  },
+  {
+   "name": "All Bar One",
+   "url": "https://www.allbarone.co.uk/"
+  },
+  {
+   "name": "Browns",
+   "url": "https://www.browns-restaurants.co.uk/"
+  },
+  {
+   "name": "Las Iguanas",
+   "url": "https://www.iguanas.co.uk/"
+  },
+  {
+   "name": "Turtle Bay",
+   "url": "https://turtlebay.co.uk/"
+  },
+  {
+   "name": "Cosy Club",
+   "url": "https://cosyclub.co.uk/"
+  },
+  {
+   "name": "Brewdog",
+   "url": "https://www.brewdog.com/uk/bars"
+  },
+  {
+   "name": "Leon",
+   "url": "https://leon.co/"
+  },
+  {
+   "name": "Pret A Manger",
+   "url": "https://www.pret.co.uk/"
+  },
+  {
+   "name": "Hache",
+   "url": "https://www.hacheburgers.com/"
+  },
+  {
+   "name": "The Breakfast Club",
+   "url": "https://thebreakfastclubcafes.com/"
+  },
+  {
+   "name": "Caravan",
+   "url": "https://caravanrestaurants.co.uk/"
+  },
+  {
+   "name": "Megan's",
+   "url": "https://megans.co.uk/"
+  },
+  {
+   "name": "Gail's",
+   "url": "https://gails.com/"
+  },
+  {
+   "name": "Hakkasan",
+   "url": "https://hakkasan.com/"
+  },
+  {
+   "name": "Dirty Bones",
+   "url": "https://dirty-bones.com/"
+  },
+  {
+   "name": "Pho",
+   "url": "https://www.phocafe.co.uk/"
+  },
+  {
+   "name": "Coqbull",
+   "url": "https://coqbull.com/"
+  },
+  {
+   "name": "Sticks'n'Sushi",
+   "url": "https://sticksnsushi.com/en-gb"
+  },
+  {
+   "name": "Ole & Steen",
+   "url": "https://oleandsteen.co.uk/"
+  },
+  {
+   "name": "Big Easy",
+   "url": "https://www.bigeasy.co.uk/"
+  },
+  {
+   "name": "Bodean's",
+   "url": "https://www.bodeansbbq.com/"
+  },
+  {
+   "name": "Ping Pong",
+   "url": "https://www.pingpongdimsum.com/"
+  },
+  {
+   "name": "Greggs",
+   "url": "https://www.greggs.com/",
+   "wave": 2
+  },
+  {
+   "name": "Wasabi",
+   "url": "https://www.wasabi.uk.com/",
+   "wave": 2
+  },
+  {
+   "name": "Paul",
+   "url": "https://www.paul-uk.com/",
+   "wave": 2
+  },
+  {
+   "name": "Le Pain Quotidien",
+   "url": "https://www.lepainquotidien.com/uk/",
+   "wave": 2
+  },
+  {
+   "name": "Joe & the Juice",
+   "url": "https://www.joejuice.com/",
+   "wave": 2
+  },
+  {
+   "name": "Black Sheep Coffee",
+   "url": "https://www.blacksheepcoffee.com/",
+   "wave": 2
+  },
+  {
+   "name": "Caffè Nero",
+   "url": "https://caffenero.com/uk/",
+   "wave": 2
+  },
+  {
+   "name": "Costa",
+   "url": "https://www.costa.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Starbucks",
+   "url": "https://www.starbucks.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Abokado",
+   "url": "https://abokado.com/",
+   "wave": 2
+  },
+  {
+   "name": "Tossed",
+   "url": "https://www.tossed.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Farmer J",
+   "url": "https://www.farmerj.com/",
+   "wave": 2
+  },
+  {
+   "name": "Comptoir Libanais",
+   "url": "https://www.comptoirlibanais.com/",
+   "wave": 2
+  },
+  {
+   "name": "Pizza Union",
+   "url": "https://www.pizzaunion.com/",
+   "wave": 2
+  },
+  {
+   "name": "Homeslice",
+   "url": "https://www.homeslicepizza.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Crosstown",
+   "url": "https://www.crosstown.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Bao",
+   "url": "https://baolondon.com/",
+   "wave": 2
+  },
+  {
+   "name": "Hoppers",
+   "url": "https://www.hopperslondon.com/",
+   "wave": 2
+  },
+  {
+   "name": "Mildreds",
+   "url": "https://www.mildreds.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Benugo",
+   "url": "https://www.benugo.com/",
+   "wave": 2
+  },
+  {
+   "name": "Wildwood",
+   "url": "https://www.wildwoodrestaurants.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Crussh",
+   "url": "https://www.crussh.com/",
+   "wave": 2
+  },
+  {
+   "name": "Café Rouge",
+   "url": "https://www.caferouge.com/",
+   "wave": 2
+  },
+  {
+   "name": "The Real Greek",
+   "url": "https://www.therealgreek.com/",
+   "wave": 2
+  },
+  {
+   "name": "Gordon Ramsay Restaurants",
+   "url": "https://www.gordonramsayrestaurants.com/",
+   "wave": 2
+  },
+  {
+   "name": "Cocotte",
+   "url": "https://www.cocotte.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Lina Stores",
+   "url": "https://linastores.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Padella",
+   "url": "https://www.padella.co/",
+   "wave": 2
+  },
+  {
+   "name": "Bancone",
+   "url": "https://www.bancone.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Big Mamma",
+   "url": "https://www.bigmammagroup.com/",
+   "wave": 2
+  },
+  {
+   "name": "Pastaio",
+   "url": "https://www.pastaio.london/",
+   "wave": 2
+  },
+  {
+   "name": "Polpo",
+   "url": "https://www.polpo.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Barrafina",
+   "url": "https://www.barrafina.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Breddos Tacos",
+   "url": "https://www.breddostacos.com/",
+   "wave": 2
+  },
+  {
+   "name": "Temper",
+   "url": "https://www.temperrestaurant.com/",
+   "wave": 2
+  },
+  {
+   "name": "Ottolenghi",
+   "url": "https://ottolenghi.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Bread Ahead",
+   "url": "https://www.breadahead.com/",
+   "wave": 2
+  },
+  {
+   "name": "Konditor",
+   "url": "https://www.konditor.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Fuller's",
+   "url": "https://www.fullers.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Young's",
+   "url": "https://www.youngs.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Nicholson's",
+   "url": "https://www.nicholsonspubs.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Greene King",
+   "url": "https://www.greeneking.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Slug & Lettuce",
+   "url": "https://www.slugandlettuce.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Be At One",
+   "url": "https://www.beatone.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Revolution",
+   "url": "https://www.revolution-bars.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Market Halls",
+   "url": "https://www.markethalls.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Arcade Food Hall",
+   "url": "https://www.arcadefoodhall.com/",
+   "wave": 2
+  },
+  {
+   "name": "Seven Dials Market",
+   "url": "https://www.sevendialsmarket.com/",
+   "wave": 2
+  },
+  {
+   "name": "Mercato Metropolitano",
+   "url": "https://www.mercatometropolitano.com/",
+   "wave": 2
+  },
+  {
+   "name": "Boxpark",
+   "url": "https://www.boxpark.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Kerb",
+   "url": "https://www.kerbfood.com/",
+   "wave": 2
+  },
+  {
+   "name": "Coco di Mama",
+   "url": "https://www.cocodimama.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "The Ivy Collection",
+   "url": "https://ivycollection.com/",
+   "wave": 2
+  },
+  {
+   "name": "Brasserie Blanc",
+   "url": "https://www.brasserieblanc.com/",
+   "wave": 2
+  },
+  {
+   "name": "MEATliquor",
+   "url": "https://meatliquor.com/",
+   "wave": 2
+  },
+  {
+   "name": "Bleecker",
+   "url": "https://www.bleecker.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "EL&N",
+   "url": "https://elnlondon.com/",
+   "wave": 2
+  },
+  {
+   "name": "Daylesford",
+   "url": "https://www.daylesford.com/",
+   "wave": 2
+  },
+  {
+   "name": "WatchHouse",
+   "url": "https://www.watchhouse.com/",
+   "wave": 2
+  },
+  {
+   "name": "Grind",
+   "url": "https://grind.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Department of Coffee",
+   "url": "https://www.departmentofcoffee.com/",
+   "wave": 2
+  },
+  {
+   "name": "Bubbleology",
+   "url": "https://bubbleology.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Ben's Cookies",
+   "url": "https://www.benscookies.com/",
+   "wave": 2
+  },
+  {
+   "name": "Crust Bros",
+   "url": "https://www.crustbros.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Yard Sale Pizza",
+   "url": "https://www.yardsalepizza.com/",
+   "wave": 2
+  },
+  {
+   "name": "Knoops",
+   "url": "https://knoops.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Kricket",
+   "url": "https://kricketrestaurants.com/",
+   "wave": 2
+  },
+  {
+   "name": "Hawker & Co",
+   "url": "https://www.hawkerandco.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Sushi Atelier",
+   "url": "https://www.sushiatelier.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Gymkhana Fine Foods",
+   "url": "https://www.gymkhanafinefoods.com/",
+   "wave": 2
+  },
+  {
+   "name": "Flat White",
+   "url": "https://www.flatwhitesoho.co.uk/",
+   "wave": 2
+  },
+  {
+   "name": "Dirty Burger",
+   "url": "https://www.dirtyburger.com/",
+   "wave": 2
+  }
+ ]
+}
