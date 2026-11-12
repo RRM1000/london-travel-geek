@@ -233,7 +233,7 @@ A four-star hotel in a stucco-fronted terrace on Barkston Gardens, with check-in
 
 *The Drey, Barkston Gardens, and a room for four.*
 
-On a Wednesday in November 2026, a double was £214 and a Nest for four £243. **Some rooms are windowless, and the name says so**: the Nook, the Burrow and the Hideaway. There is no restaurant or room service, only vending machines by reception. Luggage storage is £10, booked in the app.
+On a Wednesday in November 2026, a double was £214 and a Nest for four £243. **Some rooms are windowless, and the name says so**: the Nook, the Burrow and the Hideaway. There is no restaurant or room service, only vending machines by reception; instead, the guest app unlocks offers at local places, such as £8 off a tour and tasting at the London Cru urban winery and 20% off a day pass at The Gym Way on Cromwell Road. Luggage storage is £10, booked in the app.
 
 ### Premier Inn London Kensington (Earl's Court) — the family budget pick
 
