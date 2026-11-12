@@ -5,7 +5,7 @@ description: "The family hotels London's parents, bloggers and the travel press 
 heroImage: "../../assets/articles/best-family-hotels-london/family-reading-in-bed.jpg"
 heroImageAlt: "A father reading a red picture book to two young children on a double bed, seen through an open bedroom door"
 publishedAt: 2026-09-18
-updatedAt: 2026-10-26
+updatedAt: 2026-11-12
 reviewBy: 2026-11-12
 sites: [london]
 canonicalSite: london
@@ -27,7 +27,7 @@ faq:
 
 Twenty-one hotels here are named by two or more independent sources specifically for families: places parents, family-travel bloggers and the travel press keep pointing at for a room that fits two adults and two children.
 
-> 💡 **The Short Version:** **[The Athenaeum Hotel & Residences](#the-athenaeum-hotel--residences)** is named by more sources for families than any other hotel here - a Mayfair children's concierge, interconnecting rooms and serviced Residences with a bunk bed on request. **[The Landmark London](#the-landmark-london)** and **[St. Ermin's Hotel](#st-ermins-hotel)** have the biggest standard family rooms; **[The Goring](#the-goring)** and **[The Rubens at the Palace](#the-rubens-at-the-palace)** are the two closest to Buckingham Palace. On the South Bank, **[London Marriott Hotel County Hall](#london-marriott-hotel-county-hall)** and **[Park Plaza County Hall](#park-plaza-county-hall)** sit beside the London Eye. Further out, only one hotel earned its place: **[Town Hall Hotel and Apartments](#town-hall-hotel-and-apartments)** in Bethnal Green, for a pool and a two-Michelin-starred restaurant downstairs. Prices below are for one room sleeping two adults and two children, on a November weekday; the cheapest of them is **£257**.
+> 💡 **The Short Version:** **[The Athenaeum Hotel & Residences](#the-athenaeum-hotel--residences)** is named by more sources for families than any other hotel here - a Mayfair children's concierge, interconnecting rooms and serviced Residences with a bunk bed on request. **[The Landmark London](#the-landmark-london)** and **[St. Ermin's Hotel](#st-ermins-hotel)** have the biggest standard family rooms; **[The Goring](#the-goring)** and **[The Rubens at the Palace](#the-rubens-at-the-palace)** are the two closest to Buckingham Palace. On the South Bank, **[London Marriott Hotel County Hall](#london-marriott-hotel-county-hall)** and **[Park Plaza County Hall](#park-plaza-county-hall)** sit beside the London Eye. Further out, only one hotel earned its place: **[Town Hall Hotel and Apartments](#town-hall-hotel-and-apartments)** in Bethnal Green, for a pool and a two-Michelin-starred restaurant downstairs. Prices below are for one room sleeping two adults and two children, on a November weekday; the cheapest of them is **£257**. For less, **[The Drey](#the-drey)** in Earl's Court sells a room for four with bunk beds at **£243**.
 >
 > **Three picks:** [The Georgian House Hotel](hotel:georgian-house-wizard-chambers) (£257 family night, Harry Potter-style Wizard Chambers) · [St. Ermin's Hotel](hotel:st-ermins-hotel) (£591, biggest standard family room) · [The Athenaeum](hotelscom:175165) (£1,066, interconnecting rooms, children's concierge).
 
@@ -261,6 +261,26 @@ A hotel further out had to have two or more independent sources naming it for fa
 *The pool at Town Hall Hotel.*
 
 A converted 1910 town hall in the East End, with a 14-metre heated pool open to guests every day and Da Terra, a two-Michelin-starred restaurant, downstairs. Santorini Dave calls the two-bedroom apartment here "for a family of 4," and Mumsnet's review notes the one and two-bedroom apartments come with well-equipped kitchens and Musetti coffee machines. Bethnal Green tube is five minutes away, and the Central line runs direct to Tottenham Court Road and Liverpool Street, both well inside thirty minutes. The sights are a Tube ride away.
+
+## Cheaper rooms for four
+
+Every hotel above costs £257 or more for a room for four. The Drey isn't in the sources' lists yet, so it carries no citation count, but it sells one for less on a November weekday.
+
+### The Drey
+
+*Earl's Court · 3 min from Earl's Court · Family night £243 · [Hotels.com](hotelscom:3807684064) · [thedrey.com](https://thedrey.com/offer/family-stays/)*
+
+<div class="photo-row">
+
+![A room for six at The Drey with two black metal bunk beds facing each other, one with a double lower bunk, and a tall window at the end](../../assets/articles/best-family-hotels-london/the-drey-room-for-six.jpg)
+
+![A young girl in pyjamas sitting on a white hotel bed at The Drey reading a picture book, with two teddy bears beside her](../../assets/articles/best-family-hotels-london/the-drey-child-reading.jpg)
+
+</div>
+
+*A Warren for six at The Drey.*
+
+A four-star hotel on Barkston Gardens, a garden square off Earl's Court Road. Its family rooms are built round bunk beds: the Nest sleeps four with a double bed and a bunk, and the Warren sleeps six in two bunks, one with a double lower bunk. The Nest and the Warren both come in an accessible version with a roll-in shower. Family bookings get an activity pack for the children. The £243 is a non-refundable Nest for four on Wednesday 18 November 2026; the Warren for six was £386 to £410 the same night. **There is no restaurant or room service**, only vending machines by reception, so breakfast is out. The Piccadilly line from Earl's Court runs direct to Heathrow, and the Natural History Museum is two stops away at South Kensington. Our [Kensington hotels guide](/articles/where-to-stay-kensington/) has its prices for two.
 
 ## Booking essentials
 

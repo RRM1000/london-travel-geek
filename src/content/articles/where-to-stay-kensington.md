@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Milestone_Hotel.jpg
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 publishedAt: 2026-06-12
-updatedAt: 2026-10-26
+updatedAt: 2026-11-12
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -33,7 +33,7 @@ faq:
 
 This guide covers Kensington west of the museums: **Kensington High Street and the edge of Kensington Gardens**, the terraces of **Earl's Court** to the south, the **Cromwell Road** hotels between them, and **Olympia** on the Hammersmith side. It stops short of the museum streets, which have [their own guide](/articles/where-to-stay-south-kensington/). Prices fall as you walk south, from the palace to Earl's Court.
 
-> 💡 **The Short Version:** For Kensington Gardens, **[The Milestone](hotel:the-milestone-hotel)** faces Kensington Palace, at about £550, with a family suite built around bunk beds and a pool guests use free. For a big hotel by the high street, **[Copthorne Tara](hotelscom:h26145)** has 833 rooms three minutes from High Street Kensington. On a budget, **Mowbray Court** in Earl's Court is about £119, with a lift and air conditioning; **The Edwin** and **Twenty Nevern Square** include breakfast. For a kitchen, **Ember Locke** on Cromwell Road has 121 studios and family suites sleeping four. For a show or trade fair at Olympia, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)**, one minute from the station, at about £220.
+> 💡 **The Short Version:** For Kensington Gardens, **[The Milestone](hotel:the-milestone-hotel)** faces Kensington Palace, at about £550, with a family suite built around bunk beds and a pool guests use free. For a big hotel by the high street, **[Copthorne Tara](hotelscom:h26145)** has 833 rooms three minutes from High Street Kensington. On a budget, **Mowbray Court** in Earl's Court is about £119, with a lift and air conditioning; **The Edwin** and **Twenty Nevern Square** include breakfast. For a family, **The Drey** in Earl's Court sells rooms for four and six built round bunk beds, at £243 for four on a November Wednesday. For a kitchen, **Ember Locke** on Cromwell Road has 121 studios and family suites sleeping four. For a show or trade fair at Olympia, **[Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia)**, one minute from the station, at about £220.
 >
 > **Three picks:** [Mowbray Court](hotelscom:608469) (about £119, lift and air conditioning) · [Hyatt Regency London Olympia](hotel:hyatt-regency-london-olympia) (about £220, one minute from Olympia) · [Royal Garden Hotel](hotelscom:105991) (Garden Deluxe rooms face Kensington Gardens).
 
@@ -216,6 +216,24 @@ A listed Victorian building on a residential street, with **a lift, air conditio
 *A room at Mowbray Court, and its shower room.*
 
 Rates run from £85 on a February Wednesday to £176 on an April Saturday; our [budget hotels guide](/articles/best-budget-hotels-london/) compares it with the alternatives.
+
+### The Drey — rooms with bunk beds for four and six
+
+*About £214 · 1 Barkston Gardens, SW5 0ER · Earl's Court 3 min · No restaurant · [Hotels.com](hotelscom:3807684064) · [thedrey.com](https://thedrey.com/)*
+
+A four-star hotel in a stucco-fronted terrace on Barkston Gardens, with check-in and the room key on its app. **The family rooms are built round bunk beds: the Nest sleeps four with a double bed and a bunk, and the Warren sleeps six in two bunks, one with a double lower bunk.** Both come in an accessible version with a roll-in shower.
+
+<div class="photo-row">
+
+![The Drey on Barkston Gardens: a white stucco ground floor with a pillared porch under the hotel's name, black railings, and yellow-brick upper floors with white window surrounds](../../assets/articles/where-to-stay-kensington/the-drey-exterior.jpg)
+
+![A room for four at The Drey with a double bed under a sash window and a black metal bunk bed with a double lower bunk, on a herringbone floor](../../assets/articles/where-to-stay-kensington/the-drey-room-for-four.jpg)
+
+</div>
+
+*The Drey, Barkston Gardens, and a room for four.*
+
+On a Wednesday in November 2026, a double was £214 and a Nest for four £243. **Some rooms are windowless, and the name says so**: the Nook, the Burrow and the Hideaway. There is no restaurant or room service, only vending machines by reception; instead, the guest app unlocks offers at local places, such as £8 off a tour and tasting at the London Cru urban winery and 20% off a day pass at The Gym Way on Cromwell Road. Luggage storage is £10, booked in the app.
 
 ### Premier Inn London Kensington (Earl's Court) — the family budget pick
 
