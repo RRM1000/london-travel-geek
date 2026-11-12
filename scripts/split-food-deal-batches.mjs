@@ -1,10 +1,12 @@
 // Splits data/food-deals/candidates.json into N batch files for the extraction agents:
 // every site the crawl read that has deal wording, with its matched lines.
-//   node scripts/split-food-deal-batches.mjs [N]
+//   node scripts/split-food-deal-batches.mjs [N] [candidates file] [batch name prefix]
 import fs from "node:fs";
 
 const N = Number(process.argv[2] ?? 3);
-const { results } = JSON.parse(fs.readFileSync("data/food-deals/candidates.json", "utf8"));
+const IN = process.argv[3] ?? "data/food-deals/candidates.json";
+const PREFIX = process.argv[4] ?? "batch";
+const { results } = JSON.parse(fs.readFileSync(IN, "utf8"));
 // Lines that are page code, not prose.
 const junk = (t) => /[{};]\s*--|:root|rgba\(|function\s*\(|=>/.test(t);
 const sites = results
@@ -21,6 +23,6 @@ const sites = results
 fs.mkdirSync("data/food-deals/batches", { recursive: true });
 for (let i = 0; i < N; i++) {
   const part = sites.filter((_, j) => j % N === i);
-  fs.writeFileSync(`data/food-deals/batches/batch-${i + 1}.json`, JSON.stringify(part, null, 1));
-  console.log(`batch-${i + 1}: ${part.length} sites`);
+  fs.writeFileSync(`data/food-deals/batches/${PREFIX}-${i + 1}.json`, JSON.stringify(part, null, 1));
+  console.log(`${PREFIX}-${i + 1}: ${part.length} sites`);
 }

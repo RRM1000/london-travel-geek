@@ -9,8 +9,10 @@
 import fs from "node:fs";
 
 const UA = "LondonTravelGeek/1.0 (+https://londontravelgeek.com)";
-const OUT = "data/food-deals/candidates.json";
 const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.split("=")[1];
+// --wave=N crawls only the chains added in that wave, into their own file.
+const WAVE = arg("wave");
+const OUT = arg("out") ?? (WAVE ? `data/food-deals/candidates-wave-${WAVE}.json` : "data/food-deals/candidates.json");
 const LIMIT = Number(arg("limit") ?? Infinity);
 const ONLY = arg("only");
 const CONCURRENCY = 8;
@@ -110,7 +112,10 @@ async function crawl(site) {
 const sheet = JSON.parse(fs.readFileSync("data/snapshot-restaurants-v2.json", "utf8"))
   .filter((r) => r.Status === "open" && /^https?:\/\//.test(r.Website ?? ""))
   .map((r) => ({ source: "sheet", slug: r.Slug, name: r.Name, url: r.Website.trim() }));
-const chains = JSON.parse(fs.readFileSync("data/food-deals/chains.json", "utf8")).chains.map((c) => ({ source: "chain", name: c.name, url: c.url }));
+const chains = JSON.parse(fs.readFileSync("data/food-deals/chains.json", "utf8")).chains
+  .filter((c) => !WAVE || String(c.wave) === WAVE)
+  .map((c) => ({ source: "chain", name: c.name, url: c.url }));
+if (WAVE) sheet.length = 0;
 
 // One crawl per site: several sheet rows can share a chain's homepage.
 const byHost = new Map();

@@ -1,0 +1,5440 @@
+{
+ "crawled": "2026-11-12T07:44:52.649Z",
+ "results": [
+  {
+   "source": "chain",
+   "name": "Joe & the Juice",
+   "url": "https://www.joejuice.com/",
+   "alsoSlugs": [],
+   "status": 429,
+   "finalUrl": "https://www.joejuice.com/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Starbucks",
+   "url": "https://www.starbucks.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.starbucks.co.uk/",
+   "pages": 1,
+   "hits": [
+    {
+     "url": "https://www.starbucks.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the app "
+    },
+    {
+     "url": "https://www.starbucks.co.uk/",
+     "types": [
+      "free-item"
+     ],
+     "text": "Gold members get free extras on the house, plus a free drink on your birthday - you deserve it! "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Le Pain Quotidien",
+   "url": "https://www.lepainquotidien.com/uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.lepainquotidien.com/uk/en",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Tossed",
+   "url": "https://www.tossed.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.tossed.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Greggs",
+   "url": "https://www.greggs.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.greggs.com/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://www.greggs.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the app, get free Greggs "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "free-item"
+     ],
+     "text": "Free drink not in conjunction with any other offer. The offer is valid until the date printed on the Stamp Card, following which Greggs plc reserves the right to revoke the Coffee Loyalty Card scheme and Greggs plc shall not be required to honour any reward after this date. "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "free-item"
+     ],
+     "text": "1 free bottle of Lucozade Original, Lucozade Orange or Lucozade Sport "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Subject to presentation of a Student Beans ID page, or valid student card on purchase of a full Sandwich Deal (see in store for details) you will be entitled to receive one of the following free of charge from Greggs: One Sausage Roll OR One Vegan Roll (Pork Free) OR One Cheese & Onion Bake OR One sweet treat* (in selected stores only). *Sweet treat excludes multipacks. Sandwich deal includes any "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student Beans Freshers Promotion "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Receive one free Savoury Roll (Sausage Roll, Vegan Roll (Pork-Free) or Chicken Roll) when you add your unique code from Student Beans to your Greggs App wallet. "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "The code will be available from the Student Beans page between 30/10/2026 and 21/11/2026 and must be added your Greggs app wallet by 21/11/2026. Once added, the reward will be available to redeem for 31 days. "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "One code per Student Beans member, one use per code. Limited to 1,000 codes. Only redeemable on the account associated with the email address to which the unique code was provided. Greggs reserves the right to withdraw or refuse to honour the reward where it reasonably suspects misuse, fraud or a breach of these terms. No cash alternative is available and the reward cannot be exchanged, sold or tr"
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Students who attend the Liverpool University activation, are scanned in by Student Beans and participate in the game will be eligible to receive a unique code by email from Student Beans to redeem one free Savoury Roll (Sausage Roll, Vegan Roll (Pork-Free) or Chicken Roll) subject to these terms. "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "The code will be available from Student Beans between 2/11/2026 and 16/11/2026 and must be added to your Greggs app wallet by 16/11/2026. Once added, your reward will be available to redeem for 31 days. "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "One code per Student Beans member, one use per code. 305 codes released in total for this promotion. Only redeemable on the account associated with the email address to which the unique code was provided. Greggs reserves the right to withdraw or refuse to honour the reward where it reasonably suspects misuse, fraud or a breach of these terms. No cash alternative is available and the reward cannot "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Students who attend the Edinburgh University activation, are scanned in by Student Beans and participate in the game will be eligible to receive a unique code by email from Student Beans to redeem one free Savoury Roll (Sausage Roll, Vegan Roll (Pork-Free) or Chicken Roll) subject to these terms. "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "The code will be available from Student Beans between 02/11/2026 and 16/11/2026 and must be added to your Greggs app wallet by 16/11/2026. Once added, your reward will be available to redeem for 31 days. "
+    },
+    {
+     "url": "https://www.greggs.com/legals/promotions-and-offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "One code per Student Beans member, one use per code. 376 codes released in total for this promotion. Only redeemable on the account associated with the email address to which the unique code was provided. Greggs reserves the right to withdraw or refuse to honour the reward where it reasonably suspects misuse, fraud or a breach of these terms. No cash alternative is available and the reward cannot "
+    },
+    {
+     "url": "https://www.greggs.com/menu",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the app "
+    },
+    {
+     "url": "https://www.greggs.com/app",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the Greggs App and get a warm (or cold) welcome with any regular hot drink or iced drink on us. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Farmer J",
+   "url": "https://www.farmerj.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.farmerj.com/",
+   "pages": 5,
+   "hits": [
+    {
+     "url": "https://www.farmerj.com/club-fork-terms/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Please read these terms and conditions ( Terms ) carefully before using the Club Fork App ( App ) (available on the Google Play Store for Android devices and the App Store for iOS devices). By downloading, accessing or using the App, you agree to be bound by these Terms. These Terms should be read together with our Privacy Policy , our Cookie Policy and any additional terms expressly referred to h"
+    },
+    {
+     "url": "https://www.farmerj.com/club-fork-terms/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "If you do not agree to these Terms, you should not download, access or use the App. "
+    },
+    {
+     "url": "https://www.farmerj.com/club-fork-terms/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "5.2 Subject to these Terms, we grant you a limited, non-exclusive, non-transferable, non-sublicenseable and revocable right to download, access and use the App on a device that you own or control for your personal, non-commercial use in accordance with these Terms. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Wasabi",
+   "url": "https://www.wasabi.uk.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.wasabi.uk.com/",
+   "pages": 5,
+   "hits": [
+    {
+     "url": "https://www.wasabi.uk.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Wasabi Rewards today and collect points for every penny you spend! "
+    },
+    {
+     "url": "https://www.wasabi.uk.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download our Wasabi app for quick access:"
+    },
+    {
+     "url": "https://www.wasabi.uk.com/wasabi-rewards/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Wasabi Rewards today and start collecting points"
+    },
+    {
+     "url": "https://www.wasabi.uk.com/wasabi-rewards/",
+     "types": [
+      "free-item"
+     ],
+     "text": "Free drink or snack "
+    },
+    {
+     "url": "https://www.wasabi.uk.com/wasabi-rewards/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Wasabi Rewards "
+    },
+    {
+     "url": "https://www.wasabi.uk.com/wasabi-rewards/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download App "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Abokado",
+   "url": "https://abokado.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://abokado.com/",
+   "pages": 1,
+   "hits": [
+    {
+     "url": "https://abokado.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Oh and if you visit us regularly you should definitely download our App and tap into our generous loyalty scheme. "
+    },
+    {
+     "url": "https://abokado.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Our Club "
+    },
+    {
+     "url": "https://abokado.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join our loyalty club and get lots of lovely rewards, exclusive members-only deals and be the first to hear our latest news. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Homeslice",
+   "url": "https://www.homeslicepizza.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.homeslicepizza.co.uk/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Black Sheep Coffee",
+   "url": "https://www.blacksheepcoffee.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://blacksheepcoffee.com/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://blacksheepcoffee.com/pages/rewards",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the App "
+    },
+    {
+     "url": "https://blacksheepcoffee.com/pages/rewards",
+     "types": [
+      "percent-off"
+     ],
+     "text": "10% off Coffee Beans"
+    },
+    {
+     "url": "https://blacksheepcoffee.com/pages/rewards",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Take 10% off any variety of Black Sheep Coffee Beans. "
+    },
+    {
+     "url": "https://blacksheepcoffee.com/pages/rewards",
+     "types": [
+      "percent-off"
+     ],
+     "text": "10% off Black Sheep Merch"
+    },
+    {
+     "url": "https://blacksheepcoffee.com/pages/rewards",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Take 10% off any Black Sheep merch like mugs, t shirts, and more. "
+    },
+    {
+     "url": "https://blacksheepcoffee.com/pages/rewards",
+     "types": [
+      "percent-off"
+     ],
+     "text": "On Fridays, get 25% off any size hot or iced chai. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Hoppers",
+   "url": "https://www.hopperslondon.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.hopperslondon.com/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Comptoir Libanais",
+   "url": "https://www.comptoirlibanais.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.comptoirlibanais.com/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://www.comptoirlibanais.com/promotions/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "1. Kids Eat Free All Summer "
+    },
+    {
+     "url": "https://www.comptoirlibanais.com/promotions/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Student 25% Off Food is available at all UK Comptoir Libanais restaurants exluding Stansted. The offer is valid for dine-in and takeaway when purchasing a minimum of one large plate per person. Each person must present a valid student ID to receive the discount. Friends without a student ID are not eligible. Not valid in conjunction with any other offer or promotion. Valid until 30 th March 2027. "
+    },
+    {
+     "url": "https://www.comptoirlibanais.com/menus/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Feasts, Pre-Theatre & Special Menus \r"
+    },
+    {
+     "url": "https://www.comptoirlibanais.com/private-events/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "At Comptoir Libanais Bath, we believe that the best meals are made for sharing, which is why our feasting options are packed with generous platters, rich flavours, and the warm spirit of Middle Eastern hospitality. Whether you're gathering with friends, family, or colleagues, our mezze selections, hearty tagines, and vibrant grills make for the perfect shared dining experience. Choose from set men"
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Bao",
+   "url": "https://baolondon.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://baolondon.com/",
+   "pages": 6,
+   "hits": [
+    {
+     "url": "https://baolondon.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "The festive set menu "
+    },
+    {
+     "url": "https://baolondon.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download our app to earn Coins whilst you dine in our restaurants "
+    },
+    {
+     "url": "https://baolondon.com/bao-ktv/birthday/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "KTV sharing set menu"
+    },
+    {
+     "url": "https://baolondon.com/bao-ktv/birthday/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "KTV sharing set menu with a tin of Oscietra Caviar"
+    },
+    {
+     "url": "https://baolondon.com/bao-ktv/kids/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "BAO kids set menu"
+    },
+    {
+     "url": "https://baolondon.com/baoverse/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join our Webby award winning app, explore our world and collect BAOcoins when you dine in our restaurants. "
+    },
+    {
+     "url": "https://baolondon.com/baoverse/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Invite to restaurant first previews at 50% off – walk-ins "
+    },
+    {
+     "url": "https://baolondon.com/baoverse/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Invite to restaurant first previews at 50% off – bookings "
+    },
+    {
+     "url": "https://baolondon.com/menus/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "one of London’s best set menus"
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Mildreds",
+   "url": "https://www.mildreds.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.mildreds.com/",
+   "pages": 1,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Crosstown",
+   "url": "https://www.crosstown.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.crosstown.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.crosstown.co.uk/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "use code SPOOKILYGOOD20% for 20% off for a limited time only. \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/",
+     "types": [
+      "free-item"
+     ],
+     "text": "Enjoy freshly made, handcrafted doughnuts with same-day delivery across London & Oxford from Crosstown London. Order online for vegan options, birthday treats, and doughnuts for all special occasions. Complement your doughnuts with our speciality coffee and small-batch ice cream. Same-day delivery available in selected areas only. London & Oxford; get your luxury doughnuts delivered today! \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student Beans Discount \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "free-item"
+     ],
+     "text": "Luxury Happy Birthday Gifts | Next Day Delivery - Nationwide \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "free-item"
+     ],
+     "text": "MAKE YOUR OWN HAPPY BIRTHDAY GIFT "
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "free-item"
+     ],
+     "text": "Perhaps you have a friend who appreciates the classics, who finds comfort in the familiar. For them, the “Classic Doughnut Selection” is the ideal birthday gift. This box includes the Tongan Vanilla Bean Glaze, a vegan doughnut that offers a delicate vanilla aroma and a sweet, creamy taste. The Homemade Raspberry Jam doughnut is a burst of tangy sweetness.Finally, for the trendsetter in your life,"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "free-item"
+     ],
+     "text": "FIND A BIRTHDAY GIFT "
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "price-hook"
+     ],
+     "text": "Gifts under £50 \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "free-item"
+     ],
+     "text": "What are the best Happy Birthday Gifts from Crosstown? \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "free-item"
+     ],
+     "text": "How far in advance should I order my Happy Birthday Gifts? \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/happy-birthday-doughnuts/",
+     "types": [
+      "free-item"
+     ],
+     "text": "Dive into the tasty world of Crosstown’s Happy Birthday selection. Our handcrafted, award-winning doughnuts are more than just delicious – they’re a way to bring people together. We’ve got a wide variety of flavours to choose from, even vegan-friendly ones, ensuring there’s something for everyone. But our Happy Birthday gifts are about more than doughnuts or cookies. They’re about creating moments"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/student-beans-x-crosstown/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student Beans x Crosstown - Crosstown \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/student-beans-x-crosstown/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student Beans x Crosstown \r"
+    },
+    {
+     "url": "https://www.crosstown.co.uk/student-beans-x-crosstown/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "We value our student customers and strive to provide great value discounts and offers to make your Crosstown experience more rewarding. To redeem your 20% Student Beans discount in-store, follow these simple steps: "
+    },
+    {
+     "url": "https://www.crosstown.co.uk/student-beans-x-crosstown/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Ensure you have registered with Student Beans below and have your unique discount code ready. "
+    },
+    {
+     "url": "https://www.crosstown.co.uk/student-beans-x-crosstown/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "When you ve chosen one (or more) of our amazing doughnuts, smooth coffees or delicious ice creams, simply show your unique Student Beans discount code at the checkout. This can be shown on your mobile phone or as a printed copy. "
+    },
+    {
+     "url": "https://www.crosstown.co.uk/student-beans-x-crosstown/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Please note the following terms and conditions for using your Student Beans discount in-store: "
+    },
+    {
+     "url": "https://www.crosstown.co.uk/student-beans-x-crosstown/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "This discount is exclusively available to verified Student Beans members. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Crussh",
+   "url": "https://www.crussh.com/",
+   "alsoSlugs": [],
+   "status": 404,
+   "finalUrl": "https://www.crussh.com/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Paul",
+   "url": "https://www.paul-uk.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.paul-uk.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.paul-uk.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "10% off your next PAUL order when you spend a minimum of £50! \r"
+    },
+    {
+     "url": "https://www.paul-uk.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Create a PAUL account & sign up to our newsletter to enjoy 10% off your next order! "
+    },
+    {
+     "url": "https://www.paul-uk.com/",
+     "types": [
+      "pre-theatre",
+      "percent-off"
+     ],
+     "text": "Early bird: 15% off large size "
+    },
+    {
+     "url": "https://www.paul-uk.com/",
+     "types": [
+      "pre-theatre",
+      "percent-off"
+     ],
+     "text": "Early bird: 15% off "
+    },
+    {
+     "url": "https://www.paul-uk.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download Our App \r"
+    },
+    {
+     "url": "https://www.paul-uk.com/order-online/cakes/birthday-cakes",
+     "types": [
+      "free-item"
+     ],
+     "text": "Several of our cakes can be ordered in larger sizes to share with even more happy birthday guests. Many of them can be customised with your own personal birthday message. Whichever cake you choose, to enjoy at home or to send as a birthday gift to someone you love, you can be sure it will be well received. Enjoy browsing! "
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/lets-brunch",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the PAUL App \r"
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/loyaltyapp",
+     "types": [
+      "app-reward"
+     ],
+     "text": "The PAUL UK Loyalty App is the quickest way to pay at PAUL and earn delicious rewards, all with a simple scan of your phone. There are a number of features on the new PAUL UK Loyalty App that mean whenever you buy a PAUL product you will be rewarded for your loyalty and will receive surprise gifts and treats along the way. Download now from the Apple App Store or the Google Play Store and join our"
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/loyaltyapp",
+     "types": [
+      "app-reward"
+     ],
+     "text": "A: It's live now! You can download our app from both the Apple App Store and Google Play Store . "
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/loyaltyapp",
+     "types": [
+      "app-reward"
+     ],
+     "text": "A: We have replaced our La Carte Noire Loyalty card with the PAUL UK Loyalty mobile App. You can download the App onto your phone from either the Apple App Store or Google Play Store , link your chosen payment card (optional) securely to the App and use it to pay at PAUL and earn rewards. Instead of receiving 1 point for every £1 (One Pound) you spend and being able to redeem your points in store,"
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/loyaltyapp",
+     "types": [
+      "app-reward"
+     ],
+     "text": "A: Credit on loyalty cards expired on 20th July 2019. You can now download the new PAUL UK App to pay for all your favourite PAUL goodies by linking your payment credit or debit card to the App. Please note, points or balance cannot be transferred from La Carte Noire to the App. "
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/loyaltyapp",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Q: Do I need to download the PAUL App to collect stamps? "
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/loyaltyapp",
+     "types": [
+      "free-item"
+     ],
+     "text": "Q: Can I choose an alternative milk with my free drink? "
+    },
+    {
+     "url": "https://www.paul-uk.com/our-stores/loyaltyapp",
+     "types": [
+      "free-item"
+     ],
+     "text": "Q: How do I redeem my free drink? "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Café Rouge",
+   "url": "https://www.caferouge.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.caferouge.com/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://www.caferouge.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Two courses from £17.95 "
+    },
+    {
+     "url": "https://www.caferouge.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Our Set Menu and Prix Fixe offers a selection of our best-loved dishes, each influenced by the creativity and richness of French cooking. Choose two courses from just £17.95 or dine a little longer with a third for £3.50 more. Alternatively, for an evening treat, dine on our Prix Fixe with 2 courses for £14.45. "
+    },
+    {
+     "url": "https://www.caferouge.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "*Please note that set menu and prix fixe availability differs by restaurant location. Check the restaurant location page before making your booking. "
+    },
+    {
+     "url": "https://www.caferouge.com/restaurant-offers",
+     "types": [
+      "set-menu"
+     ],
+     "text": "From our lovingly prepared Prix Fixe and Set Menu to our Rouge Rewards and Classic Afternoon Tea options, explore the offers available at Café Rouge restaurants across the UK. "
+    },
+    {
+     "url": "https://www.caferouge.com/restaurant-offers",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free "
+    },
+    {
+     "url": "https://www.caferouge.com/restaurant-offers",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "We are proud to offer our kids eat free every day from 12-4pm with the purchase of any adult main. These can vary per location, so please see current campaign email and offer webpage for current dates* "
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "French Set Menu | Café Rouge "
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Our French-inspired set menu "
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Sample your favourite French dishes with our lovingly prepared Set Menu and Prix Fixe, promising a true taste of Parisian dining. Enjoy two or three delicious courses, with new favourites and familiar classics available at our all-day bistros. "
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "*Set Menu and Prix Fixe menu availability differs by location. Please check the restaurant location page before making your booking. "
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Our set menu offers a taste of Parisian dining "
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "We’ve selected some of our favourite French dishes for our set menu, which we hope you’ll love. For your main course, we’ve paired timeless French classics and more contemporary dishes prepared with our own spin. How about Steak Frites with garlic butter, Demi Poulet with fries, or our Butternut Squash and Lentil Wellington? Feeling sweet? Add a delicious dessert, like our new Apple Tart, for just"
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Our new 2-course Prix Fixe menu is available from 19:30pm* everyday, and is the perfect way to add a touch of Parisian deliciousness to your dinner date. Choose a starter and main from our Prix Fixe menu for £14.49 or go for a main and dessert - the choice is yours! "
+    },
+    {
+     "url": "https://www.caferouge.com/set-menu",
+     "types": [
+      "set-menu"
+     ],
+     "text": "*Set Menu and Prix Fixe menu availability differs between restaurant locations. Please check the restaurant location before you make your booking. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Wildwood",
+   "url": "https://www.wildwoodrestaurants.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://wildwoodrestaurants.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://wildwoodrestaurants.co.uk/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Lunch Set Menu "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Getting ready for the festive season? Explore our 3-course Christmas set menu from £34.95! Find your local Wildwood, view the menu, and book a table in seconds. "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/",
+     "types": [
+      "free-item"
+     ],
+     "text": "Get a BIRTHDAY treat from us – plus the latest offers, events and insider-only perks "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "20% OFF NHS & emergency services "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu",
+      "percent-off",
+      "discount-group"
+     ],
+     "text": "Offer valid when an in-date NHS ID/ Blue light card/ HM Military card/ any form of emergency services ID is shown to a member of our team. Offer entitles you to 20% off food every Sunday to Thursday in all our Wildwood restaurants. Not valid for takeaway. Offer cannot be used in conjunction with any other promotion, set menu, discount or offer. Offer valid for a table up to 6 people. Not available"
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "percent-off",
+      "discount-group"
+     ],
+     "text": "20% OFF STUDENT DISCOUNT "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu",
+      "percent-off"
+     ],
+     "text": "Offer valid when an in-date student ID is shown to a member of our team. Offer entitles you to 20% off food every Sunday to Thursday, when showing this post to your server in all our Wildwood restaurants. Not valid for takeaway. Offer cannot be used in conjunction with any other promotion, set menu, discount or offer. Offer valid for a table up to 6 people. Not available on Mother s Day, Father s "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "This offer entitles you to one full English or full veggie English and one soft or hot drink for £10 per person, when mentioning code ENGLISH10. Available during breakfast hours in Wildwood Camberley and Wantage for dine-in only. It cannot be exchanged for cash, or any other monetary value, and it cannot be used in conjunction with any other discount, offer or set menu. "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Set Menus "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "LUNCHTIME SET MENU "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu",
+      "percent-off"
+     ],
+     "text": "2 courses from £13.95 or 3 courses from £16.95, with 20% off selected drinks! Available 12pm until 5pm Monday to Friday.* "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "VIEW LUNCH SET MENU "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu",
+      "percent-off"
+     ],
+     "text": "*Terms & conditions: Our lunch menu is available Monday to Friday from 12pm until 5pm. 2 Courses for £13.95 or 3 courses for £16.95. 20% off drinks applies to the selected drinks on the set menu, one discounted drink per menu ordered. It is not available in Wildwood Braintree or Rushden Lakes. This menu is not available on bank holidays and can only be used for tables of up to 6 people. No other v"
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Starter or dessert + a main for just £10, with 20% off your first drink. Available Monday to Friday from 12pm until 5pm when a valid student ID or proof of age over 60 is shown.* "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "VIEW £10 SET MENU "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu",
+      "percent-off"
+     ],
+     "text": "*Terms & conditions: Only available Monday to Friday until 5pm for Lunch Menu dishes with a valid student ID or proof of age over 60. 20% off drinks applies to the selected drinks on the set menu, one discounted drink per menu ordered. It is not available in Wildwood Braintree or Rushden Lakes. This menu is not available on bank holidays and can only be used for tables of up to 6 people. No other "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "EVENING SET MENU "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "2 courses from £19.95 and 3 courses from £22.95, valid Sunday to Thursday after 5pm.* "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "VIEW EVENING SET MENU "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/offers/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "*Terms & conditions: 2 courses from £19.95 and 3 courses from £22.95, valid Sunday to Thursday after 5pm for dine-in only. It is not available in Wildwood Braintree or Rushden Lakes, or on bank holidays and it cannot be used in conjunction with any other vouchers or promotions. Please note, this menu will not be available in Wildwood Ely from 18/11/2026 until 21/11/2026. "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/menus/lunch-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Lunch Set Menu | 2 & 3 Course Options | Wildwood "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/menus/lunch-set-menu/",
+     "types": [
+      "set-menu",
+      "percent-off"
+     ],
+     "text": "Our lunch menu is available Monday to Friday from 11:30am until 5pm. 2 Courses for £13.95 or 3 courses for £16.95. 20% off drinks applies to the selected drinks on the set menu, one discounted drink per menu ordered. It is not available in Wildwood Braintree or Rushden Lakes. This menu is not available on bank holidays and can only be used for tables of up to 6 people. No other vouchers or promoti"
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/menus/lunch-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Share our lunchtime set menu with your friends to get their taste buds tingling! "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/menus/lunch-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "view lunch set menu "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/menus/kids/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Kids’ Menu | 2 Courses for £7.95 | Family Dining | Wildwood "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Celebrate Christmas with our set menu brimming with festive favourites and indulgent new creations. Our warm and welcoming restaurants are the perfect backdrop for cosy date nights, vibrant office parties or big family get-togethers. "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Bookers Voucher Christmas Set Menu Booking Policy "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "CHRISTMAS SET MENU "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "3 courses from £34.95 "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "VIEW CHRISTMAS SET MENU "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Looking for a gift that is always appreciated? Treat your loved ones to a Wildwood e-gift card this festive season! Plus, get up to 25% off using the codes below, simply enter the promo code at checkout: "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "25% off "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "20% off "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "10% off "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "To qualify, you must book a our 3-course Christmas set menu for 16+ people from 17/11/2026 until 04/01/2027* "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Early Bird Christmas – 3 Courses & Prosecco £34.95 "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Offer entitles you to £60 off your next food bill, all day every day from 05/01/2027 until 11/02/2027, when the unique code sent via email is shown to a member of our team. Valid for dine-in only at any Wildwood restaurant. It cannot be used in conjunction with any other promotion, set menu, discount or offer. It is for single use and must be redeemed in full as it cannot be split or carried over "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Our Alla carta menu will be available, along with our festive set menu and kids’ menu. Our Christmas menu will be available from 17th November 2026 until 4th January 2027 "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/cinema-club/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Drinks 20% off selected drinks "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/cinema-club/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Drinks – 20% off selected soft drinks "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/cinema-club/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "2-Course meal & cinema ticket: £28.95 (Upgrade to 3 courses for £31.95) "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/cinema-club/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Cinema set menus "
+    },
+    {
+     "url": "https://wildwoodrestaurants.co.uk/cinema-club/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Cinema set menu "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Benugo",
+   "url": "https://www.benugo.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.benugo.com/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Cocotte",
+   "url": "https://www.cocotte.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.cocotte.co.uk/",
+   "pages": 1,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Padella",
+   "url": "https://www.padella.co/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.padella.co/",
+   "pages": 1,
+   "hits": [
+    {
+     "url": "https://www.padella.co/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Check out our three-course set menu at Shoreditch and Soho for bookings of 7 or more. Get in touch for the most recent menu and to make a booking at [email protected] or [email protected] , or make a smaller reservation here ."
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Lina Stores",
+   "url": "https://linastores.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.linastores.co.uk/",
+   "pages": 3,
+   "hits": [
+    {
+     "url": "https://www.linastores.co.uk/private-dining-and-events",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Our semi-private delicatessen space within our King’s Cross restaurant is ideal for intimate events of up to 22 guests seated or 30 guests standing. Available for dinner events, guests can enjoy a relaxed sharing-style dining experience with a choice of our sharing set menus or cicchetti selection. "
+    },
+    {
+     "url": "https://www.linastores.co.uk/private-dining-and-events",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Our Manchester restaurant can accommodate group bookings of up to 28 guests. For larger occasions, the restaurant is available for exclusive hire for both seated and standing events, with guests able to enjoy our sharing set menus or cicchetti selection, making it ideal for celebrations, corporate dinners, and special events. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Bancone",
+   "url": "https://www.bancone.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.bancone.co.uk/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Pastaio",
+   "url": "https://www.pastaio.london/",
+   "alsoSlugs": [],
+   "status": 0,
+   "finalUrl": "https://www.pastaio.london/",
+   "error": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Polpo",
+   "url": "https://www.polpo.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.polpo.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Breddos Tacos",
+   "url": "https://www.breddostacos.com/",
+   "alsoSlugs": [],
+   "status": 0,
+   "finalUrl": "https://www.breddostacos.com/",
+   "error": "ERR_TLS_CERT_ALTNAME_INVALID",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Barrafina",
+   "url": "https://www.barrafina.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.barrafina.com/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Ottolenghi",
+   "url": "https://ottolenghi.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://ottolenghi.co.uk/",
+   "pages": 1,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Pizza Union",
+   "url": "https://www.pizzaunion.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.pizzaunion.com/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Temper",
+   "url": "https://www.temperrestaurant.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://temperrestaurant.com/",
+   "pages": 6,
+   "hits": [
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Steaks, tacos, bottomless brunch & cocktails in Soho. "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Steaks, tacos, bottomless brunch & cocktails in the City. "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Soho Bottomless "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "City Bottomless "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Taco Tuesday "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch"
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper is an award-winning steak restaurant in London, cooking everything over live fire. We're a steakhouse built around an open kitchen and a custom fire pit, where our chefs butcher rare-breed British beef in-house, dry-age every cut and grill it over flame. Alongside the steaks you'll find smoky tacos, slow-cooked barbecue, bottomless brunch in London and one of London's best Sunday roasts in "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless",
+      "day-deal"
+     ],
+     "text": "Since 2016, temper has built a reputation as one of London's best steak restaurants not for white tablecloths, but for fire, smoke and flavour. Our Soho restaurant on Broadwick Street is home to award-winning Sunday roasts, Saturday bottomless brunch and Taco Tuesday . temper City near Bank serves the same rare-breed beef and fire-cooked tacos to the Square Mile, with a lobster & steak bottomless "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless BBQ Brunch in Soho. "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Brunch with attitude, built for long lunches, loud laughs and proper catch-ups. Handmade tacos, 28-day dry-aged steak, triple smashed cheeseburgers, the temper Benedict, and 90 minutes of bottomless drinks. "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless wine add-on £27.5pp "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Taco Tuesday. Tacos & margaritas. "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Taco Tuesday details "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch done properly. Not cheap prosecco. Actually good drinks and brilliant food. "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch in London "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Lobster and Steak Bottomless Brunch in the City of London "
+    },
+    {
+     "url": "https://temperrestaurant.com/",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Taco Tuesday in London "
+    },
+    {
+     "url": "https://temperrestaurant.com/temper-soho/menu",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Soho Menu – Steaks, Tacos & Bottomless Brunch | temper "
+    },
+    {
+     "url": "https://temperrestaurant.com/temper-soho/menu",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Hungry yet? Book a table at temper Soho or walk in for Taco Tuesday from 5pm. "
+    },
+    {
+     "url": "https://temperrestaurant.com/temper-city/menu",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Hungry yet? Book a table at temper City or walk in for Taco Tuesday from 5pm. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch London – £45, Soho | temper "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch temper Soho "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch in Soho, London — £45pp "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Standard (£45 per person) and Ultimate (£60 per person) bottomless at Soho: mains from the fire, ninety minutes of drinks. Saturdays on Broadwick Street, 12 3:30pm. Book the tier you want on OpenTable. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch London "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "The best bottomless brunch in London "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Looking for the best bottomless brunch in London? temper Soho's bottomless brunch runs every Saturday on Broadwick Street, in the heart of Soho. It's a fire-cooked feast, not a watered-down brunch flame-grilled steaks, smoky barbecue, handmade tacos and unlimited drinks. It's bottomless brunch in Soho done the temper way: big flavour, free-flowing drinks and a proper party atmosphere. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Soho bottomless "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "In the City? Try our Lobster & Steak Bottomless Brunch "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper City, two minutes from Bank, runs its own Saturday brunch: lobster, dry-aged steak and 90 minutes of bottomless drinks from £70pp. See the Lobster & Steak Bottomless Brunch . "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Saturday bottomless on Broadwick Street. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Brunch is two boards Standard and Ultimate same mains list, different bottomless drinks. Ninety minutes from sit-down, whole table on the same tier. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Where can I get bottomless brunch in Soho? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper Soho serves bottomless brunch every Saturday from 12pm to 3:30pm. We're located at 25 Broadwick Street in the heart of Soho, central London. Our bottomless brunch in Soho includes unlimited drinks for ninety minutes plus fire-cooked food from our brunch menu. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What's included in bottomless brunch at temper? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch includes your choice of main dish, two starter tacos, and ninety minutes of unlimited drinks. The Standard package (£45) includes bottomless Prosecco, Mimosas, Madri lager, Madri 0%, non-alcoholic cider and mocktails. The Ultimate package (£60) adds white and red wine and Margaritas on top of the Standard drinks. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Which is the best bottomless brunch in London? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper is consistently rated as one of the best bottomless brunches in London because we cook everything over open fire, serve high-quality dry-aged steak and house-made ingredients, and provide generous drinks throughout the full ninety minutes. Our central London location in Soho makes us easy to reach from anywhere in the city. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "When is bottomless brunch available? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch runs every Saturday from 12pm to 3:30pm at temper Soho. We recommend booking in advance as Saturdays fill up quickly, especially during the 12:30pm to 1:30pm window. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Can I book bottomless brunch for a large group in London? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Yes. temper Soho welcomes large groups for bottomless brunch. For parties of nine or more, use our large-party booking system or contact the events team. We regularly host birthday parties, hen dos, and team events. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "How long does bottomless brunch last? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless drinks flow for ninety minutes at temper Soho from sit-down. That gives you plenty of time to enjoy your food, refill your drinks, and make the most of your Saturday afternoon in central London. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What drinks are included in bottomless brunch? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "The Standard Bottomless Brunch (£45) includes ninety minutes of bottomless Prosecco, Mimosas, Madri lager, Madri 0%, non-alcoholic cider and mocktails (Spiced Pineapple Margarita and Apple Grapefruit Spritz). The Ultimate Bottomless Brunch (£60) adds unlimited white wine (Grillo), red wine (Sangiovese) and Margaritas on top of everything in the Standard package. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Do you serve food with bottomless brunch? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Yes. Bottomless brunch includes both unlimited drinks and food. You choose one main dish (steak and chips, triple smashed cheeseburger, cauliflower with smoked labneh, temper Benedict, steak sandwich, or Ecuadorian prawn salad) plus two starter tacos (goat's cheese, burnt ends or pork bites). All food is cooked over open fire at temper Soho. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What makes temper different from other bottomless brunches in London? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper stands out because we cook everything over open fire, giving our bottomless brunch food a smoky depth that typical London brunches can't match. We use dry-aged steak, house-made sausages, and quality ingredients rather than standard brunch fare. Our central London location in Soho puts you in the heart of the West End with easy access to shopping, theatres, and nightlife. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "How much is bottomless brunch in London? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch at temper Soho is £45 per person for the Standard package or £60 per person for the Ultimate package. Both packages include 90 minutes of bottomless drinks, plus a main dish and two starter tacos. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What is the difference between Standard and Ultimate bottomless brunch? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "The Standard package (£45pp) includes bottomless Prosecco, Mimosas, Madri lager, Madri 0%, non-alcoholic cider and mocktails for 90 minutes. The Ultimate package (£60pp) adds white wine, red wine and Margaritas on top of the Standard drinks. The food is identical on both packages. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Where can I find the best bottomless brunch near me? "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "If you are in or near central London, temper Soho serves bottomless brunch every Saturday from 12pm to 3:30pm. We are at 25 Broadwick Street in Soho, a short walk from Piccadilly Circus, Oxford Circus and Carnaby Street. If you are in the City of London, our sister restaurant temper City runs a Lobster and Steak Bottomless Brunch at 2 Angel Court, near Bank station. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "About our bottomless brunch "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "If you're looking for one of the best bottomless brunches London has to offer, temper serves exceptional fire-cooked food with unlimited drinks every Saturday from 12pm to 3:30pm. Our bottomless brunch at temper Soho brings together bold flavours, free-flowing Prosecco, Mimosas and Madri on Standard, with wine and Margaritas added on Ultimate, and an atmosphere that makes Saturdays special in cent"
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Whether you're after bottomless brunch in Soho for an intimate setting near the fire pits, or you're planning a weekend celebration in the West End, temper delivers one of London's most distinctive brunch experiences. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "At temper, bottomless brunch isn't just about unlimited drinks. It's about watching your food cooked over open flames, enjoying dry-aged steak or a triple-smashed cheeseburger, and spending ninety minutes with friends in the heart of London's West End. temper Soho is the go-to destination for a serious bottomless brunch in central London. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch Soho: fire, flavour & unlimited drinks "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch at temper Soho takes place in our intimate basement restaurant where you can sit by the fire pits and watch your food being cooked. If you're searching for bottomless brunch in Soho with character and energy, our room delivers both exceptional food and a front-row seat to the flames. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Every Saturday from 12pm to 3:30pm, bottomless brunch includes ninety minutes of drinks alongside fire-cooked mains. Standard (£45) covers Prosecco, Mimosas, Madri, non-alcoholic cider and mocktails; Ultimate (£60) adds red and white wine and Margaritas. temper Soho is ideal for groups who want a lively setting in the heart of the West End. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "After your bottomless brunch in Soho, you're perfectly placed to explore the theatre district, shop on Carnaby Street, or continue your Saturday in one of the area's many bars. It's easy to turn brunch into an all-day event in central London. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "If you're looking for a stand-out bottomless brunch in London, temper is built around how we cook. Everything is prepared over open fire, giving steak, burgers, and other dishes a smoky depth you won't find at typical bottomless brunches across the city. We're not just serving unlimited drinks with standard brunch food: we're delivering fire-cooked quality you'd usually expect at dinner. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Our bottomless brunch mains include: "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Plus, choose two tacos to start from options including goat's cheese, burnt ends, and pork bites. This isn't a basic bottomless brunch on every corner: it's proper restaurant-quality food with unlimited drinks in the middle of Soho. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "A steak bottomless brunch, not just a boozy one "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper is a steak restaurant first, so this is a proper steak bottomless brunch. The plate leads with dry-aged steak cooked over the same open fire as our dinner service, served as steak and chips with a fried egg and chimichurri, and the triple smashed cheeseburger, the temper Benedict and the steak sandwich sit alongside it. The drinks earn the boozy brunch name too. Standard at £45 per person p"
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless drinks: two packages "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper offers two bottomless brunch packages at temper Soho: "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Standard bottomless brunch (£45 per person) "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Ninety minutes of unlimited Prosecco, Mimosas, Madri lager, Madri 0%, non-alcoholic cider and mocktails. Everything you need for a great bottomless brunch without breaking the bank. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Ultimate bottomless brunch (£60 per person) "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Adds bottomless white and red wine and Margaritas, alongside everything in the Standard package. Choose Ultimate for celebrations and when you want the full pour. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Why choose temper for bottomless brunch in London "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch is everywhere in London, but not all brunches are equal. temper focuses on three things: exceptional food cooked over fire, generous pours that actually feel bottomless, and a Saturday-afternoon atmosphere that feels like an occasion. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch near the City of London "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "If you work in the City during the week and want bottomless brunch at the weekend, temper Soho is a short tube ride or walk from the Square Mile close enough to be convenient, different enough to feel like a proper Saturday escape. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "We serve the same bottomless brunch menu every Saturday at temper Soho, so you always know what you're booking. "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Booking your bottomless brunch "
+    },
+    {
+     "url": "https://temperrestaurant.com/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Walk-ins are welcome when we have space, but bottomless brunch is busy: booking secures your table and your preferred sitting. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Lobster & Steak Bottomless Brunch, City of London | temper "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch in the City of London. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless with lobster "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless menu "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless steak & chips "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Lobster and steak bottomless in the City — unreal. Felt special without being stuffy. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch in the City of London "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper City serves the best bottomless brunch in the City of London a lobster & steak feast over open fire, every Saturday near Bank. Think surf and turf sharing boards, free-flowing drinks and a lively soundtrack, minutes from Bank, Moorgate and Liverpool Street. If you're after a bottomless brunch near Bank or in the Square Mile, this is it. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper Soho on Broadwick Street runs Saturday bottomless brunch from £45pp steak, tacos and smashed cheeseburgers from 12pm. See the Soho Bottomless Brunch . "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "This is not your standard bottomless brunch. Half a grilled Cornish lobster, 28-day dry-aged British steak, a seared scallop and a chargrilled black tiger prawn on one plate, cooked over open fire in our City kitchen. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Book your lobster & steak bottomless brunch "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless is for the whole party. Mention dietary requirements when you book. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Lobster & Steak Bottomless Brunch FAQs "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Where can I get a Lobster & Steak Bottomless Brunch in the City of London? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper City serves the Lobster & Steak Bottomless Brunch every Saturday from 12pm to 4pm. We're at 2 Angel Court, 30 Throgmorton Street, EC2R 7HJ a five-minute walk from Bank, Moorgate and Liverpool Street stations. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What's included in the Lobster & Steak Bottomless Brunch at temper? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Which is the best bottomless brunch in the City of London? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper City is consistently rated among the best bottomless brunches in London because everything is cooked over open fire, we use British 28-day dry-aged steak and Cornish lobster, and the drinks flow generously throughout the full 90-minute window. Our central City location makes us easy to reach from anywhere in London. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "When is the Lobster & Steak Bottomless Brunch available? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "How long does bottomless last? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What's the difference between the £70 and £80 bottomless brunch? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "The £70 Bottomless Brunch includes unlimited sparkling wine, Grillo white wine, Sangiovese red wine, Mimosas, Madri lager and Madri 0%, plus a Spiced Pineapple Margarita mocktail. The £80 board includes unlimited Prosecco, Grillo, Sangiovese, Mimosa, Aperol Spritz, Margarita, Madri lager and Madri 0%, plus the Spiced Pineapple Margarita mocktail. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Can I book the bottomless brunch for a large group? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Does the whole table need to do bottomless? "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Yes bottomless is for the whole party. We're happy to cater for vegetarians, pescatarians and most allergens; please mention any dietary requirements at the time of booking so the kitchen can prepare. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "temper stands out because we cook everything over Binchotan, embers and open fire giving our bottomless brunch a smoky depth most London brunches can't match. We use British 28-day dry-aged steak, Cornish lobster, hand-shucked oysters and hand-dived scallops rather than standard brunch fare. Add a central City of London location and 90 minutes of generous, unlimited drinks, and it's one of the mos"
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch, Every Saturday at temper City "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Searching for the best bottomless brunch in the City of London? temper City is built for it. Located at 2 Angel Court, 30 Throgmorton Street, EC2R 7HJ a short walk from Bank, Moorgate and Liverpool Street we bring open fire, dry-aged steak and free-flowing drinks to the Square Mile every Saturday. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Where most City bottomless brunches end with eggs and pancakes, ours finishes with surf and turf: a 28-day dry-aged British steak, half a grilled Cornish lobster (on the £80 board), a seared scallop and a chargrilled black tiger prawn paired with ninety minutes of unlimited wine, beer and cocktails. "
+    },
+    {
+     "url": "https://temperrestaurant.com/lobster-steak-bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Why It's the Best Bottomless Brunch in the City of London "
+    },
+    {
+     "url": "https://temperrestaurant.com/whats-on",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch Soho "
+    },
+    {
+     "url": "https://temperrestaurant.com/whats-on",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Sundays "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Big Mamma",
+   "url": "https://www.bigmammagroup.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.bigmammagroup.com/",
+   "pages": 2,
+   "hits": [
+    {
+     "url": "https://www.bigmammagroup.com/",
+     "types": [
+      "set-menu",
+      "two-for-one"
+     ],
+     "text": "[[\"ShallowReactive\",1],{\"data\":2,\"state\":26145,\"once\":26159,\"_errors\":26160,\"serverRendered\":21,\"path\":26162,\"pinia\":26163},[\"ShallowReactive\",3],{\"settings_en\":4,\"sanity-Xam3ZihADaR2wbuwz2vqlFpoAVZCjyS7t_LZMBU-zPU\":25807,\"sanity-d8TqlZvkBbbObBhvclziXsMFCnXcd3-X3h6QXCVmX50\":25848,\"sanity-xbs3zDtgAQD01wN8QeJIwVT_OXfNHSsEgPcHlMB85n8\":26122},{\"settings\":5,\"custom_js\":284,\"cities\":291,\"countries\":2121"
+    },
+    {
+     "url": "https://www.bigmammagroup.com/gift-voucher-uk",
+     "types": [
+      "set-menu",
+      "two-for-one"
+     ],
+     "text": "[[\"ShallowReactive\",1],{\"data\":2,\"state\":26394,\"once\":26408,\"_errors\":26409,\"serverRendered\":21,\"path\":243,\"pinia\":26411},[\"ShallowReactive\",3],{\"settings_en\":4,\"sanity-Xam3ZihADaR2wbuwz2vqlFpoAVZCjyS7t_LZMBU-zPU\":25807,\"sanity-d8TqlZvkBbbObBhvclziXsMFCnXcd3-X3h6QXCVmX50\":25848,\"sanity-GydjZiRex0l7QYoHDN7rWLsmlQkUbx33xo-qariTmAQ\":26122},{\"settings\":5,\"custom_js\":284,\"cities\":291,\"countries\":2121,\""
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Fuller's",
+   "url": "https://www.fullers.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.fullers.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Nicholson's",
+   "url": "https://www.nicholsonspubs.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.nicholsonspubs.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Greene King",
+   "url": "https://www.greeneking.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.greeneking.co.uk/",
+   "pages": 6,
+   "hits": [
+    {
+     "url": "https://www.greeneking.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download The App "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "This Christmas, we're saying thank you to the people who keep our communities going. We're giving away 30,000 free festive meals, including 10,000 exclusively for Blue Light Card members! Sign up for your free festive meal "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/",
+     "types": [
+      "day-deal"
+     ],
+     "text": "NFL's back, and we've got it on our screens. Sunday night football, Monday night football, all the highlights and more. So, whether you're getting ready to head down to the NFL London matches or you're a stout fan watching every week, we've got all the live NFL action on our screens every single week. You won't want to miss this. find a pub showing nfl "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the app "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "percent-off",
+      "discount-group"
+     ],
+     "text": "Get 15% off at Greene King Pubs with your Blue Light discount! "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Greene King are proud to work in conjunction with the Blue Light Card discount scheme, showing our appreciation to the everyday heroes and frontline workers up and down the country. Pop in and get a great meal for less at any participating pub. "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Whichever of our pubs you’re visiting, we want you to enjoy the best meal at the best price. Because we know that getting a great deal on your favourite meal is only going to make it taste better. So whether you’re craving a bargain on a Greene King pub classic, the signature carvery at Farmhouse Inns or BOGOF burgers at Hungry Horse, your search for the best pub deals around starts and ends with "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Offer cannot be combined with other offers, promotions and discount including Greene King team member, friends & family and Blue Light discounts. "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Blue Light Discount | Greene King Pubs "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Terms & conditions Blue Light Discount "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "percent-off"
+     ],
+     "text": "1. Please present your QR code when placing your order at the till, which entitles the bearer to 15% off Food at a participating pub."
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "percent-off"
+     ],
+     "text": "3. The 15% off food offer cannot be used in conjunction with any other offer, menu promotion or on Bank Holidays, Mother's Day, Father's Day, Valentine's Day, Christmas Day, Boxing Day, New Year's Eve and New Year's Day."
+    },
+    {
+     "url": "https://www.greeneking.co.uk/deals",
+     "types": [
+      "discount-group"
+     ],
+     "text": "9. Blue Light Card discount voucher can't be used in tenanted and leased pubs in our Pub Partners estate. "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/food-and-drink",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Introducing the Greene King Pubs & Restaurants app, new and improved with exciting features to make your dining-out experience easier and more personalised to you. With just a few taps, you can discover new pubs across a range of brands, save your favourites for the future, explore a wide variety of menus and book ahead of your next visit. Download our app now and see what all the fuss is about! "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Yes, you read that right - free food and drink is up for grabs for all you newcomers. Download the Greene King app & register, spin the wheel, and you might land yourself a main, pud or pint. No catch, just pure joy (and maybe some gravy). "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "free-item"
+     ],
+     "text": "Free dessert? Tick. Free pub classic? Oh yes. Free pint? Don’t mind if we do. And hey, even if you don’t win, you’ll still have our app now, so you can skip the queue like the legend you are. "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "percent-off",
+      "free-item"
+     ],
+     "text": "6. Prize selection . One (1) prize of either a free drink, free starter, free dessert, free main meal. a half price drink, a half price main meal or 25% discount on food when you spend £15 voucher will be awarded upon completing the Spin to Win game."
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "free-item"
+     ],
+     "text": "7. Minimum Spend Requirements : You will need to purchase at least one other item with a minimum spend of £5 in total in your transaction to be eligible to claim the free starter, free dessert or free main meal prizes. "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "percent-off",
+      "free-item"
+     ],
+     "text": "a. A free drink or half price drink , Customers can choose one of the following drinks depending on selection available in participating venue where redeemed:"
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "free-item"
+     ],
+     "text": "b. A free dessert - does not include sharer desserts or hot drink with a mini dessert"
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "free-item"
+     ],
+     "text": "c. A free starter - does not include sharer starters or platters"
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "free-item"
+     ],
+     "text": "d. A free main meal – up to a maximum value of £30 – only selected from the main menu, does not include any breakfast, brunch, lunch, seniors, specials, children’s menus or timed menus."
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "percent-off"
+     ],
+     "text": "e. A half price main meal -maximum discount of £15 - excludes sharers or any meal priced higher than £30, only selected from the main menu, does not include any breakfast, brunch, lunch, seniors, specials, children’s menus or timed menus. "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "percent-off"
+     ],
+     "text": "SPORT 10% OFF TERMS & CONDITIONS: 6th May - 31st December 2026 "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/order-and-pay-app",
+     "types": [
+      "percent-off"
+     ],
+     "text": "6. Voucher: This voucher entitles the user to 10% off selected drinks upon checkout when purchasing in a single transaction. This is a multi-use voucher and is valid only within the promotional period. "
+    },
+    {
+     "url": "https://www.greeneking.co.uk/food-and-drink/sunday-roast",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Ready to gather your gang and tuck into an amazing Sunday roast near you? We can't wait to welcome you all – book your table in just moments by simply selecting your local Greene King, choose the best time for you, and we’ll take care of the rest. We're looking forward to making your Sunday special! "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Young's",
+   "url": "https://www.youngs.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.youngs.co.uk/",
+   "pages": 5,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Konditor",
+   "url": "https://www.konditor.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://konditor.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://konditor.co.uk/collections/milestone-birthdays",
+     "types": [
+      "free-item"
+     ],
+     "text": "I bought the Chocolate Noisette from Konditor for my wife’s birthday and it was absolutely delicious! Would highly recommend buying this as a birthday treat for someone special. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "The Real Greek",
+   "url": "https://www.therealgreek.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.therealgreek.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.therealgreek.com/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student discount "
+    },
+    {
+     "url": "https://www.therealgreek.com/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "STUDENT DISCOUNT "
+    },
+    {
+     "url": "https://www.therealgreek.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "This year we’re celebrating the recipes that never change: the ones passed down for generations, just as Yiayia made them. Join us from 18th November to 31st December to enjoy our Festive Set Menu. "
+    },
+    {
+     "url": "https://www.therealgreek.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "FILOXENIA set MENU £24PP "
+    },
+    {
+     "url": "https://www.therealgreek.com/kids-eat-free/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free "
+    },
+    {
+     "url": "https://www.therealgreek.com/kids-eat-free/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "If you can’t make it this half term, we offer Kids Eat Free every Sunday. "
+    },
+    {
+     "url": "https://www.therealgreek.com/kids-eat-free/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Eating together over a full table of Sharing dishes is at the heart of what we do. We aim to make dining easy, whether it’s a treat, a post-activity bite, or a bigger family get-together with kids eat free. "
+    },
+    {
+     "url": "https://www.therealgreek.com/kids-eat-free/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "For allergens, ask for our latest guide. Our team will help you choose suitable dishes and suggest alternatives where possible. Families looking for kids eat free restaurants with healthier choices will find this kids eat free offer both tasty and good value. "
+    },
+    {
+     "url": "https://www.therealgreek.com/kids-eat-free/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Do I need a voucher? No, just mention kids eat free to your server. "
+    },
+    {
+     "url": "https://www.therealgreek.com/kids-eat-free/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Can I combine with other offers? No. It can’t be used with other promotions, set menus, or restaurant offers listed above. "
+    },
+    {
+     "url": "https://www.therealgreek.com/offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "SPECIAL THANKS: 25% off Main Menu food for NHS, Police and Fire Brigade workers! "
+    },
+    {
+     "url": "https://www.therealgreek.com/offers/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "GREEK SANGRIA HAPPY HOUR "
+    },
+    {
+     "url": "https://www.therealgreek.com/offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "25% off our main menu, Sunday - Thursday. "
+    },
+    {
+     "url": "https://www.therealgreek.com/offers/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Our Student Discount is not valid in conjunction with any other offer / promotion. Not valid on Weekday Lunch menu, Filoxenia all day menu, Dessert menu or Kids menu."
+    },
+    {
+     "url": "https://www.therealgreek.com/student-discount/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Book Now Join Student Beans "
+    },
+    {
+     "url": "https://www.therealgreek.com/student-discount/",
+     "types": [
+      "set-menu",
+      "percent-off"
+     ],
+     "text": "25% off Main Menu food only, not valid on Filoxenia Set Menu."
+    },
+    {
+     "url": "https://www.therealgreek.com/student-discount/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "To redeem the offer a valid student ID or Student Beans discount code must be presented. Dine-in only."
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Revolution",
+   "url": "https://www.revolution-bars.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://revolution-bars.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "BOTTOMLESS BRUNCH "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless drinks and cocktails, a loaded brunch dish and the best day party vibes. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Get your Party Pass and unlock exclusive student discounts and offers at Revs. From drinks deals and cocktails to food offers and big nights out, we've got your uni years covered."
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "HAPPY HOUR "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Your favourite Happy Hour."
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch the Revs way. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Enjoy 2 hours of bottomless cocktails, tuck into a delicious brunch dish, and soak up the elite vibes at Revolution. Available every day of the week. Whether you're celebrating, catching up with friends or starting your night early, bottomless brunch is a must. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Get 40% off food and drinks at your local Revs every Sunday."
+    },
+    {
+     "url": "https://revolution-bars.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "In charge of organising the big day out? Our Bottomless Brunch is perfect for larger groups. 2 hours of bottomless drinks, a brunch dish, and a brunch party that just doesn't stop. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour Revolution Bars "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "The Best Happy Hour In Town "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour. Sunday to Friday. 2-4-£12 cocktails and £4.50 selected pints. You're welcome. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "ON HAPPY HOUR "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "You best believe 2-4-£12 cocktails will be flowing all through Happy Hour, but this time ALL of our cocktails are available. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Our Scottish Happy Days offering is £6 cocktails. Each bar, may at any time at its sole discretion, change their Happy Hours/Days timings. Offers may be affected during Bank Holidays. Please contact your local bar to confirm their exact timings if you'd like to visit us to avoid any disappointment. You can find full Happy Hour and Happy Days T&Cs here "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/offers/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Mid-week treat? We've got you. Happy Hour? Say less. Dining out without breaking the bank? Yep, can do. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Get 40% off food and drinks at your local Revs every Sunday. Just show the team your payslip or proof that you work in a bar, café, restaurant or hospitality venue to redeem and enjoy. Heading to Revs after work with the team? Our Industry Club discount is valid for groups of up to 6 people. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/offers/",
+     "types": [
+      "two-for-one",
+      "percent-off"
+     ],
+     "text": "You should know by know that the Revs App is a back-to-uni essential. This year, we're welcoming you to Your Happy Place, home to some of our biggest student offers yet including 50% off pizza, all day (and every day) 241 cocktails, discounted WKD, Heineken, shots and more. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/offers/",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "Yep, our famous Happy Hour (or Happy Days for our Scottish guests) has been upgraded . Fancy 2-4-1£12 on ANY of our cocktails? A beer for £4.50? No problem. Want them all day, every day? We got you. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch Revolution Bars "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch just got better. Food, drinks & unbeatable vibes at Revs. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Whether you're just having a day out with your crew, celebrating a birthday, or planning a hen party, Revs Bottomless Brunch is for you. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless cocktails & drinks for 2 hours "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Drinks "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Join us for an unforgettable 2-hour Bottomless Brunch experience with unlimited Prosecco, Mimosas, Pints of Pravha, Kopparberg Apple, and a huge selection of signature cocktails like our Long Island Iced Tea and Aperol Spritz. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Our fave bottomless drinks "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch (England and Wales)​ "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/bottomless-brunch/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch is any single Brunch food item plus drinks from the selection on the Bottomless Brunch menu. You have 2 hours from the time of your order being taken to enjoy your Bottomless Brunch. Your drink must be finished before ordering your next from the selection. Last orders are taken 15 minutes before the end of your 2 hour brunch session, no further orders are taken after this time. W"
+    },
+    {
+     "url": "https://revolution-bars.co.uk/student-offers/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download The App "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/student-offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "50% OFF FOOD. EVERY WEDNESDAY. "
+    },
+    {
+     "url": "https://revolution-bars.co.uk/student-offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Grab 50% off food every Wednesday with your Party Pass — because your student loan should stretch further than your weekend."
+    },
+    {
+     "url": "https://revolution-bars.co.uk/student-offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "50% off, but always100% on flavour."
+    },
+    {
+     "url": "https://revolution-bars.co.uk/student-offers/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Show your Party Pass, and claim your 50% off."
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Be At One",
+   "url": "https://www.beatone.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.beatone.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.beatone.co.uk/",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "We’ve got 2-4-1 cocktails with Happy Hour running every day including until 6pm on Saturdays*. Discover our playfully vibrant cocktail list , tasty bar bites , and fresh pints on tap in a stylish setting that’s perfect for afternoon catchups or late-night celebrations . Whether it’s date night , after-work drinks , or dancing ’til late, our expert bartenders and vibrant atmosphere guarantee good v"
+    },
+    {
+     "url": "https://www.beatone.co.uk/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour | Available Every Day "
+    },
+    {
+     "url": "https://www.beatone.co.uk/",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "Ditch the workweek blues with our unbeatable happy hour drinks deals including 2-for-1 cocktails and £5 spirit & mixers! "
+    },
+    {
+     "url": "https://www.beatone.co.uk/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Feeling peckish? Enjoy chips and dips for just £4 during Happy Hour! "
+    },
+    {
+     "url": "https://www.beatone.co.uk/mixr",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the MiXR app today to earn perks and discounts at Be At One! "
+    },
+    {
+     "url": "https://www.beatone.co.uk/mixr",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the MiXR app today and start earning points on every purchase across all of our locations. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/mixr",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the MiXR app and kick things off with a free ‘Bit Of Me’ cocktail – our signature serve that hits just right. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/mixr",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "You know happy hour. Now meet Appi Hour – the exclusive extra hour of good times you unlock only through the MiXR app available every day. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/mixr",
+     "types": [
+      "happy-hour",
+      "app-reward"
+     ],
+     "text": "Download the app, and enjoy an extended happy hour that keeps the cocktails flowing for MiXR members only - because VIP treatment should be standard. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "Unwind in style with 2-for-1 cocktails near you and two bar bits for £10 at our daily Happy Hours at Be At One. Book your table now. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "two-for-one",
+      "discount-group"
+     ],
+     "text": "Join the party at Be At One! 2-4-1 cocktails, exclusive student discounts and an electric atmosphere in your area. Download MiXR . "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-4-1 COCKTAILS "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "You can never have too much of a good thing, so we’re making sure we keep the good things comin’ with 2-for-1 cocktails."
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "And don’t worry, you don’t have to rush to catch just one little hour of happiness, because we’ve got a happy hour that lasts for, well, hours. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Miss out on happy hour? Don&#x27;t sweat. Appi Hour is here to save the day (or night). "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "With MiXR App, you can grab yourself an extra hour of 2-for-1 cocktails to keep the good times on a roll... "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "percent-off"
+     ],
+     "text": "🎓 50% OFF SPIRIT & MIX "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers",
+     "types": [
+      "price-hook"
+     ],
+     "text": "We&#x27;ve got one better. Enjoy a crisp bottle of Peroni and with a shot of Olmeca Blanco tequila on the side for just £6. Feeling fancy? Our cocktails are a special price of £6 for all you hardworking industry staff. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "Happy Hour Near You | 2-for-1 Cocktails | Be At One "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "A HAPPY HOUR THAT LASTS FOR HOURS "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "Looking for the perfect place to unwind and enjoy some fantastic cocktails? Your search is over. Join us at Be At One for 2-for-1 cocktails during our legendary Happy Hour, available every day. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "If you&#x27;re feeling snackish while you sip, our tasty Bar Bites are available every day &#x27;til late. Or, enjoy our Chips & Dips for just £4 during Happy Hour! "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Book Now   When Is Happy Hour?   FAQs "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "When Is Happy Hour?   T&Cs Apply "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "During happy hour, we’re serving up 2-for-1 cocktails AND £6 pints. Pick your drink - from Margaritas and Disco Cosmos to a crisp pint of Moretti."
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Feeling peckish? Tuck into our delicious Bar Bites with Chips & Dips for just £4. Happy Hour never tasted so good. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Keeping it simple? During happy hour, enjoy £6 pints. Pick your draught:"
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "We’re not stopping at regular cocktails either. All cocktails on our menu, even our Icons & Collabs, are 2-for-1 during happy hour.   "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "UNBEATABLE HAPPY HOUR DEALS "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Why have one cocktail when you can have two? Wherever you are, our 2-for-1 cocktails are some of the best in your area. From classic favourites like Margaritas to signature serves crafted by our expert bartenders (hello, Raspberry Beret), there’s something for everyone. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Cocktail not your thing? Stick with a £6 pint and enjoy happy hour your way. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "When Happy Hour wraps up, the good news is that Appi Hour is just getting started. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "FAQs - Happy Hour "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "What is Happy Hour? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "When is Happy Hour? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Which drinks are included in Happy Hour? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Are non-alchoholic drinks included in Happy Hour? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Can I mix and match cocktails for 2-4-1? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "After all… it’s happy hour somewhere. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "WHAT’S A Be At One HAPPY HOUR? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "At Be At One, it means 2-for-1 cocktails and many other drink offers flowing in a buzzing, feel-good atmosphere, day or night. Pair your drinks with our tasty bar snacks too. Keep it classic with chips & dips for £4 during Happy Hour. Whether you know your sours from your spritzes or just fancy trying something new, our Happy Hour is the perfect excuse to sip, snack, and settle into the good vibes"
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Is Happy Hour the best time of the day? We don&#x27;t disagree! "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "WHEN IS HAPPY HOUR? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/happy-hour",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Just to be clear…our Happy Hour is anything but short. At Be At One, the good times go way beyond the usual hour, with food and drink deals pouring from day into night including until 6pm every Saturday. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "percent-off"
+     ],
+     "text": "50% OFF SPIRIT & MIXERS "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Looking for the best student bar in your area for cocktails, great-value drinks and always good vibes? Be At One has you covered. With £6 cocktails and 50% off some of your favourite spirit and mixers and exclusive giveaways and competitions through MiXR , there are plenty of ways to make your student budget go further. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "free-item",
+      "app-reward"
+     ],
+     "text": "Simply download the MiXR app, verify your student status and unlock your exclusive student offers. You can also enjoy a free drink when you first download the app. So whether you’re heading out after lectures, planning a student society social or looking for student bars near me for your next night out, head to Be At One and get the party started. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Prefer a simple serve? Students can also get 50% off spirit and mixers, all day every Sunday to Friday at Be At One with MiXR . "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "discount-group"
+     ],
+     "text": "With student discounts on cocktails and spirit & mixers, Be At One makes it easy to enjoy a great night out in your area without blowing your student budget. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "percent-off"
+     ],
+     "text": "From spontaneous post-lecture drinks to planned student events, Be At One is the place to bring your group together. With £6 cocktails and 50% off spirit and mixers, you can enjoy student prices while making the most of the Be At One vibes. "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Does Be At One offer student discounts? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Can students get 50% off spirits and mixers? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/offers/student-bar",
+     "types": [
+      "discount-group"
+     ],
+     "text": "MiXR STUDENT DISCOUNT BASKET - TERMS AND CONDITIONS"
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Be At One | Cocktail Bar Drinks | Late Night | 2-4-1 "
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Planning your visit at Be At One? Check out our daily offers or Download MiXR to claim your own personal Happy Hour! "
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Planning your visit at Be At One? Check out our Happy Hours , book a table or download MiXR to claim your own personal Appi Hour! "
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-4-1 COCKTAILS & MORE "
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "When Happy Hour hits, Be At One is the place to be."
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "🍸 2-4-1 cocktails"
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "app-reward"
+     ],
+     "text": "For the student sippers out there, we’re here to make your budget last longer. Every Sunday to Friday, we&#x27;re turning up the fun with cocktail deals! Sip on our DELUXE cocktails for only £7, or choose any other for just £6! Simply show us your student ID, download the MiXR app and choose your cocktail. You bring the vibes, we’ll handle the drinks."
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus",
+     "types": [
+      "happy-hour",
+      "free-item",
+      "app-reward"
+     ],
+     "text": "Want to make your happy hour longer? Make the most of Be At One when you download the MiXR app . Book tables in advance, find nearby places to drink and unlock rewards and MiXR points. Plus, with a free drink for first-time users, what will yours be? "
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus/bar-with-food",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour Just Got Tastier "
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus/bar-with-food",
+     "types": [
+      "happy-hour",
+      "two-for-one"
+     ],
+     "text": "You already know us for legendary 2 for 1 cocktails, but Happy Hour doesn’t stop there at Be At One. While you’re sipping the good stuff, tuck into:"
+    },
+    {
+     "url": "https://www.beatone.co.uk/menus/bar-with-food",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "If you’re searching for happy hour near you, or craving a place where great cocktails meets great bar food, this is your sign to head straight to your nearest Be At One. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Arcade Food Hall",
+   "url": "https://www.arcadefoodhall.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.arcade-london.com/",
+   "pages": 3,
+   "hits": [
+    {
+     "url": "https://www.arcade-london.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Bringing a group? Our sharing set menus serve 8 to 30 guests. Choose Taste of Arcade for the best dishes from across the hall, or keep it to one kitchen with menus from Manna, Hero, Gracey&#x27;s and Solis. MENUS "
+    },
+    {
+     "url": "https://www.arcade-london.com/whats-on",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Pre Theatre Dinner & Drinks "
+    },
+    {
+     "url": "https://www.arcade-london.com/whats-on",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Just moments from London&#x27;s West End theatres, Arcade is a destination for pre theatre dining, cocktails and post-show drinks. Enjoy global food from multiple kitchens, a central bar and a dedicated pre theatre menu, all within walking distance of the Royal Opera House, Theatre Royal Drury Lane and the heart of Theatreland. "
+    },
+    {
+     "url": "https://www.arcade-london.com/private-hire-and-events",
+     "types": [
+      "set-menu"
+     ],
+     "text": "For groups of 8 to 30, our set menus let the kitchens do the work. Taste of Arcade brings the best dishes from across the dining room to one table, at £30, £45 or £55 a head. Or keep it to one kitchen: smash burgers at Manna (£30), pizza at Gracey&#x27;s (£55), or steak off the grill at Solis (£55). Everything is served to share. Enquire Now Group Menus "
+    },
+    {
+     "url": "https://www.arcade-london.com/private-hire-and-events",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Celebrate the festive season at Arcade, from team get-togethers to all-out office parties for up to 800. Our festive set menus are made for sharing: three courses for £45, four for £55, or go premium at £65, with a complimentary round of Christmas cocktails and a selection of our favourite nibbles. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Slug & Lettuce",
+   "url": "https://www.slugandlettuce.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.slugandlettuce.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.slugandlettuce.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Slug & Lettuce | Cocktail Bars & Bottomless Brunch Across UK "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/",
+     "types": [
+      "bottomless",
+      "app-reward"
+     ],
+     "text": "Download the MiXR app now to enjoy exclusive student deals. From student drink offers on all your fave drinks, including cocktails, pints, shots and bombs, to bottomless brunch/boozy brunch* for £20 per person. Be sure to get involved in all the exclusive offers to save, sip and slay through student life! Perfect deals every term so you can study by day and party by night!  "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "*Pricing for student drink offers may vary depending on location. Bottomless Brunch is Boozy Brunch in Scotland* "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "From crowd pleasers to bold beauties, we’ve got something for everyone, complete with a 2-for-1 to double the fun. So, cocktails? Cocktails 🍸 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "There’s only one thing better than enjoying a brunch with your bffs, and that’s making it bottomless! 🥂 Let’s bring on the brunch.  "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "We&#x27;re here to make sure you never miss a moment! Join the club for hot gossip, sweet deals and sneak peeks into all the fun we’ve got to come…💋 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch | Slug & Lettuce | Themed Brunches "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "BOOK BOTTOMLESS BRUNCH AT Slug & Lettuce  "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Fancy some brunch, babes? Let’s make it bottomless! If you’re here for classic brunch or a themed one served with a side of pop classics, we’ll serve up two hours of cocktail sippin’ and Prosecco poppin’ right at your table! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "T&Cs  apply. *Bottomless Brunch in Scotland is Boozy Brunch, where drinks are limited to 6 per person. Prices may vary depending on location and time of your visit. For more details find your nearest S&L. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "PICK YOUR BOTTOMLESS DRINK "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Sip, sip hooray! Bottomless brunch starts with your drink choice. Once you start sipping, we’ll keep them flowing for 2 hours straight. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "FESTIVE BOTTOMLESS BRUNCH "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Our signature Bottomless* Brunch just got a festive glow up! Enjoy delicious festive dishes and let those drinks flow, flow, flow for 2 hours! 🥂"
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Please note that the Festive Brunch menu is not available until 23/11/26. Selected dishes may only be available on the afternoon or evening menus. Bottomless Brunch is Boozy Brunch in Scotland. Guests can have up to 6 drinks each. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What is Bottomless Brunch? "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "How long is Slug & Lettuce Bottomless Brunch? "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Slug & Lettuce Bottomless Brunch price "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Does everyone have to take part in the bottomless brunch? "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "What does a themed Bottomless Brunch include? "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Are there gluten-free options for Bottomless Brunch? "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless Brunch - Terms & Conditions "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "WAIT, WHAT IS BOTTOMLESS BRUNCH? "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "…Only the best time ever! But seriously, bottomless brunch is the perfect time to get together. After you’ve selected your dish and your day, we’ll bring those bottomless drinks – topping them up every time your glass is empty. Bottomless brunch is available 7 days a week at your nearest Slug & Lettuce, so you’ve got no excuse. Grab your squad, and get that brunch on! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "PIck Your Bottomless Sip "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Had a really lovely time at bottomless brunch, Tserena was a great server and really attentive we loved being served by her!!! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "bottomless brunch arrived early table was ready off we go it was fantastic highly recommend Thanks Jason & Lucy. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Luke was the best. Been bottomless brunch 3 times. Been great every time. Luke this time was on it. Very quick, constant drinks and really cared about us getting our money worth. Very good and we had a great time. This occasion is quite quiet but it … Read more "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "We had a bottomless brunch and Alysia was our server and she was on point with everything, perfectly polite and perfectly on time whenever we finished a drink. Highly recommend the bottomless brunch here! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Excellent fast service great bottomless brunch "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "First time at a bottomless brunch and really enjoyed it! Amy was a wonderful server, took so much care with us and was really helpful. The music was a bit too loud in the area we were sat, which meant we had to talk much louder to have a conversation… Read more "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Our server Luke was brilliant, kept us stockpiled on drinks all through our bottomless brunch! I think he was new but he will absolutely flourish in this role!! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "bottomless brunch enjoyed, thanks to Jasmin you were amazing 😍 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Lizanne was very attentive, making sure we had drinks topped up.before we ran out on our bottomless brunch. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Savvy was amazing for our bottomless brunch, 100% would recommend for savvy alone "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Visited for a bottomless brunch. Thanks so much to our server Charlotte, you are a credit to the team - very professional, she made sure we always had a drink in our hand! Very efficient! Thank you. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "We came for a birthday bottomless brunch and had a truly magical experience. Drinks were swiftly served, food was fantastic and a superb time was had by all. Our server, Oliver, went above and beyond to create an experience to remember. Thank you slu… Read more "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Festive Bottomless Brunch Menu "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "View or download the Festive Bottomless Brunch Menu. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "bottomless"
+     ],
+     "text": "View or download the Bottomless Brunch Menu. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Festive Set Menu "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/bottomless-brunch",
+     "types": [
+      "set-menu"
+     ],
+     "text": "View or download the Festive Set Menu. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-for-1 Cocktails 🍸 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "percent-off"
+     ],
+     "text": "In Scotland? Enjoy 50% off instead!  "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "discount-group"
+     ],
+     "text": "We’re serving up top-tier student discount food with fab flavour that doesn’t break the bank. 🥂 Don&#x27;t forget your student ID, and make sure you have the MiXR App! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Had such an amazing time!! The food was super good and drinks were way better than most other bottomless brunch deals as they were made properly instead of just jugs! Our server bluebell was incredible too and so friendly 3 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Abbie was so helpful making my drinks so quickly - highly recommend. Recommend the swiftie was so nice and loved the decoration. So good for 2-4-1 deals! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "MZ is by far the best bartender whilst we were visiting, great drinks recommendations and also informed us of the good 2-4-1 deals, highly recommend! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Roman and Anton were great servers!! Love the drinkers and 2 for one, I have spent many a day here!! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers",
+     "types": [
+      "percent-off"
+     ],
+     "text": "A busy bar which has plenty of offers available on food and drinks. I went on a Friday with half price Prosecco. Always busy. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/mixr",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the brand new app  MiXR to earn rewards at Slug & Lettuce! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Slug & Lettuce Student Bars | 2-4-1 cocktails, Brunch & Discounts! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "discount-group"
+     ],
+     "text": "If you’re looking for late night student bars with student discounts near your uni, you’ve just found your new go-to at Slug & Lettuce - our cocktail bars are open late, full of vibes and packed with student offers.✨ Part of a student society, sign up to get sponsored by us for extra savings and good times!"
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "✨ Student bottomless* brunch from only £25"
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless",
+      "discount-group"
+     ],
+     "text": "Who doesn’t love bottomless* brunch? 🤩 Well for students, it’s just got even better. Students can enjoy our student discount bottomless brunch from just £25* every Sunday to Friday!* Enjoy a delicious main meal and range of bottomless sips to keep the good times flowing."
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "*Brunch pricing may vary per location. Bottomless Brunch is Boozy Brunch in Scotland, guests are limited to 6 drinks each. All guests in brunch party must have a valid student card.* "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "percent-off"
+     ],
+     "text": "GET 25% OFF FOOD 🍝 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Grabbing a quick bite between lectures, or meeting up for drinks plus a few picky bits? If you’re on the hunt for amazing student discounts on delicious food, Slug & Lettuce’s got you sorted."
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "percent-off",
+      "discount-group"
+     ],
+     "text": "Students get 25% off food all day, Sunday to Thursday! At Slug & Lettuce we’re serving up top-tier student discount food that hits big on flavour and doesn’t break the bank. We’ve got all your faves from stacked burgers, salad bowls, pasta and more! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Students, unlock the biggest savings and discounts when you download the MiXR app! If you want to enjoy all your faves without breaking the bank, download MiXR or scan your app to unlock the drinks and prizes at a discount! 🌟 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "discount-group",
+      "free-item"
+     ],
+     "text": "Rather than generic student discount codes, earn even more perks and discounts when you complete MiXR missions & games – your partner in crime for saving big! Plus, verify your student status and enjoy a free drink as a first-time user – what’s not to love? 💛 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "discount-group"
+     ],
+     "text": "⭐ Verify your student status by logging in or signing up with UniDAYS and you&#x27;re all set! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "discount-group"
+     ],
+     "text": "⭐ Verify your student status by logging in or signing up with  UniDAYS and you&#x27;re all set! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-4-1 COCKTAILS 🍸 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "two-for-one",
+      "percent-off"
+     ],
+     "text": "Did someone say 2-4-1? ♥️ At Slug & Lettuce we’re famous for our iconic drinks and clinks. Get 2 of your fave cocktails for the price of one (or 50% off if you’re in Scotland!). All of our cocktails are included in this fantastic offer, from the classic Pornstar Martini to the pretty Pink Pony Club we have all your faves and brand new ones to try! Head over to S&L and let’s get sipping. Fancy no-a"
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Daisy was phenomenal when we had bottomless brunch, it was my friends birthday and we were treated so well, food was fantastic and drinks came out quickly. Anytime we finished a round Daisy was on the ball bringing us new ones. Couldn’t recommend it … Read more "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Student Bottomless Brunch "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "We had a bottomless brunch and Izabela was amazing! We had the best time! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Absolutely amazing service from Charlotte. The drinks were flowing amazingly all night long! The food was also excellent and came very quickly. We got our moneys worth from a student bottomless brunch. Will definitely be back here! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Incredible service from Emily, had a great time. Went for the bottomless brunch student deal and she was on it with the drinks! Will be back "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Student bottomless brunch "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Ethan was so good very friendly and had great recommendations Drinks were very tasty and good value for money during the student bottomless brunch "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless student brunch "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Bottomless brunch, Emily was very attentive!! Brilliant service! We did the student brunch for my friends birthday and she has a brilliant time! 10/10 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "student bottomless brucnh "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Molly was the best server for bottomless, so attentive and on it with our drinks, would definitely recommend!!!!!!!!! "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/student-bar",
+     "types": [
+      "bottomless"
+     ],
+     "text": "Really enjoyable and attentive service from Isaac. Great location just by the quayside. Great student bottomless brunch deal. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2 for 1 Cocktails | Slug & Lettuce "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-for-1 Cocktails "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2 for 1 Cocktails at Slug & Lettuce 🍸  "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Looking for the best 2 for 1 cocktails in your area? You just found them. At Slug & Lettuce, we serve up stylish vibes, iconic cocktails, and that unbeatable 2-4-1 energy – all in one place. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "And the best bit? You can enjoy our 2 for 1 cocktails every day.  "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "All we want for Christmas is cocktails - and of course these festive serves are included in our 2-4-1*  cocktail offer so you can double up on your festive fave!   "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one",
+      "percent-off"
+     ],
+     "text": "*2-4-1 is 50% off in Scotland. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Ready to sip and save? At Slug & Lettuce, enjoy an amazing 2 for 1 cocktail deal when you order two of the same cocktails or mocktails from our menu.  "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Come join us and enjoy our unbeatable 2 4 1 cocktails. T&Cs Apply "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Included in our 2-4-1 cocktail offer. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Your cocktail game just got a major upgrade! On Monday & Tuesday, mix & match your 2 for 1 cocktails at Slug & Lettuce. No need to order the same drink twice – now you can choose two different cocktails and enjoy double the flavour. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "The drinks are waiting, and so are the good times! Enjoy 2 for 1 cocktails at Slug & Lettuce and sip on your fave drinks, from a cheeky Pornstar Martini to a bubbly Aperol Spritz or a refreshing mocktail. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-4-1 Cocktails - Terms & Conditions "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Find Your Perfect 2 for 1 Cocktail ✨ "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Looking for 2-for-1 cocktails near your area? You’re in the right place! Whether you&#x27;re craving a refreshing Aperol Spritz or a sweet Pornstar Martini, we’ve got a 2-for-1 cocktail with your name on it. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2 for 1 Mocktails 🍓 "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Not drinking? No worries! At Slug & Lettuce, our range of delicious mocktails is perfect for anyone looking for a refreshing drink – and with our 2 for 1 deal, you can enjoy twice the flavour, without the alcohol. "
+    },
+    {
+     "url": "https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "From zesty blends to fruity delights, you’ll find the perfect drink to suit your taste, and the best part? It’s all 2 for 1. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Boxpark",
+   "url": "https://www.boxpark.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.boxpark.co.uk/",
+   "pages": 3,
+   "hits": [
+    {
+     "url": "https://www.boxpark.co.uk/black-card",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Early bird access ticket access to BIG events "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Seven Dials Market",
+   "url": "https://www.sevendialsmarket.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.sevendialsmarket.com/",
+   "pages": 3,
+   "hits": [
+    {
+     "url": "https://www.sevendialsmarket.com/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Why dream of a White Christmas, when you could have one at your favourite food hall? This Christmas, we re teaming up with Baileys to transform the market into the most picture-perfect, festive wonderland, right in the heart of Covent Garden. Expect daily snow showers, Baileys happy hour, festive specials, and live entertainment. "
+    },
+    {
+     "url": "https://www.sevendialsmarket.com/whats-on/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "BOTTOMLESS CHEESE WEDNESDAY: PICK CHEESE "
+    },
+    {
+     "url": "https://www.sevendialsmarket.com/whats-on/white-christmas/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Get merry with Baileys on ice, limited edition Baileys cocktails + happy hour every day at 8pm. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Market Halls",
+   "url": "https://www.markethalls.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://markethalls.co.uk/",
+   "pages": 5,
+   "hits": [
+    {
+     "url": "https://markethalls.co.uk/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "HAPPY HOURS "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Best Happy Hour in London: 2 for £20 Spritz & £5 Pints at Market Halls - Market Halls "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Home What s On Best Happy Hour in London: 2 for £20 Spritz £5 Pints at Market Halls "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Best Happy Hour in London: 2 for £20 Spritz £5 Pints at Market Halls "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Looking for the best Happy Hour in London? You’ve just found it. "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Introducing Hall Pass Happy Hours , now available at Market Halls , unlocked with Hall Pass . 📲 DOWNLOAD HERE "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Where to find Happy Hours: "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hours are available at all locations: "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "How to unlock Happy Hours: "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour",
+      "app-reward"
+     ],
+     "text": "New to Hall Pass? Simply download the app, create your account, check in when you arrive and your Happy Hours perks will be waiting in Your Hall Points & Rewards . "
+    },
+    {
+     "url": "https://markethalls.co.uk/happy-hour-london-market-halls/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Already on it? Open the app, check in to your location and tap Your Hall Points & Rewards your Happy Hours perks, ready when you are. DOWNLOAD HERE "
+    },
+    {
+     "url": "https://markethalls.co.uk/whats-on/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hours at Market Halls "
+    },
+    {
+     "url": "https://markethalls.co.uk/whats-on/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Looking for the best Happy Hour in London? You’ve just found it. Introducing Hall Pass Happy Hours, now available at Market Halls, unlocked with Hall Pass. 📲 DOWNLOAD HERE Wheth "
+    },
+    {
+     "url": "https://markethalls.co.uk/whats-on/",
+     "types": [
+      "day-deal"
+     ],
+     "text": "Work in hospitality or retail? Monday nights just got a whole lot better. Introducing Industry Night at Market Halls Paddington, a night made for the industry, by the industry. Every "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Coco di Mama",
+   "url": "https://www.cocodimama.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.cocodimama.co.uk/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://www.cocodimama.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "WHAT&#x27;S ON CLUB COCO DOWNLOAD APP APP "
+    },
+    {
+     "url": "https://www.cocodimama.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "DOWNLOAD APP APP "
+    },
+    {
+     "url": "https://www.cocodimama.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Club Coco! "
+    },
+    {
+     "url": "https://www.cocodimama.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the app "
+    },
+    {
+     "url": "https://www.cocodimama.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "JOIN CLUB COCO "
+    },
+    {
+     "url": "https://www.cocodimama.co.uk/whats-on",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join the Club "
+    },
+    {
+     "url": "https://www.cocodimama.co.uk/club-coco",
+     "types": [
+      "app-reward"
+     ],
+     "text": "1. Download the app "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "The Ivy Collection",
+   "url": "https://ivycollection.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://ivycollection.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://ivycollection.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "November Set Menu "
+    },
+    {
+     "url": "https://ivycollection.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "The Ivy Christmas Set Menu"
+    },
+    {
+     "url": "https://ivycollection.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Two Courses from £55.00 "
+    },
+    {
+     "url": "https://ivycollection.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "November Set Menus "
+    },
+    {
+     "url": "https://ivycollection.com/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Make November a month to savour with our specially curated set menus at The Ivy. Available from 4th - 27th November. "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "November Set Menu - The Ivy Collection Skip to main content "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "The November Set Menus at The Ivy Collection "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Enjoy a seasonal set menu at The Ivy this November, available Sunday Friday for lunch from 11:30am 5:30pm and for dinner from 6:00pm close. "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Bringing together warming seasonal flavours and much-loved Ivy favourites on Wednesday 4th November, the November Lunch Set Menu offers two courses from £25 or three courses from £34, with the November Dinner Set Menu offers two courses from £28.50 or three courses from £37.50, including a glass of either Fernão Pires or Castelão Tinto. "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "*Please note that an advance booking is required to dine on the lunch and dinner set menu. "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "November Lunch Set Menu November Dinner Set Menu "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/christmas/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Christmas Set Menu Breakfast with Elves "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Enjoy Half Price Wine and Champagne "
+    },
+    {
+     "url": "https://ivycollection.com/the-ivy-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Christmas Set Menu "
+    },
+    {
+     "url": "https://ivycollection.com/the-ivy-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "November Dinner Set Menu "
+    },
+    {
+     "url": "https://ivycollection.com/the-ivy-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "November Lunch Set Menu "
+    },
+    {
+     "url": "https://ivycollection.com/the-ivy-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "New Year s Eve Set Menu "
+    },
+    {
+     "url": "https://ivycollection.com/the-ivy-menu/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Set Menus "
+    },
+    {
+     "url": "https://ivycollection.com/events-at-the-ivy/a-night-of-elton-john/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "A La Carte Christmas Set Menu "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Gordon Ramsay Restaurants",
+   "url": "https://www.gordonramsayrestaurants.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.gordonramsayrestaurants.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.gordonramsayrestaurants.com/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "KIDS EAT FREE \r"
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "ABOUT KIDS EAT FREE \r"
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-are-covered/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "This summer, family time comes with more on the table at Gordon Ramsay Restaurants*. From Kids Eat Free to Sunday fun at The Kids’ Table, we’re making dining out easier for grown-ups and more exciting for little ones. "
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-are-covered/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free \r"
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free | Gordon Ramsay Restaurants "
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free is simple: for every adult ordering two courses from the à la carte menu, one child aged 10 and under receives a complimentary main course from the Ramsay Kids’ Menu. "
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "set-menu"
+     ],
+     "text": "*Only available for children aged 10 and under. One complimentary main course per child from the Ramsay Kids’ Menu, for every adult ordering two courses from the à la carte menu, one of which must be a main course. Not available in conjunction with any other offers or when ordering from the seasonal set menu. "
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "*Available at selected UK restaurants only. Please note the Kids Eat Free offer is unavailable at weekends at selected locations. Please call to check before booking to avoid disappointment. "
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "*Kids Eat Free is not available on key seasonal dates, including, but not limited to, Christmas Day and New Year’s Eve. \r"
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free, All Day Every Day \r"
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free Every Weekday \r"
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/whats-on/kids-eat-free-at-gordon-ramsay-restaurants/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Not only do kids eat free, but on specified days of the week, we'll keep your little ones entertained at The Kids' Table – a supervised play area for children aged 3-10 – so that you can enjoy a well-deserved break. \r"
+    },
+    {
+     "url": "https://www.gordonramsayrestaurants.com/private-dining-and-events/exclusive-hire/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "With bottomless pizza, a host of crowd pleasing sides and delicious cocktails, our Street Pizza restaurants located across the UK are the perfect choice for a group celebration. \r"
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Bread Ahead",
+   "url": "https://www.breadahead.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.breadahead.com/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Bleecker",
+   "url": "https://www.bleecker.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.bleecker.co.uk/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "MEATliquor",
+   "url": "https://meatliquor.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://meatliquor.com/",
+   "pages": 3,
+   "hits": [
+    {
+     "url": "https://meatliquor.com/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "From Lunch Deals to Happy Hour. From 50p Wings to Competitive Eating it’s not a question of if we’re running a deal, it’s when . "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Mercato Metropolitano",
+   "url": "https://www.mercatometropolitano.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://mercatometropolitano.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://mercatometropolitano.com/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "New: Wood Wharf Pre-Theatre Menu "
+    },
+    {
+     "url": "https://mercatometropolitano.com/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "We’re marking the opening of the new Troubadour Theatre in Canary Wharf, with a special pre-theatre menu at Mercato Metropolitano Wood Wharf. Served daily from 4 to 7pm, it’s designed for an easy, delicious meal before the show. Choose from homemade pasta by Dez Amore, Jamaican fusion from Twerk N Jerk, Italian burgers from Monkey Bites, or Chinese street food... "
+    },
+    {
+     "url": "https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Pre-Theatre Menu - Mercato Metropolitano "
+    },
+    {
+     "url": "https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Mercato Metropolitano - Traders - Pre-Theatre Menu "
+    },
+    {
+     "url": "https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Pre-Theatre Menu "
+    },
+    {
+     "url": "https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "We’re marking the opening of the new Troubadour Theatre in Canary Wharf, with a special pre-theatre menu at Mercato Metropolitano Wood Wharf. Served daily from 4 to 7pm, it’s designed for an easy, delicious meal before the show. Choose from homemade pasta by Dez Amore, Jamaican fusion from Twerk N Jerk, Italian burgers from Monkey Bites, or Chinese street food from Dim Sum Lab, all for £10. Finish"
+    },
+    {
+     "url": "https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "View Pre-Theatre Menu "
+    },
+    {
+     "url": "https://mercatometropolitano.com/events/urban-elephant-festival/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "And while you’re getting creative, everyone joining the craft session can enjoy 20% off hot drinks and gelato at Badiani . "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Daylesford",
+   "url": "https://www.daylesford.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.daylesford.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.daylesford.com/shop/events/upcoming-events",
+     "types": [
+      "price-hook"
+     ],
+     "text": "Gifts Under £50 "
+    },
+    {
+     "url": "https://www.daylesford.com/shop/events/christmas-market",
+     "types": [
+      "set-menu"
+     ],
+     "text": "Yes. Please find the menu above. As this is a set menu, we cannot cater for specific dietary requirements. Our bar will be open serving a selection of soft drinks and alcoholic beverages. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "EL&N",
+   "url": "https://elnlondon.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://elnlondon.com/",
+   "pages": 5,
+   "hits": [
+    {
+     "url": "https://elnlondon.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Sign up for 10% off online "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Department of Coffee",
+   "url": "https://www.departmentofcoffee.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://departmentofcoffee.com/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Ben's Cookies",
+   "url": "https://www.benscookies.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.benscookies.com/",
+   "pages": 1,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Brasserie Blanc",
+   "url": "https://www.brasserieblanc.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://brasserieblanc.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://brasserieblanc.com/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour "
+    },
+    {
+     "url": "https://brasserieblanc.com/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "When You’re an Early Bird "
+    },
+    {
+     "url": "https://brasserieblanc.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Earn rewards Join le Club "
+    },
+    {
+     "url": "https://brasserieblanc.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join our rewards scheme, Le Club and you’ll be rewarded from your very first visit. "
+    },
+    {
+     "url": "https://brasserieblanc.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "You’ll receive un petit cadeau , a small gift, just for downloading our app from the Apple or Google Play store. "
+    },
+    {
+     "url": "https://brasserieblanc.com/",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Blue Light Card "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour | Brasserie Blanc "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Happy Hour at Brasserie Blanc "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-for-1 Drinks "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Enjoy 2-for-1 on selected beer, cocktails and soft drinks with money off bottles of wine. "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Let‘s raise a glass together for Happy Hour at Brasserie Blanc. A little celebration, a moment to pause, to laugh, to reconnect. C’est simple, c’est délicieux. "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "From 5-7pm. Extended Happy Hour until 8pm on Thursday! "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Please be aware that our Chancery Lane and Threadneedle Street brasseries are not open on Sunday and therefore will be unable to offer Happy Hour on this day. "
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "happy-hour"
+     ],
+     "text": "Our Happy Hour Drinks"
+    },
+    {
+     "url": "https://brasserieblanc.com/happy-hour/",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "2-for-1 "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the app from the Apple App Store or Google Play and un petit cadeau awaits you: two of our Signature Soufflés to share, with our compliments, when you dine with us and order a main course. Light, golden and still rising as they reach your table. C’est magique! "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Le Club now and enjoy"
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "WHY JOIN LE CLUB? "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "It doesn’t end here. Visit us five times and you unlock VIP status , with 15% off food for up to six guests every time you dine, for a whole year. Get ready to raise a glass to la belle vie . "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the Le Club app and your welcome treat is ready: two Signature Soufflés to share, with our compliments, when you order a main course. "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Work your way through four delicious rewards. Visit us five times and you’ll reach VIP status, with 15% off food for a whole year. "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "A merci beaucoup for joining Le Club "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "VIP status: 15% off food "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "You’ll enjoy 15% off food for up to six guests , seven days a week, every time you dine with us, for a whole year. "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Absolutely! Sign up for Le Club and view your account via our website. If you need any assistance, please don’t hesitate to ask your server for help to get signed up. "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "How do I sign up to Le Club? "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "You can sign up via the App Store (iOS), Google Play (Android), or our web page for non-app users. "
+    },
+    {
+     "url": "https://brasserieblanc.com/le-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Why do I need to sign up to Le Club? "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Crust Bros",
+   "url": "https://www.crustbros.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.crustbros.co.uk/",
+   "pages": 2,
+   "hits": [
+    {
+     "url": "https://www.crustbros.co.uk/",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "<path d=\"m196.39 93.32-.55-1.25-.87-1.03-.09-.27-.58-.46-1.43-.63-.83-.17h-1.43l-1.08.33-.78.41-.42.13-.41.47-.32.28v-.97l-.06-.33-1.14-.13-.92.18-.07.66-.24 1.01.2.69.05.57-.2.57.14.7-.08.85.2.71v.57l-.15.38-.02 1.06.13.33-.13.7.14.71-.08.72v.75l.05.44-.08.42.11 1.22-.17.48.03.25-.12.97.2.59-.11 1.12.13 1.01.91.21 1.29-.16.25-.39.27-1.48h-.07l.09-.38-.27-.97.06-.09.23-1.03-.19-1.71.03-.03.67.63 1"
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Bubbleology",
+   "url": "https://bubbleology.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://bubbleology.co.uk/",
+   "pages": 6,
+   "hits": [
+    {
+     "url": "https://bubbleology.co.uk/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join The Club "
+    },
+    {
+     "url": "https://bubbleology.co.uk/loyalty/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Sign up for the new loyalty app "
+    },
+    {
+     "url": "https://bubbleology.co.uk/join-the-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join The Club | Bubbleology "
+    },
+    {
+     "url": "https://bubbleology.co.uk/join-the-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join The Club! "
+    },
+    {
+     "url": "https://bubbleology.co.uk/join-the-club/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join The Club \r"
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Kricket",
+   "url": "https://kricketrestaurants.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://kricketrestaurants.com/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://kricketrestaurants.com/",
+     "types": [
+      "price-hook"
+     ],
+     "text": "Our £20 lunch thali refuses to compromise on depth of flavour and offers an exploration of the Kricket kitchen on a single plate. "
+    },
+    {
+     "url": "https://kricketrestaurants.com/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Centred around a choice of our signature Chicken Mappas or creamy Grilled Squash Makhani, each katori is bursting with vibrant textures and flavours. It is a modern tribute to the Indian staple, reimagined for the city lunch hour, a quick pre-theatre meal or weekend lunch. "
+    },
+    {
+     "url": "https://kricketrestaurants.com/",
+     "types": [
+      "bottomless"
+     ],
+     "text": "NOW SOLD OUT. Drums, glitter and bottomless biryani: our Diwali Mela is coming to Canary Wharf. Bring the whole gang for a dhol drummer setting the beat, henna, face painting, carrom and screen printing with artist Natasha Kumar. \r"
+    },
+    {
+     "url": "https://kricketrestaurants.com/",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "Gabon +241 "
+    },
+    {
+     "url": "https://kricketrestaurants.com/discover/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free "
+    },
+    {
+     "url": "https://kricketrestaurants.com/discover/",
+     "types": [
+      "kids-eat-free"
+     ],
+     "text": "Kids Eat Free at Kricket every school holidays, when adults dine. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "WatchHouse",
+   "url": "https://www.watchhouse.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://watchhouse.com/",
+   "pages": 6,
+   "hits": [
+    {
+     "url": "https://watchhouse.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "10% off, always."
+    },
+    {
+     "url": "https://watchhouse.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "New origins. Seasonal menus. Upcoming events. And 10% off, when you subscribe. "
+    },
+    {
+     "url": "https://watchhouse.com/pages/app",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the Watch House App for iOS and Android"
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Grind",
+   "url": "https://grind.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://grind.co.uk/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://grind.co.uk/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "25% off your first delivery with code GETSTARTED "
+    },
+    {
+     "url": "https://grind.co.uk/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Sign up for 10% OFF your first order "
+    },
+    {
+     "url": "https://grind.co.uk/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "25% off your first order "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-rewards",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Grind Rewards and earn points every time you visit Grind, both in-store and online. You'll earn 1 point for every £1 you spend to then redeem on coffee rewards. "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-rewards",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Join Grind Rewards "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-rewards",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the app "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-rewards",
+     "types": [
+      "app-reward"
+     ],
+     "text": "How do I sign up to Grind Rewards?"
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-rewards",
+     "types": [
+      "app-reward"
+     ],
+     "text": "The best way to use Grind Rewards is to download our app, where you'll be automatically opted in. "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-discounts",
+     "types": [
+      "percent-off"
+     ],
+     "text": "25% Off Your First Delivery "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-discounts",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student Beans Discount "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-discounts",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Get £5 off your first three deliveries with Student Beans. "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-discounts",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student Discount "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-discounts",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Get 25% off your first delivery. "
+    },
+    {
+     "url": "https://grind.co.uk/pages/grind-discounts",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Get 10% off your first order and never miss a discount again. "
+    },
+    {
+     "url": "https://grind.co.uk/pages/rewards-terms-conditions",
+     "types": [
+      "app-reward"
+     ],
+     "text": "You must download the app or opt into the Rewards programme via your account to be able to start earning points. It will not be possible to earn points on an orders placed prior to joining the Rewards programme. "
+    },
+    {
+     "url": "https://grind.co.uk/pages/rewards-terms-conditions",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Subscription customers will only get their welcome points (10 points) when downloading the app as of 14th November 2023. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Hawker & Co",
+   "url": "https://www.hawkerandco.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.hawkerandco.co.uk/",
+   "pages": 1,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Caffè Nero",
+   "url": "https://caffenero.com/uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.caffenero.com/uk",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.caffenero.com/uk/menu/food/breakfast",
+     "types": [
+      "two-for-one"
+     ],
+     "text": "241 kcal "
+    },
+    {
+     "url": "https://www.caffenero.com/uk/paper-loyalty-terms",
+     "types": [
+      "free-item"
+     ],
+     "text": "Here s everything you need to know about collecting stamps and redeeming your free drink. "
+    },
+    {
+     "url": "https://www.caffenero.com/uk/paper-loyalty-terms",
+     "types": [
+      "free-item"
+     ],
+     "text": "No stamps are awarded when purchasing a drink using a free drink voucher or other complimentary offer, unless when using a reusable cup to redeem a completed loyalty card. "
+    },
+    {
+     "url": "https://www.caffenero.com/uk/paper-loyalty-terms",
+     "types": [
+      "byo"
+     ],
+     "text": "Bring your own reusable cup and you ll receive a bonus stamp, whether you re collecting stamps on a paper loyalty card or through the Caffè Nero app. "
+    },
+    {
+     "url": "https://www.caffenero.com/uk/paper-loyalty-terms",
+     "types": [
+      "free-item"
+     ],
+     "text": "Redeeming your free drink "
+    },
+    {
+     "url": "https://www.caffenero.com/uk/paper-loyalty-terms",
+     "types": [
+      "free-item"
+     ],
+     "text": "Present your completed loyalty card before payment when redeeming your free drink. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Dirty Burger",
+   "url": "https://www.dirtyburger.com/",
+   "alsoSlugs": [],
+   "status": 0,
+   "finalUrl": "https://www.dirtyburger.com/",
+   "error": "ENOTFOUND",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Sushi Atelier",
+   "url": "https://www.sushiatelier.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.sushiatelier.com/",
+   "pages": 1,
+   "hits": [
+    {
+     "url": "https://www.sushiatelier.com/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "Looking for a pre-theatre sushi feast? "
+    },
+    {
+     "url": "https://www.sushiatelier.com/",
+     "types": [
+      "pre-theatre"
+     ],
+     "text": "A piece-by-piece sushi experience served at the counter, perfect for pre-theatre diners or a quick after-work dinner. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Knoops",
+   "url": "https://knoops.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://knoops.com/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://knoops.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "BLACK FRIDAY: UP TO 25% OFF "
+    },
+    {
+     "url": "https://knoops.com/",
+     "types": [
+      "app-reward"
+     ],
+     "text": "Download the Knoops app. Free to join, immediately rewarding. "
+    },
+    {
+     "url": "https://knoops.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "50% off coffee before midday "
+    },
+    {
+     "url": "https://knoops.com/pages/loyalty-app",
+     "types": [
+      "free-item"
+     ],
+     "text": "Free marshmallow, 45 points: Free drink, 100 points: Free Flakes Tube. "
+    },
+    {
+     "url": "https://knoops.com/pages/loyalty-app",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Coffee Club. 50% off before midday "
+    },
+    {
+     "url": "https://knoops.com/pages/loyalty-app",
+     "types": [
+      "percent-off",
+      "app-reward"
+     ],
+     "text": "The morning crowd knows something others don’t. Join the Coffee Club and get 50% off every single day  before midday. Your commute just got a lot better. "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "A Member will receive a birthday reward once a year. Birthday rewards can only be redeemed in store. Any accounts looking to obtain bonus points untruthfully will be banned from Knoops loyalty.  "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "45 points — Free drink "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Receive 50% off selected coffees at all Knoops stores when ordering through the loyalty app "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "The free drink is only valid through our app and once you have made a purchase of at least £3 per year "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "The free drink is valid on a small hot or iced chocolate "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "This offer is only valid from the 23rd of September 2024 and any birthdays/points issued prior to this date are not eligible for the free drink until the users next birthday "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student Discount "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "percent-off"
+     ],
+     "text": "Students can receive 15% off all barista-made drinks in store when ordering through the Knoops loyalty app "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Digital cards, Student beans or Unidays cards will not be accepted "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "discount-group"
+     ],
+     "text": "Student discount cannot be used in conjunction with any other promotion/discount "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "One free drink per member, limited to one account per person. Knoops can delete duplicate accounts and refuse the offer to anyone found creating multiple accounts "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "The free drink is one small hot chocolate, made with 34% or 54% chocolate and whole, oat or soy milk. Mix-ins are not available "
+    },
+    {
+     "url": "https://knoops.com/pages/knoops-loyalty-programme-terms-conditions",
+     "types": [
+      "free-item"
+     ],
+     "text": "Points will not be earned on the free drink. Points on any other items in the same order are earned as usual "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Yard Sale Pizza",
+   "url": "https://www.yardsalepizza.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://yardsalepizza.com/",
+   "pages": 3,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Gymkhana Fine Foods",
+   "url": "https://www.gymkhanafinefoods.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.gymkhanafinefoods.com/",
+   "pages": 2,
+   "hits": [
+    {
+     "url": "https://www.gymkhanafinefoods.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "This Diwali save 20% off our full range with the code: DIWALI "
+    },
+    {
+     "url": "https://www.gymkhanafinefoods.com/",
+     "types": [
+      "percent-off"
+     ],
+     "text": "SAVE 15% OFF YOUR FIRST ORDER "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Flat White",
+   "url": "https://www.flatwhitesoho.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://flatwhitesoho.co.uk/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Kerb",
+   "url": "https://www.kerbfood.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.kerbfood.com/",
+   "pages": 6,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Costa",
+   "url": "https://www.costa.co.uk/",
+   "alsoSlugs": [],
+   "status": 0,
+   "finalUrl": "https://www.costa.co.uk/",
+   "error": "AbortError",
+   "pages": 0,
+   "hits": []
+  }
+ ]
+}
