@@ -19,7 +19,10 @@ for (const d of deals) {
   if (d.endDate && d.endDate < cutoff) { dropped.lapsing.push(label); continue; }
   // The offer line only: conditions often say "not valid on delivery", which is a dine-in deal.
   if (NOT_DINE_IN.test(d.offer)) { dropped.notDineIn.push(label); continue; }
-  const key = `${d.name.toLowerCase().replace(/[^a-z0-9]/g, "")}|${d.type}|${(d.price ?? "").replace(/\s/g, "")}|${(d.days ?? "").toLowerCase()}`;
+  // With no price or days to tell two deals apart (loyalty schemes, mostly), the offer's
+  // own leading words do it, so a chain's app and its paper card both survive.
+  const tell = d.price || d.days ? "" : d.offer.toLowerCase().replace(/[^a-z0-9 ]/g, "").split(/\s+/).slice(0, 4).join(" ");
+  const key = `${d.name.toLowerCase().replace(/[^a-z0-9]/g, "")}|${d.type}|${(d.price ?? "").replace(/\s/g, "")}|${(d.days ?? "").toLowerCase()}|${tell}`;
   if (seen.has(key)) { dropped.duplicate.push(label); continue; }
   seen.add(key);
   kept.push(d);

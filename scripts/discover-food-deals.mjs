@@ -19,7 +19,7 @@ const CONCURRENCY = 8;
 const PAGES_PER_SITE = 6;
 
 // Links worth following from a homepage.
-const LINK_RE = /offer|deal|promo|special|set[-_ ]?menu|set[-_ ]?lunch|lunch|pre[-_ ]?theatre|early|happy[-_ ]?hour|bottomless|brunch|kids|famil|student|nhs|blue[-_ ]?light|reward|loyalty|app|club|birthday|menu|whats[-_ ]?on|events|voucher|discount/i;
+const LINK_RE = /offer|deal|promo|buffet|unlimited|all[-_ ]?you[-_ ]?can|rodizio|special|set[-_ ]?menu|set[-_ ]?lunch|lunch|pre[-_ ]?theatre|early|happy[-_ ]?hour|bottomless|brunch|kids|famil|student|nhs|blue[-_ ]?light|reward|loyalty|app|club|birthday|menu|whats[-_ ]?on|events|voucher|discount/i;
 // Sentences that read as a deal.
 const DEAL_RES = [
   ["set-menu", /\b(set (lunch|menu)|prix fixe|fixed[- ]price|(two|three|2|3) courses? (for|at|from) £)/i],
@@ -35,7 +35,10 @@ const DEAL_RES = [
   ["free-item", /\bfree (dessert|drink|main|starter|pizza|burger|glass|bottle|meal)\b|birthday (treat|reward|gift|freebie)/i],
   ["app-reward", /\b(download|join|sign up)[^.]{0,40}\b(app|rewards?|club|loyalty)\b/i],
   ["price-hook", /£\d{1,2}(\.\d\d)? (for|lunch|menu|deal|express|bento|thali|pizza and)|\bunder £\d{1,2}\b/i],
+  ["all-you-can-eat", /\ball[- ]you[- ]can[- ]eat\b|\bayce\b|\bbuffet\b|\brod[ií]zio\b|\beat as much as you (like|want)\b|\bunlimited (food|sushi|meat|plates|dim sum|bbq|barbecue|refills of)\b|\bbottomless (food|plates|sushi|dim sum|tapas|pizza)\b/i],
 ];
+// --type=all-you-can-eat keeps only hits of that type (for a focused re-crawl).
+const ONLY_TYPE = process.argv.find((a) => a.startsWith("--type="))?.slice(7);
 
 function textOf(html) {
   return html
@@ -85,7 +88,7 @@ function hits(text, url) {
   for (const line of text.split("\n")) {
     if (line.length < 8) continue;
     const types = DEAL_RES.filter(([, re]) => re.test(line)).map(([k]) => k);
-    if (types.length) out.push({ url, types, text: line.slice(0, 400) });
+    if (types.length && (!ONLY_TYPE || types.includes(ONLY_TYPE))) out.push({ url, types, text: line.slice(0, 400) });
   }
   return out;
 }

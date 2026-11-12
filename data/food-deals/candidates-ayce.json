@@ -1,0 +1,666 @@
+{
+ "crawled": "2026-11-12T07:49:51.617Z",
+ "results": [
+  {
+   "source": "chain",
+   "name": "Bill's",
+   "url": "https://bills-website.co.uk/",
+   "alsoSlugs": [],
+   "status": 307,
+   "finalUrl": "https://bills-website.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Honest Burgers",
+   "url": "https://www.honestburgers.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.honestburgers.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "GBK",
+   "url": "https://www.gbk.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.gbk.co.uk/",
+   "pages": 1,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Byron",
+   "url": "https://www.byron.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.byron.co.uk/",
+   "pages": 3,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Côte",
+   "url": "https://www.cote.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.cote.co.uk/",
+   "pages": 5,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "PizzaExpress",
+   "url": "https://www.pizzaexpress.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.pizzaexpress.com/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Prezzo",
+   "url": "https://www.prezzo.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.prezzo.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Zizzi",
+   "url": "https://www.zizzi.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.zizzi.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Five Guys",
+   "url": "https://fiveguys.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.fiveguys.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Bella Italia",
+   "url": "https://www.bellaitalia.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.bellaitalia.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Rudy's Pizza",
+   "url": "https://www.rudyspizza.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.rudyspizza.co.uk/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Carluccio's",
+   "url": "https://www.carluccios.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.carluccios.com/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Nando's",
+   "url": "https://www.nandos.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.nandos.co.uk/",
+   "pages": 5,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "ASK Italian",
+   "url": "https://www.askitalian.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.askitalian.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Yo! Sushi",
+   "url": "https://yosushi.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://yosushi.com/",
+   "pages": 6,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Tortilla",
+   "url": "https://www.tortilla.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.tortilla.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Strada",
+   "url": "https://www.strada.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://strada.co.uk/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Pizza Pilgrims",
+   "url": "https://pizzapilgrims.co.uk/",
+   "alsoSlugs": [
+    "pizza-pilgrims"
+   ],
+   "status": 200,
+   "finalUrl": "https://www.pizzapilgrims.co.uk/",
+   "pages": 4,
+   "hits": [
+    {
+     "url": "https://www.pizzapilgrims.co.uk/",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "Bringing you curated experiences for everyone - from bottomless pizza to drag nights, art club, and more. "
+    },
+    {
+     "url": "https://www.pizzapilgrims.co.uk/",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "BOTTOMLESS PIZZA "
+    },
+    {
+     "url": "https://www.pizzapilgrims.co.uk/",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "A bumper selection of pizza focused events for everyone to enjoy - from bottomless pizza, pizza making classes, drag act and pizza box art! Have a look what we have coming up. Read Them All "
+    },
+    {
+     "url": "https://www.pizzapilgrims.co.uk/events/",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "Bottomless Pizza + Pints "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Rosa's Thai",
+   "url": "https://rosasthaicafe.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://rosasthai.com/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Chipotle",
+   "url": "https://www.chipotle.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.chipotle.co.uk/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Busaba",
+   "url": "https://www.busaba.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.busaba.com/",
+   "pages": 3,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Giggling Squid",
+   "url": "https://www.gigglingsquid.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.gigglingsquid.com/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Wagamama",
+   "url": "https://www.wagamama.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.wagamama.com/",
+   "pages": 5,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Wahaca",
+   "url": "https://www.wahaca.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.wahaca.co.uk/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Franco Manca",
+   "url": "https://www.francomanca.co.uk/",
+   "alsoSlugs": [
+    "franco-manca"
+   ],
+   "status": 200,
+   "finalUrl": "https://www.francomanca.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.francomanca.co.uk/groups-and-events/",
+     "types": [
+      "all-you-can-eat"
+     ],
+     "text": "Our group menus are full of simple, affordable options that make celebrating easy. Choose from a relaxed sit-down meal or a fun sharer-style buffet, perfect for feeding a crowd. View our menus below. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Kanada-Ya",
+   "url": "https://www.kanada-ya.com/",
+   "alsoSlugs": [
+    "kanada-ya"
+   ],
+   "status": 200,
+   "finalUrl": "https://www.kanada-ya.com/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Shoryu Ramen",
+   "url": "https://www.shoryuramen.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.shoryuramen.com/",
+   "pages": 5,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Hawksmoor",
+   "url": "https://thehawksmoor.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://thehawksmoor.com/",
+   "pages": 4,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Miller & Carter",
+   "url": "https://www.millerandcarter.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.millerandcarter.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Dishoom",
+   "url": "https://www.dishoom.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.dishoom.com/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.dishoom.com/journal/events/",
+     "types": [
+      "all-you-can-eat"
+     ],
+     "text": "Hassen Rasool will lead the call to prayer, guests are then invited to break fast with boxes of iftar treats before enjoying a plentiful buffet. "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Gaucho",
+   "url": "https://gauchorestaurants.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://gauchorestaurants.com/",
+   "pages": 3,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Blacklock",
+   "url": "https://theblacklock.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://theblacklock.com/",
+   "pages": 2,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Patty & Bun",
+   "url": "https://www.pattyandbun.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.pattyandbun.co.uk/",
+   "pages": 3,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Shake Shack",
+   "url": "https://shakeshack.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://shakeshack.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Itsu",
+   "url": "https://www.itsu.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.itsu.com/",
+   "pages": 6,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Burger & Lobster",
+   "url": "https://www.burgerandlobster.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.burgerandlobster.com/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Tonkotsu",
+   "url": "https://www.tonkotsu.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://tonkotsu.co.uk/",
+   "pages": 5,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Harvester",
+   "url": "https://www.harvester.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.harvester.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Hard Rock Cafe",
+   "url": "https://www.hardrockcafe.com/location/london/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://cafe.hardrock.com/london/",
+   "pages": 1,
+   "hits": [
+    {
+     "url": "https://cafe.hardrock.com/london/",
+     "types": [
+      "all-you-can-eat"
+     ],
+     "text": "Get into the the festive spirit with unforgettable experiences for the whole family! Meet Santa over a magical breakfast, enjoy a delicious Christmas Day Buffet , and celebrate New Year Eve in style. Explore our holidays offers today! LEARN MORE "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Toby Carvery",
+   "url": "https://www.tobycarvery.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.tobycarvery.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "TGI Fridays",
+   "url": "https://www.tgifridays.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.tgifridays.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "All Bar One",
+   "url": "https://www.allbarone.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.allbarone.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Wetherspoon",
+   "url": "https://www.jdwetherspoon.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.jdwetherspoon.com/",
+   "pages": 3,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Browns",
+   "url": "https://www.browns-restaurants.co.uk/",
+   "alsoSlugs": [],
+   "status": 403,
+   "finalUrl": "https://www.browns-restaurants.co.uk/",
+   "pages": 0,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Banana Tree",
+   "url": "https://bananatree.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://bananatree.co.uk/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Cosy Club",
+   "url": "https://cosyclub.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://cosyclub.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://cosyclub.co.uk/",
+     "types": [
+      "all-you-can-eat"
+     ],
+     "text": "December fills up fast. Whoever's sorting the works do, the team night or the end-of-year celebration, you've come to the right room. We'll take care of everything. You just bring the people. Whether it's a corporate-do with the big Aces, or a friendly get-together with your Queens, we've got a menu to suit the occasion. From our Christmas Dining menu- which can be upgraded to one of our Gold and "
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Frankie & Benny's",
+   "url": "https://www.frankieandbennys.com/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.frankieandbennys.com/",
+   "pages": 7,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Las Iguanas",
+   "url": "https://www.iguanas.co.uk/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://www.iguanas.co.uk/",
+   "pages": 7,
+   "hits": [
+    {
+     "url": "https://www.iguanas.co.uk/",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "BOTTOMLESS TAPAS "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "Our cult-classic Bottomless Tapas is on every Tuesday. "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "Bottomless Tapas | Tapas Tuesdays | Las Iguanas "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "90 MINS OF BOTTOMLESS TAPAS "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "We tried to let it go. Honestly, we did. But you went wild for it — and we don’t blame you. Our cult-classic Bottomless Tapas sells out every single time and has become one of the most talked-about things on our menu. "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "Las Iguanas Bottomless Tapas Tuesdays is an absolute steal. Endless rounds of your favourite flavours for 90 whole minutes, all from just £17 per person. Pure indulgence without the price tag. "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "Bottomless Tapas brings people together over vibrant Latin sharing plates. A fun dining experience for spice lovers and flavour explorers, it's a feast guests return for again and again. "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "The bottomless tapas offer is available at all Las Iguanas restaurant sites with the exception of Center Parcs Locations, Leicester and Aiports. "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "The offer includes unlimited tapas dishes from our Bottomless Tapas menu for 90 minutes - check out our menu here to find out more! "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "You receive a total of 90 minutes to feast on your bottomless tapas. "
+    },
+    {
+     "url": "https://www.iguanas.co.uk/bottomless-tapas",
+     "types": [
+      "set-menu",
+      "bottomless",
+      "all-you-can-eat"
+     ],
+     "text": "Bottomless Tapas from £17pp. £20pp for our Royal Festival Hall. Must be pre-booked, dine in only. Available only on Tuesdays. Price may vary by location and are listed per person. Entitles you to any tapas dish on our Bottomless Tapas menu for 90 minutes, sides & desserts are not bottomless & can be added at an additional charge. Max 3 dishes per 2 people served at one time. Whole table must parta"
+    }
+   ]
+  },
+  {
+   "source": "chain",
+   "name": "Brewdog",
+   "url": "https://www.brewdog.com/uk/bars",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://au.brewdog.com/pages/locations",
+   "pages": 1,
+   "hits": []
+  },
+  {
+   "source": "chain",
+   "name": "Leon",
+   "url": "https://leon.co/",
+   "alsoSlugs": [],
+   "status": 200,
+   "finalUrl": "https://leon.co/",
+   "pages": 7,
+   "hits": []
+  }
+ ]
+}
