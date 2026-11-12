@@ -5,7 +5,7 @@ description: "A banana-ripening warehouse full of food traders, a flower market 
 heroImage: "../../assets/articles/best-london-markets/canopy-market-kings-cross.jpg"
 heroImageAlt: "Traders and long picnic benches under the glass roof of Canopy Market in King's Cross"
 publishedAt: 2026-06-01
-updatedAt: 2026-10-26
+updatedAt: 2026-11-12
 reviewBy: 2026-12-13
 sites: [london]
 canonicalSite: london
@@ -61,6 +61,7 @@ Check which days a market trades before you go. Columbia Road is flower sellers 
 | **Greenwich** | Greenwich Market |
 | **King's Cross** | Canopy Market |
 | **Canary Wharf** | Billingsgate Fish Market |
+| **Nine Elms** | Mercato Battersea |
 
 ---
 
@@ -139,6 +140,14 @@ Flower sellers line a Victorian street, with about sixty independent shops in th
 **Do not drive or bring a pushchair.** The street is narrow and closed to traffic.
 
 **E2 7RG.** Hoxton is the nearest station at about five minutes; Bethnal Green and Old Street are both around fifteen.
+
+### Mercato Battersea, Nine Elms
+
+*Saturday 8am–1pm · Nine Elms, SW8 5EQ*
+
+A wholesale market that supplies London restaurants, chefs and fine-food shops during the week and opens to the public on Saturdays, selling produce direct from growers and producers.
+
+**Open every Saturday from 8am to 1pm** ([Mercato Battersea](https://mercatobattersea.com)). Bring a bag.
 
 ### Broadway Market, Hackney
 

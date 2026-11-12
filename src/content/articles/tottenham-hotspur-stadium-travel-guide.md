@@ -5,7 +5,7 @@ description: "Why there is no stadium car park, which of the four stations to us
 heroImage: "../../assets/articles/tottenham-hotspur-stadium-travel-guide/tottenham-hotspur-stadium-exterior.jpg"
 heroImageAlt: "An aerial view of Tottenham Hotspur Stadium's curved glass and steel exterior, its retractable roof open, surrounded by the residential streets of N17"
 publishedAt: 2026-07-18
-updatedAt: 2026-10-31
+updatedAt: 2026-11-12
 reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
@@ -180,7 +180,9 @@ Tickets, prices, the clear bag rule and what a game day looks like hour by hour 
 
 ## Concerts
 
-**U2 play the stadium on Friday 18 and Saturday 19 June 2027**, with Wolf Alice supporting; the stadium lists it as the tour's only UK venue. General sale for reserved seating and standing opens at **10am on Friday 6 November 2026**, after U2.com presales from 2 November and an artist presale on 5 November. Accessible tickets need Nimbus Disability Access Scheme registration before you book. The booking route is on the [stadium's U2 page](https://www.tottenhamhotspurstadium.com/events/1181495/u2). Use White Hart Lane, as for a match, and read the last-train warning above before you plan the journey home.
+**U2 play the stadium on Friday 18, Saturday 19, Tuesday 22 and Friday 25 June 2027**, with Wolf Alice supporting; the stadium lists it as the tour's only UK venue. General sale for reserved seating and standing opened at **10am on Friday 6 November 2026**, after U2.com presales from 2 November and an artist presale on 5 November. Accessible tickets need Nimbus Disability Access Scheme registration before you book. The booking route is on the [stadium's U2 page](https://www.tottenhamhotspurstadium.com/events/1181495/u2). Use White Hart Lane, as for a match, and read the last-train warning above before you plan the journey home.
+
+**Fall Out Boy play on Saturday 5 June 2027** on their Twilight of the Punks tour, and **Stray Kids on Tuesday 13 July 2027** on their Run It London tour. Each show has reserved seating and standing tickets plus VIP packages, listed on the stadium's [Fall Out Boy](https://www.tottenhamhotspurstadium.com/events/1184972/fall-out-boy) and [Stray Kids](https://www.tottenhamhotspurstadium.com/events/1184882/stray-kids) pages. Accessible tickets need Nimbus registration first, as for U2.
 
 ## Where to stay, and why this isn't Wembley
 
