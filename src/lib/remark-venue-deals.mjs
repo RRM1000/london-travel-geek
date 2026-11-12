@@ -17,7 +17,9 @@ import fs from "node:fs";
 
 const DEALS = "data/food-deals/deals.json";
 const SNAPSHOT = "data/snapshot-restaurants-v2.json";
-const SKIP = /\/(food-deals-london|happy-hour-london|restaurant-deals-london|kids-eat-free-london|bottomless-brunch-london|restaurant-discount-cards-london)\.md$/;
+// The deal pages: every entry on them is already a deal, so a box would repeat it.
+// Add any new deal page here (and to MORE below if deals should point to it).
+const SKIP = /\/(food-deals-london|happy-hour-london|restaurant-deals-london|kids-eat-free-london|bottomless-brunch-london|restaurant-discount-cards-london|all-you-can-eat-london|off-peak-restaurant-apps-london)\.md$/;
 
 // Where "More ... →" goes for each type of deal: its own guide, or its section of the hub.
 const HUB = "/articles/food-deals-london/";
