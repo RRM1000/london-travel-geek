@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-11-09
+updatedAt: 2026-11-12
 reviewBy: 2026-11-16
 sites: [london]
 canonicalSite: london
@@ -217,6 +217,8 @@ Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Som
 **Weather.** The Met Office's Heathrow average for the month (1991 to 2020) is a daily high of **8.8C** and a low of **3.1C**, with **57.0mm of rain**, **7.2 air-frost days** and **53 hours of sunshine**, the least of any month. December has more days of frost than any other month. Our [London in the rain guide](/articles/london-in-the-rain/) has the indoor fallbacks.
 
 **Daylight.** Sunset is **3.57pm on 1 December**, about **3.53pm from the 10th to the 15th**, **3.55pm on 21 December** and **4.02pm on the 31st**. Sunrise moves from 7.41am to 8.04am. **The shortest day is 21 December: sunrise at 8.01am, sunset at 3.55pm, 7 hours 54 minutes of daylight.**
+
+**Tube strikes.** RMT drivers strike for 24 hours from noon on **Thursday 17 December and Saturday 19 December 2026** ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)). Saturday 19 December is the last Saturday before Christmas Day. Check TfL Go before you travel; the January and February dates are in our [getting around London guide](/articles/getting-around-london-transport-guide/).
 
 **Working out which month suits you best?** [Best time to visit London](/articles/best-time-to-visit-london/) compares December against the rest of the year, and [November's guide](/articles/things-to-do-in-london-in-november/) covers the month before. With children, see [London with children](/articles/london-with-children/).
 

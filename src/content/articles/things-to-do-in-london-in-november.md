@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-11-09
+updatedAt: 2026-11-12
 reviewBy: 2026-11-14
 sites: [london]
 canonicalSite: london
@@ -184,6 +184,8 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 | Sat 14 and Sun 15 Nov | Lord Mayor's Show | The Northern line between Euston or Charing Cross and Morden or Battersea Power Station, which takes out Bank, London Bridge, Waterloo and Battersea Power Station; on Sunday until 10.15am there is also no Elizabeth line between Paddington and Abbey Wood or Stratford |
 | Sat 21 and Sun 22 Nov | Heathrow, Uxbridge and Stratford journeys | The Piccadilly line between Hammersmith and Heathrow or Uxbridge, with the Metropolitan line closed from Harrow-on-the-Hill to Uxbridge; the DLR is closed between Canning Town and Stratford International |
 | Sat 28 and Sun 29 Nov | London Museum opening | The Elizabeth line along its whole length, with Paddington closed and no Heathrow Express; the whole Hammersmith & City line; the Circle line between Hammersmith or High Street Kensington and Tower Hill, via King's Cross St Pancras; the Metropolitan line from Baker Street to Aldgate; and the District line from High Street Kensington to Edgware Road |
+
+**Thursday 26 November is also the first of eight 24-hour Tube drivers' strikes**, called by the RMT. It starts at noon ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)). The next are Thursday 17 and Saturday 19 December.
 
 TfL updates these as the dates get closer, so check our [live tube status page](/tube-status/) before you set out.
 

@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 publishedAt: 2026-06-07
-updatedAt: 2026-11-02
+updatedAt: 2026-11-12
 reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
@@ -230,6 +230,8 @@ Going for the **National Television Awards**? Seat prices, the red-carpet packag
 The **Design District**, 16 low-rise studio buildings by eight architects, sits opposite the arena, about a minute from the station, and has its own canteen for a quieter meal before a show.
 
 **Disney On Ice presents Discover the Magic** runs **24 December 2026 to 3 January 2027** in The O2 arena: an ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. The O2's [event page](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic) lists every performance and sells tickets through AXS.
+
+**Pet Shop Boys play The O2 arena on Friday 9 and Saturday 10 July 2027** in *Dreamworld MAX: The Greatest Hits Live*, with Saint Etienne and Boy Harsher as guests on both nights, as part of the arena's 20th anniversary. General sale is at **10am on Friday 13 November 2026**, after presales at 10am on Wednesday 11 November, and the links are on the [band's site](https://www.petshopboys.co.uk/).
 
 **Outlet Shopping at The O2** wraps around the dome with over 60 discount and outlet stores, on its own hours separate from the arena's.
 

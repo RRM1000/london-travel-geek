@@ -3,7 +3,7 @@ title: "Getting Around London: A Complete Transport Overview"
 seoTitle: "Getting Around London: Transport Guide"
 description: "An introduction to every practical way to travel around London, including trains, buses, trams, boats, taxis, the cable car and all six main airports."
 publishedAt: 2026-07-31
-updatedAt: 2026-10-31
+updatedAt: 2026-11-12
 reviewBy: 2026-11-30
 sites:
   - london
@@ -32,6 +32,8 @@ The Underground (the "Tube") is the network most visitors know, but buses, commu
 > - **Sightseeing & Short Hops:** Use the red double-decker buses (£1.85 flat fare with 60-minute unlimited Hopper transfers).  
 > - **Airports:** Heathrow, Gatwick, and London City are linked by train/DLR. Stansted and Luton accept contactless cards, but **do NOT accept Oyster cards**.  
 > - **Paying:** Always tap in and out using the exact same contactless card or Oyster card for automatic daily capping.
+
+> ⚠️ **RMT Tube drivers are striking on eight days.** Each 24-hour strike starts at noon, on Thursday 26 November, Thursday 17 December and Saturday 19 December 2026, then Monday 4 January, Wednesday 6 January, Wednesday 17 February, Tuesday 23 February and Thursday 25 February 2027 ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)). Check TfL Go before you travel on those days.
 
 > ⚠️ **The Piccadilly line does not run between Hammersmith and Heathrow or Uxbridge from 1.30am on Saturday 21 November to the end of Sunday 22 November.** No Elizabeth line or Heathrow Express trains run to or from Heathrow on Saturday 28 and Sunday 29 November, when the Piccadilly line is the only train service to the airport, or from Sunday 27 to Wednesday 30 December. Paddington is closed to Great Western trains until Monday 4 January ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/)). The Great Eastern Main Line is closed for 10 days from Christmas Day for track renewal at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area until the early hours of Monday 4 January ([Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)). TfL's festive plan is on [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel).
 

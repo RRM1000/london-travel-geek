@@ -3,7 +3,7 @@ title: "How to Use the London Underground: A First-Time Visitor’s Guide"
 seoTitle: "How to Use the London Underground"
 description: "A practical guide to planning Tube journeys, paying the correct fare, navigating stations and travelling confidently on the London Underground."
 publishedAt: 2026-08-08
-updatedAt: 2026-11-01
+updatedAt: 2026-11-12
 reviewBy: 2026-11-23
 sites:
   - london
@@ -31,6 +31,8 @@ The London Underground—**the Tube**—is the world's oldest underground railwa
 > - **Navigating:** Look for line names (e.g., *Piccadilly line*) and cardinal directions (*Northbound / Southbound / Eastbound / Westbound*), not just individual station names.  
 > - **Fares:** Automatic daily capping ensures you never pay more than the daily maximum (£8.90 for Zones 1–2).
 > - **Weekend Closures:** TfL regularly conducts track maintenance on weekends. Always check line status on the TfL Go app before travelling on Saturday or Sunday.
+
+> ⚠️ **RMT Tube drivers are striking on eight days.** Each 24-hour strike starts at noon, on Thursday 26 November, Thursday 17 December and Saturday 19 December 2026, then Monday 4 January, Wednesday 6 January, Wednesday 17 February, Tuesday 23 February and Thursday 25 February 2027 ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)). Check TfL Go before you travel on those days.
 
 ---
 

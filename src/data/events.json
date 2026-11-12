@@ -2472,10 +2472,10 @@
    "slug": "u2-tottenham-hotspur-stadium-2027",
    "name": "U2: The Greatest Show On Earth World Tour",
    "type": "concert",
-   "style": "Two stadium nights with Wolf Alice supporting, the tour's only UK venue",
+   "style": "Four stadium nights with Wolf Alice supporting, the tour's only UK venue",
    "venue": "Tottenham Hotspur Stadium",
    "startsOn": "2027-06-18",
-   "endsOn": "2027-06-19",
+   "endsOn": "2027-06-25",
    "area": "Tottenham",
    "borough": "Haringey",
    "zone": "3",
@@ -2488,8 +2488,8 @@
    "price": "Not yet published",
    "priceBand": "unknown",
    "booking": "required",
-   "whyGo": "U2 play Friday 18 and Saturday 19 June 2027 at Tottenham Hotspur Stadium, which the stadium lists as the only UK venue on the tour. Wolf Alice support.",
-   "opNote": "General sale opens at 10am on Friday 6 November 2026, for reserved seating, standing and VIP packages. U2.com presales run from Monday 2 November, and the artist presale is on Thursday 5 November. Accessible tickets need Nimbus Disability Access Scheme registration before booking.",
+   "whyGo": "U2 play Friday 18, Saturday 19, Tuesday 22 and Friday 25 June 2027 at Tottenham Hotspur Stadium, which the stadium lists as the only UK venue on the tour. Wolf Alice support.",
+   "opNote": "General sale opened at 10am on Friday 6 November 2026, for reserved seating, standing and VIP packages. U2.com presales run from Monday 2 November, and the artist presale is on Thursday 5 November. Accessible tickets need Nimbus Disability Access Scheme registration before booking.",
    "goodFor": [
     "music",
     "groups"

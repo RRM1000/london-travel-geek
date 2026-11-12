@@ -3,7 +3,7 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-09
+updatedAt: 2026-11-12
 reviewBy: 2026-11-13
 sites:
   - london
@@ -304,6 +304,8 @@ Hotels run festive tea menus, usually from early November to the first week of J
 
 **The Ritz** has five sittings a day and an enforced dress code, in the Palm Court. Book months out for December.
 
+**The Charterhouse** serves a festive afternoon tea in its Tudor Great Chamber on **Friday 4, Friday 11 and Thursday 17 December 2026**, from 1.30pm to 4pm. Tickets are £100 and include a glass of Champagne and a walk through the indoor highlights of the house first. [Book on the Charterhouse's ticket page](https://thecharterhouse.digitickets.co.uk/event-tickets/81187).
+
 > ⚠️ **Festive menus are priced and dated separately from the standard tea**, and the good rooms sell December out by early autumn. Check the hotel's own site, not a listings page, and confirm which menu your booking is for.
 
 **[The full afternoon tea guide, with every price →](/articles/best-afternoon-tea-london/)**
@@ -323,6 +325,8 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 ## Good to know
 
 **TfL runs no services at all on Christmas Day** — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. Black cabs, private hire, Santander Cycles and rental e-scooters are the only options moving. **Boxing Day is reduced, not closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) nearer the date for the exact 2026 detail.
+
+**RMT Tube drivers strike for 24 hours from noon on Thursday 26 November, Thursday 17 December and Saturday 19 December 2026** ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)), with five more dates in January and February 2027. Check TfL Go before you travel on those days.
 
 **National Rail has its own closures around Christmas 2026**, and no trains run in England on Christmas Day itself ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)):
 
