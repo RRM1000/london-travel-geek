@@ -43,7 +43,7 @@ heroImageAlt: "Wembley Stadium's glass front and arch seen from the foot of the 
 | Wed 25, Fri 27 and Sat 28 August | **Harry Styles**, Together, Together | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Harry-Styles): on general sale since 17 September 2026 |
 | Fri 27 August | **Phoebe Bridgers**, with Caroline Polachek | All Points East, Victoria Park | [All Points East](https://www.allpointseastfestival.com/events/phoebe-bridgers-fri-27-aug): on sale |
 
-**Two Friday nights carry two stadium shows at once.** On 18 June, Sam Fender plays Wembley while U2 open at Tottenham; on 25 June, U2 play their last night the evening after Bon Jovi in Hyde Park, with Toto at OVO Arena Wembley and SOMBR at The O2 the same night. If you are going on either Friday, book your hotel as soon as you have tickets.
+**Two June Fridays are the busiest nights.** On 18 June, Sam Fender plays Wembley while U2 open at Tottenham. On 25 June, U2 play their last night with Toto at OVO Arena Wembley and SOMBR at The O2 the same evening. If you are going on either Friday, book your hotel as soon as you have tickets.
 
 ![A crowd standing on the grass in Hyde Park in front of the BST stage, which is dressed as giant trees and lit blue, with a singer on the big screen to the left](../../assets/articles/london-music-festivals-2027/bst-hyde-park-crowd-tree-stage.jpg)
 
