@@ -3,7 +3,7 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-12
+updatedAt: 2026-11-14
 reviewBy: 2026-11-13
 sites:
   - london
@@ -330,7 +330,7 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 
 **National Rail has its own closures around Christmas 2026**, and no trains run in England on Christmas Day itself ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)):
 
-- **Saturday 28 and Sunday 29 November:** Dolphin Junction work means no Elizabeth line or Heathrow Express trains run to or from Heathrow, and the Piccadilly line is the only train service between central London and the airport. Great Western trains do not run to Paddington, and the Bristol and South Wales trains run to Euston instead.
+- **Saturday 28 and Sunday 29 November:** Dolphin Junction work means no Elizabeth line or Heathrow Express trains run to or from Heathrow, and the Piccadilly line is the only train service between central London and the airport. The Elizabeth line is shut along its whole length, central London included, so use the Central line across town. Great Western trains do not run to Paddington, and the Bristol and South Wales trains run to Euston instead.
 - **Sunday 27 December to Sunday 3 January 2027:** Great Western trains cannot reach Paddington, and long-distance services start and finish at Reading or divert to Euston. The Elizabeth line and Heathrow Express do not run to or from Heathrow until Wednesday 30 December, and resume on New Year's Eve.
 - **From Christmas Day to the early hours of Monday 4 January:** the Great Eastern Main Line is closed at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area, on the route into Liverpool Street.
 - **From Sunday 20 December to the early hours of Monday 4 January:** buses replace trains from Reigate and from Earlswood to Purley on the Brighton Main Line; Brighton and Gatwick Airport services still run.
