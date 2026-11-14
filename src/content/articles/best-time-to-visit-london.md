@@ -77,8 +77,7 @@ Averages are the Met Office's 1991-2020 normals for **Heathrow**. Sunrise and su
 ![People in winter coats walking past snow-topped wooden food chalets lit up at dusk at Hyde Park Winter Wonderland](../../assets/articles/best-time-to-visit-london/winter-wonderland-food-stalls.jpg)
 *Hyde Park Winter Wonderland at dusk.*
 
-**January:** schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day (**Friday 1 January 2027**). The average high is 8°C.
- Our [January guide](/articles/things-to-do-in-london-in-january/) has the Parade, the end of the Christmas season and the month's openings.
+**January:** schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day (**Friday 1 January 2027**). The average high is 8°C. Our [January guide](/articles/things-to-do-in-london-in-january/) has the Parade, the end of the Christmas season and the month's openings.
 
 **February** averages 9°C and 76 hours of sunshine, against January's 59. Half term, **15-19 February 2027**, briefly refills the big family attractions. **Lunar New Year's Day falls on Saturday 6 February 2027**, the start of the Year of the Goat; Chinatown's celebrations run from 6 to 20 February. Our [February guide](/articles/things-to-do-in-london-in-february/) has the month, and the [February half-term guide](/articles/february-half-term-london/) covers the family week.
 
