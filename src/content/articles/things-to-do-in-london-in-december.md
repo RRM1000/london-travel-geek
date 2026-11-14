@@ -104,6 +104,7 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 - **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, 25 November to Monday 28 December, closed on Christmas Day. Gates are open from 4.30pm and the trail closes at 10pm; adults from £18. [chelseawintervillage.com](https://www.chelseawintervillage.com/).
 - **Winter Palace: The Christmas Beast Ball**, Hampton Court Palace, 28 November to 3 January, included in palace admission with pre-booking. The **Festive Fayre** has more than 100 artisan producers on 4 to 6 and 11 to 13 December, 10am to 5pm. See our [Hampton Court guide](/articles/hampton-court-palace-guide/).
 - **Victoria's Countryside Christmas** at Kensington Palace, 25 November to 3 January, is included in palace admission.
+- **The Shard's Advent lights**, free from the street. From 1 to 24 December, the top 20 storeys show a new animated design each evening, every 15 minutes from 4pm, and the festive animations run on to 5 January. London Bridge station is at its foot.
 
 **Chiswick House's Christmas programme runs 1 November to 24 December**: Father Christmas on selected dates from 28 November, markets at the Duck Pond, and a Georgian-style opera, *The Duchess's Christmas*, in the house on 12 and 13 December.
 

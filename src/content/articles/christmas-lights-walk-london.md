@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Reg
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0/
 publishedAt: 2026-09-26
-updatedAt: 2026-11-09
+updatedAt: 2026-11-14
 reviewBy: 2026-11-13
 sites: [london]
 canonicalSite: london
@@ -208,6 +208,7 @@ From the Piazza take King Street and New Row to St Martin's Lane, and follow it 
 ## Also lit, off the route
 
 - **Leicester Square.** Star-shaped lights, on from Sunday 1 November 2026 to 6 January 2027, a minute from St Martin's Lane. The chalets and ice rink in the gardens are covered in our [Christmas markets guide](/articles/christmas-markets-london/).
+- **The Shard.** From **1 December to 24 December 2026**, the top 20 storeys show a new animated Advent design each evening, played every 15 minutes from 4pm. The festive animations carry on, without the countdown, from 25 December to 5 January 2027. It's free to watch from the street; London Bridge is the nearest station, about 25 minutes by Tube from Trafalgar Square.
 - **Marylebone Village.** [A Very Merry Marylebone Christmas](https://www.marylebonevillage.com/whats-on-and-features/item/1477-merry-marylebone-christmas) is on **Wednesday 11 November 2026, 3pm to 8pm**: stalls, a Ferris wheel and live performances on Devonshire Street, with the lights switched on there at **6pm**. It falls the day before Bond Street's switch-on, so the two make a pair of evenings. Our [Marylebone walk](/articles/regents-park-marylebone-walk/) ends a few minutes from Bond Street station.
 
 ---
