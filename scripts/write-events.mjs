@@ -1226,7 +1226,7 @@ const ROWS = [
     pricePerPerson: "Ticketed, £20 to £55", priceBand: "20-50",
     bookingRequired: "required", indoorOutdoor: "outdoor",
     whyGo: "The most important fact is operational: since 2014 this has NOT been a free walk-up event. The riverside is gated and ticketed, tickets sell out months ahead, and a guide that skips this sends readers to be turned away at midnight.",
-    opSummary: "Tickets released via london.gov.uk months in advance. Without one, the fireworks are visible poorly or not at all from outside the zones - Primrose Hill and other high ground are the unticketed alternatives.",
+    opSummary: "Tickets come only through the link on london.gov.uk, up to four per buyer. The first batch is on sale and the second is released at 12 noon on Friday 20 November 2026. There are no official viewing areas in any Royal Park, and Primrose Hill is locked overnight.",
     goodFor: "date, groups",
     lists: "events",
     source: "General knowledge, ticketing model well established since 2014; 2026 price and on-sale date unverified - check london.gov.uk.",
