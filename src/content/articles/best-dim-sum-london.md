@@ -226,6 +226,7 @@ Din Tai Fung is also in the [chain restaurants guide](/articles/best-chain-resta
 
 ## Continue planning your London trip
 
+- 🧧 **[Chinese New Year in London 2027](/articles/chinese-new-year-london/)** — the parade from Trafalgar Square and Chinatown's dim sum rooms on the day
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — unlimited dim sum at Ping Pong and FeiEr Cottage

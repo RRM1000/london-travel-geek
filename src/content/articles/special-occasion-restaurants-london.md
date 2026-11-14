@@ -330,6 +330,7 @@ A starred restaurant's lunch is the same kitchen and room as dinner for less.
 
 ## Continue planning your London trip
 
+- 💌 **[Valentine's Day in London 2027](/articles/valentines-day-london/)** — Sunday 14 February: when these rooms open bookings, and the views and cruises to pair them with
 - 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🫖 **[The Best Afternoon Tea in London](/articles/best-afternoon-tea-london/)**

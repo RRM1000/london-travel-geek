@@ -192,7 +192,7 @@ Five of the bars in our speakeasy guide are in Soho and Chinatown: Opium behind 
 
 **Best time:** Evening.
 
-**For Chinatown:** Sunday afternoon is traditional and busiest. Weekday lunch is the quiet alternative.
+**For Chinatown:** Sunday afternoon is traditional and busiest. Weekday lunch is the quiet alternative. Chinese New Year falls on 6 February 2027; our [Chinese New Year guide](/articles/chinese-new-year-london/) covers the parade and the fortnight of celebrations.
 
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
