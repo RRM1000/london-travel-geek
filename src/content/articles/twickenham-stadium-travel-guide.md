@@ -189,7 +189,7 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts E
 | **Sat 20 Feb 2027** | England v Italy, Six Nations | 16:40 | — |
 | **Sat 13 Mar 2027** | England v Scotland, Six Nations | 16:40 | — |
 
-*Crowd figures are Richmond Council's.* England v New Zealand is sold out; the England v Japan game started at £51. On a concert night everything here applies, but the crowd leaves later, closer to the last train.
+*Crowd figures are Richmond Council's.* England v New Zealand is sold out; the England v Japan game started at £51. On a concert night everything here applies, but the crowd leaves later, closer to the last train. The big 2027 gigs elsewhere in London are in our [London concerts 2027](/articles/london-concerts-2027/) guide.
 
 ---
 

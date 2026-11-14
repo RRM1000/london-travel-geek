@@ -139,7 +139,7 @@ The Gold Top accessible car park reopens roughly 20–30 minutes after the final
 
 *The Novuna London Athletics Meet.*
 
-**Concerts** are the least frequent case. The next, Fontaines D.C., is on **9 July 2027**. For a concert, use the transport advice in this guide as the starting point and check the venue's site for that event's doors and curfew times.
+**Concerts** are the least frequent case. The next, Fontaines D.C., is on **9 July 2027**. For a concert, use the transport advice in this guide as the starting point and check the venue's site for that event's doors and curfew times. The other stadium and arena gigs announced for that summer are in our [London concerts 2027](/articles/london-concerts-2027/) guide.
 
 **Stadium tours** run on non-event days, covering the pitch and dressing rooms. Prices, times and the other clubs' tours are in our guide to [football stadium tours in London](/articles/football-stadium-tours-london/).
 
