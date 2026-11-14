@@ -287,6 +287,7 @@ On **non-match days**, parking in the West or North car park is free if you regi
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**
 - ♿ **[Step-Free London](/articles/step-free-london/)**
+- 🗓️ **[Things to Do in London in February](/articles/things-to-do-in-london-in-february/)** — the two Six Nations weekends, Lunar New Year and half term
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)**
 - 🏟️ **[Tottenham Hotspur Stadium Travel Guide](/articles/tottenham-hotspur-stadium-travel-guide/)**
 - 🌳 **[Richmond Area Guide](/articles/richmond-area-guide/)**
