@@ -218,6 +218,7 @@ London Stadium operates a **100% search policy**: every supporter and their belo
 
 ## Continue planning your London trip
 
+- 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the London Athletics Meet on 17 July and the rest of the year's big sporting dates
 - ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — London Stadium's tour from £22, and five other grounds
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — London's biggest rugby crowd, and the last train out at 00:11
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — West Ham are in the Championship in 2026/27, which makes this a far easier ticket than a top-flight one

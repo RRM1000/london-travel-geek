@@ -297,6 +297,7 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywi
 
 ## Continue planning your London trip
 
+- 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the year's big sporting dates across London's stadiums and the river
 - 🎤 **[London Concerts 2027](/articles/london-concerts-2027/)** — Olivia Rodrigo's eleven nights, The O2's 20th birthday series and the year's stadium gigs
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — the west London equivalent, where the crowd all leaves at once
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**

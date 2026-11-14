@@ -657,6 +657,7 @@ Pre-purchased tickets are digital through the Wimbledon app; a small number of p
 
 ## Continue planning your London trip
 
+- 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — Queen's, the Ashes Tests at Lord's and the Oval, and the rest of the summer's big dates
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — the other south-west London sporting crowd that all leaves at once
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — the other London ticket with a mechanism worth understanding before you fly
 - 🏃 **[London Marathon: How to Get a Place, and How to Watch It](/articles/london-marathon-guide/)**

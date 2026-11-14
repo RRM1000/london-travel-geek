@@ -183,6 +183,7 @@ For Wembley, our [where to stay near Wembley Stadium](/articles/where-to-stay-ne
 - 🎪 **[London Music Festivals 2027](/articles/london-music-festivals-2027/)**: BST Hyde Park, All Points East, Brockwell Park and the ones a train ride away
 - 🎤 **[Best Live Music Venues in London](/articles/best-live-music-venues-london/)**: the smaller rooms, from clubs to concert halls
 - 📅 **[Major Events Calendar](/whats-on/big-events/)**: the big gigs, sport and shows by month
+- 🏟️ **[London Sporting Events 2027](/articles/london-sporting-events-2027/)**: the Six Nations, cup finals, Boat Race, Marathon, Wimbledon and the Ashes, month by month
 - 🎟️ **[Tickets Going On Sale Soon](/whats-on/on-sale/)**
 - 🗓️ **[What's On in London](/whats-on/)**: every gig, show and concert we list, searchable by date and price
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)**
