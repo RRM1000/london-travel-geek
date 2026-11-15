@@ -31,7 +31,7 @@ heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights 
 
 ## Which markets are open on which day
 
-The covered food halls in the comparison table trade every day, so this lists only the markets that do not.
+The covered food halls trade every day, so this lists only the markets that do not.
 
 | Day | Closed that day | Open, beyond the daily food halls |
 | --- | --- | --- |
@@ -76,49 +76,23 @@ The covered food halls in the comparison table trade every day, so this lists on
 
 ## The comparison
 
-**Plan by the days column, not the hours.** Hours shift seasonally and by trader.
+**These are the food halls and markets written up below.** Plan by the days column, not the hours: hours shift with the season and the trader.
 
 | Venue | Area | Type | Traders | Variety | Seating | Days |
 | --- | --- | --- | --- | --- | --- | --- |
 | **Borough Market** | London Bridge | Market | 100+ stalls and shops | Everything | Scarce | **Closed Mon**, Tue–Sun |
 | **Seven Dials Market** | Covent Garden | Food hall | 21 | Pan-global | Plenty | Daily |
-| **Arcade Food Hall** | Tottenham Court Rd | Food hall | 7 chef-led | Thai, Levantine, Mexican | Plenty | Daily |
-| **Arcade Food Hall** | Covent Garden | Food hall | 7 chef-led | Greek Cypriot, Thai, Indian, tacos | Plenty | Daily |
-| **Arcade Food Hall** | Battersea | Food hall | 13 | The widest spread of the three | Plenty | Daily |
+| **Arcade Food Hall** | Tottenham Court Rd, Covent Garden, Battersea | Food hall | 7–13 per site | Thai, Levantine, Greek Cypriot, Indian, tacos | Plenty | Daily |
 | **Bang Bang Oriental** | Colindale | Food hall | 25+ | Pan-Asian | Plenty, 450 covers | Daily |
-| **Market Halls Victoria** | Victoria | Food hall | 9 + 3 bars | Burgers, Thai, Malaysian, kebabs | Plenty, 3 floors + roof | Daily |
-| **Market Halls Oxford Street** | Oxford Circus | Food hall | 9 + 2 bars | Malaysian, Thai, BBQ, pizza | Plenty | Daily |
-| **Market Halls Canary Wharf** | Canary Wharf | Food hall | 11 + 3 bars | Caribbean, Thai, Malaysian | Plenty | Daily, breakfast to late |
-| **Market Halls Paddington** | Paddington | Food hall | 8 | Argentine grill, Malaysian, Greek, tacos | Plenty | Daily |
+| **Market Halls** | Victoria, Oxford Circus, Canary Wharf, Paddington | Food hall | 8–11 per site, plus bars | Thai, Malaysian, burgers, Caribbean, Argentine grill | Plenty | Daily |
 | **Tower Bridge Collective** | Shad Thames | Food hall | 13 | Korean, Thai, Ethiopian, Palestinian | Plenty, 2 floors | Daily from 8am |
 | **Mercato Metropolitano** | Elephant & Castle | Food hall | 40+ | Global | Plenty | Daily · **closing end of 2026** |
-| **Mercato Mayfair** | Mayfair | Food hall | 19 | Italian-led, in a Grade I church | Plenty | Daily |
-| **Boxhall** | Liverpool Street | Food hall | 14 | Sri Lankan, Singaporean, bao | Plenty, Edwardian arcade | Daily |
-| **Boxpark Shoreditch** | Shoreditch | Container | ~15 food | Greek, Caribbean, pizza, burgers | Plenty | Daily |
-| **Boxpark Camden** | Camden | Container | ~15 food | Birria, Nepali, Vietnamese, Greek | Plenty | Daily |
-| **Boxpark Wembley** | Wembley Park | Container | 22–24 | Greek, Korean, Brazilian BBQ | Plenty | Daily · **event days differ** |
-| **Boxpark Croydon** | East Croydon | Container | 22–24 | Afghan, Taiwanese, West African | Plenty | Daily |
-| **Market Place** | Leicester Sq, St Paul's, Vauxhall, Peckham, Harrow | Food hall | 9–16 per site | Argentine, Filipino, Greek, Thai | Plenty | Daily · **St Paul's closed Sun** |
 | **Old Spitalfields Market** | Spitalfields | Market | 45 food businesses | Global, plus restaurants | Some, covered | Daily · **Thu is antiques, opens 8am** |
 | **Upmarket, Brick Lane** | Brick Lane | Market hall | 40+ | Pan-global | Scarce | Daily, **11am–6pm; Sunday from 10am** |
-| **Camden Market** | Camden | Market | Not published | As broad as it gets | Some, canalside | Daily · **Thu night market to 9pm** |
-| **Greenwich Market** | Greenwich | Market | 120 shops and stalls | Global | Scarce | Daily · **street food market Fri–Sun** |
-| **Brixton Village** | Brixton | Arcades | Not published | Caribbean, Colombian, Japanese | Plenty | **Closed many Mondays** |
 | **Maltby Street** | Bermondsey | Market | ~11 + arches | French, Ethiopian, Cuban, Greek | Scarce | **Fri 5.30–9pm, Sat, Sun only** |
 | **Broadway Market** | Hackney | Market | Not published | Global, plus produce | Scarce | **Sat and Sun only** |
-| **Netil Market** | London Fields | Market | 7 | Burgers, noodles, bagels | Some | Daily, later Wed–Sat |
 | **Southbank Centre Food Market** | Waterloo | Market | 30–40 | Dosas, Afghan, Vietnamese | Scarce | **Fri–Sun only** |
 | **Canopy Market** | King's Cross | Market | ~20 | Spanish, Greek, Thai, oysters | Some, covered | **Wed–Sun only** |
-| **Hackney Bridge** | Hackney Wick | Container | 8 | Filipino, pizza, tacos, sushi | Plenty, canalside | **Closed Mon** |
-| **Vinegar Yard** | London Bridge | Yard | Not published | Indian, pan-Asian, burgers | Plenty | **Closed Mon, opens late afternoon** |
-| **Flat Iron Square** | Southwark | Yard | 5 | Greek, fried chicken, pizza | Plenty | Daily, more beer garden than market |
-| **Corner Corner** | Canada Water | Food hall | 4–5 | Fried chicken, tacos, bao | Plenty, huge | Daily, kitchens from midday |
-| **Canteen** | North Greenwich | Food hall | 6 | Jamaican, ramen, Greek, congee | Plenty | Daily, **traders from 11.30am** |
-| **Pop Brixton** | Brixton | Container | 9 | Trinidadian, Greek, West African | Plenty, outdoor | **Closed Mon · closing for good** |
-| **Peckham Levels** | Peckham | Container | Reduced | Varies | Plenty, Level 6 view | **Closed Mon and Tue** |
-| **Whitecross Street** | Old Street | Street market | Not published | Kurdish, Korean, Ethiopian | Standing only | **Weekday lunchtimes only** |
-| **Leather Lane** | Farringdon | Street market | 103 pitches | Thai, Lebanese, Indian | Standing only | **Mon–Fri, ~10am–4pm** |
-| **Broadway Market Tooting** | Tooting | Arcade | 28 | Ramen, Basque, Jamaican, Filipino | Plenty | **Many units closed Mon, evenings only midweek** |
 | **Food Hall @ 17&Central** | Walthamstow | Food hall | 8 + bar | Mexican, Neapolitan pizza, South Asian, wok | Plenty, plus soft play | Daily from 9am |
 
 ---
@@ -382,6 +356,34 @@ Standing only, with a two-to-four hour window.
 * **The Boiler House**, Brick Lane — no longer listed by the Old Truman Brewery.
 
 ---
+
+## Every other food hall, yard and market
+
+The rest, A to Z, with the days each one trades.
+
+| Venue | Area | Type | Traders | Variety | Seating | Days |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Boxhall** | Liverpool Street | Food hall | 14 | Sri Lankan, Singaporean, bao | Plenty, Edwardian arcade | Daily |
+| **Boxpark Camden** | Camden | Container | ~15 food | Birria, Nepali, Vietnamese, Greek | Plenty | Daily |
+| **Boxpark Croydon** | East Croydon | Container | 22–24 | Afghan, Taiwanese, West African | Plenty | Daily |
+| **Boxpark Shoreditch** | Shoreditch | Container | ~15 food | Greek, Caribbean, pizza, burgers | Plenty | Daily |
+| **Boxpark Wembley** | Wembley Park | Container | 22–24 | Greek, Korean, Brazilian BBQ | Plenty | Daily · **event days differ** |
+| **Brixton Village** | Brixton | Arcades | Not published | Caribbean, Colombian, Japanese | Plenty | **Closed many Mondays** |
+| **Broadway Market Tooting** | Tooting | Arcade | 28 | Ramen, Basque, Jamaican, Filipino | Plenty | **Many units closed Mon, evenings only midweek** |
+| **Camden Market** | Camden | Market | Not published | As broad as it gets | Some, canalside | Daily · **Thu night market to 9pm** |
+| **Canteen** | North Greenwich | Food hall | 6 | Jamaican, ramen, Greek, congee | Plenty | Daily, **traders from 11.30am** |
+| **Corner Corner** | Canada Water | Food hall | 4–5 | Fried chicken, tacos, bao | Plenty, huge | Daily, kitchens from midday |
+| **Flat Iron Square** | Southwark | Yard | 5 | Greek, fried chicken, pizza | Plenty | Daily, more beer garden than market |
+| **Greenwich Market** | Greenwich | Market | 120 shops and stalls | Global | Scarce | Daily · **street food market Fri–Sun** |
+| **Hackney Bridge** | Hackney Wick | Container | 8 | Filipino, pizza, tacos, sushi | Plenty, canalside | **Closed Mon** |
+| **Leather Lane** | Farringdon | Street market | 103 pitches | Thai, Lebanese, Indian | Standing only | **Mon–Fri, ~10am–4pm** |
+| **Market Place** | Leicester Sq, St Paul's, Vauxhall, Peckham, Harrow | Food hall | 9–16 per site | Argentine, Filipino, Greek, Thai | Plenty | Daily · **St Paul's closed Sun** |
+| **Mercato Mayfair** | Mayfair | Food hall | 19 | Italian-led, in a Grade I church | Plenty | Daily |
+| **Netil Market** | London Fields | Market | 7 | Burgers, noodles, bagels | Some | Daily, later Wed–Sat |
+| **Peckham Levels** | Peckham | Container | Reduced | Varies | Plenty, Level 6 view | **Closed Mon and Tue** |
+| **Pop Brixton** | Brixton | Container | 9 | Trinidadian, Greek, West African | Plenty, outdoor | **Closed Mon · closing for good** |
+| **Vinegar Yard** | London Bridge | Yard | Not published | Indian, pan-Asian, burgers | Plenty | **Closed Mon, opens late afternoon** |
+| **Whitecross Street** | Old Street | Street market | Not published | Kurdish, Korean, Ethiopian | Standing only | **Weekday lunchtimes only** |
 
 ## What to know
 
