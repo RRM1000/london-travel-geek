@@ -271,6 +271,10 @@ The inland route: **eleven stops** over about 3km, through the coaching-inn yard
 5. **Taking the Tube between South Bank stops.** Waterloo to London Bridge is a 25-minute walk along the river.
 6. **Doing the walk at midday in summer.** The western half is packed. Start early or go late.
 
+## Beyond the river: the Imperial War Museum
+
+The free [Imperial War Museum](/articles/imperial-war-museum-london-guide/) is a 14-minute walk from Waterloo on Lambeth Road, with galleries on the First World War, the Second World War and the Holocaust. IWM recommends at least three hours.
+
 ## Where to stay
 
 - **Waterloo and Lower Marsh** — Mid-range hotels a few minutes from the river.

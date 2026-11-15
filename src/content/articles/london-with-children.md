@@ -330,6 +330,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — under-12s get in for £5 at Charlton against £39 for a junior Premier League seat
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
+- 🎖️ **[Imperial War Museum London](/articles/imperial-war-museum-london-guide/)** — the free Childhood in War exhibition, and which galleries are not for under-14s
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - ♿ **[Step-Free London](/articles/step-free-london/)** — lifts, ramps and which attractions have them

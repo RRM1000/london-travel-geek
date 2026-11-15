@@ -68,7 +68,7 @@ This guide uses the Great British Public Toilet Map's database, the crowdsourced
 **South Bank &amp; Waterloo**
 - **Waterloo Station, Main Concourse** — opposite platform 18
 - **Royal Festival Hall** — on all four floors
-- **Imperial War Museum** — free entry, free toilets, closed only 24–26 December
+- **[Imperial War Museum](/articles/imperial-war-museum-london-guide/)** — free entry, free toilets, closed only 24–26 December
 - **Borough Market** — in Three Crown Square, Borough Market Kitchen and the Market Hall, open during trading hours; the accessible toilets need no RADAR key
 
 **Camden**
