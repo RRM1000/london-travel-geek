@@ -1,9 +1,10 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-12",
+  "updated": "2026-11-15",
   "inProgress": [],
   "nextUp": [
+    "Tidy City Break Geek and Theatre Geek the same way as LTG (one review branch, one preview port); never touch ltheatre-matinee or floorplan-3d.",
     "Live deal pages (decided 11 Nov: later). LTG is fully static, so a Sheet edit only reaches the site after a rebuild and push. Options: (1) let the weekly deals check build and push its own fixes; (2) build deal tables from the Food Deals tab at build time and trigger a Vercel deploy hook (uses build minutes); (3) recommended: add the Vercel adapter and render only the four deal pages on demand with a 24-hour cache, reading the Food Deals tab, so Sheet edits go live within a day with no push and no build minutes.",
     "Food deals coverage beyond the Sheet: a deal-venues list of popular London chains and grab-and-go brands (Pret, Gail's, Itsu, Greggs, Leon and so on; not burger-and-fried-chicken fast food), crawled with the same pipeline, then Too Good To Go-style end-of-day offers, food halls, pub groups and the discount-card brand lists as discovery sources. Browser pass for the 55 sites that blocked the crawl.",
     "CBG: internal links to the 305 unindexed pages from the home page, city hubs and pages with traffic; resubmit the sitemap.",
@@ -26,6 +27,9 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
+    "Request indexing in Search Console for hen-do-london, london-stadium-travel-guide, wapping-canary-wharf-walk and where-to-stay-south-kensington (SEO refresh now live).",
+    "Best Sushi (branch ltg-sushi) still not live: needs venue photos, Sheet rows and booking links checked.",
+    "Shard (product 24625) and Parliament (product 1044178) GetYourGuide ids were confirmed from listing titles only; check both widgets show the right product on the live pages.",
     "Tube status page: add a fixed list of the eight announced RMT strike dates to the Strikes panel? (TfL's feed only shows them a few days ahead.)",
     "U2 at Tottenham is four nights in src/data/events.json; write the same fix into the Events Sheet tab so the next export doesn't revert it?",
     "Le Relais de Venise L'Entrecôte (Marylebone): set-menu price isn't published; Rob to supply it before it goes in the food deals data.",
@@ -74,6 +78,18 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-15",
+      "what": "LIVE (pushed bf21bfb9, 571 pages): 22 branches merged into ltg-review-2026-11-15 and pushed after a full build. Event radar 13-14 Nov (NYE second batch 20 Nov, Elizabeth line closure 28-29 Nov, Shard Advent lights), London concerts 2027, London sporting events 2027, February guides (things to do in February, half-term, Valentine's, Chinese New Year), Black Friday guide, SEO refresh (8 titles, hotel and guide refreshes, street food table split), November date fixes."
+    },
+    {
+      "date": "2026-11-15",
+      "what": "Twelve attraction guides live: London Zoo (with feeding times), Madame Tussauds, HMS Belfast, Kensington Palace, Science Museum, V&A, The View from The Shard, Tate Modern, Houses of Parliament and Big Ben tours, National Gallery, Cutty Sark and the National Maritime Museum, Imperial War Museum London. Each linked both ways; stale facts fixed on related pages (Kensington £19 price, Shard £25.95, Tate Level 10 hours, Big Ben UK-only claim, Observatory reopening)."
+    },
+    {
+      "date": "2026-11-15",
+      "what": "Tidy-up: one LTG review branch and one preview (ltg-preview, localhost:4400) replace per-page worktrees and ports; 24 old LTG launch configs removed; 20 merged worktrees deleted after the push, plus 179 merged worktrees earlier the same day (disk back to ~330 GB free)."
+    },
     {
       "date": "2026-11-12",
       "what": "LIVE (pushed 9bbfc396): ltg-food-deals, ltg-drey and ltg-event-radar-2026-11-12 merged and pushed after a full build (541 pages). Food deals hub, happy hour and all-you-can-eat pages, deal boxes in every guide, The Drey, and the event radar updates are all live."
