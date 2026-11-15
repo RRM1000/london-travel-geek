@@ -5,7 +5,7 @@ description: "A 1667 warren off Fleet Street, a Thames pub trading five centurie
 heroImage: "../../assets/articles/historic-pubs-dining-rooms-london/the-blackfriar-mosaic-ceiling.jpg"
 heroImageAlt: "The gold mosaic ceiling and bronze relief friars inside the Blackfriar, with carved mottoes set into the marble walls"
 publishedAt: 2026-09-15
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -86,7 +86,7 @@ The entrance is a gap in the buildings, not a frontage, so it is easy to walk pa
 
 The cellar was reputedly used to hold convicts before transportation to Australia, and Judge Jeffreys was caught here trying to flee the country disguised as a sailor.
 
-**££, walk-in.** Standard pub food, not a dining room. **The river terrace is tiny and the reason to come** — go in daylight and at low tide, when the foreshore is walkable.
+**££, walk-in.** Standard pub food, not a dining room. **The river terrace is tiny and the reason to come** — go in daylight and at low tide, when the foreshore is walkable. It is the first of four pubs on our [riverside pub walk from Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/), with the Captain Kidd, the Prospect of Whitby and The Grapes further east.
 
 ![A handful of tables on the Town of Ramsgate's narrow river terrace at dusk, with the Thames beyond](../../assets/articles/historic-pubs-dining-rooms-london/the-town-of-ramsgate-river-terrace.jpg)
 

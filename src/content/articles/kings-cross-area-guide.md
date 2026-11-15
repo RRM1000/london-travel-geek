@@ -1,7 +1,7 @@
 ---
 title: "King's Cross Area Guide: Coal Drops Yard, the British Library and the Canal"
-seoTitle: "King's Cross Guide: Coal Drops Yard & Granary Square"
-description: "A complete King's Cross guide: Coal Drops Yard, the British Library treasures, Platform 9¾, the canal walk to Camden, and navigating two stations that look like one."
+seoTitle: "King's Cross Guide: Coal Drops Yard, Platform 9¾, Canal"
+description: "Coal Drops Yard, Granary Square, the British Library's free Treasures Gallery, Platform 9¾ and the 30-minute canal walk to Camden, plus the two stations."
 publishedAt: 2026-08-16
 updatedAt: 2026-10-31
 reviewBy: 2027-01-26

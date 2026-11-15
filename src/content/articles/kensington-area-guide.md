@@ -3,7 +3,7 @@ title: "Kensington Area Guide: The Palace, Holland Park and the Kyoto Garden"
 seoTitle: "Kensington Guide: Kensington Palace & Holland Park"
 description: "A complete Kensington guide: Kensington Palace and Gardens, Holland Park and the Kyoto Garden, the Design Museum, Leighton House and opera under canvas."
 publishedAt: 2026-08-21
-updatedAt: 2026-11-09
+updatedAt: 2026-11-15
 reviewBy: 2026-11-26
 sites:
   - london
@@ -221,6 +221,6 @@ Quiet, green and well connected, with prices to match the postcode.
 - **Holland Park and Campden Hill** — Townhouse hotels in the quietest streets, at a premium.
 - **Earl's Court** — Ten minutes south, cheaper, same District line access.
 
-Our [Kensington and Earl's Court hotel guide](/articles/where-to-stay-kensington/) compares the hotels, from Kensington High Street to Olympia.
+Our [Kensington and Earl's Court hotel guide](/articles/where-to-stay-kensington/) compares the hotels, from Kensington High Street to Olympia. For a bed beside the museums instead, see [where to stay in South Kensington](/articles/where-to-stay-south-kensington/).
 
 **In Olympia for a show?** Our [Ideal Home Show guide](/articles/ideal-home-show-london/) covers tickets, getting to Kensington (Olympia) station and where to stay right on the site.

@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenh
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
 publishedAt: 2026-07-23
-updatedAt: 2026-11-09
+updatedAt: 2026-11-15
 reviewBy: 2026-11-20
 sites: [london]
 canonicalSite: london
@@ -289,6 +289,7 @@ On **non-match days**, parking in the West or North car park is free if you regi
 - ♿ **[Step-Free London](/articles/step-free-london/)**
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)**
 - 🏟️ **[Tottenham Hotspur Stadium Travel Guide](/articles/tottenham-hotspur-stadium-travel-guide/)**
+- 🏟️ **[London Stadium Travel Guide](/articles/london-stadium-travel-guide/)** — West Ham, athletics and concerts at Stratford, with seven rail and Tube services to choose from
 - 🌳 **[Richmond Area Guide](/articles/richmond-area-guide/)**
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)**, for anything bigger than A4

@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Great_Russell
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-08-28
-updatedAt: 2026-10-31
+updatedAt: 2026-11-15
 reviewBy: 2026-11-29
 sites: [london]
 canonicalSite: london
@@ -348,7 +348,7 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
 * **Pick three things and leave.** The British Museum has around eight million objects and about 80,000 on display.
 * **Go at opening or in the last two hours.** The V&A, the Natural History Museum and the British Museum are all substantially quieter before 11am and after 4pm.
-* **Use the station tunnel.** From South Kensington station the subway runs to the Natural History Museum's Subway Gate, and brings you out on the museums' side of the road for the V&A and Science Museum.
+* **Use the station tunnel.** From South Kensington station the subway runs to the Natural History Museum's Subway Gate, and brings you out on the museums' side of the road for the V&A and Science Museum. To be first through the doors, [stay in South Kensington](/articles/where-to-stay-south-kensington/), a few minutes' walk from all three.
 * **Free does not mean no booking.** Several still ask for a ticket at busy periods, and turning up without one on a Saturday can mean a wait.
 * **The temporary exhibitions are the ticketed part**, and they are where the queues are.
 * **Lates.** The V&A, the Science Museum, the Natural History Museum and the Wellcome Collection all run evening openings, usually monthly and usually free.

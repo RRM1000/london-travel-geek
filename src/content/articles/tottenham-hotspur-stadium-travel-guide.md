@@ -5,7 +5,7 @@ description: "Why there is no stadium car park, which of the four stations to us
 heroImage: "../../assets/articles/tottenham-hotspur-stadium-travel-guide/tottenham-hotspur-stadium-exterior.jpg"
 heroImageAlt: "An aerial view of Tottenham Hotspur Stadium's curved glass and steel exterior, its retractable roof open, surrounded by the residential streets of N17"
 publishedAt: 2026-07-18
-updatedAt: 2026-11-12
+updatedAt: 2026-11-15
 reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
@@ -274,6 +274,7 @@ Visiting (away) supporters use entrances 11 and 12, in blocks 114–118 in the s
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🛏️ **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)**
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)**
+- 🏟️ **[London Stadium Travel Guide](/articles/london-stadium-travel-guide/)** — West Ham's ground at Stratford, which has almost no parking of its own
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — including which London venues take no cash at all

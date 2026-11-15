@@ -5,7 +5,7 @@ description: "The family hotels London's parents, bloggers and the travel press 
 heroImage: "../../assets/articles/best-family-hotels-london/family-reading-in-bed.jpg"
 heroImageAlt: "A father reading a red picture book to two young children on a double bed, seen through an open bedroom door"
 publishedAt: 2026-09-18
-updatedAt: 2026-11-12
+updatedAt: 2026-11-15
 reviewBy: 2026-11-12
 sites: [london]
 canonicalSite: london
@@ -214,7 +214,7 @@ Family Hotel Expert, who stayed, describes a split-level family room: "a bedroom
 
 *The Ampersand Hotel, Harrington Road.*
 
-The Ampersand's own site names the Science Family Suite, "thoughtfully created for families, the suite draws inspiration from the neighbouring Science Museum." Mumsnet and Family Traveller both note the museum-themed afternoon teas (a Science Afternoon Tea with dinosaur biscuits), a games room with a ping pong table, and interconnecting rooms as an alternative to the suite. It is two minutes from South Kensington station and three from the Natural History Museum, with the Science Museum and the V&A a short walk further. There is no pool. The suite is one specific room, not a category, so check it is the one being offered before paying a family-suite rate.
+The Ampersand's own site names the Science Family Suite, "thoughtfully created for families, the suite draws inspiration from the neighbouring Science Museum." Mumsnet and Family Traveller both note the museum-themed afternoon teas (a Science Afternoon Tea with dinosaur biscuits), a games room with a ping pong table, and interconnecting rooms as an alternative to the suite. It is two minutes from South Kensington station and three from the Natural History Museum, with the Science Museum and the V&A a short walk further. There is no pool. The suite is one specific room, not a category, so check it is the one being offered before paying a family-suite rate. Our [South Kensington hotel guide](/articles/where-to-stay-south-kensington/) compares it with the area's other hotels, from hostel beds up.
 
 ### Hilton London Metropole
 

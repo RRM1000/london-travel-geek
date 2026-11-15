@@ -5,7 +5,7 @@ description: "A wall recording ordinary people who died saving strangers, a tunn
 heroImage: "../../assets/articles/hidden-london-secret-places/st-dunstan-in-the-east.jpg"
 heroImageAlt: "The Gothic window tracery of St Dunstan in the East standing roofless, ivy growing over the walls and planting along the base"
 publishedAt: 2026-09-02
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
@@ -110,7 +110,7 @@ A **narrow channel of water running through Wapping between Tobacco Dock and Sha
 
 **Wapping Wood** runs alongside it, planted on the filled dock itself, and the tower on the skyline as you look north-west is **Hawksmoor's St George in the East**. The whole stretch takes about fifteen minutes end to end.
 
-**Free and open at all times.** It is a residential backwater, so there is nothing to buy or book. Wapping station is at the southern end and Shadwell at the northern. The trees along the water turn in October.
+**Free and open at all times.** It is a residential backwater, so there is nothing to buy or book. Wapping station is at the southern end and Shadwell at the northern. The trees along the water turn in October. It is stop five on our [riverside pub walk from Wapping to Canary Wharf](/articles/wapping-canary-wharf-walk/), between the Captain Kidd and the Prospect of Whitby.
 
 ![The Ornamental Canal in Wapping, with still water reflecting autumn leaves, brick warehouse-style housing on both banks and a church tower in the distance](../../assets/articles/hidden-london-secret-places/wapping-ornamental-canal.jpg)
 

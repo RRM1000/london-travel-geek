@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 publishedAt: 2026-06-07
-updatedAt: 2026-11-12
+updatedAt: 2026-11-15
 reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
@@ -305,5 +305,6 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywi
 - 📺 **[National Television Awards Tickets](/articles/national-television-awards-tickets/)** — seat prices and the red carpet for the awards night held at The O2
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)** — the equivalent guide for London's other major arena, for comparison
+- 🏟️ **[London Stadium Travel Guide](/articles/london-stadium-travel-guide/)** — three Jubilee line stops away at Stratford, for West Ham, athletics and stadium concerts
 - 💰 **[Money in London: Cash, Cards and ATMs](/articles/money-in-london/)** — including which London venues take no cash at all
 - 🎟️ **[Exhibitions and Conventions in London](/articles/exhibitions-conventions-london/)** — what's on next door at ExCeL, across the cable car

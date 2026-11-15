@@ -3,7 +3,7 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-09
+updatedAt: 2026-11-15
 reviewBy: 2026-11-20
 sites:
   - london
@@ -35,20 +35,18 @@ heroImageAlt: "An aerial night view over Hyde Park Winter Wonderland showing the
 
 Half a million £1 tickets get people through the gate; the ice rink is £19.25 at peak, the circus £19.80, and a two-person ice-sculpting station £78.65. This guide lists every published price.
 
----
-
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [London's other Christmas markets](/articles/christmas-markets-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
-
 ## The short version
 
-- **Dates:** 19 November 2026 – 3 January 2027. **Closed Christmas Day only.**
+- **Dates:** Thursday 19 November 2026 to Sunday 3 January 2027. **Opening day starts at 12pm. Closed Christmas Day only.**
 - **1 December:** closed to the public until 2pm for Winter Wishes, a free low-sensory morning for invited groups.
 - **Hours:** closes **10pm** every night, **last entry 21:30**. Most days open 10am, but a long list of quieter dates open at 11am or noon.
-- **Entry:** **£1 / £5.50 / £8.25** in advance, booking fees included. More on the door.
+- **Entry:** everyone needs a timed ticket, under-2s included (free). **£1 / £5.50 / £8.25** in advance on the [official tickets page](https://hydeparkwinterwonderland.com/tickets-guide/), booking fees included. More on the door, and no re-entry.
 - **The money trick:** spend **£25 online in one transaction** and entry is free.
 - **Quietest:** Monday to Wednesday daytime, late November, which is also the cheapest.
 - **Free inside:** Santa's Grotto, all live music, the Christmas Market, the light arches, every bar to walk into.
 - **Everything else costs**, including every ride.
+
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [London's other Christmas markets](/articles/christmas-markets-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
 
 ![The Bavarian-style entrance gate to Hyde Park Winter Wonderland, with a working clock tower and illuminated stars above the sign, and the lit arches of Luminarie Lane visible through the arch](../../assets/articles/hyde-park-winter-wonderland/entrance-gate.jpg)
 

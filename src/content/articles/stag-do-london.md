@@ -3,7 +3,7 @@ title: "Stag Do in London (2026): Activities, Prices, Where to Stay and How to P
 seoTitle: "Stag Do London 2026: Real Prices, Rules & Where to Stay"
 description: "Cirque le Soir turns away all-male groups, Swift refuses stag parties outright and Bodean's has closed. Prices, group limits and door policies for activities, bars and where to stay."
 publishedAt: 2026-07-05
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2026-12-26
 sites:
   - london
@@ -125,7 +125,7 @@ The karting venue that publishes a price and takes a group in central London is 
 
 ### The doors that will not open
 
-**Swift refuses stag parties at all three London bars** — Soho, Borough and Shoreditch: *"Sorry, but we are unable to accommodate any stag or hen parties."* It operates a **21-and-over policy at all its venues** and asks guests to **"leave your Arsenal replica kit at home."** Swift Soho will not take a booking greater than six.
+**Swift refuses stag parties at all three London bars** — Soho, Borough and Shoreditch: *"Sorry, but we are unable to accommodate any stag or hen parties."* It operates a **21-and-over policy at all its venues** and asks guests to **"leave your Arsenal replica kit at home."** Swift Soho will not take a booking greater than six. The ban covers hen parties too, and the [hen do guide](/articles/hen-do-london/) prices the same activities for a group of twelve.
 
 **Cirque le Soir on Ganton Street states that groups must be mixed and that all-male groups may be turned away.** It is 19-plus on Monday and Wednesday and 20-plus at weekends, and takes tables only by phone or WhatsApp.
 
