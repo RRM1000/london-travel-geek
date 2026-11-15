@@ -108,7 +108,7 @@ The national collection of international modern art inside Giles Gilbert Scott's
 
 The permanent collection is free and arranged thematically rather than chronologically. **Special exhibitions are ticketed.**
 
-**The Blavatnik Building has a free upper-level view** across the river to St Paul's.
+**The Blavatnik Building has a free upper-level view** across the river to St Paul's. Our [Tate Modern guide](/articles/tate-modern-guide/) has the current exhibitions, opening hours and a route by level.
 
 <div data-stay-strip></div>
 

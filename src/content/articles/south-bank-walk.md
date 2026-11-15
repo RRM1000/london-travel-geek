@@ -144,7 +144,7 @@ Next door is the **Oxo Tower**, whose lettered windows exist because 1930s regul
 
 The **Turbine Hall** is 3,300 square metres with a commissioned installation most of the year. The collection is free; only the temporary exhibitions are ticketed.
 
-**Open 10am to 6pm Sunday to Thursday, and 10am to 9pm on Friday and Saturday**, so it works as an evening plan.
+**Open 10am to 6pm Sunday to Thursday, and 10am to 9pm on Friday and Saturday**, so it works as an evening plan. The [Tate Modern guide](/articles/tate-modern-guide/) covers the exhibitions, the free displays by level and the Level 10 view.
 
 ## 8. The Millennium Bridge and Shakespeare's Globe
 

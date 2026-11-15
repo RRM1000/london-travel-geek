@@ -96,7 +96,7 @@ The irony: looking *at* St Paul's from here is free, and climbing *up* St Paul's
 
 The top floor of the Blavatnik Building, and a cafe bar, not a viewing platform — coffee, tea and snacks, tables by the glass, and nobody checking whether you buy anything. The river, **St Paul's**, the Millennium Bridge and the City cluster fill the north side; **Canary Wharf** sits away to the east.
 
-**The hours are the reason to come.** Level 10 runs to **9pm on Fridays and Saturdays** and 6pm the rest of the week, which makes it the only free viewpoint on the south bank that catches a summer sunset without a ticket. Last orders at the bar are 45 minutes before closing.
+**The hours are the reason to come.** Level 10 runs to **9pm on Fridays and Saturdays** and 5pm the rest of the week, which makes it the only free viewpoint on the south bank that catches a summer sunset without a ticket. Last orders are 16:30 Sunday to Thursday and 20:15 Friday and Saturday. The rest of the building is in our [Tate Modern guide](/articles/tate-modern-guide/).
 
 Access is **by lift only**, from Levels 0 to 4 of the Blavatnik Building — not the Turbine Hall side, which is the wrong building and the standard way to get lost here.
 

@@ -159,7 +159,7 @@ Other productions end in the first fortnight: **Into the Woods** at the Noël Co
 
 ### Closing in the first half of January
 
-- **Frida: The Making of an Icon**, Tate Modern, to **3 January**.
+- **Frida: The Making of an Icon**, [Tate Modern](/articles/tate-modern-guide/), to **3 January**.
 - **Windrush Food Culture**, National Maritime Museum, free, to **3 January**.
 - **The Music is Black: A British Story**, V&A East Museum, to **10 January**, £22.50 on weekdays and £24.50 at weekends.
 - **Rising Voices: Contemporary Art from Asia, Australia and the Pacific**, V&A South Kensington, to **10 January**, £17.

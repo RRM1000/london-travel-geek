@@ -221,7 +221,7 @@ St Paul's Cathedral, St Paul's Churchyard, London EC4M 8AD.
 ## What is nearby
 
 - **[One New Change roof terrace](/articles/best-views-london/)** looks straight at the dome and is free.
-- **The Millennium Bridge** runs from below the Cathedral to Tate Modern and the South Bank, which our [South Bank walk](/articles/south-bank-walk/) and [South Bank area guide](/articles/south-bank-area-guide/) cover.
+- **The Millennium Bridge** runs from below the Cathedral to Tate Modern and the South Bank, which our [South Bank walk](/articles/south-bank-walk/) and [South Bank area guide](/articles/south-bank-area-guide/) cover. For what is on once you cross, see our [Tate Modern guide](/articles/tate-modern-guide/).
 - **The [City of London walk](/articles/city-of-london-walk/)** goes from Bank to the Tower of London and Tower Bridge, and the [City of London area guide](/articles/city-of-london-area-guide/) covers St Paul's, Smithfield and the Roman remains.
 - **The [Tower of London](/articles/tower-of-london-guide/)** and **[Tower Bridge](/articles/tower-bridge-guide/)** are the two big sights downriver.
 - **[Westminster Abbey](/articles/westminster-abbey-guide/)** is the other cathedral-scale church with free Evensong, upriver.

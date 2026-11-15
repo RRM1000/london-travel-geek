@@ -26,7 +26,7 @@ faq:
   - q: "Which gallery is best for a short visit?"
     a: "The Courtauld at Somerset House and the Wallace Collection are both single-building collections you can do in ninety minutes — unlike the National Gallery, which cannot be done in a day."
   - q: "Are the Tate galleries connected?"
-    a: "Yes — the Tate Boat runs along the Thames between Tate Britain and Tate Modern every 20 to 30 minutes during gallery hours, stopping at the London Eye. It is a river bus rather than a tour, and Travelcard holders get a discount."
+    a: "Yes — the Tate Boat runs along the Thames between Tate Britain and Tate Modern every 30 minutes, stopping at the London Eye. It is a river bus rather than a tour, and Travelcard holders get a discount."
 ---
 
 London's galleries divide into the national collections that cost nothing, the commercial spaces that also cost nothing and are far less busy, and a handful of house collections you can actually finish.
@@ -65,7 +65,7 @@ The national collection of international modern art inside Giles Gilbert Scott's
 
 **The collection is free and needs no booking.** Only the big temporary exhibitions are ticketed, and members go into those free without booking.
 
-**Level 10 in the Blavatnik Building is free too**: a cafe bar looking over the river, St Paul's and the City. It keeps the gallery's hours, so on **Fridays and Saturdays it runs to 9pm**.
+**Level 10 in the Blavatnik Building is free too**: a cafe bar looking over the river, St Paul's and the City. It is open until 5pm Sunday to Thursday and **9pm on Fridays and Saturdays**. More in our [Tate Modern guide](/articles/tate-modern-guide/).
 
 **Bankside SE1 9TG.** Southwark and Blackfriars are five minutes; the Millennium Bridge puts you at St Paul's in three.
 
@@ -115,7 +115,7 @@ The national collection of British art — five hundred years of it, from Tudor 
 
 **Free and open every day with no booking needed.** Only special exhibitions are ticketed.
 
-**The Tate Boat runs from the pier outside to Tate Modern every 20 to 30 minutes during gallery hours.** It is a river bus rather than a tour, takes about 18 minutes and accepts contactless.
+**The Tate Boat runs from the pier outside to Tate Modern every 30 minutes.** It is a river bus rather than a tour, takes about 18 minutes and accepts contactless.
 
 **Millbank SW1P 4RG.** Pimlico is five minutes' walk and Westminster about fifteen along the river.
 
@@ -399,7 +399,7 @@ Headset reconstructions you **walk through rather than watch** — the Colosseum
 
 ## What to know
 
-* **The Tate Boat** connects Tate Britain and Tate Modern every 20 to 30 minutes during gallery hours, stopping at the London Eye. Travelcard holders get a discount.
+* **The Tate Boat** connects Tate Britain and Tate Modern every 30 minutes, stopping at the London Eye. Travelcard holders get a discount.
 * **Friday late openings** are the quietest slots at the National Gallery and Tate Modern.
 * **Special exhibitions are ticketed** even inside free galleries — typically £18–£25, and they book out at weekends.
 * **The Serpentine Pavilion** is only up from roughly June to October.

@@ -41,7 +41,7 @@ Every hotel in this guide is within a few minutes' walk of the Thames path betwe
 
 **Waterloo and Lower Marsh** sit behind the station. This is the transport end: four Tube lines, the mainline to Windsor and the south-west, and the Old Vic and Young Vic theatres on The Cut. Lower Marsh is a street of cafés and pubs one block from the concourse, and Lambeth North on the Bakerloo line is the quieter station for the southern edge.
 
-**Blackfriars Road and Bankside** runs from the river down to Southwark station, with Tate Modern and the Globe on the water. Most of the hotels in this guide are here. Blackfriars Road itself is a wide bus route; the lanes behind the Globe are not.
+**Blackfriars Road and Bankside** runs from the river down to Southwark station, with [Tate Modern](/articles/tate-modern-guide/) and the Globe on the water. Most of the hotels in this guide are here. Blackfriars Road itself is a wide bus route; the lanes behind the Globe are not.
 
 **Borough and the west side of London Bridge** has Borough Market, Southwark Cathedral and London Bridge station. East of the market is Bermondsey territory, and our [Bermondsey and London Bridge guide](/articles/where-to-stay-bermondsey/) covers the hotels there, including **Shangri-La The Shard** on top of the station.
 
