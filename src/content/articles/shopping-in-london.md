@@ -196,6 +196,10 @@ Prices span a wide range.
 * **Broadgate**, by Liverpool Street: shops and restaurants around a covered circle among the City's offices. It works to office hours: busiest at weekday lunchtime and very quiet at the weekend.
 * **Brent Cross** and **Bluewater**: big, out of town, for volume shopping.
 
+![The atrium of Westfield London under its lattice glass roof, hung with purple and orange light globes, with fairy lights on the balconies and the Vue cinema on the top floor](../../assets/articles/shopping-in-london/westfield-london-atrium.jpg)
+
+*Westfield London, White City.*
+
 ![The covered arcade at Broadgate Central, with shops on two levels and tables on the lower walkway](../../assets/articles/shopping-in-london/broadgate-central.jpg)
 
 ### The two outlets
@@ -265,10 +269,13 @@ The percentages are off list price rather than off what the item last sold for, 
 
 **Shop on a weekday morning.** Saturday afternoon on Oxford Street has the same shops as a weekday, with more people in them.
 
+**Black Friday is Friday 27 November 2026.** Our [Black Friday guide](/articles/black-friday-london/) has the late-opening hours, Bicester Village and the outlets, and how to avoid the crowds.
+
 ---
 
 ## Continue planning your London trip
 
+- 🏷️ **[Black Friday in London](/articles/black-friday-london/)** — late hours, the outlets and the deals on 27 November
 - 🏪 **[The Best Markets in London](/articles/best-london-markets/)** — every market, and what day it runs
 - 🍽️ **[The Best Street Food in London](/articles/best-street-food-london/)** — the food halls, compared
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — including a day that costs nothing

@@ -164,6 +164,7 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 
 * **Bicester Village.** Direct from **London Marylebone in 56 minutes** on Chiltern Railways, and the station is a **two-minute walk** from the Village. **Oyster and contactless are not valid** on that line, so buy a ticket; there is a Bicester kiosk at Marylebone, open 08:45–16:30 daily. Our [Bicester Village guide](/articles/bicester-village-day-trip/) covers the coach and the trips as well.
 * **The sales.** Late December into January, and late June into July — deeper than the year-round outlet discounts, and no shipping to arrange.
+* **Black Friday.** Friday 27 November 2026. Our [Black Friday guide](/articles/black-friday-london/) has the opening hours, the outlets and the theatre deals.
 
 ---
 
@@ -175,6 +176,7 @@ First, the arithmetic almost everyone gets wrong. **VAT is already inside the pr
 
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — every street, market and store worth your time
 - 🏬 **[Oxford Street](/articles/oxford-street-guide/)** — the traffic-free stretch, the department stores and the streets off it
+- 🏷️ **[Black Friday in London](/articles/black-friday-london/)** — where to shop on 27 November and which stores open late
 - 🏪 **[The Best Markets in London](/articles/best-london-markets/)** — and what day each one actually runs
 - ✈️ **[Heathrow to Central London](/articles/heathrow-airport-to-london/)** — every route, and what each costs
 - 🚆 **[Gatwick to London](/articles/gatwick-airport-to-london/)** — the fast train against the cheap coach

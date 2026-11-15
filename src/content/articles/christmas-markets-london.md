@@ -307,6 +307,8 @@ Three ticketed shopping fairs run under glass roofs in November.
 
 **Old Spitalfields**, **Camden** and **Canopy Market** at King's Cross trade all year and add Christmas to what is already there without building a Christmas market. Days, hours and what each is for are in our [best London markets](/articles/best-london-markets/) guide. For gifts from shops rather than stalls, with Christmas dates and prices, see [gifts and souvenirs from London](/articles/london-gifts-souvenirs/).
 
+**Shopping the sales too?** Our [Black Friday guide](/articles/black-friday-london/) covers 27 November.
+
 **Carrying on:** the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market. Most chalet markets close on 3 January; what stays open after that is in [things to do in London in January](/articles/things-to-do-in-london-in-january/).
 
 <div data-submit-event></div>

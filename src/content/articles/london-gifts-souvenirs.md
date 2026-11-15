@@ -211,7 +211,7 @@ The dates below are for 2026.
 - **Fortnum & Mason:** open 9am to 10pm from 14 to 23 December, 9am to 6pm on 24 December, and closed on 25 and 26 December. Its Christmas hampers include The Nice List Gift Box at £50 and the Burlington Hamper at £250.
 - **Liberty:** a Christmas Shop on the fourth floor and online. The shop is closed on Christmas Day.
 
-For gifts from the stalls, see [Christmas markets in London](/articles/christmas-markets-london/). The lights, grottos and shows are in [Christmas in London](/articles/christmas-in-london/).
+For the November sales, see our [Black Friday guide](/articles/black-friday-london/). For gifts from the stalls, see [Christmas markets in London](/articles/christmas-markets-london/). The lights, grottos and shows are in [Christmas in London](/articles/christmas-in-london/).
 
 ## What to skip
 
