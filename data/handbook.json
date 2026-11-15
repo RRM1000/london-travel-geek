@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "inProgress": [],
   "nextUp": [
     "Live deal pages (decided 11 Nov: later). LTG is fully static, so a Sheet edit only reaches the site after a rebuild and push. Options: (1) let the weekly deals check build and push its own fixes; (2) build deal tables from the Food Deals tab at build time and trigger a Vercel deploy hook (uses build minutes); (3) recommended: add the Vercel adapter and render only the four deal pages on demand with a 24-hour cache, reading the Food Deals tab, so Sheet edits go live within a day with no push and no build minutes.",
@@ -26,24 +26,16 @@
     "Wire in Trainline links once you have joined its affiliate programme."
   ],
   "waitingOnRob": [
-    {
-      "what": "CBG: Request indexing in Search Console for 10 hubs: bangkok, tokyo, florence, istanbul, seville, dubrovnik, kyoto, reykjavik, tallinn, warsaw (citybreakgeek.com/<city>/)."
-    },
-    {
-      "what": "Food deals hub nav: the 'Deals' menu is capped at four, so 'Off-peak restaurant apps' was swapped for 'Food deals'. Keep, or restore and drop another?"
-    },
-    {
-      "what": "Push when ready: ltg-nov-dates, cbg-nov-weak and ltg-food-deals (all built and spot-checked, none pushed)."
-    },
-    {
-      "what": "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek); check City Break Geek is listed as a website in the CJ account."
-    },
-    {
-      "what": "Mediavine launch (application 18393): reply to Jacob that the sidebar is no longer sticky; in the dashboard finish ads.txt swap, Payment Profile, Privacy Policy link, GA4 connection and the consent platform; check the application domain reads londontravelgeek.com, not .co.uk."
-    },
-    {
-      "what": "ltg-black-friday branch (993bc93b, 775f7dae) still to push, before Black Friday week."
-    },
+    "Tube status page: add a fixed list of the eight announced RMT strike dates to the Strikes panel? (TfL's feed only shows them a few days ahead.)",
+    "U2 at Tottenham is four nights in src/data/events.json; write the same fix into the Events Sheet tab so the next export doesn't revert it?",
+    "Le Relais de Venise L'Entrecôte (Marylebone): set-menu price isn't published; Rob to supply it before it goes in the food deals data.",
+    "Food deals hub Short Version names short-lived offers (Zizzi until 20 Nov, Las Iguanas until 26 Nov): keep and refresh, or switch to standing offers?",
+    "CBG: Request indexing in Search Console for 10 hubs: bangkok, tokyo, florence, istanbul, seville, dubrovnik, kyoto, reykjavik, tallinn, warsaw (citybreakgeek.com/<city>/).",
+    "Food deals hub nav: the 'Deals' menu is capped at four, so 'Off-peak restaurant apps' was swapped for 'Food deals'. Keep, or restore and drop another?",
+    "Push when ready: ltg-nov-dates and cbg-nov-weak (built and spot-checked, not pushed). ltg-food-deals went live on 12 Nov.",
+    "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek); check City Break Geek is listed as a website in the CJ account.",
+    "Mediavine launch (application 18393): reply to Jacob that the sidebar is no longer sticky; in the dashboard finish ads.txt swap, Payment Profile, Privacy Policy link, GA4 connection and the consent platform; check the application domain reads londontravelgeek.com, not .co.uk.",
+    "ltg-black-friday branch (993bc93b, 775f7dae) still to push, before Black Friday week.",
     "Display ads, Journey by Mediavine: accepted 30 Oct. Send the ad script code and the ads.txt file (or redirect link) from the Mediavine dashboard, then the install can start.",
     "Spot-check two or three Ticketmaster links added on the October guide and the jazz festival page (Ticketmaster blocks our scripts, so they came from the listings feed unopened).",
     "Hotels.com check: LEGOLAND's three hotels, Thorpe Shark Cabins, Chessington Safari and Azteca hotels, Dean Street Townhouse, Redchurch Townhouse and The Twenty Two link to their own sites; send Hotels.com links if it sells them.",
@@ -82,6 +74,26 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-12",
+      "what": "LIVE (pushed 9bbfc396): ltg-food-deals, ltg-drey and ltg-event-radar-2026-11-12 merged and pushed after a full build (541 pages). Food deals hub, happy hour and all-you-can-eat pages, deal boxes in every guide, The Drey, and the event radar updates are all live."
+    },
+    {
+      "date": "2026-11-12",
+      "what": "Mediavine ads launched: GA4 property 548094096 switched to New York time and connected in the Mediavine dashboard; the verbatim 'Mediavine Programmatic Advertising (Ver 1.1)' block added to /privacy/ (pushed 5560193a). 30-day trial against affiliate clicks runs 12 Nov to 11 Dec 2026. GA4 days now start 5am London time."
+    },
+    {
+      "date": "2026-11-12",
+      "what": "The Drey (Earl's Court, Hotels.com ho3807684064) added to where-to-stay-kensington and best-family-hotels-london (new 'Cheaper rooms for four' section, £243 Nest for four on Wed 18 Nov 2026), with four press photos, its own site linked beside Hotels.com, and its guest-app partner offers. Reply drafted to the PR agency."
+    },
+    {
+      "date": "2026-11-12",
+      "what": "Event radar (5-12 Nov emails): RMT Tube strike dates (8 days, 26 Nov 2026 to 25 Feb 2027) on five transport and month pages; U2 four nights at Tottenham; Fall Out Boy, Stray Kids, Pet Shop Boys at The O2; Charterhouse festive tea; Mercato Battersea."
+    },
+    {
+      "date": "2026-11-12",
+      "what": "Food deals: Itsu's half price in the last half hour (itsu.com/faq) and a new End-of-day reductions section on the hub with Too Good To Go; Mucci's flat-price menu in the data. A standalone end-of-day page was judged not worth it: only Itsu is confirmed on an operator's own site (the 2017 Reddit list checked)."
+    },
     {
       "date": "2026-11-11",
       "what": "Deal lines in every guide (ltg-food-deals, unpushed): src/lib/remark-venue-deals.mjs adds a **Deal:** line with an Offer details link under any restaurant heading that has a current deal in data/food-deals/deals.json, at build time. 115 entries across 38 guides; expired or changed deals drop out automatically."
