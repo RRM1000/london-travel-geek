@@ -170,10 +170,6 @@ The Shard's own site shows the day's sunset on every page. In December a slot at
 
 *Tower Bridge and the river towards Canary Wharf at dusk. Photo: [Lewis Clarke](https://commons.wikimedia.org/wiki/File:London_,_Southwark_-_London_Scenery_from_The_Shard_-_geograph.org.uk_-_4819860.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-![A red-orange sunset over the Thames and the BT Tower, seen through the glass of The Shard](../../assets/articles/the-shard-guide/sunset-level-32.jpg)
-
-*Sunset over the Thames, seen from level 32. Photo: [Gareth Williams](https://commons.wikimedia.org/wiki/File:London_Sunset_from_the_32nd_Floor_of_The_Shard_(48468899172).jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
 Look west for the London Eye and Westminster, north for the City and east for Tower Bridge and Canary Wharf. The winter sun sets to the south-west.
 
 ![The view west at dusk from The Shard, with Big Ben, Waterloo station and the London Eye](../../assets/articles/the-shard-guide/westminster-london-eye-dusk.jpg)
