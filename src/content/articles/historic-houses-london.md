@@ -44,7 +44,7 @@ London's historic interiors range from royal palaces to a chapel that is the las
 | **Covent Garden** | St Paul's, the Actors' Church |
 | **Westminster** | Westminster Abbey, Churchill War Rooms, Buckingham Palace |
 | **Fitzrovia** | The Fitzrovia Chapel, All Saints Margaret Street |
-| **Greenwich** | Old Royal Naval College, The Painted Hall, Cutty Sark |
+| **Greenwich** | Old Royal Naval College, The Painted Hall, [Cutty Sark and the Queen's House](/articles/cutty-sark-national-maritime-museum-guide/) |
 | **Chelsea & Kensington** | Royal Hospital Chelsea, Kensington Palace, Leighton House |
 | **Further out** | Hampton Court Palace, Eltham Palace, Ham House, Kenwood |
 
@@ -372,3 +372,4 @@ Every English monarch since 1066 has been crowned here, and more than three thou
 - 🎪 **[Free Things to Do in London](/free/)**
 - 👑 **[Westminster Area Guide](/articles/westminster-area-guide/)**
 - ⛵ **[Greenwich Area Guide](/articles/greenwich-area-guide/)**
+- ⚓ **[Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/)** — the free Queen's House and the ship.

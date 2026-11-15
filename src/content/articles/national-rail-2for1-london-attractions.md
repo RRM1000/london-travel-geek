@@ -124,7 +124,7 @@ There are more than a hundred London offers.
 | **The View from The Shard** | Advance booking | Book **24 hours ahead**; full-price general entry only. Offer listed until 31 December 2026 |
 | **London Transport Museum** | Pay at the door | Buy an **annual pass** and get a second day pass free |
 
-Also included: Cutty Sark, the Royal Observatory (closed from 2 November 2026), the Painted Hall at the Old Royal Naval College, Shakespeare's Globe tours, the Royal Albert Hall tour, the Charles Dickens Museum, Chelsea Physic Garden, the Household Cavalry Museum, Eltham Palace, Apsley House, the Chelsea, Arsenal, Spurs and Wembley stadium tours, and river trips with City Cruises and Thames Rockets.
+Also included: [Cutty Sark](/articles/cutty-sark-national-maritime-museum-guide/), the Royal Observatory (closed from 2 November 2026), the Painted Hall at the Old Royal Naval College, Shakespeare's Globe tours, the Royal Albert Hall tour, the Charles Dickens Museum, Chelsea Physic Garden, the Household Cavalry Museum, Eltham Palace, Apsley House, the Chelsea, Arsenal, Spurs and Wembley stadium tours, and river trips with City Cruises and Thames Rockets.
 
 **Paid exhibitions are included too**, at Tate Modern, Tate Britain and the National Gallery. They change with each show, so check the listing.
 
@@ -186,3 +186,4 @@ Our [transport costs guide](/articles/london-public-transport-costs-and-fares/) 
 - 🏰 **[Historic Houses in London](/articles/historic-houses-london/)**
 - 🌳 **[The Best Parks and Gardens in London](/articles/best-parks-gardens-london/)**
 - 💷 **[Is the London Pass Worth It?](/articles/london-pass-guide/)**
+- ⚓ **[Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/)** — Greenwich tickets, hours and the free museums beside the ship.

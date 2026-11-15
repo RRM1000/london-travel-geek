@@ -63,7 +63,7 @@ For where to stay and eat at either end, see the [Canary Wharf](/articles/canary
 | **8** | Greenwich Market | Free | Daily 10am–5.30pm |
 | **9** | Old Royal Naval College | Grounds free | Daily; Painted Hall ticketed |
 | **10** | National Maritime Museum | **Free** | Daily 10am–5pm |
-| **11** | Greenwich Park (the Royal Observatory is closed until summer 2027) | Park free | Gates 6am–8pm |
+| **11** | Greenwich Park (the Royal Observatory is closed; its Meridian Courtyard is due to reopen in summer 2027) | Park free | Gates 6am–8pm |
 | **+** | Wood Wharf and Eden Dock | Free | Always |
 | **+** | The Trafalgar Tavern | Free to look | Pub hours |
 
@@ -141,7 +141,7 @@ You go down through a glazed rotunda on the Isle of Dogs, walk five minutes unde
 
 ## 7. The Cutty Sark
 
-**You come up and it is directly in front of you**: the last surviving tea clipper, raised in a dry dock so you can walk underneath the hull. £22 adult, £11 child, daily 10am to 5pm (last entry 4.15pm).
+**You come up and it is directly in front of you**: the last surviving tea clipper, raised in a dry dock so you can walk underneath the hull. £22 adult, £11 child, daily 10am to 5pm (last entry 4.15pm). Tickets, discounts and winter events: [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/).
 If you are not going in, the ship is free to look at from the street, and **the Gipsy Moth** next to it has a big beer garden.
 
 ## 8. Greenwich Market
@@ -184,7 +184,7 @@ The **National Maritime Museum** holds **Nelson's Trafalgar coat**, with the bul
 
 The **Queen's House** is the building you saw framed in the gap from Island Gardens: Inigo Jones's villa, with the Armada Portrait of Elizabeth I and the **Tulip Stairs**, the first self-supporting spiral stair in Britain. Walking up them costs nothing.
 
-Do these before the hill rather than after.
+Do these before the hill rather than after. Galleries, exhibitions and what is on: [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/).
 
 <div data-stay-strip></div>
 
@@ -239,6 +239,7 @@ Start around 10am and you reach the market for lunch and the hill in the late af
 ## What to do with the rest of the day
 
 - **[The Greenwich area guide](/articles/greenwich-area-guide/)** — the O2, the river boats and where to eat.
+- **[Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/)** — tickets, hours, the free museums and the winter 2026/27 events.
 - **[Where to stay in Greenwich](/articles/where-to-stay-greenwich/)** — hotels by the Cutty Sark, in Blackheath and at Deptford Bridge, for a night at the walk's end.
 - **[The Canary Wharf area guide](/articles/canary-wharf-area-guide/)** — swimming, Eden Dock and Winter Lights.
 - **[Walks along the Thames](/articles/london-walks-along-the-thames/)** — more river stretches, including Rotherhithe to Greenwich.

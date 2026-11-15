@@ -142,7 +142,7 @@ A 10-minute river hop from Docklands to Greenwich.
 | **London Bridge City** | London Bridge (Northern, Jubilee) | Borough Market, The Shard, HMS Belfast |
 | **Tower Pier** | Tower Hill (District, Circle) | Tower of London, Tower Bridge |
 | **Canary Wharf Pier** | Canary Wharf (Elizabeth Line, Jubilee, DLR) | Docklands, Financial District, Museum of London Docklands |
-| **Greenwich Pier** | Cutty Sark (DLR) | Cutty Sark, Old Royal Naval College, Greenwich Market |
+| **Greenwich Pier** | Cutty Sark (DLR) | [Cutty Sark](/articles/cutty-sark-national-maritime-museum-guide/), Old Royal Naval College, Greenwich Market |
 | **North Greenwich Pier** | North Greenwich (Jubilee) | The O2 Arena, IFS Cloud Cable Car |
 | **Battersea Power Station Pier** | Battersea Power Station (Northern) | Battersea Power Station, Lift 109, Riverside Dining |
 
@@ -198,6 +198,7 @@ The [River Bus Comedy Night](https://www.thamesclippers.com/whats-on-and-offers/
 * 🚌 [How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
 * ♿ [Step-Free London](/articles/step-free-london/) – Accessible piers, stations and attractions
+* ⚓ [Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/) – tickets, hours and the free museums beside Greenwich Pier
 
 ---
 

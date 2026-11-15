@@ -133,7 +133,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **Madame Tussauds** | from £27.00 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **[Tower Bridge](/articles/tower-bridge-guide/)** | £18.00 | £9.00 | Child 5–15; under 5 free but needs a ticket |
-| **Cutty Sark** | £22.00 | £11.00 | |
+| **[Cutty Sark](/articles/cutty-sark-national-maritime-museum-guide/)** | £22.00 | £11.00 | |
 | **Royal Observatory Greenwich** | — | — | Temporarily closed for refurbishment |
 | **Kew Gardens** | £25.00–£28.00 | £2.00–£4.00 | £25 online, £28 at the gate; child flat rate |
 | **London Transport Museum** | £27.00 | **Free** | Under-18s free |
@@ -374,6 +374,7 @@ The baseline, and for most readers the answer. Book in advance, on the attractio
 
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
+- ⚓ **[Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/)** — Greenwich tickets and discounts.
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
 - 🚌 **[London Tour Buses Compared](/articles/london-tour-buses-compared/)**

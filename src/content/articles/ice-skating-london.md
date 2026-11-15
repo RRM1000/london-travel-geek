@@ -133,7 +133,7 @@ The palace itself, from the Tudor kitchens to the maze, is in our [Hampton Court
 
 *The rink after dark, with the Queen's House lit behind it.*
 
-**The rink is laid beside Inigo Jones's Queen's House**, inside the Maritime Greenwich World Heritage Site, with Canary Wharf across the river. The Queen's House itself is free, so you can go in before your session.
+**The rink is laid beside Inigo Jones's Queen's House**, inside the Maritime Greenwich World Heritage Site, with Canary Wharf across the river. The Queen's House itself is free, so you can go in before your session. Hours, the Santa's Grotto beside it and the free museums are in our [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/).
 
 **Eat and drink:** the Zero Degrees café beside the viewing area.
 

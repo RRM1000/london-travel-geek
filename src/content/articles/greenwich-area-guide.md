@@ -88,7 +88,7 @@ Greenwich has its own share of the commemorative plaques marking where notable p
 
 1. **Royal Observatory and the Prime Meridian** — Longitude zero, the Harrison marine chronometers, and the red time ball that has dropped at 13:00 since 1833. **Closed from 2 November 2026** for the First Light refurbishment; Royal Museums Greenwich says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January.
 2. **The view from Observatory Hill** — Free: the Naval College, the river, Canary Wharf and the City. It stays open when the Observatory closes.
-3. **Cutty Sark** — The last surviving tea clipper, dry-docked and raised so you can walk beneath the hull.
+3. **Cutty Sark** — The last surviving tea clipper, dry-docked and raised so you can walk beneath the hull. Tickets, the free museums beside it and winter events are in our [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/).
 4. **The Painted Hall** — Thornhill's ceiling in the Old Royal Naval College, nineteen years in the painting. Separate ticket; the chapel opposite is free.
 
 ![Looking straight up at the ornate painted dome ceiling of the Painted Hall in the Old Royal Naval College](../../assets/articles/greenwich-area-guide/painted-hall-ceiling.jpg)
@@ -126,7 +126,7 @@ The UNESCO core: four separate sites within five minutes of each other, some fre
 
 **Free:** the **National Maritime Museum**, with a sea-themed playground and a family offer; and the **Queen's House**, an Inigo Jones villa holding the art collection, with the Tulip Stairs — the first geometric self-supporting staircase in Britain — costing nothing to walk up.
 
-**Paid:** the **Cutty Sark**, **£22 adult and £11 child**, open daily 10am–5pm with last entry 4.15pm. And the **Old Royal Naval College's Painted Hall**.
+**Paid:** the **Cutty Sark**, **£22 adult and £11 child**, open daily 10am–5pm with last entry 4.15pm. And the **Old Royal Naval College's Painted Hall**. The [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/) has discounts, hours and the winter 2026/27 events.
 
 **At Christmas** an ice rink goes up beside the Queen's House, **18 November 2026 to 3 January 2027**; prices and the kids-skate-free Tuesdays are in our [London ice skating guide](/articles/ice-skating-london/).
 

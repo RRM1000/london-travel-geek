@@ -27,7 +27,7 @@ faq:
 
 Greenwich is a town of its own, in Zones 2 and 3: the Cutty Sark, the Old Royal Naval College, a covered market and a royal park with the Royal Observatory (closed from 2 November 2026) on the hill, all within a few minutes' walk of each other. Central London is a DLR ride or a train away.
 
-Our [Greenwich area guide](/articles/greenwich-area-guide/) covers the sights, the market and where to eat.
+Our [Greenwich area guide](/articles/greenwich-area-guide/) covers the sights, the market and where to eat. For tickets, hours and the free museums, see the [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/).
 
 > 💡 **The Short Version:** For the sights, stay in the **town centre**: **[ibis London Greenwich](hotelscom:179227)** is on Stockwell Street, a few minutes from the park gates and the market. For a family of four, **Novotel London Greenwich** sells rooms for four beside Greenwich station, and **Staycity** has one-bedroom apartments with kitchens on the same road. On a budget, **Zedwell Greenwich** is **£66 to £145** for a windowless room. For a village and a heath, not a high street, **The Clarendon** in Blackheath has free parking. For a show at The O2, see our guide to [where to stay near The O2](/articles/where-to-stay-near-the-o2/). And plan the late nights: **the DLR's last train from Bank leaves at 00:33**, and after that it is the 24-hour 188 bus.
 >
