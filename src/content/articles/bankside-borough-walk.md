@@ -274,7 +274,7 @@ The walk also works in reverse, from Tate Modern to London Bridge, which puts th
 
 ## Carry on walking
 
-- **[The South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)**: the riverside walk, which shares Tate Modern, the Globe and the cathedral with this one. From the cathedral, its last three stops run east past HMS Belfast to Tower Bridge.
+- **[The South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)**: the riverside walk, which shares Tate Modern, the Globe and the cathedral with this one. From the cathedral, its last three stops run east past [HMS Belfast](/articles/hms-belfast-guide/) to Tower Bridge.
 - **[The City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)**: starts at Bank, ten minutes east of St Paul's along Cheapside, where this walk finishes.
 
 ## What to do with the rest of the day

@@ -377,6 +377,7 @@ The baseline, and for most readers the answer. Book in advance, on the attractio
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
 - 🚌 **[London Tour Buses Compared](/articles/london-tour-buses-compared/)**
+- ⚓ **[HMS Belfast](/articles/hms-belfast-guide/)** — on the London Pass and the Explorer pass, with no reservation needed.
 - 🏰 **[Historic Houses in London](/articles/historic-houses-london/)**
 - 🚇 **[Oyster Card Guide](/articles/oyster-card-guide-london/)**
 - 📅 **[Three Days in London](/articles/three-days-in-london-itinerary/)**

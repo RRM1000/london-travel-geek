@@ -231,6 +231,12 @@ The mummies are why most children want to come. **Pick three things and leave**:
 
 The **glass floors in the high-level walkways** are what children come for, and a bus passing underneath your feet is the draw. The ticket also covers the Victorian engine rooms on the south side: the original coal-fired pumping engines that raised the bascules. **Adults are £18 and children aged 5 to 15 are £9, with under-5s free though they still need a ticket on the booking.** Open daily 09.30 to 18.00, last entry 17.00, and an hour covers it. **Watching the bridge lift from the pavement is free**, and the lift times are published on their site weeks ahead.
 
+### HMS Belfast
+
+*Adult £26.80, child (5–15) £13.40 · under-5s free · London Bridge · [full guide](/articles/hms-belfast-guide/)*
+
+A Second World War cruiser on the Thames where children climb ladders, sit in the Captain's chair and take part in free family activities every weekend and daily in school holidays. **It suits ages 5 and up who can manage ladders; pushchairs stay on the outer decks.** Allow at least three hours.
+
 ### The London Eye
 
 *Adult from £29 online, £39 walk-up · under-2s free · Waterloo*

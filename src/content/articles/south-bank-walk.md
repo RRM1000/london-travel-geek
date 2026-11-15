@@ -174,7 +174,7 @@ Then **Borough Market**.
 
 ## 10. HMS Belfast and Hay's Galleria
 
-**HMS Belfast** is a Second World War cruiser moored permanently in the Pool of London. It is ticketed, but free to look at.
+**HMS Belfast** is a Second World War cruiser moored permanently in the Pool of London. It is ticketed, but free to look at. Our [HMS Belfast guide](/articles/hms-belfast-guide/) has prices, hours and what is aboard.
 
 Beside it, **Hay's Galleria** is a covered Victorian dock with a glass roof, now shops and cafés around a kinetic sculpture of a ship. **Free, covered and warm**, it is the shelter stop if the weather turns in the last mile.
 
