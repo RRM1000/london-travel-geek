@@ -88,7 +88,7 @@ Westminster has its own share of the commemorative plaques marking where notable
 
 ## Top sights and activities
 
-1. **The Elizabeth Tower and Palace of Westminster** — Best photographed from the far side of Westminster Bridge. The **Big Ben tower climb is open to everyone at £55** (age 11+, 300-plus steps); it is the **free** guided tour that is UK residents only, booked through an MP. Paid guided and audio tours are open to all.
+1. **The Elizabeth Tower and Palace of Westminster** — Best photographed from the far side of Westminster Bridge. The **Big Ben tower climb is open to everyone at £55** (age 11+, 300-plus steps); it is the **free** guided tour that is UK residents only, booked through an MP. Paid guided and audio tours are open to all: see the [Houses of Parliament tour guide](/articles/houses-of-parliament-tour-guide/).
 2. **Westminster Abbey** — Nearly a thousand years of coronations, royal tombs and Poets' Corner. Closed to sightseers on Sundays. Allow two hours, and take the included audio guide.
 
 ![Westminster Abbey's twin west towers rising above a red London bus in the foreground](../../assets/articles/westminster-area-guide/westminster-abbey-towers.jpg)
@@ -116,7 +116,7 @@ The green at the centre, ringed by twelve statues, with **Westminster Abbey** on
 
 **The statues are the reason to linger.** Churchill scowling at Parliament, Mandela, Gandhi, Lincoln — and since 2018 **Millicent Fawcett**, the first woman commemorated here and the only statue in the square made by a woman.
 
-**Big Ben is the tower, not the bell.** The Elizabeth Tower reopened after five years of restoration and the bell chimes on the hour; **tours are for UK residents only**, arranged through an MP.
+**Big Ben is the tower, not the bell.** The Elizabeth Tower reopened after five years of restoration and the bell chimes on the hour; **the free tour is for UK residents only**, arranged through an MP, while the paid tours and the Big Ben climb are open to everyone. Dates, prices and security are in the [Houses of Parliament tour guide](/articles/houses-of-parliament-tour-guide/).
 
 > ⚠️ **The square is often partly fenced** for ceremonies, works or demonstrations, and the pavements around Parliament are subject to short-notice closures. A specific photograph is never guaranteed.
 

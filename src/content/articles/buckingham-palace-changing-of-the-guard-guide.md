@@ -232,6 +232,7 @@ For a complete 11-stop self-guided route connecting Buckingham Palace and St Jam
 
 - 🚶 **[A Walk Through Westminster: 11 Stops from Big Ben to Trafalgar Square](/articles/westminster-walk/)** — our step-by-step self-guided route through St James's Park, Buckingham Palace, The Mall and Horse Guards.
 - 🏛️ **[Westminster Area Guide](/articles/westminster-area-guide/)** — Whitehall, Westminster Cathedral's lift-served bell tower, Tate Britain and where to eat nearby.
+- 🏛️ **[Houses of Parliament Tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — Saturday and recess tours, the Big Ben climb and free debates, at the other end of the walk.
 - ⛪ **[Westminster Abbey Guide](/articles/westminster-abbey-guide/)** — £32 tickets, the £10 verger tour to Edward the Confessor's shrine, and free daily Evensong.
 - 🎖️ **[Churchill War Rooms Guide](/articles/churchill-war-rooms-guide/)** — the underground wartime bunker at the Clive Steps, directly on the edge of St James's Park.
 - 🏰 **[London's Historic Houses and Palaces](/articles/historic-houses-london/)** — Kensington Palace, Hampton Court, Eltham Palace and the £1 Universal Credit ticket scheme across London.

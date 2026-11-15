@@ -208,6 +208,7 @@ You don't have to pay the £32 entrance fee to hear the Abbey's choir. Choral Ev
 
 ## Continue planning your London trip
 
+- 🏛️ **[Houses of Parliament Tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — paid tours on Saturdays and in recess, the Big Ben climb, and free debates across Parliament Square.
 - 🏛️ **[Tower of London Guide](/articles/tower-of-london-guide/)** — tickets, the quieter afternoon, the Crown Jewels and the Norman White Tower.
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — the Abbey's Christmas concert and when carol service tickets are released.
 - 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — the sold-out Bayeux Tapestry, the New Year's Day Parade and the month's closures.

@@ -269,6 +269,7 @@ For maximum walking, base yourself in [Covent Garden](/articles/covent-garden-ar
 - 🗓️ **[Five Days in London](/articles/five-days-in-london-itinerary/)** — Greenwich by river, and the South Bank at half this pace
 - 🧭 **[How to Plan a London Itinerary](/articles/london-itineraries-by-days-and-interests/)** — how many days you actually need
 - 🎯 **[One-Day Plans by Interest](/articles/one-day-london-itineraries-by-interest/)**
+- 🏛️ **[Houses of Parliament Tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — tours run on Saturdays and in recess, so check the date before you plan a Westminster day.
 - 🏘️ **[Best London Areas to Visit](/articles/best-areas-to-visit-london/)**
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
