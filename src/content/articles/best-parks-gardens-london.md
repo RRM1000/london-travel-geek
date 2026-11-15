@@ -115,7 +115,7 @@ The view from the General Wolfe statue is free and sits outside the Royal Observ
 
 *Free · beside Hyde Park*
 
-Quieter and more formal than Hyde Park next door. The **Italian Gardens** are at the Lancaster Gate end, with the Serpentine Galleries, the Albert Memorial and, at the western edge, Kensington Palace.
+Quieter and more formal than Hyde Park next door. The **Italian Gardens** are at the Lancaster Gate end, with the Serpentine Galleries, the Albert Memorial and, at the western edge, Kensington Palace, whose gardens and Sunken Garden are free (see our [Kensington Palace guide](/articles/kensington-palace-guide/)).
 
 ![The still, fountain-fed pool of the Italian Gardens in Kensington Gardens, reflecting clouds](../../assets/articles/best-parks-gardens-london/kensington-gardens-italian-gardens.jpg)
 

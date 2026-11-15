@@ -198,6 +198,7 @@ The palace has cafés inside the gate, and picnics are allowed on the lawns in H
 - 🦌 **[Richmond Area Guide](/articles/richmond-area-guide/)** — the deer park, the river and Richmond Hill.
 - 🏛️ **[London's Historic Houses and Churches](/articles/historic-houses-london/)** — 17 more palaces, house museums and chapels to visit.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** — Historic Royal Palaces' other big ticket, in Zone 1.
+- 👑 **[Kensington Palace Guide](/articles/kensington-palace-guide/)** — the third Historic Royal Palaces site on the same membership, open Wednesday to Sunday.
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — every light trail, market and ice rink, Hampton Court included.
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)** — the Winter Palace and Festive Fayre dates against the rest of the month.
 - 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — the rink and Winter Palace's last day, Sunday 3 January.

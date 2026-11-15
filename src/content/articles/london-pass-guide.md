@@ -128,7 +128,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **Windsor Castle** | £32.00 | £16.00 | **£36.00 / £18.00 on the day** |
 | **Buckingham Palace State Rooms** | £35.00 | £17.50 | **£39.00 / £19.50 on the day** (summer 2027 prices); open 8 July to 26 September 2027; **not on the pass** |
 | **Hampton Court Palace** | £30.00 | £15.00 | £33.00 / £16.50 at weekends and bank holidays; from 28 November, Winter Palace prices are £33.00 / £16.50 weekdays and £36.00 / £18.00 at weekends |
-| **Kensington Palace** | £19.00 | £9.50 | £20.90 / £10.50 with donation, from 11 November |
+| **[Kensington Palace](/articles/kensington-palace-guide/)** | £13.00 from 18 November | £6.50 | £14.30 / £7.20 with donation; £16.00 / £8.00 from 25 November to 3 January |
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **Madame Tussauds** | from £27.00 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |

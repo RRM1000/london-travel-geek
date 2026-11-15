@@ -152,7 +152,7 @@ Queen Victoria's birthplace and childhood home, where **the rooms she grew up in
 
 **Parts are shut.** The **Queen's State Apartments are closed until spring 2027** for re-presentation, and the **King's Gallery closes from 18 November until spring 2027** for roof repairs.
 
-**Open Wednesday to Sunday in winter, 10am–4pm, last entry 3pm**; closed Monday and Tuesday. Adults pay £19.00 from 11 November, after the Last Princesses of Punjab exhibition closes. **£1 tickets** are available to anyone on Universal Credit and several other benefits, up to four per household. Free 15-minute talks and a free audio guide come with admission, and there are **free BSL tours Wednesday to Sunday**, booked ahead.
+**Open Wednesday to Sunday in winter, 10am–4pm, last entry 3pm**; closed Monday and Tuesday. Adults pay £13.00 from 18 November (£16.00 from 25 November to 3 January, with Victoria's Countryside Christmas). Our [Kensington Palace guide](/articles/kensington-palace-guide/) has the detail. **£1 tickets** are available to anyone on Universal Credit and several other benefits, up to four per household. Free 15-minute talks and a free audio guide come with admission, and there are **free BSL tours Wednesday to Sunday**, booked ahead.
 
 ![The statue of Queen Victoria outside the red-brick frontage of Kensington Palace](../../assets/articles/historic-houses-london/victoria-and-kensington-palace.jpg)
 

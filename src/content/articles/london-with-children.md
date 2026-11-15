@@ -253,6 +253,7 @@ The draw is photographs beside waxworks, plus a short dark ride at the end. **Bo
 
 ## Free spectacle
 
+* **Kensington Palace's Sunken Garden and gardens** are free, with no ticket; inside, under-5s are free and 5–15s pay half price. Our [Kensington Palace guide](/articles/kensington-palace-guide/) has the closed days.
 * **Changing the Guard**, St James's: guards in bearskins and a full regimental band, free to watch. Check the schedule; it does not run daily. Our [Changing of the Guard guide](/articles/buckingham-palace-changing-of-the-guard-guide/) has the days and where to stand.
 * **Greenwich Foot Tunnel**: walk **under the Thames** through a tiled Victorian tunnel and come up on the Isle of Dogs. Free and open at all hours.
 * **Word on the Water**, King's Cross: a bookshop on a barge, with a roof deck.

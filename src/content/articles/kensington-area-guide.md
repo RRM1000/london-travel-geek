@@ -85,7 +85,7 @@ Kensington has its own share of the commemorative plaques marking where notable 
 
 ## Top sights and activities
 
-1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed (adults £19.00 from 11 November; open Wednesday to Sunday in winter, 10am to 4pm, last entry 3pm). The **Sunken Garden** beside it is free.
+1. **Kensington Palace** — A royal residence since 1689 and the birthplace of Queen Victoria. The State Apartments are ticketed (adults £13.00 from 18 November; open Wednesday to Sunday, 10am to 4pm, closed Monday and Tuesday). The **Sunken Garden** beside it is free. Our [Kensington Palace guide](/articles/kensington-palace-guide/) has prices, closed days and what to see.
 2. **Kensington Gardens** — 265 acres. The Albert Memorial, the Italian Gardens at the north end, the Peter Pan statue and the Diana Memorial Playground.
 3. **Holland Park and the Kyoto Garden** — A Japanese garden given by Kyoto in 1991, with a tiered waterfall, koi and peacocks. Free and small; allow twenty minutes.
 4. **The Design Museum** — In the former Commonwealth Institute, under a 1962 hyperbolic paraboloid roof. The permanent gallery is free.
@@ -152,6 +152,7 @@ It is a twenty-minute walk between Holland Park and Notting Hill Gate, past whit
 
 ## Go deeper
 
+- **[Kensington Palace guide](/articles/kensington-palace-guide/)** — tickets, closed days and the Sunken Garden.
 - **[London's historic houses](/articles/historic-houses-london/)** — Kensington Palace and Leighton House.
 - **[The best afternoon tea in London](/articles/best-afternoon-tea-london/)** — the Kensington hotels do several of the better ones, at less than Mayfair prices.
 - **[HYPER JAPAN Festival](/articles/hyper-japan-london/)** — the Japanese culture festival at Olympia, a short walk beyond Holland Park.
