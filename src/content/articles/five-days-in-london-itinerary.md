@@ -229,7 +229,7 @@ Three national museums, all free, within a few minutes of each other.
 | --- | --- | --- | --- |
 | **Natural History Museum** | Daily 10:00–17:50 | 17:30 | Specimens, and the building. Free ticket advised, walk-ups admitted. Closed 24–26 December |
 | **V&A** | Daily 10.00–17.45, **Friday to 22.00** | — | Design, fashion and objects. The Friday late runs four hours past the other two |
-| **[Science Museum](/articles/science-museum-guide/)** | Daily 10.00–18.00 | 17.15 | Its own figure for an average visit is **around two hours**. **Closed 11 November 2026** |
+| **[Science Museum](/articles/science-museum-guide/)** | Daily 10.00–18.00 | 17.15 | Its own figure for an average visit is **around two hours**. |
 
 **Do two, not three.** *The V&A to the Science Museum is five minutes and 370 metres.* Use the **Exhibition Road entrances**, which are quieter than the grand ones on Cromwell Road, and note the Science Museum's own warning that galleries start closing 30 minutes before the museum does.
 
