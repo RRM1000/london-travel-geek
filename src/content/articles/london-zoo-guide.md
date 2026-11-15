@@ -44,7 +44,7 @@ faq:
 > - **Price:** an adult ticket bought online **before 10am on the day** costs **£27.70 to £34.50**, depending on the date; a child (3–15) **£19.40 to £24.10**. Under-3s are free. After 10am, online and gate prices are the same, **£1.80 an adult higher**. ZSL's headline prices include an optional 10% donation.
 > - **Discounts that work:** **National Rail 2FOR1** (two train tickets, one free entry), the **London Pass**, **Blue Peter badges** (gate only), Universal Credit tickets, and Blue Light Card. Concession rates cover over-65s, students with ID and disabled adults, and a disabled visitor's carer goes free.
 > - **Winter hours:** **10am to 4pm, last entry 3pm**, until 12 February 2027.
-> - **Don't miss:** Land of the Lions, Gorilla Kingdom, Tiger Territory, Penguin Beach and the walk-through Rainforest Life. The daily talks run from 10.45am to 3.30pm; the penguin feed is the last.
+> - **Don't miss:** Land of the Lions, Gorilla Kingdom, Tiger Territory, Penguin Beach and the walk-through Rainforest Life. The daily talks run from 10.45am to 3.30pm; the gibbons eat breakfast at the first and the penguins are fed at the last.
 > - **Getting there:** Camden Town is a 16-minute walk; the **274 bus** stops outside on Prince Albert Road.
 > - **Christmas:** The Magic of Christmas runs **21 November 2026 to 3 January 2027**; Meet Santa is a separate ticket from **£19.50 a child**.
 
@@ -146,13 +146,13 @@ The zoo straddles the Outer Circle and the Regent's Canal, linked by two tunnels
 
 *Gorilla Kingdom. Photo: [Numinosity (Gary J Wood)](https://commons.wikimedia.org/wiki/File:Gorilla_and_Baby_At_The_London_Zoo.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-### Daily talks
+### Daily talks and feeding times
 
-ZSL calls these talks, not shows: the animals aren't asked to perform. Times change, so check the What's On boards when you arrive or the London Zoo app, which sends reminders.
+ZSL calls these talks, not shows: the animals aren't asked to perform. Two are billed as feeds: the gibbons have breakfast during the 10.45am talk and the penguins get fish at 3.30pm. Times change, so check the What's On boards when you arrive or the London Zoo app, which sends reminders.
 
 | Time | Talk | Where |
 | :--- | :--- | :--- |
-| 10.45am | Gibbons | Tiger Territory |
+| 10.45am | Gibbons, at breakfast | Tiger Territory |
 | 11am | Tigers | Tiger Territory |
 | 11.30am | Galápagos giant tortoises | Giants of the Galápagos |
 | 11.30am | Super Species Live, flying birds (weather permitting) | Display Lawn |
