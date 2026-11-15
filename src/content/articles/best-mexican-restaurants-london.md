@@ -9,7 +9,7 @@ heroImageSource: "https://www.pexels.com/photo/delicious-tacos-al-pastor-with-fr
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-08-31
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -29,7 +29,7 @@ faq:
     a: "The tortilla, mostly. A taqueria presses its own; most restaurants buy them in. Comalera is the clearest example of the difference."
 ---
 
-> 💡 **The Short Version:** This guide skips the burrito chains. **Kol** has the Michelin star and uses only British produce. **Cavita** is Time Out's pick. **Santo Remedio** cooks the dishes other London Mexicans avoid. **Comalera** in Walthamstow is a £ stall that presses its own tortillas. And **Mestizo** is where the mezcal is.
+> 💡 **The Short Version:** This guide skips the burrito chains. **Kol** in Marylebone has the Michelin star and uses only British produce; book months ahead. **Cavita**, also Marylebone, is Time Out's pick. **Santo Remedio** in Bermondsey cooks the dishes other London Mexicans avoid. For tacos in central London, **El Pastor** has sites in Borough, Soho, King's Cross and Battersea, and its Soho branch takes walk-ins. For cheap tacos, **Guacamoles** and **Comalera** are market stalls under £15. And **Mestizo** is where the mezcal is.
 
 > 📊 **The evidence behind this guide.**
 > **11 sources carrying 131 citations** across **59 named restaurants**. **22 restaurants are named by two or more independent sources; 1 holds a Michelin star.**
@@ -42,7 +42,7 @@ faq:
 | --- | --- |
 | **Marylebone** | Kol, Cavita |
 | **Fitzrovia** | Cometa, Mestizo |
-| **Mayfair & Soho** | Fonda, Club Mexicana (Mercato Mayfair) |
+| **Mayfair & Soho** | El Pastor (Brewer Street), Fonda, Club Mexicana (Mercato Mayfair) |
 | **Borough & London Bridge** | El Pastor, Tacos Padre |
 | **Bermondsey** | Santo Remedio |
 | **Chelsea** | Ixchel |
@@ -54,6 +54,41 @@ faq:
 | **Tooting** | Guacamoles |
 
 **Price guide:** **£** under £15 · **££** £15–£35 · **£££** £40–£70 · **££££** £90+.
+
+## Every restaurant at a glance
+
+In the order this guide covers them, not a ranking.
+
+| Restaurant | Area | Price | Booking | What to order |
+| --- | --- | --- | --- | --- |
+| **Kol** | Marylebone | ££££ | Months ahead; closed Sunday and Monday | Cornish lobster in chilli butter, langoustine tacos |
+| **Cavita** | Marylebone | ££££ | Weeks ahead; closed Monday | Aged mole, cochinita pibil in banana leaf |
+| **Santo Remedio** | Bermondsey | £££ | Weeks ahead | Mole negro, guacamole with grasshoppers |
+| **Cometa** | Fitzrovia | £££ | Weeks ahead; closed Sunday and Monday | Aguachile, tuna tostadas |
+| **Los Mochis** | Notting Hill | ££££ | Ahead, especially weekends | Tuna tostadas, sashimi with chilli and lime |
+| **Mestizo** | Fitzrovia | £££ | A few days; bar takes walk-ins | Mezcal at the bar, mole poblano |
+| **Ixchel** | Chelsea | £££ | Weeks ahead at weekends | Tacos, ceviche and the agave list |
+| **El Pastor** | Borough, Soho, King's Cross, Battersea | ££ | Bookings and walk-ins | Tacos al pastor off the trompo |
+| **Zapote** | Shoreditch | £££ | Takes bookings; £29 three-course lunch Tuesday to Saturday | Scallop aguachile, tacos on heritage corn |
+| **Corrochio's** | Dalston | £££ | A few days; closed Monday | Cochinita pibil, weekend brunch |
+| **La Chingada** | Rotherhithe, Euston | £ | Walk-in | Al pastor, suadero, carnitas |
+| **Fonda** | Mayfair | £££ | Book ahead | Tacos on tortillas pressed on site, ceviche |
+| **Homies on Donkeys** | Leytonstone | £ | Walk-in; closed Sunday and Monday | Al pastor, birria, baja fish |
+| **Guacamoles** | Peckham, Tooting, Hackney Wick | £ | Walk-in | Birria tacos with consommé |
+| **Tacos Padre** | Borough Market | ££ | Walk-in; lunch only, closed Monday | Whatever the market gave them that day |
+| **Taquiza** | Peckham | £ | Walk-in; Wednesday to Saturday | Al pastor, carnitas |
+| **Taca Tacos** | Deptford, Peckham | ££ | Walk-in; closed Monday | Six-hour beef birria, baja fish |
+| **Comalera** | Walthamstow | £ | Walk-in; Friday to Sunday only | Tacos on tortillas pressed to order |
+| **Club Mexicana** | Mayfair, Liverpool Street | ££ | Walk-in | Jackfruit carnitas, vegan al pastor |
+
+## Mexican in Soho and the West End
+
+The nearest to Oxford Circus and Piccadilly Circus:
+
+* **El Pastor Soho**, 66–70 Brewer Street, behind a green door: open until 11pm Monday to Saturday and 8pm on Sunday, and it takes walk-ins as well as bookings. [Full entry](#el-pastor-borough).
+* **Fonda**, 12 Heddon Street, off Regent Street: the sit-down option, with a mezcal list. [Full entry](#fonda-mayfair).
+* **Club Mexicana** at Mercato Mayfair, five minutes from Bond Street: vegan, walk-in. [Full entry](#club-mexicana-mayfair).
+* **Cometa** on Charlotte Street and **Mestizo** on Hampstead Road are ten to fifteen minutes north of Oxford Circus; the [Fitzrovia guide](/articles/fitzrovia-area-guide/) has what else is on Charlotte Street.
 
 ---
 
@@ -166,7 +201,7 @@ The masa is made from scratch daily. The scallop aguachile with Clamato and pome
 
 ### Corrochio's, Dalston
 
-*££ · 76 Stoke Newington Road* · Cited by 4 sources
+*£££ · 76 Stoke Newington Road* · Cited by 4 sources
 
 **Founder Daniel grew up in Guadalajara and trained in the Yucatán**, so the cooking is regional rather than pan-Mexican, and **the cocktail bar runs long after the kitchen stops.**
 
@@ -176,7 +211,7 @@ Yucatecan and Jaliscan dishes: **cochinita pibil**, tacos with salsas, and a wee
 
 ### La Chingada, Rotherhithe
 
-*££ · 12 Rotherhithe New Road · also Euston* · Cited by 6 sources
+*£ · 12 Rotherhithe New Road · also Euston* · Cited by 6 sources
 
 **A small taquería in Rotherhithe.**
 
@@ -267,13 +302,13 @@ A *comal* is the flat griddle a tortilla is cooked on: masa is pressed and gridd
 
 ### Club Mexicana, Mayfair
 
-*£ · entirely vegan*
+*££ · Mercato Mayfair · also Boxhall City · entirely vegan*
 
-**Tacos, nachos and burritos built on jackfruit and vegan chicken**, started as a market stall and now in Kingly Court.
+**Tacos, nachos and burritos built on jackfruit and vegan chicken**, from a kitchen that started as a market stall and now trades inside Mercato Mayfair, the food hall in St Mark's Church on North Audley Street.
 
-The **jackfruit carnitas** and the vegan **al pastor** are the orders. It is loud and busy.
+The **jackfruit carnitas** and the vegan **al pastor** are the orders. It is loud and busy, and you eat at the food hall's shared tables.
 
-**££.** Also at **Seven Dials Market and on Commercial Street in Spitalfields** — Kingly Court is the sit-down one, the market sites are counters.
+**££, walk-in.** The second site is in Boxhall City by Liverpool Street station.
 
 ---
 

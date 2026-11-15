@@ -3,8 +3,8 @@ title: "The Best Street Food in London: Every Market and Food Hall Compared"
 seoTitle: "Best Street Food in London 2026: Markets & Food Halls"
 description: "Every multi-trader street food venue in London compared on traders, variety, seating, vibe — and, most usefully, which days it actually exists."
 publishedAt: 2026-06-01
-updatedAt: 2026-10-26
-reviewBy: 2027-01-01
+updatedAt: 2026-11-15
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -27,7 +27,23 @@ heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights 
 
 **Covered food halls** — Seven Dials, the Arcades, Market Halls, Boxpark — trade most days, have seating and work in the rain. **Outdoor markets** — Maltby Street, Broadway Market, the Southbank Centre — have better atmosphere and worse seating, and several of them only trade two or three days a week. Turning up on the wrong day wastes a morning, so this guide is built around days.
 
-> 💡 **The Short Version:** **Borough** is the biggest market, with 100+ stalls, and it is **closed Mondays**. **Seven Dials Market** is a covered hall in the centre with 21 traders. **Bang Bang Oriental** in Colindale has 25+ pan-Asian kiosks and is a proper trek. **Maltby Street** is Friday evening to Sunday only. And **Mercato Metropolitano at Elephant & Castle closes at the end of 2026** — go while you can.
+> 💡 **The Short Version:** **Borough Market** is the biggest, with 100+ stalls by London Bridge: Tuesday to Sunday, **closed Mondays**. **Seven Dials Market** in Covent Garden is the covered hall in the centre, 21 traders, open daily. **Maltby Street**, ten minutes from Borough, trades only Friday evening, Saturday and Sunday; the **Southbank Centre Food Market** is Friday to Sunday; **Broadway Market** in Hackney is Saturday and Sunday. On a Monday, go to a food hall: Seven Dials, Arcade, Market Halls and Mercato Mayfair all trade every day. **Mercato Metropolitano at Elephant & Castle closes at the end of 2026.**
+
+## Which markets are open on which day
+
+The covered food halls in the comparison table trade every day, so this lists only the markets that do not.
+
+| Day | Closed that day | Open, beyond the daily food halls |
+| --- | --- | --- |
+| **Monday** | Borough, Maltby Street, Southbank Centre, Broadway Market, Canopy, Hackney Bridge, Vinegar Yard, Pop Brixton, Peckham Levels, many Brixton Village units | Old Spitalfields, Upmarket, Camden Market, Greenwich Market, and the weekday lunch markets on Leather Lane and Whitecross Street |
+| **Tuesday** | Maltby Street, Southbank Centre, Broadway Market, Canopy, Peckham Levels | Borough reopens; Old Spitalfields, Upmarket, Camden, Leather Lane, Whitecross Street |
+| **Wednesday** | Maltby Street, Southbank Centre, Broadway Market | Borough, plus Canopy Market at King's Cross for street food only |
+| **Thursday** | Maltby Street, Southbank Centre, Broadway Market | Borough, Canopy's street food edition, Camden's Thursday night markets, and antiques day at Old Spitalfields from 8am |
+| **Friday** | Broadway Market | Maltby Street from 5.30pm to 9pm, the Southbank Centre from noon, the full Canopy Market, the Cutty Sark market in Greenwich |
+| **Saturday** | Leather Lane and Whitecross Street | Everything: Borough from 9am, Broadway Market 9am–5pm, Maltby Street 10am–5pm, Brockley Market 10am–2pm |
+| **Sunday** | Leather Lane, Whitecross Street, Market Place St Paul's | Borough 10am–4pm, Broadway Market 10am–4pm, Maltby Street 11am–4pm, Southbank Centre, Herne Hill Market, Upmarket from 10am |
+
+**Borough trades seven days a week from 30 November**, apart from 25–27 December and 1 January, and the Cutty Sark street food market's last day of 2026 is 29 November.
 
 > 📊 **How this guide is put together.**
 > Street food has no judged award and only a handful of editorial rankings, so this is **not** a consensus ranking in the way our restaurant guides are. Three independent lists — Time Out, Hot Dinners and DesignMyNight — establish which venues the press agrees are worth naming.
@@ -84,7 +100,7 @@ heroImageAlt: "Traders and shoppers under the green ironwork and festoon lights 
 | **Boxpark Croydon** | East Croydon | Container | 22–24 | Afghan, Taiwanese, West African | Plenty | Daily |
 | **Market Place** | Leicester Sq, St Paul's, Vauxhall, Peckham, Harrow | Food hall | 9–16 per site | Argentine, Filipino, Greek, Thai | Plenty | Daily · **St Paul's closed Sun** |
 | **Old Spitalfields Market** | Spitalfields | Market | 45 food businesses | Global, plus restaurants | Some, covered | Daily · **Thu is antiques, opens 8am** |
-| **Upmarket, Brick Lane** | Brick Lane | Market hall | 40+ | Pan-global | Scarce | Daily, **11am–6pm only** |
+| **Upmarket, Brick Lane** | Brick Lane | Market hall | 40+ | Pan-global | Scarce | Daily, **11am–6pm; Sunday from 10am** |
 | **Camden Market** | Camden | Market | Not published | As broad as it gets | Some, canalside | Daily · **Thu night market to 9pm** |
 | **Greenwich Market** | Greenwich | Market | 120 shops and stalls | Global | Scarce | Daily · **street food market Fri–Sun** |
 | **Brixton Village** | Brixton | Arcades | Not published | Caribbean, Colombian, Japanese | Plenty | **Closed many Mondays** |
@@ -269,7 +285,7 @@ A retail market with food, under a Victorian roof between Liverpool Street and B
 
 ### Upmarket, Brick Lane
 
-*40+ traders · daily, 11am–6pm*
+*40+ traders · daily, 11am–6pm, Sunday 10am–6pm*
 
 Pan-global stalls in the Old Truman Brewery — Ethiopian injera, Korean skewers and more.
 
@@ -332,7 +348,7 @@ Standing only, with a two-to-four hour window.
 
 * **Broadway Market Tooting** — 28 restaurants and bars in a covered arcade. **Many units close Monday and open only from late afternoon midweek**; weekends are the reliable time.
 * **Brixton Village and Market Row** — covered arcades of small independent restaurants rather than stalls, so everybody seats their own. **Many close Mondays.**
-* **Greenwich Market** — the covered Georgian hall trades daily; the **Cutty Sark street food market alongside it is Friday to Sunday only.**
+* **Greenwich Market** — the covered Georgian hall trades daily; the **Cutty Sark street food market alongside it is Friday to Sunday only, and its last day of 2026 is 29 November.**
 
 ![Stalls under the glass and timber roof of Greenwich Market](../../assets/articles/best-street-food-london/greenwich-market-stalls.jpg)
 
