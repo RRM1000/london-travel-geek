@@ -465,6 +465,7 @@ Named by the sources but without a full entry.
 
 ## Continue planning your London trip
 
+- 💌 **[Valentine's Day in London 2027](/articles/valentines-day-london/)** — the romantic rooms, sunset from Sky Garden and the London Eye's Cupid's Pod
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🌇 **[The Best Views in London](/articles/best-views-london/)**
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — free entry, and how a table at Darwin or Fenchurch gets you in

@@ -321,6 +321,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 
 ## Continue planning your London trip
 
+- 🎒 **[February Half Term in London](/articles/february-half-term-london/)** — 15 to 19 February 2027: the Imagine festival, what to book and the Tube strike day
 - 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🧱 **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** — tickets from £32, under-90cm free, and the train and bus from London
 - 🐷 **[Paultons Park and Peppa Pig World](/articles/paultons-park-day-trip/)** — under-1m free, the train from Waterloo and every height limit

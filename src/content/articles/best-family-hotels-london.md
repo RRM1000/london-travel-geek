@@ -300,6 +300,7 @@ A four-star hotel on Barkston Gardens, a garden square off Earl's Court Road. It
 
 - 👨‍👩‍👧 **[London With Children: Free Farms, Zoos and Days Out](/articles/london-with-children/)** - what to do once you've booked somewhere to sleep
 - 🍽️ **[Kids Eat Free in London](/articles/kids-eat-free-london/)** - every restaurant deal
+- 🎒 **[February Half Term in London](/articles/february-half-term-london/)** - 15 to 19 February 2027: what's on, what to book and the Tube strike day
 - 🏊 **[London Hotels With a Pool](/articles/hotels-with-pool-london/)** - the length, the children's hours and the adults-only limits at every pool on the lists, including County Hall, The Berkeley and Town Hall
 - 🐕 **[Dog-Friendly Hotels in London](/articles/dog-friendly-hotels-london/)** - Royal Lancaster, The Rubens and Mandarin Oriental take dogs too: the fees, weight limits and nearest parks
 - 🧭 **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)** - where South Kensington, Bermondsey and Greenwich fit for a family that isn't chasing one of the hotels above

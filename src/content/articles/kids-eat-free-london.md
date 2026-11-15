@@ -127,7 +127,7 @@ Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Ho
 
 ## The two that survive the school holidays
 
-Most of the big chains run kids-eat-free as a school-holiday campaign, appearing a week or two before half term and withdrawn the day term restarts. For autumn half term 2026 (most London boroughs ran **Monday 26 to Friday 30 October**), **ASK Italian** had kids eat free every day in October through the ASK Perks app and **Zizzi** gave a free Bambini meal with an adult main from **18 October to 1 November** (not Saturdays). **TGI Fridays** lists kids eat free for Stripes Rewards members for the festive season on its offers page. The next school holidays begin on **Saturday 19 December**, then **February half term is 15 to 19 February 2027**. Academies and individual boroughs shift by a day or two.
+Most of the big chains run kids-eat-free as a school-holiday campaign, appearing a week or two before half term and withdrawn the day term restarts. For autumn half term 2026 (most London boroughs ran **Monday 26 to Friday 30 October**), **ASK Italian** had kids eat free every day in October through the ASK Perks app and **Zizzi** gave a free Bambini meal with an adult main from **18 October to 1 November** (not Saturdays). **TGI Fridays** lists kids eat free for Stripes Rewards members for the festive season on its offers page. The next school holidays begin on **Saturday 19 December**, then **February half term is 15 to 19 February 2027**; our [February half-term guide](/articles/february-half-term-london/) has what's on that week. Academies and individual boroughs shift by a day or two.
 
 Two things run without a published end date.
 ![IKEA Wembley in London](../../assets/articles/kids-eat-free-london/dunelm-pausa.jpg)
@@ -215,6 +215,7 @@ The pub brands with a kids-eat-free offer (Sizzling, Hungry Horse, Brewers Fayre
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
 - 👨‍👩‍👧 **[London With Children: Free Farms, Zoos and Days Out](/articles/london-with-children/)** — mostly free, and where the day actually goes
+- 🎒 **[February Half Term in London](/articles/february-half-term-london/)** — 15 to 19 February 2027: what to book, the Tube strike day and the free options
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 ![YO! Greenford Hoover Building Tesco Kiosk in London](../../assets/articles/kids-eat-free-london/yo-sushi.jpg)
 

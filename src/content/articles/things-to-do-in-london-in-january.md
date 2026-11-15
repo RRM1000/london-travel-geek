@@ -249,6 +249,6 @@ One evening pick a day, each at a different venue.
 
 ## Looking ahead to February
 
-Lunar New Year falls on **Saturday 6 February 2027**, so Chinatown's celebrations are in February; our [Soho and Chinatown walk](/articles/soho-chinatown-walk/) is the place to start. MimeLondon's last production, Plexus Polaire's *A Doll's House*, is at the Barbican Theatre from 3 to 6 February.
+Lunar New Year falls on **Saturday 6 February 2027**, so Chinatown's celebrations are in February: our [Chinese New Year guide](/articles/chinese-new-year-london/) has the parade and where to eat, and the [Soho and Chinatown walk](/articles/soho-chinatown-walk/) covers the streets. MimeLondon's last production, Plexus Polaire's *A Doll's House*, is at the Barbican Theatre from 3 to 6 February. England v France is at Twickenham on Valentine's Day, and half term is 15 to 19 February; our [February guide](/articles/things-to-do-in-london-in-february/) has the month.
 
 <div data-submit-event></div>

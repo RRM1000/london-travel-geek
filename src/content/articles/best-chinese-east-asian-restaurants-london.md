@@ -405,6 +405,7 @@ Everything else the Chinese sources carry by two or more independent publication
 
 ## Continue planning your London trip
 
+- 🧧 **[Chinese New Year in London 2027](/articles/chinese-new-year-london/)** — Saturday 6 February: the parade, Chinatown's fortnight of celebrations and where to eat on the day
 - 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Indo-Chinese, the cooking of Kolkata's Hakka community
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

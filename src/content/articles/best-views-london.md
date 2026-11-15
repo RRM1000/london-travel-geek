@@ -581,6 +581,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 
 ## Continue planning your London trip
 
+- 💌 **[Valentine's Day in London 2027](/articles/valentines-day-london/)** — sunset viewpoints, dinner and the London Eye's private pod for two
 - 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — when the free tickets come out, the ways in once they have gone, and the sunset times
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same roofs, sorted by whether the kitchen is any good
