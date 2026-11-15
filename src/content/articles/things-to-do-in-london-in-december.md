@@ -159,7 +159,7 @@ These open in November and run into the new year or spring.
 
 ### The Royal Observatory, Greenwich
 
-**The whole site, Flamsteed House and the Meridian Courtyard included, is closed from 2 November 2026** for the First Light refurbishment, so it is shut throughout December. [Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation) says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January, and the project finishes by spring 2028. The National Maritime Museum, the Cutty Sark and the view from the hill stay open. The rest of Greenwich is in our [Greenwich guide](/articles/greenwich-area-guide/).
+**The whole site, Flamsteed House and the Meridian Courtyard included, is closed from 2 November 2026** for the First Light refurbishment, so it is shut throughout December. [Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation) says the Meridian Courtyard reopens in summer 2027, with tickets on sale in January, and the project finishes by spring 2028. The National Maritime Museum, the Cutty Sark and the view from the hill stay open. Tickets and the winter 2026/27 events at the ship, the museum and the Queen's House are in our [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/); the rest of Greenwich is in our [Greenwich guide](/articles/greenwich-area-guide/).
 
 ## Sport
 

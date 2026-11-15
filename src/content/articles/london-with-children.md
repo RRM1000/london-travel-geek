@@ -43,7 +43,7 @@ Most of the best of London with children is free: **eight city farms** you can w
 | **Camden & Regent's Park** | Babylon Park, London Zoo, Kentish Town City Farm |
 | **Battersea** | Children's Zoo, Go Ape, Lift 109 |
 | **South Bank** | SEA LIFE, Shrek's Adventure, London Eye |
-| **Greenwich & east** | Cutty Sark, Mudchute Farm, foot tunnel |
+| **Greenwich & east** | [Cutty Sark and the Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/) (Ahoy! gallery and the Cove playground), Mudchute Farm, foot tunnel |
 
 ---
 
@@ -341,6 +341,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🖼️ **[National Gallery Guide](/articles/national-gallery-guide/)** — the free Welcome Space at weekends and Canvas Quest, a hide-and-seek game for ages 7 and over
+- ⚓ **[Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/)** — the Ahoy! gallery for under-7s, the Cove playground and the ship.
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - ♿ **[Step-Free London](/articles/step-free-london/)** — lifts, ramps and which attractions have them

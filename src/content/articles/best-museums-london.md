@@ -47,6 +47,7 @@ London's great museums are free at the door, and most visitors see three of them
 | **The City** | Bank of England Museum, London's Roman Amphitheatre |
 | **Covent Garden** | London Transport Museum |
 | **East London** | Young V&A (Bethnal Green), London Museum Docklands (Canary Wharf) |
+| **Greenwich** | National Maritime Museum and the Queen's House, both free; the ticketed Cutty Sark is beside them: [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/) |
 | **Stratford & the Olympic Park** | V&A East Storehouse, V&A East Museum |
 | **Further out** | Horniman (Forest Hill), RAF Museum (Colindale), Musical Museum (Brentford) |
 
@@ -406,3 +407,4 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 - 📚 **[Bloomsbury Area Guide](/articles/bloomsbury-area-guide/)**
 - 🏙️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)**
 - ♿ **[Step-Free London](/articles/step-free-london/)** — which entrance to use at each museum, and where the Changing Places toilets are
+- ⚓ **[Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/)** — the free Greenwich museums, the Queen's House and the ship beside them.

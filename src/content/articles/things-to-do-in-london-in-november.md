@@ -85,7 +85,7 @@ Our [City of London walk](/articles/city-of-london-walk/) fills the daylight lef
 
 ### Diwali: Sunday 8 November
 
-Diwali itself fell on **Sunday 8 November**. The Mayor of London's free Diwali on the Square in Trafalgar Square was due on 25 October and was cancelled the day before. The free **Diwali day at the National Maritime Museum** ran on **Saturday 7 November**, with dance and music, rangoli workshops, a lantern parade and, new in 2026, the Diwali Bazaar. Our [Greenwich guide](/articles/greenwich-area-guide/) has the museum and the rest of the day.
+Diwali itself fell on **Sunday 8 November**. The Mayor of London's free Diwali on the Square in Trafalgar Square was due on 25 October and was cancelled the day before. The free **Diwali day at the National Maritime Museum** ran on **Saturday 7 November**, with dance and music, rangoli workshops, a lantern parade and, new in 2026, the Diwali Bazaar. Our [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/) covers the museum and what else is on, and our [Greenwich guide](/articles/greenwich-area-guide/) the rest of the day.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-november-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

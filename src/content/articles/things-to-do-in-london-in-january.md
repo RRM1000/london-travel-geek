@@ -186,7 +186,7 @@ For a West End base, [Strand Palace](hotel:strand-palace) has nearly 800 rooms o
 
 ### The Royal Observatory, Greenwich
 
-**The whole site, Flamsteed House and the Meridian Courtyard included, is closed for the First Light refurbishment.** [Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation) says the Meridian Courtyard reopens in summer 2027, with tickets going on sale in January. The National Maritime Museum, the Cutty Sark and the view from the hill stay open; see our [Greenwich guide](/articles/greenwich-area-guide/).
+**The whole site, Flamsteed House and the Meridian Courtyard included, is closed for the First Light refurbishment.** [Royal Museums Greenwich](https://www.rmg.co.uk/royal-observatory/transformation) says the Meridian Courtyard reopens in summer 2027, with tickets going on sale in January. The National Maritime Museum, the Cutty Sark and the view from the hill stay open; see our [Cutty Sark and National Maritime Museum guide](/articles/cutty-sark-national-maritime-museum-guide/) and [Greenwich guide](/articles/greenwich-area-guide/).
 
 ## Sport
 
