@@ -75,7 +75,7 @@ The ponds cost £5 for an adult (£3 concessions), cashless. The men's and women
 
 *Free*
 
-Formal gardens, the Open Air Theatre, London Zoo and, at the north end, Primrose Hill for the skyline.
+Formal gardens, the Open Air Theatre, [London Zoo](/articles/london-zoo-guide/) and, at the north end, Primrose Hill for the skyline.
 
 **Queen Mary's Gardens** holds London's largest rose collection, in 85 beds, and peaks in early June.
 

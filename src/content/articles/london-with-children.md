@@ -147,7 +147,7 @@ Real Tube carriages, trams, trolleybuses and horse-drawn omnibuses under the iro
 
 *Adult from £27.70, child (3–15) from £19.40 · under-3s free · Camden Town*
 
-Opened in 1828 as the world's first scientific zoo, with listed Victorian and modernist buildings, including the old Snowdon Aviary, reworked as Monkey Valley. It is a full day, with a long walk built into it. **Under-3s go free and need no ticket at all. Children aged 3 to 15 start at £19.40 and adults at £27.70 for an off-peak weekday if you book online, rising to £24.10 and £34.50 at peak**, and buying at the gate adds roughly two pounds a head. Last entry is an hour before closing and some animal houses shut half an hour before that, so a late-afternoon arrival is poor value. Children under 16 are not admitted without an adult.
+Opened in 1828 as the world's first scientific zoo, with listed Victorian and modernist buildings, including the old Snowdon Aviary, reworked as Monkey Valley. It is a full day, with a long walk built into it. **Under-3s go free and need no ticket at all. Children aged 3 to 15 start at £19.40 and adults at £27.70 for an off-peak weekday if you book online, rising to £24.10 and £34.50 at peak**, and buying at the gate adds roughly two pounds a head. Last entry is an hour before closing and some animal houses shut half an hour before that, so a late-afternoon arrival is poor value. Children under 16 are not admitted without an adult. Our [London Zoo guide](/articles/london-zoo-guide/) has the full price table, the daily talks and the Christmas events.
 
 ### Battersea Park Children's Zoo
 
