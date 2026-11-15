@@ -3,7 +3,7 @@ title: "London Hotels With a Pool You Can Actually Use: Rooftop, Family and Spa 
 seoTitle: "London Hotels With a Pool: Rooftop, Family & Spa"
 description: "London hotels with a swimming pool: the length, indoor or rooftop, whether guests swim free, the children's hours and the adults-only limits. Plus the famous 'pools' that are only vitality pools."
 publishedAt: 2026-06-22
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2027-03-29
 sites: [london]
 canonicalSite: london
@@ -17,6 +17,8 @@ faq:
     a: "The Berkeley in Knightsbridge has a heated open-air rooftop pool for hotel guests, open in spring and summer only. art'otel at Battersea Power Station has a heated rooftop infinity pool on the 16th floor, open all year. Virgin Hotels London-Shoreditch has a year-round rooftop pool on level 7, heated in winter. The Ned's rooftop pool belongs to its members' club. Shangri-La's Sky Pool is on level 52 of The Shard."
   - q: "Which London hotel pools can children use?"
     a: "Most, at set times. The Savoy lets children swim from 9am to 5pm every day, and Park Plaza Westminster Bridge from 8am to 8pm. One Aldwych, The Langham, Shangri-La, Bulgari, Pan Pacific, Hotel Café Royal, Four Seasons at Tower Bridge and The Westin London City all publish children's hours. Mandarin Oriental Hyde Park sets 18 as the minimum age for its spa and fitness centre."
+  - q: "Which London hotels have an indoor pool?"
+    a: "Most London hotel pools are indoor, many of them below ground. The longest are 25 metres at Bulgari, The Peninsula, Mandarin Oriental Mayfair and London Marriott Hotel County Hall; 20 metres at Raffles London at The OWO, Canary Riverside Plaza and The Carlton Tower; and 18 metres at One Aldwych, Hotel Café Royal, Haymarket Hotel and The Marylebone."
   - q: "Which London hotels have a 25-metre pool?"
     a: "Bulgari Hotel London in Knightsbridge, The Peninsula at Hyde Park Corner, Mandarin Oriental Mayfair on Hanover Square, and London Marriott Hotel County Hall on the South Bank, where the pool is in the hotel's own health club and free to guests."
   - q: "Does Corinthia London have a swimming pool?"
@@ -27,7 +29,7 @@ faq:
 
 A hotel that lists a pool can mean a 25-metre lane under Knightsbridge, a warm vitality pool you float in, or a rooftop that closes for the winter. Each entry below gives the length, whether hotel guests swim free, and when children are allowed in.
 
-> 💡 **The Short Version:** For a swim above the rooftops, **[art'otel Battersea Power Station](#artotel-london-battersea-power-station)** has a heated rooftop pool on the 16th floor, open all year, and **[The Berkeley](#the-berkeley)**, named by 21 of the 31 sources, more than any other hotel, has a rooftop pool open in spring and summer only. With children, **[The Savoy](#the-savoy)** lets them swim from 9am to 5pm daily and **[London Marriott Hotel County Hall](#london-marriott-hotel-county-hall)** has a 25-metre pool free to guests. For proper lengths, **[Bulgari](#bulgari-hotel-london)**, **[The Peninsula](#the-peninsula-london)** and **[Mandarin Oriental Mayfair](#mandarin-oriental-mayfair)** each have 25 metres. **Corinthia London is on 11 of the lists, and its spa has vitality pools, not a lap pool.**
+> 💡 **The Short Version:** For a swim above the rooftops, **[art'otel Battersea Power Station](#artotel-london-battersea-power-station)** has a heated rooftop pool on the 16th floor, open all year, and **[The Berkeley](#the-berkeley)**, named by 21 of the 31 sources, more than any other hotel, has a rooftop pool open in spring and summer only. With children, **[The Savoy](#the-savoy)** lets them swim from 9am to 5pm daily and **[London Marriott Hotel County Hall](#london-marriott-hotel-county-hall)** has a 25-metre pool free to guests. For proper lengths, **[Bulgari](#bulgari-hotel-london)**, **[The Peninsula](#the-peninsula-london)** and **[Mandarin Oriental Mayfair](#mandarin-oriental-mayfair)** each have 25 metres. Most of the rest are indoor pools below ground; [hotel pools by area](#hotel-pools-by-area) sorts them by where you want to stay. **Corinthia London is on 11 of the lists, and its spa has vitality pools, not a lap pool.**
 >
 > **Three picks:** [Town Hall Hotel](hotel:town-hall-hotel) (about £220, 14m heated pool) · [art'otel London Battersea Power Station](hotel:artotel-battersea-power-station) (about £320, rooftop infinity pool all year) · [Shangri-La The Shard](hotel:shangri-la-the-shard) (about £550, level 52 infinity pool).
 
@@ -36,34 +38,35 @@ A hotel that lists a pool can mean a 25-metre lane under Knightsbridge, a warm v
 > **Built on:** Time Out, Condé Nast Traveller, Tatler and The Independent; Secret London and The Hotel Guru; family-travel blogs; Mumsnet and YouTube.
 > *Evidence rebuilt 29 September 2026 · [How we rank →](/how-we-rank/)*
 
-| Hotel | Pool | Children | Station | Watch out for |
-| --- | --- | --- | --- | --- |
-| **The Berkeley** | Rooftop, heated, open-air | Welcome, no set hours | Knightsbridge | Spring and summer only |
-| **art'otel Battersea** | Rooftop infinity, 16th floor | Under-16s 6am–noon | Battersea Power Station | Can close for private events |
-| **Virgin Hotels Shoreditch** | Rooftop, year-round | 18 and under 7am–3pm | Old Street | Adults 21+ only after 3pm; no reservations |
-| **Shangri-La The Shard** | Level 52 infinity pool | 9–11am, 3–5pm | London Bridge | Book a slot; adults 6am–6pm |
-| **The Ned** | Rooftop (club) and basement | Rooftop 7–10am | Bank | Rooftop is the members' club; spa free if booked direct |
-| **One Aldwych** | 18m, chlorine-free | Set hours daily | Temple | Weekday children's hours break for lunch |
-| **The Langham** | 16m, in a bank vault | 8am–noon, 4–6pm | Oxford Circus | No children midday |
-| **The Savoy** | Glass-roofed atrium pool | 9am–5pm daily | Charing Cross | Pool shared with treatment guests |
-| **Marriott County Hall** | 25m, heated | Supervised | Waterloo | No lifeguard; shared with club members |
-| **Park Plaza Westminster Bridge** | 15m | 8am–8pm | Waterloo | Sessions booked only after arrival |
-| **Canary Riverside Plaza** | 20m infinity lap pool | 8.30–10.30am | Canary Wharf | Children's window is two hours |
-| **The Westin London City** | 12m plus vitality pool | 8–10.30am, 2–4.30pm | Mansion House | A short pool |
-| **Bulgari** | 25m, stone-clad | Age 8+, set hours | Knightsbridge | No children under 8 |
-| **The Peninsula** | 25m, subterranean | Not published | Hyde Park Corner | About £1,100 a night |
-| **Mandarin Oriental Mayfair** | 25m, heated | 18+ unless parent consents | Oxford Circus | Written consent for under-18s |
-| **Mandarin Oriental Hyde Park** | 17m, twin-lane | Minimum age 18 | Knightsbridge | Not for a family swim |
-| **Pan Pacific** | 18.5m infinity | Set hours | Liverpool Street | City view, not a rooftop |
-| **Hotel Café Royal** | 18m lap pool | Ages 5–16, set hours | Piccadilly Circus | Shared with Akasha members |
-| **Four Seasons Tower Bridge** | Pool plus vitality pool | 6.30–11am, 2–6pm | Tower Hill | Spa closes at 8pm |
-| **Haymarket Hotel** | 18m, underground | Not published | Piccadilly Circus | Also an events venue |
-| **The Carlton Tower** | 20m, indoor | Not published | Knightsbridge | Shared with club members |
-| **The Marylebone** | 18m, in Third Space | Ages 5–17, set hours | Bond Street | It is a members' gym |
-| **The Dilly** | 11.5m by 12.75m | Not published | Piccadilly Circus | Square, not a lap pool |
-| **Leonardo Royal St Paul's** | 16.6m | Set hours weekdays | St Paul's | Spa open to non-guests |
-| **Novotel Blackfriars** | Indoor, 1.2m deep | Not published | Southwark | Book an hour slot |
-| **Town Hall Hotel** | 14m, skylights | Not published | Bethnal Green | A Tube ride from the West End |
+| Hotel | Area | Pool | Children | Station | Watch out for |
+| --- | --- | --- | --- | --- | --- |
+| **The Berkeley** | Knightsbridge | Rooftop, heated, open-air | Welcome, no set hours | Knightsbridge | Spring and summer only |
+| **art'otel Battersea** | Battersea | Rooftop infinity, 16th floor | Under-16s 6am–noon | Battersea Power Station | Can close for private events |
+| **Virgin Hotels Shoreditch** | Shoreditch | Rooftop, year-round | 18 and under 7am–3pm | Old Street | Adults 21+ only after 3pm; no reservations |
+| **Shangri-La The Shard** | London Bridge | Level 52 infinity pool | 9–11am, 3–5pm | London Bridge | Book a slot; adults 6am–6pm |
+| **The Ned** | City | Rooftop (club) and basement | Rooftop 7–10am | Bank | Rooftop is the members' club; spa free if booked direct |
+| **One Aldwych** | Covent Garden | 18m, chlorine-free | Set hours daily | Temple | Weekday children's hours break for lunch |
+| **The Langham** | Marylebone | 16m, in a bank vault | 8am–noon, 4–6pm | Oxford Circus | No children midday |
+| **The Savoy** | Covent Garden | Glass-roofed atrium pool | 9am–5pm daily | Charing Cross | Pool shared with treatment guests |
+| **Marriott County Hall** | South Bank | 25m, heated | Supervised | Waterloo | No lifeguard; shared with club members |
+| **Park Plaza Westminster Bridge** | South Bank | 15m | 8am–8pm | Waterloo | Sessions booked only after arrival |
+| **Canary Riverside Plaza** | Canary Wharf | 20m infinity lap pool | 8.30–10.30am | Canary Wharf | Children's window is two hours |
+| **The Westin London City** | City | 12m plus vitality pool | 8–10.30am, 2–4.30pm | Mansion House | A short pool |
+| **Bulgari** | Knightsbridge | 25m, stone-clad | Age 8+, set hours | Knightsbridge | No children under 8 |
+| **The Peninsula** | Belgravia | 25m, subterranean | Not published | Hyde Park Corner | About £1,100 a night |
+| **Mandarin Oriental Mayfair** | Mayfair | 25m, heated | 18+ unless parent consents | Oxford Circus | Written consent for under-18s |
+| **Mandarin Oriental Hyde Park** | Knightsbridge | 17m, twin-lane | Minimum age 18 | Knightsbridge | Not for a family swim |
+| **Pan Pacific** | City | 18.5m infinity | Set hours | Liverpool Street | City view, not a rooftop |
+| **Hotel Café Royal** | Soho | 18m lap pool | Ages 5–16, set hours | Piccadilly Circus | Shared with Akasha members |
+| **Four Seasons Tower Bridge** | City | Pool plus vitality pool | 6.30–11am, 2–6pm | Tower Hill | Spa closes at 8pm |
+| **Haymarket Hotel** | West End | 18m, underground | Not published | Piccadilly Circus | Also an events venue |
+| **The Carlton Tower** | Knightsbridge | 20m, indoor | Not published | Knightsbridge | Shared with club members |
+| **The Marylebone** | Marylebone | 18m, in Third Space | Ages 5–17, set hours | Bond Street | It is a members' gym |
+| **Raffles at The OWO** | Westminster | 20m, indoor | 8–10am, 4–6pm | Embankment | About £900 a night |
+| **The Dilly** | Piccadilly | 11.5m by 12.75m | Not published | Piccadilly Circus | Square, not a lap pool |
+| **Leonardo Royal St Paul's** | City | 16.6m | Set hours weekdays | St Paul's | Spa open to non-guests |
+| **Novotel Blackfriars** | South Bank | Indoor, 1.2m deep | Not published | Southwark | Book an hour slot |
+| **Town Hall Hotel** | Bethnal Green | 14m, skylights | Not published | Bethnal Green | A Tube ride from the West End |
 
 ## Rooftop and sky-high pools
 
@@ -237,6 +240,12 @@ The **20-metre indoor pool** and jacuzzi belong to The Peak Fitness Club and Spa
 
 Hotel guests get **complimentary access to Third Space**, the members' health club in the building, with an **18-metre pool**, a sauna and a steam room. **Children aged 5 to 17 can swim from 10am to noon and 3 to 5pm with an adult**; nobody under 18 may use the gym. Marylebone High Street is round the corner and Bond Street station a few minutes away. The one thing that decides a booking: you share the pool with Third Space's own members.
 
+### Raffles London at The OWO
+
+*Westminster · Station: Embankment · 20m indoor pool and vitality pool · About £900 a night · Cited by 1 source · [Hotels.com](hotel:raffles-london-owo)*
+
+The Guerlain Spa takes up four floors of the Old War Office on Whitehall, and its **20-metre indoor pool** sits under a double-height ceiling, with a vitality pool, a sauna, steam rooms and experience showers beside it. The pool opens **6.30am to 9pm on weekdays and 8am to 8pm at weekends**, and **family swim time for hotel guests is 8 to 10am and 4 to 6pm daily**. The spa sells wellbeing memberships that include the pool, so you share it with members. Downing Street and the Churchill War Rooms are a few minutes along Whitehall. The one thing that decides a booking: children swim only in the two family sessions.
+
 ## Pools away from the grand hotels
 
 ### The Dilly
@@ -295,11 +304,29 @@ The spa, in the Victorian steam kitchens of the old Midland Grand, has a softly 
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hotels-with-pool-london-museums-and-history" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="19600,765419,1396447"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## Hotel pools by area
+
+Every swimming pool above, sorted by area. Each area's stay guide covers the hotels there without a pool.
+
+| Area | Stay guide | Hotels with a swimming pool |
+| --- | --- | --- |
+| **Knightsbridge and Belgravia** | [Chelsea and Knightsbridge](/articles/where-to-stay-chelsea/) | [The Berkeley](#the-berkeley) (rooftop, summer), [Bulgari](#bulgari-hotel-london) (25m), [The Peninsula](#the-peninsula-london) (25m), [The Carlton Tower](#the-carlton-tower-jumeirah) (20m), [Mandarin Oriental Hyde Park](#mandarin-oriental-hyde-park) (17m) |
+| **Mayfair and Marylebone** | [Mayfair](/articles/where-to-stay-mayfair/), [Marylebone](/articles/where-to-stay-marylebone/) | [Mandarin Oriental Mayfair](#mandarin-oriental-mayfair) (25m), [The Marylebone](#the-marylebone) (18m), [The Langham](#the-langham) (16m) |
+| **Covent Garden and the Strand** | [Covent Garden](/articles/where-to-stay-covent-garden/) | [One Aldwych](#one-aldwych) (18m), [The Savoy](#the-savoy) (atrium pool) |
+| **Soho, Piccadilly and the West End** | [Soho and the West End](/articles/where-to-stay-soho-west-end/) | [Hotel Café Royal](#hotel-café-royal) (18m), [Haymarket Hotel](#haymarket-hotel) (18m), [The Dilly](#the-dilly) (11.5m by 12.75m) |
+| **Westminster and Whitehall** | [Westminster](/articles/where-to-stay-westminster/) | [Raffles at The OWO](#raffles-london-at-the-owo) (20m); Corinthia's spa has vitality pools only |
+| **South Bank and Southwark** | [South Bank](/articles/where-to-stay-south-bank/) | [London Marriott County Hall](#london-marriott-hotel-county-hall) (25m), [Park Plaza Westminster Bridge](#park-plaza-westminster-bridge) (15m), [Novotel Blackfriars](#novotel-london-blackfriars) (1.2m deep) |
+| **London Bridge** | [Bermondsey and London Bridge](/articles/where-to-stay-bermondsey/) | [Shangri-La The Shard](#shangri-la-the-shard) (level 52) |
+| **City of London** | [City of London](/articles/where-to-stay-city-of-london/) | [The Ned](#the-ned), [Pan Pacific](#pan-pacific-london) (18.5m), [Leonardo Royal St Paul's](#leonardo-royal-london-st-pauls) (16.6m), [The Westin London City](#the-westin-london-city) (12m), [Four Seasons at Tower Bridge](#four-seasons-hotel-london-at-tower-bridge) |
+| **Shoreditch and Bethnal Green** | [Shoreditch](/articles/where-to-stay-shoreditch/) | [Virgin Hotels London-Shoreditch](#virgin-hotels-london-shoreditch) (rooftop), [Town Hall Hotel](#town-hall-hotel) (14m) |
+| **Canary Wharf** | [Canary Wharf](/articles/where-to-stay-canary-wharf/) | [Canary Riverside Plaza](#canary-riverside-plaza) (20m) |
+| **Battersea** | [Battersea area guide](/articles/battersea-area-guide/) | [art'otel Battersea Power Station](#artotel-london-battersea-power-station) (rooftop) |
+
 ## Before you book
 
 **Swimming without staying.** The Berkeley sells no pool day pass. Park Plaza Westminster Bridge sells two hours of its spa for £45, and Corinthia's Spa Experience Pass is £175 on weekdays and £200 at weekends. For a swim anywhere in London without a hotel bill, our [London gyms guide](/articles/best-gyms-london/#where-to-swim) prices the council pools and lidos, from £3.20 a swim.
 
-*Pool sizes, hours and children's times are from each hotel's own website, September 2026; hotels change them, so confirm when you book.*
+*Pool sizes, hours and children's times are from each hotel's own website, September to November 2026; hotels change them, so confirm when you book.*
 
 ## Continue planning your London trip
 
@@ -308,3 +335,4 @@ The spa, in the Victorian steam kitchens of the old Midland Grand, has a softly 
 - 🐕 **[Dog-Friendly Hotels in London](/articles/dog-friendly-hotels-london/)** - The Langham and Mandarin Oriental Hyde Park take dogs too: the fee, the weight limit and where the dog can go
 - 🏊 **[Best Gyms in London](/articles/best-gyms-london/)** - day passes, the 50-metre public pools and the lidos
 - 🏨 Area stay guides for the hotels above: [Chelsea and Knightsbridge](/articles/where-to-stay-chelsea/), [Mayfair](/articles/where-to-stay-mayfair/), [Marylebone](/articles/where-to-stay-marylebone/), [Covent Garden](/articles/where-to-stay-covent-garden/), [Soho and the West End](/articles/where-to-stay-soho-west-end/), [Westminster](/articles/where-to-stay-westminster/), [South Bank](/articles/where-to-stay-south-bank/), [City of London](/articles/where-to-stay-city-of-london/), [Bermondsey and London Bridge](/articles/where-to-stay-bermondsey/), [Shoreditch](/articles/where-to-stay-shoreditch/), [Canary Wharf](/articles/where-to-stay-canary-wharf/) and [King's Cross](/articles/where-to-stay-kings-cross/)
+- 💷 **[Best Budget Hotels in London](/articles/best-budget-hotels-london/)** - the cheapest central hotels, priced on five nights, for when a pool matters less than the bill

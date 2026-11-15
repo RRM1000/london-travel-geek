@@ -5,7 +5,7 @@ description: "Shoreditch hotels compared, which streets are loud at 2am, and the
 heroImage: "../../assets/articles/where-to-stay-shoreditch/the-hoxton-shoreditch-lobby.webp"
 heroImageAlt: "The open lobby at The Hoxton, Shoreditch: a brass ring chandelier over armchairs, an exposed brick fireplace, a herringbone bar under a Hoxton Grill sign, and a red bus passing the window"
 publishedAt: 2026-07-06
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -16,9 +16,11 @@ faq:
   - q: "Is Shoreditch a good area to stay in London?"
     a: "Yes, if you want evenings more than sights. It has a run of design hotels, plenty of places to eat, and the Elizabeth line ten minutes away at Liverpool Street. It is a poor base if you are doing Westminster, the museums and the parks, because you will spend the week travelling west. It is loud on Friday and Saturday nights."
   - q: "Is Shoreditch expensive to stay in?"
-    a: "The hotels in this guide run from about £110 to £250 a night, and most of the design hotels sit between £180 and £250. The Z Hotel at about £110 is the cheapest, with Stratford from about £100 as the cheaper alternative nearby."
+    a: "The hotels in this guide run from £63 for a quiet Sunday at hub by Premier Inn to about £250 a night, and most of the design hotels sit between £180 and £250. hub and The Z Hotel are the cheapest, with Stratford from about £100 as the cheaper alternative nearby."
   - q: "Where should I stay near Shoreditch instead?"
     a: "Liverpool Street and Aldgate are ten minutes south and much quieter at night. Whitechapel is east, cheaper, and on the Elizabeth line. Hackney and Dalston are north with better value. Stratford is fifteen minutes on the Central line and has rooms from about £100. The City of London is often cheapest at weekends, when the business district empties out."
+  - q: "Which Shoreditch hotels have a pool?"
+    a: "Virgin Hotels London-Shoreditch has a heated rooftop pool, open all year, for those 18 and under from 7am to 3pm and adults 21 and over from 3pm to 9pm. art'otel London Hoxton has an indoor pool, which non-residents can also book. Town Hall Hotel in Bethnal Green, one stop east on the Central line from Liverpool Street, has a 14-metre heated pool."
   - q: "Is Shoreditch noisy at night?"
     a: "On Friday and Saturday, very. The area around Great Eastern Street, Curtain Road and Old Street is a nightlife district and people are on the street until 3am. Book a room away from the street, ask for a high floor, and treat any hotel on those roads as a weekend compromise."
   - q: "How do you get from Shoreditch to central London?"
@@ -27,13 +29,30 @@ faq:
     a: "The Hoxton, Shoreditch, if the budget stretches to about £200. The ground floor is an open lobby full of locals as well as guests, breakfast comes as a bag on your door, and room grades are named by size: a Shoebox is exactly what it says."
 ---
 
-The hotels below run from about **£110 to £250 a night**, and most of the design hotels sit between £180 and £250.
+The hotels below run from **£63 on a quiet Sunday to about £250 a night**, and most of the design hotels sit between £180 and £250.
 
 Shoreditch is also loud. The streets around Great Eastern Street and Curtain Road are a nightlife district, and on a Friday people are still on them at three in the morning.
 
 So this covers two questions: **which Shoreditch hotel**, and **where to stay near Shoreditch** if you would rather not pay the premium or be woken by it.
 
-> 💡 **The Short Version:** **[The Hoxton](hotel:the-hoxton-shoreditch)** is the best all-rounder at about £200. **[The Z Hotel](hotel:z-hotel-shoreditch)** is the cheapest at £110, but its lowest rate is a windowless room. **[art'otel Hoxton](hotel:artotel-london-hoxton)** has two rescued Banksys on the outside of the building, free to see. For the area without the price, **Stratford** is fifteen minutes away from about £100, and **the City of London** is often cheapest at weekends.
+> 💡 **The Short Version:** Shoreditch is a good place to stay for evenings out and a poor one for Westminster and the museums, which are a Tube ride west. **[The Hoxton](hotel:the-hoxton-shoreditch)** is the best all-rounder at about £200. The cheapest rooms are at **[hub by Premier Inn](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-shoreditch.html)**, £63 on a Sunday in October, and **[The Z Hotel](hotel:z-hotel-shoreditch)**, £95 on the same night, though the Z's lowest rate is a windowless room. **[Virgin Hotels](hotel:mondrian-shoreditch)** has a heated rooftop pool open all year, and **[art'otel Hoxton](hotel:artotel-london-hoxton)** an indoor pool and two rescued Banksys on the outside of the building. For the area without the price, **Stratford** is fifteen minutes away from about £100, and **the City of London** is often cheapest at weekends.
+
+## Shoreditch hotels at a glance
+
+| Hotel | Price | Nearest station | Breakfast | Know before booking |
+| --- | --- | --- | --- | --- |
+| **The Hoxton, Shoreditch** | About £200 | Old Street | Included, as a bag on the door | Room grades named by size; the Shoebox is small |
+| **hub by Premier Inn** | £63 to £179 | Shoreditch High Street 4 min | — | Standard rooms are 11 m² |
+| **The Z Hotel Shoreditch** | £95 to £201 | Old Street 1 min | Extra | The cheapest rate is a room with no window |
+| **One Hundred Shoreditch** | About £180 | Shoreditch High Street | Extra | Six bars and restaurants open to non-residents |
+| **Redchurch Townhouse** | About £220 | Shoreditch High Street | Extra | 37 rooms, so it sells out first |
+| **Batty Langley's** | About £230 | Liverpool Street 7 min | Extra | No lift and no air conditioning |
+| **Aethos London Shoreditch** | About £250 | Old Street | Extra | Underground spa; rooms small for the price |
+| **Virgin Hotels London-Shoreditch** | About £250 | Old Street | — | Rooftop pool, first come, first served |
+| **nhow London** | About £150 | Old Street | Extra | Ten minutes' walk from the nightlife, and quieter for it |
+| **art'otel London Hoxton** | About £230 | Old Street | About £56 extra | Indoor pool; Solaya on the 25th floor |
+
+*A range of prices is the cheapest double on five sampled nights between October 2026 and April 2027; "about" is a typical night.*
 
 ## Which part of Shoreditch
 
@@ -69,9 +88,9 @@ An open lobby used as a workspace. The ground floor is full of locals working an
 
 Room grades are named by size and the naming is literal: **a Shoebox is exactly what it says**, then Snug, Cosy and Roomy. Pick the grade on the number, not the adjective.
 
-### The Z Hotel Shoreditch — the cheapest, with a catch
+### The Z Hotel Shoreditch — a cheap room, with a catch
 
-*About £110 · Breakfast is charged separately · [check prices](hotel:z-hotel-shoreditch)*
+*£95 to £201 on five sampled nights · 136–144 City Road, EC1V 2RL · Old Street 1 min · Breakfast is charged separately · [check prices](hotel:z-hotel-shoreditch)*
 
 A compact-room hotel on the Shoreditch edge of the City. Breakfast is bought in the Z Cafe: the free Z Member scheme adds evening cheese and wine and 10% off food and drink, but excludes breakfast, and only the pricier Z Club room grade has breakfast in the rate.
 
@@ -86,6 +105,12 @@ A compact-room hotel on the Shoreditch edge of the City. Breakfast is bought in 
 </div>
 
 *A room at the Z Hotel Shoreditch, and its ensuite bathroom.*
+
+### hub by Premier Inn London Shoreditch — the cheapest night in Shoreditch
+
+*£63 to £179 on five sampled nights · Quaker Street, E1 6SN · Shoreditch High Street 4 min · [Premier Inn's site](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-shoreditch.html)*
+
+On Quaker Street, between Brick Lane and Spitalfields. A double was **£63 on a Sunday in October**; a Wednesday in February was £90, and the Saturdays in October and December were £167 and £179, so the saving is a Sunday-to-Thursday one. **A Standard room is 11 m² with a double bed**, storage underneath and a touchscreen for the lights and heating; a Bigger room is 14 m² with a king-size bed. Hotels.com does not sell hub, so book on Premier Inn's own site. Our [budget hotels guide](/articles/best-budget-hotels-london/) prices it against the rest of London.
 
 ### One Hundred Shoreditch — the calm one
 
@@ -218,6 +243,18 @@ A tower wrapped in twisted black fins with the street artist D\*Face's work runn
 *A room at art'otel London Hoxton.*
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="where-to-stay-shoreditch-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Shoreditch hotels with a pool or spa
+
+**[Virgin Hotels London-Shoreditch](hotel:mondrian-shoreditch)** has the rooftop pool on level 7, heated and open all year: 18 and under from 7am to 3pm, adults 21 and over from 3pm to 9pm, no reservations.
+
+**[art'otel London Hoxton](hotel:artotel-london-hoxton)** has an indoor pool, and non-residents can book day access from 11am to 4pm, so expect outsiders in the middle of the day.
+
+**[Aethos London Shoreditch](hotel:aethos-london-shoreditch)** has an underground spa with a steam room and sauna. Check whether your rate includes spa access.
+
+**[Town Hall Hotel](hotel:town-hall-hotel)** in Bethnal Green has a 14-metre heated pool with skylights, open to guests every day. Bethnal Green is one stop east of Liverpool Street on the Central line.
+
+Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) has the children's hours and pool sizes across the city.
 
 ## Where to stay near Shoreditch instead
 

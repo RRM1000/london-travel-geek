@@ -70,13 +70,9 @@ It's a minute's walk from Old Street station. Z's free membership takes 10% off 
 
 *Typical night £131 · £63 to £179 on our five nights · Shoreditch · 4 min from Shoreditch High Street · Cited by 4 sources · [premierinn.com](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/hub-london-shoreditch.html)*
 
-![A compact room at hub by Premier Inn London Shoreditch with a double bed, a wall-mounted TV and a hand-drawn street map above the bed](../../assets/articles/best-budget-hotels-london/hub-shoreditch-room.jpg)
-
-*A room at hub by Premier Inn London Shoreditch.*
-
 **Quaker Street, E1 6SN.** The cheapest night in central London was here: **£63 on a Sunday in October**. A Wednesday in February was £90, and the two Saturdays in October and December were £167 and £179. A traveller on r/uktravel says it "can be vastly cheaper and especially on Sunday and Monday nights".
 
-hub is Premier Inn's small-room brand. A Standard room is 11 square metres with a double bed, storage underneath it and a touchscreen for the lights and heating. A Bigger room is 14 square metres with a king-size bed. It's four minutes from Shoreditch High Street on the Overground.
+hub is Premier Inn's small-room brand. A Standard room is 11 square metres with a double bed, storage underneath it and a touchscreen for the lights and heating. A Bigger room is 14 square metres with a king-size bed. It's four minutes from Shoreditch High Street on the Overground. Our [Shoreditch stay guide](/articles/where-to-stay-shoreditch/) compares it with the design hotels a few streets away.
 
 ### hub by Premier Inn London King's Cross
 
@@ -203,7 +199,7 @@ The October Sunday was £72 and the February Wednesday £81, but the December Sa
 
 #### Travelodge London Docklands
 
-*Typical night £81.99 · £34.99 to £111.99 on our five nights · East India · 5 min from East India · Cited by 3 sources · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)*
+*Typical night £81.99 · £34.99 to £111.99 on our five nights · East India · 7 min from East India · Cited by 3 sources · [travelodge.co.uk](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)*
 
 ![Travelodge London Docklands Central, a tall new-build tower clad in orange panels beside a main road](../../assets/articles/best-budget-hotels-london/travelodge-london-docklands.jpg)
 
@@ -211,7 +207,7 @@ The October Sunday was £72 and the February Wednesday £81, but the December Sa
 
 **1 Oregano Drive, E14 2AE.** A new-build Travelodge at East India, which Travelodge calls London Docklands Central, with the cheapest night in this guide: **£34.99 on the October Sunday**. The February Wednesday was £42.99, and the three Saturdays £81.99 to £111.99.
 
-A Mumsnet poster found it "clean and spacious". The DLR from East India reaches Bank in 13 minutes, but only six trains an hour.
+A Mumsnet poster found it "clean and spacious". The DLR from East India reaches Bank in 13 minutes, but only six trains an hour. Canary Wharf is a short DLR ride west, and our [Canary Wharf stay guide](/articles/where-to-stay-canary-wharf/) has the hotels there.
 
 #### Premier Inn London Greenwich
 
