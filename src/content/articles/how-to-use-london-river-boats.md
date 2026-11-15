@@ -139,7 +139,7 @@ A 10-minute river hop from Docklands to Greenwich.
 | **Westminster Pier** | Westminster (District, Circle, Jubilee) | Parliament, Big Ben, Westminster Abbey, Churchill War Rooms |
 | **London Eye Pier** | Waterloo (Jubilee, Northern, Bakerloo) | London Eye, South Bank, Sea Life Aquarium |
 | **Bankside Pier** | Blackfriars / Southwark | Tate Modern, Shakespeare's Globe, Millennium Bridge |
-| **London Bridge City** | London Bridge (Northern, Jubilee) | Borough Market, The Shard, [HMS Belfast](/articles/hms-belfast-guide/) |
+| **London Bridge City** | London Bridge (Northern, Jubilee) | Borough Market, [The Shard](/articles/the-shard-guide/), [HMS Belfast](/articles/hms-belfast-guide/) |
 | **Tower Pier** | Tower Hill (District, Circle) | Tower of London, Tower Bridge |
 | **Canary Wharf Pier** | Canary Wharf (Elizabeth Line, Jubilee, DLR) | Docklands, Financial District, Museum of London Docklands |
 | **Greenwich Pier** | Cutty Sark (DLR) | Cutty Sark, Old Royal Naval College, Greenwich Market |

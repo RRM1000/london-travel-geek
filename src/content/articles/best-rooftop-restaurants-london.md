@@ -471,6 +471,7 @@ Named by the sources but without a full entry.
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — free entry, and how a table at Darwin or Fenchurch gets you in
 - 🪑 **[The Best Places to Eat Outside in London](/articles/eat-outside-london/)**
 - 🦪 **[The Best Seafood Restaurants in London](/articles/best-seafood-restaurants-london/)**
+- 🔺 **[The View from The Shard](/articles/the-shard-guide/)** — the ticketed gallery above Aqua Shard, Oblix and Hutong
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 📸 **[The Most Instagrammable Restaurants in London](/articles/most-instagrammable-restaurants-london/)**
 - 🚶 **[London Walks Along the Thames](/articles/london-walks-along-the-thames/)**

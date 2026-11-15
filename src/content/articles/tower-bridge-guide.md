@@ -194,6 +194,7 @@ Our [step-free London guide](/articles/step-free-london/) compares the big attra
 - **The [Tower of London](/articles/tower-of-london-guide/)** is next door, with the Crown Jewels and the Yeoman Warder tour.
 - **Two walks end or start here:** the [South Bank walk](/articles/south-bank-walk/) finishes at the bridge and the [City of London walk](/articles/city-of-london-walk/) finishes at the Tower and the bridge. The [Wapping to Canary Wharf walk](/articles/wapping-canary-wharf-walk/) starts a few minutes east at St Katharine Docks.
 - **[HMS Belfast](/articles/hms-belfast-guide/)**, the Second World War cruiser moored just upriver, is a few minutes' walk along the south bank.
+- **[The View from The Shard](/articles/the-shard-guide/)** is about a kilometre west along the river at London Bridge, for the same bridge seen from above.
 - **[Bermondsey](/articles/bermondsey-area-guide/)** is just south of the bridge, and the [South Bank area guide](/articles/south-bank-area-guide/) covers Hay's Galleria and the riverside.
 - **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)** is the other big paid sight in the City.
 - **On the river:** the [Thames river cruises guide](/articles/thames-river-cruises-london/) and [London walks along the Thames](/articles/london-walks-along-the-thames/).

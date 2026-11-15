@@ -93,7 +93,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 6. **Millennium Bridge** — The pedestrian bridge from Tate Modern to [St Paul's](/articles/st-pauls-cathedral-guide/), a five-minute crossing.
 7. **Leake Street Arches** — A road tunnel under Waterloo station given over to legal graffiti, repainted constantly by anyone who turns up with a can. Free.
 8. **[HMS Belfast](/articles/hms-belfast-guide/) and [Tower Bridge](/articles/tower-bridge-guide/)** — At the eastern end. HMS Belfast is nine decks and around three hours; adult tickets start at £26.80, but **anyone on Universal Credit or Pension Credit pays £3, for up to five people in the household**, booked online. **Walking across Tower Bridge is free** — you only pay for the high-level walkways, the glass floor and the Victorian engine rooms.
-9. **Hay's Galleria** — The old Hay's Wharf, where Britain's tea came ashore, roofed over in 1987 with a glass barrel vault. Free, covered, and holding a sixty-foot kinetic sculpture called The Navigators. Directly behind HMS Belfast.
+9. **Hay's Galleria** — The old Hay's Wharf, where Britain's tea came ashore, roofed over in 1987 with a glass barrel vault. Free, covered, and holding a sixty-foot kinetic sculpture called The Navigators. Directly behind HMS Belfast. The tower beside London Bridge station has a paid viewing gallery: see [The View from The Shard](/articles/the-shard-guide/).
 
 ![The Navigators, a tall kinetic sculpture of ship parts, under the glass barrel vault of Hay's Galleria](../../assets/articles/south-bank-area-guide/hays-galleria.jpg)
 

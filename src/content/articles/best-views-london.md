@@ -20,7 +20,7 @@ faq:
   - q: "What is the best free view in London?"
     a: "Horizon 22 in the City, on level 58 at 254 metres — free, and higher than the paid gallery at The Shard. It needs a free timed ticket. If you cannot get one, The Garden at 120 is the best walk-in option in London: free, fifteen storeys up, no booking at all."
   - q: "Is The View from The Shard worth it?"
-    a: "Only for the open air. Its gallery sits at 244.3 metres, which Horizon 22 beats by about ten metres for free, so you are no longer paying for the highest view in London. What you are paying for, from about £25.95, is the highest open-air deck in the country — and that is something no free viewpoint offers."
+    a: "Only for the open air. Its gallery sits at 244.3 metres, which Horizon 22 beats by about ten metres for free, so you are no longer paying for the highest view in London. What you are paying for, from £28, is the highest open-air deck in the country — and that is something no free viewpoint offers."
   - q: "Which free London viewpoints need booking?"
     a: "Sky Garden, Horizon 22 and The Lookout at 8 Bishopsgate all need free timed tickets. Sky Garden releases every Monday three weeks ahead; The Lookout releases every other Monday, two weeks ahead. Horizon 22 publishes no fixed release schedule but does take same-day walk-ins by QR code at the door if there is space. The Garden at 120, One New Change and Tate Modern's Level 10 need no booking at all."
   - q: "Where is the best view for photographs?"
@@ -186,15 +186,17 @@ Because the sweep favours west and south, you are looking back over the West End
 
 ### The View from The Shard, London Bridge
 
+Our [full Shard guide](/articles/the-shard-guide/) has tickets, discounts, winter hours and the View Guarantee terms.
+
 *Floors 68–72 · hours vary by date · open-air deck included*
 
 The highest **open-air** viewing deck in the country, on floor 72 — and the open deck is part of the standard ticket, not an upgrade, and it is the only reason to pay. A lift covers Level 1 to Level 68 in **60 seconds**, and the building is step-free from the street all the way to the open air at 72.
 
 Be clear about what that buys you. It is no longer the highest public view in London — Horizon 22 is higher and free. What you are paying for is **open sky at that altitude**, which no free viewpoint in the city offers, plus a **View Guarantee**: if the weather ruins it, you get a free return voucher valid at least three months.
 
-**Check the date, not the day.** There is no fixed weekly timetable — hours move through the year, running 1pm–9pm on some days and 10am–10pm on Saturdays. Last entry is always an hour before closing.
+**Check the date, not the day.** Hours move through the year. From November 2026 to March 2027 the gallery is closed on Mondays and Tuesdays, with a few exceptions, and open on Saturdays from 10am to 10pm. Last entry is always an hour before closing.
 
-> ⚠️ **There is no fixed adult price.** The Shard publishes no adult figure anywhere on its site — the FAQ says prices vary by day and time and pushes you into a live booking widget. The only static figure published is kids from £10. The £25.95 that every guide quotes is not something the venue states. Put your dates in before budgeting.
+> ⚠️ **Prices vary by day and time.** The operator lists standard tickets from £28 and children aged 4 to 12 from £10, with under-4s free. The All Inclusive ticket with a glass of champagne is from £38. Put your date in before budgeting.
 
 > ⚠️ Ignore the marketing line about being "almost twice the height of any other viewing platform in the capital." It has not been true since 2023.
 
@@ -584,6 +586,7 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 - 💌 **[Valentine's Day in London 2027](/articles/valentines-day-london/)** — sunset viewpoints, dinner and the London Eye's private pod for two
 - 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — when the free tickets come out, the ways in once they have gone, and the sunset times
+- 🔺 **[The View from The Shard](/articles/the-shard-guide/)** — tickets, discounts, winter hours and the View Guarantee
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same roofs, sorted by whether the kitchen is any good
 - 🎪 **[Free Things to Do in London](/free/)**
 - 📷 **[Photography Tours and Photoshoots in London](/articles/london-photography-tours/)** — a night walk or a photographer at Tower Bridge, with prices

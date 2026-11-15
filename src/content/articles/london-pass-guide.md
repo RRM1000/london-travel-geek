@@ -140,7 +140,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **The Monument** | £7.00 | £3.50 | 311 steps |
 | **Churchill War Rooms** | £34 | — | **Not on the pass** |
 
-> ⚠️ **The View from The Shard is not in this table because its price depends on the date and time.** Go City values it at £32. Our [views guide](/articles/best-views-london/) records it starting around £25.95 online.
+> ⚠️ **The View from The Shard is not in this table because its price depends on the date and time.** Go City values it at £32. The operator lists standard tickets from £28; our [Shard guide](/articles/the-shard-guide/) has the details and our [views guide](/articles/best-views-london/) compares the alternatives.
 
 ---
 
