@@ -114,5 +114,5 @@ If you would rather see a game than the empty ground, or want to base yourself n
 
 * **A match:** [how to get Premier League tickets in London](/articles/premier-league-tickets-london/).
 * **Near the grounds:** [where to stay near Wembley Stadium](/articles/where-to-stay-near-wembley-stadium/).
-* **Other sport:** [Twickenham Stadium](/articles/twickenham-stadium-travel-guide/) has its own travel guide.
+* **Other sport:** [Twickenham Stadium](/articles/twickenham-stadium-travel-guide/) has its own travel guide, and the year's cup finals, Six Nations games and Ashes Tests are in [London sporting events 2027](/articles/london-sporting-events-2027/).
 * **More tours:** [food tours in London](/articles/london-food-tours/) and [the best walking tours in London](/articles/best-walking-tours-london/).

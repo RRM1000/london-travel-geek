@@ -196,4 +196,6 @@ Stay in central London rather than near either ground: Wembley room prices rough
 - **Bring a contactless card or phone wallet.** The stadiums are cashless and so is London transport; [how Oyster and contactless work](/articles/oyster-card-guide-london/).
 - **Charge your phone.** Your ticket is on it.
 
+The rest of London's sporting year, from the Six Nations to the Ashes, is in our [London sporting events 2027](/articles/london-sporting-events-2027/) calendar.
+
 *Prices, bag rules and timings are those of the 2026 games.*

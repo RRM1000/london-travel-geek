@@ -436,6 +436,8 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers Stasher an
 
 ## Continue planning your London trip
 
+- 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the Carabao Cup, Women's FA Cup and FA Cup finals here, and the rest of the year's big sporting dates
+- 🎤 **[London Concerts 2027](/articles/london-concerts-2027/)** — Harry Styles, Sam Fender, Noah Kahan and Slipknot at Wembley, and the rest of the year's stadium and arena gigs
 - ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — Wembley's tour compared with Chelsea, Arsenal, Tottenham, West Ham and Fulham
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — 82,000 people through one Zone 5 station, and why the 10-minute walk is not 10 minutes
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**

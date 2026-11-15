@@ -182,7 +182,7 @@ Tickets, prices, the clear bag rule and what a game day looks like hour by hour 
 
 **U2 play the stadium on Friday 18, Saturday 19, Tuesday 22 and Friday 25 June 2027**, with Wolf Alice supporting; the stadium lists it as the tour's only UK venue. General sale for reserved seating and standing opened at **10am on Friday 6 November 2026**, after U2.com presales from 2 November and an artist presale on 5 November. Accessible tickets need Nimbus Disability Access Scheme registration before you book. The booking route is on the [stadium's U2 page](https://www.tottenhamhotspurstadium.com/events/1181495/u2). Use White Hart Lane, as for a match, and read the last-train warning above before you plan the journey home.
 
-**Fall Out Boy play on Saturday 5 June 2027** on their Twilight of the Punks tour, and **Stray Kids on Tuesday 13 July 2027** on their Run It London tour. Each show has reserved seating and standing tickets plus VIP packages, listed on the stadium's [Fall Out Boy](https://www.tottenhamhotspurstadium.com/events/1184972/fall-out-boy) and [Stray Kids](https://www.tottenhamhotspurstadium.com/events/1184882/stray-kids) pages. Accessible tickets need Nimbus registration first, as for U2.
+**Fall Out Boy play on Saturday 5 June 2027** on their Twilight of the Punks tour, and **Stray Kids on Tuesday 13 July 2027** on their Run It London tour. Each show has reserved seating and standing tickets plus VIP packages, listed on the stadium's [Fall Out Boy](https://www.tottenhamhotspurstadium.com/events/1184972/fall-out-boy) and [Stray Kids](https://www.tottenhamhotspurstadium.com/events/1184882/stray-kids) pages. Accessible tickets need Nimbus registration first, as for U2. Karol G plays on **Tuesday 6 July 2027** ([stadium page](https://www.tottenhamhotspurstadium.com/events/1021367/karol-g)). Every other stadium and arena gig announced for London in 2027 is in our [London concerts 2027](/articles/london-concerts-2027/) guide.
 
 ## Where to stay, and why this isn't Wembley
 
@@ -268,6 +268,7 @@ Visiting (away) supporters use entrances 11 and 12, in blocks 114–118 in the s
 
 ## Continue planning your London trip
 
+- 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — Saracens v Harlequins here on 20 March, and the year's other big sporting dates
 - ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — Tottenham's tour next to Chelsea, Arsenal, West Ham, Wembley and Fulham
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — the same problem in reverse: no station on the doorstep, and a parking zone run by two boroughs
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**

@@ -391,6 +391,7 @@ The **free post-race TfL travel is for runners showing a bib**, not for the peop
 
 ## Continue planning your London trip
 
+- 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the Boat Race two weeks earlier, the FA Cup semi-finals on marathon Saturday, and the rest of the year
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
