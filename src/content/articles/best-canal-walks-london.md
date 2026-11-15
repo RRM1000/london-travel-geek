@@ -65,7 +65,7 @@ Little Venice is where the **Paddington Arm of the Grand Union** meets the Regen
 
 From there the canal runs east through **Maida Hill Tunnel**, which you cannot walk through — see the tunnels section below — then along the north edge of **Regent's Park**, past the **aviary at London Zoo**, and into Camden.
 
-The towpath runs directly beneath the **Snowdon Aviary**, with a free look at part of the zoo.
+The towpath runs directly beneath the **Snowdon Aviary**, with a free look at part of the zoo. For a ticket inside, see our [London Zoo guide](/articles/london-zoo-guide/).
 
 **Finish at Camden Lock**, where the canal drops through a double lock in the middle of the market. See our [Camden guide](/articles/camden-area-guide/) — or keep going east on the [King's Cross to Camden walk](/articles/kings-cross-camden-canal-walk/), which covers the next section stop by stop.
 

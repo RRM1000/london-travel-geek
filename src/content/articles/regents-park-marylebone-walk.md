@@ -126,7 +126,7 @@ Both are private homes, so the pavement is the view. Where the two terraces meet
 
 ## 6. The Broad Walk and the Avenue Gardens
 
-**The park's main avenue, walked south.** London Zoo is at the top of it if you want it; this route turns the other way.
+**The park's main avenue, walked south.** London Zoo is at the top of it if you want it ([prices, hours and what to see](/articles/london-zoo-guide/)); this route turns the other way.
 
 Past Chester Road it becomes the **Avenue Gardens**, which Nash also designed: tiered fountains, formal avenues of trees and bedding changed with the seasons. Cyclists share the Broad Walk, so keep to the side.
 

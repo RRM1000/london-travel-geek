@@ -92,7 +92,7 @@ Camden has its own share of the commemorative plaques marking where notable peop
 4. **Primrose Hill** — Fifteen minutes north-west. A free view of the central skyline, with a naming plaque at the summit. The village below it has the pastel terraces of **Chalcot Crescent**, used as the Browns' house in the *Paddington* films.
 5. **The Roundhouse** — A former railway engine shed turned venue, where Pink Floyd, Hendrix and The Doors all played. Still a working music and theatre space.
 6. **The Electric Ballroom and the Dublin Castle** — Two surviving live venues. Madness and Blur played early sets at the small Dublin Castle.
-7. **Regent's Park and London Zoo** — Fifteen minutes south-west along the canal, with the zoo's landmark Snowdon Aviary structure visible from the towpath. It no longer holds birds - it was reimagined as **Monkey Valley** and now houses the zoo's monkeys.
+7. **Regent's Park and London Zoo** — Fifteen minutes south-west along the canal, with the zoo's landmark Snowdon Aviary structure visible from the towpath. It no longer holds birds - it was reimagined as **Monkey Valley** and now houses the zoo's monkeys. Tickets, hours and the daily talks are in our [London Zoo guide](/articles/london-zoo-guide/).
 
 ![The Regent's Canal towpath running toward Snowdon Aviary at London Zoo, its metal frame visible over the water](../../assets/articles/camden-area-guide/regents-canal-towpath-zoo.jpg)
 

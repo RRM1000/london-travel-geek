@@ -118,7 +118,7 @@ There are more than a hundred London offers.
 | **Westminster Abbey** | Pay at the door | Mon–Sat only. **Cannot be pre-booked.** Adds a free child (17 or under) per adult ticket |
 | **Hampton Court Palace** | Pay at the door | **Excludes 29–31 August and 28 November 2026–3 January 2027** |
 | **Kensington Palace** | Pay at the door | **Excludes 1–6 January, 28 March–12 April, 18 July–31 August and 19–31 December** |
-| **ZSL London Zoo** | Advance booking | Excludes Christmas Day |
+| **[ZSL London Zoo](/articles/london-zoo-guide/)** | Advance booking | Excludes Christmas Day |
 | **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)** | Advance booking | Mon–Sat only; book one "National Rail Days Out - Two Visitors" ticket, which covers both of you |
 | **[Tower Bridge](/articles/tower-bridge-guide/)** | Advance booking | Full-price adult tickets only. Choose the "National Rail Days Out - Two Visitors" ticket type at the bottom of the list, quantity one, and bring a valid National Rail ticket for each visitor |
 | **The View from The Shard** | Advance booking | Book **24 hours ahead**; full-price general entry only. Offer listed until 31 December 2026 |
