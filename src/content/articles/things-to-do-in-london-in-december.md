@@ -151,7 +151,7 @@ These open in November and run into the new year or spring.
 - **Nan Goldin: You Never Did Anything Wrong**, Hayward Gallery, 24 November to 14 March 2027.
 - **Es Devlin: Other Worlds**, Design Museum, to 4 April 2027: the first European retrospective of her 30-year practice across sculpture, stage design, music, language and light.
 
-**Closing soon:** **Frida: The Making of an Icon** at Tate Modern on **3 January**; **The Music is Black: A British Story** at V&A East Museum (£22.50 weekday, £24.50 weekend), **Rising Voices** at V&A South Kensington (£17) and **LAIKA presents Wildwood** at the Design Museum all on **10 January**; **Renoir and Love** at the National Gallery on 31 January. The [best museums guide](/articles/best-museums-london/) lists those with free entry.
+**Closing soon:** **Frida: The Making of an Icon** at [Tate Modern](/articles/tate-modern-guide/) on **3 January**; **The Music is Black: A British Story** at V&A East Museum (£22.50 weekday, £24.50 weekend), **Rising Voices** at V&A South Kensington (£17) and **LAIKA presents Wildwood** at the Design Museum all on **10 January**; **Renoir and Love** at the National Gallery on 31 January. The [best museums guide](/articles/best-museums-london/) lists those with free entry.
 
 ### The London Museum at Smithfield
 

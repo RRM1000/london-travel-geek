@@ -203,7 +203,7 @@ Four minutes west, in the former Bankside power station. **Free**, open **Sunday
 
 *The Blavatnik Building, behind the chimney.*
 
-Walk through the **Turbine Hall**, then take the lift in the Blavatnik Building to the **Level 10 café**, which looks across the river to St Paul's and down on the Millennium Bridge. Free 45-minute tours start at 12, 1 and 2pm on most days, from Level 2 of the Natalie Bell Building.
+Walk through the **Turbine Hall**, then take the lift in the Blavatnik Building to the **Level 10 café**, which looks across the river to St Paul's and down on the Millennium Bridge. Free guided tours of the collection run most days. The [Tate Modern guide](/articles/tate-modern-guide/) has the exhibitions and the free displays by level.
 
 ## 11. The Millennium Bridge
 

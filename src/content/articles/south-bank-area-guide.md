@@ -85,7 +85,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 ## Top sights and activities
 
-1. **Tate Modern** — A converted power station holding the national collection of international modern art. Free, and **open until 9pm on Fridays and Saturdays** as well as 10am–6pm the rest of the week. The tenth-floor viewing level in the Blavatnik Building is also free.
+1. **Tate Modern** — A converted power station holding the national collection of international modern art. Free, and **open until 9pm on Fridays and Saturdays** as well as 10am–6pm the rest of the week. The tenth-floor viewing level in the Blavatnik Building is also free. See our [Tate Modern guide](/articles/tate-modern-guide/).
 2. **Borough Market** — A market on this site since at least the 12th century. **Closed Mondays.** Tuesday to Friday 10am–5pm, Saturday 9am–5pm, Sunday 10am–4pm.
 3. **The Southbank Centre and BFI** — Brutalist arts complex with free foyer spaces, the secondhand book market under Waterloo Bridge, and the BFI's film programme.
 4. **Shakespeare's Globe** — A faithful reconstruction of the 1599 open-air theatre, 230 metres from the original site. **Standing in the yard is £10**, the cheapest way in — and a batch of **£5 Rush standing tickets is released every Friday at 11am** for the following week, including for shows that are otherwise sold out. The indoor, candlelit Sam Wanamaker Playhouse runs through the winter.

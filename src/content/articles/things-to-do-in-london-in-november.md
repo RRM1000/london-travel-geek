@@ -151,7 +151,7 @@ Rugby tickets are from £51 for Japan; the New Zealand game is sold out. Getting
 - **Schiaparelli: Fashion Becomes Art**, V&A South Kensington, and **Inside Aardman: Wallace & Gromit and Friends**, Young V&A, both close **15 November**. Schiaparelli is £28 on weekdays and £30 at weekends; Inside Aardman is £12.50.
 - **Declaring Independence: USA 250** at the British Museum closes on **29 November**, free.
 
-Still running through the month: **Korea** at the British Museum and **Renoir and Love** at the National Gallery, both to 31 January 2027, and **Frida: The Making of an Icon** at Tate Modern to 3 January. For the museums that need no booking, see [best museums in London](/articles/best-museums-london/).
+Still running through the month: **Korea** at the British Museum and **Renoir and Love** at the National Gallery, both to 31 January 2027, and **Frida: The Making of an Icon** at [Tate Modern](/articles/tate-modern-guide/) to 3 January. For the museums that need no booking, see [best museums in London](/articles/best-museums-london/).
 
 ## Theatre
 

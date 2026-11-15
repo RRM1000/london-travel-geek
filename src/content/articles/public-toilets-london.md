@@ -131,7 +131,7 @@ Participants include:
 
 Every major free-entry museum in London has toilets open to any visitor inside the building; you don't need a ticket for a paid exhibition:
 
-**[British Museum](/articles/british-museum-guide/)**, **Tate Modern**, **Tate Britain**, **National Gallery**, **V&amp;A**, **Natural History Museum** and **Science Museum** are all free to enter. Tate Modern and Tate Britain both have a **Changing Places** toilet; the V&amp;A's nearest one is next door at the Science Museum, which has its own.
+**[British Museum](/articles/british-museum-guide/)**, **[Tate Modern](/articles/tate-modern-guide/)**, **Tate Britain**, **National Gallery**, **V&amp;A**, **Natural History Museum** and **Science Museum** are all free to enter. Tate Modern and Tate Britain both have a **Changing Places** toilet; the V&amp;A's nearest one is next door at the Science Museum, which has its own.
 
 **Battersea Power Station** has public toilets throughout, including accessible and family-friendly ones.
 

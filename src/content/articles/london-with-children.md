@@ -265,6 +265,7 @@ The draw is photographs beside waxworks, plus a short dark ride at the end. **Bo
 * **Word on the Water**, King's Cross: a bookshop on a barge, with a roof deck.
 * **The Crystal Palace Dinosaurs**: the first dinosaur sculptures ever made, from 1854, and scientifically out of date.
 * **Covent Garden street performers**: three licensed pitches, free, and the West Piazza takes the big circle acts.
+* **The Turbine Hall at Tate Modern**: a vast free hall with a new commission each year, and free drawing desks, Tate Draw. Children aged 11 and under go free to ticketed exhibitions. Our [Tate Modern guide](/articles/tate-modern-guide/) has the family details.
 
 ---
 
