@@ -232,6 +232,7 @@ TfL's free **"Please offer me a seat"** badge and card work on every mode and ar
 
 ## Continue planning your London trip
 
+- 👑 **[Kensington Palace Guide](/articles/kensington-palace-guide/)** — lifts to all three floors, free wheelchairs and a carer ticket, but no step-free Tube station nearby.
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — 62 wheelchair bays, a Changing Places room, and the accessible shuttle from Richmond
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)** — every mode compared, and which one suits which journey
 - 🚈 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)** — lines, zones, etiquette and the map

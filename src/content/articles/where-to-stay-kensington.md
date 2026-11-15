@@ -59,7 +59,7 @@ Our [Kensington area guide](/articles/kensington-area-guide/) covers what to see
 
 *About £550 · 1 Kensington Court, W8 5DL · High Street Kensington 6 min · Breakfast extra · [Hotels.com](hotel:the-milestone-hotel)*
 
-A Victorian red-brick house in the Red Carnation group, directly across Kensington Road from the palace and its gardens. There are 43 deluxe rooms, 13 individually designed suites and six residences with two or three bedrooms each.
+A Victorian red-brick house in the Red Carnation group, directly across Kensington Road from the palace and its gardens; see our [Kensington Palace guide](/articles/kensington-palace-guide/) for tickets and closed days. There are 43 deluxe rooms, 13 individually designed suites and six residences with two or three bedrooms each.
 
 <div class="photo-row">
 

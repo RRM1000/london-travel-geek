@@ -22,7 +22,7 @@ faq:
   - q: "Are London's museums included in the London Pass?"
     a: "The famous ones are free to everyone anyway. The British Museum, National Gallery, Natural History Museum, Science Museum, V&A, Tate Modern, Tate Britain, Imperial War Museum, National Maritime Museum and National Portrait Gallery all cost nothing to enter. What the pass adds at those sites is guidebooks, an audio tour and a film — about £51 of extras."
   - q: "Is the London Pass better than Historic Royal Palaces membership?"
-    a: "Not if the palaces are what you came for. The Tower of London, Hampton Court and Kensington Palace cost £92.70 at the gate for one adult. HRP membership is £65 by Direct Debit and lasts a year. For a family of four it is £125 against a £596 three-day London Pass."
+    a: "Not if the palaces are what you came for. The Tower of London, Hampton Court and Kensington Palace cost £89.70 at the gate for one adult. HRP membership is £65 by Direct Debit and lasts a year. For a family of four it is £125 against a £596 three-day London Pass."
 heroImage: "../../assets/articles/london-pass-guide/london-pass-guide.jpg"
 heroImageAlt: "Visitors climbing the wooden entrance stairway to the White Tower at the Tower of London, one of the paid attractions this guide prices against the pass"
 heroImageCredit: "Ethan Doyle White"
@@ -128,7 +128,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **Windsor Castle** | £32.00 | £16.00 | **£36.00 / £18.00 on the day** |
 | **Buckingham Palace State Rooms** | £35.00 | £17.50 | **£39.00 / £19.50 on the day** (summer 2027 prices); open 8 July to 26 September 2027; **not on the pass** |
 | **Hampton Court Palace** | £30.00 | £15.00 | £33.00 / £16.50 at weekends and bank holidays; from 28 November, Winter Palace prices are £33.00 / £16.50 weekdays and £36.00 / £18.00 at weekends |
-| **Kensington Palace** | £19.00 | £9.50 | £20.90 / £10.50 with donation, from 11 November |
+| **[Kensington Palace](/articles/kensington-palace-guide/)** | £13.00 from 18 November | £6.50 | £14.30 / £7.20 with donation; £16.00 / £8.00 from 25 November to 3 January |
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **[Madame Tussauds](/articles/madame-tussauds-london-guide/)** | from £27.00 | from £24.00 | **£39 / £35 walk-up**; dynamic pricing |
@@ -215,10 +215,10 @@ You have done the Tower. Now you want Kensington Palace, Greenwich and Kew. A 3-
 
 | | Adult |
 | --- | --- |
-| Kensington Palace | £19.00 |
+| Kensington Palace | £16.00 (£13.00 from 6 January) |
 | Cutty Sark | £22.00 |
 | Kew Gardens | £25.00 |
-| **Gate total** | **£71.70** |
+| **Gate total** | **£68.70** |
 | 3-choice Explorer | £89.00 |
 | **Result** | **Pass loses by £17.30** |
 
@@ -290,7 +290,7 @@ And the free viewpoints — [Sky Garden](/articles/sky-garden-guide/), Horizon 2
 
 ### Historic Royal Palaces membership — the one that beats it
 
-The Tower of London, Hampton Court and Kensington Palace cost **£92.70** for one adult at the gate. **HRP membership is £65 by annual Direct Debit** (£75 by card) and covers all three, plus Hillsborough Castle, unlimited for a year.
+The Tower of London, Hampton Court and Kensington Palace cost **£89.70** for one adult at the gate. **HRP membership is £65 by annual Direct Debit** (£75 by card) and covers all three, plus Hillsborough Castle, unlimited for a year.
 
 **Membership is cheaper than visiting all three once.**
 

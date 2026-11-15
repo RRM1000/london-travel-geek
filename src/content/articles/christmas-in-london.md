@@ -103,6 +103,8 @@ These are paid, walk-through experiences.
 
 **[Hampton Court Palace](/articles/hampton-court-palace-guide/)** runs two separate things in 2026: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£33–£36 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately: £19.50 adult off-peak, £21.50 peak, family £59.50–£65.50 (see our [ice skating guide](/articles/ice-skating-london/)).
 
+**[Kensington Palace](/articles/kensington-palace-guide/)** has **Victoria's Countryside Christmas** from 25 November to 3 January, included in admission (adult £16.00); the palace is closed Mondays, Tuesdays and 24–26 December.
+
 **Chelsea Winter Village & Illuminations**, at the Royal Hospital Chelsea, is an outdoor light trail — 1.5km, 45–75 minutes — running **25 November – 28 December 2026**, with timed entry to the trail from 4:30pm and closed on Christmas Day. Adult tickets are **£18 to £29.95** and children's £12 to £19.95, depending on the date and time; the Winter Village around it is free to enter.
 
 **What has gone:** Kenwood House's Neverland trail on Hampstead Heath has been **cancelled for 2026** after weak ticket sales.
