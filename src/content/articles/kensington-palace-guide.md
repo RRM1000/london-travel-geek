@@ -47,7 +47,7 @@ Two things shape a visit until spring 2027. The Queen's State Apartments are shu
 
 > 💡 **The Short Version:**
 > - **Price:** Adult £13.00 from 18 to 22 November, £16.00 from 25 November to 3 January (Victoria's Countryside Christmas included), then £13.00 to 24 March 2027. Children 5–15 and young people 16–17 pay half; under-5s are free. An optional 10% donation is added at checkout. Book through [Historic Royal Palaces](https://www.hrp.org.uk/kensington-palace/visit/tickets-and-prices/).
-> - **Open:** Wednesday to Sunday, from 10am to 4pm. **Closed every Monday and Tuesday to 23 March 2027, and on 24, 25 and 26 December.**
+> - **Open:** Wednesday to Sunday, from 10am to 4pm (noon on some Sundays), last entry 3pm. **Closed every Monday and Tuesday to 23 March 2027, and on 24, 25 and 26 December.**
 > - **Free:** The palace gardens and the Sunken Garden, with the Diana statue, need no ticket.
 > - **Time needed:** Two to three hours inside. The quietest slot is 1pm to 3pm.
 > - **Discounts:** National Rail 2FOR1 (pay at the door), the London Pass, Historic Royal Palaces membership from £65 a year, and Art Fund National Art Pass.
@@ -93,7 +93,7 @@ If you are doing the palaces, our [Hampton Court Palace guide](/articles/hampton
 
 > ⚠️ **Closed Monday and Tuesday.** Historic Royal Palaces' calendar has the palace shut every Monday and Tuesday through 23 March 2027, school holidays included, so a Christmas-week visit has to be a Wednesday to Sunday. It is also closed on 24, 25 and 26 December. The Sunken Garden follows the same Wednesday-to-Sunday pattern.
 
-- **Palace:** 10am to 4pm, Wednesday to Sunday.
+- **Palace:** 10am to 4pm, Wednesday to Sunday, with last entry at 3pm. Some Sundays open at noon, so check the day on the Historic Royal Palaces calendar.
 - **Sunken Garden and palace gardens:** 10am to 4pm, free, viewed from the Cradle Walk.
 - **Palace Café:** Wednesday to Sunday, 10am to 3.50pm.
 - **The Orangery:** daily from 25 October, 10am to 4pm, though it closes on some days for events. Book ahead.
