@@ -56,7 +56,8 @@ Prices run from a fried chicken shop where nothing costs more than a burger to a
 
 | If you are near… | Where to eat |
 | --- | --- |
-| **Soho & Covent Garden** | Mildreds, Gauthier Soho, Club Mexicana, Saravanaa Bhavan |
+| **Soho & Covent Garden** | Mildreds, Gauthier Soho, Saravanaa Bhavan |
+| **Mayfair** | Club Mexicana (Mercato Mayfair) |
 | **Shoreditch & Spitalfields** | Plates, Unity Diner, Bubala, Pilpel |
 | **Euston & Bloomsbury** | Diwana Bhel Poori House |
 | **Islington** | Tofu Vegan, The Gate (Islington) |

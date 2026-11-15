@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London_-_Great_Russell
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-08-28
-updatedAt: 2026-10-31
+updatedAt: 2026-11-15
 reviewBy: 2026-11-29
 sites: [london]
 canonicalSite: london
@@ -31,7 +31,7 @@ faq:
 
 London's great museums are free at the door, and most visitors see three of them. The Natural History Museum was the UK's most visited attraction in 2025 with over seven million people through the door — and a mile away, a house preserved exactly as its owner left it in 1837 gets a fraction of that.
 
-> 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does. **Sir John Soane's Museum** is a house left exactly as its owner had it in 1837, and free. **The Wellcome Collection** is a free museum of medical objects. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
+> 💡 **The Short Version:** The **British Museum** and **Natural History Museum** are the ones everybody does, and the **V&A** across the road from the second has 145 galleries of art and design; all three are free. Most open around 10am and close between 5pm and 6pm; for an evening visit, go on a Friday, when the British Museum, V&A, National Gallery and Tate Modern stay open late. **Sir John Soane's Museum** is a house left exactly as its owner had it in 1837, and free. **The Wellcome Collection** is a free museum of medical objects. **Young V&A** is the answer with children. The **Postal Museum's Mail Rail** puts you on a train inside real Post Office tunnels. And **V&A East Storehouse** in Stratford will bring almost any object in the collection out for you to look at, free.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Visitor figures are ALVA's audited numbers for 2025. Special exhibitions inside free museums are almost always ticketed separately.
@@ -49,6 +49,28 @@ London's great museums are free at the door, and most visitors see three of them
 | **East London** | Young V&A (Bethnal Green), London Museum Docklands (Canary Wharf) |
 | **Stratford & the Olympic Park** | V&A East Storehouse, V&A East Museum |
 | **Further out** | Horniman (Forest Hill), RAF Museum (Colindale), Musical Museum (Brentford) |
+
+## Opening hours and prices at a glance
+
+| Museum | Area | Entry | Hours | Go for |
+| --- | --- | --- | --- | --- |
+| **British Museum** | Bloomsbury | Free | Daily 10am–5pm, Fridays to 8.30pm | The Rosetta Stone, the Parthenon sculptures, Sutton Hoo |
+| **Natural History Museum** | South Kensington | Free; book a ticket | Daily 10am–5.50pm | Hintze Hall and the blue whale, the dinosaurs |
+| **Science Museum** | South Kensington | Free; Wonderlab ticketed | Daily 10am–6pm | Stephenson's Rocket, Apollo 10, Wonderlab with children |
+| **V&A South Kensington** | South Kensington | Free | Daily 10am–5.45pm, Fridays to 10pm | The Cast Courts, fashion and jewellery |
+| **Tate Modern** | Bankside | Free | Sunday to Thursday 10am–6pm, Friday and Saturday to 9pm | The Turbine Hall and the view from the Blavatnik Building |
+| **Tate Britain** | Millbank | Free | Daily 10am–6pm | The national collection of British art |
+| **National Gallery** | Trafalgar Square | Free | Daily 10am–6pm, Fridays to 9pm | Sunflowers, the Fighting Temeraire, the Arnolfini Portrait |
+| **National Portrait Gallery** | Trafalgar Square | Free | Daily 10.30am–6pm, Friday and Saturday to 9pm | The Tudor portraits |
+| **Imperial War Museum** | Lambeth | Free, no booking | Daily 10am–6pm | The Spitfire in the atrium, the Holocaust Galleries |
+| **Wellcome Collection** | Euston Road | Free | Tuesday to Sunday 10am–6pm; closed Monday | Medical objects and the Reading Room |
+| **Sir John Soane's Museum** | Holborn | Free | Wednesday to Sunday 10am–5pm | The Picture Room's hinged walls |
+| **Young V&A** | Bethnal Green | Free | Daily 10am–5.45pm | Play, Imagine and Design galleries for under-14s |
+| **V&A East Storehouse** | Stratford | Free | Daily 10am–6pm, Thursday and Saturday to 10pm | Order an Object, and the David Bowie Centre |
+| **London Transport Museum** | Covent Garden | Ticketed; lasts a year | Daily 10am–6pm, last entry 5pm | Tube carriages and buses to climb into |
+| **Postal Museum and Mail Rail** | Mount Pleasant | Ticketed | Tuesday to Sunday 10am–5pm; last Mail Rail 4pm | The train through the Post Office tunnels |
+
+*Hours as published by each museum, November 2026. Most close 24–26 December.*
 
 ---
 
@@ -93,6 +115,16 @@ Next door to the Natural History Museum, and **the better of the two with older 
 The Energy Hall of beam engines, Stephenson's Rocket, the Apollo 10 command module and the Information Age gallery are the spine of it. **Wonderlab is ticketed** while the rest of the museum is free, which catches families out at the door.
 
 **It is quieter than its neighbour all day.** If you are doing both in one visit, do the Natural History Museum first thing and cross over here at lunchtime.
+
+### V&A South Kensington
+
+*Free · Cromwell Road · daily 10am–5.45pm, Fridays until 10pm*
+
+The Victoria and Albert Museum: **145 galleries covering 5,000 years of art and design**, from fashion and jewellery to furniture, ceramics and sculpture. The **Cast Courts** are halls of full-size Victorian plaster copies of monuments, open since 1873, with the cast of Trajan's Column standing in two halves.
+
+The **John Madejski Garden** in the centre is a courtyard to sit in, and the three Victorian refreshment rooms are billed by the V&A as the world's first museum café.
+
+**The permanent galleries are free; headline exhibitions are ticketed**, at around £25, and the popular ones sell out. **Fridays until 10pm** are the quiet time, though some galleries close at 5.45pm. The [South Kensington guide](/articles/south-kensington-area-guide/) has the subway from the station and where to eat between the three museums.
 
 Anything with a start time rather than an opening time — Royal Institution Discourses, Gresham College lectures, Wellcome Lates, the Natural History Museum's evening panels, and the Victorian pumping engines that run on published dates — is in [science events in London](/articles/science-events-london/).
 

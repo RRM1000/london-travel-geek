@@ -3,7 +3,7 @@ title: "Fitzrovia Area Guide: Charlotte Street, the BT Tower and the Restaurants
 seoTitle: "Fitzrovia Guide: Charlotte Street, Restaurants & Sights"
 description: "A complete Fitzrovia guide: Charlotte Street and Goodge Street, the Georgian squares, the pubs Orwell and Dylan Thomas drank in, and where to eat."
 publishedAt: 2026-08-19
-updatedAt: 2026-10-31
+updatedAt: 2026-11-15
 reviewBy: 2026-11-19
 sites:
   - london
@@ -79,6 +79,8 @@ heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 ---
 
+> 💡 **The Short Version:** Fitzrovia is the square of streets north of Oxford Street between Tottenham Court Road and Great Portland Street, five minutes from Oxford Circus. Come for dinner: **Charlotte Street** has Roka, Cometa and the two-Michelin-star Kitchen Table, and the Michelin-starred West African kitchens **Akoko** and **Chishuru** are a few streets away. The sights are small and free: the gold mosaic **Fitzrovia Chapel**, Robert Adam's **Fitzroy Square** and **All Saints, Margaret Street**. Goodge Street is the nearest station.
+
 Fitzrovia has no headline sight. People come for dinner: Charlotte Street and Goodge Street hold restaurants of a dozen cuisines, and unlike Soho you can usually get a table.
 
 The area is a rough square between [Oxford Street](/articles/oxford-street-guide/) and Euston Road, crossed constantly by people going somewhere else. Above street level it is Georgian terraces and the BT Tower.
@@ -115,6 +117,8 @@ Fitzrovia has its own share of the commemorative plaques marking where notable p
 *Charlotte Street, in the evening.*
 
 The spine of the area and its main restaurant street, with pavement seating in summer. The [Charlotte Street Hotel](hotel:charlotte-street-hotel) is at the southern end.
+
+**On Charlotte Street itself:** Cometa at No. 21 for Mexican seafood, Roka at No. 37 round its robata grill, and Kitchen Table at No. 70, the two-Michelin-star counter. Salt Yard is a minute away at 54 Goodge Street, and Circolo Popolare at the bottom on Rathbone Place. The [table below](#where-to-eat-and-drink) gives every address.
 
 **Book for the evening.** Restaurants fill from about 7pm. The outside tables in summer are rarely bookable and go first come, first served.
 
@@ -158,30 +162,35 @@ The western side, running towards Great Portland Street, **the coffee end of the
 
 A selection; the [full restaurant list](/articles/eat-in-london-guide/) has more.
 
-| Spot | Style | Price | Why go |
-| --- | --- | --- | --- |
-| **Kitchen Table** | Tasting menu | ££££ | Two Michelin stars at a horseshoe counter; no menu given out in advance |
-| **Chishuru** | West African | ££££ | Michelin-starred West African cooking on a fixed menu |
-| **Akoko** | West African | ££££ | Michelin star; Nigeria, Ghana and Senegal over a grill and clay oven |
-| **Roka** | Robatayaki | ££££ | The robata grill in the middle of the room |
-| **Hakkasan** | Cantonese | ££££ | Basement dining room on Hanway Place |
-| **Berners Tavern** | Modern British | ££££ | An Edwardian ballroom hung floor to ceiling with pictures |
-| **Sushi Atelier** | Sushi counter | £££ | Omakase at the counter |
-| **Khao So-i** | Northern Thai | £££ | Built around the coconut curry noodle it is named after |
-| **Cometa** | Mexican seafood | £££ | Tostadas, ceviche and aguachile, not a meat-led menu |
-| **Motorino** | London-Italian | £££ | Luke Ahearne and Stevie Parle's modern Italian restaurant |
-| **Rovi** | Vegetable-led | £££ | The Ottolenghi group's fermentation-and-fire room |
-| **Salt Yard** | Spanish-Italian tapas | £££ | Courgette flowers with goat's cheese and honey |
-| **Meraki** | Modern Greek | £££ | From the Roka and Zuma group |
-| **Plaza Khao Gaeng** | Thai curry shop | ££ | Curries over rice from a counter display, inside Arcade |
-| **Circolo Popolare** | Sicilian | ££ | Thousands of bottles on the walls; book weeks out |
-| **The Life Goddess** | Greek deli | ££ | You can buy the cheese you just ate |
-| **PaStation** | Fresh pasta | £ | Made in front of you, eaten standing up |
-| **Shree Krishna Vada Pav** | Mumbai street food | £ | Vada pav for the price of a coffee |
-| **Kaffeine** | Coffee | £ | Australian-run, with a food counter beside the espresso bar |
-| **The Attendant** | Coffee | £ | Inside a restored Victorian public lavatory; the urinals are the counter |
+| Spot | Style | Price | Where | Why go |
+| --- | --- | --- | --- | --- |
+| **Kitchen Table** | Tasting menu | ££££ | 70 Charlotte Street | Two Michelin stars at a horseshoe counter; no menu given out in advance |
+| **Chishuru** | West African | ££££ | 3 Great Titchfield Street | Michelin-starred West African cooking on a fixed menu |
+| **Akoko** | West African | ££££ | 21 Berners Street | Michelin star; Nigeria, Ghana and Senegal over a grill and clay oven |
+| **Roka** | Robatayaki | ££££ | 37 Charlotte Street | The robata grill in the middle of the room |
+| **Berners Tavern** | Modern British | ££££ | 10 Berners Street | An Edwardian ballroom hung floor to ceiling with pictures |
+| **Sushi Atelier** | Sushi counter | £££ | 114 Great Portland Street | Omakase at the counter |
+| **Khao So-i** | Northern Thai | £££ | 9–10 Market Place | Built around the coconut curry noodle it is named after |
+| **Cometa** | Mexican seafood | £££ | 21 Charlotte Street | Tostadas, ceviche and aguachile, not a meat-led menu |
+| **Motorino** | London-Italian | £££ | 1 Pearson Square | Luke Ahearne and Stevie Parle's modern Italian restaurant |
+| **Rovi** | Vegetable-led | £££ | 59 Wells Street | The Ottolenghi group's fermentation-and-fire room |
+| **Salt Yard** | Spanish-Italian tapas | £££ | 54 Goodge Street | Courgette flowers with goat's cheese and honey |
+| **Meraki** | Modern Greek | £££ | 80–82 Great Titchfield Street | From the Roka and Zuma group |
+| **Plaza Khao Gaeng** | Thai curry shop | ££ | Arcade, Centre Point | Curries over rice from a counter display, inside Arcade |
+| **Circolo Popolare** | Sicilian | ££ | 40–41 Rathbone Place | Thousands of bottles on the walls; book weeks out |
+| **The Life Goddess** | Greek deli | ££ | 29 Store Street | You can buy the cheese you just ate |
+| **PaStation** | Fresh pasta | £ | Tottenham Court Road | Made in front of you, eaten standing up |
+| **Shree Krishna Vada Pav** | Mumbai street food | £ | 38 Eastcastle Street | Vada pav for the price of a coffee |
+| **Kaffeine** | Coffee | £ | 66 Great Titchfield Street | Australian-run, with a food counter beside the espresso bar |
+| **The Attendant** | Coffee | £ | 27a Foley Street | Inside a restored Victorian public lavatory; the urinals are the counter |
 
-Meraki and The Life Goddess are both in our [Greek restaurants guide](/articles/best-greek-restaurants-london/).
+Meraki and The Life Goddess are both in our [Greek restaurants guide](/articles/best-greek-restaurants-london/). Cometa, and Mestizo, a mezcal bar just over Euston Road on Hampstead Road, are in the [Mexican restaurants guide](/articles/best-mexican-restaurants-london/).
+
+### Pubs
+
+- **The Fitzroy Tavern**, Charlotte Street — the pub the area is named after, where Orwell and Dylan Thomas drank in the 1930s and 40s.
+- **The George**, Great Portland Street — a Victorian corner pub on the western edge, handy before or after Regent's Park.
+- **[The Grafton Arms](hotel:the-grafton-arms)**, Grafton Way — a working pub with a roof terrace at the north end, near Warren Street, with eleven rooms upstairs.
 
 ![The dining room at Circolo Popolare, its walls stacked with thousands of bottles under a ceiling of hanging greenery and fairy lights](../../assets/articles/fitzrovia-area-guide/circolo-popolare-room.jpg)
 
