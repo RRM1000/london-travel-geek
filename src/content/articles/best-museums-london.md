@@ -92,7 +92,7 @@ Next door to the Natural History Museum, and **the better of the two with older 
 
 The Energy Hall of beam engines, Stephenson's Rocket, the Apollo 10 command module and the Information Age gallery are the spine of it. **Wonderlab is ticketed** while the rest of the museum is free, which catches families out at the door.
 
-**It is quieter than its neighbour all day.** If you are doing both in one visit, do the Natural History Museum first thing and cross over here at lunchtime.
+**It is quieter than its neighbour all day.** If you are doing both in one visit, do the Natural History Museum first thing and cross over here at lunchtime. The [V&A](/articles/v-and-a-guide/), across the road, is free too and open until 22.00 on Fridays; our guide has the exhibition prices and the galleries to start with.
 
 Anything with a start time rather than an opening time — Royal Institution Discourses, Gresham College lectures, Wellcome Lates, the Natural History Museum's evening panels, and the Victorian pumping engines that run on published dates — is in [science events in London](/articles/science-events-london/).
 

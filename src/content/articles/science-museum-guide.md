@@ -189,7 +189,7 @@ Our [step-free London guide](/articles/step-free-london/) covers the station and
 - **Buses:** routes 14, 49, 70, 74, 345, 360, 414, 430 and C1 stop outside South Kensington station.
 - **Cycling:** docking stations are outside the V&A and Natural History Museum on Exhibition Road, and on Thurloe Place.
 - **Driving:** the museum has no car park and there is no visitor parking on Exhibition Road. The nearest pay-and-display is in Prince Consort Road and Queen's Gate. The museum is inside the ULEZ.
-- **Next door:** the [Natural History Museum](/articles/natural-history-museum-guide/) is beside it on Exhibition Road and the V&A is across the road. Pick one for the morning and one for the afternoon.
+- **Next door:** the [Natural History Museum](/articles/natural-history-museum-guide/) is beside it on Exhibition Road and the [V&A](/articles/v-and-a-guide/) is across the road. Pick one for the morning and one for the afternoon.
 
 ---
 
@@ -207,6 +207,7 @@ Our [step-free London guide](/articles/step-free-london/) covers the station and
 
 - 🏛️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)**: the station subway, the three museums and where to eat.
 - 🦕 **[Natural History Museum Guide](/articles/natural-history-museum-guide/)**: the three entrances, Hope the blue whale and paid exhibitions.
+- 🎨 **[V&A Guide](/articles/v-and-a-guide/)**: Friday late opening, the Cast Courts and the Raphael Cartoons.
 - 🛏️ **[Where to Stay in South Kensington](/articles/where-to-stay-south-kensington/)**: hotels within walking distance of the museum quarter.
 - 🖼️ **[The Best Museums in London](/articles/best-museums-london/)**: how the Science Museum compares with the others.
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)**: pairing the Science Museum with parks, boat rides and hands-on galleries by age group.

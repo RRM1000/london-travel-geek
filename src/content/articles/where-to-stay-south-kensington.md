@@ -123,7 +123,7 @@ By Astor's own reckoning the Natural History Museum is ten minutes' walk and the
 
 There are two exceptions, both free:
 
-**The V&A is open until 22.00 every Friday.** Some galleries shut after 17.45, but the building stays open, the main café serves until 21.00 and the shops until 21.45. If you are staying one night in South Kensington, make it a Friday.
+**The [V&A](/articles/v-and-a-guide/) is open until 22.00 every Friday.** Some galleries shut after 17.45, but the building stays open, the main café serves until 21.00 and the shops until 21.45. If you are staying one night in South Kensington, make it a Friday.
 
 **The [Science Museum](/articles/science-museum-guide/) runs Lates from 18.30 to 22.00 on selected dates**, free, over-18s only, with themed events through the evening. Bags are discouraged and luggage is not allowed in at all, so it is not a plan for your last day.
 
@@ -177,7 +177,7 @@ Take this if the museums are one day of a longer trip. If they are the trip, you
 
 ## What you are staying for
 
-The three museums are all free. The Natural History Museum's free entry ticket is worth booking because there can be a queue at weekends and in school holidays; our [Natural History Museum guide](/articles/natural-history-museum-guide/) covers the entrances, a route and the exhibition prices, and our [Science Museum guide](/articles/science-museum-guide/) covers the free timed ticket, Wonderlab prices and the galleries worth the walk. Our [best museums in London](/articles/best-museums-london/) guide covers which halls in each are worth your time, and the [Kensington area guide](/articles/kensington-area-guide/) picks up the ground north of here — Kensington Palace, Holland Park and Kensington High Street — if you are staying more than two days.
+The three museums are all free. The Natural History Museum's free entry ticket is worth booking because there can be a queue at weekends and in school holidays; our [Natural History Museum guide](/articles/natural-history-museum-guide/) covers the entrances, a route and the exhibition prices, and our [Science Museum guide](/articles/science-museum-guide/) covers the free timed ticket, Wonderlab prices and the galleries worth the walk. The [V&A guide](/articles/v-and-a-guide/) has the Friday late opening and the paid exhibitions. Our [best museums in London](/articles/best-museums-london/) guide covers which halls in each are worth your time, and the [Kensington area guide](/articles/kensington-area-guide/) picks up the ground north of here — Kensington Palace, Holland Park and Kensington High Street — if you are staying more than two days.
 
 Our [aparthotels guide](/articles/aparthotels-london/) compares the kitchens-and-washing-machine option, and the [windowless rooms guide](/articles/windowless-hotel-rooms-london/) explains what you are buying at Zedwell.
 
