@@ -432,7 +432,7 @@ The framework lists both halves. Upstream: the **Palace of Westminster**, the Ab
 
 ### London Bridge
 
-The **Tower of London**, **Tower Bridge** and **HMS Belfast** lined up downstream, with Canary Wharf beyond them.
+The **Tower of London**, **Tower Bridge** and **[HMS Belfast](/articles/hms-belfast-guide/)** lined up downstream, with Canary Wharf beyond them.
 
 The framework sets a specific assessment point — 11B.2 — **close to the Southwark bank**, and says explicitly that this is where the best view of the Tower of London is. Walk to the middle of the bridge, which is what everyone does, and the composition is worse.
 

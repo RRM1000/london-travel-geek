@@ -158,6 +158,8 @@ The First and Second World War galleries are the core and run chronologically fr
 
 *The naval guns outside the Imperial War Museum.*
 
+IWM's Second World War cruiser, [HMS Belfast](/articles/hms-belfast-guide/), is moored on the Thames near Tower Bridge and charges for entry.
+
 > ⚠️ **The Holocaust Galleries are not recommended for under-14s**, and the museum says so at the entrance. Plan around it if you are bringing children.
 
 ### National Gallery and National Portrait Gallery, Trafalgar Square

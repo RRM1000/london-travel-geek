@@ -209,7 +209,7 @@ If the market and the arches are why you picked Bermondsey, arrive on a Friday.
 
 ## What you are staying for
 
-Our [Bermondsey area guide](/articles/bermondsey-area-guide/) covers the market, the Beer Mile arches, White Cube and the Shad Thames warehouse canyon — what to do once you have a room. For the stretch immediately west, the [South Bank guide](/articles/south-bank-area-guide/) covers Borough Market, HMS Belfast and Tower Bridge, including the £3 benefits ticket for HMS Belfast.
+Our [Bermondsey area guide](/articles/bermondsey-area-guide/) covers the market, the Beer Mile arches, White Cube and the Shad Thames warehouse canyon — what to do once you have a room. For the stretch immediately west, the [South Bank guide](/articles/south-bank-area-guide/) covers Borough Market, [HMS Belfast](/articles/hms-belfast-guide/) and Tower Bridge, including the £3 benefits ticket for HMS Belfast.
 
 ## Getting in and out
 

@@ -172,6 +172,7 @@ The grounds are cobbled, with steep ramps and narrow spiral stairs. The Jewel Ho
 ## Continue planning your London trip
 
 - 🌉 **[Tower Bridge Guide](/articles/tower-bridge-guide/)** — the glass floor, the Engine Rooms and bridge lift times, next door.
+- ⚓ **[HMS Belfast Guide](/articles/hms-belfast-guide/)** — a Second World War cruiser to climb all over, across Tower Bridge on the south bank.
 - ⛪ **[St Paul's Cathedral Guide](/articles/st-pauls-cathedral-guide/)** — the dome climb, the crypt and free Evensong, a walk west through the City.
 - 👻 **[Jack the Ripper and Ghost Tours](/articles/jack-the-ripper-ghost-tours-london/)** — the London Walks Ripper walk starts at Tower Hill station, and a ghost walk leaves from All Hallows by the Tower.
 - 🏛️ **[City of London Area Guide](/articles/city-of-london-area-guide/)** — Roman ruins, Leadenhall Market, and historic pubs surrounding the Tower.
