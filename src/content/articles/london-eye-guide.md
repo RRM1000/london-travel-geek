@@ -133,7 +133,7 @@ Every multi-attraction ticket gives you 7 days to visit the rest and can be resc
 - **[Kew Gardens](/articles/kew-gardens-guide/)** (up to £22)
 - **Tower Bridge Exhibition** (up to £18)
 - **Uber Boat by Thames Clippers** 1-Day River Roamer (£24.00 value)
-- **The View from The Shard** (£26.00–£32.00 value)
+- **[The View from The Shard](/articles/the-shard-guide/)** (£26.00–£32.00 value)
 - **Windsor Castle** (up to £36)
 
 #### Does the London Pass save money?

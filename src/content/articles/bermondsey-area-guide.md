@@ -73,7 +73,7 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 
 Bermondsey's railway viaducts now hold breweries, the leather warehouses are flats, and a narrow alley under the arches holds Maltby Street Market on Friday evenings and weekends.
 
-It sits immediately east of Borough Market. Our [Bankside and Borough walk](/articles/bankside-borough-walk/) starts at London Bridge station and covers Borough's inn yards, the market and Shakespeare's Bankside.
+It sits immediately east of Borough Market. Our [Bankside and Borough walk](/articles/bankside-borough-walk/) starts at London Bridge station and covers Borough's inn yards, the market and Shakespeare's Bankside. The Shard's viewing gallery is beside the station: see [The View from The Shard](/articles/the-shard-guide/).
 
 Bermondsey has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=bermondsey).
 

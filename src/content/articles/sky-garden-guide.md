@@ -211,7 +211,7 @@ Four other high viewpoints are within a short walk or a Tube stop. Our [best vie
 | --- | --- | --- |
 | **[Horizon 22](https://horizon22.co.uk/)** | Free, timed ticket | Level 58 of 22 Bishopsgate, ten minutes' walk north: 23 floors higher than the Sky Garden, with a 300-degree view and lifts that take 41 seconds, but fully enclosed behind glass. Weekdays 10:00 to 18:00, Saturday to 17:00, Sunday to 16:00. |
 | **[The Garden at 120](https://fen-court.com/garden-at-120/)** | Free, no booking | A 15th-floor open-air roof garden at 120 Fenchurch Street, two minutes along the street, with wisteria, roses and a long water feature, looking up at the Gherkin and the Cheesegrater. From 1 October to 31 March it is open 10:00 to 18:30 on weekdays and to 17:00 at weekends; closed on bank holidays and in high wind, storms or ice. |
-| **[The View from The Shard](https://www.theviewfromtheshard.com/)** | Paid, prices vary by date | Floors 68 to 72 across the river, with an open-air skydeck at the top. Children are from £10 and under-fours go free with an adult. |
+| **[The View from The Shard](/articles/the-shard-guide/)** | Paid, from £28 | Floors 68 to 72 across the river, with an open-air skydeck at the top. Children are from £10 and under-fours go free with an adult. Closed Mondays and Tuesdays from November 2026 to March 2027. |
 | **[Tate Modern, Level 10](https://www.tate.org.uk/visit/tate-modern)** | Free, no booking | The top floor of the Blavatnik Building on Bankside, looking across the river to St Paul's and the City. Tate Modern is open to 21:00 on Fridays and Saturdays. |
 
 **If you could not get a Sky Garden ticket**, walk along Fenchurch Street to The Garden at 120: no booking, open air, and the City's towers all round you. **If you want height**, book Horizon 22. **If you want open air high over the river**, the Shard's skydeck charges for it.
@@ -227,6 +227,7 @@ Four other high viewpoints are within a short walk or a Tube stop. Our [best vie
 ## Continue planning your London trip
 
 - 🌆 **[The Best Views in London](/articles/best-views-london/)** — Horizon 22, The Garden at 120, The Shard and the free hilltops, compared.
+- 🔺 **[The View from The Shard](/articles/the-shard-guide/)** — tickets from £28, the View Guarantee, winter hours and sunset times for the paid view across the river.
 - 🏙️ **[City of London Area Guide](/articles/city-of-london-area-guide/)** — the Square Mile's Roman remains, markets and pubs around 20 Fenchurch Street.
 - 🚶 **[City of London Walk](/articles/city-of-london-walk/)** — from Bank to St Katharine Docks, past the Sky Garden, Leadenhall Market and St Dunstan-in-the-East.
 - 🍽️ **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the other high tables, sorted by the cooking.

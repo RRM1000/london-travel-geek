@@ -121,7 +121,7 @@ There are more than a hundred London offers.
 | **ZSL London Zoo** | Advance booking | Excludes Christmas Day |
 | **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)** | Advance booking | Mon–Sat only; book one "National Rail Days Out - Two Visitors" ticket, which covers both of you |
 | **[Tower Bridge](/articles/tower-bridge-guide/)** | Advance booking | Full-price adult tickets only. Choose the "National Rail Days Out - Two Visitors" ticket type at the bottom of the list, quantity one, and bring a valid National Rail ticket for each visitor |
-| **The View from The Shard** | Advance booking | Book **24 hours ahead**; full-price general entry only. Offer listed until 31 December 2026 |
+| **[The View from The Shard](/articles/the-shard-guide/)** | Advance booking | Book **24 hours ahead**; full-price general entry only. Offer listed until 31 December 2026 |
 | **London Transport Museum** | Pay at the door | Buy an **annual pass** and get a second day pass free |
 
 Also included: Cutty Sark, the Royal Observatory (closed from 2 November 2026), the Painted Hall at the Old Royal Naval College, Shakespeare's Globe tours, the Royal Albert Hall tour, the Charles Dickens Museum, Chelsea Physic Garden, the Household Cavalry Museum, Eltham Palace, Apsley House, the Chelsea, Arsenal, Spurs and Wembley stadium tours, and river trips with City Cruises and Thames Rockets.
