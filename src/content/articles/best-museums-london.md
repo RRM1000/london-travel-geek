@@ -88,7 +88,7 @@ Hintze Hall and the blue whale are what people come for, along with the dinosaur
 
 *The Science Museum's ground-floor galleries.*
 
-Next door to the Natural History Museum, and **the better of the two with older children** — less queuing and more to press.
+Next door to the Natural History Museum, and **the better of the two with older children** — less queuing and more to press. Our [Science Museum guide](/articles/science-museum-guide/) has the free timed ticket, Wonderlab prices and the galleries worth the walk.
 
 The Energy Hall of beam engines, Stephenson's Rocket, the Apollo 10 command module and the Information Age gallery are the spine of it. **Wonderlab is ticketed** while the rest of the museum is free, which catches families out at the door.
 

@@ -134,6 +134,8 @@ Founded 1899 and run entirely by volunteers. **[Talks](https://www.hampsteadscie
 
 The collections are in the [museums guide](/articles/best-museums-london/). These are the things with a start time.
 
+**[Science Museum Lates](https://www.sciencemuseum.org.uk/see-and-do/lates)** are adults-only evenings from **6.30pm to 10pm**, with free general tickets and £12 VIP tickets. The next is **Pokémon x ESA Lates on Thursday 26 November 2026**, free but ticketed, last entry 9.15pm. Bags are discouraged and luggage is not allowed. Our [Science Museum guide](/articles/science-museum-guide/) has the rest.
+
 **[Wellcome Collection Lates](https://wellcomecollection.org/events)** take over the whole building on a Thursday evening, **7pm to 10pm, free but ticketed**, with one ticket covering the night and everything inside it on a first-come basis. Each Late has music in the atrium, short talks and gallery tours; dates are on the events page. Exhibitions, bar, café and shop stay open, and there is a low-lit quiet space.
 
 **[NHM Dig Deeper](https://www.nhm.ac.uk/events/dig-deeper-talks.html)** is the Natural History Museum's evening panel series in the Flett Theatre by the East Entrance — **£25, or £15 for Members, doors 6.30pm, a drink included, recommended 12+**. On **Tuesday 3 November**, 6.30pm to 8.30pm, the filmmakers behind *Wild London* discuss shooting urban wildlife with a Museum scientist. Members book through a separate link, and Members who cannot attend watch free online; everyone else can buy a livestream ticket instead.

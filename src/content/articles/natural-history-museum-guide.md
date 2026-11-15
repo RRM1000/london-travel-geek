@@ -197,7 +197,7 @@ More routes are in our [step-free London guide](/articles/step-free-london/).
 ## Common mistakes
 
 1. **Arriving at a weekend or in school holidays without an entry ticket.** You may have to queue; ticket holders and Members skip it. [Book the free ticket](https://ticketing.nhm.ac.uk/events/GENAD-ADM) first.
-2. **Fitting the Natural History Museum, Science Museum and V&A into one day.** All three are free and a short walk apart, which makes it tempting. Pick one for the morning and one for the afternoon.
+2. **Fitting the Natural History Museum, [Science Museum](/articles/science-museum-guide/) and V&A into one day.** All three are free and a short walk apart, which makes it tempting. Pick one for the morning and one for the afternoon.
 3. **Looking for Dippy in Hintze Hall.** The *Diplodocus* cast left when *Hope* arrived in 2017. For a *Diplodocus*, walk out to the gardens and see *Fern*, the bronze one.
 4. **Taking *Hope* for the only whale.** *Hope* is the skeleton in Hintze Hall. The blue whale model hangs in the Mammals Hall.
 5. **Looking for the ice rink.** The museum's ice rink ran for 16 years and has closed; the gardens now stand where it was. For skating, see our [ice skating guide](/articles/ice-skating-london/).
@@ -207,6 +207,7 @@ More routes are in our [step-free London guide](/articles/step-free-london/).
 ## Continue planning your London trip
 
 - 🏛️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)**: the station tunnel, the V&A and Science Museum next door, and where to eat.
+- 🔬 **[Science Museum Guide](/articles/science-museum-guide/)**: the free timed ticket, Wonderlab, IMAX and the galleries worth the walk.
 - 🛏️ **[Where to Stay in South Kensington](/articles/where-to-stay-south-kensington/)**: hotels within walking distance of the museum quarter.
 - 🖼️ **[The Best Museums in London](/articles/best-museums-london/)**: how the Natural History Museum compares with the others.
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)**: pairing South Kensington's museums with parks, boat rides and hands-on galleries by age group.
