@@ -153,7 +153,7 @@ Housed in what was **Bethlem Royal Hospital — the original Bedlam** — with t
 
 The First and Second World War galleries are the core and run chronologically from the ground up, so start at the bottom. The **Holocaust Galleries** are a separate permanent exhibition.
 
-**Allow three hours and eat before you come.** It sits in a park ten minutes from Lambeth North, away from anywhere with much choice.
+**Allow three hours and eat before you come.** It sits in a park ten minutes from Lambeth North, away from anywhere with much choice. Our [Imperial War Museum guide](/articles/imperial-war-museum-london-guide/) covers the galleries floor by floor, the free Childhood in War exhibition and the step-free entrance.
 
 ![The domed portico of the Imperial War Museum with two large naval guns mounted on the lawn in front](../../assets/articles/best-museums-london/imperial-war-museum.jpg)
 

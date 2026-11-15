@@ -183,6 +183,7 @@ IWM says the quietest time is the afternoon, after 3pm, though school and tour g
 - 🚶 **[Westminster Walking Tour](/articles/westminster-walk/)** — step-by-step 4km route connecting the War Rooms with St James's Park and Whitehall.
 - ⚓ **[HMS Belfast Guide](/articles/hms-belfast-guide/)** — IWM's Second World War cruiser on the Thames, with the same membership.
 - 🖼️ **[Best Museums in London](/articles/best-museums-london/)** — 17 compared, most of them free.
+- 🎖️ **[Imperial War Museum London Guide](/articles/imperial-war-museum-london-guide/)** — the free IWM museum in Lambeth, with the First World War, Second World War and Holocaust galleries.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — which London attractions are included and how to calculate whether the pass pays off.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — money-saving booking rules and free museums across Central London.
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)** — Tube fares, contactless payments, and bus navigation.

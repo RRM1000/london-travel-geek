@@ -73,7 +73,7 @@ The view is sold by room grade, so book the grade, not the building.
 
 **County Hall and Westminster Bridge Road** is the London Eye end. The three big hotels here — the Marriott, the Premier Inn and Park Plaza Westminster Bridge — face the Houses of Parliament across the river, and Westminster station is a ten-minute walk over the bridge.
 
-**Waterloo and Lower Marsh** sit behind the station. This is the transport end: four Tube lines, the mainline to Windsor and the south-west, and the Old Vic and Young Vic theatres on The Cut. Lower Marsh is a street of cafés and pubs one block from the concourse, and Lambeth North on the Bakerloo line is the quieter station for the southern edge.
+**Waterloo and Lower Marsh** sit behind the station. This is the transport end: four Tube lines, the mainline to Windsor and the south-west, and the Old Vic and Young Vic theatres on The Cut. Lower Marsh is a street of cafés and pubs one block from the concourse, and Lambeth North on the Bakerloo line is the quieter station for the southern edge and the nearest to the [Imperial War Museum](/articles/imperial-war-museum-london-guide/).
 
 **Blackfriars Road and Bankside** runs from the river down to Southwark station, with [Tate Modern](/articles/tate-modern-guide/) and the Globe on the water. Most of the hotels in this guide are here. Blackfriars Road itself is a wide bus route; the lanes behind the Globe are not.
 

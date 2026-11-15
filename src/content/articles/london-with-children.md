@@ -342,6 +342,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🖼️ **[National Gallery Guide](/articles/national-gallery-guide/)** — the free Welcome Space at weekends and Canvas Quest, a hide-and-seek game for ages 7 and over
 - ⚓ **[Cutty Sark and the National Maritime Museum](/articles/cutty-sark-national-maritime-museum-guide/)** — the Ahoy! gallery for under-7s, the Cove playground and the ship.
+- 🎖️ **[Imperial War Museum London](/articles/imperial-war-museum-london-guide/)** — the free Childhood in War exhibition, and which galleries are not for under-14s
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - ♿ **[Step-Free London](/articles/step-free-london/)** — lifts, ramps and which attractions have them

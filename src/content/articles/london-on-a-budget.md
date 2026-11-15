@@ -187,6 +187,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - 🏺 **[British Museum Guide](/articles/british-museum-guide/)** — free entry, the Bayeux Tapestry tickets and what to see in an hour
 - 🏛️ **[Houses of Parliament Tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — watching a debate in the public galleries costs nothing, for UK and overseas visitors.
 - 🖼️ **[National Gallery Guide](/articles/national-gallery-guide/)** — free entry, pay-what-you-wish Renoir on Friday evenings and where the famous paintings hang
+- 🎖️ **[Imperial War Museum London Guide](/articles/imperial-war-museum-london-guide/)** — free, no booking, and three hours of galleries
 - 📺 **[Free TV and Radio Tickets](/articles/free-tv-show-tickets-london/)** — studio audiences cost nothing
 - 🔵 **[London's Blue Plaques](/articles/london-blue-plaques/)** and the [plaques map](/plaques/)
 - 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)** — the arithmetic worked through
