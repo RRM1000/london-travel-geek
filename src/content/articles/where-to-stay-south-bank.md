@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/w/index.php?curid=155127135"
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-06-14
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2027-03-24
 sites: [london]
 canonicalSite: london
@@ -24,7 +24,7 @@ faq:
   - q: "Which station should I stay near: Waterloo, Southwark or London Bridge?"
     a: "Waterloo for the most lines: Jubilee, Northern, Bakerloo and Waterloo & City, plus trains to south-west London and Windsor. London Bridge for Gatwick and St Pancras, both direct on Thameslink. Southwark, in between, is Jubilee only but puts Bankside and Tate Modern five minutes away. All three are on the Jubilee line, which runs through to Wembley Park and North Greenwich for The O2."
   - q: "Which South Bank hotels have a swimming pool?"
-    a: "Park Plaza Westminster Bridge has a 15-metre indoor pool for residents, open 8am to 8pm, with sessions booked once you have arrived. Hilton London Bankside has a heated indoor pool. Guests at the London Marriott County Hall get free use of the 25-metre pool and gym at The Club at County Hall, in the same building, 7am to 9pm."
+    a: "Park Plaza Westminster Bridge has a 15-metre indoor pool for residents, open 8am to 8pm, with sessions booked once you have arrived. Hilton London Bankside has a heated indoor pool, and Novotel London Blackfriars a heated pool 1.2 metres deep, booked by the hour. Guests at the London Marriott County Hall get free use of the 25-metre pool and gym at The Club at County Hall, in the same building, 7am to 9pm."
   - q: "Which South Bank hotel rooms have a river view?"
     a: "At Sea Containers London, only the Riverview grades face the Thames: Standard rooms carry no view promise and Superior rooms look over the skyline. The Marriott County Hall sells Executive Family Rooms with Thames views and balcony rooms facing Big Ben, and Park Plaza Westminster Bridge has a Studio Room with a London Eye view. Book the named view grade, not the building."
 ---
@@ -33,7 +33,41 @@ Every hotel in this guide is within a few minutes' walk of the Thames path betwe
 
 **Waterloo** at the western end is the Jubilee, Northern and Bakerloo interchange, with mainline trains out of the same building. **London Bridge** at the eastern end has Thameslink straight to Gatwick and St Pancras. **Bankside**, between them, has Southwark station on the Jubilee line and the quietest streets of the three.
 
-> 💡 **The Short Version:** **[Sea Containers London](hotelscom:474803)** is the riverside hotel, but only its Riverview grades face the Thames. **[Park Plaza Westminster Bridge](hotelscom:h3113039)** is the big family option, with a 15-metre pool and 36 m² studios that sleep two adults and two children. **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 with Seabird on the roof. **[citizenM Bankside](hotel:citizenm-bankside)** is from £155 for a small room with a very large bed, and the **[Premier Inn at County Hall](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html)** has been as low as £92 on a quiet Sunday. On a budget, a **double capsule at [St Christopher's Village](hotel:st-christophers-village)** by Borough Market sleeps two from £53.
+> 💡 **The Short Version:** The closest hotels to the Southbank Centre and the London Eye are the three at County Hall and Westminster Bridge, ten minutes' walk or less. **[Sea Containers London](hotelscom:474803)** is the riverside hotel, but only its Riverview grades face the Thames. **[Park Plaza Westminster Bridge](hotelscom:h3113039)** is the big family option, with a 15-metre pool and 36 m² studios that sleep two adults and two children. **[The Hoxton, Southwark](hotel:the-hoxton-southwark)** is about £190 with Seabird on the roof. **[citizenM Bankside](hotel:citizenm-bankside)** is from £155 for a small room with a very large bed, and the **[Premier Inn at County Hall](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html)** has been as low as £92 on a quiet Sunday. On a budget, a **double capsule at [St Christopher's Village](hotel:st-christophers-village)** by Borough Market sleeps two from £53.
+
+## South Bank hotels at a glance
+
+| Hotel | Part | Price | Station | Walk to the Southbank Centre | Know before booking |
+| --- | --- | --- | --- | --- | --- |
+| **London Marriott County Hall** | County Hall | £££ | Waterloo 7 min | Under 10 min | 25-metre pool free to guests; Thames-view family rooms |
+| **Park Plaza Westminster Bridge** | Westminster Bridge Road | About £180 and up | Waterloo 6 min | About 10 min | 15-metre pool; 36 m² studios for two adults and two children |
+| **Premier Inn County Hall** | County Hall | £92 to £295 | Waterloo 7 min | Under 10 min | The County Hall address at chain prices; book on Premier Inn's site |
+| **H10 London Waterloo** | Waterloo | From £183 | Waterloo 5 min | About 15 min | Sky View rooms on the 8th and 9th floors face the London Eye |
+| **The Walrus** | Lower Marsh | £ | Lambeth North 3 min | About 10 min | Hostel dorms over a bar; noise from street and railway |
+| **Sea Containers London** | Bankside | £££ | Southwark 5 min | About 10 min along the river | Only the Riverview grades face the Thames |
+| **Bankside Hotel** | Blackfriars Road | — | Blackfriars 5 min | About 15 min | Family Collection rooms sleep four |
+| **The Mad Hatter** | Blackfriars Road | — | Southwark 4 min | About 15 min | Check-in 3pm to 11pm only |
+| **The Hoxton, Southwark** | Blackfriars Road | About £190 | Southwark 3 min | About 15 min | Seabird on the 14th floor; Double Up rooms for four adults |
+| **ibis London Blackfriars** | Blackfriars Road | ££ | Southwark 2 min | About 15 min | Cashless; shower only |
+| **Novotel London Blackfriars** | Blackfriars Road | — | Southwark 3 min | About 15 min | Indoor pool booked by the hour; rooms for four |
+| **citizenM Bankside** | Bankside | £155 to £251 | Southwark 6 min | About 20 min | One room type, two adults only |
+| **Hilton London Bankside** | Bankside | £££ | Southwark 5 min | About 20 min | Heated indoor pool; breakfast extra |
+| **Native Bankside** | Bankside | £££ | Southwark, London Bridge or Blackfriars under 10 min | About 25 min | Apartments with kitchens, cleaned daily |
+| **Premier Inn Southwark (Bankside)** | Borough | £102 to £243 | London Bridge 8 min | About 25 min | Cheaper than the County Hall Premier Inn on four of five nights |
+| **London Bridge Hotel** | London Bridge | Weekends from £129 | London Bridge 2 min | About 30 min | 92 m² apartments for six |
+| **St Christopher's Village** | Borough | £53 to £166 a double capsule | Borough 4 min | About 30 min | Adults only; check-in until 2am |
+
+*Walking times are to the Royal Festival Hall in the Southbank Centre. A range of prices is the cheapest double on five sampled nights; the rest are each hotel's own rate or its band, from £ (cheapest) to £££.*
+
+## Rooms with a Thames or London Eye view
+
+The view is sold by room grade, so book the grade, not the building.
+
+- **Sea Containers London:** the Riverview Deluxe rooms are the first to sit over the Thames, and the Riverview Balcony Suite has a private balcony over the river. Superior rooms look over the skyline; Standard rooms promise no view.
+- **London Marriott County Hall:** Executive Family Rooms look over the Thames and sleep four; balcony rooms face Big Ben; there are two-bedroom suites.
+- **Park Plaza Westminster Bridge:** one Studio grade faces the London Eye.
+- **H10 London Waterloo:** Superior Sky View rooms start on the 8th floor, and the 9th-floor Sky View Terrace rooms have a private terrace with a partial view of the London Eye. The Junior Suite Sky View has a freestanding bath by the window.
+- **Novotel London Blackfriars:** the Executive Premium room with a balcony is sold with a city or panoramic view.
 
 ## Which part of the South Bank
 
@@ -216,6 +250,18 @@ A refurbished economy hotel with 297 rooms, air conditioning throughout and a ba
 </div>
 
 *A room at ibis London Blackfriars.*
+
+### Novotel London Blackfriars — a pool on Blackfriars Road
+
+*182 rooms · 46 Blackfriars Road, SE1 8NZ · Southwark 3 min · [Hotels.com](hotelscom:421375)*
+
+A Novotel of 182 rooms across Blackfriars Road from the ibis, with Tate Modern and the river about fifteen minutes' walk away. The **indoor heated pool is 1.2 metres deep and 12 metres wide**, with a whirlpool jet and a combined sauna and steam room, and the hotel recommends **booking an hour's slot in advance**. Our guide to [London hotels with a pool](/articles/hotels-with-pool-london/) compares it with the others.
+
+![The indoor pool at Novotel London Blackfriars, with a coral-reef mural along one wall](../../assets/articles/hotels-with-pool-london/novotel-london-blackfriars-pool.jpg)
+
+*The pool at Novotel London Blackfriars.*
+
+**For a family, the Superior Premium room is 24 m² with a queen bed and two single sofa beds, for up to four.** The Executive Premium room with a private balcony is 26 m². MAM, the ground-floor restaurant, is Mediterranean. Check-in is 3pm, check-out noon, and pets are welcome.
 
 ### citizenM London Bankside — one room type, and it sleeps two
 
