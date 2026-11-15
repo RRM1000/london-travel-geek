@@ -5,7 +5,7 @@ description: "Eight free city farms, a zoo scaled for under-tens, an indoor roll
 heroImage: "../../assets/articles/london-with-children/granary-square-fountains.jpg"
 heroImageAlt: "Children running through the ground fountains at Granary Square in King's Cross on a summer afternoon"
 publishedAt: 2026-06-27
-updatedAt: 2026-11-09
+updatedAt: 2026-11-15
 reviewBy: 2026-12-18
 sites: [london]
 canonicalSite: london
@@ -147,7 +147,7 @@ Real Tube carriages, trams, trolleybuses and horse-drawn omnibuses under the iro
 
 *Adult from £27.70, child (3–15) from £19.40 · under-3s free · Camden Town*
 
-Opened in 1828 as the world's first scientific zoo, with listed Victorian and modernist buildings, including the old Snowdon Aviary, reworked as Monkey Valley. It is a full day, with a long walk built into it. **Under-3s go free and need no ticket at all. Children aged 3 to 15 start at £19.40 and adults at £27.70 for an off-peak weekday if you book online, rising to £24.10 and £34.50 at peak**, and buying at the gate adds roughly two pounds a head. Last entry is an hour before closing and some animal houses shut half an hour before that, so a late-afternoon arrival is poor value. Children under 16 are not admitted without an adult.
+Opened in 1828 as the world's first scientific zoo, with listed Victorian and modernist buildings, including the old Snowdon Aviary, reworked as Monkey Valley. It is a full day, with a long walk built into it. **Under-3s go free and need no ticket at all. Children aged 3 to 15 start at £19.40 and adults at £27.70 for an off-peak weekday if you book online, rising to £24.10 and £34.50 at peak**, and buying at the gate adds roughly two pounds a head. Last entry is an hour before closing and some animal houses shut half an hour before that, so a late-afternoon arrival is poor value. Children under 16 are not admitted without an adult. Our [London Zoo guide](/articles/london-zoo-guide/) has the full price table, the daily talks and the Christmas events.
 
 ### Battersea Park Children's Zoo
 
@@ -159,7 +159,7 @@ A small zoo built around young children, with meerkats, monkeys, otters, lemurs,
 
 *From £28 online · under-2s free · Waterloo*
 
-In the basement of County Hall beside the London Eye: fourteen zones over three floors, a walk-through tunnel with sharks and rays passing overhead, and a rockhopper penguin colony. **Their own estimate is one to one and a half hours, against a standard online ticket from £28**, and walking up on the day costs meaningfully more. Under-2s go free, and under-16s must be with someone over 18. **There is no cloakroom of any kind, and that includes pushchairs**, so whatever you arrive with you push around the tanks. Open 10am to 6pm with last entry at 5pm. Book a timeslot, as queues build from mid-morning.
+In the basement of County Hall beside the London Eye: fourteen zones over three floors, a walk-through tunnel with sharks and rays passing overhead, and a gentoo penguin colony. **Their own estimate is one to one and a half hours, against a standard online ticket from £28**, and walking up on the day costs meaningfully more. Under-2s go free, and under-16s must be with someone over 18. **There is no cloakroom for bags**; pushchairs can go round, with lifts throughout, and a free buggy bay opens at weekends and on peak dates such as 16 to 31 December. In late 2026 it opens 10am to 5pm on weekdays, to 7pm on Saturdays and to 6pm on Sundays, with last entry an hour before closing. Book a timeslot, as queues build from mid-morning.
 
 ### WWT London Wetland Centre, Barnes
 
@@ -247,7 +247,7 @@ Neither is designed for children. **Westminster Abbey is £32 for an adult and �
 
 *From £27 online, £39 walk-up · under-2s free · Baker Street*
 
-The draw is photographs beside waxworks, plus a short dark ride at the end. **Book online and it starts at £27 for an adult and £24 for a child aged 2 to 15; walking up on the day is £39 and £35.** Under-2s go free. Closing times move around a great deal, so look them up instead of assuming a late slot exists.
+The draw is photographs beside waxworks, plus a short dark ride at the end. **Book online and it starts at £27 for an adult and £24 for a child aged 2 to 15; walking up on the day is £39 and £35.** Under-2s go free. Closing times move around a great deal, so look them up instead of assuming a late slot exists. Pushchairs have to go in the free cloakroom; our [Madame Tussauds guide](/articles/madame-tussauds-london-guide/) has the zones, the combos and the age advice for the Chamber of Horrors.
 
 ---
 
@@ -266,7 +266,7 @@ The draw is photographs beside waxworks, plus a short dark ride at the end. **Bo
 * **Book the free timed ticket** at the national museums where one is offered.
 * **Under-5s go free almost everywhere that charges**: the Tower of London, Tower Bridge, Buckingham Palace. Under-3s at London Zoo and the Wetland Centre; under-2s at the London Eye, SEA LIFE, Shrek's and Madame Tussauds.
 * **Check age and height guidance.** The London Dungeon is 12+; Shrek's Adventure is recommended for 6–12; Babylon Park's rollercoaster and drop tower need 105cm; Go Ape needs 1.2m at six or 1.4m at ten.
-* **Buggies are not always welcome.** Mail Rail bans them below ground, SEA LIFE has nowhere to leave one, and Young V&A and the British Museum both have somewhere to park one.
+* **Buggies are not always welcome.** Mail Rail bans them below ground, SEA LIFE has a buggy bay only at weekends and on peak dates, and Young V&A and the British Museum both have somewhere to park one.
 * **Under-11s travel free** on the Tube, DLR and Elizabeth line with a fare-paying adult, and free on buses and trams at any time.
 * **Plan a buggy day around the lifts.** Only 95 Tube stations are step-free, and Covent Garden, Leicester Square and Charing Cross are not among them; every bus has a ramp instead. Our [step-free London guide](/articles/step-free-london/) has the station list and the attractions with lifts.
 * **Museums are quietest in the last two hours** before closing.

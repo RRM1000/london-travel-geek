@@ -126,7 +126,7 @@ Both are private homes, so the pavement is the view. Where the two terraces meet
 
 ## 6. The Broad Walk and the Avenue Gardens
 
-**The park's main avenue, walked south.** London Zoo is at the top of it if you want it; this route turns the other way.
+**The park's main avenue, walked south.** London Zoo is at the top of it if you want it ([prices, hours and what to see](/articles/london-zoo-guide/)); this route turns the other way.
 
 Past Chester Road it becomes the **Avenue Gardens**, which Nash also designed: tiered fountains, formal avenues of trees and bedding changed with the seasons. Cyclists share the Broad Walk, so keep to the side.
 
@@ -238,5 +238,6 @@ On a Sunday the route also works in reverse from Bond Street. That puts the mark
 
 - **[The Marylebone area guide](/articles/marylebone-area-guide/)** — Chiltern Street, Marylebone Lane, Wigmore Hall and where to stay.
 - **[The Mayfair area guide](/articles/mayfair-area-guide/)** — straight across Oxford Street from the finish.
+- **[Madame Tussauds London](/articles/madame-tussauds-london-guide/)** — on Marylebone Road, two minutes from the Baker Street start.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — Regent's Park against the rest.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.

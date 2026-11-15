@@ -131,7 +131,7 @@ Where a site sells cheaper in advance than at the door, both are shown.
 | **Kensington Palace** | £19.00 | £9.50 | £20.90 / £10.50 with donation, from 11 November |
 | **The Royal Mews** | £18.00 | £9.00 | Advance price |
 | **London Eye** | from £29.00 | from £26.00 | **£39 / £35 walk-up**; dynamic pricing |
-| **Madame Tussauds** | from £27.00 | from £21.00 | **£39 / £35 walk-up**; dynamic pricing |
+| **[Madame Tussauds](/articles/madame-tussauds-london-guide/)** | from £27.00 | from £24.00 | **£39 / £35 walk-up**; dynamic pricing |
 | **[Tower Bridge](/articles/tower-bridge-guide/)** | £18.00 | £9.00 | Child 5–15; under 5 free but needs a ticket |
 | **Cutty Sark** | £22.00 | £11.00 | |
 | **Royal Observatory Greenwich** | — | — | Temporarily closed for refurbishment |
@@ -196,16 +196,16 @@ A busy but plausible three days:
 | --- | --- | --- |
 | Tower of London | £38.00 | £19.00 |
 | London Eye | £29.00 | £26.00 |
-| Madame Tussauds | £27.00 | £21.00 |
+| Madame Tussauds | £27.00 | £24.00 |
 | Hampton Court Palace | £30.00 | £15.00 |
 | Tower Bridge | £18.00 | £9.00 |
-| **Per person** | **£142.00** | **£90.00** |
+| **Per person** | **£142.00** | **£93.00** |
 
-Family total at the gate: **£464.00**. Against £596.
+Family total at the gate: **£470.00**. Against £596.
 
-**The pass loses by £132.00.**
+**The pass loses by £126.00.**
 
-To get in front you must add Windsor Castle and Kensington Palace, taking it to seven paid attractions in three days with two children: £634.20 at the gate, a **£38.20** win.
+To get in front you must add Windsor Castle and Kensington Palace, taking it to seven paid attractions in three days with two children: £640.20 at the gate, a **£44.20** win.
 
 > ⚠️ **The child pass is the weak point.** Most London attractions charge children about **half** the adult price; the Tower, Hampton Court, Kensington and Windsor are exactly 50%. The 3-day pass charges children **two-thirds** of the adult price. The exception is Merlin: the London Eye charges a child £26 against £29, so the pass's child rate holds up there.
 

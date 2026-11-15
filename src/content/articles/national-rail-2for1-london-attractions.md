@@ -118,7 +118,7 @@ There are more than a hundred London offers.
 | **Westminster Abbey** | Pay at the door | Mon–Sat only. **Cannot be pre-booked.** Adds a free child (17 or under) per adult ticket |
 | **Hampton Court Palace** | Pay at the door | **Excludes 29–31 August and 28 November 2026–3 January 2027** |
 | **Kensington Palace** | Pay at the door | **Excludes 1–6 January, 28 March–12 April, 18 July–31 August and 19–31 December** |
-| **ZSL London Zoo** | Advance booking | Excludes Christmas Day |
+| **[ZSL London Zoo](/articles/london-zoo-guide/)** | Advance booking | Excludes Christmas Day |
 | **[St Paul's Cathedral](/articles/st-pauls-cathedral-guide/)** | Advance booking | Mon–Sat only; book one "National Rail Days Out - Two Visitors" ticket, which covers both of you |
 | **[Tower Bridge](/articles/tower-bridge-guide/)** | Advance booking | Full-price adult tickets only. Choose the "National Rail Days Out - Two Visitors" ticket type at the bottom of the list, quantity one, and bring a valid National Rail ticket for each visitor |
 | **The View from The Shard** | Advance booking | Book **24 hours ahead**; full-price general entry only. Offer listed until 31 December 2026 |
@@ -128,7 +128,7 @@ Also included: Cutty Sark, the Royal Observatory (closed from 2 November 2026), 
 
 **Paid exhibitions are included too**, at Tate Modern, Tate Britain and the National Gallery. They change with each show, so check the listing.
 
-> ⚠️ **These are NOT 2FOR1.** The **London Eye is one third off**, not two-for-one — and so are **Madame Tussauds**, **SEA LIFE London Aquarium**, **the London Dungeon** and **Shrek's Adventure**. All five are Merlin attractions with their own separate terms. The same third off covers Merlin's theme parks during their main seasons, among them [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/), [Thorpe Park](/articles/thorpe-park-day-trip/) and [Chessington](/articles/chessington-world-of-adventures-day-trip/), for up to six people per train booking; [theme parks near London](/articles/theme-parks-near-london/) compares them.
+> ⚠️ **These are NOT 2FOR1.** The **London Eye is one third off**, not two-for-one — and so are **[Madame Tussauds](/articles/madame-tussauds-london-guide/)**, **SEA LIFE London Aquarium**, **the London Dungeon** and **Shrek's Adventure**. All five are Merlin attractions with their own separate terms. The same third off covers Merlin's theme parks during their main seasons, among them [LEGOLAND Windsor](/articles/legoland-windsor-day-trip/), [Thorpe Park](/articles/thorpe-park-day-trip/) and [Chessington](/articles/chessington-world-of-adventures-day-trip/), for up to six people per train booking; [theme parks near London](/articles/theme-parks-near-london/) compares them.
 
 > ⚠️ **Not in the scheme at all:** the **Churchill War Rooms**, HMS Belfast, Buckingham Palace and the Royal Mews, the Royal Academy, [Sky Garden](/articles/sky-garden-guide/) and the Postal Museum.
 

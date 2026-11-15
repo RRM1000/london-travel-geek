@@ -156,6 +156,7 @@ London's two Westfield centres are fully roofed malls.
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🎭 **[London Theatre: How to Choose a Show and Pay Less](/articles/london-theatre-guide/)**
 - 🎢 **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
+- 🕴️ **[Madame Tussauds London](/articles/madame-tussauds-london-guide/)** — two hours indoors on Marylebone Road
 - 🎬 **[London's Best Independent Cinemas](/articles/best-cinemas-london/)**
 - 💷 **[The Best Cinema Deals in London](/articles/cinema-deals-london/)**
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)**
