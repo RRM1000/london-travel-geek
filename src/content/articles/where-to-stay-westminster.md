@@ -43,7 +43,7 @@ What they share is quiet evenings: Whitehall and the streets around St James's P
 
 **Westminster and St James's Park** is the government quarter between Victoria Street and the park: Westminster Abbey, Parliament Square and St James's Park station. Buckingham Gate and Caxton Street are a few minutes from all of them.
 
-**Whitehall and Trafalgar Square** is the northern end: Downing Street, Horse Guards and the Churchill War Rooms, with Charing Cross and Embankment stations and the National Gallery. Covent Garden and Soho are a short walk north.
+**Whitehall and Trafalgar Square** is the northern end: Downing Street, Horse Guards and the Churchill War Rooms, with Charing Cross and Embankment stations and the [National Gallery](/articles/national-gallery-guide/). Covent Garden and Soho are a short walk north.
 
 **St James's** is the grid between Pall Mall and Piccadilly, with Green Park station on its western edge. North of Piccadilly is Mayfair: The Ritz and the grand hotels there are in our [Mayfair stay guide](/articles/where-to-stay-mayfair/). The County Hall hotels facing Big Ben across Westminster Bridge are in our [South Bank stay guide](/articles/where-to-stay-south-bank/).
 

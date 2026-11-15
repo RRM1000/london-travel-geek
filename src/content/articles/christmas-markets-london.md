@@ -88,7 +88,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 - **Price:** free.
 - **Getting there:** Charing Cross is two minutes; Leicester Square about five.
 
-**Come after 3 December**, when the tree is lit and the choirs start; before that it is a row of stalls beside a fountain. It takes half an hour, so fold it into an evening with Leicester Square and Covent Garden, or a daytime visit to the [National Gallery](/articles/westminster-area-guide/).
+**Come after 3 December**, when the tree is lit and the choirs start; before that it is a row of stalls beside a fountain. It takes half an hour, so fold it into an evening with Leicester Square and Covent Garden, or a daytime visit to the [National Gallery](/articles/national-gallery-guide/).
 
 ### Leicester Square
 

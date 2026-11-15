@@ -73,7 +73,7 @@ heroImageAlt: "Covent Garden Piazza and the market halls seen from above, with p
 
 Covent Garden is a former fruit and vegetable market turned pedestrian district, with a cobbled Piazza, glass-roofed market halls and a theatre on almost every corner. Our [London theatre guide](/articles/london-theatre-guide/) explains how the West End, off-West End and fringe differ, and covers curtain times and getting home.
 
-Soho is eight minutes west and the [British Museum](/articles/british-museum-guide/) twelve minutes north.
+Soho is eight minutes west and the [British Museum](/articles/british-museum-guide/) twelve minutes north. The [National Gallery](/articles/national-gallery-guide/) on Trafalgar Square is within ten minutes' walk.
 
 Covent Garden has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=covent-garden).
 

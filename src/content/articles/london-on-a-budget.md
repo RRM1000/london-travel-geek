@@ -185,6 +185,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — the free garden on the Walkie-Talkie, and the Monday ticket release
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🏺 **[British Museum Guide](/articles/british-museum-guide/)** — free entry, the Bayeux Tapestry tickets and what to see in an hour
+- 🖼️ **[National Gallery Guide](/articles/national-gallery-guide/)** — free entry, pay-what-you-wish Renoir on Friday evenings and where the famous paintings hang
 - 📺 **[Free TV and Radio Tickets](/articles/free-tv-show-tickets-london/)** — studio audiences cost nothing
 - 🔵 **[London's Blue Plaques](/articles/london-blue-plaques/)** and the [plaques map](/plaques/)
 - 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)** — the arithmetic worked through

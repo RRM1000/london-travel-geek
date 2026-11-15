@@ -66,7 +66,7 @@ These thirteen plans do the second. **Each is grouped tightly enough that you ba
 
 Lunch ten minutes off the square rather than on it. See [cheap eats](/articles/cheap-eats-london/).
 
-**Afternoon.** **The National Gallery** is free and right there — pick three rooms instead of attempting it. Then walk down to the river and east along the **South Bank** past the Southbank Centre and the National Theatre.
+**Afternoon.** **The [National Gallery](/articles/national-gallery-guide/)** is free and right there — pick three rooms instead of attempting it. Then walk down to the river and east along the **South Bank** past the Southbank Centre and the National Theatre.
 
 **Evening.** **Covent Garden** and dinner in [Soho](/articles/soho-area-guide/).
 
@@ -197,7 +197,7 @@ Three major museums within *five minutes of each other*, all **free**.
 
 **Morning.** **The British Museum** — free, and go at opening. Pick two galleries.
 
-**Midday.** Walk down to **Trafalgar Square** for the **National Gallery**, also free, and the **Fourth Plinth** outside it, which carries a new commissioned artwork every eighteen months.
+**Midday.** Walk down to **Trafalgar Square** for the **[National Gallery](/articles/national-gallery-guide/)**, also free, and the **Fourth Plinth** outside it, which carries a new commissioned artwork every eighteen months.
 
 **Afternoon.** Over the river to **Tate Modern** — free, and its **tenth-floor viewing level** is one of the best views in London at no charge. Then walk east along the South Bank.
 

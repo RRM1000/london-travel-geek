@@ -242,7 +242,7 @@ Turn off The Mall onto the gravel and you are on **Horse Guards Parade**, which 
 
 North up Whitehall for four hundred metres and the road opens into the square.
 
-**The National Gallery is free and open daily, 10am to 6pm, and until 9pm on Fridays.** It closes on 24 to 26 December and 1 January. The **main free entrance is the Sainsbury Wing**; you can book a free general admission ticket for fast-track entry or simply walk up. Only the temporary exhibitions are ticketed. Some rooms can be shut for building work, so a specific painting is not guaranteed.
+**The National Gallery is free and open daily, 10am to 6pm, and until 9pm on Fridays.** It closes on 24 to 26 December and 1 January. The **main free entrance is the Sainsbury Wing**; you can book a free general admission ticket for fast-track entry or simply walk up. Only the temporary exhibitions are ticketed. Our [National Gallery guide](/articles/national-gallery-guide/) has the current exhibitions and the rooms for the famous paintings. Some rooms can be shut for building work, so a specific painting is not guaranteed.
 
 Outside, **the Fourth Plinth** in the north-west corner carries a rotating contemporary commission. The work on it now is **Teresa Margolles's *Mil Veces un Instante* (A thousand times an Instant)**.
 
