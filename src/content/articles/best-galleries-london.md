@@ -79,13 +79,13 @@ The national collection of international modern art inside Giles Gilbert Scott's
 
 *Van Gogh's Sunflowers, at the National Gallery.*
 
-Two thousand paintings from the 1200s to 1900 — Van Gogh's *Sunflowers*, Turner's *Fighting Temeraire*, the Wilton Diptych, Velázquez's *Rokeby Venus*. It cannot be finished in a day: **pick two rooms and actually look at them.**
+Over 1,000 paintings from the 13th century to the early 20th — Van Gogh's *Sunflowers*, Turner's *Fighting Temeraire*, the Wilton Diptych, Velázquez's *Rokeby Venus*. It cannot be finished in a day: **pick two rooms and actually look at them.**
 
-**Free, no ticket, no booking**, and you can walk in to see one painting and leave.
+**Free, with no booking needed** (a free ticket gets fast-track entry), and you can walk in to see one painting and leave.
 
 **Friday late opening** is the quietest time for the famous ones: the coach parties have gone and the rooms empty after six.
 
-**Trafalgar Square WC2N 5DN**, two minutes from Charing Cross. Closed 24–26 December and 1 January. The Sainsbury Wing holds the early Italian work and is the calmer half; the main building holds the crowd-pullers.
+**Trafalgar Square WC2N 5DN**, two minutes from Charing Cross. Closed 24–26 December and 1 January. The Sainsbury Wing is the main entrance. Our [National Gallery guide](/articles/national-gallery-guide/) has the exhibitions, prices and the rooms for the famous paintings.
 
 ### National Portrait Gallery, Trafalgar Square
 

@@ -166,7 +166,7 @@ IWM's Second World War cruiser, [HMS Belfast](/articles/hms-belfast-guide/), is 
 
 *Free*
 
-Two thousand paintings from the 1200s to 1900 at the National — Van Gogh's Sunflowers, Turner's Fighting Temeraire, Van Eyck's Arnolfini Portrait — hung chronologically, so walking the rooms in order walks you through six centuries of European painting.
+Over 1,000 paintings from the 13th century to the early 20th at the National — Van Gogh's Sunflowers, Turner's Fighting Temeraire, Van Eyck's Arnolfini Portrait — hung chronologically, so walking the rooms in order walks you through six centuries of European painting.
 
 ![Van Gogh's Sunflowers painting in an ornate gilt frame, hung on a grey gallery wall](../../assets/articles/best-museums-london/national-gallery-sunflowers.jpg)
 
@@ -178,7 +178,7 @@ The **Portrait Gallery round the corner** reopened in 2023 after a three-year re
 
 *Inside the National Portrait Gallery.*
 
-**Both are free and open late**: the National Gallery until 9pm on Fridays, the National Portrait Gallery until 9pm on Fridays and Saturdays.
+**Both are free and open late**: the National Gallery until 9pm on Fridays, the National Portrait Gallery until 9pm on Fridays and Saturdays. Our [National Gallery guide](/articles/national-gallery-guide/) has the exhibitions, prices and the rooms for the famous paintings.
 
 
 ![The blue whale skeleton suspended in the vaulted Hintze Hall of the Natural History Museum](../../assets/articles/best-museums-london/natural-history-museum-hintze-hall.jpg)

@@ -203,6 +203,8 @@ From the Piazza take King Street and New Row to St Martin's Lane, and follow it 
 
 **The tree is lit at a ceremony on Thursday 3 December 2026.** It is a Norwegian spruce, sent by Oslo every year. It is dressed in the Norwegian way, with **vertical strings of white lights** and no baubles, and stays until just before Twelfth Night.
 
+The free [National Gallery](/articles/national-gallery-guide/) faces the square and is open until 21:00 on Fridays, so a Friday walk can end indoors.
+
 > ⚠️ **Walking before 3 December, there is no tree to see yet.** Finish at Covent Garden instead: Leicester Square station is five minutes west of the Piazza.
 
 ## Also lit, off the route

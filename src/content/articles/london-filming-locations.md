@@ -167,7 +167,7 @@ Bond drives a **tank through St Petersburg** in **GoldenEye (1995)** — in a co
 
 Bond meets Q on a bench in front of **Turner's The Fighting Temeraire** in **Skyfall (2012)**.
 
-**The painting is on permanent display and free to see**, with no ticket and no booking. The gallery opens late on Fridays, when the room is emptier.
+**The painting is on permanent display and free to see**, with no ticket and no booking. It is in Room 40; our [National Gallery guide](/articles/national-gallery-guide/) has the hours and the rest of the route. The gallery opens late on Fridays, when the room is emptier.
 
 **Trafalgar Square WC2N 5DN**, two minutes from Charing Cross.
 
@@ -395,7 +395,7 @@ Dressed as 1918 London for the Armistice celebrations that close **Wonder Woman 
 
 ![Nelson's Column and the fountains of Trafalgar Square in late afternoon](../../assets/articles/westminster-area-guide/trafalgar-square.jpg)
 
-**Free and always open**, with no gates and nothing to book. The **National Gallery on the north side is free too**, and holds the Turner from *Skyfall* (see above), ninety seconds away.
+**Free and always open**, with no gates and nothing to book. The **[National Gallery](/articles/national-gallery-guide/) on the north side is free too**, and holds the Turner from *Skyfall* (see above), ninety seconds away.
 
 **WC2N 5DN**, two minutes from Charing Cross.
 

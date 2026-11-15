@@ -340,6 +340,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 - 🏛️ **[Houses of Parliament Tours](/articles/houses-of-parliament-tour-guide/)** — the family audio tour, one child free per paying adult, on Saturdays and in recess.
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
+- 🖼️ **[National Gallery Guide](/articles/national-gallery-guide/)** — the free Welcome Space at weekends and Canvas Quest, a hide-and-seek game for ages 7 and over
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - ♿ **[Step-Free London](/articles/step-free-london/)** — lifts, ramps and which attractions have them

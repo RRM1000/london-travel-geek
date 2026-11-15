@@ -96,7 +96,7 @@ It only fits alongside the Abbey if you do the Abbey second. The view worth havi
 
 *Twenty-one minutes, 1.3km,* under the plane trees and through Admiralty Arch.
 
-**The National Gallery is free and open daily 10am to 6pm, and until 9pm on Fridays.** Closed 24 to 26 December and 1 January. **Enter through the Sainsbury Wing**, the main free entrance. A free general-admission ticket gets you fast-track; walk-up is fine too.
+**The [National Gallery](/articles/national-gallery-guide/) is free and open daily 10am to 6pm, and until 9pm on Fridays.** Closed 24 to 26 December and 1 January. **Enter through the Sainsbury Wing**, the main free entrance. A free general-admission ticket gets you fast-track; walk-up is fine too.
 
 Pick three rooms rather than the whole collection, and take the Friday late if your Day 1 is a Friday. **The cloakroom is £3 an item and will not take wheeled luggage or suitcases of any size.**
 

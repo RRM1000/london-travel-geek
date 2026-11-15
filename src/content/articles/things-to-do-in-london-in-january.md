@@ -174,7 +174,7 @@ For a West End base, [Strand Palace](hotel:strand-palace) has nearly 800 rooms o
 
 ### Closing at the end of January
 
-- **Renoir and Love**, National Gallery, to **31 January**: £20 off-peak (Sunday to Thursday) and £25 on Fridays and Saturdays, free for under-18s.
+- **Renoir and Love**, [National Gallery](/articles/national-gallery-guide/), to **31 January**: £20 off-peak (Sunday to Thursday) and £25 on Fridays and Saturdays, free for under-18s.
 - **Painting the French Riviera**, Royal Academy, to **31 January**: £24 to £26, with Friday and Saturday opening until 9pm. How the Côte d'Azur drew Monet, Braque and Derain.
 - **Korea**, British Museum, to **31 January**, in Room 35: adults £20, or £18 off-peak.
 - **Amar Kanwar**, Serpentine North, free, to **31 January**.

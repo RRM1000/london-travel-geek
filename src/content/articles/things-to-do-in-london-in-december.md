@@ -145,7 +145,7 @@ The Barbican is giving away plants from its Conservatory at its final plant adop
 These open in November and run into the new year or spring.
 
 - **Constantinople to Istanbul: One City, Two Empires**, V&A South Kensington, opens **7 November**. £25 on weekdays, £27 at weekends.
-- **Van Eyck: The Portraits**, National Gallery, 21 November to 11 April 2027. The first time all of Jan van Eyck's portraits have been shown together; £18 including an audio guide, and under-18s go free.
+- **Van Eyck: The Portraits**, [National Gallery](/articles/national-gallery-guide/), 21 November to 11 April 2027. The first time all of Jan van Eyck's portraits have been shown together; £18 including an audio guide, and under-18s go free.
 - **Peggy Guggenheim in London**, Royal Academy, 21 November to 14 March 2027, £17.
 - **Vanessa Bell & Duncan Grant: Inside Bloomsbury**, Tate Britain, 12 November to 11 April 2027, £20.
 - **Nan Goldin: You Never Did Anything Wrong**, Hayward Gallery, 24 November to 14 March 2027.

@@ -87,7 +87,7 @@ Walk into St James's or two stops to Covent Garden, not eating on the bridge app
 
 *Twenty-one minutes and 1.3km down The Mall and through Admiralty Arch.*
 
-**The National Gallery is free, open daily 10am to 6pm and until 9pm on Fridays**, closed 24 to 26 December and 1 January. **The free entrance is the Sainsbury Wing.** A free general-admission ticket gets fast-track entry; walk-ups are fine. The **cloakroom is £3 an item and takes no wheeled luggage at all**, whatever the size.
+**The [National Gallery](/articles/national-gallery-guide/) is free, open daily 10am to 6pm and until 9pm on Fridays**, closed 24 to 26 December and 1 January. **The free entrance is the Sainsbury Wing.** A free general-admission ticket gets fast-track entry; walk-ups are fine. The **cloakroom is £3 an item and takes no wheeled luggage at all**, whatever the size.
 
 *Covent Garden is nine minutes from the square and Chinatown ten.* Dinner in [Soho](/articles/soho-area-guide/), [Covent Garden](/articles/covent-garden-area-guide/) or Chinatown — the [dim sum guide](/articles/best-dim-sum-london/) for the last of those — and a show if you booked one. Two hours between sitting down and curtain-up, and tell the restaurant the time.
 
