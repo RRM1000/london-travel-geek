@@ -182,6 +182,7 @@ Start at **Baker Street** for the free statue, then the museum. Walk the ten min
 - 🧙 **[Harry Potter in London](/articles/harry-potter-london/)**
 - 🚶 **[Best Walking Tours in London](/articles/best-walking-tours-london/)**
 - 🏘️ **[Marylebone Area Guide](/articles/marylebone-area-guide/)**
+- 🕴️ **[Madame Tussauds London](/articles/madame-tussauds-london-guide/)** — the waxworks two minutes from Baker Street station
 - 📚 **[Bloomsbury Area Guide](/articles/bloomsbury-area-guide/)**
 - 🏛️ **[City of London Area Guide](/articles/city-of-london-area-guide/)**
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)**

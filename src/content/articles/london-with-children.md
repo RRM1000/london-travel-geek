@@ -247,7 +247,7 @@ Neither is designed for children. **Westminster Abbey is £32 for an adult and �
 
 *From £27 online, £39 walk-up · under-2s free · Baker Street*
 
-The draw is photographs beside waxworks, plus a short dark ride at the end. **Book online and it starts at £27 for an adult and £24 for a child aged 2 to 15; walking up on the day is £39 and £35.** Under-2s go free. Closing times move around a great deal, so look them up instead of assuming a late slot exists.
+The draw is photographs beside waxworks, plus a short dark ride at the end. **Book online and it starts at £27 for an adult and £24 for a child aged 2 to 15; walking up on the day is £39 and £35.** Under-2s go free. Closing times move around a great deal, so look them up instead of assuming a late slot exists. Pushchairs have to go in the free cloakroom; our [Madame Tussauds guide](/articles/madame-tussauds-london-guide/) has the zones, the combos and the age advice for the Chamber of Horrors.
 
 ---
 

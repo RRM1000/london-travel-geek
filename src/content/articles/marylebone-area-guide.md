@@ -133,7 +133,7 @@ Frans Hals's *Laughing Cavalier* is here, along with Fragonard's *The Swing*.
 ### Baker Street and Marylebone Road
 North: a four-lane road with constant traffic, and the two attractions with the longest queues in the area.
 
-The **Sherlock Holmes Museum** at 221B (open 9:30am to 6pm, adults £19) and **Madame Tussauds** are both here. Tussauds queues badly without a pre-booked timed ticket, and the pavement outside 221B is often blocked.
+The **Sherlock Holmes Museum** at 221B (open 9:30am to 6pm, adults £19) and **Madame Tussauds** are both here; our [Madame Tussauds guide](/articles/madame-tussauds-london-guide/) has its prices and combos. Tussauds queues badly without a pre-booked timed ticket, and the pavement outside 221B is often blocked.
 
 **Book ahead or skip both.** If you want Baker Street itself, the statue outside the station takes thirty seconds and costs nothing. For the statue's history and the rest of Sherlock Holmes's London, see our [Sherlock Holmes in London](/articles/sherlock-holmes-london/) guide. The Beatles Store is further up at 231 Baker Street, and [the Beatles in London](/articles/beatles-london/) covers it with the Apple Boutique plaque at 94 and Ringo's old flat in Montagu Square.
 

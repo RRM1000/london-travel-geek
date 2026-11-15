@@ -116,7 +116,7 @@ Merlin sells combined tickets for the Eye and several of its other attractions. 
 - **SEA LIFE London Aquarium** (inside County Hall, next to the wheel entrance)
 - **The London Dungeon** (inside County Hall)
 - **Shrek's Adventure! London** (inside County Hall)
-- **Madame Tussauds London** (on Marylebone Road, near Baker Street tube)
+- **[Madame Tussauds London](/articles/madame-tussauds-london-guide/)** (on Marylebone Road, near Baker Street tube)
 
 Every multi-attraction ticket gives you 7 days to visit the rest and can be rescheduled free up to three times. The main ones:
 - **The five-attraction bundle:** the Eye, Madame Tussauds, SEA LIFE London Aquarium, the London Dungeon and Shrek's Adventure, from £59 online against £184 bought separately. See the [multi-attraction tickets page](https://www.londoneye.com/tickets-and-prices/multi-attraction-tickets/) for current dates.
@@ -256,6 +256,7 @@ The London Eye is fully step-free:
 - 🚶 **[South Bank Walk](/articles/south-bank-walk/)** — self-guided walking route from Westminster Bridge to Tower Bridge.
 - 🏛️ **[Westminster Area Guide](/articles/westminster-area-guide/)** — Big Ben, Parliament, and royal landmarks directly across the river.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — the maths, included attractions, and when a sightseeing pass saves money.
+- 🕴️ **[Madame Tussauds London guide](/articles/madame-tussauds-london-guide/)** — prices, Fast Track and the zones inside, for the other half of the Eye-and-Tussauds combo.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — an efficient Zone 1 plan that fits the London Eye into a central London day.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic Uber Boat by Thames Clippers services departing from London Eye Pier.
 - 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)** — station left luggage desks and affordable bag drop services near Waterloo.

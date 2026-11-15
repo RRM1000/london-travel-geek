@@ -43,7 +43,7 @@ Marylebone is the grid of Georgian streets directly north of Oxford Street, runn
 
 **Portman Square and Marble Arch** is the south-west corner, where most of the big hotels are. Hyde Park is across the road, Selfridges and the west end of Oxford Street (see our [Oxford Street guide](/articles/oxford-street-guide/)) are a few minutes away, and Marble Arch station is on the Central line. The traffic is heavy where Oxford Street, Park Lane and Edgware Road meet.
 
-**Baker Street, Dorset Square and Marylebone Road** is the north: Regent's Park, the Sherlock Holmes Museum, Madame Tussauds, and the widest choice of trains. Dorset Square, just behind Marylebone Road, is a residential garden square. Chiltern Street is here too; the Chiltern Firehouse hotel on it has been closed since a fire.
+**Baker Street, Dorset Square and Marylebone Road** is the north: Regent's Park, the Sherlock Holmes Museum, [Madame Tussauds](/articles/madame-tussauds-london-guide/), and the widest choice of trains. Dorset Square, just behind Marylebone Road, is a residential garden square. Chiltern Street is here too; the Chiltern Firehouse hotel on it has been closed since a fire.
 
 **Langham Place and Portland Place** is the eastern edge, opposite BBC Broadcasting House. Oxford Circus is five minutes' walk and Soho ten.
 
