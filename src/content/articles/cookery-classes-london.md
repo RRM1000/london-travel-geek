@@ -3,7 +3,7 @@ title: "Cookery Classes in London: Pasta, Pies, Scones and Day Courses"
 seoTitle: "Cookery Classes in London: Prices and Booking"
 description: "Cookery classes in London you can book now: Jamie Oliver Cookery School, La Cucina Caldesi, Food at 52, Leiths and Cook and Craft Collective, plus pork pie, scone, pasta and Indian classes on GetYourGuide, with prices, length and what you eat."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -18,7 +18,7 @@ faq:
   - q: "What is the cheapest cookery class in London?"
     a: "The Scone Workshop and Afternoon Tea near Camden Market is £29 for an hour, rated 4.9 from 1,236 reviews on GetYourGuide. Cook and Craft Collective's pizza and truffle classes are £45."
   - q: "Can children do cookery classes in London?"
-    a: "Jamie Oliver Cookery School has Kids Learn for Free classes, where children cook alongside a paying adult. Its Pasta Master takes over-18s, with 15 to 17-year-olds welcome if an adult is also taking part."
+    a: "Jamie Oliver Cookery School has Kids Learn for Free classes, where children cook alongside a paying adult. Its Pasta Master takes over-18s, with 15 to 17-year-olds welcome if an adult is also taking part. La Cucina Caldesi's minimum age is 6, and Food at 52 takes children from 8 to 17 with a paying adult."
   - q: "Are there gluten-free or vegetarian cookery classes?"
     a: "Jamie Oliver's Pasta Master can be adapted for vegetarians and vegans but is not suitable for gluten-free diets. Leiths and Caldesi adjust where they can, and you give your dietary needs when you book."
   - q: "How long do cookery classes in London last?"
@@ -55,7 +55,7 @@ heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 
 *Pasta Master £75 · 2 hours · 18+ · <a href="https://jamieolivercookeryschool.com/cooking-classes/pasta-master/" target="_blank" rel="noopener">Book on the school's site</a>*
 
-In the **Pasta Master** you make pasta dough from scratch, roll it with a pasta machine and cut it into tagliatelle, farfalle and vermicelli. You then learn three simple sauces and cook a creamy mushroom one, and sit down at the chef's table to eat the pasta with a rocket and radicchio salad. A glass of bubbles on arrival, or tea or coffee before noon, is included, and you can buy other drinks. You work in pairs. The class takes over-18s, and 15 to 17-year-olds can come with an adult who is also taking part. It is not suitable for gluten-free diets.
+In the **Pasta Master** you make pasta dough from scratch, roll it with a pasta machine and cut it into tagliatelle, farfalle and vermicelli. You then learn three simple sauces and cook a creamy mushroom one, and sit down at the chef's table to eat the pasta with a rocket and radicchio salad. A glass of bubbles on arrival, or tea or coffee before noon, is included, and you can buy other drinks. You work in pairs, and if you book alone you may be paired with another guest. You can eat at the chef's table or box your pasta to take home, and a digital recipe pack comes with the class. Spectators are not allowed and there is no waiting area for friends. The class takes over-18s, and 15 to 17-year-olds can come with an adult who is also taking part. It is not suitable for gluten-free diets.
 
 The school has two London kitchens. **Islington** is at 160 Holloway Road, N7 8DD, inside Jamie Oliver's head office, for up to 18 people; Holloway Road station is the closest. **Oxford Street** is on the third floor of John Lewis, with two classrooms and a communal dining area for groups of up to 48. For less time, the **Hand-Shaped Fresh Pasta** class is £60 for 1½ hours, cooking and dining included. For more, **The Complete Guide to Pasta** is £190 for 5 hours. You get a full refund or a free reschedule with at least 7 days' notice.
 
@@ -66,7 +66,7 @@ The school has two London kitchens. **Islington** is at 160 Holloway Road, N7 8D
 
 *1 Day Pasta Workshop £180 · 10am to 4pm · <a href="https://www.caldesi.com/caldesi-italian-restaurants-and-cookery-schools/la-cucina-caldesi-italian-cookery-school/" target="_blank" rel="noopener">See classes on the school's site</a>*
 
-**4 Cross Keys Close, W1U 2DG**, about 400 metres from Bond Street station. Over six hours you make long, coloured, shaped and stuffed pasta, learn sauces to go with them and make soft gnocchi. The sample menu, which changes with the season, includes a lasagne, a mushroom and mascarpone pasta roll, large spinach and ricotta ravioli and cacio e pepe bucatini. You make lunch together and eat it with wine, and there is plenty to take home, including the school's oven-baked pasta. The price includes coffee and a croissant on arrival, two drinks with the meal, an apron to keep and a recipe pack emailed afterwards.
+**4 Cross Keys Close, W1U 2DG**, about 400 metres from Bond Street station. Over six hours you make long, coloured, shaped and stuffed pasta, learn sauces to go with them and make soft gnocchi. The sample menu, which changes with the season, includes a lasagne, a mushroom and mascarpone pasta roll, large spinach and ricotta ravioli and cacio e pepe bucatini. You make lunch together and eat it with wine, and there is plenty to take home, including the school's oven-baked pasta. The price includes coffee and a croissant on arrival, two drinks with the meal, an apron to keep and a recipe pack emailed afterwards. The minimum age on its courses is 6. A course can move to another date up to 28 days before for a £10 fee; inside 28 days you can send someone else in your place but not rebook.
 
 For an evening, the **Make Ravioli like my Nonna** class is £85 for two hours: you make tagliatelle and spinach and ricotta ravioli, then sit down and eat them with wine. Our [Marylebone area guide](/articles/marylebone-area-guide/) covers the neighbourhood.
 
@@ -74,13 +74,13 @@ For an evening, the **Make Ravioli like my Nonna** class is £85 for two hours: 
 
 *Cookery classes £145 · about 3½ hours · <a href="https://www.foodat52.co.uk/products/indian-street-feast-cookery-class-new" target="_blank" rel="noopener">Book the Indian Street Feast</a>*
 
-**96 Central Street, EC1V 8AJ**, a 10-minute walk from Old Street. You cook in a group and then eat what you have made, with red or white wine and soft drinks included in the price. The **Indian Street Feast** menu is pani puri with a chickpea stuffing and herb water, handmade chapatis, saag paneer, curry leaf chicken or cauliflower and cumin pilau rice. Its dates fall on Fridays and Saturdays. The Indian, French, Vietnamese, Mexican and fish and seafood classes start at £145. The **Authentic Italian Pasta Masterclass** comes in two lengths, £115 for 2½ hours or £175 for 5 hours, and finishes with a chocolate torta. The school describes the feel as a dinner party rather than a classroom.
+**96 Central Street, EC1V 8AJ**, a 10-minute walk from Old Street. You cook in a group and then eat what you have made, with red or white wine and soft drinks included in the price. The **Indian Street Feast** menu is pani puri with a chickpea stuffing and herb water, handmade chapatis, saag paneer, curry leaf chicken or cauliflower and cumin pilau rice. Public classes have up to 12 people, and the school provides the ingredients, drinks, equipment and apron; you bring flat comfortable shoes. The Indian Street Feast runs on Friday 22 January 2027 from 6pm to 9:30pm, and on Saturday 13 March and 3 July from 4pm to 7:30pm and 8 May from 11am to 2:30pm. Anyone can come alone from 18, and children aged 8 to 17 must come with a paying adult. Payment is in full at booking and refunds are not given; the date can be changed free more than 28 days ahead, for £25 a person from 28 to 14 days, and not at all inside 14 days, though you can send someone else. The Indian, French, Vietnamese, Mexican and fish and seafood classes start at £145. The **Authentic Italian Pasta Masterclass** comes in two lengths, £115 for 2½ hours or £175 for 5 hours, and finishes with a chocolate torta. The school describes the feel as a dinner party rather than a classroom.
 
 ### Leiths Culinary Masterclasses — Wendell Road, W12
 
 *£210 including VAT · 10am to 2.30pm · <a href="https://leiths.com/culinary-masterclasses/culinary-masterclass-pasta-skills/" target="_blank" rel="noopener">Book on Leiths' site</a>*
 
-**16–20 Wendell Road, W12 9RT.** Stamford Brook is a 15-minute walk and Goldhawk Road 20 minutes. Leiths teaches professional cooks, and its one-day masterclasses use the same techniques for home cooks. The masterclasses are **Pasta Skills** (dough, rolling, filling and sauces), **Pastry Skills** (sablé pastry and puff pastry), **Bakery Skills** (pastry and cakes), **Fish Skills** and **Knife Skills** (jointing poultry and filleting fish). Classes run in small groups with the ingredients weighed out for you. The class starts at 10am, cooking ends about 1.45pm, and you eat lunch with the others. The day ends at 2.30pm. The washing-up is done for you. Booking two places on one masterclass takes 20% off.
+**16–20 Wendell Road, W12 9RT.** Stamford Brook is a 15-minute walk and Goldhawk Road 20 minutes. Leiths teaches professional cooks, and its one-day masterclasses use the same techniques for home cooks. The masterclasses are **Pasta Skills** (dough, rolling, filling and sauces), **Pastry Skills** (sablé pastry and puff pastry), **Bakery Skills** (pastry and cakes), **Fish Skills** and **Knife Skills** (jointing poultry and filleting fish). Classes run in small groups with the ingredients weighed out for you. The class starts at 10am, cooking ends about 1.45pm, and you eat lunch with the others. The day ends at 2.30pm. The washing-up is done for you. Booking two places on one masterclass takes 20% off. Arrival is from 9.30am. Wear long trousers, a long-sleeved top and closed, flat-soled shoes, and bring a container for food to take home.
 
 ## Smaller studios
 
@@ -88,7 +88,7 @@ For an evening, the **Make Ravioli like my Nonna** class is £85 for two hours: 
 
 *Pork pie £60 · 3 hours · small group · 4.9 from 18 reviews · <a href="https://www.getyourguide.com/activity/-t608869?partner_id=WWP7I0R&amp;cmp=cookery-classes-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a> or <a href="https://cookandcraftcollective.com/products/byob-pork-pie-workshop" target="_blank" rel="noopener">on the studio's site</a>*
 
-**Tradestars Islington, 4–10 North Road, N7 9EY**, 400 metres from Caledonian Road station. JoJo or her team show you how to make the pastry, choose your fillings and assemble **pork pies**, and you eat a warm one from the oven with a drink of your choice. You bring your own bottle, or soft drinks.
+**Tradestars Islington, 4–10 North Road, N7 9EY**, 400 metres from Caledonian Road station. JoJo or her team show you how to make the pastry, choose your fillings and assemble **pork pies**, and you eat a warm one from the oven with a drink of your choice. You bring your own bottle, or soft drinks. A booking cannot be refunded; Cook and Craft issues a voucher for the same price or lets you reschedule.
 
 ![A single pork pie with a crimped golden crust on a white plate](../../assets/articles/cookery-classes-london/pork-pie.jpg)
 *A pork pie. Photo: [Palladian](https://commons.wikimedia.org/wiki/File:Pork_pie_on_plate.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*

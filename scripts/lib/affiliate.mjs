@@ -181,6 +181,25 @@ export function awinUrl(destination, clickref) {
   return { url: `https://www.awin1.com/cread.php?${params}`, label: adv.label };
 }
 
+// CJ advertisers, listed by the host they sell on, the same way as Awin's: a
+// plain link to that host in an article goes out through CJ's deep link. CJ's
+// sid is its free-text tag, so the article slug says which guide sold it.
+const CJ_ADVERTISERS = {
+  // Big Bus Tours, joined November 2026.
+  "bigbustours.com": { label: "Big Bus Tours" },
+};
+
+/** The CJ tracking link for a url on a CJ advertiser's site, or undefined. */
+export function cjAdvertiserUrl(destination, sid) {
+  let u;
+  try { u = new URL(String(destination)); } catch { return undefined; }
+  const host = u.hostname.toLowerCase().replace(/^www\./, "");
+  const adv = CJ_ADVERTISERS[host];
+  if (!adv || !CJ_PID) return undefined;
+  const tag = sid ? `/sid/${encodeURIComponent(String(sid).slice(0, 64))}` : "";
+  return { url: `https://www.anrdoezrs.net/links/${CJ_PID}/type/dlg${tag}/${u.toString()}`, label: adv.label };
+}
+
 // How each network is named to the reader. Here rather than in the components
 // because the link text was hardcoded to "GetYourGuide" back when that was the
 // only programme - which would have labelled the first Skiddle link with a
@@ -382,10 +401,50 @@ export const HOTEL_PROGRAMMES = {
   // column is filled: a link generated from a hotel name alone can only reach
   // their home page, and "Book" under The Hoxton landing on a search box is the
   // trade this file refuses in its opening lines. Fill the column, get a link.
+  //
+  // Booking.com (CJ, joined 11 Nov 2026) comes SECOND, and only for a hotel
+  // Hotels.com does not sell. Rob's rule: Hotels.com whenever it sells the
+  // hotel, Booking.com when only Booking.com does, the hotel's own website
+  // when neither does. A row never shows both, so a hotelsUrl always wins and
+  // the Booking.com url is read only when there is no Hotels.com one. Booking.com
+  // urls live in data/booking-com-urls.json, keyed by hotel slug, not on the sheet.
   aggregator: [
-    { network: "cj", enabled: true, requiresHotelsUrl: true, home: "https://uk.hotels.com/" },
+    { network: "cj", enabled: true, requiresHotelsUrl: true, merchant: "Hotels.com", home: "https://uk.hotels.com/" },
+    { network: "cj", enabled: true, requiresBookingComUrl: true, merchant: "Booking.com", home: "https://www.booking.com/" },
   ],
 };
+
+// Hotels.com urls found by hand and kept in data/hotels-com-urls.json. The sheet
+// column is still the first choice; this covers a row whose column is empty,
+// so a hotel Hotels.com sells is never sent to Booking.com or its own website
+// just because nobody has copied its url onto the sheet yet. Entries marked
+// needsCheck or rejected are not used.
+const HOTELS_COM_URLS = (() => {
+  try {
+    const j = JSON.parse(fs.readFileSync(new URL("../../data/hotels-com-urls.json", import.meta.url), "utf8"));
+    return Object.fromEntries(
+      Object.entries(j)
+        .filter(([k, v]) => !k.startsWith("_") && v && typeof v.url === "string" && v.url && !v.needsCheck && !v.rejected)
+        .map(([k, v]) => [k, v.url]),
+    );
+  } catch {
+    return {};
+  }
+})();
+
+// Hand-checked Booking.com property pages, keyed by hotel slug. Read once; a
+// missing or unreadable file just means no hotel falls through to Booking.com.
+const BOOKING_COM_URLS = (() => {
+  try {
+    const j = JSON.parse(fs.readFileSync(new URL("../../data/booking-com-urls.json", import.meta.url), "utf8"));
+    return Object.fromEntries(Object.entries(j).filter(([k, v]) => !k.startsWith("_") && typeof v === "string" && v));
+  } catch {
+    return {};
+  }
+})();
+
+/** The query string is dropped: it carries dates and a search session, and the tracking link adds its own. */
+export const cleanBookingComUrl = (u) => String(u || "").trim().replace(/[?#].*$/, "");
 
 /**
  * Resolve the best available affiliate link for a hotel row.
@@ -411,8 +470,18 @@ export function hotelAffiliate(row) {
     // earns nothing, and looks completely normal while doing it - the same
     // failure the GetYourGuide search links were switched off for. So that
     // programme takes the hand-checked Hotels.com url from the sheet or nothing.
-    if (p.requiresHotelsUrl && !row.hotelsUrl) continue;
-    const destination = p.requiresHotelsUrl ? row.hotelsUrl : (row.website || p.home);
+    const hotelsUrl = row.hotelsUrl || HOTELS_COM_URLS[row.slug];
+    if (p.requiresHotelsUrl && !hotelsUrl) continue;
+    // Booking.com only sells what its own property page says it sells, so it
+    // too takes a hand-checked url or nothing. Hotels.com, earlier in the
+    // chain, has already won for any row that has a hotelsUrl.
+    const bookingComUrl = p.requiresBookingComUrl
+      ? cleanBookingComUrl(row.bookingComUrl || BOOKING_COM_URLS[row.slug])
+      : "";
+    if (p.requiresBookingComUrl && !bookingComUrl) continue;
+    const destination = p.requiresHotelsUrl ? hotelsUrl
+      : p.requiresBookingComUrl ? bookingComUrl
+      : (row.website || p.home);
     if (p.network === "awin") {
       if (!p.advertiser || !AWIN_PUBLISHER_ID) continue;
       return { url: awin(p.advertiser, destination), network: "awin" };
@@ -425,7 +494,7 @@ export function hotelAffiliate(row) {
     if (p.network === "cj") {
       const url = cj(destination);
       if (!url) continue;
-      return { url, network: "cj" };
+      return { url, network: "cj", merchant: p.merchant };
     }
   }
   return undefined;

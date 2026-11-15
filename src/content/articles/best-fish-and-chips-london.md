@@ -115,6 +115,10 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus **jellied eels
 
 ### The Fryer's Delight, Bloomsbury
 
+![The Fryer's Delight in London](../../assets/articles/best-fish-and-chips-london/the-fryers-delight.jpg)
+
+*The Fryer's Delight.*
+
 *£ · Bloomsbury · 6 min from Holborn · Cited by 7 sources · #6, Time Out*
 
 **Formica tables, beef dripping, and a room that has not been redecorated in decades.**
@@ -125,15 +129,27 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus **jellied eels
 
 ### The Golden Hind, Marylebone
 
+![The Golden Hind in London](../../assets/articles/best-fish-and-chips-london/the-golden-hind.jpg)
+
+*The Golden Hind.*
+
 *££ · Marylebone · 5 min from Bond Street · Cited by 7 sources · #12, Time Out*
 
 **Open since 1914**, with the **original art deco fryer still standing in the room**, no longer used.
 
 Cod and haddock in a light batter, and **grilled fish for anyone who does not want it fried**, which most chippies will not do. Hand-cut chips, mushy peas, and homemade fishcakes that regulars order instead of the fillet.
+![Fish Central in London](../../assets/articles/best-fish-and-chips-london/fish-central.jpg)
 
 **££, walk-in, and BYO**: no licence, so bring a bottle. A sit-down room rather than a counter, and quieter at lunch than dinner.
+*Fish Central.*
+
+*££ · Clerkenwell · 11 min from Old Street · Cited by 7 sources · #9, Time Out*
 
 ### The Seashell of Lisson Grove, Marylebone
+
+![The SeaShell of Lisson Grove in London](../../assets/articles/best-fish-and-chips-london/the-seashell-of-lisson-grove.jpg)
+
+*The SeaShell of Lisson Grove.*
 
 *££ · Marylebone · 2 min from Marylebone · Cited by 5 sources · #3, Time Out*
 
@@ -144,6 +160,10 @@ Cod, haddock and **halibut** in a light batter, fried in groundnut oil rather th
 **££, and it takes bookings**, which almost nothing else in this guide does. Busiest at dinner.
 
 ### Rock & Sole Plaice, Covent Garden
+
+![Rock and Sole Plaice in London](../../assets/articles/best-fish-and-chips-london/rock-sole-plaice.jpg)
+
+*Rock and Sole Plaice.*
 
 *££ · Covent Garden · 4 min from Covent Garden · Cited by 5 sources · #5, Time Out*
 
@@ -169,6 +189,10 @@ Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in g
 
 ### Masters Superfish, Waterloo
 
+![Masters Superfish in London](../../assets/articles/best-fish-and-chips-london/masters-superfish.jpg)
+
+*Masters Superfish.*
+
 *££ · Waterloo · 191 Waterloo Road · Cited by 4 sources · #4, Time Out*
 
 **Five minutes from Waterloo**, buying from Billingsgate daily and frying several kinds of fish rather than just cod and haddock.
@@ -176,8 +200,10 @@ Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in g
 **Prawns and bread and butter arrive unasked while you wait**, the house tradition. The **mushy peas** are the ones people write about, and the cod comes in a batter that shatters. **Portions are large enough that the small is usually the right order.**
 
 **££, walk-in, closed Sunday and Monday.** A sit-down room.
+![Toff’s of Muswell Hill in London](../../assets/articles/best-fish-and-chips-london/toffs.jpg)
 
 ### Toff's, Muswell Hill
+*Toff’s of Muswell Hill.*
 
 *££ · Muswell Hill · Cited by 4 sources · #16, Time Out*
 
@@ -218,6 +244,10 @@ Everything here comes in under £12, and none of it takes a booking.
 
 ### Michael's Fish Bar, Leytonstone
 
+![Michael's Fish Bar in London](../../assets/articles/best-fish-and-chips-london/michaels-fish-bar.jpg)
+
+*Michael's Fish Bar.*
+
 *£ · Leytonstone · 4 The Pavement, Hainault Road · Cited by 2 sources · #1, Time Out*
 
 **The chippy east London locals vote for**: 61% of Leytonstoner readers picked it.
@@ -230,6 +260,10 @@ Flaky batter, thick chips, and **a takeaway counter, not a restaurant**, with no
 
 ### Fish Lounge, Clapham
 
+![Fish Lounge in London](../../assets/articles/best-fish-and-chips-london/fish-lounge.jpg)
+
+*Fish Lounge.*
+
 *£ · Clapham · 16 min from Brixton · Cited by 5 sources · #2, Time Out*
 
 **A Clapham chip shop with three guides behind it**; Time Out puts it second in London.
@@ -239,6 +273,10 @@ Fish bought fresh and fried to order in a crisp, light batter, with hand-cut chi
 **£, walk-in, closed Sunday and Monday.** A small counter with limited seating; most people take it away.
 
 ### Ken's Fish Bar, Herne Hill
+
+![Ken’s Fish Bar in London](../../assets/articles/best-fish-and-chips-london/kens-fish-bar.jpg)
+
+*Ken’s Fish Bar.*
 
 *£ · Camberwell · 6 min from North Dulwich · Cited by 4 sources · #7, Time Out*
 
@@ -250,6 +288,10 @@ Cod and haddock in a crisp batter, chips, and the standard sides. No restaurant 
 
 ### Mickey's Chippy, Stoke Newington
 
+![Micky's Chippy in London](../../assets/articles/best-fish-and-chips-london/mickeys-chippy.jpg)
+
+*Micky's Chippy.*
+
 *£ · Stoke Newington · walk-in · Cited by 3 sources · #10, Time Out*
 
 **The Stoke Newington chippy that turns up on every north London list**, a few doors from one of the better pubs in the area.
@@ -260,6 +302,10 @@ Cod and haddock fried to order in a light batter with thick chips. A counter ope
 
 ### Kennedy's, Clerkenwell
 
+![Kennedy's of Goswell Road in London](../../assets/articles/best-fish-and-chips-london/kennedys.jpg)
+
+*Kennedy's of Goswell Road.*
+
 *£ · Goswell Road · Cited by 3 sources*
 
 **Pies baked on the premises**, such as steak and Guinness and steak and Stilton, alongside the fryer, from a business that started about **150 years ago as a butcher's** known for its sausages.
@@ -269,6 +315,10 @@ The **steak and Guinness pie** is the signature and the thing to order, with chi
 **£, walk-in.** The sausages are still made to the original recipes if you want to take some home.
 
 ### The Golden Chip of Hanwell, Hanwell
+
+![The Golden Chip of Hanwell in London](../../assets/articles/best-fish-and-chips-london/the-golden-chip-of-hanwell.jpg)
+
+*The Golden Chip of Hanwell.*
 
 *£ · 33 Boston Road · 9 min from Hanwell · walk-in · Cited by 1 source*
 
@@ -286,6 +336,10 @@ Hanwell is a straightforward run on the Elizabeth line from Paddington or Totten
 
 ### Nautilus, West Hampstead
 
+![Nautilus in London](../../assets/articles/best-fish-and-chips-london/nautilus.jpg)
+
+*Nautilus.*
+
 *££ · West Hampstead · 27–29 Fortune Green Road · Cited by 3 sources · #13, Time Out*
 
 **Fish fried in matzo meal rather than batter**, a Jewish north London tradition with a lighter crust.
@@ -295,6 +349,10 @@ Everything comes **coated in matzo meal, in matzo and egg, or grilled**. The **h
 **££, walk-in, and a sit-down restaurant as much as a takeaway**, with around 48 seats. Nothing else on this page fries this way.
 
 ### Sutton & Sons, Hackney
+
+![Sutton and Sons Fish & Chips in London](../../assets/articles/best-fish-and-chips-london/sutton-sons.jpg)
+
+*Sutton and Sons Fish & Chips.*
 
 *££ · Hackney · 2 min from Hackney Central · Cited by 5 sources · #8, Time Out*
 
@@ -320,6 +378,10 @@ The **Mayfair Classic** is the order: a large battered fillet with chips, mushy 
 
 ### The Golden Chippy, Greenwich
 
+![Golden Chippy in London](../../assets/articles/best-fish-and-chips-london/the-golden-chippy.jpg)
+
+*Golden Chippy.*
+
 *££ · 62 Greenwich High Road · Cited by 3 sources · open until 11pm*
 
 **A Greenwich chip shop with a large following on review sites rather than in the food press**: fresh fish daily, thick hand-cut chips, and a sit-down room behind the counter.
@@ -329,6 +391,10 @@ Cod and chips is the order, fried to order in a crisp batter, with generous port
 **Open 11am–11pm Monday to Saturday and noon–11pm on Sundays**, late enough for after an evening at the Cutty Sark or the market, both about ten minutes' walk away.
 
 ### Faulkners, Dalston
+
+![Faulkners Fish & Chips in London](../../assets/articles/best-fish-and-chips-london/faulkners.jpg)
+
+*Faulkners Fish & Chips.*
 
 *££ · Dalston · 424–426 Kingsland Road · Cited by 1 source · #11, Time Out*
 

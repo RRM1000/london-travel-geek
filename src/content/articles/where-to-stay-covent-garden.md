@@ -75,7 +75,7 @@ The name covers about half a mile and shades into other areas.
 
 ### hub by Premier Inn London Covent Garden — eleven square metres on St Martin's Lane
 
-*About £95 · 11 sq m standard rooms · 110 St Martin's Lane, WC2N 4BA · Leicester Square 3 min · [Hotels.com](hotel:hub-covent-garden)*
+*About £95 · 11 sq m standard rooms · 110 St Martin's Lane, WC2N 4BA · Leicester Square 3 min · [Booking.com](hotel:hub-covent-garden)*
 
 **The standard room is 11 sq m**: a double bed, underbed storage, a slide-out desk, a 40-inch television and a touchscreen panel that runs the lighting and heating. The bed is the same as in a full-size Premier Inn, in roughly half the floor area.
 

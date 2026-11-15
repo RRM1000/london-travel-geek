@@ -77,6 +77,10 @@ Eating cheaply in London does not mean eating badly, and the places that prove i
 
 ### ICCO, Fitzrovia
 
+![ICCO Pizza - Fitzrovia in London](../../assets/articles/cheap-eats-london/icco.jpg)
+
+*ICCO Pizza - Fitzrovia.*
+
 *£3.95 · 46 Goodge Street · 2 min from Goodge Street* · Cited by 2 italian sources
 
 **A twelve-inch pizza from £3.95**, made to order and eaten in. It has traded since 1999 and calls itself "the People's Pizzeria".
@@ -87,6 +91,10 @@ Eating cheaply in London does not mean eating badly, and the places that prove i
 
 ### Kolkati, Covent Garden
 
+![Kolkati Seven Dials in London](../../assets/articles/cheap-eats-london/kolkati.jpg)
+
+*Kolkati Seven Dials.*
+
 *£ · Seven Dials Market · 3 min from Covent Garden · walk-in*
 
 **Kati rolls the Kolkata way**, on a **paratha cooked with egg through it**.
@@ -96,6 +104,10 @@ The paratha is wrapped round spiced chicken or paneer with **pickled onion and l
 **£, walk-in, counter only.** Under a fiver for the vegetarian roll and not much more for the chicken.
 
 ### Shree Krishna Vada Pav, Fitzrovia
+
+![Shree Krishna Vada Pav (SKVP) - Oxford Circus in London](../../assets/articles/cheap-eats-london/shree-krishna-vada-pav.jpg)
+
+*Shree Krishna Vada Pav (SKVP) - Oxford Circus.*
 
 *£ · 4 min from Oxford Circus · walk-in* · Cited by 1 source
 
@@ -111,6 +123,10 @@ A **vada pav** is a spiced potato fritter in a soft bun with dry garlic chutney,
 
 ### Horn OK Please, Borough
 
+![Horn OK Please in London](../../assets/articles/cheap-eats-london/horn-ok-please.jpg)
+
+*Horn OK Please.*
+
 *£ · Borough Market · 4 min from London Bridge · walk-in*
 
 **Samosa chaat built to order**: the samosas **crushed under chickpea curry, yoghurt and tamarind while still hot**.
@@ -120,6 +136,10 @@ An all-vegetarian Borough Market stall, named for the slogan painted on the back
 **£, walk-in, closed Monday, market hours only**: this is lunch.
 
 ### Gujarati Rasoi, Borough
+
+![Gujarati Rasoi Indian Food in London](../../assets/articles/cheap-eats-london/gujarati-rasoi.jpg)
+
+*Gujarati Rasoi Indian Food.*
 
 *£ · Borough Market · 4 min from London Bridge · walk-in*
 
@@ -131,6 +151,10 @@ The **thali** is several small dishes, rice, bread and dal on one tray. Ask abou
 
 ### Bad Boy Pizza Society, Covent Garden
 
+![Bad Boy Pizza Society | Seven Dials in London](../../assets/articles/cheap-eats-london/bad-boy-pizza-society.jpg)
+
+*Bad Boy Pizza Society | Seven Dials.*
+
 *£ · Seven Dials Market · 2 min from Covent Garden · walk-in* · Cited by 8 pizza sources
 
 **Twenty-two-inch New York pies sold by the slice** from a counter inside Seven Dials Market — and, unusually for a market stall, **a two-time National Pizza of the Year winner**.
@@ -140,6 +164,10 @@ New York style means a wide, foldable slice with a thin base and a crisp edge. A
 **£, walk-in, and it trades on Seven Dials Market hours rather than its own.** The brand also runs residencies at Vinegar Yard and The Railway in Tulse Hill, and opened its first permanent restaurant on Bethnal Green Road in August 2025.
 
 ### Sud Italia, Spitalfields
+
+![Sud Italia in London](../../assets/articles/cheap-eats-london/sud-italia.jpg)
+
+*Sud Italia.*
 
 *£ · Old Spitalfields Market · 8 min from Aldgate East · walk-in* · Cited by 1 source
 
@@ -151,6 +179,10 @@ A short Neapolitan list: **margherita and marinara** off a fermented dough, blis
 
 ### Comalera, Walthamstow
 
+![Comalera in London](../../assets/articles/cheap-eats-london/comalera.jpg)
+
+*Comalera.*
+
 *£ · 2 min from St James Street · walk-in* · Cited by 3 mexican sources
 
 **A Walthamstow stall pressing its own tortillas.**
@@ -160,6 +192,10 @@ A *comal* is the flat griddle a tortilla is cooked on: the masa is pressed and g
 **£, walk-in, and open Friday to Sunday only.**
 
 ### Hullabaloo, Greenwich
+
+![Hullabaloo in London](../../assets/articles/cheap-eats-london/hullabaloo.jpg)
+
+*Hullabaloo.*
 
 *£ · Greenwich Market · 4 min from Cutty Sark · walk-in*
 
@@ -177,6 +213,10 @@ A *comal* is the flat griddle a tortilla is cooked on: the masa is pressed and g
 
 ### PaStation, Fitzrovia
 
+![PaStation London in London](../../assets/articles/cheap-eats-london/pastation.jpg)
+
+*PaStation London.*
+
 *£ · 1 min from Tottenham Court Road · walk-in* · Cited by 1 source
 
 **Fresh pasta under a tenner in generous portions**, near Tottenham Court Road.
@@ -186,6 +226,10 @@ Pasta is made on site and cooked to order at a counter: **cacio e pepe, ragù, c
 **Under £10, walk-in, counter service.** Busiest at lunch.
 
 ### Breadstall, Soho
+
+![Breadstall Pizza in London](../../assets/articles/cheap-eats-london/breadstall.jpg)
+
+*Breadstall Pizza.*
 
 *£ · Berwick Street · 5 min from Piccadilly Circus · walk-in* · Cited by 7 pizza sources
 
@@ -197,6 +241,10 @@ Slices are cut from trays and reheated to order. Toppings change through the day
 
 ### Voodoo Ray's, Dalston
 
+![Voodoo Ray's Dalston in London](../../assets/articles/cheap-eats-london/voodoo-rays.jpg)
+
+*Voodoo Ray's Dalston.*
+
 *£ · walk-in · late* · Cited by 2 late-night sources
 
 **Enormous New York slices sold until the small hours.**
@@ -207,6 +255,10 @@ Slices are cut from trays and reheated to order. Toppings change through the day
 
 ### Sarv's Slice, Ealing
 
+![Sarv's Slice in London](../../assets/articles/cheap-eats-london/sarvs-slice.jpg)
+
+*Sarv's Slice.*
+
 *£ · Filmworks Walk · 7 min from Ealing Broadway · walk-in* · Cited by 3 sources
 
 Detroit-style squares and Neapolitan rounds from a family-run counter in the Filmworks development beside Ealing Broadway station.
@@ -214,6 +266,10 @@ Detroit-style squares and Neapolitan rounds from a family-run counter in the Fil
 The dough is **cold-fermented for 72 hours**; the Detroit slice has a lacy fried-cheese edge where it meets the pan. Slices run about £6.75–£7.95 and whole pizzas £22.50–£28, with vegan, vegetarian and halal options across the menu.
 
 ### The Attendant, Fitzrovia
+
+![Attendant Coffee Roasters | Fitzrovia in London](../../assets/articles/cheap-eats-london/the-attendant.jpg)
+
+*Attendant Coffee Roasters | Fitzrovia.*
 
 *£ · 7 min from Goodge Street · walk-in*
 
@@ -231,6 +287,10 @@ The chains with a cheap lunch, such as Tonkotsu's £10.50 weekday ramen, Franco 
 
 ### Kung Fu Noodle, Chinatown
 
+![Kung Fu Noodle in London](../../assets/articles/cheap-eats-london/kung-fu-noodle.jpg)
+
+*Kung Fu Noodle.*
+
 *£ · walk-in* · Cited by 2 chinese sources
 
 **Noodles pulled to order in the window**, the dough stretched, folded and slapped against the counter in full view.
@@ -240,6 +300,10 @@ Hand-pulled noodles in beef broth are the order, with dan dan noodles and dumpli
 **£, walk-in.** The queue moves because the cooking takes minutes.
 
 ### Saravanaa Bhavan, Leicester Square
+
+![Arya Bhavan Central London - South Indian Pure Vegetarian Restaurant in London](../../assets/articles/cheap-eats-london/saravanaa-bhavan.jpg)
+
+*Arya Bhavan Central London - South Indian Pure Vegetarian Restaurant.*
 
 *£ · walk-in*
 
@@ -251,6 +315,10 @@ Hand-pulled noodles in beef broth are the order, with dan dan noodles and dumpli
 
 ### Hiba Express, Holborn
 
+![Hiba Express in London](../../assets/articles/cheap-eats-london/hiba-express.jpg)
+
+*Hiba Express.*
+
 *£ · 2 min from Holborn · walk-in* · Cited by 2 Middle Eastern sources
 
 **A Lebanese counter doing wraps and grills at a fraction of what the surrounding offices charge.**
@@ -260,6 +328,10 @@ Hand-pulled noodles in beef broth are the order, with dan dan noodles and dumpli
 **£, walk-in, counter service.** Queues out the door between noon and two; go either side.
 
 ### Silk Road, Camberwell
+
+![Silk Road in London](../../assets/articles/cheap-eats-london/silk-road.jpg)
+
+*Silk Road.*
 
 *£ · 47 Camberwell Church Street · walk-in* · Cited by 2 sources
 
@@ -271,6 +343,10 @@ Silk Road closed in August 2023 and reopened eighteen months later in new premis
 
 ### Marie's Café, Waterloo
 
+![Maries Thai Cafe in London](../../assets/articles/cheap-eats-london/maries-caf.jpg)
+
+*Maries Thai Cafe.*
+
 *£ · 90 Lower Marsh · BYO, £1 corkage · cash preferred*
 
 A Formica greasy spoon serving fry-ups at lunchtime that **becomes a Thai restaurant in the evening**: same room, same tables.
@@ -278,6 +354,10 @@ A Formica greasy spoon serving fry-ups at lunchtime that **becomes a Thai restau
 Pad thai, jungle curry and som tum are around £11 a plate, roughly £15 a head for two courses. It is unlicensed and **BYO with £1 corkage**; bring a bottle from the shop up the road.
 
 ### Murger Han, Euston
+
+![Murger Han in London](../../assets/articles/cheap-eats-london/murger-han.jpg)
+
+*Murger Han.*
 
 *£ · 62 Eversholt Street · also Mayfair, the City and Elephant & Castle* · Cited by 1 source
 
@@ -287,6 +367,10 @@ Four branches; Euston is the one to use if you are passing through.
 
 ### Govinda's, Soho
 
+![Govinda's Soho Street in London](../../assets/articles/cheap-eats-london/govindas.jpg)
+
+*Govinda's Soho Street.*
+
 *£ · Soho Street · canteen service · vegetarian* · Cited by 2 sources
 
 Run by the Hare Krishna temple it shares a building with, and serving Soho since 1979. Canteen queue, tray, and a **rotating thali** of curries, breads, soup and a dessert.
@@ -294,6 +378,10 @@ Run by the Hare Krishna temple it shares a building with, and serving Soho since
 Entirely vegetarian and largely vegan.
 
 ### Indian Veg, Islington
+
+![Indian Veg in London](../../assets/articles/cheap-eats-london/indian-veg.jpg)
+
+*Indian Veg.*
 
 *£ · 92-93 Chapel Market · all-you-can-eat* · Cited by 2 sources
 
@@ -305,6 +393,10 @@ Entirely vegetarian and largely vegan.
 
 ### Paolina Thai Cuisine, King's Cross
 
+![Paolina Thai Cuisine in London](../../assets/articles/cheap-eats-london/paolina-thai-cuisine.jpg)
+
+*Paolina Thai Cuisine.*
+
 *£ · 181 King's Cross Road · BYO · closed Sundays* · Cited by 2 thai sources
 
 **Dishes from £5.95, bring your own bottle, family-run**, serving the central Thai canteen repertoire.
@@ -314,6 +406,10 @@ Entirely vegetarian and largely vegan.
 **Under £10, BYO with no corkage, closed Sundays, walk-in.**
 
 ### Sagar, Covent Garden
+
+![Sagar Covent Garden in London](../../assets/articles/cheap-eats-london/sagar.jpg)
+
+*Sagar Covent Garden.*
 
 *£ · 31 Catherine Street · also Panton Street, Fitzrovia, Hammersmith, Harrow* · Cited by 1 source
 
@@ -335,7 +431,6 @@ Home-cured salt beef, carved to order, piled into a sandwich — and the **class
 
 **Wardour Street runs to 8pm Monday to Friday and is the only one open Sundays**; Leather Lane closes by 6.30pm and is shut on Sundays.
 
-
 ![Stalls along Leather Lane street market in Hatton Garden](../../assets/articles/cheap-eats-london/leather-lane-market.jpg)
 
 *Leather Lane market. Photo: [Mastermelt Group](https://commons.wikimedia.org/wiki/File%3ALeather_Lane_street_market%2C_Hatton_Garden%2C_London_EC1.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0).*
@@ -346,6 +441,10 @@ Home-cured salt beef, carved to order, piled into a sandwich — and the **class
 
 ### Michael's Fish Bar, Leytonstone
 
+![Michael's Fish Bar in London](../../assets/articles/cheap-eats-london/michaels-fish-bar.jpg)
+
+*Michael's Fish Bar.*
+
 *£ · 4 The Pavement, Hainault Road · walk-in · cash only* · Cited by 2 fish and chips sources
 
 **The chippy east London locals vote for**: 61% of Leytonstoner readers picked it.
@@ -353,7 +452,6 @@ Home-cured salt beef, carved to order, piled into a sandwich — and the **class
 **Cod and haddock in a flaky batter with thick chips**, fried to order. A takeaway counter with no seating.
 
 **CASH ONLY, under £10, closed Sunday.**
-
 
 > ⚠️ **Cash only.** There is no card machine and no dining room.
 
@@ -365,12 +463,15 @@ The most-cited chippy in London. It still fries in **beef dripping** rather than
 
 Formica tables, and a counter for takeaway. Under £12 for the lot.
 
-
 ![The frontage of The Fryer's Delight on Theobald's Road in Holborn](../../assets/articles/cheap-eats-london/the-fryers-delight-holborn.jpg)
 
 *Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Fryer%27s_Delight,_Holborn,_WC1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 ### Ken's Fish Bar, Herne Hill
+
+![Ken’s Fish Bar in London](../../assets/articles/cheap-eats-london/kens-fish-bar.jpg)
+
+*Ken’s Fish Bar.*
 
 *£ · 6 min from North Dulwich · walk-in* · Cited by 4 fish and chips sources
 
@@ -382,6 +483,10 @@ Formica tables, and a counter for takeaway. Under £12 for the lot.
 
 ### Fish Lounge, Clapham
 
+![Fish Lounge in London](../../assets/articles/cheap-eats-london/fish-lounge.jpg)
+
+*Fish Lounge.*
+
 *£ · 16 min from Brixton · walk-in* · Cited by 5 fish and chips sources
 
 **A Clapham chip shop with three guides behind it**; Time Out has placed it second in London.
@@ -391,6 +496,10 @@ Fish bought fresh and **fried to order in a crisp, light batter with hand-cut ch
 **£, walk-in, closed Sunday and Monday.** Limited seating; most people take it away.
 
 ### Mickey's Chippy, Stoke Newington
+
+![Micky's Chippy in London](../../assets/articles/cheap-eats-london/mickeys-chippy.jpg)
+
+*Micky's Chippy.*
 
 *£ · walk-in* · Cited by 1 source
 
@@ -409,6 +518,10 @@ Four London Wetherspoons are in buildings people would pay to look at, and each 
 Order at the bar or through the app. No table service, no music, no booking.
 
 ### The Crosse Keys, City of London
+
+![The Crosse Keys in London](../../assets/articles/cheap-eats-london/the-crosse-keys.jpg)
+
+*The Crosse Keys.*
 
 *£ · 9 Gracechurch Street · from 8am*
 
@@ -431,8 +544,11 @@ Order at the bar or through the app. No table service, no music, no booking.
 ![The ornate entrance of Hamilton Hall pub at Liverpool Street station](../../assets/articles/cheap-eats-london/hamilton-hall.jpg)
 *Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2804281208), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-
 ### The Ledger Building, Canary Wharf
+
+![The Ledger Building in London](../../assets/articles/cheap-eats-london/the-ledger-building.jpg)
+
+*The Ledger Building.*
 
 *£ · 4 Hertsmere Road, West India Quay*
 
@@ -443,6 +559,10 @@ Cooked breakfast, burgers and pub standards inside a listed dock office.
 **£, walk-in.** A footbridge from the Canary Wharf towers and next door to London Museum Docklands, which is free.
 
 ### The Montagu Pyke, Charing Cross Road
+
+![The Montagu Pyke in London](../../assets/articles/cheap-eats-london/the-montagu-pyke.jpg)
+
+*The Montagu Pyke.*
 
 *£ · 105–107 Charing Cross Road*
 

@@ -5,7 +5,7 @@ description: "Every Christmas show in London for 2026: the pantomimes from the P
 heroImage: "../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg"
 heroImageAlt: "Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats"
 publishedAt: 2026-09-22
-updatedAt: 2026-11-09
+updatedAt: 2026-11-11
 reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
@@ -221,6 +221,22 @@ Peak and off-peak sessions are priced differently, so check the booking page. **
 
 **3 December 2026 – 3 January 2027**, at UCL's Bloomsbury Theatre on Gordon Street.
 
+## Tickets through GetYourGuide
+
+A Christmas Carol Goes Wrong and Cirque Alice are also sold by GetYourGuide, alongside a Christmas lights walking tour for the hour before curtain-up:
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="christmas-shows-london-tickets" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="1377671,1456770,1063222"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+## Where to stay for the West End shows
+
+Three hotels within walking distance of the West End theatres:
+
+- **[Strand Palace](hotel:strand-palace)** has nearly 800 rooms on the Strand, between Covent Garden and the river.
+- **[The Z Hotel Covent Garden](hotel:z-hotel-covent-garden)** has deliberately small rooms; the cheapest have no window and are sold as "Inside" rooms.
+- **[Zedwell Piccadilly Circus](hotel:zedwell-piccadilly-circus)** is above the London Pavilion at Piccadilly Circus. Its rooms are windowless by design, sound-proofed, with no wardrobe, TV or kettle.
+
+For the other areas, see [where to stay in London](/articles/best-areas-to-stay-in-london/). The chalet markets near these hotels are in our [Christmas markets guide](/articles/christmas-markets-london/).
+
 ## Every Christmas show in the listings
 
 Every show below comes from the venues' own box offices and Ticketmaster, updated twice a week, so it includes carol concerts, Messiahs and Christmas comedy nights as they're announced. For carols in churches, including the free ones, see the [carols section of our Christmas guide](/articles/christmas-in-london/#carols).
@@ -232,6 +248,8 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 ## Continue planning your London trip
 
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)**: markets, lights, ice rinks and carols
+- 🛍️ **[Christmas Markets in London](/articles/christmas-markets-london/)**: dates, hours and prices for every market
+- 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)**: every ride, attraction and ticket price
 - 🗓️ **[What's On in London](/whats-on/)**: every gig, show and concert we list, searchable by date and price
 - 🎟️ **[Tickets Going On Sale Soon](/whats-on/on-sale/)**
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)**

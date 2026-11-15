@@ -1,0 +1,8 @@
+{
+ "_note": "Booking.com property pages for hotels Hotels.com does not sell, keyed by hotel slug in src/data/hotels.json (the Hotels sheet slug). Read by scripts/lib/affiliate.mjs only when a row has no Hotels.com url; never shown alongside Hotels.com. A url goes in only when the page title and area name this exact hotel. No query string.",
+ "hub-covent-garden": "https://www.booking.com/hotel/gb/hub-london-covent-garden.html",
+ "premier-inn-county-hall": "https://www.booking.com/hotel/gb/po-premier-inn-london-county-hall-lambeth.html",
+ "dog-and-fox-wimbledon": "https://www.booking.com/hotel/gb/dog-and-fox.en-gb.html",
+ "courthouse-hotel-soho": "https://www.booking.com/hotel/gb/courthouse-hotel-london.en-gb.html",
+ "me-london": "https://www.booking.com/hotel/gb/me-london.en-gb.html"
+}

@@ -51,6 +51,8 @@ Knowing which of these a shop cooks settles where to go before you join a paveme
 
 *Menus, prices and opening hours as of November 2026.*
 
+*Menu prices and opening hours as of October 2026.*
+
 ---
 
 ## How the styles differ, and what a bowl costs
@@ -110,11 +112,14 @@ Hakata-style shops ask how firm you want your noodles. Kanada-Ya offers *yawa* (
 ### Kanada-Ya
 
 *££ · Covent Garden · 4 min from Covent Garden*
+*££ · 64 St Giles High Street, WC2H 8LE (3 min from Tottenham Court Road) and 3 Panton Street, SW1Y 4DL (2 min from Piccadilly Circus) · walk-in only · [website](https://www.kanada-ya.com/)*
 
 Kanada-Ya has two central branches: 64 St Giles High Street, WC2H 8DA, and 3 Panton Street, SW1Y 4DL. The group was founded in Yukuhashi, Japan, in 2009, and the menu is built around **tonkotsu**. Orders at St Giles go through a QR code on the table.
 
 ![A queue along the pavement outside Kanada-Ya on St Giles High Street](../../assets/articles/late-night-eating-london/kanada-ya-queue.jpg)
 *Kanada-Ya on St Giles High Street.*
+![A queue stretching along the pavement outside Kanada-Ya's St Giles High Street branch](../../assets/articles/late-night-eating-london/kanada-ya-queue.jpg)
+*The queue outside 64 St Giles High Street is a permanent fixture at peak hours; the patio heater by the window is there for the wait.*
 
 The **Origin Tonkotsu (£16.60)** is pork bone broth with chashu pork belly, spring onion and wood ear fungus. **Tonkotsu X (£16.50)**, on the London menu only, mixes pork and corn-fed chicken bone broths and finishes with yuzu-shoyu. The **Truffle (£20.95)** adds porcini truffle paste and white truffle oil over pork loin. **Vegan Spicy Yuzu (£16.95)** is the vegan bowl, and the brothless **Tofu Abura Soba (£16.95)** and **Pork Belly Abura Soba (£17.95)** are thick egg noodles in sesame sauce with a very soft poached egg. A marinated egg is £2.50 extra.
 
@@ -123,23 +128,27 @@ The **Origin Tonkotsu (£16.60)** is pork bone broth with chashu pork belly, spr
 **The venue's site:** [kanada-ya.com](https://www.kanada-ya.com/)
 
 **Book:** [Reserve a table](https://www.sevenrooms.com/explore/kanadayapiccadilly/reservations/create/search/)
+*£–££ · 102 Old Street, EC1V 9AY · 6 min from Old Street · walk-in only · [website](https://www.monohonramen.com/)*
 
 ### Monohon Ramen
 
 *££ · Shoreditch · 7 min from Old Street · walk-in only*
+![A black bowl of ramen at Monohon Ramen with golden-orange broth, a halved marinated egg, bamboo shoots, pork belly chashu, wood ear mushrooms, spring onions and red chilli paste](../../assets/articles/late-night-eating-london/monohon-ramen-bowl.jpg)
 
 Ian Wheatley left an office job, worked six months at Ippudo and launched Monohon as a pop-up in the summer of 2015 before taking the shop at 102 Old Street. It seats 32. The noodles are made in the kitchen every day from Japanese flour, and the pork broth is boiled for a whole day with kelp and shiitake.
 
-![A black bowl of ramen at Monohon Ramen with golden-orange broth, a halved marinated egg, bamboo shoots, pork belly chashu, wood ear mushrooms, spring onions and red chilli paste](../../assets/articles/late-night-eating-london/monohon-ramen-bowl.jpg)
 *A bowl at Monohon Ramen.*
 
 The **Shouyu Tonkotsu (£15.50, £16.50 large)** is soy seasoning in creamy pork soup with pork belly and wood ear mushrooms. The **Abura Soba (£16, £17)** is brothless: thick chewy noodles in a sesame-oil sauce with slow-cooked pork, fried shallots, cayenne and a very soft poached egg. The **Spicy Tonkotsu (£19, £20)** adds spicy miso pork mince, and the **Vegan Tan Tan Men (£18.50, £19.50)** has a creamy sesame soup with spicy miso-fried soy mince. A marinated egg is £2.50 extra on the soup bowls.
 
 **No reservations, and the whole party has to be there before you are seated.** Monohon opens Monday to Friday 12:00 to 14:15 and 17:00 to 21:30, Saturday 17:00 to 21:30 and Sunday 17:00 to 21:00, and is closed on bank holidays. The counter seats nine in a row, and there is one table for four or five, easiest to get if you arrive before the 17:00 opening.
+![Ramen moto in London](../../assets/articles/best-ramen-london/ramen-moto.jpg)
 
 **The venue's site:** [monohonramen.com](https://monohonramen.com/)
+*Ramen moto.*
 
 ### Ramen Moto
+*££ · 6 Charlotte Street, W1T 2LR · 5 min from Goodge Street or Tottenham Court Road · walk-in only · [website](https://ramenmoto.uk/)*
 
 *Fitzrovia · 5 min from Goodge Street · walk-in only*
 
@@ -150,10 +159,13 @@ The **Creamy Chicken Ramen** is a chicken and pork broth with soft chicken, smok
 **Walk-in only, and closed on Tuesdays.** Charlotte Street opens 12:00 to 15:00 and 16:30 to 21:30 on Mondays and Wednesdays to Fridays, and from 12:00 to 21:30 at weekends. Ramen Moto says it cannot guarantee a halal option.
 
 **The venue's site:** [ramenmoto.uk](https://www.ramenmoto.uk/)
+![Ivan Ramen in London](../../assets/articles/best-ramen-london/ivan-ramen.jpg)
 
 ### Ivan Ramen
+*Ivan Ramen.*
 
 *££ · Clerkenwell · 9 min from Farringdon · walk-in only*
+*££ · 98 Farringdon Road, EC1R 3EA · 6 min from Farringdon · walk-in only · [website](https://www.ivanramen.co.uk/)*
 
 Ivan Orkin, a New Yorker, opened his first ramen shop in Tokyo's Setagaya ward in 2007 and later Ivan Ramen in New York. The London shop at 98 Farringdon Road opened in late 2025.
 
@@ -164,10 +176,13 @@ The bowls are **Shoyu (£17)** with shoyu-braised pork chashu and roasted tomato
 **The venue's site:** [ivanramen.co.uk](https://www.ivanramen.co.uk/)
 
 ### Hakata Ramen + Bar
+![Hakata Ramen + Bar in London](../../assets/articles/best-ramen-london/hakata-ramen-bar.jpg)
 
 *£ · Bermondsey · 16 min from Borough · walk-in only*
+*Hakata Ramen + Bar.*
 
 Hakata Ramen + Bar at 177 Bermondsey Street has communal and bar-style seating only, and an izakaya bar (a Japanese pub that serves small plates) in the basement where waiting guests can have a drink.
+*£–££ · 177 Bermondsey Street, SE1 3UW · 10 min from London Bridge · walk-in only · [website](https://www.hakata.co.uk/)*
 
 Every ramen is **£14.95** and comes with a soft-boiled egg, menma (bamboo shoots), beansprouts, spring onion and nori. **Hakata Tonkotsu** and **Kumamoto** use a 12-hour pork broth, Kumamoto with chashu, wood ear mushrooms, garlic chips and burnt garlic oil. **Shoyu**, **Miso** and **Spicy Miso** use a shiitake mushroom broth with a choice of pork, chicken or mushrooms. Each of the five has a vegan version. Noodles arrive hard unless you ask for soft or very hard. A **Pork Katsu Sando** is £8.95.
 
@@ -181,9 +196,13 @@ Every ramen is **£14.95** and comes with a soft-boiled egg, menma (bamboo shoot
 
 ## Everyday bowls and neighbourhood counters
 
+![TENMARU in London](../../assets/articles/best-ramen-london/tenmaru.jpg)
+
 ### Tenmaru
+*TENMARU.*
 
 *££ · Fitzrovia · 2 min from Oxford Circus · walk-in only*
+*££ · 8 Clifton Terrace, N4 3JP (1 min from Finsbury Park) and 27–28 Eastcastle Street, W1W 8DH (4 min from Oxford Circus) · walk-in · [website](https://www.tenmaru.co.uk/)*
 
 Tenmaru opened in Finsbury Park in November 2019, at 8 Clifton Terrace, and added 50 Margaret Street, by Oxford Circus, in January 2023. It styles itself on a lively Japanese izakaya, and its ramen menu is built on a chicken broth, with four vegan bowls and a brothless mazesoba.
 
@@ -194,10 +213,13 @@ The **Tori Paitan (£16.90)** is topped with sous-vide chicken chashu, a seasone
 **The venue's site:** [tenmaru.co.uk](https://www.tenmaru.co.uk/)
 
 ### Koi Ramen Bar
+![Heddon Yokocho in London](../../assets/articles/best-ramen-london/heddon-yokocho.jpg)
 
 *£ · Brixton · 1 min from Brixton*
+*Heddon Yokocho.*
 
 Koi has five sites: Brixton Station Road, Sayer Street in Elephant and Castle, Tooting Market, Herne Hill and Aldgate East. The menu is one page of four ramens.
+*£–££ · 8 Heddon Street, W1B 4BU · 4 min from Piccadilly Circus · [website](https://www.heddonyokocho.com/)*
 
 Eating in, the **Pure White Tonkotsu** is £12.95, the **Mellow Miso** £12.50, the **Old Skool Shoyu** £11.95 and the soup-less **Naked Ramen** £9.95; takeaway prices are £1 lower. Miso, Shoyu and Naked Ramen can be ordered with pork, chicken, tofu or prawn. A whole marinated egg is £2.25, and **kaedama** is £2.95.
 
@@ -208,10 +230,13 @@ Eating in, the **Pure White Tonkotsu** is £12.95, the **Mellow Miso** £12.50, 
 ### Taro
 
 *£ · Soho · 2 min from Piccadilly Circus*
+![Arcade Tottenham Court Road in London](../../assets/articles/best-ramen-london/supa-ya-ramen-at-arcade-food-hall.jpg)
 
 Mr Taro opened Taro at 61 Brewer Street in 1999 as an everyday Japanese dining room, a *taishu shokudo*. It seats 50 and its menu runs across ramen, udon, sushi and bento, so it suits a table where only some people want noodles. There are further branches in Finchley Central, Kennington, Balham, Pimlico and Walthamstow.
+*Arcade Tottenham Court Road.*
 
 The **Tonkotsu Ramen (£14.90)** is a thick, milky pork-bone soup with roast pork, a boiled egg, seaweed, red ginger and beansprouts. The **Taro Vegan Ramen (£14.90)** is red and white miso broth with vegan noodles, fried tofu, grilled tomato, broccoli and wakame. There are also Chicken, Pork, Beef, Kimchi and Seafood ramens, and plainer Shoyu, Spicy and Moyashi bowls, from £12.90.
+*££ · Arcade Food Hall, Centre Point, 103–105 New Oxford Street, WC1A 1DB · 1 min from Tottenham Court Road · walk-in (bookings for groups) · [website](https://www.arcade-london.com/)*
 
 **Open seven days, and it takes reservations,** booked at least three hours ahead on its website or by phone. An optional 10% service charge is added.
 
@@ -222,10 +247,13 @@ The **Tonkotsu Ramen (£14.90)** is a thick, milky pork-bone soup with roast por
 ### Cocoro
 
 *£ · Bloomsbury · 5 min from Holborn*
+![Menya Ramen House in London](../../assets/articles/best-ramen-london/menya-ramen-house.jpg)
 
 Cocoro at 25 Coptic Street is the Bloomsbury branch of a group with sites in Marylebone, Highgate and Bayswater, and describes its Bloomsbury dining as casual and izakaya-style. The menu runs from sushi and donburi to six ramens.
+*Menya Ramen House.*
 
 The **Tonkotsu Ramen** (pork broth) and **Miso Tonkotsu Ramen** are £14.50, and the **Shoyu**, **Vegetable**, **Miso** and **Shio** ramens are £14. Each takes a main topping of char siu pork, kara-age fried chicken or tofu katsu. A **Ramen Salad** with chilled ramen noodles, tomato and sesame dressing is £10.
+*££ · 29 Museum Street, WC1A 1LH · 4 min from Tottenham Court Road or Holborn · walk-in only*
 
 **Bookings are made on its own website, and Bloomsbury can seat groups of up to 50.**
 
@@ -234,6 +262,12 @@ The **Tonkotsu Ramen** (pork broth) and **Miso Tonkotsu Ramen** are £14.50, and
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-ramen-london-soho-and-west-end" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+![KOI Ramen Bar (Brixton Arch) in London](../../assets/articles/best-ramen-london/koi-ramen-bar.jpg)
+
+*KOI Ramen Bar (Brixton Arch).*
+
+*£ · 8 Brixton Station Road, SW9 8PD (1 min from Brixton), 19 Sayer Street, SE17 1FY (4 min from Elephant & Castle) and Tooting Market, 21–23 Tooting High Street, SW17 0RH (3 min from Tooting Broadway) · walk-in only · [website](https://www.koiramenbar.co.uk/)*
 
 ## The chains, halal ramen and a luxury bowl
 
@@ -244,24 +278,36 @@ Tonkotsu is also in the [chain restaurants guide](/articles/best-chain-restauran
 *££ · Soho · 5 min from Leicester Square*
 
 Tonkotsu opened at 63 Dean Street in 2012, after a pop-up the year before, and now has restaurants across London. Noodles, broths, gyoza and katsu curries are made from scratch, and the noodles are cooked for 32 seconds. Soho has two floors, a few seats outside and beer on tap.
+![Taro Japanese Restaurant Victoria in London](../../assets/articles/best-ramen-london/taro.jpg)
 
 The namesake **Tonkotsu (£15.95)** is pork broth with lardo, roast pork belly, bamboo shoots, beansprouts and burnt garlic oil. **Geki Kara (£16.95)** is the extra-hot one, with scotch bonnet mash. **Chilli Chicken (£15.95)** and **Kakugiri (£13.95)** are chicken-broth bowls, and the vegan **Japanese Mushroom Miso (£13.95)** uses a konbu and shiitake broth. Every ramen comes in a small size for 25% off the listed price, and every non-vegan bowl has half a soy-marinated egg.
+*Taro Japanese Restaurant Victoria.*
 
 **Weekday lunch is £10.50, Monday to Friday until 17:00, excluding bank holidays:** a lunch-sized ramen or hiyashi (chilled noodle) salad plus a lunch-sized side. Soho takes bookings and leaves space for walk-ins.
+*£ · 61 Brewer Street, W1F 9UW (3 min from Piccadilly Circus) and 109–111 Victoria Street, SW1E 6QT (4 min from Victoria) · walk-in · [website](https://tarorestaurants.uk/)*
 
 **The venue's site:** [tonkotsu.co.uk](https://tonkotsu.co.uk/locations/soho/)
 
 **Book:** [Reserve a table](https://app.walkup.co/create_booking/vendor/restaurant_000000Bo6urTUyCADsYOiM7Vi1SCO)
+
+![Cocoro in London](../../assets/articles/best-ramen-london/cocoro.jpg)
+
+*Cocoro.*
+
+*££ · 25 Coptic Street, WC1A 1NT · 4 min from Holborn or Tottenham Court Road · [website](https://cocorobloomsbury.co.uk/)*
 
 ### Ippudo
 
 *Covent Garden · walk-in only*
 
 Ippudo opened in Fukuoka in 1985 and runs four London shops: Central St Giles, Villiers Street, Goodge Street and Canary Wharf. Its UK menu says the pork broth is cooked for 18 hours and then matured for a further day. The brand's design uses wooden signs, hand-dyed fabric dividers and jazz, with staff in samue robes.
+![Tonkotsu Soho in London](../../assets/articles/best-ramen-london/tonkotsu.jpg)
 
 **Shiromaru Classic** is the original creamy tonkotsu with thin straight noodles, pork belly chashu, kikurage, bean sprouts and bamboo shoots. **Akamaru Modern** adds a blended miso paste and garlic oil, and **Karaka-Men** adds a spicy miso paste, roasted cashew nuts and sansho pepper. **Tori Shoyu**, a lighter chicken bowl, is at Central St Giles only, and **Hakata Niku Ton**, with simmered sweet and spicy pork, is at Villiers Street only. There is also a **Veggie Ramen** with fried tofu.
+*Tonkotsu Soho.*
 
 **It takes no reservations.**
+*£–££ · 63 Dean Street, W1D 4QG (4 min from Tottenham Court Road) plus Bankside, Hackney, Shoreditch, Peckham and Stratford · walk-in · [website](https://tonkotsu.co.uk/)*
 
 **The venue's site:** [ippudo.co.uk](https://www.ippudo.co.uk/)
 
@@ -273,10 +319,13 @@ Bone Daddies opened at 31 Peter Street, Soho, in 2012, and has since added Old C
 
 ![A red-rimmed bowl of Yuzu Tonkotsu at Bone Daddies, seen from above, with fried pork belly, bamboo shoots, beansprouts, spring onion and a halved soy egg in pale pork broth](../../assets/articles/best-ramen-london/bone-daddies-yuzu-tonkotsu.jpg)
 *Yuzu Tonkotsu at Bone Daddies. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Yuzu_Tonkotsu_Ramen_-_Bone_Daddies_2026-03-24.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
+![Ippudo Central Saint Giles in London](../../assets/articles/best-ramen-london/ippudo.jpg)
 
 The pork bowls are **Tonkotsu [The OG]** with chashu pork belly and burnt garlic, **Yuzu Tonkotsu** with fried chashu pork belly, **Pork Pork Chilli** and the hot **Spicy Miso Tonkotsu**. The chicken bowls are **Tokyo Cock Cock**, with fried chicken, "cock scratchings" and yuzu, **T22** and **Tantanmen**. A new ramen is added every month, and a **Breakfast Ramen** of Cumberland sausage mince, hash browns and HP tonkatsu sauce is on the menu.
+*Ippudo Central Saint Giles.*
 
 **Peter Street takes bookings, and walk-ins are welcome.** Both Soho branches open 10:00 to 22:00 Sunday to Wednesday and 10:00 to 23:00 Thursday to Saturday.
+*££ · Central St Giles Piazza, WC2H 8AG (2 min from Tottenham Court Road) and 31 Villiers Street, WC2N 6ND (1 min from Embankment), plus Fitzrovia and Canary Wharf · [website](https://www.ippudo.co.uk/)*
 
 **The venue's site:** [bonedaddies.com](https://bonedaddies.com/)
 
@@ -287,10 +336,13 @@ The pork bowls are **Tonkotsu [The OG]** with chashu pork belly and burnt garlic
 *££ · Soho · 1 min from Piccadilly Circus*
 
 Tak Tokumine and Kanji Furukawa opened the first Shoryu in 2012. The West End branches are Soho (3 Denman Street), Regent Street, Covent Garden (Great Queen Street) and Carnaby (Kingly Court), with more in Shoreditch and Westfield Stratford City. The ramen is a 12-hour pork broth seasoned with a soy stock called *motodare*, and the noodles are made daily.
+![Bone Daddies Soho in London](../../assets/articles/best-ramen-london/bone-daddies.jpg)
 
 On the Soho menu the **Origin Tonkotsu (£14.90)** has three classic toppings and the **Shoryu Ganso Tonkotsu (£15.90)** adds a gooey orange-yolk egg, red ginger and nori. **Kotteri Hakata Tonkotsu (£17.50)** is the thicker, richer broth with a double egg, and **Karamiso Tonkotsu (£17.50)** is spicy miso. **Vegan White Natural (£15.90)** uses a tonyu soy milk broth. Braised pork belly buns are £6.95 each.
+*Bone Daddies Soho.*
 
 **Takes bookings, each for 90 minutes, and keeps tables for walk-ins.** Parties are seated only when complete. The Soho branch opens 11:00 to 23:00 on Mondays to Wednesdays, 23:30 on Thursdays and Fridays, midnight on Saturdays and 22:00 on Sundays. A 12.5% service charge is optional.
+*£–££ · 31 Peter Street, W1F 0AR and 14A Old Compton Street, W1D 4TJ (both 4 min from Piccadilly Circus or Leicester Square), plus Victoria and Bermondsey · walk-in · [website](https://www.bonedaddies.com/)*
 
 **The venue's site:** [shoryuramen.com](https://www.shoryuramen.com/stores/11-soho)
 
@@ -301,10 +353,13 @@ On the Soho menu the **Origin Tonkotsu (£14.90)** has three classic toppings an
 *£ · Soho · 3 min from Leicester Square*
 
 Teddy Lee opened the first Maki & Ramen in Edinburgh in 2015, and the Soho branch is at 9 Old Compton Street. All its chicken and beef is halal-certified, chicken gyoza excepted; the pork bowls are not, so say which you want.
+![Shoryu Ramen Regent Street in London](../../assets/articles/best-ramen-london/shoryu-ramen.jpg)
 
 The tonkotsu broth is cooked for eight hours. The **Tonkotsu (£14.50)** has chashu, wakame and a half egg, the **Hell Ramen (£14.90)** is a chilli-infused tonkotsu with chashu, and the **Black Garlic Tonkotsu** and **Tantan** are also £14.90. The halal-marked bowls include the **Chicken ramen (£14.50)**, a lightly spiced miso broth with chicken karaage, and the **Seafood Hell (£17.50)**. The vegan bowls are £14.50 to £14.90.
+*Shoryu Ramen Regent Street.*
 
 **Open until midnight on Fridays and Saturdays** (11:30 to 22:00 Sunday to Thursday), and it takes bookings on its website.
+*££ · 3 Denman Street, W1D 7HB (1 min from Piccadilly Circus), 9 Regent Street, SW1Y 4LR, 35 Great Queen Street, WC2B 5AA and Kingly Court, W1B 5PW · [website](https://www.shoryuramen.com/)*
 
 **The venue's site:** [makiramen.com](https://www.makiramen.com/our-venues/soho/)
 
@@ -315,10 +370,13 @@ The tonkotsu broth is cooked for eight hours. The **Tonkotsu (£14.50)** has cha
 *££ · Bloomsbury · 2 min from Tottenham Court Road*
 
 Uzumaki at 107 Great Russell Street is an anime-themed Japanese restaurant, and its ramens are named for anime references.
+![Maki & Ramen in London](../../assets/articles/best-ramen-london/maki-ramen.jpg)
 
 The **Naruto Ramen (£21.95)** is tonkotsu broth with four slices of chashu pork, a whole marinated egg, naruto fishcake, menma and nori. The **Halal Naruto Ramen (£21.95)** swaps the pork for chashu chicken. The **Bankai! Beef Ramen (£18.95)** has glazed beef and charred corn, the **Karai Goma Ramen (£17.95)** is shiitake miso with spicy sesame paste and chicken chashu, and the **Kakiage Udon (£16.95)** is topped with vegetable kakiage tempura. Selected dishes are available halal.
+*Maki & Ramen.*
 
 **Closed on Mondays, and it takes bookings through SevenRooms.** It opens 11:30 to 21:30 Tuesday to Thursday and Sunday, and 11:30 to 22:00 on Fridays and Saturdays. A 12.5% service charge is added to the bill.
+*££ · Maki & Ramen: 9 Old Compton Street, W1D 5JF (3 min from Leicester Square) · [website](https://www.makiramen.com/) · Uzumaki: 107 Great Russell Street, WC1B 3NA (3 min from Tottenham Court Road) · [website](https://www.uzumakilondon.com/)*
 
 **The venue's site:** [uzumakilondon.com](https://www.uzumakilondon.com/)
 
@@ -327,10 +385,13 @@ The **Naruto Ramen (£21.95)** is tonkotsu broth with four slices of chashu pork
 ### Kinoya
 
 *£££ · Knightsbridge · 6 min from Knightsbridge*
+![Kinoya Ramen Bar in London](../../assets/articles/best-ramen-london/kinoya-at-harrods.jpg)
 
 Kinoya at Harrods, on the ground floor at 87–135 Brompton Road, is the London branch of a Dubai ramen izakaya founded by Neha Mishra, whose flagship holds a Michelin Bib Gourmand. The London menu concentrates on ramen and sushi.
+*Kinoya Ramen Bar.*
 
 The **Shio Paitan Ramen** is a slow-cooked chicken broth with dashi, seared chicken and mayu (black garlic oil), £32.50 with chicken and £32.95 with pork. The **Spicy Miso** is the same price in a creamy chicken broth. The **Shoyu** is £36 with beef and £49.50 with A5 wagyu, the **Duck** is £36 and the **Vegetarian** £29.90.
+*£££ · Harrods Dining Hall, Ground Floor, 87–135 Brompton Road, SW1X 7XL · 4 min from Knightsbridge · [book a table](https://www.harrods.com/en-gb/restaurants/kinoya)*
 
 **Harrods adds a compulsory £1 cover charge per person, and a 12.5% service charge is discretionary.** Kinoya takes bookings, and opens 11:30 to 21:00 on Mondays, 22:30 Tuesday to Saturday and 18:00 on Sundays.
 

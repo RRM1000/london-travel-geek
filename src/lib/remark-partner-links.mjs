@@ -15,7 +15,7 @@
 // throw inside a remark plugin blanks the whole article body.
 import fs from "node:fs";
 import { visit } from "unist-util-visit";
-import { awinUrl, skiddleUrl } from "../../scripts/lib/affiliate.mjs";
+import { awinUrl, cjAdvertiserUrl, skiddleUrl } from "../../scripts/lib/affiliate.mjs";
 import { ticketmasterUrl } from "./ticketmaster.mjs";
 
 const DATA = "src/data/partnerLinks.json";
@@ -85,15 +85,17 @@ export default function remarkPartnerLinks() {
       const isWeb = /^https?:\/\//.test(node.url ?? "");
       // Awin advertisers (London Box Office) wrap the destination in Awin's
       // redirect, with the article slug as clickref.
-      const awin = isWeb ? awinUrl(node.url, slugOf(where)) : undefined;
+      // CJ advertisers (Big Bus Tours) go the same way through CJ's deep link.
+      const awin = isWeb ? awinUrl(node.url, slugOf(where)) ?? cjAdvertiserUrl(node.url, slugOf(where)) : undefined;
       if (awin) {
+        const network = awin.url.includes("awin1.com") ? "awin" : "cj";
         node.url = awin.url;
         node.data = node.data || {};
         node.data.hProperties = {
           ...(node.data.hProperties || {}),
           target: "_blank",
           rel: "sponsored nofollow noopener",
-          "data-affiliate": "awin",
+          "data-affiliate": network,
           "data-venue": awin.label,
           class: "hotel-link",
         };

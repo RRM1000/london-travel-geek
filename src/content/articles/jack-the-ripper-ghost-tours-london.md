@@ -3,7 +3,7 @@ title: "Jack the Ripper and Ghost Tours in London: Walks, the Museum and the Gho
 seoTitle: "Jack the Ripper Tours London: Walks, Museum, Ghost Bus"
 description: "Jack the Ripper walks, the Jack the Ripper Museum, ghost walks and the Ghost Bus in London, with meeting points, start times, length, prices and which are suitable for children."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -41,7 +41,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 
 | Best for | Tour | From | Length | Starts at |
 |---|---|---|---|---|
-| A Ripper walk, no booking needed | London Walks | £20 | 2 hours | Tower Hill station |
+| A Ripper walk, paid to the guide on the night | London Walks | £20 | 2 hours | Tower Hill station |
 | The best-reviewed Ripper walk | Meet The Street Tours evening walk | £20 | 2 hours | Aldgate station |
 | The most reviewed | The Original Jack the Ripper Walking Tour | £22 | 2 hours | Depends on language |
 | Photographs on the walls | Ripper-Vision | £18 | 1¾ hours | Aldgate East, Exit 3 |
@@ -57,7 +57,7 @@ In 1888 Mary Ann "Polly" Nichols, Annie Chapman, Elizabeth Stride, Catherine Edd
 
 *£20 adult · £15 students, over-65s and Loyalty Card holders · £5 children · 2 hours · 7.30pm every day, plus 3pm on Saturdays · <a href="https://www.walks.com/our-walks/jack-the-ripper-walking-tour/" target="_blank" rel="noopener">See the walk on London Walks' site</a>*
 
-You meet outside **Tower Hill station**, by the Tower Hill Tram coffee stand. Your guide holds up the London Walks leaflet. The walk starts on the boundary between Scotland Yard's territory and the City of London Police's, because the conflict between the two forces is part of the story. It goes through **Mitre Square** in the City, then into Whitechapel by way of **Goulston Street**, and finishes where the last murder happened, near Aldgate, Aldgate East and Liverpool Street stations. The Ten Bells pub is opposite Spitalfields Market, a short walk from the end. It does not run on 24 or 25 December.
+You meet outside **Tower Hill station**, by the Tower Hill Tram coffee stand. Your guide holds up the London Walks leaflet. The walk starts on the boundary between Scotland Yard's territory and the City of London Police's, because the conflict between the two forces is part of the story. It goes through **Mitre Square** in the City, then into Whitechapel by way of **Goulston Street**, and finishes where the last murder happened, near Aldgate, Aldgate East and Liverpool Street stations. The Ten Bells pub is opposite Spitalfields Market, a short walk from the end. Book online, then pay the guide on the pavement. It goes rain or shine and does not run on 24 or 25 December.
 
 ![The entrance to Tower Hill station, a sunken entrance under a canopy with the station name above, and the Shard behind](../../assets/articles/jack-the-ripper-ghost-tours-london/tower-hill-station.jpg)
 *Tower Hill station entrance, where the London Walks Ripper walk starts. Photo: [TheFrog001](https://commons.wikimedia.org/wiki/File:Tower_Hill_station_entrance_2020.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
@@ -66,13 +66,13 @@ You meet outside **Tower Hill station**, by the Tower Hill Tram coffee stand. Yo
 
 *£20 · 2 hours · starts at Aldgate · 4.9 from 1,557 reviews · <a href="https://www.getyourguide.com/activity/-t54688?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-You meet at **Aldgate** station, not Aldgate East, and walk the streets where the murders happened. It spends as much time on the poverty of the East End in the 1880s as on the suspects. It is the best-reviewed Ripper walk on GetYourGuide with more than 500 reviews.
+You meet at **Aldgate** station, not Aldgate East, and walk the streets where the murders happened. The operator recommends it for ages 10 and over and allows dogs. It spends as much time on the poverty of the East End in the 1880s as on the suspects. It is the best-reviewed Ripper walk on GetYourGuide with more than 500 reviews.
 
 ### The Original Jack the Ripper Walking Tour — See Your City
 
 *£22 · 2 hours · 4.7 from 9,033 reviews · <a href="https://www.getyourguide.com/activity/-t359535?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-The most reviewed Ripper walk on this page. It runs in English and in French, German, Italian, Spanish, Portuguese and Japanese, and the meeting point depends on the language you book. You look at photographs of the crime scenes and weigh up the suspects.
+The most reviewed Ripper walk on this page. It runs in English and in French, German, Italian, Spanish, Portuguese and Japanese, and the meeting point depends on the language you book. The operator's listing gives the west entrance of Altab Ali Park, by the iron arch on Whitechapel High Street, nearest station Aldgate East. Under-18s must be accompanied by an adult, the route has no stairs or many inclines, and it is entirely outdoors. You look at photographs of the crime scenes and weigh up the suspects.
 
 ### Ripper-Vision — Secret Chamber Tours
 
@@ -98,12 +98,12 @@ Both visit historic pubs in Victorian Whitechapel linked to the case, with a dri
 
 *Adult £12 online, £14 on the door · child (8 to 16) £10 · pensioner £10 · open 9.30am to 6pm, every day · <a href="https://www.jacktherippermuseum.com/book-tickets" target="_blank" rel="noopener">Book on the museum's site</a>*
 
-**12 Cable Street, E1 8JG.** Tower Hill and Aldgate East are each a 7-minute walk, and Shadwell is 10. The museum is in a Victorian house, and the stairs are lined with the details of each murder: the victims' names, ages and where they were found, with newspaper reports and illustrations from the time. The exhibits also cover the suspects, the police investigation and everyday life in the East End in 1888. A lift reaches every floor. Your ticket is valid at any time that day, with no time slots.
+**12 Cable Street, E1 8JG.** Tower Hill and Aldgate East are each a 7-minute walk, and Shadwell is 10. The museum is in a Victorian house, and the stairs are lined with the details of each murder: the victims' names, ages and where they were found, with newspaper reports and illustrations from the time. The exhibits also cover the suspects, the police investigation and everyday life in the East End in 1888. A lift reaches every floor. Your ticket is valid at any time that day, with no time slots. A carer can come free if you email the museum first.
 
 ![The red-painted shopfront of the Jack the Ripper Museum on Cable Street, with an open door and glazed upper panels](../../assets/articles/jack-the-ripper-ghost-tours-london/jack-the-ripper-museum-entrance.jpg)
 *The entrance to the Jack the Ripper Museum on Cable Street. Photo: [Romainbehar](https://commons.wikimedia.org/wiki/File:London_-_Cable_Street,_Jack_the_Ripper_Museum_entrance.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
-The museum runs its own walk through Whitechapel daily at **3pm and 5pm**, lasting about 90 minutes. Check in 15 minutes before at the museum; it ends near Aldgate station. It is in English only, and tickets are not refundable, though the museum will move the date if you contact it. A combined ticket for the museum and a walk is also on <a href="https://www.getyourguide.com/activity/-t651686?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £45, and museum tickets alone are £14 there, rated 4.2 from 968 reviews.
+The museum runs its own walk through Whitechapel daily at **3pm and 5pm**, lasting about 90 minutes. Check in 15 minutes before at the museum; it ends near Aldgate station. It is in English only. The route may detour onto steps, so step-free access is not guaranteed. Tickets are not refundable, though the museum will move the date if you contact it. A combined ticket for the museum and a walk is also on <a href="https://www.getyourguide.com/activity/-t651686?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £45, and museum tickets alone are £14 there, rated 4.2 from 968 reviews.
 
 ![The Ten Bells pub, a cream-painted corner building with a dark ground floor, a hanging sign and passers-by on the pavement](../../assets/articles/jack-the-ripper-ghost-tours-london/ten-bells-spitalfields.jpg)
 *The Ten Bells pub on Commercial Street, Spitalfields. Photo: [Ewan Munro](https://commons.wikimedia.org/wiki/File:Ten_Bells,_Spitalfields,_E1_(3368542698).jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -116,17 +116,17 @@ The museum runs its own walk through Whitechapel daily at **3pm and 5pm**, lasti
 
 You meet at **8 Northumberland Avenue, WC2N 5BY**, outside the Grand Hotel, a short walk from Embankment and Charing Cross stations. The tour runs daily on a vintage 1960s Routemaster. A conductor, played by an actor, tells stories of London's gruesome past as you pass places such as Westminster Abbey, Fleet Street and London Bridge, with fog, sound effects and jump scares. It is a comedy-horror show rather than a lecture, and the operator describes it as creepy and gruesome more than scary. The bus stops for a short walk to a graveyard, about 7 to 10 minutes.
 
-Arrive at least 15 minutes early. Seats are first come, first served, and the bus does not wait for latecomers. Children aged 5 and over are welcome, with parental guidance under 12, and those aged 15 and under must be with a paying adult. The bus is not wheelchair accessible, and pushchairs and prams cannot go on board. Group bookings take up to 20 people. The tour is also listed on <a href="https://www.getyourguide.com/activity/-t22301?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £28, as a 1-hour tour rated 4.4 from 2,452 reviews.
+There is no toilet on board, no cash is taken, and alcohol is not allowed. Only registered guide and assistance dogs are allowed. Tours often sell out, so book ahead. Arrive at least 15 minutes early. Seats are first come, first served, and the bus does not wait for latecomers. Children aged 5 and over are welcome, with parental guidance under 12, and those aged 15 and under must be with a paying adult. The bus is not wheelchair accessible, and pushchairs and prams cannot go on board. Group bookings take up to 20 people. The tour is also listed on <a href="https://www.getyourguide.com/activity/-t22301?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">GetYourGuide</a> at £28, as a 1-hour tour rated 4.4 from 2,452 reviews.
 
 ### Ghost walks
 
 *Ghastly Ghosts £25 · 2 hours · 4.9 from 819 reviews · <a href="https://www.getyourguide.com/activity/-t56795?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-**Ghastly Ghosts**, from Meet The Street Tours, goes after dark from **All Hallows by the Tower**, one of London's oldest churches, through the alleys of the City to **St Paul's Cathedral**, on crimes, unsolved murders and the ghosts that followed them.
+**Ghastly Ghosts**, from Meet The Street Tours, goes after dark from **All Hallows by the Tower**, one of London's oldest churches on Byward Street, through the alleys of the City to **St Paul's Cathedral**, on crimes, unsolved murders and the ghosts that followed them. It runs Wednesday to Sunday from 8pm and is recommended for ages 10 and over.
 
 *Ghosts, Ghouls and Gallows £22 · 2 hours · 4.5 from 1,447 reviews · <a href="https://www.getyourguide.com/activity/-t96390?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-**Ghosts, Ghouls and Gallows**, from See Your City, is billed as the Original London Ghost Walk. It goes through royal parks with grim histories and past what it calls haunted houses. It runs in French and German as well as English.
+**Ghosts, Ghouls and Gallows**, from See Your City, is billed as the Original London Ghost Walk. It goes through royal parks with grim histories and past what it calls haunted houses. It runs in French and German as well as English, entirely outdoors, and the streets are old and uneven.
 
 *Haunted London £20 · 2 hours · <a href="https://www.walks.com/our-walks/haunted-london/" target="_blank" rel="noopener">See the walk on London Walks' site</a>*
 
@@ -134,7 +134,7 @@ Arrive at least 15 minutes early. Seats are first come, first served, and the bu
 
 *Ghosts of Greenwich £16 · 2 hours · 5.0 from 83 reviews · <a href="https://www.getyourguide.com/activity/-t830690?partner_id=WWP7I0R&amp;cmp=jack-the-ripper-ghost-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*
 
-**Ghosts of Greenwich** is the cheapest ghost walk here and the one that takes you out of central London, with spectres and stories of Greenwich's dark past. See our [Greenwich area guide](/articles/greenwich-area-guide/) for the rest of the day.
+**Ghosts of Greenwich** is the cheapest ghost walk here and the one that takes you out of central London, with spectres and stories of Greenwich's dark past. It meets at the Cutty Sark, nearest stations Cutty Sark DLR and Greenwich, and has 60 to 90 minutes of walking. Under-18s must be with an adult. See our [Greenwich area guide](/articles/greenwich-area-guide/) for the rest of the day.
 
 ## Doing it yourself
 

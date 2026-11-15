@@ -60,6 +60,10 @@ Lebanese mezze, a Turkish charcoal grill in Dalston, Palestinian home cooking in
 
 ### Al Waha, Bayswater
 
+![Al Waha in London](../../assets/articles/best-middle-eastern-restaurants-london/al-waha.jpg)
+
+*Al Waha.*
+
 *£££ · 7 min from Bayswater · the consensus pick* · Cited by 4 sources
 
 **The most-cited Lebanese room in London** across these sources, with white walls, hanging foliage and mezze that is the main event.
@@ -70,6 +74,10 @@ Order **hummus, moutabal, tabbouleh and fattoush**, with warm flatbread arriving
 
 ### The Barbary, Covent Garden
 
+![The Barbary in London](../../assets/articles/best-middle-eastern-restaurants-london/the-barbary.jpg)
+
+*The Barbary.*
+
 *£££ · Neal's Yard · about twenty seats* · Cited by 1 source
 
 **A horseshoe counter wrapped around an open grill** in Neal's Yard, seating about twenty. You watch every plate being made, and the smoke reaches you.
@@ -79,6 +87,10 @@ The cooking follows the old Barbary Coast, from Morocco through to Israel: **naa
 **Walk-in only and there is always a wait.** Put your name down and drink somewhere in Seven Dials until they call. £££.
 
 ### Akub, Notting Hill
+
+![Akub Restaurant in London](../../assets/articles/best-middle-eastern-restaurants-london/akub.jpg)
+
+*Akub Restaurant.*
 
 *££££ · 3 min from Notting Hill Gate* · Cited by 4 sources
 
@@ -91,6 +103,9 @@ The signature is **bukjet mousakhan**, the sumac-and-onion chicken dish of the W
 ### Imad's Syrian Kitchen, Soho
 
 *£££ · Top Floor, Kingly Court · Michelin Bib Gourmand* · Cited by 4 sources
+![Imad’s Syrian Kitchen in London](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
+
+*Imad’s Syrian Kitchen.*
 
 **Imad Alarnab lost his Damascus business to the war**, cooked for the people around him in camps along his route, and ran his first London pop-up on Columbia Road in 2017 before moving to Kingly Court in 2023. The Damascene home cooking holds a **Michelin Bib Gourmand for 2026**.
 
@@ -99,6 +114,10 @@ Start with mezze: **muhammara**, the walnut and red pepper paste, **fattoush** a
 **£££ and it books weeks ahead.** Ask for the Kingly Court balcony.
 
 ### Em Sherif at Harrods, Knightsbridge
+
+![Em Sherif at Harrods in London](../../assets/articles/best-middle-eastern-restaurants-london/em-sherif-at-harrods.jpg)
+
+*Em Sherif at Harrods.*
 
 *££££ · a set menu in sequence* · Cited by 3 sources
 
@@ -109,6 +128,10 @@ Courses arrive without you ordering: cold mezze, then hot, then grills, then des
 **££££ and it books weeks ahead.** There is no à la carte; you agree to the whole sequence when you sit down.
 
 ### Freej Swaileh, Knightsbridge
+
+![Freej Swaileh Kuwaiti Food Restaurant in London](../../assets/articles/best-middle-eastern-restaurants-london/freej-swaileh.jpg)
+
+*Freej Swaileh Kuwaiti Food Restaurant.*
 
 *£££ · Kuwaiti* · Cited by 2 sources
 
@@ -132,9 +155,29 @@ The short version: **Mangal II** in Dalston is the most-cited; **Antepliler** an
 
 ## Greek
 
+![OPSO in London](../../assets/articles/best-middle-eastern-restaurants-london/opso.jpg)
+
+*OPSO.*
+
+![OMA in London](../../assets/articles/best-middle-eastern-restaurants-london/oma-and-pyro.jpg)
+
+*OMA.*
+
+![Kima in London](../../assets/articles/best-middle-eastern-restaurants-london/kima.jpg)
+
+*Kima.*
+
+![Vori Restaurant Holland Park in London](../../assets/articles/best-middle-eastern-restaurants-london/vori.jpg)
+
+*Vori Restaurant Holland Park.*
+
 Greek and Greek-Cypriot cooking is not Middle Eastern, and has its own page: [**The Best Greek Restaurants in London**](/articles/best-greek-restaurants-london/).
 
 The short version: **Oma** in Borough Market holds London's only Greek Michelin star, **Agora** below it is the walk-in souvla bar, **Tsiakkos & Charcoal** in Maida Vale tops Time Out's ranked list, and **Palmers Green** in north London is where the Cypriot community eats.
+
+![Zephyr Notting Hill in London](../../assets/articles/best-middle-eastern-restaurants-london/mazi-and-zephyr.jpg)
+
+*Zephyr Notting Hill.*
 
 ---
 
@@ -143,6 +186,10 @@ The short version: **Oma** in Borough Market holds London's only Greek Michelin 
 Mezze is vegetable-led by tradition, so this is the easiest cuisine on the site to eat well in without meat.
 
 ### Rovi, Fitzrovia
+
+![ROVI by Ottolenghi in London](../../assets/articles/best-middle-eastern-restaurants-london/rovi.jpg)
+
+*ROVI by Ottolenghi.*
 
 *£££ · Ottolenghi group* · Cited by 1 source
 
@@ -153,6 +200,10 @@ Everything passes through fire or a ferment: charred cabbage, koji-aged vegetabl
 **£££ and it books weeks ahead.**
 
 ### Bubala, Spitalfields
+
+![Bubala Spitalfields in London](../../assets/articles/best-middle-eastern-restaurants-london/bubala.jpg)
+
+*Bubala Spitalfields.*
 
 *£££ · entirely vegetarian* · Cited by 5 sources
 
@@ -175,8 +226,11 @@ The counters are stacked with **salads built on grains, roasted vegetables and h
 ![A slice of tart with poached egg, tomato and watercress on a blue plate](../../assets/articles/best-middle-eastern-restaurants-london/ottolenghi.jpg)
 *A counter tart at Ottolenghi. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2466885795), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-
 ### Berber & Q, Haggerston
+
+![Berber & Q in London](../../assets/articles/best-middle-eastern-restaurants-london/berber-q.jpg)
+
+*Berber & Q.*
 
 *£££ · a railway arch* · Cited by 2 sources
 
@@ -194,9 +248,17 @@ The **whole roast cauliflower** is the signature: charred whole over coals, dres
 
 "Middle Eastern" covers a dozen cuisines that share a mezze format and little else. These kitchens each cook somewhere specific.
 
+![Imad’s Syrian Kitchen in London](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
+
+*Imad’s Syrian Kitchen.*
+
 **Syrian:** [Imad's Syrian Kitchen](#imads-syrian-kitchen-soho), above.
 
 ### Berenjak, Soho — Persian
+
+![Berenjak Soho in London](../../assets/articles/best-middle-eastern-restaurants-london/berenjak.jpg)
+
+*Berenjak Soho.*
 
 *££ · 27 Romilly Street · also Borough Market* · Cited by 3 sources
 
@@ -208,6 +270,10 @@ Order the **mahi** (saffron-marinated fish) and **jujeh** (chicken) kababs off t
 
 ### Nandine, Camberwell — Kurdish
 
+![Nandine in London](../../assets/articles/best-middle-eastern-restaurants-london/nandine.jpg)
+
+*Nandine.*
+
 *££ · 82 Vestry Road · also Camberwell Church Street* · Cited by 3 sources
 
 **A Kurdish kitchen.** Pary Baban came to the UK as a refugee from Kurdistan and cooks the food she grew up with, a cuisine that most menus fold into Turkish or Persian.
@@ -217,6 +283,10 @@ Expect **kubba**, bulgur dumplings stuffed with spiced meat, flatbreads baked to
 **££, walk-in.** Two sites: 82 Vestry Road and Camberwell Church Street. Go for brunch at the weekend.
 
 ### The Palomar, Soho — Jerusalem
+
+![The Palomar in London](../../assets/articles/best-middle-eastern-restaurants-london/the-palomar.jpg)
+
+*The Palomar.*
 
 *£££ · 34 Rupert Street · Bib Gourmand since 2014* · Cited by 3 sources
 
@@ -228,6 +298,10 @@ The **kubaneh**, a pull-apart Yemeni bread served with tahini and grated tomato,
 
 ### Palmyra's Kitchen, Finsbury Park — Syrian and Lebanese
 
+![Palmyra’s Kitchen in London](../../assets/articles/best-middle-eastern-restaurants-london/palmyras-kitchen.jpg)
+
+*Palmyra’s Kitchen.*
+
 *££ · 5–7 Wells Terrace · open to midnight* · Cited by 2 sources
 
 **Round the back of Finsbury Park station**, next to the bus stands, and named for Palmyra to put Syrian cooking in the foreground rather than filing it under Lebanese.
@@ -238,6 +312,10 @@ The **kubaneh**, a pull-apart Yemeni bread served with tahini and grated tomato,
 
 ### Maramia Cafe, Golborne Road — Palestinian
 
+![Maramia Cafe in London](../../assets/articles/best-middle-eastern-restaurants-london/maramia-cafe.jpg)
+
+*Maramia Cafe.*
+
 *££ · 48 Golborne Road · closed Mondays* · Cited by 2 sources
 
 **Palestinian and Arabic home cooking on Golborne Road since 2005.**
@@ -247,6 +325,10 @@ All-day cooking rather than a fixed menu: **maqluba**, the upside-down rice and 
 **££, closed Mondays.** 48 Golborne Road, a few minutes from Portobello. Ask what is on before you order from the menu.
 
 ### Meza, Tooting — Lebanese
+
+![Meza London in London](../../assets/articles/best-middle-eastern-restaurants-london/meza.jpg)
+
+*Meza London.*
 
 *££ · 34 Trinity Road* · Cited by 3 sources
 
@@ -264,6 +346,10 @@ The cheapest Middle Eastern food in London is sold across a counter, not at a ta
 
 ### Al-Jabal Bakery, Park Royal
 
+![Al-London Royal in London](../../assets/articles/best-middle-eastern-restaurants-london/al.jpg)
+
+*Al-London Royal.*
+
 *£ · manakeesh £2–£3 · 8am–4pm*
 
 A Lebanese bakery of **more than twenty years** in an Acton business centre, with **no dining room**. You order at the counter and eat standing or take it away.
@@ -273,6 +359,10 @@ A Lebanese bakery of **more than twenty years** in an Acton business centre, wit
 **The weekend queue is drawn from across west London.** Walk-in, cash-friendly.
 
 ### Ta'mini Lebanese Bakery, Fulham, Bloomsbury and Kensington
+
+![TA’MINI Lebanese bakery in London](../../assets/articles/best-middle-eastern-restaurants-london/tamini-lebanese-bakery.jpg)
+
+*TA’MINI Lebanese bakery.*
 
 *£ · ka'ak £3.00 · za'atar manakish £3.95*
 
@@ -284,6 +374,10 @@ Lebanese bakers **Ali from north Lebanon and Nermin from Beirut** opened in the 
 
 ### Common Breads, Belgravia
 
+![Common Breads in London](../../assets/articles/best-middle-eastern-restaurants-london/common-breads.jpg)
+
+*Common Breads.*
+
 *£ · ka'ak from £2.50 · manouche from £4.50 · 8am–6pm*
 
 **A Beirut bakery counter opposite Victoria station**, from three childhood friends from Lebanon.
@@ -294,6 +388,10 @@ Lebanese bakers **Ali from north Lebanon and Nermin from Beirut** opened in the 
 
 ### Mr Falafel, Shepherd's Bush Market
 
+![Mr Falafel in London](../../assets/articles/best-middle-eastern-restaurants-london/mr-falafel.jpg)
+
+*Mr Falafel.*
+
 *£ · Palestinian · market stall*
 
 **Palestinian falafel** from a Shepherd's Bush Market stall run for more than twenty years, with the whole menu on a board above the hatch.
@@ -303,6 +401,10 @@ Falafel **wraps in two sizes**, wholemeal available, fried to order so they arri
 **Walk-in, cash-friendly, market hours.** It closes by late afternoon.
 
 ### Green Valley, Edgware Road
+
+![Green Valley in London](../../assets/articles/best-middle-eastern-restaurants-london/green-valley.jpg)
+
+*Green Valley.*
 
 *£ · grocery and hot counter · 8am to midnight*
 

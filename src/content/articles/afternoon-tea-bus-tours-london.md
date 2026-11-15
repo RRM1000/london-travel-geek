@@ -3,7 +3,7 @@ title: "Afternoon Tea Bus Tours in London Compared: Routes, Menus, Prices"
 seoTitle: "Afternoon Tea Bus Tours in London Compared"
 description: "Every afternoon tea bus tour sold on GetYourGuide, compared: Brigit's Bakery and its Paddington, Peppa Pig and Christmas buses, the Great British tour, the Prosecco bus and Bustronome. Routes, menus, dietary options, prices with and without fizz, and ratings."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -54,7 +54,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 | Brigit's Christmas Lights bus | £59 | Bubbly option | Victoria Coach Station | 4.3 from 457 |
 | Bustronome glass-roofed bus | £75, or £95 with bottomless Prosecco | £95 bottomless | Coach Bay 40B, Victoria Embankment | 4.6 from 36 |
 
-Brigit's sells fizz by the glass or bottle on its own booking page, in advance only. Where the table says "not listed", the operator's page does not say.
+Brigit's sells fizz by the glass or bottle on its own booking page, in advance only, and asks for photo ID with alcohol under its Challenge 25 policy. Its tables seat up to four, so a party of five books two tables. Where the table says "not listed", the operator's page does not say.
 
 ## Brigit's Bakery: the classic bus and its themed versions
 
@@ -78,7 +78,7 @@ The bus leaves from **Gate 0 inside Victoria Coach Station**, 164 Buckingham Pal
 ![A red Brigit's Afternoon Tea bus seen from behind, parked beside a pavement on a London street, with the Afternoon Tea Bus Tour sign down its side](../../assets/articles/afternoon-tea-bus-tours-london/brigits-tea-bus-rear.jpg)
 *A Brigit's Afternoon Tea Bus on a London street. Photo: [David Martin](https://commons.wikimedia.org/wiki/File:Afternoon_Tea_Bus_-_geograph.org.uk_-_7768985.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Rules to know.** The bus has **no toilet**, children under 5 and babies are not allowed, nobody may stand while it moves, and the bus leaves on the minute, so arrive 15 to 20 minutes early. Bookings on Brigit's own site are **non-refundable**, though the date can be changed by phone. Commentary is recorded. One classic bus has a ramp for a wheelchair user at Table 4; the themed buses are not wheelchair accessible.
+**Rules to know.** The bus has **no toilet**; Victoria Coach Station has pay toilets and pay luggage lockers, and a luggage office opposite its ticket office, and bags can also go under your table. Children under 5 and babies are not allowed, nobody may stand while it moves, and the bus leaves on the minute, so arrive 15 to 20 minutes early. Bookings on Brigit's own site are **non-refundable** and carry a £5.50 fee per table. The date or tour can be changed by phone for £10 a person, or £22.50 inside two weeks. If Brigit's cancels or the bus breaks down, it offers a place on another tour free of charge. Commentary is recorded. One classic bus has a ramp for a wheelchair user at Table 4; the themed buses are not wheelchair accessible.
 
 ### The themed buses for children
 
@@ -88,10 +88,10 @@ Each themed bus has screens, an entertainer and a themed tea, and a travel cup f
 *Brigit's Bakery's Paddington afternoon tea bus in Westminster. Photo: [Vintage Fan 5678](https://commons.wikimedia.org/wiki/File:Paddington_Bear_Afternoon_Tea_London_Routemaster_Heritage_bus_in_Westminster,_London_(April_2026).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 - **Paddington Bear** · *£48 · 4.6 from 212 reviews · <a href="https://www.getyourguide.com/activity/-t433305?partner_id=WWP7I0R&amp;cmp=afternoon-tea-bus-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*. Daily at 12:30, 15:00 and 17:30 from Northumberland Avenue, outside the Grand Hotel by Trafalgar Square. For ages 5 and over, with Mrs Bird's and Paddington's voices on the audio guide. The savouries include "the best marmalade sandwich ever" and the cakes a pawprint cookie and an orange blondie. The route takes in Big Ben, Westminster Abbey, Hyde Park, St Paul's, Borough Market and Piccadilly Circus.
-- **Peppa Pig** · *£48 · 4.4 from 249 reviews · <a href="https://www.getyourguide.com/activity/-t454309?partner_id=WWP7I0R&amp;cmp=afternoon-tea-bus-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*. Daily at 12:15, 14:45 and 17:30 from Temple on the Embankment (bus stop N). From age 2, with sing-alongs and episode clips on screens and activity books. The route heads east first: Tower Bridge, the Tower of London, the Shard and Borough Market, then St Paul's, Theatreland, Trafalgar Square, Buckingham Palace and Westminster. Brigit's allows a toilet on board for children in an emergency.
+- **Peppa Pig** · *£48 · 4.4 from 249 reviews · <a href="https://www.getyourguide.com/activity/-t454309?partner_id=WWP7I0R&amp;cmp=afternoon-tea-bus-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*. Daily at 12:15, 14:45 and 17:30 from Temple on the Embankment (bus stop N). From age 2, with sing-alongs and episode clips on screens and activity books. The route heads east first: Tower Bridge, the Tower of London, the Shard and Borough Market, then St Paul's, Theatreland, Trafalgar Square, Buckingham Palace and Westminster.
 - **PAW Patrol** · *£48 · 4.3 from 19 reviews · <a href="https://www.getyourguide.com/activity/-t1172454?partner_id=WWP7I0R&amp;cmp=afternoon-tea-bus-tours-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Book on GetYourGuide</a>*. Daily at 12:30, 15:00 and 17:30 from Northumberland Avenue, outside the Corinthia Hotel. From age 2, with a mission to find Mayor Goodway and her chicken, puzzles on screens and an activity book. The route goes along the Thames to Battersea Power Station and King's Road.
 
-All three offer traditional, vegetarian, vegan, gluten-free and halal teas, with the same exclusions as the classic bus.
+All three offer traditional, vegetarian, vegan, gluten-free and halal teas, with the same exclusions as the classic bus. Peppa Pig and PAW Patrol have a toilet on board for children in an emergency, and Brigit's advises changing nappies before boarding; the Paddington bus has none, and there are no public toilets near Trafalgar Square or Temple. Children's tickets are discounted for ages 5 to 11 on Paddington and 2 to 11 on Peppa Pig and PAW Patrol, where Brigit's may ask for photo ID. The Peppa Pig and PAW Patrol buses have room only for folding buggies.
 
 ### Christmas and seasonal buses
 

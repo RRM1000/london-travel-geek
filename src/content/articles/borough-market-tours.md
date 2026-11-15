@@ -3,7 +3,7 @@ title: "Borough Market Food Tours: Prices, Tastings and Opening Hours"
 seoTitle: "Borough Market Food Tours: Prices, Tastings, Hours"
 description: "Every Borough Market food tour sold on GetYourGuide, with prices, ratings, tastings and group sizes, plus the market's own opening days, what it is like on a Monday, the three areas of the market and how to eat round it without a guide."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-09
+updatedAt: 2026-11-10
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -87,7 +87,7 @@ Restaurants, bars and shops surround the market.
 
 Six classic British dishes, a drink, a dessert and a "secret" dish the guide doesn't name in advance. Secret Food Tours' own page says the route starts with a bacon and egg bap in Borough Market, then fish and chips, a sausage roll, British cheeses and cider in a historic pub, and sticky toffee pudding. Groups are capped at 12. It has 625 reviews on GetYourGuide; the next most reviewed Borough tour has 28.
 
-Secret Food Tours charges £84.99 on its own site, against £92 on GetYourGuide, and meets outside 6 Tooley Street by London Bridge station.
+Secret Food Tours charges £84.99 on its own site, against £92 on GetYourGuide, and meets outside 6 Tooley Street by London Bridge station. Drinks are ale, beer or cider, honey mead or a non-alcoholic option, and pets cannot come.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="67794" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -155,7 +155,7 @@ Cruise passengers can book the Borough Market tour with the journey to London in
 
 ## The market's own tours
 
-Borough Market's website lists two official, licensed tours. **Celia Brooks** runs public tours on selected Friday mornings from 10am to 1pm with generous food and wine tastings, and needs pre-booking. **Totally Tailored** runs a private behind-the-scenes tour of about 2½ hours, with tastings of tea, cheese, charcuterie and oysters and a glass of English sparkling wine in a wine warehouse. On [Totally Tailored's own page](https://totallytailored.com/tour/borough-food-tasting-tour-london/) the private tour starts at **£379 for the group, for two to ten guests, plus £65 a person for food and drink**, and runs 10am to 12:30pm or 2:30pm to 5pm.
+Borough Market's website lists two official, licensed tours. **Celia Brooks** runs public tours on selected Friday mornings from 10am to 1pm with generous food and wine tastings, and needs pre-booking. Tickets on [her site](https://celiabrooks.com/london-food-tours.html) are **£110**. The tour starts with drinks and pastries at a restaurant inside the market, children under 18 can come but are served no alcohol, and she accommodates special diets if told in advance. Private groups of up to 12 book weekdays only, because weekends are too crowded. **Totally Tailored** runs a private behind-the-scenes tour of about 2½ hours, with tastings of tea, cheese, charcuterie and oysters and a glass of English sparkling wine in a wine warehouse. On [Totally Tailored's own page](https://totallytailored.com/tour/borough-food-tasting-tour-london/) the private tour starts at **£379 for the group, for two to ten guests, plus £65 a person for food and drink**, and runs 10am to 12:30pm or 2:30pm to 5pm.
 
 ## Doing it yourself
 
@@ -163,7 +163,7 @@ Borough Market's website lists two official, licensed tours. **Celia Brooks** ru
 - **Eat in Borough Market Kitchen.** It is the street-food area and has the seating. Our [London markets guide](/articles/best-london-markets/#borough-market-southwark) says which stalls to queue for and which trade only on certain days.
 - **Share dishes.** Street food runs roughly £8 to £14 a dish, so two people who split what they buy get through more of the market.
 - **Get there by rail.** The market is next to London Bridge station on the Jubilee and Northern lines and National Rail. Buses 17, 21, 35, 47, 133, 343 and 381 stop within a five-minute walk. There is no parking, and the market sits inside the Congestion Charge zone.
-- **Toilets and access.** Public toilets, including accessible ones, are in Three Crown Square, Borough Market Kitchen and the Market Hall during trading hours. The public spaces are on one level, with cobbles in places and passages from 1.5 to 4 metres wide.
+- **Toilets and access.** Public toilets, including accessible ones, are in Three Crown Square, Borough Market Kitchen and the Market Hall during trading hours. The Borough Market Store just inside the main entrance is wheelchair accessible. The public spaces are on one level, with cobbles in places and passages from 1.5 to 4 metres wide.
 - **Dogs** are welcome on a lead or carried. Smoking is banned across the market.
 - **Make it a walk.** Our [Bankside and Borough walk](/articles/bankside-borough-walk/) puts the market between Cross Bones and Southwark Cathedral, and Thursday is the day every stop on it is open.
 

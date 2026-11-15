@@ -39,7 +39,7 @@ type Hotel = {
   hasLift?: string; airCon?: string; luggageStorage?: string;
   whyGo?: string; opNote?: string; goodFor?: string[];
   website?: string; bookingUrl?: string;
-  affiliateUrl?: string; affiliateNetwork?: string;
+  affiliateUrl?: string; affiliateNetwork?: string; affiliateMerchant?: string;
 };
 
 const list = (data.hotels as Hotel[]).filter((h: any) => h.guide === articleId);
@@ -136,7 +136,7 @@ const hasAffiliate = list.some((h) => h.affiliateUrl && !CLOSED[h.slug]);
               )}
               {!h.bookingUrl && h.affiliateUrl && (
                 <a href={h.affiliateUrl} rel="sponsored nofollow noopener" target="_blank" data-affiliate={h.affiliateNetwork}>
-                  Check prices<span class="ah-ad">ad</span>
+                  {h.affiliateMerchant === "Booking.com" ? "Check prices on Booking.com" : "Check prices"}<span class="ah-ad">ad</span>
                 </a>
               )}
               {h.website && !h.bookingUrl && (

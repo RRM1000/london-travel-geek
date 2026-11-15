@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Odeon_Leicester_Square
 heroImageLicense: "CC0"
 heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-11-01
+updatedAt: 2026-11-11
 reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
@@ -92,6 +92,18 @@ Resellers such as Cornucopia Events advertise premiere access at **£1,999 to £
 
 **What a viewing area can ban.** BAFTA's red carpet area in 2024 had no cover, no seating, no toilets and no bag storage, and allowed no re-entry. The [BAFTA red carpet guide](/articles/bafta-red-carpet/) has the full list.
 
+## Where to stay for Leicester Square
+
+Premiere nights run late, with the stars on the carpet from about 5.45pm, so a bed within walking distance saves a rush for the last Tube. Three hotels from our [Soho and West End](/articles/where-to-stay-soho-west-end/) and [Covent Garden](/articles/where-to-stay-covent-garden/) guides:
+
+- **The Z Hotel Covent Garden** has 113 compact rooms on Bedford Street, three minutes from Leicester Square. The cheapest grade has no window, so check the room type before you book. [Hotels.com](hotel:z-hotel-covent-garden)
+- **Zedwell Piccadilly Circus** has windowless private rooms in the London Pavilion, a short walk from the square. [Hotels.com](hotel:zedwell-piccadilly-circus)
+- **Strand Palace** has 785 rooms on the Strand, so it still has stock when the smaller hotels are full. [Hotels.com](hotel:strand-palace)
+
+## Make an evening of it
+
+The TKTS booth, the Society of London Theatre's official discount ticket booth, is in the Clocktower building on the south side of Leicester Square, so a premiere day pairs with a show. Our [London theatre guide](/articles/london-theatre-guide/) covers TKTS, day seats and the cheaper nights, and [Where to Eat in London](/articles/eat-in-london-guide/) covers the meal first. London Theatre Geek lists [cheap theatre tickets](https://www.londontheatregeek.co.uk/guides/cheap-theatre-tickets).
+
 ## Finding the next one
 
 - **Applause Store**: register interest on every premiere listing, and on the BAFTA red carpet listing.
@@ -108,4 +120,6 @@ More London ceremonies and big nights, and which ones the public can get into, a
 - 🎞️ **[BFI London Film Festival](/articles/london-film-festival/)** — galas, prices and sold-out routes
 - 🌟 **[BAFTA Red Carpet Tickets](/articles/bafta-red-carpet/)** — free fan-pen places outside the Royal Festival Hall
 - 📺 **[Free TV and Radio Tickets in London](/articles/free-tv-show-tickets-london/)** — the same Applause Store account, for studio audiences
+- 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)** — TKTS, day seats and cheaper nights
+- 🏨 **[Where to Stay in Soho and the West End](/articles/where-to-stay-soho-west-end/)** — hotels a walk from the square
 - 🎬 **[The Best Cinemas in London](/articles/best-cinemas-london/)** — where to watch the film once it is out

@@ -74,6 +74,10 @@ Instead of avocados and imported chillies: **Cornish lobster in a chilli butter*
 
 ### Cavita, Marylebone
 
+![Cavita in London](../../assets/articles/best-mexican-restaurants-london/cavita.jpg)
+
+*Cavita.*
+
 *££££ · 3 min from Bond Street* · Cited by 5 sources
 
 **Time Out's pick for the best Mexican in London.**
@@ -83,6 +87,10 @@ Adriana Cavita worked at Pujol in Mexico City. The menu has **mole** aged for mo
 **££££, closed Monday, and it books weeks ahead.**
 
 ### Santo Remedio, Bermondsey
+
+![Santo Remedio - Asador, London Bridge in London](../../assets/articles/best-mexican-restaurants-london/santo-remedio.jpg)
+
+*Santo Remedio - Asador, London Bridge.*
 
 *£££ · 10 min from London Bridge* · Cited by 8 sources
 
@@ -98,6 +106,10 @@ Adriana Cavita worked at Pujol in Mexico City. The menu has **mole** aged for mo
 
 ### Cometa, Fitzrovia
 
+![Cometa in London](../../assets/articles/best-mexican-restaurants-london/cometa.jpg)
+
+*Cometa.*
+
 *£££ · 5 min from Goodge Street* · Cited by 3 sources
 
 **Mexican seafood**: tostadas, ceviche and aguachile rather than a meat-led menu.
@@ -108,6 +120,10 @@ Adriana Cavita worked at Pujol in Mexico City. The menu has **mole** aged for mo
 
 ### Los Mochis, Notting Hill
 
+![Los Mochis Notting Hill in London](../../assets/articles/best-mexican-restaurants-london/los-mochis.jpg)
+
+*Los Mochis Notting Hill.*
+
 *££££ · Japanese-Mexican* · Cited by 2 sources
 
 **Sashimi and maki on the same menu as ceviche, tiradito and tacos.** Japanese-Mexican cooking has a lineage on Mexico's Pacific coast, where Japanese immigrants settled around Sinaloa; Los Mochis is a city in that state.
@@ -117,6 +133,10 @@ Order across the divide: **tuna tostadas**, sashimi dressed with chilli and lime
 **££££ and it books ahead**, particularly at weekends. Loud, and designed for a night out.
 
 ### Mestizo, Fitzrovia
+
+![Mestizo Mexican Restaurant & Tequila Bar in London](../../assets/articles/best-mexican-restaurants-london/mestizo.jpg)
+
+*Mestizo Mexican Restaurant & Tequila Bar.*
 
 *£££ · 4 min from Euston Square* · Cited by 4 sources
 
@@ -129,6 +149,9 @@ The kitchen does **mole poblano**, cochinita pibil and chiles en nogada in seaso
 ### Ixchel, Chelsea
 
 *£££ · 7 min from Sloane Square* · Cited by 4 sources
+![Ixchel Chelsea - Mexican Restaurant in London](../../assets/articles/best-mexican-restaurants-london/ixchel.jpg)
+
+*Ixchel Chelsea - Mexican Restaurant.*
 
 **A Chelsea room that leans as hard on mezcal and the bar as on the kitchen**, named for the Maya goddess.
 
@@ -145,6 +168,10 @@ Tacos, ceviche and grilled meats from the kitchen, and a long agave list at the 
 The marker of a good taqueria is simple: **do they make their own tortillas?**
 
 ### El Pastor, Borough
+
+![El Pastor London Bridge in London](../../assets/articles/best-mexican-restaurants-london/el-pastor.jpg)
+
+*El Pastor London Bridge.*
 
 *££ · 7A Stoney Street · also Soho, King's Cross and Battersea* · Cited by 7 sources
 
@@ -164,7 +191,15 @@ The masa is made from scratch daily. The scallop aguachile with Clamato and pome
 
 *Tacos at Zapote. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53436663110), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
+![Sonora Taquería in London](../../assets/articles/best-mexican-restaurants-london/sonora-taquera.jpg)
+
+*Sonora Taquería.*
+
 ### Corrochio's, Dalston
+
+![Corrochio's in London](../../assets/articles/best-mexican-restaurants-london/corrochios.jpg)
+
+*Corrochio's.*
 
 *££ · 76 Stoke Newington Road* · Cited by 4 sources
 
@@ -176,6 +211,10 @@ Yucatecan and Jaliscan dishes: **cochinita pibil**, tacos with salsas, and a wee
 
 ### La Chingada, Rotherhithe
 
+![La Chingada Mexican Food ( Surrey Quays) in London](../../assets/articles/best-mexican-restaurants-london/la-chingada.jpg)
+
+*La Chingada Mexican Food ( Surrey Quays).*
+
 *££ · 12 Rotherhithe New Road · also Euston* · Cited by 6 sources
 
 **A small taquería in Rotherhithe.**
@@ -186,6 +225,10 @@ The taco list is the menu: **al pastor** carved off the trompo, **suadero**, **c
 
 ### Fonda, Mayfair
 
+![Fonda in London](../../assets/articles/best-mexican-restaurants-london/fonda.jpg)
+
+*Fonda.*
+
 *£££ · 12 Heddon Street* · Cited by 2 sources
 
 A Mayfair *fonda*; the word means a small family eating house, which this is not.
@@ -195,6 +238,10 @@ A Mayfair *fonda*; the word means a small family eating house, which this is not
 **£££ and it books ahead.**
 
 ### Homies on Donkeys, Leytonstone
+
+![Homies On Donkeys in London](../../assets/articles/best-mexican-restaurants-london/homies-on-donkeys.jpg)
+
+*Homies On Donkeys.*
 
 *££ · 686 High Road · closed Sunday and Monday* · Cited by 5 sources
 
@@ -237,6 +284,10 @@ Nixtamalisation is cooking dried corn in an alkaline solution before grinding it
 
 ### Taquiza, Peckham
 
+![TAQUIZA - Cocina Mexicana in London](../../assets/articles/best-mexican-restaurants-london/taquiza.jpg)
+
+*TAQUIZA - Cocina Mexicana.*
+
 *£ · Arch 164, 115 Rye Lane · Wednesday to Saturday only* · Cited by 3 sources
 
 A Peckham taquería with **a short taco list**.
@@ -246,6 +297,10 @@ Tortillas are pressed to order and fillings rotate: al pastor, carnitas and vege
 **£, walk-in.** Busiest in the evening.
 
 ### Taca Tacos — Deptford and Peckham
+
+![Taca Tacos Deptford in London](../../assets/articles/best-mexican-restaurants-london/taca-tacos.jpg)
+
+*Taca Tacos Deptford.*
 
 *£ · market yard and sit-down* · Cited by 2 sources
 
@@ -257,6 +312,10 @@ The **beef birria taco** is the signature: six hours of slow cooking, the tortil
 
 ### Comalera, Walthamstow
 
+![Comalera in London](../../assets/articles/best-mexican-restaurants-london/comalera.jpg)
+
+*Comalera.*
+
 *£ · 2 min from St James Street · walk-in* · Cited by 3 sources
 
 **A Walthamstow stall pressing its own tortillas.**
@@ -266,6 +325,10 @@ A *comal* is the flat griddle a tortilla is cooked on: masa is pressed and gridd
 **£, walk-in, and open Friday to Sunday only** — closed Monday through Thursday, so check the day before travelling.
 
 ### Club Mexicana, Mayfair
+
+![Club Mexicana, Mayfair in London](../../assets/articles/best-mexican-restaurants-london/club-mexicana.jpg)
+
+*Club Mexicana, Mayfair.*
 
 *£ · entirely vegan*
 

@@ -105,6 +105,10 @@ Two policies to check before you book: **under-sixes are admitted only at weeken
 
 ### Bentley's Oyster Bar & Grill, Piccadilly
 
+![Bentley's Oyster Bar & Grill in London](../../assets/articles/best-seafood-restaurants-london/bentleys-oyster-bar-grill.jpg)
+
+*Bentley's Oyster Bar & Grill.*
+
 *££££ · Piccadilly Circus · Cited by 6 sources · Good Food Guide*
 
 **Shucking since 1916** and now Richard Corrigan's. An oyster bar on the ground floor and a grill room above, where the Dover sole is; Hot Dinners treats them as two different evenings.
@@ -130,6 +134,10 @@ Sit at the oyster bar downstairs unless you want the full dinner.
 *Whole plaice at Wright Brothers.*
 
 ### Seabird, South Bank
+
+![Seabird in London](../../assets/articles/best-seafood-restaurants-london/seabird.jpg)
+
+*Seabird.*
 
 *£££ · Blackfriars · Cited by 5 sources*
 
@@ -157,6 +165,10 @@ A marble-topped oyster bar, Dover sole meunière and a carving trolley. It keeps
 
 ### Parsons, Covent Garden
 
+![Parsons in London](../../assets/articles/best-seafood-restaurants-london/parsons.jpg)
+
+*Parsons.*
+
 *£££ · Covent Garden · Cited by 4 sources · Good Food Guide · closed Sundays*
 
 Tiny, chalkboard-only, and the menu changes every day according to what came in. Whole roasted turbot, gurnard, potted shrimp croquettes, Inverawe smoked salmon with Guinness bread.
@@ -181,6 +193,10 @@ An award, two mastheads and a specialist name it. The Infatuation calls it a san
 
 ### Randall & Aubin, Soho
 
+![Randall & Aubin in London](../../assets/articles/best-seafood-restaurants-london/randall-aubin.jpg)
+
+*Randall & Aubin.*
+
 *£££ · Piccadilly Circus · Cited by 4 sources · no bookings*
 
 **The marble counters of the old butcher's shop are still in place and there is a disco ball over the dining room** — over twenty years on Brewer Street, and **it takes no bookings at all.**
@@ -199,6 +215,10 @@ Several rooms still trading were founded before the First World War.
 
 ### Sweetings, City of London
 
+![Sweetings in London](../../assets/articles/best-seafood-restaurants-london/sweetings.jpg)
+
+*Sweetings.*
+
 *£££ · Mansion House · Cited by 3 sources · weekday lunch only*
 
 **At its Queen Victoria Street site since 1889**, with a trading lineage back to 1830. You sit on stools at long marble counters while staff serve from behind.
@@ -210,6 +230,10 @@ West Mersea natives, **Dover sole at £31**, **fish pie at £13.50**, and a Blac
 **More:** [sweetingsrestaurant.co.uk](http://www.sweetingsrestaurant.co.uk/) · 39 Queen Victoria Street, EC4N 4SF
 
 ### Manzi's, Soho
+
+![Manzi's in London](../../assets/articles/best-seafood-restaurants-london/manzis.jpg)
+
+*Manzi's.*
 
 *£££ · Tottenham Court Road · Cited by 3 sources*
 
@@ -224,6 +248,10 @@ It is **a 2023 opening from the Wolseley Hospitality Group**, not a continuation
 **Book:** [manzis.co.uk](https://manzis.co.uk/) · 1 Bateman's Buildings, W1D 3EN
 
 ### The Oystermen, Covent Garden
+
+![The Oystermen Seafood Bar & Kitchen in London](../../assets/articles/best-seafood-restaurants-london/the-oystermen.jpg)
+
+*The Oystermen Seafood Bar & Kitchen.*
 
 *£££ · Covent Garden · Cited by 3 sources · Good Food Guide*
 
@@ -241,6 +269,10 @@ You eat what the trade buys, in the building it is sold from.
 
 ### The Sea, The Sea, Chelsea
 
+![The Sea, The Sea in London](../../assets/articles/best-seafood-restaurants-london/the-sea.jpg)
+
+*The Sea, The Sea.*
+
 *££££ · Sloane Square · Cited by 3 sources*
 
 **A fishmonger's counter with a chef's table behind it.**
@@ -250,6 +282,10 @@ By day it sells fish; in the evening it turns into a **counter tasting menu buil
 **£££ and the counter books weeks ahead.** Pavilion Road, Chelsea.
 
 ### Applebee's, Borough Market
+
+![Applebee's | Seafood Restaurant in London](../../assets/articles/best-seafood-restaurants-london/applebees.jpg)
+
+*Applebee's | Seafood Restaurant.*
 
 *£££ · London Bridge · Cited by 2 sources · Time Out #3*
 
@@ -261,6 +297,10 @@ The grill does whole fish and shellfish over charcoal: **whole seabass, king pra
 
 ### Behind, London Fields
 
+![Behind Restaurant in London](../../assets/articles/best-seafood-restaurants-london/behind.jpg)
+
+*Behind Restaurant.*
+
 *££££ · London Fields · Cited by 2 sources · Michelin star*
 
 **Andy Beynon's eighteen-seat horseshoe counter took a Michelin star in January 2021 after roughly twenty days of trading.**
@@ -270,6 +310,10 @@ The grill does whole fish and shellfish over charcoal: **whole seabass, king pra
 **££££, open Wednesday to Saturday only** — closed Sunday, Monday and Tuesday — **and it books weeks ahead.**
 
 ### Angler, Moorgate
+
+![Angler Restaurant in London](../../assets/articles/best-seafood-restaurants-london/angler.jpg)
+
+*Angler Restaurant.*
 
 *££££ · Moorgate · Cited by 2 sources · Michelin star · Good Food Guide*
 
@@ -281,6 +325,10 @@ The menu is a fixed sequence of British catch treated at fine-dining level: **Co
 
 ### Faber, Hammersmith
 
+![Faber Wine & Seafood Restaurant in London](../../assets/articles/best-seafood-restaurants-london/faber.jpg)
+
+*Faber Wine & Seafood Restaurant.*
+
 *£££ · Hammersmith · Cited by 3 sources · Time Out #10*
 
 **A light-filled corner room from a pair who ran a seafood pub in the East End first.**
@@ -291,6 +339,10 @@ The menu is a fixed sequence of British catch treated at fine-dining level: **Co
 
 ### Orasay, Notting Hill
 
+![Dove Restaurant in London](../../assets/articles/best-seafood-restaurants-london/orasay.jpg)
+
+*Dove Restaurant.*
+
 *£££ · Ladbroke Grove · Cited by 2 sources*
 
 **Scottish and Irish seafood in a small Notting Hill room**, Jackson Boxer's kitchen.
@@ -300,6 +352,10 @@ The menu is a fixed sequence of British catch treated at fine-dining level: **Co
 **£££, book a few days ahead.**
 
 ### Sam's Riverside, Hammersmith
+
+![Sam's Riverside in London](../../assets/articles/best-seafood-restaurants-london/sams-riverside.jpg)
+
+*Sam's Riverside.*
 
 *£££ · Hammersmith · Cited by 2 sources*
 
@@ -312,12 +368,21 @@ The menu is a fixed sequence of British catch treated at fine-dining level: **Co
 ### Fish Market, Broadgate — closed
 
 *Closed*
+![Billingsgate Market in London](../../assets/articles/best-seafood-restaurants-london/fish-market.jpg)
+
+*Billingsgate Market.*
+
+*Closed as of September 2026*
 
 The 18th-century warehouse off Bishopsgate, once owned by the East India Company, **has closed**. Customers were sent to Liverpool Street Chop House.
 
 ---
 
 ### Lilibet's, Mayfair
+
+![Lilibet's in London](../../assets/articles/best-seafood-restaurants-london/lilibets.jpg)
+
+*Lilibet's.*
 
 *££££ · Green Park · Cited by 2 sources*
 
@@ -356,6 +421,10 @@ Several oyster bars discount in the hours between lunch and dinner.
 ## The market
 
 ### Billingsgate Fish Market, Canary Wharf
+
+![Billingsgate Market in London](../../assets/articles/best-seafood-restaurants-london/billingsgate-fish-market.jpg)
+
+*Billingsgate Market.*
 
 *Free to enter · before dawn*
 

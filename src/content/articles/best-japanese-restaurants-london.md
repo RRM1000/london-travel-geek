@@ -75,8 +75,11 @@ Edomae omakase: nigiri served one piece at a time, the rice at body temperature,
 ![The plain frontage of Sushi Tetsu in Clerkenwell](../../assets/articles/best-japanese-restaurants-london/sushi-tetsu.jpg)
 *Sushi Tetsu, Clerkenwell. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/7670311580), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-
 ### The Araki, Mayfair
+
+![The Araki in London](../../assets/articles/best-japanese-restaurants-london/the-araki.jpg)
+
+*The Araki.*
 
 *££££ · around £310 · two sittings a night* · Cited by 2 sources
 
@@ -89,6 +92,9 @@ Edomae sushi: nigiri only, aged and cured to the chef's timing, served piece by 
 ### Sushi Kanesaka, Mayfair
 
 *££££ · 45 Park Lane · thirteen covers · Two Michelin stars, 2026 guide* · Cited by 4 sources
+![Sushi Kanesaka in London](../../assets/articles/best-japanese-restaurants-london/sushi-kanesaka.jpg)
+
+*Sushi Kanesaka.*
 
 **Thirteen covers inside 45 Park Lane** — nine at the counter, four in a private room — doing **omakase only**, brought over from the Tokyo original, which opened here in July 2023.
 
@@ -97,6 +103,10 @@ Edomae sushi: nigiri only, aged and cured to the chef's timing, served piece by 
 **££££, closed Sunday and Monday, and it books weeks ahead.** Ask for the nine counter seats rather than the four-seat private room.
 
 ### Sushi Atelier, Fitzrovia
+
+![Sushi Atelier 🇯🇵🍣 in London](../../assets/articles/best-japanese-restaurants-london/sushi-atelier.jpg)
+
+*Sushi Atelier 🇯🇵🍣.*
 
 *£££ · 7 min from Oxford Circus · the value pick* · Cited by 3 sources
 
@@ -107,6 +117,10 @@ Omakase nigiri with the rice at body temperature and a chef who talks you throug
 **£££, closed Sunday and Monday, book weeks ahead.** Seven minutes from Oxford Circus.
 
 ### Kurisu Omakase, Brixton
+
+![Kurisu Omakase in London](../../assets/articles/best-japanese-restaurants-london/kurisu-omakase.jpg)
+
+*Kurisu Omakase.*
 
 *££££ · eighteen courses* · Cited by 1 source
 
@@ -135,8 +149,11 @@ Kaiseki follows a set order of preparations — raw, simmered, grilled, steamed 
 ![The wooden frontage and doorway of Umu in Mayfair](../../assets/articles/best-japanese-restaurants-london/umu.jpg)
 *Umu, Mayfair. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2570835137), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-
 ### Engawa, Soho
+
+![Engawa in London](../../assets/articles/best-japanese-restaurants-london/engawa.jpg)
+
+*Engawa.*
 
 *££££ · 2 min from Piccadilly Circus* · Cited by 2 sources
 
@@ -149,6 +166,9 @@ Kobe is served several ways across a set menu: seared on a hot stone at the tabl
 ### Dinings SW3, Chelsea
 
 *££££ · izakaya plates and a courtyard* · Cited by 5 sources
+![Dinings SW3 in London](../../assets/articles/best-japanese-restaurants-london/dinings-sw3.jpg)
+
+*Dinings SW3.*
 
 **The most-cited Japanese room in this guide, with five sources** — izakaya-scale plates with sushi-counter finish, and **a courtyard**.
 
@@ -175,8 +195,11 @@ The signature is **black cod on a hoba leaf**, grilled over charcoal and served 
 ![The corner frontage of Roka on Charlotte Street](../../assets/articles/best-japanese-restaurants-london/roka.jpg)
 *Roka, Fitzrovia. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3694773151), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-
 ### Zuma, Knightsbridge
+
+![Zuma London in London](../../assets/articles/best-japanese-restaurants-london/zuma.jpg)
+
+*Zuma London.*
 
 *££££ · 2 min from Knightsbridge* · Cited by 2 sources
 
@@ -187,6 +210,10 @@ Three kitchens work at once: **robata grill**, sushi counter and main kitchen, a
 **££££ and it books weeks ahead.** Two minutes from Knightsbridge. It is loud.
 
 ### The Aubrey, Knightsbridge
+
+![The Aubrey in London](../../assets/articles/best-japanese-restaurants-london/the-aubrey.jpg)
+
+*The Aubrey.*
 
 *££££ · inside the Mandarin Oriental* · Cited by 2 sources
 
@@ -209,7 +236,6 @@ Izakaya plates and robata off the grill, alongside a cocktail and sake list. The
 ![Salmon roe over grated daikon in a ceramic bowl](../../assets/articles/best-japanese-restaurants-london/jin-kichi.jpg)
 *Jin Kichi, Hampstead. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3955871266), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-japanese-restaurants-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -217,6 +243,10 @@ Izakaya plates and robata off the grill, alongside a cocktail and sake list. The
 ## Nobu, and the London-Peruvian thread
 
 ### Nobu Old Park Lane, Mayfair
+
+![Nobu London (Old Park Lane) in London](../../assets/articles/best-japanese-restaurants-london/nobu-old-park-lane.jpg)
+
+*Nobu London (Old Park Lane).*
 
 *££££ · the original* · Cited by 2 sources
 
@@ -228,6 +258,10 @@ The original London Nobu, **co-founded by Nobu Matsuhisa with Robert De Niro**.
 
 ### SUSHISAMBA, City of London and Covent Garden
 
+![SUSHISAMBA Covent Garden in London](../../assets/articles/best-japanese-restaurants-london/sushisamba.jpg)
+
+*SUSHISAMBA Covent Garden.*
+
 *££££ · 39th floor* · Cited by 2 sources
 
 **An orange tree growing through an open-air terrace on the 39th floor** of Heron Tower, reached by a glass lift up the outside of the building.
@@ -237,6 +271,10 @@ Japanese-Peruvian-Brazilian cooking: **sushi and robata** alongside ceviche and 
 **££££ and it books weeks ahead.** Ask for a terrace table specifically. A second site on the Opera Terrace in Covent Garden runs along the east side of the market and looks over the piazza.
 
 ### Los Mochis, Notting Hill
+
+![Los Mochis Notting Hill in London](../../assets/articles/best-japanese-restaurants-london/los-mochis.jpg)
+
+*Los Mochis Notting Hill.*
 
 *££££ · Japanese-Mexican* · Cited by 1 source
 
@@ -254,6 +292,10 @@ The ramen shops are covered in full, by broth style and with prices and booking 
 
 ### Kanada-Ya, Covent Garden
 
+![Kanada-Ya 金田家 in London](../../assets/articles/best-japanese-restaurants-london/kanada.jpg)
+
+*Kanada-Ya 金田家.*
+
 *£ · no bookings* · Cited by 4 sources
 
 **Tonkotsu ramen** from a shop founded in Yukuhashi, Japan, in 2009. The St Giles High Street branch takes **no bookings**; the Piccadilly branch does.
@@ -264,15 +306,25 @@ Order the **tonkotsu ramen**: pork-bone broth boiled until it turns opaque, thin
 
 ### Monohon Ramen, Old Street
 
+![Monohon Ramen in London](../../assets/articles/best-japanese-restaurants-london/monohon-ramen.jpg)
+
+*Monohon Ramen.*
+
 *£ · walk-in* · Cited by 4 sources
 
 **Ramen with the noodles made in house every day**, named by four independent sources.
 
 The core bowls are **shouyu tonkotsu** (soy seasoning in a creamy pork-bone soup) and a spicy version, with soupless **abura soba** and mazemen on the menu too.
+![Ramo Ramen - Soho in London](../../assets/articles/best-japanese-restaurants-london/ramo-ramen.jpg)
 
 **£, walk-in only.** Old Street.
+*Ramo Ramen - Soho.*
 
 ### Koya Ko, Bloomsbury
+
+![Koya Japanese Restaurant Hackney in London](../../assets/articles/best-japanese-restaurants-london/koya-ko.jpg)
+
+*Koya Japanese Restaurant Hackney.*
 
 *£ · udon* · Cited by 2 sources
 
@@ -283,6 +335,10 @@ The udon is made in-house and cut by hand. The classic order is **kake udon**, h
 **£, walk-in.** There are several Koya sites; this one and the Broadway Market outpost avoid the Soho queue.
 
 ### Cocoro, Bloomsbury
+
+![Cocoro in London](../../assets/articles/best-japanese-restaurants-london/cocoro.jpg)
+
+*Cocoro.*
 
 *££ · Japanese home cooking* · Cited by 2 sources
 

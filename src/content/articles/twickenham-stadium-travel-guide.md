@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenh
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
 publishedAt: 2026-07-23
-updatedAt: 2026-11-09
+updatedAt: 2026-11-11
 reviewBy: 2026-11-20
 sites: [london]
 canonicalSite: london
@@ -99,7 +99,9 @@ The **281**, **481**, **681** and **110** stop within a minute of the ground; th
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="twickenham-stadium-travel-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+For a day either side of the match, Hampton Court Palace, Kew Gardens and Richmond are all in this corner of south-west London ([Hampton Court guide](/articles/hampton-court-palace-guide/), [Kew Gardens guide](/articles/kew-gardens-guide/)):
+
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="twickenham-stadium-travel-guide-kew-hampton-court-richmond" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="1498698,34660,1356224"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Driving and the parking zone
 
@@ -191,6 +193,8 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts E
 
 *Crowd figures are Richmond Council's.* England v New Zealand is sold out; the England v Japan game started at £51. On a concert night everything here applies, but the crowd leaves later, closer to the last train.
 
+**Tickets.** Each match has its own page on the stadium's site: [England v Japan](https://allianzstadiumtwickenham.com/england-v-japan-nations-championship-pool-match/tickets), and for the three finals days, the [Nations Championship finals page](https://allianzstadiumtwickenham.com/nations-championship-finals-weekend), which says general admission is on sale. The Six Nations games have their own pages: [France](https://allianzstadiumtwickenham.com/england-v-france-guinness-mens-six-nations-2027), [Italy](https://allianzstadiumtwickenham.com/england-v-italy-guinness-mens-six-nations-2027) and [Scotland](https://allianzstadiumtwickenham.com/england-v-scotland-guinness-mens-six-nations-2027).
+
 ---
 
 ## Bags, entry and the rules that catch people out
@@ -257,9 +261,9 @@ Inside, the **British Airways West Fan Village** needs a match ticket and its ow
 
 ## Where to stay
 
-**[Radisson RED London Twickenham](https://www.radissonhotels.com/en-us/hotels/london-twickenham-stadium)** is the one hotel at the stadium, built into the **South Stand**, with suites overlooking the pitch. Guest parking is free on **non-event days**; on an event day, ask the hotel (**020 8891 8200**).
+**[Radisson RED London Twickenham](hotelscom:313923)** is the one hotel at the stadium, built into the **South Stand**, with suites overlooking the pitch. Guest parking is free on **non-event days**; on an event day, ask the hotel (**020 8891 8200**).
 
-Otherwise **Richmond** has the nearest choice of rooms, one free shuttle ride away. **[Bingham Riverhouse](hotel:bingham-riverhouse)** is a Georgian townhouse on the Thames at 61–63 Petersham Road, with a restaurant; lift access is limited. See our [Richmond area guide](/articles/richmond-area-guide/), or [where to stay in London](/articles/best-areas-to-stay-in-london/) if you'd rather stay central and travel out on the day.
+Otherwise **Richmond** has the nearest choice of rooms, one free shuttle ride away. **[Bingham Riverhouse](hotel:bingham-riverhouse)** is a Georgian townhouse on the Thames at 61–63 Petersham Road, with a restaurant; lift access is limited. Staying on the Waterloo line works too, since the trains to Twickenham leave from Waterloo: [ibis London Blackfriars](hotel:ibis-london-blackfriars) is a short stroll from Southwark and Waterloo stations, with 297 rooms and air conditioning throughout. See our [Richmond area guide](/articles/richmond-area-guide/), or [where to stay in London](/articles/best-areas-to-stay-in-london/) if you'd rather stay central and travel out on the day.
 
 ---
 
@@ -277,6 +281,8 @@ The **[World Rugby Museum](https://worldrugbymuseum.com/plan-your-visit)** is in
 
 The **tour** covers the England changing room, the tunnel, the Royal Box and pitchside. A **free carer ticket** can be added when booking, and the route is lift-served. **Legends Tours** with a former England player (Jason Leonard on 27 February 2027) cost **£149.50**.
 
+Museum and tour tickets are sold on the [museum's booking page](https://worldrugbymuseum.com/booking).
+
 On **non-match days**, parking in the West or North car park is free if you register your number plate at the England Rugby Store.
 
 ---
@@ -290,6 +296,10 @@ On **non-match days**, parking in the West or North car park is free if you regi
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)**
 - 🏟️ **[Tottenham Hotspur Stadium Travel Guide](/articles/tottenham-hotspur-stadium-travel-guide/)**
 - 🌳 **[Richmond Area Guide](/articles/richmond-area-guide/)**
+- 🌷 **[Kew Gardens Guide](/articles/kew-gardens-guide/)**
+- 🏰 **[Hampton Court Palace Guide](/articles/hampton-court-palace-guide/)**
+- ✈️ **[Heathrow Airport to London](/articles/heathrow-airport-to-london/)**, if you are flying in for the match
+- 🗓️ **[Things to Do in London in November](/articles/things-to-do-in-london-in-november/)**
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)**, for anything bigger than A4
 
