@@ -179,6 +179,7 @@ IWM says the quietest time is the afternoon, after 3pm, though school and tour g
 ## Continue planning your London trip
 
 - 🏛️ **[Westminster Area Guide](/articles/westminster-area-guide/)** — Westminster Abbey, the Houses of Parliament, and historic pubs in SW1.
+- 🏛️ **[Houses of Parliament Tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — paid tours on Saturdays and in recess, the Big Ben climb and free debates, across Parliament Square.
 - 🚶 **[Westminster Walking Tour](/articles/westminster-walk/)** — step-by-step 4km route connecting the War Rooms with St James's Park and Whitehall.
 - ⚓ **[HMS Belfast Guide](/articles/hms-belfast-guide/)** — IWM's Second World War cruiser on the Thames, with the same membership.
 - 🖼️ **[Best Museums in London](/articles/best-museums-london/)** — 17 compared, most of them free.

@@ -60,7 +60,7 @@ These thirteen plans do the second. **Each is grouped tightly enough that you ba
 
 **[We have the Westminster half stop by stop →](/articles/westminster-walk/)** — eleven numbered stops from Westminster Bridge to Trafalgar Square, with a map, a Google Maps walking link and what is open on which day. Use that for the first half of this day.
 
-**Morning.** **Westminster Abbey** on an early slot — book ahead, and note it is **closed to sightseers on Sundays**. Allow 90 minutes. Then **Parliament Square** and out onto **Westminster Bridge** for the view back at Big Ben. *Five minutes.*
+**Morning.** **Westminster Abbey** on an early slot — book ahead, and note it is **closed to sightseers on Sundays**. Allow 90 minutes. Then **Parliament Square** and out onto **Westminster Bridge** for the view back at Big Ben. ([Going inside Parliament](/articles/houses-of-parliament-tour-guide/) is free to watch a debate, ticketed to tour.) *Five minutes.*
 
 **Midday.** **Through St James's Park to Buckingham Palace** — *about 15 minutes*, and the bridge over the lake has the postcard view. Then **down The Mall to Trafalgar Square**, *another 15*.
 

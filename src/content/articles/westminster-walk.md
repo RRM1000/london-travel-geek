@@ -105,7 +105,7 @@ If you want the building rather than the business, tours are ticketed and **open
 - **Big Ben tour** — **£55**, age 11 and over, and **300-plus steps** on foot. There is no lift.
 - **Speaker's House** — **£23**, and best suited to over-16s.
 
-> 💡 **The free tour is for UK residents only.** They can book a free 75-minute guided tour through their own MP; everybody else pays. The paid Big Ben climb is open to anyone.
+> 💡 **The free tour is for UK residents only.** They can book a free 75-minute guided tour through their own MP; everybody else pays. The paid Big Ben climb is open to anyone. Dates, security rules and the recess weeks are in our [Houses of Parliament tour guide](/articles/houses-of-parliament-tour-guide/).
 
 ## 3. The Supreme Court
 
@@ -326,6 +326,7 @@ The route also works in reverse. We run it north because it finishes at the free
 ## What to do with the rest of the day
 
 - **[The Westminster area guide](/articles/westminster-area-guide/)** — the Cathedral, Millbank and Tate Britain, where to eat, and where to stay.
+- **[Houses of Parliament tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — the paid tours, the 334-step Big Ben climb and the free ways in, for stop 2.
 - **[The best walking tours in London](/articles/best-walking-tours-london/)** — the same ground with a guide, from a Blue Badge walk round the Abbey to the Changing of the Guard.
 - **[The South Bank walk](/articles/south-bank-walk/)** — starts on the far side of Westminster Bridge and runs east to Tower Bridge. The two make a full day.
 - **[Free things to do in London](/free/)** — nine of these eleven stops cost nothing.

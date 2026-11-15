@@ -337,6 +337,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 - 🎢 **[Theme parks near London](/articles/theme-parks-near-london/)** — Thorpe Park, Chessington, LEGOLAND, Paultons and the seaside parks compared
 - 🎄 **[Christmas Shows and Pantomimes in London](/articles/christmas-shows-london/)** - pantos, Nutcrackers and shows for under-fives, with age guidance
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — under-12s get in for £5 at Charlton against £39 for a junior Premier League seat
+- 🏛️ **[Houses of Parliament Tours](/articles/houses-of-parliament-tour-guide/)** — the family audio tour, one child free per paying adult, on Saturdays and in recess.
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**

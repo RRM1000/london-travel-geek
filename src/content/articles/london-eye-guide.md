@@ -259,6 +259,7 @@ The London Eye is fully step-free:
 - 🏛️ **[South Bank Area Guide](/articles/south-bank-area-guide/)** — street performers, cultural centres, and dining along the riverside.
 - 🚶 **[South Bank Walk](/articles/south-bank-walk/)** — self-guided walking route from Westminster Bridge to Tower Bridge.
 - 🏛️ **[Westminster Area Guide](/articles/westminster-area-guide/)** — Big Ben, Parliament, and royal landmarks directly across the river.
+- 🏛️ **[Houses of Parliament Tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — going inside the Palace across the river, and the 334-step Big Ben tour.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — the maths, included attractions, and when a sightseeing pass saves money.
 - 🕴️ **[Madame Tussauds London guide](/articles/madame-tussauds-london-guide/)** — prices, Fast Track and the zones inside, for the other half of the Eye-and-Tussauds combo.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — an efficient Zone 1 plan that fits the London Eye into a central London day.

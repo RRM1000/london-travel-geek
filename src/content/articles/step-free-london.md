@@ -190,7 +190,7 @@ Free wheelchair loans are common, but the notice each place wants is not the sam
 A Changing Places toilet is a larger room with a height-adjustable adult changing bench and a hoist, on top of what an ordinary accessible toilet has. Registered with the [Changing Places Consortium](https://www.changing-places.org/find) in central London and the places visitors go:
 
 - **Museums and galleries** — Tate Modern, Tate Britain, the National Gallery (two, in the Sainsbury Wing and the Roden Centre), the National Portrait Gallery, the Imperial War Museum, the Science Museum, the National Army Museum, the Postal Museum, the National Maritime Museum, Museum of London Docklands.
-- **Landmarks** — the Tower of London, St Paul's Cathedral, the Houses of Parliament, City Hall, ZSL London Zoo, Madame Tussauds, the Royal Mews at Buckingham Palace.
+- **Landmarks** — the Tower of London, St Paul's Cathedral, the Houses of Parliament ([tours and access](/articles/houses-of-parliament-tour-guide/)), City Hall, ZSL London Zoo, Madame Tussauds, the Royal Mews at Buckingham Palace.
 - **Arts venues** — the Barbican Centre, the Royal Festival Hall, the Roundhouse, Woolwich Works, The O2.
 - **Stations** — King's Cross, Euston, Paddington, Victoria and London Bridge.
 - **Shopping and parks** — Battersea Power Station, Westfield London, Westfield Stratford City (two floors), Regent's Park, Greenwich Park, and a public block on Victoria Embankment.
