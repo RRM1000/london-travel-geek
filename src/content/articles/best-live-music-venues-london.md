@@ -5,7 +5,7 @@ description: "A Victorian railway turning shed, a veterans' club with a gold tin
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
 publishedAt: 2026-08-26
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
@@ -16,7 +16,7 @@ faq:
   - q: "What is the best live music venue in London?"
     a: "For big shows, O2 Academy Brixton: the floor slopes down towards the stage, so everyone can see. For small ones, Cafe OTO in Dalston is Time Out's own pick as London's most consistently committed venue."
   - q: "Where do I see live jazz in London?"
-    a: "Ronnie Scott's in Soho, founded in 1959 in a Gerrard Street basement and in its Frith Street room since 1965. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959, still weekly in its own Jazz Room. The 606 Club in Chelsea is not members-only, though people often assume it is."
+    a: "Ronnie Scott's in Soho, founded in 1959 in a Gerrard Street basement and in its Frith Street room since 1965. The Jazz Cafe in Camden covers a far wider range than the name suggests, and The Bull's Head in Barnes has run jazz since 1959, still weekly in its own Jazz Room. The 606 Club in Chelsea is not members-only, though people often assume it is. For jazz with cocktails, Nightjar near Old Street has a band every night from 9pm."
   - q: "Which London music venues are historic buildings?"
     a: "The Roundhouse is a circular Victorian railway turning shed. KOKO is a gilded Victorian theatre reopened after a fire. Union Chapel in Islington is a Grade I listed working church. MOTH Club in Hackney is a veterans' social club with a gold tinsel stage curtain. And the 100 Club on Oxford Street has had live music in it since 1942."
   - q: "How do I find gigs in London?"
@@ -27,7 +27,7 @@ faq:
 
 London's music rooms are mostly buildings that were something else first — a railway turning shed, a Victorian theatre, a church, a veterans' social club. This guide covers the rooms rather than the listings, arranged by size, because a 20,000-seat arena and a back room behind a Dalston pub are different nights out.
 
-> 💡 **The Short Version:** **O2 Academy Brixton** has the sloping floor bands rave about. **The Roundhouse** is a Victorian railway shed. **Union Chapel** is a working church that hosts around 250 gigs a year. **Cafe OTO** is Time Out's pick for the most consistently committed small room. And **MOTH Club** has a gold tinsel curtain and is still a members' social club.
+> 💡 **The Short Version:** For a big gig, **O2 Academy Brixton**: the floor slopes towards the stage, so the back sees as well as the front. **The Roundhouse** is a Victorian railway shed and **Union Chapel** a working church with around 250 gigs a year. For jazz, **Ronnie Scott's** runs two shows every evening and a £12 late show Wednesday to Saturday. For a small room, **Cafe OTO** in Dalston is Time Out's pick and **MOTH Club** in Hackney still runs as a veterans' social club by day. For gigs on a particular date, filter [What's On by music](/whats-on/?cat=music).
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. These are drawn from a wide spread of sources - the food and travel press, the big listings sites, independent blogs and specialists, video, and what Londoners recommend themselves - and cross-referenced against each other. Capacities are approximate and change with the layout of a given show.
@@ -49,6 +49,35 @@ London's music rooms are mostly buildings that were something else first — a r
 | **Chelsea** | The 606 Club |
 | **Notting Hill** | Notting Hill Arts Club |
 | **Barnes & west** | The Bull's Head, Eventim Apollo |
+| **Earl's Court** | The Troubadour |
+| **Kennington** | Toulouse Lautrec |
+| **Old Street** | Nightjar |
+
+## The rooms at a glance
+
+| Venue | Capacity | Area | What it is | Before you buy |
+| --- | --- | --- | --- | --- |
+| **The O2** | 20,000 | Greenwich | Arena in the old Millennium Dome | One Jubilee line station for everyone leaving; wait in the bars |
+| **O2 Academy Brixton** | about 5,000 | Brixton | Art deco cinema, sloping floor | The back sees as well as the front, so no need to pay for the pit |
+| **Eventim Apollo** | about 5,000 | Hammersmith | 1932 art deco cinema | Seated or standing depending on the show; check before buying |
+| **Royal Albert Hall** | 5,272 | South Kensington | Home of the Proms | Promming tickets are a few pounds on the day |
+| **Roundhouse** | about 1,700 | Chalk Farm | Circular 1847 railway shed | Crowd wraps the stage; the gallery is the seated option |
+| **KOKO** | about 1,400 | Camden | 1900 theatre, three tiers | The floor fills fast; get on a balcony |
+| **Union Chapel** | about 900 | Islington | Working Grade I church | Unreserved pews and no drinks in the chapel; arrive early |
+| **The 100 Club** | about 350 | Oxford Street | Basement, live music since 1942 | Usually £10–£25; pillars block some views |
+| **Ronnie Scott's** | main room, plus 140 upstairs | Soho | Seated jazz club with food | Main shows £40–£65; the 11.15pm late show is £12 |
+| **Jazz Cafe** | about 440 | Camden | Soul, funk and jazz every night | Book a balcony table to sit and eat |
+| **MOTH Club** | about 200 | Hackney | Veterans' club, tinsel curtain | Cheap tickets that go quickly |
+| **Cafe OTO** | about 150 | Dalston | Free jazz and experimental | £8–£20 and rarely sold out, so decide on the day |
+
+## Live music every night
+
+[What's On](/whats-on/?cat=music) lists gigs across London by date, with prices and links to the venues' own box offices. These rooms have music every night, so they are the safe bets without a ticket bought ahead:
+
+* **Ronnie Scott's**, Soho: two main shows every evening, seven nights a week, and the £12 Late Late Show at 11.15pm Wednesday to Saturday.
+* **Jazz Cafe**, Camden: live acts every night of the week.
+* **Nightjar**, Old Street: jazz, swing and blues from 9pm every night, walk-ins taken.
+* **Cafe OTO**, Dalston: most nights, and it rarely sells out ahead.
 
 ---
 
@@ -373,6 +402,22 @@ A jazz venue since 1959, the same year Ronnie Scott's opened. It is a **Young's 
 
 Five minutes from Barnes Bridge, and the one room on this list where the gig and a Sunday lunch are the same outing.
 
+### Nightjar, Old Street
+
+*129 City Road, EC1V 1JB · music from 9pm nightly*
+
+**A Prohibition-style cocktail bar in a basement off Old Street roundabout**, with jazz, swing and blues every night from 9pm. The cocktail list runs to house-made liqueurs and vintage spirits, and the band plays a few metres from the tables.
+
+There are no tickets: **a cover charge goes on your bill and is paid straight to the musicians**, separate from a minimum spend of £15 per person per hour. Walk-ins are taken, but book for the music nights. **Over-21s only**, smart casual.
+
+### Toulouse Lautrec, Kennington
+
+*140 Newington Butts, SE11 4RN · jazz club and restaurant*
+
+**A French restaurant with a jazz club and piano room attached**, running jazz and cabaret since 2008: bebop, swing and gypsy jazz, plus jam sessions. It sits between Kennington and Elephant & Castle stations, and it hosts a share of the [EFG London Jazz Festival](/articles/london-jazz-festival/) each November.
+
+**Book a table rather than walking in**; the venue says it closes earlier on quiet nights. The kitchen stops at 9.30pm Sunday to Thursday and 10.30pm on Fridays and Saturdays.
+
 ---
 
 ## Small rooms
@@ -407,6 +452,14 @@ It has a low ceiling, no raised stage to speak of, and a capacity that keeps you
 **Tickets are usually under £15** and often sell out by word of mouth. Free entry on some club nights after the band.
 
 <div data-venue-listings="The Shacklewell Arms" data-compact></div>
+
+### The Troubadour, Earl's Court
+
+*265–267 Old Brompton Road, SW5 9JA · since 1954*
+
+**A coffee house, pub and restaurant with its own stage, open since 1954.** Bob Dylan, Paul Simon and Davey Graham played it during the folk revival; Adele and Florence and the Machine played it on the way up. There is a garden at the back.
+
+It has live music most days of the week, and **Jazz Sundays** over dinner, with a **£9.50 entry fee** collected at the door and booking recommended.
 
 ### Notting Hill Arts Club, Notting Hill
 

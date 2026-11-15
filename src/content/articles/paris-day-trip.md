@@ -1,7 +1,7 @@
 ---
 title: "Paris from London: The Eurostar, the Fares and the Hours You Actually Get"
-seoTitle: "Paris Day Trip from London: Eurostar Fares and Times"
-description: "St Pancras to Gare du Nord takes as little as 2h16 on Eurostar, with Standard fares around £55 booked two weeks ahead against £220 on the day. Arrive 75 minutes early for UK exit and EU entry checks, and the last realistic return gives you a genuine 7 to 8 hours in the city."
+seoTitle: "Paris Day Trip from London: Eurostar Fares and 7 Hours"
+description: "St Pancras to Gare du Nord in 2h16. Eurostar Standard around £55 two weeks ahead, £220+ on the day. Arrive 75 minutes early; you get 7 to 8 hours in Paris."
 publishedAt: 2026-07-14
 updatedAt: 2026-10-26
 reviewBy: 2027-01-26

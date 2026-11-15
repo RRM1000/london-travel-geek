@@ -3,7 +3,7 @@ title: "Thames River Cruises in London: Which to Book and What They Cost"
 seoTitle: "Thames River Cruises London 2026: Prices & Routes"
 description: "Every kind of Thames cruise compared on price, piers and commentary. Westminster to Greenwich from £14.62 online, a £9 City Cruises day pass, lunch from £43, dinner from £99, speedboats from £59.95 and the seasonal boat to Kew and Hampton Court."
 publishedAt: 2026-06-15
-updatedAt: 2026-11-01
+updatedAt: 2026-11-15
 reviewBy: 2027-02-01
 sites: [london]
 canonicalSite: london
@@ -140,6 +140,8 @@ GetYourGuide sells its own set of dining cruises:
 - [**Break the Barrier**](https://www.thamesrockets.com/break-the-barrier/): 45 minutes from **Bankside Pier**, flat out from the start, **from £69.95**, recommended for ages 10 and up.
 - [**Thames Barrier Voyage**](https://www.thamesrockets.com/thames-barrier-explorers-voyage/): 80 minutes out to the Barrier and back, **from £79.95**, child £64.95.
 - **Thames Lates**: 18 and over, with drinks served on board, from £64.95.
+
+A group of twelve can charter a boat privately for less per head than twelve public tickets; the [hen do guide](/articles/hen-do-london/) has the charter price.
 
 **Who cannot go:** Thames Rockets does not carry pregnant passengers, advises anyone with a back or neck condition not to travel, and asks parents of babies under six months to phone first. Children 14 and under need an adult with them. Check-in is 15 minutes before departure, and wheelchair access depends on the pier, so call before booking.
 

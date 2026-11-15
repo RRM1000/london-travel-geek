@@ -1,7 +1,7 @@
 ---
 title: "A Walk Around the City of London: Bank to Tower Bridge in Eleven Stops"
-seoTitle: "City of London Walking Route Map: Bank to Tower Bridge"
-description: "A numbered walking route through the Square Mile, from the Bank junction to Tower Bridge, taking in Leadenhall Market, a bombed church that became a garden and a free view from the 58th floor. With what is open on which day."
+seoTitle: "City of London Walk: Free Self-Guided Route and Map"
+description: "A free 3km walk through the Square Mile, Bank to Tower Bridge in 11 stops: Leadenhall Market, St Dunstan-in-the-East and a free view from the 58th floor."
 heroImage: "../../assets/articles/city-of-london-walk/bank-junction-royal-exchange.jpg"
 heroImageAlt: "The Royal Exchange portico and the Wellington statue at the Bank junction, with the City's glass towers rising behind and the Bank of England under scaffolding to the left"
 publishedAt: 2026-07-10

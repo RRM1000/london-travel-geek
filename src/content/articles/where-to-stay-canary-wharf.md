@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:West_India_Quay_cranes
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 publishedAt: 2026-06-13
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2027-03-25
 sites: [london]
 canonicalSite: london
@@ -25,13 +25,40 @@ faq:
     a: "Canary Wharf has separate stations for the Jubilee and the Elizabeth line, a few minutes apart, plus several DLR stations. Hotels on West India Quay are a minute from West India Quay DLR and three minutes from the Elizabeth line. Hotels on Marsh Wall use Heron Quays or South Quay DLR and are seven or eight minutes' walk from the Jubilee. TRIBE, at Wood Wharf, is four minutes from the Jubilee's Wood Wharf exit."
   - q: "Which Canary Wharf hotels have kitchens?"
     a: "Locke London Canary Wharf (studios from 23 square metres with a kitchen area, washer-dryer and dishwasher), Cove Landmark Pinnacle (studios with a kitchenette, larger apartments with full kitchens) and Marriott Executive Apartments on West India Quay (studios to two-bedroom apartments with full kitchens). Cove cleans weekly and the Marriott apartments twice a week."
+  - q: "Which Canary Wharf hotels have a pool?"
+    a: "Canary Riverside Plaza's guests use the adjoining health club free, with a 20-metre infinity lap pool that under-16s can use from 8.30 to 10.30am. Novotel London Canary Wharf has an indoor pool and gym. TRIBE sells its guests a discounted day pass to Third Space, which has a pool, a short walk away."
+  - q: "Where is there a cheap hotel near Canary Wharf?"
+    a: "Travelodge London Docklands Central at East India, a short DLR ride east, was £34.99 on Sunday 11 October 2026 and £111.99 on the most expensive of five sampled nights. Closer to the towers, Point A includes breakfast when you book direct, and the Premier Inn at Westferry is a minute from the DLR."
   - q: "How do I get from Heathrow to Canary Wharf?"
     a: "Direct Elizabeth line trains take about 48 minutes from Heathrow Terminals 2 and 3 to Canary Wharf. The Elizabeth line station is at Crossrail Place, a few minutes' walk from the Jubilee line station."
 ---
 
 Canary Wharf is a business district on the Isle of Dogs with three railways under it: the Elizabeth line, the Jubilee and the DLR. That makes it a practical base for Heathrow (about 48 minutes, no change), the City (seven minutes to Liverpool Street) and The O2 (one stop). The hotels are modern and air-conditioned, and several are aparthotels with kitchens. Little here is older than the 1980s apart from the docks and a terrace of Georgian warehouses; our [Canary Wharf area guide](/articles/canary-wharf-area-guide/) covers what there is to do.
 
-> 💡 **The Short Version:** For a kitchen, **[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites, five minutes from the Jubilee; the studios have a kitchen and a washer-dryer. For the river, **[Canary Riverside Plaza](hotelscom:h519049)** has 141 rooms of 37 m² or more beside the Uber Boat pier. **[Novotel London Canary Wharf](hotel:novotel-canary-wharf)**, **£156 to £229** on five sampled nights, has a pool and the Bōkan bars on floors 38 and 39. On a budget, **[Premier Inn Canary Wharf (Westferry)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-canary-wharf-westferry.html)** is a minute from Westferry DLR, and **[Point A](hotelscom:h9080289)** includes breakfast when you book direct. **Sunday is the cheap night, not Saturday**: a Novotel double was £165 on Sunday 11 October and £227 on Saturday 17 October.
+> 💡 **The Short Version:** For a kitchen, **[Locke London Canary Wharf](hotel:locke-canary-wharf)** has 279 studios and suites, five minutes from the Jubilee; the studios have a kitchen and a washer-dryer. For the river, **[Canary Riverside Plaza](hotelscom:h519049)** has 141 rooms of 37 m² or more beside the Uber Boat pier. **[Novotel London Canary Wharf](hotel:novotel-canary-wharf)**, **£156 to £229** on five sampled nights, has a pool and the Bōkan bars on floors 38 and 39. On a budget, **[Premier Inn Canary Wharf (Westferry)](https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-canary-wharf-westferry.html)** is a minute from Westferry DLR, **[Point A](hotelscom:h9080289)** includes breakfast when you book direct, and **[Travelodge London Docklands Central](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)** at East India was £34.99 on a Sunday in October. **Sunday is the cheap night, not Saturday**: a Novotel double was £165 on Sunday 11 October and £227 on Saturday 17 October.
+
+## Canary Wharf hotels at a glance
+
+| Hotel | Type | Part | Price | Station | Parking | Know before booking |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Locke London Canary Wharf** | Aparthotel | Wood Wharf | Mid-range | Jubilee 5 min | — | Studios with a kitchen, washer-dryer and dishwasher |
+| **Cove Landmark Pinnacle** | Aparthotel | Marsh Wall | Mid-range | Heron Quays DLR; Jubilee 8 min | — | Full kitchens in the larger studios; cleaned weekly |
+| **Marriott Executive Apartments** | Aparthotel | West India Quay | — | West India Quay DLR 1 min | — | Full kitchens, studio to two bedrooms |
+| **Canary Riverside Plaza** | Hotel | Westferry Circus | — | Heron Quays DLR 8 min; Jubilee 11 min | — | 20-metre pool free to guests; Premium rooms face the Thames |
+| **London Marriott Canary Wharf** | Hotel | West India Quay | About £200 | West India Quay DLR 1 min; Elizabeth line 3 min | Saba car park on the quay | 24-hour gym with a sauna |
+| **Hilton London Canary Wharf** | Hotel | Marsh Wall | — | South Quay DLR; Jubilee 8 min | 25 spaces, not bookable | Executive lounge |
+| **Novotel London Canary Wharf** | Hotel | Marsh Wall | £156 to £229 | Heron Quays DLR 2 min; Jubilee 7 min | — | Indoor pool; Bōkan bars on floors 38 and 39 |
+| **TRIBE London Canary Wharf** | Hotel | Wood Wharf | £157 to £199 | Jubilee 4 min | — | Food and coffee 24 hours a day |
+| **Radisson Blu Canary Wharf East** | Hotel | Blackwall | — | East India DLR 5 min | — | River views to The O2; no Jubilee on foot |
+| **Point A** | Budget | West India Quay | — | Westferry DLR 480 m | — | Breakfast included when booked direct |
+| **Premier Inn (Westferry)** | Budget | Westferry | — | Westferry DLR 1 min | West India Quay car park, £24 for 24 hours | Two children eat breakfast free with each paying adult |
+| **Britannia International** | Budget | Marsh Wall | — | South Quay DLR or Jubilee 7 min | £25 for 24 hours | Check-out 10am on weekdays |
+| **Holiday Inn Express Limehouse** | Budget | Limehouse | — | Limehouse DLR 5 min | £20 a day | Breakfast included |
+| **Travelodge Docklands Central** | Budget | East India | £34.99 to £111.99 | East India DLR 7 min | £13 for 24 hours, 30 spaces | £34.99 on a Sunday; DLR only |
+
+*A range of prices is the cheapest double on five sampled nights between October 2026 and April 2027.*
+
+**For a work trip**, stay within a short walk of the Jubilee or the Elizabeth line: Locke, TRIBE and the two Marriott buildings on West India Quay. TRIBE's grab-and-go counter sells coffee and meals 24 hours a day, and the Hilton has an executive lounge.
 
 ## Which part of Canary Wharf
 
@@ -242,6 +269,12 @@ Open at the weekend: Wood Wharf's restaurants, the West India Quay restaurants, 
 
 *A twin room at Britannia International Hotel.*
 
+### Travelodge London Docklands Central
+
+*£34.99 to £111.99 on five sampled nights · 1 Oregano Drive, E14 2AE · East India DLR 7 min · [Travelodge's site](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)*
+
+**[Travelodge London Docklands Central](https://www.travelodge.co.uk/hotels/697/London-Docklands-Central-hotel)** is a new-build Travelodge at East India, east of the estate near the Radisson Blu: **£34.99 on Sunday 11 October 2026** and £42.99 on a Wednesday in February, with the three Saturdays £81.99 to £111.99. Every room is air-conditioned, the doubles have king-size beds, and family rooms are sold too. The car park has 30 spaces at **£13 for 24 hours**, first come, first served. Like the Radisson, it relies on the DLR: Canary Wharf is a short ride west, and after the DLR stops it is a night bus or a taxi. Hotels.com does not sell it, so book on Travelodge's own site; our [budget hotels guide](/articles/best-budget-hotels-london/) prices it against the rest of London.
+
 ### Holiday Inn Express London – Limehouse
 
 *469–475 The Highway, E1W 3HN · Limehouse DLR under 5 min*
@@ -278,7 +311,7 @@ Open at the weekend: Wood Wharf's restaurants, the West India Quay restaurants, 
 
 The **Jubilee line and the Elizabeth line use separate stations** a few minutes' walk apart: the Jubilee under Canada Square, the Elizabeth line under Crossrail Place, north towards West India Quay. The **DLR** runs south to Greenwich and Lewisham, west to Bank and Tower Gateway, and north to Stratford. Our [Heathrow guide](/articles/heathrow-airport-to-london/) and [London City Airport guide](/articles/london-city-airport-to-london/) have the fares.
 
-**On Friday and Saturday nights, only the Jubilee runs all night**; the DLR and the Elizabeth line stop. For a late weekend night out, the hotels a short walk from the Jubilee station (Locke, TRIBE, the Marriott) are the ones that get you home by Tube. The Radisson Blu, the Holiday Inn Express and the Premier Inn depend on the DLR, so after it stops it's a night bus or a taxi.
+**On Friday and Saturday nights, only the Jubilee runs all night**; the DLR and the Elizabeth line stop. For a late weekend night out, the hotels a short walk from the Jubilee station (Locke, TRIBE, the Marriott) are the ones that get you home by Tube. The Radisson Blu, the Travelodge, the Holiday Inn Express and the Premier Inn depend on the DLR, so after it stops it's a night bus or a taxi.
 
 **By river**, the Uber Boat stops at Canary Wharf Pier, by Westferry Circus: [how the river boats work](/articles/how-to-use-london-river-boats/).
 

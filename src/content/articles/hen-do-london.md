@@ -3,7 +3,7 @@ title: "Hen Do in London (2026): Activities, Prices, Where to Stay and How to Pl
 seoTitle: "Hen Do London 2026: Real Prices, Rules & Where to Stay"
 description: "Three London cocktail bars refuse hen parties outright, Flight Club will not take fewer than six on a Saturday, and a speedboat for twelve costs less per head than a public sailing. Priced from the operators' own sites."
 publishedAt: 2026-06-03
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 sites:
   - london
 canonicalSite: london
@@ -115,7 +115,7 @@ The grand hotels run £75 to well over £100 a head, and for twelve people that 
 
 ### Bars, and the three that will say no
 
-**Swift refuses hen parties in writing at all three London bars** — Soho, Borough and Shoreditch. The wording is identical on every page: *"Sorry, but we are unable to accommodate any stag or hen parties."* On top of that, **every Swift is 21 and over**, sports clothing is refused, and **Swift Soho will not take a booking greater than six people**.
+**Swift refuses hen parties in writing at all three London bars** — Soho, Borough and Shoreditch. The wording is identical on every page: *"Sorry, but we are unable to accommodate any stag or hen parties."* On top of that, **every Swift is 21 and over**, sports clothing is refused, and **Swift Soho will not take a booking greater than six people**. The same wording shuts out stag parties; the [stag do guide](/articles/stag-do-london/) lists the other doors that turn them away.
 
 **Nightjar in Shoreditch takes group bookings of up to 20 — but only Sunday to Thursday**, with a pre-order and a minimum spend. There is no Friday or Saturday group booking there at all, which catches out anyone who reads a "best bars for big groups" list without checking the date.
 

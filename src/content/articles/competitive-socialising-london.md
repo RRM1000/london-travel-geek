@@ -5,7 +5,7 @@ description: "An escape room inside a disused Tube station, twenty-one glass cub
 heroImage: "../../assets/articles/competitive-socialising-london/babylon-park-rides.jpg"
 heroImageAlt: "Neon-lit alien-themed rides and arcade machines inside Babylon Park in Camden"
 publishedAt: 2026-08-31
-updatedAt: 2026-10-26
+updatedAt: 2026-11-15
 reviewBy: 2027-01-02
 sites: [london]
 canonicalSite: london
@@ -138,7 +138,7 @@ A foot race across the Square Mile run over WhatsApp, licensed from the series a
 
 Social darts, with seven multiplayer games, automatic scoring, food and drink brought to the oche, and a camera that emails you the highlights the next day.
 
-**The booking rules.** Sessions are **fixed at 90 minutes and cannot be extended**. There is a **minimum group size** to book after 4pm: four people on Monday and Tuesday, **six from Wednesday to Friday and all day Saturday**, and six every day through December. A couple cannot book a Friday night.
+**The booking rules.** Sessions are **fixed at 90 minutes and cannot be extended**. There is a **minimum group size** to book after 4pm: four people on Monday and Tuesday, **six from Wednesday to Friday and all day Saturday**, and six every day through December. A couple cannot book a Friday night. The [hen do](/articles/hen-do-london/) and [stag do](/articles/stag-do-london/) guides price Flight Club against the other group activities for a party of twelve.
 
 Play starts at **£10 a head**. Groups over 12 get two oches, over 24 get three, and 37-plus goes to the events team. Family Sessions run Sunday to Friday until 4.30pm for ages 12 and up, but the venues are **strictly 18+ after 5pm Sunday to Friday and all day Saturday**. Bloomsbury has restricted wheelchair access.
 

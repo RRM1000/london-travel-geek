@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenh
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
 publishedAt: 2026-07-23
-updatedAt: 2026-11-11
+updatedAt: 2026-11-15
 reviewBy: 2026-11-20
 sites: [london]
 canonicalSite: london
@@ -297,6 +297,7 @@ On **non-match days**, parking in the West or North car park is free if you regi
 - 🗓️ **[Things to Do in London in February](/articles/things-to-do-in-london-in-february/)** — the two Six Nations weekends, Lunar New Year and half term
 - 🏟️ **[Wembley Stadium and OVO Arena Travel Guide](/articles/wembley-stadium-arena-guide/)**
 - 🏟️ **[Tottenham Hotspur Stadium Travel Guide](/articles/tottenham-hotspur-stadium-travel-guide/)**
+- 🏟️ **[London Stadium Travel Guide](/articles/london-stadium-travel-guide/)** — West Ham, athletics and concerts at Stratford, with seven rail and Tube services to choose from
 - 🌳 **[Richmond Area Guide](/articles/richmond-area-guide/)**
 - 🌷 **[Kew Gardens Guide](/articles/kew-gardens-guide/)**
 - 🏰 **[Hampton Court Palace Guide](/articles/hampton-court-palace-guide/)**
