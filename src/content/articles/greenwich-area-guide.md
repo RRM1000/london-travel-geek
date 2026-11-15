@@ -3,7 +3,7 @@ title: "Greenwich Area Guide: The Observatory, Cutty Sark and North Greenwich"
 seoTitle: "Greenwich Guide: Royal Observatory, Cutty Sark & the O2"
 description: "A complete Greenwich guide: the Painted Hall, the Cutty Sark, the park view, Greenwich Market days, getting there by river — and why Greenwich and North Greenwich are not the same place. The Royal Observatory is closed from 2 November 2026."
 publishedAt: 2026-08-10
-updatedAt: 2026-11-09
+updatedAt: 2026-11-14
 reviewBy: 2027-01-15
 sites:
   - london
@@ -127,6 +127,8 @@ The UNESCO core: four separate sites within five minutes of each other, some fre
 **Free:** the **National Maritime Museum**, with a sea-themed playground and a family offer; and the **Queen's House**, an Inigo Jones villa holding the art collection, with the Tulip Stairs — the first geometric self-supporting staircase in Britain — costing nothing to walk up.
 
 **Paid:** the **Cutty Sark**, **£22 adult and £11 child**, open daily 10am–5pm with last entry 4.15pm. And the **Old Royal Naval College's Painted Hall**.
+
+**The Cutty Sark's Sea Shanty Festival is on Saturday 21 November 2026, 10am to 6pm**, for the ship's 157th birthday: shanty crews and choirs on the Dry Berth under the hull and on the Tween Deck, with a big sing-along at 1.30pm and 5.30pm. It is free with an ordinary Cutty Sark ticket, booked for the 10am or 2pm session; each half-day sees the full programme ([Royal Museums Greenwich](https://www.rmg.co.uk/whats-on/cutty-sark/sea-shanty-festival-2026)).
 
 **At Christmas** an ice rink goes up beside the Queen's House, **18 November 2026 to 3 January 2027**; prices and the kids-skate-free Tuesdays are in our [London ice skating guide](/articles/ice-skating-london/).
 

@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:1_-_panoramio_(42).jpg
 heroImageLicense: "CC BY 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 publishedAt: 2026-06-07
-updatedAt: 2026-11-12
+updatedAt: 2026-11-14
 reviewBy: 2027-01-04
 sites: [london]
 canonicalSite: london
@@ -232,6 +232,8 @@ The **Design District**, 16 low-rise studio buildings by eight architects, sits 
 **Disney On Ice presents Discover the Magic** runs **24 December 2026 to 3 January 2027** in The O2 arena: an ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. The O2's [event page](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic) lists every performance and sells tickets through AXS.
 
 **Pet Shop Boys play The O2 arena on Friday 9 and Saturday 10 July 2027** in *Dreamworld MAX: The Greatest Hits Live*, with Saint Etienne and Boy Harsher as guests on both nights, as part of the arena's 20th anniversary. General sale is at **10am on Friday 13 November 2026**, after presales at 10am on Wednesday 11 November, and the links are on the [band's site](https://www.petshopboys.co.uk/).
+
+**alt-J play The O2 arena on Wednesday 14 July 2027** on their *Then Again* tour, ten years after their 2017 headline show there; doors open at 6.30pm. **KPop Demon Hunters: Golden World Tour** follows on **Friday 22 and Saturday 23 October 2027**: the Netflix film's animated girl group HUNTR/X on stage with live performers and stunts, with an evening show on the Friday and a matinee and an evening show on the Saturday. General sale for both is at **10am on Friday 20 November 2026** through AXS, from The O2's [alt-J](https://www.theo2.co.uk/events/detail/alt-j-2027) and [KPop Demon Hunters](https://www.theo2.co.uk/events/detail/kpop-demon-hunters) pages.
 
 **Outlet Shopping at The O2** wraps around the dome with over 60 discount and outlet stores, on its own hours separate from the arena's.
 

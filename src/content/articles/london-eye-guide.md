@@ -3,7 +3,7 @@ title: "London Eye Ticket Prices, Fast Track and Sunset Timing"
 seoTitle: "London Eye Price: From £29 Online, £39 at the Gate"
 description: "London Eye price: an adult ticket is from £29 online and £39 at the gate, a child from £26. What Fast Track adds, the sunset slot to book and the bundles."
 publishedAt: 2026-09-19
-updatedAt: 2026-11-02
+updatedAt: 2026-11-14
 reviewBy: 2027-01-11
 sites:
   - london
@@ -176,6 +176,10 @@ Look up the sunset time for your date and book a slot **30 minutes before it**.
 | **April** | 19:40 – 20:20 | **19:15 – 19:30** | British Summer Time begins; clear spring sunsets. |
 | **July** | 21:00 – 21:20 | **20:30 – 20:45** | Long summer twilight; check late attraction closing hours. |
 | **October** | 16:40 – 18:35 | **16:10 – 18:05** | Clocks go back on the last Sunday, which moves sunset about an hour earlier overnight. |
+
+### Christmas at the Eye, 14 November 2026 to 3 January 2027
+
+Every London Eye ticket for these dates includes the **Festive Flights**: decorated capsules with a narrator telling stories of Christmas in London. **Santa in the Sky** costs from **£78 for an adult and a child** on selected dates from 21 November to 24 December, with crafts and games in a Christmas room before a flight on which the family meets Santa. After dark the wheel itself is lit in a **free Christmas light show every night**, which needs no ticket to watch from the riverside. Dates and booking are on the [Eye's Christmas page](https://www.londoneye.com/whats-on/seasonal-holidays/christmas/).
 
 ---
 
