@@ -25,7 +25,8 @@
     "Christmas season: Boxing Day and January sales guide. In November, swap the \"This season\" nav to the Christmas guides.",
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
     "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London.",
-    "Wire in Trainline links once you have joined its affiliate programme."
+    "Wire in Trainline links once you have joined its affiliate programme.",
+    "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring."
   ],
   "waitingOnRob": [
     "Optional: request indexing in Search Console for hen-do-london and where-to-stay-south-kensington (the SEO refresh is live; Google will re-crawl the others on its own).",
@@ -79,6 +80,18 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-16",
+      "what": "New pages (unpushed): things-to-do-in-london-in-march and -april (Easter 26-29 Mar 2027, Boat Race, two-day Marathon), london-exhibitions-2027 (month-by-month museum shows; Hockney at Tate Britain is posthumous: he died June 2026), sea-life-london-aquarium-guide (9 Commons photos), outdoor-cinema-london (winter rooftop dinner screenings; summer series; reviewBy 15 Apr 2027 for season dates), best-rooftop-bars-london and best-beer-gardens-london (consensus: 20 and 19 sources, winter-open tables first; reviewBy 15 Feb 2027 for Coq d'Argent's move). London Dungeon guide not written: no interior photos exist on Commons; needs Rob's or Merlin's photos."
+    },
+    {
+      "date": "2026-11-16",
+      "what": "Fixes (unpushed): Sheet rows Nan Goldin (ends 14 Mar 2027, content advisory not over-18) and SEA LIFE (gentoo penguins) written after row-count check and exported; London Eye guide bundle comparison now says £184 at door prices, £132 advance; children's guide Merlin pass booking order; best-cinemas-london King's Cross canal screen description."
+    },
+    {
+      "date": "2026-11-16",
+      "what": "Food deals weekly check ran 16 Nov 07:42 (scheduled Mondays): 426 deals, none expired, 4 updated."
+    },
     {
       "date": "2026-11-16",
       "what": "Map bug fixed on every LTG map (unpushed, 9e0e7ba3): the article photo margin pushed Leaflet tiles 28px down, so every pin sat one pin-height north of its spot (Southwark Cathedral showed across the river). Pins now land within 1px."
