@@ -4626,7 +4626,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-n6900790809": {
   "name": "Night Tales",
@@ -5808,7 +5808,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-w971050396": {
   "name": "Secrets",
@@ -8200,7 +8200,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-n12278757767": {
   "name": "V&A East Storehouse",

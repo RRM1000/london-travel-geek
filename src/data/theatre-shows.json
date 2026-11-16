@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12",
+ "generated": "2026-11-16",
  "shows": [
   {
    "slug": "a-christmas-carol-2026",
@@ -89,21 +89,6 @@
    "opening": "2027-04-17",
    "closing": "2027-08-07",
    "bookingFrom": "2026-09-24",
-   "priorityFrom": null
-  },
-  {
-   "slug": "an-oak-tree",
-   "name": "An Oak Tree",
-   "venue": "The Other Palace",
-   "venueSlug": "the-other-palace",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-07",
-   "pressNight": "2026-10-07",
-   "opening": "2026-10-07",
-   "closing": "2026-11-15",
-   "bookingFrom": "2026-07-20",
    "priorityFrom": null
   },
   {
@@ -617,21 +602,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "double-bill-tell-me-straight-aggy",
-   "name": "Double Bill: Tell Me Straight & Aggy",
-   "venue": "King's Head Theatre",
-   "venueSlug": "kings-head-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
-   "opening": "2026-10-15",
-   "closing": "2026-11-14",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "ebony-scrooge",
    "name": "Ebony Scrooge",
    "venue": "Sadler's Wells East",
@@ -748,21 +718,6 @@
    "pressNight": "2026-12-02",
    "opening": "2026-11-21",
    "closing": "2027-02-27",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "franz-and-marie",
-   "name": "Franz & Marie",
-   "venue": "Charing Cross Theatre",
-   "venueSlug": "charing-cross-theatre",
-   "location": "Off-West End",
-   "genre": "Musical",
-   "popularity": null,
-   "firstPreview": "2026-09-28",
-   "pressNight": "2026-10-05",
-   "opening": "2026-09-28",
-   "closing": "2026-11-14",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -962,21 +917,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "humanhood-vortex",
-   "name": "HUMANHOOD - Vortex",
-   "venue": "Sadler's Wells East",
-   "venueSlug": "sadlers-wells-east",
-   "location": "Off-West End",
-   "genre": "Dance",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
-   "opening": "2026-11-10",
-   "closing": "2026-11-14",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "ilford-boy",
    "name": "Ilford Boy",
    "venue": "Donmar Warehouse",
@@ -1142,21 +1082,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "kimberly-akimbo",
-   "name": "Kimberly Akimbo",
-   "venue": "Hampstead Theatre",
-   "venueSlug": "hampstead-theatre",
-   "location": "Off-West End",
-   "genre": "Musical",
-   "popularity": "High",
-   "firstPreview": "2026-08-28",
-   "pressNight": "2026-09-09",
-   "opening": "2026-08-28",
-   "closing": "2026-11-14",
-   "bookingFrom": "2025-12-05",
-   "priorityFrom": null
-  },
-  {
    "slug": "king-john",
    "name": "King John",
    "venue": "Sam Wanamaker Playhouse",
@@ -1243,6 +1168,21 @@
    "pressNight": "2027-02-18",
    "opening": "2027-02-15",
    "closing": "2027-03-27",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "little-wimmin",
+   "name": "Little Wimmin",
+   "venue": "Soho Theatre Walthamstow",
+   "venueSlug": "soho-theatre-walthamstow",
+   "location": "Off-West End",
+   "genre": "Entertainment",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2026-12-02",
+   "closing": "2026-12-03",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -2222,21 +2162,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "the-curious-incident-of-the-dog-in-the-night-time",
-   "name": "The Curious Incident of the Dog in the Night-Time",
-   "venue": "New Wimbledon Theatre",
-   "venueSlug": "new-wimbledon-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
-   "opening": "2026-11-10",
-   "closing": "2026-11-14",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "the-devil-wears-prada",
    "name": "The Devil Wears Prada",
    "venue": "Dominion Theatre",
@@ -2297,6 +2222,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "the-humans",
+   "name": "The Humans",
+   "venue": "Theatre Royal Haymarket",
+   "venueSlug": "theatre-royal-haymarket",
+   "location": "West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-10-30",
+   "closing": "2028-01-29",
+   "bookingFrom": "2026-11-13",
+   "priorityFrom": null
+  },
+  {
    "slug": "the-hunger-games-on-stage",
    "name": "The Hunger Games on Stage",
    "venue": "Troubadour Canary Wharf Theatre",
@@ -2334,7 +2274,7 @@
    "location": "Off-West End",
    "genre": "Play",
    "popularity": "High",
-   "firstPreview": "2026-11-13",
+   "firstPreview": "2026-11-17",
    "pressNight": "2026-11-30",
    "opening": "2026-11-13",
    "closing": null,
@@ -2503,21 +2443,6 @@
    "pressNight": null,
    "opening": "2027-03-20",
    "closing": "2027-05-08",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "the-revlon-girl",
-   "name": "The Revlon Girl",
-   "venue": "Park Theatre",
-   "venueSlug": "park-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-26",
-   "pressNight": "2026-10-28",
-   "opening": "2026-10-26",
-   "closing": "2026-11-14",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -2729,21 +2654,6 @@
    "opening": "2024-12-09",
    "closing": "2027-01-03",
    "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "tru",
-   "name": "Tru",
-   "venue": "Menier Chocolate Factory",
-   "venueSlug": "menier-chocolate-factory",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-09-19",
-   "pressNight": "2026-09-27",
-   "opening": "2026-09-26",
-   "closing": "2026-11-14",
-   "bookingFrom": "2026-07-20",
    "priorityFrom": null
   },
   {
