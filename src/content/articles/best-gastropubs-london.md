@@ -435,4 +435,5 @@ Named by five or six sources each, without a full entry here.
 - 🏛️ **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
 - 🍺 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**
 - 🍷 **[The Best Wine Bars in London](/articles/best-wine-bars-london/)**
+- 🍺 **[The Best Beer Gardens in London](/articles/best-beer-gardens-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

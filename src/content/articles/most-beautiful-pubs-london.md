@@ -373,5 +373,6 @@ Cittie of Yorke's back bar is the one to look for on the way: The 500 Hidden Sec
 - 🍽️ **[The Best Gastropubs in London](/articles/best-gastropubs-london/)**
 - 🍺 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**
 - 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
+- 🍺 **[The Best Beer Gardens in London](/articles/best-beer-gardens-london/)** — The Albion's wisteria, The Flask's terrace and The Spaniards Inn by the Heath
 - 🚶 **[City of London Walk](/articles/city-of-london-walk/)**
 - 📸 **[The Most Instagrammable Restaurants in London](/articles/most-instagrammable-restaurants-london/)**

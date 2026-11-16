@@ -220,6 +220,8 @@ Four of the bars in our speakeasy guide are within a walk of here: Nightjar behi
 
 **Avoid:** Monday to Wednesday if markets are your reason for coming — most are closed and the area is quiet.
 
+Boundary on Redchurch Street and the Queen of Hoxton on Curtain Road are both in our [rooftop bars guide](/articles/best-rooftop-bars-london/), which says which roofs are covered in winter.
+
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
 ## Walking routes

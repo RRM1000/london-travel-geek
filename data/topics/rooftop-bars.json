@@ -1,0 +1,70 @@
+{
+  "topic": "rooftop-bars",
+  "article": "src/content/articles/best-rooftop-bars-london.md",
+  "headTerm": "Rooftop Bars",
+  "note": "Bars and drinks on London roofs, counted by how many independent sources name each one. Collected 16 November 2026, so the page goes live in winter and must say plainly which roofs are open, which are covered or heated and which have shut until spring. Rooftop RESTAURANTS are a separate topic (data/topics/rooftop.json, best-rooftop-restaurants-london) and a separate search intent; venues that are both (Coq d'Argent, Seabird, Madison, Aviary, Wagtail, Boundary) are counted here only from bar lists and entered here for their drinks and terraces, with the restaurants guide linked for the food.",
+  "scopeDecision": {
+    "question": "What counts as a rooftop bar?",
+    "call": "A bar or bar-led terrace above street level that you can walk into or book for drinks. High-rise bars behind glass (Sky Garden, Bōkan 38) count because every list carries them; a restaurant that will not seat you for drinks only does not get an entry here.",
+    "rules": [
+      "Ground-floor terraces and courtyards are out, even when a winter list carries them: Luxury London's winter terraces list includes Oasis, Brigadiers, Bentley's and Kapara, which were excluded at recording.",
+      "Seasonal pop-ups on a roof (The Fire Garden at Ham Yard, The Berkeley Rooftop Cabins) are recorded under their own names, because that is what the sources name and what a reader books.",
+      "Forza Wine Peckham and Forza Wine at the National Theatre are two venues, not one: different roofs, different SevenRooms pages."
+    ]
+  },
+  "awardBodies": [],
+  "awardBodiesChecked": [
+    "No judged London rooftop-bar award with a public, dated winners list was found. Sabine cites a London Lifestyle Awards 2026 Bar of the Year and a Toast of the City 2025 Best Rooftop Bar on its own site; both are the operator's claims, not read on the award bodies' pages, and are not counted."
+  ],
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "tier": "B", "ranked": true, "url": "https://www.timeout.com/london/bars-pubs/londons-best-rooftop-bars", "note": "Numbered 1-15, updated 9 Sep 2026. Number one is the Queen Elizabeth Hall Roof Garden, number two Frank's Cafe - both seasonal and both closed in November." },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "tier": "B", "ranked": false, "url": "https://www.designmynight.com/london/rooftop-bars-london", "note": "Main list plus a winter-rooftops list, one masthead. Widest and least filtered." },
+    { "name": "Conde Nast Traveller", "domain": "cntraveller.com", "tier": "B", "ranked": false, "url": "https://www.cntraveller.com/gallery/rooftop-bars-london" },
+    { "name": "BBC Good Food", "domain": "bbcgoodfood.com", "tier": "B", "ranked": false, "url": "https://www.bbcgoodfood.com/travel/uk/best-rooftop-bars-in-london" },
+    { "name": "Evening Standard", "domain": "standard.co.uk", "tier": "B", "ranked": false, "url": "https://www.standard.co.uk/going-out/bars/the-best-rooftop-bars-in-london-b1217839.html" },
+    { "name": "SquareMeal", "domain": "squaremeal.co.uk", "tier": "B", "ranked": false, "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-rooftop-bars-in-london_9520" },
+    { "name": "Luxury London", "domain": "luxurylondon.co.uk", "tier": "B", "ranked": false, "url": "https://luxurylondon.co.uk/taste/drink/best-rooftop-bars-london/", "note": "Summer list plus winter terraces, one masthead; ground-level terraces excluded." },
+    { "name": "The Sauce", "domain": "thesaucemag.com", "tier": "B", "ranked": false, "url": "https://thesaucemag.com/best-rooftop-bars-london/" },
+    { "name": "Country & Town House", "domain": "countryandtownhouse.com", "tier": "B", "ranked": false, "url": "https://www.countryandtownhouse.com/food-and-drink/roof-terraces-london/" },
+    { "name": "Observer", "domain": "observer.com", "tier": "B", "ranked": false, "url": "https://observer.com/list/london-best-rooftop-bars/" },
+    { "name": "The Handbook", "domain": "thehandbook.com", "tier": "B", "ranked": false, "url": "https://www.thehandbook.com/winter-rooftop-bars-london/", "note": "A winter list, November 2025." },
+    { "name": "Absolutely", "domain": "absolutelymagazines.com", "tier": "B", "ranked": false, "url": "https://absolutelymagazines.com/londons-best-winter-rooftops-2026/" },
+    { "name": "The Nudge", "domain": "thenudge.com", "tier": "B", "ranked": false, "url": "https://thenudge.com/best-rooftop-bars-in-london/" }
+  ],
+  "independentBlogs": [
+    { "name": "The Rooftop Guide", "domain": "therooftopguide.com", "tier": "C", "note": "Rooftop specialist; main list plus a winter list. Its YouTube channel is the same publisher and was declined." },
+    { "name": "Where's The Rooftop?", "domain": "wherestherooftop.com", "tier": "C", "note": "Rooftop specialist blog (Fiona Brydon); skyline list plus a 2026/7 winter list." },
+    { "name": "East London Girl", "domain": "eastlondongirl.com", "tier": "C" },
+    { "name": "Blogger at Large", "domain": "bloggeratlarge.com", "tier": "C" }
+  ],
+  "videoAndCommunity": [
+    { "name": "Ugo Arinzeh", "domain": "youtube.com/@UgoArinzeh", "tier": "D", "ranked": true, "note": "'I Ranked London's Best Rooftop Bars', 14 June 2026, ten venues ranked in reverse in the chapters. Her number one is Brooklands. The same video is also recorded in data/consensus/rooftop.json for the restaurants topic; topics count separately." },
+    { "name": "Wander Beyond", "domain": "youtube.com/@WanderBeyond-YT", "tier": "D" },
+    { "name": "Three Man Abroad", "domain": "youtube.com/@ThreeManAbroad", "tier": "D" }
+  ],
+  "facetAxis": {
+    "field": "shelter",
+    "note": "What happens when it rains or it is November. Same reasoning as the rooftop restaurants topic: height tells a reader nothing they can act on, cover does.",
+    "values": [
+      { "key": "retractable", "label": "Retractable or covered", "describeAs": "a roof or tent over the terrace, so a booking survives the weather" },
+      { "key": "heated", "label": "Heated, igloos or cabins", "describeAs": "heaters, blankets, igloos or cabins on an open roof" },
+      { "key": "open-air", "label": "Open-air, summer only", "describeAs": "nothing over the table; most of these close from autumn to spring" },
+      { "key": "indoor-view", "label": "Indoor with a view", "describeAs": "a high bar behind glass" }
+    ]
+  },
+  "knownGaps": [
+    "Tier E is empty: Reddit refuses this environment (403, and old.reddit.com redirects to login). No forum substitute found.",
+    "No London rooftop-bar award was found to anchor tier A.",
+    "Kitty Hawk (4 sources, Ugo Arinzeh #9) could not be read on its operator's page (etmcollection.co.uk returns 403), so it has no entry.",
+    "The Rooftop St. James (7 sources): the Trafalgar St. James site advertises only a New Year's Eve 2026 party on the roof, and its rooftop page redirects in a loop. Whether the bar trades as a walk-in bar this winter is not established; ask Rob or check by phone before giving it an entry.",
+    "Wagtail's FAQ both says the 10th-floor terrace is covered and heated for winter and that the terrace is not covered; the article uses only the current venue page's wording.",
+    "Aviary's Winter Lodge page and drinks PDFs returned 403, so no winter details or prices are printed for it.",
+    "OpenTable booking links (Coq d'Argent, Stanley's, Mercer, Madison, Los Mochis, Wagtail, Aviary) cannot be checked by curl; the article links the operators' own pages, which carry the widgets, except Stanley's and Mercer where the OpenTable restref link is the operator's own."
+  ],
+  "openVenueQuestions": [
+    "Coq d'Argent moves from No. 1 Poultry to One Millennium Bridge in February 2027 (operator). Its citations are for the No. 1 Poultry roof. When it moves, decide whether the count carries over.",
+    "The Ugo Arinzeh rooftop video is recorded in both rooftop-bars and rooftop (restaurants). Legitimate (one count per topic) but worth knowing.",
+    "SUSHISAMBA: recorded as the Heron Tower branch, the rooftop one; Covent Garden is not counted.",
+    "The Berkeley Rooftop is recorded under one name for both its summer bar and its winter Rooftop Cabins."
+  ]
+}

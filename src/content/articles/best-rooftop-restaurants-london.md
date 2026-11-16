@@ -473,6 +473,7 @@ Named by the sources but without a full entry.
 - 🦪 **[The Best Seafood Restaurants in London](/articles/best-seafood-restaurants-london/)**
 - 🔺 **[The View from The Shard](/articles/the-shard-guide/)** — the ticketed gallery above Aqua Shard, Oblix and Hutong
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🍹 **[The Best Rooftop Bars in London](/articles/best-rooftop-bars-london/)** — the roofs for a drink rather than dinner, and which are open in winter
 - 📸 **[The Most Instagrammable Restaurants in London](/articles/most-instagrammable-restaurants-london/)**
 - 🚶 **[London Walks Along the Thames](/articles/london-walks-along-the-thames/)**
 - ⛴️ **[How to Use London's River Boats](/articles/how-to-use-london-river-boats/)**

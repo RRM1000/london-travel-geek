@@ -593,5 +593,6 @@ The other two sites are **133A Rye Lane, Peckham SE15 4BQ** and **Manette Street
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🌳 **[London's Parks and Gardens](/articles/best-parks-gardens-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 🍹 **[The Best Rooftop Bars in London](/articles/best-rooftop-bars-london/)** — the views with a drink in hand, and which are open in winter
 - 🏙️ **[City of London Area Guide](/articles/city-of-london-area-guide/)**
 - ⛵ **[Greenwich Area Guide](/articles/greenwich-area-guide/)**

@@ -378,6 +378,7 @@ Holborn's **Ye Olde Mitre** — a completely different pub from the Barnet CAMRA
 - 🍽️ **[The Best Gastropubs in London](/articles/best-gastropubs-london/)**
 - 🏛️ **[The Most Beautiful Pubs in London](/articles/most-beautiful-pubs-london/)**
 - 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
+- 🍺 **[The Best Beer Gardens in London](/articles/best-beer-gardens-london/)** — the gardens the lists agree on, and which are covered and heated
 - 🍷 **[The Best Wine Bars in London](/articles/best-wine-bars-london/)**
 - 🥘 **[Food Tours in London](/articles/london-food-tours/)** — including a brewery tour inside Camden Market
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**

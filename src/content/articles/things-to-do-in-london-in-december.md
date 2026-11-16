@@ -217,6 +217,8 @@ Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Som
 
 ## Practical: December in London
 
+**Winter rooftops.** The Fire Garden on the Ham Yard Hotel roof runs to 23 December, with a fire pit and a £19 ticket, and The Berkeley's roof has Alpine cabins for up to six. Our [rooftop bars guide](/articles/best-rooftop-bars-london/) has the rest that are open this winter.
+
 **Weather.** The Met Office's Heathrow average for the month (1991 to 2020) is a daily high of **8.8C** and a low of **3.1C**, with **57.0mm of rain**, **7.2 air-frost days** and **53 hours of sunshine**, the least of any month. December has more days of frost than any other month. Our [London in the rain guide](/articles/london-in-the-rain/) has the indoor fallbacks.
 
 **Daylight.** Sunset is **3.57pm on 1 December**, about **3.53pm from the 10th to the 15th**, **3.55pm on 21 December** and **4.02pm on the 31st**. Sunrise moves from 7.41am to 8.04am. **The shortest day is 21 December: sunrise at 8.01am, sunset at 3.55pm, 7 hours 54 minutes of daylight.**

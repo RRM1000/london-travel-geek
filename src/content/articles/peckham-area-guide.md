@@ -219,6 +219,8 @@ This is a selection; see the [full restaurant list](/articles/eat-in-london-guid
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+Three of the bars in our [rooftop bars guide](/articles/best-rooftop-bars-london/) are in Peckham: Frank's Cafe on the car park roof, Bussey on the Bussey Building and Forza Wine above Rye Lane. Only Forza Wine is open over the winter.
+
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
 ## Common mistakes to avoid

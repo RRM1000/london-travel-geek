@@ -171,6 +171,8 @@ For the Christmas shows and pantos, see our [Christmas shows guide](/articles/ch
 
 **Two rooftops start showing Christmas films with dinner**: JOIA at Battersea Power Station every night from Thursday 19 November, and Kitchen at Holmes in Marylebone, with a cheese fondue, from Thursday 26 November. Both are from £75 a head; our [outdoor cinema guide](/articles/outdoor-cinema-london/) has the details.
 
+**Rooftop bars change for winter.** Frank's Cafe, the Queen Elizabeth Hall Roof Garden and Roof East are closed until spring 2027, while Sabine, Radio Rooftop and Netil 360 stay open under cover or with heaters. Our [rooftop bars guide](/articles/best-rooftop-bars-london/) says which roofs are open.
+
 **Three awards nights fall in the month**: the Booker Prize winner is announced on Monday 9 November, the Royal Variety Performance is on Friday 20th and the Fashion Awards are on Monday 30th. The details are in our [awards ceremonies guide](/articles/award-ceremonies-london/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-november-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>

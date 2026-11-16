@@ -199,6 +199,7 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 * [**Chain restaurants**](/articles/best-chain-restaurants-london/) — Dishoom, Hoppers, Padella, Hawksmoor and the other London mini-chains, grouped by food, with what to order and whether you can walk in.
 * [**Dinner and a show**](/articles/dinner-and-a-show-london/) — Live music, cabaret and dining theatre, and which nights each runs.
 * [**Cocktail bars**](/articles/best-cocktail-bars-london/) — for before or instead of dinner.
+* [**Rooftop bars**](/articles/best-rooftop-bars-london/) — Which roofs are covered, heated or shut until spring.
 * [**Speakeasy bars**](/articles/best-speakeasy-bars-london/) — the hidden ones, through a fridge, a bookcase or an unmarked door.
 * [**Wine bars**](/articles/best-wine-bars-london/) — The rooms the critics agree on, and the shop-and-bar hybrids where the same bottle costs less off the shelf.
 * [**Ice cream**](/articles/best-ice-cream-london/) — Gelato, soft serve and the cult queues, for afterwards.
@@ -217,6 +218,7 @@ Full guide: [**Cheap Eats in London**](/articles/cheap-eats-london/) for the fir
 * [**Gastropubs**](/articles/best-gastropubs-london/) — Which rooms take bookings and which shut on Mondays.
 * [**Most Beautiful Pubs**](/articles/most-beautiful-pubs-london/) — CAMRA's register of protected interiors, the gin palaces and flower-covered frontages.
 * [**Craft Beer Pubs**](/articles/best-craft-beer-pubs-london/) — CAMRA's branch winners and the Bermondsey and Blackhorse beer miles.
+* [**Beer Gardens**](/articles/best-beer-gardens-london/) — The gardens the lists agree on, and which are covered and heated in winter.
 * [**Wetherspoons**](/articles/best-wetherspoons-pubs-london/) — The landmark buildings, the prices and the case for the chain.
 
 ---

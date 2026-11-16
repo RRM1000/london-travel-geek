@@ -281,4 +281,6 @@ The free [Imperial War Museum](/articles/imperial-war-museum-london-guide/) is a
 - **Bankside and Southwark** — Quieter, walkable to Tate Modern and Borough Market.
 - **London Bridge** — The eastern end, well connected for Gatwick via Thameslink and Southern.
 
+For a drink on a roof, 12th Knot at Sea Containers and Forza Wine on the National Theatre's terrace are in our [rooftop bars guide](/articles/best-rooftop-bars-london/); the Queen Elizabeth Hall Roof Garden reopens in spring 2027.
+
 Our [South Bank hotel guide](/articles/where-to-stay-south-bank/) compares the hotels from County Hall to Borough.

@@ -185,6 +185,7 @@ The north-west edge of the City. **Smithfield** has been a livestock and meat ma
 - **[Outdoor cinema in London](/articles/outdoor-cinema-london/)** — eleven August nights of film in the Barbican's Sculpture Court, and free early-evening screenings in Devonshire Square by Liverpool Street in June and July.
 - **[The best views in London](/articles/best-views-london/)** — Horizon 22, the Lookout and Sky Garden are all in the Square Mile, all free, and all need booking on different timetables.
 - **[Sky Garden guide](/articles/sky-garden-guide/)** — the Monday ticket release, the restaurant and walk-in routes in, and the terrace hours.
+- **[The best rooftop bars in London](/articles/best-rooftop-bars-london/)** — Coq d'Argent at Bank, Madison by St Paul's, Wagtail by Monument and the Sky Garden's bars.
 
 ## Where to eat and drink
 

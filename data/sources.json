@@ -148,6 +148,46 @@
     "youtube.com/@trip_train_"
   ],
   "domains": {
+    "thedrinksbusiness.com": {
+      "tier": "B",
+      "name": "The Drinks Business",
+      "note": "Drinks trade title with an editorial staff."
+    },
+    "bbcgoodfood.com": {
+      "tier": "B",
+      "name": "BBC Good Food"
+    },
+    "beerismylife.com": {
+      "tier": "C",
+      "name": "Beer Is My Life",
+      "note": "Independent beer-travel blog, one writer (Dan Smullen)."
+    },
+    "eastlondongirl.com": {
+      "tier": "C",
+      "name": "East London Girl"
+    },
+    "bloggeratlarge.com": {
+      "tier": "C",
+      "name": "Blogger at Large",
+      "note": "Independent travel blogger (Megan Singleton)."
+    },
+    "wherestherooftop.com": {
+      "tier": "C",
+      "name": "Where's The Rooftop?",
+      "note": "Independent single-subject rooftop blog (Fiona Brydon)."
+    },
+    "youtube.com/@HistoricPubCrawls": {
+      "tier": "D",
+      "name": "Historic Pub Crawls (YouTube)"
+    },
+    "youtube.com/@londonEnglishVideos": {
+      "tier": "D",
+      "name": "London English Videos (YouTube)"
+    },
+    "youtube.com/@WanderBeyond-YT": {
+      "tier": "D",
+      "name": "Wander Beyond (YouTube)"
+    },
     "londonworld.com": {
       "tier": "B",
       "name": "LondonWorld"

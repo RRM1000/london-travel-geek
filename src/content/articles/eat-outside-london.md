@@ -375,6 +375,8 @@ Everything on this page is pleasant in July. This is the shorter list that survi
 ## Continue planning your London trip
 
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same question one floor up, and by the water
+- 🍹 **[The Best Rooftop Bars in London](/articles/best-rooftop-bars-london/)** — drinks on a roof, and which are covered or heated
+- 🍺 **[The Best Beer Gardens in London](/articles/best-beer-gardens-london/)** — the pub gardens the lists agree on, and which have a roof for winter
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🌭 **[The Best Street Food in London](/articles/best-street-food-london/)**
 - 🛍️ **[The Best Markets in London](/articles/best-london-markets/)**

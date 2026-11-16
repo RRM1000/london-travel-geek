@@ -471,6 +471,7 @@ The **Connaught Martini is £30**, mixed at your table from the trolley. **Night
 - 🥃 **[Gin Distillery Tours in London](/articles/gin-distillery-tours-london/)** — Sipsmith, Hayman's and a make-your-own-gin class, with prices
 - 🥘 **[Food Tours in London](/articles/london-food-tours/)** — gin distillery tours and a make-your-own-gin workshop
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)**
+- 🍹 **[The Best Rooftop Bars in London](/articles/best-rooftop-bars-london/)** — Sabine, Netil 360 and 12th Knot, and which roofs are covered in winter
 - 🎪 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)**
 - 🏛️ **[Historic Pubs and Dining Rooms in London](/articles/historic-pubs-dining-rooms-london/)**
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)**

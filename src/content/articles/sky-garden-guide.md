@@ -243,6 +243,7 @@ Four other high viewpoints are within a short walk or a Tube stop. Our [best vie
 - 🏙️ **[City of London Area Guide](/articles/city-of-london-area-guide/)** — the Square Mile's Roman remains, markets and pubs around 20 Fenchurch Street.
 - 🚶 **[City of London Walk](/articles/city-of-london-walk/)** — from Bank to St Katharine Docks, past the Sky Garden, Leadenhall Market and St Dunstan-in-the-East.
 - 🍽️ **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the other high tables, sorted by the cooking.
+- 🍹 **[The Best Rooftop Bars in London](/articles/best-rooftop-bars-london/)** — the Sky Garden against the other roofs, and which are open in winter
 - 🌿 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)** — Darwin Brasserie among the rooms that are worth eating in for the setting.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** — tickets and hours for the fortress you look down on from the terrace.
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** and **[Free Things to Do in London](/free/)** — the free viewpoints, museums and walks.
