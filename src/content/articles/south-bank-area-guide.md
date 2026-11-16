@@ -115,7 +115,7 @@ The South Bank has its own share of the commemorative plaques marking where nota
 
 *County Hall, across the river.*
 
-The Edwardian block beside the Eye holds **SEA LIFE London, the London Dungeon and Shrek's Adventure**, all Merlin-run and all indoors.
+The Edwardian block beside the Eye holds **[SEA LIFE London](/articles/sea-life-london-aquarium-guide/), the London Dungeon and Shrek's Adventure**, all Merlin-run and all indoors. Our [SEA LIFE guide](/articles/sea-life-london-aquarium-guide/) has the aquarium's prices, zones and quiet times.
 
 Buying them one at a time is the expensive way. Merlin's **5-Attraction Pass** covers all three plus the **[London Eye](/articles/london-eye-guide/)** and **Madame Tussauds** in Marylebone, **from £59 against £132 booked separately**, valid 7 days from your Eye visit. Two attractions are cheaper booked direct; from the third it pays. Our [London Eye guide](/articles/london-eye-guide/) has 2026 pricing.
 

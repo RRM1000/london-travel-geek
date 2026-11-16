@@ -113,7 +113,7 @@ If the Eye is one stop of several, there are two ways to save:
 
 ### 1. Merlin multi-attraction combination tickets
 Merlin sells combined tickets for the Eye and several of its other attractions. Three are a few minutes' walk away on the South Bank; the fourth is across town:
-- **SEA LIFE London Aquarium** (inside County Hall, next to the wheel entrance)
+- **[SEA LIFE London Aquarium](/articles/sea-life-london-aquarium-guide/)** (inside County Hall, next to the wheel entrance)
 - **The London Dungeon** (inside County Hall)
 - **Shrek's Adventure! London** (inside County Hall)
 - **[Madame Tussauds London](/articles/madame-tussauds-london-guide/)** (on Marylebone Road, near Baker Street tube)
@@ -262,6 +262,7 @@ The London Eye is fully step-free:
 - 🏛️ **[Houses of Parliament Tours and Big Ben](/articles/houses-of-parliament-tour-guide/)** — going inside the Palace across the river, and the 334-step Big Ben tour.
 - 🎟️ **[The London Pass Guide](/articles/london-pass-guide/)** — the maths, included attractions, and when a sightseeing pass saves money.
 - 🕴️ **[Madame Tussauds London guide](/articles/madame-tussauds-london-guide/)** — prices, Fast Track and the zones inside, for the other half of the Eye-and-Tussauds combo.
+- 🦈 **[SEA LIFE London Aquarium guide](/articles/sea-life-london-aquarium-guide/)** — the shark tunnel and penguins in County Hall next door, and the Eye-and-SEA LIFE combo.
 - 🗺️ **[Three Days in London Itinerary](/articles/three-days-in-london-itinerary/)** — an efficient Zone 1 plan that fits the London Eye into a central London day.
 - 🚤 **[How to Use London River Boats](/articles/how-to-use-london-river-boats/)** — scenic Uber Boat by Thames Clippers services departing from London Eye Pier.
 - 🧳 **[Luggage Storage in London](/articles/luggage-storage-london/)** — station left luggage desks and affordable bag drop services near Waterloo.

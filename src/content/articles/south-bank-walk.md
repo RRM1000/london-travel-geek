@@ -82,7 +82,7 @@ The **[London Eye](/articles/london-eye-guide/)** is 135 metres tall, a full rot
 
 ## 2. County Hall
 
-The Edwardian building beside the Eye holds **three paid attractions**: the Sea Life aquarium, Shrek's Adventure and the London Dungeon, priced individually.
+The Edwardian building beside the Eye holds **three paid attractions**: the [SEA LIFE aquarium](/articles/sea-life-london-aquarium-guide/), Shrek's Adventure and the London Dungeon, priced individually.
 
 They are aimed at families and queue like it. Worth a stop with children; otherwise it is a four-minute walk past.
 

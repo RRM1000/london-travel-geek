@@ -100,7 +100,7 @@ Bought on [Madame Tussauds' multi-attraction page](https://www.madametussauds.co
 
 Merlin's "separately" column uses door prices. Against the cheapest advance prices the five come to £132, so the five-attraction ticket still wins from the third attraction you would actually visit. The London Dungeon admits no under-5s, and anyone 15 or under needs an adult of 18 or over.
 
-The other four are not next door: the London Eye, SEA LIFE, the Dungeon and Shrek's Adventure are together at County Hall on the South Bank, about 23 minutes away on the Bakerloo line from Baker Street to Waterloo. See our [London Eye guide](/articles/london-eye-guide/).
+The other four are not next door: the London Eye, SEA LIFE, the Dungeon and Shrek's Adventure are together at County Hall on the South Bank, about 23 minutes away on the Bakerloo line from Baker Street to Waterloo. See our [London Eye guide](/articles/london-eye-guide/) and our [SEA LIFE London Aquarium guide](/articles/sea-life-london-aquarium-guide/).
 
 On GetYourGuide, the <a href="https://www.getyourguide.com/activity/-t432130?partner_id=WWP7I0R&amp;cmp=madame-tussauds-london-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London Eye and Madame Tussauds combo ticket</a> covers the most-bought pair.
 
@@ -231,6 +231,7 @@ Next door, the [Sherlock Holmes Museum](/articles/sherlock-holmes-london/) is at
 ## Continue planning your London trip
 
 - 🎡 **[London Eye guide](/articles/london-eye-guide/)** — prices, Fast Track and the sunset slot, for the other half of the most popular combo.
+- 🦈 **[SEA LIFE London Aquarium guide](/articles/sea-life-london-aquarium-guide/)** — sharks, penguins and the combos, in County Hall beside the Eye.
 - 🏘️ **[Marylebone area guide](/articles/marylebone-area-guide/)** — the streets, food and shops around Baker Street.
 - 🔍 **[Sherlock Holmes London](/articles/sherlock-holmes-london/)** — 221B and the Baker Street sites a few minutes away.
 - 🎟️ **[The London Pass guide](/articles/london-pass-guide/)** — when a sightseeing pass saves money.

@@ -157,6 +157,7 @@ London's two Westfield centres are fully roofed malls.
 - 🎭 **[London Theatre: How to Choose a Show and Pay Less](/articles/london-theatre-guide/)**
 - 🎢 **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🕴️ **[Madame Tussauds London](/articles/madame-tussauds-london-guide/)** — two hours indoors on Marylebone Road
+- 🦈 **[SEA LIFE London Aquarium](/articles/sea-life-london-aquarium-guide/)** — one to two hours underground beside the London Eye
 - 🎬 **[London's Best Independent Cinemas](/articles/best-cinemas-london/)**
 - 💷 **[The Best Cinema Deals in London](/articles/cinema-deals-london/)**
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)**
