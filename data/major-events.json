@@ -39,6 +39,18 @@
       "guide": "twickenham-stadium-travel-guide"
     },
     {
+      "title": "Saracens v Harlequins, The Showdown 7",
+      "start": "2027-03-20",
+      "venue": "Tottenham Hotspur Stadium",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "Carabao Cup final",
+      "start": "2027-03-21",
+      "venue": "Wembley Stadium",
+      "guide": "london-sporting-events-2027"
+    },
+    {
       "title": "The Boat Race",
       "start": "2027-04-11",
       "venue": "The Thames, Putney to Mortlake"
@@ -51,6 +63,58 @@
       "guide": "london-marathon-guide"
     },
     {
+      "title": "FA Cup semi-finals",
+      "start": "2027-04-24",
+      "end": "2027-04-25",
+      "venue": "Wembley Stadium",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "Women's FA Cup final",
+      "start": "2027-05-15",
+      "venue": "Wembley Stadium",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "England v France, Women's Six Nations",
+      "start": "2027-05-15",
+      "venue": "Twickenham Stadium",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "FA Cup final",
+      "start": "2027-05-22",
+      "venue": "Wembley Stadium",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "England v Bangladesh, Test match",
+      "start": "2027-05-28",
+      "end": "2027-06-01",
+      "venue": "Lord's",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "HSBC Championships, Queen's",
+      "start": "2027-06-07",
+      "end": "2027-06-20",
+      "venue": "The Queen's Club",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "World Test Championship final",
+      "start": "2027-06-09",
+      "end": "2027-06-13",
+      "venue": "Kia Oval",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "Premiership Rugby final",
+      "start": "2027-06-19",
+      "venue": "Twickenham Stadium",
+      "guide": "london-sporting-events-2027"
+    },
+    {
       "title": "The Championships, Wimbledon",
       "start": "2027-06-28",
       "end": "2027-07-11",
@@ -58,10 +122,61 @@
       "guide": "wimbledon-tickets-guide"
     },
     {
+      "title": "England v Australia, second Ashes Test",
+      "start": "2027-06-30",
+      "end": "2027-07-04",
+      "venue": "Lord's",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "England Women v Australia, Ashes T20",
+      "start": "2027-07-06",
+      "venue": "Kia Oval",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "England Women v Australia, Ashes ODI",
+      "start": "2027-07-16",
+      "venue": "Lord's",
+      "guide": "london-sporting-events-2027"
+    },
+    {
       "title": "London Athletics Meet",
       "start": "2027-07-17",
       "venue": "London Stadium",
       "guide": "london-stadium-travel-guide"
+    },
+    {
+      "title": "England v Australia, fifth Ashes Test",
+      "start": "2027-07-29",
+      "end": "2027-08-02",
+      "venue": "Kia Oval",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "Tour de France Femmes, London team time trial",
+      "start": "2027-08-01",
+      "venue": "Streets of London",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "London T100 triathlon",
+      "start": "2027-08-21",
+      "end": "2027-08-22",
+      "venue": "Royal Victoria Dock",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "The Big Half",
+      "start": "2027-09-05",
+      "venue": "Tower Bridge to Greenwich",
+      "guide": "london-sporting-events-2027"
+    },
+    {
+      "title": "England v New Zealand, ODI",
+      "start": "2027-09-16",
+      "venue": "Lord's",
+      "guide": "london-sporting-events-2027"
     }
   ],
   "add": [],

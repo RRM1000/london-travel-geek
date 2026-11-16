@@ -3,12 +3,12 @@ title: "London Sporting Events 2027: The Big Dates Month by Month, and How to Ge
 seoTitle: "London Sporting Events 2027: Dates and Tickets"
 description: "The big London sporting dates of 2027: Six Nations at Twickenham, the Carabao Cup and FA Cup finals at Wembley, a two-day London Marathon, the Boat Race, Queen's, Wimbledon's 150th Championships and two Ashes Tests, with how each one sells its tickets."
 publishedAt: 2026-11-14
-updatedAt: 2026-11-14
+updatedAt: 2026-11-16
 reviewBy: 2026-12-12
 sites: [london]
 canonicalSite: london
 category: "Things to do"
-tags: [sport, sporting events, Six Nations, FA Cup, London Marathon, Boat Race, Wimbledon, The Ashes, Wembley Stadium, Allianz Stadium Twickenham, Lord's, The Oval, "2027"]
+tags: [sport, sporting events, Six Nations, FA Cup, London Marathon, Boat Race, Wimbledon, The Ashes, Wembley Stadium, Allianz Stadium Twickenham, Lord's, The Oval, Tour de France Femmes, triathlon, "2027"]
 draft: false
 faq:
   - q: "When are England's Six Nations home games in 2027?"
@@ -19,6 +19,10 @@ faq:
     a: "Over two days for the first and only time: Saturday 24 and Sunday 25 April 2027, with 100,000 runners across the weekend. It is free to watch from anywhere on the course."
   - q: "Where are the Ashes Tests in London in 2027?"
     a: "Lord's hosts the second Test, from Wednesday 30 June to Sunday 4 July, and the Kia Oval the fifth, from Thursday 29 July to Monday 2 August. Lord's sold through a ballot that has closed; the Oval gives Surrey members first access, then opens general sale in December 2026."
+  - q: "Is Formula E racing in London in 2027?"
+    a: "No. The London E-Prix has moved from ExCeL London to Brands Hatch in Kent, where it runs as a double-header on Saturday 29 and Sunday 30 May 2027."
+  - q: "Is the Tour de France coming to London in 2027?"
+    a: "The women's race is. Stage 3 of the Tour de France Femmes is an 18km team time trial through London on Sunday 1 August 2027, free to watch from the roadside. The men's Tour starts in Edinburgh on 2 July and does not come to London."
   - q: "When is Wimbledon 2027?"
     a: "Monday 28 June to Sunday 11 July 2027, the 150th year of The Championships. The 2027 Public Ballot has closed, so the routes left are The Queue, the LTA's members' sale and hospitality."
 heroImage: "../../assets/articles/twickenham-stadium-travel-guide/allianz-stadium-twickenham-bowl.jpg"
@@ -29,7 +33,7 @@ heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/3.0/
 ---
 
-> 💡 **The Short Version:** England play **France (14 February)**, **Italy (20 February)** and **Scotland (13 March)** at Allianz Stadium Twickenham in the Six Nations. Wembley has the **Carabao Cup final on 21 March**, the **Women's FA Cup final on 15 May** and the **FA Cup final on 22 May**. The **Boat Race** is on **Sunday 11 April**, the centenary of the Women's Boat Race, and the **London Marathon** runs over **two days, 24 and 25 April**. Summer brings **Queen's (7 to 20 June)**, **Wimbledon's 150th Championships (28 June to 11 July)**, **two Ashes Tests**, at Lord's from **30 June** and the Oval from **29 July**, and the **London Athletics Meet** on **17 July**. **The big ones sell through ballots and members' priority first**: Wimbledon's and Lord's 2027 ballots have already closed, and Carabao Cup and play-off final tickets go through the two clubs.
+> 💡 **The Short Version:** England play **France (14 February)**, **Italy (20 February)** and **Scotland (13 March)** at Allianz Stadium Twickenham in the Six Nations. Wembley has the **Carabao Cup final on 21 March**, the **Women's FA Cup final on 15 May** and the **FA Cup final on 22 May**, and the Red Roses play **France at Twickenham on 15 May** in the Women's Six Nations. The **Boat Race** is on **Sunday 11 April**, the centenary of the Women's Boat Race, and the **London Marathon** runs over **two days, 24 and 25 April**. Summer brings **Queen's (7 to 20 June)**, **Wimbledon's 150th Championships (28 June to 11 July)**, **two Ashes Tests**, at Lord's from **30 June** and the Oval from **29 July**, the **World Test Championship final** at the Oval from **9 June**, and the **London Athletics Meet** on **17 July**. The **Tour de France Femmes** races a team time trial through London on **Sunday 1 August**. **The big ones sell through ballots and members' priority first**: Wimbledon's and Lord's 2027 ballots have already closed, and Carabao Cup and play-off final tickets go through the two clubs.
 
 ## January
 
@@ -65,9 +69,12 @@ England's other two Six Nations games are away: Ireland on Friday 5 February and
 | Date | Event | Venue | Tickets |
 |---|---|---|---|
 | Sat 15 May | **Women's FA Cup final** | Wembley Stadium | [The FA](https://www.thefa.com/competitions/the-womens-fa-cup/round-dates): on sale once the finalists are known |
+| Sat 15 May, 16:45 | **England v France**, Women's Six Nations, final round | Allianz Stadium Twickenham | [England Rugby](https://www.englandrugby.com/tickets): on sale from £20 |
 | Sat 22 May | **FA Cup final** | Wembley Stadium | [The FA](https://www.thefa.com/competitions/thefacup/round-dates): on sale once the finalists are known |
 | Late May | **EFL play-off finals**: Championship, League One and League Two | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events): sold through the two competing clubs |
 | Fri 28 May to Tue 1 June | **England v Bangladesh**, Test match, Bangladesh's first at Lord's since 2010 | Lord's | [Lord's](https://www.lords.org/2027-internationals): sold by ballot, which has closed |
+
+**Formula E is not in London in 2027.** The London E-Prix has moved from ExCeL to Brands Hatch in Kent, a double-header on 29 and 30 May ([Formula E calendar](https://www.fiaformulae.com/en/calendar)).
 
 Our [Wembley Stadium travel guide](/articles/wembley-stadium-arena-guide/) covers the queues at Wembley Park after the final whistle, the walking routes and parking.
 
@@ -76,6 +83,7 @@ Our [Wembley Stadium travel guide](/articles/wembley-stadium-arena-guide/) cover
 | Date | Event | Venue | Tickets |
 |---|---|---|---|
 | Mon 7 to Sun 13 June | **HSBC Championships**, women's WTA 500, qualifying 5 and 6 June | The Queen's Club, West Kensington | [LTA](https://tickets.lta.org.uk/content): on general sale |
+| Wed 9 to Sun 13 June | **ICC World Test Championship final**, between the top two Test sides of 2025 to 2027 | Kia Oval | [ICC](https://www.icc-cricket.com/tournaments/world-test-championship): sold by the ICC |
 | Mon 14 to Sun 20 June | **HSBC Championships**, men's ATP 500, qualifying 12 and 13 June | The Queen's Club, West Kensington | [LTA](https://tickets.lta.org.uk/content): on general sale |
 | Sat 19 June | **Premiership Rugby final** | Allianz Stadium Twickenham, the final's usual home | [PREM Rugby](https://www.premrugby.com/final): sold by PREM Rugby |
 | Mon 28 June to Sun 11 July | **Wimbledon**, the 150th year of The Championships | All England Lawn Tennis Club | [Wimbledon](https://www.wimbledon.com/en_GB/tickets): Public Ballot closed; The Queue every morning. Our [Wimbledon tickets guide](/articles/wimbledon-tickets-guide/) covers every route left |
@@ -89,12 +97,15 @@ Our [Wembley Stadium travel guide](/articles/wembley-stadium-arena-guide/) cover
 | Fri 16 July | **England Women v Australia**, one-day international, Women's Ashes | Lord's | [Lord's](https://www.lords.org/2027-internationals): sold by ballot, which has closed |
 | Sat 17 July | **London Athletics Meet**, the Diamond League's London round | London Stadium | [London Athletics Meet](https://london.diamondleague.com/about/tickets-hospitality/): on sale through British Athletics |
 | Thu 29 July to Mon 2 Aug | **England v Australia**, fifth Ashes Test | Kia Oval | [Kia Oval](https://kiaoval.com/ticket-ballot/): Surrey members first; general sale opens in December 2026 |
+| Sun 1 Aug | **Tour de France Femmes**, stage 3: an 18km team time trial, the race's first stage in London | Streets of London | [Tour de France Femmes](https://www.letourfemmes.fr/en/stage-3): free to watch from the roadside |
+| Sat 21 and Sun 22 Aug | **London T100 triathlon**: the pro tour's 2km swim, 80km bike and 18km run, with amateur races the same weekend | Royal Victoria Dock and ExCeL London | [T100](https://t100triathlon.com/races/london-t100/): free to watch; amateur entries open |
 | Usually August | **The Hundred**, with London Spirit at Lord's and Oval Invincibles at the Oval | Lord's and Kia Oval | [The Hundred](https://www.thehundred.com/news/3638548/register-your-interest-for-the-hundred-2027-tickets): signing up gets priority access before general sale |
 
 ## September and October
 
 | Date | Event | Venue | Tickets |
 |---|---|---|---|
+| Sun 5 Sept | **The Big Half**, a half marathon from Tower Bridge to the Cutty Sark in Greenwich | Tower Hamlets, Southwark, Lewisham and Greenwich | [The Big Half](https://www.thebighalf.co.uk/): free to watch; entries through the organisers |
 | Thu 16 Sept | **England v New Zealand**, one-day international | Lord's | [Lord's](https://www.lords.org/2027-internationals): sold by ballot, which has closed |
 | October | **NFL London Games**, played on Sundays in October at Tottenham and Wembley | Tottenham Hotspur Stadium, Wembley Stadium | Sold by the NFL and the host teams; our [NFL London Games guide](/articles/nfl-london-games/) explains the two systems |
 
