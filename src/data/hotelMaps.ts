@@ -25,7 +25,10 @@ export type HotelMapCategory =
   | "ensuite"
   | "some-ensuite"
   | "shared"
-  | "unpublished";
+  | "unpublished"
+  // christmas-markets-london, by what it costs to get in
+  | "free"
+  | "ticketed";
 
 export type HotelMapMarker = {
   name: string;
@@ -49,6 +52,8 @@ export const hotelCategoryLabels: Record<HotelMapCategory, string> = {
   "some-ensuite": "Some en-suite",
   shared: "Shared dorm bathrooms",
   unpublished: "Dorm bathrooms not published",
+  free: "Free to enter",
+  ticketed: "Ticket needed",
 };
 
 const byArea = "#by-area-and-by-how-you-get-there";
@@ -391,6 +396,162 @@ export const hotelMaps: Record<string, HotelMapMarker[]> = {
       latitude: 51.526879,
       longitude: -0.03652,
       articleAnchor: "#park-villa--georgian-small-and-out-east",
+    },
+  ],
+  // Pins from OpenStreetMap, checked 16 November 2026. Fairs that have finished for the year are left off.
+  "christmas-markets-london": [
+    {
+      name: "Southbank Centre Winter Market",
+      category: "free",
+      area: "South Bank",
+      note: "2 Nov 2026 – 3 Jan 2027 on Queen's Walk. Cash-free.",
+      latitude: 51.50628,
+      longitude: -0.1173,
+      articleAnchor: "#southbank-centre-winter-market",
+    },
+    {
+      name: "Trafalgar Square Christmas Market",
+      category: "free",
+      area: "Trafalgar Square",
+      note: "One row of chalets on the North Terrace. The tree is lit from 3 December.",
+      latitude: 51.50845,
+      longitude: -0.12845,
+      articleAnchor: "#trafalgar-square-christmas-market",
+    },
+    {
+      name: "Leicester Square",
+      category: "free",
+      area: "Leicester Square",
+      note: "31 Oct 2026 – 3 Jan 2027. Free to walk round; the ice rink is ticketed.",
+      latitude: 51.510545,
+      longitude: -0.130441,
+      articleAnchor: "#leicester-square",
+    },
+    {
+      name: "Covent Garden",
+      category: "free",
+      area: "Covent Garden",
+      note: "The tree, the Market Building and its decorations. No chalet market.",
+      latitude: 51.511979,
+      longitude: -0.122741,
+      articleAnchor: "#covent-garden",
+    },
+    {
+      name: "Borough Market",
+      category: "free",
+      area: "Borough",
+      note: "Daily from 30 Nov 2026. Closed 25–27 Dec and 1 Jan; shuts at 5pm.",
+      latitude: 51.505526,
+      longitude: -0.090438,
+      articleAnchor: "#borough-market-at-christmas",
+    },
+    {
+      name: "Winter by the River",
+      category: "free",
+      area: "London Bridge City",
+      note: "10 Nov 2026 – 3 Jan 2027. Free; curling is paid.",
+      latitude: 51.505724,
+      longitude: -0.083706,
+      articleAnchor: "#winter-by-the-river-london-bridge-city",
+    },
+    {
+      name: "King's Cross Winter Market",
+      category: "free",
+      area: "King's Cross",
+      note: "Granary Square, 26 Nov 2026 – 3 Jan 2027. Cashless. Crafty Fox is here on 6, 12 and 13 December.",
+      latitude: 51.535238,
+      longitude: -0.125401,
+      articleAnchor: "#kings-cross-winter-market",
+    },
+    {
+      name: "Christmas Under the Canopy",
+      category: "free",
+      area: "King's Cross",
+      note: "West Handyside Canopy, 20 Nov – 23 Dec 2026. Closed Mondays except 21 Dec.",
+      latitude: 51.536662,
+      longitude: -0.125987,
+      articleAnchor: "#kings-cross-winter-market",
+    },
+    {
+      name: "Old Spitalfields Market",
+      category: "free",
+      area: "Spitalfields",
+      note: "The year-round market, dressed for Christmas.",
+      latitude: 51.5196,
+      longitude: -0.075363,
+      articleAnchor: "#old-spitalfields-market",
+    },
+    {
+      name: "Hyde Park Winter Wonderland",
+      category: "ticketed",
+      area: "Hyde Park",
+      note: "19 Nov 2026 – 3 Jan 2027. A timed entry ticket from £1, even just for the market.",
+      latitude: 51.50705,
+      longitude: -0.15925,
+      articleAnchor: "#hyde-park-winter-wonderland",
+    },
+    {
+      name: "Crafty Fox at RSA House",
+      category: "free",
+      area: "Strand",
+      note: "Saturday 5 December 2026, 11am–5pm, in the Great Room.",
+      latitude: 51.509479,
+      longitude: -0.122654,
+      articleAnchor: "#crafty-fox-market",
+    },
+    {
+      name: "Battersea Power Station",
+      category: "free",
+      area: "Battersea",
+      note: "Food huts and a makers' market (5–22 Dec). Free to walk round; skating is ticketed.",
+      latitude: 51.481774,
+      longitude: -0.144582,
+      articleAnchor: "#battersea-power-station",
+    },
+    {
+      name: "Chelsea Physic Garden Christmas Fair",
+      category: "ticketed",
+      area: "Chelsea",
+      note: "26–29 Nov 2026. £8 in advance, £10 on the door.",
+      latitude: 51.48457,
+      longitude: -0.162262,
+      articleAnchor: "#chelsea-physic-garden-christmas-fair",
+    },
+    {
+      name: "The Ideal Christmas Show",
+      category: "ticketed",
+      area: "Olympia",
+      note: "26–29 Nov 2026, from £16.",
+      latitude: 51.49635,
+      longitude: -0.21005,
+      articleAnchor: "#the-ideal-christmas-show-olympia",
+    },
+    {
+      name: "Greenwich Market",
+      category: "free",
+      area: "Greenwich",
+      note: "Daily, all year. Closes at 5.30pm.",
+      latitude: 51.481583,
+      longitude: -0.009045,
+      articleAnchor: "#greenwich-market",
+    },
+    {
+      name: "Wimbledon Christmas Market",
+      category: "free",
+      area: "Wimbledon",
+      note: "Winterfest on the Piazza, 28–29 Nov 2026.",
+      latitude: 51.419955,
+      longitude: -0.204588,
+      articleAnchor: "#wimbledon-christmas-market",
+    },
+    {
+      name: "Kingston Christmas Market",
+      category: "free",
+      area: "Kingston",
+      note: "12 Nov 2026 – 3 Jan 2027. Stalls shut at 6pm Sunday to Wednesday.",
+      latitude: 51.409672,
+      longitude: -0.306394,
+      articleAnchor: "#kingston-christmas-market",
     },
   ],
 };

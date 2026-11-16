@@ -2528,6 +2528,18 @@ const hasAds = !isAdFree(Astro.url.pathname);
     background: #8a8a8a;
   }
 
+  /* Christmas markets map: free to walk in, or a ticket needed. The popup
+     says which too, so colour is never the only cue. */
+  .article__body :global(.hotel-map-key--free),
+  .article__body :global(.hotel-map-marker--free) {
+    background: #009e73;
+  }
+
+  .article__body :global(.hotel-map-key--ticketed),
+  .article__body :global(.hotel-map-marker--ticketed) {
+    background: #d55e00;
+  }
+
   .article__body :global(.restaurant-map-key--streetfood),
   .article__body :global(.restaurant-map-marker--streetfood) {
     background: #d97706;
