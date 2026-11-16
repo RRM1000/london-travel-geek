@@ -45,7 +45,7 @@ London's outdoor rinks open between the end of October and the third week of Nov
 | **The Queen's House** | Greenwich, SE10 | 18 Nov – 3 Jan | Early bird £15.12–£24.19 with booking fee | Discounts only on set weekday sessions |
 | **Winter Wonderland** | Hyde Park, W2 | 19 Nov – 3 Jan | £12.65–£19.25 | A separate entry ticket, £1–£8.25, as well |
 | **Alexandra Palace** (indoor) | Wood Green, N22 | Open all year; Festive Skate 9 Dec – 4 Jan | £11.75 off-peak, £12.75 peak | Up a steep hill, and indoors |
-| **Leicester Square** | West End, WC2 | 31 Oct – 3 Jan | From £10 + £3 transaction fee | Sessions last 45 minutes; under-3s are not allowed on the ice |
+| **Leicester Square** | West End, WC2 | 31 Oct – 3 Jan | From £10, no booking fee | Sessions last 45 minutes; under-3s are not allowed on the ice |
 
 Every outdoor rink skates in the rain, and none refunds for bad weather unless the rink itself cancels the session. All six outdoor rinks include skate hire in the ticket.
 
@@ -194,7 +194,7 @@ Every price, gate and quiet time is in our **[Hyde Park Winter Wonderland guide]
 
 ## Leicester Square
 
-**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, is open from **31 October 2026 to 3 January 2027**, every day except Christmas Day, next to the [Christmas market](/articles/christmas-markets-london/) stalls. Until 26 November the first session is at 12.15pm on weekdays and 10.15am at weekends; from 27 November it is 10.15am daily. It closes at 10pm, with the last session at 9.15pm, and at 6pm on Christmas Eve. Sessions last 45 minutes and tickets start at **£10** plus a £3 transaction fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk, which makes it the easiest rink to add to an evening in the West End.
+**Skate Leicester Square**, Underbelly's circular rink in the middle of the square, is open from **31 October 2026 to 3 January 2027**, every day except Christmas Day, next to the [Christmas market](/articles/christmas-markets-london/) stalls. Until 26 November the first session is at 12.15pm on weekdays and 10.15am at weekends; from 27 November it is 10.15am daily. It closes at 10pm, with the last session at 9.15pm, and at 6pm on Christmas Eve. Sessions last 45 minutes and tickets start at **£10**, with no booking fee. Children under 12 must be with an adult, and under-3s are not allowed on the ice. Tickets can be bought on the day at the box office, which takes cards only, but pre-booking on the [rink's site](https://www.skateleicestersquare.co.uk/) guarantees a session. Leicester Square station is a minute's walk, which makes it the easiest rink to add to an evening in the West End.
 
 ---
 
