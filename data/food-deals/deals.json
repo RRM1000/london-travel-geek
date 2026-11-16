@@ -460,8 +460,8 @@
   "branches": "The O2, Greenwich",
   "endDate": null,
   "sourceUrl": "https://jimmystheo2.co.uk/prices/",
-  "checked": "2026-11-12",
-  "quote": "Jimmy’s The O2 is an unlimited food feast concept in buffet style dining with all your favourite foods from around the world",
+  "checked": "2026-11-16",
+  "quote": "LUNCH Monday to Friday – £17.00 (12:00 pm to 4:00 pm)",
   "style": "other",
   "area": "North Greenwich"
  },
@@ -766,7 +766,7 @@
   "branches": "Angel, Queensway, Victoria, West End",
   "endDate": null,
   "sourceUrl": "https://www.preto.co.uk/app/uploads/2026/07/Dinner-Menu-Angel.pdf",
-  "checked": "2026-11-12",
+  "checked": "2026-11-16",
   "quote": "Everything from the salad bar plus our complete rodizio service. A continuous selection of grilled meats, carved tableside by our passadores.",
   "style": "rodizio",
   "area": "Angel"
@@ -5366,7 +5366,7 @@
   "branches": "King's Road, Chelsea",
   "endDate": null,
   "sourceUrl": "https://muccisrestaurant.co.uk/menu/kitchen.pdf",
-  "checked": "2026-11-12",
+  "checked": "2026-11-16",
   "quote": "Starters 10 / Italian classics 15 / Pasta 20 / Meat & fish 20"
  },
  {
@@ -6483,10 +6483,10 @@
   "days": null,
   "times": null,
   "conditions": null,
-  "branches": "The Dickens Inn",
+  "branches": "Poplars restaurant at The Dickens Inn, St Katharine Docks",
   "endDate": null,
-  "sourceUrl": "https://www.dickensinn.co.uk/",
-  "checked": "2026-11-11",
+  "sourceUrl": "https://www.dickensinn.co.uk/food-drink/poplars",
+  "checked": "2026-11-16",
   "quote": "2 courses – £19.95 | 3 courses – £23.95"
  },
  {
