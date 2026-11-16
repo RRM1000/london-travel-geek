@@ -3,8 +3,9 @@ title: "Sky Garden London: Free Tickets, Booking and Opening Hours"
 seoTitle: "Sky Garden Tickets: Free Entry, Booking & Hours"
 description: "Sky Garden is free, but its timed tickets come out every Monday, three weeks ahead. How to book, the ways in once they have gone, the hours, the terrace, sunset times and the free viewpoints nearby."
 publishedAt: 2026-10-08
-updatedAt: 2026-10-26
-reviewBy: 2026-11-17
+updatedAt: 2026-11-16
+reviewBy: 2026-12-24
+venueEvents: "Sky Garden"
 sites:
   - london
 canonicalSite: london
@@ -45,7 +46,7 @@ The Sky Garden is the public garden at the top of 20 Fenchurch Street, the curve
 > 💡 **The Short Version:**
 > - **Free tickets come out every Monday morning, three weeks ahead,** a whole week of slots at a time, on the [Sky Garden's ticket site](https://tickets.skygarden.london/WebStore/shop/viewitems.aspx?cg=SkyGarden&c=Tickets). There is no release on bank holidays.
 > - **A ticket gives you one hour,** and you must reach the queue within 15 minutes of your slot.
-> - **Missed the release?** A table at **Darwin Brasserie** or **Fenchurch Restaurant** includes entry, even when the free tickets are gone. The door also takes free walk-ins when there is room, sells an early-morning ticket with a hot drink for £11.50, and sells evening music-night entry from £15.50. An <a href="https://www.getyourguide.com/activity/-t1100481?partner_id=WWP7I0R&amp;cmp=sky-garden-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">early-access ticket with a breakfast treat on GetYourGuide</a> fixes a paid slot in advance.
+> - **Missed the release?** A table at **Darwin Brasserie** or **Fenchurch Restaurant** includes entry, even when the free tickets are gone. The door also takes free walk-ins when there is room, sells an early-morning ticket with a hot drink for £11.50, and sells evening music-night entry from £15.50. Until 23 December the music nights run as [12 Nights of Christmas](#christmas-music-nights-and-new-years-eve), with standing tickets from £14.85 that can be booked ahead. An <a href="https://www.getyourguide.com/activity/-t1100481?partner_id=WWP7I0R&amp;cmp=sky-garden-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">early-access ticket with a breakfast treat on GetYourGuide</a> fixes a paid slot in advance.
 > - **Hours:** Monday to Friday 10:00 to 18:00; Saturday, Sunday and bank holidays 11:00 to 21:00. The open-air terrace shuts at 18:00 every day.
 > - **Leave big bags behind.** Security is airport-style, there are no lockers, and only a cabin-size case that fits the X-ray is allowed. Evening walk-ins need photo ID.
 > - **Within ten minutes' walk,** The Garden at 120 needs no booking at all, and Horizon 22 is free and 23 floors higher.
@@ -80,11 +81,22 @@ One of the visitor lifts is out of service, and the Sky Garden warns that some t
 - **Book a table at the Sky Garden bars.** The Sky Garden names a bar booking as the other way in when you have no ticket. Bar tables are for 16 and over, with anyone under 18 accompanied by a parent or guardian.
 - **Walk up.** The door takes free walk-ins every day during public hours when there is room, at the team's discretion. Nothing is guaranteed.
 - **Go early.** The door sells an early-morning ticket for **£11.50**, with a hot drink and access to the gardens. The same early visit can be booked ahead as [Sunrise at Sky Garden on SevenRooms](https://www.sevenrooms.com/experiences/skygardenbars/sunrise-at-sky-garden-6211553286340608): from 08:00 on weekdays and 09:00 at weekends, coffee and a pastry, with the terrace closed.
-- **Go late.** Evening entry is sold at the door from **£15.50**, with a welcome drink and the DJ or live band. Music nights start at 18:30, are 18 and over, and need physical ID. Pre-book [standing access on SevenRooms](https://www.sevenrooms.com/experiences/skygardenbars/music-night-standing-access-5476695103815680); the Sky Garden says music nights get very busy.
+- **Go late.** Evening entry is sold at the door from **£15.50**, with a welcome drink and the DJ or live band. Music nights start at 18:30, are 18 and over, and need physical ID. Pre-book [standing access on SevenRooms](https://www.sevenrooms.com/experiences/skygardenbars/music-night-standing-access-5476695103815680); the Sky Garden says music nights get very busy. In the run-up to Christmas, a ticket to one of the [seasonal music nights](#christmas-music-nights-and-new-years-eve) does the same job.
 
 GetYourGuide resells the early-morning visit and two Larch packages, breakfast or dinner with Sky Garden entry. They cost money where the Monday release is free, so they suit fixed dates once the free week has gone.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="sky-garden-guide-paid-entry" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="1100481,1264354,1264422"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+
+### Christmas music nights and New Year's Eve
+
+A ticket to an evening event gets you into the garden on a fixed date, whatever happened at the Monday release.
+
+- **12 Nights of Christmas, 16 November to 23 December.** Standing tickets for the festive music nights in the Sky Pod Bar cost **£14.85 to £33** with a welcome drink, in two sessions a night: 18:30 to 20:45 and 20:45 to 22:45. The theme nights are Step Into Christmas parties with a live band on 20 and 27 November; Moët Christmas parties on 5, 12, 19, 22 and 23 December; the Big Christmas Party, with a band and DJ, on 11 and 18 December; and the Festive Jazz Club on 15 December. [Tickets on DesignMyNight](https://www.designmynight.com/london/bars/city-of-london/sky-garden-bars/sky-garden-winter-bar).
+- **The Moonlight Concert, 16 November and 8 December.** A five-piece orchestra plays modern classics among hundreds of candles, with Christmas songs on the 8th. Standing is **£25** with a glass of Moët; tables with a sharing platter are £45 to £65 a head. [Tickets on DesignMyNight](https://www.designmynight.com/london/whats-on/food-drink/moonlight-concert-at-sky-garden).
+- **The Belvedere Alpine Terrace.** For the winter, the indoor terrace on the top floor is a dining snug serving small plates, duck or braised beef, and Belvedere cocktails, at **£65 a head**, with music-night entry after you eat. [Book on SevenRooms](https://www.sevenrooms.com/experiences/skygardenbars/mo-t-terrace-6467184213311488).
+- **New Year's Eve.** Party tickets start at **£220** with a glass of Moët and canapés, and a bar table with a sharing platter is from £290. Fenchurch (from £795) and Darwin Brasserie (from £465) sell dinners that include the party. At midnight the fireworks show across the skyline. Prices and booking links are on the [Sky Garden's New Year's Eve page](https://skygarden.london/new-years-eve-at-sky-garden/).
+
+The music nights are strictly 18 and over, with physical photo ID; digital copies are refused. Dress warmly: the garden is naturally ventilated and gets cold on winter evenings. These dates also appear on the [London big events calendar](/whats-on/big-events/).
 
 ---
 

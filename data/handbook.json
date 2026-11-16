@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "inProgress": [],
   "nextUp": [
     "Food video creators into the food guides. Creator Picks page (https://claude.ai/artifact/E3BdmPFHKrtgLvEAxEQDqa) reads 494 videos from 10 YouTube creators (2025-26): 698 venues, 277 already on the site, 85 in our data on no page, 335 new (about half with names from auto-captions, to verify). Next: record Aton Of Food, Noodle alla Gola and Jacob King as tier-D sources in the topics they cover; verify the uncertain names; retry Gary Eats, Hannah Ricketts and What's Good London with correct handles; add the strongest new openings to guides. Nothing recorded yet - waiting on Rob's go. Working files: scratchpad/social (collect.mjs, xref.mjs, build-page.mjs).",
@@ -79,6 +79,10 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-16",
+      "what": "Sky Garden events (unpushed): 12 Nights of Christmas music nights (16 Nov-23 Dec, from £14.85), the Moonlight Concert (16 Nov, 8 Dec) and New Year's Eve added to the Events tab and the big events calendar, which now links Sky Garden events to the Sky Garden guide. The guide has a new Christmas music nights and New Year's Eve section as a paid way in when the free tickets have gone, plus an automatic Coming up at Sky Garden list. reviewBy 24 Dec."
+    },
     {
       "date": "2026-11-15",
       "what": "LIVE (pushed bf21bfb9, 571 pages): 22 branches merged into ltg-review-2026-11-15 and pushed after a full build. Event radar 13-14 Nov (NYE second batch 20 Nov, Elizabeth line closure 28-29 Nov, Shard Advent lights), London concerts 2027, London sporting events 2027, February guides (things to do in February, half-term, Valentine's, Chinese New Year), Black Friday guide, SEO refresh (8 titles, hotel and guide refreshes, street food table split), November date fixes."

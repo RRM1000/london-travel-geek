@@ -56,6 +56,9 @@ const shortTitle = (t) => t.replace(SPONSOR, "").replace(/\s+[-–|:]\s+.*$/, ""
 
 const theatreUrl = (slug) => `https://www.londontheatregeek.co.uk/shows/${slug}`;
 const guideUrl = (slug) => `/articles/${slug}/`;
+// A venue with a guide of its own: its events link there, not to the area guide.
+const VENUE_GUIDE = { "Sky Garden": "sky-garden-guide" };
+const baseVenue = (v) => String(v ?? "").replace(/\s+\([^)]*\)\s*$/, "");
 
 function fromListings(listings, today) {
   const seen = new Map();
@@ -101,7 +104,7 @@ function fromEvents(events, today) {
     out.push({
       id: e.slug, title: e.name, group: EVENT_GROUP[e.type], start: e.startsOn, end, nights: 1,
       venue: String(e.venue ?? "").replace(/\s+\([^)]*\)\s*$/, ""),
-      url: EVENT_GROUP[e.type] === "immersive" ? "/articles/immersive-experiences-london/" : e.guide ? guideUrl(e.guide) : e.type === "exhibition-convention" ? "/articles/exhibitions-conventions-london/" : "/whats-on/",
+      url: EVENT_GROUP[e.type] === "immersive" ? "/articles/immersive-experiences-london/" : VENUE_GUIDE[baseVenue(e.venue)] ? guideUrl(VENUE_GUIDE[baseVenue(e.venue)]) : e.guide ? guideUrl(e.guide) : e.type === "exhibition-convention" ? "/articles/exhibitions-conventions-london/" : "/whats-on/",
       linkLabel: "Our guide",
       onSale: "", note: "",
     });
