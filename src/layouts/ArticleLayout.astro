@@ -1308,6 +1308,14 @@ const hasAds = !isAdFree(Astro.url.pathname);
     border-radius: var(--card-radius);
   }
 
+  /* Map tiles are images too. Without this, the photo margin above pushed every
+     tile 28px down while the pins stayed put, so each pin sat a pin's height
+     north of its real spot on every map on the site. */
+  .article__body :global(.leaflet-container img) {
+    margin: 0;
+    border-radius: 0;
+  }
+
   .article__body :global(hr) {
     margin-block: 3rem;
     border: 0;
