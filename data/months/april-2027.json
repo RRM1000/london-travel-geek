@@ -1,0 +1,64 @@
+{
+  "month": "april",
+  "year": 2027,
+  "compiled": "2026-11-16",
+  "researched": "2026-11-16",
+  "status": "RESEARCHED from organiser pages on 16 November 2026. The annual spine is data/months/april.json. Anything the organiser had not published by 16 November is listed under gaps and left out of the article.",
+  "note": "THE OVERLAY. Everything here is true only in 2027. Every entry carries the source it came from.",
+  "easter": {
+    "schoolHoliday": "Friday 26 March to Friday 9 April 2027; summer term starts Monday 12 April",
+    "sources": ["https://www.camden.gov.uk/term-dates", "https://www.lambeth.gov.uk/schools-education/school-term-holiday-dates/school-term-dates-2026-2027", "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates/term-dates-2026-2027"],
+    "note": "Easter Sunday is 28 March 2027, so no April bank holiday. The next is Monday 3 May.",
+    "bankHolidaySource": "https://www.gov.uk/bank-holidays.json",
+    "verified": "2026-11-16"
+  },
+  "festivals": {
+    "idealHomeShow": { "dates": "2 to 11 April 2027", "venue": "Olympia London", "source": "https://www.idealhomeshow.co.uk/", "verified": "2026-11-16", "note": "Ticket prices on See Tickets, which returns 403 to curl." },
+    "vaisakhi": { "date": "Saturday 17 April 2027, 12pm to 6pm", "venue": "Trafalgar Square", "price": "Free", "source": "https://www.london.gov.uk/events/vaisakhi-square-2027", "verified": "2026-11-16" },
+    "grandDesignsLive": { "dates": "30 April to 3 May 2027", "venue": "ExCeL London", "source": "https://www.granddesignslive.com/", "verified": "2026-11-16" }
+  },
+  "sport": {
+    "boatRace": { "date": "Sunday 11 April 2027, 15.40 and 16.40", "source": "https://www.theboatrace.org/", "verified": "2026-11-16" },
+    "marathon": { "dates": "Saturday 24 and Sunday 25 April 2027", "runners": "100,000 across the weekend", "source": "https://www.londonmarathonevents.co.uk/london-marathon", "verified": "2026-11-16" },
+    "faCupSemis": { "date": "Weekend of Saturday 24 April 2027", "venue": "Wembley", "source": "https://www.thefa.com/competitions/thefacup/round-dates", "verified": "2026-11-16" }
+  },
+  "exhibitions": {
+    "opening": [
+      { "title": "Rembrandt", "venue": "Royal Academy, Sackler Wing", "runs": "9 April to 19 September 2027", "price": "£17 (£19.50 with donation)", "source": "https://www.royalacademy.org.uk/exhibition/rembrandt", "verified": "2026-11-16" },
+      { "title": "Characters of Fashion", "venue": "Barbican Art Gallery", "runs": "15 April to 29 August 2027", "price": "Tickets on sale in spring 2027", "source": "https://www.barbican.org.uk/whats-on/2027/event/characters-of-fashion", "verified": "2026-11-16" },
+      { "title": "Ink", "venue": "Tate Modern", "runs": "22 April to 30 August 2027", "price": "To be confirmed", "source": "https://www.tate.org.uk/whats-on/tate-modern/ink", "verified": "2026-11-16" },
+      { "title": "South Asia Now: Fashion. Art. Design.", "venue": "V&A East Museum", "runs": "Opens 24 April 2027", "price": "Tickets available soon", "source": "https://www.vam.ac.uk/exhibitions/south-asia-now-fashion-art-design", "verified": "2026-11-16" }
+    ],
+    "stillRunning": [
+      { "title": "Monet: Painting Time", "venue": "Tate Modern", "runs": "to 27 June 2027", "price": "£26", "source": "https://www.tate.org.uk/whats-on/tate-modern/monet", "verified": "2026-11-16" },
+      { "title": "German Expressionism: Modern Painting 1900-1918", "venue": "National Gallery", "runs": "18 March to 1 August 2027", "source": "https://www.nationalgallery.org.uk/exhibitions/german-expressionism-modern-painting-1900-1918", "verified": "2026-11-16" },
+      { "title": "Mary Cassatt: Radical Impressionist", "venue": "National Portrait Gallery", "runs": "11 March to 13 June 2027", "source": "https://www.npg.org.uk/whatson/events-calendar/?what=exhibition", "verified": "2026-11-16" },
+      { "title": "Bayeux Tapestry", "venue": "British Museum", "runs": "to 11 July 2027", "price": "April to July tickets released in early 2027; adults £33", "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry", "verified": "2026-10-17", "verifiedNote": "Dates re-read on britishmuseum.org/exhibitions-events on 16 November 2026; ticket status carried from the British Museum guide." }
+    ]
+  },
+  "exhibitionsClosing": [
+    { "title": "Es Devlin: Other Worlds", "venue": "Design Museum", "closes": "2027-04-04", "price": "Adults from £17.09", "source": "https://designmuseum.org/exhibitions/es-devlin-other-worlds", "verified": "2026-11-16" },
+    { "title": "Van Eyck: The Portraits", "venue": "National Gallery", "closes": "2027-04-11", "price": "£18, under-18s free", "source": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits", "verified": "2026-11-16" },
+    { "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury", "venue": "Tate Britain", "closes": "2027-04-11", "price": "£20, concessions £19", "source": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant", "verified": "2026-11-16" },
+    { "title": "Tarek Atoui: Hold (Hyundai Commission)", "venue": "Tate Modern, Turbine Hall", "closes": "2027-04-11", "price": "Free", "source": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui", "verified": "2026-11-16" },
+    { "title": "Pierre Alechinsky: In Paperland", "venue": "Serpentine South", "closes": "2027-04-18", "price": "Free", "source": "https://www.serpentinegalleries.org/whats-on/pierre-alechinksy/", "verified": "2026-11-16" },
+    { "title": "Queen Elizabeth II: Her Life in Style", "venue": "The King's Gallery, Buckingham Palace", "closes": "2027-04-18", "price": "2027 adult £24", "source": "https://www.rct.uk/event/queen-elizabeth-ii-her-life-in-style", "verified": "2026-11-16" },
+    { "title": "Becoming America: How Science Shaped a Nation", "venue": "Science Museum", "closes": "2027-04-25", "price": "Free, ticketed", "source": "https://www.sciencemuseum.org.uk/see-and-do/becoming-america", "verified": "2026-11-16" },
+    { "title": "Metamorphoses: Porcelain Sculpture by Rachel Kneebone", "venue": "Wallace Collection", "closes": "2027-04-25", "price": "Free", "source": "https://www.wallacecollection.org/whats-on/exhibitions-displays/metamorphoses-porcelain-sculpture-by-rachel-kneebone/", "verified": "2026-11-16" }
+  ],
+  "royalObservatory": { "detail": "Closed for refurbishment; the Meridian Courtyard reopens in summer 2027.", "source": "https://www.rmg.co.uk/royal-observatory/transformation", "verified": "2026-11-16" },
+  "weatherAndDaylight": { "source": "https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/heathrowdata.txt", "daylightSource": "https://api.sunrise-sunset.org/", "verified": "2026-11-16" },
+  "gaps": [
+    "Olivier Awards 2027 date - not published on 16 November 2026.",
+    "St George's Day in Trafalgar Square - not on the Mayor's 2027 events list on 16 November 2026.",
+    "Ideal Home Show 2027 ticket prices - the See Tickets page returns 403 to curl.",
+    "Hampton Court Palace tulip and Easter programmes - hrp.org.uk returns 403 to curl.",
+    "Ticket prices for Characters of Fashion (Barbican), Ink (Tate Modern) and South Asia Now (V&A East) - not yet published."
+  ],
+  "flagsForHuman": [
+    "The hero is the Isle of Dogs marathon photo already placed in london-marathon-guide; swap it if an April-specific photo turns up."
+  ],
+  "lessonsForNextMonth": [
+    "May 2027 has two bank holidays (3 and 31 May), the London Coffee Festival (13 to 16 May), the Women's FA Cup final and England v France in the Women's Six Nations (both 15 May) and the FA Cup final (22 May)."
+  ]
+}

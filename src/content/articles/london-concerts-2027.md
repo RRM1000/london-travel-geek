@@ -180,6 +180,8 @@ For Wembley, our [where to stay near Wembley Stadium](/articles/where-to-stay-ne
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows, month by month
+- 🗓️ **[Things to Do in London in March](/articles/things-to-do-in-london-in-march/)** and **[in April](/articles/things-to-do-in-london-in-april/)**: the arena dates alongside the month's other events
 - 🎪 **[London Music Festivals 2027](/articles/london-music-festivals-2027/)**: BST Hyde Park, All Points East, Brockwell Park and the ones a train ride away
 - 🎤 **[Best Live Music Venues in London](/articles/best-live-music-venues-london/)**: the smaller rooms, from clubs to concert halls
 - 📅 **[Major Events Calendar](/whats-on/big-events/)**: the big gigs, sport and shows by month

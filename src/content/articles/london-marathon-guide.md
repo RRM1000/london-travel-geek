@@ -391,6 +391,7 @@ The **free post-race TfL travel is for runners showing a bib**, not for the peop
 
 ## Continue planning your London trip
 
+- 🗓️ **[Things to Do in London in April](/articles/things-to-do-in-london-in-april/)** — the Boat Race, the end of the Easter holidays and the rest of marathon month
 - 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the Boat Race two weeks earlier, the FA Cup semi-finals on marathon Saturday, and the rest of the year
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**

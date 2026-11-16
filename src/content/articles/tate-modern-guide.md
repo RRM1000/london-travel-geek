@@ -222,6 +222,7 @@ Tate Modern is on **Bankside, SE1 9TG**.
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🚶 **[The South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)**: the riverside walk that passes Tate Modern at stop 7.
 - 🚶 **[Bankside and Borough Walk](/articles/bankside-borough-walk/)**: from Tate Modern to Borough Market, Southwark Cathedral and the George Inn.
 - 🗺️ **[South Bank Area Guide](/articles/south-bank-area-guide/)**: the river path, Borough Market and where to eat.

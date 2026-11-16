@@ -292,6 +292,7 @@ The garden squares, Lamb's Conduit Street and the small free museums of Bloomsbu
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)** — the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🏛️ **[Bloomsbury Area Guide](/articles/bloomsbury-area-guide/)** — the garden squares, bookshops and small museums around the British Museum.
 - 🛏️ **[Where to Stay in Bloomsbury](/articles/where-to-stay-bloomsbury/)** — hotels a few minutes' walk from the colonnade.
 - 🖼️ **[Best Museums in London](/articles/best-museums-london/)** — the other free national museums and the small ones nearby.

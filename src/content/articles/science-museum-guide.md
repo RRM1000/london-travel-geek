@@ -205,6 +205,7 @@ Our [step-free London guide](/articles/step-free-london/) covers the station and
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🏛️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)**: the station subway, the three museums and where to eat.
 - 🦕 **[Natural History Museum Guide](/articles/natural-history-museum-guide/)**: the three entrances, Hope the blue whale and paid exhibitions.
 - 🎨 **[V&A Guide](/articles/v-and-a-guide/)**: Friday late opening, the Cast Courts and the Raphael Cartoons.

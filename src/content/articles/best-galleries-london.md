@@ -408,6 +408,7 @@ Headset reconstructions you **walk through rather than watch** — the Colosseum
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 👀 **[The Best Views in London](/articles/best-views-london/)**

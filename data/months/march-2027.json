@@ -1,0 +1,231 @@
+{
+  "month": "march",
+  "year": 2027,
+  "compiled": "2026-11-16",
+  "researched": "2026-11-16",
+  "status": "RESEARCHED from organiser pages on 16 November 2026. The annual spine is data/months/march.json. Anything the organiser had not published by 16 November is listed under gaps and left out of the article.",
+  "note": "THE OVERLAY. Everything here is true only in 2027. Every entry carries the source it came from.",
+  "easter": {
+    "goodFriday": "2027-03-26",
+    "easterSunday": "2027-03-28",
+    "easterMonday": "2027-03-29",
+    "source": "https://www.gov.uk/bank-holidays.json",
+    "schoolHoliday": "Friday 26 March to Friday 9 April 2027 (Camden, Lambeth, Royal Greenwich); summer term starts Monday 12 April",
+    "schoolSources": [
+      "https://www.camden.gov.uk/term-dates",
+      "https://www.lambeth.gov.uk/schools-education/school-term-holiday-dates/school-term-dates-2026-2027",
+      "https://www.royalgreenwich.gov.uk/schools-and-education/school-term-dates/term-dates-2026-2027"
+    ],
+    "shops": "Shops over 280 square metres must close on Easter Sunday.",
+    "shopsSource": "https://www.gov.uk/trading-hours-for-retailers-the-law",
+    "clocks": "Clocks go forward 1 hour at 1am on Sunday 28 March 2027, which is Easter Sunday.",
+    "clocksSource": "https://www.gov.uk/when-do-the-clocks-change",
+    "verified": "2026-11-16"
+  },
+  "festivals": {
+    "stPatricks": {
+      "date": "Sunday 14 March 2027, 12pm to 6pm",
+      "where": "Parade from Hyde Park Corner to Trafalgar Square, festival in the square",
+      "price": "Free",
+      "source": "https://www.london.gov.uk/events/st-patricks-day",
+      "verified": "2026-11-16"
+    },
+    "moveIt": {
+      "dates": "19 to 21 March 2027",
+      "venue": "ExCeL London",
+      "prices": "Standard £34.65, VIP £114.25",
+      "source": "https://www.moveitdance.co.uk/",
+      "verified": "2026-11-16"
+    }
+  },
+  "sport": {
+    "englandScotland": {
+      "date": "Saturday 13 March 2027, 16:40",
+      "venue": "Allianz Stadium Twickenham",
+      "source": "src/content/articles/london-sporting-events-2027.md",
+      "verified": "2026-11-16"
+    },
+    "walesAway": {
+      "date": "Saturday 6 March 2027",
+      "note": "Away in Wales",
+      "source": "src/content/articles/london-sporting-events-2027.md"
+    },
+    "headOfTheRiver": {
+      "date": "Saturday 20 March 2027, 14:45",
+      "source": "https://www.horr.co.uk/",
+      "verified": "2026-11-16"
+    },
+    "showdown7": {
+      "date": "Saturday 20 March 2027",
+      "what": "Saracens v Harlequins at Tottenham Hotspur Stadium",
+      "source": "https://www.tottenhamhotspurstadium.com/events/1181477/saracens-the-showdown-7",
+      "verified": "2026-11-16"
+    },
+    "carabaoCupFinal": {
+      "date": "Sunday 21 March 2027",
+      "venue": "Wembley",
+      "source": "https://www.efl.com/competitions/carabao-cup/",
+      "verified": "2026-11-16"
+    }
+  },
+  "exhibitions": {
+    "opening": [
+      {
+        "title": "Catharina van Hemessen: Signature Works",
+        "venue": "National Gallery, Room 1",
+        "runs": "4 March to 30 May 2027",
+        "price": "Free",
+        "source": "https://www.nationalgallery.org.uk/exhibitions/catharina-van-hemessen",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "Mary Cassatt: Radical Impressionist",
+        "venue": "National Portrait Gallery",
+        "runs": "11 March to 13 June 2027",
+        "price": "Tickets not yet on sale",
+        "source": "https://www.npg.org.uk/whatson/events-calendar/?what=exhibition",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "Punk to Pop",
+        "venue": "V&A South Kensington",
+        "runs": "Opens 13 March 2027",
+        "price": "Tickets available soon",
+        "source": "https://www.vam.ac.uk/exhibitions/punk-to-pop",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "Matt Copson",
+        "venue": "Serpentine North",
+        "runs": "16 March to 22 August 2027",
+        "price": "Free",
+        "source": "https://www.serpentinegalleries.org/whats-on/matt-copson/",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "German Expressionism: Modern Painting 1900-1918",
+        "venue": "National Gallery, Sainsbury Wing",
+        "runs": "18 March to 1 August 2027",
+        "price": "Not published; Members free",
+        "source": "https://www.nationalgallery.org.uk/exhibitions/german-expressionism-modern-painting-1900-1918",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "Sonia Boyce",
+        "venue": "Tate Britain",
+        "runs": "26 March to 22 August 2027",
+        "price": "To be confirmed",
+        "source": "https://www.tate.org.uk/whats-on/tate-britain/sonia-boyce",
+        "verified": "2026-11-16"
+      }
+    ],
+    "stillRunning": [
+      {
+        "title": "Monet: Painting Time",
+        "venue": "Tate Modern",
+        "runs": "25 February to 27 June 2027",
+        "price": "£26, concessions £25; open to 10pm on selected dates from 22 March",
+        "source": "https://www.tate.org.uk/whats-on/tate-modern/monet",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "Van Eyck: The Portraits",
+        "venue": "National Gallery",
+        "runs": "to 11 April 2027",
+        "price": "£18, under-18s free",
+        "source": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "Peter Blake: Pop Art Life",
+        "venue": "National Portrait Gallery",
+        "runs": "11 February to 23 May 2027",
+        "price": "£19 Mon-Thu, £21 Fri-Sun",
+        "source": "https://www.npg.org.uk/whatson/events-calendar/?what=exhibition",
+        "verified": "2026-11-16"
+      },
+      {
+        "title": "Bayeux Tapestry",
+        "venue": "British Museum",
+        "runs": "to 11 July 2027",
+        "price": "Sold out to 31 March; April to July released early 2027",
+        "source": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+        "verified": "2026-10-17",
+        "verifiedNote": "Dates re-read on britishmuseum.org/exhibitions-events on 16 November 2026; the exhibition page itself returns 403 to curl, so the sold-out status is carried from the British Museum guide."
+      }
+    ]
+  },
+  "exhibitionsClosing": [
+    {
+      "title": "Gathering Ground",
+      "venue": "Tate Modern",
+      "closes": "2027-03-07",
+      "price": "Free",
+      "source": "https://www.tate.org.uk/whats-on/tate-modern/gathering-ground",
+      "verified": "2026-11-16"
+    },
+    {
+      "title": "Andrius Arutiunian: They Tried to Count Us",
+      "venue": "Hayward Gallery",
+      "closes": "2027-03-07",
+      "price": "Free",
+      "source": "https://www.southbankcentre.co.uk/whats-on/andrius-arutiunian-they-tried-to-count-us/",
+      "verified": "2026-11-16"
+    },
+    {
+      "title": "Peggy Guggenheim in London",
+      "venue": "Royal Academy",
+      "closes": "2027-03-14",
+      "price": "£17",
+      "source": "https://www.royalacademy.org.uk/exhibition/peggy-guggenheim-in-london",
+      "verified": "2026-11-16"
+    },
+    {
+      "title": "Nan Goldin: You Never Did Anything Wrong",
+      "venue": "Hayward Gallery",
+      "closes": "2027-03-14",
+      "price": "£19, closed Mondays",
+      "source": "https://www.southbankcentre.co.uk/whats-on/nan-goldin-you-never-did-anything-wrong/",
+      "verified": "2026-11-16"
+    },
+    {
+      "title": "Multiplied wonders: Italian Renaissance woodcuts",
+      "venue": "British Museum",
+      "closes": "2027-03-21",
+      "price": "Free",
+      "source": "https://www.britishmuseum.org/exhibitions-events",
+      "verified": "2026-11-16"
+    },
+    {
+      "title": "Cosimo I de' Medici: Art and Dynasty",
+      "venue": "Wallace Collection",
+      "closes": "2027-03-21",
+      "price": "Free",
+      "source": "https://www.wallacecollection.org/whats-on/exhibitions-displays/cosimo-i-de-medici-art-and-dynasty/",
+      "verified": "2026-11-16"
+    }
+  ],
+  "royalObservatory": {
+    "detail": "Closed for refurbishment since 2 November 2026; the Meridian Courtyard reopens in summer 2027, tickets on sale in January.",
+    "source": "https://www.rmg.co.uk/royal-observatory/transformation",
+    "verified": "2026-11-16"
+  },
+  "weatherAndDaylight": {
+    "source": "https://www.metoffice.gov.uk/pub/data/weather/uk/climate/stationdata/heathrowdata.txt",
+    "daylightSource": "https://api.sunrise-sunset.org/",
+    "verified": "2026-11-16"
+  },
+  "gaps": [
+    "Kew Orchid Festival 2027 - not on Kew's what's-on page on 16 November 2026.",
+    "Hampton Court Palace and the Tower of London Easter programmes - hrp.org.uk returns 403 to curl; check by hand.",
+    "TfL Easter engineering works - not published on 16 November 2026.",
+    "Ticket prices for Mary Cassatt (NPG), Punk to Pop (V&A), German Expressionism (National Gallery) and Sonia Boyce (Tate Britain) - not yet published."
+  ],
+  "flagsForHuman": [
+    "The hero is the Tate Modern frontage photo already placed in best-galleries-london; swap it for a March-specific photo if one turns up.",
+    "src/data/events.json has Nan Goldin at the Hayward ending 7 March; the Southbank Centre's page says 14 March 2027. events.json is written from the Sheet, so fix the Sheet row."
+  ],
+  "lessonsForNextMonth": [
+    "Easter 2027 straddles the March/April line: the bank holiday weekend is in March, the school holiday runs to 9 April. Keep both month pages consistent."
+  ]
+}

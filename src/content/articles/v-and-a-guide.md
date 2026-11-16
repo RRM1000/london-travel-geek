@@ -201,6 +201,7 @@ See our [step-free London guide](/articles/step-free-london/) for the Tube.
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🏛️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)**: the station subway, the three museums and where to eat.
 - 🔬 **[Science Museum Guide](/articles/science-museum-guide/)**: the free timed ticket, Wonderlab and the galleries worth the walk.
 - 🦕 **[Natural History Museum Guide](/articles/natural-history-museum-guide/)**: the three entrances, Hope the blue whale and paid exhibitions.

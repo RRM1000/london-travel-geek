@@ -85,9 +85,9 @@ Averages are the Met Office's 1991-2020 normals for **Heathrow**. Sunrise and su
 
 ### Spring: March to May
 
-**March** is the driest month (39mm) and still cold (12°C average high). Good Friday and Easter Monday fall on **26 and 29 March 2027**, with the Easter school holidays starting the same Friday and running to **9 April**. British Summer Time begins on **28 March 2027** — clocks go forward at 1am — which is Easter Sunday that year.
+**March** is the driest month (39mm) and still cold (12°C average high). Good Friday and Easter Monday fall on **26 and 29 March 2027**, with the Easter school holidays starting the same Friday and running to **9 April**. British Summer Time begins on **28 March 2027** — clocks go forward at 1am — which is Easter Sunday that year. Our [March guide](/articles/things-to-do-in-london-in-march/) has the Easter weekend, the last Six Nations game and the exhibitions opening.
 
-**April** averages 15°C (March: 12°C) and has just over two more hours of daylight than March by mid-month. **The Boat Race** is on **Sunday 11 April 2027**, and the **TCS London Marathon** runs across **two days, Saturday 24 and Sunday 25 April 2027**.
+**April** averages 15°C (March: 12°C) and has just over two more hours of daylight than March by mid-month. **The Boat Race** is on **Sunday 11 April 2027**, and the **TCS London Marathon** runs across **two days, Saturday 24 and Sunday 25 April 2027**. Our [April guide](/articles/things-to-do-in-london-in-april/) has both, with Vaisakhi and the month's openings.
 
 ![The elite women's field running past spectators and a brass band on a London street during the TCS London Marathon](../../assets/articles/best-time-to-visit-london/london-marathon-runners.jpg)
 *The Marathon's elite women's field.*
@@ -130,6 +130,6 @@ Averages are the Met Office's 1991-2020 normals for **Heathrow**. Sunrise and su
 - 🏃 **[The London Marathon Guide](/articles/london-marathon-guide/)** and **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)** — entry routes for the two biggest sporting dates
 - 🎬 **[The BFI London Film Festival](/articles/london-film-festival/)** — booking dates and a practical plan
 - 🎪 **[London Music Festivals 2027](/articles/london-music-festivals-2027/)** — the summer park festivals, the 2027 dates already set and the ones a train ride away
-- 🗓️ **[Things to Do in London in September](/articles/things-to-do-in-london-in-september/)**, **[in October](/articles/things-to-do-in-london-in-october/)**, **[in November](/articles/things-to-do-in-london-in-november/)**, **[in December](/articles/things-to-do-in-london-in-december/)**, **[in January](/articles/things-to-do-in-london-in-january/)** and **[in February](/articles/things-to-do-in-london-in-february/)** — the month-by-month detail this guide points to
+- 🗓️ **[Things to Do in London in September](/articles/things-to-do-in-london-in-september/)**, **[in October](/articles/things-to-do-in-london-in-october/)**, **[in November](/articles/things-to-do-in-london-in-november/)**, **[in December](/articles/things-to-do-in-london-in-december/)**, **[in January](/articles/things-to-do-in-london-in-january/)**, **[in February](/articles/things-to-do-in-london-in-february/)**, **[in March](/articles/things-to-do-in-london-in-march/)** and **[in April](/articles/things-to-do-in-london-in-april/)** — the month-by-month detail this guide points to
 
 *Weather: Met Office 1991-2020 averages for Heathrow. Sunrise and sunset for central London, in local time. School holidays: Camden's 2026-27 calendar; other boroughs and academies vary. Bank holidays: GOV.UK. Event dates from each organiser. Visitor figures: the ONS's monthly figures for January to June 2024. Hotel rates: medians across 51 budget London hotels priced on 14-15 September 2026.*

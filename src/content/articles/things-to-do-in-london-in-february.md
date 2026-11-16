@@ -115,7 +115,7 @@ Gates open three and a half hours before an England international. Near the stat
 
 ### Still running
 
-**Van Eyck: The Portraits** at the National Gallery runs to 11 April, **Peggy Guggenheim in London** at the Royal Academy to 14 March, and **Vanessa Bell & Duncan Grant: Inside Bloomsbury** at Tate Britain to 11 April. The British Museum's free **Multiplied wonders: Italian Renaissance woodcuts** runs to 21 March. The **Bayeux Tapestry** at the British Museum is sold out to 31 March; tickets for April to July are due for release in early 2027 on the [British Museum's page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). **Rooms 6b, 7 and 8 at the British Museum are closed from 8 to 19 February.** The free museums are in our [best museums guide](/articles/best-museums-london/).
+**Van Eyck: The Portraits** at the National Gallery runs to 11 April, **Peggy Guggenheim in London** at the Royal Academy to 14 March, and **Vanessa Bell & Duncan Grant: Inside Bloomsbury** at Tate Britain to 11 April. The British Museum's free **Multiplied wonders: Italian Renaissance woodcuts** runs to 21 March. The **Bayeux Tapestry** at the British Museum is sold out to 31 March; tickets for April to July are due for release in early 2027 on the [British Museum's page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). **Rooms 6b, 7 and 8 at the British Museum are closed from 8 to 19 February.** The free museums are in our [best museums guide](/articles/best-museums-london/), and the year's openings are in [London exhibitions 2027](/articles/london-exhibitions-2027/).
 
 ## Ice skating
 
@@ -139,7 +139,7 @@ The dispute is with London Underground's drivers. Our [getting around London gui
 
 **Crowds.** Half term, 15 to 19 February, refills the family attractions, and the two Twickenham match days pack Twickenham station. In the ONS's last monthly breakdown, February had the fewest overseas visits to Great Britain of January to June 2024: 2.46 million, against 3.36 million in January.
 
-**Choosing your month?** [Best time to visit London](/articles/best-time-to-visit-london/) compares February with the rest of the year, and [January's guide](/articles/things-to-do-in-london-in-january/) covers the month before. With children, see [London with children](/articles/london-with-children/).
+**Choosing your month?** [Best time to visit London](/articles/best-time-to-visit-london/) compares February with the rest of the year, [January's guide](/articles/things-to-do-in-london-in-january/) covers the month before, and [March's guide](/articles/things-to-do-in-london-in-march/) the month after, with England v Scotland and an early Easter. With children, see [London with children](/articles/london-with-children/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-february-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

@@ -206,6 +206,7 @@ More routes are in our [step-free London guide](/articles/step-free-london/).
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🏛️ **[South Kensington Area Guide](/articles/south-kensington-area-guide/)**: the station tunnel, the V&A and Science Museum next door, and where to eat.
 - 🔬 **[Science Museum Guide](/articles/science-museum-guide/)**: the free timed ticket, Wonderlab, IMAX and the galleries worth the walk.
 - 🎨 **[V&A Guide](/articles/v-and-a-guide/)**: free entry, Friday late opening and paid exhibitions.

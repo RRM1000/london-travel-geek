@@ -400,6 +400,7 @@ Beyond the walrus there is a serious anthropology collection, a musical instrume
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🎨 **[The Best Galleries in London](/articles/best-galleries-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[Historic Houses in London](/articles/historic-houses-london/)**

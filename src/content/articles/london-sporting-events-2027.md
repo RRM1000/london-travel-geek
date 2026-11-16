@@ -136,6 +136,8 @@ For Wembley, [where to stay near Wembley Stadium](/articles/where-to-stay-near-w
 
 ## Continue planning your London trip
 
+- 🗓️ **[Things to Do in London in March](/articles/things-to-do-in-london-in-march/)** and **[in April](/articles/things-to-do-in-london-in-april/)**: England v Scotland, the Carabao Cup final, the Boat Race and the Marathon with the rest of each month
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)**: the year's big museum and gallery shows, month by month
 - 📅 **[Major Events Calendar](/whats-on/big-events/)**: the big gigs, sport and shows by month
 - 🎤 **[London Concerts 2027](/articles/london-concerts-2027/)**: every stadium, arena and park gig announced
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**

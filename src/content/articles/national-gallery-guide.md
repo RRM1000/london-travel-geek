@@ -212,6 +212,7 @@ The **National Portrait Gallery** is round the corner, free to enter. Our [best 
 
 ## Continue planning your London trip
 
+- 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)** — the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🏛️ **[Best Museums in London](/articles/best-museums-london/)** — the other free national museums and the small ones nearby.
 - 🖼️ **[Best Galleries in London](/articles/best-galleries-london/)** — Tate Modern, Tate Britain and the Wallace Collection compared.
 - 🏺 **[British Museum Guide](/articles/british-museum-guide/)** — the free museum a few minutes' walk north-east.

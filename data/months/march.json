@@ -1,0 +1,129 @@
+{
+  "month": "march",
+  "monthNumber": 3,
+  "article": "src/content/articles/things-to-do-in-london-in-march.md",
+  "note": "THE SPINE. What is true about March EVERY year: the annual fixtures as date RULES, and the character of the month. Everything true in one year only lives in march-<year>.json. Same shape as the January spine so scripts/check-month-freshness.mjs reads both the same way.",
+  "rules": "A fixture belongs here only if it recurs annually AND is run by a body with a website. Dates come from the organiser, never a listings site. Every entry carries `official` and `verified`. If a fixture is missed in a year, do not delete it: set `status` and say why. Anything a listings site or a language model will confidently place in March that is actually elsewhere goes in `notInMarch` with the proof.",
+  "character": {
+    "inOneLine": "The driest month at Heathrow, with the Six Nations finishing, St Patrick's weekend in Trafalgar Square, the Carabao Cup final and, in years when Easter is early, the bank holiday weekend and the clocks going forward.",
+    "weather": "Met Office Heathrow monthly records, 1991 to 2020 averages (computed from the station data file): a daily high of 11.7C, a daily low of 4.1C, 38.8mm of rain (the lowest of any month), 119.6 hours of sunshine and 3.0 air-frost days.",
+    "daylight": "Central London (51.5074N, 0.1278W). In 2027: sunset 5.40pm on 1 March, 6.04pm on the 15th, 6.24pm on the 27th, then 7.26pm on the 28th when British Summer Time starts, and 7.31pm on the 31st. Day length grows from 10 hours 54 minutes to 12 hours 53 minutes. Source: api.sunrise-sunset.org with tzid=Europe/London.",
+    "crowds": "No half term. The Easter school holidays start in late March when Easter is early (2027: from Friday 26 March). Twickenham and Wembley fill on the final Six Nations weekend and Carabao Cup final day.",
+    "seasonShape": "Mothering Sunday (three Sundays before Easter), the last Six Nations weekend and St Patrick's festival in the middle, the Head of the River Race and the Carabao Cup final in the second half, and Easter plus the clock change at the end in an early-Easter year."
+  },
+  "standingSections": {
+    "note": "Slots that recur every year. Source each from the operator, not a listings site.",
+    "exhibitionsOpeningAndClosing": {
+      "sourceFrom": "Each museum's own what's-on page. March is a big opening month: the National Gallery, NPG, V&A and Tate Britain all opened a major show in March 2027."
+    },
+    "sport": {
+      "sourceFrom": "The Six Nations fixture list, the EFL's Carabao Cup page and src/content/articles/london-sporting-events-<year>.md, which the month page must agree with."
+    },
+    "easter": {
+      "sourceFrom": "gov.uk/bank-holidays.json for the bank holidays; borough term-date pages (Camden, Lambeth, Royal Greenwich) for the school holiday; gov.uk/trading-hours-for-retailers-the-law for Easter Sunday shop closures."
+    }
+  },
+  "fixtures": [
+    {
+      "id": "mothering-sunday",
+      "name": "Mothering Sunday",
+      "what": "The UK's Mother's Day: the fourth Sunday of Lent, three weeks before Easter Sunday.",
+      "dateRule": "Three Sundays before Easter Sunday. 2027: Sunday 7 March.",
+      "typical": "March, occasionally late February or early April",
+      "official": "https://www.gov.uk/bank-holidays",
+      "verified": "2026-11-16",
+      "verifiedNote": "Computed from Easter Sunday 2027 (28 March); gov.uk lists Good Friday 26 March and Easter Monday 29 March."
+    },
+    {
+      "id": "st-patricks-festival",
+      "name": "St Patrick's Festival, Trafalgar Square",
+      "what": "The Mayor of London's free festival: a parade from Hyde Park Corner to Trafalgar Square, then music, food and family activities in the square.",
+      "dateRule": "A Sunday near 17 March. 2027: Sunday 14 March, 12pm to 6pm.",
+      "typical": "The Sunday on or before 17 March",
+      "area": "Hyde Park Corner, Piccadilly, Trafalgar Square",
+      "price": "Free",
+      "official": "https://www.london.gov.uk/events/st-patricks-day",
+      "verified": "2026-11-16"
+    },
+    {
+      "id": "six-nations-final-weekend",
+      "name": "Six Nations, England at Twickenham",
+      "what": "England's home games at Allianz Stadium, Twickenham. The final round is in mid-March.",
+      "dateRule": "Fixture list set by Six Nations Rugby. 2027: England v Scotland, Saturday 13 March, 16:40.",
+      "typical": "February to mid-March",
+      "area": "Twickenham",
+      "price": "Ticketed",
+      "booking": "England Rugby",
+      "official": "https://www.englandrugby.com/tickets",
+      "verified": "2026-11-16",
+      "internalLink": "/articles/london-sporting-events-2027/"
+    },
+    {
+      "id": "head-of-the-river-race",
+      "name": "Head of the River Race",
+      "what": "A processional race for men's eights downstream from Mortlake to Putney, the reverse of the Boat Race course.",
+      "dateRule": "A Saturday in March, set to the tide. 2027: Saturday 20 March, 14:45.",
+      "typical": "Mid-to-late March",
+      "area": "The Thames, Mortlake to Putney",
+      "price": "Free to watch",
+      "official": "https://www.horr.co.uk/",
+      "verified": "2026-11-16"
+    },
+    {
+      "id": "carabao-cup-final",
+      "name": "Carabao Cup final",
+      "what": "The EFL's League Cup final at Wembley.",
+      "dateRule": "A Sunday in March, set by the EFL. 2027: Sunday 21 March.",
+      "typical": "Late February to late March",
+      "area": "Wembley",
+      "price": "Ticketed",
+      "booking": "Through the two finalists",
+      "official": "https://www.efl.com/competitions/carabao-cup/",
+      "verified": "2026-11-16",
+      "internalLink": "/articles/london-sporting-events-2027/"
+    },
+    {
+      "id": "clocks-forward",
+      "name": "British Summer Time starts",
+      "what": "Clocks go forward one hour at 1am.",
+      "dateRule": "Last Sunday in March. 2027: Sunday 28 March.",
+      "typical": "25 to 31 March",
+      "official": "https://www.gov.uk/when-do-the-clocks-change",
+      "verified": "2026-11-16"
+    },
+    {
+      "id": "easter-weekend",
+      "name": "Easter weekend",
+      "what": "Good Friday and Easter Monday are bank holidays; shops over 280 square metres must close on Easter Sunday.",
+      "dateRule": "Moveable. 2027: Good Friday 26 March, Easter Sunday 28 March, Easter Monday 29 March. Falls in April in most years.",
+      "typical": "Late March to late April",
+      "official": "https://www.gov.uk/bank-holidays",
+      "verified": "2026-11-16"
+    }
+  ],
+  "notInMarch": [
+    {
+      "name": "The Boat Race",
+      "theError": "Often listed as a late-March event.",
+      "theTruth": "Sunday 11 April 2027, races at 15.40 and 16.40.",
+      "official": "https://www.theboatrace.org/",
+      "verified": "2026-11-16"
+    },
+    {
+      "name": "Ideal Home Show",
+      "theError": "Historically a March show at Olympia.",
+      "theTruth": "2 to 11 April 2027 at Olympia.",
+      "official": "https://www.idealhomeshow.co.uk/",
+      "verified": "2026-11-16"
+    }
+  ],
+  "recurringButUnverified": [
+    {
+      "id": "kew-orchid-festival",
+      "name": "Kew Orchid Festival",
+      "typical": "February to March in the Princess of Wales Conservatory",
+      "official": "https://www.kew.org/kew-gardens/whats-on",
+      "reason": "No 2027 dates on Kew's what's-on page on 16 November 2026."
+    }
+  ]
+}

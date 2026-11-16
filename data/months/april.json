@@ -1,0 +1,117 @@
+{
+  "month": "april",
+  "monthNumber": 4,
+  "article": "src/content/articles/things-to-do-in-london-in-april.md",
+  "note": "THE SPINE. What is true about April EVERY year: the annual fixtures as date RULES, and the character of the month. Everything true in one year only lives in april-<year>.json. Same shape as the January spine so scripts/check-month-freshness.mjs reads both the same way.",
+  "rules": "A fixture belongs here only if it recurs annually AND is run by a body with a website. Dates come from the organiser, never a listings site. Every entry carries `official` and `verified`. If a fixture is missed in a year, do not delete it: set `status` and say why. Anything a listings site or a language model will confidently place in April that is actually elsewhere goes in `notInApril` with the proof.",
+  "character": {
+    "inOneLine": "The first month on British Summer Time all the way through, with the Boat Race, the London Marathon, the FA Cup semi-finals, Vaisakhi in Trafalgar Square and, in most years, Easter.",
+    "weather": "Met Office Heathrow monthly records, 1991 to 2020 averages (computed from the station data file): a daily high of 15.0C, a daily low of 6.0C, 42.3mm of rain, 169.3 hours of sunshine and 0.8 air-frost days.",
+    "daylight": "Central London (51.5074N, 0.1278W), BST all month. In 2027: sunset 7.32pm on 1 April, 7.56pm on the 15th and 8.21pm on the 30th; sunrise moves from 6.35am to 5.34am. Day length grows from 12 hours 57 minutes to 14 hours 47 minutes. Source: api.sunrise-sunset.org with tzid=Europe/London.",
+    "crowds": "The Easter school holidays cover the first one or two weeks (2027: to Friday 9 April). Marathon weekend fills hotels in the east and centre; FA Cup semi-final weekend fills Wembley.",
+    "seasonShape": "Easter holidays and the Ideal Home Show at the start, the Boat Race and the big exhibition openings in the middle, Vaisakhi and St George's Day after that, and the Marathon and FA Cup semi-finals to close."
+  },
+  "standingSections": {
+    "note": "Slots that recur every year. Source each from the operator, not a listings site.",
+    "exhibitionsOpeningAndClosing": {
+      "sourceFrom": "Each museum's own what's-on page. Several winter shows close in the first half of April."
+    },
+    "sport": {
+      "sourceFrom": "theboatrace.org, londonmarathonevents.co.uk, the FA's round-dates page and src/content/articles/london-sporting-events-<year>.md, which the month page must agree with."
+    }
+  },
+  "fixtures": [
+    {
+      "id": "the-boat-race",
+      "name": "The Boat Race",
+      "what": "Oxford v Cambridge, women's and men's eights, on the Championship Course from Putney to Mortlake.",
+      "dateRule": "A Saturday or Sunday in late March or April, set to the tide. 2027: Sunday 11 April, races at 15.40 and 16.40.",
+      "typical": "Late March to mid-April",
+      "area": "The Thames, Putney to Mortlake",
+      "price": "Free to watch",
+      "official": "https://www.theboatrace.org/",
+      "verified": "2026-11-16",
+      "internalLink": "/articles/london-sporting-events-2027/"
+    },
+    {
+      "id": "london-marathon",
+      "name": "TCS London Marathon",
+      "what": "The marathon from Greenwich to The Mall. In 2027 only, it runs over two days with 100,000 runners.",
+      "dateRule": "Usually a Sunday in late April. 2027: Saturday 24 and Sunday 25 April.",
+      "typical": "Late April",
+      "area": "Greenwich, Docklands, the Embankment, The Mall",
+      "price": "Free to watch",
+      "official": "https://www.londonmarathonevents.co.uk/london-marathon",
+      "verified": "2026-11-16",
+      "internalLink": "/articles/london-marathon-guide/"
+    },
+    {
+      "id": "fa-cup-semi-finals",
+      "name": "FA Cup semi-finals",
+      "what": "Both semi-finals at Wembley.",
+      "dateRule": "Set by the FA. 2027: the weekend of Saturday 24 April.",
+      "typical": "Mid-to-late April",
+      "area": "Wembley",
+      "price": "Ticketed",
+      "booking": "Through the clubs once the ties are known",
+      "official": "https://www.thefa.com/competitions/thefacup/round-dates",
+      "verified": "2026-11-16",
+      "internalLink": "/articles/london-sporting-events-2027/"
+    },
+    {
+      "id": "vaisakhi-on-the-square",
+      "name": "Vaisakhi on the Square",
+      "what": "The Mayor of London's free celebration of Sikh culture in Trafalgar Square, with performances, langar and free vegetarian food.",
+      "dateRule": "A Saturday in April. 2027: Saturday 17 April, 12pm to 6pm.",
+      "typical": "Mid-April",
+      "area": "Trafalgar Square",
+      "price": "Free",
+      "official": "https://www.london.gov.uk/events/vaisakhi-square-2027",
+      "verified": "2026-11-16"
+    },
+    {
+      "id": "ideal-home-show",
+      "name": "Ideal Home Show",
+      "what": "The home and garden show at Olympia, with an Eat & Drink Festival inside.",
+      "dateRule": "Ten days in spring. 2027: 2 to 11 April.",
+      "typical": "Late March to mid-April",
+      "area": "Olympia London",
+      "price": "Ticketed",
+      "booking": "See Tickets, from the show's site",
+      "official": "https://www.idealhomeshow.co.uk/",
+      "verified": "2026-11-16"
+    }
+  ],
+  "notInApril": [
+    {
+      "name": "London Coffee Festival",
+      "theError": "Long an April event at the Truman Brewery.",
+      "theTruth": "13 to 16 May 2027.",
+      "official": "https://www.londoncoffeefestival.com/",
+      "verified": "2026-11-16"
+    },
+    {
+      "name": "Easter",
+      "theError": "Assumed to be in April.",
+      "theTruth": "Easter Sunday 2027 is 28 March; Good Friday and Easter Monday are in March. Only the school holiday runs on into April, to 9 April.",
+      "official": "https://www.gov.uk/bank-holidays",
+      "verified": "2026-11-16"
+    }
+  ],
+  "recurringButUnverified": [
+    {
+      "id": "olivier-awards",
+      "name": "The Olivier Awards",
+      "typical": "A Sunday in April at the Royal Albert Hall (12 April in 2026)",
+      "official": "https://officiallondontheatre.com/olivier-awards/",
+      "reason": "No 2027 date published on 16 November 2026."
+    },
+    {
+      "id": "feast-of-st-george",
+      "name": "St George's Day, Trafalgar Square",
+      "typical": "On or near 23 April",
+      "official": "https://www.london.gov.uk/events",
+      "reason": "Not on the Mayor's 2027 events list on 16 November 2026."
+    }
+  ]
+}
