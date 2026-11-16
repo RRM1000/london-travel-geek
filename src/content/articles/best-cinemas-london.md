@@ -5,7 +5,7 @@ description: "Where the Lumière brothers first showed film in Britain, a 1913 c
 heroImage: "../../assets/articles/best-cinemas-london/genesis-cinema-mile-end.jpg"
 heroImageAlt: "The curved black frontage of the Genesis Cinema in Mile End, its listings board showing the week's films"
 publishedAt: 2026-08-28
-updatedAt: 2026-10-26
+updatedAt: 2026-11-16
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -275,9 +275,9 @@ It is a multiplex showing the same releases as everyone else, so this is where y
 
 Films projected beside the canal in summer and watched from the **canal steps below Granary Square**, free. No ticket, no booking, no minimum spend.
 
-**Bring something to sit on.** The steps are stone and no seating is provided.
+**Seating is the steps themselves**, first come, first served, and they close at 10pm.
 
-**It runs in summer only** and in dry weather, and the programme is announced a few weeks ahead rather than months, so check close to the date.
+**It runs in summer only**, from late June to mid-August in 2026, with Wimbledon on the screen by day during the championships.
 
 **King's Cross St Pancras is five minutes away.**
 
@@ -290,6 +290,8 @@ A working open-air cinema on top of the **Bussey Building**, 133 Rye Lane, a cou
 Popular slots sell out and **a waitlist opens once a screening does**.
 
 **Dress for it.** It is a roof in the open air, not a heated room, and a warm evening turns cold by the credits. Ponchos are handed out if it drizzles.
+
+Our [outdoor cinema guide](/articles/outdoor-cinema-london/) covers Rooftop Cinema Club's second roof in Stratford, the Barbican's August screenings, the other free summer screens and the two rooftop Christmas film nights running this winter.
 
 ---
 

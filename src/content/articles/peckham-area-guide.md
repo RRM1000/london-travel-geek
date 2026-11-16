@@ -123,6 +123,8 @@ Off the east side of Rye Lane through **Bussey Alley**, 150 metres from the stat
 
 **The Bussey Rooftop Bar** runs **year round**, from 5pm on weekdays and midday at weekends, free to walk in, dogs welcome, under-18s until 7pm. There is shelter and there are heaters, so bookings go ahead in the rain, and the drinks come in reusable polycarbonate, not glass, because there are homes below. It is **not wheelchair accessible**.
 
+**Rooftop Cinema Club** shares the roof from spring to late summer: deckchairs, wireless headphones and films from £14, adults only after 5pm. Our [outdoor cinema guide](/articles/outdoor-cinema-london/) has the details.
+
 Around it: **Jumbi**, a Black-owned HiFi rum bar; **Copeland Gallery** and **Bosse & Baum**; **Balamii** radio; a ceramics studio, a CrossFit gym and a vegan café in **Holdrons Arcade**; record shops, vintage dealers and the fashion designer Bianca Saunders. **Fitzcarraldo Editions**, the publisher, works out of the same yard.
 
 The **CLF Art Café**, the club and live venue the Bussey Building was known for, has moved to Mountview on Peckham Hill Street. The nightlife here is bars and the rooftop.

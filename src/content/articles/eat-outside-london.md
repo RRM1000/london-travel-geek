@@ -87,7 +87,7 @@ Two Victorian coal drops — the eastern one built in 1851, the western in 1860 
 
 **Down on Lower Stable Street**, a cobbled lane under the arches, the food gets cheaper and smaller: Hiden for Japanese curry, OKAN and OTON for Osaka cooking, Matchado for matcha, House of Cans for beer. A market runs there at weekends.
 
-**And then there is the free half.** **Bagley Walk** is an elevated park on the old railway viaduct above the yard, planted by Dan Pearson with liquorice, strawberries and figs, with seats and viewing points looking over the canal and Camley Street Natural Park; it runs from Granary Square to Gasholder Park. **Granary Square** has more than a thousand choreographed fountains and, better, wide south-facing steps sweeping down to the canal, grassed over in the warmer months. Nobody minds what you eat on them.
+**And then there is the free half.** **Bagley Walk** is an elevated park on the old railway viaduct above the yard, planted by Dan Pearson with liquorice, strawberries and figs, with seats and viewing points looking over the canal and Camley Street Natural Park; it runs from Granary Square to Gasholder Park. **Granary Square** has more than a thousand choreographed fountains and, better, wide south-facing steps sweeping down to the canal, grassed over in the warmer months. Nobody minds what you eat on them. From late June to mid-August they face a free film screen across the water; our [outdoor cinema guide](/articles/outdoor-cinema-london/) has the dates and the other open-air screens.
 
 > ⚠️ **Parrillan takes a winter break.** The terrace closes for part of the winter and reopens for spring, so check before making the journey for the grills specifically. Plaza Pastor and the Coal Office terrace stay open.
 

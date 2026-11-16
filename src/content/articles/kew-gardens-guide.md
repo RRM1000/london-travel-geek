@@ -244,6 +244,7 @@ From 25 October the glasshouses and the Treetop Walkway close at 3pm (Walkway la
 
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — including the riverside rooms a short walk from the gate
 - 🌳 **[London's Best Parks and Gardens](/articles/best-parks-gardens-london/)** — 17 green spaces compared across the city.
+- 🎬 **[Outdoor Cinema in London](/articles/outdoor-cinema-london/)** — Adventure Cinema's June screenings on the lawn at Kew, and the other open-air screens.
 - 🦌 **[Richmond Area Guide](/articles/richmond-area-guide/)** — the park, the river and Richmond Hill, just south of Kew.
 - 👨‍👩‍👧 **[London with Children](/articles/london-with-children/)** — more family days out, including which ones are free.
 - 🚇 **[Getting Around London: Transport Guide](/articles/getting-around-london-transport-guide/)** — how the Tube, Overground and contactless fares work.

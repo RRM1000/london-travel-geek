@@ -136,6 +136,8 @@ The Barbican is giving away plants from its Conservatory at its final plant adop
 
 ### Other Christmas nights
 
+**Christmas films on a roof**: JOIA at Battersea Power Station shows one every night to 24 December after dinner, and Kitchen at Holmes in Marylebone runs Thursday to Sunday to 20 December with a cheese fondue, in two-person huts. Both are from £75 a head; the dates are in our [outdoor cinema guide](/articles/outdoor-cinema-london/).
+
 **Matthew Bourne's Cinderella opens at Sadler's Wells on 1 December**, set in the Blitz. **Cirque Alice**, an acrobatic Alice in Wonderland, is at the Royal Festival Hall from 12 December to 3 January. **Christmas Carol Goes Wrong** opens at Wyndham's Theatre on 18 December. **Dune: Part Three** is in IMAX 70mm at the Science Museum until 3 February 2027, with tickets at [£18 to £23](https://www.sciencemuseum.org.uk/see-and-do/dune-part-three); the film is in UK cinemas from 18 December. Our [Christmas shows guide](/articles/christmas-shows-london/) lists the rest with prices, running times and age guidance, and the [London theatre guide](/articles/london-theatre-guide/) covers everything that isn't Christmas.
 
 <div data-stay-strip></div>

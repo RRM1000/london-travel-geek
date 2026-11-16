@@ -210,6 +210,8 @@ At Christmas the Power Station adds a riverside skate trail and winter food huts
 
 **Book ahead:** the Chimney Lift is timed entry and sells out at weekends — and check it is open at all, as it closes for maintenance.
 
+**Before Christmas**, JOIA on the roof of the art'otel shows a Christmas film every night from 19 November to 24 December 2026, after dinner; our [outdoor cinema guide](/articles/outdoor-cinema-london/) has the prices.
+
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
 ## Suggested half-day route

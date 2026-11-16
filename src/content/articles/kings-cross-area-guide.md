@@ -108,7 +108,7 @@ King's Cross has its own share of the commemorative plaques marking where notabl
 
 ### Granary Square and Coal Drops Yard
 
-The centre of the redevelopment. **Granary Square has more than a thousand choreographed fountains** set flush into the paving, free, lit at night and switched off in winter.
+The centre of the redevelopment. **Granary Square has more than a thousand choreographed fountains** set flush into the paving, free, lit at night and switched off in winter. From late June to mid-August the canal steps below face **Everyman on the Canal**, a free film screen on the far bank; our [outdoor cinema guide](/articles/outdoor-cinema-london/) has the details.
 
 **The granary building is Central Saint Martins**, an art school; the ground floor is open.
 

@@ -191,7 +191,7 @@ A minute past the southern end of the bridge, on Horselydown Lane, **[Tower Brid
 
 Behind Waterloo station, five minutes off the tourist route.
 
-**Lower Marsh** is a street of independent cafés, record shops and a **weekday market, roughly 11am to 3pm Monday to Friday**, closed on Saturday and Sunday.
+**Lower Marsh** is a street of independent cafés, record shops and a **weekday market, roughly 11am to 3pm Monday to Friday**, closed on Saturday and Sunday. On the last Thursday of June, July and August the street closes for **Lower Marsh Lates**, a free evening film with deckchairs; see our [outdoor cinema guide](/articles/outdoor-cinema-london/).
 
 **Leake Street** runs under the station platforms alongside it: a legal graffiti wall, free and repainted constantly, legal since Banksy's Cans Festival in 2008. Eight of the railway arches are now independent venues — a Polish restaurant, a Philadelphia dive bar, a board-game café — so the tunnel is a night out as well as a walk-through.
 

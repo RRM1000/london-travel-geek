@@ -88,6 +88,8 @@ BFI at £4 has no day-of-week restriction and a full repertory programme. Pictur
 
 Genesis charges the same £4.99 to every category from Monday to Wednesday, with no cheaper concession. Friday to Sunday it is £12.
 
+In summer the cheapest film is free and outdoors: Everyman on the Canal at King's Cross and three other open-air screens charge nothing. Our [outdoor cinema guide](/articles/outdoor-cinema-london/) has the dates.
+
 ![The purple and pink frontage of Peckhamplex cinema in Peckham, with its listings board and film posters](../../assets/articles/cinema-deals-london/peckhamplex-exterior.jpg)
 
 *Peckhamplex, Peckham.*
@@ -178,6 +180,7 @@ You pay once a year for a bundle of free tickets plus a standing discount. They 
 ## Continue planning your London trip
 
 - 🎬 **[London's Best Independent Cinemas](/articles/best-cinemas-london/)**
+- 🌙 **[Outdoor Cinema in London](/articles/outdoor-cinema-london/)**, including the free summer screens
 - 🎞️ **[BFI London Film Festival: Dates and Tickets](/articles/london-film-festival/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
 - 🎪 **[Free Things to Do in London](/free/)**
