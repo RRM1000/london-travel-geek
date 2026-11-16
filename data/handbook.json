@@ -81,6 +81,22 @@
   "recentlyDone": [
     {
       "date": "2026-11-16",
+      "what": "Map bug fixed on every LTG map (unpushed, 9e0e7ba3): the article photo margin pushed Leaflet tiles 28px down, so every pin sat one pin-height north of its spot (Southwark Cathedral showed across the river). Pins now land within 1px."
+    },
+    {
+      "date": "2026-11-16",
+      "what": "Sport 2027 (unpushed, 653509ff): sporting events post gains the Women's Six Nations decider (England v France, Twickenham, 15 May), World Test Championship final (Oval, 9-13 June), Tour de France Femmes London team time trial (Sun 1 Aug), London T100 (21-22 Aug), the Big Half (5 Sept), and a note that Formula E has moved to Brands Hatch (29-30 May). The big events calendar now carries every 2027 date in the post (26 sport rows). NFL London 2027 and MLB not announced yet."
+    },
+    {
+      "date": "2026-11-16",
+      "what": "Christmas walk (unpushed, 44a45f34): new /articles/christmas-walk-london/, ten stops London Bridge to Covent Garden (Winter by the River, Southwark Cathedral, Borough, Bankside, Southbank market, Trafalgar Square, St Martin-in-the-Fields carols, Leicester Square, Covent Garden, Mr Fogg's Tavern), paid carols and concerts with prices, linked both ways. Southbank Winter Market last day corrected to 2 Jan across five pages; Skate Leicester Square has no booking fee (two pages fixed)."
+    },
+    {
+      "date": "2026-11-16",
+      "what": "Christmas markets map (unpushed, 6d981d2f): 17 markets on a map under the at-a-glance table, green free, orange ticketed; Good Housekeeping Live and Crafty Fox British Library marked finished; reviewBy 30 Nov."
+    },
+    {
+      "date": "2026-11-16",
       "what": "Sky Garden events (unpushed): 12 Nights of Christmas music nights (16 Nov-23 Dec, from £14.85), the Moonlight Concert (16 Nov, 8 Dec) and New Year's Eve added to the Events tab and the big events calendar, which now links Sky Garden events to the Sky Garden guide. The guide has a new Christmas music nights and New Year's Eve section as a paid way in when the free tickets have gone, plus an automatic Coming up at Sky Garden list. reviewBy 24 Dec."
     },
     {
