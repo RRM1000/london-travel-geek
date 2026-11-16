@@ -275,6 +275,7 @@ The walk also works in reverse, from Tate Modern to London Bridge, which puts th
 ## Carry on walking
 
 - **[The South Bank: Westminster to Tower Bridge](/articles/south-bank-walk/)**: the riverside walk, which shares Tate Modern, the Globe and the cathedral with this one. From the cathedral, its last three stops run east past [HMS Belfast](/articles/hms-belfast-guide/) to Tower Bridge.
+- **[The Christmas walk](/articles/christmas-walk-london/)**: starts at Hay's Galleria, a few minutes from London Bridge station where this one starts, and passes Southwark Cathedral, Borough Market and the Globe on its way to the Christmas markets on the Southbank, Trafalgar Square and Leicester Square.
 - **[The City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)**: starts at Bank, ten minutes east of St Paul's along Cheapside, where this walk finishes.
 
 ## What to do with the rest of the day

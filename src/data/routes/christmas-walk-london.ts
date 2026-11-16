@@ -1,0 +1,98 @@
+import type { RouteMapStop } from "../routeMaps";
+
+// Coordinates from OSM Nominatim. Stop 5 is a point on the Queen's Walk
+// between Hungerford Bridge and the Royal Festival Hall, where the market's
+// chalets stand, so it is approximate. Stop 1 is Hay's Galleria, the middle of
+// the London Bridge City riverside where Winter by the River is set out.
+export const stops: RouteMapStop[] = [
+  {
+    stop: "1",
+    name: "Winter by the River and Hay's Galleria",
+    note: "Riverside stalls from 11am, and the Horniman at Hays for breakfast.",
+    latitude: 51.505724,
+    longitude: -0.083706,
+    articleAnchor: "#1-winter-by-the-river-and-hays-galleria",
+    onRoute: true,
+  },
+  {
+    stop: "2",
+    name: "Southwark Cathedral",
+    note: "Free to walk in; carol concerts and services through December.",
+    latitude: 51.506129,
+    longitude: -0.089625,
+    articleAnchor: "#2-southwark-cathedral",
+    onRoute: true,
+  },
+  {
+    stop: "3",
+    name: "Borough Market",
+    note: "Lunch. Open every day from 30 November; shut Mondays before that.",
+    latitude: 51.505526,
+    longitude: -0.090438,
+    articleAnchor: "#3-borough-market",
+    onRoute: true,
+  },
+  {
+    stop: "4",
+    name: "Bankside and Shakespeare's Globe",
+    note: "Pinocchio, the Globe's Christmas musical, 28 November to 3 January.",
+    latitude: 51.508121,
+    longitude: -0.097186,
+    articleAnchor: "#4-bankside-and-shakespeares-globe",
+    onRoute: true,
+  },
+  {
+    stop: "5",
+    name: "Southbank Centre Winter Market",
+    note: "Chalets on the Queen's Walk. Cash-free; to 2 January.",
+    latitude: 51.5059,
+    longitude: -0.1192,
+    articleAnchor: "#5-the-southbank-centre-winter-market",
+    onRoute: true,
+  },
+  {
+    stop: "6",
+    name: "Trafalgar Square",
+    note: "The Norwegian tree, lit 3 December, and a row of chalets.",
+    latitude: 51.50845,
+    longitude: -0.12845,
+    articleAnchor: "#6-trafalgar-square",
+    onRoute: true,
+  },
+  {
+    stop: "7",
+    name: "St Martin-in-the-Fields",
+    note: "Candlelit carol concerts, from £10. Book ahead.",
+    latitude: 51.508828,
+    longitude: -0.126677,
+    articleAnchor: "#7-st-martin-in-the-fields",
+    onRoute: true,
+  },
+  {
+    stop: "8",
+    name: "Leicester Square",
+    note: "Chalets round an ice rink, under star-shaped lights.",
+    latitude: 51.509965,
+    longitude: -0.130262,
+    articleAnchor: "#8-leicester-square",
+    onRoute: true,
+  },
+  {
+    stop: "9",
+    name: "Covent Garden",
+    note: "The 50ft tree and the gold bells in the Market Building.",
+    latitude: 51.511979,
+    longitude: -0.122741,
+    articleAnchor: "#9-covent-garden",
+    onRoute: true,
+  },
+  {
+    stop: "10",
+    name: "Mr Fogg's Tavern",
+    note: "A Victorian-themed pub on St Martin's Lane, dressed for Christmas.",
+    latitude: 51.510979,
+    longitude: -0.126837,
+    articleAnchor: "#10-mr-foggs-tavern",
+    onRoute: true,
+  },
+];

@@ -36,6 +36,7 @@ import { stops as nottingHillColourfulHouses } from "./routes/notting-hill-colou
 import { stops as banksyWalkLondon } from "./routes/banksy-walk-london";
 import { stops as banksideBoroughWalk } from "./routes/bankside-borough-walk";
 import { stops as christmasLightsWalkLondon } from "./routes/christmas-lights-walk-london";
+import { stops as christmasWalkLondon } from "./routes/christmas-walk-london";
 import { stops as harryPotterFilmingLocationsWalk } from "./routes/harry-potter-filming-locations-walk";
 import { stops as sohoChinatownWalk } from "./routes/soho-chinatown-walk";
 
@@ -56,11 +57,37 @@ export const routeMaps: Record<string, RouteMapStop[]> = {
   "wapping-canary-wharf-walk": wappingCanaryWharfWalk,
   "bankside-borough-walk": banksideBoroughWalk,
   "christmas-lights-walk-london": christmasLightsWalkLondon,
+  "christmas-walk-london": christmasWalkLondon,
   "harry-potter-filming-locations-walk": harryPotterFilmingLocationsWalk,
   "soho-chinatown-walk": sohoChinatownWalk,
 };
 
 export const routeConnections: Record<string, RouteConnection[]> = {
+  "christmas-walk-london": [
+    {
+      slug: "christmas-lights-walk-london",
+      label: "The Christmas lights walk: Oxford Street to Trafalgar Square",
+      where: "Trafalgar Square",
+      detail:
+        "Ends at the tree, which is stop 6 of this one. Walk it after dark for the Regent Street angels, Carnaby and Bond Street. 10 stops, 5km.",
+    },
+    {
+      slug: "covent-garden-walk",
+      label: "Covent Garden: Leicester Square to Somerset House",
+      where: "Leicester Square",
+      detail:
+        "The daytime walk through the same streets, with Seven Dials, Neal's Yard and the Opera House. 11 stops, 2km.",
+    },
+  ],
+  "christmas-lights-walk-london": [
+    {
+      slug: "christmas-walk-london",
+      label: "The Christmas walk: London Bridge to Covent Garden",
+      where: "Trafalgar Square",
+      detail:
+        "A daytime walk of markets, carols and two decorated pubs, from London Bridge along the river to the tree and on to Covent Garden. 10 stops, 5.5km.",
+    },
+  ],
   "wapping-canary-wharf-walk": [
     {
       slug: "canary-wharf-greenwich-walk",

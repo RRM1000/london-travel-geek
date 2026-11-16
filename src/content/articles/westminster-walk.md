@@ -321,6 +321,7 @@ The route also works in reverse. We run it north because it finishes at the free
 - **[The Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/)** — its eighth stop is Westminster station, beside where this one starts, and it ends at Lambeth Bridge, fifteen minutes south.
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — finishes at Green Park, across the Mall from Buckingham Palace.
 - **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — ends at the Trafalgar Square tree, as this one does; walked in reverse it takes you through Covent Garden, Soho and Regent Street after dark, November to early January.
+- **[The Christmas walk](/articles/christmas-walk-london/)** — passes the Trafalgar Square tree at its sixth stop, between the Southbank Centre's market and Leicester Square, from late November to early January.
 - **[The Banksy route](/articles/banksy-walk-london/)** — starts at the Blind Patriotism statue on Waterloo Place, five minutes west of Trafalgar Square, and passes ten originals on the way to Stoke Newington.
 
 ## What to do with the rest of the day

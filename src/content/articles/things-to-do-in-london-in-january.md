@@ -83,12 +83,13 @@ Most of the festive attractions run to the first weekend, so plan them for 1 to 
 
 | Place | Last day | What it is |
 | --- | --- | --- |
+| Southbank Centre Winter Market | Sat 2 Jan | A free-entry chalet market on the Queen's Walk, [closed on 1 January](https://www.southbankcentre.co.uk/whats-on/winter-market). |
 | Christmas at Kew | Sun 3 Jan | A ticketed 3km trail through the gardens after dark, with last entry between 7pm and 8pm. [Kew's page](https://www.kew.org/kew-gardens/whats-on/christmas) has the dates. |
 | Hampton Court Palace rink and Winter Palace | Sun 3 Jan | The rink has sessions from 10am to 8pm. The Winter Palace trail is included in palace admission with pre-booking. See our [Hampton Court guide](/articles/hampton-court-palace-guide/). |
 | Christmas at the Tower | Sun 3 Jan | A trail of Victorian Christmas scenes, included in Tower of London admission. See the [Tower of London guide](/articles/tower-of-london-guide/). |
 | Glide at Battersea Power Station | Sun 3 Jan | Three interconnecting rinks and a 200-metre skate trail beside the Thames. [Battersea Power Station's page](https://batterseapowerstation.co.uk/events/glide-at-battersea-power-station/) has tickets. |
 | West End festive lights, Leicester Square and St Martin's Lane | Wed 6 Jan | The lights stay on to 6 January. [Leicester Square's page](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november) has the details. |
-| Southbank Centre Winter Market and King's Cross Winter Market | Sun 3 Jan | Free-entry chalet markets. King's Cross, in Granary Square, is [closed on 1 January](https://www.kingscross.co.uk/event/kings-cross-winter-market). |
+| King's Cross Winter Market | Sun 3 Jan | A free-entry chalet market in Granary Square, [closed on 1 January](https://www.kingscross.co.uk/event/kings-cross-winter-market). |
 | Alexandra Palace Festive Skate | Mon 4 Jan | An indoor rink under a Christmas tree, on [Alexandra Palace's page](https://www.alexandrapalace.com/whats-on/festive-skate/). |
 | Skate at Somerset House | Sun 10 Jan | The courtyard rink, with adults £13 to £28.50 and children £11 to £15 plus a £1.50 fee per ticket. [Somerset House](https://www.somersethouse.org.uk/whats-on/skate-somerset-house) sells the tickets. |
 

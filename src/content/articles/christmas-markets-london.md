@@ -18,11 +18,11 @@ tags: [christmas, winter, Christmas markets, markets, free things to do, things 
 draft: false
 faq:
   - q: "When do London's Christmas markets open in 2026?"
-    a: "Leicester Square opened first, on Saturday 31 October 2026, and runs to 3 January 2027 alongside its ice rink. The Southbank Centre Winter Market opened on Monday 2 November and also runs to 3 January. Winter by the River at London Bridge City opens on Tuesday 10 November, and Kingston on Thursday 12 November, both to 3 January. Hyde Park Winter Wonderland opens on Thursday 19 November, Christmas Under the Canopy at King's Cross on 20 November, and the King's Cross Winter Market on Thursday 26 November. Borough Market opens seven days a week from Monday 30 November. Trafalgar Square's market opens in November and trades into early January."
+    a: "Leicester Square opened first, on Saturday 31 October 2026, and runs to 3 January 2027 alongside its ice rink. The Southbank Centre Winter Market opened on Monday 2 November and runs to Saturday 2 January. Winter by the River at London Bridge City opens on Tuesday 10 November, and Kingston on Thursday 12 November, both to 3 January. Hyde Park Winter Wonderland opens on Thursday 19 November, Christmas Under the Canopy at King's Cross on 20 November, and the King's Cross Winter Market on Thursday 26 November. Borough Market opens seven days a week from Monday 30 November. Trafalgar Square's market opens in November and trades into early January."
   - q: "Are London's Christmas markets free?"
     a: "Nearly all of them. Southbank, Trafalgar Square, Leicester Square, Covent Garden, Borough, Kingston, Greenwich and Crafty Fox cost nothing to walk into. The exceptions are Hyde Park Winter Wonderland, where everyone needs a timed entry ticket from £1 even to reach its market, the Chelsea Physic Garden Christmas Fair, £8 in advance or £10 on the door, and the indoor fairs at Olympia and the Business Design Centre, which start at £16."
   - q: "Which London Christmas markets are close enough to do in one evening?"
-    a: "Leicester Square, Trafalgar Square and Covent Garden are all within about ten minutes' walk of each other, and the Southbank Centre's market is across the Golden Jubilee footbridge from Trafalgar Square. Start at Covent Garden, finish on the river."
+    a: "Leicester Square, Trafalgar Square and Covent Garden are all within about ten minutes' walk of each other, and the Southbank Centre's market is across the Golden Jubilee footbridge from Trafalgar Square. Our Christmas walk strings them together with Winter by the River and Borough Market, from London Bridge to Covent Garden."
   - q: "Do London Christmas markets take cards?"
     a: "Almost all do. The Southbank Centre's market is cash-free, so a card or phone is the only way to pay there. At Kingston most traders take both, but the organisers prefer cards. Winter Wonderland takes contactless at every bar, stall and ride."
   - q: "Are London's Christmas markets open on Christmas Day?"
@@ -33,9 +33,9 @@ faq:
 
 London's Christmas markets come in three kinds: the chalet markets that go up for six weeks in November, the year-round markets that dress up for December, and one-weekend maker fairs where the stallholders made what they sell. Most cost nothing to walk into.
 
-> 💡 **The Short Version:** **Go to the Southbank Centre Winter Market for food** (open since **2 November**, beside the river, **cash-free**), or **Leicester Square for chalets round an ice rink** (open since **31 October**). Both run to 3 January. **For the biggest, Hyde Park Winter Wonderland** opens **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City opens **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross opens **20 November**, and **Crafty Fox** is at RSA House on **5 December** and King's Cross on **6 and 12–13 December**.
+> 💡 **The Short Version:** **Go to the Southbank Centre Winter Market for food** (open since **2 November**, beside the river, **cash-free**), or **Leicester Square for chalets round an ice rink** (open since **31 October**). Southbank runs to 2 January and Leicester Square to 3 January. **For the biggest, Hyde Park Winter Wonderland** opens **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City opens **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross opens **20 November**, and **Crafty Fox** is at RSA House on **5 December** and King's Cross on **6 and 12–13 December**.
 
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas shows and pantomimes](/articles/christmas-shows-london/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
+> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas walk: the markets on foot](/articles/christmas-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas shows and pantomimes](/articles/christmas-shows-london/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
 *Dates, hours and prices as at 9 November 2026.*
 
@@ -43,7 +43,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 | Market | Where | 2026 dates | Price | Watch out for |
 | --- | --- | --- | --- | --- |
-| **Southbank Centre Winter Market** | Queen's Walk, SE1 | 2 Nov 2026 – 3 Jan 2027 | Free | Cash-free |
+| **Southbank Centre Winter Market** | Queen's Walk, SE1 | 2 Nov 2026 – 2 Jan 2027 | Free | Cash-free; closed 25 and 31 Dec and 1 Jan |
 | **Trafalgar Square** | North Terrace, WC2 | November to early January each year | Free | Small: one row of chalets. The tree is only lit from 3 December |
 | **Leicester Square** | Leicester Square, WC2 | 31 Oct 2026 – 3 Jan 2027 | Free; the rink is ticketed | Enclosed, and crowded in the evenings |
 | **Covent Garden** | The Piazza and Market Building, WC2 | Lights on 12 Nov 2026 | Free | No chalet market: you get the decorations and the everyday market halls |
@@ -86,7 +86,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 **The food-led one, on the river under Hungerford Bridge, between the London Eye and Waterloo Bridge.** Alpine-style chalets line the Queen's Walk with bars, street food and independent craft traders under strings of lights. The 2026 hot-food stalls include Bang Bang Burger, Lil Watan's Lebanese grills, NUGS fried chicken, Venezuelan arepas from Pabellon, The Duck Shed, The Sausage and Yorkshire Burrito, with churros from The Churros Chalet and crumbles from Crumbled London.
 
-- **Dates:** **Monday 2 November 2026 to Sunday 3 January 2027** ([Southbank Centre](https://www.southbankcentre.co.uk/whats-on/winter-market)).
+- **Dates:** **Monday 2 November 2026 to Saturday 2 January 2027** ([Southbank Centre](https://www.southbankcentre.co.uk/whats-on/winter-market)). Closed on Christmas Day, New Year's Eve and New Year's Day.
 - **Hours:** stalls **11am–10pm**, bars **11am–11pm**.
 - **Price:** free to walk through.
 - **Getting there:** Waterloo is about five minutes; from Embankment, cross the Golden Jubilee footbridge.
@@ -324,6 +324,6 @@ Three ticketed shopping fairs run under glass roofs in November; one is still to
 
 **Shopping the sales too?** Our [Black Friday guide](/articles/black-friday-london/) covers 27 November.
 
-**Carrying on:** the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market. Most chalet markets close on 3 January; what stays open after that is in [things to do in London in January](/articles/things-to-do-in-london-in-january/).
+**Carrying on:** the [Christmas walk](/articles/christmas-walk-london/) takes in Winter by the River, Borough Market, the Southbank, Trafalgar Square and Leicester Square in one day, from London Bridge to Covent Garden; the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden after dark and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market. Most chalet markets close on 3 January; what stays open after that is in [things to do in London in January](/articles/things-to-do-in-london-in-january/).
 
 <div data-submit-event></div>

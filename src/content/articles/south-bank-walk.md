@@ -257,6 +257,7 @@ Walked east to west it works equally well and ends at Westminster, which is a be
 - **[City of London: Bank to Tower Bridge](/articles/city-of-london-walk/)** — cross Tower Bridge and walk it backwards, or start it at Bank.
 - **[Tower Bridge guide](/articles/tower-bridge-guide/)** — the walkways, glass floor and bridge lift times, at the end of this walk.
 - **[Westminster](/articles/westminster-walk/)** — starts across Westminster Bridge from the London Eye.
+- **[The Christmas walk](/articles/christmas-walk-london/)** — starts at Hay's Galleria, by stop 10 of this walk, and follows the same river west to the Southbank Centre's Christmas market before crossing to Trafalgar Square and Covent Garden. Late November to early January.
 - **[Bankside and Borough](/articles/bankside-borough-walk/)** — the inland walk behind stops 7 to 9: the coaching-inn yards, the George, Cross Bones, the Clink and the Rose, from London Bridge station to the Millennium Bridge.
 
 ## What to do with the rest of the day

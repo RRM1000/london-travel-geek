@@ -299,6 +299,7 @@ The route is **flat and short**, and no point on it is more than about six minut
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)** — Fitzrovia starts just north of Seven Dials.
 - **[Soho and Chinatown](/articles/soho-chinatown-walk/)** — ends on Lisle Street, two minutes from the ticket booth, so walk it first and start this one after lunch in Chinatown.
 - **[The Harry Potter filming locations walk](/articles/harry-potter-filming-locations-walk/)** — its second half starts at Australia House, a few minutes east of Somerset House along the Strand.
+- **[The Christmas walk](/articles/christmas-walk-london/)** — London Bridge to Covent Garden by the Christmas markets, ending at Mr Fogg's Tavern on St Martin's Lane, two minutes from Leicester Square where this walk starts.
 - **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — the after-dark route from Oxford Street through Seven Dials and the Piazza to Trafalgar Square, November to early January.
 
 ## What to do with the rest of the day

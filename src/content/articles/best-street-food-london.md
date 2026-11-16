@@ -336,7 +336,7 @@ Standing only, with a two-to-four hour window.
 
 ## Seasonal, and once a year
 
-* **Southbank Centre Winter Market** — Alpine chalets on the Queen's Walk, **2 November 2026 to 3 January 2027**, daily; the [London Christmas markets guide](/articles/christmas-markets-london/) has the details. It displaces the regular food market for those weeks.
+* **Southbank Centre Winter Market** — Alpine chalets on the Queen's Walk, **2 November 2026 to 2 January 2027**, closed 25 and 31 December and 1 January; the [London Christmas markets guide](/articles/christmas-markets-london/) has the details. It displaces the regular food market for those weeks.
 * **Hyde Park Winter Wonderland** — **19 November 2026 to 3 January 2027**, with many food stalls; entry needs a timed ticket.
 * **Wembley Park Market** — **weekend dates that move month to month**, and shift around stadium events.
 * **Alexandra Palace Farmers' Market** — every **Sunday 10am–3pm**, though the location alternates between the park and Campsbourne School.

@@ -270,6 +270,7 @@ The route is flat, on pavements and pedestrian streets throughout, with a stretc
 
 ## Carry on walking
 
+- **[The Christmas walk: London Bridge to Covent Garden](/articles/christmas-walk-london/)** — the daytime walk: Winter by the River, Borough Market, the Southbank Centre market, the Trafalgar Square tree, St Martin-in-the-Fields' carol concerts and two decorated pubs. It reaches Trafalgar Square at dusk, where this walk ends.
 - **[Covent Garden: Leicester Square to Somerset House](/articles/covent-garden-walk/)** — the daytime version of stops seven to nine, with the markets, the Opera House and Neal's Yard.
 - **[Westminster](/articles/westminster-walk/)** — it ends at Trafalgar Square, where this one does; walk it in reverse down Whitehall to the river.
 - **[Baker Street to Marylebone through Regent's Park](/articles/regents-park-marylebone-walk/)** — it finishes at St Christopher's Place, across Oxford Street from Bond Street station, a few minutes from where this one starts.

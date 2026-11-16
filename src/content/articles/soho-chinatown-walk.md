@@ -295,6 +295,7 @@ The route is flat. St Anne's churchyard is the one stop with steps and no step-f
 - **[Covent Garden: Leicester Square to Somerset House](/articles/covent-garden-walk/)**: starts at the theatre ticket booth in Leicester Square, two minutes from the end of this walk.
 - **[Fitzrovia to Mayfair](/articles/fitzrovia-mayfair-walk/)**: starts at Fitzroy Square, fifteen minutes north of Denmark Street across Oxford Street.
 - **[Oxford Street](/articles/oxford-street-guide/)**: Soho's northern edge, five minutes from Carnaby Street, and traffic-free from Orchard Street to Great Portland Street.
+- **[The Christmas walk](/articles/christmas-walk-london/)**: its eighth stop is the Leicester Square Christmas market, two minutes from the end of this walk.
 - **[The Christmas lights walk](/articles/christmas-lights-walk-london/)**: passes Carnaby Street, from November to early January.
 
 ## What to do with the rest of the day

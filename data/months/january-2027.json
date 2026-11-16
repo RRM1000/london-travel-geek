@@ -65,10 +65,11 @@
     },
     {
       "what": "Southbank Centre Winter Market",
-      "lastDay": "2027-01-03",
-      "source": "https://www.southbankcentre.co.uk/",
-      "verified": "2026-10-26",
-      "verifiedNote": "From the December overlay."
+      "lastDay": "2027-01-02",
+      "detail": "Closed 25 and 31 December and 1 January.",
+      "source": "https://www.southbankcentre.co.uk/whats-on/winter-market/",
+      "verified": "2026-11-16",
+      "verifiedNote": "Southbank Centre's Winter Market page: 'Closed: Fri 25, Thu 31 Dec & Fri 1 Jan and from Sun 3 Jan onwards.'"
     },
     {
       "what": "Leicester Square and St Martin's Lane festive lights",

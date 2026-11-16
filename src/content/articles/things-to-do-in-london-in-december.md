@@ -70,7 +70,7 @@ The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and car
 
 ### Trafalgar Square tree — Thursday 3 December
 
-The Trafalgar Square tree is lit on **Thursday 3 December**, and carol groups sing beneath it on most evenings until Christmas, with no ticket and a collection for charity. Sunset on the 3rd is at 3.56pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) ends here.
+The Trafalgar Square tree is lit on **Thursday 3 December**, and carol groups sing beneath it on most evenings until Christmas, with no ticket and a collection for charity. Sunset on the 3rd is at 3.56pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) ends here, and the daytime [Christmas walk](/articles/christmas-walk-london/) from London Bridge reaches it at dusk.
 
 ### Carols at the Royal Albert Hall — 19 to 24 December
 

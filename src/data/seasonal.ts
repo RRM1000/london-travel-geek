@@ -25,6 +25,7 @@ export const SEASONAL_WINDOWS: SeasonalWindow[] = [
   { slug: "christmas-markets-london", startMonth: 11, startDay: 1, endMonth: 12, endDay: 26 },
   { slug: "ice-skating-london", startMonth: 11, startDay: 1, endMonth: 12, endDay: 26 },
   { slug: "christmas-lights-walk-london", startMonth: 11, startDay: 1, endMonth: 12, endDay: 26 },
+  { slug: "christmas-walk-london", startMonth: 11, startDay: 1, endMonth: 12, endDay: 26 },
   { slug: "hyde-park-winter-wonderland", startMonth: 11, startDay: 1, endMonth: 12, endDay: 26 },
   { slug: "christmas-shows-london", startMonth: 11, startDay: 1, endMonth: 12, endDay: 26 },
   { slug: "christmas-day-restaurants-london", startMonth: 11, startDay: 1, endMonth: 12, endDay: 26 },
