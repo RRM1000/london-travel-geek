@@ -283,7 +283,7 @@ The draw is photographs beside waxworks, plus a short dark ride at the end. **Bo
 
 ## The one pass aimed at families
 
-Merlin's **5-Attraction Pass** covers **Madame Tussauds, SEA LIFE London, the London Dungeon, Shrek's Adventure and the London Eye** on one ticket. You book the Eye first, then have **7 days for the other four**, with free rescheduling.
+Merlin's **5-Attraction Pass** covers **Madame Tussauds, SEA LIFE London, the London Dungeon, Shrek's Adventure and the London Eye** on one ticket. You book a timed slot for one of them, then have **7 days for the other four**, with free rescheduling.
 
 **From £59, against £132 for all five booked separately.** Two of them are cheaper bought direct, and it starts paying from the third.
 
