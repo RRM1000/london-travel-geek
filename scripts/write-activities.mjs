@@ -1151,7 +1151,7 @@ const ROWS = [
     bookingRequired: "recommended", indoorOutdoor: "indoor",
     stepFree: "yes",
     servesFood: "yes", servesAlcohol: "no",
-    whyGo: "A walk-through shark tunnel and a rockhopper penguin colony in the basement of County Hall, which is a strange and good place for an aquarium to be.",
+    whyGo: "A walk-through shark tunnel and a gentoo penguin colony in the basement of County Hall, which is a strange and good place for an aquarium to be.",
     angle: "room",
     opSummary: "Timed entry and much cheaper booked online. Combined tickets with the London Eye next door are usually better value than two separate ones.",
     goodFor: "families",

@@ -1789,38 +1789,6 @@
    "notYetOpen": true
   },
   {
-   "slug": "nan-goldin-hayward",
-   "name": "Nan Goldin: You Never Did Anything Wrong",
-   "type": "exhibition",
-   "style": "Full retrospective of the photographer",
-   "venue": "Hayward Gallery",
-   "startsOn": "2026-11-24",
-   "endsOn": "2027-03-07",
-   "area": "South Bank",
-   "borough": "Lambeth",
-   "guide": "south-bank-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "Belvedere Road",
-   "postcode": "SE1 8XX",
-   "agePolicy": "over-18",
-   "duration": "About two hours",
-   "price": "Ticketed - check current price",
-   "priceBand": "unknown",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "whyGo": "One of the most significant living photographers in full retrospective - addiction, intimacy and the AIDS crisis, and genuinely not family viewing, which is worth knowing before booking.",
-   "goodFor": [
-    "art"
-   ],
-   "lists": [
-    "events"
-   ],
-   "annual": false,
-   "notYetOpen": true
-  },
-  {
    "slug": "gathering-ground-tate",
    "name": "Gathering Ground",
    "type": "exhibition",
@@ -1853,6 +1821,38 @@
    ],
    "annual": false,
    "notYetOpen": false
+  },
+  {
+   "slug": "nan-goldin-hayward",
+   "name": "Nan Goldin: You Never Did Anything Wrong",
+   "type": "exhibition",
+   "style": "Full retrospective of the photographer",
+   "venue": "Hayward Gallery",
+   "startsOn": "2026-11-24",
+   "endsOn": "2027-03-14",
+   "area": "South Bank",
+   "borough": "Lambeth",
+   "guide": "south-bank-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "Belvedere Road",
+   "postcode": "SE1 8XX",
+   "agePolicy": "all-ages",
+   "duration": "About two hours",
+   "price": "Ticketed - check current price",
+   "priceBand": "unknown",
+   "booking": "required",
+   "indoorOutdoor": "indoor",
+   "stepFree": "yes",
+   "whyGo": "A full retrospective of Nan Goldin: addiction, intimacy and the AIDS crisis. The Hayward warns that some work is graphic and sexual, so think twice before bringing children.",
+   "goodFor": [
+    "art"
+   ],
+   "lists": [
+    "events"
+   ],
+   "annual": false,
+   "notYetOpen": true
   },
   {
    "slug": "peggy-guggenheim-in-london",
