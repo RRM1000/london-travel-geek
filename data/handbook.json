@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "inProgress": [],
   "nextUp": [
     "Food video creators into the food guides. Creator Picks page (https://claude.ai/artifact/E3BdmPFHKrtgLvEAxEQDqa) reads 494 videos from 10 YouTube creators (2025-26): 698 venues, 277 already on the site, 85 in our data on no page, 335 new (about half with names from auto-captions, to verify). Next: record Aton Of Food, Noodle alla Gola and Jacob King as tier-D sources in the topics they cover; verify the uncertain names; retry Gary Eats, Hannah Ricketts and What's Good London with correct handles; add the strongest new openings to guides. Nothing recorded yet - waiting on Rob's go. Working files: scratchpad/social (collect.mjs, xref.mjs, build-page.mjs).",
@@ -26,7 +26,8 @@
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
     "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London.",
     "Wire in Trainline links once you have joined its affiliate programme.",
-    "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring."
+    "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring.",
+    "Theatre Geek seat reviews (Rob, 17 Nov 2026: later, not yet). A \"Sat here?\" button in the seat pop-up: signed-in readers rate the view and comfort (1-5), name the show and date, add a sentence. Reviews wait in a moderation queue, then show in that seat's pop-up. Start from today's colours and move a seat's grade only once its area has enough reviews (3 or more), worst report wins, marked as readers' reports. About a day for the first version (Supabase table, form, pop-up display, queue)."
   ],
   "waitingOnRob": [
     "Optional: request indexing in Search Console for hen-do-london and where-to-stay-south-kensington (the SEO refresh is live; Google will re-crawl the others on its own).",
