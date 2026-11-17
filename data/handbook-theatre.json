@@ -14,7 +14,8 @@
     "Single-production restricted labels (Drury Lane A23 and U16, Phoenix Popinjay): keep or drop?",
     "Donmar: the two Circle corner posts drawn at A13 and A34 rest on Theatremonkey alone. Keep them on the drawing?",
     "Which new feature to build next: trip planner, price-drop alerts, 'if you loved X' tags, what-was-on history, who's on tonight, translation, accessible and cheap-ticket calendar.",
-    "Push the seat-map work (mirror fixes, full check, rebuilt curves, regrade) when ready."
+    "Push the seat-map work (mirror fixes, full check, rebuilt curves, regrade) when ready.",
+    "Wordmark redesign: send two or three logos you like, from any brand, and the design starts from those."
   ],
   "nextUp": [
     "Seat reviews (Rob, 17 Nov 2026: later, not yet). A \"Sat here?\" button in the seat pop-up: signed-in readers rate the view and comfort (1-5), name the show and date, add a sentence. Reviews wait in a moderation queue, then show in that seat's pop-up. Start from today's colours and move a seat's grade only once its area has enough reviews (3 or more), worst report wins, marked as readers' reports. About a day for the first version (Supabase table, form, pop-up display, queue).",
@@ -23,7 +24,7 @@
   "recentlyDone": [
     {
       "date": "2026-11-17",
-      "what": "New wordmark (Wordmark.tsx) in the header and footer: the offer-colour dot grid lit on a plum tile like marquee bulbs, \"London Theatre\" in light Fraunces and \"Geek\" heavy in red. Every dot and letter is its own element with an index, ready for hover or scroll animation later. Uncommitted in ltheatre-matinee."
+      "what": "Wordmark moved into its own component (Wordmark.tsx), used in the header and footer. It looks exactly as before (a redesign was tried and Rob turned it down), but every dot and letter is now its own element with an index, ready for hover or scroll animation later. Uncommitted in ltheatre-matinee."
     },
     {
       "date": "2026-11-17",
