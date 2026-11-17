@@ -23,6 +23,10 @@
   "recentlyDone": [
     {
       "date": "2026-11-17",
+      "what": "New wordmark (Wordmark.tsx) in the header and footer: the offer-colour dot grid lit on a plum tile like marquee bulbs, \"London Theatre\" in light Fraunces and \"Geek\" heavy in red. Every dot and letter is its own element with an index, ready for hover or scroll animation later. Uncommitted in ltheatre-matinee."
+    },
+    {
+      "date": "2026-11-17",
       "what": "Olivier row R wording and Royal Albert Hall lifts (Doors 1 and 8) confirmed from the NT and RAH access pages in Chrome; RAH map lift lines corrected. Globe backrests, Park200 seats and Hippodrome chairs: the venues say nothing, notes left as they were."
     },
     {
