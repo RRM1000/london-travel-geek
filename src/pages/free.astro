@@ -450,7 +450,15 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Free London" }];
       </p>
     </div>
 
-    {groups.map((g) => (
+    {groups.map((g) => (<>
+      {g.label === "Markets and shopping" && (
+        <GygWidget
+          heading="Market food tours"
+          intro="Guided tasting walks through Borough and the other food markets, with the food included."
+          tourIds="67794,943039,504469"
+          cmp="free-market-food-tours"
+        />
+      )}
       <section class="fr-group">
         <h2 id={g.label.toLowerCase().replace(/[^a-z]+/g, "-")}>{g.label}</h2>
         <p class="fr-blurb">{g.blurb}</p>
@@ -471,7 +479,7 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Free London" }];
           ))}
         </ul>
       </section>
-    ))}
+    </>))}
 
     <section class="fr-group">
       <h2 id="hidden-london">Hidden London</h2>

@@ -21,11 +21,20 @@ const { category } = Astro.props;
 
 // GetYourGuide tours for the topics with something to book. Tour ids are the
 // sets already vetted in the London classics and food tours guides.
-const gyg: Record<string, { heading: string; tourIds: string; cmp: string }> = {
-  "Things to do": { heading: "Popular London tickets", tourIds: "170451,21253,399163", cmp: "topics-things-to-do" },
-  "Food and drink": { heading: "London food tours", tourIds: "136652,860156,1107345", cmp: "topics-food-and-drink" },
+// Each widget sits after the group of cards it fits, so they spread down the
+// page instead of stacking at the end. Keyed by topic, then by group heading.
+type Gyg = { heading: string; tourIds: string; cmp: string };
+const gyg: Record<string, Record<string, Gyg>> = {
+  "Things to do": {
+    "Attractions and museums": { heading: "Popular London tickets", tourIds: "170451,21253,399163", cmp: "topics-things-to-do-classics" },
+    "Day trips": { heading: "Day trips from London", tourIds: "219849,215430,61147", cmp: "topics-things-to-do-day-trips" },
+  },
+  "Food and drink": {
+    "Restaurants by cuisine": { heading: "London food tours", tourIds: "136652,860156,1107345", cmp: "topics-food-and-drink-food-tours" },
+    "Cheap eats and deals": { heading: "Afternoon tea bus tours", tourIds: "860156,267952,433305", cmp: "topics-food-and-drink-tea-buses" },
+  },
 };
-const gygBlock = gyg[category];
+const gygAfter = gyg[category] ?? {};
 
 // A card gets the "New" label rather than being sorted to the top - see
 // point 4 of the section-page handoff. Sorting by recency would fight with
@@ -103,6 +112,7 @@ const cardProps = (article: SiteArticle) => ({
           <div class="grid grid--3">
             {items.map((article) => <ArticleCard {...cardProps(article)} />)}
           </div>
+          {gygAfter[name] && <GygWidget {...gygAfter[name]} />}
         </div>
       ))
     ) : (
@@ -113,7 +123,6 @@ const cardProps = (article: SiteArticle) => ({
       </div>
     )}
 
-    {gygBlock && <GygWidget heading={gygBlock.heading} tourIds={gygBlock.tourIds} cmp={gygBlock.cmp} />}
   </section>
 </BaseLayout>
 

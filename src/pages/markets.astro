@@ -1,5 +1,12 @@
 ---
 import GygWidget from "../components/GygWidget.astro";
+
+// GetYourGuide widgets, spread through the page rather than stacked at the end:
+// the same rule as the articles (one per ~1,000-2,000 words, never last).
+const gygAfter: Record<string, { heading: string; intro?: string; tourIds: string; cmp: string }> = {
+  Tuesday: { heading: "Market food tours", intro: "Guided tasting walks through the markets, with the food included.", tourIds: "67794,943039,504469", cmp: "markets-food-tours" },
+  Friday: { heading: "Popular London tickets", tourIds: "170451,21253,399163", cmp: "markets-london-classics" },
+};
 // London markets, grouped by the day they actually trade.
 //
 // WHY BY DAY: it is the one thing that changes whether a visit works at all.
@@ -107,7 +114,7 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Markets" }];
       </ul>
     </section>
 
-    {byDay.map(({ day, markets: list }) => (
+    {byDay.map(({ day, markets: list }) => (<>
       <section class="mk-day">
         <h2 id={day.toLowerCase()}>{day}</h2>
         <p class="mk-count">{list.length} {list.length === 1 ? "market" : "markets"}</p>
@@ -138,13 +145,8 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Markets" }];
           ))}
         </ul>
       </section>
-    ))}
-    <GygWidget
-      heading="Market food tours"
-      intro="Guided tasting walks through the markets, with the food included."
-      tourIds="67794,943039,504469"
-      cmp="markets-food-tours"
-    />
+      {gygAfter[day] && <GygWidget {...gygAfter[day]} />}
+    </>))}
   </section>
 </BaseLayout>
 
