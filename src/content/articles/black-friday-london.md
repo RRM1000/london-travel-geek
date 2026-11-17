@@ -3,7 +3,7 @@ title: "Black Friday in London 2026: Where to Shop, Late Hours and Deals"
 seoTitle: "Black Friday London 2026: Deals, Shops & Late Hours"
 description: "Black Friday is Friday 27 November 2026. Where to shop in London, which stores open late, how to get to Bicester Village and the outlets, when the crowds peak and the theatre deals already on sale."
 publishedAt: 2026-11-08
-updatedAt: 2026-11-08
+updatedAt: 2026-11-17
 reviewBy: 2026-11-30
 sites:
   - london
@@ -21,6 +21,8 @@ draft: false
 faq:
   - q: "When is Black Friday 2026 in London?"
     a: "Friday 27 November 2026, with Cyber Monday on Monday 30 November. Oxford Street's own Black Friday guide says shoppers can find deals there for most of November, and describes the sales as a whole weekend that ends on Cyber Monday."
+  - q: "Does Selfridges have a Black Friday sale?"
+    a: "Not under that name. Selfridges does not label any sale 'Black Friday'; it runs its own seasonal sale over the same weeks, which the Evening Standard reports took up to 40% off last year. Its online Designer Sale page was already listing brand offers on 17 November 2026. The Oxford Street store is open 10am to 10pm Monday to Saturday and 11.30am to 6pm on Sunday."
   - q: "Which London shops open late on Black Friday?"
     a: "Selfridges on Oxford Street is open until 10pm Monday to Saturday on its usual hours, Westfield London and Westfield Stratford City until 9pm, and London Designer Outlet until 9pm on Friday 27 and Saturday 28 November. John Lewis on Oxford Street closes at 8pm on Fridays and Saturdays."
   - q: "Is Oxford Street too busy on Black Friday?"
@@ -55,7 +57,13 @@ Covent Garden's shops run on a Thursday schedule: its [Festive Thursdays](https:
 
 **Oxford Street's own advice is to arrive after 9.30am.** That misses the rush hour and puts you on the street as the shops, most of which open at 10am, start trading. Since Monday 26 October the stretch between Orchard Street, beside Selfridges, and Great Portland Street has been closed to cars, buses, taxis and bicycles, which leaves the whole width of the street to walk on. Our [Oxford Street guide](/articles/oxford-street-guide/) covers the closure, the bus changes and which Tube station to use for which end.
 
-**Selfridges** is open **10am to 10pm Monday to Saturday** and **11.30am to 6pm on Sunday**, according to its [Oxford Street store page](https://www.selfridges.com/GB/en/features/info/stores/london/). **John Lewis** is open **10am to 8pm Monday to Wednesday, Friday and Saturday, 10am to 9pm on Thursday, and 11.30am to 6pm on Sunday**, per its [store page](https://www.johnlewis.com/our-shops/oxford-street).
+**John Lewis** is open **10am to 8pm Monday to Wednesday, Friday and Saturday, 10am to 9pm on Thursday, and 11.30am to 6pm on Sunday**, per its [store page](https://www.johnlewis.com/our-shops/oxford-street).
+
+### Selfridges
+
+**Selfridges does not run a sale called Black Friday.** It runs its own seasonal sale over the same weeks instead, which the [Evening Standard](https://www.standard.co.uk/shopping/esbest/fashion/black-friday-luxury-fashion-deals-b1301473.html) reports took up to 40% off last year. As of 17 November its [Designer Sale page](https://www.selfridges.com/GB/en/cat/on_sale/) was already listing offers brand by brand, so the discounts are on before the Friday, and each brand sets its own.
+
+The store is on the north side of Oxford Street, about three minutes' walk west of Bond Street station (Central, Jubilee and Elizabeth lines). It is open **10am to 10pm Monday to Saturday** and **11.30am to 6pm on Sunday**, according to its [Oxford Street store page](https://www.selfridges.com/GB/en/features/info/stores/london/), which makes it the latest-opening big shop on this page. Visitors from abroad pay no VAT if Selfridges ships the purchase to an address outside the UK; [Tax-free shopping](#tax-free-shopping) below explains why that is the only route.
 
 ### Regent Street and Covent Garden
 
