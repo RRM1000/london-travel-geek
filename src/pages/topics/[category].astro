@@ -1,4 +1,5 @@
 ---
+import GygWidget from "../../components/GygWidget.astro";
 import { getCollection } from "astro:content";
 import ArticleCard from "../../components/ArticleCard.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
@@ -17,6 +18,14 @@ export async function getStaticPaths() {
 }
 
 const { category } = Astro.props;
+
+// GetYourGuide tours for the topics with something to book. Tour ids are the
+// sets already vetted in the London classics and food tours guides.
+const gyg: Record<string, { heading: string; tourIds: string; cmp: string }> = {
+  "Things to do": { heading: "Popular London tickets", tourIds: "170451,21253,399163", cmp: "topics-things-to-do" },
+  "Food and drink": { heading: "London food tours", tourIds: "136652,860156,1107345", cmp: "topics-food-and-drink" },
+};
+const gygBlock = gyg[category];
 
 // A card gets the "New" label rather than being sorted to the top - see
 // point 4 of the section-page handoff. Sorting by recency would fight with
@@ -103,6 +112,8 @@ const cardProps = (article: SiteArticle) => ({
         </div>
       </div>
     )}
+
+    {gygBlock && <GygWidget heading={gygBlock.heading} tourIds={gygBlock.tourIds} cmp={gygBlock.cmp} />}
   </section>
 </BaseLayout>
 

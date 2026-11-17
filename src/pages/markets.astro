@@ -1,4 +1,5 @@
 ---
+import GygWidget from "../components/GygWidget.astro";
 // London markets, grouped by the day they actually trade.
 //
 // WHY BY DAY: it is the one thing that changes whether a visit works at all.
@@ -138,6 +139,12 @@ const breadcrumbs = [{ label: "Home", href: "/" }, { label: "Markets" }];
         </ul>
       </section>
     ))}
+    <GygWidget
+      heading="Market food tours"
+      intro="Guided tasting walks through the markets, with the food included."
+      tourIds="67794,943039,504469"
+      cmp="markets-food-tours"
+    />
   </section>
 </BaseLayout>
 

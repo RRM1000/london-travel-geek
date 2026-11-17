@@ -1,0 +1,40 @@
+---
+// A GetYourGuide activities widget for the site's .astro pages (the hub and
+// tool pages that are not markdown articles). BaseLayout loads the partner
+// script once, trims to one card on mobile and restores rel="sponsored".
+// Tour ids are ones already vetted in an article on the same subject.
+import { GYG_PARTNER_ID } from "../../scripts/lib/affiliate.mjs";
+
+interface Props {
+  /** Comma-separated GetYourGuide tour ids, three of them. */
+  tourIds: string;
+  /** Campaign tag, so the partner dashboard shows which page earned it. */
+  cmp: string;
+  heading?: string;
+  intro?: string;
+}
+const { tourIds, cmp, heading, intro } = Astro.props as Props;
+---
+
+<aside class="gyg-block" aria-label={heading ?? "Tours on GetYourGuide"}>
+  {heading && <h2 class="gyg-block__heading">{heading}</h2>}
+  {intro && <p class="gyg-block__intro">{intro}</p>}
+  <div
+    data-gyg-href="https://widget.getyourguide.com/default/activities.frame"
+    data-gyg-locale-code="en-US"
+    data-gyg-widget="activities"
+    data-gyg-number-of-items="3"
+    data-gyg-cmp={cmp}
+    data-gyg-partner-id={GYG_PARTNER_ID}
+    data-gyg-tour-ids={tourIds}
+  >
+    <span>Powered by <a target="_blank" rel="sponsored nofollow noopener" href={`https://www.getyourguide.com/london-l57/?partner_id=${GYG_PARTNER_ID}&cmp=${cmp}`}>GetYourGuide</a></span>
+  </div>
+</aside>
+
+<style>
+  .gyg-block { margin-block: 2.5rem; }
+  .gyg-block__heading { margin: 0 0 0.5rem; }
+  .gyg-block__intro { margin: 0 0 1rem; color: var(--muted); }
+  .gyg-block :global(iframe) { display: block; width: 100%; max-width: 100%; border: 0; }
+</style>

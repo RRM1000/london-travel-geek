@@ -1,4 +1,5 @@
 ---
+import GygWidget from "../components/GygWidget.astro";
 // Every commemorative plaque in London on one searchable map.
 //
 // DATA: Open Plaques (openplaques.org), whose About page declares the data
@@ -168,6 +169,13 @@ const breadcrumbs = [
     </div>
 
     <ul id="plaque-results" class="plaques-results" aria-label="Matching plaques"></ul>
+
+    <GygWidget
+      heading="Walk it with a guide"
+      intro="History walks that pass the plaques, with a guide to tell the stories behind them."
+      tourIds="359535,765419,1242361"
+      cmp="plaques-walking-tours"
+    />
 
     <footer class="plaques-footer">
       <p>
