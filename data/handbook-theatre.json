@@ -3,7 +3,7 @@
   "updated": "2026-11-17",
   "inProgress": [],
   "waitingOnRob": [
-    "Seat-map regrade: some maps are now more generous where Theatremonkey was the only source of a bad seat (Novello rear Stalls, Trafalgar P and Q, Palladium rear Stalls and Grand Circle ends, Donmar all good). Happy with that, or keep a seat coloured where a single source warns?",
+    "Seat-colour jumps (a seat two grades better than the one beside it, in front or behind): 97 groups across 41 maps give no physical cause. Review list sent 17 Nov; nothing smoothed until Rob picks which kinds to change.",
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
     "SeatPlan seat numbers where they agree with another source (Apollo, Duchess, Garrick, Palace): use them?",
     "Approve the Hippodrome and Globe maps, which are built from SeatPlan's chart.",
@@ -22,6 +22,10 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-17",
+      "what": "Seat maps: single-source warnings put back as fair (theatre-sold seats stay restricted), and the rows furthest from the stage made fair in houses of 600+ seats (in-the-round rooms left out), on all regraded maps plus 26 others; seating notes gained Distance lines. Palladium Stalls D and E now good. README rules 12 and 13. Uncommitted in ltheatre-matinee."
+    },
     {
       "date": "2026-11-17",
       "what": "Seat-map colours regraded on the 18 maps that leaned most on Theatremonkey (Gillian Lynne, Lyceum, Palladium, Drury Lane, Coliseum, His Majesty's, Dominion, Prince of Wales, Savoy, Criterion, Novello, Wyndham's, Trafalgar, Olivier, Lyttelton, Bridge, Peacock, Donmar): Theatremonkey-only grades and its seat lists removed; side angles and pillars graded from our own sightline model using real proscenium widths where published; SeatPlan reviewers and the theatres' own flags kept. README rules 10 and 11. Uncommitted in ltheatre-matinee. Overhang measure not trusted (circle heights drawn by eye), so overhang grades come from sources only."
