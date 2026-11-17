@@ -121,7 +121,7 @@ Canary Wharf has its own share of the commemorative plaques marking where notabl
 ### Canada Square and the malls
 The centre of the estate. **One Canada Square** is the pyramid-topped tower, Britain's tallest building from 1991 to 2012, with no public viewing floor.
 
-What is public is the **underground shopping levels**, which connect most of the estate without going outside at all, and the square and park above them.
+What is public is the **underground shopping levels**, which connect most of the estate without going outside at all, and the square and park above them. From June to late August, Canada Square Park has **Summer Screens**, free films and sport on a big screen; it is in our [outdoor cinema guide](/articles/outdoor-cinema-london/#summer-screens-canary-wharf).
 
 **The malls keep ordinary retail hours and this older, corporate part of the estate is quiet at weekends.** Weekday lunchtimes are busiest. For a Saturday, walk east to Wood Wharf.
 

@@ -3,7 +3,7 @@ title: "Outdoor Cinema in London: Rooftops, Free Screens and the Winter Film Nig
 seoTitle: "Outdoor Cinema London: Rooftop, Free & Winter Screens"
 description: "Where to watch films outdoors in London: the two rooftop Christmas film nights this winter, and the summer seasons from Rooftop Cinema Club to the free screen on the canal at King's Cross."
 publishedAt: 2026-11-16
-updatedAt: 2026-11-16
+updatedAt: 2026-11-17
 reviewBy: 2027-04-15
 sites: [london]
 canonicalSite: london
@@ -22,7 +22,7 @@ faq:
   - q: "When does outdoor cinema season start in London?"
     a: "The rooftops open first. Rooftop Cinema Club's Peckham and Stratford roofs run through the warmer months and say they will be back in spring 2027. In 2026 Adventure Cinema was at Kew from 18 to 21 June, Everyman on the Canal at King's Cross ran from 29 June to 16 August, and the Barbican's Sculpture Court screenings were from 19 to 30 August."
   - q: "Are there free outdoor cinemas in London?"
-    a: "Yes, all in summer. Everyman on the Canal at King's Cross is free and first come, first served on the Granary Square steps, from late June to mid-August. Vauxhall Summer Screens shows a film every Tuesday in July in Vauxhall Pleasure Gardens. Lower Marsh Lates in Waterloo screens on the last Thursday of June, July and August, and Devonshire Square near Liverpool Street runs a few early-evening films in June and July. The last three ask you to register for a free ticket."
+    a: "Yes, all in summer. Everyman on the Canal at King's Cross is free and first come, first served on the Granary Square steps, from late June to mid-August. Canary Wharf's Summer Screens shows films and sport on a big screen in Canada Square Park from June to late August. Vauxhall Summer Screens shows a film every Tuesday in July in Vauxhall Pleasure Gardens. Lower Marsh Lates in Waterloo screens on the last Thursday of June, July and August, and Devonshire Square near Liverpool Street runs a few early-evening films in June and July. The last three ask you to register for a free ticket."
   - q: "What happens at an outdoor cinema in London if it rains?"
     a: "The film goes on. Rooftop Cinema Club screens through light rain and hands out free ponchos, and only cancels for storms or high winds, with an email at least an hour before and a credit to move your ticket. Adventure Cinema goes ahead in rain and allows small umbrellas. The Barbican has ponchos if you forget a coat, and warns that its headphones are not waterproof."
   - q: "Can you take your own food and drink to an outdoor cinema?"
@@ -48,6 +48,7 @@ faq:
 | **King's Cross** | Everyman on the Canal, Granary Square (free) | Late June to mid-August |
 | **The Barbican** | Barbican Outdoor Cinema, Sculpture Court | August |
 | **Kew** | Adventure Cinema at Kew Gardens | June |
+| **Canary Wharf** | Summer Screens, Canada Square Park (free) | June to late August |
 | **Vauxhall** | Vauxhall Summer Screens (free) | Tuesdays in July |
 | **Waterloo** | Lower Marsh Lates (free) | Last Thursday of June, July and August |
 | **Liverpool Street** | Devonshire Square Cinema Under the Stars (free) | June and July, weekdays |
@@ -128,7 +129,7 @@ Both are dinner-and-a-film packages on a hotel roof, booked by the evening, and 
 
 ## Free screenings
 
-All four are open-air and summer-only.
+All five are open-air and summer-only.
 
 ### Everyman on the Canal, King's Cross
 
@@ -137,6 +138,12 @@ All four are open-air and summer-only.
 **Turfed steps down to the Regent's Canal facing a screen on the far bank**, so the water runs between you and the film. Wimbledon is shown in the daytime during the championships, with films in the evening, often two a night: *Jaws*, *Paddington*, *Moonrise Kingdom* and *Roman Holiday* were among the 2026 titles. An Everyman bar on the square sells drinks and snacks.
 
 **Free, with no ticket**: seating is first come, first served and capacity is limited, so arrive well before a popular title. The steps close at 10pm. The steps are uncovered, so dress for the weather. King's Cross publishes the [2026 programme](https://www.kingscross.co.uk/media/KINGS-X-programme-2026-updated-w5-digital-posters-no-QR.pdf). Our [King's Cross guide](/articles/kings-cross-area-guide/) covers Granary Square and Coal Drops Yard around it.
+
+### Summer Screens, Canary Wharf
+
+*Canada Square Park, above Canary Wharf station (Jubilee line) · June to late August*
+
+**A big screen on the lawn in the middle of the towers**, showing films and live sport through the summer. It is a bring-your-own set-up: take a blanket and a picnic, and the Waitrose in the Canada Place mall is a short walk for supplies. **Free.** Canary Wharf publishes each season's programme on its [Summer Screens page](https://canarywharf.com/whats-on/summer-screens/). Our [Canary Wharf guide](/articles/canary-wharf-area-guide/) covers the estate around it.
 
 ### Vauxhall Summer Screens, Vauxhall Pleasure Gardens
 
@@ -168,6 +175,7 @@ All four are open-air and summer-only.
 | **Barbican** | £10–£20 | Chairs set out, first come; headphones | Food stalls and bars; only drink bought on site | Ponchos on hand; keep the headphones dry |
 | **Adventure Cinema, Kew** | Varies by show | Bring your own, or book Premium or Director's View | Picnics and own drinks welcome, no glass | Goes ahead; small umbrellas only |
 | **Everyman on the Canal** | Free, no ticket | Turfed steps, first come | Everyman bar on the square | No cover on the steps |
+| **Summer Screens, Canary Wharf** | Free | Bring a blanket | Bring a picnic | Open lawn |
 | **Vauxhall Summer Screens** | Free, register | Bring a blanket | Street food | Open park |
 | **Lower Marsh Lates** | Free, register | Deckchairs, first come | Deals from the street's shops and bars | Open street |
 
