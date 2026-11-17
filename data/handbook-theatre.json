@@ -3,7 +3,7 @@
   "updated": "2026-11-17",
   "inProgress": [],
   "waitingOnRob": [
-    "Seat-colour jumps (a seat two grades better than the one beside it, in front or behind): 97 groups across 41 maps give no physical cause. Review list sent 17 Nov; nothing smoothed until Rob picks which kinds to change.",
+    "Access facts the theatres' sites would not give us by script: Olivier row R wheelchair spaces (flat or one step up?), Royal Albert Hall lift locations, Globe Upper Gallery backrests, Park200 seats, Hippodrome Main Floor chairs. Read them in Chrome, or leave the notes as they are?",
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
     "SeatPlan seat numbers where they agree with another source (Apollo, Duchess, Garrick, Palace): use them?",
     "Approve the Hippodrome and Globe maps, which are built from SeatPlan's chart.",
@@ -22,6 +22,14 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-17",
+      "what": "Theatre pages: the per-level \"Access and facilities\" box removed (it repeated the notes and the Facilities section); every level's access now sits in one Access point in its seating notes, on all 80 mapped theatres; clashes settled from the theatres' own access pages (Aldwych, Shaftesbury, Dominion, Peacock, County Hall, Fortune). Colour key moved inside the map on screens 640px and wider; \"Embed this map\" moved to just under the map; cloakroom price shown in its own tile. Uncommitted in ltheatre-matinee."
+    },
+    {
+      "date": "2026-11-17",
+      "what": "Seat colours: two-step jumps smoothed on 14 maps where the overhang starts or a row ends at an angle (a good seat between best and fair); sourced best rows kept at Gielgud, Prince of Wales and Garrick. Gillian Lynne Dress Circle C-D centre now good, and its seating, access and facilities text rewritten. Distance lines that had landed in the wrong level fixed on six theatres."
+    },
     {
       "date": "2026-11-17",
       "what": "Seat maps: single-source warnings put back as fair (theatre-sold seats stay restricted), and the rows furthest from the stage made fair in houses of 600+ seats (in-the-round rooms left out), on all regraded maps plus 26 others; seating notes gained Distance lines. Palladium Stalls D and E now good. README rules 12 and 13. Uncommitted in ltheatre-matinee."
