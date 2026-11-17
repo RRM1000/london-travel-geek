@@ -1,10 +1,9 @@
 {
   "note": "Hand-kept Theatre Geek tab of the combined handbook (scripts/build-combined-handbook.mjs). Theatre Geek has no repo-read half yet: update this as work moves, rebuild, republish.",
   "updated": "2026-11-17",
-  "inProgress": [
-    "Seat-map colours: regrading the 18 maps whose grades leaned most on Theatremonkey, from our own sightline model (side angle, pillars, overhang) plus SeatPlan reviewers and the theatres' own flags. Gillian Lynne, Olivier, Lyttelton, Bridge, Peacock, Donmar, Prince of Wales, Savoy, Criterion, Novello, Wyndham's and Trafalgar done; Lyceum, Palladium, Drury Lane, Coliseum, His Majesty's and Dominion running. README rules 10 and 11 added. Work is in ltheatre-matinee, uncommitted."
-  ],
+  "inProgress": [],
   "waitingOnRob": [
+    "Seat-map regrade: some maps are now more generous where Theatremonkey was the only source of a bad seat (Novello rear Stalls, Trafalgar P and Q, Palladium rear Stalls and Grand Circle ends, Donmar all good). Happy with that, or keep a seat coloured where a single source warns?",
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
     "SeatPlan seat numbers where they agree with another source (Apollo, Duchess, Garrick, Palace): use them?",
     "Approve the Hippodrome and Globe maps, which are built from SeatPlan's chart.",
@@ -23,10 +22,29 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
-    { "date": "2026-11-17", "what": "Gillian Lynne stage: new `bow` and `depth` settings for a curved stage, so the front curve can be flatter and the stage deeper behind the opening." },
-    { "date": "2026-11-17", "what": "Every seat map (80) fully checked for colours, vertical alignment and curves; 17 maps that were drawn as mirror images fixed; Haymarket, The Other Palace and Gillian Lynne curves rebuilt from plans and photos." },
-    { "date": "2026-11-17", "what": "Theatremonkey audit: 2,171 grade rules counted by source; 18 maps had seat-for-seat copied lists." },
-    { "date": "2026-11-16", "what": "Royal Albert Hall best seats moved near the stage, central front Loggia boxes green (pushed, 9d00207)." },
-    { "date": "2026-11-16", "what": "History (Wyndham's) added and live, with poster, Groups 10+ deal and buying advice; Diana previews and Q&A added." }
+    {
+      "date": "2026-11-17",
+      "what": "Seat-map colours regraded on the 18 maps that leaned most on Theatremonkey (Gillian Lynne, Lyceum, Palladium, Drury Lane, Coliseum, His Majesty's, Dominion, Prince of Wales, Savoy, Criterion, Novello, Wyndham's, Trafalgar, Olivier, Lyttelton, Bridge, Peacock, Donmar): Theatremonkey-only grades and its seat lists removed; side angles and pillars graded from our own sightline model using real proscenium widths where published; SeatPlan reviewers and the theatres' own flags kept. README rules 10 and 11. Uncommitted in ltheatre-matinee. Overhang measure not trusted (circle heights drawn by eye), so overhang grades come from sources only."
+    },
+    {
+      "date": "2026-11-17",
+      "what": "Gillian Lynne stage: new `bow` and `depth` settings for a curved stage, so the front curve can be flatter and the stage deeper behind the opening."
+    },
+    {
+      "date": "2026-11-17",
+      "what": "Every seat map (80) fully checked for colours, vertical alignment and curves; 17 maps that were drawn as mirror images fixed; Haymarket, The Other Palace and Gillian Lynne curves rebuilt from plans and photos."
+    },
+    {
+      "date": "2026-11-17",
+      "what": "Theatremonkey audit: 2,171 grade rules counted by source; 18 maps had seat-for-seat copied lists."
+    },
+    {
+      "date": "2026-11-16",
+      "what": "Royal Albert Hall best seats moved near the stage, central front Loggia boxes green (pushed, 9d00207)."
+    },
+    {
+      "date": "2026-11-16",
+      "what": "History (Wyndham's) added and live, with poster, Groups 10+ deal and buying advice; Diana previews and Q&A added."
+    }
   ]
 }
