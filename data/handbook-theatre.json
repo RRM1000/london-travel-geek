@@ -3,7 +3,6 @@
   "updated": "2026-11-17",
   "inProgress": [],
   "waitingOnRob": [
-    "Access facts the theatres' sites would not give us by script: Olivier row R wheelchair spaces (flat or one step up?), Royal Albert Hall lift locations, Globe Upper Gallery backrests, Park200 seats, Hippodrome Main Floor chairs. Read them in Chrome, or leave the notes as they are?",
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
     "SeatPlan seat numbers where they agree with another source (Apollo, Duchess, Garrick, Palace): use them?",
     "Approve the Hippodrome and Globe maps, which are built from SeatPlan's chart.",
@@ -22,6 +21,10 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-17",
+      "what": "Olivier row R wording and Royal Albert Hall lifts (Doors 1 and 8) confirmed from the NT and RAH access pages in Chrome; RAH map lift lines corrected. Globe backrests, Park200 seats and Hippodrome chairs: the venues say nothing, notes left as they were."
+    },
     {
       "date": "2026-11-17",
       "what": "Theatre pages: the per-level \"Access and facilities\" box removed (it repeated the notes and the Facilities section); every level's access now sits in one Access point in its seating notes, on all 80 mapped theatres; clashes settled from the theatres' own access pages (Aldwych, Shaftesbury, Dominion, Peacock, County Hall, Fortune). Colour key moved inside the map on screens 640px and wider; \"Embed this map\" moved to just under the map; cloakroom price shown in its own tile. Uncommitted in ltheatre-matinee."
