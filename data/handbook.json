@@ -26,8 +26,7 @@
     "Decide what happens to the tube and rail lines guide, which lost 95% of its readers to the fares guide: merge and redirect, or make them clearly different.",
     "Check the best areas to stay guide against the budget hotels prices: it says moving further out saves too little, but the middle typical night further out was £141.50 against £179.50 in central London.",
     "Wire in Trainline links once you have joined its affiliate programme.",
-    "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring.",
-    "Theatre Geek seat reviews (Rob, 17 Nov 2026: later, not yet). A \"Sat here?\" button in the seat pop-up: signed-in readers rate the view and comfort (1-5), name the show and date, add a sentence. Reviews wait in a moderation queue, then show in that seat's pop-up. Start from today's colours and move a seat's grade only once its area has enough reviews (3 or more), worst report wins, marked as readers' reports. About a day for the first version (Supabase table, form, pop-up display, queue)."
+    "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring."
   ],
   "waitingOnRob": [
     "Optional: request indexing in Search Console for hen-do-london and where-to-stay-south-kensington (the SEO refresh is live; Google will re-crawl the others on its own).",
