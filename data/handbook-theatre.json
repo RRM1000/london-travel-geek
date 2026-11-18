@@ -3,7 +3,7 @@
   "updated": "2026-11-18",
   "inProgress": [],
   "waitingOnRob": [
-    "Wording rewrite: lwtheatres.co.uk blocks scripts, so His Majesty's and Drury Lane visitor facts are reworded, not re-checked (Chrome could read them). Apollo Victoria: the venue calls rear Stalls X to ZC unobstructed, the map grades Z to ZF restricted; and the map's only best Stalls seats are rows A and Q. Lyceum box office hours differ between its own pages (19:45 vs 20:00).",
+    "Wording rewrite: Apollo Victoria: the venue calls rear Stalls X to ZC unobstructed, the map grades Z to ZF restricted; and the map's only best Stalls seats are rows A and Q. Lyceum box office hours differ between its own pages (19:45 vs 20:00).",
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
     "SeatPlan seat numbers where they agree with another source (Apollo, Duchess, Garrick, Palace): use them?",
     "Approve the Hippodrome and Globe maps, which are built from SeatPlan's chart.",
@@ -23,6 +23,10 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-18",
+      "what": "His Majesty's and Theatre Royal Drury Lane visitor and access facts checked against LW Theatres' own pages in Chrome: all step counts and lift rows confirmed; added the step-free route from Green Park, buses, drop-off and Blue Badge bays (His Majesty's), car and coach parking (Drury Lane), wheelchair space size and transfer seats, in-seat bar service, and each stage door's access phone line. Uncommitted in ltheatre-matinee."
+    },
     {
       "date": "2026-11-18",
       "what": "Seating and visitor wording rewritten to the Gillian Lynne model on five more theatres: Lyceum, Theatre Royal Drury Lane, His Majesty's, Prince Edward and Apollo Victoria (bullets only, one Access point, Layout last, \"Book ...\" verdicts matching the map). Uncommitted in ltheatre-matinee."
