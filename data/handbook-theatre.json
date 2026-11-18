@@ -26,6 +26,10 @@
   "recentlyDone": [
     {
       "date": "2026-11-18",
+      "what": "Pushed live (Rob approved) as one deploy, 9d00207..1251302: every mapped theatre rewritten, seat map and theatre page updates, Black Friday deals and the best Black Friday theatre deals feature (its migration was already applied), the faster-deploy settings, and the logo component, about-page card pop-ups and Guides menu fix. Built locally on the rebased commit first; the live CSS carries the new rules, and the feature and theatre pages return 200."
+    },
+    {
+      "date": "2026-11-18",
       "what": "Faster Vercel deploys (Rob approved): the type check is skipped on Vercel only (next.config.mjs, VERCEL=1), since every push is built locally first, saving about 12s; and vercel.json ignoreCommand skips the deploy when nothing the site uses changed since the last deploy (src, public, scripts/lib, package files, configs). Local webpack build passes with the type check still running. Uncommitted in ltheatre-matinee, going out with the next push."
     },
     {
