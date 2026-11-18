@@ -3,7 +3,7 @@
   "updated": "2026-11-18",
   "inProgress": [],
   "waitingOnRob": [
-    "Wording rewrite: Apollo Victoria: the venue calls rear Stalls X to ZC unobstructed, the map grades Z to ZF restricted; and the map's only best Stalls seats are rows A and Q. Lyceum box office hours differ between its own pages (19:45 vs 20:00).",
+    "Wording rewrite: venue vs map or venue vs itself. Apollo Victoria: venue calls rear Stalls X to ZC unobstructed, map grades Z to ZF restricted. Palace: venue puts wheelchair spaces at S3 and S28, but map row S runs 1 to 26. Lyceum, Palace, Savoy, Apollo and Piccadilly box office hours differ between their own pages. Step counts differ between venue page and help centre at Novello, Sondheim, Gielgud, Victoria Palace and Dominion (venue page used). Piccadilly has 20 standing places per level on the map; old text said 16, count now removed.",
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
     "SeatPlan seat numbers where they agree with another source (Apollo, Duchess, Garrick, Palace): use them?",
     "Approve the Hippodrome and Globe maps, which are built from SeatPlan's chart.",
@@ -23,6 +23,10 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-18",
+      "what": "Seating and visitor wording rewritten to the Gillian Lynne pattern for 12 more theatres: London Palladium, Adelphi, Dominion, Prince of Wales, Novello, Sondheim, Gielgud, Victoria Palace, Savoy, Palace, Apollo and Piccadilly. Best seats, overhangs and restricted seats checked against the map grades; visitor facts from each venue's own pages (LW pages read in Chrome). Uncommitted in ltheatre-matinee."
+    },
     {
       "date": "2026-11-18",
       "what": "His Majesty's and Theatre Royal Drury Lane visitor and access facts checked against LW Theatres' own pages in Chrome: all step counts and lift rows confirmed; added the step-free route from Green Park, buses, drop-off and Blue Badge bays (His Majesty's), car and coach parking (Drury Lane), wheelchair space size and transfer seats, in-seat bar service, and each stage door's access phone line. Uncommitted in ltheatre-matinee."
