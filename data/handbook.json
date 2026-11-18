@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "inProgress": [],
   "nextUp": [
     "Food video creators into the food guides. Creator Picks page (https://claude.ai/artifact/E3BdmPFHKrtgLvEAxEQDqa) reads 494 videos from 10 YouTube creators (2025-26): 698 venues, 277 already on the site, 85 in our data on no page, 335 new (about half with names from auto-captions, to verify). Next: record Aton Of Food, Noodle alla Gola and Jacob King as tier-D sources in the topics they cover; verify the uncertain names; retry Gary Eats, Hannah Ricketts and What's Good London with correct handles; add the strongest new openings to guides. Nothing recorded yet - waiting on Rob's go. Working files: scratchpad/social (collect.mjs, xref.mjs, build-page.mjs).",
@@ -29,6 +29,7 @@
     "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring."
   ],
   "waitingOnRob": [
+    "Prices on GetYourGuide tours that are still live drift too (e.g. a Stonehenge tour the page lists at £140.25 is now from £165). The weekly check only catches deactivated tours; say if you want a price sweep.",
     "Optional: request indexing in Search Console for hen-do-london and where-to-stay-south-kensington (the SEO refresh is live; Google will re-crawl the others on its own).",
     "Best Sushi (branch ltg-sushi) still not live: needs venue photos, Sheet rows and booking links checked.",
     "Shard (product 24625) and Parliament (product 1044178) GetYourGuide ids were confirmed from listing titles only; check both widgets show the right product on the live pages.",
@@ -80,6 +81,14 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-18",
+      "what": "GetYourGuide dead links: GYG's dashboard flagged 45 redirected deep links. A full check found 81 deactivated activities (16 LTG, 65 CBG), now replaced with live equivalents or removed, with page prices updated (unpushed: LTG f7c0afc2, CBG 5e467912). New scripts in both repos: scripts/audit-gyg-activities.mjs (checks every GYG id in src/ via GYG's widget feed, ~15 min on CBG) and scripts/gyg-search.mjs (search GYG's live catalogue, or --ids= to check ids). Weekly scheduled task 'gyg-dead-activity-check' runs the audit on both live sites every Monday at 8am and reports."
+    },
+    {
+      "date": "2026-11-17",
+      "what": "Black Friday guide: Search Console showed 'selfridges black friday 2026' as its top search (people want in-store shopping, not online deals), so it now has a Selfridges section and FAQ (unpushed, 4d8c646c). Outdoor cinema guide: Canary Wharf Summer Screens added, linked from the Canary Wharf guide (6216e1db). GYG widgets added to /plaques, /free, /markets and the things-to-do and food-and-drink topic pages, max two per page and spread through it; Hong Kong hub widget on CBG."
+    },
     {
       "date": "2026-11-16",
       "what": "New pages (unpushed): things-to-do-in-london-in-march and -april (Easter 26-29 Mar 2027, Boat Race, two-day Marathon), london-exhibitions-2027 (month-by-month museum shows; Hockney at Tate Britain is posthumous: he died June 2026), sea-life-london-aquarium-guide (9 Commons photos), outdoor-cinema-london (winter rooftop dinner screenings; summer series; reviewBy 15 Apr 2027 for season dates), best-rooftop-bars-london and best-beer-gardens-london (consensus: 20 and 19 sources, winter-open tables first; reviewBy 15 Feb 2027 for Coq d'Argent's move). London Dungeon guide not written: no interior photos exist on Commons; needs Rob's or Merlin's photos."
