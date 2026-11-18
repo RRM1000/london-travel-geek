@@ -26,6 +26,10 @@
   "recentlyDone": [
     {
       "date": "2026-11-18",
+      "what": "Faster Vercel deploys (Rob approved): the type check is skipped on Vercel only (next.config.mjs, VERCEL=1), since every push is built locally first, saving about 12s; and vercel.json ignoreCommand skips the deploy when nothing the site uses changed since the last deploy (src, public, scripts/lib, package files, configs). Local webpack build passes with the type check still running. Uncommitted in ltheatre-matinee, going out with the next push."
+    },
+    {
+      "date": "2026-11-18",
       "what": "Purcell Room and Queen Elizabeth Hall visitor facts checked on southbankcentre.co.uk in Chrome (Rob approved): distances, buses, Blue Badge parking, step-free routes, Changing Places and seat sizes added; the £1 cloakroom and the foyer bar dropped as the Southbank site does not give them. Uncommitted in ltheatre-matinee."
     },
     {
