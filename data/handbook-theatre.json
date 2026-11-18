@@ -1,6 +1,6 @@
 {
   "note": "Hand-kept Theatre Geek tab of the combined handbook (scripts/build-combined-handbook.mjs). Theatre Geek has no repo-read half yet: update this as work moves, rebuild, republish.",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "inProgress": [],
   "waitingOnRob": [
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
@@ -22,6 +22,10 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-18",
+      "what": "Embedded seat maps carry a London Theatre Geek logo badge in the top-right corner of the map, linking to the theatre page in a new tab (embed version only). Theatre pages: the sticky side box shows capacity only, without the \"medium venue\" label. Uncommitted in ltheatre-matinee."
+    },
     {
       "date": "2026-11-17",
       "what": "Wordmark moved into its own component (Wordmark.tsx), used in the header and footer. It looks exactly as before (a redesign was tried and Rob turned it down), but every dot and letter is now its own element with an index, ready for hover or scroll animation later. Uncommitted in ltheatre-matinee."
