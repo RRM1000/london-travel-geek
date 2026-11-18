@@ -3,7 +3,7 @@
   "updated": "2026-11-18",
   "inProgress": [],
   "waitingOnRob": [
-    "Wording rewrite: venue vs map or venue vs itself. Apollo Victoria: venue calls rear Stalls X to ZC unobstructed, map grades Z to ZF restricted. Palace: venue puts wheelchair spaces at S3 and S28, but map row S runs 1 to 26. Lyceum, Palace, Savoy, Apollo and Piccadilly box office hours differ between their own pages. Step counts differ between venue page and help centre at Novello, Sondheim, Gielgud, Victoria Palace and Dominion (venue page used). Piccadilly has 20 standing places per level on the map; old text said 16, count now removed.",
+    "Wording rewrite: venue vs map or venue vs itself. Apollo Victoria: venue calls rear Stalls X to ZC unobstructed, map grades Z to ZF restricted. Palace: venue puts wheelchair spaces at S3 and S28, but map row S runs 1 to 26. Lyceum, Palace, Savoy, Apollo and Piccadilly box office hours differ between their own pages. Step counts differ between venue page and help centre at Novello, Sondheim, Gielgud, Victoria Palace and Dominion (venue page used). Piccadilly has 20 standing places per level on the map; old text said 16, count now removed. Round 3: Phoenix venue calls Stalls rows E to K best, map grades only E to H best; Aldwych web page puts wheelchair seats at C1 and C25, its Access Guide and the map say C23; Noël Coward says both 6 and 3 steps to the Royal Circle (6 used); Coliseum site names no Tube stations, old walk times kept; Shaftesbury site gives no toilet locations, so they are off the page.",
     "SeatPlan per-seat data is blocked for Claude: add a Bash permission rule for curl to seatplan.com/api to let the 13 maps checked without it be rechecked.",
     "SeatPlan seat numbers where they agree with another source (Apollo, Duchess, Garrick, Palace): use them?",
     "Approve the Hippodrome and Globe maps, which are built from SeatPlan's chart.",
@@ -23,6 +23,10 @@
     "Apply to TodayTix on impact.com (programme 20944, rated a strong fit for Theatre Geek)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-18",
+      "what": "Seating and visitor wording rewritten to the Gillian Lynne pattern for 12 more theatres: Cambridge (LW pages read in Chrome), Shaftesbury, Phoenix, London Coliseum, Harold Pinter, Wyndham's, Noël Coward, Theatre Royal Haymarket, Aldwych, Criterion, Garrick and Lyric. Best seats, overhangs and restricted seats checked against the map grades; visitor facts from each venue's own pages. Uncommitted in ltheatre-matinee."
+    },
     {
       "date": "2026-11-18",
       "what": "Seating and visitor wording rewritten to the Gillian Lynne pattern for 12 more theatres: London Palladium, Adelphi, Dominion, Prince of Wales, Novello, Sondheim, Gielgud, Victoria Palace, Savoy, Palace, Apollo and Piccadilly. Best seats, overhangs and restricted seats checked against the map grades; visitor facts from each venue's own pages (LW pages read in Chrome). Uncommitted in ltheatre-matinee."
