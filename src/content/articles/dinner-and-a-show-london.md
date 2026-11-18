@@ -286,10 +286,6 @@ A 1930s New York speakeasy show, three minutes from Peckham Rye station, with **
 
 The dress code is "1930s luxe" — black, white and metallics — and it is best suited to over-18s. No photography inside, and late arrivals are held until a break. [Our cabaret guide](/articles/best-cabaret-london/) covers The Lost Estate's other productions, including its Christmas feast.
 
-GetYourGuide sells <a href="https://www.getyourguide.com/activity/-t888396?partner_id=WWP7I0R&amp;cmp=dinner-and-a-show-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the dinner show ticket</a> from £120, rated 4.3 from 31 reviews; the calendar below shows which dates have seats.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="888396" data-gyg-locale-code="en-GB" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
 ### The London Cabaret Club, Holborn
 
 *£££ · Holborn · Victoria House, Bloomsbury Square, WC1B · Cited by 7 sources · [book](https://www.thelondoncabaretclub.com/book-tickets/)*

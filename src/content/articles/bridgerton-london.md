@@ -58,7 +58,7 @@ faq:
 | Bridgerton walking tour, Greenwich | £27.00 | GetYourGuide |
 | Hampton Court Palace, off-peak | £30.00 | Historic Royal Palaces |
 | Blenheim Palace, Park and Gardens | £34.00 | Blenheim Palace |
-| Hampton Court half-day trip from London, with tickets | £80.00 | GetYourGuide |
+| Hampton Court and Windsor Castle day trip from London | From £112 | GetYourGuide |
 
 ## Tours
 
@@ -68,7 +68,7 @@ Most Bridgerton locations are stately homes with their own tickets, so a tour bu
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="1219258" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
-**<a href="https://www.getyourguide.com/activity/-t70032?partner_id=WWP7I0R&amp;cmp=bridgerton-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Half-Day Trip from London with Tickets</a>** is **£80** for **5½ hours**, **4.3 from 48 reviews**: a coach from London and entry to the palace whose Privy Garden plays Queen Charlotte's. The ticket alone is £30 off-peak, so the rest of the price is the transport.
+**<a href="https://www.getyourguide.com/activity/-t1455301?partner_id=WWP7I0R&amp;cmp=bridgerton-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">London: Hampton Court Palace and Windsor Castle Day Trip</a>** is **from £112** for **7 hours**: a day trip from London to Hampton Court Palace, whose Privy Garden plays Queen Charlotte's, and Windsor Castle, with a panoramic bus tour of London on the way. The Hampton Court ticket alone is £30 off-peak.
 
 **In Bath**, which stands in for Regency London's Grosvenor Square, two Bridgerton walks have far more reviews than anything in London. **<a href="https://www.getyourguide.com/activity/-t561078?partner_id=WWP7I0R&amp;cmp=bridgerton-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath: Guided Tour of Iconic Bridgerton Filming Locations</a>** is **£20** for 2 hours, **4.6 from 408 reviews**, with photographs of the scenes at each stop. **<a href="https://www.getyourguide.com/activity/-t396938?partner_id=WWP7I0R&amp;cmp=bridgerton-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Bath: Bridgerton Filming Locations Walking Tour with Music</a>** is **£22** for 1½ hours, **4.7 from 519 reviews**, with the show's music on headphones. Our [Bath day trip guide](/articles/bath-day-trip/) covers the train.
 

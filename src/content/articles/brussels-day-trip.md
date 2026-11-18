@@ -112,7 +112,7 @@ The 08:16 out and the last train back give you from **10:13 to around 18:40–19
 
 Brussels-Midi's Metro and premetro (underground tram) station sits directly beneath the platforms, on lines 2, 4, 6 and 10. A **premetro ride of about 10 minutes** takes you to De Brouckère, by the Bourse and a short walk from the Grand-Place. Walking the whole way takes about 20 minutes.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="brussels-day-trip-things-to-see" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="204439,71219,409338"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="brussels-day-trip-things-to-see" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="204439,65056,409338"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to do with the day
 
@@ -170,7 +170,7 @@ If you are on one of the early trains and can give it 90 minutes to two hours th
 
 Bruges is about an hour from Brussels-Midi by Belgian train and Ghent around 35 minutes, but added to the London leg the maths stops working for a single day. To see both, a guided day trip run from Brussels covers transport and a local guide in one booking; the cheaper option is a Belgian Rail ticket bought on the day, with no advance booking on domestic routes. Each fits better as its own day trip from London on the same Eurostar route: see the **[Bruges day trip guide](/articles/bruges-day-trip/)** for the fares and the hours that leaves you.
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="brussels-day-trip-bruges-ghent" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="66951,204439,71219"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="brussels-day-trip-bruges-ghent" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="66951,204439,168011"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## Where to stay
 

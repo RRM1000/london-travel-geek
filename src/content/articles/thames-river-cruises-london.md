@@ -168,7 +168,7 @@ The Westminster to Greenwich sightseeing boats turn at Greenwich. The choices ar
 - **Sailings follow the tide** and change week to week. The [upcoming sailings page](https://www.thamesriverboats.co.uk/river-tour-information/upcoming-sailings) lists every boat for the next fortnight.
 - Tickets online or at the pier offices. A bar on board takes cash or card.
 
-Going one way by boat and back by train makes the day workable: [Kew Gardens](/articles/kew-gardens-guide/) is 1h 15m from Westminster, and [Richmond](/articles/richmond-area-guide/) has a direct train to Waterloo. GetYourGuide also sells the <a href="https://www.getyourguide.com/activity/-t492850?partner_id=WWP7I0R&amp;cmp=thames-river-cruises-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Westminster to Hampton Court cruise</a> from £27.
+Going one way by boat and back by train makes the day workable: [Kew Gardens](/articles/kew-gardens-guide/) is 1h 15m from Westminster, and [Richmond](/articles/richmond-area-guide/) has a direct train to Waterloo.
 
 ## Evening, Christmas and New Year's Eve cruises
 

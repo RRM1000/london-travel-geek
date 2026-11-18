@@ -145,7 +145,7 @@ It says the shop has:
 
 It is a shop, not the Studio Tour: the Studio Tour's own shop needs a tour ticket, and our [Studio Tour guide](/articles/harry-potter-studio-tour/) covers tickets and transport. [Harry Potter in London](/articles/harry-potter-london/) compares the three official shops, and the [filming locations walk](/articles/harry-potter-filming-locations-walk/) passes the one at King's Cross. For a Harry Potter day out, these cover the Studio Tour and the film locations:
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-street-guide-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,912548,772912"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="oxford-street-guide-harry-potter" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="31392,1065763,772912"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 For VAT, see [tax-free shopping](/articles/tax-free-shopping-london/), for the rest of the city's shopping, [shopping in London](/articles/shopping-in-london/), and for presents to take home, [what to buy in London](/articles/london-gifts-souvenirs/).
 

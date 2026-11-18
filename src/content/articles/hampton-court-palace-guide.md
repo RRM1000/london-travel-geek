@@ -46,7 +46,7 @@ Hampton Court Palace is two palaces at one address on the Thames in East Molesey
 Allow longer than you think. The Tudor Kitchens cover half an acre, the gardens run to 60 acres, and the hedge maze has been catching visitors out since the 1690s. As a two-hour add-on to a day in London you will rush past most of it.
 
 > 💡 **The Short Version:**
-> - **Price:** Adult £30.00 online off-peak / £33.00 peak until 27 November 2026. Children (5–17) £15.00–£16.50; under-5s free. An optional 10% donation is added at checkout. Book direct through [Historic Royal Palaces](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/) or skip arranging transport with the <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-half-day-trip-from-london-with-tickets-t70032/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Half-Day Trip from London with Tickets on GetYourGuide</a>, £80pp with return coach transport and entry included.
+> - **Price:** Adult £30.00 online off-peak / £33.00 peak until 27 November 2026. Children (5–17) £15.00–£16.50; under-5s free. An optional 10% donation is added at checkout. Book direct through [Historic Royal Palaces](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/) or buy it with an audio guide through <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-entry-ticket-with-audio-guide-t1498698/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Entry Ticket with Audio Guide on GetYourGuide</a>, from £30pp.
 > - **Getting there:** South Western Railway direct from **London Waterloo**, **35 minutes**, **Zone 6**, two trains an hour. In summer, a **riverboat from Westminster or Richmond** takes far longer but is part of the day out.
 > - **Time needed:** **at least three hours**, four or more with the gardens and maze.
 > - **What's included:** The maze, the Tudor Kitchens, the Privy Garden and the Magic Garden come with standard admission. The Great Vine and Sunken Garden are closed 26 October–23 November.
@@ -71,7 +71,7 @@ Winter Palace tickets (28 November 2026 – 3 January 2027) cost more because th
 
 An optional **10% donation** is added at checkout; tick the Gift Aid box and Historic Royal Palaces can claim an extra 25% of your ticket price from HMRC at no cost to you. Anyone on Universal Credit, Working Tax Credit, Pension Credit, Employment and Support Allowance, Income Support or Jobseeker's Allowance can buy **£1 tickets for up to four people**, booked online in advance; they sell out. Historic Royal Palaces membership, which also covers the Tower of London and Kensington Palace, starts at £65 a year.
 
-Book direct through [Historic Royal Palaces' ticket page](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/), or bundle the ticket with return transport from central London via the <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-half-day-trip-from-london-with-tickets-t70032/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Half-Day Trip from London with Tickets</a>.
+Book direct through [Historic Royal Palaces' ticket page](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/), or buy it with an audio guide through the <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-entry-ticket-with-audio-guide-t1498698/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Entry Ticket with Audio Guide</a>.
 
 **Opening hours:** 10am–4pm, last entry 3pm. In school term time the palace opens Wednesday to Sunday only, closed Monday and Tuesday; in Easter, summer, Christmas and half-term school holidays it opens daily. Winter Palace hours (28 November–3 January) are 10am–4.30pm, last entry 2.30pm, extended to 7.30pm (last entry 5.30pm) on 9–11, 16–17 and 19–30 December.
 
@@ -85,7 +85,7 @@ Book direct through [Historic Royal Palaces' ticket page](https://www.hrp.org.uk
 
 ### By river (summer)
 
-In summer, a **riverboat from Westminster or Richmond** is the slower, more scenic way in. Westminster Passenger Services sails from **Westminster Pier**, calling at Kew and Richmond, with the full run to Hampton Court taking around **3.5–4 hours** depending on the tide. Turks Launches covers the **Richmond–Hampton Court** stretch in about **1 hour 45 minutes**, and the **Hampton Court–Kingston** leg in around 35 minutes. GetYourGuide sells the Turks route as a standalone cruise: <a href="https://www.getyourguide.com/london-l57/boat-trip-from-richmond-to-hampton-court-on-the-river-thames-t467545/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Richmond to Hampton Court River Thames Cruise</a> (around £15pp, 1h30m) and <a href="https://www.getyourguide.com/london-l57/boat-trip-from-hampton-court-to-richmond-on-the-river-thames-t465271/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court to Richmond River Thames Cruise</a> (around £15pp, 1 hour) for the return leg. See our [guide to London river boats](/articles/how-to-use-london-river-boats/) for piers and general fares.
+In summer, a **riverboat from Westminster or Richmond** is the slower, more scenic way in. Westminster Passenger Services sails from **Westminster Pier**, calling at Kew and Richmond, with the full run to Hampton Court taking around **3.5–4 hours** depending on the tide. Turks Launches covers the **Richmond–Hampton Court** stretch in about **1 hour 45 minutes**, and the **Hampton Court–Kingston** leg in around 35 minutes. See our [guide to London river boats](/articles/how-to-use-london-river-boats/) for piers and general fares.
 
 ### By bus and car
 
@@ -93,7 +93,7 @@ Bus **R68** runs directly between Richmond and Hampton Court. From Kingston, rou
 
 ---
 
-<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampton-court-palace-guide-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="70032,443122,388125"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
+<div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampton-court-palace-guide-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="1498698,443122,388125"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ## What to see
 

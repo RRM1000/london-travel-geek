@@ -97,7 +97,7 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 | Shared punt, Cambridge only | 45–50 min | £15 per person, or £25 a row | The river, and nothing else |
 | Self-hire punt | 1 hour | £38 per punt, up to 6 | — |
 | **Walk and punt together** | 2¾–3¾ hours | **£55 per person** | **Punting yes**, King's an upgrade |
-| Oxford and Cambridge by coach | 10–11½ hours | £85 | Great St Mary's tower on the £85; colleges optional on the rest |
+| Oxford and Cambridge by coach | 10 hours | £119 | Nothing at £119; King's and Christ Church are options |
 | Cambridge from London by coach | 9½–10 hours | £84 | Nothing at £84; King's on the £130 |
 | Private, with Duxford and Audley End | 10 hours | £886 per car, up to 6 | Nothing — all entrance fees excluded |
 
@@ -126,8 +126,6 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 
 <a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Oxford and Cambridge Universities Tour</a> is that **£119**, ten hours, 4.2 from 326 reviews, with a guided walk in each city, a coach and audio headsets. Its excludes list reads "Entry to King's College and Christ Church College (if selecting the option excluding college entries)" — so the £119 is the option without either. <a href="https://www.getyourguide.com/activity/-t18407?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The Golden Tours day</a> is **£99** and 3.9 from 222 reviews, with both colleges "if selected".
 
-<a href="https://www.getyourguide.com/activity/-t85239?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">The £85 University Town Tour</a> is the cheapest and the only one carrying an entry with no conditions — **the tower of Great St Mary's in Cambridge**. It is 11½ hours, 4.2 from 78 reviews, and Cambridge is free time rather than a guided walk.
-
 ### Cambridge with the villages, and the private day
 
 <a href="https://www.getyourguide.com/activity/-t799068?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Cambridge and Medieval England</a> is Rabbie's, **£84**, 9½ hours, 4.5 from 36 reviews, in a 16-seat Mercedes minibus. It adds **Thaxted**, the timber-framed Essex wool town, before Cambridge. Entrance fees and lunch are excluded outright. It leaves from **Stance 3, Greenline Coach Station, Bulleid Way SW1W 9SH** — not Victoria Coach Station.
@@ -140,7 +138,7 @@ Cambridge is about 106km by road, off the M11 at Junction 13 for Madingley Road.
 
 - **A guided walk:** the <a href="https://www.getyourguide.com/activity/-t91614?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£23 alumni walking tour</a>, and buy King's separately at the door for £16.75 if the upgrade costs more than that.
 - **Punting:** <a href="https://www.getyourguide.com/activity/-t472139?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£15 a head shared</a> on your own, <a href="https://www.getyourguide.com/activity/-t281312?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">£25 a row</a> for two, and Scudamore's direct at £28.50 if you want to punt yourself.
-- **Both universities:** do them on separate days by train. If you will not, <a href="https://www.getyourguide.com/activity/-t85239?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the £85 tour</a> is the least bad, and the £119 is £48.90 more than both return fares combined.
+- **Both universities:** do them on separate days by train. If you will not, <a href="https://www.getyourguide.com/activity/-t2095?partner_id=WWP7I0R&amp;cmp=cambridge-day-trip" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">the Oxford and Cambridge Universities Tour</a> is the least bad, and at £119 it is £48.90 more than both return fares combined.
 
 ## The colleges
 

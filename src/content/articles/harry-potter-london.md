@@ -212,23 +212,13 @@ Two are no longer bookable: the wizarding afternoon tea at the **Great Northern 
 
 The locations are scattered across four postcodes and most are worth about two minutes each. A tour supplies the sequence and a guide who knows which door is which.
 
-### The bus tour, if you have one day
-
-**[London: Harry Potter Film Locations Sightseeing Bus Tour](https://www.getyourguide.com/activity/-t912548?partner_id=WWP7I0R&cmp=harry-potter-london)** runs on a purple 1960s Routemaster standing in for the Knight Bus, starts and returns to **Embankment**, and is **listed at three hours** with a live guide. **4.6 from more than 500 reviews**, free cancellation up to 24 hours ahead.
-
-It takes in **Gringotts, Leadenhall Market, Millennium Bridge, Borough Market, Lambeth Bridge, Great Scotland Yard and Horse Guards Parade**, with photo stops and short guided walks, not a drive-past, and a quiz on board.
-
-**Best for** one day, small children, or anyone who does not want to work out the walking order.
-
-<div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="912548" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
-
-### The walking tour, if you would rather see more
+### The walking tour
 
 **[The most comprehensive and exclusive Harry Potter tour in London](https://www.getyourguide.com/activity/-t772912?partner_id=WWP7I0R&cmp=harry-potter-london)** is the highest-rated of the lot — **4.9 from over 1,000 reviews** — and at **195 minutes** it is the longest. It starts by **King's Cross** and finishes at **Goodwin's Court**, the alley widely held to be the model for Diagon Alley.
 
-In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops, not a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking, which is the trade for covering more ground than the bus.
+In between: **Platform 9¾, Leadenhall Market, London Bridge, Southwark Cathedral, Borough Market, the Millennium Bridge, St Paul's and Great Scotland Yard**, with two short Tube hops, not a coach. Guides work in **English and Spanish**. Reviewers are consistent that there is a lot of walking.
 
-**Best for** adults and older children who would rather walk than sit, and anyone who wants the south-bank stretch the bus skips. For the other Potter walks, and the rest of London's themed tours, see [the best walking tours in London](/articles/best-walking-tours-london/#harry-potter).
+**Best for** adults and older children who would rather walk than sit. For the other Potter walks, and the rest of London's themed tours, see [the best walking tours in London](/articles/best-walking-tours-london/#harry-potter).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/availability.frame" data-gyg-tour-id="772912" data-gyg-locale-code="en-US" data-gyg-currency="GBP" data-gyg-widget="availability" data-gyg-variant="horizontal" data-gyg-partner-id="WWP7I0R"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
