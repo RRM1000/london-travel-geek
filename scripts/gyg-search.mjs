@@ -17,6 +17,16 @@ const currency = args.currency ?? "GBP";
 const n = args.n ?? 10;
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130 Safari/537.36";
 
+// The feed answers long id lists with nothing, so check them eight at a time.
+if (args.ids && args.ids.split(",").length > 8) {
+  const all = args.ids.split(",");
+  for (let i = 0; i < all.length; i += 8) {
+    const rest = process.argv.slice(2).filter((a) => !a.startsWith("--ids="));
+    process.stdout.write(execFileSync(process.execPath, [process.argv[1], `--ids=${all.slice(i, i + 8).join(",")}`, ...rest], { encoding: "utf8" }));
+  }
+  process.exit(0);
+}
+
 const params = new URLSearchParams({ locale_code: "en-GB", widget: "activities", partner_id: "WWP7I0R", currency });
 if (args.ids) { params.set("tour_ids", args.ids); params.set("number_of_items", String(args.ids.split(",").length)); }
 else if (q) { params.set("q", q); params.set("number_of_items", String(n)); }
