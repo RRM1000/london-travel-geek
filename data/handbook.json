@@ -29,6 +29,8 @@
     "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring."
   ],
   "waitingOnRob": [
+    "hotels.json: four Hotels.com URLs (Staycity Greenwich and Deptford, Supercity Chronicle and Rosebery) are in data/hotels-com-urls.json but not written in; run scripts/apply-hotels-com-urls.mjs --write and re-export (dry-run first; the writer overwrites the whole tab).",
+    "GA4: register the site_search parameter 'results' as an event-scoped custom dimension (Admin > Custom definitions) so the weekly pull can list searches that really found nothing.",
     "Solo travel hub: add solo-travel-london to the Plan menu (capped at eight links, so one would have to go)?",
     "Prices on GetYourGuide tours that are still live drift too (e.g. a Stonehenge tour the page lists at £140.25 is now from £165). The weekly check only catches deactivated tours; say if you want a price sweep.",
     "Optional: request indexing in Search Console for hen-do-london and where-to-stay-south-kensington (the SEO refresh is live; Google will re-crawl the others on its own).",
@@ -82,6 +84,14 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-19",
+      "what": "Site search rebuilt (b6e01ad6): stemming (rain/raining), one-typo tolerance, filler words dropped, rare-word weighting, title and readership weighting, partial matches, guide headings indexed, branch areas shown. Test with node scripts/test-search.mjs. The analytics report had listed every site search as 'found nothing'; fixed."
+    },
+    {
+      "date": "2026-11-19",
+      "what": "From the GA4/Search Console review: Bayeux Tapestry at the British Museum (723d6eb1), Premier Inn vs Travelodge vs ibis (d2ec3e3c), and the apartment hotels guide rewritten for family, studio and two-bedroom searches. Every Christmas guide now links to the others (7f3e259a). All unpushed."
+    },
     {
       "date": "2026-11-19",
       "what": "Christmas pubs in London (christmas-pubs-london): 19 decorated and fireside pubs, central and outer London, with photos of the Churchill Arms, Oyster Shed, The Gun, The Flask, The Wrestlers, London Apprentice and Trafalgar Tavern. Linked from the Christmas hub, walks, markets, Christmas Day, pubs guides and four area guides (unpushed, de6a13b3)."
