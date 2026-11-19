@@ -36,9 +36,9 @@ faq:
 
 **The Lion King has played the Lyceum since 1999, and seats start at £38, or £29.50 if you book on a Monday for that week.** Around it, London has a Secret Cinema staging of *Pirates of the Caribbean*, a Pixar walk-through at Wembley, Disney On Ice twice in a season, two Disney Stores and a Greenwich college where Jack Sparrow was filmed.
 
-> 💡 **The Short Version:** **The Lion King from £38, booking to 25 July 2027, no under-3s.** **Magical Mondays: £29.50 seats for the same week, released at noon every Monday.** **Secret Cinema's Pirates of the Caribbean runs 16 February to 6 June 2027, from £49, no under-7s.** **Mundo Pixar at Wembley Park ends on 3 January 2027.** **The Disney Store on Oxford Street is open until 10pm.** **Hercules has closed.** The Old Royal Naval College grounds, where *On Stranger Tides* and *Cruella* were filmed, are free.
+> 💡 **The Short Version:** **The Lion King from £38, booking to 25 July 2027, no under-3s.** **Magical Mondays: £29.50 seats for the same week, released at noon every Monday.** **Secret Cinema's Pirates of the Caribbean runs 16 February to 6 June 2027, from £49, no under-7s.** **Mundo Pixar at Wembley Park ends on 3 January 2027.** **The Disney Store on Oxford Street is open until 10pm.** **The official Disney afternoon tea, on Park Lane, turns Frozen from 26 November.** **Hercules has closed.** The Old Royal Naval College grounds, where *On Stranger Tides* and *Cruella* were filmed, are free.
 
-> ⚠️ **Official, licensed and Disney-adjacent are three different things.** Disney produces The Lion King and runs the Disney Stores. Disney On Ice (made by Feld Entertainment), Secret Cinema and Mundo Pixar are licensed, and all three are sold on Disney's own ticket site. The filming locations and the Peter Pan statue are free places with a story attached and nothing Disney on site. We say which is which.
+> ⚠️ **Official, licensed and Disney-adjacent are three different things.** Disney produces The Lion King, runs the Disney Stores and puts its name to the Park Lane afternoon tea. Disney On Ice (made by Feld Entertainment), Secret Cinema and Mundo Pixar are licensed, and all three are sold on Disney's own ticket site. The filming locations, the Peter Pan statue and Winnie at the zoo are places with a story attached and nothing Disney on site. We say which is which.
 
 ## What it all costs
 
@@ -51,7 +51,10 @@ faq:
 | The Lion King, Magical Mondays | £29.50 | Official |
 | High School Musical, Wembley Park | from £35 | Official |
 | The Lion King, standard booking | from £38 | Official |
+| Mundo Pixar, Wembley Park | from about £26 | Licensed |
 | Secret Cinema: Pirates of the Caribbean | from £49 | Licensed |
+| Disney On Ice, The O2 | from £57 | Licensed |
+| Disney Princess Afternoon Tea, Park Lane | £70 (£45 child) | Official |
 
 ## The Lion King, Lyceum Theatre
 
@@ -111,17 +114,19 @@ For everything else on in the West End, see [the London theatre guide](/articles
 
 ## Mundo Pixar Experience, Wembley Park
 
-*Until 3 January 2027 · about an hour · all ages · Fulton Road, HA9 0TF, Wembley Park*
+*From about £26 adult, £20 child · 45 to 55 minutes · all ages, under-2s £2 · until 3 January 2027 · Fulton Road, HA9 0TF, five minutes from Wembley Park station*
 
-Thirteen walk-through sets from the Pixar films across more than 3,500 square metres, among them Andy's room from *Toy Story*, the *Monsters, Inc.* scream floor and Riley's mind from *Inside Out*, plus one room built only for the London run. It is licensed by Disney and Pixar and run by Golden Peak. [Tickets](https://www.disneytickets.co.uk/mundo-pixar-experience-tickets).
+Fourteen life-size sets from the Pixar films across 3,500 square metres, among them Andy's room from *Toy Story*, the *Monsters, Inc.* scream floor and Riley's mind from *Inside Out*, plus a *Toy Story 3* room built only for the London run. It is licensed by Disney and Pixar and run by Golden Peak.
+
+**Prices move with the date.** [Wembley Park](https://wembleypark.com/attractions/mundo-pixar-exhibition-london/) quotes £26 for an adult and £20 for a child on a November weekday morning, against £38 and £26 on Christmas Eve. **Buggies cannot go in**, and bags bigger than A4 go in the cloakroom at £3 each. [Tickets](https://www.disneytickets.co.uk/mundo-pixar-experience-tickets).
 
 ## Disney On Ice
 
 ### Discover the Magic, The O2
 
-*24 December 2026 – 3 January 2027 · about 2 hours with an interval · ages 2+ · North Greenwich*
+*From £57 · 24 December 2026 – 3 January 2027 · about 2 hours with an interval · ages 2+ · North Greenwich*
 
-An ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*. Under-14s must come with an adult. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. [Dates and tickets](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic).
+An ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*. Under-14s must come with an adult. Shows start at 1pm and 4.30pm on Christmas Eve, and at 2.30pm and 6.30pm on most days after, with a 10.30am show on Sunday 27 December; doors open an hour before. Seats start at £57 on [London Theatre's listing](https://www.londontheatre.co.uk/show/48538-disney-on-ice-london). [The O2's event page](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic).
 
 ### Road Trip Adventures, OVO Arena Wembley
 
@@ -136,6 +141,14 @@ The spring show, with a different set of films. [Dates and tickets](https://www.
 **Disney Store at Selfridges**, lower ground floor, 400 Oxford Street, W1A 1AB, a few minutes' walk west.
 
 The rest of the street is in [the Oxford Street guide](/articles/oxford-street-guide/).
+
+## The Disney Princess Afternoon Tea, Park Corner Brasserie
+
+*£70 adult, £45 child · daily 12.30pm to 7pm · London Hilton on Park Lane, 22 Park Lane, W1K 1BE, Hyde Park Corner*
+
+Disney's official afternoon tea, served in the Hilton's brasserie on Park Lane. Its menu changes by chapter, each a page of a "Royal Recipe Book": the princesses, then Moana in the summer, Disney's villains this autumn, and **a Frozen chapter, A Royal Winter Awaits, from 26 November 2026**. The sandwiches are moulded into shapes from the films.
+
+**Cancel 24 hours ahead or pay £40 a head.** Card details are taken at booking. [Book the Disney afternoon tea](https://www.sevenrooms.com/experiences/parkcornerbrasserie/disney-princess-afternoon-tea---a-royal-winter-awaits-5163334897614848), or see [the brasserie's page](https://www.parkcornerbrasserie.com/whats-on/disney-frozen-afternoon-tea/). Every other tea worth booking is in [the best afternoon tea in London](/articles/best-afternoon-tea-london/).
 
 ## Filming and story locations you can visit
 
@@ -156,6 +169,12 @@ The Uber Boat by Thames Clippers links Greenwich pier with North Greenwich, for 
 *Free · Lancaster Gate or Queensway*
 
 The bronze of Peter Pan beside the Long Water was paid for by J. M. Barrie, sculpted by George Frampton and unveiled on 30 April 1912. It is Barrie's Peter, not Disney's. [The Royal Parks has the story](https://www.royalparks.org.uk/read-watch-listen/shrine-youth-peter-pan-statue-kensington-gardens). Across the gardens, the [Diana Memorial Playground](https://www.royalparks.org.uk/visit/parks/kensington-gardens/diana-memorial-playground) is built around the Peter Pan stories.
+
+### Winnie the bear, London Zoo
+
+*Zoo ticket needed · Regent's Park, NW1 4RY, Camden Town*
+
+Winnie was a black bear brought to London by Lieutenant Harry Colebourn of Winnipeg and left at the zoo when his regiment went to France. A. A. Milne and his son Christopher Robin visited her often, and Milne named Winnie-the-Pooh after her. The zoo has two sculptures of her; the bronze of Winnie with Colebourn stands next to ZSL's War Memorial, just outside Butterfly Paradise. [The zoo tells her story](https://londonzoo.org/zoo-stories/history-of-london-zoo/sculptures). Tickets and the rest of the day are in [the London Zoo guide](/articles/london-zoo-guide/).
 
 ### St Paul's Cathedral and *Mary Poppins*
 

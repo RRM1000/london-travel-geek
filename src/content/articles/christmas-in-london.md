@@ -83,7 +83,7 @@ Oxford Street's lights went on on Monday 9 November 2026. It is traffic-free fro
 | **Oxford Street** | "Sky Full of Stars" — over 5,000 illuminated stars the length of the street in 2025; traffic-free from Orchard Street to Great Portland Street from 26 October 2026 |
 | **Regent Street** | The "Spirit(s) of Christmas" — illuminated angel figures |
 | **Carnaby Street** | A completely different sculptural light installation each year |
-| **Bond Street & South Molton Street** | Tens of thousands of LEDs on a different theme annually; South Molton Street's own blue-lit arches |
+| **Bond Street & South Molton Street** | Tens of thousands of LEDs on a different theme annually; South Molton Street's own blue-lit arches; Dior's façade at 160-162 New Bond Street dressed as a giant advent calendar for 2026 |
 | **Covent Garden & Seven Dials** | The Piazza tree plus Seven Dials' light "canopies" radiating from the sundial monument |
 | **Marylebone High Street** | "A Very Merry Marylebone Christmas" on Wednesday 11 November — an afternoon street festival with a Ferris wheel and live music |
 | **Chelsea** | King's Road part-pedestrianised for a festival day; Sloane Street's lights run the length of the boulevard |

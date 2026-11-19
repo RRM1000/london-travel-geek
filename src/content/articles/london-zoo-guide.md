@@ -243,6 +243,7 @@ See [Step-Free London](/articles/step-free-london/) for accessible stations near
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)** — including Winnie, the zoo bear who gave Winnie-the-Pooh his name
 - 🛶 **[Camden Area Guide](/articles/camden-area-guide/)** — the market, the lock and the canal boats that pass the zoo.
 - 🚶 **[Regent's Park and Marylebone Walk](/articles/regents-park-marylebone-walk/)** — the park the zoo sits in, walked south to Marylebone.
 - 🌊 **[Best Canal Walks in London](/articles/best-canal-walks-london/)** — Little Venice to Camden, past the Snowdon Aviary.

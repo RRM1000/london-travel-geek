@@ -115,6 +115,7 @@ Walk the full length, New Bond Street into Old Bond Street, down to Piccadilly. 
 
 *One of the Bond Street crowns.*
 
+**Dior's shopfront is an advent calendar.** The House of Dior at 160-162 New Bond Street, W1S 2UE, has dressed its whole façade for 2026 as a giant advent calendar: decorated windows, greenery, nutcrackers and a large star over the door.
 At the bottom, turn left along **Piccadilly**, past Burlington Arcade, the Royal Academy and Fortnum & Mason, to Piccadilly Circus. Keep going across the Circus and into **Regent Street St James's**, the lower stretch of Regent Street running south.
 
 ## 4. St James's Market
