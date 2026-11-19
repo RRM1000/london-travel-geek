@@ -129,6 +129,7 @@ A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theri
 **Christmas in London.** The rest of the season, and how to get around it:
 
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, lights, ice rinks and what has stopped running
+- 🍺 **[Christmas pubs in London](/articles/christmas-pubs-london/)** — pub Christmas Day lunches from £76.95 a head, and the pubs decorated for December
 - 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)** — what it costs once you are inside
 - 🥂 **[Afternoon tea in London](/articles/best-afternoon-tea-london/)** — every room, every price
 - 🍽️ **[Special occasion restaurants](/articles/special-occasion-restaurants-london/)** — for the rest of the year

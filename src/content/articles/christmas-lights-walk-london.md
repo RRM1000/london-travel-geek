@@ -280,6 +280,7 @@ The route is flat, on pavements and pedestrian streets throughout, with a stretc
 
 - **[Oxford Street](/articles/oxford-street-guide/)** — the closure, the shops and where to eat before or after the walk.
 - **[Christmas in London](/articles/christmas-in-london/)** — the markets, ice rinks and ticketed light trails, and every other street display.
+- **[Christmas pubs in London](/articles/christmas-pubs-london/)** — the Salisbury and Mr Fogg's Tavern, both dressed for December, are on St Martin's Lane, a few minutes from Trafalgar Square.
 - **[Black Friday in London](/articles/black-friday-london/)** — the late-opening hours on Oxford Street and Regent Street if the walk is also a shopping trip.
 - **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)** — its Red and Gold gates are nearest Marble Arch, where this walk starts. Entry needs a timed ticket.
 - **[Christmas shows in London](/articles/christmas-shows-london/)** — the West End is all around the second half of this walk.

@@ -323,6 +323,8 @@ Three ticketed shopping fairs run under glass roofs in November; one is still to
 
 **Shopping the sales too?** Our [Black Friday guide](/articles/black-friday-london/) covers 27 November.
 
+For a pub afterwards, our [Christmas pubs guide](/articles/christmas-pubs-london/) covers the decorated ones and the fireside ones.
+
 **Carrying on:** the [Christmas walk](/articles/christmas-walk-london/) takes in Winter by the River, Borough Market, the Southbank, Trafalgar Square and Leicester Square in one day, from London Bridge to Covent Garden; the [Christmas lights walk](/articles/christmas-lights-walk-london/) passes Covent Garden after dark and ends at Trafalgar Square; [ice skating](/articles/ice-skating-london/) covers the rinks at Leicester Square, Battersea and Greenwich; and [Christmas shows and pantomimes](/articles/christmas-shows-london/) has the evening after the market. Most chalet markets close on 3 January; what stays open after that is in [things to do in London in January](/articles/things-to-do-in-london-in-january/).
 
 <div data-submit-event></div>

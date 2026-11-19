@@ -370,6 +370,7 @@ Cittie of Yorke's back bar is the one to look for on the way: The 500 Hidden Sec
 ## Continue planning your London trip
 
 - 🏛️ **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
+- 🎄 **[Christmas Pubs in London](/articles/christmas-pubs-london/)** — the Churchill Arms' trees, and the fireside pubs with their Christmas menus
 - 🍽️ **[The Best Gastropubs in London](/articles/best-gastropubs-london/)**
 - 🍺 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**
 - 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**

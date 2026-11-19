@@ -166,6 +166,7 @@ Behind the hill, and at 2,500 acres the largest of London's Royal Parks, so arri
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — Richmond Park against the rest, and the other places to find deer and old oaks.
 - **[Seeing the deer in Richmond Park and Bushy Park](/articles/richmond-park-deer/)** — the rut, the birthing season, the 50-metre rule and the gate times.
 - **[The best views in London](/articles/best-views-london/)** — including the one from Richmond Hill.
+- **[Christmas pubs in London](/articles/christmas-pubs-london/)** — the White Cross and the Lass O' Richmond Hill by the fire, and the London Apprentice in Isleworth, with their Christmas Day prices.
 
 ## Where to eat and drink
 

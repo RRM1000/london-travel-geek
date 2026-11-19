@@ -247,5 +247,6 @@ The route is flat. The one climb is the stairs up to the Golden Jubilee footbrid
 - **[Christmas shows in London](/articles/christmas-shows-london/)** — pantomimes and Christmas plays in the West End, around the second half of this walk.
 - **[Ice skating in London](/articles/ice-skating-london/)** — Somerset House, ten minutes east of Covent Garden along the Strand, has a rink and a 40ft tree in its courtyard.
 - **[Things to do in London in December](/articles/things-to-do-in-london-in-december/)** — the tree lighting, carols, pantos and the Christmas Day closures.
+- **[Christmas pubs in London](/articles/christmas-pubs-london/)** — the Churchill Arms, the Salisbury and the George for decorations, and the fireside pubs of Hampstead, Highgate and Richmond.
 - **[The most beautiful pubs in London](/articles/most-beautiful-pubs-london/)** — including the Churchill Arms in Kensington, with its front covered in Christmas trees.
 - **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** or **[on the South Bank](/articles/where-to-stay-south-bank/)** — to be a few minutes from one end of the walk or the other.

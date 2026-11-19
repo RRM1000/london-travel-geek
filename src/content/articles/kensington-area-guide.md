@@ -153,6 +153,7 @@ It is a twenty-minute walk between Holland Park and Notting Hill Gate, past whit
 ## Go deeper
 
 - **[Kensington Palace guide](/articles/kensington-palace-guide/)** — tickets, closed days and the Sunken Garden.
+- **[Christmas pubs in London](/articles/christmas-pubs-london/)** — the Churchill Arms' Christmas trees, the 2026 switch-on and why it takes no bookings in December.
 - **[London's historic houses](/articles/historic-houses-london/)** — Kensington Palace and Leighton House.
 - **[The best afternoon tea in London](/articles/best-afternoon-tea-london/)** — the Kensington hotels do several of the better ones, at less than Mayfair prices.
 - **[HYPER JAPAN Festival](/articles/hyper-japan-london/)** — the Japanese culture festival at Olympia, a short walk beyond Holland Park.

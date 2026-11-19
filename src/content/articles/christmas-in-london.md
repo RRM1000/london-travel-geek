@@ -31,7 +31,7 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 ---
 
-> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas walk: markets, carols and pubs](/articles/christmas-walk-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
+> 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas walk: markets, carols and pubs](/articles/christmas-walk-london/) · [Christmas pubs](/articles/christmas-pubs-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
 
 ## Hyde Park Winter Wonderland
 
@@ -320,6 +320,8 @@ Hotels run festive tea menus, usually from early November to the first week of J
 Almost nothing opens on 25 December, no transport runs, and what does open is a fixed menu paid for in advance. Book early.
 
 **[Christmas dinner in London, and what it costs →](/articles/christmas-day-restaurants-london/)**
+
+**[The pubs serving Christmas Day lunch, and the ones decorated for December →](/articles/christmas-pubs-london/)**
 
 ---
 

@@ -203,7 +203,7 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 | Spot | Style | Price | Why go |
 | --- | --- | --- | --- |
 | **Greenwich Market** | Food stalls | £ | Covered, and the easiest lunch in the area |
-| **The Trafalgar Tavern** | Historic riverside pub | ££ | Regency pub on the Thames, associated with Dickens |
+| **The Trafalgar Tavern** | Historic riverside pub | ££ | Opened in 1837 on the Thames, associated with Dickens |
 | **The Gipsy Moth** | Pub with garden | ££ | Beside the Cutty Sark, with a large beer garden |
 | **Goddards at Greenwich** | Pie and mash | £ | Serving since 1890; the traditional London plate |
 | **The Old Brewery** | Brewery and dining | ££ | In the Naval College grounds |
@@ -212,6 +212,8 @@ The **Design District** sits opposite the arena, a minute from North Greenwich s
 ![Food stalls under the glass and iron roof of Greenwich Market, with banners reading I Heart Greenwich Market](../../assets/articles/greenwich-area-guide/greenwich-market-stalls.jpg)
 
 *Greenwich Market, under its Victorian roof.*
+
+For the Trafalgar Tavern's Christmas menus, and London's other pubs decorated for December, see our [Christmas pubs guide](/articles/christmas-pubs-london/).
 
 ## Getting there
 
