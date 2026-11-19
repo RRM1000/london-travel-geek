@@ -5,7 +5,7 @@ description: "Lunar New Year in Chinatown from 6 February, England v France at T
 heroImage: "../../assets/articles/soho-chinatown-walk/chinatown-gerrard-street.jpg"
 heroImageAlt: "Rows of red paper lanterns strung across Newport Place in Chinatown, with market-stall canopies below and red-brick buildings behind"
 publishedAt: 2026-11-14
-updatedAt: 2026-11-14
+updatedAt: 2026-11-19
 reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
@@ -14,9 +14,9 @@ tags: ["things to do", "London events", "February", "Lunar New Year", "Six Natio
 draft: false
 faq:
   - q: "What is on in London in February 2027?"
-    a: "Lunar New Year falls on Saturday 6 February, and Chinatown's celebrations run from 6 to 20 February. England play France at Allianz Stadium, Twickenham on Sunday 14 February, which is also Valentine's Day, and Italy there on Saturday 20 February. Most London state schools have half term from 15 to 19 February. London Fashion Week runs from 18 to 22 February, Peter Blake: Pop Art Life opens at the National Portrait Gallery on 11 February and Monet: Painting Time opens at Tate Modern on 25 February."
+    a: "Lunar New Year falls on Saturday 6 February, and the festival traditionally runs 15 days to the Lantern Festival on 20 February. England play France at Allianz Stadium, Twickenham on Sunday 14 February, which is also Valentine's Day, and Italy there on Saturday 20 February. Most London state schools have half term from 15 to 19 February. London Fashion Week runs from 18 to 22 February, Peter Blake: Pop Art Life opens at the National Portrait Gallery on 11 February and Monet: Painting Time opens at Tate Modern on 25 February."
   - q: "When is Chinese New Year in London in 2027?"
-    a: "Lunar New Year's Day is Saturday 6 February 2027, the start of the Year of the Goat. Chinatown London lists its Chinese New Year celebrations across the neighbourhood from 6 to 20 February 2027."
+    a: "Lunar New Year's Day is Saturday 6 February 2027, the start of the Year of the Goat. The festival traditionally lasts 15 days, ending with the Lantern Festival on Saturday 20 February 2027."
   - q: "When is February half term 2027 in London?"
     a: "Monday 15 to Friday 19 February 2027 for most London state schools. Camden, Lambeth, Lewisham and Royal Greenwich all publish those dates; academies and independent schools set their own, so check with the school."
   - q: "When are England's Six Nations games at Twickenham in February 2027?"
@@ -33,13 +33,13 @@ faq:
 
 February opens with Lunar New Year in Chinatown, puts England v France at Twickenham on Valentine's Day, and fills the museums for half term in the third week. Fashion Week and the awards season take the second half, and two big exhibitions open. The light comes back fast: sunset moves from 4.49pm to 5.38pm across the month.
 
-> 💡 **The Short Version:** **Lunar New Year is Saturday 6 February**, and Chinatown's celebrations run **6 to 20 February** (see our [Chinese New Year guide](/articles/chinese-new-year-london/)). **England v France is at Twickenham on Sunday 14 February at 3.10pm**, which is also Valentine's Day ([Valentine's Day guide](/articles/valentines-day-london/)); **England v Italy** follows on **Saturday 20 February**. **Half term is 15 to 19 February** for most London state schools; our [half-term guide](/articles/february-half-term-london/) covers it. **London Fashion Week is 18 to 22 February.** **Peter Blake: Pop Art Life** opens at the National Portrait Gallery on **11 February** and **Monet: Painting Time** at Tate Modern on **25 February**. **RMT Tube drivers strike from noon on 17, 23 and 25 February.** The **Bayeux Tapestry** is sold out to 31 March.
+> 💡 **The Short Version:** **Lunar New Year is Saturday 6 February**, and the festival traditionally runs **15 days, to the Lantern Festival on 20 February** (see our [Chinese New Year guide](/articles/chinese-new-year-london/)). **England v France is at Twickenham on Sunday 14 February at 3.10pm**, which is also Valentine's Day ([Valentine's Day guide](/articles/valentines-day-london/)); **England v Italy** follows on **Saturday 20 February**. **Half term is 15 to 19 February** for most London state schools; our [half-term guide](/articles/february-half-term-london/) covers it. **London Fashion Week is 18 to 22 February.** **Peter Blake: Pop Art Life** opens at the National Portrait Gallery on **11 February** and **Monet: Painting Time** at Tate Modern on **25 February**. **RMT Tube drivers strike from noon on 17, 23 and 25 February.** The **Bayeux Tapestry** is sold out to 31 March.
 
 | Date | What | Cost |
 | --- | --- | --- |
 | Wed 3 to Sat 6 Feb | MimeLondon's last show, Plexus Polaire's *A Doll's House*, at the Barbican Theatre | Ticketed |
 | Fri 5 Feb | Ireland v England, Six Nations, in Dublin, 8.10pm | Away game |
-| Sat 6 Feb | Lunar New Year; Chinatown celebrations run to 20 Feb | Free |
+| Sat 6 Feb | Lunar New Year; the Lantern Festival follows on 20 Feb | Free |
 | Sun 7 Feb | Tim Walker's Fairyland closes at the National Portrait Gallery | £23 to £25 |
 | Tue 9 Feb | Shrove Tuesday (Pancake Day) | — |
 | Thu 11 Feb | Peter Blake: Pop Art Life opens at the National Portrait Gallery | £19 to £21 |
@@ -53,13 +53,13 @@ February opens with Lunar New Year in Chinatown, puts England v France at Twicke
 | Tue 23 Feb | RMT Tube strike from noon | — |
 | Thu 25 Feb | RMT Tube strike from noon; Monet: Painting Time opens at Tate Modern | £26 |
 | Fri 26 to Sun 28 Feb | Motorsport Expo at ExCeL | Ticketed |
-| Sun 28 Feb | WhatsOnStage Awards at the London Palladium, 6.30pm; Robert Ryman closes at the Barbican | Ticketed |
+| Sun 28 Feb | WhatsOnStage Awards at the London Palladium; Robert Ryman closes at the Barbican | Ticketed |
 
 <div data-big-events="2027-02"></div>
 
 ## Lunar New Year — from Saturday 6 February
 
-**Lunar New Year's Day falls on Saturday 6 February 2027**, the start of the Year of the Goat. [Chinatown London](https://chinatown.co.uk/en/experience/whats-on/chinese-new-year-in-chinatown/) lists its Chinese New Year celebrations across the neighbourhood from **6 to 20 February**, so the lanterns and the New Year menus overlap half term. Our [Chinese New Year in London guide](/articles/chinese-new-year-london/) covers the celebrations in full, and the [Soho and Chinatown walk](/articles/soho-chinatown-walk/) ends among the lanterns in Newport Place.
+**Lunar New Year's Day falls on Saturday 6 February 2027**, the start of the Year of the Goat. [Chinatown London](https://chinatown.co.uk/en/experience/whats-on/chinese-new-year-in-chinatown/) covers the neighbourhood's celebrations, and the festival traditionally lasts 15 days, to the Lantern Festival on **20 February**, so the lanterns and the New Year menus overlap half term. Our [Chinese New Year in London guide](/articles/chinese-new-year-london/) covers the celebrations in full, and the [Soho and Chinatown walk](/articles/soho-chinatown-walk/) ends among the lanterns in Newport Place.
 
 ## Valentine's Day — Sunday 14 February
 
@@ -93,7 +93,7 @@ Gates open three and a half hours before an England international. Near the stat
 
 ### The WhatsOnStage Awards — Sunday 28 February
 
-**The theatre awards voted for by the public are at the London Palladium on Sunday 28 February at 6.30pm**, with seats sold by [LW Theatres](https://lwtheatres.co.uk/whats-on/27th-whatsonstage-awards/). The BRIT Awards, on Saturday 27 February, are at Co-op Live in Manchester, not in London. Every ceremony with a public way in is in our [award ceremonies guide](/articles/award-ceremonies-london/).
+**The theatre awards voted for by the public are at the London Palladium on Sunday 28 February**, with seats sold by [LW Theatres](https://lwtheatres.co.uk/whats-on/27th-whatsonstage-awards/). The BRIT Awards, on Saturday 27 February, are at Co-op Live in Manchester, not in London. Every ceremony with a public way in is in our [award ceremonies guide](/articles/award-ceremonies-london/).
 
 <div data-stay-strip></div>
 
@@ -129,7 +129,7 @@ Gates open three and a half hours before an England international. Near the stat
 
 > ⚠️ **RMT Tube drivers strike for 24 hours from noon on Wednesday 17, Tuesday 23 and Thursday 25 February.** The [RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/) set the dates; each strike ends at noon the day after. The 17th falls in half term. Check TfL Go before you travel.
 
-The dispute is with London Underground's drivers. Our [getting around London guide](/articles/getting-around-london-transport-guide/) covers the alternatives, [London transport costs](/articles/london-public-transport-costs-and-fares/) has the fares and caps, and [how to use the Underground](/articles/how-to-use-the-london-underground/) covers the lines.
+The dispute is with London Underground's drivers, over a four-day-week and new working arrangements; it is one of eight strike days the RMT has called, the first on 26 November. Our [getting around London guide](/articles/getting-around-london-transport-guide/) covers the alternatives, [London transport costs](/articles/london-public-transport-costs-and-fares/) has the fares and caps, and [how to use the Underground](/articles/how-to-use-the-london-underground/) covers the lines.
 
 ## Practical: February in London
 
@@ -151,4 +151,4 @@ One evening pick a day, each at a different venue.
 
 <div data-submit-event></div>
 
-*Updated 14 November 2026.*
+*Updated 19 November 2026.*

@@ -111,7 +111,7 @@ The chalet markets are in the [Christmas markets guide](/articles/christmas-mark
 
 ### For children
 
-**Wundrful World of Christmas** runs on selected days from **13 November to 24 December** at Immerse LDN on ExCeL's waterfront, a short walk from Custom House. It is a timed walk-through of about 50 minutes for children aged 3 to 8, ending with Santa. Every child needs a ticket, babies included. More shows are in our [Christmas shows guide](/articles/christmas-shows-london/), and the full picture is in [Christmas in London](/articles/christmas-in-london/).
+**Wundrful World of Christmas** runs on selected days until **24 December** at Immerse LDN on ExCeL's waterfront, a short walk from Custom House. It is a timed walk-through of about 50 minutes for children aged 3 to 8, ending with Santa. Every child needs a ticket, babies included. More shows are in our [Christmas shows guide](/articles/christmas-shows-london/), and the full picture is in [Christmas in London](/articles/christmas-in-london/).
 
 ## Sport: England at Twickenham and Wembley
 

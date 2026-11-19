@@ -3,8 +3,8 @@ title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
 description: "The Thames fireworks are ticketed, paid and sell out. The first batch of tickets for 31 December 2026 is on sale; the second batch goes on sale at noon on 20 November. Prices, the six viewing areas, the free viewpoints that are shut, and how to get home."
 publishedAt: 2026-09-04
-updatedAt: 2026-11-14
-reviewBy: 2026-12-14
+updatedAt: 2026-11-19
+reviewBy: 2026-12-18
 sites:
   - london
 canonicalSite: london
@@ -25,6 +25,8 @@ faq:
     a: "For 31 December 2026, City Hall prices a Category A ticket (Blue, Pink and White areas) at £55, or £35 for anyone with a London billing postcode, and Category B (Red, Green and Orange) at £40, or £20 for Londoners, plus a booking fee. City Hall says the prices are unchanged from the 2025 event. The event returned at £15 in 2022."
   - q: "Can you watch the London fireworks for free?"
     a: "Not really, and it has got worse. The Royal Parks state plainly that there are no official viewing areas for the display in any Royal Park. In 2025 Primrose Hill was fenced and locked from 8pm on 30 December until 6am on 1 January, Greenwich Park's gates shut at about 6pm, and the east side of St James's Park closed at 5pm. Most 'free viewpoint' advice online predates those closures."
+  - q: "How do you get tickets for the BBC New Year's Eve show 2026?"
+    a: "The Big NYE Party with Steps & Blue is recorded on 25 November 2026 at BBC Television Centre, and free audience tickets were allocated by random draw through BBC Shows and Tours. The draw closed at 11.59pm on 18 November. It is shown on BBC One and iPlayer, hosted by Rylan and Michelle Visage; the BBC has not yet published a broadcast time."
   - q: "Is public transport free on New Year's Eve in London?"
     a: "No. Free travel ended after 31 December 2019, when TfL last ran it from 23:45 to 04:30. In November 2021 TfL said the pandemic's effect on its finances meant it could not offer free travel on New Year's Eve, and it has not returned. You pay as normal — touch in and out with contactless or Oyster."
   - q: "Is the London New Year's Day Parade free to watch?"
@@ -46,9 +48,10 @@ faq:
 | Mayor's Thames fireworks, 31 Dec 2026 | Confirmed by City Hall, 8pm to 12.30am. First batch of tickets on sale; second batch at 12 noon on Friday 20 November |
 | Fireworks tickets | £55 / £35 (Category A) and £40 / £20 (Category B); up to 4 per buyer; first batch on sale, second batch from 12 noon on 20 November |
 | London Parade, 1 Jan 2027 | Confirmed. 1pm to 4.30pm, tickets on sale since 1 July 2026 |
-| TfL Christmas and New Year travel | Not published |
+| TfL Christmas and New Year travel | Overview published for 24 December to 3 January: most services run through the night on New Year's Eve, with a fuller plan to follow |
 | Royal Parks closure notice | Not issued. The 2025 notices went out on 23 September and 10 December |
-| Thames boat parties | On sale, from £240 per person for 31 December 2026 |
+| BBC One New Year's Eve show | The Big NYE Party with Steps & Blue, hosted by Rylan and Michelle Visage; audience recorded 25 November, draw closed 18 November |
+| Thames boat parties | On sale, from £240 per person for 31 December 2026; the Gold and Silver VIP balconies and the Sapphire family cruise are sold out |
 | Hotel dinners | Some on sale, such as The Ritz's gala dinner at £1,500 a head. Club line-ups land from late October |
 | Hyde Park Winter Wonderland | Confirmed. 19 November 2026 to 3 January 2027, open on 31 December until 10pm |
 
@@ -85,11 +88,11 @@ Six areas, three at the higher Category A price and three at Category B. Prices 
 
 > ⚠️ **Pink and White are the traps.** Both are Category A, both cost the same as Blue, and both give you a side-on view from a bridge you cannot leave. If you are paying the top price, pay it for Blue.
 
-**The bridges close to pedestrians**: in 2025 Westminster, Waterloo, Blackfriars, Lambeth and the Golden Jubilee Footbridge were all shut before and after. And **you cannot move between areas**, so book your whole group into the same area, on the side of the river you want to finish on at 00:30.
+**The bridges close to pedestrians**: City Hall says Westminster, Waterloo, Blackfriars and Lambeth bridges and the Golden Jubilee Footbridge cannot be used before or after the event. And **you cannot move between areas**, so book your whole group into the same area, on the side of the river you want to finish on at 00:30.
 
 ### Access
 
-The **Orange area on Albert Embankment is the only accessible viewing area**. In 2025 it had accessible toilets within 300m, a Changing Places unit, a first-aid point, a hearing loop, some seating, and permission to bring your own folding seat, which no other area allows. It sits about 700m from the event vehicle drop-off (best used before 8pm, before the road closures) and about 2km from Waterloo, and the view is a partial side view. The other five areas have no accessible platforms, seating or hearing loop, though the closed roads mean step-free movement throughout.
+The **Orange area on Albert Embankment is the only accessible viewing area**. City Hall lists accessible toilets within 300m, a Changing Places unit, a first-aid point, a hearing loop, some seating and permission to bring your own folding seat, which no other area allows. It sits about 700m from the event vehicle drop-off (best used before 8pm, before the road closures) and about 2km from Waterloo, and the view is a partial side view. The other five areas have no accessible platforms, seating or hearing loop, though the closed roads mean step-free movement throughout.
 
 ---
 
@@ -129,6 +132,14 @@ For a view of London rather than of the fireworks, our guide to the [best views 
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="new-years-eve-london-pass-and-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="26207,399163,439425"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+## The BBC's New Year's Eve show
+
+**The Big NYE Party with Steps & Blue** is BBC One's New Year's Eve show for 2026, also on iPlayer. [The BBC announced it on 16 November](https://www.bbc.co.uk/mediacentre/2026/steps-blue-new-years-eve-bbc/): Steps and Blue share the bill for the first time, hosted by Rylan and Michelle Visage, with a set built from their biggest hits, including Steps' "Tragedy" and Blue's "All Rise". It is a BBC Studios Music production, and the BBC has not yet published a broadcast time.
+
+It is not the fireworks. The audience recording is on **25 November 2026 at BBC Television Centre in Shepherd's Bush**, a standing audience with a New Year's Eve party dress code and no filming or photos allowed. Audience tickets were free by random draw through [BBC Shows and Tours](https://www.bbc.co.uk/showsandtours/shows/the-big-nye-party-25nov26), maximum two per applicant, and the draw closed at 11.59pm on 18 November. Unsuccessful applicants stay on a waiting list in case tickets are released, and every guest needs original photo ID matching the name on the ticket.
+
+---
+
 ## Everything else happening that night
 
 The Ritz's black-tie gala dinner in the Ritz Restaurant on Thursday 31 December 2026 is [£1,500 per adult and £750 per child](https://www.theritzlondon.com/new-years-eve-ritz-restaurant/), or £975 per adult in its William Kent House. [The Londoner](https://www.thelondoner.com/festive-season/new-years-eve) on Leicester Square has dinner sittings at Whitcomb's and on its eighth-floor rooftop, where a table for the countdown carries a £450 minimum spend per guest. Club line-ups at the likes of Ministry of Sound, fabric, Troxy and Drumsheds land from late October.
@@ -139,11 +150,10 @@ Boat parties on sale for 31 December 2026 (the sightseeing and dinner boats' New
 | --- | --- | --- | --- |
 | London Party Boats — Jewel of London | £240 standard | 20:15 at Bankside Pier, back by 01:30 | 21 and over |
 | London Party Boats — Pearl of London | £250 standard | 19:30 at Bankside Pier | 18 and over |
-| London Party Boats — Sapphire of London | £260 | 21:00 at Bankside Pier, 4 hours | Family, ages 5 and up |
-| London Party Boats — Gold VIP balcony | £400, sold in pairs | 20:15 at Bankside Pier | 21 and over |
-| Thames Rockets — open-top speedboat | £449 | 23:00 at Bankside Pier, back at 00:30 | 12 seats per boat |
+| London Party Boats — Emerald of London | £240, drinks only, no food | 21:15 at Festival Pier, back by 01:30 | Family, ages 5 and up |
+| Thames Rockets — open-top speedboat | £549 | 23:00 at Bankside Pier, back at 00:30 | 12 seats per boat |
 
-London Party Boats tickets include a welcome Prosecco, unlimited beer, wine, Prosecco by the glass and soft drinks, and a buffet; standard tickets are standing and the outdoor decks are unheated. Thames Rockets is 90 minutes on a 12-seat open boat, out for midnight and back by half past, or £4,499 for a private charter.
+[London Party Boats](https://www.londonpartyboats.co.uk/events/new-year-s-eve-on-the-thames/230) tickets on the Jewel and Pearl include a welcome Prosecco, unlimited beer, wine, Prosecco by the glass and soft drinks, and a buffet; standard tickets are standing and the outdoor decks are unheated. The Emerald family cruise has no meal, only bar snacks to buy, so eat first. Its VIP balconies and the Sapphire family cruise are sold out. [Thames Rockets](https://www.thamesrockets.com/new-years-eve-2026/) is 90 minutes on a 12-seat open boat, out for midnight and back by half past, or £4,499 for a private charter.
 
 **If you do not want to spend £240 on a boat**, watch the display on BBC One, book an early dinner somewhere not doing a set menu (our [late-night eating guide](/articles/late-night-eating-london/) helps), or find a pub that has simply extended its licence rather than one selling a package. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) is open on 31 December from 11am to 10pm; the £1 entry slots run Monday to Thursday in November only.
 
@@ -176,7 +186,7 @@ Gigs, comedy and theatre booking for the evening of 31 December.
 | Paid seats | 3,000 in total across grandstands, VIP and the Fun Zone |
 | Tickets | On sale since 09:00 on 1 July 2026, through Ticketmaster |
 
-Three paid tiers: **grandstand** seats, covered and reserved, with a flag and a running order; a **VIP** package with covered seating in the Finale Arena, private loos, unlimited food and drink and a goodie bag; and, new for 2027, the **Fun Zone at Waterloo Place**, a festival-style viewing area beside the press zone. There is also an accessible viewing area, partially covered with an accessible toilet, where ticket holders and their companion must be seated by 12:30. The prices are on Ticketmaster.
+The first bands announced for 2027 are the Bahamas All-Stars Marching Band, the West Broward Performance Ensemble from Florida and The Pride of Mill Creek Marching Band from Georgia, with more than 800 cheerleaders and 20-plus US marching bands in all, according to [the organisers](https://londonparade.com/news/london-parade-2027-celebrate-new-years-day-the-london-way/). Three paid tiers: **grandstand** seats, covered and reserved, with a flag and a running order; a **VIP** package with covered seating in the Finale Arena, private loos, unlimited food and drink and a goodie bag; and, new for 2027, the **Fun Zone at Waterloo Place**, a festival-style viewing area beside the press zone. There is also an accessible viewing area, partially covered with an accessible toilet, where ticket holders and their companion must be seated by 12:30. The prices are on Ticketmaster.
 
 For a free spot, follow the organisers' own advice. **Green Park and the Piccadilly end** has the lightest crowds, plus toilets and first aid nearby. **Trafalgar Square and Pall Mall** is the most popular stretch and has big screens. **Parliament Square** is the finish, closest to a station afterwards. Arrive an hour early for any of them.
 
@@ -188,20 +198,20 @@ For a free spot, follow the organisers' own advice. **Green Park and the Piccadi
 
 ## Transport: what runs, and what it costs
 
-TfL has not published its 2026/27 festive arrangements yet. What follows is the standing position plus the 2025 timings.
+[TfL's Christmas and New Year page](https://tfl.gov.uk/status-updates/major-works-and-events/christmas-and-new-year-travel) covers 24 December 2026 to 3 January 2027 and says the vast majority of services will be open, with the full plan still to come. On New Year's Eve **most TfL services run through the night**, central London will be busy, and some stations may be closed or exit-only at short notice. **Christmas Day is the exception**: only taxis, private hire, Santander Cycles, coaches and some buses run by other operators are available.
 
 **Travel is not free.** Free travel from 23:45 to 04:30 last ran on **31 December 2019** and has not returned.
 
 | Thing | The position for 2026/27 |
 | --- | --- |
 | Free travel after midnight | £0 of it. Last offered on 31 December 2019 |
-| All-night services | Ran on all night last New Year's Eve, apart from planned closures |
+| All-night services | TfL: most services run through the night on 31 December, apart from planned closures on the Central, District, Hammersmith & City, Elizabeth, Mildmay, Suffragette and Windrush lines over the festive period |
 | Night Tube | Normally Friday and Saturday only, on 6 lines. 31 Dec 2026 is a Thursday |
-| Central London buses | On diversion from about 12:00 in 2025, because of road closures |
+| Central London buses | Some on diversion because of road closures; contingency closures can start from 12:00 |
 | Vehicle access to the event area | Restricted from 14:00 on 31 Dec until about 06:00 on 1 Jan, per City Hall's 2026 notice |
-| Congestion Charge | £0 from 25 December 2026 to 1 January 2027 inclusive |
+| Congestion Charge | Not charged from 25 December 2026 to 1 January 2027 inclusive. The ULEZ is off on Christmas Day only |
 
-The Night Tube (Central, Jubilee, Northern, Piccadilly, Victoria and Windrush) runs on Friday and Saturday nights only, and **New Year's Eve 2026 is a Thursday**, so wait for TfL's announcement rather than assuming it runs.
+The Night Tube (Central, Jubilee, Northern, Piccadilly, Victoria and Windrush) runs on Friday and Saturday nights only, and **New Year's Eve 2026 is a Thursday**. TfL's overview says only that most services run all night, so check TfL Go on the day for your line.
 
 Central stations near the river get closed at short notice when they fill up, so pick your exit station in advance, and **decide which side of the river you want to be on afterwards**: with five bridges shut you cannot change your mind at 00:20. Our guides to [getting around London](/articles/getting-around-london-transport-guide/) and [what transport costs](/articles/london-public-transport-costs-and-fares/) cover the fares side.
 
@@ -209,13 +219,13 @@ Central stations near the river get closed at short notice when they fill up, so
 
 ## Practical tips people get wrong
 
-**Arrive early.** Gates in 2025 opened at 8pm and closed at 10.30pm; be there by 8.30pm, not 10pm.
+**Arrive early.** Gates open at 8pm and close at 10.30pm; be there by 8.30pm, not 10pm.
 
 **Dress for four hours of standing still.** London's overnight low in late December averages around 4°C. Thermals, hat, gloves, layers you keep on.
 
 **Travel light.** There is no re-entry, no lockers, and outside the Orange area no seating of any kind, including your own. There are toilets inside the viewing areas and effectively none outside them — see our guide to [public toilets in London](/articles/public-toilets-london/).
 
-**Do not plan on a taxi.** Roads inside the event footprint were closed for about 16 hours in 2025 and all parking is suspended. Walk 20 minutes out first.
+**Do not plan on a taxi.** Vehicle access to the event area is restricted from 2pm to about 6am, with contingency closures from 12 noon in the yellow and red zones, and all parking is suspended. Walk 20 minutes out first.
 
 ---
 

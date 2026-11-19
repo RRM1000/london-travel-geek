@@ -5,7 +5,7 @@ description: "Valentine's Day 2027 is a Sunday. The romantic restaurants and whe
 heroImage: "../../assets/articles/special-occasion-restaurants-london/duck-and-waffle-sunset-view.jpg"
 heroImageAlt: "A curved leather booth and a table laid for dinner at Duck & Waffle, with the sun setting over London through floor-to-ceiling windows forty floors up"
 publishedAt: 2026-11-14
-updatedAt: 2026-11-14
+updatedAt: 2026-11-19
 reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
@@ -29,7 +29,7 @@ Valentine's Day 2027 falls on a **Sunday**, the same afternoon England play Fran
 
 > 💡 **The Short Version:** **Sunday 14 February 2027, sunset about 5.13pm.** For dinner, book the room rather than the menu: **Clos Maggiore**'s conservatory, **Duck & Waffle** forty floors up (bookings open two months ahead, so mid-December), **Rules** or **Sketch**. For the view, **Sky Garden is free**, with Valentine's week released on **Monday 18 January**; the **London Eye's Cupid's Pod** is a private capsule for two. **Thames dinner cruises** leave Westminster Pier at 7.45pm. **England play France at Twickenham at 3.10pm the same day**, so expect full trains between Waterloo, Clapham Junction and Richmond.
 
-*Dates, prices and times as at 14 November 2026.*
+*Dates, prices and times as at 19 November 2026.*
 
 | When | What |
 | --- | --- |
@@ -94,7 +94,7 @@ Three storeys of planted terraces under a glass roof on top of the Walkie-Talkie
 
 ### The London Eye: Cupid's Pod or Champagne
 
-The **[Cupid's Pod](https://ticketing.londoneye.com/en/tickets/london-eye-cupids-pod)** is a private capsule for two adults (18 and over) for a **30-minute rotation**. After booking, a London Eye executive contacts you to add a host, Champagne, flowers, truffles or a photographer; you cannot bring your own food or drink, and the pod cannot be decorated. The Eye says most Cupid's Pods are booked for proposals, and the staff keep them secret.
+The **[Cupid's Pod](https://ticketing.londoneye.com/en/tickets/london-eye-cupids-pod)** is a private capsule for two adults (18 and over) for a **30-minute rotation**, priced at **£750 a pod** on the November 2026 dates. After booking, a London Eye executive contacts you to add a host, Champagne, flowers, truffles or a photographer; you cannot bring your own food or drink, and the pod cannot be decorated. The Eye says most Cupid's Pods are booked for proposals, and the staff keep them secret.
 
 The cheaper option is the shared **[Champagne Experience](https://ticketing.londoneye.com/en/tickets/london-eye-champagne-experience)**: a glass of Moët & Chandon in the Eye Lounge before boarding, a second glass on the flight, and Fast Track boarding. It was **£49 a person** on November 2026 dates. Our [London Eye guide](/articles/london-eye-guide/) covers the standard tickets.
 

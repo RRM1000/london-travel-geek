@@ -3,8 +3,8 @@ title: "Hyde Park Winter Wonderland: Every Price, Ride and Show for 2026"
 seoTitle: "Hyde Park Winter Wonderland 2026: Prices & Tickets"
 description: "Hyde Park Winter Wonderland 2026-27: every attraction price, the £1 tickets, the new K-Pop circus, free live music, and the quietest times to go."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-15
-reviewBy: 2026-11-20
+updatedAt: 2026-11-19
+reviewBy: 2026-12-01
 sites:
   - london
 canonicalSite: london
@@ -45,12 +45,13 @@ Half a million £1 tickets get people through the gate; the ice rink is £19.25 
 - **1 December:** closed to the public until 2pm for Winter Wishes, a free low-sensory morning for invited groups.
 - **Hours:** closes **10pm** every night, **last entry 21:30**. Most days open 10am, but a long list of quieter dates open at 11am or noon.
 - **Entry:** everyone needs a timed ticket, under-2s included (free). **£1 / £5.50 / £8.25** in advance, booking fees included, on the [official tickets page](https://hydeparkwinterwonderland.com/tickets-guide/) and through [London Box Office](https://www.londonboxoffice.co.uk/hyde-park-winter-wonderland-tickets). More on the door, and no re-entry.
+- **Booking:** everything is on sale now, and advance prices stop at 23:59 the day before. On the day costs more: the adult ice rink is £14.65 off-peak and £21.25 peak at the door, against £12.65 and £19.25 in advance.
+- **Entry price by band:** **£1** off-peak (Monday to Thursday through November), **£5.50** standard, **£8.25** peak.
+- **Prices to expect:** Aeronaut Starflyer **£8.80** (fast-track £12.10), Munich Looping £12.00, Giant Wheel adult £8.80 to £12.10, ice rink adult £12.65 to £19.25, circus adult £13.75 to £19.80. [Every ride and attraction price is below](#everything-that-costs-money-inside).
 - **The money trick:** spend **£25 online in one transaction** and entry is free.
 - **Quietest:** Monday to Wednesday daytime, late November, which is also the cheapest.
 - **Free inside:** Santa's Grotto, all live music, the Christmas Market, the light arches, every bar to walk into.
 - **Everything else costs**, including every ride.
-
-> 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [London's other Christmas markets](/articles/christmas-markets-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
 
 ![The Bavarian-style entrance gate to Hyde Park Winter Wonderland, with a working clock tower and illuminated stars above the sign, and the lit arches of Luminarie Lane visible through the arch](../../assets/articles/hyde-park-winter-wonderland/entrance-gate.jpg)
 
@@ -216,7 +217,7 @@ All ages, no height restriction, but flashing lights, loud music and dark stagin
 
 **Every ride costs extra**, without exception, and none are included in entry. Advance prices:
 
-| Ride | Zone | Standard | Fast-track | Restriction |
+| Ride | Zone | Advance price | Fast-track | Restriction |
 | --- | --- | --- | --- | --- |
 | Munich Looping | Thrillville | £12.00 | £15.00 | 1.3m–1.95m, 8+ |
 | Blizzard | Thrillville | £9.90 | £13.20 | 1.4m+ |

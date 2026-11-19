@@ -3,7 +3,7 @@ title: "Black Friday in London 2026: Where to Shop, Late Hours and Deals"
 seoTitle: "Black Friday London 2026: Deals, Shops & Late Hours"
 description: "Black Friday is Friday 27 November 2026. Where to shop in London, which stores open late, how to get to Bicester Village and the outlets, when the crowds peak and the theatre deals already on sale."
 publishedAt: 2026-11-08
-updatedAt: 2026-11-17
+updatedAt: 2026-11-19
 reviewBy: 2026-11-30
 sites:
   - london
@@ -43,7 +43,9 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 
 > 💡 **The Short Version:** **Black Friday is Friday 27 November 2026** and Cyber Monday is **30 November**. **[Selfridges](https://www.selfridges.com/GB/en/features/info/stores/london/) on Oxford Street stays open to 10pm Monday to Saturday**, and **Westfield London, Westfield Stratford City and London Designer Outlet all close at 9pm** that Friday. **Arrive after 9.30am on a weekday** and avoid Saturday afternoon. **There is no VAT refund for visitors**, so the discount on the ticket is the only saving. **London Box Office already has a Black Friday theatre page**, with SIX at 49% off and Oh, Mary! at 75% off.
 
-*Hours, offers and dates as of 8 November 2026.*
+*Hours and dates as of 19 November 2026; offers as listed on 17 November.*
+
+> ⚠️ **Tube drivers strike from noon on Thursday 26 November to noon on Friday 27 November.** The [RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/) called the 24-hour strike, so expect disruption on Friday morning and check TfL Go before you leave. A second strike runs from noon on Thursday 17 December.
 
 ## When Black Friday starts and ends
 

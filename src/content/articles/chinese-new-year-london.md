@@ -1,11 +1,11 @@
 ---
 title: "Chinese New Year in London 2027: The Parade, Chinatown and Where to Eat"
 seoTitle: "Chinese New Year London 2027: Parade, Chinatown, Food"
-description: "Lunar New Year 2027 is Saturday 6 February, the Year of the Fire Goat. Chinatown celebrates from 6 to 20 February. The parade route from Trafalgar Square, when to go, where to eat in Chinatown, Greenwich's free Lunar New Year day and the stations to use."
+description: "Lunar New Year 2027 is Saturday 6 February, the Year of the Fire Goat. The festival runs 15 days to the Lantern Festival on 20 February. The parade route from Trafalgar Square, when to go, where to eat in Chinatown, Greenwich's free Lunar New Year day and the stations to use."
 heroImage: "../../assets/articles/soho-area-guide/chinatown-gerrard-street.jpg"
 heroImageAlt: "Rows of red lanterns strung over a crowded Wardour Street in Chinatown, with Four Seasons Chinese restaurant on the left"
 publishedAt: 2026-11-14
-updatedAt: 2026-11-14
+updatedAt: 2026-11-19
 reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
@@ -14,7 +14,7 @@ tags: ["Chinese New Year", "Lunar New Year", "Chinatown", "February", "free thin
 draft: false
 faq:
   - q: "When is Chinese New Year 2027?"
-    a: "Saturday 6 February 2027. It is the Year of the Goat, and specifically the Fire Goat. Chinatown London's celebrations run from 6 to 20 February, ending on the fifteenth day with the Lantern Festival."
+    a: "Saturday 6 February 2027. It is the Year of the Goat, and specifically the Fire Goat. The festival traditionally lasts 15 days, ending on the fifteenth day, Saturday 20 February, with the Lantern Festival."
   - q: "Where does the London Chinese New Year parade go?"
     a: "In 2026 it set off at 10am from the east side of Trafalgar Square, near Charing Cross station, and went up Charing Cross Road to Shaftesbury Avenue, reaching the bottom of Wardour Street at about 11.45am. Lion dances then toured Chinatown's streets from noon, and the stages ran until 5.30pm."
   - q: "Is the Chinese New Year parade in London free?"
@@ -27,16 +27,16 @@ faq:
 
 Lunar New Year falls on **Saturday 6 February 2027**, and Chinatown marks it with a fortnight of decorations, lion dances and New Year menus, peaking on the day of the parade from Trafalgar Square.
 
-> 💡 **The Short Version:** **Lunar New Year is Saturday 6 February 2027, the Year of the Fire Goat.** Chinatown London's celebrations run **6 to 20 February**. The big day is a **Sunday parade** of lions and dragons from Trafalgar Square up Charing Cross Road to Shaftesbury Avenue, starting at **10am** in 2026, with lion dances through Chinatown from noon and stage shows until 5.30pm. It is free. Arrive before 10am for a kerbside spot, and eat early or book: **Four Seasons** and **Shu Xiang Ge** take bookings, **Dumplings' Legend** and **Wong Kei** are walk-in. Use **Tottenham Court Road** or **Covent Garden** rather than Leicester Square. Greenwich's **National Maritime Museum** has a free Lunar New Year day on **Saturday 13 February**.
+> 💡 **The Short Version:** **Lunar New Year is Saturday 6 February 2027, the Year of the Fire Goat.** The festival traditionally runs **15 days, to the Lantern Festival on 20 February**. The big day is a **Sunday parade** of lions and dragons from Trafalgar Square up Charing Cross Road to Shaftesbury Avenue, starting at **10am** in 2026, with lion dances through Chinatown from noon and stage shows until 5.30pm. It is free. Arrive before 10am for a kerbside spot, and eat early or book: **Four Seasons** and **Shu Xiang Ge** take bookings, **Dumplings' Legend** and **Wong Kei** are walk-in. Use **Tottenham Court Road** or **Covent Garden** rather than Leicester Square. Greenwich's **National Maritime Museum** has a free Lunar New Year day on **Saturday 13 February**.
 
-*Dates and times as at 14 November 2026.*
+*Dates and times as at 19 November 2026.*
 
 | Date | What |
 | --- | --- |
-| Sat 6 Feb | Lunar New Year's Day; Chinatown's celebrations begin |
+| Sat 6 Feb | Lunar New Year's Day |
 | A Sunday in the fortnight | The parade, Trafalgar Square stage and Chinatown lion dances |
 | Sat 13 Feb | Lunar New Year day at the National Maritime Museum, Greenwich, 10am to 4pm, free |
-| Sat 20 Feb | Last day of Chinatown's celebrations, the Lantern Festival |
+| Sat 20 Feb | The Lantern Festival, the fifteenth day |
 
 ## Year of the Fire Goat
 
@@ -63,7 +63,7 @@ The square is where the parade starts and where the main stage show runs after i
 
 Chinatown is centred on **Gerrard Street** and also covers **Lisle Street, Wardour Street, Newport Place** and part of **Shaftesbury Avenue**. On parade day the lion dances reach its lanes from noon.
 
-- **Not tied to parade day?** Chinatown London says the New Year brings festive decorations, special menus and cultural activities across the neighbourhood, so any day from 6 to 20 February has the atmosphere. Weekday lunch is Chinatown's quiet time all year.
+- **Not tied to parade day?** Chinatown London says the New Year brings festive decorations, special menus and cultural activities across the neighbourhood, so any day in the fortnight has the atmosphere. Weekday lunch is Chinatown's quiet time all year.
 - **Book for dinner.** Chinatown London advises booking ahead at busy periods such as Chinese New Year; many of the best-known places take no bookings at all, so for those go early, around 5.30pm, or after 9pm.
 - **Gerrard Street was completed in 1685** and pedestrianised in the late 1980s, when the first gates went up. The largest gate, on Wardour Street, opened in 2016; our [Soho and Chinatown walk](/articles/soho-chinatown-walk/) has the history.
 

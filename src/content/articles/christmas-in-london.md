@@ -3,8 +3,8 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-14
-reviewBy: 2026-11-13
+updatedAt: 2026-11-19
+reviewBy: 2026-11-26
 sites:
   - london
 canonicalSite: london
@@ -20,7 +20,7 @@ faq:
   - q: "What is actually free at Christmas in London?"
     a: "Every street light display, every Christmas market to browse, the Trafalgar Square tree and St Pancras's charity tree are all free. What is not: ice rinks, ticketed light trails such as Christmas at Kew, grottos at the department stores, and Hyde Park Winter Wonderland, which needs a ticket even to walk in."
   - q: "When do London's Christmas lights switch on?"
-    a: "Leicester Square's lights went on Sunday 1 November 2026 and St Martin's Lane's on Tuesday 3 November. Carnaby Street's went on Wednesday 4 November and Regent Street's on Thursday 5 November. Old Spitalfields Market's and Marylebone Village's are Wednesday 11 November, and Bond Street's and Covent Garden's are Thursday 12 November. Oxford Street's is Monday 9 November, from 4:30pm. The Trafalgar Square tree is lit on Thursday 3 December 2026."
+    a: "Leicester Square's lights went on Sunday 1 November 2026 and St Martin's Lane's on Tuesday 3 November. Carnaby Street's went on Wednesday 4 November and Regent Street's on Thursday 5 November. Old Spitalfields Market's and Marylebone Village's were Wednesday 11 November, and Bond Street's and Covent Garden's Thursday 12 November. Oxford Street's was Monday 9 November, from 4:30pm. The Trafalgar Square tree is lit on Thursday 3 December 2026."
   - q: "Where can you still ice skate outdoors in London at Christmas 2026?"
     a: "Somerset House, Hampton Court Palace, Glide at Battersea Power Station, the Queen's House in Greenwich and Hyde Park Winter Wonderland all have outdoor rinks in 2026-27, and Alexandra Palace has a year-round indoor one. The Natural History Museum's rink has closed for good, Canary Wharf's is taking a break for 2026, and there is no Tower of London rink."
 heroImage: "../../assets/articles/christmas-in-london/somerset-house-ice-rink.jpg"
@@ -51,7 +51,7 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas markets
 
-**Leicester Square's** chalets ring an ice rink and opened on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** (**2 November** to 2 January) is the food one and is cash-free, **Winter by the River** at London Bridge City opens on **10 November**, the new free **[King's Cross Winter Market](https://www.kingscross.co.uk/event/kings-cross-winter-market)** in Granary Square, cashless, runs **26 November to 3 January** (until 23 December, 11am to 10pm Sunday to Thursday and 11pm Friday and Saturday; closed 25 and 26 December), and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). Our [Christmas walk](/articles/christmas-walk-london/) links Winter by the River, Borough, the Southbank, Trafalgar Square and Leicester Square on foot in a day. **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £8 to £10.
+**Leicester Square's** chalets ring an ice rink and opened on **31 October 2026**, running to 3 January; **Kingston's** run **12 November 2026 to 3 January 2027**, in the Ancient Market Place. In the centre, the **Southbank Centre Winter Market** (**2 November** to 2 January) is the food one and is cash-free, **Winter by the River** at London Bridge City opened on **10 November**, the new free **[King's Cross Winter Market](https://www.kingscross.co.uk/event/kings-cross-winter-market)** in Granary Square, cashless, runs **26 November to 3 January** (until 23 December, 11am to 10pm Sunday to Thursday and 11pm Friday and Saturday; closed 25 and 26 December), and **Trafalgar Square's** chalets sit under the Norway spruce (lit **3 December**). Our [Christmas walk](/articles/christmas-walk-london/) links Winter by the River, Borough, the Southbank, Trafalgar Square and Leicester Square on foot in a day. **Borough Market** opens every day from **30 November** and closes **25 to 27 December**. Almost all are free to walk into: Winter Wonderland's market needs an entry ticket from £1, and the Chelsea Physic Garden fair is £8 to £10.
 
 > 🎄 **[Every Christmas market in London, with dates and hours →](/articles/christmas-markets-london/)** — the central markets, Kingston, Greenwich, Wimbledon and Battersea, and the maker fairs at the British Library, King's Cross and Chelsea Physic Garden.
 
@@ -67,16 +67,16 @@ The quietest and cheapest visit is the same visit: a Monday to Thursday daytime 
 
 ## Christmas lights: where to see them
 
-The 2026 switch-ons, in order:
+All the 2026 switch-ons have happened, so the lights are up. In order:
 
 - **Sunday 1 November:** [Leicester Square](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november), star-shaped lights to 6 January 2027.
 - **Tuesday 3 November:** St Martin's Lane, to 6 January 2027.
 - **Wednesday 4 November:** [Carnaby Street](https://www.thisissoho.co.uk/carnaby-street/).
-- **Thursday 5 November:** [Regent Street](https://www.regentstreetonline.com/news/festive-spirits-return-for-2026), closed to traffic from 5pm to 9pm that evening.
-- **Wednesday 11 November:** [Marylebone Village](https://www.marylebonevillage.com/whats-on-and-features/item/1477-merry-marylebone-christmas), 3pm to 8pm with the switch-on at 6pm on Devonshire Street, and [Old Spitalfields Market](https://oldspitalfieldsmarket.com/events/christmas-2026-light-switch-on), 4pm to 7.30pm with the switch-on at 6pm.
-- **Thursday 12 November:** [Bond Street](https://www.bondstreet.co.uk/articles/bond-streets-magical-christmas-lights), traffic-free from 4pm to 8pm with the lights on between 6pm and 7pm, and [Covent Garden](https://www.coventgarden.london/event/covent-garden-lights-switch-on), with Seven Dials.
+- **Thursday 5 November:** [Regent Street](https://www.regentstreetonline.com/news/festive-spirits-return-for-2026).
+- **Wednesday 11 November:** [Marylebone Village](https://www.marylebonevillage.com/whats-on-and-features/item/1477-merry-marylebone-christmas), switched on at 6pm on Devonshire Street, and [Old Spitalfields Market](https://oldspitalfieldsmarket.com/events/christmas-2026-light-switch-on), switched on at 6pm.
+- **Thursday 12 November:** [Bond Street](https://www.bondstreet.co.uk/articles/bond-streets-magical-christmas-lights) and [Covent Garden](https://www.coventgarden.london/event/covent-garden-lights-switch-on), with Seven Dials.
 
-Oxford Street's lights go on on Monday 9 November 2026, from 4:30pm. It is traffic-free from Selfridges to Great Portland Street, so you walk its lights down the middle of the road. They stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
+Oxford Street's lights went on on Monday 9 November 2026. It is traffic-free from Selfridges to Great Portland Street, so you walk its lights down the middle of the road. They stay up until around Twelfth Night in early January. To see them in one evening on foot, follow our [Christmas lights walk](/articles/christmas-lights-walk-london/): ten stops from Selfridges to Trafalgar Square, with each street's 2026 switch-on date.
 
 | Street | Known for |
 | --- | --- |
@@ -182,9 +182,9 @@ The second act takes the happy endings apart, so it suits adults and older child
 
 **A Christmas Carol as an immersive Victorian dinner.** The Lost Estate in West Kensington stages it around the moment Dickens first read the story aloud, with live music, theatre performed around the tables and a full feast.
 
-It runs from **6 November to 31 December 2026** at 7-9 Beaumont Avenue, W14 9LP, two minutes from West Kensington. Every ticket includes the three-course feast: **Classic Dining from £150**, **Private Dining from £195** and **VIP Dining from £235**, with previews from 6 to 12 November from £136, plus a £4.85 booking fee.
+It runs from **6 November 2026 to 2 January 2027** at 7-9 Beaumont Avenue, W14 9LP, two minutes from West Kensington. Every ticket includes the three-course feast: **Classic Dining from £150**, **Private Dining from £195** and **VIP Dining from £235**, plus a £4.85 booking fee.
 
-> ⚠️ **The final 2026 tickets go to subscribers first.** The company releases them to its [presale list](https://christmasfeast.thelostestate.com/) before the general sale.
+> ⚠️ **The final 2026 ticket release is on sale now** through the [Lost Estate's booking page](https://christmasfeast.thelostestate.com/).
 
 ### Scrooge: Cirque Extravaganza, ExCeL London
 
@@ -212,13 +212,13 @@ These shows are built for children, and they book earlier than anything else in 
 
 ### Wundrful World of Christmas, ExCeL London
 
-**13 November – 24 December 2026, on selected days.** A timed walk-through for **three to eight-year-olds** and their adults, in Immerse LDN on ExCeL's waterfront, three minutes' walk from Custom House (Elizabeth line and DLR). Children ride a lift to the North Pole, cross an Enchanted Forest, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and then Santa, with a photo taken at the end, and every child gets a small gift. It takes about 50 minutes, and the Elves' Playground afterwards (light installations, gentle fairground rides, food stalls) adds at least another 30.
+**Selected days until 24 December 2026.** A timed walk-through for **three to eight-year-olds** and their adults, in Immerse LDN on ExCeL's waterfront, three minutes' walk from Custom House (Elizabeth line and DLR). Children ride a lift to the North Pole, cross an Enchanted Forest, sort toys in the Elves' Workshop, meet Mrs Claus in her kitchen and then Santa, with a photo taken at the end, and every child gets a small gift. It takes about 50 minutes, and the Elves' Playground afterwards (light installations, gentle fairground rides, food stalls) adds at least another 30.
 
 **Adults £29.90 off-peak and £34.90 at peak; children £24.90 and £29.90.** A family pass for four or five (no more than two adults) is £24.90 a head off-peak and £29.90 at peak. Every child needs a ticket, babies included, though under-12-month tickets are free. Rides, food and Santa photo prints cost extra, the venue takes cards only, and pushchairs are left outside the walk-through. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
 
 ### Pinocchio, Shakespeare's Globe
 
-**28 November 2026 – 3 January 2027.** A musical staged in the Globe Theatre itself, for **ages five and over**, running 2 hours 10 minutes with a 20-minute interval. Seats are £28 to £88 including a £3 per-order fee, standing is £10 or £5, and under-16s pay half price for seats. [Dates and tickets](https://www.shakespearesglobe.com/whats-on/pinocchio/).
+**28 November 2026 – 3 January 2027.** A musical staged in the Globe Theatre itself, for **ages five and over**, running 2 hours 10 minutes with a 20-minute interval. Seats are £29 to £89 including a £3 per-order fee and a £2 per-ticket restoration levy, standing is £10 or £5, and under-16s pay half price for seats. [Dates and tickets](https://www.shakespearesglobe.com/whats-on/pinocchio/).
 
 ### The Snowman, Peacock Theatre
 
@@ -290,7 +290,6 @@ Beyond the free ones above, several concert halls run ticketed carol and candlel
 
 **Museum by Candlelight, The Fan Museum, Greenwich: 11 to 18 December 2026, 4.30pm to 7pm.** The museum at 12 Crooms Hill opens late on five evenings with its rooms lit by candles and classical festive music playing; a mulled wine, cider or juice in the Orangery comes with the ticket. Tickets are **£10** and must be [booked in advance](https://www.thefanmuseum.org.uk/events/museum-by-candlelight): none are sold on the door. The rest of the day is in our [Greenwich guide](/articles/greenwich-area-guide/).
 
-**Barbican Conservatory plant adoption: Wednesday 2 December 2026.** The Barbican is giving away plants from its Conservatory at its final adoption event. It is free, one ticket per person, allocated by a ballot on the [Barbican's plant adoption page](https://www.barbican.org.uk/whats-on/event/conservatory-plant-adoption) that closes on **Thursday 19 November**; winners have 48 hours to claim a ticket and there are no walk-ins. The Conservatory itself is open on listed dates from 13 November to 3 January, free but ticketed; see our [Barbican guide](/articles/barbican-centre-guide/).
 
 ---
 
@@ -326,7 +325,7 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 
 ## Good to know
 
-**TfL runs no services at all on Christmas Day** — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. Black cabs, private hire, Santander Cycles and rental e-scooters are the only options moving. **Boxing Day is reduced, not closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) nearer the date for the exact 2026 detail.
+**TfL runs no services at all on Christmas Day** ([TfL](https://tfl.gov.uk/christmas-travel)) — no Tube, buses, Overground, DLR, Elizabeth line, trams or river boats. The only transport running is taxis and private hire, Santander Cycles, rental e-scooters in some boroughs, coaches, Dial-a-Ride for registered members and a few bus routes run by other operators. **On New Year's Eve most TfL services run through the night**, with some central stations closed or exit-only at short notice to prevent overcrowding and some central buses on diversion. The Congestion Charge does not apply from Christmas Day to Friday 1 January 2027. **Boxing Day is reduced, not closed** — Tube and buses typically run to a Sunday timetable from around 7am, with the Elizabeth line historically closed altogether. Check [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel) for the exact 2026 detail; TfL lists planned closures over the period on the Central, District, Hammersmith & City, Elizabeth, Mildmay, Suffragette and Windrush lines.
 
 **RMT Tube drivers strike for 24 hours from noon on Thursday 26 November, Thursday 17 December and Saturday 19 December 2026** ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)), with five more dates in January and February 2027. Check TfL Go before you travel on those days.
 

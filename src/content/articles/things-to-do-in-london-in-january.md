@@ -5,7 +5,7 @@ description: "The New Year's Day Parade, Winter Wonderland closing and the rinks
 heroImage: "../../assets/articles/things-to-do-in-london-in-january/winter-lights-canary-wharf-installation.jpg"
 heroImageAlt: "A ring of mirrored panels framed in purple light at Winter Lights, Canary Wharf, with visitors standing around it below lit office windows"
 publishedAt: 2026-11-04
-updatedAt: 2026-11-11
+updatedAt: 2026-11-19
 reviewBy: 2026-12-15
 sites: [london]
 canonicalSite: london
@@ -14,7 +14,7 @@ tags: [things to do, London events, January, New Year, seasonal, London experien
 draft: false
 faq:
   - q: "What is on in London in January 2027?"
-    a: "The London New Year's Day Parade is on Friday 1 January, 1pm to 4.30pm, and Hyde Park Winter Wonderland, Christmas at Kew and the PDC World Darts Championship all finish on Sunday 3 January. The Masters snooker is at Alexandra Palace from 10 to 17 January, MimeLondon runs at the Barbican, Southbank Centre, Sadler's Wells East and The Place from 12 January, and London Art Fair is at the Business Design Centre from 19 to 24 January. Official London Theatre's New Year Sale launches on 5 January."
+    a: "The London New Year's Day Parade is on Friday 1 January, 1pm to 4.30pm, and Hyde Park Winter Wonderland, Christmas at Kew and the World Darts Championship all finish on Sunday 3 January. The Masters snooker is at Alexandra Palace from 10 to 17 January, MimeLondon runs at the Barbican, Southbank Centre, Sadler's Wells East and The Place from 12 January, and London Art Fair is at the Business Design Centre from 19 to 24 January. Official London Theatre's New Year Sale launches on 5 January."
   - q: "Is the London New Year's Day Parade free to watch?"
     a: "Yes. The organiser says the general public can watch free-standing along Piccadilly, Regent Street, St James's, Pall Mall, Trafalgar Square and Whitehall. It runs from 1pm to 4.30pm on Friday 1 January 2027. Covered grandstand and VIP seats, and a new Fun Zone at Waterloo Place with fold-out chairs, are ticketed through Ticketmaster."
   - q: "When does Winter Wonderland close in 2027?"
@@ -33,14 +33,16 @@ faq:
 
 New Year's Day opens with the Parade, and Winter Wonderland and the Christmas trails close on the 3rd. The darts finish, the snooker moves into Alexandra Palace, and the art fair and the first West End openings of the year follow. Sunset is before 4.50pm all month.
 
-> 💡 **The Short Version:** **The London New Year's Day Parade is on Friday 1 January, 1pm to 4.30pm**, and it is free to watch standing. **Winter Wonderland, Christmas at Kew and the PDC World Darts Championship all end on Sunday 3 January**, Somerset House's rink on **10 January**. **MimeLondon** (the successor to the London International Mime Festival) opens at the Barbican on **12 January**, the **Masters snooker** is at Alexandra Palace on **10 to 17 January** **London Art Fair** is at the Business Design Centre on **19 to 24 January**, and **Winter Lights** lights up Canary Wharf free from **19 to 30 January**. **Official London Theatre's New Year Sale launches on 5 January.** The **Bayeux Tapestry** is sold out to 31 March, and the **National Gallery is closed on 1 January**.
+> 💡 **The Short Version:** **The London New Year's Day Parade is on Friday 1 January, 1pm to 4.30pm**, and it is free to watch standing. **Winter Wonderland, Christmas at Kew and the World Darts Championship all end on Sunday 3 January**, Somerset House's rink on **10 January**. **MimeLondon** (the successor to the London International Mime Festival) opens at the Barbican on **12 January**, the **Masters snooker** is at Alexandra Palace on **10 to 17 January** **London Art Fair** is at the Business Design Centre on **19 to 24 January**, and **Winter Lights** lights up Canary Wharf free from **19 to 30 January**. **Official London Theatre's New Year Sale launches on 5 January.** The **Bayeux Tapestry** is sold out to 31 March, and the **National Gallery is closed on 1 January**.
 
 | Date | What | Cost |
 | --- | --- | --- |
 | Fri 1 Jan | London New Year's Day Parade, 1pm to 4.30pm; National Gallery closed | Free to stand |
 | Sat 2 Jan | Arsenal v Ipswich and Brentford v Crystal Palace, 3pm | Ticketed |
 | Sun 3 Jan | Last day of Winter Wonderland, Christmas at Kew, Hampton Court's rink and the PDC darts | Ticketed |
+| Mon 4 Jan | RMT Tube strike from noon | — |
 | Tue 5 Jan | Official London Theatre's New Year Sale launches | Offers vary |
+| Wed 6 Jan | RMT Tube strike from noon | — |
 | Sat 9 Jan | FA Cup third round | Ticketed |
 | Sun 10 Jan | Masters snooker begins; last day of Somerset House's rink | Ticketed |
 | Tue 12 Jan | MimeLondon opens at the Barbican | Ticketed |
@@ -193,7 +195,7 @@ For a West End base, [Strand Palace](hotel:strand-palace) has nearly 800 rooms o
 
 ### PDC World Darts Championship — to Sunday 3 January
 
-**The tournament ends on 3 January 2027 at Alexandra Palace, in the Great Hall for the first time.** Tickets were allocated by ballot, which has closed. Evening doors open at 7pm. Details are on [Alexandra Palace's page](https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/).
+**The Paddy Power World Darts Championship ends on 3 January 2027 at Alexandra Palace, in the Great Hall for the first time.** Tickets have sold out, though a small number may be released nearer the time. Details and the release alert are on [Alexandra Palace's page](https://www.alexandrapalace.com/whats-on/world-darts-championship-2026-2027/).
 
 ### Masters snooker — Alexandra Palace, 10 to 17 January
 
@@ -219,14 +221,16 @@ These are the home games of London's six Premier League clubs, with the League's
 
 The route to a ticket is in our [Premier League tickets guide](/articles/premier-league-tickets-london/).
 
-## Trains over the New Year
+## Tube strikes and trains over the New Year
+
+> ⚠️ **RMT Tube drivers strike for 24 hours from noon on Monday 4 January and again from noon on Wednesday 6 January.** The [RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/) set the dates; each strike ends at noon the day after, so Tuesday 5 and Thursday 7 January mornings are affected. Schools go back on the 4th. Check TfL Go before you travel.
 
 **Network Rail's engineering runs through the first weekend of the year.**
 
-- **London Paddington:** Great Western Railway trains cannot use the station until Monday 4 January. Long-distance services start and finish at Reading, and some divert to Euston. Work at Dolphin Junction near Slough affects Heathrow and Thames Valley trains until Sunday 3 January.
-- **Liverpool Street to Shenfield:** no Greater Anglia trains run, and Elizabeth line services are affected, until Sunday 3 January.
-- **London Charing Cross:** engineering work affects trains on 1 to 3 January.
-- **Redhill:** the railway through the town is closed until the early hours of Monday 4 January.
+- **London Paddington:** major work at Dolphin Junction near Slough changes services to Heathrow, the West of England, South Wales and the Thames Valley from 27 December to Sunday 3 January.
+- **Liverpool Street to Shenfield:** no Greater Anglia trains run, and Elizabeth line services are affected, from 27 December to Sunday 3 January.
+- **London Charing Cross:** engineering work affects trains on 27 and 28 December and from 1 to 3 January.
+- **Redhill:** engineering work affects trains through the town from 20 December to 3 January.
 
 National Rail's [Christmas and New Year page](https://www.nationalrail.co.uk/travel-information/christmas/) lists every route and its [engineering works calendar](https://www.nationalrail.co.uk/engineering-works/) shows the rest of the month. Our [London Underground guide](/articles/how-to-use-the-london-underground/) covers the lines.
 

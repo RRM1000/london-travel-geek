@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Trafalgar_Square_Christ
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-09-27
-updatedAt: 2026-11-16
-reviewBy: 2026-11-30
+updatedAt: 2026-11-19
+reviewBy: 2026-11-26
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -18,7 +18,7 @@ tags: [christmas, winter, Christmas markets, markets, free things to do, things 
 draft: false
 faq:
   - q: "When do London's Christmas markets open in 2026?"
-    a: "Leicester Square opened first, on Saturday 31 October 2026, and runs to 3 January 2027 alongside its ice rink. The Southbank Centre Winter Market opened on Monday 2 November and runs to Saturday 2 January. Winter by the River at London Bridge City opens on Tuesday 10 November, and Kingston on Thursday 12 November, both to 3 January. Hyde Park Winter Wonderland opens on Thursday 19 November, Christmas Under the Canopy at King's Cross on 20 November, and the King's Cross Winter Market on Thursday 26 November. Borough Market opens seven days a week from Monday 30 November. Trafalgar Square's market opens in November and trades into early January."
+    a: "Leicester Square opened first, on Saturday 31 October 2026, and runs to 3 January 2027 alongside its ice rink. The Southbank Centre Winter Market opened on Monday 2 November and runs to Saturday 2 January. Winter by the River at London Bridge City opened on Tuesday 10 November, and Kingston on Thursday 12 November, both running to 3 January. Hyde Park Winter Wonderland opens on Thursday 19 November, Christmas Under the Canopy at King's Cross on 20 November, and the King's Cross Winter Market on Thursday 26 November. Borough Market opens seven days a week from Monday 30 November. Trafalgar Square's market opens in November and trades into early January."
   - q: "Are London's Christmas markets free?"
     a: "Nearly all of them. Southbank, Trafalgar Square, Leicester Square, Covent Garden, Borough, Kingston, Greenwich and Crafty Fox cost nothing to walk into. The exceptions are Hyde Park Winter Wonderland, where everyone needs a timed entry ticket from £1 even to reach its market, the Chelsea Physic Garden Christmas Fair, £8 in advance or £10 on the door, and the indoor fairs at Olympia and the Business Design Centre, which start at £16."
   - q: "Which London Christmas markets are close enough to do in one evening?"
@@ -33,11 +33,11 @@ faq:
 
 London's Christmas markets come in three kinds: the chalet markets that go up for six weeks in November, the year-round markets that dress up for December, and one-weekend maker fairs where the stallholders made what they sell. Most cost nothing to walk into.
 
-> 💡 **The Short Version:** **Go to the Southbank Centre Winter Market for food** (open since **2 November**, beside the river, **cash-free**), or **Leicester Square for chalets round an ice rink** (open since **31 October**). Southbank runs to 2 January and Leicester Square to 3 January. **For the biggest, Hyde Park Winter Wonderland** opens **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City opens **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross opens **20 November**, and **Crafty Fox** is at RSA House on **5 December** and King's Cross on **6 and 12–13 December**.
+> 💡 **The Short Version:** **Go to the Southbank Centre Winter Market for food** (open since **2 November**, beside the river, **cash-free**), or **Leicester Square for chalets round an ice rink** (open since **31 October**). Southbank runs to 2 January and Leicester Square to 3 January. **For the biggest, Hyde Park Winter Wonderland** opens **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City has been open since **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross opens **20 November**, and **Crafty Fox** is at RSA House on **5 December** and King's Cross on **6 and 12–13 December**.
 
 > 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas walk: the markets on foot](/articles/christmas-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas shows and pantomimes](/articles/christmas-shows-london/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
-*Dates, hours and prices as at 9 November 2026.*
+*Dates, hours and prices as at 19 November 2026.*
 
 ## The markets at a glance
 
@@ -52,7 +52,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 | **Winter Wonderland market** | Hyde Park, W2 | 19 Nov 2026 – 3 Jan 2027 | Entry ticket from £1 | Everyone needs a timed ticket, even just for the market |
 | **King's Cross Winter Market** | Granary Square, N1C | 26 Nov 2026 – 3 Jan 2027 | Free | New for 2026; closed 25 and 26 Dec and 1 Jan |
 | **Christmas Under the Canopy** | West Handyside Canopy, N1C | 20 Nov – 23 Dec 2026 | Free | Closed Mondays, except Monday 21 Dec (noon–7pm) |
-| **Old Spitalfields Market** | 16 Horner Square, E1 | Lights on 11 Nov 2026 | Free | Switch-on party is 4pm to 7.30pm, with the lights at 6pm |
+| **Old Spitalfields Market** | 16 Horner Square, E1 | Lights on since 11 Nov 2026 | Free | Open daily; hours below |
 | **Kingston** | Ancient Market Place, KT1 | 12 Nov 2026 – 3 Jan 2027 | Free | Stalls shut at 6pm Sunday to Wednesday |
 | **Greenwich Market** | Greenwich, SE10 | Daily, all year | Free | Closes at 5.30pm; the street food market next door runs Friday to Sunday to 29 Nov |
 | **Wimbledon** | The Piazza, SW19 | Winterfest 28–29 Nov 2026 | Free | Winterfest has ice skating and Santa's Grotto at Wimbledon Quarter |
@@ -122,7 +122,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ### Covent Garden
 
-**Covent Garden has no chalet market. What it has is a full set of Christmas decorations over the market halls that trade all year.** The lights go on on **Thursday 12 November 2026**, themed 'The Theatre of Christmas': over 300,000 of them across the neighbourhood, the gold bells, mirror balls and baubles hung inside the Market Building, and a 50ft tree on the West Piazza beside St Paul's Church. Festive Thursdays then run every Thursday, with late-night shopping and performances.
+**Covent Garden has no chalet market. What it has is a full set of Christmas decorations over the market halls that trade all year.** The lights went on on **Thursday 12 November 2026**, themed 'The Theatre of Christmas': over 300,000 of them across the neighbourhood, the gold bells, mirror balls and baubles hung inside the Market Building, and a 50ft tree on the West Piazza beside St Paul's Church. Festive Thursdays then run every Thursday, with late-night shopping and performances.
 
 **What to buy:** the **Apple Market** under the glass roof sells antiques on Mondays and crafts and general goods the rest of the week, from about 10am to 6pm. The **East Colonnade** has handmade jewellery and gifts, and the **Jubilee Market Hall** on the south side is cheaper and closer to a general market. A mulled wine cart stands on Central Avenue through the season.
 
@@ -181,7 +181,7 @@ Saturday between 11am and 2pm is the crush; Friday mid-morning is well stocked a
 
 ### Old Spitalfields Market
 
-**A covered market in Spitalfields with a Christmas market inside it, lit at a free switch-on party on Wednesday 11 November 2026.** The [party](https://oldspitalfieldsmarket.com/events/christmas-2026-light-switch-on) runs from 4pm to 7.30pm, with music from 4pm, a gospel choir from 5.30pm, face painting and craft activities for children, mulled wine and street food, and the lights go on at 6pm. The Christmas Market and shops are open throughout.
+**A covered market in Spitalfields with a Christmas market inside it, lit at a [free switch-on party](https://oldspitalfieldsmarket.com/events/christmas-2026-light-switch-on) on Wednesday 11 November 2026.** The lights are up and the Christmas Market and shops are open.
 
 - **Hours:** Monday, Tuesday, Wednesday and Friday **10am–8pm**, Thursday **8am–6pm**, Saturday **10am–6pm**, Sunday **10am–5pm**.
 - **Price:** free.
@@ -247,8 +247,7 @@ More areas are in [where to stay in London](/articles/best-areas-to-stay-in-lond
 **A covered market of designer-makers, antiques dealers and food stalls**, which dresses up for Christmas without turning into a Christmas market. It is the one to visit for gifts made by the person selling them.
 
 - **Open:** daily **10am–5.30pm**, all year, closed Christmas Day. Arts and crafts on Monday, Wednesday, Friday and weekends; antiques and collectables on Tuesday, Thursday and Friday.
-- **The Lantern Parade:** on **Wednesday 18 November 2026** local schoolchildren carry lanterns from the Old Royal Naval College to the market, where the Christmas lights go on at 5pm. Festivities run from noon to 6.30pm.
-- **9–10 November:** there are no stalls on Monday 9 and Tuesday 10 November while the festive lights are hung. The shops in the market stay open.
+- **The Lantern Parade:** on **Wednesday 18 November 2026** local schoolchildren carried lanterns from the Old Royal Naval College to the market, where the Christmas lights went on at 5pm.
 - **Price:** free.
 - **Getting there:** Cutty Sark DLR, three minutes.
 

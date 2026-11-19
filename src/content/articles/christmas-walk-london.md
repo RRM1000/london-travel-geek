@@ -9,7 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Southbank_Christmas_Mar
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-11-16
-reviewBy: 2026-12-01
+updatedAt: 2026-11-19
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "London areas"

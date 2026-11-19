@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-11-14
-reviewBy: 2026-11-16
+updatedAt: 2026-11-19
+reviewBy: 2026-11-26
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -24,20 +24,20 @@ faq:
   - q: "When is the Trafalgar Square Christmas tree lit in 2026?"
     a: "Thursday 3 December. Carol groups sing beneath it on most evenings until Christmas, with no ticket."
   - q: "Are the Tube, buses and trains running on Christmas Day and Boxing Day in London?"
-    a: "TfL runs no service on most of its network on Christmas Day. On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line. National Rail runs almost nothing in England on Christmas Day or Boxing Day, and in 2026 London Paddington is closed from Christmas Day, with Great Western Railway trains unable to use it until Monday 4 January."
+    a: "TfL runs no service on most of its network on Christmas Day, and its plan for 24 December to 3 January is at tfl.gov.uk/christmas-travel. National Rail runs almost nothing in England on Christmas Day or Boxing Day, and in 2026 London Paddington is closed from Christmas Day, with Great Western Railway trains unable to use it until Monday 4 January. Tube drivers also strike for 24 hours from noon on Thursday 17 and Saturday 19 December."
   - q: "What is closed in London on Christmas Day 2026?"
     a: "The British Museum, Natural History Museum, Science Museum, V&A and Wallace Collection are all closed on 24, 25 and 26 December, and the National Gallery is also closed on 1 January. Hyde Park Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Somerset House and Hampton Court Palace shut on Christmas Day only. St Paul's holds a Choral Eucharist at 11am and a Festal Evensong at 3pm, both free."
   - q: "Which Premier League games are in London on Boxing Day 2026?"
     a: "Saturday 26 December has Fulham v Brighton at Craven Cottage and Spurs v Bournemouth at the Tottenham Hotspur Stadium, both listed for 3pm. Crystal Palace v Arsenal at Selhurst Park follows on Sunday 27th at 7pm. The kick-off times are the Premier League's listed slots, and broadcasters move some games."
   - q: "How do you get into the carol services at St Paul's Cathedral and Westminster Abbey?"
-    a: "St Paul's carol services on 19, 23 and 24 December are free but allocated by ballot, which opens in November; the Advent, Midnight and Christmas Day services need no ticket. Westminster Abbey releases tickets for its Lessons and Carols services on Monday 16 and Wednesday 18 November at 9.30am and 2.30pm, and its Christmas concert on Saturday 19 December is £16 to £51 plus a booking fee."
+    a: "St Paul's carol services on 19, 23 and 24 December are free with a ticket allocated by ballot; the Advent, Midnight and Christmas Day services need no ticket. Westminster Abbey released free tickets for its Advent and Christmas services on Monday 16 and Wednesday 18 November, and its Christmas concert on Saturday 19 December is £16 to £51 plus a booking fee."
   - q: "When does it get dark in London in December?"
     a: "Sunset is at 3.57pm on 1 December, 3.53pm from about the 10th to the 15th and 3.55pm on 21 December, the shortest day, with sunrise at 8.01am. Heathrow's 1991 to 2020 average for the month is a high of 8.8C, a low of 3.1C, 57.0mm of rain and 53 hours of sunshine, the least of any month."
 ---
 
 The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and carols fill the run to Christmas Eve. Christmas Day closes most of the city, and the football and the darts carry the days to New Year's Eve. The sun sets before 4pm all month.
 
-> 💡 **The Short Version:** **The Trafalgar Square tree is lit on Thursday 3 December**, the night the Royal Ballet's **Nutcracker** opens. **Carols at the Royal Albert Hall run 19 to 24 December**, and **St Paul's carol services are free but balloted**. The **PDC World Darts** runs at Alexandra Palace from **11 December**. **Christmas Day has no TfL service**, **London Paddington is shut from 25 December to 3 January**, and the British Museum, Natural History Museum, Science Museum and V&A close **24 to 26 December**. **Boxing Day football** is Fulham v Brighton and Spurs v Bournemouth at 3pm. The **Bayeux Tapestry** is sold out to 31 March 2027, and the **New Year's Eve fireworks** release their second batch of tickets at **12 noon on Friday 20 November**.
+> 💡 **The Short Version:** **The Trafalgar Square tree is lit on Thursday 3 December**, the night the Royal Ballet's **Nutcracker** opens. **Carols at the Royal Albert Hall run 19 to 24 December**, and **St Paul's carol services are free but need a ticket from its ballot**. The **PDC World Darts** runs at Alexandra Palace from **11 December**. **Christmas Day has no TfL service**, **London Paddington is shut from 25 December to 3 January**, and the British Museum, Natural History Museum, Science Museum and V&A close **24 to 26 December**. **Boxing Day football** is Fulham v Brighton and Spurs v Bournemouth at 3pm. The **Bayeux Tapestry** is sold out to 31 March 2027, and the **New Year's Eve fireworks** release their second batch of tickets at **12 noon on Friday 20 November**.
 
 | Date | What | Cost |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and car
 | Wed 2 Dec | Spurs v Fulham, Chelsea v Crystal Palace and Brentford v Arsenal, 8pm | Ticketed |
 | Thu 3 Dec | Trafalgar Square tree lit; Royal Ballet's Nutcracker opens; Kew adults-only evening | Tree free |
 | Fri 4 Dec | Bayeux Late at the British Museum; Hampton Court Festive Fayre starts | Late free |
-| Sat 5 Dec | Spurs v Arsenal; London Palladium panto opens; England Women v Ukraine at Wembley, 5.30pm | Ticketed |
+| Sat 5 Dec | Regent Street traffic-free all day (Festive Mile); Spurs v Arsenal; London Palladium panto opens; England Women v Ukraine at Wembley, 5.30pm | Street free; rest ticketed |
 | Wed 9 Dec | Alexandra Palace Festive Skate opens | Ticketed |
 | Thu 10 Dec | Carols by Candlelight at the Tower; A Celebration of Christmas at St Paul's | £30; paid |
 | Fri 11 Dec | PDC World Darts begins at Alexandra Palace | Ticketed |
@@ -78,13 +78,13 @@ The Trafalgar Square tree is lit on **Thursday 3 December**, and carol groups si
 
 ### St Paul's Cathedral
 
-**Most services are free and need no ticket; the carol services that fill are balloted.** The ticketed events are Handel's Messiah on Wednesday 2nd (6.30pm to 9pm; **£35** under the dome, **£20** in the nave) and A Celebration of Christmas on Thursday 10th (6.30pm to 8pm; nave seats **£30**). **Family Carols on Saturday 19th (11am) and the 4pm Christmas Carol Services on Wednesday 23rd and Thursday 24th are free but allocated by ballot**, which opens in November, and any tickets not claimed are released to the public.
+**Most services are free and need no ticket; the carol services that fill are balloted.** The ticketed events are Handel's Messiah on Wednesday 2nd (6.30pm to 9pm; **£35** under the dome, **£20** in the nave) and A Celebration of Christmas on Thursday 10th (6.30pm to 8pm; nave seats **£30**). **Family Carols on Saturday 19th (11am) and the 4pm Christmas Carol Services on Wednesday 23rd and Thursday 24th are free but need a ticket, allocated by ballot** (details on the page below), and any tickets not claimed are released to the public.
 
 Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5pm), the Blessing of the Crib with the lighting of the Christmas trees on Sunday 20th (3pm), the **Midnight Eucharist** on Thursday 24th (11pm), and on Christmas Day the Choral Eucharist at 11am and Festal Evensong at 3pm. Doors open an hour before, queues form outside, seating is unreserved, there is no cloakroom and bags over 450 x 300 x 250mm are not allowed. Details are on [St Paul's Christmas page](https://www.stpauls.co.uk/christmas).
 
 ### Westminster Abbey
 
-**Tickets for the Abbey's Lessons and Carols services are released on Monday 16 and Wednesday 18 November, at 9.30am and 2.30pm.** The choir's ticketed concert, **Christmas with the Choir of Westminster Abbey**, is on Saturday 19 December at 7pm, with doors at 6.15pm: £51 in the front nave down to £16 for an unreserved Quire seat with no view, plus a booking fee. The Abbey's services and times are on its [Advent and Christmas page](https://www.westminster-abbey.org/worship-and-music/services-and-times/advent-and-christmas/); our [Westminster Abbey guide](/articles/westminster-abbey-guide/) covers a daytime visit.
+**Free tickets for the Abbey's Advent and Christmas services were released on Monday 16 and Wednesday 18 November**, and the services' page shows what is left. The choir's ticketed concert, **Christmas with the Choir of Westminster Abbey**, is on Saturday 19 December at 7pm, with doors at 6.15pm: £51 in the front nave down to £16 for an unreserved Quire seat with no view, plus a booking fee. The Abbey's services and times are on its [Advent and Christmas page](https://www.westminster-abbey.org/worship-and-music/services-and-times/advent-and-christmas/); our [Westminster Abbey guide](/articles/westminster-abbey-guide/) covers a daytime visit.
 
 ### The Tower of London
 
@@ -130,9 +130,9 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 
 The [Fan Museum](https://www.thefanmuseum.org.uk/events/museum-by-candlelight), at 12 Crooms Hill, opens from **4.30pm to 7pm** on five evenings, **11 to 18 December**, with its exhibition spaces lit almost entirely by candles and classical festive music playing. A mulled wine, cider or juice in the Orangery comes with the ticket. Tickets are **£10**, must be [booked in advance](https://online1.venpos.net/VenposJourneyUI/?locationId=626&id=d0153577-78a7-4e9c-a69a-1b29c2ab159c), and are not sold on the door. Cutty Sark DLR is five minutes' walk, and the rest of the day is in our [Greenwich guide](/articles/greenwich-area-guide/).
 
-### Barbican Conservatory plant adoption — Wednesday 2 December
+### The Barbican Conservatory
 
-The Barbican is giving away plants from its Conservatory at its final plant adoption event on **Wednesday 2 December**. Places are free, one ticket per person, and allocated by a ballot that closes on **Thursday 19 November** on the [Barbican's plant adoption page](https://www.barbican.org.uk/whats-on/event/conservatory-plant-adoption). Successful entrants have 48 hours to claim a ticket, and there are no walk-ins. The Conservatory itself is open to visitors on listed dates from 13 November to 3 January, free but ticketed; see our [Barbican guide](/articles/barbican-centre-guide/).
+The Conservatory is open to visitors on listed dates from 13 November to 3 January, free but ticketed; see our [Barbican guide](/articles/barbican-centre-guide/).
 
 ### Other Christmas nights
 
@@ -194,7 +194,7 @@ The Serpentine Swimming Club's Christmas morning handicap is a 100-yard swim in 
 
 ### Transport
 
-**TfL runs no service on most of its network on Christmas Day.** On Boxing Day 2025 it ran a Sunday service on the Tube, buses and trams, with no Elizabeth line, and Christmas Eve services finished early. The festive plan is at [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel).
+**TfL runs no service on most of its network on Christmas Day.** Its plan for 24 December to 3 January is at [tfl.gov.uk/christmas-travel](https://tfl.gov.uk/christmas-travel).
 
 **National Rail runs almost nothing in England on Christmas Day and Boxing Day**, and Network Rail uses the days after for engineering:
 
@@ -223,7 +223,7 @@ Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Som
 
 **Daylight.** Sunset is **3.57pm on 1 December**, about **3.53pm from the 10th to the 15th**, **3.55pm on 21 December** and **4.02pm on the 31st**. Sunrise moves from 7.41am to 8.04am. **The shortest day is 21 December: sunrise at 8.01am, sunset at 3.55pm, 7 hours 54 minutes of daylight.**
 
-**Tube strikes.** RMT drivers strike for 24 hours from noon on **Thursday 17 December and Saturday 19 December 2026** ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)). Saturday 19 December is the last Saturday before Christmas Day. Check TfL Go before you travel; the January and February dates are in our [getting around London guide](/articles/getting-around-london-transport-guide/).
+**Tube strikes.** RMT drivers strike for 24 hours from noon on **Thursday 26 November, Thursday 17 December and Saturday 19 December 2026**, and on **Monday 4 January and Wednesday 6 January 2027** ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)). Saturday 19 December is the last Saturday before Christmas Day, and the day of the Albert Hall's first carol concerts and the Abbey's choir concert. Check TfL Go before you travel; the February dates are in our [getting around London guide](/articles/getting-around-london-transport-guide/).
 
 **Working out which month suits you best?** [Best time to visit London](/articles/best-time-to-visit-london/) compares December against the rest of the year, and [November's guide](/articles/things-to-do-in-london-in-november/) covers the month before. With children, see [London with children](/articles/london-with-children/).
 

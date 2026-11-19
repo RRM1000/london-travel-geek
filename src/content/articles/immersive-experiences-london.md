@@ -29,7 +29,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0"
 ---
 
-> 💡 **The Short Version:** **Bridge Command** is the most interactive: you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest, and you cannot hide from it. **Frameless** is for people who hate being spoken to. **Outernet is free.** Opening next: Alice Immersive Wonderland and Wundrful World of Christmas (13 November), Phantom Peak (4 December) and Secret Cinema's Pirates of the Caribbean (16 February). Closed: Jeff Wayne's War of the Worlds, Vikings, the Gunpowder Plot and LUMINISCENCE.
+> 💡 **The Short Version:** **Bridge Command** is the most interactive: you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest, and you cannot hide from it. **Frameless** is for people who hate being spoken to. **Outernet is free.** Opening next: Alice Immersive Wonderland and Wundrful World of Christmas (until 24 December), Phantom Peak (4 December) and Secret Cinema's Pirates of the Caribbean (16 February). Closed: Jeff Wayne's War of the Worlds, Vikings, the Gunpowder Plot and LUMINISCENCE.
 
 *Prices and dates as of October 2026.*
 
@@ -87,7 +87,7 @@ Prices are adult starting prices. Several use dynamic pricing, so treat them as 
 
 Ten themed spaces follow Alice from the rabbit hole to the Queen's court, with live performers at key moments and a 20-minute projection-mapped finale. Entry is in 15-minute slots. Pushchairs cannot go in and children who cannot walk must be carried. Strobe lighting is used. Under-4s need a £1.50 ticket, and under-16s need a ticket-holding adult. [Tickets](https://www.aliceimmersivewonderland.com).
 
-### Wundrful World of Christmas, Immerse LDN at ExCeL — 13 November to 24 December 2026
+### Wundrful World of Christmas, Immerse LDN at ExCeL — until 24 December 2026
 ![Wake The Tiger London in London](../../assets/articles/immersive-experiences-london/absurd-city.jpg)
 
 *Adults £29.90 off-peak, £34.90 peak; children £24.90 and £29.90 · about 50 minutes, plus the Elves' Playground · ages 3 to 8 · Custom House*

@@ -3,7 +3,7 @@ title: "Christmas Dinner in London: Where to Eat on Christmas Day"
 seoTitle: "Christmas Day Restaurants London 2026: What It Costs"
 description: "Almost nothing opens on 25 December, and no transport runs to get you there. What actually opens, what the price bands buy, and why booking is non-refundable."
 publishedAt: 2026-09-05
-updatedAt: 2026-11-09
+updatedAt: 2026-11-19
 reviewBy: 2026-12-14
 sites:
   - london
@@ -79,6 +79,8 @@ Dated to Friday 25 December 2026 and bookable:
 | **[The Ritz](https://www.theritzlondon.com/christmas-day-lunch-restaurant/)**, Piccadilly — lunch | **£670** adult, **£365** child to age 15 | Six courses in the Ritz Restaurant, with live entertainment and Father Christmas. Full non-refundable prepayment to confirm. |
 | **[The Ritz](https://www.theritzlondon.com/christmas-day-dinner/)**, Piccadilly — dinner | **£460** adult, **£300** child to age 15 | Four courses in the Ritz Restaurant. Full non-refundable prepayment to confirm. |
 | **[Whitcomb's at The Londoner](https://www.thelondoner.com/festive-season/festive-dining)**, Leicester Square | From **£175** adult, **£80** child | Five courses, with a three-course children's menu. Lunch 12.30pm to 4pm, dinner 6pm to 10pm. |
+| **[Aqua Shard](https://aquashard.co.uk/menus/festive-menus/christmas-day-menu/)**, The Shard, London Bridge | **£200** adult, **£100** under-12s; window table **£250** | Three courses, with a 20% discretionary service charge added. A glass of Laurent-Perrier is £25 extra, and included at a window table. |
+| **[Hutong](https://hutong.co.uk/events/christmas/)**, Level 33 of The Shard, London Bridge | **£175** per person | Five courses of Northern Chinese food, 12pm to 8.30pm. |
 | **[Hard Rock Cafe](https://www.hardrockcafe.com/location/london/)**, Piccadilly Circus | Set price, shown when you book | A Christmas Day buffet, booked through OpenTable from the cafe's own site. |
 
 For a venue not listed here, use the price bands above rather than a figure from a listings site: several listings pages carry a 2026 headline with 2025 prices.
