@@ -485,3 +485,7 @@ Two limitations from the operator: **there are no accessible fast-track options 
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)** — including what runs on Christmas Day, which is nothing
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — where November and December sit against the rest of the year
 - 🎺 **[EFG London Jazz Festival 2026](/articles/london-jazz-festival/)** — 13–22 November, so its closing weekend is Winter Wonderland's opening one, and dozens of its concerts are free
+- ✨ **[Christmas lights walk](/articles/christmas-lights-walk-london/)**: Oxford Street to Trafalgar Square in ten stops
+- 🚶 **[Christmas walk](/articles/christmas-walk-london/)**: London Bridge to Covent Garden in ten stops
+- 🍺 **[Christmas pubs](/articles/christmas-pubs-london/)**: the decorated ones, the fireside ones and when to go
+- ⛸️ **[Ice skating](/articles/ice-skating-london/)**: every outdoor Christmas rink, with dates and prices

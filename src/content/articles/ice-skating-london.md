@@ -229,3 +229,6 @@ The outdoor rinks all close in early January. From then until November, skate in
 - 🍽️ **[Christmas Day restaurants](/articles/christmas-day-restaurants-london/)**: where to eat on the 25th
 - 🎆 **[New Year's Eve in London](/articles/new-years-eve-london/)**: fireworks tickets and the alternatives
 - 🏙️ **Area guides for the rinks:** [Covent Garden](/articles/covent-garden-area-guide/) · [Battersea](/articles/battersea-area-guide/) · [Greenwich](/articles/greenwich-area-guide/) · [Canary Wharf](/articles/canary-wharf-area-guide/)
+- 🚶 **[Christmas walk](/articles/christmas-walk-london/)**: London Bridge to Covent Garden in ten stops
+- 🍺 **[Christmas pubs](/articles/christmas-pubs-london/)**: the decorated ones, the fireside ones and when to go
+- 🎭 **[Christmas shows and pantomimes](/articles/christmas-shows-london/)**: every panto, Nutcracker and festive show

@@ -114,7 +114,7 @@ Everything else is unticketed: Britten's Ceremony of Carols on Saturday 12th (5p
 
 ### Markets
 
-**Borough Market is open daily from 30 November** and shuts from 25 to 27 December. The chalet markets are in the [Christmas markets guide](/articles/christmas-markets-london/), and the full picture is in [Christmas in London](/articles/christmas-in-london/).
+**Borough Market is open daily from 30 November** and shuts from 25 to 27 December. The chalet markets are in the [Christmas markets guide](/articles/christmas-markets-london/), and the full picture is in [Christmas in London](/articles/christmas-in-london/). For a drink by a decorated bar or a fire, see [Christmas pubs](/articles/christmas-pubs-london/).
 
 ## Shows
 

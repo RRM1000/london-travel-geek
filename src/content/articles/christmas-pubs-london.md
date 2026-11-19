@@ -288,3 +288,12 @@ Four old pubs with fires, two in Hampstead and two in Highgate, on either side o
 - **[The Christmas lights walk](/articles/christmas-lights-walk-london/)** — Oxford Street to Trafalgar Square after dark, a few minutes from the Salisbury.
 - **[The most beautiful pubs in London](/articles/most-beautiful-pubs-london/)** — the gin palaces and the flower-covered fronts, all year.
 - **[Historic pubs and dining rooms](/articles/historic-pubs-dining-rooms-london/)** — the coaching inns, chophouses and riverside taverns behind several of these.
+
+## More Christmas guides
+
+- 🎭 **[Christmas shows and pantomimes](/articles/christmas-shows-london/)**: every panto, Nutcracker and festive show
+- 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)**: every price, ride and show
+- ⛸️ **[Ice skating](/articles/ice-skating-london/)**: every outdoor Christmas rink, with dates and prices
+- 🎆 **[New Year's Eve](/articles/new-years-eve-london/)**: fireworks tickets, the parade and getting home
+- 🗓️ **[December in London](/articles/things-to-do-in-london-in-december/)**: carols, pantos and the Christmas Day shutdown
+

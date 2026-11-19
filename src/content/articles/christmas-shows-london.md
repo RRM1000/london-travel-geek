@@ -263,5 +263,10 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 - 🍽️ **[Christmas Day Restaurants in London](/articles/christmas-day-restaurants-london/)**
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)**: the month's dates, closures and Christmas Day transport
 - 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)**: when each pantomime and Nutcracker ends
+- ✨ **[Christmas lights walk](/articles/christmas-lights-walk-london/)**: Oxford Street to Trafalgar Square in ten stops
+- 🚶 **[Christmas walk](/articles/christmas-walk-london/)**: London Bridge to Covent Garden in ten stops
+- 🍺 **[Christmas pubs](/articles/christmas-pubs-london/)**: the decorated ones, the fireside ones and when to go
+- ⛸️ **[Ice skating](/articles/ice-skating-london/)**: every outdoor Christmas rink, with dates and prices
+- 🎆 **[New Year's Eve](/articles/new-years-eve-london/)**: fireworks tickets, the parade and getting home
 
 *Prices change as performances sell, so check the booking page.*

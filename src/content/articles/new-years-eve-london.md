@@ -257,6 +257,10 @@ Or book a table for 7pm, walk home and have a lie-in; our [cocktail bars](/artic
 - 🔺 **[The View from The Shard](/articles/the-shard-guide/)**: the gallery closes at 17:00 on 31 December; its own New Year's Eve night is for Mastercard cardholders
 - 🗓️ **[Things to Do in London in December](/articles/things-to-do-in-london-in-december/)**: carols, pantos and Christmas Day closures
 - 🗓️ **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)**: the Parade, the end of the Christmas season and the first weeks of the year
+- 🍽️ **[Christmas Day restaurants](/articles/christmas-day-restaurants-london/)**: where to eat on the 25th
+- 🍺 **[Christmas pubs](/articles/christmas-pubs-london/)**: the decorated ones, the fireside ones and when to go
+- 🎭 **[Christmas shows and pantomimes](/articles/christmas-shows-london/)**: every panto, Nutcracker and festive show
+- ⛸️ **[Ice skating](/articles/ice-skating-london/)**: every outdoor Christmas rink, with dates and prices
 
 ---
 

@@ -289,3 +289,10 @@ The route is flat, on pavements and pedestrian streets throughout, with a stretc
 - **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** or **[in Soho and the West End](/articles/where-to-stay-soho-west-end/)** — to be a few minutes' walk from the lights rather than a Tube ride.
 - **[The Soho guide](/articles/soho-area-guide/)**, **[the Covent Garden guide](/articles/covent-garden-area-guide/)** and **[the Mayfair guide](/articles/mayfair-area-guide/)** — where to eat and drink along the route.
 - **[The best areas to visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for, how long it takes and the best day to go.
+
+## More Christmas guides
+
+- 🍽️ **[Christmas Day restaurants](/articles/christmas-day-restaurants-london/)**: where to eat on the 25th
+- ⛸️ **[Ice skating](/articles/ice-skating-london/)**: every outdoor Christmas rink, with dates and prices
+- 🎆 **[New Year's Eve](/articles/new-years-eve-london/)**: fireworks tickets, the parade and getting home
+

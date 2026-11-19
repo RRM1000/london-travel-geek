@@ -250,3 +250,10 @@ The route is flat. The one climb is the stairs up to the Golden Jubilee footbrid
 - **[Christmas pubs in London](/articles/christmas-pubs-london/)** — the Churchill Arms, the Salisbury and the George for decorations, and the fireside pubs of Hampstead, Highgate and Richmond.
 - **[The most beautiful pubs in London](/articles/most-beautiful-pubs-london/)** — including the Churchill Arms in Kensington, with its front covered in Christmas trees.
 - **[Where to stay in Covent Garden](/articles/where-to-stay-covent-garden/)** or **[on the South Bank](/articles/where-to-stay-south-bank/)** — to be a few minutes from one end of the walk or the other.
+
+## More Christmas guides
+
+- 🍽️ **[Christmas Day restaurants](/articles/christmas-day-restaurants-london/)**: where to eat on the 25th
+- 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)**: every price, ride and show
+- 🎆 **[New Year's Eve](/articles/new-years-eve-london/)**: fireworks tickets, the parade and getting home
+

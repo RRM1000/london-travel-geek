@@ -135,4 +135,10 @@ A few serve it on 25 December itself, at a premium. [The Ritz](https://www.theri
 - 🍽️ **[Special occasion restaurants](/articles/special-occasion-restaurants-london/)** — for the rest of the year
 - 🚇 **[Getting around London](/articles/getting-around-london-transport-guide/)** — including what runs over the festive week
 - 🗓️ **[Things to do in London in December](/articles/things-to-do-in-london-in-december/)** — what shuts on 24, 25 and 26 December and the rail closures
+- 🛍️ **[Christmas markets](/articles/christmas-markets-london/)**: dates, hours and prices for every market
+- ✨ **[Christmas lights walk](/articles/christmas-lights-walk-london/)**: Oxford Street to Trafalgar Square in ten stops
+- 🚶 **[Christmas walk](/articles/christmas-walk-london/)**: London Bridge to Covent Garden in ten stops
+- 🎭 **[Christmas shows and pantomimes](/articles/christmas-shows-london/)**: every panto, Nutcracker and festive show
+- ⛸️ **[Ice skating](/articles/ice-skating-london/)**: every outdoor Christmas rink, with dates and prices
+- 🎆 **[New Year's Eve](/articles/new-years-eve-london/)**: fireworks tickets, the parade and getting home
 **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — when the Christmas season ends and what is open on New Year's Day
