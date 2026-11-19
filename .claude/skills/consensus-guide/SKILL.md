@@ -244,6 +244,12 @@ different URL double-records silently.
 
 ## Collecting the video and social tiers
 
+**Start from `data/creators.json`**, the list of food creators the research has
+already used plus the ones Rob flags. Search their channels for the topic first,
+then look for new voices, and add new creators to the list (`"manual": true` for
+hand-added rows; `node scripts/build-creators-list.mjs` rebuilds the rest from
+the consensus files and keeps hand-written notes).
+
 Required on every topic. Lowest-weight per source, which is an argument for
 reading them carefully, not for skipping them. On pizza, 24 social sources
 carried 52 names while 9 award and editorial sources carried 49 — the 9 held
