@@ -4,11 +4,11 @@ seoTitle: "Eating Alone in London: Counters That Take Solo Diners"
 description: "London restaurants where one person sits at a counter or bar, with what to order and how each takes a solo diner: walk-in only, a queue, a booking for one, or a seat held back."
 publishedAt: 2026-11-19
 updatedAt: 2026-11-19
-reviewBy: 2027-02-19
+reviewBy: 2027-01-05
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
-tags: [dining, solo travel, counter dining, restaurants, soho, plan your trip]
+tags: [dining, solo travel, counter dining, restaurants, street food, soho, plan your trip]
 draft: false
 heroImage: "../../assets/articles/eating-alone-london/bocca-di-lupo.jpg"
 heroImageAlt: "The red-brick frontage of Bocca di Lupo on Archer Street in Soho, with two diners on stools at the counter behind the window"
@@ -29,7 +29,7 @@ faq:
     a: "Padella's pasta runs from £9.50 to £16.50 on its menu on 19 November 2026, and Monohon's ramen starts at £15.50. Kiln's counter is cheaper at lunch than at dinner."
 ---
 
-> 💡 **The Short Version:** London's counters are the easy way to eat as one: you sit facing the kitchen and nobody is left with an empty chair opposite. **Walk in** at [Barrafina on Dean Street](#barrafina-dean-street), [Kiln](#kiln-soho), [Monohon](#monohon-ramen-old-street) or [Sweetings](#sweetings-the-city) (lunch only). **Book for one** at [Impala](#impala-soho), which seats tables of 1 to 6 at dinner. **Phone or walk in** at [Bocca di Lupo](#bocca-di-lupo-soho), whose online counter booking starts at two. **Queue** at [Padella in Borough](#padella-borough-market), and **go early** anywhere with a counter, because those seats go first.
+> 💡 **The Short Version:** London's counters are the easy way to eat as one: you sit facing the kitchen and nobody is left with an empty chair opposite. **Walk in** at [Barrafina on Dean Street](#barrafina-dean-street), [Kiln](#kiln-soho), [Monohon](#monohon-ramen-old-street) or [Sweetings](#sweetings-the-city) (lunch only). **Book for one** at [Impala](#impala-soho), which seats tables of 1 to 6 at dinner. **Phone or walk in** at [Bocca di Lupo](#bocca-di-lupo-soho), whose online counter booking starts at two. **Queue** at [Padella in Borough](#padella-borough-market), and **go early** anywhere with a counter, because those seats go first. With no booking at all, **order at a stall** in a [food hall or market](#food-halls-and-markets).
 
 *Hours, booking rules and prices are each restaurant's own as at 19 November 2026.*
 
@@ -42,6 +42,7 @@ faq:
 | **Seats held back for walk-ins** | Singburi, The Palomar, Bocca di Lupo |
 | **Book for one online** | Impala |
 | **Book through OpenTable or SevenRooms** | J Sheekey, Ukiyo Handroll Bar, Wiltons |
+| **Order at a stall** | Seven Dials Market, Market Halls, Borough Market, Canopy Market |
 
 Most are named by Hot Dinners, The Infatuation or both for their counters, and the entries say which.
 
@@ -166,6 +167,34 @@ A restaurant that began as a shellfish stall in 1742. Its oyster bar has eight s
 *Wiltons, Jermyn Street. Photo: [Spudgun67](https://commons.wikimedia.org/w/index.php?curid=72552746), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
 
 **It books through SevenRooms. For a single seat at the bar, ring 020 7629 9955.** It serves lunch Monday to Friday, to 2.30pm last seating, dinner Monday to Saturday, to 9.45pm last seating, and is closed on Sundays and bank holidays. Men are asked not to wear short-sleeved shirts, shorts, open-toed shoes, sportswear or hooded tops. [wiltons.co.uk](https://wiltons.co.uk/).
+
+## Food halls and markets
+
+No booking, no table to fill and no waiting to be seated: you order at a stall and eat at a communal bench or standing up.
+
+### Seven Dials Market, Covent Garden
+
+*Earlham Street, Covent Garden · daily · walk-in*
+
+A covered food hall in a former banana-ripening warehouse, with 21 traders over two floors and two bars. Order a dry-aged smash cheeseburger from **Bleecker**, or sit at **Pick & Cheese**, where plates of British cheese come round on a conveyor belt and you take one at a time. **Weekday lunch is quiet; it is packed between 7pm and 9pm on Friday and Saturday.** More in our [street food guide](/articles/best-street-food-london/#seven-dials-market-covent-garden).
+
+### Market Halls, Victoria, Oxford Street, Canary Wharf and Paddington
+
+*Four sites · daily, most from 8am · walk-in*
+
+Eight to eleven kitchens per site around long shared tables. Order roti canai at **Gopal's Corner**, from the founder of Roti King, or a kebab from **Le Bab**. Most sites open from 8am, which makes them a breakfast option too, and Paddington is seconds from the station. More in our [street food guide](/articles/best-street-food-london/#market-halls-victoria-oxford-street-canary-wharf-and-paddington).
+
+### Borough Market, London Bridge
+
+*Southwark · usually **closed Mondays** · open daily from 30 November*
+
+Hot food stalls among the cheese, fish and produce traders under the railway. Eat a bao from **Bao Borough** or a shawarma from **Arabica** standing up, since seating is scarce, then walk the stalls. **Tuesday or Wednesday morning has room to move; Saturday is heaving.** From 30 November it opens seven days a week, apart from 25 to 27 December and 1 January. Hours and stalls are in our [street food guide](/articles/best-street-food-london/#borough-market-london-bridge).
+
+### Canopy Market, King's Cross
+
+*Granary Square · **Wednesday to Sunday only***
+
+About 20 food traders and a bar under a Victorian goods canopy behind Granary Square. Order oysters shucked to order at **Rocks Oysters**, or fresh pasta, then finish with a **Bread Ahead** doughnut. **Closed Monday and Tuesday**, and covered but open-sided, so sheltered from rain, not from cold. More in our [street food guide](/articles/best-street-food-london/#canopy-market-kings-cross).
 
 ## How solo bookings work
 

@@ -391,6 +391,7 @@ The rest, A to Z, with the days each one trades.
 * **Borough is closed on Mondays**, and so are Hackney Bridge, Vinegar Yard and many Brixton Village units.
 * **Seating.** Borough, Maltby Street, Broadway Market and the Southbank Centre are standing-and-walking. Every food hall on this page has seating.
 * **Take a card.** The Southbank Centre is cash-free across the whole site and most hall traders are card-only.
+* **Eating on your own.** A food hall is the easiest solo meal in London; our [eating alone guide](/articles/eating-alone-london/) has the restaurant counters too.
 
 ---
 
