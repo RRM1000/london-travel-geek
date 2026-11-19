@@ -65,6 +65,19 @@ Record what each source *called* the venue, not just that it named it.
 > Video is the weakest tier per source and the easiest to over-collect, so the
 > same script flags a topic where social passes 70% of voices.
 
+### Then check the last 12 months of openings
+
+Best-of lists lag openings by a year or more, so a consensus pass can miss the
+biggest name in the topic. Carbone opened in Mayfair in September 2025 and was
+on no page of this site fourteen months later, because no "best Italian" list
+had caught up with it. Before writing, search Google News for the topic's
+openings over the last 12 months (`London <topic> restaurant opens`, `first
+London`, `UK debut`, and `site:hot-dinners.com <topic>`), and run
+`node C:/Users/rober/Projects/ltg-radar/openings.mjs --backfill --no-commit`
+for the full list across every topic. A notable opening that no source ranks
+goes in the **New openings** section with what it is, what to order and how to
+book. It is never ranked and never given a citation count it has not earned.
+
 ## 3. The seventeen traps
 
 Check every one before recording. The first seven cost real accuracy on pizza,
