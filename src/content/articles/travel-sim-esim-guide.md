@@ -1,9 +1,9 @@
 ---
 title: "UK SIM Cards and eSIMs for Visitors: Every Option Compared"
-seoTitle: "Best UK SIM Card & eSIM for Tourists 2026: Compared"
+seoTitle: "Travel eSIM UK 2026: Best eSIM and SIM for Visitors"
 description: "Every way to get mobile data in the UK as a visitor, with prices: EE's own tourist eSIM, Saily, Nomad and Airalo, pay-as-you-go SIMs from O2, Three, EE, Vodafone, giffgaff, Lebara and Lyca, what your home plan charges, and the speed caps, content blocks and card problems nobody warns you about."
 publishedAt: 2026-08-09
-updatedAt: 2026-10-26
+updatedAt: 2026-11-19
 reviewBy: 2027-01-26
 sites:
   - london
@@ -41,7 +41,7 @@ faq:
 
 > 💡 **The Short Version:** On an eSIM phone for a week or two, buy **EE's Travel eSIM** — unlimited data at full speed on the UK's fastest network, **£15 for 7 days, £20 for 14 days**. If you only need a few gigabytes, [Nomad](partner:nomad-uk) and [Saily](partner:saily-uk) are cheaper. If you need a **UK phone number**, or you are carrying on to Europe, buy an **O2** pay-as-you-go SIM — **£10 for 8GB** or **£15 for 25GB**, with up to **25GB of EU roaming included**. Do not buy at the airport.
 
-*Prices as at September 2026. Links marked **ad** (Saily, Nomad and Klook) pay us a commission if you buy. EE's own eSIM pays us nothing and is the first recommendation.*
+*Prices as at September 2026, except Three's packs, as at November 2026. Links marked **ad** (Saily, Nomad and Klook) pay us a commission if you buy. EE's own eSIM pays us nothing and is the first recommendation.*
 
 ---
 
@@ -53,7 +53,7 @@ faq:
 | **eSIM phone, light data use** | [Nomad](partner:nomad-uk) or [Saily](partner:saily-uk) | 10GB for about £13–£14.50, valid 30 days |
 | **You need a UK (+44) number** | O2, Lebara or Three pay-as-you-go | A normal UK SIM, from £10 a month |
 | **Carrying on to Europe** | O2 pay-as-you-go | Up to 25GB of your allowance works in its Europe zone at no extra cost |
-| **Staying a month or more, heavy data** | Three auto-renew or Lebara unlimited | 240GB for £18 on Three; unlimited for £25 on Lebara |
+| **Staying a month or more, heavy data** | Three auto-renew or Lebara unlimited | 160GB for £18 on Three; unlimited for £25 on Lebara |
 | **Phone has no eSIM** | A physical SIM from a supermarket or network shop | Starter SIMs are free or 99p |
 | **On T-Mobile in the US** | Check your plan first | Many postpaid plans already include the UK |
 
@@ -160,7 +160,7 @@ Airalo's UK plans run on **EE**. Data-only prices are close to Saily's: **£7 fo
 | Network | £10 | £15 | £20 | Top plan | Europe included |
 | --- | --- | --- | --- | --- | --- |
 | **O2** | 8GB | 25GB | 40GB | £30 for 125GB | **Up to 25GB** |
-| **Three** | 40GB | 100GB | 200GB | £35 unlimited | 6–30GB, by pack |
+| **Three** | 25GB | 80GB | 160GB | £35 unlimited | 6–30GB, by pack |
 | **Lebara** (Vodafone) | 30GB | 50GB | 100GB | £25 unlimited | EU and India included |
 | **giffgaff** (O2) | 15GB | 30GB | 80GB | £35 for 200GB | 5GB |
 | **EE** | 20GB | 75GB | 150GB | £35 unlimited | £2.50 a day |
@@ -173,9 +173,9 @@ O2's **Big Bundles** are **£10 for 8GB, £15 for 25GB, £20 for 40GB and £30 f
 
 Every Big Bundle lets you use **up to 25GB of your allowance in O2's Europe zone** at no extra cost. It supports **5G, 4G Calling and Wi-Fi Calling**, and **every Big Bundle comes as an eSIM**, online or in an O2 shop.
 
-### Three — the most data for the money
+### Three — big packs and unlimited
 
-Three's **one-month data packs** are **£10 for 40GB, £15 for 100GB, £20 for 200GB** and **£35 for unlimited**, speeds up to 25Mbps. Buy online with auto-renew and it gets better: **£10 for 60GB, £13.50 for 120GB, £18 for 240GB, £31.50 unlimited**, up to 50Mbps. There is also a **three-month unlimited pack for £90**.
+Three's **one-month data packs** are **£10 for 25GB, £15 for 80GB, £20 for 160GB** and **£35 for unlimited**, speeds up to 25Mbps. Buy online with auto-renew and it gets better: **£10 for 30GB, £13.50 for 80GB, £18 for 160GB, £31.50 unlimited**, up to 50Mbps. There is also a **three-month unlimited pack for £90**.
 
 Three's **Go Roam** includes roaming in over 70 destinations: **6GB** on the £10 pack, **12GB** on £15, **18GB** on £20 and **30GB** on unlimited. Unlimited minutes and texts work in its Europe destinations.
 

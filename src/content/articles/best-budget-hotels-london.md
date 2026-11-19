@@ -1,6 +1,6 @@
 ---
 title: "The Best Budget Hotels in London, Cross-Referenced and Price-Checked"
-seoTitle: "Best Budget Hotels in London 2026, Price-Checked"
+seoTitle: "Best Budget Hotels in London: Under £150 a Night"
 description: "The budget hotels London's lists agree on, each priced on five nights across the year. Most of the central favourites cost more than £150 a night. These are the ones that don't."
 publishedAt: 2026-09-16
 updatedAt: 2026-10-26

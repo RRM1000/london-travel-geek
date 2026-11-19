@@ -3,7 +3,7 @@ title: "How Much Does London Public Transport Cost? 2026 Fares Guide"
 seoTitle: "London Bus and Tube Fares 2026: £3.10 Tube, £8.90 Cap"
 description: "A London bus costs £1.85, capped at £5.55 a day. A Zone 1 Tube single is £3.10 at peak, and Zones 1–2 cap at £8.90 a day."
 publishedAt: 2026-07-30
-updatedAt: 2026-11-01
+updatedAt: 2026-11-19
 reviewBy: 2027-02-01
 sites:
   - london
@@ -38,7 +38,7 @@ faq:
     a: "Under-11s travel free on buses and trams, and on the Tube with a fare-paying adult. Visitors aged 11–15 pay half the adult fare for up to 14 days once staff add the Young Visitor discount to an Oyster card."
 ---
 
-> 💡 **The Short Version:** **A London bus costs £1.85** and the **daily bus cap is £5.55**. **A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak** (Zones 1–2: £3.60 and £3.10). **The Zones 1–2 daily cap is £8.90** across Tube, bus, tram, DLR, Overground and Elizabeth line, as long as you tap the same contactless card, phone or Oyster every time. A paper single costs £7.00, so never buy one. Under-11s travel free and 11–15s pay half. Tube caps are frozen until March 2027.
+> 💡 **The Short Version:** **A London bus fare is £1.85 a journey** (since 1 November 2026) and the **daily bus cap is £5.55**. **A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak** (Zones 1–2: £3.60 and £3.10). **The Zones 1–2 daily cap is £8.90** across Tube, bus, tram, DLR, Overground and Elizabeth line, as long as you tap the same contactless card, phone or Oyster every time. A paper single costs £7.00 and a Zones 1–2 Day Travelcard £16.60, so buy neither. Under-11s travel free and 11–15s pay half. Tube caps are frozen until March 2027.
 
 Contactless or Oyster pay as you go is normally the cheapest choice for an adult visitor, because eligible journeys are capped automatically.
 
@@ -53,14 +53,13 @@ This is the price companion to our [complete London transport overview](/article
 
 ## London bus fares 2026
 
-**A London bus or tram costs £1.85 a journey, and the Hopper fare makes every further bus or tram you board within one hour free; the daily cap is £5.55, the 7-Day Bus & Tram Pass £26.10 and the monthly pass £100.30.** Buses and trams charge one flat fare at any time of day, however far you ride. They don't take cash: pay with contactless or Oyster.
+**A London bus or tram costs £1.85 a journey, and the Hopper fare makes every further bus or tram you board within one hour free; the daily cap is £5.55, the 7-Day Bus & Tram Pass £26.10 and the monthly pass £100.30.** The single fare rose from £1.75 and the cap from £5.25 on 1 November 2026. Buses and trams charge one flat fare at any time of day, however far you ride. They don't take cash: pay with contactless or Oyster.
 
 | Ticket or cap | Adult price |
 | --- | ---: |
 | Single pay-as-you-go bus or tram fare | **£1.85** |
 | Daily bus & tram cap | **£5.55** |
 | Weekly cap (Monday to Sunday) | **£26.10** |
-| 1-Day Bus & Tram Pass | **£6.40** |
 | 7-Day Bus & Tram Pass | **£26.10** |
 | Monthly Bus & Tram Pass | **£100.30** |
 | Annual Bus & Tram Pass | **£1,044.00** |
@@ -102,7 +101,7 @@ Because the exceptions are journey-specific, check unusual or expensive routes i
 
 ## Tube fares 2026: single fares by zone
 
-**A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak; a Zones 1–2 journey costs £3.60 at peak and £3.10 off-peak.** A paper single costs £7.00 whatever the distance. The same zonal fares apply on the DLR, London Overground and Elizabeth line.
+**A Tube single in Zone 1 costs £3.10 at peak and £3.00 off-peak; a Zones 1–2 journey costs £3.60 at peak and £3.10 off-peak.** A paper single costs £7.00 whatever the distance. London's metro, the Underground, shares these zonal fares with the DLR, London Overground and Elizabeth line.
 
 Adult Oyster and contactless pay-as-you-go fares since 1 March 2026. Some National Rail services and airport routes charge their own fares.
 
@@ -355,4 +354,4 @@ If you make a mistake and **forget to touch out** at the end of your trip (or fo
 
 ---
 
-*Prices in force in October 2026. Adult prices are shown unless a child or concession fare is explicitly stated. For an exact station-to-station price, use the TfL Single Fare Finder.*
+*Bus and tram fares from 1 November 2026; Tube, DLR, Overground and Elizabeth line fares from 1 March 2026. Adult prices are shown unless a child or concession fare is explicitly stated. For an exact station-to-station price, use the TfL Single Fare Finder.*

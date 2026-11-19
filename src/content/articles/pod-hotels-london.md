@@ -5,7 +5,7 @@ description: "A pod hotel in London means a capsule hotel, and there are five, f
 heroImage: "../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg"
 heroImageAlt: "A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers"
 publishedAt: 2026-07-05
-updatedAt: 2026-10-26
+updatedAt: 2026-11-19
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -35,7 +35,7 @@ faq:
 
 Ordinary hostels and small-room hotels such as YOTEL are not counted; the section on what gets miscalled a capsule hotel explains why.
 
-> 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book: over 1,000 berths one minute from the Tube, a 24-hour front desk and the lowest price of the five (£33–£68). **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** (£53–£166 a double capsule) is the only one with a bar and a social side. **[Otherwander Soho](hotel:otherwander-soho)** (£62–£119, 563 pods) is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
+> 💡 **The Short Version:** **[Zedwell Capsule Piccadilly Circus](hotel:zedwell-piccadilly-capsule)** is the one to book: over 1,000 berths one minute from the Tube, a 24-hour front desk and the lowest price of the five (£33–£68 a night, sampled on 7 September 2026). **Zedwell Leicester Place** is the same product at a quieter address. **[St Christopher's Village](hotel:st-christophers-village)** (£53–£166 a double capsule) is the only one with a bar and a social side. **[Otherwander Soho](hotel:otherwander-soho)** (£62–£119, 563 pods) is nicer and roughly double the price. **The GreenHouse** in Bethnal Green is tiny and has almost no staff.
 
 > 🛏️ **Want the kitchen and the bar instead?** That is a [hostel](/articles/best-hostels-london/), and our guide compares them: which dorms are en-suite, which have real female-only rooms, and the age limits that will refuse you at the desk. Beds start around £11.
 

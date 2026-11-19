@@ -1,10 +1,10 @@
 ---
 title: "London Music Festivals 2027: Dates, Line-ups and Getting There"
-seoTitle: "London Music Festivals 2027: Dates, Line-ups, Tickets"
-description: "London's music festivals for 2027, from Brockwell Park to Hyde Park and Victoria Park, and the ones a train ride away: the dates already set, when the rest ran in 2026, who headlined, what tickets cost, the age rules and how to get home."
+seoTitle: "London Festivals 2027: Dates, Line-ups, Tickets"
+description: "London festivals 2027 with dates: Field Day, Mighty Hoopla, BST Hyde Park (Bon Jovi, Muse, Raye), Kaleidoscope, All Points East, what is on sale, age rules."
 publishedAt: 2026-06-12
-updatedAt: 2026-11-14
-reviewBy: 2026-11-14
+updatedAt: 2026-11-19
+reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -12,9 +12,9 @@ tags: [festivals, music festivals, BST Hyde Park, All Points East, LIDO, Brockwe
 draft: false
 faq:
   - q: "When are London's music festivals in 2027?"
-    a: "Country to Country at The O2 on 12 to 14 March; GALA in Peckham Rye Park on 28 to 30 May; four in Brockwell Park, Field Day on Saturday 29 May, Cross the Tracks on Sunday 30 May, City Splash on Monday 31 May and Mighty Hoopla on 5 and 6 June; Meltdown at the Southbank Centre on 10 to 20 June, curated by FKA twigs; Hampton Court Palace Festival on 15 to 27 June; Embrace LDN in Finsbury Park on 2 to 4 July; Kaleidoscope at Alexandra Palace on Saturday 10 July; and Rock N Roll Circus in Gunnersbury Park on 22 to 25 July 2027. BST Hyde Park has announced Bon Jovi on Thursday 24 June, Muse on Saturday 26 June and Raye on Saturday 10 July, and All Points East has announced Phoebe Bridgers on Friday 27 August; the rest of both line-ups are still to come. In 2026 BST ran nine shows between 27 June and 12 July, and All Points East ran over two weekends, 21 to 23 and 28 to 30 August."
+    a: "Country to Country at The O2 on 12 to 14 March; GALA in Peckham Rye Park on 28 to 30 May; four in Brockwell Park, Field Day on Saturday 29 May, Cross the Tracks on Sunday 30 May, City Splash on Monday 31 May and Mighty Hoopla on 5 and 6 June; Meltdown at the Southbank Centre on 10 to 20 June, curated by FKA twigs; Hampton Court Palace Festival on 15 to 27 June; Embrace LDN in Finsbury Park on 2 to 4 July; Kaleidoscope at Alexandra Palace on Saturday 10 July; and Rock N Roll Circus in Gunnersbury Park on 22 to 25 July 2027. BST Hyde Park has announced Bon Jovi on Thursday 24 June, Muse on Saturday 26 June and Raye on Saturday 10 July and Sunday 11 July, and All Points East has announced Phoebe Bridgers on Friday 27 August; the rest of both line-ups are still to come. In 2026 BST ran nine shows between 27 June and 12 July, and All Points East ran over two weekends, 21 to 23 and 28 to 30 August."
   - q: "Can I buy 2027 festival tickets yet?"
-    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £325 with a public transport ticket. Truck's third tier starts at £182 including fees, and Cambridge Folk Festival's full festival ticket starts at £170. BST Hyde Park's Bon Jovi (24 June) and Muse (26 June) shows are on sale, and Raye (10 July) has sold out; BST and All Points East prices move with demand, so read the current figure on each show's page. Mighty Hoopla went on general sale on 3 November, with £20 deposits, and Hampton Court Palace Festival's first four concerts are on sale. All three days of Embrace LDN in Finsbury Park have sold out."
+    a: "For some. Reading (26 to 29 August 2027) is on sale from £296 for a weekend without camping, with a £20 deposit. Boomtown (11 to 15 August) starts at £325 with a public transport ticket. Truck's third tier starts at £182 including fees, and Cambridge Folk Festival's full festival ticket starts at £170. BST Hyde Park's Bon Jovi (24 June) and Muse (26 June) shows are on sale, and Raye's first show (10 July) has sold out, with an extra date on 11 July on sale soon; BST and All Points East prices move with demand, so read the current figure on each show's page. Mighty Hoopla went on general sale on 3 November, with £20 deposits, and Hampton Court Palace Festival's first four concerts are on sale. All three days of Embrace LDN in Finsbury Park have sold out."
   - q: "Which London festivals can children go to?"
     a: "Cross the Tracks and City Splash are all ages; at City Splash under-18s need an adult over 26, and child tickets were £20 for under-10s in 2026. BST Hyde Park sells Child + Guardian tickets for ages 2 to 9, and under-2s go free. Kaleidoscope at Alexandra Palace has child tickets for 5 to 15s and lets parents leave and come back between 4pm and 8.30pm. All Points East set its age limit show by show in 2026, from 12+ to 16+. Field Day, Mighty Hoopla, Junction 2, Boomtown and Lovebox are 18+."
   - q: "What can I take into BST Hyde Park or All Points East?"
@@ -25,7 +25,9 @@ heroImage: "../../assets/articles/london-music-festivals-2027/all-points-east-ju
 heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at night, white light beams over a packed crowd"
 ---
 
-> 💡 **The Short Version:** These London festivals have **2027 dates**: **Country to Country** at The O2 (12–14 March); **GALA** in Peckham Rye Park (28–30 May); four in **Brockwell Park** around the late May bank holiday, **Field Day** (29 May), **Cross the Tracks** (30 May), **City Splash** (31 May) and **Mighty Hoopla** (5–6 June); **Meltdown** at the Southbank Centre (10–20 June, curated by FKA twigs); **Hampton Court Palace Festival** (15–27 June); **Embrace LDN** in Finsbury Park (2–4 July, sold out); **Kaleidoscope** at Alexandra Palace (10 July); and **Rock N Roll Circus** in Gunnersbury Park (22–25 July). **BST Hyde Park** has announced **Bon Jovi** (24 June), **Muse** (26 June) and **Raye** (10 July), and **All Points East** has announced **Phoebe Bridgers** (27 August); the rest of both line-ups are still to come. Within a train ride, **Reading** (26–29 August), **Boomtown** (11–15 August), **Love Supreme** (2–4 July), **Henley** (7–11 July) and **Cambridge Folk Festival** (ends 1 August) have set their dates, and several are already on sale. Still to come in 2026: The Great Escape's **First Fifty** in East London (12 November) and the **EFG London Jazz Festival** (13–22 November).
+> 💡 **The Short Version:** These London festivals have **2027 dates**: **Country to Country** at The O2 (12–14 March); **GALA** in Peckham Rye Park (28–30 May); four in **Brockwell Park** around the late May bank holiday, **Field Day** (29 May), **Cross the Tracks** (30 May), **City Splash** (31 May) and **Mighty Hoopla** (5–6 June); **Meltdown** at the Southbank Centre (10–20 June, curated by FKA twigs); **Hampton Court Palace Festival** (15–27 June); **Embrace LDN** in Finsbury Park (2–4 July, sold out); **Kaleidoscope** at Alexandra Palace (10 July); and **Rock N Roll Circus** in Gunnersbury Park (22–25 July). **BST Hyde Park** has announced **Bon Jovi** (24 June), **Muse** (26 June) and **Raye** (10 and 11 July), and **All Points East** has announced **Phoebe Bridgers** (27 August); the rest of both line-ups are still to come. Within a train ride, **Reading** (26–29 August), **Boomtown** (11–15 August), **Love Supreme** (2–4 July), **Henley** (7–11 July) and **Cambridge Folk Festival** (ends 1 August) have set their dates, and several are already on sale. Still to come in 2026: the **EFG London Jazz Festival** (until 22 November).
+
+Looking for 2027 stadium and arena concerts rather than festivals? See [London Concerts 2027](/articles/london-concerts-2027/).
 
 ## 2027 at a glance
 
@@ -39,7 +41,7 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 | Mighty Hoopla | Brockwell Park, SE24 | **5–6 June** | 30–31 May |
 | Meltdown | Southbank Centre | **10–20 June** | 11–21 June |
 | Hampton Court Palace Festival | Hampton Court Palace | **15–27 June** | 10–20 June |
-| BST Hyde Park | Hyde Park | **24 June** (Bon Jovi), **26 June** (Muse) and **10 July** (Raye); rest not yet announced | 27 June – 12 July |
+| BST Hyde Park | Hyde Park | **24 June** (Bon Jovi), **26 June** (Muse) and **10 and 11 July** (Raye); rest not yet announced | 27 June – 12 July |
 | Embrace LDN | Finsbury Park | **2–4 July**, sold out | First edition |
 | Kaleidoscope | Alexandra Palace Park | **10 July** | 11 July |
 | Wireless | Not yet announced | Not yet announced | — |
@@ -113,7 +115,7 @@ heroImageAlt: "Jungle on the main stage at All Points East in Victoria Park at n
 
 *The Great Oak Stage, Hyde Park.*
 
-**Thursday 24 June 2027: Bon Jovi, on sale. Saturday 26 June 2027: Muse, on sale. Saturday 10 July 2027: Raye, sold out.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage. [Muse](https://www.bst-hydepark.com/events/muse-sat-26-june) play with Nothing But Thieves and CHVRCHES. [Raye](https://www.bst-hydepark.com/events/raye-sat-10-july), who won the 2026 Mercury Prize, plays her first BST show with special guest **Sienna Spiro**. Prices move with demand, so read the figure on each show's page. The rest of the 2027 line-up is still to come. In 2026 there were nine shows over three weekends, **27 June to 12 July**: **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. Between the weekends, BST's **Open House** fills the site with free events.
+**Thursday 24 June 2027: Bon Jovi, on sale. Saturday 26 June 2027: Muse, on sale. Saturday 10 July 2027: Raye, sold out. Sunday 11 July 2027: Raye, extra date, on sale soon.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage. [Muse](https://www.bst-hydepark.com/events/muse-sat-26-june) play with Nothing But Thieves and CHVRCHES. [Raye](https://www.bst-hydepark.com/events/raye-sat-10-july), who won the 2026 Mercury Prize, plays her first BST show with special guest **Sienna Spiro**. Prices move with demand, so read the figure on each show's page. The rest of the 2027 line-up is still to come. In 2026 there were nine shows over three weekends, **27 June to 12 July**: **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. Between the weekends, BST's **Open House** fills the site with free events.
 
 Every show is **standing only**. You can bring one bag no bigger than A4 and no chairs, and apart from an unopened bottle of water of up to 500ml, no food or drink. The bars and food stalls are cashless. Children aged **2 to 9** come in on a Child + Guardian ticket, sold as a pair, and **under-2s are free**. Shows finish by **10.30pm**, or **10pm on Sundays**. The stations are Hyde Park Corner, Knightsbridge, Green Park and Bond Street (Elizabeth line). Check for Piccadilly line closures before you go; in 2026 the whole line shut on the first weekend, closing Hyde Park Corner and Knightsbridge.
 
@@ -219,13 +221,9 @@ Each of these has a station about **90 minutes or less by train from central Lon
 
 ## Still to come in 2026
 
-### The Great Escape's First Fifty, East London
-
-**Thursday 12 November 2026.** [First Fifty](https://greatescapefestival.com/first-fifty/) is the live launch of the first 50 acts on The Great Escape's May 2027 bill, across seven East London venues in one night: The Victoria, Moth Club, Oslo, Folklore, Paper Dress Vintage, the Shacklewell Arms and the Sebright Arms. Each venue is ticketed separately, and the Sebright Arms show has sold out.
-
 ### EFG London Jazz Festival
 
-**Friday 13 – Sunday 22 November 2026.** Ten days of jazz and its neighbours in venues across London. The **[EFG London Jazz Festival](https://efglondonjazzfestival.org.uk/)** opens with its **Jazz Voice** gala at the Royal Festival Hall on 13 November. That night also has **Morcheeba**, **Emma-Jean Thackray** and a Coltrane centenary concert with **Joe Lovano**. Later in the festival: **Goldie**'s Dare to Dream with a live band and orchestra, and **Caravan Palace** (14 November); **Mariza** (15 November); and **Kyoto Jazz Massive** (22 November). If you're **16 to 25**, the free Serious Youth Network gets you **£5 tickets** to selected shows. [Tickets on Skiddle](https://www.skiddle.com/festivals/efg-london-jazz-festival/). Our [London Jazz Festival guide](/articles/london-jazz-festival/) covers the venues, what has sold out and the free sets.
+**Friday 13 – Sunday 22 November 2026, under way.** Ten days of jazz and its neighbours in venues across London. The **[EFG London Jazz Festival](https://efglondonjazzfestival.org.uk/)** opens with its **Jazz Voice** gala at the Royal Festival Hall on 13 November. That night also has **Morcheeba**, **Emma-Jean Thackray** and a Coltrane centenary concert with **Joe Lovano**. Later in the festival: **Goldie**'s Dare to Dream with a live band and orchestra, and **Caravan Palace** (14 November); **Mariza** (15 November); and **Kyoto Jazz Massive** (22 November). If you're **16 to 25**, the free Serious Youth Network gets you **£5 tickets** to selected shows. [Tickets on Skiddle](https://www.skiddle.com/festivals/efg-london-jazz-festival/). Our [London Jazz Festival guide](/articles/london-jazz-festival/) covers the venues, what has sold out and the free sets.
 
 ## Getting home late
 
@@ -257,4 +255,4 @@ Each of these has a station about **90 minutes or less by train from central Lon
 - 🌤️ **[The Best Time to Visit London](/articles/best-time-to-visit-london/)**
 - 🏨 **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)**
 
-*Dates and prices as at 9 November 2026. Festivals change prices by ticket tier, so check the booking page.*
+*Dates and prices as at 9 November 2026, BST Hyde Park as at 19 November 2026. Festivals change prices by ticket tier, so check the booking page.*
