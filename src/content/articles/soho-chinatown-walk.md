@@ -240,14 +240,14 @@ Walk west along Gerrard Street and turn left down Wardour Street to the gate. Co
 
 **Where to eat:**
 
-- **Four Seasons**, 12 Gerrard Street: the roast duck hanging in the window is the order. Open daily noon to 11pm, and it takes bookings.
-- **Tao Tao Ju**, 15 Lisle Street: dim sum made on site each day. Open daily noon to 11pm, £££.
+- **Four Seasons**, 12 Gerrard Street: the roast duck hanging in the window is the order. Open from noon, to 10pm on Sundays, and it takes bookings by phone.
+- **Tao Tao Ju**, 15 Lisle Street: dim sum made on site each day. Open daily from noon, £££.
 - **Bun House**, 26–27 Lisle Street: steamed buns from a counter, **walk-in only**, from noon daily.
 - **Chinatown Bakery**, 7 Newport Place: egg tarts and bolo bao, 10.30am to 9pm daily.
 
 Lunar New Year falls on **Saturday 6 February 2027**, and Chinatown celebrates from 6 to 20 February; our [Chinese New Year guide](/articles/chinese-new-year-london/) has the parade route and where to stand.
 
-> 💡 **Come for lunch, not tea.** Most dim sum kitchens stop at about 4pm. For the full list, see our [dim sum guide](/articles/best-dim-sum-london/) and [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/); for dinner, Chinatown's hot pot rooms are in our [hot pot guide](/articles/best-hot-pot-london/).
+> 💡 **Come for lunch, not tea.** Most dim sum kitchens stop at about 4pm. For the full list, see our [dim sum guide](/articles/best-dim-sum-london/) and [Chinese and East Asian guide](/articles/best-chinese-east-asian-restaurants-london/); for dinner, Chinatown's hot pot rooms are in our [hot pot guide](/articles/best-hot-pot-london/). Our [Chinatown food guide](/articles/best-food-chinatown-london/) has every street's noodles, buns and desserts.
 
 ---
 

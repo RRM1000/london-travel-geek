@@ -177,7 +177,7 @@ Lebanese grills, mezze and mixed plates, plus the shisha terrace that keeps the 
 
 *££ · off Leicester Square*
 
-Four floors of **dim sum ordered from a paper sheet with a pencil**, and one of the few Chinatown rooms still going late.
+Four floors of **dim sum ordered from a paper sheet with a pencil**, open until 10.30pm Monday to Saturday and 10pm on Sundays.
 
 Order **har gau, siu mai and cheung fun**.
 
@@ -251,6 +251,7 @@ A large, formal dim sum room on Baker Street that stays open later than most.
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 🗝️ **[The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/)**
 - 🥟 **[The Best Dim Sum in London](/articles/best-dim-sum-london/)**
+- 🏮 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: Noodle & Beer to 4am and Dumplings' Legend to 2am, Thursday to Saturday
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**

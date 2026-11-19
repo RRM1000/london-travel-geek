@@ -69,17 +69,17 @@ Chinatown is centred on **Gerrard Street** and also covers **Lisle Street, Wardo
 
 ## Where to eat
 
-All from our [Chinese and East Asian restaurants](/articles/best-chinese-east-asian-restaurants-london/), [dim sum](/articles/best-dim-sum-london/) and [hot pot](/articles/best-hot-pot-london/) guides, which have the full entries.
+All from our [Chinese and East Asian restaurants](/articles/best-chinese-east-asian-restaurants-london/), [dim sum](/articles/best-dim-sum-london/) and [hot pot](/articles/best-hot-pot-london/) guides, which have the full entries. Our [Chinatown food guide](/articles/best-food-chinatown-london/) covers every street, including the noodle bars, bakeries and dessert shops.
 
 ### Four Seasons, Gerrard Street
 
-*££ · 12 Gerrard Street · daily noon to 11pm · takes bookings*
+*££ · 12 Gerrard Street · open from noon · books by phone*
 
 The **roast duck hanging in the window** is the order. It takes bookings, so make one for the New Year weekends.
 
 ### Tao Tao Ju, Lisle Street
 
-*£££ · 15 Lisle Street · daily noon to 11pm*
+*£££ · 15 Lisle Street · open daily from noon*
 
 **Dim sum made on site each day**, in towering bamboo baskets: order the steamed **har gau** and **siu mai**, then the grilled and fried baskets. A quieter, smarter room than the street outside.
 

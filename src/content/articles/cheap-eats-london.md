@@ -608,6 +608,7 @@ Cooked breakfast from 8am, burgers and curries in a large multi-level room a min
 - 🍺 **[The Best Wetherspoons in London](/articles/best-wetherspoons-pubs-london/)**
 - 🐟 **[The Best Fish and Chips in London](/articles/best-fish-and-chips-london/)**
 - 🍕 **[The Best Pizza in London](/articles/best-pizza-london/)**
+- 🏮 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: jianbing, popcorn chicken, buns and egg tarts for under £10
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🛍️ **[London Markets by Day](/markets/)**
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**

@@ -304,6 +304,8 @@ If you picked the West End for the theatre, our [London theatre guide](/articles
 
 **For Heathrow**, walk to Tottenham Court Road and take the Elizabeth line. Nothing involving the Piccadilly line from Piccadilly Circus beats it.
 
+For dinner on the doorstep, our [guide to the best food in Chinatown](/articles/best-food-chinatown-london/) goes street by street from Gerrard Street to Newport Court.
+
 If you have not settled on an area yet, our guide to the [best areas to stay in London](/articles/best-areas-to-stay-in-london/) sorts the whole city by what the trip is for.
 
 *Rates and room sizes from each hotel's own site and from rates sampled on Hotels.com across five dates — a quiet Sunday, a February midweek, an October Saturday, the second Saturday of December and a Saturday in April — checked on 8 September 2026. Prices change nightly, so always check your own dates.*

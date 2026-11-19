@@ -423,4 +423,5 @@ For the same regional cooking served conventionally, our [Chinese and East Asian
 - 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — unlimited hot pot at £28.99 to £38, with time limits
 - 🇯🇵 **[Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
+- 🥢 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: the rest of Chinatown, from noodle bars to bakeries
 - 🏮 **[Soho Area Guide](/articles/soho-area-guide/)**

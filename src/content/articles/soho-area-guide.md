@@ -108,7 +108,7 @@ Pedestrianised and lantern-strung, and **London's Chinatown is Cantonese first**
 
 Gerrard Street is the spine, with Lisle Street parallel to it and usually cheaper. The first **gates** went up in the late 1980s, and the largest, on Wardour Street, in 2016; the community moved here from Limehouse after the war.
 
-**Busiest on Sunday afternoons**, when families come to eat. Dim sum kitchens generally stop by about 4pm, so come earlier than you think.
+**Busiest on Sunday afternoons**, when families come to eat. Dim sum kitchens generally stop by about 4pm, so come earlier than you think. What to order on each street is in our [guide to the best food in Chinatown](/articles/best-food-chinatown-london/).
 
 ### Old Compton Street
 

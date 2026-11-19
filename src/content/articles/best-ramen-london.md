@@ -414,6 +414,7 @@ The **Shio Paitan Ramen** is a slow-cooked chicken broth with dashi, seared chic
 - 🍲 **[The Best Hot Pot in London, and How to Order One](/articles/best-hot-pot-london/)**
 - 🥟 **[The Best Dim Sum in London](/articles/best-dim-sum-london/)**
 - 🥢 **[The Best Chinese and East Asian Restaurants in London](/articles/best-chinese-east-asian-restaurants-london/)**
+- 🏮 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: hand-pulled noodles at Noodle Inn and Kung Fu Noodle, a few streets from the ramen bars
 - 🇰🇷 **[The Best Korean Restaurants in London and New Malden](/articles/best-korean-restaurants-london/)**
 - 💷 **[Cheap Eats in London: Places to Eat Well Under £15](/articles/cheap-eats-london/)**
 - 🌙 **[Late-Night Eating in London: Where to Eat After Midnight](/articles/late-night-eating-london/)**

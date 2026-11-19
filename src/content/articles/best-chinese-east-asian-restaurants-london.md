@@ -217,9 +217,9 @@ The cooking is **Hunanese** rather than Sichuan, which means chilli heat without
 
 Sichuan cooking with **a kitchen that runs to 4am from Thursday to Saturday**.
 
-Chilli-oil noodles, dry pot and skewers to eat with beer. Loud and bright.
+Chilli-oil noodles, dry pot and skewers to eat with beer. Loud and bright, and the menu is halal.
 
-**Walk-in.**
+**Books online for one or two; larger groups walk in.**
 
 ### Rasa Sayang, Chinatown — Malaysian-Peranakan
 
@@ -229,7 +229,7 @@ Chilli-oil noodles, dry pot and skewers to eat with beer. Loud and bright.
 
 *Nasi lemak.*
 
-**Peranakan cooking** — Chinese technique married to Malay spicing, from the Straits communities of Malaysia and Singapore — and reportedly **the only halal restaurant in Chinatown**.
+**Peranakan cooking** — Chinese technique married to Malay spicing, from the Straits communities of Malaysia and Singapore — and its menu is **halal**.
 
 **Nasi lemak** — coconut rice with sambal, anchovies, peanuts and egg — and **Singapore chilli crab** are the dishes to order, with char kway teow and Hainanese chicken rice behind them.
 
@@ -409,6 +409,7 @@ Everything else the Chinese sources carry by two or more independent publication
 - 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Indo-Chinese, the cooking of Kolkata's Hakka community
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
+- 🏮 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: what to order on each Chinatown street, from Noodle Inn to Chinatown Bakery
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🥟 **[The Best Dim Sum in London](/articles/best-dim-sum-london/)**
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**

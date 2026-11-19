@@ -53,7 +53,8 @@ faq:
 
 | If you are near… | Where to eat |
 | --- | --- |
-| **Chinatown & Leicester Square** | Tao Tao Ju, Plum Valley, Joy King Lau, Dumplings' Legend, BaoziInn, Orient London |
+| **Chinatown & Leicester Square** | Tao Tao Ju, Plum Valley, Joy King Lau, Dumplings' Legend, Orient London |
+| **Soho** | BaoziInn |
 | **The City** | Yauatcha City |
 | **Marylebone** | Royal China |
 | **Victoria** | A. Wong |
@@ -127,11 +128,11 @@ A glass-walled kitchen on Gerrard Street where the **xiao long bao are folded in
 
 ### BaoziInn
 
-*££ · 1 min from Leicester Square*
+*££ · 24 Romilly Street, Soho*
 
 Northern Chinese street food in a room done out in **Communist-era poster kitsch**.
 
-**Walk-in, ££, and one minute from Leicester Square.**
+**££, on Romilly Street, a few minutes' walk north of Chinatown across Shaftesbury Avenue.**
 
 ### Dim Sum & Duck, King's Cross
 
@@ -224,6 +225,7 @@ Din Tai Fung is also in the [chain restaurants guide](/articles/best-chain-resta
 
 - 🧧 **[Chinese New Year in London 2027](/articles/chinese-new-year-london/)** — the parade from Trafalgar Square and Chinatown's dim sum rooms on the day
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
+- 🏮 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: noodles, roast duck, buns and desserts beyond the dim sum rooms
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — unlimited dim sum at Ping Pong and FeiEr Cottage
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**

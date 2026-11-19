@@ -302,5 +302,6 @@ Most names here are chains. These are the branches to go to:
 - ☕ **[Best hot chocolate in London](/articles/best-hot-chocolate-london/)**: another counter drink, with its own closed shops on the most-shared list
 - 🍦 **[Best ice cream in London](/articles/best-ice-cream-london/)**: much of it on the same streets
 - ☕ **[Best coffee in London](/articles/best-coffee-london/)**: for when you want caffeine without sugar
+- 🥢 **[The best food in Chinatown](/articles/best-food-chinatown-london/)**: noodles, buns and egg tarts on the streets around Newport Court
 - 🏮 **[Soho area guide](/articles/soho-area-guide/)**: Chinatown, Frith Street and Old Compton Street in one walk
 - 💷 **[Cheap eats in London](/articles/cheap-eats-london/)**: where to eat with the change
