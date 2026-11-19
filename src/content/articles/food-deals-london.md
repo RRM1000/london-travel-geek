@@ -79,7 +79,7 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 | [ASK Italian](https://www.askitalian.co.uk/offers) | 10% off the set menu | — | Not valid with any other offer. All restaurants |
 | [Royal China](https://www.royalchinagroup.co.uk/whats-on) | 10% off Supreme Seafood Broth with fresh whole crab | — | Must be arranged in advance. All branches |
 
-Franco Manca's student 20% is in the [student section](#students). Carluccio's, Homies on Donkeys, CRATE Brewery and Prezzo run theirs on a single day and are in the [day-by-day tables](#deals-by-day-of-the-week).
+Black Friday restaurant and food offers are on our [Black Friday in London](/articles/black-friday-london/) page. Franco Manca's student 20% is in the [student section](#students). Carluccio's, Homies on Donkeys, CRATE Brewery and Prezzo run theirs on a single day and are in the [day-by-day tables](#deals-by-day-of-the-week).
 
 ---
 
