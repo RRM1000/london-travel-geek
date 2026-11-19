@@ -245,11 +245,11 @@ A [Brazilian rodízio](https://www.picanhasteakhouse.co.uk/) with unlimited pica
 
 [Unlimited dim sum](https://www.feier-restaurant.co.uk/unlimited-dimsum) for 120 minutes, with Chinese barbecue and hot pot also on the menu. Reservations are for two or more guests.
 
-### Yauatcha, Soho and the City
+### Yauatcha City, Broadgate
 
-*Soho*
+*Broadgate Circle · £49 · Friday and Saturday, noon to 4pm*
 
-The [Infinite Yum Cha Brunch](https://hakkasangroup.com/venues/yauatcha-soho-london/infinite-yum-cha-brunch/) is unlimited rounds of steamed, fried and baked dim sum and bao, then a main course, a side and soufflé pancakes.
+The [Infinite Yum Cha Brunch](https://hakkasangroup.com/venues/yauatcha-city-london/infinite-yum-cha-brunch/) is unlimited rounds of steamed, fried and baked dim sum and bao, then a main course, a side and a dessert.
 
 ---
 

@@ -36,7 +36,7 @@ London does two breakfasts: the **Australian brunch** the city imported around 2
 
 > 📅 **Booking, at a glance.**
 > **Book weeks ahead:** Duck & Waffle (the window tables especially), Hide, Fallow, Akub.
-> **Book a few days ahead, and always for a weekend:** The Wolseley, Berners Tavern, Bistrotheque, Carmel, Christopher's, Mr Bao, The Laundry, Inis, Megan's.
+> **Book a few days ahead, and always for a weekend:** The Wolseley, Berners Tavern, Bistrotheque, Carmel, Mr Bao, The Laundry, Inis, Megan's.
 > **Bookable but rarely needed at breakfast:** Dishoom takes any party size before 6pm, and mornings barely queue. Caravan and The Good Egg both book online and both usually have a weekday morning table.
 > **Walk-in only — turn up and wait:** Granger & Co, Milk, The Table Café, Esters, Ginger & White, Kaffeine, Prufrock, WatchHouse, Beany Green, The Breakfast Club.
 > *The queue is the real cost at the walk-ins: Granger & Co before 10am or around 3pm gets you straight in, and Milk rarely runs past half an hour.*
@@ -350,19 +350,6 @@ The **hash brown bao** is the one to order: crispy rösti, shiitake mushrooms, c
 *Mr Bao's hash brown bao.*
 
 **Brunch is weekends only, 11am to 4.30pm.** The room is tiny — book ([book a table](https://www.sevenrooms.com/explore/mrbaoryelane/reservations/create/search/)), or go early.
-
-### Christopher's, Covent Garden
-
-*Weekend only · Sat 11am–3pm, Sun 11am–3.30pm* · Cited by 3 sources
-
-On the same Covent Garden corner **since 1991**, in a building from 1870. Two storeys: a martini bar on the ground floor and a sweeping staircase up to the first-floor dining room, which is where brunch happens.
-
-The **chocolate brioche French toast** is the house speciality, buttermilk pancakes are the weekend order, and there is a **whole grilled lobster with garlic butter** for anyone treating brunch as lunch.
-
-**Brunch runs until 3.30pm on Sundays**, and books through [the venue's site](https://www.christophersgrill.com/).
-
-![The Victorian stone entrance of Christopher's on Wellington Street](../../assets/articles/best-breakfast-brunch-london/christopher-s.jpg)
-*Christopher's, Covent Garden. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/3588167076), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Esters, Stoke Newington
 

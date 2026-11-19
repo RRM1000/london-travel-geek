@@ -365,7 +365,7 @@ Everything on this page is pleasant in July. This is the shorter list that survi
 * **Two of the most-recommended "outdoor" spaces are indoors.** Crossrail Place Roof Garden and Borough Market Kitchen are both under a roof. They are good; they are not alfresco.
 * **Bring-your-own works in the parks and squares, not in the yards.** Granary Square, Bagley Walk, Exchange Square, Jubilee Park, Harbour Quay, Power Station Park and Bernie Spain Gardens are all free to sit in with your own food. Kingly Court, Eccleston Yards, Broadgate Circle and the Coal Drops terraces are not.
 * **The waterside beats the square for sun.** In the tower districts the light goes off the paving early. Eden Dock's new terraces face south and west; Granary Square's steps face south; Malaysia Square at Battersea is the estate's own nominated sun trap.
-* **Book the restaurants, not the precincts.** Hawksmoor Wood Wharf, Dishoom, Roe, Cornus and Yauatcha all take reservations and fill on a warm evening. The market yards and food halls do not take bookings at all, and Weezie's at Eccleston Yards is walk-in only.
+* **Book the restaurants, not the precincts.** Hawksmoor Wood Wharf, Dishoom, Roe, Cornus and Yauatcha City all take reservations and fill on a warm evening. The market yards and food halls do not take bookings at all, and Weezie's at Eccleston Yards is walk-in only.
 * **Service charge** of 12.5% is discretionary and standard on London restaurant bills. Market counters and street-food stalls generally do not add it.
 
 ---

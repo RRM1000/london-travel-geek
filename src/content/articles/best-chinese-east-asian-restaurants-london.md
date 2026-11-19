@@ -22,7 +22,7 @@ faq:
   - q: "Is Chinatown worth eating in?"
     a: "Yes, if you pick carefully. Tao Tao Ju and Plum Valley are the two most-cited Chinatown rooms, Barshu sits on its edge doing Sichuan, and Dumplings' Legend is the xiao long bao standby. Fifteen Chinatown addresses in this guide are named by two or more independent sources."
   - q: "Where do I get the best dim sum in London?"
-    a: "Tao Tao Ju in Chinatown is the most-cited, with dim sum made fresh on site daily. Dim Sum Library in Covent Garden and Dim Sum & Duck at King's Cross are next on three sources each. Yauatcha in Soho serves it all day, and Dragon Castle at Elephant and Castle does it at about half the central price."
+    a: "Tao Tao Ju in Chinatown is the most-cited, with dim sum made fresh on site daily. Dim Sum Library in Covent Garden and Dim Sum & Duck at King's Cross are next on three sources each. Yauatcha City in Broadgate is open from noon to midnight Monday to Saturday, and Dragon Castle at Elephant and Castle does it at about half the central price."
   - q: "What is the difference between the Chinese regions on this page?"
     a: "Sichuan is numbing and chilli-heavy, from the peppercorn rather than the chilli alone. Shaanxi means hand-pulled biang biang noodles and the flatbread sandwich called a rou jia mo. Cantonese is the roast meats and dim sum most British menus are built on. Uyghur cooking, from the far north-west, is closer to Central Asia — cumin, lamb and hand-pulled noodles. Hunan is hotter than Sichuan but without the numbing."
   - q: "Where can I eat East Asian food in London cheaply?"
@@ -271,7 +271,7 @@ The **roast duck** is the order, on rice or on its own; roast pork and char siu 
 
 [**The Best Dim Sum in London**](/articles/best-dim-sum-london/) compares the rooms in full, with the trolley rooms and the booking-required ones separated out.
 
-The short version: **A. Wong** in Victoria is the two-starred lunch; **Royal China** in Marylebone and **Yauatcha** in Soho are the mid-range rooms; **Dumplings' Legend** and **Joy King Lau** are the Chinatown standbys; and **Pearl Liang** is near Paddington.
+The short version: **A. Wong** in Victoria is the two-starred lunch; **Royal China** in Marylebone and **Yauatcha City** in Broadgate are the mid-range rooms; **Dumplings' Legend** and **Joy King Lau** are the Chinatown standbys; and **Pearl Liang** is near Paddington.
 
 ---
 ## The Chinatown institutions
@@ -395,7 +395,7 @@ Everything else the Chinese sources carry by two or more independent publication
 
 ## What to know
 
-* **Dim sum is a lunch service** at most traditional halls, finishing around 5pm. Yauatcha and Dragon Castle are the exceptions.
+* **Dim sum is a lunch service** at most traditional halls, finishing around 5pm. Yauatcha City and Dragon Castle are the exceptions.
 * **Chinatown is best approached with a list.** Fifteen of its addresses are named by two or more independent sources.
 * **Chinatown is not the whole story.** The most-cited Chinese cooking is spread from Victoria to Walthamstow, and several rooms here are nowhere near Gerrard Street.
 * **Only A. Wong on this page holds a Michelin star**, and it has two. The counts show agreement between sources, not a verdict.

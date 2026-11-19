@@ -20,7 +20,7 @@ faq:
   - q: "Where is the best dim sum in London?"
     a: "Royal China on Baker Street is the benchmark, running weekend dim sum at enormous volume. A. Wong in Victoria is the only two-Michelin-starred Chinese restaurant in Europe and its dim sum lunch is much cheaper than dinner. Tao Tao Ju in Chinatown makes it fresh on site each day."
   - q: "What time is dim sum served in London?"
-    a: "Traditionally lunch, roughly 11am to 5pm, and most halls stop then. Yauatcha in Soho and Dragon Castle at Elephant and Castle both serve all day, which makes them the answer for an evening."
+    a: "Traditionally lunch, roughly 11am to 5pm, and most halls stop then. Dragon Castle at Elephant and Castle serves all day, and Yauatcha City in Broadgate is open from noon to midnight Monday to Saturday, which makes them the answer for an evening."
   - q: "Where is the cheapest good dim sum in London?"
     a: "Dragon Castle at Elephant and Castle does it at about half the central mark-up, in a full-size Cantonese banqueting hall. In Chinatown, Joy King Lau and Dumplings' Legend are both well under the Soho names."
   - q: "Do I need to book dim sum?"
@@ -33,7 +33,7 @@ faq:
 
 **Most dim sum halls stop serving around 5pm.** It is a lunch, not a dinner.
 
-> 💡 **The Short Version:** **Royal China** on Baker Street is the benchmark and takes no bookings at peak. **A. Wong** is the only two-starred Chinese kitchen in Europe and its lunch is the cheap way in. **Tao Tao Ju** is the refined end of Chinatown. **Dragon Castle** is half the price for the same thing. And **Yauatcha** serves all day.
+> 💡 **The Short Version:** **Royal China** on Baker Street is the benchmark and takes no bookings at peak. **A. Wong** is the only two-starred Chinese kitchen in Europe and its lunch is the cheap way in. **Tao Tao Ju** is the refined end of Chinatown. **Dragon Castle** is half the price for the same thing. And **Yauatcha City** in Broadgate is open from noon to midnight.
 
 > 📘 **No paid placements.** Service times change more than anything else here; confirm before travelling.
 
@@ -54,7 +54,7 @@ faq:
 | If you are near… | Where to eat |
 | --- | --- |
 | **Chinatown & Leicester Square** | Tao Tao Ju, Plum Valley, Joy King Lau, Dumplings' Legend, BaoziInn, Orient London |
-| **Soho** | Yauatcha |
+| **The City** | Yauatcha City |
 | **Marylebone** | Royal China |
 | **Victoria** | A. Wong |
 | **Covent Garden** | Dim Sum Library, Din Tai Fung |
@@ -99,11 +99,7 @@ The only **two-Michelin-starred Chinese restaurant in Europe**. Andrew Wong cook
 
 ### Yauatcha, Soho
 
-*£££ · 6 min from Piccadilly Circus · all day*
-
-**All-day dim sum** with a patisserie counter downstairs, from the Hakkasan founder; it **held a Michelin star for fourteen years**. Running all day solves the problem of Chinatown kitchens that close at 4pm.
-
-**Book weeks ahead.** Good for a date or a pre-theatre meal.
+Yauatcha Soho is closed for a refurbishment until late 2027. [Yauatcha City](#yauatcha-city-broadgate) in Broadgate is open.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-dim-sum-london-london-chinatown-food-tour" data-gyg-partner-id="WWP7I0R" data-gyg-q="London Chinatown food tour"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -147,9 +143,9 @@ The name is the menu: dim sum, and Cantonese roast duck carved to order. Cheaper
 
 ### Yauatcha City, Broadgate
 
-*£££ · the City sibling*
+*£££ · Broadgate Circle · noon to midnight Monday to Saturday*
 
-The Broadgate branch of the Soho dim sum room, for when you are in the City; usually easier to book.
+The Broadgate branch of Yauatcha, open **noon to midnight Monday to Wednesday and noon to 1am Thursday to Saturday**, and closed on Sundays. On Fridays and Saturdays from noon to 4pm it runs the **Infinite Yum Cha brunch for £49**: unlimited steamed, fried and baked dim sum and bao, then a main course and a dessert. A weekday lunch set menu is £29, noon to 4pm. [Book a table](https://www.sevenrooms.com/explore/yauatchacitylondon/reservations/create/search/).
 
 ### Yi-Ban, Royal Docks
 
@@ -213,7 +209,7 @@ Dim sum in a **bar-led room** rather than a banquet hall, open into the evening:
 
 ## What to know
 
-* **Most halls stop around 5pm.** Yauatcha, Dragon Castle, Dim Sum Library and Din Tai Fung are the exceptions.
+* **Most halls stop around 5pm.** Yauatcha City, Dragon Castle, Dim Sum Library and Din Tai Fung are the exceptions.
 * **Order three to four plates per person** and add more as you go.
 * **Har gau and siu mai** are the two every kitchen is judged on. Order both first.
 * **Xiao long bao are Shanghainese**, not Cantonese — a different tradition on the same menus.

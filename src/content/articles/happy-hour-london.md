@@ -21,7 +21,7 @@ faq:
   - q: "What time is happy hour in London?"
     a: "Most run between 3pm and 7pm on weekdays. Ippudo is the longest weekday window at 2pm to 7pm, Manzi's runs 3pm to 7pm daily and all day Sunday, and Las Iguanas, Frankie & Benny's and Turtle Bay run their cocktail deals all day."
   - q: "Where can I get a happy hour deal with food as well as drinks?"
-    a: "Yauatcha does 2-for-1 cocktails and dim sum, Ping Pong halves the price of drinks and dim sum on over thirty items, Kricket sells a snack and a drink for £10, and Manzi's and Rick Stein in Barnes sell oysters at £2 each."
+    a: "Ping Pong halves the price of drinks and dim sum on over thirty items, Kricket sells a snack and a drink for £10, and Manzi's and Rick Stein in Barnes sell oysters at £2 each."
   - q: "Are there happy hours at the weekend?"
     a: "Yes, but fewer. Manzi's, Rick Stein, Seabird, Kricket, Hakata, Megan's and Market Halls run on Saturdays and Sundays. Bread Street Kitchen, Nightjar, Sucre and Escocesa add Sundays."
 heroImage: "../../assets/articles/best-cocktail-bars-london/best-cocktail-bars-london.jpg"
@@ -30,7 +30,7 @@ heroImageAlt: "A bartender pouring a measure of spirit into a steel jigger behin
 
 London happy hours run from 3pm to 7pm on most weekdays, and the best of them put food on the table as well as drinks on the bar. Each entry below gives the days, the times and the price, and says whether you need an app or a seat at the bar.
 
-> 💡 **The Short Version:** **Manzi's** in Soho has the most flexible window, 3pm to 7pm daily and all day Sunday, with oysters at £2 each and martinis at £10. **Ippudo** runs the longest weekday window, 2pm to 7pm. **Market Halls** sells £5 pints from 8pm and **Dishoom** sells £5 cocktails after 9.30pm until 30 November 2026. **Yauatcha** and **Ping Pong** put dim sum into the deal. **Las Iguanas** and **Frankie & Benny's** run their cocktail offers all day.
+> 💡 **The Short Version:** **Manzi's** in Soho has the most flexible window, 3pm to 7pm daily and all day Sunday, with oysters at £2 each and martinis at £10. **Ippudo** runs the longest weekday window, 2pm to 7pm. **Market Halls** sells £5 pints from 8pm and **Dishoom** sells £5 cocktails after 9.30pm until 30 November 2026. **Ping Pong** puts dim sum into the deal. **Las Iguanas** and **Frankie & Benny's** run their cocktail offers all day.
 
 > ⚠️ **Most of these stop at Friday.** Weekday-only deals are the rule; the weekend table near the end lists the ones that run on Saturday and Sunday.
 
@@ -51,12 +51,6 @@ Oysters are £2 each or six for £9, and there are long drinks and martinis at �
 *Soho · Oxford Circus · Sunday to Thursday 3–7pm · £8 cocktails*
 
 Agave Hour is £8 tequila and mezcal cocktails in a South American restaurant, with small plates alongside. It stops at Thursday.
-
-### [Yauatcha](https://hakkasangroup.com/venues/yauatcha-soho-london/menu/)
-
-*Soho · Piccadilly Circus · Monday to Friday 4–7pm · 2-for-1*
-
-Cocktails and dim sum are both two-for-one, so a pair can eat for the price of one. It is the only Soho happy hour on this page that covers the food as well as the drinks.
 
 ### [Plum Valley](https://plumvalley.co.uk/promotions/)
 
