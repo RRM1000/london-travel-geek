@@ -129,6 +129,8 @@ Beyond Highbury Corner. Highbury Fields, the Union Chapel and the residential st
 
 *The Almeida Theatre. Photo: [Andreas Praefcke](https://commons.wikimedia.org/w/index.php?curid=15582698), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).*
 
+Banya No.1, a Russian steam bath on Micawber Street just over the border in Hoxton, is covered in our [guide to saunas and cold plunges in London](/articles/saunas-cold-plunge-london/).
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

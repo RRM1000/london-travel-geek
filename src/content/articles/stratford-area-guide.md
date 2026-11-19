@@ -143,6 +143,7 @@ It is for drinking and wandering, not sightseeing. It is best on a summer aftern
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — the Queen Elizabeth Olympic Park alongside the royal parks and the other big green spaces.
 - **[Shopping in London](/articles/shopping-in-london/)** — where Westfield Stratford City sits against the West End streets and the department stores.
 - **[Outdoor cinema in London](/articles/outdoor-cinema-london/)** — Rooftop Cinema Club's summer screen on Roof East, the eighth floor of Stratford Shopping Centre, facing the Orbit and the Olympic Park.
+- **[Saunas and cold plunges in London](/articles/saunas-cold-plunge-london/)** — Community Sauna Baths in East Village and the Hackney Wick flagship.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="stratford-area-guide-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

@@ -170,6 +170,7 @@ A modern square at the southern end of Bermondsey Street, built on the site of B
 - **[The best galleries in London](/articles/best-galleries-london/)** — White Cube Bermondsey, free.
 - **[HMS Belfast](/articles/hms-belfast-guide/)** — the Second World War cruiser moored off Tooley Street, ten minutes from Bermondsey Street.
 - **[The best Spanish restaurants in London](/articles/best-spanish-restaurants-london/)** — the tapas bars of Bermondsey Street.
+- **[Saunas and cold plunges in London](/articles/saunas-cold-plunge-london/)** — the Finnish Church sauna in Rotherhithe, £12 an hour.
 
 ## Where to eat and drink
 

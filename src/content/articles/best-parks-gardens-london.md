@@ -309,5 +309,6 @@ It is small - a couple of hours is plenty - and **opening is seasonal**, so chec
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**
 - 🦌 **[Richmond Area Guide](/articles/richmond-area-guide/)**
+- 🧖 **[Saunas and Cold Plunges in London](/articles/saunas-cold-plunge-london/)** — including the winter sauna at Parliament Hill Lido.
 - 🌳 **[Hampstead Area Guide](/articles/hampstead-area-guide/)**
 - 🏙️ **[City of London Area Guide](/articles/city-of-london-area-guide/)**

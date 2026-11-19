@@ -181,6 +181,8 @@ The street called **Peckham Rye**, facing the Common, has **Bà Ba**, the Nguyen
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="peckham-area-guide-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+For an evening that isn't a pub, Sauna Social Club in a railway arch combines saunas, ice baths and DJs; prices and booking are in our [guide to saunas and cold plunges in London](/articles/saunas-cold-plunge-london/).
+
 ## Where to eat and drink
 
 This is a selection; see the [full restaurant list](/articles/eat-in-london-guide/) for more.

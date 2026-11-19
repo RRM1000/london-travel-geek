@@ -157,6 +157,7 @@ A hamlet inside the Heath itself, near North End: a handful of ivy-covered cotta
 - **[The Hampstead Heath and Primrose Hill walk](/articles/hampstead-heath-primrose-hill-walk/)** — ten numbered stops from the village to Primrose Hill, with a map and what is open on which day.
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — where the Heath sits against the royal parks.
 - **[The best beer gardens in London](/articles/best-beer-gardens-london/)** — The Spaniards Inn on the edge of the Heath and The Stag in Belsize Park.
+- **[Saunas and cold plunges in London](/articles/saunas-cold-plunge-london/)** — Parliament Hill Lido has a winter sauna beside the pool, £7 on top of the swim.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="hampstead-area-guide-walking-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="359535,765419,1242361"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

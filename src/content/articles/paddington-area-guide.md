@@ -145,6 +145,8 @@ South-west of the station: a dense restaurant quarter serving the neighbourhood,
 
 *Paddington Basin. Photo: [trolvag](https://commons.wikimedia.org/w/index.php?curid=56959884), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
+The Porchester Spa on Queensway, London's oldest spa, has Turkish baths, steam rooms and a plunge pool; its single-sex days and prices are in our [guide to saunas and cold plunges in London](/articles/saunas-cold-plunge-london/).
+
 ## Where to eat and drink
 
 | Spot | Style | Price | Why go |

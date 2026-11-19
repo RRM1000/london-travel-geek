@@ -143,6 +143,7 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 - **[The best canal walks in London](/articles/best-canal-walks-london/)** — the Regent's Canal through Hackney and Victoria Park, and where to join it.
 - **[The best street food in London](/articles/best-street-food-london/)** — which of the east London markets and yards trade on which days.
 - **[The best beer gardens in London](/articles/best-beer-gardens-london/)** — People's Park Tavern on Victoria Park, Pub on the Park on London Fields and the Crooked Billet in Clapton.
+- **[Saunas and cold plunges in London](/articles/saunas-cold-plunge-london/)** — Community Sauna Baths at Hackney Wick and the Rooftop Saunas at Netil Corner.
 
 ## Where to eat and drink
 

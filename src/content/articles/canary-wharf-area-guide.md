@@ -182,6 +182,7 @@ The DLR runs overhead on its viaduct.
 - **[ExCeL London travel guide](/articles/excel-london-guide/)** — one Elizabeth line stop away, for a trade show or exhibition.
 - **[Where to stay near ExCeL](/articles/where-to-stay-near-excel/)** — hotels by the entrance they suit, with Canary Wharf three minutes away on the Elizabeth line.
 - **[Exhibitions and conventions in London](/articles/exhibitions-conventions-london/)** — the year-round calendar of what's actually on at ExCeL, from MCM Comic Con to New Scientist Live.
+- **[Saunas and cold plunges in London](/articles/saunas-cold-plunge-london/)** — Skuna's sauna boats at West India Quay and Arc's 60-person sauna and ice baths.
 
 ## Where to eat and drink
 

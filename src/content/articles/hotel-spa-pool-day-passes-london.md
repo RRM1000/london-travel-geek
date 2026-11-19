@@ -119,3 +119,5 @@ The Biome spa is on a black-marble thermal floor, with the heat and water circui
 **Read the cancellation terms.** Rena charges in full inside 48 hours, and the Pan Pacific voucher is non-refundable.
 
 For a pool you can swim lengths in without a spa fee, our [hotels with a pool guide](/articles/hotels-with-pool-london/) covers the lengths, the children's hours and which pools are guests only, and our [gyms guide](/articles/best-gyms-london/#where-to-swim) prices the council pools and lidos. If you only want a bed and a shower for the afternoon, [a day room](/articles/day-rooms-london/) is cheaper, and a few include pool access.
+
+If you only want a sauna and a cold plunge, by the hour and from about £11, see our [guide to saunas and cold plunges in London](/articles/saunas-cold-plunge-london/).
