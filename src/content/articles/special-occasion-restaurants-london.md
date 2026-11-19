@@ -35,7 +35,7 @@ London has **six three-Michelin-star restaurants** in the 2026 guide, and a seco
 
 | If you are near… | Where to book |
 | --- | --- |
-| **Mayfair** | Alain Ducasse at The Dorchester, Hélène Darroze at The Connaught, Sketch, Murano, Umu |
+| **Mayfair** | Alain Ducasse at The Dorchester, Hélène Darroze at The Connaught, Sketch, Carbone, Murano, Umu |
 | **Chelsea** | Restaurant Gordon Ramsay |
 | **Notting Hill** | Core by Clare Smyth, The Ledbury |
 | **Knightsbridge** | Dinner by Heston Blumenthal |
@@ -219,6 +219,14 @@ Michelin-starred simplicity on the Thames, and the kitchen where both Jamie Oliv
 *The egg-shaped lavatory pods at Sketch.*
 
 **Book the specific room, not "Sketch"**, and book weeks ahead for the Gallery and months for the Lecture Room. **9 Conduit Street, W1S 2XG**, three minutes from Oxford Circus.
+
+### Carbone, Mayfair
+
+*££££ · dress code · [book a table](https://www.sevenrooms.com/explore/carbonelondon/reservations/create/search/)*
+
+The New York Italian-American restaurant's first in Europe, opened in September 2025 in the former US Embassy at **30 Grosvenor Square, W1K**. Ken Fulk designed two floors of velvet banquettes, mosaic tiles and lacquered wood, captains in burgundy tuxedos make the Caesar alla ZZ and the Dover sole at the table, and the desserts come round on a tray for you to choose from. Order the **spicy rigatoni vodka (£29)**; the veal parmesan, at £69, is meant to share.
+
+**Dress for it.** No shorts, open-toed shoes or vests, and the restaurant says it may turn away anyone not "sufficiently well-presented". Lunch is 12pm to 2.30pm and dinner 5pm to 10pm, every day. [Carbone London](https://carbonelondon.com/).
 
 ### Bob Bob Ricard, Soho
 

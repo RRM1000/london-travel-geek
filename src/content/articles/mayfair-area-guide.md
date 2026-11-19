@@ -165,6 +165,7 @@ It is thirty seconds off Piccadilly through an easily-missed archway.
 | **Mercato Mayfair** | Food hall | ££ | Inside the Grade I-listed St Mark's Church on North Audley Street |
 | **The Wolseley** | Grand cafe | £££ | Piccadilly, in a former car showroom; book for breakfast |
 | **Sketch** | Modern European | ££££ | Conduit Street; the Gallery and the egg-pod toilets |
+| **[Carbone](/articles/special-occasion-restaurants-london/)** | Italian-American | ££££ | 30 Grosvenor Square, in the former US Embassy; New York's red-sauce restaurant, spicy rigatoni vodka £29, dress code |
 
 Bar des Prés on South Audley Street, the French chef Cyril Lignac's French-Japanese restaurant, is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
