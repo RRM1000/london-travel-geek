@@ -3,8 +3,8 @@ title: "The Best Pizza in London, Cross-Referenced Across Every Major List and R
 seoTitle: "Best Pizza in London 2026: Ranked Across Major Lists"
 description: "Not our opinion. Every pizzeria here is ranked by how many independent awards, critics and reviewers name it."
 publishedAt: 2026-08-22
-updatedAt: 2026-11-04
-reviewBy: 2026-11-18
+updatedAt: 2026-11-19
+reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -14,7 +14,7 @@ heroImage: "../../assets/articles/best-pizza-london/crisp-pizza.jpg"
 heroImageAlt: "A New Haven-style pepperoni pizza at Crisp in Mayfair, its crust blistered and charred dark at the edge, topped with cupped pepperoni, tomato and spoonfuls of ricotta, on a metal pan"
 faq:
   - q: "What is the best pizza in London?"
-    a: "The judges disagree. The National Pizza Awards gave the 2026 national title to Five Feet, a Bermondsey pizzeria opening on 11 November 2026, and the 2025 one to Short Road Pizza, a residency in a Leyton brewery pub that Time Out ranks first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for 2026. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve."
+    a: "The judges disagree. The National Pizza Awards gave the 2026 national title to Five Feet, a Bermondsey pizzeria that opened on 11 November 2026, and the 2025 one to Short Road Pizza, a residency in a Leyton brewery pub that Time Out ranks first in London. 50 Top Pizza puts Napoli on the Road in Chiswick first in Europe for 2026. Crisp Pizza is named by more independent sources than any other pizzeria in the city, and The Infatuation ranks it first of twelve."
   - q: "Where is the best pizza in central London?"
     a: "50 Kalò is a minute from Charing Cross and placed fourth in Europe in the 2026 rankings, which makes it the highest-ranked pizzeria you can reach without leaving the tourist core. For New York-style, Crisp Pizza in the basement of a Mayfair pub is the one the critics rate highest — but it does not serve pizza on Mondays."
   - q: "Do I need to book a pizzeria in London?"
@@ -29,7 +29,7 @@ London cooks several kinds of pizza: a soft Neapolitan you eat with a knife and 
 
 The judges disagree too: the Italians pick a Neapolitan pizzeria in Chiswick and the British pick a Bermondsey newcomer for 2026 and a pub kitchen in Leyton for 2025. This guide opens with the places that won something, then sorts the rest by style.
 
-> 💡 **The Short Version:** **Five Feet** in Bermondsey won National Pizza of the Year 2026 and opens on 11 November. **Short Road Pizza** won in 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
+> 💡 **The Short Version:** **Five Feet** in Bermondsey won National Pizza of the Year 2026 and opened on 11 November. **Short Road Pizza** won in 2025 and tops Time Out's London list. **Napoli on the Road** is first in Europe. **Crisp Pizza** is named by more sources than anything else in London. **50 Kalò** is the closest good pizza to the tourist centre. **Ria's** does Detroit. **Rudy's** and **Yard Sale** are the reliable walk-ins.
 
 > 📊 **The evidence behind this guide.**
 > **31 sources carrying 262 citations** across **126 named pizzerias**. **39 pizzerias are named by two or more independent sources; 24 carry a dated award.**
@@ -77,7 +77,7 @@ The [2026 National Pizza Awards](https://nationalpizzaawards.co.uk/the-uks-best-
 
 ### Five Feet, Bermondsey
 
-*Bermondsey · 4 Tanner Street · opens 11 November 2026 · Cited by 1 source · National Pizza of the Year and Pizza Chef of the Year 2026, National Pizza Awards · [website](https://fivefeet.co.uk/)*
+*Bermondsey · 4 Tanner Street · opened 11 November 2026 · Cited by 1 source · National Pizza of the Year and Pizza Chef of the Year 2026, National Pizza Awards · [website](https://fivefeet.co.uk/)*
 
 The title is decided at a live cook-off, where finalists make their pizza in front of the judges, so Five Feet won it a week before opening its doors. Jack Ellingham won with a Sicilian, or Grandma-style, square pie: sausage and broccoli over vodka sauce, with fior di latte, provolone, friarielli greens, pickled chillies, ricotta and Coolea cheese. He also took Pizza Chef of the Year in the technical round. Ellingham was a baker at Dusty Knuckle; the restaurant comes from Jay Patel of Legare, also in Bermondsey.
 

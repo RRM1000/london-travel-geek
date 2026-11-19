@@ -3,8 +3,8 @@ title: "Covent Garden Area Guide: The Piazza, Seven Dials and West End Theatre"
 seoTitle: "Things to Do in Covent Garden: Piazza and Seven Dials"
 description: "The Piazza and its performers, Seven Dials and Neal's Yard, where to eat before a show, and why Leicester Square beats Covent Garden station's 193 steps."
 publishedAt: 2026-08-08
-updatedAt: 2026-10-26
-reviewBy: 2026-11-13
+updatedAt: 2026-11-19
+reviewBy: 2027-01-10
 sites:
   - london
 canonicalSite: london
@@ -126,7 +126,7 @@ Go before ten in the morning or after eight in the evening if you want to move.
 
 Covent Garden has no chalet market of its own, but Leicester Square's and Trafalgar Square's are both within ten minutes' walk; dates and hours are in our [London Christmas markets guide](/articles/christmas-markets-london/).
 
-The 2026 switch-on is Thursday 12 November. Our [Christmas lights walk](/articles/christmas-lights-walk-london/) takes in the Piazza tree, Seven Dials and Floral Street after dark, on the way from Oxford Street to Trafalgar Square. Somerset House's ice rink, 8 minutes away on the Strand, runs from 11 November 2026 to 10 January 2027; see our [London ice skating guide](/articles/ice-skating-london/).
+The 2026 lights went on on Thursday 12 November. Our [Christmas lights walk](/articles/christmas-lights-walk-london/) takes in the Piazza tree, Seven Dials and Floral Street after dark, on the way from Oxford Street to Trafalgar Square. Somerset House's ice rink, 8 minutes away on the Strand, runs from 11 November 2026 to 10 January 2027; see our [London ice skating guide](/articles/ice-skating-london/).
 
 ### Seven Dials
 

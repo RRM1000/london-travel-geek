@@ -3,8 +3,8 @@ title: "Bicester Village from London: Train, Coach and Tour Options"
 seoTitle: "Bicester Village from London: Train, Coach and Tours"
 description: "Getting to Bicester Village from London: the 56-minute Chiltern train from Marylebone, the £45 Shopping Express coach with its pick-up points and times, and the GetYourGuide trips, including private cars and Oxford combinations."
 publishedAt: 2026-11-09
-updatedAt: 2026-11-10
-reviewBy: 2027-02-01
+updatedAt: 2026-11-19
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -61,7 +61,7 @@ Bicester Village opened in April 1995 and is a pedestrianised, open-air village 
 ![A paved walkway between planted willow and flower beds at Bicester Village, with a Coach boutique ahead and a wooden signpost pointing to food](../../assets/articles/bicester-village-day-trip/bicester-village-walkway.jpg)
 *A planted walkway at Bicester Village. Photo: [Peter Trimming](https://commons.wikimedia.org/wiki/File:Bicester_Village_-_geograph.org.uk_-_5800337.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-The Village's offers page claims up to 40% off the original retail price every day, on selected lines in participating boutiques, with some brands showing more. Its Black Friday event runs from 12 to 30 November 2026 at up to 50% off. The Christmas programme of lights and snow runs from 5 November 2026.
+The Village's offers page claims up to 40% off the original retail price every day, on selected lines in participating boutiques, with some brands showing more. Its Black Friday event runs from 12 to 30 November 2026 at up to 50% off. The Christmas programme of lights and snow started on 5 November 2026.
 
 **Food.** Cecconi's serves Italian dishes and breakfast until 11.15am. It takes bookings for breakfast and dinner and is walk-in only at lunch. Ottolenghi is open 8.30am to 7pm. Others include The Double Red Duke, La Tua Pasta, Shan Shui, Ladurée, Pret A Manger and Itsu.
 

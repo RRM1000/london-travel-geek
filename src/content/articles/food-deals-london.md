@@ -3,8 +3,8 @@ title: "London Food Deals: 2-for-1, Percentage Off, Student Discounts and Offers
 seoTitle: "London Food Deals 2026: 2-for-1, Discounts & Offers"
 description: "Restaurant offers across London: 2-for-1 deals, percentage-off offers, student and Blue Light discounts, deals for each day of the week, BYO nights, app sign-up rewards and birthday freebies, with the days, times and conditions."
 publishedAt: 2026-11-11
-updatedAt: 2026-11-12
-reviewBy: 2026-12-11
+updatedAt: 2026-11-19
+reviewBy: 2026-11-20
 sites:
   - london
 canonicalSite: london
@@ -93,7 +93,7 @@ Most of these need the card or account in your phone before you sit down. **UNiD
 | --- | --- | --- | --- |
 | [Las Iguanas](https://www.iguanas.co.uk/offers) | 40% off food and drink | Sunday to Thursday, until 26 November 2026 | Student ID. All branches |
 | [Shoryu Ramen](https://www.shoryuramen.com/deals) | 30% off food Monday to Wednesday, 15% off Thursday to Sunday | Every day | Valid Student Beans ID; tables up to six; not on set menus; can be combined with happy hour. All branches |
-| [Frankie & Benny's](https://www.frankieandbennys.com/student-discount) | 30% off food all year; 40% off Sunday to Thursday until 12 November 2026 | Any day; the 40% is Sunday to Thursday | Valid student ID; sign up for a code. All branches |
+| [Frankie & Benny's](https://www.frankieandbennys.com/student-discount) | 30% off food | Any day | Valid student ID; sign up for a code. All branches |
 | [Byron](https://www.byron.co.uk/byron-club) | 25% off food | All week | Byron Club member and student. All branches |
 | [Yo! Sushi](https://yosushi.com/restaurants/offers) | 25% off | — | Student ID. All branches |
 | [Ivan Ramen](https://www.ivanramen.co.uk/student-offer) | 25% off ramen | Monday to Friday, noon to 5pm | Valid student ID; ramen only; dine-in only. 98 Farringdon Road, Clerkenwell |

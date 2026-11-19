@@ -3,8 +3,8 @@ title: "What's On at the Barbican: Concerts, Theatre, Film and How to Visit"
 seoTitle: "What's On at the Barbican: Tickets, Food, Getting There"
 description: "Every upcoming concert, play, film event and talk at the Barbican, updated daily, plus the £4 booking fee you avoid by buying at the desk, the £6 tickets for 16 to 29s, the bag rule, and where to eat before a show."
 publishedAt: 2026-06-10
-updatedAt: 2026-11-09
-reviewBy: 2027-01-02
+updatedAt: 2026-11-19
+reviewBy: 2026-12-03
 heroImage: "../../assets/articles/barbican-centre-guide/barbican-lakeside-terrace.jpg"
 heroImageAlt: "The Barbican Centre's Lakeside Terrace on a sunny day, with people at benches and tables beside the fountains and the long balconied block of Barbican flats behind"
 sites: [london]
@@ -110,7 +110,7 @@ For other ways to split a trip between the City and the West End, see [where to 
 
 ## Free at the Barbican
 
-- **The Conservatory.** A tropical garden inside the Centre, which the Barbican bills as the second biggest conservatory in London. It opens on listed dates only, which run from **Friday 13 November 2026 to Sunday 3 January 2027**, with a waiting list for new dates. Entry is free but ticketed, and a limited number of day tickets go on sale online at **9.30am** each open day. The final plant adoption event, where the Barbican gives away Conservatory plants, is on **Wednesday 2 December**: free, one ticket per person, by a ballot that closes on **Thursday 19 November** on the [plant adoption page](https://www.barbican.org.uk/whats-on/event/conservatory-plant-adoption). Large bags, prams and buggies aren't allowed. [See dates and book](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory).
+- **The Conservatory.** A tropical garden inside the Centre, which the Barbican bills as the second biggest conservatory in London. It opens on listed dates only, which run to **Sunday 3 January 2027**, with a waiting list for new dates. Entry is free but ticketed, and a limited number of day tickets go on sale online at **9.30am** each open day. The final plant adoption event, where the Barbican gives away Conservatory plants, is on **Wednesday 2 December**: free, one ticket per person, by a ballot that closes on **Thursday 19 November** on the [plant adoption page](https://www.barbican.org.uk/whats-on/event/conservatory-plant-adoption). Large bags, prams and buggies aren't allowed. [See dates and book](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory).
 - **Concrete and Clay: Archiving the Barbican**, a free display in the foyers about the building's history, runs until **1 January 2027**.
 - **The Barbican Library**, a public lending library inside the Centre.
 

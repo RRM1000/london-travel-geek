@@ -3,7 +3,8 @@ title: "St Paul's Cathedral: Tickets, Opening Times, the Dome Climb and Free Eve
 seoTitle: "St Paul's Cathedral Tickets, Hours & Dome Climb"
 description: "St Paul's Cathedral tickets at £27, opening hours, the 528-step dome climb, the crypt, the Treasures tour and free Evensong, with bag, photography and step-free rules."
 publishedAt: 2026-11-01
-reviewBy: 2026-11-15
+updatedAt: 2026-11-19
+reviewBy: 2027-02-01
 sites:
   - london
 canonicalSite: london
@@ -27,7 +28,7 @@ faq:
   - q: "How much are tickets to St Paul's Cathedral?"
     a: "Monday to Saturday sightseeing is £27 for an adult (£29.70 with the optional 10% donation), £24 for seniors aged 65 and over and students with ID, and £10.50 for children aged 6 to 17. Under-6s are free. A family ticket is £64.50 for two adults and two or three children, or £37.50 for one adult and two or three children. The price covers the Cathedral Floor, the Crypt, the three Dome Galleries and a multimedia guide."
   - q: "Can you visit St Paul's Cathedral for free?"
-    a: "Services are free and need no ticket, including Choral Evensong, which is usually at 17:00 Monday to Saturday and 15:00 on Sunday. St Dunstan's Chapel is open for private prayer whenever the Cathedral is open. Sightseeing, the crypt and the dome need a ticket, apart from Lord Mayor's Show Day on Saturday 14 November 2026, when the Cathedral Floor and Crypt are free."
+    a: "Services are free and need no ticket, including Choral Evensong, which is usually at 17:00 Monday to Saturday and 15:00 on Sunday. St Dunstan's Chapel is open for private prayer whenever the Cathedral is open. Sightseeing, the crypt and the dome need a ticket."
   - q: "How many steps are there to the top of the dome?"
     a: "257 steps to the Whispering Gallery, 376 to the Stone Gallery and 528 to the Golden Gallery. There is no lift, so the galleries are stairs only. The Cathedral advises against the climb for anyone with a medical condition, mobility difficulties or a problem with heights or confined spaces."
   - q: "What are the opening times for St Paul's Cathedral?"
@@ -50,7 +51,6 @@ faq:
 > - **The dome is 528 steps and stairs only:** 257 to the Whispering Gallery, 376 to the Stone Gallery. No photos on the Whispering Gallery.
 > - **Bags: 45 x 30 x 25 cm at most, and there is no cloakroom.**
 > - **Passes:** the London Pass needs no booking; National Rail 2FOR1 has to be booked online.
-> - **Saturday 14 November 2026 is Lord Mayor's Show Day:** the floor and crypt are free, and the dome is £13.50.
 
 > ⚠️ **The Cathedral is closed to sightseers on Sundays.** Services run all day, but there is no sightseeing, crypt or dome access. In 2026 the Dome Galleries opened on Sundays from 15 March to 25 October.
 
@@ -93,10 +93,6 @@ A disabled visitor and one carer or companion get free tickets, booked ahead or 
 - **National Art Pass:** 50% off walk-up adult, concession and child tickets.
 - **Blue Peter badge:** up to two holders aged 6 to 15 get a free child ticket with a full-paying adult.
 - **Friends of St Paul's:** free sightseeing for a year, for £36.
-
-### Lord Mayor's Show Day
-
-On **Saturday 14 November 2026** the Cathedral Floor and Crypt are free and unticketed, with last admission at 16:00. The Dome Galleries are £13.50 for an adult, £12 for a senior or student and £5.25 for a youth or child, free for Friends, from 09:30 with last admission at 16:00. There is an organ showcase from 13:15 to 14:00 and Evensong at 15:00. The Cathedral calls it one of its busiest days of the year, may close earlier or limit entry at capacity, and the City is closed to traffic all day.
 
 ---
 

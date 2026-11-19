@@ -3,8 +3,8 @@ title: "Kew Gardens: Tickets, Hours and Which Gate to Use"
 seoTitle: "Kew Gardens 2026: Tickets, Route & Best Glasshouses"
 description: "Kew Gardens adult tickets are £25 online in peak season and £17 off-peak; children are £2 online from September 2026. Hours drop to 10am–4pm in late October and 10am–3.15pm from 12 November, and Lion Gate is weekends only that winter."
 publishedAt: 2026-09-19
-updatedAt: 2026-10-26
-reviewBy: 2026-11-13
+updatedAt: 2026-11-19
+reviewBy: 2027-01-04
 sites:
   - london
 canonicalSite: london
@@ -33,7 +33,7 @@ faq:
   - q: "Which entrance gate is best for Kew Gardens?"
     a: "Victoria Gate is best for public transport: it's 500 metres from Kew Gardens station, on the District line and the Mildmay line (London Overground). Elizabeth Gate suits South Western Railway arrivals at Kew Bridge station, 800 metres away. Lion Gate, nearest Richmond, is open weekends only from 2 November 2026 to 29 January 2027."
   - q: "What are the opening hours for Kew Gardens in autumn and winter 2026?"
-    a: "10am to 4pm (last entry 3pm) to 11 November 2026, then 10am to 3.15pm (last entry 2.30pm) from 12 November 2026 to 3 January 2027. The glasshouses close at 3pm."
+    a: "10am to 3.15pm (last entry 2.30pm) to 3 January 2027. The glasshouses close at 3pm."
 ---
 
 Kew Gardens is a 320-acre UNESCO World Heritage Site on the Thames in southwest London, with more than 50,000 living plants, three major glasshouse complexes, an 18-metre treetop walkway and an 18th-century Chinese pagoda.
@@ -207,12 +207,11 @@ Accessibility differs between them: the Temperate House and Alpine House take wh
 
 | Dates | Gates open | Last entry | Gates close |
 | :--- | :--- | :--- | :--- |
-| **25 October–11 November 2026** | 10am | **3pm** | 4pm |
-| **12 November 2026–3 January 2027** | 10am | **2.30pm** | 3.15pm |
+| **To 3 January 2027** | 10am | **2.30pm** | 3.15pm |
 
-From 25 October the glasshouses and the Treetop Walkway close at 3pm (Walkway last entry 2.45pm). The Princess of Wales Conservatory is closed from 4 January to 4 February 2027. Christmas at Kew, a ticketed evening light trail, runs on selected dates from 13 November 2026 to 3 January 2027, 4.20pm to 10pm, with tickets from £25.50 sold separately from daytime admission; [Kew has the dates and last-entry times](https://www.kew.org/kew-gardens/whats-on/christmas-at-kew).
+The glasshouses and the Treetop Walkway close at 3pm (Walkway last entry 2.45pm). The Princess of Wales Conservatory is closed from 4 January to 4 February 2027. Christmas at Kew, a ticketed evening light trail, runs on selected dates from 13 November 2026 to 3 January 2027, 4.20pm to 10pm, with tickets from £25.50 sold separately from daytime admission; [Kew has the dates and last-entry times](https://www.kew.org/kew-gardens/whats-on/christmas-at-kew).
 
-> ⚠️ **Winter hours are short.** From 12 November 2026 to 3 January 2027, last entry is 2.30pm and the gates close at 3.15pm. Lion Gate is also weekends-only throughout.
+> ⚠️ **Winter hours are short.** To 3 January 2027, last entry is 2.30pm and the gates close at 3.15pm. Lion Gate is also weekends-only throughout.
 
 ---
 

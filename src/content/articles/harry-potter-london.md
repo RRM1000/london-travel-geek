@@ -3,8 +3,8 @@ title: "Harry Potter in London: Everything a Fan Can Actually Do"
 seoTitle: "Harry Potter London 2026: Prices & What to Skip"
 description: "Studio Tour tickets are £58.50 for 2026 dates and cannot be bought on the door. Cursed Child is now one play. The Cauldron has closed. Prices, addresses and what to skip."
 publishedAt: 2026-09-05
-updatedAt: 2026-11-02
-reviewBy: 2026-11-16
+updatedAt: 2026-11-19
+reviewBy: 2027-01-15
 sites:
   - london
 canonicalSite: london
@@ -104,7 +104,7 @@ Oyster and contactless are valid all the way to Watford Junction, which sits out
 
 **Allow four hours.** The average visit is about three and a half, there is no time limit, and you are asked to arrive 20 minutes before your slot. Photography is allowed everywhere except the security search, the pre-show cinema and the green screen areas; tripods and drones are banned outright, including in the car park. The cloakroom is free.
 
-The sets are re-dressed through the year: Dark Arts runs to 8 November, Hogwarts in the Snow from 14 November 2026 to 17 January 2027, and House Spirit from 23 January 2027. The tour is closed 9 to 13 November and on 25 and 26 December. None of it changes the core tour.
+The sets are re-dressed through the year: Hogwarts in the Snow runs from 14 November 2026 to 17 January 2027, and House Spirit from 23 January 2027. The tour is closed on 25 and 26 December. None of it changes the core tour.
 
 ### The afternoon tea
 

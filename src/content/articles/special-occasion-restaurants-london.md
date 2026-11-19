@@ -5,8 +5,8 @@ description: "All six of London's three-Michelin-star restaurants, the rooms wor
 heroImage: "../../assets/articles/special-occasion-restaurants-london/rules-exterior.jpg"
 heroImageAlt: "A vintage green Rolls-Royce parked outside Rules restaurant in Covent Garden, beneath red awnings reading Rules, Est 1798"
 publishedAt: 2026-06-25
-updatedAt: 2026-10-26
-reviewBy: 2026-11-15
+updatedAt: 2026-11-19
+reviewBy: 2026-12-31
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -18,7 +18,7 @@ faq:
   - q: "How far ahead do I need to book?"
     a: "Months for the three-star rooms and for River Café's terrace. Weeks for most one-star restaurants. Sushi Tetsu releases seven seats in batches and they go in minutes."
   - q: "What is the cheapest way to eat at a Michelin-starred restaurant in London?"
-    a: "Lunch, and the gap is bigger than most people expect. Chez Bruce's weekday set lunch is £48.50 for three courses, and Pied à Terre's anniversary lunch is £49.50 until 14 November 2026. Restaurant Gordon Ramsay's set lunch is £125 against £180 à la carte, and The Ledbury's six-course lunch is £220 against £295 at dinner."
+    a: "Lunch, and the gap is bigger than most people expect. Chez Bruce's weekday set lunch is £48.50 for three courses. Restaurant Gordon Ramsay's set lunch is £125 against £180 à la carte, and The Ledbury's six-course lunch is £220 against £295 at dinner."
   - q: "Which London restaurant is best for a proposal?"
     a: "Clos Maggiore in Covent Garden: a blossom-covered conservatory with a fire. Book the conservatory specifically, well ahead, and say why."
   - q: "Is Dinner by Heston still open?"
@@ -304,7 +304,6 @@ A starred restaurant's lunch is the same kitchen and room as dinner for less.
 
 * **La Trompette**, Chiswick — **£45** for three courses, Wednesday to Friday.
 * **Chez Bruce**, Wandsworth — **£48.50** for three courses on the weekday set lunch, Tuesday to Friday; the standard lunch is **£68.50**.
-* **Pied à Terre**, Fitzrovia — **£49.50** for an amuse-bouche, starter and main on its 35th-anniversary lunch menu, until 14 November 2026. You have to mention it when booking.
 * **Hélène Darroze at The Connaught** — à la carte is served **at lunch only**, and two courses come in around £96 against £230 for the shortest tasting menu — the cheapest three-star lunch on this page.
 * **Restaurant Gordon Ramsay**, Chelsea — **£125**, Tuesday to Friday, against £180 à la carte and £210 for the Prestige menu.
 * **The Ledbury**, Notting Hill — **£220** for six courses at lunch against **£295** for dinner. A £75 saving on the same kitchen.

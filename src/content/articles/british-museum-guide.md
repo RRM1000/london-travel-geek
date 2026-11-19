@@ -3,8 +3,8 @@ title: "British Museum: Free Entry, Opening Hours and the Bayeux Tapestry"
 seoTitle: "British Museum Guide: Tickets, Hours & Bayeux Tapestry"
 description: "The British Museum is free, with a free timed ticket for busy days. Where the Bayeux Tapestry tickets stand, the entrances, opening hours, and what to see in one or two hours."
 publishedAt: 2026-10-07
-updatedAt: 2026-11-01
-reviewBy: 2026-11-14
+updatedAt: 2026-11-19
+reviewBy: 2026-11-29
 sites:
   - london
 canonicalSite: london
@@ -51,7 +51,7 @@ faq:
 > - **A guided tour saves you the choosing.** A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> takes you to the main objects in order and skips the entry queue; entry itself costs nothing, so the price is the guide.
 > - **Leave big bags behind.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed. The entrances are Great Russell Street and Montague Place.
 > - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10a). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
-> - **Quietest:** 10:00 to 11:00 and after 16:00. **Closures:** Rooms 68 to 73 (Money, Greek and Roman life, the Roman Empire, Etruscans, Cyprus and the Greeks in Italy) are shut 2 to 13 November 2026, and Room 4 (the Rosetta Stone) is shut 11 to 22 January 2027.
+> - **Quietest:** 10:00 to 11:00 and after 16:00. **Closures:** Rooms 33, 33a and 33b (China and South Asia) are shut 30 November to 11 December 2026, and Room 4 (the Rosetta Stone) is shut 11 to 22 January 2027.
 
 > ⚠️ **Bayeux Tapestry tickets to 31 March 2027 are sold out, and a free museum ticket does not include them.** The free events around the exhibition are free to attend, but none of them gets you into Room 30.
 
@@ -227,8 +227,7 @@ Also on the museum's one-hour trail: Hoa Hakananai'a, the basalt statue from Rap
 
 The museum publishes [planned gallery closures](https://www.britishmuseum.org/visit#gallery-information). The dated ones:
 
-- **Rooms 68 to 73 (Money, Greek and Roman life, the Roman Empire, Etruscans, Cyprus and the Greeks in Italy):** 2 to 13 November 2026.
-- **Reading Room:** 6 November 2026 (15:00 to 20:30), 13 and 20 November (all day) and 29 November (12:00 to 17:00).
+- **Reading Room:** 20 November 2026 (all day) and 29 November (12:00 to 17:00).
 - **Rooms 33, 33a and 33b (China and South Asia, Amaravati, Chinese jade):** 30 November to 11 December 2026.
 - **Room 4 (Rosetta Stone), Rooms 6a and 9:** 11 to 22 January 2027.
 - **Rooms 2 and 2a (Collecting the world, Waddesdon Bequest):** 25 January to 5 February 2027. **Room 1 (Enlightenment):** 25 January to 12 February.

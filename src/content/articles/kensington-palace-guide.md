@@ -3,7 +3,7 @@ title: "Kensington Palace: Tickets, Opening Days and What to See"
 seoTitle: "Kensington Palace Tickets 2026: Prices, Hours, Tips"
 description: "Kensington Palace tickets from £13 for an adult, the palace shut every Monday and Tuesday, and what's open in winter 2026/27: the King's State Apartments, Victoria's Countryside Christmas and the free Sunken Garden."
 publishedAt: 2026-11-15
-updatedAt: 2026-11-15
+updatedAt: 2026-11-19
 reviewBy: 2026-11-25
 sites:
   - london
@@ -36,7 +36,7 @@ faq:
   - q: "Is Kensington Palace covered by National Rail 2FOR1 or the London Pass?"
     a: "Both. National Rail 2FOR1 is a pay-at-the-door offer that excludes 1–6 January, 28 March–12 April, 18 July–31 August and 19–31 December. London Pass holders show their pass at the admissions desk. Historic Royal Palaces members go free, and Art Fund National Art Pass holders get free entry from 11 November 2026 to 24 March 2027."
   - q: "Which parts of Kensington Palace are closed until spring 2027?"
-    a: "The Queen's State Apartments are closed until spring 2027 for re-presentation, and the King's Gallery, part of the King's State Apartments, closes from 18 November 2026 until spring 2027 for roof repairs. The King's State Apartments and Victoria: A Royal Childhood remain open."
+    a: "The Queen's State Apartments are closed until spring 2027 for re-presentation, and the King's Gallery, part of the King's State Apartments, is closed from 18 November 2026 until spring 2027 for roof repairs. The King's State Apartments and Victoria: A Royal Childhood remain open."
   - q: "How do you get to Kensington Palace by Tube?"
     a: "The two nearest stations are Queensway on the Central line, 728 metres away through the Black Lion Gate, and High Street Kensington on the Circle and District lines, 765 metres away. Both are about a ten-minute walk, and neither has step-free access from platform to street. Notting Hill Gate is a 20–25 minute walk."
 ---
@@ -116,7 +116,7 @@ A sequence of rooms used for audiences and meetings, which is why they are spars
 
 - The **Cupola Room** was William Kent's first royal commission. It holds the musical clock known as the "Temple of the Four Great Monarchies of the World".
 - The **King's Drawing Room** has Vasari's *Venus and Cupid*. Queen Caroline tried to have it moved while her husband was in Hanover; he insisted on its return.
-- The **King's Gallery**, where William III caught the chill that killed him in 1702, closes on 18 November until spring 2027 for roof repairs.
+- The **King's Gallery**, where William III caught the chill that killed him in 1702, is closed from 18 November until spring 2027 for roof repairs.
 
 ![The red-walled King's Drawing Room at Kensington Palace, with gilded chandeliers, a painted ceiling and visitors looking at the paintings](../../assets/articles/kensington-palace-guide/kings-drawing-room.jpg)
 

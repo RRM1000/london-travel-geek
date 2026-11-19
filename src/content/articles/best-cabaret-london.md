@@ -3,7 +3,7 @@ title: "The Best Cabaret in London: What's Actually Still Open"
 seoTitle: "Best Cabaret London 2026: Venues Still Open"
 description: "London's biggest cabaret operator has collapsed. Every venue here is open, and the closed ones are named."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-01
+updatedAt: 2026-11-19
 reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
@@ -379,7 +379,7 @@ The setting is 1930s New York: **three sets of live jazz** wrapped in theatrical
 
 *CHAT NOIR!.*
 
-*London W14 9PL · West Kensington, Earl's Court · seated · **ends September 2026***
+*Peckham · seated · final 2026 dates on sale, 2027 presale open*
 
 **The address is issued to ticket holders.** It is in Peckham, so plan your route home.
 

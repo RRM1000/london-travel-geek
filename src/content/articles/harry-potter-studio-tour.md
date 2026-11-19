@@ -3,8 +3,8 @@ title: "The Harry Potter Studio Tour: Tickets, Extras and How to Get There"
 seoTitle: "Harry Potter Studio Tour London: Prices and Travel"
 description: "Warner Bros. Studio Tour London costs £58.50 for 2026 dates and cannot be bought on the door. Every optional extra with its price, the cheapest ways to get there from London, and what is included."
 publishedAt: 2026-09-20
-updatedAt: 2026-11-09
-reviewBy: 2026-11-14
+updatedAt: 2026-11-19
+reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -24,7 +24,7 @@ faq:
   - q: "Is Butterbeer included in the Studio Tour ticket?"
     a: "No. Butterbeer is £7.95 in a souvenir tankard and is sold only at the Butterbeer Bar, about halfway round, next to the Backlot Café."
   - q: "What is on at the Studio Tour in winter 2026?"
-    a: "Hogwarts in the Snow runs from 14 November 2026 to 17 January 2027 and is included in the ticket price. The tour is closed 9 to 13 November while the sets are redressed, and on 25 and 26 December. Dark Arts ran until 8 November."
+    a: "Hogwarts in the Snow runs from 14 November 2026 to 17 January 2027 and is included in the ticket price. The tour is closed on 25 and 26 December. Dark Arts ran until 8 November."
 ---
 
 **A ticket to Warner Bros. Studio Tour London costs £58.50 for an adult on 2026 dates, and you cannot buy one at the door.** Everything is pre-booked, in 30-minute entry slots, and you need a booking confirmation even to drive into the car park.
@@ -178,7 +178,7 @@ Elsewhere: the **Backlot Café** does burgers, hot dogs and salads halfway round
 | **Summer feature** | 13 May – 6 September 2027 | None |
 
 
-> ⚠️ **The tour is closed 9–13 November 2026**, between Dark Arts and Hogwarts in the Snow, while the sets are redressed, and on **25 and 26 December**. On **24 and 31 December the last tour starts at 14:30**. Check the calendar before you book trains or a hotel.
+> ⚠️ **The tour is closed on 25 and 26 December.** On **24 and 31 December the last tour starts at 14:30**. Check the calendar before you book trains or a hotel.
 
 <div data-stay-strip></div>
 

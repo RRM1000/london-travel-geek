@@ -3,8 +3,8 @@ title: "Oxford Street, Traffic-Free: The Shops, the Food and the Streets Off It"
 seoTitle: "Oxford Street London: Traffic-Free Guide & Shops 2026"
 description: "Oxford Street has been traffic-free between Orchard Street and Great Portland Street since 26 October 2026. Where the closure runs, what happens to buses and bikes, which end to use, the shops worth the trip, where to eat and the side streets to turn into."
 publishedAt: 2026-10-31
-updatedAt: 2026-11-01
-reviewBy: 2026-11-12
+updatedAt: 2026-11-19
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -80,7 +80,7 @@ Two stores, one beyond each end of the closure. [499-517 Oxford Street](https://
 
 ### Marks & Spencer, Marble Arch
 
-458 Oxford Street, at the western end and outside the closure. Open **until 10pm Monday to Saturday** to 13 November 2026, and **12pm to 6pm on Sunday, with browsing from 11.30am**. Its [store page](https://www.marksandspencer.com/stores/marble-arch-770) lists toilets, a café and a bureau de change.
+458 Oxford Street, at the western end and outside the closure. Open **8am to 10pm Monday to Saturday** and **12pm to 6pm on Sunday, with browsing from 11.30am**. Its [store page](https://www.marksandspencer.com/stores/marble-arch-770) lists toilets, a café and a bureau de change.
 
 ### Selfridges
 

@@ -5,7 +5,7 @@ description: "A Victorian railway turning shed, a veterans' club with a gold tin
 heroImage: "../../assets/articles/best-live-music-venues-london/jazz-cafe-camden.jpg"
 heroImageAlt: "The Jazz Cafe in Camden, its white stucco frontage lettered London's Famous Jazz Venue"
 publishedAt: 2026-08-26
-updatedAt: 2026-11-15
+updatedAt: 2026-11-19
 reviewBy: 2026-11-23
 sites: [london]
 canonicalSite: london
@@ -317,7 +317,7 @@ The New York club's **first UK venue**, in the basement beneath the St Martins L
 *Blue Note London.*
 
 **Robert Glasper** played the sold-out opening sets, with Erykah Badu, Jamie Cullum, Nubya Garcia, Yussef Dayes, KOKOROKO and Hak Baker announced behind him.
-*Opens 23 September 2026*
+*Opened 23 September 2026*
 
 The address is **42–49 St Martin's Lane, WC2N 4EJ**. Book on [Ticketmaster](https://www.ticketmaster.co.uk/blue-note-london-tickets-london/venue/289099), which issues the club's tickets.
 

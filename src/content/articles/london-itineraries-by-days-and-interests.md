@@ -3,8 +3,8 @@ title: "How to Plan a London Itinerary That Actually Works"
 seoTitle: "London Itinerary Planner: How Many Days You Need"
 description: "How many days London needs, what sells out and how far ahead, what a day costs, and the plan to follow once you know."
 publishedAt: 2026-08-07
-updatedAt: 2026-11-09
-reviewBy: 2026-11-12
+updatedAt: 2026-11-19
+reviewBy: 2027-01-03
 sites: [london]
 canonicalSite: london
 category: "London itineraries"
@@ -132,8 +132,7 @@ A good arrival day: drop the bag, have a full meal, walk one riverside stretch i
 | --- | --- | --- |
 | **Until summer 2027** | Buckingham Palace's State Rooms are closed to visitors; they reopen on 8 July 2027 | The summer-only sight is not an option on a winter trip |
 | **From 25 October 2026** | The clocks went back; sunset moved from about 5.50pm to 4.48pm overnight | Every outdoor plan loses its last hour. Move the viewpoint earlier |
-| **Until 11 November 2026** | Kew closes at 4pm, last entry 3pm | A morning trip, not an afternoon one |
-| **12 November 2026 to 3 January 2027** | Kew closes at **3.15pm**, last entry 2.30pm | Kew plus anything else in one day stops working |
+| **From 12 November 2026 to 3 January 2027** | Kew closes at **3.15pm**, last entry 2.30pm | Kew plus anything else in one day stops working |
 | **Mid-December** | Under 8 hours of daylight — sunrise about 7.57am, sunset about 3.53pm | Two outdoor things a day, not three |
 | **25 December** | TfL runs no service at all: no Tube, bus, Overground, DLR, Elizabeth line, tram or river boat | Everything has to be walkable from your room |
 
