@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16",
+ "generated": "2026-11-19",
  "shows": [
   {
    "slug": "a-christmas-carol-2026",
@@ -167,6 +167,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "ballad-lines",
+   "name": "BALLAD LINES",
+   "venue": "The Other Palace",
+   "venueSlug": "the-other-palace",
+   "location": "Off-West End",
+   "genre": "Musical",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-04-11",
+   "closing": "2027-07-04",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "ballet-shoes-uk-tour",
    "name": "Ballet Shoes UK Tour",
    "venue": "Sadler's Wells Theatre",
@@ -268,6 +283,21 @@
    "pressNight": null,
    "opening": "2027-02-12",
    "closing": "2027-07-31",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "birdcatcher",
+   "name": "Birdcatcher",
+   "venue": "Park Theatre",
+   "venueSlug": "park-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-03-02",
+   "pressNight": "2027-03-04",
+   "opening": "2027-03-02",
+   "closing": "2027-03-27",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -497,6 +527,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "democracy",
+   "name": "Democracy",
+   "venue": "Hampstead Theatre",
+   "venueSlug": "hampstead-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-03-26",
+   "closing": "2027-05-01",
+   "bookingFrom": "2026-11-19",
+   "priorityFrom": "2026-11-12"
+  },
+  {
    "slug": "derren-brown-only-human",
    "name": "Derren Brown: Only Human",
    "venue": "Apollo Theatre",
@@ -527,6 +572,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "diana-the-untold-and-untrue-story",
+   "name": "Diana: The Untold and Untrue Story",
+   "venue": "King's Head Theatre",
+   "venueSlug": "kings-head-theatre",
+   "location": "Off-West End",
+   "genre": "Entertainment",
+   "popularity": null,
+   "firstPreview": "2027-01-19",
+   "pressNight": null,
+   "opening": "2027-01-19",
+   "closing": "2027-01-31",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
    "slug": "dick-whittington-adults-only",
    "name": "Dick Whittington: Adults Only",
    "venue": "King's Head Theatre",
@@ -538,6 +598,21 @@
    "pressNight": "2026-11-27",
    "opening": "2026-11-26",
    "closing": "2027-01-02",
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "dick-whittington-and-his-cat",
+   "name": "Dick Whittington and His Cat",
+   "venue": "King's Head Theatre",
+   "venueSlug": "kings-head-theatre",
+   "location": "Off-West End",
+   "genre": "Entertainment",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": "2026-11-29",
+   "opening": "2026-11-22",
+   "closing": "2027-01-03",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -602,6 +677,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "driftweed",
+   "name": "Driftweed",
+   "venue": "Hampstead Theatre",
+   "venueSlug": "hampstead-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-06-04",
+   "pressNight": "2027-06-14",
+   "opening": "2027-06-04",
+   "closing": "2027-07-10",
+   "bookingFrom": "2026-11-19",
+   "priorityFrom": "2026-11-12"
+  },
+  {
    "slug": "ebony-scrooge",
    "name": "Ebony Scrooge",
    "venue": "Sadler's Wells East",
@@ -645,6 +735,21 @@
    "closing": "2027-05-22",
    "bookingFrom": "2026-10-27",
    "priorityFrom": "2026-10-20"
+  },
+  {
+   "slug": "fault",
+   "name": "Fault",
+   "venue": "King's Head Theatre",
+   "venueSlug": "kings-head-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-03-03",
+   "pressNight": "2027-03-08",
+   "opening": "2027-03-03",
+   "closing": "2027-03-28",
+   "bookingFrom": null,
+   "priorityFrom": null
   },
   {
    "slug": "faulty-towers-the-dining-experience",
@@ -902,6 +1007,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "henry-v",
+   "name": "HENRY V",
+   "venue": "Old Vic",
+   "venueSlug": "old-vic",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-01-26",
+   "pressNight": null,
+   "opening": "2027-01-26",
+   "closing": "2027-03-27",
+   "bookingFrom": "2025-11-16",
+   "priorityFrom": "2025-11-10"
+  },
+  {
    "slug": "high-school-musical",
    "name": "High School Musical",
    "venue": "Troubadour Wembley Park Theatre",
@@ -914,6 +1034,21 @@
    "opening": "2026-10-12",
    "closing": "2027-01-03",
    "bookingFrom": "2026-05-22",
+   "priorityFrom": null
+  },
+  {
+   "slug": "history-wyndhams",
+   "name": "History",
+   "venue": "Wyndham's Theatre",
+   "venueSlug": "wyndhams-theatre",
+   "location": "West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-05-17",
+   "closing": "2027-08-07",
+   "bookingFrom": null,
    "priorityFrom": null
   },
   {
@@ -1007,6 +1142,21 @@
    "priorityFrom": null
   },
   {
+   "slug": "it-never-rains-in-kennebunkport",
+   "name": "It Never Rains In Kennebunkport",
+   "venue": "Hampstead Theatre",
+   "venueSlug": "hampstead-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-04-09",
+   "closing": "2027-05-15",
+   "bookingFrom": "2026-11-19",
+   "priorityFrom": "2026-11-12"
+  },
+  {
    "slug": "jesus-christ-superstar",
    "name": "Jesus Christ Superstar",
    "venue": "Theatre Royal Drury Lane",
@@ -1050,6 +1200,21 @@
    "closing": "2027-04-24",
    "bookingFrom": "2026-04-21",
    "priorityFrom": null
+  },
+  {
+   "slug": "julie",
+   "name": "JULIE",
+   "venue": "Old Vic",
+   "venueSlug": "old-vic",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-04-10",
+   "pressNight": null,
+   "opening": "2027-04-10",
+   "closing": "2027-05-29",
+   "bookingFrom": "2026-11-16",
+   "priorityFrom": "2026-11-10"
   },
   {
    "slug": "julius-caesar",
@@ -1153,6 +1318,21 @@
    "pressNight": null,
    "opening": "1985-09-28",
    "closing": null,
+   "bookingFrom": null,
+   "priorityFrom": null
+  },
+  {
+   "slug": "let-the-whale-die",
+   "name": "Let the Whale Die",
+   "venue": "Park Theatre",
+   "venueSlug": "park-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-05-04",
+   "pressNight": "2027-05-06",
+   "opening": "2027-05-04",
+   "closing": "2027-05-15",
    "bookingFrom": null,
    "priorityFrom": null
   },
@@ -1757,6 +1937,36 @@
    "priorityFrom": null
   },
   {
+   "slug": "playing-shakespeare-a-midsummer-nights-dream",
+   "name": "Playing Shakespeare: A Midsummer Night's Dream",
+   "venue": "Shakespeare's Globe",
+   "venueSlug": "shakespeares-globe",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-03-04",
+   "closing": "2027-04-11",
+   "bookingFrom": "2026-11-05",
+   "priorityFrom": null
+  },
+  {
+   "slug": "portrait-of-a-man",
+   "name": "Portrait of a Man",
+   "venue": "Hampstead Theatre",
+   "venueSlug": "hampstead-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-02-11",
+   "pressNight": null,
+   "opening": "2027-02-11",
+   "closing": "2027-03-20",
+   "bookingFrom": "2026-11-19",
+   "priorityFrom": "2026-11-12"
+  },
+  {
    "slug": "pride",
    "name": "Pride",
    "venue": "Bridge Theatre",
@@ -1859,6 +2069,21 @@
    "opening": "2026-12-02",
    "closing": "2027-01-23",
    "bookingFrom": "2026-09-24",
+   "priorityFrom": null
+  },
+  {
+   "slug": "romeo-and-juliet-london-coliseum",
+   "name": "Romeo & Juliet",
+   "venue": "London Coliseum",
+   "venueSlug": "london-coliseum",
+   "location": "West End",
+   "genre": "Dance",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-01-14",
+   "closing": "2027-01-24",
+   "bookingFrom": null,
    "priorityFrom": null
   },
   {
@@ -2274,11 +2499,26 @@
    "location": "Off-West End",
    "genre": "Play",
    "popularity": "High",
-   "firstPreview": "2026-11-17",
+   "firstPreview": "2026-11-19",
    "pressNight": "2026-11-30",
    "opening": "2026-11-13",
    "closing": null,
    "bookingFrom": "2026-03-26",
+   "priorityFrom": null
+  },
+  {
+   "slug": "the-legend-of-georgia-mcbride",
+   "name": "The Legend of Georgia McBride",
+   "venue": "@sohoplace Theatre",
+   "venueSlug": "sohoplace-theatre",
+   "location": "West End",
+   "genre": "Entertainment",
+   "popularity": null,
+   "firstPreview": null,
+   "pressNight": null,
+   "opening": "2027-02-02",
+   "closing": "2027-05-15",
+   "bookingFrom": null,
    "priorityFrom": null
   },
   {
@@ -2430,6 +2670,21 @@
    "closing": "2027-08-07",
    "bookingFrom": null,
    "priorityFrom": null
+  },
+  {
+   "slug": "the-rabbi-the-wife-and-the-prick",
+   "name": "The Rabbi, The Wife & The Prick",
+   "venue": "Hampstead Theatre",
+   "venueSlug": "hampstead-theatre",
+   "location": "Off-West End",
+   "genre": "Play",
+   "popularity": null,
+   "firstPreview": "2027-02-26",
+   "pressNight": "2027-03-09",
+   "opening": "2027-02-26",
+   "closing": "2027-04-03",
+   "bookingFrom": "2026-11-19",
+   "priorityFrom": "2026-11-12"
   },
   {
    "slug": "the-radium-girls",
