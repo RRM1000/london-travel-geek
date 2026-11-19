@@ -86,7 +86,7 @@
   "recentlyDone": [
     {
       "date": "2026-11-19",
-      "what": "Disney in London (801eaf7a): The Lion King and Magical Mondays, High School Musical, The Greatest Showman, Secret Cinema Pirates, Mundo Pixar, Disney On Ice x2, both Disney Stores, Old Royal Naval College filming locations; linked from nine guides. Immersive page: wrong O2 photo removed, Secret Cinema facts corrected. CBG: exchange rates moved to api/rates.js (586c991b), schedule removed; push after the 20 Nov billing reset. Unpushed."
+      "what": "Disney in London (801eaf7a): The Lion King and Magical Mondays, High School Musical, The Greatest Showman, Secret Cinema Pirates, Mundo Pixar, Disney On Ice x2, both Disney Stores, Old Royal Naval College filming locations; linked from nine guides. Immersive page: wrong O2 photo removed, Secret Cinema facts corrected. CBG: exchange rates moved to api/rates.js (586c991b), schedule removed; push after the 20 Nov billing reset. Unpushed. Then (7842e793): official Disney Princess Afternoon Tea at the Park Lane Hilton (£70/£45, Frozen chapter from 26 Nov), Winnie statue at London Zoo, Mundo Pixar and Disney On Ice prices; Dior advent-calendar shopfront added to the lights walk and Christmas guide."
     },
     {
       "date": "2026-11-19",
