@@ -259,3 +259,5 @@ Lively, well connected and good value against Zone 1 proper — but loud at week
 - **Whitechapel** — East and cheaper, on the Elizabeth line and District line.
 
 For the hotels compared, which streets are loud at 2am, and the areas within fifteen minutes where the same night costs half as much, see [where to stay in Shoreditch](/articles/where-to-stay-shoreditch/).
+
+To work for a few hours, [Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/) covers Ozone on Leonard Street and the free alternatives nearby.

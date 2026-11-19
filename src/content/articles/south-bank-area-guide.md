@@ -284,3 +284,5 @@ The free [Imperial War Museum](/articles/imperial-war-museum-london-guide/) is a
 For a drink on a roof, 12th Knot at Sea Containers and Forza Wine on the National Theatre's terrace are in our [rooftop bars guide](/articles/best-rooftop-bars-london/); the Queen Elizabeth Hall Roof Garden reopens in spring 2027.
 
 Our [South Bank hotel guide](/articles/where-to-stay-south-bank/) compares the hotels from County Hall to Borough.
+
+To work for a few hours, [Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/) covers the Royal Festival Hall's laptop counters.

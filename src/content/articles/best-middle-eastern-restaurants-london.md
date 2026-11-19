@@ -458,3 +458,4 @@ Berenjak and Bubala each run several London restaurants and are in the [chain re
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**
 - 🎨 **[Shoreditch Area Guide](/articles/shoreditch-area-guide/)**
 - 🛍️ **[Notting Hill Area Guide](/articles/notting-hill-area-guide/)**
+- 🪑 **[Eating Alone in London](/articles/eating-alone-london/)**: counters and bars that take a table for one, and how each books

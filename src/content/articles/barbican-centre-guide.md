@@ -132,5 +132,6 @@ The Barbican runs **captioned**, **BSL-interpreted**, **audio-described** and **
 - 🌙 **[Outdoor Cinema in London](/articles/outdoor-cinema-london/)**: the Barbican's August screenings in the Sculpture Court, and the other open-air screens
 - 🖼️ **[Best Galleries in London](/articles/best-galleries-london/)**
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)**
+- 💻 **[Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/)**: where to work, with hours and laptop rules, and the free alternatives
 
 *Prices and opening hours as of November 2026. The listings are read from the Barbican's box office and refresh daily.*

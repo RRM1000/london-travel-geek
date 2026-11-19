@@ -274,3 +274,5 @@ A base for Eurostar and trips north.
 - **[Bloomsbury](/articles/where-to-stay-bloomsbury/)** — Fifteen minutes south, quieter and better value, still walkable to the Eurostar.
 
 Our [King's Cross hotel guide](/articles/where-to-stay-kings-cross/) compares the hotels around the stations.
+
+To work for a few hours, [Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/) covers the British Library's free study spaces and Caravan on Granary Square.

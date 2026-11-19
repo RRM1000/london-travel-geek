@@ -237,6 +237,8 @@ SoulCycle trades from one studio at 3–4 Great Marlborough Street, W1F 7HH. Dig
 
 **Fitness First has a pool at 7 of its 17 London clubs**: Baker Street (17m), Bishopsgate (16m), London Bridge Cottons, Hammersmith, Highbury, Streatham (20m) and Thomas More Square in Wapping (12m). No pool at Balham, Brixton, Clapham Junction, Oxford Circus, Queens Park or The Strand. **Marylebone has no pool of its own**; it offers "access to our nearby Baker Street club, less than a mile away" at the same £120 that Baker Street charges.
 
+**For a hotel pool and spa session without staying**, [our hotel spa day passes guide](/articles/hotel-spa-pool-day-passes-london/) prices the four-hour £80 pass at St Pancras London and the others.
+
 ### The 50-metre pools, and the big outdoor ones
 
 | Pool | Where | Operator | Size | A single swim |

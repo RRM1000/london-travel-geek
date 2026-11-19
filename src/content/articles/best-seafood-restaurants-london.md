@@ -85,7 +85,7 @@ Sit at the counter for half a dozen and the fish pie rather than booking the din
 
 *The crustacea counter at J Sheekey.*
 
-**Book:** [j-sheekey.co.uk](https://j-sheekey.co.uk/) · 28–34 St Martin's Court, WC2N 4AL
+**Book:** [j-sheekey.co.uk](https://j-sheekey.co.uk/) · 28–32 St Martin's Court, WC2N 4AL
 
 ### Scott's, Mayfair
 
@@ -479,3 +479,4 @@ Everything else named by two or more independent sources, plus single-source pic
 - ⭐ **[Special Occasion Restaurants in London](/articles/special-occasion-restaurants-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🏙️ **[Borough and South Bank Area Guide](/articles/south-bank-area-guide/)**
+- 🪑 **[Eating Alone in London](/articles/eating-alone-london/)**: counters and bars that take a table for one, and how each books

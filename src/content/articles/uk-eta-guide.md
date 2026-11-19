@@ -95,7 +95,7 @@ Nearly every visa-free visitor to the UK, including those from the United States
 
 ## Transiting and changing planes
 
-**Whether a layover needs an ETA comes down to one question: do you pass through UK border control?** **"Airside"** transit means you never pass through UK border control before boarding your connecting flight — no ETA required. **"Landside"** transit means you do pass through border control, even if you come back through it and leave again within a short window (usually 24 hours) — and that does require an ETA, exactly as if you were visiting. If you're unsure which applies to your connection, check with your airline before you fly.
+**Whether a layover needs an ETA comes down to one question: do you pass through UK border control?** **"Airside"** transit means you never pass through UK border control before boarding your connecting flight — no ETA required. **"Landside"** transit means you do pass through border control, even if you come back through it and leave again within a short window (usually 24 hours) — and that does require an ETA, exactly as if you were visiting. If you're unsure which applies to your connection, check with your airline before you fly. Our [Heathrow layover guide](/articles/heathrow-layover-london/) works out how much time a layover leaves in London once you allow for the return to the airport.
 
 <div data-stay-strip></div>
 

@@ -213,4 +213,6 @@ The cooking is modern French. Two sites — the **Covent Garden** room is a wine
 
 For a guided tasting instead of a bar, our [food tours guide](/articles/london-food-tours/) lists an Italian wine tasting in a Mayfair church and an English vineyard day trip.
 
+Eating alone with a glass? [Eating Alone in London](/articles/eating-alone-london/) lists the counters that take a single diner.
+
 *Wine bars change hours often: check before a long journey.*

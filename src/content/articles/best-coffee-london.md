@@ -99,7 +99,7 @@ The food is toasties, banana bread and a short breakfast list.
 
 **Walk-in only, three minutes from Chancery Lane**, and busiest with the Leather Lane lunch trade between noon and 2pm, when the street market outside is at full volume.
 
-**It keeps weekday hours.** Leather Lane is an office-and-market street, so weekends are quiet or shut; check before a Saturday trip. Mid-morning is the quiet window.
+**It opens seven days**: Monday to Friday 7.30am to 4.30pm, Saturday 8am to 5pm and Sunday 9am to 5pm. Leather Lane is an office-and-market street, so mid-morning is the quiet window.
 
 ### Kaffeine, Fitzrovia
 
@@ -185,7 +185,7 @@ An all-day kitchen with its own roastery attached, in a big industrial room.
 
 **Bookings are taken at Caravan's London sites**, unlike most of this page, and are worth making at weekends when brunch runs long.
 
-**It is the one entry here you can treat as a meal.** Full kitchen all day, with room to sit and work.
+**It is the one entry here you can treat as a meal.** Full kitchen all day, with room to sit and work. Caravan's King's Cross restaurant, which serves until 10.30pm Monday to Saturday, is in our [laptop-friendly cafés guide](/articles/laptop-friendly-cafes-london/#caravan-kings-cross).
 
 **11–13 Exmouth Market, EC1R 4QD**, ten minutes from Farringdon and about the same from Angel.
 
@@ -388,6 +388,7 @@ A flat white costs £3.50–£4.50 almost everywhere, so the saving is not in th
 
 ## Continue planning your London trip
 
+- 💻 **[Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/)**: where you can work, hours and laptop rules, and the free alternatives
 - 🍳 **[The Best Breakfast and Brunch in London](/articles/best-breakfast-brunch-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🎪 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)**

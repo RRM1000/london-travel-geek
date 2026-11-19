@@ -416,3 +416,4 @@ Padella, Bancone and Lina Stores each run several London restaurants; the [chain
 - 🌿 **[Best Vegetarian and Vegan Restaurants](/articles/best-vegetarian-vegan-restaurants-london/)**
 - 🎭 **[Covent Garden Area Guide](/articles/covent-garden-area-guide/)**
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**
+- 🪑 **[Eating Alone in London](/articles/eating-alone-london/)**: counters and bars that take a table for one, and how each books

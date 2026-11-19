@@ -216,6 +216,8 @@ Two hidden bars sit off Whitehall: The Spy Bar in the old War Office's rooms 006
 
 **Avoid:** Sundays if you want to go inside the Abbey. Also check for state occasions and remembrance events, which close roads across the whole area.
 
+The days the royal family is on show here, with where to stand, are in our [guide to seeing the royal family in London](/articles/see-the-royal-family-london/).
+
 Comparing neighbourhoods? [Best areas to visit in London](/articles/best-areas-to-visit-london/) sets them side by side by what each is best for, how long it takes and the best day to go.
 
 ## Walking routes

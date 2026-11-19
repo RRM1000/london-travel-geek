@@ -44,7 +44,7 @@ The Heathrow Express stops at Paddington and goes no further; the **Elizabeth li
 
 > ⚠️ **No Elizabeth line or Heathrow Express trains run to or from Heathrow from Sunday 27 to Wednesday 30 December 2026, or on Saturday 28 and Sunday 29 November.** The Piccadilly line is the only rail link between central London and the airport on those dates. Both services resume on Thursday 31 December, and Paddington is closed to Great Western trains until Monday 4 January for the Dolphin Junction upgrade ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)).
 
-> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport.
+> 🛂 **Flying in from abroad?** Unless you're British or Irish, a visa-free visit to the UK now needs an [ETA](/articles/uk-eta-guide/) approved before you travel: £20 on GOV.UK or the official UK ETA app, and you can't get one at the airport. On a layover? [What a Heathrow layover leaves you time for](/articles/heathrow-layover-london/) covers leaving the airport, the ETA and what 8, 10 and 12 hours buy.
 
 ---
 
@@ -163,6 +163,7 @@ Heathrow operates four active passenger terminals: **Terminals 2, 3, 4, and 5**.
 * 💳 [Oyster Card vs. Contactless Guide](/articles/oyster-card-guide-london/)
 * 🚇 [How to Use the London Underground](/articles/how-to-use-the-london-underground/)
 * 💷 [Money in London: Cash, Cards and ATMs](/articles/money-in-london/)
+* ✈️ [Heathrow Layover: Can You Leave the Airport and See London?](/articles/heathrow-layover-london/) — the ETA rule, the three-hour check-in and what each layover length buys
 * 🧳 [Luggage Storage in London](/articles/luggage-storage-london/) — left luggage at every terminal, and Heathrow's own hours and price
 
 ---

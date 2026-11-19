@@ -151,7 +151,7 @@ Behind the hill, and at 2,500 acres the largest of London's Royal Parks, so arri
 
 **The Isabella Plantation** is a fenced woodland garden in the middle of the park, best in late April and May for the azaleas, free and open all year. **Pen Ponds** are where the deer come to drink.
 
-**Around 600 red and fallow deer roam free.** Keep 50 metres away, never photograph them close up, and during the **autumn rut and the spring birthing season** the park authorities ask you to give them considerably more room.
+**Around 600 red and fallow deer roam free.** Keep 50 metres away, never photograph them close up, and during the **autumn rut and the spring birthing season** the park authorities ask you to give them considerably more room. Where to look, the gate and cull dates and the dog rules are in our [guide to seeing the deer in Richmond Park and Bushy Park](/articles/richmond-park-deer/).
 
 > ⚠️ **Pedestrian gates open 24 hours except during the two six-week deer culls** — November to early December and February to early March — when they shut 8pm to 7.30am on every night but Friday and Saturday. Vehicle gates close at dusk year-round. **Pembroke Lodge has a free 200-space car park**, one of only seven in the whole park, and it is the practical way in for most visitors.
 
@@ -164,6 +164,7 @@ Behind the hill, and at 2,500 acres the largest of London's Royal Parks, so arri
 ## Go deeper
 
 - **[The best parks and gardens in London](/articles/best-parks-gardens-london/)** — Richmond Park against the rest, and the other places to find deer and old oaks.
+- **[Seeing the deer in Richmond Park and Bushy Park](/articles/richmond-park-deer/)** — the rut, the birthing season, the 50-metre rule and the gate times.
 - **[The best views in London](/articles/best-views-london/)** — including the one from Richmond Hill.
 
 ## Where to eat and drink

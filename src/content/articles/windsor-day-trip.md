@@ -266,6 +266,7 @@ Five minutes over Windsor Bridge. **Eton College's museums and exhibition galler
 
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — which attractions are really in the scheme, and why contactless disqualifies you.
 - 🧱 **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** — tickets from £32, the 702 bus from the station, and every height limit.
+- 👑 **[How to see the royal family in London](/articles/see-the-royal-family-london/)** — including how to apply for tickets to Garter Day at Windsor.
 - ⚡ **[Harry Potter Studio Tour](/articles/harry-potter-studio-tour/)** — the other big day trip out of London, and the one where you cannot buy on the door.
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless capping works on a day like this one.
 - 🏛️ **[Historic houses in London](/articles/historic-houses-london/)** — palaces and grand interiors without leaving the city.

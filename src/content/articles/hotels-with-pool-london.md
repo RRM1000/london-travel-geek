@@ -324,7 +324,7 @@ Every swimming pool above, sorted by area. Each area's stay guide covers the hot
 
 ## Before you book
 
-**Swimming without staying.** The Berkeley sells no pool day pass. Park Plaza Westminster Bridge sells two hours of its spa for £45, and Corinthia's Spa Experience Pass is £175 on weekdays and £200 at weekends. For a swim anywhere in London without a hotel bill, our [London gyms guide](/articles/best-gyms-london/#where-to-swim) prices the council pools and lidos, from £3.20 a swim.
+**Swimming without staying.** The Berkeley sells no pool day pass. Park Plaza Westminster Bridge sells two hours of its spa for £45, and Corinthia's Spa Experience Pass is £175 on weekdays and £200 at weekends; St Pancras London sells a four-hour pass for £80, and our [hotel spa day passes guide](/articles/hotel-spa-pool-day-passes-london/) prices the rest. For a swim anywhere in London without a hotel bill, our [London gyms guide](/articles/best-gyms-london/#where-to-swim) prices the council pools and lidos, from £3.20 a swim.
 
 *Pool sizes, hours and children's times are from each hotel's own website, September to November 2026; hotels change them, so confirm when you book.*
 
@@ -333,6 +333,7 @@ Every swimming pool above, sorted by area. Each area's stay guide covers the hot
 - 👨‍👩‍👧 **[Best Family Hotels in London](/articles/best-family-hotels-london/)** - which room sleeps two adults and two children; County Hall, The Berkeley, Mandarin Oriental Hyde Park and Town Hall are there too
 - 🧭 **[Best Areas to Stay in London](/articles/best-areas-to-stay-in-london/)** - which part of the city to sleep in before you choose the pool
 - 🐕 **[Dog-Friendly Hotels in London](/articles/dog-friendly-hotels-london/)** - The Langham and Mandarin Oriental Hyde Park take dogs too: the fee, the weight limit and where the dog can go
+- 💆 **[Hotel Spa and Pool Day Passes](/articles/hotel-spa-pool-day-passes-london/)** - the hotels that sell non-guests a pool and spa session, with price, hours and age limits
 - 🏊 **[Best Gyms in London](/articles/best-gyms-london/)** - day passes, the 50-metre public pools and the lidos
 - 🏨 Area stay guides for the hotels above: [Chelsea and Knightsbridge](/articles/where-to-stay-chelsea/), [Mayfair](/articles/where-to-stay-mayfair/), [Marylebone](/articles/where-to-stay-marylebone/), [Covent Garden](/articles/where-to-stay-covent-garden/), [Soho and the West End](/articles/where-to-stay-soho-west-end/), [Westminster](/articles/where-to-stay-westminster/), [South Bank](/articles/where-to-stay-south-bank/), [City of London](/articles/where-to-stay-city-of-london/), [Bermondsey and London Bridge](/articles/where-to-stay-bermondsey/), [Shoreditch](/articles/where-to-stay-shoreditch/), [Canary Wharf](/articles/where-to-stay-canary-wharf/) and [King's Cross](/articles/where-to-stay-kings-cross/)
 - 💷 **[Best Budget Hotels in London](/articles/best-budget-hotels-london/)** - the cheapest central hotels, priced on five nights, for when a pool matters less than the bill

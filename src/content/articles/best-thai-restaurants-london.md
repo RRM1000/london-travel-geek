@@ -339,3 +339,4 @@ The repertoire is Bangkok-standard: **pad thai, green and red curry, pad krapow*
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**
 - 🎨 **[Shoreditch Area Guide](/articles/shoreditch-area-guide/)**
+- 🪑 **[Eating Alone in London](/articles/eating-alone-london/)**: counters and bars that take a table for one, and how each books

@@ -214,6 +214,8 @@ On a **Monday, Wednesday or Friday**:
 
 For a complete 11-stop self-guided route connecting Buckingham Palace and St James's Park with Big Ben, the Supreme Court, Westminster Abbey and Trafalgar Square, follow our [Westminster walking route](/articles/westminster-walk/).
 
+To see the King and the royal family rather than the soldiers, see [how to see the royal family in London](/articles/see-the-royal-family-london/): the Trooping the Colour balcony, the State Opening and Remembrance Sunday.
+
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="buckingham-palace-changing-of-the-guard-guide-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="413142,49917,530998"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
 ---

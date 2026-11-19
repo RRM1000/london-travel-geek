@@ -257,3 +257,5 @@ Transport links are good, and the area is quiet at night.
 - **Tower Hill** — Convenient for the Tower and the river, and connected to the South Bank on foot.
 
 Our [City of London hotel guide](/articles/where-to-stay-city-of-london/) compares the hotels and the weekend rates.
+
+To work for a few hours, [Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/) covers the Santander Work Café on Cheapside, Notes by St Paul's and the Barbican.

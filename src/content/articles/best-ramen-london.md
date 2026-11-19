@@ -418,3 +418,4 @@ The **Shio Paitan Ramen** is a slow-cooked chicken broth with dashi, seared chic
 - 💷 **[Cheap Eats in London: Places to Eat Well Under £15](/articles/cheap-eats-london/)**
 - 🌙 **[Late-Night Eating in London: Where to Eat After Midnight](/articles/late-night-eating-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Bites](/articles/eat-in-london-guide/)**
+- 🪑 **[Eating Alone in London](/articles/eating-alone-london/)**: counters and bars that take a table for one, and how each books

@@ -58,6 +58,8 @@ This guide is about autumn colour: which trees, in which named spot inside each 
 
 *Richmond, then bus or a walk · Cited by 7 sources · Free*
 
+The deer rut runs alongside the colour: see [where and when to see the deer in Richmond Park and Bushy Park](/articles/richmond-park-deer/), including the 50-metre rule and the early-November cull closures.
+
 Seven sources name it, each for a different reason: Londonist, Solosophie, The Tab, Metro, BBC News, the Independent and a YouTube walk. Londonist calls it "London's quintessential autumn spot" and Solosophie says it "may well be the best spot of all". Metro highlights the Tamsin Trail, a seven-mile walking and cycling loop around the perimeter with woodpeckers and green parakeets to spot. In the Isabella Plantation, Japanese maples turn "brilliant shades of scarlet, orange and gold" through the Acer Glade, among tupelo, swamp cypress and dawn redwood.
 
 ![A tree in scarlet and orange reflected in a still pond in Richmond Park](../../assets/articles/best-places-autumn-leaves-london/richmond-park-autumn-reflection.jpg)

@@ -65,7 +65,7 @@ Excess Baggage Company gives a **20% discount on 15 or more items**, and its own
 
 ## Airports: four with a desk, two without
 
-**Heathrow, Gatwick, Stansted and Luton** all have a left-luggage desk, and all four are run by **Excess Baggage Company** on the **same tariff as the stations** (£10 up to 3 hours, up to £40 for 72). **Heathrow has ten of them**, six in check-in and one in each terminal's arrivals hall. **Gatwick has no lockers**, and **London City and Southend have neither a desk nor a locker.**
+**Heathrow, Gatwick, Stansted and Luton** all have a left-luggage desk, and all four are run by **Excess Baggage Company** on the **same tariff as the stations** (£10 up to 3 hours, up to £40 for 72). **Heathrow has ten of them**, six in check-in and one in each terminal's arrivals hall. **Gatwick has no lockers**, and **London City and Southend have neither a desk nor a locker.** On a layover, [our Heathrow layover guide](/articles/heathrow-layover-london/) shows how many hours you have to spend once the bags are down.
 
 ![A Heathrow arrivals baggage reclaim hall, carousel 10 under a ceiling of white discs, with the Customs and Border Force channel ahead and passengers walking out towards the exit](../../assets/articles/luggage-storage-london/heathrow-terminal-baggage.jpg)
 

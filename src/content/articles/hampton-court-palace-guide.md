@@ -196,6 +196,7 @@ The palace has cafés inside the gate, and picnics are allowed on the lawns in H
 
 - 🏯 **[Kew Gardens Guide](/articles/kew-gardens-guide/)** — tickets, gates and the glasshouses, a short hop upriver.
 - 🦌 **[Richmond Area Guide](/articles/richmond-area-guide/)** — the deer park, the river and Richmond Hill.
+- 🦌 **[Richmond Park and Bushy Park deer](/articles/richmond-park-deer/)** — Bushy Park's deer sit beside the palace; the rut, the rules and the gates.
 - 🏛️ **[London's Historic Houses and Churches](/articles/historic-houses-london/)** — 17 more palaces, house museums and chapels to visit.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** — Historic Royal Palaces' other big ticket, in Zone 1.
 - 👑 **[Kensington Palace Guide](/articles/kensington-palace-guide/)** — the third Historic Royal Palaces site on the same membership, open Wednesday to Sunday.

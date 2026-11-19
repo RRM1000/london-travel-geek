@@ -51,6 +51,8 @@ London is nearly half green space. Beyond the famous parks are a bombed Wren chu
 
 The largest of the Royal Parks, with around 600 **free-roaming red and fallow deer**.
 
+For where to look, the autumn rut and the 50-metre rule, see our [guide to the deer in Richmond Park and Bushy Park](/articles/richmond-park-deer/).
+
 The Isabella Plantation, a woodland garden inside the park, peaks with the azaleas in late April and May.
 
 **It is big enough to need a plan.** Pick a gate near what you want: Pembroke Lodge for the protected view to St Paul's, Isabella for the planting.

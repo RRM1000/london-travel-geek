@@ -243,6 +243,7 @@ The [Milestone Hotel](hotel:the-milestone-hotel) faces Kensington Palace, and ou
 - 🦕 **[South Kensington Area Guide](/articles/south-kensington-area-guide/)** — the museums, a walk south across the park.
 - 🦴 **[Natural History Museum Guide](/articles/natural-history-museum-guide/)** — a walk south of the palace.
 - 👑 **[Hampton Court Palace Guide](/articles/hampton-court-palace-guide/)** — Historic Royal Palaces' Tudor palace upriver, on the same membership.
+- 👑 **[How to see the royal family in London](/articles/see-the-royal-family-london/)** — Trooping the Colour, the State Opening and the other public occasions.
 - 🏰 **[Tower of London Guide](/articles/tower-of-london-guide/)** — the other Historic Royal Palaces site in Zone 1.
 - 🎟️ **[National Rail 2FOR1 London Attractions](/articles/national-rail-2for1-london-attractions/)** — every attraction with a rail-ticket offer.
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)** — markets, light trails and ice rinks.

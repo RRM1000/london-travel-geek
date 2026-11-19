@@ -232,3 +232,5 @@ Central and convenient, but noisy. Ask for a room away from the street.
 - **Covent Garden** — East, calmer after the market closes, and better for theatre.
 
 [Where to stay in Soho and the West End](/articles/where-to-stay-soho-west-end/) compares the hotels on price and room size, says what the windowless formats cost, and names the streets still loud at 2am.
+
+Eating alone in Soho: [Barrafina on Dean Street](/articles/eating-alone-london/#barrafina-dean-street), [Kiln](/articles/eating-alone-london/#kiln-soho), [Impala](/articles/eating-alone-london/#impala-soho), [Bocca di Lupo](/articles/eating-alone-london/#bocca-di-lupo-soho) and The Palomar all have counters, set out in [Eating Alone in London](/articles/eating-alone-london/).

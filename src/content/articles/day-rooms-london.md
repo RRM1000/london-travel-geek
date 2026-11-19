@@ -84,11 +84,11 @@ Dayuse's filter bar sets **time of arrival**, **time of departure** and **durati
 
 ## The four reasons people actually do it
 
-**The layover.** A nine-hour connection, or a 6am arrival against a 3pm check-in: a bed, a shower and somewhere to leave a suitcase for less than the price of a night.
+**The layover.** A nine-hour connection, or a 6am arrival against a 3pm check-in: a bed, a shower and somewhere to leave a suitcase for less than the price of a night. If you would rather go into town, [our Heathrow layover guide](/articles/heathrow-layover-london/) works out how long each layover leaves you.
 
 **Somewhere to work.** A desk, a door, wifi and a shower. Marlin Waterloo's 7am–3pm and 8am–4pm windows suit this, and Waterloo is where the Southeastern and South Western trains arrive.
 
-**A pool or a spa afternoon.** Several listings include pool access. **Leonardo Royal Tower Bridge** and **Leonardo Royal St Pauls** both include it, as does Warren House out at Kingston.
+**A pool or a spa afternoon.** Several listings include pool access, and some hotels sell a spa session on its own: see [hotel spa and pool day passes](/articles/hotel-spa-pool-day-passes-london/). **Leonardo Royal Tower Bridge** and **Leonardo Royal St Pauls** both include it, as does Warren House out at Kingston.
 
 **The late flight.** You checked out at 10am and fly at 10pm. Evening windows exist for exactly this — 4pm–10pm at Novotel London West and the Atrium, 4pm–11pm at DoubleTree Kingston, 3pm–9pm at Holiday Inn Express ExCeL, 2pm–8pm at the Wesley.
 

@@ -206,3 +206,4 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - 🚶 **[Thames Walks](/articles/london-walks-along-the-thames/)** and [canal walks](/articles/best-canal-walks-london/)
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)** — the cheapest wet-day plan is usually the best one
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — which months actually cost less, with our own hotel-rate sample
+- 💻 **[Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/)**: where to work, with hours and laptop rules, and the free alternatives

@@ -112,7 +112,7 @@ Aged beef over coals, whole fish, and vegetables given the same treatment, such 
 
 Order from the specials board rather than the printed menu: **prawns, razor clams, tortilla**, and whatever came in that morning, cooked a foot in front of you. The **jamón** is carved to order.
 
-**You can book** through its own site, and walk-ins are taken if there is space at the counter. Five London sites: Dean Street, Adelaide Street, Drury Lane, Coal Drops Yard and Borough Yards.
+**You can book** through its own site at most branches, and walk-ins are taken if there is space at the counter. **Dean Street is walk-in only.** Five London sites: Dean Street, Adelaide Street, Drury Lane, Coal Drops Yard and Borough Yards.
 
 ### José, Bermondsey
 
@@ -294,3 +294,4 @@ Barrafina is also in the [chain restaurants guide](/articles/best-chain-restaura
 - ⭐ **[Special Occasion Restaurants in London](/articles/special-occasion-restaurants-london/)**
 - 🏙️ **[Bermondsey Area Guide](/articles/bermondsey-area-guide/)**
 - 🛍️ **[Mayfair Area Guide](/articles/mayfair-area-guide/)**
+- 🪑 **[Eating Alone in London](/articles/eating-alone-london/)**: counters and bars that take a table for one, and how each books
