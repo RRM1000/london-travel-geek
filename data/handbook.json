@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "inProgress": [],
   "nextUp": [
     "Food video creators into the food guides. Creator Picks page (https://claude.ai/artifact/E3BdmPFHKrtgLvEAxEQDqa) reads 494 videos from 10 YouTube creators (2025-26): 698 venues, 277 already on the site, 85 in our data on no page, 335 new (about half with names from auto-captions, to verify). Next: record Aton Of Food, Noodle alla Gola and Jacob King as tier-D sources in the topics they cover; verify the uncertain names; retry Gary Eats, Hannah Ricketts and What's Good London with correct handles; add the strongest new openings to guides. Nothing recorded yet - waiting on Rob's go. Working files: scratchpad/social (collect.mjs, xref.mjs, build-page.mjs).",
@@ -29,6 +29,7 @@
     "Month guides for May to August 2027 (March and April done 16 Nov); outdoor cinema 2027 season dates in spring."
   ],
   "waitingOnRob": [
+    "Solo travel hub: add solo-travel-london to the Plan menu (capped at eight links, so one would have to go)?",
     "Prices on GetYourGuide tours that are still live drift too (e.g. a Stonehenge tour the page lists at £140.25 is now from £165). The weekly check only catches deactivated tours; say if you want a price sweep.",
     "Optional: request indexing in Search Console for hen-do-london and where-to-stay-south-kensington (the SEO refresh is live; Google will re-crawl the others on its own).",
     "Best Sushi (branch ltg-sushi) still not live: needs venue photos, Sheet rows and booking links checked.",
@@ -81,6 +82,18 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-19",
+      "what": "Christmas pubs in London (christmas-pubs-london): 19 decorated and fireside pubs, central and outer London, with photos of the Churchill Arms, Oyster Shed, The Gun, The Flask, The Wrestlers, London Apprentice and Trafalgar Tavern. Linked from the Christmas hub, walks, markets, Christmas Day, pubs guides and four area guides (unpushed, de6a13b3)."
+    },
+    {
+      "date": "2026-11-19",
+      "what": "Solo travel: hub solo-travel-london plus things-to-do-alone-london, meet-people-london and solo-traveller-tours-london, linked from 14 related guides (unpushed, 33ec1345). The theatre-alone post is for London Theatre Geek."
+    },
+    {
+      "date": "2026-11-19",
+      "what": "New guides: saunas and cold plunges, Heathrow layover, hotel spa and pool day passes, Richmond Park deer, seeing the royal family, eating alone (now with food halls and markets), laptop-friendly cafés. All linked both ways (unpushed: e4effd78, 58cd8ccf, add07ed7)."
+    },
     {
       "date": "2026-11-18",
       "what": "GetYourGuide dead links: GYG's dashboard flagged 45 redirected deep links. A full check found 81 deactivated activities (16 LTG, 65 CBG), now replaced with live equivalents or removed, with page prices updated (unpushed: LTG f7c0afc2, CBG 5e467912). New scripts in both repos: scripts/audit-gyg-activities.mjs (checks every GYG id in src/ via GYG's widget feed, ~15 min on CBG) and scripts/gyg-search.mjs (search GYG's live catalogue, or --ids= to check ids). Weekly scheduled task 'gyg-dead-activity-check' runs the audit on both live sites every Monday at 8am and reports."
