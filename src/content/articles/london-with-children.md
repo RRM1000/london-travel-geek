@@ -311,7 +311,7 @@ A circus version of *A Christmas Carol* with aerialists, acrobats and fire breat
 
 *24 December 2026 to 3 January 2027 · North Greenwich*
 
-An ice show following the search for Tinker Bell through scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*, with Stitch causing trouble. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. [Dates and tickets](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic).
+An ice show following the search for Tinker Bell through scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*, with Stitch causing trouble. The Lion King, Mundo Pixar and the other Disney shows are in [Disney in London](/articles/disney-london/). Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. [Dates and tickets](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic).
 
 ### Theatre for under-eights
 
@@ -329,6 +329,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)**
 - 🏨 **[Apartment hotels in London](/articles/aparthotels-london/#family-apartments-with-two-or-more-bedrooms)** — the two- and three-bedroom family apartments with a kitchen, cots and a washer-dryer
 - 🎒 **[February Half Term in London](/articles/february-half-term-london/)** — 15 to 19 February 2027: the Imagine festival, what to book and the Tube strike day
 - 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go

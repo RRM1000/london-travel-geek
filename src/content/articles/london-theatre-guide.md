@@ -159,6 +159,7 @@ We run a **[dedicated London theatre site](https://www.londontheatregeek.co.uk/)
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🎤 **[The Best Cabaret in London](/articles/best-cabaret-london/)**
 - 🏆 **[Olivier Awards Tickets](/articles/olivier-awards-tickets/)** — the free green-carpet places and how to get one

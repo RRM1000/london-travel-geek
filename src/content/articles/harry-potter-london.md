@@ -283,6 +283,7 @@ Day one as above without the theatre. Day two: Euston at 9am, Watford Junction, 
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)**
 - 🚶 **[The Harry Potter Filming Locations Walk](/articles/harry-potter-filming-locations-walk/)**
 - 🎸 **[The Beatles in London](/articles/beatles-london/)**
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**

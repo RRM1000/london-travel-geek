@@ -201,7 +201,7 @@ Peak and off-peak sessions are priced differently, so check the booking page. **
 
 ### Disney On Ice presents Discover the Magic, The O2
 
-**24 December 2026 – 3 January 2027.** An ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*, in The O2 arena. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January; The O2's page lists every performance in between. [Dates and tickets](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic).
+**24 December 2026 – 3 January 2027.** An ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*, in The O2 arena. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January; The O2's page lists every performance in between. [Dates and tickets](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic). Every other Disney show in town is in [Disney in London](/articles/disney-london/).
 
 ### The Snowflake, Little Angel Theatre
 
@@ -253,6 +253,7 @@ Every show below comes from the venues' own box offices and Ticketmaster, update
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)**
 - 🎄 **[Christmas in London](/articles/christmas-in-london/)**: markets, lights, ice rinks and carols
 - 🛍️ **[Christmas Markets in London](/articles/christmas-markets-london/)**: dates, hours and prices for every market
 - 🎡 **[Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/)**: every ride, attraction and ticket price

@@ -144,6 +144,7 @@ Two parks sit side by side, and a 1-day ticket covers one or both. Opening hours
 
 ## Continue planning your trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)** — The Lion King, Secret Cinema's Pirates of the Caribbean, Mundo Pixar and the Disney Stores, if the trip starts in London.
 - 🇫🇷 **[Paris day trip](/articles/paris-day-trip/)** — the Eurostar fares, the border checks and what to do in the city if you have a day rather than a park.
 - 🗺️ **[Day trips from London](/articles/day-trips-from-london/)** — what the others cost, how long they take, and which days they are shut.
 - 🎢 **[Theme parks near London](/articles/theme-parks-near-london/)** — Thorpe Park, Chessington and LEGOLAND, all under an hour by train, if Paris is too far for a day.

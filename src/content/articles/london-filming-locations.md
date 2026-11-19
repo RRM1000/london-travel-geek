@@ -541,6 +541,7 @@ To be inside a production as a visitor, take free studio audience tickets instea
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)**
 - 🎨 **[London's Street Art and Banksys](/articles/london-street-art/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🏛️ **[Historic Houses in London](/articles/historic-houses-london/)**

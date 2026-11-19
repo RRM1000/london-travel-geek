@@ -229,7 +229,7 @@ Going for the **National Television Awards**? Seat prices, the red-carpet packag
 
 The **Design District**, 16 low-rise studio buildings by eight architects, sits opposite the arena, about a minute from the station, and has its own canteen for a quieter meal before a show.
 
-**Disney On Ice presents Discover the Magic** runs **24 December 2026 to 3 January 2027** in The O2 arena: an ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. The O2's [event page](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic) lists every performance and sells tickets through AXS.
+**Disney On Ice presents Discover the Magic** runs **24 December 2026 to 3 January 2027** in The O2 arena: an ice show built around the search for Tinker Bell, with scenes from *Coco*, *Moana*, *Beauty and the Beast* and *Frozen*. Doors open at 12pm and 3.30pm on Christmas Eve and at 9.30am and 1.30pm on 2 and 3 January. The O2's [event page](https://www.theo2.co.uk/events/detail/disney-on-ice-presents-discover-the-magic) lists every performance and sells tickets through AXS. The rest of Disney's London season is in [Disney in London](/articles/disney-london/).
 
 **Pet Shop Boys play The O2 arena on Friday 9 and Saturday 10 July 2027** in *Dreamworld MAX: The Greatest Hits Live*, with Saint Etienne and Boy Harsher as guests on both nights, as part of the arena's 20th anniversary. General sale is at **10am on Friday 13 November 2026**, after presales at 10am on Wednesday 11 November, and the links are on the [band's site](https://www.petshopboys.co.uk/).
 
@@ -299,6 +299,7 @@ Our [luggage storage guide](/articles/luggage-storage-london/) covers the citywi
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)**
 - 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the year's big sporting dates across London's stadiums and the river
 - 🎤 **[London Concerts 2027](/articles/london-concerts-2027/)** — Olivia Rodrigo's eleven nights, The O2's 20th birthday series and the year's stadium gigs
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — the west London equivalent, where the crowd all leaves at once

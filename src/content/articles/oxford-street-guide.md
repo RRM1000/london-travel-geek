@@ -92,7 +92,7 @@ Two stores, one beyond each end of the closure. [499-517 Oxford Street](https://
 
 ### Disney Store
 
-[350-352 Oxford Street](https://stores.disneystore.co.uk/london/london/D350/), a few minutes east of Selfridges, near Bond Street station. Open **9am to 10pm Monday to Saturday and 12pm to 6pm on Sunday**, so it suits an evening visit with children.
+[350-352 Oxford Street](https://stores.disneystore.co.uk/london/london/D350/), a few minutes east of Selfridges, near Bond Street station. Open **9am to 10pm Monday to Saturday and 12pm to 6pm on Sunday**, so it suits an evening visit with children. A second Disney Store is on Selfridges' lower ground floor; the shows and experiences are in [Disney in London](/articles/disney-london/).
 
 ### Zara
 

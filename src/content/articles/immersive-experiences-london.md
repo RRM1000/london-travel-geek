@@ -120,17 +120,14 @@ Two add-ons are bought with the ticket: a 30-minute Puzzle Hunt across the town 
 ### Lightroom: Matisse: Joy, King's Cross — 27 January to 8 May 2027
 
 *Adults from £25, students and under-18s from £15 · about 1 hour · all ages*
-![The O2 in London](../../assets/articles/immersive-experiences-london/secret-cinema-pirates-of-the-caribbean.jpg)
 
 Matisse's paintings and paper cut-outs projected across four 11-metre walls and the floor, with new artwork by Yinka Ilori. BSL and relaxed showings run in March and April. A £2 transaction fee applies per order. [Tickets](https://lightroom.uk/whats-on/matisse-joy/).
-*The O2.*
 
 ### Secret Cinema: Disney's Pirates of the Caribbean, Greenwich Peninsula — 16 February to 6 June 2027
-*Standing from £49, seated from £69 · about 2 hours 15 minutes · 10 weeks only*
 
-*Standing and seated Roam and Return both from £49 · doors open an hour before your slot · North Greenwich*
+*Standing and seated Roam and Return both from £49 · about 2 hours 30 minutes · no under-7s, and no under-16s on Thursday to Saturday evenings · 49 Olympian Way, North Greenwich*
 
-*The Curse of the Black Pearl* staged with actors, stunts, a live band and projection mapping, with food and drink to order throughout. It is the first show at Secret Cinema's riverside venue, five minutes' walk from North Greenwich station, and the run has been extended. Dress as a pirate, smuggler or member of high society. Standing tickets let you roam; Roam and Return seats let you roam too and give you a seat to come back to. [Tickets](https://piratesofthecaribbeanimmersive.com).
+*The Curse of the Black Pearl* staged with actors, stunts, a live band and projection mapping, with food and drink to order throughout. It is the first show at Secret Cinema's riverside venue, five minutes' walk from North Greenwich station, and the run has been extended. Dress as a pirate, smuggler or member of high society. Standing tickets let you roam; Roam and Return seats let you roam too and give you a seat to come back to. [Tickets](https://piratesofthecaribbeanimmersive.com/tickets/). The rest of Disney's London season is in [Disney in London](/articles/disney-london/).
 
 ### Punchdrunk: Ghostlight, National Theatre — summer or autumn 2027
 
@@ -482,6 +479,7 @@ Live actors who single people out, a drop ride, and London's grimmest history pl
 
 ## Continue planning your London trip
 
+- 🏰 **[Disney in London](/articles/disney-london/)**
 - 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎭 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 👻 **[Jack the Ripper and Ghost Tours](/articles/jack-the-ripper-ghost-tours-london/)** — the Ghost Bus, ghost walks and Ripper walks
