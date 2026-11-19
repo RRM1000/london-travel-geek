@@ -71,7 +71,7 @@ Check your train before you travel: the Paddington, Liverpool Street and Charing
 
 *British Museum, Room 30 · to 11 July 2027*
 
-**You cannot buy a ticket for a January visit.** Every ticket from 10 September 2026 to 31 March 2027 has sold out, and tickets for April to July 2027 are due for release in early 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). The room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm. The rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
+**You cannot buy a ticket for a January visit.** Every ticket from 10 September 2026 to 31 March 2027 has sold out, and tickets for April to July 2027 are due for release in early 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). The room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm. Prices and member booking are in our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/), and the rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
 
 ## The last of Christmas
 

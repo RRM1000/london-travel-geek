@@ -107,7 +107,7 @@ The clocks also go forward on Easter Sunday, at 1am. The National Gallery closes
 
 ### Still running
 
-**Monet: Painting Time** at Tate Modern runs to 27 June, at £26, and stays open to 10pm on selected dates from 22 March ([Tate](https://www.tate.org.uk/whats-on/tate-modern/monet)). **Van Eyck: The Portraits** at the National Gallery is £18 and runs to 11 April; **Peter Blake: Pop Art Life** at the National Portrait Gallery runs to 23 May. The **Bayeux Tapestry** at the British Museum is sold out to 31 March; tickets for April to July are due in early 2027 on the [British Museum's page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). The whole year's openings, with how each sells tickets, are in [London exhibitions 2027](/articles/london-exhibitions-2027/).
+**Monet: Painting Time** at Tate Modern runs to 27 June, at £26, and stays open to 10pm on selected dates from 22 March ([Tate](https://www.tate.org.uk/whats-on/tate-modern/monet)). **Van Eyck: The Portraits** at the National Gallery is £18 and runs to 11 April; **Peter Blake: Pop Art Life** at the National Portrait Gallery runs to 23 May. The **Bayeux Tapestry** at the British Museum is sold out to 31 March; tickets for April to July are due in early 2027 on the [British Museum's page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry); our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the prices and booking rules. The whole year's openings, with how each sells tickets, are in [London exhibitions 2027](/articles/london-exhibitions-2027/).
 
 <div data-stay-strip></div>
 

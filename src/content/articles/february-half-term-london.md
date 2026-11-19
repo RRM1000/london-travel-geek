@@ -65,7 +65,7 @@ Half term puts most of London's state-school children on holiday in the same wee
 
 ### The Bayeux Tapestry
 
-**Sold out.** Every ticket to 31 March has gone, so it is not a half-term option. Rooms 6b, 7 and 8 of the British Museum are also closed from 8 to 19 February. The rest of the museum is free; see our [British Museum guide](/articles/british-museum-guide/).
+**Sold out.** Every ticket to 31 March has gone, so it is not a half-term option. Rooms 6b, 7 and 8 of the British Museum are also closed from 8 to 19 February. The rest of the museum is free; see our [British Museum guide](/articles/british-museum-guide/). Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the April to July release and the free online version of the cloth.
 
 ## What's on for children
 

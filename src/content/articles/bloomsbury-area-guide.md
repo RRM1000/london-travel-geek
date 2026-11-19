@@ -83,7 +83,7 @@ Bloomsbury has its own share of the commemorative plaques marking where notable 
 
 ## Top sights and activities
 
-1. **[The British Museum](/articles/british-museum-guide/)** — Around eight million objects, including the Rosetta Stone, the Parthenon sculptures, the Sutton Hoo helmet and the Egyptian galleries. Free. Use the Montague Place entrance.
+1. **[The British Museum](/articles/british-museum-guide/)** — Around eight million objects, including the Rosetta Stone, the Parthenon sculptures, the Sutton Hoo helmet and the Egyptian galleries. Free. Use the Montague Place entrance. The **Bayeux Tapestry** is in Room 30 until 11 July 2027, on a separate paid ticket; see our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/).
 2. **The Great Court** — Norman Foster's glazed roof over the old reading room courtyard. Free to walk into even without visiting the galleries.
 3. **The garden squares** — Russell, Bedford, Gordon, Tavistock and Bloomsbury Squares. Most are open to the public.
 4. **The Charles Dickens Museum** — The Doughty Street house where he wrote *Oliver Twist* and *Nicholas Nickleby*, open Wednesday to Sunday, 10am to 5pm.

@@ -20,7 +20,7 @@ faq:
   - q: "What is on in London in November 2026?"
     a: "The first week was Bonfire Night, Remembrance Sunday and the first Christmas lights. Still to come: Armistice Day on the 11th and the Lord Mayor's Show on Saturday 14th. The EFG London Jazz Festival runs 13 to 22 November. Christmas arrives in stages, from Bond Street's and Covent Garden's lights on the 12th to Hyde Park Winter Wonderland on the 19th, and the new London Museum opens in Smithfield on 28 November."
   - q: "Can you still get tickets for the Bayeux Tapestry in November 2026?"
-    a: "Not for a November visit. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. Adult tickets are £33, with off-peak at £27 and a term-time weekday slot from 3.30pm at £25."
+    a: "Not for a November visit. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. Adult tickets are £33, with off-peak at £27 and super off-peak at £25."
   - q: "Is Bonfire Night over in London in 2026?"
     a: "Yes. Bonfire Night was Thursday 5 November, and most displays ran on Saturday 7th and Sunday 8th, including Alexandra Palace and Battersea Park. Our Bonfire Night guide lists what each display ran and cost, and the free viewpoints."
   - q: "When is the Lord Mayor's Show in 2026, and are there fireworks?"
@@ -53,11 +53,11 @@ The first week was fireworks and ceremony. Ahead are Armistice Day and the Lord 
 
 *British Museum, Room 30 · to 11 July 2027*
 
-**You cannot buy a ticket for a November visit.** Every ticket from 10 September 2026 to 31 March 2027 is gone, and the next release is in 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). Adults pay **£33** (£36.50 with the £3.50 donation), or **£27** off-peak. A **£25** slot runs on term-time weekdays from 3.30pm to 4.20pm. Students, 16 to 18s and jobseekers pay £25, and under-16s go free with an adult, up to four per adult.
+**You cannot buy a ticket for a November visit.** Every ticket from 10 September 2026 to 31 March 2027 is gone, and the next release is in 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). Adults pay **£33** (£36.50 with the £3.50 donation), or **£27** off-peak. Super off-peak slots are **£25**. Students, 16 to 18s and jobseekers pay £25, and under-16s go free with an adult, up to four per adult.
 
 Bookings are capped at 10 tickets, each ticket can only be used by the person who booked it, and the museum may check ID. The Tapestry room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm, later than the rest of the museum, and the visit takes about 40 minutes. A free audio guide is in the British Museum Audio app; bring your own headphones.
 
-**The women of the Bayeux Tapestry**, a talk on **20 November** (£50), falls in the month. The rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
+**The women of the Bayeux Tapestry**, a talk on **20 November** (£50), falls in the month. Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the member rules and the scenes to look for, and the rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
 
 ## Fireworks and ceremony
 

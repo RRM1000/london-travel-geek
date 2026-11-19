@@ -22,7 +22,7 @@ faq:
   - q: "How much is the Monet exhibition at Tate Modern?"
     a: "£26, or £25 for concessions, and £5 for 16 to 25s through Tate Collective. Tate Members go free without booking. It runs from 25 February to 27 June 2027, open to 9pm on Fridays and Saturdays and to 8pm on Sundays."
   - q: "Can I still see the Bayeux Tapestry in 2027?"
-    a: "Yes, until 11 July 2027 at the British Museum. Tickets to 31 March are sold out; April to July tickets are due for release in early 2027. Adults pay £33, and under-16s go free with an adult."
+    a: "Yes, until 11 July 2027 at the British Museum. Tickets to 31 March are sold out; April to July tickets are due for release in early 2027. Adults pay £33, and under-16s go free with an adult. Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the full ticket rules."
   - q: "Which London exhibitions are free in 2027?"
     a: "Catharina van Hemessen (4 March to 30 May) and Frankenthaler and Bassano (17 June to 5 September) at the National Gallery, every Serpentine exhibition, the Portrait Award at the National Portrait Gallery (24 June to 10 October), and Becoming America at the Science Museum to 25 April, which needs a free booked ticket. The National Gallery's Collected (22 May to 5 September) is pay what you wish."
   - q: "When is the David Hockney exhibition at Tate Britain?"
@@ -49,7 +49,7 @@ faq:
 | 3 May | **Julio Le Parc: Light. Colour. Action.** | [Tate Modern](/articles/tate-modern-guide/) | [Tate](https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc): £15, concessions £13 |
 | 9 May | **Constantinople to Istanbul: One City, Two Empires** | [V&A South Kensington](/articles/v-and-a-guide/) | [V&A](https://www.vam.ac.uk/exhibitions/constantinople-to-istanbul-one-city-two-empires): £25 weekdays, £27 weekends; advance booking recommended |
 | 11 July | **Wildlife Photographer of the Year** | [Natural History Museum](/articles/natural-history-museum-guide/) | [Natural History Museum](https://www.nhm.ac.uk/visit/exhibitions/wildlife-photographer-of-the-year.html): adults from £17 off-peak, £21 peak; children £10.50 peak |
-| 11 July | **The Bayeux Tapestry**, on loan from Bayeux | [British Museum](/articles/british-museum-guide/) | [British Museum](https://www.britishmuseum.org/exhibitions/bayeux-tapestry): sold out to 31 March; April to July released in early 2027. Adults £33, under-16s free |
+| 11 July | **The Bayeux Tapestry**, on loan from Bayeux | [British Museum](/articles/british-museum-guide/); [our Bayeux guide](/articles/bayeux-tapestry-british-museum/) | [British Museum](https://www.britishmuseum.org/exhibitions/bayeux-tapestry): sold out to 31 March; April to July released in early 2027. Adults £33, under-16s free |
 | 8 Aug | **The Nue Black Aesthetic**, contemporary Black designers | Design Museum | [Design Museum](https://designmuseum.org/exhibitions/the-nue-black-aesthetic): adults from £15.29 |
 
 ## February
@@ -139,7 +139,8 @@ Tate Modern's next **Hyundai Commission** fills the Turbine Hall later in 2027, 
 ## Continue planning your London trip
 
 - 🖼️ **[National Gallery Guide](/articles/national-gallery-guide/)**, **[Tate Modern Guide](/articles/tate-modern-guide/)** and **[V&A Guide](/articles/v-and-a-guide/)**: entrances, hours and the rooms to see first
-- 🏛️ **[British Museum Guide](/articles/british-museum-guide/)**: the Bayeux Tapestry tickets in full
+- 🧵 **[The Bayeux Tapestry at the British Museum](/articles/bayeux-tapestry-british-museum/)**: tickets, member booking and the scenes to find
+- 🏛️ **[British Museum Guide](/articles/british-museum-guide/)**: the rest of the museum, free
 - 🦕 **[Natural History Museum Guide](/articles/natural-history-museum-guide/)** and **[Science Museum Guide](/articles/science-museum-guide/)**: the South Kensington pair
 - 🗓️ **[Things to Do in London in March](/articles/things-to-do-in-london-in-march/)** and **[in April](/articles/things-to-do-in-london-in-april/)**: the spring openings alongside the month's other events
 - 🏟️ **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** and 🎤 **[London Concerts 2027](/articles/london-concerts-2027/)**: the rest of the year's big dates

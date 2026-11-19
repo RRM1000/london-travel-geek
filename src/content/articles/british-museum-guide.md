@@ -30,7 +30,7 @@ faq:
   - q: "Do you need to book the British Museum?"
     a: "No, but a free timed ticket from the museum's website is recommended. Without one, entry depends on capacity and queues are expected. Every visitor goes through a security and bag check."
   - q: "Can you still get tickets for the Bayeux Tapestry?"
-    a: "Not for a visit before April 2027: every ticket from 10 September 2026 to 31 March 2027 has sold out. April to July 2027 opens in early 2027, and the Tapestry leaves on 11 July 2027."
+    a: "Not for a visit before April 2027: every ticket from 10 September 2026 to 31 March 2027 has sold out. April to July 2027 opens in early 2027, and the Tapestry leaves on 11 July 2027. Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the prices, member booking and the scenes to look for."
   - q: "How much is the Bayeux Tapestry at the British Museum?"
     a: "An adult ticket is £33, or £36.50 with the optional £3.50 donation. Off-peak slots are £27, and the cheapest slots are £25. Under-16s are free with an adult, and students, 16 to 18s and jobseekers pay £25."
   - q: "Which entrance should you use for the British Museum?"
@@ -47,7 +47,7 @@ faq:
 
 > 💡 **The Short Version:**
 > - **Entry is free, daily 10:00 to 17:00** (Fridays until 20:30; closed 24 to 26 December). A [free timed ticket](https://ticketing.britishmuseum.org/events?k=general%20admission) is recommended; without one, entry depends on capacity and queues are expected.
-> - **The Bayeux Tapestry is separate and sold out until 2027.** Every ticket to 31 March 2027 has gone; April to July 2027 opens in early 2027. Adults are £33.
+> - **The Bayeux Tapestry is separate and sold out until 2027.** Every ticket to 31 March 2027 has gone; April to July 2027 opens in early 2027. Adults are £33. Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the rest.
 > - **A guided tour saves you the choosing.** A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> takes you to the main objects in order and skips the entry queue; entry itself costs nothing, so the price is the guide.
 > - **Leave big bags behind.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed. The entrances are Great Russell Street and Montague Place.
 > - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10a). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
@@ -63,7 +63,7 @@ faq:
 
 *Halley's Comet and King Harold, from the Bayeux Tapestry. Photo: [Myrabella](https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_32-33_comet_Halley_Harold.jpg) (public domain).*
 
-The Bayeux Tapestry is an embroidered cloth nearly 70 metres long and 50 centimetres tall, telling the story of the Norman Conquest and the Battle of Hastings in 1066. It is in **Room 30, the Sainsbury Exhibitions Gallery**, from 10 September 2026 to **11 July 2027**, on loan from Bayeux. Entry is by timed ticket only, and the [museum's exhibition page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry) is where they are sold.
+The Bayeux Tapestry is an embroidered cloth nearly 70 metres long and 50 centimetres tall, telling the story of the Norman Conquest and the Battle of Hastings in 1066. It is in **Room 30, the Sainsbury Exhibitions Gallery**, from 10 September 2026 to **11 July 2027**, on loan from Bayeux. Entry is by timed ticket only, and the [museum's exhibition page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry) is where they are sold. Our full [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) covers the members' rules, the evening talks that include a visit, the route through the room and the scenes to look for on the cloth.
 
 ### Where tickets stand
 
@@ -291,6 +291,7 @@ The garden squares, Lamb's Conduit Street and the small free museums of Bloomsbu
 
 ## Continue planning your London trip
 
+- 🧵 **[The Bayeux Tapestry at the British Museum](/articles/bayeux-tapestry-british-museum/)** — tickets, member booking, the route through Room 30 and the scenes to find.
 - 🖼️ **[London Exhibitions 2027](/articles/london-exhibitions-2027/)** — the year's big museum and gallery shows month by month, with prices and how each one books.
 - 🏛️ **[Bloomsbury Area Guide](/articles/bloomsbury-area-guide/)** — the garden squares, bookshops and small museums around the British Museum.
 - 🛏️ **[Where to Stay in Bloomsbury](/articles/where-to-stay-bloomsbury/)** — hotels a few minutes' walk from the colonnade.

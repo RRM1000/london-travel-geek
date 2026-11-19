@@ -64,7 +64,7 @@ The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and car
 
 **You cannot buy a ticket for a December visit.** Every ticket from 10 September 2026 to 31 March 2027 is gone, and the next release is in 2027. Tickets are on the [British Museum's Bayeux Tapestry page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). The room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm.
 
-**Bayeux Late is free on Friday 4 December**: an evening of digital art and technology inspired by the artistry of 1066, on the [museum's events page](https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry). The museum is closed on 24, 25 and 26 December. The rest of it is in our [British Museum guide](/articles/british-museum-guide/).
+**Bayeux Late is free on Friday 4 December**: an evening of digital art and technology inspired by the artistry of 1066, on the [museum's events page](https://www.britishmuseum.org/events/bayeux-late-reimagining-bayeux-tapestry). The museum is closed on 24, 25 and 26 December. Tickets, prices and the route through Room 30 are in our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/), and the rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
 
 ## The tree, the carols and the churches
 

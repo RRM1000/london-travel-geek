@@ -105,7 +105,7 @@ April 2027 starts in the second week of the Easter school holidays and ends with
 
 ### Still running
 
-**Monet: Painting Time** at Tate Modern runs to 27 June at £26, **German Expressionism** at the National Gallery to 1 August, **Mary Cassatt** at the National Portrait Gallery to 13 June and **Punk to Pop** at the V&A from 13 March. The **Bayeux Tapestry** is at the British Museum until 11 July; adult tickets are £33, and the April to July slots are due for release in early 2027 on the [British Museum's page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). Every 2027 opening, month by month, is in [London exhibitions 2027](/articles/london-exhibitions-2027/).
+**Monet: Painting Time** at Tate Modern runs to 27 June at £26, **German Expressionism** at the National Gallery to 1 August, **Mary Cassatt** at the National Portrait Gallery to 13 June and **Punk to Pop** at the V&A from 13 March. The **Bayeux Tapestry** is at the British Museum until 11 July; adult tickets are £33, and the April to July slots are due for release in early 2027 on the [British Museum's page](https://www.britishmuseum.org/exhibitions/bayeux-tapestry). Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the prices, member rules and what is on the cloth. Every 2027 opening, month by month, is in [London exhibitions 2027](/articles/london-exhibitions-2027/).
 
 <div data-stay-strip></div>
 
