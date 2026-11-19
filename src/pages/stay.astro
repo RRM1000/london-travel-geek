@@ -171,6 +171,7 @@ const faq = [
         <li><strong>Best value that is still central:</strong> Bloomsbury or King&rsquo;s Cross. Zone 1, ten minutes from the West End, noticeably cheaper.</li>
         <li><strong>Cheapest rooms we found, area by area:</strong> {cheapest.slice(0, 3).map((g) => g.name).join(", ")}.</li>
         <li><strong>A proper hotel room for £150 or less:</strong> <a href="/articles/best-budget-hotels-london/">the budget hotels London&rsquo;s lists agree on</a> &mdash; priced on the same five nights, and most of them a few stops out on a fast train.</li>
+        <li><strong>Choosing between the budget chains:</strong> <a href="/articles/premier-inn-vs-travelodge-vs-ibis-london/">Premier Inn vs Travelodge vs ibis</a> &mdash; breakfast, cancellation, family rooms and which take dogs.</li>
         {venueStayGuides.length > 0 && (
           <li><strong>A show, match or conference at a big venue:</strong> stay where the last train home runs &mdash; {venueStayGuides.map((g, i) => (
             <>{i > 0 && (i === venueStayGuides.length - 1 ? " or " : ", ")}<a href={`/articles/${g.id}/`}>near {g.venue}</a></>

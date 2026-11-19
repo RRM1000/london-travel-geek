@@ -221,7 +221,7 @@ Published lists of London capsule hotels run to ten or eleven by counting the fo
 
 For the rest of a trip on your own, from getting home at night to eating alone, see [solo travel in London](/articles/solo-travel-london/).
 
-For a long layover or a late flight, a [day room](/articles/day-rooms-london/) is cheaper than any of this and bookable for the afternoon. For more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen beats both. For a private room with a window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists the hotels whose typical night came to £150 or less.
+For a long layover or a late flight, a [day room](/articles/day-rooms-london/) is cheaper than any of this and bookable for the afternoon. For more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen beats both. For a private room with a window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists the hotels whose typical night came to £150 or less, and [Premier Inn vs Travelodge vs ibis](/articles/premier-inn-vs-travelodge-vs-ibis-london/) compares the three budget chains.
 
 Zedwell calls both its capsule berths and its hotel rooms "Cocoons", so **"Capsule" in the property name** is what tells them apart. Our [windowless hotel rooms guide](/articles/windowless-hotel-rooms-london/) covers the rooms.
 

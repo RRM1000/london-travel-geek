@@ -57,7 +57,7 @@ export const hotelCategoryLabels: Record<HotelMapCategory, string> = {
 };
 
 const byArea = "#by-area-and-by-how-you-get-there";
-const operators = "#what-the-six-operators-actually-differ-on";
+const operators = "#what-the-operators-differ-on";
 // The three St Christopher's sites without a heading of their own share this one.
 const stChristophers = "#st-christophers--four-sites-and-they-are-not-the-same-hostel";
 

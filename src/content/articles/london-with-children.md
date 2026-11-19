@@ -329,6 +329,7 @@ Children's theatre, comedy and one-off shows in the next two weeks.
 
 ## Continue planning your London trip
 
+- 🏨 **[Apartment hotels in London](/articles/aparthotels-london/#family-apartments-with-two-or-more-bedrooms)** — the two- and three-bedroom family apartments with a kitchen, cots and a washer-dryer
 - 🎒 **[February Half Term in London](/articles/february-half-term-london/)** — 15 to 19 February 2027: the Imagine festival, what to book and the Tube strike day
 - 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🧱 **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** — tickets from £32, under-90cm free, and the train and bus from London

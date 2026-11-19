@@ -312,7 +312,7 @@ A maritime village with the Cutty Sark, the Old Royal Naval College, the Nationa
 
 ## On a budget, and the business districts
 
-The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. For a hotel room at £150 a night or less, our [budget hotels guide](/articles/best-budget-hotels-london/) priced the hotels on the same five nights. The City and Canary Wharf work the other way round: they are priced for the offices, so weekends are the bargain.
+The cheapest beds in London are in Zone 1, and they are cheap because the room is small rather than because the postcode is bad. For a hotel room at £150 a night or less, our [budget hotels guide](/articles/best-budget-hotels-london/) priced the hotels on the same five nights, and [Premier Inn vs Travelodge vs ibis](/articles/premier-inn-vs-travelodge-vs-ibis-london/) compares the budget chains. The City and Canary Wharf work the other way round: they are priced for the offices, so weekends are the bargain.
 
 ### Bethnal Green: cheap capsules and a two-Michelin-star town hall
 

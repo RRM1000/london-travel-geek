@@ -339,7 +339,7 @@ The Red Carnation group runs five London hotels on one pet policy: **£50 a nigh
 
 ### Is Premier Inn dog-friendly?
 
-No. **Premier Inn and hub by Premier Inn take [assistance dogs only](https://www.premierinn.com/gb/en/faq/smoking-and-pets.html)**. Travelodge is the budget chain that takes pets.
+No. **Premier Inn and hub by Premier Inn take [assistance dogs only](https://www.premierinn.com/gb/en/faq/smoking-and-pets.html)**. Travelodge is the budget chain that takes pets. Our [Premier Inn vs Travelodge vs ibis comparison](/articles/premier-inn-vs-travelodge-vs-ibis-london/) sets the three chains' pet, breakfast and cancellation rules side by side.
 
 ### Travelodge: every room, every London hotel
 

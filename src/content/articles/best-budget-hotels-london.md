@@ -359,7 +359,7 @@ Which? members score the hotel chains they've stayed with. Its survey, published
 
 Which? members still rate Premier Inn "far superior" to Travelodge, which got two stars out of five for its bedrooms, bathrooms, breakfast and value for money. Several of the brands London's lists name most often aren't in the survey at all, including Z Hotels, Point A, citizenM, easyHotel, Motel One and Moxy.
 
-**How their London hotels priced.** Every hub we priced came in under £150: Shoreditch at £131, King's Cross at £137 and West Brompton at £141. Premier Inn only did further out, at Hanger Lane (£114), Stratford (£134), Greenwich (£142) and Earl's Court (£147); its County Hall, Southwark and King's Cross hotels were £161 to £179. Of six Z Hotels, only Shoreditch made it, at £150, and both Point A hotels were over, at £176 and £178. Among sources that recommend a chain rather than a hotel, Premier Inn is named most often, by 11, then Point A and Travelodge, by 7 each.
+**How their London hotels priced.** Every hub we priced came in under £150: Shoreditch at £131, King's Cross at £137 and West Brompton at £141. Premier Inn only did further out, at Hanger Lane (£114), Stratford (£134), Greenwich (£142) and Earl's Court (£147); its County Hall, Southwark and King's Cross hotels were £161 to £179. Of six Z Hotels, only Shoreditch made it, at £150, and both Point A hotels were over, at £176 and £178. Among sources that recommend a chain rather than a hotel, Premier Inn is named most often, by 11, then Point A and Travelodge, by 7 each. Breakfast, cancellation rules, family rooms and pets at each chain are compared in [Premier Inn vs Travelodge vs ibis](/articles/premier-inn-vs-travelodge-vs-ibis-london/).
 
 ## Family rooms on a budget
 
