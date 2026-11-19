@@ -9,18 +9,26 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Odeon_Leicester_Square
 heroImageLicense: "CC0"
 heroImageLicenseUrl: "https://creativecommons.org/publicdomain/zero/1.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-11-11
-reviewBy: 2027-01-15
+updatedAt: 2026-11-19
+reviewBy: 2026-11-24
 sites: [london]
 canonicalSite: london
 category: "Things to do"
 tags: [film premieres, Leicester Square, red carpet, film, free London, things to do]
 draft: false
 faq:
+  - q: "When is the Avengers: Doomsday London premiere?"
+    a: "Marvel has not announced the date or venue. London is one of the nine stops on its Doomsday Global Tour, alongside Las Vegas, São Paulo, Gold Coast, Rome, Seoul, Shanghai, Toronto and Los Angeles. The film opens in UK cinemas on Wednesday 16 December 2026, two days before the US."
+  - q: "How do I get tickets to the Avengers: Doomsday premiere in London?"
+    a: "There is nothing to book yet. Premiere seats go to invited guests. The public route is a free fan-pen place beside the red carpet, and no fan-pen release has been announced for Doomsday. Register interest on Applause Store and follow Marvel Studios' accounts, which is where an announcement would appear. Resellers advertise premiere access at £1,999 to £4,000."
+  - q: "Is there a Dune: Part Three premiere in London?"
+    a: "None has been announced. Warner Bros' Dune: Part Three has UK preview screenings from 15 December 2026 and opens on 18 December 2026. If Warner Bros runs a fan-zone ballot, as it did for Beetlejuice Beetlejuice and Joker: Folie à Deux in Leicester Square, it will be announced on the film's accounts."
   - q: "Can anyone go to a film premiere in London?"
     a: "Not by turning up. Most premieres are invitation only. The public can apply for free fan-pen places beside the red carpet through Applause Store, join a studio's fan-zone ballot where one is run, or buy a ticket to the few premieres that sell them: the Royal Film Performance, from £150 before fees in 2026, and the BFI London Film Festival galas, £21 to £30 in 2026."
   - q: "How do I get free tickets to a film premiere in London?"
-    a: "Make a free Applause Store account and press Register Interest on its premiere listings. Its Film Premiere and Events team posts the free red carpet fan-pen invitations for individual premieres, sometimes with a seat in the screening for the winners. Allocation is limited, and each listing states its age limit."
+    a: "Make a free Applause Store account and press Register Interest on its premiere listings. When a listing opens, pick your date and request tickets. Tickets are sent at random, and if no e-ticket reaches your email 24 hours before the date, the request was unsuccessful. Its Film Premiere and Events team posts the free red carpet fan-pen invitations for individual premieres, sometimes with a seat in the screening for the winners. Each listing states its age limit."
+  - q: "What is a fan pen at a film premiere?"
+    a: "A fenced viewing area beside the red carpet. You watch the stars arrive and the press interview them, close enough to call out. At some premieres, winners are also invited into the screening afterwards, but a seat inside is not guaranteed."
   - q: "How much does it cost to go to a film premiere?"
     a: "The fan pens cost nothing. A seat inside costs £150 or more before fees at the Royal Film Performance (2026), £21 to £30 at a London Film Festival gala (2026), and £1,999 to £4,000 from resellers such as Cornucopia Events, who advertise premiere access at that price."
   - q: "How early should you arrive at a Leicester Square premiere?"
@@ -28,16 +36,38 @@ faq:
   - q: "Do you need photo ID to attend a premiere fan pen?"
     a: "Usually, yes. Applause Store says every guest in the party must bring photo ID at its higher-profile events, such as film premieres. It accepts a passport, driving licence, PASS card, Freedom Pass, Biometric Residence Permit or Citizen's Card, and does not accept photos or scans of ID."
   - q: "Where do film premieres happen in London?"
-    a: "Mostly in Leicester Square, where Odeon, Cineworld and Vue all have cinemas, and in a few other cinemas such as Curzon Mayfair. A gated-off section of the square usually means a premiere that evening. The Royal Festival Hall on the South Bank hosts the London Film Festival galas."
+    a: "Mostly in Leicester Square, where Odeon, Cineworld and Vue all have cinemas, and in a few other places such as BFI Southbank and Curzon Mayfair. A gated-off section of the square usually means a premiere that evening. The Royal Festival Hall on the South Bank hosts the London Film Festival galas."
   - q: "Can you get autographs at a premiere?"
     a: "Sometimes. Applause Store's FAQ says a handshake or an autograph from a star cannot be promised, because the stars are working and there is little time."
 ---
 
 **Most London film premieres are invitation only, and a few are not.**
 
-> 💡 **The Short Version:** The main free route is **Applause Store**, which posts **fan-pen invitations beside the red carpet** for individual premieres. **Photo ID** is usually checked for **everyone in the party**, and the London examples were **16+ or 18+**. Some studios run their own **fan-zone ballot**. To see the film too, the **Royal Film Performance** (from **£150**) and the **London Film Festival galas** (**£21 to £30**) sell tickets. Resellers advertise premiere access at **£1,999 to £4,000**. The working habit is to **register interest on Applause Store** and watch for the email.
+> 💡 **The Short Version:** The **Avengers: Doomsday** London premiere has **no date or venue yet**. London is one of nine stops on Marvel's Doomsday Global Tour, and the film opens in UK cinemas on **16 December 2026**. **Dune: Part Three** has no London premiere announced; it opens on **18 December**, with UK previews from 15 December. The free route in is **Applause Store**, which posts **fan-pen invitations beside the red carpet**. Register interest there and follow each film's official accounts, where a studio ballot would be announced. **Photo ID** is usually checked for **everyone in the party**, and the London examples were **16+ or 18+**. To see the film too, the **Royal Film Performance** (from **£150**) and the **London Film Festival galas** (**£21 to £30**) sell tickets.
 
-*Prices, ages and ID rules are the 2026 figures.*
+*Updated 19 November 2026. Prices, ages and ID rules are the 2026 figures.*
+
+---
+
+## Upcoming London premieres
+
+| Film | Date | Venue | How to get in |
+|---|---|---|---|
+| **The Further Mis-Adventures of Cliff Booth** (Netflix, European premiere) | Mon 23 Nov 2026 | BFI IMAX, Southbank | Free fan-pen places on [Applause Store](https://www.applausestore.com/book-the-further-mis-adventures-of-cliff-booth-european-premiere). 18+. A seat in the screening is possible but not guaranteed. |
+| **Pride and Prejudice** (Netflix series, world premiere) | Tue 1 Dec 2026 | BFI Southbank | Free fan-pen places on [Applause Store](https://www.applausestore.com/book-pride-and-prejudice-world-premiere-and-screening). 18+. Winners are also invited in to a screening of episode one. |
+| **Avengers: Doomsday** (UK release 16 Dec) | Not announced | Not announced | Marvel has named London as a Doomsday Global Tour stop but has not given a date, venue or fan-pen details. Follow Marvel Studios' accounts and register interest on Applause Store. |
+| **Dune: Part Three** (UK previews 15 Dec, release 18 Dec) | Not announced | Not announced | No London premiere or fan ballot announced. A ballot would appear on the film's official accounts. |
+
+On Applause Store, click your date and request tickets. They are sent at random, and an e-ticket should reach your email 24 hours before the date. If it has not, the request was unsuccessful.
+
+Disney confirmed the [16 December UK release of Avengers: Doomsday](https://www.empireonline.com/movies/news/avengers-doomsday-officially-sets-earlier-uk-cinema-release/) to Digital Spy. Marvel announced the [nine Doomsday Global Tour cities](https://www.laughingplace.com/disney-entertainment/avengers-doomsday-global-tour-locations/) on social media in November 2026 and has not published dates for them. The tour's Gold Coast premiere is on 4 December, according to [Variety Australia](https://au.variety.com/2026/film/news/chris-hemsworth-avengers-doomsday-premiere-australia-42658/).
+
+### Just happened
+
+- **Focker-in-Law**: UK premiere at Odeon Luxe Leicester Square on 18 November 2026.
+- **Ebenezer**: global premiere at Odeon Luxe Leicester Square on 9 November 2026. Paramount dressed the carpet as a Victorian Christmas street, with studio snow.
+- **The Hunger Games: Sunrise on the Reaping**: a fan event at Westfield London, White City, on 28 October 2026, not in Leicester Square.
+- **Digger**: the Royal Film Performance, in Leicester Square on 22 September 2026.
 
 ---
 
@@ -47,6 +77,7 @@ faq:
 
 - **Cineworld Leicester Square (IMAX)** hosted the London global premiere of *Your Fault*, with dedicated fan pens alongside the red carpet. Winners also got a seat in the IMAX screening. Minimum age 16.
 - **Curzon Mayfair** hosted the world premiere of the Victoria Beckham Netflix documentary series. The fan-pen invitations were for the red carpet only, and the minimum age was 18.
+- **BFI IMAX and BFI Southbank** host the Netflix premieres on the South Bank in November and December 2026, in the table above.
 - **Royal Festival Hall**, on the South Bank, hosts the BFI London Film Festival galas. See the [London Film Festival guide](/articles/london-film-festival/).
 
 Not every Applause premiere is in London: the world premiere of *Peaky Blinders: The Immortal Man* was in Birmingham. Check the venue before you accept.
@@ -55,17 +86,22 @@ Not every Applause premiere is in London: the world premiere of *Peaky Blinders:
 
 *Odeon Luxe Leicester Square. Photo: [Aethonatic](https://commons.wikimedia.org/wiki/File:Odeon_Leicester_Square_-_17_May_2026.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/).*
 
-## Four ways in
+## How to get into a London film premiere
 
 ### 1. Free fan-pen places from Applause Store
 
 [Applause Store](https://www.applausestore.com/) is a free ticket site best known for TV audiences, and its **Film Premiere and Events team** also runs red carpet fan pens. A fan pen is a viewing area beside the carpet, where you watch the stars arrive and the press interview them. A listing shows the film, the venue, the minimum age and whether winners also get a seat in the screening.
 
-On a listing, choose **Register Interest**: Applause emails you when it releases more red carpet events. Create the account first, with the name exactly as it appears on your ID. Applause allows one account each and bans duplicates.
+1. Create a free account first, with the name exactly as it appears on your ID. Applause allows one account each and bans duplicates.
+2. On a listing, choose **Register Interest**: Applause emails you when it releases more red carpet events.
+3. When a date is open, click it and request your tickets.
+4. Tickets go out at random. No e-ticket in your email 24 hours before the date means the request was unsuccessful.
+
+Applause Store also lists the BAFTA red carpet; see the [BAFTA red carpet guide](/articles/bafta-red-carpet/).
 
 ### 2. Studio fan-zone ballots
 
-Some studios run their own. London World reported in January 2025 that for the Warner Bros premieres of *Beetlejuice Beetlejuice* and *Joker: Folie à Deux* in Leicester Square, fans could sign up to a ballot for fan-zone access, with winners drawn at random. Follow a film's official accounts to catch its ballot.
+Some studios run their own. London World reported in January 2025 that for the Warner Bros premieres of *Beetlejuice Beetlejuice* and *Joker: Folie à Deux* in Leicester Square, fans could sign up to a ballot for fan-zone access, with winners drawn at random. A ballot is announced on the film's official accounts, so follow them as the release date nears. None has been announced for *Avengers: Doomsday* or *Dune: Part Three*.
 
 ### 3. Premieres with tickets
 
@@ -78,13 +114,15 @@ Resellers such as Cornucopia Events advertise premiere access at **£1,999 to £
 
 ## On the day
 
-**Timings.** Applause sets the arrive-by time on your ticket. For a weekday premiere, London World's Leicester Square guide gives the shape: the carpet fills from about 5pm, and the main stars walk it from about 5.45pm to 6.30pm.
+**What time to arrive.** Applause sets the arrive-by time on your ticket. For a weekday premiere, London World's Leicester Square guide gives the shape: the carpet fills from about 5pm, and the main stars walk it from about 5.45pm to 6.30pm.
 
 **How early.** Entry to a pen is first come, first served, and Applause says you cannot save a place: your whole party must be there to join the queue. An independent premiere guide puts the arrival at three to six hours early for a major blockbuster, two to three for a popular film and one to two for a smaller one.
 
+**Where you stand.** Press and fans are led into allocated sections of the carpet, so the pen you are shown to is the view you get.
+
 **ID.** Applause says every guest must bring photo ID at higher-profile events such as premieres. It accepts a passport, driving licence, PASS card, Freedom Pass, Biometric Residence Permit or Citizen's Card. Photos and scans are refused, and an out-of-date ID passes if the photo still clearly looks like you.
 
-**Age.** Set per premiere: 16+ for *Your Fault*, 18+ for the Victoria Beckham series. Applause requires 12 to 17-year-olds to be with an adult.
+**Age.** Set per premiere: 16+ for *Your Fault*, 18+ for the Victoria Beckham series and the Netflix premieres in the table. Applause requires 12 to 17-year-olds to be with an adult.
 
 **Resale.** Applause says anyone found selling or advertising a free ticket has it voided, and may face formal proceedings.
 
@@ -108,7 +146,7 @@ The TKTS booth, the Society of London Theatre's official discount ticket booth, 
 
 - **Applause Store**: register interest on every premiere listing, and on the BAFTA red carpet listing.
 - **The film's official accounts**: the place to catch a studio ballot.
-- **The big December releases**: *Dune: Part Three* has UK previews from 15 December 2026 and opens on 18 December, the same day as *Avengers: Doomsday*. Follow both films' accounts through November.
+- **The big December releases**: *Avengers: Doomsday* opens in UK cinemas on 16 December 2026. *Dune: Part Three* has UK previews from 15 December and opens on 18 December. Follow both films' accounts for a London premiere date.
 
 More London ceremonies and big nights, and which ones the public can get into, are in [award ceremonies in London](/articles/award-ceremonies-london/).
 
