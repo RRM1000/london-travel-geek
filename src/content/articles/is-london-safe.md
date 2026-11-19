@@ -130,6 +130,7 @@ To report an incident on a taxi or minicab journey specifically: dial 999 in an 
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)** — reading the map, the etiquette, and standing on the right
 - 🚌 **[Getting Around London: The Transport Guide](/articles/getting-around-london-transport-guide/)** — every mode compared, fares and all
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)** — where to eat after the kitchens elsewhere have shut
+- 🧭 **[Solo Travel in London](/articles/solo-travel-london/)** — female-only hostel floors, booked minicabs and Ask for Angela, for visiting on your own
 - 🛂 **[The UK ETA Guide](/articles/uk-eta-guide/)** — the £20 permit to sort before you fly, not after you land
 - 📱 **[Travel SIM and eSIM Guide](/articles/travel-sim-esim-guide/)** — mobile data sorted before you land
 - 🏥 **[Healthcare in London for Visitors](/articles/healthcare-for-visitors-london/)** — NHS, A&E and what treatment actually costs

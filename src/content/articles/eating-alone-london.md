@@ -204,4 +204,6 @@ About 20 food traders and a bar under a Victorian goods canopy behind Granary Sq
 
 ## Keep going
 
-If you would like a [cheap bowl](/articles/cheap-eats-london/) or a [late table](/articles/late-night-eating-london/), those guides cover them. For wine with one plate, see [London wine bars](/articles/best-wine-bars-london/), and for the area, our [Soho guide](/articles/soho-area-guide/).
+If you would like a [cheap bowl](/articles/cheap-eats-london/) or a [late table](/articles/late-night-eating-london/), those guides cover them. For wine with one plate, see [London wine bars](/articles/best-wine-bars-london/), and for the area, our [Soho guide](/articles/soho-area-guide/). If you would rather eat with company, [meeting people in London](/articles/meet-people-london/) lists dinners with strangers, run clubs and language nights. For the rest of the day, [things to do alone in London](/articles/things-to-do-alone-london/) covers the museum lates, single seats and lidos.
+
+Travelling on your own? [Solo travel in London](/articles/solo-travel-london/) covers where to stay, getting home at night and the [tours you can join alone](/articles/solo-traveller-tours-london/).

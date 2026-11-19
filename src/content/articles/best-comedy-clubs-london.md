@@ -368,6 +368,7 @@ London's comedy festivals fall in **July and August**. All four below run inside
 - 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🎵 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🎬 **[The Best Cinemas in London](/articles/best-cinemas-london/)**
+- 🙋 **[Things to Do Alone in London](/articles/things-to-do-alone-london/)**: free comedy, single seats and museum lates for one
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)**

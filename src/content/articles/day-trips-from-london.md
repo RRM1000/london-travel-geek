@@ -179,6 +179,7 @@ More worth the day:
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — the rules, and the attractions it actually covers.
 - 🎪 **[London music festivals 2027](/articles/london-music-festivals-2027/)** — Reading, Boomtown, Cambridge Folk and the other festivals within about 90 minutes by train.
 - 🗺️ **[London itinerary planner](/articles/london-itineraries-by-days-and-interests/)** — how many days you need, and where a day trip fits.
+- 🎟️ **[Tours for solo travellers](/articles/solo-traveller-tours-london/)** — the small-group day trips and walks where you won't spend the day alone.
 - 🇫🇷 **[Paris by Eurostar](/articles/paris-day-trip/)** — the one day trip here that crosses a border, and what that adds to check-in.
 - 🎢 **[Disneyland Paris from London](/articles/disneyland-paris-from-london/)** — the two Eurostar routes to the gates, what each costs, and when a night beats a day.
 - 🇧🇪 **[Brussels by Eurostar](/articles/brussels-day-trip/)** — a shorter train than Paris, the Grand-Place, and the Atomium detour question.

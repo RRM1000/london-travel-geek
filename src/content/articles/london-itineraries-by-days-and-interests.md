@@ -233,6 +233,7 @@ Every one of these is free, mapped stop by stop, and says what is open on which 
 - 🎯 **[One-Day Plans by Interest](/articles/one-day-london-itineraries-by-interest/)**
 - 🏘️ **[Best London Areas to Visit](/articles/best-areas-to-visit-london/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
+- 🧭 **[Solo Travel in London](/articles/solo-travel-london/)** — where to stay, eat and join a tour when you are visiting alone
 - 🥘 **[Food Tours in London](/articles/london-food-tours/)** — market tastings, cookery classes and distillery tours to build a day round
 - 🎟️ **[Is the London Pass Worth It?](/articles/london-pass-guide/)**
 - 🛂 **[The UK ETA](/articles/uk-eta-guide/)** — who needs one before flying, and what it costs

@@ -395,6 +395,10 @@ It has female-only and mixed dorms as well as private rooms. Under-18s can stay 
 
 **You are staying more than a few nights.** An [aparthotel](/articles/aparthotels-london/) with a kitchen usually beats both on total cost.
 
+**You want to meet people outside the hostel.** [Meeting people in London](/articles/meet-people-london/) lists the run clubs, language exchanges, quiz nights and pub crawls that welcome people on their own.
+
+**You are travelling alone.** [Solo travel in London](/articles/solo-travel-london/) covers getting home safely at night, eating alone and the tours you can join on your own.
+
 **You are not staying the night at all.** A [day room](/articles/day-rooms-london/) is cheaper than a wasted night for a long layover.
 
 **You are watching every pound.** [London on a budget](/articles/london-on-a-budget/) covers where the money actually goes, and [the best areas to stay](/articles/best-areas-to-stay-in-london/) covers what drives the total — whether there is a train home at one in the morning, or a taxi.

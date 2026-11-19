@@ -131,6 +131,7 @@ The Barbican runs **captioned**, **BSL-interpreted**, **audio-described** and **
 - 🎬 **[Best Cinemas in London](/articles/best-cinemas-london/)**
 - 🌙 **[Outdoor Cinema in London](/articles/outdoor-cinema-london/)**: the Barbican's August screenings in the Sculpture Court, and the other open-air screens
 - 🖼️ **[Best Galleries in London](/articles/best-galleries-london/)**
+- 🙋 **[Things to Do Alone in London](/articles/things-to-do-alone-london/)**: the Conservatory, the British Library and other places to go on your own
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)**
 - 💻 **[Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/)**: where to work, with hours and laptop rules, and the free alternatives
 

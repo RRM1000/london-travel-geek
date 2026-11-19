@@ -371,6 +371,7 @@ Our prices are for a double, so for a family these are the hotels to price first
 
 - **Hostels.** Several lists count a hostel as a budget hotel: Time Out ranks Generator London second, and Mumsnet names YHA London Central its best hostel. See [the best hostels in London](/articles/best-hostels-london/).
 - **Capsules.** A berth with a shutter in a shared dormitory, for when you only need somewhere to sleep. See [London's capsule hotels](/articles/pod-hotels-london/).
+- **Travelling alone?** [Solo travel in London](/articles/solo-travel-london/) compares hostels, female-only dorms, capsules and budget rooms for one.
 - **Windowless rooms.** A proper en-suite room with no daylight. Every Z Hotel sells a windowless grade, and Zedwell builds whole hotels that way. See [windowless hotel rooms in London](/articles/windowless-hotel-rooms-london/).
 - **Aparthotels.** Rarely cheaper per night, but a kitchen can cut the cost of a longer stay. See [London aparthotels](/articles/aparthotels-london/).
 - **Everything else on a budget.** [London on a budget](/articles/london-on-a-budget/) covers the free museums, the free viewpoints and where to eat for under £10.

@@ -338,6 +338,7 @@ Cinema in London runs from £4.99 to nearly £19 for the same film.
 - 🎬 **[London Filming Locations](/articles/london-filming-locations/)**
 - 🎪 **[Free Things to Do in London](/free/)**
 - 🎵 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
+- 🙋 **[Things to Do Alone in London](/articles/things-to-do-alone-london/)**: cinema, comedy and gallery lates for one
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🎨 **[Peckham Area Guide](/articles/peckham-area-guide/)**
 - 🏙️ **[South Bank Area Guide](/articles/south-bank-area-guide/)**

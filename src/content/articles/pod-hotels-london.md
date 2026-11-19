@@ -219,6 +219,8 @@ Published lists of London capsule hotels run to ten or eleven by counting the fo
 
 **Book a capsule if** you are alone, you want a Zone 1 address for hostel money, and you only need somewhere to sleep. **Book a hostel if** you want a kitchen, a bar, or to meet people; our [best hostels in London guide](/articles/best-hostels-london/) compares them. **Book a windowless room if** there are two or more of you: the second guest adds about £5 a night.
 
+For the rest of a trip on your own, from getting home at night to eating alone, see [solo travel in London](/articles/solo-travel-london/).
+
 For a long layover or a late flight, a [day room](/articles/day-rooms-london/) is cheaper than any of this and bookable for the afternoon. For more than a few nights, an [aparthotel](/articles/aparthotels-london/) with a kitchen beats both. For a private room with a window, [the best budget hotels in London](/articles/best-budget-hotels-london/) lists the hotels whose typical night came to £150 or less.
 
 Zedwell calls both its capsule berths and its hotel rooms "Cocoons", so **"Capsule" in the property name** is what tells them apart. Our [windowless hotel rooms guide](/articles/windowless-hotel-rooms-london/) covers the rooms.

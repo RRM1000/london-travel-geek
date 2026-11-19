@@ -413,6 +413,7 @@ Most venues charge per lane, per oche or per time band rather than a flat per-he
 ## Continue planning your London trip
 
 - 🎪 **[Free Things to Do in London](/free/)**
+- 👋 **[How to Meet People in London](/articles/meet-people-london/)** — run clubs, language exchanges and board-game nights for people on their own
 - 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — private rooms, KTV and free pub nights, with room sizes and prices
 - 🎵 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
