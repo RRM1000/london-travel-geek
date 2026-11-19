@@ -1,0 +1,2980 @@
+{
+  "purpose": "Food and drink creators (YouTube, TikTok, Instagram) worth checking when researching a London food guide: tier D video sources in data/sources.json. Built from every creator the consensus research has used, plus creators Rob flags by hand.",
+  "howToUse": "Before a food guide, search these channels for the topic or area. A creator's videos count as one source across platforms. \"paid\" lists disclosed ads, gifted or hosted visits, which are never counted. Add a creator by hand with \"manual\": true; rebuild with node scripts/build-creators-list.mjs, which keeps hand-written fields.",
+  "updated": "2026-11-19",
+  "count": 256,
+  "creators": [
+    {
+      "name": "Harrison Webb",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@HarrisonWebb97"
+      },
+      "topics": [
+        "afternoon-tea",
+        "breakfast-brunch",
+        "filipino",
+        "gastropub-food",
+        "general",
+        "indian",
+        "italian",
+        "peruvian",
+        "pizza",
+        "rooftop",
+        "seafood",
+        "steak",
+        "sunday-roast"
+      ],
+      "paid": [
+        {
+          "topic": "peruvian",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "TOPJAW",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@topjaw"
+      },
+      "topics": [
+        "breakfast-brunch",
+        "dim-sum",
+        "fried-chicken",
+        "gastropub-food",
+        "indian",
+        "italian",
+        "steak"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Gary Eats",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@GaryEats"
+      },
+      "topics": [
+        "gastropub-food",
+        "greek",
+        "indian",
+        "italian",
+        "steak",
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "RestroSpot",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@RestroSpot"
+      },
+      "topics": [
+        "afternoon-tea",
+        "fish-and-chips",
+        "gastropub-food",
+        "greek",
+        "rooftop",
+        "west-african"
+      ],
+      "paid": [
+        {
+          "topic": "afternoon-tea",
+          "why": "paid placement"
+        },
+        {
+          "topic": "gastropub-food",
+          "why": "paid placement"
+        },
+        {
+          "topic": "greek",
+          "why": "paid placement"
+        },
+        {
+          "topic": "rooftop",
+          "why": "paid placement"
+        },
+        {
+          "topic": "west-african",
+          "why": "COMPILATION CHANNEL, AND IT IS REGISTERED TIER D IN data/sources.json, so this also needs a human decision. Its 'Top 10 Best African Restaurants in London' carries the disclaimer 'We have used video footage and images to maximize the clarit"
+        }
+      ]
+    },
+    {
+      "name": "Ugo Arinzeh",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@UgoArinzeh"
+      },
+      "topics": [
+        "indian",
+        "italian",
+        "pub-gardens",
+        "rooftop",
+        "rooftop-bars",
+        "west-african"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Insider Food",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@InsiderFood"
+      },
+      "topics": [
+        "afternoon-tea",
+        "fish-and-chips",
+        "gastropub-food",
+        "hot-chocolate",
+        "sunday-roast"
+      ],
+      "paid": [
+        {
+          "topic": "gastropub-food",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Sorted Food",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SortedFood"
+      },
+      "topics": [
+        "fried-chicken",
+        "italian",
+        "pizza",
+        "steak"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Appetite",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@appetiteapp"
+      },
+      "topics": [
+        "gastropub-food",
+        "greek",
+        "pizza"
+      ],
+      "paid": [
+        {
+          "topic": "gastropub-food",
+          "why": "paid placement"
+        },
+        {
+          "topic": "greek",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Eating With Tod",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@eatingwithtod",
+        "tiktok": "https://www.tiktok.com/@eatingwithtod"
+      },
+      "topics": [
+        "gastropub-food",
+        "steak",
+        "sunday-roast"
+      ],
+      "paid": [
+        {
+          "topic": "gastropub-food",
+          "why": "paid placement"
+        }
+      ],
+      "focus": "London street food, burgers, steak, Sunday roasts, viral openings; Shorts and TikToks",
+      "notes": "Runs his own Christmas street-food market, Tod's Festive Feast (Outernet, Tottenham Court Road; first year 13 Nov-28 Dec 2025, returning for 2026 per his short of 19 Nov 2026). His videos about the market are his own promotion, not evidence. Flagged by Rob 19 Nov 2026.",
+      "addedFrom": "Rob's 'Food' draft, youtube.com/shorts/SwCOtJpSBJQ",
+      "manual": true
+    },
+    {
+      "name": "Hannah Ricketts",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@HannahRicketts"
+      },
+      "topics": [
+        "afternoon-tea",
+        "gastropub-food",
+        "steak"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Love and London",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@loveandlondon"
+      },
+      "topics": [
+        "afternoon-tea",
+        "coffee",
+        "speakeasy"
+      ],
+      "paid": [
+        {
+          "topic": "afternoon-tea",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Mark Wiens",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@MarkWiens"
+      },
+      "topics": [
+        "fish-and-chips",
+        "general",
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "MORE FALLOW",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@MoreFallow"
+      },
+      "topics": [
+        "indian",
+        "pizza",
+        "steak"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Randomly Food",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@RandomlyFood"
+      },
+      "topics": [
+        "filipino",
+        "fusion",
+        "peruvian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Shu / @dejashu",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@dejashu"
+      },
+      "topics": [
+        "dim-sum",
+        "hot-pot",
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Strictly Dumpling",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@strictlydumpling"
+      },
+      "topics": [
+        "general",
+        "hot-pot",
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Three Man Abroad",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ThreeManAbroad"
+      },
+      "topics": [
+        "bubble-tea",
+        "dinner-and-a-show",
+        "rooftop-bars"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Albertine Sarah",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@AlbertineSarah"
+      },
+      "topics": [
+        "afternoon-tea",
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Bon Appétit",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@bonappetit"
+      },
+      "topics": [
+        "italian",
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "BoopFoodie",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Boopfoodie"
+      },
+      "topics": [
+        "greek",
+        "indian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Busayo AD",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Busayo_AD"
+      },
+      "topics": [
+        "greek",
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Danny & Gary",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@DannyGaryYouTube"
+      },
+      "topics": [
+        "gastropub-food",
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "DW Food",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@DWFood"
+      },
+      "topics": [
+        "craft-beer-pubs",
+        "sunday-roast"
+      ],
+      "paid": [
+        {
+          "topic": "craft-beer-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "EAT PINOY",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@EATPINOY"
+      },
+      "topics": [
+        "filipino",
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Food Review Club",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@FoodReviewClubUK"
+      },
+      "topics": [
+        "fusion",
+        "italian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Food with Chetna",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@FoodwithChetna"
+      },
+      "topics": [
+        "fusion",
+        "indian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "FoodyFella",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@FoodyFella"
+      },
+      "topics": [
+        "caribbean",
+        "steak"
+      ],
+      "paid": []
+    },
+    {
+      "name": "gioacchinorusso_",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@gioacchino.london.uk"
+      },
+      "topics": [
+        "dinner-and-a-show",
+        "most-beautiful-pubs"
+      ],
+      "paid": [
+        {
+          "topic": "most-beautiful-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Greeno Eats",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@GreenoEats"
+      },
+      "topics": [
+        "fried-chicken",
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "homegirl london",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@homegirllondon2954"
+      },
+      "topics": [
+        "barbecue",
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Inner Alchemy",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@InnerAlchemyHub"
+      },
+      "topics": [
+        "fusion",
+        "hot-pot"
+      ],
+      "paid": []
+    },
+    {
+      "name": "JOLLY",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@jolly"
+      },
+      "topics": [
+        "fusion",
+        "pizza"
+      ],
+      "paid": [
+        {
+          "topic": "fusion",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Kayse",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@bykayse"
+      },
+      "topics": [
+        "bubble-tea",
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Mark Wiens Abroad",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@MarkWiensAbroad"
+      },
+      "topics": [
+        "steak",
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Michaels Bites",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@MichaelsBites"
+      },
+      "topics": [
+        "caribbean",
+        "greek"
+      ],
+      "paid": [
+        {
+          "topic": "greek",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Myriad Recipes / Emily Roz",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@myriadrecipes"
+      },
+      "topics": [
+        "filipino",
+        "west-african"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Rayscafe",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Rayscafes"
+      },
+      "topics": [
+        "bubble-tea",
+        "hot-chocolate"
+      ],
+      "paid": []
+    },
+    {
+      "name": "RollinJoint",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@rollinjoint",
+        "youtube": "https://www.youtube.com/@Rollinjoint"
+      },
+      "topics": [
+        "dinner-and-a-show",
+        "vietnamese"
+      ],
+      "paid": []
+    },
+    {
+      "name": "simplyrasha",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@simplyrasha"
+      },
+      "topics": [
+        "coffee",
+        "dinner-and-a-show"
+      ],
+      "paid": [
+        {
+          "topic": "dinner-and-a-show",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "The Staff Canteen",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Thestaffcanteen"
+      },
+      "topics": [
+        "gastropub-food",
+        "indian"
+      ],
+      "paid": [
+        {
+          "topic": "gastropub-food",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "TravelDog | Food and Travel",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@_TravelDog_"
+      },
+      "topics": [
+        "barbecue",
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Tweedy Pubs",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TweedyPubs"
+      },
+      "topics": [
+        "craft-beer-pubs",
+        "most-beautiful-pubs"
+      ],
+      "paid": [
+        {
+          "topic": "most-beautiful-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "¿Qué tal, Ceci?",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@CecienUK"
+      },
+      "topics": [
+        "peruvian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "1 Minute Walks",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@1minutewalks325"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "A Lady in London",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@aladyinlondon"
+      },
+      "topics": [
+        "most-beautiful-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "A Twist Of Date",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@atwistofdate"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "aesteatify",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@aesteatify"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "alexalexgalaxy",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@alexalexgalaxy"
+      },
+      "topics": [
+        "breakfast-brunch"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Amanda & Felix Eats",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@AmandaFelixEats"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Andy Eats",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Andy-eats"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Angelina",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@angelina.pj"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Anna Mae Lamentillo",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@AnimeLamentillo"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "annie_grieve",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@annie_grieve"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Ashton",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@ashtonn.sixss"
+      },
+      "topics": [
+        "most-beautiful-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Beard's Flavour Of The Month",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@BeardsFlavourOfTheMonth"
+      },
+      "topics": [
+        "rooftop"
+      ],
+      "paid": []
+    },
+    {
+      "name": "beli_eats",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@beli_eats"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": [
+        {
+          "topic": "gastropub-food",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Beyond The Fork",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@beyondthefork"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Big Jerk Vibes",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@BigJerkVibes"
+      },
+      "topics": [
+        "caribbean"
+      ],
+      "paid": []
+    },
+    {
+      "name": "BIG TEE THE FOODIE",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@BIGTEE_THEFOODIE"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Bites of Belonging",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@BitesOfBelonging"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Bitesize Reviews",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@BitesizeReviews"
+      },
+      "topics": [
+        "seafood"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Brandiece",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@itsbrandiece"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "BrewDogOfficial",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@BrewDogOfficial"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": [
+        {
+          "topic": "craft-beer-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Bunch of Bananas (podcast)",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@bunchofbananaspod"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Business With Dave",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@BusinessWithDave"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "bypeixian",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@bypeixian"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "PAID PLACEMENT: promo for a BOGOF deal, 'thank you @Promote.io'."
+        }
+      ]
+    },
+    {
+      "name": "Cass Wright",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@itscasswright"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Charlie Betts",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@charliebetts_"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "chef who travels",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@chef_who_travels"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Chew The Fat Food Reviews",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ChewTheFatFoodReviews"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "ChiChu Liu",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ChiChuLiu"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "ChinatownLondon",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ChinatownLondon"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": [
+        {
+          "topic": "hot-pot",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "chloethandie",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@chloethandie"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Claudia Romeo",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@claudia-romeo"
+      },
+      "topics": [
+        "general"
+      ],
+      "paid": []
+    },
+    {
+      "name": "cntraveller",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@cntraveller"
+      },
+      "topics": [
+        "afternoon-tea"
+      ],
+      "paid": [
+        {
+          "topic": "afternoon-tea",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Condé Nast Traveler",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Traveler"
+      },
+      "topics": [
+        "indian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Culture Trip",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@culturetrip"
+      },
+      "topics": [
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "curatedadventuring",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@curatedadventuring"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Curly Views",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@curlyviews"
+      },
+      "topics": [
+        "hot-chocolate"
+      ],
+      "paid": []
+    },
+    {
+      "name": "daily.duo.eats",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@daily.duo.eats"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "PAID PLACEMENT: 'gifted but honest opinions as always @buymeego'."
+        }
+      ]
+    },
+    {
+      "name": "DallasInWanderland",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@DallasInWanderland"
+      },
+      "topics": [
+        "afternoon-tea"
+      ],
+      "paid": [
+        {
+          "topic": "afternoon-tea",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "danipazfischer",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@danipazfischer"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "A brand's seasonal range tagged to the brand, not a shop recommendation."
+        }
+      ]
+    },
+    {
+      "name": "danknowzbest",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@danknowzbest"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "Vox pop; the shop's name is unintelligible in the audio ('Wrong tea' / 'Ruin tea'). Not recorded rather than guessed."
+        }
+      ]
+    },
+    {
+      "name": "dens_destinations",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@dens_destinations"
+      },
+      "topics": [
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Designmynight",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Designmynight"
+      },
+      "topics": [
+        "pub-gardens"
+      ],
+      "paid": [
+        {
+          "topic": "pub-gardens",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Dilan Kurt",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Dilanalikurt"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "dinewithfari",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@dinewithfari"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "dot.bubbletea",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@dot.bubbletea"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "TIER F: the venue's own account (Romford)."
+        }
+      ]
+    },
+    {
+      "name": "Dough Boy Dines",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@DoughBoyDines"
+      },
+      "topics": [
+        "speakeasy"
+      ],
+      "paid": []
+    },
+    {
+      "name": "dudu.eats",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@dudu.eats"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Eat Play London",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@eatplaylondon"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "eat.snack.repeat",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@eat.snack.repeat"
+      },
+      "topics": [
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Eater",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@eater"
+      },
+      "topics": [
+        "peruvian"
+      ],
+      "paid": [
+        {
+          "topic": "peruvian",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "EATOUTGUIDELONDON",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@eatoutguidelondon"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Emma Eats A Lot",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@emmaeatsalot"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Explore by the Glass",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ExplorebytheGlass"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Explore with Chrissy",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ExplorewithChrissy"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "exploringlondon",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@exploringlondon"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": [
+        {
+          "topic": "dinner-and-a-show",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "FallowChefs",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@FallowChefs"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": [
+        {
+          "topic": "hot-pot",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Far From Home Adventures",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@farfromhomeadventures"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Farah Redif",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@farahredif"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Feed the Lion",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Feedthelion"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "flamingalahbrewingco",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@flamingalahbrewingco"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": [
+        {
+          "topic": "craft-beer-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Food Kulcha",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@FoodKulcha"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "foodie_lilly",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@foodie_lilly"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": [
+        {
+          "topic": "dinner-and-a-show",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Gabriella",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@gabriellasmain"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Gary Butler",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@theroamingcook"
+      },
+      "topics": [
+        "vietnamese"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Ghazala's Food and Travel",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ghazalasfoodandtravel"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": [
+        {
+          "topic": "fusion",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Global Food Quest",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@globalfoodquestTV"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Go Halal Or Go Home",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@gohalalorgohome"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Gordon CK Ho",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@gordonckho"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "grace_talll",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@grace_talll"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "PAID PLACEMENT: '[invite via @Joinbulba]'."
+        }
+      ]
+    },
+    {
+      "name": "Greekosophy",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Greekosophy"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Guido TV",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Guidotv222"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Halal Gems",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@halalgems"
+      },
+      "topics": [
+        "hot-chocolate"
+      ],
+      "paid": []
+    },
+    {
+      "name": "halalfoodlondon",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@halalfoodlondon"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "happylambhotpotuk3069",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@happylambhotpotuk3069"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": [
+        {
+          "topic": "hot-pot",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Harry Kersh",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@harrykersh"
+      },
+      "topics": [
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "HeywheresBB",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@heywheresbb"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "HisKitch",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@HisKitch"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Historic Pub Crawls",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@HistoricPubCrawls"
+      },
+      "topics": [
+        "pub-gardens"
+      ],
+      "paid": []
+    },
+    {
+      "name": "imhungryinlondon",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@imhungryinlondon"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Inside Kitchen London",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@InsideKitchen_LDN"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": [
+        {
+          "topic": "greek",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Jack's Dining Room",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@jacksdiningroom"
+      },
+      "topics": [
+        "indian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "James Hoffmann",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@jameshoffmann"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "jasminechidiuto",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@jasminechidiuto"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "jayverified",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@jayverified"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": [
+        {
+          "topic": "hot-pot",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "jessicaeabb",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@jessicaeabb"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "jesslouiseellis",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@jesslouiseellis"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": [
+        {
+          "topic": "dinner-and-a-show",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "jimmykimtv",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@jimmykimtv"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": [
+        {
+          "topic": "hot-pot",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Joe Blogs",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@JoeBlogsFood"
+      },
+      "topics": [
+        "afternoon-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "jolin_london_2026",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@jolin_london_2026"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "Launch-offer copy (BOGOF, free magnet, free tote, 'tag us to receive') - reads as operator marketing, no opinion."
+        }
+      ]
+    },
+    {
+      "name": "Joolz Guides",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Joolzguides"
+      },
+      "topics": [
+        "wine-bars"
+      ],
+      "paid": []
+    },
+    {
+      "name": "JoshuaWeissman",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@JoshuaWeissman"
+      },
+      "topics": [
+        "hot-chocolate"
+      ],
+      "paid": [
+        {
+          "topic": "hot-chocolate",
+          "why": "Returned by the same search but off-topic: recipes, history, instant-cocoa taste tests, and one guide to hot chocolate in PARIS. None names a London venue."
+        }
+      ]
+    },
+    {
+      "name": "joshucr",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@joshucr"
+      },
+      "topics": [
+        "breakfast-brunch"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Just Veganin",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@JustVeganin"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "KateNevs",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@katenevs"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "katewinney_",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@katewinney_"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "kiaya amy",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@kiayas.out.again"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Kitchen Raid",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@KitchenRaid"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Kitty Bonner",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@kittybonner"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Kristine Camille",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@itskristinecamille"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "KS ATE HERE",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ks_ate_here"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "kseniia.journey",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@kseniia.journey"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": [
+        {
+          "topic": "dinner-and-a-show",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Latifs Inspired",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@LatifsInspired"
+      },
+      "topics": [
+        "steak"
+      ],
+      "paid": []
+    },
+    {
+      "name": "leahwatki",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@leahwatki"
+      },
+      "topics": [
+        "hot-chocolate"
+      ],
+      "paid": [
+        {
+          "topic": "hot-chocolate",
+          "why": "Both are on-topic London hot chocolate videos but neither description names a single venue, so there is nothing to record without watching them. Left out rather than guessed at."
+        }
+      ]
+    },
+    {
+      "name": "lenaunpacked",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@lenaunpacked"
+      },
+      "topics": [
+        "breakfast-brunch"
+      ],
+      "paid": []
+    },
+    {
+      "name": "LibraTraveler",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@LibraTraveler"
+      },
+      "topics": [
+        "rooftop-bars"
+      ],
+      "paid": [
+        {
+          "topic": "rooftop-bars",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Life with Hashi",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Life_WithHashi"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Life with Lisa",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@LollipopBoxClub"
+      },
+      "topics": [
+        "speakeasy"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Linleys 360",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Linleys"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Locavore Eats",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@locavore_eats"
+      },
+      "topics": [
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London English Videos",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@londonEnglishVideos"
+      },
+      "topics": [
+        "pub-gardens"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London Foodie",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@londonfoodie7542"
+      },
+      "topics": [
+        "rooftop"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London Foodies",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@LondonFoodies"
+      },
+      "topics": [
+        "italian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London Ki Lali",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@LondonkiLali"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London Living with Ugo",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@LondonLivingwithUgo"
+      },
+      "topics": [
+        "west-african"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London Luke Living History Page",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@londonluke6487"
+      },
+      "topics": [
+        "most-beautiful-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London Pub Guide",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@londonpubguide4517"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London Tamil Bro",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@londontamilbro"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "London’s Best Eats",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@LondonsBestEats"
+      },
+      "topics": [
+        "fried-chicken"
+      ],
+      "paid": []
+    },
+    {
+      "name": "londonforless",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@londonforless"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "News of an announced opening, not an opinion."
+        }
+      ]
+    },
+    {
+      "name": "Londonspicetrail",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Londonspicetrail"
+      },
+      "topics": [
+        "hot-pot"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Maria Rita",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@mariarita_cnn"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "MelaninMichie",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@MelaninMichie"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Meldy Catamora",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@meldycatamora"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "merissahldn",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@mvlondonreviews"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "michelle alexa",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@michellealexander_"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": [
+        {
+          "topic": "dinner-and-a-show",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Munchies",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Munchies"
+      },
+      "topics": [
+        "italian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "munchies_with_sazzle",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@munchies_with_sazzle"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Muslimah That Eats",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@muslimah.that.eats"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "My Miles My Moments",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@My_Miles_My_Moments"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "My Tasty Naija",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@MyTastyNaija"
+      },
+      "topics": [
+        "west-african"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Nandini",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@nandinibalakrish"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "nessnoms",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@nessnoms"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Newspistol Lebidakis",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@NewspistolLebidakis"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "No Space In My Passport",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@nospaceinmypassport"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Nochi Tamil",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@MKapilan"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "NomadNestExplorations",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@NomadNestExplorations"
+      },
+      "topics": [
+        "rooftop"
+      ],
+      "paid": [
+        {
+          "topic": "rooftop",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "One One One",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@OneOneOneEveryLondonOffice"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "One Shot Adventures",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@OneShotAdventures"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Onion Jain",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@onionjain9775"
+      },
+      "topics": [
+        "hot-chocolate"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Only Scrans",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@onlyscrans"
+      },
+      "topics": [
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "outwithnadia",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@outwithnadia"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Paging Mr. Morrow",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@PagingMrMorrow"
+      },
+      "topics": [
+        "speakeasy"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Pem Danis",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@PemDanis"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Phood N Drinx",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@phoodndrinx"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Pubs of London",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@PubsofLondon"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": [
+        {
+          "topic": "craft-beer-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Real Ale Craft Beer",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@realaleguide"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Real Ales Real Pubs",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@RealAlesRealPubs"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Restaurantgram",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@restaurantgram"
+      },
+      "topics": [
+        "most-beautiful-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Ride Creator",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Ride_Creator"
+      },
+      "topics": [
+        "speakeasy"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Robbie Thompson / Street Food Analysis",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@streetfoodanalysis"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Ron Digao",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@rondigao"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "rosielewis_",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@rosielewis_"
+      },
+      "topics": [
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Saaniya",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@sxxniyx"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Safiya Arinola",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@safiyaarinola"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "PAID PLACEMENT: 'we are invited down to try it out ourselves'. The same creator's unsponsored Xing Fu Tang video is recorded."
+        }
+      ]
+    },
+    {
+      "name": "Sam Wilder",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SamWilder"
+      },
+      "topics": [
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Sarah Highfield",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SarahHighfield"
+      },
+      "topics": [
+        "peruvian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "sarahmantelin",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@sarahmantelin"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": [
+        {
+          "topic": "gastropub-food",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "SCOOP OF RICE",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@scoopofrice"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "SecretFoodTours",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SecretFoodTours"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": [
+        {
+          "topic": "craft-beer-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "SEE1508",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@see1508-more-than-just-travel"
+      },
+      "topics": [
+        "sri-lankan"
+      ],
+      "paid": []
+    },
+    {
+      "name": "settime2588",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@settime2588"
+      },
+      "topics": [
+        "hot-chocolate"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Sharmaine",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@sharmainesiu"
+      },
+      "topics": [
+        "barbecue"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Shiran de Silva",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@shirandesilva68"
+      },
+      "topics": [
+        "seafood"
+      ],
+      "paid": []
+    },
+    {
+      "name": "SmearedApron",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SmearedApron"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Sochima",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@sochimamaeats"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "sophiapatriciamai",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@sophiapatriciamai"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "soulsupperuk",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@soulsupperuk"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": [
+        {
+          "topic": "dinner-and-a-show",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Starstruck by London",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@StarstruckByLondon"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Surrender Monkey Travels",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SurrenderMonkeys1"
+      },
+      "topics": [
+        "wine-bars"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Taeki Chan",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TaekiChan"
+      },
+      "topics": [
+        "dim-sum"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Ten Lifestyle Group",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TenLifestyleGroup"
+      },
+      "topics": [
+        "seafood"
+      ],
+      "paid": []
+    },
+    {
+      "name": "The City Guru",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@thecitygurutravel"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "The Craft Beer Channel",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TheCraftBeerChannel"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "The MacMaster",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TheMacMaster"
+      },
+      "topics": [
+        "pizza"
+      ],
+      "paid": []
+    },
+    {
+      "name": "The Perambulators",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@theperambulators"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "The Spurt Hole",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SpurtHole"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "The Sunday Times Style",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@SundayTimesStyle"
+      },
+      "topics": [
+        "gastropub-food"
+      ],
+      "paid": []
+    },
+    {
+      "name": "The Tailoring Talk Magazine",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TailoringTalkMagazine"
+      },
+      "topics": [
+        "italian"
+      ],
+      "paid": []
+    },
+    {
+      "name": "the tour guy",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@thetourguy"
+      },
+      "topics": [
+        "general"
+      ],
+      "paid": []
+    },
+    {
+      "name": "thebobbyfreeman",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@thebobbyfreeman"
+      },
+      "topics": [
+        "speakeasy"
+      ],
+      "paid": [
+        {
+          "topic": "speakeasy",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "thecuriouspixie",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@thecuriouspixie"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "thegreatbritishpubcrawl",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@thegreatbritishpubcrawl"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": [
+        {
+          "topic": "craft-beer-pubs",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "therooftopguide",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@therooftopguide"
+      },
+      "topics": [
+        "rooftop"
+      ],
+      "paid": [
+        {
+          "topic": "rooftop",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "This Food Bangz",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@ThisFoodBangz"
+      },
+      "topics": [
+        "west-african"
+      ],
+      "paid": []
+    },
+    {
+      "name": "thiswasnotwellplanned",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@thiswasnotwellplanned"
+      },
+      "topics": [
+        "hot-chocolate"
+      ],
+      "paid": []
+    },
+    {
+      "name": "timeoutvideo",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@timeoutvideo"
+      },
+      "topics": [
+        "rooftop-bars"
+      ],
+      "paid": [
+        {
+          "topic": "rooftop-bars",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Tom the Taxi Driver",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TomtheTaxiDriver"
+      },
+      "topics": [
+        "fish-and-chips"
+      ],
+      "paid": []
+    },
+    {
+      "name": "tonyspita3901",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@tonyspita3901"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": [
+        {
+          "topic": "greek",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "TotoChronicles",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@totochronicles"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Travel Doll",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TravelDoll"
+      },
+      "topics": [
+        "greek"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Travel with Ben",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TravelWithBen121"
+      },
+      "topics": [
+        "fish-and-chips"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Travels in India, London & the UK",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@mr07623445678"
+      },
+      "topics": [
+        "fusion"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Travels Unfiltered",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TravelsUnfiltered"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "trip_train_",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@trip_train_"
+      },
+      "topics": [
+        "speakeasy"
+      ],
+      "paid": [
+        {
+          "topic": "speakeasy",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "tripinn1975",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@tripinn1975"
+      },
+      "topics": [
+        "speakeasy"
+      ],
+      "paid": [
+        {
+          "topic": "speakeasy",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "Tyshonadventures",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@TyshonAdventures"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "UKNMtv",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@uknmtv"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Vagabrothers",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@vagabrothers"
+      },
+      "topics": [
+        "craft-beer-pubs"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Venus On The Go",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@venus.onthego"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Wander BB",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@wanderbb2555"
+      },
+      "topics": [
+        "filipino"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Wander Beyond",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@WanderBeyond-YT"
+      },
+      "topics": [
+        "rooftop-bars"
+      ],
+      "paid": []
+    },
+    {
+      "name": "whatyeedoing",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@whatyeedoing"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": [
+        {
+          "topic": "bubble-tea",
+          "why": "PAID PLACEMENT: caption says 'invited & always honest! I'm so grateful to be part of their grand opening'."
+        }
+      ]
+    },
+    {
+      "name": "where's raya",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@wheresraya"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "where2eatlondon",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@where2eatlondon"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "WHOLEBEANONLY",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@wholebeanonly"
+      },
+      "topics": [
+        "coffee"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Wombat Wombaffle",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@wombatwombaffle"
+      },
+      "topics": [
+        "seafood"
+      ],
+      "paid": []
+    },
+    {
+      "name": "YEN",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@iamyenlikethemoney"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "YourGuidesAbroad",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@YourGuidesAbroad"
+      },
+      "topics": [
+        "afternoon-tea"
+      ],
+      "paid": [
+        {
+          "topic": "afternoon-tea",
+          "why": "paid placement"
+        }
+      ]
+    },
+    {
+      "name": "YuYuSenpai",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@YuYuSenPai_YuH"
+      },
+      "topics": [
+        "sunday-roast"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Zoe hungry.buns",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@hungry.buns"
+      },
+      "topics": [
+        "dinner-and-a-show"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Zoe Tang",
+      "platforms": {
+        "tiktok": "https://www.tiktok.com/@zo.etang"
+      },
+      "topics": [
+        "bubble-tea"
+      ],
+      "paid": []
+    },
+    {
+      "name": "Aton Of Food",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@Aton_of_food"
+      },
+      "focus": "London area food guides (Shorts)",
+      "notes": "King's Cross Food Guide (youtube.com/shorts/oehmsor7Tj0) is a paid partnership with LNER, so it doesn't count; their unpaid guides can.",
+      "addedFrom": "Rob's 'Food' draft, 19 Nov 2026",
+      "manual": true,
+      "paid": [
+        {
+          "topic": "kings-cross",
+          "why": "Paid Partnership with LNER (video description)"
+        }
+      ],
+      "topics": []
+    },
+    {
+      "name": "Clement Leung",
+      "platforms": {
+        "youtube": "https://www.youtube.com/@InstaNoodls",
+        "tiktok": "https://www.tiktok.com/@insta.noodls",
+        "instagram": "https://www.instagram.com/insta.noodls/"
+      },
+      "focus": "Noodles and East Asian food in London; Chinatown food crawls",
+      "notes": "London Chinatown Food Crawl (youtube.com/shorts/m1eUinngqWs): Noodle Inn, Joy Joy Bao, Kawan, Bun House, Mamasons.",
+      "addedFrom": "Rob's 'Food' draft, 19 Nov 2026",
+      "manual": true,
+      "topics": [],
+      "paid": []
+    }
+  ]
+}
