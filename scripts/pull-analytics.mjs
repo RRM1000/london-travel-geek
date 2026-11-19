@@ -187,12 +187,12 @@ async function pullGa4(auth, property) {
     ["toc_click", "section", ["pagePath"]],
     ["section_reached", "section", ["pagePath"]],
     ["nav_click", "label", []],
-    ["site_search", "query", []],
+    ["site_search", "query", ["customEvent:results"]],
   ];
   const missing = new Set();
-  for (const [event, param, extra] of wanted) {
+  for (let [event, param, extra] of wanted) {
     const key = `${event}.${param}`;
-    try {
+    for (let attempt = 0; attempt < 2; attempt++) try {
       const rows = await runReport(data, property, {
         dateRanges: [twoWindows[0]],
         dimensions: [{ name: `customEvent:${param}` }, ...extra.map((name) => ({ name }))],
@@ -203,10 +203,21 @@ async function pullGa4(auth, property) {
       breakdowns[key] = rows.map((r) => ({
         [param]: r[`customEvent:${param}`],
         ...(extra.includes("pagePath") ? { path: normalisePath(r.pagePath) } : {}),
+        ...(extra.includes("customEvent:results") ? { results: Number(r['customEvent:results']) } : {}),
         count: r.eventCount,
       }));
+      break;
     } catch (e) {
+      // An unregistered extra dimension (site_search's results) fails the
+      // whole call; retry without it so the main breakdown still arrives.
+      const extraCustom = extra.filter((x) => x.startsWith("customEvent:"));
+      if (attempt === 0 && extraCustom.length) {
+        extraCustom.forEach((x) => missing.add(x.replace("customEvent:", "")));
+        extra = extra.filter((x) => !x.startsWith("customEvent:"));
+        continue;
+      }
       missing.add(param);
+      break;
     }
   }
 
@@ -333,8 +344,10 @@ function buildReports(ga4, gsc, w) {
   // 3. Content gaps, two sources. Searches on our own site that found nothing
   //    (needs the query dimension registered), and Google queries where we
   //    are shown but sit past page one - demand we half-serve.
+  // Only searches that returned nothing. Needs results registered as a GA4
+  // custom dimension; before this every search was listed as found-nothing.
   const zeroResultSearches = (ga4.breakdowns["site_search.query"] ?? [])
-    .filter((r) => r.query)
+    .filter((r) => r.query && r.results === 0)
     .sort((a, b) => b.count - a.count)
     .slice(0, 50);
   const unmetQueries = gsc.queries
@@ -356,7 +369,9 @@ function buildReports(ga4, gsc, w) {
     .slice(0, 20)
     .map((p) => ({ path: p.path, views: p.current.views, engagedSecondsPerSession: p.current.engagedSecondsPerSession }));
 
-  return { decay, quickWins, zeroResultSearches, unmetQueries, placement, topPages };
+  // Every search, for when results is not registered and zero-result cannot be told apart.
+  const siteSearches = (ga4.breakdowns["site_search.query"] ?? []).filter((r) => r.query).sort((x, y) => y.count - x.count).slice(0, 50);
+  return { decay, quickWins, zeroResultSearches, siteSearches, unmetQueries, placement, topPages };
 }
 
 // --------------------------------------------------------- helpers -------
@@ -404,6 +419,11 @@ function printSummary(out) {
   console.log(`\nUnmet demand - Google queries we show for past page one (${r.unmetQueries.length}):`);
   for (const q of r.unmetQueries.slice(0, 10)) console.log(`  pos ${String(q.position).padStart(4)}  ${n(q.impressions).padStart(6)} imp  "${q.query}"`);
 
+  if (!r.zeroResultSearches.length && r.siteSearches?.length) {
+    console.log(`
+Site searches (${r.siteSearches.length}; register "results" as a GA4 custom dimension to see which found nothing):`);
+    for (const q of r.siteSearches.slice(0, 10)) console.log(`  ${n(q.count).padStart(4)}  "${q.query}"`);
+  }
   if (r.zeroResultSearches.length) {
     console.log(`\nSite searches that found nothing (${r.zeroResultSearches.length}):`);
     for (const q of r.zeroResultSearches.slice(0, 10)) console.log(`  ${n(q.count).padStart(4)}  "${q.query}"`);

@@ -110,7 +110,12 @@ const indexUrl = `/search-index.json?v=${stamp}`;
 </BaseLayout>
 
 <script>
-  type Rec = { t: "g" | "r" | "a" | "e" | "h" | "s"; n: string; u: string; d?: string; k?: string };
+  // Matching and ordering live in src/lib/search-rank.js, shared with
+  // scripts/test-search.mjs so a ranking change can be checked against real
+  // queries before it ships.
+  import { prepare, search } from "../lib/search-rank.js";
+
+  type Rec = { t: "g" | "r" | "a" | "e" | "h" | "s"; n: string; u: string; d?: string; k?: string; l?: string };
 
   const input = document.getElementById("search-q") as HTMLInputElement;
   const status = document.getElementById("search-status")!;
@@ -126,28 +131,10 @@ const indexUrl = `/search-index.json?v=${stamp}`;
     s: "Hidden London",
   };
 
-  let records: Rec[] = [];
   let ready = false;
   let type = "all";
 
-  const norm = (s: string) => s.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
-
-  // Score rather than plain filter, so "soho" puts the Soho guide above the
-  // eighty restaurants that merely sit in Soho.
-  function score(r: Rec, terms: string[]) {
-    const name = norm(r.n);
-    const hay = norm(`${r.n} ${r.d ?? ""} ${r.k ?? ""}`);
-    let total = 0;
-    for (const term of terms) {
-      if (!hay.includes(term)) return 0;              // every term must match
-      if (name === term) total += 100;
-      else if (name.startsWith(term)) total += 50;
-      else if (name.includes(term)) total += 25;
-      else total += 5;
-    }
-    if (r.t === "g") total += 10;                     // guides are the main content
-    return total;
-  }
+  let prepared: ReturnType<typeof prepare> = [];
 
   // Writing new rows changes the document height. When a query narrows, the page
   // gets shorter and the browser clamps the scroll position to the new maximum -
@@ -184,9 +171,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
     const queryChanged = q !== lastRenderedQuery;
     lastRenderedQuery = q;
     const shouldAnchor = forceAnchor || queryChanged;
-    const terms = norm(q).split(/\s+/).filter(Boolean);
-
-    if (!terms.length) {
+    if (!q) {
       setResults("");
       if (shouldAnchor) anchorToResults();
       filters.hidden = true;
@@ -198,10 +183,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
       return;
     }
 
-    const scored = records
-      .map((r) => ({ r, s: score(r, terms) }))
-      .filter((x) => x.s > 0)
-      .sort((a, b) => b.s - a.s || a.r.n.localeCompare(b.r.n));
+    const { results: scored, loose } = search(prepared, q) as { results: { r: Rec; s: number }[]; loose: boolean };
 
     const counts = { all: scored.length, g: 0, r: 0, a: 0, e: 0, h: 0, s: 0 } as Record<string, number>;
     for (const { r } of scored) counts[r.t]++;
@@ -215,7 +197,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
     const capped = shown.slice(0, 100);
 
     status.textContent = shown.length
-      ? `${shown.length} result${shown.length === 1 ? "" : "s"} for “${q}”${shown.length > 100 ? " — showing the first 100" : ""}`
+      ? `${shown.length} result${shown.length === 1 ? "" : "s"} for “${q}”${loose ? ", matching some of your words" : ""}${shown.length > 100 ? " — showing the first 100" : ""}`
       : `Nothing matched “${q}”. Try a place name, a cuisine, or a topic like “Oyster card”.`;
 
     // Report the search once the reader has stopped typing, with what it
@@ -239,7 +221,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
     setResults(capped
       .map(({ r }) => {
         const d = r.d ? `<p>${esc(r.d)}</p>` : "";
-        return `<li class="search__result"><a href="${esc(r.u)}"><span class="search__kind" data-kind="${r.t}">${LABEL[r.t]}</span><strong>${esc(r.n)}</strong></a>${d}</li>`;
+        return `<li class="search__result"><a href="${esc(r.u)}"><span class="search__kind" data-kind="${r.t}">${LABEL[r.t]}</span><strong>${esc(r.n)}</strong>${r.l ? `<span class="search__where">${esc(r.l)}</span>` : ""}</a>${d}</li>`;
       })
       .join(""));
 
@@ -285,7 +267,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
   fetch(results.dataset.index || "/search-index.json")
     .then((r) => r.json())
     .then((data) => {
-      records = data.records;
+      prepared = prepare(data.records);
       ready = true;
       render();
       input.focus();
@@ -357,6 +339,7 @@ const indexUrl = `/search-index.json?v=${stamp}`;
   .search__result:last-child { border-block-end: 0; }
   .search__result a { display: flex; align-items: baseline; gap: 0.6rem; text-decoration: none; }
   .search__result strong { font-size: 1.05rem; }
+  .search__where { color: var(--muted); font-size: 0.85rem; }
   .search__result p { margin: 0.3rem 0 0; color: var(--muted); font-size: 0.92rem; }
 
   .search__kind {

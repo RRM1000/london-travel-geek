@@ -19,6 +19,30 @@ import activityData from "../data/activities.json";
 import eventData from "../data/events.json";
 import hotelData from "../data/hotels.json";
 import hiddenLondonData from "../data/hiddenLondon.json";
+import fs from "node:fs";
+
+// Readership per guide from the last analytics pull, used by the search as a
+// tie-breaker between equally good matches. Missing file = no tie-breaker.
+const views = new Map<string, number>();
+try {
+  const pull = JSON.parse(fs.readFileSync("data/analytics/latest.json", "utf8"));
+  for (const pg of pull.ga4?.pages ?? []) if (pg.current?.views) views.set(pg.path, pg.current.views);
+} catch {}
+
+// Section headings, so a guide is found by what it covers and not only by its
+// title and blurb. Markdown links, emphasis and emoji are stripped.
+const headings = (body = "") =>
+  [...body.matchAll(/^#{2,3}\s+(.+)$/gm)]
+    .map((m) =>
+      m[1]
+        .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+        .replace(/[*_`#]/g, "")
+        .replace(/\p{Extended_Pictographic}/gu, "")
+        .trim(),
+    )
+    .filter(Boolean)
+    .join(" · ")
+    .slice(0, 700);
 
 type Record = {
   /** g = guide, r = restaurant, a = activity, e = event, h = hotel, s = hidden London spot. Short because it repeats ~950 times. */
@@ -28,6 +52,12 @@ type Record = {
   d?: string;
   /** Extra words to match on that are not shown: tags, cuisine, area. */
   k?: string;
+  /** A guide's section headings, matched with less weight than its title. */
+  h?: string;
+  /** A guide's page views in the last analytics window: a tie-breaker. */
+  p?: number;
+  /** Where it is, shown beside the name so six branches of one chain can be told apart. */
+  l?: string;
 };
 
 export const GET: APIRoute = async () => {
@@ -58,6 +88,8 @@ export const GET: APIRoute = async () => {
       n: a.data.title,
       u: `/articles/${a.id}/`,
       d: a.data.description,
+      h: headings(a.body) || undefined,
+      p: views.get(`/articles/${a.id}/`),
       k: [a.data.category, ...(a.data.tags ?? []), a.data.area?.name]
         .filter(Boolean)
         .join(" "),
@@ -75,6 +107,7 @@ export const GET: APIRoute = async () => {
       n: r.name,
       u: area ? `/restaurants/area/${area}` : "/restaurants",
       d: r.whyGo,
+      l: r.area || undefined,
       k: [r.cuisine, r.area, r.style, ...(r.specialities ?? []), r.price]
         .filter(Boolean)
         .join(" "),
