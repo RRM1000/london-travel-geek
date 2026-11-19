@@ -86,6 +86,10 @@
   "recentlyDone": [
     {
       "date": "2026-11-19",
+      "what": "Best food in Chinatown (8a7cc619): 28 venues, Noodle Inn as the viral queue, Kawan, 7 Commons photos, linked from 13 pages; fixed Four Seasons hours, BaoziInn location, Noodle & Beer booking, Joy King Lau late claim on related guides. Joy Joy Bao left out until Rob confirms name/address. Food creators list: data/creators.json, 256 creators incl. Eating With Tod, Clement Leung, Aton Of Food (6af094a7); consensus skill starts the video tier from it. Eat hub links Christmas pubs (build's hub check was failing). Tod's Festive Feast returns 2026 outside Tottenham Court Road; add to Christmas markets when dates are out. Unpushed."
+    },
+    {
+      "date": "2026-11-19",
       "what": "Openings radar: ltg-radar/openings.mjs, weekly Monday email (ltg-openings-radar-weekly); 12-month backfill found ~280 openings/closures not on the site; consensus-guide skill now requires a 12-month openings check (236d4678). Carbone added to special-occasion and Mayfair guides (857752fb). Closures removed (c9878ede): Christopher's (brunch guide) and Yauatcha Soho (dim sum, Chinese, all-you-can-eat, happy hour; readers sent to Yauatcha City). Still to do: mark both closed in the Sheet and re-export. Unpushed."
     },
     {
