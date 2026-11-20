@@ -86,6 +86,10 @@
   "recentlyDone": [
     {
       "date": "2026-11-20",
+      "what": "Review branch rebased on origin/main (84 commits ahead, 0 behind). Build was failing on 43 wording-check passages (relative dates, stock phrases); rewritten in 2cbef9ae and the full npm run build now passes (608 pages). Ready to push when Rob says so."
+    },
+    {
+      "date": "2026-11-20",
       "what": "Closures sweep (1083532e, 5828abda): Patty&Bun's four closed sites fixed in the burger guide, Franco Manca's stale branch count fixed in the chains guide, Mriya, Science Gallery London and Lander 23 recorded in data/closed.json; Ombra and Yauatcha Soho marked closed in the Sheet (998 rows, counts matched live) and re-exported, which also dropped stale map pins for Roma Pizza, Kanada-Ya and Monohon. Balans left alone (no confirmed closure). Tod's Festive Feast added to Christmas markets with its 2026 traders, map pin and original-food focus (d73b6156, 3999b39e). Black Friday leads rewritten plainly; guideline added (7996a1b1). Unpushed."
     },
     {
