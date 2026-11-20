@@ -234,7 +234,7 @@ Order the **'nduja**, made with nduja di Spilinga, the **8 Cheese**, which is tw
 
 ### Franco Manca
 
-Franco Manca has 31 London pizzerias. The sourdough pizzas are numbered 1 to 12 on the menu, and the dough rises for 24 hours. A few sites vary the menu slightly. It is a finalist in the 2025 and 2026 National Pizza Awards.
+Franco Manca has pizzerias across London, including Soho, Covent Garden, Aldwych, Waterloo and Bermondsey. The sourdough pizzas are numbered 1 to 12 on the menu, and the dough rises for 24 hours. A few sites vary the menu slightly. It is a finalist in the 2025 and 2026 National Pizza Awards.
 
 ![The Franco Manca pizzeria on Winchester Walk in Southwark, a brick corner building lit at dusk](../../assets/articles/best-chain-restaurants-london/franco-manca-southwark.jpg)
 *Franco Manca, Winchester Walk, Southwark. Photo: [Daniel from Glasgow](https://commons.wikimedia.org/wiki/File:Franco_Manca,_15_Winchester_Walk,_Blows_Yard,_Southwark,_November_2021.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*

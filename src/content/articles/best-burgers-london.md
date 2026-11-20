@@ -351,7 +351,7 @@ Six burgers, all on **British beef from regenerative farms**, in **butter-toaste
 
 Named by the listings sites rather than the critics.
 
-* **Patty & Bun** — *££ · Cited by 2 sources.* Started as a 30-seat Marylebone room and now runs seven sites. Order **The Don**, or the **Ari Gold** with red leicester.
+* **Patty & Bun** — *££ · Cited by 2 sources.* Started as a 30-seat Marylebone room. Its Marylebone, Soho, Liverpool Street and Battersea restaurants closed at the end of March 2026; the restaurants left are Canary Wharf and Brighton, with counters at Swingers on Oxford Street, Lane7 in Victoria and the Leyton Star pub. Order **The Don**, or the **Ari Gold** with red leicester.
 * **MEATliquor** — *££ · Cited by 2 sources.* The **Dead Hippie** with its secret sauce is the fan order. Good vegan options, including impossible nuggets and a black bean chilli dog.
 * **Burger & Lobster** — *£££ · Cited by 2 sources.* The **B&L burger** with Nebraskan beef and Atlantic lobster, the most expensive burger in this guide: burger, lobster or lobster roll, all at one price, with the sides included. Bookable.
 * **Dirty Bones, Carnaby, Soho and Shoreditch** — *££ · Cited by 1 source.* The **Mac Daddy** is topped with pulled beef rib and mac and cheese.

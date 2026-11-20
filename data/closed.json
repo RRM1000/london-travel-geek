@@ -487,6 +487,56 @@
       ],
       "source": "data/enrichment.json businessStatus",
       "recorded": "2026-11-02"
+    },
+    "mriya": {
+      "name": "Mriya",
+      "closed": "2026-06-07",
+      "detail": "Earl's Court. Ukrainian neo-bistro opened in 2022 by Yurii Kovryzhenko and Olga Tsybytovska. Closed for good on 7 June 2026; the announcement was made in late May.",
+      "stillRecommendedBy": [
+        "Ukrainian and Eastern European restaurant lists"
+      ],
+      "source": "https://www.restaurantonline.co.uk/Article/2026/05/22/ukraine-neo-bistro-mriya-to-close-its-doors/",
+      "recorded": "2026-11-20"
+    },
+    "yauatcha soho": {
+      "name": "Yauatcha Soho",
+      "closed": "2026-09-26",
+      "detail": "15-17 Broadwick Street. Closed after lunch service on 26 September 2026 for a refurbishment lasting about a year, reopening in late 2027. Yauatcha City at Broadgate Circle stays open. Delete this entry when the Soho room reopens.",
+      "stillRecommendedBy": [
+        "dim sum and Chinese restaurant lists"
+      ],
+      "source": "https://www.restaurantonline.co.uk/Article/2026/09/22/yauatcha-soho-to-close-for-major-refurbishment/",
+      "recorded": "2026-11-20"
+    },
+    "christophers": {
+      "name": "Christopher's",
+      "closed": "2026-09",
+      "detail": "18 Wellington Street, Covent Garden. American restaurant and martini bar, 35 years in the Grade II listed former casino. Final service at the end of September 2026. The owners say the brand will return at a new site.",
+      "stillRecommendedBy": [
+        "Covent Garden and martini bar lists"
+      ],
+      "source": "https://www.restaurantonline.co.uk/Article/2026/09/23/christophers-to-bow-out-in-covent-garden-after-35-years-but-says-it-will-be-back/",
+      "recorded": "2026-11-20"
+    },
+    "science gallery london": {
+      "name": "Science Gallery London",
+      "closed": "2026-07",
+      "detail": "Borough Wing, Guy's Campus, King's College London, next to London Bridge. King's announced the closure on 17 April 2026 and the gallery closed at the end of July 2026.",
+      "stillRecommendedBy": [
+        "free things to do and gallery lists"
+      ],
+      "source": "https://www.museumsassociation.org/museums-journal/news/2026/07/science-gallery-london-to-close-at-the-end-of-july/",
+      "recorded": "2026-11-20"
+    },
+    "lander 23": {
+      "name": "Lander 23",
+      "closed": "2026-05-10",
+      "detail": "Punchdrunk's immersive sci-fi live-action video game at One Cartridge Place, Woolwich Royal Arsenal. Final performance 10 May 2026 after extensions from its original run.",
+      "stillRecommendedBy": [
+        "immersive theatre lists"
+      ],
+      "source": "https://www.broadwayworld.com/westend/article/Punchdrunk-to-Stage-LANDER-23-FINAL-MISSION-This-May-20260313",
+      "recorded": "2026-11-20"
     }
   },
   "uncertain": {
