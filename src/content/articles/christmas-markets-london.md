@@ -47,6 +47,7 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 | **Trafalgar Square** | North Terrace, WC2 | November to early January each year | Free | Small: one row of chalets. The tree is only lit from 3 December |
 | **Leicester Square** | Leicester Square, WC2 | 31 Oct 2026 – 3 Jan 2027 | Free; the rink is ticketed | Enclosed, and crowded in the evenings |
 | **Covent Garden** | The Piazza and Market Building, WC2 | Lights on 12 Nov 2026 | Free | No chalet market: you get the decorations and the everyday market halls |
+| **Tod's Festive Feast** | Outside Tottenham Court Road station, WC2 | Until 3 Jan 2027 | Free to walk in | A street-food market: no craft chalets |
 | **Borough Market** | Southwark Street, SE1 | Daily from 30 Nov 2026 | Free | Closed 25–27 Dec and 1 Jan; shuts at 5pm |
 | **Winter by the River** | London Bridge City, SE1 | 10 Nov 2026 – 3 Jan 2027 | Free; curling is paid | Closed Christmas Day; 5pm close on Christmas Eve |
 | **Winter Wonderland market** | Hyde Park, W2 | 19 Nov 2026 – 3 Jan 2027 | Entry ticket from £1 | Everyone needs a timed ticket, even just for the market |
@@ -134,6 +135,18 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 *The gold bells under the Market Building's roof, lit after dark.*
 
 **It is one of the busiest places in London on a December Saturday.** Go on a weekday morning to see the bells without the crowd, or after dark to see them lit; the [Christmas lights walk](/articles/christmas-lights-walk-london/) finishes here, via Seven Dials and Floral Street. More on the neighbourhood in our [Covent Garden area guide](/articles/covent-garden-area-guide/).
+
+### Tod's Festive Feast, Tottenham Court Road
+
+**A Christmas market made up entirely of street-food traders**, run by the food creator Eating with Tod outside Tottenham Court Road station, by the Outernet screens. It sells hot food and drink rather than gifts. This is its second year.
+
+**Who is cooking in 2026:** a stall from **Magma by Ikoyi** (from the team behind the two-Michelin-star Ikoyi), **Temper**, the Filipino bakery **Panadera**, fried chicken from **Pecking House**, **Moti Mahal**, Korean food from **Jung**, Dutch fries from **Fabel Friet**, **Ruben's** sausages, **Roll Boys**, doughnuts from **Rinkoffs** and chocolate from **Chapon** ([Tod's own trader list](https://www.tiktok.com/@eatingwithtod/video/7709943962471075105)).
+
+- **Dates:** open **until 3 January 2027**.
+- **Price:** free to walk in; you pay each stall for what you eat.
+- **Getting there:** Tottenham Court Road station (Central, Northern and Elizabeth lines) is next to it.
+
+**Go for a meal, not for shopping.** It is ten minutes' walk up Charing Cross Road from Leicester Square, so the two make one evening: food here, then the chalets and the rink.
 
 ### Borough Market at Christmas
 

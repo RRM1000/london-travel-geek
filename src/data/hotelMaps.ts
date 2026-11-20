@@ -428,6 +428,15 @@ export const hotelMaps: Record<string, HotelMapMarker[]> = {
       articleAnchor: "#leicester-square",
     },
     {
+      name: "Tod's Festive Feast",
+      category: "free",
+      area: "Tottenham Court Road",
+      note: "Street-food Christmas market, until 3 Jan 2027. Free to walk in.",
+      latitude: 51.5159,
+      longitude: -0.1302,
+      articleAnchor: "#tods-festive-feast-tottenham-court-road",
+    },
+    {
       name: "Covent Garden",
       category: "free",
       area: "Covent Garden",
