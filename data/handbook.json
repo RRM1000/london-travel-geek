@@ -85,6 +85,10 @@
   ],
   "recentlyDone": [
     {
+      "date": "2026-11-20",
+      "what": "Closures sweep (1083532e, 5828abda): Patty&Bun's four closed sites fixed in the burger guide, Franco Manca's stale branch count fixed in the chains guide, Mriya, Science Gallery London and Lander 23 recorded in data/closed.json; Ombra and Yauatcha Soho marked closed in the Sheet (998 rows, counts matched live) and re-exported, which also dropped stale map pins for Roma Pizza, Kanada-Ya and Monohon. Balans left alone (no confirmed closure). Tod's Festive Feast added to Christmas markets with its 2026 traders, map pin and original-food focus (d73b6156, 3999b39e). Black Friday leads rewritten plainly; guideline added (7996a1b1). Unpushed."
+    },
+    {
       "date": "2026-11-19",
       "what": "Best food in Chinatown (8a7cc619): 28 venues, Noodle Inn as the viral queue, Kawan, 7 Commons photos, linked from 13 pages; fixed Four Seasons hours, BaoziInn location, Noodle & Beer booking, Joy King Lau late claim on related guides. Joy Joy Bao left out until Rob confirms name/address. Food creators list: data/creators.json, 256 creators incl. Eating With Tod, Clement Leung, Aton Of Food (6af094a7); consensus skill starts the video tier from it. Eat hub links Christmas pubs (build's hub check was failing). Tod's Festive Feast returns 2026 outside Tottenham Court Road; add to Christmas markets when dates are out. Unpushed."
     },
