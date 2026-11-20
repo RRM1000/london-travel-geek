@@ -9,6 +9,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Use a short bulleted list for a set of rules or conditions, not a paragraph that walks through them.
 - Factual and engaging. The facts are the interesting part; superlatives are what people write when they have not found any.
 - British English: colour, neighbourhood, queue, optimise.
+- Write plain sentences, not slogans. A lead sentence states the fact the way a person would say it: "Many shops start their Black Friday sales earlier in November", not "The sales do not wait for the Friday". No personified, punchy or riddle-like openers.
 - Concrete beats evaluative. Describe the thing and let the reader conclude: "served inside a working car dealership on the Great North Road", not "exactly as strange as it sounds".
 - Never write a superlative you cannot source. If a place is the most cited, print the number. If it won something, name the award and the year.
 - Explain jargon or cut it. Describe a style rather than only naming it: "a Detroit square with the cheese burnt crisp against the pan", not just "Detroit".

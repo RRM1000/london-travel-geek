@@ -53,7 +53,7 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 
 ## When Black Friday starts and ends
 
-**The sales do not wait for the Friday.** Oxford Street's [Black Friday guide](https://www.oxfordstreet.co.uk/whats-happening/how-to-shop-black-friday-like-a-pro/) says shoppers can find deals there for most of November, and that some retailers cut prices further for Black Friday and Cyber Monday. Its [itinerary for the day](https://www.oxfordstreet.co.uk/whats-happening/plan-your-black-friday-on-oxford-street/) describes it as a whole weekend that ends on Cyber Monday, which is **30 November**. It also notes that John Lewis and Currys price-match other retailers on the same item.
+**Many shops start their Black Friday sales earlier in November.** Oxford Street's [Black Friday guide](https://www.oxfordstreet.co.uk/whats-happening/how-to-shop-black-friday-like-a-pro/) says shoppers can find deals there for most of November, and that some retailers cut prices further for Black Friday and Cyber Monday. Its [itinerary for the day](https://www.oxfordstreet.co.uk/whats-happening/plan-your-black-friday-on-oxford-street/) describes it as a whole weekend that ends on Cyber Monday, which is **30 November**. It also notes that John Lewis and Currys price-match other retailers on the same item.
 
 Covent Garden's shops run on a Thursday schedule: its [Festive Thursdays](https://www.coventgarden.london/experience/christmas-in-covent-garden/festive-thursdays) run every Thursday from 12 November to 24 December, and KIKO's Black Friday offer there, **buy three products and get three free**, is on **19 and 26 November**.
 
@@ -213,7 +213,7 @@ Hours are each operator's usual hours, except London Designer Outlet, which publ
 | **London Designer Outlet** | 9am–9pm | 9am–9pm | 10am–7pm | [LDO](https://www.londondesigneroutlet.com/opening-times/) |
 | **Outlet Shopping at The O2** | 10am–8pm | 10am–8pm | 10am–8pm (some shops 12pm–6pm) | [The O2 outlet](https://www.outletshoppingattheo2.co.uk/) |
 
-**Sunday is shorter everywhere.** Large shops in England and Wales can open for only six hours between 10am and 6pm, which is why the Sunday columns end at 6pm. Our [shopping guide](/articles/shopping-in-london/) explains the rule.
+**Shops open for fewer hours on Sundays.** Large shops in England and Wales can open for only six hours between 10am and 6pm, which is why the Sunday columns end at 6pm. Our [shopping guide](/articles/shopping-in-london/) explains the rule.
 
 ## When the crowds peak, and how to avoid them
 
