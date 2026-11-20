@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-28",
- "count": 1034,
- "withCoords": 821,
+ "generated": "2026-11-20",
+ "count": 1032,
+ "withCoords": 819,
  "facets": {
   "cuisine": [
    {
@@ -12,12 +12,12 @@
    {
     "value": "Italian",
     "slug": "italian",
-    "count": 163
+    "count": 162
    },
    {
     "value": "Chinese",
     "slug": "chinese",
-    "count": 85
+    "count": 84
    },
    {
     "value": "Indian",
@@ -154,7 +154,7 @@
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 116
+    "count": 115
    },
    {
     "value": "Mayfair",
@@ -306,7 +306,7 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 254
+    "count": 253
    },
    {
     "value": "grill",
@@ -324,24 +324,24 @@
     "count": 107
    },
    {
-    "value": "seafood",
-    "slug": "seafood",
-    "count": 86
-   },
-   {
     "value": "seasonal",
     "slug": "seasonal",
     "count": 86
    },
    {
-    "value": "pasta",
-    "slug": "pasta",
-    "count": 79
+    "value": "seafood",
+    "slug": "seafood",
+    "count": 85
    },
    {
     "value": "pizza",
     "slug": "pizza",
     "count": 79
+   },
+   {
+    "value": "pasta",
+    "slug": "pasta",
+    "count": 78
    },
    {
     "value": "tasting-menu",
@@ -369,13 +369,13 @@
     "count": 39
    },
    {
-    "value": "wine-led",
-    "slug": "wine-led",
-    "count": 39
-   },
-   {
     "value": "cocktails",
     "slug": "cocktails",
+    "count": 38
+   },
+   {
+    "value": "wine-led",
+    "slug": "wine-led",
     "count": 38
    },
    {
@@ -404,13 +404,13 @@
     "count": 26
    },
    {
-    "value": "dim-sum",
-    "slug": "dim-sum",
-    "count": 26
-   },
-   {
     "value": "bubble-tea",
     "slug": "bubble-tea",
+    "count": 25
+   },
+   {
+    "value": "dim-sum",
+    "slug": "dim-sum",
     "count": 25
    },
    {
@@ -508,12 +508,12 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 399
+    "count": 398
    },
    {
     "value": "£££",
     "slug": "price-3",
-    "count": 256
+    "count": 255
    },
    {
     "value": "£",
@@ -1921,9 +1921,9 @@
    "lists": [
     "instagrammable"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B1 C5",
-   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.mummytravels.com/things-to-do-in-london-with-kids/ | https://fullsuitcase.com/london-best-views/"
+   "sourceCount": "12",
+   "sourceTiers": "B6 C6",
+   "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/best-rooftop-bars-in-london_9520 | https://www.countryandtownhouse.com/food-and-drink/roof-terraces-london/"
   },
   {
    "slug": "spring-somerset-house",
@@ -3009,7 +3009,7 @@
    ],
    "sourceCount": "12",
    "sourceTiers": "A2 B3 C4 D3",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.papaindustryawards.co.uk/award-winners-2025 | https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.papaindustryawards.co.uk/award-winners-2025 | https://www.timeout.com/london/restaurants/londons-best-halal-restaurants"
   },
   {
    "slug": "santa-maria-pizzeria",
@@ -3081,7 +3081,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london"
   },
   {
    "slug": "franco-manca",
@@ -3119,7 +3119,7 @@
    ],
    "sourceCount": "6",
    "sourceTiers": "A1 C4 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.thelondonmother.net/things-to-do-canary-wharf/ | https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.thelondonmother.net/things-to-do-canary-wharf/ | https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
   },
   {
    "slug": "la-tua-pasta",
@@ -3200,9 +3200,9 @@
     "showstopper",
     "street-food"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
+   "sourceCount": "4",
+   "sourceTiers": "B2 C1 D1",
+   "sourceUrls": "https://www.thehandbook.com/best-beer-gardens-london/ | https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets"
   },
   {
    "slug": "pastation",
@@ -3791,7 +3791,7 @@
    ],
    "sourceCount": "8",
    "sourceTiers": "A1 B2 C2 D3",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.theinfatuation.com/london/guides/nyc-style-pizza-london-power-ranking | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "sud-italia",
@@ -3981,7 +3981,7 @@
    ],
    "sourceCount": "5",
    "sourceTiers": "A1 B1 C1 D2",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "little-earthquakes",
@@ -4018,7 +4018,7 @@
    ],
    "sourceCount": "3",
    "sourceTiers": "A1 B1 C1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/"
   },
   {
    "slug": "bing-bong-pizza",
@@ -4059,7 +4059,7 @@
    ],
    "sourceCount": "2",
    "sourceTiers": "A1 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.tiktok.com/@eat.snack.repeat"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.tiktok.com/@eat.snack.repeat"
   },
   {
    "slug": "mamma-dough",
@@ -4096,7 +4096,7 @@
    ],
    "sourceCount": "2",
    "sourceTiers": "A1 C1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.thehungrysoles.com/blog/best-pizza-london"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.thehungrysoles.com/blog/best-pizza-london"
   },
   {
    "slug": "paulies",
@@ -5138,44 +5138,6 @@
    "sourceUrls": "https://london.eater.com/maps/best-italian-restaurants-london | https://www.thehandbook.com/best-pasta-restaurants-london/ | https://thenudge.com/features/londons-best-fresh-pasta-joints/"
   },
   {
-   "slug": "ombra",
-   "name": "Ombra",
-   "cuisine": "Italian",
-   "style": "Venetian",
-   "specialities": [
-    "pasta",
-    "seafood",
-    "wine-led"
-   ],
-   "format": "Restaurant",
-   "chainType": "independent",
-   "area": "Bethnal Green",
-   "zone": "2",
-   "district": "East",
-   "borough": "Tower Hamlets",
-   "address": "1 Vyner St, Bethnal Green, London E2 9DG, UK",
-   "postcode": "E2 9DG",
-   "lat": 51.534311,
-   "lng": -0.05623,
-   "station": "Cambridge Heath (London)",
-   "walkMin": 4,
-   "price": "££",
-   "website": "http://ombrabar.restaurant/",
-   "setting": "canal",
-   "goodFor": [
-    "date",
-    "solo"
-   ],
-   "whyGo": "Named for the Venetian term for a small glass of wine. Fresh pasta, seasonal vegetables and organic wine by the Regent's Canal.",
-   "signals": "2 sources: The Infatuation, Eater London",
-   "lists": [
-    "showstopper"
-   ],
-   "sourceCount": "3",
-   "sourceTiers": "B3",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-italian-restaurants-london | https://london.eater.com/maps/best-italian-restaurants-london | https://www.standard.co.uk/going-out/restaurants/waterside-restaurants-london-b1175987.html"
-  },
-  {
    "slug": "sorella",
    "name": "Sorella",
    "cuisine": "Italian",
@@ -6047,8 +6009,8 @@
     "landmark",
     "showstopper"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "B2 C4 D2",
+   "sourceCount": "12",
+   "sourceTiers": "B2 C7 D3",
    "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/best-picturesque-pubs-in-london_122 | https://www.internationaltraveller.com/europe/uk/prettiest-pubs-in-the-uk/ | https://www.walks.com/blog/londons-oldest-pubs/"
   },
   {
@@ -6127,9 +6089,9 @@
     "landmark",
     "showstopper"
    ],
-   "sourceCount": "9",
-   "sourceTiers": "B1 C7 D1",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/best-picturesque-pubs-in-london_122 | https://www.walks.com/blog/londons-oldest-pubs/ | https://londontravelplanning.com/guide-to-londons-oldest-pubs/"
+   "sourceCount": "17",
+   "sourceTiers": "B5 C10 D2",
+   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best/best-picturesque-pubs-in-london_122 | https://www.timeout.com/london/bars-pubs/londons-best-beer-gardens | https://www.designmynight.com/london/beer-gardens-london"
   },
   {
    "slug": "trafalgar-tavern",
@@ -6251,9 +6213,9 @@
     "landmark",
     "showstopper"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "A1 B1 C2 D1",
-   "sourceUrls": "https://camra.org.uk/heritage-pubs/national-inventory | https://www.internationaltraveller.com/europe/uk/prettiest-pubs-in-the-uk/ | https://www.walks.com/blog/londons-oldest-pubs/"
+   "sourceCount": "8",
+   "sourceTiers": "A1 B4 C2 D1",
+   "sourceUrls": "https://camra.org.uk/heritage-pubs/national-inventory | https://www.internationaltraveller.com/europe/uk/prettiest-pubs-in-the-uk/ | https://www.cntraveller.com/gallery/beer-gardens-london"
   },
   {
    "slug": "m-manze",
@@ -6445,10 +6407,7 @@
    "signals": "4 sources",
    "lists": [
     "fish-and-chips"
-   ],
-   "sourceCount": "9",
-   "sourceTiers": "B4 C4 D1",
-   "sourceUrls": "https://www.theinfatuation.com/london/guides/best-british-restaurants-london | https://www.timeout.com/london/restaurants/londons-best-fish-and-chip-restaurants | https://www.designmynight.com/london/blog/the-best-fish-and-chips-in-london"
+   ]
   },
   {
    "slug": "the-seashell-of-lisson-grove",
@@ -7231,10 +7190,7 @@
    "signals": "2 sources across 2 tiers",
    "lists": [
     "best-steak:9"
-   ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://luxurylondon.co.uk/taste/food/best-steak-restaurants-london/ | https://walkeatlondon.com/blog/top-10-steak-restaurants-in-central-london-where-meat-lovers-find-their-paradise/"
+   ]
   },
   {
    "slug": "flat-iron",
@@ -8474,7 +8430,7 @@
    ],
    "sourceCount": "5",
    "sourceTiers": "A1 B1 C3",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london | https://balancejournal.co/food-drink/best-vegan-restaurants-london"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.timeout.com/london/restaurants/the-best-vegan-restaurants-in-london | https://balancejournal.co/food-drink/best-vegan-restaurants-london"
   },
   {
    "slug": "naifs",
@@ -11879,47 +11835,6 @@
    "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://sunnyinlondon.com/best-places-to-stay-in-london-covent-garden-soho/"
   },
   {
-   "slug": "yauatcha",
-   "name": "Yauatcha",
-   "cuisine": "Chinese",
-   "style": "Dim sum teahouse",
-   "specialities": [
-    "dim-sum",
-    "regional"
-   ],
-   "format": "Restaurant",
-   "chainType": "mini-chain",
-   "area": "Soho",
-   "zone": "1",
-   "district": "Central",
-   "borough": "Westminster",
-   "guide": "soho-area-guide",
-   "address": "15-17 Broadwick St, London W1F 0DL, UK",
-   "postcode": "W1F 0DL",
-   "lat": 51.513527,
-   "lng": -0.135245,
-   "station": "Piccadilly Circus",
-   "walkMin": 6,
-   "price": "£££",
-   "booking": "weeks",
-   "bookingUrl": "https://www.sevenrooms.com/explore/yauatchasoholondon/reservations/create/search/",
-   "website": "https://hakkasangroup.com/venues/yauatcha-soho-london/?utm_source=google&utm_medium=organic&utm_campaign=gbp_mayfair",
-   "goodFor": [
-    "date",
-    "groups",
-    "pre-theatre"
-   ],
-   "whyGo": "All-day dim sum with a patisserie counter downstairs, from the Hakkasan founder - it held a star for fourteen years and still cooks like it.",
-   "signals": "Michelin star 2005-2019; 1 consensus domain",
-   "lists": [
-    "dim-sum",
-    "nicest-dining"
-   ],
-   "sourceCount": "4",
-   "sourceTiers": "B3 C1",
-   "sourceUrls": "https://www.timeout.com/london/food-drink/londons-best-dim-sum-restaurants | https://www.squaremeal.co.uk/restaurants/best-for/best-chinese-restaurants-london_9876 | https://www.designmynight.com/london/restaurants/best-dim-sum-london"
-  },
-  {
    "slug": "park-chinois",
    "name": "Park Chinois",
    "cuisine": "Chinese",
@@ -13151,9 +13066,9 @@
     "markets",
     "street-food"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B2",
-   "sourceUrls": "https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649 | https://www.designmynight.com/london/rooftop-restaurants-london"
+   "sourceCount": "3",
+   "sourceTiers": "B3",
+   "sourceUrls": "https://www.designmynight.com/london/rooftop-bars-london | https://www.thehandbook.com/winter-rooftop-bars-london/ | https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649"
   },
   {
    "slug": "market-halls-oxford-street",
@@ -13396,9 +13311,9 @@
     "markets",
     "street-food"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london"
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.designmynight.com/london/beer-gardens-london | https://www.youtube.com/@HistoricPubCrawls"
   },
   {
    "slug": "vinegar-yard",
@@ -13440,9 +13355,9 @@
     "best-value",
     "street-food"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.designmynight.com/london/best-halal-restaurants-london"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.designmynight.com/london/best-halal-restaurants-london | https://www.squaremeal.co.uk/restaurants/best-for/best-beer-garden-london_9864"
   },
   {
    "slug": "boxpark-wembley",
@@ -23020,9 +22935,9 @@
     "breakfast",
     "late-night"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B2 C3",
-   "sourceUrls": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/ | https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://candaceabroad.com/brunch-city-of-london/"
+   "sourceCount": "7",
+   "sourceTiers": "B3 C4",
+   "sourceUrls": "https://luxurylondon.co.uk/taste/food/london-best-afternoon-teas/ | https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://www.designmynight.com/london/rooftop-bars-london"
   },
   {
    "slug": "aqua-shard",
@@ -23237,8 +23152,8 @@
     "special-occasion",
     "instagrammable"
    ],
-   "sourceCount": "5",
-   "sourceTiers": "B4 C1",
+   "sourceCount": "6",
+   "sourceTiers": "B5 C1",
    "sourceUrls": "https://www.timeout.com/london/food-and-drink/londons-best-sunday-lunches | https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/ | https://www.countryandtownhouse.com/food-and-drink/the-best-restaurant-interiors-in-london/"
   },
   {
@@ -23530,8 +23445,8 @@
     "best-value",
     "best-italian:22"
    ],
-   "sourceCount": "8",
-   "sourceTiers": "A1 B5 C2",
+   "sourceCount": "13",
+   "sourceTiers": "A1 B7 C5",
    "sourceUrls": "https://www.thegoodfoodguide.co.uk/restaurant/forza-wine-at-the-national-theatre/id/59592 | https://www.timeout.com/london/restaurants/forza-wine-at-the-national-theatre | https://www.theinfatuation.com/london/reviews/forza-wine"
   },
   {
@@ -26334,8 +26249,8 @@
     "showstopper",
     "instagrammable"
    ],
-   "sourceCount": "7",
-   "sourceTiers": "B6 C1",
+   "sourceCount": "11",
+   "sourceTiers": "B8 C2 D1",
    "sourceUrls": "https://www.olivemagazine.com/guides/best-afternoon-tea-london/ | https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.hellomagazine.com/hfm/culture/822477/the-most-instagrammable-restaurants-in-london/"
   },
   {
@@ -28812,9 +28727,9 @@
    "lists": [
     "historic-pubs"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "B1",
-   "sourceUrls": "https://www.designmynight.com/london/restaurants/riverside-restaurants-london"
+   "sourceCount": "2",
+   "sourceTiers": "B2",
+   "sourceUrls": "https://www.standard.co.uk/going-out/bars/beer-gardens-london-pubs-bars-outside-drinking-b1165136.html | https://www.designmynight.com/london/restaurants/riverside-restaurants-london"
   },
   {
    "slug": "pembroke-lodge",
@@ -28966,7 +28881,7 @@
    ],
    "sourceCount": "6",
    "sourceTiers": "B4 C2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://www.theinfatuation.com/london/guides/where-to-eat-or-drink-near-water | https://www.squaremeal.co.uk/restaurants/best-for/riverside-restaurants-in-london_8664"
+   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-quirky-restaurants-in-london | https://www.designmynight.com/london/beer-gardens-london | https://www.squaremeal.co.uk/restaurants/best-for/best-beer-garden-london_9864"
   },
   {
    "slug": "crate-brewery",
@@ -29004,8 +28919,8 @@
    ],
    "whyGo": "Hackney Wick's first craft brewery, in a former print factory on the canal, making the beer and the pizza in the same building.",
    "signature": "Pizza and a pint on the towpath",
-   "sourceCount": "8",
-   "sourceTiers": "B3 C4 D1",
+   "sourceCount": "11",
+   "sourceTiers": "B3 C7 D1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-riverside-restaurants | https://www.squaremeal.co.uk/restaurants/best-for/riverside-restaurants-in-london_8664 | https://www.standard.co.uk/going-out/restaurants/waterside-restaurants-london-b1175987.html"
   },
   {
@@ -29355,9 +29270,9 @@
     "unusual",
     "historic-pubs"
    ],
-   "sourceCount": "1",
-   "sourceTiers": "D1",
-   "sourceUrls": "https://www.youtube.com/@Linleys"
+   "sourceCount": "2",
+   "sourceTiers": "B1 D1",
+   "sourceUrls": "https://www.thedrinksbusiness.com/2025/04/top-10-beer-gardens-in-london/ | https://www.youtube.com/@Linleys"
   },
   {
    "slug": "turners-old-star",
@@ -29773,8 +29688,8 @@
    "lists": [
     "best-value"
    ],
-   "sourceCount": "4",
-   "sourceTiers": "B1 C3",
+   "sourceCount": "5",
+   "sourceTiers": "B1 C4",
    "sourceUrls": "https://www.designmynight.com/london/instagrammable-restaurants-in-london | https://www.huesofdelahaye.com/things-to-do-in-canary-wharf-london/ | https://londontheinside.com/map/canary-wharf/"
   },
   {
@@ -29855,7 +29770,7 @@
    ],
    "sourceCount": "1",
    "sourceTiers": "B1",
-   "sourceUrls": "https://www.designmynight.com/london/restaurants/riverside-restaurants-london"
+   "sourceUrls": "https://www.designmynight.com/london/beer-gardens-london"
   },
   {
    "slug": "cheese-barge",
@@ -29940,7 +29855,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.theinfatuation.com/london/guides/best-pub-food-london | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.theinfatuation.com/london/guides/best-pub-food-london | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza"
   },
   {
    "slug": "alley-cats-pizza",
@@ -30021,7 +29936,7 @@
    ],
    "sourceCount": "6",
    "sourceTiers": "A1 B3 C2",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
   },
   {
    "slug": "rudys-pizza-napoletana",
@@ -30062,7 +29977,7 @@
    ],
    "sourceCount": "6",
    "sourceTiers": "A2 B2 C1 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.papaindustryawards.co.uk/award-winners-2025 | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.papaindustryawards.co.uk/award-winners-2025 | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/"
   },
   {
    "slug": "rias-notting-hill",
@@ -31896,9 +31811,9 @@
     "seafood",
     "instagrammable"
    ],
-   "sourceCount": "15",
-   "sourceTiers": "B7 C6 D2",
-   "sourceUrls": "https://www.timeout.com/london/restaurants/the-best-rooftop-restaurants-in-london | https://www.squaremeal.co.uk/restaurants/best-for/rooftop-restaurants-with-outdoor-space-in-london_8649 | https://www.designmynight.com/london/rooftop-restaurants-london"
+   "sourceCount": "19",
+   "sourceTiers": "B9 C8 D2",
+   "sourceUrls": "https://www.designmynight.com/london/rooftop-bars-london | https://www.bbcgoodfood.com/travel/uk/best-rooftop-bars-in-london | https://www.standard.co.uk/going-out/bars/the-best-rooftop-bars-in-london-b1217839.html"
   },
   {
    "slug": "wiltons",
@@ -32251,9 +32166,9 @@
     "seafood",
     "nicest-dining"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "A2 B1 C3",
-   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://thesaucemag.com/london-rooftop-restaurants/"
+   "sourceCount": "7",
+   "sourceTiers": "A2 B2 C3",
+   "sourceUrls": "https://guide.michelin.com/gb/en/restaurants/1-star-michelin/london | https://www.thegoodfoodguide.co.uk/where-to-eat/best-seafood-restaurants-in-london | https://www.countryandtownhouse.com/food-and-drink/roof-terraces-london/"
   },
   {
    "slug": "faber-hammersmith",
@@ -32479,10 +32394,7 @@
    "whyGo": "Claude Bosi's seafood bistro on the ground floor of Michelin House, where the platters and the caviar list are the point rather than the cooking.",
    "lists": [
     "seafood"
-   ],
-   "sourceCount": "1",
-   "sourceTiers": "C1",
-   "sourceUrls": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
+   ]
   },
   {
    "slug": "london-shell-co",
@@ -34358,8 +34270,8 @@
    "lists": [
     "peruvian"
    ],
-   "sourceCount": "6",
-   "sourceTiers": "B5 C1",
+   "sourceCount": "8",
+   "sourceTiers": "B7 C1",
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-peruvian-restaurants | https://www.theinfatuation.com/london/guides/best-peruvian-restaurants-london | https://www.designmynight.com/london/peruvian-restaurants-in-london"
   },
   {
@@ -35003,8 +34915,8 @@
    "lists": [
     "fusion"
    ],
-   "sourceCount": "10",
-   "sourceTiers": "A1 B4 C4 E1",
+   "sourceCount": "13",
+   "sourceTiers": "A1 B6 C5 E1",
    "sourceUrls": "https://www.hardens.com/restaurants/london/fusion | https://thesaucemag.com/best-mexican-restaurants-london/ | https://www.thehandbook.com/best-mexican-restaurants-in-london/"
   },
   {
@@ -35912,10 +35824,7 @@
    "signature": "Wild goat with Cretan spaghetti",
    "lists": [
     "greek"
-   ],
-   "sourceCount": "3",
-   "sourceTiers": "B2 C1",
-   "sourceUrls": "https://www.theguardian.com/food/2025/jan/31/krokodilos-london-w8-grace-dent-restaurant-review | https://www.athinorama.gr/restaurants/3065775/londino-a-la-grecque-i-premier-league-tis-ellinikis-geusis/ | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-greek-restaurants-in-london"
+   ]
   },
   {
    "slug": "bottarga-chelsea",
@@ -38194,7 +38103,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Islington"
   },
@@ -38227,7 +38136,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Hammersmith"
   },
@@ -38260,7 +38169,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Wembley"
   },
@@ -38293,7 +38202,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Aldgate East"
   },
@@ -38327,7 +38236,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Canary Wharf"
   },
@@ -38360,7 +38269,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Wandsworth"
   },
@@ -38393,7 +38302,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "West Hampstead"
   },
@@ -38427,7 +38336,7 @@
    ],
    "sourceCount": "4",
    "sourceTiers": "A1 B2 D1",
-   "sourceUrls": "https://nationalpizzaawards.co.uk/previous-winners | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
+   "sourceUrls": "https://nationalpizzaawards.co.uk/the-uks-best-pizza | https://www.countryandtownhouse.com/food-and-drink/best-pizza-restaurants-london/ | https://www.theinfatuation.com/london/guides/the-best-pizza-in-london",
    "branchOf": "zia-lucia",
    "branchName": "Chelsea"
   },
@@ -38469,9 +38378,9 @@
     "showstopper",
     "street-food"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets",
+   "sourceCount": "4",
+   "sourceTiers": "B2 C1 D1",
+   "sourceUrls": "https://www.thehandbook.com/best-beer-gardens-london/ | https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets",
    "branchOf": "mercato-metropolitano",
    "branchName": "Mayfair",
    "guide": "mayfair-area-guide"
@@ -38513,9 +38422,9 @@
     "showstopper",
     "street-food"
    ],
-   "sourceCount": "2",
-   "sourceTiers": "B1 C1",
-   "sourceUrls": "https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets",
+   "sourceCount": "4",
+   "sourceTiers": "B2 C1 D1",
+   "sourceUrls": "https://www.thehandbook.com/best-beer-gardens-london/ | https://www.designmynight.com/london/best-food-markets-and-food-halls-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-best-food-courts-halls-restaurants-markets",
    "branchOf": "mercato-metropolitano",
    "branchName": "Wood Wharf",
    "guide": "canary-wharf-area-guide"
