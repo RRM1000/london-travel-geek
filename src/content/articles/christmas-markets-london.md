@@ -138,7 +138,7 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 
 ### Tod's Festive Feast, Tottenham Court Road
 
-**A Christmas market made up entirely of street-food traders**, run by the food creator Eating with Tod outside Tottenham Court Road station, by the Outernet screens. It sells hot food and drink rather than gifts. This is its second year.
+**A Christmas market made up entirely of street-food traders**, run by the food creator Eating with Tod outside Tottenham Court Road station, by the Outernet screens. It sells hot food and drink rather than gifts. Tod started it in 2025 because he was tired of the same generic food at every other Christmas market ([Hot Dinners](https://www.hot-dinners.com/2025111714653/Gastroblog/Latest-news/eating-with-tod-festive-feast-outernet)), so the stalls are London restaurants and street-food traders chosen for original dishes you won't find at the other markets.
 
 **Who is cooking in 2026:** a stall from **Magma by Ikoyi** (from the team behind the two-Michelin-star Ikoyi), **Temper**, the Filipino bakery **Panadera**, fried chicken from **Pecking House**, **Moti Mahal**, Korean food from **Jung**, Dutch fries from **Fabel Friet**, **Ruben's** sausages, **Roll Boys**, doughnuts from **Rinkoffs** and chocolate from **Chapon** ([Tod's own trader list](https://www.tiktok.com/@eatingwithtod/video/7709943962471075105)).
 
