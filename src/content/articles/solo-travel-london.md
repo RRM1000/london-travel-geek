@@ -109,7 +109,7 @@ faq:
 
 ## A solo budget
 
-**A careful day costs about £32 and a comfortable one about £150**, before a bed ([London on a budget](/articles/london-on-a-budget/)). The pieces that matter alone:
+**A careful day costs about £32 and a comfortable one about £150**, before a bed ([London on a budget](/articles/london-on-a-budget/)). The pieces for a solo visit:
 
 - **Transport caps at £8.90 a day** in Zones 1 and 2 on contactless or Oyster, so a day of buses and Tubes can't cost more ([fares](/articles/london-public-transport-costs-and-fares/)).
 - **A bed** starts at about £11 in a dorm near King's Cross and £33 in a capsule at Piccadilly Circus.

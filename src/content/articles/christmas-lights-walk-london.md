@@ -1,7 +1,7 @@
 ---
 title: "A Christmas Lights Walk in London: Oxford Street to Trafalgar Square in Ten Stops"
 seoTitle: "Oxford Street & Regent Street Christmas Lights 2026"
-description: "The 2026 Christmas lights on Oxford Street, Regent Street, Carnaby, Bond Street and Covent Garden: switch-on dates, this year's themes and a ten-stop after-dark walk from Selfridges to the Trafalgar Square tree, with a map and the quietest night."
+description: "The 2026 Christmas lights on Oxford Street, Regent Street, Carnaby, Bond Street and Covent Garden: switch-on dates, the 2026 themes and a ten-stop after-dark walk from Selfridges to the Trafalgar Square tree, with a map and the quietest night."
 heroImage: "../../assets/articles/christmas-lights-walk-london/regent-street-spirit-buses.jpg"
 heroImageAlt: "One of the Spirit of Christmas angels, wings spread under a canopy of white lights, above Regent Street at night with two red buses below"
 heroImageCredit: "Marathon"
@@ -109,7 +109,7 @@ At the bottom it meets **Brook Street**. **Claridge's** is a hundred metres to t
 
 Walk the full length, New Bond Street into Old Bond Street, down to Piccadilly. It is about 800 metres of jewellers' and fashion houses' windows.
 
-**The Bond Street design changes.** The 2026 lights are taken from the Crown Jewels, with a tiara-shaped gateway at each end, necklace-like strands across the street and **four crowns over the main junctions**, modelled on the Imperial State Crown. Bond Street calls 2026 its final Crown Jewels switch-on, so expect a new design next year. Stand under a junction and look straight up to see the strands hanging inside the ring. The street's switch-on on **Thursday 12 November** was traffic-free from 4pm to 8pm.
+**The Bond Street design changes.** The 2026 lights are taken from the Crown Jewels, with a tiara-shaped gateway at each end, necklace-like strands across the street and **four crowns over the main junctions**, modelled on the Imperial State Crown. Bond Street calls 2026 its final Crown Jewels switch-on, so expect a new design in 2027. Stand under a junction and look straight up to see the strands hanging inside the ring. The street's switch-on on **Thursday 12 November** was traffic-free from 4pm to 8pm.
 
 ![One of the Bond Street crowns against a deep blue evening sky, a ring of gold lights topped with heart-shaped points and lilac globes, with strands of light hanging inside it](../../assets/articles/christmas-lights-walk-london/bond-street.jpg)
 

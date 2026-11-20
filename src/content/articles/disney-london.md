@@ -146,7 +146,7 @@ The rest of the street is in [the Oxford Street guide](/articles/oxford-street-g
 
 *£70 adult, £45 child · daily 12.30pm to 7pm · London Hilton on Park Lane, 22 Park Lane, W1K 1BE, Hyde Park Corner*
 
-Disney's official afternoon tea, served in the Hilton's brasserie on Park Lane. Its menu changes by chapter, each a page of a "Royal Recipe Book": the princesses, then Moana in the summer, Disney's villains this autumn, and **a Frozen chapter, A Royal Winter Awaits, from 26 November 2026**. The sandwiches are moulded into shapes from the films.
+Disney's official afternoon tea, served in the Hilton's brasserie on Park Lane. Its menu changes by chapter, each a page of a "Royal Recipe Book": the princesses, then Moana in the summer, Disney's villains in autumn 2026, and **a Frozen chapter, A Royal Winter Awaits, from 26 November 2026**. The sandwiches are moulded into shapes from the films.
 
 **Cancel 24 hours ahead or pay £40 a head.** Card details are taken at booking. [Book the Disney afternoon tea](https://www.sevenrooms.com/experiences/parkcornerbrasserie/disney-princess-afternoon-tea---a-royal-winter-awaits-5163334897614848), or see [the brasserie's page](https://www.parkcornerbrasserie.com/whats-on/disney-frozen-afternoon-tea/). Every other tea worth booking is in [the best afternoon tea in London](/articles/best-afternoon-tea-london/).
 

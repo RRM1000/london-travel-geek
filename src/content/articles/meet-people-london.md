@@ -1,7 +1,7 @@
 ---
 title: "How to Meet People in London: Run Clubs, Language Nights and Dinners with Strangers"
 seoTitle: "Meet People in London: Run Clubs, Socials & Meetups"
-description: "Where a solo traveller or newcomer can meet people in London this week: free run clubs with a pint after, a £2 language exchange, a board-game night for people who come alone, dinners with strangers and a nightly pub crawl, with days, times and prices."
+description: "Where a solo traveller or newcomer can meet people in London: free run clubs with a pint after, a £2 language exchange, a board-game night for people who come alone, dinners with strangers and a nightly pub crawl, with days, times and prices."
 publishedAt: 2026-11-19
 updatedAt: 2026-11-19
 reviewBy: 2027-02-19

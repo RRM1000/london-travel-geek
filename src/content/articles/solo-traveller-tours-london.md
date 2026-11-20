@@ -41,7 +41,7 @@ faq:
 | --- | --- | --- | --- |
 | To talk to people over a drink | [Historic Pubs of Central London](#historic-pubs-of-central-london--liquid-history-tours) | £35 | 3½ hours |
 | To spend nothing up front | [Strawberry Tours](#free-and-tip-based-walks), tip-based | Free | 2–3 hours |
-| A walk tonight | [London Walks, Jack the Ripper](#london-walks) | £20 | 2 hours |
+| An evening walk | [London Walks, Jack the Ripper](#london-walks) | £20 | 2 hours |
 | Lunch with company | [East London food tour, No Diet Club](#east-london-food--no-diet-club) | £58 | 3½ hours |
 | A big night out | [Original Shoreditch Pub Crawl](#the-original-shoreditch-pub-crawl) | £25 | 4½ hours |
 | To see a lot quickly | [Secret London by bike](#secret-london-by-bike) | £45 | 3½ hours |

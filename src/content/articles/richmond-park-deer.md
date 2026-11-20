@@ -99,7 +99,7 @@ The deer are spread across the whole park rather than in one spot. Two fixed poi
 
 **Richmond Park by train.** Richmond (South Western Railway and the District line) and North Sheen are north of the park; Norbiton is south. The Royal Parks puts the walk to the nearest gate at 15 to 25 minutes from each. Richmond Gate is the nearest way in from the town, and Pembroke Lodge and its tea room are just inside. Our [Richmond guide](/articles/richmond-area-guide/) covers the town, the Thames and the walk up the hill.
 
-**By bus.** The Royal Parks' minibus timetable names the connecting stops: the 85 and K3 on Kingston Hill for Ladderstile Gate, and the 65 at Ham Gate Avenue and Ham Common. The free **RP1 minibus** runs inside the park from mid-March to mid-November and stops at Roehampton Gate, Robin Hood Gate, Pen Ponds car park, Isabella Plantation, Pembroke Lodge and Richmond Gate. The 2026 season ran to 13 November; the service page carries the next season's [timetable](https://www.royalparks.org.uk/visit/parks/richmond-park/free-minibus-service-richmond-park).
+**By bus.** The Royal Parks' minibus timetable names the connecting stops: the 85 and K3 on Kingston Hill for Ladderstile Gate, and the 65 at Ham Gate Avenue and Ham Common. The free **RP1 minibus** runs inside the park from mid-March to mid-November and stops at Roehampton Gate, Robin Hood Gate, Pen Ponds car park, Isabella Plantation, Pembroke Lodge and Richmond Gate. The 2026 season ran to 13 November; the service page carries the [timetable](https://www.royalparks.org.uk/visit/parks/richmond-park/free-minibus-service-richmond-park).
 
 **By car.** Parking is free, with no overnight parking, and cars left after closing time can be fined. You can drive between Richmond Gate and Kingston Gate at all times, and between Richmond Gate and Roehampton Gate on weekdays only; every other park road leads to a car park.
 
@@ -116,7 +116,7 @@ The deer are spread across the whole park rather than in one spot. Two fixed poi
 
 **Bushy Park, 2026.** The pedestrian gates are open 24 hours a day, except in the culls, which take place every September and November. During a cull the pedestrian gates are locked at 10.30pm from Sunday to Thursday, and on Monday to Friday the pedestrian and vehicle gates open at 8am; weekends are normal. In 2026 the vehicle gates opened at 8am from 31 August to 11 October and from 2 November to 13 December, at 6.30am for most of the rest of the year, and closed at 7pm from late August to the end of the year. The timetable also lists an extra cull in January and February 2026.
 
-Both parks publish the next year's timetable on their pages: [Richmond Park opening times](https://www.royalparks.org.uk/sites/default/files/2026-02/Opening%20Times%202026_Richmond_A4_Feb%202026.pdf) and [Bushy Park opening times](https://www.royalparks.org.uk/sites/default/files/2026-01/Opening%20Times%202026_Bushy_A4_Jan%202026.pdf).
+Both parks publish their annual opening times on their pages: [Richmond Park opening times](https://www.royalparks.org.uk/sites/default/files/2026-02/Opening%20Times%202026_Richmond_A4_Feb%202026.pdf) and [Bushy Park opening times](https://www.royalparks.org.uk/sites/default/files/2026-01/Opening%20Times%202026_Bushy_A4_Jan%202026.pdf).
 
 ## Make a day of it
 

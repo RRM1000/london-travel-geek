@@ -20,7 +20,7 @@ faq:
   - q: "What is the best rooftop bar in London?"
     a: "Four bars are named by ten of the 20 sources in this guide: Netil 360 in Hackney, Frank's Cafe on the Peckham car park, Sabine by St Paul's and 12th Knot on the South Bank. Time Out's number one is the Queen Elizabeth Hall Roof Garden, which is closed until spring 2027."
   - q: "Which London rooftop bars are open in winter?"
-    a: "Sabine (retractable roofs and heating), Radio Rooftop (heated patios), Los Mochis (a terrace that can be fully enclosed and heated), Stanley's in Mayfair (retractable roof), London Bridge Rooftop (every table under cover), Netil 360 (a heated winter tent) and the Queen of Hoxton (a heated yurt) are all open this winter. The Sky Garden is indoors, behind glass."
+    a: "Sabine (retractable roofs and heating), Radio Rooftop (heated patios), Los Mochis (a terrace that can be fully enclosed and heated), Stanley's in Mayfair (retractable roof), London Bridge Rooftop (every table under cover), Netil 360 (a heated winter tent) and the Queen of Hoxton (a heated yurt) are all open in winter 2026–27. The Sky Garden is indoors, behind glass."
   - q: "Which London rooftop bars are closed for winter?"
     a: "Frank's Cafe (its 2026 season ran 15 May to 12 September), the Queen Elizabeth Hall Roof Garden, The Culpeper's roof, Bussey Rooftop Bar and Roof East are all closed until spring 2027. The Rooftop at The Standard is closed for the season, though Sweeties on the floor below is open. JOIA's roof is open only for ticketed Christmas film nights."
   - q: "Is there a free rooftop bar in London?"
@@ -31,9 +31,9 @@ faq:
     a: "For Stanley's, yes: it takes no walk-ins. Sabine asks for bookings at least 14 days ahead for Wednesday to Saturday. 12th Knot's terrace, SUSHISAMBA's Tree Terrace and Savage Garden's terrace cannot be booked at all, and Madison takes no drinks bookings for fewer than ten."
 ---
 
-**The most-named rooftop bars in London are Netil 360 in Hackney, Frank's Cafe in Peckham, Sabine by St Paul's and 12th Knot on the South Bank. Frank's is summer only; the other three are open this winter.**
+**The most-named rooftop bars in London are Netil 360 in Hackney, Frank's Cafe in Peckham, Sabine by St Paul's and 12th Knot on the South Bank. Frank's is summer only; the other three are open in winter 2026–27.**
 
-This guide counts how many independent lists name each bar. For a roof where the food is the point, see the [rooftop and riverside restaurants guide](/articles/best-rooftop-restaurants-london/); for the views themselves, free and paid, see [the best views in London](/articles/best-views-london/).
+This guide counts how many independent lists name each bar. For a roof where the food is the main reason to go, see the [rooftop and riverside restaurants guide](/articles/best-rooftop-restaurants-london/); for the views themselves, free and paid, see [the best views in London](/articles/best-views-london/).
 
 > 💡 **The Short Version:** **Netil 360**, **Frank's Cafe**, **Sabine** and **12th Knot** are named by ten sources each. In winter, go to **Sabine** (retractable roofs, heated) or **Radio Rooftop** (heated patios); **Frank's**, Time Out's number one the **Queen Elizabeth Hall Roof Garden**, **The Culpeper**, **Bussey** and **Roof East** are shut until spring 2027. The **Sky Garden** is free with a booked ticket. Many of these bars are 21 and over in the evening.
 
@@ -42,7 +42,7 @@ This guide counts how many independent lists name each bar. For a roof where the
 > **Built on:** Time Out's ranked 15, Condé Nast Traveller, the Evening Standard, SquareMeal, BBC Good Food and eight more mastheads; the rooftop specialists The Rooftop Guide and Where's The Rooftop?; independent London blogs; and three YouTube channels, including Ugo Arinzeh's ranked ten.
 > *Evidence built 16 November 2026 · [How we rank →](/how-we-rank/)*
 
-## Open this winter, and what keeps the rain off
+## Open in winter 2026–27, and what keeps the rain off
 
 | Bar | Area | Cover |
 | --- | --- | --- |
@@ -115,11 +115,11 @@ Time Out's number one is the **Queen Elizabeth Hall Roof Garden**, which Ugo Ari
 
 The bar on top of the Broadwick Soho hotel: animal-print upholstery, cork walls, mirrored ceilings and a palm-frond carpet inside, a landscaped wraparound terrace outside. Cocktails run £19 to £24 (Life on Mars?, with pisco and Midori, is £19; Back to Black, a Hennessy VSOP sour with coconut and saffron, £24). **The menu asks guests not to use their phones.** Open daily from noon to midnight, 12.30am at weekends; tables can be booked up to 60 days ahead, and seven or more go through reservations.
 
-### Coq d'Argent — the Bank roof, in its last season there
+### Coq d'Argent — the Bank roof, until February 2027
 
 *Bank · roof of No. 1 Poultry · Cited by 9 sources · [venue's site](https://coqdargent.co.uk/)*
 
-Landscaped terraces and gardens across the roof of No. 1 Poultry, looking over the Bank of England, beside a Conran-designed restaurant. Cloud Nine (Belvedere, St-Germain, lychee, Prosecco) is £17.50; the White Gold Martini £18. This winter two private rooftop chalets, the Lodge d'Argent, take up to eight for £350 with Champagne, cocktails and alpine sharing plates. **Closed on Sundays, card only, and this is its last season here**: it moves to One Millennium Bridge in February 2027. Booking is through the widget on its site.
+Landscaped terraces and gardens across the roof of No. 1 Poultry, looking over the Bank of England, beside a Conran-designed restaurant. Cloud Nine (Belvedere, St-Germain, lychee, Prosecco) is £17.50; the White Gold Martini £18. In winter 2026–27 two private rooftop chalets, the Lodge d'Argent, take up to eight for £350 with Champagne, cocktails and alpine sharing plates. **Closed on Sundays, card only, and this is its final winter here**: it moves to One Millennium Bridge in February 2027. Booking is through the widget on its site.
 
 ### Boundary Shoreditch — Redchurch Street
 
@@ -131,7 +131,7 @@ A large terrace on top of the Boundary hotel, entered from Redchurch Street, wit
 
 *Monument · 9th and 10th floors, 68 King William Street · Cited by 9 sources · [venue's site](https://etmcollection.co.uk/venue/wagtail-rooftop-bar-restaurant/)*
 
-A restaurant, bar and two terraces in the eaves of an art deco building by London Bridge, with Tower Bridge, St Paul's, the Shard, the Gherkin and the Walkie Talkie all in view; the ninth-floor terraces look down on the Thames. This winter it has a Grey Goose winter cocktail list, and on 12 December 2026 the La Folie Douce après-ski party takes over the roof (£20). **The tenth floor has no lift**; the ninth is accessible. Under-18s until 5pm with an adult. Bookings for up to twelve through the widget on its page.
+A restaurant, bar and two terraces in the eaves of an art deco building by London Bridge, with Tower Bridge, St Paul's, the Shard, the Gherkin and the Walkie Talkie all in view; the ninth-floor terraces look down on the Thames. In winter 2026–27 it has a Grey Goose winter cocktail list, and on 12 December 2026 the La Folie Douce après-ski party takes over the roof (£20). **The tenth floor has no lift**; the ninth is accessible. Under-18s until 5pm with an adult. Bookings for up to twelve through the widget on its page.
 
 ### The Rooftop at The Standard — closed for the season; Sweeties is open
 
@@ -157,7 +157,7 @@ The roof of the ME London hotel on the corner of the Strand and Aldwych, with an
 
 *Royal London House on Finsbury Square; Aviary is in the glass storey on top. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Montcalm_Royal_London_House,_Shoreditch,_EC2.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-A restaurant and bar in the glass top storey of a hotel on Finsbury Square, with an open-air terrace looking over the City towers. It opens at breakfast and runs to midnight every day, so it is one of the few roofs where a weekday afternoon drink is easy. At weekends the Birdsong Brunch comes with DJs. This winter it has a Grey Goose winter cocktail list and a Winter Lodge event on the terrace. Booking is through the widget on its page or on 020 3873 4060.
+A restaurant and bar in the glass top storey of a hotel on Finsbury Square, with an open-air terrace looking over the City towers. It opens at breakfast and runs to midnight every day, so it is one of the few roofs where a weekday afternoon drink is easy. At weekends the Birdsong Brunch comes with DJs. In winter 2026–27 it has a Grey Goose winter cocktail list and a Winter Lodge event on the terrace. Booking is through the widget on its page or on 020 3873 4060.
 
 ### The Culpeper — Spitalfields, roof shut until spring
 
@@ -191,7 +191,7 @@ A seafood restaurant with a marble raw bar at the top of The Hoxton on Blackfria
 
 *Shoreditch · roof of the Queen of Hoxton · Cited by 7 sources · #7 of 15, Time Out · [book a table](https://queenofhoxton.com/bookings/)*
 
-A bar and club on Curtain Road whose roof is re-themed every season. This winter it is a **heated yurt with fire pits and fairy lights**, a Gingerbread Old Fashioned and a Banana Bread Daiquiri, Bajan food from BARBS, and outdoor DJ sessions; a pint of San Miguel is £7.20. The roof opens Wednesday to Friday from 5pm and Saturday from 2pm until 10pm, **weather permitting; the operator asks you to call ahead.** Tables for up to 30 can be booked up to 14 days ahead with a £5 a head card hold, and plenty of room is kept for walk-ins. Over-18s.
+A bar and club on Curtain Road whose roof is re-themed every season. In winter 2026–27 it is a **heated yurt with fire pits and fairy lights**, a Gingerbread Old Fashioned and a Banana Bread Daiquiri, Bajan food from BARBS, and outdoor DJ sessions; a pint of San Miguel is £7.20. The roof opens Wednesday to Friday from 5pm and Saturday from 2pm until 10pm, **weather permitting; the operator asks you to call ahead.** Tables for up to 30 can be booked up to 14 days ahead with a £5 a head card hold, and plenty of room is kept for walk-ins. Over-18s.
 
 ### The Sky Garden — free, behind glass
 
@@ -207,13 +207,13 @@ A landscaped garden under the glass roof at the top of the Walkie Talkie, with t
 
 *Peckham · roof of 133A Rye Lane · Cited by 7 sources · #8 of 15, Time Out · [book a table](https://www.sevenrooms.com/explore/forzawine/reservations/create/search/)*
 
-A roof bar and kitchen above Rye Lane with a view back across London, serving natural and low-intervention wine and short cocktails: a Frozen Picante with scotch bonnet is £13, a Plum Negroni £12, spritzes £11. **It is open all year**, with mulled wine and hot toddies at £8 this winter and a £50 a head Christmas sharing menu for tables of four or more from 16 November to 23 December 2026. Open Monday to Saturday from noon to midnight and Sunday to 8pm. Card only.
+A roof bar and kitchen above Rye Lane with a view back across London, serving natural and low-intervention wine and short cocktails: a Frozen Picante with scotch bonnet is £13, a Plum Negroni £12, spritzes £11. **It is open all year**, with mulled wine and hot toddies at £8 in winter 2026–27 and a £50 a head Christmas sharing menu for tables of four or more from 16 November to 23 December 2026. Open Monday to Saturday from noon to midnight and Sunday to 8pm. Card only.
 
 ### Jin Bo Law Skybar — Aldgate, 14 floors up
 
 *Aldgate · 14th floor, Leonardo Hotel London Aldgate · Cited by 7 sources · [venue's site](https://jinbolaw.co.uk/)*
 
-A terrace bar on top of the hotel at 9 Aldgate High Street, looking at Tower Bridge, the Shard, the Walkie Talkie and the Gherkin. **The terrace is partly covered with outdoor heaters**, and there is an indoor bar. The draw is a cocktail menu built on unusual ingredients, and DJs at weekends; this winter there is a Winter Ball on 28 November and a Christmas party on 19 December 2026. Booking is through the widget on its site, and walk-in tables go first come, first served. **Over-18s with photo ID, and bookings of six or more must be mixed groups.**
+A terrace bar on top of the hotel at 9 Aldgate High Street, looking at Tower Bridge, the Shard, the Walkie Talkie and the Gherkin. **The terrace is partly covered with outdoor heaters**, and there is an indoor bar. The draw is a cocktail menu built on unusual ingredients, and DJs at weekends; in winter 2026–27 there is a Winter Ball on 28 November and a Christmas party on 19 December 2026. Booking is through the widget on its site, and walk-in tables go first come, first served. **Over-18s with photo ID, and bookings of six or more must be mixed groups.**
 
 ### 1864 Rooftop Bar and Kitchen — igloos on John Lewis
 
@@ -227,7 +227,7 @@ A terrace on the sixth floor of John Lewis on Oxford Street, planted with wildfl
 
 A roof garden on the Southbank Centre, reached by the yellow stairs, with trees, flowers and a barbecue bar serving summer drinks under festoon lights and an awning. **The Southbank Centre lists it as closed, reopening in spring 2027.**
 
-### Bussey Rooftop Bar and JOIA — closed this winter
+### Bussey Rooftop Bar and JOIA — closed in winter 2026–27
 
 *Bussey Rooftop Bar · Peckham · Cited by 7 sources · #9 of 15, Time Out · [venue's site](https://busseyrooftopbar.com/)*
 
@@ -253,13 +253,13 @@ Two glass lifts run up the outside of Heron Tower to the restaurant on 38 and th
 
 *Aldgate · 11th floor, Canopy by Hilton London City · Cited by 6 sources · [book a table](https://www.sevenrooms.com/reservations/florattica)*
 
-A bar on the 11th floor of the Canopy by Hilton on Minories, decorated after the Spitalfields silk weavers. This winter its terrace has the **Winter Buds: heated private igloos** with their own music and a bell for the waiter, two for up to six and one for ten, running since 1 November 2026. A cocktail afternoon tea is served in them on weekdays from 4pm at £60 a head. Apothecary (vermouth, elderflower vodka, liquorice) is £18. DJs on Friday and Saturday.
+A bar on the 11th floor of the Canopy by Hilton on Minories, decorated after the Spitalfields silk weavers. In winter 2026–27 its terrace has the **Winter Buds: heated private igloos** with their own music and a bell for the waiter, two for up to six and one for ten, running since 1 November 2026. A cocktail afternoon tea is served in them on weekdays from 4pm at £60 a head. Apothecary (vermouth, elderflower vodka, liquorice) is £18. DJs on Friday and Saturday.
 
 ### London Bridge Rooftop — 98 steps, every table covered
 
 *London Bridge · six storeys up, Colechurch House · Cited by 6 sources · #8 of 10, Ugo Arinzeh · [venue's site](https://www.londonbridgerooftop.com/)*
 
-A roof beside London Bridge station with the Shard overhead. **There is no lift: it is 98 steps up.** Every table is under cover, with heaters and blankets, and this winter there are Christmas trees, mulled wine at £5 on Sundays, and an indoor heated darts room. A Mount 75 is £15, an Aperol Spritz £11.50. DJs play house, disco and garage through the week. **It is 18 and over even with an adult**, and bookings are online only.
+A roof beside London Bridge station with the Shard overhead. **There is no lift: it is 98 steps up.** Every table is under cover, with heaters and blankets, and in winter 2026–27 there are Christmas trees, mulled wine at £5 on Sundays, and an indoor heated darts room. A Mount 75 is £15, an Aperol Spritz £11.50. DJs play house, disco and garage through the week. **It is 18 and over even with an adult**, and bookings are online only.
 
 ### Savage Garden — Tower Hill, terrace weather permitting
 
@@ -307,7 +307,7 @@ The roof of the Vintry & Mercer hotel on Garlick Hill, between Mansion House and
 
 - **[The Sky Garden](https://skygarden.london/booking/book-a-free-ticket/)** — free with a booked ticket. *Cited by 7 sources.*
 - **[Frank's Cafe](https://boldtendencies.com/franks-cafe/)** — free entry and £10 cocktails, summer only. *Cited by 10 sources.*
-- **[London Bridge Rooftop](https://www.londonbridgerooftop.com/)** — £5 mulled wine on Sundays this winter. *Cited by 6 sources.*
+- **[London Bridge Rooftop](https://www.londonbridgerooftop.com/)** — £5 mulled wine on Sundays in winter 2026–27. *Cited by 6 sources.*
 - **[Forza Wine, Peckham](https://www.sevenrooms.com/explore/forzawine/reservations/create/search/)** — cocktails from £11, mulled wine £8. *Cited by 7 sources.*
 
 ## Winter pop-ups on a roof

@@ -22,7 +22,7 @@ faq:
   - q: "Do London cafés allow laptops?"
     a: "Mostly, but the rules are now set café by café, and some are published. WatchHouse at Battersea Power Station asks that laptops are used only at the bar. London x London reported in September 2026 that Lumberjack in Camberwell marks roughly half its tables as no-laptop. Check the café's own page or the signs on the tables."
   - q: "How do I get a British Library Reader Pass?"
-    a: "It is free for anyone over 18. Go in person to Reader Registration at the British Library in St Pancras with either one photo ID showing your name and address or two documents, one for each. A pass lasts three years. At the time of writing the Library could not take online pre-registration, and you cannot use the Reading Rooms without a pass."
+    a: "It is free for anyone over 18. Go in person to Reader Registration at the British Library in St Pancras with either one photo ID showing your name and address or two documents, one for each. A pass lasts three years. The Library does not take online pre-registration, and you cannot use the Reading Rooms without a pass."
   - q: "Can I work at the British Library without a Reader Pass?"
     a: "Yes, in the free study spaces in the public part of the building, which have seats, power outlets and free Wi-Fi. The quiet Reading Rooms are the part that need a pass."
   - q: "Where can I work in a café late in the evening?"
@@ -62,7 +62,7 @@ A bank branch rebuilt as a working café, with **Ozone coffee on sale, free Wi-F
 
 There are two layers. The **free study spaces in the public part of the building have comfortable seats, power outlets and free Wi-Fi**, with no pass. The **Reading Rooms** upstairs are quieter and need a **Reader Pass**, which is free for anyone over 18.
 
-**How to get a Reader Pass.** Go in person to Reader Registration at St Pancras and bring either one state-issued photo ID that shows your name and address, or two documents, one showing your name and one your home address. The pass lasts three years. The Library says online pre-registration is not available at the moment, so allow time on your first visit. Guests need their own pass, and it is for over-18s only.
+**How to get a Reader Pass.** Go in person to Reader Registration at St Pancras and bring either one state-issued photo ID that shows your name and address, or two documents, one showing your name and one your home address. The pass lasts three years. The Library does not take online pre-registration, so allow time on your first visit. Guests need their own pass, and it is for over-18s only.
 
 ![The British Library's red-brick building beside the Gothic roofline of St Pancras station, seen from above with the entrance piazza below](../../assets/articles/laptop-friendly-cafes-london/british-library-st-pancras.jpg)
 

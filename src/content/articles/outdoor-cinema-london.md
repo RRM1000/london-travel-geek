@@ -1,7 +1,7 @@
 ---
 title: "Outdoor Cinema in London: Rooftops, Free Screens and the Winter Film Nights"
 seoTitle: "Outdoor Cinema London: Rooftop, Free & Winter Screens"
-description: "Where to watch films outdoors in London: the two rooftop Christmas film nights this winter, and the summer seasons from Rooftop Cinema Club to the free screen on the canal at King's Cross."
+description: "Where to watch films outdoors in London: the two rooftop Christmas film nights in winter 2026–27, and the summer seasons from Rooftop Cinema Club to the free screen on the canal at King's Cross."
 publishedAt: 2026-11-16
 updatedAt: 2026-11-17
 reviewBy: 2027-04-15
@@ -33,7 +33,7 @@ faq:
     a: "Only to daytime screenings. Both roofs are strictly over-18s after 5pm, and a physical photo ID is required for evening screenings. Under-18s with an adult can come to the daytime screenings at weekends and on bank holidays."
 ---
 
-> 💡 **The Short Version:** Most of London's outdoor cinema runs from May to September. **This winter, two rooftops show Christmas films with dinner:** [JOIA](#joia-rooftop-battersea-power-station) at Battersea Power Station every night from 19 November to 24 December, and [Kitchen at Holmes](#kitchen-at-holmes-marylebone) in Marylebone from 26 November to 20 December, both from £75 a head. **In summer**, [Rooftop Cinema Club](#rooftop-cinema-club-peckham-and-stratford) is the regular one: deckchairs and wireless headphones on two roofs, from £14, adults only after 5pm. **The free screen** is [Everyman on the Canal](#everyman-on-the-canal-kings-cross) at King's Cross, late June to mid-August, on the steps down to the Regent's Canal. Rooftop Cinema Club says it returns in spring 2027.
+> 💡 **The Short Version:** Most of London's outdoor cinema runs from May to September. **In winter 2026–27, two rooftops show Christmas films with dinner:** [JOIA](#joia-rooftop-battersea-power-station) at Battersea Power Station every night from 19 November to 24 December, and [Kitchen at Holmes](#kitchen-at-holmes-marylebone) in Marylebone from 26 November to 20 December, both from £75 a head. **In summer**, [Rooftop Cinema Club](#rooftop-cinema-club-peckham-and-stratford) is the regular one: deckchairs and wireless headphones on two roofs, from £14, adults only after 5pm. **The free screen** is [Everyman on the Canal](#everyman-on-the-canal-kings-cross) at King's Cross, late June to mid-August, on the steps down to the Regent's Canal. Rooftop Cinema Club says it returns in spring 2027.
 
 *Dates, prices and policies are each operator's own, as at 16 November 2026. Summer dates are the 2026 season's; 2027 dates follow when each operator announces them.*
 
@@ -55,7 +55,7 @@ faq:
 
 ---
 
-## On this winter
+## Winter 2026–27
 
 Both are dinner-and-a-film packages on a hotel roof, booked by the evening, and the films are Christmas ones.
 
@@ -189,4 +189,4 @@ All five are open-air and summer-only.
 
 **Whatever the screen, take a layer.** Rooftop Cinema Club and the Barbican both warn that it gets cold once the sun is down, even in August.
 
-For indoor screens, our guide to [London's best independent cinemas](/articles/best-cinemas-london/) covers the Prince Charles, the Electric and the rest, and [London cinema deals](/articles/cinema-deals-london/) has the memberships and cheap days. For eating outdoors before a film, see [where to eat outside in London](/articles/eat-outside-london/). The [November](/articles/things-to-do-in-london-in-november/) and [December](/articles/things-to-do-in-london-in-december/) guides list what else is on this winter, and [London on a budget](/articles/london-on-a-budget/) has more free things to do.
+For indoor screens, our guide to [London's best independent cinemas](/articles/best-cinemas-london/) covers the Prince Charles, the Electric and the rest, and [London cinema deals](/articles/cinema-deals-london/) has the memberships and cheap days. For eating outdoors before a film, see [where to eat outside in London](/articles/eat-outside-london/). The [November](/articles/things-to-do-in-london-in-november/) and [December](/articles/things-to-do-in-london-in-december/) guides list what else is on in November and December 2026, and [London on a budget](/articles/london-on-a-budget/) has more free things to do.

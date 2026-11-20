@@ -69,7 +69,7 @@ faq:
 
 ## Christmas plays
 
-**Four productions of *A Christmas Carol* are on in London this winter.** The Old Vic's play runs to 9 January, *Christmas Carol Goes Wrong* at Wyndham's is the comedy version, Quantum Theatre's family performances are at Chiswick House on 21 and 22 December, and *Scrooge: Cirque Extravaganza* at ExCeL is the circus version. The Muppets' version is a film with a live orchestra at the Eventim Apollo on 28 November, in the concerts below.
+**Four productions of *A Christmas Carol* are on in London in winter 2026–27.** The Old Vic's play runs to 9 January, *Christmas Carol Goes Wrong* at Wyndham's is the comedy version, Quantum Theatre's family performances are at Chiswick House on 21 and 22 December, and *Scrooge: Cirque Extravaganza* at ExCeL is the circus version. The Muppets' version is a film with a live orchestra at the Eventim Apollo on 28 November, in the concerts below.
 
 ### A Christmas Carol, The Old Vic
 

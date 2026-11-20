@@ -64,7 +64,7 @@ If you want a made bed and fresh towels every morning, book a hotel.
 
 A one-bedroom with a sofa bed sleeps four at Staycity, Wilde and Citadines, but the children sleep in the living room and the kitchen. For a door between parents and children, these addresses sell two bedrooms or more, on each operator's own site:
 
-| Apartment hotel | Area | Biggest unit | What decides it |
+| Apartment hotel | Area | Biggest unit | Deciding factor |
 | --- | --- | --- | --- |
 | [Native King's Wardrobe](hotel:native-kings-wardrobe) | St Paul's | Three bedrooms, 114 m² | Two-bedrooms at 75 and 99 m² too, a washer-dryer in the apartment and a café-bar downstairs |
 | [Native Mayfair](hotel:native-mayfair) | Mayfair | Two bedrooms, 95 m² | A mews off Grosvenor Square, under ten minutes' walk from Bond Street and Marble Arch |

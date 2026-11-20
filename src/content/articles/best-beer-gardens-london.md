@@ -40,7 +40,7 @@ This guide counts how many independent lists name each pub for its garden. For r
 > **Built on:** Time Out's ranked 24, the Evening Standard, Condé Nast Traveller, The Infatuation, SquareMeal and eight more mastheads; Secret London, London On The Inside and the beer blog Beer Is My Life; and three YouTube channels.
 > *Evidence built 16 November 2026 · [How we rank →](/how-we-rank/)*
 
-## Covered or heated this winter
+## Covered or heated in winter 2026–27
 
 | Pub | Area | What keeps the weather off |
 | --- | --- | --- |

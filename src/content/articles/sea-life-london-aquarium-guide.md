@@ -234,7 +234,7 @@ Our [London with children guide](/articles/london-with-children/) covers what el
 
 ## Accessibility
 
-- **Step-free throughout.** The aquarium is on three floors with a lift beside every staircase and a ramp at the exit. For safety, no more than ten wheelchairs can be inside at once, which matters for groups.
+- **Step-free throughout.** The aquarium is on three floors with a lift beside every staircase and a ramp at the exit. For safety, no more than ten wheelchairs can be inside at once, a limit that applies to groups.
 - **Three accessible toilets:** after the Shark Walk at ground level, after the rainforest on level −2 and before Ocean Invaders on level −1.
 - **Free carer ticket** with any full-price ticket, booked at the same time. Bring proof such as a Blue Badge, a DLA or PIP award letter, a BD8 or CVI for visual impairment, or an Access Card with the carer symbol. It covers every attraction on a combination ticket, but not the paid experiences.
 - **Low light and uneven floors** in places, and only a few seats along the route; staff will find you the nearest.

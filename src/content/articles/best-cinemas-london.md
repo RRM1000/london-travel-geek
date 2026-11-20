@@ -291,7 +291,7 @@ Popular slots sell out and **a waitlist opens once a screening does**.
 
 **Dress for it.** It is a roof in the open air, not a heated room, and a warm evening turns cold by the credits. Ponchos are handed out if it drizzles.
 
-Our [outdoor cinema guide](/articles/outdoor-cinema-london/) covers Rooftop Cinema Club's second roof in Stratford, the Barbican's August screenings, the other free summer screens and the two rooftop Christmas film nights running this winter.
+Our [outdoor cinema guide](/articles/outdoor-cinema-london/) covers Rooftop Cinema Club's second roof in Stratford, the Barbican's August screenings, the other free summer screens and the two rooftop Christmas film nights running in winter 2026–27.
 
 ---
 

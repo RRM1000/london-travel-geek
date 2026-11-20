@@ -108,7 +108,7 @@ For the Science Museum's adults-only Lates, see the [Science Museum guide](/arti
 
 *Barbican Centre, Silk Street, EC2Y 8DS · selected days, 28 November 2026 to 3 January 2027 · free, timed ticket*
 
-**Palms and trailing plants spilling over tiers of concrete balconies under a glass roof**, which the Barbican calls the second-biggest conservatory in London. It opens to the public only on listed days, and this winter's run is 28 November 2026 to 3 January 2027. **Free, but ticketed**: book a timed slot on [the Barbican's Conservatory page](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory), and if it shows sold out, a few day tickets are released online from 9.30am on each open day. Our [Barbican guide](/articles/barbican-centre-guide/) covers the rest of the centre.
+**Palms and trailing plants spilling over tiers of concrete balconies under a glass roof**, which the Barbican calls the second-biggest conservatory in London. It opens to the public only on listed days, and the 2026–27 run is 28 November 2026 to 3 January 2027. **Free, but ticketed**: book a timed slot on [the Barbican's Conservatory page](https://www.barbican.org.uk/whats-on/2026/event/visit-the-conservatory), and if it shows sold out, a few day tickets are released online from 9.30am on each open day. Our [Barbican guide](/articles/barbican-centre-guide/) covers the rest of the centre.
 
 More free places to go are in our [galleries guide](/articles/best-galleries-london/) and [museums guide](/articles/best-museums-london/).
 

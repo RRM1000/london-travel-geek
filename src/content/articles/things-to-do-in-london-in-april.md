@@ -27,7 +27,7 @@ faq:
     a: "Heathrow's 1991 to 2020 average for April is a high of 15.0C and a low of 6.0C, with 42.3mm of rain and 169 hours of sunshine, against 120 in March. Sunset moves from 7.32pm on 1 April to 8.21pm on the 30th."
 ---
 
-April 2027 starts in the second week of the Easter school holidays and ends with the biggest weekend of the London sporting spring: a two-day Marathon on the same Saturday as the FA Cup semi-finals at Wembley. The Boat Race is in between, on 11 April, and Rembrandt, Ink and a Barbican fashion show open. Easter itself fell in March this year, so there is no April bank holiday.
+April 2027 starts in the second week of the Easter school holidays and ends with the biggest weekend of the London sporting spring: a two-day Marathon on the same Saturday as the FA Cup semi-finals at Wembley. The Boat Race is in between, on 11 April, and Rembrandt, Ink and a Barbican fashion show open. Easter 2027 falls in March, so there is no April bank holiday.
 
 > 💡 **The Short Version:** **The Easter school holidays run to Friday 9 April**; Easter Sunday was 28 March, so April has no bank holiday. **The Boat Race is on Sunday 11 April**, with races at **3.40pm and 4.40pm**, free from the bank. **The London Marathon runs over two days, Saturday 24 and Sunday 25 April**, on the same weekend as the **FA Cup semi-finals** at Wembley, so book a hotel early. **Vaisakhi on the Square** is in Trafalgar Square on **Saturday 17 April**, free, and the **Ideal Home Show** is at Olympia from **2 to 11 April**. **Rembrandt** opens at the Royal Academy on **9 April**; **Van Eyck** at the National Gallery and **Vanessa Bell & Duncan Grant** at Tate Britain close on **11 April**. **Bayeux Tapestry tickets for April to July** are due for release in early 2027.
 
@@ -42,7 +42,7 @@ April 2027 starts in the second week of the Easter school holidays and ends with
 | Sat 17 Apr | Free | Vaisakhi on the Square, Trafalgar Square, 12pm to 6pm |
 | Sun 18 Apr | £24 | Queen Elizabeth II: Her Life in Style closes at the King's Gallery; Pierre Alechinsky closes at Serpentine South |
 | Thu 22 Apr | Price to be confirmed | Ink opens at Tate Modern |
-| Sat 24 Apr | Ticketed | South Asia Now opens at V&A East; FA Cup semi-final weekend at Wembley |
+| Sat 24 Apr | Ticketed | V&A East opens its South Asia Now exhibition; FA Cup semi-final weekend at Wembley |
 | Sat 24 and Sun 25 Apr | Free to watch | TCS London Marathon, over two days |
 | Sun 25 Apr | Free | Becoming America closes at the Science Museum |
 | Fri 30 Apr | Ticketed | Grand Designs Live opens at ExCeL, to 3 May |
@@ -90,7 +90,7 @@ April 2027 starts in the second week of the Easter school holidays and ends with
 - **Rembrandt**, Royal Academy, Sackler Wing, **9 April to 19 September**. Rembrandt the printmaker: copper plates, acid and etching needles, and the risks he took with them. £17, or £19.50 with a donation. [Royal Academy](https://www.royalacademy.org.uk/exhibition/rembrandt).
 - **Characters of Fashion**, Barbican Art Gallery, **15 April to 29 August**. How writers from Jane Austen and Virginia Woolf to James Baldwin and Zadie Smith used clothes, for themselves and their characters, with garments from McQueen, Prada and Simone Rocha. Tickets go on sale in spring 2027 on the [Barbican's page](https://www.barbican.org.uk/whats-on/2027/event/characters-of-fashion).
 - **Ink**, Tate Modern, **22 April to 30 August**. Tate's first exhibition of ink painting. Price to be confirmed on [Tate's page](https://www.tate.org.uk/whats-on/tate-modern/ink).
-- **South Asia Now: Fashion. Art. Design.**, V&A East Museum, **from 24 April**. Over 200 works of art, fashion, architecture and design from South Asia today. Tickets are listed as available soon on the [V&A's page](https://www.vam.ac.uk/exhibitions/south-asia-now-fashion-art-design).
+- **South Asia Now: Fashion. Art. Design.**, V&A East Museum, **from 24 April**. Over 200 works of art, fashion, architecture and design from contemporary South Asia. Tickets are listed as available soon on the [V&A's page](https://www.vam.ac.uk/exhibitions/south-asia-now-fashion-art-design).
 
 ### Closing in April
 
