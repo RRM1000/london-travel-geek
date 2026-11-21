@@ -7,11 +7,13 @@
 //
 //   node scripts/db/find-websites.mjs              # all of them
 //   node scripts/db/find-websites.mjs --max 20 --dry-run
+//   node scripts/db/find-websites.mjs --reviewed   # also restaurants, pubs, bars and cafes that 2+ sources review
 import { connect } from "./lib.mjs";
 
 const arg = (k) => { const i = process.argv.indexOf(k); return i > 0 ? process.argv[i + 1] : undefined; };
 const MAX = Number(arg("--max") ?? 2000);
 const DRY = process.argv.includes("--dry-run");
+const REVIEWED = process.argv.includes("--reviewed");
 const today = new Date().toISOString().slice(0, 10);
 const UA = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36" };
 const core = (t) => (t ?? "").toLowerCase().normalize("NFKD").replace(/\s*\(.*\)/g, "")
@@ -59,10 +61,12 @@ const client = await connect();
 const { rows: todo } = await client.query(`
   select p.id, p.name, array_remove(array_agg(distinct r.url), null) as urls
   from places p left join reviews r on r.place_id = p.id and r.url ~ '^https?://' and r.url !~* 'youtube|youtu\\.be|tiktok|instagram'
-  where p.recommended and p.duplicate_of is null and (p.website is null or p.website = '')
+  where p.duplicate_of is null and p.parent_id is null and p.status <> 'closed' and (p.website is null or p.website = '')
+    and (p.recommended or ($2 and p.category in ('restaurant', 'takeaway', 'street_food', 'cafe', 'pub', 'bar')
+         and (select count(distinct source_id) from reviews r2 where r2.place_id = p.id) >= 2))
     and coalesce(p.attributes->>'websiteSearchedOn', '') < to_char(current_date - 30, 'YYYY-MM-DD')
-  group by p.id order by count(r.id) desc, p.id limit $1`, [MAX]);
-console.log(`${todo.length} recommended places without a website`);
+  group by p.id order by p.recommended desc, count(r.id) desc, p.id limit $1`, [MAX, REVIEWED]);
+console.log(`${todo.length} ${REVIEWED ? "recommended or reviewed" : "recommended"} places without a website`);
 let viaReview = 0, viaWiki = 0;
 for (const [i, p] of todo.entries()) {
   const hit = (await fromReviews(p, p.urls.slice(0, 6))) ?? (await fromWikidata(p));
