@@ -107,7 +107,7 @@ for (const e of elements) {
     address: [t["addr:housenumber"], t["addr:street"]].filter(Boolean).join(" ") || null,
     tags: { kind: ["amenity", "tourism", "leisure", "shop", "historic"].map((k) => t[k] && `${k}=${t[k]}`).find(Boolean),
       sport: t.sport, cuisine: t.cuisine, wikidata: t.wikidata, fee: t.fee, changing_table: t.changing_table,
-      opening_hours: t.opening_hours, wheelchair: t.wheelchair, instagram: t["contact:instagram"], seenOn: today },
+      opening_hours: t.opening_hours, wheelchair: t.wheelchair, instagram: t["contact:instagram"], brand: t.brand, brandWikidata: t["brand:wikidata"], seenOn: today },
   });
 }
 console.log(`${osm.length} named venues in our categories`);
