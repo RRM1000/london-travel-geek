@@ -14,6 +14,12 @@ export interface NavigationChild {
    * hence `seasonalFallback` below, which is what shows when nothing matches.
    */
   months?: number[];
+  /**
+   * Last day it shows, as [month, day], for an event that ends early in its
+   * last month: Bonfire Night is [11, 5], so it leaves the rail on 6 November
+   * rather than at the end of the month. Same build-time caveat as `months`.
+   */
+  until?: [number, number];
 }
 
 export interface NavigationSection {

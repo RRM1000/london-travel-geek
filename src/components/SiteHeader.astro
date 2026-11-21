@@ -54,11 +54,15 @@ const sectionCurrent = (item: (typeof site.navigation)[number]) =>
 // the seasonal list is month-filtered: October has five entries in season, and
 // this is what keeps that month the same height as every other.
 const RAIL_MAX = 4;
-const month = new Date().getMonth() + 1;
+const today = new Date();
+const month = today.getMonth() + 1;
+const day = today.getDate();
 const inSeason = (item: (typeof site.navigation)[number]): NavigationChild[] => {
   if (!item.secondary) return [];
   const hits = item.secondary.children.filter(
-    (c) => !c.months || c.months.includes(month),
+    (c) =>
+      (!c.months || c.months.includes(month)) &&
+      !(c.until && month === c.until[0] && day > c.until[1]),
   );
   return hits.length
     ? hits.slice(0, RAIL_MAX)
