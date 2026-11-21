@@ -49,7 +49,7 @@ heroImageAlt: "A ladies' doubles match on an outside court at Wimbledon, with th
 
 There are a small number of legitimate ways in, and the All England Club controls every one of them. Resale sites, "guaranteed Wimbledon tickets" ads and touts outside Southfields station sell tickets that are void on arrival.
 
-**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.**
+**The Championships 2027 run from Monday 28 June to Sunday 11 July 2027.** The first Championships were played in 1877, so 2027 is the tournament's 150th year.
 
 > 💡 **The Short Version:** **Both ballots for 2027 have closed**, and Public Ballot offers go out by email **from October 2026**. For 2028, enter both: the **AELTC Public Ballot** is free and open to anyone in the world, and the **LTA draw costs £25 a year** for any adult and lets winners **choose their day and court**. For 2027, an LTA Fan+ membership bought before the sale still gets you into the LTA's **March sale of returned tickets**, and **The Queue** sells **500 tickets each** for Centre, No.1 and No.2 Court every morning at face value, plus thousands of **Grounds Passes from £22**. Once inside, **Ticket Resale** from **3pm** put Centre Court seats on sale for **£15** in 2026 — 2027's price isn't out yet. And if you cannot face a 4am start, **arriving after 4pm** gets you in with barely a wait, for tennis that can run to **11pm**. Everything else is hospitality, debentures, or a scam.
 
