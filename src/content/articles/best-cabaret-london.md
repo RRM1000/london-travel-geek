@@ -37,7 +37,7 @@ Cabaret runs on short leases, small rooms and thin margins; the closed venues ar
 
 > 💡 **The Short Version:** **Bethnal Green Working Men's Club** is the one to go to first, because its owners intend to sell it. **Crazy Coqs** is an Art Deco basement cabaret room. **Underbelly Boulevard** runs several shows a night. **The Royal Vauxhall Tavern** is £8 and **CellarDoor is free.** **The London Cabaret Club** is the full dinner-show production. And **the entire Proud operation and The Glory have closed** — do not let an old listicle send you to either.
 
-*Every venue status-checked against its own website on 1 September 2026.*
+*Venues, prices and dates as of November 2026.*
 
 ---
 
@@ -612,4 +612,3 @@ The show has returned to its home in the Hippodrome's own theatre, and performan
 ---
 
 *This guide is independent and contains no paid placements.*
-*This guide is independent and contains no paid placements. Every venue was status-checked against its own website or ticketing system on 1 September 2026. Where a price, age limit or access statement is described here as not published, that means the venue itself does not state it — not that it does not exist.*
