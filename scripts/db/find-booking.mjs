@@ -37,6 +37,11 @@ const STRIP = /^(date|time|covers|party_?size|partysize|seats|datetime|day|start
 function cleanBooking(href) {
   try {
     const u = new URL(href);
+    // an OpenTable widget loader is a script, not a page; its rid opens the hosted booking page
+    if (/opentable\./i.test(u.hostname) && /\/widget\//i.test(u.pathname) && u.searchParams.get("rid")) {
+      const rid = u.searchParams.get("rid");
+      return `https://${u.hostname}/restref/client/?rid=${rid}&restref=${rid}`;
+    }
     for (const k of [...u.searchParams.keys()]) if (STRIP.test(k) || /^utm_/i.test(k)) u.searchParams.delete(k);
     return u.href;
   } catch { return null; }
