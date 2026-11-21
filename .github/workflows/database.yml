@@ -1,6 +1,7 @@
 # Keeps the Supabase database of London places, events, deals and reviews up to date.
 #
-#   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json.
+#   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json, and new
+#                          videos from the YouTube creators into video_queue.
 #   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues),
 #            then the weekly recheck (businesses that left the register, the oldest-checked queue).
 # The What's On listings are copied in by the "Refresh listings" workflow straight after it runs.
@@ -55,6 +56,11 @@ jobs:
       - name: Venue event feeds
         if: env.FEEDS == 'true'
         run: node scripts/db/read-feeds.mjs
+
+      - name: New creator videos
+        if: env.FEEDS == 'true'
+        continue-on-error: true
+        run: node scripts/db/watch-creators.mjs
 
       - name: Food hygiene register
         if: env.WEEKLY == 'true'
