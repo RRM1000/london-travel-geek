@@ -1,8 +1,9 @@
-// A private viewer for the London Travel Geek database: a dashboard, place search, deals,
+// A private viewer for the London Travel Geek database: a dashboard, guide alerts, place search, deals,
 // rankings, new places, closures, sources, articles, markets and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
-// only (127.0.0.1) and writes nothing except content_queue.status when a queue button is pressed.
+// only (127.0.0.1) and writes only two things: content_queue.status when a queue button is pressed, and a
+// row in guide_alert_dismissals when a guide alert is dismissed.
 import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
@@ -45,7 +46,7 @@ const missing = (e) => /does not exist/.test(e.message);
 
 // Tables shown on the dashboard, with the column that says when a row was last checked.
 const TABLES = ["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places", "awards",
-  "licence_applications", "stations", "page_stats", "place_clicks", "sheet_extras"];
+  "licence_applications", "stations", "page_stats", "place_clicks", "guide_alert_dismissals", "sheet_extras"];
 const CHECKED = new Set(["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places",
   "awards", "licence_applications", "stations", "page_stats"]);
 
@@ -73,7 +74,8 @@ async function summary() {
     where status = 'new' and is_london and not sponsored group by 1 order by 2 desc`);
   const recent = await q(`select first_seen d, count(*)::int n from public.content_queue
     where first_seen >= current_date - 13 group by 1 order by 1`);
-  return { tables, placesBrowse, byCategory, byOrigin, queue, queueTags, recent, at: new Date().toISOString() };
+  const alerts = await q(`select kind, count(*)::int n from public.guide_alerts group by 1`).catch(() => null);
+  return { tables, placesBrowse, byCategory, byOrigin, queue, queueTags, recent, alerts, at: new Date().toISOString() };
 }
 
 async function options() {
@@ -349,6 +351,26 @@ async function rankingOptions(p) {
   return { categories, cuisines: Object.entries(cuisines).map(([cuisine, n]) => ({ cuisine, n })).sort((a, b) => b.n - a.n), topics };
 }
 
+// Things that may mean a guide needs a look (the guide_alerts view). Nothing here changes an article.
+async function alerts(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.kind) add(`kind = $?`, p.kind);
+  if (p.article) add(`article_slug = $?`, p.article);
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const rows = await q(`select * from public.guide_alerts ${w} limit 1000`, args);
+  const kinds = await q(`select kind, count(*)::int n from public.guide_alerts group by 1`);
+  const articles = await q(`select article_slug, article_title, count(*)::int n from public.guide_alerts group by 1, 2 order by 2`);
+  return { rows, total: rows.length, kinds, articles };
+}
+
+async function dismissAlert({ kind, article_slug, place_id }) {
+  if (!["closed", "deal_ended", "missing"].includes(kind) || !article_slug || !Number(place_id)) throw new Error("kind, article_slug and place_id are needed");
+  await q(`insert into public.guide_alert_dismissals (kind, article_slug, place_id) values ($1, $2, $3) on conflict do nothing`,
+    [kind, article_slug, Number(place_id)]);
+  return { ok: true };
+}
+
 async function setStatus(id, status) {
   if (!["new", "added", "rejected"].includes(status)) throw new Error("status must be new, added or rejected");
   const rows = await q(`update public.content_queue set status = $2 where id = $1 returning id, status`, [id, status]);
@@ -394,20 +416,21 @@ const server = http.createServer(async (req, res) => {
       catch (e) { if (/does not exist/.test(e.message)) return send(res, 200, { rows: [], total: 0, page: 0, why: [], missing: true }); throw e; }
     }
     const optional = { "/api/upcoming": upcoming, "/api/closed": closed, "/api/markets": markets,
-      "/api/rankings": rankings, "/api/ranking-options": rankingOptions };
+      "/api/rankings": rankings, "/api/ranking-options": rankingOptions, "/api/alerts": alerts };
     if (req.method === "GET" && optional[u.pathname]) {
       try { return send(res, 200, await optional[u.pathname](p)); }
       catch (e) { if (missing(e)) return send(res, 200, { rows: [], total: 0, missing: true }); throw e; }
     }
     if (req.method === "GET" && u.pathname === "/api/queue") return send(res, 200, await queue(p));
-    if (req.method === "POST" && (m = u.pathname.match(/^\/api\/queue\/(\d+)$/))) {
+    if (req.method === "POST") {
       // Only this page may press the buttons: reject requests from any other site.
       const origin = req.headers.origin || "";
       if (origin && !/^http:\/\/(localhost|127\.0\.0\.1):\d+$/.test(origin)) return send(res, 403, { error: "forbidden" });
       let body = "";
       for await (const c of req) body += c;
-      const { status } = JSON.parse(body || "{}");
-      return send(res, 200, await setStatus(Number(m[1]), status));
+      const data = JSON.parse(body || "{}");
+      if ((m = u.pathname.match(/^\/api\/queue\/(\d+)$/))) return send(res, 200, await setStatus(Number(m[1]), data.status));
+      if (u.pathname === "/api/alerts/dismiss") return send(res, 200, await dismissAlert(data));
     }
     send(res, 404, { error: "not found" });
   } catch (e) {

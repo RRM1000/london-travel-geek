@@ -57,6 +57,7 @@
   <h1>LTG database</h1>
   <nav>
     <button data-tab="dash" class="on">Dashboard</button>
+    <button data-tab="alerts">Guide alerts</button>
     <button data-tab="places">Places</button>
     <button data-tab="ranks">Rankings</button>
     <button data-tab="newp">New places</button>
@@ -71,6 +72,14 @@
 </header>
 <main>
   <section id="dash"></section>
+  <section id="alerts" hidden>
+    <div class="filters">
+      <select id="akind"><option value="">Every kind of alert</option></select>
+      <select id="aart"><option value="">Every guide</option></select>
+    </div>
+    <p class="small muted">Things in the database that may mean a guide needs a look. Nothing changes an article by itself. Dismiss an alert once you've dealt with it, or if it doesn't matter, and it won't come back.</p>
+    <div id="alertlist"></div>
+  </section>
   <section id="places" hidden>
     <div class="filters">
       <input type="search" id="pq" placeholder="Name, address or postcode">
@@ -196,6 +205,7 @@ function show(tab) {
   if (tab === "places") loadPlaces();
   if (tab === "newp") loadNew();
   if (tab === "ranks") loadRanks();
+  if (tab === "alerts") loadAlerts();
   if (tab === "deals") loadDeals();
   if (tab === "closed") loadClosed();
   if (tab === "markets") loadMarkets();
@@ -203,7 +213,7 @@ function show(tab) {
   if (tab === "articles") loadArticles();
   if (tab === "queue") loadQueue();
 }
-const TABS = ["dash", "places", "ranks", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
+const TABS = ["dash", "alerts", "places", "ranks", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -220,6 +230,8 @@ async function loadDash() {
         <div class="card"><div class="muted small">Recommended on the site</div><div class="big">${fmt(s.placesBrowse.recommended)}</div></div>
         <div class="card"><div class="muted small">Places with a website</div><div class="big">${fmt(s.placesBrowse.with_website)}</div></div>
         <div class="card"><div class="muted small">Queue items waiting (London, not sponsored)</div><div class="big">${fmt(newQ?.shown)}</div></div>
+        ${s.alerts ? `<div class="card" style="cursor:pointer" id="dalerts"><div class="muted small">Guide alerts to look at</div><div class="big">${fmt(s.alerts.reduce((t, a) => t + a.n, 0))}</div>
+          <div class="small muted">${s.alerts.map((a) => `${esc(ALERT[a.kind] || a.kind)} ${fmt(a.n)}`).join(" · ")}</div></div>` : ""}
       </div>
       <h2>Tables and how fresh they are</h2>
       <table><tr><th>Table</th><th class="num">Rows</th><th>Last checked, newest</th><th>Oldest</th><th class="num">Never checked</th><th class="num">Over 30 days old</th></tr>
@@ -244,6 +256,7 @@ async function loadDash() {
           <p class="small muted">Found per day, last two weeks: ${s.recent.map((r) => `<span class="chip">${day(r.d).replace(/ \d{4}$/, "")}: ${fmt(r.n)}</span>`).join("") || "none"}</p>
         </div>
       </div>`;
+    if ($("#dalerts")) $("#dalerts").onclick = () => show("alerts");
     el.querySelectorAll("tr[data-cat]").forEach((tr) => tr.onclick = () => { resetPlaces(); $("#pcat").value = tr.dataset.cat; show("places"); });
     el.querySelectorAll("tr[data-orig]").forEach((tr) => tr.onclick = () => { resetPlaces(); $("#porig").value = tr.dataset.orig; show("places"); });
   } catch (e) { el.innerHTML = `<div class="err">Could not read the database: ${esc(e.message)}</div>`; }
@@ -333,6 +346,42 @@ async function openPlace(id) {
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
+
+// Guide alerts
+const ALERT = { closed:"May have closed", deal_ended:"Deal ended", missing:"Missing from the guide" };
+["akind", "aart"].forEach((id) => $("#" + id).addEventListener("change", loadAlerts));
+async function loadAlerts() {
+  const p = new URLSearchParams({ kind:$("#akind").value, article:$("#aart").value });
+  const el = $("#alertlist");
+  try {
+    const r = await api("/api/alerts?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">Guide alerts haven't been set up in the database yet.</p>`; return; }
+    const keepK = $("#akind").value, keepA = $("#aart").value;
+    $("#akind").innerHTML = `<option value="">Every kind of alert</option>` + r.kinds.map((k) => `<option value="${esc(k.kind)}">${esc(ALERT[k.kind] || k.kind)} (${fmt(k.n)})</option>`).join("");
+    $("#aart").innerHTML = `<option value="">Every guide</option>` + r.articles.map((a) => `<option value="${esc(a.article_slug)}">${esc(a.article_title)} (${fmt(a.n)})</option>`).join("");
+    $("#akind").value = keepK; $("#aart").value = keepA;
+    el.innerHTML = r.rows.length ? r.rows.map((x) => `<div class="item" data-kind="${esc(x.kind)}" data-slug="${esc(x.article_slug)}" data-place="${x.place_id}"><div class="body">
+        <div><span class="chip ${x.kind === "closed" ? "" : ""}" style="${x.kind === "closed" ? "background:var(--bad);color:#fff" : x.kind === "deal_ended" ? "background:var(--warn);color:#fff" : ""}">${esc(ALERT[x.kind] || x.kind)}</span>
+          ${x.link ? `<span class="chip">${x.link === "entry" ? "has its own entry" : "mentioned"}</span>` : ""}${x.recommended ? '<span class="chip rec">recommended</span>' : ""}${x.new_place ? '<span class="chip rec">new</span>' : ""}</div>
+        <h3 style="margin-top:6px"><a href="#" data-open-place="${x.place_id}">${esc(x.place_name)}</a> <span class="small muted" style="font-weight:400">in</span> <a href="#" data-open-article="${esc(x.article_slug)}">${esc(x.article_title)}</a></h3>
+        <div class="small muted">${esc([x.category, x.borough].filter(Boolean).join(" · "))}${x.topic_sources ? ` · ${fmt(Number(x.topic_sources))} sources for this topic` : ""}${safeUrl(x.article_url) ? ` · ${link(x.article_url, "guide on the site")}` : ""}</div>
+        <p>${esc(x.detail || "")}</p>
+      </div><div class="acts"><button class="btn dismiss" data-dismiss>Dismiss</button></div></div>`).join("")
+      : `<p class="muted">No alerts. Every guide looks up to date.</p>`;
+    el.querySelectorAll("a[data-open-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.openPlace); });
+    el.querySelectorAll("a[data-open-article]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openArticle(l.dataset.openArticle); });
+    el.querySelectorAll("[data-dismiss]").forEach((b) => b.onclick = async () => {
+      const item = b.closest(".item");
+      b.disabled = true;
+      try {
+        await api("/api/alerts/dismiss", { method:"POST", headers:{ "content-type":"application/json" },
+          body:JSON.stringify({ kind:item.dataset.kind, article_slug:item.dataset.slug, place_id:item.dataset.place }) });
+        item.classList.add("done");
+        item.querySelector(".acts").innerHTML = `<span class="small">Dismissed</span>`;
+      } catch (e) { alert("Could not save: " + e.message); b.disabled = false; }
+    });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
 
 // Rankings
 let rPage = 0, rOptsFor = null;
