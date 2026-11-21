@@ -18,7 +18,7 @@ tags: [things to do, London events, November, seasonal, London experiences]
 draft: false
 faq:
   - q: "What is on in London in November 2026?"
-    a: "Bonfire Night, Remembrance Sunday, Armistice Day and the Lord Mayor's Show on the 14th filled the first half of the month. The EFG London Jazz Festival runs 13 to 22 November, and Hyde Park Winter Wonderland opened on the 19th. The last week has a 24-hour Tube drivers' strike from noon on Thursday 26th, Black Friday on the 27th, the Nations Championship finals at Twickenham from 27 to 29 November, and the opening of the new London Museum in Smithfield on Saturday 28th."
+    a: "Bonfire Night, Remembrance Sunday, Armistice Day and the Lord Mayor's Show on the 14th filled the first half of the month. The EFG London Jazz Festival runs 13 to 22 November, and Hyde Park Winter Wonderland opened on the 19th. The final days of the month bring a 24-hour Tube drivers' strike from noon on Thursday 26th, Black Friday on the 27th, the Nations Championship finals at Twickenham from 27 to 29 November, and the opening of the new London Museum in Smithfield on Saturday 28th."
   - q: "Can you still get tickets for the Bayeux Tapestry in November 2026?"
     a: "Not for a November visit. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. Adult tickets are £33, with off-peak at £27 and super off-peak at £25."
   - q: "Is Bonfire Night over in London in 2026?"
