@@ -89,6 +89,9 @@ export const londonSite: SiteConfig = {
           { label: "Christmas in London", href: "/articles/christmas-in-london/", months: [10, 11, 12] },
           { label: "Christmas markets", href: "/articles/christmas-markets-london/", months: [11, 12] },
           { label: "Winter Wonderland", href: "/articles/hyde-park-winter-wonderland/", months: [10, 11, 12, 1] },
+          // Fifth in November, so it waits behind the four above; in December
+          // Black Friday has gone and it moves up ahead of London in the rain.
+          { label: "New Year's Eve", href: "/articles/new-years-eve-london/", months: [11, 12] },
           { label: "London Film Festival", href: "/articles/london-film-festival/", months: [9, 10] },
           { label: "London in the rain", href: "/articles/london-in-the-rain/", months: [1, 2, 11, 12] },
           { label: "Best parks and gardens", href: "/articles/best-parks-gardens-london/", months: [4, 5, 6, 7, 8] },
