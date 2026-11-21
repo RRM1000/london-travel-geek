@@ -1,0 +1,458 @@
+{
+  "cuisine": "market-stalls",
+  "note": "Trader-level corpus for best-market-stalls-london, built 2026-11-21. Only sources dated 2023 or later are counted, because stall line-ups turn over: SheerLuxe (2018), Delicious (2019), Londonist (2017), Hot Dinners (2022) and Time Out's 2010 and 2014 market pages were read and set aside. Sit-down restaurants inside market buildings are out of scope.",
+  "recorded": "2026-11-21",
+  "sources": [
+    {
+      "name": "The Infatuation - London's Best Food Markets",
+      "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets",
+      "scope": "market-stalls",
+      "dated": "2023-10-23",
+      "ranked": false,
+      "names": [
+        "Kappacasein",
+        "Horn OK Please",
+        "Bread Ahead",
+        "Asador",
+        "Funky Chips",
+        "Meathead Mexican",
+        "Luardos",
+        "Beiju",
+        "Fen Noodles",
+        "Dumpling Shack",
+        "Yum Bun",
+        "Sood Family",
+        "Wheelcake Island",
+        "Daddy Donkey",
+        "Marrakech Grill",
+        "The Beefsteaks",
+        "The Tapas Room",
+        "Mamma Mia"
+      ],
+      "quotes": {
+        "Kappacasein": "'excellent cheese toasties from Kappacasein' (Borough)",
+        "Horn OK Please": "'Indian lentil-filled pancakes' (Borough)",
+        "Meathead Mexican": "'the excellent beef birria tacos' (Camden)",
+        "Dumpling Shack": "'Top spots like Fen Noodles and Dumpling Shack have stalls here' (Spitalfields)"
+      }
+    },
+    {
+      "name": "The Infatuation - The 13 Best Places To Eat & Drink In Borough Market",
+      "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+      "scope": "market-stalls",
+      "dated": "2026-07-22",
+      "ranked": false,
+      "names": [
+        "Furness Fish Markets",
+        "The Black Pig",
+        "Juma Kitchen",
+        "Shuk",
+        "Brindisa Chorizo Grill",
+        "Kappacasein",
+        "Porteña",
+        "Gourmet Goat",
+        "Horn OK Please",
+        "Hobbs Roast",
+        "Richard Haward’s Oysters",
+        "Gujarati Rasoi",
+        "Maria's Market Cafe"
+      ],
+      "quotes": {
+        "The Black Pig": "'doorstop-sized ciabatta sandwiches from the perma-busy stall' - Salsa Verde sandwich",
+        "Juma Kitchen": "kubba haleb and potato chap",
+        "Gourmet Goat": "'the kid goat kofta pitta with chilli salsa is our go-to order'",
+        "Horn OK Please": "moong daal dosa with channa chaat",
+        "Porteña": "'Stopping by Porteña for a few empanadas is essential'",
+        "Kappacasein": "'the cheese toastie at Kappacasein ... is a thing of beauty'",
+        "Gujarati Rasoi": "papdi chaat and pau bhaji",
+        "Shuk": "chicken shawarma pita",
+        "Furness Fish Markets": "Listed as Furness Oyster Bar"
+      },
+      "note": "Unordered. Same domain as the markets guide: one opinion per venue."
+    },
+    {
+      "name": "The Infatuation - Camden Market Stables review",
+      "url": "https://theinfatuation.com/london/reviews/camden-market-stables",
+      "scope": "market-stalls",
+      "dated": "2023-10-23",
+      "ranked": false,
+      "names": [
+        "Asador",
+        "Funky Chips"
+      ],
+      "quotes": {
+        "Asador": "'both the Argentinian steak and the masala fries are worth the wait'"
+      }
+    },
+    {
+      "name": "Time Out - London's best street food",
+      "url": "https://www.timeout.com/london/restaurants/londons-best-street-food",
+      "scope": "market-stalls",
+      "dated": "2026-06-29",
+      "ranked": true,
+      "names": [
+        "Dorothy's Deli",
+        "Jupiter Burger",
+        "Kappacasein",
+        "Stakehaus"
+      ],
+      "quotes": {
+        "Dorothy's Deli": "#5 of 12",
+        "Jupiter Burger": "#6 of 12 - Netil Market",
+        "Kappacasein": "#8 of 12 - 'seriously stonking toasties and raclette'",
+        "Stakehaus": "#11 of 12 - Seven Dials Market, bavette steak"
+      },
+      "listLength": 12,
+      "note": "Ranked 1-12, editor Leonie Cooper. Only the four entries that trade at a market are recorded; Acme Taco, Suuyar, Logma, Yemanes, Thrift Taco, Pockets, Edami and Angel Dabang are shops, vans, pub residencies or a brewery yard."
+    },
+    {
+      "name": "Visit London - Best food to eat at Borough Market",
+      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants",
+      "scope": "market-stalls",
+      "dated": "undated",
+      "ranked": false,
+      "names": [
+        "Kappacasein",
+        "La Tua Pasta",
+        "Gourmet Goat",
+        "Juma Kitchen",
+        "Richard Haward’s Oysters",
+        "Gelateria 3bis",
+        "Monmouth Coffee Company",
+        "The Colombian Coffee Company",
+        "The Cider House",
+        "Bedales of Borough"
+      ],
+      "quotes": {
+        "Kappacasein": "raclette over potatoes and the toastie",
+        "Gourmet Goat": "'the slow roasted rose veal salad bowl'"
+      },
+      "note": "Sit-down restaurants on the page (Padella, El Pastor, Roast, Bao, Fish!) not recorded: out of scope."
+    },
+    {
+      "name": "Resy - The Best Places to Eat in Borough Market",
+      "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/",
+      "scope": "market-stalls",
+      "dated": "2023-08-22",
+      "ranked": false,
+      "names": [
+        "Richard Haward’s Oysters",
+        "Juma Kitchen",
+        "Porteña",
+        "Maria's Market Cafe",
+        "Kappacasein",
+        "Gujarati Rasoi",
+        "Bar Daskal"
+      ],
+      "quotes": {
+        "Juma Kitchen": "'the mixed grill's a straight-up great order'",
+        "Kappacasein": "'that A1 toastie'",
+        "Porteña": "Argentine empanadas; walk-ins only"
+      },
+      "note": "Restaurants on the page not recorded: out of scope."
+    },
+    {
+      "name": "The Good Food Guide - Where to eat in Borough Market",
+      "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market",
+      "scope": "market-stalls",
+      "dated": "2024-04-03",
+      "ranked": false,
+      "names": [
+        "Brindisa Kitchen Bar",
+        "Horn OK Please",
+        "Kappacasein",
+        "Monmouth Coffee Company",
+        "The Colombian Coffee Company",
+        "Bar Daskal",
+        "The Rake"
+      ],
+      "quotes": {
+        "Horn OK Please": "'superlative dosas, and vibrant channa chat'",
+        "Kappacasein": "'the cheese toastie from Kappacasein'",
+        "The Colombian Coffee Company": "hot chocolate whisked with a molinillo"
+      },
+      "note": "By Clare Finney. Editorial, not a GFG rating; tiered A by domain."
+    },
+    {
+      "name": "The Tour Guy - Borough Market: what to see and eat",
+      "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/",
+      "scope": "market-stalls",
+      "dated": "2026-11-14",
+      "ranked": false,
+      "names": [
+        "Joli",
+        "Bread Ahead",
+        "Shuk",
+        "Mei Mei",
+        "Neal's Yard Dairy",
+        "Juma Kitchen",
+        "Northfield Farm"
+      ],
+      "quotes": {
+        "Bread Ahead": "'crème brûlée donut might just ruin you'",
+        "Mei Mei": "ox cheek rendang"
+      },
+      "note": "Tour operator's blog; it sells its own tours but discloses no payment from traders."
+    },
+    {
+      "name": "London x London - Maltby Street Market",
+      "url": "https://www.londonxlondon.com/maltby-street-market/",
+      "scope": "market-stalls",
+      "dated": "2023-12-14",
+      "ranked": false,
+      "names": [
+        "Duck Frites",
+        "La Pepiá",
+        "Gyoza Guys",
+        "Degchi",
+        "The Beefsteaks",
+        "Crepes a la Carte",
+        "Amen Ethiopian",
+        "Mooncheese toasties",
+        "La Criolla Empanadas",
+        "Banh Mi Nen",
+        "The Cheese Truck"
+      ],
+      "quotes": {
+        "Duck Frites": "'The duck arancini ... make sure you try them'",
+        "La Criolla Empanadas": "'the caramel empanada is our recommendation'",
+        "Mooncheese toasties": "ham and cheese toastie on a plancha",
+        "Amen Ethiopian": "sauteed meat, vegetables and lentils"
+      }
+    },
+    {
+      "name": "Secret London - Maltby Street Market",
+      "url": "https://secretldn.com/maltby-street-market-london/",
+      "scope": "market-stalls",
+      "dated": "2025-05-28",
+      "ranked": false,
+      "names": [
+        "The Greek Pot",
+        "Duck Frites",
+        "Amen Ethiopian",
+        "Mooncheese toasties",
+        "Mr Dumpling"
+      ]
+    },
+    {
+      "name": "Secret London - The Secret London Guide To Camden Market",
+      "url": "https://secretldn.com/best-street-food-camden-market/",
+      "scope": "market-stalls",
+      "dated": "2024-01-18",
+      "ranked": false,
+      "names": [
+        "Zala Grill",
+        "Sonita's Kitchen",
+        "Oli Baba's",
+        "Magic Falafel",
+        "Stakehaus",
+        "VBurger",
+        "Makatcha",
+        "The Mac Factory",
+        "Yorkshire Burrito",
+        "Chin Chin Labs"
+      ],
+      "quotes": {
+        "The Mac Factory": "six mac and cheese flavours",
+        "Yorkshire Burrito": "'It's a Yorkshire pudding. Rolled up like a burrito.'"
+      },
+      "note": "Headed 1-11 but a guide, not a ranking: no ranks recorded. The Cheese Bar left out (restaurant)."
+    },
+    {
+      "name": "Secret London - The Best Street Food Markets In London",
+      "url": "https://secretldn.com/street-food-markets-halls-london/",
+      "scope": "market-stalls",
+      "dated": "2025-03-06",
+      "ranked": false,
+      "names": [
+        "Prairie Fire BBQ",
+        "Hermanos Tacos",
+        "Makatcha",
+        "Thai On The Fly",
+        "Gujarati Rasoi",
+        "Zardosht",
+        "Bangers",
+        "Amen Ethiopian",
+        "Duck Frites",
+        "Gyoza Guys"
+      ],
+      "note": "Numbers rank markets, not traders. Food hall units left out."
+    },
+    {
+      "name": "DesignMyNight - London Street Food Dishes You Have To Try",
+      "url": "https://www.designmynight.com/london/blog/london-street-food",
+      "scope": "market-stalls",
+      "dated": "2025-02-05",
+      "ranked": false,
+      "names": [
+        "Humble Crumble",
+        "The Cheese Wheel",
+        "Piadina Mia",
+        "The Rib Man",
+        "Hash Hut",
+        "Dumpling Shack",
+        "Bill or Beak",
+        "Bread Ahead"
+      ],
+      "quotes": {
+        "Humble Crumble": "apple crumble and hot custard",
+        "The Cheese Wheel": "fettuccine alfredo",
+        "Dumpling Shack": "prawn wontons in chilli oil",
+        "Bread Ahead": "salted caramel and honeycomb doughnut"
+      },
+      "note": "Restaurant and shop entries left out."
+    },
+    {
+      "name": "The Nudge - Broadway Market",
+      "url": "https://thenudge.com/broadway-market/",
+      "scope": "market-stalls",
+      "dated": "2026-03-27",
+      "ranked": false,
+      "names": [
+        "Shrimpy",
+        "Biff's Jack Shack",
+        "Temaki Bros",
+        "Banh Mi 11"
+      ]
+    },
+    {
+      "name": "Olive - The best weekend food markets in London",
+      "url": "https://www.olivemagazine.com/restaurants/london/best-street-food-in-london",
+      "scope": "market-stalls",
+      "dated": "2026-03-27",
+      "ranked": false,
+      "names": [
+        "Chubby Dumpling",
+        "Brown of Brockley",
+        "Brockley Bee"
+      ]
+    },
+    {
+      "name": "British Street Food Awards 2025",
+      "url": "https://britishstreetfood.co.uk/2025/09/the-winners-are/",
+      "scope": "market-stalls",
+      "dated": "2025-09-29",
+      "ranked": false,
+      "names": [
+        "Oshpaz",
+        "Ro Vietnamese"
+      ],
+      "quotes": {
+        "Oshpaz": "People's Choice 1st and Best Vegetarian, British Street Food Awards 2025 (London)",
+        "Ro Vietnamese": "Future Food Legend 2025 (London)"
+      },
+      "note": "Judged national awards; only London-based winners recorded."
+    },
+    {
+      "name": "British Street Food Awards 2026",
+      "url": "https://britishstreetfood.co.uk/2026/09/who-won-what/",
+      "scope": "market-stalls",
+      "dated": "2026-09-06",
+      "ranked": false,
+      "names": [
+        "Joy & Gladness",
+        "Suya Boiz"
+      ],
+      "quotes": {
+        "Joy & Gladness": "People's Choice winner and Spice Award, British Street Food Awards 2026 (London)",
+        "Suya Boiz": "People's Choice runner-up 2026 (London)"
+      },
+      "note": "Same body as 2025: one domain."
+    },
+    {
+      "name": "Mark Wiens (YouTube) - Best London Street Food at Borough Market",
+      "url": "https://www.youtube.com/@MarkWiens",
+      "scope": "market-stalls",
+      "dated": "2026-06-24",
+      "ranked": false,
+      "names": [
+        "Monmouth Coffee Company",
+        "The Ginger Pig",
+        "Richard Haward’s Oysters",
+        "Kappacasein",
+        "The Black Pig",
+        "Bomba Paella",
+        "Turnips",
+        "Mei Mei",
+        "Juma Kitchen",
+        "Gelateria 3bis",
+        "Gourmet Goat",
+        "La Tua Pasta",
+        "Bread Ahead"
+      ],
+      "quotes": {
+        "Kappacasein": "cheese toastie £8",
+        "The Black Pig": "'The Best One' sandwich £13",
+        "Mei Mei": "nasi lemak £15.50",
+        "Gourmet Goat": "kid goat kofta £10.49",
+        "La Tua Pasta": "tortelloni £11",
+        "Bread Ahead": "crème brûlée doughnut £4.75",
+        "The Ginger Pig": "sausage roll £7",
+        "Gelateria 3bis": "gelato £6.50",
+        "Juma Kitchen": "kubba, kebabs and dolma"
+      },
+      "note": "Video https://www.youtube.com/watch?v=8frIFTQJg1c. Names and prices from the description's numbered list (eating order, not a ranking). No gifting disclosure."
+    },
+    {
+      "name": "Through My Lens (YouTube) - We Ate (Almost) Everything at Borough Market",
+      "url": "https://www.youtube.com/@ThroughMyLens",
+      "scope": "market-stalls",
+      "dated": "2025-06-08",
+      "ranked": false,
+      "names": [
+        "The Ginger Pig",
+        "The Black Pig",
+        "Jumi Cheese",
+        "Humble Crumble"
+      ],
+      "note": "Video https://www.youtube.com/watch?v=w3TuFQyaOTA. Names from the description; the rest of the stops are unnamed."
+    },
+    {
+      "name": "Only Scrans (YouTube) - Camden Market Best Food Guide",
+      "url": "https://www.youtube.com/@0nlyscrans",
+      "scope": "market-stalls",
+      "dated": "2024-03-12",
+      "ranked": false,
+      "names": [
+        "Asador",
+        "Funky Chips",
+        "Humble Crumble",
+        "Meat Point",
+        "Yorkshire Burrito",
+        "Khaao",
+        "The Mac Factory"
+      ],
+      "note": "Video https://www.youtube.com/watch?v=UMJJ4XAQLVo. Names from the description timestamps."
+    }
+  ],
+  "setAside": [
+    {
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-street-food-markets-london-stalls",
+      "why": "dated 9 August 2022"
+    },
+    {
+      "url": "https://sheerluxe.com/life/food/the-18-best-places-to-eat-at-borough-market",
+      "why": "2018, updated 2019"
+    },
+    {
+      "url": "https://www.deliciousmagazine.co.uk/foodies-borough-market-guide/",
+      "why": "April 2019"
+    },
+    {
+      "url": "https://londonist.com/london/food/the-top-5-experiences-at-maltby-street-market",
+      "why": "2017"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-fvBZcrGEpk",
+      "why": "Eating With Tod: no trader named in description or chapters"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=cv47TpV1ZUU",
+      "why": "Loaded London: no trader named"
+    },
+    {
+      "url": "https://thatsup.co.uk/london/guide/guide-to-the-best-street-food-in-london",
+      "why": "thatsup.co.uk is on the excluded list in data/sources.json"
+    }
+  ]
+}

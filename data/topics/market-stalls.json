@@ -1,0 +1,22 @@
+{
+  "topic": "market-stalls",
+  "article": "src/content/articles/best-market-stalls-london.md",
+  "headTerm": "Market Stalls",
+  "note": "Trader-level guide: individual stalls at London's markets and food halls, never the markets themselves (those are best-street-food-london and best-london-markets). Sit-down restaurants inside market buildings are out of scope. Only sources dated 2023 or later count, because stall line-ups turn over. The trader checklist is the market_traders table in the Supabase project (edaiinwgjnqdthjanmrd); its market_traders_ranked.sources column counts citations from EVERY topic and must not be printed here.",
+  "awardBodies": [
+    { "name": "British Street Food Awards", "domain": "britishstreetfood.co.uk", "tier": "A", "cadence": "annual",
+      "note": "National: record only traders the page places in London. The winners post is on the blog (2025/09/the-winners-are, 2026/09/who-won-what)." }
+  ],
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "ranked": true, "note": "London's best street food, ranked 1-12; most entries are shops and vans, not market stalls." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": false },
+    { "name": "The Good Food Guide", "domain": "thegoodfoodguide.co.uk", "ranked": false }
+  ],
+  "knownGaps": [
+    "No Reddit or forum thread (blocked in the cloud environment).",
+    "Netil Market, Whitecross Street and Leather Lane traders could not be checked against an operator page on 21 Nov 2026, so Jupiter Burger, Luardos and Dorothy's Deli are left off the page.",
+    "Thatsup's ranked street food list exists but thatsup.co.uk is on the excluded list.",
+    "Gyoza Guys, The Beefsteaks and La Pepiá are named by 2 sources but were not on Maltby Street's trader list on 21 Nov 2026.",
+    "Most YouTube Borough and Maltby films name no traders in the description or chapters."
+  ]
+}

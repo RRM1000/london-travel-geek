@@ -2589,6 +2589,19 @@
     "youtube.com/@BitesOfBelonging": {
       "tier": "D",
       "name": "Bites of Belonging (YouTube)"
+    },
+    "britishstreetfood.co.uk": {
+      "tier": "A",
+      "name": "British Street Food Awards",
+      "note": "Judged national awards run by Richard Johnson. Scope to London before counting."
+    },
+    "youtube.com/@ThroughMyLens": {
+      "tier": "D",
+      "name": "Through My Lens (YouTube)"
+    },
+    "youtube.com/@0nlyscrans": {
+      "tier": "D",
+      "name": "Only Scrans (YouTube)"
     }
   },
   "excludedWhy": {

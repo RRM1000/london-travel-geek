@@ -58541,7 +58541,8 @@
     "name": "Jupiter Burger",
     "topics": [
       "burgers",
-      "cheap-eats"
+      "cheap-eats",
+      "market-stalls"
     ],
     "sourceCount": 4,
     "tierSpread": "B2 C2",
@@ -58555,6 +58556,12 @@
         "hasAward": false
       },
       "cheap-eats": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "market-stalls": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -63047,10 +63054,11 @@
     "name": "Richard Haward’s Oysters",
     "topics": [
       "cheap-eats",
+      "market-stalls",
       "seafood"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C1 D1",
+    "sourceCount": 7,
+    "tierSpread": "B2 C3 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -63058,6 +63066,12 @@
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C2 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "seafood": {
@@ -63070,6 +63084,11 @@
     "sources": [
       {
         "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars"
+      },
+      {
+        "tier": "B",
         "source": "Luxury London",
         "url": "https://luxurylondon.co.uk/taste/food/best-oyster-bars-in-london/"
       },
@@ -63077,6 +63096,21 @@
         "tier": "C",
         "source": "BudgetTraveller",
         "url": "https://budgettraveller.org/best-cheap-eats-london-guide/"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens"
       },
       {
         "tier": "D",
@@ -72679,21 +72713,33 @@
   "monmouthcoffeecompany": {
     "name": "Monmouth Coffee Company",
     "topics": [
-      "coffee"
+      "coffee",
+      "market-stalls"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C3",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 8,
+    "tierSpread": "A1 B2 C4 D1",
+    "tierCount": 4,
+    "hasAward": true,
     "byTopic": {
       "coffee": {
         "sourceCount": 5,
         "tierSpread": "B2 C3",
         "tierCount": 2,
         "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 3,
+        "tierSpread": "A1 C1 D1",
+        "tierCount": 3,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market"
+      },
       {
         "tier": "B",
         "source": "Roadbook",
@@ -72719,6 +72765,16 @@
         "source": "youtube.com/@jameshoffmann",
         "url": "https://www.youtube.com/@jameshoffmann",
         "quote": "founded 1978"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens"
       }
     ]
   },
@@ -78290,21 +78346,33 @@
   "rake": {
     "name": "The Rake",
     "topics": [
-      "craft-beer-pubs"
+      "craft-beer-pubs",
+      "market-stalls"
     ],
-    "sourceCount": 3,
-    "tierSpread": "B1 C2",
-    "tierCount": 2,
-    "hasAward": false,
+    "sourceCount": 4,
+    "tierSpread": "A1 B1 C2",
+    "tierCount": 3,
+    "hasAward": true,
     "byTopic": {
       "craft-beer-pubs": {
         "sourceCount": 3,
         "tierSpread": "B1 C2",
         "tierCount": 2,
         "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market"
+      },
       {
         "tier": "B",
         "source": "ShortList",
@@ -87243,17 +87311,24 @@
   "breadahead": {
     "name": "Bread Ahead",
     "topics": [
-      "dessert"
+      "dessert",
+      "market-stalls"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 5,
+    "tierSpread": "B3 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "dessert": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
         "hasAward": false
       }
     },
@@ -87262,6 +87337,29 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/news/the-27-best-bakeries-in-london-according-to-a-luxury-travel-magazine-050825"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food",
+        "quote": "salted caramel and honeycomb doughnut"
+      },
+      {
+        "tier": "C",
+        "source": "The Tour Guy",
+        "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/",
+        "quote": "'crème brûlée donut might just ruin you'"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "crème brûlée doughnut £4.75"
       }
     ]
   },
@@ -87587,10 +87685,11 @@
     "topics": [
       "dessert",
       "hot-chocolate",
-      "ice-cream"
+      "ice-cream",
+      "market-stalls"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B2 C3 D2",
+    "sourceCount": 8,
+    "tierSpread": "B2 C4 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
@@ -87609,6 +87708,12 @@
       "ice-cream": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
       }
@@ -87640,6 +87745,11 @@
         "tier": "C",
         "source": "clumsygirltravels.com",
         "url": "https://clumsygirltravels.com/hot-chocolate-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
       },
       {
         "tier": "D",
@@ -120602,16 +120712,23 @@
   "gingerpig": {
     "name": "The Ginger Pig",
     "topics": [
-      "general"
+      "general",
+      "market-stalls"
     ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
+    "sourceCount": 3,
+    "tierSpread": "D3",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "general": {
         "sourceCount": 1,
         "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "D2",
         "tierCount": 1,
         "hasAward": false
       }
@@ -120621,17 +120738,29 @@
         "tier": "D",
         "source": "Strictly Dumpling (YouTube)",
         "url": "https://www.youtube.com/@strictlydumpling"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "sausage roll £7"
+      },
+      {
+        "tier": "D",
+        "source": "Through My Lens (YouTube)",
+        "url": "https://www.youtube.com/@ThroughMyLens"
       }
     ]
   },
   "blackpig": {
     "name": "The Black Pig",
     "topics": [
-      "general"
+      "general",
+      "market-stalls"
     ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B1 D3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
@@ -120639,13 +120768,36 @@
         "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 3,
+        "tierSpread": "B1 D2",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+        "quote": "'doorstop-sized ciabatta sandwiches from the perma-busy stall' - Salsa Verde sandwich"
+      },
+      {
         "tier": "D",
         "source": "Strictly Dumpling (YouTube)",
         "url": "https://www.youtube.com/@strictlydumpling"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "'The Best One' sandwich £13"
+      },
+      {
+        "tier": "D",
+        "source": "Through My Lens (YouTube)",
+        "url": "https://www.youtube.com/@ThroughMyLens"
       }
     ]
   },
@@ -120677,11 +120829,12 @@
   "yorkshireburrito": {
     "name": "Yorkshire Burrito",
     "topics": [
-      "general"
+      "general",
+      "market-stalls"
     ],
-    "sourceCount": 1,
-    "tierSpread": "D1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "C1 D2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "general": {
@@ -120689,13 +120842,30 @@
         "tierSpread": "D1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/",
+        "quote": "'It's a Yorkshire pudding. Rolled up like a burrito.'"
+      },
+      {
         "tier": "D",
         "source": "Strictly Dumpling (YouTube)",
         "url": "https://www.youtube.com/@strictlydumpling"
+      },
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@0nlyscrans"
       }
     ]
   },
@@ -181050,17 +181220,24 @@
   "gelateria3bis": {
     "name": "Gelateria 3bis",
     "topics": [
-      "ice-cream"
+      "ice-cream",
+      "market-stalls"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "ice-cream": {
         "sourceCount": 2,
         "tierSpread": "B2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -181074,6 +181251,17 @@
         "tier": "B",
         "source": "The Sauce",
         "url": "https://thesaucemag.com/londons-best-ice-cream-parlours/"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "gelato £6.50"
       }
     ]
   },
@@ -200930,6 +201118,2359 @@
       }
     ]
   },
+  "kappacasein": {
+    "name": "Kappacasein",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "A1 B2 C2 D1",
+    "tierCount": 4,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 6,
+        "tierSpread": "A1 B2 C2 D1",
+        "tierCount": 4,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market",
+        "quote": "'the cheese toastie from Kappacasein'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets",
+        "quote": "'excellent cheese toasties from Kappacasein' (Borough)"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food",
+        "quote": "#8 of 12 - 'seriously stonking toasties and raclette'"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants",
+        "quote": "raclette over potatoes and the toastie"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/",
+        "quote": "'that A1 toastie'"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "cheese toastie £8"
+      }
+    ]
+  },
+  "hornokplease": {
+    "name": "Horn OK Please",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market",
+        "quote": "'superlative dosas, and vibrant channa chat'"
+      },
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets",
+        "quote": "'Indian lentil-filled pancakes' (Borough)"
+      }
+    ]
+  },
+  "asador": {
+    "name": "Asador",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      },
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@0nlyscrans"
+      }
+    ]
+  },
+  "funkychips": {
+    "name": "Funky Chips",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      },
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@0nlyscrans"
+      }
+    ]
+  },
+  "meatheadmexican": {
+    "name": "Meathead Mexican",
+    "topics": [
+      "market-stalls",
+      "mexican"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "mexican": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets",
+        "quote": "'the excellent beef birria tacos' (Camden)"
+      },
+      {
+        "tier": "C",
+        "source": "ET Food Voyage",
+        "url": "https://www.etfoodvoyage.com/halal-tacos-in-london/"
+      }
+    ]
+  },
+  "luardos": {
+    "name": "Luardos",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "beiju": {
+    "name": "Beiju",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "fennoodles": {
+    "name": "Fen Noodles",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "dumplingshack": {
+    "name": "Dumpling Shack",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets",
+        "quote": "'Top spots like Fen Noodles and Dumpling Shack have stalls here' (Spitalfields)"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food",
+        "quote": "prawn wontons in chilli oil"
+      }
+    ]
+  },
+  "yumbun": {
+    "name": "Yum Bun",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "soodfamily": {
+    "name": "Sood Family",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "wheelcakeisland": {
+    "name": "Wheelcake Island",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "daddydonkey": {
+    "name": "Daddy Donkey",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "marrakechgrill": {
+    "name": "Marrakech Grill",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "beefsteaks": {
+    "name": "The Beefsteaks",
+    "topics": [
+      "market-stalls",
+      "steak"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/"
+      }
+    ]
+  },
+  "tapasroom": {
+    "name": "The Tapas Room",
+    "topics": [
+      "market-stalls",
+      "spanish"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "spanish": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      },
+      {
+        "tier": "B",
+        "source": "Foodism",
+        "url": "https://foodism.co.uk/guides/best-tapas-london/"
+      }
+    ]
+  },
+  "mammamia": {
+    "name": "Mamma Mia",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-street-food-london-markets"
+      }
+    ]
+  },
+  "furnessfishmarkets": {
+    "name": "Furness Fish Markets",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+        "quote": "Listed as Furness Oyster Bar"
+      }
+    ]
+  },
+  "jumakitchen": {
+    "name": "Juma Kitchen",
+    "topics": [
+      "market-stalls",
+      "middle-eastern"
+    ],
+    "sourceCount": 6,
+    "tierSpread": "B2 C3 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C3 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+        "quote": "kubba haleb and potato chap"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/",
+        "quote": "'the mixed grill's a straight-up great order'"
+      },
+      {
+        "tier": "C",
+        "source": "The Tour Guy",
+        "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "kubba, kebabs and dolma"
+      }
+    ]
+  },
+  "shuk": {
+    "name": "Shuk",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+        "quote": "chicken shawarma pita"
+      },
+      {
+        "tier": "C",
+        "source": "The Tour Guy",
+        "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/"
+      }
+    ]
+  },
+  "brindisachorizogrill": {
+    "name": "Brindisa Chorizo Grill",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars"
+      }
+    ]
+  },
+  "portena": {
+    "name": "Porteña",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+        "quote": "'Stopping by Porteña for a few empanadas is essential'"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/",
+        "quote": "Argentine empanadas; walk-ins only"
+      }
+    ]
+  },
+  "gourmetgoat": {
+    "name": "Gourmet Goat",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+        "quote": "'the kid goat kofta pitta with chilli salsa is our go-to order'"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants",
+        "quote": "'the slow roasted rose veal salad bowl'"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "kid goat kofta £10.49"
+      }
+    ]
+  },
+  "hobbsroast": {
+    "name": "Hobbs Roast",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars"
+      }
+    ]
+  },
+  "gujaratirasoi": {
+    "name": "Gujarati Rasoi",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars",
+        "quote": "papdi chaat and pau bhaji"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/street-food-markets-halls-london/"
+      }
+    ]
+  },
+  "mariasmarketcafe": {
+    "name": "Maria's Market Cafe",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Infatuation",
+        "url": "https://www.theinfatuation.com/london/guides/best-borough-market-restaurant-bars"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/"
+      }
+    ]
+  },
+  "dorothysdeli": {
+    "name": "Dorothy's Deli",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food",
+        "quote": "#5 of 12"
+      }
+    ]
+  },
+  "stakehaus": {
+    "name": "Stakehaus",
+    "topics": [
+      "market-stalls",
+      "steak"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "steak": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/restaurants/londons-best-street-food",
+        "quote": "#11 of 12 - Seven Dials Market, bavette steak"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
+      }
+    ]
+  },
+  "latuapasta": {
+    "name": "La Tua Pasta",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "tortelloni £11"
+      }
+    ]
+  },
+  "colombiancoffeecompany": {
+    "name": "The Colombian Coffee Company",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market",
+        "quote": "hot chocolate whisked with a molinillo"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      }
+    ]
+  },
+  "ciderhouse": {
+    "name": "The Cider House",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      }
+    ]
+  },
+  "bedalesofborough": {
+    "name": "Bedales of Borough",
+    "topics": [
+      "market-stalls",
+      "wine-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "wine-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
+      },
+      {
+        "tier": "C",
+        "source": "Visit London",
+        "url": "https://www.visitlondon.com/things-to-do/food-and-drink/borough-market-restaurants"
+      }
+    ]
+  },
+  "bardaskal": {
+    "name": "Bar Daskal",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 C1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "A1 C1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market"
+      },
+      {
+        "tier": "C",
+        "source": "Resy",
+        "url": "https://blog.resy.com/2023/08/the-best-places-to-eat-in-borough-market/"
+      }
+    ]
+  },
+  "brindisakitchenbar": {
+    "name": "Brindisa Kitchen Bar",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "The Good Food Guide",
+        "url": "https://www.thegoodfoodguide.co.uk/editorial/local-guide/where-to-eat-in-borough-market"
+      }
+    ]
+  },
+  "joli": {
+    "name": "Joli",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Tour Guy",
+        "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/"
+      }
+    ]
+  },
+  "meimei": {
+    "name": "Mei Mei",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Tour Guy",
+        "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/",
+        "quote": "ox cheek rendang"
+      },
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens",
+        "quote": "nasi lemak £15.50"
+      }
+    ]
+  },
+  "nealsyarddairy": {
+    "name": "Neal's Yard Dairy",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Tour Guy",
+        "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/"
+      }
+    ]
+  },
+  "northfieldfarm": {
+    "name": "Northfield Farm",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Tour Guy",
+        "url": "https://thetourguy.com/travel-blog/england/london/top-things-to-eat-see-at-borough-market-this-year/"
+      }
+    ]
+  },
+  "duckfrites": {
+    "name": "Duck Frites",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/",
+        "quote": "'The duck arancini ... make sure you try them'"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/maltby-street-market-london/"
+      }
+    ]
+  },
+  "lapepia": {
+    "name": "La Pepiá",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/"
+      }
+    ]
+  },
+  "gyozaguys": {
+    "name": "Gyoza Guys",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/street-food-markets-halls-london/"
+      }
+    ]
+  },
+  "degchi": {
+    "name": "Degchi",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/"
+      }
+    ]
+  },
+  "crepesalacarte": {
+    "name": "Crepes a la Carte",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/"
+      }
+    ]
+  },
+  "amenethiopian": {
+    "name": "Amen Ethiopian",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/",
+        "quote": "sauteed meat, vegetables and lentils"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/maltby-street-market-london/"
+      }
+    ]
+  },
+  "mooncheesetoasties": {
+    "name": "Mooncheese toasties",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/",
+        "quote": "ham and cheese toastie on a plancha"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/maltby-street-market-london/"
+      }
+    ]
+  },
+  "lacriollaempanadas": {
+    "name": "La Criolla Empanadas",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/",
+        "quote": "'the caramel empanada is our recommendation'"
+      }
+    ]
+  },
+  "banhminen": {
+    "name": "Banh Mi Nen",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/"
+      }
+    ]
+  },
+  "cheesetruck": {
+    "name": "The Cheese Truck",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/maltby-street-market/"
+      }
+    ]
+  },
+  "greekpot": {
+    "name": "The Greek Pot",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/maltby-street-market-london/"
+      }
+    ]
+  },
+  "mrdumpling": {
+    "name": "Mr Dumpling",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/maltby-street-market-london/"
+      }
+    ]
+  },
+  "zalagrill": {
+    "name": "Zala Grill",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
+      }
+    ]
+  },
+  "sonitaskitchen": {
+    "name": "Sonita's Kitchen",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
+      }
+    ]
+  },
+  "olibabas": {
+    "name": "Oli Baba's",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
+      }
+    ]
+  },
+  "magicfalafel": {
+    "name": "Magic Falafel",
+    "topics": [
+      "market-stalls",
+      "middle-eastern"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "middle-eastern": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Mob",
+        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
+      }
+    ]
+  },
+  "vburger": {
+    "name": "VBurger",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
+      }
+    ]
+  },
+  "makatcha": {
+    "name": "Makatcha",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/"
+      }
+    ]
+  },
+  "macfactory": {
+    "name": "The Mac Factory",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C1 D1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/best-street-food-camden-market/",
+        "quote": "six mac and cheese flavours"
+      },
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@0nlyscrans"
+      }
+    ]
+  },
+  "hermanostacos": {
+    "name": "Hermanos Tacos",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/street-food-markets-halls-london/"
+      }
+    ]
+  },
+  "thaionthefly": {
+    "name": "Thai On The Fly",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/street-food-markets-halls-london/"
+      }
+    ]
+  },
+  "zardosht": {
+    "name": "Zardosht",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/street-food-markets-halls-london/"
+      }
+    ]
+  },
+  "bangers": {
+    "name": "Bangers",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Secret London",
+        "url": "https://secretldn.com/street-food-markets-halls-london/"
+      }
+    ]
+  },
+  "humblecrumble": {
+    "name": "Humble Crumble",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 D2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 3,
+        "tierSpread": "B1 D2",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food",
+        "quote": "apple crumble and hot custard"
+      },
+      {
+        "tier": "D",
+        "source": "Through My Lens (YouTube)",
+        "url": "https://www.youtube.com/@ThroughMyLens"
+      },
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@0nlyscrans"
+      }
+    ]
+  },
+  "cheesewheel": {
+    "name": "The Cheese Wheel",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food",
+        "quote": "fettuccine alfredo"
+      }
+    ]
+  },
+  "piadinamia": {
+    "name": "Piadina Mia",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food"
+      }
+    ]
+  },
+  "ribman": {
+    "name": "The Rib Man",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food"
+      }
+    ]
+  },
+  "hashhut": {
+    "name": "Hash Hut",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food"
+      }
+    ]
+  },
+  "billorbeak": {
+    "name": "Bill or Beak",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/blog/london-street-food"
+      }
+    ]
+  },
+  "shrimpy": {
+    "name": "Shrimpy",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/broadway-market/"
+      }
+    ]
+  },
+  "biffsjackshack": {
+    "name": "Biff's Jack Shack",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/broadway-market/"
+      }
+    ]
+  },
+  "temakibros": {
+    "name": "Temaki Bros",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/broadway-market/"
+      }
+    ]
+  },
+  "banhmi11": {
+    "name": "Banh Mi 11",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/broadway-market/"
+      }
+    ]
+  },
+  "chubbydumpling": {
+    "name": "Chubby Dumpling",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-street-food-in-london"
+      }
+    ]
+  },
+  "brownofbrockley": {
+    "name": "Brown of Brockley",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-street-food-in-london"
+      }
+    ]
+  },
+  "brockleybee": {
+    "name": "Brockley Bee",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Olive Magazine",
+        "url": "https://www.olivemagazine.com/restaurants/london/best-street-food-in-london"
+      }
+    ]
+  },
+  "oshpaz": {
+    "name": "Oshpaz",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "British Street Food Awards",
+        "url": "https://britishstreetfood.co.uk/2025/09/the-winners-are/",
+        "quote": "People's Choice 1st and Best Vegetarian, British Street Food Awards 2025 (London)"
+      }
+    ]
+  },
+  "rovietnamese": {
+    "name": "Ro Vietnamese",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "British Street Food Awards",
+        "url": "https://britishstreetfood.co.uk/2025/09/the-winners-are/",
+        "quote": "Future Food Legend 2025 (London)"
+      }
+    ]
+  },
+  "joyandgladness": {
+    "name": "Joy & Gladness",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "British Street Food Awards",
+        "url": "https://britishstreetfood.co.uk/2026/09/who-won-what/",
+        "quote": "People's Choice winner and Spice Award, British Street Food Awards 2026 (London)"
+      }
+    ]
+  },
+  "suyaboiz": {
+    "name": "Suya Boiz",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "British Street Food Awards",
+        "url": "https://britishstreetfood.co.uk/2026/09/who-won-what/",
+        "quote": "People's Choice runner-up 2026 (London)"
+      }
+    ]
+  },
+  "bombapaella": {
+    "name": "Bomba Paella",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens"
+      }
+    ]
+  },
+  "turnips": {
+    "name": "Turnips",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Mark Wiens (YouTube)",
+        "url": "https://www.youtube.com/@MarkWiens"
+      }
+    ]
+  },
+  "jumicheese": {
+    "name": "Jumi Cheese",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Through My Lens (YouTube)",
+        "url": "https://www.youtube.com/@ThroughMyLens"
+      }
+    ]
+  },
+  "meatpoint": {
+    "name": "Meat Point",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@0nlyscrans"
+      }
+    ]
+  },
+  "khaao": {
+    "name": "Khaao",
+    "topics": [
+      "market-stalls"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "D1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "market-stalls": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "D",
+        "source": "Only Scrans (YouTube)",
+        "url": "https://www.youtube.com/@0nlyscrans"
+      }
+    ]
+  },
   "insiderssolution": {
     "name": "The Insider's Solution",
     "topics": [
@@ -202865,31 +205406,6 @@
       }
     ]
   },
-  "meatheadmexican": {
-    "name": "Meathead Mexican",
-    "topics": [
-      "mexican"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "mexican": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "ET Food Voyage",
-        "url": "https://www.etfoodvoyage.com/halal-tacos-in-london/"
-      }
-    ]
-  },
   "holaguacamole": {
     "name": "Hola Guacamole",
     "topics": [
@@ -203954,31 +206470,6 @@
       }
     ]
   },
-  "jumakitchen": {
-    "name": "Juma Kitchen",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/food-drink/best-restaurants-in-london-middle-eastern"
-      }
-    ]
-  },
   "nandine": {
     "name": "Nandine",
     "topics": [
@@ -204886,36 +207377,6 @@
   },
   "falafelzakizaki": {
     "name": "Falafel Zaki Zaki",
-    "topics": [
-      "middle-eastern"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "middle-eastern": {
-        "sourceCount": 2,
-        "tierSpread": "B1 C1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Mob",
-        "url": "https://www.mob.co.uk/life/the-best-falafel-in-london"
-      },
-      {
-        "tier": "C",
-        "source": "Secret London",
-        "url": "https://secretldn.com/falafel-in-london/"
-      }
-    ]
-  },
-  "magicfalafel": {
-    "name": "Magic Falafel",
     "topics": [
       "middle-eastern"
     ],
@@ -233953,31 +236414,6 @@
       }
     ]
   },
-  "tapasroom": {
-    "name": "The Tapas Room",
-    "topics": [
-      "spanish"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "spanish": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Foodism",
-        "url": "https://foodism.co.uk/guides/best-tapas-london/"
-      }
-    ]
-  },
   "posterbarbyjose": {
     "name": "Poster Bar by José",
     "topics": [
@@ -238313,31 +240749,6 @@
       }
     ]
   },
-  "stakehaus": {
-    "name": "Stakehaus",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/restaurants/londons-best-restaurants-for-steak"
-      }
-    ]
-  },
   "steak": {
     "name": "Steak",
     "topics": [
@@ -238871,31 +241282,6 @@
   },
   "goodmansteakhouse": {
     "name": "Goodman Steakhouse",
-    "topics": [
-      "steak"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "steak": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-steak-restaurants-london"
-      }
-    ]
-  },
-  "beefsteaks": {
-    "name": "The Beefsteaks",
     "topics": [
       "steak"
     ],
@@ -254364,31 +256750,6 @@
   },
   "bottlerye": {
     "name": "Bottle + Rye",
-    "topics": [
-      "wine-bars"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "wine-bars": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/guides/best-london-wine-bars/"
-      }
-    ]
-  },
-  "bedalesofborough": {
-    "name": "Bedales of Borough",
     "topics": [
       "wine-bars"
     ],

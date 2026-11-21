@@ -138,6 +138,8 @@ Markets and food halls suit groups: one roof, many kitchens.
 
 📍 **[The Best Street Food in London](/articles/best-street-food-london/)** compares the multi-trader markets, food halls and container yards on traders, variety, seating and **which days each is open**.
 
+📍 **[The Best Market Stalls in London](/articles/best-market-stalls-london/)** names the individual traders worth queuing for at Borough, Maltby Street, Camden, Spitalfields and Seven Dials, and **which days each stall trades**.
+
 📍 **[London's Best Markets](/articles/best-london-markets/)** is the wider guide, arranged by what each sells and **which day it runs**. Columbia Road is a Sunday. Broadway Market is a Saturday.
 
 It covers:
