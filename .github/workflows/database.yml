@@ -1,0 +1,115 @@
+# Keeps the Supabase database of London places, events, deals and reviews up to date.
+#
+#   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json, and new
+#                          videos, blog articles and TikTok posts into content_queue.
+#   Whenever an article changes on main: which places appear in which articles (articles, article_places).
+#   Whenever data/food-deals/deals.json changes on main: the deals table is replaced from it.
+#   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues), stations,
+#            Michelin awards, then the weekly recheck (possible closures, nearest stations, chains,
+#            the oldest-checked queue).
+# The What's On listings are copied in by the "Refresh listings" workflow straight after it runs.
+#
+# Needs one repository secret (Settings > Secrets and variables > Actions):
+#   SUPABASE_DB_URL   the session pooler connection string, password included (the line in work/.env without "DATABASE_URL=")
+#   APIFY_TOKEN       optional; without it the TikTok step skips
+#
+# Run it by hand from the Actions tab with "Run workflow" and pick a job.
+name: Refresh database
+
+on:
+  schedule:
+    - cron: "40 5 * * 1,4" # Mon and Thu 05:40 UTC, after the listings refresh
+    - cron: "10 3 * * 0"   # Sundays 03:10 UTC
+  push:
+    branches: [main]
+    paths: ["src/content/articles/**", "data/food-deals/deals.json"]
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Which part to run"
+        type: choice
+        options: [feeds, weekly, articles, all]
+        default: all
+
+permissions:
+  contents: read
+
+concurrency:
+  group: database
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
+      WEEKLY: ${{ github.event.schedule == '10 3 * * 0' || inputs.job == 'weekly' || inputs.job == 'all' }}
+      FEEDS: ${{ github.event.schedule == '40 5 * * 1,4' || inputs.job == 'feeds' || inputs.job == 'all' }}
+      ARTICLES: ${{ github.event_name == 'push' || github.event.schedule == '10 3 * * 0' || inputs.job == 'articles' || inputs.job == 'all' }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Check the secret
+        run: |
+          if [ -z "$DATABASE_URL" ]; then echo "::error::Add the SUPABASE_DB_URL repository secret first."; exit 1; fi
+          npm install --no-save pg
+
+      - name: Deals
+        if: github.event_name == 'push' || inputs.job == 'all'
+        run: node scripts/db/sync-deals.mjs
+
+      - name: Places in articles
+        if: env.ARTICLES == 'true'
+        run: node scripts/db/sync-articles.mjs
+
+      - name: Venue event feeds
+        if: env.FEEDS == 'true'
+        run: node scripts/db/read-feeds.mjs
+
+      - name: New creator videos, blog articles and TikTok posts
+        if: env.FEEDS == 'true'
+        continue-on-error: true
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          node scripts/db/watch-creators.mjs
+          node scripts/db/watch-feeds.mjs
+          node scripts/db/watch-tiktok.mjs
+
+      - name: Read the new articles and videos into reviews
+        if: env.FEEDS == 'true'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: node scripts/db/read-queue.mjs --max 1500
+
+      - name: Food hygiene register
+        if: env.WEEKLY == 'true'
+        run: node scripts/db/load-fsa.mjs
+
+      - name: OpenStreetMap
+        if: env.WEEKLY == 'true'
+        continue-on-error: true # Overpass is sometimes busy; next week's run catches up
+        run: node scripts/db/load-osm.mjs
+
+      - name: Stations and awards
+        if: env.WEEKLY == 'true'
+        continue-on-error: true # Overpass or the Michelin site can be busy; next week catches up
+        run: |
+          node scripts/db/load-stations.mjs
+          node scripts/db/load-awards.mjs
+
+      - name: Specialist lists
+        if: env.WEEKLY == 'true'
+        continue-on-error: true
+        run: node scripts/db/load-lists.mjs
+
+      - name: Weekly recheck
+        if: env.WEEKLY == 'true'
+        run: node scripts/db/recheck.mjs

@@ -30,7 +30,7 @@ London does two breakfasts: the **Australian brunch** the city imported around 2
 > 💡 **The Short Version:** **The Wolseley** is a grand café in a 1920s car showroom. **Dishoom's bacon naan roll** is the dish people queue for. **Granger & Co** is the place for ricotta hotcakes. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
 > 📊 **The evidence behind this guide.**
-> **14 sources carrying 209 citations** across **160 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
+> **14 sources carrying 209 citations** across **159 named rooms**. **35 rooms are named by two or more independent sources; 8 by three or more.**
 > **Built on:** the Good Food Guide; Time Out, The Infatuation and DesignMyNight; caff specialists; creator videos.
 > *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
 

@@ -160,7 +160,7 @@ Borough Market's website lists two official, licensed tours. **Celia Brooks** ru
 ## Doing it yourself
 
 - **Pick the day first.** The market is closed on Mondays and busiest on Saturday afternoons. Tuesday to Friday it runs 10am to 5pm.
-- **Eat in Borough Market Kitchen.** It is the street-food area and has the seating. Our [London markets guide](/articles/best-london-markets/#borough-market-southwark) says which stalls to queue for and which trade only on certain days.
+- **Eat in Borough Market Kitchen.** It is the street-food area and has the seating. Our [market stalls guide](/articles/best-market-stalls-london/#borough-market) says which stalls to queue for and which trade only on certain days.
 - **Share dishes.** Street food runs roughly £8 to £14 a dish, so two people who split what they buy get through more of the market.
 - **Get there by rail.** The market is next to London Bridge station on the Jubilee and Northern lines and National Rail. Buses 17, 21, 35, 47, 133, 343 and 381 stop within a five-minute walk. There is no parking, and the market sits inside the Congestion Charge zone.
 - **Toilets and access.** Public toilets, including accessible ones, are in Three Crown Square, Borough Market Kitchen and the Market Hall during trading hours. The Borough Market Store just inside the main entrance is wheelchair accessible. The public spaces are on one level, with cobbles in places and passages from 1.5 to 4 metres wide.
