@@ -184,11 +184,12 @@ The kitchen does **mole poblano**, cochinita pibil and chiles en nogada in seaso
 ### Ixchel, Chelsea
 
 *£££ · 7 min from Sloane Square* · Cited by 4 sources
-![Ixchel Chelsea - Mexican Restaurant in London](../../assets/articles/best-mexican-restaurants-london/ixchel.jpg)
-
-*Ixchel Chelsea - Mexican Restaurant.*
 
 **A Chelsea room that leans as hard on mezcal and the bar as on the kitchen**, named for the Maya goddess.
+
+![A table at Ixchel in front of a planter of lit cacti, with a rattan lampshade above](../../assets/articles/best-mexican-restaurants-london/ixchel.jpg)
+
+*Inside Ixchel, Chelsea.*
 
 Tacos, ceviche and grilled meats from the kitchen, and a long agave list at the bar. It is busiest late.
 

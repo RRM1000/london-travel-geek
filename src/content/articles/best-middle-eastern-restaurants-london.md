@@ -103,11 +103,12 @@ The signature is **bukjet mousakhan**, the sumac-and-onion chicken dish of the W
 ### Imad's Syrian Kitchen, Soho
 
 *£££ · Top Floor, Kingly Court · Michelin Bib Gourmand* · Cited by 4 sources
-![Imad’s Syrian Kitchen in London](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
-
-*Imad’s Syrian Kitchen.*
 
 **Imad Alarnab lost his Damascus business to the war**, cooked for the people around him in camps along his route, and ran his first London pop-up on Columbia Road in 2017 before moving to Kingly Court in 2023. The Damascene home cooking holds a **Michelin Bib Gourmand for 2026**.
+
+![Muhammara topped with pomegranate seeds and herbs, with a swirl of pomegranate molasses](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
+
+*Muhammara at Imad's Syrian Kitchen.*
 
 Start with mezze: **muhammara**, the walnut and red pepper paste, **fattoush** and freekeh. Then the slow-cooked dishes: lamb with yoghurt and stuffed vine leaves.
 

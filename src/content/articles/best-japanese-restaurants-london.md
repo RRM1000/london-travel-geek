@@ -93,11 +93,12 @@ Edomae sushi: nigiri only, aged and cured to the chef's timing, served piece by 
 ### Sushi Kanesaka, Mayfair
 
 *££££ · 45 Park Lane · thirteen covers · Two Michelin stars, 2026 guide* · Cited by 4 sources
-![Sushi Kanesaka in London](../../assets/articles/best-japanese-restaurants-london/sushi-kanesaka.jpg)
-
-*Sushi Kanesaka.*
 
 **Thirteen covers inside 45 Park Lane** — nine at the counter, four in a private room — doing **omakase only**, brought over from the Tokyo original, which opened here in July 2023.
+
+![The hinoki counter at Sushi Kanesaka, laid with red lacquer trays](../../assets/articles/best-japanese-restaurants-london/sushi-kanesaka.jpg)
+
+*The counter at Sushi Kanesaka.*
 
 **No à la carte.** The chef sets the sequence and the pace: nigiri on fish flown in and aged on site, rice seasoned to the Tokyo house style, served one piece at a time across the hinoki counter.
 
@@ -167,11 +168,12 @@ Kobe is served several ways across a set menu: seared on a hot stone at the tabl
 ### Dinings SW3, Chelsea
 
 *££££ · izakaya plates and a courtyard* · Cited by 5 sources
-![Dinings SW3 in London](../../assets/articles/best-japanese-restaurants-london/dinings-sw3.jpg)
-
-*Dinings SW3.*
 
 **The most-cited Japanese room in this guide, with five sources** — izakaya-scale plates with sushi-counter finish, and **a courtyard**.
+
+![The courtyard at Dinings SW3, tables under white parasols against a screen of bamboo](../../assets/articles/best-japanese-restaurants-london/dinings-sw3.jpg)
+
+*The courtyard at Dinings SW3.*
 
 The format is small plates rather than a set sequence: **tar tar chips** (spicy tuna on crisp discs), seared scallops, black cod, and nigiri from the same kitchen.
 
