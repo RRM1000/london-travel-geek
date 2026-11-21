@@ -53,6 +53,16 @@ const linked = await client.query(`
       order by p.recommended desc, p.id limit 1) pid
     from licence_applications a where a.place_id is null and a.postcode is not null)
   update licence_applications a set place_id = c.pid from c where a.id = c.id and c.pid is not null returning a.id`);
+// some registers (Westminster) give no premises name: the address starts with it instead
+await client.query(`
+  with c as (
+    select a.id, (select p.id from places p where p.duplicate_of is null
+        and upper(replace(p.postcode, ' ', '')) = upper(replace(a.postcode, ' ', ''))
+        and length(name_core(p.name)) >= 3 and name_core(a.address) like name_core(p.name) || '%'
+      order by p.recommended desc, length(p.name) desc limit 1) pid
+    from licence_applications a where a.place_id is null and a.premises_name is null and a.postcode is not null)
+  update licence_applications a set place_id = c.pid, premises_name = (select name from places where id = c.pid)
+  from c where a.id = c.id and c.pid is not null`);
 await client.query("commit");
 const sum = await client.query(`select council, count(*)::int applications, count(place_id)::int matched,
   max(received_on) latest from licence_applications group by 1 order by 1`);
