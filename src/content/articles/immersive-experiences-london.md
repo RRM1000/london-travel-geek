@@ -3,8 +3,8 @@ title: "The Best Immersive Experiences in London: What's Actually Still Open"
 seoTitle: "Best Immersive Experiences London 2026: Still Open"
 description: "Immersive shows close constantly. What is open, what opens next and what has shut, with prices and dates from the operators."
 publishedAt: 2026-07-02
-updatedAt: 2026-11-08
-reviewBy: 2026-11-13
+updatedAt: 2026-11-21
+reviewBy: 2026-12-31
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -29,11 +29,9 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0"
 ---
 
-> 💡 **The Short Version:** **Bridge Command** is the most interactive: you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest, and you cannot hide from it. **Frameless** is for people who hate being spoken to. **Outernet is free.** Opening next: Alice Immersive Wonderland and Wundrful World of Christmas (until 24 December), Phantom Peak (4 December) and Secret Cinema's Pirates of the Caribbean (16 February). Closed: Jeff Wayne's War of the Worlds, Vikings, the Gunpowder Plot and LUMINISCENCE.
+> 💡 **The Short Version:** **Bridge Command** is the most interactive: you crew a starship with a real job. **Mamma Mia! The Party** is the big night out. **Faulty Towers** is the funniest, and you cannot hide from it. **Frameless** is for people who hate being spoken to. **Outernet is free.** New this winter: Alice Immersive Wonderland (from 13 November) and Wundrful World of Christmas (until 24 December). Opening next: Phantom Peak at Stratford (12 February) and Secret Cinema's Pirates of the Caribbean (16 February). Closed: Jeff Wayne's War of the Worlds, Vikings, the Gunpowder Plot and LUMINISCENCE.
 
 *Prices and dates as of October 2026.*
-
-*Every experience status-checked against its own website on 1 September 2026.*
 
 ---
 
@@ -79,7 +77,7 @@ Prices are adult starting prices. Several use dynamic pricing, so treat them as 
 
 ---
 
-## Opening soon
+## New and opening soon
 
 ### Alice Immersive Wonderland, Dock X, Canada Water — 13 November 2026 to 21 March 2027
 
@@ -88,40 +86,30 @@ Prices are adult starting prices. Several use dynamic pricing, so treat them as 
 Ten themed spaces follow Alice from the rabbit hole to the Queen's court, with live performers at key moments and a 20-minute projection-mapped finale. Entry is in 15-minute slots. Pushchairs cannot go in and children who cannot walk must be carried. Strobe lighting is used. Under-4s need a £1.50 ticket, and under-16s need a ticket-holding adult. [Tickets](https://www.aliceimmersivewonderland.com).
 
 ### Wundrful World of Christmas, Immerse LDN at ExCeL — until 24 December 2026
-![Wake The Tiger London in London](../../assets/articles/immersive-experiences-london/absurd-city.jpg)
 
 *Adults £29.90 off-peak, £34.90 peak; children £24.90 and £29.90 · about 50 minutes, plus the Elves' Playground · ages 3 to 8 · Custom House*
-*Wake The Tiger London.*
 
 A timed walk-through to the North Pole: a lift ride, a snow-covered Enchanted Forest, the Elves' Workshop, Mrs Claus's kitchen and Santa's Grotto, where each group has its photo taken. Every child leaves with a small gift and a letter to post to Santa.
-*80,000 sq ft · White City · self-guided, non-linear*
 
 It runs on selected days only, and every child needs a ticket, babies included (under-12-months tickets are free). Arrive 15 minutes before your slot. The Elves' Playground afterwards has light installations, gentle fairground rides and food stalls, which cost extra; cards only. [Dates and tickets](https://wundr.seetickets.com/timeslot/wundrful-world-of-christmas).
-
-![Lightroom in London](../../assets/articles/immersive-experiences-london/larger-than-life-wallace-gromit.jpg)
-
-*Lightroom.*
-
-*Adults from £25, students and under-18s from £15, under-3s free in selected slots · 50 minutes · King's Cross*
-
-### Phantom Peak, Westfield Stratford City — 4 December 2026
-
-*Adults £39.90–£65.10, 18–25 £34.65–£59.85, under-18s £29.40–£53.55, plus 5% booking fee*
-![Phantom Peak London in London](../../assets/articles/immersive-experiences-london/phantom-peak.jpg)
-
-*Phantom Peak London.*
-
-*Adults £39.90–£65.10, under-18s £29.40–£53.55, plus 5% booking fee*
-
-An open-world game played in a town. You roam three districts (Old Town, the Town Square and Black Lake), pick up story threads from the characters and follow whichever you like. The Canada Water original closed on 28 February 2026 after 625 performances; this rebuild is bigger, on several levels and accessible.
-
-Two add-ons are bought with the ticket: a 30-minute Puzzle Hunt across the town (£7.88) and a VIP Tourist Experience (£20) that opens with a 30-minute pre-show where you arrive by train carriage. Prices rise as slots fill, so dates further ahead are cheaper. The themed bar is open seven days a week without a ticket.
 
 ### Lightroom: Matisse: Joy, King's Cross — 27 January to 8 May 2027
 
 *Adults from £25, students and under-18s from £15 · about 1 hour · all ages*
 
 Matisse's paintings and paper cut-outs projected across four 11-metre walls and the floor, with new artwork by Yinka Ilori. BSL and relaxed showings run in March and April. A £2 transaction fee applies per order. [Tickets](https://lightroom.uk/whats-on/matisse-joy/).
+
+### Phantom Peak, Westfield Stratford City — from 12 February 2027
+
+*Adults £39.90–£65.10, 18–25 £34.65–£59.85, under-18s £29.40–£53.55, plus 5% booking fee*
+
+An open-world game played in a town. You roam three districts (Old Town, the Town Square and Black Lake), pick up story threads from the characters and follow whichever you like. The Canada Water original closed on 28 February 2026 after 625 performances; this rebuild is bigger, on several levels and accessible.
+
+![A canal between painted wooden balconies strung with festoon lights at Phantom Peak](../../assets/articles/immersive-experiences-london/phantom-peak.jpg)
+
+*Phantom Peak's town, at its original Canada Water site.*
+
+Two add-ons are bought with the ticket: a 30-minute Puzzle Hunt across the town (£7.88) and a VIP Tourist Experience (£20) that opens with a 30-minute pre-show where you arrive by train carriage. Prices rise as slots fill, so dates further ahead are cheaper. The themed bar is open seven days a week without a ticket.
 
 ### Secret Cinema: Disney's Pirates of the Caribbean, Greenwich Peninsula — 16 February to 6 June 2027
 
@@ -140,7 +128,6 @@ A new Punchdrunk production marking 50 years of the National's South Bank buildi
 ### Arcade Arena, Lambeth
 
 *From £30 one game, £45 two, £50 all three · 26 Lambeth High Street, SE1 7SJ · Vauxhall or Lambeth North, not Waterloo*
-*From £30 one game, £45 two, £50 all three · 26 Lambeth High Street, SE1 7SJ · Vauxhall or Lambeth North, not Waterloo · not open yet, tickets on sale*
 
 **Chaos Karts:** real electric karts on a track with projected floor and walls, with weapons and a leaderboard. A session is six races.
 
@@ -157,13 +144,12 @@ Buy the £50 three-game ticket: £30 for one game is poor value.
 ### Bridge Command, Vauxhall
 
 *From £49 · 16+ · allow 2 hours · 63-64 Albert Embankment, two minutes from Vauxhall*
-![Bridge Command in London](../../assets/articles/immersive-experiences-london/bridge-command.jpg)
-
-*Bridge Command.*
-
-*From £49 · 16+ · allow 2 hours · two minutes from Vauxhall*
 
 You crew a full-scale starship bridge with a job of your own (Comms, Weapons, Helm or Science) at a console that works, alongside live actors playing your senior officers. There are no VR headsets. The mission responds to what you decide, so the ending is not fixed.
+
+![A crew member in a UCS Havock flight suit working a touchscreen console on the Bridge Command starship set](../../assets/articles/immersive-experiences-london/bridge-command.jpg)
+
+*At a console on the Bridge Command bridge.*
 
 Every station needs someone on it, so you cannot hide. Under-16s can book a private Cadet Mission from age 11. The venue and set are wheelchair-accessible throughout, and the bar is open before and after your slot.
 
@@ -172,7 +158,6 @@ Every station needs someone on it, so you cannot hide. Under-16s can book a priv
 ### The Traitors: Live Experience, Covent Garden
 
 *From £29.50 · mostly 18+ · allow 3 hours · booking to 11 April 2027*
-*From £29.50 · mostly 18+ · allow 3 hours*
 
 The Round Table format from the television series, with you as a player: Traitors, Faithfuls, murders and banishments. It is two hours of game plus onboarding and a bar either side. You are mixed in with strangers unless you book a private table.
 
@@ -185,7 +170,6 @@ Most sessions are 18+. Family Friendly slots are recommended for 14+ and open fr
 ### COME ALIVE! The Greatest Showman Circus Spectacular, Earls Court
 
 *From £58 · 5+ · show about 100 minutes · booking to August 2027 · West Brompton*
-*From £58 · 5+ · show runs 1hr 40 including interval · arrive an hour early · West Brompton*
 
 A circus spectacular inspired by the film, with the Pasek and Paul songs (*This Is Me*, *Rewrite the Stars*, *A Million Dreams*) performed live around aerial and acrobatic work in the round, in a Big Top inside the Empress Space.
 
@@ -198,23 +182,24 @@ Doors open an hour before the show for an interactive pre-show: close-up perform
 ### Faulty Towers The Dining Experience, Bloomsbury
 
 *From £65.50 Wednesday, up to £88.50 Saturday evening · about 2 hours · President Hotel, Russell Square · booking to December 2027*
-![Faulty Towers The Dining Experience in London](../../assets/articles/immersive-experiences-london/faulty-towers-the-dining-experience.jpg)
 
 Basil, Sybil and Manuel serve a three-course 1970s-style dinner, and most of it is improvised. You are a hotel guest, so being spoken to, argued with and roped in is the product. There is no back row. If a waiter making you part of the joke fills you with dread, book Frameless instead. [Book on Ticketmaster](https://theatre.ticketmaster.co.uk/book/1GLTR-faulty-towers-the-dining-experience-in-londons-west-end-2024/).
-*Faulty Towers The Dining Experience.*
 
-*From £65.50 · about 2 hours · Russell Square*
+![A slice of cheesecake with berry compote, cream and a strawberry on a white plate](../../assets/articles/immersive-experiences-london/faulty-towers-the-dining-experience.jpg)
+
+*Pudding at Faulty Towers The Dining Experience.*
 
 ### Alcotraz, Shoreditch and Moonshine Saloon, Aldgate
 
 *From £51 and £39.99 · both 18+ with ID · 1 hour 45*
-![Moonshine Saloon in London](../../assets/articles/immersive-experiences-london/alcotraz.jpg)
 
 In both, you smuggle your own spirits past someone paid to catch you, and the cast turn them into cocktails. **Alcotraz** (127 Hackney Road) puts you in an orange jumpsuit in Cell Block 212 under the Warden's eye. **Moonshine Saloon** (28-30 Houndsditch) is a Wild West saloon with a Sheriff to avoid. Non-drinkers get mocktails and smuggle nothing.
-*Moonshine Saloon.*
+
+![The Moonshine Saloon frontage on Houndsditch, with a wagon wheel and sacks in the windows](../../assets/articles/immersive-experiences-london/alcotraz.jpg)
+
+*Moonshine Saloon on Houndsditch.*
 
 Both let you pay extra to play a named character, first come first served (£11 at Alcotraz). Moonshine Saloon is fully accessible. At Alcotraz, book the 11:30, 13:45, 16:10, 18:35 or 21:00 sentence for guaranteed step-free entry.
-*From £51 and £39.99 · both 18+ · 1 hour 45*
 
 ### Avora, Shoreditch
 
@@ -225,50 +210,46 @@ From the producers of Alcotraz and Moonshine Saloon, set on a bioluminescent ali
 ### Peaky Blinders: Underworld, London Bridge
 
 *From £19.95 online; £29.95 on the door Wednesday and Thursday, £34.95 Friday to Sunday · about 90 minutes · 16+ · Arches London Bridge, 8 Bermondsey Street*
-![Peaky Blinders Underworld & Garrison Tavern in London](../../assets/articles/immersive-experiences-london/peaky-blinders-underworld.jpg)
-
-*Peaky Blinders Underworld & Garrison Tavern.*
-
-*From £19.95 online, £29.95 on the door · about 60 minutes · Arches London Bridge*
 
 You start in a recreation of the Garrison pub, which is free to enter. Then you go down into the Underworld proper: Garrison Lane, the Bookies, Chinatown and the Small Heath Fairground, each with its own actors and puzzles. It is free-roam, so you explore at your own pace, with actors in among the set.
+
+![A Cut n Stitch clothiers shopfront on a cobbled street set under brick arches hung with paper lanterns](../../assets/articles/immersive-experiences-london/peaky-blinders-underworld.jpg)
+
+*The street set at Peaky Blinders: Underworld.*
 
 Entry is a 30-minute window and late arrivals may be refused. It is closed on Mondays and Tuesdays. Book online: it is the cheapest way in.
 
 ### The Crystal Maze LIVE Experience, Piccadilly Circus
 
 *From £47 · 9+ · over 60 minutes on your feet*
-![The Crystal Maze Experience in London](../../assets/articles/immersive-experiences-london/the-crystal-maze-live-experience.jpg)
-
-*The Crystal Maze Experience.*
-
-*£26.50–£58 · strictly 9+ · about 75 minutes on your feet*
 
 Teams of up to eight work through the Aztec, Medieval, Industrial and Futuristic zones, then the Crystal Dome. In school holidays, family tickets start at £39.50 per adult, with one adult (18+) per team that includes children aged 9 to 16.
+
+![Players in bomber jackets grabbing at gold and silver tokens blowing around inside the Crystal Dome](../../assets/articles/immersive-experiences-london/the-crystal-maze-live-experience.jpg)
+
+*Inside the Crystal Dome.*
 
 Participation is not allowed at any stage of pregnancy. Full wheelchair access is not available because of the building; some adapted routes and games exist, so contact the venue before booking.
 
 ### Monopoly Lifesized, Fitzrovia
 
 *From £54 · 9+ recommended · closes January 2027 · 213-215 Tottenham Court Road*
-![Monopoly Lifesized in London](../../assets/articles/immersive-experiences-london/monopoly-lifesized.jpg)
-
-*Monopoly Lifesized.*
-
-*From £54 · 9+ · Goodge Street*
 
 You are the token. Four boards, 52 escape-room-style challenge rooms and a lot of running about, on your feet throughout. Latecomers are not admitted, so arrive 15 minutes early. Babes in arms and pushchairs are not permitted. Lifts reach all four boards and all four are wheelchair accessible, though some games cannot be played from a wheelchair.
+
+![A life-sized Monopoly board with giant dice and lit doors marked Oxford Street, Gas Company and Park Lane](../../assets/articles/immersive-experiences-london/monopoly-lifesized.jpg)
+
+*One of the four boards at Monopoly Lifesized.*
 
 ### Twist Museum, Oxford Circus
 
 *From £24.50 adult, £20 child, plus £2.50 booking fee per ticket · 60–90 minutes · all ages*
-![Twist Museum in London](../../assets/articles/immersive-experiences-london/twist-museum.jpg)
-
-*Twist Museum.*
-
-*From £24.50 adult, £20 child, plus £2.50 booking fee · 60–90 minutes · all ages*
 
 More than 80 hands-on exhibits about how perception fails: illusions, mirrors and distorted rooms. It is at 248 Oxford Street, next to Oxford Circus station, all on one level and wheelchair accessible. A family of four pays £10 in fees. Entry is by timed slot, so arrive 15 minutes early. Under-15s must be accompanied, and lockers are free.
+
+![Children posing in a pink and orange forced-perspective corridor at Twist Museum](../../assets/articles/immersive-experiences-london/twist-museum.jpg)
+
+*A forced-perspective corridor at Twist Museum.*
 
 ---
 
@@ -280,38 +261,37 @@ More than 80 hands-on exhibits about how perception fails: illusions, mirrors an
 
 ### Mamma Mia! The Party, North Greenwich
 
-*£120 off-peak to £246 · 5+ · about 4 hours · prices to 4 April 2027*
-![Mamma Mia! The Party in London](../../assets/articles/immersive-experiences-london/mamma-mia-the-party.jpg)
-
-*Mamma Mia! The Party.*
-
-*£120 off-peak to £246 · 5+ · about 4 hours · <a href="https://www.getyourguide.com/activity/-t1064445?partner_id=WWP7I0R&amp;cmp=immersive-experiences-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">booking to April 2027</a>*
+*£120 off-peak to £246 · 5+ · about 4 hours · prices to 4 April 2027 · <a href="https://www.getyourguide.com/activity/-t1064445?partner_id=WWP7I0R&amp;cmp=immersive-experiences-london" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">tickets on GetYourGuide</a>*
 
 A four-course Greek meal in a taverna on the island of Skopelos while the story plays out around, above and below you. Then the tables clear and it becomes an ABBA disco.
+
+![The taverna set of Mamma Mia! The Party, with checked tablecloths, a fountain and bougainvillea under festoon lights](../../assets/articles/immersive-experiences-london/mamma-mia-the-party.jpg)
+
+*The Skopelos taverna at Mamma Mia! The Party.*
 
 The cheap way in is Tier C, £154 peak or £120 off-peak, with restricted views behind pillars. Prices are dynamic and are not held while you decide. Nothing is demanded of you except dancing. Tables are pre-allocated and you may be seated with strangers. It is step-free with wheelchair spaces, and BSL-signed and captioned performances run. Haze, flames and flashing lights are used throughout.
 
 ### The Murdér Express, Bethnal Green
 
 *From £74.50 · 5+ at shows before 8pm · 2 hours · Pedley Street Station, Arch 63*
-![The Murdér Express Part Deux: Jewel Of The Empire in London](../../assets/articles/immersive-experiences-london/the-murdr-express.jpg)
-
-*The Murdér Express Part Deux: Jewel Of The Empire.*
-
-*From £74.50 · 5+ at early shows · 2 hours*
 
 A 1937 dining car that never leaves the station: three courses and a murder, in the current show *Jewel of the Empire*. The producers want you in character. Children from 5 are allowed only at shows before 8pm and pay the full adult price. There is no formal dress code, but 1930s dress is welcome. There are three steps up into the train, with a ramp for most wheelchairs; tell them in advance.
+
+![A braised beef main course with charred lettuce and a glossy sauce](../../assets/articles/immersive-experiences-london/the-murdr-express.jpg)
+
+*A main course on The Murdér Express.*
 
 ### Hexmoor, Shoreditch
 
 *£48–£88.50 · 1 hour 45 · 127 Hackney Road*
-![Hexmoor: Wizarding Prison in London](../../assets/articles/immersive-experiences-london/hexmoor.jpg)
 
 A fantasy prison for dark magic. You are issued a uniform and put in a cell with strangers, and working out which guards, inmates and allies to trust is the game. Three potions are built into the story, with clues between them. Tiers run £56.50, £65.50 and £88.50 including the booking fee; the top tier adds a fourth cocktail.
-*Hexmoor: Wizarding Prison.*
+
+![Guests in striped prison uniforms sitting in barred cells either side of a performer at Hexmoor](../../assets/articles/immersive-experiences-london/hexmoor.jpg)
+
+*The cells at Hexmoor.*
 
 ---
-*£48–£88.50 · 1 hour 45*
 
 ## Art, light and spectacle
 
@@ -321,18 +301,19 @@ A fantasy prison for dark magic. You are issued a uniform and put in a cell with
 
 A parallel city called Meridia, run by a digital mascot named REX. You wander five districts across two floors of surreal installations and hidden rooms, or follow the story of an underground resistance. It is self-guided and non-linear, so there is no start time to miss.
 
+![A giant banana-skin arch, a candy-striped tower and a ceiling of hanging kites inside Absurd City](../../assets/articles/immersive-experiences-london/absurd-city.jpg)
+
+*Inside Absurd City.*
+
 The Wunderground Bar & Kitchen is open without a ticket. Adult-only After Hours evenings need a separate ticket: arrive between 7pm and 9pm, with last drinks at 11pm. Booking early saves up to 40%. The venue is cashless. [Tickets](https://london.wakethetiger.com/tickets).
-![CHAT NOIR! in London](../../assets/articles/immersive-experiences-london/chat-noir.jpg)
 
 ![The Absurd City entrance inside Westfield London, a painted rainbow wall and a neon OPEN arrow above a corridor marked Department Store, Under New Management, beside a concrete facade with pipes and the Wake The Tiger sign](../../assets/articles/immersive-experiences-london/absurd-city-entrance.jpg)
 
 *The Absurd City entrance at Westfield London.*
 
 ### Euphoria, House of Dreamers and Timewalk, Immerse LDN at ExCeL
-*CHAT NOIR!.*
 
 *All ages · three minutes from Custom House station (Elizabeth line, DLR) · Immerse LDN ticket holders ride the Cable Car for £3 single*
-*From £99.85 · **ends September 2026***
 
 **[Euphoria: Art is in the Air](https://london.balloonmuseum.world/en/shop/tickets)** (Balloon Museum, 24 October 2026 to August 2027) has 13 giant artworks that react to you: an inflatable maze, a vortex, a room of hundreds of balloons. It spans two floors with lift access and takes 1 to 1.5 hours.
 
@@ -343,7 +324,6 @@ The Wunderground Bar & Kitchen is open without a ticket. Adult-only After Hours 
 ### Frameless, Marble Arch
 
 *Adults from £29.50, children £20, families £86 · all ages by day, 18+ at Lates · allow 90–120 minutes*
-*Permanent · all ages by day, 18+ at Lates*
 
 Four galleries and more than forty works by Van Gogh, Monet, Klimt, Dalí, Kandinsky and Canaletto, projected floor to ceiling with an original score. Booking online in advance is 20% cheaper than buying at the door.
 
@@ -357,24 +337,13 @@ Last entry is two hours before closing (Friday and Saturday close at 10pm, Sunda
 
 *Adults from £25, students and under-18s from £15, under-3s free in selected slots · 50 minutes · King's Cross*
 
-*From £27.50 · **ends 27 September 2026** · 50 minutes · Victoria*
-
 Aardman's 50th anniversary on four eleven-metre walls and the floor, from the kitchen table where Peter Lord and David Sproxton started to the train chase in *The Wrong Trousers*, with new animation made for the space. It runs on a loop with no fixed start, tickets are sold in half-hour slots, and you can stay for more than one loop if there is room.
 
 BSL showings are on 29 November, 4, 7, 12 and 22 December, and relaxed showings on 6, 8, 15 and 21 December and 2 January. A £2 transaction fee applies per order. Book on [Lightroom](https://lightroom.uk/whats-on/larger-than-life/) or [Ticketmaster](https://attractions.ticketmaster.co.uk/book/1JAP4-TICKETMASTER/).
 
-![A cathedral nave washed deep blue by projected stained-glass patterns across every arch and the ceiling, with an audience seated below](../../assets/articles/immersive-experiences-london/luminiscence-westminster.jpg)
-
-*LUMINISCENCE. Stained-glass patterns thrown across arches, pillars and ceiling, with the orchestra playing at the far end.*
-
 ### Lightroom: David Bowie — You're Not Alone, King's Cross
 
 *Adults from £25, students and under-18s from £15 · to 10 January 2027 · about 1 hour*
-![Lightroom in London](../../assets/articles/immersive-experiences-london/lightroom-david-bowie.jpg)
-
-*Lightroom.*
-
-*From £25, students and under-18s £15 · to 10 January 2027*
 
 360-degree projection built from performance footage, interviews and archive material not shown before. It is a single hour-long show, not a loop, and you sit or stand as you like. A £2 transaction fee applies per order. Book on [Lightroom](https://lightroom.uk/whats-on/david-bowie-youre-not-alone/) or [Ticketmaster](https://attractions.ticketmaster.co.uk/book/1HUYG-TICKETMASTER/).
 
@@ -393,7 +362,6 @@ A West End musical, not an immersive show, though the Piccadilly Theatre is dres
 ### ABBA Voyage, Pudding Mill Lane
 
 *From £40.50 seated, £57 dance floor · about 100 minutes*
-*From £40.50 seated, £57 dance floor · booking to May 2027 · about 100 minutes*
 
 Digital ABBA performers, made with motion capture, and a ten-piece live band in a purpose-built arena opposite the DLR station. The dance floor is general admission and the place to be. 16–25s can get £35 dance floor tickets, and half-price child tickets are on offer for a limited time. Wheelchair spaces, ambulant seating and transfer-friendly seats are available, and ear defenders are free but limited.
 
@@ -422,21 +390,22 @@ Three of these are on the same block at County Hall in Waterloo. Bubble Planet i
 ### Shrek's Adventure! and the Paddington Bear Experience, Waterloo
 
 *Shrek's Adventure from £21 · Paddington Bear Experience from £34*
-![Shrek's Adventure London in London](../../assets/articles/immersive-experiences-london/shreks-adventure-and-the-paddington-bear-experience.jpg)
-
-*Shrek's Adventure London.*
 
 **Shrek's Adventure** has live actors and a DreamWorks 4D flying-bus ride. **The Paddington Bear Experience** puts you on the train to 32 Windsor Gardens to help the Browns prepare for the Marmalade Day Festival, with themed rooms, puzzles and character meets for under-10s. Paddington takes only one wheelchair user per hour, on quarter-past slots, so book well ahead.
+
+![Shrek and Fiona on a screen in front of a Beware Ogre sign at Shrek's Adventure](../../assets/articles/immersive-experiences-london/shreks-adventure-and-the-paddington-bear-experience.jpg)
+
+*Shrek's Adventure.*
 
 ### Bubble Planet, Wembley
 
 *£19.90 · 60–90 minutes · all ages · Fulton Road, Wembley Park*
-![Bubble Planet London in London](../../assets/articles/immersive-experiences-london/bubble-planet.jpg)
-
-*Bubble Planet London.*
 
 More than ten themed rooms built around bubbles, with VR, illusions, projection and a hot air balloon flight simulator, sold through Fever. There is no story or performer: the rooms are made to be stood in and photographed.
-*£19.90 · 60–90 minutes · all ages*
+
+![A large ball pit under inflatable clouds and a giant baby head, lit pink and purple](../../assets/articles/immersive-experiences-london/bubble-planet.jpg)
+
+*The ball pit at Bubble Planet.*
 
 > 💡 **Bring socks.** They are mandatory for the Bubble Bath room, and bare feet and tights are refused.
 
@@ -447,11 +416,12 @@ Under-2s go free and need no ticket, and every visitor under 17 must be with an 
 ### The London Dungeon, Waterloo
 
 *From £27*
-![The London Dungeon in London](../../assets/articles/immersive-experiences-london/the-london-dungeon.jpg)
-
-*The London Dungeon.*
 
 Live actors who single people out, a drop ride, and London's grimmest history played for laughs, with Jack the Ripper and Sweeney Todd as set pieces. Expect to be picked on. Younger or shy children find it frightening rather than fun, unlike the two attractions beside it. There is an adults-only after-hours strand, and combined tickets with other County Hall attractions are cheaper per venue. Wheelchair timeslots and BSL tours are bookable.
+
+![The London Dungeon entrance at County Hall, between two carved hooded stone figures](../../assets/articles/immersive-experiences-london/the-london-dungeon.jpg)
+
+*The London Dungeon at County Hall.*
 
 ---
 
@@ -470,8 +440,6 @@ Live actors who single people out, a drop ride, and London's grimmest history pl
 * **Punchdrunk's The Burnt City:** closed September 2023. Ghostlight is the next London walkthrough.
 
 **Not running:** **You Me Bum Bum Train** has no ballot open and no announced return. The mailing list is the only route in; the gap before the previous run was eight years.
-* **Squid Game: The Experience** — **closed 4 January 2026.**
-* **The Gunpowder Plot Immersive Experience** — **closed 28 February 2025.**
 
 ---
 
@@ -491,4 +459,3 @@ Live actors who single people out, a drop ride, and London's grimmest history pl
 ---
 
 *This guide is independent and contains no paid placements.*
-*This guide is independent and contains no paid placements. Every experience was status-checked against its own website on 1 September 2026 — but this category changes faster than any other, so confirm before booking.*
