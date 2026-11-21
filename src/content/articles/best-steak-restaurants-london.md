@@ -196,7 +196,7 @@ A coal fire and an aged rib chop. **Txuleta comes from old dairy cows rather tha
 
 **The highest-placed steak restaurant in London** on the only ranking that covers the category — seventh in the world. It was opened by the meat supplier Txuleta.
 
-**Book:** [Reserve a table](https://www.ibai.london/)
+**Book:** [Reserve a table](https://www.sevenrooms.com/landing/ibailondon)
 
 #### Sagardi, Shoreditch
 
@@ -220,7 +220,7 @@ Ibai and Lurra book out weeks ahead; this one often does not. **Txuleton from ol
 
 Tomos Parry cooking over wood in a first-floor room above a Shoreditch pub. The **whole grilled turbot** is what it is known for, but the beef placed it 17th in the world.
 
-**Book:** [Reserve a table](http://bratrestaurant.com/)
+**Site:** [bratrestaurant.com](http://bratrestaurant.com/)
 
 #### Macellaio RC, South Kensington
 

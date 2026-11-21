@@ -154,7 +154,7 @@ Order the **mutton kothu roti**: godamba roti chopped on a hot plate with two me
 
 **£, and worth booking at the weekend.** Seven sources name it and one calls it the best Sri Lankan restaurant in south London.
 
-**Book:** [apollobananaleaf.uk](https://apollobananaleaf.uk/)
+**Site:** [apollobananaleaf.uk](https://apollobananaleaf.uk/)
 
 ### Karapincha, Canary Wharf and two markets
 
@@ -194,7 +194,7 @@ The **lamprais is served at weekends only, Saturday and Sunday, at both sites**.
 
 **££, two sites: 240 Upper Richmond Road in Putney and 25–27 Central Road in Worcester Park.** There is a third Colombo Kitchen: a street food stall in St James's Courtyard off Piccadilly.
 
-**Book:** [colombokitchen.co.uk](https://www.colombokitchen.co.uk/)
+**Site:** [colombokitchen.co.uk](https://www.colombokitchen.co.uk/)
 
 ### ADOH!, Covent Garden
 
@@ -226,7 +226,7 @@ The **mutton kothu roti** is the signature, and **you pick the heat**. The **str
 
 **£ and walk-in.** There is a full bar as well as a kitchen.
 
-**Book:** [kothurestaurant.co.uk](https://kothurestaurant.co.uk/)
+**Site:** [kothurestaurant.co.uk](https://kothurestaurant.co.uk/)
 
 ---
 
