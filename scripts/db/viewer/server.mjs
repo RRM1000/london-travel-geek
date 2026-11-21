@@ -1,5 +1,5 @@
 // A private viewer for the London Travel Geek database: a dashboard, place search, deals,
-// new places, closures, sources, articles, markets and the content queue.
+// rankings, new places, closures, sources, articles, markets and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
 // only (127.0.0.1) and writes nothing except content_queue.status when a queue button is pressed.
@@ -313,6 +313,42 @@ async function markets(p) {
   return { rows, total: rows.length, markets: list, kinds };
 }
 
+// Places ranked by how many independent sources name them (the place_rankings view). The ranks are
+// computed over all places, so filtering keeps each place's real overall, category and cuisine rank.
+async function rankings(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`(name ilike $? or area ilike $? or postcode ilike $?)`, `%${p.q}%`);
+  if (p.category) add(`category = $?`, p.category);
+  if (p.cuisine) add(`cuisine = $?`, p.cuisine);
+  if (p.live === "1") where.push("live_music");
+  if (p.recommended === "yes") where.push("recommended");
+  if (p.recommended === "no") where.push("not recommended");
+  if (p.topic) add(`exists (select 1 from unnest(topics) t where t ilike $?)`, `%${p.topic}%`);
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const page = Math.max(0, Number(p.page) || 0);
+  const rows = await q(`select * from public.place_rankings ${w}
+    order by score desc, sources desc, tier_a desc, name limit 100 offset ${page * 100}`, args);
+  const [{ n }] = await q(`select count(*)::int n from public.place_rankings ${w}`, args);
+  return { rows, total: n, page };
+}
+
+let rankOptsCache = null;
+async function rankingOptions(p) {
+  if (!rankOptsCache || Date.now() - rankOptsCache.at > 5 * 60 * 1000) {
+    const rows = await q(`select category, cuisine, count(*)::int n from public.place_rankings group by 1, 2 order by 1, 2`);
+    const topics = await q(`select t topic, count(*)::int n from public.place_rankings, unnest(topics) t group by 1 order by 1`);
+    rankOptsCache = { at: Date.now(), rows, topics };
+  }
+  const { rows, topics } = rankOptsCache;
+  const cats = {};
+  for (const r of rows) cats[r.category] = (cats[r.category] || 0) + r.n;
+  const categories = Object.entries(cats).map(([category, n]) => ({ category, n })).sort((a, b) => b.n - a.n);
+  const cuisines = rows.filter((r) => r.cuisine && (!p.category || r.category === p.category))
+    .reduce((m, r) => (m[r.cuisine] = (m[r.cuisine] || 0) + r.n, m), {});
+  return { categories, cuisines: Object.entries(cuisines).map(([cuisine, n]) => ({ cuisine, n })).sort((a, b) => b.n - a.n), topics };
+}
+
 async function setStatus(id, status) {
   if (!["new", "added", "rejected"].includes(status)) throw new Error("status must be new, added or rejected");
   const rows = await q(`update public.content_queue set status = $2 where id = $1 returning id, status`, [id, status]);
@@ -357,7 +393,8 @@ const server = http.createServer(async (req, res) => {
       try { return send(res, 200, await newPlaces(p)); }
       catch (e) { if (/does not exist/.test(e.message)) return send(res, 200, { rows: [], total: 0, page: 0, why: [], missing: true }); throw e; }
     }
-    const optional = { "/api/upcoming": upcoming, "/api/closed": closed, "/api/markets": markets };
+    const optional = { "/api/upcoming": upcoming, "/api/closed": closed, "/api/markets": markets,
+      "/api/rankings": rankings, "/api/ranking-options": rankingOptions };
     if (req.method === "GET" && optional[u.pathname]) {
       try { return send(res, 200, await optional[u.pathname](p)); }
       catch (e) { if (missing(e)) return send(res, 200, { rows: [], total: 0, missing: true }); throw e; }

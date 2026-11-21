@@ -58,6 +58,7 @@
   <nav>
     <button data-tab="dash" class="on">Dashboard</button>
     <button data-tab="places">Places</button>
+    <button data-tab="ranks">Rankings</button>
     <button data-tab="newp">New places</button>
     <button data-tab="closed">Possibly closed</button>
     <button data-tab="deals">Deals</button>
@@ -84,6 +85,18 @@
       <button class="btn" id="preset">Clear</button>
     </div>
     <div id="plist"></div>
+  </section>
+  <section id="ranks" hidden>
+    <div class="filters">
+      <input type="search" id="rq" placeholder="Name, area or postcode">
+      <select id="rcat"><option value="">Everything</option></select>
+      <select id="rcui"><option value="">Any cuisine</option></select>
+      <select id="rtopic"><option value="">Any topic</option></select>
+      <select id="rrec"><option value="">Recommended or not</option><option value="yes">Recommended</option><option value="no">Not recommended</option></select>
+      <label class="small"><input type="checkbox" id="rlive"> Live music</label>
+    </div>
+    <p class="small muted">Ranked by how many separate sources name each place. A judged list such as Michelin or Harden's counts 3, any other source counts 2, and awards add more. Branches count towards their brand.</p>
+    <div id="rlist"></div>
   </section>
   <section id="newp" hidden>
     <div class="filters">
@@ -182,6 +195,7 @@ function show(tab) {
   if (tab === "dash") loadDash();
   if (tab === "places") loadPlaces();
   if (tab === "newp") loadNew();
+  if (tab === "ranks") loadRanks();
   if (tab === "deals") loadDeals();
   if (tab === "closed") loadClosed();
   if (tab === "markets") loadMarkets();
@@ -189,7 +203,7 @@ function show(tab) {
   if (tab === "articles") loadArticles();
   if (tab === "queue") loadQueue();
 }
-const TABS = ["dash", "places", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
+const TABS = ["dash", "places", "ranks", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -319,6 +333,56 @@ async function openPlace(id) {
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
+
+// Rankings
+let rPage = 0, rOptsFor = null;
+["rcat", "rcui", "rtopic", "rrec", "rlive"].forEach((id) => $("#" + id).addEventListener("change", () => {
+  if (id === "rcat") $("#rcui").value = "";
+  rPage = 0; loadRanks();
+}));
+$("#rq").addEventListener("input", () => { rPage = 0; clearTimeout(timer); timer = setTimeout(loadRanks, 300); });
+async function rankOptions() {
+  const cat = $("#rcat").value;
+  if (rOptsFor === cat) return;
+  const o = await api("/api/ranking-options?" + new URLSearchParams({ category: cat }));
+  if (o.missing) return;
+  if (rOptsFor === null) {
+    $("#rcat").innerHTML = `<option value="">Everything</option>` + o.categories.map((c) => `<option value="${esc(c.category)}">${esc(c.category)} (${fmt(c.n)})</option>`).join("");
+    $("#rtopic").innerHTML = `<option value="">Any topic</option>` + o.topics.map((t) => `<option value="${esc(t.topic)}">${esc(nice(t.topic))} (${fmt(t.n)})</option>`).join("");
+    $("#rcat").value = cat;
+  }
+  const keep = $("#rcui").value;
+  $("#rcui").innerHTML = `<option value="">Any cuisine</option>` + o.cuisines.map((c) => `<option value="${esc(c.cuisine)}">${esc(c.cuisine)} (${fmt(c.n)})</option>`).join("");
+  $("#rcui").value = keep;
+  rOptsFor = cat;
+}
+async function loadRanks() {
+  const el = $("#rlist");
+  try {
+    await rankOptions();
+    const p = new URLSearchParams({ q:$("#rq").value.trim(), category:$("#rcat").value, cuisine:$("#rcui").value, topic:$("#rtopic").value,
+      recommended:$("#rrec").value, live:$("#rlive").checked ? "1" : "", page:rPage });
+    const r = await api("/api/rankings?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">The rankings haven't been set up in the database yet.</p>`; return; }
+    const by = p.get("cuisine") ? "cuisine_rank" : p.get("category") ? "category_rank" : "overall_rank";
+    const label = p.get("cuisine") ? `Rank in ${esc(p.get("cuisine"))}` : p.get("category") ? `Rank in ${esc(p.get("category"))}` : "Rank";
+    el.innerHTML = `<div class="pager"><span>${fmt(r.total)} places</span>${pager(r.total, 100, r.page)}</div>
+      <table><tr><th class="num">${label}</th><th>Place</th><th>Type</th><th>Area</th><th class="num">Score</th><th class="num">Sources</th><th>Named by</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td class="num big" style="font-size:18px">${fmt(Number(x[by] ?? x.overall_rank))}${by !== "overall_rank" ? `<div class="small muted" style="font-weight:400">${fmt(Number(x.overall_rank))} overall</div>` : ""}</td>
+        <td><a href="#" data-place="${x.place_id}">${esc(x.name)}</a>${x.recommended ? ' <span class="chip rec">recommended</span>' : ""}${x.live_music ? ' <span class="chip">live music</span>' : ""}
+          ${Number(x.branches) ? ` <span class="chip">${fmt(Number(x.branches))} branches</span>` : ""}${Number(x.in_articles) ? ` <span class="chip">in ${fmt(Number(x.in_articles))} articles</span>` : ""}
+          ${(x.awards || []).length ? `<div class="small">${x.awards.map((a) => `<span class="chip rec">${esc(a)}</span>`).join("")}</div>` : ""}</td>
+        <td class="small">${esc(x.category)}${x.cuisine ? `<div class="muted">${esc(x.cuisine)}</div>` : ""}</td>
+        <td class="small">${esc(x.area || x.borough || "")}${x.nearest_station ? `<div class="muted">${esc(x.nearest_station)}</div>` : ""}</td>
+        <td class="num">${fmt(Number(x.score))}</td>
+        <td class="num">${fmt(Number(x.sources))}${Number(x.tier_a) ? `<div class="small muted">${fmt(Number(x.tier_a))} judged</div>` : ""}</td>
+        <td class="small muted">${esc((x.source_names || []).slice(0, 6).join(", "))}${(x.source_names || []).length > 6 ? ` and ${fmt(x.source_names.length - 6)} more` : ""}</td></tr>`).join("") || `<tr><td colspan="7" class="muted">Nothing matches.</td></tr>`}
+      </table><div class="pager">${pager(r.total, 100, r.page)}</div>`;
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+    el.querySelectorAll("[data-page]").forEach((b) => b.onclick = () => { rPage = Number(b.dataset.page); loadRanks(); scrollTo(0, 0); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
 
 // New places
 let nPage = 0, nOpts = false;
