@@ -490,10 +490,6 @@ One Aldwych runs a licensed **Charlie and the Chocolate Factory** tea in its lob
 
 A **Jurassic afternoon tea**, built to match the Natural History Museum two streets away.
 
-![The Ampersand's Jurassic afternoon tea on a three-tier stand with dry ice smoking from a chocolate volcano, a stegosaurus cake, a fossil-print sphere and egg-shaped desserts, beside a small excavation kit](../../assets/articles/best-afternoon-tea-london/ampersand-jurassic-tea.jpg)
-
-*The Ampersand's Jurassic tea.*
-
 The stand arrives **wreathed in dry ice**. **T-rex footprint macarons**, dark chocolate and caramel dinosaur egg nests, biscuit fossils, alongside a conventional savoury course. Taken in the Drawing Rooms, a bright basement space rather than a grand salon.
 
 **£64.50 a head, £39.50 for children**, champagne £15 a glass, a short walk from the museum door.
