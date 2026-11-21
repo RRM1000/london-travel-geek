@@ -8,16 +8,9 @@
 // rather than a second row. Everything new is recommended = false.
 import fs from "node:fs";
 import path from "node:path";
-import { createRequire } from "node:module";
+import { connect } from "./lib.mjs";
 
-const require = createRequire(path.resolve("work", "noop.js"));
-const pg = require("pg");
 
-if (!process.env.DATABASE_URL && fs.existsSync(path.join("work", ".env"))) {
-  const m = fs.readFileSync(path.join("work", ".env"), "utf8").match(/^DATABASE_URL=(.+)$/m);
-  if (m) process.env.DATABASE_URL = m[1].trim().replace(/^["']|["']$/g, "");
-}
-if (!process.env.DATABASE_URL) throw new Error("Set DATABASE_URL, or put DATABASE_URL=... in work/.env");
 
 const API = "https://api.ratings.food.gov.uk";
 const headers = { "x-api-version": "2", accept: "application/json" };
@@ -73,8 +66,7 @@ if (fixture) {
 }
 console.log(`fetched ${establishments.length} establishments`);
 
-const client = new pg.Client({ connectionString: process.env.DATABASE_URL, ssl: process.env.PGSSL === "off" ? false : { rejectUnauthorized: false } });
-await client.connect();
+const client = await connect();
 
 // existing places without an fsa_id, matched on name + postcode
 const existing = await client.query("select id, name, postcode from places where fsa_id is null and postcode is not null");

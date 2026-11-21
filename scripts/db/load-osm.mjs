@@ -10,15 +10,8 @@
 //   OSM_FIXTURE=file.json node scripts/db/load-osm.mjs   # an Overpass JSON response, for testing
 import fs from "node:fs";
 import path from "node:path";
-import { createRequire } from "node:module";
+import { connect } from "./lib.mjs";
 
-const require = createRequire(path.resolve("work", "noop.js"));
-const pg = require("pg");
-if (!process.env.DATABASE_URL && fs.existsSync(path.join("work", ".env"))) {
-  const m = fs.readFileSync(path.join("work", ".env"), "utf8").match(/^DATABASE_URL=(.+)$/m);
-  if (m) process.env.DATABASE_URL = m[1].trim().replace(/^["']|["']$/g, "");
-}
-if (!process.env.DATABASE_URL) throw new Error("Set DATABASE_URL, or put DATABASE_URL=... in work/.env");
 
 const today = new Date().toISOString().slice(0, 10);
 const FOOD = new Set(["restaurant", "cafe", "takeaway", "pub", "bar", "nightclub", "hotel"]);
@@ -80,8 +73,7 @@ for (const e of elements) {
 }
 console.log(`${osm.length} named venues in our categories`);
 
-const client = new pg.Client({ connectionString: process.env.DATABASE_URL, ssl: process.env.PGSSL === "off" ? false : { rejectUnauthorized: false } });
-await client.connect();
+const client = await connect();
 
 const { rows: places } = await client.query(
   "select id, name, lat, lng, duplicate_of, osm_id from places where lat is not null and coalesce((attributes->>'noise')::boolean, false) = false");

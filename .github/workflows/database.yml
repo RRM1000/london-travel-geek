@@ -1,0 +1,70 @@
+# Keeps the Supabase database of London places, events, deals and reviews up to date.
+#
+#   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json.
+#   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues),
+#            then the weekly recheck (businesses that left the register, the oldest-checked queue).
+# The What's On listings are copied in by the "Refresh listings" workflow straight after it runs.
+#
+# Needs one repository secret (Settings > Secrets and variables > Actions):
+#   SUPABASE_DB_URL   the session pooler connection string, password included (the line in work/.env without "DATABASE_URL=")
+#
+# Run it by hand from the Actions tab with "Run workflow" and pick a job.
+name: Refresh database
+
+on:
+  schedule:
+    - cron: "40 5 * * 1,4" # Mon and Thu 05:40 UTC, after the listings refresh
+    - cron: "10 3 * * 0"   # Sundays 03:10 UTC
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "Which part to run"
+        type: choice
+        options: [feeds, weekly, all]
+        default: all
+
+permissions:
+  contents: read
+
+concurrency:
+  group: database
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
+      WEEKLY: ${{ github.event.schedule == '10 3 * * 0' || inputs.job == 'weekly' || inputs.job == 'all' }}
+      FEEDS: ${{ github.event.schedule == '40 5 * * 1,4' || inputs.job == 'feeds' || inputs.job == 'all' }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Check the secret
+        run: |
+          if [ -z "$DATABASE_URL" ]; then echo "::error::Add the SUPABASE_DB_URL repository secret first."; exit 1; fi
+          npm install --no-save pg
+
+      - name: Venue event feeds
+        if: env.FEEDS == 'true'
+        run: node scripts/db/read-feeds.mjs
+
+      - name: Food hygiene register
+        if: env.WEEKLY == 'true'
+        run: node scripts/db/load-fsa.mjs
+
+      - name: OpenStreetMap
+        if: env.WEEKLY == 'true'
+        continue-on-error: true # Overpass is sometimes busy; next week's run catches up
+        run: node scripts/db/load-osm.mjs
+
+      - name: Weekly recheck
+        if: env.WEEKLY == 'true'
+        run: node scripts/db/recheck.mjs

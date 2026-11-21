@@ -6,7 +6,7 @@
 //   node scripts/db/read-feeds.mjs --dry-run   # print what would be written
 import fs from "node:fs";
 import path from "node:path";
-import { createRequire } from "node:module";
+import { connect } from "./lib.mjs";
 
 const DRY = process.argv.includes("--dry-run");
 const today = new Date().toISOString().slice(0, 10);
@@ -106,15 +106,7 @@ if (DRY) {
 }
 
 async function write(events) {
-const require = createRequire(path.resolve("work", "noop.js"));
-const pg = require("pg");
-if (!process.env.DATABASE_URL && fs.existsSync(path.join("work", ".env"))) {
-  const m = fs.readFileSync(path.join("work", ".env"), "utf8").match(/^DATABASE_URL=(.+)$/m);
-  if (m) process.env.DATABASE_URL = m[1].trim().replace(/^["']|["']$/g, "");
-}
-if (!process.env.DATABASE_URL) throw new Error("Set DATABASE_URL, or put DATABASE_URL=... in work/.env");
-const client = new pg.Client({ connectionString: process.env.DATABASE_URL, ssl: process.env.PGSSL === "off" ? false : { rejectUnauthorized: false } });
-await client.connect();
+const client = await connect();
 let written = 0;
 for (const e of events) {
   await client.query(
