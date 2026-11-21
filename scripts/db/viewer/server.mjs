@@ -1,4 +1,4 @@
-// A private viewer for the London Travel Geek database: a dashboard, guide alerts, place search, deals,
+// A private viewer for the London Travel Geek database: a dashboard, guide alerts, place search, prices and booking, deals,
 // rankings, new places, closures, sources, articles, markets and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
@@ -75,7 +75,8 @@ async function summary() {
   const recent = await q(`select first_seen d, count(*)::int n from public.content_queue
     where first_seen >= current_date - 13 group by 1 order by 1`);
   const alerts = await q(`select kind, count(*)::int n from public.guide_alerts group by 1`).catch(() => null);
-  return { tables, placesBrowse, byCategory, byOrigin, queue, queueTags, recent, alerts, at: new Date().toISOString() };
+  const booking = await bookingCoverage("").catch(() => null);
+  return { tables, placesBrowse, byCategory, byOrigin, queue, queueTags, recent, alerts, booking, at: new Date().toISOString() };
 }
 
 async function options() {
@@ -98,6 +99,8 @@ async function places(p) {
   if (p.website === "yes") where.push(`coalesce(website, '') <> ''`);
   if (p.website === "no") where.push(`coalesce(website, '') = ''`);
   if (p.status) add(`status = $?`, p.status);
+  if (p.price === "none") where.push(`coalesce(price_band, '') = ''`);
+  else if (p.price) add(`price_band = $?`, p.price);
   if (p.chain === "brand") where.push(`(origin = 'brand' or attributes ? 'branches')`);
   if (p.chain === "branch") where.push(`parent_id is not null`);
   if (p.chain === "single") where.push(`parent_id is null and origin <> 'brand' and not attributes ? 'branches'`);
@@ -371,6 +374,45 @@ async function dismissAlert({ kind, article_slug, place_id }) {
   return { ok: true };
 }
 
+// Prices and booking (the booking_and_prices view): restaurants, pubs, bars and cafés with their price
+// and booking link, plus how many have each.
+function bookingWhere(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`name ilike $?`, `%${p.q}%`);
+  if (p.category) add(`category = $?`, p.category);
+  if (p.recommended === "yes") where.push("recommended");
+  if (p.recommended === "no") where.push("not recommended");
+  if (p.booking === "yes") where.push(`coalesce(booking_url, '') <> ''`);
+  if (p.booking === "no") where.push(`coalesce(booking_url, '') = ''`);
+  if (p.platform) add(`booking_platform = $?`, p.platform);
+  if (p.price === "none") where.push(`coalesce(price_band, '') = '' and coalesce(typical_spend, '') = ''`);
+  else if (p.price) add(`price_band = $?`, p.price);
+  return { w: where.length ? `where ${where.join(" and ")}` : "", args };
+}
+
+async function bookingCoverage(w, args = []) {
+  const [c] = await q(`select count(*)::int n, count(*) filter (where recommended)::int recommended,
+      count(*) filter (where coalesce(price_band, '') <> '' or coalesce(typical_spend, '') <> '')::int with_price,
+      count(*) filter (where coalesce(booking_url, '') <> '')::int with_booking,
+      count(*) filter (where recommended and coalesce(booking_url, '') <> '')::int rec_with_booking,
+      count(*) filter (where recommended and (coalesce(price_band, '') <> '' or coalesce(typical_spend, '') <> ''))::int rec_with_price
+    from public.booking_and_prices ${w}`, args);
+  return c;
+}
+
+async function booking(p) {
+  const { w, args } = bookingWhere(p);
+  const page = Math.max(0, Number(p.page) || 0);
+  const rows = await q(`select * from public.booking_and_prices ${w}
+    order by recommended desc, sources desc, name limit 100 offset ${page * 100}`, args);
+  const coverage = await bookingCoverage(w, args);
+  const platforms = await q(`select booking_platform platform, count(*)::int n from public.booking_and_prices
+    where coalesce(booking_platform, '') <> '' group by 1 order by 2 desc`);
+  const categories = await q(`select category, count(*)::int n from public.booking_and_prices group by 1 order by 2 desc`);
+  return { rows, total: coverage.n, page, coverage, platforms, categories };
+}
+
 async function setStatus(id, status) {
   if (!["new", "added", "rejected"].includes(status)) throw new Error("status must be new, added or rejected");
   const rows = await q(`update public.content_queue set status = $2 where id = $1 returning id, status`, [id, status]);
@@ -416,7 +458,8 @@ const server = http.createServer(async (req, res) => {
       catch (e) { if (/does not exist/.test(e.message)) return send(res, 200, { rows: [], total: 0, page: 0, why: [], missing: true }); throw e; }
     }
     const optional = { "/api/upcoming": upcoming, "/api/closed": closed, "/api/markets": markets,
-      "/api/rankings": rankings, "/api/ranking-options": rankingOptions, "/api/alerts": alerts };
+      "/api/rankings": rankings, "/api/ranking-options": rankingOptions, "/api/alerts": alerts,
+      "/api/booking": booking };
     if (req.method === "GET" && optional[u.pathname]) {
       try { return send(res, 200, await optional[u.pathname](p)); }
       catch (e) { if (missing(e)) return send(res, 200, { rows: [], total: 0, missing: true }); throw e; }

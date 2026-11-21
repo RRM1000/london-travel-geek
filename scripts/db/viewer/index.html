@@ -60,6 +60,7 @@
     <button data-tab="alerts">Guide alerts</button>
     <button data-tab="places">Places</button>
     <button data-tab="ranks">Rankings</button>
+    <button data-tab="book">Prices and booking</button>
     <button data-tab="newp">New places</button>
     <button data-tab="closed">Possibly closed</button>
     <button data-tab="deals">Deals</button>
@@ -90,6 +91,7 @@
       <select id="pchain"><option value="">Chains or not</option><option value="brand">Chain brands</option><option value="branch">Branches of a chain</option><option value="single">Not part of a chain</option></select>
       <select id="phyg"><option value="">Any hygiene rating</option><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option><option>0</option><option value="AwaitingInspection">Awaiting inspection</option><option>Exempt</option><option value="none">No rating</option></select>
       <select id="pweb"><option value="">Website or not</option><option value="yes">Has website</option><option value="no">No website</option></select>
+      <select id="pprice"><option value="">Any price</option><option>£</option><option>££</option><option>£££</option><option>££££</option><option value="none">No price</option></select>
       <select id="pstat"><option value="">Any status</option><option value="open">Open</option><option value="closed">Closed</option><option value="temporarily_closed">Temporarily closed</option><option value="unknown">Unknown</option></select>
       <button class="btn" id="preset">Clear</button>
     </div>
@@ -106,6 +108,18 @@
     </div>
     <p class="small muted">Ranked by how many separate sources name each place. A judged list such as Michelin or Harden's counts 3, any other source counts 2, and awards add more. Branches count towards their brand.</p>
     <div id="rlist"></div>
+  </section>
+  <section id="book" hidden>
+    <div class="filters">
+      <input type="search" id="bq" placeholder="Name">
+      <select id="bcat"><option value="">Any type</option></select>
+      <select id="brec"><option value="">Recommended or not</option><option value="yes">Recommended</option><option value="no">Not recommended</option></select>
+      <select id="bbook"><option value="">Booking link or not</option><option value="yes">Has a booking link</option><option value="no">No booking link</option></select>
+      <select id="bplat"><option value="">Any booking site</option></select>
+      <select id="bprice"><option value="">Any price</option><option>£</option><option>££</option><option>£££</option><option>££££</option><option value="none">No price</option></select>
+    </div>
+    <p class="small muted">Restaurants, takeaways, street food, cafés, pubs and bars that we recommend or a source has reviewed, with their price and where to book. Recommended places come first.</p>
+    <div id="blist"></div>
   </section>
   <section id="newp" hidden>
     <div class="filters">
@@ -206,6 +220,7 @@ function show(tab) {
   if (tab === "newp") loadNew();
   if (tab === "ranks") loadRanks();
   if (tab === "alerts") loadAlerts();
+  if (tab === "book") loadBooking();
   if (tab === "deals") loadDeals();
   if (tab === "closed") loadClosed();
   if (tab === "markets") loadMarkets();
@@ -213,7 +228,7 @@ function show(tab) {
   if (tab === "articles") loadArticles();
   if (tab === "queue") loadQueue();
 }
-const TABS = ["dash", "alerts", "places", "ranks", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
+const TABS = ["dash", "alerts", "places", "ranks", "book", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -232,6 +247,8 @@ async function loadDash() {
         <div class="card"><div class="muted small">Queue items waiting (London, not sponsored)</div><div class="big">${fmt(newQ?.shown)}</div></div>
         ${s.alerts ? `<div class="card" style="cursor:pointer" id="dalerts"><div class="muted small">Guide alerts to look at</div><div class="big">${fmt(s.alerts.reduce((t, a) => t + a.n, 0))}</div>
           <div class="small muted">${s.alerts.map((a) => `${esc(ALERT[a.kind] || a.kind)} ${fmt(a.n)}`).join(" · ")}</div></div>` : ""}
+        ${s.booking ? `<div class="card" style="cursor:pointer" id="dbook"><div class="muted small">Recommended places with a booking link</div><div class="big">${fmt(s.booking.rec_with_booking)} <span class="small muted" style="font-weight:400">of ${fmt(s.booking.recommended)}</span></div>
+          <div class="small muted">With a price: ${fmt(s.booking.rec_with_price)} of ${fmt(s.booking.recommended)}</div></div>` : ""}
       </div>
       <h2>Tables and how fresh they are</h2>
       <table><tr><th>Table</th><th class="num">Rows</th><th>Last checked, newest</th><th>Oldest</th><th class="num">Never checked</th><th class="num">Over 30 days old</th></tr>
@@ -257,6 +274,7 @@ async function loadDash() {
         </div>
       </div>`;
     if ($("#dalerts")) $("#dalerts").onclick = () => show("alerts");
+    if ($("#dbook")) $("#dbook").onclick = () => show("book");
     el.querySelectorAll("tr[data-cat]").forEach((tr) => tr.onclick = () => { resetPlaces(); $("#pcat").value = tr.dataset.cat; show("places"); });
     el.querySelectorAll("tr[data-orig]").forEach((tr) => tr.onclick = () => { resetPlaces(); $("#porig").value = tr.dataset.orig; show("places"); });
   } catch (e) { el.innerHTML = `<div class="err">Could not read the database: ${esc(e.message)}</div>`; }
@@ -264,7 +282,7 @@ async function loadDash() {
 
 // Places
 let pPage = 0, optsLoaded = false, timer;
-const pIds = ["pq", "pcat", "pbor", "prec", "porig", "pchain", "phyg", "pweb", "pstat"];
+const pIds = ["pq", "pcat", "pbor", "prec", "porig", "pchain", "phyg", "pweb", "pprice", "pstat"];
 pIds.forEach((id) => $("#" + id).addEventListener(id === "pq" ? "input" : "change", () => { pPage = 0; clearTimeout(timer); timer = setTimeout(loadPlaces, id === "pq" ? 300 : 0); }));
 $("#preset").onclick = () => { resetPlaces(); loadPlaces(); };
 function resetPlaces() { pIds.forEach((id) => $("#" + id).value = ""); pPage = 0; }
@@ -280,7 +298,7 @@ async function loadPlaces() {
     } catch {}
   }
   const p = new URLSearchParams({ q:$("#pq").value.trim(), category:$("#pcat").value, borough:$("#pbor").value, recommended:$("#prec").value,
-    origin:$("#porig").value, hygiene:$("#phyg").value, website:$("#pweb").value, status:$("#pstat").value, chain:$("#pchain").value, page:pPage });
+    origin:$("#porig").value, hygiene:$("#phyg").value, website:$("#pweb").value, status:$("#pstat").value, chain:$("#pchain").value, price:$("#pprice").value, page:pPage });
   const el = $("#plist");
   try {
     const r = await api("/api/places?" + p);
@@ -322,7 +340,10 @@ async function openPlace(id) {
         ${f("Nearest station", x.nearest_station ? esc(`${x.nearest_station}, ${fmt(x.station_metres)} m (about ${Math.max(1, Math.round(x.station_metres / 80))} min walk)`) : "")}
         ${f("Opening hours", esc(x.opening_hours))}
         ${f("Area", esc([x.area, x.borough].filter(Boolean).join(", ")))}
-        ${f("Website", link(x.website))}${f("Phone", esc(x.phone))}${f("Price", esc(x.price_band))}
+        ${f("Website", link(x.website))}${f("Phone", esc(x.phone))}
+        ${f("Price", esc([x.price_band, x.typical_spend].filter(Boolean).join(", ")))}
+        ${f("Book", safeUrl(x.booking_url) ? link(x.booking_url, bookLabel(x.booking_platform)) : "")}
+        ${f("Booking", esc(a["Booking Requirements"]))}
         ${f("Slug", esc(x.slug))}${f("Map", x.lat ? link(`https://www.google.com/maps/search/?api=1&query=${x.lat},${x.lng}`, "Google Maps") : "")}
         ${f("Hygiene rating", a.fsa ? esc(`${a.fsa.hygieneRating}${a.fsa.ratingDate ? ", inspected " + day(a.fsa.ratingDate) : ""}`) : "")}
         ${f("Came from", esc(x.origin))}${f("First seen", day(x.first_seen))}${f("Last checked", day(x.last_checked))}${f("Updated", day(x.updated_at))}
@@ -346,6 +367,47 @@ async function openPlace(id) {
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
+
+// Prices and booking
+const PLATFORMS = { opentable:"OpenTable", sevenrooms:"SevenRooms", resy:"Resy", tock:"Tock", resdiary:"ResDiary", designmynight:"DesignMyNight", thefork:"TheFork", quandoo:"Quandoo" };
+const platformName = (p) => !p ? "" : p === "own site" ? "the venue's site" : PLATFORMS[p] || p;
+const bookLabel = (p) => p ? "Book on " + platformName(p) : "Book";
+let bPage = 0, bOpts = false;
+["bcat", "brec", "bbook", "bplat", "bprice"].forEach((id) => $("#" + id).addEventListener("change", () => { bPage = 0; loadBooking(); }));
+$("#bq").addEventListener("input", () => { bPage = 0; clearTimeout(timer); timer = setTimeout(loadBooking, 300); });
+async function loadBooking() {
+  const el = $("#blist");
+  const p = new URLSearchParams({ q:$("#bq").value.trim(), category:$("#bcat").value, recommended:$("#brec").value, booking:$("#bbook").value,
+    platform:$("#bplat").value, price:$("#bprice").value, page:bPage });
+  try {
+    const r = await api("/api/booking?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">Prices and booking links haven't been set up in the database yet.</p>`; return; }
+    if (!bOpts) {
+      $("#bcat").innerHTML = `<option value="">Any type</option>` + r.categories.map((c) => `<option value="${esc(c.category)}">${esc(c.category)} (${fmt(c.n)})</option>`).join("");
+      $("#bplat").innerHTML = `<option value="">Any booking site</option>` + r.platforms.map((x) => `<option value="${esc(x.platform)}">${esc(platformName(x.platform))} (${fmt(x.n)})</option>`).join("");
+      $("#bcat").value = p.get("category"); $("#bplat").value = p.get("platform");
+      bOpts = true;
+    }
+    const c = r.coverage;
+    el.innerHTML = `<div class="grid">
+        <div class="card"><div class="muted small">Places listed</div><div class="big">${fmt(c.n)}</div></div>
+        <div class="card"><div class="muted small">With a price</div><div class="big">${fmt(c.with_price)}</div><div class="small muted">Recommended: ${fmt(c.rec_with_price)} of ${fmt(c.recommended)}</div></div>
+        <div class="card"><div class="muted small">With a booking link</div><div class="big">${fmt(c.with_booking)}</div><div class="small muted">Recommended: ${fmt(c.rec_with_booking)} of ${fmt(c.recommended)}</div></div>
+      </div>
+      <div class="pager"><span>${fmt(r.total)} places</span>${pager(r.total, 100, r.page)}</div>
+      <table><tr><th>Place</th><th>Type</th><th>Borough</th><th>Price</th><th>Book</th><th class="num">Sources</th><th>Booking notes</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td><a href="#" data-place="${x.id}">${esc(x.name)}</a>${x.recommended ? ' <span class="chip rec">recommended</span>' : ""}</td>
+        <td class="small">${esc(x.category)}</td><td class="small">${esc(x.borough || "")}</td>
+        <td>${esc(x.price_band || "")}${x.typical_spend ? `<div class="small muted">${esc(x.typical_spend)}</div>` : ""}</td>
+        <td class="small">${safeUrl(x.booking_url) ? link(x.booking_url, bookLabel(x.booking_platform)) : safeUrl(x.website) ? `<span class="muted">no link · </span>${link(x.website, "venue's site")}` : '<span class="muted">none</span>'}</td>
+        <td class="num">${fmt(Number(x.sources))}</td>
+        <td class="small muted">${esc(x.booking_requirements || "")}</td></tr>`).join("") || `<tr><td colspan="7" class="muted">Nothing matches.</td></tr>`}
+      </table><div class="pager">${pager(r.total, 100, r.page)}</div>`;
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+    el.querySelectorAll("[data-page]").forEach((b) => b.onclick = () => { bPage = Number(b.dataset.page); loadBooking(); scrollTo(0, 0); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
 
 // Guide alerts
 const ALERT = { closed:"May have closed", deal_ended:"Deal ended", missing:"Missing from the guide" };
