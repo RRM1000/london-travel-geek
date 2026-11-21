@@ -1,0 +1,14 @@
+{
+  "_note": "Event feeds read straight into the database by scripts/db/read-feeds.mjs, for venues the What's On listings pipeline does not cover. type 'wordpress' reads the site's public /wp-json/wp/v2/posts API; dates are read from the post text. skip drops evergreen posts by slug fragment.",
+  "feeds": [
+    {
+      "key": "skygarden",
+      "venue": "Sky Garden",
+      "placeSlug": "sky-garden",
+      "type": "wordpress",
+      "base": "https://skygarden.london",
+      "categories": [18],
+      "skip": ["gift-vouchers", "mailing-list", "proposals", "private-dining", "group-bookings", "chefs-table", "counter-dining"]
+    }
+  ]
+}
