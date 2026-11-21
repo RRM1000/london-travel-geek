@@ -34,6 +34,7 @@ heroImageAlt: "Wembley Stadium's glass front and arch seen from the foot of the 
 | Fri 18 and Sun 20 June, Thu 2 September | **Sam Fender**, Proper Massive Stadium Tour | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Sam-Fender): on general sale since 30 October 2026 |
 | Thu 24 June | **Bon Jovi** | BST Hyde Park | [BST Hyde Park](https://www.bst-hydepark.com/events/bon-jovi-thurs-24-june): on sale |
 | Sat 26 June | **Muse**, with Nothing But Thieves and CHVRCHES | BST Hyde Park | [BST Hyde Park](https://www.bst-hydepark.com/events/muse-sat-26-june): on sale |
+| Sat 3 July | **Billie Eilish** | BST Hyde Park | [BST Hyde Park](https://www.bst-hydepark.com/events/billie-eilish-sat-3-july): BST presale 10am, Tuesday 24 November 2026; general sale 10am, Thursday 26 November |
 | Sat 3 July | **Slipknot**, (sic)est Stadium Tour | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Slipknot): on general sale since 2 October 2026 |
 | Tue 6 July | **Karol G** | Tottenham Hotspur Stadium | [Tottenham Hotspur Stadium](https://www.tottenhamhotspurstadium.com/events/1021367/karol-g): on sale since 30 April 2026 |
 | Fri 9 July | **Fontaines D.C.**, with Little Simz | London Stadium | [London Stadium](https://www.london-stadium.com/news/2026/september/fontaines-d-c-summer-2027.html): on general sale since 10 September 2026 |
