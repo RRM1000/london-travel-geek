@@ -99,7 +99,10 @@ for (const p of [...places].sort((a, b) => rank(a) - rank(b))) {
   }
   const base = p.name.replace(/\s*\([^)]*\)\s*$/, "");
   if (!usable(p, base)) continue;
-  for (const k of new Set([key(p.name), key(base)])) if (k.length >= 3 && !byKey.has(k)) byKey.set(k, p.id);
+  // Two-character names (T4, K1) count only as an exact heading, bold name, link or table cell, and only when
+  // they hold a digit or are written in capitals, so ordinary words never match.
+  const short = (k) => k.length === 2 && (/\d/.test(k) || /^[A-Z0-9]{2}$/.test(base.trim()));
+  for (const k of new Set([key(p.name), key(base)])) if ((k.length >= 3 || short(k)) && !byKey.has(k)) byKey.set(k, p.id);
   // In running text a single word could be an ordinary word ("Caravan", "Canteen"), so a one-word
   // name is scanned only when the articles never use it in lower case.
   const marked = /\s/.test(base.trim()) || !lowerWords.has(base.toLowerCase());
@@ -151,17 +154,17 @@ for (const a of articles) {
 // --- write ---
 await client.query("begin");
 await client.query(
-  `insert into articles (slug, title, category, tags, draft, url, published_at, updated_at, last_checked, topic)
-   select slug, title, category, tags::text[], draft, url, published_at, updated_at, last_checked, topic
-   from unnest($1::text[], $2::text[], $3::text[], $4::text[], $5::bool[], $6::text[], $7::date[], $8::date[], $9::date[], $10::text[])
-     as t(slug, title, category, tags, draft, url, published_at, updated_at, last_checked, topic)
+  `insert into articles (slug, title, category, tags, draft, url, published_at, updated_at, last_checked, topic, body_text)
+   select slug, title, category, tags::text[], draft, url, published_at, updated_at, last_checked, topic, body_text
+   from unnest($1::text[], $2::text[], $3::text[], $4::text[], $5::bool[], $6::text[], $7::date[], $8::date[], $9::date[], $10::text[], $11::text[])
+     as t(slug, title, category, tags, draft, url, published_at, updated_at, last_checked, topic, body_text)
    on conflict (slug) do update set title = excluded.title, category = excluded.category, tags = excluded.tags,
      draft = excluded.draft, url = excluded.url, published_at = excluded.published_at, updated_at = excluded.updated_at,
-     last_checked = excluded.last_checked, topic = excluded.topic`,
+     last_checked = excluded.last_checked, topic = excluded.topic, body_text = excluded.body_text`,
   [articles.map((a) => a.slug), articles.map((a) => a.title), articles.map((a) => a.category),
    articles.map((a) => "{" + a.tags.map((t) => JSON.stringify(t)).join(",") + "}"), articles.map((a) => a.draft),
    articles.map((a) => SITE + a.slug + "/"), articles.map((a) => a.published_at), articles.map((a) => a.updated_at),
-   articles.map(() => today), articles.map((a) => a.topic)]);
+   articles.map(() => today), articles.map((a) => a.topic), articles.map((a) => prose(a).replace(/[’‘]/g, "'"))]);
 await client.query("delete from articles where not (slug = any($1::text[]))", [articles.map((a) => a.slug)]);
 await client.query("delete from article_places where article_slug = any($1::text[])", [articles.map((a) => a.slug)]);
 for (let i = 0; i < links.length; i += 5000) {
