@@ -28,7 +28,7 @@ const CATEGORY = {
 function overpassQuery() {
   const parts = [];
   for (const [k, vals] of Object.entries(CATEGORY)) parts.push(`nwr["${k}"~"^(${Object.keys(vals).join("|")})$"]["name"](area.a);`);
-  return `[out:json][timeout:600];area["ISO3166-2"="GB-LND"]->.a;(${parts.join("")});out center tags;`;
+  return `[out:json][timeout:600];area["boundary"="administrative"]["name"="Greater London"]["admin_level"="5"]->.a;(${parts.join("")});out center tags;`;
 }
 
 let elements;
@@ -40,7 +40,11 @@ if (process.env.OSM_FIXTURE) {
     body: "data=" + encodeURIComponent(overpassQuery()),
   });
   if (!res.ok) throw new Error(`Overpass ${res.status}: ${(await res.text()).slice(0, 300)}`);
-  elements = (await res.json()).elements;
+  const body = await res.json();
+  // Overpass reports a timeout or memory limit in "remark" and still answers 200 with partial data.
+  if (body.remark) throw new Error(`Overpass stopped early: ${body.remark}`);
+  elements = body.elements;
+  if (elements.length < 20000) throw new Error(`Only ${elements.length} elements for Greater London; expected tens of thousands, so the area filter is probably wrong`);
 }
 console.log(`fetched ${elements.length} OSM elements`);
 
