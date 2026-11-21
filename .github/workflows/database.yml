@@ -1,13 +1,14 @@
 # Keeps the Supabase database of London places, events, deals and reviews up to date.
 #
 #   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json, and new
-#                          videos from the YouTube creators into video_queue.
+#                          videos, blog articles and TikTok posts into content_queue.
 #   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues),
 #            then the weekly recheck (businesses that left the register, the oldest-checked queue).
 # The What's On listings are copied in by the "Refresh listings" workflow straight after it runs.
 #
 # Needs one repository secret (Settings > Secrets and variables > Actions):
 #   SUPABASE_DB_URL   the session pooler connection string, password included (the line in work/.env without "DATABASE_URL=")
+#   APIFY_TOKEN       optional; without it the TikTok step skips
 #
 # Run it by hand from the Actions tab with "Run workflow" and pick a job.
 name: Refresh database
@@ -57,10 +58,15 @@ jobs:
         if: env.FEEDS == 'true'
         run: node scripts/db/read-feeds.mjs
 
-      - name: New creator videos
+      - name: New creator videos, blog articles and TikTok posts
         if: env.FEEDS == 'true'
         continue-on-error: true
-        run: node scripts/db/watch-creators.mjs
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          node scripts/db/watch-creators.mjs
+          node scripts/db/watch-feeds.mjs
+          node scripts/db/watch-tiktok.mjs
 
       - name: Food hygiene register
         if: env.WEEKLY == 'true'

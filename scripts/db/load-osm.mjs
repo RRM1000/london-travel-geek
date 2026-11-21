@@ -1,7 +1,9 @@
 // Reads named venues across Greater London from OpenStreetMap (Overpass API) and:
 //  - fills website, phone and coordinates on places we already have, matched by location and name;
-//  - adds venue types the hygiene register does not cover (attractions, museums, galleries,
-//    music venues, cinemas, activities, gyms) as new places, recommended = false.
+//  - adds venue types the hygiene register does not cover (attractions, museums, galleries, music venues,
+//    cinemas, activities, gyms, sport, parks, pools, markets, shops, landmarks, public toilets) as new
+//    places, recommended = false;
+//  - relabels register "pubs" that OpenStreetMap tags as bars or nightclubs.
 // Food, drink and hotels are only matched, never added: the hygiene register already lists them,
 // and an unmatched OSM name is more likely a naming difference than a new business.
 // Theatres are left out (the theatre site covers them). Re-runnable: keyed on osm_id.
@@ -18,17 +20,48 @@ const FOOD = new Set(["restaurant", "cafe", "takeaway", "pub", "bar", "nightclub
 const CATEGORY = {
   amenity: { restaurant: "restaurant", cafe: "cafe", fast_food: "takeaway", pub: "pub", bar: "bar", biergarten: "pub",
     nightclub: "nightclub", ice_cream: "cafe", food_court: "restaurant", cinema: "cinema", arts_centre: "arts_centre",
-    music_venue: "music_venue", events_venue: "events_venue", karaoke_box: "activity", casino: "activity" },
+    music_venue: "music_venue", events_venue: "events_venue", karaoke_box: "activity", casino: "activity",
+    marketplace: "market", toilets: "toilet" },
   tourism: { hotel: "hotel", hostel: "hotel", guest_house: "hotel", apartment: "hotel", motel: "hotel", museum: "museum",
     gallery: "gallery", attraction: "attraction", viewpoint: "attraction", zoo: "attraction", aquarium: "attraction", theme_park: "attraction" },
   leisure: { bowling_alley: "activity", escape_game: "activity", amusement_arcade: "activity", miniature_golf: "activity",
-    trampoline_park: "activity", ice_rink: "activity", fitness_centre: "gym", sauna: "spa", water_park: "activity" },
+    trampoline_park: "activity", ice_rink: "activity", fitness_centre: "gym", sauna: "spa", water_park: "activity",
+    stadium: "stadium", golf_course: "sports_venue", racetrack: "sports_venue", park: "park", garden: "park",
+    swimming_pool: "pool", sports_centre: "sports_venue" },
+  shop: { bakery: "bakery", books: "shop", music: "shop", department_store: "shop", deli: "shop", cheese: "shop",
+    chocolate: "shop", confectionery: "shop", tea: "shop", coffee: "shop", second_hand: "shop", antiques: "shop" },
+  historic: { castle: "landmark", monument: "landmark", palace: "landmark" },
 };
+// Extra filters: toilets need no name; pools, gardens and sports centres must be open to the public;
+// places of worship and memorials count only when notable enough to carry a Wikidata id.
+const EXTRA = [
+  'nwr["amenity"="toilets"]["access"!~"private|customers"](area.a);',
+  'nwr["amenity"="place_of_worship"]["wikidata"]["name"](area.a);',
+  'nwr["historic"="memorial"]["wikidata"]["name"](area.a);',
+  'nwr["leisure"="pitch"]["sport"~"tennis|cricket"]["name"](area.a);',
+];
+const NEEDS_NAME = (k, v) => !(k === "amenity" && v === "toilets");
+const PRIVATE = /^(private|customers|members|no)$/;
 
 function overpassQuery() {
   const parts = [];
-  for (const [k, vals] of Object.entries(CATEGORY)) parts.push(`nwr["${k}"~"^(${Object.keys(vals).join("|")})$"]["name"](area.a);`);
-  return `[out:json][timeout:600];area["boundary"="administrative"]["name"="Greater London"]["admin_level"="5"]->.a;(${parts.join("")});out center tags;`;
+  for (const [k, vals] of Object.entries(CATEGORY)) {
+    const vs = Object.keys(vals).filter((v) => NEEDS_NAME(k, v));
+    parts.push(`nwr["${k}"~"^(${vs.join("|")})$"]["name"](area.a);`);
+  }
+  return `[out:json][timeout:900][maxsize:1073741824];area["boundary"="administrative"]["name"="Greater London"]["admin_level"="5"]->.a;(${[...parts, ...EXTRA].join("")});out center tags;`;
+}
+
+function categorise(t) {
+  if (t.amenity === "place_of_worship") return "landmark";
+  if (t.historic === "memorial") return "landmark";
+  if (t.leisure === "pitch") return "sports_venue";
+  for (const k of Object.keys(CATEGORY)) if (CATEGORY[k][t[k]]) {
+    const c = CATEGORY[k][t[k]];
+    if (["pool", "park", "sports_venue"].includes(c) && PRIVATE.test(t.access ?? "")) return null;
+    return c;
+  }
+  return null;
 }
 
 let elements;
@@ -62,16 +95,18 @@ const metres = (a, b) => 111000 * Math.hypot(a.lat - b.lat, (a.lng - b.lng) * 0.
 const osm = [];
 for (const e of elements) {
   const t = e.tags ?? {};
-  let category = null;
-  for (const k of Object.keys(CATEGORY)) if (CATEGORY[k][t[k]]) { category = CATEGORY[k][t[k]]; break; }
+  const category = categorise(t);
   const lat = e.lat ?? e.center?.lat, lng = e.lon ?? e.center?.lon;
-  if (!category || !t.name || lat == null) continue;
+  if (!category || lat == null) continue;
+  if (!t.name && category !== "toilet") continue;
+  const name = t.name ?? `Public toilet${t["addr:street"] ? `, ${t["addr:street"]}` : ""}`;
   osm.push({
-    osm_id: `${e.type}/${e.id}`, name: t.name, category, lat, lng, c: core(t.name),
+    osm_id: `${e.type}/${e.id}`, name, category, lat, lng, c: core(name),
     website: t.website ?? t["contact:website"] ?? null, phone: t.phone ?? t["contact:phone"] ?? null,
     postcode: t["addr:postcode"] ?? null,
     address: [t["addr:housenumber"], t["addr:street"]].filter(Boolean).join(" ") || null,
-    tags: { kind: Object.keys(CATEGORY).map((k) => t[k] && `${k}=${t[k]}`).find(Boolean), cuisine: t.cuisine,
+    tags: { kind: ["amenity", "tourism", "leisure", "shop", "historic"].map((k) => t[k] && `${k}=${t[k]}`).find(Boolean),
+      sport: t.sport, cuisine: t.cuisine, wikidata: t.wikidata, fee: t.fee, changing_table: t.changing_table,
       opening_hours: t.opening_hours, wheelchair: t.wheelchair, instagram: t["contact:instagram"], seenOn: today },
   });
 }
@@ -127,12 +162,14 @@ for (let i = 0; i < L.length; i += 2000) {
        osm_id = coalesce(p.osm_id, u.osm_id),
        website = coalesce(p.website, u.website), phone = coalesce(p.phone, u.phone),
        lat = coalesce(p.lat, u.lat), lng = coalesce(p.lng, u.lng), postcode = coalesce(p.postcode, u.postcode),
-       attributes = p.attributes || jsonb_build_object('osm', u.tags::jsonb)
-     from unnest($1::bigint[], $2::text[], $3::text[], $4::text[], $5::float8[], $6::float8[], $7::text[], $8::text[])
-       as u(id, osm_id, website, phone, lat, lng, postcode, tags)
+       attributes = p.attributes || jsonb_build_object('osm', u.tags::jsonb),
+       -- the register files bars and clubs under "Pub/bar/nightclub"; OpenStreetMap says which
+       category = case when p.origin = 'fsa' and p.category = 'pub' and u.category in ('bar', 'nightclub') then u.category else p.category end
+     from unnest($1::bigint[], $2::text[], $3::text[], $4::text[], $5::float8[], $6::float8[], $7::text[], $8::text[], $9::text[])
+       as u(id, osm_id, website, phone, lat, lng, postcode, tags, category)
      where p.id = u.id`,
     [chunk.map(([id]) => id), chunk.map(([, v]) => v.osm_id), chunk.map(([, v]) => v.website), chunk.map(([, v]) => v.phone),
-     chunk.map(([, v]) => v.lat), chunk.map(([, v]) => v.lng), chunk.map(([, v]) => v.postcode), chunk.map(([, v]) => JSON.stringify(v.tags))]);
+     chunk.map(([, v]) => v.lat), chunk.map(([, v]) => v.lng), chunk.map(([, v]) => v.postcode), chunk.map(([, v]) => JSON.stringify(v.tags)), chunk.map(([, v]) => v.category)]);
 }
 let inserted = 0;
 for (let i = 0; i < inserts.length; i += 2000) {
