@@ -212,7 +212,7 @@ What you give up is the choice of venue and the off-peak pricing that does most 
 - ✨ **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎭 **[The Best Cabaret in London](/articles/best-cabaret-london/)**
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**
-- 🥂 **[Bottomless Brunch in London](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute
+- 🥂 **[Bottomless Brunch in London](/articles/bottomless-brunch-london/)** — packages compared on price per minute
 - 🚇 **[Getting Around London: The Transport Guide](/articles/getting-around-london-transport-guide/)**
 
 ---

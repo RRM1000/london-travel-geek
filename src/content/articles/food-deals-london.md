@@ -58,6 +58,8 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 | [Turtle Bay](https://turtlebay.co.uk/) | 2-for-1 cocktails | Every day, all day | All branches |
 | [TGI Fridays](https://www.tgifridays.co.uk/) | 2-for-1 cocktails and mocktails | Every day, all day | All branches |
 | [Banana Tree](https://bananatree.co.uk/) | 2-for-1 cocktails and mocktails | Every day | All branches |
+| [Slug & Lettuce](https://www.slugandlettuce.co.uk/offers/2-for-1-cocktails) | 2-for-1 cocktails and mocktails | Every day | Order two of the same. All branches |
+| [Brasserie Blanc](https://brasserieblanc.com/happy-hour/) | 2-for-1 selected beer, cocktails and soft drinks, money off wine | Sunday to Friday 5pm to 7pm, Thursday to 8pm; not Sundays at Chancery Lane or Threadneedle Street | Two of the same drink. Chancery Lane, Southbank, Threadneedle Street |
 
 ---
 
@@ -111,6 +113,11 @@ Most of these need the card or account in your phone before you sit down. **UNiD
 | [Four Seasons](https://www.fs-restaurants.co.uk/promotion) | 12% off the whole bill | Every day, until 31 December 2027 | Valid, dated UK student ID; dine-in only; not on bank holidays; not with other promotions or set menus. All Four Seasons and Little Four Seasons restaurants except Chop Chop; Chinatown |
 | [Govinda's](https://govindas.london/) | Student discount on food and drinks | — | Student ID, NUS Extra, ISIC or UNiDAYS. Soho and Holborn |
 | [Old Spike](https://oldspikeroastery.com/) | Student discount | — | Elephant & Castle |
+| [The Real Greek](https://www.therealgreek.com/offers/) | 25% off the main menu | Sunday to Thursday | One student ID per four guests; dine-in; not the lunch or Filoxenia menus. All branches |
+| [Comptoir Libanais](https://www.comptoirlibanais.com/promotions/) | 25% off food | Until 30 March 2027 | Student ID for each person; one large plate each. All branches |
+| [Greggs](https://www.greggs.com/legals/promotions-and-offers) | A free sausage roll, vegan roll or bake with a Sandwich Deal | — | Student Beans ID or student card. All shops |
+| [Wildwood](https://wildwoodrestaurants.co.uk/offers/) | £10 starter or dessert and a main, 20% off the first drink (also over-60s) | Monday to Friday 12pm to 5pm | Student ID or proof of age; tables of up to six. Covent Garden |
+| [Be At One](https://www.beatone.co.uk/offers) | £6 cocktails, 50% off spirit and mixer | Every day | Student card and the MiXR app. All bars |
 
 ### Blue Light Card holders
 
@@ -122,6 +129,9 @@ Most of these need the card or account in your phone before you sit down. **UNiD
 | [Las Iguanas](https://www.iguanas.co.uk/offers) | 20% off food | Sunday to Friday | Blue Light Card. All branches |
 | [Hard Rock Cafe](https://cafe.hardrock.com/london/) | 15% off food and non-alcoholic drinks | — | Blue Light Card, valid for 2026. London |
 | [Purezza](https://purezza.co.uk/current-offers/) | 15% off a full-size pizza | Monday to Friday | Blue Light workers only, not the whole table. Camden Town |
+| [The Real Greek](https://www.therealgreek.com/offers/) | 25% off the main menu | Every day | NHS, police and fire brigade ID; dine-in; one card per table. All branches |
+| [Brasserie Blanc](https://brasserieblanc.com/blue-light-card/) | 20% off à la carte food | Monday to Friday | Blue Light Card; not steaks or set menus. All branches |
+| [Wildwood](https://wildwoodrestaurants.co.uk/offers/) | 20% off food | Sunday to Thursday | NHS, emergency services or armed forces ID; tables of up to six. Covent Garden |
 
 ### Other cards and memberships
 
@@ -146,6 +156,8 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Wandercrust](https://wandercrust.com/menu) | 2 pizzas for £20, 4pm to 9.30pm | Dine in only. All branches, Greenwich |
 | [Prezzo](https://www.prezzo.co.uk/about/offers/) | Meat Free Monday: 50% off the vegetarian and vegan menu | All branches |
 | [Tavern, The Fox](https://www.urbanpubsandbars.com/whats-on) | £7 margaritas from 5pm | The Fox |
+| [Brasserie Blanc](https://brasserieblanc.com/brasseries/chancery-lane/) | Moules Mondays: moules marinière, frites and a glass of wine for £23.50 | Chancery Lane, Southbank, Threadneedle Street |
+| [MEATliquor](https://meatliquor.com/deals/) | 50p wings or Impossible nuggets, all day | Minimum five pieces per coating. All branches |
 
 ### Tuesday
 
@@ -156,6 +168,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Tannic Tuesdays: 10% off any fine wine, and order two large glasses to get the rest of the bottle free | From 5pm. Wapping |
 | [Las Iguanas](https://www.iguanas.co.uk/) | Bottomless Tapas | All branches; see [bottomless brunch](/articles/bottomless-brunch-london/) for how bottomless deals work |
 | [The Mayfair Chippy](https://www.mayfairchippy.com/supporting-black-cabs) | Free takeaway fish and chips for black cab drivers | Valid badge or licence; takeaway only; first 50 cabbies each week; Tuesday 17 and 24 November 2026 only. Mayfair |
+| [temper](https://temperrestaurant.com/taco-tuesday) | Taco Tuesday: £9.50 tacos and £9.50 margaritas from 5pm | Walk in or book. Soho and City |
 
 ### Wednesday
 
@@ -166,6 +179,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Pie & Pint: a free pint, soft drink or medium house wine with any pie | All day. Wapping |
 | [Ixchel](https://www.ixchellondon.com/whats-on) | Ritual de Carne: a 400g cut of grass-fed meat for £45 | 5.30pm to 10pm. King's Road, Chelsea |
 | [The Cheese Barge](https://www.thecheesebar.com/news/bottomless-plates) | Bottomless Plates at Pick & Cheese: unlimited cheese, charcuterie and pickles for 75 minutes, £29.50 a head | All day; excludes yellow dessert plates and off-belt dishes |
+| [Brasserie Blanc](https://brasserieblanc.com/brasseries/southbank/) | Steak Night: a free bottle of wine to share with two steaks | Southbank |
 
 ### Thursday
 
@@ -183,12 +197,14 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Homies on Donkeys](https://www.homiesondonkeys.com/lunch-promotion) | 20% off lunch tacos | Food only; claim by emailing the restaurant. Leytonstone |
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Fry-day: a free pint, medium house wine or soft drink with beer-battered cod and chips | Wapping |
 | [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Friday 27 November 2026 (also Saturday 28 November); one dessert per table from the regular dessert menu. Tottenham |
+| [Brasserie Blanc](https://brasserieblanc.com/brasseries/chancery-lane/) | Steak Night: a free bottle of wine to share with two steaks | Chancery Lane, Threadneedle Street |
 
 ### Saturday
 
 | Restaurant | Deal | Condition and where |
 | --- | --- | --- |
 | [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Saturday 28 November 2026 only; one dessert per table. Tottenham |
+| [Be At One](https://www.beatone.co.uk/offers/spicy-saturdays) | Spicy Saturdays: £7 margaritas until 6pm | All bars |
 
 ### Sunday
 

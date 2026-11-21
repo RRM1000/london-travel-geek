@@ -1,9 +1,9 @@
 ---
 title: "London Restaurant Deals: Set Lunch and Pre-Theatre Menus"
 seoTitle: "London Restaurant Deals 2026: Set Lunch & Pre-Theatre"
-description: "Fixed-price menus across London — set lunch, pre-theatre and early evening — from £12.50 to Michelin-starred, with prices, the days and times they run, and what the same food costs at dinner."
+description: "Fixed-price menus across London — set lunch, pre-theatre and early evening — from £9.95 to Michelin-starred, with prices, the days and times they run, and what the same food costs at dinner."
 publishedAt: 2026-07-20
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2026-11-30
 sites:
   - london
@@ -35,7 +35,7 @@ heroImageAlt: "An overhead view of a shared mezze spread on a patterned tiled ta
 
 Fixed-price lunch and early-evening menus serve the same kitchen's food for less than the same dishes cost at dinner. Where a price is a saving, the table says what dinner costs instead.
 
-> 💡 **The Short Version:** **Chez Bruce** is the biggest saving here: £40.50 against £98.50 at dinner. **Franco Manca** at £12.50, **Dishoom** at £16 and **Brasserie Zédel** at £16.95 are the cheapest. **Hawksmoor** does a main and a side for £21. **Bocca di Lupo** at £18 works for lunch and pre-theatre alike. And most of these run **Monday to Friday only**.
+> 💡 **The Short Version:** **Chez Bruce** is the biggest saving here: £40.50 against £98.50 at dinner. **Frankie & Benny's** from £9.95, **Tonkotsu** at £10.50 and **Franco Manca** at £12.50 are the cheapest. **Hawksmoor** does a main and a side for £21, and **Manzi's** in Soho does two courses for £16. **Bocca di Lupo** at £18 works for lunch and pre-theatre alike. And most of these run **Monday to Friday only**.
 
 > ⚠️ **Prices change and menus rotate.** Confirm on the restaurant's own site before you travel.
 
@@ -114,14 +114,101 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 | **Hawksmoor** | £21 / 1, £26 / 2, £30 / 3 courses. Max seven | Lunch Mon–Sat 12–3pm. Early evening: 2 courses £26, 3 courses £30 |
 | **Côte Brasserie** | £22.50–£23.50 / 2, £26.50–£27.50 / 3 — varies by branch | Mon–Fri from 11.30am |
 | **Hoppers** | £22pp "Lunch Plate", whole table | Mon–Fri 12–3pm |
+| **[Tonkotsu](https://tonkotsu.co.uk/menu/set-lunch/)** | £10.50 lunch-sized ramen or noodle salad and a side | Mon–Fri until 5pm, not bank holidays |
+| **[Prezzo](https://www.prezzo.co.uk/about/offers/)** | £11.95 any pizza or pasta with a drink | Mon–Fri 12–3pm |
+| **[Ping Pong](https://www.pingpongdimsum.com/offers-events/)** | £11.95 bento lunch set | Lunch |
+| **[Banana Tree](https://bananatree.co.uk/)** | Express lunch with a soft drink, from £10.95 | Sun–Fri 12–4pm |
+| **[Frankie & Benny's](https://www.frankieandbennys.com/offers)** | Set lunch from £9.95 | Mon–Fri 11am–3pm |
+| **[The Real Greek](https://www.therealgreek.com/offers/)** | £13.95 souvlaki grill plate or wrap lunch; £24pp Filoxenia meze menu all day | Lunch Mon–Fri 12–5pm, not bank holidays |
+| **[Zizzi](https://www.zizzi.co.uk/offers)** | Lunch from £15.95 for two courses; three-course set menu £28.95 | Lunch Mon–Fri until 5pm; set menu daily |
+| **[Mowgli](https://mowglistreetfood.com/menus/)** | £15pp Lunch Street Feast, any three dishes | Lunch |
+| **[Noci](https://nocirestaurant.co.uk/menu/)** | £17 for two courses of pasta | Mon–Fri 12–5.30pm. Islington, Battersea, Shoreditch, Richmond |
+| **[Big Mamma](https://www.bigmammagroup.com/italian-restaurants/gloria-london)** | Pranzetto lunch from £17 at Gloria, Ave Mario, Jacuzzi and Barbarella; £27 at Carlotta | Mon–Fri lunch |
+| **[Café Rouge](https://www.caferouge.com/set-menu)** | Two courses from £17.95 (third £3.50 more); £14.49 evening prix fixe from 7.30pm | Varies by branch |
+| **[Shoryu Ramen](https://www.shoryuramen.com/deals)** | £21 / 2, £27 / 3 Hakata set | Daily, dine-in |
+| **[Megan's](https://megans.co.uk/offers/)** | £18 / 2 courses | Mon–Fri 5–7pm |
+| **[Burger & Lobster](https://www.burgerandlobster.com/locations/london/leicester-square/menu/)** | £20 / 2, £25 / 3 at Leicester Square (daily 12–6pm); £25 / 2, £30 / 3 at Bond Street | Bond Street Mon–Fri 12–4pm |
+| **[Kricket](https://kricketrestaurants.com/)** | £20 lunch thali | Lunch |
 
 **Hawksmoor's** £21 buys a main and a side, and the lunch menu runs on Saturdays as well. The early-evening menu runs Monday to Thursday 4:45pm to 5:45pm, Friday 4:30pm to 5pm and Saturday 3:15pm to 5pm.
 
-**Franco Manca's £12.50** includes a soft drink and is the cheapest price on this page.
+**Franco Manca's £12.50** includes a soft drink. Frankie & Benny's set lunch from £9.95 and Tonkotsu's £10.50 ramen and side are cheaper still.
 
 The [chain restaurants guide](/articles/best-chain-restaurants-london/) covers these chains' menus and booking rules in full.
 
 **Côte's price varies by branch**, so check the one you are going to.
+
+---
+
+## More set lunches across London
+
+Each of these was listed on the restaurant's own site in November 2026.
+
+### Soho, Covent Garden and the Strand
+
+| Restaurant | Deal | When |
+| --- | --- | --- |
+| **[Manzi's](https://manzis.co.uk/set-menus/)**, Soho | £16 / 2, £20 / 3 | Tue–Sun 12–5pm |
+| **[Masala Zone](https://www.masalazone.com/news/)**, Soho | £16 thali, curry or biryani | Lunch |
+| **[Mele e Pere](https://www.meleepere.co.uk/menus)**, Soho | £19.50 / 2, £23.50 / 3 | Lunch and early evening |
+| **[Blanchette](https://www.blanchettesoho.co.uk/menu)**, Soho | £19.50 / 2, £23 / 3 | Mon–Sat. £50 a head charged for a no-show |
+| **[Sucre](https://sucrerestaurant.com/whats-on/)**, Soho | Argentine set lunch from £19.50 | Lunch |
+| **[Poon's](https://www.poonslondon.com/restaurant/menu)**, Covent Garden | £22 / 2 courses, or £18 with a drink | Tue–Fri 12–2.30pm. Up to six |
+| **[Henri](https://www.experimentalgroup.com/london/henrietta-experimental/henri)**, Covent Garden | £29 / 2, £33 / 3 | Daily 12–2.30pm |
+| **[Wildwood](https://wildwoodrestaurants.co.uk/offers/)**, Covent Garden | £13.95 / 2, £16.95 / 3 | Mon–Fri 12–5pm. Up to six |
+| **[Spring](https://springrestaurant.co.uk/menus/set-lunch-menu/)**, Somerset House | £34 / 2, £39 / 3 | Lunch |
+| **[Koya](https://www.koya.co.uk/restaurant/soho)**, Soho | £35pp udon set menu | Minimum two |
+
+### Mayfair, St James's, Marylebone and Fitzrovia
+
+| Restaurant | Deal | When |
+| --- | --- | --- |
+| **[28-50](https://www.2850.co.uk/menus/)**, Marylebone | £19.95 / 2, £25.95 / 3 | Mon–Sat 12–5pm, all day Sunday. Up to six |
+| **[Zoilo](https://www.zoilo.co.uk/menus)**, Marylebone | £25.90 / 2, £29.90 / 3, changing weekly | Lunch |
+| **[Lima](https://www.limalondon.com/lunch)**, Fitzrovia | £19 main, £27 starter and main | Mon–Sat 12–5pm |
+| **[Arros QD](https://www.arrosqd.com/menus/lunch-menu/)**, Fitzrovia | £29 / 2, £34 / 3 | Mon–Fri 12–3pm |
+| **[Arlington](https://www.arlington.london/menus/)**, St James's | £29 / 2, £34 / 3 "Classics" | Sat–Sun 11.30am–3pm |
+| **[Chucs](https://www.chucsrestaurants.com/restaurant/mayfair/)**, Mayfair | £30 / 2, £35 / 3 | Up to four |
+| **[Il Gattopardo](https://gattopardo.restaurant/whats-on-mayfair/)**, Mayfair | £34 / 2, £38 / 3 | Daily 12–3pm |
+| **[Bacchanalia](https://bacchanalia.co.uk/lunch/)**, Mayfair | £39 / 2, £44 / 3 | Mon–Fri 12–4.30pm |
+| **[Nobu Old Park Lane](https://www.noburestaurants.com/london-old-park-lane/home)**, Mayfair | £40 Signature Lunch of Nobu classics | Mon–Fri lunch |
+| **[Jamavar](https://jamavarrestaurants.com/london/whats-on/lunch-and-early-evening-at-jamavar/)**, Mayfair | £47–£54 for three or four courses | Daily 12–2.30pm and 5.30–6.30pm |
+
+### Knightsbridge, Kensington and Chelsea
+
+| Restaurant | Deal | When |
+| --- | --- | --- |
+| **[The Holland](https://thehollandkensington.co.uk/menus/)**, Kensington | £18 / 2, £23 / 3 | Wed–Sat 12–5pm |
+| **[Mazi](https://www.mazi.co.uk/lunch-set-menu/)**, Notting Hill | £24.95 / 2, £29.95 / 3 | Mon–Fri lunch |
+| **[Ixchel](https://www.ixchellondon.com/whats-on)**, Chelsea | £28 / 3 courses | Mon–Fri |
+| **[Sette](https://www.settelondon.co.uk/menus/)**, Knightsbridge | £29 / 2, £35 / 3 | Mon–Fri 12–3pm |
+| **[The Mantl](https://themantl.com/the-perfect-lunch-in-knightsbridge/)**, Knightsbridge | £29.90 / 2, £34.90 / 3 | Mon–Fri 12–4pm |
+| **[Sale e Pepe](https://www.saleepepe.co.uk/menu)**, Knightsbridge | £38 / 3 courses | Mon–Fri 12–4pm |
+| **[The Milestone Hotel](https://milestonehotel.com/dining-and-drinks/whats-on)**, Kensington | £45 / 2, £55 / 3 | Daily 12.30–2.30pm |
+
+### The City, east and north London
+
+| Restaurant | Deal | When |
+| --- | --- | --- |
+| **[Ivan Ramen](https://www.ivanramen.co.uk/lunch-ramen)**, Farringdon | £15 bowl of ramen | Mon–Fri 12–3pm, dine-in |
+| **[Cafe La Divina](https://ladivina.co.uk/italian-lunch-islington.php)**, Islington | £17.95 / 2, £19.95 / 3 (£2.50 more at weekends) | Lunch |
+| **[The Dickens Inn](https://www.dickensinn.co.uk/food-drink/poplars)**, St Katharine Docks | £19.95 / 2, £23.95 / 3 | Poplars restaurant |
+| **[Tavern](https://www.urbanpubsandbars.com/whats-on)**, St John's Tavern, Archway | £19.50 / 2, £23.50 / 3 | Mon–Fri 12–4pm |
+| **[The Bull & Last](https://thebullandlast.co.uk/)**, Highgate | £20 / 2, £25 / 3 at lunch; £25 / 2, £30 / 3 at dinner | Lunch Mon–Fri; dinner Mon–Tue |
+| **[Porte Noire](https://portenoire.co.uk/menu/set-lunch)**, King's Cross | £24 / 2 courses | Weekday lunch |
+| **[Zapote](https://zapote.co.uk/)**, Shoreditch | £29 three-course menú del día | Tue–Sat lunch |
+
+### South and west London
+
+| Restaurant | Deal | When |
+| --- | --- | --- |
+| **[Brunswick House](https://brunswickhouse.london/)**, Vauxhall | £18 / 2, £23 / 3 | Wed–Fri. Up to eight |
+| **[Babur](https://www.babur.info/menus/daily-set-lunch)**, Forest Hill | £24.95, or £29.95 with a glass of wine | Mon–Sat 12–2pm |
+| **[Rick Stein](https://rickstein.com/restaurants/rick-stein-barnes/)**, Barnes | £35 / 3 courses from the daily dishes | Daily, lunch and dinner |
+| **[Sorella](https://www.sorellarestaurant.co.uk/menu)**, Clapham | £38pp Sunday menu to share | Sunday |
+| **[River Café](https://www.rivercafe.co.uk/)**, Hammersmith ★ | £65 / 2 courses and dolci, £80 / 3 | Mon–Thu, 12–12.30pm or 2–2.30pm seatings. Up to six; book a Set Lunch table |
+
+**The River Café's set lunch** is the cheapest way into the Thames-side room in Hammersmith, but it seats only at two fixed times and must be booked as a Set Lunch table.
 
 ---
 
@@ -139,10 +226,26 @@ Pre-theatre menus run in the early evening, usually finishing by about 6.30pm.
 | **Trishna**, Marylebone | £45 / 3, £50 / 4 | 5–6.15pm |
 | **Kitchen W8**, Kensington ★ | £49.50 / 3 courses | 6–6.15pm sitting |
 | **NOPI**, Soho | £45pp / 3 courses | Mon–Fri 5–6.30pm |
+| **[Manzi's](https://manzis.co.uk/set-menus/)**, Soho | £29.50 / 3 courses and a glass of wine, beer or soft drink | Daily |
+| **[Kolamba](https://www.kolamba.co.uk/kolamba-soho)**, Soho | £30 menu | Mon–Fri 4–6pm |
+| **[Henri](https://www.experimentalgroup.com/london/henrietta-experimental/henri)**, Covent Garden | £29 / 2, £33 / 3 | Daily 5–6pm |
+| **[Town](https://town.restaurant/)**, Covent Garden | £32 snack and 2 courses, £38 with 3 | Mon–Sat 5–6pm. Up to four |
+| **[Poon's](https://www.poonslondon.com/restaurant/menu)**, Covent Garden | £32pp set menu | Lunch, or dinner until 6.30pm |
+| **[Dim Sum Library](https://dimsumlibrary.co.uk/events/)**, Covent Garden | Theatre menu from £32pp | Mon–Fri from 5pm |
+| **[Byron](https://www.byron.co.uk/menu)**, Covent Garden and Tottenham Court Road | £18.95 / 2, £23.50 / 3 | Pre-theatre |
+| **[Locatelli at The National Gallery](https://locatelliatnationalgallery.co.uk/pre-theatre-dinner-london/)**, Trafalgar Square | £25 / 2, £31 / 3 | Sun–Thu 3–4.30pm, Fri–Sat 3–6pm |
+| **[Veeraswamy](https://www.veeraswamy.com/menu/pre-theatre-dinner/)**, Regent Street | £40 / 2, £45 / 3 | Daily 5.30–6.15pm, and 9.15–10pm after the show |
+| **[Norma](https://normalondon.com/event/pre-theatre-dining/)**, Fitzrovia | £28 / 2, £34 / 3 | Mon–Fri until 5.30pm. Up to six |
+| **[Dalloway Terrace](https://dallowayterrace.com/whats-on/)**, Bloomsbury | £29 / 2, £35 / 3 | Mon–Fri from 5pm |
+| **[Il Gattopardo](https://gattopardo.restaurant/whats-on-mayfair/)**, Mayfair | £38 / 3 courses | Sun–Wed 5–6.45pm |
+| **[Caravan](https://caravanandco.com/pages/exmouth-market)**, Exmouth Market | £25 / 2, £29 / 3, for Sadler's Wells | Mon–Fri from noon; Sat–Sun from 5pm |
+| **[Ottolenghi](https://ottolenghi.co.uk/pages/restaurants/islington)**, Islington | £36pp sharing menu | Mon–Fri 5.30–6.30pm |
+| **[Cafe La Divina](https://ladivina.co.uk/whats-on-islington.php)**, Islington | £30.95 / 2 courses and a drink | Sun–Thu, not bank holidays or the festive season |
+| **[Mercato Metropolitano](https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/)**, Wood Wharf | £10 dish from selected traders | Daily 4–7pm |
 
 **Bocca di Lupo** is two minutes from Shaftesbury Avenue and its window runs to 6.30pm, late enough for a 7.30pm curtain.
 
-**The Delaunay's Full Haus runs again from 9pm**, so it works after a show too.
+**The Delaunay's Full Haus runs again from 9pm**, so it works after a show too, as does Veeraswamy's from 9.15pm.
 
 For a 7.30pm curtain, book at 5.30pm. See our [London theatre guide](/articles/london-theatre-guide/) for how curtain times and running times actually work.
 
