@@ -26424,48 +26424,6 @@
       }
     ]
   },
-  "christophers": {
-    "name": "Christopher’s",
-    "topics": [
-      "breakfast-brunch",
-      "british"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 C1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "breakfast-brunch": {
-        "sourceCount": 3,
-        "tierSpread": "B2 C1",
-        "tierCount": 2,
-        "hasAward": false
-      },
-      "british": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "LuxLife",
-        "url": "https://luxlifelondon.com/best-breakfast-spots-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Infatuation",
-        "url": "https://www.theinfatuation.com/london/guides/best-brunch-london"
-      },
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/features/the-ultimate-london-brunch-guide/"
-      }
-    ]
-  },
   "bernerstavern": {
     "name": "Berners Tavern",
     "topics": [
@@ -69919,66 +69877,6 @@
         "tier": "B",
         "source": "Olive Magazine",
         "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      }
-    ]
-  },
-  "chillicool": {
-    "name": "Chilli Cool",
-    "topics": [
-      "chinese",
-      "hot-pot"
-    ],
-    "sourceCount": 6,
-    "tierSpread": "B1 C5",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "chinese": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      },
-      "hot-pot": {
-        "sourceCount": 5,
-        "tierSpread": "C5",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Olive Magazine",
-        "url": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/"
-      },
-      {
-        "tier": "C",
-        "source": "London x London",
-        "url": "https://www.londonxlondon.com/best-hot-pot-london/",
-        "quote": "You should be here for the Sichuan boboji, a style of hotpot where you order meat and veg on sticks - Bloomsbury"
-      },
-      {
-        "tier": "C",
-        "source": "London Cheapo",
-        "url": "https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/",
-        "quote": "A casual restaurant with a separate area for hot pot; famous for the fearsomely authentic levels of chilli and Sichuan pepper - Bloomsbury"
-      },
-      {
-        "tier": "C",
-        "source": "Red Scarf 红领巾",
-        "url": "https://www.honglingjin.co.uk/384906.html",
-        "quote": "A straightforward Sichuan restaurant near King's Cross - maocai, mala xiang guo and stir-fries. The hot pot is good and the value is high. 15 Leigh Street WC1H 9EW. ££"
-      },
-      {
-        "tier": "C",
-        "source": "Surrey Chinese 萨里鹿游器",
-        "url": "https://www.surreychinese.co.uk/archives/15425"
-      },
-      {
-        "tier": "C",
-        "source": "UK002 英国生活零零兔",
-        "url": "https://www.uk002.com/note/60198"
       }
     ]
   },

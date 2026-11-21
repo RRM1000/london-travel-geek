@@ -701,42 +701,6 @@
    "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.londonxlondon.com/best-hot-pot-london/ | https://www.honglingjin.co.uk/384906.html"
   },
   {
-   "slug": "chilli-cool",
-   "name": "Chilli Cool",
-   "cuisine": "Chinese",
-   "style": "Sichuan restaurant with a hot pot room",
-   "specialities": [
-    "hot-pot",
-    "regional"
-   ],
-   "format": "Restaurant",
-   "chainType": "independent",
-   "area": "King's Cross",
-   "zone": "1",
-   "district": "North",
-   "borough": "Camden",
-   "guide": "kings-cross-area-guide",
-   "address": "15 Leigh St",
-   "postcode": "WC1H 9EW",
-   "lat": 51.526466,
-   "lng": -0.125014,
-   "price": "££",
-   "booking": "days",
-   "goodFor": [
-    "groups",
-    "quick"
-   ],
-   "whyGo": "Two shopfronts on the same street: stir-fries on one side, a separate hot pot room on the other, plus boboji - meat and vegetables on skewers, cooked in mala oil and priced by the stick.",
-   "opNote": "Named by five domains, the most of any independent in the topic, and by every Chinese-language source in the corpus.",
-   "lists": [
-    "hot-pot",
-    "best-value"
-   ],
-   "sourceCount": "6",
-   "sourceTiers": "B1 C5",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/ | https://www.londonxlondon.com/best-hot-pot-london/ | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
-  },
-  {
    "slug": "hotto-potto",
    "name": "Hotto Potto",
    "cuisine": "Chinese",
