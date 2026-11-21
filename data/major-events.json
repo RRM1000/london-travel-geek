@@ -179,7 +179,33 @@
       "guide": "london-sporting-events-2027"
     }
   ],
-  "add": [],
+  "add": [
+    {
+      "title": "London Museum opens at Smithfield",
+      "group": "exhibition",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "venue": "London Museum, Smithfield",
+      "url": "https://www.londonmuseum.org.uk/whats-on/smithfield-general-admission/",
+      "note": "Free; booking recommended for the opening weeks"
+    },
+    {
+      "title": "The Nutcracker, The Royal Ballet",
+      "group": "theatre",
+      "start": "2026-12-03",
+      "end": "2027-01-13",
+      "venue": "Royal Opera House",
+      "guide": "christmas-shows-london"
+    },
+    {
+      "title": "Cinderella, London Palladium pantomime",
+      "group": "theatre",
+      "start": "2026-12-05",
+      "end": "2027-01-10",
+      "venue": "London Palladium",
+      "guide": "christmas-shows-london"
+    }
+  ],
   "remove": [
     "concrete-and-clay-barbican",
     "amar-kanwar-serpentine",
