@@ -407,7 +407,3 @@ The rest, A to Z, with the days each one trades.
 - 🥯 **[London Foods Worth Travelling For](/articles/london-foods-worth-travelling-for/)** — the beigel, pie and mash, fish and chips and more, each with where to eat it
 - 🍔 **[The Best Burgers in London](/articles/best-burgers-london/)**
 - 🗺️ **[Eat in London: the full food handbook](/articles/eat-in-london-guide/)**
-
----
-
-*Trading days change: confirm before travelling for a specific market.*
