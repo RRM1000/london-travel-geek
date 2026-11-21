@@ -36,7 +36,7 @@ This guide keeps them apart and counts each against its own sources rather than 
 > 💡 **The Short Version:** **A. Wong** is the only Chinese restaurant in London with a Michelin star, and it has two. **Tao Tao Ju**, **Plum Valley**, **Four Seasons**, **Murger Han** and **Etles** are the most-cited after it. **Barshu** is the Sichuan entry and **Etles** the Uyghur one. **Xi'an Impression** does a beef bun for £5.
 
 > 📊 **The evidence behind this guide.**
-> Counted separately for each cuisine: **Chinese — 13 sources, 206 citations across 112 restaurants, 46 named twice or more**; **Thai — 13 sources, 126 citations across 63 restaurants, 18 named twice or more**; **Korean — 9 sources, 118 citations across 74 restaurants, 19 named twice or more**.
+> Counted separately for each cuisine: **Chinese — 13 sources, 206 citations across 111 restaurants, 46 named twice or more**; **Thai — 13 sources, 126 citations across 63 restaurants, 18 named twice or more**; **Korean — 9 sources, 118 citations across 74 restaurants, 19 named twice or more**.
 > **Built on:** Michelin; Eater London, The Infatuation, Time Out and SquareMeal.
 > *Evidence rebuilt 14 September 2026 · [How we rank →](/how-we-rank/)*
 

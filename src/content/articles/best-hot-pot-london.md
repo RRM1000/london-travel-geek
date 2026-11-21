@@ -1,9 +1,9 @@
 ---
 title: "The Best Hot Pot in London, and How to Order One if You Never Have"
 seoTitle: "Best Hot Pot in London: Where to Eat, What It Costs"
-description: "The best hot pot (hotpot) in London: Haidilao is named by seven of 17 sources, Chilli Cool and Shu Xiang Ge lead the independents. Budget £25 to £40 a head."
+description: "The best hot pot (hotpot) in London: Haidilao is named by seven of 17 sources, Shu Xiang Ge and Tian Fu lead the independents. Budget £25 to £40 a head."
 publishedAt: 2026-09-06
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -18,7 +18,7 @@ faq:
   - q: "How much does hot pot cost in London?"
     a: "Most London hot pot restaurants sit in the £20 to £40 a head band before drinks, and a few of the Chinatown and Pimlico rooms run higher. The broth is charged separately from the ingredients, so the bill grows in two directions at once. The cheapest way in is a single-bowl malatang, where you fill a basket, it is weighed and you eat for well under £15."
   - q: "Which is the best hot pot restaurant in London?"
-    a: "No judged award exists for hot pot, so there is no winner in the sense a Michelin star would mean. Haidilao is named by more independent sources than anything else in London — seven of the seventeen read for this page — and Happy Lamb by six. Among the independents, Chilli Cool and Shu Xiang Ge are the most widely named at five each."
+    a: "No judged award exists for hot pot, so there is no winner in the sense a Michelin star would mean. Haidilao is named by more independent sources than anything else in London — seven of the seventeen read for this page — and Happy Lamb by six. Among the independents, Shu Xiang Ge and Tian Fu are the most widely named at five each."
   - q: "Is Haidilao worth it?"
     a: "For a first hot pot, probably yes, and not for the food. It takes bookings, holds tables back for walk-ins, gives you an apron and a bag for your coat, has a picture menu on a tablet and staff who will talk you through the order. You are paying for the scaffolding. Once you know the format, the independents give you more dinner for the money."
   - q: "What is malatang, and how is it different from hot pot?"
@@ -27,15 +27,15 @@ faq:
     a: "Yes. Hotto Potto in Aldgate runs a dedicated halal menu, Niu Hot Pot in Spitalfields has a halal section on its ordering sheet, and Simmer Huang at Canary Wharf is halal throughout. Ordinary hot pot menus lean heavily on pork and pork blood, so check before you order."
 ---
 
-**The best hot pot in London for a first time is Haidilao, named by seven of seventeen independent sources; Chilli Cool and Shu Xiang Ge are the most-named independents.** Budget £25 to £40 a head.
+**The best hot pot in London for a first time is Haidilao, named by seven of seventeen independent sources; Shu Xiang Ge and Tian Fu are the most-named independents.** Budget £25 to £40 a head.
 
 At a hot pot you cook your own dinner at the table. A pot of broth arrives already boiling, with plates of thinly sliced meat and vegetables, and you cook them piece by piece for the next two hours. **It is a format rather than a cuisine.** A Chongqing pot is a slab of beef tallow melting into a kilo of dried chillies; a Beijing copper pot is clear water in a charcoal chimney with lamb sliced thin enough to see through.
 
 > 📌 **The short version.**
-> **Haidilao** is named by more independent sources than any other hot pot in London — seven of seventeen — and it is the right first one, because the chain does the hand-holding. **Chilli Cool** and **Shu Xiang Ge** are the most widely named independents at five each. For clear-broth lamb rather than chilli, go to a **Beijing copper pot**. For one person and under £15, go to a **malatang** counter and fill a basket. Budget £25 to £40 a head, and remember the broth is charged separately.
+> **Haidilao** is named by more independent sources than any other hot pot in London — seven of seventeen — and it is the right first one, because the chain does the hand-holding. **Shu Xiang Ge** in Chinatown and **Tian Fu** in Shepherd's Bush are the most widely named independents at five each. For clear-broth lamb rather than chilli, go to a **Beijing copper pot**. For one person and under £15, go to a **malatang** counter and fill a basket. Budget £25 to £40 a head, and remember the broth is charged separately.
 
 > 📊 **The evidence behind this guide.**
-> **17 sources carrying 86 citations** across **42 named venues**. **20 restaurants are named by two or more independent sources.**
+> **17 sources carrying 86 citations** across **41 named venues**. **19 restaurants are named by two or more independent sources.**
 > **Built on:** The Infatuation, DesignMyNight and London x London; Chinese-language guides; YouTube.
 > *Evidence rebuilt 3 September 2026 · [How we rank →](/how-we-rank/)*
 
@@ -84,7 +84,7 @@ Save the noodles for the end and drink some of the soup off a clear base before 
 | If you are near… | Where to go |
 | --- | --- |
 | **Chinatown and Leicester Square** | Haidilao, Shu Xiang Ge, Leong's Legend, Yangguofu Malatang, Real Beijing, Nan Hotpot, Pot Pot Malatang, Xiong Qi |
-| **Holborn, Bloomsbury and King's Cross** | Happy Lamb, Shujie Hotpot, Chilli Cool, Laoma, Mao Master |
+| **Holborn, Bloomsbury and King's Cross** | Happy Lamb, Shujie Hotpot, Laoma, Mao Master |
 | **Fitzrovia** | Da Long Yi, Teo Hot Pot, Ning's Fresh Beef Hotpot, Mealtime Malatang |
 | **Aldgate and Spitalfields** | Hotto Potto, Mr Wang Hot Pot, Niu Hot Pot |
 | **Poplar, Limehouse and the Isle of Dogs** | Super Three, Han Restaurant, Mailinda, Shan Shui Jian, Simmer Huang |
@@ -122,14 +122,6 @@ On arrival you get an apron, a hair tie and a fabric bag so your coat does not s
 Mongolian rather than Sichuan, and clear proof that hot pot is not synonymous with chilli. The house broth is a clear herbal bone stock simmered for six hours with goji berries, jujubes and ginseng, and the lamb is sliced thin enough to curl. The Mongolian principle is that a good broth should not need a dipping sauce.
 
 It was founded by the original team behind Little Sheep, and came first in a UK-wide readers' poll run by the diaspora site Red Scarf in 2023. Two London branches, Holborn and Bayswater. Loud, bright and full of students.
-
-### Chilli Cool, King's Cross
-
-*££ · King's Cross · Cited by 5 sources · book a few days ahead*
-
-**Named by more sources than any other independent**, and by every Chinese-language guide in this set. Two shopfronts on the same Bloomsbury street: stir-fries on one side, a separate hot pot room on the other.
-
-Beyond the pot, order boboji: meat and vegetables threaded on skewers, cooked in mala oil and priced by the stick, the cheapest way to eat a full meal here. A plain, functional room.
 
 ### Shu Xiang Ge, Chinatown
 
