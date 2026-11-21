@@ -1,5 +1,5 @@
 // A private viewer for the London Travel Geek database: a dashboard, place search, deals,
-// new places, sources, articles and the content queue.
+// new places, closures, sources, articles, markets and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
 // only (127.0.0.1) and writes nothing except content_queue.status when a queue button is pressed.
@@ -39,10 +39,15 @@ const pool = new pg.Pool({ connectionString: url, max: 4,
   ssl: process.env.PGSSL === "off" ? false : { rejectUnauthorized: false } });
 pool.on("error", (e) => console.error("Database connection dropped:", e.message));
 const q = async (sql, params = []) => (await pool.query(sql, params)).rows;
+// Some tables arrive later than the viewer: check before reading them.
+const exists = async (rel) => (await q(`select to_regclass($1) r`, [rel]))[0].r !== null;
+const missing = (e) => /does not exist/.test(e.message);
 
 // Tables shown on the dashboard, with the column that says when a row was last checked.
-const TABLES = ["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places", "sheet_extras"];
-const CHECKED = new Set(["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places"]);
+const TABLES = ["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places", "awards",
+  "licence_applications", "stations", "page_stats", "place_clicks", "sheet_extras"];
+const CHECKED = new Set(["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places",
+  "awards", "licence_applications", "stations", "page_stats"]);
 
 const ORIGIN_GROUP = `case when origin = 'fsa' then 'fsa' when origin = 'osm' then 'osm' when origin = 'brand' then 'brand'
   when origin = 'data/evidence.json' then 'research' when origin like 'sheet:%' then 'sheet' else 'other' end`;
@@ -121,7 +126,10 @@ async function place(id) {
   // Articles on the site that name this place; a branch shows its brand's articles.
   const appears = await q(`select article_slug, title, url, kind, heading, updated_at, draft from public.place_articles
     where place_id = $1 order by kind, title`, [row.parent_id || row.id]).catch(() => []);
-  return { row, reviews, deals, events, duplicates, branches, brand, appears };
+  const awards = await q(`select award, level, year, url from public.awards where place_id = $1 order by year desc nulls last, award`, [id]).catch(() => []);
+  const clicks = await q(`select sum(clicks)::int n, max(period_end) period_end from public.place_clicks
+    where place_id = $1 and period_end = (select max(period_end) from public.place_clicks)`, [id]).then((r) => r[0]).catch(() => null);
+  return { row, reviews, deals, events, duplicates, branches, brand, appears, awards, clicks };
 }
 
 async function queue(p) {
@@ -218,15 +226,19 @@ async function articles(p) {
   if (p.draft === "yes") where.push("a.draft");
   if (p.draft === "no") where.push("not a.draft");
   const w = where.length ? `where ${where.join(" and ")}` : "";
-  const order = p.sort === "places" ? "entries desc, mentions desc, a.title" : p.sort === "updated" ? "a.updated_at desc nulls last, a.title" : "a.title";
+  const perf = await exists("public.article_performance");
+  const order = p.sort === "places" ? "entries desc, mentions desc, a.title" : p.sort === "updated" ? "a.updated_at desc nulls last, a.title"
+    : p.sort === "views" && perf ? "ap.views desc nulls last, a.title" : p.sort === "search" && perf ? "ap.search_clicks desc nulls last, a.title" : "a.title";
   const rows = await q(`select a.slug, a.title, a.category, a.draft, a.url, a.published_at, a.updated_at, a.last_checked,
       coalesce(c.entries, 0) entries, coalesce(c.mentions, 0) mentions
+      ${perf ? ", ap.views, ap.prev_views, ap.search_clicks, ap.search_position, ap.affiliate_clicks, ap.period_end" : ""}
     from public.articles a
+    ${perf ? "left join (select distinct on (slug) * from public.article_performance where slug is not null order by slug, period_end desc) ap on ap.slug = a.slug" : ""}
     left join (select article_slug, count(*) filter (where kind = 'entry')::int entries, count(*) filter (where kind = 'mention')::int mentions
       from public.article_places group by 1) c on c.article_slug = a.slug
     ${w} order by ${order} limit 2000`, args);
   const categories = await q(`select category, count(*)::int n from public.articles where category is not null group by 1 order by 1`);
-  return { rows, total: rows.length, categories };
+  return { rows, total: rows.length, categories, perf };
 }
 
 async function article(slug) {
@@ -235,7 +247,8 @@ async function article(slug) {
   const places = await q(`select ap.kind, ap.heading, ap.position, p.id, p.name, p.category, p.area, p.borough, p.status, p.recommended
     from public.article_places ap join public.places p on p.id = ap.place_id
     where ap.article_slug = $1 order by ap.kind, ap.position nulls last, p.name`, [slug]);
-  return { row, places };
+  const [stats] = await q(`select * from public.article_performance where slug = $1 order by period_end desc limit 1`, [slug]).catch(() => []);
+  return { row, places, stats: stats || null };
 }
 
 // Places that look new (the new_places view): newest signal first.
@@ -257,6 +270,47 @@ async function newPlaces(p) {
   const [{ n }] = await q(`select count(*)::int n from public.new_places ${w}`, args);
   const why = await q(`select why_new, count(*)::int n from public.new_places group by 1 order by 2 desc`);
   return { rows, total: n, page, why };
+}
+
+async function upcoming(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`(premises_name ilike $? or address ilike $? or postcode ilike $? or activities ilike $?)`, `%${p.q}%`);
+  if (p.council) add(`council = $?`, p.council);
+  if (p.unmatched === "1") where.push("place_id is null");
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const rows = await q(`select * from public.upcoming_openings ${w} order by received_on desc nulls last limit 300`, args);
+  const [{ n }] = await q(`select count(*)::int n from public.upcoming_openings ${w}`, args);
+  const councils = await q(`select council, count(*)::int n from public.upcoming_openings group by 1 order by 1`);
+  return { rows, total: n, councils };
+}
+
+async function closed(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`(name ilike $? or postcode ilike $?)`, `%${p.q}%`);
+  if (p.category) add(`category = $?`, p.category);
+  if (p.recommended === "1") where.push("recommended");
+  if (p.articles === "1") where.push("in_articles > 0");
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const rows = await q(`select * from public.possibly_closed ${w} order by recommended desc, in_articles desc, name limit 500`, args);
+  const [{ n }] = await q(`select count(*)::int n from public.possibly_closed ${w}`, args);
+  const [c] = await q(`select count(*) filter (where recommended)::int recommended, count(*) filter (where in_articles > 0)::int in_articles
+    from public.possibly_closed`);
+  return { rows, total: n, counts: c };
+}
+
+async function markets(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`(name ilike $? or description ilike $?)`, `%${p.q}%`);
+  if (p.market) add(`market = $?`, p.market);
+  if (p.kind) add(`kind = $?`, p.kind);
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const rows = await q(`select * from public.market_traders_ranked ${w} order by sources desc, market, name limit 1000`, args);
+  const list = await q(`select market, count(*)::int n from public.market_traders group by 1 order by 1`);
+  const kinds = await q(`select kind, count(*)::int n from public.market_traders where kind is not null group by 1 order by 2 desc`);
+  return { rows, total: rows.length, markets: list, kinds };
 }
 
 async function setStatus(id, status) {
@@ -302,6 +356,11 @@ const server = http.createServer(async (req, res) => {
     if (req.method === "GET" && u.pathname === "/api/new-places") {
       try { return send(res, 200, await newPlaces(p)); }
       catch (e) { if (/does not exist/.test(e.message)) return send(res, 200, { rows: [], total: 0, page: 0, why: [], missing: true }); throw e; }
+    }
+    const optional = { "/api/upcoming": upcoming, "/api/closed": closed, "/api/markets": markets };
+    if (req.method === "GET" && optional[u.pathname]) {
+      try { return send(res, 200, await optional[u.pathname](p)); }
+      catch (e) { if (missing(e)) return send(res, 200, { rows: [], total: 0, missing: true }); throw e; }
     }
     if (req.method === "GET" && u.pathname === "/api/queue") return send(res, 200, await queue(p));
     if (req.method === "POST" && (m = u.pathname.match(/^\/api\/queue\/(\d+)$/))) {

@@ -9,7 +9,7 @@
   @media (prefers-color-scheme: dark) { :root { --bg:#161615; --card:#1f1f1d; --ink:#ecebe8; --muted:#a29f98; --line:#33322f; --accent:#6fb2e0; --good:#6cc690; --bad:#ec8a7c; --warn:#e0b153; --chip:#2a2f35; } }
   * { box-sizing: border-box; }
   body { margin:0; background:var(--bg); color:var(--ink); font:14px/1.45 system-ui, "Segoe UI", sans-serif; }
-  header { display:flex; align-items:center; gap:24px; padding:12px 20px; background:var(--card); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:5; }
+  header { display:flex; flex-wrap:wrap; align-items:center; gap:24px; padding:12px 20px; background:var(--card); border-bottom:1px solid var(--line); position:sticky; top:0; z-index:5; }
   header h1 { font-size:16px; margin:0; }
   nav button { background:none; border:0; padding:8px 12px; font:inherit; color:var(--muted); cursor:pointer; border-radius:6px; }
   nav button.on { color:var(--ink); background:var(--chip); font-weight:600; }
@@ -59,9 +59,11 @@
     <button data-tab="dash" class="on">Dashboard</button>
     <button data-tab="places">Places</button>
     <button data-tab="newp">New places</button>
+    <button data-tab="closed">Possibly closed</button>
     <button data-tab="deals">Deals</button>
     <button data-tab="sources">Sources</button>
     <button data-tab="articles">Articles</button>
+    <button data-tab="markets">Markets</button>
     <button data-tab="queue">Content queue</button>
   </nav>
   <span class="muted small" id="stamp"></span>
@@ -85,6 +87,7 @@
   </section>
   <section id="newp" hidden>
     <div class="filters">
+      <select id="nmode"><option value="new">Places that look new</option><option value="upcoming">Upcoming openings (licence applications)</option></select>
       <input type="search" id="nq" placeholder="Name, area or postcode">
       <select id="ndays"><option value="7">New in the last 7 days</option><option value="30" selected>New in the last 30 days</option><option value="90">New in the last 90 days</option><option value="">Any time</option></select>
       <select id="nwhy"><option value="">Any reason</option></select>
@@ -93,6 +96,23 @@
       <label class="small"><input type="checkbox" id="narts"> Has an opening article</label>
     </div>
     <div id="nlist"></div>
+  </section>
+  <section id="closed" hidden>
+    <div class="filters">
+      <input type="search" id="cq" placeholder="Name or postcode">
+      <select id="ccat"><option value="">Any type</option></select>
+      <label class="small"><input type="checkbox" id="crec"> Recommended only</label>
+      <label class="small"><input type="checkbox" id="carts"> In our articles only</label>
+    </div>
+    <div id="clist"></div>
+  </section>
+  <section id="markets" hidden>
+    <div class="filters">
+      <input type="search" id="mq" placeholder="Trader or what they sell">
+      <select id="mmarket"><option value="">Every market</option></select>
+      <select id="mkind"><option value="">Any kind</option></select>
+    </div>
+    <div id="mlist"></div>
   </section>
   <section id="deals" hidden>
     <div class="filters">
@@ -120,7 +140,7 @@
       <input type="search" id="aq" placeholder="Article title">
       <select id="acat"><option value="">Any section</option></select>
       <select id="adraft"><option value="">Published and drafts</option><option value="no">Published</option><option value="yes">Drafts</option></select>
-      <select id="asort"><option value="title">A to Z</option><option value="places">Most places first</option><option value="updated">Recently updated first</option></select>
+      <select id="asort"><option value="title">A to Z</option><option value="places">Most places first</option><option value="updated">Recently updated first</option><option value="views">Most views first</option><option value="search">Most search clicks first</option></select>
     </div>
     <div id="alist"></div>
   </section>
@@ -151,7 +171,7 @@ async function api(path, opts) {
   return j;
 }
 const ORIGINS = { sheet:"Our Sheet", research:"Research names", fsa:"Hygiene register", osm:"OpenStreetMap", brand:"Chain brands", other:"Other" };
-const TABLE_NAMES = { places:"Places", reviews:"Reviews and mentions", sources:"Sources", events:"Events", deals:"Deals", content_queue:"Content queue", tours:"Tours", market_traders:"Market traders", articles:"Articles on the site", article_places:"Places named in articles", sheet_extras:"Sheet work lists" };
+const TABLE_NAMES = { places:"Places", reviews:"Reviews and mentions", sources:"Sources", events:"Events", deals:"Deals", content_queue:"Content queue", tours:"Tours", market_traders:"Market traders", articles:"Articles on the site", article_places:"Places named in articles", sheet_extras:"Sheet work lists", awards:"Awards", licence_applications:"Licence applications", stations:"Stations", page_stats:"Page performance", place_clicks:"Affiliate clicks per place" };
 
 // Tabs
 document.querySelectorAll("nav button").forEach((b) => b.onclick = () => show(b.dataset.tab));
@@ -163,11 +183,13 @@ function show(tab) {
   if (tab === "places") loadPlaces();
   if (tab === "newp") loadNew();
   if (tab === "deals") loadDeals();
+  if (tab === "closed") loadClosed();
+  if (tab === "markets") loadMarkets();
   if (tab === "sources") loadSources();
   if (tab === "articles") loadArticles();
   if (tab === "queue") loadQueue();
 }
-const TABS = ["dash", "places", "newp", "deals", "sources", "articles", "queue"];
+const TABS = ["dash", "places", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -270,12 +292,16 @@ async function openPlace(id) {
       <dl>
         ${d.brand ? `<dt>Part of</dt><dd><a href="#" data-id="${d.brand.id}">${esc(d.brand.name)}</a> <span class="muted">(${fmt(d.brand.branches)} branches)</span></dd>` : ""}
         ${f("Address", esc([x.address, x.postcode].filter(Boolean).join(", ")))}
+        ${f("Nearest station", x.nearest_station ? esc(`${x.nearest_station}, ${fmt(x.station_metres)} m (about ${Math.max(1, Math.round(x.station_metres / 80))} min walk)`) : "")}
+        ${f("Opening hours", esc(x.opening_hours))}
         ${f("Area", esc([x.area, x.borough].filter(Boolean).join(", ")))}
         ${f("Website", link(x.website))}${f("Phone", esc(x.phone))}${f("Price", esc(x.price_band))}
         ${f("Slug", esc(x.slug))}${f("Map", x.lat ? link(`https://www.google.com/maps/search/?api=1&query=${x.lat},${x.lng}`, "Google Maps") : "")}
         ${f("Hygiene rating", a.fsa ? esc(`${a.fsa.hygieneRating}${a.fsa.ratingDate ? ", inspected " + day(a.fsa.ratingDate) : ""}`) : "")}
         ${f("Came from", esc(x.origin))}${f("First seen", day(x.first_seen))}${f("Last checked", day(x.last_checked))}${f("Updated", day(x.updated_at))}
       </dl>
+      ${(d.awards || []).length ? `<h2>Awards</h2><p>${d.awards.map((w) => `<span class="chip rec">${safeUrl(w.url) ? `<a href="${esc(w.url)}" target="_blank" rel="noopener" style="color:inherit">${esc(nice(w.award))}</a>` : esc(nice(w.award))}${w.level ? " · " + esc(w.level) : ""}${w.year ? " · " + esc(w.year) : ""}</span>`).join("")}</p>` : ""}
+      ${d.clicks && d.clicks.n ? `<p class="small">${fmt(d.clicks.n)} affiliate clicks in the 28 days to ${day(d.clicks.period_end)}</p>` : ""}
       <h2>Appears in our articles (${(d.appears || []).length})</h2>
       ${(d.appears || []).length ? `<table><tr><th>Article</th><th>How</th></tr>${d.appears.map((r) => `<tr>
         <td><a href="#" data-article="${esc(r.article_slug)}">${esc(r.title)}</a>${r.draft ? ' <span class="chip">draft</span>' : ""}${r.heading ? `<div class="small muted">${esc(r.heading)}</div>` : ""}</td>
@@ -296,12 +322,38 @@ document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel"
 
 // New places
 let nPage = 0, nOpts = false;
+$("#nmode").addEventListener("change", () => {
+  const up = $("#nmode").value === "upcoming";
+  for (const id of ["ndays", "nwhy", "ncat", "nbor"]) $("#" + id).hidden = up;
+  $("#narts").parentElement.hidden = up;
+  loadNew();
+});
 ["ndays", "nwhy", "ncat", "nbor", "narts"].forEach((id) => $("#" + id).addEventListener("change", () => { nPage = 0; loadNew(); }));
 $("#nq").addEventListener("input", () => { nPage = 0; clearTimeout(timer); timer = setTimeout(loadNew, 300); });
 const WHY = { "new on the hygiene register":"New on the hygiene register", "new on the map":"New on OpenStreetMap",
   "awaiting its first hygiene inspection":"Awaiting its first hygiene inspection", "opening article":"Opening article" };
 const whyLabel = (w) => WHY[w] || (String(w).startsWith("new on the ") ? "Newly added to the database" : w);
+async function loadUpcoming() {
+  const el = $("#nlist");
+  const p = new URLSearchParams({ q:$("#nq").value.trim() });
+  try {
+    const r = await api("/api/upcoming?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">Licence applications haven't been loaded into the database yet.</p>`; return; }
+    el.innerHTML = `<p class="small muted">New premises licence applications from council registers in the last six months. They often come before an opening.</p>
+      <div class="pager"><span>${fmt(r.total)} applications${r.total > r.rows.length ? `, showing the newest ${fmt(r.rows.length)}` : ""}</span></div>
+      <table><tr><th>Premises</th><th>Council</th><th>Received</th><th>Application</th><th>Status</th><th>Already in the database</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td>${link(x.url, x.premises_name || "Unnamed premises")}<div class="small muted">${esc([x.address, x.postcode].filter(Boolean).join(", "))}</div></td>
+        <td class="small">${esc(x.council)}</td><td class="small">${day(x.received_on)}</td>
+        <td class="small">${esc(x.application_type || "")}${x.activities ? `<div class="muted">${esc(x.activities)}</div>` : ""}</td>
+        <td class="small">${esc(x.status || "")}</td>
+        <td class="small">${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.matched_place || "yes")}</a>` : '<span class="muted">no</span>'}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">No applications match.</td></tr>`}
+      </table>`;
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
 async function loadNew() {
+  if ($("#nmode").value === "upcoming") return loadUpcoming();
   if (!nOpts) {
     try {
       const o = await api("/api/options");
@@ -333,6 +385,65 @@ async function loadNew() {
       </table><div class="pager">${pager(r.total, 100, r.page)}</div>`;
     el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
     el.querySelectorAll("[data-page]").forEach((b) => b.onclick = () => { nPage = Number(b.dataset.page); loadNew(); scrollTo(0, 0); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
+
+// Possibly closed
+let cOpts = false;
+["ccat", "crec", "carts"].forEach((id) => $("#" + id).addEventListener("change", loadClosed));
+$("#cq").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(loadClosed, 300); });
+async function loadClosed() {
+  if (!cOpts) {
+    try {
+      const o = await api("/api/options");
+      $("#ccat").innerHTML = `<option value="">Any type</option>` + o.categories.map((c) => `<option value="${esc(c.category)}">${esc(c.category)}</option>`).join("");
+      cOpts = true;
+    } catch {}
+  }
+  const p = new URLSearchParams({ q:$("#cq").value.trim(), category:$("#ccat").value, recommended:$("#crec").checked ? "1" : "", articles:$("#carts").checked ? "1" : "" });
+  const el = $("#clist");
+  try {
+    const r = await api("/api/closed?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">The closure checks haven't been loaded into the database yet.</p>`; return; }
+    el.innerHTML = `<p class="small muted">Places that have dropped off the hygiene register or the map, or that a recheck flagged. Recommended places and places in our articles come first, because a guide may be sending readers to them.</p>
+      <div class="pager"><span>${fmt(r.total)} places${r.total > r.rows.length ? `, showing the first ${fmt(r.rows.length)}` : ""}</span>
+        ${r.counts ? `<span class="muted">· ${fmt(r.counts.recommended)} recommended · ${fmt(r.counts.in_articles)} in articles</span>` : ""}</div>
+      <table><tr><th>Place</th><th>Type</th><th>Borough</th><th>Why we think so</th><th class="num">Articles</th><th>Last checked</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td><a href="#" data-place="${x.id}">${esc(x.name)}</a>${x.recommended ? ' <span class="chip rec">recommended</span>' : ""}${x.status !== "open" ? ` <span class="chip">${esc(x.status.replace("_", " "))}</span>` : ""}</td>
+        <td class="small">${esc(x.category)}</td><td class="small">${esc(x.borough || "")}<div class="muted">${esc(x.postcode || "")}</div></td>
+        <td class="small">${esc(x.reason || (x.status === "temporarily_closed" ? "marked temporarily closed" : "status not confirmed"))}</td><td class="num ${x.in_articles > 0 ? "stale" : ""}">${fmt(Number(x.in_articles))}</td>
+        <td class="small">${day(x.last_checked)}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">Nothing matches.</td></tr>`}
+      </table>`;
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
+
+// Markets
+let mOpts = false;
+["mmarket", "mkind"].forEach((id) => $("#" + id).addEventListener("change", loadMarkets));
+$("#mq").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(loadMarkets, 300); });
+async function loadMarkets() {
+  const p = new URLSearchParams({ q:$("#mq").value.trim(), market:$("#mmarket").value, kind:$("#mkind").value });
+  const el = $("#mlist");
+  try {
+    const r = await api("/api/markets?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">Market traders haven't been loaded into the database yet.</p>`; return; }
+    if (!mOpts && r.markets && r.markets.length) {
+      $("#mmarket").innerHTML = `<option value="">Every market</option>` + r.markets.map((m) => `<option value="${esc(m.market)}">${esc(m.market)} (${fmt(m.n)})</option>`).join("");
+      $("#mkind").innerHTML = `<option value="">Any kind</option>` + r.kinds.map((k) => `<option value="${esc(k.kind)}">${esc(nice(k.kind))} (${fmt(k.n)})</option>`).join("");
+      mOpts = true;
+    }
+    if (!r.total && !mOpts) { el.innerHTML = `<p class="muted">No market traders have been loaded yet.</p>`; return; }
+    el.innerHTML = `<p class="small muted">Traders as each market's own directory lists them, ranked by how many independent sources mention them.</p>
+      <div class="pager"><span>${fmt(r.total)} traders</span></div>
+      <table><tr><th>Trader</th><th>Market</th><th>Kind</th><th class="num">Sources</th><th>Mentioned by</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td>${link(x.url, x.name)}${x.description ? `<div class="small muted">${esc(x.description.length > 160 ? x.description.slice(0, 160) + "…" : x.description)}</div>` : ""}</td>
+        <td class="small">${esc(x.market)}</td><td class="small">${esc(nice(x.kind))}</td>
+        <td class="num">${fmt(Number(x.sources))}</td>
+        <td class="small muted">${esc((x.source_names || []).join(", "))}</td></tr>`).join("") || `<tr><td colspan="5" class="muted">No traders match.</td></tr>`}
+      </table>`;
   } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
 }
 
@@ -447,14 +558,21 @@ async function loadArticles() {
       return;
     }
     el.innerHTML = `<div class="pager"><span>${fmt(r.total)} articles</span></div>
-      <table><tr><th>Article</th><th>Section</th><th class="num">Entries</th><th class="num">Mentions</th><th>Updated</th></tr>
+      <table><tr><th>Article</th><th>Section</th><th class="num">Entries</th><th class="num">Mentions</th>${r.perf ? '<th class="num">Views, 28 days</th><th class="num">Search clicks</th><th class="num">Position</th><th class="num">Affiliate clicks</th>' : ""}<th>Updated</th></tr>
       ${r.rows.map((x) => `<tr class="click" data-slug="${esc(x.slug)}">
         <td>${esc(x.title)}${x.draft ? ' <span class="chip">draft</span>' : ""}${safeUrl(x.url) ? `<div class="small">${link(x.url, "on the site")}</div>` : ""}</td>
         <td class="small">${esc(x.category || "")}</td><td class="num">${fmt(x.entries)}</td><td class="num">${fmt(x.mentions)}</td>
+        ${r.perf ? `<td class="num">${x.views == null ? "" : fmt(x.views) + change(x.views, x.prev_views)}</td><td class="num">${x.search_clicks == null ? "" : fmt(x.search_clicks)}</td>
+          <td class="num">${x.search_position == null ? "" : Number(x.search_position).toFixed(1)}</td><td class="num">${x.affiliate_clicks == null ? "" : fmt(x.affiliate_clicks)}</td>` : ""}
         <td class="small">${day(x.updated_at || x.published_at)}</td></tr>`).join("") || `<tr><td colspan="5" class="muted">No articles match.</td></tr>`}
       </table>`;
     el.querySelectorAll("tr[data-slug]").forEach((tr) => tr.onclick = (ev) => { if (ev.target.tagName !== "A") openArticle(tr.dataset.slug); });
   } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
+function change(now, before) {
+  if (!before) return "";
+  const pct = Math.round((now - before) / before * 100);
+  return ` <span class="small ${pct < 0 ? "stale" : "muted"}">${pct > 0 ? "+" : ""}${pct}%</span>`;
 }
 async function openArticle(slug) {
   const el = $("#panel");
@@ -473,6 +591,15 @@ async function openArticle(slug) {
       <h2 style="margin-top:0">${esc(x.title)}</h2>
       <div>${x.category ? `<span class="chip">${esc(x.category)}</span>` : ""}${x.draft ? '<span class="chip">draft</span>' : ""}${(x.tags || []).map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>
       <dl>${safeUrl(x.url) ? `<dt>On the site</dt><dd>${link(x.url)}</dd>` : ""}${x.published_at ? `<dt>Published</dt><dd>${day(x.published_at)}</dd>` : ""}${x.updated_at ? `<dt>Updated</dt><dd>${day(x.updated_at)}</dd>` : ""}</dl>
+      ${d.stats ? `<h2>How it performs</h2><p class="small muted">28 days to ${day(d.stats.period_end)}</p>
+        <div class="grid">
+          <div class="card"><div class="muted small">Views</div><div class="big">${fmt(d.stats.views)}</div><div class="small">${d.stats.prev_views ? "previous 28 days " + fmt(d.stats.prev_views) : ""}</div></div>
+          <div class="card"><div class="muted small">Google clicks</div><div class="big">${fmt(d.stats.search_clicks)}</div><div class="small">${d.stats.search_impressions ? fmt(d.stats.search_impressions) + " impressions" : ""}</div></div>
+          <div class="card"><div class="muted small">Average position</div><div class="big">${d.stats.search_position == null ? "–" : Number(d.stats.search_position).toFixed(1)}</div></div>
+          <div class="card"><div class="muted small">Affiliate clicks</div><div class="big">${fmt(d.stats.affiliate_clicks)}</div></div>
+        </div>
+        ${(d.stats.top_queries || []).length ? `<h2>What people searched to find it</h2><table><tr><th>Search</th><th class="num">Clicks</th><th class="num">Impressions</th><th class="num">Position</th></tr>
+          ${d.stats.top_queries.map((t) => `<tr><td>${esc(t.query)}</td><td class="num">${fmt(t.clicks)}</td><td class="num">${fmt(t.impressions)}</td><td class="num">${t.position == null ? "" : Number(t.position).toFixed(1)}</td></tr>`).join("")}</table>` : ""}` : ""}
       ${group("entry", "Places with their own entry")}
       ${group("mention", "Places mentioned in the text")}`;
     el.querySelector(".close").onclick = () => el.classList.remove("open");
