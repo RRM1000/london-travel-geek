@@ -70,13 +70,18 @@ async function readWordpress(feed) {
       let url = p.link;
       if (!text(html)) ({ url, html } = await pageCopy(p.link, feed));
       const body = text(html);
+      const name = text(p.title?.rendered);
       const dates = datesIn(body, p.date);
+      // New Year's Eve pages often name only the year they welcome in.
+      if (!dates.length && /new year'?s eve|\bnye\b/i.test(name)) dates.push(datesIn("31 December", p.date)[0]);
+      // One date written as an opening ("arrives on", "from", "opens") starts a run with no end date.
+      const opening = dates.length === 1 && /\b(from|arrives?|opens?|launch(es)?|starts?|begins?)\b[^.]{0,40}\d{1,2}(st|nd|rd|th)?\s+[a-z]{3}/i.test(body);
       out.push({
-        venue_name: feed.venue, name: text(p.title?.rendered), type: "event",
-        starts_on: dates[0] ?? null, ends_on: dates.at(-1) ?? null, url, feed: feed.key,
+        venue_name: feed.venue, name, type: "event",
+        starts_on: dates[0] ?? null, ends_on: opening ? null : dates.at(-1) ?? null, url, feed: feed.key,
         external_id: `${feed.key}:${p.id}`,
         attributes: JSON.stringify({ dates, booking: html.match(BOOKING)?.[0] ?? null,
-          published: p.date, modified: p.modified, summary: body.slice(0, 400), evergreen: dates.length === 0 }),
+          published: p.date, modified: p.modified, summary: body.slice(0, 400), evergreen: dates.length === 0, openEnded: opening }),
       });
   }
   return out;
