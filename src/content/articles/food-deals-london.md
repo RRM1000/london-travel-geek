@@ -4,7 +4,7 @@ seoTitle: "London Food Deals 2026: 2-for-1, Discounts & Offers"
 description: "Restaurant offers across London: 2-for-1 deals, percentage-off offers, student and Blue Light discounts, deals for each day of the week, BYO nights, app sign-up rewards and birthday freebies, with the days, times and conditions."
 publishedAt: 2026-11-11
 updatedAt: 2026-11-21
-reviewBy: 2026-11-20
+reviewBy: 2026-11-30
 sites:
   - london
 canonicalSite: london
