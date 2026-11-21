@@ -133,8 +133,6 @@ The riverside restaurants are expensive. **Tower Bridge Collective at 1 Shad Tha
 
 **Walk it from the bridge**, two minutes away, and keep going east.
 
-![A narrow cobbled street between tall Victorian warehouses, crossed overhead by cast-iron gantry bridges](../../assets/articles/bermondsey-area-guide/shad-thames.jpg)
-
 ![Counters and communal tables inside the Tower Bridge Collective food hall on Horselydown Lane](../../assets/articles/bermondsey-area-guide/tower-bridge-collective.jpg)
 
 *Tower Bridge Collective, Horselydown Lane.*
