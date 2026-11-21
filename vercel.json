@@ -1,5 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)scripts/db' ':(exclude)supabase' ':(exclude)Open database viewer.cmd'",
   "redirects": [
     {
       "source": "/ads.txt",
