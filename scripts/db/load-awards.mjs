@@ -28,15 +28,20 @@ async function michelin() {
       const url = `${base}/${slug}${page > 1 ? `/page/${page}` : ""}`;
       const res = await fetch(url, { headers: { "user-agent": "curl/8.5.0", accept: "*/*" }, signal: AbortSignal.timeout(60000) });
       if (res.status === 404) break;
-      const html = await res.text();
-      if (!res.ok || html.length < 5000) throw new Error(`Michelin ${res.status} (${html.length} bytes) for ${url}`);
+      // each list page ends with a "Discover the newly added restaurants" carousel of other places
+      // (any level, even other cities), so read only what comes before it
+      const full = await res.text();
+      const cut = full.indexOf("Discover the newly added restaurants");
+      const html = cut > 0 ? full.slice(0, cut) : full;
+      if (!res.ok || full.length < 5000) throw new Error(`Michelin ${res.status} (${html.length} bytes) for ${url}`);
       const found = new Map();
       for (const m of html.matchAll(/<a[^>]+href="(\/gb\/en\/[^"]*\/restaurant\/[^"#?]+)"[^>]*>([\s\S]*?)<\/a>/g)) {
         const name = clean(m[2]);
         // each card also links its booking button ("Reserve a table") to the restaurant page
         if (name && name.length < 80 && !/^(reserve a table|book a table|book now|view|book & enjoy michelin specials)$/i.test(name) && !found.has(m[1])) found.set(m[1], name);
       }
-      for (const [href, name] of found) out.push({ award: "michelin", level, year, place_name: name, url: "https://guide.michelin.com" + href });
+      // the London list also carries a few Surrey places (Esher, Ewell)
+      for (const [href, name] of found) if (href.includes("/greater-london/")) out.push({ award: "michelin", level, year, place_name: name, url: "https://guide.michelin.com" + href });
       if (!found.size || !html.includes(`/page/${page + 1}`)) break;
     }
   }
