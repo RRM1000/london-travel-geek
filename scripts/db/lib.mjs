@@ -23,5 +23,7 @@ export async function connect() {
   const client = new pg.Client({ connectionString: process.env.DATABASE_URL,
     ssl: process.env.PGSSL === "off" ? false : { rejectUnauthorized: false } });
   await client.connect();
+  // Supabase's default statement timeout is too short for the bulk matching queries.
+  await client.query("set statement_timeout = '15min'");
   return client;
 }
