@@ -58,6 +58,7 @@
   <nav>
     <button data-tab="dash" class="on">Dashboard</button>
     <button data-tab="places">Places</button>
+    <button data-tab="newp">New places</button>
     <button data-tab="deals">Deals</button>
     <button data-tab="sources">Sources</button>
     <button data-tab="articles">Articles</button>
@@ -73,13 +74,25 @@
       <select id="pcat"><option value="">Any type</option></select>
       <select id="pbor"><option value="">Any borough</option></select>
       <select id="prec"><option value="">Recommended or not</option><option value="yes">Recommended</option><option value="no">Not recommended</option></select>
-      <select id="porig"><option value="">Any origin</option><option value="sheet">Our Sheet</option><option value="research">Research names</option><option value="fsa">Hygiene register (FSA)</option><option value="osm">OpenStreetMap</option><option value="other">Other</option></select>
+      <select id="porig"><option value="">Any origin</option><option value="sheet">Our Sheet</option><option value="research">Research names</option><option value="fsa">Hygiene register (FSA)</option><option value="osm">OpenStreetMap</option><option value="brand">Chain brands</option><option value="other">Other</option></select>
+      <select id="pchain"><option value="">Chains or not</option><option value="brand">Chain brands</option><option value="branch">Branches of a chain</option><option value="single">Not part of a chain</option></select>
       <select id="phyg"><option value="">Any hygiene rating</option><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option><option>0</option><option value="AwaitingInspection">Awaiting inspection</option><option>Exempt</option><option value="none">No rating</option></select>
       <select id="pweb"><option value="">Website or not</option><option value="yes">Has website</option><option value="no">No website</option></select>
       <select id="pstat"><option value="">Any status</option><option value="open">Open</option><option value="closed">Closed</option><option value="temporarily_closed">Temporarily closed</option><option value="unknown">Unknown</option></select>
       <button class="btn" id="preset">Clear</button>
     </div>
     <div id="plist"></div>
+  </section>
+  <section id="newp" hidden>
+    <div class="filters">
+      <input type="search" id="nq" placeholder="Name, area or postcode">
+      <select id="ndays"><option value="7">New in the last 7 days</option><option value="30" selected>New in the last 30 days</option><option value="90">New in the last 90 days</option><option value="">Any time</option></select>
+      <select id="nwhy"><option value="">Any reason</option></select>
+      <select id="ncat"><option value="">Any type</option></select>
+      <select id="nbor"><option value="">Any borough</option></select>
+      <label class="small"><input type="checkbox" id="narts"> Has an opening article</label>
+    </div>
+    <div id="nlist"></div>
   </section>
   <section id="deals" hidden>
     <div class="filters">
@@ -137,7 +150,7 @@ async function api(path, opts) {
   if (!r.ok) throw new Error(j.error || r.statusText);
   return j;
 }
-const ORIGINS = { sheet:"Our Sheet", research:"Research names", fsa:"Hygiene register", osm:"OpenStreetMap", other:"Other" };
+const ORIGINS = { sheet:"Our Sheet", research:"Research names", fsa:"Hygiene register", osm:"OpenStreetMap", brand:"Chain brands", other:"Other" };
 const TABLE_NAMES = { places:"Places", reviews:"Reviews and mentions", sources:"Sources", events:"Events", deals:"Deals", content_queue:"Content queue", tours:"Tours", market_traders:"Market traders", articles:"Articles on the site", article_places:"Places named in articles", sheet_extras:"Sheet work lists" };
 
 // Tabs
@@ -148,12 +161,13 @@ function show(tab) {
   try { localStorage.setItem("tab", tab); } catch {}
   if (tab === "dash") loadDash();
   if (tab === "places") loadPlaces();
+  if (tab === "newp") loadNew();
   if (tab === "deals") loadDeals();
   if (tab === "sources") loadSources();
   if (tab === "articles") loadArticles();
   if (tab === "queue") loadQueue();
 }
-const TABS = ["dash", "places", "deals", "sources", "articles", "queue"];
+const TABS = ["dash", "places", "newp", "deals", "sources", "articles", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -201,7 +215,7 @@ async function loadDash() {
 
 // Places
 let pPage = 0, optsLoaded = false, timer;
-const pIds = ["pq", "pcat", "pbor", "prec", "porig", "phyg", "pweb", "pstat"];
+const pIds = ["pq", "pcat", "pbor", "prec", "porig", "pchain", "phyg", "pweb", "pstat"];
 pIds.forEach((id) => $("#" + id).addEventListener(id === "pq" ? "input" : "change", () => { pPage = 0; clearTimeout(timer); timer = setTimeout(loadPlaces, id === "pq" ? 300 : 0); }));
 $("#preset").onclick = () => { resetPlaces(); loadPlaces(); };
 function resetPlaces() { pIds.forEach((id) => $("#" + id).value = ""); pPage = 0; }
@@ -217,14 +231,15 @@ async function loadPlaces() {
     } catch {}
   }
   const p = new URLSearchParams({ q:$("#pq").value.trim(), category:$("#pcat").value, borough:$("#pbor").value, recommended:$("#prec").value,
-    origin:$("#porig").value, hygiene:$("#phyg").value, website:$("#pweb").value, status:$("#pstat").value, page:pPage });
+    origin:$("#porig").value, hygiene:$("#phyg").value, website:$("#pweb").value, status:$("#pstat").value, chain:$("#pchain").value, page:pPage });
   const el = $("#plist");
   try {
     const r = await api("/api/places?" + p);
     el.innerHTML = `<div class="pager"><span>${fmt(r.total)} places</span>${pager(r.total, 100, r.page)}</div>
       <table><tr><th>Name</th><th>Type</th><th>Area</th><th>Postcode</th><th>Hygiene</th><th>Origin</th><th>Last checked</th><th>Website</th></tr>
       ${r.rows.map((x) => `<tr class="click" data-id="${x.id}">
-        <td>${x.recommended ? '<span class="chip rec">recommended</span>' : ""}${esc(x.name)}${x.status !== "open" ? ` <span class="chip">${esc(x.status)}</span>` : ""}</td>
+        <td>${x.recommended ? '<span class="chip rec">recommended</span>' : ""}${esc(x.name)}${x.status !== "open" ? ` <span class="chip">${esc(x.status)}</span>` : ""}
+          ${x.branches ? ` <span class="chip">chain · ${fmt(x.branches)} branches</span>` : ""}${x.brand ? `<div class="small muted">branch of ${esc(x.brand)}</div>` : ""}</td>
         <td>${esc(x.category)}${x.subcategory ? `<div class="small muted">${esc(x.subcategory)}</div>` : ""}</td>
         <td>${esc(x.area || "")}${x.borough ? `<div class="small muted">${esc(x.borough)}</div>` : ""}</td>
         <td>${esc(x.postcode)}</td><td>${esc(x.hygiene)}</td><td>${esc(ORIGINS[x.origin_group])}</td><td>${day(x.last_checked)}</td>
@@ -253,6 +268,7 @@ async function openPlace(id) {
       <h2 style="margin-top:0">${esc(x.name)}</h2>
       <div>${x.recommended ? '<span class="chip rec">recommended</span>' : ""}<span class="chip">${esc(x.category)}</span>${x.subcategory ? `<span class="chip">${esc(x.subcategory)}</span>` : ""}<span class="chip">${esc(x.status)}</span></div>
       <dl>
+        ${d.brand ? `<dt>Part of</dt><dd><a href="#" data-id="${d.brand.id}">${esc(d.brand.name)}</a> <span class="muted">(${fmt(d.brand.branches)} branches)</span></dd>` : ""}
         ${f("Address", esc([x.address, x.postcode].filter(Boolean).join(", ")))}
         ${f("Area", esc([x.area, x.borough].filter(Boolean).join(", ")))}
         ${f("Website", link(x.website))}${f("Phone", esc(x.phone))}${f("Price", esc(x.price_band))}
@@ -268,7 +284,7 @@ async function openPlace(id) {
       ${d.reviews.length ? `<table><tr><th>Source</th><th>Title</th><th>Date</th></tr>${d.reviews.map((r) => `<tr><td>${esc(r.source || "")}${r.tier ? ` <span class="chip">${esc(r.tier)}</span>` : ""}${r.paid ? ' <span class="chip">paid</span>' : ""}</td><td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td><td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None.</p>'}
       ${d.deals.length ? `<h2>Deals</h2><table><tr><th>Offer</th><th>When</th></tr>${d.deals.map((r) => `<tr><td>${link(r.source_url, r.offer || r.type)}${r.price ? ` <span class="chip">${esc(r.price)}</span>` : ""}</td><td class="small">${esc([r.days, r.times].filter(Boolean).join(", "))}${r.ends_on ? `<div class="muted">until ${day(r.ends_on)}</div>` : ""}</td></tr>`).join("")}</table>` : ""}
       ${d.events.length ? `<h2>Upcoming events</h2><table><tr><th>Event</th><th>Date</th></tr>${d.events.map((r) => `<tr><td>${link(r.url, r.name)}</td><td class="small">${day(r.starts_on)}</td></tr>`).join("")}</table>` : ""}
-      ${d.branches.length ? `<h2>Branches</h2><p>${d.branches.map((b) => `<a href="#" data-id="${b.id}">${esc(b.name)}</a> <span class="muted small">${esc(b.postcode)}</span>`).join("<br>")}</p>` : ""}
+      ${d.branches.length ? `<h2>Branches (${fmt(d.branches.length)})</h2><table>${d.branches.map((b) => `<tr><td><a href="#" data-id="${b.id}">${esc(b.name)}</a>${b.status !== "open" ? ` <span class="chip">${esc(b.status)}</span>` : ""}</td><td class="small muted">${esc([b.area, b.borough].filter(Boolean).join(", "))}</td><td class="small muted">${esc(b.postcode)}</td></tr>`).join("")}</table>` : ""}
       ${d.duplicates.length ? `<h2>Matched register rows</h2><p class="small">${d.duplicates.map((b) => `${esc(b.name)} <span class="muted">${esc(b.postcode)} · ${esc(b.origin)}${b.match ? " · " + esc(b.match.confidence) : ""}</span>`).join("<br>")}</p>` : ""}
       <h2>Everything else we hold</h2><pre>${esc(JSON.stringify(a, null, 2))}</pre>`;
     el.querySelector(".close").onclick = () => el.classList.remove("open");
@@ -277,6 +293,48 @@ async function openPlace(id) {
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
+
+// New places
+let nPage = 0, nOpts = false;
+["ndays", "nwhy", "ncat", "nbor", "narts"].forEach((id) => $("#" + id).addEventListener("change", () => { nPage = 0; loadNew(); }));
+$("#nq").addEventListener("input", () => { nPage = 0; clearTimeout(timer); timer = setTimeout(loadNew, 300); });
+const WHY = { "new on the hygiene register":"New on the hygiene register", "new on the map":"New on OpenStreetMap",
+  "awaiting its first hygiene inspection":"Awaiting its first hygiene inspection", "opening article":"Opening article" };
+const whyLabel = (w) => WHY[w] || (String(w).startsWith("new on the ") ? "Newly added to the database" : w);
+async function loadNew() {
+  if (!nOpts) {
+    try {
+      const o = await api("/api/options");
+      $("#ncat").innerHTML = `<option value="">Any type</option>` + o.categories.map((c) => `<option value="${esc(c.category)}">${esc(c.category)}</option>`).join("");
+      $("#nbor").innerHTML = `<option value="">Any borough</option>` + o.boroughs.map((b) => `<option value="${esc(b.borough)}">${esc(b.borough)}</option>`).join("");
+      nOpts = true;
+    } catch {}
+  }
+  const p = new URLSearchParams({ q:$("#nq").value.trim(), days:$("#ndays").value, why:$("#nwhy").value, category:$("#ncat").value,
+    borough:$("#nbor").value, articles:$("#narts").checked ? "1" : "", page:nPage });
+  const el = $("#nlist");
+  try {
+    const r = await api("/api/new-places?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">New places are still being set up in the database. Check back in a few minutes.</p>`; return; }
+    const keep = $("#nwhy").value;
+    $("#nwhy").innerHTML = `<option value="">Any reason</option>` + r.why.map((w) => `<option value="${esc(w.why_new)}">${esc(whyLabel(w.why_new))} (${fmt(w.n)})</option>`).join("");
+    $("#nwhy").value = keep;
+    el.innerHTML = `<div class="pager"><span>${fmt(r.total)} new places</span>${pager(r.total, 100, r.page)}</div>
+      <table><tr><th>Place</th><th>Type</th><th>Area</th><th>Why it's new</th><th>Newest sign</th><th>Opening articles</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td><span class="chip rec">new</span><a href="#" data-place="${x.id}">${esc(x.name)}</a>${x.recommended ? ' <span class="chip">recommended</span>' : ""}
+          ${safeUrl(x.website) ? `<div class="small">${link(x.website, new URL(x.website).hostname.replace(/^www\./, ""))}</div>` : ""}</td>
+        <td>${esc(x.category)}</td>
+        <td>${esc(x.area || "")}${x.borough ? `<div class="small muted">${esc(x.borough)}</div>` : ""}<div class="small muted">${esc(x.postcode)}</div></td>
+        <td class="small">${esc(whyLabel(x.why_new))}${x.register_date ? `<div class="muted">register date ${day(x.register_date)}</div>` : ""}</td>
+        <td class="small">${day(x.newest_signal)}</td>
+        <td class="small">${(x.opening_articles || []).map((a) => `<div>${link(a.url, a.title || a.url)}<span class="muted">${a.creator ? " · " + esc(a.creator) : ""}${a.published_on ? " · " + day(a.published_on) : ""}</span></div>`).join("")}</td>
+      </tr>`).join("") || `<tr><td colspan="6" class="muted">No new places match.</td></tr>`}
+      </table><div class="pager">${pager(r.total, 100, r.page)}</div>`;
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+    el.querySelectorAll("[data-page]").forEach((b) => b.onclick = () => { nPage = Number(b.dataset.page); loadNew(); scrollTo(0, 0); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
 
 // Deals
 let dOpts = false;

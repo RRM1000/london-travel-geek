@@ -1,5 +1,5 @@
 // A private viewer for the London Travel Geek database: a dashboard, place search, deals,
-// sources, articles and the content queue.
+// new places, sources, articles and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
 // only (127.0.0.1) and writes nothing except content_queue.status when a queue button is pressed.
@@ -44,7 +44,7 @@ const q = async (sql, params = []) => (await pool.query(sql, params)).rows;
 const TABLES = ["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places", "sheet_extras"];
 const CHECKED = new Set(["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places"]);
 
-const ORIGIN_GROUP = `case when origin = 'fsa' then 'fsa' when origin = 'osm' then 'osm'
+const ORIGIN_GROUP = `case when origin = 'fsa' then 'fsa' when origin = 'osm' then 'osm' when origin = 'brand' then 'brand'
   when origin = 'data/evidence.json' then 'research' when origin like 'sheet:%' then 'sheet' else 'other' end`;
 
 async function summary() {
@@ -91,11 +91,15 @@ async function places(p) {
   if (p.website === "yes") where.push(`coalesce(website, '') <> ''`);
   if (p.website === "no") where.push(`coalesce(website, '') = ''`);
   if (p.status) add(`status = $?`, p.status);
+  if (p.chain === "brand") where.push(`(origin = 'brand' or attributes ? 'branches')`);
+  if (p.chain === "branch") where.push(`parent_id is not null`);
+  if (p.chain === "single") where.push(`parent_id is null and origin <> 'brand' and not attributes ? 'branches'`);
   const w = where.length ? `where ${where.join(" and ")}` : "";
   const page = Math.max(0, Number(p.page) || 0);
   const order = p.q ? `order by (lower(name) = lower($${args.push(p.q)})) desc, recommended desc, name` : "order by recommended desc, name";
   const rows = await q(`select id, name, category, subcategory, status, recommended, area, borough, postcode, website,
-      ${ORIGIN_GROUP} origin_group, attributes->'fsa'->>'hygieneRating' hygiene, last_checked
+      ${ORIGIN_GROUP} origin_group, attributes->'fsa'->>'hygieneRating' hygiene, last_checked,
+      (attributes->>'branches')::int branches, (select b.name from public.places b where b.id = places_browse.parent_id) brand
     from public.places_browse ${w} ${order} limit 100 offset ${page * 100}`, args);
   const [{ n }] = await q(`select count(*)::int n from public.places_browse ${w}`, p.q ? args.slice(0, -1) : args);
   return { rows, total: n, page };
@@ -110,11 +114,14 @@ async function place(id) {
   const events = await q(`select name, type, starts_on, ends_on, url from public.events where place_id = $1 and (ends_on is null or ends_on >= current_date)
     order by starts_on nulls last limit 50`, [id]);
   const duplicates = await q(`select id, name, origin, postcode, attributes->'match' match from public.places where duplicate_of = $1`, [id]);
-  const branches = await q(`select id, name, postcode from public.places where parent_id = $1 order by name limit 100`, [id]);
+  const branches = await q(`select id, name, postcode, area, borough, status from public.places where parent_id = $1 and duplicate_of is null
+    order by area nulls last, name limit 500`, [id]);
+  const [brand] = row.parent_id ? await q(`select id, name, (select count(*)::int from public.places c where c.parent_id = b.id) branches
+    from public.places b where b.id = $1`, [row.parent_id]) : [];
   // Articles on the site that name this place; a branch shows its brand's articles.
   const appears = await q(`select article_slug, title, url, kind, heading, updated_at, draft from public.place_articles
     where place_id = $1 order by kind, title`, [row.parent_id || row.id]).catch(() => []);
-  return { row, reviews, deals, events, duplicates, branches, appears };
+  return { row, reviews, deals, events, duplicates, branches, brand, appears };
 }
 
 async function queue(p) {
@@ -231,6 +238,27 @@ async function article(slug) {
   return { row, places };
 }
 
+// Places that look new (the new_places view): newest signal first.
+async function newPlaces(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  const days = Number(p.days);
+  if (days > 0) add(`newest_signal >= current_date - $?::int`, days);
+  if (p.why) add(`why_new = $?`, p.why);
+  if (p.category) add(`category = $?`, p.category);
+  if (p.borough) add(`borough = $?`, p.borough);
+  if (p.q) add(`(name ilike $? or area ilike $? or postcode ilike $?)`, `%${p.q}%`);
+  if (p.articles === "1") where.push(`opening_articles is not null`);
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const page = Math.max(0, Number(p.page) || 0);
+  const rows = await q(`select id, name, category, area, borough, postcode, website, origin, recommended, first_seen, why_new,
+      register_date, opening_articles, newest_signal
+    from public.new_places ${w} order by newest_signal desc nulls last, name limit 100 offset ${page * 100}`, args);
+  const [{ n }] = await q(`select count(*)::int n from public.new_places ${w}`, args);
+  const why = await q(`select why_new, count(*)::int n from public.new_places group by 1 order by 2 desc`);
+  return { rows, total: n, page, why };
+}
+
 async function setStatus(id, status) {
   if (!["new", "added", "rejected"].includes(status)) throw new Error("status must be new, added or rejected");
   const rows = await q(`update public.content_queue set status = $2 where id = $1 returning id, status`, [id, status]);
@@ -270,6 +298,10 @@ const server = http.createServer(async (req, res) => {
     if (req.method === "GET" && u.pathname.startsWith("/api/articles/")) {
       const r = await article(decodeURIComponent(u.pathname.slice("/api/articles/".length)));
       return r ? send(res, 200, r) : send(res, 404, { error: "not found" });
+    }
+    if (req.method === "GET" && u.pathname === "/api/new-places") {
+      try { return send(res, 200, await newPlaces(p)); }
+      catch (e) { if (/does not exist/.test(e.message)) return send(res, 200, { rows: [], total: 0, page: 0, why: [], missing: true }); throw e; }
     }
     if (req.method === "GET" && u.pathname === "/api/queue") return send(res, 200, await queue(p));
     if (req.method === "POST" && (m = u.pathname.match(/^\/api\/queue\/(\d+)$/))) {
