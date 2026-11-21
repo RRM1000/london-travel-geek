@@ -95,7 +95,7 @@ Most of these need the card or account in your phone before you sit down. **UNiD
 | [Las Iguanas](https://www.iguanas.co.uk/offers) | 40% off food and drink | Sunday to Thursday, until 26 November 2026 | Student ID. All branches |
 | [Shoryu Ramen](https://www.shoryuramen.com/deals) | 30% off food Monday to Wednesday, 15% off Thursday to Sunday | Every day | Valid Student Beans ID; tables up to six; not on set menus; can be combined with happy hour. All branches |
 | [Frankie & Benny's](https://www.frankieandbennys.com/student-discount) | 30% off food | Any day | Valid student ID; sign up for a code. All branches |
-| [Byron](https://www.byron.co.uk/byron-club) | 25% off food | All week | Byron Club member and student. All branches |
+| [Byron](https://www.byron.co.uk/students) | 25% off food | Every day | Student Byron Club: show the welcome email and student ID. All branches |
 | [Yo! Sushi](https://yosushi.com/restaurants/offers) | 25% off | — | Student ID. All branches |
 | [Ivan Ramen](https://www.ivanramen.co.uk/student-offer) | 25% off ramen | Monday to Friday, noon to 5pm | Valid student ID; ramen only; dine-in only. 98 Farringdon Road, Clerkenwell |
 | [Bone Daddies](https://bonedaddies.com/home/app/) | 20% off | — | Register with a university email. All branches |
@@ -221,7 +221,6 @@ Offers that run on one named day are below, with the deals that run on a handful
 | Restaurant | Deal | When | Condition and where |
 | --- | --- | --- | --- |
 | [Ixchel](https://www.ixchellondon.com/whats-on) | £5 tacos and quesadillas, with an £8 Tommy's Margarita | Monday to Friday, 3pm to 5pm | King's Road, Chelsea |
-| [Byron](https://www.byron.co.uk/menu) | Smash burger and fries lunch deal, £9.95 | Monday to Friday, noon to 4pm | All branches |
 | [CRATE Brewery](https://www.cratebrewery.com/pages/perks) | £5 Margherita pizzas | Monday to Wednesday, noon to 4pm | Crate Perks membership; excludes bank holidays. Hackney Wick |
 | [ICCO](https://www.icco.co.uk/) | Roll a six before six: roll two dice in store and a six wins a free pizza | Monday to Wednesday, 3pm to 5pm | In store. All branches, Fitzrovia |
 | [Tavern, The Tiger](https://www.urbanpubsandbars.com/whats-on) | Any pizza for £10 | Monday to Thursday, noon to 4pm | The Tiger, Camberwell |
@@ -311,7 +310,6 @@ Offers that run on one named day are below, with the deals that run on a handful
 
 | Restaurant | What you get | Condition and where |
 | --- | --- | --- |
-| [Byron](https://www.byron.co.uk/byron-club) | A free birthday burger | Byron Club membership. All branches |
 | [Las Iguanas](https://www.iguanas.co.uk/) | A £20 birthday voucher | Las Iguanas app. All branches |
 | [The Dickens Inn](https://www.dickensinn.co.uk/) | A free bottle of prosecco | Membership required. Wapping |
 | [TGI Fridays](https://www.tgifridays.co.uk/rewards) | A free dessert | Stripes Rewards. All branches |

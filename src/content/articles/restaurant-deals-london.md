@@ -120,7 +120,7 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 | **[Banana Tree](https://bananatree.co.uk/)** | Express lunch with a soft drink, from £10.95 | Sun–Fri 12–4pm |
 | **[Frankie & Benny's](https://www.frankieandbennys.com/offers)** | Set lunch from £9.95 | Mon–Fri 11am–3pm |
 | **[The Real Greek](https://www.therealgreek.com/offers/)** | £13.95 souvlaki grill plate or wrap lunch; £24pp Filoxenia meze menu all day | Lunch Mon–Fri 12–5pm, not bank holidays |
-| **[Zizzi](https://www.zizzi.co.uk/offers)** | Lunch from £15.95 for two courses; three-course set menu £28.95 | Lunch Mon–Fri until 5pm; set menu daily |
+| **[Zizzi](https://www.zizzi.co.uk/offers)** | Two Dine for £25: a pizza to share, two sides and two soft drinks | Mon–Fri until 5pm, until 3 December 2026 |
 | **[Mowgli](https://mowglistreetfood.com/menus/)** | £15pp Lunch Street Feast, any three dishes | Lunch |
 | **[Noci](https://nocirestaurant.co.uk/menu/)** | £17 for two courses of pasta | Mon–Fri 12–5.30pm. Islington, Battersea, Shoreditch, Richmond |
 | **[Big Mamma](https://www.bigmammagroup.com/italian-restaurants/gloria-london)** | Pranzetto lunch from £17 at Gloria, Ave Mario, Jacuzzi and Barbarella; £27 at Carlotta | Mon–Fri lunch |
@@ -169,7 +169,7 @@ Each of these was listed on the restaurant's own site in November 2026.
 | **[Arros QD](https://www.arrosqd.com/menus/lunch-menu/)**, Fitzrovia | £29 / 2, £34 / 3 | Mon–Fri 12–3pm |
 | **[Arlington](https://www.arlington.london/menus/)**, St James's | £29 / 2, £34 / 3 "Classics" | Sat–Sun 11.30am–3pm |
 | **[Chucs](https://www.chucsrestaurants.com/restaurant/mayfair/)**, Mayfair | £30 / 2, £35 / 3 | Up to four |
-| **[Il Gattopardo](https://gattopardo.restaurant/whats-on-mayfair/)**, Mayfair | £34 / 2, £38 / 3 | Daily 12–3pm |
+| **[Il Gattopardo](https://gattopardo.restaurant/wp-content/uploads/2026/06/Il-Gattopardo-Mayfair-Set-Lunch-Menu.pdf)**, Mayfair | £34 / 2, £38 / 3 | Lunch |
 | **[Bacchanalia](https://bacchanalia.co.uk/lunch/)**, Mayfair | £39 / 2, £44 / 3 | Mon–Fri 12–4.30pm |
 | **[Nobu Old Park Lane](https://www.noburestaurants.com/london-old-park-lane/home)**, Mayfair | £40 Signature Lunch of Nobu classics | Mon–Fri lunch |
 | **[Jamavar](https://jamavarrestaurants.com/london/whats-on/lunch-and-early-evening-at-jamavar/)**, Mayfair | £47–£54 for three or four courses | Daily 12–2.30pm and 5.30–6.30pm |
@@ -232,12 +232,10 @@ Pre-theatre menus run in the early evening, usually finishing by about 6.30pm.
 | **[Town](https://town.restaurant/)**, Covent Garden | £32 snack and 2 courses, £38 with 3 | Mon–Sat 5–6pm. Up to four |
 | **[Poon's](https://www.poonslondon.com/restaurant/menu)**, Covent Garden | £32pp set menu | Lunch, or dinner until 6.30pm |
 | **[Dim Sum Library](https://dimsumlibrary.co.uk/events/)**, Covent Garden | Theatre menu from £32pp | Mon–Fri from 5pm |
-| **[Byron](https://www.byron.co.uk/menu)**, Covent Garden and Tottenham Court Road | £18.95 / 2, £23.50 / 3 | Pre-theatre |
 | **[Locatelli at The National Gallery](https://locatelliatnationalgallery.co.uk/pre-theatre-dinner-london/)**, Trafalgar Square | £25 / 2, £31 / 3 | Sun–Thu 3–4.30pm, Fri–Sat 3–6pm |
 | **[Veeraswamy](https://www.veeraswamy.com/menu/pre-theatre-dinner/)**, Regent Street | £40 / 2, £45 / 3 | Daily 5.30–6.15pm, and 9.15–10pm after the show |
 | **[Norma](https://normalondon.com/event/pre-theatre-dining/)**, Fitzrovia | £28 / 2, £34 / 3 | Mon–Fri until 5.30pm. Up to six |
 | **[Dalloway Terrace](https://dallowayterrace.com/whats-on/)**, Bloomsbury | £29 / 2, £35 / 3 | Mon–Fri from 5pm |
-| **[Il Gattopardo](https://gattopardo.restaurant/whats-on-mayfair/)**, Mayfair | £38 / 3 courses | Sun–Wed 5–6.45pm |
 | **[Caravan](https://caravanandco.com/pages/exmouth-market)**, Exmouth Market | £25 / 2, £29 / 3, for Sadler's Wells | Mon–Fri from noon; Sat–Sun from 5pm |
 | **[Ottolenghi](https://ottolenghi.co.uk/pages/restaurants/islington)**, Islington | £36pp sharing menu | Mon–Fri 5.30–6.30pm |
 | **[Cafe La Divina](https://ladivina.co.uk/whats-on-islington.php)**, Islington | £30.95 / 2 courses and a drink | Sun–Thu, not bank holidays or the festive season |
