@@ -3,8 +3,9 @@
 #   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json, and new
 #                          videos, blog articles and TikTok posts into content_queue.
 #   Whenever an article changes on main: which places appear in which articles (articles, article_places).
-#   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues),
-#            then the weekly recheck (businesses that left the register, the oldest-checked queue).
+#   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues), stations,
+#            Michelin awards, then the weekly recheck (possible closures, nearest stations, chains,
+#            the oldest-checked queue).
 # The What's On listings are copied in by the "Refresh listings" workflow straight after it runs.
 #
 # Needs one repository secret (Settings > Secrets and variables > Actions):
@@ -85,6 +86,13 @@ jobs:
         if: env.WEEKLY == 'true'
         continue-on-error: true # Overpass is sometimes busy; next week's run catches up
         run: node scripts/db/load-osm.mjs
+
+      - name: Stations and awards
+        if: env.WEEKLY == 'true'
+        continue-on-error: true # Overpass or the Michelin site can be busy; next week catches up
+        run: |
+          node scripts/db/load-stations.mjs
+          node scripts/db/load-awards.mjs
 
       - name: Weekly recheck
         if: env.WEEKLY == 'true'
