@@ -37,12 +37,8 @@ faq:
     a: "No. The VAT refund for visitors ended in Great Britain on 1 January 2021. The one tax-free route is a shop shipping your purchase to an address outside the UK, which Selfridges, Harrods and fourteen Bicester Village boutiques do."
   - q: "Are there Black Friday deals on West End theatre tickets?"
     a: "Yes. London Box Office has a Black Friday 2026 page listing discounts including Million Dollar Quartet at 75% off, The Play That Goes Wrong and Beetlejuice at 64% off, Oh, Mary! at 56% off and Matilda at 51% off."
-heroImage: "../../assets/articles/black-friday-london/oxford-circus-christmas-lights.jpg"
-heroImageAlt: "Oxford Circus at night, with strings of star-shaped Christmas lights over the street and crowds of shoppers on the pavements and crossing the road"
-heroImageCredit: "Simon Burchell"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights,_Oxford_Circus.jpg"
-heroImageLicense: "CC BY-SA 4.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
+heroImage: "../../assets/articles/black-friday-london/black-friday-sale-window.jpg"
+heroImageAlt: "A Calvin Klein shop window with a red Black Friday poster offering up to 50% off, beside three mannequins in winter jackets"
 ---
 
 > 💡 **The Short Version:** **Black Friday is Friday 27 November 2026** and Cyber Monday is **30 November**, but most deals are already on. **[London Designer Outlet](#london-designer-outlet)** lists offers from adidas (up to 50% off on a spend-more tier), Calvin Klein, Clarks, Puma and Tommy Hilfiger, most to 30 November; **[Bicester Village](#bicester-village)** has up to 50% off the original retail price until 30 November. **Uber Boat by Thames Clippers** takes 25% off river tickets with code **BF25** until 29 November. **[Selfridges](https://www.selfridges.com/GB/en/features/info/stores/london/) stays open to 10pm**, and the Westfield centres and London Designer Outlet close at 9pm that Friday. **There is no VAT refund for visitors**, so the discount on the ticket is the only saving.
@@ -152,6 +148,10 @@ The [Uber Boat code](#attractions-passes-and-tours) below gets you there by rive
 ### Oxford Street
 
 **Oxford Street's own advice is to arrive after 9.30am.** That misses the rush hour and puts you on the street as the shops, most of which open at 10am, start trading. Since Monday 26 October the stretch between Orchard Street, beside Selfridges, and Great Portland Street has been closed to cars, buses, taxis and bicycles, which leaves the whole width of the street to walk on. Our [Oxford Street guide](/articles/oxford-street-guide/) covers the closure, the bus changes and which Tube station to use for which end.
+
+![Oxford Circus at night, with strings of star-shaped Christmas lights over the street and crowds of shoppers on the pavements and crossing the road](../../assets/articles/black-friday-london/oxford-circus-christmas-lights.jpg)
+
+*Christmas lights at Oxford Circus. Photo: Simon Burchell, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christmas_lights,_Oxford_Circus.jpg).*
 
 **John Lewis** is open **10am to 8pm Monday to Wednesday, Friday and Saturday, 10am to 9pm on Thursday, and 11.30am to 6pm on Sunday**, per its [store page](https://www.johnlewis.com/our-shops/oxford-street).
 
