@@ -2,6 +2,7 @@
 #
 #   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json, and new
 #                          videos, blog articles and TikTok posts into content_queue.
+#   Whenever an article changes on main: which places appear in which articles (articles, article_places).
 #   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues),
 #            then the weekly recheck (businesses that left the register, the oldest-checked queue).
 # The What's On listings are copied in by the "Refresh listings" workflow straight after it runs.
@@ -17,12 +18,15 @@ on:
   schedule:
     - cron: "40 5 * * 1,4" # Mon and Thu 05:40 UTC, after the listings refresh
     - cron: "10 3 * * 0"   # Sundays 03:10 UTC
+  push:
+    branches: [main]
+    paths: ["src/content/articles/**"]
   workflow_dispatch:
     inputs:
       job:
         description: "Which part to run"
         type: choice
-        options: [feeds, weekly, all]
+        options: [feeds, weekly, articles, all]
         default: all
 
 permissions:
@@ -40,6 +44,7 @@ jobs:
       DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
       WEEKLY: ${{ github.event.schedule == '10 3 * * 0' || inputs.job == 'weekly' || inputs.job == 'all' }}
       FEEDS: ${{ github.event.schedule == '40 5 * * 1,4' || inputs.job == 'feeds' || inputs.job == 'all' }}
+      ARTICLES: ${{ github.event_name == 'push' || github.event.schedule == '10 3 * * 0' || inputs.job == 'articles' || inputs.job == 'all' }}
     steps:
       - uses: actions/checkout@v6
         with:
@@ -53,6 +58,10 @@ jobs:
         run: |
           if [ -z "$DATABASE_URL" ]; then echo "::error::Add the SUPABASE_DB_URL repository secret first."; exit 1; fi
           npm install --no-save pg
+
+      - name: Places in articles
+        if: env.ARTICLES == 'true'
+        run: node scripts/db/sync-articles.mjs
 
       - name: Venue event feeds
         if: env.FEEDS == 'true'
