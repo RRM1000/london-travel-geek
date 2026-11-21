@@ -33,7 +33,8 @@ async function michelin() {
       const found = new Map();
       for (const m of html.matchAll(/<a[^>]+href="(\/gb\/en\/[^"]*\/restaurant\/[^"#?]+)"[^>]*>([\s\S]*?)<\/a>/g)) {
         const name = clean(m[2]);
-        if (name && name.length < 80 && !found.has(m[1])) found.set(m[1], name);
+        // each card also links its booking button ("Reserve a table") to the restaurant page
+        if (name && name.length < 80 && !/^(reserve a table|book a table|book now|view|book & enjoy michelin specials)$/i.test(name) && !found.has(m[1])) found.set(m[1], name);
       }
       for (const [href, name] of found) out.push({ award: "michelin", level, year, place_name: name, url: "https://guide.michelin.com" + href });
       if (!found.size || !html.includes(`/page/${page + 1}`)) break;
