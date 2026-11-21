@@ -49,7 +49,8 @@ Japanese food in London splits by **format**, not by price. A seven-seat sushi c
 | **Soho & Piccadilly** | Engawa |
 | **Chelsea & Kensington** | Dinings SW3, Akira at Japan House |
 | **The City** | SUSHISAMBA |
-| **Bloomsbury & Holborn** | Koya Ko, Cocoro |
+| **Bloomsbury & Holborn** | Cocoro |
+| **Hackney** | Koya Ko (Broadway Market) |
 | **Islington & north** | Jin Kichi (Hampstead), Monohon Ramen |
 | **Covent Garden** | Kanada-Ya |
 | **South London** | Kurisu Omakase (Brixton) |
@@ -315,16 +316,14 @@ Order the **tonkotsu ramen**: pork-bone broth boiled until it turns opaque, thin
 **Ramen with the noodles made in house every day**, named by four independent sources.
 
 The core bowls are **shouyu tonkotsu** (soy seasoning in a creamy pork-bone soup) and a spicy version, with soupless **abura soba** and mazemen on the menu too.
-![Ramo Ramen - Soho in London](../../assets/articles/best-japanese-restaurants-london/ramo-ramen.jpg)
 
 **£, walk-in only.** Old Street.
-*Ramo Ramen - Soho.*
 
-### Koya Ko, Bloomsbury
+### Koya Ko, Hackney
 
-![Koya Japanese Restaurant Hackney in London](../../assets/articles/best-japanese-restaurants-london/koya-ko.jpg)
+![Diners at red pavement tables under blue and white striped awnings outside Koya Ko](../../assets/articles/best-japanese-restaurants-london/koya-ko.jpg)
 
-*Koya Japanese Restaurant Hackney.*
+*Koya Ko on Broadway Market Mews.*
 
 *£ · udon* · Cited by 2 sources
 
@@ -332,7 +331,7 @@ The core bowls are **shouyu tonkotsu** (soy seasoning in a creamy pork-bone soup
 
 The udon is made in-house and cut by hand. The classic order is **kake udon**, hot dashi and nothing else. **Kamatama**, the raw-egg version, and a walnut miso are the two to try after it.
 
-**£, walk-in.** There are several Koya sites; this one and the Broadway Market outpost avoid the Soho queue.
+**£, walk-in.** Koya Ko, at 10–12 Broadway Market Mews, is the casual sister of Koya's Soho and City restaurants, and has none of the Soho queue.
 
 ### Cocoro, Bloomsbury
 
@@ -357,7 +356,7 @@ Neither sushi counter nor ramen shop: **everyday Japanese home cooking**.
 #### Under £15
 
 * **Kanada-Ya**, Covent Garden — eighteen-hour tonkotsu ramen.
-* **Koya Ko**, Bloomsbury — hand-cut udon, with a cheaper breakfast service.
+* **Koya Ko**, Hackney — hand-cut udon on Broadway Market Mews.
 * **Marugame Udon** — a canteen where you walk the line watching the noodles being cut, under £12, with sites across London.
 * **Monohon** and **Tonkotsu** — ramen at around the same money.
 
