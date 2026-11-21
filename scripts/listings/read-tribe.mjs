@@ -72,7 +72,10 @@ async function readSite(site) {
     if (longRun) skipped.longRun++;
     if (isCinemaRun({ category, performances })) { skipped.cinema++; continue; }
     const values = (e.cost_details?.values ?? []).map(Number).filter((n) => !Number.isNaN(n));
-    const [lo, hi] = values.length ? [Math.min(...values), Math.max(...values)] : priceRange(e.cost);
+    // The printed cost first: the parsed values have run "£5 – £10" together
+    // into 510 (Chats Palace, November 2026).
+    const printed = priceRange(e.cost);
+    const [lo, hi] = printed.length ? printed : values.length ? [Math.min(...values), Math.max(...values)] : [];
     rows.push(listing({
       id: `tribe:${new URL(o).hostname}:${e.id}`,
       title, category, genre,

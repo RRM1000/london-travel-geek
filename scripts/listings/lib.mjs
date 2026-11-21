@@ -62,7 +62,9 @@ export function plain(html) {
 /** Lowest and highest £ amounts in a price string; "free" gives 0. */
 export function priceRange(text) {
   const t = plain(text);
-  const nums = [...t.matchAll(/£\s?(\d+(?:\.\d{1,2})?)/g)].map((m) => +m[1]);
+  // "£5-10" and "£5 – 10" are a range: the second figure has no £ of its own.
+  const nums = [...t.matchAll(/£\s?(\d+(?:\.\d{1,2})?)(?:\s*[-–—]\s*(\d+(?:\.\d{1,2})?)\b)?/g)]
+    .flatMap((m) => (m[2] ? [+m[1], +m[2]] : [+m[1]]));
   if (!nums.length && /^\s*\d+(\.\d{1,2})?\s*$/.test(t)) nums.push(+t);
   if (!nums.length) return /\bfree\b/i.test(t) ? [0, 0] : [];
   return [Math.min(...nums), Math.max(...nums)];
@@ -126,7 +128,10 @@ export function envKey(name) {
 const CATEGORY_RULES = [
   ["family", /\b(family|kids?|children'?s|toddler|under[- ]?5s|baby|babies)\b/i],
   ["opera", /\bopera\b/i],
-  ["classical", /\b(classical|orchestra|symphony|chamber|choir|choral|recital|baroque|string quartet|proms?)\b/i],
+  // A class, not a show; "other" here is final, so a gallery's yoga night is
+  // not filed as an exhibition and a healing session as music.
+  ["other", /\b(yoga|pilates|meditation|breathwork|kundalini|reiki|sound ?bath|energy healing|tai chi|qi ?gong)\b/i],
+  ["classical", /\b(classical|orchestra|symphony|chamber|choir|choral|recital|baroque|string quartet|(wind|brass|string|baroque) ensemble|concerto|sonata|capriccio|proms?)\b/i],
   ["comedy", /\b(comedy|comedian|stand[- ]?up|improv|sketch)\b/i],
   ["dance", /\b(dance|ballet|contemporary dance)\b/i],
   ["club night", /\b(club ?night|dj|techno|house music|clubbing|rave|drum (and|&|n) bass)\b/i],
@@ -143,12 +148,15 @@ const CATEGORY_RULES = [
 /** A category from whatever genre, type and title text a source gives.
  *  Genre text is tried before the title, so a venue's own label wins over a
  *  word that happens to be in a show's name. */
-export function categorise(genre, ...texts) {
+function match(genre, ...texts) {
   for (const t of [genre, texts.filter(Boolean).join(" | ")]) {
     if (!t) continue;
     for (const [cat, re] of CATEGORY_RULES) if (re.test(t)) return cat;
   }
-  return "other";
+  return null;
+}
+export function categorise(genre, ...texts) {
+  return match(genre, ...texts) ?? "other";
 }
 
 // When nothing in the text decides it, the kind of venue usually does.
@@ -158,8 +166,7 @@ const KIND_DEFAULT = {
   museum: "exhibition", stadium: "sport", arena: "music",
 };
 export function categoryFor(venueKind, genre, ...texts) {
-  const c = categorise(genre, ...texts);
-  return c === "other" ? KIND_DEFAULT[venueKind] ?? "other" : c;
+  return match(genre, ...texts) ?? KIND_DEFAULT[venueKind] ?? "other";
 }
 
 // --- what is left out -----------------------------------------------------
