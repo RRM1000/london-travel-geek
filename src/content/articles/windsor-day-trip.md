@@ -3,8 +3,8 @@ title: "Windsor from London: The Castle, the Trains and the Rest of the Day"
 seoTitle: "Windsor Day Trip from London: Trains and Tickets"
 description: "Windsor Castle is £32 in advance and shut every Tuesday and Wednesday. Contactless works to both Windsor stations — £7.90 off-peak from Paddington — and St George's Chapel is closed to visitors on Sundays."
 publishedAt: 2026-07-12
-updatedAt: 2026-10-26
-reviewBy: 2026-11-21
+updatedAt: 2026-11-21
+reviewBy: 2026-12-04
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -154,7 +154,7 @@ And for LEGOLAND, <a href="https://www.getyourguide.com/activity/-t645578?partne
 
 The State Apartments stop admitting 30 minutes after the last admission time. Tickets carry a **timed entry slot**.
 
-**The Castle is shut from Thursday 24 to Saturday 26 December 2026.** The **Semi-State Rooms**, George IV's private rooms, are open until **22 March 2027**, except on 20 November, 4, 10 and 14 December 2026 and 5 and 19 February 2027. St George's Chapel closes at 12:00 on Monday 7 December. On days when parts of the Castle are shut, a reduced admission price applies.
+**The Castle is shut from Thursday 24 to Saturday 26 December 2026.** The **Semi-State Rooms**, George IV's private rooms, are open until **22 March 2027**, except on 4, 10 and 14 December 2026 and 5 and 19 February 2027. St George's Chapel closes at 12:00 on Monday 7 December. On days when parts of the Castle are shut, a reduced admission price applies.
 
 ### What you actually see
 

@@ -3,8 +3,8 @@ title: "LEGOLAND Windsor from London: Tickets, Trains, Height Limits and Queues"
 seoTitle: "LEGOLAND Windsor Tickets and Travel from London"
 description: "LEGOLAND Windsor costs from £32 booked online at least a day ahead and £68 on the day. The train-and-bus route from Paddington or Waterloo, the 702 bus from Victoria, every height limit, Fastrack prices and the 2026–27 closed dates."
 publishedAt: 2026-10-03
-updatedAt: 2026-11-02
-reviewBy: 2026-11-20
+updatedAt: 2026-11-21
+reviewBy: 2026-12-18
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -28,7 +28,7 @@ faq:
   - q: "Can you take a picnic into LEGOLAND Windsor?"
     a: "Yes. Food from outside is allowed. There is little covered seating, the lockers are too small for a cool box, and LEGOLAND suggests leaving it in the car and getting a hand stamp to go out and fetch it at lunch. No glass and no alcohol."
   - q: "When is LEGOLAND Windsor closed?"
-    a: "Brick or Treat ended on 1 November 2026. The park opens only on selected days: 7 November, then the Christmas dates from 21 November to 3 January 2027. It is closed 24 to 26 December, then from 4 January to 11 February 2027, and the main 2027 season starts on 12 March."
+    a: "The park opens only on selected days: the Christmas dates from 21 November 2026 to 3 January 2027. It is closed 24 to 26 December, then from 4 January to 11 February 2027, and the main 2027 season starts on 12 March."
 ---
 
 **LEGOLAND Windsor costs from £32 a person booked online at least a day ahead, and £68 if you buy on the day.** LEGOLAND charges the same for adults and children, lets anyone under 90cm in free, and keeps its lowest prices for off-peak dates booked at least five days out.
@@ -112,7 +112,6 @@ The barriers read number plates, so add your registration when you book. Going h
 
 | Period | Days | Hours |
 | --- | --- | --- |
-| **November 2026** | Saturday 7 November only, plus a pass holders' day on 8 November | 10:00 to 17:00 |
 | **LEGOLAND at Christmas** | 21 and 28–29 November, 5–6, 12–14 and 17–23 December 2026, 27 December to 3 January 2027 | 10:00 to 17:00 |
 | **February 2027** | 12–13, 15–22 and 27–28 February | 10:00 to 16:30 or 17:00 |
 | **2027 main season** | Daily from 12 March 2027, apart from some term-time Wednesdays | 10:00 to 16:30–18:00 |

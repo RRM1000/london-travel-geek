@@ -3,8 +3,8 @@ title: "Theme Parks Near London: Every Day Trip Compared"
 seoTitle: "Theme Parks Near London: Prices, Trains and Seasons"
 description: "Thorpe Park, Chessington, LEGOLAND Windsor, Paultons Park and four smaller parks compared: the train from London, the cheapest ticket, who each one suits, and the dates each is shut in autumn and winter 2026."
 publishedAt: 2026-10-03
-updatedAt: 2026-11-02
-reviewBy: 2026-11-20
+updatedAt: 2026-11-21
+reviewBy: 2026-12-18
 sites: [london]
 canonicalSite: london
 category: "Day trips"
@@ -42,10 +42,10 @@ This page compares every park that works as a day trip from London: the train, t
 | Park | Train from London | Journey | Ticket | Season, autumn and winter 2026 |
 | --- | --- | --- | --- | --- |
 | **[Thorpe Park](/articles/thorpe-park-day-trip/)** | Waterloo to Staines, then the 950 bus | **34–38 min**, then 15 min | **From £32 online**, £68 on the day | Closed for the winter; reopens **19 March 2027** |
-| **[Chessington](/articles/chessington-world-of-adventures-day-trip/)** | Waterloo to Chessington South, Zone 6 | **36 min**, then a 10-min walk | **From £32 online**, £68 at the gate | Open 7 and 8 November; Christmas dates 21 November to 3 January 2027 |
-| **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** | Paddington or Waterloo to Windsor, then the 702 or 703 bus | **28–53 min** to Windsor, then 15 min | **From £32 online**, £68 on the day | Open 7 November; Christmas dates 21 November to 3 January 2027; closed from 4 January, reopens 12 February 2027 for half term |
+| **[Chessington](/articles/chessington-world-of-adventures-day-trip/)** | Waterloo to Chessington South, Zone 6 | **36 min**, then a 10-min walk | **From £32 online**, £68 at the gate | Christmas dates 21 November 2026 to 3 January 2027 |
+| **[LEGOLAND Windsor](/articles/legoland-windsor-day-trip/)** | Paddington or Waterloo to Windsor, then the 702 or 703 bus | **28–53 min** to Windsor, then 15 min | **From £32 online**, £68 on the day | Christmas dates 21 November 2026 to 3 January 2027; closed from 4 January, reopens 12 February 2027 for half term |
 | **[Paultons Park](/articles/paultons-park-day-trip/)** | Waterloo to Southampton Central, then the X7 bus or a taxi | **75–77 min**, then 23–26 min by bus | £29 online on November weekends and £41 on Christmas days; £38.50 and £55 on the day | Open weekends 7 to 29 November; Christmas 5 December to 3 January 2027 |
-| Gulliver's Land | Euston to Milton Keynes Central, then a bus or taxi | **32–41 min** | About £26 online, £29 on the day | Fireworks on 7 November; Christmas 22 November to 23 December |
+| Gulliver's Land | Euston to Milton Keynes Central, then a bus or taxi | **32–41 min** | About £26 online, £29 on the day | Christmas 22 November to 23 December 2026 |
 | Adventure Island | Fenchurch Street to Southend Central | **59 min**, then a short walk | **Free entry**; day wristband £30 | Christmas Wonderland on selected days from 28 November |
 | Dreamland Margate | St Pancras to Margate | **89 min**, then a short walk | **Free entry**; Mega Wristband £24.99 | Closed for the winter |
 | Diggerland Kent | St Pancras to Strood, then the 151 or 170 bus | **33 min** to Strood | £39.50 on the day, less online | Closed for the winter |
@@ -81,7 +81,7 @@ Thorpe Park, Chessington and LEGOLAND Windsor all belong to Merlin Entertainment
 
 It pays for a group: on a £32 day, a third off for four people is about £43. Full rules in our guide to [National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/).
 
-**The Merlin Annual Pass** starts with the **Essential Pass at £139**, which covers all three parks, the London Eye, SEA LIFE and Alton Towers, but is barred on busy days, next on 6 to 8 November and 19 and 26 to 27 December 2026. **Gold, £239**, is barred only from Alton Towers on 6–8 November 2026 and adds free parking. If you will only go to one park twice, the single-park passes are cheaper: **Thorpe Park and Chessington each sell one from £64**.
+**The Merlin Annual Pass** starts with the **Essential Pass at £139**, which covers all three parks, the London Eye, SEA LIFE and Alton Towers, but is barred on busy days, including 19 and 26 to 27 December 2026. **Gold, £239**, adds free parking. If you will only go to one park twice, the single-park passes are cheaper: **Thorpe Park and Chessington each sell one from £64**.
 
 ## Thorpe Park
 
@@ -123,7 +123,7 @@ These four work as a day out from London without needing a page of their own. Ea
 
 *Livingstone Drive, Milton Keynes MK15 0DT · Euston to Milton Keynes Central, 32–41 min, then a bus or taxi · about £26 online, £29 on the day · free parking*
 
-A park aimed at **children aged 2 to 13**. Day tickets are about £26 online and **£29 on the day**, and under-90cm children go free. From the station, the **No. 8 bus** to Woolstone Roundabout or the **No. 3** to Pagoda Roundabout leaves a short walk. There are fireworks on Saturday 7 November, and **Christmas at Gulliver's** runs from 22 November to 23 December. It is closed on other days in November. Check the [opening calendar](https://www.gulliverslandresort.co.uk/plan-your-visit/opening-times-prices/) before you travel.
+A park aimed at **children aged 2 to 13**. Day tickets are about £26 online and **£29 on the day**, and under-90cm children go free. From the station, the **No. 8 bus** to Woolstone Roundabout or the **No. 3** to Pagoda Roundabout leaves a short walk. **Christmas at Gulliver's** runs from 22 November to 23 December. It is closed on other days in November. Check the [opening calendar](https://www.gulliverslandresort.co.uk/plan-your-visit/opening-times-prices/) before you travel.
 
 ### Adventure Island, Southend
 
