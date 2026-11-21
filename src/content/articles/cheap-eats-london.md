@@ -67,7 +67,7 @@ Eating cheaply in London does not mean eating badly, and the places that prove i
 | **City & Liverpool Street** | The Crosse Keys, Hamilton Hall |
 | **Canary Wharf** | The Ledger Building |
 | **Spitalfields & Shoreditch** | Sud Italia |
-| **North & East London** | Voodoo Ray's (Dalston), Mickey's Chippy (Stoke Newington), Michael's Fish Bar (Leytonstone), Comalera (Walthamstow), Indian Veg (Islington) |
+| **North & East London** | Voodoo Ray's (Dalston), Micky's Chippy (Stoke Newington), Michael's Fish Bar (Leytonstone), Comalera (Walthamstow), Indian Veg (Islington) |
 | **South London** | Ken's Fish Bar (Herne Hill), Fish Lounge (Clapham), Silk Road (Camberwell) |
 | **Greenwich & West** | Hullabaloo, Sarv's Slice (Ealing) |
 
@@ -79,7 +79,7 @@ Eating cheaply in London does not mean eating badly, and the places that prove i
 
 ![ICCO Pizza - Fitzrovia in London](../../assets/articles/cheap-eats-london/icco.jpg)
 
-*ICCO Pizza - Fitzrovia.*
+*ICCO, Fitzrovia.*
 
 *£3.95 · 46 Goodge Street · 2 min from Goodge Street* · Cited by 2 italian sources
 
@@ -107,7 +107,7 @@ The paratha is wrapped round spiced chicken or paneer with **pickled onion and l
 
 ![Shree Krishna Vada Pav (SKVP) - Oxford Circus in London](../../assets/articles/cheap-eats-london/shree-krishna-vada-pav.jpg)
 
-*Shree Krishna Vada Pav (SKVP) - Oxford Circus.*
+*Shree Krishna Vada Pav.*
 
 *£ · 4 min from Oxford Circus · walk-in* · Cited by 1 source
 
@@ -139,7 +139,7 @@ An all-vegetarian Borough Market stall, named for the slogan painted on the back
 
 ![Gujarati Rasoi Indian Food in London](../../assets/articles/cheap-eats-london/gujarati-rasoi.jpg)
 
-*Gujarati Rasoi Indian Food.*
+*Gujarati Rasoi.*
 
 *£ · Borough Market · 4 min from London Bridge · walk-in*
 
@@ -153,7 +153,7 @@ The **thali** is several small dishes, rice, bread and dal on one tray. Ask abou
 
 ![Bad Boy Pizza Society | Seven Dials in London](../../assets/articles/cheap-eats-london/bad-boy-pizza-society.jpg)
 
-*Bad Boy Pizza Society | Seven Dials.*
+*Bad Boy Pizza Society, Seven Dials.*
 
 *£ · Seven Dials Market · 2 min from Covent Garden · walk-in* · Cited by 8 pizza sources
 
@@ -215,7 +215,7 @@ A *comal* is the flat griddle a tortilla is cooked on: the masa is pressed and g
 
 ![PaStation London in London](../../assets/articles/cheap-eats-london/pastation.jpg)
 
-*PaStation London.*
+*PaStation.*
 
 *£ · 1 min from Tottenham Court Road · walk-in* · Cited by 1 source
 
@@ -229,7 +229,7 @@ Pasta is made on site and cooked to order at a counter: **cacio e pepe, ragù, c
 
 ![Breadstall Pizza in London](../../assets/articles/cheap-eats-london/breadstall.jpg)
 
-*Breadstall Pizza.*
+*Breadstall.*
 
 *£ · Berwick Street · 5 min from Piccadilly Circus · walk-in* · Cited by 7 pizza sources
 
@@ -269,7 +269,7 @@ The dough is **cold-fermented for 72 hours**; the Detroit slice has a lacy fried
 
 ![Attendant Coffee Roasters | Fitzrovia in London](../../assets/articles/cheap-eats-london/the-attendant.jpg)
 
-*Attendant Coffee Roasters | Fitzrovia.*
+*The Attendant, Fitzrovia.*
 
 *£ · 7 min from Goodge Street · walk-in*
 
@@ -345,7 +345,7 @@ Silk Road closed in August 2023 and reopened eighteen months later in new premis
 
 ![Maries Thai Cafe in London](../../assets/articles/cheap-eats-london/maries-caf.jpg)
 
-*Maries Thai Cafe.*
+*Marie's Café, Waterloo.*
 
 *£ · 90 Lower Marsh · BYO, £1 corkage · cash preferred*
 
@@ -495,9 +495,9 @@ Fish bought fresh and **fried to order in a crisp, light batter with hand-cut ch
 
 **£, walk-in, closed Sunday and Monday.** Limited seating; most people take it away.
 
-### Mickey's Chippy, Stoke Newington
+### Micky's Chippy, Stoke Newington
 
-![Micky's Chippy in London](../../assets/articles/cheap-eats-london/mickeys-chippy.jpg)
+![The lit Micky's Chippy sign over the shopfront at night](../../assets/articles/cheap-eats-london/mickeys-chippy.jpg)
 
 *Micky's Chippy.*
 
