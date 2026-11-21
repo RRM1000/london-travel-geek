@@ -4,7 +4,7 @@
 //    cinemas, activities, gyms, sport, parks, pools, markets, shops, landmarks, public toilets) as new
 //    places, recommended = false;
 //  - relabels register "pubs" that OpenStreetMap tags as bars or nightclubs.
-// Food, drink and hotels are only matched, never added: the hygiene register already lists them,
+// Food and drink are only matched, never added: the hygiene register already lists them,
 // and an unmatched OSM name is more likely a naming difference than a new business.
 // Theatres are left out (the theatre site covers them). Re-runnable: keyed on osm_id.
 //
@@ -16,7 +16,8 @@ import { connect } from "./lib.mjs";
 
 
 const today = new Date().toISOString().slice(0, 10);
-const FOOD = new Set(["restaurant", "cafe", "takeaway", "pub", "bar", "nightclub", "hotel"]);
+// Hotels are added too: the register only lists the ones that serve food.
+const FOOD = new Set(["restaurant", "cafe", "takeaway", "pub", "bar", "nightclub"]);
 const CATEGORY = {
   amenity: { restaurant: "restaurant", cafe: "cafe", fast_food: "takeaway", pub: "pub", bar: "bar", biergarten: "pub",
     nightclub: "nightclub", ice_cream: "cafe", food_court: "restaurant", cinema: "cinema", arts_centre: "arts_centre",
@@ -39,6 +40,7 @@ const EXTRA = [
   'nwr["amenity"="place_of_worship"]["wikidata"]["name"](area.a);',
   'nwr["historic"="memorial"]["wikidata"]["name"](area.a);',
   'nwr["leisure"="pitch"]["sport"~"tennis|cricket"]["name"](area.a);',
+  'nwr["live_music"="yes"]["name"](area.a);',
 ];
 const NEEDS_NAME = (k, v) => !(k === "amenity" && v === "toilets");
 const PRIVATE = /^(private|customers|members|no)$/;
@@ -107,7 +109,7 @@ for (const e of elements) {
     address: [t["addr:housenumber"], t["addr:street"]].filter(Boolean).join(" ") || null,
     tags: { kind: ["amenity", "tourism", "leisure", "shop", "historic"].map((k) => t[k] && `${k}=${t[k]}`).find(Boolean),
       sport: t.sport, cuisine: t.cuisine, wikidata: t.wikidata, fee: t.fee, changing_table: t.changing_table,
-      opening_hours: t.opening_hours, wheelchair: t.wheelchair, instagram: t["contact:instagram"], brand: t.brand, brandWikidata: t["brand:wikidata"], seenOn: today },
+      opening_hours: t.opening_hours, wheelchair: t.wheelchair, instagram: t["contact:instagram"], brand: t.brand, brandWikidata: t["brand:wikidata"], liveMusic: t.live_music, seenOn: today },
   });
 }
 console.log(`${osm.length} named venues in our categories`);

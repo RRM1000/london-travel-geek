@@ -1,7 +1,7 @@
 // Finds the website of each recommended place that has none, with Google's Places API (New) Text
 // Search, and records it with the Google place id. Also flags places Google lists as closed.
 //
-//   node scripts/db/fill-websites-google.mjs              # GOOGLE_PLACES_KEY from env or work/.env
+//   node scripts/db/fill-websites-google.mjs              # GOOGLE_PLACES_API_KEY from env or .env.local
 //   node scripts/db/fill-websites-google.mjs --max 50     # at most 50 searches (default 900)
 //   node scripts/db/fill-websites-google.mjs --dry-run    # search and print, write nothing
 //
@@ -16,10 +16,13 @@ import { connect } from "./lib.mjs";
 const arg = (k) => { const i = process.argv.indexOf(k); return i > 0 ? process.argv[i + 1] : undefined; };
 const MAX = Number(arg("--max") ?? 900);
 const DRY = process.argv.includes("--dry-run");
-let KEY = process.env.GOOGLE_PLACES_KEY;
-if (!KEY && fs.existsSync(path.join("work", ".env")))
-  KEY = fs.readFileSync(path.join("work", ".env"), "utf8").match(/^GOOGLE_PLACES_KEY=(.+)$/m)?.[1].trim().replace(/^["']|["']$/g, "");
-if (!KEY) throw new Error("Put GOOGLE_PLACES_KEY=... in work/.env");
+// the same key scripts/enrich.mjs uses: GOOGLE_PLACES_API_KEY in the environment or .env.local
+let KEY = process.env.GOOGLE_PLACES_API_KEY ?? process.env.GOOGLE_PLACES_KEY;
+for (const f of [".env.local", ".env", path.join("work", ".env")]) {
+  if (KEY || !fs.existsSync(f)) continue;
+  KEY = fs.readFileSync(f, "utf8").match(/^GOOGLE_PLACES(?:_API)?_KEY=(.+)$/m)?.[1].trim().replace(/^["']|["']$/g, "");
+}
+if (!KEY) throw new Error("Add GOOGLE_PLACES_API_KEY=... to .env.local");
 
 const today = new Date().toISOString().slice(0, 10);
 const core = (t) => (t ?? "").toLowerCase().normalize("NFKD").replace(/\s*\(.*\)/g, "")
