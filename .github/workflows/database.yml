@@ -3,6 +3,7 @@
 #   Mondays and Thursdays: Sky Garden and the other venue feeds in data/db-feeds.json, and new
 #                          videos, blog articles and TikTok posts into content_queue.
 #   Whenever an article changes on main: which places appear in which articles (articles, article_places).
+#   Whenever data/food-deals/deals.json changes on main: the deals table is replaced from it.
 #   Sundays: the whole food hygiene register, OpenStreetMap (websites and non-food venues), stations,
 #            Michelin awards, then the weekly recheck (possible closures, nearest stations, chains,
 #            the oldest-checked queue).
@@ -21,7 +22,7 @@ on:
     - cron: "10 3 * * 0"   # Sundays 03:10 UTC
   push:
     branches: [main]
-    paths: ["src/content/articles/**"]
+    paths: ["src/content/articles/**", "data/food-deals/deals.json"]
   workflow_dispatch:
     inputs:
       job:
@@ -59,6 +60,10 @@ jobs:
         run: |
           if [ -z "$DATABASE_URL" ]; then echo "::error::Add the SUPABASE_DB_URL repository secret first."; exit 1; fi
           npm install --no-save pg
+
+      - name: Deals
+        if: github.event_name == 'push' || inputs.job == 'all'
+        run: node scripts/db/sync-deals.mjs
 
       - name: Places in articles
         if: env.ARTICLES == 'true'
