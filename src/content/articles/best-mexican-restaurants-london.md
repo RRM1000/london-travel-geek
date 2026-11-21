@@ -226,10 +226,6 @@ The masa is made from scratch daily. The scallop aguachile with Clamato and pome
 
 *Tacos at Zapote. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53436663110), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
-![Sonora Taquería in London](../../assets/articles/best-mexican-restaurants-london/sonora-taquera.jpg)
-
-*Sonora Taquería.*
-
 ### Corrochio's, Dalston
 
 ![Corrochio's in London](../../assets/articles/best-mexican-restaurants-london/corrochios.jpg)

@@ -155,29 +155,9 @@ The short version: **Mangal II** in Dalston is the most-cited; **Antepliler** an
 
 ## Greek
 
-![OPSO in London](../../assets/articles/best-middle-eastern-restaurants-london/opso.jpg)
-
-*OPSO.*
-
-![OMA in London](../../assets/articles/best-middle-eastern-restaurants-london/oma-and-pyro.jpg)
-
-*OMA.*
-
-![Kima in London](../../assets/articles/best-middle-eastern-restaurants-london/kima.jpg)
-
-*Kima.*
-
-![Vori Restaurant Holland Park in London](../../assets/articles/best-middle-eastern-restaurants-london/vori.jpg)
-
-*Vori Restaurant Holland Park.*
-
 Greek and Greek-Cypriot cooking is not Middle Eastern, and has its own page: [**The Best Greek Restaurants in London**](/articles/best-greek-restaurants-london/).
 
 The short version: **Oma** in Borough Market holds London's only Greek Michelin star, **Agora** below it is the walk-in souvla bar, **Tsiakkos & Charcoal** in Maida Vale tops Time Out's ranked list, and **Palmers Green** in north London is where the Cypriot community eats.
-
-![Zephyr Notting Hill in London](../../assets/articles/best-middle-eastern-restaurants-london/mazi-and-zephyr.jpg)
-
-*Zephyr Notting Hill.*
 
 ---
 
@@ -247,10 +227,6 @@ The **whole roast cauliflower** is the signature: charred whole over coals, dres
 ## By country, not "Middle Eastern"
 
 "Middle Eastern" covers a dozen cuisines that share a mezze format and little else. These kitchens each cook somewhere specific.
-
-![Imad’s Syrian Kitchen in London](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
-
-*Imad’s Syrian Kitchen.*
 
 **Syrian:** [Imad's Syrian Kitchen](#imads-syrian-kitchen-soho), above.
 

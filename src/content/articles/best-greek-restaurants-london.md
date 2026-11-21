@@ -275,6 +275,10 @@ Condé Nast Traveller ate **keftedes** (meatballs), saganaki and **galaktobourek
 
 The Pachamama group's first Greek restaurant, a bright room on Portobello Road whose front windows open in summer, with a bar downstairs that runs late from Wednesday to Sunday. The Infatuation rates it 8.3.
 
+![Zephyr's black shopfront on Portobello Road, with its name in small white letters, black awnings and green curtains in the windows](../../assets/articles/best-greek-restaurants-london/zephyr-portobello-road.jpg)
+
+*Zephyr on Portobello Road.*
+
 Luxury London's picks are the **crispy potato terrine** and the **Greek salad** with thick wedges of feta; Hot Dinners says the crudo is strong. The Infatuation notes South American touches, such as a whole grilled fish with amarillo chilli butter.
 
 **Dinner only, from 6pm.**
@@ -284,6 +288,10 @@ Luxury London's picks are the **crispy potato terrine** and the **Greek salad** 
 *£££ · 120 Holland Park Avenue, W11 4UA · Cited by 5 sources · [book a table](https://vorigreekitchen.co.uk/reservations)*
 
 Opened in January 2023 by Markos, Alexandros and Stefanos Tsimikalis, who ran Hungry Donkey in Spitalfields, and named after a beach on Andros. Tables outside on Holland Park Avenue, an all-Greek wine list, and meat from Lidgates, the butcher next door.
+
+![Vori's dining room, with an olive-green banquette, marble tables and a shelf of model boats and clay pots under a framed portrait](../../assets/articles/best-greek-restaurants-london/vori-dining-room.jpg)
+
+*Inside Vori.*
 
 From the charcoal: **pork suvlaki skewers** (£24), **octopus with Santorini fava** (£28) and paidakia, lamb chops (£38). Hot Dinners recommends the **koulouri** with thyme-honey butter at weekend brunch.
 
