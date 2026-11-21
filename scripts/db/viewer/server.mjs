@@ -1,5 +1,5 @@
 // A private viewer for the London Travel Geek database: a dashboard, place search, deals,
-// sources and the content queue.
+// sources, articles and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
 // only (127.0.0.1) and writes nothing except content_queue.status when a queue button is pressed.
@@ -41,8 +41,8 @@ pool.on("error", (e) => console.error("Database connection dropped:", e.message)
 const q = async (sql, params = []) => (await pool.query(sql, params)).rows;
 
 // Tables shown on the dashboard, with the column that says when a row was last checked.
-const TABLES = ["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "sheet_extras"];
-const CHECKED = new Set(["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders"]);
+const TABLES = ["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places", "sheet_extras"];
+const CHECKED = new Set(["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places"]);
 
 const ORIGIN_GROUP = `case when origin = 'fsa' then 'fsa' when origin = 'osm' then 'osm'
   when origin = 'data/evidence.json' then 'research' when origin like 'sheet:%' then 'sheet' else 'other' end`;
@@ -55,7 +55,7 @@ async function summary() {
         count(*) filter (where last_checked is null)::int never,
         count(*) filter (where last_checked < current_date - 30)::int stale` : ""} from public.${t}`);
       tables.push({ table: t, ...r });
-    } catch (e) { tables.push({ table: t, error: e.message }); }
+    } catch (e) { tables.push(/does not exist/.test(e.message) ? { table: t, missing: true } : { table: t, error: e.message }); }
   }
   const [placesBrowse] = await q(`select count(*)::int n, count(*) filter (where recommended)::int recommended,
     count(*) filter (where website is not null and website <> '')::int with_website from public.places_browse`);
@@ -111,7 +111,10 @@ async function place(id) {
     order by starts_on nulls last limit 50`, [id]);
   const duplicates = await q(`select id, name, origin, postcode, attributes->'match' match from public.places where duplicate_of = $1`, [id]);
   const branches = await q(`select id, name, postcode from public.places where parent_id = $1 order by name limit 100`, [id]);
-  return { row, reviews, deals, events, duplicates, branches };
+  // Articles on the site that name this place; a branch shows its brand's articles.
+  const appears = await q(`select article_slug, title, url, kind, heading, updated_at, draft from public.place_articles
+    where place_id = $1 order by kind, title`, [row.parent_id || row.id]).catch(() => []);
+  return { row, reviews, deals, events, duplicates, branches, appears };
 }
 
 async function queue(p) {
@@ -200,6 +203,34 @@ async function source(id) {
   return { row, reviews, queued };
 }
 
+async function articles(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`(a.title ilike $? or a.slug ilike $?)`, `%${p.q}%`);
+  if (p.category) add(`a.category = $?`, p.category);
+  if (p.draft === "yes") where.push("a.draft");
+  if (p.draft === "no") where.push("not a.draft");
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const order = p.sort === "places" ? "entries desc, mentions desc, a.title" : p.sort === "updated" ? "a.updated_at desc nulls last, a.title" : "a.title";
+  const rows = await q(`select a.slug, a.title, a.category, a.draft, a.url, a.published_at, a.updated_at, a.last_checked,
+      coalesce(c.entries, 0) entries, coalesce(c.mentions, 0) mentions
+    from public.articles a
+    left join (select article_slug, count(*) filter (where kind = 'entry')::int entries, count(*) filter (where kind = 'mention')::int mentions
+      from public.article_places group by 1) c on c.article_slug = a.slug
+    ${w} order by ${order} limit 2000`, args);
+  const categories = await q(`select category, count(*)::int n from public.articles where category is not null group by 1 order by 1`);
+  return { rows, total: rows.length, categories };
+}
+
+async function article(slug) {
+  const [row] = await q(`select * from public.articles where slug = $1`, [slug]);
+  if (!row) return null;
+  const places = await q(`select ap.kind, ap.heading, ap.position, p.id, p.name, p.category, p.area, p.borough, p.status, p.recommended
+    from public.article_places ap join public.places p on p.id = ap.place_id
+    where ap.article_slug = $1 order by ap.kind, ap.position nulls last, p.name`, [slug]);
+  return { row, places };
+}
+
 async function setStatus(id, status) {
   if (!["new", "added", "rejected"].includes(status)) throw new Error("status must be new, added or rejected");
   const rows = await q(`update public.content_queue set status = $2 where id = $1 returning id, status`, [id, status]);
@@ -230,6 +261,14 @@ const server = http.createServer(async (req, res) => {
     if (req.method === "GET" && u.pathname === "/api/sources") return send(res, 200, await sources(p));
     if (req.method === "GET" && (m = u.pathname.match(/^\/api\/sources\/(\d+)$/))) {
       const r = await source(Number(m[1]));
+      return r ? send(res, 200, r) : send(res, 404, { error: "not found" });
+    }
+    if (req.method === "GET" && u.pathname === "/api/articles") {
+      try { return send(res, 200, await articles(p)); }
+      catch (e) { if (/does not exist/.test(e.message)) return send(res, 200, { rows: [], total: 0, categories: [], missing: true }); throw e; }
+    }
+    if (req.method === "GET" && u.pathname.startsWith("/api/articles/")) {
+      const r = await article(decodeURIComponent(u.pathname.slice("/api/articles/".length)));
       return r ? send(res, 200, r) : send(res, 404, { error: "not found" });
     }
     if (req.method === "GET" && u.pathname === "/api/queue") return send(res, 200, await queue(p));

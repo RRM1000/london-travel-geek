@@ -60,6 +60,7 @@
     <button data-tab="places">Places</button>
     <button data-tab="deals">Deals</button>
     <button data-tab="sources">Sources</button>
+    <button data-tab="articles">Articles</button>
     <button data-tab="queue">Content queue</button>
   </nav>
   <span class="muted small" id="stamp"></span>
@@ -101,6 +102,15 @@
     </div>
     <div id="slist"></div>
   </section>
+  <section id="articles" hidden>
+    <div class="filters">
+      <input type="search" id="aq" placeholder="Article title">
+      <select id="acat"><option value="">Any section</option></select>
+      <select id="adraft"><option value="">Published and drafts</option><option value="no">Published</option><option value="yes">Drafts</option></select>
+      <select id="asort"><option value="title">A to Z</option><option value="places">Most places first</option><option value="updated">Recently updated first</option></select>
+    </div>
+    <div id="alist"></div>
+  </section>
   <section id="queue" hidden>
     <div class="filters">
       <select id="qstat"><option value="new">Waiting for a decision</option><option value="added">Marked worth covering</option><option value="rejected">Dismissed</option></select>
@@ -128,7 +138,7 @@ async function api(path, opts) {
   return j;
 }
 const ORIGINS = { sheet:"Our Sheet", research:"Research names", fsa:"Hygiene register", osm:"OpenStreetMap", other:"Other" };
-const TABLE_NAMES = { places:"Places", reviews:"Reviews and mentions", sources:"Sources", events:"Events", deals:"Deals", content_queue:"Content queue", tours:"Tours", market_traders:"Market traders", sheet_extras:"Sheet work lists" };
+const TABLE_NAMES = { places:"Places", reviews:"Reviews and mentions", sources:"Sources", events:"Events", deals:"Deals", content_queue:"Content queue", tours:"Tours", market_traders:"Market traders", articles:"Articles on the site", article_places:"Places named in articles", sheet_extras:"Sheet work lists" };
 
 // Tabs
 document.querySelectorAll("nav button").forEach((b) => b.onclick = () => show(b.dataset.tab));
@@ -140,9 +150,10 @@ function show(tab) {
   if (tab === "places") loadPlaces();
   if (tab === "deals") loadDeals();
   if (tab === "sources") loadSources();
+  if (tab === "articles") loadArticles();
   if (tab === "queue") loadQueue();
 }
-const TABS = ["dash", "places", "deals", "sources", "queue"];
+const TABS = ["dash", "places", "deals", "sources", "articles", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -162,7 +173,7 @@ async function loadDash() {
       </div>
       <h2>Tables and how fresh they are</h2>
       <table><tr><th>Table</th><th class="num">Rows</th><th>Last checked, newest</th><th>Oldest</th><th class="num">Never checked</th><th class="num">Over 30 days old</th></tr>
-      ${s.tables.map((t) => t.error ? `<tr><td>${esc(TABLE_NAMES[t.table] || t.table)}</td><td colspan="5" class="err">${esc(t.error)}</td></tr>` : `
+      ${s.tables.map((t) => t.missing ? `<tr><td>${esc(TABLE_NAMES[t.table] || t.table)}</td><td colspan="5" class="muted">Not loaded yet</td></tr>` : t.error ? `<tr><td>${esc(TABLE_NAMES[t.table] || t.table)}</td><td colspan="5" class="err">${esc(t.error)}</td></tr>` : `
         <tr><td>${esc(TABLE_NAMES[t.table] || t.table)}</td><td class="num">${fmt(t.n)}</td><td>${day(t.newest)}</td><td>${day(t.oldest)}</td>
         <td class="num">${t.never === undefined ? "" : fmt(t.never)}</td><td class="num ${t.stale ? "stale" : ""}">${t.stale === undefined ? "" : fmt(t.stale)}</td></tr>`).join("")}
       </table>
@@ -249,7 +260,11 @@ async function openPlace(id) {
         ${f("Hygiene rating", a.fsa ? esc(`${a.fsa.hygieneRating}${a.fsa.ratingDate ? ", inspected " + day(a.fsa.ratingDate) : ""}`) : "")}
         ${f("Came from", esc(x.origin))}${f("First seen", day(x.first_seen))}${f("Last checked", day(x.last_checked))}${f("Updated", day(x.updated_at))}
       </dl>
-      <h2>Mentions (${d.reviews.length})</h2>
+      <h2>Appears in our articles (${(d.appears || []).length})</h2>
+      ${(d.appears || []).length ? `<table><tr><th>Article</th><th>How</th></tr>${d.appears.map((r) => `<tr>
+        <td><a href="#" data-article="${esc(r.article_slug)}">${esc(r.title)}</a>${r.draft ? ' <span class="chip">draft</span>' : ""}${r.heading ? `<div class="small muted">${esc(r.heading)}</div>` : ""}</td>
+        <td class="small">${r.kind === "entry" ? '<span class="chip rec">entry</span>' : '<span class="chip">mention</span>'}${safeUrl(r.url) ? ` ${link(r.url, "on the site")}` : ""}</td></tr>`).join("")}</table>` : '<p class="muted">Not in any article.</p>'}
+      <h2>Mentions by sources (${d.reviews.length})</h2>
       ${d.reviews.length ? `<table><tr><th>Source</th><th>Title</th><th>Date</th></tr>${d.reviews.map((r) => `<tr><td>${esc(r.source || "")}${r.tier ? ` <span class="chip">${esc(r.tier)}</span>` : ""}${r.paid ? ' <span class="chip">paid</span>' : ""}</td><td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td><td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None.</p>'}
       ${d.deals.length ? `<h2>Deals</h2><table><tr><th>Offer</th><th>When</th></tr>${d.deals.map((r) => `<tr><td>${link(r.source_url, r.offer || r.type)}${r.price ? ` <span class="chip">${esc(r.price)}</span>` : ""}</td><td class="small">${esc([r.days, r.times].filter(Boolean).join(", "))}${r.ends_on ? `<div class="muted">until ${day(r.ends_on)}</div>` : ""}</td></tr>`).join("")}</table>` : ""}
       ${d.events.length ? `<h2>Upcoming events</h2><table><tr><th>Event</th><th>Date</th></tr>${d.events.map((r) => `<tr><td>${link(r.url, r.name)}</td><td class="small">${day(r.starts_on)}</td></tr>`).join("")}</table>` : ""}
@@ -258,6 +273,7 @@ async function openPlace(id) {
       <h2>Everything else we hold</h2><pre>${esc(JSON.stringify(a, null, 2))}</pre>`;
     el.querySelector(".close").onclick = () => el.classList.remove("open");
     el.querySelectorAll("a[data-id]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.id); });
+    el.querySelectorAll("a[data-article]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openArticle(l.dataset.article); });
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
@@ -350,6 +366,57 @@ async function openSource(id) {
         <td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td>
         <td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None recorded.</p>'}
       ${d.queued.length ? `<h2>Latest in the content queue</h2><table>${d.queued.map((c) => `<tr><td>${link(c.url, c.title || c.url)}</td><td class="small">${esc(c.medium)}</td><td class="small">${day(c.published_on)}</td><td class="small muted">${{ new:"waiting", added:"worth covering", rejected:"dismissed" }[c.status] || esc(c.status)}</td></tr>`).join("")}</table>` : ""}`;
+    el.querySelector(".close").onclick = () => el.classList.remove("open");
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+  } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
+}
+
+// Articles
+let aCats = false;
+["acat", "adraft", "asort"].forEach((id) => $("#" + id).addEventListener("change", loadArticles));
+$("#aq").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(loadArticles, 300); });
+async function loadArticles() {
+  const p = new URLSearchParams({ q:$("#aq").value.trim(), category:$("#acat").value, draft:$("#adraft").value, sort:$("#asort").value });
+  const el = $("#alist");
+  try {
+    const r = await api("/api/articles?" + p);
+    if (!aCats && r.categories.length) {
+      $("#acat").innerHTML = `<option value="">Any section</option>` + r.categories.map((c) => `<option value="${esc(c.category)}">${esc(c.category)} (${fmt(c.n)})</option>`).join("");
+      aCats = true;
+    }
+    if (r.missing || (!r.total && !p.get("q") && !p.get("category") && !p.get("draft"))) {
+      el.innerHTML = `<p class="muted">The articles are still being loaded into the database. Check back in a few minutes.</p>`;
+      return;
+    }
+    el.innerHTML = `<div class="pager"><span>${fmt(r.total)} articles</span></div>
+      <table><tr><th>Article</th><th>Section</th><th class="num">Entries</th><th class="num">Mentions</th><th>Updated</th></tr>
+      ${r.rows.map((x) => `<tr class="click" data-slug="${esc(x.slug)}">
+        <td>${esc(x.title)}${x.draft ? ' <span class="chip">draft</span>' : ""}${safeUrl(x.url) ? `<div class="small">${link(x.url, "on the site")}</div>` : ""}</td>
+        <td class="small">${esc(x.category || "")}</td><td class="num">${fmt(x.entries)}</td><td class="num">${fmt(x.mentions)}</td>
+        <td class="small">${day(x.updated_at || x.published_at)}</td></tr>`).join("") || `<tr><td colspan="5" class="muted">No articles match.</td></tr>`}
+      </table>`;
+    el.querySelectorAll("tr[data-slug]").forEach((tr) => tr.onclick = (ev) => { if (ev.target.tagName !== "A") openArticle(tr.dataset.slug); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
+async function openArticle(slug) {
+  const el = $("#panel");
+  el.innerHTML = "Loading…"; el.classList.add("open");
+  try {
+    const d = await api("/api/articles/" + encodeURIComponent(slug));
+    const x = d.row;
+    const group = (kind, label) => {
+      const rows = d.places.filter((r) => r.kind === kind);
+      return `<h2>${label} (${fmt(rows.length)})</h2>` + (rows.length ? `<table>${rows.map((r) => `<tr>
+        <td><a href="#" data-place="${r.id}">${esc(r.name)}</a>${r.recommended ? ' <span class="chip rec">recommended</span>' : ""}${r.status !== "open" ? ` <span class="chip">${esc(r.status)}</span>` : ""}
+        ${kind === "entry" && r.heading && r.heading !== r.name ? `<div class="small muted">${esc(r.heading)}</div>` : ""}</td>
+        <td class="small muted">${esc([r.category, r.area || r.borough].filter(Boolean).join(" · "))}</td></tr>`).join("")}</table>` : '<p class="muted">None.</p>');
+    };
+    el.innerHTML = `<button class="btn close">Close</button>
+      <h2 style="margin-top:0">${esc(x.title)}</h2>
+      <div>${x.category ? `<span class="chip">${esc(x.category)}</span>` : ""}${x.draft ? '<span class="chip">draft</span>' : ""}${(x.tags || []).map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</div>
+      <dl>${safeUrl(x.url) ? `<dt>On the site</dt><dd>${link(x.url)}</dd>` : ""}${x.published_at ? `<dt>Published</dt><dd>${day(x.published_at)}</dd>` : ""}${x.updated_at ? `<dt>Updated</dt><dd>${day(x.updated_at)}</dd>` : ""}</dl>
+      ${group("entry", "Places with their own entry")}
+      ${group("mention", "Places mentioned in the text")}`;
     el.querySelector(".close").onclick = () => el.classList.remove("open");
     el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
