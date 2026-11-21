@@ -390,6 +390,7 @@ A flat white costs £3.50–£4.50 almost everywhere, so the saving is not in th
 
 - 💻 **[Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/)**: where you can work, hours and laptop rules, and the free alternatives
 - 🍳 **[The Best Breakfast and Brunch in London](/articles/best-breakfast-brunch-london/)**
+- 🥐 **[The Best Bakeries in London](/articles/best-bakeries-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🎪 **[Unusual Restaurants in London](/articles/unusual-restaurants-london/)**
 - 🛍️ **[London Markets by Day](/markets/)**

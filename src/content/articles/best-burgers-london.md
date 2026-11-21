@@ -401,6 +401,7 @@ Honest Burgers, Blacklock and Flat Iron are also in the [chain restaurants guide
 - 🍔 **[Cheap Eats in London: Places to Eat Well Under £15](/articles/cheap-eats-london/)**
 - 🥩 **[The Best Steak in London](/articles/best-steak-restaurants-london/)**
 - 🍕 **[The Best Pizza in London](/articles/best-pizza-london/)**
+- 🍗 **[The Best Fried Chicken in London](/articles/best-fried-chicken-london/)**
 - 🍺 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)**
 - 🗺️ **[Eat in London: the full food handbook](/articles/eat-in-london-guide/)**

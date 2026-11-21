@@ -412,6 +412,7 @@ Everything else the Chinese sources carry by two or more independent publication
 - 🏮 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: what to order on each Chinatown street, from Noodle Inn to Chinatown Bakery
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🥟 **[The Best Dim Sum in London](/articles/best-dim-sum-london/)**
+- 🍲 **[The Best Hot Pot in London](/articles/best-hot-pot-london/)**
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**
 - 🌿 **[Best Vegetarian and Vegan Restaurants](/articles/best-vegetarian-vegan-restaurants-london/)**
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**
