@@ -21,9 +21,12 @@ const text = (html) => (html ?? "")
   .replace(/<[^>]+>/g, " ").replace(/&#8217;|&rsquo;/g, "'").replace(/&#8211;|&ndash;/g, "-").replace(/&amp;/g, "&")
   .replace(/&nbsp;|&#160;/g, " ").replace(/&#(\d+);/g, (_, n) => String.fromCharCode(n)).replace(/\s+/g, " ").trim();
 
-// Every date written in the text. A date with no year takes the first year that puts it on or after the post date.
+// Every date written in the text. A date with no year takes the first year that puts it on or after
+// the post date, or 60 days ago if the post is older (sites reuse old posts for each year's run).
 export function datesIn(body, publishedOn) {
-  const pub = new Date(publishedOn.slice(0, 10) + "T00:00:00Z");
+  const floor = new Date(Date.now() - 60 * 86400000);
+  let pub = new Date(publishedOn.slice(0, 10) + "T00:00:00Z");
+  if (pub < floor) pub = new Date(floor.toISOString().slice(0, 10) + "T00:00:00Z");
   const out = new Set();
   for (const m of body.matchAll(DATE_RE)) {
     const day = Number(m[1]);
@@ -38,8 +41,22 @@ export function datesIn(body, publishedOn) {
   return [...out].sort();
 }
 
+const UA = { "user-agent": "Mozilla/5.0 (compatible; LondonTravelGeek/1.0)" };
+
+// The post's own page, cut down to its main copy. Page builders often leave the API's content empty,
+// and the copy region keeps sitewide widgets (an Instagram feed, a footer) out of the date search.
+async function pageCopy(url, feed) {
+  const res = await fetch(url, { headers: UA });
+  if (!res.ok) return { url, html: "" };
+  const html = await res.text();
+  const start = feed.copyStart ? html.indexOf(feed.copyStart) : -1;
+  if (start < 0) return { url: res.url, html: "" };
+  const end = feed.copyEnd ? html.indexOf(feed.copyEnd, start) : -1;
+  return { url: res.url, html: html.slice(start, end > start ? end : start + 20000) };
+}
+
 async function getJson(url) {
-  const res = await fetch(url, { headers: { "user-agent": "Mozilla/5.0 (compatible; LondonTravelGeek/1.0)", accept: "application/json" } });
+  const res = await fetch(url, { headers: { ...UA, accept: "application/json" } });
   if (!res.ok) throw new Error(`${res.status} ${url}`);
   return res.json();
 }
@@ -47,20 +64,22 @@ async function getJson(url) {
 async function readWordpress(feed) {
   const cats = feed.categories?.length ? `&categories=${feed.categories.join(",")}` : "";
   const posts = await getJson(`${feed.base}/wp-json/wp/v2/posts?per_page=100${cats}&_fields=id,date,modified,slug,link,title,content,categories`);
-  return posts
-    .filter((p) => !(feed.skip ?? []).some((s) => p.slug.includes(s)))
-    .map((p) => {
-      const body = text(p.content?.rendered);
+  const out = [];
+  for (const p of posts.filter((p) => !(feed.skip ?? []).some((s) => p.slug.includes(s)))) {
+      let html = p.content?.rendered ?? "";
+      let url = p.link;
+      if (!text(html)) ({ url, html } = await pageCopy(p.link, feed));
+      const body = text(html);
       const dates = datesIn(body, p.date);
-      const upcoming = dates.filter((d) => d >= today);
-      return {
+      out.push({
         venue_name: feed.venue, name: text(p.title?.rendered), type: "event",
-        starts_on: upcoming[0] ?? null, ends_on: upcoming.at(-1) ?? null, url: p.link, feed: feed.key,
+        starts_on: dates[0] ?? null, ends_on: dates.at(-1) ?? null, url, feed: feed.key,
         external_id: `${feed.key}:${p.id}`,
-        attributes: JSON.stringify({ dates, booking: p.content?.rendered?.match(BOOKING)?.[0] ?? null,
+        attributes: JSON.stringify({ dates, booking: html.match(BOOKING)?.[0] ?? null,
           published: p.date, modified: p.modified, summary: body.slice(0, 400), evergreen: dates.length === 0 }),
-      };
-    });
+      });
+  }
+  return out;
 }
 
 const events = [];
@@ -76,10 +95,12 @@ for (const feed of config.feeds) {
 }
 
 if (DRY) {
-  for (const e of events) console.log(`  ${e.starts_on ?? "(no date)"} to ${e.ends_on ?? ""}  ${e.name}`);
-  process.exit(0);
+  for (const e of events) console.log(`  ${e.starts_on ?? "(no date)"} to ${e.ends_on ?? ""}  ${e.name}  ${e.url}`);
+} else {
+  await write(events);
 }
 
+async function write(events) {
 const require = createRequire(path.resolve("work", "noop.js"));
 const pg = require("pg");
 if (!process.env.DATABASE_URL && fs.existsSync(path.join("work", ".env"))) {
@@ -102,3 +123,4 @@ for (const e of events) {
 }
 console.log(`wrote ${written} events`);
 await client.end();
+}
