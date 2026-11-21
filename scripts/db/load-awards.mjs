@@ -42,7 +42,7 @@ async function michelin() {
       }
       // the London list also carries a few Surrey places (Esher, Ewell)
       for (const [href, name] of found) if (href.includes("/greater-london/")) out.push({ award: "michelin", level, year, place_name: name, url: "https://guide.michelin.com" + href });
-      if (!found.size || !html.includes(`/page/${page + 1}`)) break;
+      if (!found.size || !full.includes(`/page/${page + 1}`)) break;
     }
   }
   if (out.length < 50) throw new Error(`Michelin gave only ${out.length} restaurants; its page layout may have changed`);
