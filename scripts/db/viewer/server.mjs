@@ -1,8 +1,9 @@
-// A private viewer for the London Travel Geek database: a dashboard, place search, deals,
+// A private viewer for the London Travel Geek database: a dashboard, guide alerts, place search, prices and booking, deals,
 // rankings, new places, closures, sources, articles, markets and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
-// only (127.0.0.1) and writes nothing except content_queue.status when a queue button is pressed.
+// only (127.0.0.1) and writes only two things: content_queue.status when a queue button is pressed, and a
+// row in guide_alert_dismissals when a guide alert is dismissed.
 import http from "node:http";
 import fs from "node:fs";
 import path from "node:path";
@@ -45,7 +46,7 @@ const missing = (e) => /does not exist/.test(e.message);
 
 // Tables shown on the dashboard, with the column that says when a row was last checked.
 const TABLES = ["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places", "awards",
-  "licence_applications", "stations", "page_stats", "place_clicks", "sheet_extras"];
+  "licence_applications", "stations", "page_stats", "place_clicks", "guide_alert_dismissals", "sheet_extras"];
 const CHECKED = new Set(["places", "reviews", "sources", "events", "deals", "content_queue", "tours", "market_traders", "articles", "article_places",
   "awards", "licence_applications", "stations", "page_stats"]);
 
@@ -73,7 +74,9 @@ async function summary() {
     where status = 'new' and is_london and not sponsored group by 1 order by 2 desc`);
   const recent = await q(`select first_seen d, count(*)::int n from public.content_queue
     where first_seen >= current_date - 13 group by 1 order by 1`);
-  return { tables, placesBrowse, byCategory, byOrigin, queue, queueTags, recent, at: new Date().toISOString() };
+  const alerts = await q(`select kind, count(*)::int n from public.guide_alerts group by 1`).catch(() => null);
+  const booking = await bookingCoverage("").catch(() => null);
+  return { tables, placesBrowse, byCategory, byOrigin, queue, queueTags, recent, alerts, booking, at: new Date().toISOString() };
 }
 
 async function options() {
@@ -96,6 +99,8 @@ async function places(p) {
   if (p.website === "yes") where.push(`coalesce(website, '') <> ''`);
   if (p.website === "no") where.push(`coalesce(website, '') = ''`);
   if (p.status) add(`status = $?`, p.status);
+  if (p.price === "none") where.push(`coalesce(price_band, '') = ''`);
+  else if (p.price) add(`price_band = $?`, p.price);
   if (p.chain === "brand") where.push(`(origin = 'brand' or attributes ? 'branches')`);
   if (p.chain === "branch") where.push(`parent_id is not null`);
   if (p.chain === "single") where.push(`parent_id is null and origin <> 'brand' and not attributes ? 'branches'`);
@@ -113,7 +118,7 @@ async function places(p) {
 async function place(id) {
   const [row] = await q(`select * from public.places where id = $1`, [id]);
   if (!row) return null;
-  const reviews = await q(`select r.title, r.url, r.topic, r.published_on, r.rank, r.verdict, r.quote, r.paid, s.name source, s.tier
+  const reviews = await q(`select r.title, r.url, r.topic, r.published_on, r.rank, r.verdict, r.quote, r.paid, r.attributes->>'via' via, s.name source, s.tier
     from public.reviews r left join public.sources s on s.id = r.source_id where r.place_id = $1 order by r.published_on desc nulls last limit 200`, [id]);
   const deals = await q(`select type, offer, price, days, times, starts_on, ends_on, source_url from public.deals where place_id = $1`, [id]);
   const events = await q(`select name, type, starts_on, ends_on, url from public.events where place_id = $1 and (ends_on is null or ends_on >= current_date)
@@ -145,7 +150,7 @@ async function queue(p) {
   const w = `where ${where.join(" and ")}`;
   const page = Math.max(0, Number(p.page) || 0);
   const rows = await q(`select id, creator, platform, medium, tags, title, url, published_on, left(description, 400) description,
-      places_mentioned, sponsored, sponsor_signals, is_london, status, notes, first_seen
+      places_mentioned, sponsored, sponsor_signals, is_london, status, notes, first_seen, to_jsonb(content_queue)->>'read_on' read_on
     from public.content_queue ${w} order by published_on desc nulls last, id desc limit 50 offset ${page * 50}`, args);
   const [{ n }] = await q(`select count(*)::int n from public.content_queue ${w}`, args);
   return { rows, total: n, page };
@@ -211,7 +216,7 @@ async function sources(p) {
 async function source(id) {
   const [row] = await q(`select s.*, ${WATCH} watch from public.sources s where s.id = $1`, [id]);
   if (!row) return null;
-  const reviews = await q(`select r.place_id, r.place_name, r.title, r.url, r.topic, r.published_on, r.rank, r.quote, r.paid
+  const reviews = await q(`select r.place_id, r.place_name, r.title, r.url, r.topic, r.published_on, r.rank, r.quote, r.paid, r.attributes->>'via' via
     from public.reviews r where r.source_id = $1 order by r.published_on desc nulls last, r.place_name limit 500`, [id]);
   const queued = await q(`select id, title, url, published_on, status, medium from public.content_queue where source_id = $1
     order by published_on desc nulls last limit 20`, [id]);
@@ -278,11 +283,13 @@ async function upcoming(p) {
   if (p.q) add(`(premises_name ilike $? or address ilike $? or postcode ilike $? or activities ilike $?)`, `%${p.q}%`);
   if (p.council) add(`council = $?`, p.council);
   if (p.unmatched === "1") where.push("place_id is null");
+  if (p.source) add(`coalesce(to_jsonb(u)->>'source', 'licence') = $?`, p.source);
   const w = where.length ? `where ${where.join(" and ")}` : "";
-  const rows = await q(`select * from public.upcoming_openings ${w} order by received_on desc nulls last limit 300`, args);
-  const [{ n }] = await q(`select count(*)::int n from public.upcoming_openings ${w}`, args);
+  const rows = await q(`select * from public.upcoming_openings u ${w} order by received_on desc nulls last limit 300`, args);
+  const [{ n }] = await q(`select count(*)::int n from public.upcoming_openings u ${w}`, args);
+  const sources = await q(`select coalesce(to_jsonb(u)->>'source', 'licence') source, count(*)::int n from public.upcoming_openings u group by 1`);
   const councils = await q(`select council, count(*)::int n from public.upcoming_openings group by 1 order by 1`);
-  return { rows, total: n, councils };
+  return { rows, total: n, councils, sources };
 }
 
 async function closed(p) {
@@ -349,6 +356,65 @@ async function rankingOptions(p) {
   return { categories, cuisines: Object.entries(cuisines).map(([cuisine, n]) => ({ cuisine, n })).sort((a, b) => b.n - a.n), topics };
 }
 
+// Things that may mean a guide needs a look (the guide_alerts view). Nothing here changes an article.
+async function alerts(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.kind) add(`kind = $?`, p.kind);
+  if (p.article) add(`article_slug = $?`, p.article);
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const rows = await q(`select * from public.guide_alerts ${w} limit 1000`, args);
+  const kinds = await q(`select kind, count(*)::int n from public.guide_alerts group by 1`);
+  const articles = await q(`select article_slug, article_title, count(*)::int n from public.guide_alerts group by 1, 2 order by 2`);
+  return { rows, total: rows.length, kinds, articles };
+}
+
+async function dismissAlert({ kind, article_slug, place_id }) {
+  if (!["closed", "deal_ended", "missing"].includes(kind) || !article_slug || !Number(place_id)) throw new Error("kind, article_slug and place_id are needed");
+  await q(`insert into public.guide_alert_dismissals (kind, article_slug, place_id) values ($1, $2, $3) on conflict do nothing`,
+    [kind, article_slug, Number(place_id)]);
+  return { ok: true };
+}
+
+// Prices and booking (the booking_and_prices view): restaurants, pubs, bars and cafés with their price
+// and booking link, plus how many have each.
+function bookingWhere(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`name ilike $?`, `%${p.q}%`);
+  if (p.category) add(`category = $?`, p.category);
+  if (p.recommended === "yes") where.push("recommended");
+  if (p.recommended === "no") where.push("not recommended");
+  if (p.booking === "yes") where.push(`coalesce(booking_url, '') <> ''`);
+  if (p.booking === "no") where.push(`coalesce(booking_url, '') = ''`);
+  if (p.platform) add(`booking_platform = $?`, p.platform);
+  if (p.price === "none") where.push(`coalesce(price_band, '') = '' and coalesce(typical_spend, '') = ''`);
+  else if (p.price) add(`price_band = $?`, p.price);
+  return { w: where.length ? `where ${where.join(" and ")}` : "", args };
+}
+
+async function bookingCoverage(w, args = []) {
+  const [c] = await q(`select count(*)::int n, count(*) filter (where recommended)::int recommended,
+      count(*) filter (where coalesce(price_band, '') <> '' or coalesce(typical_spend, '') <> '')::int with_price,
+      count(*) filter (where coalesce(booking_url, '') <> '')::int with_booking,
+      count(*) filter (where recommended and coalesce(booking_url, '') <> '')::int rec_with_booking,
+      count(*) filter (where recommended and (coalesce(price_band, '') <> '' or coalesce(typical_spend, '') <> ''))::int rec_with_price
+    from public.booking_and_prices ${w}`, args);
+  return c;
+}
+
+async function booking(p) {
+  const { w, args } = bookingWhere(p);
+  const page = Math.max(0, Number(p.page) || 0);
+  const rows = await q(`select * from public.booking_and_prices ${w}
+    order by recommended desc, sources desc, name limit 100 offset ${page * 100}`, args);
+  const coverage = await bookingCoverage(w, args);
+  const platforms = await q(`select booking_platform platform, count(*)::int n from public.booking_and_prices
+    where coalesce(booking_platform, '') <> '' group by 1 order by 2 desc`);
+  const categories = await q(`select category, count(*)::int n from public.booking_and_prices group by 1 order by 2 desc`);
+  return { rows, total: coverage.n, page, coverage, platforms, categories };
+}
+
 async function setStatus(id, status) {
   if (!["new", "added", "rejected"].includes(status)) throw new Error("status must be new, added or rejected");
   const rows = await q(`update public.content_queue set status = $2 where id = $1 returning id, status`, [id, status]);
@@ -394,20 +460,22 @@ const server = http.createServer(async (req, res) => {
       catch (e) { if (/does not exist/.test(e.message)) return send(res, 200, { rows: [], total: 0, page: 0, why: [], missing: true }); throw e; }
     }
     const optional = { "/api/upcoming": upcoming, "/api/closed": closed, "/api/markets": markets,
-      "/api/rankings": rankings, "/api/ranking-options": rankingOptions };
+      "/api/rankings": rankings, "/api/ranking-options": rankingOptions, "/api/alerts": alerts,
+      "/api/booking": booking };
     if (req.method === "GET" && optional[u.pathname]) {
       try { return send(res, 200, await optional[u.pathname](p)); }
       catch (e) { if (missing(e)) return send(res, 200, { rows: [], total: 0, missing: true }); throw e; }
     }
     if (req.method === "GET" && u.pathname === "/api/queue") return send(res, 200, await queue(p));
-    if (req.method === "POST" && (m = u.pathname.match(/^\/api\/queue\/(\d+)$/))) {
+    if (req.method === "POST") {
       // Only this page may press the buttons: reject requests from any other site.
       const origin = req.headers.origin || "";
       if (origin && !/^http:\/\/(localhost|127\.0\.0\.1):\d+$/.test(origin)) return send(res, 403, { error: "forbidden" });
       let body = "";
       for await (const c of req) body += c;
-      const { status } = JSON.parse(body || "{}");
-      return send(res, 200, await setStatus(Number(m[1]), status));
+      const data = JSON.parse(body || "{}");
+      if ((m = u.pathname.match(/^\/api\/queue\/(\d+)$/))) return send(res, 200, await setStatus(Number(m[1]), data.status));
+      if (u.pathname === "/api/alerts/dismiss") return send(res, 200, await dismissAlert(data));
     }
     send(res, 404, { error: "not found" });
   } catch (e) {

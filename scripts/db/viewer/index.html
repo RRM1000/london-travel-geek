@@ -57,8 +57,10 @@
   <h1>LTG database</h1>
   <nav>
     <button data-tab="dash" class="on">Dashboard</button>
+    <button data-tab="alerts">Guide alerts</button>
     <button data-tab="places">Places</button>
     <button data-tab="ranks">Rankings</button>
+    <button data-tab="book">Prices and booking</button>
     <button data-tab="newp">New places</button>
     <button data-tab="closed">Possibly closed</button>
     <button data-tab="deals">Deals</button>
@@ -71,6 +73,14 @@
 </header>
 <main>
   <section id="dash"></section>
+  <section id="alerts" hidden>
+    <div class="filters">
+      <select id="akind"><option value="">Every kind of alert</option></select>
+      <select id="aart"><option value="">Every guide</option></select>
+    </div>
+    <p class="small muted">Things in the database that may mean a guide needs a look. Nothing changes an article by itself. Dismiss an alert once you've dealt with it, or if it doesn't matter, and it won't come back.</p>
+    <div id="alertlist"></div>
+  </section>
   <section id="places" hidden>
     <div class="filters">
       <input type="search" id="pq" placeholder="Name, address or postcode">
@@ -81,6 +91,7 @@
       <select id="pchain"><option value="">Chains or not</option><option value="brand">Chain brands</option><option value="branch">Branches of a chain</option><option value="single">Not part of a chain</option></select>
       <select id="phyg"><option value="">Any hygiene rating</option><option>5</option><option>4</option><option>3</option><option>2</option><option>1</option><option>0</option><option value="AwaitingInspection">Awaiting inspection</option><option>Exempt</option><option value="none">No rating</option></select>
       <select id="pweb"><option value="">Website or not</option><option value="yes">Has website</option><option value="no">No website</option></select>
+      <select id="pprice"><option value="">Any price</option><option>£</option><option>££</option><option>£££</option><option>££££</option><option value="none">No price</option></select>
       <select id="pstat"><option value="">Any status</option><option value="open">Open</option><option value="closed">Closed</option><option value="temporarily_closed">Temporarily closed</option><option value="unknown">Unknown</option></select>
       <button class="btn" id="preset">Clear</button>
     </div>
@@ -98,9 +109,22 @@
     <p class="small muted">Ranked by how many separate sources name each place. A judged list such as Michelin or Harden's counts 3, any other source counts 2, and awards add more. Branches count towards their brand.</p>
     <div id="rlist"></div>
   </section>
+  <section id="book" hidden>
+    <div class="filters">
+      <input type="search" id="bq" placeholder="Name">
+      <select id="bcat"><option value="">Any type</option></select>
+      <select id="brec"><option value="">Recommended or not</option><option value="yes">Recommended</option><option value="no">Not recommended</option></select>
+      <select id="bbook"><option value="">Booking link or not</option><option value="yes">Has a booking link</option><option value="no">No booking link</option></select>
+      <select id="bplat"><option value="">Any booking site</option></select>
+      <select id="bprice"><option value="">Any price</option><option>£</option><option>££</option><option>£££</option><option>££££</option><option value="none">No price</option></select>
+    </div>
+    <p class="small muted">Restaurants, takeaways, street food, cafés, pubs and bars that we recommend or a source has reviewed, with their price and where to book. Recommended places come first.</p>
+    <div id="blist"></div>
+  </section>
   <section id="newp" hidden>
     <div class="filters">
-      <select id="nmode"><option value="new">Places that look new</option><option value="upcoming">Upcoming openings (licence applications)</option></select>
+      <select id="nmode"><option value="new">Places that look new</option><option value="upcoming">Upcoming openings (licences and news)</option></select>
+      <select id="usrc" hidden><option value="">Licences and news</option><option value="licence">Licence applications</option><option value="news">News headlines</option></select>
       <input type="search" id="nq" placeholder="Name, area or postcode">
       <select id="ndays"><option value="7">New in the last 7 days</option><option value="30" selected>New in the last 30 days</option><option value="90">New in the last 90 days</option><option value="">Any time</option></select>
       <select id="nwhy"><option value="">Any reason</option></select>
@@ -196,6 +220,8 @@ function show(tab) {
   if (tab === "places") loadPlaces();
   if (tab === "newp") loadNew();
   if (tab === "ranks") loadRanks();
+  if (tab === "alerts") loadAlerts();
+  if (tab === "book") loadBooking();
   if (tab === "deals") loadDeals();
   if (tab === "closed") loadClosed();
   if (tab === "markets") loadMarkets();
@@ -203,7 +229,7 @@ function show(tab) {
   if (tab === "articles") loadArticles();
   if (tab === "queue") loadQueue();
 }
-const TABS = ["dash", "places", "ranks", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
+const TABS = ["dash", "alerts", "places", "ranks", "book", "newp", "closed", "deals", "sources", "articles", "markets", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -220,6 +246,10 @@ async function loadDash() {
         <div class="card"><div class="muted small">Recommended on the site</div><div class="big">${fmt(s.placesBrowse.recommended)}</div></div>
         <div class="card"><div class="muted small">Places with a website</div><div class="big">${fmt(s.placesBrowse.with_website)}</div></div>
         <div class="card"><div class="muted small">Queue items waiting (London, not sponsored)</div><div class="big">${fmt(newQ?.shown)}</div></div>
+        ${s.alerts ? `<div class="card" style="cursor:pointer" id="dalerts"><div class="muted small">Guide alerts to look at</div><div class="big">${fmt(s.alerts.reduce((t, a) => t + a.n, 0))}</div>
+          <div class="small muted">${s.alerts.map((a) => `${esc(ALERT[a.kind] || a.kind)} ${fmt(a.n)}`).join(" · ")}</div></div>` : ""}
+        ${s.booking ? `<div class="card" style="cursor:pointer" id="dbook"><div class="muted small">Recommended places with a booking link</div><div class="big">${fmt(s.booking.rec_with_booking)} <span class="small muted" style="font-weight:400">of ${fmt(s.booking.recommended)}</span></div>
+          <div class="small muted">With a price: ${fmt(s.booking.rec_with_price)} of ${fmt(s.booking.recommended)}</div></div>` : ""}
       </div>
       <h2>Tables and how fresh they are</h2>
       <table><tr><th>Table</th><th class="num">Rows</th><th>Last checked, newest</th><th>Oldest</th><th class="num">Never checked</th><th class="num">Over 30 days old</th></tr>
@@ -244,6 +274,8 @@ async function loadDash() {
           <p class="small muted">Found per day, last two weeks: ${s.recent.map((r) => `<span class="chip">${day(r.d).replace(/ \d{4}$/, "")}: ${fmt(r.n)}</span>`).join("") || "none"}</p>
         </div>
       </div>`;
+    if ($("#dalerts")) $("#dalerts").onclick = () => show("alerts");
+    if ($("#dbook")) $("#dbook").onclick = () => show("book");
     el.querySelectorAll("tr[data-cat]").forEach((tr) => tr.onclick = () => { resetPlaces(); $("#pcat").value = tr.dataset.cat; show("places"); });
     el.querySelectorAll("tr[data-orig]").forEach((tr) => tr.onclick = () => { resetPlaces(); $("#porig").value = tr.dataset.orig; show("places"); });
   } catch (e) { el.innerHTML = `<div class="err">Could not read the database: ${esc(e.message)}</div>`; }
@@ -251,7 +283,7 @@ async function loadDash() {
 
 // Places
 let pPage = 0, optsLoaded = false, timer;
-const pIds = ["pq", "pcat", "pbor", "prec", "porig", "pchain", "phyg", "pweb", "pstat"];
+const pIds = ["pq", "pcat", "pbor", "prec", "porig", "pchain", "phyg", "pweb", "pprice", "pstat"];
 pIds.forEach((id) => $("#" + id).addEventListener(id === "pq" ? "input" : "change", () => { pPage = 0; clearTimeout(timer); timer = setTimeout(loadPlaces, id === "pq" ? 300 : 0); }));
 $("#preset").onclick = () => { resetPlaces(); loadPlaces(); };
 function resetPlaces() { pIds.forEach((id) => $("#" + id).value = ""); pPage = 0; }
@@ -267,7 +299,7 @@ async function loadPlaces() {
     } catch {}
   }
   const p = new URLSearchParams({ q:$("#pq").value.trim(), category:$("#pcat").value, borough:$("#pbor").value, recommended:$("#prec").value,
-    origin:$("#porig").value, hygiene:$("#phyg").value, website:$("#pweb").value, status:$("#pstat").value, chain:$("#pchain").value, page:pPage });
+    origin:$("#porig").value, hygiene:$("#phyg").value, website:$("#pweb").value, status:$("#pstat").value, chain:$("#pchain").value, price:$("#pprice").value, page:pPage });
   const el = $("#plist");
   try {
     const r = await api("/api/places?" + p);
@@ -309,7 +341,10 @@ async function openPlace(id) {
         ${f("Nearest station", x.nearest_station ? esc(`${x.nearest_station}, ${fmt(x.station_metres)} m (about ${Math.max(1, Math.round(x.station_metres / 80))} min walk)`) : "")}
         ${f("Opening hours", esc(x.opening_hours))}
         ${f("Area", esc([x.area, x.borough].filter(Boolean).join(", ")))}
-        ${f("Website", link(x.website))}${f("Phone", esc(x.phone))}${f("Price", esc(x.price_band))}
+        ${f("Website", link(x.website))}${f("Phone", esc(x.phone))}
+        ${f("Price", esc([x.price_band, x.typical_spend].filter(Boolean).join(", ")))}
+        ${f("Book", safeUrl(x.booking_url) ? link(x.booking_url, bookLabel(x.booking_platform)) : "")}
+        ${f("Booking", esc(a["Booking Requirements"]))}
         ${f("Slug", esc(x.slug))}${f("Map", x.lat ? link(`https://www.google.com/maps/search/?api=1&query=${x.lat},${x.lng}`, "Google Maps") : "")}
         ${f("Hygiene rating", a.fsa ? esc(`${a.fsa.hygieneRating}${a.fsa.ratingDate ? ", inspected " + day(a.fsa.ratingDate) : ""}`) : "")}
         ${f("Came from", esc(x.origin))}${f("First seen", day(x.first_seen))}${f("Last checked", day(x.last_checked))}${f("Updated", day(x.updated_at))}
@@ -321,7 +356,7 @@ async function openPlace(id) {
         <td><a href="#" data-article="${esc(r.article_slug)}">${esc(r.title)}</a>${r.draft ? ' <span class="chip">draft</span>' : ""}${r.heading ? `<div class="small muted">${esc(r.heading)}</div>` : ""}</td>
         <td class="small">${r.kind === "entry" ? '<span class="chip rec">entry</span>' : '<span class="chip">mention</span>'}${safeUrl(r.url) ? ` ${link(r.url, "on the site")}` : ""}</td></tr>`).join("")}</table>` : '<p class="muted">Not in any article.</p>'}
       <h2>Mentions by sources (${d.reviews.length})</h2>
-      ${d.reviews.length ? `<table><tr><th>Source</th><th>Title</th><th>Date</th></tr>${d.reviews.map((r) => `<tr><td>${esc(r.source || "")}${r.tier ? ` <span class="chip">${esc(r.tier)}</span>` : ""}${r.paid ? ' <span class="chip">paid</span>' : ""}</td><td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td><td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None.</p>'}
+      ${d.reviews.length ? `<table><tr><th>Source</th><th>Title</th><th>Date</th></tr>${d.reviews.map((r) => `<tr><td>${esc(r.source || "")}${r.tier ? ` <span class="chip">${esc(r.tier)}</span>` : ""}${r.paid ? ' <span class="chip">paid</span>' : ""}${viaChip(r.via)}</td><td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td><td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None.</p>'}
       ${d.deals.length ? `<h2>Deals</h2><table><tr><th>Offer</th><th>When</th></tr>${d.deals.map((r) => `<tr><td>${link(r.source_url, r.offer || r.type)}${r.price ? ` <span class="chip">${esc(r.price)}</span>` : ""}</td><td class="small">${esc([r.days, r.times].filter(Boolean).join(", "))}${r.ends_on ? `<div class="muted">until ${day(r.ends_on)}</div>` : ""}</td></tr>`).join("")}</table>` : ""}
       ${d.events.length ? `<h2>Upcoming events</h2><table><tr><th>Event</th><th>Date</th></tr>${d.events.map((r) => `<tr><td>${link(r.url, r.name)}</td><td class="small">${day(r.starts_on)}</td></tr>`).join("")}</table>` : ""}
       ${d.branches.length ? `<h2>Branches (${fmt(d.branches.length)})</h2><table>${d.branches.map((b) => `<tr><td><a href="#" data-id="${b.id}">${esc(b.name)}</a>${b.status !== "open" ? ` <span class="chip">${esc(b.status)}</span>` : ""}</td><td class="small muted">${esc([b.area, b.borough].filter(Boolean).join(", "))}</td><td class="small muted">${esc(b.postcode)}</td></tr>`).join("")}</table>` : ""}
@@ -333,6 +368,87 @@ async function openPlace(id) {
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
+
+// Where a review came from (reviews.attributes.via)
+const VIA = { content_queue:"from the content queue", "youtube-lists":"from YouTube lists", "db-lists":"from published lists" };
+const viaChip = (v) => v ? ` <span class="chip" title="How this review got into the database">${esc(VIA[v] || v)}</span>` : "";
+
+// Prices and booking
+const PLATFORMS = { opentable:"OpenTable", sevenrooms:"SevenRooms", resy:"Resy", tock:"Tock", resdiary:"ResDiary", designmynight:"DesignMyNight", thefork:"TheFork", quandoo:"Quandoo" };
+const platformName = (p) => !p ? "" : p === "own site" ? "the venue's site" : PLATFORMS[p] || p;
+const bookLabel = (p) => p ? "Book on " + platformName(p) : "Book";
+let bPage = 0, bOpts = false;
+["bcat", "brec", "bbook", "bplat", "bprice"].forEach((id) => $("#" + id).addEventListener("change", () => { bPage = 0; loadBooking(); }));
+$("#bq").addEventListener("input", () => { bPage = 0; clearTimeout(timer); timer = setTimeout(loadBooking, 300); });
+async function loadBooking() {
+  const el = $("#blist");
+  const p = new URLSearchParams({ q:$("#bq").value.trim(), category:$("#bcat").value, recommended:$("#brec").value, booking:$("#bbook").value,
+    platform:$("#bplat").value, price:$("#bprice").value, page:bPage });
+  try {
+    const r = await api("/api/booking?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">Prices and booking links haven't been set up in the database yet.</p>`; return; }
+    if (!bOpts) {
+      $("#bcat").innerHTML = `<option value="">Any type</option>` + r.categories.map((c) => `<option value="${esc(c.category)}">${esc(c.category)} (${fmt(c.n)})</option>`).join("");
+      $("#bplat").innerHTML = `<option value="">Any booking site</option>` + r.platforms.map((x) => `<option value="${esc(x.platform)}">${esc(platformName(x.platform))} (${fmt(x.n)})</option>`).join("");
+      $("#bcat").value = p.get("category"); $("#bplat").value = p.get("platform");
+      bOpts = true;
+    }
+    const c = r.coverage;
+    el.innerHTML = `<div class="grid">
+        <div class="card"><div class="muted small">Places listed</div><div class="big">${fmt(c.n)}</div></div>
+        <div class="card"><div class="muted small">With a price</div><div class="big">${fmt(c.with_price)}</div><div class="small muted">Recommended: ${fmt(c.rec_with_price)} of ${fmt(c.recommended)}</div></div>
+        <div class="card"><div class="muted small">With a booking link</div><div class="big">${fmt(c.with_booking)}</div><div class="small muted">Recommended: ${fmt(c.rec_with_booking)} of ${fmt(c.recommended)}</div></div>
+      </div>
+      <div class="pager"><span>${fmt(r.total)} places</span>${pager(r.total, 100, r.page)}</div>
+      <table><tr><th>Place</th><th>Type</th><th>Borough</th><th>Price</th><th>Book</th><th class="num">Sources</th><th>Booking notes</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td><a href="#" data-place="${x.id}">${esc(x.name)}</a>${x.recommended ? ' <span class="chip rec">recommended</span>' : ""}</td>
+        <td class="small">${esc(x.category)}</td><td class="small">${esc(x.borough || "")}</td>
+        <td>${esc(x.price_band || "")}${x.typical_spend ? `<div class="small muted">${esc(x.typical_spend)}</div>` : ""}</td>
+        <td class="small">${safeUrl(x.booking_url) ? link(x.booking_url, bookLabel(x.booking_platform)) : safeUrl(x.website) ? `<span class="muted">no link · </span>${link(x.website, "venue's site")}` : '<span class="muted">none</span>'}</td>
+        <td class="num">${fmt(Number(x.sources))}</td>
+        <td class="small muted">${esc(x.booking_requirements || "")}</td></tr>`).join("") || `<tr><td colspan="7" class="muted">Nothing matches.</td></tr>`}
+      </table><div class="pager">${pager(r.total, 100, r.page)}</div>`;
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+    el.querySelectorAll("[data-page]").forEach((b) => b.onclick = () => { bPage = Number(b.dataset.page); loadBooking(); scrollTo(0, 0); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
+
+// Guide alerts
+const ALERT = { closed:"May have closed", deal_ended:"Deal ended", missing:"Missing from the guide" };
+["akind", "aart"].forEach((id) => $("#" + id).addEventListener("change", loadAlerts));
+async function loadAlerts() {
+  const p = new URLSearchParams({ kind:$("#akind").value, article:$("#aart").value });
+  const el = $("#alertlist");
+  try {
+    const r = await api("/api/alerts?" + p);
+    if (r.missing) { el.innerHTML = `<p class="muted">Guide alerts haven't been set up in the database yet.</p>`; return; }
+    const keepK = $("#akind").value, keepA = $("#aart").value;
+    $("#akind").innerHTML = `<option value="">Every kind of alert</option>` + r.kinds.map((k) => `<option value="${esc(k.kind)}">${esc(ALERT[k.kind] || k.kind)} (${fmt(k.n)})</option>`).join("");
+    $("#aart").innerHTML = `<option value="">Every guide</option>` + r.articles.map((a) => `<option value="${esc(a.article_slug)}">${esc(a.article_title)} (${fmt(a.n)})</option>`).join("");
+    $("#akind").value = keepK; $("#aart").value = keepA;
+    el.innerHTML = r.rows.length ? r.rows.map((x) => `<div class="item" data-kind="${esc(x.kind)}" data-slug="${esc(x.article_slug)}" data-place="${x.place_id}"><div class="body">
+        <div><span class="chip ${x.kind === "closed" ? "" : ""}" style="${x.kind === "closed" ? "background:var(--bad);color:#fff" : x.kind === "deal_ended" ? "background:var(--warn);color:#fff" : ""}">${esc(ALERT[x.kind] || x.kind)}</span>
+          ${x.link ? `<span class="chip">${x.link === "entry" ? "has its own entry" : "mentioned"}</span>` : ""}${x.recommended ? '<span class="chip rec">recommended</span>' : ""}${x.new_place ? '<span class="chip rec">new</span>' : ""}</div>
+        <h3 style="margin-top:6px"><a href="#" data-open-place="${x.place_id}">${esc(x.place_name)}</a> <span class="small muted" style="font-weight:400">in</span> <a href="#" data-open-article="${esc(x.article_slug)}">${esc(x.article_title)}</a></h3>
+        <div class="small muted">${esc([x.category, x.borough].filter(Boolean).join(" · "))}${x.topic_sources ? ` · ${fmt(Number(x.topic_sources))} sources for this topic` : ""}${safeUrl(x.article_url) ? ` · ${link(x.article_url, "guide on the site")}` : ""}</div>
+        <p>${esc(x.detail || "")}</p>
+      </div><div class="acts"><button class="btn dismiss" data-dismiss>Dismiss</button></div></div>`).join("")
+      : `<p class="muted">No alerts. Every guide looks up to date.</p>`;
+    el.querySelectorAll("a[data-open-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.openPlace); });
+    el.querySelectorAll("a[data-open-article]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openArticle(l.dataset.openArticle); });
+    el.querySelectorAll("[data-dismiss]").forEach((b) => b.onclick = async () => {
+      const item = b.closest(".item");
+      b.disabled = true;
+      try {
+        await api("/api/alerts/dismiss", { method:"POST", headers:{ "content-type":"application/json" },
+          body:JSON.stringify({ kind:item.dataset.kind, article_slug:item.dataset.slug, place_id:item.dataset.place }) });
+        item.classList.add("done");
+        item.querySelector(".acts").innerHTML = `<span class="small">Dismissed</span>`;
+      } catch (e) { alert("Could not save: " + e.message); b.disabled = false; }
+    });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
 
 // Rankings
 let rPage = 0, rOptsFor = null;
@@ -389,29 +505,38 @@ let nPage = 0, nOpts = false;
 $("#nmode").addEventListener("change", () => {
   const up = $("#nmode").value === "upcoming";
   for (const id of ["ndays", "nwhy", "ncat", "nbor"]) $("#" + id).hidden = up;
+  $("#usrc").hidden = !up;
   $("#narts").parentElement.hidden = up;
   loadNew();
 });
-["ndays", "nwhy", "ncat", "nbor", "narts"].forEach((id) => $("#" + id).addEventListener("change", () => { nPage = 0; loadNew(); }));
+["ndays", "nwhy", "ncat", "nbor", "narts", "usrc"].forEach((id) => $("#" + id).addEventListener("change", () => { nPage = 0; loadNew(); }));
 $("#nq").addEventListener("input", () => { nPage = 0; clearTimeout(timer); timer = setTimeout(loadNew, 300); });
 const WHY = { "new on the hygiene register":"New on the hygiene register", "new on the map":"New on OpenStreetMap",
   "awaiting its first hygiene inspection":"Awaiting its first hygiene inspection", "opening article":"Opening article" };
 const whyLabel = (w) => WHY[w] || (String(w).startsWith("new on the ") ? "Newly added to the database" : w);
 async function loadUpcoming() {
   const el = $("#nlist");
-  const p = new URLSearchParams({ q:$("#nq").value.trim() });
+  const p = new URLSearchParams({ q:$("#nq").value.trim(), source:$("#usrc").value });
   try {
     const r = await api("/api/upcoming?" + p);
+    const keepSrc = $("#usrc").value, srcN = Object.fromEntries((r.sources || []).map((x) => [x.source, x.n]));
+    $("#usrc").innerHTML = `<option value="">Licences and news</option><option value="licence">Licence applications (${fmt(srcN.licence || 0)})</option><option value="news">News headlines (${fmt(srcN.news || 0)})</option>`;
+    $("#usrc").value = keepSrc;
     if (r.missing) { el.innerHTML = `<p class="muted">Licence applications haven't been loaded into the database yet.</p>`; return; }
-    el.innerHTML = `<p class="small muted">New premises licence applications from council registers in the last six months. They often come before an opening.</p>
-      <div class="pager"><span>${fmt(r.total)} applications${r.total > r.rows.length ? `, showing the newest ${fmt(r.rows.length)}` : ""}</span></div>
-      <table><tr><th>Premises</th><th>Council</th><th>Received</th><th>Application</th><th>Status</th><th>Already in the database</th></tr>
-      ${r.rows.map((x) => `<tr>
+    el.innerHTML = `<p class="small muted">New premises licence applications from council registers, and news headlines about openings of places we don't hold yet, from the last six months. Both often come before an opening.</p>
+      <div class="pager"><span>${fmt(r.total)} leads${r.total > r.rows.length ? `, showing the newest ${fmt(r.rows.length)}` : ""}</span></div>
+      <table><tr><th>Premises</th><th>Council or publisher</th><th>Date</th><th>Application or section</th><th>Status</th><th>Already in the database</th></tr>
+      ${r.rows.map((x) => x.source === "news" ? `<tr>
+        <td><span class="chip" style="background:var(--accent);color:#fff">News</span> ${esc(x.premises_name || "Name not given")}<div class="small">${link(x.url, x.status || "headline")}</div></td>
+        <td class="small">${esc(x.council || "")}</td><td class="small">${day(x.received_on)}</td>
+        <td class="small">${esc(nice(String(x.application_type || "").replace(/^news: */, "")))}</td>
+        <td class="small muted">headline</td>
+        <td class="small">${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.matched_place || "yes")}</a>` : '<span class="muted">no</span>'}</td></tr>` : `<tr>
         <td>${link(x.url, x.premises_name || "Unnamed premises")}<div class="small muted">${esc([x.address, x.postcode].filter(Boolean).join(", "))}</div></td>
         <td class="small">${esc(x.council)}</td><td class="small">${day(x.received_on)}</td>
         <td class="small">${esc(x.application_type || "")}${x.activities ? `<div class="muted">${esc(x.activities)}</div>` : ""}</td>
         <td class="small">${esc(x.status || "")}</td>
-        <td class="small">${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.matched_place || "yes")}</a>` : '<span class="muted">no</span>'}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">No applications match.</td></tr>`}
+        <td class="small">${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.matched_place || "yes")}</a>` : '<span class="muted">no</span>'}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">Nothing matches.</td></tr>`}
       </table>`;
     el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
   } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
@@ -595,7 +720,7 @@ async function openSource(id) {
       ${x.notes || x.attributes?.note ? `<p class="small muted">${esc(x.notes || x.attributes.note)}</p>` : ""}
       <h2>Reviews and mentions (${fmt(d.reviews.length)})</h2>
       ${d.reviews.length ? `<table><tr><th>Place</th><th>Article or video</th><th>Date</th></tr>${d.reviews.map((r) => `<tr>
-        <td>${r.place_id ? `<a href="#" data-place="${r.place_id}">${esc(r.place_name)}</a>` : esc(r.place_name)}${r.paid ? ' <span class="chip">paid</span>' : ""}</td>
+        <td>${r.place_id ? `<a href="#" data-place="${r.place_id}">${esc(r.place_name)}</a>` : esc(r.place_name)}${r.paid ? ' <span class="chip">paid</span>' : ""}${viaChip(r.via)}</td>
         <td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td>
         <td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None recorded.</p>'}
       ${d.queued.length ? `<h2>Latest in the content queue</h2><table>${d.queued.map((c) => `<tr><td>${link(c.url, c.title || c.url)}</td><td class="small">${esc(c.medium)}</td><td class="small">${day(c.published_on)}</td><td class="small muted">${{ new:"waiting", added:"worth covering", rejected:"dismissed" }[c.status] || esc(c.status)}</td></tr>`).join("")}</table>` : ""}`;
@@ -685,7 +810,7 @@ async function loadQueue() {
       (r.rows.map((x) => `<div class="item" data-id="${x.id}"><div class="body">
         <h3>${link(x.url, x.title || x.url)}</h3>
         <div class="small muted">${esc(x.creator || "")} · ${esc(x.medium)} on ${esc(x.platform)}${x.published_on ? " · " + day(x.published_on) : ""}</div>
-        <div>${(x.tags || []).map((t) => `<span class="chip">${esc(t)}</span>`).join("")}${x.sponsored ? `<span class="chip" title="${esc((x.sponsor_signals || []).join(", "))}">sponsored?</span>` : ""}${x.is_london ? "" : '<span class="chip">not London</span>'}</div>
+        <div>${(x.tags || []).map((t) => `<span class="chip">${esc(t)}</span>`).join("")}${x.sponsored ? `<span class="chip" title="${esc((x.sponsor_signals || []).join(", "))}">sponsored?</span>` : ""}${x.is_london ? "" : '<span class="chip">not London</span>'}${x.read_on ? `<span class="chip rec">read into reviews ${day(x.read_on)}</span>` : ""}</div>
         ${(x.places_mentioned || []).length ? `<div class="small" style="margin-top:4px">Places: ${x.places_mentioned.map((m) => `<a href="#" data-place="${esc(m.id)}">${esc(m.name)}</a>${m.recommended ? " ★" : ""}`).join(", ")}</div>` : ""}
         ${x.description ? `<p>${esc(x.description)}</p>` : ""}
       </div><div class="acts">
