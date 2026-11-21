@@ -26,7 +26,7 @@ async function michelin() {
   for (const [slug, level] of Object.entries(levels)) {
     for (let page = 1; page <= 15; page++) {
       const url = `${base}/${slug}${page > 1 ? `/page/${page}` : ""}`;
-      const res = await fetch(url, { headers: { "user-agent": "curl/8.5.0", accept: "*/*" } });
+      const res = await fetch(url, { headers: { "user-agent": "curl/8.5.0", accept: "*/*" }, signal: AbortSignal.timeout(60000) });
       if (res.status === 404) break;
       const html = await res.text();
       if (!res.ok || html.length < 5000) throw new Error(`Michelin ${res.status} (${html.length} bytes) for ${url}`);
