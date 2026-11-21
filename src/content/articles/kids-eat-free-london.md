@@ -79,39 +79,39 @@ Three different things are sold as kids eat free:
 
 Then read the terms. Bella Italia's own page excludes **Cranbourn Street, Paddington, Irving Street, Queensway 110, Queensway 55, St Martins Lane, Strand, South Kensington, Shaftesbury Avenue and Wellington Street**. Bella Italia has eleven London restaurants. **Croydon — Valley Leisure Park, CR0 4YA — is the only one the exclusion list does not name.**
 
-heroImage: "../../assets/articles/kids-eat-free-london/family-table-juice.jpg"
-heroImageAlt: "A young child at a laid dining table raising a glass of orange juice, with a platter of vegetables and family members around them"
+![Pizzas, pasta, dough balls with garlic butter and olives on a marble table at Bella Italia](../../assets/articles/kids-eat-free-london/bella-italia.jpg)
 
-![Bella Italia - Queensway 55 in London](../../assets/articles/kids-eat-free-london/bella-italia.jpg)
-
-*Bella Italia - Queensway 55.*
+*Pizza, pasta and dough balls at Bella Italia.*
 
 ### Las Iguanas
 
 **A free kids' main, two sides and a dessert from the Niños menu for every adult who orders an à la carte main, seven days a week, all year.** Children under 12. You claim it as a perk in the Las Iguanas app, and the lunch menu does not count as a qualifying main.
 
 Las Iguanas has two London restaurants, **The O2 and Wembley**, and the terms exclude "event or selected days" at both. On a gig night at either, assume the offer is off.
-![Las Iguanas - London - Wembley in London](../../assets/articles/kids-eat-free-london/las-iguanas.jpg)
 
-*Las Iguanas - London - Wembley.*
+![The glass front of a Las Iguanas restaurant with its neon sign and orange and green terrace chairs](../../assets/articles/kids-eat-free-london/las-iguanas.jpg)
+
+*Las Iguanas.*
 
 ### Prezzo's Kids Club
 
 **£1.99 a month or £19.99 a year through the Club Prezzo app buys a free three-course kids' meal for up to three children per visit, any day, with one full-priced adult main.** Once per day, unlimited visits, cancel or pause in the app.
 
 **Three children free on one adult main**; every other offer here is one child per adult main, or two at best. The standard kids' menu is labelled ages 2 to 8 but Prezzo states it is available to any child aged 2 to 12.
-![Prezzo Italian Restaurant London Strand in London](../../assets/articles/kids-eat-free-london/prezzos-kids-club.jpg)
 
-*Prezzo Italian Restaurant London Strand.*
+![A Prezzo dining room with globe lights, a mezzanine, striped banquettes and marble-topped tables](../../assets/articles/kids-eat-free-london/prezzos-kids-club.jpg)
+
+*Inside a Prezzo restaurant.*
 
 ### Morrisons Café
 
 **A free kids' meal and any kids' drink — normally £4.00 — with an adult main of £5 or over, every day, seven days a week.** Children under 16 and with an adult. The adult main has to come from "The Breakfasts" or "The Classics"; extras do not count. The free meal is Birds Eye chicken dippers, fish fingers, veggie fingers or a Goodfella's mini pizza, and it also works on the Kids Pick n Mix deal.
 
 Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Holloway, Peckham, Stamford Hill, Canning Town, Wood Green, Stratford and Acton — **only Acton, on King Street W3, lists a café.**
-![Morrisons Cafe in London](../../assets/articles/kids-eat-free-london/morrisons-caf.jpg)
 
-*Morrisons Cafe.*
+![A Morrisons Café full breakfast of bacon, sausages, egg, beans, mushrooms, hash brown and toast](../../assets/articles/kids-eat-free-london/morrisons-caf.jpg)
+
+*A Morrisons Café breakfast.*
 
 ### Dunelm Pausa, Sizzling Pubs, Hungry Horse and IKEA
 
@@ -130,17 +130,22 @@ Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Ho
 Most of the big chains run kids-eat-free as a school-holiday campaign, appearing a week or two before half term and withdrawn the day term restarts. For autumn half term 2026 (most London boroughs ran **Monday 26 to Friday 30 October**), **ASK Italian** had kids eat free every day in October through the ASK Perks app and **Zizzi** gave a free Bambini meal with an adult main from **18 October to 1 November** (not Saturdays). **TGI Fridays** lists kids eat free for Stripes Rewards members for the festive season on its offers page. The next school holidays begin on **Saturday 19 December**, then **February half term is 15 to 19 February 2027**; our [February half-term guide](/articles/february-half-term-london/) has what's on that week. Academies and individual boroughs shift by a day or two.
 
 Two things run without a published end date.
-![IKEA Wembley in London](../../assets/articles/kids-eat-free-london/dunelm-pausa.jpg)
-
-*IKEA Wembley.*
 
 ### YO! Sushi
 
 **One free kiddos bento for every £10 an adult spends on food, Monday to Friday.** Children 12 and under. It runs on your local school holiday dates, not one national window. Its four London restaurants are all outer.
 
+![Staff behind a YO! counter of packed sushi, gyoza and bowls](../../assets/articles/kids-eat-free-london/yo-sushi.jpg)
+
+*A YO! sushi counter.*
+
 ### Zizzi through Kids Pass
 
 Zizzi has partnered with **Kids Pass**, whose members get "one free Bambini Meal with the purchase of an adult main meal, seven days a week at participating restaurants". Zizzi has 28 London branches, including Bow Street, The Strand, Central St Giles, Bankside and Paddington Central.
+
+![A Zizzi dining room with shelves of pasta jars, a yellow and blue banquette and wooden tables](../../assets/articles/kids-eat-free-london/zizzi-through-kids-pass.jpg)
+
+*Inside a Zizzi restaurant.*
 
 The drawback is the membership. **Kids Pass advertises £1 for a 30-day trial** and then renews as a paid subscription. Take the trial if the maths works for one holiday, and set a reminder to cancel.
 
@@ -217,13 +222,5 @@ The pub brands with a kids-eat-free offer (Sizzling, Hungry Horse, Brewers Fayre
 - 👨‍👩‍👧 **[London With Children: Free Farms, Zoos and Days Out](/articles/london-with-children/)** — mostly free, and where the day actually goes
 - 🎒 **[February Half Term in London](/articles/february-half-term-london/)** — 15 to 19 February 2027: what to book, the Tube strike day and the free options
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
-![YO! Greenford Hoover Building Tesco Kiosk in London](../../assets/articles/kids-eat-free-london/yo-sushi.jpg)
 
-*School holiday dates are the common London pattern published by Southwark and Hounslow; check your own borough. These offers are rewritten for every school holiday, and the branch exclusions change with them.*
-*YO! Greenford Hoover Building Tesco Kiosk.*
-
-![Zizzi Italian Restaurant Wembley in London](../../assets/articles/kids-eat-free-london/zizzi-through-kids-pass.jpg)
-
-*Zizzi Italian Restaurant Wembley.*
-
-*Every offer, price, age limit, date and branch exclusion above was read off the operator's own website on 3 September 2026. School holiday dates are the common London pattern published by Southwark and Hounslow — check your own borough. These offers are rewritten for every school holiday, and the branch exclusions change with them.*
+*Offers, prices, age limits and branch exclusions as of 3 September 2026; school-holiday offers as of 1 November 2026. School holiday dates are the common London pattern published by Southwark and Hounslow; check your own borough. These offers are rewritten for every school holiday, and the branch exclusions change with them.*
