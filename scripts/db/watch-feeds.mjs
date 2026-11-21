@@ -79,7 +79,15 @@ async function worker() {
     if (!isFeed(r)) continue;
     read++;
     await client.query("update sources set last_checked = $2 where id = $1", [s.id, today]);
-    for (const it of items(r.text).filter((i) => (i.published ?? today) >= since)) {
+    // Leave out auto-generated listing posts: anything dated after today (scheduled pages that
+    // redirect until their day comes) and titles that repeat with only a date changed, such as
+    // "Thursday Night in London: Thursday, 17 Dec 2026".
+    const all = items(r.text);
+    const pattern = (t) => (t ?? "").toLowerCase().replace(/\d+(st|nd|rd|th)?|\b(mon|tues|wednes|thurs|fri|satur|sun)day\b|\b(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\b/g, "#").replace(/[^a-z#]+/g, " ").trim();
+    const seen = new Map();
+    for (const it of all) seen.set(pattern(it.title), (seen.get(pattern(it.title)) ?? 0) + 1);
+    const templated = (it) => /#/.test(pattern(it.title)) && seen.get(pattern(it.title)) >= 3;
+    for (const it of all.filter((i) => (i.published ?? today) >= since && (i.published ?? today) <= today && !templated(i))) {
       const row = queueRow({ platform: "rss", medium: "article", source_id: s.id, creator: s.name, item_id: it.id.slice(0, 500),
         url: it.url, title: it.title, published: it.published, body: it.body, londonSite: LONDON_SITE.test(`${s.domain} ${s.name}`) }, m, today);
       if (await upsertQueue(client, row)) queued++;

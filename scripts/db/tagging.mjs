@@ -27,9 +27,20 @@ export function sponsorSignals(title, body) {
 }
 
 // Loads the place names worth looking for and London's area names, once per run.
+// Place names that are also everyday words: a restaurant called Sunday must not match every
+// "Sunday Night in London" post. Applies to the whole name only.
+export const COMMON_WORDS = new RegExp("^(?:" + [
+  "monday|tuesday|wednesday|thursday|friday|saturday|sunday|weekend|tonight",
+  "january|february|march|april|may|june|july|august|september|october|november|december",
+  "spring|summer|autumn|winter|christmas|easter|halloween",
+  "british|english|french|italian|spanish|greek|turkish|thai|japanese|chinese|korean|indian|vietnamese|mexican|caribbean|african|american",
+  "breakfast|brunch|lunch|dinner|supper|dining|kitchen|bakery|market|garden|gallery|museum|theatre|station|cinema|free|families|family",
+].join("|") + ")$");
+
 export async function loadMatchers(client) {
   const { rows: names } = await client.query("select id, name, recommended from watch_names");
-  const watch = names.map((n) => ({ ...n, n: norm(n.name) })).filter((n) => n.n.trim().length >= 4);
+  const watch = names.map((n) => ({ ...n, n: norm(n.name) }))
+    .filter((n) => n.n.trim().length >= 4 && !COMMON_WORDS.test(n.n.trim()));
   const { rows: areaRows } = await client.query(
     "select distinct lower(x) a from (select area x from places where recommended union select borough from places where recommended) s where length(x) >= 5");
   const london = [" london ", ...areaRows.map((r) => norm(r.a))];
