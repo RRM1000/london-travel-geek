@@ -54,6 +54,17 @@ const articles = files.map((f) => {
   };
 });
 
+// Each consensus guide's topic, from data/topics/<topic>.json ("article": "src/content/articles/<slug>.md").
+const topicOf = new Map();
+if (fs.existsSync("data/topics")) for (const f of fs.readdirSync("data/topics").filter((f) => f.endsWith(".json"))) {
+  try {
+    const t = JSON.parse(fs.readFileSync(path.join("data/topics", f), "utf8"));
+    const slug = path.basename(t.article ?? "").replace(/\.mdx?$/, "");
+    if (t.topic && slug) topicOf.set(slug, t.topic);
+  } catch {}
+}
+for (const a of articles) a.topic = topicOf.get(a.slug) ?? null;
+
 // --- the places we can match ---
 const client = await connect();
 const { rows: places } = await client.query(`
@@ -140,17 +151,17 @@ for (const a of articles) {
 // --- write ---
 await client.query("begin");
 await client.query(
-  `insert into articles (slug, title, category, tags, draft, url, published_at, updated_at, last_checked)
-   select slug, title, category, tags::text[], draft, url, published_at, updated_at, last_checked
-   from unnest($1::text[], $2::text[], $3::text[], $4::text[], $5::bool[], $6::text[], $7::date[], $8::date[], $9::date[])
-     as t(slug, title, category, tags, draft, url, published_at, updated_at, last_checked)
+  `insert into articles (slug, title, category, tags, draft, url, published_at, updated_at, last_checked, topic)
+   select slug, title, category, tags::text[], draft, url, published_at, updated_at, last_checked, topic
+   from unnest($1::text[], $2::text[], $3::text[], $4::text[], $5::bool[], $6::text[], $7::date[], $8::date[], $9::date[], $10::text[])
+     as t(slug, title, category, tags, draft, url, published_at, updated_at, last_checked, topic)
    on conflict (slug) do update set title = excluded.title, category = excluded.category, tags = excluded.tags,
      draft = excluded.draft, url = excluded.url, published_at = excluded.published_at, updated_at = excluded.updated_at,
-     last_checked = excluded.last_checked`,
+     last_checked = excluded.last_checked, topic = excluded.topic`,
   [articles.map((a) => a.slug), articles.map((a) => a.title), articles.map((a) => a.category),
    articles.map((a) => "{" + a.tags.map((t) => JSON.stringify(t)).join(",") + "}"), articles.map((a) => a.draft),
    articles.map((a) => SITE + a.slug + "/"), articles.map((a) => a.published_at), articles.map((a) => a.updated_at),
-   articles.map(() => today)]);
+   articles.map(() => today), articles.map((a) => a.topic)]);
 await client.query("delete from articles where not (slug = any($1::text[]))", [articles.map((a) => a.slug)]);
 await client.query("delete from article_places where article_slug = any($1::text[])", [articles.map((a) => a.slug)]);
 for (let i = 0; i < links.length; i += 5000) {

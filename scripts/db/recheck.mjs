@@ -60,4 +60,12 @@ const queue = await client.query(`select name, category, last_checked from place
   where recommended and status = 'open' and parent_id is null order by last_checked nulls first limit 25`);
 console.log("recommended places checked longest ago:");
 for (const r of queue.rows) console.log(`  ${r.last_checked?.toISOString?.().slice(0, 10) ?? "never"}  ${r.category.padEnd(12)} ${r.name}`);
+
+// Guide alerts are a view, so they are always current; this lists them in the weekly log.
+const guideAlerts = await client.query(`select kind, article_title, place_name, detail from guide_alerts order by priority limit 40`)
+  .catch(() => ({ rows: null }));
+if (guideAlerts.rows) {
+  console.log(`guide alerts: ${guideAlerts.rows.length || "none"}`);
+  for (const a of guideAlerts.rows) console.log(`  ${a.kind.padEnd(10)} ${a.place_name} in "${a.article_title}": ${a.detail}`);
+}
 await client.end();

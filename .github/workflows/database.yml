@@ -83,6 +83,12 @@ jobs:
           node scripts/db/watch-feeds.mjs
           node scripts/db/watch-tiktok.mjs
 
+      - name: Read the new articles and videos into reviews
+        if: env.FEEDS == 'true'
+        continue-on-error: true
+        timeout-minutes: 20
+        run: node scripts/db/read-queue.mjs --max 1500
+
       - name: Food hygiene register
         if: env.WEEKLY == 'true'
         run: node scripts/db/load-fsa.mjs
@@ -98,6 +104,11 @@ jobs:
         run: |
           node scripts/db/load-stations.mjs
           node scripts/db/load-awards.mjs
+
+      - name: Specialist lists
+        if: env.WEEKLY == 'true'
+        continue-on-error: true
+        run: node scripts/db/load-lists.mjs
 
       - name: Weekly recheck
         if: env.WEEKLY == 'true'
