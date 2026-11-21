@@ -9,7 +9,8 @@
 -- A branch with a different website from the brand's is left alone.
 --
 -- The brand row is our own recommended row when there is one (Hawksmoor), otherwise a new
--- place with origin 'brand'. Links made here carry attributes.brandLinked, so they can be undone:
+-- place with origin 'brand'. Two spellings of one chain (Costa and Costa Coffee) are merged by
+-- setting the spare brand row's duplicate_of to the kept one; later runs follow it. Links made here carry attributes.brandLinked, so they can be undone:
 --   update places set parent_id = null, attributes = attributes - 'brandLinked' where attributes ? 'brandLinked';
 create or replace function public.link_brands() returns table (brands int, branches int)
 language plpgsql set search_path = public as $$
@@ -37,13 +38,13 @@ begin
   alter table _g add column brand_id bigint;
   update _g set brand_id = (select id from _p where _p.c = _g.c and _p.recommended and _p.parent_id is null
                             and _p.origin like 'sheet:%' order by id limit 1);
-  update _g set brand_id = (select id from places where origin = 'brand' and slug = 'brand-' || _g.c) where brand_id is null;
+  update _g set brand_id = (select coalesce(duplicate_of, id) from places where origin = 'brand' and slug = 'brand-' || _g.c) where brand_id is null;
   insert into places (slug, name, category, status, recommended, website, origin, first_seen, last_checked, attributes)
   select 'brand-' || c, nm, cat, 'open', false, case when dom is not null and samedom >= 2 then 'https://' || dom end,
          'brand', current_date, current_date, jsonb_build_object('brand', true)
   from _g where brand_id is null
   on conflict (slug) do nothing;
-  update _g set brand_id = (select id from places where origin = 'brand' and slug = 'brand-' || _g.c) where brand_id is null;
+  update _g set brand_id = (select coalesce(duplicate_of, id) from places where origin = 'brand' and slug = 'brand-' || _g.c) where brand_id is null;
   get diagnostics nb = row_count;
 
   update places p set parent_id = g.brand_id, attributes = p.attributes || '{"brandLinked": true}'
