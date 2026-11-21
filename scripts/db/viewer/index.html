@@ -123,7 +123,8 @@
   </section>
   <section id="newp" hidden>
     <div class="filters">
-      <select id="nmode"><option value="new">Places that look new</option><option value="upcoming">Upcoming openings (licence applications)</option></select>
+      <select id="nmode"><option value="new">Places that look new</option><option value="upcoming">Upcoming openings (licences and news)</option></select>
+      <select id="usrc" hidden><option value="">Licences and news</option><option value="licence">Licence applications</option><option value="news">News headlines</option></select>
       <input type="search" id="nq" placeholder="Name, area or postcode">
       <select id="ndays"><option value="7">New in the last 7 days</option><option value="30" selected>New in the last 30 days</option><option value="90">New in the last 90 days</option><option value="">Any time</option></select>
       <select id="nwhy"><option value="">Any reason</option></select>
@@ -355,7 +356,7 @@ async function openPlace(id) {
         <td><a href="#" data-article="${esc(r.article_slug)}">${esc(r.title)}</a>${r.draft ? ' <span class="chip">draft</span>' : ""}${r.heading ? `<div class="small muted">${esc(r.heading)}</div>` : ""}</td>
         <td class="small">${r.kind === "entry" ? '<span class="chip rec">entry</span>' : '<span class="chip">mention</span>'}${safeUrl(r.url) ? ` ${link(r.url, "on the site")}` : ""}</td></tr>`).join("")}</table>` : '<p class="muted">Not in any article.</p>'}
       <h2>Mentions by sources (${d.reviews.length})</h2>
-      ${d.reviews.length ? `<table><tr><th>Source</th><th>Title</th><th>Date</th></tr>${d.reviews.map((r) => `<tr><td>${esc(r.source || "")}${r.tier ? ` <span class="chip">${esc(r.tier)}</span>` : ""}${r.paid ? ' <span class="chip">paid</span>' : ""}</td><td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td><td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None.</p>'}
+      ${d.reviews.length ? `<table><tr><th>Source</th><th>Title</th><th>Date</th></tr>${d.reviews.map((r) => `<tr><td>${esc(r.source || "")}${r.tier ? ` <span class="chip">${esc(r.tier)}</span>` : ""}${r.paid ? ' <span class="chip">paid</span>' : ""}${viaChip(r.via)}</td><td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td><td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None.</p>'}
       ${d.deals.length ? `<h2>Deals</h2><table><tr><th>Offer</th><th>When</th></tr>${d.deals.map((r) => `<tr><td>${link(r.source_url, r.offer || r.type)}${r.price ? ` <span class="chip">${esc(r.price)}</span>` : ""}</td><td class="small">${esc([r.days, r.times].filter(Boolean).join(", "))}${r.ends_on ? `<div class="muted">until ${day(r.ends_on)}</div>` : ""}</td></tr>`).join("")}</table>` : ""}
       ${d.events.length ? `<h2>Upcoming events</h2><table><tr><th>Event</th><th>Date</th></tr>${d.events.map((r) => `<tr><td>${link(r.url, r.name)}</td><td class="small">${day(r.starts_on)}</td></tr>`).join("")}</table>` : ""}
       ${d.branches.length ? `<h2>Branches (${fmt(d.branches.length)})</h2><table>${d.branches.map((b) => `<tr><td><a href="#" data-id="${b.id}">${esc(b.name)}</a>${b.status !== "open" ? ` <span class="chip">${esc(b.status)}</span>` : ""}</td><td class="small muted">${esc([b.area, b.borough].filter(Boolean).join(", "))}</td><td class="small muted">${esc(b.postcode)}</td></tr>`).join("")}</table>` : ""}
@@ -367,6 +368,10 @@ async function openPlace(id) {
   } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
+
+// Where a review came from (reviews.attributes.via)
+const VIA = { content_queue:"from the content queue", "youtube-lists":"from YouTube lists", "db-lists":"from published lists" };
+const viaChip = (v) => v ? ` <span class="chip" title="How this review got into the database">${esc(VIA[v] || v)}</span>` : "";
 
 // Prices and booking
 const PLATFORMS = { opentable:"OpenTable", sevenrooms:"SevenRooms", resy:"Resy", tock:"Tock", resdiary:"ResDiary", designmynight:"DesignMyNight", thefork:"TheFork", quandoo:"Quandoo" };
@@ -500,29 +505,38 @@ let nPage = 0, nOpts = false;
 $("#nmode").addEventListener("change", () => {
   const up = $("#nmode").value === "upcoming";
   for (const id of ["ndays", "nwhy", "ncat", "nbor"]) $("#" + id).hidden = up;
+  $("#usrc").hidden = !up;
   $("#narts").parentElement.hidden = up;
   loadNew();
 });
-["ndays", "nwhy", "ncat", "nbor", "narts"].forEach((id) => $("#" + id).addEventListener("change", () => { nPage = 0; loadNew(); }));
+["ndays", "nwhy", "ncat", "nbor", "narts", "usrc"].forEach((id) => $("#" + id).addEventListener("change", () => { nPage = 0; loadNew(); }));
 $("#nq").addEventListener("input", () => { nPage = 0; clearTimeout(timer); timer = setTimeout(loadNew, 300); });
 const WHY = { "new on the hygiene register":"New on the hygiene register", "new on the map":"New on OpenStreetMap",
   "awaiting its first hygiene inspection":"Awaiting its first hygiene inspection", "opening article":"Opening article" };
 const whyLabel = (w) => WHY[w] || (String(w).startsWith("new on the ") ? "Newly added to the database" : w);
 async function loadUpcoming() {
   const el = $("#nlist");
-  const p = new URLSearchParams({ q:$("#nq").value.trim() });
+  const p = new URLSearchParams({ q:$("#nq").value.trim(), source:$("#usrc").value });
   try {
     const r = await api("/api/upcoming?" + p);
+    const keepSrc = $("#usrc").value, srcN = Object.fromEntries((r.sources || []).map((x) => [x.source, x.n]));
+    $("#usrc").innerHTML = `<option value="">Licences and news</option><option value="licence">Licence applications (${fmt(srcN.licence || 0)})</option><option value="news">News headlines (${fmt(srcN.news || 0)})</option>`;
+    $("#usrc").value = keepSrc;
     if (r.missing) { el.innerHTML = `<p class="muted">Licence applications haven't been loaded into the database yet.</p>`; return; }
-    el.innerHTML = `<p class="small muted">New premises licence applications from council registers in the last six months. They often come before an opening.</p>
-      <div class="pager"><span>${fmt(r.total)} applications${r.total > r.rows.length ? `, showing the newest ${fmt(r.rows.length)}` : ""}</span></div>
-      <table><tr><th>Premises</th><th>Council</th><th>Received</th><th>Application</th><th>Status</th><th>Already in the database</th></tr>
-      ${r.rows.map((x) => `<tr>
+    el.innerHTML = `<p class="small muted">New premises licence applications from council registers, and news headlines about openings of places we don't hold yet, from the last six months. Both often come before an opening.</p>
+      <div class="pager"><span>${fmt(r.total)} leads${r.total > r.rows.length ? `, showing the newest ${fmt(r.rows.length)}` : ""}</span></div>
+      <table><tr><th>Premises</th><th>Council or publisher</th><th>Date</th><th>Application or section</th><th>Status</th><th>Already in the database</th></tr>
+      ${r.rows.map((x) => x.source === "news" ? `<tr>
+        <td><span class="chip" style="background:var(--accent);color:#fff">News</span> ${esc(x.premises_name || "Name not given")}<div class="small">${link(x.url, x.status || "headline")}</div></td>
+        <td class="small">${esc(x.council || "")}</td><td class="small">${day(x.received_on)}</td>
+        <td class="small">${esc(nice(String(x.application_type || "").replace(/^news: */, "")))}</td>
+        <td class="small muted">headline</td>
+        <td class="small">${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.matched_place || "yes")}</a>` : '<span class="muted">no</span>'}</td></tr>` : `<tr>
         <td>${link(x.url, x.premises_name || "Unnamed premises")}<div class="small muted">${esc([x.address, x.postcode].filter(Boolean).join(", "))}</div></td>
         <td class="small">${esc(x.council)}</td><td class="small">${day(x.received_on)}</td>
         <td class="small">${esc(x.application_type || "")}${x.activities ? `<div class="muted">${esc(x.activities)}</div>` : ""}</td>
         <td class="small">${esc(x.status || "")}</td>
-        <td class="small">${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.matched_place || "yes")}</a>` : '<span class="muted">no</span>'}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">No applications match.</td></tr>`}
+        <td class="small">${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.matched_place || "yes")}</a>` : '<span class="muted">no</span>'}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">Nothing matches.</td></tr>`}
       </table>`;
     el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
   } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
@@ -706,7 +720,7 @@ async function openSource(id) {
       ${x.notes || x.attributes?.note ? `<p class="small muted">${esc(x.notes || x.attributes.note)}</p>` : ""}
       <h2>Reviews and mentions (${fmt(d.reviews.length)})</h2>
       ${d.reviews.length ? `<table><tr><th>Place</th><th>Article or video</th><th>Date</th></tr>${d.reviews.map((r) => `<tr>
-        <td>${r.place_id ? `<a href="#" data-place="${r.place_id}">${esc(r.place_name)}</a>` : esc(r.place_name)}${r.paid ? ' <span class="chip">paid</span>' : ""}</td>
+        <td>${r.place_id ? `<a href="#" data-place="${r.place_id}">${esc(r.place_name)}</a>` : esc(r.place_name)}${r.paid ? ' <span class="chip">paid</span>' : ""}${viaChip(r.via)}</td>
         <td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td>
         <td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None recorded.</p>'}
       ${d.queued.length ? `<h2>Latest in the content queue</h2><table>${d.queued.map((c) => `<tr><td>${link(c.url, c.title || c.url)}</td><td class="small">${esc(c.medium)}</td><td class="small">${day(c.published_on)}</td><td class="small muted">${{ new:"waiting", added:"worth covering", rejected:"dismissed" }[c.status] || esc(c.status)}</td></tr>`).join("")}</table>` : ""}`;
@@ -796,7 +810,7 @@ async function loadQueue() {
       (r.rows.map((x) => `<div class="item" data-id="${x.id}"><div class="body">
         <h3>${link(x.url, x.title || x.url)}</h3>
         <div class="small muted">${esc(x.creator || "")} · ${esc(x.medium)} on ${esc(x.platform)}${x.published_on ? " · " + day(x.published_on) : ""}</div>
-        <div>${(x.tags || []).map((t) => `<span class="chip">${esc(t)}</span>`).join("")}${x.sponsored ? `<span class="chip" title="${esc((x.sponsor_signals || []).join(", "))}">sponsored?</span>` : ""}${x.is_london ? "" : '<span class="chip">not London</span>'}</div>
+        <div>${(x.tags || []).map((t) => `<span class="chip">${esc(t)}</span>`).join("")}${x.sponsored ? `<span class="chip" title="${esc((x.sponsor_signals || []).join(", "))}">sponsored?</span>` : ""}${x.is_london ? "" : '<span class="chip">not London</span>'}${x.read_on ? `<span class="chip rec">read into reviews ${day(x.read_on)}</span>` : ""}</div>
         ${(x.places_mentioned || []).length ? `<div class="small" style="margin-top:4px">Places: ${x.places_mentioned.map((m) => `<a href="#" data-place="${esc(m.id)}">${esc(m.name)}</a>${m.recommended ? " ★" : ""}`).join(", ")}</div>` : ""}
         ${x.description ? `<p>${esc(x.description)}</p>` : ""}
       </div><div class="acts">

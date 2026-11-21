@@ -118,7 +118,7 @@ async function places(p) {
 async function place(id) {
   const [row] = await q(`select * from public.places where id = $1`, [id]);
   if (!row) return null;
-  const reviews = await q(`select r.title, r.url, r.topic, r.published_on, r.rank, r.verdict, r.quote, r.paid, s.name source, s.tier
+  const reviews = await q(`select r.title, r.url, r.topic, r.published_on, r.rank, r.verdict, r.quote, r.paid, r.attributes->>'via' via, s.name source, s.tier
     from public.reviews r left join public.sources s on s.id = r.source_id where r.place_id = $1 order by r.published_on desc nulls last limit 200`, [id]);
   const deals = await q(`select type, offer, price, days, times, starts_on, ends_on, source_url from public.deals where place_id = $1`, [id]);
   const events = await q(`select name, type, starts_on, ends_on, url from public.events where place_id = $1 and (ends_on is null or ends_on >= current_date)
@@ -150,7 +150,7 @@ async function queue(p) {
   const w = `where ${where.join(" and ")}`;
   const page = Math.max(0, Number(p.page) || 0);
   const rows = await q(`select id, creator, platform, medium, tags, title, url, published_on, left(description, 400) description,
-      places_mentioned, sponsored, sponsor_signals, is_london, status, notes, first_seen
+      places_mentioned, sponsored, sponsor_signals, is_london, status, notes, first_seen, to_jsonb(content_queue)->>'read_on' read_on
     from public.content_queue ${w} order by published_on desc nulls last, id desc limit 50 offset ${page * 50}`, args);
   const [{ n }] = await q(`select count(*)::int n from public.content_queue ${w}`, args);
   return { rows, total: n, page };
@@ -216,7 +216,7 @@ async function sources(p) {
 async function source(id) {
   const [row] = await q(`select s.*, ${WATCH} watch from public.sources s where s.id = $1`, [id]);
   if (!row) return null;
-  const reviews = await q(`select r.place_id, r.place_name, r.title, r.url, r.topic, r.published_on, r.rank, r.quote, r.paid
+  const reviews = await q(`select r.place_id, r.place_name, r.title, r.url, r.topic, r.published_on, r.rank, r.quote, r.paid, r.attributes->>'via' via
     from public.reviews r where r.source_id = $1 order by r.published_on desc nulls last, r.place_name limit 500`, [id]);
   const queued = await q(`select id, title, url, published_on, status, medium from public.content_queue where source_id = $1
     order by published_on desc nulls last limit 20`, [id]);
@@ -283,11 +283,13 @@ async function upcoming(p) {
   if (p.q) add(`(premises_name ilike $? or address ilike $? or postcode ilike $? or activities ilike $?)`, `%${p.q}%`);
   if (p.council) add(`council = $?`, p.council);
   if (p.unmatched === "1") where.push("place_id is null");
+  if (p.source) add(`coalesce(to_jsonb(u)->>'source', 'licence') = $?`, p.source);
   const w = where.length ? `where ${where.join(" and ")}` : "";
-  const rows = await q(`select * from public.upcoming_openings ${w} order by received_on desc nulls last limit 300`, args);
-  const [{ n }] = await q(`select count(*)::int n from public.upcoming_openings ${w}`, args);
+  const rows = await q(`select * from public.upcoming_openings u ${w} order by received_on desc nulls last limit 300`, args);
+  const [{ n }] = await q(`select count(*)::int n from public.upcoming_openings u ${w}`, args);
+  const sources = await q(`select coalesce(to_jsonb(u)->>'source', 'licence') source, count(*)::int n from public.upcoming_openings u group by 1`);
   const councils = await q(`select council, count(*)::int n from public.upcoming_openings group by 1 order by 1`);
-  return { rows, total: n, councils };
+  return { rows, total: n, councils, sources };
 }
 
 async function closed(p) {
