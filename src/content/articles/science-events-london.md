@@ -3,8 +3,8 @@ title: "Science in London: The Lectures, Lates and Days the Engines Run"
 seoTitle: "Science Events in London: Lectures, Lates and Expos"
 description: "A Royal Institution Discourse is £20 and starts at 7.30pm without an introduction. Gresham College has been free since 1597. And the Victorian beam engines at Crossness, Kempton and Kew Bridge only turn on published dates."
 publishedAt: 2026-07-21
-updatedAt: 2026-11-01
-reviewBy: 2026-11-20
+updatedAt: 2026-11-21
+reviewBy: 2026-12-07
 sites:
   - london
 canonicalSite: london
@@ -55,16 +55,13 @@ Every date and price below is the organiser's own.
 
 | Date | Price | What is on |
 | --- | --- | --- |
-| **Mon 2 Nov** | Members + one guest | RGS Monday Night Lecture: Lucy Hawkes on tracking wild animals, Kensington Gore, 6.30pm |
-| **Tue 3 Nov** | Free | Croonian Prize Lecture: David Baker on computational protein design, the Royal Society, 6.30pm |
-| **Tue 3 Nov** | £25, £15 members | NHM Dig Deeper: the team behind the *Wild London* documentary, Flett Theatre, 6.30pm |
-| **Tue 10 Nov** | Free | Michael Faraday Prize Lecture: Anjali Goswami on evolution under pressure, the Royal Society, 6.30pm |
-| **Tue 10 Nov** | Free | Gresham College: Alain Goriely on the end of mathematics and the AI crisis, Barnard's Inn Hall, 6pm |
-| **Thu 12 Nov** | Free | Milner Prize Lecture: Johan Håstad on complexity theory, the Royal Society, 6.30pm |
-| **Thu 19 Nov** | Free | Helen Czerski on the nitrogen cycle, Gresham College at Barnard's Inn Hall, 6pm |
-| **Thu 19 Nov** | Free | Hampstead Scientific Society: George Allison on bone strength in children, 8pm |
+| **Mon 23 Nov** | Free | RGS Be Inspired afternoon talk: Henrietta Butler on Alexander Gordon Laing's Timbuktu mission, Kensington Gore and online |
+| **Mon 23 Nov** | Members + one guest | RGS Monday Night Lecture: Mary-Ann Ochota on the future of the British countryside, Kensington Gore, 6.30pm |
+| **Tue 24 Nov** | Free | See Healthcare Differently: a materials-science panel chaired by Mark Miodownik, the Royal Society, 6.30pm |
+| **Thu 26 Nov** | Free, ticketed | Science Museum Lates: Pokémon x ESA, 6.30pm to 10pm |
 | **Sat 28–Sun 29 Nov** | £15 adult, £5 child | November Steam Up, London Museum of Water & Steam, Brentford |
 | **Sun 6 Dec** | £20.37 | Crossness Christmas Steaming Day, Thamesmead |
+| **Tue 8 Dec** | Free | See Christmas Differently: a panel on cutting Christmas's carbon and waste, chaired by Mark Miodownik, the Royal Society, 6.30pm |
 | **Sat 12 Dec** | Free | Markfield's last steaming day of 2026, engine running 12.30 and 2.30 |
 | **Tue 29–Thu 31 Dec** | £12 and £15 | New Year's steaming at Kempton and the London Museum of Water & Steam |
 
@@ -94,11 +91,9 @@ The **2026 [Christmas Lectures](https://www.rigb.org/christmas-lectures) are giv
 
 Two rules decide whether you get in. **In-person tickets are only released one month before the lecture**, through Eventbrite. And Gresham [deliberately oversells](https://www.gresham.ac.uk/faqs) every public lecture, so a ticket is not a seat — the college asks you to arrive **at least 30 minutes early**, and it no longer opens the overflow room downstairs. Children under 12 should be with an adult; there is no other age limit.
 
-Coming up at Barnard's Inn Hall: Alain Goriely on **the end of mathematics and the AI crisis, Tuesday 10 November at 6pm**, and Helen Czerski on **the nitrogen cycle, Thursday 19 November at 6pm**.
-
 ### The Royal Society, Carlton House Terrace
 
-**Free, and open to anyone.** The [public programme](https://royalsociety.org/science-events-and-lectures/public/) at 6–9 Carlton House Terrace SW1Y 5AG runs prize lectures and panels at 6.30pm, doors 6pm, with live subtitles. Coming up: the **Croonian Prize Lecture on 3 November** (David Baker on computational protein design), the **[Michael Faraday Prize Lecture on 10 November](https://royalsociety.org/science-events-and-lectures/2026/11/faraday-prize-lecture/)** (Anjali Goswami) and the **Milner Prize Lecture on 12 November** (Johan Håstad on complexity theory).
+**Free, and open to anyone.** The [public programme](https://royalsociety.org/science-events-and-lectures/public/) at 6–9 Carlton House Terrace SW1Y 5AG runs prize lectures and panels at 6.30pm, doors 6pm, with live subtitles. Coming up: two of Mark Miodownik's materials-science panels, **[See Healthcare Differently on 24 November](https://royalsociety.org/science-events-and-lectures/2026/11/see-healthcare-differently/)** and **[See Christmas Differently on 8 December](https://royalsociety.org/science-events-and-lectures/2026/12/see-christmas-differently/)**, then the **Ferrier Prize Lecture** by Kenneth Harris on 3 February 2027.
 
 In-person seats are free but booked through Eventbrite, and the Society warns it issues more than it has seats, so entry is first-come. It also releases them in waves. **Watching online needs no booking at all** — it goes out on the Society's YouTube channel with a live Q&A through Slido, and the recording stays up.
 
@@ -108,7 +103,7 @@ The free **[Summer Science Exhibition](https://royalsociety.org/science-events-a
 
 The **[Monday Night Lectures](https://www.rgs.org/events/upcoming-events)** at 1 Kensington Gore SW7 2AR are the Society's flagship talks, and they are not open to the public: **Fellows and Members plus one guest**, included in membership, with a free ticket booked in advance. Doors 5.30pm at the Exhibition Road entrance, lecture 6.30pm in the Ondaatje Theatre, bar in the Map Room, card payments only. Every one is livestreamed, and members watching at home do not have to pre-book at all.
 
-The autumn run is weekly: **Lucy Hawkes on tracking wild animals on 2 November** and polar expeditions on 9 November.
+The autumn run is weekly, including **Mary-Ann Ochota on the future of the British countryside on 23 November**.
 
 Membership is **£185 a year**, Fellowship from £144 — but **[Student Membership is free](https://www.rgs.org/join-us/student-membership)** for anyone studying GCSE, A Level or an undergraduate degree, which is the cheap way into the whole series. Separately, the Society hires the Ondaatje Theatre to outside promoters, and those nights are open to anyone at commercial prices.
 
@@ -126,7 +121,7 @@ It is worth pairing with the museums two hundred metres away, which the [South K
 
 ### Hampstead Scientific Society
 
-Founded 1899 and run entirely by volunteers. **[Talks](https://www.hampsteadscience.ac.uk/talks.html) are on the third Thursday of the month from September to May at 8pm**, at Hampstead Community Centre, 78 Hampstead High Street NW3 1RE. **Free, members and non-members both welcome**, tea and biscuits afterwards with the speaker. **George Allison of Sheffield on 19 November** on computational modelling of bone strength in children.
+Founded 1899 and run entirely by volunteers. **[Talks](https://www.hampsteadscience.ac.uk/talks.html) are on the third Thursday of the month from September to May at 8pm**, at Hampstead Community Centre, 78 Hampstead High Street NW3 1RE. **Free, members and non-members both welcome**, tea and biscuits afterwards with the speaker.
 
 ---
 
@@ -138,7 +133,7 @@ The collections are in the [museums guide](/articles/best-museums-london/). Thes
 
 **[Wellcome Collection Lates](https://wellcomecollection.org/events)** take over the whole building on a Thursday evening, **7pm to 10pm, free but ticketed**, with one ticket covering the night and everything inside it on a first-come basis. Each Late has music in the atrium, short talks and gallery tours; dates are on the events page. Exhibitions, bar, café and shop stay open, and there is a low-lit quiet space.
 
-**[NHM Dig Deeper](https://www.nhm.ac.uk/events/dig-deeper-talks.html)** is the Natural History Museum's evening panel series in the Flett Theatre by the East Entrance — **£25, or £15 for Members, doors 6.30pm, a drink included, recommended 12+**. On **Tuesday 3 November**, 6.30pm to 8.30pm, the filmmakers behind *Wild London* discuss shooting urban wildlife with a Museum scientist. Members book through a separate link, and Members who cannot attend watch free online; everyone else can buy a livestream ticket instead.
+**[NHM Dig Deeper](https://www.nhm.ac.uk/events/dig-deeper-talks.html)** is the Natural History Museum's evening panel series in the Flett Theatre by the East Entrance — **£25, or £15 for Members, doors 6.30pm, a drink included, recommended 12+**. Members book through a separate link, and Members who cannot attend watch free online; everyone else can buy a livestream ticket instead.
 
 Two daytime NHM tours belong here too because they go where the public does not. The **[Spirit Collection tour](https://www.nhm.ac.uk/events/behind-the-scenes-tour-the-spirit-collection.html)** is **£35, or £28 for Members**, 45 minutes, ages 10+, meeting at the coral bay in Hintze Hall. Bags are not allowed and the cloakroom is included; there are chemical smells in the tank room, and the Museum says the tour is not suitable for pregnant visitors. The **[Science of the Natural History Museum tour](https://www.nhm.ac.uk/events/science-of-the-natural-history-museum.html)** is **£20, or £16 for Members**, an hour, from the Human Evolution Gallery, and now takes in the Fixing Our Broken Planet gallery.
 
