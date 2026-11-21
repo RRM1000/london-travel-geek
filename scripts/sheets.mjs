@@ -59,8 +59,19 @@ export async function ensureTab(title) {
   return true;
 }
 
+// Since the switch to the database as the master copy, the site no longer reads these tabs: a row
+// written here would never reach the site, and the next catch-up would have nothing to reconcile it with.
+// Change the places and events in the database instead (scripts/lib/site-rows.mjs says how).
+const DATABASE_TABS = new Set(["Restaurants v2", "Branches", "Activities", "Hotels", "Hidden London", "Events"]);
+function refuseDatabaseTab(tab) {
+  if (DATABASE_TABS.has(tab) && process.env.ALLOW_SHEET_WRITE !== "1")
+    throw new Error(`The "${tab}" tab is frozen: the database is the master copy. Make the change in the database. ` +
+      `(ALLOW_SHEET_WRITE=1 overrides this, for a one-off repair of the old Sheet.)`);
+}
+
 /** Overwrite a tab with a header row plus rows. Clears whatever was there. */
 export async function writeTab(tab, header, rows) {
+  refuseDatabaseTab(tab);
   const sheets = await getSheets();
   await ensureTab(tab);
   await sheets.spreadsheets.values.clear({
@@ -78,6 +89,7 @@ export async function writeTab(tab, header, rows) {
 
 /** Append rows to a tab without touching what is already there. */
 export async function appendRows(tab, rows) {
+  refuseDatabaseTab(tab);
   const sheets = await getSheets();
   await sheets.spreadsheets.values.append({
     spreadsheetId: SHEET_ID,

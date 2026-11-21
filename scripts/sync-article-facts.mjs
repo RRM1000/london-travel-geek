@@ -23,7 +23,7 @@
 //   node scripts/sync-article-facts.mjs best-ramen-london ramen --h3 --plain
 //
 import fs from "node:fs";
-import { readTab } from "./sheets.mjs";
+import { readTab } from "./lib/site-rows.mjs";
 
 const flags = process.argv.slice(2).filter((a) => a.startsWith("--"));
 const [slugArg, listName] = process.argv.slice(2).filter((a) => !a.startsWith("--"));

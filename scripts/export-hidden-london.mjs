@@ -7,7 +7,7 @@
 //   node scripts/export-hidden-london.mjs
 //
 import fs from "node:fs";
-import { readTab } from "./sheets.mjs";
+import { readTab } from "./lib/site-rows.mjs";
 
 const OUT = "src/data/hiddenLondon.json";
 

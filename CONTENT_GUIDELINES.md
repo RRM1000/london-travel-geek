@@ -32,7 +32,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - A standalone sources, research, references or further-reading section. Where a link helps the reader act on a claim, put it in the paragraph, table or callout.
 - A numeric score per venue.
 - The 📊 evidence callout on a page that ranks nothing (no "Cited by" lines). Use one italic freshness line instead.
-- Claims about what an area lacks, or counts of its hotels, based on our Google Sheet. The Sheet is what we can link, not what exists.
+- Claims about what an area lacks, or counts of its hotels, based on our database. The database is what we can link, not what exists.
 - A relative date. Anything that is only true on the day it was written goes stale: "this Saturday", "this weekend", "next week", "tomorrow", "tonight", "this month", "next month", "this year", "next year", "last year", "this summer/autumn/winter/spring", "this Christmas", "later this year", "coming soon", "recently", "currently", "at the moment", "right now", "now open". Name the date ("Saturday 11 October 2026", "from 28 November 2026", "the 2025 prices") or state the standing fact ("on Saturdays"); if a present-tense clause is simply true, drop the "currently". `scripts/check-page-wording.mjs` fails the build on these in article prose; its short allowlist covers venue and show names, and standing phrases such as "the last week of October", "open today" as an opening-hours rule and the historical "Today it houses...". Generated components that compute "this week" from data are exempt.
 - Numbers that go stale where nobody re-checks them, such as a source count in the H1 or "the six hotels". This covers the site's own furniture too: a landing page or a nav that says "26 area guides" or "all 122 guides" is wrong the day a guide is added. Count it from the content collection at build time, or print no number at all.
 
@@ -41,7 +41,8 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Never infer a fact from a name. Read the operator's own page.
 - A supplied photo is evidence about the venue. If it contradicts the copy, check the operator and fix the copy.
 - Give every time-bound claim its date and set `reviewBy` in the frontmatter. `npm run audit:dates` finds claims that have lapsed.
-- Never hand-edit the italic facts strip under a restaurant heading. `scripts/sync-article-facts.mjs` writes it from the Sheet.
+- The database is the master copy of places, events and deals. Make a closure, a correction or a deal change there, never in the Google Sheet, which is frozen; the daily "Site data from the database" pull request carries it to the site.
+- Never hand-edit the italic facts strip under a restaurant heading. `scripts/sync-article-facts.mjs` writes it from the database.
 - When checking one page turns up a mistake on another, fix both.
 - A substantive edit (facts, entries, prices, dates, new sections) sets `updatedAt` to that day; cards and headers show it as "Updated". Photo, caption and wording tidies don't. Never move `publishedAt` earlier than the day the page first existed.
 

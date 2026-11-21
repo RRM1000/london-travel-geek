@@ -19,7 +19,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
-import { readTab } from "./sheets.mjs";
+import { readTab } from "./lib/site-rows.mjs";
 
 const cuisine = (process.argv[2] ?? "italian").toLowerCase();
 const doFetch = process.argv.includes("--fetch");

@@ -9,7 +9,7 @@
 //
 import fs from "node:fs";
 import path from "node:path";
-import { readTab } from "./sheets.mjs";
+import { readTab } from "./lib/site-rows.mjs";
 
 const playbook = JSON.parse(fs.readFileSync("data/research-playbook.json", "utf8"));
 const DIR = "data/consensus";
