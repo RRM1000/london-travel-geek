@@ -3,7 +3,7 @@ title: "London Food Deals: 2-for-1, Percentage Off, Student Discounts and Offers
 seoTitle: "London Food Deals 2026: 2-for-1, Discounts & Offers"
 description: "Restaurant offers across London: 2-for-1 deals, percentage-off offers, student and Blue Light discounts, deals for each day of the week, BYO nights, app sign-up rewards and birthday freebies, with the days, times and conditions."
 publishedAt: 2026-11-11
-updatedAt: 2026-11-19
+updatedAt: 2026-11-21
 reviewBy: 2026-11-20
 sites:
   - london
@@ -26,7 +26,7 @@ heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 faq:
   - q: "Which London restaurants do 2-for-1 deals?"
-    a: "Zizzi, The Waterway in Little Venice and Made in Italy on the King's Road have 2-for-1 or £1 second-main offers on food. Big Easy, Sticks'n'Sushi, Turtle Bay, TGI Fridays and Banana Tree do 2-for-1 on cocktails. Each has its own condition, from a free app to a particular day."
+    a: "The Waterway in Little Venice, Made in Italy on the King's Road and The Mayfair Chippy have 2-for-1 offers on food. Big Easy, Sticks'n'Sushi, Turtle Bay, TGI Fridays and Banana Tree do 2-for-1 on cocktails. Each has its own condition, from a free app to a particular day."
   - q: "Do London restaurants give student discounts?"
     a: "Many do, most of them as a percentage off food. Las Iguanas, Shoryu Ramen, Côte, Byron, Yo! Sushi, Bone Daddies, Pho, Franco Manca and Rosa's Thai all run one. You need student ID or a verified UNiDAYS or Student Beans account, and several apply only on certain days or exclude set menus."
   - q: "Can I use a Blue Light Card in London restaurants?"
@@ -37,7 +37,7 @@ faq:
 
 London restaurant offers fall into a few types: two meals for the price of one, a percentage off for a card or ID, a set day of the week, and a reward for signing up. **Each carries a condition, usually an app, an ID or a day, and that condition is what decides whether you get it.**
 
-> 💡 **The Short Version:** **Zizzi** sells a second main for £1 Monday to Friday until 20 November 2026, with its free app. **Mamma Dough** in Brixton takes half off every pizza on Mondays. **Las Iguanas** gives students 40% off food and drink Sunday to Thursday until 26 November 2026. **Côte, Yo! Sushi, Frankie & Benny's and Las Iguanas** give Blue Light Card holders 20% off. **Itsu** halves the price of all its sushi and salads for the last half hour before closing. **Sheba** and **Macellaio RC** charge no corkage, and **Tayyabs** lets you bring your own bottle. **Bella Italia** and **Las Iguanas** give a free main for downloading their apps.
+> 💡 **The Short Version:** **Mamma Dough** in Brixton takes half off every pizza on Mondays. **Las Iguanas** gives students 40% off food and drink Sunday to Thursday until 26 November 2026. **Côte, Yo! Sushi, Frankie & Benny's and Las Iguanas** give Blue Light Card holders 20% off. **Itsu** halves the price of all its sushi and salads for the last half hour before closing. **Sheba** and **Macellaio RC** charge no corkage, and **Tayyabs** lets you bring your own bottle. **Bella Italia** and **Las Iguanas** give a free main for downloading their apps.
 
 > ⚠️ **Most of these exclude set menus and other offers, and several are dine-in only.** Show the app, card or ID when you order, not when the bill arrives.
 
@@ -49,7 +49,6 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 
 | Restaurant | Offer | When | Condition and where |
 | --- | --- | --- | --- |
-| [Zizzi](https://www.zizzi.co.uk/offers) | Buy a main, get a second for £1 | Monday to Friday all day; Sunday from 5pm; until 20 November 2026 | Zillionaires' Club membership, free through the app. All branches |
 | [Made in Italy](https://www.madeinitalygroup.co.uk/deals) | Buy a pizza by the metre, get the same pizza free | Friday | Reserve online and add "2 X 1 PIZZA" to the booking notes; the free pizza must match the one bought; one main per person; dine-in only. King's Road, Chelsea |
 | [The Waterway](https://www.thewaterway.co.uk/winter-club) | Two main courses for the price of one, from the à la carte | Sunday evening, until 31 March 2027 | Free Winter Club card; not redeemable in December. The Waterway and The Summerhouse, Little Venice |
 | [The Mayfair Chippy](https://www.mayfairchippy.com/supporting-black-cabs) | Buy one The Mayfair Classic fish and chips, get one free | Monday to Friday, until 31 December 2026 | Arrive by black cab with a same-day receipt, minimum fare £20 including tip; one free dish per two guests, parties up to four; dine-in only. Mayfair and Knightsbridge |
@@ -183,13 +182,13 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Flat Iron Square](https://flatironsquare.co.uk/whatson/) | 2-for-1 Spritz and FIS Lager | South Bank |
 | [Homies on Donkeys](https://www.homiesondonkeys.com/lunch-promotion) | 20% off lunch tacos | Food only; claim by emailing the restaurant. Leytonstone |
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Fry-day: a free pint, medium house wine or soft drink with beer-battered cod and chips | Wapping |
-| [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Friday 20 and 27 November 2026 (also Saturday 21 and 28 November); one dessert per table from the regular dessert menu. Tottenham |
+| [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Friday 27 November 2026 (also Saturday 28 November); one dessert per table from the regular dessert menu. Tottenham |
 
 ### Saturday
 
 | Restaurant | Deal | Condition and where |
 | --- | --- | --- |
-| [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Saturday 21 and 28 November 2026 only; one dessert per table. Tottenham |
+| [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Saturday 28 November 2026 only; one dessert per table. Tottenham |
 
 ### Sunday
 
