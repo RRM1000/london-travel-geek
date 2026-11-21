@@ -101,7 +101,7 @@ Only **one reasonably sized handbag per person** goes into the auditoria, and al
 
 Shoreditch is about 15 minutes' walk north-east. Four hotels there:
 
-- **[The Z Hotel Shoreditch](hotel:z-hotel-shoreditch)** on City Road: compact rooms from about £110, the nearest of these. The cheapest rooms have no window, so pay up a grade unless you don't mind.
+- **[The Z Hotel Shoreditch](hotel:z-hotel-shoreditch)** on City Road: compact rooms at about £150 a night across nights we priced from October 2026 to April 2027, and the nearest of these. The cheapest rooms have no window, so pay up a grade unless you don't mind.
 - **[nhow London](hotel:nhow-london)**: from about £150, with a punk-meets-high-tech interior that includes a Big Ben rocket in the lobby.
 - **[The Hoxton, Shoreditch](hotel:the-hoxton-shoreditch)** on Great Eastern Street: from about £200, with breakfast included as a bag hung on your door.
 - **[Aethos London Shoreditch](hotel:aethos-london-shoreditch)** on Willow Street: from about £250, the former Nobu Hotel, with an underground spa.
