@@ -1,4 +1,5 @@
-// A private viewer for the London Travel Geek database: a dashboard, place search and the content queue.
+// A private viewer for the London Travel Geek database: a dashboard, place search, deals,
+// sources and the content queue.
 // Start it by double-clicking "Open database viewer.cmd" in the repo folder, or `node scripts/db/viewer/server.mjs`
 // from the repo root. It reads DATABASE_URL from the environment or work/.env, listens on this computer
 // only (127.0.0.1) and writes nothing except content_queue.status when a queue button is pressed.
@@ -132,6 +133,73 @@ async function queue(p) {
   return { rows, total: n, page };
 }
 
+// Deals, each with the place it belongs to. "current" means no end date or one still to come, and started.
+async function deals(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  const when = p.when || "current";
+  if (when === "current") where.push("(d.ends_on is null or d.ends_on >= current_date) and (d.starts_on is null or d.starts_on <= current_date)");
+  if (when === "expired") where.push("d.ends_on < current_date");
+  if (when === "later") where.push("d.starts_on > current_date");
+  if (p.q) add(`(d.place_name ilike $? or d.offer ilike $? or d.branches ilike $?)`, `%${p.q}%`);
+  if (p.type) add(`d.type = $?`, p.type);
+  if (p.category) add(`pl.category = $?`, p.category);
+  if (p.borough) add(`pl.borough = $?`, p.borough);
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const from = `from public.deals d left join public.places pl on pl.id = d.place_id`;
+  const rows = await q(`select d.id, d.place_id, d.place_name, d.type, d.offer, d.price, d.days, d.times, d.conditions, d.branches,
+      d.starts_on, d.ends_on, d.source_url, d.last_checked, pl.category, pl.borough, pl.area, pl.recommended
+    ${from} ${w} order by d.place_name, d.type limit 500`, args);
+  const [{ n }] = await q(`select count(*)::int n ${from} ${w}`, args);
+  const [{ news }] = await q(`select count(*)::int news from public.content_queue
+    where status = 'new' and is_london and not sponsored and 'deal' = any(tags)`);
+  return { rows, total: n, news };
+}
+
+async function dealOptions() {
+  const types = await q(`select type, count(*)::int n from public.deals where type is not null group by 1 order by 2 desc`);
+  const categories = await q(`select pl.category, count(*)::int n from public.deals d join public.places pl on pl.id = d.place_id group by 1 order by 2 desc`);
+  const boroughs = await q(`select pl.borough, count(*)::int n from public.deals d join public.places pl on pl.id = d.place_id
+    where pl.borough is not null group by 1 order by 1`);
+  return { types, categories, boroughs };
+}
+
+// How the watchers treat a source: watched, not watchable, gone, or excluded.
+const WATCH = `case when s.excluded then 'excluded'
+  when s.attributes ? 'youtubeMissing' or s.attributes ? 'blocked' then 'dead'
+  when s.attributes ? 'youtubeChannelId' or s.attributes ? 'feedUrl' or s.platforms ? 'tiktok' then 'watched'
+  when s.attributes ? 'feedMissing' then 'no_feed' else 'not_watched' end`;
+
+async function sources(p) {
+  const where = [], args = [];
+  const add = (sql, v) => { args.push(v); where.push(sql.replaceAll("$?", `$${args.length}`)); };
+  if (p.q) add(`(s.name ilike $? or s.domain ilike $? or s.platforms::text ilike $?)`, `%${p.q}%`);
+  if (p.kind) add(`s.kind = $?`, p.kind);
+  if (p.tier === "none") where.push("s.tier is null");
+  else if (p.tier) add(`s.tier = $?`, p.tier);
+  if (p.watch) add(`${WATCH} = $?`, p.watch);
+  const w = where.length ? `where ${where.join(" and ")}` : "";
+  const order = p.sort === "name" ? "s.name" : "reviews desc, s.name";
+  const rows = await q(`select s.id, s.name, s.kind, s.tier, s.domain, s.url, s.platforms, s.topics, s.last_checked, ${WATCH} watch,
+      coalesce(s.notes, s.attributes->>'note') note, s.attributes->>'youtubeMissing' youtube_missing, s.attributes->>'feedMissing' feed_missing,
+      coalesce(r.n, 0) reviews, coalesce(c.n, 0) queued, c.latest
+    from public.sources s
+    left join (select source_id, count(*)::int n from public.reviews group by 1) r on r.source_id = s.id
+    left join (select source_id, count(*)::int n, max(published_on) latest from public.content_queue group by 1) c on c.source_id = s.id
+    ${w} order by ${order} limit 1000`, args);
+  return { rows, total: rows.length };
+}
+
+async function source(id) {
+  const [row] = await q(`select s.*, ${WATCH} watch from public.sources s where s.id = $1`, [id]);
+  if (!row) return null;
+  const reviews = await q(`select r.place_id, r.place_name, r.title, r.url, r.topic, r.published_on, r.rank, r.quote, r.paid
+    from public.reviews r where r.source_id = $1 order by r.published_on desc nulls last, r.place_name limit 500`, [id]);
+  const queued = await q(`select id, title, url, published_on, status, medium from public.content_queue where source_id = $1
+    order by published_on desc nulls last limit 20`, [id]);
+  return { row, reviews, queued };
+}
+
 async function setStatus(id, status) {
   if (!["new", "added", "rejected"].includes(status)) throw new Error("status must be new, added or rejected");
   const rows = await q(`update public.content_queue set status = $2 where id = $1 returning id, status`, [id, status]);
@@ -155,6 +223,13 @@ const server = http.createServer(async (req, res) => {
     let m;
     if (req.method === "GET" && (m = u.pathname.match(/^\/api\/places\/(\d+)$/))) {
       const r = await place(Number(m[1]));
+      return r ? send(res, 200, r) : send(res, 404, { error: "not found" });
+    }
+    if (req.method === "GET" && u.pathname === "/api/deals") return send(res, 200, await deals(p));
+    if (req.method === "GET" && u.pathname === "/api/deal-options") return send(res, 200, await dealOptions());
+    if (req.method === "GET" && u.pathname === "/api/sources") return send(res, 200, await sources(p));
+    if (req.method === "GET" && (m = u.pathname.match(/^\/api\/sources\/(\d+)$/))) {
+      const r = await source(Number(m[1]));
       return r ? send(res, 200, r) : send(res, 404, { error: "not found" });
     }
     if (req.method === "GET" && u.pathname === "/api/queue") return send(res, 200, await queue(p));

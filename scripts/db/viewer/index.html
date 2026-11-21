@@ -58,6 +58,8 @@
   <nav>
     <button data-tab="dash" class="on">Dashboard</button>
     <button data-tab="places">Places</button>
+    <button data-tab="deals">Deals</button>
+    <button data-tab="sources">Sources</button>
     <button data-tab="queue">Content queue</button>
   </nav>
   <span class="muted small" id="stamp"></span>
@@ -77,6 +79,27 @@
       <button class="btn" id="preset">Clear</button>
     </div>
     <div id="plist"></div>
+  </section>
+  <section id="deals" hidden>
+    <div class="filters">
+      <input type="search" id="dq" placeholder="Restaurant, offer or branch">
+      <select id="dwhen"><option value="current">Running now</option><option value="expired">Ended</option><option value="later">Starting later</option><option value="all">All deals</option></select>
+      <select id="dtype"><option value="">Any kind of deal</option></select>
+      <select id="dcat"><option value="">Any type of place</option></select>
+      <select id="dbor"><option value="">Any borough</option></select>
+      <button class="btn" id="dreset">Clear</button>
+    </div>
+    <div id="dlist"></div>
+  </section>
+  <section id="sources" hidden>
+    <div class="filters">
+      <input type="search" id="sq" placeholder="Name, website or channel">
+      <select id="skind"><option value="">Every kind</option><option value="youtube">YouTube creators</option><option value="tiktok">TikTok creators</option><option value="blog">Blogs</option><option value="publication">Publications and websites</option></select>
+      <select id="stier"><option value="">Any tier</option><option>A</option><option>B</option><option>C</option><option>D</option><option>E</option><option>F</option><option value="none">No tier</option></select>
+      <select id="swatch"><option value="">Watched or not</option><option value="watched">Watched for new content</option><option value="no_feed">No feed to watch</option><option value="not_watched">Not watched</option><option value="dead">Channel or site gone</option><option value="excluded">Excluded</option></select>
+      <select id="ssort"><option value="reviews">Most reviews first</option><option value="name">A to Z</option></select>
+    </div>
+    <div id="slist"></div>
   </section>
   <section id="queue" hidden>
     <div class="filters">
@@ -111,12 +134,15 @@ const TABLE_NAMES = { places:"Places", reviews:"Reviews and mentions", sources:"
 document.querySelectorAll("nav button").forEach((b) => b.onclick = () => show(b.dataset.tab));
 function show(tab) {
   document.querySelectorAll("nav button").forEach((b) => b.classList.toggle("on", b.dataset.tab === tab));
-  for (const id of ["dash", "places", "queue"]) $("#" + id).hidden = id !== tab;
+  for (const id of TABS) $("#" + id).hidden = id !== tab;
   try { localStorage.setItem("tab", tab); } catch {}
   if (tab === "dash") loadDash();
   if (tab === "places") loadPlaces();
+  if (tab === "deals") loadDeals();
+  if (tab === "sources") loadSources();
   if (tab === "queue") loadQueue();
 }
+const TABS = ["dash", "places", "deals", "sources", "queue"];
 
 // Dashboard
 async function loadDash() {
@@ -236,6 +262,99 @@ async function openPlace(id) {
 }
 document.addEventListener("keydown", (e) => { if (e.key === "Escape") $("#panel").classList.remove("open"); });
 
+// Deals
+let dOpts = false;
+["dwhen", "dtype", "dcat", "dbor"].forEach((id) => $("#" + id).addEventListener("change", loadDeals));
+$("#dq").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(loadDeals, 300); });
+$("#dreset").onclick = () => { ["dq", "dtype", "dcat", "dbor"].forEach((id) => $("#" + id).value = ""); $("#dwhen").value = "current"; loadDeals(); };
+const nice = (t) => String(t || "").replace(/-/g, " ");
+const today = () => new Date().toISOString().slice(0, 10);
+async function loadDeals() {
+  if (!dOpts) {
+    try {
+      const o = await api("/api/deal-options");
+      $("#dtype").innerHTML = `<option value="">Any kind of deal</option>` + o.types.map((t) => `<option value="${esc(t.type)}">${esc(nice(t.type))} (${fmt(t.n)})</option>`).join("");
+      $("#dcat").innerHTML = `<option value="">Any type of place</option>` + o.categories.map((t) => `<option value="${esc(t.category)}">${esc(t.category)} (${fmt(t.n)})</option>`).join("");
+      $("#dbor").innerHTML = `<option value="">Any borough</option>` + o.boroughs.map((t) => `<option value="${esc(t.borough)}">${esc(t.borough)} (${fmt(t.n)})</option>`).join("");
+      dOpts = true;
+    } catch {}
+  }
+  const p = new URLSearchParams({ q:$("#dq").value.trim(), when:$("#dwhen").value, type:$("#dtype").value, category:$("#dcat").value, borough:$("#dbor").value });
+  const el = $("#dlist");
+  try {
+    const r = await api("/api/deals?" + p);
+    el.innerHTML = `<div class="pager"><span>${fmt(r.total)} deals${r.total > r.rows.length ? `, showing the first ${fmt(r.rows.length)}` : ""}</span>
+        ${r.news ? `<span class="muted">·</span><a href="#" id="dnews">${fmt(r.news)} deal stories in the content queue are waiting</a>` : ""}</div>
+      <table><tr><th>Place</th><th>Deal</th><th>Price</th><th>When</th><th>Checked</th><th>Details</th></tr>
+      ${r.rows.map((x) => `<tr>
+        <td>${x.place_id ? `<a href="#" data-place="${x.place_id}">${esc(x.place_name)}</a>` : esc(x.place_name)}${x.recommended ? ' <span class="chip rec">recommended</span>' : ""}
+          <div class="small muted">${esc([x.category, x.area || x.borough].filter(Boolean).join(" · "))}</div>${x.branches ? `<div class="small muted">${esc(x.branches)}</div>` : ""}</td>
+        <td><span class="chip">${esc(nice(x.type))}</span><div>${link(x.source_url, x.offer || "Offer")}</div></td>
+        <td class="small">${esc(x.price)}</td>
+        <td class="small">${esc([x.days, x.times].filter(Boolean).join(", "))}${x.starts_on ? `<div class="muted">from ${day(x.starts_on)}</div>` : ""}${x.ends_on ? `<div class="${x.ends_on < today() ? "stale" : "muted"}">until ${day(x.ends_on)}</div>` : ""}</td>
+        <td class="small">${day(x.last_checked)}</td>
+        <td class="small muted">${esc(x.conditions)}</td></tr>`).join("") || `<tr><td colspan="6" class="muted">No deals match.</td></tr>`}
+      </table>`;
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+    const news = $("#dnews");
+    if (news) news.onclick = (ev) => { ev.preventDefault(); $("#qstat").value = "new"; $("#qtag").value = "deal"; qPage = 0; show("queue"); };
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
+
+// Sources
+const WATCH = { watched:"Watched", no_feed:"No feed to watch", not_watched:"Not watched", dead:"Gone", excluded:"Excluded" };
+const KINDS = { youtube:"YouTube", tiktok:"TikTok", blog:"Blog", publication:"Publication", instagram:"Instagram" };
+["skind", "stier", "swatch", "ssort"].forEach((id) => $("#" + id).addEventListener("change", loadSources));
+$("#sq").addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(loadSources, 300); });
+function sourceLinks(x) {
+  const out = [];
+  for (const [k, u] of Object.entries(x.platforms || {})) out.push(link(u, KINDS[k] || k));
+  if (x.url) out.push(link(x.url, x.domain || "Website"));
+  else if (x.domain) out.push(link("https://" + x.domain, x.domain));
+  return out.join(" · ");
+}
+async function loadSources() {
+  const p = new URLSearchParams({ q:$("#sq").value.trim(), kind:$("#skind").value, tier:$("#stier").value, watch:$("#swatch").value, sort:$("#ssort").value });
+  const el = $("#slist");
+  try {
+    const r = await api("/api/sources?" + p);
+    el.innerHTML = `<div class="pager"><span>${fmt(r.total)} sources</span></div>
+      <table><tr><th>Source</th><th>Kind</th><th>Tier</th><th>Links</th><th class="num">Reviews</th><th>Watching</th><th>Newest item found</th><th>Last checked</th></tr>
+      ${r.rows.map((x) => `<tr class="click" data-id="${x.id}">
+        <td>${esc(x.name)}${x.note ? `<div class="small muted">${esc(x.note.length > 140 ? x.note.slice(0, 140) + "…" : x.note)}</div>` : ""}</td>
+        <td>${esc(KINDS[x.kind] || x.kind)}</td><td>${esc(x.tier || "")}</td>
+        <td class="small">${sourceLinks(x)}</td>
+        <td class="num">${fmt(x.reviews)}</td>
+        <td class="small ${x.watch === "dead" ? "stale" : ""}">${esc(WATCH[x.watch])}${x.watch === "dead" && x.youtube_missing ? `<div class="muted">channel not found ${day(x.youtube_missing)}</div>` : ""}</td>
+        <td class="small">${day(x.latest)}${x.queued ? `<div class="muted">${fmt(x.queued)} in queue</div>` : ""}</td>
+        <td class="small">${day(x.last_checked)}</td></tr>`).join("") || `<tr><td colspan="8" class="muted">No sources match.</td></tr>`}
+      </table>`;
+    el.querySelectorAll("tr[data-id]").forEach((tr) => tr.onclick = (ev) => { if (ev.target.tagName !== "A") openSource(tr.dataset.id); });
+  } catch (e) { el.innerHTML = `<div class="err">${esc(e.message)}</div>`; }
+}
+async function openSource(id) {
+  const el = $("#panel");
+  el.innerHTML = "Loading…"; el.classList.add("open");
+  try {
+    const d = await api("/api/sources/" + id);
+    const x = d.row;
+    el.innerHTML = `<button class="btn close">Close</button>
+      <h2 style="margin-top:0">${esc(x.name)}</h2>
+      <div><span class="chip">${esc(KINDS[x.kind] || x.kind)}</span>${x.tier ? `<span class="chip">tier ${esc(x.tier)}</span>` : ""}<span class="chip">${esc(WATCH[x.watch])}</span></div>
+      <p>${sourceLinks(x)}</p>
+      ${(x.topics || []).length ? `<p class="small">Topics: ${x.topics.map((t) => `<span class="chip">${esc(t)}</span>`).join("")}</p>` : ""}
+      ${x.notes || x.attributes?.note ? `<p class="small muted">${esc(x.notes || x.attributes.note)}</p>` : ""}
+      <h2>Reviews and mentions (${fmt(d.reviews.length)})</h2>
+      ${d.reviews.length ? `<table><tr><th>Place</th><th>Article or video</th><th>Date</th></tr>${d.reviews.map((r) => `<tr>
+        <td>${r.place_id ? `<a href="#" data-place="${r.place_id}">${esc(r.place_name)}</a>` : esc(r.place_name)}${r.paid ? ' <span class="chip">paid</span>' : ""}</td>
+        <td>${link(r.url, r.title || r.topic || r.url || "")}${r.quote ? `<div class="small muted">“${esc(r.quote)}”</div>` : ""}</td>
+        <td class="small">${day(r.published_on)}</td></tr>`).join("")}</table>` : '<p class="muted">None recorded.</p>'}
+      ${d.queued.length ? `<h2>Latest in the content queue</h2><table>${d.queued.map((c) => `<tr><td>${link(c.url, c.title || c.url)}</td><td class="small">${esc(c.medium)}</td><td class="small">${day(c.published_on)}</td><td class="small muted">${{ new:"waiting", added:"worth covering", rejected:"dismissed" }[c.status] || esc(c.status)}</td></tr>`).join("")}</table>` : ""}`;
+    el.querySelector(".close").onclick = () => el.classList.remove("open");
+    el.querySelectorAll("a[data-place]").forEach((l) => l.onclick = (ev) => { ev.preventDefault(); openPlace(l.dataset.place); });
+  } catch (e) { el.innerHTML = `<button class="btn close">Close</button><div class="err">${esc(e.message)}</div>`; el.querySelector(".close").onclick = () => el.classList.remove("open"); }
+}
+
 // Content queue
 let qPage = 0;
 ["qstat", "qtag", "qmed", "qplaces", "qall"].forEach((id) => $("#" + id).addEventListener("change", () => { qPage = 0; loadQueue(); }));
@@ -275,7 +394,7 @@ async function loadQueue() {
 
 let start = "dash";
 try { start = localStorage.getItem("tab") || "dash"; } catch {}
-show(["dash", "places", "queue"].includes(start) ? start : "dash");
+show(TABS.includes(start) ? start : "dash");
 </script>
 </body>
 </html>
