@@ -49,6 +49,10 @@ async function insertMany(table, cols, rows, returning = "") {
   return out;
 }
 
+// Brings the keys in line with supabase/migrations/20261121123000_event_and_review_keys.sql.
+await client.query(fs.readFileSync("supabase/migrations/20261121123000_event_and_review_keys.sql", "utf8")
+  .replace(/drop index public\./g, "drop index if exists public.").replace(/create unique index (\w+)/g, "create unique index if not exists $1"));
+
 await client.query("begin");
 await client.query("truncate public.reviews, public.deals, public.events, public.sources, public.places, public.sheet_extras restart identity cascade");
 
