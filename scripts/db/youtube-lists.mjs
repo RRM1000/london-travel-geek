@@ -1,6 +1,6 @@
 // Finds London "best of" videos on YouTube for the kinds of place our sources cover least (music venues, bars,
 // cafés, pubs) and records the places each video lists, from its chapter titles and description lines, as
-// reviews from that channel. Free: yt-dlp, no API key. Sponsored videos and videos not about London are skipped.
+// reviews from that channel. Free: yt-dlp, no API key. Sponsored, AI-made and non-London videos are skipped.
 //
 //   node scripts/db/youtube-lists.mjs                      # every search below, 15 videos each
 //   node scripts/db/youtube-lists.mjs --per 5 --dry-run
@@ -17,7 +17,10 @@ const PER = Number(arg("--per") ?? 15);
 const ONLY = arg("--only");
 const DRY = process.argv.includes("--dry-run");
 const today = new Date().toISOString().slice(0, 10);
-const YTDLP = process.env.YTDLP_PATH ?? "C:/Users/rober/AppData/Local/Programs/Python/Python312/Scripts/yt-dlp.exe";
+// yt-dlp through Python on Rob's laptop: Windows blocks the unsigned yt-dlp.exe. YTDLP_PATH overrides it.
+const [YTDLP, ...YTARGS] = process.env.YTDLP_PATH ? [process.env.YTDLP_PATH]
+  : process.platform === "win32" ? ["C:/Users/rober/AppData/Local/Programs/Python/Python312/python.exe", "-m", "yt_dlp"] : ["yt-dlp"];
+const AI_MADE = /\b(ai[- ]generated|made with ai|created with ai|ai voice(over)?)\b/i;
 const OPTS = { encoding: "utf8", maxBuffer: 1024 * 1024 * 64, timeout: 120000 };
 
 const SEARCHES = {
@@ -30,11 +33,11 @@ const SEARCHES = {
 };
 
 async function search(q) {
-  const { stdout } = await exec(YTDLP, [`ytsearch${PER}:${q}`, "--flat-playlist", "--no-warnings", "--print", "%(id)s"], OPTS);
+  const { stdout } = await exec(YTDLP, [...YTARGS, `ytsearch${PER}:${q}`, "--flat-playlist", "--no-warnings", "--print", "%(id)s"], OPTS);
   return stdout.trim().split("\n").filter(Boolean);
 }
 async function video(id) {
-  const { stdout } = await exec(YTDLP, [`https://www.youtube.com/watch?v=${id}`, "-J", "--skip-download", "--no-warnings"], OPTS);
+  const { stdout } = await exec(YTDLP, [...YTARGS, `https://www.youtube.com/watch?v=${id}`, "-J", "--skip-download", "--no-warnings"], OPTS);
   return JSON.parse(stdout);
 }
 
@@ -55,6 +58,7 @@ for (const [topic, queries] of Object.entries(SEARCHES)) {
       const text = `${v.title}\n${v.description ?? ""}`;
       if (!/london/i.test(text)) continue;
       if (sponsorSignals(v.title, v.description).length) continue;
+      if (AI_MADE.test(text)) continue; // AI-made list videos repeat other lists rather than visiting the places
       const places = match(index, textLines(v.description, (v.chapters ?? []).map((c) => c.title)));
       if (places.length < 2) continue; // a list names several places; one hit is more likely a passing mention
       used++;

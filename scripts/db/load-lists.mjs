@@ -9,13 +9,14 @@
 // is reported and skipped, since its layout probably was not read. Re-runnable: reviews are unique per place,
 // source, page and topic.
 import fs from "node:fs";
+import { fileURLToPath } from "node:url";
 import { connect } from "./lib.mjs";
 import { nameIndex, match, pageLines } from "./names.mjs";
 
 const DRY = process.argv.includes("--dry-run");
 const today = new Date().toISOString().slice(0, 10);
 const UA = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124 Safari/537.36" };
-const { lists } = JSON.parse(fs.readFileSync("data/db-lists.json", "utf8"));
+const { lists } = JSON.parse(fs.readFileSync(fileURLToPath(new URL("../../data/db-lists.json", import.meta.url)), "utf8"));
 
 const client = await connect();
 const index = await nameIndex(client);

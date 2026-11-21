@@ -1,5 +1,7 @@
 // Reads the content queue (articles and videos from the blogs, sites and creators we follow) and records each
-// place a London, unsponsored item lists as a review from that source, so it counts in the rankings.
+// place a London, unsponsored list or review names as a review from that source, so it counts in the rankings.
+// News stories are skipped (a title without best/top/where to/guide/places to and no review or award tag), and an
+// article counts only if it names 3 or more of our places.
 //
 //   node scripts/db/read-queue.mjs                    # every unread item
 //   node scripts/db/read-queue.mjs --max 50 --dry-run
@@ -20,15 +22,19 @@ const client = await connect();
 const index = await nameIndex(client);
 console.log(`${index.size} place names to look for`);
 const { rows: items } = await client.query(`
-  select q.id, q.source_id, q.url, q.title, q.published_on, q.medium, q.description
+  select q.id, q.source_id, q.url, q.title, q.published_on, q.medium, q.description, q.tags
   from content_queue q join sources s on s.id = q.source_id
   where q.read_on is null and q.status <> 'rejected' and q.is_london and not q.sponsored
     and not s.excluded and coalesce(s.tier, '') <> 'F'
   order by q.published_on desc nulls last limit $1`, [MAX]);
 console.log(`${items.length} unread items`);
 
-let reviews = 0, withPlaces = 0, unreadable = 0;
+const LISTICLE = /\b(best|top \d*|where to|guide|places to)\b/i;
+const markRead = (id) => DRY ? null : client.query("update content_queue set read_on = $2 where id = $1", [id, today]);
+let reviews = 0, withPlaces = 0, unreadable = 0, skipped = 0;
 for (const [i, q] of items.entries()) {
+  // Only lists and reviews count: a news story naming a place is not a recommendation.
+  if (!LISTICLE.test(q.title ?? "") && !(q.tags ?? []).some((t) => /review|award/i.test(t))) { skipped++; await markRead(q.id); continue; }
   let lines = [];
   if (q.medium === "article") {
     try {
@@ -37,7 +43,8 @@ for (const [i, q] of items.entries()) {
       lines = [q.title, ...pageLines((await res.text()).slice(0, 3_000_000))];
     } catch { unreadable++; lines = [q.title]; }
   } else lines = [q.title, ...textLines(q.description)];
-  const ids = match(index, lines);
+  let ids = match(index, lines);
+  if (q.medium === "article" && ids.length < 3) ids = [];
   if (ids.length) withPlaces++;
   if (DRY) { console.log(`${q.medium} ${q.title?.slice(0, 70)}: ${ids.length} places`); continue; }
   await client.query("begin");
@@ -53,5 +60,5 @@ for (const [i, q] of items.entries()) {
   await client.query("commit");
   if ((i + 1) % 250 === 0) console.log(`  ${i + 1} read: ${withPlaces} named places, ${reviews} new reviews, ${unreadable} pages unreadable`);
 }
-console.log(`read ${items.length} items: ${withPlaces} named our places, ${reviews} new reviews (${unreadable} pages unreadable)`);
+console.log(`read ${items.length} items (${skipped} not lists or reviews): ${withPlaces} named our places, ${reviews} new reviews (${unreadable} pages unreadable)`);
 await client.end();
