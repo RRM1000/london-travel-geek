@@ -3,7 +3,7 @@ title: "Black Friday in London 2026: Where to Shop, Late Hours and Deals"
 seoTitle: "Black Friday London 2026: Deals, Shops & Late Hours"
 description: "Black Friday is Friday 27 November 2026. Where to shop in London, which stores open late, how to get to Bicester Village and the outlets, when the crowds peak and the theatre deals already on sale."
 publishedAt: 2026-11-08
-updatedAt: 2026-11-19
+updatedAt: 2026-11-21
 reviewBy: 2026-12-01
 sites:
   - london
@@ -51,7 +51,7 @@ heroImageAlt: "A Calvin Klein shop window with a red Black Friday poster offerin
 
 **Many shops start their Black Friday sales earlier in November.** Oxford Street's [Black Friday guide](https://www.oxfordstreet.co.uk/whats-happening/how-to-shop-black-friday-like-a-pro/) says shoppers can find deals there for most of November, and that some retailers cut prices further for Black Friday and Cyber Monday. Its [itinerary for the day](https://www.oxfordstreet.co.uk/whats-happening/plan-your-black-friday-on-oxford-street/) describes it as a whole weekend that ends on Cyber Monday, which is **30 November**. It also notes that John Lewis and Currys price-match other retailers on the same item.
 
-Covent Garden's shops run on a Thursday schedule: its [Festive Thursdays](https://www.coventgarden.london/experience/christmas-in-covent-garden/festive-thursdays) run every Thursday from 12 November to 24 December, and KIKO's Black Friday offer there, **buy three products and get three free**, is on **19 and 26 November**.
+Covent Garden's shops run on a Thursday schedule: its [Festive Thursdays](https://www.coventgarden.london/experience/christmas-in-covent-garden/festive-thursdays) run every Thursday from 12 November to 24 December, and KIKO's Black Friday offer there, **buy three products and get three free**, is on **Thursday 26 November**.
 
 ## Black Friday deals at the outlets and shopping centres
 
@@ -119,7 +119,6 @@ Each table lists the offers the centre publishes for its own shops, with the dat
 | **L'Occitane** | 20–29 Nov | Both | A Black Friday selection across fragrance, skincare, body care, hair care and refills |
 | **Miniso** | 27–30 Nov | Both | 50% off |
 | **Pandora** | 20–30 Nov | Both | Up to 30% off |
-| **Schuh** | 9–20 Nov | Both | Up to 30% off new-season styles in store |
 | **Skopes** | 12–30 Nov | London | Up to 50% off full price |
 | **Suit Direct** | 13 Nov–1 Dec | Both | 30% off selected styles in store |
 | **Tommy Hilfiger** | 16–30 Nov | Both | Up to 40% off in store |
@@ -229,7 +228,7 @@ Oxford Street describes Black Friday as one of the busiest shopping days of the 
 
 **All the West End lights are on by Black Friday.** Oxford Street's switch-on is Monday 9 November and Covent Garden's is Thursday 12 November, and our [Christmas lights walk](/articles/christmas-lights-walk-london/) links the displays from Selfridges to Trafalgar Square in the dark. Evenings after 6.30pm Monday to Wednesday are the quiet window.
 
-**[Hyde Park Winter Wonderland](https://hydeparkwinterwonderland.com/) opens on Thursday 19 November**, so it is running by the Friday. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the prices and the quietest times, our [Christmas markets guide](/articles/christmas-markets-london/) lists the others by what each is for, and [Christmas in London](/articles/christmas-in-london/) puts them in one plan. The [November](/articles/things-to-do-in-london-in-november/) and [December](/articles/things-to-do-in-london-in-december/) guides cover the rest of the calendar, and our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/) covers what to buy to take home.
+**[Hyde Park Winter Wonderland](https://hydeparkwinterwonderland.com/) is open from 19 November 2026 to 3 January 2027**, closed only on Christmas Day. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the prices and the quietest times, our [Christmas markets guide](/articles/christmas-markets-london/) lists the others by what each is for, and [Christmas in London](/articles/christmas-in-london/) puts them in one plan. The [November](/articles/things-to-do-in-london-in-november/) and [December](/articles/things-to-do-in-london-in-december/) guides cover the rest of the calendar, and our [gifts and souvenirs guide](/articles/london-gifts-souvenirs/) covers what to buy to take home.
 
 ## Restaurant and food deals
 

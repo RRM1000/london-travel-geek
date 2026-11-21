@@ -3,7 +3,7 @@ title: "Bath from London: The Roman Baths, the Spa and the Train"
 seoTitle: "Bath Day Trip from London: Trains and Tickets"
 description: "Paddington to Bath Spa takes 1h15 and Advance singles cut the return from £75.90 to £47.60. The Roman Baths cost £23.50 on a weekday and £26.50 at the weekend until 18 December 2026, the rooftop pool is £44, and cars pay nothing in Bath's Clean Air Zone."
 publishedAt: 2026-09-19
-updatedAt: 2026-11-01
+updatedAt: 2026-11-21
 reviewBy: 2026-12-19
 sites: [london]
 canonicalSite: london
@@ -232,7 +232,7 @@ From 3 November to 4 April the Centre is open 10:00–16:30 Sunday to Friday and
 
 **The Bath World Heritage Centre is free and open daily 10:00–17:00**, closed only on 25 and 26 December. Interactive displays on the hot springs, the Roman remains and the Georgian town planning, plus walking trails and guides to take away. Allow twenty minutes.
 
-**The Victoria Art Gallery's Upper Gallery is free**, with a bookable ticket, and takes about 45 minutes to an hour. Its ticketed exhibitions in the lower galleries are £9.00 adult, £4.00 child aged 6 to 18 and £20.50 for two adults and up to four children until 19 November 2026, rising to £12.00, £5.50 and £27.00 from 20 November. Art Fund members pay half.
+**The Victoria Art Gallery's Upper Gallery is free**, with a bookable ticket, and takes about 45 minutes to an hour. Its ticketed exhibitions in the lower galleries are £12.00 adult, £5.50 child aged 6 to 18 and £27.00 for two adults and up to four children. Art Fund members pay half.
 
 **Fashion Museum Bath is temporarily closed and reopening in 2030**, in a new building in the centre of the city. The collection tours in the meantime as a mini museum, so do not walk to the Assembly Rooms for it.
 
