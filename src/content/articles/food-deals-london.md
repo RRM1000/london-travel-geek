@@ -3,8 +3,8 @@ title: "London Food Deals: 2-for-1, Percentage Off, Student Discounts and Offers
 seoTitle: "London Food Deals 2026: 2-for-1, Discounts & Offers"
 description: "Restaurant offers across London: 2-for-1 deals, percentage-off offers, student and Blue Light discounts, deals for each day of the week, BYO nights, app sign-up rewards and birthday freebies, with the days, times and conditions."
 publishedAt: 2026-11-11
-updatedAt: 2026-11-19
-reviewBy: 2026-11-20
+updatedAt: 2026-11-21
+reviewBy: 2026-11-26
 sites:
   - london
 canonicalSite: london
@@ -37,7 +37,7 @@ faq:
 
 London restaurant offers fall into a few types: two meals for the price of one, a percentage off for a card or ID, a set day of the week, and a reward for signing up. **Each carries a condition, usually an app, an ID or a day, and that condition is what decides whether you get it.**
 
-> 💡 **The Short Version:** **Zizzi** sells a second main for £1 Monday to Friday until 20 November 2026, with its free app. **Mamma Dough** in Brixton takes half off every pizza on Mondays. **Las Iguanas** gives students 40% off food and drink Sunday to Thursday until 26 November 2026. **Côte, Yo! Sushi, Frankie & Benny's and Las Iguanas** give Blue Light Card holders 20% off. **Itsu** halves the price of all its sushi and salads for the last half hour before closing. **Sheba** and **Macellaio RC** charge no corkage, and **Tayyabs** lets you bring your own bottle. **Bella Italia** and **Las Iguanas** give a free main for downloading their apps.
+> 💡 **The Short Version:** **Zizzi** sells a second main for £1 Monday to Friday until 27 November 2026, with its free app. **Mamma Dough** in Brixton takes half off every pizza on Mondays. **Las Iguanas** gives students 40% off food and drink Sunday to Thursday until 26 November 2026. **Côte, Yo! Sushi, Frankie & Benny's and Las Iguanas** give Blue Light Card holders 20% off. **Itsu** halves the price of all its sushi and salads for the last half hour before closing. **Sheba** and **Macellaio RC** charge no corkage, and **Tayyabs** lets you bring your own bottle. **Bella Italia** and **Las Iguanas** give a free main for downloading their apps.
 
 > ⚠️ **Most of these exclude set menus and other offers, and several are dine-in only.** Show the app, card or ID when you order, not when the bill arrives.
 
@@ -49,7 +49,7 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 
 | Restaurant | Offer | When | Condition and where |
 | --- | --- | --- | --- |
-| [Zizzi](https://www.zizzi.co.uk/offers) | Buy a main, get a second for £1 | Monday to Friday all day; Sunday from 5pm; until 20 November 2026 | Zillionaires' Club membership, free through the app. All branches |
+| [Zizzi](https://www.zizzi.co.uk/offers) | Buy a main, get a second for £1 | Monday to Friday all day; Sunday from 5pm; until 27 November 2026 | Zillionaires' Club membership, free through the app. All branches |
 | [Made in Italy](https://www.madeinitalygroup.co.uk/deals) | Buy a pizza by the metre, get the same pizza free | Friday | Reserve online and add "2 X 1 PIZZA" to the booking notes; the free pizza must match the one bought; one main per person; dine-in only. King's Road, Chelsea |
 | [The Waterway](https://www.thewaterway.co.uk/winter-club) | Two main courses for the price of one, from the à la carte | Sunday evening, until 31 March 2027 | Free Winter Club card; not redeemable in December. The Waterway and The Summerhouse, Little Venice |
 | [The Mayfair Chippy](https://www.mayfairchippy.com/supporting-black-cabs) | Buy one The Mayfair Classic fish and chips, get one free | Monday to Friday, until 31 December 2026 | Arrive by black cab with a same-day receipt, minimum fare £20 including tip; one free dish per two guests, parties up to four; dine-in only. Mayfair and Knightsbridge |
