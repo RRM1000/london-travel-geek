@@ -3,7 +3,7 @@ title: "Chelsea Area Guide: King's Road, Sloane Square and the Physic Garden"
 seoTitle: "Chelsea Guide: King's Road, Sloane Square & Walks"
 description: "A complete Chelsea guide: King's Road shopping, the Chelsea Physic Garden, Royal Hospital Chelsea, riverside walks and what the area is actually like now."
 publishedAt: 2026-08-14
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2026-11-27
 sites:
   - london
@@ -204,6 +204,7 @@ Between the King's Road and the river. **St Leonard's Terrace** faces the Royal 
 | **Bluebird** | Modern British | £££ | In a 1923 art deco garage on the King's Road |
 | **The Pig's Ear** | Gastropub | ££ | Backstreet pub off the river end |
 | **Chelsea Physic Garden Cafe** | Garden cafe | ££ | Requires garden admission |
+| **Brasserie Olivia** | Paris-style brasserie | £££ | 1 Sloane Square since July 2026: about 160 seats, checkerboard tiles and a lobster tank. Lobster with garlic butter and fries, crêpe Suzette; open noon to midnight daily |
 
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 

@@ -3,7 +3,7 @@ title: "Marylebone Area Guide: The High Street, the Wallace Collection and Baker
 seoTitle: "Marylebone Guide: High Street & Wallace Collection"
 description: "A complete Marylebone guide: the village high street, the free Wallace Collection, Daunt Books, the Sherlock Holmes museum and Regent's Park on the doorstep."
 publishedAt: 2026-08-20
-updatedAt: 2026-10-31
+updatedAt: 2026-11-21
 reviewBy: 2027-01-26
 sites:
   - london
@@ -163,6 +163,7 @@ The shops are specific: bridal boutiques, and instrument dealers selling violins
 | **The Ivy Cafe** | Modern European | ££ | High Street; open all day |
 | **Marylebone Farmers' Market** | Market | £ | Sundays only |
 | **The Wallace Restaurant** | Brasserie | £££ | In the museum's glazed courtyard |
+| **Soraya** | Persian | ££££ | 96 George Street, opened in autumn 2026, with an open kitchen and an L-shaped bar. Kashk bademjan £11, khoresh bamieh £26; book well ahead |
 
 Jikoni on Blandford Street cooks across South Asian, East African, Middle Eastern and British kitchens. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 

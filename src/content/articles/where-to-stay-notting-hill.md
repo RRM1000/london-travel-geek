@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:View_of_the_seat_in_the
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0
 publishedAt: 2026-07-25
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -297,6 +297,14 @@ Rooms are small at the bottom and generous at the top: singles and small doubles
 </div>
 
 *A family room at The Columbia, and one of its 1970s bathrooms.*
+
+### Hyde & Seek — the old Corus Hotel, reopened in September 2026
+
+*1 Lancaster Gate, W2 3LG · Lancaster Gate 2 min, Paddington 10 min · [Hotels.com](hotelscom:144800)*
+
+A 309-room Victorian building facing Hyde Park, the former Corus Hotel, which closed in September 2025 for a £42 million refurbishment and reopened under Marriott's Tribute Portfolio in September 2026, so **Bonvoy points apply**. The interiors borrow from 1960s and 1970s London: Zandra Rhodes, Ossie Clark and David Hockney are the stated references. Hotels.com listed rooms from £169 including tax for 20 December 2026.
+
+**Seekers, the 138-seat restaurant and bar, overlooks the park** and serves British food from breakfast to dinner, with afternoon tea. HydeOut is an all-day café under a glass-roofed courtyard. There is a gym but no spa or pool. Family Hydeaway rooms are the ones for children.
 
 ### Royal Lancaster London — 411 rooms on the park edge
 
