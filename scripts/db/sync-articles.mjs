@@ -68,7 +68,7 @@ for (const a of articles) a.topic = topicOf.get(a.slug) ?? null;
 // --- the places we can match ---
 const client = await connect();
 const { rows: places } = await client.query(`
-  select p.id, p.name, p.slug, p.recommended, p.parent_id, b.name as brand, p.attributes->>'Branch' as branch
+  select p.id, p.name, p.slug, p.recommended, p.parent_id, p.category, b.name as brand, p.attributes->>'Branch' as branch
   from places p left join places b on b.id = p.parent_id
   where p.duplicate_of is null
     and (p.recommended or p.origin = 'data/evidence.json')
@@ -109,6 +109,10 @@ for (const p of [...places].sort((a, b) => rank(a) - rank(b))) {
   if (p.recommended && base.length >= 7 && /[A-Z]/.test(base) && marked) names.push([base, p.id]);
 }
 const findName = (text) => byKey.get(key(text));
+// In bold text, link text and table cells a name has to be written as a name, with a capital: "**taro**" is the
+// drink, not the restaurant called Taro.
+const findProper = (text) => (/\p{Lu}|\d/u.test(text) ? findName(text) : undefined);
+const categoryOf = new Map(places.map((p) => [p.id, p.category]));
 function findHeading(text) {
   const t = plain(text).replace(/^\d+[.)]\s*/, "");
   const whole = findName(t);
@@ -128,24 +132,32 @@ for (const a of articles) {
   const add = (id, kind, heading, position) => {
     if (!id) return;
     const had = found.get(id);
-    if (!had || (had.kind === "mention" && kind === "entry")) found.set(id, { kind, heading, position: had?.position ?? position });
+    if (!had || (had.kind !== "entry" && kind === "entry")) found.set(id, { kind, heading, position: had?.position ?? position });
   };
   const lines = a.body.split("\n");
   lines.forEach((line, i) => {
     const h = line.match(/^#{2,4}\s+(.+)$/);
     if (h) { add(findHeading(h[1]), "entry", plain(h[1]), i); return; }
-    for (const m of line.matchAll(/\*\*([^*]{2,80})\*\*/g)) add(findName(plain(m[1])), "mention", null, i);
+    for (const m of line.matchAll(/\*\*([^*]{2,80})\*\*/g)) add(findProper(plain(m[1])), "mention", null, i);
     for (const m of line.matchAll(/\[([^\]]{2,80})\]\(([^)]*)\)/g)) {
       const hotel = m[2].match(/^hotel:([a-z0-9-]+)/);
-      add(hotel ? bySlug.get(hotel[1]) : findName(plain(m[1])), "mention", null, i);
+      add(hotel ? bySlug.get(hotel[1]) : findProper(plain(m[1])), hotel ? "hotel" : "mention", null, i);
     }
-    if (line.startsWith("|")) for (const cell of line.split("|")) for (const part of plain(cell).split(/\s*,\s*/)) add(findName(part), "mention", null, i);
+    if (line.startsWith("|")) for (const cell of line.split("|")) for (const part of plain(cell).split(/\s*,\s*/)) add(findProper(part), "mention", null, i);
   });
   const text = prose(a);
   for (const [name, id] of names) {
     if (found.has(id) || !text.includes(name)) continue;
     const at = text.search(new RegExp(`(?<![\\p{L}\\p{N}])${escape(name)}(?![\\p{L}\\p{N}])`, "u"));
     if (at >= 0) add(id, "mention", null, lines.length + at);
+  }
+  // A guide's mentions are of the same kind of place as its entries: a bubble tea guide naming Selfridges or the
+  // Southbank Centre as a location is not recommending them. Only for consensus guides (with a topic), since area
+  // and stay guides mix every kind of place. Hotel links always count.
+  const entryCats = new Set([...found].filter(([, v]) => v.kind === "entry").map(([id]) => categoryOf.get(id)));
+  for (const [id, v] of [...found]) {
+    if (v.kind === "hotel") v.kind = "mention";
+    else if (v.kind === "mention" && a.topic && entryCats.size >= 1 && found.size > 3 && !entryCats.has(categoryOf.get(id))) found.delete(id);
   }
   let n = 0;
   for (const [id, v] of [...found].sort((x, y) => x[1].position - y[1].position)) links.push({ slug: a.slug, id, ...v, position: ++n });
