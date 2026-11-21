@@ -482,6 +482,7 @@ For a pre-theatre meal before a separate show, [our theatre guide](/articles/lon
 - 🎭 **[The Best Cabaret in London](/articles/best-cabaret-london/)**
 - 🎪 **[The Best Immersive Experiences in London](/articles/immersive-experiences-london/)**
 - 🎷 **[The Best Live Music Venues in London](/articles/best-live-music-venues-london/)**
+- 🎺 **[The Best Jazz Bars in London](/articles/best-jazz-bars-london/)** — the jazz rooms where the music comes first, ranked by how many sources name them
 - 🎤 **[The Best Comedy Clubs in London](/articles/best-comedy-clubs-london/)**
 - 🎙️ **[The Best Karaoke in London](/articles/best-karaoke-london/)** — when you would rather sing than watch
 - 🥂 **[Bottomless Brunch in London](/articles/bottomless-brunch-london/)**

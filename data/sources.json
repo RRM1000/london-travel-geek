@@ -2602,6 +2602,38 @@
     "youtube.com/@0nlyscrans": {
       "tier": "D",
       "name": "Only Scrans (YouTube)"
+    },
+    "appjag.org": {
+      "tier": "A",
+      "name": "Parliamentary Jazz Awards",
+      "note": "All Party Parliamentary Jazz Appreciation Group. Annual, with a Jazz Venue of the Year category; public nominations, then a shortlist. UK-wide (trap 12): no London venue won 2023-2026, so London venues are recorded as nominees, never winners."
+    },
+    "jazzfuel.com": {
+      "tier": "C",
+      "name": "Jazzfuel",
+      "note": "Single-subject jazz specialist (Matt Fripp); its London clubs guide is updated annually."
+    },
+    "thesybarite.co": {
+      "tier": "B",
+      "name": "The Sybarite"
+    },
+    "citywire.com": {
+      "tier": "B",
+      "name": "Citywire",
+      "note": "Its Selector lifestyle desk; the jazz piece carries picks by the jazz writer Richard Williams."
+    },
+    "clinkhostels.com": {
+      "tier": "C",
+      "name": "Clink Hostels",
+      "note": "A hostel group's city-tips blog. Counted for jazz-bars (detailed, priced, does not list the hostel among the venues); treat as weak."
+    },
+    "tiktok.com/@jointakes": {
+      "tier": "D",
+      "name": "Join Takes (TikTok)"
+    },
+    "tiktok.com/@madeleinelebon": {
+      "tier": "D",
+      "name": "Madeleine Lebon (TikTok)"
     }
   },
   "excludedWhy": {
