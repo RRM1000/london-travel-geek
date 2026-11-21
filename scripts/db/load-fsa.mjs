@@ -56,12 +56,13 @@ if (fixture) {
   const types = (await get("/BusinessTypes/basic")).businessTypes.filter((t) => TYPES[t.BusinessTypeName]);
   const authorities = (await get("/Authorities")).authorities.filter((a) => a.RegionName === "London");
   console.log(`${authorities.length} London authorities, ${types.length} business types`);
+  if (types.some((t) => !t.BusinessTypeId)) throw new Error("A business type has no BusinessTypeId; the API shape may have changed");
   if (!authorities.length || !types.length) throw new Error("FHRS returned no London authorities or business types; the API shape may have changed");
   for (const a of authorities) {
     let n = 0;
     for (const t of types) {
       for (let page = 1; ; page++) {
-        const r = await get(`/Establishments?localAuthorityId=${a.LocalAuthorityId}&businessTypeId=${t.BusinessTypeID}&pageSize=5000&pageNumber=${page}`);
+        const r = await get(`/Establishments?localAuthorityId=${a.LocalAuthorityId}&businessTypeId=${t.BusinessTypeId}&pageSize=5000&pageNumber=${page}`);
         establishments.push(...r.establishments);
         n += r.establishments.length;
         if (page >= (r.meta?.totalPages ?? 1)) break;
