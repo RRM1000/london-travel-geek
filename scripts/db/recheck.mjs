@@ -22,6 +22,10 @@ const alerts = await client.query(`
 for (const r of alerts.rows) console.log(`  check: ${r.name}`);
 const linked = await client.query("select public.match_fsa_duplicates() n");
 console.log(`new register links for recommended places: ${linked.rows[0].n}`);
+await client.query("begin");
+const brands = await client.query("select * from public.link_brands()");
+await client.query("commit");
+console.log(`chains: ${brands.rows[0].brands} brands, ${brands.rows[0].branches} branches newly linked`);
 const queue = await client.query(`select name, category, last_checked from places
   where recommended and status = 'open' and parent_id is null order by last_checked nulls first limit 25`);
 console.log("recommended places checked longest ago:");
