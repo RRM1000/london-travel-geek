@@ -9,7 +9,7 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_wit
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
 publishedAt: 2026-10-17
-updatedAt: 2026-11-19
+updatedAt: 2026-11-21
 reviewBy: 2026-11-26
 sites: [london]
 canonicalSite: london
@@ -37,7 +37,7 @@ faq:
 
 The Trafalgar Square tree is lit on the 3rd, and the pantos, Nutcrackers and carols fill the run to Christmas Eve. Christmas Day closes most of the city, and the football and the darts carry the days to New Year's Eve. The sun sets before 4pm all month.
 
-> 💡 **The Short Version:** **The Trafalgar Square tree is lit on Thursday 3 December**, the night the Royal Ballet's **Nutcracker** opens. **Carols at the Royal Albert Hall run 19 to 24 December**, and **St Paul's carol services are free but need a ticket from its ballot**. The **PDC World Darts** runs at Alexandra Palace from **11 December**. **Christmas Day has no TfL service**, **London Paddington is shut from 25 December to 3 January**, and the British Museum, Natural History Museum, Science Museum and V&A close **24 to 26 December**. **Boxing Day football** is Fulham v Brighton and Spurs v Bournemouth at 3pm. The **Bayeux Tapestry** is sold out to 31 March 2027, and the **New Year's Eve fireworks** release their second batch of tickets at **12 noon on Friday 20 November**.
+> 💡 **The Short Version:** **The Trafalgar Square tree is lit on Thursday 3 December**, the night the Royal Ballet's **Nutcracker** opens. **Carols at the Royal Albert Hall run 19 to 24 December**, and **St Paul's carol services are free but need a ticket from its ballot**. The **PDC World Darts** runs at Alexandra Palace from **11 December**. **Christmas Day has no TfL service**, **London Paddington is closed from Christmas Day**, with the Elizabeth line and Heathrow Express back on New Year's Eve and Great Western trains on 4 January, and the British Museum, Natural History Museum, Science Museum and V&A close **24 to 26 December**. **Boxing Day football** is Fulham v Brighton and Spurs v Bournemouth at 3pm. The **Bayeux Tapestry** is sold out to 31 March 2027, and the second and final batch of **New Year's Eve fireworks** tickets went on sale at **12 noon on Friday 20 November**.
 
 | Date | What | Cost |
 | --- | --- | --- |
@@ -213,7 +213,7 @@ Winter Wonderland, Chelsea Winter Village, Christmas at Kew and the rinks at Som
 
 ## New Year's Eve
 
-**The Mayor's fireworks on Thursday 31 December run 8pm to 12.30am, and the first batch of tickets went on sale at noon on Friday 23 October** through Ticketmaster. **The second batch is released at 12 noon on Friday 20 November** ([City Hall](https://www.london.gov.uk/events/london-new-years-eve-2026)). Category A (Blue, Pink and White areas) is £55, or £35 with a London postcode; Category B (Red, Green and Orange) is £40, or £20. You can buy up to four tickets. Winter Wonderland is open on New Year's Eve until 10pm. Viewing areas, free viewpoints, getting home and the 1 January Parade are in our [New Year's Eve guide](/articles/new-years-eve-london/).
+**The Mayor's fireworks on Thursday 31 December run 8pm to 12.30am, and tickets were released through Ticketmaster in two batches**: the first at noon on Friday 23 October, **the second and final one at 12 noon on Friday 20 November** ([City Hall](https://www.london.gov.uk/events/london-new-years-eve-2026)). Category A (Blue, Pink and White areas) is £55, or £35 with a London postcode; Category B (Red, Green and Orange) is £40, or £20. You can buy up to four tickets. Winter Wonderland is open on New Year's Eve until 10pm. Viewing areas, free viewpoints, getting home and the 1 January Parade are in our [New Year's Eve guide](/articles/new-years-eve-london/).
 
 ## Practical: December in London
 
