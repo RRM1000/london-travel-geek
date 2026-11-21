@@ -1,10 +1,10 @@
 ---
 title: "EFG London Jazz Festival 2026: Dates, Tickets and the Free Half"
 seoTitle: "London Jazz Festival 2026: Dates, Tickets & Free Gigs"
-description: "The EFG London Jazz Festival runs 13-22 November 2026. Free concerts, tickets from £5, the shows that have sold out, and why there is no single on-sale date."
+description: "The EFG London Jazz Festival ran 13-22 November 2026. Free concerts, tickets from £5, the shows that have sold out, and why there is no single on-sale date."
 publishedAt: 2026-09-21
-updatedAt: 2026-11-01
-reviewBy: 2026-11-12
+updatedAt: 2026-11-21
+reviewBy: 2027-03-01
 sites:
   - london
 canonicalSite: london
@@ -24,8 +24,8 @@ tags:
   - London events
 draft: false
 faq:
-  - q: "When is the London Jazz Festival 2026?"
-    a: "Friday 13 to Sunday 22 November 2026, ten days including both weekends. The Opening Gala, Jazz Voice, is at the Royal Festival Hall on 13 November at 7.30pm. The last night, 22 November, has Samara Joy at the Royal Festival Hall, Cécile McLorin Salvant with the BBC Concert Orchestra at the Queen Elizabeth Hall (sold out) and The Joy at the Barbican. Monday 16 November is the quietest day, with 17 listings against 44 and 46 on the two Saturdays."
+  - q: "When is the London Jazz Festival?"
+    a: "About ten days in mid-November each year. The 2026 festival ran from Friday 13 to Sunday 22 November, including both weekends. The Opening Gala, Jazz Voice, was at the Royal Festival Hall on 13 November at 7.30pm. The last night, 22 November, had Samara Joy at the Royal Festival Hall, Cécile McLorin Salvant with the BBC Concert Orchestra at the Queen Elizabeth Hall (sold out) and The Joy at the Barbican. Monday 16 November is the quietest day, with 17 listings against 44 and 46 on the two Saturdays."
   - q: "How much are London Jazz Festival tickets?"
     a: "Of the 348 shows listed on 26 October 2026, 289 carried a price and the median cheapest ticket among them was £20. Adult tickets start at £5; the Vortex in Dalston goes from £6.60 and Jamboree at King's Cross from £8. 124 of the 289 had a ticket under £20. At the top, the Opening Gala runs £48 to £100.50 and Branford Marsalis with Dianne Reeves £80.50 to £88.50. Another 44 concerts are free. Prices on the festival's own listings include booking fees."
   - q: "Is the London Jazz Festival free?"
@@ -42,11 +42,11 @@ faq:
     a: "Most concert-hall shows start at 7.30pm and finish around 10pm, which is inside normal Tube service everywhere. The late programme is the exception. Ronnie Scott's runs eleven Late Late Shows between 13 and 21 November, the main room on stage at midnight with doors at 11.15pm at £15.50, and Upstairs at 11.30pm at £18.50. The Jazz Social near Moorgate stays open until 1am on the Fridays and Saturdays. Night Tube runs on Friday and Saturday nights only, on the Central, Jubilee, Northern, Piccadilly, Victoria and Windrush lines, and the festival's two Fridays and two Saturdays are 13, 14, 20 and 21 November."
 ---
 
-The EFG London Jazz Festival runs **13 to 22 November 2026**, ten days with both weekends. Serious, the producer that started it in 1992, had **348 shows listed at 83 venues** on 26 October; the festival's listing held 360 events on 1 November. They are spread across the city: the Royal Festival Hall and the Barbican, Ronnie Scott's and the Vortex, a church in Leytonstone, a bookshop off Kensington Church Street and a pop-up in an office block by Moorgate.
+The 2026 EFG London Jazz Festival ran **13 to 22 November**, ten days with both weekends; the festival is held for about ten days in mid-November each year. Serious, the producer that started it in 1992, had **348 shows listed at 83 venues** on 26 October; the festival's listing held 360 events on 1 November. They are spread across the city: the Royal Festival Hall and the Barbican, Ronnie Scott's and the Vortex, a church in Leytonstone, a bookshop off Kensington Church Street and a pop-up in an office block by Moorgate.
 
 There is no festival wristband and no single box office. Most shows are sold by the venue, so there is no single on-sale morning to be ready for.
 
-> 💡 **The Short Version:** **13-22 November 2026.** The full programme is on the festival's [what's on listing](https://efglondonjazzfestival.org.uk/whats-on), the only place all the shows sit together; each one sends you to whoever is selling it. **Forty-four of the 348 shows listed on 26 October are free**, at the [Barbican FreeStage](https://efglondonjazzfestival.org.uk/by-type/free), the Clore Ballroom at the Southbank Centre, Milton Court, the Bloomsbury Club and The Jazz Social. Paid tickets start at **£5** and the median cheapest ticket among the 289 priced shows on 26 October was **£20**. If you are 16-25, join the free [Serious Youth Network](https://serious.org.uk/serious-youth-network) before you book: it makes shows Serious produces **£5**. Twelve shows are sold out on 26 October, among them **Coltrane 100** and **Ben Folds**, while **Melody Gardot's** Royal Albert Hall night has had tickets released at £39 to £79. The way back into a full show is the venue's own returns, not a resale site.
+> 💡 **The Short Version:** **The 2026 festival ran 13-22 November**, and the figures here are from its programme. The full programme is on the festival's [what's on listing](https://efglondonjazzfestival.org.uk/whats-on), the only place all the shows sit together; each one sends you to whoever is selling it. **Forty-four of the 348 shows listed on 26 October are free**, at the [Barbican FreeStage](https://efglondonjazzfestival.org.uk/by-type/free), the Clore Ballroom at the Southbank Centre, Milton Court, the Bloomsbury Club and The Jazz Social. Paid tickets start at **£5** and the median cheapest ticket among the 289 priced shows on 26 October was **£20**. If you are 16-25, join the free [Serious Youth Network](https://serious.org.uk/serious-youth-network) before you book: it makes shows Serious produces **£5**. Twelve shows were sold out on 26 October, among them **Coltrane 100** and **Ben Folds**, while **Melody Gardot's** Royal Albert Hall night has had tickets released at £39 to £79. The way back into a full show is the venue's own returns, not a resale site.
 
 ---
 
