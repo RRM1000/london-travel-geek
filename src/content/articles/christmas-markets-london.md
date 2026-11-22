@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Trafalgar_Square_Christ
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-09-27
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 reviewBy: 2026-11-26
 sites: [london]
 canonicalSite: london
@@ -33,7 +33,7 @@ faq:
 
 London's Christmas markets come in three kinds: the chalet markets that go up for six weeks in November, the year-round markets that dress up for December, and one-weekend maker fairs where the stallholders made what they sell. Most cost nothing to walk into.
 
-> 💡 **The Short Version:** **Go to the Southbank Centre Winter Market for food** (open since **2 November**, beside the river, **cash-free**), or **Leicester Square for chalets round an ice rink** (open since **31 October**). Southbank runs to 2 January and Leicester Square to 3 January. **For the biggest, Hyde Park Winter Wonderland** has been open since **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City has been open since **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross has been open since **20 November**, and **Crafty Fox** is at RSA House on **5 December** and King's Cross on **6 and 12–13 December**.
+> 💡 **The Short Version:** **For food, go to Tod's Festive Feast** outside Tottenham Court Road station: every stall is a London restaurant or street-food trader, it is free to walk in and it runs to **3 January**. Go on a weekday morning or afternoon; weekend queues reach 45 minutes. **The Southbank Centre Winter Market** is the riverside alternative (open since **2 November**, **cash-free**), and **Leicester Square** has chalets round an ice rink (open since **31 October**). Southbank runs to 2 January and Leicester Square to 3 January. **For the biggest, Hyde Park Winter Wonderland** has been open since **19 November** and needs an entry ticket from £1. **Winter by the River** at London Bridge City has been open since **10 November**, and the new **King's Cross Winter Market** opens **26 November**, both free. **Trafalgar Square's** chalets are worth a visit after the Norway spruce is lit on **3 December**. Outside the centre, **Kingston** runs **12 November to 3 January**. **Borough Market** is open seven days a week from **30 November** and shuts **25 to 27 December**. For handmade gifts, **Christmas Under the Canopy** at King's Cross has been open since **20 November**, and **Crafty Fox** is at RSA House on **5 December** and King's Cross on **6 and 12–13 December**.
 
 > 🧭 **Plan the rest of it:** [Christmas in London](/articles/christmas-in-london/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas walk: the markets on foot](/articles/christmas-walk-london/) · [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas shows and pantomimes](/articles/christmas-shows-london/) · [Ice skating](/articles/ice-skating-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/)
 
@@ -43,11 +43,11 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 
 | Market | Where | 2026 dates | Price | Watch out for |
 | --- | --- | --- | --- | --- |
+| **Tod's Festive Feast** | Outside Tottenham Court Road station, WC2 | Until 3 Jan 2027 | Free to walk in | Food only, no gift chalets; weekend food queues up to 45 minutes from 2pm; closed 25 Dec |
 | **Southbank Centre Winter Market** | Queen's Walk, SE1 | 2 Nov 2026 – 2 Jan 2027 | Free | Cash-free; closed 25 and 31 Dec and 1 Jan |
 | **Trafalgar Square** | North Terrace, WC2 | November to early January each year | Free | Small: one row of chalets. The tree is only lit from 3 December |
 | **Leicester Square** | Leicester Square, WC2 | 31 Oct 2026 – 3 Jan 2027 | Free; the rink is ticketed | Enclosed, and crowded in the evenings |
 | **Covent Garden** | The Piazza and Market Building, WC2 | Lights on 12 Nov 2026 | Free | No chalet market: you get the decorations and the everyday market halls |
-| **Tod's Festive Feast** | Outside Tottenham Court Road station, WC2 | Until 3 Jan 2027 | Free to walk in | A street-food market: no craft chalets |
 | **Borough Market** | Southwark Street, SE1 | Daily from 30 Nov 2026 | Free | Closed 25–27 Dec and 1 Jan; shuts at 5pm |
 | **Winter by the River** | London Bridge City, SE1 | 10 Nov 2026 – 3 Jan 2027 | Free; curling is paid | Closed Christmas Day; 5pm close on Christmas Eve |
 | **Winter Wonderland market** | Hyde Park, W2 | 19 Nov 2026 – 3 Jan 2027 | Entry ticket from £1 | Everyone needs a timed ticket, even just for the market |
@@ -82,6 +82,21 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 ---
 
 ## Central London
+
+### Tod's Festive Feast, Tottenham Court Road
+
+**A Christmas market made up entirely of street-food traders**, run by the food creator Eating with Tod outside Tottenham Court Road station, by the Outernet screens. It sells hot food and drink rather than gifts. Tod started it in 2025 because he was tired of the same generic food at every other Christmas market ([Hot Dinners](https://www.hot-dinners.com/2025111714653/Gastroblog/Latest-news/eating-with-tod-festive-feast-outernet)), so the stalls are London restaurants and street-food traders chosen for original dishes you won't find at the other markets.
+
+**Who is cooking in 2026:** a stall from **Magma by Ikoyi** (from the team behind the two-Michelin-star Ikoyi), **Temper**, the Filipino bakery **Panadera**, fried chicken from **Pecking House**, **Moti Mahal**, Korean food from **Jung**, Dutch fries from **Fabel Friet**, **Ruben's** sausages, **Roll Boys**, doughnuts from **Rinkoffs** and chocolate from **Chapon** ([Tod's own trader list](https://www.tiktok.com/@eatingwithtod/video/7709943962471075105)).
+
+> ⚠️ **Weekends are when it queues.** From 2pm on Saturdays and Sundays the wait for food can reach 45 minutes, and Fabel Friet and Chapon have been selling out by about 3pm. Tod's own advice is to come at 11am or between 2pm and 5pm on a weekday ([his pinned comment](https://www.youtube.com/watch?v=7U506JsowtY)).
+
+- **Hours:** Monday and Tuesday 11am–9.30pm, Wednesday to Saturday 11am–10pm, Sunday 11am–9pm. Closed Christmas Day.
+- **Dates:** open **until 3 January 2027**.
+- **Price:** free to walk in, with no tickets; you pay each stall for what you eat.
+- **Getting there:** Tottenham Court Road station (Central, Northern and Elizabeth lines) is next to it.
+
+**Go for a meal, not for shopping.** It is ten minutes' walk down Charing Cross Road to Leicester Square, so the two make one evening: food here, then the chalets and the rink.
 
 ### Southbank Centre Winter Market
 
@@ -135,18 +150,6 @@ Friday and Saturday evenings are the fullest; a weekday lunchtime gets the same 
 *The gold bells under the Market Building's roof, lit after dark.*
 
 **It is one of the busiest places in London on a December Saturday.** Go on a weekday morning to see the bells without the crowd, or after dark to see them lit; the [Christmas lights walk](/articles/christmas-lights-walk-london/) finishes here, via Seven Dials and Floral Street. More on the neighbourhood in our [Covent Garden area guide](/articles/covent-garden-area-guide/).
-
-### Tod's Festive Feast, Tottenham Court Road
-
-**A Christmas market made up entirely of street-food traders**, run by the food creator Eating with Tod outside Tottenham Court Road station, by the Outernet screens. It sells hot food and drink rather than gifts. Tod started it in 2025 because he was tired of the same generic food at every other Christmas market ([Hot Dinners](https://www.hot-dinners.com/2025111714653/Gastroblog/Latest-news/eating-with-tod-festive-feast-outernet)), so the stalls are London restaurants and street-food traders chosen for original dishes you won't find at the other markets.
-
-**Who is cooking in 2026:** a stall from **Magma by Ikoyi** (from the team behind the two-Michelin-star Ikoyi), **Temper**, the Filipino bakery **Panadera**, fried chicken from **Pecking House**, **Moti Mahal**, Korean food from **Jung**, Dutch fries from **Fabel Friet**, **Ruben's** sausages, **Roll Boys**, doughnuts from **Rinkoffs** and chocolate from **Chapon** ([Tod's own trader list](https://www.tiktok.com/@eatingwithtod/video/7709943962471075105)).
-
-- **Dates:** open **until 3 January 2027**.
-- **Price:** free to walk in; you pay each stall for what you eat.
-- **Getting there:** Tottenham Court Road station (Central, Northern and Elizabeth lines) is next to it.
-
-**Go for a meal, not for shopping.** It is ten minutes' walk up Charing Cross Road from Leicester Square, so the two make one evening: food here, then the chalets and the rink.
 
 ### Borough Market at Christmas
 

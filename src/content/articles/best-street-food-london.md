@@ -351,6 +351,7 @@ Standing only, with a two-to-four hour window.
 
 ## Seasonal, and once a year
 
+* **Tod's Festive Feast** — a Christmas market of street-food stalls only, run by Eating with Tod outside Tottenham Court Road station, **until 3 January 2027**, closed Christmas Day. The traders include Magma by Ikoyi, Temper, Pecking House and Fabel Friet; weekend food queues reach 45 minutes from 2pm. Hours are in the [Christmas markets guide](/articles/christmas-markets-london/#tods-festive-feast-tottenham-court-road).
 * **Southbank Centre Winter Market** — Alpine chalets on the Queen's Walk, **2 November 2026 to 2 January 2027**, closed 25 and 31 December and 1 January; the [London Christmas markets guide](/articles/christmas-markets-london/) has the details. It displaces the regular food market for those weeks.
 * **Hyde Park Winter Wonderland** — **19 November 2026 to 3 January 2027**, with many food stalls; entry needs a timed ticket.
 * **Wembley Park Market** — **weekend dates that move month to month**, and shift around stadium events.
