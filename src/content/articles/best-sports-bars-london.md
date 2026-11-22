@@ -4,8 +4,8 @@ seoTitle: "Sports Bars in London: Where to Watch the Match"
 description: "London's sports bars and pubs with screens, ranked by how many independent sources name them: where to watch football, rugby, the NFL, F1 and darts, which ones take bookings, and where to find your own country's fans."
 heroImage: "../../assets/articles/best-sports-bars-london/greenwood-victoria.jpg"
 heroImageAlt: "The Greenwood sports pub entrance and terrace under green awnings in Victoria"
-publishedAt: 2026-11-05
-updatedAt: 2026-11-05
+publishedAt: 2026-11-22
+updatedAt: 2026-11-22
 reviewBy: 2027-01-31
 sites: [london]
 canonicalSite: london

@@ -9,7 +9,7 @@ heroImageSource: "https://www.pexels.com/photo/vibrant-japanese-sushi-bar-interi
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-09-09
-updatedAt: 2026-10-26
+updatedAt: 2026-11-22
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -31,7 +31,7 @@ faq:
 
 Japanese food in London splits by **format**, not by price. A seven-seat sushi counter, a charcoal yakitori grill, an izakaya built for drinking and a ramen shop are four different evenings.
 
-> 💡 **The Short Version:** **Sushi Tetsu** has seven seats and its booking windows sell out in minutes. **Sushi Atelier** is the value omakase counter, from about £60. **Roka** and **Zuma** are the robata-grill izakaya. **Jin Kichi** in Hampstead does charcoal yakitori. **Umu** serves Kyoto-style kaiseki.
+> 💡 **The Short Version:** **Sushi Tetsu** has seven seats and its booking windows sell out in minutes. **Sushi Atelier** is the value omakase counter, from about £60. **Roka** and **Zuma** are the robata-grill izakaya. **Jin Kichi** in Hampstead does charcoal yakitori. **Umu** serves Kyoto-style kaiseki. Sushi and ramen each have a full guide of their own: [the best sushi restaurants](/articles/best-sushi-restaurants-london/) and [the best ramen](/articles/best-ramen-london/).
 
 > 📊 **The evidence behind this guide.**
 > **12 sources carrying 163 citations** across **116 named restaurants**. **27 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
@@ -61,7 +61,7 @@ Japanese food in London splits by **format**, not by price. A seven-seat sushi c
 
 ## The omakase counters
 
-Omakase means the chef chooses: you sit at the counter and courses arrive in sequence.
+Omakase means the chef chooses: you sit at the counter and courses arrive in sequence. These five are the counters a first visit usually picks from. The rest, from £24 sets in Angel to the handroll bars and Soho's conveyor belt, are in [The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/).
 
 ### Sushi Tetsu, Clerkenwell
 
@@ -92,7 +92,7 @@ Edomae sushi: nigiri only, aged and cured to the chef's timing, served piece by 
 
 ### Sushi Kanesaka, Mayfair
 
-*££££ · 45 Park Lane · thirteen covers · Two Michelin stars, 2026 guide* · Cited by 4 sources
+*££££ · 45 Park Lane · thirteen covers · One Michelin star, 2026 guide* · Cited by 4 sources
 
 **Thirteen covers inside 45 Park Lane** — nine at the counter, four in a private room — doing **omakase only**, brought over from the Tokyo original, which opened here in July 2023.
 
@@ -389,6 +389,8 @@ Neither sushi counter nor ramen shop: **everyday Japanese home cooking**.
 
 ## Continue planning your London trip
 
+- 🍣 **[The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/)** — omakase counters, à la carte rooms, handroll bars and cheap counters
+- 🍜 **[The Best Ramen in London](/articles/best-ramen-london/)** — tonkotsu, chicken broth and brothless bowls, with prices and which shops take bookings
 - 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Japanese-Italian, Mexican-Japanese and the Nikkei rooms
 - 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — the Nikkei rooms, and the Peruvian side of that menu
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**

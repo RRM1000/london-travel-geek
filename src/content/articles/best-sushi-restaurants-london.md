@@ -8,8 +8,8 @@ heroImageCredit: "Zheng Zhou"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:Maguro_Otoro_(fatty_tuna)_Nigiri.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
-publishedAt: 2026-10-17
-updatedAt: 2026-10-17
+publishedAt: 2026-11-22
+updatedAt: 2026-11-22
 reviewBy: 2027-04-17
 sites: [london]
 canonicalSite: london
@@ -24,7 +24,7 @@ faq:
   - q: "Where can I eat sushi in London for under £15?"
     a: "Sushi Show, the fish supplier's counter on Camden Passage in Angel, sold maki for £6 to £10 in Time Out's July 2026 list. Atari-Ya, another fish supplier, sells nigiri for £2 to £4. Kulu Kulu's conveyor belt in Soho charges £3 to £5.20 a plate. A Reddit reply says Japan Centre reduces its sushi after 8pm."
   - q: "Is there conveyor belt sushi in London?"
-    a: "Kulu Kulu on Brewer Street in Soho has run one since 1995, with colour-coded plates and a 45-minute limit, and is shut on Sundays. Moshi Moshi at Liverpool Street station, founded in 1994, says its founder started the kaiten-sushi revolution there, and Reddit says it is also shut on Sundays. A Reddit reply says YO! Sushi has stopped running the belt at many sites."
+    a: "Kulu Kulu on Brewer Street in Soho has run one since 1995, with colour-coded plates and a 45-minute limit, and is shut on Sundays. Moshi Moshi at Liverpool Street station, founded in 1994, says its founder started the kaiten-sushi revolution there, and opens on weekdays only. A Reddit reply says YO! Sushi has stopped running the belt at many sites."
   - q: "Do I need to book sushi in London?"
     a: "For an omakase counter, yes, and early: Sushi Tetsu releases tables at 12pm each Monday for the following week, Takahashi opens each month's bookings on the 1st of the month before, and ENDO in Chelsea is booked through December. À la carte rooms such as Sushi Atelier, Sumi and Eel Sushi take bookings and walk-ins. Kulu Kulu, Atari-Ya and Sushi Show are walk-in."
 ---
@@ -47,14 +47,14 @@ It covers restaurants where sushi, sashimi or handrolls are what the kitchen is 
 * **Book, but walk-ins are taken:** Eel Sushi, Sushi Atelier and Mayha at lunch.
 * **Walk-in counters:** Kulu Kulu and Sushi Show.
 * **By phone:** Eat Tokyo's Soho branch. Ikeda takes no phone bookings, only ResDiary.
-* **Shut Sundays:** Kulu Kulu, Moshi Moshi, Sushi Atelier, Sushi Kanesaka, Ikeda and Dinings Marylebone.
+* **Shut Sundays:** Kulu Kulu, Moshi Moshi (shut at weekends), Sushi Atelier, Sushi Kanesaka, Ikeda and Dinings Marylebone.
 
 ## Where they are
 
 | If you are near… | Where to eat |
 | --- | --- |
 | **Mayfair & St James's** | Sushi Kanesaka, The Araki, Maru, Sushi Amamoto, Cubé, Tobi Masa, Chisou, Ikeda, NIJŪ, Temaki |
-| **Soho & Carnaby** | Sushi Kyu, Himi, Nanahoshi, Namaiki, Kumori, Miokuru, Kulu Kulu, Eat Tokyo |
+| **Soho & Carnaby** | Sushi Kyu, Himi, Nanahoshi, Kumori, Miokuru, Kulu Kulu, Eat Tokyo |
 | **Fitzrovia & Marylebone** | Sushi Atelier, Kikuchi, Mayha, Dinings Marylebone |
 | **Covent Garden** | Ukiyo |
 | **Clerkenwell & Angel** | Sushi Tetsu, Sasa, Sushi Show, Zen Mondo |
@@ -110,7 +110,7 @@ Named by ten sources, from the Good Food Guide and Stylist to Reddit, where one 
 
 Order **toro-taku temaki** and **chef's sashimi** (three types £28), then nigiri by the pair: **akami £12, chutoro £15, otoro £18**. The Infatuation's advice is to stay with raw fish and skip the mains if you want lunch under £100.
 
-**Service is 12.5%, and Monday opens at 5.30pm. A second SUMI opens at 26–27 Devonshire Street, Marylebone, on 1 November 2026**, and takes bookings now.
+**Service is 12.5%, and Monday opens at 5.30pm. A second SUMI opened at 26–27 Devonshire Street, Marylebone, in November 2026.**
 
 ### Maru, Mayfair — twenty courses for ten
 
@@ -150,7 +150,7 @@ Opened in 2024 by Takamasa Mogi, who founded Cubé, with chefs he trained, and t
 
 The **omakase is £89**: two appetisers, nine pieces of nigiri, a temaki and dessert. The **lunch omakase is £51.80** (seven pieces) and a **pre-theatre omakase is £59**, served from the early afternoon to the early evening.
 
-**Open Monday to Saturday, noon to 3pm and from 5.30pm.** A Reddit reply says "only 10 seats at the counter", so book.
+**Open daily, noon to 3pm and from 5.30pm.** A Reddit reply says "only 10 seats at the counter", so book.
 
 ### Tobi Masa, Mayfair — Masa Takayama's London counter
 
@@ -180,7 +180,7 @@ The rice is "generally excellent", and rolls arrive one at a time across a centr
 
 Time Out puts nigiri at **£2 to £4** and handrolls at £3.80 to £7.35, and names the **negitoro** handroll.
 
-**Time Out lists Monday as the closed day**, and Reddit names it in 3 of its 15 threads for value. The Golders Green restaurant books through ResDiary.
+**Café Japan in Golders Green is closed Monday and Tuesday, and serves dinner only on Wednesday and Thursday**, and Reddit names it in 3 of its 15 threads for value. The Golders Green restaurant books through ResDiary.
 
 ---
 
@@ -226,7 +226,7 @@ Nobuhisa Takahashi, previously at Nobu, and his wife Yuko opened in the winter o
 
 The **autumn omakase is £170**, plus 12.5% service, with a sake pairing at £95. It cannot cater for allergies or intolerances.
 
-**Bookings go through a request form only, not phone, email or Instagram. November opened on 1 October and December opens at noon on 1 November.** It opens Wednesday to Sunday at 7.30pm.
+**Bookings go through a request form only, not phone, email or Instagram. January 2027 opens at noon on Tuesday 1 December.** It opens Wednesday to Sunday at 7.30pm.
 
 ### Cubé, Mayfair — omakase at a counter or a table
 
@@ -271,16 +271,6 @@ The Good Food Guide rated it Very Good in December 2025 and called it an "off-th
 The guide gives the **omakase at £130** and a full carte with sushi selections from £50 to £70.
 
 **A Reddit reply says to "clear it with your bank manager first".**
-
-### Namaiki, Soho — a bar in front of the chef
-
-*£££ · 14 Broadwick Street, W1F 8HP · Cited by 3 sources · [book a table](https://www.sevenrooms.com/reservations/namaikilondon)*
-
-An Edo-mae sushi bar run by head chef Nobusan, which describes an omakase "that places complete trust in the chef". On Reddit the advice is to sit at the bar: "he will explain each dish as you go", and "Namaiki is superb, and I'm not really mad on sushi".
-
-A Japanese-language London vlog filmed a celebration dinner there at about £200 a head.
-
-**It is a small bar, so book the counter.**
 
 ### Kioku by Endo, Whitehall — nigiri on a rooftop
 
@@ -470,11 +460,11 @@ A Reddit reply says it is good if not amazing sushi, decent value and with a goo
 
 ### Moshi Moshi, Liverpool Street station
 
-*££ · Upper Concourse, Liverpool Street Station, EC2M 7PY · Cited by 1 source*
+*££ · Unit 24, Liverpool Street Station, EC2M 7QH, above platform 1 · Cited by 1 source*
 
 Its own site says the founder, Caroline Bennett, started "the kaiten-sushi revolution" in 1994 and buys fish with the Slow Fish campaign in mind. A Reddit reply in November 2025 called it "always the best in the area" for reasonable value near Broadgate.
 
-**A Reddit poster found it shut on Sundays.**
+**Monday to Friday only, 11.30am to 10pm; at weekends it is booked for private hire.** Closed on bank holidays and between Christmas and New Year.
 
 ---
 
@@ -488,15 +478,15 @@ Run by Kaz Tateishi, who has more than 25 years at Billingsgate fish market, and
 
 Order fresh rather than the pre-made trays: **maki £6 to £10**, **sashimi cut in front of you**, and the **natto hosomaki**. The Infatuation says a piece of fatty tuna nigiri "tastes as good" as a Mayfair restaurant's for less.
 
-**Walk-in only. Time Out says sushi is marked down at closing, and lists Monday to Saturday noon to 9pm, Sunday noon to 7pm.**
+**Walk-in only; open Tuesday to Saturday noon to 9pm and Sunday noon to 7pm.** Time Out says sushi is marked down at closing.
 
-### Eat Tokyo, eight branches across London
+### Eat Tokyo, six branches across London
 
-*££ · 16 Old Compton Street, W1D 4TL, and seven others · Cited by 5 sources · [the restaurant's site](https://www.eattokyo.co.uk/)*
+*££ · 16 Old Compton Street, W1D 4TL, and five others · Cited by 5 sources · [the restaurant's site](https://www.eattokyo.co.uk/)*
 
-**Named in 7 of the 15 Reddit threads.** Japanese-owned for 40 years, with eight London outlets; Standard's advice for first-timers is the Soho branch, the Infatuation's writers prefer Notting Hill Gate, and a Reddit poster has been to Hammersmith 50 times.
+**Named in 7 of the 15 Reddit threads.** Japanese-owned for 40 years, with six sushi branches in London, plus a shabu-shabu restaurant and a ramen shop; Standard's advice for first-timers is the Soho branch, the Infatuation's writers prefer Notting Hill Gate, and a Reddit poster has been to Hammersmith 50 times.
 
-The menu runs from sushi, sashimi and nigiri to chirashi, unagi and bento boxes. Soho is **open daily until 11.30pm**.
+The menu runs from sushi, sashimi and nigiri to chirashi, unagi and bento boxes. Soho is **open until 11.30pm, or 10.30pm on Sunday**, with a break from 4pm to 6pm Monday to Thursday.
 
 **Soho takes bookings by phone on 020 7439 9887, and the last order is an hour before closing.**
 
@@ -562,7 +552,8 @@ Endo Kazutoshi's restaurant after the fire that closed Endo at the Rotunda in Se
 
 ## Continue planning your London trip
 
-- 🍣 **[The Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)** — ramen, izakaya, yakitori and kaiseki, by format
+- 🇯🇵 **[The Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)** — ramen, izakaya, yakitori and kaiseki, by format
+- 🍜 **[The Best Ramen in London](/articles/best-ramen-london/)** — tonkotsu, chicken broth and brothless bowls, with prices and which shops take bookings
 - 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Nikkei and Mexican-Japanese rooms such as Chotto Matte and Los Mochis
 - 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — the Nikkei side of the menu
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
