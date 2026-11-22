@@ -3,8 +3,8 @@ title: "The Best Sunday Roast in London, Cross-Referenced Across Every Guide, Aw
 seoTitle: "Best Sunday Roast London 2026: Pubs Ranked by Consensus"
 description: "Not our opinion. Every pub here is ranked by how many independent guides, awards and reviewers name it — and by where it actually placed."
 publishedAt: 2026-08-20
-updatedAt: 2026-11-03
-reviewBy: 2027-02-01
+updatedAt: 2026-11-22
+reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -376,6 +376,11 @@ A meat roast at a ranked London pub costs **£24 to £33**, and most of these ki
 **Bottomless.**
 
 * **Smith's Bar & Grill** — **£42 a head** for 90 minutes of unlimited small plates, roasts and puddings; bottomless drinks add £18 a head. Every Sunday, 12pm to 9pm, and the whole table has to take the same package.
+* **[The Gun](https://www.thegundocklands.com/whats-on/bottomless-sunday-roast), Docklands** — order an à la carte main and the wine carafes are refilled free for two hours, **Sundays 6pm to 8pm**. The first carafe is charged at the menu price, the table needs two people and two mains, one carafe comes at a time, and booking takes a £5-a-head card hold.
+
+**Money off.**
+
+* **[Carluccio's](https://www.carluccios.com/)** — **50% off Sunday roasts** at every branch until 30 November 2026, with a voucher emailed when you register on its site.
 
 **One price for the table.**
 
