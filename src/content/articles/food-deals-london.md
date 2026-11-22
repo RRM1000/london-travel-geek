@@ -188,7 +188,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Pie & Pint: a free pint, soft drink or medium house wine with any pie | All day. Wapping |
 | [Ixchel](https://www.ixchellondon.com/whats-on) | Ritual de Carne: a 400g cut of grass-fed meat for £45 | 5.30pm to 10pm. King's Road, Chelsea |
 | [The Hoxton, Holborn](https://thehoxton.com/london/holborn/whats-on/orange-wednesdays/) | Orange Wednesdays: 2-for-1 on orange wine or an Orange Wine Old Fashioned, with popcorn | From 6pm to close; see [2-for-1 deals](#2-for-1-deals). High Holborn |
-| [The Victoria Inn](https://www.victoriainnpeckham.com/) | Wing Wednesday: five wings for £5, extra wings £1 each | Peckham |
+| The Victoria Inn | Wing Wednesday: five wings for £5, extra wings £1 each | Peckham |
 | [The Cheese Barge](https://www.thecheesebar.com/news/bottomless-plates) | Bottomless Plates at Pick & Cheese: unlimited cheese, charcuterie and pickles for 75 minutes, £29.50 a head | All day; excludes yellow dessert plates and off-belt dishes |
 | [Brasserie Blanc](https://brasserieblanc.com/brasseries/southbank/) | Steak Night: a free bottle of wine to share with two steaks | Southbank |
 
@@ -206,7 +206,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | --- | --- | --- |
 | [Made in Italy](https://www.madeinitalygroup.co.uk/deals) | 2-for-1 pizza by the metre | See [2-for-1 deals](#2-for-1-deals). King's Road, Chelsea |
 | [Flat Iron Square](https://flatironsquare.co.uk/whatson/) | 2-for-1 Spritz and FIS Lager | South Bank |
-| [The Victoria Inn](https://www.victoriainnpeckham.com/) | £25 bottles of prosecco | Peckham |
+| The Victoria Inn | £25 bottles of prosecco | Peckham |
 | [Homies on Donkeys](https://www.homiesondonkeys.com/lunch-promotion) | 20% off lunch tacos | Food only; claim by emailing the restaurant. Leytonstone |
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Fry-day: a free pint, medium house wine or soft drink with beer-battered cod and chips | Wapping |
 | [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Friday 27 November 2026 (also Saturday 28 November); one dessert per table from the regular dessert menu. Tottenham |
