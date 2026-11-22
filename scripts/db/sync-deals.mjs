@@ -43,7 +43,7 @@ const ins = await client.query(`
   [deals.map((d) => s(d.slug)), deals.map((d) => s(d.name)), deals.map((d) => s(d.type)), deals.map((d) => s(d.offer)),
    deals.map((d) => s(d.price)), deals.map((d) => s(d.days)), deals.map((d) => s(d.times)), deals.map((d) => s(d.conditions)),
    deals.map((d) => s(d.branches)), deals.map((d) => date(d.endDate)), deals.map((d) => s(d.sourceUrl)), deals.map((d) => s(d.quote)),
-   deals.map((d) => JSON.stringify(d)), deals.map((d) => date(d.checked)), deals.map((d) => slugify(d.name))]);
+   deals.map((d) => JSON.stringify({ ...d, _keys: Object.keys(d) })), deals.map((d) => date(d.checked)), deals.map((d) => slugify(d.name))]);
 await client.query("commit");
 const c = await client.query("select count(*)::int deals, count(place_id)::int linked, count(*) filter (where ends_on < current_date)::int ended from deals");
 console.log(`replaced the deals table with ${ins.rowCount} deals from ${FILE}`);

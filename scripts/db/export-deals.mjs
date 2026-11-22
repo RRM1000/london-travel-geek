@@ -32,8 +32,11 @@ const closed = rows.filter((d) => ["closed", "temporarily_closed"].includes(d.pl
   && (d.attributes?.slug === d.place_slug || !t(d.branches)));
 const out = rows.filter((d) => !closed.includes(d)).map((d) => {
   const a = d.attributes ?? {};
-  // the file's key order (the database stores attributes with its keys re-sorted)
-  const o = Object.fromEntries([...ORDER.filter((k) => k in a), ...Object.keys(a).filter((k) => !ORDER.includes(k)).sort((x, y) => (EXTRA.indexOf(x) + 99) % 99 - (EXTRA.indexOf(y) + 99) % 99)].map((k) => [k, a[k]]));
+  // the file's key order: the database stores attributes with its keys re-sorted, so sync-deals keeps
+  // each deal's own order in _keys; a deal without it takes the usual order
+  const keys = Array.isArray(a._keys) ? a._keys.filter((k) => k in a)
+    : [...ORDER.filter((k) => k in a), ...Object.keys(a).filter((k) => !ORDER.includes(k) && k !== "_keys").sort((x, y) => (EXTRA.indexOf(x) + 99) % 99 - (EXTRA.indexOf(y) + 99) % 99)];
+  const o = Object.fromEntries(keys.map((k) => [k, a[k]]));
   // the columns the table owns; the rest of the deal (site, style, area, card) stays as the file had it
   Object.assign(o, {
     name: t(d.place_name) ?? o.name, type: t(d.type), offer: t(d.offer), price: t(d.price), days: t(d.days),
@@ -44,4 +47,4 @@ const out = rows.filter((d) => !closed.includes(d)).map((d) => {
 });
 if (out.length < 100) throw new Error(`only ${out.length} deals in the database; refusing to overwrite ${OUT}`);
 console.log(`${out.length} deals (${closed.length} left out at closed places${closed.length ? ": " + [...new Set(closed.map((d) => d.place))].join(", ") : ""})`);
-if (!DRY) fs.writeFileSync(OUT, JSON.stringify(out, null, 1));
+if (!DRY) fs.writeFileSync(OUT, JSON.stringify(out, null, 1) + "\n");
