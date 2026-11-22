@@ -518,7 +518,7 @@ The bookings lean soul, funk and covers, and the room is a restaurant that hosts
 * **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
 * **The grassroots circuit is under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list.
 * **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room.
-* **Jazz in London is rarely free.** The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. Free jazz is in pubs and at lunchtime recitals, not in the clubs. **November is the exception**: the [EFG London Jazz Festival](/articles/london-jazz-festival/) runs 13–22 November 2026 and includes free and family events.
+* **Jazz in London is rarely free.** The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. Free jazz is in pubs and at lunchtime recitals, not in the clubs. The [EFG London Jazz Festival](/articles/london-jazz-festival/) each November includes free and family events.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead, so you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
 
