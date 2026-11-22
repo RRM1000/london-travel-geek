@@ -233,7 +233,7 @@ The **Design District**, 16 low-rise studio buildings by eight architects, sits 
 
 **Pet Shop Boys play The O2 arena on Friday 9 and Saturday 10 July 2027** in *Dreamworld MAX: The Greatest Hits Live*, with Saint Etienne and Boy Harsher as guests on both nights, as part of the arena's 20th anniversary. General sale is at **10am on Friday 13 November 2026**, after presales at 10am on Wednesday 11 November, and the links are on the [band's site](https://www.petshopboys.co.uk/).
 
-**alt-J play The O2 arena on Wednesday 14 July 2027** on their *Then Again* tour, ten years after their 2017 headline show there; doors open at 6.30pm. **KPop Demon Hunters: Golden World Tour** follows on **Friday 22 and Saturday 23 October 2027**: the Netflix film's animated girl group HUNTR/X on stage with live performers and stunts, with an evening show on the Friday and a matinee and an evening show on the Saturday. General sale for both is at **10am on Friday 20 November 2026** through AXS, from The O2's [alt-J](https://www.theo2.co.uk/events/detail/alt-j-2027) and [KPop Demon Hunters](https://www.theo2.co.uk/events/detail/kpop-demon-hunters) pages.
+**alt-J play The O2 arena on Wednesday 14 July 2027** on their *Then Again* tour, ten years after their 2017 headline show there; doors open at 6.30pm. **KPop Demon Hunters: Golden World Tour** follows on **Friday 22 and Saturday 23 October 2027**: the Netflix film's animated girl group HUNTR/X on stage with live performers and stunts, with an evening show on the Friday and a matinee and an evening show on the Saturday. Both went on general sale at **10am on Friday 20 November 2026** through AXS, from The O2's [alt-J](https://www.theo2.co.uk/events/detail/alt-j-2027) and [KPop Demon Hunters](https://www.theo2.co.uk/events/detail/kpop-demon-hunters) pages.
 
 **Outlet Shopping at The O2** wraps around the dome with over 60 discount and outlet stores, on its own hours separate from the arena's.
 
@@ -243,7 +243,7 @@ The **Design District**, 16 low-rise studio buildings by eight architects, sits 
 
 The Entertainment District doesn't close to the public on an event day; it runs on its ordinary public hours whatever is on in the arena.
 
-The complex's general hours are **10:00–22:00 daily**, though individual restaurants, bars and leisure venues set their own, often later, times. More than 40 places include **Gordon Ramsay Street Burger, Nando's, Five Guys, KFC, German Doner Kebab, Gaucho, Haidilao Hot Pot, TGI Fridays, PizzaExpress, Zizzi, Las Iguanas** and **Frankie & Benny's**, plus bars including **All Bar One** and **Slug & Lettuce**.
+The complex's general hours are **10:00–22:00 daily**, though individual restaurants, bars and leisure venues set their own, often later, times. More than 40 places include **[Gordon Ramsay Street Burger](/articles/gordon-ramsay-restaurants-london/), Nando's, Five Guys, KFC, German Doner Kebab, Gaucho, Haidilao Hot Pot, TGI Fridays, PizzaExpress, Zizzi, Las Iguanas** and **Frankie & Benny's**, plus bars including **All Bar One** and **Slug & Lettuce**.
 
 **Wetherspoon's pub here, The Stargazer**, is open **10am to 12:15am daily**, with food served **10am to 11pm**, the late kitchen and late pint after a show.
 

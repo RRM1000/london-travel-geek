@@ -77,6 +77,8 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
 
 Chelsea is a low-rise, well-kept stretch between the King's Road and the Thames, and it is better for walking than for shopping. The King's Road made its name in the 1960s and again with punk in the 1970s; most of that has been replaced by chains. The reasons to come now are the side streets, the river and two gardens.
 
+King's Road and Bywater Street are ranked in our [best streets in London](/articles/best-streets-london/).
+
 Chelsea has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=chelsea).
 
 ## Why visit — and who should skip it
@@ -155,7 +157,7 @@ The riverfront: Georgian terraces facing the water, blue plaques for Turner, Whi
 
 **Albert Bridge is the set piece.** It is lit by around four thousand bulbs after dark, and it is **free and open to pedestrians at all hours**.
 
-**Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back: three Michelin stars since 2001, booked months ahead.
+**Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back: three Michelin stars since 2001, booked months ahead. Every other Ramsay restaurant in London is ranked in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
 
 **It is a walk, not a destination**: about fifteen minutes end to end, with very little to buy along it.
 
@@ -205,6 +207,8 @@ Between the King's Road and the river. **St Leonard's Terrace** faces the Royal 
 | **The Pig's Ear** | Gastropub | ££ | Backstreet pub off the river end |
 | **Chelsea Physic Garden Cafe** | Garden cafe | ££ | Requires garden admission |
 
+Dinings SW3 in Lennox Gardens Mews and The Fuji Grill at Beaverbrook Town House are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 ![Albert Bridge over the Thames, its cast-iron towers and cables painted in pale pink, green and blue](../../assets/articles/chelsea-area-guide/albert-bridge.jpg)
 
 *Albert Bridge.*
@@ -212,6 +216,8 @@ Between the King's Road and the river. **St Leonard's Terrace** faces the Royal 
 The 606 Club on Lots Road serves dinner through two jazz sets every night; the music charge is £18 Sunday to Thursday and £23 on Friday and Saturday. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) has it beside the other jazz suppers.
 
 Barts, a 1920s speakeasy behind an unmarked black door at Chelsea Cloisters on Sloane Avenue, asks for a password at the door. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) covers it and the rest of London's hidden bars.
+
+To watch the match, The Sporting Page on Camera Place calls itself Chelsea's sports pub; it is in our [sports bars guide](/articles/best-sports-bars-london/).
 
 ## Getting there
 

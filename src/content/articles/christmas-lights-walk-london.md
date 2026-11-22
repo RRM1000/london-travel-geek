@@ -2,14 +2,10 @@
 title: "A Christmas Lights Walk in London: Oxford Street to Trafalgar Square in Ten Stops"
 seoTitle: "Oxford Street & Regent Street Christmas Lights 2026"
 description: "The 2026 Christmas lights on Oxford Street, Regent Street, Carnaby, Bond Street and Covent Garden: switch-on dates, the 2026 themes and a ten-stop after-dark walk from Selfridges to the Trafalgar Square tree, with a map and the quietest night."
-heroImage: "../../assets/articles/christmas-lights-walk-london/regent-street-spirit-buses.jpg"
-heroImageAlt: "One of the Spirit of Christmas angels, wings spread under a canopy of white lights, above Regent Street at night with two red buses below"
-heroImageCredit: "Marathon"
-heroImageSource: https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Regent_Street_2025_-_geograph.org.uk_-_8214164.jpg
-heroImageLicense: "CC BY-SA 2.0"
-heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/2.0/
+heroImage: "../../assets/articles/christmas-lights-walk-london/regent-street-spirit-bus-23.jpg"
+heroImageAlt: "A Spirit of Christmas angel spanning Regent Street at dusk, with a red number 23 double-decker bus in the road below"
 publishedAt: 2026-09-26
-updatedAt: 2026-11-19
+updatedAt: 2026-11-22
 reviewBy: 2026-12-03
 sites: [london]
 canonicalSite: london
@@ -91,6 +87,10 @@ Start outside **Selfridges** and walk east.
 
 *Oxford Street's stars, at Oxford Circus.*
 
+![Shoppers walking down the middle of a traffic-free Oxford Street under strings of star-shaped lights on an autumn afternoon](../../assets/articles/christmas-lights-walk-london/oxford-street-traffic-free.jpg)
+
+*Oxford Street, with no traffic.*
+
 Walk east past **Bond Street station**, about five minutes, and turn right just beyond it.
 
 ## 2. South Molton Street
@@ -116,11 +116,32 @@ Walk the full length, New Bond Street into Old Bond Street, down to Piccadilly. 
 *One of the Bond Street crowns.*
 
 **Dior's shopfront is an advent calendar.** The House of Dior at 160-162 New Bond Street, W1S 2UE, has dressed its whole façade for 2026 as a giant advent calendar: decorated windows, greenery, nutcrackers and a large star over the door.
+
+![The Dior building on New Bond Street at dusk, its whole front framed in lit green garlands with nutcracker figures in the windows and a crowd outside](../../assets/articles/christmas-lights-walk-london/dior-new-bond-street.jpg)
+
+*Dior, 160-162 New Bond Street.*
+
+**Chanel, a few doors along**, has covered its front with gold leaping deer.
+
+![Gold deer leaping across a sunburst of lights on the front of Chanel's New Bond Street shop at dusk](../../assets/articles/christmas-lights-walk-london/chanel-new-bond-street.jpg)
+
+*Chanel, New Bond Street.*
+
 At the bottom, turn left along **Piccadilly**, past Burlington Arcade, the Royal Academy and Fortnum & Mason, to Piccadilly Circus. Keep going across the Circus and into **Regent Street St James's**, the lower stretch of Regent Street running south.
+
+**Fortnum & Mason** is lit red for Christmas, with 2026 down its corner.
+
+![Fortnum & Mason's Piccadilly store lit red at dusk, with garlanded windows and the numbers 2026 lit down its corner](../../assets/articles/christmas-lights-walk-london/fortnum-and-mason.jpg)
+
+*Fortnum & Mason on Piccadilly.*
 
 ## 4. St James's Market
 
 On the left of Regent Street St James's, a pedestrian square of offices and restaurants between Regent Street and Haymarket, and the first place you will see **the Spirits**.
+
+![Small Spirit of Christmas angels and lit stars hanging over the pedestrian street of St James's Market at night](../../assets/articles/christmas-lights-walk-london/st-james-market-spirits.jpg)
+
+*Spirits over St James's Market.*
 
 The Crown Estate, which owns Regent Street, also hangs the angels over St James's Market, Glasshouse Street, Swallow Street and Quadrant Arcade as well as the main road: **more than 30 Spirits** in the 2025 display. In 2026 the St James's Market Pavilion also carries seasonal illustrations by the artist Deborah Panesar. Here you can stand under them without traffic or a crowd moving you along.
 
@@ -128,9 +149,9 @@ Walk back up to Piccadilly Circus and bear left into the curve of Regent Street.
 
 ## 5. Regent Street and the Spirits of Christmas
 
-![A Spirit of Christmas angel above Regent Street, its lit wings spanning the road between strings of white lights, with the Apple store's arched windows below](../../assets/articles/christmas-lights-walk-london/regent-street-spirit-apple.jpg)
+![A Spirit of Christmas angel spanning Regent Street at dusk, with a red number 23 double-decker bus in the road below](../../assets/articles/christmas-lights-walk-london/regent-street-spirit-bus-23.jpg)
 
-*Regent Street in December 2025. Photo: Marathon, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Regent_Street_2025_-_geograph.org.uk_-_8214152.jpg).*
+*A Spirit of Christmas over Regent Street.*
 
 **The Quadrant**, the curve running north-west from Piccadilly Circus, is the stretch to walk slowly.
 
@@ -149,11 +170,15 @@ Carry on up Regent Street past the top of the Quadrant and turn right into **Bea
 
 **Carnaby's lights went on Wednesday 4 November 2026**, the first switch-on on this walk after Leicester Square. The 2026 theme is "the feel-good nostalgia of the 90s", in the words of Shaftesbury Capital, which owns the street.
 
-![The Carnaby Soho sign arching over Carnaby Street at dusk, with lit planets and blue tinsel clouds hung down the street behind it](../../assets/articles/christmas-lights-walk-london/carnaby-street.jpg)
+![The neon Carnaby Street arch at night, with pink and purple pixel-block light shapes hanging over the crowded street behind it](../../assets/articles/christmas-lights-walk-london/carnaby-street-2026.jpg)
 
-*Carnaby's arch sign, in a previous year's lights.*
+*Carnaby Street's 2026 lights.*
 
 **Kingly Court** opens off the west side of Carnaby: three floors of restaurants around a courtyard, which is covered through the winter. The courtyard is busiest from 6pm to 8pm and most of its restaurants take bookings, so book a table on a Friday or Saturday.
+
+![Diners at tables in Kingly Court's covered courtyard, under a white canopy with lights strung along the balconies of the restaurants above](../../assets/articles/christmas-lights-walk-london/kingly-court.jpg)
+
+*Kingly Court's covered courtyard.*
 
 Oxford Circus is five minutes north if you want to stop here.
 
@@ -164,6 +189,10 @@ Oxford Circus is five minutes north if you want to stop here.
 The longest stretch between stops, about a kilometre and 14 minutes. Cross Soho eastwards along **Broadwick Street**, turn right down **Wardour Street**, left along **Old Compton Street** to Cambridge Circus, and take **Earlham Street** to the Dials.
 
 Seven Dials was lit with the rest of Covent Garden on **Thursday 12 November 2026**. Its display is the **Canopies of Light** over the streets, with the **Sundial Pillar** as the centrepiece.
+
+![The Sundial Pillar at Seven Dials at night, with canopies of white fairy lights strung from its top out over the surrounding streets](../../assets/articles/christmas-lights-walk-london/seven-dials-sundial-pillar.jpg)
+
+*The Sundial Pillar under the Canopies of Light.*
 
 **Seven Dials Market**, in the old banana warehouse on Earlham Street, has 21 independent street-food traders and two bars, walk-in for small groups. Open **Monday and Tuesday noon to 10pm, Wednesday to Saturday 11am to 11pm, Sunday 11am to 9pm**, and **11am to 8pm on Christmas Eve and Boxing Day**, noon to 8pm on 27 December and closed on Christmas Day ([Seven Dials Market](https://www.sevendialsmarket.com/)).
 
@@ -179,9 +208,9 @@ A narrow cobbled street of fashion shops, strung with Covent Garden's lights, an
 
 ## 9. Covent Garden: the tree and the Market Building
 
-![A tall Christmas tree covered in red and white lights on Covent Garden's West Piazza beside the portico of St Paul's Church, with a large crowd in front](../../assets/articles/christmas-lights-walk-london/covent-garden-tree-west-piazza.jpg)
+![Covent Garden's Christmas tree at night, covered in red and white lights and gold baubles in a wooden tub, beside St Paul's Church with a crowd in front](../../assets/articles/christmas-lights-walk-london/covent-garden-tree-2026.jpg)
 
-*The tree on the West Piazza. Photo: Matt Brown, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Busy_Covent_Garden_with_Christmas_tree_2023-12-17.jpg).*
+*The tree on the West Piazza, beside St Paul's Church.*
 
 **Covent Garden's lights went on at a switch-on show on Thursday 12 November 2026**, themed 'The Theatre of Christmas'. Three things to see:
 
@@ -189,9 +218,9 @@ A narrow cobbled street of fashion shops, strung with Covent Garden's lights, an
 - **The Market Building**, hung with **gold bells, mirror balls and baubles**, all returning for 2026. The upper level, by the rail over the lower courtyard, puts you closest to them.
 - **The Box Office Bar** on the Piazza, serving mulled wine for a second year.
 
-![Inside Covent Garden's Market Building, lit Christmas trees and a red sleigh under the iron roof, with giant white baubles, mirror balls and light-up mistletoe hanging above](../../assets/articles/christmas-lights-walk-london/covent-garden.jpg)
+![Giant gold bells with red bows, red baubles and a mirror ball hanging under the lit iron and glass roof of Covent Garden's Market Building](../../assets/articles/christmas-lights-walk-london/covent-garden-market-building-bells.jpg)
 
-*The Market Building, in a previous year's decorations.*
+*Bells and baubles in the Market Building.*
 
 **For the view from above**, go up to **Bar Cicoria on level five of the Royal Opera House**, in the north-east corner of the Piazza. It is a covered, heated terrace looking down on the market roof and the lights and takes walk-ins. Open daily from midday, to 11pm Monday to Saturday and 9.15pm on Sunday. The building is cashless and bags are checked at the door.
 
@@ -204,6 +233,12 @@ Every Thursday since 12 November Covent Garden has run **Festive Thursdays**, wi
 From the Piazza take King Street and New Row to St Martin's Lane, and follow it south past the Coliseum to Trafalgar Square, about nine minutes. **St Martin's Lane has its own lights**, on from Tuesday 3 November 2026 until 6 January 2027, with a [switch-on event](https://leicestersquare.london/updates/londons-west-end-is-set-to-sparkle-as-christmas-lights-switch-on-this-november) on the day they were lit.
 
 **The tree is lit at a ceremony on Thursday 3 December 2026.** It is a Norwegian spruce, sent by Oslo every year. It is dressed in the Norwegian way, with **vertical strings of white lights** and no baubles, and stays until just before Twelfth Night.
+
+**The Christmas market is already open** on the North Terrace in front of the National Gallery: chalets, churros and a Festive Bar. Its dates are in our [Christmas markets guide](/articles/christmas-markets-london/#trafalgar-square-christmas-market).
+
+![The Trafalgar Square Christmas market at night, a lit churros chalet and a crowd in front of the National Gallery's portico and dome](../../assets/articles/christmas-lights-walk-london/trafalgar-square-market.jpg)
+
+*The market in front of the National Gallery.*
 
 The free [National Gallery](/articles/national-gallery-guide/) faces the square and is open until 21:00 on Fridays, so a Friday walk can end indoors.
 

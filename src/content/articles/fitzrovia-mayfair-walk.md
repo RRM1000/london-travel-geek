@@ -33,6 +33,8 @@ faq:
 
 **This route follows a chain of squares, churches and arcades behind Oxford Street** north to south, from Fitzroy Square to Green Park: eleven numbered stops, **5.6km, about 75 minutes of walking and three to four hours with stops**. Almost all of it is free.
 
+Savile Row and Jermyn Street are two of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 **The Royal Academy is shut on Mondays, St George's Hanover Square on Saturdays, and two of the three Savile Row tailors below at weekends.**
 
 For the rest of both areas, see the [Fitzrovia area guide](/articles/fitzrovia-area-guide/) and the [Mayfair area guide](/articles/mayfair-area-guide/).

@@ -27,7 +27,7 @@ faq:
     a: "It can be. Sollip's dinner menu is £152 and SUSHISAMBA's set menus start at £95. But Tangra's sharing menu is £32 a head, Bintang's mains are £16 to £19, Fatt Pundit's momos are under £9, and Ayllu's five-course weekday lunch is £29."
 ---
 
-**This guide is the narrow version of fusion**: restaurants that put two named cuisines into the same dish and say so on their own menus. A pan-Asian menu with sushi on one page and pad thai on the next is not on it.
+**This guide is the narrow version of fusion**: restaurants that put two named cuisines into the same dish and say so on their own menus. A pan-Asian menu with sushi on one page and pad thai on the next is not on it, and the sushi counters are in the [best sushi restaurants guide](/articles/best-sushi-restaurants-london/).
 
 Some pairings are long established: **Nikkei** came out of Japanese migration to Peru and **Indo-Chinese** out of the Hakka Chinese community in Kolkata. Others are chef-made: **Japanese-Italian** in Dalston, **Korean-European** in Bermondsey and Stoke Newington, **Mexican-Japanese** above Broadgate. And some are a cook's two family kitchens on one plate. The guide is sorted by pairing, because a Kolkata chilli-chicken canteen and a Japanese-Italian tasting counter are not the same evening.
 

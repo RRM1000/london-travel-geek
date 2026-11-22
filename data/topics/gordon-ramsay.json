@@ -1,0 +1,70 @@
+{
+  "topic": "gordon-ramsay",
+  "article": "src/content/articles/gordon-ramsay-restaurants-london.md",
+  "headTerm": "Gordon Ramsay Restaurants",
+  "status": "first pass 2026-11-22",
+  "note": "Method lives in .claude/skills/consensus-guide/SKILL.md. This is a venue-led topic: one group, many formats, so the facet axis is the format of the room, not a cuisine. The list of what exists comes from the operator's own London locations (gordonramsayrestaurants.com/restaurants-and-bars/ and each restaurant's page and menus, read 22 November 2026), never from memory.",
+  "awardBodies": [
+    {
+      "name": "MICHELIN Guide Great Britain & Ireland 2026",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual, announced in February",
+      "note": "Restaurant Gordon Ramsay three stars; Restaurant Gordon Ramsay High, Pétrus by Gordon Ramsay and 1890 by Gordon Ramsay one star each; Savoy Grill listed without a star. High is new for 2026. The Pétrus page lives at /restaurant/petrus284688 because /restaurant/petrus resolves to the Hong Kong restaurant of the same name. The 1890 page is /restaurant/1890-by-gordon-ramsay."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "annual guide plus anonymous reviews",
+      "note": "Review of Restaurant Gordon Ramsay (April 2023). No other Ramsay London restaurant found with its own review page."
+    },
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "cadence": "annual survey, weekly Review of the Reviews",
+      "note": "Not recorded: Harden's pieces found are news (Gordo's high five, May 2024; Gordon Ramsay hits London's South Bank, August 2026) and a Review of the Reviews column that digests other critics. Re-check once the Sea Containers reviews are digested."
+    }
+  ],
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "tier": "B" },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "tier": "B" },
+    { "name": "Country & Town House", "domain": "countryandtownhouse.com", "tier": "B" },
+    { "name": "City AM", "domain": "cityam.com", "tier": "B" },
+    { "name": "The London Economic", "domain": "thelondoneconomic.com", "tier": "B" },
+    { "name": "MyLondon", "domain": "mylondon.news", "tier": "B" },
+    { "name": "Hot Dinners", "domain": "hot-dinners.com", "tier": "C" }
+  ],
+  "facetAxis": {
+    "field": "format",
+    "note": "The same name over the door covers very different meals, which is the reason readers search for a ranking. The axis is the format of the room.",
+    "values": [
+      { "key": "michelin", "label": "Michelin-starred", "describeAs": "set menus at one or three stars, booked weeks ahead" },
+      { "key": "hotel", "label": "Hotel dining room", "describeAs": "the Savoy's three rooms, all open to non-residents" },
+      { "key": "sky", "label": "22 Bishopsgate", "describeAs": "four Ramsay rooms in one tower, from a 12-seat counter to a cocktail bar open until 3am" },
+      { "key": "brasserie", "label": "Bread Street Kitchen and Heddon Street Kitchen", "describeAs": "all-day brasseries built on the Beef Wellington for two" },
+      { "key": "grill", "label": "Hell's Kitchen and Bar & Grill", "describeAs": "TV-brand and steak-grill rooms" },
+      { "key": "casual", "label": "Street Pizza and Street Burger", "describeAs": "bottomless pizza at £20 and burger-and-fries at £17.50" }
+    ]
+  },
+  "londonLocationsRead": "22 November 2026, from gordonramsayrestaurants.com/restaurants-and-bars/ and each restaurant's own page. Open and in the guide: Restaurant Gordon Ramsay (Chelsea); Restaurant Gordon Ramsay High, Lucky Cat 22 Bishopsgate and Bread Street Kitchen Floor 59 (all 22 Bishopsgate); Pétrus (Knightsbridge); Restaurant 1890, Savoy Grill and The River Restaurant (all The Savoy); Lucky Cat Mayfair and Gordon Ramsay Bar & Grill (both Grosvenor Square); Heddon Street Kitchen; Hell's Kitchen (The Cumberland, Marble Arch); Gordon Ramsay at Sea Containers (South Bank, new in 2026); Bread Street Kitchen at St Paul's, The City (South Place), Battersea Power Station, Limehouse and Stratford; Street Pizza at St Paul's and Battersea; Street Burger at Charing Cross Road, Farringdon and The O2; Plane Food at Heathrow Terminal 5; Pizza East at Shoreditch and Stratford. LEFT OFF: Bread Street Kitchen Southwark (the page reads 'WE ARE NOW CLOSED'; the directory says temporarily closed); Gordon Ramsay at F1 Garage (an events pop-up with no London address); Gordon Ramsay Academy (a cookery school). 'Gordon Ramsay Burger' and 'Gordon Ramsay Steak' are overseas brands with no London site. Street Burger Kensington closed in 2025 and is not on the group's list.",
+  "knownGaps": [
+    "No community tier (E): Reddit is not reachable from this environment. Record any thread Rob supplies by hand.",
+    "TikTok search needs a paid scraper, so tier D is YouTube only. Video transcripts cannot be read, so only creators whose title or description states a view were recorded. Left unrecorded for that reason: More Best Ever Food Review Show (Ramsay's London restaurants from cheap to expensive, Aug 2024), Harrison Webb (I Tried Every Gordon Ramsay Restaurant, Jun 2024), Gary Eats (Restaurant Gordon Ramsay, Mar 2026), Hannah Ricketts (Hell's Kitchen, Apr 2026; Bar & Grill, Aug 2026), Alexander The Guest (High, Oct 2025), Beard's Flavour Of The Month (Bread Street Kitchen at 22 Bishopsgate, Aug 2026; the earlier rooftop record files it under High, but 'fifty nine storeys' is the Bread Street Kitchen floor).",
+    "The Handbook returns 403 to this fetcher (Cloudflare), so its Ramsay pieces (all three Savoy restaurants; Bread Street Kitchen at 22 Bishopsgate; Sunday roasts; Beef Wellington list) were not read. The records already in the riverside, seafood and French corpora are re-used.",
+    "Heddon Street Kitchen, Gordon Ramsay Bar & Grill, Street Pizza, Plane Food, Pizza East and four of the Bread Street Kitchen branches are named by no current recommending source; their only recent coverage is TripAdvisor-score round-ups and complaints. Re-check after the next opening and review wave.",
+    "Gordon Ramsay at Sea Containers opened in September 2026 and has one listing (DesignMyNight) and no recommending review yet; The Times (October 2026) was negative. Treat as unranked until more critics have been.",
+    "The Sheet's Restaurants v2 tab holds only Restaurant Gordon Ramsay, Bread Street Kitchen (Battersea) and Bread Street Kitchen Stratford for this group, so facts strips in the article are hand-written and sync-article-facts.mjs cannot refresh them. Needs rows for the rest before the strips can be generated."
+  ],
+  "venueIdentity": [
+    "Lucky Cat Mayfair and Lucky Cat 22 Bishopsgate are recorded separately. Two list mentions of plain 'Lucky Cat' (Conde Nast Traveller best sushi, Luxury London afternoon tea) are held out until the branch is clear.",
+    "Bread Street Kitchen is recorded per branch where the source names it: 22 Bishopsgate (Floor 59), Limehouse. Plain 'Bread Street Kitchen' mentions in TripAdvisor round-ups were not recorded.",
+    "'Restaurant Gordon Ramsay High' and 'Gordon Ramsay High' are one restaurant (existing alias). Restaurant 1890 is the Savoy's 'Restaurant 1890 by Gordon Ramsay'; Michelin spells it '1890 by Gordon Ramsay'.",
+    "Savoy Grill is one restaurant whether a source writes 'The Savoy Grill' or 'Savoy Grill by Gordon Ramsay'."
+  ],
+  "currentState": {
+    "recorded": "2026-11-22",
+    "note": "Counts are printed from data/evidence.json by scripts/verify-gordon-ramsay-citations.mjs, not here."
+  }
+}

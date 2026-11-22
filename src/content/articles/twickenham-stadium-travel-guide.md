@@ -9,8 +9,8 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Aerial_view_of_Twickenh
 heroImageLicense: "CC BY 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/4.0
 publishedAt: 2026-07-23
-updatedAt: 2026-11-15
-reviewBy: 2026-11-20
+updatedAt: 2026-11-21
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -30,11 +30,11 @@ faq:
   - q: "How long does it take to get out of Twickenham after a match?"
     a: "Plan on two to three hours. Whitton Road and Rugby Road stay closed while the crowd clears, and trains run to the normal timetable: six an hour to Waterloo."
   - q: "Is there a night train or Night Tube from Twickenham Stadium?"
-    a: "Not from Twickenham. The last train to Waterloo on Saturday 21 November 2026 is 00:11. The all-night option is normally the Piccadilly line from Hounslow East on Friday and Saturday nights, about every 10 minutes, 37 minutes to Green Park, but the Piccadilly line is closed west of Hammersmith on 21 and 22 November, Night Tube included. It's a 30 to 35 minute walk to Hounslow East, and the shuttle will have stopped."
+    a: "Not from Twickenham. The last train to Waterloo on a Saturday is 00:11. The all-night option is the Piccadilly line from Hounslow East on Friday and Saturday nights, about every 10 minutes, 37 minutes to Green Park. It's a 30 to 35 minute walk to Hounslow East, and the shuttle will have stopped."
   - q: "What size bag can you take into Twickenham Stadium?"
     a: "A4 or smaller, unless a bigger bag is needed for accessibility or small children. Anything larger goes in the bag drop at Webb Ellis House on Rugby Road (£10). Pushchairs, buggies, cans, glass and flagpoles of 1.5m or more aren't allowed in."
   - q: "What time do the gates open at Allianz Stadium?"
-    a: "Three and a half hours before an England men's international: 10:40 for the 14:10 kick-off against New Zealand on 21 November 2026. Other fixtures vary, so check yours. Entry isn't guaranteed if you arrive less than 60 minutes before kick-off."
+    a: "Three and a half hours before an England men's international, so 10:40 for a 14:10 kick-off. Other fixtures, including the Nations Championship finals, vary, so check yours. Entry isn't guaranteed if you arrive less than 60 minutes before kick-off."
   - q: "Is Twickenham Stadium accessible for wheelchair users?"
     a: "Yes: 62 wheelchair bays on three raised covered terraces reached by lift, 214 accessible seats and bays pitch-side, 70 accessible toilets and a Changing Places room (bring your own sling). Accessible seating is booked with a Nimbus Disability Access Card, free if you only use it here. Twickenham and Richmond stations are step-free to every platform."
   - q: "Where do you eat and drink before a match at Twickenham?"
@@ -161,9 +161,9 @@ Bike racks are in the **south-east corner by the ticket office**; bring a lock.
 | **Richmond** → Waterloo | 00:15 | 00:35 | — |
 | **Hounslow East** → Green Park | **All night Friday and Saturday** | 37 minutes | Night Tube, about every **10 minutes** |
 
-*Times for Saturday 21 November 2026, England v New Zealand.*
+*Saturday last trains, as timetabled for 21 November 2026. Check National Rail's journey planner for your own day.*
 
-> ⚠️ **On Saturday 21 November 2026 the Piccadilly line does not run west of Hammersmith**, so Hounslow East has no Tube service that day or that night, Night Tube included. Use Twickenham or Whitton for Waterloo, or take the shuttle to Richmond, instead of the Hounslow East shuttle.
+> ⚠️ **TfL has no planned closure on the Piccadilly line over the finals weekend, 27 to 29 November 2026**, so the Hounslow East shuttle and the Friday and Saturday Night Tube both work. The Tube drivers' strike that starts at noon on Thursday 26 November ends at 11:59 on Friday 27 November, before the first kick-off. The District line is closed between High Street Kensington and Edgware Road on 28 and 29 November.
 
 > ⚠️ **There is no night train from Twickenham.** After 00:11 nothing runs until 06:51. The only all-night option is the **Piccadilly line from Hounslow East**, Friday and Saturday only, a 30 to 35 minute walk after the shuttle has stopped. It is tightest on **Friday 27 November 2026**, when the second Nations Championship final kicks off at **20:10**.
 
@@ -181,8 +181,6 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts E
 
 | Date | Event | Kick-off | Crowd |
 | --- | --- | --- | --- |
-| **Sat 14 Nov 2026** | England v Japan | 16:40 | **82,000** |
-| **Sat 21 Nov 2026** | England v New Zealand | 14:10 | **82,000** |
 | **Fri 27 Nov 2026** | Nations Championship finals | 16:40 & 20:10 | **82,000** |
 | **Sat 28 Nov 2026** | Nations Championship finals | 13:10 & 16:40 | **82,000** |
 | **Sun 29 Nov 2026** | Nations Championship finals | 13:10 & 16:40 | **82,000** |
@@ -191,9 +189,9 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts E
 | **Sat 20 Feb 2027** | England v Italy, Six Nations | 16:40 | — |
 | **Sat 13 Mar 2027** | England v Scotland, Six Nations | 16:40 | — |
 
-*Crowd figures are Richmond Council's.* England v New Zealand is sold out; the England v Japan game started at £51. On a concert night everything here applies, but the crowd leaves later, closer to the last train. The big 2027 gigs elsewhere in London are in our [London concerts 2027](/articles/london-concerts-2027/) guide.
+*Crowd figures are Richmond Council's.* On a concert night everything here applies, but the crowd leaves later, closer to the last train. The big 2027 gigs elsewhere in London are in our [London concerts 2027](/articles/london-concerts-2027/) guide.
 
-**Tickets.** Each match has its own page on the stadium's site: [England v Japan](https://allianzstadiumtwickenham.com/england-v-japan-nations-championship-pool-match/tickets), and for the three finals days, the [Nations Championship finals page](https://allianzstadiumtwickenham.com/nations-championship-finals-weekend), which says general admission is on sale. The Six Nations games have their own pages: [France](https://allianzstadiumtwickenham.com/england-v-france-guinness-mens-six-nations-2027), [Italy](https://allianzstadiumtwickenham.com/england-v-italy-guinness-mens-six-nations-2027) and [Scotland](https://allianzstadiumtwickenham.com/england-v-scotland-guinness-mens-six-nations-2027).
+**Tickets.** Each match day has its own page on the stadium's site: the finals weekend's [Friday](https://allianzstadiumtwickenham.com/nations-championship-finals-weekend-friday), [Saturday](https://allianzstadiumtwickenham.com/nations-championship-finals-weekend-saturday) and [Sunday](https://allianzstadiumtwickenham.com/nations-championship-finals-weekend-sunday). The Six Nations games have their own pages: [France](https://allianzstadiumtwickenham.com/england-v-france-guinness-mens-six-nations-2027), [Italy](https://allianzstadiumtwickenham.com/england-v-italy-guinness-mens-six-nations-2027) and [Scotland](https://allianzstadiumtwickenham.com/england-v-scotland-guinness-mens-six-nations-2027).
 
 ---
 
@@ -207,7 +205,7 @@ Twickenham Stadium has been **Allianz Stadium** since September 2024. It hosts E
 | **Not allowed in** | Alcohol, glass, cans, knives, air horns, professional cameras, **pushchairs and buggies**, flagpoles of 1.5m or more, large amounts of food |
 | **Re-entry** | **None** |
 
-> ⚠️ **Arrive at least an hour before kick-off.** You can only enter through the gate printed on your ticket, and entry **isn't guaranteed less than 60 minutes before kick-off**. Gates open **three and a half hours** before an England men's international (10:40 for the 14:10 kick-off against New Zealand).
+> ⚠️ **Arrive at least an hour before kick-off.** You can only enter through the gate printed on your ticket, and entry **isn't guaranteed less than 60 minutes before kick-off**. Gates open **three and a half hours** before an England men's international (10:40 for a 14:10 kick-off).
 
 - **Cashless throughout.** One cash machine, to the right of the England Rugby Store.
 - **Free tap water** at any bar, and water stations in the north-east and south-east corners.
@@ -290,6 +288,7 @@ On **non-match days**, parking in the West or North car park is free if you regi
 ## Continue planning your London trip
 
 - 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — the Six Nations and Premiership final dates here, and the rest of London's sporting year
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**
 - 🚌 **[How to Use London Buses and Trams](/articles/how-to-use-london-buses-and-trams/)**

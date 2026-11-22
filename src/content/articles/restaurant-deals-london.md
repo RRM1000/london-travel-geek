@@ -3,7 +3,7 @@ title: "London Restaurant Deals: Set Lunch and Pre-Theatre Menus"
 seoTitle: "London Restaurant Deals 2026: Set Lunch & Pre-Theatre"
 description: "Fixed-price menus across London — set lunch, pre-theatre and early evening — from £9.95 to Michelin-starred, with prices, the days and times they run, and what the same food costs at dinner."
 publishedAt: 2026-07-20
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 reviewBy: 2026-11-30
 sites:
   - london
@@ -35,7 +35,7 @@ heroImageAlt: "An overhead view of a shared mezze spread on a patterned tiled ta
 
 Fixed-price lunch and early-evening menus serve the same kitchen's food for less than the same dishes cost at dinner. Where a price is a saving, the table says what dinner costs instead.
 
-> 💡 **The Short Version:** **Chez Bruce** is the biggest saving here: £40.50 against £98.50 at dinner. **Frankie & Benny's** from £9.95, **Tonkotsu** at £10.50 and **Franco Manca** at £12.50 are the cheapest. **Hawksmoor** does a main and a side for £21, and **Manzi's** in Soho does two courses for £16. **Bocca di Lupo** at £18 works for lunch and pre-theatre alike. And most of these run **Monday to Friday only**.
+> 💡 **The Short Version:** **Chez Bruce** is the biggest saving here: £40.50 against £98.50 at dinner. **Frankie & Benny's** from £9.95, **Tonkotsu** at £10.50 and **Franco Manca** at £12.50 are the cheapest, with **Hera** in Stratford at £13.90, **Dishoom** at £16 and **Brasserie Zédel** at £16.95 close behind. **Hawksmoor** does a main and a side for £21, and **Manzi's** in Soho does two courses for £16. **Bocca di Lupo** at £18 works for lunch and pre-theatre alike. And most of these run **Monday to Friday only**.
 
 > ⚠️ **Prices change and menus rotate.** Confirm on the restaurant's own site before you travel.
 
@@ -69,7 +69,16 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 
 **Chez Bruce is the biggest saving.** The "Brucie Bonus" is £40.50 for two courses when the same kitchen charges £98.50 for three in the evening, under half price.
 
+![The frontage of Chez Bruce beside Wandsworth Common](../../assets/articles/best-french-restaurants-london/chez-bruce.jpg)
+*Chez Bruce, Wandsworth. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/2879798210), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
+
 **Trinity is about a third off** the same four courses at dinner, and Gordon Ramsay's £125 lunch compares with £225 for the Prestige menu.
+
+![A small dining room at Restaurant Gordon Ramsay, with pink upholstered chairs and round tables laid for service](../../assets/articles/special-occasion-restaurants-london/restaurant-gordon-ramsay-dining-room.jpg)
+*The dining room at Restaurant Gordon Ramsay, Chelsea.*
+
+![Sliced duck breast with red cabbage and a dark sauce](../../assets/articles/best-french-restaurants-london/galvin-la-chapelle.jpg)
+*Galvin La Chapelle, Spitalfields. Photo: [Ewan-M](https://www.flickr.com/photos/55935853@N00/4286655868), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ---
 
@@ -79,8 +88,10 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 
 | Restaurant | Deal | When |
 | --- | --- | --- |
+| **Hera**, Stratford | £13.90 Office Lunch, two courses | Mon–Fri 11am–3.30pm |
 | **Brasserie Zédel**, Piccadilly | £16.95 / 2, £19.95 / 3 | Lunch **and** dinner |
 | **Bocca di Lupo**, Soho | £18 starter + main, £26 with dessert | Mon–Fri 12–6.30pm |
+| **Suzi Tros**, Notting Hill | £20 / 2, £29 / 3 | Mon–Fri lunch |
 | **Boulevard Brasserie**, Covent Garden | £22.95 starter + main, £27.90 with dessert | Daily 12–6.30pm |
 | **The Delaunay**, Aldwych | £23.50 / 2, £27.50 / 3 | Daily from 11.30am |
 | **Balthazar**, Covent Garden | £25.50 / 2, £28.50 / 3 | Mon–Thu all day, Fri 12–6pm, Sun from 5pm. Max six |
@@ -90,18 +101,36 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 | **Boisdale**, Belgravia | £29.50 / 2, £34.50 / 3 | Lunch |
 | **Mucci's**, Chelsea | £10 starters, £20 pastas and mains | Kitchen menu |
 | **Colbert**, Sloane Square | £30 / 2, £35.75 / 3 | Daily from noon |
+| **Bingham Riverhouse**, Richmond | £30 / 2, £40 / 3 with a carafe of Vinho Verde between two | Mon–Fri 12–6.30pm |
 | **Quo Vadis**, Soho | £30 / 2, £35 / 3 | Mon–Sat lunch, 5–6.15pm and 9–10pm. Max four |
 | **Som Saa**, Spitalfields | £35pp, £30 vegan — whole table | Mon–Sat 12–2.30pm |
 | **Chutney Mary**, St James's | £39 / 2, £45 / 3 | Mon–Fri 12–2.15pm |
+| **[The Gore](https://collezione.starhotels.com/en/our-hotels/the-gore-london/dining/sunday-lunch.html)**, South Kensington | £45 / 2, £50 / 3 Sunday lunch; the menu changes weekly | Sundays 12.30–3pm |
 | **NOPI**, Soho | £45pp / 3 courses | Mon–Fri |
 
 **Brasserie Zédel** charges £16.95 for two courses in an Art Deco basement off Piccadilly Circus. It runs at dinner too, so it is a fixed price, not a lunchtime saving.
+
+**Hera in Stratford** is the cheapest sit-down lunch on this page after Franco Manca: £13.90 for two courses with sides, in a Greek restaurant by Stratford station.
+
+**Bingham Riverhouse** in Richmond includes the wine: three courses at £40 come with a carafe of organic Vinho Verde to share between two, in a dining room over the Thames.
 
 **Mucci's on the King's Road is not a time-limited offer.** Starters are £10 and pastas and mains £20 on the kitchen menu, with no lunch window; the 400g steak is £40.
 
 **Bocca di Lupo on Archer Street** serves a starter and a main from its regional Italian menu for £18, until 6.30pm, so it works as lunch or pre-theatre, two minutes from Piccadilly Circus. The dishes change monthly.
 
+![The red-brick frontage of Bocca di Lupo on Archer Street, with diners on stools at the counter inside](../../assets/articles/best-italian-restaurants-london/bocca-di-lupo.jpg)
+*Bocca di Lupo on Archer Street.*
+
 **Trishna in Marylebone** is tiered: one course £25 and two £35 **at weekday lunches only**, while three at £45 and four at £50 are also available in the early evening, 5–6.15pm.
+
+![Butter pepper garlic soft-shell crab with coconut crab salad and chilli chutney on blue patterned china at Trishna](../../assets/articles/best-indian-restaurants-london/trishna.jpg)
+*Soft-shell crab at Trishna.*
+
+![The long zinc counter at The Palomar, with leather stools facing the open kitchen and wood-panelled booths opposite](../../assets/articles/best-middle-eastern-restaurants-london/the-palomar.jpg)
+*The counter at The Palomar in Soho.*
+
+![A red curry with beef, Thai aubergines, whole red chillies and holy basil in a stoneware bowl](../../assets/articles/best-thai-restaurants-london/som-saa.jpg)
+*A red curry at Som Saa.*
 
 ---
 
@@ -132,11 +161,20 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 
 **Hawksmoor's** £21 buys a main and a side, and the lunch menu runs on Saturdays as well. The early-evening menu runs Monday to Thursday 4:45pm to 5:45pm, Friday 4:30pm to 5pm and Saturday 3:15pm to 5pm.
 
+![The glass-fronted Hawksmoor restaurant at Wood Wharf, lit at night beside the dock](../../assets/articles/best-chain-restaurants-london/hawksmoor-wood-wharf.jpg)
+*Hawksmoor, Wood Wharf. Photo: [The wub](https://commons.wikimedia.org/wiki/File:Hawksmoor,_Wood_Wharf_-_2022-02-09.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
 **Franco Manca's £12.50** includes a soft drink. Frankie & Benny's set lunch from £9.95 and Tonkotsu's £10.50 ramen and side are cheaper still.
+
+![The Franco Manca pizzeria on Winchester Walk in Southwark, a brick corner building lit at dusk](../../assets/articles/best-chain-restaurants-london/franco-manca-southwark.jpg)
+*Franco Manca, Winchester Walk, Southwark. Photo: [Daniel from Glasgow](https://commons.wikimedia.org/wiki/File:Franco_Manca,_15_Winchester_Walk,_Blows_Yard,_Southwark,_November_2021.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
 
 The [chain restaurants guide](/articles/best-chain-restaurants-london/) covers these chains' menus and booking rules in full.
 
 **Côte's price varies by branch**, so check the one you are going to.
+
+![Spiced fried chicken, a stuffed roti, cassava chips and chutneys on a wooden table at Hoppers](../../assets/articles/best-indian-restaurants-london/hoppers.jpg)
+*Dishes at Hoppers.*
 
 ---
 
@@ -226,8 +264,14 @@ Pre-theatre menus run in the early evening, usually finishing by about 6.30pm.
 | **Trishna**, Marylebone | £45 / 3, £50 / 4 | 5–6.15pm |
 | **Kitchen W8**, Kensington ★ | £49.50 / 3 courses | 6–6.15pm sitting |
 | **NOPI**, Soho | £45pp / 3 courses | Mon–Fri 5–6.30pm |
+| **[Kolamba](https://www.kolamba.co.uk/pre-theatre-dining)**, Soho | £30pp, Sri Lankan dishes to share | Mon–Fri 4–6pm |
+| **[Opium](https://www.opiumchinatown.com/pre-theatre-dining-and-menu)**, Chinatown | £25pp: two dim sum baskets and a signature cocktail each | Daily 5–6.30pm |
+| **[Fatt Pundit](https://www.fattpundit.co.uk/soho/)**, Soho | £33.50 / 2, £37 / 3, Indo-Chinese, with a vegetarian version | — |
+| **[Haxells at the Strand Palace](https://www.strandpalacehotel.co.uk/restaurants-bars/pre-theatre.html)**, Strand | £32 / 2, £37 / 3 | Mon–Fri 12–6.30pm, Sat–Sun 4–6.30pm |
+| **[The Cavalry Bar at The Rubens](https://rubenshotel.com/experiences/london-theatre)**, Victoria | £35 / 2, £45 / 3 | 4–6.45pm |
+| **[The English Grill at The Rubens](https://rubenshotel.com/experiences/london-theatre)**, Victoria | £49 / 2, £55 / 3 | Daily 5.30–7pm |
+| **[The Montague on the Gardens](https://montaguehotel.com/dining-and-drinks/whats-on/avenue-q-musical)**, Bloomsbury | £39 / 2, £49 / 3 with an Avenue Q cocktail | Until 2 January 2027 |
 | **[Manzi's](https://manzis.co.uk/set-menus/)**, Soho | £29.50 / 3 courses and a glass of wine, beer or soft drink | Daily |
-| **[Kolamba](https://www.kolamba.co.uk/kolamba-soho)**, Soho | £30 menu | Mon–Fri 4–6pm |
 | **[Henri](https://www.experimentalgroup.com/london/henrietta-experimental/henri)**, Covent Garden | £29 / 2, £33 / 3 | Daily 5–6pm |
 | **[Town](https://town.restaurant/)**, Covent Garden | £32 snack and 2 courses, £38 with 3 | Mon–Sat 5–6pm. Up to four |
 | **[Poon's](https://www.poonslondon.com/restaurant/menu)**, Covent Garden | £32pp set menu | Lunch, or dinner until 6.30pm |
@@ -241,9 +285,14 @@ Pre-theatre menus run in the early evening, usually finishing by about 6.30pm.
 | **[Cafe La Divina](https://ladivina.co.uk/whats-on-islington.php)**, Islington | £30.95 / 2 courses and a drink | Sun–Thu, not bank holidays or the festive season |
 | **[Mercato Metropolitano](https://mercatometropolitano.com/traders/wood-wharf-pre-theatre-menu/)**, Wood Wharf | £10 dish from selected traders | Daily 4–7pm |
 
+**Opium's** price needs a booking for one of its four bars (Apothecary, Peony, Attic or Academy). **The Rubens** takes 15% off pre-theatre dining at any of its bars and restaurants for ticket holders for Six, Wicked and Hamilton, and charges full price if you cannot show a same-day ticket. **The Montague's** Avenue Q menu is £94 / £104 with a ticket to the show at the Shaftesbury Theatre, which needs 48 hours' notice. **[Ayllu](https://www.ayllu.co.uk/news-offers/christmas)** in Paddington Central has a five-course evening set menu for £29pp from 26 to 30 December 2026, with sushi, ceviche and pollo al carbón among the courses.
+
 **Bocca di Lupo** is two minutes from Shaftesbury Avenue and its window runs to 6.30pm, late enough for a 7.30pm curtain.
 
 **The Delaunay's Full Haus runs again from 9pm**, so it works after a show too, as does Veeraswamy's from 9.15pm.
+
+![Sarastro's long dining room, with gilded opera-box balconies and a table laid down the centre](../../assets/articles/dinner-and-a-show-london/sarastro.jpg)
+*Sarastro on Drury Lane.*
 
 For a 7.30pm curtain, book at 5.30pm. See our [London theatre guide](/articles/london-theatre-guide/) for how curtain times and running times actually work.
 

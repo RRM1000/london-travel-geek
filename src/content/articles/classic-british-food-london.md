@@ -5,7 +5,7 @@ description: "Scotch eggs, sausage rolls, pie and mash and sticky toffee pudding
 heroImage: "../../assets/articles/classic-british-food-london/m-manze-pie-mash-liquor.jpg"
 heroImageAlt: "Two pies covered in green parsley liquor next to mashed potato and a bowl of jellied eels, on a marble table."
 publishedAt: 2026-09-13
-updatedAt: 2026-10-26
+updatedAt: 2026-11-22
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -129,7 +129,7 @@ A thick, savoury sauce of melted cheddar, egg yolk, mustard and usually beer, gr
 
 ## Puddings
 
-"Pudding" in British usage means dessert in general. These are the four to know by name.
+"Pudding" in British usage means dessert in general. These are the ones to know by name.
 
 ### Sticky toffee pudding
 
@@ -150,6 +150,14 @@ Spotted dick is a suet sponge studded with dried fruit, steamed and served with 
 ![Simpson's-in-the-Strand's domed dining room, with oval portraits mounted below the cornice and white-clothed tables set for service.](../../assets/articles/classic-british-food-london/simpsons-in-the-strand-dining-room.jpg)
 
 *Simpson's-in-the-Strand.*
+
+### Crumble
+
+Stewed fruit under a rubble of flour, butter and sugar baked until crisp, eaten hot with custard. **[Humble Crumble](https://www.coventgarden.london/eat/cafe/humble-crumble)** sells nothing else, in takeaway pots: apple and cinnamon or mixed berries, from £7.35 for a regular and £8.85 for a large in November 2026. Hot, cold or frozen custard, vanilla whipped cream, a blowtorched marshmallow or dark chocolate drizzle cost 60p more. The shop is at **50a Earlham Street** in Seven Dials, with a queue on the pavement in the evenings, and it also trades at [Borough Market](https://boroughmarket.org.uk/traders/humble-crumble/) and [Old Spitalfields Market](https://oldspitalfieldsmarket.com/food-and-drink/humble-crumble).
+
+![A queue outside Humble Crumble's white takeaway shopfront in Seven Dials at night, under its sign](../../assets/articles/classic-british-food-london/humble-crumble-seven-dials.jpg)
+
+*Humble Crumble, Seven Dials.*
 
 ---
 

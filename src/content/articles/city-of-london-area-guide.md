@@ -77,6 +77,8 @@ The City of London is the original city: a square mile on the Roman street plan,
 
 Roughly half a million people work here and only about eight thousand live here, so it is a crush on a weekday and almost silent on a Sunday morning.
 
+Leadenhall Market and Lombard Street are in our [best streets in London](/articles/best-streets-london/) ranking.
+
 The City of London has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=city-of-london).
 
 ## Why visit — and who should skip it
@@ -198,7 +200,13 @@ The north-west edge of the City. **Smithfield** has been a livestock and meat ma
 | **One New Change** | Food court | ££ | Reliable at weekends when everything else is shut |
 | **Borough Market** | Food market | £ | Ten minutes over London Bridge when the City closes |
 
+Luna Omakase on the ninth floor of 100 Liverpool Street, Pham Sushi in the Heron and the Moshi Moshi conveyor belt at Liverpool Street station are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 Los Mochis cooks Mexican-Japanese food nine floors above Broadgate Circle, with a rooftop terrace, and SUSHISAMBA's Japanese, Brazilian and Peruvian menu is on the 38th floor of Heron Tower. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
+To watch the match, Brigadiers in Bloomberg Arcade has private rooms with screens and self-pour taps, The Side Hustle on Wood Street opened in June 2026, and The Minories under the arches by Tower Hill has screens in its beer garden; all are in our [sports bars guide](/articles/best-sports-bars-london/).
+
+Gordon Ramsay has three restaurants in the tower at 22 Bishopsgate (Restaurant Gordon Ramsay High, Lucky Cat and Bread Street Kitchen) and two on Bread Street by St Paul's; all are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
 
 ## Getting there
 

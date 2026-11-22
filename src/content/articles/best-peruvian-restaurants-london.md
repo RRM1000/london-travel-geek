@@ -376,6 +376,7 @@ The Peruvian cooking is five minutes south, at **Sabor Peruano** on Newington Bu
 - 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Nikkei beside Japanese-Italian, Indo-Chinese and Korean-European, ranked across every major list
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🍣 **[The Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)** — where the Nikkei rooms overlap
+- 🍣 **[The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/)** — the sushi counters, without the Peruvian side
 - 🌮 **[The Best Mexican Restaurants in London](/articles/best-mexican-restaurants-london/)**
 - 🐟 **[The Best Seafood Restaurants in London](/articles/best-seafood-restaurants-london/)**
 - 🥘 **[The Best Street Food in London](/articles/best-street-food-london/)**

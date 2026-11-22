@@ -3,7 +3,7 @@ title: "All You Can Eat in London: Sushi, Korean BBQ, Rodízio and Buffets"
 seoTitle: "All You Can Eat London 2026: Sushi, BBQ, Rodízio & More"
 description: "All-you-can-eat restaurants in London by style: sushi, Korean barbecue, hot pot, rodízio, dim sum and buffets, with each price, time limit and rule."
 publishedAt: 2026-11-12
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 reviewBy: 2026-12-12
 sites:
   - london
@@ -53,6 +53,7 @@ All-you-can-eat in London is a fixed price for as much food as you can order ins
 | Diwana Bhel Poori House, Euston | Vegetarian Indian | £14.95 | – |
 | Jimmy's World Grill, The O2 | World buffet | £17 weekday lunch, £23–25 dinner | 2 hours |
 | Las Iguanas, Tuesdays | Tapas | From £17 | 90 minutes |
+| Banana Tree | Southeast Asian small plates | £17 pre-booked, £19.95 walk-in | 90 minutes |
 | Aroma Buffet, Shepherd's Bush | Pan-Asian | £18 weekday lunch, £28 dinner | – |
 | Preto, Angel | Rodízio | £18.95 weekday lunch, £35.95 dinner | – |
 | Cosmo, Romford | World buffet | £21.99–£23.99 | – |
@@ -438,6 +439,12 @@ Belushi's runs [bottomless wings](https://belushis.com/london-bridge) all day on
 ---
 
 ## Other unlimited menus
+
+### Banana Tree, Bottomless Bowls
+
+*London branches · £17 booked online, £19.95 walk-in, curries £4 more · 90 minutes · Sunday to Friday*
+
+[Bottomless Bowls](https://bananatree.co.uk/bottomless-bowls) is unlimited rounds of the chain's Southeast Asian small plates: Bang Bang Broccoli, sweetcorn fritters, Firecracker and Korean barbecue wings, chicken dumplings, edamame and prawn crackers. For £4 a head more you add bottomless curries, including beef rendang, Thai chicken massaman and sweet and sour chicken, with jasmine rice and salt and pepper chips. Dishes come three at a time for every two people, and you finish a round before ordering the next. The whole table has to take the curry upgrade, tables are capped at eight, and it doesn't run on Saturdays. The last Friday booking is 3.30pm ([terms](https://bananatree.co.uk/terms-and-conditions)).
 
 ### Thai Square, Covent Garden
 

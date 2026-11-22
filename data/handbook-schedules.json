@@ -1,0 +1,49 @@
+{
+  "updated": "2026-11-20",
+  "note": "Everything that runs on its own, on all three sites. Only rows marked 'Deploys' start a Vercel build and can cost money. Times are UK time. Desktop-app jobs run only while the Claude app is open; if it is closed, they run when it next opens.",
+  "groups": [
+    {
+      "site": "London Travel Geek",
+      "jobs": [
+        { "what": "Listings refresh", "where": "GitHub (.github/workflows/listings.yml)", "when": "Mon and Thu, about 5:15am", "does": "Updates the listings data and commits it to main", "cost": "Deploys: about 8–9 Vercel builds a month" },
+        { "what": "Events radar", "where": "Desktop app (ltg-events-radar-daily)", "when": "Daily, about 6:40am", "does": "Emails new London events", "cost": "Free" },
+        { "what": "Openings radar", "where": "Desktop app (ltg-openings-radar-weekly)", "when": "Mon, about 7:20am", "does": "Emails openings and closures the site doesn't cover", "cost": "Free" },
+        { "what": "Food deals check", "where": "Desktop app (ltg-food-deals-weekly-recheck)", "when": "Mon, about 7:40am", "does": "Drops expired deals, fixes changed ones, commits locally", "cost": "Free; goes live with the next push" },
+        { "what": "Analytics pull", "where": "Desktop app (weekly-analytics-pull)", "when": "Mon, about 8:05am", "does": "GA4 and Search Console summary, committed locally", "cost": "Free" },
+        { "what": "GetYourGuide dead-tour check", "where": "Desktop app (gyg-dead-activity-check)", "when": "Mon, about 8:10am", "does": "Finds deactivated tours on LTG and CBG", "cost": "Free" }
+      ]
+    },
+    {
+      "site": "City Break Geek",
+      "jobs": [
+        { "what": "Exchange rates", "where": "Vercel function (api/rates.js)", "when": "Fetched by the site, cached about a day", "does": "Live rates for the price converter", "cost": "Pennies at most in edge requests; no builds. Live once commit 586c991b is pushed" },
+        { "what": "Old rates workflow", "where": "GitHub (.github/workflows/rates.yml)", "when": "Only when started by hand", "does": "Commits a new rates file", "cost": "Deploys if run" }
+      ]
+    },
+    {
+      "site": "London Theatre Geek",
+      "jobs": [
+        { "what": "Standing places", "where": "Database timer, then GitHub", "when": "Hourly, 8am–7pm", "does": "Les Mis and Hamilton standing tickets", "cost": "Free; data goes live through the database" },
+        { "what": "Archive closed shows and previews", "where": "Database timer", "when": "1am", "does": "Archives shows and previews that have ended", "cost": "Free" },
+        { "what": "TKTS offers", "where": "Database timer, then GitHub", "when": "2am", "does": "Updates each show's TKTS deal", "cost": "Free" },
+        { "what": "Daily agency deals sync", "where": "Database timer, then GitHub", "when": "3:17am", "does": "Agency deals and discrepancies", "cost": "Free" },
+        { "what": "Database backup", "where": "Database timer, then GitHub", "when": "3:30am", "does": "Every table as JSON", "cost": "Free" },
+        { "what": "Booking-date watch", "where": "Database timer, then GitHub", "when": "Mon and Thu, 3:43am", "does": "New booking periods", "cost": "Free" },
+        { "what": "Weekly pipeline", "where": "Database timer, then GitHub", "when": "Mon, 4:17am", "does": "New shows, deals, pricing, digest email", "cost": "Free" },
+        { "what": "Midweek deal discovery", "where": "Database timer, then GitHub", "when": "Thu, 4:17am", "does": "The next 40 shows' deals", "cost": "Free" },
+        { "what": "Theatre news watch", "where": "Database timer, then GitHub", "when": "Mon, Wed and Fri, 6:13am", "does": "News on listed shows, to the Review tab", "cost": "A few pence of Gemini a run" },
+        { "what": "Social posts", "where": "Database timer, then GitHub", "when": "7:30am", "does": "Emails the day's posts and posts to X", "cost": "Free" },
+        { "what": "Critics' reviews", "where": "GitHub schedule", "when": "Daily, plus weekly and monthly passes", "does": "Syncs reviews", "cost": "Free" },
+        { "what": "Job-failure report", "where": "GitHub schedule", "when": "Daily, 8am", "does": "Emails any failed jobs", "cost": "Free" },
+        { "what": "Search-gap report", "where": "GitHub schedule", "when": "Mon, 6am", "does": "Searches with no result", "cost": "Free" },
+        { "what": "Pricing check", "where": "GitHub schedule", "when": "1st of the month, 6am", "does": "Price drift across shows", "cost": "Free" }
+      ]
+    },
+    {
+      "site": "Other",
+      "jobs": [
+        { "what": "Taipei Travel Geek analytics", "where": "Desktop app (taipei-weekly-analytics)", "when": "Mon, about 3am", "does": "GA4 and Search Console summary", "cost": "Free" }
+      ]
+    }
+  ]
+}

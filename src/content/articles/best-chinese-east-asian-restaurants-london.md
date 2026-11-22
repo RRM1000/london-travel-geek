@@ -339,6 +339,7 @@ These are separate cuisines, each with its own guide.
 * [**The Best Thai Restaurants in London**](/articles/best-thai-restaurants-london/) — arranged by region: Isaan from the north-east is sour, fermented and chilli-driven, Southern Thai is coconut-rich and hotter again.
 * [**The Best Korean Restaurants in London**](/articles/best-korean-restaurants-london/) — including the New Malden strip, with its Korean grills and bakeries.
 * [**The Best Japanese Restaurants in London**](/articles/best-japanese-restaurants-london/) — split by format rather than price: omakase counter, yakitori grill, izakaya, ramen shop.
+* [**The Best Sushi Restaurants in London**](/articles/best-sushi-restaurants-london/) — omakase counters, à la carte rooms, handroll bars, a conveyor belt and cheap counters.
 
 ---
 ## Best value
@@ -412,6 +413,7 @@ Everything else the Chinese sources carry by two or more independent publication
 - 🏮 **[The Best Food in Chinatown](/articles/best-food-chinatown-london/)**: what to order on each Chinatown street, from Noodle Inn to Chinatown Bakery
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🥟 **[The Best Dim Sum in London](/articles/best-dim-sum-london/)**
+- 🍲 **[The Best Hot Pot in London](/articles/best-hot-pot-london/)**
 - 🍛 **[The Best Indian Restaurants in London](/articles/best-indian-restaurants-london/)**
 - 🌿 **[Best Vegetarian and Vegan Restaurants](/articles/best-vegetarian-vegan-restaurants-london/)**
 - 🍜 **[Soho Area Guide](/articles/soho-area-guide/)**

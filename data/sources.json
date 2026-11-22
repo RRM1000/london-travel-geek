@@ -145,7 +145,19 @@
     "dinewithjp.com",
     "hirespace.com",
     "youtube.com/@tripinn1975",
-    "youtube.com/@trip_train_"
+    "youtube.com/@trip_train_",
+    "londonfootballclubs.com",
+    "thelateedition.co.uk",
+    "worlddartshub.com",
+    "bestsportsbars.net",
+    "sportspasslondon.co.uk",
+    "sportsyard.co.uk",
+    "discusssports.co.uk",
+    "roamrecs.com",
+    "watchpartyradar.com",
+    "fanzo.com",
+    "sportsbarwatch.com",
+    "foamfinders.co.uk"
   ],
   "domains": {
     "thedrinksbusiness.com": {
@@ -362,6 +374,11 @@
     "factmagazines.com": {
       "tier": "B",
       "name": "Fact Magazines"
+    },
+    "diningawards.factmagazines.com": {
+      "tier": "A",
+      "name": "FACT Dining Awards",
+      "note": "Registered 22 Nov 2026 for breakfast-brunch. Dated annual awards with two winners per category: BEST, decided by a panel of independent experts plus mystery-shopper reports, and FAVOURITE, an online public vote. Only BEST is recorded as an award; a FAVOURITE is a vote, not a judgement. The London 2026 Breakfast BEST is Hide."
     },
     "factlondon.com": {
       "tier": "B",
@@ -654,6 +671,10 @@
     "youtube.com/@HarrisonWebb97": {
       "tier": "D",
       "name": "Harrison Webb (YouTube)"
+    },
+    "youtube.com/@Grackle": {
+      "tier": "D",
+      "name": "Grackle (YouTube)"
     },
     "youtube.com/@harrykersh": {
       "tier": "D",
@@ -1313,6 +1334,23 @@
     "youtube.com/@HannahRicketts": {
       "name": "Hannah Ricketts (YouTube)",
       "tier": "D"
+    },
+    "youtube.com/@SingaporeCityWalks": {
+      "name": "Singapore City Walks (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@settime2588": {
+      "name": "settime2588 (YouTube)",
+      "tier": "D"
+    },
+    "youtube.com/@StreetFoodScout": {
+      "name": "Street Food Scout (YouTube)",
+      "tier": "D"
+    },
+    "kerstinrodgers.substack.com": {
+      "name": "Kerstin Rodgers (Kerstin's Newsletter)",
+      "tier": "C",
+      "note": "Independent newsletter of the London food writer and supper-club host Kerstin Rodgers (MsMarmiteLover)."
     },
     "youtube.com/@LatifsInspired": {
       "name": "Latifs Inspired (YouTube)",
@@ -2598,6 +2636,184 @@
       "tier": "C",
       "name": "Her Journal (Medium)"
     },
+    "theweek.com": {
+      "tier": "B",
+      "name": "The Week"
+    },
+    "vogue.com": {
+      "tier": "B",
+      "name": "Vogue"
+    },
+    "youtube.com/@jojoandandy": {
+      "tier": "D",
+      "name": "Jojo & Andy (YouTube)"
+    },
+    "youtube.com/@ExplorewithChrissy": {
+      "tier": "D",
+      "name": "Explore with Chrissy (YouTube)"
+    },
+    "youtube.com/@TokyoFoodieSarah": {
+      "tier": "D",
+      "name": "Tokyo Foodie Sarah (YouTube)",
+      "note": "Japanese tour guide and businesswoman based in Tokyo; the chain-sushi voice on the sushi topic."
+    },
+    "youtube.com/@kyoka_uk": {
+      "tier": "D",
+      "name": "Kyoka (YouTube)",
+      "note": "Japanese-language channel from a Japanese creator living in the UK."
+    },
+    "youtube.com/@mook_vlog": {
+      "tier": "D",
+      "name": "mook vlog (YouTube)",
+      "note": "Japanese-language London vlog."
+    },
+    "youtube.com/@Sushi.DimSum": {
+      "tier": "D",
+      "name": "Sushi.DimSum (YouTube)",
+      "note": "Small specialist channel reviewing Japanese and Chinese restaurants."
+    },
+    "youtube.com/@InsideKitchen_LDN": {
+      "tier": "F",
+      "name": "Inside Kitchen London (YouTube)",
+      "note": "Behind-the-scenes filming written from the restaurants' side. DECLINED on sushi."
+    },
+    "greatbritishpubawards.co.uk": {
+      "tier": "A",
+      "name": "Great British Pub Awards",
+      "note": "Morning Advertiser's annual judged awards. National: scope to London finalists before counting (trap 12). Best Pub to Watch Sport category used for sports-bars."
+    },
+    "talkchelsea.net": {
+      "tier": "C",
+      "name": "Talk Chelsea",
+      "note": "Chelsea fan site."
+    },
+    "londonopia.co.uk": {
+      "tier": "C",
+      "name": "Londonopia"
+    },
+    "londoncelticpunks.wordpress.com": {
+      "tier": "C",
+      "name": "London Celtic Punks",
+      "note": "Celtic supporters' web-zine; keeps a list of Celtic pubs and CSCs in London."
+    },
+    "accidentaltravelwriter.com": {
+      "tier": "C",
+      "name": "Accidental Travel Writer",
+      "note": "Michael Taylor's travel blog."
+    },
+    "youtube.com/@HannahandMartinOnTheGlobe": {
+      "tier": "D",
+      "name": "Hannah and Martin On The Globe"
+    },
+    "youtube.com/@buddywoodstudios": {
+      "tier": "D",
+      "name": "BUDDYWOOD"
+    },
+    "youtube.com/@axlandsean": {
+      "tier": "D",
+      "name": "Axl and Sean"
+    },
+    "tiktok.com/@historicpubcrawls": {
+      "tier": "D",
+      "name": "Historic Pub Crawls",
+      "note": "Author of the Historic Pub Crawls books."
+    },
+    "travelandsqueak.com": {
+      "tier": "C",
+      "name": "Travel and Squeak"
+    },
+    "londondreaming.com": {
+      "tier": "C",
+      "name": "London Dreaming"
+    },
+    "withinlondon.com": {
+      "tier": "C",
+      "name": "Within London"
+    },
+    "tripsavvy.com": {
+      "tier": "B",
+      "name": "TripSavvy"
+    },
+    "followmeaway.com": {
+      "tier": "C",
+      "name": "Follow Me Away"
+    },
+    "tripswithrosie.com": {
+      "tier": "C",
+      "name": "Trips with Rosie"
+    },
+    "theflashpacker.net": {
+      "tier": "C",
+      "name": "The Flashpacker"
+    },
+    "wheregoesrose.com": {
+      "tier": "C",
+      "name": "Where Goes Rose"
+    },
+    "escapecents.com": {
+      "tier": "C",
+      "name": "Escape Cents"
+    },
+    "delveintoeurope.com": {
+      "tier": "C",
+      "name": "Delve Into Europe"
+    },
+    "girlgoneabroad.com": {
+      "tier": "C",
+      "name": "Girl Gone Abroad"
+    },
+    "pennaspillo.it": {
+      "tier": "C",
+      "name": "Alessandra in London"
+    },
+    "ldnfashion.com": {
+      "tier": "B",
+      "name": "LDN Fashion"
+    },
+    "youtube.com/@SuitcaseMonkey": {
+      "tier": "D",
+      "name": "Suitcase Monkey (YouTube)"
+    },
+    "youtube.com/@AlpGalipcy": {
+      "tier": "D",
+      "name": "Alp Galip Travels (YouTube)"
+    },
+    "theluxuryeditor.com": {
+      "tier": "C",
+      "name": "The Luxury Editor"
+    },
+    "luxurylifestylemag.co.uk": {
+      "tier": "C",
+      "name": "Luxury Lifestyle Magazine"
+    },
+    "spearswms.com": {
+      "tier": "B",
+      "name": "Spear’s"
+    },
+    "elitetraveler.com": {
+      "tier": "C",
+      "name": "Elite Traveler"
+    },
+    "themanual.com": {
+      "tier": "B",
+      "name": "The Manual"
+    },
+    "express.co.uk": {
+      "tier": "C",
+      "name": "Daily Express"
+    },
+    "squaremile.com": {
+      "tier": "C",
+      "name": "Square Mile"
+    },
+    "essentialsurrey.co.uk": {
+      "tier": "C",
+      "name": "Essential Surrey"
+    },
+    "youtube.com/@uaeats": {
+      "tier": "D",
+      "name": "UA Eats (YouTube)"
+    },
     "britishstreetfood.co.uk": {
       "tier": "A",
       "name": "British Street Food Awards",
@@ -2648,6 +2864,18 @@
     "dinewithjp.com": "Emoji-headed SEO template on a Marbella/Dubai luxury site (speakeasy, 8 Oct 2026).",
     "hirespace.com": "Venue-hire platform (speakeasy, 8 Oct 2026).",
     "youtube.com/@tripinn1975": "Compilation channel: one 'hidden speakeasy' template across Las Vegas, Tokyo, New York, London (speakeasy, 8 Oct 2026).",
-    "youtube.com/@trip_train_": "Trip.com's own channel selling tickets (speakeasy, 8 Oct 2026)."
+    "youtube.com/@trip_train_": "Trip.com's own channel selling tickets (speakeasy, 8 Oct 2026).",
+    "londonfootballclubs.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "thelateedition.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "worlddartshub.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "bestsportsbars.net": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "sportspasslondon.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "sportsyard.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "discusssports.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "roamrecs.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "watchpartyradar.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "fanzo.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "sportsbarwatch.com": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page.",
+    "foamfinders.co.uk": "sports-bars, 5 Nov 2026: directory of every pub with a TV subscription, or an unbylined SEO page."
   }
 }

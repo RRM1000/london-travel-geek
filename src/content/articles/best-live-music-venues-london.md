@@ -85,13 +85,13 @@ London's music rooms are mostly buildings that were something else first — a r
 
 ### O2 Academy Brixton
 
-![O2 Academy Brixton in London](../../assets/articles/best-live-music-venues-london/o2-academy-brixton.jpg)
-
-*O2 Academy Brixton.*
-
 *around 5,000 · Brixton*
 
 **The floor slopes down towards the stage**, so everyone can see, and the back is as good as the front. A **Grade II\* listed art deco former cinema.**
+
+![A band on stage under a proscenium arch at O2 Academy Brixton, with confetti falling over a packed floor](../../assets/articles/best-live-music-venues-london/o2-academy-brixton.jpg)
+
+*O2 Academy Brixton.*
 
 The venue lost its licence after a fatal crush at a show in December 2022 in which two people died. Lambeth ruled in September 2023 that it could reopen once **77 new safety conditions** were met, including reinforced doors, a rebuilt crowd management system and new ticketing. It ran test events at half capacity in April 2024, has been trading normally since, and is booking well into 2027.
 
@@ -99,13 +99,13 @@ The venue lost its licence after a fatal crush at a show in December 2022 in whi
 
 ### The O2, Greenwich
 
-![The O2 in London](../../assets/articles/best-live-music-venues-london/the-o2.jpg)
-
-*The O2.*
-
 *20,000 · North Greenwich*
 
 An arena inside the old Millennium Dome. The sound is competent rather than special, the upper tiers are a long way from the stage, and the seated blocks at the very back are worth avoiding if the tour matters to you. It is where you see the acts that cannot play anywhere smaller.
+
+![The arena at The O2 from an upper tier, its floor filling up before a show](../../assets/articles/best-live-music-venues-london/the-o2.jpg)
+
+*The arena at The O2.*
 
 **Getting out is the part to plan.** Twenty thousand people leave at once into one Jubilee line station; wait twenty minutes in the bars rather than joining it, or walk to the Thames Clipper pier. **Up at The O2** lets you climb over the roof on a walkway, sold separately from any gig. More on getting there and away in our [O2 travel guide](/articles/the-o2-travel-guide/).
 
@@ -113,13 +113,13 @@ An arena inside the old Millennium Dome. The sound is competent rather than spec
 
 ### Eventim Apollo, Hammersmith
 
-![Eventim Apollo in London](../../assets/articles/best-live-music-venues-london/eventim-apollo.jpg)
-
-*Eventim Apollo.*
-
 *around 5,000 · Hammersmith*
 
 **A 1932 art deco cinema, Grade II\* listed**, where many bands too big for Shepherd's Bush and too small for an arena end up, alongside Brixton.
+
+![The art deco front of the Eventim Apollo lit in rainbow colours at dusk](../../assets/articles/best-live-music-venues-london/eventim-apollo.jpg)
+
+*The Eventim Apollo, Hammersmith.*
 
 The barrel-vaulted auditorium keeps most of its original Robert Cromie fittings and a Compton organ. It works **either seated or standing**, depending on the show, so check before you buy: the same act is a very different night in each. **The balcony is good here.** Hammersmith station is directly opposite, so the exit is easier than the capacity suggests.
 
@@ -142,12 +142,8 @@ A vast oval under a glazed dome, with tiers of red and gold boxes running all th
 ### Alexandra Palace, Wood Green
 
 *up to around 10,400 · N22*
-![alexandra palace in London](../../assets/articles/best-live-music-venues-london/alexandra-palace.jpg)
-
-*alexandra palace.*
 
 **A Victorian palace of 1873 on a hill with a view over north London**, whose Great Hall takes upwards of ten thousand for a concert. It also has a theatre, an ice rink and hosts the World Darts Championship.
-*up to around 10,400 · N22*
 
 The Great Hall is largely undivided, so it behaves more like a festival tent than a concert hall: the sound at the back is noticeably worse than the front and there is no raked floor, which makes height an advantage. The restored **Alexandra Palace Theatre** next door, about 1,300 seats, is a better room for anything acoustic.
 
@@ -157,13 +153,13 @@ The Great Hall is largely undivided, so it behaves more like a festival tent tha
 
 ### Barbican Hall, City of London
 
-![Barbican Centre in London](../../assets/articles/best-live-music-venues-london/barbican-hall.jpg)
-
-*Barbican Centre.*
-
 *1,900 · Barbican*
 
 **Home of the London Symphony Orchestra**, a 1,900-seat room at the centre of the Barbican's brutalist estate.
+
+![The Barbican lakeside terrace, with tables and the brutalist estate around it](../../assets/articles/best-live-music-venues-london/barbican-hall.jpg)
+
+*The Barbican terrace, outside the hall.*
 
 Classical, jazz, contemporary composition, film scores played live and touring international artists share the same season, so the audience changes week to week. Sightlines are good from almost everywhere because the hall is wide and shallow. The full programme, the booking fee and where to eat nearby are in [what's on at the Barbican](/articles/barbican-centre-guide/).
 
@@ -173,13 +169,13 @@ Classical, jazz, contemporary composition, film scores played live and touring i
 
 ### British Airways ARC, Olympia
 
-![British Airways ARC in London](../../assets/articles/best-live-music-venues-london/british-airways-arc.jpg)
-
-*British Airways ARC.*
-
 *3,800 · Kensington (Olympia)*
 
 Opened on **16 June 2026** above the west exhibition hall at Olympia and run by AEG Presents. Self Esteem played the opening two nights.
+
+![The curved stone entrance of British Airways ARC under a Welcome to British Airways ARC sign](../../assets/articles/best-live-music-venues-london/british-airways-arc.jpg)
+
+*The entrance to British Airways ARC.*
 
 At 3,800 it sits **between the Apollo and Brixton at one end and the arenas at the other**. Olympia's redevelopment also brought a rooftop canopy of bars and restaurants, a food hall and two hotels within weeks of it, and a theatre follows in 2027. **Kensington (Olympia) station is at the door**, though its off-peak service is thin for a venue this size, so check your route home before the encore.
 
@@ -208,23 +204,20 @@ It is a charity, and a large share of what it makes goes into studios, rehearsal
 ### KOKO, Camden Town
 
 *around 1,400 · Mornington Crescent*
-![KOKO in London](../../assets/articles/best-live-music-venues-london/koko.jpg)
 
 **A Victorian theatre of 1900 with three tiers of horseshoe balconies.** It has been the Camden Palace, the Music Machine and a BBC theatre; Charlie Chaplin, the Goons and Madonna's first UK show all happened here.
-*KOKO.*
+
+![A render of KOKO after its rebuild, with a copper dome and red awnings on the corner](../../assets/articles/best-live-music-venues-london/koko.jpg)
+
+*An architect's render of the rebuilt KOKO.*
 
 A fire tore through the roof during restoration in 2020. It reopened in 2022 after a rebuild that added a tower, a recording studio and several members' floors above the auditorium, but **the main room came back intact**, gold leaf and all.
-*around 1,400 · Mornington Crescent*
 
 **Get on a balcony if you can.** The floor is small and fills fast, and the view down onto the stage from the second tier is the draw.
 
 <div data-venue-listings="KOKO" data-compact></div>
 
 ### The 100 Club, Oxford Street
-
-![100 Club in London](../../assets/articles/best-live-music-venues-london/the-100-club.jpg)
-
-*100 Club.*
 
 *around 350 · since 1942*
 
@@ -239,12 +232,12 @@ The stage is at floor level with pillars in the way.
 ### Union Chapel, Islington
 
 *around 900 · Grade I listed*
-![Union Chapel in London](../../assets/articles/best-live-music-venues-london/union-chapel.jpg)
 
 A **working Congregational church**, built 1874–77, that runs around 250 gigs a year between Sunday services.
-*Union Chapel.*
 
-*around 900 · Grade I listed*
+![Union Chapel interior with wooden pews, stained glass and a rose window](../../assets/articles/best-live-music-venues-london/union-chapel.jpg)
+
+*Inside Union Chapel.*
 
 **The seating is unreserved**, first-come-first-served on the original wooden pews, so arrive early and expect a queue. **There is a bar** on the first floor, but alcohol has to stay in the bar area and cannot come into the chapel; soft drinks and snacks can. The building runs the **Margins Project**, a homelessness charity with a twice-weekly drop-in, showers, laundry and a winter night shelter, funded partly by the gigs.
 
@@ -254,13 +247,13 @@ It is fully accessible by ramp, with a platform lift up to the bar, and it house
 
 ### Village Underground, Shoreditch
 
-![Village Underground in London](../../assets/articles/best-live-music-venues-london/village-underground.jpg)
-
-*Village Underground.*
-
 *around 700 · Shoreditch High Street*
 
 **A Victorian warehouse with four disused Jubilee line tube carriages on the roof**, converted into artists' studios.
+
+![Graffiti-painted Tube carriages on the roof of Village Underground above a lettered brick wall](../../assets/articles/best-live-music-venues-london/village-underground.jpg)
+
+*The Tube carriages on the roof of Village Underground.*
 
 The main space below is a brick-and-steel hall with a high ceiling, hosting electronic bookings, club nights and touring bands. There are no seats and no sightline problems because the floor is flat and the stage is high. **The rooftop has opened to the public.** Shoreditch High Street station is three minutes away.
 
@@ -268,13 +261,13 @@ The main space below is a brick-and-steel hall with a high ceiling, hosting elec
 
 ### EartH, Dalston
 
-![EartH (Evolutionary Arts Hackney) in London](../../assets/articles/best-live-music-venues-london/earth.jpg)
-
-*EartH (Evolutionary Arts Hackney).*
-
 *1,200 standing · 680 seated · Dalston Kingsland*
 
 **The former Savoy art deco cinema of 1937**, shut for decades and reopened in 2018 as two venues in one building (the name stands for Evolutionary Arts Hackney).
+
+![The EartH Theatre auditorium, its art deco ceiling over a full house and a stage lit blue](../../assets/articles/best-live-music-venues-london/earth.jpg)
+
+*EartH Theatre.*
 
 **EartH Hall** is a stripped-back standing space downstairs for touring bands and club bookings. **EartH Theatre** upstairs is the original tiered auditorium with **680 seats and the decay deliberately left visible**: peeling plaster, exposed brick, a half-ruined proscenium. It hosts seated shows, film and spoken word as well as music.
 
@@ -284,13 +277,13 @@ The main space below is a brick-and-steel hall with a high ceiling, hosting elec
 
 ### MOTH Club, Hackney
 
-![MOTH Club in London](../../assets/articles/best-live-music-venues-london/moth-club.jpg)
-
-*MOTH Club.*
-
 *around 200*
 
 **A Memorable Order of Tin Hats veterans' club with a gold-tinsel stage curtain**, still run as a members' social club during the day, with bingo and cheap pints, before it becomes a music room at night.
+
+![A band setting up in front of the gold tinsel curtain at MOTH Club, under a gold glitter ceiling](../../assets/articles/best-live-music-venues-london/moth-club.jpg)
+
+*The stage at MOTH Club.*
 
 The room takes about 200, the ceiling is low, and the bookings run from guitar bands on the way up to established acts playing deliberately small. Bar prices are closer to a social club than a venue.
 
@@ -311,13 +304,14 @@ Most of these serve food at the table during the set; [Dinner and a Show in Lond
 ### Blue Note, Covent Garden
 
 *Open since 23 September 2026*
-![Blue Note London in London](../../assets/articles/best-live-music-venues-london/blue-note.jpg)
 
 The New York club's **first UK venue**, in the basement beneath the St Martins Lane hotel. It opened on 23 September 2026, what would have been **John Coltrane's 100th birthday**. A **300-seat main room runs two sets a night at 7pm and 9.30pm** with food served at the tables, and a second 130-seat room called **B-Side** hosts late sets and emerging artists.
-*Blue Note London.*
+
+![A performer in silhouette in front of the Blue Note London sign](../../assets/articles/best-live-music-venues-london/blue-note.jpg)
+
+*On stage at Blue Note London.*
 
 **Robert Glasper** played the sold-out opening sets, with Erykah Badu, Jamie Cullum, Nubya Garcia, Yussef Dayes, KOKOROKO and Hak Baker announced behind him.
-*Opened 23 September 2026*
 
 The address is **42–49 St Martin's Lane, WC2N 4EJ**. Book on [Ticketmaster](https://www.ticketmaster.co.uk/blue-note-london-tickets-london/venue/289099), which issues the club's tickets.
 
@@ -325,13 +319,13 @@ The address is **42–49 St Martin's Lane, WC2N 4EJ**. Book on [Ticketmaster](ht
 
 ### Ronnie Scott's, Soho
 
-![Ronnie Scott's in London](../../assets/articles/best-live-music-venues-london/ronnie-scotts.jpg)
-
-*Ronnie Scott's.*
-
 *since 1959 · 47 Frith Street*
 
 Ronnie Scott and Pete King opened the club on **30 October 1959** in a basement at **39 Gerrard Street**. The Frith Street room is the second one, taken over in **1965**.
+
+![The black frontage of Ronnie Scott's on Frith Street with its neon saxophone sign](../../assets/articles/best-live-music-venues-london/ronnie-scotts.jpg)
+
+*Ronnie Scott's on Frith Street.*
 
 Miles Davis, Nina Simone, Ella Fitzgerald, Chet Baker, Jimi Hendrix, Prince and Amy Winehouse have all played it. **Depeche Mode played their first gig under that name here**, in October 1980.
 
@@ -346,13 +340,13 @@ Miles Davis, Nina Simone, Ella Fitzgerald, Chet Baker, Jimi Hendrix, Prince and 
 
 ### Upstairs at Ronnie's, Soho
 
-![Upstairs at Ronnie's in London](../../assets/articles/best-live-music-venues-london/upstairs-at-ronnies.jpg)
-
-*Upstairs at Ronnie's.*
-
 *140 capacity · reopened after a rebuild*
 
 A **140-capacity room above the main club**, rebuilt with purpose-built acoustics, a Yamaha S3X grand and its own kitchen. It runs two shows a night, late shows Thursday to Saturday, a vocal jazz jam on Wednesdays and Sunday afternoon shows, and ranges wider than jazz into soul, R&B, gospel, hip hop and classical.
+
+![A jazz quartet playing in the red upstairs bar at Ronnie Scott's](../../assets/articles/best-live-music-venues-london/upstairs-at-ronnies.jpg)
+
+*A band upstairs at Ronnie's.*
 
 Tickets run around **£20–£30**, roughly half the main room.
 
@@ -362,13 +356,13 @@ Tickets run around **£20–£30**, roughly half the main room.
 
 ### The 606 Club, Chelsea
 
-![606 Club in London](../../assets/articles/best-live-music-venues-london/the-606-club.jpg)
-
-*606 Club.*
-
 *90 Lots Road, SW10 0QD · two sets a night*
 
 A basement on Lots Road. **Non-members are welcome**; the club says so on every page of its own site.
+
+![The 606 Club stage, a grand piano, double bass and drums in front of a blue curtain](../../assets/articles/best-live-music-venues-london/the-606-club.jpg)
+
+*The stage at the 606 Club.*
 
 It charges a **music charge per person** rather than a ticket price: **£18** Monday to Thursday and Sunday evening, **£23** Friday and Saturday, and **£16** for Sunday lunch. Two sets a night in every case, doors from 6.30pm on weeknights and 7pm at weekends, with music from 8pm or 9pm.
 
@@ -392,13 +386,13 @@ The room is small and rectangular with **a balcony you can book a table on and e
 
 ### The Bull's Head, Barnes
 
-![Bull's Head in London](../../assets/articles/best-live-music-venues-london/the-bulls-head.jpg)
-
-*Bull's Head.*
-
 *since 1959 · 373 Lonsdale Road, SW13 9PY*
 
 A jazz venue since 1959, the same year Ronnie Scott's opened. It is a **Young's pub on the Thames** that programmes live music **every week** in a dedicated **Jazz Room** behind the bar.
+
+![A long table laid in a room at the Bull's Head, with the Thames and a bridge through the windows](../../assets/articles/best-live-music-venues-london/the-bulls-head.jpg)
+
+*A room at the Bull's Head, on the Thames.*
 
 Five minutes from Barnes Bridge, and the one room on this list where the gig and a Sunday lunch are the same outing.
 
@@ -424,13 +418,13 @@ There are no tickets: **a cover charge goes on your bill and is paid straight to
 
 ### Cafe OTO, Dalston
 
-![Cafe OTO in London](../../assets/articles/best-live-music-venues-london/cafe-oto.jpg)
-
-*Cafe OTO.*
-
 *around 150*
 
 **Time Out's own pick as London's most consistently committed live venue**: free jazz, noise, improvisation and experimental music, most nights of the week, in a room of about 150.
+
+![A mixing desk and electronic instruments set up at Cafe OTO](../../assets/articles/best-live-music-venues-london/cafe-oto.jpg)
+
+*The mixing desk at Cafe OTO.*
 
 It is a café and bar by day; the chairs come out for the evening, and the audience is expected to listen rather than talk over the set. Musicians from around the world play here, often for two nights running with different material.
 
@@ -441,13 +435,14 @@ It is a café and bar by day; the chairs come out for the evening, and the audie
 ### Shacklewell Arms, Dalston
 
 *around 200 · Dalston Kingsland*
-![The Shacklewell Arms in London](../../assets/articles/best-live-music-venues-london/shacklewell-arms.jpg)
 
 **A back room behind an ordinary Dalston pub**, ranked among Time Out's UK top venues.
+
+![The corner front of the Shacklewell Arms with its hanging pub sign and a gig board outside](../../assets/articles/best-live-music-venues-london/shacklewell-arms.jpg)
+
 *The Shacklewell Arms.*
 
 It has a low ceiling, no raised stage to speak of, and a capacity that keeps you within a few metres of whoever is playing. The front is a working pub with a decent beer list, so you can arrive early without committing to the gig.
-*around 200 · Dalston Kingsland*
 
 **Tickets are usually under £15** and often sell out by word of mouth. Free entry on some club nights after the band.
 
@@ -463,37 +458,37 @@ It has live music most days of the week, and **Jazz Sundays** over dinner, with 
 
 ### Notting Hill Arts Club, Notting Hill
 
-![Notting Hill Arts Club in London](../../assets/articles/best-live-music-venues-london/notting-hill-arts-club.jpg)
-
-*Notting Hill Arts Club.*
-
 *around 200 · Notting Hill Gate*
 
 **A basement that has run new music and club nights since 1993.** It is a low, dark room under Notting Hill Gate; Adele, Franz Ferdinand and the Libertines all played here early. The programme mixes new bands with long-running club nights, and leans towards DJ nights later in the week.
+
+![Hands raised in front of a smoky stage at Notting Hill Arts Club](../../assets/articles/best-live-music-venues-london/notting-hill-arts-club.jpg)
+
+*A gig at Notting Hill Arts Club.*
 
 **Early doors and cheap**: many shows start at 7pm and finish by 11pm, which suits a weeknight.
 
 ### Below Stone Nest, Soho
 
-![Below Stone Nest in London](../../assets/articles/best-live-music-venues-london/below-stone-nest.jpg)
-
-*Below Stone Nest.*
-
 *around 250 · Tottenham Court Road*
 
 **A basement underneath a former Welsh Presbyterian chapel on Shaftesbury Avenue.** The chapel above, Stone Nest, is a Grade II\* listed 1888 building left deliberately unrestored. Below it, the venue takes about 250 for electronic, experimental and club bookings, with a low arched ceiling.
+
+![A grand piano and music stands set up among brick arches and columns in the Stone Nest chapel](../../assets/articles/best-live-music-venues-london/below-stone-nest.jpg)
+
+*The Stone Nest chapel, above the basement venue.*
 
 It is ninety seconds from Tottenham Court Road.
 
 ### Stereo, Covent Garden
 
-![STEREO Covent Garden in London](../../assets/articles/best-live-music-venues-london/stereo.jpg)
-
-*STEREO Covent Garden.*
-
 *Covent Garden Piazza*
 
 **Live music, cocktails and dining on the Piazza**, useful when half your party wants a gig and the other half wants dinner.
+
+![The bar at Stereo, rows of bottles under a mirrored ceiling hung with globe lights](../../assets/articles/best-live-music-venues-london/stereo.jpg)
+
+*The bar at Stereo.*
 
 The bookings lean soul, funk and covers, and the room is a restaurant that hosts music rather than a venue that serves food: you can eat a full meal, sit down, and still hear a band, two minutes from the Tube. **Book a table rather than turning up**, particularly at weekends.
 
@@ -523,7 +518,7 @@ The bookings lean soul, funk and covers, and the room is a restaurant that hosts
 * **Union Chapel seating is unreserved.** Original wooden pews, first come first served, so arrive early. It is a Victorian church, so dress for the temperature.
 * **The grassroots circuit is under pressure.** Thirty UK venues closed permanently between mid-2024 and mid-2025, more than half made no profit, and around 200 are on the Music Venue Trust's red alert list.
 * **The late set at Ronnie Scott's costs £12** against £40–£65 for a main show, in the same room.
-* **Jazz in London is rarely free.** The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. Free jazz is in pubs and at lunchtime recitals, not in the clubs. **November is the exception**: the [EFG London Jazz Festival](/articles/london-jazz-festival/) runs 13–22 November 2026 and includes free and family events.
+* **Jazz in London is rarely free.** The 606 charges a music charge, the Vortex charges £15–£25, and Ronnie's late show is £12. Free jazz is in pubs and at lunchtime recitals, not in the clubs. The [EFG London Jazz Festival](/articles/london-jazz-festival/) each November includes free and family events.
 * **Cafe OTO and MOTH Club** rarely sell out weeks ahead, so you can decide on the day.
 * **Night Tube runs Friday and Saturday** on the Victoria line for Brixton and the Northern for Camden.
 

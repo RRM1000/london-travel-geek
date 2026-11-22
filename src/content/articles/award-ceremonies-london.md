@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:British_Academy_Film_A
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/3.0/"
 publishedAt: 2026-10-03
-updatedAt: 2026-10-31
-reviewBy: 2026-11-10
+updatedAt: 2026-11-21
+reviewBy: 2026-12-01
 sites:
   - london
 canonicalSite: london
@@ -32,7 +32,7 @@ faq:
   - q: "How do I get into a red carpet event in London for free?"
     a: "Applause Store, a free audience-ticket agency, issues free fan-pen places for the BAFTA Film and Television Awards, the Olivier Awards and some film premieres. Places are limited and allocated, entry is not guaranteed, and anyone selling a place has it voided."
   - q: "Can anyone get tickets to the Royal Variety Performance?"
-    a: "Yes, on general sale, but it sells out. The 2026 show is on Friday 20 November at the Royal Albert Hall, and tickets are sold out. Prices started at £75. Join the Royal Variety Charity's mailing list for advance notice of the next sale."
+    a: "Yes, on general sale, but it sells out. Tickets go on sale once a year through the Royal Variety Charity: the 2026 sale opened on 27 February, and the show on Friday 20 November at the Royal Albert Hall sold out. Prices started at £75. Join the Royal Variety Charity's mailing list for advance notice of the next sale."
   - q: "Can the public go to the Festival of Remembrance?"
     a: "Through a ballot for Royal British Legion members, who can buy a maximum of two tickets. The Legion says tickets go on sale to the general public later in the year only if members do not use up the ballot."
   - q: "How much do award ceremony tickets cost in London?"
@@ -41,7 +41,7 @@ faq:
 
 Most London award nights are invitation, industry or trade events, and the public watches the broadcast. A handful open the doors in four ways: **tickets on public sale**, **free fan pens outside the venue**, **a members' ballot**, and **standing on the street**. This guide gives each event's way in, its price at face value, and the one thing that stops a booking.
 
-> 💡 **The Short Version:** Tickets are on public sale for the **National Television Awards** (from £25), the **Fashion Awards** (from £30), the **WhatsOnStage Awards** and the **UK Music Video Awards** (£250 plus VAT). The **Royal Variety Performance** sells to anyone, once a year, and the 2026 show is sold out. The **BAFTAs** and the **Olivier Awards** give out **free fan-pen places outside the venue**, through Applause Store, and not the ceremony itself. The **Festival of Remembrance** is a **Royal British Legion members' ballot**. The **BRIT Awards, MOBO Awards and Mercury Prize** have **left London**.
+> 💡 **The Short Version:** Tickets are on public sale for the **National Television Awards** (from £25), the **Fashion Awards** (from £30), the **WhatsOnStage Awards** and the **UK Music Video Awards** (£250 plus VAT in 2026). The **Royal Variety Performance** sells to anyone, once a year; the 2026 show on 20 November sold out. The **BAFTAs** and the **Olivier Awards** give out **free fan-pen places outside the venue**, through Applause Store, and not the ceremony itself. The **Festival of Remembrance** is a **Royal British Legion members' ballot**. The **BRIT Awards, MOBO Awards and Mercury Prize** have **left London**.
 
 *Prices are face value, before the booking fees each seller adds. Dates are for the editions named.*
 
@@ -49,16 +49,11 @@ Most London award nights are invitation, industry or trade events, and the publi
 
 ## Every event and how to get in
 
-These are the events with a route for the public, in calendar order from November 2026. Two have their own page: the [National Television Awards](/articles/national-television-awards-tickets/) and the [Olivier Awards](/articles/olivier-awards-tickets/). The [BAFTA red carpet](/articles/bafta-red-carpet/), [film premieres](/articles/film-premieres-london/) and the [Last Night of the Proms](/articles/last-night-of-the-proms-tickets/) do too.
+These are the events with a route for the public, in calendar order from late November 2026. Two have their own page: the [National Television Awards](/articles/national-television-awards-tickets/) and the [Olivier Awards](/articles/olivier-awards-tickets/). The [BAFTA red carpet](/articles/bafta-red-carpet/), [film premieres](/articles/film-premieres-london/) and the [Last Night of the Proms](/articles/last-night-of-the-proms-tickets/) do too.
 
 | Event | Month | Venue | Way in | Price | When to book, and restrictions |
 | --- | --- | --- | --- | --- | --- |
 | [Film premieres](/articles/film-premieres-london/) | Through the year | Leicester Square cinemas and others | Free fan-pen places through Applause Store | Free. Resellers quote £1,999 to £4,000 for a place, and are not an official route | Photo ID for every guest at most premieres. Places are over-allocated |
-| UK Music Video Awards | Wed 4 Nov 2026 | Roundhouse, Chalk Farm | Tickets on public sale at [ukmva.com](https://www.ukmva.com/tickets) | £250 plus VAT a seat; tables of 10 £2,500, of 12 £3,000 | Includes supper and the afterparty. Doors 6.30pm, show 8pm |
-| Booker Prize | Sun 8 and Mon 9 Nov 2026 | Queen Elizabeth Hall (readings); Old Billingsgate (ceremony) | Tickets for the shortlist readings through the Southbank Centre; the ceremony is private and livestreamed on YouTube | Livestream free; watch party at London Review Bookshop £7 | Readings 7.30pm on Sunday 8 November. The winner is announced on Monday 9 November, livestreamed from 9.45pm. The bookshop watch party runs 7.30pm to 10.30pm |
-| Festival of Remembrance | Nov | Royal Albert Hall | Royal British Legion members' ballot | – | Members only, maximum two tickets. Tickets go to the public only if members do not use the ballot |
-| Lord Mayor's Show | Sat 14 Nov 2026 | City of London, from Mansion House | Stand on the route | Free; programme £5, cash only | Sets off at 11am. Almost the whole City is closed to traffic |
-| Royal Variety Performance | Fri 20 Nov 2026 | Royal Albert Hall | Public sale, through the charity's store only | From £75; with aftershow party from £310 | Show sold out; a few aftershow party tickets remain. Photo ID matched to the buyer, black tie, seated by 7pm |
 | Fashion Awards | Mon 30 Nov 2026 | Royal Albert Hall | General admission on [Ticketmaster](https://www.ticketmaster.co.uk/the-fashion-awards-2026-london-30-11-2026/event/1F00647AABAF5B9F) | From £30 | Red-carpet access comes only with a hospitality package, by email |
 | [EE BAFTA Film Awards](/articles/bafta-red-carpet/) | Feb 2027 | Royal Festival Hall in 2026 | Free fan-pen places by application through Applause Store | Free | Fan pens only, not the ceremony. Age 12 and over, under 18s with an adult |
 | WhatsOnStage Awards | Sun 28 Feb 2027, 6.30pm | London Palladium | Tickets on public sale through LW Theatres | Seats priced on the LW Theatres page; Headliner Lounge £80 a person | Under 4s not admitted; 15 and under need an adult |
@@ -68,6 +63,11 @@ These are the events with a route for the public, in calendar order from Novembe
 | [National Television Awards](/articles/national-television-awards-tickets/) | Wed 8 Sep 2027 | The O2 | Tickets on public sale through AXS and [Ticketmaster](https://www.ticketmaster.co.uk/national-television-awards-2027-london-08-09-2027/event/35006521445D08BE) | £25 to £105; red-carpet packages £150 and £270 | Every price carries a booking fee and a venue facility fee |
 | Royal Film Performance | Sep (2026: Tue 22 Sep) | Central London | Tickets through Eventbrite | From £150 plus fees (2026) | Black tie, no photography inside, all sales final |
 | [TV and radio studio audiences](/articles/free-tv-show-tickets-london/) | Through the year | Studios across London | Free tickets from audience agencies | Free | Over-issued on purpose, so a ticket is not a seat |
+| UK Music Video Awards | Nov 2027 (2026: Wed 4 Nov) | Roundhouse, Chalk Farm in 2026 | Tickets on public sale at [ukmva.com](https://www.ukmva.com/tickets) | £250 plus VAT a seat in 2026; tables of 10 £2,500, of 12 £3,000 | Includes supper and the afterparty |
+| Booker Prize | Nov 2027 (2026: Sun 8 and Mon 9 Nov) | Queen Elizabeth Hall (readings) and Old Billingsgate (ceremony) in 2026 | Tickets for the shortlist readings through the Southbank Centre; the ceremony is private and livestreamed on YouTube | Livestream free | The 2026 winner was announced on Monday 9 November |
+| Festival of Remembrance | Nov | Royal Albert Hall | Royal British Legion members' ballot | – | Members only, maximum two tickets. Tickets go to the public only if members do not use the ballot |
+| Lord Mayor's Show | Second Saturday in Nov (2026: Sat 14 Nov) | City of London, from Mansion House | Stand on the route | Free; programme £5, cash only in 2026 | Set off at 11am in 2026. Almost the whole City is closed to traffic |
+| Royal Variety Performance | Nov 2027 (2026: Fri 20 Nov) | Royal Albert Hall in 2026 | Public sale once a year, through the charity's store only | From £75 in 2026; with aftershow party from £310 | The 2026 show sold out. Photo ID matched to the buyer, black tie, seated by 7pm |
 
 ---
 
@@ -79,12 +79,13 @@ These are the events with a route for the public, in calendar order from Novembe
 
 Dates are the next confirmed ones. Where the 2027 date is not out, the 2026 date is shown as a guide.
 
-- **November 2026:** the UK Music Video Awards are on Wednesday 4 November. The Booker shortlist readings are on Sunday 8 November and the winner is announced on Monday 9 November. The Lord Mayor's Show is on Saturday 14 November. The Royal Variety Performance is on Friday 20 November. The Fashion Awards are on Monday 30 November. The Festival of Remembrance is in November.
+- **November 2026:** the Fashion Awards are on Monday 30 November.
 - **February 2027:** the BAFTA Film Awards, with a register-interest page for the 2027 fan pens on Applause Store (in 2026 applications closed on 8 February for the ceremony on 22 February). The BRITs are in Manchester on Saturday 27 February. The WhatsOnStage Awards are at the Palladium on Sunday 28 February.
 - **April 2027:** the Olivier Awards. The 2026 ceremony was on Sunday 12 April.
 - **May 2027:** the BAFTA Television Awards (2026: Sunday 10 May). The Ivor Novello Awards are on Thursday 20 May, an industry event. The Last Night of the Proms ballot opened on 16 May in 2026 and the Festival of Remembrance ballot on 27 May.
 - **June to August 2027:** in 2026 the Last Night of the Proms open ballot closed on 9 July, and the Festival of Remembrance draws were on 8 and 9 July.
 - **September 2027:** the National Television Awards are on 8 September. The Last Night of the Proms was on Saturday 12 September in 2026. The Royal Film Performance was on Tuesday 22 September in 2026.
+- **November 2027:** the Lord Mayor's Show is on the second Saturday. The Festival of Remembrance is in November. In 2026 the UK Music Video Awards were on Wednesday 4 November, the Booker winner was announced on Monday 9 November and the Royal Variety Performance was on Friday 20 November.
 
 ---
 
@@ -105,11 +106,11 @@ Several of the free ways in run through one agency, **Applause Store**, which is
 
 ## The nights that sell tickets
 
-### Royal Variety Performance
+### The Fashion Awards
 
-**Friday 20 November 2026, Royal Albert Hall.** A variety show in front of senior members of the Royal Family, filmed for broadcast over Christmas and New Year. The official aftershow party is at the Natural History Museum, behind the hall. Show tickets started at **£75**; show and aftershow packages started at £310, the party alone is £245, boxes started at £2,600 and access tickets were £325.
+**Monday 30 November 2026, Royal Albert Hall.** General admission starts at **£30** on [Ticketmaster](https://www.ticketmaster.co.uk/the-fashion-awards-2026-london-30-11-2026/event/1F00647AABAF5B9F), linked from the [Fashion Awards tickets page](https://www.fashionawards.com/tickets), and gets you into the ceremony.
 
-**Tickets go on sale once a year, through the Royal Variety Charity only.** The 2026 sale opened at 9am on Friday 27 February 2026, announced the day before, and the show is sold out; a few aftershow party tickets remain. The charity's [mailing list](https://www.royalvarietycharity.org/RVPtickets) gives advance notice of the next sale. At the door you need photo ID matched to the buyer, tickets are not transferable or resaleable, the dress code is black tie or evening dress, and doors open at 6pm with everyone seated by 7pm.
+**The red carpet comes only with hospitality.** The British Fashion Council sells red-carpet access only with its hospitality packages, which are tables, club and boxes, by email to fashionawards@britishfashioncouncil.com.
 
 ### Festival of Remembrance
 
@@ -117,11 +118,11 @@ Several of the free ways in run through one agency, **Applause Store**, which is
 
 Some sites say the afternoon performance is open to any member of the public; the Legion's own [ballot page](https://www.britishlegion.org.uk/get-involved/events/remembrance-events/festival-of-remembrance) says members. If the ballot is not used up, tickets go on sale to the general public later in the year.
 
-### The Fashion Awards
+### Royal Variety Performance
 
-**Monday 30 November 2026, Royal Albert Hall.** General admission starts at **£30** on [Ticketmaster](https://www.ticketmaster.co.uk/the-fashion-awards-2026-london-30-11-2026/event/1F00647AABAF5B9F), linked from the [Fashion Awards tickets page](https://www.fashionawards.com/tickets), and gets you into the ceremony.
+**Royal Albert Hall, November; the 2026 show was on Friday 20 November.** A variety show in front of senior members of the Royal Family, filmed for broadcast over Christmas and New Year. The official aftershow party is at the Natural History Museum, behind the hall. In 2026 show tickets started at **£75**; show and aftershow packages started at £310, the party alone was £245, boxes started at £2,600 and access tickets were £325.
 
-**The red carpet comes only with hospitality.** The British Fashion Council sells red-carpet access only with its hospitality packages, which are tables, club and boxes, by email to fashionawards@britishfashioncouncil.com.
+**Tickets go on sale once a year, through the Royal Variety Charity only.** The 2026 sale opened at 9am on Friday 27 February 2026, announced the day before, and the show sold out. The charity's [mailing list](https://www.royalvarietycharity.org/RVPtickets) gives advance notice of the next sale. At the door you need photo ID matched to the buyer, tickets are not transferable or resaleable, the dress code is black tie or evening dress, and doors open at 6pm with everyone seated by 7pm.
 
 ### WhatsOnStage Awards
 
@@ -131,7 +132,7 @@ Some sites say the afternoon performance is open to any member of the public; th
 
 ### UK Music Video Awards
 
-**Wednesday 4 November 2026, Roundhouse, Chalk Farm Road, NW1 8EH.** A seat is **£250 plus VAT**, tables of 10 are £2,500 and tables of 12 are £3,000, and each price includes the show and the afterparty. Doors and a drinks reception are at 6.30pm, supper at 7.15pm, the show at 8pm and the afterparty at 10.30pm, with bars closing at 12.30am. The dress code is "anything goes". Chalk Farm on the Northern line is the nearest Tube. Tickets are sold at [ukmva.com](https://www.ukmva.com/tickets).
+**Early November; the 2026 awards were on Wednesday 4 November at the Roundhouse, Chalk Farm Road, NW1 8EH.** In 2026 a seat was **£250 plus VAT**, tables of 10 were £2,500 and tables of 12 were £3,000, and each price included the show and the afterparty. Doors and a drinks reception were at 6.30pm, supper at 7.15pm, the show at 8pm and the afterparty at 10.30pm. The dress code was "anything goes". Chalk Farm on the Northern line is the nearest Tube. Tickets are sold at [ukmva.com](https://www.ukmva.com/tickets).
 
 ---
 

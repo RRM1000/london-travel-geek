@@ -30,7 +30,7 @@ Most London kitchens stop at 10pm, and by midnight the options narrow to a handf
 > 💡 **The Short Version:** **Duck & Waffle** is open 24 hours, forty floors up. **The Polo Bar** has traded 24 hours since 1953 and has no front door to shut. **Tayyabs** in Whitechapel serves lamb chops until 11.30pm. **Ranoush** on Edgware Road is a £10 shawarma. **Voodoo Ray's** sells pizza by the slice until 2am on Fridays and Saturdays.
 
 > 📘 **How we choose these (editorial note).**
-> No paid placements. These are drawn from the food and travel press, listings sites, independent blogs, video and what Londoners recommend, and cross-referenced. Late-night hours change often, so confirm before crossing London at 1am.
+> No paid placements. These are drawn from the food and travel press, listings sites, independent blogs, video and what Londoners recommend, and cross-referenced.
 
 ## Where they are
 

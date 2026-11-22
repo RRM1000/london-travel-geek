@@ -90,22 +90,31 @@ const heading = areaName ? `Book in ${areaName}` : "Book things to do";
       ))}
     </ul>
   ) : (
-    <p class="sidebar-book__fallback">
-      Tours, tickets and experiences across the city, with free cancellation on
-      most of them.
-    </p>
+    /* A guide with no researched activities of its own gets GetYourGuide's London
+       city widget instead of a bare link. The column stopped being pinned, so the
+       widget's full height (about 528px) now shows; it was cropped when the
+       column could only give it 350. Tagged per page like the card's links. */
+    <div
+      class="sidebar-book__widget"
+      data-gyg-href="https://widget.getyourguide.com/default/city.frame"
+      data-gyg-location-id="57"
+      data-gyg-locale-code="en-US"
+      data-gyg-widget="city"
+      data-gyg-cmp={`${articleId}-sidebar`}
+      data-gyg-partner-id={GYG_PARTNER_ID}
+    ></div>
   )}
 
-  <a
+  {picks.length > 0 && <a
     class="sidebar-book__more"
     href={londonUrl}
     rel="sponsored nofollow noopener"
     target="_blank"
     data-affiliate="getyourguide"
   >
-    {picks.length > 0 ? "More on GetYourGuide" : "Browse on GetYourGuide"}
+    More on GetYourGuide
     <span class="sidebar-book__ad">ad</span>
-  </a>
+  </a>}
 </aside>
 
 <style>
@@ -254,4 +263,6 @@ const heading = areaName ? `Book in ${areaName}` : "Book things to do";
       translate: none;
     }
   }
+  .sidebar-book__widget { margin-top: 0.75rem; border-radius: calc(var(--card-radius) / 2); overflow: hidden; background: #fff; }
+  .sidebar-book__widget :global(iframe) { display: block; width: 100%; max-width: 100%; border: 0; }
 </style>

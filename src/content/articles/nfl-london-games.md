@@ -178,7 +178,7 @@ For step-free routes, see our [step-free London guide](/articles/step-free-londo
 | **Redwood** | London Bridge Station, SE1 9SP |
 | **Westwood** | Westfield London, Ariel Way, W12 7HB |
 
-The Jaguars hold their own UK watch parties at the Greenwood, listed on [jaguars.co.uk](https://jaguars.co.uk/).
+The Jaguars hold their own UK watch parties at the Greenwood, listed on [jaguars.co.uk](https://jaguars.co.uk/). BOX Piccadilly on Shaftesbury Avenue is the NFL's official UK sports bar partner too; our [sports bars guide](/articles/best-sports-bars-london/) has it, Passyunk Avenue's American bars and the rest.
 
 > ⚠️ **Book a table.** The 2.30pm kick-off overlaps [Premier League matches](/articles/premier-league-tickets-london/), and a pub that hasn't promised a screen to the NFL will show the football. [Sport London's NFL schedule](https://www.sportlondon.com/american-football/nfl) lists each game.
 

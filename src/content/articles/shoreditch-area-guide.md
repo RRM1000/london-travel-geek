@@ -78,6 +78,8 @@ Shoreditch sits immediately north of the City: glass towers on one side, Victori
 
 **This guide covers Shoreditch, Spitalfields, Brick Lane and Hoxton together.** Old Spitalfields Market to the Truman Brewery is eight minutes, and Hoxton Square is ten minutes the other way.
 
+Brick Lane and Columbia Road are ranked in our [best streets in London](/articles/best-streets-london/), with the day each one works.
+
 Shoreditch has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=shoreditch).
 
 ## Why visit — and who should skip it
@@ -197,6 +199,8 @@ For a night of singing, the Cocktail Club on Sclater Street and the Blues Kitche
 Osteria Angelina, a short walk from Liverpool Street in Spitalfields, makes Japanese-Italian pasta in a glass-walled pasta lab. It is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 Four of the bars in our speakeasy guide are within a walk of here: Nightjar behind an unmarked door on City Road, Discount Suit Company in a former tailor's store room on Wentworth Street, The Mayor of Scaredy Cat Town through a fridge in The Breakfast Club on Artillery Lane, and The Natural Philosopher through a repair shop on Hackney Road. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has the doors, prices and booking rules.
+
+To watch the match, Boxpark Shoreditch sells tickets for big screenings, and Beechwood at Principal Place and Long Arm on Worship Street both take bookings; our [sports bars guide](/articles/best-sports-bars-london/) compares them.
 
 ## Getting there
 

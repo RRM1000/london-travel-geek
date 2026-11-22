@@ -1,0 +1,263 @@
+{
+  "cuisine": "streets",
+  "note": "BEST STREETS IN LONDON: streets and mews worth walking for what is on them or what they look like. Collected 22 Nov 2026. Search engines for the reader's query (best / prettiest / famous streets in London) were read through Ecosia and Brave; every URL below was fetched and read. Names are recorded as the canonical street name, with what the source called it in the quote where it differs. JUDGEMENT MERGES (flag for Rob): 'Seven Dials' is recorded as Neal's Yard where a source names the district rather than the yard (ldnfashion, loveandlondon, Suitcase Monkey); 'Portobello Road Market' as Portobello Road; 'Westbourne Grove and Golborne Road' split into two streets. NOT MERGED: Hillgate Place, Hillgate Street and Hillgate Village (three names in three sources, possibly one village); Chalcot Square and Chalcot Crescent; Colville Place and Colville Mews; Kendrick Mews and Reece Mews are one entry as three sources pair them. TIER E: Reddit cannot be read here; r/london threads 'most beautiful street in your...' (kp60xp) and 'best scenic streets in London for a walk' (1d3yjis) surfaced in search and are not recorded. TIER D: three creators recorded (Suitcase Monkey, Travels Unfiltered, Alp Galip Travels); TikTok search is not reachable by curl. SYNDICATION: the American Express / GlobalData 2025 ranking of UK independent high streets (Coal Drops Yard and Stable Street joint 4th, Broadway Market 6th) reached us through Time Out, the Evening Standard and Retail Times; it is a single originating ranking, not three independent opinions, and the Evening Standard and Retail Times pages are not recorded as sources. The Time Out piece on Condé Nast Traveler's 71 most beautiful streets and Secret London's copy of it are likewise not recorded; Condé Nast Traveler's own list is.",
+  "recorded": "2026-11-22",
+  "sources": [
+    {
+      "scope": "streets",
+      "name": "Time Out - The 28 coolest streets in the world in 2026 (London entry) and 2025 (Blackstock Road)",
+      "url": "https://www.timeout.com/travel/coolest-streets-in-the-world-2026",
+      "tier": "B",
+      "note": "Time Out's annual ranking of the world's coolest streets, compiled by its editors and writers across its city network. 2026: Golborne Road, London is #2 of 28. 2025: Blackstock Road ranked 23rd (Time Out London, 17 Nov 2026 piece on Golborne Road).",
+      "names": ["Golborne Road", "Blackstock Road"],
+      "quotes": {
+        "Golborne Road": "#2 of 28 in Time Out's coolest streets in the world, 2026",
+        "Blackstock Road": "Ranked 23rd in Time Out's coolest streets in the world, 2025"
+      }
+    },
+    {
+      "scope": "streets",
+      "name": "Condé Nast Traveller - 8 of the most historic streets in London",
+      "url": "https://www.cntraveller.com/gallery/london-streets-historic",
+      "tier": "B",
+      "names": ["Bathurst Mews", "Shad Thames", "Little Green Street", "Fournier Street", "Kynance Mews", "Roupell Street", "Lombard Street", "Cheyne Walk"]
+    },
+    {
+      "scope": "streets",
+      "name": "Condé Nast Traveler - 71 Beautiful Streets Around the World",
+      "url": "https://www.cntraveler.com/gallery/most-beautiful-streets-in-the-world",
+      "tier": "B",
+      "note": "Scoped to London (trap 12): a world list of 71 streets, of which one is in London, read in the gallery itself. Same publisher as the Condé Nast Traveller UK gallery; count as one publisher.",
+      "names": ["Portobello Road"],
+      "quotes": { "Portobello Road": "The only London street in Condé Nast Traveler's 71 most beautiful streets in the world (2024)" }
+    },
+    {
+      "scope": "streets",
+      "name": "Secret London - 15 of London's prettiest streets",
+      "url": "https://secretldn.com/secret-london-guide-londons-prettiest-streets/",
+      "tier": "C",
+      "names": ["Conduit Mews", "Bywater Street", "Chalcot Crescent", "Bathurst Mews", "Ennismore Gardens Mews", "Holland Park Mews", "Kelly Street", "Hillgate Street", "Neal's Yard", "Lancaster Road", "Kendrick Mews and Reece Mews", "Kynance Mews", "Hartland Road", "Warren Mews", "Portobello Road"]
+    },
+    {
+      "scope": "streets",
+      "name": "Visit London - Shopping in London: expert recommendations by area",
+      "url": "https://www.visitlondon.com/things-to-do/shopping/top-shopping-destinations",
+      "tier": "C",
+      "names": ["Oxford Street", "Regent Street", "Carnaby Street", "Bond Street", "King's Road"],
+      "quotes": {
+        "Regent Street": "Best for elegant shopping and iconic architecture",
+        "Carnaby Street": "Best for trend-led fashion and colourful streets",
+        "King's Road": "Best for stylish boutiques and fashionable homeware"
+      }
+    },
+    {
+      "scope": "streets",
+      "name": "Visit London - Best independent shopping in London",
+      "url": "https://www.visitlondon.com/things-to-do/shopping/top-15-hidden-london-shopping-gems",
+      "tier": "C",
+      "note": "Same domain as the other Visit London page, so one source.",
+      "names": ["Camden Passage", "Broadway Market", "Bermondsey Street", "Neal's Yard", "Marylebone High Street", "Redchurch Street", "Shepherd Market", "Stoke Newington Church Street", "King's Road", "Regent's Park Road", "Exmouth Market"]
+    },
+    {
+      "scope": "streets",
+      "name": "A Lady in London - 23 best shopping streets in London",
+      "url": "https://www.aladyinlondon.com/2022/07/best-shopping-streets-london.html",
+      "tier": "C",
+      "names": ["King's Road", "Regent Street", "Marylebone High Street", "Brick Lane", "Hampstead High Street", "Portobello Road", "Golborne Road", "Lordship Lane", "Bond Street", "Jermyn Street", "Piccadilly", "Oxford Street", "Lamb's Conduit Street", "Bermondsey Street", "Monmouth Street", "Cecil Court", "Elizabeth Street", "Columbia Road", "Upper Street", "Carnaby Street", "Regent's Park Road", "Electric Avenue"]
+    },
+    {
+      "scope": "streets",
+      "name": "A Lady in London - Charlotte Street",
+      "url": "https://www.aladyinlondon.com/2025/12/charlotte-street.html",
+      "tier": "C",
+      "note": "Same domain as the shopping-streets list; one source.",
+      "names": ["Charlotte Street"]
+    },
+    {
+      "scope": "streets",
+      "name": "Solosophie - 30+ prettiest London mews streets",
+      "url": "https://www.solosophie.com/pretty-best-london-mews-streets/",
+      "tier": "C",
+      "names": ["Colville Mews", "Kynance Mews", "Warren Mews", "Bathurst Mews", "Cresswell Place Mews", "Cornwall Mews South", "Ennismore Gardens Mews", "Holland Park Mews", "Osten Mews", "Ensor Mews", "Conduit Mews", "St Luke's Mews", "Stanhope Mews South", "Kendrick Mews and Reece Mews"]
+    },
+    {
+      "scope": "streets",
+      "name": "Travel and Squeak - Prettiest streets in London",
+      "url": "https://travelandsqueak.com/prettiest-streets-in-london/",
+      "tier": "C",
+      "names": ["Lancaster Road", "Goodwin's Court", "Portobello Road", "Kynance Mews", "Chalcot Square", "Chalcot Crescent", "Neal's Yard", "St Luke's Mews", "Hartland Road", "Watling Street", "Conduit Mews", "Bathurst Mews", "Kelly Street", "Denbigh Terrace", "Callcott Street", "Hillgate Place", "Farm Place", "Holland Park Mews", "Norland Place", "Pottery Lane", "Elgin Crescent"]
+    },
+    {
+      "scope": "streets",
+      "name": "London Dreaming - The 20 prettiest streets in London",
+      "url": "https://londondreaming.com/prettiest-streets-in-london/",
+      "tier": "C",
+      "names": ["Elizabeth Street", "Kynance Mews", "Neal's Yard", "St Luke's Mews", "Wardour Street", "Leadenhall Market", "Carnaby Street", "Portobello Road", "Westbourne Grove", "Lancaster Road", "Westbourne Park Road", "Hillgate Place", "Ladbroke Square", "Kensington Park Gardens", "Camden High Street", "Chalcot Square", "Chalcot Crescent", "Brick Lane", "Cornwall Gardens"]
+    },
+    {
+      "scope": "streets",
+      "name": "Within London - The prettiest streets in London by area",
+      "url": "https://www.withinlondon.com/post/london-s-prettiest-streets",
+      "tier": "C",
+      "names": ["Kynance Mews", "Pembroke Place", "Ennismore Gardens Mews", "Bywater Street", "Chalcot Crescent", "Regent's Park Road", "Lancaster Road", "St Luke's Mews", "Lansdowne Road", "Elgin Crescent", "Conduit Mews", "Bathurst Mews"]
+    },
+    {
+      "scope": "streets",
+      "name": "TripSavvy - The prettiest streets in London",
+      "url": "https://www.tripsavvy.com/the-prettiest-streets-in-london-4147353",
+      "tier": "B",
+      "names": ["Fournier Street", "Kynance Mews", "Shad Thames", "Wilton Crescent", "Little Green Street", "Hillgate Village", "Colville Place", "Kelly Street"]
+    },
+    {
+      "scope": "streets",
+      "name": "Follow Me Away - 10 prettiest streets in London",
+      "url": "https://www.followmeaway.com/streets-in-london/",
+      "tier": "C",
+      "names": ["Neal's Yard", "Ebury Street", "Bywater Street", "Wardour Street", "Kynance Mews", "Westbourne Park Road", "Ladbroke Gardens", "Farm Place"]
+    },
+    {
+      "scope": "streets",
+      "name": "Trips with Rosie - 7 of the best streets in London",
+      "url": "https://tripswithrosie.com/7-of-londons-prettiest-streets/",
+      "tier": "C",
+      "names": ["Chalcot Square", "Chalcot Crescent", "Lancaster Road", "Heath Street", "Bywater Street", "Holland Park Mews", "Bathurst Mews"]
+    },
+    {
+      "scope": "streets",
+      "name": "Flying Scots Girl - 12 most Instagrammable streets in London",
+      "url": "https://flyingscotsgirl.com/2026/06/04/12-most-instagrammable-streets-in-london/",
+      "tier": "C",
+      "names": ["Colville Place", "Neal's Yard", "Chalcot Crescent", "Kynance Mews", "Lancaster Road", "Elizabeth Street", "Bywater Street", "St Luke's Mews", "Holly Mount", "Warren Mews", "Watling Street", "Grosvenor Crescent"]
+    },
+    {
+      "scope": "streets",
+      "name": "Girl Gone Abroad - The most beautiful mews and iconic streets in London",
+      "url": "https://www.girlgoneabroad.com/blog/the-most-beautiful-mews-and-iconic-streets-in-london",
+      "tier": "C",
+      "names": ["Kynance Mews", "Ennismore Gardens Mews", "Conduit Mews", "Kendrick Mews and Reece Mews", "Radnor Mews", "Bathurst Mews", "Sussex Mews West", "Pottery Lane", "Holland Park Mews", "Warren Mews", "Wimpole Mews", "Bywater Street", "Chalcot Crescent", "Hillgate Place", "Farm Place"]
+    },
+    {
+      "scope": "streets",
+      "name": "Escape Cents - 10 prettiest streets in London",
+      "url": "https://escapecents.com/10-prettiest-streets-in-london/",
+      "tier": "C",
+      "names": ["Portobello Road", "Elgin Crescent", "Neal's Yard", "Shad Thames", "Gordon Square", "Camden Passage", "Cheyne Walk", "Goodwin's Court", "Bedford Square"]
+    },
+    {
+      "scope": "streets",
+      "name": "Jou Jou Travels - 20 most beautiful and famous streets in London",
+      "url": "https://joujoutravels.com/streets-in-london/",
+      "tier": "C",
+      "names": ["Regent Street", "Oxford Street", "King's Road", "Carnaby Street", "Marylebone High Street", "Piccadilly", "The Mall", "Downing Street", "Pudding Lane", "Abbey Road", "Brick Lane", "Portobello Road", "Columbia Road", "Camden High Street", "Wardour Street", "Perrin's Court", "Kynance Mews", "Chalcot Square", "Bywater Street", "Thurloe Square"]
+    },
+    {
+      "scope": "streets",
+      "name": "The Flashpacker - 20 famous streets in London",
+      "url": "https://www.theflashpacker.net/famous-streets-in-london/",
+      "tier": "C",
+      "names": ["Abbey Road", "Oxford Street", "Regent Street", "Piccadilly", "The Mall", "Bond Street", "The Strand", "Brick Lane", "Portobello Road", "Camden High Street", "Fleet Street", "Downing Street", "Baker Street", "Greek Street", "Frith Street", "Old Compton Street", "Savile Row", "Denmark Street", "Harley Street", "Shaftesbury Avenue"]
+    },
+    {
+      "scope": "streets",
+      "name": "London Walks - 20 famous streets in London to visit",
+      "url": "https://www.walks.com/blog/famous-streets-in-london/",
+      "tier": "C",
+      "names": ["Abbey Road", "Oxford Street", "The Mall", "Regent Street", "The Strand", "Piccadilly", "Carnaby Street", "Baker Street", "Savile Row", "Brick Lane", "Bond Street", "Shaftesbury Avenue", "Portobello Road", "Downing Street", "Columbia Road", "Jermyn Street", "King's Road", "St James's Street", "Doughty Street"]
+    },
+    {
+      "scope": "streets",
+      "name": "Where Goes Rose - 23 most famous streets in London",
+      "url": "https://www.wheregoesrose.com/famous-streets-london/",
+      "tier": "C",
+      "names": ["Portobello Road", "St Luke's Mews", "Ennismore Gardens Mews", "Kynance Mews", "Brompton Road", "Bywater Street", "Exhibition Road", "King's Road", "Carnaby Street", "Shaftesbury Avenue", "Gerrard Street", "Baker Street", "Parliament Street", "Downing Street", "Oxford Street", "Bond Street", "Regent Street", "Broadway Market", "Brick Lane", "Columbia Road", "Flask Walk", "Abbey Road", "Camden High Street", "Chalcot Crescent"]
+    },
+    {
+      "scope": "streets",
+      "name": "Candace Abroad - 23 famous streets in London",
+      "url": "https://candaceabroad.com/famous-streets-in-london/",
+      "tier": "C",
+      "names": ["Oxford Street", "Abbey Road", "Brick Lane", "Carnaby Street", "Piccadilly", "Bond Street", "Baker Street", "Savile Row", "Regent Street", "Jermyn Street", "The Mall", "Whitehall", "Downing Street", "Portobello Road", "Columbia Road", "Electric Avenue", "The Strand", "Shaftesbury Avenue", "Old Compton Street", "Bedale Street", "St Luke's Mews", "Neal's Yard", "King's Road", "Camden High Street"]
+    },
+    {
+      "scope": "streets",
+      "name": "Bright Nomad - The most famous streets in London",
+      "url": "https://brightnomad.net/famous-streets-in-london-england/",
+      "tier": "C",
+      "names": ["Baker Street", "Abbey Road", "Brick Lane", "Carnaby Street", "Oxford Street", "Piccadilly", "Shaftesbury Avenue", "Savile Row", "Columbia Road", "Portobello Road", "The Strand", "Downing Street", "The Mall"]
+    },
+    {
+      "scope": "streets",
+      "name": "Delve Into Europe - 34 famous streets in London",
+      "url": "https://delveintoeurope.com/famous-streets-in-london/",
+      "tier": "C",
+      "names": ["Abbey Road", "Baker Street", "Bond Street", "Brick Lane", "Camden High Street", "Carnaby Street", "Cheyne Walk", "Downing Street", "Fleet Street", "King's Road", "Ludgate Hill", "Old Compton Street", "Oxford Street", "Piccadilly", "Portobello Road", "Regent Street", "Savile Row", "Shaftesbury Avenue", "The Mall", "The Strand", "Whitehall", "Denmark Street", "Greek Street", "Cable Street", "Threadneedle Street", "Harley Street", "Lombard Street", "Frith Street", "Electric Avenue", "Neal's Yard", "Jermyn Street", "Columbia Road"],
+      "quotes": { "Neal's Yard": "Neals Yard, Covent Garden" }
+    },
+    {
+      "scope": "streets",
+      "name": "Alessandra in London (Penna e Spillo) - 10 streets you shouldn't miss in London",
+      "url": "https://pennaspillo.it/en/london-en/10-streets-you-shouldnt-miss-in-london/",
+      "tier": "C",
+      "names": ["Jermyn Street", "Neal's Yard", "Brick Lane", "Portobello Road", "South Molton Street", "Stanhope Mews South", "Flask Walk", "Lancashire Court", "Pavilion Road", "Carnaby Street"]
+    },
+    {
+      "scope": "streets",
+      "name": "LDN Fashion - The 10 best shopping streets in London",
+      "url": "https://www.ldnfashion.com/features/best-shopping-streets-in-london/",
+      "tier": "B",
+      "names": ["Bond Street", "Oxford Street", "Carnaby Street", "King's Road", "Brick Lane", "Marylebone High Street", "Columbia Road", "Redchurch Street", "Neal's Yard", "Portobello Road"],
+      "quotes": { "Neal's Yard": "Seven Dials - For Boutique Gems (district, merged with Neal's Yard)" }
+    },
+    {
+      "scope": "streets",
+      "name": "Love and London - 8 areas in London for serious shopping",
+      "url": "https://loveandlondon.com/london-shopping-areas/",
+      "tier": "C",
+      "names": ["Marylebone High Street", "Carnaby Street", "Neal's Yard", "Westbourne Grove", "Golborne Road", "Camden Passage", "King's Road"],
+      "quotes": {
+        "Neal's Yard": "Seven Dials (district, merged with Neal's Yard)",
+        "Golborne Road": "Westbourne Grove and Golborne Road (one heading, split into two streets)",
+        "Westbourne Grove": "Westbourne Grove and Golborne Road (one heading, split into two streets)"
+      }
+    },
+    {
+      "scope": "streets",
+      "name": "Suitcase Monkey - London's best streets for cafes, walks, shopping and food (YouTube)",
+      "url": "https://www.youtube.com/@SuitcaseMonkey",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=alQBbuhK0Ng, names taken from the spoken script (auto-captions).",
+      "names": ["Flask Walk", "Canon Alley", "Shad Thames", "Broadway Market", "Goldsmiths Row", "Columbia Road", "Monmouth Street", "Neal's Yard", "Portobello Road", "Goodwin's Court", "Cecil Court", "Leadenhall Market"],
+      "quotes": {
+        "Monmouth Street": "Probably the best of the seven streets around Seven Dials",
+        "Neal's Yard": "Seven Dials area and Neal's Yard, picturesque setting famous for its colourful walls",
+        "Leadenhall Market": "The most visually pleasing street in all of the Square Mile",
+        "Portobello Road": "Mentioned within Notting Hill, passing George Orwell's former home on Portobello Road"
+      }
+    },
+    {
+      "scope": "streets",
+      "name": "Travels Unfiltered - 10 iconic London shopping destinations (YouTube)",
+      "url": "https://www.youtube.com/@TravelsUnfiltered",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=Dl35VoZav0I, ranked list in the description; only the streets are recorded, areas and stores (Camden Market, Covent Garden, King's Cross, Shoreditch, Fortnum & Mason) are left out.",
+      "names": ["Oxford Street", "Bond Street", "Portobello Road", "King's Road", "Regent Street"],
+      "quotes": { "Regent Street": "#1 of 10 shopping destinations in the creator's ranking (including Liberty)", "Bond Street": "Bond Street and Mayfair, including Burlington Arcade, #9 of 10" }
+    },
+    {
+      "scope": "streets",
+      "name": "Alp Galip Travels - London shopping guide, 20 streets, markets and areas (YouTube)",
+      "url": "https://www.youtube.com/@AlpGalipcy",
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=tvNInJazsjM, names from the description; filmed Christmas 2023.",
+      "names": ["Oxford Street", "Regent Street", "Bond Street", "Carnaby Street", "Portobello Road", "Tottenham Court Road", "Baker Street"],
+      "quotes": { "Bond Street": "New Bond Street, designer windows" }
+    }
+  ],
+  "declined": [
+    { "name": "Wondrous Wandering - 12 prettiest streets", "url": "https://wondrouswandering.com/prettiest-streets-in-london/", "why": "Multi-geography clickbait site (its related posts run from Thai islands to Christmas markets in five countries); read, not counted." },
+    { "name": "Evan Evans Tours, Culture Trip, Wanderlog, Hotels.com, GetYourGuide Explorer", "why": "On data/sources.json's excluded list (tour operators, aggregators, booking sites) or sellers of the thing being ranked." },
+    { "name": "London Perfect shopping-streets blog", "url": "https://www.londonperfect.com/blog/2024/10/our-guide-to-londons-finest-shopping-streets/", "why": "A holiday-rental agency's blog (Kensington Church Street, Elizabeth Street, King's Road, Marylebone High Street, Carnaby Street); marketing, not counted." },
+    { "name": "From One Girl to One World - 8 streets in London", "url": "https://from1girlto1world.com/streets-in-london/", "why": "List includes Parliament Street, Tower Hill and Buckingham Palace Road with no visit detail; not counted." },
+    { "name": "Travel the Smart Way (YouTube) - The 15 prettiest streets in London", "url": "https://www.youtube.com/watch?v=KWkHFoyzrXE", "why": "No description and captions would not download, so the 15 names could not be read." }
+  ]
+}

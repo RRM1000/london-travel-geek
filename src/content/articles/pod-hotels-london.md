@@ -53,10 +53,6 @@ Zedwell's are natural oak with a **solid sliding shutter**, not a curtain, so no
 
 **Everything else is down the corridor.** Bathrooms are shared floors of individual shower stalls, each with its own changing space; Zedwell's are rainfall showers with toiletries provided.
 
-![A corridor of capsules with signage pointing to Cocoon 5.163-5.164 in one direction and Toilets and Showers in the other](../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg)
-
-*The way to the showers.*
-
 **The trade-off:** there is no desk, no chair, nowhere to put a suitcase and nowhere to sit up. If you want any daytime in the room, this is the wrong booking.
 
 ## The facilities, and what is shared
@@ -128,13 +124,13 @@ Rates are the cheapest and dearest across five dates: a quiet Sunday, a February
 
 ### Zedwell Capsule Piccadilly Circus — book this one
 
-![A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers](../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg)
-
-*A capsule corridor at Zedwell.*
-
 *£33–£68 · over 1,000 capsules · London Pavilion, W1J 0DA · Piccadilly Circus 1 min · [check prices](hotel:zedwell-piccadilly-capsule)*
 
 Zedwell calls it the UK's largest capsule hotel, in the Grade II London Pavilion. **One minute from Piccadilly Circus station**, six from Leicester Square.
+
+![A corridor of sleeping capsules at a Zedwell capsule hotel, lit strips along the floor and signage reading Cocoon 5.163-5.164 and Toilets Showers](../../assets/articles/pod-hotels-london/zedwell-capsule-corridor.jpg)
+
+*A capsule corridor at Zedwell.*
 
 It is the **cheapest of the five on every date sampled**, with a 24-hour front desk and a women-only floor. The trade is atmosphere: over 1,000 berths in one building feels institutional.
 

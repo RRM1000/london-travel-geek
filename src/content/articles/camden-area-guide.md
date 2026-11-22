@@ -76,6 +76,8 @@ Camden is markets, music and the Regent's Canal. A craft market opened by the ca
 
 Beyond the stalls there is the canal, Primrose Hill fifteen minutes north-west, and the surviving music venues.
 
+Chalcot Crescent and Camden High Street are ranked in our [best streets in London](/articles/best-streets-london/).
+
 Camden has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=camden).
 
 ## Why visit — and who should skip it

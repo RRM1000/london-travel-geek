@@ -52,12 +52,22 @@ h2{font-size:18px;margin:0 0 8px}ul{margin:0;padding-left:20px}li{margin:6px 0}
 <section class="done"><h2>Recently done</h2><ul>${tg.recentlyDone.map((r) => `<li><span>${fmt(r.date)}</span>${md(r.what)}</li>`).join('')}</ul></section>
 </main></body></html>`;
 
+// Schedules & costs: everything that runs on its own, across all sites, from data/handbook-schedules.json.
+const sched = JSON.parse(fs.readFileSync(path.join(repo, 'data/handbook-schedules.json'), 'utf8'));
+const costCell = (c) => /^Deploys/.test(c) ? `<td class="warn">⚠️ ${md(c)}</td>` : `<td>${md(c)}</td>`;
+const schedHtml = tgHtml.split('<main>')[0].replace('</style>', `table{width:100%;border-collapse:collapse;font-size:14px}th,td{text-align:left;vertical-align:top;padding:7px 8px;border-top:1px solid var(--line)}th{color:var(--muted);font-weight:600;border-top:0}.warn{font-weight:700;color:var(--accent)}.wrap{overflow-x:auto}td:first-child{font-weight:600}</style>`)
+    + `<main><div class="kicker">All sites</div><h1>Schedules &amp; costs</h1>
+<div class="meta">Updated ${fmt(sched.updated)}. ${md(sched.note)}</div>
+${sched.groups.map((g) => `<section><h2>${esc(g.site)}</h2><div class="wrap"><table><thead><tr><th>Job</th><th>When</th><th>Runs on</th><th>Cost</th><th>What it does</th></tr></thead><tbody>${g.jobs.map((j) => `<tr><td>${md(j.what)}</td><td>${md(j.when)}</td><td>${md(j.where)}</td>${costCell(j.cost)}<td>${md(j.does)}</td></tr>`).join('')}</tbody></table></div></section>`).join('\n')}
+</main></body></html>`;
+
 // A page built as a fragment (the artifact wrapper adds the document) gets its own document here.
 const doc = (html) => (/^\s*<!doctype/i.test(html) ? html : `<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head><body>${html}</body></html>`);
 const tabs = [
     { id: 'london', label: 'London Travel Geek', html: doc(ltg) },
     { id: 'citybreak', label: 'City Break Geek', html: doc(cbgHtml) },
     { id: 'theatre', label: 'Theatre Geek', html: tgHtml },
+    { id: 'schedules', label: 'Schedules & costs', html: schedHtml },
 ];
 
 const page = `<title>Project handbook</title>

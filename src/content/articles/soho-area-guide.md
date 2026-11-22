@@ -76,6 +76,8 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 
 **Soho is one square kilometre, walkable end to end in fifteen minutes**, bounded by [Oxford Street](/articles/oxford-street-guide/), Regent Street, Shaftesbury Avenue and Charing Cross Road, and packed with restaurants, bars, theatres and recording studios.
 
+Carnaby Street and Neal's Yard are two of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 It is two different places depending on when you arrive: by day a working media district with good coffee and quiet streets, and from about 18:00 a nightlife district.
 
 Soho has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=soho).
@@ -166,6 +168,8 @@ North–south restaurant streets running parallel through the middle of Soho.
 | **Bar Italia** | Coffee | £ | Frith Street, open since 1949 and nearly around the clock |
 | **The French House** | Historic pub | £ | Dean Street; beer served in halves by tradition |
 
+Soho's sushi runs from Kulu Kulu's conveyor belt on Brewer Street to the ten-seat omakase counter at Sushi Kyu, Namaiki's bar on Broadwick Street and the Miokuru handroll bar on Warwick Street. All are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 For dinner with live music, Brasserie Zédel's house band plays every day with no charge on the bill, and Ronnie Scott's serves dinner through its sets. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares them.
 
 For karaoke, Lucky Voice on Poland Street opened in 2005, Karaoke Box has been on Frith Street since 1997, and Karaoke Epoc on Brewer Street is a Japanese-style box; all three are in our [karaoke guide](/articles/best-karaoke-london/).
@@ -173,6 +177,8 @@ For karaoke, Lucky Voice on Poland Street opened in 2005, Karaoke Box has been o
 Soho is also where central London's Indo-Chinese cooking is: Fatt Pundit on Berwick Street and the all-vegetarian Tangra on Frith Street, a few doors from Chotto Matte's Japanese-Peruvian menu. All three are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 Five of the bars in our speakeasy guide are in Soho and Chinatown: Opium behind a jade door on Gerrard Street, Experimental Cocktail Club upstairs from the same street, SOMA down an unmarked staircase on Denman Street, Basement Sate behind a red door on Broadwick Street, and The Vault behind a bookcase in Milroy's whisky shop on Greek Street. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) says how to find each door.
+
+To watch the match, BOX Piccadilly on Shaftesbury Avenue has 33 screens over three floors, and De Hems on Macclesfield Street is the Dutch pub; both are in our [sports bars guide](/articles/best-sports-bars-london/).
 
 ## Getting there
 

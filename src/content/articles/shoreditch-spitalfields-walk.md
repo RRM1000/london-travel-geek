@@ -31,6 +31,8 @@ In this part of London the question is not where to go but **which day**.
 
 Columbia Road exists on a Sunday and not on a Tuesday. The Brick Lane street market is a Sunday. Four of the Old Truman Brewery's eight markets are weekends only. Christ Church Spitalfields opens to visitors for two hours a week. Petticoat Lane is two different markets on two different streets depending on whether it is a weekday or a Sunday.
 
+Columbia Road and Brick Lane are two of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 **This route runs north to south**, from Columbia Road Flower Market through the Boundary Estate and the length of Brick Lane, and finishes at Petticoat Lane. Eleven numbered stops, **2.6km and about 35 minutes of walking**, a half day once the markets get involved. It is free apart from what you buy.
 
 For the bars, Hoxton and where to stay, see the [Shoreditch area guide](/articles/shoreditch-area-guide/).

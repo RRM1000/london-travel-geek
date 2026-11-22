@@ -270,6 +270,7 @@ Visiting (away) supporters use entrances 11 and 12, in blocks 114–118 in the s
 
 - 📅 **[London Sporting Events 2027](/articles/london-sporting-events-2027/)** — Saracens v Harlequins here on 20 March, and the year's other big sporting dates
 - ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — Tottenham's tour next to Chelsea, Arsenal, West Ham, Wembley and Fulham
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🏉 **[Twickenham Stadium Travel Guide](/articles/twickenham-stadium-travel-guide/)** — the same problem in reverse: no station on the doorstep, and a parking zone run by two boroughs
 - 🚇 **[How to Use the London Underground](/articles/how-to-use-the-london-underground/)**
 - 💷 **[London Transport Costs and Fares](/articles/london-public-transport-costs-and-fares/)**

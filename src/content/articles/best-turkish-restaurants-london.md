@@ -409,13 +409,13 @@ Listed by Harden's and by the Turkish-British press. Book for a long lunch.
 ### Baraka, City of London
 
 *££ · City of London · Cited by 1 source · Harden's*
-![Baraka London in London](../../assets/articles/best-turkish-restaurants-london/baraka.jpg)
 
 The third of Harden's three City Turkish rooms; no other source in this guide names it.
-*Baraka London.*
+
+![Orange Baraka parasols over a planted terrace in front of the restaurant's glass frontage](../../assets/articles/best-turkish-restaurants-london/baraka.jpg)
+*Baraka's terrace.*
 
 Modern Turkish: **mezze, grilled meats and fish**, aimed at the City lunch trade.
-*££ · City of London · Cited by 1 source · Harden's*
 
 ---
 

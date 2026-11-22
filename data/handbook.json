@@ -1,7 +1,7 @@
 {
   "note": "The hand-kept half of the project handbook (scripts/build-handbook.mjs builds the rest from the repo). Update this when work starts, finishes or gets blocked, then rebuild and republish the page. Keep entries short and in plain words: this is read by Rob, not by scripts.",
   "artifactUrl": "https://claude.ai/artifact/LZmYYNyRzyAAzDzpetQANE",
-  "updated": "2026-11-19",
+  "updated": "2026-11-22",
   "inProgress": [],
   "nextUp": [
     "Food video creators into the food guides. Creator Picks page (https://claude.ai/artifact/E3BdmPFHKrtgLvEAxEQDqa) reads 494 videos from 10 YouTube creators (2025-26): 698 venues, 277 already on the site, 85 in our data on no page, 335 new (about half with names from auto-captions, to verify). Next: record Aton Of Food, Noodle alla Gola and Jacob King as tier-D sources in the topics they cover; verify the uncertain names; retry Gary Eats, Hannah Ricketts and What's Good London with correct handles; add the strongest new openings to guides. Nothing recorded yet - waiting on Rob's go. Working files: scratchpad/social (collect.mjs, xref.mjs, build-page.mjs).",
@@ -84,6 +84,18 @@
     "From the trim pass: Club Mexicana's current sites; Tootbus family price; Excess Baggage desk hours (Stansted 24h? Gatwick South 05:00?); Hope Carshalton CAMRA count (7 per its site, guide says 5); Southend contactless limit; Kingsway tram tunnel tour still sold?; EES status on the Brussels page; price bands on the French page (Maison François, French House, Bouchon Racine); Jikoni facts line still shows W1U 3DH (Sheet now 3DJ)."
   ],
   "recentlyDone": [
+    {
+      "date": "2026-11-22",
+      "what": "Deals and food: new deals added to the set-lunch/pre-theatre, food deals hub, bottomless brunch and kids-eat-free pages; deal boxes now also appear under hotel and venue entries with no Sheet row (Rubens, Montague, Ayllu, Hera and others) and name the branch when it differs; happy hour page rebuilt with clear When/Deal/Where lines; new best-streets and Gordon Ramsay guides; Portobello Road food market added to street food. Unpushed."
+    },
+    {
+      "date": "2026-11-21",
+      "what": "Site-wide review and fixes (two agents): photo mix-up from 11 Nov repaired on ramen, fish and chips, Japanese, Middle Eastern, Mexican, kids-eat-free, cabaret, immersive, live music, competitive socialising; New Year tickets, November/awards/science pages, Kew, Paddington, Events Sheet, Nutcracker, seasonal homepage slides. Unpushed. Still open: 12 Hotels.com ids, jazz festival past tense, London Museum guide, post-Christmas sales page."
+    },
+    {
+      "date": "2026-11-20",
+      "what": "Handbook: new Schedules & costs tab listing every automatic job on all sites, with the ones that deploy (and can cost money) flagged."
+    },
     {
       "date": "2026-11-20",
       "what": "Review branch rebased on origin/main (84 commits ahead, 0 behind). Build was failing on 43 wording-check passages (relative dates, stock phrases); rewritten in 2cbef9ae and the full npm run build now passes (608 pages). Ready to push when Rob says so."

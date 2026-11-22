@@ -1,0 +1,166 @@
+{
+  "topic": "sushi",
+  "article": "src/content/articles/best-sushi-restaurants-london.md",
+  "headTerm": "Sushi",
+  "note": "Built 17 October 2026 from data/topics/pizza.json to take the sushi searches that data/consensus/japanese.json's guide (best-japanese-restaurants-london) ranks for: 'best sushi restaurants london' (3.7), 'sushi restaurant london' and 'omakase restaurant london' (5 to 6), and a brief test for the bare query 'sushi'. The Japanese guide keeps the wider cuisine (ramen, izakaya, yakitori, kaiseki); this guide is only restaurants where sushi (nigiri, sashimi, handrolls or an omakase of them) is what the kitchen is known for. A Japanese or Nikkei room with a sushi counter among a long menu (Zuma, Nobu, SUSHISAMBA, The Aubrey) is mentioned once in a short section and is not ranked as a sushi restaurant. Counts are sushi-corpus only (trap 7): the Japanese corpus is not touched.",
+  "awardBodies": [
+    {
+      "name": "MICHELIN Guide (Great Britain & Ireland)",
+      "domain": "guide.michelin.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/gb/en/greater-london/london/restaurants/sushi",
+      "note": "Has a real 'Sushi' cuisine filter for London. On 17 Oct 2026 it held three restaurants (Sushi Amamoto, Maru, Sushi Kanesaka), all Selected or one star; Sushi Kanesaka alone has a star (one, 2026). Further sushi kitchens sit under 'Japanese' and 'Japanese Contemporary' (Takahashi, Eel Sushi, Mayha, Tobi Masa, The Fuji Grill, Kioku by Endo, NIJŪ, Aki, Akira); their restaurant pages carry the distinction in JSON-LD 'award' with dateAwarded. No Bib Gourmand for sushi in London. Plain curl with no user agent works; a Chrome user agent returns an empty page. Umu has one star and Humble Chicken two, but Michelin's text for neither describes sushi."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "tier": "A",
+      "cadence": "rolling",
+      "note": "Server-rendered restaurant pages (/restaurant/<slug>/id/<n>) are readable but the ids cannot be guessed and search is client-side. Found through Google News RSS: the Kikuchi review (Very Good, 4 Dec 2025), the features piece 'Where to eat if you don't want to spend £400 on sushi' (14 Mar 2025) and 'First Look: Sushi Kanesaka' (15 Aug 2023). Other sushi reviews (Sushi Tetsu, Kurisu, Takahashi, Maru, Eel Sushi) could not be resolved to URLs."
+    },
+    {
+      "name": "Harden's",
+      "domain": "hardens.com",
+      "tier": "A",
+      "cadence": "annual",
+      "resultsPath": "/restaurants/london/japanese",
+      "note": "No sushi heading (the /sushi path returns a server error). Its London Japanese heading holds four restaurants; Pham Sushi and Sushisamba are the sushi ones."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "'London's 20 Best Sushi Restaurants' (/london/restaurants/londons-best-sushi-bars), numbered 1 to 20, edited by Erin Niimi Longhurst. The 17 Dec 2025 news story naming Sushi Tetsu number one is the same list. Its Japanese guide is the same domain."
+    },
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": "no",
+      "note": "Three guides on one domain: the 19 best sushi restaurants (not in score order), the 4 best omakase menus, and casual neighbourhood sushi spots. Ratings are printed per restaurant but the lists are not ranked."
+    },
+    {
+      "name": "Condé Nast Traveller",
+      "domain": "cntraveller.com",
+      "ranked": false,
+      "note": "Gallery of 22, 1 March 2026. Includes Japanese rooms where sushi is one part of a wider menu."
+    },
+    {
+      "name": "Hot Dinners",
+      "domain": "hot-dinners.com",
+      "ranked": false,
+      "note": "Three guides: best sushi (27 entries, Jul 2025), omakase menus (Feb 2025), takeaway sushi (Aug 2025)."
+    },
+    {
+      "name": "Evening Standard",
+      "domain": "standard.co.uk",
+      "ranked": false,
+      "note": "The 2024 'don't cost a month's rent' list and David Ellis's five-star Eel Sushi review (Jun 2025). The 2018 list is outside the 36-month window."
+    },
+    {
+      "name": "Wallpaper*",
+      "domain": "wallpaper.com",
+      "ranked": false,
+      "note": "Ben McCormack, ten picks, 7 Oct 2024, revised since."
+    },
+    {
+      "name": "Luxury London",
+      "domain": "luxurylondon.co.uk",
+      "ranked": false,
+      "note": "Omakase list, updated 15 May 2026."
+    },
+    {
+      "name": "Observer (US)",
+      "domain": "observer.com",
+      "ranked": false,
+      "note": "Twelve omakase counters, 22 Jun 2026."
+    },
+    {
+      "name": "House & Garden, The Week, Stylist, Vogue, Country & Town House",
+      "domain": "various",
+      "ranked": false,
+      "note": "Japanese-wide lists; only their sushi-led entries are recorded."
+    },
+    {
+      "name": "Vittles",
+      "domain": "vittlesmagazine.com",
+      "ranked": false,
+      "note": "Jonathan Nunn's column on mid-range sushi (20 Sep 2024) is paywalled; the preview names Atari-Ya and Sagamiya."
+    },
+    {
+      "name": "The Nudge, Secret London, Washoku Guide",
+      "domain": "various",
+      "ranked": false,
+      "note": "Independent and specialist lists. Washoku Guide lists 44 Japanese-owned or Japanese-chef sushi restaurants, unranked."
+    }
+  ],
+  "facetAxis": {
+    "field": "format",
+    "note": "Sushi in London is five different meals. The axis is how the meal is served and what it costs, not the fish.",
+    "values": [
+      {
+        "key": "omakase",
+        "label": "Omakase counters",
+        "describeAs": "you sit at a counter and the chef decides every piece, served one at a time"
+      },
+      {
+        "key": "a-la-carte",
+        "label": "A la carte sushi restaurants",
+        "describeAs": "you order nigiri by the piece or by the set, at a counter or a table"
+      },
+      {
+        "key": "handroll",
+        "label": "Handroll bars",
+        "describeAs": "nori cones filled and handed to you one at a time, to eat within seconds"
+      },
+      {
+        "key": "kaiten",
+        "label": "Conveyor belt (kaiten)",
+        "describeAs": "plates circle on a belt, colour-coded by price"
+      },
+      {
+        "key": "takeaway",
+        "label": "Cheap and quick",
+        "describeAs": "takeaway counters, fishmongers' cafes and food-hall stalls selling sets for under £15"
+      },
+      {
+        "key": "chain",
+        "label": "Chains",
+        "describeAs": "branded sushi sold across many sites, from a belt chain to a supermarket-style counter"
+      }
+    ]
+  },
+  "formatSection": {
+    "title": "Where the sources disagree",
+    "note": "The sources split on whether a sushi restaurant is the counter or the room. Time Out's ranked list leads with a seven-seat counter and puts a Battersea family room at 20; The Infatuation's list is neighbourhood a la carte rooms; Reddit threads are mostly about getting a seat at all. Keep to two sentences inside the first section."
+  },
+  "knownGaps": [
+    "SquareMeal's best sushi (24) and best omakase (16) lists, The Handbook's mid-priced sushi and omakase lists and Londonist's sushi bars list all return HTTP 403 to scripted requests, so none was read; The Times and Telegraph sushi lists are paywalled or blocked. The next pass should read them by hand and record them.",
+    "No TikTok creator is recorded: TikTok search cannot be read without a paid scraper and no reconstructed handle is acceptable (trap 5).",
+    "Tier E is Reddit only, counted as one domain however many threads name a restaurant; fifteen r/LondonFood, r/london and r/sushi threads were read, so thread counts are printed in the article text rather than in the Cited by line.",
+    "Kaiten is thin: Kulu Kulu is the only conveyor belt named by more than one source. Moshi Moshi (Liverpool Street) and Kurumaya are named by one Reddit commenter each.",
+    "Vittles' mid-range sushi column is paywalled beyond its preview; its full list of neighbourhood sushi-yas is not recorded.",
+    "No Bib Gourmand or other Michelin distinction exists for a London sushi restaurant apart from Sushi Kanesaka's one star; the Guide's 2026 selection no longer contains Endo at the Rotunda.",
+    "Taku and Sushi Amamoto share the Albemarle Street room; sources written before February 2026 name Taku. Left as two records.",
+    "Sources for Sushi Show, Hase-Ya, Sagamiya and the Ealing and Richmond neighbourhood sushi-yas are one or two voices each; there is no judged ranking for the cheap end.",
+    "Operator pages could not be read for Sushi Kanesaka (Dorchester Collection site returns a challenge page), Kurisu Omakase, Rai, Kikuchi, Iné, Nanahoshi, Uchi, Kumori, Kulu Kulu and Hase-Ya, so their prices and hours on the page are attributed to the Good Food Guide, The Infatuation, Time Out and Reddit. Rai and Iné are left off the page."
+  ],
+  "openVenueQuestions": [
+    "Temaki - merged across Temaki Brixton (Brixton Village, named by CNT, Hot Dinners, the Good Food Guide, Wallpaper* and the Evening Standard) and the Mayfair site (named by The Nudge and in the Sheet as Temaki Mayfair). The Evening Standard reported the move; confirm with Rob that one record is right.",
+    "Taku and Sushi Amamoto - the same room on Albemarle Street, renamed in February 2026 when Shogo Amamoto became chef-patron. Not merged: sources written before the change describe Takuya Watanabe's Taku (Michelin star, opened 2022).",
+    "Dinings SW3 and Dinings Marylebone - two restaurants. The Infatuation lists both as separate entries; Reddit's 'Dinings in Marylebone' is the Harcourt Street one. The existing alias 'Dinings' -> 'Dinings SW3' in data/name-aliases.json sends a bare 'Dinings' to Chelsea.",
+    "Chisou - Mayfair (Woodstock Street) and Knightsbridge (Beauchamp Place) merged to the brand: The Infatuation names Knightsbridge, Condé Nast Traveller names Mayfair, Hot Dinners both.",
+    "Roka - four London sites merged to the brand; Time Out and Wallpaper* name the Charlotte Street original.",
+    "SUSHISAMBA - City (Heron Tower) and Covent Garden merged to the brand; the Sheet has two rows.",
+    "Eat Tokyo, Atari-Ya, Sushi Show - branches merged to the brand; sources name different branches.",
+    "Nobu - 'Nobu Old Park Lane' used where a source gave that address or the Mayfair site; Hot Dinners and Luxury London name Nobu's London hotel sites together.",
+    "Sushi Atelier - Fitzrovia, Shoreditch and St John's Wood; sources name the Great Portland Street original.",
+    "Endo at the Rotunda - closed by fire in September 2025 and not in the 2026 Michelin selection; ENDO (Chelsea) is a different room. Not merged. Endo at the Rotunda is recorded in the sources that named it before the fire and left off the page.",
+    "Sumi - the Notting Hill restaurant; a second SUMI in Marylebone was announced in July 2026 and is not recorded.",
+    "Cafe Japan (626 Finchley Road, Golders Green) - merged to Atari-Ya because Atariya's own site lists Atariya Cafe Japan among its restaurants at that address; Time Out names the same branch as Atari-Ya Golders Green. Atari-Ya's Swiss Cottage restaurant is a separate site under the same brand.",
+    "Moshi Moshi - recorded from one Reddit thread pair and the operator's own site; it is on the Liverpool Street station concourse and traded (food hygiene inspection May 2026), but its own pages carry no hours.",
+    "Chuo (Shoreditch monorail sushi) and Kurumaya (City) are named by Secret London 2024 and one Reddit comment; no food hygiene record or working operator page was found, so neither is on the page."
+  ]
+}

@@ -75,6 +75,8 @@ Islington is a mile of Georgian terrace running north from Angel, lined with res
 
 There are no landmarks here. Islington is a place to eat, drink, browse and see something in the evening.
 
+Camden Passage and Upper Street are in our [best streets in London](/articles/best-streets-london/) ranking.
+
 Islington has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=islington).
 
 ## Why visit — and who should skip it
@@ -141,6 +143,8 @@ Banya No.1, a Russian steam bath on Micawber Street just over the border in Hoxt
 | **The Castle** | Pub | ££ | Corner pub off Upper Street with a roof terrace |
 | **Gallipoli** | Turkish | ££ | Upper Street; loud and busy |
 | **Chapel Market stalls** | Street market | £ | Everyday food and produce |
+
+Sasa on St John Street, Sushi Show on Camden Passage and Zen Mondo on Upper Street are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
 
 ![The Chapel Market sign spanning the street in Islington](../../assets/articles/islington-area-guide/chapel-market.jpg)
 

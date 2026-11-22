@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Christmas_lights_in_Re
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-10-07
-updatedAt: 2026-11-12
-reviewBy: 2026-11-14
+updatedAt: 2026-11-21
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -18,7 +18,7 @@ tags: [things to do, London events, November, seasonal, London experiences]
 draft: false
 faq:
   - q: "What is on in London in November 2026?"
-    a: "The first week was Bonfire Night, Remembrance Sunday and the first Christmas lights. Still to come: Armistice Day on the 11th and the Lord Mayor's Show on Saturday 14th. The EFG London Jazz Festival runs 13 to 22 November. Christmas arrives in stages, from Bond Street's and Covent Garden's lights on the 12th to Hyde Park Winter Wonderland on the 19th, and the new London Museum opens in Smithfield on 28 November."
+    a: "Bonfire Night, Remembrance Sunday, Armistice Day and the Lord Mayor's Show on the 14th filled the first half of the month. The EFG London Jazz Festival runs 13 to 22 November, and Hyde Park Winter Wonderland opened on the 19th. The final days of the month bring a 24-hour Tube drivers' strike from noon on Thursday 26th, Black Friday on the 27th, the Nations Championship finals at Twickenham from 27 to 29 November, and the opening of the new London Museum in Smithfield on Saturday 28th."
   - q: "Can you still get tickets for the Bayeux Tapestry in November 2026?"
     a: "Not for a November visit. Every ticket from 10 September 2026 to 31 March 2027 has sold out, and the next release is in 2027. Adult tickets are £33, with off-peak at £27 and super off-peak at £25."
   - q: "Is Bonfire Night over in London in 2026?"
@@ -26,26 +26,25 @@ faq:
   - q: "When is the Lord Mayor's Show in 2026, and are there fireworks?"
     a: "Saturday 14 November, setting off from Mansion House at 11am and going to the Royal Courts of Justice by St Paul's and Fleet Street, with the return leg along the Embankment from about 1.10pm. It is free to watch. There are no Thames fireworks."
   - q: "When do London's Christmas lights go on in 2026?"
-    a: "Carnaby Street's lights went on on Wednesday 4 November and Regent Street's on Thursday 5th. Oxford Street's go on on Monday 9th, and Bond Street's and Covent Garden's on Thursday 12th. Hyde Park Winter Wonderland opens on 19 November and Somerset House's ice rink on the 11th. The Trafalgar Square tree is lit on 3 December."
+    a: "Carnaby Street's lights went on on Wednesday 4 November and Regent Street's on Thursday 5th. Oxford Street's went on on Monday 9th, and Bond Street's and Covent Garden's on Thursday 12th. Somerset House's ice rink opened on the 11th and Hyde Park Winter Wonderland on the 19th. The Trafalgar Square tree is lit on 3 December."
   - q: "When does it get dark in London in November?"
     a: "Sunset is at 4.35pm on 1 November, 4.28pm on Bonfire Night, 4.14pm on the 14th and 3.57pm on the 30th. The clocks went back on 25 October, so the whole month is on GMT. Heathrow's 1991 to 2020 average for the month is a high of 11.5C, a low of 5.3C, 66.6mm of rain and 68 hours of sunshine."
   - q: "Is Diwali in November in 2026?"
     a: "Diwali itself fell on Sunday 8 November. The Mayor of London's free Diwali on the Square in Trafalgar Square was due on Sunday 25 October and was cancelled the day before. The National Maritime Museum in Greenwich held its free Diwali day on Saturday 7 November, with a lantern parade and a new Diwali Bazaar."
 ---
 
-The first week was fireworks and ceremony. Ahead are Armistice Day and the Lord Mayor's Show, ten days of jazz, and Christmas lights, rinks and markets switching on in stages. The clocks went back on 25 October, and the sun sets before 4.40pm all month.
+November opened with fireworks and ceremony, then ten days of jazz, with Christmas lights, rinks and markets switching on in stages. The month ends with Black Friday, the rugby finals at Twickenham and the new London Museum. The clocks went back on 25 October, and the sun sets before 4.40pm all month.
 
-> 💡 **The Short Version:** **Armistice Day is Wednesday 11 November and the Lord Mayor's Show is Saturday 14th.** The **EFG London Jazz Festival** runs 13 to 22 November. **Bond Street's and Covent Garden's lights go on on 12 November**, **Winter Wonderland opens on 19 November** and the **London Museum** opens free in Smithfield on **28 November**. The **Bayeux Tapestry** is sold out to 31 March 2027. Bonfire Night, Remembrance Sunday and Diwali have passed.
+> 💡 **The Short Version:** The **EFG London Jazz Festival** runs 13 to 22 November, and **Hyde Park Winter Wonderland** has been open since **19 November**. **Tube drivers strike for 24 hours from noon on Thursday 26 November.** **Black Friday is Friday 27th**, the **Nations Championship finals** fill Twickenham from **27 to 29 November**, and the **London Museum** opens free in Smithfield on **Saturday 28 November**, the same weekend the Elizabeth line is closed. The **Bayeux Tapestry** is sold out to 31 March 2027. Bonfire Night, Remembrance, Diwali and the Lord Mayor's Show were earlier in the month.
 
 | Date | What | Cost |
 | --- | --- | --- |
-| Mon 9 Nov | Oxford Street's lights switch on at a Harry Potter event, from 4:30pm | Lights free |
-| Wed 11 Nov | Armistice Day silence at 11am; Somerset House ice rink opens | Rink ticketed |
-| Thu 12 Nov | Bond Street's and Covent Garden's lights switch on; England v Croatia at Wembley | Lights free |
-| Fri 13 Nov | EFG London Jazz Festival opens | From £5 |
-| Sat 14 Nov | Lord Mayor's Show; England v Japan at Twickenham | Show free |
-| Thu 19 Nov | Hyde Park Winter Wonderland opens | £1 entry off-peak |
-| Sat 28 Nov | London Museum opens at Smithfield | Free |
+| Sun 22 Nov | Last day of the EFG London Jazz Festival | From £5 |
+| Wed 25 Nov | Chelsea Winter Village & Illuminations opens | From £18 |
+| Thu 26 Nov | Tube drivers' 24-hour strike from noon; King's Cross Winter Market opens; Ideal Christmas Show at Olympia to 29 Nov | Market free |
+| Fri 27 Nov | Black Friday; Nations Championship finals weekend starts at Twickenham | Ticketed |
+| Sat 28 Nov | London Museum opens at Smithfield; Pinocchio opens at Shakespeare's Globe | Museum free |
+| Sun 29 Nov | Nations Championship finals end; Declaring Independence closes at the British Museum | Exhibition free |
 
 <div data-big-events="2026-11"></div>
 
@@ -57,7 +56,7 @@ The first week was fireworks and ceremony. Ahead are Armistice Day and the Lord 
 
 Bookings are capped at 10 tickets, each ticket can only be used by the person who booked it, and the museum may check ID. The Tapestry room is open Sunday to Wednesday 10am to 6pm and Thursday to Saturday 10am to 9pm, later than the rest of the museum, and the visit takes about 40 minutes. A free audio guide is in the British Museum Audio app; bring your own headphones.
 
-**The women of the Bayeux Tapestry**, a talk on **20 November** (£50), falls in the month. Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the member rules and the scenes to look for, and the rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
+**The women of the Bayeux Tapestry**, a talk on **20 November** (£50), sold out in person. Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the member rules and the scenes to look for, and the rest of the museum is in our [British Museum guide](/articles/british-museum-guide/).
 
 ## Fireworks and ceremony
 
@@ -69,19 +68,11 @@ Bonfire Night was Thursday 5 November, and most displays moved to the weekend: *
 
 **Remembrance Sunday was 8 November**, the second Sunday in the month. The National Service of Remembrance is held at the Cenotaph in Whitehall each year, and the Royal British Legion's Cenotaph Parade follows. [Our Westminster walk](/articles/westminster-walk/) passes it.
 
-**Armistice Day is Wednesday 11 November**, with a Two Minute Silence at 11am.
+**Armistice Day was Wednesday 11 November**, with a Two Minute Silence at 11am.
 
 ### The Lord Mayor's Show — City of London, Saturday 14 November
 
-The procession is free, over three miles long and with more than 7,000 people in 2025. It sets off from **Mansion House at 11am** and goes to the Royal Courts of Justice by St Paul's, Cheapside and Fleet Street.
-
-The organiser's timetable puts the head of the procession at the Royal Courts by 11.26am. The return leg starts from Temple Place at **1.10pm** and comes back along the Embankment and Queen Victoria Street, with the Lord Mayor home at Mansion House at about 2.30pm.
-
-**For the full noise, stand between Bank and St Paul's from 11am; for room, take the Embankment after 1.15pm.** The organiser's advice is to get off at Mansion House, Cannon Street or Blackfriars rather than Bank or St Paul's. Almost the whole City is closed to traffic, and every bus route that normally crosses it turns back or goes round. There are no fireworks.
-
-St Paul's Cathedral marks the day with free entry to the Cathedral Floor and Crypt (last admission 4pm) and a £13.50 adult ticket for the Dome Galleries. See our [St Paul's Cathedral guide](/articles/st-pauls-cathedral-guide/).
-
-Our [City of London walk](/articles/city-of-london-walk/) fills the daylight left after the Show.
+The free procession, over three miles long, set off from **Mansion House at 11am** and went to the Royal Courts of Justice by St Paul's, Cheapside and Fleet Street, returning along the Embankment from 1.10pm. It runs on the second Saturday of November each year. Our [City of London walk](/articles/city-of-london-walk/) covers the route on any other day.
 
 ### Diwali: Sunday 8 November
 
@@ -99,15 +90,15 @@ The organiser's own listings are at [efglondonjazzfestival.org.uk](https://efglo
 
 ### The lights
 
-**Carnaby Street's lights went on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**, with the Spirit of Christmas angels back above the street. **Oxford Street's on Monday 9 November**, and **Bond Street and Covent Garden switch on on Thursday 12 November**, Bond Street with the street traffic-free from 4pm to 8pm. The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
+**Carnaby Street's lights went on on Wednesday 4 November**, and **Regent Street's on Thursday 5th**, with the Spirit of Christmas angels back above the street. **Oxford Street's on Monday 9 November**, and **Bond Street's and Covent Garden's on Thursday 12 November**. The [Christmas lights walk](/articles/christmas-lights-walk-london/) links them all in one evening, about 5km. Start at about 4.30pm.
 
 ### Rinks, markets and Winter Wonderland
 
-**Skate Leicester Square opened on Saturday 31 October, and Glide at Battersea Power Station on Friday 6 November.** Somerset House follows on **Wednesday 11th**, with adults at £13 to £28.50 and children at £11 to £15, plus £1.50 a ticket. The other rinks open from the 18th. [Our ice skating guide](/articles/ice-skating-london/) has every rink and what it costs.
+**Skate Leicester Square opened on Saturday 31 October, and Glide at Battersea Power Station on Friday 6 November.** Somerset House opened on **Wednesday 11th**, with adults at £13 to £28.50 and children at £11 to £15, plus £1.50 a ticket. The Queen's House in Greenwich opened on the 18th, Winter Wonderland's rink on the 19th and Hampton Court Palace's on the 20th. [Our ice skating guide](/articles/ice-skating-london/) has every rink and what it costs.
 
-**Hyde Park Winter Wonderland opens on Thursday 19 November and runs to 3 January 2027.** Entry is **£1 at off-peak sessions, Monday to Thursday through November**, with no booking fees, and everything inside is charged separately. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices. **Chelsea Winter Village & Illuminations**, a light trail at the Royal Hospital Chelsea, runs from **25 November to 28 December**. **Christmas at Kew** is on from 13 November. **King's Cross Winter Market**, new in 2026 and free to enter, fills Granary Square from **26 November to 3 January 2027**, with a bookable roller rink beside it.
+**Hyde Park Winter Wonderland opened on Thursday 19 November and runs to 3 January 2027.** Entry is **£1 at off-peak sessions, Monday to Thursday through November**, with no booking fees, and everything inside is charged separately. Our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the gates and prices. **Chelsea Winter Village & Illuminations**, a light trail at the Royal Hospital Chelsea, runs from **25 November to 28 December**. **Christmas at Kew** has run since 13 November, to 3 January. **King's Cross Winter Market**, new in 2026 and free to enter, fills Granary Square from **26 November to 3 January 2027**, with a bookable roller rink beside it.
 
-The chalet markets are in the [Christmas markets guide](/articles/christmas-markets-london/). Two ticketed shopping fairs are still to come: **Good Housekeeping Live with the Country Living Christmas Market** at the Business Design Centre (11 to 14 November) and the **Ideal Christmas Show** at Olympia (26 to 29 November).
+The chalet markets are in the [Christmas markets guide](/articles/christmas-markets-london/). The ticketed **Ideal Christmas Show** is at Olympia from 26 to 29 November.
 
 ### For children
 
@@ -118,10 +109,11 @@ The chalet markets are in the [Christmas markets guide](/articles/christmas-mark
 | Date | Game | Stadium |
 | --- | --- | --- |
 | Thursday 12 November | England v Croatia, UEFA Nations League | Wembley Stadium |
-| Saturday 14 November, 4.40pm | England v Japan, rugby union | Allianz Stadium, Twickenham |
-| Saturday 21 November, 2.10pm | England v New Zealand, rugby union | Allianz Stadium, Twickenham |
+| Saturday 14 November | England v Japan, rugby union | Allianz Stadium, Twickenham |
+| Saturday 21 November | England v New Zealand, rugby union | Allianz Stadium, Twickenham |
+| Friday 27 to Sunday 29 November | Nations Championship finals, two matches a day | Allianz Stadium, Twickenham |
 
-Rugby tickets are from £51 for Japan; the New Zealand game is sold out. Getting there is in our [Twickenham guide](/articles/twickenham-stadium-travel-guide/) and our [Wembley guide](/articles/wembley-stadium-arena-guide/).
+The finals weekend kicks off at 4.40pm and 8.10pm on the Friday, and at 1.10pm and 4.40pm on the Saturday and Sunday. Getting there is in our [Twickenham guide](/articles/twickenham-stadium-travel-guide/) and our [Wembley guide](/articles/wembley-stadium-arena-guide/).
 
 ## New in November: the London Museum at Smithfield
 
@@ -155,7 +147,7 @@ Still running through the month: **Korea** at the British Museum and **Renoir an
 
 ## Theatre
 
-**Opening:** **Julius Caesar** opened at the Sam Wanamaker Playhouse on **6 November** (to 14 February). Next is **Pride**, a new musical moving to the Bridge Theatre from the National, on **12 November** (to 8 May, from £30), **Nine Night** at the Kiln on the 12th (to 2 January), **One Day – The Musical** at the Garrick on **17 November** (to 14 March, from £33) and **Pinocchio** at Shakespeare's Globe on **28 November** (to 3 January).
+**Opening:** **Julius Caesar** opened at the Sam Wanamaker Playhouse on **6 November** (to 14 February), **Pride**, a new musical moving to the Bridge Theatre from the National, on **12 November** (to 8 May, from £30), **Nine Night** at the Kiln on the 12th (to 2 January) and **One Day – The Musical** at the Garrick on **17 November** (to 14 March, from £33). **Pinocchio** opens at Shakespeare's Globe on **28 November** (to 3 January).
 
 For the Christmas shows and pantos, see our [Christmas shows guide](/articles/christmas-shows-london/), and for everything else the [London theatre guide](/articles/london-theatre-guide/).
 
@@ -173,7 +165,7 @@ For the Christmas shows and pantos, see our [Christmas shows guide](/articles/ch
 
 **Rooftop bars change for winter.** Frank's Cafe, the Queen Elizabeth Hall Roof Garden and Roof East are closed until spring 2027, while Sabine, Radio Rooftop and Netil 360 stay open under cover or with heaters. Our [rooftop bars guide](/articles/best-rooftop-bars-london/) says which roofs are open.
 
-**Three awards nights fall in the month**: the Booker Prize winner is announced on Monday 9 November, the Royal Variety Performance is on Friday 20th and the Fashion Awards are on Monday 30th. The details are in our [awards ceremonies guide](/articles/award-ceremonies-london/).
+**Three awards nights fall in the month**: the Booker Prize winner was announced on Monday 9 November and the Royal Variety Performance was on Friday 20th; the Fashion Awards are on Monday 30th. The details are in our [awards ceremonies guide](/articles/award-ceremonies-london/).
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-november-family-favourites" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="174429,174549,174546"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
@@ -187,8 +179,6 @@ One evening pick a day: music, comedy, theatre, classical and dance, each at a d
 
 | Dates | Event it hits | What is closed |
 | --- | --- | --- |
-| Sat 14 and Sun 15 Nov | Lord Mayor's Show | The Northern line between Euston or Charing Cross and Morden or Battersea Power Station, which takes out Bank, London Bridge, Waterloo and Battersea Power Station; on Sunday until 10.15am there is also no Elizabeth line between Paddington and Abbey Wood or Stratford |
-| Sat 21 and Sun 22 Nov | Heathrow, Uxbridge and Stratford journeys | The Piccadilly line between Hammersmith and Heathrow or Uxbridge, with the Metropolitan line closed from Harrow-on-the-Hill to Uxbridge; the DLR is closed between Canning Town and Stratford International |
 | Sat 28 and Sun 29 Nov | London Museum opening | The Elizabeth line along its whole length, with Paddington closed and no Heathrow Express; the whole Hammersmith & City line; the Circle line between Hammersmith or High Street Kensington and Tower Hill, via King's Cross St Pancras; the Metropolitan line from Baker Street to Aldgate; and the District line from High Street Kensington to Edgware Road |
 
 **Thursday 26 November is also the first of eight 24-hour Tube drivers' strikes**, called by the RMT. It starts at noon ([RMT](https://www.rmt.org.uk/news/tube-drivers-to-take-eight-days-of-strike-action-over-attacks/)). The next are Thursday 17 and Saturday 19 December.
@@ -201,7 +191,7 @@ TfL updates these as the dates get closer, so check our [live tube status page](
 
 **Daylight.** Sunset is **4.35pm on 1 November**, **4.14pm on the 14th** and **3.57pm on the 30th**, with sunrise moving from 6.52am to 7.40am. Parks, viewpoints and river walks belong before 3pm by the end of the month.
 
-**Crowds.** There is no school holiday or bank holiday, so museums are quieter than in October's half term. The busy days are Saturday 14th and from the Winter Wonderland opening on the 19th.
+**Crowds.** There is no school holiday or bank holiday, so museums are quieter than in October's half term. Weekends are busier from the Winter Wonderland opening on the 19th.
 
 **Working out which month suits you best?** [Best time to visit London](/articles/best-time-to-visit-london/) compares November against the rest of the year, and [October's guide](/articles/things-to-do-in-london-in-october/) covers the month before.
 

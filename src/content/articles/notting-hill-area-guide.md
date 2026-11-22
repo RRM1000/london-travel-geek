@@ -74,6 +74,8 @@ heroImageAlt: "A terrace on Lancaster Road painted deep pink, white, blue and gr
 
 Notting Hill is a west London village of pastel terraces, antique arcades and a market that stretches for about a mile. This guide covers what is open when, which streets have the pastel houses, and the canal walk east to Little Venice.
 
+Portobello Road and Golborne Road are two of the streets ranked in our [best streets in London](/articles/best-streets-london/), with the day to go for each. For the food stalls on Portobello Road and under the Westway, see our [street food guide](/articles/best-street-food-london/#portobello-road-market-notting-hill).
+
 Notting Hill has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=notting-hill).
 
 ## Why visit — and who should skip it
@@ -175,6 +177,8 @@ Two short residential streets that appear constantly on social media — **St Lu
 | **Electric Diner** | American diner | ££ | Next to the Electric Cinema; good for a late lunch |
 
 A guided morning of bakeries, cafés and market bites is in our [food tours guide](/articles/london-food-tours/).
+
+Sumi on Westbourne Grove, Eel Sushi on Talbot Road and the six-seat Juno omakase behind Los Mochis are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
 
 ![The Distillery on Portobello Road, a corner building with a deep green ground floor and cream upper storeys](../../assets/articles/notting-hill-area-guide/the-distillery-portobello-road.jpg)
 

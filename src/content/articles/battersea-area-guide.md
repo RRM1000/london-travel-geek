@@ -186,7 +186,11 @@ South-west past the park is **old Battersea**, low-rise and unconnected to the r
 | **The Woodman** | Traditional pub | £ | Battersea High Street; the old Battersea, away from the development |
 | **Battersea Power Station market** | Street food | £ | Weekends on Electric Boulevard |
 
+Kibou on Northcote Road is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 At Christmas the Power Station adds a riverside skate trail and winter food huts in Malaysia Square; see our [London Christmas markets guide](/articles/christmas-markets-london/).
+
+Bread Street Kitchen and Street Pizza, both Gordon Ramsay restaurants at the Power Station, are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
 
 ## Getting there
 

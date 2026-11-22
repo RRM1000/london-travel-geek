@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Southbank_Christmas_Mar
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-11-16
-updatedAt: 2026-11-19
+updatedAt: 2026-11-22
 reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
@@ -138,7 +138,11 @@ Cross the river on the **Golden Jubilee footbridge**, the walkway alongside Hung
 
 ## 6. Trafalgar Square
 
-**The tree is lit on Thursday 3 December 2026.** It is a Norway spruce sent from Oslo, dressed only in vertical strings of white lights. From the lighting until Christmas Eve, charity choirs sing carols under it on most evenings, free to stand and listen. A single row of market chalets stands on the North Terrace in front of the National Gallery, opening in November and trading into early January.
+**The tree is lit on Thursday 3 December 2026.** It is a Norway spruce sent from Oslo, dressed only in vertical strings of white lights. From the lighting until Christmas Eve, charity choirs sing carols under it on most evenings, free to stand and listen. Market chalets and a bar stand on the North Terrace in front of the National Gallery, opening in November and trading into early January.
+
+![A crowd walking between lit market chalets on Trafalgar Square's North Terrace at night, with the National Gallery's dome behind](../../assets/articles/christmas-walk-london/trafalgar-square-market.jpg)
+
+*The market on the North Terrace.*
 
 This is where our [Christmas lights walk](/articles/christmas-lights-walk-london/#10-trafalgar-square) ends. Walk it another evening, or start it from here in reverse.
 
@@ -164,6 +168,10 @@ Five minutes west, past the National Portrait Gallery and up Charing Cross Road.
 
 **Chalets in the gardens around Skate Leicester Square**, Underbelly's ice rink, from **31 October 2026 to 3 January 2027**, every day except Christmas Day. The square's **star-shaped lights** are on until 6 January. The market is free. [Skating sessions](https://skateleicestersquare.co.uk/tickets/ice-skating/) last 45 minutes and **start at £10**; under-3s are not allowed on the ice, and children under 12 must skate with an adult. Some tickets are kept back for walk-ins each day, and the box office takes cards only.
 
+![A crowd at a lit Bratwurst chalet decorated with garlands in Leicester Square at night](../../assets/articles/christmas-walk-london/leicester-square-bratwurst.jpg)
+
+*The chalets in Leicester Square.*
+
 It is enclosed and crowded in the evenings, which is why this walk passes through in the late afternoon. The rink's hours by date are in our [ice skating guide](/articles/ice-skating-london/#leicester-square).
 
 ## 9. Covent Garden
@@ -171,6 +179,10 @@ It is enclosed and crowded in the evenings, which is why this walk passes throug
 From Leicester Square, take Cranbourn Street across St Martin's Lane into Long Acre, then turn right down James Street into the Piazza. About nine minutes.
 
 **A 50ft tree on the West Piazza** beside St Paul's Church, and **gold bells, mirror balls and baubles** hung inside the Market Building, lit since Thursday 12 November. There is no chalet market: the Apple Market and Jubilee Market Hall trade as they do all year. Every Thursday from 12 November is a Festive Thursday, with late-night shopping and performances, which also makes it the most crowded night.
+
+![The entrance to Covent Garden's Market Building at night, a lit wreath over its arch and two decorated Christmas trees on either side](../../assets/articles/christmas-walk-london/covent-garden-market-building.jpg)
+
+*The Market Building on the Piazza.*
 
 Our [Christmas lights walk](/articles/christmas-lights-walk-london/#9-covent-garden-the-tree-and-the-market-building) covers the Piazza after dark and the view over it from the Royal Opera House terrace bar.
 

@@ -470,7 +470,7 @@ GetYourGuide sells a <a href="https://www.getyourguide.com/activity/-t5275?partn
 * **Age limits vary widely.** Jazz Cafe, INCA, The Maine, The Piano Works and the drag brunches are 18+. Sarastro is over-14s from 7pm Thursday to Saturday, Boisdale's evening music 13+, the Thames cruises 13+. The London Cabaret Club takes children from 7, Mamma Mia! The Party and The Murdér Express from 5.
 * **Keep quiet in the jazz clubs.** Ronnie Scott's and the PizzaExpress rooms are listening rooms; to talk over the music, choose a restaurant from the second section.
 * **Dress up for the shows.** 58th Street asks for "1930s luxe", The London Cabaret Club for "smart elegance", INCA and The Maine for "smart elegant". The jazz clubs are smart casual, and the 606 turns away shorts.
-* **November is jazz month.** The EFG London Jazz Festival runs 13 to 22 November 2026; [our festival guide](/articles/london-jazz-festival/) has what is on where.
+* **November is jazz month.** The EFG London Jazz Festival runs 13 to 22 November 2026; [our festival guide](/articles/london-jazz-festival/) has what is on where. {until=2026-11-22}
 
 For a pre-theatre meal before a separate show, [our theatre guide](/articles/london-theatre-guide/) has the timings. For a celebration where the room counts for more than the entertainment, try [our special occasion restaurants](/articles/special-occasion-restaurants-london/), and for rooms where the building is the show, [London's most unusual restaurants](/articles/unusual-restaurants-london/).
 

@@ -184,6 +184,8 @@ A selection; the [full restaurant list](/articles/eat-in-london-guide/) has more
 | **Kaffeine** | Coffee | £ | 66 Great Titchfield Street | Australian-run, with a food counter beside the espresso bar |
 | **The Attendant** | Coffee | £ | 27a Foley Street | Inside a restored Victorian public lavatory; the urinals are the counter |
 
+Sushi Atelier on Great Portland Street and Kikuchi on Hanway Street are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 Meraki and The Life Goddess are both in our [Greek restaurants guide](/articles/best-greek-restaurants-london/). Cometa, and Mestizo, a mezcal bar just over Euston Road on Hampstead Road, are in the [Mexican restaurants guide](/articles/best-mexican-restaurants-london/).
 
 ### Pubs

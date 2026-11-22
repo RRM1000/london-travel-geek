@@ -3,7 +3,7 @@ title: "London Music Festivals 2027: Dates, Line-ups and Getting There"
 seoTitle: "London Festivals 2027: Dates, Line-ups, Tickets"
 description: "London festivals 2027 with dates: Field Day, Mighty Hoopla, BST Hyde Park (Bon Jovi, Muse, Raye), Kaleidoscope, All Points East, what is on sale, age rules."
 publishedAt: 2026-06-12
-updatedAt: 2026-11-19
+updatedAt: 2026-11-21
 reviewBy: 2026-12-14
 sites: [london]
 canonicalSite: london
@@ -41,7 +41,7 @@ Looking for 2027 stadium and arena concerts rather than festivals? See [London C
 | Mighty Hoopla | Brockwell Park, SE24 | **5–6 June** | 30–31 May |
 | Meltdown | Southbank Centre | **10–20 June** | 11–21 June |
 | Hampton Court Palace Festival | Hampton Court Palace | **15–27 June** | 10–20 June |
-| BST Hyde Park | Hyde Park | **24 June** (Bon Jovi), **26 June** (Muse) and **10 and 11 July** (Raye); rest not yet announced | 27 June – 12 July |
+| BST Hyde Park | Hyde Park | **24 June** (Bon Jovi), **26 June** (Muse), **3 July** (Billie Eilish) and **10 and 11 July** (Raye); rest not yet announced | 27 June – 12 July |
 | Embrace LDN | Finsbury Park | **2–4 July**, sold out | First edition |
 | Kaleidoscope | Alexandra Palace Park | **10 July** | 11 July |
 | Wireless | Not yet announced | Not yet announced | — |
@@ -115,7 +115,7 @@ Looking for 2027 stadium and arena concerts rather than festivals? See [London C
 
 *The Great Oak Stage, Hyde Park.*
 
-**Thursday 24 June 2027: Bon Jovi, on sale. Saturday 26 June 2027: Muse, on sale. Saturday 10 July 2027: Raye, sold out. Sunday 11 July 2027: Raye, extra date, on sale soon.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage. [Muse](https://www.bst-hydepark.com/events/muse-sat-26-june) play with Nothing But Thieves and CHVRCHES. [Raye](https://www.bst-hydepark.com/events/raye-sat-10-july), who won the 2026 Mercury Prize, plays her first BST show with special guest **Sienna Spiro**. Prices move with demand, so read the figure on each show's page. The rest of the 2027 line-up is still to come. In 2026 there were nine shows over three weekends, **27 June to 12 July**: **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. Between the weekends, BST's **Open House** fills the site with free events.
+**Thursday 24 June 2027: Bon Jovi, on sale. Saturday 26 June 2027: Muse, on sale. Saturday 3 July 2027: Billie Eilish, BST presale at 10am on Tuesday 24 November 2026 and general sale at 10am on Thursday 26 November. Saturday 10 July 2027: Raye, sold out. Sunday 11 July 2027: Raye, extra date, on sale soon.** [American Express presents BST Hyde Park](https://www.bst-hydepark.com/) is a run of one-headliner days on the Great Oak Stage. [Muse](https://www.bst-hydepark.com/events/muse-sat-26-june) play with Nothing But Thieves and CHVRCHES. [Raye](https://www.bst-hydepark.com/events/raye-sat-10-july), who won the 2026 Mercury Prize, plays her first BST show with special guest **Sienna Spiro**. Prices move with demand, so read the figure on each show's page. The rest of the 2027 line-up is still to come. In 2026 there were nine shows over three weekends, **27 June to 12 July**: **Garth Brooks** (65,000 people, his first UK show in almost 30 years), **ATEEZ**, **Maroon 5**, **Mumford & Sons**, **Duran Duran**, **Pitbull**, and **Lewis Capaldi** on two nights. Between the weekends, BST's **Open House** fills the site with free events.
 
 Every show is **standing only**. You can bring one bag no bigger than A4 and no chairs, and apart from an unopened bottle of water of up to 500ml, no food or drink. The bars and food stalls are cashless. Children aged **2 to 9** come in on a Child + Guardian ticket, sold as a pair, and **under-2s are free**. Shows finish by **10.30pm**, or **10pm on Sundays**. The stations are Hyde Park Corner, Knightsbridge, Green Park and Bond Street (Elizabeth line). Check for Piccadilly line closures before you go; in 2026 the whole line shut on the first weekend, closing Hyde Park Corner and Knightsbridge.
 

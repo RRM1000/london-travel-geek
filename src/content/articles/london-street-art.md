@@ -33,6 +33,8 @@ Most Banksy maps of London send you to walls where the work no longer exists. Pi
 
 **It covers two things.** The first half is Banksy: what survives, what has been removed, and the indoor collections showing work that has come off walls. The second half is the rest of London's street art, none of which needs a ticket.
 
+Brick Lane, where much of the second half sits, is also ranked in our [best streets in London](/articles/best-streets-london/).
+
 **Fifteen Banksys are still viewable as originals in situ**: the Cannon Street rat, the I Love London rat on Chiswell Street, the two Basquiat tributes, the two Foundry pieces now on the front of art'otel Hoxton, the Pink Car at the Old Truman Brewery, the Bermondsey fishing boy, the Royal Family in Stoke Newington, the Chelsea elephants, the Walthamstow pelicans, the Charlton rhino, the Finsbury Park tree, the Stargazing Children at Centre Point, and Blind Patriotism at Waterloo Place. Everything else has been removed, stolen, boarded over, scrubbed off or replaced with a replica.
 
 > 💡 **The Short Version:** **Ten of the fifteen are on one route**. Our [Banksy route](/articles/banksy-walk-london/) runs from **Blind Patriotism** at Waterloo Place to the **Royal Family** in Stoke Newington in about three and a half hours, with one Tube ride and one Overground train. The **2024 animal series** left work across the city, though six of the nine have gone. **Leake Street** is legal graffiti under Waterloo and repainted constantly. **Shoreditch** is the densest area.

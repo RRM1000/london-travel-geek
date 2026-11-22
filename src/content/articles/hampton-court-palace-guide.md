@@ -3,8 +3,8 @@ title: "Hampton Court Palace: Tickets, Prices and How to Get There"
 seoTitle: "Hampton Court Palace 2026: Tickets, Prices & Hours"
 description: "Historic Royal Palaces' own 2026 prices for Hampton Court: adult tickets from £30 off-peak to £36 over Christmas, the train from Waterloo in 35 minutes, and what's included — the maze, the Tudor Kitchens and the Great Vine."
 publishedAt: 2026-06-21
-updatedAt: 2026-11-01
-reviewBy: 2026-11-24
+updatedAt: 2026-11-21
+reviewBy: 2027-01-04
 sites:
   - london
 canonicalSite: london
@@ -26,7 +26,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
 faq:
   - q: "How much are tickets to Hampton Court Palace?"
-    a: "Until 27 November 2026 an adult ticket is £30.00 online off-peak (weekdays) or £33.00 peak (weekends and bank holidays). Winter Palace tickets from 28 November to 3 January are £33.00 off-peak or £36.00 peak, and off-peak applies only on 2–3, 9–10 and 16–17 December. Children aged 5–17 are £15.00–£16.50 (£16.50–£18.00 in the Winter Palace period), and under-5s are free. Senior, student and disabled-concession tickets are £24.30–£26.30. An optional 10% donation is added at checkout."
+    a: "On standard pricing, which runs to 27 November 2026, an adult ticket is £30.00 online off-peak (weekdays) or £33.00 peak (weekends and bank holidays). From 28 November 2026 to 3 January 2027 Winter Palace tickets apply: £33.00 off-peak or £36.00 peak, with off-peak only on 2–3, 9–10 and 16–17 December. Children aged 5–17 are £15.00–£16.50 on standard pricing and £16.50–£18.00 in the Winter Palace period, and under-5s are free. Senior, student and disabled-concession tickets are £24.30–£26.30. An optional 10% donation is added at checkout."
   - q: "How long do you need at Hampton Court Palace?"
     a: "Historic Royal Palaces recommends at least three hours to see the state rooms and gardens, and four hours or more if you want the maze, the Great Vine and a proper walk through the grounds. The palace suggests a two-hour, three-hour and full-day route."
   - q: "How do you get to Hampton Court Palace from London?"
@@ -46,7 +46,7 @@ Hampton Court Palace is two palaces at one address on the Thames in East Molesey
 Allow longer than you think. The Tudor Kitchens cover half an acre, the gardens run to 60 acres, and the hedge maze has been catching visitors out since the 1690s. As a two-hour add-on to a day in London you will rush past most of it.
 
 > 💡 **The Short Version:**
-> - **Price:** Adult £30.00 online off-peak / £33.00 peak until 27 November 2026. Children (5–17) £15.00–£16.50; under-5s free. An optional 10% donation is added at checkout. Book direct through [Historic Royal Palaces](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/) or buy it with an audio guide through <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-entry-ticket-with-audio-guide-t1498698/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Entry Ticket with Audio Guide on GetYourGuide</a>, from £30pp.
+> - **Price:** Adult £30.00 online off-peak / £33.00 peak to 27 November 2026, then £33.00 / £36.00 from 28 November 2026 to 3 January 2027, when the Winter Palace is included. Children (5–17) £15.00–£16.50, then £16.50–£18.00; under-5s free. An optional 10% donation is added at checkout. Book direct through [Historic Royal Palaces](https://www.hrp.org.uk/hampton-court-palace/visit/tickets-and-prices/) or buy it with an audio guide through <a href="https://www.getyourguide.com/london-l57/hampton-court-palace-entry-ticket-with-audio-guide-t1498698/?partner_id=WWP7I0R&cmp=hampton-court-palace-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">Hampton Court Palace Entry Ticket with Audio Guide on GetYourGuide</a>, from £30pp.
 > - **Getting there:** South Western Railway direct from **London Waterloo**, **35 minutes**, **Zone 6**, two trains an hour. In summer, a **riverboat from Westminster or Richmond** takes far longer but is part of the day out.
 > - **Time needed:** **at least three hours**, four or more with the gardens and maze.
 > - **What's included:** The maze, the Tudor Kitchens, the Privy Garden and the Magic Garden come with standard admission. The Great Vine and Sunken Garden are closed 26 October–23 November.

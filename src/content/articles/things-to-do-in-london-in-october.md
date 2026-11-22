@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:Autumn_Colours_in_Hyde
 heroImageLicense: "CC BY-SA 2.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/2.0/"
 publishedAt: 2026-09-10
-updatedAt: 2026-11-09
-reviewBy: 2026-11-11
+updatedAt: 2026-11-21
+reviewBy: 2027-08-01
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -217,17 +217,9 @@ Alexandra Palace carried the end of the month: **Overmono on 28 October**, and *
 
 ## Looking ahead to November and December
 
-The full month is in our [Things to Do in London in November](/articles/things-to-do-in-london-in-november/).
+[Things to Do in London in November](/articles/things-to-do-in-london-in-november/) covers the month that follows: Bonfire Night, Remembrance, the EFG London Jazz Festival (13 to 22 November 2026) and England's autumn internationals at Twickenham and Wembley.
 
-**Bonfire Night** is Thursday **5 November**, but most of the big displays, Alexandra Palace and Battersea Park among them, are on **Saturday 7 November**, and both are on sale. Every display, which of them need tickets, and the free viewpoints are in our [Bonfire Night guide](/articles/bonfire-night-london/).
-
-**Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027**, and advance entry is **£1** for off-peak slots and **£8.25** at peak, with everything inside, including rides, the ice rink and the circus, charged separately. Full prices and gates are in our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/). Dates and prices for Somerset House's rink and the other outdoor rinks are in our [London ice skating guide](/articles/ice-skating-london/).
-
-**The EFG London Jazz Festival** runs **13 to 22 November 2026** across 83 venues, from the Royal Festival Hall to basement clubs in Dalston and Chelsea. Forty-four of the 348 shows listed on 26 October are free and tickets otherwise start at £5; some, such as Coltrane 100 at the Barbican on 13 November, had already sold out, so book before you arrive. See our [London Jazz Festival guide](/articles/london-jazz-festival/).
-
-**Christmas in London** starts earlier than most people expect: Kingston's Christmas market opens on **12 November** and the Trafalgar Square tree is lit on **3 December**. Every market's dates and hours are in our [London Christmas markets guide](/articles/christmas-markets-london/), and the light switch-ons are in our [Christmas in London guide](/articles/christmas-in-london/).
-
-**November is the big month for international sport.** England's men play three Nations Championship matches at Allianz Stadium, Twickenham: **Australia on Sunday 8 November** and **Japan on Saturday 14 November**, with tickets from £79 and £51, then **New Zealand on Saturday 21 November**, which has sold out. England's footballers play **Croatia at Wembley on Thursday 12 November**.
+**Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027**, with timed entry from **£1** off-peak in November and everything inside charged separately; our [Winter Wonderland guide](/articles/hyde-park-winter-wonderland/) has the prices. The Trafalgar Square tree is lit on **3 December**. The markets are in our [London Christmas markets guide](/articles/christmas-markets-london/), the rinks in our [ice skating guide](/articles/ice-skating-london/) and the rest of the season in [Christmas in London](/articles/christmas-in-london/).
 
 ## Practical: October in London
 

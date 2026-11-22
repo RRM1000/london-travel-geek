@@ -75,6 +75,8 @@ Covent Garden is a former fruit and vegetable market turned pedestrian district,
 
 Soho is eight minutes west and the [British Museum](/articles/british-museum-guide/) twelve minutes north. The [National Gallery](/articles/national-gallery-guide/) on Trafalgar Square is within ten minutes' walk.
 
+Neal's Yard and Seven Dials are ranked in our [best streets in London](/articles/best-streets-london/).
+
 Covent Garden has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=covent-garden).
 
 ## Why visit — and who should skip it
@@ -213,6 +215,8 @@ TKTS in Leicester Square, five minutes west, sells same-day discounted tickets; 
 | **Rules** | Traditional British | £££ | Open since 1798 |
 | **Monmouth Coffee** | Coffee | £ | The original Monmouth Street shop; queues out the door at weekends |
 
+Ukiyo Handroll Bar on Slingsby Place is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 For dinner with a show, Oriole, Louie and Sarastro all have live music at the table. [Dinner and a Show in London](/articles/dinner-and-a-show-london/) says which nights and what it adds to the bill.
 
 Bunga 90 on Drury Lane has three private karaoke rooms and karaoke at the bar, open until 3am on Fridays and Saturdays. It is in our [karaoke guide](/articles/best-karaoke-london/).
@@ -220,6 +224,10 @@ Bunga 90 on Drury Lane has three private karaoke rooms and karaoke at the bar, o
 Fatt Pundit on Maiden Lane cooks Kolkata's Indo-Chinese food, and SUSHISAMBA has a site on top of the Market Building. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
 Archive & Myth is reached through the Magic Mike Live entrance of the Hippodrome Casino on Cranbourn Street, and Blind Spot is the hotel bar St Martins Lane calls "a secret bar". [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has the directions.
+
+To watch the match, Bloodsports on Endell Street has more than 30 screens and opens until 2am, The Porterhouse on Maiden Lane has 18, and The Maple Leaf next door is a Canadian bar for ice hockey; all three are in our [sports bars guide](/articles/best-sports-bars-london/).
+
+The Savoy on the Strand has three Gordon Ramsay restaurants, Savoy Grill, Restaurant 1890 and The River Restaurant; all three are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
 
 ## Getting there
 

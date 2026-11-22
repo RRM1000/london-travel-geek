@@ -30,7 +30,7 @@ Every shop below is placed by how many independent awards, critics and reviewers
 > 💡 **The Short Version:** **Poppies** is the most-cited chippy in London. **The Fryer's Delight** is the one that still fries in beef dripping. **Brockley's Rock** and **Stones** were the only London shops on the 2026 award shortlist, and Brockley's Rock reached the final ten. **Michael's Fish Bar** is Time Out's number one and costs half what the centre does. **Nautilus** fries in matzo meal. And **Masters Superfish** near Waterloo is the biggest portion for the money.
 
 > 📊 **The evidence behind this guide.**
-> **13 sources carrying 137 citations** across **58 named chippies**. **24 are named by two or more independent sources; 2 carry a dated award.**
+> **13 sources carrying 137 citations** across **57 named chippies**. **23 are named by two or more independent sources; 2 carry a dated award.**
 > **Built on:** the National Fish and Chip Awards; Time Out and DesignMyNight; specialist blogs; YouTube.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -57,7 +57,7 @@ Every shop below is placed by how many independent awards, critics and reviewers
 | **Waterloo & South Bank** | Masters Superfish, Fishcotheque |
 | **Shoreditch & Spitalfields** | Poppies, Shoreditch Fish and Chips |
 | **Hackney & Dalston** | Sutton & Sons, Faulkners |
-| **North London** | Nautilus (West Hampstead), Toff's (Muswell Hill), Mickey's Chippy (Stoke Newington) |
+| **North London** | Nautilus (West Hampstead), Toff's (Muswell Hill), Micky's Chippy (Stoke Newington) |
 | **South London** | Ken's Fish Bar (Herne Hill), Fish Lounge (Clapham), Brockley's Rock (Brockley) |
 | **Greenwich** | The Golden Chippy |
 | **East London** | Michael's Fish Bar (Leytonstone) |
@@ -112,6 +112,7 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus **jellied eels
 **££, walk-in**, though the Spitalfields site takes bookings for larger tables. Eight sources name it, the most of any chippy in the guide.
 
 ![The Poppie's Fish & Chips shopfront in Spitalfields, gold lettering on a blue fascia over a navy awning](../../assets/articles/best-fish-and-chips-london/poppies-spitalfields.jpg)
+*Poppies in Spitalfields.*
 
 ### The Fryer's Delight, Bloomsbury
 
@@ -138,12 +139,8 @@ Cod, haddock and rock in a light batter with hand-cut chips, plus **jellied eels
 **Open since 1914**, with the **original art deco fryer still standing in the room**, no longer used.
 
 Cod and haddock in a light batter, and **grilled fish for anyone who does not want it fried**, which most chippies will not do. Hand-cut chips, mushy peas, and homemade fishcakes that regulars order instead of the fillet.
-![Fish Central in London](../../assets/articles/best-fish-and-chips-london/fish-central.jpg)
 
 **££, walk-in, and BYO**: no licence, so bring a bottle. A sit-down room rather than a counter, and quieter at lunch than dinner.
-*Fish Central.*
-
-*££ · Clerkenwell · 11 min from Old Street · Cited by 7 sources · #9, Time Out*
 
 ### The Seashell of Lisson Grove, Marylebone
 
@@ -200,14 +197,15 @@ Sustainably sourced cod and haddock in a light batter, hand-cut chips fried in g
 **Prawns and bread and butter arrive unasked while you wait**, the house tradition. The **mushy peas** are the ones people write about, and the cod comes in a batter that shatters. **Portions are large enough that the small is usually the right order.**
 
 **££, walk-in, closed Sunday and Monday.** A sit-down room.
-![Toff’s of Muswell Hill in London](../../assets/articles/best-fish-and-chips-london/toffs.jpg)
 
 ### Toff's, Muswell Hill
-*Toff’s of Muswell Hill.*
 
 *££ · Muswell Hill · Cited by 4 sources · #16, Time Out*
 
 **Muswell Hill family chippy**, run by the same family since 1988.
+
+![Battered fish and chips with mushy peas, buttered bread and a Cornish pasty on a table at Toff's](../../assets/articles/best-fish-and-chips-london/toffs.jpg)
+*Fish and chips at Toff's.*
 
 Fish is bought daily and fried to order in a light batter, with **grilled and matzo-meal options** alongside. Cod, haddock, plaice and skate, with chips.
 
@@ -231,7 +229,7 @@ Time Out ranks eighteen London chippies, and its number one is **Michael's Fish 
 | **#6** | The Fryer's Delight, Bloomsbury | 7 sources |
 | **#7** | Ken's Fish Bar, Herne Hill | 4 sources |
 | **#8** | Sutton & Sons, Hackney | 5 sources |
-| **#10** | Mickey's Chippy, Stoke Newington | 3 sources |
+| **#10** | Micky's Chippy, Stoke Newington | 3 sources |
 | **#11** | Faulkners, Dalston | 1 source |
 
 Where the two rankings line up (The Fryer's Delight and The Seashell) you can be fairly confident.
@@ -286,9 +284,9 @@ Cod and haddock in a crisp batter, chips, and the standard sides. No restaurant 
 
 **£, walk-in, closed Sunday.** A full portion still leaves change from a tenner in most weeks. A few minutes from the station and the Sunday market, so combine the two.
 
-### Mickey's Chippy, Stoke Newington
+### Micky's Chippy, Stoke Newington
 
-![Micky's Chippy in London](../../assets/articles/best-fish-and-chips-london/mickeys-chippy.jpg)
+![The lit Micky's Chippy sign over the shopfront at night](../../assets/articles/best-fish-and-chips-london/mickeys-chippy.jpg)
 
 *Micky's Chippy.*
 

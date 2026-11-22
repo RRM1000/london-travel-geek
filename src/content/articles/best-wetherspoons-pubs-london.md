@@ -198,6 +198,7 @@ For a sit-down Sunday lunch, our [best Sunday roast guide](/articles/best-sunday
 
 ## Continue planning your London trip
 
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🇬🇧 **[Classic British Food in London](/articles/classic-british-food-london/)** — Scotch eggs, pie and mash, sausage rolls and proper puddings, dish by dish.
 - 🍺 **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
 - 🍻 **[The Best Craft Beer Pubs in London](/articles/best-craft-beer-pubs-london/)**

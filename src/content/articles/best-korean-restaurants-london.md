@@ -300,6 +300,7 @@ On the Korean side: **bibimbap** in a hot stone bowl, where the rice crisps agai
 - 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — Jihwaja's noraebang rooms in Vauxhall and the other KTV rooms
 - 🥟 **[Best Chinese and East Asian Restaurants](/articles/best-chinese-east-asian-restaurants-london/)**
 - 🇯🇵 **[Best Japanese Restaurants in London](/articles/best-japanese-restaurants-london/)**
+- 🍣 **[The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/)**
 - 🌶️ **[Best Thai Restaurants in London](/articles/best-thai-restaurants-london/)**
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
 - 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — Korean barbecue buffets at Keonbae and 113 K-BBQ

@@ -9,7 +9,7 @@ heroImageSource: "https://www.pexels.com/photo/vibrant-japanese-sushi-bar-interi
 heroImageLicense: "Pexels License"
 heroImageLicenseUrl: "https://www.pexels.com/license/"
 publishedAt: 2026-09-09
-updatedAt: 2026-10-26
+updatedAt: 2026-11-22
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -31,7 +31,7 @@ faq:
 
 Japanese food in London splits by **format**, not by price. A seven-seat sushi counter, a charcoal yakitori grill, an izakaya built for drinking and a ramen shop are four different evenings.
 
-> 💡 **The Short Version:** **Sushi Tetsu** has seven seats and its booking windows sell out in minutes. **Sushi Atelier** is the value omakase counter, from about £60. **Roka** and **Zuma** are the robata-grill izakaya. **Jin Kichi** in Hampstead does charcoal yakitori. **Umu** serves Kyoto-style kaiseki.
+> 💡 **The Short Version:** **Sushi Tetsu** has seven seats and its booking windows sell out in minutes. **Sushi Atelier** is the value omakase counter, from about £60. **Roka** and **Zuma** are the robata-grill izakaya. **Jin Kichi** in Hampstead does charcoal yakitori. **Umu** serves Kyoto-style kaiseki. Sushi and ramen each have a full guide of their own: [the best sushi restaurants](/articles/best-sushi-restaurants-london/) and [the best ramen](/articles/best-ramen-london/).
 
 > 📊 **The evidence behind this guide.**
 > **12 sources carrying 163 citations** across **116 named restaurants**. **27 restaurants are named by two or more independent sources; 5 hold a Michelin star.**
@@ -49,7 +49,8 @@ Japanese food in London splits by **format**, not by price. A seven-seat sushi c
 | **Soho & Piccadilly** | Engawa |
 | **Chelsea & Kensington** | Dinings SW3, Akira at Japan House |
 | **The City** | SUSHISAMBA |
-| **Bloomsbury & Holborn** | Koya Ko, Cocoro |
+| **Bloomsbury & Holborn** | Cocoro |
+| **Hackney** | Koya Ko (Broadway Market) |
 | **Islington & north** | Jin Kichi (Hampstead), Monohon Ramen |
 | **Covent Garden** | Kanada-Ya |
 | **South London** | Kurisu Omakase (Brixton) |
@@ -60,7 +61,7 @@ Japanese food in London splits by **format**, not by price. A seven-seat sushi c
 
 ## The omakase counters
 
-Omakase means the chef chooses: you sit at the counter and courses arrive in sequence.
+Omakase means the chef chooses: you sit at the counter and courses arrive in sequence. These five are the counters a first visit usually picks from. The rest, from £24 sets in Angel to the handroll bars and Soho's conveyor belt, are in [The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/).
 
 ### Sushi Tetsu, Clerkenwell
 
@@ -91,12 +92,13 @@ Edomae sushi: nigiri only, aged and cured to the chef's timing, served piece by 
 
 ### Sushi Kanesaka, Mayfair
 
-*££££ · 45 Park Lane · thirteen covers · Two Michelin stars, 2026 guide* · Cited by 4 sources
-![Sushi Kanesaka in London](../../assets/articles/best-japanese-restaurants-london/sushi-kanesaka.jpg)
-
-*Sushi Kanesaka.*
+*££££ · 45 Park Lane · thirteen covers · One Michelin star, 2026 guide* · Cited by 4 sources
 
 **Thirteen covers inside 45 Park Lane** — nine at the counter, four in a private room — doing **omakase only**, brought over from the Tokyo original, which opened here in July 2023.
+
+![The hinoki counter at Sushi Kanesaka, laid with red lacquer trays](../../assets/articles/best-japanese-restaurants-london/sushi-kanesaka.jpg)
+
+*The counter at Sushi Kanesaka.*
 
 **No à la carte.** The chef sets the sequence and the pace: nigiri on fish flown in and aged on site, rice seasoned to the Tokyo house style, served one piece at a time across the hinoki counter.
 
@@ -166,11 +168,12 @@ Kobe is served several ways across a set menu: seared on a hot stone at the tabl
 ### Dinings SW3, Chelsea
 
 *££££ · izakaya plates and a courtyard* · Cited by 5 sources
-![Dinings SW3 in London](../../assets/articles/best-japanese-restaurants-london/dinings-sw3.jpg)
-
-*Dinings SW3.*
 
 **The most-cited Japanese room in this guide, with five sources** — izakaya-scale plates with sushi-counter finish, and **a courtyard**.
+
+![The courtyard at Dinings SW3, tables under white parasols against a screen of bamboo](../../assets/articles/best-japanese-restaurants-london/dinings-sw3.jpg)
+
+*The courtyard at Dinings SW3.*
 
 The format is small plates rather than a set sequence: **tar tar chips** (spicy tuna on crisp discs), seared scallops, black cod, and nigiri from the same kitchen.
 
@@ -315,16 +318,14 @@ Order the **tonkotsu ramen**: pork-bone broth boiled until it turns opaque, thin
 **Ramen with the noodles made in house every day**, named by four independent sources.
 
 The core bowls are **shouyu tonkotsu** (soy seasoning in a creamy pork-bone soup) and a spicy version, with soupless **abura soba** and mazemen on the menu too.
-![Ramo Ramen - Soho in London](../../assets/articles/best-japanese-restaurants-london/ramo-ramen.jpg)
 
 **£, walk-in only.** Old Street.
-*Ramo Ramen - Soho.*
 
-### Koya Ko, Bloomsbury
+### Koya Ko, Hackney
 
-![Koya Japanese Restaurant Hackney in London](../../assets/articles/best-japanese-restaurants-london/koya-ko.jpg)
+![Diners at red pavement tables under blue and white striped awnings outside Koya Ko](../../assets/articles/best-japanese-restaurants-london/koya-ko.jpg)
 
-*Koya Japanese Restaurant Hackney.*
+*Koya Ko on Broadway Market Mews.*
 
 *£ · udon* · Cited by 2 sources
 
@@ -332,7 +333,7 @@ The core bowls are **shouyu tonkotsu** (soy seasoning in a creamy pork-bone soup
 
 The udon is made in-house and cut by hand. The classic order is **kake udon**, hot dashi and nothing else. **Kamatama**, the raw-egg version, and a walnut miso are the two to try after it.
 
-**£, walk-in.** There are several Koya sites; this one and the Broadway Market outpost avoid the Soho queue.
+**£, walk-in.** Koya Ko, at 10–12 Broadway Market Mews, is the casual sister of Koya's Soho and City restaurants, and has none of the Soho queue.
 
 ### Cocoro, Bloomsbury
 
@@ -357,7 +358,7 @@ Neither sushi counter nor ramen shop: **everyday Japanese home cooking**.
 #### Under £15
 
 * **Kanada-Ya**, Covent Garden — eighteen-hour tonkotsu ramen.
-* **Koya Ko**, Bloomsbury — hand-cut udon, with a cheaper breakfast service.
+* **Koya Ko**, Hackney — hand-cut udon on Broadway Market Mews.
 * **Marugame Udon** — a canteen where you walk the line watching the noodles being cut, under £12, with sites across London.
 * **Monohon** and **Tonkotsu** — ramen at around the same money.
 
@@ -388,6 +389,8 @@ Neither sushi counter nor ramen shop: **everyday Japanese home cooking**.
 
 ## Continue planning your London trip
 
+- 🍣 **[The Best Sushi Restaurants in London](/articles/best-sushi-restaurants-london/)** — omakase counters, à la carte rooms, handroll bars and cheap counters
+- 🍜 **[The Best Ramen in London](/articles/best-ramen-london/)** — tonkotsu, chicken broth and brothless bowls, with prices and which shops take bookings
 - 🔀 **[The Best Fusion Restaurants in London](/articles/best-fusion-restaurants-london/)** — Japanese-Italian, Mexican-Japanese and the Nikkei rooms
 - 🇵🇪 **[The Best Peruvian Restaurants in London](/articles/best-peruvian-restaurants-london/)** — the Nikkei rooms, and the Peruvian side of that menu
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
