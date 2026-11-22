@@ -215,6 +215,10 @@ Behind Waterloo station, five minutes off the tourist route.
 
 *The Southbank Centre Food Market.*
 
+To watch the match, Flat Iron Square on Southwark Street has screens inside and out, and Redwood is inside London Bridge station; both are in our [sports bars guide](/articles/best-sports-bars-london/).
+
+Gordon Ramsay at Sea Containers, on the river in the Sea Containers hotel, opened in September 2026; it is in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
+
 ## Getting there
 
 **By Tube and rail.** **Waterloo** (Jubilee, Northern, Bakerloo, National Rail) serves the western end. **Southwark** (Jubilee) is closest to Tate Modern. **London Bridge** (Jubilee, Northern, National Rail) serves Borough Market and the eastern end.

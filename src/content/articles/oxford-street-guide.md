@@ -29,6 +29,8 @@ heroImageAlt: "People walking down the middle of the road on traffic-free Oxford
 
 > 💡 **The Short Version:** Since **Monday 26 October 2026**, no cars, buses, taxis, bicycles, e-scooters or pedicabs are allowed on **Oxford Street from Orchard Street (Selfridges) to Great Portland Street**, nearly a kilometre. Come by Tube: **Bond Street** for Selfridges and John Lewis, **Oxford Circus** for the east end, **Tottenham Court Road** for the new **Harry Potter Shop**. Go on a weekday morning, and turn off the street for the lanes and squares either side of it.
 
+Oxford Street is one of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 *Closure, bus and shop details as of 31 October 2026.*
 
 ## What changed on 26 October 2026

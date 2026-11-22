@@ -404,6 +404,7 @@ If you want a defensible answer to "which is oldest": **The Seven Stars** has th
 
 ## Continue planning your London trip
 
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🍻 **[The Most Beautiful Pubs in London](/articles/most-beautiful-pubs-london/)**
 - 🎄 **[Christmas Pubs in London](/articles/christmas-pubs-london/)** — the George, the Mayflower, the Spaniards Inn and the Cheshire Cheese in December
 - 🍽️ **[The Best Gastropubs in London](/articles/best-gastropubs-london/)**

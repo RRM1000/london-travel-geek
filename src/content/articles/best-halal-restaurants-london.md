@@ -1,5 +1,5 @@
 ---
-title: "Halal Restaurants in London, Checked Against What Each Kitchen Actually Says"
+title: "Halal Restaurants in London: Certified, Halal-Sourced or Halal Options"
 seoTitle: "Best Halal Restaurants London 2026: Verified Status"
 description: "Eight published lists name 132 places between them. This guide checked the halal status of each one at the restaurant rather than the listicle — and the three most-cited names are not what the lists imply."
 publishedAt: 2026-09-24

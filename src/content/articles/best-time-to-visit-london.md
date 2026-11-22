@@ -9,8 +9,8 @@ heroImageSource: "https://commons.wikimedia.org/wiki/File:London%27s_Skyline_fro
 heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: "https://creativecommons.org/licenses/by-sa/4.0"
 publishedAt: 2026-09-18
-updatedAt: 2026-10-26
-reviewBy: 2026-11-20
+updatedAt: 2026-11-21
+reviewBy: 2026-12-15
 sites: [london]
 canonicalSite: london
 category: "Plan your trip"
@@ -77,7 +77,7 @@ Averages are the Met Office's 1991-2020 normals for **Heathrow**. Sunrise and su
 ![People in winter coats walking past snow-topped wooden food chalets lit up at dusk at Hyde Park Winter Wonderland](../../assets/articles/best-time-to-visit-london/winter-wonderland-food-stalls.jpg)
 *Hyde Park Winter Wonderland at dusk.*
 
-**January:** schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day (**Friday 1 January 2027**). The average high is 8°C. Our [January guide](/articles/things-to-do-in-london-in-january/) has the Parade, the end of the Christmas season and the month's openings.
+**January:** schools are back by **4 January 2027**, there's no half term, and the only bank holiday is New Year's Day (**Friday 1 January 2027**). The average high is 8°C. Our [January guide](/articles/things-to-do-in-london-in-january/) has the Parade, the end of the Christmas season and the month's openings.
 
 **February** averages 9°C and 76 hours of sunshine, against January's 59. Half term, **15-19 February 2027**, briefly refills the big family attractions. **Lunar New Year's Day falls on Saturday 6 February 2027**, the start of the Year of the Goat; Chinatown's celebrations run from 6 to 20 February. Our [February guide](/articles/things-to-do-in-london-in-february/) has the month, and the [February half-term guide](/articles/february-half-term-london/) covers the family week.
 
@@ -116,7 +116,7 @@ Averages are the Met Office's 1991-2020 normals for **Heathrow**. Sunrise and su
 ![A scarlet tree reflected in a pond in Isabella Plantation, Richmond Park, with yellow and orange trees around it](../../assets/articles/best-time-to-visit-london/richmond-park-autumn-foliage.jpg)
 *Isabella Plantation, Richmond Park.*
 
-**November is the wettest month (67mm) and one of the darkest**, with daylight down to under 9 hours by mid-month. **Bonfire Night is on 5 November**, and **Hyde Park Winter Wonderland opens on 19 November 2026**, running to 3 January. In between, the [EFG London Jazz Festival](/articles/london-jazz-festival/) takes over 82 venues from **13 to 22 November**, with 19 of its concerts free. Beyond the fireworks displays it's one of the quieter months for crowds, with no half term and no bank holiday. Our [November guide](/articles/things-to-do-in-london-in-november/) has the dates, exhibitions and openings.
+**November is the wettest month (67mm) and one of the darkest**, with daylight down to under 9 hours by mid-month. **Bonfire Night is on 5 November**, and **Hyde Park Winter Wonderland runs from 19 November 2026 to 3 January 2027**. In between, the [EFG London Jazz Festival](/articles/london-jazz-festival/) takes over 82 venues from **13 to 22 November**, with 19 of its concerts free. Beyond the fireworks displays it's one of the quieter months for crowds, with no half term and no bank holiday. Our [November guide](/articles/things-to-do-in-london-in-november/) has the dates, exhibitions and openings.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-time-to-visit-london-river-and-views" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="71379,439425,24625"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

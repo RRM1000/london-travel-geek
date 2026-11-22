@@ -3,7 +3,7 @@ title: "London Concerts 2027: Every Stadium, Arena and Park Gig Announced"
 seoTitle: "London Concerts 2027: Stadium, Arena and Park Gigs"
 description: "The big London gigs announced for 2027: Harry Styles, Sam Fender, Noah Kahan and Slipknot at Wembley, U2 and Fall Out Boy at Tottenham, Fontaines D.C. at London Stadium, BST Hyde Park, and Olivia Rodrigo's eleven nights at The O2, with dates, on-sale status and how to get home."
 publishedAt: 2026-11-14
-updatedAt: 2026-11-14
+updatedAt: 2026-11-21
 reviewBy: 2026-12-12
 sites: [london]
 canonicalSite: london
@@ -34,11 +34,12 @@ heroImageAlt: "Wembley Stadium's glass front and arch seen from the foot of the 
 | Fri 18 and Sun 20 June, Thu 2 September | **Sam Fender**, Proper Massive Stadium Tour | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Sam-Fender): on general sale since 30 October 2026 |
 | Thu 24 June | **Bon Jovi** | BST Hyde Park | [BST Hyde Park](https://www.bst-hydepark.com/events/bon-jovi-thurs-24-june): on sale |
 | Sat 26 June | **Muse**, with Nothing But Thieves and CHVRCHES | BST Hyde Park | [BST Hyde Park](https://www.bst-hydepark.com/events/muse-sat-26-june): on sale |
+| Sat 3 July | **Billie Eilish** | BST Hyde Park | [BST Hyde Park](https://www.bst-hydepark.com/events/billie-eilish-sat-3-july): BST presale 10am, Tuesday 24 November 2026; general sale 10am, Thursday 26 November |
 | Sat 3 July | **Slipknot**, (sic)est Stadium Tour | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Slipknot): on general sale since 2 October 2026 |
 | Tue 6 July | **Karol G** | Tottenham Hotspur Stadium | [Tottenham Hotspur Stadium](https://www.tottenhamhotspurstadium.com/events/1021367/karol-g): on sale since 30 April 2026 |
 | Fri 9 July | **Fontaines D.C.**, with Little Simz | London Stadium | [London Stadium](https://www.london-stadium.com/news/2026/september/fontaines-d-c-summer-2027.html): on general sale since 10 September 2026 |
 | Sat 10 July | **Raye**, with Sienna Spiro | BST Hyde Park | [BST Hyde Park](https://www.bst-hydepark.com/events/raye-sat-10-july): sold out |
-| Tue 13 July | **Stray Kids**, Run It London | Tottenham Hotspur Stadium | [Tottenham Hotspur Stadium](https://www.tottenhamhotspurstadium.com/events/1184882/stray-kids): on sale 3pm, Thursday 19 November 2026 |
+| Tue 13 July | **Stray Kids**, Run It London | Tottenham Hotspur Stadium | [Tottenham Hotspur Stadium](https://www.tottenhamhotspurstadium.com/events/1184882/stray-kids): on sale since 3pm, Thursday 19 November 2026 |
 | Fri 23, Sat 24 and Sun 25 July | **Noah Kahan**, The Last of the Bugs Tour | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Noah-Kahan): on general sale since 28 August 2026 |
 | Wed 25, Fri 27 and Sat 28 August | **Harry Styles**, Together, Together | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Harry-Styles): on general sale since 17 September 2026 |
 | Fri 27 August | **Phoebe Bridgers**, with Caroline Polachek | All Points East, Victoria Park | [All Points East](https://www.allpointseastfestival.com/events/phoebe-bridgers-fri-27-aug): on sale |
@@ -139,7 +140,7 @@ The O2 sells through AXS, and OVO Arena Wembley through AXS too; each link below
 | 5 July | **Don Omar** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/don-omar): on sale |
 | 6 July | **Scorpions** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/scorpions): on sale |
 | 9 and 10 July | **Pet Shop Boys**, Dreamworld MAX | The O2 | [The O2](https://www.theo2.co.uk/events/detail/pet-shop-boys-2027): on sale |
-| 14 July | **alt-J** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/alt-j-2027): on sale 10am, Friday 20 November 2026 |
+| 14 July | **alt-J** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/alt-j-2027): on sale since 10am, Friday 20 November 2026 |
 | 15, 16 and 19 July | **Jamiroquai** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/jamiroquai-2027): on sale |
 | 17 July | **Jorja Smith** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/jorja-smith): on sale |
 
@@ -151,7 +152,7 @@ The O2 sells through AXS, and OVO Arena Wembley through AXS too; each link below
 | 7 Oct | **The Teskey Brothers** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/the-teskey-brothers): on sale |
 | 16 Oct | **S Club** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/s-club): on sale |
 | 19 Oct | **Jean-Michel Jarre**, Oxygène & Beyond | The O2 | [The O2](https://www.theo2.co.uk/events/detail/jean-michel-jarre-2027): on sale |
-| 22 and 23 Oct | **KPop Demon Hunters: Golden World Tour** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/kpop-demon-hunters): on sale 10am, Friday 20 November 2026 |
+| 22 and 23 Oct | **KPop Demon Hunters: Golden World Tour** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/kpop-demon-hunters): on sale since 10am, Friday 20 November 2026 |
 | 27 Oct | **Texas**, White on Blonde at 30 | The O2 | [The O2](https://www.theo2.co.uk/events/detail/texas-2027): on sale |
 | 30 Oct | **Meshuggah** | OVO Arena Wembley | [OVO Arena Wembley](https://www.ovoarena.co.uk/events/detail/meshuggah-1): on sale |
 | 3 Nov | **Billy Ocean** | The O2 | [The O2](https://www.theo2.co.uk/events/detail/billy-ocean-2027): on sale |

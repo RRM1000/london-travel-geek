@@ -439,7 +439,7 @@ One of the first two Indian restaurants anywhere in the world to win a Michelin 
 
 **6 minutes from Benares.**
 
-**Book:** [Reserve a table](http://www.tamarindrestaurant.com/)
+**Site:** [tamarindrestaurant.com](http://www.tamarindrestaurant.com/)
 
 ![The dark frontage of Tamarind restaurant in Mayfair](../../assets/articles/best-indian-restaurants-london/tamarind.jpg)
 

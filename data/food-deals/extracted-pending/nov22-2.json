@@ -1,0 +1,580 @@
+[
+ {
+  "slug": "montague-on-the-gardens",
+  "days": null,
+  "times": null,
+  "conditions": "Can be booked with or without the theatre ticket; bookings including a ticket need 48 hours' notice. Offered in line with the Avenue Q run at the Shaftesbury Theatre",
+  "branches": "Bloomsbury (Blue Door Bistro)",
+  "endDate": "2027-01-02",
+  "price": "Two courses £39 per person; three courses £49 per person (£94 / £104 with an Avenue Q theatre ticket)",
+  "checked": "2026-11-22",
+  "name": "The Montague on the Gardens",
+  "site": "https://montaguehotel.com",
+  "type": "pre-theatre",
+  "offer": "Avenue Q pre-theatre dinner at the Blue Door Bistro: a two or three-course chef's set menu paired with an Avenue Q themed cocktail",
+  "sourceUrl": "https://montaguehotel.com/dining-and-drinks/whats-on/avenue-q-musical",
+  "quote": "Price: Two-course set menu £39 per person | Three-course set menu £49 per person"
+ },
+ {
+  "slug": null,
+  "days": "Wednesday",
+  "times": "From 6pm to close",
+  "conditions": "Served in the lobby; the orange wine on pour changes regularly",
+  "branches": "Holborn (199-206 High Holborn)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "The Hoxton, Holborn (Orange Wednesdays)",
+  "site": "https://thehoxton.com",
+  "type": "two-for-one",
+  "offer": "2-4-1 on orange wine or an Orange Wine Old Fashioned in the hotel lobby, served with popcorn",
+  "sourceUrl": "https://thehoxton.com/london/holborn/whats-on/orange-wednesdays/",
+  "quote": "Every Wednesday, head to the lobby at The Hoxton, Holborn for 2-4-1 on Orange Wine or an Orange Wine Old Fashioned, served with a side of popcorn."
+ },
+ {
+  "slug": "venue-osm-w962636590",
+  "days": "Every weekday",
+  "times": "11am to 6pm",
+  "conditions": null,
+  "branches": "Walworth (42 Merrow Street)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "The Queen Elizabeth",
+  "site": "https://queenelizabethpub.co.uk",
+  "type": "happy-hour",
+  "offer": "Happy hour specials at the pub (the page does not list the drinks or prices)",
+  "sourceUrl": "https://queenelizabethpub.co.uk/",
+  "quote": "Join us for our Happy Hour specials every weekday from 11am- 6pm!"
+ },
+ {
+  "slug": "venue-osm-w119476480",
+  "days": "Monday to Friday",
+  "times": "4pm to 7pm",
+  "conditions": "Pint deals are house lager or cider; pizzas from 5pm",
+  "branches": "Islington (Pentonville Road)",
+  "endDate": null,
+  "price": "Pizza and a pint £12; pints from £4; two spritzes £13",
+  "checked": "2026-11-22",
+  "name": "The Lexington",
+  "site": "https://thelexington.co.uk",
+  "type": "happy-hour",
+  "offer": "Happy hour: pizza and a pint, cheaper pints and two spritzes",
+  "sourceUrl": "https://thelexington.co.uk/",
+  "quote": "4–7pm Monday to Friday · *House Lager or Cider · Pizzas from 5pm!"
+ },
+ {
+  "slug": "kolamba",
+  "days": "Monday to Friday",
+  "times": "4pm to 6pm",
+  "conditions": null,
+  "branches": "Soho (21 Kingly Street)",
+  "endDate": null,
+  "price": "£30 per person",
+  "checked": "2026-11-22",
+  "name": "Kolamba",
+  "site": "https://www.kolamba.co.uk",
+  "type": "pre-theatre",
+  "offer": "Pre-theatre menu of Sri Lankan dishes for sharing at Kolamba Soho",
+  "sourceUrl": "https://www.kolamba.co.uk/pre-theatre-dining",
+  "quote": "Enjoy our £30 menu, available Monday to Friday from 4pm to 6pm."
+ },
+ {
+  "slug": "deal-ayllu-samba-bottomless-brunch",
+  "days": "Saturday and Sunday",
+  "times": "Saturday 11am to 4pm; Sunday 12pm to 4pm; last booking 3:15pm",
+  "conditions": "The whole table chooses the same package. Drinks are house white, house red, prosecco or the cocktail of the week",
+  "branches": "Paddington Central (25 Sheldon Square)",
+  "endDate": null,
+  "price": "£37 per person for bottomless food; £55 per person for bottomless food and drinks",
+  "checked": "2026-11-22",
+  "name": "Ayllu (Samba Bottomless Brunch)",
+  "site": "https://www.ayllu.co.uk",
+  "type": "bottomless",
+  "offer": "Ninety-minute bottomless brunch of unlimited Nikkei (Japanese-Peruvian) sharing plates with a live samba show and DJ; free-flowing drinks on the dearer package",
+  "sourceUrl": "https://www.ayllu.co.uk/news-offers/bottomless-brunch",
+  "quote": "£37 per person for bottomless food, or £55 per person for bottomless food and drinks."
+ },
+ {
+  "slug": null,
+  "days": "26 to 30 December",
+  "times": "Evenings",
+  "conditions": null,
+  "branches": "Paddington Central (25 Sheldon Square)",
+  "endDate": "2026-12-30",
+  "price": "£29 per person",
+  "checked": "2026-11-22",
+  "name": "Ayllu (Twixmas 5-course set menu)",
+  "site": "https://www.ayllu.co.uk",
+  "type": "set-menu",
+  "offer": "Evening five-course set menu over Twixmas: sushi, ceviche, pollo al carbón and a yasai katsu curry among the courses",
+  "sourceUrl": "https://www.ayllu.co.uk/news-offers/christmas",
+  "quote": "Twixmas, 26 to 30 December Samba Bottomless Brunch and an evening 5-course set menu at £29"
+ },
+ {
+  "slug": "deal-braza-london",
+  "days": null,
+  "times": null,
+  "conditions": null,
+  "branches": "Romford (1 Arcade Place)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "Braza London",
+  "site": "https://brazalondon.com",
+  "type": "all-you-can-eat",
+  "offer": "Brazilian charcoal-grilled meats with an unlimited buffet of hot sides and salads",
+  "sourceUrl": "https://brazalondon.com/",
+  "quote": "Unlimited Buffet"
+ },
+ {
+  "slug": "deal-keonbae-kidbrooke",
+  "days": "Wednesday",
+  "times": "From 17:00 to 22:00",
+  "conditions": "12.5% discretionary service charge. 90-minute time limit per table. £10 per person no-waste charge where food is left",
+  "branches": "Kidbrooke (4 Plowden Road)",
+  "endDate": null,
+  "price": "Adults £35; kids up to 14 £17.50; toddlers up to 3 free",
+  "checked": "2026-11-22",
+  "name": "Keonbae (Kidbrooke)",
+  "site": "https://www.keonbae.com",
+  "type": "all-you-can-eat",
+  "offer": "Unlimited Korean barbecue and hot dishes, with sushi and dessert",
+  "sourceUrl": "https://www.keonbae.com/buffet",
+  "quote": "Satisfy your cravings with unlimited mouth-watering Korean BBQ and an array of delectable hot dishes every Tuesdays from 17:00PM - 22:00PM at KEONBAE Royal Wharf, and every Wednesdays from 17:00PM-22:00PM at KEONBAE Kidbrooke."
+ },
+ {
+  "slug": null,
+  "days": "Tuesday",
+  "times": "From 17:00 to 22:00",
+  "conditions": "Everyone on a table must buy the same tier. 12.5% discretionary service charge. 90-minute time limit per table. £10 per person no-waste charge where food is left",
+  "branches": "Royal Wharf (20 Royal Crest Avenue)",
+  "endDate": null,
+  "price": "Silver £32, Gold £45 per adult; kids up to 14 £16 / £22.50; toddlers up to 3 free",
+  "checked": "2026-11-22",
+  "name": "Keonbae (Royal Wharf)",
+  "site": "https://www.keonbae.com",
+  "type": "all-you-can-eat",
+  "offer": "Unlimited Korean barbecue and hot dishes in two tiers",
+  "sourceUrl": "https://www.keonbae.com/buffet",
+  "quote": "Satisfy your cravings with unlimited mouth-watering Korean BBQ and an array of delectable hot dishes every Tuesdays from 17:00PM - 22:00PM at KEONBAE Royal Wharf, and every Wednesdays from 17:00PM-22:00PM at KEONBAE Kidbrooke."
+ },
+ {
+  "slug": "deal-thai-square-covent-garden",
+  "days": "Every day",
+  "times": "All day",
+  "conditions": "Dine-in only. Table service, not a buffet; the whole table must take part. Maximum two dishes per guest per round. Tell the server your showtime on arrival",
+  "branches": "Covent Garden",
+  "endDate": "2026-12-31",
+  "price": "£30 per person; unlimited drinks upgrade £15 per person",
+  "checked": "2026-11-22",
+  "name": "Thai Square Covent Garden",
+  "site": "https://thaisq.com",
+  "type": "all-you-can-eat",
+  "offer": "Pre-theatre all-you-can-eat Thai: unlimited dishes cooked to order at the table for 90 minutes",
+  "sourceUrl": "https://thaisq.com/promotions/allyoucaneat/",
+  "quote": "£30 ALL-YOU-CAN-EAT"
+ },
+ {
+  "slug": "deal-jimmy-s-world-grill-bar-at-the-o2",
+  "days": "Every day",
+  "times": "Lunch Monday to Friday 12:00 to 16:00; Saturday and Sunday all day",
+  "conditions": "Kids 3 and under eat free, 10 and under half price. Two-hour seating. Weekday lunch tables vacated by 16:15. Half-term and school holidays use evening prices",
+  "branches": "The O2, Greenwich",
+  "endDate": null,
+  "price": "£17 weekday lunch; £23 Monday to Thursday dinner; £25 Friday dinner, Saturday and Sunday",
+  "checked": "2026-11-22",
+  "name": "Jimmy's World Grill & Bar at The O2",
+  "site": "https://jimmystheo2.co.uk",
+  "type": "all-you-can-eat",
+  "offer": "Multi-cuisine buffet with live cooking stations",
+  "sourceUrl": "https://jimmystheo2.co.uk/prices/",
+  "quote": "Monday to Friday – £17.00"
+ },
+ {
+  "slug": "deal-randy-s-wing-bar-all-you-can-eat-mondays",
+  "days": "Monday",
+  "times": null,
+  "conditions": null,
+  "branches": "Hackney Wick (Here East)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "Randy's Wing Bar (All You Can Eat Mondays)",
+  "site": "https://randyswingbar.co.uk",
+  "type": "all-you-can-eat",
+  "offer": "All You Can Eat Mondays (the page gives no price or terms)",
+  "sourceUrl": "https://randyswingbar.co.uk/",
+  "quote": "All you can Eat Mondays"
+ },
+ {
+  "slug": "deal-sushi-shimai",
+  "days": "Evenings",
+  "times": "Evening",
+  "conditions": "Closed on Mondays",
+  "branches": "Herne Hill (24 Milkwood Road)",
+  "endDate": null,
+  "price": "£26.80 per person; £13.40 per child under 120cm",
+  "checked": "2026-11-22",
+  "name": "Sushi Shimai",
+  "site": "https://sushishimai.co.uk",
+  "type": "all-you-can-eat",
+  "offer": "Evening all-you-can-eat sushi and Japanese buffet",
+  "sourceUrl": "https://sushishimai.co.uk/",
+  "quote": "Evening Time (ALL YOU CAN EAT BUFFET) Only £26.80 Per Person, Child £13.40(under 120cm)"
+ },
+ {
+  "slug": null,
+  "days": null,
+  "times": "Lunchtime",
+  "conditions": "Dine-in; the page gives no further terms",
+  "branches": "Herne Hill (24 Milkwood Road)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "Sushi Shimai (lunch 50% off)",
+  "site": "https://sushishimai.co.uk",
+  "type": "percent-off",
+  "offer": "50% off when eating in at lunchtime",
+  "sourceUrl": "https://sushishimai.co.uk/",
+  "quote": "Lunch Time eat in 50% OFF"
+ },
+ {
+  "slug": "deal-shiro-weekend-brunch",
+  "days": "Saturday and Sunday",
+  "times": "All day",
+  "conditions": "Bottomless drinks package is an add-on",
+  "branches": "Liverpool Street",
+  "endDate": null,
+  "price": "From £39 per person",
+  "checked": "2026-11-22",
+  "name": "Shiro (weekend brunch)",
+  "site": "https://shirosushi.co.uk",
+  "type": "all-you-can-eat",
+  "offer": "Weekend brunch with unlimited sushi; a bottomless drinks package can be added",
+  "sourceUrl": "https://shirosushi.co.uk/events/shiro-brunch/",
+  "quote": "All day Saturday & Sunday | From £39pp"
+ },
+ {
+  "slug": null,
+  "days": "Monday to Saturday",
+  "times": "3pm to 7pm",
+  "conditions": null,
+  "branches": "Broadgate Circle (100 Liverpool Street)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "Shiro (happy hour)",
+  "site": "https://shirosushi.co.uk",
+  "type": "happy-hour",
+  "offer": "2-for-1 on house red, white and rosé wine, Prosecco and Asahi",
+  "sourceUrl": "https://shirosushi.co.uk/events/say-hello-to-shiro-hour/",
+  "quote": "From 3 – 7pm, Monday to Saturday, enjoy our 2-for-1 offer on house red, white and rosé wine, Prosecco and Asahi."
+ },
+ {
+  "slug": null,
+  "days": "Monday",
+  "times": "All day",
+  "conditions": null,
+  "branches": "Broadgate Circle (100 Liverpool Street)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "Shiro (Maki Mondays)",
+  "site": "https://shirosushi.co.uk",
+  "type": "two-for-one",
+  "offer": "2-4-1 on all maki dishes at lunch or dinner",
+  "sourceUrl": "https://shirosushi.co.uk/events/maki-mondays/",
+  "quote": "Every Monday, join us for lunch or dinner and enjoy an unbeatable 2-4-1 offer on all our maki dishes."
+ },
+ {
+  "slug": "suzi-tros",
+  "days": "Monday to Friday",
+  "times": null,
+  "conditions": null,
+  "branches": "Notting Hill (18 Hillgate Street)",
+  "endDate": null,
+  "price": "Two courses £20; three courses £29; dessert £6 supplement",
+  "checked": "2026-11-22",
+  "name": "Suzi Tros",
+  "site": "https://suzitros.com",
+  "type": "set-menu",
+  "offer": "Greek set lunch: two or three courses",
+  "sourceUrl": "https://suzitros.com/lunch-set-menu/",
+  "quote": "2 Courses £20.00 3 Courses £29.00"
+ },
+ {
+  "slug": "hera-stratford",
+  "days": "Monday to Friday",
+  "times": "4pm to 7pm",
+  "conditions": null,
+  "branches": "Stratford (4 Arber Way)",
+  "endDate": null,
+  "price": "Drinks from £6; cocktails and spritzes from £8",
+  "checked": "2026-11-22",
+  "name": "Hera (happy hour)",
+  "site": "https://herarestaurant.co.uk",
+  "type": "happy-hour",
+  "offer": "Happy hour on the terrace and bar: Mahou, Prosecco, house spirits and house wine, or upgrade to a classic cocktail, Aperol Spritz or Hugo Spritz, with Greek snacks and mezze",
+  "sourceUrl": "https://herarestaurant.co.uk/whats-on/",
+  "quote": "Head to HERA’s Terrace and Bar for Happy Hour, available every Monday to Friday from 4pm until 7pm."
+ },
+ {
+  "slug": null,
+  "days": "Monday to Friday",
+  "times": "11.00am to 3.30pm",
+  "conditions": null,
+  "branches": "Stratford (4 Arber Way)",
+  "endDate": null,
+  "price": "£13.90",
+  "checked": "2026-11-22",
+  "name": "Hera (Office Lunch)",
+  "site": "https://herarestaurant.co.uk",
+  "type": "set-menu",
+  "offer": "Express lunch menu: a two-course meal with starter, main and sides",
+  "sourceUrl": "https://herarestaurant.co.uk/whats-on/",
+  "quote": "The best lunch deal in Stratford, our Office Lunch is available for £13.90."
+ },
+ {
+  "slug": "happy-lamb-holborn",
+  "days": "Monday to Friday",
+  "times": null,
+  "conditions": "Student discount needs a valid physical student ID",
+  "branches": "Holborn",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "Happy Lamb Hot Pot (student discount)",
+  "site": "https://happylambuk.com",
+  "type": "percent-off",
+  "offer": "10% off food with a valid physical student ID; NHS and Army staff also get 10% off food (up to 6 people)",
+  "sourceUrl": "https://happylambuk.com/restaurants/holborn/",
+  "quote": "Get 10% food discount with a valid student Physical ID"
+ },
+ {
+  "slug": "the-newman",
+  "days": null,
+  "times": null,
+  "conditions": "Neighbourhood Club is a monthly membership; the page does not state the fee",
+  "branches": "Fitzrovia (50 Newman Street)",
+  "endDate": null,
+  "price": null,
+  "checked": "2026-11-22",
+  "name": "The Newman (Brasserie Angelica, Neighbourhood Club)",
+  "site": "https://thenewman.com",
+  "type": "discount-group",
+  "offer": "Neighbourhood Club members get 20% off the total bill at Brasserie Angelica, and 10% off the total bill at Gambit Bar",
+  "sourceUrl": "https://thenewman.com/neighbourhoodclub/",
+  "quote": "Neighbourhood Club members enjoy 20% off the total bill, offering a simple way to enjoy one of the area’s most inviting dining spots, time and time again."
+ },
+ {
+  "name": "Onefam Notting Hill",
+  "site": "https://onefamhostels.com/",
+  "rejected": true,
+  "reason": "Hostel room rates only"
+ },
+ {
+  "name": "Zedwell Knightsbridge",
+  "site": "https://zedwellhotels.com/locations/london/knightsbridge/hotel-knightsbridge/",
+  "rejected": true,
+  "reason": "Hotel room rates (Black Friday) only"
+ },
+ {
+  "name": "Discount Suit Company",
+  "site": "https://discountsuitcompany.co.uk/",
+  "rejected": true,
+  "reason": "Only a past New Year's Eve event listing"
+ },
+ {
+  "name": "Hart Shoreditch Hotel London, Curio Collection by Hilton",
+  "site": "https://hartshoreditch.com/",
+  "rejected": true,
+  "reason": "Room offers, massage discount and a ball-pit bar mention; no dine-in food or drink deal"
+ },
+ {
+  "name": "Bertrand's Townhouse",
+  "site": "https://www.bertrandstownhouse.co.uk/",
+  "rejected": true,
+  "reason": "Room-based package (breakfast, welcome drink with a stay); not a standalone dining deal"
+ },
+ {
+  "name": "St Christopher's Village, London Bridge",
+  "site": "https://www.st-christophers.co.uk/london-bridge-village-hostel/",
+  "rejected": true,
+  "reason": "Hostel room offers; the happy hour mention has no terms"
+ },
+ {
+  "name": "Zedwell Leicester Place Capsule Hotel",
+  "site": "https://zedwellhotels.com/locations/london/leicester-square/leicester-square-capsule-hotel/",
+  "rejected": true,
+  "reason": "Hotel room rates (Black Friday) only"
+ },
+ {
+  "name": "Point A Hotel London King's Cross",
+  "site": "https://www.pointahotels.com/",
+  "rejected": true,
+  "reason": "Hotel room and member rates only"
+ },
+ {
+  "name": "The Connaught",
+  "site": "https://www.maybourne.com/en/hotels/the-connaught",
+  "rejected": true,
+  "reason": "Suite stay discount only"
+ },
+ {
+  "name": "The Hoxton, Shoreditch",
+  "site": "https://thehoxton.com/",
+  "rejected": true,
+  "reason": "Hotel room rates; Hoxton Brussels (TOPE) happy hour and Taco Tuesday are not London"
+ },
+ {
+  "name": "Sea Containers London",
+  "site": "https://www.seacontainerslondon.com/",
+  "rejected": true,
+  "reason": "Room rates and stay packages only"
+ },
+ {
+  "name": "ibis London Blackfriars",
+  "site": "https://all.accor.com/hotel/7943/index.en.shtml",
+  "rejected": true,
+  "reason": "Hotel room and loyalty rates only"
+ },
+ {
+  "name": "Dean Street Townhouse",
+  "site": "https://www.sohohouse.com/restaurants/dean-street-townhouse",
+  "rejected": true,
+  "reason": "Nothing but an app download link"
+ },
+ {
+  "name": "The Franklin London",
+  "site": "https://collezione.starhotels.com/en/our-hotels/the-franklin-london/",
+  "rejected": true,
+  "reason": "Room rates; the Christmas menu is a normal-priced set menu, not a discount"
+ },
+ {
+  "name": "The Zetter Bloomsbury",
+  "site": "https://thezetter.com/bloomsbury/",
+  "rejected": true,
+  "reason": "Hotel room rates only"
+ },
+ {
+  "name": "Barmy Badger Backpackers",
+  "site": "https://www.barmybadger.com/",
+  "rejected": true,
+  "reason": "\"Bring your own padlock\" is not a BYO deal"
+ },
+ {
+  "name": "The Mayfair Townhouse",
+  "site": "https://www.themayfairtownhouse.com/",
+  "rejected": true,
+  "reason": "Room stay discounts only"
+ },
+ {
+  "name": "Clink 261",
+  "site": "https://www.clinkhostels.com/london/clink261/",
+  "rejected": true,
+  "reason": "Hostel room rates only"
+ },
+ {
+  "name": "The Standard, London",
+  "site": "https://www.standardhotels.com/london/properties/london",
+  "rejected": true,
+  "reason": "Hotel room rates only"
+ },
+ {
+  "name": "One Hundred Shoreditch",
+  "site": "https://www.onehundredshoreditch.com/",
+  "rejected": true,
+  "reason": "Hotel room rates only"
+ },
+ {
+  "name": "Hotel Café Royal",
+  "site": "https://www.hotelcaferoyal.com/",
+  "rejected": true,
+  "reason": "Family package tied to a room booking; no standalone dining deal"
+ },
+ {
+  "name": "Kimpton Fitzroy London",
+  "site": "https://www.kimptonfitzroylondon.com/",
+  "rejected": true,
+  "reason": "Room packages that include breakfast or afternoon tea; not standalone dining deals"
+ },
+ {
+  "name": "Aethos London Shoreditch",
+  "site": "https://www.aethos.com/destinations/london",
+  "rejected": true,
+  "reason": "Room rates and a festive set menu bundled with a stay"
+ },
+ {
+  "name": "The Georgian House Hotel",
+  "site": "https://georgianhousehotel.co.uk/",
+  "rejected": true,
+  "reason": "Breakfast buffet is part of a normal menu; the other matches are meeting-room hire"
+ },
+ {
+  "name": "The Beaumont Mayfair",
+  "site": "https://thebeaumont.com/",
+  "rejected": true,
+  "reason": "Hotel room rates only"
+ },
+ {
+  "name": "Claridge's",
+  "site": "https://www.maybourne.com/en/hotels/claridges",
+  "rejected": true,
+  "reason": "Hotel room rates only"
+ },
+ {
+  "name": "The Chelsea Townhouse",
+  "site": "https://www.thechelseatownhouse.com/",
+  "rejected": true,
+  "reason": "Room rates and a family room package"
+ },
+ {
+  "name": "The Petersham Hotel",
+  "site": "https://www.petershamhotel.co.uk/",
+  "rejected": true,
+  "reason": "Fixed-price lunch menus carry no price on the page, so no deal can be stated"
+ },
+ {
+  "name": "Templeton Place by Supercity Aparthotels",
+  "site": "https://www.supercityuk.com/london/templeton-place/",
+  "rejected": true,
+  "reason": "Aparthotel room rates only"
+ },
+ {
+  "name": "The George Tavern",
+  "site": "https://thegeorgetavern.london/",
+  "rejected": true,
+  "reason": "Merchandise club; no food or drink deal"
+ },
+ {
+  "name": "The Old Blue Last",
+  "site": "https://www.theoldbluelast.com/",
+  "rejected": true,
+  "reason": "Gig early-bird ticket sale, not a food or drink deal"
+ },
+ {
+  "name": "Karma Sanctum Soho",
+  "site": "https://karmagroup.com/find-destination/karma-sanctum/karma-sanctum-soho/",
+  "rejected": true,
+  "reason": "Hotel offers are room-based; \"surprise birthday treat\" is a guest review"
+ },
+ {
+  "name": "Taverna Ermou",
+  "site": "https://www.ergonfoods.com/tavernaermou-london",
+  "rejected": true,
+  "reason": "A lunch set menu is linked but the page gives no price, days or terms"
+ },
+ {
+  "name": "28-50",
+  "site": "https://www.2850.co.uk/",
+  "rejected": true,
+  "reason": "Sunday meat platter is a regular menu item; the lunch menu carries no price; festive group menus are standard bookings"
+ },
+ {
+  "name": "Fenix",
+  "site": "https://fenixrestaurants.com/mayfair/",
+  "rejected": true,
+  "reason": "Gift card discount only; other matches are Manchester"
+ }
+]

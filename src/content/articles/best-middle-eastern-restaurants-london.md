@@ -103,11 +103,12 @@ The signature is **bukjet mousakhan**, the sumac-and-onion chicken dish of the W
 ### Imad's Syrian Kitchen, Soho
 
 *£££ · Top Floor, Kingly Court · Michelin Bib Gourmand* · Cited by 4 sources
-![Imad’s Syrian Kitchen in London](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
-
-*Imad’s Syrian Kitchen.*
 
 **Imad Alarnab lost his Damascus business to the war**, cooked for the people around him in camps along his route, and ran his first London pop-up on Columbia Road in 2017 before moving to Kingly Court in 2023. The Damascene home cooking holds a **Michelin Bib Gourmand for 2026**.
+
+![Muhammara topped with pomegranate seeds and herbs, with a swirl of pomegranate molasses](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
+
+*Muhammara at Imad's Syrian Kitchen.*
 
 Start with mezze: **muhammara**, the walnut and red pepper paste, **fattoush** and freekeh. Then the slow-cooked dishes: lamb with yoghurt and stuffed vine leaves.
 
@@ -155,29 +156,9 @@ The short version: **Mangal II** in Dalston is the most-cited; **Antepliler** an
 
 ## Greek
 
-![OPSO in London](../../assets/articles/best-middle-eastern-restaurants-london/opso.jpg)
-
-*OPSO.*
-
-![OMA in London](../../assets/articles/best-middle-eastern-restaurants-london/oma-and-pyro.jpg)
-
-*OMA.*
-
-![Kima in London](../../assets/articles/best-middle-eastern-restaurants-london/kima.jpg)
-
-*Kima.*
-
-![Vori Restaurant Holland Park in London](../../assets/articles/best-middle-eastern-restaurants-london/vori.jpg)
-
-*Vori Restaurant Holland Park.*
-
 Greek and Greek-Cypriot cooking is not Middle Eastern, and has its own page: [**The Best Greek Restaurants in London**](/articles/best-greek-restaurants-london/).
 
 The short version: **Oma** in Borough Market holds London's only Greek Michelin star, **Agora** below it is the walk-in souvla bar, **Tsiakkos & Charcoal** in Maida Vale tops Time Out's ranked list, and **Palmers Green** in north London is where the Cypriot community eats.
-
-![Zephyr Notting Hill in London](../../assets/articles/best-middle-eastern-restaurants-london/mazi-and-zephyr.jpg)
-
-*Zephyr Notting Hill.*
 
 ---
 
@@ -247,10 +228,6 @@ The **whole roast cauliflower** is the signature: charred whole over coals, dres
 ## By country, not "Middle Eastern"
 
 "Middle Eastern" covers a dozen cuisines that share a mezze format and little else. These kitchens each cook somewhere specific.
-
-![Imad’s Syrian Kitchen in London](../../assets/articles/best-middle-eastern-restaurants-london/imads-syrian-kitchen.jpg)
-
-*Imad’s Syrian Kitchen.*
 
 **Syrian:** [Imad's Syrian Kitchen](#imads-syrian-kitchen-soho), above.
 

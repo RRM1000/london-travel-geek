@@ -430,6 +430,7 @@ Named by five or six sources each, without a full entry here.
 
 ## Continue planning your London trip
 
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🍖 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**
 - 🍻 **[The Most Beautiful Pubs in London](/articles/most-beautiful-pubs-london/)**
 - 🏛️ **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**

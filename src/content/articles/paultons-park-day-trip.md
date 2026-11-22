@@ -4,7 +4,7 @@ seoTitle: "Paultons Park from London: Tickets, Trains, Rides"
 description: "Paultons Park, home of Peppa Pig World, is £29 a person booked ahead on its November weekends and £41 on Christmas days, with under-1m children free and parking free. The train and bus from Waterloo, every height limit, the new Valgard coasters and the closed dates."
 publishedAt: 2026-10-03
 updatedAt: 2026-11-02
-reviewBy: 2026-11-20
+reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
 category: "Day trips"

@@ -1,0 +1,654 @@
+{
+  "cuisine": "gordon-ramsay",
+  "recorded": "2026-11-22",
+  "note": "Seeded 22 November 2026 for the Gordon Ramsay restaurants in London guide. SCOPE: every London restaurant the group lists as open on gordonramsayrestaurants.com on 22 November 2026, ranked by how many independent sources recommend each one. This is a venue-led topic, so a source counts only where it recommends the named restaurant: reviews that end positive, award listings, and best-of lists. Negative reviews are kept out and listed under notCounted. VENUE IDENTITY: Lucky Cat Mayfair and Lucky Cat 22 Bishopsgate are two restaurants with two kitchens, and Bread Street Kitchen is recorded per branch where a source names the branch. Two mentions of plain 'Lucky Cat' (Conde Nast Traveller sushi list, Luxury London afternoon tea list) are NOT counted here because neither names the branch. SEARCH ROUTE: Google News RSS decoded to real URLs (multi-word queries), each masthead's own review page, the Michelin Guide's own restaurant pages, and YouTube search results pages. Reddit is not reachable from this environment, so no tier E. TIER D: YouTube only; TikTok search cannot be read without a paid scraper. Video transcripts are not readable, so a creator is recorded only where the title or description itself states the creator's view or places the restaurant in a recommended list.",
+  "sources": [
+    {
+      "name": "MICHELIN Guide - Restaurant Gordon Ramsay (2026 guide)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/restaurant-gordon-ramsay",
+      "scope": "gordon-ramsay",
+      "tier": "A",
+      "dated": "2026-02-09",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay"],
+      "quotes": {
+        "Restaurant Gordon Ramsay": "THREE MICHELIN STARS, 2026 guide. 68-69 Royal Hospital Road, Chelsea, SW3 4HP. Inspectors: Gordon Ramsay 'still remains fiercely committed to maintaining the highest standards at his elegant yet relaxed flagship restaurant'."
+      }
+    },
+    {
+      "name": "MICHELIN Guide - Restaurant Gordon Ramsay High (2026 guide)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/restaurant-gordon-ramsay-high",
+      "scope": "gordon-ramsay",
+      "tier": "A",
+      "dated": "2026-02-09",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "ONE MICHELIN STAR, new in the 2026 guide. 60th floor, 22 Bishopsgate. Inspectors: the 12-seater counter faces the window and the view over the city."
+      }
+    },
+    {
+      "name": "MICHELIN Guide - Pétrus by Gordon Ramsay (2026 guide)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/petrus284688",
+      "scope": "gordon-ramsay",
+      "tier": "A",
+      "dated": "2026-02-09",
+      "ranked": false,
+      "names": ["Pétrus by Gordon Ramsay"],
+      "quotes": {
+        "Pétrus by Gordon Ramsay": "ONE MICHELIN STAR, 2026 guide. Inspectors: named after the Pomerol estate, wine plays a pivotal role at this impeccably run restaurant for well-to-do locals and special occasions."
+      }
+    },
+    {
+      "name": "MICHELIN Guide - 1890 by Gordon Ramsay (2026 guide)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/1890-by-gordon-ramsay",
+      "scope": "gordon-ramsay",
+      "tier": "A",
+      "dated": "2026-02-09",
+      "ranked": false,
+      "names": ["Restaurant 1890 by Gordon Ramsay"],
+      "quotes": {
+        "Restaurant 1890 by Gordon Ramsay": "ONE MICHELIN STAR, 2026 guide. Inspectors: an intimate restaurant next to The Savoy's American Bar, named for the year Escoffier joined the hotel; comfortable and discreet."
+      }
+    },
+    {
+      "name": "MICHELIN Guide - Savoy Grill (2026 guide)",
+      "url": "https://guide.michelin.com/gb/en/greater-london/london/restaurant/savoy-grill",
+      "scope": "gordon-ramsay",
+      "tier": "A",
+      "dated": "2026-02-09",
+      "ranked": false,
+      "names": ["Savoy Grill"],
+      "quotes": {
+        "Savoy Grill": "Listed in the 2026 guide without a star. Inspectors: 'something undeniably decadent about dining at this iconic restaurant', entered through the hotel lobby."
+      }
+    },
+    {
+      "name": "MICHELIN Guide - Restaurant Gordon Ramsay: The Inspectors Tell All",
+      "url": "https://guide.michelin.com/gb/en/article/travel/restaurant-gordon-ramsay-london-inspector",
+      "scope": "gordon-ramsay",
+      "tier": "A",
+      "dated": "2025-11-11",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay"],
+      "quotes": {
+        "Restaurant Gordon Ramsay": "A Michelin inspector's first-hand account, headed 'on its understated brilliance'; the flagship 'continues to soar with Three MICHELIN Stars'."
+      }
+    },
+    {
+      "name": "The Good Food Guide - review of Restaurant Gordon Ramsay, Chelsea",
+      "url": "https://www.thegoodfoodguide.co.uk/restaurant/restaurant-gordon-ramsay/id/138",
+      "scope": "gordon-ramsay",
+      "tier": "A",
+      "dated": "2023-04-19",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay"],
+      "quotes": {
+        "Restaurant Gordon Ramsay": "Anonymous inspector. The lobster, langoustine and salmon ravioli has been on the menu since day one; a 100-day aged Cumbrian Blue Grey sirloin was 'perfectly medium-rare' and 'oh-so tender'."
+      }
+    },
+    {
+      "name": "The Infatuation - review of Restaurant Gordon Ramsay, Chelsea",
+      "url": "https://www.theinfatuation.com/london/reviews/restaurant-gordon-ramsay",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2024-09-11",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay"],
+      "quotes": {
+        "Restaurant Gordon Ramsay": "'An old-school fine dining restaurant in Chelsea that makes brilliant British food'; walls are cream, the ceiling low, and the music is waiting-room playlist."
+      }
+    },
+    {
+      "name": "Time Out - Every Michelin-starred Restaurant in London 2026",
+      "url": "https://www.timeout.com/london/restaurants/michelin-star-restaurants-in-london",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2026-02-10",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay", "Pétrus by Gordon Ramsay", "Restaurant 1890 by Gordon Ramsay", "Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay": "Rated 4 out of 5 and 'Recommended': 'Another entry for this Michelin powerhouse'; Ramsay no longer cooks there himself.",
+        "Pétrus by Gordon Ramsay": "Rated 4 out of 5 and 'Recommended': a room 'enveloped in shades of pearlescent pink and dusky greys' around a circular wine store; 'the food is all about indulgence and luxury ingredients'.",
+        "Restaurant 1890 by Gordon Ramsay": "Rated 5 out of 5 and 'Recommended': 'A small but powerful hotel restaurant', ten tables inside the Savoy.",
+        "Restaurant Gordon Ramsay High": "Listed as new for 2026: a 12-seater on the 60th floor of 22 Bishopsgate."
+      }
+    },
+    {
+      "name": "Time Out - Restaurant Gordon Ramsay High review",
+      "url": "https://www.timeout.com/london/restaurants/restaurant-gordon-ramsay-high",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2026-03-23",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "3 out of 5. 'Sixty floors up. One Michelin star. Twelve seats. Ten courses. Oh, and £250 a head.'"
+      }
+    },
+    {
+      "name": "Time Out - Savoy Grill review",
+      "url": "https://www.timeout.com/london/restaurants/savoy-grill",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2023-05-30",
+      "ranked": false,
+      "names": ["Savoy Grill"],
+      "quotes": {
+        "Savoy Grill": "4 out of 5. 'Heaves with history and celebrity stories. The food is great, too.'"
+      }
+    },
+    {
+      "name": "Time Out - Lucky Cat review",
+      "url": "https://www.timeout.com/london/restaurants/lucky-cat",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2019-10-21",
+      "ranked": false,
+      "names": ["Lucky Cat Mayfair"],
+      "quotes": {
+        "Lucky Cat Mayfair": "3 out of 5 for the Mayfair original. 'Specifically, the food is excellent'; once it dropped its claims of authenticity it became a pan-Asian pick-and-mix of sushi, buns, skewers and dumplings."
+      }
+    },
+    {
+      "name": "Hot Dinners - The best high-rise restaurants in London",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-high-rise-restaurants-london-with-view-dining-rooftop",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2026-08-18",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High", "Lucky Cat 22 Bishopsgate"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "'The all-chef's-table Michelin-starred affair with views down to the Tower of London'.",
+        "Lucky Cat 22 Bishopsgate": "Listed beside High as the more affordable of the two highest restaurants in London."
+      }
+    },
+    {
+      "name": "Country & Town House - review of The Savoy Grill",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/the-savoy-grill-review/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2023-08-17",
+      "ranked": false,
+      "names": ["Savoy Grill"],
+      "quotes": {
+        "Savoy Grill": "After the refurbishment 'the grande dame of London's restaurants' has 'recaptured its glorious past'; the apple tarte tatin 'one of the best I have ever tasted'."
+      }
+    },
+    {
+      "name": "Country & Town House - review of Lucky Cat, Mayfair",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/lucky-cat-review/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2024-02-26",
+      "ranked": false,
+      "names": ["Lucky Cat Mayfair"],
+      "quotes": {
+        "Lucky Cat Mayfair": "Headed 'remains top of its game': excellent Asian-inspired food and cocktails; egg fried rice mixed at the table by the waiter."
+      }
+    },
+    {
+      "name": "Country & Town House - review of Pétrus by Gordon Ramsay",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/review-petrus-by-gordon-ramsay/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2024-03-19",
+      "ranked": false,
+      "names": ["Pétrus by Gordon Ramsay"],
+      "quotes": {
+        "Pétrus by Gordon Ramsay": "'Outstanding food, world-class wine and a surprisingly relaxed atmosphere'; ends on the plaisir sucré, a chocolate, hazelnut and fruit stack."
+      }
+    },
+    {
+      "name": "Country & Town House - Lucky Cat at 22 Bishopsgate",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/lucky-cat-at-22-bishopsgate/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2025-02-25",
+      "ranked": false,
+      "names": ["Lucky Cat 22 Bishopsgate"],
+      "quotes": {
+        "Lucky Cat 22 Bishopsgate": "The mandarin pannacotta, an orange-shaped white chocolate shell the waiter has you smash, is the show-stopper."
+      }
+    },
+    {
+      "name": "Foodepedia - The Savoy Grill review",
+      "url": "https://www.foodepedia.co.uk/restaurant-reviews/the-savoy-grill-review/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2023-05-31",
+      "ranked": false,
+      "names": ["Savoy Grill"],
+      "quotes": {
+        "Savoy Grill": "Opens 'The spiritual heart of England is the Savoy Grill'; the Arnold Bennett is now a soufflé, and 'gorgeous'."
+      }
+    },
+    {
+      "name": "Foodepedia - Bread Street Kitchen, Floor 59, 22 Bishopsgate review",
+      "url": "https://www.foodepedia.co.uk/restaurant-reviews/bread-street-kitchen-floor-59-22-bishopsgate-review/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2026-05-28",
+      "ranked": false,
+      "names": ["Bread Street Kitchen 22 Bishopsgate"],
+      "quotes": {
+        "Bread Street Kitchen 22 Bishopsgate": "The Duroc pork chop comes with the bone on the side; 'the best pork I've eaten outside of Spain'."
+      }
+    },
+    {
+      "name": "The Luxury Editor - Savoy Grill review",
+      "url": "https://theluxuryeditor.com/review/savoy-grill-review/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2026-06-27",
+      "ranked": false,
+      "names": ["Savoy Grill"],
+      "quotes": {
+        "Savoy Grill": "The Beef Wellington is 'opulent, extravagant, indulgent' and works without sides; the service is 'excellent'."
+      }
+    },
+    {
+      "name": "Luxury Lifestyle Magazine - Savoy Grill review",
+      "url": "https://www.luxurylifestylemag.co.uk/food-and-drink/restaurant-review-savoy-grill-by-gordon-ramsay-at-the-savoy-the-strand-in-london/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2025-12-21",
+      "ranked": false,
+      "names": ["Savoy Grill"],
+      "quotes": {
+        "Savoy Grill": "Called 'a powerhouse on London's dining scene'; the kitchen is run by Arnaud Stevens."
+      }
+    },
+    {
+      "name": "Luxury Lifestyle Magazine - Restaurant Gordon Ramsay High review",
+      "url": "https://www.luxurylifestylemag.co.uk/food-and-drink/restaurant-review-restaurant-gordon-ramsay-high-bishopsgate-in-london/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2026-04-05",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "Highlights lobster ravioli with yuzu and Devon duck with morels and pine nut, and the wine pairings."
+      }
+    },
+    {
+      "name": "Luxury Lifestyle Magazine - Lucky Cat Mayfair review",
+      "url": "https://www.luxurylifestylemag.co.uk/food-and-drink/restaurant-review-lucky-cat-mayfair-by-gordon-ramsay-grosvenor-square-in-london/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2025-08-08",
+      "ranked": false,
+      "names": ["Lucky Cat Mayfair"],
+      "quotes": {
+        "Lucky Cat Mayfair": "Describes Grosvenor Square as vivacious, with curvaceous booths and oxblood leather."
+      }
+    },
+    {
+      "name": "Spear's - Restaurant Gordon Ramsay High review",
+      "url": "https://spearswms.com/luxury/food-drink/restaurant-gordon-ramsay-high-hits-new-heights/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2025-08-02",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "'Hits new heights': a three-hour dinner with UK-sourced ingredients; the chilled tomato tea an early contender for dish of the night."
+      }
+    },
+    {
+      "name": "London On The Inside - High review",
+      "url": "https://londontheinside.com/high-review-reach-for-the-stars-at-high-restaurant-gordon-ramsay/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2026-02-23",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "'Reach for the stars': a menu of the greatest hits of 25 years of Restaurant Gordon Ramsay, with views partly obscured by cloud on the night."
+      }
+    },
+    {
+      "name": "Elite Traveler - What it's like to dine at 22 Bishopsgate",
+      "url": "https://elitetraveler.com/food-and-drink/being-gordon-ramsay-22-bishopsgate-restaurant-reviews",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2026-02-23",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High", "Lucky Cat 22 Bishopsgate"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "Scallops in chamomile velouté, oyster ice cream, confit turbot with Jersey Royals, langoustine in kataifi pastry.",
+        "Lucky Cat 22 Bishopsgate": "'The playful cousin', best enjoyed as a social destination rather than a purist's culinary exercise."
+      }
+    },
+    {
+      "name": "ShortList - Restaurant Gordon Ramsay High, the 12-seat chef's table",
+      "url": "https://www.shortlist.com/food-and-drink/i-tried-gordon-ramsays-newest-12-seat-chefs-table-dining-experience-and-it-changed-my-opinion-about-fine-dining",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2025-09-25",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "'Very premium' but 'seriously worth it'; a non-alcoholic pairing is made with BAEK."
+      }
+    },
+    {
+      "name": "Luxury London - Lucky Cat at 22 Bishopsgate",
+      "url": "https://luxurylondon.co.uk/taste/food/lucky-cat-22-bishopsgate-gordon-ramsay-restaurant-review/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2025-03-19",
+      "ranked": false,
+      "names": ["Lucky Cat 22 Bishopsgate"],
+      "quotes": {
+        "Lucky Cat 22 Bishopsgate": "The Iberico pork chop is 'a showstopper'; the baby squid disappointed. Would return for the pork, the wagyu and the late hour."
+      }
+    },
+    {
+      "name": "The Manual - Lucky Cat 22 Bishopsgate",
+      "url": "https://www.themanual.com/travel/lucky-cat-london-review/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2026-07-06",
+      "ranked": false,
+      "names": ["Lucky Cat 22 Bishopsgate"],
+      "quotes": {
+        "Lucky Cat 22 Bishopsgate": "Ordered a la carte rather than a tasting menu, three to four plates each on the waiter's advice; a nori martini finished with soy sauce."
+      }
+    },
+    {
+      "name": "City AM - Lucky Cat at 22 Bishopsgate",
+      "url": "https://www.cityam.com/reviewing-the-new-gordon-ramsay-opening-thats-highest-restaurant-in-europe/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2025-02-13",
+      "ranked": false,
+      "names": ["Lucky Cat 22 Bishopsgate"],
+      "quotes": {
+        "Lucky Cat 22 Bishopsgate": "Padron peppers with basil dipping sauce, then sushi, a rice bowl and the grilled meat; 'service is attentive and cocktails sharply made'."
+      }
+    },
+    {
+      "name": "City AM - Bread Street Kitchen, Floor 59, 22 Bishopsgate",
+      "url": "https://www.cityam.com/our-honest-review-of-the-new-gordon-ramsay-bishopsgate-rooftop-bar-and-restaurant/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2026-05-12",
+      "ranked": false,
+      "names": ["Bread Street Kitchen 22 Bishopsgate"],
+      "quotes": {
+        "Bread Street Kitchen 22 Bishopsgate": "The Australian wagyu picanha 'straightforwardly but brilliantly cooked'; grilled dishes with unusual spins such as an XL king prawn."
+      }
+    },
+    {
+      "name": "The London Economic - The River Restaurant, The Savoy",
+      "url": "https://www.thelondoneconomic.com/food-drink/restaurant-review-the-river-restaurant-the-savoy-404481/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2026-03-27",
+      "ranked": false,
+      "names": ["The River Restaurant by Gordon Ramsay"],
+      "quotes": {
+        "The River Restaurant by Gordon Ramsay": "'One of the quietly great hotel restaurants is back in the game'; devilled crab on sourdough crumpets (£25) 'spectacular'; fish and chips £29.50."
+      }
+    },
+    {
+      "name": "The London Economic - Bread Street Kitchen, Bishopsgate",
+      "url": "https://www.thelondoneconomic.com/food-drink/restaurant-review-bread-street-kitchen-bishopsgate-407603/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2026-07-05",
+      "ranked": false,
+      "names": ["Bread Street Kitchen 22 Bishopsgate"],
+      "quotes": {
+        "Bread Street Kitchen 22 Bishopsgate": "At 278 metres 'altitude becomes the opening act'; the creamed spinach laced with nutmeg shows 'this chef knows what he is doing'."
+      }
+    },
+    {
+      "name": "MyLondon - Gordon Ramsay's Hell's Kitchen, Marble Arch",
+      "url": "https://www.mylondon.news/whats-on/reviews/i-thought-gordon-ramsays-new-33808715",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2026-04-26",
+      "ranked": false,
+      "names": ["Hell's Kitchen London"],
+      "quotes": {
+        "Hell's Kitchen London": "Expected a gimmick tied to the TV show; the Beef Wellington made it 'one of the most impressive dining experiences' the writer has had in London. A five-course tasting menu is offered."
+      }
+    },
+    {
+      "name": "MyLondon - Gordon Ramsay Street Burger",
+      "url": "https://www.mylondon.news/whats-on/food-drink-news/gordon-ramsay-street-burger-london-22730068",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "dated": "2022-01-14",
+      "ranked": false,
+      "names": ["Street Burger"],
+      "quotes": {
+        "Street Burger": "Headline: the £16 burger meal 'puts the expensive Harrods one to shame' (price from January 2022)."
+      }
+    },
+    {
+      "name": "Express - Gordon Ramsay's Hell's Kitchen London",
+      "url": "https://www.express.co.uk/celebrity-news/2197261/gordon-ramsay-hells-kitchen-review",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2026-04-26",
+      "ranked": false,
+      "names": ["Hell's Kitchen London"],
+      "quotes": {
+        "Hell's Kitchen London": "The standout is the scallops, 'how beautiful scallops can be when they're cooked just right'; the Idiot Sandwich is a short rib with spiced tomato chutney."
+      }
+    },
+    {
+      "name": "Square Mile - Pétrus by Gordon Ramsay celebrates 25 years",
+      "url": "https://squaremile.com/food-and-drink/restaurants/petrus-gordon-ramsay-review/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2024-05-20",
+      "ranked": false,
+      "names": ["Pétrus by Gordon Ramsay"],
+      "quotes": {
+        "Pétrus by Gordon Ramsay": "'A quarter of a century later, it's better than ever'; four wine flights, two tasting menus and a la carte, which can be mixed at one table."
+      }
+    },
+    {
+      "name": "Essential Surrey - Restaurant 1890 by Gordon Ramsay",
+      "url": "https://www.essentialsurrey.co.uk/food-drink/restaurant-reviews/1890-gordon-ramsay/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "dated": "2023-11-20",
+      "ranked": false,
+      "names": ["Restaurant 1890 by Gordon Ramsay"],
+      "quotes": {
+        "Restaurant 1890 by Gordon Ramsay": "A crab course on muffins and an 'exceptional' mango and passionfruit mille-feuille finished at the table."
+      }
+    },
+    {
+      "name": "The Handbook - French restaurants in London",
+      "url": "https://www.thehandbook.com/french-restaurants-london/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "ranked": false,
+      "names": ["Pétrus by Gordon Ramsay"],
+      "quotes": {
+        "Pétrus by Gordon Ramsay": "Listed in the Handbook's French restaurants guide as Pétrus."
+      }
+    },
+    {
+      "name": "The Handbook - London's best riverside restaurants",
+      "url": "https://www.thehandbook.com/riverside-restaurants-london/",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "ranked": false,
+      "names": ["The River Restaurant by Gordon Ramsay"],
+      "quotes": {
+        "The River Restaurant by Gordon Ramsay": "Listed in the Handbook's riverside restaurants guide."
+      }
+    },
+    {
+      "name": "DesignMyNight - Seafood restaurants in London",
+      "url": "https://www.designmynight.com/london/seafood-restaurants-in-london",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "ranked": false,
+      "names": ["The River Restaurant by Gordon Ramsay"],
+      "quotes": {
+        "The River Restaurant by Gordon Ramsay": "Listed in DesignMyNight's London seafood restaurants guide."
+      }
+    },
+    {
+      "name": "DesignMyNight - New restaurants in London",
+      "url": "https://www.designmynight.com/london/blog/new-restaurants-london",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "ranked": false,
+      "names": ["Bread Street Kitchen 22 Bishopsgate", "Hell's Kitchen London", "Gordon Ramsay at Sea Containers"],
+      "quotes": {
+        "Bread Street Kitchen 22 Bishopsgate": "Listed among the new London restaurants.",
+        "Hell's Kitchen London": "Listed among the new London restaurants.",
+        "Gordon Ramsay at Sea Containers": "Listed among the new London restaurants."
+      }
+    },
+    {
+      "name": "SquareMeal - 32 best riverside restaurants and bars in London",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/riverside-restaurants-in-london_8664",
+      "scope": "gordon-ramsay",
+      "tier": "B",
+      "ranked": false,
+      "names": ["Bread Street Kitchen Limehouse"],
+      "quotes": {
+        "Bread Street Kitchen Limehouse": "Listed in SquareMeal's riverside restaurants guide."
+      }
+    },
+    {
+      "name": "The Sauce - London's best riverside restaurants",
+      "url": "https://thesaucemag.com/restaurants-by-the-river-thames/",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "ranked": false,
+      "names": ["Bread Street Kitchen Limehouse"],
+      "quotes": {
+        "Bread Street Kitchen Limehouse": "Listed in The Sauce's riverside restaurants guide."
+      }
+    },
+    {
+      "name": "Hot Dinners - London's best riverside restaurants and pubs",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/london-s-best-waterside-restaurants",
+      "scope": "gordon-ramsay",
+      "tier": "C",
+      "ranked": false,
+      "names": ["Bread Street Kitchen Limehouse"],
+      "quotes": {
+        "Bread Street Kitchen Limehouse": "Listed in Hot Dinners' waterside restaurants guide."
+      }
+    },
+    {
+      "name": "UA Eats (YouTube) - Is Gordon Ramsay's Most HYPED Restaurant Worth it? Trying PETRUS in London",
+      "url": "https://www.youtube.com/@uaeats",
+      "scope": "gordon-ramsay",
+      "tier": "D",
+      "dated": "2026-06-16",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay"],
+      "quotes": {
+        "Restaurant Gordon Ramsay": "From the description of the Pétrus film: 'we ate at Restaurant Gordon Ramsay... it was one of the best meals of my life'. A separate 2024 film covers a full visit."
+      }
+    },
+    {
+      "name": "Harrison Webb (YouTube) - I Tried London's Best Date Night Spots",
+      "url": "https://www.youtube.com/@HarrisonWebb97",
+      "scope": "gordon-ramsay",
+      "tier": "D",
+      "ranked": false,
+      "names": ["Restaurant Gordon Ramsay High"],
+      "quotes": {
+        "Restaurant Gordon Ramsay High": "Listed in the description as 'Restaurant Gordon Ramsay High - 22 Bishopsgate, EC2N 4BQ'."
+      }
+    }
+  ],
+  "declined": [
+    {
+      "source": "Hot Dinners - Test Driving Restaurant Gordon Ramsay High",
+      "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/restaurant-gordon-ramsay-high-review-22-bishopsgate-london",
+      "why": "Hosted visit: 'Hot Dinners ate as guests of High.'"
+    },
+    {
+      "source": "Hot Dinners - Test Driving The Savoy Grill",
+      "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/savoy-grill-restaurant-review",
+      "why": "Hosted visit: 'Hot Dinners dined as guests of The Savoy Grill.'"
+    },
+    {
+      "source": "Hot Dinners - Test Driving Restaurant 1890",
+      "url": "https://www.hot-dinners.com/Gastroblog/Test-drive/restaurant-1890-gordon-ramsay-savoy-hotel-london",
+      "why": "Hosted visit: 'Hot Dinners dined as guests of Restaurant 1890.'"
+    },
+    {
+      "source": "The Week - Savoy Grill by Gordon Ramsay review",
+      "url": "https://theweek.com/culture-life/food-drink/savoy-grill-by-gordon-ramsay-review-an-institution-reinvented",
+      "why": "Hosted visit: 'Neil Davey was a guest of Savoy Grill by Gordon Ramsay.'"
+    },
+    {
+      "source": "The Week - Restaurant 1890 by Gordon Ramsay review",
+      "url": "https://theweek.com/culture-life/food-drink/restaurant-1890-by-gordon-ramsay-review-luxury-service-with-a-welcoming-mood",
+      "why": "Hosted visit: 'Neil Davey was a guest of Restaurant 1890 by Gordon Ramsay.'"
+    },
+    {
+      "source": "Metro - I tried Gordon Ramsay's 100th restaurant",
+      "url": "https://metro.co.uk/2026/05/01/invited-try-gordon-ramsays-100th-restaurant-anyone-else-28196444/",
+      "why": "Hosted visit: the URL and headline say the writer was invited."
+    },
+    {
+      "source": "Feast Magazine - Gordon Ramsay Restaurants in London: Where to Eat",
+      "url": "https://www.feast-magazine.co.uk/hospitality/food-drink/gordon-ramsay-restaurants-in-london-how-to-choose-where-to-eat-66337",
+      "why": "Not independent: it restates the group's own 2026 published information and says it compares formats rather than ranking."
+    },
+    {
+      "source": "MyLondon - The 4 London Gordon Ramsay restaurants named best in UK",
+      "url": "https://www.mylondon.news/whats-on/food-drink-news/4-london-gordon-ramsay-restaurants-28159767",
+      "why": "Syndication: relays OpenTable's diner-awards list (2023); the award is the source, not MyLondon."
+    }
+  ],
+  "notCounted": [
+    {
+      "source": "Financial Times - Restaurant Gordon Ramsay High, London: £776 of meh",
+      "url": "https://www.ft.com/content/40a07c42-7d46-4cad-90bc-caf690a6e13f",
+      "why": "Negative review (March 2026). Names the venue without recommending it."
+    },
+    {
+      "source": "The Standard - Hell's Kitchen: Ramsay does TGI Fridays (at twice the price)",
+      "url": "https://www.standard.co.uk/going-out/restaurants/gordon-ramsay-hells-kitchen-london-review-b1278936.html",
+      "why": "One-star review (April 2026)."
+    },
+    {
+      "source": "The Times - Gordon Ramsay at Sea Containers review, 'a proper kitchen nightmare'",
+      "url": "https://www.thetimes.com/life-style/food-drink/article/ramsay-at-sea-containers-review-camilla-long-c8ghppnr7",
+      "why": "Negative review (October 2026)."
+    },
+    {
+      "source": "Evening Standard, The Guardian, The Telegraph and Eater London - Lucky Cat, Mayfair (July 2019)",
+      "url": "https://www.theguardian.com/food/2019/jul/26/lucky-cat-london-w1-restaurant-review-grace-dent",
+      "why": "Negative opening-month reviews of the Mayfair restaurant."
+    },
+    {
+      "source": "The Standard - The River Restaurant review (October 2021)",
+      "url": "https://www.standard.co.uk/going-out/restaurants/gordon-ramsay-river-restaurant-savoy-review-london-b962720.html",
+      "why": "'I'm not angry, I'm just disappointed.'"
+    },
+    {
+      "source": "The Independent, Business Insider, The Mirror - Street Burger and Street Pizza",
+      "url": "https://www.independent.co.uk/life-style/food-and-drink/gordom-ramsay-burger-reviews-disappointing-b1943435.html",
+      "why": "Mixed or negative reviews (2021 to 2024) of the burger and pizza chains."
+    },
+    {
+      "source": "The Takeout - Gordon Ramsay's Most Popular Restaurants, Ranked By Customer Reviews",
+      "url": "https://www.thetakeout.com/2064704/gordon-ramsay-popular-restaurants-ranked-by-customer-reviews/",
+      "why": "Ranks TripAdvisor scores, not recommendations; its Bar & Grill, St Paul's and Heddon Street entries lead with complaints."
+    },
+    {
+      "source": "Conde Nast Traveller (best sushi in London) and Luxury London (afternoon tea)",
+      "url": "https://www.cntraveller.com/gallery/best-sushi-london",
+      "why": "Both name plain 'Lucky Cat' without saying which of the two restaurants; held out until the branch is clear."
+    }
+  ]
+}

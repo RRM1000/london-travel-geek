@@ -37,7 +37,7 @@ Cabaret runs on short leases, small rooms and thin margins; the closed venues ar
 
 > 💡 **The Short Version:** **Bethnal Green Working Men's Club** is the one to go to first, because its owners intend to sell it. **Crazy Coqs** is an Art Deco basement cabaret room. **Underbelly Boulevard** runs several shows a night. **The Royal Vauxhall Tavern** is £8 and **CellarDoor is free.** **The London Cabaret Club** is the full dinner-show production. And **the entire Proud operation and The Glory have closed** — do not let an old listicle send you to either.
 
-*Every venue status-checked against its own website on 1 September 2026.*
+*Venues, prices and dates as of November 2026.*
 
 ---
 
@@ -239,7 +239,7 @@ The important distinction, and the one that catches people out: **Wilton's progr
 
 **A surviving Victorian saloon-style music hall with its original galleries.**
 
-The programme is mixed, so read the listing rather than the venue name. Cabaret in the current run includes **the Hidden Jazz Club, a series running to 20 November**. Around it sit theatre, musicals and community events.
+The programme is mixed, so read the listing rather than the venue name: cabaret nights sit among theatre, musicals and community events.
 
 It is a Victorian galleried building, so phone about access before you book.
 
@@ -375,12 +375,6 @@ The setting is 1930s New York: **three sets of live jazz** wrapped in theatrical
 
 *Photo: The Lost Estate.*
 
-![CHAT NOIR! in London](../../assets/articles/best-cabaret-london/the-lost-estate-chat-noir.jpg)
-
-*CHAT NOIR!.*
-
-*Peckham · seated · final 2026 dates on sale, 2027 presale open*
-
 **The address is issued to ticket holders.** It is in Peckham, so plan your route home.
 
 The same company's **Great Christmas Feast**, its Dickens and *A Christmas Carol* show, runs **6 November to 31 December 2026**, with three courses included in every ticket: Classic Dining from £150, Private Dining from £195 and VIP Dining from £235, plus a £4.85 booking fee.
@@ -498,21 +492,16 @@ Table reservations are taken only by phone or WhatsApp.
 ### Scrooge: Cirque Extravaganza
 
 *ICC Auditorium, ExCeL London · Prince Regent (DLR) · seated · **23, 24, 27 and 28 December 2026***
-*Garrick Theatre · Leicester Square, Charing Cross · seated · **21–31 October 2026***
 
 **A family show, not a late-night one**: Dickens's *A Christmas Carol* told by an international cast of aerialists, acrobats, fire breathers and a trampoline wall, with a musical-theatre storyline holding it together. The organiser warns of water effects, audience participation, loud noises, strobe lights and pyrotechnics.
 
 **One seat number is drawn at every performance, and its holder wins £1,000 cash on stage** (school matinees excluded). There are seven performances: 6pm on Wednesday 23 December, 11am and 3pm on Thursday 24 December, 1pm and 6pm on Sunday 27 December and 1pm and 5pm on Monday 28 December. Seats are sold in bands; Christmas Eve's Band A is £124.99 and Band B £94.99, each £25 cheaper per ticket for four or more. [Dates and tickets](https://scroogecirque.com/london).
 
 ### Cirque Alice
-![A rider in full leathers and helmet on a motorcycle in front of the steel mesh sphere of the Globe of Death, one arm raised, backlit through stage haze](../../assets/articles/best-cabaret-london/cirque-berserk-globe.jpg)
 
 *Royal Festival Hall · Waterloo, Embankment · seated, with on-stage seats · **12 December 2026 – 3 January 2027***
-*The Globe of Death, which is the act everyone leaves talking about — and the reason theatre seating matters. Photo: Cirque Berserk.*
 
 **The European premiere of an acrobatic *Alice in Wonderland*** from the creators of *Circus 1903*: aerialists, contortionists and puppetry, set to reworked classical hits. It runs about two hours and the producers describe it as suitable for all ages. [Dates and tickets](https://www.southbankcentre.co.uk/whats-on/cirque-alice/).
-
-*Touring London parks · seated · **28 August – 12 October 2026***
 
 ### The Vaults
 
@@ -550,9 +539,9 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 
 ### Magic Mike Live
 
-![Hippodrome in London](../../assets/articles/best-cabaret-london/magic-mike-live.jpg)
+![The Matcham Room at the Hippodrome Casino, a small galleried theatre with the audience wrapped around a thrust stage](../../assets/articles/best-cabaret-london/magic-mike-live.jpg)
 
-*Hippodrome.*
+*The Matcham Room at the Hippodrome.*
 
 *The Matcham Room, Hippodrome Casino, WC2H 7JH · Leicester Square · seated · 18+*
 
@@ -561,9 +550,6 @@ The Playhouse has been reconfigured in the round, with the audience seated as pa
 The show has returned to its home in the Hippodrome's own theatre, and performance times are more frequent than most: **Wednesday 7pm; Thursday and Friday 7pm and 10pm; Saturday 4pm, 7pm and 10pm; Sunday 4pm and 7pm.** Tickets are **from £42** through official theatre channels — third-party agents quote from £62 for the same seats, so **book through the Hippodrome or an official theatre agent** rather than the first result you find. Book on [Ticketmaster](https://theatre.ticketmaster.co.uk/book/1FHAC-magic-mike-live-bp-9/).
 
 ### Three that are not cabaret rooms
-![Duchess Theatre in London](../../assets/articles/best-cabaret-london/three-more-that-listings-still-get-wrong.jpg)
-
-*Duchess Theatre.*
 
 * **Bunga 90**, 167 Drury Lane — **the old Bunga Bunga cabaret no longer exists.** The Covent Garden site closed for a full overhaul and **relaunched as Bunga 90 on 18 September 2025** as a 90s-themed karaoke and pizza bar. Weekend brunch is £52 a head and the pre-theatre menu £26; karaoke room rates are not published. **Standing drinks areas are 21+ for groups.** The Battersea original closed after eleven years when its Wandsworth lease expired.
 * **She Soho**, 23a Old Compton Street — a lesbian and queer women's bar, now under the Ku Bar group, which describes itself as **"event-led, DJ-driven" and does not run a cabaret bill.** Regular nights are Ruby Tuesday, SING! Karaoke and the Sapphic Sunday Quiz.
@@ -627,4 +613,3 @@ The show has returned to its home in the Hippodrome's own theatre, and performan
 ---
 
 *This guide is independent and contains no paid placements.*
-*This guide is independent and contains no paid placements. Every venue was status-checked against its own website or ticketing system on 1 September 2026. Where a price, age limit or access statement is described here as not published, that means the venue itself does not state it — not that it does not exist.*

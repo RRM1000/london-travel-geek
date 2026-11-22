@@ -71,6 +71,8 @@ Hackney has no Underground station, no major museum and no monument. It has thre
 
 This is residential London, and it rewards a Saturday, not a sightseeing itinerary.
 
+Broadway Market is one of the streets ranked in our [best streets in London](/articles/best-streets-london/), with its Saturday and Sunday hours.
+
 Hackney has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=hackney).
 
 ## Why visit — and who should skip it
@@ -159,6 +161,8 @@ The **River Lea navigation** runs along the eastern edge with a towpath, narrowb
 The Black Eel on Kingsland High Street has a leopard-carpeted karaoke room for 25 at the top of the building, and The Star by Hackney Downs has one for 15; both are in our [karaoke guide](/articles/best-karaoke-london/).
 
 Angelina on Dalston Lane cooks a Japanese-Italian set menu, and Cálong on Stoke Newington Church Street holds a Bib Gourmand for Korean-European cooking. Both are in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
+To watch the match outdoors, Pub on the Park has three decks over London Fields with screens and heaters; it is in our [sports bars guide](/articles/best-sports-bars-london/).
 
 ## Getting there
 

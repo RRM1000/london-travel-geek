@@ -184,11 +184,12 @@ The kitchen does **mole poblano**, cochinita pibil and chiles en nogada in seaso
 ### Ixchel, Chelsea
 
 *£££ · 7 min from Sloane Square* · Cited by 4 sources
-![Ixchel Chelsea - Mexican Restaurant in London](../../assets/articles/best-mexican-restaurants-london/ixchel.jpg)
-
-*Ixchel Chelsea - Mexican Restaurant.*
 
 **A Chelsea room that leans as hard on mezcal and the bar as on the kitchen**, named for the Maya goddess.
+
+![A table at Ixchel in front of a planter of lit cacti, with a rattan lampshade above](../../assets/articles/best-mexican-restaurants-london/ixchel.jpg)
+
+*Inside Ixchel, Chelsea.*
 
 Tacos, ceviche and grilled meats from the kitchen, and a long agave list at the bar. It is busiest late.
 
@@ -225,10 +226,6 @@ The masa is made from scratch daily. The scallop aguachile with Clamato and pome
 ![Sliced meat with pineapple on a corn tortilla](../../assets/articles/best-mexican-restaurants-london/zapote.jpg)
 
 *Tacos at Zapote. Photo: [Bex.Walton](https://www.flickr.com/photos/7831824@N04/53436663110), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).*
-
-![Sonora Taquería in London](../../assets/articles/best-mexican-restaurants-london/sonora-taquera.jpg)
-
-*Sonora Taquería.*
 
 ### Corrochio's, Dalston
 

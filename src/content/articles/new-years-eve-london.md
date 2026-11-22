@@ -1,10 +1,10 @@
 ---
 title: "New Year's Eve in London: Fireworks Tickets, the Parade and Getting Home"
 seoTitle: "New Year's Eve London 2026: Fireworks and Tickets"
-description: "The Thames fireworks are ticketed, paid and sell out. The first batch of tickets for 31 December 2026 is on sale; the second batch goes on sale at noon on 20 November. Prices, the six viewing areas, the free viewpoints that are shut, and how to get home."
+description: "The Thames fireworks are ticketed, paid and sell out. Tickets for 31 December 2026 went on sale in two batches; the second and final batch went on sale at noon on 20 November. Prices, the six viewing areas, the free viewpoints that are shut, and how to get home."
 publishedAt: 2026-09-04
-updatedAt: 2026-11-19
-reviewBy: 2026-12-18
+updatedAt: 2026-11-21
+reviewBy: 2026-12-01
 sites:
   - london
 canonicalSite: london
@@ -20,11 +20,11 @@ heroImage: "../../assets/articles/new-years-eve-london/thames-fireworks.jpg"
 heroImageAlt: "Fireworks bursting in red and blue over the Thames at night, with the London Eye, the Golden Jubilee Bridges and the Elizabeth Tower lit below"
 faq:
   - q: "Do you need a ticket for the London New Year's Eve fireworks?"
-    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames, and City Hall's own wording is blunt: you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. City Hall has confirmed the display returns on 31 December 2026. The first batch of tickets is on sale, and the second batch is released at 12 noon on Friday 20 November 2026."
+    a: "Yes. The Mayor of London's display is a paid, ticketed event with six fenced viewing areas along the Thames. City Hall says you cannot attend without a ticket, and people without one will not be allowed into the viewing areas. The display returns on 31 December 2026. Tickets were released in two batches, and the second and final batch went on sale at 12 noon on Friday 20 November 2026."
   - q: "How much are London New Year's Eve fireworks tickets?"
     a: "For 31 December 2026, City Hall prices a Category A ticket (Blue, Pink and White areas) at £55, or £35 for anyone with a London billing postcode, and Category B (Red, Green and Orange) at £40, or £20 for Londoners, plus a booking fee. City Hall says the prices are unchanged from the 2025 event. The event returned at £15 in 2022."
   - q: "Can you watch the London fireworks for free?"
-    a: "Not really, and it has got worse. The Royal Parks state plainly that there are no official viewing areas for the display in any Royal Park. In 2025 Primrose Hill was fenced and locked from 8pm on 30 December until 6am on 1 January, Greenwich Park's gates shut at about 6pm, and the east side of St James's Park closed at 5pm. Most 'free viewpoint' advice online predates those closures."
+    a: "No. The Royal Parks say there are no official viewing areas for the display in any Royal Park. In 2025 Primrose Hill was fenced and locked from 8pm on 30 December until 6am on 1 January, Greenwich Park's gates shut at about 6pm, and the east side of St James's Park closed at 5pm. Most 'free viewpoint' advice online predates those closures."
   - q: "How do you get tickets for the BBC New Year's Eve show 2026?"
     a: "The Big NYE Party with Steps & Blue is recorded on 25 November 2026 at BBC Television Centre, and free audience tickets were allocated by random draw through BBC Shows and Tours. The draw closed at 11.59pm on 18 November. It is shown on BBC One and iPlayer, hosted by Rylan and Michelle Visage; the BBC has not yet published a broadcast time."
   - q: "Is public transport free on New Year's Eve in London?"
@@ -35,9 +35,9 @@ faq:
     a: "1pm to 4.30pm on Friday 1 January 2027, with all grandstands opening at 12 noon. The route runs from just off Piccadilly near Green Park station, along Regent Street St James's, Pall Mall, past Trafalgar Square and down Whitehall to finish at Parliament Square."
 ---
 
-**London's New Year's Eve fireworks are ticketed, paid, fenced and they sell out — and the first batch of tickets for 31 December 2026 is on sale.** [City Hall's page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026) confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am. **The second batch of tickets is released at 12 noon on Friday 20 November 2026.**
+**London's New Year's Eve fireworks are ticketed, paid and fenced, and they sell out.** [City Hall's page for the 2026 display](https://www.london.gov.uk/events/london-new-years-eve-2026) confirms the fireworks return on Thursday 31 December, running 8pm to 12.30am. **The second and final batch of tickets went on sale at 12 noon on Friday 20 November 2026.**
 
-> 💡 **The Short Version:** The fireworks are **not free and not open access** — six fenced viewing areas, tickets only, through Ticketmaster. **The first batch of tickets is on sale**, and **the second batch is released at 12 noon on Friday 20 November**. The 2026 prices are **£40 to £55**, with a **£20 discount** for London postcodes. There are **no free viewpoints in any Royal Park** — Primrose Hill is locked overnight. **Travel is not free**; that ended after 2019. The **London Parade on 1 January is confirmed, free to watch standing, 1pm to 4.30pm**.
+> 💡 **The Short Version:** The fireworks are **not free and not open access** — six fenced viewing areas, tickets only, through Ticketmaster. **The second and final batch of tickets went on sale at 12 noon on Friday 20 November**. The 2026 prices are **£40 to £55**, with a **£20 discount** for London postcodes. There are **no free viewpoints in any Royal Park** — Primrose Hill is locked overnight. **Travel is not free**; that ended after 2019. The **London Parade on 1 January is confirmed, free to watch standing, 1pm to 4.30pm**.
 
 ---
 
@@ -45,14 +45,14 @@ faq:
 
 | What | Where it stands |
 | --- | --- |
-| Mayor's Thames fireworks, 31 Dec 2026 | Confirmed by City Hall, 8pm to 12.30am. First batch of tickets on sale; second batch at 12 noon on Friday 20 November |
-| Fireworks tickets | £55 / £35 (Category A) and £40 / £20 (Category B); up to 4 per buyer; first batch on sale, second batch from 12 noon on 20 November |
+| Mayor's Thames fireworks, 31 Dec 2026 | Confirmed by City Hall, 8pm to 12.30am. Second and final batch of tickets on sale from 12 noon on Friday 20 November |
+| Fireworks tickets | £55 / £35 (Category A) and £40 / £20 (Category B); up to 4 per buyer; released in two batches, the second and final one at 12 noon on 20 November |
 | London Parade, 1 Jan 2027 | Confirmed. 1pm to 4.30pm, tickets on sale since 1 July 2026 |
 | TfL Christmas and New Year travel | Overview published for 24 December to 3 January: most services run through the night on New Year's Eve, with a fuller plan to follow |
 | Royal Parks closure notice | Not issued. The 2025 notices went out on 23 September and 10 December |
 | BBC One New Year's Eve show | The Big NYE Party with Steps & Blue, hosted by Rylan and Michelle Visage; audience recorded 25 November, draw closed 18 November |
-| Thames boat parties | On sale, from £240 per person for 31 December 2026; the Gold and Silver VIP balconies and the Sapphire family cruise are sold out |
-| Hotel dinners | Some on sale, such as The Ritz's gala dinner at £1,500 a head. Club line-ups land from late October |
+| Thames boat parties | On sale, from £240 per person for 31 December 2026; the Jewel of London's Silver VIP balcony and the Sapphire of London family cruise are sold out |
+| Hotel dinners | On sale, such as The Ritz's gala dinner at £1,500 a head |
 | Hyde Park Winter Wonderland | Confirmed. 19 November 2026 to 3 January 2027, open on 31 December until 10pm |
 
 ---
@@ -106,7 +106,7 @@ The only legitimate resale route is **Ticketmaster's Fan-to-Fan platform, at fac
 
 **The Londoner discount is worth £20 a ticket**, applied at checkout against your card's billing address. Enter the postcode without spaces and in capitals, and be ready to prove it on the night; mismatched bookings have been cancelled without warning.
 
-**When does it go on sale?** The first batch is on sale. **The second batch is released at 12 noon on Friday 20 November 2026**, through the link on [City Hall's 2026 event page](https://www.london.gov.uk/events/london-new-years-eve-2026).
+**When does it go on sale?** Tickets were released in two batches. **The second and final batch went on sale at 12 noon on Friday 20 November 2026**, through the link on [City Hall's 2026 event page](https://www.london.gov.uk/events/london-new-years-eve-2026).
 
 ---
 
@@ -142,7 +142,7 @@ It is not the fireworks. The audience recording is on **25 November 2026 at BBC 
 
 ## Everything else happening that night
 
-The Ritz's black-tie gala dinner in the Ritz Restaurant on Thursday 31 December 2026 is [£1,500 per adult and £750 per child](https://www.theritzlondon.com/new-years-eve-ritz-restaurant/), or £975 per adult in its William Kent House. [The Londoner](https://www.thelondoner.com/festive-season/new-years-eve) on Leicester Square has dinner sittings at Whitcomb's and on its eighth-floor rooftop, where a table for the countdown carries a £450 minimum spend per guest. Club line-ups at the likes of Ministry of Sound, fabric, Troxy and Drumsheds land from late October.
+The Ritz's black-tie gala dinner in the Ritz Restaurant on Thursday 31 December 2026 is [£1,500 per adult and £750 per child](https://www.theritzlondon.com/new-years-eve-ritz-restaurant/), or £975 per adult in its William Kent House. [The Londoner](https://www.thelondoner.com/festive-season/new-years-eve) on Leicester Square has dinner sittings at Whitcomb's and on its eighth-floor rooftop, where a table for the countdown carries a £450 minimum spend per guest.
 
 Boat parties on sale for 31 December 2026 (the sightseeing and dinner boats' New Year sailings are in our [Thames river cruises guide](/articles/thames-river-cruises-london/)):
 
@@ -153,7 +153,7 @@ Boat parties on sale for 31 December 2026 (the sightseeing and dinner boats' New
 | London Party Boats — Emerald of London | £240, drinks only, no food | 21:15 at Festival Pier, back by 01:30 | Family, ages 5 and up |
 | Thames Rockets — open-top speedboat | £549 | 23:00 at Bankside Pier, back at 00:30 | 12 seats per boat |
 
-[London Party Boats](https://www.londonpartyboats.co.uk/events/new-year-s-eve-on-the-thames/230) tickets on the Jewel and Pearl include a welcome Prosecco, unlimited beer, wine, Prosecco by the glass and soft drinks, and a buffet; standard tickets are standing and the outdoor decks are unheated. The Emerald family cruise has no meal, only bar snacks to buy, so eat first. Its VIP balconies and the Sapphire family cruise are sold out. [Thames Rockets](https://www.thamesrockets.com/new-years-eve-2026/) is 90 minutes on a 12-seat open boat, out for midnight and back by half past, or £4,499 for a private charter.
+[London Party Boats](https://www.londonpartyboats.co.uk/events/new-year-s-eve-on-the-thames/230) tickets on the Jewel and Pearl include a welcome Prosecco, unlimited beer, wine, Prosecco by the glass and soft drinks, and a buffet; standard tickets are standing and the outdoor decks are unheated. The Emerald family cruise has no meal, only bar snacks to buy, so eat first. The Jewel of London's Silver VIP balcony package (£350 a head, sold in pairs) and the Sapphire of London family cruise are sold out. [Thames Rockets](https://www.thamesrockets.com/new-years-eve-2026/) is 90 minutes on a 12-seat open boat, out for midnight and back by half past, or £4,499 for a private charter.
 
 **If you do not want to spend £240 on a boat**, watch the display on BBC One, book an early dinner somewhere not doing a set menu (our [late-night eating guide](/articles/late-night-eating-london/) helps), or find a pub that has simply extended its licence rather than one selling a package. [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) is open on 31 December from 11am to 10pm; the £1 entry slots run Monday to Thursday in November only.
 

@@ -31,11 +31,13 @@ Most people see the City of London backwards: out at Tower Hill, the Tower, a ph
 
 **This walk runs the other way.** It starts at Bank, the junction the whole City was laid out around, and works east and south through the market, the tower cluster, a free view from the 58th floor and a bombed church left as a ruin and planted as a garden. The Tower and Tower Bridge come at the end.
 
+Leadenhall Market, on the route, is ranked in our [best streets in London](/articles/best-streets-london/).
+
 It is about **3km and takes two to three hours** with stops. All of it is free except the Tower of London and the Monument.
 
 For St Paul's, Smithfield, the Roman remains and where to stay, see the [City of London area guide](/articles/city-of-london-area-guide/) and our [St Paul's Cathedral guide](/articles/st-pauls-cathedral-guide/).
 
-> 💡 **The Short Version:** Go on a **weekday**, ideally Tuesday to Thursday. Start at **Bank** — go inside the **Royal Exchange**, which is free — and finish at **Tower Bridge**. The unmissable stop is **St Dunstan-in-the-East**, a bombed church turned garden, and it is free. For the view, book **Horizon 22** — free, level 58 — or walk into **The Garden at 120** with no booking at all. Eat at **Leadenhall Market** in the middle or **St Katharine Docks** at the end.
+> 💡 **The Short Version:** Go on a **weekday**, ideally Tuesday to Thursday. Start at **Bank** — go inside the **Royal Exchange**, which is free — and finish at **Tower Bridge**. **St Dunstan-in-the-East** is a church bombed in 1941, its shell now a free garden with climbing plants growing through the empty windows. For the view, book **Horizon 22** — free, level 58 — or walk into **The Garden at 120** with no booking at all. Eat at **Leadenhall Market** in the middle or **St Katharine Docks** at the end.
 
 ## The route
 

@@ -206,7 +206,7 @@ Shoreditch is not the bargain it is still sold as: **the cheapest room in our gu
 
 *A room at The Hoxton, Shoreditch.*
 
-**[The Z Hotel Shoreditch](hotel:z-hotel-shoreditch)** is about £110 with the same windowless-cheapest-rate catch as the Covent Garden branch.
+**[The Z Hotel Shoreditch](hotel:z-hotel-shoreditch)** is about £150 a night across nights we priced from October 2026 to April 2027, with the same windowless-cheapest-rate catch as the Covent Garden branch.
 
 ![A Z Hotel Shoreditch room with a light-wood wall unit holding the TV, and a window looking onto the building opposite](../../assets/articles/best-areas-to-stay-in-london/z-hotel-shoreditch.jpg)
 

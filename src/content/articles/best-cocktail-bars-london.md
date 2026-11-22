@@ -5,7 +5,7 @@ description: "Where the Savoy Cocktail Book was written, a martini mixed at your
 heroImage: "../../assets/articles/best-cocktail-bars-london/a-bar-with-shapes-for-a-name-coasters.jpg"
 heroImageAlt: "Three amber cocktails at A Bar with Shapes for a Name, on coasters cut as a yellow triangle, a red square and a blue circle"
 publishedAt: 2026-08-23
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -27,7 +27,7 @@ faq:
 
 London's cocktail scene splits in two. The **Mayfair and St James's hotel bars** charge about £20 a drink in rooms with a century of history behind them. The **east London independents** charge about £14, and most do not take bookings.
 
-> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** holds guests to two martinis, poured neat from a frozen bottle. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and was named Bar of the Year at the CLASS Bar Awards 2026. **Tayēr + Elementary** is two bars in one room.
+> 💡 **The Short Version:** **The Connaught Bar** has twice been voted the world's best and mixes the martini at your table. **Dukes** holds guests to two martinis, poured neat from a frozen bottle. **The American Bar** at the Savoy is where the Savoy Cocktail Book was written. **Satan's Whiskers** rewrites its menu by hand every day and was named Bar of the Year at the CLASS Bar Awards 2026.
 
 > 📘 **How we choose these (editorial note).**
 > No paid placements. Where a bar holds a world ranking we give the position and the year. Current rankings are from the World's 50 Best Bars 2026, announced on 7 October 2026.
@@ -53,7 +53,7 @@ London's cocktail scene splits in two. The **Mayfair and St James's hotel bars**
 | **Covent Garden & Strand** | The American Bar, Oriole |
 | **Holborn** | Scarfes Bar |
 | **Soho** | Swift, Bar Termini, Three Sheets Soho, Bar Crispin |
-| **Shoreditch & Bethnal Green** | Tayēr + Elementary, Satan's Whiskers, Coupette, Seed Library |
+| **Shoreditch & Bethnal Green** | Satan's Whiskers, Coupette, Seed Library |
 | **Hoxton, Haggerston & Dalston** | Happiness Forgets, A Bar with Shapes for a Name, Three Sheets (Dalston) |
 | **North London** | Little Mercies (Crouch End), Half Cut Market (York Way) |
 | **South Bank** | Lyaness |
@@ -94,19 +94,7 @@ The **martini is mixed at your table** from a trolley of tinctures: you pick the
 
 At The Langham, 1c Portland Place, W1B 1JA, at the top of Regent Street opposite Broadcasting House.
 
-### Tayēr + Elementary, Old Street
-
-*££££ · closed after a fire*
-
-![Customers on wooden stools at a long wooden bar counter, with bartenders working in front of shelves of amber bottles set against green tiles, under an exposed concrete ceiling](../../assets/articles/best-cocktail-bars-london/tayer-plus-elementary-back-room.jpg)
-
-*The seated room behind the bar.*
-
-**No.5 in the World's 50 Best Bars 2025**, the highest-ranked London bar on that list, and not in the 2026 top 100
-
-Alex Kratena and Monica Berg split it in two: a standing bar at the front for a fast drink, a seated room behind for a slow one.
-
-> ⚠️ **Closed since a fire in the building on 5 May 2026**, with no reopening date announced. Do not travel for it.
+**Tayēr + Elementary** on Old Street has closed after a fire in the building on 5 May 2026.
 
 ### Lyaness, South Bank
 

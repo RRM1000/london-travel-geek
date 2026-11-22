@@ -111,7 +111,7 @@ The rate moves a lot with the night: a Cocoon 2 was £90 on an October Sunday an
 
 ## Park Lane: the big hotels on Hyde Park
 
-### The Dorchester: newly renovated, facing the park
+### The Dorchester: renovated in 2026, facing the park
 
 *About £800 · 173 rooms and 68 suites · 53 Park Lane, W1K 1QA · Breakfast extra*
 

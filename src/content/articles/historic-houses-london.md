@@ -190,7 +190,7 @@ Included with admission: talks every half hour from 11am to 4pm, a daily history
 
 The **Secret Dome Tour** takes six people at a time up into Wren's dome for £48. It is **125 steps you must climb unaided**, with no step-free alternative.
 
-**Open daily 10am–5pm** (last entry 4.30pm), but it closes for events on set dates, sometimes all day and sometimes from mid-afternoon; the closures are listed on the college's opening-times page. The Painted Hall closes all day from 16 to 19 November 2026 and on 8 to 11 February 2027. **The lift is out of order**, leaving 50 steps in four flights.
+**Open daily 10am–5pm** (last entry 4.30pm), but it closes for events on set dates, sometimes all day and sometimes from mid-afternoon; the closures are listed on the college's opening-times page. The Painted Hall closes all day from 8 to 11 February 2027. **The lift is out of order**, leaving 50 steps in four flights.
 
 ![The painted ceiling of the Painted Hall at Greenwich, crowded with baroque figures](../../assets/articles/historic-houses-london/painted-hall-ceiling.jpg)
 

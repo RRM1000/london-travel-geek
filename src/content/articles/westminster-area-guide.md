@@ -194,7 +194,11 @@ South along the river from Parliament towards Tate Britain, and much the quietes
 | **Tate Britain Cafe** | Museum cafe | ££ | Fifteen minutes south along the river, and much calmer |
 | **Seven Dials or Soho** | Anything | — | Walk north for dinner |
 
+Kioku by Endo, on the roof of the Old War Office, is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 Two hidden bars sit off Whitehall: The Spy Bar in the old War Office's rooms 006 and 007 at The OWO, and Sibin, a whisky bar tucked inside the Great Scotland Yard Hotel. [The Best Speakeasy Bars in London](/articles/best-speakeasy-bars-london/) has both.
+
+To watch the match, the Greenwood at 170 Victoria Street has more than 30 screens and a 150-inch LED wall; it is in our [sports bars guide](/articles/best-sports-bars-london/).
 
 ## Getting there
 

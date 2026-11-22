@@ -10,7 +10,7 @@ heroImageLicense: "CC BY-SA 4.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0/
 publishedAt: 2026-09-30
 updatedAt: 2026-10-26
-reviewBy: 2026-11-11
+reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
 category: "Day trips"

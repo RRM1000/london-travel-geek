@@ -115,7 +115,7 @@ The cooking is Greek by way of the Ionian islands, the Levant and the Balkans: g
 
 **Not a rooftop: a sealed room near the top of a tower.** It is a twelve-seat chef's table run by the team behind the three-star Restaurant Gordon Ramsay in Chelsea, and it took its first Michelin star in the 2026 guide, the only new star in this set.
 
-Twelve seats means it books like a theatre ticket, and getting in involves the building's security first: the creator who filmed the full feasting menu there counted four checks at the entrance. **Horizon 22, the free public viewing platform on Level 58 of the same building**, is two floors down, so you are paying for the food here, not the height.
+Twelve seats means it books like a theatre ticket, and getting in involves the building's security first: the creator who filmed the full feasting menu there counted four checks at the entrance. **Horizon 22, the free public viewing platform on Level 58 of the same building**, is two floors down, so you are paying for the food here, not the height. Lucky Cat and Bread Street Kitchen in the same tower, and Ramsay's other London restaurants, are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
 
 ---
 

@@ -123,7 +123,7 @@ Rooms are graded by size: **Cosy doubles of 15 to 17 square metres**, Standard 1
 
 *££ · Great Cumberland Place, W1H 7DL · Marble Arch 1 min · Check-out 11am · [check prices](hotel:the-cumberland-london)*
 
-A large hotel on the corner where Oxford Street meets Hyde Park. **The first UK branch of Gordon Ramsay's Hell's Kitchen is downstairs.**
+A large hotel on the corner where Oxford Street meets Hyde Park. **The first UK branch of Gordon Ramsay's Hell's Kitchen is downstairs.** Our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/) says what the sources make of it.
 
 ![A twin room at The Cumberland with two single beds against a grey leather headboard, red London-print cushions, blue curtains at the far window and a long desk with a coffee machine under a wall-mounted TV](../../assets/articles/where-to-stay-marylebone/the-cumberland-room.jpg)
 

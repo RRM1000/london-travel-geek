@@ -75,6 +75,8 @@ Bermondsey's railway viaducts now hold breweries, the leather warehouses are fla
 
 It sits immediately east of Borough Market. Our [Bankside and Borough walk](/articles/bankside-borough-walk/) starts at London Bridge station and covers Borough's inn yards, the market and Shakespeare's Bankside. The Shard's viewing gallery is beside the station: see [The View from The Shard](/articles/the-shard-guide/).
 
+Bermondsey Street and Shad Thames are in our [best streets in London](/articles/best-streets-london/) ranking.
+
 Bermondsey has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=bermondsey).
 
 ## Why visit — and who should skip it
@@ -132,8 +134,6 @@ The riverside restaurants are expensive. **Tower Bridge Collective at 1 Shad Tha
 **Legare in the Cardamom Building at 31G Shad Thames** is a neighbourhood Italian.
 
 **Walk it from the bridge**, two minutes away, and keep going east.
-
-![A narrow cobbled street between tall Victorian warehouses, crossed overhead by cast-iron gantry bridges](../../assets/articles/bermondsey-area-guide/shad-thames.jpg)
 
 ![Counters and communal tables inside the Tower Bridge Collective food hall on Horselydown Lane](../../assets/articles/bermondsey-area-guide/tower-bridge-collective.jpg)
 

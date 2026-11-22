@@ -41,6 +41,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Never infer a fact from a name. Read the operator's own page.
 - A supplied photo is evidence about the venue. If it contradicts the copy, check the operator and fix the copy.
 - Give every time-bound claim its date and set `reviewBy` in the frontmatter. `npm run audit:dates` finds claims that have lapsed.
+- A line that should vanish on a date, such as an offer ending, ends with `{until=YYYY-MM-DD}` (the last day it shows). It comes off the page the next day without a rebuild. Mark its heading line too if the heading would be left empty.
 - Never hand-edit the italic facts strip under a restaurant heading. `scripts/sync-article-facts.mjs` writes it from the Sheet.
 - When checking one page turns up a mistake on another, fix both.
 - A substantive edit (facts, entries, prices, dates, new sections) sets `updatedAt` to that day; cards and headers show it as "Updated". Photo, caption and wording tidies don't. Never move `publishedAt` earlier than the day the page first existed.

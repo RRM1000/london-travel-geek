@@ -1,0 +1,59 @@
+{
+  "topic": "sports-bars",
+  "article": "src/content/articles/best-sports-bars-london.md",
+  "headTerm": "Sports Bars",
+  "note": "Built 5 November 2026; Rob approved the plan, so there was no review stop. SCOPE: bars and pubs in London built around watching live sport on screens - the searches 'sports bars london' and 'where to watch football / sport in london'. Venues that only put up a screen for one tournament (Vinegar Yard, Flat Iron Square) count because the sources write them up for watching sport. Chains count once per BRAND: Boxpark (Shoreditch, Wembley, Croydon, Camden), Belushi's, Passyunk Avenue. Sport London's six pubs (Greenwood, Goldwood, Broadwood, Beechwood, Redwood, Westwood) are separately named pubs that sources write up separately, so they are kept apart. Every screen count, sound policy, booking rule and opening time on the page comes from the operator's own page; source quotes are attributed where used.",
+
+  "noTierA": {
+    "state": false,
+    "explain": "The Great British Pub Awards run a judged Best Pub to Watch Sport category. It is national, so it is recorded scoped to its London finalists: The Minories (2025), Clubhouse 5 Leicester Square (2024) and Sports Bar & Grill Canary Wharf (2023, recorded as Directors Box). No London pub won; the 2026 shortlist has none."
+  },
+
+  "awardBodies": [
+    { "name": "Great British Pub Awards - Best Pub to Watch Sport", "domain": "greatbritishpubawards.co.uk", "tier": "A", "cadence": "annual", "note": "London finalists only. Winners: GOAT Nantwich (2026), Pinnacle Sports & Games Leeds (2025), Gardeners Arms Norwich (2024)." }
+  ],
+
+  "editorialLists": [
+    { "name": "Time Out", "domain": "timeout.com", "ranked": true, "note": "Five pages: football pubs ranked 1-42 (Apr 2024; #1 Hercules Pillars, #2 Faltering Fullback); rugby pubs ranked 1-16 (Jan 2026; #1 Cabbage Patch); Super Bowl LX (Feb 2026); PDC darts 2026 (Dec 2025, numbered, not printed as ranks); 50 Best Bars 2026 (#1 Cafe Kick, #37 Bloodsports - the only two sports bars on it)." },
+    { "name": "DesignMyNight", "domain": "designmynight.com", "ranked": false, "note": "Nine editorial pages (sports bars, football, rugby, NFL, F1, cricket, outdoor screens, GAA, AFL), Jan-Oct 2026. A booking platform; one domain. Its boxing page was read but not recorded." },
+    { "name": "Evening Standard", "domain": "standard.co.uk", "ranked": false, "note": "Six Nations 2026 (5 Mar 2026), with 'best for' lines per home nation; World Cup final big screens (19 Jul 2026)." },
+    { "name": "SquareMeal", "domain": "squaremeal.co.uk", "ranked": false, "note": "Six Nations 2025, read from a Wayback copy." },
+    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": false, "note": "Football, Jul 2026." },
+    { "name": "Londonist", "domain": "londonist.com", "ranked": false, "note": "Football (Aug 2026) and sports bars (Nov 2025), read from Wayback copies." },
+    { "name": "Secret London", "domain": "secretldn.com", "ranked": false, "note": "Sports bars (Jun 2024), Six Nations 2026, Super Bowl (Feb 2025)." },
+    { "name": "Hot Dinners", "domain": "hot-dinners.com", "ranked": false, "note": "World Cup 2026, Gavin Hanly, 7 Jul 2026." }
+  ],
+
+  "facetAxis": {
+    "field": "sport",
+    "values": [
+      { "key": "football", "label": "Football", "describeAs": "Premier League, Champions League and international football; Saturday 3pm kick-offs are not shown on UK TV" },
+      { "key": "rugby", "label": "Rugby", "describeAs": "the Six Nations, the autumn internationals and the Rugby World Cup" },
+      { "key": "nfl-us", "label": "NFL and American sports", "describeAs": "NFL Sundays, the Super Bowl, baseball, basketball and ice hockey" },
+      { "key": "f1-cricket", "label": "F1, cricket and AFL", "describeAs": "Grand Prix weekends, Test and T20 cricket, Aussie rules" },
+      { "key": "darts-boxing", "label": "Darts and boxing", "describeAs": "the PDC World Championship at Ally Pally and big fight nights" }
+    ]
+  },
+
+  "knownGaps": [
+    "Reddit is blocked from this machine and was not collected (no tier E).",
+    "Search route: DuckDuckGo lite by fetch for about 20 queries before a 202 challenge; Brave once before a block; Bing News RSS for dated items; Wayback id_ copies for Cloudflare-blocked Londonist and SquareMeal; yt-dlp for YouTube descriptions and chapters; TikTok captions from __UNIVERSAL_DATA_FOR_REHYDRATION__.",
+    "Tier D is four channels (Hannah and Martin on the Globe, BUDDYWOOD, Axl and Sean, Historic Pub Crawls). Most sports-bar video found names no venue or is the operator's own channel (Belushi's, Trip.com's Trip Trains), all declined.",
+    "Time Out's football list is April 2024, the oldest ranked source; its rugby list is January 2026.",
+    "Sound policy is printed only where the operator states it (Greenwood, Broadwood, BOX, Boxpark, Side Hustle, Bloodsports, Hercules Pillars, Cafe Kick, Duke of Edinburgh, Sport London AFL). Other entries carry no sound line.",
+    "No Australian or New Zealand bar has an operator page that could be read; that subsection rests on Sport London's AFL page."
+  ],
+
+  "openVenueQuestions": [
+    "ASK ROB - Bar Kick (5 sources, Time Out #12 of 42). DesignMyNight lists The Shoreditch Arms at 127 Shoreditch High Street, Bar Kick's address, and Accidental Travel Writer writes 'Bar Kick at The Shoreditch Arms'. Whether Bar Kick still trades under its own name is not established, so it is left off the page.",
+    "ASK ROB - Directors Box is recorded as the 2023 GBPA finalist 'Sports Bar & Grill - Canary Wharf': same Crossrail Place, E14 5AR site, same operator (Social Pub & Kitchen), and DesignMyNight's F1 page uses both names. Confirm the identity.",
+    "ASK ROB - left off for want of a readable operator page with sport details: Frankie's Sports Bar & Grill (4), The Cabbage Patch (4, Time Out rugby #1), The World's End Finsbury Park (4, Time Out football #4), TOCA Social (5), The Clapham Grand (5, ticketed Super Bowl nights only), The Three Compasses (4; site found, no sport content), The Falcon Clapham (3), The Dial Greenwich (3), The Hemingford Arms (3), The Actress (3), Pavilion End (3), The Temperance Fulham (3), Hard Rock Cafe (3), Moretown Belle (3), Bat & Ball Covent Garden (3), The American Bar at The Stafford (3, Super Bowl only), Clubhouse 5 (2, GBPA 2024 finalist), McGettigan's and The Butcher's Hook (Talk Chelsea).",
+    "KERB Social Club now trades as KERB Sports Bar at Old Spitalfields Market (kerbfood.com/kerb-social-club redirects to kerbsportsbar.com, and DesignMyNight uses both names on one listing). All mentions are recorded under KERB Sports Bar: 5 sources.",
+    "Belushi's recorded once as a brand; the page describes the London Bridge site, which the sources name most.",
+    "Boxpark recorded once as a brand (Shoreditch, Wembley, Croydon, Camden).",
+    "The Kings Arms in Time Out's football list (#28) is the Ealing pub; the Kings Arms Fulham on the page (LFC London supporters' venue) is a different pub and is not in the sources, so it carries no citation line.",
+    "LaCage Kensington opened autumn 2026 and is in none of the sources; it is on the page as a new opening, with no citation line.",
+    "Pavilion End was closed until 11 Sep 2026 per Londonist and has reopened; not on the page (no operator page read).",
+    "No venue was dropped as closed."
+  ]
+}

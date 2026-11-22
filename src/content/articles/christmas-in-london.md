@@ -3,7 +3,7 @@ title: "Christmas in London: Markets, Lights and Winter Wonderland"
 seoTitle: "Christmas in London 2026: Markets, Lights & Events"
 description: "Every Christmas market still running, the best streets for lights, the ice rinks and light trails still running - and the ones that have stopped."
 publishedAt: 2026-09-01
-updatedAt: 2026-11-19
+updatedAt: 2026-11-21
 reviewBy: 2026-11-26
 sites:
   - london
@@ -29,6 +29,8 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 **Christmas in London runs from mid-November to the first week of January.** The markets and the lights are free to look at; the rides and the skating are not. Hyde Park Winter Wonderland is not a free-to-wander street market: it needs a timed ticket to enter.
 
+> 💡 **The Short Version:** **Hyde Park Winter Wonderland** runs **19 November 2026 to 3 January 2027** and everyone needs a timed entry ticket: **£1** Monday to Thursday in November, then **£5.50 or £8.25**. The street markets are free to walk into: **Southbank Centre** to 2 January, **Leicester Square** to 3 January, the **King's Cross Winter Market** from 26 November. Every street's lights are on, and the **Trafalgar Square tree is lit on Thursday 3 December**. **Christmas at Kew** runs to 3 January, from **£25.50**. Six outdoor rinks are open, **Somerset House** longest, to 10 January. The **Palladium panto** starts on **5 December**, the **Royal Ballet's Nutcracker** on **3 December** and English National Ballet's on **17 December**. **No TfL services run on Christmas Day**, and **London Paddington is closed from Christmas Day**.
+
 ---
 
 > 🧭 **Plan the rest of it:** [Hyde Park Winter Wonderland](/articles/hyde-park-winter-wonderland/) · [Christmas lights walk](/articles/christmas-lights-walk-london/) · [Christmas walk: markets, carols and pubs](/articles/christmas-walk-london/) · [Christmas pubs](/articles/christmas-pubs-london/) · [Christmas Day restaurants](/articles/christmas-day-restaurants-london/) · [New Year's Eve](/articles/new-years-eve-london/) · [Things to do in London in November](/articles/things-to-do-in-london-in-november/) · [Things to do in London in December](/articles/things-to-do-in-london-in-december/) · [Things to do in London in January](/articles/things-to-do-in-london-in-january/)
@@ -43,7 +45,7 @@ heroImageAlt: "Skaters on the ice rink in the courtyard of Somerset House, with 
 
 Inside, **Santa's Grotto, the Christmas Market, the light arches and every band and DJ are free**. Everything else is not: the ice rink is £12.65–£19.25, the Giant Wheel £8.80–£12.10, the new Gandeys K-Pop Dragon Circus £13.75–£19.80 (Gandeys replaces Zippos as the resident circus in 2026). Every fairground ride is charged separately on top.
 
-The quietest and cheapest visit is the same visit: a Monday to Thursday daytime in late November, when entry is £1 and the attraction prices drop with it.
+The quietest and cheapest visit is the same visit: a Monday to Thursday daytime in November, when entry is £1 and the attraction prices drop with it. In December the £1 band ends; the cheapest entry is **£5.50 standard**, sold across many weekday mornings and afternoons, while the **£8.25 peak** slots fall mostly later in the day and at weekends.
 
 > 🎡 **[The full Winter Wonderland guide](/articles/hyde-park-winter-wonderland/)** — every published price, all four gates, the free live music, the Bavarian Hall's 18+ evening rule, and what is new for 2026.
 
@@ -80,7 +82,7 @@ Oxford Street's lights went on on Monday 9 November 2026. It is traffic-free fro
 
 | Street | Known for |
 | --- | --- |
-| **Oxford Street** | "Sky Full of Stars" — over 5,000 illuminated stars the length of the street in 2025; traffic-free from Orchard Street to Great Portland Street from 26 October 2026 |
+| **Oxford Street** | A Harry Potter tie-in with HBO Max for 2026: displays of the four Hogwarts houses among the "Sky Full of Stars" strands, and a Harry Potter Christmas tree in Hanover Square; traffic-free from Orchard Street to Great Portland Street since 26 October 2026 |
 | **Regent Street** | The "Spirit(s) of Christmas" — illuminated angel figures |
 | **Carnaby Street** | A completely different sculptural light installation each year |
 | **Bond Street & South Molton Street** | Tens of thousands of LEDs on a different theme annually; South Molton Street's own blue-lit arches; Dior's façade at 160-162 New Bond Street dressed as a giant advent calendar for 2026 |
@@ -99,7 +101,7 @@ TfL periodically closes Oxford Circus station's entrances when crowds build on S
 
 These are paid, walk-through experiences.
 
-**Christmas at Kew** runs **13 November 2026 – 3 January 2027**: a 3km illuminated trail through Kew Gardens taking upwards of two hours. Adult tickets from **£29.50 off-peak, £37 peak**; a Kew Gardens day visit is a separate ticket, an extra £12. Book through [kew.org](https://www.kew.org/kew-gardens/whats-on/christmas).
+**Christmas at Kew** runs **13 November 2026 – 3 January 2027**: a 3km illuminated trail through Kew Gardens taking upwards of two hours. Tickets from **£25.50**; a Kew Gardens day visit is a separate ticket, an extra £12. Book through [kew.org](https://www.kew.org/kew-gardens/whats-on/christmas).
 
 **[Hampton Court Palace](/articles/hampton-court-palace-guide/)** runs two separate things in 2026: **The Winter Palace**, a new indoor immersive walkthrough included in standard palace admission (£33–£36 adult), running **28 November 2026 – 3 January 2027**; and a **separate ice rink**, **20 November 2026 – 3 January 2027**, priced separately: £19.50 adult off-peak, £21.50 peak, family £59.50–£65.50 (see our [ice skating guide](/articles/ice-skating-london/)).
 
@@ -121,7 +123,7 @@ These are paid, walk-through experiences.
 
 **Book Somerset House early:** prices vary through the run and the lowest go to early bookers. **Not running in 2026:** the **Natural History Museum's** rink has closed for good, **Canary Wharf's** is taking a break for the season, and there is no **Tower of London** rink.
 
-For grottos, 2025 prices were roughly £36–£45 for **Fortnum & Mason's** "Storytelling with Father Christmas" and from £65 for a group of three at **Hamleys'** Regent Street grotto. **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead. Outside the centre, **[Chessington World of Adventures](/articles/chessington-world-of-adventures-day-trip/)**, in Zone 6, puts Father Christmas's grotto in a Christmas Village on selected dates from 21 November to 24 December 2026, with park entry from £32; [theme parks near London](/articles/theme-parks-near-london/) has the other parks' Christmas dates.
+For grottos, **Hamleys'** Regent Street grotto is **£75 to £195** for 2026 on [Hamleys' booking page](https://www.hamleys.com/santas-grotto). **Harrods'** famous grotto has been discontinued with no plans to reopen. **Selfridges** doesn't run a formal grotto — Santa and his elves roam the shop floor for free instead. Outside the centre, **[Chessington World of Adventures](/articles/chessington-world-of-adventures-day-trip/)**, in Zone 6, puts Father Christmas's grotto in a Christmas Village on selected dates from 21 November to 24 December 2026, with park entry from £32; [theme parks near London](/articles/theme-parks-near-london/) has the other parks' Christmas dates.
 
 ---
 
@@ -232,17 +234,17 @@ It has run for 32 years and **in 2026 it is a new production** — a world premi
 
 ![English National Ballet artwork for Nutcracker: a dancer in white mid-turn among oversized sweets, boiled sweets and candy canes on a pale blue ground](../../assets/articles/christmas-in-london/nutcracker-english-national-ballet.jpg)
 
-**The Royal Ballet's Nutcracker at Covent Garden** runs every Christmas too and is more expensive. Either works from about five upwards; both sell out early, so book when the dates open.
+**The Royal Ballet's Nutcracker**, Peter Wright's production, is at the Royal Opera House in Covent Garden from **3 December 2026 to 13 January 2027**, **£36 to £238**, about 2 hours 10 minutes with one interval. Both companies set the age at five and over, and both sell out early. Dates for both are in our [Christmas shows guide](/articles/christmas-shows-london/).
 
 ### Pantomime
 
-**Two pantomimes**: **Hackney Empire's** *Jack and the Beanstalk* (21 November – 31 December 2026), directed by and starring Olivier winner Clive Rowe, **£10–£48**; and the **London Palladium's** *Cinderella* (5 December 2026 – 10 January 2027), with Dawn French and Jennifer Saunders reuniting as the Ugly Sisters for the first time in 17 years.
+**Two of the pantomimes**: **Hackney Empire's** *Jack and the Beanstalk* (21 November – 31 December 2026), directed by and starring Olivier winner Clive Rowe, **£10–£48**; and the **London Palladium's** *Cinderella* (5 December 2026 – 10 January 2027), with Dawn French and Jennifer Saunders reuniting as the Ugly Sisters for the first time in 17 years. Stratford East, the Lyric Hammersmith and the rest are in our [Christmas shows and pantomimes guide](/articles/christmas-shows-london/).
 
 ### For the under-fives
 
 **The Gruffalo** and its stablemates — *The Gruffalo's Child*, *Room on the Broom*, *The Smeds and The Smoos* — are made by Tall Stories, a London company, and at least one of them is usually playing somewhere in the city over Christmas. **The Gruffalo runs 55 minutes with no interval and is aimed at three and over.** Venues and dates change every year, so check the company's own listings. Two are on in the West End in 2026-27: [Room on the Broom](https://thelyrictheatre.co.uk/tickets/room-on-the-broom-live-on-stage/) at the Lyric Theatre (27 November 2026 – 3 January 2027, from £10, ages three and over, 60 minutes) and [Peppa Pig's Big Family Show!](https://trh.co.uk/whatson/peppa-pigs-big-family-show/) at the Theatre Royal Haymarket (4 December 2026 – 3 January 2027, from £10, about 1 hour 20 minutes).
 
-> ⚠️ **Children's shows sell out first.** The Snowman, both Nutcrackers and the Palladium panto are usually gone for the good December dates by early autumn. If you are reading this in November, look at early January — the runs continue past Christmas and the seats are easier and cheaper.
+> ⚠️ **Children's shows sell out first.** The Snowman, both Nutcrackers and the Palladium panto are usually gone for the good December dates by early autumn. For a late booking, look at early January: the runs continue past Christmas and the seats are easier and cheaper.
 
 ---
 
@@ -334,7 +336,7 @@ Almost nothing opens on 25 December, no transport runs, and what does open is a 
 **National Rail has its own closures around Christmas 2026**, and no trains run in England on Christmas Day itself ([National Rail](https://www.nationalrail.co.uk/dolphinjunction/), [Network Rail](https://www.networkrailmediacentre.co.uk/news/most-of-britains-railway-open-for-christmas-with-passengers-advised-to-plan-ahead-around-engineering-work)):
 
 - **Saturday 28 and Sunday 29 November:** Dolphin Junction work means no Elizabeth line or Heathrow Express trains run to or from Heathrow, and the Piccadilly line is the only train service between central London and the airport. The Elizabeth line is shut along its whole length, central London included, so use the Central line across town. Great Western trains do not run to Paddington, and the Bristol and South Wales trains run to Euston instead.
-- **Sunday 27 December to Sunday 3 January 2027:** Great Western trains cannot reach Paddington, and long-distance services start and finish at Reading or divert to Euston. The Elizabeth line and Heathrow Express do not run to or from Heathrow until Wednesday 30 December, and resume on New Year's Eve.
+- **From Christmas Day:** London Paddington is closed. From Sunday 27 to Wednesday 30 December no Elizabeth line or Heathrow Express trains run to or from Heathrow, and the Piccadilly line is the only train between central London and the airport; both return to Paddington on New Year's Eve. Great Western trains cannot use Paddington until Monday 4 January: long-distance services start and finish at Reading, and some divert to Euston.
 - **From Christmas Day to the early hours of Monday 4 January:** the Great Eastern Main Line is closed at Forest Gate, so no Greater Anglia or Elizabeth line trains run through the area, on the route into Liverpool Street.
 - **From Sunday 20 December to the early hours of Monday 4 January:** buses replace trains from Reigate and from Earlswood to Purley on the Brighton Main Line; Brighton and Gatwick Airport services still run.
 

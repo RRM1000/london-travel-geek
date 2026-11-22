@@ -38,7 +38,7 @@ faq:
 London's Greek restaurants are two cities. One is the modern Greek dining room: Oma, Opso, Myrtos and a run of Mayfair openings, cooking over fire with long Greek wine lists. The other is older and mostly Cypriot: family tavernas in Camden and Bayswater from the 1960s to the 1980s, and the souvlaki counters, bakeries and meze houses of Palmers Green.
 
 > 📊 **The evidence behind this guide.**
-> **36 independent sources carrying 238 citations** across **81 named restaurants**. **44 restaurants are named by two or more independent sources.**
+> **36 independent sources carrying 235 citations** across **80 named restaurants**. **43 restaurants are named by two or more independent sources.**
 > **Built on:** Michelin, the Good Food Guide and the National Restaurant Awards; Time Out's ranked list, The Infatuation, Eater London and the Guardian; Greek-language Cookout, Athinorama and LiFO; YouTube and Reddit.
 > *Evidence built 8 October 2026 · [How we rank →](/how-we-rank/)*
 
@@ -275,6 +275,10 @@ Condé Nast Traveller ate **keftedes** (meatballs), saganaki and **galaktobourek
 
 The Pachamama group's first Greek restaurant, a bright room on Portobello Road whose front windows open in summer, with a bar downstairs that runs late from Wednesday to Sunday. The Infatuation rates it 8.3.
 
+![Zephyr's black shopfront on Portobello Road, with its name in small white letters, black awnings and green curtains in the windows](../../assets/articles/best-greek-restaurants-london/zephyr-portobello-road.jpg)
+
+*Zephyr on Portobello Road.*
+
 Luxury London's picks are the **crispy potato terrine** and the **Greek salad** with thick wedges of feta; Hot Dinners says the crudo is strong. The Infatuation notes South American touches, such as a whole grilled fish with amarillo chilli butter.
 
 **Dinner only, from 6pm.**
@@ -284,6 +288,10 @@ Luxury London's picks are the **crispy potato terrine** and the **Greek salad** 
 *£££ · 120 Holland Park Avenue, W11 4UA · Cited by 5 sources · [book a table](https://vorigreekitchen.co.uk/reservations)*
 
 Opened in January 2023 by Markos, Alexandros and Stefanos Tsimikalis, who ran Hungry Donkey in Spitalfields, and named after a beach on Andros. Tables outside on Holland Park Avenue, an all-Greek wine list, and meat from Lidgates, the butcher next door.
+
+![Vori's dining room, with an olive-green banquette, marble tables and a shelf of model boats and clay pots under a framed portrait](../../assets/articles/best-greek-restaurants-london/vori-dining-room.jpg)
+
+*Inside Vori.*
 
 From the charcoal: **pork suvlaki skewers** (£24), **octopus with Santorini fava** (£28) and paidakia, lamb chops (£38). Hot Dinners recommends the **koulouri** with thyme-honey butter at weekend brunch.
 

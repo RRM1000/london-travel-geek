@@ -3,8 +3,8 @@ title: "Premier League Tickets in London: Why You Cannot Just Buy One"
 seoTitle: "Premier League Tickets London: How to Actually Get One"
 description: "The six London clubs in the Premier League sell home tickets to members first and mostly never reach general sale. What each membership costs, when ballots open, the club resale platforms, and why reselling a football ticket is a criminal offence."
 publishedAt: 2026-09-22
-updatedAt: 2026-10-26
-reviewBy: 2026-11-17
+updatedAt: 2026-11-21
+reviewBy: 2026-12-08
 sites:
   - london
 canonicalSite: london
@@ -36,7 +36,7 @@ faq:
   - q: "Can I use StubHub or Viagogo to buy Premier League tickets?"
     a: "No. Reselling a football ticket without the club's authorisation is a criminal offence in England and Wales, so no general resale marketplace can lawfully sell you a Premier League ticket. Chelsea says tickets bought from anyone other than the club or an authorised partner 'will be confiscated and entry will be refused'. The legitimate equivalents are the clubs' own exchanges, where season-ticket holders resell at face value."
   - q: "How far in advance do Premier League tickets go on sale in London?"
-    a: "Around four to eight weeks. Chelsea opens applications about 42 days before each fixture. Arsenal's ballot opens about seven weeks out and closes three days later. Crystal Palace opens sales about six weeks out, to Gold members first and to everyone else three days later; for its home match against Manchester United on 12 December 2026 that is 2 and 5 November. Brentford's overseas ballot closes 72 hours after the kick-off time is confirmed, usually four to six weeks before the match."
+    a: "Around four to eight weeks. Chelsea opens applications about 42 days before each fixture. Arsenal's ballot opens about seven weeks out and closes three days later. Crystal Palace opens sales about six weeks out, to Gold members first and to everyone else three days later; for its home match against Manchester United on 12 December 2026 those were 2 and 5 November. Brentford's overseas ballot closes 72 hours after the kick-off time is confirmed, usually four to six weeks before the match."
   - q: "Do I need a membership to go to a Premier League match in London?"
     a: "For a home league match at Arsenal, Chelsea, Tottenham, Crystal Palace or Brentford, in practice yes. The exceptions: a member can buy you a guest ticket in a later sale phase at Crystal Palace and Brentford; hospitality needs no membership (Chelsea says so for its non-Westview Club Chelsea packages); and Fulham reaches a genuine general sale."
   - q: "Can I buy a Premier League ticket on the day of the match in London?"
@@ -380,6 +380,7 @@ League Cup and FA Cup home ties can reach general sale. Chelsea's cup phases end
 ## Continue planning your London trip
 
 - ⚽ **[Football Stadium Tours in London](/articles/football-stadium-tours-london/)** — see the dressing rooms and the tunnel at Chelsea, Arsenal, Tottenham, West Ham, Wembley and Fulham without a match ticket
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🎾 **[How to Get Wimbledon Tickets](/articles/wimbledon-tickets-guide/)**
 - 🏃 **[London Marathon: How to Get a Place](/articles/london-marathon-guide/)**
 - 🎭 **[London Theatre Guide](/articles/london-theatre-guide/)** — day seats, lotteries and rush tickets

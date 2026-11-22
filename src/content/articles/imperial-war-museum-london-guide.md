@@ -3,7 +3,7 @@ title: "Imperial War Museum London: Free Entry, Galleries and Visiting Tips"
 seoTitle: "Imperial War Museum London 2026: Free Entry & Galleries"
 description: "Imperial War Museum London is free with no booking. The galleries on each floor, the Holocaust Galleries age guidance, opening hours, the free Childhood in War exhibition and how to get there."
 publishedAt: 2026-11-15
-updatedAt: 2026-11-15
+updatedAt: 2026-11-21
 reviewBy: 2027-01-15
 sites:
   - london
@@ -28,7 +28,7 @@ faq:
   - q: "Is the Imperial War Museum in London free?"
     a: "Yes. Entry to IWM London is free and you do not need to book. IWM is a charity and takes donations by contactless tap at points around the museum."
   - q: "What are the opening hours of the Imperial War Museum?"
-    a: "10am to 6pm every day except 24 to 26 December. On Thursday 19 November 2026 it closes early, at 5.30pm."
+    a: "10am to 6pm every day except 24 to 26 December."
   - q: "How long do you need at the Imperial War Museum?"
     a: "IWM recommends at least three hours to see the First World War, Second World War and Holocaust galleries and the Blavatnik Art, Film and Photography Galleries."
   - q: "What age is the Imperial War Museum suitable for?"
@@ -48,7 +48,7 @@ Imperial War Museum London, in Lambeth just south of the river, covers conflict 
 IWM says its subject is the experience of ordinary people caught up in war. The galleries are built from diaries, uniforms, art and film as much as from weapons, and the atrium is hung with aircraft and rockets.
 
 > 💡 **The Short Version:**
-> - **Entry is free and you do not need to book.** Open **10am to 6pm every day except 24 to 26 December**; it closes at 5.30pm on Thursday 19 November 2026.
+> - **Entry is free and you do not need to book.** Open **10am to 6pm every day except 24 to 26 December**.
 > - **Allow at least three hours**, IWM's own advice, for the First World War, Second World War and Holocaust galleries plus the art and film galleries on Level 3.
 > - **The Holocaust Galleries are not recommended for under-14s** and some sections are highly graphic. Everything else suits all ages.
 > - **With children:** the free **Childhood in War** exhibition runs to 28 February 2027 and is designed for ages 8 and over. Free family activities run every weekend.

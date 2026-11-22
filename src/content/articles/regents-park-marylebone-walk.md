@@ -29,6 +29,8 @@ faq:
 
 Regent's Park from Baker Street and Marylebone High Street from Bond Street make **one walk**.
 
+Marylebone High Street and Baker Street are ranked in our [best streets in London](/articles/best-streets-london/).
+
 This route starts at 221b, crosses the park past the boating lake and the rose garden, loops past Nash's terraces, and comes down through Marylebone to Bond Street: **eleven stops, about 5km, three to four hours** with stops. Almost all of it is free.
 
 For the rest of the area — where to eat, Chiltern Street, where to stay — see the [Marylebone area guide](/articles/marylebone-area-guide/).

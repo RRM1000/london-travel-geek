@@ -219,6 +219,7 @@ The package is a bundle of a bed, a booking service and an individual payment sy
 
 ## Continue planning your London trip
 
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🎯 **[Competitive Socialising in London](/articles/competitive-socialising-london/)**
 - 🎤 **[The Best Karaoke in London](/articles/best-karaoke-london/)** — private rooms, KTV and free pub nights
 - 🎲 **[Casinos in London: Which Are Still Open](/articles/casinos-london/)**

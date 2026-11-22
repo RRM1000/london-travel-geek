@@ -5,7 +5,7 @@ description: "Not our opinion. Every restaurant here is ranked by how many indep
 heroImage: "../../assets/articles/best-seafood-restaurants-london/the-seafood-bar-fruits-de-mer.jpg"
 heroImageAlt: "A fruits de mer platter at The Seafood Bar: oysters, mussels, clams, langoustines, a crab claw, smoked salmon and dressed crab on ice"
 publishedAt: 2026-08-29
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -32,7 +32,7 @@ Seafood here comes three ways: shucked at an **oyster counter**, cooked whole ov
 > 💡 **The Short Version:** **J Sheekey** is the most-cited seafood restaurant in London, and **Scott's** is second. **Wiltons** has been trading since 1742. **The Sea, The Sea** is a working fishmonger with a bistro above it. **Behind** and **Angler** are the starred fish kitchens. **Manzi's** and **Sam's Riverside** do £2 oysters. And **Billingsgate** is open to the public before dawn.
 
 > 📊 **The evidence behind this guide.**
-> **15 sources carrying 187 citations** across **108 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
+> **15 sources carrying 187 citations** across **106 named restaurants**. **31 restaurants are named by two or more independent sources; 8 carry a dated award.**
 > **Built on:** the Good Food Guide; Time Out, Hot Dinners, The Infatuation and The Handbook; oyster specialists; YouTube and Reddit.
 > *Evidence rebuilt 30 August 2026 · [How we rank →](/how-we-rank/)*
 
@@ -60,7 +60,7 @@ Seafood here comes three ways: shucked at an **oyster counter**, cooked whole ov
 | **Southwark** | Seabird |
 | **Chelsea & Sloane Square** | The Sea, The Sea |
 | **Hackney & Shoreditch** | Behind |
-| **Notting Hill & west** | Orasay, Faber, Sam's Riverside |
+| **Hammersmith** | Faber, Sam's Riverside |
 | **North London** | Tollington's, London Shell Co |
 | **Barnes** | Rick Stein |
 | **Canary Wharf** | Billingsgate Fish Market |
@@ -85,7 +85,7 @@ Sit at the counter for half a dozen and the fish pie rather than booking the din
 
 *The crustacea counter at J Sheekey.*
 
-**Book:** [j-sheekey.co.uk](https://j-sheekey.co.uk/) · 28–32 St Martin's Court, WC2N 4AL
+**Site:** [j-sheekey.co.uk](https://j-sheekey.co.uk/) · 28–32 St Martin's Court, WC2N 4AL
 
 ### Scott's, Mayfair
 
@@ -101,7 +101,7 @@ Two policies to check before you book: **under-sixes are admitted only at weeken
 
 *Photo: [La Citta Vita](https://www.flickr.com/photos/49539505@N04/12620350394), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-**Book:** [scotts-restaurant.com](https://scotts-restaurant.com/) · 20 Mount Street, W1K 2HE
+**Site:** [scotts-restaurant.com](https://scotts-restaurant.com/) · 20 Mount Street, W1K 2HE
 
 ### Bentley's Oyster Bar & Grill, Piccadilly
 
@@ -117,7 +117,7 @@ One of only eight restaurants here carrying a dated award, and Corrigan's own li
 
 Sit at the oyster bar downstairs unless you want the full dinner.
 
-**Book:** [bentleys.org](https://bentleys.org/) · 11–15 Swallow Street, W1B 4DG
+**Site:** [bentleys.org](https://bentleys.org/) · 11–15 Swallow Street, W1B 4DG
 
 ### Wright Brothers
 
@@ -161,7 +161,7 @@ A marble-topped oyster bar, Dover sole meunière and a carving trolley. It keeps
 
 *Wiltons, Jermyn Street. Photo: [Spudgun67](https://commons.wikimedia.org/w/index.php?curid=72552746), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
-**Book:** [wiltons.co.uk](https://wiltons.co.uk/) · 55 Jermyn Street, SW1Y 6LX
+**Site:** [wiltons.co.uk](https://wiltons.co.uk/) · 55 Jermyn Street, SW1Y 6LX
 
 ### Parsons, Covent Garden
 
@@ -175,7 +175,7 @@ Tiny, chalkboard-only, and the menu changes every day according to what came in.
 
 An award, two mastheads and a specialist name it. The Infatuation calls it a sanctuary from the Covent Garden crowds.
 
-**Book:** [parsonslondon.co.uk](https://parsonslondon.co.uk/) · 39 Endell Street, WC2H 9BA
+**Site:** [parsonslondon.co.uk](https://parsonslondon.co.uk/) · 39 Endell Street, WC2H 9BA
 
 ### The Seafood Bar, Soho
 
@@ -245,7 +245,7 @@ A two-storey seafood room off Soho Square with the oyster bar spilling into the 
 
 It is **a 2023 opening from the Wolseley Hospitality Group**, not a continuation of the original Manzi's, which closed in Chinatown decades ago. It cooks the classics through a fish lens, so the Wellington is monkfish and the soufflé is smoked haddock.
 
-**Book:** [manzis.co.uk](https://manzis.co.uk/) · 1 Bateman's Buildings, W1D 3EN
+**Site:** [manzis.co.uk](https://manzis.co.uk/) · 1 Bateman's Buildings, W1D 3EN
 
 ### The Oystermen, Covent Garden
 
@@ -337,20 +337,6 @@ The menu is a fixed sequence of British catch treated at fine-dining level: **Co
 
 **£££, book a few days ahead.** Hammersmith.
 
-### Orasay, Notting Hill
-
-![Dove Restaurant in London](../../assets/articles/best-seafood-restaurants-london/orasay.jpg)
-
-*Dove Restaurant.*
-
-*£££ · Ladbroke Grove · Cited by 2 sources*
-
-**Scottish and Irish seafood in a small Notting Hill room**, Jackson Boxer's kitchen.
-
-**Hand-dived scallops, Hebridean langoustines, oysters from named beds**, cooked simply. The menu changes with the boats.
-
-**£££, book a few days ahead.**
-
 ### Sam's Riverside, Hammersmith
 
 ![Sam's Riverside in London](../../assets/articles/best-seafood-restaurants-london/sams-riverside.jpg)
@@ -365,16 +351,7 @@ The menu is a fixed sequence of British catch treated at fine-dining level: **Co
 
 **£££, book a few days ahead** — the terrace goes first, so plan around the weather.
 
-### Fish Market, Broadgate — closed
-
-*Closed*
-![Billingsgate Market in London](../../assets/articles/best-seafood-restaurants-london/fish-market.jpg)
-
-*Billingsgate Market.*
-
-*Closed as of September 2026*
-
-The 18th-century warehouse off Bishopsgate, once owned by the East India Company, **has closed**. Customers were sent to Liverpool Street Chop House.
+**Fish Market**, in the 18th-century East India Company warehouse off Bishopsgate, has closed.
 
 ---
 

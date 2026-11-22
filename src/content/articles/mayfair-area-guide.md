@@ -75,6 +75,8 @@ Mayfair is a Georgian grid laid out from the 1720s between [Oxford Street](/arti
 
 The Victorian arcades are public passages, the Royal Academy's courtyard is free, and the dozens of commercial art galleries on and around Cork Street let anyone walk in.
 
+Savile Row, Jermyn Street, Bond Street and Regent Street are all ranked in our [best streets in London](/articles/best-streets-london/).
+
 Mayfair has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=mayfair).
 
 ## Why visit — and who should skip it
@@ -167,7 +169,11 @@ It is thirty seconds off Piccadilly through an easily-missed archway.
 | **Sketch** | Modern European | ££££ | Conduit Street; the Gallery and the egg-pod toilets |
 | **[Carbone](/articles/special-occasion-restaurants-london/)** | Italian-American | ££££ | 30 Grosvenor Square, in the former US Embassy; New York's red-sauce restaurant, spicy rigatoni vodka £29, dress code |
 
+Mayfair's omakase counters include Sushi Kanesaka on Park Lane, The Araki on New Burlington Street, Maru in Shepherd Market, Sushi Amamoto on Albemarle Street and Cubé on Blenheim Street. All are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
+
 Bar des Prés on South Audley Street, the French chef Cyril Lignac's French-Japanese restaurant, is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
+
+Lucky Cat and Gordon Ramsay Bar & Grill on Grosvenor Square, and Heddon Street Kitchen off Regent Street, are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
 
 ## Getting there
 

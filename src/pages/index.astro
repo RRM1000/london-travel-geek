@@ -124,7 +124,31 @@ const topicTiles = [
 // are hand-written here, because article titles are too long for a hero. Keep
 // the lines free of prices and dates: nobody re-checks a hero.
 // Images, alt text and credits come from each guide's own frontmatter.
-const HERO_GUIDES = [
+// A guide with months only shows in those months (London time, at build), the
+// same rule as the nav's This season list, so the seasonal ones lead in winter.
+const buildMonth = Number(new Date().toLocaleDateString("en-GB", { month: "numeric", timeZone: "Europe/London" }));
+const HERO_GUIDES: { slug: string; title: string; text: string; cta: string; months?: number[] }[] = [
+  {
+    slug: "christmas-in-london",
+    title: "Christmas in London.",
+    text: "The markets, the lights, the ice rinks and the light trails, and which of them cost nothing.",
+    cta: "Plan Christmas",
+    months: [11, 12],
+  },
+  {
+    slug: "hyde-park-winter-wonderland",
+    title: "Hyde Park Winter Wonderland.",
+    text: "Every ride and attraction price, the cheapest entry slots and the quietest times to go.",
+    cta: "See the prices",
+    months: [11, 12],
+  },
+  {
+    slug: "new-years-eve-london",
+    title: "New Year's Eve in London.",
+    text: "The fireworks are ticketed: the six viewing areas, the free viewpoints that close, and getting home.",
+    cta: "Plan the night",
+    months: [11, 12],
+  },
   {
     slug: "best-views-london",
     title: "The best views in London.",
@@ -185,7 +209,7 @@ const heroSlides = [
     secondary: { href: "/articles/london-itineraries-by-days-and-interests/", label: "Plan your trip" },
     caption: "The Houses of Parliament and Westminster Bridge from the Thames",
   },
-  ...HERO_GUIDES.flatMap((g) => {
+  ...HERO_GUIDES.filter((g) => !g.months || g.months.includes(buildMonth)).flatMap((g) => {
     const a = articles.find((x) => x.id === g.slug);
     if (!a?.data.heroImage) return [];
     const credit = a.data.heroImageCredit
@@ -395,7 +419,7 @@ const heroSlides = [
         <SectionHeading
           eyebrow="Browse by topic"
           title={category.label}
-          description={`${category.count} guides, kept current and honest about the caveats.`}
+          description={`${category.count} guides.`}
         />
         <div class="grid grid--3">
           {category.items.map((article) => (

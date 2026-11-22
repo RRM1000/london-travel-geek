@@ -1,11 +1,11 @@
 ---
 title: "Christmas Shows and Pantomimes in London 2026"
 seoTitle: "Christmas Shows and Pantos in London 2026"
-description: "Every Christmas show in London for 2026: the pantomimes from the Palladium to Stratford East, both Nutcrackers, three Christmas Carols, The Snowman, and the shows for under-fives, with dates, prices, running times and age guidance."
+description: "Every Christmas show in London for 2026: the pantomimes from the Palladium to Stratford East, three Nutcrackers, three Christmas Carols, The Snowman, and the shows for under-fives, with dates, prices, running times and age guidance."
 heroImage: "../../assets/articles/christmas-shows-london/old-vic-christmas-carol-lanterns.jpg"
 heroImageAlt: "Hundreds of lit lanterns hanging above the audience at the Old Vic, with musicians in top hats and long coats playing on a wooden stage between the seats"
 publishedAt: 2026-09-22
-updatedAt: 2026-11-19
+updatedAt: 2026-11-21
 reviewBy: 2026-11-28
 sites: [london]
 canonicalSite: london
@@ -18,14 +18,14 @@ faq:
   - q: "What's the cheapest Christmas show in London?"
     a: "Little Angel Theatre in Islington charges £8.50 for every seat at its 4.45pm Thursday shows of The Snowflake and its 4.45pm Wednesday shows of Scruff's Christmas Adventure. Among the pantos, the Lyric Hammersmith and the Hackney Empire both start at £10."
   - q: "Is there a Nutcracker in London at Christmas 2026?"
-    a: "English National Ballet's Nutcracker is at the London Coliseum from 17 December 2026 to 10 January 2027, from £27.25 including fees, with 25% off for under-16s. Soho Theatre has a 70-minute Nutcracker for ages five and up from 22 December to 3 January, from £15."
+    a: "The Royal Ballet's Nutcracker is at the Royal Opera House from 3 December 2026 to 13 January 2027, £36 to £238. English National Ballet's is at the London Coliseum from 17 December 2026 to 10 January 2027, from £27.25 including fees, with 25% off for under-16s. Soho Theatre has a 70-minute Nutcracker for ages five and up from 22 December to 3 January, from £15."
   - q: "Can under-fives go to the Nutcracker?"
     a: "At the Coliseum, only at the family-friendly matinee on Saturday 9 January 2027: English National Ballet's age guidance is five and over, and under-fives aren't admitted to other performances. The Snowman at the Peacock is suitable for all ages, and children aged two and over need a ticket."
   - q: "How long is The Snowman at the Peacock Theatre?"
     a: "An hour and a half, including a 20-minute interval. The 2026 production is new, directed and choreographed by Will Tuckett, running from 21 November 2026 to 3 January 2027, from £18 plus a £4 transaction fee."
 ---
 
-> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with seats from **£10** at the Lyric and the Hackney Empire. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. English National Ballet's **Nutcracker** is at the Coliseum from **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, is running now. For three to eight-year-olds, **Wundrful World of Christmas** at ExCeL is a timed walk-through to Santa's grotto until **24 December**. Every Christmas show we list is at the bottom of the page.
+> 💡 **The Short Version:** For a proper panto, the **London Palladium's Cinderella** has the stars (Dawn French and Jennifer Saunders as the Ugly Sisters, with Julian Clary) but is **not for young children**, and nobody under four gets in. **Stratford East**, the **Lyric Hammersmith** and the **Hackney Empire** cost less, with seats from **£10** at the Lyric and the Hackney Empire. **The Snowman** at the Peacock (**from £18**, 90 minutes) and Little Angel's two shows (**£8.50** at some weekday 4.45pm performances) are the ones for under-fives. The **Royal Ballet's Nutcracker** opens at the Royal Opera House on **3 December**, and English National Ballet's at the Coliseum on **17 December**. The Old Vic's **A Christmas Carol**, for **eight and over**, is running now. For three to eight-year-olds, **Wundrful World of Christmas** at ExCeL is a timed walk-through to Santa's grotto until **24 December**. Every Christmas show we list is at the bottom of the page.
 
 ## Pantomimes
 
@@ -154,6 +154,10 @@ Performances: **Wednesday 23 December at 6pm; Thursday 24 December at 11am and 3
 **Saturday 28 November 2026, a 2pm matinee.** The film shown on screen while an orchestra plays the score live, at Hammersmith. [Dates and tickets](https://www.eventimapollo.com/events/the-muppet-christmas-carol/).
 
 ## Nutcrackers
+
+### The Nutcracker, The Royal Ballet, Royal Opera House
+
+**3 December 2026 – 13 January 2027, £36 to £238.** Peter Wright's production, in its creator's centenary season, with Julia Trevelyan Oman's period designs and Tchaikovsky's score, on the Main Stage at Covent Garden. **About 2 hours 10 minutes with one interval.** The age guidance is **five and over**: under-fives are not admitted, and every child needs their own ticket and sits next to an adult. There are audio-described, captioned and family-friendly performances, and a touch tour. [Dates and tickets](https://www.rbo.org.uk/production/the-nutcracker-peter-wright).
 
 ### Nutcracker, English National Ballet, London Coliseum
 

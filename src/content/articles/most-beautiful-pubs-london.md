@@ -369,6 +369,7 @@ Cittie of Yorke's back bar is the one to look for on the way: The 500 Hidden Sec
 
 ## Continue planning your London trip
 
+- ⚽ **[Sports Bars in London](/articles/best-sports-bars-london/)** — where to watch football, rugby and the NFL, and which bars take bookings
 - 🏛️ **[London's Historic Pubs and Dining Rooms](/articles/historic-pubs-dining-rooms-london/)**
 - 🎄 **[Christmas Pubs in London](/articles/christmas-pubs-london/)** — the Churchill Arms' trees, and the fireside pubs with their Christmas menus
 - 🍽️ **[The Best Gastropubs in London](/articles/best-gastropubs-london/)**

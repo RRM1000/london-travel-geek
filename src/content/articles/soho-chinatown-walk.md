@@ -35,6 +35,8 @@ By day Soho is a square kilometre of plaques, squares and a market that has trad
 
 **This route runs from Denmark Street to Chinatown in eleven numbered stops**: about **3km, 45 minutes of walking and two and a half to three hours with stops**. It starts a minute from Tottenham Court Road station and finishes two minutes from Leicester Square.
 
+Carnaby Street is one of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 For where to eat in the evening, the nightlife and where to stay, see the [Soho area guide](/articles/soho-area-guide/).
 
 > 💡 **The Short Version:** Walk it **Monday to Saturday**: **Berwick Street market does not trade on Sundays**. Start by **11am**, have coffee at **Bar Italia** (open 7am to 4am), and you reach **Chinatown for lunch** before most dim sum kitchens stop at about 4pm. The three gardens on the route close at **4.30pm in winter**. Nothing on the walk charges admission.

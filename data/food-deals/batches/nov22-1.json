@@ -1,0 +1,2869 @@
+[
+ {
+  "name": "Cove by Locke Landmark Pinnacle",
+  "slug": "cove-landmark-pinnacle",
+  "alsoSlugs": [
+   "bermonds-locke",
+   "cove-moorgate",
+   "cove-cannon-street",
+   "buckle-street-studios",
+   "leman-locke",
+   "ember-locke",
+   "locke-canary-wharf",
+   "saco-holborn",
+   "locke-at-broken-wharf"
+  ],
+  "source": "database",
+  "site": "https://www.lockeliving.com/en/london",
+  "hits": [
+   {
+    "page": "https://www.lockeliving.com/en/london",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Fancy 10% off on every stay? Check out our special offers . Check out our special offers. \r"
+   },
+   {
+    "page": "https://www.lockeliving.com/en/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Get at least 10% off all bookings. And as a Locke Community member, rest easy with free late check-out as standard. Valid all year round. \r"
+   },
+   {
+    "page": "https://www.lockeliving.com/en/events",
+    "types": [
+     "two-for-one"
+    ],
+    "text": "Two for one on selected drinks, all day, any day. Just ask the team for details. "
+   }
+  ]
+ },
+ {
+  "name": "Zedwell Capsule Hotel Piccadilly Circus",
+  "slug": "zedwell-piccadilly-capsule",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://zedwellhotels.com/locations/london/piccadilly-circus/capsule-piccadilly-circus/",
+  "hits": [
+   {
+    "page": "https://zedwellhotels.com/locations/london/piccadilly-circus/capsule-piccadilly-circus/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "BLACK FRIDAY OFFER - Enjoy Up To 45% OFF, FLEXIBLE TERMS, AND EXCLUSIVE BENEFITS "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Zedwell Hotel Offers | Up To 45% OFF Black Friday "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up To 45% Off "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "The city is yours to explore. The calm is yours to come home to. This Black Friday, enjoy 45% off Zedwell Hotels & Capsules. Discover London from the heart of the action, then switch it off in a spaced designed for quality sleep."
+   }
+  ]
+ },
+ {
+  "name": "Courthouse Hotel Soho",
+  "slug": "courthouse-hotel-soho",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.courthouse-hotel.com/soho-sky-terrace/",
+  "hits": [
+   {
+    "page": "https://www.courthouse-hotel.com/soho-sky-terrace/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Happy Hour Offers "
+   },
+   {
+    "page": "https://www.courthouse-hotel.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Unlock Up to 30% Off Your Next Soho Escape "
+   },
+   {
+    "page": "https://www.courthouse-hotel.com/offers/",
+    "types": [
+     "percent-off",
+     "all-you-can-eat"
+    ],
+    "text": "Experience luxury in the heart of London’s most vibrant district. For a limited time, enjoy up to 30% off our best available flexible rate with free full English buffet breakfast at the iconic Courthouse Hotel London Soho. Rate also includes a 12noon check in and 3pm check out at no additional cost. "
+   },
+   {
+    "page": "https://www.courthouse-hotel.com/offers/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Free English Buffet Breakfast included "
+   },
+   {
+    "page": "https://www.courthouse-hotel.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% off food & beverage when you have a meal in Soho Wala restaurant or in the lobby bar. "
+   },
+   {
+    "page": "https://www.courthouse-hotel.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Stay for four nights or more and save up to 20% off our best available flexible public rate. The discount will show on the rate at the time of booking."
+   }
+  ]
+ },
+ {
+  "name": "art'otel London Hoxton",
+  "slug": "artotel-london-hoxton",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://artotel.com/en/hotels/london/hoxton/",
+  "hits": [
+   {
+    "page": "https://artotel.com/en/hotels/london/hoxton/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Benefit from our prepaid rate with up to 25% off and escape to the unexpected side of Europe. "
+   },
+   {
+    "page": "https://artotel.com/en/hotels/london/hoxton/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "You deserve the best. And that s what you get as a Radisson Rewards member. Up to 15% off when you book directly with us, plus exclusive offers, upgrades, and points are waiting. "
+   },
+   {
+    "page": "https://artotel.com/en/hotels/london/hoxton/radisson-rewards/",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Join Radisson Rewards | art’otel London Hoxton "
+   },
+   {
+    "page": "https://artotel.com/en/hotels/london/hoxton/radisson-rewards/",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Join Radisson Rewards today and get Member s Only Rate – Members get up to 15% discount. "
+   },
+   {
+    "page": "https://artotel.com/en/hotels/london/hoxton/radisson-rewards/",
+    "types": [
+     "app-reward"
+    ],
+    "text": "How do I sign up to become a Radisson Rewards member? "
+   },
+   {
+    "page": "https://artotel.com/en/hotels/london/hoxton/radisson-rewards/",
+    "types": [
+     "app-reward"
+    ],
+    "text": "You can sign up to become a Radisson Rewards member here:  Join Radisson Rewards | Global Hotel Rewards Program "
+   }
+  ]
+ },
+ {
+  "name": "The Resident Soho",
+  "slug": "the-resident-soho",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.residenthotels.com/locations/soho",
+  "hits": [
+   {
+    "page": "https://www.residenthotels.com/locations/soho",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Join The Resident Club today "
+   },
+   {
+    "page": "https://www.residenthotels.com/locations/soho",
+    "types": [
+     "percent-off"
+    ],
+    "text": "25% off drinks and snacks "
+   },
+   {
+    "page": "https://www.residenthotels.com/locations/soho",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Join The Resident Club and save 15% "
+   },
+   {
+    "page": "https://www.residenthotels.com/offers",
+    "types": [
+     "percent-off",
+     "app-reward"
+    ],
+    "text": "Join The Resident Club today and enjoy 15% off "
+   }
+  ]
+ },
+ {
+  "name": "The Z Hotel Soho",
+  "slug": "z-hotel-soho",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.thezhotels.com/hotels/soho/",
+  "hits": [
+   {
+    "page": "https://www.thezhotels.com/hotels/soho/",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Set in an 18th-century townhouse, this atmospheric restaurant is a throwback to bohemian Soho. Great for pre-theatre dining or a romantic rendezvous. \r"
+   },
+   {
+    "page": "https://www.thezhotels.com/hotels/soho/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "A happy hour lasting from 3-8pm every day except Saturday ensures this cheerful drinking spot is always full of friendly faces. \r"
+   },
+   {
+    "page": "https://www.thezhotels.com/z-club/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Buffet Breakfast  "
+   },
+   {
+    "page": "https://www.thezhotels.com/z-club/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Our unlimited buffet includes a continental selection, freshly baked pastries, a healthy granola station and hot breakfast flatbreads—with vegan, vegetarian and gluten-free options too. And yes: fruit juices, teas and barista coffee are all included. \r"
+   },
+   {
+    "page": "https://www.thezhotels.com/z-club/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "As a Z Club guest enjoy a daily cheese buffet with wine as well as 24/7 availability of our cafe menu. \r"
+   }
+  ]
+ },
+ {
+  "name": "Urbany Hostel London",
+  "slug": "urbany-hostel-london",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://urbanyhostels.com/london/",
+  "hits": [
+   {
+    "page": "https://urbanyhostels.com/barcelona/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Daily open buffet from 8 to 11am (not included) . "
+   },
+   {
+    "page": "https://urbanyhostels.com/barcelona/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Yes, we serve a delicious daily breakfast buffet (check prices during booking process). "
+   }
+  ]
+ },
+ {
+  "name": "Novotel London Wembley",
+  "slug": "novotel-london-wembley",
+  "alsoSlugs": [
+   "ibis-london-wembley",
+   "novotel-canary-wharf"
+  ],
+  "source": "database",
+  "site": "https://all.accor.com/a/en.html",
+  "hits": [
+   {
+    "page": "https://all.accor.com/a/en.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in 30 brands \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in 30 brands   \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays at ibis \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Get up to 25% OFF with the Stay for More Offer "
+   },
+   {
+    "page": "https://all.accor.com/a/en/deals-corner.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Unlock up to 10% off stays and exclusive benefits as a member of ALL Accor "
+   },
+   {
+    "page": "https://all.accor.com/a/en/deals-corner.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Plan your perfect autumn trip with up to 20% off hotel stays in North America. "
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Family Offer: 50% off your second room"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Buffet breakfast for children is free or at 50% versus adult price when having breakfast as a family according to the brands' schema: \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "3-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "4-12 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "6-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "6-12 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "7-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "3-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "3-15 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Hotel Loyalty Program ALL Accor : Join & Earn Rewards Skip to main content "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in + 30 brands \r"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in +30 brands \r"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 10% off for life* "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "free-item",
+     "app-reward"
+    ],
+    "text": "Free drink, late check-out, upgrades and more Join for free Discover the ALL Accor loyalty programme in detail "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Explore, book, enjoy: The app accompanies you through every step of your stay. Access your member benefits and enjoy exclusive offers, wherever you are. Download the app "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "When you join the ALL Accor Loyalty programme, you become a Classic member. Membership is complimentary. Learn about the programme "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Enjoy a welcome drink per stay at no additional charge, inclusive within the nightly room rate, for the ALL Accor member and each accompanying guest sharing the room. You will find a digital voucher on your ALL Accor app, to be redeemed at the hotel. Please note that in some hotels, your welcome drink will be offered to you by a different method. Any consecutive stays (check-out and check-in on th"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "20% off at Swissôtel "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Gold members and above, prepare to feel exhilirated at one of Swissôtel’s spa and sports facilities, with 20% off treatments."
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "10% off at bars and restaurants in Mercure hotels "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Preferential rates at airport lounges worldwide 10% off 13% off 14% off 15% off 15% off 15% off "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Get up to 15% off in more than 1,000 airport lounges worldwide (discount varies based on your ALL Accor status). Plus earn up to 1,500 Reward points."
+   }
+  ]
+ },
+ {
+  "name": "The Emory",
+  "slug": "the-emory",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.maybourne.com/en/hotels/the-emory",
+  "hits": [
+   {
+    "page": "https://www.maybourne.com/en/hotels/the-emory/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Enjoy time well spent at The Emory with 10% off our Balcony Park, Corner Park, and Hyde Park Balcony suites. View offer "
+   },
+   {
+    "page": "https://www.maybourne.com/en/hotels/the-emory/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book 7 days or more in advance of your arrival, and enjoy 15% off your suite at The Emory. View offer "
+   },
+   {
+    "page": "https://www.maybourne.com/en/hotels/the-emory/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Enjoy time well spent at The Emory with 15% off our Balcony Park, Corner Park, and Hyde Park Balcony suites. Each offering sweeping views of Hyde Park and elevated interiors by world-renowned designers. "
+   },
+   {
+    "page": "https://www.maybourne.com/en/hotels/the-emory/offers/flying-start",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Enjoy time well spent at The Emory with 15% off our Balcony Park, Corner Park, and Hyde Park Balcony suites. "
+   }
+  ]
+ },
+ {
+  "name": "The Mitre, Hampton Court",
+  "slug": "the-mitre-hampton-court",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.mitrehamptoncourt.com/",
+  "hits": [
+   {
+    "page": "https://www.mitrehamptoncourt.com/stay/family-stays/",
+    "types": [
+     "kids-eat-free"
+    ],
+    "text": "Kids Eat Free "
+   },
+   {
+    "page": "https://www.mitrehamptoncourt.com/stay/family-stays/",
+    "types": [
+     "kids-eat-free"
+    ],
+    "text": "Whether you’re stopping in after exploring Hampton Court or enjoying a leisurely meal by the Thames, Kids Eat Free helps keep family dining relaxed and uncomplicated. "
+   },
+   {
+    "page": "https://www.mitrehamptoncourt.com/stay/family-stays/",
+    "types": [
+     "set-menu"
+    ],
+    "text": "Cannot be used with any other offers, set menus or discounts "
+   },
+   {
+    "page": "https://www.mitrehamptoncourt.com/whats-on/",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Bottomless Pie Monday "
+   },
+   {
+    "page": "https://www.mitrehamptoncourt.com/whats-on/",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Your first plate comes with mash and jus. The pie is bottomless, so when the plate's empty and you're not quite done, just ask. It's comfort food with nothing to decide and nowhere to be. Come at "
+   },
+   {
+    "page": "https://www.mitrehamptoncourt.com/whats-on/",
+    "types": [
+     "two-for-one"
+    ],
+    "text": "Enjoy 2-for-1 selected cocktails while soaking up stunning views of the Thames. Double the drinks, double the fun! "
+   }
+  ]
+ },
+ {
+  "name": "Strand Palace",
+  "slug": "strand-palace",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.strandpalacehotel.co.uk/",
+  "hits": [
+   {
+    "page": "https://www.strandpalacehotel.co.uk/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Breakfast Buffet "
+   },
+   {
+    "page": "https://www.strandpalacehotel.co.uk/",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Pre-Theatre Dining at Haxells "
+   },
+   {
+    "page": "https://www.strandpalacehotel.co.uk/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Extra 5% Off \r"
+   },
+   {
+    "page": "https://www.strandpalacehotel.co.uk/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Located in the heart of the West End, enjoy 30% off your stay with our exclusive Black Friday offer. Step straight into the city's most iconic sites, shows and experiences. Book direct and start your London adventure with us.\r"
+   },
+   {
+    "page": "https://www.strandpalacehotel.co.uk/meeting-rooms.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Standing buffet "
+   },
+   {
+    "page": "https://www.strandpalacehotel.co.uk/meeting-rooms.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Standing Buffet "
+   },
+   {
+    "page": "https://www.strandpalacehotel.co.uk/meeting-rooms.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Flexible layouts : Theatre, cabaret, classroom, boardroom, u-shape, drinks reception, banquet and standing buffet layouts available. \r"
+   }
+  ]
+ },
+ {
+  "name": "Templeton Garden",
+  "slug": "templeton-garden",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.miirohotels.com/templetongarden",
+  "hits": [
+   {
+    "page": "https://www.miirohotels.com/templetongarden",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Enjoy 30% off through 2027, book by 2 Dec 2026 "
+   },
+   {
+    "page": "https://www.miirohotels.com/templetongarden",
+    "types": [
+     "percent-off"
+    ],
+    "text": "A little planning ahead, means a lot to look forward to. Enjoy 30% off your next stay in London, plus a €20 food and drink credit to spend in our bar and restaurant when you book direct by 2 December 2026, for stays through 31 December 2027. "
+   },
+   {
+    "page": "https://www.miirohotels.com/templetongarden",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Extend your getaway in London and enjoy exclusive savings with our Stay Longer offer. Book a stay of three nights or more and receive 25% off, along with the flexibility to change or cancel your booking. Guests can also enjoy a delicious breakfast each day. "
+   },
+   {
+    "page": "https://www.miirohotels.com/templetongarden/offers/black-friday",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Black Friday: 30% Off | Miiro Templeton Garden, London "
+   }
+  ]
+ },
+ {
+  "name": "Covent Garden Hotel",
+  "slug": "covent-garden-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.firmdalehotels.com/hotels/covent-garden-hotel",
+  "hits": [
+   {
+    "page": "https://www.firmdalehotels.com/hotels/covent-garden-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off best available rate "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/covent-garden-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book our Advance Purchase Offer to receive up to 20% off per night. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/covent-garden-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off per night "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/whats-on",
+    "types": [
+     "day-deal"
+    ],
+    "text": "The Crosby Bar welcomes New York vocalist and songwriter&#xA0;Alexa Barchini every Monday night. Enjoy signature cocktails and seasonal bar snacks as you listen to live music performances. "
+   }
+  ]
+ },
+ {
+  "name": "Morgan Hotel",
+  "slug": "morgan-hotel-bloomsbury",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://morganhotel.co.uk/",
+  "hits": [
+   {
+    "page": "https://morganhotel.co.uk/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% Off Summer Sale with Code SUN26 "
+   }
+  ]
+ },
+ {
+  "name": "London Bridge Hotel",
+  "slug": "london-bridge-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.londonbridgehotel.com/",
+  "hits": [
+   {
+    "page": "https://www.londonbridgehotel.com/meetings-events/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Working buffet? Lavish three-course lunch in Londinium restaurant? No two events are ever the same, and our food and drink option reflect your meeting’s individuality. "
+   },
+   {
+    "page": "https://www.londonbridgehotel.com/meetings-events/packages-prices/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Three course lunch in the Londinium Restaurant or a working buffet lunch in your own room "
+   },
+   {
+    "page": "https://www.londonbridgehotel.com/meetings-events/food-drink/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Range of buffet lunches "
+   }
+  ]
+ },
+ {
+  "name": "Montcalm Royal London House",
+  "slug": "montcalm-royal-london-house",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://montcalmcollection.com/montcalm-royal-london-house/",
+  "hits": [
+   {
+    "page": "https://montcalmcollection.com/montcalm-royal-london-house/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Make the most of the season with exclusive winter savings at Montcalm Collection. Book direct and enjoy 20% off at selected Montcalm hotels and 15% off at Inhabit Hotels. "
+   },
+   {
+    "page": "https://montcalmcollection.com/montcalm-royal-london-house/",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Situated on the hotel s 10th floor, Aviary rooftop bar, restaurant & terrace offers a spectacular setting with panoramic skyline views of the city. Serving elevated seasonal dishes, bottomless brunches, and curated cocktails crafted. "
+   },
+   {
+    "page": "https://montcalmcollection.com/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Festive | Winter Savings: Up to 20% Off your London Stay "
+   },
+   {
+    "page": "https://montcalmcollection.com/mymontcalm-loyalty-programme-terms-and-conditions/",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Becoming a MyMontcalm member is completely free. Join today and start earning rewards from your very first stay with us.   "
+   }
+  ]
+ },
+ {
+  "name": "The Cumberland",
+  "slug": "the-cumberland-london",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.thecumberland.com/",
+  "hits": [
+   {
+    "page": "https://www.thecumberland.com/special-offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Enjoy 30% off your stay and relax with dining allowance. Press play on your city break today. "
+   },
+   {
+    "page": "https://www.thecumberland.com/special-offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Become a VIP member and receive 10% off on selected rates whenever you book a break with us. "
+   },
+   {
+    "page": "https://www.thecumberland.com/special-offers/",
+    "types": [
+     "percent-off",
+     "app-reward"
+    ],
+    "text": "Join an exclusive club and become a Cumberland VIP member. Receive 10% off on selected rates whenever you book a break with us and feel like a rock star.      "
+   },
+   {
+    "page": "https://www.thecumberland.com/room/family-room/",
+    "types": [
+     "percent-off",
+     "app-reward"
+    ],
+    "text": "Join an exclusive club and become a Cumberland hotel VIP member. Receive 10% off on selected rates whenever you book a break with us and feel like a rock star.      "
+   }
+  ]
+ },
+ {
+  "name": "Palmers Lodge Swiss Cottage",
+  "slug": "palmers-lodge-swiss-cottage",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://palmerslodge.uk/",
+  "hits": [
+   {
+    "page": "https://palmerslodge.uk/",
+    "types": [
+     "byo"
+    ],
+    "text": "Padlock’s available to purchase at reception or bring your own "
+   }
+  ]
+ },
+ {
+  "name": "Lime Tree Hotel",
+  "slug": "lime-tree-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.limetreehotel.co.uk/",
+  "hits": [
+   {
+    "page": "https://www.limetreehotel.co.uk/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book Online with promo code WELCOME21 and get up to 35% off stays this summer! "
+   }
+  ]
+ },
+ {
+  "name": "South Place Hotel",
+  "slug": "south-place-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://southplacehotel.com/",
+  "hits": [
+   {
+    "page": "https://southplacehotel.com/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Make the most of a weekend in London with up to 20% off your stay and complimentary breakfast. Explore the City at your own pace, with a little extra time to unwind. "
+   },
+   {
+    "page": "https://southplacehotel.com/",
+    "types": [
+     "two-for-one"
+    ],
+    "text": "Gabon +241 "
+   },
+   {
+    "page": "https://southplacehotel.com/",
+    "types": [
+     "bottomless"
+    ],
+    "text": "New bookings only. Minimum guest numbers and/or spends apply. Birthday offer excludes drinks, bottomless add-ons, supplements, service charge and additional charges. Excludes standard restaurant bookings. Subject to availability and standard booking terms. Management reserves the right to amend or withdraw offers at any time. "
+   },
+   {
+    "page": "https://southplacehotel.com/",
+    "types": [
+     "app-reward"
+    ],
+    "text": "The loyalty programme for The Evolv Collection’s UK restaurants. Join now and start earning rewards for dining with us. "
+   },
+   {
+    "page": "https://southplacehotel.com/whats-on/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off & complimentary breakfast this Autumn. "
+   },
+   {
+    "page": "https://southplacehotel.com/whats-on/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Stay at South Place Hotel and enjoy 20% off your room with complimentary breakfast and gym & spa access. "
+   },
+   {
+    "page": "https://southplacehotel.com/rewards/",
+    "types": [
+     "free-item"
+    ],
+    "text": "Get 10% back in points every time you dine at Angler or Bluebird City or any of our UK sister restaurants. Plus enjoy birthday gifts, exclusive offers, and rewards tailored to you. "
+   },
+   {
+    "page": "https://southplacehotel.com/rewards/",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Download The Evolv Rewards App  "
+   },
+   {
+    "page": "https://southplacehotel.com/rewards/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Members enjoy exclusive perks such as 20% off food and drink, priority booking for private dining, invitations to monthly events, and access to private lounges and lifestyle benefits. "
+   }
+  ]
+ },
+ {
+  "name": "Zedwell Greenwich",
+  "slug": "zedwell-greenwich",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://zedwellhotels.com/locations/london/greenwich/greenwich-hotel-in-room/",
+  "hits": [
+   {
+    "page": "https://zedwellhotels.com/locations/london/greenwich/greenwich-hotel-in-room/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "BLACK FRIDAY OFFER - Enjoy Up To 45% OFF, FLEXIBLE TERMS, AND EXCLUSIVE BENEFITS "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Zedwell Hotel Offers | Up To 45% OFF Black Friday "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up To 45% Off "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "The city is yours to explore. The calm is yours to come home to. This Black Friday, enjoy 45% off Zedwell Hotels & Capsules. Discover London from the heart of the action, then switch it off in a spaced designed for quality sleep."
+   }
+  ]
+ },
+ {
+  "name": "Sofitel London St James",
+  "slug": "sofitel-london-st-james",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://all.accor.com/hotel/3144/index.en.shtml",
+  "hits": [
+   {
+    "page": "https://all.accor.com/hotel/3144/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in + 30 brands "
+   },
+   {
+    "page": "https://all.accor.com/hotel/3144/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in +30 brands "
+   },
+   {
+    "page": "https://all.accor.com/hotel/3144/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays at ibis "
+   },
+   {
+    "page": "https://all.accor.com/a/en/offers/room-for-a-day.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in 30 brands \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/offers/room-for-a-day.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in 30 brands   \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/offers/room-for-a-day.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays at ibis \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/deals-corner.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Unlock up to 10% off stays and exclusive benefits as a member of ALL Accor "
+   },
+   {
+    "page": "https://all.accor.com/a/en/deals-corner.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Plan your perfect autumn trip with up to 20% off hotel stays in North America. "
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Family Offer: 50% off your second room"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Buffet breakfast for children is free or at 50% versus adult price when having breakfast as a family according to the brands' schema: \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "3-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "4-12 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "6-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "6-12 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "7-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "3-11 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/a/en/experiences/ena-all-for-family.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "3-15 years old (incl.): 50% off versus adult price \r"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Hotel Loyalty Program ALL Accor : Join & Earn Rewards Skip to main content "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in + 30 brands \r"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% OFF all year round on your stays in +30 brands \r"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 10% off for life* "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "free-item",
+     "app-reward"
+    ],
+    "text": "Free drink, late check-out, upgrades and more Join for free Discover the ALL Accor loyalty programme in detail "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/en/reasontojoin/index.vhtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Explore, book, enjoy: The app accompanies you through every step of your stay. Access your member benefits and enjoy exclusive offers, wherever you are. Download the app "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "When you join the ALL Accor Loyalty programme, you become a Classic member. Membership is complimentary. Learn about the programme "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Enjoy a welcome drink per stay at no additional charge, inclusive within the nightly room rate, for the ALL Accor member and each accompanying guest sharing the room. You will find a digital voucher on your ALL Accor app, to be redeemed at the hotel. Please note that in some hotels, your welcome drink will be offered to you by a different method. Any consecutive stays (check-out and check-in on th"
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "20% off at Swissôtel "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Gold members and above, prepare to feel exhilirated at one of Swissôtel’s spa and sports facilities, with 20% off treatments."
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "10% off at bars and restaurants in Mercure hotels "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Preferential rates at airport lounges worldwide 10% off 13% off 14% off 15% off 15% off 15% off "
+   },
+   {
+    "page": "https://all.accor.com/loyalty-program/cards-status-benefits-details/index.en.shtml",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Get up to 15% off in more than 1,000 airport lounges worldwide (discount varies based on your ALL Accor status). Plus earn up to 1,500 Reward points."
+   }
+  ]
+ },
+ {
+  "name": "The Trafalgar St. James",
+  "slug": "the-trafalgar-st-james",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://trafalgarstjames.com/",
+  "hits": [
+   {
+    "page": "https://trafalgarstjames.com/whats-on/",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "EARLY BIRD TICKETS NOW LIVE! "
+   }
+  ]
+ },
+ {
+  "name": "Charlotte Street Hotel",
+  "slug": "charlotte-street-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.firmdalehotels.com/hotels/charlotte-street-hotel",
+  "hits": [
+   {
+    "page": "https://www.firmdalehotels.com/hotels/charlotte-street-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "See more of London when you 'Stay For Longer' at Charlotte Street Hotel. Enjoy up to 20% off the best available rate for stays over three nights and explore the shops and cafes on Charlotte Street and the bustling area of Fitzrovia. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/charlotte-street-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off best available rate "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/charlotte-street-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "The Family Time package includes 50% off the second bedroom "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/charlotte-street-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book our Advance Purchase Offer to receive up to 20% off per night. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/charlotte-street-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off per night "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/whats-on",
+    "types": [
+     "day-deal"
+    ],
+    "text": "The Crosby Bar welcomes New York vocalist and songwriter&#xA0;Alexa Barchini every Monday night. Enjoy signature cocktails and seasonal bar snacks as you listen to live music performances. "
+   }
+  ]
+ },
+ {
+  "name": "Dorset Square Hotel",
+  "slug": "dorset-square-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.firmdalehotels.com/hotels/dorset-square-hotel",
+  "hits": [
+   {
+    "page": "https://www.firmdalehotels.com/hotels/dorset-square-hotel",
+    "types": [
+     "set-menu"
+    ],
+    "text": "Throughout the season, we'll be serving a special set menu perfect for larger parties to celebrate together. On Christmas Day, bring loved ones together and enjoy a traditional menu with us. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/dorset-square-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "50% off the second bedroom "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/dorset-square-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "See more of London when you 'Stay For Longer' at Dorset Square Hotel. Enjoy up to 20% off the best available rate for stays over three nights and explore the vibrant Marylebone area. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/dorset-square-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "20% off the best available rate "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/dorset-square-hotel/special-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book our Advance Purchase Offer to receive up to 20% off per night. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/whats-on",
+    "types": [
+     "day-deal"
+    ],
+    "text": "The Crosby Bar welcomes New York vocalist and songwriter&#xA0;Alexa Barchini every Monday night. Enjoy signature cocktails and seasonal bar snacks as you listen to live music performances. "
+   }
+  ]
+ },
+ {
+  "name": "The Bloomsbury Hotel",
+  "slug": "the-bloomsbury-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel",
+  "hits": [
+   {
+    "page": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book direct on or before 31 December 2026 and enjoy 15% off in-house bars and restaurants. "
+   },
+   {
+    "page": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Strutting into London this season, experience The Devil Wears Prada musical, overnight stay and pre-theatre dinner at Dalloway Terrace. "
+   },
+   {
+    "page": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel/packages",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Plan your next city escape early and receive up to 20% off. "
+   },
+   {
+    "page": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel/packages/london-with-the-family",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Experience an extraordinary family city break in London. Enjoy 50% off your second bedroom and make the most of London from the heart of Theatreland. Perfectly positioned in the West End, The Bloomsbury places you moments from world-famous shows, from exciting new productions like The Devil Wears Prada to timeless favourites such as The Lion King. Spend sunny afternoons exploring Covent Garden's v"
+   },
+   {
+    "page": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel/packages/early-booker",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Bloomsbury Hotel suite, Early Booker: 20% off London West End stay. "
+   },
+   {
+    "page": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel/packages/early-booker",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book five days or more in advance for up to 20% off. "
+   },
+   {
+    "page": "https://www.doylecollection.com/hotels/the-bloomsbury-hotel/packages/early-booker",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off for DISCOVERY members and up to 15% off for non members. If you're not a member, sign up "
+   }
+  ]
+ },
+ {
+  "name": "The Rubens at the Palace",
+  "slug": "the-rubens-at-the-palace",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://rubenshotel.com/",
+  "hits": [
+   {
+    "page": "https://rubenshotel.com/",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Pre-Theatre Dining"
+   },
+   {
+    "page": "https://rubenshotel.com/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Secure and book your stay directly with us and enjoy 10% off your room rate until 31st March 2027. "
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "We’re delighted to offer ticket holders for Six The Musical , Wicked and Hamilton a 15% saving on pre-theatre dining at any of our welcoming bars and restaurants. "
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Enjoy pre-theatre dining, cocktails or Afternoon Tea before the show, then return to the comfort of The Rubens after the final curtain falls. "
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "set-menu",
+     "pre-theatre"
+    ],
+    "text": "Whether you’re heading to a West End performance or meeting friends before the show, our pre-theatre experiences pair flavour, atmosphere and seamless timing. Choose from relaxed bar dining, set menus in our restaurants, or light bites and sharing plates, all created to be enjoyed without feeling rushed. "
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "set-menu",
+     "pre-theatre"
+    ],
+    "text": "Early Evening Set Menu at The English Grill"
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Our early evening menu is designed for those who appreciate exceptional cooking without waiting until late. "
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "price-hook"
+    ],
+    "text": "Price: £49 for two courses, £55 for three courses "
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "set-menu",
+     "pre-theatre"
+    ],
+    "text": "Pre-Theatre Set Menu at The Cavalry Bar"
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Enjoy a pre-theatre menu of delightful light bites, sharing stands, main courses, and desserts to make your evening one to remember. "
+   },
+   {
+    "page": "https://rubenshotel.com/experiences/london-theatre",
+    "types": [
+     "price-hook"
+    ],
+    "text": "Price: £45 for three-courses or £35 for two-courses "
+   },
+   {
+    "page": "https://rubenshotel.com/events/seasonal-offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "10% Off Room Hire"
+   },
+   {
+    "page": "https://rubenshotel.com/about/families-multi-gen-stays",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Pre-Theatre Dining for the Whole Family"
+   },
+   {
+    "page": "https://rubenshotel.com/about/families-multi-gen-stays",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "We’re delighted to offer families and theatre-goers a 15% saving on pre-theatre dining at our welcoming bars and restaurants. Whether you’re enjoying a special outing with children or gathering before a West End favourite, it’s a wonderful way to begin your experience together. "
+   }
+  ]
+ },
+ {
+  "name": "Wombat's City Hostel London",
+  "slug": "wombats-city-hostel-london",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.wombats-hostels.com/",
+  "hits": [
+   {
+    "page": "https://www.wombats-hostels.com/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "\"Great location, great hostel. The breakfast buffet was amazing! And we really liked the "
+   }
+  ]
+ },
+ {
+  "name": "Zedwell Tottenham Court Road",
+  "slug": "zedwell-tottenham-court-road",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
+  "hits": [
+   {
+    "page": "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Zedwell Underground Hotel Tottenham Court Road | Luxurious Up To 45% Off "
+   },
+   {
+    "page": "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "BLACK FRIDAY OFFER - Enjoy Up To 45% OFF, FLEXIBLE TERMS, AND EXCLUSIVE BENEFITS "
+   },
+   {
+    "page": "https://zedwellhotels.com/locations/london/tottenham-court-road/tottenham-court-road-hotel/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up To 20% Off with Zedwell More "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Zedwell Hotel Offers | Up To 45% OFF Black Friday "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up To 45% Off "
+   },
+   {
+    "page": "https://zedwellhotels.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "The city is yours to explore. The calm is yours to come home to. This Black Friday, enjoy 45% off Zedwell Hotels & Capsules. Discover London from the heart of the action, then switch it off in a spaced designed for quality sleep."
+   }
+  ]
+ },
+ {
+  "name": "San Domenico House",
+  "slug": "san-domenico-house",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://sandomenicohouse.com/",
+  "hits": [
+   {
+    "page": "https://sandomenicohouse.com/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Book your stay directly with us and enjoy 10% off your room rate "
+   }
+  ]
+ },
+ {
+  "name": "Broadwick Soho",
+  "slug": "broadwick-soho",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.broadwicksoho.com/",
+  "hits": [
+   {
+    "page": "https://www.broadwicksoho.com/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "It s Our Birthday - enjoy 30% off your stay"
+   },
+   {
+    "page": "https://www.broadwicksoho.com/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "We are turning three! And to celebrate, we thought we would give you another good reason to spend a few days in our favourite neighbourhood, with 30% off our best available rate for stays from January to April 2027. "
+   },
+   {
+    "page": "https://www.broadwicksoho.com/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "It s Our Birthday - enjoy 30% off your stay "
+   },
+   {
+    "page": "https://www.broadwicksoho.com/offers/birthday",
+    "types": [
+     "percent-off"
+    ],
+    "text": "favourite neighbourhood, with 30% off our best available rate for"
+   },
+   {
+    "page": "https://www.broadwicksoho.com/offers/friends-of-broadwick",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off your room rate. "
+   }
+  ]
+ },
+ {
+  "name": "Royal Lancaster London",
+  "slug": "royal-lancaster-london",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.royallancaster.com/",
+  "hits": [
+   {
+    "page": "https://www.royallancaster.com/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "ENJOY UP TO 20% OFF STAYS + EXCLUSIVE BENEFITS "
+   }
+  ]
+ },
+ {
+  "name": "Ham Yard Hotel",
+  "slug": "ham-yard-hotel",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.firmdalehotels.com/hotels/ham-yard-hotel",
+  "hits": [
+   {
+    "page": "https://www.firmdalehotels.com/hotels/ham-yard-hotel/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off best available rate "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/ham-yard-hotel/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Treat yourself to an extended stay in one of our showstopping two bedroom suites. Enjoy a luxury city escape with up to 15% off our best available rate and a complimentary airport transfer when you book three or more nights in a Headline Suite at Ham Yard Hotel. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/ham-yard-hotel/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "15% off best available rate "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/ham-yard-hotel/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "A luxury family stay in Central London with a little something for everyone - from 50% off the second bedroom to an hour of bowling in The Croc. Keep the whole family entertained at Ham Yard Hotel, just steps from London’s best restaurants, theatres, galleries and shops, including Hamley's, Selfridges and the Apple Store. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/ham-yard-hotel/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Family Time special offer includes 50% off a second bedroom "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/ham-yard-hotel/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Enjoy a chic city break at Ham Yard Hotel. Book our Advance Purchase Offer to receive up to 20% off per night. "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/hotels/ham-yard-hotel/offers",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Up to 20% off per night "
+   },
+   {
+    "page": "https://www.firmdalehotels.com/whats-on",
+    "types": [
+     "day-deal"
+    ],
+    "text": "The Crosby Bar welcomes New York vocalist and songwriter&#xA0;Alexa Barchini every Monday night. Enjoy signature cocktails and seasonal bar snacks as you listen to live music performances. "
+   }
+  ]
+ },
+ {
+  "name": "Signature Brew Taproom and Venue",
+  "slug": "venue-osm-w469649790",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.signaturebrew.co.uk/pages/haggerston",
+  "hits": [
+   {
+    "page": "https://www.signaturebrew.co.uk/pages/haggerston",
+    "types": [
+     "app-reward"
+    ],
+    "text": "DOWNLOAD OUR APP"
+   },
+   {
+    "page": "https://www.signaturebrew.co.uk/pages/download-the-signature-brew-app",
+    "types": [
+     "app-reward"
+    ],
+    "text": "DOWNLOAD THE SIGNATURE BREW APP!"
+   },
+   {
+    "page": "https://www.signaturebrew.co.uk/pages/download-the-signature-brew-app",
+    "types": [
+     "app-reward"
+    ],
+    "text": "DOWNLOAD THE APP"
+   },
+   {
+    "page": "https://www.signaturebrew.co.uk/pages/download-the-signature-brew-app",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Download the app now for your first pint on us "
+   }
+  ]
+ },
+ {
+  "name": "Plaquemine Lock",
+  "slug": "venue-osm-w67383553",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://plaqlock.com/",
+  "hits": [
+   {
+    "page": "https://plaqlock.com/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "HAPPY HOUR "
+   },
+   {
+    "page": "https://plaqlock.com/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Happy Hour "
+   },
+   {
+    "page": "https://plaqlock.com/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Looking for the best Happy Hour in Islington? We’ve got you covered with 1 oyster for £1, bold Southern snacks, and proper cocktails at prices that’ll have you exclaiming louder than a trumpet solo. "
+   },
+   {
+    "page": "https://plaqlock.com/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Tuesday to Friday from 4pm to 5:45pm; weekends and bank holiday monday 11am to Midday, Plaquemine Lock serves up the best-value Happy Hour in North London, packed with Louisiana flavours, cold beer, and canal-side vibes. From bloody Marys, shrimp, pints, and mimosas this is how Angel does it properly after work. "
+   },
+   {
+    "page": "https://plaqlock.com/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Whether you re winding down, revving up, or rolling straight into the music, this is Happy Hour the Cajun way: loud, proud, and dangerously good. "
+   },
+   {
+    "page": "https://plaqlock.com/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "London's Famous HappY Hour "
+   }
+  ]
+ },
+ {
+  "name": "The Fiddler's Elbow",
+  "slug": "venue-osm-w929791965",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.thefiddlerselbow.co.uk/",
+  "hits": [
+   {
+    "page": "https://www.thefiddlerselbow.co.uk/",
+    "types": [
+     "day-deal"
+    ],
+    "text": "SUNDAY SPECIAL "
+   }
+  ]
+ },
+ {
+  "name": "Da Long Yi",
+  "slug": "da-long-yi-fitzrovia",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.dalongyi.uk/",
+  "hits": [
+   {
+    "page": "https://www.dalongyi.uk/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "ALL YOU CAN EAT"
+   },
+   {
+    "page": "https://www.dalongyi.uk/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Enjoy 25% OFF your full bill"
+   },
+   {
+    "page": "https://www.dalongyi.uk/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Students get an extra 5% OFF"
+   },
+   {
+    "page": "https://www.dalongyi.uk/all-you-can-eat-hot-pot",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "ALL YOU CAN EAT 大龙燚火锅伦敦 Da Long Yi Hot Pot - London "
+   },
+   {
+    "page": "https://www.dalongyi.uk/all-you-can-eat-hot-pot",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "IT’S BUFFET TIME! "
+   },
+   {
+    "page": "https://www.dalongyi.uk/all-you-can-eat-hot-pot",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "ALL-YOU-CAN-EAT HOT POT "
+   }
+  ]
+ },
+ {
+  "name": "Apollo Banana Leaf",
+  "slug": "apollo-banana-leaf",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://apollobananaleaf.uk/",
+  "hits": [
+   {
+    "page": "https://apollobananaleaf.uk/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "10% OFF "
+   }
+  ]
+ },
+ {
+  "name": "Dragon Inn Club",
+  "slug": "dragon-inn-club",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.dragoninnclub.co.uk/",
+  "hits": [
+   {
+    "page": "https://www.dragoninnclub.co.uk/",
+    "types": [
+     "set-menu"
+    ],
+    "text": "The Peking Duck Set Menu "
+   },
+   {
+    "page": "https://www.dragoninnclub.co.uk/",
+    "types": [
+     "set-menu"
+    ],
+    "text": "Hot Pot Set Menu For Two "
+   }
+  ]
+ },
+ {
+  "name": "Coya",
+  "slug": "coya",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://coyarestaurant.com/",
+  "hits": [
+   {
+    "page": "https://coyarestaurant.com/london/en/coya-rewards",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Join COYA Rewards Now "
+   },
+   {
+    "page": "https://coyarestaurant.com/london/en/coya-rewards",
+    "types": [
+     "free-item"
+    ],
+    "text": "Birthday treat or celebration dessert, always on us "
+   },
+   {
+    "page": "https://coyarestaurant.com/london/en/coya-rewards",
+    "types": [
+     "app-reward"
+    ],
+    "text": "How do I join COYA Rewards? "
+   },
+   {
+    "page": "https://coyarestaurant.com/london/en/coya-club",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Join the COYA Club Community "
+   }
+  ]
+ },
+ {
+  "name": "Akatuki",
+  "slug": "deal-akatuki",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://akatuki.co.uk/japanese-buffet-london",
+  "hits": [
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "All-You-Can-Eat Sushi Buffet in London from £48 | Akatuki "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "All-You-Can-Eat Sushi in London "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "A weekend lunch buffet in Covent Garden, Friday to Sunday 12:00pm – 3:30pm. From £48 per person. "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Weekend lunch buffet "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "An all-you-can-eat sushi lunch in Covent Garden "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Akatuki runs an all-you-can-eat sushi and Japanese lunch buffet at weekends, from Friday to Sunday between midday and 3:30pm. It is not a self-service counter: every round is cooked to order and brought to the table, so the sushi arrives freshly made and the steak arrives hot. "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "A Sunday lunch with a difference: all-you-can-eat sushi, Friday to Sunday, from £48 "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "The restaurant is on Great Queen Street, four minutes from Holborn and five from Covent Garden Underground. The last buffet booking of the day is taken at 3:30pm and weekends fill up, so it is worth reserving ahead. BOOK A TABLE "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Buffet prices "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Friday – Sunday, 12:00pm – 3:30pm. All you can eat. Last booking at 3:30pm. "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "bottomless"
+    ],
+    "text": "With bottomless Prosecco and a choice of Premium Main Course. "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "BOOK THE BUFFET "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Buffet facts "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Included drink A glass of Prosecco or the Cocktail of the Day; bottomless Prosecco on the £88 package "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Buffet questions "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "How much is the Japanese buffet? "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Three packages: £48 per person with a glass of Prosecco or the Cocktail of the Day, £68 with a premium main course added, and £88 with bottomless Prosecco and a premium main. "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "When is the buffet available? "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Is the buffet all you can eat? "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "What is included in the buffet? "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "A sashimi platter with lobster tail, scallops and bluefin tuna; unlimited sushi rolls, salmon sashimi, king prawn and mussels, salads, ribeye steak, seafood udon, teriyaki chicken and yakisoba; plus mousse cake and matcha ice cream. "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-buffet-london",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "All-you-can-eat sushi "
+   },
+   {
+    "page": "https://akatuki.co.uk/news",
+    "types": [
+     "app-reward"
+    ],
+    "text": "Dine at Akatuki in Covent Garden by 1 January 2027 and join Akatuki Loyalty in the restaurant for a chance to win an iPhone 18 Pro. 18 or over. See the offer → "
+   },
+   {
+    "page": "https://akatuki.co.uk/news",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Exclusive Wagyu Hot Pot at £39.90, A5 Wagyu ribeye on a hot stone, and an A5 Wagyu hotpot round on the weekend lunch buffet at Akatuki in Covent Garden. "
+   },
+   {
+    "page": "https://akatuki.co.uk/menu",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "À la carte, weekday lunch, the Friday to Sunday buffet and drinks, with every price. "
+   },
+   {
+    "page": "https://akatuki.co.uk/menu",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "Pre-theatre dinner in Covent Garden : walking times to the theatres nearby and when to book. "
+   },
+   {
+    "page": "https://akatuki.co.uk/menu",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Lunch buffet "
+   },
+   {
+    "page": "https://akatuki.co.uk/menu",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "All you can eat. Last booking at 3:30pm. "
+   },
+   {
+    "page": "https://akatuki.co.uk/menu",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "All-you-can-eat sushi in London : the three packages, every round and booking times. "
+   },
+   {
+    "page": "https://akatuki.co.uk/japanese-lunch-covent-garden",
+    "types": [
+     "price-hook"
+    ],
+    "text": "Prices start at £10.00 for the omelette fried rice, teriyaki beef donburi and vegetable yakisoba bentos, which makes it one of the best-value lunches in Covent Garden. Sushi sets begin at £15.60, and the four-course Aka Premium set is £30.00. Every price on the lunch menu is listed below. "
+   }
+  ]
+ },
+ {
+  "name": "Bocconcino Soho (Sunday bottomless brunch)",
+  "slug": "deal-bocconcino-soho-sunday-bottomless-brunch",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+  "hits": [
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Sunday Bottomless Brunch in Soho from £49 | Bocconcino "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "SUnday Bottomless brunch in Soho "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "With Bottomless Prosecco £54 "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "With Bottomless Aperol Spritz or Luxardo Limoncello Spritz for £61 "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Sunday bottomless brunch in Soho: unlimited pizza and pasta at Bocconcino, £49. "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Sunday brunch at Bocconcino Soho runs from 12pm to 3pm at 59 Great Marlborough Street, at the top of Carnaby Street. It is £49 per person with bottomless Prosecco, or £56 with bottomless Aperol Spritz or Luxardo Limoncello Spritz. Drinks and food run unlimited for ninety minutes from the start of the booking. Oxford Circus is three minutes away on foot, Tottenham Court Road six."
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "The clock starts at the booking time rather than at the first drink, so arriving promptly is worth doing. Prosecco or spritzes are topped up at the table through the session, and the kitchen keeps sending food for the duration. Everyone on the table takes the same drinks package. Food is served to be eaten in the restaurant, and the bottomless offer is for over-18s. "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Bottomless brunch in Soho: where Bocconcino fits "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Most bottomless brunches in the area pair a set plate with a bottomless clock. Here the unlimited part covers hand-rolled pasta and open-fire pizza from the kitchen that runs the regional Italian à la carte the rest of the week. The room is a proper dining room, which on a Sunday means a table of six can hold a conversation without raising its voice. "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "How much is Sunday bottomless brunch at Bocconcino Soho? + "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "£49 per person with bottomless Prosecco, or £56 with bottomless Aperol Spritz or Luxardo Limoncello Spritz. Both include the antipasti board and unlimited pasta and pizza. A discretionary 13.5% service charge is added to the final bill. "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "How long does the bottomless session last? + "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus/bottomlessbrunchsunday",
+    "types": [
+     "bottomless"
+    ],
+    "text": "No, everyone on the table takes the same package, and the bottomless offer is for over-18s only. Non-alcoholic options are available from the standard drinks list for guests not taking the package. "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/events",
+    "types": [
+     "set-menu"
+    ],
+    "text": "Private bookings run on a set menu agreed in advance rather than the full à la carte, which keeps the service to time across a large table. The menu is built from the regional Italian kitchen: hand-rolled pasta, Roman-style pizza from the open-fire oven, fresh fish and seafood, and Italian desserts. Vegetarian, vegan and allergy requirements are handled at the planning stage rather than on the nig"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/events",
+    "types": [
+     "set-menu"
+    ],
+    "text": "Yes. Vegetarian, vegan and allergy requirements are built into the set menu at the planning stage rather than handled on the night. Numbers and specific requirements are confirmed in advance with the events team. "
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/mayfair/menus",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Bottomless Brunch"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/mayfair/menus",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Il Grande Buffet"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/mayfair/whatson",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Italian brunch menu, resident DJs and bottomless drinks from £74 a head."
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/mayfair/whatson",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Sunday Buffet Brunch"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/mayfair/whatson",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Il Grande buffet brunch introduces a slice of Italy to Mayfair with lobsters, oysters, Italian dishes, Sunday roasts, and much more."
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/mayfair/whatson",
+    "types": [
+     "set-menu",
+     "bottomless",
+     "all-you-can-eat"
+    ],
+    "text": "Mayfair runs a Saturday bottomless brunch with live music (Brunch Esclusivo) and a Sunday buffet brunch (Il Grande) which leans into the seafood side of the menu. The set lunch menu is available on weekdays for guests on a business lunch schedule, with two and three-course options. Dinner runs every evening, with last orders extending later on Fridays and Saturdays. The kitchen does not close betw"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Bottomless Brunch Saturday"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/menus",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Bottomless Brunch Sunday"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/whatson",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Bottomless Brunch with Live Music in Soho"
+   },
+   {
+    "page": "https://bocconcinorestaurant.co.uk/soho/whatson",
+    "types": [
+     "bottomless"
+    ],
+    "text": "Bottomless Roman style Pizza brunch with free-flowing bubbles, live music & DJ in the heart of Soho."
+   }
+  ]
+ },
+ {
+  "name": "FeiEr Cottage (unlimited dim sum)",
+  "slug": "deal-feier-cottage-unlimited-dim-sum",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.feier-restaurant.co.uk/unlimited-dimsum",
+  "hits": [
+   {
+    "page": "https://www.feier-restaurant.co.uk/unlimited-dimsum",
+    "types": [
+     "set-menu"
+    ],
+    "text": "Hot Pot Set Menu "
+   },
+   {
+    "page": "https://www.feier-restaurant.co.uk/unlimited-dimsum",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "EAT AS MUCH AS YOU LIKE "
+   },
+   {
+    "page": "https://www.feier-restaurant.co.uk/unlimited-dimsum",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "If you've ever wished you could enjoy more than just a morsel or two of dim sum, Fei Er Cottage is your culinary wish-granter. Our all-you-can-eat dimsum buffet is not just a meal; it's an experience that challenges the boundaries of your appetite. "
+   },
+   {
+    "page": "https://www.feier-restaurant.co.uk/unlimited-dimsum",
+    "types": [
+     "price-hook",
+     "all-you-can-eat"
+    ],
+    "text": "With our adult price at £38.00 and a discounted rate of £20.00 for kids under 9, your dim sum buffet dreams can run wild for a generous 120 minutes! It's the ultimate experience, and it's here for you to enjoy at Fei Er Cottage. "
+   },
+   {
+    "page": "https://www.feier-restaurant.co.uk/unlimited-dimsum",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "This way, you can revel in the communal joy that our all-you-can-eat dim sum buffet brings without any concerns. We ensure that your dining experience is not just delightful but also entirely secure. "
+   }
+  ]
+ },
+ {
+  "name": "Kalbi",
+  "slug": "deal-kalbi",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.kalbi.co.uk/",
+  "hits": [
+   {
+    "page": "https://www.kalbi.co.uk/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "BBQ Buffet Menu "
+   }
+  ]
+ },
+ {
+  "name": "Cosmo Romford",
+  "slug": "deal-cosmo-romford",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.cosmo-restaurants.co.uk/restaurants/romford/",
+  "hits": [
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/restaurants/romford/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Buffet in Romford | All You Can Eat Restaurant | COSMO "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/restaurants/romford/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Romford's world buffet "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/restaurants/romford/",
+    "types": [
+     "percent-off",
+     "all-you-can-eat"
+    ],
+    "text": "You’ll find us on the ground floor of The Brewery, Romford’s top shopping and leisure destination. With its vast seating area and live cooking stations, the all you can eat menu at our Romford restaurant is proving to be a hit with families and foodies alike. Get 25% off at Q-Park Romford Town when you use the code COSRMFD25 with pre-booked parking via: www.q-park.co.uk "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/restaurants/romford/",
+    "types": [
+     "price-hook"
+    ],
+    "text": "There is a small charge for infants 3 and under dining at the restaurant: £3.00 for dinner every day. "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "STUDENT 10% OFF FOOD BILL "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Offer is 10% off food bill for food only and excludes drinks. "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "10% OFF FOOD BILL "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Offer entitles any Emergency Services or Armed Force person to receive 10% off their food bill only, when accompanied by a maximum of 5 people. "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "discount-group"
+    ],
+    "text": "To redeem the offer, please present the original voucher and/or your official Photo Work ID card/Blue Light card to your server when being seated. "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Student 10% Off Food Bill "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "NHS, Emergency Services & Armed Forces 10% Off Food Bill "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "10% Off Bus Ticket Holders "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "25% Off Q-Park Car Park "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/restaurant/romford/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Romford Offers | All You Can Eat World Buffet Restaurant | COSMO "
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/restaurant/romford/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "ROMFORD STUDENT 10% OFF FOOD BILL"
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/offers/restaurant/romford/",
+    "types": [
+     "percent-off"
+    ],
+    "text": "ROMFORD NHS, EMERGENCY SERVICES & ARMED 10% OFF FOOD BILL"
+   },
+   {
+    "page": "https://www.cosmo-restaurants.co.uk/menu/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "World Buffet Food Menu | All You Can Eat Restaurants | COSMO "
+   }
+  ]
+ },
+ {
+  "name": "Rodizio Rico",
+  "slug": "deal-rodizio-rico",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://rodiziorico.com/rodizio-rico-london.html",
+  "hits": [
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Rodizio Rico - London - The O2 Arena "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Meats & Buffet "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Bday Person + 3 Guests =   5% off total bill. "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "percent-off"
+    ],
+    "text": "Bday Person + 5 Guests or more =   10% off total bill. "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Please note that Rodizio Rico operates a one price policy for the month of December , dinner price will be applied up until the 26th of December, when normal prices will be available again. "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Please note that during the festive period in December , Rodizio Rico maintains a fixed dinner price across all days and times, including lunch and dinner services. "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "THE RODIZIO EXPERIENCE "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "All you can eat including Buffet & all Grilled meats."
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "All you can eat "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Try our buffet with a selection of fresh cut vegetables and authentic Brazilian side dishes. "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "rodizio.theo2@rodiziorico.com "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Rodizio Rico Copyright © 2025 "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london-booking-advices.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Rodizio Rico London - Booking Advices "
+   },
+   {
+    "page": "https://rodiziorico.com/rodizio-rico-london-booking-advices.html",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Rodizio Rico Copyright © 2025"
+   }
+  ]
+ },
+ {
+  "name": "Sanshun",
+  "slug": "deal-sanshun",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://sanshun.co.uk/",
+  "hits": [
+   {
+    "page": "https://sanshun.co.uk/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "ALL YOU CAN EAT "
+   },
+   {
+    "page": "https://sanshun.co.uk/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Book your table today and be part of the UK’s first Asian Hotpot & Korean BBQ Buffet — Only At Sanshun. "
+   },
+   {
+    "page": "https://sanshun.co.uk/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Experience the perfect fusion of East Asian culinary traditions at Sanshun. Our Hotpot & BBQ Buffet brings together the rich, warming flavours of Chinese hotpot with the bold, smoky tastes of Korean BBQ, all on one table. "
+   },
+   {
+    "page": "https://sanshun.co.uk/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Perfect for gatherings, celebrations, or simply exploring the art of flavours from multiple cultures, our buffet invites you to share, savour, and enjoy the best of both worlds in one unforgettable dining experience. "
+   }
+  ]
+ },
+ {
+  "name": "JRC Global Buffet",
+  "slug": "deal-jrc-global-buffet",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://jrc-globalbuffet.com/restaurants/wembley/",
+  "hits": [
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Wembley - JRC Global Buffet "
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "For any equiries about our full buffet offerings and birthday meal offers, you are welcome to contact the branch via email or telephone before making your booking or visiting. "
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Last admittance: 90 minutes before closing time. The Kitchen closes 30 minutes before closing time. All buffet units close 15 minutes before closing time. Time restrictions may apply our restaurant operates 1 hour 45 minutes seating time policy for reservations. Non-reservations will have 1 hour 30 minutes. Please note that your reserved table will be kept for up to 15 minutes ONLY. All dishes wil"
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "JRC Global Buffet Wembley, London Designer Outlet Centre, Wembley Park Boulevard, London, HA9 0FD "
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "I agree to receive marketing related materials and accept JRC Global Buffet’s Privacy and Cookie Policy ."
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Copyright © JRC Global Buffet 2026"
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "· Offer valid on THURSDAY at  JRC Global Buffet Cardiff branch only until 30 Nov 2026."
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "· Purchase one full-price adult buffet and receive a second adult buffet free during the same dine-in visit."
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "· Offer valid until 26 November on selected days at participating JRC Global Buffet branches only: Monday – Croydon, Tuesday – Watford, Wednesday – Wembley, Thursday – Ilford."
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "At Global Buffet, we are committed to delivering an exceptional dining experience that reflects the richness of global cuisines. Our values guide everything we do, ensuring quality, innovation, and a people-focused approach. We honour global culinary traditions with respect, strive for excellence in service, foster creativity and innovation, uphold integrity and quality, infuse passion into every "
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/restaurants/wembley/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "No trip to our buffet will be complete without a few dishes from Italy. We use traditional recipes from Naples for our pizzas – they just taste better especially straight from the oven. The combination of rich sauces and pastas are popular with adults and kids alike, use some garlic bread to mop up the sauce! "
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/offers/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Offers - JRC Global Buffet "
+   },
+   {
+    "page": "https://jrc-globalbuffet.com/menu/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Menu - JRC Global Buffet "
+   }
+  ]
+ },
+ {
+  "name": "Colombo Kitchen",
+  "slug": "colombo-kitchen",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.colombokitchen.co.uk/",
+  "hits": [
+   {
+    "page": "https://www.colombokitchen.co.uk/festive-events",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "- 4 course generous buffet including midnight traditional buffet of kiribath and kevum "
+   },
+   {
+    "page": "https://www.colombokitchen.co.uk/festive-events",
+    "types": [
+     "set-menu"
+    ],
+    "text": "You will have an option of the 3 course set menu below OR 3 courses from our a la carte menu per person. "
+   }
+  ]
+ },
+ {
+  "name": "Fogo de Chão Bishopsgate",
+  "slug": "deal-fogo-de-cha-o-bishopsgate",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://fogodechao.uk/location/london-bishopsgate/",
+  "hits": [
+   {
+    "page": "https://fogodechao.uk/location/london-bishopsgate/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Rooted in Southern Brazilian culinary tradition, our experience centres around a continuous tableside service of expertly grilled cuts, served rodizio-style—perfectly suited to business lunches, those relaxed weekend dinners, and special occasions. "
+   },
+   {
+    "page": "https://fogodechao.uk/location/london-bishopsgate/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "HAPPY HOUR "
+   },
+   {
+    "page": "https://fogodechao.uk/location/london-bishopsgate/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Join us for Happy Hour from 3–7pm daily, available in both Bar Fogo and the restaurant. Enjoy a selection of beers, South American wines and Brazilian-inspired cocktails, with our Bar & Terrace Food Menu available exclusively in the bar."
+   },
+   {
+    "page": "https://fogodechao.uk/location/london-bishopsgate/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Happy Hour "
+   },
+   {
+    "page": "https://fogodechao.uk/location/london-bishopsgate/",
+    "types": [
+     "all-you-can-eat"
+    ],
+    "text": "Discover our menus at Fogo de Chão London Bishopsgate (formerly Fazenda), serving authentic Brazilian steakhouse dining the rodizio way. Explore everything from our Bar & Terrace menu to fine wines, desserts, and private dining menus. "
+   },
+   {
+    "page": "https://fogodechao.uk/location/london-bishopsgate/",
+    "types": [
+     "happy-hour"
+    ],
+    "text": "Join us for Happy Hour from 3–7pm daily, available in both Bar Fogo and the restaurant. Enjoy a selection of beers, South American wines and Brazilian-inspired cocktails, with our Bar & Terrace Food Menu available exclusively in the bar. "
+   }
+  ]
+ },
+ {
+  "name": "Estiatorio Milos",
+  "slug": "estiatorio-milos",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://www.estiatoriomilos.com/location/london/?utm_source=chatgpt.com",
+  "hits": [
+   {
+    "page": "https://www.estiatoriomilos.com/location/nyhudsonyards/menu/",
+    "types": [
+     "pre-theatre"
+    ],
+    "text": "PRE-THEATRE "
+   }
+  ]
+ },
+ {
+  "name": "Alexander the Great",
+  "slug": "alexander-the-great-camden",
+  "alsoSlugs": [],
+  "source": "database",
+  "site": "https://alexanderthegreatgreekrestaurant.co.uk/en",
+  "hits": [
+   {
+    "page": "https://alexanderthegreatgreekrestaurant.co.uk/en",
+    "types": [
+     "free-item"
+    ],
+    "text": "Hire Room: Free Bottle Of Champagne & Cake, On Us! "
+   }
+  ]
+ }
+]
