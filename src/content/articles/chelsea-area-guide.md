@@ -157,7 +157,7 @@ The riverfront: Georgian terraces facing the water, blue plaques for Turner, Whi
 
 **Albert Bridge is the set piece.** It is lit by around four thousand bulbs after dark, and it is **free and open to pedestrians at all hours**.
 
-**Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back: three Michelin stars since 2001, booked months ahead.
+**Restaurant Gordon Ramsay is at 68 Royal Hospital Road**, one street back: three Michelin stars since 2001, booked months ahead. Every other Ramsay restaurant in London is ranked in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
 
 **It is a walk, not a destination**: about fifteen minutes end to end, with very little to buy along it.
 

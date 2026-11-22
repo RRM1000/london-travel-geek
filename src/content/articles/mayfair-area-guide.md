@@ -173,6 +173,8 @@ Mayfair's omakase counters include Sushi Kanesaka on Park Lane, The Araki on New
 
 Bar des Prés on South Audley Street, the French chef Cyril Lignac's French-Japanese restaurant, is in our [fusion restaurants guide](/articles/best-fusion-restaurants-london/).
 
+Lucky Cat and Gordon Ramsay Bar & Grill on Grosvenor Square, and Heddon Street Kitchen off Regent Street, are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **Green Park** (Piccadilly, Victoria, Jubilee) is best for the arcades and the Royal Academy. **Bond Street** (Elizabeth line, Central, Jubilee) is best for the north. Oxford Circus serves the north-east corner. Oxford Street, on the north edge, has been traffic-free since 26 October 2026 between Orchard Street and Great Portland Street; see our [Oxford Street guide](/articles/oxford-street-guide/).

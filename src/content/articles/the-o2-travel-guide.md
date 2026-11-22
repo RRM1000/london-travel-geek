@@ -243,7 +243,7 @@ The **Design District**, 16 low-rise studio buildings by eight architects, sits 
 
 The Entertainment District doesn't close to the public on an event day; it runs on its ordinary public hours whatever is on in the arena.
 
-The complex's general hours are **10:00–22:00 daily**, though individual restaurants, bars and leisure venues set their own, often later, times. More than 40 places include **Gordon Ramsay Street Burger, Nando's, Five Guys, KFC, German Doner Kebab, Gaucho, Haidilao Hot Pot, TGI Fridays, PizzaExpress, Zizzi, Las Iguanas** and **Frankie & Benny's**, plus bars including **All Bar One** and **Slug & Lettuce**.
+The complex's general hours are **10:00–22:00 daily**, though individual restaurants, bars and leisure venues set their own, often later, times. More than 40 places include **[Gordon Ramsay Street Burger](/articles/gordon-ramsay-restaurants-london/), Nando's, Five Guys, KFC, German Doner Kebab, Gaucho, Haidilao Hot Pot, TGI Fridays, PizzaExpress, Zizzi, Las Iguanas** and **Frankie & Benny's**, plus bars including **All Bar One** and **Slug & Lettuce**.
 
 **Wetherspoon's pub here, The Stargazer**, is open **10am to 12:15am daily**, with food served **10am to 11pm**, the late kitchen and late pint after a show.
 

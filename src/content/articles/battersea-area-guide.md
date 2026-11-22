@@ -190,6 +190,8 @@ Kibou on Northcote Road is in our [sushi restaurants guide](/articles/best-sushi
 
 At Christmas the Power Station adds a riverside skate trail and winter food huts in Malaysia Square; see our [London Christmas markets guide](/articles/christmas-markets-london/).
 
+Bread Street Kitchen and Street Pizza, both Gordon Ramsay restaurants at the Power Station, are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** The **Northern line** was extended here in 2021, with stops at **Nine Elms** and **Battersea Power Station**. Both are on the Charing Cross branch — check the front of the train, as Bank-branch services will not come here.

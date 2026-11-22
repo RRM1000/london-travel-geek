@@ -88,7 +88,7 @@ Sorted by price. Per minute is the price divided by the drinking window.
 | **Megan's** Premium | Clapham, Islington | £75 | 120 | £0.63 | Champagne, meal extra |
 | **No 32** Veuve Clicquot | Clapham | £79 | 90 | £0.88 | Champagne on the list |
 
-**Also on sale:** Bounce at Battersea Power Station from £30, Cabana at £45 for a two-course Bottomless Weekend, and Gordon Ramsay's Street Pizza, which sells ninety minutes of bottomless Prosecco for £24 on top of its bottomless-pizza price. Check the session length with Bounce and Cabana before you book.
+**Also on sale:** Bounce at Battersea Power Station from £30, Cabana at £45 for a two-course Bottomless Weekend, and Gordon Ramsay's [Street Pizza](/articles/gordon-ramsay-restaurants-london/), which sells ninety minutes of bottomless Prosecco for £24 on top of its bottomless-pizza price. Check the session length with Bounce and Cabana before you book.
 
 ---
 

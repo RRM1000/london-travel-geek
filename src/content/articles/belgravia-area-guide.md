@@ -157,6 +157,8 @@ Sachi on Motcomb Street is in our [sushi restaurants guide](/articles/best-sushi
 
 **For anything under £20**, walk to Eccleston Yards or back towards Victoria. The residential streets have nothing.
 
+Pétrus by Gordon Ramsay on Kinnerton Street holds a Michelin star and is in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **Victoria** (Victoria, District, Circle) is the practical entrance and puts you five minutes from Eccleston Yards and ten from Elizabeth Street. **Sloane Square** (District, Circle) is better for the western end and for combining with Chelsea. **Hyde Park Corner** (Piccadilly) is best for Belgrave Square and [The Peninsula](hotel:the-peninsula-london).

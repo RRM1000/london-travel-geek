@@ -227,6 +227,8 @@ Archive & Myth is reached through the Magic Mike Live entrance of the Hippodrome
 
 To watch the match, Bloodsports on Endell Street has more than 30 screens and opens until 2am, The Porterhouse on Maiden Lane has 18, and The Maple Leaf next door is a Canadian bar for ice hockey; all three are in our [sports bars guide](/articles/best-sports-bars-london/).
 
+The Savoy on the Strand has three Gordon Ramsay restaurants, Savoy Grill, Restaurant 1890 and The River Restaurant; all three are in our [Gordon Ramsay restaurants guide](/articles/gordon-ramsay-restaurants-london/).
+
 ## Getting there
 
 **By Tube.** **Do not use Covent Garden station**: it has no escalators, just lifts and a 193-step spiral staircase, and it queues badly. Use **Leicester Square** (Piccadilly, Northern) or **Holborn** (Central, Piccadilly) instead; both are about five minutes' walk.
