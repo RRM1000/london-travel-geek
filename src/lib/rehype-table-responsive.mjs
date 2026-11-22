@@ -7,17 +7,17 @@
 //   2 columns   left alone. Each column gets about 170px at 375px, enough for
 //               prose to wrap on spaces.
 //
-//   3 columns   the table gets `table--scroll` and its wrapper
+//   3 columns   (short values) the table gets `table--scroll` and its wrapper
 //               `table-scroll--x`. On a phone it stays a table: the first
 //               column is pinned and the other two, each as wide as the
 //               space beside it, scroll sideways behind a fade at the right
 //               edge. From 36rem to the breakpoint all three fit side by
 //               side, so there it is an ordinary table.
 //
-//   4 or more   every body cell gets a `data-label` copied from its column's
-//               header, and the table gets `table--stack`. On a phone each row
-//               becomes a labelled card; the header row stays in the markup,
-//               visually hidden, for screen readers.
+//   4 or more,  every body cell gets a `data-label` copied from its column's
+//   or 3 with   header, and the table gets `table--stack`. On a phone each row
+//   a prose     becomes a labelled card; the header row stays in the markup,
+//   column      visually hidden, for screen readers. See hasProseColumn.
 //
 // The CSS for all three lives in ArticleLayout.astro.
 //
@@ -61,6 +61,22 @@ function addClass(table, className) {
   table.properties = { ...table.properties, className: classes };
 }
 
+// A three-column table scrolls only while its scrolling columns hold short
+// values (times, prices, a word or two). If either of them averages more than
+// PROSE_CHARS characters a cell, a reader would have to swipe along every row
+// to read it, so the table stacks into cards instead (22 November 2026).
+const PROSE_CHARS = 25;
+function hasProseColumn(rows) {
+  for (const col of [1, 2]) {
+    const lengths = rows
+      .map((row) => row.children.filter((c) => isElement(c, "td") || isElement(c, "th"))[col])
+      .filter(Boolean)
+      .map((cell) => textContent(cell).trim().length);
+    if (lengths.length && lengths.reduce((a, b) => a + b, 0) / lengths.length > PROSE_CHARS) return true;
+  }
+  return false;
+}
+
 // Decides how a table behaves on a phone and marks it up for that, returning
 // "stack", "scroll" or null. Anything that does not look like a normal GFM
 // table (no thead or no tbody) is left as it is - it is still wrapped for the
@@ -75,11 +91,12 @@ function enhanceTable(table) {
     (child) => isElement(child, "th") || isElement(child, "td"),
   );
 
-  if (headerCells.length === SCROLL_COLUMNS) {
+  const rows = tbody.children.filter((row) => isElement(row, "tr"));
+  if (headerCells.length === SCROLL_COLUMNS && !hasProseColumn(rows)) {
     addClass(table, "table--scroll");
     return "scroll";
   }
-  if (headerCells.length < STACK_MIN_COLUMNS) return null;
+  if (headerCells.length < SCROLL_COLUMNS) return null;
 
   const labels = headerCells.map((cell) => textContent(cell).trim());
 
