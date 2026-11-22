@@ -37,11 +37,14 @@ for (const f of files) {
 
 const client = await connect();
 const index = await nameIndex(client);
+const recommended = new Set((await client.query("select id from places where recommended")).rows.map((r) => r.id));
 const clean = (n) => (n ?? "").replace(/^(london'?s|the capital'?s|soho'?s|mayfair'?s|shoreditch'?s)\s+/i, "").trim();
 let linked = 0;
 const rows = [...leads.values()].map((l) => {
   const name = clean(l.name) || null;
-  let place = name ? index.get(key(name)) ?? null : null;
+  // "Europe'" is a cut-off headline, not a name; a one-word name ("Oxford", "Luci") links only to a recommended place.
+  let place = name && !/['’]$/.test(name) ? index.get(key(name)) ?? null : null;
+  if (place && !/\s/.test(name) && !recommended.has(place)) place = null;
   if (place && l.kind === "closure" && (ELSEWHERE.test(l.title) || NOT_CLOSING.test(l.title))) place = null;
   if (place) linked++;
   return { ...l, name, place };

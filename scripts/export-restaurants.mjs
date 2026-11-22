@@ -16,7 +16,7 @@
 //
 import fs from "node:fs";
 import path from "node:path";
-import { readTab } from "./sheets.mjs";
+import { readTab } from "./lib/site-rows.mjs";
 
 const OUT = "src/data/restaurants.json";
 

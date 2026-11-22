@@ -12,7 +12,7 @@
 //   node scripts/export-events.mjs
 //
 import fs from "node:fs";
-import { readTab } from "./sheets.mjs";
+import { readTab } from "./lib/site-rows.mjs";
 import { eventAffiliate } from "./lib/affiliate.mjs";
 
 const OUT = "src/data/events.json";

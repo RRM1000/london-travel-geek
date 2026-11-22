@@ -69,7 +69,14 @@ const fromSheet = (rows, category, sub, origin, recommended = true) =>
     first_seen: date(r["First Seen"]), last_checked: date(r["Last Checked"]) ?? date(r["Status Checked"]),
   }));
 
-const restaurants = fromSheet(tab("restaurants-v2"), "restaurant", "Cuisine", "sheet:Restaurants v2");
+// The Restaurants sheet also holds pubs, cafés, bars and bakeries; their Venue Format sets the category.
+const FORMAT_CATEGORY = { "pub": "pub", "gastropub": "pub", "pub residency": "pub", "pub / pizzeria": "pub",
+  "coffee shop": "cafe", "cafe": "cafe", "cafe / bar": "cafe", "cocktail bar": "bar", "bar": "bar", "wine bar": "bar",
+  "bar residency": "bar", "bakery": "bakery", "patisserie": "bakery", "market stall": "street_food", "market": "market", "food hall": "market" };
+const restaurants = fromSheet(tab("restaurants-v2"), "restaurant", "Cuisine", "sheet:Restaurants v2").map((p) => {
+  const cat = FORMAT_CATEGORY[(JSON.parse(p.attributes)["Venue Format"] ?? "").trim().toLowerCase()];
+  return cat ? { ...p, category: cat } : p;
+});
 const activities = fromSheet(tab("activities"), "activity", "Activity Type", "sheet:Activities");
 const hotels = fromSheet(tab("hotels"), "hotel", "Property Type", "sheet:Hotels");
 const hidden = fromSheet(tab("hidden-london"), "hidden_london", "Type", "sheet:Hidden London");

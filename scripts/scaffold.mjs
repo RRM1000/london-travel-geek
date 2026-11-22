@@ -17,7 +17,7 @@
 //
 import fs from "node:fs";
 import path from "node:path";
-import { readTab } from "./sheets.mjs";
+import { readTab } from "./lib/site-rows.mjs";
 
 const args = process.argv.slice(2);
 const listName = args.find((a) => !a.startsWith("--"));

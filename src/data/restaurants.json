@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-20",
- "count": 1032,
- "withCoords": 819,
+ "generated": "2026-11-22",
+ "count": 1031,
+ "withCoords": 818,
  "facets": {
   "cuisine": [
    {
@@ -17,7 +17,7 @@
    {
     "value": "Chinese",
     "slug": "chinese",
-    "count": 84
+    "count": 83
    },
    {
     "value": "Indian",
@@ -234,7 +234,7 @@
    {
     "value": "Kings Cross",
     "slug": "kings-cross",
-    "count": 14
+    "count": 13
    },
    {
     "value": "Paddington",
@@ -306,7 +306,7 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 253
+    "count": 252
    },
    {
     "value": "grill",
@@ -331,7 +331,7 @@
    {
     "value": "seafood",
     "slug": "seafood",
-    "count": 85
+    "count": 84
    },
    {
     "value": "pizza",
@@ -379,13 +379,13 @@
     "count": 38
    },
    {
-    "value": "hot-pot",
-    "slug": "hot-pot",
-    "count": 35
-   },
-   {
     "value": "brunch",
     "slug": "brunch",
+    "count": 34
+   },
+   {
+    "value": "hot-pot",
+    "slug": "hot-pot",
     "count": 34
    },
    {
@@ -508,7 +508,7 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 398
+    "count": 397
    },
    {
     "value": "£££",
@@ -32173,12 +32173,9 @@
   },
   {
    "slug": "orasay",
-   "name": "Orasay",
+   "name": "Dove",
    "cuisine": "British",
-   "style": "Western Isles fish cooking",
-   "specialities": [
-    "seafood"
-   ],
+   "style": "seasonal British comfort food",
    "format": "Restaurant",
    "chainType": "independent",
    "area": "Notting Hill",
@@ -32200,10 +32197,7 @@
     "date",
     "celebration"
    ],
-   "whyGo": "Jackson Boxer's room, focused on fish and seafood and inspired by the Western Isles in its own words - wood-grilled whole John Dory, Isle of Mull diver scallops.",
-   "lists": [
-    "seafood"
-   ],
+   "whyGo": "Jackson Boxer's Notting Hill neighbourhood restaurant, cooking comfort food from seasonal British ingredients.",
    "sourceCount": "2",
    "sourceTiers": "B1 C1",
    "sourceUrls": "https://www.designmynight.com/london/seafood-restaurants-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
