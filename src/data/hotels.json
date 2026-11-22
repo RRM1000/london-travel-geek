@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-22",
- "count": 216,
+ "generated": "2026-11-11",
+ "count": 219,
  "hotels": [
   {
    "slug": "astor-hyde-park",
@@ -6749,6 +6749,69 @@
    "affiliateMerchant": "Hotels.com"
   },
   {
+   "slug": "nobu-portman-square",
+   "name": "Nobu Hotel London Portman Square",
+   "propertyType": "hotel",
+   "style": "Nobu's Marylebone house, restaurant-led, on a garden square",
+   "brand": "nobu",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Marylebone",
+   "borough": "Westminster",
+   "guide": "marylebone-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "22 Portman Square",
+   "postcode": "W1H 7BG",
+   "priceBand": "££££",
+   "whyGo": "The quieter of Nobu's two London hotels - a garden square in Marylebone rather than Shoreditch - with the Nobu restaurant, its terrace, the bar and afternoon tea all downstairs, and Marylebone High Street, Mayfair and Oxford Street each a walk away.",
+   "opNote": "Two Nobu hotels in London: this is Portman Square in Marylebone, not Nobu Hotel London Shoreditch. The operator itself shortens the name to \"Nobu Portman Square\".",
+   "goodFor": [
+    "couples",
+    "business",
+    "celebration"
+   ],
+   "lists": [
+    "luxury",
+    "design"
+   ],
+   "website": "https://www.nobuhotels.com/london-portman/",
+   "hotelsUrl": "https://uk.hotels.com/h19959.Hotel-Information",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h19959.Hotel-Information",
+   "affiliateNetwork": "cj",
+   "affiliateMerchant": "Hotels.com"
+  },
+  {
+   "slug": "nomad-london",
+   "name": "NoMad London",
+   "propertyType": "hotel",
+   "style": "Theatrical, in the old Bow Street Magistrates' Court",
+   "brand": "hilton",
+   "chainType": "chain",
+   "starRating": "5",
+   "area": "Covent Garden",
+   "borough": "Westminster",
+   "guide": "covent-garden-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "28 Bow Street",
+   "postcode": "WC2E 7AW",
+   "priceBand": "££££",
+   "whyGo": "The former Bow Street Magistrates' Court, opposite the Royal Opera House - the building where the Bow Street Runners were founded and where Oscar Wilde was remanded, now a hotel that leans into all of it.",
+   "opNote": "Runs under Hilton's LXR collection, so Hilton Honors applies.",
+   "goodFor": [
+    "couples",
+    "celebration"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.hilton.com/en/hotels/lonnmnd-nomad-london/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho1919200096/nomad-london-london-united-kingdom/",
+   "affiliateNetwork": "cj",
+   "affiliateMerchant": "Hotels.com"
+  },
+  {
    "slug": "one-aldwych",
    "name": "One Aldwych",
    "propertyType": "hotel",
@@ -7290,6 +7353,47 @@
    "website": "https://collezione.starhotels.com/en/our-hotels/the-franklin-london/",
    "hotelsUrl": "https://uk.hotels.com/h15538456.Hotel-Information",
    "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/h15538456.Hotel-Information",
+   "affiliateNetwork": "cj",
+   "affiliateMerchant": "Hotels.com"
+  },
+  {
+   "slug": "the-goring",
+   "name": "The Goring",
+   "propertyType": "hotel",
+   "style": "The last family-owned five-star in London",
+   "brand": "goring",
+   "chainType": "independent",
+   "starRating": "5",
+   "area": "Victoria",
+   "borough": "Westminster",
+   "guide": "westminster-area-guide",
+   "zone": "1",
+   "district": "Central",
+   "address": "15 Beeston Place",
+   "postcode": "SW1W 0JW",
+   "lat": 51.497476,
+   "lng": -0.145539,
+   "priceBand": "££££",
+   "typicalFrom": "About £600",
+   "breakfast": "extra",
+   "roomTypes": "Double, suite",
+   "accessibility": "accessible-rooms",
+   "hasLift": "yes",
+   "airCon": "yes",
+   "luggageStorage": "yes",
+   "whyGo": "Still owned by the Goring family after four generations, with a private garden behind and Buckingham Palace round the corner - the Princess of Wales stayed here the night before her wedding.",
+   "opNote": "The only London five-star still in the hands of the family that built it. The garden is residents-only; the dining room is not.",
+   "goodFor": [
+    "couples",
+    "celebration",
+    "families"
+   ],
+   "lists": [
+    "luxury"
+   ],
+   "website": "https://www.thegoring.com/",
+   "hotelsUrl": "https://uk.hotels.com/ho174363/",
+   "affiliateUrl": "https://www.anrdoezrs.net/links/101875905/type/dlg/https://uk.hotels.com/ho174363/",
    "affiliateNetwork": "cj",
    "affiliateMerchant": "Hotels.com"
   },

@@ -41,7 +41,7 @@ Every page on the site follows these, whoever writes it: Claude, a Sonnet agent 
 - Never infer a fact from a name. Read the operator's own page.
 - A supplied photo is evidence about the venue. If it contradicts the copy, check the operator and fix the copy.
 - Give every time-bound claim its date and set `reviewBy` in the frontmatter. `npm run audit:dates` finds claims that have lapsed.
-- The database is the master copy of places, events and deals. Make a closure, a correction or a deal change there, never in the Google Sheet, which is frozen; the daily "Site data from the database" pull request carries it to the site.
+- The database is the master copy of places, events and deals. Make a closure, a correction or a deal change there, never in the Google Sheet, which is frozen; the "Site data from the database" pull request carries it to the site when Rob asks to publish.
 - Never hand-edit the italic facts strip under a restaurant heading. `scripts/sync-article-facts.mjs` writes it from the database.
 - When checking one page turns up a mistake on another, fix both.
 - A substantive edit (facts, entries, prices, dates, new sections) sets `updatedAt` to that day; cards and headers show it as "Updated". Photo, caption and wording tidies don't. Never move `publishedAt` earlier than the day the page first existed.

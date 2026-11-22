@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-22",
- "count": 1029,
- "withCoords": 818,
+ "generated": "2026-11-20",
+ "count": 1032,
+ "withCoords": 819,
  "facets": {
   "cuisine": [
    {
@@ -12,12 +12,12 @@
    {
     "value": "Italian",
     "slug": "italian",
-    "count": 161
+    "count": 162
    },
    {
     "value": "Chinese",
     "slug": "chinese",
-    "count": 83
+    "count": 84
    },
    {
     "value": "Indian",
@@ -72,7 +72,7 @@
    {
     "value": "Filipino",
     "slug": "filipino",
-    "count": 13
+    "count": 14
    },
    {
     "value": "Turkish",
@@ -154,7 +154,7 @@
    {
     "value": "Soho",
     "slug": "soho",
-    "count": 113
+    "count": 115
    },
    {
     "value": "Mayfair",
@@ -289,7 +289,7 @@
    {
     "value": "Battersea",
     "slug": "battersea",
-    "count": 6
+    "count": 7
    },
    {
     "value": "Belgravia",
@@ -306,7 +306,7 @@
    {
     "value": "regional",
     "slug": "regional",
-    "count": 252
+    "count": 253
    },
    {
     "value": "grill",
@@ -316,7 +316,7 @@
    {
     "value": "small-plates",
     "slug": "small-plates",
-    "count": 154
+    "count": 155
    },
    {
     "value": "street-food",
@@ -331,7 +331,12 @@
    {
     "value": "seafood",
     "slug": "seafood",
-    "count": 84
+    "count": 85
+   },
+   {
+    "value": "pizza",
+    "slug": "pizza",
+    "count": 79
    },
    {
     "value": "pasta",
@@ -339,14 +344,9 @@
     "count": 78
    },
    {
-    "value": "pizza",
-    "slug": "pizza",
-    "count": 78
-   },
-   {
     "value": "tasting-menu",
     "slug": "tasting-menu",
-    "count": 49
+    "count": 50
    },
    {
     "value": "breakfast",
@@ -508,7 +508,7 @@
    {
     "value": "££",
     "slug": "price-2",
-    "count": 397
+    "count": 398
    },
    {
     "value": "£££",
@@ -518,12 +518,12 @@
    {
     "value": "£",
     "slug": "price-1",
-    "count": 174
+    "count": 175
    },
    {
     "value": "££££",
     "slug": "price-4",
-    "count": 153
+    "count": 154
    }
   ]
  },
@@ -699,42 +699,6 @@
    "sourceCount": "5",
    "sourceTiers": "B1 C4",
    "sourceUrls": "https://www.designmynight.com/london/blog/hot-pot-london | https://www.londonxlondon.com/best-hot-pot-london/ | https://www.honglingjin.co.uk/384906.html"
-  },
-  {
-   "slug": "chilli-cool",
-   "name": "Chilli Cool",
-   "cuisine": "Chinese",
-   "style": "Sichuan restaurant with a hot pot room",
-   "specialities": [
-    "hot-pot",
-    "regional"
-   ],
-   "format": "Restaurant",
-   "chainType": "independent",
-   "area": "King's Cross",
-   "zone": "1",
-   "district": "North",
-   "borough": "Camden",
-   "guide": "kings-cross-area-guide",
-   "address": "15 Leigh St",
-   "postcode": "WC1H 9EW",
-   "lat": 51.526466,
-   "lng": -0.125014,
-   "price": "££",
-   "booking": "days",
-   "goodFor": [
-    "groups",
-    "quick"
-   ],
-   "whyGo": "Two shopfronts on the same street: stir-fries on one side, a separate hot pot room on the other, plus boboji - meat and vegetables on skewers, cooked in mala oil and priced by the stick.",
-   "opNote": "Named by five domains, the most of any independent in the topic, and by every Chinese-language source in the corpus.",
-   "lists": [
-    "hot-pot",
-    "best-value"
-   ],
-   "sourceCount": "6",
-   "sourceTiers": "B1 C5",
-   "sourceUrls": "https://www.olivemagazine.com/restaurants/london/best-chinese-restaurants-in-london/ | https://www.londonxlondon.com/best-hot-pot-london/ | https://londoncheapo.com/food-and-drink/best-hot-pot-in-central-london/"
   },
   {
    "slug": "hotto-potto",
@@ -31581,6 +31545,47 @@
    "sourceUrls": "https://www.theinfatuation.com/london/guides/best-dim-sum-london"
   },
   {
+   "slug": "tattu-london",
+   "name": "Tattu London",
+   "cuisine": "Chinese",
+   "style": "Contemporary Cantonese",
+   "specialities": [
+    "tasting-menu",
+    "small-plates"
+   ],
+   "format": "Restaurant",
+   "chainType": "independent",
+   "context": "The Now Building, Outernet",
+   "area": "Soho",
+   "zone": "1",
+   "district": "Central",
+   "borough": "Camden",
+   "guide": "soho-area-guide",
+   "address": "Denmark Street",
+   "postcode": "WC2H 0LA",
+   "lat": 51.515311,
+   "lng": -0.129825,
+   "station": "Tottenham Court Road",
+   "walkMin": 3,
+   "price": "££££",
+   "booking": "weeks",
+   "bookingUrl": "https://www.sevenrooms.com/explore/tattulondon/reservations/create/search/",
+   "website": "https://tattu.co.uk/locations/tattu-london/",
+   "goodFor": [
+    "celebration",
+    "date",
+    "groups"
+   ],
+   "whyGo": "Contemporary Cantonese served under a cherry blossom canopy on the sixth floor of the Outernet, laid out as four rooms around an inner courtyard.",
+   "signature": "Cherry Blossom dessert",
+   "opNote": "The Cherry Blossom dessert - a handmade chocolate tree that fogs when water is poured around it - is what most people book for. Sharing menu around 125 pounds a head.",
+   "signals": "5 domains across three tiers: SquareMeal, Country & Town House, Luxury London, The London Economic, Secret London",
+   "lists": [
+    "special-occasion",
+    "showstopper"
+   ]
+  },
+  {
    "slug": "hainan-house",
    "name": "Hainan House",
    "cuisine": "Chinese",
@@ -32168,9 +32173,12 @@
   },
   {
    "slug": "orasay",
-   "name": "Dove",
+   "name": "Orasay",
    "cuisine": "British",
-   "style": "seasonal British comfort food",
+   "style": "Western Isles fish cooking",
+   "specialities": [
+    "seafood"
+   ],
    "format": "Restaurant",
    "chainType": "independent",
    "area": "Notting Hill",
@@ -32192,7 +32200,10 @@
     "date",
     "celebration"
    ],
-   "whyGo": "Jackson Boxer's Notting Hill neighbourhood restaurant, cooking comfort food from seasonal British ingredients.",
+   "whyGo": "Jackson Boxer's room, focused on fish and seafood and inspired by the Western Isles in its own words - wood-grilled whole John Dory, Isle of Mull diver scallops.",
+   "lists": [
+    "seafood"
+   ],
    "sourceCount": "2",
    "sourceTiers": "B1 C1",
    "sourceUrls": "https://www.designmynight.com/london/seafood-restaurants-in-london | https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-seafood-fish-shellfish-london-restaurants-eating-out"
@@ -34895,6 +34906,30 @@
    "sourceUrls": "https://london.eater.com/maps/best-filipino-restaurants-london-where-to-eat-filipino-food | https://www.designmynight.com/london/blog/best-filipino-restaurants-london | https://thenudge.com/best-bbq-london/"
   },
   {
+   "slug": "kapihan",
+   "name": "Kapihan",
+   "cuisine": "Filipino",
+   "style": "Filipino",
+   "specialities": [
+    "regional"
+   ],
+   "area": "Battersea",
+   "zone": "1",
+   "district": "South",
+   "guide": "battersea-area-guide",
+   "address": "547 Battersea Park Road",
+   "postcode": "SW11 3BL",
+   "price": "£",
+   "website": "http://www.kapihan.coffee/",
+   "whyGo": "A family-run Filipino coffee house and bakery, and the only place on this page pouring single-origin coffee grown in the Philippines.",
+   "lists": [
+    "filipino"
+   ],
+   "sourceCount": "4",
+   "sourceTiers": "B1 C1 D2",
+   "sourceUrls": "https://www.timeout.com/london/food-and-drink/londons-best-hot-chocolates | https://secretldn.com/filipino-food-london/ | https://www.youtube.com/@myriadrecipes"
+  },
+  {
    "slug": "kuya-fernando",
    "name": "Kuya Fernando",
    "cuisine": "Filipino",
@@ -37594,6 +37629,41 @@
    "sourceUrls": "https://www.timeout.com/london/restaurants/londons-best-chain-restaurants-ranked | https://www.countryandtownhouse.com/food-and-drink/best-italian-restaurants-in-london/ | https://www.thehandbook.com/best-pasta-restaurants-london/",
    "branchOf": "lina-stores",
    "branchName": "Canary Wharf"
+  },
+  {
+   "slug": "napoli-on-the-road--soho",
+   "name": "Napoli on the Road",
+   "cuisine": "Italian",
+   "style": "Neapolitan pizza",
+   "specialities": [
+    "pizza"
+   ],
+   "format": "Restaurant",
+   "chainType": "mini-chain",
+   "area": "Soho",
+   "zone": "1, 2–3, 4",
+   "district": "Central, West",
+   "borough": "Westminster",
+   "address": "140 Wardour St",
+   "station": "Tottenham Court Road",
+   "price": "££",
+   "website": "http://www.napoliontheroad.com/",
+   "goodFor": [
+    "date",
+    "families"
+   ],
+   "whyGo": "Named best pizzeria in Europe for the third year running. Michele Pascarella's Chiswick pizzeria, a long way from the tourist centre and worth the journey.",
+   "opNote": "Ranked #1 in Europe by 50 Top Pizza three consecutive years to 2026. Began as a truck touring London's food markets. Now three sites: Chiswick (the original), Richmond, and Soho - where the basement runs a tasting menu and is filed separately as napoli-on-the-road-soho.",
+   "signals": "50 Top Pizza Europa - #1 in Europe",
+   "lists": [
+    "best-pizza"
+   ],
+   "sourceCount": "6",
+   "sourceTiers": "A1 B1 C1 D3",
+   "sourceUrls": "https://www.50toppizza.it/50-top-pizza-europa-2025-napoli-on-the-road-in-london-is-the-best-pizzeria-in-europe/ | https://www.timeout.com/london/restaurants/londons-best-restaurants-for-pizza | https://mayfairfoodie.com/best-pizzas-in-london/",
+   "branchOf": "napoli-on-the-road",
+   "branchName": "Soho",
+   "guide": "soho-area-guide"
   },
   {
    "slug": "napoli-on-the-road--richmond",

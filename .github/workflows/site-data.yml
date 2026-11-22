@@ -1,18 +1,25 @@
 # Builds the site's data files from the Supabase database, which is the master copy of places, events
 # and deals, and opens a pull request when anything a reader would see has changed.
 #
-#   Every morning: the restaurants, map pins, activities, hotels, Hidden London, events and deals files are
-#   exported from the database. If they changed (beyond the export date), the "Site data from the database"
-#   pull request is opened or updated. Vercel builds a preview of it; merging it puts the change live.
+#   Run by hand only, when Rob asks to publish the database changes: every pull request costs a Vercel
+#   preview build, so there is no schedule. The restaurants, map pins, activities, hotels, Hidden London,
+#   events and deals files are exported from the database; if they changed (beyond the export date), the
+#   "Site data from the database" pull request is opened or updated. Merging it puts the change live.
 #
-# Needs the SUPABASE_DB_URL repository secret (see database.yml).
-# Run it by hand from the Actions tab with "Run workflow".
+#   "Catch up with the Sheet first" runs scripts/db/sheet-catch-up.mjs before the export. Use it once,
+#   at the switch from the Sheet to the database.
+#
+# Needs the SUPABASE_DB_URL repository secret (see database.yml), and GOOGLE_SERVICE_ACCOUNT_JSON for the
+# catch-up. Run it from the Actions tab with "Run workflow".
 name: Site data from the database
 
 on:
-  schedule:
-    - cron: "30 4 * * *" # 04:30 UTC daily, before the morning
   workflow_dispatch:
+    inputs:
+      catch_up:
+        description: "Catch up with the Sheet first (once, at the switch)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -45,6 +52,14 @@ jobs:
           npm ci
           npm install --no-save pg
 
+      - name: Catch the database up with the Sheet
+        if: inputs.catch_up
+        env:
+          SA: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          printf '%s' "$SA" > "$RUNNER_TEMP/sa.json"
+          GOOGLE_SERVICE_ACCOUNT="$RUNNER_TEMP/sa.json" node scripts/db/sheet-catch-up.mjs
+
       - name: Export from the database
         run: |
           node scripts/export-restaurants.mjs
@@ -71,7 +86,7 @@ jobs:
           git config user.email "site-data-bot@users.noreply.github.com"
           git checkout -B "$BRANCH"
           git add $FILES
-          git commit -m "Site data from the database, $(date -u +%Y-%m-%d)"
+          git commit -m "Site data from the database, $(date -u +%Y-%m-%d) [preview]"
           git push --force origin "$BRANCH"
           if [ -z "$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')" ]; then
             gh pr create --head "$BRANCH" --base main --title "Site data from the database" --body "$(printf '%s\n\n%s\n\n%s' \

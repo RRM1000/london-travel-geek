@@ -1,6 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "ignoreCommand": "git diff --quiet HEAD^ HEAD -- . ':(exclude)scripts/db' ':(exclude)supabase' ':(exclude)Open database viewer.cmd'",
+  "ignoreCommand": "if [ \"$VERCEL_ENV\" != \"production\" ]; then case \"$VERCEL_GIT_COMMIT_MESSAGE\" in *\"[preview]\"*) exit 1;; *) exit 0;; esac; fi; git diff --quiet HEAD^ HEAD -- . ':(exclude)scripts' ':(exclude)supabase' ':(exclude).github' ':(exclude).claude' ':(exclude)CLAUDE.md' ':(exclude)CONTENT_GUIDELINES.md' ':(exclude)Open database viewer.cmd'",
   "redirects": [
     {
       "source": "/ads.txt",
