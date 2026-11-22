@@ -20,6 +20,7 @@ import fs from "node:fs";
 const ROOT = new URL("../../", import.meta.url);
 const DEALS = new URL("data/food-deals/deals.json", ROOT);
 const SNAPSHOT = new URL("data/snapshot-restaurants-v2.json", ROOT);
+const CHAINS = new URL("data/food-deals/chains.json", ROOT);
 // The deal pages: every entry on them is already a deal, so a box would repeat it.
 // Add any new deal page here (and to MORE below if deals should point to it).
 const SKIP = /\/(food-deals-london|happy-hour-london|restaurant-deals-london|kids-eat-free-london|bottomless-brunch-london|restaurant-discount-cards-london|all-you-can-eat-london|off-peak-restaurant-apps-london)\.md$/;
@@ -60,11 +61,22 @@ function load() {
   const slugByName = new Map(snap.map((r) => [norm(r.Name), r.Slug]));
   const bySlug = new Map();
   const chainByName = new Map();
+  const sheetSlugs = new Set(snap.map((r) => r.Slug));
+  // Venues with no Sheet row (hotels, taprooms, places found by the deal crawl) are
+  // matched on the deal's own name, minus any "(happy hour)" style suffix.
+  // Chains are left out: their deals often run at one branch, and a guide's heading may mean another.
+  let chains = new Set();
+  try { chains = new Set(JSON.parse(fs.readFileSync(CHAINS, "utf8")).chains.map((c) => norm(c.name))); } catch {}
+  const byOwnName = new Map();
   for (const d of deals) {
     if (d.slug) bySlug.set(d.slug, [...(bySlug.get(d.slug) ?? []), d]);
     else if (/^all\b/i.test(d.branches ?? "")) chainByName.set(norm(d.name), [...(chainByName.get(norm(d.name)) ?? []), d]);
+    if (!d.slug || !sheetSlugs.has(d.slug)) {
+      const key = norm(d.name.replace(/\s*\(.*\)\s*$/, ""));
+      if (key.length >= 4 && !chains.has(key)) byOwnName.set(key, [...(byOwnName.get(key) ?? []), d]);
+    }
   }
-  cache = { mtime, slugByName, bySlug, chainByName };
+  cache = { mtime, slugByName, bySlug, chainByName, byOwnName };
   return cache;
 }
 
@@ -106,7 +118,7 @@ export default function remarkVenueDeals() {
       let deals;
       for (const key of keys) {
         const slug = data.slugByName.get(key);
-        deals = (slug && data.bySlug.get(slug)) || data.chainByName.get(key);
+        deals = (slug && data.bySlug.get(slug)) || data.chainByName.get(key) || data.byOwnName.get(key);
         if (deals?.length) break;
       }
       if (!deals?.length) continue;
