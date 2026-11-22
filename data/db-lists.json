@@ -1,0 +1,245 @@
+{
+ "purpose": "Editorial and award lists for the kinds of place our sources cover least. Read by scripts/db/load-lists.mjs; each list's headings, bold lines and list items are matched to places and recorded as reviews from its source. Add a list by adding a row.",
+ "lists": [
+  {
+   "topic": "live-music",
+   "url": "https://www.timeout.com/london/music/the-best-music-venues-in-london",
+   "source": "Time Out",
+   "tier": "B",
+   "domain": "timeout.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "live-music",
+   "url": "https://www.lonelyplanet.com/articles/live-music-london",
+   "source": "Lonely Planet",
+   "tier": "B",
+   "domain": "lonelyplanet.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "live-music",
+   "url": "https://www.visitlondon.com/things-to-do/whats-on/music/live-music-bars",
+   "source": "Visit London",
+   "tier": "B",
+   "domain": "visitlondon.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "live-music",
+   "url": "https://thatsup.co.uk/london/guide/the-best-live-music-venues-in-london",
+   "source": "Thatsup",
+   "tier": "C",
+   "domain": "thatsup.co.uk",
+   "kind": "publication"
+  },
+  {
+   "topic": "live-music",
+   "url": "https://www.londonxlondon.com/?p=25913",
+   "source": "London x London",
+   "tier": "C",
+   "domain": "londonxlondon.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "live-music",
+   "url": "https://secretldn.com/music-venues-london/",
+   "source": "Secret London",
+   "tier": "C",
+   "domain": "secretldn.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "live-music",
+   "url": "https://dice.fm/blog/best-independent-live-music-venues-london",
+   "source": "DICE",
+   "tier": "C",
+   "domain": "dice.fm",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://www.timeout.com/london/music/jazz-in-london",
+   "source": "Time Out",
+   "tier": "B",
+   "domain": "timeout.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+   "source": "ShortList",
+   "tier": "B",
+   "domain": "shortlist.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+   "source": "London x London",
+   "tier": "C",
+   "domain": "londonxlondon.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://www.countryandtownhouse.com/culture/10-best-london-jazz-bars/",
+   "source": "Country & Town House",
+   "tier": "B",
+   "domain": "countryandtownhouse.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://thatsup.co.uk/london/guide/the-best-jazz-clubs-in-london",
+   "source": "Thatsup",
+   "tier": "C",
+   "domain": "thatsup.co.uk",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://jazzfuel.com/london-jazz-clubs/",
+   "source": "Jazzfuel",
+   "tier": "C",
+   "domain": "jazzfuel.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://www.designmynight.com/london/jazz-bars-london",
+   "source": "DesignMyNight",
+   "tier": "B",
+   "domain": "designmynight.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://thenudge.com/the-best-jazz-bars-in-london/",
+   "source": "The Nudge",
+   "tier": "C",
+   "domain": "thenudge.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "jazz",
+   "url": "https://squaremeal.co.uk/restaurants/best-for/best-jazz-bars-london_9577",
+   "source": "SquareMeal",
+   "tier": "B",
+   "domain": "squaremeal.co.uk",
+   "kind": "publication"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://www.timeout.com/london/restaurants/londons-best-coffee-shops",
+   "source": "Time Out",
+   "tier": "B",
+   "domain": "timeout.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://www.olivemagazine.com/guides/best-london-coffee-shops",
+   "source": "Olive",
+   "tier": "B",
+   "domain": "olivemagazine.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://www.designmynight.com/london/blog/best-coffee-shops-in-london",
+   "source": "DesignMyNight",
+   "tier": "B",
+   "domain": "designmynight.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://luxurylondon.co.uk/taste/drink/best-coffee-shops-london",
+   "source": "Luxury London",
+   "tier": "B",
+   "domain": "luxurylondon.co.uk",
+   "kind": "publication"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://www.deliciousmagazine.co.uk/the-capitals-top-coffee-haunts/",
+   "source": "delicious. magazine",
+   "tier": "B",
+   "domain": "deliciousmagazine.co.uk",
+   "kind": "publication"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://www.tastingtable.com/1924837/best-cafes-london-local/",
+   "source": "Tasting Table",
+   "tier": "B",
+   "domain": "tastingtable.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://loudavymkrokem.cz/en/best-london-cafes/",
+   "source": "Loud Avým Krokem",
+   "tier": "C",
+   "domain": "loudavymkrokem.cz",
+   "kind": "blog"
+  },
+  {
+   "topic": "coffee",
+   "url": "https://roadbook.com/london/food-and-drink/best-coffee-shops-london/",
+   "source": "Roadbook",
+   "tier": "C",
+   "domain": "roadbook.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "cocktail-bars",
+   "url": "https://www.olivemagazine.com/drink/best-cocktail-bars-in-london",
+   "source": "Olive",
+   "tier": "B",
+   "domain": "olivemagazine.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "cocktail-bars",
+   "url": "https://www.designmynight.com/london/bars/best-cocktail-bars-london",
+   "source": "DesignMyNight",
+   "tier": "B",
+   "domain": "designmynight.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "cocktail-bars",
+   "url": "https://www.countryandtownhouse.com/food-and-drink/best-cocktail-bars-london",
+   "source": "Country & Town House",
+   "tier": "B",
+   "domain": "countryandtownhouse.com",
+   "kind": "publication"
+  },
+  {
+   "topic": "cocktail-bars",
+   "url": "https://www.shortlist.com/alcohol/the-best-cocktails-bars-in-britain-have-officially-been-named-and-25-of-them-are-in-london",
+   "source": "Top 50 Cocktail Bars",
+   "tier": "A",
+   "domain": null,
+   "kind": "award"
+  },
+  {
+   "topic": "cocktail-bars",
+   "url": "https://www.timeout.com/london/news/worlds-50-best-bars-2026-three-in-london-connaught-waltz-satans-whiskers-100826",
+   "source": "World's 50 Best Bars",
+   "tier": "A",
+   "domain": null,
+   "kind": "award"
+  },
+  {
+   "topic": "cocktail-bars",
+   "url": "https://www.timeout.com/london/news/europe-best-bars-london-2026-connaught-070126",
+   "source": "World's 50 Best Bars",
+   "tier": "A",
+   "domain": null,
+   "kind": "award"
+  }
+ ]
+}

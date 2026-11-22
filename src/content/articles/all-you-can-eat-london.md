@@ -64,6 +64,9 @@ All-you-can-eat in London is a fixed price for as much food as you can order ins
 | Babur, Forest Hill | Indian | £27.95 | – |
 | Da Long Yi, Fitzrovia | Sichuan hot pot | £28.99 | – |
 | Big Easy, four branches | Barbecue and seafood | From £28.50 | – |
+| BrewDog, Wings Wednesday | Wings | £18.95 | 90 min |
+| Dirty Bones, WingsDay | Wings | £18 | 90 min |
+| Belushi's, London Bridge | Wings | £17.50 | – |
 | Pick & Cheese, Covent Garden | Cheese and charcuterie | £29.50 | 75 minutes |
 | Ping Pong | Dim sum | £29.95 | 2 hours |
 | Picanha Steakhouse, Tooting | Rodízio | £29.99 | – |
@@ -396,7 +399,7 @@ A [Sunday bottomless brunch](https://bocconcinorestaurant.co.uk/soho/menus/botto
 
 ---
 
-## Barbecue and seafood nights
+## Barbecue, wings and seafood nights
 
 ### Big Easy
 
@@ -414,6 +417,24 @@ Big Easy runs a different unlimited deal on four days:
 *Hackney Wick · Mondays*
 
 [All You Can Eat Mondays](https://randyswingbar.co.uk/) at the wing bar.
+
+### BrewDog, Canary Wharf, Paddington and Waterloo
+
+*Canary Wharf, Paddington, Waterloo · £18.95 · 90 minutes · Wednesdays*
+
+[Wings Wednesday](https://brewdog.com/uk/wings-wednesday) is ninety minutes of unlimited chicken wings, or beer-battered cauliflower, for £18.95 a head. It has to be pre-booked, and a leaderboard records how many wings each table has eaten when the time runs out.
+
+### Dirty Bones
+
+*London branches · £18 · 90 minutes · Monday to Wednesday from 3pm*
+
+[WingsDay](https://dirty-bones.com/wingsday) is ninety minutes of bottomless chicken wings for £18 a head, Monday to Wednesday from 3pm. Sides are charged on top.
+
+### Belushi's, London Bridge
+
+*London Bridge · £17.50 · Wednesdays*
+
+Belushi's runs [bottomless wings](https://belushis.com/london-bridge) all day on Wednesdays for £17.50 a head.
 
 ---
 

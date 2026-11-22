@@ -199,7 +199,7 @@ No app combines with another app, none combines with a [Tastecard or Gourmet Soc
 
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
-- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — 38 packages compared on price per minute, and what “bottomless” covers
+- 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all
 - 🌙 **[Late Night Eating in London](/articles/late-night-eating-london/)** — for the Last Table crowd

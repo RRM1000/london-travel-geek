@@ -49,11 +49,13 @@ Sorted by price. Per minute is the price divided by the drinking window.
 
 | Venue | Area | Price | Minutes | Per minute | What that buys |
 | --- | --- | --- | --- | --- | --- |
+| **Prezzo** upgrade | All branches | £21.95 | 90 | £0.24 | Drinks only, add to an à la carte meal |
 | **Little Yellow Door** | Notting Hill | £23.50 | 90 | £0.26 | Drinks only, food extra |
 | **Mr Bao** | Peckham | £24 | 60 | £0.40 | Priced per hour, food extra |
 | **Las Iguanas** student | South Bank | £24.95 | 120 | £0.21 | Main dish, student ID, Mon–Thu |
 | **Megan's** Classic | Clapham, Islington | £25 | 90 | £0.28 | Drinks only, meal compulsory |
 | **Turo Turo** | Tooting | £25 | 90 | £0.28 | Add-on to a Filipino brunch, Sat–Sun |
+| **Cosy Club** | Selected sites | £25 | 90 | £0.28 | Drinks only, add to any dish |
 | **Las Iguanas** alcohol-free | South Bank | £29.95 | 120 | £0.25 | Main dish, 0% drinks |
 | **Barrio** Sun–Thu | Shoreditch, Brixton | £30 | 90 | £0.33 | 1 sharing birdcage per 2 |
 | **Dirty Martini** | Covent Garden, Clapham | £30 | 90 | £0.33 | 1 birdcage of bites per 2 |
@@ -63,6 +65,7 @@ Sorted by price. Per minute is the price divided by the drinking window.
 | **Revolution** Sun–Fri | Shoreditch, Clapham | £35 | 120 | £0.29 | 1 dish, clock starts at order |
 | **The Breakfast Club** Becky | Soho | £35 | 120 | £0.29 | 1 dish, fizz and beer |
 | **Ballie Ballerson** drag | Shoreditch | £35 | 90 | £0.39 | Drag show, no food |
+| **Polo Bar** | Liverpool Street | £35 | 90 | £0.39 | Prosecco or lager, any hour |
 | **Turtle Bay** Early Bird | Brixton, Shoreditch | £36 | 90 | £0.40 | Last booking 11.45am |
 | **All Bar One** | Covent Garden | £37 | 90 | £0.41 | 1 main, 1 drink at a time |
 | **Revolution** Saturday | Shoreditch, Clapham | £37.50 | 120 | £0.31 | £5pp deposit |
@@ -70,26 +73,39 @@ Sorted by price. Per minute is the price divided by the drinking window.
 | **Little Yellow Door** 10+ | Notting Hill | £38.50 | 90 | £0.43 | Family-style set menu |
 | **No 32 The Old Town** | Clapham | £39 | 90 | £0.43 | Hummus plus a brunch dish |
 | **Las Iguanas** | South Bank | £39.95 | 120 | £0.33 | Main dish, 25 drinks |
+| **Hard Rock Cafe** | Central London | £39.95 | 90 | £0.44 | 1 main, weekends |
+| **Flesh & Buns** | Covent Garden | £40 | 90 | £0.44 | Japanese food, weekends |
 | **Big Easy** | Canary Wharf, Chelsea | £41.50 | 120 | £0.35 | Unlimited barbecue too |
+| **All Star Lanes** | Several sites | £42 | 90 | £0.47 | Brunch with bowling alleys |
 | **BOXPARK** | Shoreditch | £42.67 | 90 | £0.47 | Street food, 4hr event |
 | **Ballie Ballerson** Thu, Sun | Shoreditch | £45 | 90 | £0.50 | 120 min unlimited pizza |
 | **The Breakfast Club** Mayor | Spitalfields | £45 | 120 | £0.38 | Cocktails included |
+| **temper** Standard | Soho | £45 | 90 | £0.50 | 1 main + 2 tacos, Saturdays |
 | **Turtle Bay** 2-hour | Brixton, Shoreditch | £46 | 120 | £0.38 | Max 8 to a table |
 | **Ballie Ballerson** Friday | Shoreditch | £49 | 90 | £0.54 | Ball pit access |
 | **No 32** cocktail tier | Clapham | £49 | 90 | £0.54 | Adds 5 cocktails |
+| **Barge East** | Hackney Wick | £49 | 90 | £0.54 | Starter and main, Saturdays |
+| **Parliament Hill Cafe** | Hampstead Heath | £49.90 | 90 | £0.55 | 1 savoury, 1 sweet dish |
 | **Megan's** Signature | Clapham, Islington | £50 | 120 | £0.42 | Drinks only, meal extra |
 | **Swingers** | West End, City | £50 | 90 | £0.56 | 30 min arcade included |
 | **The Piano Works** 1 course | Farringdon, West End | £50 | 90 | £0.56 | 2 hrs of live band |
+| **BoxHall City** | Liverpool Street | £50 | 90 | £0.56 | 1 dish, 3hr entertainment |
 | **Bunga 90** | Covent Garden | £52 | 90 | £0.58 | Karaoke host and DJ |
 | **The Piano Works** 2 courses | Farringdon, West End | £55 | 90 | £0.61 | 2 courses plus band |
 | **Turtle Bay** Island Nights | Brixton, Shoreditch | £55 | 90 | £0.61 | 2 courses, evenings |
+| **Bar Kroketa** | Broadgate | £55 | 90 | £0.61 | Unlimited kroketas, weekends |
 | **No 32** Whispering Angel | Clapham | £59 | 90 | £0.66 | Rosé on the list |
+| **temper** Ultimate | Soho | £60 | 90 | £0.67 | Adds wine and margaritas |
+| **Albert's Schloss** | Soho | £60 | 90 | £0.67 | 1 dish, cabaret, £20 deposit |
 | **Ballie Ballerson** Saturday | Shoreditch | £65 | 90 | £0.72 | Peak weekend rate |
+| **Pergola on the Wharf** | Canary Wharf | £65 | 90 | £0.72 | 3 courses, Saturdays |
+| **The Palm House** | Victoria | £65 | 90 | £0.72 | 3 courses, live entertainment |
 | **Sticks'n'Sushi** | Victoria, Canary Wharf | £70 | 90 | £0.78 | Full menu, 12.5% service |
+| **Bamboo Mat** | Stratford | £70 | 90 | £0.78 | £40 food + £30 drinks, whole table |
 | **Megan's** Premium | Clapham, Islington | £75 | 120 | £0.63 | Champagne, meal extra |
 | **No 32** Veuve Clicquot | Clapham | £79 | 90 | £0.88 | Champagne on the list |
 
-**Also on sale:** Bounce at Battersea Power Station from £30, Cabana at £45 for a two-course Bottomless Weekend, and Gordon Ramsay's [Street Pizza](/articles/gordon-ramsay-restaurants-london/), which sells ninety minutes of bottomless Prosecco for £24 on top of its bottomless-pizza price. Check the session length with Bounce and Cabana before you book.
+**Also on sale:** Bounce at Battersea Power Station from £30 for unlimited pizza, Prosecco and beer with ping pong at weekends, Sabine's St Paul's rooftop at £35 for ninety minutes of bubbles or £50 for cocktails on top of two or three brunch courses (closed Sundays until 1 March 2027), The Gun in Docklands with free bottomless wine alongside an à la carte Sunday roast main, Cabana at £45 for a two-course Bottomless Weekend, and Gordon Ramsay's [Street Pizza](/articles/gordon-ramsay-restaurants-london/), which sells ninety minutes of bottomless Prosecco for £24 on top of its bottomless-pizza price. Check the session length with Bounce and Cabana before you book.
 
 ---
 
@@ -103,7 +119,7 @@ Sorted by price. Per minute is the price divided by the drinking window.
 
 **No 32 The Old Town** in Clapham runs ninety minutes, Saturday and Sunday, 11am to 4pm, for groups of any size, in four tiers: **£39** for Prosecco, Pravha and mimosas, **£49** adding five cocktails, **£59** adding Whispering Angel and **£79** adding Veuve Clicquot. Every tier includes a shared hummus starter and your choice of brunch dish.
 
-**Sticks'n'Sushi** is the one to book when the food comes before the drinking. £70 for ninety minutes is £0.78 a minute, the highest in the table, and buys a sharing menu — beef tataki, karaage, gyoza, tuna tartare, maki, nigiri, grilled sticks and a mango dessert. Every Saturday, noon to 5pm, last sitting 3.30pm, with bookings from one person up to twelve, so it works for a couple. **Budget for the 12.5% service charge on top**, which takes £70 to £78.75.
+**Sticks'n'Sushi** is the one to book when the food comes before the drinking. £70 for ninety minutes is £0.78 a minute, near the top of the table, and buys a sharing menu — beef tataki, karaage, gyoza, tuna tartare, maki, nigiri, grilled sticks and a mango dessert. Every Saturday, noon to 5pm, last sitting 3.30pm, with bookings from one person up to twelve, so it works for a couple. **Budget for the 12.5% service charge on top**, which takes £70 to £78.75.
 
 **Cottons**: £34.50 buys ninety minutes of bottomless rum punch, Prosecco, Cottons Lager or Caribbean Pimm's alongside a starter and a main, to a reggae soundtrack, in Camden, Shoreditch, Notting Hill or Vauxhall. **The whole £34.50 is taken at the time of booking**, not as a deposit. Plan on ninety minutes.
 
@@ -163,13 +179,15 @@ For a breakfast without a clock running, see the [best breakfast and brunch in L
 
 ## Best by area
 
-**Soho and Covent Garden.** The Breakfast Club's Backseat Becky at £35 for two hours is the value pick. Bunga 90 at £52 is the party one. Dirty Martini at £30 and All Bar One at £37 are the reliable fallbacks, and Big Easy's Covent Garden branch runs the same unlimited-barbecue deal as Canary Wharf.
+**Soho and Covent Garden.** The Breakfast Club's Backseat Becky at £35 for two hours is the value pick. Bunga 90 at £52 and Albert's Schloss at £60, with a cabaret, are the party ones. Flesh & Buns at £40 and temper at £45 are the ones to choose for the food. Dirty Martini at £30 and All Bar One at £37 are the reliable fallbacks, and Big Easy's Covent Garden branch runs the same unlimited-barbecue deal as Canary Wharf.
 
 **Shoreditch and Spitalfields.** Ballie Ballerson from £45 for the ball pit, BOXPARK from £42.67 for a whole afternoon, The Breakfast Club's Mayor at £45 for cocktails, Barrio from £30, Queen of Hoxton for drag, Cottons at £34.50 for Caribbean food, and Flight Club at £33 if you want darts more than drinks.
 
 **Clapham.** No 32 The Old Town is £39. Megan's Clapham runs its Brunch with Benefits until 6pm. Revolution, Dirty Martini and Tonight Josephine all have Clapham sites, and Slug & Lettuce is a short walk away at Clapham Junction.
 
 **Brixton.** Turtle Bay is £36 early bird and £46 for two hours, and Barrio has a Brixton site at £30. **Canova Hall, which still appears on Brixton bottomless lists, now trades as The Ferndale on Ferndale Road**, and runs a Saturday bottomless brunch.
+
+**The City and Canary Wharf.** Polo Bar by Liverpool Street serves its £35 package at any hour of the day or night. Bar Kroketa at Broadgate is £55 with unlimited kroketas, BoxHall is £50 with three hours of entertainment, and Pergola on the Wharf is £65 for three courses on Saturdays.
 
 **Camden.** Cottons is £34.50 for two courses and ninety minutes of rum punch. Simmons has a Camden bar running themed brunches with **an hour** of bottomless cocktails and two courses.
 

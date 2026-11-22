@@ -58,6 +58,17 @@ jobs:
           THEATRE_SUPABASE_KEY: ${{ secrets.THEATRE_SUPABASE_KEY }}
         run: npm run listings
 
+      # Copies the fresh Listings tab into the Supabase database. Skipped until the
+      # SUPABASE_DB_URL secret exists, and never fails the listings refresh.
+      - name: Copy listings into the database
+        continue-on-error: true
+        env:
+          DATABASE_URL: ${{ secrets.SUPABASE_DB_URL }}
+        run: |
+          if [ -z "$DATABASE_URL" ]; then echo "No SUPABASE_DB_URL secret yet; skipping."; exit 0; fi
+          npm install --no-save pg
+          node scripts/db/sync-listings.mjs
+
       - name: Commit the new listings
         run: |
           git config user.name "listings-bot"

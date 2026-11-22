@@ -359,6 +359,7 @@ Check the difference before you plan a morning around one.
 ## Continue planning your London trip
 
 
+- 🥪 **[The Best Market Stalls in London](/articles/best-market-stalls-london/)** — which traders to eat at once you are there
 - 🗺️ **[Best Areas to Visit in London](/articles/best-areas-to-visit-london/)** — the neighbourhoods compared by what each is best for and the best day to go
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — the Filipino counters at Seven Dials and both Boxparks
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)**

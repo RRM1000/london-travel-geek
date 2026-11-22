@@ -413,6 +413,7 @@ The rest, A to Z, with the days each one trades.
 
 ## Continue planning your London trip
 
+- 🥪 **[The Best Market Stalls in London](/articles/best-market-stalls-london/)** — the individual traders the sources name most, from Kappacasein to the award-winning Oshpaz
 - 🇳🇬 **[The Best West African Restaurants in London](/articles/best-west-african-restaurants-london/)** — the Peckham stalls
 - 🥥 **[The Best Sri Lankan Restaurants in London](/articles/best-sri-lankan-restaurants-london/)** — the market counters
 - 🇵🇭 **[The Best Filipino Restaurants in London](/articles/best-filipino-restaurants-london/)** — Bongbongs at Seven Dials and Spoon & Rice at both Boxparks

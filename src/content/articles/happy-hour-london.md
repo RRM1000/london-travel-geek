@@ -19,18 +19,18 @@ tags:
 draft: false
 faq:
   - q: "What time is happy hour in London?"
-    a: "Most run between 3pm and 7pm on weekdays. Ippudo is the longest weekday window at 2pm to 7pm, Manzi's runs 3pm to 7pm daily and all day Sunday, and Las Iguanas, Frankie & Benny's and Turtle Bay run their cocktail deals all day."
+    a: "Most run between 3pm and 7pm on weekdays. Ippudo (2pm to 7pm) and Simmons (4pm to 9pm) have the longest weekday windows, Manzi's runs 3pm to 7pm daily and all day Sunday, and Las Iguanas, Frankie & Benny's and Turtle Bay run their cocktail deals all day."
   - q: "Where can I get a happy hour deal with food as well as drinks?"
     a: "Ping Pong halves the price of drinks and dim sum on over thirty items, Kricket sells a snack and a drink for £10, and Manzi's and Rick Stein in Barnes sell oysters at £2 each."
   - q: "Are there happy hours at the weekend?"
-    a: "Yes, but fewer. Manzi's, Rick Stein, Seabird, Kricket, Hakata, Megan's and Market Halls run on Saturdays and Sundays. Bread Street Kitchen, Nightjar, Sucre and Escocesa add Sundays."
+    a: "Yes, but fewer. Manzi's, Rick Stein, Seabird, Kricket, Hakata, Megan's, Market Halls, The Real Greek and Arcade run on Saturdays and Sundays, and Simmons keeps its 2-for-1 cocktails on Saturdays. Bread Street Kitchen, Nightjar, Sucre and Escocesa add Sundays."
 heroImage: "../../assets/articles/best-cocktail-bars-london/best-cocktail-bars-london.jpg"
 heroImageAlt: "A bartender pouring a measure of spirit into a steel jigger behind a bar, with bottles blurred in the background"
 ---
 
 London happy hours mostly run from 3pm to 7pm on weekdays. Every entry below sets out when the deal runs, what it is and what it costs, then anything that catches people out, such as an app, a bar-only rule or days it is off.
 
-> 💡 **The Short Version:** **Manzi's** in Soho runs daily from 3pm to 7pm and all day Sunday, with oysters at £2 each and martinis at £10. **Plaquemine Lock** in Islington has oysters at £1. **Ippudo** runs the longest weekday window, 2pm to 7pm. **Market Halls** sells £5 pints from 8pm and **Dishoom** sells £5 cocktails after 9.30pm until 30 November 2026. **Ping Pong** puts dim sum into the deal. **Las Iguanas** and **Frankie & Benny's** run their cocktail offers all day.
+> 💡 **The Short Version:** **Manzi's** in Soho runs daily from 3pm to 7pm and all day Sunday, with oysters at £2 each and martinis at £10. **Plaquemine Lock** in Islington has oysters at £1. **Ippudo** and **Simmons** run the longest weekday windows, five hours each, and Simmons does 2-for-1 cocktails. **Market Halls** sells £5 pints from 8pm and **Dishoom** sells £5 cocktails after 9.30pm until 30 November 2026. **Ping Pong** puts dim sum into the deal. **Las Iguanas** and **Frankie & Benny's** run their cocktail offers all day.
 
 > ⚠️ **Most of these stop at Friday.** The [weekend table](#happy-hours-at-the-weekend) lists the ones that run on Saturday and Sunday.
 
@@ -51,8 +51,10 @@ For deals that are about eating rather than drinking, see [restaurant deals](/ar
 | **Plaquemine Lock**, Angel | Tuesday to Friday 4–5.45pm; Saturday and Sunday 11am–noon | Oysters £1 each, plus cheaper Southern snacks, cocktails, beer and mimosas |
 | **Fogo de Chão**, Bishopsgate | Daily 3–7pm | Beers £6.50; wine £8.50; cocktails £11; bar plates £8, burgers £10 |
 | **Shiro**, Broadgate Circle | Monday to Saturday 3–7pm | 2-for-1 house wine, Prosecco and Asahi |
-| **Seabird**, Southwark | Daily 3–6pm | Oyster happy hour |
+| **Seabird**, Southwark | Tuesday to Sunday 3–6pm | Oysters £3 each |
 | **The Walrus**, Waterloo | Thursday to Saturday 5–9pm | Selected cocktails £6.50; four shooters £12 |
+| **Belushi's**, London Bridge | Monday to Friday 4–7pm | Almost every drink £5 |
+| **Arcade Food Hall**, Tottenham Court Road and Battersea | Tottenham Court Road 5–7pm and from 9pm; Battersea Sunday to Friday 3–8pm | Cocktails £8 |
 | **Bread Street Kitchen**, Battersea | Sunday to Friday 3–6pm | Selected Negronis, Margaritas, house wine and beers |
 | **Sticks'n'Sushi**, Battersea | Monday to Friday 3–6pm | 2-for-1 cocktails |
 | **Purezza**, Camden | Monday to Friday until 7pm | Two cocktails £18; two alcohol-free spritzes £14 |
@@ -67,6 +69,10 @@ For deals that are about eating rather than drinking, see [restaurant deals](/ar
 | **Patty & Bun**, All branches | Monday to Friday 4–7pm | Two cocktails £14; cans of beer £4 |
 | **Big Easy**, London branches | Monday to Friday 4–6pm | 2-for-1 cocktails |
 | **Megan's**, All branches | Daily 5–7pm | Every cocktail £8 |
+| **Simmons**, 14 bars | Sunday to Friday 4–9pm, 3–8pm in the West End | 2-for-1 cocktails |
+| **Be At One**, All bars | Daily, hours vary by bar | 2-for-1 cocktails |
+| **MEATliquor**, All branches | Monday to Friday 4–7pm | Pints and house wine £5 |
+| **The Real Greek**, All branches | Daily 3–6pm | Two sangrias £8.50 |
 | **Market Halls**, Four halls | Daily 3–5pm (spritz) and from 8pm (pints) | Two spritzes £20; selected draught pints £5 |
 | **Dishoom**, All branches | Nightly after 9.30pm, until 30 November 2026 | Dishoom Margarita, Chai Caffè Martini or Sober Negroni £5 |
 | **Hard Rock Cafe**, London | 4–7pm | Happy hour at the bar |
@@ -177,15 +183,15 @@ A sushi restaurant. On Mondays every maki dish is 2-for-1 as well, at lunch and 
 
 ---
 
-## South Bank and Waterloo
+## South Bank, Waterloo and London Bridge
 
 ### [Seabird](https://seabirdlondon.com/)
 
-- **When:** Daily 3–6pm
-- **Deal:** Oyster happy hour
+- **When:** Tuesday to Sunday 3–6pm
+- **Deal:** Oysters £3 each, three at most per person; a £7 paloma
 - **Where:** South Bank · Southwark
 
-A seafood restaurant with a raw bar.
+A seafood restaurant with a raw bar on the rooftop of The Hoxton Southwark. Closed on Mondays.
 
 ![Seabird's dining room, with crab and shellfish on ice at the bar and rattan chairs along the windows](../../assets/articles/best-seafood-restaurants-london/seabird.jpg)
 *The raw bar and dining room at Seabird.*
@@ -198,9 +204,25 @@ A seafood restaurant with a raw bar.
 
 The bar of a hostel on Westminster Bridge Road, and one of the few deals that runs on a Friday and Saturday night.
 
+### [Belushi's](https://belushis.com/london-bridge)
+
+- **When:** Monday to Friday 4–7pm
+- **Deal:** Almost every drink £5
+- **Where:** London Bridge
+
+On other nights there are £5 cocktails all day Monday and 2-for-1 cocktails from 7pm on Friday.
+
 ---
 
-## Battersea
+## Battersea, Victoria and Tottenham Court Road
+
+### [Arcade Food Hall](https://www.arcade-london.com/whats-on)
+
+- **When:** Tottenham Court Road 5–7pm and 9pm to close; Battersea Sunday to Friday 3–8pm
+- **Deal:** Cocktails £8
+- **Where:** Tottenham Court Road and Battersea Power Station
+
+A food hall. At Tottenham Court Road the [£8 cocktails](https://www.arcade-london.com/whats-on/pre-theatre-deal) run before and after the theatre; at Battersea the deal is called the Aperitivo Hour.
 
 ### [Bread Street Kitchen](https://www.gordonramsayrestaurants.com/bread-street-kitchen/battersea/whats-on/)
 
@@ -345,6 +367,38 @@ No substitutions, and off on match days at Westfield Stratford.
 
 Seven days a week.
 
+### [Simmons](https://www.simmonsbar.co.uk/event/happy-hour/)
+
+- **When:** Sunday to Friday 4–9pm, 3–8pm in the West End
+- **Deal:** 2-for-1 cocktails
+- **Where:** 14 bars
+
+Five hours of 2-for-1 cocktails, £2.50 spirit and mixer, £3 glasses of wine and bottles of beer, £4 pints of lager and £12 bottles of wine. On Saturdays only the 2-for-1 cocktails and £18 cocktail teapots run, until 9pm (8pm in the West End). It is a cocktail bar chain, so the deal is drinks only.
+
+### [Be At One](https://www.beatone.co.uk/offers)
+
+- **When:** Daily, hours vary by bar
+- **Deal:** 2-for-1 cocktails
+- **Where:** All bars
+
+Also £6 pints, £5 spirit and mixer and £4 chips and dips. The hours differ from bar to bar, and on Saturdays it ends at 6pm.
+
+### [MEATliquor](https://meatliquor.com/deals/)
+
+- **When:** Monday to Friday 4–7pm
+- **Deal:** Harbour Brewing pints and house wines £5
+- **Where:** All branches
+
+A burger chain.
+
+### [The Real Greek](https://www.therealgreek.com/offers/)
+
+- **When:** Daily 3–6pm
+- **Deal:** Two glasses of Greek sangria £8.50
+- **Where:** All branches
+
+Dine-in only.
+
 ### [Market Halls](https://markethalls.co.uk/happy-hour-london-market-halls/)
 
 - **When:** Daily 3–5pm (spritz) and from 8pm (pints)
@@ -362,7 +416,7 @@ You need the Hall Pass app to unlock either. The £5 pints are at Paddington, Ox
 - **Deal:** Dishoom Margarita, Chai Caffè Martini or Sober Negroni £5
 - **Where:** All branches
 
-The late one: nothing else on this page starts after 8pm.
+The only other late deal on this page is Arcade at Tottenham Court Road, from 9pm.
 
 ### [Hard Rock Cafe](https://cafe.hardrock.com/london/)
 
@@ -412,6 +466,9 @@ These run on Saturday or Sunday.
 | Saturday and Sunday | Manzi's, Soho | 3–7pm (all day Sunday) |
 | Saturday and Sunday | Fogo de Chão, Bishopsgate | 3–7pm |
 | Saturday and Sunday | Seabird, South Bank | 3–6pm |
+| Saturday and Sunday | Simmons (2-for-1 cocktails) | Saturday to 9pm; Sunday 4–9pm |
+| Saturday and Sunday | The Real Greek | 3–6pm |
+| Saturday and Sunday | Arcade, Tottenham Court Road | 5–7pm and 9pm to close |
 | Saturday and Sunday | Rick Stein, Barnes | 4–6pm |
 | Saturday and Sunday | Kricket, Shoreditch | 4–6pm |
 | Saturday and Sunday | Hakata | 4–6pm |

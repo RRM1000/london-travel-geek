@@ -502,15 +502,6 @@ export const restaurantMaps: Record<string, RestaurantMapMarker[]> = {
       articleAnchor: "#tian-fu-shepherds-bush",
     },
     {
-      name: "Chilli Cool",
-      area: "King's Cross",
-      price: "££",
-      latitude: 51.526466,
-      longitude: -0.125014,
-      type: "editorial",
-      articleAnchor: "#chilli-cool-kings-cross",
-    },
-    {
       name: "Hotto Potto",
       area: "Aldgate",
       price: "££",
