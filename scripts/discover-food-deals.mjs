@@ -119,6 +119,13 @@ const chains = JSON.parse(fs.readFileSync("data/food-deals/chains.json", "utf8")
   .filter((c) => !WAVE || String(c.wave) === WAVE)
   .map((c) => ({ source: "chain", name: c.name, url: c.url }));
 if (WAVE) sheet.length = 0;
+// --from=<file.json>: crawl only the sites in that file ([{slug, name, url}]), e.g. places added since
+// the last crawl, read from the database. Chains are skipped.
+const FROM = arg("from");
+if (FROM) {
+  sheet.length = 0; chains.length = 0;
+  for (const r of JSON.parse(fs.readFileSync(FROM, "utf8"))) if (/^https?:\/\//.test(r.url ?? "")) sheet.push({ source: "database", slug: r.slug, name: r.name, url: r.url.trim() });
+}
 
 // One crawl per site: several sheet rows can share a chain's homepage.
 const byHost = new Map();
