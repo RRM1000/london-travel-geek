@@ -77,6 +77,8 @@ The City of London is the original city: a square mile on the Roman street plan,
 
 Roughly half a million people work here and only about eight thousand live here, so it is a crush on a weekday and almost silent on a Sunday morning.
 
+Leadenhall Market and Lombard Street are in our [best streets in London](/articles/best-streets-london/) ranking.
+
 The City of London has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=city-of-london).
 
 ## Why visit — and who should skip it

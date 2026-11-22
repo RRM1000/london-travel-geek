@@ -31,6 +31,8 @@ Most people see the City of London backwards: out at Tower Hill, the Tower, a ph
 
 **This walk runs the other way.** It starts at Bank, the junction the whole City was laid out around, and works east and south through the market, the tower cluster, a free view from the 58th floor and a bombed church left as a ruin and planted as a garden. The Tower and Tower Bridge come at the end.
 
+Leadenhall Market, on the route, is ranked in our [best streets in London](/articles/best-streets-london/).
+
 It is about **3km and takes two to three hours** with stops. All of it is free except the Tower of London and the Monument.
 
 For St Paul's, Smithfield, the Roman remains and where to stay, see the [City of London area guide](/articles/city-of-london-area-guide/) and our [St Paul's Cathedral guide](/articles/st-pauls-cathedral-guide/).

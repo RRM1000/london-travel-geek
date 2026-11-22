@@ -76,6 +76,8 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/4.0
 
 **Soho is one square kilometre, walkable end to end in fifteen minutes**, bounded by [Oxford Street](/articles/oxford-street-guide/), Regent Street, Shaftesbury Avenue and Charing Cross Road, and packed with restaurants, bars, theatres and recording studios.
 
+Carnaby Street and Neal's Yard are two of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 It is two different places depending on when you arrive: by day a working media district with good coffee and quiet streets, and from about 18:00 a nightlife district.
 
 Soho has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=soho).

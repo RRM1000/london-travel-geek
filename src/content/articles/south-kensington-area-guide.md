@@ -68,6 +68,8 @@ heroImageAlt: "The terracotta towers of the Natural History Museum lit by low ev
 
 The profits of the 1851 Great Exhibition bought the land for a cluster of museums, colleges and concert halls, nicknamed Albertopolis after Prince Albert. Three free museums now sit within 400 metres of each other, with the Royal Albert Hall at the top of the road.
 
+Kynance Mews, off Gloucester Road, is one of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 South Kensington has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=south-kensington).
 
 ## Why visit — and who should skip it

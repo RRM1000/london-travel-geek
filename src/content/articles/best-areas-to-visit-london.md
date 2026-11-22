@@ -48,6 +48,9 @@ heroImageLicenseUrl: "https://creativecommons.org/licenses/by/3.0/"
 
 London is a set of neighbourhoods that are each walkable end to end and a short Tube ride or a longer walk apart. Which ones suit a trip depends on what you want to do, how long you have, and the day of the week: Columbia Road Flower Market runs on Sundays only, Borough Market is closed on Mondays and Portobello Road is at its fullest on Saturdays.
 
+If you would rather choose by street than by area, our [best streets in London](/articles/best-streets-london/) ranks Portobello Road, Carnaby Street, Neal's Yard, Kynance Mews and the rest by how many sources name them.
+
+
 ## The areas compared
 
 | Area | Best for | Time to allow | Nearest station | What it's like |

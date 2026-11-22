@@ -1,0 +1,44 @@
+{
+  "topic": "streets",
+  "article": "src/content/articles/best-streets-london.md",
+  "headTerm": "Best Streets",
+  "note": "Written 22 Nov 2026 in the ltg-review checkout. The search a reader runs is 'best streets in London', 'prettiest streets in London' and 'famous streets in London'; those three queries return three different kinds of list (pretty residential mews, shopping streets, landmark roads), and the ranking is the overlap. The pretty-street lists are the most numerous, so mews and crescents rank high on citation count; the article says so rather than hiding it. Scope rule: a street, mews, crescent, lane or yard a visitor can walk. Areas (Mayfair, Shoreditch, Covent Garden), markets as institutions (Camden Market, Borough) and single shops are left out. Leadenhall Market stays because it is a covered street. Streets that are private roads or gated (Downing Street) stay but are described as what you can and cannot do.",
+  "facetAxis": ["famous for what's on it", "pretty to walk", "shopping street", "market street"],
+  "awardBodies": [
+    {
+      "name": "Time Out - Coolest Streets in the World",
+      "domain": "timeout.com",
+      "tier": "B",
+      "cadence": "annual, published mid-November",
+      "note": "Editor and writer picks across Time Out's city network, with a ranked 28. 2026: Golborne Road #2 (the only London street). 2025: Blackstock Road #23. Time Out is tier B in data/sources.json and this is one Time Out source; its Coolest Streets pages for earlier years were not read."
+    },
+    {
+      "name": "Condé Nast Traveler - 71 Beautiful Streets Around the World",
+      "domain": "cntraveler.com",
+      "tier": "B",
+      "cadence": "one-off gallery, reported by Time Out on 16 May 2024",
+      "note": "One London street, Portobello Road. Same publisher as cntraveller.com; counted as one publisher in the evidence block."
+    }
+  ],
+  "editorialLists": [
+    { "name": "Secret London - 15 of London's prettiest streets", "url": "https://secretldn.com/secret-london-guide-londons-prettiest-streets/", "ranked": false },
+    { "name": "Visit London - Shopping by area and Best independent shopping", "url": "https://www.visitlondon.com/things-to-do/shopping/top-shopping-destinations", "ranked": false },
+    { "name": "A Lady in London - 23 best shopping streets", "url": "https://www.aladyinlondon.com/2022/07/best-shopping-streets-london.html", "ranked": false },
+    { "name": "TripSavvy - The prettiest streets in London", "url": "https://www.tripsavvy.com/the-prettiest-streets-in-london-4147353", "ranked": false },
+    { "name": "LDN Fashion - The 10 best shopping streets", "url": "https://www.ldnfashion.com/features/best-shopping-streets-in-london/", "ranked": true, "note": "Numbered 1-10 as a list; no claim it is a ranking by merit." }
+  ],
+  "knownGaps": [
+    "Time Out's own London streets lists (a prettiest-streets piece and a shopping-streets guide) could not be found; every guessed slug 404ed and the engines surfaced only the Coolest Streets pieces. Retry by navigating timeout.com/london/things-to-do and /shopping archives.",
+    "Londonist, Evening Standard and Culture Trip have no street ranking that could be found; Londonist is on the permanent 403 list in data/sources.json, the Culture Trip is on the excluded list, and the Standard's only relevant piece (20 Nov 2025) reports the American Express/GlobalData ranking of independent high streets, which is syndication.",
+    "Reddit (r/london 'most beautiful street in your...' kp60xp and 'best scenic streets in London for a walk' 1d3yjis) cannot be read here. Rob to supply any thread by hand.",
+    "TikTok creators: TikTok search is not reachable by curl. Three YouTube creators recorded; Travel the Smart Way's '15 prettiest streets' video could not be read (no description, captions blocked).",
+    "Kensington Church Street is named by none of the sources collected (the only list that names it, London Perfect's, is a holiday-rental agency's blog and is declined).",
+    "Exmouth Market, Upper Street and Charlotte Street each have one source. A food-street source (Harden's or the Infatuation's 'best streets for restaurants' style lists) was not found."
+  ],
+  "openVenueQuestions": [
+    "Neal's Yard and Seven Dials are merged under Neal's Yard where a source names the district (LDN Fashion, Love and London). Without that merge Neal's Yard has 11 sources rather than 13.",
+    "Hillgate Place, Hillgate Street and Hillgate Village are kept as three names; they may be one village, and merging would put it at 5.",
+    "Portobello Road is the street; Portobello Road Market is the same road and is not split."
+  ],
+  "declined": "See data/consensus/streets.json 'declined': Wondrous Wandering (clickbait), tour operators and aggregators on the excluded list, London Perfect (rental agency), From One Girl to One World (thin), Travel the Smart Way (unreadable)."
+}

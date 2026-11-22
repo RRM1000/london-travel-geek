@@ -78,6 +78,8 @@ Shoreditch sits immediately north of the City: glass towers on one side, Victori
 
 **This guide covers Shoreditch, Spitalfields, Brick Lane and Hoxton together.** Old Spitalfields Market to the Truman Brewery is eight minutes, and Hoxton Square is ten minutes the other way.
 
+Brick Lane and Columbia Road are ranked in our [best streets in London](/articles/best-streets-london/), with the day each one works.
+
 Shoreditch has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=shoreditch).
 
 ## Why visit — and who should skip it

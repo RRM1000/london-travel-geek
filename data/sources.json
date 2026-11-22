@@ -2683,6 +2683,102 @@
       "tier": "D",
       "name": "Historic Pub Crawls",
       "note": "Author of the Historic Pub Crawls books."
+    },
+    "travelandsqueak.com": {
+      "tier": "C",
+      "name": "Travel and Squeak"
+    },
+    "londondreaming.com": {
+      "tier": "C",
+      "name": "London Dreaming"
+    },
+    "withinlondon.com": {
+      "tier": "C",
+      "name": "Within London"
+    },
+    "tripsavvy.com": {
+      "tier": "B",
+      "name": "TripSavvy"
+    },
+    "followmeaway.com": {
+      "tier": "C",
+      "name": "Follow Me Away"
+    },
+    "tripswithrosie.com": {
+      "tier": "C",
+      "name": "Trips with Rosie"
+    },
+    "theflashpacker.net": {
+      "tier": "C",
+      "name": "The Flashpacker"
+    },
+    "wheregoesrose.com": {
+      "tier": "C",
+      "name": "Where Goes Rose"
+    },
+    "escapecents.com": {
+      "tier": "C",
+      "name": "Escape Cents"
+    },
+    "delveintoeurope.com": {
+      "tier": "C",
+      "name": "Delve Into Europe"
+    },
+    "girlgoneabroad.com": {
+      "tier": "C",
+      "name": "Girl Gone Abroad"
+    },
+    "pennaspillo.it": {
+      "tier": "C",
+      "name": "Alessandra in London"
+    },
+    "ldnfashion.com": {
+      "tier": "B",
+      "name": "LDN Fashion"
+    },
+    "youtube.com/@SuitcaseMonkey": {
+      "tier": "D",
+      "name": "Suitcase Monkey (YouTube)"
+    },
+    "youtube.com/@AlpGalipcy": {
+      "tier": "D",
+      "name": "Alp Galip Travels (YouTube)"
+    },
+    "theluxuryeditor.com": {
+      "tier": "C",
+      "name": "The Luxury Editor"
+    },
+    "luxurylifestylemag.co.uk": {
+      "tier": "C",
+      "name": "Luxury Lifestyle Magazine"
+    },
+    "spearswms.com": {
+      "tier": "B",
+      "name": "Spear’s"
+    },
+    "elitetraveler.com": {
+      "tier": "C",
+      "name": "Elite Traveler"
+    },
+    "themanual.com": {
+      "tier": "B",
+      "name": "The Manual"
+    },
+    "express.co.uk": {
+      "tier": "C",
+      "name": "Daily Express"
+    },
+    "squaremile.com": {
+      "tier": "C",
+      "name": "Square Mile"
+    },
+    "essentialsurrey.co.uk": {
+      "tier": "C",
+      "name": "Essential Surrey"
+    },
+    "youtube.com/@uaeats": {
+      "tier": "D",
+      "name": "UA Eats (YouTube)"
     }
   },
   "excludedWhy": {

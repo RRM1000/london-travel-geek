@@ -71,6 +71,8 @@ Hackney has no Underground station, no major museum and no monument. It has thre
 
 This is residential London, and it rewards a Saturday, not a sightseeing itinerary.
 
+Broadway Market is one of the streets ranked in our [best streets in London](/articles/best-streets-london/), with its Saturday and Sunday hours.
+
 Hackney has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=hackney).
 
 ## Why visit — and who should skip it

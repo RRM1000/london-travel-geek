@@ -29,6 +29,8 @@ heroImageAlt: "The glass-roofed Apple Market hall at Covent Garden, with stalls 
 
 This guide is arranged by **what you want to buy**, because someone after a wedding outfit, someone after vintage denim and someone after edible gifts to take home should not be sent to the same postcode.
 
+For the streets themselves, ranked by how many sources name them, see our [best streets in London](/articles/best-streets-london/).
+
 Two things first, because both catch people out.
 
 > ⚠️ **You cannot claim the VAT back.** The UK **abolished tax-free shopping for visitors in January 2021**. Unlike Paris, Milan or Madrid, there is **no refund desk at the airport** and no reclaiming the 20% on anything you carry home in your luggage. The one workaround: if the shop **ships it directly to an overseas address**, VAT comes off at the till. On a £2,000 purchase that is a £333 difference, so ask.

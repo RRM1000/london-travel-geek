@@ -29,6 +29,8 @@ faq:
 
 **Notting Hill's colourful houses are on the residential streets around Portobello Road, not on it.** The best of them is a cluster of four streets (Hillgate Place, Farmer Street, Hillgate Street and Jameson Street) two to three minutes from Notting Hill Gate station. Most people walk Portobello Road's length, photograph some painted shopfronts and leave puzzled.
 
+Portobello Road, Golborne Road, Lancaster Road and Elgin Crescent also appear in our [best streets in London](/articles/best-streets-london/) ranking, counted by how many sources name them.
+
 This guide is a route through the eleven streets that have the colour, in walking order, from Notting Hill Gate to Ladbroke Grove. It also covers where the cherry blossom is in spring. For the market, the antique arcades, Golborne Road and where to eat, see our [Notting Hill area guide](/articles/notting-hill-area-guide/); the two work on the same day.
 
 > 💡 **The Short Version:** Start at **Hillgate Place**, two minutes from Notting Hill Gate and the prettiest street, with a fraction of the crowd. **Lancaster Road** has the strongest colours and the most photographers. **Lansdowne Road** and **Elgin Crescent** are the grand pale stucco version. **Portobello Road** itself is shopfronts, not houses: go there for [the market](/articles/best-london-markets/), not the colour.

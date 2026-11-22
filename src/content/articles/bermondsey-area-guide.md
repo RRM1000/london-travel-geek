@@ -75,6 +75,8 @@ Bermondsey's railway viaducts now hold breweries, the leather warehouses are fla
 
 It sits immediately east of Borough Market. Our [Bankside and Borough walk](/articles/bankside-borough-walk/) starts at London Bridge station and covers Borough's inn yards, the market and Shakespeare's Bankside. The Shard's viewing gallery is beside the station: see [The View from The Shard](/articles/the-shard-guide/).
 
+Bermondsey Street and Shad Thames are in our [best streets in London](/articles/best-streets-london/) ranking.
+
 Bermondsey has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=bermondsey).
 
 ## Why visit — and who should skip it

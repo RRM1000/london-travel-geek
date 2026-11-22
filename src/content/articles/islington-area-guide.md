@@ -75,6 +75,8 @@ Islington is a mile of Georgian terrace running north from Angel, lined with res
 
 There are no landmarks here. Islington is a place to eat, drink, browse and see something in the evening.
 
+Camden Passage and Upper Street are in our [best streets in London](/articles/best-streets-london/) ranking.
+
 Islington has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=islington).
 
 ## Why visit — and who should skip it

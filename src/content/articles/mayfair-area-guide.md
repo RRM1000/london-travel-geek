@@ -75,6 +75,8 @@ Mayfair is a Georgian grid laid out from the 1720s between [Oxford Street](/arti
 
 The Victorian arcades are public passages, the Royal Academy's courtyard is free, and the dozens of commercial art galleries on and around Cork Street let anyone walk in.
 
+Savile Row, Jermyn Street, Bond Street and Regent Street are all ranked in our [best streets in London](/articles/best-streets-london/).
+
 Mayfair has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=mayfair).
 
 ## Why visit — and who should skip it

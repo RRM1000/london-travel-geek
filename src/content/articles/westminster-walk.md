@@ -35,6 +35,8 @@ Much of Westminster is free if you walk through the right doors: the Supreme Cou
 
 It runs **Westminster Bridge to Trafalgar Square**, west through the park to Buckingham Palace and back east along The Mall. About **4km, two to three hours** with stops, flat the whole way. Nine of the eleven stops cost nothing.
 
+Downing Street and The Mall are ranked in our [best streets in London](/articles/best-streets-london/).
+
 **The guard only changes on Monday, Wednesday and Friday**, at the Palace and at Horse Guards both; on other days there is an inspection instead.
 
 For the wider area — the Cathedral, Millbank, where to eat, where to stay — see the [Westminster area guide](/articles/westminster-area-guide/). 

@@ -29,6 +29,8 @@ faq:
 
 This walk starts at Leicester Square, goes north into Seven Dials and Neal's Yard while they are quiet, comes down into the Piazza in the middle, and finishes at Somerset House, six minutes from the market hall.
 
+Neal's Yard and Seven Dials are ranked in our [best streets in London](/articles/best-streets-london/).
+
 It is about **2km and takes around two hours** with stops. Everything on it is free except the London Transport Museum, which you can skip. For the theatres, where to eat before a show and where to stay, see the [Covent Garden area guide](/articles/covent-garden-area-guide/).
 
 > 💡 **The Short Version:** Start at **Leicester Square**, not Covent Garden station — 193 steps and no escalators. Go **north first**: Seven Dials and Neal's Yard are quiet early and fill up later. **Monday is antiques day** in both market halls. The free view is **Bar Cicoria**, on the fifth floor of the Royal Opera House, no ticket and no booking. **Cecil Court**, a street of old bookshops, is ninety seconds off the route.

@@ -75,6 +75,8 @@ Covent Garden is a former fruit and vegetable market turned pedestrian district,
 
 Soho is eight minutes west and the [British Museum](/articles/british-museum-guide/) twelve minutes north. The [National Gallery](/articles/national-gallery-guide/) on Trafalgar Square is within ten minutes' walk.
 
+Neal's Yard and Seven Dials are ranked in our [best streets in London](/articles/best-streets-london/).
+
 Covent Garden has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=covent-garden).
 
 ## Why visit — and who should skip it

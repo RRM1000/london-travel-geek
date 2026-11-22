@@ -34,6 +34,8 @@ faq:
 
 **The Abbey Road crossing costs nothing and needs no ticket.** The spend is a guided walk, from £17, or the trip to Liverpool.
 
+Abbey Road is also one of the streets ranked in our [best streets in London](/articles/best-streets-london/).
+
 > 💡 **The Short Version:** **The Abbey Road crossing is free** and needs no ticket. **Or book a two-hour guided walk, from £17**, and skip working out a route between sites spread across St John's Wood, Marylebone, Mayfair and Soho; "In My Life" with Richard Porter has the most reviews of the tours below, 4.6 from 272. **The Beatles played their last gig on the roof of 3 Savile Row on 30 January 1969**; a blue plaque has marked it since 2019. **The Beatles Store is at 231/233 Baker Street**, open daily 10am–6.30pm, and isn't run by Apple Corps. **Liverpool is a genuine day trip:** Euston to Lime Street from £14 one-way, 2h15 at the fastest, or a packaged tour from about £194 that bundles the train, the Magical Mystery Tour bus and the Beatles Story.
 
 > ⚠️ **You can't go inside Abbey Road Studios or 3 Savile Row.** Both are working private buildings. The crossing, the studio wall and the rooftop plaque are what you visit, and there is no Beatles attraction in London run by the band's own company.

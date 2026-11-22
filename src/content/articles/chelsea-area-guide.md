@@ -77,6 +77,8 @@ heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
 
 Chelsea is a low-rise, well-kept stretch between the King's Road and the Thames, and it is better for walking than for shopping. The King's Road made its name in the 1960s and again with punk in the 1970s; most of that has been replaced by chains. The reasons to come now are the side streets, the river and two gardens.
 
+King's Road and Bywater Street are ranked in our [best streets in London](/articles/best-streets-london/).
+
 Chelsea has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=chelsea).
 
 ## Why visit — and who should skip it
