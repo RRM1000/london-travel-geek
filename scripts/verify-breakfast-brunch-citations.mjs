@@ -59,9 +59,20 @@ for (const line of art.split(/\r?\n/)) {
 }
 
 const venues = Object.values(ev).filter((v) => v.byTopic?.[TOPIC]).map((v) => ({ ...v, ...v.byTopic[TOPIC] }));
+// Two lists from one publication are one opinion (build-evidence counts distinct domains),
+// so sources are distinct hosts - a creator handle counts as the host on YouTube and
+// TikTok - and a citation is one venue named by one distinct domain.
+const hostOf = (url) => {
+  try {
+    const u = new URL(url);
+    const host = u.hostname.replace(/^www\./, "");
+    const handle = u.pathname.match(/\/(@[^/]+)/)?.[1];
+    return /^(youtube\.com|youtu\.be|tiktok\.com)$/.test(host) && handle ? `${host}/${handle}` : host;
+  } catch { return String(url); }
+};
 const actual = {
-  sources: doc.sources.length,
-  citations: doc.sources.reduce((n, s) => n + (s.names ?? []).length, 0),
+  sources: new Set(doc.sources.map((s) => hostOf(s.url))).size,
+  citations: venues.reduce((n, v) => n + v.sourceCount, 0),
   venues: venues.length,
   twoPlus: venues.filter((v) => v.sourceCount >= 2).length,
 };

@@ -2,8 +2,15 @@
   "topic": "breakfast-brunch",
   "article": "src/content/articles/best-breakfast-brunch-london.md",
   "headTerm": "Breakfast and Brunch",
-  "note": "Written 21 Sep 2026. The corpus had been collected since August without a config, which is why the award sweep below had never been run. The method lives in .claude/skills/consensus-guide/SKILL.md.",
+  "note": "Written 21 Sep 2026. The corpus had been collected since August without a config, which is why the award sweep below had never been run. The method lives in .claude/skills/consensus-guide/SKILL.md. Refreshed 22 Nov 2026: 17 new publications and creators in 24 new list records (Time Out, The Infatuation, Olive, Luxury London, Country & Town House, Condé Nast Traveller, Hot Dinners, SquareMeal, the Evening Standard, Secret London, The Handbook, London x London, Visit London, British Food Crew, the FACT Dining Awards and four creators).",
   "awardBodies": [
+    {
+      "name": "FACT Dining Awards London",
+      "domain": "diningawards.factmagazines.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "READ 22 Nov 2026. The 2026 London winners page has a Breakfast category: BEST is Hide, decided by a panel of independent experts plus mystery-shopper reports; FAVOURITE is Fallow, an online public vote and not recorded as an award. Recorded under diningawards.factmagazines.com (registered in data/sources.json as tier A); the magazine's own site factmagazines.com is a separate tier-B domain. Re-collect when the 2027 London winners are published (the awards calendar page says 2027)."
+    },
     {
       "name": "National Breakfast & Brunch Awards",
       "domain": "breakfastbrunchawards.co.uk",
@@ -16,35 +23,95 @@
     "La Liste - checked laliste.com/news/laliste-hotels-2026-global-ranking-hospitality-trends-and-special-awards. Thirteen Special Award categories in the 2026 hotels edition and none of them is breakfast. Its Pastry Special Awards carry the afternoon tea title, not a breakfast one.",
     "Harden's - hardens.com/london-restaurants/best/breakfast and /brunch both 404, and /awards renders as navigation to a fetcher (trap 15).",
     "The World's 100 Best Coffee Shops - real, judged and dated, but its three London entries (Rosslyn, Moonstruck, Oma) are coffee shops already carried by the coffee corpus and none of them is a breakfast room. Recording it here would be trap 13.",
-    "National Restaurant Awards - judged and dated, but it ranks restaurants, not breakfasts. Printing its rank in a breakfast guide would be trap 7."
+    "National Restaurant Awards - judged and dated, but it ranks restaurants, not breakfasts. Printing its rank in a breakfast guide would be trap 7.",
+    "DineAwards (dineawardslondon.com/breakfast) - a public-vote aggregator with 2024 badges, not a judged award. Just Eat Awards - user votes. OpenTable lists - an aggregator, excluded in data/sources.json."
   ],
   "editorialLists": [
-    { "name": "The Infatuation", "domain": "theinfatuation.com", "ranked": false, "note": "Its brunch guide is grouped by compass point - Central, North, East, South, West - not ranked. Those headings extract as venue names; check them out before recording." },
-    { "name": "Time Out", "domain": "timeout.com", "ranked": true, "note": "Its greasy spoons list IS ranked, 1-8. Trap 11." },
-    { "name": "The Nudge", "domain": "thenudge.com", "ranked": false, "note": "The widest list in the corpus at 51 names, but the page is client-rendered: curl returns the app shell and a map loader, so it has to be read in a browser." },
-    { "name": "The Good Food Guide", "domain": "thegoodfoodguide.co.uk", "ranked": false, "note": "Tier A by domain, but its 'best breakfasts in central London' is an editorial feature, not a judged ranking - so hasAward on those twelve venues does not mean they hold an award." },
-    { "name": "Lux Life", "domain": "luxlifelondon.com", "ranked": false },
-    { "name": "Resy", "domain": "blog.resy.com", "ranked": false, "note": "Dated 2022 - the oldest list in the corpus." },
-    { "name": "James Dimitri", "domain": "jamesdimitri.co.uk", "ranked": false, "note": "The specialist that carries the whole cheap end: 25 caffs with the price of each full English. 403s curl, so the prices already recorded in the corpus are the copy of record." }
+    {
+      "name": "The Infatuation",
+      "domain": "theinfatuation.com",
+      "ranked": false,
+      "note": "Its brunch guide is grouped by compass point - Central, North, East, South, West - not ranked. Those headings extract as venue names; check them out before recording."
+    },
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": true,
+      "note": "Its greasy spoons list IS ranked, 1-8. Trap 11."
+    },
+    {
+      "name": "The Nudge",
+      "domain": "thenudge.com",
+      "ranked": false,
+      "note": "The widest list in the corpus at 51 names, but the page is client-rendered: curl returns the app shell and a map loader, so it has to be read in a browser."
+    },
+    {
+      "name": "The Good Food Guide",
+      "domain": "thegoodfoodguide.co.uk",
+      "ranked": false,
+      "note": "Tier A by domain, but its 'best breakfasts in central London' is an editorial feature, not a judged ranking - so hasAward on those twelve venues does not mean they hold an award."
+    },
+    {
+      "name": "Lux Life",
+      "domain": "luxlifelondon.com",
+      "ranked": false
+    },
+    {
+      "name": "Resy",
+      "domain": "blog.resy.com",
+      "ranked": false,
+      "note": "Dated 2022 - the oldest list in the corpus."
+    },
+    {
+      "name": "James Dimitri",
+      "domain": "jamesdimitri.co.uk",
+      "ranked": false,
+      "note": "The specialist that carries the whole cheap end: 25 caffs with the price of each full English. 403s curl, so the prices already recorded in the corpus are the copy of record."
+    }
   ],
   "facetAxis": {
     "field": "format",
     "note": "Breakfast splits by format rather than by cuisine, and the split is what the guide is organised on.",
     "values": [
-      { "key": "grand", "label": "Hotel and institution", "describeAs": "a dining room where breakfast is a business meeting" },
-      { "key": "australian", "label": "Australian brunch", "describeAs": "hotcakes, avocado and a serious flat white, the style London imported around 2010" },
-      { "key": "fry-up", "label": "The fry-up", "describeAs": "a cooked breakfast in a caff or a pub" },
-      { "key": "coffee-first", "label": "Coffee-first", "describeAs": "a roaster's room where the food is built around the cup" },
-      { "key": "weekend", "label": "Weekend-only", "describeAs": "a kitchen that only cooks brunch on Saturday and Sunday" }
+      {
+        "key": "grand",
+        "label": "Hotel and institution",
+        "describeAs": "a dining room where breakfast is a business meeting"
+      },
+      {
+        "key": "australian",
+        "label": "Australian brunch",
+        "describeAs": "hotcakes, avocado and a serious flat white, the style London imported around 2010"
+      },
+      {
+        "key": "fry-up",
+        "label": "The fry-up",
+        "describeAs": "a cooked breakfast in a caff or a pub"
+      },
+      {
+        "key": "coffee-first",
+        "label": "Coffee-first",
+        "describeAs": "a roaster's room where the food is built around the cup"
+      },
+      {
+        "key": "weekend",
+        "label": "Weekend-only",
+        "describeAs": "a kitchen that only cooks brunch on Saturday and Sunday"
+      }
     ]
   },
   "knownGaps": [
     "Community tier (E) is empty. Reddit is blocked in this environment.",
     "Rise & Dine Cafe is named by two sources with two different prices - James Dimitri has the full English at GBP 11.99, @joshucr at GBP 5 - and neither publishes an area, so it is in the corpus and deliberately not on the page.",
-    "The Nudge is the largest single source here at 51 names and its page will not render to curl, so any re-collection from it has to be done in a browser."
+    "The Nudge is the largest single source here at 51 names and its page will not render to curl, so any re-collection from it has to be done in a browser.",
+    "Pavilion Cafe is named by four sources (Time Out, The Nudge, the Evening Standard, Secret London) and is the Victoria Park lakeside cafe, whose operator site (pavilionbread.com) renders no text to a fetcher, so it has no entry yet. Ozone Coffee Roasters is named by four and has no entry for the same reason: the Shoreditch page is shop navigation to a fetcher.",
+    "Three-source places without an entry yet: Riding House Cafe, Tashas, The Tamil Prince, Where The Pancakes Are, 26 Grains, 45 Jermyn St, Eggslut, Honey & Co and Honey & Co Bloomsbury (a source that writes only 'Bloomsbury' may mean either Honey & Co on Lamb's Conduit Street or Honey & Co Daily on Store Street). About forty places named by exactly two sources are also unwritten.",
+    "Time Out, The Infatuation, SquareMeal, the Evening Standard and Secret London each have two or three list records under one domain. The build counts the domain once per venue, so the audit-corpus DOMAINS warning for this topic is expected."
   ],
   "openVenueQuestions": [
     "'Sunday' in Barnsbury and 'Sunday in Brooklyn' in Notting Hill are two different restaurants, both in the corpus, and the shorter name is also an opening-hours row in other sources - it is carried by data/name-noise.json venueExceptions for this topic only.",
-    "'Burnt' and 'Burnt Bethnal Green' are both recorded from The Infatuation's brunch guide. The guide covers the Bethnal Green site as Burnt Arches; the two names have not been merged because the group also has Shepherd's Bush and a RADA cafe."
+    "'Burnt' and 'Burnt Bethnal Green' are both recorded from The Infatuation's brunch guide. The guide covers the Bethnal Green site as Burnt Arches; the two names have not been merged because the group also has Shepherd's Bush and a RADA cafe.",
+    "'Cafe Jikoni' (Time Out's #4 breakfast) is the cafe at the V&A East Museum in Stratford, not Jikoni in Marylebone; recorded apart from Jikoni.",
+    "'Beam' (Infatuation, Secret London, British Food Crew), 'Beam Notting Hill' (The Nudge) and 'Cafe Beam' in Highbury (SquareMeal) may be one group or two and are not merged."
   ]
 }

@@ -5,8 +5,8 @@ description: "From a bacon naan roll to a 24-hour fry-up forty floors up — Lon
 heroImage: "../../assets/articles/best-breakfast-brunch-london/the-table-full-english.jpg"
 heroImageAlt: "A full English breakfast of fried eggs, sausage, bacon, beans, grilled tomato and a field mushroom at The Table Cafe in Southwark"
 publishedAt: 2026-08-25
-updatedAt: 2026-10-26
-reviewBy: 2027-01-26
+updatedAt: 2026-11-22
+reviewBy: 2027-02-22
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -14,7 +14,7 @@ tags: [restaurants, breakfast, brunch, cafes, dining]
 draft: false
 faq:
   - q: "Where is the best breakfast in London?"
-    a: "The Wolseley on Piccadilly, in a 1920s car showroom, serves breakfast from 7am on weekdays. Dishoom's bacon naan roll is the dish people queue for. For a view, Duck & Waffle is forty floors up and open around the clock."
+    a: "The Wolseley on Piccadilly, in a 1920s car showroom, serves breakfast from 7am on weekdays. Dishoom's bacon naan roll is the dish people queue for. Hide, in Mayfair, won the Breakfast category at the FACT Dining Awards London 2026. For a view, Duck & Waffle is forty floors up and open around the clock."
   - q: "Where can I get breakfast very early or very late in London?"
     a: "Duck & Waffle in the City serves 24 hours. The Polo Bar opposite Liverpool Street has traded 24 hours since 1953 and has no front door. Both do a fry-up at any hour."
   - q: "Do I need to book brunch in London?"
@@ -30,9 +30,10 @@ London does two breakfasts: the **Australian brunch** the city imported around 2
 > 💡 **The Short Version:** **The Wolseley** is a grand café in a 1920s car showroom. **Dishoom's bacon naan roll** is the dish people queue for. **Granger & Co** is the place for ricotta hotcakes. **Duck & Waffle** is open 24 hours forty floors up. And **Wetherspoons** does a cooked breakfast from 8am for a few pounds.
 
 > 📊 **The evidence behind this guide.**
-> **14 sources carrying 209 citations** across **160 named rooms**. **36 rooms are named by two or more independent sources; 9 by three or more.**
-> **Built on:** the Good Food Guide; Time Out, The Infatuation and DesignMyNight; caff specialists; creator videos.
-> *Evidence rebuilt 21 September 2026 · [How we rank →](/how-we-rank/)*
+> **31 sources carrying 592 citations** across **287 named rooms**. **109 rooms are named by two or more independent sources; 65 by three or more.**
+> **Most cited:** Dishoom (14 sources); E Pellicci and Fallow (12 each); The Wolseley and Terry's Café (11 each); Granger & Co (10 sources).
+> **Built on:** the FACT Dining Awards London 2026 (Breakfast, judged by a panel); the Good Food Guide; Time Out, The Infatuation, Condé Nast Traveller, SquareMeal, the Evening Standard, Olive, Luxury London, Country & Town House, Hot Dinners, The Handbook, Secret London and DesignMyNight; caff specialists; creator videos.
+> *Evidence rebuilt 22 November 2026 · [How we rank →](/how-we-rank/)*
 
 > 📅 **Booking, at a glance.**
 > **Book weeks ahead:** Duck & Waffle (the window tables especially), Hide, Fallow, Akub.
@@ -45,15 +46,18 @@ London does two breakfasts: the **Australian brunch** the city imported around 2
 
 | If you are near… | Where to eat |
 | --- | --- |
-| **Piccadilly & Mayfair** | The Wolseley, Fallow |
+| **Piccadilly & Mayfair** | The Wolseley, Fallow, Hide, Mount St. Restaurant, Claridge's, Pavyllon |
+| **St James's** | Maison François |
 | **The City & Liverpool Street** | Duck & Waffle, Darwin Brasserie, Polo Bar, The Crosse Keys, Hamilton Hall |
 | **Covent Garden** | Dishoom |
-| **Fitzrovia & Marylebone** | Berners Tavern, TOKii, Kaffeine, The Attendant |
+| **Soho** | Koya Soho, Milk Beach, Brother Marcus |
+| **Fitzrovia & Marylebone** | Berners Tavern, TOKii, Kaffeine, The Attendant, Jikoni |
 | **Clerkenwell** | Caravan, Prufrock |
 | **Notting Hill & west** | Granger & Co, Beany Green |
 | **Southwark & Bankside** | The Table Café |
 | **South London** | Milk (Balham), WatchHouse (Bermondsey) |
 | **North London** | Ginger & White (Hampstead) |
+| **Richmond** | Peggy Jean |
 
 **Price guide:** **£** under £15 · **££** £15–£30 · **£££** £30–£50 · **££££** £55+.
 
@@ -63,7 +67,7 @@ London does two breakfasts: the **Australian brunch** the city imported around 2
 
 ### The Wolseley, Piccadilly
 
-*£££ · 3 min from Green Park* · Cited by 2 sources
+*£££ · 3 min from Green Park* · Cited by 11 sources · #9 of 25 in Time Out's breakfasts
 
 ![The Wolseley's vaulted dining room, black and white floor, pillars and low-hung lamps, full of diners](../../assets/articles/best-breakfast-brunch-london/wolseley.jpg)
 
@@ -75,7 +79,7 @@ The menu runs from viennoiserie and classic egg dishes through to a full English
 
 ### Dishoom, Covent Garden
 
-*££ · 3 min from Covent Garden · 7 London sites* · Cited by 3 sources
+*££ · 3 min from Covent Garden · 7 London sites* · Cited by 14 sources · #14 of 25 in Time Out's breakfasts
 
 The original, opened in **2010** by cousins Shamil and Kavi Thakrar, modelled on the **Irani cafés of 1960s Bombay**: sepia photographs, ceiling fans, marble-topped tables, bentwood chairs.
 
@@ -94,7 +98,7 @@ The **bacon naan roll** is smoked streaky bacon, cream cheese, chilli-tomato jam
 
 ### Duck & Waffle, City of London
 
-*££££ · 3 min from Liverpool Street · 24 hours · one site* · Cited by 2 sources
+*££££ · 3 min from Liverpool Street · 24 hours · one site* · Cited by 8 sources
 
 ![Brunch plates at Duck & Waffle: waffles with duck egg, a full breakfast with bacon and tomato, and pancakes](../../assets/articles/best-breakfast-brunch-london/duck-and-waffle.jpg)
 
@@ -106,7 +110,7 @@ The dish it is named for is **two waffles stacked with a confit duck leg and a f
 
 ### Berners Tavern, Fitzrovia
 
-*££££ · a vast Edwardian ballroom* · Cited by 1 source
+*££££ · a vast Edwardian ballroom* · Cited by 2 sources
 
 **Jason Atherton's** dining room inside The London EDITION on Berners Street: an Edwardian ballroom with the walls hung with framed pictures, under chandeliers. It is much quieter at breakfast than at dinner.
 
@@ -120,19 +124,19 @@ Breakfast runs daily, with brunch on Saturday and a Sunday lunch. **[Book](https
 
 ### Hide, Mayfair
 
-*££££ · Michelin-starred · one site* · Cited by 2 sources
+*££££ · Michelin-starred · one site* · Cited by 8 sources
 
 ![Hide's dining room in pale wood, with its curved timber staircase rising behind the tables](../../assets/articles/best-breakfast-brunch-london/hide.jpg)
 
 **Ollie Dabbous's** restaurant at 85 Piccadilly, overlooking **Green Park**. Breakfast is served in **Ground**, the ground-floor room, under an oak staircase that spirals up through all three floors.
 
-The Michelin-starred kitchen serves breakfast in four parts: fruits, seeds and grains; **viennoiseries baked on site every morning** at the open bakery; a caviar and oysters section; and a savoury selection built around the signature **HIDE croque monsieur**. Elsewhere, **truffled scrambled eggs**, a reworked full English, avocado on toast, and a house granola.
+It won **Best Breakfast** at the FACT Dining Awards London 2026, where a panel of independent experts picks the winner. The Michelin-starred kitchen serves breakfast in four parts: fruits, seeds and grains; **viennoiseries baked on site every morning** at the open bakery; a caviar and oysters section; and a savoury selection built around the signature **HIDE croque monsieur**. Elsewhere, **truffled scrambled eggs**, a reworked full English, avocado on toast, and a house granola.
 
-**Book** ([book a table](https://www.sevenrooms.com/explore/hidegrounduk/reservations/create/search)), and ask for a window table on the park side.
+**Breakfast runs 7am–11am on weekdays and 9am–noon at weekends.** **Book** ([book a table](https://www.sevenrooms.com/explore/hidegrounduk/reservations/create/search)), and ask for a window table on the park side.
 
 ### Fallow, St James's
 
-*£££ · nose-to-tail* · Cited by 2 sources
+*£££ · nose-to-tail* · Cited by 12 sources · #12 of 25 in Time Out's breakfasts
 
 ![Brunch at Fallow on a marble counter: a croissant sandwich, an egg-topped muffin and mushrooms on toast](../../assets/articles/best-breakfast-brunch-london/fallow.jpg)
 
@@ -142,13 +146,53 @@ The **Fallow Full** — smoked bacon, black pudding, sausage, herbed mushrooms, 
 
 **52 Haymarket**, a few minutes from Piccadilly Circus. Book ([book a table](https://www.sevenrooms.com/explore/fallowstjames/reservations/create/search?venues=roe%2Cfallowstjames%2Cfowl)); it is a restaurant rather than a café, and it fills.
 
+### Mount St. Restaurant, Mayfair
+
+*££ · first floor of The Audley · Cited by 8 sources · #24 of 25 in Time Out's breakfasts*
+
+A first-floor dining room above The Audley pub at **41–43 Mount Street**, between Grosvenor Square and Hyde Park, hung with commissioned art. Executive chef **Jamie Shears** cooks London classics with produce from the restaurant's own farm, Durslade in Somerset.
+
+The **Full English** is £26.50. The rest of the menu runs from **Omelette Arnold Bennett** (£22.50), a **Stepney kipper** (£18) and a London rarebit (£14) to an **Oscietra caviar omelette** at £48.
+
+**Breakfast runs from 7.30am on weekdays and 9am at weekends, with a Saturday brunch from 12 to 4** ([book a table](https://www.sevenrooms.com/reservations/mountstrestaurant)).
+
+### Claridge's, Mayfair
+
+*££££ · hotel dining room · Cited by 4 sources*
+
+Breakfast at the hotel is served in the Foyer & Reading Room, the jade-and-white dining room at the centre of Claridge's.
+
+The **English breakfast (£45)** is Cacklebean eggs any style with bacon, sausage, Stornoway black pudding, grilled tomato, baked beans and roasted mushroom, with pastries, toast, juice and tea or coffee. The **Japanese (£55)** is seared Scottish salmon, tamagoyaki, miso soup, natto and umeboshi. A la carte, the **omelette Arnold Bennett** is £32.
+
+**Breakfast runs 7am–11am Monday to Saturday and 8am–11am on Sunday** ([the hotel's page](https://www.maybourne.com/en/hotels/claridges/restaurants-bars/the-foyer-reading-room)).
+
+### Maison François, St James's
+
+*£££ · 34 Duke Street · Cited by 6 sources*
+
+A brasserie at **34 Duke Street** with a bar à vins, and a deli counter that opens for breakfast and lunch.
+
+The breakfast menu has **French toast with vanilla and hazelnut chocolate (£18)**, a **jambon blanc sandwich** with fried eggs, potato rösti and gruyère (£16), eggs Benedict, Royale and Florentine, and porridge with dates, banana and cocoa nibs. Caviar can be added to scrambled eggs.
+
+**Breakfast bookings open two months ahead**, and the terrace and Frank's bar take none ([the venue's site](https://www.maisonfrancois.london/)).
+
+### Pavyllon, Mayfair
+
+*££££ · Four Seasons Park Lane · Cited by 4 sources*
+
+**Yannick Alléno's** French restaurant inside the Four Seasons Hotel at Park Lane.
+
+The **Mayfair Muffin** (£28) is a Cumberland sausage, cheddar, pommes Anna and a runny egg yolk. The **Full Frenglish** is bacon, pork sausage, black pudding, roasted tomatoes, mushroom, baked beans and eggs, at £32 as a platter or £45 as a set with a hot drink and juice. There are caviar eggs for those who want them.
+
+**Breakfast runs 6.30am–10.30am Monday to Saturday and 7am–10.30am on Sunday**, with a weekend tasting menu that needs 24 hours' notice ([the venue's site](https://www.pavyllonlondon.com/)).
+
 ---
 
 ## Australian brunch
 
 ### Granger & Co, Notting Hill
 
-*£££ · Bill Granger* · Cited by 4 sources
+*£££ · Bill Granger* · Cited by 10 sources
 
 ![A Granger & Co plate of poached eggs, smoked salmon, avocado, spinach and grilled sourdough](../../assets/articles/best-breakfast-brunch-london/granger-and-co.jpg)
 
@@ -160,7 +204,7 @@ The **ricotta hotcakes with fresh banana and honeycomb butter (£19)** are the s
 
 ### Caravan, Clerkenwell
 
-*£ · Exmouth Market · 7 London sites · its own roastery* · Cited by 1 source · [book a table](https://www.sevenrooms.com/explore/caravanrestaurants/reservations/create/search?venues=caravankingscross,caravancanarywharf,caravancity,caravancoventgarden,caravanexmouthmarket,caravanfitzrovia,caravanbankside,vardochelsea,caravanmanchester)
+*£ · Exmouth Market · 7 London sites · its own roastery* · Cited by 5 sources · [book a table](https://www.sevenrooms.com/explore/caravanrestaurants/reservations/create/search?venues=caravankingscross,caravancanarywharf,caravancity,caravancoventgarden,caravanexmouthmarket,caravanfitzrovia,caravanbankside,vardochelsea,caravanmanchester)
 
 The Exmouth Market room, opened by New Zealanders in 2010, with an all-day menu drawing on cuisines from around the world and its own roasted coffee.
 
@@ -173,7 +217,7 @@ The coffee is roasted at **Lamb Works** in Islington. Brunch dishes include jala
 
 ### Milk, Balham
 
-*££ · 3 min from Balham · one site* · Cited by 3 sources
+*££ · 3 min from Balham · one site* · Cited by 8 sources · #13 of 15 in Time Out's brunches
 
 On **Hildreth Street Market since 2012**, opened by **Julian Porter and Lauren Johns**, who knocked through into the shop next door in 2015. It is still small and loud at 11am on a Sunday.
 
@@ -198,6 +242,26 @@ Part of the Australian **Daisy Green** group, on the canal towpath at Paddington
 
 Walk-in; the terrace is first-come, and the indoor room is small.
 
+### Milk Beach, Soho
+
+*££ · off Greek Street · Cited by 5 sources*
+
+A modern Australian restaurant down a passageway off Greek Street, in Ilona Rose House. Its coffee comes from Album Coffee Roasters, which the founders started in 2022.
+
+The **ricotta hotcakes with honeycomb butter and banana (£15)** are the sweet order. The savoury side has a chilli scramble with stracciatella on sourdough (£15), a Cornish crab scramble (£17.50) and Granny Elly's banana bread with coffee jam (£5).
+
+**Breakfast runs Tuesday to Saturday 9am–11.30am and Sunday 9am–noon** ([the venue's site](https://www.milkbeach.com/)).
+
+### Peggy Jean, Richmond
+
+*££ · a barge on the Thames · Cited by 4 sources*
+
+A restored barge at Riverside Green in Richmond, from the Daisy Green group that also runs Beany Green. It has a terrace on the water and is not suited to children without close supervision, because it sits on a working pontoon on tidal water.
+
+The group's brunch menu has a **shakshouka (£16.40)**, **sweetcorn fritters with habanero sauce (£16.80)** and a **smoked salmon royale (£16.90)**.
+
+**Closed Monday and Tuesday, and open from 9am Wednesday to Sunday.** Bookings are for parties of up to six, and it takes cards and phones only ([book a table](https://booking.resdiary.com/widget/ThreeMonth/PeggyJean/34655)).
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-breakfast-brunch-london-food-tours" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="67794,943039,504469"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -206,7 +270,7 @@ Walk-in; the terrace is first-come, and the indoor room is small.
 
 ### The Table Café, Southwark
 
-*££ · 5 min from Southwark · no bookings · 2 sites*
+*££ · 5 min from Southwark · no bookings · 2 sites* · Cited by 4 sources · #14 of 15 in Time Out's brunches and #25 of 25 in its breakfasts
 
 An independent on Southwark Street **since 2005**, using seasonal British ingredients. A second site is on Battersea Rise.
 
@@ -298,7 +362,7 @@ These brunches run **on Saturday and Sunday only**.
 
 ### Akub, Notting Hill
 
-*Weekend only · Sat 11am–3pm, Sun 11am–4pm* · Cited by 2 sources
+*Weekend only · Sat 11am–3pm, Sun 11am–4pm* · Cited by 7 sources · #8 of 15 in Time Out's brunches
 
 Chef **Fadi Kattan's** Palestinian dining room on Uxbridge Street, cooking the food of Bethlehem, where he grew up.
 
@@ -312,7 +376,7 @@ The brunch centres on **Arabic coffee, French toast and zahra fritters**. Order 
 
 ### Bistrotheque, Bethnal Green
 
-*Weekend only · live piano 12–3pm* · Cited by 2 sources
+*Weekend only · live piano 12–3pm* · Cited by 3 sources
 
 Up a side street in Bethnal Green, in the remains of an old clothing **sweatshop**: a large white-walled warehouse room with no signage outside, open since 2004.
 
@@ -339,7 +403,7 @@ The centrepiece is the **tabun oven**, and the flatbreads that come out of it wi
 
 ### Mr Bao, Peckham
 
-*Weekend only · bottomless £24 an hour* · Cited by 2 sources
+*Weekend only · bottomless £24 an hour* · Cited by 6 sources · #3 of 15 in Time Out's brunches
 
 A small Peckham room doing **Taiwanese steamed bao** and small plates, with breakfast fillings inside the bao at brunch.
 
@@ -351,19 +415,19 @@ The **hash brown bao** is the one to order: crispy rösti, shiitake mushrooms, c
 
 **Brunch is weekends only, 11am to 4.30pm.** The room is tiny — book ([book a table](https://www.sevenrooms.com/explore/mrbaoryelane/reservations/create/search/)), or go early.
 
-### Esters, Stoke Newington
+### Jikoni, Marylebone
 
-*Saturday only · no bookings, card only* · Cited by 2 sources
+*Weekend brunch · Sat and Sun 10am–3pm* · Cited by 5 sources · #2 of 15 in Time Out's brunches
 
-A small corner café on Stoke Newington Church Street run by **Nia and Jack**, who make as much as they possibly can in-house: the jams, the yoghurts, the pickles, the cakes.
+**Ravinder Bhogal's** restaurant at 19–21 Blandford Street, cooking from the immigrant cuisines of South Asia, the Far East, the Middle East, East Africa and Britain.
 
-The menu changes with the season and keeps three fixtures: **Bircher muesli with a seasonal compote**, a **French toast** that gets rebuilt constantly (whipped ricotta, kumquat and cranberries in winter), and an egg dish, fried or poached, with whatever is good that month.
+![Jikoni's dining room, with a marble-topped table, bentwood chairs and a wine rack along the back wall](../../assets/articles/best-breakfast-brunch-london/jikoni-dining-room.jpg)
 
-![The shopfront of Esters at 55 Stoke Newington Church Street, a member of staff laying a table inside the window](../../assets/articles/best-breakfast-brunch-london/esters-shopfront.jpg)
+*Jikoni's dining room. Photo: [Anthony O'Neil](https://commons.wikimedia.org/wiki/File:Jikoni_Restaurant_-_geograph.org.uk_-_7173716.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
-*Esters, Stoke Newington.*
+The autumn 2026 brunch menu had a **prawn toast Scotch egg** (£14), a **Goan sausage roll** with pineapple ketchup (£14), curry-leaf creamed corn on cornbread with a fried egg (£16.50) and a buckwheat dosa with pumpkin thoran (£16.50).
 
-**Small, and no bookings**; expect a queue on Saturday.
+**Brunch is Saturday and Sunday only, 10am to 3pm** ([the venue's site](https://www.jikonilondon.com/)).
 
 ---
 
@@ -373,7 +437,7 @@ The menu changes with the season and keeps three fixtures: **Bircher muesli with
 
 ### Sunday in Brooklyn, Notting Hill
 
-*Daily · also Marylebone* · Cited by 2 sources
+*Daily · also Marylebone* · Cited by 7 sources
 
 The Williamsburg original's first site outside New York, and the **hazelnut and brown butter pancakes** are the reason to come.
 
@@ -398,7 +462,7 @@ Counter service; it fills mid-morning at weekends and is calm on a weekday.
 
 ### The Laundry, Brixton
 
-*Daily · a former laundry* · Cited by 2 sources
+*Daily · a former laundry* · Cited by 4 sources · #9 of 15 in Time Out's brunches
 
 An all-day bistro a minute from Brixton station, in a converted laundry.
 
@@ -408,7 +472,7 @@ Order the **toasted banana bread with honeycomb butter** or the **courgette and 
 
 ### Inis, Fish Island
 
-*Wed–Sun · mornings end at 11.30am* · Cited by 2 sources
+*Wed–Sun · mornings end at 11.30am* · Cited by 3 sources
 
 **British and Irish cooking** in Fish Island Village, on the canal behind the Olympic Park.
 
@@ -420,9 +484,31 @@ The **Full Irish** is the signature dish. Also on the menu: **roast potato farls
 
 Open for breakfast, brunch, lunch and a **Sunday lunch**. Book at weekends; a weekday is much quieter.
 
+### Esters, Stoke Newington
+
+*Tue–Sat · no bookings, card only* · Cited by 5 sources
+
+A small corner café at **55 Kynaston Road** run by **Nia and Jack**, who make as much as they possibly can in-house: the jams, the yoghurts, the pickles, the cakes.
+
+The menu changes with the season and keeps three fixtures: **Bircher muesli with a seasonal compote**, a **French toast** that gets rebuilt constantly (whipped ricotta, kumquat and cranberries in winter), and an egg dish, fried or poached, with whatever is good that month.
+
+![The shopfront of Esters at 55 Kynaston Road, a member of staff laying a table inside the window](../../assets/articles/best-breakfast-brunch-london/esters-shopfront.jpg)
+
+*Esters, Stoke Newington.*
+
+**Weekday breakfast runs 8am to noon and Saturday brunch 9am to 2.30pm; closed Sunday and Monday.** There are no bookings. Tuesday to Thursday it is quiet, Friday needs a moment to find you a table, and Saturday brings the queue.
+
+### Koya Soho, Soho
+
+*££ · Frith Street · walk-ins only* · Cited by 6 sources · #3 of 25 in Time Out's breakfasts
+
+The original Koya udon bar at **50 Frith Street**, open since 2010. Its breakfast menu is Japanese: a **Full Japanese Breakfast Set (£21.90)** of tamago and bonito shavings on rice with grilled fish, pickles, miso soup and a pot of hojicha tea, a plainer grilled-fish breakfast at £16.90, and a **tamago-gohan** of onsen egg and bonito on rice at £12.60. The English breakfast here is egg, bacon and shiitake over udon or rice (£16.20).
+
+**Walk-ins only, and the doors open at 10am every day** ([the venue's site](https://www.koya.co.uk/restaurant/soho)).
+
 ### Burnt Arches, Bethnal Green
 
-*Tue–Sun · a railway arch · Cited by 2 sources*
+*Tue–Sun · a railway arch* · Cited by 3 sources
 
 The Burnt group's Poyser Street site is a **café, restaurant and working bakery under one railway arch**, with the bakery visible from the tables.
 
@@ -440,9 +526,21 @@ The brunch menu includes a **crab and 'nduja herby omelette** with brown crab ai
 
 Three chains are covered in full above: **[Granger & Co](#granger--co-notting-hill)** (four London sites), **[Dishoom](#dishoom-covent-garden)** (eight) and **[Caravan](#caravan-clerkenwell)** (seven). The rest are below. For lunch and dinner at Dishoom, Hawksmoor and others, see the [chain restaurants guide](/articles/best-chain-restaurants-london/).
 
+### Brother Marcus, eight London sites
+
+*££ · East Mediterranean · Cited by 6 sources*
+
+![The red frontage of Brother Marcus on Poland Street in Soho, with 'Brunch, Mezze, Cocktails' across the ground-floor window](../../assets/articles/best-breakfast-brunch-london/brother-marcus-soho.jpg)
+
+*Brother Marcus, Poland Street, Soho. Photo: [Ewan-M](https://commons.wikimedia.org/wiki/File:Brother_Marcus_%26_Kamara,_Soho,_W1.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
+
+An East Mediterranean group with sites in Angel, Borough Yards, Canary Wharf, Covent Garden, Soho, South Kensington, Spitalfields and Victoria. The order is the **smoky shakshuka**, two poached eggs in a pepper and tomato sauce under labneh, zhoug and feta (£15.50 at Spitalfields), or the **Marcus Breakfast** of smoked Greek sausage, bacon, poached eggs, mushrooms and homemade beans on sourdough (£16.20). Kefir fried chicken on a potato rösti with fried eggs is on the weekend menu.
+
+**At Spitalfields, breakfast runs Monday to Friday from 8.30am to midday**, and the bigger brunch menu is a weekend one ([book a table](https://www.brothermarcus.co.uk/booking/)).
+
 ### The Breakfast Club, several sites
 
-*££ · since 2005* · Cited by 3 sources
+*££ · since 2005* · Cited by 6 sources
 
 Started as one café in Soho in 2005, American-diner in spirit.
 
@@ -456,7 +554,7 @@ Covent Garden, Hackney Wick, London Bridge and Croydon among others. **The queue
 
 ### Megan's, many sites
 
-*££ · the flower-covered ones* · Cited by 2 sources
+*££ · the flower-covered ones* · Cited by 3 sources
 
 Flower-covered frontages, Mediterranean all-day food and a bottomless brunch.
 
@@ -468,7 +566,7 @@ The format is **mezze you assemble yourself**: dips, flatbreads, small plates an
 
 ### Ottolenghi, five sites
 
-*£££ · the counter* · Cited by 2 sources
+*£££ · the counter* · Cited by 8 sources · #8 of 25 in Time Out's breakfasts
 
 Deli counters piled with salads and cakes, with shared tables; the Good Food Guide singles out the morning trade. [Islington](https://ottolenghi.co.uk/pages/restaurants/islington), Notting Hill, Spitalfields, Chelsea and Marylebone.
 
@@ -489,19 +587,19 @@ Counter service and communal seating, so it suits one or two people better than 
 * **Cosy Café**, Newham — **£6.50**, the cheapest of the thirteen priced. *Cited by 1 source*
 * **Astral Café**, Pimlico — **£8.70**. *Cited by 1 source*
 * **George's Café**, Leytonstone — **£8.80**. *Cited by 1 source*
-* **The Ritz Café**, Hammersmith — **£8.90**, British-Turkish, open from 6.30am and every breakfast comes with tea. *Cited by 2 sources*
+* **The Ritz Café**, Hammersmith — **£8.90**, British-Turkish, open from 6.30am and every breakfast comes with tea. *Cited by 3 sources*
 * **Riccardo's Café**, Liverpool Street — **£9**. *Cited by 1 source*
 * **Half Moon Café**, Hammersmith — **£9.20**. *Cited by 1 source*
 
 #### The caffs
 
-* **Regency Café**, Westminster — a **set breakfast at £9.99**. Open since 1946, black-tiled, with orders shouted across the room. Monday to Saturday, 7am to 3.30pm, closed Sundays. *Cited by 3 sources*
-* **Terry's Café**, Southwark — the Standard is **£15.50** and the Works **£18.50** with Cumberland sausage, bubble and squeak and black pudding. Daily 7.30am–3pm. Home-cured bacon, and a family running it since 1982. *Cited by 4 sources*
-* **E Pellicci**, Bethnal Green — Grade II listed and family-run since 1900. Cash-friendly, closed Sundays. *Cited by 3 sources*
-* **The Electric Café**, West Norwood. *Cited by 3 sources*
-* **The River Café**, Putney Bridge — **£11.60**. The caff, not the Michelin-starred Italian in Hammersmith; two sources name this one and mean the fry-up. *Cited by 2 sources*
-* **Andrew's Café**, Holborn — **£11.80**, running since the 1970s. *Cited by 2 sources*
-* **Billingsgate Café**, Poplar — **£13**, opening for the fish market. *Cited by 2 sources*
+* **Regency Café**, Westminster — a **set breakfast at £9.99**. Open since 1946, black-tiled, with orders shouted across the room. Monday to Saturday 7am to 3.30pm, Sunday 9am to 3pm. *Cited by 9 sources · #2 of 8 in Time Out's greasy spoons*
+* **Terry's Café**, Southwark — the Standard is **£15.50** and the Works **£18.50** with Cumberland sausage, bubble and squeak and black pudding. Daily 7.30am–3pm. Home-cured bacon, and a family running it since 1982. *Cited by 11 sources · #4 of 8 in Time Out's greasy spoons*
+* **E Pellicci**, Bethnal Green — Grade II listed and family-run since 1900. Cash-friendly, closed Sundays. *Cited by 12 sources · #1 of 8 in Time Out's greasy spoons and #6 of 25 in its breakfasts*
+* **The Electric Café**, West Norwood. *Cited by 3 sources · #5 of 8 in Time Out's greasy spoons*
+* **The River Café**, Putney Bridge — **£11.60**. The caff, not the Michelin-starred Italian in Hammersmith; three sources name this one and mean the fry-up. *Cited by 3 sources · #3 of 8 in Time Out's greasy spoons*
+* **Andrew's Café**, Holborn — **£11.80**, running since the 1970s. *Cited by 2 sources · #7 of 8 in Time Out's greasy spoons*
+* **Billingsgate Café**, Poplar — **£13**, opening for the fish market. *Cited by 3 sources*
 
 #### Pubs and odd hours
 
@@ -519,16 +617,24 @@ Counter service and communal seating, so it suits one or two people better than 
 
 ## Also named, briefly
 
-Six more rooms, each named by two independent sources.
+Rooms that two or more independent sources name, in order of how many.
 
 | Venue | Area | Cited by | What it is |
 | --- | --- | --- | --- |
-| **[Common Ground](https://www.commongroundlondon.co.uk/)** | Finsbury Park | 2 | A garden, a gently enforced no-laptop policy and a potato latke eggs benedict, at 49 Stroud Green Road |
-| **[The Good Egg](https://the-good-egg-neighbourhood-restaurant-stoke-newington.resos.com/booking)** | Stoke Newington | 2 | Middle Eastern street food across separate brekky and brunch menus on Church Street, with a second London room inside Eat17 in Walthamstow. Books online |
-| **[Corrochio's](http://corrochios.com/)** | Dalston | 2 | A Mexican dining room on Stoke Newington Road doing brunch tortas and chilaquiles with a fried egg dribbling into the refried beans, and margaritas alongside |
-| **Sunday** | Islington | 2 | Brioche french toast and a courgette fritter at 169 Hemingford Road, and the weekend queue that goes with them |
+| **[The Good Egg](https://the-good-egg-neighbourhood-restaurant-stoke-newington.resos.com/booking)** | Stoke Newington | 5 | Middle Eastern street food across separate brekky and brunch menus on Church Street, with a second London room inside Eat17 in Walthamstow. Books online |
+| **Sunday** | Islington | 5 | Brioche french toast and a courgette fritter at 169 Hemingford Road, and the weekend queue that goes with them. #15 of 15 in Time Out's brunches |
+| **[Corrochio's](http://corrochios.com/)** | Dalston | 4 | A Mexican dining room on Stoke Newington Road doing brunch tortas and chilaquiles with a fried egg dribbling into the refried beans, and margaritas alongside. #1 of 15 in Time Out's brunches |
+| **[Juliet's Quality Foods](https://juliets.london/)** | Tooting | 4 | Hollandaise infused with espresso and a house cornbread built for hand-churned butter, on a busy stretch of Tooting high street |
+| **[Café Cecilia](https://www.cafececilia.com/)** | Hackney | 3 | Max Rocha's room at Canal Place, Andrews Road, with a Sunday-only breakfast from 9am to 10.30am. #7 of 25 in Time Out's breakfasts |
+| **[Chet's](https://www.chetsrestaurant.co.uk/)** | Shepherd's Bush | 3 | A Thai-American diner inside The Hoxton hotel on Shepherd's Bush Green, with its own breakfast menu from 7am every day and a separate weekend brunch menu |
+| **[Common Ground](https://www.commongroundlondon.co.uk/)** | Finsbury Park | 3 | A garden, a gently enforced no-laptop policy and a potato latke eggs benedict, at 49 Stroud Green Road |
+| **[Eggbreak](https://eggbreak.com/)** | Notting Hill | 3 | Eggs all day at 30 Uxbridge Street: Turkish eggs with a cheese toastie (£18.50), hot honey French toast (£17.50) and a breakfast burger. Open 8am on weekdays and weekends |
+| **[Honey & Co Daily](https://honeyandco.co.uk/places/honey-co-daily/)** | Bloomsbury | 3 | The deli, bakery and dining room at 19–21 Store Street doing shakshuka and braised eggs for breakfast. Closed Sundays, and some tables are kept for walk-ins |
+| **[Lantana](https://lantana.co.uk/)** | Fitzrovia, London Bridge, Shoreditch | 3 | The Australian café group that calls itself the original Aussie brunch; London Bridge opens at 7.30am on weekdays and 9am at weekends |
+| **[Mae + Harvey](http://www.maeandharvey.com/)** | Bow | 3 | A café at 414–416 Roman Road whose kitchen runs 8.30am–3pm on weekdays and 9am–3pm at weekends |
+| **[The Black Penny](https://www.theblackpenny.com/locations/covent-garden)** | Covent Garden | 3 | Two floors in a 19th-century building at 34 Great Queen Street, opening at 8am on weekdays. Tables are held for walk-ins; book for weekend brunch |
+| **[The Dusty Knuckle](https://www.thedustyknuckle.com/dalston-cafe)** | Dalston | 3 | The bakery's own café: weekday breakfast from 9am to 11am is egg and chilli cheese on focaccia (£7.60) or a bacon sarnie (£8.50) |
 | **[Brickwood](https://www.brickwoodcafes.co.uk/)** | Clapham | 2 | An Antipodean café on Clapham Common South Side, with more of them south of the river in Balham, Battersea and Putney |
-| **[Juliet's Quality Foods](https://juliets.london/)** | Tooting | 2 | Hollandaise infused with espresso and a house cornbread built for hand-churned butter, on a busy stretch of Tooting high street |
 
 ---
 

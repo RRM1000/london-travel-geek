@@ -502,6 +502,16 @@
     "Swan London": "Swan at Shakespeare's Globe",
     "Towpath Cafe": "Towpath",
     "TOWPATH": "Towpath",
+    "Caravan King’s Cross": "Caravan",
+    "Caravan London Bridge": "Caravan",
+    "Brother Marcus Borough": "Brother Marcus",
+    "Ozone Coffee": "Ozone Coffee Roasters",
+    "Ozone Coffee Roasters Cafe": "Ozone Coffee Roasters",
+    "Mount St": "Mount Street Restaurant",
+    "Mount St.": "Mount Street Restaurant",
+    "Mount St Restaurant": "Mount Street Restaurant",
+    "Mount St. Restaurant": "Mount Street Restaurant",
+    "Pavyllon London": "Pavyllon",
     "Wagtail Rooftop Bar & Restaurant": "Wagtail",
     "Wright Brothers Battersea": "Wright Brothers Battersea Power Station",
     "Romulo": "Romulo Café & Restaurant",
@@ -648,5 +658,6 @@
     "The Swan at the Globe / Swan London": "Insider Food's chapter marker says 'Swan London'. Merged to The Swan at the Globe on judgement 2026-09-21 - the Globe's restaurant is the only Swan doing afternoon tea in London, but this was not stated by the source.",
     "Café Rouge": "A chain, named by two tier-C sources for afternoon tea. Left in the corpus but it is a borderline scope call against 'afternoon tea served as a sitting, with a stand'."
   },
+  "whyBreakfastNamesMerge": "Breakfast refresh, 22 Nov 2026. MERGED: Mount St, Mount St. Restaurant and Mount Street Restaurant are one Mayfair dining room; Cafe Jikoni (V&A East Museum, Stratford) and Jikoni (Blandford Street, Marylebone) are two places; the Caravan sites, the Brother Marcus sites and the Ozone Coffee Roasters cafes are counted brand-level, the way Dishoom is. DELIBERATELY NOT MERGED: Honey & Co (Lamb’s Conduit Street) and Honey & Co Daily (Store Street) are two places on honeyandco.co.uk, and sources that write only Honey & Co Bloomsbury do not say which; Beam, Beam Notting Hill and Cafe Beam (Highbury) may be one group or two; Sunday (Barnsbury) and Sunday in Brooklyn (Notting Hill) are different restaurants; Sam’s Waterside, Sam’s Kitchen and Sam’s Cafe; St. JOHN and St John Neal’s Yard Wine Bar; Milk and Milk Beach.",
   "whySushiNamesMerge": "Sushi pass, 17 Oct 2026. MERGED: Taku Mayfair to Taku; Eel Sushi Bar to Eel Sushi; Jugemu to Nanahoshi (renamed); INE / INE by Taku to Ine; Temaki Brixton and Temaki Mayfair to Temaki (one handroll bar that moved from Brixton Village to Mayfair); the branches of Sushi Show, Atari-Ya, Eat Tokyo, Roka and Chisou to the brand; Sushi Samba's City and Covent Garden sites to SUSHISAMBA. DELIBERATELY NOT MERGED: Dinings SW3 (Lennox Gardens Mews, Chelsea) and Dinings Marylebone (Harcourt Street) are two restaurants that share an owner; Sushi Amamoto and Taku share a dining room but Taku was Takuya Watanabe's restaurant and Amamoto has a new chef-patron, so sources that wrote Taku stay on Taku; Endo at the Rotunda (closed by fire, September 2025) and ENDO Chelsea (2026) are different rooms; Yashin Sushi and Yashin Ocean House; Noren by Chisou and Chisou; Café Japan merges to Atari-Ya because Atariya's own site lists Atariya Café Japan, 626 Finchley Road, as one of its restaurants; Sumi in Notting Hill and the Sumi opening in Marylebone; Kikuchi (Hanway Street) and Nanahoshi (chef Yuya Kikuchi)."
 }

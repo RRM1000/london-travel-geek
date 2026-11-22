@@ -375,6 +375,11 @@
       "tier": "B",
       "name": "Fact Magazines"
     },
+    "diningawards.factmagazines.com": {
+      "tier": "A",
+      "name": "FACT Dining Awards",
+      "note": "Registered 22 Nov 2026 for breakfast-brunch. Dated annual awards with two winners per category: BEST, decided by a panel of independent experts plus mystery-shopper reports, and FAVOURITE, an online public vote. Only BEST is recorded as an award; a FAVOURITE is a vote, not a judgement. The London 2026 Breakfast BEST is Hide."
+    },
     "factlondon.com": {
       "tier": "B",
       "name": "Fact London"
@@ -666,6 +671,10 @@
     "youtube.com/@HarrisonWebb97": {
       "tier": "D",
       "name": "Harrison Webb (YouTube)"
+    },
+    "youtube.com/@Grackle": {
+      "tier": "D",
+      "name": "Grackle (YouTube)"
     },
     "youtube.com/@harrykersh": {
       "tier": "D",

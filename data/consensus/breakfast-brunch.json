@@ -1,7 +1,7 @@
 {
   "cuisine": "breakfast-brunch",
-  "note": "Seeded 2026-08-25.",
-  "recorded": "2026-08-31",
+  "note": "Seeded 2026-08-25; refreshed 2026-11-22.",
+  "recorded": "2026-11-22",
   "sources": [
     {
       "name": "Candace Abroad",
@@ -297,15 +297,25 @@
       }
     },
     {
-      "name": "Harrison Webb (best bottomless brunch, 726k views, 2025)",
+      "name": "Harrison Webb (bottomless brunch, 726k views, 2025; every 5-star hotel breakfast, 772k views, Mar 2026)",
       "url": "https://www.youtube.com/@HarrisonWebb97",
       "scope": "breakfast-brunch",
       "names": [
         "Darcie & May Green",
         "Las Iguanas",
         "Megan's",
-        "The 411"
-      ]
+        "The 411",
+        "The Landmark London",
+        "Pavyllon",
+        "The Lanesborough",
+        "E. Pellicci",
+        "abc kitchens",
+        "Hotel Cafe Royal"
+      ],
+      "quotes": {
+        "abc kitchens": "abc Kitchens at The Emory, Belgravia",
+        "Hotel Cafe Royal": "Hotel Cafe Royal, Air Street"
+      }
     },
     {
       "name": "@alexalexgalaxy (165k views, Oct 2025)",
@@ -344,12 +354,756 @@
       "quotes": {
         "Rise & Dine Cafe": "GBP 5 English breakfast"
       }
+    },
+    {
+      "name": "Time Out (The 15 best brunch restaurants in London, 2026)",
+      "url": "https://www.timeout.com/london/restaurants/the-best-brunches-in-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Corrochio's",
+        "Jikoni",
+        "Mr Bao",
+        "Dishoom",
+        "Johnny Boy's",
+        "Chuku's",
+        "Lolo Bermondsey Street",
+        "Akub",
+        "The Laundry",
+        "Aram",
+        "Mae + Harvey",
+        "Pavilion Cafe",
+        "Milk",
+        "The Table Cafe",
+        "Sunday"
+      ],
+      "quotes": {
+        "Corrochio's": "#1 of 15, Time Out best brunches 2026",
+        "Jikoni": "#2 of 15, Time Out best brunches 2026",
+        "Mr Bao": "#3 of 15, Time Out best brunches 2026",
+        "Dishoom": "#4 of 15 - Permit Room Portobello - Dishoom's all-day cafe in Notting Hill, Time Out best brunches 2026",
+        "Johnny Boy's": "#5 of 15, Time Out best brunches 2026",
+        "Chuku's": "#6 of 15, Time Out best brunches 2026",
+        "Lolo Bermondsey Street": "#7 of 15, Time Out best brunches 2026",
+        "Akub": "#8 of 15, Time Out best brunches 2026",
+        "The Laundry": "#9 of 15, Time Out best brunches 2026",
+        "Aram": "#10 of 15, Time Out best brunches 2026",
+        "Mae + Harvey": "#11 of 15, Time Out best brunches 2026",
+        "Pavilion Cafe": "#12 of 15, Time Out best brunches 2026",
+        "Milk": "#13 of 15, Time Out best brunches 2026",
+        "The Table Cafe": "#14 of 15, Time Out best brunches 2026",
+        "Sunday": "#15 of 15, Time Out best brunches 2026"
+      }
+    },
+    {
+      "name": "Time Out (The 25 best breakfast restaurants in London, 2026)",
+      "url": "https://www.timeout.com/london/restaurants/the-best-breakfasts-in-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "The Angel",
+        "Clementine",
+        "Koya Soho",
+        "Cafe Jikoni",
+        "Martino's",
+        "E. Pellicci",
+        "Cafe Cecilia",
+        "Ottolenghi",
+        "The Wolseley",
+        "St John Neal's Yard Wine Bar",
+        "The Market Coffee House & Bar",
+        "Fallow",
+        "Honey & Co",
+        "Dishoom",
+        "Fink's at Clissold House",
+        "The Tamil Prince",
+        "Pavyllon",
+        "26 Grains",
+        "HOKO Cafe",
+        "Ikoi",
+        "Leo's",
+        "Toklas Bakery",
+        "Colbert",
+        "Mount Street Restaurant",
+        "The Table Cafe"
+      ],
+      "quotes": {
+        "The Angel": "#1 of 25, Time Out best breakfasts 2026",
+        "Clementine": "#2 of 25, Time Out best breakfasts 2026",
+        "Koya Soho": "#3 of 25, Time Out best breakfasts 2026",
+        "Martino's": "#5 of 25, Time Out best breakfasts 2026",
+        "E. Pellicci": "#6 of 25, Time Out best breakfasts 2026",
+        "Cafe Cecilia": "#7 of 25, Time Out best breakfasts 2026",
+        "Ottolenghi": "#8 of 25, Time Out best breakfasts 2026",
+        "The Wolseley": "#9 of 25, Time Out best breakfasts 2026",
+        "St John Neal's Yard Wine Bar": "#10 of 25, Time Out best breakfasts 2026",
+        "The Market Coffee House & Bar": "#11 of 25, Time Out best breakfasts 2026",
+        "Fallow": "#12 of 25, Time Out best breakfasts 2026",
+        "Honey & Co": "#13 of 25, Time Out best breakfasts 2026",
+        "Dishoom": "#14 of 25, Time Out best breakfasts 2026",
+        "Fink's at Clissold House": "#15 of 25, Time Out best breakfasts 2026",
+        "The Tamil Prince": "#16 of 25, Time Out best breakfasts 2026",
+        "Pavyllon": "#17 of 25, Time Out best breakfasts 2026",
+        "26 Grains": "#18 of 25, Time Out best breakfasts 2026",
+        "HOKO Cafe": "#19 of 25, Time Out best breakfasts 2026",
+        "Ikoi": "#20 of 25, Time Out best breakfasts 2026",
+        "Leo's": "#21 of 25, Time Out best breakfasts 2026",
+        "Toklas Bakery": "#22 of 25, Time Out best breakfasts 2026",
+        "Colbert": "#23 of 25, Time Out best breakfasts 2026",
+        "Mount Street Restaurant": "#24 of 25 - Mount Street Restaurant, Time Out best breakfasts 2026",
+        "The Table Cafe": "#25 of 25, Time Out best breakfasts 2026",
+        "Cafe Jikoni": "#4 of 25, Time Out best breakfasts 2026"
+      }
+    },
+    {
+      "name": "The Infatuation (The 18 best breakfasts in London)",
+      "url": "https://www.theinfatuation.com/london/guides/best-breakfast-meeting-business-restaurants-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Common Ground",
+        "Edami",
+        "Mae + Harvey",
+        "Avobar",
+        "Bolland & Crust",
+        "Cafe Cecilia",
+        "Inis",
+        "Emy's Kitchen",
+        "Towpath",
+        "Maria's Market Cafe",
+        "The Table Cafe",
+        "Fallow",
+        "Esters",
+        "Ta'mini Lebanese Bakery",
+        "Heart Of Balham",
+        "Koya Soho",
+        "E. Pellicci",
+        "Ozone Coffee Roasters"
+      ],
+      "quotes": {
+        "Ozone Coffee Roasters": "Ozone Coffee - London Fields"
+      }
+    },
+    {
+      "name": "The Infatuation (The 11 best full English breakfasts in London)",
+      "url": "https://www.theinfatuation.com/london/guides/best-full-english-breakfast-in-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Bolland & Crust",
+        "Terry's Cafe",
+        "Maison Francois",
+        "Beppe's Cafe",
+        "Chunnel Bar",
+        "215 Hackney",
+        "Fallow",
+        "E. Pellicci",
+        "Heart Of Balham",
+        "Beam",
+        "Inis"
+      ]
+    },
+    {
+      "name": "Olive Magazine (24 best brunches in London 2026)",
+      "url": "https://www.olivemagazine.com/restaurants/london/best-brunches-and-breakfasts-in-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Friends of Ours",
+        "Honey & Co Daily",
+        "Rail House Cafe",
+        "Sam's Waterside",
+        "Margot Green",
+        "Aram",
+        "Yauatcha",
+        "Dovetale",
+        "Portobello 177",
+        "Mount Street Restaurant",
+        "Brother Marcus",
+        "Ottolenghi",
+        "Sunday in Brooklyn",
+        "Where The Pancakes Are",
+        "Eggslut",
+        "Milk Beach",
+        "Crispin",
+        "Kiss The Hippo",
+        "Dishoom",
+        "Soderberg",
+        "Ozone Coffee Roasters",
+        "Koya Soho",
+        "The Wolseley",
+        "Esters"
+      ],
+      "quotes": {
+        "Honey & Co Daily": "Honey & Co. Daily, Bloomsbury",
+        "Mount Street Restaurant": "Mount St. Restaurant, Mayfair",
+        "Ozone Coffee Roasters": "Ozone, Shoreditch",
+        "Koya Soho": "Koya, Soho and City"
+      }
+    },
+    {
+      "name": "Luxury London (The best brunches in London in 2026)",
+      "url": "https://luxurylondon.co.uk/taste/food/the-best-brunches-in-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Pan Pacific London",
+        "Shanghai Me",
+        "Serra at The Chancery Rosewood",
+        "Kolamba",
+        "Mallow",
+        "Pavyllon",
+        "Nela at The Whiteley",
+        "Amelie",
+        "Berners Tavern",
+        "Brother Marcus",
+        "Jikoni",
+        "Sexy Fish",
+        "Daisy Green",
+        "Claridge's",
+        "Dishoom",
+        "Duck & Waffle",
+        "Granger & Co",
+        "Ottolenghi"
+      ],
+      "quotes": {
+        "Kolamba": "Kolamba East, Liverpool Street"
+      }
+    },
+    {
+      "name": "Country & Town House (Best brunch in London 2026)",
+      "url": "https://www.countryandtownhouse.com/food-and-drink/best-brunches-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Kitchen at Holmes",
+        "Mount Street Restaurant",
+        "Peggy Jean",
+        "The Buttery",
+        "Khao Bird",
+        "Jikoni",
+        "Ottolenghi",
+        "COYA Mayfair",
+        "Rondo at The Hoxton",
+        "Madera at Treehouse London",
+        "Milk",
+        "Rail House Cafe",
+        "The Wolseley"
+      ],
+      "quotes": {
+        "Mount Street Restaurant": "Mount St. Restaurant, Mayfair"
+      }
+    },
+    {
+      "name": "Condé Nast Traveller (Best brunch in London, updated November 2026)",
+      "url": "https://www.cntraveller.com/gallery/best-brunch-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Clementine",
+        "Brunswick East",
+        "Aram",
+        "One Club Row",
+        "Bubala",
+        "Hide",
+        "Fallow",
+        "Peggy Jean",
+        "Sunday in Brooklyn",
+        "Twenty8 NoMad",
+        "The Aubrey",
+        "Archie's",
+        "Common Ground",
+        "Lucky Cat",
+        "Dishoom",
+        "Sune",
+        "Decimo",
+        "Khao Bird",
+        "Holy Carrot",
+        "Mr Bao",
+        "Milk",
+        "Double Standard",
+        "Milk Beach",
+        "Akub"
+      ],
+      "quotes": {
+        "Dishoom": "Permit Room Dishoom, Notting Hill"
+      }
+    },
+    {
+      "name": "Hot Dinners (The best London restaurants for brunch, 1 September 2026)",
+      "url": "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-brunch-dishes-london-restaurants",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Bistrotheque",
+        "Decimo",
+        "Akub",
+        "The Park",
+        "The Angel",
+        "Boisdale",
+        "Lantana",
+        "Abuelo",
+        "Honey & Co Daily",
+        "Burnt",
+        "Brother Marcus",
+        "Fallow",
+        "Chet's",
+        "Sunday",
+        "Milk",
+        "Esters",
+        "Sunday in Brooklyn",
+        "Juliet's Quality Foods"
+      ],
+      "quotes": {
+        "Honey & Co Daily": "Honey & Co. Daily"
+      },
+      "_note": "The page also lists Straits Kitchen, marked 'Promoted listing' on the page; left out as paid placement."
+    },
+    {
+      "name": "SquareMeal (Best brunches in London, updated October 2026)",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-brunch-london_9457",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Dishoom",
+        "Friends of Ours",
+        "Nessa",
+        "Brother Marcus",
+        "Riding House Cafe",
+        "Megan's",
+        "Ara",
+        "The Brush East London Grand Cafe",
+        "Mortimer House Kitchen",
+        "Milk",
+        "Eggbreak",
+        "Akub",
+        "Fallow",
+        "Sam's Kitchen",
+        "SUSHISAMBA",
+        "Sunday in Brooklyn",
+        "Roe",
+        "Agrodolce",
+        "abc kitchens",
+        "Milk Beach",
+        "Granger & Co",
+        "Honey & Co Bloomsbury",
+        "Boxcar Bread & Wine",
+        "Richoux",
+        "The Buttery",
+        "Baudry Green",
+        "The Black Penny",
+        "Balans",
+        "Hide",
+        "Aram",
+        "Los Mochis",
+        "Duck & Waffle",
+        "Peggy Jean"
+      ],
+      "quotes": {
+        "Honey & Co Bloomsbury": "Honey & Co, Bloomsbury"
+      }
+    },
+    {
+      "name": "SquareMeal (Best breakfasts in London, updated June 2026)",
+      "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-breakfasts-london_10464",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Maison Francois",
+        "Nessa",
+        "The Wolseley",
+        "Honey & Co Bloomsbury",
+        "Fischer's",
+        "Fallow",
+        "Brother Marcus",
+        "Cafe Beam",
+        "Pophams",
+        "Los Mochis",
+        "The Park",
+        "Sunday in Brooklyn",
+        "Megan's",
+        "Soderberg",
+        "Sylva",
+        "Botanica Hall",
+        "Tashas",
+        "Terry's Cafe",
+        "Roe",
+        "Cafe Mission",
+        "Dishoom",
+        "Sticks 'n' Sushi",
+        "The Dusty Knuckle"
+      ],
+      "quotes": {
+        "Honey & Co Bloomsbury": "Honey & Co, Bloomsbury"
+      }
+    },
+    {
+      "name": "Evening Standard (London's very best breakfasts, September 2025)",
+      "url": "https://www.standard.co.uk/going-out/restaurants/london-best-breakfasts-full-english-fry-up-b1172865.html",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Mount Street Restaurant",
+        "Claridge's",
+        "The River Cafe",
+        "Regency Cafe",
+        "Dean Street Townhouse",
+        "Dishoom",
+        "The Delaunay",
+        "The Wolseley",
+        "Hide",
+        "The River Restaurant at The Savoy",
+        "Terry's Cafe",
+        "The Dorchester",
+        "Sam's Kitchen",
+        "Duck & Waffle",
+        "The Black Penny",
+        "Imad's Syrian Kitchen",
+        "Maison Francois",
+        "E. Pellicci",
+        "The Goring",
+        "45 Jermyn St",
+        "The Table Cafe",
+        "Honey & Co Bloomsbury",
+        "The Park",
+        "Fallow",
+        "Bangers",
+        "The Barley Mow",
+        "Bar Bruno",
+        "Hoko Cafe",
+        "Dosa n Chutney",
+        "Bafta"
+      ],
+      "quotes": {
+        "Mount Street Restaurant": "Mount St Restaurant",
+        "The River Cafe": "The River Cafe Cafe",
+        "Terry's Cafe": "Terry's",
+        "The Table Cafe": "The Table Cafe Southwark"
+      }
+    },
+    {
+      "name": "Evening Standard (The best brunches in London, August 2025)",
+      "url": "https://www.standard.co.uk/going-out/restaurants/brunch-london-restaurants-breakfast-b1207934.html",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Terry's Cafe",
+        "Ozone Coffee Roasters",
+        "Milk Beach",
+        "Mr Bao",
+        "Lina Stores",
+        "Esters",
+        "Ottolenghi",
+        "Dishoom",
+        "Park Chinois",
+        "Santo Remedio",
+        "Jikoni",
+        "Caravan",
+        "Granger & Co",
+        "Pavilion Cafe",
+        "Tashas",
+        "Mount Street Restaurant",
+        "Lantana",
+        "Fallow",
+        "The Good Egg",
+        "Sune",
+        "The River Cafe",
+        "Juliet's Quality Foods",
+        "Morito Hackney Road",
+        "Towpath",
+        "Sol's",
+        "Toast Rack Bake House",
+        "Mae + Harvey",
+        "Sam's Cafe"
+      ],
+      "quotes": {
+        "Terry's Cafe": "Terry's",
+        "Ozone Coffee Roasters": "Ozone",
+        "Tashas": "Tasha's",
+        "Mount Street Restaurant": "Mount St.",
+        "The River Cafe": "River Cafe Cafe",
+        "Juliet's Quality Foods": "Juliet's",
+        "Towpath": "Towpath Cafe"
+      }
+    },
+    {
+      "name": "Secret London (The best brunch in London right now)",
+      "url": "https://secretldn.com/best-brunch-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Mount Street Restaurant",
+        "Fallow",
+        "Morena",
+        "Lina Stores",
+        "Dishoom",
+        "COYA Mayfair",
+        "Kolamba",
+        "Sunday",
+        "The Good Egg",
+        "Coal Office",
+        "Double Standard",
+        "The Laundry",
+        "Lantana",
+        "Arepa & Co",
+        "Nandine",
+        "Caravan",
+        "Kachori",
+        "Mr Bao",
+        "Jones & Sons",
+        "Corrochio's",
+        "Pavilion Cafe",
+        "Brother Marcus",
+        "Akub",
+        "Los Mochis",
+        "Chet's",
+        "Beam",
+        "The Table Cafe"
+      ],
+      "quotes": {
+        "Mount Street Restaurant": "Mount St, Mayfair",
+        "Sunday": "Sunday, Barnsbury",
+        "Caravan": "Caravan, London Bridge",
+        "The Table Cafe": "The Table Cafe, Battersea"
+      },
+      "_note": "Numbered 1-27 on the page, but the page does not say the numbering is an order, so no ranks are recorded."
+    },
+    {
+      "name": "Secret London (The best breakfasts in London)",
+      "url": "https://secretldn.com/best-breakfasts-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Regency Cafe",
+        "Koya Soho",
+        "Terry's Cafe",
+        "Claridge's",
+        "Fallow",
+        "Mount Street Restaurant",
+        "Ottolenghi",
+        "Urban Social",
+        "E. Pellicci",
+        "Honey & Co",
+        "Brother Marcus",
+        "Dishoom",
+        "The Wolseley",
+        "Eggbreak",
+        "Caravan",
+        "Granger & Co",
+        "Duck & Waffle",
+        "26 Grains",
+        "The Breakfast Club",
+        "Eggslut",
+        "Where The Pancakes Are",
+        "Norman's Cafe",
+        "The Table Cafe",
+        "Momlette",
+        "The Tamil Prince"
+      ],
+      "quotes": {
+        "Regency Cafe": "The Regency Cafe, St James's",
+        "Mount Street Restaurant": "Mount St, Bond Street"
+      },
+      "_note": "Numbered 1-25 on the page, but the page does not say the numbering is an order, so no ranks are recorded."
+    },
+    {
+      "name": "The Handbook (The best breakfast spots in London, updated October 2026)",
+      "url": "https://www.thehandbook.com/best-breakfast-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Vori",
+        "Fink's at Clissold House",
+        "Granger & Co",
+        "Cedric Grolet at The Berkeley",
+        "Sanderson",
+        "Dishoom",
+        "Claridge's",
+        "Inis",
+        "The Dusty Knuckle",
+        "St. JOHN",
+        "Fallow",
+        "Pavyllon",
+        "Colbert",
+        "Mount Street Restaurant",
+        "Hide",
+        "La Maison Ani",
+        "Regency Cafe",
+        "Zahter",
+        "Maison Francois",
+        "Don't Tell Dad",
+        "The Tamil Prince",
+        "E. Pellicci",
+        "Yopo",
+        "Towpath",
+        "45 Jermyn St"
+      ],
+      "quotes": {
+        "Claridge's": "Claridge's Foyer & Reading Room",
+        "Mount Street Restaurant": "Mount St. Restaurant"
+      }
+    },
+    {
+      "name": "London x London (Best breakfasts in London: 16 places with prices, September 2026)",
+      "url": "https://www.londonxlondon.com/best-breakfasts-in-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Terry's Cafe",
+        "Regency Cafe",
+        "E. Pellicci",
+        "Maria's Market Cafe",
+        "The Wolseley",
+        "Mount Street Restaurant",
+        "Duck & Waffle",
+        "St John Neal's Yard Wine Bar",
+        "The Dusty Knuckle",
+        "Toad Bakery",
+        "Bread Ahead",
+        "Monmouth",
+        "Dishoom",
+        "Koya Soho",
+        "Leydi",
+        "The Black Penny",
+        "The Breakfast Club"
+      ],
+      "quotes": {
+        "Maria's Market Cafe": "Maria's Market Cafe, Borough Market",
+        "Terry's Cafe": "the Standard is GBP 15.50, the Works GBP 18.50; kitchen stops 2.30pm, door open until 3pm; 156-158 Great Suffolk Street",
+        "Regency Cafe": "reopened 22 July 2025 under new owners; weekdays 7am-2.30pm and 4pm-7.15pm, Saturday to noon, closed Sunday",
+        "E. Pellicci": "Grade II listed 1946 marquetry interior; 8am-3pm, closed Sunday"
+      }
+    },
+    {
+      "name": "Visit London (31 unmissable spots for the best brunch in London, 2026)",
+      "url": "https://www.visitlondon.com/things-to-do/food-and-drink/brunch-in-london",
+      "scope": "breakfast-brunch",
+      "names": [
+        "The Wolseley",
+        "Sunday in Brooklyn",
+        "Duck & Waffle",
+        "E. Pellicci",
+        "Caravan",
+        "Eggslut",
+        "Balthazar",
+        "The Good Egg",
+        "The Riding House Cafe",
+        "Granger & Co",
+        "Farm Girl",
+        "26 Grains",
+        "The Breakfast Club",
+        "CERU",
+        "Coppa Club",
+        "Lucky Cat",
+        "Dishoom",
+        "Kudu",
+        "Inamo",
+        "Sea Containers London",
+        "Hide",
+        "Aqua Shard",
+        "Ollie's House",
+        "The Gallery Cafe"
+      ],
+      "quotes": {
+        "The Riding House Cafe": "The Riding House Cafe"
+      },
+      "_note": "Entertainment brunches on the same page (immersive theatre, live music, bingo, ball pit) and the bottomless-only listings are left out; the page is the tourism board's own, and its pub and bar entries are not breakfast rooms."
+    },
+    {
+      "name": "FACT Dining Awards London 2026 - Breakfast, Best",
+      "url": "https://diningawards.factmagazines.com/portfolio/fact-dining-awards-london-2026-the-winners/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Hide"
+      ],
+      "quotes": {
+        "Hide": "Breakfast, BEST (decided by a panel of independent experts) - 2026 winner"
+      },
+      "_note": "The same category's FAVOURITE, Fallow, is decided by an online public vote and is not recorded as an award."
+    },
+    {
+      "name": "Danny & Gary (E Pellicci, Dec 2025, 372k views; Roe, May 2026, 325k views)",
+      "url": "https://www.youtube.com/@dannygaryyoutube",
+      "scope": "breakfast-brunch",
+      "names": [
+        "E. Pellicci",
+        "Roe"
+      ],
+      "quotes": {
+        "E. Pellicci": "The Best Breakfast in London! - E Pellicci",
+        "Roe": "Is This The UK's Best Breakfast? - Roe, run by the Fallow team"
+      }
+    },
+    {
+      "name": "Grackle (viral breakfast spots, Jun 2025, 113k views)",
+      "url": "https://www.youtube.com/@Grackle",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Willows",
+        "Fallow",
+        "The Ritz"
+      ],
+      "quotes": {
+        "Willows": "Willows Clapham"
+      }
+    },
+    {
+      "name": "Mark Wiens (24 hours of London food, Jun 2026, 946k views)",
+      "url": "https://www.youtube.com/@MarkWiens",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Terry's Cafe"
+      ],
+      "quotes": {
+        "Terry's Cafe": "The Works Fry-Up, Billingsgate Breakfast, Billingsgate Roll"
+      }
+    },
+    {
+      "name": "@phoodndrinx (Mar 2026, 65k plays)",
+      "url": "https://www.tiktok.com/@phoodndrinx",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Regency Cafe"
+      ],
+      "quotes": {
+        "Regency Cafe": "The best full English breakfast in London!"
+      }
+    },
+    {
+      "name": "British Food Crew (Best full English breakfast in London, July 2026)",
+      "url": "https://britishfoodcrew.com/best-full-english-breakfast-in-london/",
+      "scope": "breakfast-brunch",
+      "names": [
+        "Regency Cafe",
+        "E. Pellicci",
+        "The Wolseley",
+        "Maison Francois",
+        "Terry's Cafe",
+        "Beam",
+        "Arthur's Cafe",
+        "Dishoom",
+        "Halfcup",
+        "Yorks Cafe",
+        "Billingsgate Cafe",
+        "45 Jermyn St",
+        "Fallow",
+        "Sizzling Sausage",
+        "The Ritz Cafe"
+      ],
+      "quotes": {
+        "Regency Cafe": "1. Best Historic Classic",
+        "E. Pellicci": "2. Best Neighbourhood Institution",
+        "The Wolseley": "3. Best Power Breakfast",
+        "Maison Francois": "4. Best Elevated Presentation",
+        "Terry's Cafe": "5. Best for Big Appetites",
+        "Beam": "6. Best for Groups & Dietary Options - Westbourne Grove",
+        "Arthur's Cafe": "7. Best for the Biggest Plate - Kensal Rise",
+        "Dishoom": "8. Best British-Indian Twist",
+        "Halfcup": "9. Best Instagrammable Spot - King's Cross",
+        "Yorks Cafe": "10. Best Budget-Friendly Option - Westminster",
+        "Billingsgate Cafe": "11. Best for Early Risers",
+        "45 Jermyn St": "12. Best Classic British Elegance",
+        "Fallow": "13. Best Creative Take",
+        "Sizzling Sausage": "14. Best No-Frills Institution - Leytonstone",
+        "The Ritz Cafe": "15. Best British-Turkish Fusion Cafe - Hammersmith"
+      },
+      "_note": "Numbered 1-15 with a badge per entry; the page does not call the numbering a ranking, so no ranks are recorded. The same page is also held in the british corpus under its earlier -2026 URL."
     }
   ],
   "declined": {
     "https://www.youtube.com/@jolly": "Two London brunch films, 1.49M and 1.52M views. BOTH HOSTED - 'Thanks to Thomas, Jarod and the team at Buvette for having us' and 'Thanks to Josh and all the team at Hide for the amazing food and hospitality'. A comped meal is the venue's hospitality, not an independent citation, however large the audience.",
     "https://www.tiktok.com/@liza_kayyy": "Tomtom Coffee House, 134k views. Caption carries 'invite'.",
-    "https://www.youtube.com/@thetourguy": "Chapters name areas, not venues - 'Brunch in Seven Dials' - so there is nothing citable to record."
+    "https://www.youtube.com/@thetourguy": "Chapters name areas, not venues - 'Brunch in Seven Dials' - so there is nothing citable to record.",
+    "https://www.youtube.com/@FoodUnfilteredChef": "Hide, 16.8k views, Oct 2026. A day behind the scenes with the restaurant's executive chef and team ('I spend the day with Executive Chef Josh Angus and the team'), so the venue's own hospitality, not an independent visit.",
+    "https://www.tiktok.com/@damnthistastes": "A list of eight bottomless brunches with the restaurants' own accounts tagged. Bottomless brunch has its own guide; nothing on it is a breakfast room.",
+    "https://www.designmynight.com/london/restaurants/top-50-brunches-in-london": "Same domain as the English breakfast record already held, and a listings page: forty-odd bottomless, themed and bar brunches with booking buttons, not an editorial pick.",
+    "https://www.hot-dinners.com/Features/Hot-Dinners-recommends/best-breakfasts-in-london-restaurants-cafes": "Dated 14 May 2024, older than the 2025-26 window.",
+    "https://london.eater.com/maps/best-brunch-london": "Last modified October 2022.",
+    "https://tasteof.london/londons-best-breakfasts/": "Six listings carrying tick marks beside the names, on a site that otherwise publishes restaurant press releases.",
+    "https://www.tatler.com/gallery/best-breakfasts-and-brunches-in-london": "Last modified March 2023."
   },
   "scope": "BREAKFAST AND BRUNCH, the full range: hotel dining rooms and Michelin kitchens at one end, greasy spoons and caffs at the other, and the mini-chains in between. AWARD SWEEP, 21 Sep 2026: a judged breakfast award does now exist - the National Breakfast & Brunch Awards (breakfastbrunchawards.co.uk), hosted by Quick Serve magazine of H2O Publishing, sixteen finalists cooking four rounds in front of a judging panel. Its first published results come from the final on 23 February 2027 at Big Penny Social, London, so there is nothing to cite yet: the cognito entry forms for 2024, 2025 and 2026 all 404 and only the 2027 one resolves. Re-collect after that date. Nothing else judged covers this meal - La Liste's Hotels 2026 Special Awards run to thirteen categories and none is breakfast, and Harden's publishes no breakfast or brunch list. The cheap end is carried mostly by one specialist blog and one Time Out list, because the mastheads' brunch coverage stops well above GBP 10."
 }
