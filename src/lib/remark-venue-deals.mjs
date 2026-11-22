@@ -15,8 +15,11 @@
 // The deal pages themselves list deals in full, so they are left alone.
 import fs from "node:fs";
 
-const DEALS = "data/food-deals/deals.json";
-const SNAPSHOT = "data/snapshot-restaurants-v2.json";
+// Resolved from this file, not the working directory, so a dev server started with
+// `npm --prefix` from another folder still reads this checkout's data.
+const ROOT = new URL("../../", import.meta.url);
+const DEALS = new URL("data/food-deals/deals.json", ROOT);
+const SNAPSHOT = new URL("data/snapshot-restaurants-v2.json", ROOT);
 // The deal pages: every entry on them is already a deal, so a box would repeat it.
 // Add any new deal page here (and to MORE below if deals should point to it).
 const SKIP = /\/(food-deals-london|happy-hour-london|restaurant-deals-london|kids-eat-free-london|bottomless-brunch-london|restaurant-discount-cards-london|all-you-can-eat-london|off-peak-restaurant-apps-london)\.md$/;
@@ -67,10 +70,19 @@ function load() {
 
 const textOf = (node) => (node.value ?? "") + (node.children ?? []).map(textOf).join("");
 
-function line(d) {
+// "Mercato Metropolitano, Elephant & Castle" -> "Elephant & Castle".
+const placeOf = (title) => title.split(/\s*(?:,|\s[–—-]\s|\()\s*/).slice(1).join(" ").replace(/\)$/, "").trim();
+
+function line(d, title = "") {
   const when = [d.days, d.times].filter(Boolean).join(", ");
   const cond = (d.conditions ?? "").split(/;\s*/)[0];
   let s = d.offer.replace(/\.$/, "");
+  // A deal at one branch, under a heading that names another: say where it runs.
+  const place = placeOf(title);
+  const branch = d.branches && !/^all\b/i.test(d.branches) ? d.branches : "";
+  if (place && branch && !norm(branch).includes(norm(place)) && !norm(place).includes(norm(branch.split(/[,(]/)[0]))) {
+    s = `At ${branch}, not ${place}: ${s.charAt(0).toLowerCase()}${s.slice(1)}`;
+  }
   // A short price only: long ones repeat the offer ("£46 for two to share").
   const amount = d.price?.match(/£\d+(\.\d\d)?/)?.[0];
   if (d.price && d.price.length <= 28 && !(amount && s.includes(amount))) s += ` (${d.price})`;
@@ -105,7 +117,7 @@ export default function remarkVenueDeals() {
       const children = [{ type: "strong", data: { hProperties: { className: ["venue-deal__tag"] } }, children: [{ type: "text", value: "Deal" }] }, { type: "text", value: " " }];
       deals.slice(0, 2).forEach((d, n) => {
         if (n) children.push({ type: "text", value: " " });
-        children.push({ type: "text", value: line(d) + " " });
+        children.push({ type: "text", value: line(d, title) + " " });
         children.push({ type: "link", url: d.sourceUrl, children: [{ type: "text", value: "Offer details" }] });
         children.push({ type: "text", value: "." });
       });
