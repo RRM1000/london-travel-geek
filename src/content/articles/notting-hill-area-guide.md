@@ -74,7 +74,7 @@ heroImageAlt: "A terrace on Lancaster Road painted deep pink, white, blue and gr
 
 Notting Hill is a west London village of pastel terraces, antique arcades and a market that stretches for about a mile. This guide covers what is open when, which streets have the pastel houses, and the canal walk east to Little Venice.
 
-Portobello Road and Golborne Road are two of the streets ranked in our [best streets in London](/articles/best-streets-london/), with the day to go for each.
+Portobello Road and Golborne Road are two of the streets ranked in our [best streets in London](/articles/best-streets-london/), with the day to go for each. For the food stalls on Portobello Road and under the Westway, see our [street food guide](/articles/best-street-food-london/#portobello-road-market-notting-hill).
 
 Notting Hill has its own share of the commemorative plaques marking where notable people lived or worked - see them on our [interactive map](/plaques/?area=notting-hill).
 

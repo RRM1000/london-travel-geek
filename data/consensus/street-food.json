@@ -88,6 +88,110 @@
         "Bang Bang Oriental",
         "Market Place"
       ]
+    },
+    {
+      "name": "Lonely Planet (The insider's guide to London's Notting Hill, 2019)",
+      "url": "https://www.lonelyplanet.com/articles/the-insiders-guide-to-londons-notting-hill",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "\"There's street food of all kinds, from paella and bratwurst to crepes and churros\" on Portobello Rd, and \"at weekends the best place to find street food is Acklam Village Market on Portobello Rd\". Article dated March 2019."
+      }
+    },
+    {
+      "name": "The Nudge (Portobello Market)",
+      "url": "https://thenudge.com/portobello-market/",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "Head towards where Portobello meets Golborne Road for \"a whole load of street food traders slinging everything from Spanish paella to German bratwurst baps\"; the market is also \"a goldmine for delicious Caribbean and North African food - Jamaican patties, jerk chicken and fried dumplings\". Page last updated May 2026."
+      }
+    },
+    {
+      "name": "Kerstin Rodgers - Kerstin's Newsletter (Where to go in Portobello Road, April 2025)",
+      "url": "https://kerstinrodgers.substack.com/p/where-to-go-in-portobello-road-the",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "\"Under the Westway there is an open air street food market\": recommends the Iraqi rice stall, the Turkish stuffed gozleme and gluten-free Venezuelan arepas \"scraped fresh off the hot plate\", plus a cocktail stall with seating. Separately, Moroccan stalls at the Golborne end do a barbecue fish dinner with chips, rice and salad for about 12 pounds."
+      }
+    },
+    {
+      "name": "Candace Abroad (Portobello Market visitor tips)",
+      "url": "https://candaceabroad.com/portobello-market-tips/",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "Venture past the main road to \"local street food from Acklam Village Market on Saturdays (the jerk chicken stall here is amazing!)\"."
+      }
+    },
+    {
+      "name": "Hannah Ricketts (YouTube, 'Trying London's SECRET Food Market Was Crazy!!', July 2026)",
+      "url": "https://www.youtube.com/@HannahRicketts",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "Video on \"London's most underrated food market\" at Portobello Market; chapter markers cover Turkish gozleme, an Indian chicken tikka lunch and a Peruvian arepa tasting. Description carries general sponsor codes, no gifted or hosted visit."
+      },
+      "recorded": "2026-11-22"
+    },
+    {
+      "name": "Find Eat Go (YouTube, 'He Started With Nothing... Now He Runs a 7-Pan Paella Stall at Portobello Market in London', December 2025)",
+      "url": "https://www.youtube.com/@FindEatGo",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "Follows Simply Paella, a paella stall at Portobello Market in Notting Hill cooking seven pans at a time (chicken, seafood, chorizo and vegan); \"customers from all around the world visit to try his food\"."
+      },
+      "recorded": "2026-11-22"
+    },
+    {
+      "name": "Singapore City Walks (YouTube, 'Portobello Street Food Market - London's Most Diverse Street Food', filmed April 2025)",
+      "url": "https://www.youtube.com/@SingaporeCityWalks",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "Walks the street food stalls on Acklam Road, just off Portobello Road beside the Westway: chapters run through British, Chinese, Iraqi, Turkish, Japanese, Moroccan, Korean, Filipino, Italian, Thai, Venezuelan, Peruvian, Portuguese and Spanish stalls. Description notes free tastings from some stalls; no disclosed ad or hosted visit."
+      },
+      "recorded": "2026-11-22"
+    },
+    {
+      "name": "settime2588 (YouTube, 'London. The Street Food Market at Acklam Village, Portobello Road' and 'World Street Food in Portobello Market, London', June 2026)",
+      "url": "https://www.youtube.com/@settime2588",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "Repeated filming of the Acklam Village and Portobello Road food stalls since 2017, most recently two June 2026 videos titled 'World Street Food in Portobello Market, London' and 'Street Food From the World Over in Portobello Market, London'. Descriptions carry channel links only; no stall names."
+      },
+      "recorded": "2026-11-22"
+    },
+    {
+      "name": "Street Food Scout (YouTube, 'Venezuelan Pork Patacon + Arepas | Acklam Village Market | Portobello Market', 2023)",
+      "url": "https://www.youtube.com/@StreetFoodScout",
+      "scope": "street-food",
+      "names": [
+        "Portobello Road Market"
+      ],
+      "quotes": {
+        "Portobello Road Market": "Venezuelan street food at Acklam Village Market, Portobello: the double-fried smashed plantain patacon with pork, beans and cheese is \"one of the best street food dishes I've ever tasted\". Also filmed sausages, chips and burgers there."
+      },
+      "recorded": "2026-11-22"
     }
   ]
 }

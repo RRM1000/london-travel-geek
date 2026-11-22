@@ -3,7 +3,7 @@ title: "The Best Street Food in London: Every Market and Food Hall Compared"
 seoTitle: "Best Street Food in London 2026: Markets & Food Halls"
 description: "Every multi-trader street food venue in London compared on traders, variety, seating, vibe — and, most usefully, which days it actually exists."
 publishedAt: 2026-06-01
-updatedAt: 2026-11-15
+updatedAt: 2026-11-22
 reviewBy: 2026-11-30
 sites: [london]
 canonicalSite: london
@@ -39,9 +39,9 @@ The covered food halls trade every day, so this lists only the markets that do n
 | **Tuesday** | Maltby Street, Southbank Centre, Broadway Market, Canopy, Peckham Levels | Borough reopens; Old Spitalfields, Upmarket, Camden, Leather Lane, Whitecross Street |
 | **Wednesday** | Maltby Street, Southbank Centre, Broadway Market | Borough, plus Canopy Market at King's Cross for street food only |
 | **Thursday** | Maltby Street, Southbank Centre, Broadway Market | Borough, Canopy's street food edition, Camden's Thursday night markets, and antiques day at Old Spitalfields from 8am |
-| **Friday** | Broadway Market | Maltby Street from 5.30pm to 9pm, the Southbank Centre from noon, the full Canopy Market, the Cutty Sark market in Greenwich |
-| **Saturday** | Leather Lane and Whitecross Street | Everything: Borough from 9am, Broadway Market 9am–5pm, Maltby Street 10am–5pm, Brockley Market 10am–2pm |
-| **Sunday** | Leather Lane, Whitecross Street, Market Place St Paul's | Borough 10am–4pm, Broadway Market 10am–4pm, Maltby Street 11am–4pm, Southbank Centre, Herne Hill Market, Upmarket from 10am |
+| **Friday** | Broadway Market | Maltby Street from 5.30pm to 9pm, the Southbank Centre from noon, the full Canopy Market, the Cutty Sark market in Greenwich, hot food stalls on Portobello Road and Acklam Road |
+| **Saturday** | Leather Lane and Whitecross Street | Everything: Borough from 9am, Broadway Market 9am–5pm, Maltby Street 10am–5pm, Brockley Market 10am–2pm, Portobello Road at its fullest |
+| **Sunday** | Leather Lane, Whitecross Street, Market Place St Paul's, the Portobello Road street stalls | Borough 10am–4pm, the Acklam food market under the Westway, Broadway Market 10am–4pm, Maltby Street 11am–4pm, Southbank Centre, Herne Hill Market, Upmarket from 10am |
 
 **Borough trades seven days a week from 30 November**, apart from 25–27 December and 1 January, and the Cutty Sark street food market's last day of 2026 is 29 November.
 
@@ -91,6 +91,7 @@ The covered food halls trade every day, so this lists only the markets that do n
 | **Upmarket, Brick Lane** | Brick Lane | Market hall | 40+ | Pan-global | Scarce | Daily, **11am–6pm; Sunday from 10am** |
 | **Maltby Street** | Bermondsey | Market | ~11 + arches | French, Ethiopian, Cuban, Greek | Scarce | **Fri 5.30–9pm, Sat, Sun only** |
 | **Broadway Market** | Hackney | Market | Not published | Global, plus produce | Scarce | **Sat and Sun only** |
+| **Portobello Road Market** | Notting Hill | Market | Not published | Spanish, Iraqi, Turkish, Venezuelan, Caribbean, North African | Standing, tables at a few stalls | **Fri–Sun**, Sat is the full market |
 | **Southbank Centre Food Market** | Waterloo | Market | 30–40 | Dosas, Afghan, Vietnamese | Scarce | **Fri–Sun only** |
 | **Canopy Market** | King's Cross | Market | ~20 | Spanish, Greek, Thai, oysters | Some, covered | **Wed–Sun only** |
 | **Food Hall @ 17&Central** | Walthamstow | Food hall | 8 + bar | Mexican, Neapolitan pizza, South Asian, wok | Plenty, plus soft play | Daily from 9am |
@@ -242,6 +243,20 @@ Global street food alongside produce, bakery and cheese, on a street of shops.
 The food runs to **salt beef bagels, Ghanaian and Nigerian plates, dumplings, paella, raclette and toasties**, alongside produce stalls, a cheesemonger and bakeries.
 
 **Saturday 9am–5pm and Sunday 10am–4pm.** There is no seating; take food into London Fields. **Netil Market** is two minutes away, smaller and open more days.
+
+### Portobello Road Market, Notting Hill
+
+*Food stalls Friday to Sunday · Cited by 9 sources*
+
+An antiques market with two food sections. On Portobello Road itself, in the middle of the market, street vendors serve paella, bratwurst, crêpes, churros and curry on Fridays and Saturdays. Further north, under the Westway flyover, the **Acklam food market** on Acklam Road is the larger run of stalls: Iraqi rice, Turkish gözleme, Venezuelan arepas, jerk chicken, and Korean, Filipino and Peruvian counters.
+
+![Hot food stalls on Portobello Road, with a Vietnamese stall's menu board in the foreground, a food trailer behind it and shoppers walking between the stalls](../../assets/articles/best-street-food-london/portobello-road-food-stalls.jpg)
+
+*Hot food stalls on Portobello Road. Photo: [Mike Peel](https://commons.wikimedia.org/wiki/File:At_London_2025_746.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
+
+**Simply Paella** cooks paella in several pans at 281 Portobello Road, just past the Westway. **BAO Kusina** sells bao at Acklam on Saturdays and Sundays, and **Falafel Point** trades on the road Monday to Saturday. At the Golborne Road end, Moroccan stalls grill whole sea bass, squid and prawns with chips and rice at tables with checked cloths, and the market lists North African and Caribbean street food there through the week.
+
+**Saturday is the full market and the day to go.** On Sundays outside summer and the weeks before Christmas the street market is shut, but the Acklam food market still trades. Road stalls usually run 8.30am to 6pm. Ladbroke Grove is five minutes' walk from the Westway stalls, and Notting Hill Gate is ten from the southern end. Our [best streets guide](/articles/best-streets-london/#portobello-road--antiques-on-saturday) covers the road itself.
 
 ### Old Spitalfields Market, Spitalfields
 

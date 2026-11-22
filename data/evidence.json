@@ -137946,13 +137946,13 @@
       "hot-chocolate"
     ],
     "sourceCount": 8,
-    "tierSpread": "B2 C4 D2",
+    "tierSpread": "B2 C3 D3",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "hot-chocolate": {
         "sourceCount": 8,
-        "tierSpread": "B2 C4 D2",
+        "tierSpread": "B2 C3 D3",
         "tierCount": 3,
         "hasAward": false
       }
@@ -137977,12 +137977,6 @@
       },
       {
         "tier": "C",
-        "source": "youtube.com/@settime2588",
-        "url": "https://www.youtube.com/@settime2588",
-        "quote": "Filmed at the Shoreditch shop - CHECK WHICH BRANCH, the other sources name Brick Lane."
-      },
-      {
-        "tier": "C",
         "source": "mostlyfoodandtravel.com",
         "url": "https://mostlyfoodandtravel.com/londons-dreamiest-hot-chocolates/"
       },
@@ -138001,6 +137995,12 @@
         "tier": "D",
         "source": "Rayscafe (YouTube)",
         "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "D",
+        "source": "settime2588 (YouTube)",
+        "url": "https://www.youtube.com/@settime2588",
+        "quote": "Filmed at the Shoreditch shop - CHECK WHICH BRANCH, the other sources name Brick Lane."
       }
     ]
   },
@@ -173944,11 +173944,12 @@
     "name": "Portobello Road market",
     "topics": [
       "hotels-notting-hill",
-      "markets"
+      "markets",
+      "street-food"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B1 C4",
-    "tierCount": 2,
+    "sourceCount": 14,
+    "tierSpread": "B2 C7 D5",
+    "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "hotels-notting-hill": {
@@ -173962,6 +173963,12 @@
         "tierSpread": "B1 C2",
         "tierCount": 2,
         "hasAward": false
+      },
+      "street-food": {
+        "sourceCount": 9,
+        "tierSpread": "B1 C3 D5",
+        "tierCount": 3,
+        "hasAward": false
       }
     },
     "sources": [
@@ -173969,6 +173976,12 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/shopping/best-london-markets"
+      },
+      {
+        "tier": "B",
+        "source": "Lonely Planet",
+        "url": "https://www.lonelyplanet.com/articles/the-insiders-guide-to-londons-notting-hill",
+        "quote": "\"There's street food of all kinds, from paella and bratwurst to crepes and churros\" on Portobello Rd, and \"at weekends the best place to find street food is Acklam Village Market on Portobello Rd\". Article dated March 2019."
       },
       {
         "tier": "C",
@@ -173989,6 +174002,54 @@
         "tier": "C",
         "source": "Go Wanderly",
         "url": "https://gowanderly.com/best-markets-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/portobello-market/",
+        "quote": "Head towards where Portobello meets Golborne Road for \"a whole load of street food traders slinging everything from Spanish paella to German bratwurst baps\"; the market is also \"a goldmine for delicious Caribbean and North African food - Jamaican patties, jerk chicken and fried dumplings\". Page last updated May 2026."
+      },
+      {
+        "tier": "C",
+        "source": "Kerstin Rodgers (Kerstin's Newsletter)",
+        "url": "https://kerstinrodgers.substack.com/p/where-to-go-in-portobello-road-the",
+        "quote": "\"Under the Westway there is an open air street food market\": recommends the Iraqi rice stall, the Turkish stuffed gozleme and gluten-free Venezuelan arepas \"scraped fresh off the hot plate\", plus a cocktail stall with seating. Separately, Moroccan stalls at the Golborne end do a barbecue fish dinner with chips, rice and salad for about 12 pounds."
+      },
+      {
+        "tier": "C",
+        "source": "Candace Abroad",
+        "url": "https://candaceabroad.com/portobello-market-tips/",
+        "quote": "Venture past the main road to \"local street food from Acklam Village Market on Saturdays (the jerk chicken stall here is amazing!)\"."
+      },
+      {
+        "tier": "D",
+        "source": "Hannah Ricketts (YouTube)",
+        "url": "https://www.youtube.com/@HannahRicketts",
+        "quote": "Video on \"London's most underrated food market\" at Portobello Market; chapter markers cover Turkish gozleme, an Indian chicken tikka lunch and a Peruvian arepa tasting. Description carries general sponsor codes, no gifted or hosted visit."
+      },
+      {
+        "tier": "D",
+        "source": "Find Eat Go (YouTube)",
+        "url": "https://www.youtube.com/@FindEatGo",
+        "quote": "Follows Simply Paella, a paella stall at Portobello Market in Notting Hill cooking seven pans at a time (chicken, seafood, chorizo and vegan); \"customers from all around the world visit to try his food\"."
+      },
+      {
+        "tier": "D",
+        "source": "Singapore City Walks (YouTube)",
+        "url": "https://www.youtube.com/@SingaporeCityWalks",
+        "quote": "Walks the street food stalls on Acklam Road, just off Portobello Road beside the Westway: chapters run through British, Chinese, Iraqi, Turkish, Japanese, Moroccan, Korean, Filipino, Italian, Thai, Venezuelan, Peruvian, Portuguese and Spanish stalls. Description notes free tastings from some stalls; no disclosed ad or hosted visit."
+      },
+      {
+        "tier": "D",
+        "source": "settime2588 (YouTube)",
+        "url": "https://www.youtube.com/@settime2588",
+        "quote": "Repeated filming of the Acklam Village and Portobello Road food stalls since 2017, most recently two June 2026 videos titled 'World Street Food in Portobello Market, London' and 'Street Food From the World Over in Portobello Market, London'. Descriptions carry channel links only; no stall names."
+      },
+      {
+        "tier": "D",
+        "source": "Street Food Scout (YouTube)",
+        "url": "https://www.youtube.com/@StreetFoodScout",
+        "quote": "Venezuelan street food at Acklam Village Market, Portobello: the double-fried smashed plantain patacon with pork, beans and cheese is \"one of the best street food dishes I've ever tasted\". Also filmed sausages, chips and burgers there."
       }
     ]
   },

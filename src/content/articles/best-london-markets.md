@@ -177,7 +177,7 @@ Antiques on Saturday, and a different market on the other days of the week.
 
 ![A dense crowd filling Portobello Road between market stalls and pastel shopfronts](../../assets/articles/best-london-markets/portobello-road-market-crowd.jpg)
 
-**It is a mile and a half long.** Antiques are at the Notting Hill Gate end, food in the middle, and vintage and the Westway arches at the northern end towards Ladbroke Grove.
+**It is a mile and a half long.** Antiques are at the Notting Hill Gate end, food in the middle, and vintage and the Westway arches at the northern end towards Ladbroke Grove. Our [street food guide](/articles/best-street-food-london/#portobello-road-market-notting-hill) covers the food stalls and the Acklam food market under the Westway.
 
 ![A covered stall of second-hand records and prints under the Westway, with browsers going through the crates](../../assets/articles/best-london-markets/portobello-green-record-stall.jpg)
 

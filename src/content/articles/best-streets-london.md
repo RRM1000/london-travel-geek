@@ -87,7 +87,7 @@ A count measures how often a street is written about, and the three kinds of lis
 
 The road changes as you walk north. Antiques are at the Notting Hill Gate end, food and fruit and veg in the middle, and vintage clothes and records under the Westway flyover at the northern end. **Saturday is the full market and the only day the antique arcades open**, and the road fills from end to end. **Friday** is quieter and better if you want to buy, with room to negotiate.
 
-Condé Nast Traveler describes it as a 19th-century country lane that joined Portobello Farm to Kensal Green. The pastel houses in the photographs are mostly on the streets either side, not on the road itself: our [guide to Notting Hill's colourful houses](/articles/notting-hill-colourful-houses/) says where. Walk it north and take the Tube back from Ladbroke Grove. Our [markets guide](/articles/best-london-markets/) covers the stalls and the [Notting Hill guide](/articles/notting-hill-area-guide/) the area.
+Condé Nast Traveler describes it as a 19th-century country lane that joined Portobello Farm to Kensal Green. The pastel houses in the photographs are mostly on the streets either side, not on the road itself: our [guide to Notting Hill's colourful houses](/articles/notting-hill-colourful-houses/) says where. Walk it north and take the Tube back from Ladbroke Grove. Our [markets guide](/articles/best-london-markets/) covers the stalls, our [street food guide](/articles/best-street-food-london/#portobello-road-market-notting-hill) the hot food stalls on the road and under the Westway, and the [Notting Hill guide](/articles/notting-hill-area-guide/) the area.
 
 ### Carnaby Street — a pedestrianised shopping street
 
