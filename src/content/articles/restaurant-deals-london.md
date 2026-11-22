@@ -105,6 +105,7 @@ Fine dining at set-lunch prices; ★ marks Michelin stars.
 | **Quo Vadis**, Soho | £30 / 2, £35 / 3 | Mon–Sat lunch, 5–6.15pm and 9–10pm. Max four |
 | **Som Saa**, Spitalfields | £35pp, £30 vegan — whole table | Mon–Sat 12–2.30pm |
 | **Chutney Mary**, St James's | £39 / 2, £45 / 3 | Mon–Fri 12–2.15pm |
+| **[The Gore](https://collezione.starhotels.com/en/our-hotels/the-gore-london/dining/sunday-lunch.html)**, South Kensington | £45 / 2, £50 / 3 Sunday lunch; the menu changes weekly | Sundays 12.30–3pm |
 | **NOPI**, Soho | £45pp / 3 courses | Mon–Fri |
 
 **Brasserie Zédel** charges £16.95 for two courses in an Art Deco basement off Piccadilly Circus. It runs at dinner too, so it is a fixed price, not a lunchtime saving.
@@ -176,6 +177,15 @@ Pre-theatre menus run in the early evening, usually finishing by about 6.30pm.
 | **Trishna**, Marylebone | £45 / 3, £50 / 4 | 5–6.15pm |
 | **Kitchen W8**, Kensington ★ | £49.50 / 3 courses | 6–6.15pm sitting |
 | **NOPI**, Soho | £45pp / 3 courses | Mon–Fri 5–6.30pm |
+| **[Kolamba](https://www.kolamba.co.uk/pre-theatre-dining)**, Soho | £30pp, Sri Lankan dishes to share | Mon–Fri 4–6pm |
+| **[Opium](https://www.opiumchinatown.com/pre-theatre-dining-and-menu)**, Chinatown | £25pp: two dim sum baskets and a signature cocktail each | Daily 5–6.30pm |
+| **[Fatt Pundit](https://www.fattpundit.co.uk/soho/)**, Soho | £33.50 / 2, £37 / 3, Indo-Chinese, with a vegetarian version | — |
+| **[Haxells at the Strand Palace](https://www.strandpalacehotel.co.uk/restaurants-bars/pre-theatre.html)**, Strand | £32 / 2, £37 / 3 | Mon–Fri 12–6.30pm, Sat–Sun 4–6.30pm |
+| **[The Cavalry Bar at The Rubens](https://rubenshotel.com/experiences/london-theatre)**, Victoria | £35 / 2, £45 / 3 | 4–6.45pm |
+| **[The English Grill at The Rubens](https://rubenshotel.com/experiences/london-theatre)**, Victoria | £49 / 2, £55 / 3 | Daily 5.30–7pm |
+| **[The Montague on the Gardens](https://montaguehotel.com/dining-and-drinks/whats-on/avenue-q-musical)**, Bloomsbury | £39 / 2, £49 / 3 with an Avenue Q cocktail | Until 2 January 2027 |
+
+**Opium's** price needs a booking for one of its four bars (Apothecary, Peony, Attic or Academy). **The Rubens** takes 15% off pre-theatre dining at any of its bars and restaurants for ticket holders for Six, Wicked and Hamilton, and charges full price if you cannot show a same-day ticket. **The Montague's** Avenue Q menu is £94 / £104 with a ticket to the show at the Shaftesbury Theatre, which needs 48 hours' notice. **[Ayllu](https://www.ayllu.co.uk/news-offers/christmas)** in Paddington Central has a five-course evening set menu for £29pp from 26 to 30 December 2026, with sushi, ceviche and pollo al carbón among the courses.
 
 **Bocca di Lupo** is two minutes from Shaftesbury Avenue and its window runs to 6.30pm, late enough for a 7.30pm curtain.
 

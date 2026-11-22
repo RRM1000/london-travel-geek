@@ -3,7 +3,7 @@ title: "London Food Deals: 2-for-1, Percentage Off, Student Discounts and Offers
 seoTitle: "London Food Deals 2026: 2-for-1, Discounts & Offers"
 description: "Restaurant offers across London: 2-for-1 deals, percentage-off offers, student and Blue Light discounts, deals for each day of the week, BYO nights, app sign-up rewards and birthday freebies, with the days, times and conditions."
 publishedAt: 2026-11-11
-updatedAt: 2026-11-21
+updatedAt: 2026-11-22
 reviewBy: 2026-11-26
 sites:
   - london
@@ -59,6 +59,10 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 | [Turtle Bay](https://turtlebay.co.uk/) | 2-for-1 cocktails | Every day, all day | All branches |
 | [TGI Fridays](https://www.tgifridays.co.uk/) | 2-for-1 cocktails and mocktails | Every day, all day | All branches |
 | [Banana Tree](https://bananatree.co.uk/) | 2-for-1 cocktails and mocktails | Every day | All branches |
+| [Buckle Street Studios by Locke](https://www.lockeliving.com/en/events) | 2-for-1 on selected drinks | Every day, all day | Ask the team which drinks are included. Aldgate |
+| [The Hoxton, Holborn](https://thehoxton.com/london/holborn/whats-on/orange-wednesdays/) | 2-for-1 on orange wine or an Orange Wine Old Fashioned, served with popcorn (Orange Wednesdays) | Wednesday, from 6pm to close | Served in the lobby; the orange wine on pour changes regularly. High Holborn |
+| [Shiro](https://shirosushi.co.uk/events/maki-mondays/) | 2-for-1 on all maki dishes (Maki Mondays) | Monday, lunch and dinner | Broadgate Circle |
+| [Sambrook's Brewery Taproom](https://www.sambrooksbrewery.co.uk/blogs/whats-on/2-for-1-tuesdays) | Two stone-baked pizzas for the price of one | Tuesday, during normal Taproom hours | Not during major sporting fixtures, special events, private hires or ticketed event days, and not with other offers. Wandsworth |
 
 ---
 
@@ -71,6 +75,7 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 | [Escocesa](https://www.escocesa.co.uk/menus) | 50% off oysters | Monday to Friday before 7pm; all day Sunday | Not on Mother's Day, Father's Day or bank holidays. Stoke Newington |
 | [Knoops](https://knoops.com/pages/loyalty-app) | 50% off coffee before midday (Coffee Club) | Every day | Knoops app |
 | [Pret A Manger](https://www.pret.co.uk/en-GB/club-pret) | 50% off up to five hot or iced barista-made drinks a day (Club Pret) | Every day | £5 a month subscription; Pret app; 30 minutes between redemptions; blended drinks excluded. All shops |
+| [Sushi Shimai](https://sushishimai.co.uk/) | 50% off the à la carte menu | Lunchtime | Dine-in only. Herne Hill |
 | [Bread Street Kitchen](https://www.gordonramsayrestaurants.com/bread-street-kitchen/battersea/whats-on/) | 22% off the food bill, plus a main from the Ramsay Kids menu free for under-11s | With a ticket | Valid Chimney Lift ticket; set menus excluded; up to six guests. Battersea |
 | [Shoryu Ramen](https://www.shoryuramen.com/deals) | 20% off the whole bill | With a ticket | A theatre or cinema ticket; one ticket covers up to six people; not with other offers, set menus or seasonal specials. Soho, Regent Street and Covent Garden |
 | [The Waterway](https://www.thewaterway.co.uk/winter-club) | 15% off food in the restaurant | Tuesday to Friday, until 31 March 2027 | Free Winter Club card; not redeemable in December or Easter weekend. The Waterway and The Summerhouse, Little Venice |
@@ -110,6 +115,7 @@ Most of these need the card or account in your phone before you sit down. **UNiD
 | [Patty & Bun](https://www.pattyandbun.co.uk/offers) | Any burger, rosemary chips and soft drink for £14.50 | Every day | Student ID; Holy Truffle not included. All branches |
 | [Prezzo](https://www.prezzo.co.uk/about/offers/) | One free adult main each week | Weekly | Student Perks subscription; you must buy a full-priced drink. All branches |
 | [Four Seasons](https://www.fs-restaurants.co.uk/promotion) | 12% off the whole bill | Every day, until 31 December 2027 | Valid, dated UK student ID; dine-in only; not on bank holidays; not with other promotions or set menus. All Four Seasons and Little Four Seasons restaurants except Chop Chop; Chinatown |
+| [Happy Lamb Hot Pot](https://happylambuk.com/restaurants/holborn/) | 10% off food | Monday to Friday | Valid physical student ID; NHS and Army staff also get 10% off food, up to six people. Holborn |
 | [Govinda's](https://govindas.london/) | Student discount on food and drinks | — | Student ID, NUS Extra, ISIC or UNiDAYS. Soho and Holborn |
 | [Old Spike](https://oldspikeroastery.com/) | Student discount | — | Elephant & Castle |
 
@@ -147,6 +153,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Wandercrust](https://wandercrust.com/menu) | 2 pizzas for £20, 4pm to 9.30pm | Dine in only. All branches, Greenwich |
 | [Prezzo](https://www.prezzo.co.uk/about/offers/) | Meat Free Monday: 50% off the vegetarian and vegan menu | All branches |
 | [Tavern, The Fox](https://www.urbanpubsandbars.com/whats-on) | £7 margaritas from 5pm | The Fox |
+| [Shiro](https://shirosushi.co.uk/events/maki-mondays/) | Maki Mondays: 2-for-1 on all maki dishes, lunch or dinner | See [2-for-1 deals](#2-for-1-deals). Broadgate Circle |
 
 ### Tuesday
 
@@ -156,6 +163,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [CRATE Brewery](https://www.cratebrewery.com/pages/perks) | Half-price jug of Crate beer | Crate Perks membership. Hackney Wick |
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Tannic Tuesdays: 10% off any fine wine, and order two large glasses to get the rest of the bottle free | From 5pm. Wapping |
 | [Las Iguanas](https://www.iguanas.co.uk/) | Bottomless Tapas | All branches; see [bottomless brunch](/articles/bottomless-brunch-london/) for how bottomless deals work |
+| [Sambrook's Brewery Taproom](https://www.sambrooksbrewery.co.uk/blogs/whats-on/2-for-1-tuesdays) | Two stone-baked pizzas for the price of one | See [2-for-1 deals](#2-for-1-deals). Wandsworth |
 | [The Mayfair Chippy](https://www.mayfairchippy.com/supporting-black-cabs) | Free takeaway fish and chips for black cab drivers | Valid badge or licence; takeaway only; first 50 cabbies each week; Tuesday 17 and 24 November 2026 only. Mayfair |
 
 ### Wednesday
@@ -166,6 +174,8 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Prezzo](https://www.prezzo.co.uk/about/offers/) | Free From Wednesday: 50% off gluten-free dishes | All branches |
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Pie & Pint: a free pint, soft drink or medium house wine with any pie | All day. Wapping |
 | [Ixchel](https://www.ixchellondon.com/whats-on) | Ritual de Carne: a 400g cut of grass-fed meat for £45 | 5.30pm to 10pm. King's Road, Chelsea |
+| [The Hoxton, Holborn](https://thehoxton.com/london/holborn/whats-on/orange-wednesdays/) | Orange Wednesdays: 2-for-1 on orange wine or an Orange Wine Old Fashioned, with popcorn | From 6pm to close; see [2-for-1 deals](#2-for-1-deals). High Holborn |
+| [The Victoria Inn](https://www.victoriainnpeckham.com/) | Wing Wednesday: five wings for £5, extra wings £1 each | Peckham |
 | [The Cheese Barge](https://www.thecheesebar.com/news/bottomless-plates) | Bottomless Plates at Pick & Cheese: unlimited cheese, charcuterie and pickles for 75 minutes, £29.50 a head | All day; excludes yellow dessert plates and off-belt dishes |
 
 ### Thursday
@@ -174,6 +184,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | --- | --- | --- |
 | [Prezzo](https://www.prezzo.co.uk/about/offers/) | Mate Night: 2 mains and 2 drinks for £34.95 | All branches |
 | [Tavern, The Queens](https://www.urbanpubsandbars.com/whats-on) | £2 oysters | From 5pm. The Queens |
+| [LUQA, Locke Canary Wharf](https://www.lockeliving.com/en/events) | Negroni Sunset Sessions: Negronis at £9 each | 6pm to 9pm. Canary Wharf |
 
 ### Friday
 
@@ -181,6 +192,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | --- | --- | --- |
 | [Made in Italy](https://www.madeinitalygroup.co.uk/deals) | 2-for-1 pizza by the metre | See [2-for-1 deals](#2-for-1-deals). King's Road, Chelsea |
 | [Flat Iron Square](https://flatironsquare.co.uk/whatson/) | 2-for-1 Spritz and FIS Lager | South Bank |
+| [The Victoria Inn](https://www.victoriainnpeckham.com/) | £25 bottles of prosecco | Peckham |
 | [Homies on Donkeys](https://www.homiesondonkeys.com/lunch-promotion) | 20% off lunch tacos | Food only; claim by emailing the restaurant. Leytonstone |
 | [The Town of Ramsgate](https://townoframsgate.pub/whats-on/) | Fry-day: a free pint, medium house wine or soft drink with beer-battered cod and chips | Wapping |
 | [Chuku's](https://www.chukuslondon.co.uk/nigerian-tapas-restaurant-chukus-10th-birthday) | Free dessert for the table when everyone is dining | Friday 20 and 27 November 2026 (also Saturday 21 and 28 November); one dessert per table from the regular dessert menu. Tottenham |
@@ -234,6 +246,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Tayyabs](https://www.tayyabs.co.uk/) | Bring your own bottle | Daily | Fieldgate Street, Whitechapel |
 | [Sheba](https://www.shebabricklane.com/) | No corkage fee | Every day, all day | Reserve online and mention the offer. Brick Lane |
 | [Macellaio RC](https://www.macellaiorc.com/) | Corkage-free | — | Soho |
+| [Apollo Banana Leaf](https://apollobananaleaf.uk/) | BYOB: bring your own drinks | — | Tooting High Street |
 | [Marie's Café](https://mariescafe.has.restaurant/menu/) | £1 a person | — | Waterloo |
 | [The Golden Hind](https://www.goldenhindrestaurant.com/menus-golden-hind-fish-chips-restaurant-marylebone-london/lunch-menu-golden-hind-fish-chips-restaurant-marylebone-london/) | £5 a person, for wine or champagne | — | Minimum order of mains and one side dish. Marylebone |
 | [Hawksmoor](https://thehawksmoor.com/) | £5 a bottle | Monday | Any size of bottle, any time of day; reserve a table. All branches |
@@ -270,6 +283,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Purcha](https://purcha.co.uk/) | 5 free stamps on download; 6 stamps earn a free drink | Purcha app. Holborn |
 | [The Dickens Inn](https://www.dickensinn.co.uk/) | A free first drink | Membership required. Wapping |
 | [The Prospect of Whitby](https://www.greeneking.co.uk/loyalty) | New customers spin the wheel for a free dessert, pub classic or pint | Download and register on the Greene King app; minimum £5 spend. Participating Greene King pubs |
+| [Signature Brew Taproom and Venue](https://www.signaturebrew.co.uk/pages/download-the-signature-brew-app) | Your first pint free | Download the Signature Brew app. Haggerston |
 
 ### Stamps and points
 
@@ -283,6 +297,10 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Hakata Ramen + Bar](https://www.hakata.co.uk/loyalty-club) | 1 point per £1; every 100 points earns a free bowl of ramen | Account required. Bermondsey |
 | [Ixchel](https://www.ixchellondon.com/ixchel-rewards) | A complimentary Tommy's Margarita or dessert after five visits | Ixchel Rewards sign-up. King's Road, Chelsea |
 | [Angler](https://anglerrestaurant.com/rewards/) | 10% back in points on every visit, plus perks such as 20% off food and drink | Evolv Rewards app; applies across the Evolv Collection restaurants. Moorgate |
+| [South Place Hotel](https://southplacehotel.com/rewards/) | 10% back in points on every bill, double points on your birthday and member-only offers | Evolv Rewards app or site; points expire 12 months after earning and allow 24 hours to credit; not valid on room rates. South Place Hotel restaurants and bars, and other UK Evolv Collection restaurants |
+| [Coya](https://coyarestaurant.com/london/en/coya-rewards) | COYA Rewards: from Silver tier (two to four visits), a welcome drink of Champagne, a signature cocktail or a mocktail, and a free birthday treat or celebration dessert | Free to join; the pass lives in your Apple or Google wallet, not an app. A table of six or more (maximum ten) gets a dessert platter. Mayfair and the City |
+| [DAIU](https://daiu.co.uk/loyalty-2/) | Two welcome stamps on joining, a stamp per visit and a free meal after six stamps | Members' Club. Bexleyheath, Croydon, Ilford, Wembley, Wimbledon |
+| [PizzaLuxe+](https://pizzaluxe.com/loyalty/) | Points for free dough balls or garlic bread (20), a cocktail or mocktail (50), two pizzas (100), 25% off the bill (150) and a bottomless brunch for four (750) | Double points on Tuesdays, 2pm to 5pm. PizzaLuxe restaurants |
 | [Knoops](https://knoops.com/pages/loyalty-app) | 1 point per £1: 15 points for a free marshmallow, 45 for a free drink, 100 for a free Flakes Tube | Knoops app. Covent Garden |
 | [Bubble Magik](https://bubblemagik.com/loyalty/) | Collect 10 bubbles for a free regular drink with one topping | Loyalty scheme sign-up. Ealing |
 | [Bubbleology](https://bubbleology.co.uk/loyalty/) | 10 points per drink; 90 points earn a free standard-size fruit tea or milk tea with tapioca | Bubbleology app; 10% bonus on wallet top-ups. All branches |
@@ -305,6 +323,11 @@ Offers that run on one named day are below, with the deals that run on a handful
 | [Wagamama](https://www.wagamama.com/soul-club) | A birthday gift | Soul Club app. All branches |
 | [Itsu](https://www.itsu.com/loyalty/) | Birthday treats | itsu app. All shops |
 | [Knoops](https://knoops.com/pages/loyalty-app) | A birthday reward, once a year | Redeemable in store only; Knoops app. Covent Garden |
+| [Rodizio Rico](https://rodiziorico.com/rodizio-rico-london.html) | A free glass of Prosecco and a dessert for the birthday person; 5% off the table with three guests, 10% off with five or more | Bring ID; full-meal paying adults only, not children. The O2, Greenwich |
+| [JRC Global Buffet](https://jrc-globalbuffet.com/restaurants/wembley/) | A free birthday meal | Reserve at least 24 hours ahead for the birthday itself; a full-paying adult must come too; bring photo ID and your reservation reference. Wembley |
+| [Opium](https://www.opiumchinatown.com/birthday-party-venues-london) | A complimentary £25 bar tab for the party | Register on the Birthday Offer form at least four weeks ahead; table of six or more; one reward per person per calendar year; not for service charge, deposits or ticketed events. Chinatown |
+| [DAIU](https://daiu.co.uk/loyalty-2/) | A birthday meal on the house | Members' Club. Bexleyheath, Croydon, Ilford, Wembley, Wimbledon |
+| [PizzaLuxe](https://pizzaluxe.com/bottomless-brunch/) | The birthday guest's bottomless PizzaLuxe free | When celebrating with four other friends; ID on arrival; one free birthday bottomless per group |
 
 ---
 

@@ -3,7 +3,7 @@ title: "Kids Eat Free in London: Every Restaurant Deal and Its Small Print"
 seoTitle: "Kids Eat Free London 2026: Every Deal"
 description: "Every kids-eat-free and kids-eat-for-£1 offer with a London branch: the exact terms, the adult spend you have to make, the age limits, and the ten central London Bella Italia branches excluded by name."
 publishedAt: 2026-09-05
-updatedAt: 2026-11-01
+updatedAt: 2026-11-22
 reviewBy: 2026-12-18
 sites:
   - london
@@ -60,6 +60,7 @@ Three different things are sold as kids eat free:
 | Las Iguanas | Main + 2 sides + dessert free | Under 12 | 7 days, all year | 1 à la carte main per child | No — 2 branches, both outer |
 | Prezzo Kids Club | 3 courses free, up to 3 children | 2 to 12 | 7 days, all year | 1 full-price main + £1.99/month | Yes — check the app finder |
 | Morrisons Café | Meal + drink free, worth £4.00 | Under 16 | 7 days, all year | Adult main £5 or over | No — nearest café Acton W3 |
+| Angus Steakhouse | 1 child's meal free | 8 and under | Ongoing | 1 full-paying adult per child | Yes — Leicester Square, Bond Street, Oxford Circus, Paddington |
 | Dunelm Pausa | Main + drink + 2 snacks free | Not stated | All year | £5 spend in the café | No — 11 stores, all outer |
 | Sizzling Pubs | Kids' meal £1 | Not stated | Mondays from 12pm | 1 adult main | No — 5 pubs, all outer |
 | Hungry Horse | Up to 2 kids' meals £1 each | Not stated | Mon–Fri | 1 adult main | No — 2 pubs, both outer |
@@ -112,6 +113,10 @@ Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Ho
 ![A Morrisons Café full breakfast of bacon, sausages, egg, beans, mushrooms, hash brown and toast](../../assets/articles/kids-eat-free-london/morrisons-caf.jpg)
 
 *A Morrisons Café breakfast.*
+
+### Angus Steakhouse
+
+**One child aged 8 or under eats free with every full-paying adult.** The [offer](https://www.angussteakhouse.co.uk/) runs at the four central branches: Leicester Square, Bond Street, Oxford Circus and Paddington.
 
 ### Dunelm Pausa, Sizzling Pubs, Hungry Horse and IKEA
 
@@ -181,15 +186,15 @@ Outside school holidays, central London gets thin quickly:
 | --- | --- |
 | South Kensington and the museums | Nothing unconditional. Bella Italia South Kensington is excluded by name; Zizzi through Kids Pass is the only route |
 | South Bank and Waterloo | Zizzi Bankside, Kids Pass only. Otherwise the £3.80 M&S Café menu |
-| Covent Garden and Leicester Square | Zizzi Bow Street, The Strand and Central St Giles, Kids Pass only. **All six Bella Italias here are excluded** |
+| Covent Garden and Leicester Square | **Angus Steakhouse Leicester Square: one child under 9 free per full-paying adult.** Zizzi Bow Street, The Strand and Central St Giles, Kids Pass only. **All six Bella Italias here are excluded** |
 | King's Cross | Nothing within walking distance at all |
 | Stratford and Westfield | Morrisons Stratford has no café. Prezzo Kids Club if you hold it |
 | Greenwich and The O2 | **IKEA Greenwich does 95p kids' meals with no adult purchase**. Las Iguanas at The O2 switches off on event days |
 | Shepherd's Bush and Westfield | Zizzi Westfield White City, Kids Pass only |
-| Paddington | Zizzi Paddington Central, Kids Pass only. Both Bella Italias here are excluded |
+| Paddington | Angus Steakhouse Paddington, one child under 9 free per full-paying adult. Zizzi Paddington Central, Kids Pass only. Both Bella Italias here are excluded |
 | Croydon | **Bella Italia Valley Leisure Park** — the one London branch that runs it, plus IKEA and Dunelm |
 
-The pub brands with a kids-eat-free offer (Sizzling, Hungry Horse, Brewers Fayre) are retail-park businesses, and the nearest branch is usually well outside Zone 1. In the centre, year-round, the offer is a paid membership or nothing.
+The pub brands with a kids-eat-free offer (Sizzling, Hungry Horse, Brewers Fayre) are retail-park businesses, and the nearest branch is usually well outside Zone 1. In the centre, year-round, the offer is Angus Steakhouse, a paid membership or nothing.
 
 ---
 
@@ -223,4 +228,4 @@ The pub brands with a kids-eat-free offer (Sizzling, Hungry Horse, Brewers Fayre
 - 🎒 **[February Half Term in London](/articles/february-half-term-london/)** — 15 to 19 February 2027: what to book, the Tube strike day and the free options
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
 
-*Offers, prices, age limits and branch exclusions as of 3 September 2026; school-holiday offers as of 1 November 2026. School holiday dates are the common London pattern published by Southwark and Hounslow; check your own borough. These offers are rewritten for every school holiday, and the branch exclusions change with them.*
+*Offers, prices, age limits and branch exclusions as of 3 September 2026 (Angus Steakhouse as of 22 November 2026); school-holiday offers as of 1 November 2026. School holiday dates are the common London pattern published by Southwark and Hounslow; check your own borough. These offers are rewritten for every school holiday, and the branch exclusions change with them.*
