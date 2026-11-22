@@ -1,5 +1,5 @@
 ---
-title: "The Best Sushi Restaurants in London, Cross-Referenced Across Every Major List and Review of the Year"
+title: "The Best Sushi Restaurants in London: Omakase to Conveyor Belt"
 seoTitle: "Best Sushi in London 2026: Omakase to Takeaway"
 description: "London's sushi restaurants sorted by how the meal is served — omakase counters, à la carte rooms, handroll bars, a conveyor belt and takeaway counters — and ranked by how many independent sources name them."
 heroImage: "../../assets/articles/best-sushi-restaurants-london/otoro-nigiri.jpg"
