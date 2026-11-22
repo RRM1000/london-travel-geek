@@ -86,21 +86,17 @@ The room is small and quiet, with cream walls, a low ceiling and pink upholstere
 
 **Named by more sources than any other Ramsay restaurant in London**, and new in the 2026 Michelin guide. There are 12 seats at a counter that faces the window, and one menu: a Carte Blanche of around ten courses at £250 a head, cooked by Chef James Goodyear's team. Reviewers describe lobster ravioli with yuzu, Devon duck with morels, scallops in a chamomile velouté and an oyster ice cream.
 
-![22 Bishopsgate seen from the street, a glass tower rising above older stone buildings](../../assets/articles/gordon-ramsay-restaurants-london/22-bishopsgate-from-bank.jpg)
-
-*22 Bishopsgate, the tower that holds High, Lucky Cat and Bread Street Kitchen. Photo: [sebastiandoe5](https://commons.wikimedia.org/wiki/File:22_Bishopsgate_From_Bank.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
-
 **Every sitting starts at 7pm, Tuesday to Saturday.** Time Out, which gave it three out of five, calls the whole thing "a numbers game"; ShortList thought it "seriously worth it". Our [best rooftop restaurants](/articles/best-rooftop-restaurants-london/) guide covers the other starred rooms with a view.
 
 ### Pétrus by Gordon Ramsay, Knightsbridge
 
 *££££ · 1 Kinnerton Street, SW1X 8EA · One Michelin star, 2026 guide · Cited by 5 sources · [book a table](https://www.gordonramsayrestaurants.com/petrus/book-a-table/)*
 
+![The curved dining room at Pétrus by Gordon Ramsay in Knightsbridge, with white-clothed round tables and illuminated columns](../../assets/articles/gordon-ramsay-restaurants-london/petrus-by-gordon-ramsay.jpg)
+
+*The dining room at Pétrus.*
+
 Wine drives the room: it is named after the Pomerol estate and built around a circular wine store, in pearlescent pink and dusky grey. From the à la carte, order the lobster raviolo, the Aynhoe Park deer or the 100-day aged Blue Grey beef; **three courses are £125, the Prestige menu £155 and the Discovery menu £195.**
-
-![The Petrus sign above a cream stone corner with tall shuttered windows and flower boxes on Kinnerton Street](../../assets/articles/gordon-ramsay-restaurants-london/petrus-exterior.jpg)
-
-*The Kinnerton Street frontage. Photo: [miyagawa](https://commons.wikimedia.org/wiki/File:Petrus_restaurant_london.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).*
 
 The cheapest way in is the **£65 set lunch, Tuesday to Friday, pre-booked only.** It is closed Monday and Sunday, and its dress code says smart trainers are fine. Country & Town House called the atmosphere "surprisingly relaxed".
 
@@ -109,10 +105,6 @@ The cheapest way in is the **£65 set lunch, Tuesday to Friday, pre-booked only.
 *££££ · The Savoy, Strand, WC2R 0EU · One Michelin star, 2026 guide · Cited by 3 sources · [book a table](https://www.gordonramsayrestaurants.com/restaurant-1890/book-a-table/)*
 
 Ten tables beside the Savoy's American Bar, named for the year Escoffier joined the hotel. The current menu opens with a Cornish brown crab with kiwi, almond and Meyer lemon, then an Orkney scallop à la cardinal and Suffolk Texel lamb à la Bretonne, with a £30 supplement for the crab course.
-
-![The entrance court of The Savoy off the Strand, with a gold statue above the canopy and two black taxis in the court](../../assets/articles/gordon-ramsay-restaurants-london/savoy-hotel-entrance.jpg)
-
-*The Savoy's entrance court, which leads to Restaurant 1890, Savoy Grill and The River Restaurant. Photo: CVB, edited by Cart, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:H%C3%B4tel_Savoy_The_Strand_Londres_-_edited.jpg).*
 
 **Four courses are £105 and six are £160;** lunch is £95 and runs on Saturday only, 12:30pm to 1:30pm. Dinner is Tuesday to Saturday from 6:30pm. Time Out gives it five out of five, the top mark of the four.
 
@@ -124,6 +116,10 @@ Ten tables beside the Savoy's American Bar, named for the year Escoffier joined 
 
 *££££ · The Savoy, Strand, WC2R 0EU · Listed in the Michelin Guide, 2026 · Cited by 6 sources · [book a table](https://www.gordonramsayrestaurants.com/savoy-grill/book-a-table-2/)*
 
+![The Art Deco dining room at Savoy Grill with crystal chandeliers, red velvet booths and white-clothed tables](../../assets/articles/gordon-ramsay-restaurants-london/savoy-grill-gordon-ramsay.jpg)
+
+*The dining room at Savoy Grill.*
+
 The Savoy's grill room opened in 1904, and Ramsay's name has been over the door for about a quarter of a century. Order the **Arnold Bennett soufflé** (smoked haddock and Montgomery cheddar sauce, £24) or the **Beef Wellington** (£66, with truffle and red wine jus); the charcoal grill carries a côte de bœuf for two at £150. Michelin calls the décor "elegant and opulent in equal measure".
 
 **Open from noon to midnight on Friday and Saturday, with last bookings an hour before closing.** The dress code asks guests to avoid shorts, tracksuits, hoodies and hats. A pre-theatre menu runs Monday to Friday, noon to 5:45pm, at £62 for two courses and £68 for three in its November 2026 festive form. Time Out gave it four out of five in 2023.
@@ -131,6 +127,10 @@ The Savoy's grill room opened in 1904, and Ramsay's name has been over the door 
 ### Lucky Cat at 22 Bishopsgate, The City
 
 *£££ · Floor 60, 22 Bishopsgate, EC2N 4AJ · Cited by 6 sources · [book a table](https://www.gordonramsayrestaurants.com/lucky-cat-bishopsgate/book-a-table/)*
+
+![The 60th-floor dining room at Lucky Cat at 22 Bishopsgate with floor-to-ceiling twilight views across the London skyline](../../assets/articles/gordon-ramsay-restaurants-london/lucky-cat-22-bishopsgate.jpg)
+
+*The skyline dining room at Lucky Cat, 22 Bishopsgate.*
 
 Asian-inspired plates and a raw bar with 360-degree views, on the same top floor of 22 Bishopsgate as High. Reviewers single out the Iberico pork chop ("a showstopper", Luxury London), padron peppers with a basil dip and a nori martini finished with soy sauce. Elite Traveler calls it the playful cousin of High, best as a social evening rather than a purist's one.
 
@@ -160,6 +160,10 @@ The original, opened in 2019 and reviewed harshly at the time. Time Out's three-
 
 *£££ · The Savoy, Strand, WC2R 0EU · Cited by 3 sources · [book a table](https://www.gordonramsayrestaurants.com/river-restaurant/book-a-table/)*
 
+![A tiered shellfish platter with langoustines, oysters and caviar on the marble raw bar at The River Restaurant inside The Savoy](../../assets/articles/gordon-ramsay-restaurants-london/restaurant-1890-by-gordon-ramsay.jpg)
+
+*The raw bar at The River Restaurant.*
+
 The Savoy's all-day seafood room, with a raw bar of oysters and caviar at its centre. The London Economic called it "one of the quietly great hotel restaurants", singling out devilled crab on sourdough crumpets (£25) and fish and chips at £29.50. A **salmon Wellington for two is £70**, and there is a Sunday roast beef.
 
 **Breakfast runs from 7am (7:30am at weekends); the kitchen then serves from noon to midnight,** to 11pm on Sunday. Last bookings are taken an hour before closing. Our [seafood restaurants](/articles/best-seafood-restaurants-london/) guide covers the other raw bars.
@@ -168,11 +172,11 @@ The Savoy's all-day seafood room, with a raw bar of oysters and caviar at its ce
 
 *£££ · The Cumberland, Marble Arch, W1H 7DL · Cited by 3 sources · [book a table](https://hells-kitchen.thecumberland.com/book-a-table/)*
 
+![The fluted gold-and-marble cocktail bar inside Gordon Ramsay Hell's Kitchen at The Cumberland, Marble Arch](../../assets/articles/gordon-ramsay-restaurants-london/hells-kitchen-marble-arch.jpg)
+
+*The bar at Hell's Kitchen, Marble Arch.*
+
 The first Hell's Kitchen in the UK, in the Cumberland Hotel, opened in April 2026 and styled on the TV show. MyLondon expected a gimmick and came away won over by the Beef Wellington; the Express praised the scallops and described the Idiot Sandwich, a short rib with spiced tomato chutney. The Standard's David Ellis gave it one star and a headline comparing it to TGI Fridays, so the sources split.
-
-![The Cumberland Hotel, a pale stone building on the corner of Oxford Street and Old Quebec Street, with flags on the roofline](../../assets/articles/gordon-ramsay-restaurants-london/cumberland-hotel.jpg)
-
-*The Cumberland Hotel at Marble Arch, where Hell's Kitchen is downstairs. Photo: [Barabbas1312](https://commons.wikimedia.org/wiki/File:Cumberland_Hotel,_Oxford_Street.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
 
 **The Chef's Table is a six-course menu at £135 a head for up to 36 guests, who share the table;** a wine-pairing upgrade is listed at £220 a head. The courses run from seared scallops and lobster risotto to the Beef Wellington.
 
@@ -196,19 +200,15 @@ Each of these is recommended by one source at most.
 
 Open since September 2026 in the Sea Containers hotel, with a terrace on the Thames. The menu covers oysters, Cornish crab tagliolini, whole native lobster, Beef Wellington and Gordon Ramsay fish and chips, and **a Sunday roast is from £34**. It appears on one new-restaurants list; The Times headed its October 2026 review "a proper kitchen nightmare".
 
-![Sea Containers House on the Thames, a long cream-and-glass building with the name on the roof and the Shard behind](../../assets/articles/gordon-ramsay-restaurants-london/sea-containers-house.jpg)
-
-*Sea Containers on the South Bank. Photo: [Acabashi](https://commons.wikimedia.org/wiki/File:Sea_Containers_building_(Sea_Containers_House).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).*
-
 ### Heddon Street Kitchen, Mayfair
 
 *££ · 3-9 Heddon Street, W1B 4BE · [book a table](https://www.gordonramsayrestaurants.com/heddon-street-kitchen/book-a-table/)*
 
+![The dining room at Heddon Street Kitchen with curved tan leather banquettes and an open kitchen behind](../../assets/articles/gordon-ramsay-restaurants-london/heddon-street-kitchen.jpg)
+
+*The dining room at Heddon Street Kitchen.*
+
 A two-floor brasserie off Regent Street with an outdoor terrace, open seven days. **The Beef Wellington Experience is £95 a head for two or more**, with a welcome drink, a starter, the Wellington for two and a dessert platter. The HDN bar downstairs is walk-in only, Wednesday to Saturday from 5pm to 2am.
-
-![Heddon Street, a narrow pedestrian street between stone and red-brick buildings, looking towards Regent Street](../../assets/articles/gordon-ramsay-restaurants-london/heddon-street.jpg)
-
-*Heddon Street, off Regent Street. Photo: [Robert Lamb](https://commons.wikimedia.org/wiki/File:View_down_Heddon_Street_from_Regent_Street_-_geograph.org.uk_-_4723782.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
 
 ### Gordon Ramsay Bar & Grill, Mayfair
 

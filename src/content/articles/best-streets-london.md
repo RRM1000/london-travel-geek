@@ -217,7 +217,7 @@ A bending crescent laid out between 1849 and 1860, with three-storey stucco fron
 
 *Brightly painted houses on Lancaster Road. Photo: [Chris Whippet](https://commons.wikimedia.org/wiki/File:Lancaster_Road,_Notting_Hill_-_geograph.org.uk_-_5188672.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
 
-The road people mean when they say the rainbow houses of Notting Hill: purple, blue, green, yellow and red, running east from Ladbroke Grove. It has the strongest colours of the Notting Hill streets and the most photographers. **Hillgate Place** is two minutes from Notting Hill Gate station and far quieter; our [colourful houses guide](/articles/notting-hill-colourful-houses/) ranks all eleven.
+The road people mean when they say the rainbow houses of Notting Hill: purple, blue, green, yellow and red, running east from Ladbroke Grove. It draws the most photographers of the Notting Hill streets. **Hillgate Place** is two minutes from Notting Hill Gate station and far quieter; our [colourful houses guide](/articles/notting-hill-colourful-houses/) ranks all eleven.
 
 ### The rest of the mews and crescents
 
@@ -345,7 +345,7 @@ Stalls at weekday lunchtimes on a pedestrianised street, with cafés and indepen
 
 *Cobbles and warehouse walls on Shad Thames. Photo: [Paul Farmer](https://commons.wikimedia.org/wiki/File:Shad_Thames_-_geograph.org.uk_-_2596503.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
 
-A riverside street with cobbles underfoot and iron walkways overhead, most of them linking Butler's Wharf on one side to the Cardamom Building on the other. The warehouse complex was the largest in London in Victorian times, storing spices, tea and coffee unloaded nearby. It is a few minutes from Tower Bridge on the Bermondsey side. Our [Bermondsey guide](/articles/bermondsey-area-guide/) has the rest.
+A riverside street with cobbles underfoot and iron walkways overhead, most of them linking Butler's Wharf on one side to the Cardamom Building on the other. The warehouses stored spices, tea and coffee unloaded nearby. It is a few minutes from Tower Bridge on the Bermondsey side. Our [Bermondsey guide](/articles/bermondsey-area-guide/) has the rest.
 
 ### Leadenhall Market — a covered street in the City
 
@@ -358,7 +358,7 @@ A riverside street with cobbles underfoot and iron walkways overhead, most of th
 An 1881 covered market in cream, maroon and green ironwork on the site of the Roman forum, designed by Horace Jones. The blue door on Bull's Head Passage that stood in for the Leaky Cauldron in the first *Harry Potter* film is now a coffee shop. **The public areas are open at any hour, but the shops, bars and restaurants keep City hours**, so it is quiet at weekends and fullest around six on a weekday evening. It sits on the [City of London walk](/articles/city-of-london-walk/) and is covered in full in our [markets guide](/articles/best-london-markets/).
 
 - **Fournier Street, Spitalfields** — built in the early 1700s for the Huguenot silk weavers, who used the houses as homes and workshops; the silk for Queen Victoria's coronation gown was woven at No. 14. Dennis Severs' House is nearby. *Cited by 2 sources.*
-- **Little Green Street, Kentish Town** — eight cottages that make up one of the best-preserved Georgian strips in London, and the backdrop for the Kinks' video for *Dead End Street*. *Cited by 2 sources.*
+- **Little Green Street, Kentish Town** — a terrace of eight Georgian cottages, and the backdrop for the Kinks' video for *Dead End Street*. *Cited by 2 sources.*
 - **Cheyne Walk, Chelsea** — a riverside street of Jacobean and Queen Anne houses where JMW Turner spent his last years, at No. 119. *Cited by 3 sources.*
 - **Lombard Street, the City** — hanging signs put up for Edward VII's coronation in 1902 recall the businesses that once traded here. *Cited by 2 sources.*
 - **Roupell Street, Waterloo** — two-storey terraces left as 19th-century London looked, minutes from Waterloo station; walk Theed Street beside it. *Cited by 1 source.*
