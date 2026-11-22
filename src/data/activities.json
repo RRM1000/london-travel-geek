@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-16",
- "count": 358,
+ "generated": "2026-11-22",
+ "count": 350,
  "activities": [
   {
    "slug": "skuna-bbq-boats",
@@ -805,43 +805,6 @@
    ]
   },
   {
-   "slug": "camden-market",
-   "name": "Camden Market",
-   "type": "market-visit",
-   "style": "Market, street food and shopping",
-   "chainType": "independent",
-   "area": "Camden Town",
-   "borough": "Camden",
-   "guide": "camden-area-guide",
-   "zone": "2",
-   "district": "North",
-   "address": "Camden Lock Place",
-   "postcode": "NW1 8AF",
-   "lat": 51.541333,
-   "lng": -0.146626,
-   "agePolicy": "all-ages",
-   "marketDays": "Daily",
-   "foodOffer": "hot-food",
-   "duration": "Two to three hours",
-   "groupSize": "Any",
-   "price": "Free to browse",
-   "booking": "walk-in",
-   "indoorOutdoor": "both",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "Camden Lock, the Stables and Hawley Wharf run together into the best-known collection of street vendors in Britain - vintage, records, band merch and several hundred food stalls.",
-   "opNote": "Free to walk in and the busiest thing in Camden. Weekends are shoulder-to-shoulder by midday; a weekday morning is a genuinely different experience.",
-   "goodFor": [
-    "groups",
-    "solo",
-    "families"
-   ],
-   "lists": [
-    "activities",
-    "free"
-   ]
-  },
-  {
    "slug": "plonk-crazy-golf-camden",
    "name": "Plonk Crazy Golf Camden",
    "type": "mini-golf",
@@ -1185,7 +1148,7 @@
     "activities",
     "showstopper"
    ],
-   "affiliateUrl": "https://www.getyourguide.com/activity/-t1041337?partner_id=WWP7I0R&cmp=greenwich-area-guide-activity",
+   "affiliateUrl": "https://www.getyourguide.com/activity/-t98226?partner_id=WWP7I0R&cmp=greenwich-area-guide-activity",
    "affiliateNetwork": "getyourguide"
   },
   {
@@ -1290,41 +1253,6 @@
     "families",
     "solo",
     "groups"
-   ],
-   "lists": [
-    "activities",
-    "free"
-   ]
-  },
-  {
-   "slug": "greenwich-market",
-   "name": "Greenwich Market",
-   "type": "market-visit",
-   "style": "Covered market inside a World Heritage site",
-   "chainType": "independent",
-   "area": "Greenwich",
-   "borough": "Greenwich",
-   "guide": "greenwich-area-guide",
-   "zone": "2–3",
-   "district": "South",
-   "address": "Greenwich Market, SE10",
-   "agePolicy": "all-ages",
-   "marketDays": "Daily",
-   "foodOffer": "hot-food",
-   "duration": "An hour",
-   "groupSize": "Any",
-   "price": "Free to browse",
-   "booking": "walk-in",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "Trading since 1737 and the only London market inside a World Heritage site - designer-makers, antiques and a strong street food run under one roof.",
-   "opNote": "Covered, so it works in rain when the rest of Greenwich does not. Different traders on different days: antiques and collectables do not run every day.",
-   "goodFor": [
-    "families",
-    "groups",
-    "solo"
    ],
    "lists": [
     "activities",
@@ -2259,45 +2187,6 @@
    "affiliateNetwork": "getyourguide"
   },
   {
-   "slug": "seven-dials-market",
-   "name": "Seven Dials Market",
-   "type": "market-visit",
-   "style": "Food hall in a former banana warehouse",
-   "chainType": "independent",
-   "area": "Covent Garden",
-   "borough": "Camden",
-   "guide": "covent-garden-area-guide",
-   "guidePlacement": "prose",
-   "zone": "1",
-   "district": "Central",
-   "address": "35 Earlham Street",
-   "postcode": "WC2H 9LX",
-   "lat": 51.514079,
-   "lng": -0.125883,
-   "agePolicy": "family-friendly",
-   "marketDays": "Daily",
-   "foodOffer": "hot-food",
-   "duration": "An hour or two",
-   "groupSize": "Any",
-   "price": "Free to enter",
-   "booking": "walk-in",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "Two floors of independent food traders in a 1920s banana-ripening warehouse, with a stage for live music and a bookshop tucked in among the counters.",
-   "opNote": "Free to walk into and no booking. The cheese conveyor belt downstairs is the thing people queue for; the upstairs tables are quieter.",
-   "goodFor": [
-    "groups",
-    "families",
-    "date"
-   ],
-   "lists": [
-    "activities",
-    "free"
-   ]
-  },
-  {
    "slug": "bat-and-ball-covent-garden",
    "name": "Bat & Ball Covent Garden",
    "type": "ping-pong",
@@ -2739,44 +2628,6 @@
    "lists": [
     "activities",
     "free"
-   ]
-  },
-  {
-   "slug": "sky-garden",
-   "name": "Sky Garden",
-   "type": "roof-garden",
-   "style": "London's highest public garden",
-   "chainType": "independent",
-   "area": "City of London",
-   "borough": "City of London",
-   "guide": "city-of-london-area-guide",
-   "zone": "1",
-   "district": "Central",
-   "address": "20 Fenchurch Street",
-   "postcode": "EC3M 8AF",
-   "lat": 51.511141,
-   "lng": -0.083778,
-   "agePolicy": "all-ages",
-   "duration": "About an hour",
-   "groupSize": "Any",
-   "price": "Free",
-   "booking": "required",
-   "indoorOutdoor": "indoor",
-   "stepFree": "yes",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "Three storeys of planted terraces under a glass shell on top of the Walkie-Talkie, with a 360-degree view over the City - and it costs nothing.",
-   "opNote": "FREE but the timed tickets are released in batches and go within minutes. Booking a table at one of the bars gets you in without the ticket lottery.",
-   "goodFor": [
-    "date",
-    "families",
-    "solo",
-    "groups"
-   ],
-   "lists": [
-    "activities",
-    "free",
-    "showstopper"
    ]
   },
   {
@@ -4998,42 +4849,6 @@
    ]
   },
   {
-   "slug": "broadway-market",
-   "name": "Broadway Market",
-   "type": "market-visit",
-   "style": "Saturday street market by the canal",
-   "chainType": "independent",
-   "area": "Hackney",
-   "borough": "Hackney",
-   "guide": "hackney-area-guide",
-   "zone": "2",
-   "district": "East",
-   "address": "Broadway Market, E8",
-   "agePolicy": "all-ages",
-   "marketDays": "Saturday",
-   "foodOffer": "both",
-   "duration": "Two hours",
-   "groupSize": "Any",
-   "price": "Free to browse",
-   "booking": "walk-in",
-   "indoorOutdoor": "outdoor",
-   "stepFree": "yes",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "A hundred and twenty stalls of food, vintage and produce running from the canal to London Fields, with seventy independent shops behind them that trade all week.",
-   "opNote": "The market is SATURDAY only, 9am to 5pm - the street is worth a visit any day, the market is not. Buy lunch and eat it in London Fields at the top.",
-   "goodFor": [
-    "groups",
-    "date",
-    "solo",
-    "families"
-   ],
-   "lists": [
-    "activities",
-    "free"
-   ]
-  },
-  {
    "slug": "london-fields-lido",
    "name": "London Fields Lido",
    "type": "lido",
@@ -5661,44 +5476,6 @@
    ]
   },
   {
-   "slug": "maltby-street-market",
-   "name": "Maltby Street Market",
-   "type": "market-visit",
-   "style": "Weekend food market under railway arches",
-   "chainType": "independent",
-   "area": "Bermondsey",
-   "borough": "Southwark",
-   "guide": "bermondsey-area-guide",
-   "zone": "1–2",
-   "district": "South",
-   "address": "Ropewalk, Maltby Street",
-   "postcode": "SE1 3PA",
-   "lat": 51.499111,
-   "lng": -0.075652,
-   "agePolicy": "all-ages",
-   "marketDays": "Sat-Sun",
-   "foodOffer": "hot-food",
-   "duration": "Two hours",
-   "groupSize": "Any",
-   "price": "Free to enter",
-   "booking": "walk-in",
-   "indoorOutdoor": "both",
-   "stepFree": "yes",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "A narrow ropewalk of food traders wedged under the railway arches since 2010 - oysters, waffles, gin and a scotch egg stall with a permanent queue.",
-   "opNote": "WEEKENDS ONLY, and the alley is genuinely narrow - it is shoulder to shoulder by one o'clock on a Saturday. Go at opening or late afternoon.",
-   "goodFor": [
-    "groups",
-    "date",
-    "solo"
-   ],
-   "lists": [
-    "activities",
-    "free"
-   ]
-  },
-  {
    "slug": "bermondsey-beer-mile",
    "name": "The Bermondsey Beer Mile",
    "type": "brewery-tour",
@@ -6089,41 +5866,6 @@
    ]
   },
   {
-   "slug": "petersham-nurseries",
-   "name": "Petersham Nurseries",
-   "type": "garden",
-   "style": "Plant nursery with glasshouse dining",
-   "chainType": "independent",
-   "area": "Richmond",
-   "borough": "Richmond upon Thames",
-   "guide": "richmond-area-guide",
-   "zone": "4",
-   "district": "West",
-   "address": "Church Lane, Petersham",
-   "postcode": "TW10 7AB",
-   "lat": 51.447229,
-   "lng": -0.302612,
-   "agePolicy": "all-ages",
-   "duration": "An hour or two",
-   "groupSize": "Any",
-   "price": "Free to browse",
-   "booking": "recommended",
-   "indoorOutdoor": "both",
-   "stepFree": "partial",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "A working plant nursery down a lane off Petersham Meadows, with a teahouse and restaurant under the glasshouses and the plants left growing through the dining room.",
-   "opNote": "Free to walk round the nursery; the restaurant needs booking well ahead. Reached across Petersham Meadows from Richmond, which is a lovely twenty-minute walk.",
-   "goodFor": [
-    "date",
-    "solo"
-   ],
-   "lists": [
-    "activities",
-    "free"
-   ]
-  },
-  {
    "slug": "hampstead-heath",
    "name": "Hampstead Heath",
    "type": "park",
@@ -6264,42 +6006,6 @@
    ],
    "affiliateUrl": "https://www.getyourguide.com/s/?q=Highgate%20Cemetery%20London&partner_id=WWP7I0R",
    "affiliateNetwork": "getyourguide"
-  },
-  {
-   "slug": "prospect-of-whitby",
-   "name": "The Prospect of Whitby",
-   "type": "historic-house",
-   "style": "London's oldest riverside pub",
-   "chainType": "independent",
-   "area": "Wapping",
-   "borough": "Tower Hamlets",
-   "guide": "wapping-area-guide",
-   "zone": "2",
-   "district": "East",
-   "address": "57 Wapping Wall",
-   "postcode": "E1W 3SH",
-   "lat": 51.507103,
-   "lng": -0.051019,
-   "agePolicy": "over-18-evenings",
-   "duration": "An hour or two",
-   "groupSize": "Any",
-   "price": "Free to enter",
-   "booking": "walk-in",
-   "indoorOutdoor": "both",
-   "stepFree": "partial",
-   "servesFood": "yes",
-   "servesAlcohol": "yes",
-   "whyGo": "Standing since about 1520, with a flagstone floor, a pewter-topped bar on old barrels and a replica gallows on the river terrace where Judge Jeffreys drank.",
-   "opNote": "Free to walk into. The back terrace over the river is far better than the front bar and is where you want to sit - go round rather than stopping at the door.",
-   "goodFor": [
-    "date",
-    "groups",
-    "solo"
-   ],
-   "lists": [
-    "activities",
-    "free"
-   ]
   },
   {
    "slug": "wapping-thames-path-stairs",
