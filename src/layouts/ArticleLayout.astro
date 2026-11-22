@@ -469,6 +469,19 @@ const hasAds = !isAdFree(Astro.url.pathname);
     <RelatedGuides articles={relatedArticles} />
   </article>
 
+  <script is:inline>
+    // Lines marked {until=YYYY-MM-DD} in the markdown (src/lib/remark-until.mjs) come down
+    // the day after that date, London time, without waiting for a rebuild.
+    (function () {
+      try {
+        var today = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/London" }).format(new Date());
+        document.querySelectorAll("[data-until]").forEach(function (el) {
+          if (el.getAttribute("data-until") < today) el.remove();
+        });
+      } catch (e) {}
+    })();
+  </script>
+
   <script>
     // The stay strips: put the reader's dates on the Hotels.com search. The
     // link already works without them, so this only ever adds.
