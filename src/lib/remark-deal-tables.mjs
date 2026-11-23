@@ -452,9 +452,13 @@ export function remarkTopicDeals() {
     const deals = topicDeals(data, spec, pageVenues(tree));
     if (deals.length < 2) return;
     const kids = tree.children;
-    const h2 = (re) => kids.findIndex((n) => n.type === "heading" && n.depth === 2 && re.test(textOf(n).trim()));
-    let at = h2(TOPIC_END);
-    if (at === -1) at = h2(TOPIC_TAIL);
+    // The table goes after the ranked sections, so only practical headings in the back
+    // half of the page count: sushi opens with "Booking at a glance", which must not.
+    const h2s = kids.map((n, i) => (n.type === "heading" && n.depth === 2 ? i : -1)).filter((i) => i >= 0);
+    const backHalf = h2s.slice(Math.floor(h2s.length / 2));
+    const tail = backHalf.find((i) => TOPIC_TAIL.test(textOf(kids[i]).trim())) ?? -1;
+    let at = backHalf.find((i) => (tail === -1 || i < tail) && TOPIC_END.test(textOf(kids[i]).trim())) ?? -1;
+    if (at === -1) at = tail;
     if (at === -1) at = kids.length;
     const header = ["Restaurant", "When", "Deal"];
     const more = spec.dealMore ?? { url: `/articles/${HUB}/`, label: "Every food deal in London, by day and by type" };
