@@ -416,7 +416,7 @@ export function topicDeals(data, spec, onPage = { slugs: new Set(), names: new S
   };
   const pick = new Map();
   for (const d of data.live) {
-    if (d.card || d.origin === "page" || !/\d/.test(`${d.offer} ${d.price ?? ""}`) || listed(d)) continue;
+    if (d.card || d.origin === "page" || !/\d|half[- ]price/i.test(`${d.offer} ${d.price ?? ""}`) || listed(d)) continue;
     const row = d.slug ? rows.get(d.slug) : null;
     if (row && row.Status !== "open") continue;
     // What the deal is about: the offer minus its asides, and only its opening words, so "salmon
