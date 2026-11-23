@@ -9,8 +9,9 @@
 // heading, because the guide may mean a different branch.
 //
 // The line goes after the entry's italic facts strip when there is one, else
-// straight under the heading. At most two deals per venue. Deals whose end date
-// has passed, or that the weekly check marked "changed", are skipped.
+// straight under the heading. A heading collects deals from every route above, two
+// records of the same offer count once, and at most two deals show. Deals whose end
+// date has passed, or that the weekly check marked "changed", are skipped.
 //
 // The deal pages themselves list deals in full, so they are left alone.
 import fs from "node:fs";
@@ -82,18 +83,53 @@ function load() {
 
 const textOf = (node) => (node.value ?? "") + (node.children ?? []).map(textOf).join("");
 
-// "Mercato Metropolitano, Elephant & Castle" -> "Elephant & Castle".
-const placeOf = (title) => title.split(/\s*(?:,|\s[–—-]\s|\()\s*/).slice(1).join(" ").replace(/\)$/, "").trim();
+// "Mercato Metropolitano, Elephant & Castle" -> "Elephant & Castle". Only text that reads
+// like a place counts: "Dishoom — halal-certified suppliers, and a bacon naan…" has none.
+const placeOf = (title) => {
+  const rest = title.split(/\s*(?:,|\s[–—-]\s|\()\s*/).slice(1).join(" ").replace(/\)$/, "").trim();
+  return rest.split(/\s+/).length <= 4 ? rest : "";
+};
+
+// "selected branches", "participating restaurants": says the deal is not everywhere, not where it is.
+const VAGUE = /^(selected|select|participating|some|most|various)\b/i;
+
+// Two records of one offer: same venue, type and source page, not on different days, and
+// worded alike (or the same price with some words in common). The Dishoom lunch set menu and
+// Las Iguanas' Tapas Tuesdays were each in the data twice.
+const words = (s) => new Set(s.toLowerCase().replace(/[^a-z0-9£ ]/g, " ").split(/\s+/).filter((w) => w.length > 2));
+const overlap = (x, y) => { const a = words(x), b = words(y); let n = 0; for (const w of a) if (b.has(w)) n++; return n / (a.size + b.size - n || 1); };
+const page = (u) => (u ?? "").replace(/^https?:\/\/(www\.)?/, "").replace(/[#?].*$/, "").replace(/\/$/, "").toLowerCase();
+const venueOf = (n) => norm(n.replace(/\s*\(.*\)\s*$/, ""));
+const dayOf = (d) => d.days.toLowerCase().replace(/[^a-z]/g, "").replace(/^every/, "").replace(/s$/, "");
+const firstPrice = (d) => (d.price || d.offer).match(/£\d+(\.\d\d)?/)?.[0] ?? null;
+const sameOffer = (x, y) => venueOf(x.name) === venueOf(y.name) && x.type === y.type && page(x.sourceUrl) === page(y.sourceUrl) &&
+  !(x.days && y.days && dayOf(x) !== dayOf(y)) &&
+  (overlap(x.offer, y.offer) >= 0.45 || (firstPrice(x) && firstPrice(x) === firstPrice(y) && overlap(x.offer, y.offer) >= 0.15));
+// Keep the record tied to the Sheet row, else the fuller one.
+const better = (x, y) => (!!y.slug - !!x.slug) || (y.offer.length - x.offer.length);
+function dedupe(deals) {
+  const out = [];
+  for (const d of deals) {
+    const i = out.findIndex((o) => sameOffer(o, d));
+    if (i < 0) out.push(d);
+    else if (better(out[i], d) > 0) out[i] = d;
+  }
+  return out;
+}
 
 function line(d, title = "") {
   const when = [d.days, d.times].filter(Boolean).join(", ");
   const cond = (d.conditions ?? "").split(/;\s*/)[0];
   let s = d.offer.replace(/\.$/, "");
-  // A deal at one branch, under a heading that names another: say where it runs.
+  const lower = () => `${s.charAt(0).toLowerCase()}${s.slice(1)}`;
   const place = placeOf(title);
   const branch = d.branches && !/^all\b/i.test(d.branches) ? d.branches : "";
-  if (place && branch && !norm(branch).includes(norm(place)) && !norm(place).includes(norm(branch.split(/[,(]/)[0]))) {
-    s = `At ${branch}, not ${place}: ${s.charAt(0).toLowerCase()}${s.slice(1)}`;
+  if (branch && VAGUE.test(branch)) {
+    // Not every branch, and the data doesn't say which: say so, and name no place.
+    s = `At ${branch.charAt(0).toLowerCase()}${branch.slice(1)}: ${lower()}`;
+  } else if (place && branch && !norm(branch).includes(norm(place)) && !norm(place).includes(norm(branch.split(/[,(]/)[0]))) {
+    // A deal at one branch, under a heading that names another: say where it runs.
+    s = `At ${branch}, not ${place}: ${lower()}`;
   }
   // A short price only: long ones repeat the offer ("£46 for two to share").
   const amount = d.price?.match(/£\d+(\.\d\d)?/)?.[0];
@@ -115,11 +151,13 @@ export default function remarkVenueDeals() {
       const title = textOf(h).replace(/^\s*\d+\.\s*/, "");
       // "Gymkhana, Mayfair" and "Kricket — Soho": try the whole heading, then the name before the place.
       const keys = [...new Set([title, title.split(/\s*(?:,|\s[–—-]\s|\()\s*/)[0]].map(norm).filter(Boolean))];
+      // Every route counts, not just the first that finds something: a chain's all-branch deal
+      // recorded without the Sheet slug (Dishoom's £5 cocktails) still belongs under its heading.
       let deals;
       for (const key of keys) {
         const slug = data.slugByName.get(key);
-        deals = (slug && data.bySlug.get(slug)) || data.chainByName.get(key) || data.byOwnName.get(key);
-        if (deals?.length) break;
+        deals = dedupe([...new Set([...((slug && data.bySlug.get(slug)) ?? []), ...(data.chainByName.get(key) ?? []), ...(data.byOwnName.get(key) ?? [])])]);
+        if (deals.length) break;
       }
       if (!deals?.length) continue;
       // After the facts strip: the first following paragraph that is all emphasis.
