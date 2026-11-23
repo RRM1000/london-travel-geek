@@ -29,8 +29,8 @@
   "conditions": "Tables of up to 6; not with other offers",
   "branches": "Marylebone",
   "endDate": null,
-  "sourceUrl": "https://www.2850.co.uk/menus/",
-  "checked": "2026-11-21",
+  "sourceUrl": "https://www.2850.co.uk/wp-content/uploads/2026/11/MB-lunch-winter-26-1.pdf",
+  "checked": "2026-11-23",
   "quote": "2 courses for 19.95 / 3 courses for 25.95",
   "area": "Marylebone"
  },
@@ -113,9 +113,9 @@
   "conditions": "Adult must order from the Main Menu; not Saturdays at Bond Street and Oxford Circus; not with other offers",
   "branches": "all",
   "endDate": null,
-  "sourceUrl": "https://www.angussteakhouse.co.uk/kids-eat-free",
-  "checked": "2026-11-21",
-  "quote": "Kids Eat Free offer available daily, from 12pm–5pm, one child aged 8 or under eats free with every full-paying adult ordering a main course from the Main Menu."
+  "sourceUrl": "https://www.angussteakhouse.co.uk/",
+  "checked": "2026-11-23",
+  "quote": "KIDS EAT FREE One child aged 8 or under eats free with every full-paying adult"
  },
  {
   "name": "Arcade Food Hall",
@@ -161,9 +161,9 @@
   "conditions": null,
   "branches": "St James's",
   "endDate": null,
-  "sourceUrl": "https://www.arlington.london/menus/",
-  "checked": "2026-11-21",
-  "quote": "Enjoy our Classics set lunch menu every weekend, with two courses for £29 or three for £34.",
+  "sourceUrl": "https://www.arlington.london/wp-content/uploads/2026/09/Classics-Set-Menu-September-2026-V2-2.pdf",
+  "checked": "2026-11-23",
+  "quote": "2 courses 29.00 3 courses 34.00",
   "area": "St James's"
  },
  {
@@ -196,9 +196,9 @@
   "conditions": "One dish per guest; one dessert to share; mushroom ragout £7 supplement",
   "branches": "Fitzrovia",
   "endDate": null,
-  "sourceUrl": "https://www.arrosqd.com/menus/lunch-menu/",
-  "checked": "2026-11-21",
-  "quote": "fixed price of just 29.00 per guest for two courses and 34.00 per guest for three courses.",
+  "sourceUrl": "https://www.arrosqd.com/lunch",
+  "checked": "2026-11-23",
+  "quote": "Express Lunch Menu 2 courses £29 · 3 courses £34 Monday to Friday, 12pm–3pm.",
   "area": "Fitzrovia"
  },
  {
@@ -1249,22 +1249,6 @@
   "quote": "Please kindly note our Pre-Theatre Menu is only available at selected Busaba locations."
  },
  {
-  "name": "Byron",
-  "slug": null,
-  "site": "https://www.byron.co.uk/",
-  "type": "discount-group",
-  "offer": "25% off food every day for students in the Student Byron Club",
-  "price": "25% off",
-  "days": null,
-  "times": null,
-  "conditions": "Sign up to the Student Byron Club; show the welcome email and student ID",
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://www.byron.co.uk/students",
-  "checked": "2026-11-21",
-  "quote": "give all students 25% off food, every single day"
- },
- {
   "name": "Cafe La Divina",
   "slug": "cafe-la-divina",
   "site": "https://ladivina.co.uk/",
@@ -1406,7 +1390,8 @@
   "endDate": null,
   "sourceUrl": "https://www.caffenero.com/uk/paper-loyalty-terms",
   "checked": "2026-11-12",
-  "quote": "Collect a stamp every time you purchase a qualifying handcrafted drink and your 10th drink is on us."
+  "quote": "Collect a stamp every time you purchase a qualifying handcrafted drink and your 10th drink is on us.",
+  "recheck": "changed"
  },
  {
   "name": "Caffè Nero",
@@ -1422,7 +1407,8 @@
   "endDate": null,
   "sourceUrl": "https://www.caffenero.com/uk/paper-loyalty-terms",
   "checked": "2026-11-12",
-  "quote": "Bring your own reusable cup and you'll receive a bonus stamp, whether you're collecting stamps on a paper loyalty card or through the Caffè Nero app."
+  "quote": "Bring your own reusable cup and you'll receive a bonus stamp, whether you're collecting stamps on a paper loyalty card or through the Caffè Nero app.",
+  "recheck": "changed"
  },
  {
   "name": "Caravan",
@@ -2226,22 +2212,6 @@
   "quote": "Enjoy a pizza and a soft drink for just £12.50 at all Franco Manca pizzerias. Available Monday - Friday 12-4pm."
  },
  {
-  "name": "Franco Manca",
-  "slug": "franco-manca",
-  "site": "https://www.francomanca.co.uk/",
-  "type": "kids-eat-free",
-  "offer": "Free kids pizza for children 12 and under with every full-priced adult main",
-  "price": "Free",
-  "days": "Mon–Thu",
-  "times": null,
-  "conditions": "Eat in only; individual kids pizzas, not the extended kids menu; not with other offers",
-  "branches": "Stoke Newington, Kilburn",
-  "endDate": null,
-  "sourceUrl": "https://www.francomanca.co.uk/whats-on/kids-eat-free",
-  "checked": "2026-11-21",
-  "quote": "little ones 12 years and under receive a free kids pizza for every full-priced adult main meal"
- },
- {
   "name": "Frankie & Benny's",
   "slug": null,
   "site": "https://www.frankieandbennys.com/",
@@ -2749,9 +2719,9 @@
   "conditions": null,
   "branches": "Covent Garden",
   "endDate": null,
-  "sourceUrl": "https://www.experimentalgroup.com/london/henrietta-experimental/henri",
-  "checked": "2026-11-21",
-  "quote": "2 COURSE 29£ ... 3 COURSE 33£",
+  "sourceUrl": "https://cdn.prod.website-files.com/6932dc91bcf2019d2c1c5686/6ac353862435ff11b5fc839a_Henri%20Lunch%20and%20Pre%20theatre%2002.10.2026.pdf",
+  "checked": "2026-11-23",
+  "quote": "LUNCH & PRE THEATER SET MENU ... 2 COURSE 29£ 3 COURSE 33£",
   "area": "Covent Garden"
  },
  {
@@ -2835,7 +2805,7 @@
   "branches": "Mayfair",
   "endDate": null,
   "sourceUrl": "https://gattopardo.restaurant/wp-content/uploads/2026/06/Il-Gattopardo-Mayfair-Set-Lunch-Menu.pdf",
-  "checked": "2026-11-21",
+  "checked": "2026-11-23",
   "quote": "IL PRANZETTO / 2 COURSES • £34 / 3 COURSES • £38 / Set Lunch Menu"
  },
  {
@@ -4506,8 +4476,8 @@
   "conditions": null,
   "branches": "Soho",
   "endDate": null,
-  "sourceUrl": "https://www.meleepere.co.uk/menus",
-  "checked": "2026-11-21",
+  "sourceUrl": "https://www.meleepere.co.uk/s/SET-MENU-MELE-september-2026.pdf",
+  "checked": "2026-11-23",
   "quote": "TWO OR THREE COURSE SET MENU £19.50 or £23.50",
   "area": "Soho"
  },
@@ -4590,7 +4560,7 @@
   "branches": "King's Road, Chelsea",
   "endDate": null,
   "sourceUrl": "https://muccisrestaurant.co.uk/menu/kitchen.pdf",
-  "checked": "2026-11-16",
+  "checked": "2026-11-23",
   "quote": "Starters 10 / Italian classics 15 / Pasta 20 / Meat & fish 20"
  },
  {
@@ -5296,7 +5266,7 @@
   "branches": "Angel, Queensway, Victoria, West End",
   "endDate": null,
   "sourceUrl": "https://www.preto.co.uk/app/uploads/2026/07/Dinner-Menu-Angel.pdf",
-  "checked": "2026-11-16",
+  "checked": "2026-11-23",
   "quote": "Everything from the salad bar plus our complete rodizio service. A continuous selection of grilled meats, carved tableside by our passadores.",
   "style": "rodizio",
   "area": "Angel"
@@ -6724,8 +6694,8 @@
   "conditions": null,
   "branches": "Kensington",
   "endDate": null,
-  "sourceUrl": "https://thehollandkensington.co.uk/menus/",
-  "checked": "2026-11-21",
+  "sourceUrl": "http://thehollandkensington.co.uk/wp-content/uploads/2026/11/Set-Lunch-4-11-26.pdf",
+  "checked": "2026-11-23",
   "quote": "Set lunch 2 courses for £18 or 3 for £23",
   "area": "Kensington"
  },
@@ -7222,9 +7192,9 @@
   "conditions": "Tables of up to 4",
   "branches": "Covent Garden",
   "endDate": null,
-  "sourceUrl": "https://town.restaurant/",
-  "checked": "2026-11-21",
-  "quote": "Snack + 2 Courses 32 ... Snack + 3 Courses 38 ... AVAILABLE FOR PARTIES UP TO 4 GUESTS",
+  "sourceUrl": "https://town.restaurant/wp-content/uploads/TOWN_QuickDinner-Novweb-7.pdf",
+  "checked": "2026-11-23",
+  "quote": "Snack + 2 Courses 32 Snack + 3 Courses 38 ... A QUICK DINNER AVAILABLE FOR PARTIES UP TO 4 GUESTS 17:00-18:00",
   "area": "Covent Garden"
  },
  {

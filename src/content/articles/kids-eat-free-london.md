@@ -3,7 +3,7 @@ title: "Kids Eat Free in London: Every Restaurant Deal and Its Small Print"
 seoTitle: "Kids Eat Free London 2026: Every Deal"
 description: "Every kids-eat-free and kids-eat-for-£1 offer with a London branch: the exact terms, the adult spend you have to make, the age limits, and the ten central London Bella Italia branches excluded by name."
 publishedAt: 2026-09-05
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 reviewBy: 2026-12-18
 sites:
   - london
@@ -73,7 +73,6 @@ Three different things are sold as kids eat free:
 | Café Rouge | Kids' meal free | Not stated | Daily 12–4pm, varies by branch | Any adult main | Check the branch |
 | The Real Greek | Kids' meal, drink and ice cream free | Under 12 | Sundays | £15 adult spend per child | Yes — Covent Garden, Soho, Bankside and more |
 | Banana Tree | Main, drink and dessert free | Under-12s menu | Sundays | 1 full-price adult main per child | Check the branch |
-| Franco Manca | Kids' pizza free | 12 and under | Mon–Thu | 1 full-price adult main per child | No — Stoke Newington and Kilburn |
 | Tesco Café | Kids' hot meal, breakfast or pick 'n' mix free | Not stated | Daily until 18 December 2026 | Any adult café item + Clubcard | No — superstore cafés |
 
 ---
@@ -82,7 +81,7 @@ Three different things are sold as kids eat free:
 
 ## Central London, all year
 
-### [Angus Steakhouse](https://www.angussteakhouse.co.uk/kids-eat-free)
+### [Angus Steakhouse](https://www.angussteakhouse.co.uk/)
 
 *Bond Street, Oxford Circus and other branches · daily 12–5pm · 8 and under*
 
@@ -173,12 +172,6 @@ Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Ho
 ### Angus Steakhouse
 
 **One child aged 8 or under eats free with every full-paying adult.** The [offer](https://www.angussteakhouse.co.uk/) runs at the four central branches: Leicester Square, Bond Street, Oxford Circus and Paddington.
-
-### Franco Manca, Stoke Newington and Kilburn
-
-*Stoke Newington, Kilburn · Monday to Thursday · 12 and under*
-
-[Franco Manca](https://www.francomanca.co.uk/whats-on/kids-eat-free) gives a free individual kids' pizza for every full-priced adult main, Monday to Thursday, eat-in only, at just two of its London branches.
 
 ### Tesco Café, until 18 December 2026
 

@@ -3,7 +3,7 @@ title: "London Food Deals: 2-for-1, Percentage Off, Student Discounts and Offers
 seoTitle: "London Food Deals 2026: 2-for-1, Discounts & Offers"
 description: "Restaurant offers across London: 2-for-1 deals, percentage-off offers, student and Blue Light discounts, deals for each day of the week, BYO nights, app sign-up rewards and birthday freebies, with the days, times and conditions."
 publishedAt: 2026-11-11
-updatedAt: 2026-11-22
+updatedAt: 2026-11-23
 reviewBy: 2026-11-26
 sites:
   - london
@@ -28,7 +28,7 @@ faq:
   - q: "Which London restaurants do 2-for-1 deals?"
     a: "The Waterway in Little Venice, Made in Italy on the King's Road and The Mayfair Chippy have 2-for-1 offers on food. Big Easy, Sticks'n'Sushi, Turtle Bay, TGI Fridays and Banana Tree do 2-for-1 on cocktails. Each has its own condition, from a free app to a particular day."
   - q: "Do London restaurants give student discounts?"
-    a: "Many do, most of them as a percentage off food. Las Iguanas, Shoryu Ramen, Côte, Byron, Yo! Sushi, Bone Daddies, Pho, Franco Manca and Rosa's Thai all run one. You need student ID or a verified UNiDAYS or Student Beans account, and several apply only on certain days or exclude set menus."
+    a: "Many do, most of them as a percentage off food. Las Iguanas, Shoryu Ramen, Côte, Yo! Sushi, Bone Daddies, Pho, Franco Manca and Rosa's Thai all run one. You need student ID or a verified UNiDAYS or Student Beans account, and several apply only on certain days or exclude set menus."
   - q: "Can I use a Blue Light Card in London restaurants?"
     a: "Yes. Côte, Frankie & Benny's, Las Iguanas and Yo! Sushi give 20% off, Hard Rock Cafe gives 15% off food and non-alcoholic drinks, and Purezza gives Blue Light workers 15% off a full-size pizza on weekdays."
   - q: "Can I bring my own wine to a London restaurant?"
@@ -101,7 +101,6 @@ Most of these need the card or account in your phone before you sit down. **UNiD
 | [Las Iguanas](https://www.iguanas.co.uk/offers) | 40% off food and drink | Sunday to Thursday, until 26 November 2026 | Student ID. All branches |
 | [Shoryu Ramen](https://www.shoryuramen.com/deals) | 30% off food Monday to Wednesday, 15% off Thursday to Sunday | Every day | Valid Student Beans ID; tables up to six; not on set menus; can be combined with happy hour. All branches |
 | [Frankie & Benny's](https://www.frankieandbennys.com/student-discount) | 30% off food | Any day | Valid student ID; sign up for a code. All branches |
-| [Byron](https://www.byron.co.uk/students) | 25% off food | Every day | Student Byron Club: show the welcome email and student ID. All branches |
 | [Yo! Sushi](https://yosushi.com/restaurants/offers) | 25% off | — | Student ID. All branches |
 | [Ivan Ramen](https://www.ivanramen.co.uk/student-offer) | 25% off ramen | Monday to Friday, noon to 5pm | Valid student ID; ramen only; dine-in only. 98 Farringdon Road, Clerkenwell |
 | [Bone Daddies](https://bonedaddies.com/home/app/) | 20% off | — | Register with a university email. All branches |

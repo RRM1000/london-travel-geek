@@ -204,7 +204,7 @@ Each of these was listed on the restaurant's own site in November 2026.
 | **[28-50](https://www.2850.co.uk/menus/)**, Marylebone | £19.95 / 2, £25.95 / 3 | Mon–Sat 12–5pm, all day Sunday. Up to six |
 | **[Zoilo](https://www.zoilo.co.uk/menus)**, Marylebone | £25.90 / 2, £29.90 / 3, changing weekly | Lunch |
 | **[Lima](https://www.limalondon.com/lunch)**, Fitzrovia | £19 main, £27 starter and main | Mon–Sat 12–5pm |
-| **[Arros QD](https://www.arrosqd.com/menus/lunch-menu/)**, Fitzrovia | £29 / 2, £34 / 3 | Mon–Fri 12–3pm |
+| **[Arros QD](https://www.arrosqd.com/lunch)**, Fitzrovia | £29 / 2, £34 / 3 | Mon–Fri 12–3pm |
 | **[Arlington](https://www.arlington.london/menus/)**, St James's | £29 / 2, £34 / 3 "Classics" | Sat–Sun 11.30am–3pm |
 | **[Chucs](https://www.chucsrestaurants.com/restaurant/mayfair/)**, Mayfair | £30 / 2, £35 / 3 | Up to four |
 | **[Il Gattopardo](https://gattopardo.restaurant/wp-content/uploads/2026/06/Il-Gattopardo-Mayfair-Set-Lunch-Menu.pdf)**, Mayfair | £34 / 2, £38 / 3 | Lunch |
