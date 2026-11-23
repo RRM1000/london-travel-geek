@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19",
+ "generated": "2026-11-23",
  "shows": [
   {
    "slug": "a-christmas-carol-2026",
@@ -168,7 +168,7 @@
   },
   {
    "slug": "ballad-lines",
-   "name": "BALLAD LINES",
+   "name": "Ballad Lines",
    "venue": "The Other Palace",
    "venueSlug": "the-other-palace",
    "location": "Off-West End",
@@ -183,7 +183,7 @@
   },
   {
    "slug": "ballet-shoes-uk-tour",
-   "name": "Ballet Shoes UK Tour",
+   "name": "Ballet Shoes",
    "venue": "Sadler's Wells Theatre",
    "venueSlug": "sadlers-wells-theatre",
    "location": "Off-West End",
@@ -453,7 +453,7 @@
   },
   {
    "slug": "cirque-du-soleil-kurios",
-   "name": "Cirque du Soleil: KURIOS – Cabinet of Curiosities",
+   "name": "Cirque du Soleil: Kurios – Cabinet of Curiosities",
    "venue": "Royal Albert Hall",
    "venueSlug": "royal-albert-hall",
    "location": "Off-West End",
@@ -782,21 +782,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "florence",
-   "name": "Florence",
-   "venue": "Park Theatre",
-   "venueSlug": "park-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-11-16",
-   "pressNight": "2026-11-18",
-   "opening": "2026-11-16",
-   "closing": "2026-11-21",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "fly-you-fools",
    "name": "Fly, You Fools!",
    "venue": "Southwark Playhouse Borough",
@@ -854,21 +839,6 @@
    "opening": "2027-04-14",
    "closing": "2027-05-08",
    "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "girls",
-   "name": "Girls",
-   "venue": "Young Vic Theatre",
-   "venueSlug": "young-vic-theatre",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-22",
-   "pressNight": "2026-10-27",
-   "opening": "2026-10-22",
-   "closing": "2026-11-21",
-   "bookingFrom": "2026-04-23",
    "priorityFrom": null
   },
   {
@@ -1008,7 +978,7 @@
   },
   {
    "slug": "henry-v",
-   "name": "HENRY V",
+   "name": "Henry V",
    "venue": "Old Vic",
    "venueSlug": "old-vic",
    "location": "Off-West End",
@@ -1203,7 +1173,7 @@
   },
   {
    "slug": "julie",
-   "name": "JULIE",
+   "name": "Julie",
    "venue": "Old Vic",
    "venueSlug": "old-vic",
    "location": "Off-West End",
@@ -1368,7 +1338,7 @@
   },
   {
    "slug": "love",
-   "name": "LOVE",
+   "name": "Love",
    "venue": "Almeida Theatre",
    "venueSlug": "almeida-theatre",
    "location": "Off-West End",
@@ -1499,21 +1469,6 @@
    "opening": "2027-07-27",
    "closing": "2027-08-21",
    "bookingFrom": "2026-11-16",
-   "priorityFrom": null
-  },
-  {
-   "slug": "memoriam",
-   "name": "Memoriam",
-   "venue": "Southwark Playhouse Borough",
-   "venueSlug": "southwark-playhouse-borough",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-22",
-   "pressNight": null,
-   "opening": "2026-10-22",
-   "closing": "2026-11-21",
-   "bookingFrom": null,
    "priorityFrom": null
   },
   {
@@ -1997,21 +1952,6 @@
    "priorityFrom": null
   },
   {
-   "slug": "rachel-zegler-live-in-london",
-   "name": "Rachel Zegler – Live in London",
-   "venue": "@sohoplace Theatre",
-   "venueSlug": "sohoplace-theatre",
-   "location": "West End",
-   "genre": "Entertainment",
-   "popularity": null,
-   "firstPreview": null,
-   "pressNight": null,
-   "opening": "2027-01-05",
-   "closing": "2027-01-17",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
    "slug": "relative-motion",
    "name": "Relative Motion",
    "venue": "Southwark Playhouse Borough",
@@ -2219,21 +2159,6 @@
    "opening": "2021-09-29",
    "closing": null,
    "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "some-woman",
-   "name": "Some Woman",
-   "venue": "National Theatre (Dorfman)",
-   "venueSlug": "national-theatre-dorfman",
-   "location": "Off-West End",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-14",
-   "pressNight": "2026-10-15",
-   "opening": "2026-10-07",
-   "closing": "2026-11-21",
-   "bookingFrom": "2026-05-21",
    "priorityFrom": null
   },
   {
@@ -2499,10 +2424,10 @@
    "location": "Off-West End",
    "genre": "Play",
    "popularity": "High",
-   "firstPreview": "2026-11-19",
+   "firstPreview": "2026-11-23",
    "pressNight": "2026-11-30",
    "opening": "2026-11-13",
-   "closing": null,
+   "closing": "2027-02-06",
    "bookingFrom": "2026-03-26",
    "priorityFrom": null
   },
@@ -2549,36 +2474,6 @@
    "opening": "2027-02-12",
    "closing": "2027-02-20",
    "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "the-master-builder",
-   "name": "The Master Builder",
-   "venue": "Arcola Theatre",
-   "venueSlug": "arcola-theatre",
-   "location": "Fringe",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-16",
-   "pressNight": "2026-10-22",
-   "opening": "2026-10-16",
-   "closing": "2026-11-21",
-   "bookingFrom": null,
-   "priorityFrom": null
-  },
-  {
-   "slug": "the-moth",
-   "name": "The Moth",
-   "venue": "Finborough Theatre",
-   "venueSlug": "finborough-theatre",
-   "location": "Fringe",
-   "genre": "Play",
-   "popularity": null,
-   "firstPreview": "2026-10-27",
-   "pressNight": "2026-10-29",
-   "opening": "2026-10-27",
-   "closing": "2026-11-21",
-   "bookingFrom": "2026-09-23",
    "priorityFrom": null
   },
   {
@@ -2748,7 +2643,7 @@
   },
   {
    "slug": "the-snowman",
-   "name": "The Snowman™",
+   "name": "The Snowman",
    "venue": "Peacock Theatre",
    "venueSlug": "peacock-theatre",
    "location": "West End",
@@ -2936,7 +2831,7 @@
    "popularity": null,
    "firstPreview": "2027-11-12",
    "pressNight": "2027-11-25",
-   "opening": "2027-11-01",
+   "opening": "2027-11-12",
    "closing": null,
    "bookingFrom": "2026-11-12",
    "priorityFrom": "2026-11-04"
