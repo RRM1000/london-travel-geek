@@ -137,4 +137,5 @@ Offers that run on one named day are below, with the deals that run on a handful
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)**: First Table and EatClub, plus Too Good To Go's end-of-day bags at half price or less
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**: good food under £15 with no offer, code or membership at all
 - 🍽️ **[Where to Eat in London](/articles/eat-in-london-guide/)**
+- 🎟️ **[London Deals This Month](/articles/london-deals-this-month/)**: theatre, museum, day-trip and travel offers for the month ahead
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
