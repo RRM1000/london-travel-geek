@@ -21,11 +21,16 @@
 //
 // scripts/import-deal-rows.mjs made the show[] entries from the tables the pages used to carry.
 import fs from "node:fs";
+import { pathToFileURL } from "node:url";
 import { fromMarkdown } from "mdast-util-from-markdown";
 import { gfm } from "micromark-extension-gfm";
 import { gfmFromMarkdown } from "mdast-util-gfm";
 
-const ROOT = new URL("../../", import.meta.url);
+// Resolved from this file when it runs from src/lib (astro.config.mjs); from the working
+// directory when Vite has bundled it into a build chunk (the area guide page imports it), where
+// "../../" no longer reaches the repo.
+const HERE = new URL("../../", import.meta.url);
+const ROOT = fs.existsSync(new URL("data/food-deals/deals.json", HERE)) ? HERE : pathToFileURL(`${process.cwd()}/`);
 const DEALS = new URL("data/food-deals/deals.json", ROOT);
 const LISTS = new URL("data/food-deals/lists.json", ROOT);
 const BEST = new URL("data/food-deals/best.json", ROOT);
@@ -208,7 +213,7 @@ function today(data) {
     const extra = anyDay.slice(0, Math.max(3, TODAY_MAX - dated.length)).map(([p, d]) => withUntil([pickName(d, p), p.text, p.when], d.endDate));
     out.push(html(`<div class="deals-today__day" data-day="${day}" hidden>`));
     if (dated.length) out.push(html(`<p class="deals-today__label">On ${Day}s</p>`), ...table(dayHeader, dated));
-    if (extra.length) out.push(html(`<p class="deals-today__label">Any day, including ${Day}</p>`), ...table(["Restaurant", "Deal", "When"], extra));
+    if (extra.length) out.push(html(`<p class="deals-today__label">Every day</p>`), ...table(["Restaurant", "Deal", "When"], extra));
     out.push(html(`</div>`));
   }
   out.push(html(`</div>`));
