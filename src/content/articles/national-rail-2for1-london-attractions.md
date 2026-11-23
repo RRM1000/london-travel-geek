@@ -180,6 +180,7 @@ Our [transport costs guide](/articles/london-public-transport-costs-and-fares/) 
 
 ## Continue planning your London trip
 
+- 🏷️ **[London Deals This Month](/articles/london-deals-this-month/)** — the theatre sales, cheap fares and attraction offers running this month
 - 🎫 **[How Much Does London Transport Cost?](/articles/london-public-transport-costs-and-fares/)**
 - 🚇 **[Getting Around London](/articles/getting-around-london-transport-guide/)**
 - 🎪 **[Free Things to Do in London](/free/)**

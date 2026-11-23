@@ -182,6 +182,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - 🎪 **[Free Things to Do in London](/free/)** — the other half of this page: every national museum, the highest viewing floor in the city, and a seat in the public gallery at the Old Bailey
 - 🧭 **[Solo Travel in London](/articles/solo-travel-london/)** — hostels, capsules and what a day costs when nobody splits the bill
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**
+- 🏷️ **[London Deals This Month](/articles/london-deals-this-month/)** — the dated theatre, attraction, rail and day-trip offers for the month ahead
 - 👀 **[The Best Views in London](/articles/best-views-london/)**
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — the free garden on the Walkie-Talkie, and the Monday ticket release
 - 🏛️ **[The Best Museums in London](/articles/best-museums-london/)**

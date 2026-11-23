@@ -177,6 +177,7 @@ More worth the day:
 - 🚇 **[London transport costs and fares](/articles/london-public-transport-costs-and-fares/)** — how contactless and capping work before you leave town.
 - 🎢 **[Theme parks near London](/articles/theme-parks-near-london/)** — Thorpe Park, Chessington, LEGOLAND, Paultons and the seaside parks, compared on price, train and season.
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — the rules, and the attractions it actually covers.
+- 🏷️ **[London deals this month](/articles/london-deals-this-month/)** — this month's day-trip offers, cheap rail and coach fares, and which attractions are shut.
 - 🎪 **[London music festivals 2027](/articles/london-music-festivals-2027/)** — Reading, Boomtown, Cambridge Folk and the other festivals within about 90 minutes by train.
 - 🗺️ **[London itinerary planner](/articles/london-itineraries-by-days-and-interests/)** — how many days you need, and where a day trip fits.
 - 🎟️ **[Tours for solo travellers](/articles/solo-traveller-tours-london/)** — the small-group day trips and walks where you won't spend the day alone.

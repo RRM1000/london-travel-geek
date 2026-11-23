@@ -124,7 +124,7 @@ Charges apply only to **Euro 1–5/V diesel and Euro 1–3 petrol or earlier**, 
 
 ## The Roman Baths
 
-Prices change with the day of the week and the time of year.
+Prices change with the day of the week and the time of year. Visit between 1 November and 31 December 2026 and the [Roman Baths](https://www.romanbaths.co.uk/visit-november-or-december-and-come-back-1-pound) lets you return between 1 January and 28 February 2027 for £1, with the code from your booking confirmation; more offers like it are in [London deals this month](/articles/london-deals-this-month/).
 
 ![The terrace above the Great Bath at the Roman Baths, its statues along the balustrade with Bath Abbey rising behind](../../assets/articles/bath-day-trip/roman-baths-terrace.jpg)
 

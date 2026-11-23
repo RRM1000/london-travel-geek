@@ -1,0 +1,1507 @@
+[
+ {
+  "name": "London Eye",
+  "url": "https://londoneye.com",
+  "category": "attraction",
+  "foundIn": [
+   "london-eye-guide",
+   "events.json:london-eye-festive-flights"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Madame Tussauds London",
+  "url": "https://madametussauds.com/london",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The London Dungeon",
+  "url": "https://thelondondungeon.com",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "SEA LIFE London Aquarium",
+  "url": "https://visitsealife.com/london",
+  "category": "attraction",
+  "foundIn": [
+   "sea-life-london-aquarium-guide",
+   "events.json:sea-life-london-sea-star-search"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Shrek's Adventure! London",
+  "url": "https://shreksadventure.com",
+  "category": "attraction",
+  "foundIn": [
+   "events.json:shreks-adventure-shrek-the-halls"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Historic Royal Palaces (Tower of London, Hampton Court, Kensington Palace)",
+  "url": "https://hrp.org.uk",
+  "category": "attraction",
+  "foundIn": [
+   "hampton-court-palace-guide",
+   "kensington-palace-guide",
+   "tower-of-london-guide",
+   "westminster-walk"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Sky Garden",
+  "url": "https://skygarden.london",
+  "category": "attraction",
+  "foundIn": [
+   "sky-garden-guide",
+   "events.json:sky-garden-moonlight-concert",
+   "events.json:sky-garden-12-nights-of-christmas",
+   "events.json:sky-garden-new-years-eve"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The View from The Shard",
+  "url": "https://theviewfromtheshard.com",
+  "category": "attraction",
+  "foundIn": [
+   "the-shard-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Tower Bridge Exhibition",
+  "url": "https://towerbridge.org.uk",
+  "category": "attraction",
+  "foundIn": [
+   "tower-bridge-guide"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "ZSL London Zoo",
+  "url": "https://londonzoo.org",
+  "category": "attraction",
+  "foundIn": [
+   "london-zoo-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Kew Gardens",
+  "url": "https://kew.org",
+  "category": "attraction",
+  "foundIn": [
+   "christmas-in-london",
+   "kew-gardens-guide",
+   "things-to-do-in-london-in-december",
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "WWT London Wetland Centre",
+  "url": "https://wwt.org.uk/wetland-centres/london",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Warner Bros. Studio Tour London",
+  "url": "https://wbstudiotour.co.uk",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Up at The O2",
+  "url": "https://theo2.co.uk/upattheo2",
+  "category": "attraction",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "IFS Cloud Cable Car",
+  "url": "https://ifscloudcablecar.london",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "ABBA Voyage",
+  "url": "https://abbavoyage.com",
+  "category": "experience",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Imperial War Museums (Churchill War Rooms, HMS Belfast, IWM London)",
+  "url": "https://iwm.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "imperial-war-museum-london-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Royal Museums Greenwich (Cutty Sark, Royal Observatory, National Maritime Museum)",
+  "url": "https://rmg.co.uk",
+  "category": "museum",
+  "foundIn": [
+   "canary-wharf-greenwich-walk",
+   "cutty-sark-national-maritime-museum-guide",
+   "science-events-london",
+   "things-to-do-in-london-in-april",
+   "things-to-do-in-london-in-december",
+   "things-to-do-in-london-in-january",
+   "things-to-do-in-london-in-march",
+   "events.json:queens-house-snow-queen-santas-grotto"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Golden Hinde",
+  "url": "https://goldenhinde.com",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Westminster Abbey",
+  "url": "https://westminster-abbey.org",
+  "category": "attraction",
+  "foundIn": [
+   "things-to-do-in-london-in-december",
+   "westminster-abbey-guide",
+   "westminster-walk"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "St Paul's Cathedral",
+  "url": "https://stpauls.co.uk",
+  "category": "attraction",
+  "foundIn": [
+   "christmas-in-london",
+   "st-pauls-cathedral-guide",
+   "things-to-do-in-london-in-december"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Royal Collection Trust (Buckingham Palace, Royal Mews)",
+  "url": "https://rct.uk",
+  "category": "attraction",
+  "foundIn": [
+   "buckingham-palace-changing-of-the-guard-guide",
+   "london-exhibitions-2027",
+   "things-to-do-in-london-in-april"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "English Heritage London sites (Eltham Palace, Kenwood, Wellington Arch)",
+  "url": "https://english-heritage.org.uk/visit/places/eltham-palace-and-gardens",
+  "category": "attraction",
+  "foundIn": [
+   "events.json:eltham-palace-christmas-fair",
+   "events.json:kenwood-father-christmas",
+   "events.json:eltham-palace-festive-fun"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "National Trust London",
+  "url": "https://nationaltrust.org.uk/visit/london",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "British Museum",
+  "url": "https://britishmuseum.org",
+  "category": "museum",
+  "foundIn": [
+   "bayeux-tapestry-british-museum",
+   "british-museum-guide",
+   "london-exhibitions-2027",
+   "things-to-do-alone-london",
+   "things-to-do-in-london-in-april",
+   "things-to-do-in-london-in-december",
+   "things-to-do-in-london-in-february",
+   "things-to-do-in-london-in-january",
+   "things-to-do-in-london-in-march",
+   "things-to-do-in-london-in-november"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Natural History Museum",
+  "url": "https://nhm.ac.uk",
+  "category": "museum",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "natural-history-museum-guide",
+   "science-events-london",
+   "events.json:wildlife-photographer-of-the-year"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Science Museum",
+  "url": "https://sciencemuseum.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "science-events-london",
+   "science-museum-guide",
+   "things-to-do-in-london-in-december"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "V&A",
+  "url": "https://vam.ac.uk",
+  "category": "museum",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "things-to-do-alone-london",
+   "things-to-do-in-london-in-april",
+   "things-to-do-in-london-in-march",
+   "events.json:freddie-mercury-splendid-things-va",
+   "events.json:constantinople-to-istanbul-va"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Museum of London",
+  "url": "https://londonmuseum.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "best-museums-london",
+   "london-exhibitions-2027",
+   "things-to-do-in-london-in-december",
+   "things-to-do-in-london-in-november"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Transport Museum",
+  "url": "https://ltmuseum.co.uk",
+  "category": "museum",
+  "foundIn": [
+   "science-events-london"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "National Army Museum",
+  "url": "https://nam.ac.uk",
+  "category": "museum",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "RAF Museum London",
+  "url": "https://rafmuseum.org.uk/london",
+  "category": "museum",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The Postal Museum",
+  "url": "https://postalmuseum.org",
+  "category": "museum",
+  "foundIn": [
+   "science-events-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Design Museum",
+  "url": "https://designmuseum.org",
+  "category": "museum",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "events.json:laika-wildwood-design-museum",
+   "events.json:es-devlin-other-worlds-design-museum"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Horniman Museum",
+  "url": "https://horniman.ac.uk",
+  "category": "museum",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Wellcome Collection",
+  "url": "https://wellcomecollection.org",
+  "category": "museum",
+  "foundIn": [
+   "science-events-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Sir John Soane's Museum",
+  "url": "https://soane.org",
+  "category": "museum",
+  "foundIn": [
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Charles Dickens Museum",
+  "url": "https://dickensmuseum.com",
+  "category": "museum",
+  "foundIn": [
+   "events.json:charles-dickens-museum-christmas"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Fan Museum",
+  "url": "https://thefanmuseum.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "christmas-in-london",
+   "things-to-do-in-london-in-december",
+   "events.json:fan-museum-by-candlelight"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Museum of the Home",
+  "url": "https://museumofthehome.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "events.json:museum-of-the-home-winter-market"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Garden Museum",
+  "url": "https://gardenmuseum.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "events.json:garden-museum-beautiful-useful-craft-fair"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Fashion and Textile Museum",
+  "url": "https://fashiontextilemuseum.org",
+  "category": "museum",
+  "foundIn": [
+   "events.json:ossie-clark-celia-birtwell-fashion-textile-museum"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Guards Museum",
+  "url": "https://theguardsmuseum.com",
+  "category": "museum",
+  "foundIn": [
+   "buckingham-palace-changing-of-the-guard-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Household Cavalry Museum",
+  "url": "https://householdcavalrymuseum.co.uk",
+  "category": "museum",
+  "foundIn": [
+   "westminster-walk"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Cartoon Museum",
+  "url": "https://cartoonmuseum.org",
+  "category": "museum",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Foundling Museum",
+  "url": "https://foundlingmuseum.org.uk",
+  "category": "museum",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Freud Museum London",
+  "url": "https://freud.org.uk",
+  "category": "museum",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Royal Institution",
+  "url": "https://rigb.org",
+  "category": "museum",
+  "foundIn": [
+   "science-events-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Crossness Pumping Station",
+  "url": "https://crossness.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "science-events-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Kempton Great Engines",
+  "url": "https://kemptonsteam.org",
+  "category": "museum",
+  "foundIn": [
+   "science-events-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Museum of Water and Steam",
+  "url": "https://waterandsteam.org.uk",
+  "category": "museum",
+  "foundIn": [
+   "science-events-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Brunel Museum",
+  "url": "https://brunel-museum.org",
+  "category": "museum",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "National Gallery",
+  "url": "https://nationalgallery.org.uk",
+  "category": "gallery",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "national-gallery-guide",
+   "step-free-london",
+   "things-to-do-alone-london",
+   "things-to-do-in-london-in-april",
+   "things-to-do-in-london-in-march",
+   "events.json:shonibare-gainsborough-national-gallery"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "National Portrait Gallery",
+  "url": "https://npg.org.uk",
+  "category": "gallery",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "things-to-do-in-london-in-february",
+   "things-to-do-in-london-in-march"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Tate (Modern and Britain)",
+  "url": "https://tate.org.uk",
+  "category": "gallery",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "sky-garden-guide",
+   "things-to-do-alone-london",
+   "things-to-do-in-london-in-april",
+   "things-to-do-in-london-in-february",
+   "things-to-do-in-london-in-march"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Royal Academy of Arts",
+  "url": "https://royalacademy.org.uk",
+  "category": "gallery",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "things-to-do-in-london-in-april"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Serpentine",
+  "url": "https://serpentinegalleries.org",
+  "category": "gallery",
+  "foundIn": [
+   "london-exhibitions-2027",
+   "things-to-do-in-london-in-march"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Whitechapel Gallery",
+  "url": "https://whitechapelgallery.org",
+  "category": "gallery",
+  "foundIn": [
+   "events.json:film-london-jarman-award-2026-whitechapel",
+   "events.json:cecilia-vicuna-foraging-quipu-whitechapel"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The Courtauld Gallery",
+  "url": "https://courtauld.ac.uk",
+  "category": "gallery",
+  "foundIn": [
+   "events.json:salman-toor-someone-like-you-courtauld"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Dulwich Picture Gallery",
+  "url": "https://dulwichpicturegallery.org.uk",
+  "category": "gallery",
+  "foundIn": [
+   "london-exhibitions-2027"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Saatchi Gallery",
+  "url": "https://saatchigallery.com",
+  "category": "gallery",
+  "foundIn": [
+   "exhibitions-conventions-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Wallace Collection",
+  "url": "https://wallacecollection.org",
+  "category": "gallery",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "ICA",
+  "url": "https://ica.art",
+  "category": "gallery",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Pitzhanger Manor and Gallery",
+  "url": "https://pitzhanger.org.uk",
+  "category": "gallery",
+  "foundIn": [
+   "events.json:peter-blake-in-the-studio-pitzhanger"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Somerset House",
+  "url": "https://somersethouse.org.uk",
+  "category": "gallery",
+  "foundIn": [
+   "london-music-festivals-2027",
+   "things-to-do-in-london-in-january",
+   "events.json:african-art-fair-1-54"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Barbican",
+  "url": "https://barbican.org.uk",
+  "category": "arts-centre",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-shows-london",
+   "london-exhibitions-2027",
+   "london-jazz-festival",
+   "new-years-eve-london",
+   "outdoor-cinema-london",
+   "things-to-do-alone-london",
+   "things-to-do-in-london-in-april",
+   "things-to-do-in-london-in-february"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Southbank Centre",
+  "url": "https://southbankcentre.co.uk",
+  "category": "arts-centre",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-markets-london",
+   "christmas-shows-london",
+   "christmas-walk-london",
+   "london-exhibitions-2027",
+   "london-music-festivals-2027",
+   "things-to-do-in-london-in-february",
+   "things-to-do-in-london-in-january",
+   "things-to-do-in-london-in-march"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Sadler's Wells",
+  "url": "https://sadlerswells.com",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Royal Albert Hall",
+  "url": "https://royalalberthall.com",
+  "category": "theatre",
+  "foundIn": [
+   "last-night-of-the-proms-tickets",
+   "things-to-do-in-london-in-december"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Royal Opera House",
+  "url": "https://rbo.org.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Coliseum (ENO)",
+  "url": "https://londoncoliseum.org",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "National Theatre",
+  "url": "https://nationaltheatre.org.uk",
+  "category": "theatre",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Shakespeare's Globe",
+  "url": "https://shakespearesglobe.com",
+  "category": "theatre",
+  "foundIn": [
+   "bankside-borough-walk",
+   "christmas-in-london",
+   "christmas-shows-london",
+   "christmas-walk-london",
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Young Vic",
+  "url": "https://youngvic.org",
+  "category": "theatre",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Almeida Theatre",
+  "url": "https://almeida.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Royal Court Theatre",
+  "url": "https://royalcourttheatre.com",
+  "category": "theatre",
+  "foundIn": [
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Donmar Warehouse",
+  "url": "https://donmarwarehouse.com",
+  "category": "theatre",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Old Vic",
+  "url": "https://oldvictheatre.com",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Hackney Empire",
+  "url": "https://hackneyempire.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Lyric Hammersmith",
+  "url": "https://lyric.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Wilton's Music Hall",
+  "url": "https://wiltons.org.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Theatre Royal Haymarket",
+  "url": "https://trh.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Lyric Theatre (West End)",
+  "url": "https://thelyrictheatre.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "LW Theatres",
+  "url": "https://lwtheatres.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london",
+   "things-to-do-in-london-in-february"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Delfont Mackintosh Theatres",
+  "url": "https://delfontmackintosh.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Nimax Theatres",
+  "url": "https://nimaxtheatres.com",
+  "category": "theatre",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "ATG Theatres",
+  "url": "https://atgtickets.com",
+  "category": "theatre",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Official London Theatre (SOLT)",
+  "url": "https://officiallondontheatre.com",
+  "category": "theatre",
+  "foundIn": [
+   "olivier-awards-tickets",
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Soho Theatre",
+  "url": "https://sohotheatre.com",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Unicorn Theatre",
+  "url": "https://unicorntheatre.com",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Little Angel Theatre",
+  "url": "https://littleangeltheatre.com",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The Albany",
+  "url": "https://thealbany.org.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Tower Theatre",
+  "url": "https://towertheatre.org.uk",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Underbelly Boulevard Soho",
+  "url": "https://underbellyboulevard.com",
+  "category": "theatre",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Cadogan Hall",
+  "url": "https://cadoganhall.com",
+  "category": "music",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-shows-london",
+   "london-jazz-festival"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Wigmore Hall",
+  "url": "https://wigmore-hall.org.uk",
+  "category": "music",
+  "foundIn": [
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Ronnie Scott's",
+  "url": "https://ronniescotts.co.uk",
+  "category": "music",
+  "foundIn": [
+   "dinner-and-a-show-london",
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Eventim Apollo",
+  "url": "https://eventimapollo.com",
+  "category": "music",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The O2",
+  "url": "https://theo2.co.uk",
+  "category": "music",
+  "foundIn": [
+   "christmas-shows-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Alexandra Palace",
+  "url": "https://alexandrapalace.com",
+  "category": "events",
+  "foundIn": [
+   "christmas-shows-london",
+   "london-sporting-events-2027",
+   "things-to-do-in-london-in-december",
+   "things-to-do-in-london-in-january",
+   "events.json:ally-pally-cinderella-on-ice",
+   "events.json:ally-pally-christmas-at-summit",
+   "events.json:ally-pally-santas-grotto",
+   "events.json:world-darts-championship-alexandra-palace",
+   "events.json:ally-pally-festive-skate",
+   "events.json:masters-snooker-alexandra-palace",
+   "events.json:knit-and-stitch",
+   "events.json:open-studios-alexandra-park"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Wembley Stadium (tours)",
+  "url": "https://wembleystadium.com",
+  "category": "sport",
+  "foundIn": [
+   "london-sporting-events-2027",
+   "events.json:england-women-v-ukraine-wembley"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Tottenham Hotspur Stadium (tours, Skywalk)",
+  "url": "https://tottenhamhotspurstadium.com",
+  "category": "sport",
+  "foundIn": [
+   "london-sporting-events-2027",
+   "things-to-do-in-london-in-march",
+   "events.json:u2-tottenham-hotspur-stadium-2027"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Kia Oval",
+  "url": "https://kiaoval.com",
+  "category": "sport",
+  "foundIn": [
+   "london-sporting-events-2027"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Lord's",
+  "url": "https://lords.org",
+  "category": "sport",
+  "foundIn": [
+   "london-sporting-events-2027"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Queen Elizabeth Olympic Park (ArcelorMittal Orbit)",
+  "url": "https://queenelizabetholympicpark.co.uk",
+  "category": "attraction",
+  "foundIn": [
+   "events.json:winter-adventure-olympic-park"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The Comedy Store",
+  "url": "https://london.thecomedystore.co.uk",
+  "category": "comedy",
+  "foundIn": [
+   "dinner-and-a-show-london",
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Angel Comedy",
+  "url": "https://angelcomedy.co.uk",
+  "category": "comedy",
+  "foundIn": [
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "99 Club Comedy",
+  "url": "https://99clubcomedy.com",
+  "category": "comedy",
+  "foundIn": [
+   "dinner-and-a-show-london"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "BFI Southbank",
+  "url": "https://bfi.org.uk",
+  "category": "cinema",
+  "foundIn": [
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Prince Charles Cinema",
+  "url": "https://princecharlescinema.com",
+  "category": "cinema",
+  "foundIn": [
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Taste Film",
+  "url": "https://tastefilm.co.uk",
+  "category": "cinema",
+  "foundIn": [
+   "dinner-and-a-show-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Alice's Wonderland immersive",
+  "url": "https://aliceimmersivewonderland.com",
+  "category": "experience",
+  "foundIn": [
+   "immersive-experiences-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Lightroom",
+  "url": "https://lightroom.uk",
+  "category": "experience",
+  "foundIn": [
+   "immersive-experiences-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Pirates of the Caribbean immersive",
+  "url": "https://piratesofthecaribbeanimmersive.com",
+  "category": "experience",
+  "foundIn": [
+   "immersive-experiences-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Wake the Tiger",
+  "url": "https://london.wakethetiger.com",
+  "category": "experience",
+  "foundIn": [
+   "immersive-experiences-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Balloon Museum",
+  "url": "https://london.balloonmuseum.world",
+  "category": "experience",
+  "foundIn": [
+   "immersive-experiences-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Immerse LDN",
+  "url": "https://immerseldn.com",
+  "category": "experience",
+  "foundIn": [
+   "immersive-experiences-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "The Murder Express",
+  "url": "https://themurderexpress.com",
+  "category": "experience",
+  "foundIn": [
+   "dinner-and-a-show-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Mamma Mia! The Party",
+  "url": "https://mammamiatheparty.com",
+  "category": "experience",
+  "foundIn": [
+   "dinner-and-a-show-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Uber Boat by Thames Clippers",
+  "url": "https://thamesclippers.com",
+  "category": "cruise",
+  "foundIn": [
+   "how-to-use-london-river-boats",
+   "step-free-london",
+   "thames-river-cruises-london",
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Thames River Sightseeing",
+  "url": "https://thamesriversightseeing.com",
+  "category": "cruise",
+  "foundIn": [
+   "thames-river-cruises-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Thames River Boats",
+  "url": "https://thamesriverboats.co.uk",
+  "category": "cruise",
+  "foundIn": [
+   "thames-river-cruises-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Waterbus Company",
+  "url": "https://londonwaterbus.com",
+  "category": "cruise",
+  "foundIn": [
+   "london-zoo-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Thames Rockets",
+  "url": "https://thamesrockets.com",
+  "category": "cruise",
+  "foundIn": [
+   "new-years-eve-london",
+   "thames-river-cruises-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "City Experiences (Thames cruises, tours)",
+  "url": "https://cityexperiences.com",
+  "category": "cruise",
+  "foundIn": [
+   "dinner-and-a-show-london",
+   "thames-river-cruises-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Big Bus Tours",
+  "url": "https://bigbustours.com",
+  "category": "tour",
+  "foundIn": [
+   "london-tour-buses-compared"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "City Sightseeing London",
+  "url": "https://city-sightseeing.com",
+  "category": "tour",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Strawberry Tours",
+  "url": "https://strawberrytours.com",
+  "category": "tour",
+  "foundIn": [
+   "solo-traveller-tours-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Free Tours by Foot",
+  "url": "https://freetoursbyfoot.com",
+  "category": "tour",
+  "foundIn": [
+   "solo-traveller-tours-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Walks",
+  "url": "https://walks.com",
+  "category": "tour",
+  "foundIn": [
+   "solo-traveller-tours-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Houses of Parliament tours",
+  "url": "https://tickets.parliament.uk",
+  "category": "tour",
+  "foundIn": [
+   "houses-of-parliament-tour-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Battersea Power Station (Lift 109)",
+  "url": "https://batterseapowerstation.co.uk",
+  "category": "attraction",
+  "foundIn": [
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Horizon 22",
+  "url": "https://horizon22.co.uk",
+  "category": "attraction",
+  "foundIn": [
+   "sky-garden-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Bridge City",
+  "url": "https://londonbridgecity.co.uk",
+  "category": "attraction",
+  "foundIn": [
+   "christmas-markets-london",
+   "christmas-walk-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Hampton Court Palace Ice Rink",
+  "url": "https://hamptoncourtpalaceicerink.co.uk",
+  "category": "attraction",
+  "foundIn": [
+   "hampton-court-palace-guide"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Highgate Cemetery",
+  "url": "https://highgatecemetery.org",
+  "category": "attraction",
+  "foundIn": [
+   "events.json:highgate-cemetery-a-christmas-carol"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Chelsea Physic Garden",
+  "url": "https://chelseaphysicgarden.co.uk",
+  "category": "attraction",
+  "foundIn": [
+   "christmas-markets-london",
+   "events.json:chelsea-physic-garden-christmas-fair"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "British Library",
+  "url": "https://bl.uk",
+  "category": "museum",
+  "foundIn": [
+   "things-to-do-alone-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "King's Cross",
+  "url": "https://kingscross.co.uk",
+  "category": "events",
+  "foundIn": [
+   "christmas-in-london",
+   "christmas-markets-london",
+   "outdoor-cinema-london",
+   "things-to-do-in-london-in-january",
+   "events.json:coal-drops-yard-mexican-christmas-market",
+   "events.json:lower-stable-street-christmas-market",
+   "events.json:coal-drops-yard-shotengai-christmas-market",
+   "events.json:kings-cross-roller-skating-rink",
+   "events.json:kings-cross-christmas-under-the-canopy",
+   "events.json:kings-cross-winter-market"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Canary Wharf",
+  "url": "https://canarywharf.com",
+  "category": "events",
+  "foundIn": [
+   "outdoor-cinema-london"
+  ],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "London Art Fair",
+  "url": "https://londonartfair.co.uk",
+  "category": "events",
+  "foundIn": [
+   "things-to-do-in-london-in-january",
+   "events.json:london-art-fair"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "MimeLondon",
+  "url": "https://mimelondon.com",
+  "category": "events",
+  "foundIn": [
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London International Animation Festival",
+  "url": "https://liaf.org.uk",
+  "category": "events",
+  "foundIn": [
+   "events.json:london-international-animation-festival-2026"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Marathon Events",
+  "url": "https://londonmarathonevents.co.uk",
+  "category": "sport",
+  "foundIn": [
+   "things-to-do-in-london-in-april"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "World Snooker Tour (Masters)",
+  "url": "https://wst.tv",
+  "category": "sport",
+  "foundIn": [
+   "london-sporting-events-2027"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London New Year's Day Parade",
+  "url": "https://londonparade.com",
+  "category": "events",
+  "foundIn": [
+   "new-years-eve-london",
+   "things-to-do-in-london-in-january"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Twickets",
+  "url": "https://twickets.live",
+  "category": "theatre",
+  "foundIn": [
+   "london-film-festival",
+   "london-jazz-festival"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "London Theatre Geek (our own)",
+  "url": "https://londontheatregeek.co.uk",
+  "category": "theatre",
+  "foundIn": [
+   "film-premieres-london"
+  ],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Kids Week",
+  "url": "https://kidsweek.co.uk",
+  "category": "family",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Get Into London Theatre",
+  "url": "https://getintolondontheatre.com",
+  "category": "theatre",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Bounce",
+  "url": "https://bounce.com",
+  "category": "experience",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Puttshack",
+  "url": "https://puttshack.com",
+  "category": "experience",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Junkyard Golf Club",
+  "url": "https://junkyardgolfclub.com",
+  "category": "experience",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Flight Club",
+  "url": "https://flightclubdarts.com",
+  "category": "experience",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Clue HQ escape rooms",
+  "url": "https://cluehq.com",
+  "category": "experience",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "The Crystal",
+  "url": "https://thecrystalsite.com",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "blocked-or-empty"
+ },
+ {
+  "name": "Cutty Sark",
+  "url": "https://cutty-sark.com",
+  "category": "attraction",
+  "foundIn": [],
+  "homepageFetch": "read"
+ },
+ {
+  "name": "Art Fund (National Art Pass)",
+  "url": "https://www.artfund.org/national-art-pass",
+  "category": "membership",
+  "foundIn": [],
+  "homepageFetch": "read-individually"
+ },
+ {
+  "name": "Thames RIB Experience",
+  "url": "https://thamesribexperience.com",
+  "category": "cruise",
+  "foundIn": [],
+  "homepageFetch": "read-individually"
+ },
+ {
+  "name": "Hadestown (Lyric Theatre)",
+  "url": "https://uk.hadestown.com",
+  "category": "theatre",
+  "foundIn": [],
+  "homepageFetch": "read-individually"
+ }
+]

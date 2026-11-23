@@ -139,7 +139,7 @@ Each show is booked through its own venue, linked from the [MimeLondon site](htt
 
 ### The New Year Sale
 
-**Official London Theatre's New Year Sale launches on 5 January**, with special offers, exclusive ticket prices and dining deals across West End shows. The Society of London Theatre runs it, and the [New Year Sale page](https://officiallondontheatre.com/new-year-sale/) is where the offers appear. Our [London theatre guide](/articles/london-theatre-guide/) covers choosing a show.
+**Official London Theatre's New Year Sale launches on 5 January**, with special offers, exclusive ticket prices and dining deals across West End shows. The Society of London Theatre runs it, and the [New Year Sale page](https://officiallondontheatre.com/new-year-sale/) is where the offers appear. Our [London theatre guide](/articles/london-theatre-guide/) covers choosing a show, and [London deals this month](/articles/london-deals-this-month/) has the other January theatre, museum, rail and day-trip offers.
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="things-to-do-in-london-in-january-west-end-theatre" data-gyg-partner-id="WWP7I0R" data-gyg-q="West End theatre"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 

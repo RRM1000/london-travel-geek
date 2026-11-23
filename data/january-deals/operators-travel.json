@@ -1,0 +1,1054 @@
+[
+ {
+  "name": "Eurostar",
+  "url": "https://www.eurostar.com/uk-en",
+  "category": "rail-international",
+  "foundIn": [
+   "bruges-day-trip",
+   "brussels-day-trip",
+   "paris-day-trip",
+   "day-trips-from-london",
+   "london-tour-buses-compared",
+   "gatwick-airport-to-london",
+   "heathrow-airport-to-london",
+   "stansted-airport-to-london",
+   "luton-airport-to-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Eurostar Snap",
+  "url": "https://snap.eurostar.com/uk-en",
+  "category": "rail-international",
+  "foundIn": [
+   "how-to-use-london-river-boats",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "LNER",
+  "url": "https://www.lner.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "edinburgh-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Lumo",
+  "url": "https://www.lumo.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "edinburgh-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Caledonian Sleeper",
+  "url": "https://www.sleeper.scot/",
+  "category": "rail",
+  "foundIn": [
+   "edinburgh-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "GWR",
+  "url": "https://www.gwr.com/",
+  "category": "rail",
+  "foundIn": [
+   "bath-day-trip",
+   "cotswolds-day-trip",
+   "downton-abbey-highclere-castle-day-trip",
+   "legoland-windsor-day-trip",
+   "oxford-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london",
+   "heathrow-airport-to-london",
+   "oyster-card-guide-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Chiltern Railways",
+  "url": "https://www.chilternrailways.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "bicester-village-day-trip",
+   "cotswolds-day-trip",
+   "oxford-day-trip",
+   "day-trips-from-london",
+   "oyster-card-guide-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Avanti West Coast",
+  "url": "https://www.avantiwestcoast.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "requested in brief; not named in the articles"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Southeastern",
+  "url": "https://www.southeasternrailway.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "canterbury-dover-day-trip",
+   "leeds-castle-day-trip",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "South Western Railway",
+  "url": "https://www.southwesternrailway.com/",
+  "category": "rail",
+  "foundIn": [
+   "chessington-world-of-adventures-day-trip",
+   "legoland-windsor-day-trip",
+   "paultons-park-day-trip",
+   "thorpe-park-day-trip",
+   "windsor-day-trip",
+   "oyster-card-guide-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Southern",
+  "url": "https://www.southernrailway.com/",
+  "category": "rail",
+  "foundIn": [
+   "bath-day-trip",
+   "brighton-seven-sisters-day-trip",
+   "cambridge-day-trip",
+   "cotswolds-day-trip",
+   "gatwick-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage returned HTTP 403 to curl; not read"
+ },
+ {
+  "name": "Thameslink",
+  "url": "https://www.thameslinkrailway.com/",
+  "category": "rail",
+  "foundIn": [
+   "brighton-seven-sisters-day-trip",
+   "gatwick-airport-to-london",
+   "heathrow-airport-to-london",
+   "luton-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage returned HTTP 403 to curl; not read"
+ },
+ {
+  "name": "Gatwick Express",
+  "url": "https://www.gatwickexpress.com/",
+  "category": "airport-rail",
+  "foundIn": [
+   "gatwick-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage returned HTTP 403 to curl; not read"
+ },
+ {
+  "name": "Heathrow Express",
+  "url": "https://www.heathrowexpress.com/",
+  "category": "airport-rail",
+  "foundIn": [
+   "heathrow-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Elizabeth line (TfL Rail)",
+  "url": "https://tfl.gov.uk/modes/elizabeth-line/",
+  "category": "tfl",
+  "foundIn": [
+   "legoland-windsor-day-trip",
+   "windsor-day-trip",
+   "gatwick-airport-to-london",
+   "heathrow-airport-to-london",
+   "stansted-airport-to-london",
+   "luton-airport-to-london",
+   "london-city-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "how-to-use-london-river-boats",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Stansted Express",
+  "url": "https://www.stanstedexpress.com/",
+  "category": "airport-rail",
+  "foundIn": [
+   "stansted-airport-to-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "East Midlands Railway",
+  "url": "https://www.eastmidlandsrailway.co.uk/",
+  "category": "airport-rail",
+  "foundIn": [
+   "luton-airport-to-london",
+   "oyster-card-guide-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Greater Anglia",
+  "url": "https://www.greateranglia.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "cambridge-day-trip",
+   "oyster-card-guide-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Great Northern",
+  "url": "https://www.greatnorthernrail.com/",
+  "category": "rail",
+  "foundIn": [
+   "cambridge-day-trip",
+   "oyster-card-guide-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "CrossCountry",
+  "url": "https://www.crosscountrytrains.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "requested in brief; not named in the articles"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "ScotRail",
+  "url": "https://www.scotrail.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "requested in brief; not named in the articles"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage returned HTTP 403 to curl; not read"
+ },
+ {
+  "name": "National Rail",
+  "url": "https://www.nationalrail.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "bath-day-trip",
+   "cambridge-day-trip",
+   "chessington-world-of-adventures-day-trip",
+   "cotswolds-day-trip",
+   "legoland-windsor-day-trip",
+   "oxford-day-trip",
+   "thorpe-park-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london",
+   "gatwick-airport-to-london",
+   "heathrow-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Railcards (National Railcard)",
+  "url": "https://www.railcard.co.uk/",
+  "category": "railcard",
+  "foundIn": [
+   "canterbury-dover-day-trip",
+   "edinburgh-day-trip",
+   "heathrow-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Network Rail",
+  "url": "https://www.networkrail.co.uk/",
+  "category": "rail",
+  "foundIn": [
+   "bath-day-trip",
+   "cotswolds-day-trip",
+   "legoland-windsor-day-trip",
+   "oxford-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london",
+   "heathrow-airport-to-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Days Out Guide (2FOR1 with rail)",
+  "url": "https://www.daysoutguide.co.uk/",
+  "category": "rail-offer",
+  "foundIn": [
+   "bath-day-trip",
+   "cambridge-day-trip",
+   "chessington-world-of-adventures-day-trip",
+   "legoland-windsor-day-trip",
+   "oxford-day-trip",
+   "thorpe-park-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london",
+   "london-public-transport-costs-and-fares"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "National Express",
+  "url": "https://www.nationalexpress.com/",
+  "category": "coach",
+  "foundIn": [
+   "bath-day-trip",
+   "cambridge-day-trip",
+   "gatwick-airport-to-london",
+   "heathrow-airport-to-london",
+   "stansted-airport-to-london",
+   "luton-airport-to-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Megabus",
+  "url": "https://uk.megabus.com/",
+  "category": "coach",
+  "foundIn": [
+   "gatwick-airport-to-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage returned HTTP 403 to curl; not read"
+ },
+ {
+  "name": "FlixBus",
+  "url": "https://www.flixbus.co.uk/",
+  "category": "coach",
+  "foundIn": [
+   "requested in brief; not named in the articles"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Oxford Tube",
+  "url": "https://www.oxfordbus.co.uk/oxford-tube",
+  "category": "coach",
+  "foundIn": [
+   "oxford-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched; no usable page text (connection failure, redirect loop or 404)"
+ },
+ {
+  "name": "Stagecoach",
+  "url": "https://www.stagecoachbus.com/",
+  "category": "coach",
+  "foundIn": [
+   "bicester-village-day-trip",
+   "cambridge-day-trip",
+   "cotswolds-day-trip",
+   "leeds-castle-day-trip",
+   "oxford-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Salisbury Reds",
+  "url": "https://www.salisburyreds.co.uk/",
+  "category": "bus",
+  "foundIn": [
+   "paultons-park-day-trip",
+   "stonehenge-day-trip"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "The Stonehenge Tour",
+  "url": "https://www.thestonehengetour.info/",
+  "category": "bus",
+  "foundIn": [
+   "stonehenge-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "TfL fares",
+  "url": "https://tfl.gov.uk/fares/",
+  "category": "tfl",
+  "foundIn": [
+   "bath-day-trip",
+   "brighton-seven-sisters-day-trip",
+   "bruges-day-trip",
+   "brussels-day-trip",
+   "cambridge-day-trip",
+   "canterbury-dover-day-trip",
+   "chessington-world-of-adventures-day-trip",
+   "cotswolds-day-trip",
+   "downton-abbey-highclere-castle-day-trip",
+   "edinburgh-day-trip",
+   "legoland-windsor-day-trip",
+   "oxford-day-trip",
+   "paris-day-trip",
+   "paultons-park-day-trip",
+   "thorpe-park-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london",
+   "london-tour-buses-compared",
+   "gatwick-airport-to-london",
+   "heathrow-airport-to-london",
+   "stansted-airport-to-london",
+   "luton-airport-to-london",
+   "london-city-airport-to-london",
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "how-to-use-london-river-boats",
+   "thames-river-cruises-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Uber Boat by Thames Clippers",
+  "url": "https://www.thamesclippers.com/",
+  "category": "river",
+  "foundIn": [
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "how-to-use-london-river-boats",
+   "thames-river-cruises-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "City Cruises",
+  "url": "https://www.cityexperiences.com/london/city-cruises/",
+  "category": "river",
+  "foundIn": [
+   "london-tour-buses-compared",
+   "how-to-use-london-river-boats",
+   "thames-river-cruises-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Thames River Sightseeing",
+  "url": "https://thamesriversightseeing.com/",
+  "category": "river",
+  "foundIn": [
+   "thames-river-cruises-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Thames Rockets",
+  "url": "https://www.thamesrockets.com/",
+  "category": "river",
+  "foundIn": [
+   "how-to-use-london-river-boats",
+   "thames-river-cruises-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Thames River Boats",
+  "url": "https://www.thamesriverboats.co.uk/",
+  "category": "river",
+  "foundIn": [
+   "thames-river-cruises-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Big Bus Tours",
+  "url": "https://www.bigbustours.com/en/london",
+  "category": "tour-bus",
+  "foundIn": [
+   "london-tour-buses-compared"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage returned HTTP 403 to curl; not read"
+ },
+ {
+  "name": "Original Tour",
+  "url": "https://www.theoriginaltour.com/",
+  "category": "tour-bus",
+  "foundIn": [
+   "london-tour-buses-compared",
+   "thames-river-cruises-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Golden Tours",
+  "url": "https://www.goldentours.com/",
+  "category": "tour-bus",
+  "foundIn": [
+   "bath-day-trip",
+   "cambridge-day-trip",
+   "canterbury-dover-day-trip",
+   "leeds-castle-day-trip",
+   "windsor-day-trip",
+   "london-tour-buses-compared",
+   "thames-river-cruises-london",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched; no usable page text (connection failure, redirect loop or 404)"
+ },
+ {
+  "name": "Bustronome",
+  "url": "https://london.bustronome.com/",
+  "category": "tour-bus",
+  "foundIn": [
+   "afternoon-tea-bus-tours-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Brigit's Bakery Tea Bus",
+  "url": "https://www.b-bakery.com/",
+  "category": "tour-bus",
+  "foundIn": [
+   "afternoon-tea-bus-tours-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Evan Evans Tours",
+  "url": "https://evanevanstours.com/",
+  "category": "coach-tour",
+  "foundIn": [
+   "bicester-village-day-trip"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Heathrow",
+  "url": "https://www.heathrow.com/",
+  "category": "airport",
+  "foundIn": [
+   "heathrow-airport-to-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "IFS Cloud Cable Car (The O2)",
+  "url": "https://www.theo2.co.uk/visit-us/getting-to-the-o2/cable-car",
+  "category": "tfl",
+  "foundIn": [
+   "london-public-transport-costs-and-fares",
+   "oyster-card-guide-london",
+   "how-to-use-london-river-boats",
+   "getting-around-london-transport-guide"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Roman Baths",
+  "url": "https://www.romanbaths.co.uk/",
+  "category": "attraction-bath",
+  "foundIn": [
+   "bath-day-trip",
+   "cotswolds-day-trip",
+   "stonehenge-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Thermae Bath Spa",
+  "url": "https://www.thermaebathspa.com/",
+  "category": "attraction-bath",
+  "foundIn": [
+   "bath-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Bath Abbey",
+  "url": "https://www.bathabbey.org/",
+  "category": "attraction-bath",
+  "foundIn": [
+   "bath-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Jane Austen Centre",
+  "url": "https://www.janeausten.co.uk/",
+  "category": "attraction-bath",
+  "foundIn": [
+   "bath-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Prior Park (National Trust)",
+  "url": "https://www.nationaltrust.org.uk/visit/bath-bristol/prior-park-landscape-garden",
+  "category": "attraction-bath",
+  "foundIn": [
+   "bath-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Bicester Village",
+  "url": "https://www.bicestervillage.com/",
+  "category": "attraction-shopping",
+  "foundIn": [
+   "bicester-village-day-trip",
+   "oxford-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Royal Pavilion Brighton",
+  "url": "https://brightonmuseums.org.uk/royal-pavilion/",
+  "category": "attraction-brighton",
+  "foundIn": [
+   "brighton-seven-sisters-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Brighton i360",
+  "url": "https://brightoni360.co.uk/",
+  "category": "attraction-brighton",
+  "foundIn": [
+   "brighton-seven-sisters-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Brighton Palace Pier",
+  "url": "https://brightonpier.co.uk/",
+  "category": "attraction-brighton",
+  "foundIn": [
+   "brighton-seven-sisters-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Seven Sisters / Birling Gap (National Trust)",
+  "url": "https://www.nationaltrust.org.uk/visit/sussex/seven-sisters-and-birling-gap",
+  "category": "attraction-coast",
+  "foundIn": [
+   "brighton-seven-sisters-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Canterbury Cathedral",
+  "url": "https://www.canterbury-cathedral.org/",
+  "category": "attraction-canterbury",
+  "foundIn": [
+   "canterbury-dover-day-trip",
+   "leeds-castle-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Dover Castle (English Heritage)",
+  "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/",
+  "category": "attraction-dover",
+  "foundIn": [
+   "canterbury-dover-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Leeds Castle",
+  "url": "https://www.leeds-castle.com/",
+  "category": "attraction-kent",
+  "foundIn": [
+   "bath-day-trip",
+   "canterbury-dover-day-trip",
+   "leeds-castle-day-trip",
+   "stonehenge-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Chessington World of Adventures",
+  "url": "https://www.chessington.com/",
+  "category": "theme-park",
+  "foundIn": [
+   "chessington-world-of-adventures-day-trip",
+   "legoland-windsor-day-trip",
+   "paultons-park-day-trip",
+   "thorpe-park-day-trip"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Legoland Windsor",
+  "url": "https://www.legoland.co.uk/",
+  "category": "theme-park",
+  "foundIn": [
+   "chessington-world-of-adventures-day-trip",
+   "legoland-windsor-day-trip",
+   "paultons-park-day-trip",
+   "thorpe-park-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Thorpe Park",
+  "url": "https://www.thorpepark.com/",
+  "category": "theme-park",
+  "foundIn": [
+   "chessington-world-of-adventures-day-trip",
+   "legoland-windsor-day-trip",
+   "paultons-park-day-trip",
+   "thorpe-park-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Paultons Park",
+  "url": "https://paultonspark.co.uk/",
+  "category": "theme-park",
+  "foundIn": [
+   "chessington-world-of-adventures-day-trip",
+   "legoland-windsor-day-trip",
+   "paultons-park-day-trip",
+   "thorpe-park-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": true,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Highclere Castle",
+  "url": "https://www.highclerecastle.co.uk/",
+  "category": "attraction-hampshire",
+  "foundIn": [
+   "cotswolds-day-trip",
+   "downton-abbey-highclere-castle-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Stonehenge (English Heritage)",
+  "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+  "category": "attraction-wiltshire",
+  "foundIn": [
+   "bath-day-trip",
+   "brighton-seven-sisters-day-trip",
+   "bruges-day-trip",
+   "canterbury-dover-day-trip",
+   "cotswolds-day-trip",
+   "oxford-day-trip",
+   "paris-day-trip",
+   "paultons-park-day-trip",
+   "stonehenge-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Windsor Castle (Royal Collection Trust)",
+  "url": "https://www.rct.uk/visit/windsor-castle",
+  "category": "attraction-windsor",
+  "foundIn": [
+   "bath-day-trip",
+   "oxford-day-trip",
+   "stonehenge-day-trip",
+   "windsor-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Edinburgh Castle",
+  "url": "https://www.edinburghcastle.scot/",
+  "category": "attraction-edinburgh",
+  "foundIn": [
+   "edinburgh-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Christ Church Oxford",
+  "url": "https://www.chch.ox.ac.uk/visit",
+  "category": "attraction-oxford",
+  "foundIn": [
+   "cambridge-day-trip",
+   "oxford-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Bodleian Libraries",
+  "url": "https://visit.bodleian.ox.ac.uk/",
+  "category": "attraction-oxford",
+  "foundIn": [
+   "oxford-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Ashmolean Museum",
+  "url": "https://www.ashmolean.org/",
+  "category": "attraction-oxford",
+  "foundIn": [
+   "oxford-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Blenheim Palace",
+  "url": "https://www.blenheimpalace.com/",
+  "category": "attraction-oxfordshire",
+  "foundIn": [
+   "cotswolds-day-trip",
+   "oxford-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "King's College Cambridge",
+  "url": "https://www.kings.cam.ac.uk/visit",
+  "category": "attraction-cambridge",
+  "foundIn": [
+   "cambridge-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Fitzwilliam Museum",
+  "url": "https://fitzmuseum.cam.ac.uk/",
+  "category": "attraction-cambridge",
+  "foundIn": [
+   "cambridge-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Sudeley Castle",
+  "url": "https://www.sudeleycastle.co.uk/",
+  "category": "attraction-cotswolds",
+  "foundIn": [
+   "cotswolds-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Broadway Tower",
+  "url": "https://www.broadwaytower.co.uk/",
+  "category": "attraction-cotswolds",
+  "foundIn": [
+   "cotswolds-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched; no usable page text (connection failure, redirect loop or 404)"
+ },
+ {
+  "name": "Snowshill Manor (National Trust)",
+  "url": "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/snowshill-manor-and-garden",
+  "category": "attraction-cotswolds",
+  "foundIn": [
+   "cotswolds-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Hidcote (National Trust)",
+  "url": "https://www.nationaltrust.org.uk/visit/gloucestershire-cotswolds/hidcote",
+  "category": "attraction-cotswolds",
+  "foundIn": [
+   "cotswolds-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ },
+ {
+  "name": "Birdland Bourton-on-the-Water",
+  "url": "https://www.birdland.co.uk/",
+  "category": "attraction-cotswolds",
+  "foundIn": [
+   "cotswolds-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Visit Bruges",
+  "url": "https://www.visitbruges.be/en",
+  "category": "attraction-bruges",
+  "foundIn": [
+   "bruges-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Atomium Brussels",
+  "url": "https://atomium.be/",
+  "category": "attraction-brussels",
+  "foundIn": [
+   "brussels-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Eiffel Tower",
+  "url": "https://www.toureiffel.paris/en",
+  "category": "attraction-paris",
+  "foundIn": [
+   "paris-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage returned HTTP 403 to curl; not read"
+ },
+ {
+  "name": "Louvre",
+  "url": "https://www.louvre.fr/en",
+  "category": "attraction-paris",
+  "foundIn": [
+   "paris-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Warwick Castle",
+  "url": "https://www.warwick-castle.com/",
+  "category": "attraction-warwickshire",
+  "foundIn": [
+   "oxford-day-trip",
+   "day-trips-from-london"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "homepage fetched"
+ },
+ {
+  "name": "Eton College",
+  "url": "https://www.etoncollege.com/visits/",
+  "category": "attraction-windsor",
+  "foundIn": [
+   "windsor-day-trip"
+  ],
+  "linkedInArticle": false,
+  "checkedResult": "not fetched (client-rendered or not reached in this pass)"
+ }
+]

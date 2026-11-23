@@ -183,6 +183,7 @@ You pay once a year for a bundle of free tickets plus a standing discount. They 
 - 🌙 **[Outdoor Cinema in London](/articles/outdoor-cinema-london/)**, including the free summer screens
 - 🎞️ **[BFI London Film Festival: Dates and Tickets](/articles/london-film-festival/)**
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**
+- 🏷️ **[London Deals This Month](/articles/london-deals-this-month/)** — theatre sales, cheap fares and attraction offers, refreshed monthly
 - 🎪 **[Free Things to Do in London](/free/)**
 
 ---

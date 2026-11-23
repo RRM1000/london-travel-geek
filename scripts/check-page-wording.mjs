@@ -96,6 +96,7 @@ const RELATIVE_ALLOW = [
   "be well for now",       // a Better membership name
   "today's sherlock holmes museum", // the museum, set against Conan Doyle's 221
   "last season's stock",   // outlet-centre stock, not a date
+  "london deals this month", // the monthly page's fixed name; its body names the month
 ];
 
 const hits = [];
