@@ -176,6 +176,22 @@ There is a free trial. Cancellation is by email at the end of the billing cycle.
 
 ---
 
+## Blue Light Card and other memberships
+
+These cost nothing extra: the discount comes with something you already have, such as an emergency services job, AA membership, a gym membership or a pension, not a dining scheme. Show the card or ID when you order.
+
+### Blue Light Card
+
+{deals list=restaurant-discount-cards-london#blue-light-card}
+
+### Other memberships
+
+{deals list=restaurant-discount-cards-london#other-memberships}
+
+Students have their own list: [student restaurant discounts in London](/articles/student-discounts-london/).
+
+---
+
 ## Other schemes, and what they actually are
 
 - **Hi-Life Diners Club** still exists as a company — it is named in Ello Group's terms — but there is nothing separate to buy.
@@ -222,6 +238,8 @@ So a card will not usually come off a restaurant's own fixed-price lunch — ask
 
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)** — 2-for-1, student and Blue Light discounts, offers by day, BYO and app rewards
+- 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)** — food and cocktails two for one
+- 🎂 **[Birthday Freebies in London](/articles/birthday-freebies-london/)** — the free meals, desserts and drinks for signing up
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — packages compared on price per minute, and what “bottomless” covers
 - 👨‍👩‍👧 **[Kids Eat Free](/articles/kids-eat-free-london/)** — every free and £1 children's offer with a London branch

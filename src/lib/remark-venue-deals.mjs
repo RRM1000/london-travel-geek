@@ -24,7 +24,7 @@ const SNAPSHOT = new URL("data/snapshot-restaurants-v2.json", ROOT);
 const CHAINS = new URL("data/food-deals/chains.json", ROOT);
 // The deal pages: every entry on them is already a deal, so a box would repeat it.
 // Add any new deal page here (and to MORE below if deals should point to it).
-const SKIP = /\/(food-deals-london|happy-hour-london|restaurant-deals-london|kids-eat-free-london|bottomless-brunch-london|restaurant-discount-cards-london|all-you-can-eat-london|off-peak-restaurant-apps-london)\.md$/;
+const SKIP = /\/(food-deals-london|happy-hour-london|restaurant-deals-london|kids-eat-free-london|bottomless-brunch-london|restaurant-discount-cards-london|all-you-can-eat-london|off-peak-restaurant-apps-london|two-for-one-deals-london|student-discounts-london|birthday-freebies-london)\.md$/;
 
 // Where "More ... →" goes for each type of deal: its own guide, or its section of the hub.
 const HUB = "/articles/food-deals-london/";
@@ -35,13 +35,13 @@ const MORE = {
   "all-you-can-eat": { url: "/articles/all-you-can-eat-london/", label: "More all-you-can-eat" },
   "kids-eat-free": { url: "/articles/kids-eat-free-london/", label: "More kids eat free" },
   bottomless: { url: "/articles/bottomless-brunch-london/", label: "More bottomless brunches" },
-  "two-for-one": { url: `${HUB}#2-for-1-deals`, label: "More 2-for-1 deals" },
+  "two-for-one": { url: "/articles/two-for-one-deals-london/", label: "More 2-for-1 deals" },
   "percent-off": { url: `${HUB}#percentage-off-deals`, label: "More money-off deals" },
-  "discount-group": { url: `${HUB}#student-blue-light-and-other-discount-group-deals`, label: "More student and Blue Light deals" },
+  "discount-group": { url: "/articles/student-discounts-london/", label: "More student discounts" },
   "day-deal": { url: `${HUB}#deals-by-day-of-the-week`, label: "Deals by day of the week" },
   byo: { url: `${HUB}#bring-your-own-bottle`, label: "More BYO restaurants" },
   "app-reward": { url: `${HUB}#app-and-loyalty-sign-up-rewards`, label: "More app rewards" },
-  birthday: { url: `${HUB}#birthday-freebies`, label: "More birthday freebies" },
+  birthday: { url: "/articles/birthday-freebies-london/", label: "More birthday freebies" },
   "end-of-day": { url: `${HUB}#end-of-day-reductions`, label: "More end-of-day reductions" },
   default: { url: HUB, label: "All London food deals" },
 };
@@ -56,8 +56,9 @@ function load() {
   if (cache.mtime === mtime) return cache;
   const today = new Date().toISOString().slice(0, 10);
   const deals = JSON.parse(fs.readFileSync(DEALS, "utf8"))
-    // Paid-card deals (Tastecard and the like) live on the discount cards page only.
-    .filter((d) => !d.recheck && !d.card && (!d.endDate || d.endDate >= today));
+    // Paid-card deals (Tastecard and the like) live on the discount cards page only. Deals
+    // written on a deal page by hand (origin "page") have no source quote to stand on.
+    .filter((d) => !d.recheck && !d.card && d.origin !== "page" && (!d.endDate || d.endDate >= today));
   const snap = fs.existsSync(SNAPSHOT) ? JSON.parse(fs.readFileSync(SNAPSHOT, "utf8")) : [];
   const slugByName = new Map(snap.map((r) => [norm(r.Name), r.Slug]));
   const bySlug = new Map();
@@ -172,7 +173,11 @@ export default function remarkVenueDeals() {
         children.push({ type: "text", value: "." });
       });
       // And onward to the page that lists every deal of this kind.
-      const more = MORE[deals[0].type] ?? MORE.default;
+      // Blue Light and membership offers live on the discount cards page, not the student one.
+      const group = deals[0].type === "discount-group" && !/student|unidays|totum/i.test(`${deals[0].offer} ${deals[0].conditions ?? ""}`);
+      const more = group
+        ? { url: "/articles/restaurant-discount-cards-london/#blue-light-card-and-other-memberships", label: "More Blue Light and membership deals" }
+        : MORE[deals[0].type] ?? MORE.default;
       children.push({ type: "text", value: " " });
       children.push({ type: "link", url: more.url, data: { hProperties: { className: ["venue-deal__more"] } }, children: [{ type: "text", value: `${more.label} →` }] });
       kids.splice(at, 0, { type: "paragraph", data: { hProperties: { className: ["venue-deal"] } }, children });

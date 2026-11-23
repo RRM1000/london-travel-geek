@@ -205,5 +205,8 @@ No app combines with another app, none combines with a [Tastecard or Gourmet Soc
 - 🌙 **[Late Night Eating in London](/articles/late-night-eating-london/)** — for the Last Table crowd
 - 🛵 **[Food Delivery Apps in London](/articles/food-delivery-apps-london/)** — Deliveroo, Uber Eats and Just Eat compared
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**
+- 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)**: food and cocktails two for one
+- 🎓 **[Student Restaurant Discounts](/articles/student-discounts-london/)**: what UNiDAYS, Student Beans and a student card get you
+- 🎂 **[Birthday Freebies in London](/articles/birthday-freebies-london/)**: the free meals, desserts and drinks for signing up
 
 *Fees and discounts as at September 2026; venue counts and EatClub offers as at 26 October 2026. Offers on these platforms change daily, so confirm in the app before you travel.*

@@ -41,10 +41,11 @@ export const londonSite: SiteConfig = {
       secondary: {
         title: "Deals",
         children: [
+          // The hub first; discount cards dropped off (the hub links to them).
+          { label: "All food deals", href: "/articles/food-deals-london/" },
           { label: "Set lunch & pre-theatre deals", href: "/articles/restaurant-deals-london/" },
-          { label: "Restaurant discount cards", href: "/articles/restaurant-discount-cards-london/" },
+          { label: "Happy hours", href: "/articles/happy-hour-london/" },
           { label: "Kids eat free", href: "/articles/kids-eat-free-london/" },
-          { label: "Food deals: 2-for-1 & discounts", href: "/articles/food-deals-london/" },
         ],
       },
     },
@@ -60,10 +61,11 @@ export const londonSite: SiteConfig = {
       // topic page opens with all of them.
       children: [
         { label: "What's on", href: "/whats-on/" },
+        // In for Shopping (23 Nov 2026): the home page no longer lists events, so the nav has to reach them.
+        { label: "Big events this year", href: "/whats-on/big-events/" },
         { label: "Free things to do", href: "/free/" },
         { label: "Best museums", href: "/articles/best-museums-london/" },
         { label: "Best views", href: "/articles/best-views-london/" },
-        { label: "Shopping in London", href: "/articles/shopping-in-london/" },
         { label: "Hidden London", href: "/articles/hidden-london-secret-places/" },
         { label: "London with children", href: "/articles/london-with-children/" },
         { label: "All things to do", href: "/topics/things-to-do/" },
@@ -248,9 +250,10 @@ export const londonSite: SiteConfig = {
         { label: "One day — plans by interest", href: "/articles/one-day-london-itineraries-by-interest/" },
         { label: "Three days in London", href: "/articles/three-days-in-london-itinerary/" },
         { label: "Five days in London", href: "/articles/five-days-in-london-itinerary/" },
+        // Up the list since it lost its home page tile to food deals.
+        { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
         { label: "London on a budget", href: "/articles/london-on-a-budget/" },
         { label: "Is the London Pass worth it?", href: "/articles/london-pass-guide/" },
-        { label: "Travel SIM & eSIM", href: "/topics/travel-sim-cards/" },
         { label: "All planning guides", href: "/topics/plan-your-trip/" },
       ],
       // Four, like every other rail. Fares and the Underground how-to are both

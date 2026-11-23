@@ -1,0 +1,284 @@
+{
+ "food-deals-london#percentage-off-deals": {
+  "header": [
+   "Restaurant",
+   "Offer",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#monday": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#tuesday": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#wednesday": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#thursday": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#friday": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#saturday": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#sunday": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#deals-that-run-on-several-weekdays": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#end-of-day-reductions": {
+  "header": [
+   "Restaurant",
+   "Offer",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#bring-your-own-bottle": {
+  "header": [
+   "Restaurant",
+   "Corkage",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#a-reward-for-joining": {
+  "header": [
+   "Restaurant",
+   "What you get",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "food-deals-london#stamps-and-points": {
+  "header": [
+   "Restaurant",
+   "What you earn",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#the-biggest-savings-fine-dining-at-lunch": {
+  "header": [
+   "Restaurant",
+   "Set lunch",
+   "Dinner instead",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#reliable-mid-range-set-lunches": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#chain-and-mini-chain-set-menus": {
+  "header": [
+   "Chain",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#soho-covent-garden-and-the-strand": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#mayfair-st-james-s-marylebone-and-fitzrovia": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#knightsbridge-kensington-and-chelsea": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#the-city-east-and-north-london": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#south-and-west-london": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-deals-london#pre-theatre-and-early-evening": {
+  "header": [
+   "Restaurant",
+   "Deal",
+   "When"
+  ],
+  "nameCol": 0
+ },
+ "happy-hour-london#every-happy-hour-at-a-glance": {
+  "header": [
+   "Where",
+   "When",
+   "Deal"
+  ],
+  "nameCol": 0
+ },
+ "happy-hour-london#happy-hours-at-the-weekend": {
+  "header": [
+   "Day",
+   "Where",
+   "Times"
+  ],
+  "nameCol": 1
+ },
+ "kids-eat-free-london#every-offer-at-a-glance": {
+  "header": [
+   "Where",
+   "Offer",
+   "Age",
+   "When",
+   "Adult condition",
+   "Central London"
+  ],
+  "nameCol": 0
+ },
+ "kids-eat-free-london#kids-eat-free-at-breakfast": {
+  "header": [
+   "Hotel or pub",
+   "Offer",
+   "Age",
+   "Adult price",
+   "Serving times"
+  ],
+  "nameCol": 0
+ },
+ "bottomless-brunch-london#every-price-side-by-side": {
+  "header": [
+   "Venue",
+   "Area",
+   "Price",
+   "Minutes",
+   "Per minute",
+   "What that buys"
+  ],
+  "nameCol": 0
+ },
+ "all-you-can-eat-london#every-offer-side-by-side": {
+  "header": [
+   "Venue",
+   "Style",
+   "Price",
+   "Time limit"
+  ],
+  "nameCol": 0
+ },
+ "two-for-one-deals-london#deals": {
+  "header": [
+   "Restaurant",
+   "Offer",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "student-discounts-london#deals": {
+  "header": [
+   "Restaurant",
+   "Offer",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "birthday-freebies-london#deals": {
+  "header": [
+   "Restaurant",
+   "What you get",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-discount-cards-london#blue-light-card": {
+  "header": [
+   "Restaurant",
+   "Offer",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ },
+ "restaurant-discount-cards-london#other-memberships": {
+  "header": [
+   "Restaurant",
+   "Offer",
+   "When",
+   "Condition and where"
+  ],
+  "nameCol": 0
+ }
+}

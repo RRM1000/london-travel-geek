@@ -54,26 +54,7 @@ Three different things are sold as kids eat free:
 
 ## Every offer at a glance
 
-| Where | Offer | Age | When | Adult condition | Central London |
-| --- | --- | --- | --- | --- | --- |
-| Bella Italia | 3 courses + drink free | Not stated | Sun–Thu outside school holidays, daily in them | 1 adult main per child | No — 10 branches excluded |
-| Las Iguanas | Main + 2 sides + dessert free | Under 12 | 7 days, all year | 1 à la carte main per child | No — 2 branches, both outer |
-| Prezzo Kids Club | 3 courses free, up to 3 children | 2 to 12 | 7 days, all year | 1 full-price main + £1.99/month | Yes — check the app finder |
-| Morrisons Café | Meal + drink free, worth £4.00 | Under 16 | 7 days, all year | Adult main £5 or over | No — nearest café Acton W3 |
-| Angus Steakhouse | 1 child's meal free | 8 and under | Daily 12–5pm; not Saturdays at Bond Street and Oxford Circus | 1 full-paying adult main per child | Yes — Leicester Square, Bond Street, Oxford Circus, Paddington |
-| Dunelm Pausa | Main + drink + 2 snacks free | Not stated | All year | £5 spend in the café | No — 11 stores, all outer |
-| Sizzling Pubs | Kids' meal £1 | Not stated | Mondays from 12pm | 1 adult main | No — 5 pubs, all outer |
-| Hungry Horse | Up to 2 kids' meals £1 each | Not stated | Mon–Fri | 1 adult main | No — 2 pubs, both outer |
-| IKEA | Kids' meal 95p | Not stated | All year | None | No — 3 Swedish Restaurants |
-| YO! Sushi | Kiddos bento free | 12 and under | Mon–Fri, school holidays | £10 food spend per child | No — 4 restaurants, all outer |
-| Zizzi via Kids Pass | 1 Bambini meal free | Not stated | 7 days, all year | 1 adult main + paid membership | Yes — 28 London branches |
-| Gordon Ramsay restaurants | Kids' main free | 10 and under | Daily or weekdays, by restaurant | 2 à la carte courses per child | Yes — Heddon Street Kitchen, Bread Street Kitchen St Paul's |
-| Preto | Rodízio free | Up to 10 | Weekdays from 4pm, all weekend | 1 full-paying adult rodízio per child | Yes — Soho, Victoria, Angel |
-| Mamuska! | Kids' meal free | 12 and under | Daily | 1 adult meal per child | Yes — Waterloo |
-| Café Rouge | Kids' meal free | Not stated | Daily 12–4pm, varies by branch | Any adult main | Check the branch |
-| The Real Greek | Kids' meal, drink and ice cream free | Under 12 | Sundays | £15 adult spend per child | Yes — Covent Garden, Soho, Bankside and more |
-| Banana Tree | Main, drink and dessert free | Under-12s menu | Sundays | 1 full-price adult main per child | Check the branch |
-| Tesco Café | Kids' hot meal, breakfast or pick 'n' mix free | Not stated | Daily until 18 December 2026 | Any adult café item + Clubcard | No — superstore cafés |
+{deals list=kids-eat-free-london#every-offer-at-a-glance}
 
 ---
 
@@ -221,15 +202,11 @@ Two Zizzi exclusions apply whichever route you use. The offer "cannot be used in
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="kids-eat-free-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
 
+{deals more=kids-eat-free heading=More kids eat free offers}
+
 ## Kids eat free at breakfast
 
-| Hotel or pub | Offer | Age | Adult price | Serving times |
-| --- | --- | --- | --- | --- |
-| Premier Inn | 2 children free per paying adult | Under 16 | From £11.99 | Varies by hotel |
-| Beefeater | 2 children free per adult breakfast | Under 16 | £11.99 unlimited | 6.30–10.30am, 7–11am weekends |
-| Brewers Fayre | 2 children free per adult breakfast | Under 16 | £11.99 unlimited | To 10.30am, 11am weekends |
-| Table Table | 2 children free per adult breakfast | Under 16 | £11.99 unlimited | To 10.30am, 11am weekends |
-| Travelodge | 2 children at £1 each per paying adult | Under 15 | Unlimited breakfast, Bar Café hotels | Varies by hotel |
+{deals list=kids-eat-free-london#kids-eat-free-at-breakfast}
 
 **At Premier Inn** up to two children under 16 eat breakfast free when an adult orders the full Premier Inn Breakfast or a Meal Deal. The breakfast is **from £11.99, with prices varying by restaurant**. The offer covers a restaurant breakfast, not the breakfast box.
 
@@ -283,6 +260,9 @@ The pub brands with a kids-eat-free offer (Sizzling, Hungry Horse, Brewers Fayre
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)** — 2-for-1, student and Blue Light discounts, offers by day, BYO and app rewards
+- 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)** — food and cocktails two for one
+- 🎓 **[Student Restaurant Discounts](/articles/student-discounts-london/)** — what UNiDAYS, Student Beans and a student card get you
+- 🎂 **[Birthday Freebies in London](/articles/birthday-freebies-london/)** — the free meals, desserts and drinks for signing up
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — packages compared on price per minute, and what “bottomless” covers
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)** — good food under £15 with no offer, code or membership at all

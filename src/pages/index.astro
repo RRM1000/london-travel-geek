@@ -10,9 +10,20 @@ import eatHero from "../assets/articles/eat-in-london-guide/eat-in-london-guide.
 import tubeHero from "../assets/articles/london-underground/piccadilly-circus-underground.jpg";
 import simHero from "../assets/articles/travel-sim-esim-guide/travel-sim-esim-guide.jpg";
 import plaquesHero from "../assets/articles/london-plaques-guide/london-plaques-guide.jpg";
+import dealsHero from "../assets/articles/best-chain-restaurants-london/franco-manca-southwark.jpg";
+import weekImage from "../assets/articles/london-theatre-guide/west-end-stalls-view.jpg";
+import eventsImage from "../assets/articles/new-years-eve-london/thames-fireworks.jpg";
+import onSaleImage from "../assets/articles/london-theatre-guide/tkts-booth-leicester-square.jpg";
+import freeImage from "../assets/free/changing-the-guard.jpg";
+
+const whatsOnLinks = [
+  { href: "/whats-on/", title: "On this week", text: "Gigs, comedy, theatre, concerts and exhibitions, day by day.", image: weekImage },
+  { href: "/whats-on/big-events/", title: "The big events", text: "The sport, festivals and fixtures worth planning a trip around.", image: eventsImage },
+  { href: "/whats-on/on-sale/", title: "Going on sale", text: "Shows whose tickets go on sale soon, with the date and time.", image: onSaleImage },
+  { href: "/free/", title: "Free things to do", text: "Museums, ceremonies, views and walks that cost nothing.", image: freeImage },
+];
 import ArticleCard from "../components/ArticleCard.astro";
 import SectionHeading from "../components/SectionHeading.astro";
-import HomeWhatsOn from "../components/HomeWhatsOn.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { activeSite } from "../sites";
 import { categoryHref } from "../lib/taxonomy";
@@ -54,15 +65,16 @@ const categoryGroups = Array.from(
 // put the same three guides in both "Things to do" and "Latest" on the same
 // day, because the three newest guides all happened to be that category.
 const FEATURED: Record<string, string[]> = {
-  "Food and drink": [
-    "best-street-food-london",
-    "best-pizza-london",
-    "best-indian-restaurants-london",
-  ],
+  // Things to do first: it is what most visitors arrive looking for. Food follows.
   "Things to do": [
     "immersive-experiences-london",
     "christmas-in-london",
     "best-canal-walks-london",
+  ],
+  "Food and drink": [
+    "best-street-food-london",
+    "best-pizza-london",
+    "best-indian-restaurants-london",
   ],
   "London areas": [
     "camden-area-guide",
@@ -115,7 +127,8 @@ const topicTiles = [
   { label: "Itineraries", href: "/topics/london-itineraries/", image: itineraryHero },
   { label: "Blue plaques map", href: "/plaques/", image: plaquesHero },
   { label: "Transport", href: "/topics/getting-around-london/", image: tubeHero },
-  { label: "SIM & eSIM", href: "/topics/travel-sim-cards/", image: simHero },
+  // SIMs stay in Start here below; deals are the page people come back to.
+  { label: "Food deals", href: "/articles/food-deals-london/", image: dealsHero },
 ];
 
 // The hero cross-fades through a few guides, each with its own photo, line and
@@ -127,13 +140,19 @@ const topicTiles = [
 // A guide with months only shows in those months (London time, at build), the
 // same rule as the nav's This season list, so the seasonal ones lead in winter.
 const buildMonth = Number(new Date().toLocaleDateString("en-GB", { month: "numeric", timeZone: "Europe/London" }));
-const HERO_GUIDES: { slug: string; title: string; text: string; cta: string; months?: number[] }[] = [
+const HERO_GUIDES: { slug: string; title: string; text: string; cta: string; months?: number[]; href?: string }[] = [
   {
     slug: "christmas-in-london",
     title: "Christmas in London.",
     text: "The markets, the lights, the ice rinks and the light trails, and which of them cost nothing.",
     cta: "Plan Christmas",
     months: [11, 12],
+  },
+  {
+    slug: "food-deals-london",
+    title: "London food deals.",
+    text: "2-for-1 nights, student and Blue Light discounts and the offers on each day of the week, with every condition.",
+    cta: "See today's deals",
   },
   {
     slug: "hyde-park-winter-wonderland",
@@ -150,6 +169,14 @@ const HERO_GUIDES: { slug: string; title: string; text: string; cta: string; mon
     months: [11, 12],
   },
   {
+    // The map, not the guide: the guide lends its photo.
+    slug: "london-plaques-guide",
+    href: "/plaques/",
+    title: "Every plaque in London, on one map.",
+    text: "Blue plaques and the borough, Nubian Jak and rainbow schemes: search a name or find the plaques around you.",
+    cta: "Open the map",
+  },
+  {
     slug: "best-views-london",
     title: "The best views in London.",
     text: "A free City viewpoint higher than The Shard's paid gallery, and a keyhole in Richmond Park aimed at St Paul's ten miles away.",
@@ -160,6 +187,7 @@ const HERO_GUIDES: { slug: string; title: string; text: string; cta: string; mon
     title: "Notting Hill's colourful houses.",
     text: "A walking route through the Notting Hill streets that actually have the colour, and where the cherry blossom is in spring.",
     cta: "Walk the colourful streets",
+    months: [3, 4, 5, 6, 7, 8, 9, 10],
   },
   {
     slug: "best-museums-london",
@@ -184,6 +212,8 @@ const HERO_GUIDES: { slug: string; title: string; text: string; cta: string; mon
     title: "Theme parks near London.",
     text: "The train from London, the cheapest ticket and who each park suits, for every theme park within a day trip.",
     cta: "Compare the parks",
+    // The big parks close from November to March.
+    months: [3, 4, 5, 6, 7, 8, 9, 10],
   },
   {
     slug: "windsor-day-trip",
@@ -223,7 +253,7 @@ const heroSlides = [
       eyebrow: a.data.category,
       title: g.title,
       text: g.text,
-      primary: { href: `/articles/${a.id}/`, label: g.cta },
+      primary: { href: g.href ?? `/articles/${a.id}/`, label: g.cta },
       secondary: allGuides,
       caption: credit,
     }];
@@ -410,7 +440,30 @@ const heroSlides = [
   </section>
 
   <!-- ================================================== what's on -->
-  <HomeWhatsOn />
+  <!-- Links, not listings: the six weekly picks needed a fresh listings file for
+       every build, and the What's On pages already do that job in full. -->
+  <section class="section home-links" aria-label="What's on in London">
+    <div class="container">
+      <SectionHeading
+        eyebrow="What's on"
+        title="On in London"
+        description="Gigs, plays and exhibitions this week, the dates worth planning a trip around, and what costs nothing."
+      />
+      <ul class="home-links__list">
+        {whatsOnLinks.map((link) => (
+          <li>
+            <a class="home-link" href={link.href}>
+              <Image src={link.image} alt="" widths={[400, 640]} sizes="(max-width: 48rem) 100vw, 18rem" loading="lazy" />
+              <span class="home-link__body">
+                <span class="home-link__title">{link.title}<span aria-hidden="true"> →</span></span>
+                <span class="home-link__text">{link.text}</span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
 
   <!-- ================================================ category rows -->
   {featuredCategories.map((category) => (
@@ -780,6 +833,61 @@ const heroSlides = [
     .hero__slide.is-active :global(img),
     .hero__slide.was-active :global(img) { animation: none; }
     .hero__step.is-active .hero__fill { animation: none; width: 100%; }
+  }
+
+  /* ----------------------------------------------------- what's on links --- */
+  .home-links__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+    gap: var(--space-3);
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .home-link {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    border-radius: var(--radius-md);
+    background: var(--surface);
+    color: inherit;
+    text-decoration: none;
+    box-shadow: 0 6px 20px rgb(5 12 22 / 0.08);
+    transition: translate var(--transition), box-shadow var(--transition);
+  }
+
+  .home-link:hover {
+    translate: 0 -4px;
+    box-shadow: 0 14px 34px rgb(5 12 22 / 0.16);
+  }
+
+  .home-link :global(img) {
+    display: block;
+    width: 100%;
+    height: 11rem;
+    object-fit: cover;
+  }
+
+  .home-link__body {
+    display: grid;
+    gap: var(--space-2);
+    padding: var(--space-4);
+  }
+
+  .home-link__title {
+    font-family: var(--display);
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .home-link__text {
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.45;
   }
 
   /* ------------------------------------------------------- topic tiles --- */

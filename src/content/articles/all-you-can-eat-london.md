@@ -46,48 +46,7 @@ All-you-can-eat in London is a fixed price for as much food as you can order ins
 
 ## Every offer, side by side
 
-| Venue | Style | Price | Time limit |
-| --- | --- | --- | --- |
-| Mr Wu, Soho | Chinese buffet | £9.95 | – |
-| Chutneys, Euston | Vegetarian Indian | £14.95 | – |
-| Diwana Bhel Poori House, Euston | Vegetarian Indian | £14.95 | – |
-| Jimmy's World Grill, The O2 | World buffet | £17 weekday lunch, £23–25 dinner | 2 hours |
-| Las Iguanas, Tuesdays | Tapas | From £17 | 90 minutes |
-| Banana Tree | Southeast Asian small plates | £17 pre-booked, £19.95 walk-in | 90 minutes |
-| Aroma Buffet, Shepherd's Bush | Pan-Asian | £18 weekday lunch, £28 dinner | – |
-| Preto, Angel | Rodízio | £18.95 weekday lunch, £35.95 dinner | – |
-| Cosmo, Romford | World buffet | £21.99–£23.99 | – |
-| Highyaki, Chinatown | Japanese barbecue and sushi | £24.99 lunch, £29.99 dinner | – |
-| Sushi Cafe, Battersea | Sushi | £25.80–£27.80 | 90 minutes |
-| Sushi Shimai, Herne Hill | Sushi | £26.80 | – |
-| JRC Global Buffet, Wembley | World buffet | £26.99–£29.99 | 1 hour 45 minutes |
-| Babur, Forest Hill | Indian | £27.95 | – |
-| Da Long Yi, Fitzrovia | Sichuan hot pot | £28.99 | – |
-| Big Easy, four branches | Barbecue and seafood | From £28.50 | – |
-| BrewDog, Wings Wednesday | Wings | £18.95 | 90 min |
-| Dirty Bones, WingsDay | Wings | £18 | 90 min |
-| Belushi's, London Bridge | Wings | £17.50 | – |
-| Pick & Cheese, Covent Garden | Cheese and charcuterie | £29.50 | 75 minutes |
-| Ping Pong | Dim sum | £29.95 | 2 hours |
-| Picanha Steakhouse, Tooting | Rodízio | £29.99 | – |
-| Royal Nawaab, Perivale | Indian and Pakistani | £29.99 | – |
-| Chuku's, Tottenham | Nigerian tapas | £30 | – |
-| Thai Square, Covent Garden | Thai | £30 | 90 minutes |
-| Keonbae, Royal Wharf | Korean barbecue | £32 or £45 | 90 minutes |
-| YO! Sushi | Sushi | £34.95 | 60 minutes |
-| Keonbae, Kidbrooke | Korean barbecue | £35 | 90 minutes |
-| DAIU, Wembley | Hot pot and barbecue | £35 | 2 hours |
-| Ayllu, Paddington | Nikkei | £37 | 90 minutes |
-| 113 K-BBQ & Karaoke, Euston | Korean barbecue | £38–£40 | – |
-| FeiEr Cottage, Westminster | Hot pot and dim sum | £38 | 2 hours |
-| Shiro, Liverpool Street | Sushi | From £39 | – |
-| PizzaLuxe | Pizza | £39.95 | 90 minutes |
-| Akatuki, Covent Garden | Sushi | £48–£88 | – |
-| Rodizio Rico, The O2 | Rodízio | £48 dinner | – |
-| Bocconcino, Soho | Pasta and pizza | From £49 | 90 minutes |
-| Market Place, Vauxhall | Tacos | £50 for two | 60 minutes |
-| Fogo de Chão, Bishopsgate | Rodízio | £54 lunch, £68 dinner | – |
-| Nobu Portman Square, Marylebone | Sushi | £90 | 2 hours |
+{deals list=all-you-can-eat-london#every-offer-side-by-side}
 
 ---
 
@@ -458,11 +417,16 @@ A [pre-theatre all-you-can-eat Thai menu](https://thaisq.com/promotions/allyouca
 
 The [Samba Bottomless Brunch](https://www.ayllu.co.uk/news-offers/bottomless-brunch) is 90 minutes of unlimited Nikkei (Japanese-Peruvian) sharing plates (ceviche, sushi rolls, appetisers, mains and dessert) with a live samba show. The whole table must choose the same package.
 
+{deals more=all-you-can-eat heading=More all-you-can-eat offers}
+
 ---
 
 ## Continue planning your London trip
 
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)**: 2-for-1, student and Blue Light discounts, and offers by day
+- 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)**: food and cocktails two for one
+- 🎓 **[Student Restaurant Discounts](/articles/student-discounts-london/)**: what UNiDAYS, Student Beans and a student card get you
+- 🎂 **[Birthday Freebies in London](/articles/birthday-freebies-london/)**: the free meals, desserts and drinks for signing up
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)**: unlimited drinks rather than unlimited food, priced by the minute
 - 🍲 **[Best Hot Pot in London](/articles/best-hot-pot-london/)**: how to order one, and the independents worth the trip
 - 🥢 **[Best Dim Sum in London](/articles/best-dim-sum-london/)**: the dim sum restaurants to order from the menu

@@ -208,3 +208,6 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)** — the cheapest wet-day plan is usually the best one
 - 📅 **[Best Time to Visit London](/articles/best-time-to-visit-london/)** — which months actually cost less, with our own hotel-rate sample
 - 💻 **[Laptop-Friendly Cafés in London](/articles/laptop-friendly-cafes-london/)**: where to work, with hours and laptop rules, and the free alternatives
+- 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)**: food and cocktails two for one
+- 🎓 **[Student Restaurant Discounts](/articles/student-discounts-london/)**: what UNiDAYS, Student Beans and a student card get you
+- 🎂 **[Birthday Freebies in London](/articles/birthday-freebies-london/)**: the free meals, desserts and drinks for signing up

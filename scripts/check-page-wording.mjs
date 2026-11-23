@@ -86,6 +86,8 @@ const TODAY_OK = [
   /\b(?:building|statue|studio|street|site|house|home|route|scheme) today\b/,
   /\bto today\b/,                                  // "from Roman times to today"
   /\btoday(?:'s)? (?:show|performance|matinee|screening|tickets?|rules)\b|\bfor today\b|\bdiscounted today\b|\bopens? today\b/, // a rule about the day itself
+  // The food deals hub's "Deals on today" block: a script picks the reader's own day (London time).
+  /\bdeals on today\b|\{deals today\}|\btoday's deals\b/,
 ];
 // Exact phrases that match a pattern but are not relative dates. Keep this short.
 const RELATIVE_ALLOW = [

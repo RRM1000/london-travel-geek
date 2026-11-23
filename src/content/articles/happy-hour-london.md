@@ -34,52 +34,13 @@ London happy hours mostly run from 3pm to 7pm on weekdays. Every entry below set
 
 > ⚠️ **Most of these stop at Friday.** The [weekend table](#happy-hours-at-the-weekend) lists the ones that run on Saturday and Sunday.
 
-For deals that are about eating rather than drinking, see [restaurant deals](/articles/restaurant-deals-london/); for a drinks-and-food package at weekends, see [bottomless brunch](/articles/bottomless-brunch-london/); and for everything else, the [food deals hub](/articles/food-deals-london/).
+For deals that are about eating rather than drinking, see [restaurant deals](/articles/restaurant-deals-london/); for a drinks-and-food package at weekends, see [bottomless brunch](/articles/bottomless-brunch-london/); for cocktails two for one at any hour, the [2-for-1 deals](/articles/two-for-one-deals-london/); and for everything else, the [food deals hub](/articles/food-deals-london/).
 
 ---
 
 ## Every happy hour at a glance
 
-| Where | When | Deal |
-| --- | --- | --- |
-| **Manzi's**, Soho | Daily 3–7pm, all day Sunday | Oysters £2 each or six for £9; martinis and long drinks £10 |
-| **Sucre**, Soho | Sunday to Thursday 3–7pm | Tequila and mezcal cocktails £8 |
-| **Plum Valley**, Chinatown | Monday to Thursday 2–6pm | Second cocktail half price |
-| **Nightjar**, Shoreditch | Sunday to Thursday 6–8pm | Selected cocktails £9 |
-| **Kricket**, Shoreditch | Daily 4–6pm | A snack and a drink for £10 |
-| **The Lexington**, Angel | Monday to Friday 4–7pm, pizzas from 5pm | Pizza and a pint £12; pints from £4; two spritzes £13 |
-| **Plaquemine Lock**, Angel | Tuesday to Friday 4–5.45pm; Saturday and Sunday 11am–noon | Oysters £1 each, plus cheaper Southern snacks, cocktails, beer and mimosas |
-| **Fogo de Chão**, Bishopsgate | Daily 3–7pm | Beers £6.50; wine £8.50; cocktails £11; bar plates £8, burgers £10 |
-| **Shiro**, Broadgate Circle | Monday to Saturday 3–7pm | 2-for-1 house wine, Prosecco and Asahi |
-| **Seabird**, Southwark | Tuesday to Sunday 3–6pm | Oysters £3 each |
-| **The Walrus**, Waterloo | Thursday to Saturday 5–9pm | Selected cocktails £6.50; four shooters £12 |
-| **Belushi's**, London Bridge | Monday to Friday 4–7pm | Almost every drink £5 |
-| **Arcade Food Hall**, Tottenham Court Road and Battersea | Tottenham Court Road 5–7pm and from 9pm; Battersea Sunday to Friday 3–8pm | Cocktails £8 |
-| **Bread Street Kitchen**, Battersea | Sunday to Friday 3–6pm | Selected Negronis, Margaritas, house wine and beers |
-| **Sticks'n'Sushi**, Battersea | Monday to Friday 3–6pm | 2-for-1 cocktails |
-| **Purezza**, Camden | Monday to Friday until 7pm | Two cocktails £18; two alcohol-free spritzes £14 |
-| **Escocesa**, Stoke Newington | Monday to Friday before 7pm; all day Sunday | Oysters half price |
-| **Hera**, Stratford | Monday to Friday 4–7pm | Drinks from £6; cocktails and spritzes from £8 |
-| **Rick Stein, Barnes**, Barnes | Daily 4–6pm | Oysters £2 |
-| **BOXPARK Wembley**, Wembley | Monday to Friday 5–8pm | Happy hour drinks at the bars |
-| **Ippudo**, All branches | Monday to Friday 2–7pm | A happy hour menu of drinks and dishes |
-| **Ping Pong**, Four central branches | Monday to Friday 3–6pm | Half price on over thirty drinks and dim sum |
-| **Shoryu Ramen**, All branches | Monday to Thursday 3–6pm | Two cocktails or two pints for £12 |
-| **Hakata Ramen + Bar**, All branches | Monday to Friday 5–7pm; Saturday and Sunday 4–6pm | Two of the same cocktail £14; sake flight £12 |
-| **Patty & Bun**, All branches | Monday to Friday 4–7pm | Two cocktails £14; cans of beer £4 |
-| **Big Easy**, London branches | Monday to Friday 4–6pm | 2-for-1 cocktails |
-| **Megan's**, All branches | Daily 5–7pm | Every cocktail £8 |
-| **Simmons**, 14 bars | Sunday to Friday 4–9pm, 3–8pm in the West End | 2-for-1 cocktails |
-| **Be At One**, All bars | Daily, hours vary by bar | 2-for-1 cocktails |
-| **MEATliquor**, All branches | Monday to Friday 4–7pm | Pints and house wine £5 |
-| **The Real Greek**, All branches | Daily 3–6pm | Two sangrias £8.50 |
-| **Market Halls**, Four halls | Daily 3–5pm (spritz) and from 8pm (pints) | Two spritzes £20; selected draught pints £5 |
-| **Dishoom**, All branches | Nightly after 9.30pm, until 30 November 2026 | Dishoom Margarita, Chai Caffè Martini or Sober Negroni £5 |
-| **Hard Rock Cafe**, London | 4–7pm | Happy hour at the bar |
-| **Las Iguanas**, All branches | Daily, all day | Two classic cocktails from £13 |
-| **Frankie & Benny's**, All branches | Daily, all day | Two cocktails £12 |
-| **Turtle Bay**, All branches | Daily, all day | 2-for-1 cocktails |
-| **TGI Fridays**, All branches | Daily, all day | 2-for-1 cocktails and mocktails |
+{deals list=happy-hour-london#every-happy-hour-at-a-glance}
 
 ---
 
@@ -461,25 +422,6 @@ The mocktails are in the deal, so it covers non-drinkers too.
 
 These run on Saturday or Sunday.
 
-| Day | Where | Times |
-| --- | --- | --- |
-| Saturday and Sunday | Manzi's, Soho | 3–7pm (all day Sunday) |
-| Saturday and Sunday | Fogo de Chão, Bishopsgate | 3–7pm |
-| Saturday and Sunday | Seabird, South Bank | 3–6pm |
-| Saturday and Sunday | Simmons (2-for-1 cocktails) | Saturday to 9pm; Sunday 4–9pm |
-| Saturday and Sunday | The Real Greek | 3–6pm |
-| Saturday and Sunday | Arcade, Tottenham Court Road | 5–7pm and 9pm to close |
-| Saturday and Sunday | Rick Stein, Barnes | 4–6pm |
-| Saturday and Sunday | Kricket, Shoreditch | 4–6pm |
-| Saturday and Sunday | Hakata | 4–6pm |
-| Saturday and Sunday | Megan's | 5–7pm |
-| Saturday and Sunday | Market Halls (spritz) | 3–5pm |
-| Saturday and Sunday | Plaquemine Lock, Islington | 11am–noon |
-| Saturday | Shiro, Broadgate Circle | 3–7pm |
-| Saturday | The Walrus, Waterloo | 5–9pm |
-| Sunday | Sucre, Soho | 3–7pm |
-| Sunday | Bread Street Kitchen, Battersea | 3–6pm |
-| Sunday | Nightjar, Shoreditch | 6–8pm |
-| Sunday | Escocesa, Stoke Newington | all day |
+{deals list=happy-hour-london#happy-hours-at-the-weekend}
 
 *Times and prices as listed by each venue, November 2026.*

@@ -600,6 +600,9 @@ Cooked breakfast from 8am, burgers and curries in a large multi-level room a min
 - 🍽️ **[Set Lunch and Pre-Theatre Menus](/articles/restaurant-deals-london/)** — the restaurant's own fixed price, no membership, biggest single saving
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)** — 2-for-1, student and Blue Light discounts, offers by day, BYO and app rewards
+- 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)** — food and cocktails two for one
+- 🎓 **[Student Restaurant Discounts](/articles/student-discounts-london/)** — what UNiDAYS, Student Beans and a student card get you
+- 🎂 **[Birthday Freebies in London](/articles/birthday-freebies-london/)** — the free meals, desserts and drinks for signing up
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)** — First Table and EatClub — cheaper if you will eat early or walk in
 - 🥂 **[Bottomless Brunch](/articles/bottomless-brunch-london/)** — packages compared on price per minute, and what “bottomless” covers
 - 🍣 **[All You Can Eat in London](/articles/all-you-can-eat-london/)** — buffets from £9.95 and the other fixed-price unlimited menus

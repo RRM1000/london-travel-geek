@@ -40,6 +40,16 @@ for (const d of deals) {
   if (card) d.card = card;
   kept.push(d);
 }
+// The deal pages print their tables from deals.json (src/lib/remark-deal-tables.mjs): keep
+// each deal's place in those tables, and the deals written on the pages by hand.
+const before = fs.existsSync("data/food-deals/deals.json") ? JSON.parse(fs.readFileSync("data/food-deals/deals.json", "utf8")) : [];
+const idOf = (d) => `${d.name}|${d.type}|${d.offer}`;
+const shown = new Map(before.filter((d) => d.show && d.origin !== "page").map((d) => [idOf(d), d.show]));
+let lostRows = 0;
+for (const d of kept) if (shown.has(idOf(d))) { d.show = shown.get(idOf(d)); shown.delete(idOf(d)); }
+for (const s of shown.values()) lostRows += Object.keys(s).length;
+kept.push(...before.filter((d) => d.origin === "page"));
+if (lostRows) console.log(`${lostRows} table rows belonged to deals this merge dropped or reworded; re-run scripts/import-deal-rows.mjs logic by hand for them`);
 kept.sort((a, b) => a.type.localeCompare(b.type) || a.name.localeCompare(b.name));
 fs.writeFileSync("data/food-deals/deals.json", JSON.stringify(kept, null, 1));
 
