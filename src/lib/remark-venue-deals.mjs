@@ -160,7 +160,8 @@ export function pageVenues(tree) {
   if (!data) return out;
   const titles = [
     ...tree.children.filter((h) => h.type === "heading" && h.depth >= 2 && h.depth <= 4).map(textOf),
-    ...boldLeads(tree),
+    // Headed entries only: they carry a "Deal:" line. A place named in a bullet gets
+    // none, so its deal belongs in the table (Rob, 23 Nov 2026: Itsu on sushi).
   ];
   for (const t of titles) {
     const title = t.replace(/^\s*\d+\.\s*/, "");

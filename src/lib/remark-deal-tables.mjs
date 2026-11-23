@@ -374,7 +374,7 @@ export function remarkAreaDeals() {
 const TOPICS = new URL("data/topics/", ROOT);
 const GUIDE_DEALS = new URL("data/food-deals/guide-deals.json", ROOT);
 const CHAINS = new URL("data/food-deals/chains.json", ROOT);
-const TOPIC_MAX = 8;
+const TOPIC_MAX = 10;
 const DRINK_TYPES = new Set(["happy-hour", "bottomless", "byo"]);
 const DRINK = /\b(cocktails?|beers?|pints?|wines?|spritz(es)?|prosecco|lager|drinks|margaritas?|bubbles|mimosas?|martinis?|negronis?|sake|flights?)\b/i;
 // "Multi-cuisine buffet (Chinese, Indian, Mexican...)" is not a deal on any one of them.
@@ -465,7 +465,7 @@ export function remarkTopicDeals() {
     kids.splice(at, 0,
       { type: "heading", depth: 2, children: [{ type: "text", value: `More ${spec.dealLabel} deals in London` }] },
       // Rob, 23 November 2026: say plainly that these are not part of the ranking.
-      { type: "paragraph", children: [{ type: "text", value: `These places aren't in the ranking above, but each one has ${/^[aeiou]/i.test(spec.dealLabel) ? "an" : "a"} ${spec.dealLabel} deal on.` }] },
+      { type: "paragraph", children: [{ type: "text", value: `Some restaurants above show their own deal under their entry. These places aren't in the ranking, but they have ${/^[aeiou]/i.test(spec.dealLabel) ? "an" : "a"} ${spec.dealLabel} deal on too.` }] },
       ...table(header, deals.map((d) => {
         const c = cellsFor(d, header);
         c[1] = c[1].charAt(0).toUpperCase() + c[1].slice(1);
