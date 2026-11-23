@@ -49,6 +49,8 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 
 {deals today}
 
+{deals ending}
+
 ---
 
 ## Best deals by type

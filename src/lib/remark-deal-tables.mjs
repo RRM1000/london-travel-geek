@@ -14,6 +14,10 @@
 //                        a script shows today's (London time). Without JavaScript it links to the
 //                        day-by-day tables.
 //   {deals best}         one card per section of best.json, with its first three picks still live.
+//   {deals ending}       the live deals whose end date falls in the week after the build. Nothing
+//                        when none do.
+//
+// remarkAreaDeals (exported below) adds a "Food deals in <area>" table to each area guide.
 //
 // scripts/import-deal-rows.mjs made the show[] entries from the tables the pages used to carry.
 import fs from "node:fs";
@@ -225,7 +229,126 @@ function best(data) {
   return cards ? [html(`<div class="deal-grid">${cards}</div>`)] : [];
 }
 
-const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals (today|best)\}$/;
+// The live deals that end within the next week of the build, soonest first. The wrapper carries
+// the last end date, so remark-until's script removes the whole strip once every row has ended.
+const ENDING_DAYS = 7;
+const longDate = (iso) => new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "long", day: "numeric", month: "long", timeZone: "Europe/London" }).replace(",", "");
+function ending(data) {
+  const from = new Date().toISOString().slice(0, 10);
+  const to = new Date(Date.now() + ENDING_DAYS * 864e5).toISOString().slice(0, 10);
+  const seen = new Set();
+  const deals = data.live
+    .filter((d) => d.endDate && d.endDate >= from && d.endDate <= to && !d.card && d.origin !== "page" && /\d/.test(`${d.offer} ${d.price ?? ""}`))
+    .sort((a, b) => a.endDate.localeCompare(b.endDate) || a.name.localeCompare(b.name))
+    .filter((d) => !seen.has(venue(d.name)) && seen.add(venue(d.name)));
+  if (!deals.length) return [];
+  const last = deals.at(-1).endDate;
+  return [
+    html(`<div class="deals-ending" data-until="${last}"><p class="deals-today__label">⏳ Ending soon</p>`),
+    ...table(["Restaurant", "Last day", "Deal"], deals.map((d) => [nameCell(d), longDate(d.endDate), `${offer(d)} {until=${d.endDate}}`])),
+    html(`</div>`),
+  ];
+}
+
+// AREA GUIDES. A "Food deals in <area>" table at the end of the guide's "Where to eat and drink"
+// section, from the same live deals as the deal pages. A deal belongs to an area when its branch
+// text names a neighbourhood the Restaurants v2 sheet files under that guide, or when it is the
+// sheet row's own deal (by slug) and names no other place. Membership offers (apps, birthday
+// rewards, discount cards) are left to the deal pages. One deal per restaurant, at most six;
+// under two, nothing prints.
+const SNAPSHOT = new URL("data/snapshot-restaurants-v2.json", ROOT);
+const AREA_MAX = 6;
+const AREA_SKIP = new Set(["app-reward", "birthday", "discount-group"]);
+// Which deal a restaurant shows when it has several: the walk-in offers first.
+const AREA_RANK = ["happy-hour", "two-for-one", "set-menu", "pre-theatre", "day-deal", "percent-off", "all-you-can-eat", "bottomless", "kids-eat-free", "byo", "end-of-day", "meal-deal", "other"];
+// Walk-in offers first, then deals that say when they run, then by name.
+const areaRank = (d) => { const i = AREA_RANK.indexOf(d.type); return i === -1 ? AREA_RANK.length : i; };
+const areaOrder = (a, b) => areaRank(a) - areaRank(b) || !when(a) - !when(b) || a.name.localeCompare(b.name);
+const MONTH = /\b(jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)(uary|ruary|ch|il|e|y|ust|tember|ober|ember)?\b/i;
+let places = null;
+function areaIndex() {
+  if (places) return places;
+  const snap = fs.existsSync(SNAPSHOT) ? JSON.parse(fs.readFileSync(SNAPSHOT, "utf8")) : [];
+  const guideBySlug = new Map(snap.map((r) => [r.Slug, r["Area Guide"]]));
+  // A neighbourhood belongs to the guide that holds at least 60% of the sheet's rows there.
+  const tally = new Map();
+  for (const r of snap) {
+    const n = r.Neighbourhood?.trim().toLowerCase();
+    const g = r["Area Guide"];
+    if (!n || !g) continue;
+    const t = tally.get(n) ?? {};
+    t[g] = (t[g] ?? 0) + 1;
+    tally.set(n, t);
+  }
+  const hoods = [];
+  for (const [n, t] of tally) {
+    const [g, c] = Object.entries(t).sort((a, b) => b[1] - a[1])[0];
+    if (c / Object.values(t).reduce((a, b) => a + b) >= 0.6) hoods.push([n, g]);
+  }
+  // Longest first, so "South Kensington" is taken before "Kensington" can match inside it.
+  hoods.sort((a, b) => b[0].length - a[0].length);
+  const rx = hoods.map(([n, g]) => [new RegExp(`\\b${n.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/'/g, "['’]")}\\b`, "gi"), g]);
+  places = { guideBySlug, rx };
+  return places;
+}
+function guidesNamed(text) {
+  let t = text ?? "";
+  const out = new Set();
+  for (const [re, g] of areaIndex().rx) {
+    re.lastIndex = 0;
+    if (re.test(t)) { out.add(g); t = t.replace(re, " "); }
+  }
+  return out;
+}
+function areaDeals(data, guide) {
+  const { guideBySlug } = areaIndex();
+  const pick = new Map();
+  for (const d of data.live) {
+    if (d.card || d.origin === "page" || AREA_SKIP.has(d.type) || !/\d/.test(`${d.offer} ${d.price ?? ""}`)) continue;
+    const named = guidesNamed(`${d.area ?? ""} ${d.branches ?? ""}`);
+    const here = named.has(guide)
+      || (guideBySlug.get(d.slug) === guide && !named.size && !/selected|some|participating|specific/i.test(d.branches ?? ""));
+    // A dated run ("26 to 30 December") is a one-off for the deal pages; a record named for
+    // another branch ("Market Halls Victoria") belongs to that branch's area.
+    if (!here || MONTH.test(d.days ?? "") || [...guidesNamed(d.name)].some((g) => g !== guide)) continue;
+    const k = host(d.site) || host(d.sourceUrl) || venue(d.name);
+    const cur = pick.get(k);
+    if (!cur || areaOrder(d, cur) < 0) pick.set(k, d);
+  }
+  return [...pick.values()].sort(areaOrder).slice(0, AREA_MAX);
+}
+
+export function remarkAreaDeals() {
+  return (tree, file) => {
+    const path = String(file.history?.[0] ?? file.path ?? "");
+    const guide = path.match(/([a-z0-9-]+-area-guide)\.md$/)?.[1];
+    if (!guide) return;
+    const data = load();
+    if (!data) return;
+    const deals = areaDeals(data, guide);
+    if (deals.length < 2) return;
+    const kids = tree.children;
+    const start = kids.findIndex((n) => n.type === "heading" && n.depth === 2 && /^where to eat and drink/i.test(textOf(n).trim()));
+    if (start === -1) return;
+    let end = kids.findIndex((n, i) => i > start && n.type === "heading" && n.depth <= 2);
+    if (end === -1) end = kids.length;
+    const area = file.data?.astro?.frontmatter?.area?.name ?? "this area";
+    // The long column last, or it renders one character wide on a phone.
+    const header = ["Restaurant", "When", "Deal"];
+    kids.splice(end, 0,
+      { type: "heading", depth: 3, children: [{ type: "text", value: `Food deals in ${area}` }] },
+      ...table(header, deals.map((d) => {
+        const c = cellsFor(d, header);
+        c[1] = c[1].charAt(0).toUpperCase() + c[1].slice(1);
+        if (d.endDate) c[c.length - 1] += ` {until=${d.endDate}}`;
+        return c;
+      })),
+      html(`<p class="area-all-restaurants"><a href="/articles/${HUB}/">Every food deal in London, by day and by type<span aria-hidden="true"> &rarr;</span></a></p>`),
+    );
+  };
+}
+
+const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals (today|best|ending)\}$/;
 const textOf = (node) => (node.value ?? "") + (node.children ?? []).map(textOf).join("");
 
 export default function remarkDealTables() {
@@ -237,7 +360,7 @@ export default function remarkDealTables() {
       const m = textOf(p).trim().match(MARKER);
       if (!m) continue;
       const data = load();
-      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : m[4] === "best" ? best(data) : today(data);
+      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : m[4] === "best" ? best(data) : m[4] === "ending" ? ending(data) : today(data);
       kids.splice(i, 1, ...nodes);
     }
   };
