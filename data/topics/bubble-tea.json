@@ -32,5 +32,10 @@
     "Tier E (community) CANNOT be collected in this environment - Reddit is blocked to both the search agent and the browser. Record threads only if the user supplies them.",
     "TikTok search runs through a paid Apify actor; not run without asking. YouTube (yt-dlp, free) is the tier D route used."
   ],
-  "openVenueQuestions": []
+  "openVenueQuestions": [],
+  "dealLabel": "bubble tea",
+  "dealKeywords": ["bubble tea", "boba"],
+  "dealCuisines": ["bubble-tea"],
+  "dealStyles": ["bubble tea"],
+  "dealDrinks": true
 }

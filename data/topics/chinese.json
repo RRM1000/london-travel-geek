@@ -101,5 +101,9 @@
     "Hakkasan Mayfair and Hakkasan Hanway Place are deliberately NOT merged: only Hanway Place held the star and only Hanway Place has closed.",
     "Rasa Sayang, Speedboat Bar, Pochawa Grill, Din Tai Fung and Tokyo Diner are named by Chinese-guide sources and are Malaysian, Thai, Korean, Taiwanese and Japanese. Chinatown listings do this. They are kept and labelled, never described as Chinese.",
     "9 venues meeting the bar have no Restaurants v2 row: Three Uncles, Imperial Treasure Fine Chinese Cuisine, Good Friend, YiQi, San Hao, Poon's, Noodle Nova, Noodle & Beer, Leong's Legend, C&R Cafe."
-  ]
+  ],
+  "dealLabel": "Chinese food",
+  "dealKeywords": ["dim sum", "hot pot", "peking duck", "chinese"],
+  "dealCuisines": ["chinese", "taiwanese", "dim-sum", "hot-pot"],
+  "dealExclude": ["indo-chinese"]
 }

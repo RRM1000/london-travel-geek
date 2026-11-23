@@ -25,6 +25,7 @@ import { pathToFileURL } from "node:url";
 import { fromMarkdown } from "mdast-util-from-markdown";
 import { gfm } from "micromark-extension-gfm";
 import { gfmFromMarkdown } from "mdast-util-gfm";
+import { pageVenues } from "./remark-venue-deals.mjs";
 
 // Resolved from this file when it runs from src/lib (astro.config.mjs); from the working
 // directory when Vite has bundled it into a build chunk (the area guide page imports it), where
@@ -349,6 +350,132 @@ export function remarkAreaDeals() {
         return c;
       })),
       html(`<p class="area-all-restaurants"><a href="/articles/${HUB}/">Every food deal in London, by day and by type<span aria-hidden="true"> &rarr;</span></a></p>`),
+    );
+  };
+}
+
+// BEST-OF GUIDES. A "More <topic> deals in London" table near the end of each "best X in London"
+// guide: live deals on that food at restaurants the guide does not list (the ones it lists already
+// carry a "Deal:" line from remark-venue-deals). Each guide's terms are in its data/topics/<topic>.json
+// (or, for a guide with no topic config, data/food-deals/guide-deals.json, keyed by article slug):
+//
+//   dealLabel     the food, as it reads in "More <dealLabel> deals in London"
+//   dealKeywords  words that make a deal this food when its name, offer or price says them
+//   dealCuisines  the Restaurants v2 Cuisine, the deal's own style, or the chain's cuisine
+//                 tag (data/food-deals/chains.json) that make a restaurant this food
+//   dealStyles    words in the Restaurants v2 Style that do the same ("pizza" in "Neapolitan pizza")
+//   dealMore      optional { url, label } for the closing link; the deals hub otherwise
+//
+// A deal found through the restaurant alone (no keyword in the deal) must be a food deal: happy
+// hours, bottomless drinks and BYO are left out. Membership deals (apps, birthdays, discount
+// cards) count only when the offer itself names the food. One deal per restaurant, keyword
+// matches first, at most TOPIC_MAX; under two, nothing prints. The section goes before the
+// guide's practical section ("What to know", "Booking...") or else before "Continue planning".
+const TOPICS = new URL("data/topics/", ROOT);
+const GUIDE_DEALS = new URL("data/food-deals/guide-deals.json", ROOT);
+const CHAINS = new URL("data/food-deals/chains.json", ROOT);
+const TOPIC_MAX = 8;
+const DRINK_TYPES = new Set(["happy-hour", "bottomless", "byo"]);
+const DRINK = /\b(cocktails?|beers?|pints?|wines?|spritz(es)?|prosecco|lager|drinks|margaritas?|bubbles|mimosas?|martinis?|negronis?|sake|flights?)\b/i;
+// "Multi-cuisine buffet (Chinese, Indian, Mexican...)" is not a deal on any one of them.
+const MIXED = /multi-cuisine|world buffet|world grill/i;
+const TOPIC_HEAD = 45;
+const VAGUE_BRANCH = /^(selected|select|participating|some|most|various|\d+ )/i;
+const TOPIC_END = /^(what to know|booking|before you go|before you book|faq|frequently asked|tips for|eating this food well|how to use this|what to do with this|planning a)/i;
+const TOPIC_TAIL = /^(continue planning|next$|plan the rest)/i;
+let topicSpecs = null;
+function topicIndex() {
+  if (topicSpecs) return topicSpecs;
+  const specs = new Map();
+  try {
+    for (const f of fs.readdirSync(TOPICS).filter((f) => f.endsWith(".json"))) {
+      const t = JSON.parse(fs.readFileSync(new URL(f, TOPICS), "utf8"));
+      if (t.article && t.dealLabel && t.dealTable !== false) specs.set(t.article.split("/").pop().replace(/\.md$/, ""), t);
+    }
+  } catch {}
+  try { for (const [k, t] of Object.entries(JSON.parse(fs.readFileSync(GUIDE_DEALS, "utf8")))) if (!k.startsWith("_")) specs.set(k, t); } catch {}
+  const snap = fs.existsSync(SNAPSHOT) ? JSON.parse(fs.readFileSync(SNAPSHOT, "utf8")) : [];
+  const rows = new Map(snap.map((r) => [r.Slug, r]));
+  let chainTags = new Map();
+  try { chainTags = new Map(JSON.parse(fs.readFileSync(CHAINS, "utf8")).chains.filter((c) => c.cuisine).map((c) => [venue(c.name), c.cuisine])); } catch {}
+  topicSpecs = { specs, rows, chainTags };
+  return topicSpecs;
+}
+const lc = (s) => (s ?? "").toLowerCase().replace(/-/g, " ").trim();
+const wordRx = (words) => words?.length ? new RegExp(`\\b(${words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|")})\\b`, "i") : null;
+
+export function topicDeals(data, spec, onPage = { slugs: new Set(), names: new Set() }) {
+  const { rows, chainTags } = topicIndex();
+  const kw = wordRx(spec.dealKeywords);
+  const not = wordRx(spec.dealExclude);
+  const cuisines = new Set((spec.dealCuisines ?? []).map(lc));
+  const styles = wordRx(spec.dealStyles);
+  const listed = (d) => {
+    const v = venue(d.name);
+    return (d.slug && onPage.slugs.has(d.slug)) || [...onPage.names].some((n) => n === v || (n.length >= 8 && v.startsWith(n)));
+  };
+  const pick = new Map();
+  for (const d of data.live) {
+    if (d.card || d.origin === "page" || !/\d/.test(`${d.offer} ${d.price ?? ""}`) || listed(d)) continue;
+    const row = d.slug ? rows.get(d.slug) : null;
+    if (row && row.Status !== "open") continue;
+    // What the deal is about: the offer minus its asides, and only its opening words, so "salmon
+    // tacos" deep in a sushi buffet's dish list does not make it a taco deal.
+    const head = `${d.offer.replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").slice(0, TOPIC_HEAD)} ${d.price && d.price.length <= 28 ? d.price : ""}`;
+    if (MIXED.test(d.offer) || not?.test(`${d.name} ${head}`)) continue;
+    // A bar offer that names the food after the drink ("sake flight or Japanese flight") is a
+    // drinks deal; "oysters at £1 each, Southern snacks, cocktails" is a food one.
+    const kwAt = kw ? head.search(kw) : -1;
+    const drinkAt = head.search(DRINK);
+    const inOffer = kwAt >= 0 && (spec.dealDrinks || drinkAt < 0 || kwAt < drinkAt);
+    const tags = chainTags.get(venue(d.name)) ?? [];
+    const byVenue = !!kw?.test(d.name) || cuisines.has(lc(d.style)) || (row && (cuisines.has(lc(row.Cuisine)) || !!styles?.test(row.Style ?? ""))) || tags.some((t) => cuisines.has(lc(t)));
+    if (!inOffer && !byVenue) continue;
+    if (AREA_SKIP.has(d.type) && !inOffer) continue;
+    // Found through the restaurant alone, the deal has to be on its food, not its bar.
+    if (!inOffer && !spec.dealDrinks && (DRINK_TYPES.has(d.type) || DRINK.test(head))) continue;
+    const k = host(d.site) || venue(d.name);
+    const cur = pick.get(k);
+    if (!cur || (inOffer && !cur.inOffer) || (inOffer === cur.inOffer && areaOrder(d, cur.d) < 0)) pick.set(k, { d, inOffer });
+  }
+  return [...pick.values()].sort((a, b) => b.inOffer - a.inOffer || areaOrder(a.d, b.d)).slice(0, TOPIC_MAX).map((r) => r.d);
+}
+
+export function remarkTopicDeals() {
+  return (tree, file) => {
+    const path = String(file.history?.[0] ?? file.path ?? "").replace(/\\/g, "/");
+    const slug = path.match(/\/articles\/([a-z0-9-]+)\.md$/)?.[1];
+    const spec = slug && topicIndex().specs.get(slug);
+    if (!spec) return;
+    const data = load();
+    if (!data) return;
+    const deals = topicDeals(data, spec, pageVenues(tree));
+    if (deals.length < 2) return;
+    const kids = tree.children;
+    const h2 = (re) => kids.findIndex((n) => n.type === "heading" && n.depth === 2 && re.test(textOf(n).trim()));
+    let at = h2(TOPIC_END);
+    if (at === -1) at = h2(TOPIC_TAIL);
+    if (at === -1) at = kids.length;
+    const header = ["Restaurant", "When", "Deal"];
+    const more = spec.dealMore ?? { url: `/articles/${HUB}/`, label: "Every food deal in London, by day and by type" };
+    kids.splice(at, 0,
+      { type: "heading", depth: 2, children: [{ type: "text", value: `More ${spec.dealLabel} deals in London` }] },
+      ...table(header, deals.map((d) => {
+        const c = cellsFor(d, header);
+        c[1] = c[1].charAt(0).toUpperCase() + c[1].slice(1);
+        // Where it runs, when that is one place: "Shiro, Broadgate Circle". "Selected branches"
+        // and the like go after the offer; text that only says the branch is unknown goes.
+        const b = branches(d.branches).replace(/\s*\([^)]*\)/g, "").replace(/\s*\(.*$/, "").trim();
+        const first = (x) => norm(x.split(/\s+/)[0]);
+        if (b && !/^All branches|not (named|stated|specified)/i.test(b) && norm(b) !== venue(d.name)) {
+          if (VAGUE_BRANCH.test(b)) c[2] += `, at ${b.charAt(0).toLowerCase()}${b.slice(1)}`;
+          else if (b.length > 40) c[2] += `, at ${b}`;
+          else if (!norm(d.name).includes(norm(b)) && first(b) !== first(d.name)) c[0] += `, ${b}`;
+        }
+        if (d.endDate) c[c.length - 1] += ` {until=${d.endDate}}`;
+        return c;
+      })),
+      html(`<p class="area-all-restaurants"><a href="${escHtml(more.url)}">${escHtml(more.label)}<span aria-hidden="true"> &rarr;</span></a></p>`),
     );
   };
 }

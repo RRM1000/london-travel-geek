@@ -419,5 +419,8 @@
   "collectionCorrections": [
     "Michelin's dining-pubs page 403s the browser too; its ten picks were read from Secret London's write-up and filed under guide.michelin.com.",
     "DesignMyNight declined: a listings page with venue offers, and its 'The Cow' is a different pub in Westfield Stratford."
-  ]
+  ],
+  "dealLabel": "gastropub",
+  "dealKeywords": ["gastropub"],
+  "dealStyles": ["gastropub"]
 }

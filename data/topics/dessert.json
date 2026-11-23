@@ -69,5 +69,9 @@
     "tierAVenues": 10,
     "articleExists": true,
     "mapExists": false
-  }
+  },
+  "dealLabel": "bakery",
+  "dealKeywords": ["pastry", "pastries", "croissant", "croissants", "bakery", "cakes"],
+  "dealCuisines": ["bakery"],
+  "dealStyles": ["bakery", "patisserie"]
 }

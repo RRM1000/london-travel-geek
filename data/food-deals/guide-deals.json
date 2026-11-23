@@ -1,0 +1,212 @@
+{
+  "_note": "Deal-table terms for best-of guides that have no data/topics config; same fields as there (dealLabel, dealKeywords, dealCuisines, dealStyles, dealExclude, dealDrinks, dealMore). Read by remarkTopicDeals in src/lib/remark-deal-tables.mjs.",
+  "best-burgers-london": {
+    "dealLabel": "burger",
+    "dealKeywords": [
+      "burger",
+      "burgers"
+    ],
+    "dealCuisines": [
+      "burger"
+    ],
+    "dealStyles": [
+      "burger"
+    ]
+  },
+  "best-coffee-london": {
+    "dealLabel": "coffee",
+    "dealKeywords": [
+      "coffee",
+      "coffees",
+      "latte",
+      "flat white"
+    ],
+    "dealCuisines": [
+      "coffee"
+    ],
+    "dealStyles": [
+      "coffee"
+    ],
+    "dealDrinks": true
+  },
+  "best-cocktail-bars-london": {
+    "dealLabel": "cocktail",
+    "dealKeywords": [
+      "cocktail",
+      "cocktails",
+      "martini",
+      "margarita",
+      "margaritas"
+    ],
+    "dealDrinks": true
+  },
+  "best-dim-sum-london": {
+    "dealLabel": "dim sum",
+    "dealKeywords": [
+      "dim sum",
+      "dumpling",
+      "dumplings",
+      "yum cha"
+    ],
+    "dealCuisines": [
+      "dim-sum"
+    ],
+    "dealStyles": [
+      "dim sum"
+    ]
+  },
+  "best-french-restaurants-london": {
+    "dealLabel": "French food",
+    "dealKeywords": [
+      "french",
+      "steak frites"
+    ],
+    "dealCuisines": [
+      "french"
+    ]
+  },
+  "best-ice-cream-london": {
+    "dealLabel": "ice cream",
+    "dealKeywords": [
+      "ice cream",
+      "gelato"
+    ],
+    "dealStyles": [
+      "gelateria",
+      "ice cream"
+    ]
+  },
+  "best-japanese-restaurants-london": {
+    "dealLabel": "Japanese food",
+    "dealKeywords": [
+      "sushi",
+      "ramen",
+      "sashimi",
+      "izakaya",
+      "katsu",
+      "japanese"
+    ],
+    "dealCuisines": [
+      "japanese",
+      "sushi",
+      "ramen"
+    ],
+    "dealExclude": [
+      "korean"
+    ]
+  },
+  "best-korean-restaurants-london": {
+    "dealLabel": "Korean food",
+    "dealKeywords": [
+      "korean"
+    ],
+    "dealCuisines": [
+      "korean",
+      "korean-bbq"
+    ]
+  },
+  "best-mexican-restaurants-london": {
+    "dealLabel": "Mexican food",
+    "dealKeywords": [
+      "taco",
+      "tacos",
+      "burrito",
+      "burritos",
+      "mexican"
+    ],
+    "dealCuisines": [
+      "mexican"
+    ]
+  },
+  "best-middle-eastern-restaurants-london": {
+    "dealLabel": "Middle Eastern food",
+    "dealKeywords": [
+      "mezze",
+      "shawarma",
+      "falafel",
+      "lebanese"
+    ],
+    "dealCuisines": [
+      "middle eastern",
+      "persian"
+    ]
+  },
+  "best-ramen-london": {
+    "dealLabel": "ramen",
+    "dealKeywords": [
+      "ramen"
+    ],
+    "dealCuisines": [
+      "ramen"
+    ],
+    "dealStyles": [
+      "ramen"
+    ]
+  },
+  "best-sandwiches-london": {
+    "dealLabel": "sandwich",
+    "dealKeywords": [
+      "sandwich",
+      "sandwiches",
+      "banh mi"
+    ]
+  },
+  "best-spanish-restaurants-london": {
+    "dealLabel": "Spanish food",
+    "dealKeywords": [
+      "tapas",
+      "paella",
+      "spanish"
+    ],
+    "dealCuisines": [
+      "spanish",
+      "tapas"
+    ]
+  },
+  "best-street-food-london": {
+    "dealLabel": "street food",
+    "dealKeywords": [
+      "street food"
+    ],
+    "dealCuisines": [
+      "food-hall"
+    ],
+    "dealStyles": [
+      "food hall"
+    ]
+  },
+  "best-thai-restaurants-london": {
+    "dealLabel": "Thai food",
+    "dealKeywords": [
+      "thai"
+    ],
+    "dealCuisines": [
+      "thai"
+    ]
+  },
+  "best-vegetarian-vegan-restaurants-london": {
+    "dealLabel": "vegetarian and vegan",
+    "dealKeywords": [
+      "vegan",
+      "vegetarian",
+      "plant-based"
+    ],
+    "dealCuisines": [
+      "vegetarian"
+    ],
+    "dealStyles": [
+      "vegan",
+      "vegetarian"
+    ]
+  },
+  "best-wetherspoons-pubs-london": {
+    "dealLabel": "Wetherspoon",
+    "dealKeywords": [
+      "wetherspoon",
+      "wetherspoons"
+    ],
+    "dealCuisines": [
+      "wetherspoon"
+    ]
+  }
+}

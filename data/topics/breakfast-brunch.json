@@ -113,5 +113,9 @@
     "'Burnt' and 'Burnt Bethnal Green' are both recorded from The Infatuation's brunch guide. The guide covers the Bethnal Green site as Burnt Arches; the two names have not been merged because the group also has Shepherd's Bush and a RADA cafe.",
     "'Cafe Jikoni' (Time Out's #4 breakfast) is the cafe at the V&A East Museum in Stratford, not Jikoni in Marylebone; recorded apart from Jikoni.",
     "'Beam' (Infatuation, Secret London, British Food Crew), 'Beam Notting Hill' (The Nudge) and 'Cafe Beam' in Highbury (SquareMeal) may be one group or two and are not merged."
-  ]
+  ],
+  "dealLabel": "breakfast and brunch",
+  "dealKeywords": ["brunch", "breakfast"],
+  "dealCuisines": ["brunch"],
+  "dealStyles": ["brunch", "breakfast"]
 }

@@ -132,5 +132,9 @@
     "channels": 12,
     "method": "Apify api-ninja/youtube-search-scraper, geo=GB. Handles came back from the YouTube API, so none was reconstructed.",
     "note": "Harrison Webb's roast video is a two-month, GBP1,000 survey and is a recommendation. Check the framing before recording names from a creator - the same channel's steakhouse video is a takedown, and recording its names would score a takedown as a recommendation."
-  }
+  },
+  "dealLabel": "Sunday roast",
+  "dealKeywords": ["roast", "roasts", "carvery"],
+  "dealTable": false,
+  "dealTableNote": "No generated table: the guide's hand-written 'What a roast costs' section already covers roast deals alongside prices."
 }

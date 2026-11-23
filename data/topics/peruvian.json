@@ -125,5 +125,8 @@
     "El Señorío Criollo - a Peruvian criollo restaurant with a live menu in pounds (churrasco £19, tallarín a la huancaína con lomo saltado £18) and a booking form, named by none of the sources and by one Facebook post from LSE's residential life account. Its own site publishes no address. Left off the page. ASK ROB whether it is worth chasing - it is exactly the criollo end the published lists miss.",
     "Butifarra - surfaced only in SquareMeal's excluded directory. A butifarra is a Peruvian pork sandwich, so the name is promising, but no site, address or second mention was found. Not recorded.",
     "El Alquimista, 2 Stockwell Street, Greenwich - trading (Time Out #11, August 2026) but elalquimista.co.uk answers a Cloudflare browser check to curl, so the page carries no link for it."
-  ]
+  ],
+  "dealLabel": "Peruvian food",
+  "dealKeywords": ["ceviche", "peruvian"],
+  "dealCuisines": ["peruvian"]
 }

@@ -194,5 +194,8 @@
     "Agora (Borough Market souvla bar) and Agora Bakery (308 Wightman Road, Harringay) are different businesses and are deliberately separate names.",
     "Retsina (Belsize Park, trading) and Retsina & Mousaka (West Ealing, closed) are different businesses.",
     "1905 Restaurant, 40 Mortimer Street, Fitzrovia - named by two sources (Busayo AD on YouTube, a Reddit reply) and trading (FSA, Dec 2025), but neither names a dish and no operator page was found, so it is left off the page. Athens Voice wrote it up in July 2025 as a Cretan kitchen (title only; the URL could not be resolved). Worth a second look."
-  ]
+  ],
+  "dealLabel": "Greek food",
+  "dealKeywords": ["souvlaki", "gyros", "greek"],
+  "dealCuisines": ["greek"]
 }

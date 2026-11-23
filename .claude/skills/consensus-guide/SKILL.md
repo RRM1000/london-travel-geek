@@ -383,6 +383,12 @@ on pizza pointed readers at the host pub and the market's own booking page.
 8. **New openings.**
 9. **Booking essentials and FAQs.**
 
+Between 8 and 9 the build adds a **"More <food> deals in London"** table from
+`data/food-deals/deals.json`, leaving out every restaurant the guide lists. Never write
+it by hand. A new food topic needs `dealLabel` and `dealKeywords` (and usually
+`dealCuisines`) in its topic config for the table to appear; the fields are explained
+above `remarkTopicDeals` in `src/lib/remark-deal-tables.mjs`.
+
 **Do not sort section 1 by citation count.** Citation count measures how much a
 place was written about; a ranking measures what judges thought. Sorting on the
 derivable number buried a national winner beneath a chain the article itself

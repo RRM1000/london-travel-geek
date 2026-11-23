@@ -189,5 +189,8 @@
     "costUsd": "~0.10",
     "method": "Apify api-ninja/youtube-search-scraper, videoDepthDetails=standard, geo=GB. Names read from chapter markers and descriptions. Handles came back from the YouTube API, so none was reconstructed.",
     "notRecorded": "@RestroSpot and @BBinLondon named nothing extractable; @bonappetit's video is New York."
-  }
+  },
+  "dealLabel": "Indian food",
+  "dealKeywords": ["biryani", "thali", "tandoori", "dosa", "indian"],
+  "dealCuisines": ["indian", "pakistani"]
 }

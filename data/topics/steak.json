@@ -90,5 +90,9 @@
     "twoPlusDomains": 21,
     "tierA": 9
   },
-  "correction": "The article claimed Goodman was '#54 in the World's 101 Best Steak Restaurants' as a current fact. Goodman is NOT in the 2026 list at all. Removed. Chelsea Grill at #55 was not otherwise in the corpus and is new from the primary source."
+  "correction": "The article claimed Goodman was '#54 in the World's 101 Best Steak Restaurants' as a current fact. Goodman is NOT in the 2026 list at all. Removed. Chelsea Grill at #55 was not otherwise in the corpus and is new from the primary source.",
+  "dealLabel": "steak",
+  "dealKeywords": ["steak", "steaks"],
+  "dealCuisines": ["steak"],
+  "dealStyles": ["steak"]
 }

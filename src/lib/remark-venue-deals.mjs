@@ -140,6 +140,44 @@ function line(d, title = "") {
   return s + ".";
 }
 
+// The restaurants a page lists, matched to deals exactly as the "Deal:" lines below are: Sheet
+// slugs, the heading names themselves, and the venue names of every deal a heading picks up (not
+// websites: one group site can carry several restaurants). The best-of guides' "More <topic>
+// deals" table (remarkTopicDeals in remark-deal-tables.mjs) leaves these out, because their deal
+// already shows under their entry. It also leaves out the short entries a guide lists as bullets
+// led by a bold name ("- **Franco Manca**, Soho — ..."): those are on the page too.
+const boldLeads = (node, out = []) => {
+  if (node.type === "listItem") {
+    const first = node.children?.[0]?.children?.[0];
+    if (first?.type === "strong") out.push(textOf(first));
+  }
+  for (const c of node.children ?? []) boldLeads(c, out);
+  return out;
+};
+export function pageVenues(tree) {
+  const out = { slugs: new Set(), names: new Set() };
+  const data = load();
+  if (!data) return out;
+  const titles = [
+    ...tree.children.filter((h) => h.type === "heading" && h.depth >= 2 && h.depth <= 4).map(textOf),
+    ...boldLeads(tree),
+  ];
+  for (const t of titles) {
+    const title = t.replace(/^\s*\d+\.\s*/, "");
+    const keys = [...new Set([title, title.split(/\s*(?:,|\s[–—-]\s|\()\s*/)[0]].map(norm).filter(Boolean))];
+    for (const key of keys) {
+      out.names.add(key);
+      const slug = data.slugByName.get(key);
+      if (slug) out.slugs.add(slug);
+      for (const d of [...((slug && data.bySlug.get(slug)) ?? []), ...(data.chainByName.get(key) ?? []), ...(data.byOwnName.get(key) ?? [])]) {
+        out.names.add(venueOf(d.name));
+      }
+    }
+  }
+  out.names.delete("");
+  return out;
+}
+
 export default function remarkVenueDeals() {
   return (tree, file) => {
     if (SKIP.test((file.path ?? file.history?.[0] ?? "").replace(/\\/g, "/"))) return;

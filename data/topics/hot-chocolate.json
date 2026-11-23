@@ -93,5 +93,9 @@
     "Chin Chin Dessert Club vs Chin Chin Labs - check whether sources are naming one business or two.",
     "Winter pop-ups: confirm trading status before recording. A December source may name something seasonal that is closed when the guide publishes."
   ],
-  "tierDCorrection": "SUPERSEDED 2026-09-07. Any wording in this file saying tier D is blocked because APIFY_TOKEN is unset is WRONG, on three counts, each verified: (1) APIFY_TOKEN IS set, 46 chars in .env.local - a script reading process.env without loading that file sees nothing, which is how the belief started; (2) the tier-D scripts do not use Apify at all - scripts/video-research.mjs shells out to yt-dlp and scripts/video-pass.mjs fetches youtube.com watch pages, and no script in scripts/ references APIFY_TOKEN; (3) yt-dlp is installed at the path video-research.mjs hardcodes, and a live search returned three real London videos in seconds. TIER D IS COLLECTABLE NOW, AT NO COST. Collect it before treating any source-mix verdict in this file as final. Tier E (Reddit) remains genuinely unreachable from this environment."
+  "tierDCorrection": "SUPERSEDED 2026-09-07. Any wording in this file saying tier D is blocked because APIFY_TOKEN is unset is WRONG, on three counts, each verified: (1) APIFY_TOKEN IS set, 46 chars in .env.local - a script reading process.env without loading that file sees nothing, which is how the belief started; (2) the tier-D scripts do not use Apify at all - scripts/video-research.mjs shells out to yt-dlp and scripts/video-pass.mjs fetches youtube.com watch pages, and no script in scripts/ references APIFY_TOKEN; (3) yt-dlp is installed at the path video-research.mjs hardcodes, and a live search returned three real London videos in seconds. TIER D IS COLLECTABLE NOW, AT NO COST. Collect it before treating any source-mix verdict in this file as final. Tier E (Reddit) remains genuinely unreachable from this environment.",
+  "dealLabel": "hot chocolate",
+  "dealKeywords": ["hot chocolate"],
+  "dealCuisines": ["hot-chocolate"],
+  "dealDrinks": true
 }

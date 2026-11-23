@@ -67,5 +67,8 @@
     "Sarap - Budgie Montoya's modern Filipino restaurant, reviewed by the Guardian in January 2022 - has no trading site: Sarap Baon in Brixton closed in April 2022, the Heddon Street site was a pop-up, and Apoy at Market Halls Oxford Street closed in January 2025 when he announced a pause. Recorded by Eater, off the page. If he reopens, it belongs at the top of it.",
     "Romulo Café & Restaurant closed in January 2024 and is still named by four of the sources here, including two published in 2023 and 2024. It needs an entry in data/closed.json or it will keep accruing citations.",
     "Panadera has two sites, 3 Hopkins Street in Soho and 7 Picton Place in Marylebone, and the Kentish Town original closed in January 2025. Sources name all three; carried as one venue."
-  ]
+  ],
+  "dealLabel": "Filipino food",
+  "dealKeywords": ["filipino"],
+  "dealCuisines": ["filipino"]
 }

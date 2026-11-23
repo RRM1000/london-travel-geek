@@ -192,5 +192,7 @@
     "DELICATESSEN (Hampstead), ZEST (West Hampstead), MET SU YAN (Edgware), TONY PAGE @ ISLAND GRILL, DELI 98 - named by editorial sources, absent from the KLBD restaurant register. Note Tony Page appears on the KLBD register as 'Tony Page Marylebone' at 26 Paddington Street W1U, which may or may not be the same operation as 'Tony Page @ Island Grill'. Resolve each against a register or mark unconfirmed.",
     "CARMELLI (Golders Green) is a BAKERY, not a restaurant - it appears on no restaurant list here and on two videos, and it is one of the best-known kosher food businesses in London. Whether it belongs in the guide depends on the scope decision in facetAxis.considerAdding.",
     "EAT TOKYO GOLDERS GREEN (japanese.json) and EAT TOKYO G2 SHABU-SHABU (hot-pot.json) ARE NOT KOSHER. They are branches of a mainstream Japanese chain in a Jewish neighbourhood. Any extractor matching on the area name will pull them in. Same for King Neptune Fish & Chip Shop Edgware (british.json, fish-and-chips.json)."
-  ]
+  ],
+  "dealLabel": "kosher",
+  "dealKeywords": ["kosher"]
 }

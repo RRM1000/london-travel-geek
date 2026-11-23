@@ -158,5 +158,8 @@
     "Hobson's is THREE branches - Porchester Road W2, St Anne's Court W1F, and Villiers Street WC2N off the Strand. Secondary listings place it on Charing Cross ROAD and in Victoria; both are wrong.",
     "Fishcotheque's trading status could not be confirmed from a primary source - its apparent domain has expired. Its own social page and dated third-party reviews suggest it is open. The row says so.",
     "Oliver's Whetstone branch has closed; only Belsize Park trades. Its own site and its menu PDF disagree on Sunday opening."
-  ]
+  ],
+  "dealLabel": "fish and chips",
+  "dealKeywords": ["fish and chips", "fish & chips", "fish n chips"],
+  "dealStyles": ["chippy", "fish and chips"]
 }

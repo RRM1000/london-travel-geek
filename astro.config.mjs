@@ -8,7 +8,7 @@ import remarkSubmitEvent from "./src/lib/remark-submit-event.mjs";
 import remarkVenueListings from "./src/lib/remark-venue-listings.mjs";
 import remarkVenueDeals from "./src/lib/remark-venue-deals.mjs";
 import remarkUntil from "./src/lib/remark-until.mjs";
-import remarkDealTables, { remarkAreaDeals } from "./src/lib/remark-deal-tables.mjs";
+import remarkDealTables, { remarkAreaDeals, remarkTopicDeals } from "./src/lib/remark-deal-tables.mjs";
 import rehypeTableAlign from "./src/lib/rehype-table-align.mjs";
 import rehypeTableResponsive from "./src/lib/rehype-table-responsive.mjs";
 import sitemap from "./src/lib/sitemap-integration.mjs";
@@ -29,7 +29,7 @@ export default defineConfig({
   // file for why this replaced a hand-maintained endpoint.
   integrations: [sitemap()],
   markdown: {
-    remarkPlugins: [remarkDealTables, remarkAreaRestaurants, remarkAreaDeals, remarkHotelLinks, remarkPartnerLinks, remarkStayStrips, remarkBigEvents, remarkSubmitEvent, remarkVenueListings, remarkVenueDeals, remarkUntil],
+    remarkPlugins: [remarkDealTables, remarkAreaRestaurants, remarkAreaDeals, remarkTopicDeals, remarkHotelLinks, remarkPartnerLinks, remarkStayStrips, remarkBigEvents, remarkSubmitEvent, remarkVenueListings, remarkVenueDeals, remarkUntil],
     rehypePlugins: [rehypeTableAlign, rehypeTableResponsive],
   },
   vite: {

@@ -74,5 +74,9 @@
   "openVenueQuestions": [
     "RESOLVED (Rob, 13 Sep 2026): brewery taprooms count as pubs for this topic. Time Out's 22-venue taproom guide is in scope.",
     "RESOLVED (Claude's call, confirmed by Rob 13 Sep 2026): CAMRA branch Pub of the Year winners are collected per-branch (13 citations under one award body), not merged into a fake single winner. See awardBodies note."
-  ]
+  ],
+  "dealLabel": "craft beer",
+  "dealKeywords": ["craft beer"],
+  "dealCuisines": ["craft-beer"],
+  "dealDrinks": true
 }

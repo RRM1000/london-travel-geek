@@ -138,5 +138,9 @@
     "names": 10,
     "method": "Apify api-ninja/youtube-search-scraper, geo=GB. Handles came back from the YouTube API, so none was reconstructed.",
     "note": "Venue-owned channels are tier F and never score. Harrison Webb's seafood video is a recommendation, unlike his steakhouse video, which is a takedown - check which before recording a name from a creator."
-  }
+  },
+  "dealLabel": "seafood",
+  "dealKeywords": ["oyster", "oysters", "lobster", "seafood", "mussels", "crab"],
+  "dealCuisines": ["seafood"],
+  "dealStyles": ["oyster"]
 }

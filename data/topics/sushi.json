@@ -162,5 +162,10 @@
     "Cafe Japan (626 Finchley Road, Golders Green) - merged to Atari-Ya because Atariya's own site lists Atariya Cafe Japan among its restaurants at that address; Time Out names the same branch as Atari-Ya Golders Green. Atari-Ya's Swiss Cottage restaurant is a separate site under the same brand.",
     "Moshi Moshi - recorded from one Reddit thread pair and the operator's own site; it is on the Liverpool Street station concourse and traded (food hygiene inspection May 2026), but its own pages carry no hours.",
     "Chuo (Shoreditch monorail sushi) and Kurumaya (City) are named by Secret London 2024 and one Reddit comment; no food hygiene record or working operator page was found, so neither is on the page."
-  ]
+  ],
+  "dealLabel": "sushi",
+  "dealKeywords": ["sushi", "maki", "sashimi", "nigiri"],
+  "dealCuisines": ["sushi"],
+  "dealStyles": ["sushi"],
+  "dealExclude": ["korean"]
 }

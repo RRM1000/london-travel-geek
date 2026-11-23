@@ -84,5 +84,8 @@
     "tierAVenues": 0,
     "articleExists": true,
     "mapExists": false
-  }
+  },
+  "dealLabel": "afternoon tea",
+  "dealKeywords": ["afternoon tea", "cream tea"],
+  "dealStyles": ["afternoon tea"]
 }

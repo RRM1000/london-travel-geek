@@ -102,5 +102,9 @@
     "Five Feet - RESOLVED 4 Nov 2026. Won National Pizza of the Year 2026 before opening. Time Out (4 Nov) confirms Hot Dinners' address, 4 Tanner Street, Bermondsey SE1 3LD, opening 11 November, Tuesday to Saturday evenings. Now in the guide as the 2026 winner; reviewBy is set to check it has opened.",
     "East West - Bloggers' Choice Award 2026, listed as London by the awards, but no address published. Recorded in the corpus, kept out of the guide until an address is found.",
     "Pizza Pilgrims and Rudy's both took the PAPA Industry Awards' chain category, which judges the BRAND, not a London branch - written up as a chain award for that reason."
-  ]
+  ],
+  "dealLabel": "pizza",
+  "dealKeywords": ["pizza", "pizzas"],
+  "dealCuisines": ["pizza"],
+  "dealStyles": ["pizza"]
 }

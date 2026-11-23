@@ -192,5 +192,8 @@
     "twoPlusDomains": 45,
     "tierA": 28,
     "meetingTheBar": 30
-  }
+  },
+  "dealLabel": "Italian food",
+  "dealKeywords": ["pasta", "italian"],
+  "dealCuisines": ["italian", "pizza"]
 }

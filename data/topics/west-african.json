@@ -161,5 +161,8 @@
     "'GOLD COAST' is both the colonial name for Ghana and the name of a Ghanaian restaurant with a buffet. Only the restaurant is a venue.",
     "TIWA N TIWA and TIWA SAVAGE - no relation, and the former is a Peckham restaurant Vittles mentions in passing. Left as a one-source name.",
     "STORK (Mayfair, pan-African) and STORK the bakery brand - not the same thing, and only the restaurant is recorded."
-  ]
+  ],
+  "dealLabel": "West African food",
+  "dealKeywords": ["jollof", "suya"],
+  "dealCuisines": ["west african"]
 }

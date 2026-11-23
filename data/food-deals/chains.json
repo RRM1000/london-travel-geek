@@ -1,41 +1,70 @@
 {
- "_note": "Chains with London branches whose own sites are crawled for deals alongside the Restaurants v2 sheet. Homepages only: discover-food-deals.mjs finds the offers pages itself. A site that fails the crawl is reported, not guessed at. Burger, fried-chicken and pizza-delivery fast food is left out (Rob, 12 Nov 2026).",
+ "_note": "Chains with London branches whose own sites are crawled for deals alongside the Restaurants v2 sheet. Homepages only: discover-food-deals.mjs finds the offers pages itself. A site that fails the crawl is reported, not guessed at. Burger, fried-chicken and pizza-delivery fast food is left out (Rob, 12 Nov 2026). \"cuisine\" tags what the chain serves, for the deal tables on the best-of guides (remarkTopicDeals in src/lib/remark-deal-tables.mjs); chains with no single cuisine have none.",
  "chains": [
   {
    "name": "PizzaExpress",
-   "url": "https://www.pizzaexpress.com/"
+   "url": "https://www.pizzaexpress.com/",
+   "cuisine": [
+    "pizza",
+    "italian"
+   ]
   },
   {
    "name": "Wagamama",
-   "url": "https://www.wagamama.com/"
+   "url": "https://www.wagamama.com/",
+   "cuisine": [
+    "pan-asian"
+   ]
   },
   {
    "name": "Côte",
-   "url": "https://www.cote.co.uk/"
+   "url": "https://www.cote.co.uk/",
+   "cuisine": [
+    "french"
+   ]
   },
   {
    "name": "Bill's",
-   "url": "https://bills-website.co.uk/"
+   "url": "https://bills-website.co.uk/",
+   "cuisine": [
+    "brunch"
+   ]
   },
   {
    "name": "Franco Manca",
-   "url": "https://www.francomanca.co.uk/"
+   "url": "https://www.francomanca.co.uk/",
+   "cuisine": [
+    "pizza",
+    "italian"
+   ]
   },
   {
    "name": "Honest Burgers",
-   "url": "https://www.honestburgers.co.uk/"
+   "url": "https://www.honestburgers.co.uk/",
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "Byron",
-   "url": "https://www.byron.co.uk/"
+   "url": "https://www.byron.co.uk/",
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "GBK",
-   "url": "https://www.gbk.co.uk/"
+   "url": "https://www.gbk.co.uk/",
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "Five Guys",
-   "url": "https://fiveguys.co.uk/"
+   "url": "https://fiveguys.co.uk/",
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "Nando's",
@@ -43,71 +72,125 @@
   },
   {
    "name": "Zizzi",
-   "url": "https://www.zizzi.co.uk/"
+   "url": "https://www.zizzi.co.uk/",
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "ASK Italian",
-   "url": "https://www.askitalian.co.uk/"
+   "url": "https://www.askitalian.co.uk/",
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Prezzo",
-   "url": "https://www.prezzo.co.uk/"
+   "url": "https://www.prezzo.co.uk/",
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Bella Italia",
-   "url": "https://www.bellaitalia.co.uk/"
+   "url": "https://www.bellaitalia.co.uk/",
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Carluccio's",
-   "url": "https://www.carluccios.com/"
+   "url": "https://www.carluccios.com/",
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Strada",
-   "url": "https://www.strada.co.uk/"
+   "url": "https://www.strada.co.uk/",
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Pizza Pilgrims",
-   "url": "https://pizzapilgrims.co.uk/"
+   "url": "https://pizzapilgrims.co.uk/",
+   "cuisine": [
+    "pizza",
+    "italian"
+   ]
   },
   {
    "name": "Rudy's Pizza",
-   "url": "https://www.rudyspizza.co.uk/"
+   "url": "https://www.rudyspizza.co.uk/",
+   "cuisine": [
+    "pizza",
+    "italian"
+   ]
   },
   {
    "name": "Yo! Sushi",
-   "url": "https://yosushi.com/"
+   "url": "https://yosushi.com/",
+   "cuisine": [
+    "japanese",
+    "sushi"
+   ]
   },
   {
    "name": "Itsu",
-   "url": "https://www.itsu.com/"
+   "url": "https://www.itsu.com/",
+   "cuisine": [
+    "sushi"
+   ]
   },
   {
    "name": "Wahaca",
-   "url": "https://www.wahaca.co.uk/"
+   "url": "https://www.wahaca.co.uk/",
+   "cuisine": [
+    "mexican"
+   ]
   },
   {
    "name": "Tortilla",
-   "url": "https://www.tortilla.co.uk/"
+   "url": "https://www.tortilla.co.uk/",
+   "cuisine": [
+    "mexican"
+   ]
   },
   {
    "name": "Chipotle",
-   "url": "https://www.chipotle.co.uk/"
+   "url": "https://www.chipotle.co.uk/",
+   "cuisine": [
+    "mexican"
+   ]
   },
   {
    "name": "Dishoom",
-   "url": "https://www.dishoom.com/"
+   "url": "https://www.dishoom.com/",
+   "cuisine": [
+    "indian"
+   ]
   },
   {
    "name": "Mowgli",
-   "url": "https://www.mowglistreetfood.com/"
+   "url": "https://www.mowglistreetfood.com/",
+   "cuisine": [
+    "indian"
+   ]
   },
   {
    "name": "Rosa's Thai",
-   "url": "https://rosasthaicafe.com/"
+   "url": "https://rosasthaicafe.com/",
+   "cuisine": [
+    "thai"
+   ]
   },
   {
    "name": "Busaba",
-   "url": "https://www.busaba.com/"
+   "url": "https://www.busaba.com/",
+   "cuisine": [
+    "thai"
+   ]
   },
   {
    "name": "Banana Tree",
@@ -115,55 +198,98 @@
   },
   {
    "name": "Giggling Squid",
-   "url": "https://www.gigglingsquid.com/"
+   "url": "https://www.gigglingsquid.com/",
+   "cuisine": [
+    "thai"
+   ]
   },
   {
    "name": "Tonkotsu",
-   "url": "https://www.tonkotsu.co.uk/"
+   "url": "https://www.tonkotsu.co.uk/",
+   "cuisine": [
+    "japanese",
+    "ramen"
+   ]
   },
   {
    "name": "Kanada-Ya",
-   "url": "https://www.kanada-ya.com/"
+   "url": "https://www.kanada-ya.com/",
+   "cuisine": [
+    "japanese",
+    "ramen"
+   ]
   },
   {
    "name": "Shoryu Ramen",
-   "url": "https://www.shoryuramen.com/"
+   "url": "https://www.shoryuramen.com/",
+   "cuisine": [
+    "japanese",
+    "ramen"
+   ]
   },
   {
    "name": "Bone Daddies",
-   "url": "https://www.bonedaddies.com/"
+   "url": "https://www.bonedaddies.com/",
+   "cuisine": [
+    "japanese",
+    "ramen"
+   ]
   },
   {
    "name": "Flat Iron",
-   "url": "https://flatironsteak.co.uk/"
+   "url": "https://flatironsteak.co.uk/",
+   "cuisine": [
+    "steak"
+   ]
   },
   {
    "name": "Hawksmoor",
-   "url": "https://thehawksmoor.com/"
+   "url": "https://thehawksmoor.com/",
+   "cuisine": [
+    "steak"
+   ]
   },
   {
    "name": "Miller & Carter",
-   "url": "https://www.millerandcarter.co.uk/"
+   "url": "https://www.millerandcarter.co.uk/",
+   "cuisine": [
+    "steak"
+   ]
   },
   {
    "name": "Gaucho",
-   "url": "https://gauchorestaurants.com/"
+   "url": "https://gauchorestaurants.com/",
+   "cuisine": [
+    "steak"
+   ]
   },
   {
    "name": "Blacklock",
-   "url": "https://theblacklock.com/"
+   "url": "https://theblacklock.com/",
+   "cuisine": [
+    "steak"
+   ]
   },
   {
    "name": "Burger & Lobster",
-   "url": "https://www.burgerandlobster.com/"
+   "url": "https://www.burgerandlobster.com/",
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "Patty & Bun",
-   "url": "https://www.pattyandbun.co.uk/"
+   "url": "https://www.pattyandbun.co.uk/",
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "Shake Shack",
-   "url": "https://shakeshack.co.uk/"
+   "url": "https://shakeshack.co.uk/",
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "TGI Fridays",
@@ -191,7 +317,10 @@
   },
   {
    "name": "Wetherspoon",
-   "url": "https://www.jdwetherspoon.com/"
+   "url": "https://www.jdwetherspoon.com/",
+   "cuisine": [
+    "wetherspoon"
+   ]
   },
   {
    "name": "All Bar One",
@@ -207,7 +336,10 @@
   },
   {
    "name": "Turtle Bay",
-   "url": "https://turtlebay.co.uk/"
+   "url": "https://turtlebay.co.uk/",
+   "cuisine": [
+    "caribbean"
+   ]
   },
   {
    "name": "Cosy Club",
@@ -215,7 +347,10 @@
   },
   {
    "name": "Brewdog",
-   "url": "https://www.brewdog.com/uk/bars"
+   "url": "https://www.brewdog.com/uk/bars",
+   "cuisine": [
+    "craft-beer"
+   ]
   },
   {
    "name": "Leon",
@@ -231,23 +366,38 @@
   },
   {
    "name": "The Breakfast Club",
-   "url": "https://thebreakfastclubcafes.com/"
+   "url": "https://thebreakfastclubcafes.com/",
+   "cuisine": [
+    "brunch"
+   ]
   },
   {
    "name": "Caravan",
-   "url": "https://caravanrestaurants.co.uk/"
+   "url": "https://caravanrestaurants.co.uk/",
+   "cuisine": [
+    "brunch"
+   ]
   },
   {
    "name": "Megan's",
-   "url": "https://megans.co.uk/"
+   "url": "https://megans.co.uk/",
+   "cuisine": [
+    "brunch"
+   ]
   },
   {
    "name": "Gail's",
-   "url": "https://gails.com/"
+   "url": "https://gails.com/",
+   "cuisine": [
+    "bakery"
+   ]
   },
   {
    "name": "Hakkasan",
-   "url": "https://hakkasan.com/"
+   "url": "https://hakkasan.com/",
+   "cuisine": [
+    "chinese"
+   ]
   },
   {
    "name": "Dirty Bones",
@@ -255,7 +405,10 @@
   },
   {
    "name": "Pho",
-   "url": "https://www.phocafe.co.uk/"
+   "url": "https://www.phocafe.co.uk/",
+   "cuisine": [
+    "vietnamese"
+   ]
   },
   {
    "name": "Coqbull",
@@ -263,68 +416,114 @@
   },
   {
    "name": "Sticks'n'Sushi",
-   "url": "https://sticksnsushi.com/en-gb"
+   "url": "https://sticksnsushi.com/en-gb",
+   "cuisine": [
+    "japanese",
+    "sushi"
+   ]
   },
   {
    "name": "Ole & Steen",
-   "url": "https://oleandsteen.co.uk/"
+   "url": "https://oleandsteen.co.uk/",
+   "cuisine": [
+    "bakery"
+   ]
   },
   {
    "name": "Big Easy",
-   "url": "https://www.bigeasy.co.uk/"
+   "url": "https://www.bigeasy.co.uk/",
+   "cuisine": [
+    "bbq"
+   ]
   },
   {
    "name": "Bodean's",
-   "url": "https://www.bodeansbbq.com/"
+   "url": "https://www.bodeansbbq.com/",
+   "cuisine": [
+    "bbq"
+   ]
   },
   {
    "name": "Ping Pong",
-   "url": "https://www.pingpongdimsum.com/"
+   "url": "https://www.pingpongdimsum.com/",
+   "cuisine": [
+    "chinese",
+    "dim-sum"
+   ]
   },
   {
    "name": "Greggs",
    "url": "https://www.greggs.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "bakery"
+   ]
   },
   {
    "name": "Wasabi",
    "url": "https://www.wasabi.uk.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "japanese",
+    "sushi"
+   ]
   },
   {
    "name": "Paul",
    "url": "https://www.paul-uk.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "bakery",
+    "french"
+   ]
   },
   {
    "name": "Le Pain Quotidien",
    "url": "https://www.lepainquotidien.com/uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "bakery"
+   ]
   },
   {
    "name": "Joe & the Juice",
    "url": "https://www.joejuice.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Black Sheep Coffee",
    "url": "https://www.blacksheepcoffee.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Caffè Nero",
    "url": "https://caffenero.com/uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Costa",
    "url": "https://www.costa.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Starbucks",
    "url": "https://www.starbucks.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Abokado",
@@ -344,17 +543,27 @@
   {
    "name": "Comptoir Libanais",
    "url": "https://www.comptoirlibanais.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "middle eastern"
+   ]
   },
   {
    "name": "Pizza Union",
    "url": "https://www.pizzaunion.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "pizza",
+    "italian"
+   ]
   },
   {
    "name": "Homeslice",
    "url": "https://www.homeslicepizza.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "pizza"
+   ]
   },
   {
    "name": "Crosstown",
@@ -364,17 +573,26 @@
   {
    "name": "Bao",
    "url": "https://baolondon.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "taiwanese"
+   ]
   },
   {
    "name": "Hoppers",
    "url": "https://www.hopperslondon.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "sri lankan"
+   ]
   },
   {
    "name": "Mildreds",
    "url": "https://www.mildreds.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "vegetarian"
+   ]
   },
   {
    "name": "Benugo",
@@ -394,17 +612,26 @@
   {
    "name": "Café Rouge",
    "url": "https://www.caferouge.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "french"
+   ]
   },
   {
    "name": "The Real Greek",
    "url": "https://www.therealgreek.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "greek"
+   ]
   },
   {
    "name": "Gordon Ramsay Restaurants",
    "url": "https://www.gordonramsayrestaurants.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "gordon-ramsay"
+   ]
   },
   {
    "name": "Cocotte",
@@ -414,47 +641,74 @@
   {
    "name": "Lina Stores",
    "url": "https://linastores.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Padella",
    "url": "https://www.padella.co/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Bancone",
    "url": "https://www.bancone.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Big Mamma",
    "url": "https://www.bigmammagroup.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Pastaio",
    "url": "https://www.pastaio.london/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Polpo",
    "url": "https://www.polpo.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "Barrafina",
    "url": "https://www.barrafina.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "spanish"
+   ]
   },
   {
    "name": "Breddos Tacos",
    "url": "https://www.breddostacos.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "mexican"
+   ]
   },
   {
    "name": "Temper",
    "url": "https://www.temperrestaurant.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "bbq"
+   ]
   },
   {
    "name": "Ottolenghi",
@@ -464,12 +718,18 @@
   {
    "name": "Bread Ahead",
    "url": "https://www.breadahead.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "bakery"
+   ]
   },
   {
    "name": "Konditor",
    "url": "https://www.konditor.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "bakery"
+   ]
   },
   {
    "name": "Fuller's",
@@ -509,37 +769,58 @@
   {
    "name": "Market Halls",
    "url": "https://www.markethalls.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "food-hall"
+   ]
   },
   {
    "name": "Arcade Food Hall",
    "url": "https://www.arcadefoodhall.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "food-hall"
+   ]
   },
   {
    "name": "Seven Dials Market",
    "url": "https://www.sevendialsmarket.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "food-hall"
+   ]
   },
   {
    "name": "Mercato Metropolitano",
    "url": "https://www.mercatometropolitano.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "food-hall"
+   ]
   },
   {
    "name": "Boxpark",
    "url": "https://www.boxpark.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "food-hall"
+   ]
   },
   {
    "name": "Kerb",
    "url": "https://www.kerbfood.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "food-hall"
+   ]
   },
   {
    "name": "Coco di Mama",
    "url": "https://www.cocodimama.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "italian"
+   ]
   },
   {
    "name": "The Ivy Collection",
@@ -549,17 +830,26 @@
   {
    "name": "Brasserie Blanc",
    "url": "https://www.brasserieblanc.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "french"
+   ]
   },
   {
    "name": "MEATliquor",
    "url": "https://meatliquor.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "Bleecker",
    "url": "https://www.bleecker.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "burger"
+   ]
   },
   {
    "name": "EL&N",
@@ -574,22 +864,34 @@
   {
    "name": "WatchHouse",
    "url": "https://www.watchhouse.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Grind",
    "url": "https://grind.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Department of Coffee",
    "url": "https://www.departmentofcoffee.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Bubbleology",
    "url": "https://bubbleology.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "bubble-tea"
+   ]
   },
   {
    "name": "Ben's Cookies",
@@ -599,22 +901,35 @@
   {
    "name": "Crust Bros",
    "url": "https://www.crustbros.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "pizza",
+    "italian"
+   ]
   },
   {
    "name": "Yard Sale Pizza",
    "url": "https://www.yardsalepizza.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "pizza"
+   ]
   },
   {
    "name": "Knoops",
    "url": "https://knoops.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "hot-chocolate"
+   ]
   },
   {
    "name": "Kricket",
    "url": "https://kricketrestaurants.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "indian"
+   ]
   },
   {
    "name": "Hawker & Co",
@@ -624,22 +939,35 @@
   {
    "name": "Sushi Atelier",
    "url": "https://www.sushiatelier.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "japanese",
+    "sushi"
+   ]
   },
   {
    "name": "Gymkhana Fine Foods",
    "url": "https://www.gymkhanafinefoods.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "indian"
+   ]
   },
   {
    "name": "Flat White",
    "url": "https://www.flatwhitesoho.co.uk/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "coffee"
+   ]
   },
   {
    "name": "Dirty Burger",
    "url": "https://www.dirtyburger.com/",
-   "wave": 2
+   "wave": 2,
+   "cuisine": [
+    "burger"
+   ]
   }
  ]
 }

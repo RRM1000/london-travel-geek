@@ -61,5 +61,8 @@
     "Mangal 1 and Mangal II are two separate Dalston restaurants, related by family and NOT merged. Recorded in data/name-aliases.json under deliberatelyNotAliased.",
     "The '19 Numara Bos Cirrik' ocakbasi is written three ways across sources and has numbered siblings on the same stretch. Merged to one record; the numbered siblings are not distinguished and may be separate businesses.",
     "21 of the 27 venues meeting the bar have no Restaurants v2 row, including Mangal II, The Counter, Yeni, Zahter and Haz."
-  ]
+  ],
+  "dealLabel": "Turkish food",
+  "dealKeywords": ["kebab", "ocakbasi", "turkish"],
+  "dealCuisines": ["turkish"]
 }

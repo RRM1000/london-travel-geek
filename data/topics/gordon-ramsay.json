@@ -66,5 +66,8 @@
   "currentState": {
     "recorded": "2026-11-22",
     "note": "Counts are printed from data/evidence.json by scripts/verify-gordon-ramsay-citations.mjs, not here."
-  }
+  },
+  "dealLabel": "Gordon Ramsay restaurant",
+  "dealKeywords": ["gordon ramsay", "bread street kitchen", "heddon street kitchen", "lucky cat", "savoy grill", "hell's kitchen", "street pizza", "street burger"],
+  "dealCuisines": ["gordon-ramsay"]
 }
