@@ -9,8 +9,11 @@
 //                        any deal of the list's type that no table shows yet (see DEFAULT).
 //   {deals more=<type>}  every current deal of that type that no table shows, in a plain
 //                        Restaurant / Deal / When / Condition and where table. Nothing when empty.
-//   {deals today}        the seven day-of-the-week lists, with a script that shows today's
-//                        (London time). Without JavaScript it links to the day-by-day tables.
+//   {deals today}        for each day of the week: that day's own deals, the several-weekday deals
+//                        that include it, and the any-day picks from data/food-deals/best.json;
+//                        a script shows today's (London time). Without JavaScript it links to the
+//                        day-by-day tables.
+//   {deals best}         one card per section of best.json, with its first three picks still live.
 //
 // scripts/import-deal-rows.mjs made the show[] entries from the tables the pages used to carry.
 import fs from "node:fs";
@@ -21,6 +24,7 @@ import { gfmFromMarkdown } from "mdast-util-gfm";
 const ROOT = new URL("../../", import.meta.url);
 const DEALS = new URL("data/food-deals/deals.json", ROOT);
 const LISTS = new URL("data/food-deals/lists.json", ROOT);
+const BEST = new URL("data/food-deals/best.json", ROOT);
 
 // The list a deal of each type joins when no table shows it. Types with no list here
 // (set menus, bottomless, kids eat free...) print through {deals more=<type>} instead.
@@ -57,7 +61,7 @@ const venue = (n) => norm(n.replace(/\s*\(.*\)\s*$/, ""));
 let cache = { mtime: 0 };
 function load() {
   let mtime;
-  try { mtime = fs.statSync(DEALS).mtimeMs + fs.statSync(LISTS).mtimeMs; } catch { return null; }
+  try { mtime = fs.statSync(DEALS).mtimeMs + fs.statSync(LISTS).mtimeMs + (fs.existsSync(BEST) ? fs.statSync(BEST).mtimeMs : 0); } catch { return null; }
   if (cache.mtime === mtime) return cache;
   const today = new Date().toISOString().slice(0, 10);
   const all = JSON.parse(fs.readFileSync(DEALS, "utf8"));
@@ -75,7 +79,7 @@ function load() {
   const isCovered = (page, d) => [venue(d.name), host(d.sourceUrl), host(d.site)].some((k) => k && covered.get(page)?.has(k));
   for (const d of live) {
     if (!d.show) continue;
-    for (const [k, { pos, cells }] of Object.entries(d.show)) { rows.get(k)?.push({ pos, cells, until: d.endDate }); cover(k.split("#")[0], d); }
+    for (const [k, { pos, cells }] of Object.entries(d.show)) { rows.get(k)?.push({ pos, cells, until: d.endDate, days: d.days }); cover(k.split("#")[0], d); }
   }
   for (const d of live) {
     // A deal no table shows yet. Paid-card deals belong on the discount cards page only, and an
@@ -90,7 +94,8 @@ function load() {
   }
   for (const r of rows.values()) r.sort((a, b) => a.pos - b.pos || (a.deal?.name ?? "").localeCompare(b.deal?.name ?? ""));
   for (const r of more.values()) r.sort((a, b) => a.name.localeCompare(b.name));
-  cache = { mtime, lists, rows, more };
+  const best = fs.existsSync(BEST) ? JSON.parse(fs.readFileSync(BEST, "utf8")) : { anyDay: [], sections: [] };
+  cache = { mtime, lists, rows, more, live, best };
   return cache;
 }
 
@@ -158,20 +163,69 @@ function more(data, types, heading) {
 
 const html = (value) => ({ type: "html", value });
 
+// A hand-picked deal from best.json, if it is still live: matched by name, then type, then a
+// word of its offer. An ended or recheck-flagged deal is not in data.live, so the next pick shows.
+const findPick = (data, p) => data.live.find((d) => d.name === p.name && (!p.type || d.type === p.type)
+  && (!p.offer || `${d.offer} ${d.price ?? ""} ${d.conditions ?? ""}`.includes(p.offer)));
+const pickName = (d, p) => {
+  const name = p.label ?? d.name.replace(/\s*\(.*\)\s*$/, "");
+  return d.sourceUrl ?? d.site ? `[${name}](${d.sourceUrl ?? d.site})` : name;
+};
+const escHtml = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+
+// "Mon–Wed", "Monday to Friday": true when the range takes in this day. A dated range
+// ("Mon 7 – Thu 10 Dec") is a one-off and stays in its table only.
+const ABBR = DAYS.map((d) => d.slice(0, 3));
+function runsOn(days, day) {
+  const m = (days ?? "").match(/^(mon|tue|wed|thu|fri|sat|sun)[a-z]*\s*(?:–|-|to)\s*(mon|tue|wed|thu|fri|sat|sun)[a-z]*$/i);
+  if (!m) return false;
+  const [a, b, i] = [ABBR.indexOf(m[1].toLowerCase()), ABBR.indexOf(m[2].toLowerCase()), DAYS.indexOf(day)];
+  return a <= b ? i >= a && i <= b : i >= a || i <= b;
+}
+
+const TODAY_MAX = 10; // rows a day shows before the any-day picks stop; at least three of those always show
+
 function today(data) {
   // The date line is filled in the reader's browser, so "today" is always their today, never the build's.
   const out = [html(`<div class="deals-today" data-deals-today><p class="deals-today__fallback"><a href="/articles/${HUB}/#deals-by-day-of-the-week">Deals for every day of the week</a></p><p class="deals-today__when" data-deals-today-when hidden>📅 Deals running on <strong data-deals-today-date></strong> (London time). <a href="#deals-by-day-of-the-week">See another day →</a></p>`)];
+  const dayHeader = data.lists[`${HUB}#monday`]?.header ?? ["Restaurant", "Deal", "Condition and where"];
+  const several = data.rows.get(`${HUB}#deals-that-run-on-several-weekdays`) ?? [];
+  const anyDay = (data.best.anyDay ?? []).map((p) => [p, findPick(data, p)]).filter(([, d]) => d);
+  const withUntil = (cells, until) => { const c = [...cells]; if (until) c[c.length - 1] += ` {until=${until}}`; return c; };
   for (const day of DAYS) {
-    const rows = list(data, `${HUB}#${day}`);
-    if (!rows.length) continue;
-    out.push(html(`<div class="deals-today__day" data-day="${day}" hidden>`), ...rows, html(`</div>`));
+    const Day = day[0].toUpperCase() + day.slice(1);
+    // That day's own deals, then the deals that run across a few weekdays including it.
+    const own = (data.rows.get(`${HUB}#${day}`) ?? []).map((r) => withUntil(r.cells ?? cellsFor(r.deal, dayHeader), r.until));
+    const span = several.filter((r) => runsOn(r.days ?? r.deal?.days, day)).map((r) => {
+      const c = r.cells ?? cellsFor(r.deal, ["Restaurant", "Deal", "When", "Condition and where"]);
+      return withUntil([c[0], c[1], c.slice(2).filter((x) => x && x !== "—").join(". ")], r.until);
+    });
+    const dated = [...own, ...span];
+    const extra = anyDay.slice(0, Math.max(3, TODAY_MAX - dated.length)).map(([p, d]) => withUntil([pickName(d, p), p.text, p.when], d.endDate));
+    out.push(html(`<div class="deals-today__day" data-day="${day}" hidden>`));
+    if (dated.length) out.push(html(`<p class="deals-today__label">On ${Day}s</p>`), ...table(dayHeader, dated));
+    if (extra.length) out.push(html(`<p class="deals-today__label">Any day, including ${Day}</p>`), ...table(["Restaurant", "Deal", "When"], extra));
+    out.push(html(`</div>`));
   }
   out.push(html(`</div>`));
   out.push(html(`<script>(()=>{const now=new Date();const d=new Intl.DateTimeFormat("en-GB",{weekday:"long",timeZone:"Europe/London"}).format(now).toLowerCase();const full=new Intl.DateTimeFormat("en-GB",{weekday:"long",day:"numeric",month:"long",timeZone:"Europe/London"}).format(now).replace(",","");const box=document.querySelector("[data-deals-today]");const day=box&&box.querySelector('[data-day="'+d+'"]');if(!day)return;day.hidden=false;box.querySelector("[data-deals-today-date]").textContent=full;box.querySelector("[data-deals-today-when]").hidden=false;box.querySelector(".deals-today__fallback").hidden=true;})();</script>`));
   return out;
 }
 
-const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals today\}$/;
+// One card per section of best.json: its three best live deals and a link to the full page.
+// Up to five go into the HTML; CSS shows the first three, so when a dated one is removed in the
+// reader's browser (data-until, see remark-until) the next one moves up.
+function best(data) {
+  const cards = (data.best.sections ?? []).map((s) => {
+    const items = s.picks.map((p) => [p, findPick(data, p)]).filter(([, d]) => d).slice(0, 5);
+    if (!items.length) return "";
+    const lis = items.map(([p, d]) => `<li${d.endDate ? ` data-until="${d.endDate}"` : ""}><strong>${escHtml(p.label ?? d.name.replace(/\s*\(.*\)\s*$/, ""))}</strong><span class="deal-card__offer">${escHtml(p.text)}</span><span class="deal-card__when">${escHtml(p.when)}</span></li>`).join("");
+    return `<section class="deal-card"><h3 class="deal-card__title"><span class="deal-card__icon" aria-hidden="true">${s.emoji}</span><a href="${escHtml(s.href)}">${escHtml(s.title)}</a></h3><ul class="deal-card__list">${lis}</ul><a class="deal-card__more" href="${escHtml(s.href)}">${escHtml(s.more)} →</a></section>`;
+  }).join("");
+  return cards ? [html(`<div class="deal-grid">${cards}</div>`)] : [];
+}
+
+const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals (today|best)\}$/;
 const textOf = (node) => (node.value ?? "") + (node.children ?? []).map(textOf).join("");
 
 export default function remarkDealTables() {
@@ -183,7 +237,7 @@ export default function remarkDealTables() {
       const m = textOf(p).trim().match(MARKER);
       if (!m) continue;
       const data = load();
-      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : today(data);
+      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : m[4] === "best" ? best(data) : today(data);
       kids.splice(i, 1, ...nodes);
     }
   };

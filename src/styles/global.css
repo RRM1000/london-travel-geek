@@ -431,6 +431,13 @@
   .deals-today__when strong {
     font-size: 1.1em;
   }
+
+  .deals-today__label {
+    margin-block: 1.25rem 0.25rem;
+    font-weight: 700;
+  }
+
+
 }
 
 @layer utilities {
@@ -472,4 +479,88 @@
       animation-iteration-count: 1 !important;
     }
   }
+}
+
+/* The deal hub's "best deals by type" cards. Unlayered and prefixed with .article__body, because
+   ArticleLayout's scoped prose rules for h3, ul and li are unlayered and would otherwise win. */
+.deal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  gap: 1rem;
+  margin-block: 1rem 1.5rem;
+}
+
+.deal-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--line);
+  border-top: 4px solid var(--highlight);
+  border-radius: 0.75rem;
+  background: var(--surface);
+}
+
+.article__body .deal-card .deal-card__title {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+
+.deal-card__title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.deal-card__title a:hover {
+  text-decoration: underline;
+}
+
+.deal-card__icon {
+  font-size: 1.4rem;
+}
+
+.article__body .deal-card .deal-card__list {
+  flex: 1;
+  margin: 0 0 0.75rem;
+  padding: 0;
+  list-style: none;
+}
+
+.article__body .deal-card__list li {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding-block: 0.5rem;
+  border-bottom: 1px solid var(--line);
+  line-height: 1.35;
+}
+
+.article__body .deal-card__list li::before {
+  content: none;
+}
+
+/* Three show; the rest stand by for a dated deal that drops out. */
+.article__body .deal-card__list li:nth-child(n + 4) {
+  display: none;
+}
+
+.deal-card__list li:nth-child(3),
+.deal-card__list li:last-child {
+  border-bottom: 0;
+}
+
+.deal-card__offer {
+  font-size: 0.95rem;
+}
+
+.deal-card__when {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.deal-card__more {
+  font-weight: 700;
+  font-size: 0.95rem;
 }

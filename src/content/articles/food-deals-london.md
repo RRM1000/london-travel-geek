@@ -51,17 +51,9 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 
 ---
 
-## Deals by type
+## Best deals by type
 
-- 🍻 **[2-for-1 deals](/articles/two-for-one-deals-london/)**: Made in Italy's free second pizza on Fridays, Shiro's 2-for-1 maki on Mondays, and 2-for-1 cocktails every day at Turtle Bay, TGI Fridays and Banana Tree
-- 🎓 **[Student discounts](/articles/student-discounts-london/)**: 30% off food at Shoryu Ramen and Frankie & Benny's, 20% at Côte, Franco Manca and Rosa's Thai
-- 🚑 **[Blue Light Card and memberships](/articles/restaurant-discount-cards-london/#blue-light-card-and-other-memberships)**: 20% off at Côte, Yo! Sushi and Frankie & Benny's, and 20% off food at ASK Italian and Zizzi for AA members
-- 🎂 **[Birthday freebies](/articles/birthday-freebies-london/)**: a free birthday meal at JRC Global Buffet, a £20 voucher from Las Iguanas and a free dessert at TGI Fridays
-- 🍽️ **[Set lunch and pre-theatre menus](/articles/restaurant-deals-london/)**: fixed-price menus with no card or code, mostly on weekdays
-- 🍹 **[Happy hours](/articles/happy-hour-london/)**: cocktails, beer, wine and oysters, with each bar's hours
-- 👨‍👩‍👧 **[Kids eat free](/articles/kids-eat-free-london/)**: age limits and the adult-spend condition for each offer
-- 🥂 **[Bottomless brunch](/articles/bottomless-brunch-london/)**: every package priced by the minute
-- 🍣 **[All you can eat](/articles/all-you-can-eat-london/)**: sushi, Korean barbecue, hot pot, rodízio and buffets, with each time limit
+{deals best}
 
 ---
 

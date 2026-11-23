@@ -1,0 +1,373 @@
+{
+  "_about": "Hand-picked deals for the food deals hub. {deals best} prints one card per section with the first three picks that are still live in deals.json (matched by name, and by offer when 'offer' is given); list four or five so an ended deal is replaced. {deals today} adds the 'anyDay' picks to the day's own deals. 'text' and 'when' are what the card prints; keep them in step with the deal.",
+  "anyDay": [
+    {
+      "name": "Itsu",
+      "text": "All sushi and salads half price",
+      "when": "Last half hour before closing",
+      "type": "end-of-day"
+    },
+    {
+      "name": "Turtle Bay",
+      "type": "two-for-one",
+      "text": "2-for-1 cocktails",
+      "when": "All day"
+    },
+    {
+      "name": "Manzi's",
+      "type": "happy-hour",
+      "text": "Oysters £2 each or six for £9",
+      "when": "3–7pm, all day Sunday"
+    },
+    {
+      "name": "Rick Stein",
+      "type": "happy-hour",
+      "text": "Oysters £2 each",
+      "when": "4–6pm"
+    },
+    {
+      "name": "Kricket",
+      "type": "happy-hour",
+      "text": "A snack and a drink for £10",
+      "when": "4–6pm"
+    },
+    {
+      "name": "Megan's",
+      "type": "happy-hour",
+      "text": "Every cocktail £8",
+      "when": "5–7pm",
+      "offer": "£8"
+    },
+    {
+      "name": "TGI Fridays",
+      "type": "two-for-one",
+      "text": "2-for-1 cocktails and mocktails",
+      "when": "All day"
+    }
+  ],
+  "sections": [
+    {
+      "emoji": "🍻",
+      "title": "2-for-1 deals",
+      "href": "/articles/two-for-one-deals-london/",
+      "more": "All 2-for-1 deals",
+      "picks": [
+        {
+          "name": "Zizzi",
+          "type": "other",
+          "text": "A second main for £1, with the free app",
+          "when": "Mon–Fri, and Sunday from 5pm"
+        },
+        {
+          "name": "Made in Italy",
+          "type": "two-for-one",
+          "text": "Buy a pizza by the metre, get the same one free",
+          "when": "Fridays, booked online"
+        },
+        {
+          "name": "The Waterway",
+          "type": "two-for-one",
+          "text": "Two à la carte mains for the price of one",
+          "when": "Sunday evenings, not December"
+        },
+        {
+          "name": "Shiro (Maki Mondays)",
+          "label": "Shiro",
+          "text": "2-for-1 on all maki",
+          "when": "Mondays"
+        },
+        {
+          "name": "Turtle Bay",
+          "type": "two-for-one",
+          "text": "2-for-1 cocktails",
+          "when": "Every day, all day"
+        }
+      ]
+    },
+    {
+      "emoji": "🎓",
+      "title": "Student discounts",
+      "href": "/articles/student-discounts-london/",
+      "more": "Every student discount",
+      "picks": [
+        {
+          "name": "Las Iguanas",
+          "type": "discount-group",
+          "offer": "40%",
+          "text": "40% off food and drink",
+          "when": "Sun–Thu"
+        },
+        {
+          "name": "Shoryu Ramen",
+          "type": "discount-group",
+          "text": "30% off food Mon–Wed, 15% the rest of the week",
+          "when": "Student Beans ID"
+        },
+        {
+          "name": "Frankie & Benny's",
+          "type": "discount-group",
+          "offer": "30%",
+          "text": "30% off food",
+          "when": "Any day, with a code"
+        },
+        {
+          "name": "Yo! Sushi",
+          "type": "discount-group",
+          "offer": "25%",
+          "text": "25% off",
+          "when": "Student ID"
+        },
+        {
+          "name": "Franco Manca",
+          "type": "percent-off",
+          "text": "20% off food and drink",
+          "when": "Sun–Thu"
+        }
+      ]
+    },
+    {
+      "emoji": "🚑",
+      "title": "Blue Light Card",
+      "href": "/articles/restaurant-discount-cards-london/#blue-light-card-and-other-memberships",
+      "more": "Blue Light and other cards",
+      "picks": [
+        {
+          "name": "The Real Greek",
+          "type": "discount-group",
+          "offer": "NHS",
+          "text": "25% off the main menu",
+          "when": "NHS, police and fire ID"
+        },
+        {
+          "name": "Côte",
+          "type": "discount-group",
+          "offer": "Blue Light",
+          "text": "20% off the bill",
+          "when": "All day"
+        },
+        {
+          "name": "Frankie & Benny's",
+          "type": "discount-group",
+          "offer": "bill",
+          "text": "20% off the bill",
+          "when": "Every day"
+        },
+        {
+          "name": "Yo! Sushi",
+          "type": "discount-group",
+          "offer": "20%",
+          "text": "20% off",
+          "when": "Every day"
+        }
+      ]
+    },
+    {
+      "emoji": "🎂",
+      "title": "Birthday freebies",
+      "href": "/articles/birthday-freebies-london/",
+      "more": "Every birthday freebie",
+      "picks": [
+        {
+          "name": "JRC Global Buffet (free birthday meal)",
+          "label": "JRC Global Buffet",
+          "text": "A free birthday meal",
+          "when": "Book 24 hours ahead, Wembley"
+        },
+        {
+          "name": "Las Iguanas",
+          "type": "app-reward",
+          "text": "A £20 birthday voucher",
+          "when": "Through the app",
+          "offer": "birthday"
+        },
+        {
+          "name": "The Dickens Inn",
+          "type": "app-reward",
+          "text": "A free bottle of prosecco",
+          "when": "Members, Wapping",
+          "offer": "prosecco"
+        },
+        {
+          "name": "TGI Fridays",
+          "type": "app-reward",
+          "text": "A free dessert",
+          "when": "Stripes Rewards",
+          "offer": "birthday"
+        }
+      ]
+    },
+    {
+      "emoji": "🍽️",
+      "title": "Set lunch and pre-theatre",
+      "href": "/articles/restaurant-deals-london/",
+      "more": "Every set menu",
+      "picks": [
+        {
+          "name": "Bocca di Lupo",
+          "text": "Starter and main £18, £26 with dessert",
+          "when": "Mon–Fri until 6.30pm"
+        },
+        {
+          "name": "Chez Bruce",
+          "text": "Two courses £40.50, against £98.50 for dinner",
+          "when": "Tue–Fri lunch",
+          "type": "set-menu"
+        },
+        {
+          "name": "The Delaunay",
+          "text": "Three courses and a drink, £29.50",
+          "when": "Mon–Fri 4.30–6.30pm",
+          "offer": "Full Haus"
+        },
+        {
+          "name": "Locatelli at The National Gallery",
+          "label": "Locatelli at the National Gallery",
+          "text": "Two courses £25, three £31",
+          "when": "Afternoons"
+        },
+        {
+          "name": "Manzi's",
+          "type": "pre-theatre",
+          "text": "Three courses and a drink, £29.50",
+          "when": "Daily"
+        }
+      ]
+    },
+    {
+      "emoji": "🍹",
+      "title": "Happy hours",
+      "href": "/articles/happy-hour-london/",
+      "more": "Every happy hour",
+      "picks": [
+        {
+          "name": "Manzi's",
+          "type": "happy-hour",
+          "text": "Oysters £2 each or six for £9",
+          "when": "Daily 3–7pm"
+        },
+        {
+          "name": "Belushi's",
+          "type": "happy-hour",
+          "text": "Almost every drink £5",
+          "when": "Mon–Fri 4–7pm"
+        },
+        {
+          "name": "The Lexington",
+          "type": "happy-hour",
+          "text": "Pizza and a pint £12",
+          "when": "Mon–Fri 4–7pm"
+        },
+        {
+          "name": "Kricket",
+          "type": "happy-hour",
+          "text": "A snack and a drink for £10",
+          "when": "Daily 4–6pm"
+        },
+        {
+          "name": "Ping Pong",
+          "type": "happy-hour",
+          "text": "Half price on dim sum and drinks",
+          "when": "Mon–Fri 3–6pm"
+        }
+      ]
+    },
+    {
+      "emoji": "👨‍👩‍👧",
+      "title": "Kids eat free",
+      "href": "/articles/kids-eat-free-london/",
+      "more": "Every kids-eat-free offer",
+      "picks": [
+        {
+          "name": "Las Iguanas",
+          "type": "kids-eat-free",
+          "text": "Main, two sides and dessert free for under-12s",
+          "when": "Every day, one adult main each"
+        },
+        {
+          "name": "Preto",
+          "type": "kids-eat-free",
+          "text": "Rodízio free for under-10s",
+          "when": "Weekdays from 4pm, all weekend"
+        },
+        {
+          "name": "Mamuska!",
+          "type": "kids-eat-free",
+          "text": "A free kids' meal for under-12s",
+          "when": "Daily, Waterloo"
+        },
+        {
+          "name": "The Real Greek",
+          "type": "kids-eat-free",
+          "text": "Kids' meal, drink and ice cream free",
+          "when": "Sundays"
+        }
+      ]
+    },
+    {
+      "emoji": "🥂",
+      "title": "Bottomless brunch",
+      "href": "/articles/bottomless-brunch-london/",
+      "more": "Every bottomless brunch",
+      "picks": [
+        {
+          "name": "Las Iguanas",
+          "type": "bottomless",
+          "offer": "24.95",
+          "text": "Two hours with a main, £24.95",
+          "when": "Student ID, Mon–Thu"
+        },
+        {
+          "name": "Slug & Lettuce",
+          "type": "bottomless",
+          "text": "Two hours with a brunch dish, £33.95",
+          "when": "Seven days"
+        },
+        {
+          "name": "Prezzo",
+          "type": "bottomless",
+          "text": "90 minutes of beer, wine and prosecco from £21.95",
+          "when": "Added to an à la carte meal"
+        },
+        {
+          "name": "Cosy Club",
+          "type": "bottomless",
+          "text": "90 minutes of drinks, £25",
+          "when": "Added to any brunch or lunch dish"
+        }
+      ]
+    },
+    {
+      "emoji": "🍣",
+      "title": "All you can eat",
+      "href": "/articles/all-you-can-eat-london/",
+      "more": "Every all-you-can-eat",
+      "picks": [
+        {
+          "name": "Chutneys",
+          "type": "all-you-can-eat",
+          "text": "Vegetarian Indian buffet, £14.95",
+          "when": "Euston"
+        },
+        {
+          "name": "Preto",
+          "type": "all-you-can-eat",
+          "text": "Rodízio £18.95 at weekday lunch",
+          "when": "Mon–Fri lunch, Angel"
+        },
+        {
+          "name": "Banana Tree",
+          "type": "bottomless",
+          "text": "Southeast Asian small plates, £17 booked",
+          "when": "90 minutes",
+          "offer": "Bottomless Bowls"
+        },
+        {
+          "name": "Ping Pong",
+          "type": "all-you-can-eat",
+          "text": "Unlimited dim sum, £29.95",
+          "when": "Sundays and bank holiday Mondays"
+        }
+      ]
+    }
+  ]
+}
