@@ -418,6 +418,19 @@
   .venue-deal__more {
     white-space: nowrap;
   }
+
+  /* The food deals hub's Today's deals: the reader's own date, so nobody wonders if it is stale. */
+  .deals-today__when {
+    margin-block: 0 1rem;
+    padding: 0.75rem 1rem;
+    border-left: 4px solid var(--highlight);
+    border-radius: 0.5rem;
+    background: color-mix(in srgb, var(--highlight) 10%, var(--surface));
+  }
+
+  .deals-today__when strong {
+    font-size: 1.1em;
+  }
 }
 
 @layer utilities {

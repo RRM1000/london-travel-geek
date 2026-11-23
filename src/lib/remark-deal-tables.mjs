@@ -159,14 +159,15 @@ function more(data, types, heading) {
 const html = (value) => ({ type: "html", value });
 
 function today(data) {
-  const out = [html(`<div class="deals-today" data-deals-today><p class="deals-today__fallback"><a href="/articles/${HUB}/#deals-by-day-of-the-week">Deals for every day of the week</a></p>`)];
+  // The date line is filled in the reader's browser, so "today" is always their today, never the build's.
+  const out = [html(`<div class="deals-today" data-deals-today><p class="deals-today__fallback"><a href="/articles/${HUB}/#deals-by-day-of-the-week">Deals for every day of the week</a></p><p class="deals-today__when" data-deals-today-when hidden>📅 Deals running on <strong data-deals-today-date></strong> (London time). <a href="#deals-by-day-of-the-week">See another day →</a></p>`)];
   for (const day of DAYS) {
     const rows = list(data, `${HUB}#${day}`);
     if (!rows.length) continue;
     out.push(html(`<div class="deals-today__day" data-day="${day}" hidden>`), ...rows, html(`</div>`));
   }
   out.push(html(`</div>`));
-  out.push(html(`<script>(()=>{const d=new Intl.DateTimeFormat("en-GB",{weekday:"long",timeZone:"Europe/London"}).format(new Date()).toLowerCase();const box=document.querySelector("[data-deals-today]");const day=box&&box.querySelector('[data-day="'+d+'"]');if(!day)return;day.hidden=false;const h=document.querySelector("[data-deals-today-day]");if(h)h.textContent=d.charAt(0).toUpperCase()+d.slice(1);box.querySelector(".deals-today__fallback").hidden=true;})();</script>`));
+  out.push(html(`<script>(()=>{const now=new Date();const d=new Intl.DateTimeFormat("en-GB",{weekday:"long",timeZone:"Europe/London"}).format(now).toLowerCase();const full=new Intl.DateTimeFormat("en-GB",{weekday:"long",day:"numeric",month:"long",timeZone:"Europe/London"}).format(now).replace(",","");const box=document.querySelector("[data-deals-today]");const day=box&&box.querySelector('[data-day="'+d+'"]');if(!day)return;day.hidden=false;box.querySelector("[data-deals-today-date]").textContent=full;box.querySelector("[data-deals-today-when]").hidden=false;box.querySelector(".deals-today__fallback").hidden=true;})();</script>`));
   return out;
 }
 
