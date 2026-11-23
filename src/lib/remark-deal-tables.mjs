@@ -460,6 +460,8 @@ export function remarkTopicDeals() {
     const more = spec.dealMore ?? { url: `/articles/${HUB}/`, label: "Every food deal in London, by day and by type" };
     kids.splice(at, 0,
       { type: "heading", depth: 2, children: [{ type: "text", value: `More ${spec.dealLabel} deals in London` }] },
+      // Rob, 23 November 2026: say plainly that these are not part of the ranking.
+      { type: "paragraph", children: [{ type: "text", value: `None of these places is in the ranking above. Each runs ${/^[aeiou]/i.test(spec.dealLabel) ? "an" : "a"} ${spec.dealLabel} deal, so they are here for the deal, not because the sources name them.` }] },
       ...table(header, deals.map((d) => {
         const c = cellsFor(d, header);
         c[1] = c[1].charAt(0).toUpperCase() + c[1].slice(1);
