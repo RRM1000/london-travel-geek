@@ -48,7 +48,7 @@ Valentine's Day 2027 falls on a **Sunday**, the same afternoon England play Fran
 
 *£££ · 33 King Street, WC2E 8JD · two minutes from Covent Garden*
 
-A **conservatory under blossom**, with a fire and a retractable roof. The cooking is Provençal and northern Italian: order the **rack of lamb** or the hand-made pasta, and lean on a French wine list of several hundred bins. The restaurant has several rooms and only one is the conservatory, so **ask for it by name when you book** and say it is an occasion.
+A **conservatory under blossom**, with a fire and a retractable roof. The cooking is Provençal and northern Italian: order the hand-made pasta, and lean on a French wine list of several hundred bins. The restaurant has several rooms and only one is the conservatory, so **ask for it by name when you book** and say it is an occasion.
 
 ### Duck & Waffle, City of London
 
