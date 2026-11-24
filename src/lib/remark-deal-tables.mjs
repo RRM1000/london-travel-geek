@@ -500,7 +500,7 @@ export function remarkTopicDeals() {
   };
 }
 
-const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals (today|best|ending)\}$/;
+const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals (today|best|ending|week)\}$/;
 const textOf = (node) => (node.value ?? "") + (node.children ?? []).map(textOf).join("");
 
 export default function remarkDealTables() {
@@ -512,7 +512,7 @@ export default function remarkDealTables() {
       const m = textOf(p).trim().match(MARKER);
       if (!m) continue;
       const data = load();
-      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : m[4] === "best" ? best(data) : m[4] === "ending" ? ending(data) : today(data);
+      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : m[4] === "best" ? best(data) : m[4] === "ending" ? ending(data) : m[4] === "week" ? [html(weekDealsHtml())] : today(data);
       kids.splice(i, 1, ...nodes);
     }
   };
@@ -565,4 +565,57 @@ export function remarkOtherDeals() {
       })),
     );
   };
+}
+
+// DEALS THIS WEEK, for the London deals hub ({deals week}) and the home page strip. Dated
+// offers that end in the next three weeks (food and non-food, soonest first, one per venue,
+// only offers with a figure in them), topped up from best.json's any-day picks. Each item links
+// to the page whose table carries the deal. The build date decides the list; remark-until
+// hides an item in the reader's browser once its end date has passed.
+const WEEK_DAYS = 21;
+export function weekDeals(max = 6) {
+  const data = load();
+  const other = otherData();
+  if (!data) return [];
+  const from = new Date().toISOString().slice(0, 10);
+  const to = new Date(Date.now() + WEEK_DAYS * 864e5).toISOString().slice(0, 10);
+  const foodHref = (d) => {
+    const key = Object.keys(d.show ?? {})[0] ?? (DEFAULT[d.type]?.(d)) ?? null;
+    const page = key ? key.split("#")[0] : MORE_PAGE[d.type] ?? HUB;
+    return `/articles/${page}/`;
+  };
+  const otherHref = (d) => {
+    const slug = Object.entries(other?.pages ?? {}).find(([, s]) => s.categories.includes(d.category))?.[0];
+    return slug ? `/articles/${slug}/` : "/articles/london-deals/";
+  };
+  const item = (d, href, when) => ({ name: d.name.replace(/\s*\(.*\)\s*$/, ""), text: offer(d), when, href, until: d.endDate ?? null });
+  const ends = (iso) => `Until ${new Date(`${iso}T12:00:00Z`).toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: "Europe/London" }).replace(",", "")}`;
+  const dated = [
+    ...data.live.filter((d) => !d.card && d.origin !== "page").map((d) => [d, foodHref(d)]),
+    ...(other?.deals ?? []).map((d) => [d, otherHref(d)]),
+  ]
+    .filter(([d]) => d.endDate && d.endDate >= from && d.endDate <= to && /\d/.test(`${d.offer} ${d.price ?? ""}`))
+    .sort(([a], [b]) => a.endDate.localeCompare(b.endDate) || a.name.localeCompare(b.name));
+  const seen = new Set();
+  // One per brand: "The Ivy Chelsea Garden" and "The Ivy Collection" are one chain here.
+  const brand = (n) => n.toLowerCase().replace(/^the\s+/, "").split(/[\s'’]+/)[0];
+  const out = [];
+  for (const [d, href] of dated) {
+    if (out.length >= Math.ceil(max * 2 / 3) || seen.has(brand(d.name))) continue;
+    seen.add(brand(d.name)); out.push(item(d, href, ends(d.endDate)));
+  }
+  for (const p of data.best.anyDay ?? []) {
+    if (out.length >= max) break;
+    const d = findPick(data, p);
+    if (!d || seen.has(brand(d.name))) continue;
+    seen.add(brand(d.name));
+    out.push({ ...item(d, foodHref(d), p.when), text: p.text });
+  }
+  return out;
+}
+export function weekDealsHtml(max = 6) {
+  const items = weekDeals(max);
+  if (!items.length) return "";
+  const lis = items.map((x) => `<li class="week-deal"${x.until ? ` data-until="${x.until}"` : ""}><a href="${escHtml(x.href)}"><strong>${escHtml(x.name)}</strong><span class="deal-card__offer">${escHtml(x.text)}</span><span class="deal-card__when">${escHtml(x.when)}</span></a></li>`).join("");
+  return `<ul class="week-deals">${lis}</ul>`;
 }

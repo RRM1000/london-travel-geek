@@ -129,6 +129,7 @@ Every student and under-25 scheme for theatre, cinema, gyms and travel is in our
 
 ## Continue planning your London trip
 
+- 🏷️ **[All London deals](/articles/london-deals/)**: food, theatre, days out, gyms and spas, with the offers ending soonest at the top
 - 📅 **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — the Parade, the darts, the art fair and what closes
 - 🍽️ **[Food Deals in London](/articles/food-deals-london/)** — every restaurant offer by day of the week
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — which train tickets count, and the blackout dates

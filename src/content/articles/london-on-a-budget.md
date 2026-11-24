@@ -176,6 +176,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 ## Continue planning your London trip
 
 
+- 🏷️ **[All London deals](/articles/london-deals/)**: food, theatre, days out, gyms and spas, with the offers ending soonest at the top
 - 🎓 **[London Student Discounts](/articles/london-student-discounts/)** — £5 theatre seats, £4 cinema and 30% off Travelcards for students and under-25s
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — top-flight football needs a paid membership, but London’s lower-league clubs sell to anyone from £20
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — and [tax-free shopping](/articles/tax-free-shopping-london/), including why you cannot claim the VAT back

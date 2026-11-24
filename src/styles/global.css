@@ -560,6 +560,58 @@
   font-size: 0.85rem;
 }
 
+/* "Deals this week": the London deals hub ({deals week}) and the home page strip. Each tile is
+   one link. Prefixed with .article__body as well, so the article's prose list rules lose. */
+.week-deals,
+.article__body .week-deals {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.75rem;
+  margin: 1rem 0 1.5rem;
+  padding: 0;
+  list-style: none;
+}
+
+.week-deals .week-deal,
+.article__body .week-deals .week-deal {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.article__body .week-deals .week-deal::before {
+  content: none;
+}
+
+.week-deal a,
+.article__body .week-deals .week-deal a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  height: 100%;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--highlight);
+  border-radius: 0.6rem;
+  background: var(--surface);
+  color: inherit;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.week-deal a span,
+.week-deal a strong {
+  color: var(--ink, inherit);
+}
+
+.week-deal .deal-card__when {
+  color: var(--muted);
+}
+
+.week-deal a:hover strong {
+  text-decoration: underline;
+}
+
 .deal-card__more {
   font-weight: 700;
   font-size: 0.95rem;

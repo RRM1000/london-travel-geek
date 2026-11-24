@@ -294,6 +294,7 @@ Our [UK SIM and eSIM guide](/articles/travel-sim-esim-guide/) has every network'
 
 ## Continue planning your London trip
 
+- 🏷️ **[All London deals](/articles/london-deals/)**: food, theatre, days out, gyms and spas, with the offers ending soonest at the top
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)**: every street, market and store, by what you want to buy
 - 🏬 **[Oxford Street](/articles/oxford-street-guide/)**: the traffic-free stretch, the department stores and the streets off it
 - 💷 **[Tax-free shopping in London](/articles/tax-free-shopping-london/)**: why there is no VAT refund, and what still works

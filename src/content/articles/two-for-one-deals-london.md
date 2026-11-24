@@ -54,6 +54,7 @@ Single-day offers that aren't 2-for-1, such as Mamma Dough's half-price pizza on
 
 ## Continue planning your London trip
 
+- 🏷️ **[All London deals](/articles/london-deals/)**: food, theatre, days out, gyms and spas, with the offers ending soonest at the top
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)**: today's deals, offers by day, money off, BYO and app rewards
 - 🍹 **[Happy Hour in London](/articles/happy-hour-london/)**: cocktails, beer and wine, with the hours for each bar
 - 🎓 **[Student Restaurant Discounts](/articles/student-discounts-london/)**: what UNiDAYS, Student Beans and a student card get you

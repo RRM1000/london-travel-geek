@@ -87,6 +87,10 @@
   "recentlyDone": [
     {
       "date": "2026-11-24",
+      "what": "Deals hub (not live yet): new /articles/london-deals/ page covering food, theatre, days out, gyms, spas, students and sales, with a 'Deals ending soon' box that fills itself from the deals data; new top-level Deals menu; home page tile renamed Deals and a six-deal strip added; ten deals pages link to the hub."
+    },
+    {
+      "date": "2026-11-24",
       "what": "Deals: 27 restaurant deals and 30 gym, spa and activity offers from sites that would not load before; new deals table on competitive socialising; deals and 6 moved websites written to the database; weekly and monthly checks now sync the database, not the Sheet (monthly crawl starts 2 Dec)."
     },
     {

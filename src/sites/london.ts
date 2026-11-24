@@ -233,6 +233,33 @@ export const londonSite: SiteConfig = {
       },
     },
     {
+      label: "Deals",
+      // Its own section since 24 Nov 2026 (Rob): deals are what readers come back for, and the
+      // food deals rail inside Eat & Drink only reached food. The hub leads and closes the list.
+      href: "/articles/london-deals/",
+      description: "Food, theatre, days out, gyms and spas for less.",
+      imageKey: "deals",
+      children: [
+        { label: "Deals ending soon", href: "/articles/london-deals/#deals-ending-soon" },
+        { label: "Food deals", href: "/articles/food-deals-london/" },
+        { label: "Deals this month", href: "/articles/london-deals-this-month/" },
+        { label: "2-for-1 with a train ticket", href: "/articles/national-rail-2for1-london-attractions/" },
+        { label: "Cheaper theatre tickets", href: "/articles/london-theatre-guide/" },
+        { label: "Student discounts", href: "/articles/london-student-discounts/" },
+        { label: "Gym & spa deals", href: "/articles/london-deals/#gyms-spas-cinemas-and-games" },
+        { label: "All London deals", href: "/articles/london-deals/" },
+      ],
+      secondary: {
+        title: "More ways to save",
+        children: [
+          { label: "Cinema deals", href: "/articles/cinema-deals-london/" },
+          { label: "Happy hours", href: "/articles/happy-hour-london/" },
+          { label: "Kids eat free", href: "/articles/kids-eat-free-london/" },
+          { label: "London on a budget", href: "/articles/london-on-a-budget/" },
+        ],
+      },
+    },
+    {
       label: "Plan",
       // Was /topics/london-itineraries/, which lists four articles. The panel
       // now carries transport and pre-trip guides as well, so the section

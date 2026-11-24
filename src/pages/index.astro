@@ -27,6 +27,7 @@ import SectionHeading from "../components/SectionHeading.astro";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import { activeSite } from "../sites";
 import { categoryHref } from "../lib/taxonomy";
+import { weekDealsHtml } from "../lib/remark-deal-tables.mjs";
 
 const articles = (await getCollection("articles"))
   .filter((entry) => !entry.data.draft && entry.data.sites.includes(activeSite.id))
@@ -121,6 +122,10 @@ const heroTitle =
     ? "A Geek's Guide to London."
     : "Clear answers for smoother journeys.";
 
+// Six live offers, ending soonest first, from the deals data at build time. Each tile carries its
+// end date, so remark-until's script hides it in the browser the day it finishes.
+const weekDeals = weekDealsHtml(6);
+
 const topicTiles = [
   { label: "Eat & Drink", href: "/topics/food-and-drink/", image: eatHero },
   { label: "Areas", href: "/topics/london-areas/", image: areasHero },
@@ -128,7 +133,7 @@ const topicTiles = [
   { label: "Blue plaques map", href: "/plaques/", image: plaquesHero },
   { label: "Transport", href: "/topics/getting-around-london/", image: tubeHero },
   // SIMs stay in Start here below; deals are the page people come back to.
-  { label: "Food deals", href: "/articles/food-deals-london/", image: dealsHero },
+  { label: "Deals", href: "/articles/london-deals/", image: dealsHero },
 ];
 
 // The hero cross-fades through a few guides, each with its own photo, line and
@@ -340,6 +345,32 @@ const heroSlides = [
       </ul>
     </div>
   </section>
+
+  <!-- ================================================== deals this week -->
+  {weekDeals && (
+    <section class="section home-deals" aria-label="London deals ending soon">
+      <div class="container">
+        <SectionHeading
+          eyebrow="Deals"
+          title="London deals ending soon"
+          description="Restaurant, gym and day-out offers ending soon, and the ones that run every day."
+        />
+        <Fragment set:html={weekDeals} />
+        <p class="home-deals__more"><a href="/articles/london-deals/">All London deals<span aria-hidden="true"> →</span></a></p>
+      </div>
+      <script is:inline>
+        // A deal whose end date has passed comes down without waiting for a rebuild (London time).
+        (function () {
+          try {
+            var today = new Intl.DateTimeFormat("en-CA", { timeZone: "Europe/London" }).format(new Date());
+            document.querySelectorAll(".home-deals [data-until]").forEach(function (el) {
+              if (el.getAttribute("data-until") < today) el.remove();
+            });
+          } catch (e) {}
+        })();
+      </script>
+    </section>
+  )}
 
   <!-- ==================================================== start here -->
   <section class="section start-here">
@@ -833,6 +864,15 @@ const heroSlides = [
     .hero__slide.is-active :global(img),
     .hero__slide.was-active :global(img) { animation: none; }
     .hero__step.is-active .hero__fill { animation: none; width: 100%; }
+  }
+
+  /* ---------------------------------------------------- deals ending soon --- */
+  @media (min-width: 48rem) {
+    .home-deals :global(.week-deals) { grid-template-columns: repeat(3, 1fr); }
+  }
+  .home-deals__more {
+    margin: 0;
+    font-weight: 600;
   }
 
   /* ----------------------------------------------------- what's on links --- */

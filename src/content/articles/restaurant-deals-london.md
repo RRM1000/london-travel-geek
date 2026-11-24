@@ -197,6 +197,7 @@ For a 7.30pm curtain, book at 5.30pm. See our [London theatre guide](/articles/l
 
 **Paying less to eat out in London.** A few different strategies, and they rarely combine — pick the one that fits how you eat:
 
+- 🏷️ **[All London deals](/articles/london-deals/)**: food, theatre, days out, gyms and spas, with the offers ending soonest at the top
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)** — Tastecard and the rest, and why one costs £29.99 and its twin £79.99
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)** — 2-for-1, student and Blue Light discounts, offers by day, BYO and app rewards
 - 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)** — food and cocktails two for one
