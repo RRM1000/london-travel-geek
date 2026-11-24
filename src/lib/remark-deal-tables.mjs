@@ -365,6 +365,10 @@ export function remarkAreaDeals() {
 //                 tag (data/food-deals/chains.json) that make a restaurant this food
 //   dealStyles    words in the Restaurants v2 Style that do the same ("pizza" in "Neapolitan pizza")
 //   dealMore      optional { url, label } for the closing link; the deals hub otherwise
+//   dealDrinks    true where drinks deals belong (coffee, wine, beer, cocktail guides)
+//   dealAreas     words in a deal's area or branches that put it in (a place guide: Chinatown)
+//   dealChains    true to take any chain in data/food-deals/chains.json (the chains guide)
+//   dealPlace     what the guide lists, singular ("bar"); "restaurant" otherwise
 //
 // A deal found through the restaurant alone (no keyword in the deal) must be a food deal: happy
 // hours, bottomless drinks and BYO are left out. Membership deals (apps, birthdays, discount
@@ -397,15 +401,22 @@ function topicIndex() {
   const snap = fs.existsSync(SNAPSHOT) ? JSON.parse(fs.readFileSync(SNAPSHOT, "utf8")) : [];
   const rows = new Map(snap.map((r) => [r.Slug, r]));
   let chainTags = new Map();
-  try { chainTags = new Map(JSON.parse(fs.readFileSync(CHAINS, "utf8")).chains.filter((c) => c.cuisine).map((c) => [venue(c.name), c.cuisine])); } catch {}
-  topicSpecs = { specs, rows, chainTags };
+  let chainNames = new Set();
+  try {
+    const chains = JSON.parse(fs.readFileSync(CHAINS, "utf8")).chains;
+    chainTags = new Map(chains.filter((c) => c.cuisine).map((c) => [venue(c.name), c.cuisine]));
+    chainNames = new Set(chains.map((c) => venue(c.name)));
+  } catch {}
+  topicSpecs = { specs, rows, chainTags, chainNames };
   return topicSpecs;
 }
 const lc = (s) => (s ?? "").toLowerCase().replace(/-/g, " ").trim();
 const wordRx = (words) => words?.length ? new RegExp(`\\b(${words.map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|")})\\b`, "i") : null;
 
 export function topicDeals(data, spec, onPage = { slugs: new Set(), names: new Set() }) {
-  const { rows, chainTags } = topicIndex();
+  const { rows, chainTags, chainNames } = topicIndex();
+  // dealAreas: a place guide (Chinatown) takes deals by where they are, not what they serve.
+  const areas = wordRx(spec.dealAreas);
   const kw = wordRx(spec.dealKeywords);
   const not = wordRx(spec.dealExclude);
   const cuisines = new Set((spec.dealCuisines ?? []).map(lc));
@@ -429,7 +440,9 @@ export function topicDeals(data, spec, onPage = { slugs: new Set(), names: new S
     const drinkAt = head.search(DRINK);
     const inOffer = kwAt >= 0 && (spec.dealDrinks || drinkAt < 0 || kwAt < drinkAt);
     const tags = chainTags.get(venue(d.name)) ?? [];
-    const byVenue = !!kw?.test(d.name) || cuisines.has(lc(d.style)) || (row && (cuisines.has(lc(row.Cuisine)) || !!styles?.test(row.Style ?? ""))) || tags.some((t) => cuisines.has(lc(t)));
+    const byVenue = !!kw?.test(d.name) || cuisines.has(lc(d.style)) || (row && (cuisines.has(lc(row.Cuisine)) || !!styles?.test(row.Style ?? ""))) || tags.some((t) => cuisines.has(lc(t)))
+      || (spec.dealChains && chainNames.has(venue(d.name)))
+      || (!!areas && areas.test(`${d.area ?? ""} ${d.branches ?? ""} ${row?.Area ?? ""}`));
     if (!inOffer && !byVenue) continue;
     if (AREA_SKIP.has(d.type) && !inOffer) continue;
     // Found through the restaurant alone, the deal has to be on its food, not its bar.
@@ -460,12 +473,13 @@ export function remarkTopicDeals() {
     let at = backHalf.find((i) => (tail === -1 || i < tail) && TOPIC_END.test(textOf(kids[i]).trim())) ?? -1;
     if (at === -1) at = tail;
     if (at === -1) at = kids.length;
-    const header = ["Restaurant", "When", "Deal"];
+    const place = spec.dealPlace ?? "restaurant";
+    const header = [place[0].toUpperCase() + place.slice(1), "When", "Deal"];
     const more = spec.dealMore ?? { url: `/articles/${HUB}/`, label: "Every food deal in London, by day and by type" };
     kids.splice(at, 0,
       { type: "heading", depth: 2, children: [{ type: "text", value: `More ${spec.dealLabel} deals in London` }] },
       // Rob, 23 November 2026: say plainly that these are not part of the ranking.
-      { type: "paragraph", children: [{ type: "text", value: `Some restaurants above show their own deal under their entry. These places aren't in the ranking, but they have ${/^[aeiou]/i.test(spec.dealLabel) ? "an" : "a"} ${spec.dealLabel} deal on too.` }] },
+      { type: "paragraph", children: [{ type: "text", value: `Some ${place}s above show their own deal under their entry. These places aren't in the ranking, but they have ${/^[aeiou]/i.test(spec.dealLabel) ? "an" : "a"} ${spec.dealLabel} deal on too.` }] },
       ...table(header, deals.map((d) => {
         const c = cellsFor(d, header);
         c[1] = c[1].charAt(0).toUpperCase() + c[1].slice(1);

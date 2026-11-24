@@ -208,5 +208,129 @@
     "dealCuisines": [
       "wetherspoon"
     ]
+  },
+  "best-wine-bars-london": {
+    "dealLabel": "wine",
+    "dealPlace": "bar",
+    "dealKeywords": [
+      "wine",
+      "wines",
+      "prosecco",
+      "champagne"
+    ],
+    "dealCuisines": [
+      "wine bar"
+    ],
+    "dealDrinks": true
+  },
+  "best-speakeasy-bars-london": {
+    "dealLabel": "cocktail",
+    "dealPlace": "bar",
+    "dealKeywords": [
+      "cocktail",
+      "cocktails",
+      "martini",
+      "martinis",
+      "negroni",
+      "negronis"
+    ],
+    "dealDrinks": true
+  },
+  "best-rooftop-bars-london": {
+    "dealLabel": "rooftop",
+    "dealPlace": "bar",
+    "dealKeywords": [
+      "rooftop",
+      "roof terrace"
+    ],
+    "dealDrinks": true
+  },
+  "best-rooftop-restaurants-london": {
+    "dealLabel": "rooftop",
+    "dealKeywords": [
+      "rooftop",
+      "roof terrace"
+    ]
+  },
+  "best-sports-bars-london": {
+    "dealLabel": "beer",
+    "dealPlace": "bar",
+    "dealKeywords": [
+      "beer",
+      "beers",
+      "pint",
+      "pints",
+      "lager",
+      "ale"
+    ],
+    "dealCuisines": [
+      "craft-beer",
+      "wetherspoon",
+      "pub"
+    ],
+    "dealDrinks": true
+  },
+  "best-beer-gardens-london": {
+    "dealLabel": "beer",
+    "dealPlace": "pub",
+    "dealKeywords": [
+      "beer",
+      "beers",
+      "pint",
+      "pints",
+      "lager",
+      "ale"
+    ],
+    "dealCuisines": [
+      "craft-beer",
+      "wetherspoon",
+      "pub"
+    ],
+    "dealDrinks": true
+  },
+  "best-food-chinatown-london": {
+    "dealLabel": "Chinatown",
+    "dealKeywords": [
+      "chinatown"
+    ],
+    "dealAreas": [
+      "chinatown"
+    ]
+  },
+  "best-chain-restaurants-london": {
+    "dealLabel": "chain restaurant",
+    "dealKeywords": [],
+    "dealChains": true
+  },
+  "best-fusion-restaurants-london": {
+    "dealLabel": "fusion",
+    "dealKeywords": [
+      "fusion"
+    ],
+    "dealCuisines": [
+      "fusion"
+    ]
+  },
+  "best-market-stalls-london": {
+    "dealLabel": "food hall",
+    "dealPlace": "stall",
+    "dealKeywords": [
+      "food hall",
+      "market"
+    ],
+    "dealCuisines": [
+      "food-hall"
+    ]
+  },
+  "best-london-markets": {
+    "dealLabel": "food market",
+    "dealPlace": "market",
+    "dealKeywords": [
+      "food hall",
+      "market"
+    ],
+    "dealCuisines": [
+      "food-hall"
+    ]
   }
 }
