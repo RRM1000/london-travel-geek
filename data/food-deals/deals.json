@@ -170,22 +170,6 @@
   }
  },
  {
-  "name": "Angus Steakhouse",
-  "slug": null,
-  "site": "https://www.angussteakhouse.co.uk/",
-  "type": "kids-eat-free",
-  "offer": "One child aged 8 or under eats free from the kids menu with every full-paying adult main",
-  "price": "Free",
-  "days": "Daily",
-  "times": "12:00-17:00",
-  "conditions": "Adult must order from the Main Menu; not Saturdays at Bond Street and Oxford Circus; not with other offers",
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://www.angussteakhouse.co.uk/",
-  "checked": "2026-11-24",
-  "quote": "KIDS EAT FREE One child aged 8 or under eats free with every full-paying adult"
- },
- {
   "name": "Arcade Food Hall",
   "slug": null,
   "site": "https://www.arcade-london.com/",
