@@ -1,0 +1,204 @@
+---
+// Prototype of a 3D station map: Bank and Monument. Not linked from any article yet.
+// The page and public/station-map.js take any station file in the shape of data/stations/bank.json.
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import data from "../../../data/stations/bank.json";
+
+type Item = (typeof data.items)[number] & Record<string, any>;
+const items = data.items as Item[];
+const MODE_LABEL: Record<string, string> = { lift: "Lift", escalator: "Escalators", travelator: "Moving walkways", stairs: "Stairs", passage: "Passage", street: "Street route" };
+const SECTIONS: [string, (it: Item) => boolean][] = [
+  ["Entrances and exits", (it) => it.kind === "exit"],
+  ["Platforms", (it) => it.kind === "platform"],
+  ["Ticket halls", (it) => it.kind === "hall"],
+  ["Lifts", (it) => it.kind === "route" && it.mode === "lift"],
+  ["Escalators, walkways and stairs", (it) => it.kind === "route" && it.mode !== "lift"],
+];
+const sortKey = (it: Item) => (it.kind === "exit" ? it.letter : it.name);
+const CHIPS = [
+  ["exits", "Exits"],
+  ["lines", "Lines and platforms"],
+  ["stepfree", "Lifts and step-free"],
+  ["interchange", "Interchanges"],
+];
+const lineName = (id: string) => (data.lines as Record<string, { name: string; colour: string }>)[id].name;
+const dotColour = (it: Item) =>
+  it.status === "closed" ? "#c2410c"
+  : it.kind === "platform" ? (data.lines as any)[it.line].colour
+  : it.stepFree ? "#0f766e"
+  : it.kind === "exit" ? "#1f2937" : "#55606e";
+const typeText = (it: Item) =>
+  it.kind === "exit" ? `Entrance ${it.letter}` : it.kind === "route" ? MODE_LABEL[it.mode] : it.kind === "hall" ? "Ticket hall" : "Platforms";
+---
+
+<BaseLayout
+  title="Bank station map: 3D guide to Bank and Monument"
+  description="Interactive 3D map of Bank and Monument stations: every entrance, each line's platforms at its depth, and the lifts, escalators and walkways between them."
+  noindex
+>
+  <section class="section">
+    <div class="container stmap-page">
+      <h1>Bank and Monument station map</h1>
+      <p>
+        Bank and Monument are one station complex with {items.filter((it) => it.kind === "exit").length} street entrances and six lines: the Central, Northern
+        and Waterloo &amp; City lines and the DLR at Bank, and the District and Circle lines at Monument. The DLR
+        platforms are the deepest, about 41 m below the street. Tap anything for its lines and whether it is step-free.
+      </p>
+      <div class="stmap-warn">
+        <p><strong>Northern line to District and Circle: closed until early 2027.</strong> Escalators 4 and 5 between the
+        Northern line and Monument are being replaced. Follow the signs for the other route, which can be via the street;
+        if it takes you through the gates, touch out and touch back in.</p>
+      </div>
+      <p class="stmap-step">
+        <strong>Step-free:</strong> use the Cannon Street entrance (T) for lifts to the Northern line and DLR. The
+        Waterloo &amp; City line has its own lifts from Walbrook (S), Monday to Friday. The Central line and Monument's
+        District and Circle platforms have no step-free access.
+      </p>
+
+      <div class="stmap" data-stmap>
+        <div class="stmap__tools">
+          <label class="stmap__search">
+            <span class="sr-only">Search the map</span>
+            <input type="search" placeholder="Search, e.g. Cannon Street or DLR" data-stmap-search autocomplete="off" />
+          </label>
+          <div class="stmap__chips" role="group" aria-label="Show only">
+            {CHIPS.map(([key, label]) => (
+              <button type="button" class={`stmap__chip stmap__chip--${key}`} data-stmap-chip={key} aria-pressed="false">{label}</button>
+            ))}
+          </div>
+        </div>
+
+        <div class="stmap__viewer" data-stmap-viewer hidden>
+          <div class="stmap__stage" data-stmap-stage>
+            <div class="stmap__canvas" data-stmap-canvas></div>
+            <div class="stmap__buttons">
+              <button type="button" class="stmap__btn" data-stmap-tilt aria-pressed="false">Flat plan</button>
+              <button type="button" class="stmap__btn" data-stmap-reset>Reset view</button>
+            </div>
+            <div class="stmap__popup" data-stmap-popup role="dialog" aria-live="polite" hidden></div>
+          </div>
+          <ul class="stmap__key" aria-label="Key">
+            <li><span class="stmap__swatch" style="--c:#1f2937"></span>Entrance</li>
+            <li><span class="stmap__swatch" style="--c:#0f766e"></span>Step-free lift or route</li>
+            <li><span class="stmap__swatch" style="--c:#55606e"></span>Escalators</li>
+            <li><span class="stmap__swatch" style="--c:#7c3aed"></span>Moving walkways</li>
+            <li><span class="stmap__swatch" style="--c:#c2410c"></span>Closed</li>
+          </ul>
+          <p class="stmap__hint">Drag to turn, pinch or scroll to zoom. Depths are exaggerated and the layout is a guide, not to scale.</p>
+        </div>
+
+        <div class="stmap__list">
+          {SECTIONS.map(([heading, test]) => {
+            const rows = items.filter(test).sort((a, b) => sortKey(a).localeCompare(sortKey(b)));
+            return (
+              <section data-stmap-section>
+                <h2 class="stmap__list-heading">{heading}</h2>
+                <ul>
+                  {rows.map((it) => (
+                    <li class="stmap__item" data-stmap-item={it.id} data-search={`${it.name} ${it.label} ${it.lines.map(lineName).join(" ")} ${it.note}`.toLowerCase()}>
+                      <button type="button" class="stmap__item-btn" data-stmap-pick={it.id}>
+                        <span class="stmap__dot" style={`--c:${dotColour(it)}`} aria-hidden="true"></span>
+                        <span class="stmap__item-name">{it.kind === "exit" ? `${it.letter} · ${it.name}` : it.name}</span>
+                        <span class="stmap__item-type">{it.status === "closed" ? "Closed" : it.stepFree ? "Step-free" : typeText(it)}</span>
+                      </button>
+                      <div class="stmap__item-body">
+                        <p><strong>Lines:</strong> {it.lines.map(lineName).join(", ")}</p>
+                        <p><strong>Step-free:</strong> {it.status === "closed" ? "closed" : it.stepFree ? "yes" : "no"}{it.stepFreeNote && `. ${it.stepFreeNote}`}</p>
+                        <p>{it.note}</p>
+                      </div>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            );
+          })}
+        </div>
+      </div>
+
+      <p class="stmap-fresh">
+        <em>Drawn from TfL's <a href={data.sources.stationData}>station data</a>, its <a href={data.sources.stepFreeGuide}>step-free Tube guide</a>
+        and its <a href={data.sources.layout}>2023 station layout</a>, as of {new Date(data.checked).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}.
+        Lifts can be out of service: check <a href={data.sources.stationPage}>TfL's Bank page</a> on the day.</em>
+      </p>
+      <script type="application/json" data-stmap-data set:html={JSON.stringify(data)} />
+    </div>
+  </section>
+  <script is:inline type="module" src="/station-map.js"></script>
+</BaseLayout>
+
+<style>
+  .stmap-page h1 { margin-bottom: 0.5rem; }
+  .stmap-page > p { max-width: 46rem; }
+  .stmap-warn { max-width: 46rem; border-left: 4px solid #c2410c; background: color-mix(in srgb, #c2410c 8%, var(--surface)); padding: 0.6rem 0.9rem; border-radius: var(--radius-sm); margin: 0.8rem 0; }
+  .stmap-warn p { margin: 0; }
+  .stmap-fresh { color: var(--muted); font-size: 0.9rem; margin-top: 1.5rem; }
+  .stmap { display: grid; gap: 1rem; margin-top: 1.25rem; }
+  .stmap__tools { display: grid; gap: 0.6rem; }
+  .stmap__search input { width: 100%; font: inherit; padding: 0.6rem 0.8rem; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--surface); color: var(--ink); }
+  .stmap__chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .stmap__chip { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.8rem; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .stmap__chip[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+  .stmap__stage { position: relative; height: min(72vh, 660px); min-height: 420px; border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: #eef1f4; touch-action: none; }
+  .stmap__canvas, .stmap__canvas :global(canvas) { width: 100%; height: 100%; display: block; }
+  .stmap__buttons { position: absolute; top: 0.6rem; right: 0.6rem; display: flex; gap: 0.4rem; z-index: 2; }
+  .stmap__btn { font: inherit; font-size: 0.85rem; padding: 0.4rem 0.75rem; border-radius: var(--radius-sm); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; box-shadow: var(--shadow-sm); }
+  .stmap__btn[aria-pressed="true"] { background: var(--ink); color: var(--surface); }
+  .stmap__key { list-style: none; display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; margin: 0.5rem 0 0; padding: 0; font-size: 0.85rem; color: var(--muted); }
+  .stmap__swatch { display: inline-block; width: 0.75rem; height: 0.75rem; border-radius: 3px; background: var(--c); margin-right: 0.35rem; vertical-align: -0.05rem; }
+  .stmap__hint { font-size: 0.85rem; color: var(--muted); margin: 0.3rem 0 0; }
+
+  /* Labels are drawn by the script; global because they are created at runtime. */
+  .stmap__stage :global(.stmap__labels) { position: absolute; inset: 0; pointer-events: none; overflow: hidden; z-index: 1; }
+  .stmap__stage :global(.stmap__label) { position: absolute; left: 0; top: 0; white-space: nowrap; font: 600 12px/1.25 var(--body, system-ui, sans-serif); color: #111827; background: rgb(255 255 255 / 0.94); padding: 2px 6px; border-radius: 4px; border: 1px solid rgb(17 24 39 / 0.14); box-shadow: 0 1px 2px rgb(17 24 39 / 0.12); }
+  .stmap__stage :global(.stmap__label--platform) { color: #fff; background: var(--c); border-color: transparent; font-size: 12.5px; }
+  .stmap__stage :global(.stmap__label--exit) { display: inline-flex; align-items: center; gap: 4px; padding: 1px 6px 1px 1px; }
+  .stmap__stage :global(.stmap__label--exit b) { display: inline-grid; place-items: center; min-width: 17px; height: 17px; border-radius: 3px; background: #1f2937; color: #fff; font-size: 11px; }
+  .stmap__stage :global(.stmap__label--exit.is-stepfree b) { background: #0f766e; }
+  .stmap__stage :global(.stmap__label--exit.is-compact) { padding: 1px; }
+  .stmap__stage :global(.stmap__label--exit.is-compact i) { display: none; }
+  .stmap__stage :global(.stmap__label--exit i) { font-style: normal; }
+  .stmap__stage :global(.stmap__label--hall) { font-weight: 500; font-style: italic; }
+  .stmap__stage :global(.stmap__label--route) { font-weight: 500; font-size: 11.5px; }
+  .stmap__stage :global(.stmap__label.is-stepfree:not(.stmap__label--exit)) { border-color: #0f766e; color: #0f5f59; }
+  .stmap__stage :global(.stmap__label.is-closed) { border-color: #c2410c; color: #9a3412; }
+  .stmap__stage :global(.stmap__label.is-selected) { outline: 2px solid #b45309; outline-offset: 1px; }
+  .stmap__stage :global(.stmap__level) { position: absolute; left: 0; top: 0; white-space: nowrap; font: 600 11px/1.2 var(--body, system-ui, sans-serif); color: #4b5563; text-transform: uppercase; letter-spacing: 0.04em; }
+  .stmap__stage :global(.stmap__level small) { display: block; font-weight: 500; text-transform: none; letter-spacing: 0; color: #6b7280; }
+
+  .stmap__popup { position: absolute; left: 0.6rem; bottom: 0.6rem; width: min(24rem, calc(100% - 1.2rem)); max-height: 50%; overflow: auto; padding: 0.8rem 2.4rem 0.8rem 0.9rem; border-radius: var(--radius-md); background: var(--surface); color: var(--ink); box-shadow: var(--shadow-md); font-size: 0.92rem; z-index: 3; }
+  /* Narrow screens: a sheet docked along the bottom edge; the script lifts the picture above it. */
+  @media (max-width: 40rem) {
+    .stmap__popup { left: 0; right: 0; bottom: 0; width: auto; max-height: 48%; border-radius: var(--radius-md) var(--radius-md) 0 0; box-shadow: 0 -4px 16px rgb(17 24 39 / 0.18); }
+    .stmap__stage { height: 62vh; min-height: 420px; }
+  }
+  .stmap__popup :global(h3) { margin: 0 0 0.3rem; font-size: 1.05rem; }
+  .stmap__popup :global(p) { margin: 0.25rem 0; }
+  .stmap__popup :global(.stmap__close) { position: absolute; top: 0.3rem; right: 0.3rem; width: 2.2rem; height: 2.2rem; border: 0; background: none; font-size: 1.4rem; cursor: pointer; color: var(--muted); }
+  .stmap__popup :global(.stmap__kind) { color: var(--muted); font-size: 0.82rem; margin: 0; }
+  .stmap__popup :global(.stmap__pills) { display: flex; flex-wrap: wrap; gap: 0.3rem; }
+  .stmap__popup :global(.stmap__pill) { font-size: 0.78rem; font-weight: 600; padding: 0.1rem 0.5rem; border-radius: 999px; border: 2px solid var(--c); }
+  .stmap__popup :global(.stmap__sf.is-yes strong) { color: #0f766e; }
+  .stmap__popup :global(.stmap__sf.is-no strong) { color: var(--muted); }
+  .stmap__popup :global(.stmap__sf.is-closed strong) { color: #c2410c; }
+
+  .stmap__list-heading { font-size: 1.05rem; margin: 0.9rem 0 0.3rem; }
+  .stmap__list section:first-child .stmap__list-heading { margin-top: 0; }
+  .stmap__list ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+  .stmap__item { border-bottom: 1px solid var(--line); }
+  .stmap__item[hidden], .stmap__list section[hidden] { display: none; }
+  .stmap__item-btn { display: flex; align-items: center; gap: 0.5rem; width: 100%; padding: 0.55rem 0.2rem; font: inherit; text-align: left; background: none; border: 0; color: var(--ink); cursor: pointer; }
+  .stmap__item-name { font-weight: 600; flex: 1; }
+  .stmap__item-type { color: var(--muted); font-size: 0.82rem; white-space: nowrap; }
+  .stmap__item-body { padding: 0 0.2rem 0.6rem 1.3rem; font-size: 0.92rem; }
+  .stmap__item-body p { margin: 0.2rem 0; }
+  .stmap__item.is-active { background: var(--surface-strong); }
+  .stmap__dot { width: 0.7rem; height: 0.7rem; border-radius: 50%; flex: none; background: var(--c); }
+  .stmap.is-live .stmap__item-body { display: none; }
+  .stmap.is-live .stmap__item.is-active .stmap__item-body { display: block; }
+  @media (min-width: 62rem) {
+    .stmap.is-live { grid-template-columns: minmax(0, 1fr) 21rem; grid-template-areas: "tools tools" "viewer list"; }
+    .stmap.is-live .stmap__tools { grid-area: tools; }
+    .stmap.is-live .stmap__viewer { grid-area: viewer; }
+    .stmap.is-live .stmap__list { grid-area: list; max-height: 720px; overflow: auto; }
+  }
+</style>
