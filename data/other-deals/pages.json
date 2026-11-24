@@ -1,26 +1,46 @@
 {
   "best-gyms-london": {
-    "categories": ["gym"],
+    "categories": [
+      "gym"
+    ],
     "heading": "Gym deals in London",
     "place": "Gym",
-    "intro": "Day passes, free trials and joining offers running now, with the days they apply and the date they end."
+    "intro": "Day passes, free trials and joining offers running now, with the days they apply and the date they end.",
+    "max": 35
   },
   "hotel-spa-pool-day-passes-london": {
-    "categories": ["spa"],
+    "categories": [
+      "spa"
+    ],
     "heading": "Spa deals in London",
     "place": "Spa",
     "intro": "Offers on spa days and pool passes running now, with the days they apply and the date they end."
   },
   "best-cinemas-london": {
-    "categories": ["cinema"],
+    "categories": [
+      "cinema"
+    ],
     "heading": "Cinema deals in London",
     "place": "Cinema",
     "intro": "Cheap days, member prices and discounts running now, with the days they apply and the date they end."
   },
   "best-karaoke-london": {
-    "categories": ["karaoke"],
+    "categories": [
+      "karaoke"
+    ],
     "heading": "Karaoke deals in London",
     "place": "Where",
     "intro": "Off-peak prices and offers on karaoke rooms running now, with the days they apply."
+  },
+  "competitive-socialising-london": {
+    "categories": [
+      "mini-golf",
+      "activity",
+      "bowling",
+      "escape-room"
+    ],
+    "heading": "Deals on games and activities",
+    "place": "Where",
+    "intro": "Student prices, off-peak sessions and offers running now, with the days they apply and the date they end."
   }
 }

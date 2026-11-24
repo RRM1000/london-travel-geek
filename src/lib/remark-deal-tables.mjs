@@ -542,7 +542,7 @@ export function remarkOtherDeals() {
     const spec = data?.pages[slug];
     if (!spec) return;
     const cats = new Set(spec.categories);
-    const deals = data.deals.filter((d) => cats.has(d.category)).sort((a, b) => a.name.localeCompare(b.name) || (a.endDate ? 0 : 1) - (b.endDate ? 0 : 1)).slice(0, OTHER_MAX);
+    const deals = data.deals.filter((d) => cats.has(d.category)).sort((a, b) => a.name.localeCompare(b.name) || (a.endDate ? 0 : 1) - (b.endDate ? 0 : 1)).slice(0, spec.max ?? OTHER_MAX);
     if (deals.length < 2) return;
     const kids = tree.children;
     const h2s = kids.map((n, i) => (n.type === "heading" && n.depth === 2 ? i : -1)).filter((i) => i >= 0);

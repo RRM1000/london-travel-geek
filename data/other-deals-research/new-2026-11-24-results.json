@@ -1,0 +1,386 @@
+[
+  {
+    "name": "JD Gyms",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Black Friday first month £5 with no joining fee; day pass from £10.99."
+  },
+  {
+    "name": "Snap Fitness",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "1-day pass £15 and 14-day pass £39.99 at Elephant and Castle. No /offers page."
+  },
+  {
+    "name": "énergie Fitness",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Free trial. Club prices and the joining-fee offer load by script and could not be quoted."
+  },
+  {
+    "name": "Fitness4Less",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Black Friday: 50% off first month and no joining fee with code BLACKFRIDAY, ends 30 Nov."
+  },
+  {
+    "name": "easyGym",
+    "category": "gym",
+    "outcome": "closed",
+    "note": "Its only London club, Camberwell, says on its own page that it is permanently closed."
+  },
+  {
+    "name": "TruGym",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "No London clubs (Ipswich, Huddersfield, Thorpe Bay, Gateshead)."
+  },
+  {
+    "name": "Everlast Gyms",
+    "category": "gym",
+    "outcome": "unreadable",
+    "note": "everlastgyms.com timed out on every request."
+  },
+  {
+    "name": "Fitness First",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Black Friday: £10 for the rest of the year. No further terms on the page."
+  },
+  {
+    "name": "Village Gym",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "No London clubs."
+  },
+  {
+    "name": "David Lloyd",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "Family Fun Weekend open days 28-29 Nov, but no price or free offer stated."
+  },
+  {
+    "name": "Third Space",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "Standard prices only."
+  },
+  {
+    "name": "Equinox",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "London club pages render by script; no offer text in the served page."
+  },
+  {
+    "name": "1Rebel",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Black Friday 20% off session packs; first-timer 2 sessions £29 and 5 sessions £59."
+  },
+  {
+    "name": "Fusion Lifestyle",
+    "category": "gym",
+    "outcome": "closed",
+    "note": "Its own site says it entered administration on 1 April 2026 and ceased to trade on 30 June 2026; centres went to other operators."
+  },
+  {
+    "name": "Move Southwark",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Free swim and gym for Southwark residents at set times. Black Friday codes BFSOLO/BFDUO with no stated saving, so not recorded."
+  },
+  {
+    "name": "Be Well",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Free swimming for Tower Hamlets residents in set groups."
+  },
+  {
+    "name": "Mytime Active",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "No joining fee is standing policy, not an offer."
+  },
+  {
+    "name": "Barry's",
+    "category": "gym",
+    "outcome": "unreadable",
+    "note": "Pricing page renders by script; no prices in the served page."
+  },
+  {
+    "name": "KXU",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Intro offer 3 classes for £45."
+  },
+  {
+    "name": "Heartcore",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "A \"Welcome Offer\" is advertised but its price is not on the page."
+  },
+  {
+    "name": "BXR London",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Intro pack 4 classes £49; first-time Versa 3 classes £35; City intro class £15."
+  },
+  {
+    "name": "F45 Training",
+    "category": "gym",
+    "outcome": "no deals",
+    "note": "Islington page advertises a 7-day trial and an early-bird Black Friday sign-up but gives no price."
+  },
+  {
+    "name": "SoulCycle",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "New rider 2 classes for £15; Starter Unlimited two weeks £50 (was £89)."
+  },
+  {
+    "name": "Digme Fitness",
+    "category": "gym",
+    "outcome": "deals",
+    "note": "Lunchtime-only unlimited £99 a month; 18-25 unlimited £129. The new-joiner 50% code on the memberships page expired 31 Oct 2025."
+  },
+  {
+    "name": "Anytime Fitness",
+    "category": "gym",
+    "outcome": "unreadable",
+    "note": "anytimefitness.com/en-gb and .co.uk both serve an Imperva bot check."
+  },
+  {
+    "name": "Rena Spa at Leonardo Royal London St Paul's",
+    "category": "spa",
+    "outcome": "deals",
+    "note": "Black Friday 25% off spa days and packages on the booking page."
+  },
+  {
+    "name": "Mandarin Oriental Hyde Park",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Spa and packages pages carry no prices or offers."
+  },
+  {
+    "name": "Mandarin Oriental Mayfair",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Wellness and rituals pages carry no prices or offers."
+  },
+  {
+    "name": "Four Seasons Hotel London at Tower Bridge",
+    "category": "spa",
+    "outcome": "unreadable",
+    "note": "fourseasons.com returns 403 Access Denied."
+  },
+  {
+    "name": "Bulgari Hotel London",
+    "category": "spa",
+    "outcome": "unreadable",
+    "note": "bulgarihotels.com returns 403 Access Denied."
+  },
+  {
+    "name": "The Peninsula London",
+    "category": "spa",
+    "outcome": "unreadable",
+    "note": "Site renders by script; spa page could not be found in the served HTML."
+  },
+  {
+    "name": "Jumeirah Carlton Tower",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Wellbeing page has no day pass or spa-day price; offers are room offers."
+  },
+  {
+    "name": "The Langham",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Black Friday is 30% off rooms and 20% off gift vouchers; nothing priced for spa access by non-guests."
+  },
+  {
+    "name": "Park Plaza Westminster Bridge",
+    "category": "spa",
+    "outcome": "unreadable",
+    "note": "parkplaza.com redirects to radissonhotels.com, which blocks automated requests."
+  },
+  {
+    "name": "London Marriott Hotel County Hall",
+    "category": "spa",
+    "outcome": "unreadable",
+    "note": "marriott.com returns 403 Access Denied."
+  },
+  {
+    "name": "Raffles London at The OWO",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Guerlain Spa page gives hours but no day pass or offer price."
+  },
+  {
+    "name": "One Aldwych",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Offers are stays and dining; wellness page has no spa-day price."
+  },
+  {
+    "name": "Town Hall Hotel",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Offers are room offers (Black Friday 30% off stays)."
+  },
+  {
+    "name": "Virgin Hotels London-Shoreditch",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Offers are room rates only."
+  },
+  {
+    "name": "The Dilly",
+    "category": "spa",
+    "outcome": "unreadable",
+    "note": "thedilly.co.uk timed out."
+  },
+  {
+    "name": "The Ned",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Members club; no non-member pass on the served page."
+  },
+  {
+    "name": "The Savoy",
+    "category": "spa",
+    "outcome": "no deals",
+    "note": "Offers page lists dining and stays, no pool or spa access."
+  },
+  {
+    "name": "Hollywood Bowl",
+    "category": "bowling",
+    "outcome": "no deals",
+    "note": "Offers page lists Eat, drink & bowl, Student 2 games and 1 drink, and 2 games & 2 drinks, but still prints no prices."
+  },
+  {
+    "name": "All Star Lanes",
+    "category": "bowling",
+    "outcome": "deals",
+    "note": "Off-peak 2 games £15 now priced on its own page; Bowling Lates £10 after 9pm Sun-Thu; students 25% off the bill."
+  },
+  {
+    "name": "Puttshack",
+    "category": "mini-golf",
+    "outcome": "deals",
+    "note": "Student 2-for-1 Mon-Wed; 50% off second game; lunch deal £19.95; £24.50 evening bundles; Black Friday gift-card bonus."
+  },
+  {
+    "name": "Swingers",
+    "category": "mini-golf",
+    "outcome": "unreadable",
+    "note": "swingers.club returns a Cloudflare challenge (403)."
+  },
+  {
+    "name": "Flight Club",
+    "category": "activity",
+    "outcome": "no deals",
+    "note": "London venue pages carry no priced offers."
+  },
+  {
+    "name": "Electric Shuffle",
+    "category": "activity",
+    "outcome": "no deals",
+    "note": "Only standard prices (from £10pp; brunch from £38pp)."
+  },
+  {
+    "name": "Bounce",
+    "category": "activity",
+    "outcome": "unreadable",
+    "note": "Student discount page exists but its terms load by script."
+  },
+  {
+    "name": "Clays",
+    "category": "activity",
+    "outcome": "no deals",
+    "note": "No offers on the served page."
+  },
+  {
+    "name": "Lane7",
+    "category": "bowling",
+    "outcome": "deals",
+    "note": "Go All In unlimited play from £18pp, limited time (Camden, Victoria)."
+  },
+  {
+    "name": "Ballie Ballerson",
+    "category": "activity",
+    "outcome": "no deals",
+    "note": "Standard day-of-week prices only."
+  },
+  {
+    "name": "Escape Hunt",
+    "category": "escape-room",
+    "outcome": "deals",
+    "note": "Early bird 10% off Mon-Thu before 12pm, code EHEARLYBIRD."
+  },
+  {
+    "name": "clueQuest",
+    "category": "escape-room",
+    "outcome": "deals",
+    "note": "Black Friday 26-29 Nov: 50% off outdoor games, 20% off gift vouchers."
+  },
+  {
+    "name": "Boom Battle Bar",
+    "category": "activity",
+    "outcome": "deals",
+    "note": "Student 25% off games Sun-Thu; Blue Light 15% off. Happy hour (4-7pm Mon-Thu) is drinks only. Bundles from £27.50pp at selected venues."
+  },
+  {
+    "name": "Topgolf",
+    "category": "activity",
+    "outcome": "no deals",
+    "note": "Fifty50 deal (2 hours for £50 plus 50% off food and drink) and a £13 burger combo exist, but Topgolf has no venue inside London; not recorded."
+  },
+  {
+    "name": "Junkyard Golf",
+    "category": "mini-golf",
+    "outcome": "no deals",
+    "note": "Its London link now goes to Ted's Crazy Golf, Shoreditch; no offers on that page."
+  },
+  {
+    "name": "Plonk",
+    "category": "mini-golf",
+    "outcome": "unreadable",
+    "note": "plonkgolf.co.uk timed out."
+  },
+  {
+    "name": "BAM Karaoke Box",
+    "category": "karaoke",
+    "outcome": "unreadable",
+    "note": "London booking page loads by script; no prices in the served page."
+  },
+  {
+    "name": "Karaoke Box",
+    "category": "karaoke",
+    "outcome": "no deals",
+    "note": "Soho and Mayfair pages carry no offers."
+  },
+  {
+    "name": "Moyagi",
+    "category": "karaoke",
+    "outcome": "deals",
+    "note": "Early sessions 5-7pm, £22pp Wed and Sun."
+  },
+  {
+    "name": "Fairgame",
+    "category": "activity",
+    "outcome": "unreadable",
+    "note": "fairgame.co.uk served no content."
+  },
+  {
+    "name": "Gravity MAX",
+    "category": "activity",
+    "outcome": "unreadable",
+    "note": "Student discount and special offers pages load by script."
+  },
+  {
+    "name": "Mission: Breakout",
+    "category": "escape-room",
+    "outcome": "unreadable",
+    "note": "missionbreakout.co.uk timed out."
+  }
+]

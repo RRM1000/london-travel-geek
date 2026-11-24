@@ -1,0 +1,575 @@
+[
+  {
+    "name": "Bill's",
+    "outcome": "still unreadable",
+    "note": "Sucuri JavaScript cookie challenge on every request; no other operator page found"
+  },
+  {
+    "name": "Honest Burgers",
+    "outcome": "deals",
+    "note": "Student 20%, Blue Light 20%, rewards app free side. Kids £1 ran 16 Oct to 2 Nov only; Black Friday offer is gift cards"
+  },
+  {
+    "name": "Miller & Carter",
+    "outcome": "deals",
+    "note": "Cloudflare lets some requests through on retry. Mid-Week Set Menu ends 26 Nov for the year (no price shown), so not recorded; 25% off is Click & Collect only"
+  },
+  {
+    "name": "Shake Shack",
+    "outcome": "still unreadable",
+    "note": "Cloudflare challenge on every request"
+  },
+  {
+    "name": "Harvester",
+    "outcome": "deals",
+    "note": "Read /offers on retry past intermittent Cloudflare 403"
+  },
+  {
+    "name": "Toby Carvery",
+    "outcome": "deals",
+    "note": "Read /offers on retry"
+  },
+  {
+    "name": "Browns",
+    "outcome": "no deals",
+    "note": "Homepage and Covent Garden page readable; only an unpriced seasonal set menu and Prosecco from £30/£40 bottles. Rewards sit behind the account login"
+  },
+  {
+    "name": "Joe & the Juice",
+    "outcome": "deals",
+    "note": "Homepage is a JS shell; loyalty page at /app redirects to static.joejuice.com"
+  },
+  {
+    "name": "Tossed",
+    "outcome": "moved",
+    "newUrl": "https://tosseduk.com/",
+    "note": "tossed.co.uk behind Cloudflare; tosseduk.com readable. Tossed Rewards points and vouchers, no stated reward"
+  },
+  {
+    "name": "Crussh",
+    "outcome": "still unreadable",
+    "note": "crussh.com is an unconnected Wix domain and crussh.co.uk is parked; no current operator site found (search engines returned nothing usable)"
+  },
+  {
+    "name": "Pastaio",
+    "outcome": "moved",
+    "newUrl": "https://www.pastaio.co.uk/",
+    "note": "pastaio.london has a bad certificate; pastaio.co.uk has student 25% and Blue Light 15% (records written)"
+  },
+  {
+    "name": "Polpo",
+    "outcome": "no deals",
+    "note": "Site readable (homepage, Soho, menu); no offers beyond a newsletter sign-up"
+  },
+  {
+    "name": "Breddos Tacos",
+    "outcome": "no deals",
+    "note": "breddostacos.com (no www) is a one-page about site; no offers"
+  },
+  {
+    "name": "Fuller's",
+    "outcome": "no deals",
+    "note": "Group site readable; offers only via 'friend of Fuller's' email sign-up, nothing stated. Pub-level deals live on individual pub sites"
+  },
+  {
+    "name": "Nicholson's",
+    "outcome": "no deals",
+    "note": "/offers is a news/blog listing (gin, cask ale, awards); no dine-in offer"
+  },
+  {
+    "name": "Dirty Burger",
+    "outcome": "still unreadable",
+    "note": "dirtyburger.com does not resolve; dirtyburger.co.uk returns Cloudflare 526; no current site found"
+  },
+  {
+    "name": "Costa",
+    "outcome": "still unreadable",
+    "note": "costa.co.uk times out on every request (no response at all)"
+  },
+  {
+    "name": "NoMad London",
+    "outcome": "still unreadable",
+    "note": "hilton.com returns its block page (403) on every request"
+  },
+  {
+    "name": "The Spaniards Inn",
+    "outcome": "still unreadable",
+    "note": "Pages load (M&B platform) but menus and what's-on content are rendered client-side; nothing readable in the HTML"
+  },
+  {
+    "name": "CUT at 45 Park Lane",
+    "outcome": "no deals",
+    "note": "Page readable; Steak & Salad lunch menu listed but no price on the page"
+  },
+  {
+    "name": "Zelman Meats",
+    "outcome": "still unreadable",
+    "note": "zelmanmeats.com does not resolve; zelmanmeats.co.uk forwards to an Azure 404; no current site found"
+  },
+  {
+    "name": "The Golden Chip of Hanwell",
+    "outcome": "still unreadable",
+    "note": "URL is an edan.io directory listing, not the operator's site; no operator site found"
+  },
+  {
+    "name": "En Root",
+    "outcome": "no deals",
+    "note": "https://enrootldn.co.uk/ (no www) works. App points 'unlock treats on the house' with no stated reward"
+  },
+  {
+    "name": "Gymkhana",
+    "outcome": "no deals",
+    "note": "gymkhanarestaurants.com/london readable; only a £165 Lunch Feast for the table and festive menus"
+  },
+  {
+    "name": "Vatavaran",
+    "outcome": "still unreadable",
+    "note": "vatavaran.uk certificate error with and without www"
+  },
+  {
+    "name": "The Dorchester",
+    "outcome": "no deals",
+    "note": "Dining and exclusive-offers pages readable; offers are room packages with dining credit. Ducasse set lunch recorded under its own entry"
+  },
+  {
+    "name": "The Lanesborough",
+    "outcome": "no deals",
+    "note": "Readable; only festive, Christmas Day and NYE menus, no priced dine-in offer"
+  },
+  {
+    "name": "Brown's Hotel",
+    "outcome": "still unreadable",
+    "note": "roccofortehotels.com returns Access Denied (Akamai)"
+  },
+  {
+    "name": "The Langham",
+    "outcome": "no deals",
+    "note": "Readable; offers are room rates (20% advance, third night free)"
+  },
+  {
+    "name": "Canton Blue",
+    "outcome": "no deals",
+    "note": "Peninsula page readable; no set menu or offer listed"
+  },
+  {
+    "name": "Kung Fu Noodle",
+    "outcome": "still unreadable",
+    "note": "kungfunoodle.shop is now a parked domain; no current site found"
+  },
+  {
+    "name": "Orient London",
+    "outcome": "no deals",
+    "note": "https://www.orientlondon.com/ readable; mentions bespoke group set menus with no price"
+  },
+  {
+    "name": "Sushi Kanesaka",
+    "outcome": "no deals",
+    "note": "Omakase only; no offer"
+  },
+  {
+    "name": "Roka",
+    "outcome": "deals",
+    "note": "Teishoku set menus and Shochu Lounge happy hour"
+  },
+  {
+    "name": "Jin Kichi",
+    "outcome": "still unreadable",
+    "note": "Cloudflare challenge on every request"
+  },
+  {
+    "name": "Dumplings' Legend",
+    "outcome": "moved",
+    "newUrl": "https://chinatown.co.uk/en/brands/dumplings-legend/",
+    "note": "dumplingslegend.com now redirects to the Chinatown London estate listing; no deals there (listing, not operator)"
+  },
+  {
+    "name": "Alain Ducasse at The Dorchester",
+    "outcome": "deals",
+    "note": "Dorchester Collection page readable; festive set lunch PDF gives 3 courses £125"
+  },
+  {
+    "name": "Maroush",
+    "outcome": "no deals",
+    "note": "maroush.com readable but the Maroush Express page is gone (404); the group's restaurant list no longer includes an Express branch. No offers on the site"
+  },
+  {
+    "name": "K-Town BBQ",
+    "outcome": "still unreadable",
+    "note": "k-townbbq.co.uk does not resolve; ktownbbq.co.uk is an unrelated gambling page. No operator site found"
+  },
+  {
+    "name": "Korean Grill Kensington",
+    "outcome": "moved",
+    "newUrl": "https://www.millenniumhotels.com/en/london/millennium-gloucester-hotel-london-kensington/korean-grill-kensington",
+    "note": "Domain forwards to the Millennium Gloucester hotel page. No dine-in offer; hotel offers are room rates"
+  },
+  {
+    "name": "Guacamoles",
+    "outcome": "no deals",
+    "note": "Site readable; no offers"
+  },
+  {
+    "name": "Kitchen Table",
+    "outcome": "no deals",
+    "note": "https://kitchentablelondon.co.uk/ readable; tasting menu only"
+  },
+  {
+    "name": "Ta'mini Lebanese Bakery",
+    "outcome": "still unreadable",
+    "note": "Only an Instagram link; Instagram cannot be read with curl"
+  },
+  {
+    "name": "Miga",
+    "outcome": "still unreadable",
+    "note": "Only an Instagram link"
+  },
+  {
+    "name": "Naru",
+    "outcome": "still unreadable",
+    "note": "Only an Instagram link"
+  },
+  {
+    "name": "Antepliler",
+    "outcome": "no deals",
+    "note": "Readable over http://anteplilerlondon.co.uk/ (https certificate expired); menus only, no offers"
+  },
+  {
+    "name": "The Life Goddess",
+    "outcome": "still unreadable",
+    "note": "Certificate error with and without www"
+  },
+  {
+    "name": "Berners Tavern",
+    "outcome": "no deals",
+    "note": "Readable; £25 chef-residency pie is a menu item, not a deal"
+  },
+  {
+    "name": "Brooklands",
+    "outcome": "still unreadable",
+    "note": "Page is a JS bundle; sitemap lists only the homepage"
+  },
+  {
+    "name": "Good Friend Chicken",
+    "outcome": "still unreadable",
+    "note": "jichickens.com: certificate error over https, 'domain connection not found' over http"
+  },
+  {
+    "name": "Din Tai Fung",
+    "outcome": "still unreadable",
+    "note": "Cloudflare challenge on every request"
+  },
+  {
+    "name": "Berenjak",
+    "outcome": "no deals",
+    "note": "Soho page readable; no set menu price or offer"
+  },
+  {
+    "name": "Redemption Roasters",
+    "outcome": "no deals",
+    "note": "Site readable; rewards and 15% off apply to online shop orders, not café visits"
+  },
+  {
+    "name": "Original Lahore Kebab House",
+    "outcome": "still unreadable",
+    "note": "Server answers 200 with an empty body"
+  },
+  {
+    "name": "Antipodea",
+    "outcome": "still unreadable",
+    "note": "antipodea.co.uk does not resolve; antipodea.com only redirects to a lander page"
+  },
+  {
+    "name": "Kateh",
+    "outcome": "still unreadable",
+    "note": "katehrestaurant.co.uk is an unconnected Wix domain"
+  },
+  {
+    "name": "Harrods Dining Hall",
+    "outcome": "still unreadable",
+    "note": "harrods.com Access Denied (Akamai)"
+  },
+  {
+    "name": "Goods Way",
+    "outcome": "still unreadable",
+    "note": "goodsway.co.uk does not resolve; no current site found"
+  },
+  {
+    "name": "Ding Tea",
+    "outcome": "still unreadable",
+    "note": "dingteahackney.co.uk is an unconnected Wix domain; dingtea.co.uk returns a WordPress error"
+  },
+  {
+    "name": "Min Tea",
+    "outcome": "still unreadable",
+    "note": "mintea.co.uk TLS handshake fails"
+  },
+  {
+    "name": "Jen Tea",
+    "outcome": "still unreadable",
+    "note": "jentea.co.uk is an unconnected Wix domain (jentea.com is an unrelated Taiwanese tea shop)"
+  },
+  {
+    "name": "Native Mayfair",
+    "outcome": "no deals",
+    "note": "nativeplaces.com readable; offers are room discounts; community sign-up mentions unspecified 'food & beverage offers'"
+  },
+  {
+    "name": "YHA London St Pancras",
+    "outcome": "no deals",
+    "note": "Readable; offers are booking discounts (10% off, student/16-26)"
+  },
+  {
+    "name": "COMO The Halkin",
+    "outcome": "still unreadable",
+    "note": "Cloudflare challenge"
+  },
+  {
+    "name": "London Marriott Hotel County Hall",
+    "outcome": "still unreadable",
+    "note": "marriott.com Access Denied"
+  },
+  {
+    "name": "ME London",
+    "outcome": "still unreadable",
+    "note": "melia.com Access Denied"
+  },
+  {
+    "name": "nhow London",
+    "outcome": "still unreadable",
+    "note": "nhow-hotels.com Access Denied"
+  },
+  {
+    "name": "Aloft London ExCeL",
+    "outcome": "still unreadable",
+    "note": "marriott.com Access Denied"
+  },
+  {
+    "name": "Holiday Inn Express London Greenwich Peninsula",
+    "outcome": "still unreadable",
+    "note": "ihg.com Access Denied"
+  },
+  {
+    "name": "The Megaro",
+    "outcome": "still unreadable",
+    "note": "themegarohotel.co.uk does not resolve; no current site found"
+  },
+  {
+    "name": "Six Senses London",
+    "outcome": "still unreadable",
+    "note": "sixsenses.com Access Denied"
+  },
+  {
+    "name": "Hyatt Regency London Olympia",
+    "outcome": "still unreadable",
+    "note": "hyatt.com block page (403)"
+  },
+  {
+    "name": "Four Seasons Hotel London at Park Lane",
+    "outcome": "still unreadable",
+    "note": "fourseasons.com Access Denied"
+  },
+  {
+    "name": "citizenM Tower of London",
+    "outcome": "still unreadable",
+    "note": "citizenm.com now redirects to marriott.com, which denies access"
+  },
+  {
+    "name": "Four Seasons Hotel London at Tower Bridge",
+    "outcome": "still unreadable",
+    "note": "fourseasons.com Access Denied"
+  },
+  {
+    "name": "St. James' Court, A Taj Hotel",
+    "outcome": "no deals",
+    "note": "Readable; TH@51 all-day dining described, no offer"
+  },
+  {
+    "name": "Premier Inn London County Hall",
+    "outcome": "deals",
+    "note": "Hotel page readable now (earlier timeouts); kids eat breakfast free"
+  },
+  {
+    "name": "Premier Inn London Wembley Stadium",
+    "outcome": "deals",
+    "note": "Kids eat breakfast free"
+  },
+  {
+    "name": "YHA London Central",
+    "outcome": "no deals",
+    "note": "Same YHA site; offers are booking discounts"
+  },
+  {
+    "name": "Wilde Aparthotels Covent Garden",
+    "outcome": "no deals",
+    "note": "Readable; offers are stay discounts"
+  },
+  {
+    "name": "Virgin Hotels London-Shoreditch",
+    "outcome": "no deals",
+    "note": "Readable; ROAST Shoreditch eat-drink page has no offer; room offers only"
+  },
+  {
+    "name": "hub by Premier Inn London Covent Garden",
+    "outcome": "no deals",
+    "note": "hub page readable; free tea and coffee for guests only"
+  },
+  {
+    "name": "St Pancras Renaissance Hotel London",
+    "outcome": "still unreadable",
+    "note": "marriott.com Access Denied"
+  },
+  {
+    "name": "Sanderson London",
+    "outcome": "still unreadable",
+    "note": "Connection refused with and without www"
+  },
+  {
+    "name": "Ruby Zoe Hotel London",
+    "outcome": "still unreadable",
+    "note": "ihg.com Access Denied"
+  },
+  {
+    "name": "Town Hall Hotel",
+    "outcome": "no deals",
+    "note": "Readable; special offers are stays"
+  },
+  {
+    "name": "The Zetter Townhouse Marylebone",
+    "outcome": "moved",
+    "newUrl": "https://thezetter.com/marylebone/",
+    "note": "thezettertownhouse.com now redirects to thezetter.com; Parlour page has no dine-in offer"
+  },
+  {
+    "name": "Staycity Aparthotels Dalston",
+    "outcome": "no deals",
+    "note": "Readable; offers are stay discounts"
+  },
+  {
+    "name": "Native Hyde Park",
+    "outcome": "no deals",
+    "note": "Readable; room offers only"
+  },
+  {
+    "name": "citizenM London Shoreditch",
+    "outcome": "still unreadable",
+    "note": "marriott.com Access Denied"
+  },
+  {
+    "name": "Redchurch Townhouse",
+    "outcome": "still unreadable",
+    "note": "sohohouse.com house page returns 404 (en-gb too); no other page found"
+  },
+  {
+    "name": "London Marriott Hotel Canary Wharf",
+    "outcome": "still unreadable",
+    "note": "marriott.com Access Denied"
+  },
+  {
+    "name": "Shangri-La The Shard, London",
+    "outcome": "still unreadable",
+    "note": "Dining page loads but content is client-rendered; nothing readable"
+  },
+  {
+    "name": "Premier Inn London Tower Bridge",
+    "outcome": "deals",
+    "note": "2 for 1 cocktails at The Social; this page does not carry the kids-breakfast line"
+  },
+  {
+    "name": "The London EDITION",
+    "outcome": "still unreadable",
+    "note": "editionhotels.com redirects to marriott.com, Access Denied. Berners Tavern (its restaurant) checked separately: no deals"
+  },
+  {
+    "name": "Endeavour",
+    "outcome": "still unreadable",
+    "note": "endeavourdeptford.co.uk does not resolve; no current site found"
+  },
+  {
+    "name": "Omeara",
+    "outcome": "still unreadable",
+    "note": "403 on every request"
+  },
+  {
+    "name": "Upstairs @ Ronnie’s",
+    "outcome": "no deals",
+    "note": "Upstairs page removed; ronniescotts.co.uk homepage readable and lists Upstairs gigs, no food or drink offer"
+  },
+  {
+    "name": "The Cavendish Arms",
+    "outcome": "still unreadable",
+    "note": "Domain shows a hosting company holding page; no current site found"
+  },
+  {
+    "name": "The Victoria",
+    "outcome": "moved",
+    "newUrl": "https://www.jaguarshoes.com/pages/the-victoria",
+    "note": "Venue page moved within jaguarshoes.com; gig listings only, no food or drink offer"
+  },
+  {
+    "name": "Tian Fu",
+    "outcome": "still unreadable",
+    "note": "tianfulondon.com does not resolve; no current site found"
+  },
+  {
+    "name": "Sollip",
+    "outcome": "moved",
+    "newUrl": "https://www.sollip.co.uk/",
+    "note": "Input URL was a developer page. sollip.co.uk: lunch menu and seven-course tasting, no prices on the page"
+  },
+  {
+    "name": "The George",
+    "outcome": "no deals",
+    "note": "thegeorge.london readable; quiz, sport and events, no priced offer"
+  },
+  {
+    "name": "Biju Bubble Tea Room",
+    "outcome": "still unreadable",
+    "note": "Squarespace site expired"
+  },
+  {
+    "name": "Monmouth Kitchen",
+    "outcome": "still unreadable",
+    "note": "thekitchensrestaurants.co.uk: TLS failure over https, Cloudflare DNS error over http"
+  },
+  {
+    "name": "Llama Inn",
+    "outcome": "moved",
+    "newUrl": "https://www.llamainnlondon.com/",
+    "note": "Input was the New York site; London site has set lunch, Sour Hour and £1 oysters (records written)"
+  },
+  {
+    "name": "Fairuz",
+    "outcome": "still unreadable",
+    "note": "fairuz.uk.com and fairuz.co.uk do not resolve"
+  },
+  {
+    "name": "Woo Tea",
+    "outcome": "still unreadable",
+    "note": "Google business.site page no longer exists; no operator site found"
+  },
+  {
+    "name": "Sabor Peruano",
+    "outcome": "no deals",
+    "note": "menu-world.com page readable (third-party menu site); no offers"
+  },
+  {
+    "name": "Kuya Fernando",
+    "outcome": "still unreadable",
+    "note": "bbventures.co.uk does not resolve"
+  },
+  {
+    "name": "Fishcotheque",
+    "outcome": "still unreadable",
+    "note": "thefishcotheque.com redirects to a domain-parking router"
+  },
+  {
+    "name": "Masters Superfish",
+    "outcome": "still unreadable",
+    "note": "business.site page gone; masterssuperfish.com redirects to an unrelated gambling site"
+  },
+  {
+    "name": "Sushi Tetsu",
+    "outcome": "still unreadable",
+    "note": "sushitetsu.co.uk times out with and without www"
+  }
+]
