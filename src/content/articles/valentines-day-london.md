@@ -144,6 +144,6 @@ More free viewpoints are in our [best views in London](/articles/best-views-lond
 
 ## The rest of February
 
-**[Things to do in London in February](/articles/things-to-do-in-london-in-february/)** has the whole month. **Chinese New Year** falls the weekend before, on Saturday 6 February; our [Chinese New Year guide](/articles/chinese-new-year-london/) has Chinatown's fortnight of celebrations.
+**[Things to do in London in February](/articles/things-to-do-in-london-in-february/)** has the whole month. **Chinese New Year** falls the weekend before, on Saturday 6 February; our [Chinese New Year guide](/articles/chinese-new-year-london/) has Chinatown's fortnight of celebrations. **Pancake Day** is the Tuesday before, 9 February, with races at Guildhall Yard and Leadenhall Market: see our [Pancake Day guide](/articles/pancake-day-london/). **Mothering Sunday** follows on 7 March; our [Mother's Day guide](/articles/mothers-day-london/) has when each table opens.
 
 <div data-submit-event></div>

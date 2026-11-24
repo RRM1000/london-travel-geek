@@ -63,7 +63,7 @@ The clocks also go forward on Easter Sunday, at 1am. The National Gallery closes
 
 ## Mothering Sunday — 7 March
 
-**Mothering Sunday is three weeks before Easter Sunday, so it falls on 7 March in 2027.** Afternoon tea is the usual booking, and the popular ones fill up weeks ahead; our [best afternoon tea guide](/articles/best-afternoon-tea-london/) has the options and the prices.
+**Mothering Sunday is three weeks before Easter Sunday, so it falls on 7 March in 2027.** Afternoon tea is the usual booking, and the popular ones fill up weeks ahead; our [best afternoon tea guide](/articles/best-afternoon-tea-london/) has the options and the prices. The Ritz's Mother's Day lunch, the Sunday roasts and the day each one opens bookings are in our [Mother's Day in London guide](/articles/mothers-day-london/).
 
 ## St Patrick's Day — festival on Sunday 14 March
 

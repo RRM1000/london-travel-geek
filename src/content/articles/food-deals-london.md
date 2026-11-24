@@ -140,4 +140,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 - 🍽️ **[Where to Eat in London](/articles/eat-in-london-guide/)**
 - 🎓 **[London Student Discounts](/articles/london-student-discounts/)**: theatre, cinema, gym and travel prices for students
 - 🎟️ **[London Deals This Month](/articles/london-deals-this-month/)**: theatre, museum, day-trip and travel offers for the month ahead
+- 🥂 **[January Restaurant Deals](/articles/january-restaurant-deals-london/)**: set lunches, Dry January and Veganuary offers
+- 🥞 **[Pancake Day in London](/articles/pancake-day-london/)**: races, pancakes and offers for Tuesday 9 February 2027
+- 💐 **[Mother's Day in London](/articles/mothers-day-london/)**: lunch, afternoon tea and when each table opens for Sunday 7 March 2027
 - 🧭 **[London on a Budget](/articles/london-on-a-budget/)**

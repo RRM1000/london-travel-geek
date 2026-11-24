@@ -41,7 +41,7 @@ February opens with Lunar New Year in Chinatown, puts England v France at Twicke
 | Fri 5 Feb | Ireland v England, Six Nations, in Dublin, 8.10pm | Away game |
 | Sat 6 Feb | Lunar New Year; the Lantern Festival follows on 20 Feb | Free |
 | Sun 7 Feb | Tim Walker's Fairyland closes at the National Portrait Gallery | £23 to £25 |
-| Tue 9 Feb | Shrove Tuesday (Pancake Day) | — |
+| Tue 9 Feb | Shrove Tuesday ([Pancake Day](/articles/pancake-day-london/)); Inter-Livery Pancake Race, Guildhall Yard, 12pm | Free |
 | Thu 11 Feb | Peter Blake: Pop Art Life opens at the National Portrait Gallery | £19 to £21 |
 | Fri 12 Feb | Late at Tate Britain, with The 90s open until 10pm | £22 |
 | Sun 14 Feb | Valentine's Day; England v France at Twickenham, 3.10pm; The 90s closes at Tate Britain | Ticketed |
@@ -60,6 +60,10 @@ February opens with Lunar New Year in Chinatown, puts England v France at Twicke
 ## Lunar New Year — from Saturday 6 February
 
 **Lunar New Year's Day falls on Saturday 6 February 2027**, the start of the Year of the Goat. [Chinatown London](https://chinatown.co.uk/en/experience/whats-on/chinese-new-year-in-chinatown/) covers the neighbourhood's celebrations, and the festival traditionally lasts 15 days, to the Lantern Festival on **20 February**, so the lanterns and the New Year menus overlap half term. Our [Chinese New Year in London guide](/articles/chinese-new-year-london/) covers the celebrations in full, and the [Soho and Chinatown walk](/articles/soho-chinatown-walk/) ends among the lanterns in Newport Place.
+
+## Pancake Day — Tuesday 9 February
+
+**Shrove Tuesday is 9 February 2027.** The City's livery companies race pancakes around Guildhall Yard from 12pm, free to watch, and the Lamb Tavern runs a relay through Leadenhall Market. The races, and where to eat pancakes and crêpes, are in our [Pancake Day in London guide](/articles/pancake-day-london/).
 
 ## Valentine's Day — Sunday 14 February
 

@@ -69,6 +69,9 @@ The offers ending soonest come first, then deals that run every day. Click one f
 - 🎓 **[London student discounts](/articles/london-student-discounts/)**: theatre seats from £5, £4 cinema tickets and 30% off Travelcards.
 - 🍜 **[Student restaurant discounts](/articles/student-discounts-london/)**: the percentage, the days and the ID each restaurant asks for.
 
-## Seasonal sales
+## Seasonal
 
 - 🛍️ **[Black Friday in London](/articles/black-friday-london/)**: which shops open late, the outlets, and the theatre deals already on sale.
+- 🥂 **[January restaurant deals](/articles/january-restaurant-deals-london/)**: set lunches, Dry January drinks and Veganuary offers for January 2027.
+- 🥞 **[Pancake Day in London](/articles/pancake-day-london/)**: the City pancake races on Tuesday 9 February 2027, and My Old Dutch's £7.50 Monday.
+- 💐 **[Mother's Day in London](/articles/mothers-day-london/)**: The Ritz's Mother's Day lunch, roasts and afternoon tea for Sunday 7 March 2027.

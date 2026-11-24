@@ -76,7 +76,7 @@ These ran in January 2026, on these terms. Watch the operators' sites in the fir
 
 ## Eating out in January 2027
 
-Our [food deals in London](/articles/food-deals-london/) page has every restaurant offer by day of the week, and the [restaurant deals](/articles/restaurant-deals-london/), [2-for-1 deals](/articles/two-for-one-deals-london/) and [cheap eats](/articles/cheap-eats-london/) pages go deeper. Two offers are built around winter:
+Our [food deals in London](/articles/food-deals-london/) page has every restaurant offer by day of the week, and the [restaurant deals](/articles/restaurant-deals-london/), [2-for-1 deals](/articles/two-for-one-deals-london/) and [cheap eats](/articles/cheap-eats-london/) pages go deeper. Our [January restaurant deals](/articles/january-restaurant-deals-london/) page has the set lunches, Dry January drinks and Veganuary restaurants for the month. Two offers are built around winter:
 
 - **[The Waterway](https://www.thewaterway.co.uk/winter-club)**, Little Venice: a free Winter Club card gives **15% off food Tuesday to Friday** and **two à la carte mains for the price of one on Sunday evenings**, at The Waterway and The Summerhouse, until 31 March 2027. It is not valid in December, so January is when it starts working again.
 - **[Las Iguanas](https://www.iguanas.co.uk/bottomless-brunch)**: the classic bottomless brunch, two hours of unlimited drinks with a brunch dish, is **from £39.95** and bookable from 1 January 2027.

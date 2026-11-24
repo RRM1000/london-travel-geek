@@ -240,6 +240,8 @@ National Rail's [Christmas and New Year page](https://www.nationalrail.co.uk/tra
 
 **Daylight.** Sunset is **4.01pm on 1 January**, **4.20pm on the 15th** and **4.47pm on the 31st**, with sunrise moving from 8.05am to 7.40am. The day lengthens from 7 hours 56 minutes to 9 hours 7 minutes over the month.
 
+**Eating out.** Set lunches, alcohol-free pubs for Dry January and vegan restaurants for Veganuary are on our [January restaurant deals](/articles/january-restaurant-deals-london/) page.
+
 **Crowds.** Schools are back by 4 January, and 1 January is the only bank holiday. The attractions that are open are quietest on weekdays after the first weekend.
 
 **Working out which month suits you best?** [Best time to visit London](/articles/best-time-to-visit-london/) compares January against the rest of the year, and [December's guide](/articles/things-to-do-in-london-in-december/) covers the month before. With children, see [London with children](/articles/london-with-children/).
