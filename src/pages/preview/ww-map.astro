@@ -1,0 +1,141 @@
+---
+// Prototype of the Winter Wonderland 3D map: Thrillville only. Not linked from any article yet.
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import data from "../../../data/winter-wonderland/map-2026.json";
+
+const TYPE_LABEL: Record<string, string> = {
+  ride: "Ride",
+  bar: "Bar",
+  food: "Food",
+  show: "Live music",
+  toilets: "Toilets",
+  entrance: "Entrance",
+  station: "Station",
+};
+const ORDER = ["ride", "food", "bar", "show", "toilets", "entrance", "station"];
+const items = [...data.items].sort(
+  (a, b) => ORDER.indexOf(a.type) - ORDER.indexOf(b.type) || a.name.localeCompare(b.name),
+);
+const CHIPS = [
+  ["ride", "Rides"],
+  ["food", "Food"],
+  ["bar", "Bars"],
+  ["show", "Shows"],
+  ["toilets", "Toilets"],
+  ["entrance", "Entrances"],
+];
+---
+
+<BaseLayout
+  title="Winter Wonderland map: Thrillville"
+  description="Interactive map of Thrillville at Hyde Park Winter Wonderland 2026."
+  noindex
+>
+  <section class="section">
+    <div class="container wwmap-page">
+      <h1>Map of Winter Wonderland 2026: Thrillville</h1>
+      <p>
+        Every ride, bar, food stop and toilet block in Thrillville, the thrill-ride zone by the Red Gate.
+        Tap anything for its price and height limit. The layout follows the <a href={data.source}>official event map</a> and is not to scale.
+      </p>
+
+      <div class="wwmap" data-wwmap>
+        <div class="wwmap__tools">
+          <label class="wwmap__search">
+            <span class="sr-only">Search the map</span>
+            <input type="search" placeholder="Search, e.g. Hangover" data-wwmap-search autocomplete="off" />
+          </label>
+          <div class="wwmap__chips" role="group" aria-label="Show only">
+            {CHIPS.map(([type, label]) => (
+              <button type="button" class={`wwmap__chip wwmap__chip--${type}`} data-wwmap-chip={type} aria-pressed="false">
+                {label}
+              </button>
+            ))}
+          </div>
+        </div>
+
+        <div class="wwmap__stage" data-wwmap-stage hidden>
+          <div class="wwmap__canvas" data-wwmap-canvas></div>
+          <div class="wwmap__buttons">
+            <button type="button" class="wwmap__btn" data-wwmap-tilt aria-pressed="false">Tilt to 3D</button>
+            <button type="button" class="wwmap__btn" data-wwmap-reset>Reset view</button>
+          </div>
+          <div class="wwmap__popup" data-wwmap-popup role="dialog" aria-live="polite" hidden></div>
+        </div>
+
+        <div class="wwmap__list">
+          <h2 class="wwmap__list-heading">Everything in Thrillville</h2>
+          <ul data-wwmap-list>
+            {items.map((it) => (
+              <li class="wwmap__item" data-id={it.id} data-type={it.type} data-search={`${it.name} ${TYPE_LABEL[it.type]} ${it.zone} ${it.note || ""}`.toLowerCase()}>
+                <button type="button" class="wwmap__item-btn" data-wwmap-pick={it.id}>
+                  <span class={`wwmap__dot wwmap__dot--${it.type}`} aria-hidden="true"></span>
+                  <span class="wwmap__item-name">{it.name}</span>
+                  <span class="wwmap__item-type">{TYPE_LABEL[it.type]}</span>
+                </button>
+                <div class="wwmap__item-body">
+                  {it.note && <p>{it.note}</p>}
+                  {it.price && <p><strong>Price:</strong> {it.price}</p>}
+                  {it.fastTrack && <p><strong>Fast-track:</strong> {it.fastTrack}</p>}
+                  {it.height && <p><strong>Height:</strong> {it.height}</p>}
+                  {it.facilities && <p>{it.facilities.join(" · ")}</p>}
+                  <p class="wwmap__zone">Zone: {it.zone}{it.url && <> · <a href={it.url}>Official page</a></>}</p>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+      <script type="application/json" data-wwmap-data set:html={JSON.stringify({ ...data, typeLabel: TYPE_LABEL })} />
+    </div>
+  </section>
+  <script is:inline type="module" src="/ww-map.js"></script>
+</BaseLayout>
+
+<style>
+  .wwmap-page h1 { margin-bottom: 0.5rem; }
+  .wwmap-page > p { max-width: 44rem; }
+  .wwmap { --ride: #d6392f; --food: #f2a93b; --bar: #1d4e89; --show: #8a4fb0; --toilets: #2f7d6b; --entrance: #0e1b2c; --station: #5a6a7d;
+    display: grid; gap: 1rem; margin-top: 1.25rem; }
+  .wwmap__tools { display: grid; gap: 0.6rem; }
+  .wwmap__search input { width: 100%; font: inherit; padding: 0.6rem 0.8rem; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--surface); color: var(--ink); }
+  .wwmap__chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .wwmap__chip { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.8rem; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .wwmap__chip::before { content: ""; display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 50%; margin-right: 0.4rem; background: var(--c); }
+  .wwmap__chip--ride { --c: var(--ride); } .wwmap__chip--food { --c: var(--food); } .wwmap__chip--bar { --c: var(--bar); }
+  .wwmap__chip--show { --c: var(--show); } .wwmap__chip--toilets { --c: var(--toilets); } .wwmap__chip--entrance { --c: var(--entrance); }
+  .wwmap__chip[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+  .wwmap__stage { position: relative; height: min(70vh, 640px); min-height: 380px; border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: #dfe8d6; touch-action: none; }
+  .wwmap__canvas, .wwmap__canvas :global(canvas) { width: 100%; height: 100%; display: block; }
+  .wwmap__buttons { position: absolute; top: 0.6rem; right: 0.6rem; display: flex; gap: 0.4rem; }
+  .wwmap__btn { font: inherit; font-size: 0.85rem; padding: 0.4rem 0.75rem; border-radius: var(--radius-sm); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; box-shadow: var(--shadow-sm); }
+  .wwmap__btn[aria-pressed="true"] { background: var(--ink); color: var(--surface); }
+  .wwmap__popup { position: absolute; left: 0.6rem; right: 0.6rem; bottom: 0.6rem; max-width: 24rem; max-height: 55%; overflow: auto; padding: 0.8rem 2.4rem 0.8rem 0.9rem; border-radius: var(--radius-md); background: var(--surface); color: var(--ink); box-shadow: var(--shadow-md); font-size: 0.92rem; }
+  .wwmap__popup :global(h3) { margin: 0 0 0.2rem; font-size: 1.05rem; }
+  .wwmap__popup :global(p) { margin: 0.25rem 0; }
+  .wwmap__popup :global(.wwmap__close) { position: absolute; top: 0.4rem; right: 0.4rem; width: 2rem; height: 2rem; border: 0; background: none; font-size: 1.3rem; cursor: pointer; color: var(--muted); }
+  .wwmap__popup :global(.wwmap__kind) { color: var(--muted); font-size: 0.85rem; }
+  .wwmap__list-heading { font-size: 1.1rem; margin: 0 0 0.4rem; }
+  .wwmap__list ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+  .wwmap__item { border-bottom: 1px solid var(--line); }
+  .wwmap__item[hidden] { display: none; }
+  .wwmap__item-btn { display: flex; align-items: center; gap: 0.5rem; width: 100%; padding: 0.6rem 0.2rem; font: inherit; text-align: left; background: none; border: 0; color: var(--ink); cursor: pointer; }
+  .wwmap__item-name { font-weight: 600; flex: 1; }
+  .wwmap__item-type { color: var(--muted); font-size: 0.85rem; }
+  .wwmap__item-body { padding: 0 0.2rem 0.6rem 1.3rem; font-size: 0.92rem; }
+  .wwmap__item-body p { margin: 0.2rem 0; }
+  .wwmap__zone { color: var(--muted); }
+  .wwmap__item.is-active { background: var(--surface-strong); }
+  .wwmap__dot { width: 0.7rem; height: 0.7rem; border-radius: 50%; flex: none; background: var(--c); }
+  .wwmap__dot--ride { --c: var(--ride); } .wwmap__dot--food { --c: var(--food); } .wwmap__dot--bar { --c: var(--bar); }
+  .wwmap__dot--show { --c: var(--show); } .wwmap__dot--toilets { --c: var(--toilets); } .wwmap__dot--entrance { --c: var(--entrance); } .wwmap__dot--station { --c: var(--station); }
+  /* With the 3D map running, the list collapses to names; the details show in the popup. */
+  .wwmap.is-live .wwmap__item-body { display: none; }
+  .wwmap.is-live .wwmap__item.is-active .wwmap__item-body { display: block; }
+  @media (min-width: 60rem) {
+    .wwmap.is-live { grid-template-columns: minmax(0, 1fr) 20rem; grid-template-areas: "tools tools" "stage list"; }
+    .wwmap.is-live .wwmap__tools { grid-area: tools; }
+    .wwmap.is-live .wwmap__stage { grid-area: stage; }
+    .wwmap.is-live .wwmap__list { grid-area: list; max-height: 640px; overflow: auto; }
+  }
+</style>

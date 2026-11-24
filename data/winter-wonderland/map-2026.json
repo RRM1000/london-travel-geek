@@ -1,0 +1,392 @@
+{
+  "event": "Hyde Park Winter Wonderland 2026",
+  "scope": "Prototype: Thrillville only",
+  "source": "https://hydeparkwinterwonderland.com/map/",
+  "checked": "2026-11-24",
+  "aspect": 0.70475,
+  "zones": [
+    {
+      "id": "thrillville",
+      "name": "Thrillville",
+      "outline": [
+        [
+          0.4216,
+          0.3238
+        ],
+        [
+          0.6138,
+          0.3098
+        ],
+        [
+          0.7084,
+          0.442
+        ],
+        [
+          0.7268,
+          0.5388
+        ],
+        [
+          0.7451,
+          0.6355
+        ],
+        [
+          0.7524,
+          0.7
+        ],
+        [
+          0.7237,
+          0.6742
+        ],
+        [
+          0.6138,
+          0.6484
+        ],
+        [
+          0.4551,
+          0.6548
+        ],
+        [
+          0.4521,
+          0.6269
+        ],
+        [
+          0.4155,
+          0.5388
+        ],
+        [
+          0.3941,
+          0.485
+        ],
+        [
+          0.3697,
+          0.442
+        ],
+        [
+          0.3422,
+          0.4248
+        ],
+        [
+          0.3392,
+          0.4033
+        ],
+        [
+          0.3727,
+          0.3947
+        ],
+        [
+          0.4216,
+          0.3238
+        ]
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "giant-wheel",
+      "name": "The Giant Wheel",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.469,
+      "y": 0.3609,
+      "w": 0.02,
+      "h": 0.012,
+      "height3d": 70,
+      "note": "70m observation wheel. 10-minute flights, sessions 10:00 to 21:30.",
+      "price": "Adult £8.80 off-peak, £9.90 standard, £12.10 peak (advance). Child £6.60 to £9.90. Family £26.40 to £39.60. Private pod for up to six £46.20 to £61.60.",
+      "fastTrack": "+£5.50 adult, +£3.30 child",
+      "height": "No height restriction",
+      "url": "https://hydeparkwinterwonderland.com/attraction/the-giant-wheel/"
+    },
+    {
+      "id": "munich-looping",
+      "name": "Munich Looping",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.5151,
+      "y": 0.432,
+      "url": "https://hydeparkwinterwonderland.com/ride/munich-looping/",
+      "w": 0.2289,
+      "h": 0.0698,
+      "height3d": 35,
+      "note": "Five-loop rollercoaster.",
+      "price": "£12.00 advance, £12.50 on the day",
+      "fastTrack": "£15.00",
+      "height": "1.3m to 1.95m; under 1.4m with an adult. Age 8+."
+    },
+    {
+      "id": "aeronaut-starflyer",
+      "name": "Aeronaut Starflyer",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.3693,
+      "y": 0.4328,
+      "url": "https://hydeparkwinterwonderland.com/ride/aeronaut-starflyer/",
+      "w": 0.02,
+      "h": 0.012,
+      "height3d": 80,
+      "note": "80m swing ride.",
+      "price": "£8.80 advance, £9.00 on the day",
+      "fastTrack": "£12.10",
+      "height": "1.2m+; under 1.3m with an adult"
+    },
+    {
+      "id": "the-hangover",
+      "name": "The Hangover",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.5159,
+      "y": 0.6125,
+      "url": "https://hydeparkwinterwonderland.com/ride/the-hangover/",
+      "w": 0.018,
+      "h": 0.012,
+      "height3d": 85,
+      "note": "85m drop tower.",
+      "price": "£9.50",
+      "fastTrack": "£13.00",
+      "height": "1.4m+"
+    },
+    {
+      "id": "the-xxl",
+      "name": "The XXL",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.5604,
+      "y": 0.5285,
+      "url": "https://hydeparkwinterwonderland.com/ride/the-xxl/",
+      "w": 0.0458,
+      "h": 0.0301,
+      "height3d": 47,
+      "note": "Pendulum ride, swings to 47m.",
+      "price": "£8.50",
+      "fastTrack": "£12.00",
+      "height": "1.4m+"
+    },
+    {
+      "id": "blizzard",
+      "name": "Blizzard",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.5906,
+      "y": 0.5616,
+      "url": "https://hydeparkwinterwonderland.com/ride/blizzard/",
+      "w": 0.022,
+      "h": 0.014,
+      "height3d": 20,
+      "note": "Spins 360 degrees.",
+      "price": "£9.90 advance, £10.00 on the day",
+      "fastTrack": "£13.20",
+      "height": "1.4m+"
+    },
+    {
+      "id": "airborne",
+      "name": "Airborne",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.4362,
+      "y": 0.554,
+      "url": "https://hydeparkwinterwonderland.com/ride/airborne/",
+      "w": 0.0351,
+      "h": 0.0301,
+      "height3d": 65,
+      "note": "Flips and rolls 65m up.",
+      "price": "£8.80 advance, £9.00 on the day",
+      "fastTrack": "£12.10",
+      "height": "1.4m+"
+    },
+    {
+      "id": "euro-coaster",
+      "name": "Euro Coaster",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.625,
+      "y": 0.6001,
+      "url": "https://hydeparkwinterwonderland.com/ride/euro-coaster/",
+      "w": 0.0732,
+      "h": 0.0645,
+      "height3d": 14,
+      "note": "Suspended coaster on a 370m track.",
+      "price": "Adult £7.50; child £5.50 advance, £6.00 on the day",
+      "fastTrack": "",
+      "height": "1.2m+"
+    },
+    {
+      "id": "haunted-mansion",
+      "name": "Haunted Mansion",
+      "type": "ride",
+      "zone": "Thrillville",
+      "x": 0.6602,
+      "y": 0.4475,
+      "url": "https://hydeparkwinterwonderland.com/ride/haunted-mansion/",
+      "w": 0.0412,
+      "h": 0.0398,
+      "height3d": 10,
+      "note": "Walk-through scare attraction.",
+      "price": "Adult £7.50; child £5.50 advance, £6.00 on the day",
+      "fastTrack": "",
+      "height": "1m+"
+    },
+    {
+      "id": "apres-ski-party-resort",
+      "name": "Après-Ski Party Resort",
+      "type": "bar",
+      "zone": "Thrillville",
+      "x": 0.5833,
+      "y": 0.3285,
+      "w": 0.0519,
+      "h": 0.0248,
+      "height3d": 9,
+      "note": "Alpine-style bar with live DJs, mulled wine, beer and bratwurst. Free to walk in.",
+      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/apres-ski-party-resort/"
+    },
+    {
+      "id": "thors-tipi-bar",
+      "name": "Thor's Tipi Bar",
+      "type": "bar",
+      "zone": "Thrillville",
+      "x": 0.6984,
+      "y": 0.4947,
+      "w": 0.029,
+      "h": 0.0387,
+      "height3d": 9,
+      "note": "Free to walk in.",
+      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/thors-tipi-bar/"
+    },
+    {
+      "id": "carousel-bar",
+      "name": "Carousel Bar",
+      "type": "bar",
+      "zone": "Show Town",
+      "x": 0.5549,
+      "y": 0.6334,
+      "w": 0.0534,
+      "h": 0.0387,
+      "height3d": 8,
+      "note": "A working carousel that doubles as a bar. Free to walk in.",
+      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/carousel-bar/"
+    },
+    {
+      "id": "street-food-village",
+      "name": "Street Food Village",
+      "type": "food",
+      "zone": "Thrillville",
+      "x": 0.5131,
+      "y": 0.384,
+      "w": 0.1007,
+      "h": 0.0495,
+      "height3d": 4,
+      "note": "Street food stalls. Traders on the official map here: After School Cookie Club, Bad Boy Pizza Society, Bang Bang Burger, Chocofruit, Chulo Momo, Crumbled London, Curry on Naan Stop, Duck Shed, Hide & Greek, Japanese Chicken Shop, Meathead Mexican, Stakehaus, The Mac Factory, YouBao.",
+      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/street-food-village/"
+    },
+    {
+      "id": "we-are-melt",
+      "name": "We Are Melt",
+      "type": "food",
+      "zone": "Thrillville",
+      "x": 0.4035,
+      "y": 0.4369,
+      "w": 0.012,
+      "h": 0.008,
+      "height3d": 4,
+      "note": "Street food stall."
+    },
+    {
+      "id": "other-side-fried",
+      "name": "Other Side Fried",
+      "type": "food",
+      "zone": "Thrillville",
+      "x": 0.6506,
+      "y": 0.5712,
+      "w": 0.012,
+      "h": 0.008,
+      "height3d": 4,
+      "note": "Street food stall.",
+      "url": "https://hydeparkwinterwonderland.com/vendor/other-side-fried/"
+    },
+    {
+      "id": "music-apres-ski",
+      "name": "Live music: Après-Ski Party Resort",
+      "type": "show",
+      "zone": "Thrillville",
+      "x": 0.6,
+      "y": 0.3283,
+      "w": 0.01,
+      "h": 0.008,
+      "height3d": 3,
+      "note": "Live DJs. Free with entry.",
+      "url": "https://hydeparkwinterwonderland.com/live-music-line-up/"
+    },
+    {
+      "id": "music-carousel",
+      "name": "Live music by the Carousel Bar",
+      "type": "show",
+      "zone": "Show Town",
+      "x": 0.5553,
+      "y": 0.6375,
+      "w": 0.01,
+      "h": 0.008,
+      "height3d": 3,
+      "note": "Free with entry.",
+      "url": "https://hydeparkwinterwonderland.com/live-music-line-up/"
+    },
+    {
+      "id": "toilets-east",
+      "name": "Toilets (east side)",
+      "type": "toilets",
+      "zone": "Thrillville",
+      "x": 0.708,
+      "y": 0.5511,
+      "w": 0.02,
+      "h": 0.03,
+      "height3d": 3,
+      "facilities": [
+        "Toilets",
+        "Accessible toilet",
+        "Gender-neutral toilets",
+        "Baby changing"
+      ]
+    },
+    {
+      "id": "toilets-south",
+      "name": "Toilets (south side)",
+      "type": "toilets",
+      "zone": "Thrillville",
+      "x": 0.6321,
+      "y": 0.6601,
+      "w": 0.04,
+      "h": 0.02,
+      "height3d": 3,
+      "facilities": [
+        "Toilets",
+        "Changing Places toilet",
+        "Gender-neutral toilets",
+        "Baby changing"
+      ]
+    },
+    {
+      "id": "red-gate",
+      "name": "Red Gate",
+      "type": "entrance",
+      "zone": "Park edge, east",
+      "x": 0.617,
+      "y": 0.287,
+      "w": 0.06,
+      "h": 0.006,
+      "height3d": 8,
+      "note": "Closest stations: Bond Street and Marble Arch. Opens onto Santa Land and Thrillville.",
+      "url": "https://hydeparkwinterwonderland.com/getting-here/"
+    },
+    {
+      "id": "station-marble-arch",
+      "name": "Bond Street and Marble Arch stations",
+      "type": "station",
+      "zone": "Outside the park",
+      "x": 0.56,
+      "y": 0.12,
+      "w": 0.02,
+      "h": 0.01,
+      "height3d": 2,
+      "note": "Nearest stations to the Red Gate. Marble Arch is closer but busier and can close when crowds build. Bond Street has lifts.",
+      "url": "https://hydeparkwinterwonderland.com/getting-here/"
+    }
+  ]
+}
