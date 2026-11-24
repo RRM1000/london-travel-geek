@@ -23,10 +23,10 @@ const CHIPS = [
 ];
 const lineName = (id: string) => (data.lines as Record<string, { name: string; colour: string }>)[id].name;
 const dotColour = (it: Item) =>
-  it.status === "closed" ? "#c2410c"
+  it.status === "closed" ? "#a3abb5"
   : it.kind === "platform" ? (data.lines as any)[it.line].colour
-  : it.stepFree ? "#0f766e"
-  : it.kind === "exit" ? "#1f2937" : "#55606e";
+  : it.stepFree ? "#0f9488"
+  : it.kind === "exit" ? "#1f2a44" : "#55606e";
 const typeText = (it: Item) =>
   it.kind === "exit" ? `Entrance ${it.letter}` : it.kind === "route" ? MODE_LABEL[it.mode] : it.kind === "hall" ? "Ticket hall" : "Platforms";
 ---
@@ -42,7 +42,7 @@ const typeText = (it: Item) =>
       <p>
         Bank and Monument are one station complex with {items.filter((it) => it.kind === "exit").length} street entrances and six lines: the Central, Northern
         and Waterloo &amp; City lines and the DLR at Bank, and the District and Circle lines at Monument. The DLR
-        platforms are the deepest, about 41 m below the street. Tap anything for its lines and whether it is step-free.
+        platforms are the deepest, about 41 m below the street. Pick a start and an end to see the way through, or tap anything on the map for its lines and whether it is step-free.
       </p>
       <div class="stmap-warn">
         <p><strong>Northern line to District and Circle: closed until early 2027.</strong> Escalators 4 and 5 between the
@@ -56,6 +56,25 @@ const typeText = (it: Item) =>
       </p>
 
       <div class="stmap" data-stmap>
+        <form class="stmap__picker" data-stmap-picker hidden onsubmit="return false">
+          <h2 class="stmap__picker-heading">Find your way through the station</h2>
+          <div class="stmap__picker-row">
+            <label class="stmap__field">
+              <span>From</span>
+              <select data-stmap-from></select>
+            </label>
+            <button type="button" class="stmap__swap" data-stmap-swap aria-label="Swap from and to">⇄</button>
+            <label class="stmap__field">
+              <span>To</span>
+              <select data-stmap-to></select>
+            </label>
+          </div>
+          <div class="stmap__picker-row stmap__picker-row--opts">
+            <label class="stmap__check"><input type="checkbox" data-stmap-stepfree /> Step-free only</label>
+            <button type="button" class="stmap__clear" data-stmap-clear hidden>Clear route</button>
+          </div>
+        </form>
+
         <div class="stmap__tools">
           <label class="stmap__search">
             <span class="sr-only">Search the map</span>
@@ -76,16 +95,20 @@ const typeText = (it: Item) =>
               <button type="button" class="stmap__btn" data-stmap-reset>Reset view</button>
             </div>
             <div class="stmap__popup" data-stmap-popup role="dialog" aria-live="polite" hidden></div>
+            <p class="stmap__credit">Streets <a href={data.street.creditUrl}>{data.street.credit}</a></p>
           </div>
           <ul class="stmap__key" aria-label="Key">
-            <li><span class="stmap__swatch" style="--c:#1f2937"></span>Entrance</li>
-            <li><span class="stmap__swatch" style="--c:#0f766e"></span>Step-free lift or route</li>
-            <li><span class="stmap__swatch" style="--c:#55606e"></span>Escalators</li>
+            <li><span class="stmap__swatch" style="--c:#1f2a44"></span>Entrance</li>
+            <li><span class="stmap__swatch" style="--c:#0f9488"></span>Lift or step-free entrance</li>
+            <li><span class="stmap__swatch" style="--c:#4b5563"></span>Escalators</li>
             <li><span class="stmap__swatch" style="--c:#7c3aed"></span>Moving walkways</li>
-            <li><span class="stmap__swatch" style="--c:#c2410c"></span>Closed</li>
+            <li><span class="stmap__swatch" style="--c:#a47a3d"></span>Stairs</li>
+            <li><span class="stmap__swatch" style="--c:#a3abb5"></span>Closed</li>
+            <li><span class="stmap__swatch" style="--c:#f59e0b"></span>Your route</li>
           </ul>
           <p class="stmap__hint">Drag to turn, pinch or scroll to zoom. Depths are exaggerated and the layout is a guide, not to scale.</p>
         </div>
+        <div class="stmap__route" data-stmap-route aria-live="polite" hidden></div>
 
         <div class="stmap__list">
           {SECTIONS.map(([heading, test]) => {
@@ -118,7 +141,8 @@ const typeText = (it: Item) =>
       <p class="stmap-fresh">
         <em>Drawn from TfL's <a href={data.sources.stationData}>station data</a>, its <a href={data.sources.stepFreeGuide}>step-free Tube guide</a>
         and its <a href={data.sources.layout}>2023 station layout</a>, as of {new Date(data.checked).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}.
-        Lifts can be out of service: check <a href={data.sources.stationPage}>TfL's Bank page</a> on the day.</em>
+        Lifts can be out of service: check <a href={data.sources.stationPage}>TfL's Bank page</a> on the day.
+        Street map <a href={data.street.creditUrl}>{data.street.credit}</a>.</em>
       </p>
       <script type="application/json" data-stmap-data set:html={JSON.stringify(data)} />
     </div>
@@ -133,43 +157,92 @@ const typeText = (it: Item) =>
   .stmap-warn p { margin: 0; }
   .stmap-fresh { color: var(--muted); font-size: 0.9rem; margin-top: 1.5rem; }
   .stmap { display: grid; gap: 1rem; margin-top: 1.25rem; }
+
+  /* Route picker */
+  .stmap__picker { display: grid; gap: 0.6rem; padding: 0.9rem 1rem 1rem; border-radius: var(--radius-md); background: var(--surface-strong, #f3f4f6); border: 1px solid var(--line); }
+  .stmap__picker[hidden] { display: none; }
+  .stmap__picker-heading { font-size: 1.05rem; margin: 0; }
+  .stmap__picker-row { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 0.5rem; align-items: end; }
+  .stmap__picker-row--opts { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; }
+  .stmap__field { display: grid; gap: 0.2rem; font-size: 0.82rem; font-weight: 600; color: var(--muted); min-width: 0; }
+  .stmap__field select { width: 100%; min-width: 0; font: inherit; font-size: 0.95rem; font-weight: 500; color: var(--ink); padding: 0.55rem 0.6rem; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--surface); }
+  .stmap__swap { font: inherit; font-size: 1.1rem; width: 2.4rem; height: 2.4rem; border-radius: 50%; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .stmap__check { display: inline-flex; align-items: center; gap: 0.45rem; font-weight: 600; cursor: pointer; }
+  .stmap__check input { width: 1.15rem; height: 1.15rem; accent-color: #0f9488; }
+  .stmap__clear { font: inherit; font-size: 0.88rem; padding: 0.35rem 0.8rem; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .stmap__clear[hidden] { display: none; }
+  @media (max-width: 30rem) {
+    .stmap__picker-row { grid-template-columns: minmax(0, 1fr) auto; }
+    .stmap__picker-row .stmap__field:first-child { grid-column: 1; }
+    .stmap__swap { grid-row: 1 / span 2; grid-column: 2; align-self: center; }
+    .stmap__picker-row .stmap__field:last-child { grid-column: 1; grid-row: 2; }
+  }
+
+  /* Route steps */
+  .stmap__route { padding: 0.9rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--line); border-left: 4px solid #f59e0b; background: var(--surface); }
+  .stmap__route[hidden] { display: none; }
+  .stmap__route :global(.stmap__route-title) { font-size: 1.05rem; margin: 0 0 0.5rem; display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+  .stmap__route :global(.stmap__route-sf) { font-size: 0.75rem; font-weight: 700; color: #fff; background: #0f9488; padding: 0.15rem 0.5rem; border-radius: 999px; }
+  .stmap__route :global(.stmap__route-msg) { margin: 0; font-weight: 600; }
+  .stmap__route :global(.stmap__route-closed) { margin: 0.5rem 0 0; font-size: 0.92rem; }
+  .stmap__route :global(.stmap__steps) { list-style: none; counter-reset: step; margin: 0; padding: 0; }
+  .stmap__route :global(.stmap__step) { counter-increment: step; position: relative; padding: 0.15rem 0 0.55rem 2.2rem; }
+  .stmap__route :global(.stmap__step::before) { content: counter(step); position: absolute; left: 0; top: 0.05rem; width: 1.55rem; height: 1.55rem; border-radius: 50%; display: grid; place-items: center; font-size: 0.8rem; font-weight: 700; color: #fff; background: var(--c, #4b5563); }
+  .stmap__route :global(.stmap__step:not(:last-child)::after) { content: ""; position: absolute; left: 0.74rem; top: 1.7rem; bottom: 0.1rem; width: 2px; background: #f59e0b; opacity: 0.6; }
+  .stmap__route :global(.stmap__step--exit) { --c: #1f2a44; }
+  .stmap__route :global(.stmap__step--lift), .stmap__route :global(.stmap__step--street) { --c: #0f9488; }
+  .stmap__route :global(.stmap__step--escalator) { --c: #4b5563; }
+  .stmap__route :global(.stmap__step--travelator) { --c: #7c3aed; }
+  .stmap__route :global(.stmap__step--stairs) { --c: #a47a3d; }
+  .stmap__route :global(.stmap__step--passage) { --c: #6b7280; }
+  .stmap__route :global(.stmap__route-note) { margin-top: 0.4rem; font-size: 0.9rem; }
+  .stmap__route :global(.stmap__route-note p) { margin: 0 0 0.2rem; }
+  .stmap__route :global(.stmap__route-note ul) { margin: 0; padding-left: 1.1rem; }
+
+  /* Search and filters */
   .stmap__tools { display: grid; gap: 0.6rem; }
   .stmap__search input { width: 100%; font: inherit; padding: 0.6rem 0.8rem; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--surface); color: var(--ink); }
   .stmap__chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
   .stmap__chip { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.8rem; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
   .stmap__chip[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
-  .stmap__stage { position: relative; height: min(72vh, 660px); min-height: 420px; border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: #eef1f4; touch-action: none; }
+
+  /* Stage: a sky-to-earth backdrop behind a transparent canvas. */
+  .stmap__stage { position: relative; height: min(74vh, 680px); min-height: 440px; border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: linear-gradient(180deg, #e9eef4 0%, #dfe5ec 38%, #c9cfd6 70%, #aeb4bb 100%); touch-action: none; }
   .stmap__canvas, .stmap__canvas :global(canvas) { width: 100%; height: 100%; display: block; }
   .stmap__buttons { position: absolute; top: 0.6rem; right: 0.6rem; display: flex; gap: 0.4rem; z-index: 2; }
-  .stmap__btn { font: inherit; font-size: 0.85rem; padding: 0.4rem 0.75rem; border-radius: var(--radius-sm); border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; box-shadow: var(--shadow-sm); }
-  .stmap__btn[aria-pressed="true"] { background: var(--ink); color: var(--surface); }
+  .stmap__btn { font: inherit; font-size: 0.85rem; padding: 0.4rem 0.75rem; border-radius: 999px; border: 1px solid var(--line-strong); background: rgb(255 255 255 / 0.92); color: #111827; cursor: pointer; box-shadow: var(--shadow-sm); }
+  .stmap__btn[aria-pressed="true"] { background: #111827; color: #fff; }
+  .stmap__credit { position: absolute; right: 0.4rem; bottom: 0.3rem; margin: 0; font-size: 0.68rem; color: #374151; background: rgb(255 255 255 / 0.7); padding: 0.05rem 0.35rem; border-radius: 3px; z-index: 2; }
+  .stmap__credit a { color: inherit; }
   .stmap__key { list-style: none; display: flex; flex-wrap: wrap; gap: 0.3rem 1rem; margin: 0.5rem 0 0; padding: 0; font-size: 0.85rem; color: var(--muted); }
   .stmap__swatch { display: inline-block; width: 0.75rem; height: 0.75rem; border-radius: 3px; background: var(--c); margin-right: 0.35rem; vertical-align: -0.05rem; }
   .stmap__hint { font-size: 0.85rem; color: var(--muted); margin: 0.3rem 0 0; }
 
   /* Labels are drawn by the script; global because they are created at runtime. */
   .stmap__stage :global(.stmap__labels) { position: absolute; inset: 0; pointer-events: none; overflow: hidden; z-index: 1; }
-  .stmap__stage :global(.stmap__label) { position: absolute; left: 0; top: 0; white-space: nowrap; font: 600 12px/1.25 var(--body, system-ui, sans-serif); color: #111827; background: rgb(255 255 255 / 0.94); padding: 2px 6px; border-radius: 4px; border: 1px solid rgb(17 24 39 / 0.14); box-shadow: 0 1px 2px rgb(17 24 39 / 0.12); }
-  .stmap__stage :global(.stmap__label--platform) { color: #fff; background: var(--c); border-color: transparent; font-size: 12.5px; }
-  .stmap__stage :global(.stmap__label--exit) { display: inline-flex; align-items: center; gap: 4px; padding: 1px 6px 1px 1px; }
-  .stmap__stage :global(.stmap__label--exit b) { display: inline-grid; place-items: center; min-width: 17px; height: 17px; border-radius: 3px; background: #1f2937; color: #fff; font-size: 11px; }
-  .stmap__stage :global(.stmap__label--exit.is-stepfree b) { background: #0f766e; }
-  .stmap__stage :global(.stmap__label--exit.is-compact) { padding: 1px; }
+  .stmap__stage :global(.stmap__label) { position: absolute; left: 0; top: 0; display: inline-flex; align-items: center; gap: 0.3rem; height: 22px; padding: 0 0.55rem; border-radius: 999px; white-space: nowrap; font: 600 12px/1 var(--body, system-ui, sans-serif); color: #111827; background: rgb(255 255 255 / 0.93); box-shadow: 0 1px 3px rgb(17 24 39 / 0.28); will-change: transform; }
+  .stmap__stage :global(.stmap__label--platform) { color: #fff; background: var(--c); font-size: 12.5px; box-shadow: 0 1px 3px rgb(17 24 39 / 0.35), inset 0 0 0 1px rgb(255 255 255 / 0.25); }
+  .stmap__stage :global(.stmap__label--exit) { padding: 0 0.5rem 0 3px; border-radius: 5px; }
+  .stmap__stage :global(.stmap__label--exit b) { display: inline-grid; place-items: center; min-width: 17px; height: 17px; border-radius: 3px; background: #1f2a44; color: #fff; font-size: 11px; }
+  .stmap__stage :global(.stmap__label--exit.is-stepfree b) { background: #0f9488; }
+  .stmap__stage :global(.stmap__label--exit.is-compact) { padding: 0 3px; }
   .stmap__stage :global(.stmap__label--exit.is-compact i) { display: none; }
   .stmap__stage :global(.stmap__label--exit i) { font-style: normal; }
-  .stmap__stage :global(.stmap__label--hall) { font-weight: 500; font-style: italic; }
-  .stmap__stage :global(.stmap__label--route) { font-weight: 500; font-size: 11.5px; }
-  .stmap__stage :global(.stmap__label.is-stepfree:not(.stmap__label--exit)) { border-color: #0f766e; color: #0f5f59; }
-  .stmap__stage :global(.stmap__label.is-closed) { border-color: #c2410c; color: #9a3412; }
-  .stmap__stage :global(.stmap__label.is-selected) { outline: 2px solid #b45309; outline-offset: 1px; }
-  .stmap__stage :global(.stmap__level) { position: absolute; left: 0; top: 0; white-space: nowrap; font: 600 11px/1.2 var(--body, system-ui, sans-serif); color: #4b5563; text-transform: uppercase; letter-spacing: 0.04em; }
-  .stmap__stage :global(.stmap__level small) { display: block; font-weight: 500; text-transform: none; letter-spacing: 0; color: #6b7280; }
+  .stmap__stage :global(.stmap__label--hall) { font-weight: 500; font-style: italic; height: 20px; font-size: 11.5px; background: rgb(255 255 255 / 0.85); }
+  .stmap__stage :global(.stmap__label--route) { padding: 0 0.5rem 0 3px; font-weight: 600; font-size: 11.5px; height: 20px; }
+  .stmap__stage :global(.stmap__ic) { display: inline-grid; place-items: center; width: 15px; height: 15px; border-radius: 50%; flex: none; }
+  .stmap__stage :global(.stmap__label.is-closed) { color: #9f1d14; box-shadow: 0 0 0 1.5px #b42318, 0 1px 3px rgb(17 24 39 / 0.28); }
+  .stmap__stage :global(.stmap__label--landmark) { height: 18px; padding: 0 0.45rem; font: 700 10.5px/1 var(--body, system-ui, sans-serif); letter-spacing: 0.03em; text-transform: uppercase; color: #6b5a3a; background: rgb(250 246 236 / 0.88); box-shadow: 0 0 0 1px rgb(168 154 126 / 0.6); }
+  .stmap__stage :global(.stmap__street) { position: absolute; left: 0; top: 0; white-space: nowrap; font: 600 10.5px/1.2 var(--body, system-ui, sans-serif); color: #4b5563; letter-spacing: 0.02em; text-shadow: 0 0 3px #fff, 0 0 3px #fff, 0 0 2px #fff; will-change: transform; }
+  .stmap__stage :global(.stmap__label.is-selected) { box-shadow: 0 0 0 2px #fff, 0 0 0 4px #b45309; }
+  .stmap__stage :global(.stmap__level) { position: absolute; left: 0; top: 0; white-space: nowrap; font: 700 10.5px/1.2 var(--body, system-ui, sans-serif); color: #374151; text-transform: uppercase; letter-spacing: 0.05em; text-shadow: 0 0 3px rgb(255 255 255 / 0.9); }
+  .stmap__stage :global(.stmap__level small) { display: block; font-weight: 500; font-size: 11px; text-transform: none; letter-spacing: 0; color: #4b5563; }
 
   .stmap__popup { position: absolute; left: 0.6rem; bottom: 0.6rem; width: min(24rem, calc(100% - 1.2rem)); max-height: 50%; overflow: auto; padding: 0.8rem 2.4rem 0.8rem 0.9rem; border-radius: var(--radius-md); background: var(--surface); color: var(--ink); box-shadow: var(--shadow-md); font-size: 0.92rem; z-index: 3; }
   /* Narrow screens: a sheet docked along the bottom edge; the script lifts the picture above it. */
   @media (max-width: 40rem) {
     .stmap__popup { left: 0; right: 0; bottom: 0; width: auto; max-height: 48%; border-radius: var(--radius-md) var(--radius-md) 0 0; box-shadow: 0 -4px 16px rgb(17 24 39 / 0.18); }
-    .stmap__stage { height: 62vh; min-height: 420px; }
+    .stmap__stage { height: 58vh; min-height: 400px; }
   }
   .stmap__popup :global(h3) { margin: 0 0 0.3rem; font-size: 1.05rem; }
   .stmap__popup :global(p) { margin: 0.25rem 0; }
@@ -179,7 +252,7 @@ const typeText = (it: Item) =>
   .stmap__popup :global(.stmap__pill) { font-size: 0.78rem; font-weight: 600; padding: 0.1rem 0.5rem; border-radius: 999px; border: 2px solid var(--c); }
   .stmap__popup :global(.stmap__sf.is-yes strong) { color: #0f766e; }
   .stmap__popup :global(.stmap__sf.is-no strong) { color: var(--muted); }
-  .stmap__popup :global(.stmap__sf.is-closed strong) { color: #c2410c; }
+  .stmap__popup :global(.stmap__sf.is-closed strong) { color: #b42318; }
 
   .stmap__list-heading { font-size: 1.05rem; margin: 0.9rem 0 0.3rem; }
   .stmap__list section:first-child .stmap__list-heading { margin-top: 0; }
@@ -196,9 +269,12 @@ const typeText = (it: Item) =>
   .stmap.is-live .stmap__item-body { display: none; }
   .stmap.is-live .stmap__item.is-active .stmap__item-body { display: block; }
   @media (min-width: 62rem) {
-    .stmap.is-live { grid-template-columns: minmax(0, 1fr) 21rem; grid-template-areas: "tools tools" "viewer list"; }
+    .stmap.is-live { grid-template-columns: minmax(0, 1fr) 21rem; grid-template-areas: "picker picker" "tools tools" "viewer list" "route list"; align-items: start; }
+    .stmap.is-live .stmap__picker { grid-area: picker; }
     .stmap.is-live .stmap__tools { grid-area: tools; }
     .stmap.is-live .stmap__viewer { grid-area: viewer; }
-    .stmap.is-live .stmap__list { grid-area: list; max-height: 720px; overflow: auto; }
+    .stmap.is-live .stmap__route { grid-area: route; }
+    .stmap.is-live .stmap__list { grid-area: list; max-height: 760px; overflow: auto; }
   }
 </style>
+
