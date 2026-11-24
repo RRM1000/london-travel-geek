@@ -1,0 +1,793 @@
+[
+ {
+  "name": "Bill's",
+  "source": "chain",
+  "slug": null,
+  "url": "https://bills-website.co.uk/",
+  "why": "HTTP 307"
+ },
+ {
+  "name": "Honest Burgers",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.honestburgers.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Miller & Carter",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.millerandcarter.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Shake Shack",
+  "source": "chain",
+  "slug": null,
+  "url": "https://shakeshack.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Harvester",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.harvester.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Toby Carvery",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.tobycarvery.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Browns",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.browns-restaurants.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Joe & the Juice",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.joejuice.com/",
+  "why": "HTTP 429"
+ },
+ {
+  "name": "Tossed",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.tossed.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Crussh",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.crussh.com/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Pastaio",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.pastaio.london/",
+  "why": "ERR_TLS_CERT_ALTNAME_INVALID"
+ },
+ {
+  "name": "Polpo",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.polpo.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Breddos Tacos",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.breddostacos.com/",
+  "why": "ERR_TLS_CERT_ALTNAME_INVALID"
+ },
+ {
+  "name": "Fuller's",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.fullers.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Nicholson's",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.nicholsonspubs.co.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Dirty Burger",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.dirtyburger.com/",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Costa",
+  "source": "chain",
+  "slug": null,
+  "url": "https://www.costa.co.uk/",
+  "why": "AbortError"
+ },
+ {
+  "name": "NoMad London",
+  "source": "sheet",
+  "slug": "nomad-london",
+  "url": "https://www.hilton.com/en/hotels/lonnmnd-nomad-london/?SEO_id=GMB-EMEA-ND-LONNMND",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "The Spaniards Inn",
+  "source": "sheet",
+  "slug": "spaniards-inn",
+  "url": "https://www.thespaniardshampstead.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=gmb-homepage",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "CUT at 45 Park Lane",
+  "source": "sheet",
+  "slug": "cut-at-45-park-lane",
+  "url": "https://www.dorchestercollection.com/london/45-park-lane/dining/cut-at-45-park-lane?utm_source=google&utm_medium=45l_local_profile&utm_campaign=cut&utm_content=london_dining",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Zelman Meats",
+  "source": "sheet",
+  "slug": "zelman-meats",
+  "url": "https://www.zelmanmeats.com/?utm_source=google&utm_medium=local&utm_campaign=gbplisting",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "The Golden Chip of Hanwell",
+  "source": "sheet",
+  "slug": "golden-chip-hanwell",
+  "url": "https://the-golden-chip.edan.io/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "En Root",
+  "source": "sheet",
+  "slug": "en-root",
+  "url": "http://www.enrootldn.co.uk/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Gymkhana",
+  "source": "sheet",
+  "slug": "gymkhana",
+  "url": "http://www.gymkhanarestaurants.com/",
+  "why": "HTTP 429"
+ },
+ {
+  "name": "Vatavaran",
+  "source": "sheet",
+  "slug": "vatavaran",
+  "url": "https://vatavaran.uk/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "The Dorchester",
+  "source": "sheet",
+  "slug": "the-dorchester-tea",
+  "url": "https://www.dorchestercollection.com/london/the-dorchester",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "The Lanesborough",
+  "source": "sheet",
+  "slug": "the-lanesborough-tea",
+  "url": "https://www.oetkerhotels.com/hotels/the-lanesborough/?utm_source=google&utm_medium=organic&utm_campaign=google_local_the_lanesborough",
+  "why": "HTTP 429"
+ },
+ {
+  "name": "Brown's Hotel",
+  "source": "sheet",
+  "slug": "browns-hotel-tea",
+  "url": "https://www.roccofortehotels.com/hotels-and-resorts/brown-s-hotel/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "The Langham",
+  "source": "sheet",
+  "slug": "the-langham",
+  "url": "http://www.langhamhotels.com/en/the-langham/london/?htl=tllon&src=organic&eng=google&size=na&cid=hotel_yext_profile&y_source=1_MTAxMjgwNTktNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+  "why": "TypeError"
+ },
+ {
+  "name": "Canton Blue",
+  "source": "sheet",
+  "slug": "canton-blue",
+  "url": "https://www.peninsula.com/en/london/hotel-fine-dining/canton-blue",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Kung Fu Noodle",
+  "source": "sheet",
+  "slug": "kung-fu-noodle",
+  "url": "https://kungfunoodle.shop/",
+  "why": "ECONNRESET"
+ },
+ {
+  "name": "Orient London",
+  "source": "sheet",
+  "slug": "orient-london",
+  "url": "https://orientlondon.com/",
+  "why": "ECONNREFUSED"
+ },
+ {
+  "name": "Sushi Kanesaka",
+  "source": "sheet",
+  "slug": "sushi-kanesaka",
+  "url": "https://www.dorchestercollection.com/london/45-park-lane/dining/sushi-kanesaka?utm_source=google&utm_medium=45l_local_profile&utm_campaign=sushi_kanesaka&utm_content=london_dining",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Roka",
+  "source": "sheet",
+  "slug": "roka-fitzrovia",
+  "url": "https://www.rokarestaurant.com/en/roka-charlotte-street-london?utm_source=InfoButtonClick&utm_medium=Home&utm_campaign=GoogleBusinessProfile",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Jin Kichi",
+  "source": "sheet",
+  "slug": "jin-kichi",
+  "url": "https://jinkichi.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Dumplings' Legend",
+  "source": "sheet",
+  "slug": "dumplings-legend",
+  "url": "http://www.dumplingslegend.com/",
+  "why": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "name": "Maroush",
+  "source": "sheet",
+  "slug": "maroush",
+  "url": "https://www.maroush.com/restaurant/maroush-express/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "K-Town BBQ",
+  "source": "sheet",
+  "slug": "k-town-bbq",
+  "url": "https://k-townbbq.co.uk/",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Korean Grill Kensington",
+  "source": "sheet",
+  "slug": "korean-grill-kensington",
+  "url": "http://www.koreangrillkensington.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Guacamoles",
+  "source": "sheet",
+  "slug": "guacamoles",
+  "url": "https://guacamoles.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Kitchen Table",
+  "source": "sheet",
+  "slug": "kitchen-table",
+  "url": "http://kitchentablelondon.co.uk/",
+  "why": "ERR_TLS_CERT_ALTNAME_INVALID"
+ },
+ {
+  "name": "Ta'mini Lebanese Bakery",
+  "source": "sheet",
+  "slug": "tamini-lebanese-bakery",
+  "url": "https://instagram.com/tamini_lebanese_bakery?igshid=MzRlODBiNWFlZA==",
+  "why": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "name": "Miga",
+  "source": "sheet",
+  "slug": "miga",
+  "url": "http://instagram.com/miga.restaurant",
+  "why": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "name": "Naru",
+  "source": "sheet",
+  "slug": "london-naru",
+  "url": "https://instagram.com/naru.restaurant.uk?igshid=YTQwZjQ0NmI0OA==",
+  "why": "UND_ERR_CONNECT_TIMEOUT"
+ },
+ {
+  "name": "Antepliler",
+  "source": "sheet",
+  "slug": "antepliler",
+  "url": "https://anteplilerlondon.co.uk/doner/",
+  "why": "CERT_HAS_EXPIRED"
+ },
+ {
+  "name": "The Life Goddess",
+  "source": "sheet",
+  "slug": "the-life-goddess",
+  "url": "http://www.thelifegoddess.com/",
+  "why": "TypeError"
+ },
+ {
+  "name": "Berners Tavern",
+  "source": "sheet",
+  "slug": "berners-tavern",
+  "url": "http://www.bernerstavern.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Brooklands",
+  "source": "sheet",
+  "slug": "brooklands",
+  "url": "https://www.brooklandslondon.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Good Friend Chicken",
+  "source": "sheet",
+  "slug": "good-friend-chicken",
+  "url": "http://jichickens.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Din Tai Fung",
+  "source": "sheet",
+  "slug": "din-tai-fung-covent-garden",
+  "url": "http://www.dintaifung-uk.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Berenjak",
+  "source": "sheet",
+  "slug": "berenjak",
+  "url": "https://berenjak.com/locations/soho/",
+  "why": "HTTP 429"
+ },
+ {
+  "name": "Redemption Roasters",
+  "source": "sheet",
+  "slug": "redemption-roasters",
+  "url": "https://www.redemptionroasters.com/locations/bloomsbury/?utm_source=GMB&utm_medium=organic",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Original Lahore Kebab House",
+  "source": "sheet",
+  "slug": "lahore-kebab-house",
+  "url": "http://www.lahore-kebabhouse.com/",
+  "why": "HTTP 200"
+ },
+ {
+  "name": "Antipodea",
+  "source": "sheet",
+  "slug": "antipodea-richmond",
+  "url": "http://antipodea.co.uk/richmond/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Kateh",
+  "source": "sheet",
+  "slug": "kateh",
+  "url": "http://www.katehrestaurant.co.uk/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Harrods Dining Hall",
+  "source": "sheet",
+  "slug": "harrods-dining-hall",
+  "url": "https://www.harrods.com/c/restaurants/dining-hall?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing-harrods-the-deli-food-hall",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Goods Way",
+  "source": "sheet",
+  "slug": "goods-way-kings-cross",
+  "url": "https://www.goodsway.co.uk/",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Alain Ducasse at The Dorchester",
+  "source": "sheet",
+  "slug": "alain-ducasse-dorchester",
+  "url": "https://www.dorchestercollection.com/london/the-dorchester/dining/alain-ducasse-at-the-dorchester?utm_source=google&utm_medium=tdl_local_profile&utm_campaign=alain_ducasse&utm_content=london_dining",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Ding Tea",
+  "source": "sheet",
+  "slug": "ding-tea",
+  "url": "https://www.dingteahackney.co.uk/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Min Tea",
+  "source": "sheet",
+  "slug": "min-tea-chinatown",
+  "url": "http://mintea.co.uk/",
+  "why": "ERR_SSL_TLSV1_ALERT_INTERNAL_ERROR"
+ },
+ {
+  "name": "Jen Tea",
+  "source": "sheet",
+  "slug": "jen-tea",
+  "url": "https://www.jentea.co.uk/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Native Mayfair",
+  "source": "database",
+  "slug": "native-mayfair",
+  "url": "https://nativeplaces.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "YHA London St Pancras",
+  "source": "database",
+  "slug": "yha-london-st-pancras",
+  "url": "https://www.yha.org.uk/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "COMO The Halkin",
+  "source": "database",
+  "slug": "como-the-halkin",
+  "url": "https://www.comohotels.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "London Marriott Hotel County Hall",
+  "source": "database",
+  "slug": "marriott-county-hall",
+  "url": "https://www.marriott.com/en-gb/hotels/lonch-london-marriott-hotel-county-hall/overview/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "ME London",
+  "source": "database",
+  "slug": "me-london",
+  "url": "https://www.melia.com/en/hotels/united-kingdom/london/me-london",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "nhow London",
+  "source": "database",
+  "slug": "nhow-london",
+  "url": "https://www.nhow-hotels.com/en/nhow-london",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Aloft London ExCeL",
+  "source": "database",
+  "slug": "aloft-london-excel",
+  "url": "https://www.marriott.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Holiday Inn Express London Greenwich Peninsula",
+  "source": "database",
+  "slug": "holiday-inn-express-greenwich-peninsula",
+  "url": "https://www.ihg.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "The Megaro",
+  "source": "database",
+  "slug": "the-megaro",
+  "url": "https://themegarohotel.co.uk/",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Six Senses London",
+  "source": "database",
+  "slug": "six-senses-london",
+  "url": "https://www.sixsenses.com/en/hotels/london",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Hyatt Regency London Olympia",
+  "source": "database",
+  "slug": "hyatt-regency-london-olympia",
+  "url": "https://www.hyatt.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Four Seasons Hotel London at Park Lane",
+  "source": "database",
+  "slug": "four-seasons-park-lane",
+  "url": "https://www.fourseasons.com/london/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "citizenM Tower of London",
+  "source": "database",
+  "slug": "citizenm-tower-of-london",
+  "url": "https://www.marriott.com/en-gb/hotels/lontl-citizenm-tower-of-london/overview/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Four Seasons Hotel London at Tower Bridge",
+  "source": "database",
+  "slug": "four-seasons-tower-bridge",
+  "url": "https://www.fourseasons.com/towerbridge/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "St. James' Court, A Taj Hotel",
+  "source": "database",
+  "slug": "st-james-court",
+  "url": "https://www.stjamescourthotel.co.uk/en/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Premier Inn London County Hall",
+  "source": "database",
+  "slug": "premier-inn-county-hall",
+  "url": "https://www.premierinn.com/",
+  "why": "AbortError"
+ },
+ {
+  "name": "Premier Inn London Wembley Stadium",
+  "source": "database",
+  "slug": "premier-inn-london-wembley-stadium",
+  "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-stadium.html",
+  "why": "AbortError"
+ },
+ {
+  "name": "YHA London Central",
+  "source": "database",
+  "slug": "yha-london-central",
+  "url": "https://www.yha.org.uk/hostel/yha-london-central",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Wilde Aparthotels Covent Garden",
+  "source": "database",
+  "slug": "wilde-aparthotels-covent-garden",
+  "url": "https://www.wilde.com/london",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Virgin Hotels London-Shoreditch",
+  "source": "database",
+  "slug": "mondrian-shoreditch",
+  "url": "https://virginhotels.com/london-shoreditch/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "hub by Premier Inn London Covent Garden",
+  "source": "database",
+  "slug": "hub-covent-garden",
+  "url": "https://www.premierinn.com/gb/en/hub.html",
+  "why": "AbortError"
+ },
+ {
+  "name": "St Pancras Renaissance Hotel London",
+  "source": "database",
+  "slug": "st-pancras-renaissance",
+  "url": "https://www.marriott.com/en-us/hotels/lonpr-st-pancras-renaissance-hotel-london/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Sanderson London",
+  "source": "database",
+  "slug": "sanderson-london",
+  "url": "https://www.sandersonlondon.com/",
+  "why": "ECONNREFUSED"
+ },
+ {
+  "name": "Ruby Zoe Hotel London",
+  "source": "database",
+  "slug": "ruby-zoe",
+  "url": "https://www.ihg.com/ruby-hotels/hotels/gb/en/london/lonzo/hoteldetail",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Town Hall Hotel",
+  "source": "database",
+  "slug": "town-hall-hotel",
+  "url": "https://www.townhallhotel.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "The Zetter Townhouse Marylebone",
+  "source": "database",
+  "slug": "the-zetter-townhouse-marylebone",
+  "url": "https://www.thezettertownhouse.com/",
+  "why": "ERR_TLS_CERT_ALTNAME_INVALID"
+ },
+ {
+  "name": "Staycity Aparthotels Dalston",
+  "source": "database",
+  "slug": "staycity-dalston",
+  "url": "https://www.staycity.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Native Hyde Park",
+  "source": "database",
+  "slug": "native-hyde-park",
+  "url": "https://www.nativeplaces.com/property/native-hyde-park/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "citizenM London Shoreditch",
+  "source": "database",
+  "slug": "citizenm-london-shoreditch",
+  "url": "https://www.marriott.com/en-gb/hotels/lonst-citizenm-london-shoreditch/overview/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Redchurch Townhouse",
+  "source": "database",
+  "slug": "redchurch-townhouse",
+  "url": "https://www.sohohouse.com/houses/redchurch-townhouse",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "London Marriott Hotel Canary Wharf",
+  "source": "database",
+  "slug": "london-marriott-canary-wharf",
+  "url": "https://www.marriott.com/en-us/hotels/loncw-london-marriott-hotel-canary-wharf/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Shangri-La The Shard, London",
+  "source": "database",
+  "slug": "shangri-la-the-shard",
+  "url": "https://www.shangri-la.com/london/shangrila/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Premier Inn London Tower Bridge",
+  "source": "database",
+  "slug": "premier-inn-tower-bridge",
+  "url": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-tower-bridge.html",
+  "why": "AbortError"
+ },
+ {
+  "name": "The London EDITION",
+  "source": "database",
+  "slug": "the-london-edition",
+  "url": "https://www.editionhotels.com/london/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Endeavour",
+  "source": "database",
+  "slug": "venue-osm-n13606401801",
+  "url": "https://www.endeavourdeptford.co.uk/",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Omeara",
+  "source": "database",
+  "slug": "venue-osm-w571610201",
+  "url": "https://www.omearalondon.com/",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Upstairs @ Ronnie’s",
+  "source": "database",
+  "slug": "venue-osm-n372519530",
+  "url": "https://www.ronniescotts.co.uk/upstairsronnies",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "The Cavendish Arms",
+  "source": "database",
+  "slug": "venue-osm-n261348576",
+  "url": "https://thecavendisharmsstockwell.co.uk/",
+  "why": "ERR_TLS_CERT_ALTNAME_INVALID"
+ },
+ {
+  "name": "The Victoria",
+  "source": "database",
+  "slug": "venue-osm-w531572661",
+  "url": "https://www.jaguarshoes.com/venues/the-victoria/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Tian Fu",
+  "source": "database",
+  "slug": "tian-fu-shepherds-bush",
+  "url": "https://www.tianfulondon.com/",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Sollip",
+  "source": "database",
+  "slug": "sollip",
+  "url": "https://www.crestnicholson.com/snowsfieldsyard/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "The George",
+  "source": "database",
+  "slug": "the-george-fitzrovia",
+  "url": "https://thegeorge.london/pub/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Biju Bubble Tea Room",
+  "source": "database",
+  "slug": "biju-bubble-tea-room",
+  "url": "https://bijububbletea.com",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Monmouth Kitchen",
+  "source": "database",
+  "slug": "monmouth-kitchen",
+  "url": "https://thekitchensrestaurants.co.uk/monmouth-kitchen",
+  "why": "ERR_SSL_SSL/TLS_ALERT_HANDSHAKE_FAILURE"
+ },
+ {
+  "name": "Llama Inn",
+  "source": "database",
+  "slug": "llama-inn",
+  "url": "https://llamainnnyc.com",
+  "why": "CERT_HAS_EXPIRED"
+ },
+ {
+  "name": "Fairuz",
+  "source": "database",
+  "slug": "fairuz",
+  "url": "http://www.fairuz.uk.com",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Woo Tea",
+  "source": "database",
+  "slug": "woo-tea-chinatown",
+  "url": "https://woo-tea.business.site",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Sabor Peruano",
+  "source": "database",
+  "slug": "sabor-peruano",
+  "url": "https://sabor-peruano.menu-world.com",
+  "why": "HTTP 403"
+ },
+ {
+  "name": "Kuya Fernando",
+  "source": "database",
+  "slug": "kuya-fernando",
+  "url": "https://bbventures.co.uk",
+  "why": "ENOTFOUND"
+ },
+ {
+  "name": "Fishcotheque",
+  "source": "database",
+  "slug": "fishcotheque",
+  "url": "https://thefishcotheque.com/",
+  "why": "UND_ERR_SOCKET"
+ },
+ {
+  "name": "Masters Superfish",
+  "source": "database",
+  "slug": "masters-superfish",
+  "url": "https://masterssuperfish.business.site/",
+  "why": "HTTP 404"
+ },
+ {
+  "name": "Sushi Tetsu",
+  "source": "database",
+  "slug": "sushi-tetsu",
+  "url": "https://sushitetsu.co.uk",
+  "why": "UND_ERR_CONNECT_TIMEOUT"
+ }
+]
