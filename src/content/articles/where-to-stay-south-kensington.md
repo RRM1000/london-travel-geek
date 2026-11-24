@@ -2,8 +2,8 @@
 title: "Where to Stay in South Kensington: Hotels by the Museums"
 seoTitle: "Where to Stay in South Kensington 2026: By the Museums"
 description: "A 433-metre tiled tunnel runs from the Tube to the museums, and makes sleeping here worthwhile. South Kensington hotels compared, the evening nobody warns you about, and the areas nearby."
-heroImage: "../../assets/articles/south-kensington-area-guide/royal-albert-hall.jpg"
-heroImageAlt: "The Royal Albert Hall's red-brick and terracotta rotunda under a blue sky, with the Prince Consort memorial column and its bronze statue of Albert in front, and pedestrians crossing the plaza and steps below"
+heroImage: "../../assets/articles/where-to-stay-south-kensington/exhibition-road-terraces.jpg"
+heroImageAlt: "Crowded café terraces under navy parasols outside Brindisa and Comptoir Libanais on Exhibition Road, by South Kensington station, on a sunny evening"
 publishedAt: 2026-06-04
 updatedAt: 2026-11-01
 reviewBy: 2026-12-01

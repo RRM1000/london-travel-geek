@@ -159,9 +159,9 @@ Luxury fashion and jewellery, with Visit London filing it under designer boutiqu
 
 *Chelsea · Cited by 10 sources · Sloane Square*
 
-![A corner building with a green copper dome on King's Road at the junction with Flood Street, a red Dial-a-Ride minibus on the right](../../assets/articles/best-streets-london/kings-road.jpg)
+![Bunting over the paved walk in Duke of York Square, with the Taschen shop on the left and the teal parasols of Manicomio's terrace on the right](../../assets/articles/best-streets-london/kings-road.jpg)
 
-*A corner of King's Road at Flood Street, Chelsea. Photo: [Peter Barr](https://commons.wikimedia.org/wiki/File:King%27s_Road,_Chelsea_-_geograph.org.uk_-_4368057.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
+*Duke of York Square, just off the King's Road by Sloane Square.*
 
 Boutiques and homeware running west from Sloane Square; Visit London lists it for stylish boutiques and fashionable homeware. Saturdays are busy and weekday afternoons are calmer. **Bywater Street's pastel cottages are a short detour off it.** The [Chelsea guide](/articles/chelsea-area-guide/) covers the rest of the area, including the Physic Garden.
 
