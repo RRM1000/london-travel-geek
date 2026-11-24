@@ -194,7 +194,11 @@
   },
   {
    "name": "Banana Tree",
-   "url": "https://bananatree.co.uk/"
+   "url": "https://bananatree.co.uk/",
+   "cuisine": [
+    "thai",
+    "pan-asian"
+   ]
   },
   {
    "name": "Giggling Squid",
