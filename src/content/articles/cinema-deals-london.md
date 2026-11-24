@@ -179,6 +179,7 @@ You pay once a year for a bundle of free tickets plus a standing discount. They 
 
 ## Continue planning your London trip
 
+- 🎓 **[London Student Discounts](/articles/london-student-discounts/)**, for theatre, gyms and travel as well
 - 🎬 **[London's Best Independent Cinemas](/articles/best-cinemas-london/)**
 - 🌙 **[Outdoor Cinema in London](/articles/outdoor-cinema-london/)**, including the free summer screens
 - 🎞️ **[BFI London Film Festival: Dates and Tickets](/articles/london-film-festival/)**

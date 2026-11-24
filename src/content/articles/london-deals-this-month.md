@@ -81,7 +81,17 @@ Our [food deals in London](/articles/food-deals-london/) page has every restaura
 - **[The Waterway](https://www.thewaterway.co.uk/winter-club)**, Little Venice: a free Winter Club card gives **15% off food Tuesday to Friday** and **two à la carte mains for the price of one on Sunday evenings**, at The Waterway and The Summerhouse, until 31 March 2027. It is not valid in December, so January is when it starts working again.
 - **[Las Iguanas](https://www.iguanas.co.uk/bottomless-brunch)**: the classic bottomless brunch, two hours of unlimited drinks with a brunch dish, is **from £39.95** and bookable from 1 January 2027.
 
-Students should check [student discounts in London](/articles/student-discounts-london/), and families [where kids eat free](/articles/kids-eat-free-london/).
+Students should check the [student restaurant discounts](/articles/student-discounts-london/), and families [where kids eat free](/articles/kids-eat-free-london/).
+
+## Gyms and cinemas in January 2027
+
+- **[Gymbox](https://gymbox.com/membership-offer/)**: a **£10 joining fee and nothing more to pay until February 2027** on a 12-month membership, at all ten London clubs; free trials at any club, booked online.
+- **[The Gym Group](https://www.thegymgroup.com/gym-memberships/day-passes/)**: **day passes from £8.99**, three days from £15.99 and five days from £19.99, for anyone not ready to sign up in January.
+- **[ODEON](https://www.odeon.co.uk/memberships/saver-mondays/)**: **Saver Mondays from £4.50** for free ODEON Extras members.
+- **[Genesis Cinema](https://genesiscinema.co.uk/pricing)**, Mile End: **£4.99 tickets Monday to Wednesday**, for everyone.
+- **[Picturehouse U25](https://www.picturehouses.com/u25)**: **£6.99 all day Monday to Thursday** for 16 to 25s.
+
+Every current gym deal is in our [London gyms guide](/articles/best-gyms-london/), and the cinema subscriptions and 2-for-1 codes are in [cinema deals](/articles/cinema-deals-london/).
 
 ## Day trips in January 2027
 
@@ -105,6 +115,8 @@ Students should check [student discounts in London](/articles/student-discounts-
 - **[Heathrow Express](/articles/heathrow-airport-to-london/)**: **10% off your first purchase** in the app after creating an account, Standard Class only ([Heathrow Express](https://www.heathrowexpress.com/offers)).
 
 ## Under 30, or on Universal Credit
+
+Every student and under-25 scheme for theatre, cinema, gyms and travel is in our [London student discounts](/articles/london-student-discounts/) guide.
 
 | Who | Where | Price | How |
 | --- | --- | --- | --- |

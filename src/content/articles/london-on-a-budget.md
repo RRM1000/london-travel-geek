@@ -176,6 +176,7 @@ Nothing else on the list moves the total much. The museums, the parks, the views
 ## Continue planning your London trip
 
 
+- 🎓 **[London Student Discounts](/articles/london-student-discounts/)** — £5 theatre seats, £4 cinema and 30% off Travelcards for students and under-25s
 - ⚽ **[Premier League Tickets in London](/articles/premier-league-tickets-london/)** — top-flight football needs a paid membership, but London’s lower-league clubs sell to anyone from £20
 - 🛍️ **[Shopping in London](/articles/shopping-in-london/)** — and [tax-free shopping](/articles/tax-free-shopping-london/), including why you cannot claim the VAT back
 - 🎁 **[Gifts and Souvenirs from London](/articles/london-gifts-souvenirs/)** — tea from £5.95, and the museum shops that need no ticket

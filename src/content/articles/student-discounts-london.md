@@ -54,6 +54,7 @@ Most London restaurant student discounts are a percentage off food, and **the pr
 
 ## Continue planning your London trip
 
+- 🎓 **[London Student Discounts](/articles/london-student-discounts/)**: theatre, cinema, gyms and travel for students and under-25s
 - 🏷️ **[London Food Deals](/articles/food-deals-london/)**: today's deals, offers by day, money off, BYO and app rewards
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**: good food under £15 with no offer, code or membership at all
 - 🍻 **[2-for-1 Deals in London](/articles/two-for-one-deals-london/)**: food and cocktails two for one

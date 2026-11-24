@@ -362,6 +362,7 @@ Almost every operator here sells a day or a fortnight, and for a visitor the pub
 
 ## Continue planning your London trip
 
+- 🎓 **[London Student Discounts](/articles/london-student-discounts/)** — student gym rates, plus theatre, cinema and travel
 - 🌳 **[The Best Parks and Gardens in London](/articles/best-parks-gardens-london/)** — the Heath, the lidos and the ponds in context
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)** — the same arithmetic applied to everything else
 - ☔ **[London in the Rain](/articles/london-in-the-rain/)** — indoor pools included

@@ -536,7 +536,7 @@ function otherData() {
 }
 export function remarkOtherDeals() {
   return (tree, file) => {
-    const path = String(file.history?.[0] ?? file.path ?? "").replace(/\/g, "/");
+    const path = String(file.history?.[0] ?? file.path ?? "").replace(/\\/g, "/");
     const slug = path.match(/\/articles\/([a-z0-9-]+)\.md$/)?.[1];
     const data = slug && otherData();
     const spec = data?.pages[slug];
@@ -556,7 +556,9 @@ export function remarkOtherDeals() {
       { type: "heading", depth: 2, children: [{ type: "text", value: spec.heading }] },
       ...(spec.intro ? [{ type: "paragraph", children: [{ type: "text", value: spec.intro }] }] : []),
       ...table(header, deals.map((d) => {
-        const c = [nameCell(d), when(d) || "Any day", [offer(d), where(d)].filter(Boolean).join(". ")];
+        // "(£0)" after "Free trial" or "No joining fee" says nothing twice.
+        const o = /^£0\b/.test(d.price ?? "") ? offer({ ...d, price: null }) : offer(d);
+        const c = [nameCell(d), when(d) || "Ongoing", [o, where(d)].filter(Boolean).join(". ")];
         c[1] = c[1].charAt(0).toUpperCase() + c[1].slice(1);
         if (d.endDate) c[2] += ` {until=${d.endDate}}`;
         return c;
