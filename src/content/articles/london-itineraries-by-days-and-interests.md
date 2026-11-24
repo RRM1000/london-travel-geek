@@ -219,6 +219,7 @@ Every one of these is free, mapped stop by stop, and says what is open on which 
 | **Street art** | [Banksy and London street art](/articles/london-street-art/) | What is still on the wall, and what has gone |
 | **The parts nobody sees** | [Hidden London](/articles/hidden-london-secret-places/) | Places most visitors never find, and how to get into each |
 | **Shopping** | [Shopping in London](/articles/shopping-in-london/) | Streets, markets and stores sorted by what you are buying |
+| **A date** | [Date ideas in London](/articles/date-ideas-london/) | First dates, romantic restaurants, free dates and two planned itineraries |
 | **A night out** | [Live music](/articles/best-live-music-venues-london/) · [Comedy](/articles/best-comedy-clubs-london/) · [Immersive shows](/articles/immersive-experiences-london/) | Which rooms and which nights, and which immersive shows are still running |
 | **Step-free travel** | [Step-free London](/articles/step-free-london/) | Getting around without stairs, station by station |
 | **A day out of town** | [Day trips from London](/articles/day-trips-from-london/) | Windsor, Oxford, Cambridge, Bath, Stonehenge and the Cotswolds, priced and timed |

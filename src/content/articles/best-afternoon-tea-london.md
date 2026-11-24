@@ -609,6 +609,7 @@ Rooms the sources back that did not earn a full entry.
 - 🇬🇧 **[Classic British Food in London](/articles/classic-british-food-london/)** — Scotch eggs, pie and mash, sausage rolls and proper puddings, dish by dish.
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🏛️ **[Historic Pubs and Dining Rooms in London](/articles/historic-pubs-dining-rooms-london/)**
+- 💐 **[Date Ideas in London](/articles/date-ideas-london/)** — tea at the Ritz for an occasion, and first dates, romantic restaurants and proposal spots
 - 🥘 **[Food Tours in London](/articles/london-food-tours/)** — including the afternoon tea bus tours and a scone-making workshop
 - 🥩 **[The Best Sunday Roast in London](/articles/best-sunday-roast-london/)**
 - 🎭 **[Covent Garden Area Guide](/articles/covent-garden-area-guide/)**

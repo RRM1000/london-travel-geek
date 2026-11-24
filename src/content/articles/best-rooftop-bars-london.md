@@ -324,6 +324,7 @@ The roof of the Vintry & Mercer hotel on Garlick Hill, between Mansion House and
 - 🌇 **[The Best Rooftop and Riverside Restaurants in London](/articles/best-rooftop-restaurants-london/)** — the same roofs judged on the food
 - 🍺 **[The Best Beer Gardens in London](/articles/best-beer-gardens-london/)** — drinking outside at ground level, and which gardens are heated
 - 🍸 **[The Best Cocktail Bars in London](/articles/best-cocktail-bars-london/)**
+- 💐 **[Date Ideas in London](/articles/date-ideas-london/)** — first dates, romantic restaurants and the views to pair them with
 - 🌆 **[The Best Views in London](/articles/best-views-london/)** — the free viewpoints and the ticketed ones
 - 🌿 **[Sky Garden Guide](/articles/sky-garden-guide/)** — how the free tickets work
 - 🪑 **[The Best Places to Eat Outside in London](/articles/eat-outside-london/)**

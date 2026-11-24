@@ -176,7 +176,7 @@ Where the building is the occasion.
 
 *£££ · the conservatory*
 
-A **blossom-covered conservatory** with a fire and a retractable roof; the blossom is real, not a print.
+A **blossom-covered conservatory** with a fire and a retractable roof.
 
 The cooking is Provençal and northern Italian: **rack of lamb, hand-made pasta, a long French wine list** that runs to several hundred bins.
 
@@ -338,6 +338,7 @@ A starred restaurant's lunch is the same kitchen and room as dinner for less.
 ## Continue planning your London trip
 
 - 💌 **[Valentine's Day in London 2027](/articles/valentines-day-london/)** — Sunday 14 February: when these rooms open bookings, and the views and cruises to pair them with
+- 💐 **[Date Ideas in London](/articles/date-ideas-london/)** — first dates, cheaper romantic restaurants and proposal spots
 - 🎷 **[Dinner and a Show in London](/articles/dinner-and-a-show-london/)**
 - 🍽️ **[Eat in London: Restaurants, Food Markets & Quick Food Hub](/articles/eat-in-london-guide/)**
 - 🫖 **[The Best Afternoon Tea in London](/articles/best-afternoon-tea-london/)**

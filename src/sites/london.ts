@@ -97,6 +97,8 @@ export const londonSite: SiteConfig = {
           { label: "New Year's Eve", href: "/articles/new-years-eve-london/", months: [11, 12] },
           { label: "London Film Festival", href: "/articles/london-film-festival/", months: [9, 10] },
           { label: "London in the rain", href: "/articles/london-in-the-rain/", months: [1, 2, 11, 12] },
+          // January and February, the run-up to Valentine's Day.
+          { label: "Date ideas", href: "/articles/date-ideas-london/", months: [1, 2] },
           { label: "Best parks and gardens", href: "/articles/best-parks-gardens-london/", months: [4, 5, 6, 7, 8] },
           { label: "Wimbledon tickets", href: "/articles/wimbledon-tickets-guide/", months: [5, 6, 7, 9] },
           { label: "London Marathon", href: "/articles/london-marathon-guide/", months: [3, 4] },

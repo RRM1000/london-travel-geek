@@ -48,7 +48,7 @@ Valentine's Day 2027 falls on a **Sunday**, the same afternoon England play Fran
 
 *£££ · 33 King Street, WC2E 8JD · two minutes from Covent Garden*
 
-A **conservatory under real blossom**, with a fire and a retractable roof. The cooking is Provençal and northern Italian: order the **rack of lamb** or the hand-made pasta, and lean on a French wine list of several hundred bins. The restaurant has several rooms and only one is the conservatory, so **ask for it by name when you book** and say it is an occasion.
+A **conservatory under blossom**, with a fire and a retractable roof. The cooking is Provençal and northern Italian: order the **rack of lamb** or the hand-made pasta, and lean on a French wine list of several hundred bins. The restaurant has several rooms and only one is the conservatory, so **ask for it by name when you book** and say it is an occasion.
 
 ### Duck & Waffle, City of London
 
@@ -129,7 +129,7 @@ The outdoor rinks at Somerset House, Hampton Court, Leicester Square, Battersea 
 - **Uber Boat instead of a cruise.** Westminster to Greenwich is **£12.40** by contactless at weekends, on the commuter catamaran with an open deck at the back. Details are in our [river cruises guide](/articles/thames-river-cruises-london/).
 - **Eat early or late.** Clos Maggiore's pre- and post-theatre menu is a fraction of the à la carte; the [special occasion guide](/articles/special-occasion-restaurants-london/) lists the other cheaper ways into serious kitchens.
 
-More free viewpoints are in our [best views in London](/articles/best-views-london/) guide.
+More free viewpoints are in our [best views in London](/articles/best-views-london/) guide, and our [date ideas in London](/articles/date-ideas-london/) guide has first dates, cheap dates and proposal spots for the rest of the year.
 
 > ⚠️ **England v France is at Twickenham at 3.10pm on Sunday 14 February.** Allianz Stadium holds 82,000, and trains from Waterloo to Twickenham run via Clapham Junction and Richmond. Match-day shuttle buses start three hours before kick-off, and the crowd takes two to three hours to clear afterwards, so trains through Richmond are busiest from about noon and again into the evening. Our [Twickenham Stadium guide](/articles/twickenham-stadium-travel-guide/) has the details.
 
