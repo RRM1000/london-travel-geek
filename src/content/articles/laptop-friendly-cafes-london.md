@@ -52,6 +52,10 @@ faq:
 
 *Regina House, 69 Cheapside, EC2V 6AZ, and 2 Triton Square, NW1 3AN · weekdays only*
 
+![The bright coworking seating, round tables and pendant lights inside Santander Work Café](../../assets/articles/laptop-friendly-cafes-london/santander-work-cafe.jpg)
+
+*Santander Work Café.*
+
 A bank branch rebuilt as a working café, with **Ozone coffee on sale, free Wi-Fi and co-working space** that Santander says is open to anyone, banking customers or not. Santander says there is no time limit on how long you stay. The free meeting rooms are the part reserved for Santander and TSB customers, for up to two hours.
 
 **Hours differ by site.** At Cheapside, Ozone serves from 8.30am to 3pm on Mondays and Fridays and to 4pm Tuesday to Thursday. At Triton Square, which is a short walk from Euston Square and Warren Street, the barista is there from 7.30am to 5pm Monday to Friday. Neither opens at weekends.
@@ -86,6 +90,10 @@ The **Barbican Library**, on Level 2, has free Wi-Fi and places to sit, read and
 
 *Belvedere Road, SE1 8XX · Waterloo*
 
+![The glass-fronted Royal Festival Hall on the South Bank beside the Thames](../../assets/articles/laptop-friendly-cafes-london/royal-festival-hall-foyer.jpg)
+
+*Royal Festival Hall, Southbank Centre.*
+
 The South Bank's own [guide to out-of-office work spots](https://southbank.london/guides/best-out-of-office-work-spots) lists **dedicated laptop counters** inside the Royal Festival Hall, between the Festival Bar & Kitchen and the Ballroom and box office, and says they are built for laptop work and meetings. Check opening times for your day on the Southbank Centre's site before a long session, as they vary with the programme.
 
 ## Cafés, by area
@@ -94,17 +102,29 @@ The South Bank's own [guide to out-of-office work spots](https://southbank.londo
 
 *1 Granary Square, N1C 4AA · Mon to Fri 8am to 10.30pm, Sat 9am to 10.30pm, Sun 9am to 9.30pm*
 
+![Mushrooms on toast with bacon and a poached egg at Caravan, King's Cross](../../assets/articles/laptop-friendly-cafes-london/caravan-kings-cross.jpg)
+
+*Caravan, King's Cross.*
+
 An all-day restaurant and roastery in the Grade II-listed Grainstore on Granary Square. London x London named it the best café for a long session in September 2026 for its **long communal tables**. It is a restaurant first, so order a meal as well as coffee if you stay for hours. The terrace tables on the square are walk-in only, and the later closing time makes it one of the few places here that works after the office day. It sits between the [King's Cross](/articles/kings-cross-area-guide/) canal and Coal Drops Yard. Caravan's original on Exmouth Market is in our [coffee guide](/articles/best-coffee-london/#caravan-clerkenwell).
 
 ### Prufrock Coffee, Clerkenwell
 
 *23-25 Leather Lane, EC1N 7TE · Mon to Fri 7.30am to 4.30pm, Sat 8am to 5pm, Sun 9am to 5pm*
 
+![The white shopfront of Prufrock Coffee on Leather Lane, with tables on the pavement](../../assets/articles/laptop-friendly-cafes-london/prufrock-coffee.jpg)
+
+*Prufrock Coffee, Clerkenwell.*
+
 On Leather Lane since 2011, and named in Time Out's best UK coffee shops for 2026, according to London x London. London x London says to **sit in the front window**, and warns that the back of the room is Prufrock's barista training space, which closes off when a course is running. That is the one thing that can end a session early. Prufrock also has an entry in our [coffee guide](/articles/best-coffee-london/#prufrock-coffee-clerkenwell).
 
 ### Ozone Coffee Roasters, Shoreditch
 
 *11 Leonard Street, EC2A 4AQ · Mon to Fri 7.30am to 4pm, Sat and Sun 8.30am to 4pm*
+
+![The open kitchen, coffee bar and wooden seating inside Ozone Coffee Roasters in Shoreditch](../../assets/articles/laptop-friendly-cafes-london/ozone-coffee-roasters.jpg)
+
+*Ozone Coffee Roasters, Shoreditch.*
 
 A roastery café just off Old Street roundabout, with a kitchen serving breakfast and lunch seven days a week. **Weekends are walk-in only and brunch fills up fast**, which is when a laptop is least welcome. London x London recommends the basement dining room rather than the ground floor. Ozone also supplies the coffee at the Santander Work Cafés above. See [Ozone in the coffee guide](/articles/best-coffee-london/#ozone-coffee-roasters-shoreditch) and the [Shoreditch guide](/articles/shoreditch-area-guide/).
 

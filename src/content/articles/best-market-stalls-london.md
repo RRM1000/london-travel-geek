@@ -51,6 +51,10 @@ A cheese toastie of cheddar, Comté and raclette cheese with leeks and onions, o
 
 *£ · Seven Dials Market, Covent Garden, and Mercato Metropolitano, Elephant & Castle · British Street Food Awards 2025: People's Choice and Best Vegetarian · [Seven Dials Market listing](https://www.sevendialsmarket.com/vendors/oshpaz-dumplings/)*
 
+![Customers ordering at the Oshpaz Dumplings counter inside Seven Dials Market](../../assets/articles/best-market-stalls-london/oshpaz.jpg)
+
+*Oshpaz Dumplings at Seven Dials Market.*
+
 Uzbek cooking from Muzaffar Sadykov: steamed manty dumplings, plov rice bowls and shashlik kebabs. The steamed dumplings won Best Vegetarian at the 2025 British Street Food Awards, and the public vote at the same final put Oshpaz first for People's Choice. At Seven Dials it is a counter inside the converted banana warehouse, among more than 20 food traders. **Mercato Metropolitano at Elephant & Castle closes at the end of 2026**, so Seven Dials is the branch to plan around.
 
 ### Joy & Gladness
@@ -75,11 +79,19 @@ The densest run of named traders in London. Borough is open Tuesday to Sunday un
 
 *££ · Stoney Street · Tuesday to Sunday · Cited by 4 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/richard-hawards-oysters/)*
 
+![Oyster shuckers working behind the ice display at Richard Haward's Oysters in Borough Market](../../assets/articles/best-market-stalls-london/richard-hawards-oysters.jpg)
+
+*Richard Haward's Oysters at Borough Market.*
+
 Oysters shucked to order: rocks, Colchester natives and cherrystone clams, picked from the tray at the counter. There are a few seats, and The Infatuation suggests a chilled glass of wine with them. Mark Wiens's June 2026 film spent £41 on a plate of them. **Walk-in only.** Open Tuesday to Friday 10am to 5pm, Saturday from 9am and Sunday to 4pm.
 
 ### Bread Ahead
 
 *£ · Cathedral Street and Three Crown Square · Tuesday to Sunday · Cited by 4 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/bread-ahead/)*
+
+![A Bread Ahead doughnut topped with a shard of honeycomb on a blue plate](../../assets/articles/best-market-stalls-london/bread-ahead.jpg)
+
+*A honeycomb doughnut from Bread Ahead.*
 
 The doughnuts: crème brûlée (£4.75 in June 2026), and sea-salted caramel with honeycomb, which DesignMyNight picks. The bakery also sells sourdough and focaccia and runs a bakery school. There is a shop on Cathedral Street and a stall in Three Crown Square. The Tour Guy warns the crème brûlée one "might just ruin you". Open Tuesday to Saturday 9am to 5pm and Sunday 10am to 4pm.
 
@@ -99,11 +111,19 @@ Cypriot street food made with kid goat and rose veal. The order the sources agre
 
 *£ · Borough Market, and Broadway Market on Saturdays · Cited by 3 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/gujarati-rasoi/)*
 
+![A heated glass cabinet of fried snacks on the Gujarati Rasoi stall in Borough Market](../../assets/articles/best-market-stalls-london/gujarati-rasoi.jpg)
+
+*Gujarati Rasoi.*
+
 Vegetarian food from Gujarat: vegetable samosas, a thali of the day's vegetarian and vegan curries, papdi chaat (crisp wafers under yoghurt, chutney and chickpeas) and pau bhaji, a spiced vegetable mash with buttered rolls. Resy and The Infatuation both send readers to it at Borough, and Secret London lists it among Broadway Market's stalls in Hackney. Broadway Market trades only at weekends, so on a weekday Borough is the place to find it.
 
 ### Horn OK Please
 
 *£ · Borough Market Kitchen, and the Southbank Centre Food Market · Cited by 2 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/horn-ok-please/)*
+
+![A paper cup of masala chai stamped with the Horn OK Please logo](../../assets/articles/best-market-stalls-london/horn-ok-please.jpg)
+
+*Horn OK Please.*
 
 Indian vegetarian street food, best known for the moong dal dosa: a crisp lentil pancake served with channa chaat, spiced chickpeas under yoghurt and tamarind. The Good Food Guide calls the dosas "superlative", and The Infatuation names the same order. At Borough it is in Borough Market Kitchen, open Tuesday to Saturday 10am to 5pm and Sunday to 4pm; the Southbank stall trades Friday to Sunday.
 
@@ -117,11 +137,19 @@ Argentine empanadas: beef, chicken, chorizo, ham and cheese, and a vegetable one
 
 *£ · Borough Market · Cited by 2 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/shuk/)*
 
+![Diners eating at wooden tables outside the Shuk Tel Aviv market food stall in Borough Market](../../assets/articles/best-market-stalls-london/shuk.jpg)
+
+*Shuk at Borough Market.*
+
 Middle Eastern stuffed pitas: chicken shawarma is The Infatuation's order, and The Tour Guy names the lamb sofrito. The Infatuation says the soft, pillowy pitas are worth the wait, and it is a walk-up counter. Like the rest of Borough, it is closed on Mondays until 30 November 2026.
 
 ### Mei Mei
 
 *££ · Borough Market · Cited by 2 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/mei-mei/)*
+
+![White tiled counter and stools at Mei Mei kopitiam in Borough Market](../../assets/articles/best-market-stalls-london/mei-mei.jpg)
+
+*Mei Mei at Borough Market.*
 
 Singaporean street food inspired by the kopi tiam, Singapore's old coffee shops: nasi lemak (coconut rice with sambal, fried anchovies, peanuts and egg) and an ox cheek rendang curry. At £15.50 for the nasi lemak in June 2026 it is the dearest plate in this guide. Mark Wiens and The Tour Guy both stop here. Like the rest of Borough, it is closed on Mondays until 30 November 2026.
 
@@ -135,15 +163,27 @@ Hot handmade pasta and gnocchi from a business Francesco and Caroline Boggian st
 
 *£ · Park Street · open daily · Cited by 2 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/gelateria-3bis/)*
 
+![Chocolate-dipped waffle cones, cannoli and cakes laid out on the counter at Gelateria 3Bis](../../assets/articles/best-market-stalls-london/gelateria-3bis.jpg)
+
+*Gelateria 3Bis at Borough Market.*
+
 Italian gelato and gelato-filled crêpes, from a shop on Park Street rather than a stall. A cup was £6.50 in June 2026. It keeps much later hours than Borough itself: 11am to 10pm on weekdays, 10am to 10pm on Saturdays and to 6pm on Sundays, so it is still open after an evening at the Globe.
 
 ### The Ginger Pig
 
 *£ · Three Crown Square · Tuesday to Sunday · Cited by 2 sources · [Borough Market listing](https://boroughmarket.org.uk/traders/ginger-pig/)*
 
+![Glass counter stacked with sausage rolls, Scotch eggs and pork pies at The Ginger Pig in Borough Market](../../assets/articles/best-market-stalls-london/the-ginger-pig.jpg)
+
+*Sausage rolls and Scotch eggs at The Ginger Pig.*
+
 A butcher's shop whose sausage roll is the thing to eat on the spot (£7 in June 2026). Mark Wiens and Through My Lens both stop for one. It is a butcher's counter, so you queue among people buying meat to cook at home. Open Tuesday to Saturday 9am to 5pm and Sunday 10am to 3pm.
 
 ### Coffee at Borough
+
+![Pour-over filter coffee cones brewing at Monmouth Coffee by Borough Market](../../assets/articles/best-market-stalls-london/monmouth-coffee.jpg)
+
+*Filter coffee brewing at Monmouth Coffee, Borough Market.*
 
 | Stall | What to order | Cited by | What it is |
 | --- | --- | --- | --- |
@@ -184,6 +224,10 @@ Camden's food traders sit mainly in West Yard by the lock and along the Stables.
 
 *£ · Camden Market and Old Spitalfields Market · Cited by 3 sources · [Old Spitalfields listing](https://oldspitalfieldsmarket.com/food-and-drink/humble-crumble)*
 
+![A queue outside the white Humble Crumble shopfront at dusk](../../assets/articles/best-market-stalls-london/humble-crumble.jpg)
+
+*Humble Crumble.*
+
 Apple crumble with hot custard poured over it. DesignMyNight calls it "a cult destination", and two YouTube food channels, Through My Lens and Only Scrans, queue for it. There are stalls at Camden and at Old Spitalfields, where it is open every day from 10am to nearly 8pm.
 
 ### Asador
@@ -212,6 +256,10 @@ A Sunday roast rolled inside a giant Yorkshire pudding: a choice of beef, chicke
 
 *£ · Camden Market · open daily · Cited by 2 sources · [Camden Market listing](https://camdenmarket.com/food-drink/mac-factory)*
 
+![Staff serving pots of baked mac and cheese behind The Mac Factory counter](../../assets/articles/best-market-stalls-london/the-mac-factory.jpg)
+
+*The Mac Factory.*
+
 Macaroni cheese and nothing else, in six versions including the Nostalgic and a Lobster Mac. Secret London lists it in its Camden guide and Only Scrans closes its Camden food film with it. It is a small walk-up counter, open every day with the rest of Camden's food traders.
 
 ---
@@ -221,6 +269,10 @@ Macaroni cheese and nothing else, in six versions including the Nostalgic and a 
 ### Dumpling Shack
 
 *£ · Old Spitalfields Market · open daily · Cited by 2 sources · [Old Spitalfields listing](https://oldspitalfieldsmarket.com/food-and-drink/dumpling-shack)*
+
+![Overhead spread of crispy-bottomed shengjianbao, dumplings, noodles and pancakes from Dumpling Shack](../../assets/articles/best-market-stalls-london/dumpling-shack.jpg)
+
+*Shengjianbao and noodles at Dumpling Shack.*
 
 Chinese dumplings, with the prawn wontons in chilli oil the dish DesignMyNight's list names. The Infatuation places it among the market's "top spots", and the same team runs Fen Noodles, a hand-pulled noodle counter, in the same market. It is a stall under the market's covered roof. Open Monday to Friday 11am to 8pm, Saturday to 6pm and Sunday to 5pm, so it suits a weekday evening.
 

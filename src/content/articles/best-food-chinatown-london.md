@@ -73,9 +73,9 @@ Order the **biang biang noodles**: belt-wide ribbons dressed in chilli oil, garl
 
 *£ · 64 Shaftesbury Avenue · walk-in*
 
-![Kung Fu Noodle's corner shopfront on Shaftesbury Avenue, with a lion head sculpture on the brick wall above and red lanterns strung across the street](../../assets/articles/best-food-chinatown-london/kung-fu-noodle-shaftesbury-avenue.jpg)
+![A steaming bowl of hand-pulled noodle soup at Kung Fu Noodle in Chinatown](../../assets/articles/best-food-chinatown-london/kung-fu-noodle-soup.jpg)
 
-*Kung Fu Noodle, Shaftesbury Avenue. Photo: [Aethonatic](https://commons.wikimedia.org/wiki/File:Kung_Fu_Noodle_-_17_May_2026.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons.*
+*Noodle soup at Kung Fu Noodle.*
 
 **Noodle Inn's older sister**, on the corner where Shaftesbury Avenue meets Chinatown. It cooks the food of **Gansu province** in north-west China, and you choose **hand-pulled or knife-cut** noodles for each bowl.
 
@@ -86,6 +86,10 @@ Order the **Lanzhou beef noodle soup**, noodles in a clear beef broth. The cold-
 ### Lanzhou Lamian Noodle Bar
 
 *£ · 33 Cranbourn Street · open until 2am Monday to Thursday*
+
+![Tomato and egg soup and a plate of smashed cucumber salad on a wooden table at Lanzhou Lamian Noodle Bar](../../assets/articles/best-food-chinatown-london/lanzhou-lamian-noodle-bar.jpg)
+
+*Tomato and egg soup and smashed cucumber at Lanzhou Lamian.*
 
 A cramped noodle bar on the Leicester Square side of Chinatown where the noodles are **pulled to order** in view of the tables. You may share a table, and service is fast.
 
@@ -121,6 +125,10 @@ A half **roast duck** is £23.50 and roast pork belly £16.80. The first plate o
 
 *££ · 45 Wardour Street · dim sum all day · [book a table](https://www.goldminerestaurant.com/reservations)*
 
+![Chopped Cantonese roast duck with glossy lacquered skin on a plate at Gold Mine](../../assets/articles/best-food-chinatown-london/gold-mine-roast-duck.jpg)
+
+*Roast duck at Gold Mine.*
+
 The Chinatown branch of the Queensway roast-meat house our [Chinese restaurants guide](/articles/best-chinese-east-asian-restaurants-london/) covers. It serves **dim sum all day** alongside the roasts.
 
 Order **roast duck**, or **Peking duck** with pancakes at £32 for a half.
@@ -131,9 +139,9 @@ Order **roast duck**, or **Peking duck** with pancakes at £32 for a half.
 
 *£ · 41–43 Wardour Street · cash only · walk-in*
 
-![The carved stone doorway of Wong Kei on Wardour Street, with the restaurant's red lettering on the windows either side](../../assets/articles/best-food-chinatown-london/wong-kei-wardour-street.jpg)
+![A bowl of Cantonese wonton noodle soup at Wong Kei on Wardour Street](../../assets/articles/best-food-chinatown-london/wong-kei-wonton-soup.jpg)
 
-*Wong Kei, Wardour Street. Photo: [Romainbehar](https://commons.wikimedia.org/wiki/File:London_-_Wardour_Street,_Wong_Kei_door.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons.*
+*Wonton noodle soup at Wong Kei.*
 
 **Several floors of Hong Kong diner** behind an Edwardian doorway on Wardour Street, known for decades for its brusque service and roast meats over rice.
 
@@ -150,6 +158,10 @@ Our [dim sum guide](/articles/best-dim-sum-london/) compares these with the rest
 ### Tao Tao Ju
 
 *££ · 15 Lisle Street · £15 minimum spend · [book a table](https://web.dojo.app/create_booking/vendor/zVkxS5iHOE0AEx5AITZIlNNd3NEbhcfG4qNmfRPt4Gg_restaurant)*
+
+![A bamboo steamer basket of pork and prawn siu mai dim sum at Tao Tao Ju](../../assets/articles/best-food-chinatown-london/tao-tao-ju-siu-mai.jpg)
+
+*Siu mai at Tao Tao Ju.*
 
 **Dim sum made on site each day**, in a dining room that is quieter and smarter than Lisle Street outside.
 
@@ -181,9 +193,9 @@ A **family-run Gerrard Street room** with dark wood, low lighting and tablecloth
 
 *££ · 15–16 Gerrard Street · open until 2am Thursday to Saturday · walk-in*
 
-![The tall brick front of Dumplings' Legend on Gerrard Street, with its sign at street level and painted figures and Opium lanterns on the floors above](../../assets/articles/best-food-chinatown-london/dumplings-legend-gerrard-street.jpg)
+![Chefs folding xiao long bao dumplings behind the glass-walled kitchen inside Dumplings' Legend](../../assets/articles/best-food-chinatown-london/dumplings-legend-glass-kitchen.jpg)
 
-*Dumplings' Legend, Gerrard Street. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:Dumplings%27_Legend_-_2024-08-21.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*
+*The dumpling kitchen at Dumplings' Legend.*
 
 A **glass-walled kitchen on Gerrard Street** where the xiao long bao are folded in front of the queue. Opium, a cocktail bar that also serves dim sum, is upstairs.
 
@@ -219,6 +231,10 @@ Order the **Singapore laksa** or **Penang assam laksa** (£14.50 each). **Bak ku
 
 *££ · 5 Macclesfield Street · [book a table](https://www.rasasayangfood.com/booking/)*
 
+![Nasi lemak, char kway teow, curries and fried dishes laid out on a yellow table at Rasa Sayang in Chinatown](../../assets/articles/best-food-chinatown-london/rasa-sayang-food.jpg)
+
+*Nasi lemak and other Malaysian dishes at Rasa Sayang.*
+
 **Malaysian and Singaporean cooking** in a glass-fronted room on Macclesfield Street. The menu is halal.
 
 **Nasi lemak**, **Hainanese chicken rice** and **Singapore laksa** are £15.95 each. **Singapore chilli crab** is £33.95.
@@ -244,6 +260,10 @@ Our [hot pot guide](/articles/best-hot-pot-london/) explains how ordering works 
 ### Shu Xiang Ge
 
 *£££ · 10 Gerrard Street · book a few days ahead*
+
+![A divided stainless-steel Sichuan hot pot filled with chilli oil broth and mushroom broth surrounded by plates of meat and crispy pork at Shu Xiang Ge](../../assets/articles/best-food-chinatown-london/shu-xiang-ge.jpg)
+
+*Split Sichuan hot pot at Shu Xiang Ge.*
 
 **Sichuan hot pot in a nine-grid pot**: one broth split into nine compartments, so each ingredient cooks in the grid that suits it. A split pot is there for anyone who cannot take the heat.
 
@@ -275,9 +295,9 @@ Order **xiao long bao**, **oyster omelette**, **beef noodle soup** or **gua bao*
 
 *£ · 26–27 Lisle Street · walk-in only · [the venue's site](https://bun.house/pages/bun-house-chinatown)*
 
-![The dark green shopfront of Bun House on Lisle Street at dusk, with a queue on the pavement and pendant lights in the window](../../assets/articles/best-food-chinatown-london/bun-house-lisle-street.jpg)
+![Steamed Cantonese bao buns in a bamboo basket at Bun House on Lisle Street](../../assets/articles/best-food-chinatown-london/bun-house-steamed-bao.jpg)
 
-*Bun House, Lisle Street. Photo: [Andy Li](https://commons.wikimedia.org/wiki/File:Bun_House_Lisle_Street.jpg), [CC0](https://creativecommons.org/publicdomain/zero/1.0/), via Wikimedia Commons.*
+*Steamed buns at Bun House.*
 
 **Steamed buns from the counter**, with a café behind for Cantonese small plates.
 
@@ -289,6 +309,10 @@ The **custard bun** with salted egg yolk is the one to start with. Then the **la
 
 *£ · Newport Place · 10.30am to 9pm daily*
 
+![Trays of glazed egg yolk pastries, mini mooncakes and pandan cakes inside the glass counter at Chinatown Bakery](../../assets/articles/best-food-chinatown-london/chinatown-bakery.jpg)
+
+*Pastries and mooncakes at Chinatown Bakery.*
+
 **Egg tarts, bolo bao and taiyaki** from the window on Newport Place, at bakery prices. There is usually a queue.
 
 Order an **egg tart** warm from the tray and a **bolo bao**, the sugar-crusted "pineapple bun" with no pineapple in it. The **taiyaki**, fish-shaped cakes, are cooked in the front window. Savoury buns include BBQ pork and spring onion with pork floss.
@@ -299,10 +323,6 @@ Order an **egg tart** warm from the tray and a **bolo bao**, the sugar-crusted "
 
 *£ · 14 Little Newport Street · queue, takeaway*
 
-![Good Friend's yellow and red shopfront on Little Newport Street, signed for deep-fried chicken breast and bubble tea, under a string of red lanterns](../../assets/articles/best-food-chinatown-london/good-friend-little-newport-street.jpg)
-
-*Good Friend, Little Newport Street. Photo: [No Swan So Fine](https://commons.wikimedia.org/wiki/File:14_Little_Newport_Street,_March_2022.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
-
 **Taiwanese fried chicken from a yellow shopfront** a minute from Leicester Square.
 
 **Popcorn chicken** is the order, shaken with one of eleven seasonings; plum and chilli is the popular one. The menu also has a flattened whole crispy chicken breast.
@@ -312,10 +332,6 @@ Order an **egg tart** warm from the tray and a **bolo bao**, the sugar-crusted "
 ### Chinese Tapas House
 
 *£ · 15 Little Newport Street · 11.30am to 9pm daily*
-
-![Chinese Tapas House's purple shopfront on Little Newport Street, with Good Friend next door on the left and customers at the counter](../../assets/articles/best-food-chinatown-london/chinese-tapas-house-little-newport-street.jpg)
-
-*Chinese Tapas House, Little Newport Street. Photo: [No Swan So Fine](https://commons.wikimedia.org/wiki/File:15_Little_Newport_Street,_Chinatown,_June_2023.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
 
 A counter next door to Good Friend making **jianbing**: a crêpe cooked on a hot plate with egg, coriander, chilli sauce and a crisp cracker folded inside. It also serves malatang and bubble waffles.
 
@@ -332,6 +348,10 @@ Newport Court has four bubble tea shops within a few doors of each other; our [b
 ### Mamasons Dirty Ice Cream
 
 *£ · 32 Newport Court · walk-in · noon to 10pm*
+
+![A warm toasted pandesal ice cream bun filled with purple ube ice cream at Mamasons Dirty Ice Cream](../../assets/articles/best-food-chinatown-london/mamasons-bilog.jpg)
+
+*The ube bilog at Mamasons.*
 
 **Filipino ice cream** on Newport Court. The flavours lead with **ube**, the purple yam, alongside Milo and queso.
 
@@ -376,6 +396,10 @@ Order a **cake** with a milk tea.
 ### Speedboat Bar
 
 *££ · 30 Rupert Street · until 1am Friday and Saturday · [book a table](https://www.sevenrooms.com/explore/speedboat/reservations/create/search?venues=speedboat%2Cplaza)*
+
+![A pot of orange curry broth with crispy pork, prawns, a raw egg yolk, lime and morning glory at Speedboat Bar on Rupert Street](../../assets/articles/best-food-chinatown-london/speedboat-bar.jpg)
+
+*Speedboat Bar on Rupert Street.*
 
 **Canteen food from Bangkok's Chinatown**, on the street that runs along Chinatown's western edge. Loud, bright and boozy, with a pool table upstairs.
 

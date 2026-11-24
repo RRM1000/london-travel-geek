@@ -67,6 +67,10 @@ It runs east from the station, turns north beneath Exhibition Road and comes out
 
 *About £280 · Breakfast extra · 10 Harrington Road, SW7 3ER · Two minutes from the tunnel*
 
+![The Victorian corner facade of The Ampersand Hotel on Harrington Road in South Kensington](../../assets/articles/where-to-stay-south-kensington/the-ampersand-hotel-room.jpg)
+
+*The Ampersand Hotel.*
+
 The themed floors are the room grades, and the order tells you the size: astronomy in the Singles and Small Doubles, music in the Superiors, ornithology in the Deluxes, botany in the Deluxe Studios and geometry in the top-floor suites. Choose on the grade, not on the theme.
 
 **The room worth crossing London for is the Science Family Suite**, which is two connecting bedrooms — a children's room built around a rocket-shaped bunk bed, and an adult room in the hotel's velvet-headboard house style, with a bath-and-shower bathroom. It takes its cue from the Science Museum a few minutes up the road.
@@ -77,6 +81,10 @@ Apero is the restaurant and there are two afternoon teas, a Science one and a Ju
 
 *About £280 · 37 rooms · 8–10 Queensberry Place, SW7 2EA · Check-in 2pm, out at noon*
 
+![The white stucco townhouse frontage of The Exhibitionist Hotel on Queensberry Place](../../assets/articles/where-to-stay-south-kensington/the-exhibitionist-hotel-room.jpg)
+
+*The Exhibitionist Hotel.*
+
 Thirty-seven rooms one street west of Exhibition Road, where the corridors are the gallery and the suites are commissions. **Trash City** is by the street artist Dotmasters; there are penthouses curated by the furniture makers Jimmie Martin and by Squint; and the Splash Suites have a jacuzzi in the bedroom.
 
 **The fact to have straight before booking is that it does not sell family rooms at all.** The hotel's own site sends families across the road to its sister property, The Gainsborough.
@@ -86,6 +94,14 @@ Rooms are small for the rate, and the ground floor is a bar and lounge, not a re
 ### Cheval Gloucester Park — the family answer, and it will sell you one night
 
 *£££ · 98 apartments · Ashburn Place, SW7 4LL · Gloucester Road 220m · Breakfast extra*
+
+<div class="photo-row">
+
+![A bright apartment bedroom at Cheval Gloucester Park in South Kensington](../../assets/articles/where-to-stay-south-kensington/cheval-gloucester-park-bedroom.jpg)
+
+![A marble-tiled bathroom at Cheval Gloucester Park](../../assets/articles/where-to-stay-south-kensington/cheval-gloucester-park-bathroom.jpg)
+
+</div>
 
 Ninety-eight serviced apartments in one-, two- and three-bedroom sizes with three five-bedroom penthouses on top, and **Cheval takes bookings of any length**, where most apartment operators at this address want a week minimum.
 
