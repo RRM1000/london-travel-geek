@@ -3,7 +3,7 @@ title: "Hotel Spa and Pool Day Passes in London: Prices, Times and Age Limits"
 seoTitle: "Hotel Spa Day Passes London: From £80, No Stay Needed"
 description: "London hotel spas that sell day access to non-guests: £80 for four hours at St Pancras, £150 at The Landmark, £175 at Corinthia, and spa days from £125."
 publishedAt: 2026-11-19
-updatedAt: 2026-11-19
+updatedAt: 2026-11-24
 reviewBy: 2027-02-19
 sites: [london]
 canonicalSite: london
@@ -14,28 +14,28 @@ heroImage: "../../assets/articles/hotel-spa-pool-day-passes-london/corinthia-lon
 heroImageAlt: "The pool in the spa at Corinthia London, set between black marble walls with white loungers along one side and the water lit from below"
 faq:
   - q: "Can you use a London hotel spa without staying there?"
-    a: "At some, yes. St Pancras London sells a four-hour Spa Day Pass for £80 with no treatment needed, The Landmark London sells a two-hour Thermal Journey for £150, and Corinthia London sells a Spa Experience Pass at £175 on weekdays and £200 at weekends. Others, including Hotel Café Royal and Rena Spa at Leonardo Royal London St Paul's, sell spa days that bundle a treatment."
+    a: "At some, yes. St Pancras London sells a four-hour Spa Day Pass for £80 with no treatment needed, Pan Pacific London a six-hour Wellbeing Day Pass for £120, The Landmark London sells a two-hour Thermal Journey for £150, and Corinthia London sells a Spa Experience Pass at £175 on weekdays and £200 at weekends. Others, including Hotel Café Royal and Rena Spa at Leonardo Royal London St Paul's, sell spa days that bundle a treatment."
   - q: "How much is a hotel spa day pass in London?"
-    a: "From £80 for four hours at St Pancras London to £200 for a weekend pass at Corinthia. The Landmark's pass is £150 for two hours and Pan Pacific London's Sunday roast and spa pass is £157.50. With a treatment included, Rena Spa at Leonardo Royal London St Paul's starts at £125 on weekdays, and Hotel Café Royal's weekday escape is £229."
+    a: "From £80 for four hours at St Pancras London to £200 for a weekend pass at Corinthia. Pan Pacific London's six-hour pass is £120, The Landmark's is £150 for two hours, and Pan Pacific's Sunday roast and spa pass is £157.50. With a treatment included, Rena Spa at Leonardo Royal London St Paul's starts at £125 on weekdays, and Hotel Café Royal's weekday escape is £229."
   - q: "Do you need to book a treatment to use a hotel pool in London?"
-    a: "It depends on the hotel. St Pancras London, The Landmark and Corinthia sell access with no treatment. Mandarin Oriental Hyde Park lets non-guests use its heat and water facilities when they book a treatment of two hours or longer. Pan Pacific London opens its wellbeing floor to external guests who book a treatment on a weekday."
+    a: "It depends on the hotel. St Pancras London, Pan Pacific London, The Landmark and Corinthia sell access with no treatment. Mandarin Oriental Hyde Park lets non-guests use its heat and water facilities when they book a treatment of two hours or longer. Pan Pacific London also opens its wellbeing floor to external guests who book a treatment on a weekday."
   - q: "What is the minimum age for a hotel spa in London?"
     a: "It varies. Rena Spa at Leonardo Royal London St Paul's is open to those over 18, and over 16 under certain conditions you arrange with the spa. Hotel Café Royal offers its fitness centre and massages from 16. Mandarin Oriental Hyde Park sets 18 as the minimum for its spa and fitness centre. St Pancras London keeps its children's hours for in-house guests only."
   - q: "How long is a spa day pass in London?"
-    a: "Two to four hours at the pass-only spas: two hours at The Landmark, four at St Pancras London and at Pan Pacific London. Packages with a treatment include 90 minutes of spa access at Hotel Café Royal's weekday escape and three hours at its Indulgent Spa Day and at Rena Spa."
+    a: "Two to six hours at the pass-only spas: two hours at The Landmark, four at St Pancras London and six with Pan Pacific London's Wellbeing Day Pass. Packages with a treatment include 90 minutes of spa access at Hotel Café Royal's weekday escape and three hours at its Indulgent Spa Day and at Rena Spa."
   - q: "Can you book a hotel spa day on the day?"
     a: "Not always. The Landmark requires advance booking, and its Wellness Reset Journey must be booked 24 hours ahead. Pan Pacific London's Sunday roast and spa pass is sold as a voucher that cannot be used until at least 7 days after purchase. Rena Spa charges the full price for a cancellation within 48 hours."
 ---
 
-Of the seven hotel spas below, three sell access on its own, three bundle it with a treatment, a lunch or a Sunday roast, and one lets you in only with a treatment of two hours or longer. Each entry gives the price, how long you get and what the pass includes.
+Of the seven hotel spas below, four sell access on its own, two bundle it with a treatment, and one lets you in only with a treatment of two hours or longer. Pan Pacific London also sells a pass with a Sunday roast. Each entry gives the price, how long you get and what the pass includes.
 
-> 💡 **The Short Version:** The cheapest way into a hotel pool is the **[St Pancras London](#st-pancras-london) Spa Day Pass at £80 for four hours**, with no treatment: £20 an hour against £75 at **[The Landmark](#the-landmark-london)** (£150 for two). **[Corinthia](#corinthia-london)** charges **£175 on weekdays and £200 at weekends** for its thermal circuit. **[Pan Pacific London](#pan-pacific-london)** sells **£157.50 for a Sunday roast and four hours in its spa**, including an 18.5m infinity pool. If you want a treatment anyway, **[Rena Spa at Leonardo Royal St Paul's](#rena-spa-leonardo-royal-london-st-pauls)** has spa days from **£125**. Book ahead: The Landmark requires it, and the Pan Pacific voucher takes 7 days to activate.
+> 💡 **The Short Version:** The cheapest way into a hotel pool is the **[St Pancras London](#st-pancras-london) Spa Day Pass at £80 for four hours**, with no treatment: £20 an hour against £75 at **[The Landmark](#the-landmark-london)** (£150 for two). **[Corinthia](#corinthia-london)** charges **£175 on weekdays and £200 at weekends** for its thermal circuit. **[Pan Pacific London](#pan-pacific-london)** works out the same per hour: **£120 for six hours** with its 18.5m infinity pool, or £157.50 for a Sunday roast and four hours. If you want a treatment anyway, **[Rena Spa at Leonardo Royal St Paul's](#rena-spa-leonardo-royal-london-st-pauls)** has spa days from **£125**. Book ahead: The Landmark requires it, and the Pan Pacific voucher takes 7 days to activate.
 
 | Hotel | Area | From | Time | Pool and facilities |
 | --- | --- | --- | --- | --- |
 | **St Pancras London** | King's Cross | £80 | 4 hours | Relaxation pool, sauna, steam room, gym |
 | **The Landmark London** | Marylebone | £150 | 2 hours | Vitality pool, sauna, steam room |
-| **Pan Pacific London** | City | £157.50, Sundays | 4 hours | 18.5m infinity pool, steam rooms, saunas, gym; includes a roast |
+| **Pan Pacific London** | City | £120 | 6 hours | 18.5m infinity pool, steam room, sauna, gym; £157.50 with a Sunday roast |
 | **Corinthia London** | Whitehall | £175 weekdays, £200 weekends | – | Pools, amphitheatre sauna, steam room, cold plunge |
 | **Hotel Café Royal** | Regent Street | £229, Monday to Thursday | 90 minutes | 18m lap pool, hammam, sauna, jacuzzi; includes a treatment |
 | **Rena Spa, Leonardo Royal St Paul's** | St Paul's | £125 weekdays | 3 hours | Heated pool, spa pool, steam room, sauna; includes a treatment |
@@ -80,9 +80,11 @@ The Biome spa is on a black-marble thermal floor, with the heat and water circui
 
 *The pool at Pan Pacific London.*
 
+**The SENSORY Wellbeing Day Pass is £120 for six hours** with the 18.5m infinity pool, sauna, steam room and gym, plus a glass of Champagne or a soft drink and 10% off treatments; it is £240 for two. [Buy it from Pan Pacific London's voucher page](https://panpacificlondon.wearegifted.co.uk/sensory-wellbeing-day-pass), and use it within 12 months.
+
 **The Sunday Roast and Wellbeing Day Pass is £157.50**: a roast at Straits Kitchen (Hereford sirloin, pork belly, chicken ballotine, sea bass or roasted cauliflower), then four hours in the spa before or after, with the gym, steam rooms, saunas and the 18.5m infinity pool overlooking Bishopsgate Plaza. The roast is served 1pm to 4pm. Robes, slippers and wet clothing are not allowed in the restaurant.
 
-**The one thing that decides a visit:** it is sold as a voucher that cannot be used until 7 days after purchase, and bookings are made by emailing the hotel's dining team. [Buy it from Pan Pacific London's voucher page](https://panpacificlondon.wearegifted.co.uk/sunday-roast-wellbeing-day-pass). On weekdays, the hotel also opens its wellbeing floor to external guests who book a treatment.
+**The one thing that decides a visit:** the Sunday pass is sold as a voucher that cannot be used until 7 days after purchase, and bookings are made by emailing the hotel's dining team. [Buy it from Pan Pacific London's voucher page](https://panpacificlondon.wearegifted.co.uk/sunday-roast-wellbeing-day-pass). On weekdays, the hotel also opens its wellbeing floor to external guests who book a treatment.
 
 ### Hotel Café Royal
 
@@ -110,13 +112,13 @@ The Biome spa is on a black-marble thermal floor, with the heat and water circui
 
 ## Before you book
 
-**Count the hours, not just the price.** Passes are fixed blocks: four hours at St Pancras and Pan Pacific, two at The Landmark, three with the Rena and Café Royal spa days.
+**Count the hours, not just the price.** Passes are fixed blocks: six hours at Pan Pacific (four with the roast), four at St Pancras, two at The Landmark, three with the Rena and Café Royal spa days.
 
-**Ask what the price includes.** Café Royal and Rena include a treatment and Pan Pacific a roast; St Pancras, The Landmark and Corinthia sell access alone, and those are the prices to compare per hour.
+**Ask what the price includes.** Café Royal and Rena include a treatment; St Pancras, Pan Pacific's Wellbeing Day Pass, The Landmark and Corinthia sell access alone, and those are the prices to compare per hour.
 
 **Bring a swimsuit.** St Pancras provides a robe with its pass, and Rena a robe and slippers with its spa days.
 
-**Read the cancellation terms.** Rena charges in full inside 48 hours, and the Pan Pacific voucher is non-refundable.
+**Read the cancellation terms.** Rena charges in full inside 48 hours, and the Pan Pacific Sunday roast voucher is non-refundable.
 
 For a pool you can swim lengths in without a spa fee, our [hotels with a pool guide](/articles/hotels-with-pool-london/) covers the lengths, the children's hours and which pools are guests only, and our [gyms guide](/articles/best-gyms-london/#where-to-swim) prices the council pools and lidos. If you only want a bed and a shower for the afternoon, [a day room](/articles/day-rooms-london/) is cheaper, and a few include pool access.
 

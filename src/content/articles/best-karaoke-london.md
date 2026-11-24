@@ -7,8 +7,8 @@ heroImageAlt: "The glass front of BAM Karaoke Box on Victoria Street, with green
 heroImageCredit: "Ewan-M"
 heroImageSource: "https://commons.wikimedia.org/wiki/File:BAM_Karaoke_Box,_Victoria,_SW1.jpg"
 publishedAt: 2026-10-08
-updatedAt: 2026-10-26
-reviewBy: 2026-11-23
+updatedAt: 2026-11-24
+reviewBy: 2026-12-24
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -105,6 +105,8 @@ Only Time Out ranks London's karaoke, and its number one, Rowans in Finsbury Par
 **Named by 14 of the 24 sources, more than any other venue here**, from Time Out and Londonist to two YouTube channels and Reddit. It opened on Poland Street in 2005, and calls itself London's first dedicated private karaoke venue. Each soundproofed room has two microphones and a "Thirsty?" button that brings cocktails and sharing plates to the door.
 
 Soho has nine rooms for two to 15; Holborn, the biggest, has ten rooms, an LED dance floor and DJs at weekends, with one room for 30. **Every booking is two or three hours, at £8 a head an hour off-peak and £11 to £14 at peak**, which starts at 7pm on weekdays. Holborn runs to 3am Thursday to Saturday and is closed Sunday and Monday.
+
+**Students get 50% off karaoke, food and selected drinks** on Mondays at Liverpool Street and Wednesdays at Holborn, as long as one person in the group shows a student card. The offer is paused from 26 November to 23 December. Details on [Lucky Voice's student night page](https://www.luckyvoice.com/student-night).
 
 > ⚠️ **Islington and Waterloo closed on 6 October 2026**, when Moyagi Group bought Lucky Voice out of administration. Several lists still name five branches; three are open.
 
