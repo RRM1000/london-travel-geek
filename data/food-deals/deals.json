@@ -41,7 +41,7 @@
   "branches": "Marylebone",
   "endDate": null,
   "sourceUrl": "https://www.2850.co.uk/wp-content/uploads/2026/11/MB-lunch-winter-26-1.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "2 courses for 19.95 / 3 courses for 25.95",
   "area": "Marylebone",
   "show": {
@@ -182,7 +182,7 @@
   "branches": "all",
   "endDate": null,
   "sourceUrl": "https://www.angussteakhouse.co.uk/",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "KIDS EAT FREE One child aged 8 or under eats free with every full-paying adult"
  },
  {
@@ -250,7 +250,7 @@
   "branches": "St James's",
   "endDate": null,
   "sourceUrl": "https://www.arlington.london/wp-content/uploads/2026/09/Classics-Set-Menu-September-2026-V2-2.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "2 courses 29.00 3 courses 34.00",
   "area": "St James's",
   "show": {
@@ -306,7 +306,7 @@
   "branches": "Fitzrovia",
   "endDate": null,
   "sourceUrl": "https://www.arrosqd.com/lunch",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "Express Lunch Menu 2 courses £29 · 3 courses £34 Monday to Friday, 12pm–3pm.",
   "area": "Fitzrovia",
   "show": {
@@ -2042,17 +2042,16 @@
   "slug": null,
   "site": "https://www.caffenero.com/uk",
   "type": "app-reward",
-  "offer": "Collect a stamp for each qualifying handcrafted drink on the paper card or app, and the 10th is free (any size, specialities included).",
+  "offer": "Collect a stamp for each handmade drink on the paper card or app, and the 10th drink is free, in any size.",
   "price": null,
   "days": null,
   "times": null,
-  "conditions": "Nine stamps on a completed card; no stamps on partner-discounted transactions; app cards expire after 18 months.",
+  "conditions": "Nine stamps complete a card; water and juice do not count; the free-drink reward expires 18 months after you earn it.",
   "branches": "all",
   "endDate": null,
-  "sourceUrl": "https://www.caffenero.com/uk/paper-loyalty-terms",
-  "checked": "2026-11-12",
-  "quote": "Collect a stamp every time you purchase a qualifying handcrafted drink and your 10th drink is on us.",
-  "recheck": "changed"
+  "sourceUrl": "https://www.caffenero.com/uk/help/the-app",
+  "checked": "2026-11-24",
+  "quote": "When you collect nine stamps, your next handmade drink will be on us. You can choose any size, so go big!"
  },
  {
   "name": "Caffè Nero",
@@ -2063,13 +2062,12 @@
   "price": null,
   "days": null,
   "times": null,
-  "conditions": "Applies on paper card or app.",
+  "conditions": "The barista adds the stamp when you pay.",
   "branches": "all",
   "endDate": null,
-  "sourceUrl": "https://www.caffenero.com/uk/paper-loyalty-terms",
-  "checked": "2026-11-12",
-  "quote": "Bring your own reusable cup and you'll receive a bonus stamp, whether you're collecting stamps on a paper loyalty card or through the Caffè Nero app.",
-  "recheck": "changed"
+  "sourceUrl": "https://www.caffenero.com/uk/help/the-app",
+  "checked": "2026-11-24",
+  "quote": "Will I receive an additional stamp for using a reusable cup? Yes. The Barista will add this on when you pay."
  },
  {
   "name": "Caravan",
@@ -3993,7 +3991,7 @@
   "branches": "Covent Garden",
   "endDate": null,
   "sourceUrl": "https://cdn.prod.website-files.com/6932dc91bcf2019d2c1c5686/6ac353862435ff11b5fc839a_Henri%20Lunch%20and%20Pre%20theatre%2002.10.2026.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "LUNCH & PRE THEATER SET MENU ... 2 COURSE 29£ 3 COURSE 33£",
   "area": "Covent Garden",
   "show": {
@@ -4128,7 +4126,7 @@
   "branches": "Mayfair",
   "endDate": null,
   "sourceUrl": "https://gattopardo.restaurant/wp-content/uploads/2026/06/Il-Gattopardo-Mayfair-Set-Lunch-Menu.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "IL PRANZETTO / 2 COURSES • £34 / 3 COURSES • £38 / Set Lunch Menu",
   "show": {
    "restaurant-deals-london#mayfair-st-james-s-marylebone-and-fitzrovia": {
@@ -6661,7 +6659,7 @@
   "branches": "Soho",
   "endDate": null,
   "sourceUrl": "https://www.meleepere.co.uk/s/SET-MENU-MELE-september-2026.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "TWO OR THREE COURSE SET MENU £19.50 or £23.50",
   "area": "Soho",
   "show": {
@@ -6769,7 +6767,7 @@
   "branches": "Soho (28 Wardour Street)",
   "endDate": null,
   "sourceUrl": "https://mrwugroup.com/",
-  "checked": "2026-11-12",
+  "checked": "2026-11-24",
   "quote": "Eat As Much As You Like Eat In £9.95 per person Takeaway £5.00 per box",
   "style": "chinese",
   "area": "Soho",
@@ -6798,7 +6796,7 @@
   "branches": "King's Road, Chelsea",
   "endDate": null,
   "sourceUrl": "https://muccisrestaurant.co.uk/menu/kitchen.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "Starters 10 / Italian classics 15 / Pasta 20 / Meat & fish 20",
   "show": {
    "restaurant-deals-london#reliable-mid-range-set-lunches": {
@@ -7840,7 +7838,7 @@
   "branches": "Angel, Queensway, Victoria, West End",
   "endDate": null,
   "sourceUrl": "https://www.preto.co.uk/app/uploads/2026/07/Dinner-Menu-Angel.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "Everything from the salad bar plus our complete rodizio service. A continuous selection of grilled meats, carved tableside by our passadores.",
   "style": "rodizio",
   "area": "Angel",
@@ -10037,7 +10035,7 @@
   "branches": "Kensington",
   "endDate": null,
   "sourceUrl": "http://thehollandkensington.co.uk/wp-content/uploads/2026/11/Set-Lunch-4-11-26.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "Set lunch 2 courses for £18 or 3 for £23",
   "area": "Kensington",
   "show": {
@@ -10793,7 +10791,7 @@
   "branches": "Covent Garden",
   "endDate": null,
   "sourceUrl": "https://town.restaurant/wp-content/uploads/TOWN_QuickDinner-Novweb-7.pdf",
-  "checked": "2026-11-23",
+  "checked": "2026-11-24",
   "quote": "Snack + 2 Courses 32 Snack + 3 Courses 38 ... A QUICK DINNER AVAILABLE FOR PARTIES UP TO 4 GUESTS 17:00-18:00",
   "area": "Covent Garden",
   "show": {
