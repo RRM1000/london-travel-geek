@@ -3,7 +3,7 @@ title: "The Best Cinema Deals in London: Memberships, Discounts and Cheap Ticket
 seoTitle: "London Cinema Deals 2026: Memberships & Cheap Tickets"
 description: "Every cinema membership and discount in London compared — Cineworld, Odeon, Picturehouse, Curzon, Everyman and the independents — plus which is worth it at your viewing habits."
 publishedAt: 2026-08-30
-updatedAt: 2026-10-26
+updatedAt: 2026-11-24
 sites:
   - london
 canonicalSite: london
@@ -19,7 +19,7 @@ faq:
   - q: "What is the cheapest cinema ticket in London?"
     a: "Genesis Cinema in Mile End charges £4.99 Monday to Wednesday, and that price applies to adults, children, students and over-60s alike. Peckhamplex is £6.99 plus a 60p booking fee any day. If you are 16 to 25, BFI Southbank is £4 and Picturehouse is £6.99 Monday to Thursday."
   - q: "Is a cinema unlimited card worth it in London?"
-    a: "It depends entirely on frequency. Cineworld Unlimited runs £12.99 to £22.99 a month depending on which cinemas you want, and ODEON myLIMITLESS is £16.99 or £19.99. Against typical London walk-up prices, both pay for themselves at roughly two films a month. Below that, a free 2-for-1 scheme or a cheap independent will beat them."
+    a: "It depends entirely on frequency. Cineworld Unlimited runs £12.99 to £22.99 a month depending on which cinemas you want, and ODEON myLIMITLESS is £17.99 or £20.99. Against typical London walk-up prices, both pay for themselves at roughly two films a month. Below that, a free 2-for-1 scheme or a cheap independent will beat them."
   - q: "Can you still get 2-for-1 cinema tickets with Meerkat Movies?"
     a: "Yes, and it no longer requires buying insurance. Compare the Market now gives a 2-for-1 cinema code to anyone who downloads its app and signs in — a new code every Tuesday or Wednesday, running until 19 July 2027."
   - q: "What is the best cinema deal if you are under 25?"
@@ -27,7 +27,7 @@ faq:
   - q: "Which London cinema membership pays for itself fastest?"
     a: "The Prince Charles Cinema in Leicester Square. Membership is £15 a year, or £60 for life, and saves at least £2.50 to £3 on every ticket — a member pays £8 for a weekday matinee against £11. Five or six visits covers the annual fee, and the lifetime option covers itself in about twenty."
   - q: "Do phone networks and banks still do cinema offers?"
-    a: "Some do. O2 Priority offers two Vue tickets for £9 or four for £18 on any day at any UK Vue, with 20% off food and drink. Sky Cinema customers get two free Vue tickets every month, and Vitality health and life insurance customers get a free ticket. Compare the Market's Meerkat Movies gives 2-for-1 on Tuesdays or Wednesdays."
+    a: "Some do. O2 Priority offers two Vue tickets for £9 or four for £18 on any day at any UK Vue, with 20% off food and drink. Sky Cinema customers get two free Vue tickets every month, for standard screenings Sunday to Thursday, and Vitality health and life insurance customers get a free ticket. Compare the Market's Meerkat Movies gives 2-for-1 on Tuesdays or Wednesdays."
 heroImage: "../../assets/articles/best-cinemas-london/garden-cinema-bar.jpg"
 heroImageAlt: "The art deco Garden Bar inside The Garden Cinema, with a curved red bar under neon lettering, red velvet banquettes and a film-collage mural along the wall"
 ---
@@ -69,7 +69,7 @@ The **CEA Card** is run by the UK Cinema Association and lets a disabled cardhol
 | **BFI 25 & Under** | Free, ages 16–25 | **£4** at BFI Southbank any time, or **£6** at BFI festivals including the London Film Festival |
 | **Picturehouse U25** | Free, ages 16–25 | **£6.99** all day Monday to Thursday |
 | **Curzon Under 25** | Free | Discounted tickets all week |
-| **ODEON myLIMITLESS Plus** | Student rate | **£15.99/month** — 20% off the usual price, verified through Student Beans |
+| **ODEON myLIMITLESS Plus** | Student rate | **£16.79/month** — 20% off the usual price, verified through Student Beans |
 
 BFI at £4 has no day-of-week restriction and a full repertory programme. Picturehouse U25 at £6.99 covers Monday to Thursday.
 
@@ -105,14 +105,14 @@ Monthly passes for people who go often. The break-even is roughly **two films a 
 | Scheme | Cost | Minimum term | What you get |
 | --- | --- | --- | --- |
 | **Cineworld Unlimited** | £12.99–£22.99/month | 3 months | Unlimited films. Four price groups by cinema — Group 4 at £22.99 is the only one covering all sites |
-| **ODEON myLIMITLESS** | £16.99/month | 3 months | Unlimited standard 2D. Luxe cinemas cost £3 extra per visit, £5 at Islington |
-| **ODEON myLIMITLESS Plus** | £19.99/month | 3 months | Adds Luxe access, iSense, 3D and premium recliner seats at no extra charge |
+| **ODEON myLIMITLESS** | £17.99/month | 3 months | Unlimited standard 2D. Luxe cinemas cost £3 extra per visit, £5 at Islington |
+| **ODEON myLIMITLESS Plus** | £20.99/month | 3 months | Adds Luxe access, iSense, 3D and premium recliner seats at no extra charge |
 | **Curzon Cult** | £25/month or £285/year | — | Curzon's own wording is "7 free tickets a week", in cinemas or on Curzon Home Cinema |
 | **Everyman Everywhere** | £59/month or £680/year | — | "Unlimited film for a year", two tickets per show |
 
 **Cineworld prices by group of cinemas.** The £12.99 headline covers selected cinemas only; the tiers rise through £17.99 and £19.99 to £22.99, and only the top tier includes all cinemas. Check which group your local sits in, as West End sites sit at the expensive end. IMAX, 4DX and ScreenX cost extra at every tier.
 
-**ODEON** at £16.99 charges £3 per visit at its Luxe cinemas, so a West End regular should compare myLIMITLESS Plus at £19.99. Both tiers cap you at four tickets per booking, with bookings at least 90 minutes apart, and exclude event cinema, premieres and festivals.
+**ODEON** at £17.99 charges £3 per visit at its Luxe cinemas, so a West End regular should compare myLIMITLESS Plus at £20.99. Both tiers cap you at four tickets per booking, with bookings at least 90 minutes apart, and exclude event cinema, premieres and festivals.
 
 **Curzon Cult at £25 a month** also covers Curzon Home Cinema, so it doubles as a streaming subscription.
 
@@ -125,7 +125,7 @@ You pay once a year for a bundle of free tickets plus a standing discount. They 
 | Membership | Cost | Free tickets | Notable extras |
 | --- | --- | --- | --- |
 | **Prince Charles Cinema** | **£15/year**, or **£60 for life** | — | At least £2.50 off every ticket, £8 weekday matinees, regular £1 member screenings |
-| **BFI** | £44/year (direct debit, paper-free) | 2 | Up to £2.50 off, priority festival booking |
+| **BFI** | £44/year by direct debit, paper-free (£54 with printed guides, £60 by card) | 2 | Up to £2.50 off, priority festival booking |
 | **Curzon Classic** | from £55/year | 5 | Usable in cinemas or on Home Cinema |
 | **Picturehouse Weekday Saver** | £69.90/year or £6.99/month | Included | Monday to Thursday, all cinemas except Picturehouse Central |
 | **Everyman** | £95/year | 6 | **Bring a guest free Monday to Thursday** |
@@ -149,13 +149,13 @@ You pay once a year for a bundle of free tickets plus a standing discount. They 
 | --- | --- | --- |
 | **Compare the Market** | 2-for-1, Tuesdays or Wednesdays, **no purchase needed** | Participating cinemas, listed in app |
 | **O2 Priority** | **Two tickets for £9, or four for £18**, any day — plus 20% off food and drink | Any UK Vue |
-| **Sky Cinema** | **Two free tickets every month** | Vue |
+| **Sky Cinema** | **Two free tickets every month**, for standard screenings Sunday to Thursday | Vue |
 | **Vitality** | A free ticket, valid any day | Vue, for health and life insurance customers |
-| **Student Beans** | 20% off ODEON myLIMITLESS Plus, taking it to £15.99/month | ODEON |
+| **Student Beans** | 20% off ODEON myLIMITLESS Plus, taking it to £16.79/month | ODEON |
 
 **O2 Priority:** four tickets for £18 is £4.50 each, any day of the week.
 
-**Sky Cinema's two free Vue tickets a month** are one trip for two, twelve times a year, or 24 separate films.
+**Sky Cinema's two free Vue tickets a month**, Sunday to Thursday, are one trip for two, twelve times a year, or 24 separate films.
 
 ---
 
@@ -165,7 +165,7 @@ You pay once a year for a bundle of free tickets plus a standing discount. They 
 
 **Once a month.** Still not a subscription. Buy a **Prince Charles membership at £15** if you are ever in the West End, because it repays in five visits and includes the £1 screenings. Otherwise keep using the free schemes.
 
-**Two or more films a month.** Now a subscription wins. **ODEON myLIMITLESS Plus at £19.99** has no group system and no per-visit surcharges. **Cineworld** is cheaper if your local sits in a low group and dearer if it does not. Both lock you in for three months.
+**Two or more films a month.** Now a subscription wins. **ODEON myLIMITLESS Plus at £20.99** has no group system and no per-visit surcharges. **Cineworld** is cheaper if your local sits in a low group and dearer if it does not. Both lock you in for three months.
 
 **Two or more a month, and you care what is showing.** **Curzon Cult at £25** covers art-house, foreign-language and independent film at Curzon, plus Curzon Home Cinema, for barely more than a multiplex pass.
 

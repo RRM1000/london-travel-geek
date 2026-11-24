@@ -517,3 +517,50 @@ export default function remarkDealTables() {
     }
   };
 }
+
+// Non-food deals: gyms, spas, cinemas and activities. Each file in data/other-deals/ is an
+// array of deals in the food shape plus "category"; data/other-deals/pages.json maps an
+// article slug to { categories, heading, place, intro }. The table goes where the best-of
+// table would, before the practical section in the back half of the page.
+const OTHER = new URL("data/other-deals/", ROOT);
+const OTHER_MAX = 24;
+function otherData() {
+  try {
+    const pages = JSON.parse(fs.readFileSync(new URL("pages.json", OTHER), "utf8"));
+    const today = new Date().toISOString().slice(0, 10);
+    const deals = fs.readdirSync(OTHER).filter((f) => f.endsWith(".json") && f !== "pages.json")
+      .flatMap((f) => JSON.parse(fs.readFileSync(new URL(f, OTHER), "utf8")))
+      .filter((d) => d.offer && (d.sourceUrl || d.site) && (!d.endDate || d.endDate >= today) && !d.recheck);
+    return { pages, deals };
+  } catch { return null; }
+}
+export function remarkOtherDeals() {
+  return (tree, file) => {
+    const path = String(file.history?.[0] ?? file.path ?? "").replace(/\/g, "/");
+    const slug = path.match(/\/articles\/([a-z0-9-]+)\.md$/)?.[1];
+    const data = slug && otherData();
+    const spec = data?.pages[slug];
+    if (!spec) return;
+    const cats = new Set(spec.categories);
+    const deals = data.deals.filter((d) => cats.has(d.category)).sort((a, b) => a.name.localeCompare(b.name) || (a.endDate ? 0 : 1) - (b.endDate ? 0 : 1)).slice(0, OTHER_MAX);
+    if (deals.length < 2) return;
+    const kids = tree.children;
+    const h2s = kids.map((n, i) => (n.type === "heading" && n.depth === 2 ? i : -1)).filter((i) => i >= 0);
+    const backHalf = h2s.slice(Math.floor(h2s.length / 2));
+    const tail = backHalf.find((i) => TOPIC_TAIL.test(textOf(kids[i]).trim())) ?? -1;
+    let at = backHalf.find((i) => (tail === -1 || i < tail) && TOPIC_END.test(textOf(kids[i]).trim())) ?? -1;
+    if (at === -1) at = tail;
+    if (at === -1) at = kids.length;
+    const header = [spec.place ?? "Where", "When", "Deal"];
+    kids.splice(at, 0,
+      { type: "heading", depth: 2, children: [{ type: "text", value: spec.heading }] },
+      ...(spec.intro ? [{ type: "paragraph", children: [{ type: "text", value: spec.intro }] }] : []),
+      ...table(header, deals.map((d) => {
+        const c = [nameCell(d), when(d) || "Any day", [offer(d), where(d)].filter(Boolean).join(". ")];
+        c[1] = c[1].charAt(0).toUpperCase() + c[1].slice(1);
+        if (d.endDate) c[2] += ` {until=${d.endDate}}`;
+        return c;
+      })),
+    );
+  };
+}

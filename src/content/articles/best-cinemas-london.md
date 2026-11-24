@@ -5,7 +5,7 @@ description: "Where the Lumière brothers first showed film in Britain, a 1913 c
 heroImage: "../../assets/articles/best-cinemas-london/genesis-cinema-mile-end.jpg"
 heroImageAlt: "The curved black frontage of the Genesis Cinema in Mile End, its listings board showing the week's films"
 publishedAt: 2026-08-28
-updatedAt: 2026-11-16
+updatedAt: 2026-11-24
 reviewBy: 2027-01-26
 sites: [london]
 canonicalSite: london
@@ -312,7 +312,7 @@ Cinema in London runs from £4.99 to nearly £19 for the same film.
 
 * **The Prince Charles — £15 a year.** It takes at least £2.50 off every ticket and gives **£8 weekday matinees** and access to **regular £1 screenings**. Six visits and it has paid for itself. Concession £12.50, buyable at the box office only.
 * **The Garden Cinema — £25 a year**: £3 off tickets for you and a friend, one free ticket and free fortnightly members' screenings.
-* **The Castle Cinema** — £35 a year, with **£6 Mondays**, £6 weekday matinees and a friend free at Tuesday to Friday daytime screenings.
+* **The Castle Cinema** — £40 a year (£22.50 concessions), with **£6.75 Mondays**, £7 tickets on Tuesday to Friday daytimes and a friend free Tuesday to Friday before 2pm.
 * **BFI membership** from £44, with two free tickets a year and £6 member screenings.
 
 #### General
