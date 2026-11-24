@@ -3,8 +3,8 @@ title: "Saunas and Cold Plunges in London: Community Saunas, Floating Saunas, Ba
 seoTitle: "Saunas & Cold Plunge in London: Prices and Booking"
 description: "Where to sauna and cold plunge in London: community saunas, a rooftop, saunas on the Thames and Canary Wharf docks, a Russian banya, a Finnish church and a lido. Prices, session lengths, swimwear and booking."
 publishedAt: 2026-11-19
-updatedAt: 2026-11-19
-reviewBy: 2027-03-01
+updatedAt: 2026-11-24
+reviewBy: 2026-12-03
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -131,7 +131,13 @@ For where to eat afterwards, see our [Hackney guide](/articles/hackney-area-guid
 
 *17 Micawber Street, N1 7TB*
 
-**A Russian banya, a wet steam room where you cool off in a cedar plunge pool or under bucket showers, then rest at a table with tea and Eastern European food.** Banya No.1 has been in Hoxton since 2012. The signature is parenie, where a therapist works steam over you with bundles of leafy twigs, called veniks, followed by the plunge. Order it as an add-on. A felt hat, to borrow or buy there, protects your head from the heat.
+**A Russian banya: a light steam room, highly humid but with fine, light steam rather than heavy droplets, then a cedar plunge pool or bucket showers, then a table with tea and Eastern European food.** Banya No.1 has been in Hoxton since 2012. The signature is parenie, where a steam master (banshchik in Russian) works the steam over you with bundles of leafy twigs, called veniks, followed by the plunge. Order it as an add-on. A felt hat, to borrow or buy there, protects your head from the heat.
+
+![A collage of Banya No.1: oak veniks in a wooden tub, parenie on the bench, the cedar plunge pool, bucket showers and a table laid with food and drink](../../assets/articles/saunas-cold-plunge-london/banya-no1.jpg)
+
+*Banya No.1 on Micawber Street, Hoxton. Photo: Banya No.1.*
+
+**In December:** Wednesday Club on 2 December runs from 19:00 to 22:00, from £65, with an aroma steam ritual, breathwork, drumming and a sound bath led by banya master Agate Silova. Private Banya Taiga, for groups of up to 10, runs evening ritual sessions through December from £99 a person. From 19 December to 1 January, peak prices apply to every public session.
 
 **£40 off-peak or £50 at peak for the 90-minute Sauna & Plunge session.** Swimwear is essential in mixed sessions, and you can buy it at reception (£14 shorts, £18 bikini). Nudity is allowed in single-sex sessions, in the wet zone only: women-only on Monday from 9:30 to 12:30, men-only on Tuesday from 19:00 and Friday from 15:30. Children from 8 are admitted. Open 9:30 to 22:30 daily. Cancel up to 72 hours before for a full refund. [Book at gobanya.co.uk](https://gobanya.co.uk/banya-sessions/).
 
