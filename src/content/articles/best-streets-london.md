@@ -2,12 +2,8 @@
 title: "The Best Streets in London, Ranked by How Many Sources Name Them"
 seoTitle: "Best Streets in London 2026: Ranked Across the Lists"
 description: "Portobello Road, Carnaby Street and Neal's Yard are named by the most sources. The streets worth walking in London, ranked, with the day to go and the station for each."
-heroImage: "../../assets/articles/best-streets-london/portobello-road-antique-shops.jpg"
-heroImageAlt: "Pastel-painted terraces and antique shop fronts along Portobello Road, with shoppers on the pavement and a lamp post in the foreground"
-heroImageCredit: "David"
-heroImageSource: "https://commons.wikimedia.org/wiki/File:Portobello_Road,_Notting_Hill,_London_2022-08-18.jpg"
-heroImageLicense: "CC BY 2.0"
-heroImageLicenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+heroImage: "../../assets/articles/best-streets-london/portobello-road.jpg"
+heroImageAlt: "Shoppers on Portobello Road below a house painted as a Union Jack, with pastel terraces and shop fronts along the street"
 publishedAt: 2026-11-22
 updatedAt: 2026-11-22
 reviewBy: 2027-01-22
@@ -81,9 +77,9 @@ A count measures how often a street is written about, and the three kinds of lis
 
 *Notting Hill · Cited by 18 sources · The only London street in Condé Nast Traveler's 71 most beautiful streets in the world, 2024 · Notting Hill Gate or Ladbroke Grove*
 
-![Pastel-painted terraces and antique shop fronts along Portobello Road, with shoppers on the pavement](../../assets/articles/best-streets-london/portobello-road-antique-shops.jpg)
+![Shoppers on Portobello Road below a house painted as a Union Jack, with pastel terraces and shop fronts along the street](../../assets/articles/best-streets-london/portobello-road.jpg)
 
-*Antique shops and painted terraces on Portobello Road. Photo: [David](https://commons.wikimedia.org/wiki/File:Portobello_Road,_Notting_Hill,_London_2022-08-18.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*
+*Portobello Road, below the Union Jack house.*
 
 The road changes as you walk north. Antiques are at the Notting Hill Gate end, food and fruit and veg in the middle, and vintage clothes and records under the Westway flyover at the northern end. **Saturday is the full market and the only day the antique arcades open**, and the road fills from end to end. **Friday** is quieter and better if you want to buy, with room to negotiate.
 
@@ -93,9 +89,9 @@ Condé Nast Traveler describes it as a 19th-century country lane that joined Por
 
 *Soho · Cited by 13 sources · Oxford Circus*
 
-![Christmas lights hung across Carnaby Street, with a sign reading Carnaby Universe above the brick terraces](../../assets/articles/best-streets-london/carnaby-street.jpg)
+![The neon Carnaby Street arch over a crowded street at night, with coloured Christmas decorations hung between the buildings](../../assets/articles/best-streets-london/carnaby-street-lights.jpg)
 
-*Christmas lights hung across Carnaby Street. Photo: [DiscoA340](https://commons.wikimedia.org/wiki/File:Carnaby_Street,_London_(January_2024)_04.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
+*Carnaby Street under its Christmas lights.*
 
 Fashion flagships and boutiques on a pedestrianised street, which Carnaby's own site pitches as respite from the rest of the West End. Visit London files it under trend-led fashion and colourful streets. It is shops and cafés rather than sights, so the quieter streets that run off it are where to browse: Carnaby's site lists Newburgh Street, which it calls one of Soho's best cobbled shopping streets, and Beak Street and Broadwick Street.
 
@@ -105,9 +101,9 @@ The draw in winter is the lights hung across the street. Carnaby's were switched
 
 *Covent Garden · Cited by 13 sources, counting Seven Dials · Leicester Square or Holborn*
 
-![A small courtyard with green wooden benches, planters, café tables and painted brick buildings, with a Neal's Yard Remedies sign on the left](../../assets/articles/best-streets-london/neals-yard.jpg)
+![The courtyard at Neal's Yard, with painted buildings, window boxes, café tables and people standing in the yard](../../assets/articles/best-streets-london/neals-yard-courtyard.jpg)
 
-*The courtyard at Neal's Yard, Covent Garden. Photo: [Bryn Holmes](https://commons.wikimedia.org/wiki/File:Neal%27s_Yard,_Covent_Garden_-_geograph.org.uk_-_7395246.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
+*Neal's Yard, Covent Garden.*
 
 Seven cobbled streets meet at a sundial monument, and an alley off Short's Gardens opens into Neal's Yard, a small courtyard of painted facades and organic cafés. Monmouth Street and Neal Street are the independent shopping streets running up from the Piazza. Seven Dials Market, a food hall in a former fruit-market warehouse, is free to walk into and open daily, with its own site listing hours from 11am or noon.
 
@@ -117,9 +113,9 @@ Seven cobbled streets meet at a sundial monument, and an alley off Short's Garde
 
 *South Kensington · Cited by 12 sources · Gloucester Road*
 
-![A stone arch with a cobbled mews beyond it, hung with creeper, and a street sign reading Kynance Mews SW7](../../assets/articles/best-streets-london/kynance-mews.jpg)
+![The stone arch into Kynance Mews covered in red creeper, with a cobbled mews beyond](../../assets/articles/best-streets-london/kynance-mews-arch.jpg)
 
-*One of the arches into Kynance Mews, South Kensington. Photo: [David Anstiss](https://commons.wikimedia.org/wiki/File:Kynance_Mews,_East_Arch,_South_Kensington-geograph-2737088-by-David-Anstiss.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
+*The arch into Kynance Mews, South Kensington, with the creeper turned red.*
 
 A cobbled mews of 33 houses, built between 1862 and 1879 as stabling for the houses on Cornwall Gardens, and entered through three stone arches that Historic England lists at Grade II. Virginia creeper turns red over the arches in October and the wisteria flowers in April, which is why it is in our [autumn leaves guide](/articles/best-places-autumn-leaves-london/).
 
@@ -129,6 +125,10 @@ A cobbled mews of 33 houses, built between 1862 and 1879 as stabling for the hou
 
 *Marble Arch to Tottenham Court Road · Cited by 12 sources · Bond Street, Oxford Circus or Tottenham Court Road*
 
+![Shoppers walking down the middle of Oxford Street on the traffic-free stretch, with shops on both sides](../../assets/articles/best-streets-london/oxford-street-traffic-free.jpg)
+
+*The traffic-free stretch of Oxford Street.*
+
 The street the shopping lists start with. Since **26 October 2026** no cars, buses, taxis, bicycles, e-scooters or pedicabs are allowed on the stretch from Orchard Street, beside Selfridges, to Great Portland Street, just east of Oxford Circus. Oxford Street's own advice is that weekday mornings are quietest.
 
 Which end to use, what to buy, where to eat and which side streets to turn into are all in our [Oxford Street guide](/articles/oxford-street-guide/).
@@ -137,9 +137,9 @@ Which end to use, what to buy, where to eat and which side streets to turn into 
 
 *Shoreditch · Cited by 11 sources · Aldgate East or Shoreditch High Street*
 
-![Red-fronted restaurants along one side of Brick Lane, with a van and pedestrians on the road](../../assets/articles/best-streets-london/brick-lane.jpg)
+![Market stalls and crowds on Brick Lane under the railway bridge, which has a stencil of three monkeys on its side](../../assets/articles/best-streets-london/brick-lane-bridge.jpg)
 
-*Restaurants on Brick Lane. Photo: [Gazamp](https://commons.wikimedia.org/wiki/File:Brick_Lane,_London,_February_2023_(3).jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
+*Brick Lane under the railway bridge.*
 
 Bangladeshi restaurants at the south end, vintage shops and street food around the Truman Brewery in the middle, and two rival bagel bakeries at the north, one of which never closes. **On Sunday the whole stretch becomes a market**, including Upmarket, Backyard Market and the brewery yards.
 
@@ -148,6 +148,10 @@ The Brick Lane Vintage Market runs seven days a week in the basement at 85 Brick
 ### Bond Street — luxury, best on a weekday
 
 *Mayfair · Cited by 10 sources · Bond Street*
+
+![A crown made of lights hung above Bond Street against a blue sky](../../assets/articles/best-streets-london/bond-street-crown.jpg)
+
+*One of the Christmas crowns over Bond Street.*
 
 Luxury fashion and jewellery, with Visit London filing it under designer boutiques. It is a street to window-shop on a weekday; Bond Street station is on the Elizabeth line, the Central line and the Jubilee line, and is step-free. The streets around it, including Savile Row and Jermyn Street, are below. See our [shopping in London guide](/articles/shopping-in-london/) and the [Mayfair guide](/articles/mayfair-area-guide/).
 
@@ -165,9 +169,9 @@ Boutiques and homeware running west from Sloane Square; Visit London lists it fo
 
 *Mayfair and Soho · Cited by 10 sources · Oxford Circus or Piccadilly Circus*
 
-![The curved stone façade of the Quadrant on Regent Street, empty of traffic, with Piccadilly Circus's illuminated signs at the right](../../assets/articles/best-streets-london/regent-street.jpg)
+![The curved stone terraces of the Quadrant on Regent Street, with a black cab and a cyclist on the road](../../assets/articles/best-streets-london/regent-street-quadrant.jpg)
 
-*The Quadrant, the curve at the Piccadilly Circus end of Regent Street. Photo: [Benh LIEU SONG](https://commons.wikimedia.org/wiki/File:Panorama_of_the_Quadrant_on_Regent_Street.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
+*The Quadrant, the curve at the Piccadilly Circus end of Regent Street.*
 
 Regent Street curves from Piccadilly Circus to Oxford Circus in one continuous sweep designed by John Nash, and the Crown Estate owns the whole street. The shops are mid-to-premium rather than luxury: Hamleys is toys over seven floors, and **Liberty**, just off it on Great Marlborough Street, is a mock-Tudor building made from the timbers of two ships. Visit London lists it for elegant shopping and iconic architecture. Details in our [shopping guide](/articles/shopping-in-london/).
 
@@ -193,9 +197,9 @@ The mews are former stable lanes behind big houses, now small private homes. The
 
 *Chelsea · Cited by 8 sources · Sloane Square*
 
-![Pastel-painted terraced cottages along Bywater Street on a sunny day, with parked cars and a tree on the right](../../assets/articles/best-streets-london/bywater-street.jpg)
+![Terraced cottages painted pink, white, cream, blue and lilac along Bywater Street, with a car parked in front](../../assets/articles/best-streets-london/bywater-street-cottages.jpg)
 
-*Painted terraced cottages on Bywater Street. Photo: [Darren Haddock](https://commons.wikimedia.org/wiki/File:Bywater_Street_-_geograph.org.uk_-_8305112.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
+*Painted cottages on Bywater Street, Chelsea.*
 
 A short cul-de-sac of pastel terraced cottages off the King's Road, an easy detour from Sloane Square. Despite the name there is no water near it. The cottages are private homes, so photograph from the pavement and keep the noise down. Five minutes covers it: pair it with the King's Road and the Chelsea Physic Garden in our [Chelsea guide](/articles/chelsea-area-guide/).
 
@@ -203,9 +207,9 @@ A short cul-de-sac of pastel terraced cottages off the King's Road, an easy deto
 
 *Primrose Hill · Cited by 8 sources · Chalk Farm*
 
-![A curved terrace of pale pink, blue and yellow stucco houses with columned porches on Chalcot Crescent, with parked cars](../../assets/articles/best-streets-london/chalcot-crescent.jpg)
+![Pale blue and yellow stucco houses with columned porches on Chalcot Crescent](../../assets/articles/best-streets-london/chalcot-crescent-terrace.jpg)
 
-*Painted stucco terraces on Chalcot Crescent, Primrose Hill. Photo: [Matt Brown](https://commons.wikimedia.org/wiki/File:Chalcot_Crescent_2024-11-22.jpg), [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), via Wikimedia Commons.*
+*Chalcot Crescent, Primrose Hill.*
 
 A bending crescent laid out between 1849 and 1860, with three-storey stucco fronts in pink, blue and yellow, and cast-iron railings. It was the Browns' house in the *Paddington* films, though the address in the books, 32 Windsor Gardens, is fictional. About fifteen minutes north-west of Camden Lock. Chalcot Square, named by 4 sources, is round the corner. See our [Primrose Hill walk](/articles/hampstead-heath-primrose-hill-walk/) and [Camden guide](/articles/camden-area-guide/).
 
@@ -213,9 +217,9 @@ A bending crescent laid out between 1849 and 1860, with three-storey stucco fron
 
 *Notting Hill · Cited by 6 sources · Ladbroke Grove*
 
-![A row of terraced houses painted red, yellow, green, blue and purple down Lancaster Road, with a red postbox on the right](../../assets/articles/best-streets-london/lancaster-road.jpg)
+![A terrace on Lancaster Road painted red, white, yellow, green and purple, with cars parked along the street](../../assets/articles/best-streets-london/lancaster-road-rainbow.jpg)
 
-*Brightly painted houses on Lancaster Road. Photo: [Chris Whippet](https://commons.wikimedia.org/wiki/File:Lancaster_Road,_Notting_Hill_-_geograph.org.uk_-_5188672.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
+*The painted terrace on Lancaster Road, Notting Hill.*
 
 The road people mean when they say the rainbow houses of Notting Hill: purple, blue, green, yellow and red, running east from Ladbroke Grove. It draws the most photographers of the Notting Hill streets. **Hillgate Place** is two minutes from Notting Hill Gate station and far quieter; our [colourful houses guide](/articles/notting-hill-colourful-houses/) ranks all eleven.
 
@@ -271,9 +275,9 @@ Low-rise, largely independent and calm, a few minutes north of Oxford Street: de
 
 *Mayfair · Cited by 5 sources · Piccadilly Circus or Oxford Circus*
 
-![Savile Row with the Union flag on the Gieves and Hawkes shopfront at No. 1 and the street sign, the road running away between brick and stone buildings](../../assets/articles/best-streets-london/savile-row.jpg)
+![The white stone front of Gieves and Hawkes with a Union flag above the door](../../assets/articles/best-streets-london/savile-row-gieves-hawkes.jpg)
 
-*Gieves & Hawkes at No. 1 Savile Row. Photo: [Sjenghai](https://commons.wikimedia.org/wiki/File:London_-_City_of_Westminster_-_Mayfair_-_Savile_Row_-_2026-09-02.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
+*Gieves & Hawkes at No. 1 Savile Row.*
 
 The street of bespoke tailoring: Huntsman is at No. 11 and Gieves & Hawkes at No. 1, where it has been since 1912. You can look at the windows any day, but **two of the three tailors on our Fitzrovia to Mayfair walk are shut at weekends**, and Henry Poole opens on weekdays only. The Beatles' rooftop concert on 30 January 1969 was at No. 3, which is a private building. See the [Fitzrovia to Mayfair walk](/articles/fitzrovia-mayfair-walk/).
 
@@ -301,9 +305,9 @@ A working Victorian street market running down to the Regent's Canal, with **Lon
 
 *Islington · Cited by 3 sources · Angel*
 
-![The corner shopfront of John Laurie Antiques with a Camden Passage N1 street sign and a bow window of silverware](../../assets/articles/best-streets-london/camden-passage.jpg)
+![Café tables laid with white cloths down the middle of Camden Passage, between small shop fronts](../../assets/articles/best-streets-london/camden-passage-cafes.jpg)
 
-*John Laurie Antiques at the corner of Camden Passage. Photo: [Maggie Jones](https://commons.wikimedia.org/wiki/File:Camden_Passage_N1_and_John_Laurie_Antiques._(23811334633).jpg), public domain, via Wikimedia Commons.*
+*Café tables down Camden Passage, Islington.*
 
 A car-free lane off Upper Street lined with antique, vintage and contemporary shops, outdoor markets and cafés. **Its main market days are Saturday, Sunday and Wednesday**, with other markets on other days; the street's own site says to check before going, since weather can affect openings. See the [Islington guide](/articles/islington-area-guide/).
 
@@ -321,9 +325,9 @@ The short stretch between Portobello Road and Kensal Road. One end is Portuguese
 
 *Clerkenwell · Cited by 1 source · Farringdon*
 
-![Brick and painted terraces along the pedestrianised Exmouth Market, with festoon lights strung overhead and cyclists on the right](../../assets/articles/best-streets-london/exmouth-market.jpg)
+![Caravan's corner café on Exmouth Market, with an awning and people at pavement tables](../../assets/articles/best-streets-london/exmouth-market-caravan.jpg)
 
-*Shops and cafés along Exmouth Market, Clerkenwell. Photo: [Julian Osley](https://commons.wikimedia.org/wiki/File:Exmouth_Market,_Clerkenwell,_London_EC1_-_geograph.org.uk_-_1737702.jpg), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/), via Wikimedia Commons.*
+*Caravan, on the corner of Exmouth Market.*
 
 Stalls at weekday lunchtimes on a pedestrianised street, with cafés and independent shops on either side. It is ten minutes from Farringdon and about the same from Angel; see our [best street food guide](/articles/best-street-food-london/) for the traders.
 
@@ -351,9 +355,9 @@ A riverside street with cobbles underfoot and iron walkways overhead, most of th
 
 *The City · Cited by 2 sources · Bank or Monument*
 
-![Looking up at the painted ironwork and glass roof of Leadenhall Market at night, with lit shopfronts and drinkers below](../../assets/articles/best-streets-london/leadenhall-market.jpg)
+![The painted red and cream arcade of Leadenhall Market under its glass roof, with tables on the cobbles](../../assets/articles/best-streets-london/leadenhall-market-arcade.jpg)
 
-*The covered arcade of Leadenhall Market, City of London. Photo: [Diego Delso](https://commons.wikimedia.org/wiki/File:Mercado_Leadenhall,_Londres,_Inglaterra,_2014-08-07,_DD_048.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via Wikimedia Commons.*
+*Leadenhall Market, City of London.*
 
 An 1881 covered market in cream, maroon and green ironwork on the site of the Roman forum, designed by Horace Jones. The blue door on Bull's Head Passage that stood in for the Leaky Cauldron in the first *Harry Potter* film is now a coffee shop. **The public areas are open at any hour, but the shops, bars and restaurants keep City hours**, so it is quiet at weekends and fullest around six on a weekday evening. It sits on the [City of London walk](/articles/city-of-london-walk/) and is covered in full in our [markets guide](/articles/best-london-markets/).
 
