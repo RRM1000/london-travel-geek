@@ -2403,7 +2403,7 @@
    "booking": "required",
    "indoorOutdoor": "indoor",
    "stepFree": "yes",
-   "whyGo": "Mendieta's body-and-land work rarely gets a full London survey. Some pieces deal with violence against women - not a casual outing, and worth knowing before booking.",
+   "whyGo": "Mendieta's body-and-land work rarely gets a full London survey. Some pieces deal with violence against women - not a casual outing, so check before booking.",
    "opNote": "Content warnings apply; check Tate's guidance.",
    "goodFor": [
     "art"
@@ -4552,7 +4552,7 @@
    "priceBand": "20-50",
    "booking": "required",
    "indoorOutdoor": "outdoor",
-   "whyGo": "The one genuinely useful fact: The Queue is a real same-day walk-up route to grounds tickets that needs no ballot - arrive early, queue on the grass, and you are in. Most first-time visitors have no idea it exists.",
+   "whyGo": "The one useful fact: The Queue is a real same-day walk-up route to grounds tickets that needs no ballot - arrive early, queue on the grass, and you are in. Most first-time visitors have no idea it exists.",
    "opNote": "Show courts go by public ballot months ahead. The Queue starts the night before for the biggest days; a weekday-morning arrival usually gets a grounds pass.",
    "goodFor": [
     "sport",
@@ -4622,7 +4622,7 @@
    "booking": "required",
    "indoorOutdoor": "outdoor",
    "whyGo": "One massive act per ticket, in central London, and back at your hotel by midnight - no tent, no fields. Lineups announce only a few months out, so it suits shorter-lead planning.",
-   "opNote": "Between headline days the site runs Open House - free midweek entry to the arena with screens, bars and food. Worth knowing if you are in the park anyway.",
+   "opNote": "Between headline days the site runs Open House - free midweek entry to the arena with screens, bars and food. Useful if you are in the park anyway.",
    "goodFor": [
     "music",
     "groups"
@@ -5021,7 +5021,7 @@
    "priceBand": "free",
    "booking": "walk-in",
    "indoorOutdoor": "outdoor",
-   "whyGo": "Teams in fancy dress flip pancakes down a marked course for a crowd of about a hundred - small, silly, and genuinely local rather than staged. The Spitalfields race is the reliable central one.",
+   "whyGo": "Teams in fancy dress flip pancakes down a marked course for a crowd of about a hundred - small, silly, and local rather than staged. The Spitalfields race is the reliable central one.",
    "opNote": "Shrove Tuesday 2027 falls on 9 February. Individual races publish quietly - check Old Spitalfields Market's events page.",
    "goodFor": [
     "free",
@@ -5455,7 +5455,7 @@
    "booking": "walk-in",
    "indoorOutdoor": "outdoor",
    "whyGo": "North End Road's market has traded six days a week since the 1880s; once a year the council closes it to traffic and adds 150-plus stalls, live music, street entertainers and free kids' workshops on top of the regular fruit-and-veg traders.",
-   "opNote": "10am-6pm, free, no booking. Award-winning as a community market (Best Community/Parish Market, Great British Market Awards 2019) - genuinely council-run rather than a private promotion.",
+   "opNote": "10am-6pm, free, no booking. Award-winning as a community market (Best Community/Parish Market, Great British Market Awards 2019) - council-run rather than a private promotion.",
    "goodFor": [
     "families",
     "groups",

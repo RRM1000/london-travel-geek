@@ -15,6 +15,7 @@ import path from "node:path";
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname.replace(/^\/([A-Za-z]:)/, "$1")), "..");
 
 const EVERYWHERE = [
+  [/\bgenuinely\b|\bworth knowing\b|\bhonestly\b|\bthe catch(?: is| here|:)|\bdone properly\b|\bis the (?:whole )?point\b|\bis the reason to (?:come|go|visit|book)\b|\bthe real draw\b|\bdecides it\b|\bis the single (?:best|most|biggest|cheapest|easiest)\b/i, "overused phrase"],
   [/needs (verifying|reconfirming)/i, "working note"],
   [/\b(did not|didn't|would not|wouldn't) (respond|resolve)\b/i, "website down"],
   [/\b(does not|doesn't|no longer) resolves?\b/i, "website down"],
@@ -45,7 +46,6 @@ const ARTICLE_ONLY = [
   // Say the thing plainly: "It has one of only four Palladian bridges", not "The
   // draw is…"; "VAT is extra", not "The catch is VAT". Literal uses ("the menu
   // changes with the catch", "the draw closes at 1pm") are not caught.
-  [/\bgenuinely\b|\bworth knowing\b|\bhonestly\b|\bthe catch(?: is| here|:)|\bdone properly\b|\bis the (?:whole )?point\b|\bis the reason to (?:come|go|visit|book)\b|\bthe real draw\b|\bdecides it\b|\bis the single (?:best|most|biggest|cheapest|easiest)\b/i, "overused phrase"],
 ];
 // Card notes are short and have no reason to hedge at all.
 const DATA_ONLY = [

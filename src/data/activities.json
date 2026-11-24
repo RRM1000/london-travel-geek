@@ -55,7 +55,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "A wood-fired hot tub built into a small boat, which you drive yourself around the dock with the Canary Wharf towers overhead. Swimwear and a towel; the water is heated by the stove you can see smoking on deck.",
-   "opNote": "Bring swimwear and a towel and expect to change on site. Runs year-round and is arguably better in winter, when the contrast is the whole point.",
+   "opNote": "Bring swimwear and a towel and expect to change on site. Runs year-round and is arguably better in winter, for the contrast.",
    "goodFor": [
     "groups",
     "date",
@@ -500,7 +500,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "A Georgian house arranged as though the family has just left the room - half-eaten food, unmade beds, candles burning. You walk it in complete silence and nothing is explained.",
-   "opNote": "SILENCE IS ENFORCED and that is the point. Booked in advance, limited numbers, candlelit evening slots are the ones worth having. Not suitable for young children.",
+   "opNote": "SILENCE IS ENFORCED. Booked in advance, limited numbers, candlelit evening slots are the ones worth having. Not suitable for young children.",
    "goodFor": [
     "date",
     "solo"
@@ -830,7 +830,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "Camden Lock, the Stables and Hawley Wharf run together into the best-known collection of street vendors in Britain - vintage, records, band merch and several hundred food stalls.",
-   "opNote": "Free to walk in and the busiest thing in Camden. Weekends are shoulder-to-shoulder by midday; a weekday morning is a genuinely different experience.",
+   "opNote": "Free to walk in and the busiest thing in Camden. Weekends are shoulder-to-shoulder by midday; a weekday morning is a different experience.",
    "goodFor": [
     "groups",
     "solo",
@@ -995,7 +995,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "Live acts every night of the week across a far wider range than the name suggests, with a balcony you can book a table on and eat while you watch.",
-   "opNote": "The balcony dinner tables are the thing worth knowing - book those rather than standing downstairs if you want to sit.",
+   "opNote": "Book the balcony dinner tables if you want to sit; downstairs is standing.",
    "goodFor": [
     "date",
     "groups",
@@ -1570,7 +1570,7 @@
    "stepFree": "yes",
    "servesFood": "no",
    "servesAlcohol": "no",
-   "whyGo": "Four acres of wetland, marsh and woodland hidden behind the Peninsula's towers, with hides, a lake and a genuinely surprising amount of birdlife.",
+   "whyGo": "Four acres of wetland, marsh and woodland hidden behind the Peninsula's towers, with hides, a lake and a surprising amount of birdlife.",
    "opNote": "Free, and closed on Mondays and Tuesdays - the single most common reason people find the gate shut. Step-free boardwalks throughout.",
    "goodFor": [
     "families",
@@ -1676,7 +1676,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "Europe's largest arts centre, and the foyers, outdoor artworks and a good share of the exhibitions cost nothing at all to walk into.",
-   "opNote": "The free programme is the point and it is genuinely substantial. The Royal Festival Hall foyer is open to anyone to sit and work in, with no purchase expected.",
+   "opNote": "The free programme is substantial. The Royal Festival Hall foyer is open to anyone to sit and work in, with no purchase expected.",
    "goodFor": [
     "families",
     "solo",
@@ -2355,7 +2355,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "The opera house's terrace bar is open to anyone during opening hours, with the best elevated view over the Piazza and Market Building in Covent Garden - and no ticket needed.",
-   "opNote": "You do NOT need a performance ticket to go up. Free to enter, and you are under no obligation to buy, though the bar is the point of the room.",
+   "opNote": "You do NOT need a performance ticket to go up. Free to enter, and you are under no obligation to buy, though the room is built around the bar.",
    "goodFor": [
     "date",
     "solo",
@@ -2424,7 +2424,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "A tiny courtyard off Seven Dials painted in every colour and hung with plants - the most photographed twenty square metres in Covent Garden.",
-   "opNote": "Free, and small enough that it is genuinely crowded from mid-morning. Early is the only way to see it without a queue for the photograph.",
+   "opNote": "Free, and small enough that it is crowded from mid-morning. Early is the only way to see it without a queue for the photograph.",
    "goodFor": [
     "date",
     "solo",
@@ -2559,7 +2559,7 @@
    "servesFood": "no",
    "servesAlcohol": "yes",
    "whyGo": "A recreation of the Garrison with a hidden door behind it, opening into Garrison Lane, The Bookies, Chinatown and the Small Heath Fairground - free-roam rather than a guided route, with actors in among the set instead of performing at you.",
-   "opNote": "Opened 21 August 2026 in the railway arches, which is the right building for a show set underground. BOOK ONLINE: GBP19.95 against GBP29.95 on the door is a 33% difference for the same hour, and the biggest price gap of any immersive show in London. An hour is genuinely an hour, so it works before dinner rather than as a night out.",
+   "opNote": "Opened 21 August 2026 in the railway arches, which is the right building for a show set underground. BOOK ONLINE: GBP19.95 against GBP29.95 on the door is a 33% difference for the same hour, and the biggest price gap of any immersive show in London. An hour is an hour, so it works before dinner rather than as a night out.",
    "goodFor": [
     "groups",
     "couples",
@@ -2804,7 +2804,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "Fifteen storeys up with a 360-degree view, a water rill and wisteria walkways - and unlike Sky Garden across the road, you can simply walk in.",
-   "opNote": "Free and NO BOOKING needed for groups under twelve, which is the single best thing about it. Outdoor, so it closes in bad weather.",
+   "opNote": "Free and NO BOOKING needed for groups under twelve. Outdoor, so it closes in bad weather.",
    "goodFor": [
     "date",
     "solo",
@@ -2950,7 +2950,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "A wall of hand-painted ceramic tablets, each recording an ordinary person who died saving someone else - the quietest and most affecting thing in the Square Mile.",
-   "opNote": "Free, open in daylight, and takes twenty minutes. Read the tablets rather than photographing them; that is the whole point of the place.",
+   "opNote": "Free, open in daylight, and takes twenty minutes. Read the tablets rather than photographing them; reading is what the place is for.",
    "goodFor": [
     "solo",
     "date"
@@ -3237,7 +3237,7 @@
    "stepFree": "yes",
    "servesFood": "no",
    "servesAlcohol": "no",
-   "whyGo": "Guards in bearskins and a full regimental band handing over the palace, free to watch, and one of the few genuinely free set-piece spectacles in London.",
+   "whyGo": "Guards in bearskins and a full regimental band handing over the palace, free to watch, and one of the few free set-piece spectacles in London.",
    "opNote": "Does not run daily and is cancelled in heavy rain - check the schedule the same morning. The railings are five deep by the start; the Victoria Memorial steps and the Mall give a better view.",
    "goodFor": [
     "families",
@@ -3379,7 +3379,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "Handel lived at 25 Brook Street from 1723 until he died there in 1759; Jimi Hendrix lived in the upstairs flat next door in 1968. Both rooms are restored and you walk between them.",
-   "opNote": "A Georgian townhouse over several floors with no lift, so it is not step-free. Small - an hour is genuinely enough.",
+   "opNote": "A Georgian townhouse over several floors with no lift, so it is not step-free. Small - an hour is enough.",
    "goodFor": [
     "solo",
     "date"
@@ -3660,7 +3660,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "A Time Tunnel of twelve thousand everyday objects - biscuit tins, cereal boxes, magazines - running from the Victorians to now. Everyone finds their own childhood in it.",
-   "opNote": "Small, indoor and genuinely different from anything else in west London. There is a garden and a cafe at the back that you do not need a ticket for.",
+   "opNote": "Small, indoor and different from anything else in west London. There is a garden and a cafe at the back that you do not need a ticket for.",
    "goodFor": [
     "families",
     "date",
@@ -4133,7 +4133,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "Two free contemporary art galleries five minutes apart across the Serpentine bridge, plus the summer Pavilion - a new one commissioned from a different architect every year.",
-   "opNote": "Free, Tuesday to Sunday. The Pavilion stands from roughly June to October and is the reason to come in summer; there is nothing to see of it the rest of the year.",
+   "opNote": "Free, Tuesday to Sunday. The Pavilion stands from roughly June to October, so summer is the time to come; there is nothing to see of it the rest of the year.",
    "goodFor": [
     "solo",
     "date",
@@ -4348,7 +4348,7 @@
    "stepFree": "yes",
    "servesFood": "yes",
    "servesAlcohol": "yes",
-   "whyGo": "Free, genuinely strange, and built around Henry Wellcome's collection of medical objects - which runs from Napoleon's toothbrush to a Peruvian mummy.",
+   "whyGo": "Free, strange, and built around Henry Wellcome's collection of medical objects - which runs from Napoleon's toothbrush to a Peruvian mummy.",
    "opNote": "Free and needs no booking. The Reading Room upstairs is open to anyone to sit in, and almost nobody goes up.",
    "goodFor": [
     "solo",
@@ -4528,7 +4528,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "Open on Marylebone Road since 1835 and still the busiest paid attraction in the area - wax figures, a Marvel section and a black-cab ride through London history.",
-   "opNote": "Book a timed slot online; walk-up prices are much higher and the queue is long. Peak school holidays are genuinely crowded rather than merely busy.",
+   "opNote": "Book a timed slot online; walk-up prices are much higher and the queue is long. Peak school holidays are crowded rather than merely busy.",
    "goodFor": [
     "families",
     "groups"
@@ -4672,7 +4672,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "A purpose-built Edwardian bookshop with oak galleries, a long skylight and a conservatory at the back, where the travel section is shelved by country rather than by genre.",
-   "opNote": "Free to walk into and the back room is the photograph everyone comes for. Genuinely a working bookshop, so browse rather than treating it as a set.",
+   "opNote": "Free to walk into and the back room is the photograph everyone comes for. A working bookshop, so browse rather than treating it as a set.",
    "goodFor": [
     "solo",
     "date"
@@ -4917,7 +4917,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "A fifty-seat marionette theatre inside a converted Thames barge moored at Little Venice, running since 1982 and rocking gently while you watch.",
-   "opNote": "Meets the theatre rule on this tab - the barge IS the reason to go. Fifty seats, so it sells out. Not accessible: you board down steps into a hold.",
+   "opNote": "Meets the theatre rule on this tab - the barge is what you go for. Fifty seats, so it sells out. Not accessible: you board down steps into a hold.",
    "goodFor": [
     "families",
     "date"
@@ -5056,8 +5056,8 @@
    "stepFree": "yes",
    "servesFood": "yes",
    "servesAlcohol": "no",
-   "whyGo": "An Olympic-length 50-metre outdoor pool, heated, and open every day of the year - swimming outside in Hackney in February is a genuinely strange pleasure.",
-   "opNote": "Heated year-round, which is the point. Book a lane slot; early mornings and evenings fill with regulars and it is busy on hot days.",
+   "whyGo": "An Olympic-length 50-metre outdoor pool, heated, and open every day of the year - swimming outside in Hackney in February is a strange pleasure.",
+   "opNote": "Heated year-round. Book a lane slot; early mornings and evenings fill with regulars and it is busy on hot days.",
    "goodFor": [
     "solo",
     "families",
@@ -5199,7 +5199,7 @@
    "servesFood": "no",
    "servesAlcohol": "yes",
    "whyGo": "Frank Matcham's 1901 music hall, gilded and tiered, where Chaplin and Stan Laurel played - and still the best pantomime in London every Christmas.",
-   "opNote": "Meets the theatre rule on this tab: the Matcham auditorium is the reason to go. The upper circle is cheap and the view from it is the best in the house.",
+   "opNote": "Meets the theatre rule on this tab: the Matcham auditorium is what you go for. The upper circle is cheap and the view from it is the best in the house.",
    "goodFor": [
     "families",
     "groups",
@@ -5687,7 +5687,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "A narrow ropewalk of food traders wedged under the railway arches since 2010 - oysters, waffles, gin and a scotch egg stall with a permanent queue.",
-   "opNote": "WEEKENDS ONLY, and the alley is genuinely narrow - it is shoulder to shoulder by one o'clock on a Saturday. Go at opening or late afternoon.",
+   "opNote": "WEEKENDS ONLY, and the alley is narrow - it is shoulder to shoulder by one o'clock on a Saturday. Go at opening or late afternoon.",
    "goodFor": [
     "groups",
     "date",
@@ -6005,7 +6005,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "London's largest royal park, with about 600 free-roaming red and fallow deer, and a protected sightline from King Henry's Mound to St Paul's ten miles away.",
-   "opNote": "Free. KEEP AT LEAST 50 METRES FROM THE DEER, and further in the September-October rut and the May-July birthing season, when they are genuinely dangerous.",
+   "opNote": "Free. KEEP AT LEAST 50 METRES FROM THE DEER, and further in the September-October rut and the May-July birthing season, when they are dangerous.",
    "goodFor": [
     "families",
     "solo",
@@ -6145,7 +6145,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "Seven hundred and ninety acres left deliberately wild, with Parliament Hill giving one of London's protected views - and unlike the royal parks, it feels like countryside.",
-   "opNote": "Free and open at all hours. It is genuinely easy to get lost - the paths are unsigned and the Heath is not laid out on a grid like a royal park.",
+   "opNote": "Free and open at all hours. It is easy to get lost - the paths are unsigned and the Heath is not laid out on a grid like a royal park.",
    "goodFor": [
     "families",
     "solo",
@@ -6363,7 +6363,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "A Grade I listed 1811 tobacco warehouse with brick vaults and iron columns, now an events space holding up to ten thousand, with a roof garden over the top.",
-   "opNote": "The building is the point. Free to walk through when nothing is on, ticketed when there is - so check the events listing before setting out either way.",
+   "opNote": "Come for the building. Free to walk through when nothing is on, ticketed when there is - so check the events listing before setting out either way.",
    "goodFor": [
     "solo",
     "groups",
@@ -6399,7 +6399,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "A bar under a red tarpaulin on the top deck of a Rye Lane multi-storey car park, with an uninterrupted view north to St Paul's and the City for the price of a negroni.",
-   "opNote": "SUMMER ONLY, roughly May to September - turning up to a closed car park in November is the single most common Peckham mistake. No booking; the stair queue moves.",
+   "opNote": "SUMMER ONLY, roughly May to September - turning up to a closed car park in November is a common Peckham mistake. No booking; the stair queue moves.",
    "goodFor": [
     "groups",
     "date",
@@ -6578,7 +6578,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "An independent cinema showing current releases for a few pounds a seat, which in central London would buy you roughly a fifth of a ticket.",
-   "opNote": "Meets the cinema rule on VALUE rather than the room - the price is genuinely the story, and it is a local institution defended fiercely whenever redevelopment is mentioned.",
+   "opNote": "Meets the cinema rule on VALUE rather than the room - the price is the story, and it is a local institution defended fiercely whenever redevelopment is mentioned.",
    "goodFor": [
     "families",
     "groups",
@@ -6710,7 +6710,7 @@
    "indoorOutdoor": "indoor",
    "servesFood": "yes",
    "servesAlcohol": "yes",
-   "whyGo": "The one genuinely fun thing to do around Victoria, in an area otherwise built entirely around getting people onto trains.",
+   "whyGo": "The one fun thing to do around Victoria, in an area otherwise built entirely around getting people onto trains.",
    "opNote": "Two minutes from Victoria station, which makes it the easy choice when a group is arriving from different directions.",
    "goodFor": [
     "groups",
@@ -7461,7 +7461,7 @@
    "servesFood": "no",
    "servesAlcohol": "yes",
    "whyGo": "A century of continuous operation on Kingsland High Street, in a preserved art deco auditorium run as a charity, with late-night cult screenings and a strong queer programme.",
-   "opNote": "Single main screen, so the programme is genuinely curated rather than a grid. Not-for-profit - the ticket money stays in the building.",
+   "opNote": "Single main screen, so the programme is curated rather than a grid. Not-for-profit - the ticket money stays in the building.",
    "goodFor": [
     "date",
     "solo",
@@ -7674,7 +7674,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "The oldest surviving surgical theatre in Europe, in the roof space of a church by London Bridge, reached up a 52-step spiral staircase - operating table, sawdust box and all.",
-   "opNote": "The spiral staircase is the only way in and there is no lift, which makes it genuinely inaccessible. Weekend surgery demonstrations are the thing to time a visit around.",
+   "opNote": "The spiral staircase is the only way in and there is no lift, which makes it inaccessible. Weekend surgery demonstrations are the thing to time a visit around.",
    "goodFor": [
     "solo",
     "families",
@@ -8437,7 +8437,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "A different set of independent stallholders every weekend - homewares, clothing, art, books and food - alongside the permanent record shop, gallery and coffee roaster on the same street.",
-   "opNote": "Thursdays to Sundays and bank holiday Mondays, 11am-6pm. The lineup genuinely rotates, so two visits a month apart can look completely different.",
+   "opNote": "Thursdays to Sundays and bank holiday Mondays, 11am-6pm. The lineup rotates, so two visits a month apart can look completely different.",
    "goodFor": [
     "solo",
     "date",
@@ -8914,7 +8914,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "London's biggest new music venue in years, opened June 2026 inside the Olympia redevelopment and run by AEG - it fills the gap between the Roundhouse and Hammersmith Apollo, at 3,800 capacity.",
-   "opNote": "New enough that the room has no reputation yet - worth knowing it is a standing venue at that capacity rather than a seated theatre. The Olympia rooftop bars are in the same building if you want somewhere before a show.",
+   "opNote": "New enough that the room has no reputation yet - it is a standing venue at that capacity rather than a seated theatre. The Olympia rooftop bars are in the same building if you want somewhere before a show.",
    "goodFor": [
     "groups",
     "date"
@@ -8945,7 +8945,7 @@
    "indoorOutdoor": "indoor",
    "servesFood": "no",
    "servesAlcohol": "no",
-   "whyGo": "Tickets to be in the audience for TV and radio recordings are free - panel shows, quizzes and comedy at Television Centre and Broadcasting House. It is the cheapest evening out in London that is also genuinely a London thing.",
+   "whyGo": "Tickets to be in the audience for TV and radio recordings are free - panel shows, quizzes and comedy at Television Centre and Broadcasting House. It is a cheap evening out in London that is also a London thing.",
    "opNote": "Apply through the BBC's own shows-and-tours site or SRO Audiences; the popular shows run a ballot. Recordings OVERBOOK deliberately, so a ticket is not a guaranteed seat - arrive at least an hour early and bring photo ID. Recordings run long.",
    "goodFor": [
     "groups",
@@ -9150,7 +9150,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "More than a hundred aircraft in hangars on the site of the old Hendon aerodrome - a Spitfire, a Lancaster, a Vulcan and a Harrier, all free to walk around.",
-   "opNote": "Free entry, and genuinely large - allow longer than you think. Colindale on the Northern line, then about ten minutes on foot.",
+   "opNote": "Free entry, and large - allow longer than you think. Colindale on the Northern line, then about ten minutes on foot.",
    "goodFor": [
     "families",
     "solo",
@@ -9363,7 +9363,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "The busiest music arena in the world by ticket sales, inside the Millennium Dome - and the reason most visitors ever go to North Greenwich.",
-   "opNote": "Jubilee line to North Greenwich, and the queue to leave afterwards is genuinely long - the IFS Cloud cable car and the Thames Clipper are both slower but far more pleasant escapes. Up at The O2 climbs the roof of the same building by day.",
+   "opNote": "Jubilee line to North Greenwich, and the queue to leave afterwards is long - the IFS Cloud cable car and the Thames Clipper are both slower but far more pleasant escapes. Up at The O2 climbs the roof of the same building by day.",
    "goodFor": [
     "groups",
     "date",
@@ -9528,7 +9528,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "Broadwick's warehouse venue in a converted IKEA at Meridian Water - four halls, 15,000 capacity, and the biggest space in London for electronic music since Printworks closed.",
-   "opNote": "ZONE 4 and genuinely remote - Meridian Water station has a limited service and getting home late needs planning. Over-18 only, and events run very late.",
+   "opNote": "ZONE 4 and remote - Meridian Water station has a limited service and getting home late needs planning. Over-18 only, and events run very late.",
    "goodFor": [
     "groups"
    ],
@@ -9863,7 +9863,7 @@
    "indoorOutdoor": "outdoor",
    "servesFood": "yes",
    "servesAlcohol": "no",
-   "whyGo": "32 acres of open farmland with Canary Wharf's towers visible over the fence - genuinely disorienting, and by far the largest of London's city farms. Llamas, a rare-breed herd and a proper cafe.",
+   "whyGo": "32 acres of open farmland with Canary Wharf's towers visible over the fence - disorienting, and by far the largest of London's city farms. Llamas, a rare-breed herd and a proper cafe.",
    "opNote": "Free, open daily. Ten minutes' walk from Mudchute or Crossharbour DLR.",
    "goodFor": [
     "families",
@@ -10028,7 +10028,7 @@
    "indoorOutdoor": "outdoor",
    "servesFood": "yes",
    "servesAlcohol": "no",
-   "whyGo": "105 acres of wetland built on four disused Victorian reservoirs - kingfishers, otters and rare wildfowl a few minutes from Barnes, with hides for genuinely close views.",
+   "whyGo": "105 acres of wetland built on four disused Victorian reservoirs - kingfishers, otters and rare wildfowl a few minutes from Barnes, with hides for close views.",
    "opNote": "Ticketed, unlike most of the reserves on this list - the trade-off is landscaped hides and a visitor centre rather than a wild reserve.",
    "goodFor": [
     "families",
@@ -10063,7 +10063,7 @@
    "indoorOutdoor": "outdoor",
    "servesFood": "yes",
    "servesAlcohol": "no",
-   "whyGo": "Ten reservoirs still supplying London's drinking water, opened to the public in 2017 and now Europe's largest urban wetland nature reserve - free, and genuinely wild given how close it sits to the North Circular.",
+   "whyGo": "Ten reservoirs still supplying London's drinking water, opened to the public in 2017 and now Europe's largest urban wetland nature reserve - free, and wild given how close it sits to the North Circular.",
    "opNote": "Free, but hours are shorter than a park - 9:30am-4pm winter, 5pm summer, last entry 30-45 min before close.",
    "goodFor": [
     "families",
@@ -10165,7 +10165,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "A patch of accidental woodland that grew up in the triangle of land between three railway lines - saved from development by a 1980s campaign, now a proper nature reserve two minutes from Chiswick Park station.",
-   "opNote": "Free, small - thirty minutes is genuinely enough. Entrance is easy to miss, on the south side of Bollo Lane.",
+   "opNote": "Free, small - thirty minutes is enough. Entrance is easy to miss, on the south side of Bollo Lane.",
    "goodFor": [
     "solo",
     "families"
@@ -10329,7 +10329,7 @@
    "servesFood": "no",
    "servesAlcohol": "yes",
    "whyGo": "A candlelit basement bar with live music under Stone Nest, a former Welsh chapel turned performance space on Shaftesbury Avenue - one of the more atmospheric small rooms in the West End.",
-   "opNote": "Below-ground and candlelit - genuinely dark, which some find romantic and others find impractical for reading a menu.",
+   "opNote": "Below-ground and candlelit - dark, which some find romantic and others find impractical for reading a menu.",
    "goodFor": [
     "date"
    ],
@@ -10361,7 +10361,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "One of London's half-dozen biggest national museums and free, covering conflict from WWI to today - a Holocaust galleries floor that needs real time, and a full-size Spitfire hanging in the atrium.",
-   "opNote": "The single biggest museum gap this sheet had - genuinely major, not a niche pick. Allow a full half-day, not an add-on.",
+   "opNote": "A major museum, not a niche pick. Allow a full half-day, not an add-on.",
    "goodFor": [
     "solo",
     "families",
@@ -10395,7 +10395,7 @@
    "indoorOutdoor": "indoor",
    "servesFood": "yes",
    "servesAlcohol": "no",
-   "whyGo": "The Army's own museum next to the Royal Hospital Chelsea - free, and a genuinely different, quieter kind of military history to the Imperial War Museum's.",
+   "whyGo": "The Army's own museum next to the Royal Hospital Chelsea - free, and a different, quieter kind of military history to the Imperial War Museum's.",
    "opNote": "Considerably smaller and quieter than IWM - pairs naturally with a Chelsea Pensioners visit or the Chelsea Flower Show grounds next door.",
    "goodFor": [
     "families",
@@ -10498,8 +10498,8 @@
    "indoorOutdoor": "indoor",
    "servesFood": "no",
    "servesAlcohol": "yes",
-   "whyGo": "A small museum of British comedy memorabilia in a Georgian church crypt that doubles as a working stand-up venue most nights - genuinely the only place in London combining the two.",
-   "opNote": "The museum itself is a modest single room - the real draw is the nightly comedy programme in the same space.",
+   "whyGo": "A small museum of British comedy memorabilia in a Georgian church crypt that doubles as a working stand-up venue most nights - the only place in London combining the two.",
+   "opNote": "The museum itself is a modest single room - the nightly comedy programme in the same space is what draws people.",
    "goodFor": [
     "groups",
     "date"
@@ -10530,7 +10530,7 @@
    "indoorOutdoor": "indoor",
    "servesFood": "no",
    "servesAlcohol": "no",
-   "whyGo": "A working film costume house in a converted Georgian granary, running a small cinema club in the same building - one of the odder combinations on this sheet, and entirely genuine.",
+   "whyGo": "A working film costume house in a converted Georgian granary, running a small cinema club in the same building.",
    "opNote": "The cinema club runs an irregular programme rather than daily screenings; check sandsfilms.co.uk for current listings.",
    "goodFor": [
     "solo",
@@ -10632,7 +10632,7 @@
    "indoorOutdoor": "indoor",
    "servesFood": "no",
    "servesAlcohol": "no",
-   "whyGo": "Self-playing pianos, organs and a Wurlitzer theatre organ, actually demonstrated working rather than displayed silent - a genuinely odd, specialist collection with almost no visitor overlap with anywhere else on this sheet.",
+   "whyGo": "Self-playing pianos, organs and a Wurlitzer theatre organ, demonstrated working, not displayed silent - an odd, specialist collection.",
    "opNote": "Demonstrations run at set times, not continuously - check the day's schedule before travelling out to Brentford.",
    "goodFor": [
     "families",
@@ -10666,7 +10666,7 @@
    "indoorOutdoor": "outdoor",
    "servesFood": "yes",
    "servesAlcohol": "yes",
-   "whyGo": "A full working theatre with no roof, inside Regent's Park, running a summer season of Shakespeare, musicals and new work since 1932 - genuinely one of London's better nights out in good weather.",
+   "whyGo": "A full working theatre with no roof, inside Regent's Park, running a summer season of Shakespeare, musicals and new work since 1932 - one of London's better nights out in good weather.",
    "opNote": "Summer season only, and check the weather policy before booking - performances rarely cancel for light rain but bring a layer regardless.",
    "goodFor": [
     "date",
@@ -11069,7 +11069,7 @@
    "servesFood": "no",
    "servesAlcohol": "no",
    "whyGo": "Actors, drops and a lot of shouting, working through the grimmer parts of London's history - the plague, the Great Fire, Sweeney Todd, Jack the Ripper.",
-   "opNote": "AGE GUIDANCE MATTERS HERE. Merlin recommend it for 12+, and under-16s must be with an adult; it genuinely frightens younger children. Book online, which is materially cheaper than the door. In County Hall alongside the Aquarium and Shrek's Adventure.",
+   "opNote": "AGE GUIDANCE MATTERS HERE. Merlin recommend it for 12+, and under-16s must be with an adult; it frightens younger children. Book online, which is materially cheaper than the door. In County Hall alongside the Aquarium and Shrek's Adventure.",
    "goodFor": [
     "groups",
     "date"
@@ -11141,7 +11141,7 @@
    "servesFood": "yes",
    "servesAlcohol": "yes",
    "whyGo": "The highest public viewpoint in western Europe, on floors 68 to 72 of the Shard, with the top level open to the sky.",
-   "opNote": "EXPENSIVE, AND THERE ARE FREE ALTERNATIVES. The Sky Garden and Tate Modern's viewing level both cost nothing and are already on this sheet - this is worth it for the height and the open-air deck, not because it is the only option. Book ahead; walk-up is dearer.",
+   "opNote": "EXPENSIVE, AND THERE ARE FREE ALTERNATIVES. The Sky Garden and Tate Modern's viewing level both cost nothing; pay for this one for the height and the open-air deck. Book ahead; walk-up is dearer.",
    "goodFor": [
     "date",
     "groups",
@@ -11373,7 +11373,7 @@
    "servesFood": "yes",
    "servesAlcohol": "no",
    "whyGo": "A 1938 Royal Navy cruiser permanently moored off Tooley Street, with nine decks open - down to the boiler rooms and up into the gun turrets.",
-   "opNote": "NOT STEP-FREE, and unavoidably so: it is a warship, with steep ladders and low hatches between decks. Part of the Imperial War Museum, which is already on this sheet.",
+   "opNote": "NOT STEP-FREE, and unavoidably so: it is a warship, with steep ladders and low hatches between decks. Part of the Imperial War Museum.",
    "goodFor": [
     "families",
     "groups",
@@ -11446,7 +11446,7 @@
    "stepFree": "no",
    "servesFood": "no",
    "servesAlcohol": "no",
-   "whyGo": "A converted narrowboat fitted out as a full podcast and radio studio - Shure microphones, a Rodecaster, DJ decks - moored on the canal at Little Venice. A genuinely unusual place to record something, or just to spot from the towpath.",
+   "whyGo": "A converted narrowboat fitted out as a full podcast and radio studio - Shure microphones, a Rodecaster, DJ decks - moored on the canal at Little Venice. An unusual place to record something, or just to spot from the towpath.",
    "opNote": "Female-founded; also runs as a radio station, DJ agency and pop-up event space. Book the podcast studio room via Tagvenue; other formats via the boat's own site/Instagram.",
    "goodFor": [
     "groups",
