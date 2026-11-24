@@ -32,6 +32,8 @@ London happy hours mostly run from 3pm to 7pm on weekdays. Every entry below set
 
 > 💡 **The Short Version:** **Manzi's** in Soho runs daily from 3pm to 7pm and all day Sunday, with oysters at £2 each and martinis at £10. **Plaquemine Lock** in Islington has oysters at £1. **Ippudo** and **Simmons** run the longest weekday windows, five hours each, and Simmons does 2-for-1 cocktails. **Market Halls** sells £5 pints from 8pm and **Dishoom** sells £5 cocktails after 9.30pm until 30 November 2026. **Ping Pong** puts dim sum into the deal. **Las Iguanas** and **Frankie & Benny's** run their cocktail offers all day.
 
+📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first.
+
 > ⚠️ **Most of these stop at Friday.** The [weekend table](#happy-hours-at-the-weekend) lists the ones that run on Saturday and Sunday.
 
 For deals that are about eating rather than drinking, see [restaurant deals](/articles/restaurant-deals-london/); for a drinks-and-food package at weekends, see [bottomless brunch](/articles/bottomless-brunch-london/); for cocktails two for one at any hour, the [2-for-1 deals](/articles/two-for-one-deals-london/); and for everything else, the [food deals hub](/articles/food-deals-london/).

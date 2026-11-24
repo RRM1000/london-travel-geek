@@ -100,7 +100,7 @@ Our [afternoon tea guide](/articles/best-afternoon-tea-london/) covers more than
 
 *££££ · the Foyer and Reading Room*
 
-Served on the hotel's **jade-and-white striped china** with smoked Scottish salmon among the savouries and a house Claridge's Blend tea. **£95 a head, £110 with Champagne, £125 with rosé** ([Claridge's](https://www.claridges.co.uk/)).
+Served on the hotel's **jade-and-white striped china** with smoked Scottish salmon among the savouries and a house Claridge's Blend tea. **£95 a head, £110 with Champagne, £125 with rosé** ([Hotels.com](hotel:claridges)).
 
 ### Fortnum & Mason, Piccadilly
 

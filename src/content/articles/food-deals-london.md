@@ -134,6 +134,7 @@ Offers that run on one named day are below, with the deals that run on a handful
 ## More ways to pay less
 
 - 🏷️ **[All London deals](/articles/london-deals/)**: food, theatre, days out, gyms and spas, with the offers ending soonest at the top
+- 📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first
 - 💳 **[Restaurant Discount Cards](/articles/restaurant-discount-cards-london/)**: Tastecard and the other paid memberships, compared
 - 📱 **[Off-Peak Restaurant Apps](/articles/off-peak-restaurant-apps-london/)**: First Table and EatClub, plus Too Good To Go's end-of-day bags at half price or less
 - 💷 **[Cheap Eats in London](/articles/cheap-eats-london/)**: good food under £15 with no offer, code or membership at all

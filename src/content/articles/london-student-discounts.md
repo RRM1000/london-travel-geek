@@ -156,6 +156,7 @@ Restaurant student discounts are mostly 20% to 30% off food, and many run Sunday
 ## Continue planning your London trip
 
 - 🏷️ **[All London deals](/articles/london-deals/)**: food, theatre, days out, gyms and spas, with the offers ending soonest at the top
+- 📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first
 - [London Deals This Month](/articles/london-deals-this-month/) — the sales and offers running now, updated monthly.
 - [London on a budget](/articles/london-on-a-budget/) — free museums, cheap travel and where to save.
 - [Cinema deals in London](/articles/cinema-deals-london/) — subscriptions, 2-for-1 and the cheap days.

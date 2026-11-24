@@ -33,6 +33,8 @@ The joining fee, the clause that lets one chain move you onto a dearer club's ra
 
 > 💡 **The Short Version:** **Public leisure is not automatically cheaper.** Better runs **£34.25** at Phoenix to **£60.00** at Vauxhall, dearer than most commercial chains. Where public wins outright is casual swimming: **£3.20** at Crystal Palace against **£26–£35** for a single boutique class. The cheapest standard adult membership in the table below is **Fitness4Less at £20**, flat across all three clubs including one in Zone 1. **The joining fee is where the advertised price stops being the price:** Virgin Active charges **£25 to £250** depending on the club, and roughly doubles it if you go rolling. **JD Gyms is the only commercial chain in London with a standing no-fee policy.** And if you swim twice a week, **pay-as-you-go beats the membership** by **£150 a year** at Britannia.
 
+📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first.
+
 > ⚠️ **The resident discount is the biggest number on this page.** A Camden resident pays **£54.10** a year for a Better Pay As You Go card. A non-resident pays **£109.40** for the same card. In Kensington and Chelsea the card is **free** to residents and **£37** to everybody else. Southwark residents swim and use the gym free at set times. Check your own borough before you sign anything.
 
 ---

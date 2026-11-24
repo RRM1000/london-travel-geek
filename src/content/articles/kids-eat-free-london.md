@@ -36,6 +36,8 @@ A free children's meal in London almost always costs you an adult main course at
 
 > 💡 **The Short Version:** In central London, **Angus Steakhouse** feeds one child aged 8 or under free with each adult main, daily from 12pm to 5pm, and **Gordon Ramsay's restaurants** give a child of 10 or under a free main when an adult orders two courses. **Preto** lets children up to 10 eat free with an adult rodízio on weekday evenings and all weekend. On Sundays, **The Real Greek** and **Banana Tree** feed children free. **Bella Italia** runs kids eat free Sunday to Thursday outside school holidays, but its terms exclude ten of its eleven London restaurants, leaving only Croydon. **Morrisons Café** runs seven days a week with a £5 adult main, though only one of the ten Morrisons nearest Covent Garden has a café. **Prezzo's £1.99-a-month Kids Club** feeds up to three children free on one adult main. **IKEA charges 95p** for a kids' meal with no adult purchase at all. And if you are staying the night, **Premier Inn** feeds two under-16s free at breakfast.
 
+📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first.
+
 > ⚠️ **School-holiday offers disappear when term restarts.** Several chains — ASK Italian, Zizzi, TGI Fridays and Toby Carvery among them — run kids-eat-free only in school holidays. They come and go on a few weeks' notice, so check the operator's own page in the fortnight before each half term.
 
 ---

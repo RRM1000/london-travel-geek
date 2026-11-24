@@ -500,7 +500,7 @@ export function remarkTopicDeals() {
   };
 }
 
-const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals (today|best|ending|week)\}$/;
+const MARKER = /^\{deals (list|more)=([^}\s]+)(?: heading=([^}]+))?\}$|^\{deals (today|best|ending|week|finder)\}$/;
 const textOf = (node) => (node.value ?? "") + (node.children ?? []).map(textOf).join("");
 
 export default function remarkDealTables() {
@@ -512,7 +512,7 @@ export default function remarkDealTables() {
       const m = textOf(p).trim().match(MARKER);
       if (!m) continue;
       const data = load();
-      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : m[4] === "best" ? best(data) : m[4] === "ending" ? ending(data) : m[4] === "week" ? [html(weekDealsHtml())] : today(data);
+      const nodes = !data ? [] : m[1] === "list" ? list(data, m[2]) : m[1] === "more" ? more(data, m[2], m[3]?.trim()) : m[4] === "best" ? best(data) : m[4] === "ending" ? ending(data) : m[4] === "week" ? [html(weekDealsHtml())] : m[4] === "finder" ? [html(finderHtml())] : today(data);
       kids.splice(i, 1, ...nodes);
     }
   };
@@ -618,4 +618,91 @@ export function weekDealsHtml(max = 6) {
   if (!items.length) return "";
   const lis = items.map((x) => `<li class="week-deal"${x.until ? ` data-until="${x.until}"` : ""}><a href="${escHtml(x.href)}"><strong>${escHtml(x.name)}</strong><span class="deal-card__offer">${escHtml(x.text)}</span><span class="deal-card__when">${escHtml(x.when)}</span></a></li>`).join("");
   return `<ul class="week-deals">${lis}</ul>`;
+}
+
+// DEALS FINDER (/articles/london-deals-near-me/): every live food and non-food deal with the
+// places it can be used, for the in-browser finder that sorts them by distance from a station or
+// the reader's location. Locations come from data/deal-locations.json, which
+// scripts/db/export-deal-locations.mjs (food, from the database) and scripts/locate-other-deals.mjs
+// (cinemas, gyms, spas, activities) write.
+const LOCATIONS = new URL("data/deal-locations.json", ROOT);
+const DAY_RX = { mon: 0, tue: 1, wed: 2, thu: 3, fri: 4, sat: 5, sun: 6 };
+// Days of the week a deal runs, as a 7-bit mask (bit 0 = Monday), or null when the text gives no
+// weekday ("school holidays", "on your birthday"): the finder shows those on every day.
+export function dayMask(text) {
+  const s = (text ?? "").toLowerCase();
+  if (!s.trim()) return null;
+  // A day name, short or long: "Mon", "Tues", "Wednesday", "Saturdays".
+  const D = String.raw`(mon|tue|wed|thu|fri|sat|sun)(?:day|days|s|nesday|nesdays|sday|sdays|rsday|rsdays|urday|urdays|r|rs|t)?`;
+  if (/\b(daily|every ?day|nightly|all week|seven days|7 days)\b/.test(s) || new RegExp(String.raw`\bmon\w*\s*(?:–|-|to)\s*sun`).test(s)) return 127;
+  let m = 0;
+  const offRx = new RegExp(String.raw`(?:closed|except|not)\s+(?:on\s+)?${D}\b`, "g");
+  const off = [...s.matchAll(offRx)].map((x) => DAY_RX[x[1]]);
+  const body = s.replace(offRx, " ");
+  if (/\bweekdays?\b/.test(body)) m |= 0b0011111;
+  if (/\bweekends?\b/.test(body)) m |= 0b1100000;
+  for (const x of body.matchAll(new RegExp(String.raw`\b${D}\s*(?:–|-|to)\s*${D}\b`, "g"))) {
+    const [a, b] = [DAY_RX[x[1]], DAY_RX[x[2]]];
+    for (let i = a; ; i = (i + 1) % 7) { m |= 1 << i; if (i === b) break; }
+  }
+  for (const x of body.matchAll(new RegExp(String.raw`\b${D}\b`, "g"))) m |= 1 << DAY_RX[x[1]];
+  if (!m && off.length) m = 127; // "Evenings (closed Mondays)": every other day
+  for (const i of off) m &= ~(1 << i);
+  return m || null;
+}
+const FOOD_GROUP = { "happy-hour": "Happy hours", "set-menu": "Set menus and pre-theatre", "pre-theatre": "Set menus and pre-theatre",
+  bottomless: "Bottomless brunch and all you can eat", "all-you-can-eat": "Bottomless brunch and all you can eat",
+  "kids-eat-free": "Kids eat free", "two-for-one": "2-for-1 and money off", "percent-off": "2-for-1 and money off",
+  "day-deal": "2-for-1 and money off", byo: "BYO", birthday: "Birthday freebies", student: "Student and NHS", "nhs-blue-light": "Student and NHS" };
+const OTHER_GROUP = { cinema: "Cinemas", gym: "Gyms and fitness", spa: "Spas", karaoke: "Games and activities", bowling: "Games and activities",
+  "escape-room": "Games and activities", climbing: "Games and activities", "mini-golf": "Games and activities", activity: "Games and activities" };
+export function finderData() {
+  const data = load();
+  const other = otherData();
+  if (!data) return { deals: [], stations: [] };
+  const loc = fs.existsSync(LOCATIONS) ? JSON.parse(fs.readFileSync(LOCATIONS, "utf8")) : {};
+  const foodHref = (d) => {
+    const key = Object.keys(d.show ?? {})[0] ?? (DEFAULT[d.type]?.(d)) ?? null;
+    return `/articles/${key ? key.replace("#", "/#") : `${MORE_PAGE[d.type] ?? HUB}/`}`.replace(/\/\/#/, "/#").replace(/([^/])$/, "$1");
+  };
+  const otherHref = (d) => {
+    const slug = Object.entries(other?.pages ?? {}).find(([, s]) => s.categories.includes(d.category))?.[0];
+    return `/articles/${slug ?? "london-deals"}/`;
+  };
+  const row = (d, group, href, places) => ({
+    n: d.name.replace(/\s*\(.*\)\s*$/, ""), o: offer(d), w: [d.days, d.times].filter(Boolean).join(", "),
+    c: [d.conditions, branches(d.branches)].filter(Boolean).map((x) => x.replace(/\.$/, "")).join(". "),
+    g: group, h: href, s: d.sourceUrl ?? d.site ?? null, e: d.endDate ?? null, m: dayMask(d.days), p: places,
+  });
+  const deals = [];
+  for (const d of data.live) {
+    if (d.card || d.origin === "page" || !/\d|free/i.test(`${d.offer} ${d.price ?? ""}`)) continue;
+    const places = loc.food?.[d.name];
+    if (places?.length) deals.push(row(d, FOOD_GROUP[d.type] ?? "Other food and drink", foodHref(d), places));
+  }
+  for (const d of other?.deals ?? []) {
+    const places = loc.other?.[d.name];
+    if (places?.length) deals.push(row(d, OTHER_GROUP[d.category] ?? "Games and activities", otherHref(d), places));
+  }
+  return { deals, stations: loc.stations ?? [] };
+}
+// The finder's form ({deals finder}). public/deals-finder.js fills it from /deals-finder.json;
+// ?v= changes with every build so the browser never keeps an old deals list.
+export function finderHtml() {
+  const v = Date.now().toString(36);
+  const days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+  return `<div class="deals-finder" data-deals-finder data-src="/deals-finder.json?v=${v}">
+<form class="deals-finder__form" autocomplete="off">
+<label class="deals-finder__near">Near <input name="near" list="df-stations" placeholder="A station, such as Covent Garden" /></label>
+<datalist id="df-stations"></datalist>
+<button type="button" class="deals-finder__locate" data-df-locate>Use my location</button>
+<label>Day <select name="day">${days.map((d) => `<option value="${d.slice(0, 3).toLowerCase()}">${d}</option>`).join("")}<option value="any">Any day</option></select></label>
+<label>Within <select name="within"><option value="500">500 m</option><option value="1000" selected>1 km</option><option value="2000">2 km</option><option value="5000">5 km</option></select></label>
+<label>Type <select name="type"><option value="">All deals</option></select></label>
+</form>
+<p class="deals-finder__status" data-df-status aria-live="polite">Loading <span data-df-count>the deals</span>…</p>
+<ol class="deals-finder__results" data-df-results></ol>
+<noscript><p>The finder needs JavaScript. Every deal is also listed on the <a href="/articles/food-deals-london/">food deals</a> and <a href="/articles/london-deals/">London deals</a> pages.</p></noscript>
+</div>
+<script src="/deals-finder.js?v=${v}" defer></script>`;
 }

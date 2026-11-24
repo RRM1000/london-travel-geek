@@ -612,6 +612,99 @@
   text-decoration: underline;
 }
 
+/* The deals finder ({deals finder}, public/deals-finder.js) */
+.deals-finder {
+  margin: 1.25rem 0 2rem;
+  padding: 1rem;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--surface);
+}
+
+.deals-finder__form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1rem;
+  align-items: end;
+}
+
+.deals-finder__form label {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.deals-finder__near {
+  flex: 1 1 16rem;
+}
+
+.deals-finder__form input,
+.deals-finder__form select,
+.deals-finder__locate {
+  min-height: 2.5rem;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--line);
+  border-radius: 0.45rem;
+  background: var(--bg, #fff);
+  color: inherit;
+  font: inherit;
+  font-weight: 400;
+}
+
+.deals-finder__locate {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.deals-finder__status {
+  margin: 1rem 0 0.5rem;
+  font-weight: 600;
+}
+
+.deals-finder__results,
+.article__body .deals-finder__results {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.deals-finder__item,
+.article__body .deals-finder__item {
+  margin: 0;
+  padding: 0.85rem 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+}
+
+.article__body .deals-finder__item::before {
+  content: none;
+}
+
+.deals-finder__item p {
+  margin: 0.15rem 0;
+  line-height: 1.4;
+}
+
+.deals-finder__name {
+  font-weight: 700;
+}
+
+.deals-finder__group {
+  margin-left: 0.5rem;
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.deals-finder__when,
+.deals-finder__cond,
+.deals-finder__dist {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
 .deal-card__more {
   font-weight: 700;
   font-size: 0.95rem;

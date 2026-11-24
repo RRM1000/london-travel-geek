@@ -240,6 +240,7 @@ export const londonSite: SiteConfig = {
       description: "Food, theatre, days out, gyms and spas for less.",
       imageKey: "deals",
       children: [
+        { label: "Deals near me", href: "/articles/london-deals-near-me/" },
         { label: "Deals ending soon", href: "/articles/london-deals/#deals-ending-soon" },
         { label: "Food deals", href: "/articles/food-deals-london/" },
         { label: "Deals this month", href: "/articles/london-deals-this-month/" },

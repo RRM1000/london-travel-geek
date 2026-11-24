@@ -31,6 +31,8 @@ Of the seven hotel spas below, four sell access on its own, two bundle it with a
 
 > 💡 **The Short Version:** The cheapest way into a hotel pool is the **[St Pancras London](#st-pancras-london) Spa Day Pass at £80 for four hours**, with no treatment: £20 an hour against £75 at **[The Landmark](#the-landmark-london)** (£150 for two). **[Corinthia](#corinthia-london)** charges **£175 on weekdays and £200 at weekends** for its thermal circuit. **[Pan Pacific London](#pan-pacific-london)** works out the same per hour: **£120 for six hours** with its 18.5m infinity pool, or £157.50 for a Sunday roast and four hours. If you want a treatment anyway, **[Rena Spa at Leonardo Royal St Paul's](#rena-spa-leonardo-royal-london-st-pauls)** has spa days from **£125**. Book ahead: The Landmark requires it, and the Pan Pacific voucher takes 7 days to activate.
 
+📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first.
+
 | Hotel | Area | From | Time | Pool and facilities |
 | --- | --- | --- | --- | --- |
 | **St Pancras London** | King's Cross | £80 | 4 hours | Relaxation pool, sauna, steam room, gym |

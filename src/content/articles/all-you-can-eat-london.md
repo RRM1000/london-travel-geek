@@ -38,6 +38,8 @@ All-you-can-eat in London is a fixed price for as much food as you can order ins
 
 > 💡 **The Short Version:** **Mr Wu** in Soho has the lowest listed price, a Chinese buffet at £9.95 to eat in. **Chutneys** and **Diwana Bhel Poori House** serve vegetarian Indian buffets at £14.95 in Euston. The longest stated limit is two hours, at **FeiEr Cottage** (hot pot or dim sum, £38), **DAIU** and **Jimmy's World Grill**. For sushi, **Sushi Cafe** in Battersea is £25.80 for 90 minutes. For Korean barbecue, **Keonbae** in Royal Wharf is £32 or £45 on Tuesdays. For hot pot, **Da Long Yi** in Fitzrovia is £28.99 with walk-ins welcome. For rodízio, **Preto** has an £18.95 weekday lunch. For pizza, **Pizza Pilgrims** and **PizzaLuxe** run 90-minute sessions. For dim sum, **Ping Pong** is £29.95 on Sundays.
 
+📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first.
+
 > ⚠️ **Many of these run on one day only.** Keonbae is Tuesday or Wednesday, Big Easy changes its offer each weekday, Las Iguanas and Pick & Cheese are single weekdays and YO! Sushi's Bottomless Belt is Thursday afternoon and evening. Check the day before you travel.
 
 *Prices and times as listed by each restaurant, November 2026.*

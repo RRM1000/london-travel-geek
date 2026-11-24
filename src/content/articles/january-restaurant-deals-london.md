@@ -150,3 +150,4 @@ Every 2-for-1 offer in London, with its branch and condition, is on our [2-for-1
 - 🎉 **[Things to do in London in January](/articles/things-to-do-in-london-in-january/)**: the events, the end of Christmas and the sport
 - 🥞 **[Pancake Day in London](/articles/pancake-day-london/)**: races and pancakes on Tuesday 9 February
 - 🏷️ **[All London deals](/articles/london-deals/)**
+- 📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first

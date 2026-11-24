@@ -25,6 +25,8 @@ faq:
 
 > 💡 **The Short Version:** The current offers are in the box below, each linked to the page that explains it. **Food** has its own hub, with offers for each day of the week. **Theatre** seats cost less at the TKTS booth in Leicester Square and on midweek nights. **A National Rail ticket gets you 2-for-1 entry** at the Tower of London, Kew and Westminster Abbey. **Gyms, spas, cinemas and games** each have a deals table on their own guide and **students** have two pages of their own.
 
+📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first.
+
 *Updated as offers start and end: a deal leaves these pages the day it finishes.*
 
 ## Deals ending soon

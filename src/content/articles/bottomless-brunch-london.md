@@ -39,6 +39,8 @@ A bottomless brunch is a fixed price for a food dish plus unlimited drinks insid
 
 > 💡 **The Short Version:** **Big Easy** at around £41.50 buys two hours of unlimited drinks *and* unlimited barbecue. **Las Iguanas** at £39.95 gives you two full hours and a main course. **The Breakfast Club's Mayor's Boozy Brunch** at £45 includes cocktails. **No 32 The Old Town** in Clapham is £39. And **Megan's £25 headline is drinks only**: a main meal is compulsory on top.
 
+📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first.
+
 > ⚠️ **Ninety minutes rarely means ninety minutes of drinking.** Revolution and Big Easy both stop taking drinks orders fifteen minutes before the end, and All Bar One and Revolution start the clock at your order time, not when you settle in.
 
 ---
