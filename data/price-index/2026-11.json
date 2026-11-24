@@ -1,0 +1,2580 @@
+{
+  "month": "2026-11",
+  "readDate": "2026-11-24",
+  "currency": "GBP",
+  "method": "data/price-index/method.md",
+  "status": "baseline; not published",
+  "items": {
+    "tube": {
+      "label": "Tube fare, adult pay as you go (contactless/Oyster)",
+      "robustness": "solid",
+      "figures": {
+        "zone1PeakSingle": 3.1,
+        "zone1OffPeakSingle": 3,
+        "zone1to2DailyCap": 8.9,
+        "busSingle": 1.85,
+        "busDailyCap": 5.55
+      },
+      "points": [
+        {
+          "what": "Zone 1 PAYG single, peak (Oxford Circus to Bank)",
+          "price": 3.1,
+          "sourceUrl": "https://api.tfl.gov.uk/Stoppoint/940GZZLUOXC/FareTo/940GZZLUBNK",
+          "read": "2026-11-24",
+          "note": "TfL fares API, fare row valid 2026-11-01 to 2027-11-01; peak = Mon-Fri 06:30-09:30 and 16:00-19:00."
+        },
+        {
+          "what": "Zone 1 PAYG single, off-peak (Oxford Circus to Bank)",
+          "price": 3,
+          "sourceUrl": "https://api.tfl.gov.uk/Stoppoint/940GZZLUOXC/FareTo/940GZZLUBNK",
+          "read": "2026-11-24"
+        },
+        {
+          "what": "Zone 1 cash single (for reference)",
+          "price": 7,
+          "sourceUrl": "https://api.tfl.gov.uk/Stoppoint/940GZZLUOXC/FareTo/940GZZLUBNK",
+          "read": "2026-11-24"
+        },
+        {
+          "what": "Zones 1-2 PAYG daily cap (peak and off-peak)",
+          "price": 8.9,
+          "sourceUrl": "https://tfl.gov.uk/cdn/static/cms/documents/adult-fares.pdf",
+          "read": "2026-11-24",
+          "note": "TfL \"Adult rate prices 2026\" PDF (doc ref MSRV26_011). Zones 1-6 cap £16.30; 7-day Zones 1-2 Travelcard £44.70."
+        },
+        {
+          "what": "Bus/tram PAYG single (Hopper)",
+          "price": 1.85,
+          "sourceUrl": "https://tfl.gov.uk/how-to-pay/check-travel-costs/bus-and-tram-fares",
+          "read": "2026-11-24"
+        },
+        {
+          "what": "Bus/tram PAYG daily cap",
+          "price": 5.55,
+          "sourceUrl": "https://tfl.gov.uk/how-to-pay/check-travel-costs/bus-and-tram-fares",
+          "read": "2026-11-24"
+        }
+      ],
+      "caveat": "Fares change once a year (normally early March), so this item will read flat for months at a time. That is a true reading, not a fault."
+    },
+    "theatre": {
+      "label": "West End theatre ticket, long-running shows",
+      "robustness": "solid for cheapest; medium for top price",
+      "figures": {
+        "cheapestMedian": 38.95,
+        "cheapestShows": 15,
+        "topPriceMedian": 175,
+        "topPriceShows": 9
+      },
+      "cheapestStats": {
+        "n": 15,
+        "min": 25,
+        "median": 38.95,
+        "max": 82.25
+      },
+      "topStats": {
+        "n": 9,
+        "min": 82,
+        "median": 175,
+        "max": 250
+      },
+      "window": {
+        "performancesFrom": "2026-12-22",
+        "performancesTo": "2027-01-19",
+        "readingsSince": "2026-11-20",
+        "eveningOnly": true
+      },
+      "source": "westend-tracker database (C:/Users/rober/Projects/westend-tracker, origin/master data/westend.db, last reading 2026-11-24T14:50Z), which reads each operator's own booking calendar daily.",
+      "shows": [
+        {
+          "show": "Wicked",
+          "venue": "Apollo Victoria Theatre",
+          "operator": "atg",
+          "key": "wicked-apollo-victoria",
+          "performances": 21,
+          "performancesWithPrice": 21,
+          "cheapestMedian": 32.5,
+          "cheapestMin": 25,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": "2026-11-24T14:28:50+00:00",
+          "exampleSourceUrl": "https://www.atgtickets.com/shows/wicked/apollo-victoria-theatre/calendar/2026-12-01",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:45+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:45+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:45+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:45+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-01T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": 32.5,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:28:50+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Disney's The Lion King",
+          "venue": "Lyceum Theatre",
+          "operator": "atg",
+          "key": "lion-king-lyceum",
+          "performances": 17,
+          "performancesWithPrice": 17,
+          "cheapestMedian": 38.95,
+          "cheapestMin": 38.95,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": "2026-11-24T14:29:27+00:00",
+          "exampleSourceUrl": "https://www.atgtickets.com/shows/disneys-the-lion-king/lyceum-theatre/calendar/2026-12-01",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": 68.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:20+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": 58.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:20+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": 63.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:20+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": 73.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": 73.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-01T19:30:00",
+              "from": 68.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": 38.95,
+              "top": null,
+              "readAt": "2026-11-24T14:29:27+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Stranger Things: The First Shadow",
+          "venue": "Phoenix Theatre",
+          "operator": "atg",
+          "key": "stranger-things-phoenix",
+          "performances": 2,
+          "performancesWithPrice": 2,
+          "cheapestMedian": 82.25,
+          "cheapestMin": 58.5,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": "2026-11-24T14:30:25+00:00",
+          "exampleSourceUrl": "https://www.atgtickets.com/shows/stranger-things-the-first-shadow/phoenix-theatre/calendar/2026-12-01",
+          "points": [
+            {
+              "performance": "2026-12-22T19:00:00",
+              "from": 58.5,
+              "top": null,
+              "readAt": "2026-11-24T14:30:25+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:00:00",
+              "from": 106,
+              "top": null,
+              "readAt": "2026-11-24T14:30:25+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Moulin Rouge! The Musical",
+          "venue": "Piccadilly Theatre",
+          "operator": "atg",
+          "key": "moulin-rouge-piccadilly",
+          "performances": 20,
+          "performancesWithPrice": 20,
+          "cheapestMedian": 46.13,
+          "cheapestMin": 25,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": "2026-11-24T14:30:46+00:00",
+          "exampleSourceUrl": "https://www.atgtickets.com/shows/moulin-rouge-the-musical/piccadilly-theatre/calendar/2026-12-01",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": 46.13,
+              "top": null,
+              "readAt": "2026-11-24T14:30:41+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": 46.13,
+              "top": null,
+              "readAt": "2026-11-24T14:30:41+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": 61.5,
+              "top": null,
+              "readAt": "2026-11-24T14:30:41+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": 46.13,
+              "top": null,
+              "readAt": "2026-11-24T14:30:41+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": 46.13,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": 61.5,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": 61.5,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 61.5,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": 46.13,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:00:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:00:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 46.13,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": 46.13,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:00:00",
+              "from": 25,
+              "top": null,
+              "readAt": "2026-11-24T14:30:46+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Cabaret",
+          "venue": "Playhouse Theatre (Kit Kat Club)",
+          "operator": "atg",
+          "key": "cabaret-playhouse",
+          "performances": 20,
+          "performancesWithPrice": 20,
+          "cheapestMedian": 45,
+          "cheapestMin": 35,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": "2026-11-24T14:32:49+00:00",
+          "exampleSourceUrl": "https://www.atgtickets.com/shows/cabaret/kit-kat-club-at-the-playhouse/calendar/2026-12-01",
+          "points": [
+            {
+              "performance": "2026-12-22T19:00:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:41+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:41+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": 85,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:00:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2026-12-31T18:00:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:00:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:00:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": 45,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": 35,
+              "top": null,
+              "readAt": "2026-11-24T14:32:49+00:00"
+            }
+          ]
+        },
+        {
+          "show": "SIX the Musical",
+          "venue": "Vaudeville Theatre",
+          "operator": "nimax",
+          "key": "six-vaudeville",
+          "performances": 20,
+          "performancesWithPrice": 4,
+          "cheapestMedian": 34.5,
+          "cheapestMin": 34.5,
+          "topMedian": 82,
+          "topMax": 98.5,
+          "performancesWithBands": 4,
+          "lastSeen": "2026-11-24T14:29:37+00:00",
+          "exampleSourceUrl": "https://ticketing.nimaxtheatres.com/api/consumer/events/v2/getbymonth/VASQU01M?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-23T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-26T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-29T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-30T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2027-01-02T20:00:00",
+              "from": 34.5,
+              "top": 98.5,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-03T19:00:00",
+              "from": 34.5,
+              "top": 84.5,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-05T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-06T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-07T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-08T20:00:00",
+              "from": 34.5,
+              "top": 79.5,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-09T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-10T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-12T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-13T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-14T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-15T20:00:00",
+              "from": 34.5,
+              "top": 79.5,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-16T20:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            },
+            {
+              "performance": "2027-01-17T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:37+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Hadestown",
+          "venue": "Lyric Theatre",
+          "operator": "nimax",
+          "key": "hadestown-lyric",
+          "performances": 18,
+          "performancesWithPrice": 4,
+          "cheapestMedian": 25,
+          "cheapestMin": 25,
+          "topMedian": 150,
+          "topMax": 175,
+          "performancesWithBands": 4,
+          "lastSeen": "2026-11-24T14:31:40+00:00",
+          "exampleSourceUrl": "https://ticketing.nimaxtheatres.com/api/consumer/events/v2/getbymonth/LYHDT01M?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:20+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:20+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:20+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:20+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:20+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:20+00:00"
+            },
+            {
+              "performance": "2026-12-31T17:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:20+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 25,
+              "top": 175,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:00:00",
+              "from": 25,
+              "top": 140,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 25,
+              "top": 150,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 25,
+              "top": 150,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:40+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Harry Potter and the Cursed Child",
+          "venue": "Palace Theatre",
+          "operator": "nimax",
+          "key": "harry-potter-palace",
+          "performances": 17,
+          "performancesWithPrice": 5,
+          "cheapestMedian": 30,
+          "cheapestMin": 25,
+          "topMedian": 175,
+          "topMax": 225,
+          "performancesWithBands": 5,
+          "lastSeen": "2026-11-24T14:34:59+00:00",
+          "exampleSourceUrl": "https://ticketing.nimaxtheatres.com/api/consumer/events/v2/getbymonth/PAHAR02M?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:39+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:39+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:39+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:00:00",
+              "from": 30,
+              "top": 225,
+              "readAt": "2026-11-24T14:34:39+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:39+00:00"
+            },
+            {
+              "performance": "2027-01-01T17:00:00",
+              "from": 30,
+              "top": 175,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:00:00",
+              "from": 30,
+              "top": 175,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:00:00",
+              "from": 25,
+              "top": 145,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:00:00",
+              "from": 25,
+              "top": 125,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:59+00:00"
+            }
+          ]
+        },
+        {
+          "show": "The Play That Goes Wrong",
+          "venue": "Duchess Theatre",
+          "operator": "nimax",
+          "key": "play-that-goes-wrong-duchess",
+          "performances": 20,
+          "performancesWithPrice": 4,
+          "cheapestMedian": 37.5,
+          "cheapestMin": 20,
+          "topMedian": 90,
+          "topMax": 90,
+          "performancesWithBands": 4,
+          "lastSeen": "2026-11-24T14:37:06+00:00",
+          "exampleSourceUrl": "https://ticketing.nimaxtheatres.com/api/consumer/events/v2/getbymonth/DUWRO01M?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": 50,
+              "top": 90,
+              "readAt": "2026-11-24T14:36:45+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:45+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:45+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:45+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": 50,
+              "top": 90,
+              "readAt": "2026-11-24T14:36:45+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:45+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 25,
+              "top": 90,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-03T19:00:00",
+              "from": 20,
+              "top": 90,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-10T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            },
+            {
+              "performance": "2027-01-17T19:00:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:37:06+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Hamilton",
+          "venue": "Victoria Palace Theatre",
+          "operator": "dm",
+          "key": "hamilton-victoria-palace",
+          "performances": 20,
+          "performancesWithPrice": 5,
+          "cheapestMedian": 45,
+          "cheapestMin": 42.5,
+          "topMedian": 225,
+          "topMax": 275,
+          "performancesWithBands": 5,
+          "lastSeen": "2026-11-24T14:29:36+00:00",
+          "exampleSourceUrl": "https://buytickets.delfontmackintosh.co.uk/api/consumer/events/v2/getbymonth/VPHAM?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:16+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 80,
+              "top": 275,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": 42.5,
+              "top": 185,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": 42.5,
+              "top": 185,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 45,
+              "top": 225,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 45,
+              "top": 225,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:36+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Les Misérables",
+          "venue": "Sondheim Theatre",
+          "operator": "dm",
+          "key": "les-miserables-sondheim",
+          "performances": 20,
+          "performancesWithPrice": 5,
+          "cheapestMedian": 42.5,
+          "cheapestMin": 42.5,
+          "topMedian": 215,
+          "topMax": 275,
+          "performancesWithBands": 5,
+          "lastSeen": "2026-11-24T14:31:38+00:00",
+          "exampleSourceUrl": "https://buytickets.delfontmackintosh.co.uk/api/consumer/events/v2/getbymonth/SONLM?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:18+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:18+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:18+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:18+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:18+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:18+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 42.5,
+              "top": 275,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": 42.5,
+              "top": 215,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": 42.5,
+              "top": 205,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 42.5,
+              "top": 215,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 42.5,
+              "top": 215,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:31:38+00:00"
+            }
+          ]
+        },
+        {
+          "show": "The Book of Mormon",
+          "venue": "Prince of Wales Theatre",
+          "operator": "dm",
+          "key": "book-of-mormon-prince-of-wales",
+          "performances": 21,
+          "performancesWithPrice": 5,
+          "cheapestMedian": 25,
+          "cheapestMin": 20,
+          "topMedian": 166,
+          "topMax": 175,
+          "performancesWithBands": 5,
+          "lastSeen": "2026-11-24T14:34:46+00:00",
+          "exampleSourceUrl": "https://buytickets.delfontmackintosh.co.uk/api/consumer/events/v2/getbymonth/POWBOM?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:25+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:25+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:25+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:25+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:25+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:25+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:25+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 40,
+              "top": 175,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": 25,
+              "top": 166,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": 25,
+              "top": 166,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 25,
+              "top": 166,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 20,
+              "top": 175,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:34:46+00:00"
+            }
+          ]
+        },
+        {
+          "show": "MAMMA MIA!",
+          "venue": "Novello Theatre",
+          "operator": "dm",
+          "key": "mamma-mia-novello",
+          "performances": 21,
+          "performancesWithPrice": 5,
+          "cheapestMedian": 52.5,
+          "cheapestMin": 30,
+          "topMedian": 205,
+          "topMax": 205,
+          "performancesWithBands": 5,
+          "lastSeen": "2026-11-24T14:36:33+00:00",
+          "exampleSourceUrl": "https://buytickets.delfontmackintosh.co.uk/api/consumer/events/v2/getbymonth/NOVMM?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:13+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:13+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:13+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:13+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": 52.5,
+              "top": 205,
+              "readAt": "2026-11-24T14:36:13+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:13+00:00"
+            },
+            {
+              "performance": "2027-01-01T19:30:00",
+              "from": 52.5,
+              "top": 205,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 40,
+              "top": 205,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": 30,
+              "top": 195,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": 55,
+              "top": 195,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:36:33+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Matilda The Musical",
+          "venue": "Cambridge Theatre",
+          "operator": "lw",
+          "key": "matilda-cambridge",
+          "performances": 0,
+          "performancesWithPrice": 0,
+          "cheapestMedian": null,
+          "cheapestMin": null,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": null,
+          "exampleSourceUrl": null,
+          "points": []
+        },
+        {
+          "show": "The Devil Wears Prada",
+          "venue": "Dominion Theatre",
+          "operator": "nederlander",
+          "key": "devil-wears-prada-dominion",
+          "performances": 21,
+          "performancesWithPrice": 7,
+          "cheapestMedian": 29.5,
+          "cheapestMin": 25,
+          "topMedian": 250,
+          "topMax": 250,
+          "performancesWithBands": 7,
+          "lastSeen": "2026-11-24T14:29:35+00:00",
+          "exampleSourceUrl": "https://ticketing.nederlander.co.uk/api/consumer/events/v2/getbymonth/TheDevilWearsPrada?requestedTime=2026%2F12%2F01&salesChannel=Web",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": 29.5,
+              "top": 250,
+              "readAt": "2026-11-24T14:29:15+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:15+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:15+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:15+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:15+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": 29.5,
+              "top": 250,
+              "readAt": "2026-11-24T14:29:15+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:15+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 29.5,
+              "top": 250,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-03T17:00:00",
+              "from": 29.5,
+              "top": 250,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": 25,
+              "top": 250,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 29.5,
+              "top": 250,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 29.5,
+              "top": 250,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": null,
+              "top": null,
+              "readAt": "2026-11-24T14:29:35+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Operation Mincemeat",
+          "venue": "Fortune Theatre",
+          "operator": "atg",
+          "key": "operation-mincemeat-fortune",
+          "performances": 21,
+          "performancesWithPrice": 21,
+          "cheapestMedian": 59.75,
+          "cheapestMin": 51.75,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": "2026-11-24T14:32:06+00:00",
+          "exampleSourceUrl": "https://www.atgtickets.com/shows/operation-mincemeat-a-new-musical/fortune-theatre/calendar/2026-12-01",
+          "points": [
+            {
+              "performance": "2026-12-22T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:31:59+00:00"
+            },
+            {
+              "performance": "2026-12-23T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:31:59+00:00"
+            },
+            {
+              "performance": "2026-12-26T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:31:59+00:00"
+            },
+            {
+              "performance": "2026-12-27T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:31:59+00:00"
+            },
+            {
+              "performance": "2026-12-28T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2026-12-29T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2026-12-30T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-02T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-04T19:30:00",
+              "from": 51.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-05T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-06T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-07T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-08T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-09T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-11T19:30:00",
+              "from": 51.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-12T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-13T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-14T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-15T19:30:00",
+              "from": 59.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-16T19:30:00",
+              "from": 69.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            },
+            {
+              "performance": "2027-01-18T19:30:00",
+              "from": 51.75,
+              "top": null,
+              "readAt": "2026-11-24T14:32:06+00:00"
+            }
+          ]
+        },
+        {
+          "show": "Paddington The Musical",
+          "venue": "Savoy Theatre",
+          "operator": "atg",
+          "key": "paddington-savoy",
+          "performances": 0,
+          "performancesWithPrice": 0,
+          "cheapestMedian": null,
+          "cheapestMin": null,
+          "topMedian": null,
+          "topMax": null,
+          "performancesWithBands": 0,
+          "lastSeen": null,
+          "exampleSourceUrl": null,
+          "points": []
+        }
+      ],
+      "caveat": "This month's window (22 Dec 2026 to 18 Jan 2027) takes in Christmas and New Year, so it reads higher than a January-February window would. Top price is only published by the Nimax, Delfont Mackintosh and Nederlander calendars (9 shows); ATG shows give a \"from\" price only. Matilda and Paddington had no readings in the window and are out this month. Stranger Things had only 2 evening performances on sale in the window. \"From\" prices exclude booking fees."
+    },
+    "attractions": {
+      "label": "Big attraction, adult ticket: advance vs on the day",
+      "robustness": "solid (fixed prices), but only the London Eye shows an advance/on-the-day gap",
+      "figures": {
+        "advanceMedian": 29,
+        "onTheDayMedian": 32,
+        "n": 5
+      },
+      "advanceStats": {
+        "n": 5,
+        "min": 22,
+        "median": 29,
+        "max": 34
+      },
+      "onTheDayStats": {
+        "n": 5,
+        "min": 22,
+        "median": 32,
+        "max": 39
+      },
+      "points": [
+        {
+          "venue": "London Eye",
+          "advance": 29,
+          "onTheDay": 39,
+          "url": "https://www.londoneye.com/tickets-and-prices/",
+          "note": "Basic ticket as listed first on the page: \"Online from £29\" (cheapest online slot, varies by date and time) against a £39 walk-up price.",
+          "read": "2026-11-24"
+        },
+        {
+          "venue": "St Paul's Cathedral",
+          "advance": 27,
+          "onTheDay": 27,
+          "url": "https://www.stpauls.co.uk/ticket-types-and-prices",
+          "note": "Adult, no donation, Monday to Saturday sightseeing outside 25 Jun-1 Sep 2026; £29.70 with Gift Aid donation. One price, no advance discount published.",
+          "read": "2026-11-24"
+        },
+        {
+          "venue": "Westminster Abbey",
+          "advance": 32,
+          "onTheDay": 32,
+          "url": "https://www.westminster-abbey.org/visit-us/opening-times-and-prices/",
+          "note": "Adult; one price, no advance discount published.",
+          "read": "2026-11-24"
+        },
+        {
+          "venue": "Churchill War Rooms (IWM)",
+          "advance": 34,
+          "onTheDay": 34,
+          "url": "https://www.iwm.org.uk/visits/churchill-war-rooms",
+          "note": "Page states \"Adults £34\"; whether the gate price differs is not published on this page.",
+          "read": "2026-11-24"
+        },
+        {
+          "venue": "Cutty Sark (Royal Museums Greenwich)",
+          "advance": 22,
+          "onTheDay": 22,
+          "url": "https://www.rmg.co.uk/cutty-sark",
+          "note": "Adult £22; one price published.",
+          "read": "2026-11-24"
+        }
+      ],
+      "dropped": [
+        {
+          "venue": "Tower of London (hrp.org.uk)",
+          "reason": "Historic Royal Palaces returns 403 to scripted requests."
+        },
+        {
+          "venue": "Tower Bridge, The View from The Shard",
+          "reason": "Price only shown inside the dated booking flow."
+        },
+        {
+          "venue": "Kew Gardens, ZSL London Zoo",
+          "reason": "Return 403 to scripted requests."
+        }
+      ]
+    },
+    "museumExhibitions": {
+      "label": "Paid exhibition at a major museum, adult",
+      "robustness": "medium: the exhibitions themselves change, so a monthly move partly reflects which shows are on",
+      "figures": {
+        "weekendMedian": 19,
+        "weekdayMedian": 18,
+        "n": 9
+      },
+      "weekendStats": {
+        "n": 9,
+        "min": 15,
+        "median": 19,
+        "max": 27
+      },
+      "weekdayStats": {
+        "n": 9,
+        "min": 15,
+        "median": 18,
+        "max": 25
+      },
+      "points": [
+        {
+          "museum": "V&A East Museum",
+          "exhibition": "The Music is Black: A British Story",
+          "weekday": 22.5,
+          "weekend": 24.5,
+          "url": "https://www.vam.ac.uk/whatson?type=exhibition",
+          "closes": "2027-01-10",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "V&A South Kensington",
+          "exhibition": "Constantinople to Istanbul: One City, Two Empires",
+          "weekday": 25,
+          "weekend": 27,
+          "url": "https://www.vam.ac.uk/whatson?type=exhibition",
+          "closes": "2027-05-09",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "V&A South Kensington",
+          "exhibition": "Rising Voices: Contemporary Art from Asia, Australia and the Pacific",
+          "weekday": 17,
+          "weekend": 17,
+          "url": "https://www.vam.ac.uk/whatson?type=exhibition",
+          "closes": "2027-01-10",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "Tate Modern",
+          "exhibition": "Frida: The Making of an Icon",
+          "weekday": 25,
+          "weekend": 25,
+          "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
+          "closes": "2027-01-03",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "Tate Modern",
+          "exhibition": "Julio Le Parc: Light. Colour. Action.",
+          "weekday": 15,
+          "weekend": 15,
+          "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
+          "closes": "2027-05-03",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "National Gallery",
+          "exhibition": "Van Eyck: The Portraits",
+          "weekday": 18,
+          "weekend": 18,
+          "url": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
+          "closes": "2027-04-11",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "National Gallery",
+          "exhibition": "Renoir and Love",
+          "weekday": 20,
+          "weekend": 25,
+          "url": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love",
+          "closes": "2027-01-31",
+          "note": "£20 Sunday-Thursday, £25 Friday-Saturday, £15 5-6pm Sunday-Thursday; pay what you wish 6-15 Jan 2027.",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "Natural History Museum",
+          "exhibition": "Jurassic Oceans",
+          "weekday": 15,
+          "weekend": 17.5,
+          "url": "https://www.nhm.ac.uk/visit/exhibitions/jurassic-oceans.html",
+          "closes": "2027-02-21",
+          "note": "Off-peak (Mon-Fri term time) £15; standard (weekends, school and bank holidays) £17.50.",
+          "read": "2026-11-24"
+        },
+        {
+          "museum": "Natural History Museum",
+          "exhibition": "Wildlife Photographer of the Year",
+          "weekday": 17,
+          "weekend": 19,
+          "url": "https://www.nhm.ac.uk/visit/exhibitions/wildlife-photographer-of-the-year.html",
+          "closes": "2027-07-11",
+          "note": "Off-peak (Tue-Thu term time) £17; standard (Fri-Mon term time) £19; peak (school-holiday weekends) £21.",
+          "read": "2026-11-24"
+        }
+      ],
+      "excluded": [
+        {
+          "museum": "British Museum",
+          "reason": "Returns 403 to scripted requests."
+        },
+        {
+          "museum": "Science Museum",
+          "reason": "Its current exhibition, Becoming America, is free (ticketed). Power Up is a games attraction, not an exhibition."
+        }
+      ],
+      "caveat": "Adult full price, no donation, no membership. \"weekend\" = the price a Saturday visitor pays in term time; \"weekday\" = the cheapest standard adult price (off-peak where tiered)."
+    },
+    "setLunch": {
+      "label": "Two-course set lunch (LTG deals data)",
+      "robustness": "medium: LTG-own measure, sample moves as deals are added or retired",
+      "figures": {
+        "median": 25,
+        "n": 29,
+        "min": 13.95,
+        "max": 65
+      },
+      "source": "data/food-deals/deals.json (export of the deals table), filtered by data/price-index/set-lunch.mjs; each entry carries the operator page it was checked against.",
+      "points": [
+        {
+          "name": "Wildwood",
+          "area": null,
+          "price": 13.95,
+          "priceText": "2 courses from £13.95, 3 courses from £16.95",
+          "times": "12pm to 5pm",
+          "sourceUrl": "https://wildwoodrestaurants.co.uk/offers/",
+          "checked": "2026-11-12"
+        },
+        {
+          "name": "Manzi's",
+          "area": "Soho",
+          "price": 16,
+          "priceText": "£16 for two courses; £20 for three",
+          "times": "12:00-17:00",
+          "sourceUrl": "https://manzis.co.uk/set-menus/",
+          "checked": "2026-11-21"
+        },
+        {
+          "name": "Noci",
+          "area": null,
+          "price": 17,
+          "priceText": "£17 for 2 courses",
+          "times": "12:00–17:30",
+          "sourceUrl": "https://nocirestaurant.co.uk/menu/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Cafe La Divina",
+          "area": null,
+          "price": 17.95,
+          "priceText": "£17.95 for 2 courses, £19.95 for 3 (+£2.50 at weekends and holidays)",
+          "times": "lunch",
+          "sourceUrl": "https://ladivina.co.uk/italian-lunch-islington.php",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Brunswick House",
+          "area": "Vauxhall",
+          "price": 18,
+          "priceText": "£18 for two courses; £23 for three",
+          "times": null,
+          "sourceUrl": "https://brunswickhouse.london/",
+          "checked": "2026-11-21"
+        },
+        {
+          "name": "The Holland",
+          "area": "Kensington",
+          "price": 18,
+          "priceText": "£18 for two courses; £23 for three",
+          "times": "12:00-17:00",
+          "sourceUrl": "http://thehollandkensington.co.uk/wp-content/uploads/2026/11/Set-Lunch-4-11-26.pdf",
+          "checked": "2026-11-24"
+        },
+        {
+          "name": "Blanchette",
+          "area": "Soho",
+          "price": 19.5,
+          "priceText": "£19.50 for two courses; £23 for three",
+          "times": null,
+          "sourceUrl": "https://www.blanchettesoho.co.uk/menu",
+          "checked": "2026-11-21"
+        },
+        {
+          "name": "Tavern",
+          "area": null,
+          "price": 19.5,
+          "priceText": "£19.50 for 2 courses / £23.50 for 3",
+          "times": "12:00–16:00",
+          "sourceUrl": "https://www.urbanpubsandbars.com/whats-on",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "28-50",
+          "area": "Marylebone",
+          "price": 19.95,
+          "priceText": "£19.95 for two courses; £25.95 for three",
+          "times": null,
+          "sourceUrl": "https://www.2850.co.uk/wp-content/uploads/2026/11/MB-lunch-winter-26-1.pdf",
+          "checked": "2026-11-24"
+        },
+        {
+          "name": "The Dickens Inn",
+          "area": null,
+          "price": 19.95,
+          "priceText": "£19.95 for 2 courses / £23.95 for 3",
+          "times": null,
+          "sourceUrl": "https://www.dickensinn.co.uk/food-drink/poplars",
+          "checked": "2026-11-16"
+        },
+        {
+          "name": "Burger & Lobster",
+          "area": null,
+          "price": 20,
+          "priceText": "£20 for 2 courses / £25 for 3",
+          "times": "12:00–18:00",
+          "sourceUrl": "https://www.burgerandlobster.com/locations/london/leicester-square/menu/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Suzi Tros",
+          "area": null,
+          "price": 20,
+          "priceText": "Two courses £20; three courses £29; dessert £6 supplement",
+          "times": null,
+          "sourceUrl": "https://suzitros.com/lunch-set-menu/",
+          "checked": "2026-11-22"
+        },
+        {
+          "name": "Poon's",
+          "area": "Covent Garden",
+          "price": 22,
+          "priceText": "£22 for two courses; £18 'for those in a hurry' with a drink",
+          "times": "12:00-14:30",
+          "sourceUrl": "https://www.poonslondon.com/restaurant/menu",
+          "checked": "2026-11-21"
+        },
+        {
+          "name": "Mazi",
+          "area": null,
+          "price": 24.95,
+          "priceText": "£24.95 for 2 courses, £29.95 for 3",
+          "times": "lunch",
+          "sourceUrl": "https://www.mazi.co.uk/lunch-set-menu/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Llama Inn",
+          "area": null,
+          "price": 25,
+          "priceText": "2 courses £25, 3 courses £29",
+          "times": "12–4pm",
+          "sourceUrl": "https://www.llamainnlondon.com/whats-on",
+          "checked": "2026-11-24"
+        },
+        {
+          "name": "The Ivy Chelsea Garden",
+          "area": null,
+          "price": 25,
+          "priceText": "from £25 for 2 courses / £34 for 3",
+          "times": "11:30–17:30",
+          "sourceUrl": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "The Ivy Collection",
+          "area": null,
+          "price": 25,
+          "priceText": "Lunch 2 courses from £25, 3 courses from £34; dinner 2 courses from £28.50, 3 courses from £37.50",
+          "times": "Lunch 11:30am to 5:30pm; dinner from 6pm",
+          "sourceUrl": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
+          "checked": "2026-11-12"
+        },
+        {
+          "name": "Zoilo",
+          "area": "Marylebone",
+          "price": 25.9,
+          "priceText": "£25.90 for two courses; £29.90 for three",
+          "times": null,
+          "sourceUrl": "https://www.zoilo.co.uk/menus",
+          "checked": "2026-11-21"
+        },
+        {
+          "name": "Arlington",
+          "area": "St James's",
+          "price": 29,
+          "priceText": "£29 for two courses; £34 for three",
+          "times": "11:30-15:00",
+          "sourceUrl": "https://www.arlington.london/wp-content/uploads/2026/09/Classics-Set-Menu-September-2026-V2-2.pdf",
+          "checked": "2026-11-24"
+        },
+        {
+          "name": "Arros QD",
+          "area": "Fitzrovia",
+          "price": 29,
+          "priceText": "£29 for two courses; £34 for three",
+          "times": "12:00-15:00",
+          "sourceUrl": "https://www.arrosqd.com/lunch",
+          "checked": "2026-11-24"
+        },
+        {
+          "name": "Dalloway Terrace",
+          "area": null,
+          "price": 29,
+          "priceText": "from £29 for 2 courses, £35 for 3",
+          "times": null,
+          "sourceUrl": "https://dallowayterrace.com/whats-on/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Sette",
+          "area": null,
+          "price": 29,
+          "priceText": "£29 for 2 courses / £35 for 3",
+          "times": "12:00–15:00",
+          "sourceUrl": "https://www.settelondon.co.uk/menus/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "The Mantl",
+          "area": null,
+          "price": 29.9,
+          "priceText": "£29.90 for 2 courses, £34.90 for 3",
+          "times": "12:00–16:00",
+          "sourceUrl": "https://themantl.com/the-perfect-lunch-in-knightsbridge/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Il Gattopardo",
+          "area": null,
+          "price": 34,
+          "priceText": "£34 for 2 courses / £38 for 3",
+          "times": null,
+          "sourceUrl": "https://gattopardo.restaurant/wp-content/uploads/2026/06/Il-Gattopardo-Mayfair-Set-Lunch-Menu.pdf",
+          "checked": "2026-11-24"
+        },
+        {
+          "name": "Spring",
+          "area": null,
+          "price": 34,
+          "priceText": "£34 for 2 courses, £39 for 3",
+          "times": null,
+          "sourceUrl": "https://springrestaurant.co.uk/menus/set-lunch-menu/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Bacchanalia",
+          "area": null,
+          "price": 39,
+          "priceText": "£39 for 2 courses / £44 for 3",
+          "times": "12:00–16:30",
+          "sourceUrl": "https://bacchanalia.co.uk/lunch/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "Chez Bruce",
+          "area": null,
+          "price": 40.5,
+          "priceText": "£40.50 for 2 courses, £48.50 for 3",
+          "times": "lunch",
+          "sourceUrl": "https://www.chezbruce.co.uk/special-offers/",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "The Milestone Hotel",
+          "area": null,
+          "price": 45,
+          "priceText": "£45 for 2 courses, £55 for 3",
+          "times": "12:30–14:30",
+          "sourceUrl": "https://milestonehotel.com/dining-and-drinks/whats-on",
+          "checked": "2026-11-11"
+        },
+        {
+          "name": "River Café",
+          "area": null,
+          "price": 65,
+          "priceText": "£65 for 2 courses + dolci, £80 for 3",
+          "times": "12:00–12:30 or 14:00–14:30 seatings",
+          "sourceUrl": "https://www.rivercafe.co.uk/",
+          "checked": "2026-11-11"
+        }
+      ],
+      "caveat": "Entries were checked between 11 and 24 Nov 2026 (the \"checked\" date on each point), not all on the read date. Prix fixe menus that do not say they are a lunch offer are out by rule (Brasserie Zédel, Balthazar, The Delaunay and others)."
+    },
+    "cinema": {
+      "label": "Cinema ticket, adult evening, central London",
+      "robustness": "weak: one venue",
+      "figures": {
+        "n": 1,
+        "princeCharlesEvening": 14.5
+      },
+      "points": [
+        {
+          "venue": "Prince Charles Cinema",
+          "price": 14.5,
+          "lowerFigure": 11.5,
+          "sourceUrl": "https://princecharlescinema.com/ticket-prices/",
+          "read": "2026-11-24",
+          "note": "Page lists \"Single performances £11.50 / £14.50 - Evening / Weekend / Bank Holiday\" plus a 75p online booking fee; the two figures are not labelled on the page; £14.50 taken as the full price. The URL returns HTTP 404 but serves the price list."
+        }
+      ],
+      "dropped": [
+        {
+          "venue": "Odeon Luxe Leicester Square",
+          "reason": "Returns 403 to scripted requests."
+        },
+        {
+          "venue": "Curzon Soho",
+          "reason": "Returns 403 to scripted requests."
+        },
+        {
+          "venue": "Vue West End, Picturehouse Central, Everyman King's Cross",
+          "reason": "Price only shown per showtime inside the booking flow; no price list page."
+        }
+      ]
+    },
+    "pint": {
+      "label": "Pint of lager",
+      "robustness": "not measured",
+      "figures": null,
+      "reason": "No operator in the planned sample publishes draught prices on a page curl can read: Nicholson's and Fuller's return 403; Wetherspoon prices live only in its ordering app; Greene King and Young's pub pages list drinks without prices; Sam Smith's publishes none. Third-party pint trackers exist but are not primary."
+    },
+    "flatWhite": {
+      "label": "Flat white",
+      "robustness": "not measured",
+      "figures": null,
+      "reason": "Pret, Costa, Caffè Nero and Starbucks publish no prices on their UK menus; the independents tried publish none either, or return 403."
+    },
+    "mealDeal": {
+      "label": "Meal deal",
+      "robustness": "not measured",
+      "figures": null,
+      "reason": "Tesco and Sainsbury's return 403; Boots and Co-op serve a bot-check page."
+    },
+    "hotel": {
+      "label": "Hotel night",
+      "robustness": "not measured",
+      "figures": null,
+      "reason": "No free, repeatable primary source. Rates are only quoted per date inside booking engines; the existing samples in data/hotel-rate-samples came from a paid Apify run."
+    }
+  }
+}
