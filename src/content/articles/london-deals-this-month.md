@@ -133,6 +133,7 @@ Every student and under-25 scheme for theatre, cinema, gyms and travel is in our
 - 📍 **[Deals near me](/articles/london-deals-near-me/)**: pick a station or share your location and see the offers nearby, nearest first
 - 📅 **[Things to Do in London in January](/articles/things-to-do-in-london-in-january/)** — the Parade, the darts, the art fair and what closes
 - 🍽️ **[Food Deals in London](/articles/food-deals-london/)** — every restaurant offer by day of the week
+- 🆕 **[New Restaurants in London](/articles/new-restaurants-london/)** — the month's openings, soft-launch discounts and closures
 - 🎟️ **[National Rail 2FOR1](/articles/national-rail-2for1-london-attractions/)** — which train tickets count, and the blackout dates
 - 🎬 **[Cinema Deals in London](/articles/cinema-deals-london/)** — the free screenings, the under-25 prices and the subscriptions
 - 💷 **[London on a Budget](/articles/london-on-a-budget/)**

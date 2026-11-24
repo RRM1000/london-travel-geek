@@ -382,7 +382,6 @@ Everything else the Chinese sources carry by two or more independent publication
 | **Facing Heaven** | Hackney | ££ | 2 | Sichuan in a Hackney railway arch |
 | **Golden Phoenix** | Chinatown | ££ | 2 | Dim sum through the day, quieter than its neighbours |
 | **Chinese Tapas House** | Chinatown | ££ | 2 | Small plates rather than a banquet |
-| **Cafe TPT** | Chinatown | £ | 2 | Late Cantonese canteen, open past midnight |
 | **The Eight** | Chinatown | ££ | 2 | Cantonese, on Gerrard Street |
 | **Orient London** | Chinatown | £££ | 2 | Four floors, dim sum trolleys at weekends |
 | **Dream Xi'an** | Aldgate | ££ | 2 | Shaanxi again, on the eastern edge of the City |

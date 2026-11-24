@@ -26,6 +26,7 @@ export const londonSite: SiteConfig = {
       // subjects, and the budget page.
       children: [
         { label: "Where to eat in London", href: "/articles/eat-in-london-guide/" },
+        { label: "New openings", href: "/articles/new-restaurants-london/" },
         { label: "Best Indian restaurants", href: "/articles/best-indian-restaurants-london/" },
         { label: "Best pizza", href: "/articles/best-pizza-london/" },
         { label: "Best fish and chips", href: "/articles/best-fish-and-chips-london/" },
