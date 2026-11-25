@@ -38,9 +38,9 @@ Spanish food in London splits into two things: **tapas counters** where you stan
 
 | If you are near… | Where to eat |
 | --- | --- |
-| **Mayfair & Soho** | Sabor, The Counter at Sabor, Barrafina, Lobos, Dehesa |
+| **Mayfair & Soho** | Sabor, The Counter at Sabor, Barrafina, Lobos, Dehesa, Bar Kroketa |
 | **Marylebone** | Lurra, ALTA (Soho) |
-| **Farringdon & Clerkenwell** | Ibai, Bar Kroketa |
+| **Farringdon & Clerkenwell** | Ibai |
 | **Exmouth Market** | Morito |
 | **Shoreditch** | Legado, Ember Yard |
 | **Bermondsey** | José, Pizarro |
@@ -172,7 +172,7 @@ Expect **txuleta**, whole fish and charred greens, plus pintxos at the bar if yo
 
 **£££ and it books weeks ahead.** The bar takes walk-ins when the tables are gone.
 
-### Bar Kroketa, Clerkenwell
+### Bar Kroketa, Soho
 
 *££ · croquettes and little else* · Cited by 3 sources
 
