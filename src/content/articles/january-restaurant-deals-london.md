@@ -62,12 +62,6 @@ These are standing menus rather than January promotions, so they run every week 
 
 A restaurant and bar on the canal at Little Venice. **Sign up for the free [Winter Club card](https://www.thewaterway.co.uk/winter-club)** and show it on arrival for **15% off food in the restaurant Tuesday to Friday**, **2-4-1 on à la carte main courses on Sunday evenings** (the cheapest mains are free) and complimentary tasters for the table. The card is valid from 1 October to 31 March but **cannot be used in December**, so January is the first month it works after Christmas.
 
-### Mildreds: a carafe of wine on us
-
-*££ · Soho, Camden, King's Cross and Victoria · Monday to Wednesday from 5pm*
-
-**Carafe & Company** gives **one free carafe of house wine for every two people** ordering the **Taste of Mildreds** sharing menu, **Monday to Wednesday from 5pm**. Tables of two to four only, over-18s, and you must **book a "Wine On Us" slot** on [Mildreds' offer page](https://www.mildreds.com/wine-on-us/); it is not offered at Covent Garden. The menu is fully vegan, which makes it the January offer that suits a Veganuary table but not a dry one.
-
 ### Las Iguanas: bottomless brunch from 1 January
 
 *££ · Latin American chain · from £39.95*
@@ -88,12 +82,6 @@ The festive brunch ends on 30 December, and the **classic bottomless brunch, fro
 
 **A restored historic pub run by Lucky Saint, an alcohol-free beer brand.** Order the brand's own **Superior Unfiltered Lager**, and the bar stocks both alcohol-free and alcoholic drinks, so a mixed group can go. The food is a light menu of pub classics. It opens **11am to 11pm Tuesday to Friday, 11am to 10pm on Monday and 3pm to 11pm on Saturday**, and it is **closed on Sundays** ([The Lucky Saint](https://luckysaint.co/pages/the-lucky-saint-pub-london-w1)).
 
-### Purezza, Camden
-
-*££ · Camden · vegan pizzeria*
-
-Purezza's happy hour, **Monday to Friday until 7pm**, prices **two alcohol-free spritzes at £14** and two cocktails at £18 ([Purezza offers](https://purezza.co.uk/current-offers/)). The pizzas are vegan too, so it covers both January challenges at one table.
-
 ### 2-for-1 mocktails
 
 Three chains put their mocktails into a 2-for-1 cocktail offer:
@@ -110,15 +98,15 @@ Every 2-for-1 offer in London, with its branch and condition, is on our [2-for-1
 
 ### Mildreds, Soho
 
-*££ · 45 Lexington Street · since 1988*
+*££ · 45 Lexington Street · since 1988 · Monday to Wednesday from 5pm*
 
-**Fully vegan and on Lexington Street since 1988**, with a menu that runs from gyoza to burritos to Sri Lankan curry. Soho is the original; there are also sites in Camden, Covent Garden, King's Cross and Victoria ([Mildreds](https://www.mildreds.com/)). **Not every site takes bookings**, and the free-carafe offer above runs Monday to Wednesday evenings.
+**Fully vegan and on Lexington Street since 1988**, with a menu that runs from gyoza to burritos to Sri Lankan curry. Soho is the original; there are also sites in Camden, Covent Garden, King’s Cross and Victoria ([Mildreds](https://www.mildreds.com/)). **Carafe & Company** gives **one free carafe of house wine for every two people** ordering the **Taste of Mildreds** sharing menu, **Monday to Wednesday from 5pm**. Tables of two to four only, over-18s, and you must **book a "Wine On Us" slot** on [Mildreds’ offer page](https://www.mildreds.com/wine-on-us/); it is not offered at Covent Garden.
 
 ### Purezza, Camden
 
-*££ · entirely vegan*
+*££ · entirely vegan · happy hour Monday to Friday until 7pm*
 
-**A vegan pizzeria that makes its own cashew and rice-milk mozzarella** rather than buying a substitute. The dough is a long-fermented Neapolitan base with a hemp-flour option; order the **parmigiana pizza**, layered with aubergine. It takes walk-ins and bookings, and weekends are the busiest ([Purezza](https://purezza.co.uk/)).
+**A vegan pizzeria that makes its own cashew and rice-milk mozzarella** rather than buying a substitute. The dough is a long-fermented Neapolitan base with a hemp-flour option; order the **parmigiana pizza**, layered with aubergine. Its happy hour, **Monday to Friday until 7pm**, prices **two alcohol-free spritzes at £14** and two cocktails at £18 ([Purezza offers](https://purezza.co.uk/current-offers/)), so it covers Dry January and Veganuary at one table. It takes walk-ins and bookings, and weekends are the busiest ([Purezza](https://purezza.co.uk/)).
 
 ### Temple of Seitan
 
