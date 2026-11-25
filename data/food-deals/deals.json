@@ -11132,22 +11132,6 @@
   }
  },
  {
-  "name": "Ave Mario",
-  "slug": "ave-mario",
-  "site": "https://www.bigmammagroup.com/italian-restaurants/ave-mario",
-  "type": "set-menu",
-  "offer": "Lunch set menu",
-  "price": "from £17",
-  "days": "Mon–Fri",
-  "times": "12:00–16:30",
-  "conditions": null,
-  "branches": "Ave Mario",
-  "endDate": null,
-  "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/ave-mario",
-  "checked": "2026-11-11",
-  "quote": "Try our Lunch Set Menu ... Available Monday to Friday, from 12:00 to 16:30, from £17."
- },
- {
   "slug": null,
   "days": "26 to 30 December",
   "times": "Evenings",
