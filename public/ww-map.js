@@ -1256,9 +1256,9 @@ function init(data) {
   // ---- "Show my location": a blue dot with an accuracy circle.
   const meDot = new THREE.Group();
   meDot.visible = false;
-  const meCore = new THREE.Mesh(new THREE.SphereGeometry(3.5, 16, 10), new THREE.MeshBasicMaterial({ color: 0x1a73e8, fog: false, depthTest: false }));
+  const meCore = new THREE.Mesh(new THREE.SphereGeometry(3.5, 16, 10), new THREE.MeshBasicMaterial({ color: 0x1a73e8, fog: false, depthTest: false, transparent: true }));
   meCore.position.y = 3;
-  const meHalo = new THREE.Mesh(new THREE.RingGeometry(3.5, 5.2, 32).rotateX(-Math.PI / 2), new THREE.MeshBasicMaterial({ color: 0xffffff, fog: false, depthTest: false }));
+  const meHalo = new THREE.Mesh(new THREE.RingGeometry(3.5, 5.2, 32).rotateX(-Math.PI / 2), new THREE.MeshBasicMaterial({ color: 0xffffff, fog: false, depthTest: false, transparent: true }));
   meHalo.position.y = 3;
   const meAcc = new THREE.Mesh(new THREE.CircleGeometry(1, 48).rotateX(-Math.PI / 2), new THREE.MeshBasicMaterial({ color: 0x1a73e8, transparent: true, opacity: 0.18, depthWrite: false, depthTest: false, fog: false }));
   meAcc.position.y = 0.3;
@@ -1290,6 +1290,93 @@ function init(data) {
     labels.push({ zone: z, el, w: 0, tier: -1, weight: 0 });
   }
   labels.sort((a, b) => a.tier - b.tier || b.weight - a.weight);
+
+  // ---- Wayfinding: a heading cone on the blue dot, a dashed straight line to a chosen gate or
+  // station, a ring and label on that target, and a north arrow that turns with the camera.
+  const blueTex = canvasTex(128, 128, (c, w, h) => {
+    const g = c.createRadialGradient(w / 2, h / 2, 0, w / 2, h / 2, w / 2);
+    g.addColorStop(0, "rgba(26,115,232,0.95)");
+    g.addColorStop(0.45, "rgba(26,115,232,0.6)");
+    g.addColorStop(1, "rgba(26,115,232,0)");
+    c.fillStyle = g;
+    c.fillRect(0, 0, w, h);
+  });
+  blueTex.wrapS = blueTex.wrapT = THREE.ClampToEdgeWrapping;
+  // A wedge centred on local -z (the cone turns about y to face the heading).
+  const meCone = new THREE.Mesh(new THREE.CircleGeometry(1, 24, Math.PI / 2 - 0.55, 1.1).rotateX(-Math.PI / 2), new THREE.MeshBasicMaterial({ map: blueTex, transparent: true, depthWrite: false, depthTest: false, fog: false }));
+  meCone.position.y = 0.5;
+  meCone.renderOrder = 10.5;
+  meCone.visible = false;
+  meDot.add(meCone);
+  let headingNow = () => null; // world angle (rotation.y) for the cone, or null when no heading is known
+  let headShown = null;
+  const dashMat = new THREE.MeshBasicMaterial({ color: 0x1a73e8, transparent: true, opacity: 0.95, depthWrite: false, depthTest: false, fog: false });
+  const dashes = new THREE.InstancedMesh(new THREE.PlaneGeometry(1, 1).rotateX(-Math.PI / 2), dashMat, 500);
+  dashes.count = 0;
+  dashes.renderOrder = 9;
+  dashes.frustumCulled = false;
+  scene.add(dashes);
+  const routeRing = new THREE.Mesh(ringGeo, new THREE.MeshBasicMaterial({ color: 0x1a73e8, transparent: true, opacity: 0.95, depthWrite: false, depthTest: false, fog: false }));
+  routeRing.renderOrder = 9;
+  routeRing.visible = false;
+  scene.add(routeRing);
+  let route = null; // { key, id (the gate item, if a gate), x, z, r (ring radius), label (a station name) }
+  let onRouteChange = () => {};
+  let near = null; // the nearest gate and station panel, made once location is on
+  const routeLabel = document.createElement("span");
+  routeLabel.className = "wwmap__label is-selected";
+  routeLabel.innerHTML = `<span class="wwmap__label-ic" style="background:${TYPES.station.c}"><svg viewBox="0 0 12 12" width="12" height="12">${ICONS.station}</svg></span><span class="wwmap__label-tx"></span>`;
+  routeLabel.style.display = "none";
+  labelLayer.appendChild(routeLabel);
+  const dummy = new THREE.Object3D();
+  function layRoute(t, dist) {
+    routeRing.visible = !!route;
+    if (!route) { dashes.count = 0; return; }
+    const k = reduceMotion ? 1 : 1 + 0.08 * Math.sin(t * 4);
+    routeRing.position.set(route.x, 0.6, route.z);
+    routeRing.scale.set(route.r * k, 1, route.r * k);
+    dashMat.color.setHex(night ? 0x7db4ff : 0x1a73e8);
+    routeRing.material.color.copy(dashMat.color);
+    if (!meDot.visible) { dashes.count = 0; return; }
+    const ax = meDot.position.x, az = meDot.position.z, dx = route.x - ax, dz = route.z - az, L = Math.hypot(dx, dz);
+    const w = Math.max(1.8, dist * 0.0045), dash = w * 3, step = w * 5.2;
+    const from = 6, to = L - route.r;
+    const n = Math.max(0, Math.min(500, Math.floor((to - from) / step)));
+    const ux = dx / (L || 1), uz = dz / (L || 1);
+    for (let i = 0; i < n; i++) {
+      const s = from + i * step + dash / 2;
+      dummy.position.set(ax + ux * s, 0.45, az + uz * s);
+      dummy.rotation.set(0, Math.atan2(dx, dz), 0);
+      dummy.scale.set(w, 1, dash);
+      dummy.updateMatrix();
+      dashes.setMatrixAt(i, dummy.matrix);
+    }
+    dashes.count = n;
+    dashes.instanceMatrix.needsUpdate = true;
+  }
+  function turnCone(dt, dist) {
+    const target = meDot.visible ? headingNow() : null;
+    if (target == null) { meCone.visible = false; headShown = null; return; }
+    if (headShown == null || reduceMotion) headShown = target;
+    else {
+      const diff = Math.atan2(Math.sin(target - headShown), Math.cos(target - headShown));
+      headShown += diff * (1 - Math.exp(-Math.min(dt, 200) / 140));
+    }
+    meCone.rotation.y = headShown;
+    meCone.material.opacity = night ? 0.55 : 1;
+    meCone.scale.setScalar(Math.max(22, Math.min(90, dist * 0.075)));
+    meCone.visible = true;
+  }
+  // North arrow: turns with the camera; a tap turns the view back to north up.
+  const northBtn = document.createElement("button");
+  northBtn.type = "button";
+  northBtn.className = "wwmap__north";
+  northBtn.title = "Turn the map back to north up";
+  northBtn.setAttribute("aria-label", "Turn the map back to north up");
+  northBtn.innerHTML = '<svg viewBox="0 0 40 40" width="36" height="36" aria-hidden="true"><g class="wwmap__north-rose"><text x="20" y="11" text-anchor="middle" font-size="10" font-weight="800" font-family="sans-serif" fill="currentColor">N</text><path d="M20 13l5 10h-10z" fill="#d6392f"/><path d="M20 34l5-11h-10z" fill="#9aa6b5"/></g></svg>';
+  stage.appendChild(northBtn);
+  const rose = northBtn.querySelector(".wwmap__north-rose");
+  let roseAz = null;
   const measureLabels = () => { for (const l of labels) { l.el.style.display = ""; l.w = l.el.offsetWidth; } };
 
   // ---- Camera and controls
@@ -1313,7 +1400,7 @@ function init(data) {
   }
   const tmpCam = new THREE.PerspectiveCamera();
   const siteCorners = sitePoly.map(([x, z]) => new THREE.Vector3(x, 0, z));
-  function fitDistance(polar = tilted ? TILT : TOP, az = tilted ? AZ : 0, corners = siteCorners, c = centreVec) {
+  function fitDistance(polar = tilted ? TILT : TOP, az = tilted ? AZ : 0, corners = siteCorners, c = centreVec, floor = -0.94, ceil = 0.84) {
     tmpCam.copy(camera);
     const p = new THREE.Vector3();
     let lo = 30, hi = 8000;
@@ -1322,7 +1409,7 @@ function init(data) {
       tmpCam.position.copy(c).add(new THREE.Vector3().setFromSpherical(new THREE.Spherical(mid, polar, az)));
       tmpCam.lookAt(c);
       tmpCam.updateMatrixWorld();
-      const ok = corners.every((v) => { p.copy(v).project(tmpCam); return Math.abs(p.x) < 0.94 && p.y < 0.84 && p.y > -0.94; });
+      const ok = corners.every((v) => { p.copy(v).project(tmpCam); return Math.abs(p.x) < 0.94 && p.y < ceil && p.y > floor; });
       if (ok) hi = mid; else lo = mid;
     }
     return hi;
@@ -1437,6 +1524,10 @@ function init(data) {
       rings.instanceMatrix.needsUpdate = true;
     }
     if (meDot.visible && !reduceMotion) meHalo.scale.setScalar(1 + 0.15 * Math.sin(t * 3));
+    turnCone(dt, dist);
+    layRoute(t, dist);
+    const az = currentAz();
+    if (roseAz == null || Math.abs(az - roseAz) > 0.002) { roseAz = az; rose.setAttribute("transform", `rotate(${((az * 180) / Math.PI).toFixed(1)} 20 20)`); }
     if (night && composer && bloomWanted) composer.render();
     else renderer.render(scene, camera);
     placeLabels(dist);
@@ -1464,10 +1555,28 @@ function init(data) {
     const taken = [{ x0: bb.left - sb.left - 4, x1: bb.right - sb.left + 4, y0: bb.top - sb.top - 4, y1: bb.bottom - sb.top + 4 }];
     // Keep labels off the blue location dot.
     if (meDot.visible) { v.set(meDot.position.x, 3, meDot.position.z).project(camera); const mx = (v.x * 0.5 + 0.5) * W, my = (-v.y * 0.5 + 0.5) * Hh; taken.push({ x0: mx - 16, x1: mx + 16, y0: my - 16, y1: my + 16 }); }
+    for (const el of [northBtn, near]) {
+      if (!el || el.offsetParent === null) continue;
+      const eb = el.getBoundingClientRect();
+      taken.push({ x0: eb.left - sb.left - 4, x1: eb.right - sb.left + 4, y0: eb.top - sb.top - 4, y1: eb.bottom - sb.top + 4 });
+    }
+    // The station picked with "Take me there" gets its own label, placed first.
+    routeLabel.style.display = "none";
+    if (route?.label) {
+      v.set(route.x, 2, route.z).project(camera);
+      const x = (v.x * 0.5 + 0.5) * W, y = (-v.y * 0.5 + 0.5) * Hh;
+      if (v.z <= 1 && x > -50 && x < W + 50 && y > -20 && y < Hh + 20) {
+        routeLabel.style.display = "";
+        const bw = routeLabel.offsetWidth || 120, lx = Math.max(4, Math.min(W - bw - 4, x - bw / 2));
+        routeLabel.style.transform = `translate(${lx}px, ${y - 30}px)`;
+        taken.push({ x0: lx - 2, x1: lx + bw + 2, y0: y - 30, y1: y - 8 });
+      }
+    }
     const r = dist / fitCache[tilted ? 1 : 0];
     const maxTier = r > 0.7 ? 0 : r > 0.42 ? 1 : r > 0.24 ? 2 : r > 0.12 ? 3 : 4;
     const showZones = r > 0.3;
-    const order = selectedId ? [labels.find((l) => l.it?.id === selectedId), ...labels.filter((l) => l.it?.id !== selectedId)] : labels;
+    const first = [selectedId, route?.id].filter(Boolean);
+    const order = first.length ? [...first.map((id) => labels.find((l) => l.it?.id === id)), ...labels.filter((l) => !first.includes(l.it?.id))] : labels;
     for (const l of order) {
       if (!l) continue;
       let px, pz, y3;
@@ -1477,9 +1586,10 @@ function init(data) {
       } else {
         const g = groups.get(l.it.id);
         const selected = l.it.id === selectedId;
+        const routed = l.it.id === route?.id;
         const filtered = activeTypes.size || activeZones.size || search.value.trim();
-        const forced = selected || (filtered && !g.userData.faded && l.tier <= 3);
-        if (g.userData.faded || (!forced && l.tier > maxTier)) { l.el.style.display = "none"; continue; }
+        const forced = selected || routed || (filtered && !g.userData.faded && l.tier <= 3);
+        if ((g.userData.faded && !routed) || (!forced && l.tier > maxTier)) { l.el.style.display = "none"; continue; }
         px = g.userData.pin.x; pz = g.userData.pin.z; y3 = g.userData.top + 2;
       }
       v.set(px, y3, pz).project(camera);
@@ -1488,7 +1598,7 @@ function init(data) {
       const bw = l.w || 80, bh = l.zone ? 20 : 22;
       const lx = Math.max(4, Math.min(W - bw - 4, x - bw / 2));
       const rr = { x0: lx - 2, x1: lx + bw + 2, y0: y - bh, y1: y };
-      const selected = l.it?.id === selectedId;
+      const selected = l.it?.id === selectedId || (!!route?.id && l.it?.id === route.id);
       const hit = taken.some((tk) => rr.x0 < tk.x1 && rr.x1 > tk.x0 && rr.y0 < tk.y1 && rr.y1 > tk.y0);
       if ((hit && !selected) || x < -50 || x > W + 50 || y < -20 || y > Hh + 20) { l.el.style.display = "none"; continue; }
       l.el.style.display = "";
@@ -1698,8 +1808,13 @@ function init(data) {
     moveTo({ target: centreVec.clone(), polar: tilted ? TILT : TOP, distance: fitDistance(), azimuth: tilted ? AZ : 0 });
   });
   nightBtn.addEventListener("click", () => setNight(!night));
+  northBtn.addEventListener("click", () => {
+    const sph = new THREE.Spherical().setFromVector3(camera.position.clone().sub(controls.target));
+    moveTo({ polar: sph.phi, azimuth: 0 }, 500);
+  });
   resetBtn.addEventListener("click", () => {
     select(null);
+    if (route) { route = null; onRouteChange(); }
     moveTo({ target: centreVec.clone(), distance: fitDistance(), polar: tilted ? TILT : TOP, azimuth: tilted ? AZ : 0 });
   });
 
@@ -1713,41 +1828,177 @@ function init(data) {
     // World units per metre, from the transform itself.
     const w0 = toMap([0, 0]), wE = toMap([100, 0]), wN = toMap([0, 100]);
     const unitsPerM = (Math.hypot((wE[0] - w0[0]) * A * S, (wE[1] - w0[1]) * S) + Math.hypot((wN[0] - w0[0]) * A * S, (wN[1] - w0[1]) * S)) / 200;
-    const haversine = (a, b, c, d) => { const R = 6371000, r = Math.PI / 180, x = Math.sin(((c - a) * r) / 2), y = Math.sin(((d - b) * r) / 2); return 2 * R * Math.asin(Math.sqrt(x * x + Math.cos(a * r) * Math.cos(c * r) * y * y)); };
     let watch = null, fix = null, centred = false;
     const say = (text) => { geoLine.textContent = text; geoLine.hidden = !text; };
     const centreOnMe = () => { if (!fix) return; moveTo({ target: meDot.position.clone(), distance: Math.max(120, Math.min(camera.position.distanceTo(controls.target), fitCache[tilted ? 1 : 0] * 0.35)), azimuth: tilted ? currentAz() : 0 }); };
+
+    // Heading: the phone's compass first; while walking without one, the GPS course.
+    // A compass heading (degrees clockwise from north) becomes a world angle through the same fit.
+    const coneAngle = (deg) => {
+      const r = (deg * Math.PI) / 180, e = Math.sin(r), n = Math.cos(r);
+      const [[p0, q0], [p1, q1]] = geo.toMap;
+      const dx = (p0 * e + q0 * n) * A * S, dz = (p1 * e + q1 * n) * S;
+      return Math.atan2(-dx, -dz);
+    };
+    let compass = null, gpsCourse = null, compassOn = false;
+    headingNow = () => {
+      const now = performance.now();
+      if (compass && now - compass.at < 3000) return coneAngle(compass.h);
+      if (gpsCourse && now - gpsCourse.at < 10000) return coneAngle(gpsCourse.h);
+      return null;
+    };
+    const screenAngle = () => (screen.orientation && typeof screen.orientation.angle === "number" ? screen.orientation.angle : Number(window.orientation) || 0);
+    const onOrient = (e) => {
+      let h = null;
+      if (typeof e.webkitCompassHeading === "number" && !(e.webkitCompassAccuracy < 0)) h = e.webkitCompassHeading + screenAngle();
+      else if ((e.absolute || e.type === "deviceorientationabsolute") && e.alpha != null) {
+        // The heading of the screen's top edge when the phone lies flat, blended into the heading of
+        // the back camera as it is raised, so neither goes undefined at its extreme.
+        const r = Math.PI / 180, a = e.alpha * r, b = (e.beta || 0) * r, g = (e.gamma || 0) * r;
+        const tx = -Math.sin(a) * Math.cos(b), ty = Math.cos(a) * Math.cos(b);
+        const bx = -Math.cos(a) * Math.sin(g) - Math.sin(a) * Math.sin(b) * Math.cos(g), by = -Math.sin(a) * Math.sin(g) + Math.cos(a) * Math.sin(b) * Math.cos(g);
+        h = (Math.atan2(tx + bx, ty + by) * 180) / Math.PI + screenAngle();
+      }
+      if (h == null || !Number.isFinite(h)) return;
+      compass = { h: ((h % 360) + 360) % 360, at: performance.now() };
+      requestRender();
+    };
+    // Called straight from the tap: iPhone only asks for the compass inside a user gesture.
+    const startCompass = () => {
+      if (compassOn || !window.DeviceOrientationEvent) return;
+      compassOn = true;
+      const listen = () => window.addEventListener("ondeviceorientationabsolute" in window ? "deviceorientationabsolute" : "deviceorientation", onOrient);
+      if (typeof DeviceOrientationEvent.requestPermission === "function") DeviceOrientationEvent.requestPermission().then((s) => { if (s === "granted") listen(); }).catch(() => {});
+      else listen();
+    };
+
+    // Nearest gate and station: straight-line distance and a compass direction from where you are.
+    const POINTS = ["north", "north-east", "east", "south-east", "south", "south-west", "west", "north-west"];
+    const fromHere = (lat, lng, p) => {
+      const e = (p.lng - lng) * kLng, n = (p.lat - lat) * kLat, d = Math.hypot(e, n);
+      const deg = ((Math.atan2(e, n) * 180) / Math.PI + 360) % 360;
+      return { d, dir: POINTS[Math.round(deg / 45) % 8] };
+    };
+    const howFar = ({ d, dir }) => (d < 20 ? "under 20 m away" : `${d >= 1000 ? `${(d / 1000).toFixed(1)} km` : `${Math.round(d / 10) * 10} m`} ${dir}`);
+    const worldOf = (lat, lng) => { const [mx, my] = toMap(toMetres(lat, lng)); return [wx(mx), wz(my)]; };
+    const gates = geo.controlPoints.filter((g) => groups.has(g.id)).map((g) => {
+      const it = byId.get(g.id), rule = /\b(exit only|entry only|entrance only)\b/i.exec(it.note || "");
+      return { ...g, key: g.id, rule: rule ? rule[1].toLowerCase() : "", x: groups.get(g.id).position.x, z: groups.get(g.id).position.z };
+    });
+    const stationItems = data.items.filter((i) => i.type === "station");
+    const stations = (geo.stations || []).map((s) => {
+      const [x, z] = worldOf(s.lat, s.lng);
+      // The operator's notes flag stations that close when busy.
+      const busy = stationItems.some((i) => new RegExp(`${s.name} is [^.]*can close`).test(i.note || ""));
+      return { ...s, key: `station:${s.name}`, x, z, busy };
+    });
+    near = document.createElement("div");
+    near.className = "wwmap__near";
+    near.hidden = true;
+    near.setAttribute("aria-live", "polite");
+    const row = (kind) => {
+      const p = document.createElement("p");
+      p.innerHTML = `<span class="wwmap__near-tx"><span class="wwmap__near-k"><span class="wwmap__near-long">Nearest ${kind}:</span><span class="wwmap__near-short">${kind[0].toUpperCase()}${kind.slice(1)}:</span></span> <strong></strong>, <span class="wwmap__near-d"></span><span></span></span><button type="button" class="wwmap__go" aria-pressed="false" title="Draws a straight line from you to it, not a walking route">Take me there</button>`;
+      near.appendChild(p);
+      const d = p.querySelector(".wwmap__near-d");
+      return { p, name: p.querySelector("strong"), dist: d, rest: d.nextElementSibling, btn: p.querySelector("button"), target: null };
+    };
+    const gateRow = row("gate"), stationRow = row("station");
+    geoLine.after(near);
+    stage.appendChild(northBtn); // keep the north arrow after the panel, for the popup rule in the CSS
+    const syncRows = () => {
+      for (const r of [gateRow, stationRow]) {
+        const on = !!route && route.key === r.target?.key;
+        r.btn.setAttribute("aria-pressed", String(on));
+        r.btn.textContent = on ? "Hide line" : "Take me there";
+      }
+    };
+    onRouteChange = () => { syncRows(); requestRender(); };
+    const go = (r) => {
+      const t = r.target;
+      if (!t) return;
+      if (route && route.key === t.key) { route = null; onRouteChange(); return; }
+      route = { key: t.key, id: t.label ? null : t.key, x: t.x, z: t.z, r: t.label ? 12 : 16, label: t.label };
+      if (t.label) routeLabel.lastChild.textContent = t.label;
+      const pts = [new THREE.Vector3(t.x, 0, t.z)];
+      if (meDot.visible) pts.push(meDot.position.clone());
+      // Frame you and the target above the panel: try nudging the view centre towards the camera.
+      const pad = meDot.visible ? 25 : 80;
+      const base = fitPoints(pts, pad);
+      const corners = pts.flatMap((p) => [-1, 1].flatMap((sx) => [-1, 1].map((sz) => p.clone().add(new THREE.Vector3(sx * pad, 0, sz * pad)))));
+      // Keep clear of the panel below and the buttons above.
+      const H = holder.clientHeight, sb = stage.getBoundingClientRect(), bb = stage.querySelector(".wwmap__buttons").getBoundingClientRect();
+      const floor = Math.min(0, -1 + (2 * (near.offsetHeight + 40)) / H);
+      const ceil = Math.max(0.2, 1 - (2 * (bb.bottom - sb.top + 40)) / H);
+      const polar = tilted ? TILT : TOP, down = new THREE.Vector3(Math.sin(base.az), 0, Math.cos(base.az));
+      const spread = Math.max(...pts.map((p) => p.distanceTo(base.c))) + pad;
+      let best = { c: base.c, d: fitDistance(polar, base.az, corners, base.c, floor, ceil) };
+      for (let s = -0.6; s <= 1.2; s += 0.1) {
+        const c = base.c.clone().addScaledVector(down, s * spread), d = fitDistance(polar, base.az, corners, c, floor, ceil);
+        if (d < best.d) best = { c, d };
+      }
+      moveTo({ target: best.c, distance: Math.max(best.d, 140), azimuth: base.az });
+      onRouteChange();
+    };
+    gateRow.btn.addEventListener("click", () => go(gateRow));
+    stationRow.btn.addEventListener("click", () => go(stationRow));
+    const showNearest = (lat, lng) => {
+      const pick = (list) => list.map((p) => ({ p, h: fromHere(lat, lng, p) })).sort((a, b) => a.h.d - b.h.d)[0];
+      const g = pick(gates), s = pick(stations);
+      gateRow.p.hidden = !g;
+      if (g) {
+        gateRow.target = g.p;
+        gateRow.name.textContent = g.p.name;
+        gateRow.dist.textContent = howFar(g.h);
+        gateRow.rest.textContent = g.p.rule ? ` (${g.p.rule})` : "";
+      }
+      stationRow.p.hidden = !s;
+      if (s) {
+        stationRow.target = { ...s.p, label: `${s.p.name} station` };
+        stationRow.name.textContent = s.p.name;
+        stationRow.dist.textContent = howFar(s.h);
+        stationRow.rest.textContent = s.p.busy ? ". Busy, and can close" : "";
+      }
+      near.hidden = !g && !s;
+      syncRows();
+    };
+
     const onFix = (pos) => {
-      const { latitude: lat, longitude: lng, accuracy } = pos.coords;
-      const [mx, my] = toMap(toMetres(lat, lng));
-      const x = wx(mx), z = wz(my);
+      const { latitude: lat, longitude: lng, accuracy, heading: course, speed } = pos.coords;
+      const [x, z] = worldOf(lat, lng);
       const inside = inPoly(sitePoly, x, z) || polyDist(sitePoly, x, z) < 25 * unitsPerM;
-      fix = { lat, lng, x, z, inside };
-      if (inside) {
+      // Close to the site, the dot still shows, so the line to a gate starts from you.
+      const nearby = inside || polyDist(sitePoly, x, z) < 1500 * unitsPerM;
+      fix = { lat, lng, x, z, inside, nearby };
+      // The GPS course counts only while walking; standing still clears it.
+      if (course != null && Number.isFinite(course) && (speed ?? 0) >= 0.7) gpsCourse = { h: course, at: performance.now() };
+      else if (typeof speed === "number" && speed < 0.5) gpsCourse = null;
+      say("");
+      if (nearby) {
         meDot.position.set(x, 0, z);
         meAcc.scale.setScalar(Math.max(4, Math.min(300, accuracy * unitsPerM)));
         meDot.visible = true;
-        say("");
         locateBtn.textContent = "Centre on me";
-        if (!centred) { centred = true; centreOnMe(); }
+        if (!centred && inside) { centred = true; centreOnMe(); }
       } else {
         meDot.visible = false;
-        const near = geo.controlPoints.map((g) => ({ g, d: haversine(lat, lng, g.lat, g.lng) })).sort((a, b) => a.d - b.d)[0];
-        const m = near.d >= 1000 ? `${(near.d / 1000).toFixed(1)} km` : `${Math.max(10, Math.round(near.d / 10) * 10)} m`;
-        say(`You are about ${m} from the nearest gate (${near.g.name}).`);
         locateBtn.textContent = "Show my location";
       }
+      showNearest(lat, lng);
       requestRender();
     };
     const onError = (err) => {
       meDot.visible = false;
+      near.hidden = true;
+      if (route) { route = null; onRouteChange(); }
       say(err && err.code === 1 ? "Location is turned off for this page, so the map can't show where you are." : "Your location isn't available right now.");
       if (err && err.code === 1 && watch != null) { navigator.geolocation.clearWatch(watch); watch = null; }
       locateBtn.textContent = "Show my location";
       requestRender();
     };
     locateBtn.addEventListener("click", () => {
-      if (watch != null && fix?.inside) { centreOnMe(); return; }
+      startCompass();
+      if (watch != null && fix?.nearby) { centreOnMe(); return; }
       if (watch == null) {
         say("Finding you…");
         watch = navigator.geolocation.watchPosition(onFix, onError, { enableHighAccuracy: true, maximumAge: 5000, timeout: 20000 });

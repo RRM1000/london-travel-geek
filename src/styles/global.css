@@ -755,6 +755,21 @@ html.wwmap-full-open, html.wwmap-full-open body { overflow: hidden; }
 .wwmap.wwmap .wwmap__kind { color: var(--muted); font-size: 0.82rem; }
 .wwmap.wwmap .wwmap__geo { position: absolute; left: 0.5rem; bottom: 0.5rem; right: 0.5rem; max-width: 24rem; margin: 0; padding: 0.45rem 0.75rem; border-radius: 0.6rem; background: rgb(255 255 255 / 0.94); color: #0e1b2c; font-size: 0.85rem; box-shadow: 0 1px 4px rgb(14 27 44 / 0.25); }
 .wwmap.wwmap .wwmap__geo[hidden], .wwmap__popup:not([hidden]) ~ .wwmap__geo { display: none; }
+.wwmap.wwmap .wwmap__geo, .wwmap.wwmap .wwmap__near { right: 3.4rem; }
+.wwmap.wwmap .wwmap__near { position: absolute; left: 0.5rem; bottom: 0.5rem; max-width: 27rem; display: grid; gap: 0.3rem; padding: 0.4rem 0.45rem 0.4rem 0.7rem; border-radius: 0.6rem; background: rgb(255 255 255 / 0.95); color: #0e1b2c; font-size: 0.82rem; line-height: 1.3; box-shadow: 0 1px 4px rgb(14 27 44 / 0.25); }
+.wwmap.wwmap .wwmap__near[hidden], .wwmap__popup:not([hidden]) ~ .wwmap__near, .wwmap.wwmap .wwmap__near p[hidden] { display: none; }
+.wwmap.wwmap .wwmap__near p { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; margin: 0; }
+.wwmap__near-k { color: #4a5a6d; }
+.wwmap__near-short { display: none; }
+.wwmap__near-d { white-space: nowrap; }
+.wwmap__go { flex: none; font: inherit; font-size: 0.78rem; font-weight: 600; padding: 0.25rem 0.6rem; border-radius: 999px; border: 1px solid #1a73e8; background: #fff; color: #1a73e8; cursor: pointer; }
+.wwmap__go[aria-pressed="true"] { background: #1a73e8; color: #fff; }
+.wwmap__north { position: absolute; right: 0.5rem; bottom: 0.5rem; display: grid; place-items: center; width: 2.5rem; height: 2.5rem; padding: 0; border-radius: 50%; border: 1px solid var(--line-strong); background: rgb(255 255 255 / 0.94); color: #0e1b2c; cursor: pointer; box-shadow: 0 1px 3px rgb(14 27 44 / 0.25); }
+@media (max-width: 40rem) {
+  .wwmap__popup:not([hidden]) ~ .wwmap__north { display: none; }
+  .wwmap__near-long { display: none; }
+  .wwmap__near-short { display: inline; }
+}
 .wwmap__list { min-width: 0; border-top: 1px solid var(--line); }
 .wwmap__group { border-bottom: 1px solid var(--line); }
 .wwmap__group[hidden] { display: none; }
