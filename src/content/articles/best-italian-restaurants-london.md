@@ -302,8 +302,8 @@ Rooms worth booking for the room.
 
 Five London rooms from the same French-Italian group, all built to be looked at: maximalist, loud, all-Italian menus and big portions. What you are booking is the room.
 
-![A tall slice of lemon meringue pie with a torched top, on a blue and white patterned plate](../../assets/articles/best-italian-restaurants-london/circolo-popolare-lemon-meringue-pie.jpg)
-*Circolo Popolare's lemon meringue pie.*
+![The dining room at Circolo Popolare, its walls stacked with bottles under a ceiling of hanging greenery, wisteria and fairy lights](../../assets/articles/best-italian-restaurants-london/circolo-popolare-room.jpg)
+*Circolo Popolare, on Rathbone Place.*
 
 - **Circolo Popolare**, Fitzrovia — a wall of thousands of backlit bottles, and a lemon meringue pie. *Cited by 3 sources* · [Book](https://www.sevenrooms.com/explore/circolopopolare/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)
 - **Ave Mario**, Covent Garden — stripy humbug walls and bright red seats across a basement, with a carousel bar. *Cited by 3 sources* · [Book](https://www.sevenrooms.com/explore/avemariolondon/reservations/create/search?venues=avemariolondon%2Ccircolopopolare%2Ccarlottauk%2Cgloria%2Cjacuzzi%2Cbarbarellacanarywharf&tracking=bmg)
