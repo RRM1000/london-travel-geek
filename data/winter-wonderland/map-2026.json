@@ -1,392 +1,3052 @@
 {
-  "event": "Hyde Park Winter Wonderland 2026",
-  "scope": "Prototype: Thrillville only",
-  "source": "https://hydeparkwinterwonderland.com/map/",
-  "checked": "2026-11-24",
-  "aspect": 0.70475,
-  "zones": [
-    {
-      "id": "thrillville",
-      "name": "Thrillville",
-      "outline": [
-        [
-          0.4216,
-          0.3238
-        ],
-        [
-          0.6138,
-          0.3098
-        ],
-        [
-          0.7084,
-          0.442
-        ],
-        [
-          0.7268,
-          0.5388
-        ],
-        [
-          0.7451,
-          0.6355
-        ],
-        [
-          0.7524,
-          0.7
-        ],
-        [
-          0.7237,
-          0.6742
-        ],
-        [
-          0.6138,
-          0.6484
-        ],
-        [
-          0.4551,
-          0.6548
-        ],
-        [
-          0.4521,
-          0.6269
-        ],
-        [
-          0.4155,
-          0.5388
-        ],
-        [
-          0.3941,
-          0.485
-        ],
-        [
-          0.3697,
-          0.442
-        ],
-        [
-          0.3422,
-          0.4248
-        ],
-        [
-          0.3392,
-          0.4033
-        ],
-        [
-          0.3727,
-          0.3947
-        ],
-        [
-          0.4216,
-          0.3238
-        ]
-      ]
-    }
+ "event": "Hyde Park Winter Wonderland 2026",
+ "source": "https://hydeparkwinterwonderland.com/map/",
+ "checked": "2026-11-24",
+ "aspect": 0.70475,
+ "site": [
+  [
+   0.132,
+   0.121
   ],
-  "items": [
-    {
-      "id": "giant-wheel",
-      "name": "The Giant Wheel",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.469,
-      "y": 0.3609,
-      "w": 0.02,
-      "h": 0.012,
-      "height3d": 70,
-      "note": "70m observation wheel. 10-minute flights, sessions 10:00 to 21:30.",
-      "price": "Adult £8.80 off-peak, £9.90 standard, £12.10 peak (advance). Child £6.60 to £9.90. Family £26.40 to £39.60. Private pod for up to six £46.20 to £61.60.",
-      "fastTrack": "+£5.50 adult, +£3.30 child",
-      "height": "No height restriction",
-      "url": "https://hydeparkwinterwonderland.com/attraction/the-giant-wheel/"
-    },
-    {
-      "id": "munich-looping",
-      "name": "Munich Looping",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.5151,
-      "y": 0.432,
-      "url": "https://hydeparkwinterwonderland.com/ride/munich-looping/",
-      "w": 0.2289,
-      "h": 0.0698,
-      "height3d": 35,
-      "note": "Five-loop rollercoaster.",
-      "price": "£12.00 advance, £12.50 on the day",
-      "fastTrack": "£15.00",
-      "height": "1.3m to 1.95m; under 1.4m with an adult. Age 8+."
-    },
-    {
-      "id": "aeronaut-starflyer",
-      "name": "Aeronaut Starflyer",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.3693,
-      "y": 0.4328,
-      "url": "https://hydeparkwinterwonderland.com/ride/aeronaut-starflyer/",
-      "w": 0.02,
-      "h": 0.012,
-      "height3d": 80,
-      "note": "80m swing ride.",
-      "price": "£8.80 advance, £9.00 on the day",
-      "fastTrack": "£12.10",
-      "height": "1.2m+; under 1.3m with an adult"
-    },
-    {
-      "id": "the-hangover",
-      "name": "The Hangover",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.5159,
-      "y": 0.6125,
-      "url": "https://hydeparkwinterwonderland.com/ride/the-hangover/",
-      "w": 0.018,
-      "h": 0.012,
-      "height3d": 85,
-      "note": "85m drop tower.",
-      "price": "£9.50",
-      "fastTrack": "£13.00",
-      "height": "1.4m+"
-    },
-    {
-      "id": "the-xxl",
-      "name": "The XXL",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.5604,
-      "y": 0.5285,
-      "url": "https://hydeparkwinterwonderland.com/ride/the-xxl/",
-      "w": 0.0458,
-      "h": 0.0301,
-      "height3d": 47,
-      "note": "Pendulum ride, swings to 47m.",
-      "price": "£8.50",
-      "fastTrack": "£12.00",
-      "height": "1.4m+"
-    },
-    {
-      "id": "blizzard",
-      "name": "Blizzard",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.5906,
-      "y": 0.5616,
-      "url": "https://hydeparkwinterwonderland.com/ride/blizzard/",
-      "w": 0.022,
-      "h": 0.014,
-      "height3d": 20,
-      "note": "Spins 360 degrees.",
-      "price": "£9.90 advance, £10.00 on the day",
-      "fastTrack": "£13.20",
-      "height": "1.4m+"
-    },
-    {
-      "id": "airborne",
-      "name": "Airborne",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.4362,
-      "y": 0.554,
-      "url": "https://hydeparkwinterwonderland.com/ride/airborne/",
-      "w": 0.0351,
-      "h": 0.0301,
-      "height3d": 65,
-      "note": "Flips and rolls 65m up.",
-      "price": "£8.80 advance, £9.00 on the day",
-      "fastTrack": "£12.10",
-      "height": "1.4m+"
-    },
-    {
-      "id": "euro-coaster",
-      "name": "Euro Coaster",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.625,
-      "y": 0.6001,
-      "url": "https://hydeparkwinterwonderland.com/ride/euro-coaster/",
-      "w": 0.0732,
-      "h": 0.0645,
-      "height3d": 14,
-      "note": "Suspended coaster on a 370m track.",
-      "price": "Adult £7.50; child £5.50 advance, £6.00 on the day",
-      "fastTrack": "",
-      "height": "1.2m+"
-    },
-    {
-      "id": "haunted-mansion",
-      "name": "Haunted Mansion",
-      "type": "ride",
-      "zone": "Thrillville",
-      "x": 0.6602,
-      "y": 0.4475,
-      "url": "https://hydeparkwinterwonderland.com/ride/haunted-mansion/",
-      "w": 0.0412,
-      "h": 0.0398,
-      "height3d": 10,
-      "note": "Walk-through scare attraction.",
-      "price": "Adult £7.50; child £5.50 advance, £6.00 on the day",
-      "fastTrack": "",
-      "height": "1m+"
-    },
-    {
-      "id": "apres-ski-party-resort",
-      "name": "Après-Ski Party Resort",
-      "type": "bar",
-      "zone": "Thrillville",
-      "x": 0.5833,
-      "y": 0.3285,
-      "w": 0.0519,
-      "h": 0.0248,
-      "height3d": 9,
-      "note": "Alpine-style bar with live DJs, mulled wine, beer and bratwurst. Free to walk in.",
-      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/apres-ski-party-resort/"
-    },
-    {
-      "id": "thors-tipi-bar",
-      "name": "Thor's Tipi Bar",
-      "type": "bar",
-      "zone": "Thrillville",
-      "x": 0.6984,
-      "y": 0.4947,
-      "w": 0.029,
-      "h": 0.0387,
-      "height3d": 9,
-      "note": "Free to walk in.",
-      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/thors-tipi-bar/"
-    },
-    {
-      "id": "carousel-bar",
-      "name": "Carousel Bar",
-      "type": "bar",
-      "zone": "Show Town",
-      "x": 0.5549,
-      "y": 0.6334,
-      "w": 0.0534,
-      "h": 0.0387,
-      "height3d": 8,
-      "note": "A working carousel that doubles as a bar. Free to walk in.",
-      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/carousel-bar/"
-    },
-    {
-      "id": "street-food-village",
-      "name": "Street Food Village",
-      "type": "food",
-      "zone": "Thrillville",
-      "x": 0.5131,
-      "y": 0.384,
-      "w": 0.1007,
-      "h": 0.0495,
-      "height3d": 4,
-      "note": "Street food stalls. Traders on the official map here: After School Cookie Club, Bad Boy Pizza Society, Bang Bang Burger, Chocofruit, Chulo Momo, Crumbled London, Curry on Naan Stop, Duck Shed, Hide & Greek, Japanese Chicken Shop, Meathead Mexican, Stakehaus, The Mac Factory, YouBao.",
-      "url": "https://hydeparkwinterwonderland.com/feasting-drinking/street-food-village/"
-    },
-    {
-      "id": "we-are-melt",
-      "name": "We Are Melt",
-      "type": "food",
-      "zone": "Thrillville",
-      "x": 0.4035,
-      "y": 0.4369,
-      "w": 0.012,
-      "h": 0.008,
-      "height3d": 4,
-      "note": "Street food stall."
-    },
-    {
-      "id": "other-side-fried",
-      "name": "Other Side Fried",
-      "type": "food",
-      "zone": "Thrillville",
-      "x": 0.6506,
-      "y": 0.5712,
-      "w": 0.012,
-      "h": 0.008,
-      "height3d": 4,
-      "note": "Street food stall.",
-      "url": "https://hydeparkwinterwonderland.com/vendor/other-side-fried/"
-    },
-    {
-      "id": "music-apres-ski",
-      "name": "Live music: Après-Ski Party Resort",
-      "type": "show",
-      "zone": "Thrillville",
-      "x": 0.6,
-      "y": 0.3283,
-      "w": 0.01,
-      "h": 0.008,
-      "height3d": 3,
-      "note": "Live DJs. Free with entry.",
-      "url": "https://hydeparkwinterwonderland.com/live-music-line-up/"
-    },
-    {
-      "id": "music-carousel",
-      "name": "Live music by the Carousel Bar",
-      "type": "show",
-      "zone": "Show Town",
-      "x": 0.5553,
-      "y": 0.6375,
-      "w": 0.01,
-      "h": 0.008,
-      "height3d": 3,
-      "note": "Free with entry.",
-      "url": "https://hydeparkwinterwonderland.com/live-music-line-up/"
-    },
-    {
-      "id": "toilets-east",
-      "name": "Toilets (east side)",
-      "type": "toilets",
-      "zone": "Thrillville",
-      "x": 0.708,
-      "y": 0.5511,
-      "w": 0.02,
-      "h": 0.03,
-      "height3d": 3,
-      "facilities": [
-        "Toilets",
-        "Accessible toilet",
-        "Gender-neutral toilets",
-        "Baby changing"
-      ]
-    },
-    {
-      "id": "toilets-south",
-      "name": "Toilets (south side)",
-      "type": "toilets",
-      "zone": "Thrillville",
-      "x": 0.6321,
-      "y": 0.6601,
-      "w": 0.04,
-      "h": 0.02,
-      "height3d": 3,
-      "facilities": [
-        "Toilets",
-        "Changing Places toilet",
-        "Gender-neutral toilets",
-        "Baby changing"
-      ]
-    },
-    {
-      "id": "red-gate",
-      "name": "Red Gate",
-      "type": "entrance",
-      "zone": "Park edge, east",
-      "x": 0.617,
-      "y": 0.287,
-      "w": 0.06,
-      "h": 0.006,
-      "height3d": 8,
-      "note": "Closest stations: Bond Street and Marble Arch. Opens onto Santa Land and Thrillville.",
-      "url": "https://hydeparkwinterwonderland.com/getting-here/"
-    },
-    {
-      "id": "station-marble-arch",
-      "name": "Bond Street and Marble Arch stations",
-      "type": "station",
-      "zone": "Outside the park",
-      "x": 0.56,
-      "y": 0.12,
-      "w": 0.02,
-      "h": 0.01,
-      "height3d": 2,
-      "note": "Nearest stations to the Red Gate. Marble Arch is closer but busier and can close when crowds build. Bond Street has lifts.",
-      "url": "https://hydeparkwinterwonderland.com/getting-here/"
-    }
+  [
+   0.229,
+   0.123
+  ],
+  [
+   0.336,
+   0.126
+  ],
+  [
+   0.354,
+   0.085
+  ],
+  [
+   0.4,
+   0.08
+  ],
+  [
+   0.486,
+   0.116
+  ],
+  [
+   0.514,
+   0.151
+  ],
+  [
+   0.571,
+   0.237
+  ],
+  [
+   0.607,
+   0.302
+  ],
+  [
+   0.714,
+   0.428
+  ],
+  [
+   0.721,
+   0.503
+  ],
+  [
+   0.75,
+   0.629
+  ],
+  [
+   0.786,
+   0.72
+  ],
+  [
+   0.843,
+   0.815
+  ],
+  [
+   0.857,
+   0.866
+  ],
+  [
+   0.879,
+   0.936
+  ],
+  [
+   0.821,
+   0.946
+  ],
+  [
+   0.664,
+   0.906
+  ],
+  [
+   0.543,
+   0.866
+  ],
+  [
+   0.429,
+   0.795
+  ],
+  [
+   0.35,
+   0.77
+  ],
+  [
+   0.257,
+   0.745
+  ],
+  [
+   0.236,
+   0.695
+  ],
+  [
+   0.193,
+   0.604
+  ],
+  [
+   0.143,
+   0.503
+  ],
+  [
+   0.107,
+   0.403
+  ],
+  [
+   0.079,
+   0.332
+  ],
+  [
+   0.071,
+   0.252
+  ],
+  [
+   0.093,
+   0.191
   ]
+ ],
+ "zones": [
+  {
+   "id": "luminarie-lane",
+   "name": "Luminarie Lane",
+   "colour": "#f28092",
+   "label": [
+    0.2508,
+    0.2038
+   ],
+   "url": "https://hydeparkwinterwonderland.com/zone/luminaire-lane/",
+   "blurb": "The lane of light arches from the Gold Gate, with a market of hand-made gifts.",
+   "outline": [
+    [
+     0.258,
+     0.137
+    ],
+    [
+     0.31,
+     0.137
+    ],
+    [
+     0.305,
+     0.169
+    ],
+    [
+     0.29,
+     0.185
+    ],
+    [
+     0.284,
+     0.247
+    ],
+    [
+     0.278,
+     0.258
+    ],
+    [
+     0.248,
+     0.259
+    ],
+    [
+     0.232,
+     0.241
+    ],
+    [
+     0.232,
+     0.218
+    ],
+    [
+     0.242,
+     0.185
+    ],
+    [
+     0.256,
+     0.169
+    ]
+   ]
+  },
+  {
+   "id": "santa-land",
+   "name": "Santa Land",
+   "colour": "#da3e47",
+   "label": [
+    0.3964,
+    0.2399
+   ],
+   "url": "https://hydeparkwinterwonderland.com/zone/santa-land/",
+   "blurb": "The family zone: Santa's Grotto, the Elves' Workshop, gentle rides and the Jingle Bell Bistro.",
+   "outline": [
+    [
+     0.316,
+     0.149
+    ],
+    [
+     0.34,
+     0.145
+    ],
+    [
+     0.476,
+     0.156
+    ],
+    [
+     0.484,
+     0.19
+    ],
+    [
+     0.504,
+     0.204
+    ],
+    [
+     0.552,
+     0.221
+    ],
+    [
+     0.576,
+     0.258
+    ],
+    [
+     0.604,
+     0.297
+    ],
+    [
+     0.596,
+     0.303
+    ],
+    [
+     0.46,
+     0.31
+    ],
+    [
+     0.42,
+     0.3115
+    ],
+    [
+     0.388,
+     0.2946
+    ],
+    [
+     0.34,
+     0.273
+    ],
+    [
+     0.3,
+     0.262
+    ],
+    [
+     0.291,
+     0.241
+    ],
+    [
+     0.294,
+     0.185
+    ],
+    [
+     0.3,
+     0.163
+    ]
+   ]
+  },
+  {
+   "id": "arctic-circle",
+   "name": "Arctic Circle",
+   "colour": "#4ac7e6",
+   "label": [
+    0.1425,
+    0.2799
+   ],
+   "url": null,
+   "blurb": "Everything made of ice: the Magical Ice Kingdom, Bar Ice, the ice slide and sculpting workshops.",
+   "outline": [
+    [
+     0.136,
+     0.13
+    ],
+    [
+     0.156,
+     0.132
+    ],
+    [
+     0.192,
+     0.154
+    ],
+    [
+     0.22,
+     0.161
+    ],
+    [
+     0.224,
+     0.2015
+    ],
+    [
+     0.23,
+     0.2325
+    ],
+    [
+     0.248,
+     0.258
+    ],
+    [
+     0.284,
+     0.2636
+    ],
+    [
+     0.32,
+     0.269
+    ],
+    [
+     0.388,
+     0.2946
+    ],
+    [
+     0.412,
+     0.317
+    ],
+    [
+     0.416,
+     0.34
+    ],
+    [
+     0.397,
+     0.371
+    ],
+    [
+     0.368,
+     0.374
+    ],
+    [
+     0.33,
+     0.364
+    ],
+    [
+     0.243,
+     0.3335
+    ],
+    [
+     0.195,
+     0.337
+    ],
+    [
+     0.123,
+     0.357
+    ],
+    [
+     0.084,
+     0.297
+    ],
+    [
+     0.084,
+     0.235
+    ],
+    [
+     0.104,
+     0.185
+    ]
+   ]
+  },
+  {
+   "id": "thrillville",
+   "name": "Thrillville",
+   "colour": "#9b4299",
+   "label": [
+    0.4765,
+    0.5331
+   ],
+   "url": "https://hydeparkwinterwonderland.com/zone/thrillville/",
+   "blurb": "The big rides: the Giant Wheel, Munich Looping, the Hangover drop tower and the Street Food Village.",
+   "outline": [
+    [
+     0.4216,
+     0.3238
+    ],
+    [
+     0.6138,
+     0.3098
+    ],
+    [
+     0.7084,
+     0.442
+    ],
+    [
+     0.7268,
+     0.5388
+    ],
+    [
+     0.7451,
+     0.6355
+    ],
+    [
+     0.7524,
+     0.7
+    ],
+    [
+     0.7237,
+     0.6742
+    ],
+    [
+     0.6138,
+     0.6484
+    ],
+    [
+     0.4551,
+     0.6548
+    ],
+    [
+     0.4521,
+     0.6269
+    ],
+    [
+     0.4155,
+     0.5388
+    ],
+    [
+     0.3941,
+     0.485
+    ],
+    [
+     0.3697,
+     0.442
+    ],
+    [
+     0.3422,
+     0.4248
+    ],
+    [
+     0.3392,
+     0.4033
+    ],
+    [
+     0.3727,
+     0.3947
+    ],
+    [
+     0.4216,
+     0.3238
+    ]
+   ]
+  },
+  {
+   "id": "bavarian-village",
+   "name": "Bavarian Village",
+   "colour": "#f57233",
+   "label": [
+    0.3121,
+    0.4789
+   ],
+   "url": "https://hydeparkwinterwonderland.com/zone/bavarian-village/",
+   "blurb": "Chalet bars, beer halls, bratwurst and two coasters.",
+   "outline": [
+    [
+     0.147,
+     0.386
+    ],
+    [
+     0.238,
+     0.344
+    ],
+    [
+     0.363,
+     0.386
+    ],
+    [
+     0.33,
+     0.405
+    ],
+    [
+     0.327,
+     0.432
+    ],
+    [
+     0.368,
+     0.45
+    ],
+    [
+     0.382,
+     0.476
+    ],
+    [
+     0.397,
+     0.503
+    ],
+    [
+     0.411,
+     0.516
+    ],
+    [
+     0.416,
+     0.557
+    ],
+    [
+     0.418,
+     0.6
+    ],
+    [
+     0.375,
+     0.606
+    ],
+    [
+     0.365,
+     0.625
+    ],
+    [
+     0.35,
+     0.675
+    ],
+    [
+     0.335,
+     0.7
+    ],
+    [
+     0.3,
+     0.705
+    ],
+    [
+     0.275,
+     0.718
+    ],
+    [
+     0.259,
+     0.672
+    ],
+    [
+     0.227,
+     0.6
+    ],
+    [
+     0.21,
+     0.577
+    ],
+    [
+     0.19,
+     0.53
+    ],
+    [
+     0.166,
+     0.472
+    ],
+    [
+     0.147,
+     0.405
+    ]
+   ]
+  },
+  {
+   "id": "market-square",
+   "name": "Market Square",
+   "colour": "#037d58",
+   "label": [
+    0.4093,
+    0.6814
+   ],
+   "url": "https://hydeparkwinterwonderland.com/zone/market-square/",
+   "blurb": "The Christmas Market's wooden chalets, The Sleigh-By street food and a bandstand with live music.",
+   "outline": [
+    [
+     0.385,
+     0.612
+    ],
+    [
+     0.432,
+     0.612
+    ],
+    [
+     0.438,
+     0.635
+    ],
+    [
+     0.433,
+     0.661
+    ],
+    [
+     0.45,
+     0.669
+    ],
+    [
+     0.49,
+     0.678
+    ],
+    [
+     0.51,
+     0.715
+    ],
+    [
+     0.537,
+     0.736
+    ],
+    [
+     0.47,
+     0.751
+    ],
+    [
+     0.43,
+     0.756
+    ],
+    [
+     0.41,
+     0.748
+    ],
+    [
+     0.325,
+     0.741
+    ],
+    [
+     0.322,
+     0.71
+    ],
+    [
+     0.355,
+     0.703
+    ],
+    [
+     0.372,
+     0.665
+    ]
+   ]
+  },
+  {
+   "id": "show-town",
+   "name": "Show Town",
+   "colour": "#ffc210",
+   "label": [
+    0.6341,
+    0.7337
+   ],
+   "url": "https://hydeparkwinterwonderland.com/zone/show-town/",
+   "blurb": "The circus big top, the Circus Bar and traditional fairground rides.",
+   "outline": [
+    [
+     0.507,
+     0.672
+    ],
+    [
+     0.577,
+     0.657
+    ],
+    [
+     0.684,
+     0.669
+    ],
+    [
+     0.759,
+     0.715
+    ],
+    [
+     0.763,
+     0.731
+    ],
+    [
+     0.731,
+     0.764
+    ],
+    [
+     0.647,
+     0.791
+    ],
+    [
+     0.623,
+     0.804
+    ],
+    [
+     0.567,
+     0.807
+    ],
+    [
+     0.535,
+     0.817
+    ],
+    [
+     0.516,
+     0.82
+    ],
+    [
+     0.483,
+     0.777
+    ],
+    [
+     0.479,
+     0.764
+    ],
+    [
+     0.516,
+     0.751
+    ],
+    [
+     0.553,
+     0.731
+    ],
+    [
+     0.544,
+     0.721
+    ],
+    [
+     0.516,
+     0.689
+    ]
+   ]
+  },
+  {
+   "id": "skaters-corner",
+   "name": "Skater's Corner",
+   "colour": "#1087ca",
+   "label": [
+    0.7435,
+    0.8403
+   ],
+   "url": "https://hydeparkwinterwonderland.com/zone/skaters-corner/",
+   "blurb": "The ice rink round the Victorian bandstand, Bar Narnia and the Fire Pit stage.",
+   "outline": [
+    [
+     0.59,
+     0.83
+    ],
+    [
+     0.6,
+     0.807
+    ],
+    [
+     0.675,
+     0.784
+    ],
+    [
+     0.731,
+     0.769
+    ],
+    [
+     0.782,
+     0.769
+    ],
+    [
+     0.79,
+     0.8
+    ],
+    [
+     0.805,
+     0.84
+    ],
+    [
+     0.83,
+     0.88
+    ],
+    [
+     0.825,
+     0.93
+    ],
+    [
+     0.787,
+     0.925
+    ],
+    [
+     0.693,
+     0.909
+    ],
+    [
+     0.6,
+     0.896
+    ],
+    [
+     0.586,
+     0.889
+    ],
+    [
+     0.6,
+     0.856
+    ]
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "giant-wheel",
+   "name": "The Giant Wheel",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.469,
+   "y": 0.3609,
+   "w": 0.02,
+   "h": 0.012,
+   "height3d": 70,
+   "note": "70m observation wheel. 10-minute flights, sessions 10:00 to 21:30.",
+   "price": "Adult £8.80 off-peak, £9.90 standard, £12.10 peak (advance). Child £6.60 to £9.90. Family £26.40 to £39.60. Private pod for up to six £46.20 to £61.60.",
+   "fastTrack": "+£5.50 adult, +£3.30 child",
+   "height": "No height restriction",
+   "url": "https://hydeparkwinterwonderland.com/attraction/the-giant-wheel/"
+  },
+  {
+   "id": "munich-looping",
+   "name": "Munich Looping",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.5151,
+   "y": 0.432,
+   "url": "https://hydeparkwinterwonderland.com/ride/munich-looping/",
+   "w": 0.2289,
+   "h": 0.0698,
+   "height3d": 35,
+   "note": "Five-loop rollercoaster.",
+   "price": "£12.00 advance, £12.50 on the day",
+   "fastTrack": "£15.00",
+   "height": "1.3m to 1.95m; under 1.4m with an adult. Age 8+."
+  },
+  {
+   "id": "aeronaut-starflyer",
+   "name": "Aeronaut Starflyer",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.3693,
+   "y": 0.4328,
+   "url": "https://hydeparkwinterwonderland.com/ride/aeronaut-starflyer/",
+   "w": 0.02,
+   "h": 0.012,
+   "height3d": 80,
+   "note": "80m swing ride.",
+   "price": "£8.80 advance, £9.00 on the day",
+   "fastTrack": "£12.10",
+   "height": "1.2m+; under 1.3m with an adult"
+  },
+  {
+   "id": "the-hangover",
+   "name": "The Hangover",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.5159,
+   "y": 0.6125,
+   "url": "https://hydeparkwinterwonderland.com/ride/the-hangover/",
+   "w": 0.018,
+   "h": 0.012,
+   "height3d": 85,
+   "note": "85m drop tower.",
+   "price": "£9.50",
+   "fastTrack": "£13.00",
+   "height": "1.4m+"
+  },
+  {
+   "id": "the-xxl",
+   "name": "The XXL",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.5604,
+   "y": 0.5285,
+   "url": "https://hydeparkwinterwonderland.com/ride/the-xxl/",
+   "w": 0.0458,
+   "h": 0.0301,
+   "height3d": 47,
+   "note": "Pendulum ride, swings to 47m.",
+   "price": "£8.50",
+   "fastTrack": "£12.00",
+   "height": "1.4m+"
+  },
+  {
+   "id": "blizzard",
+   "name": "Blizzard",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.5906,
+   "y": 0.5616,
+   "url": "https://hydeparkwinterwonderland.com/ride/blizzard/",
+   "w": 0.022,
+   "h": 0.014,
+   "height3d": 65,
+   "note": "Spins riders 360 degrees, 65m above the park.",
+   "price": "£9.90 advance, £10.00 on the day",
+   "fastTrack": "£13.20",
+   "height": "1.4m+"
+  },
+  {
+   "id": "airborne",
+   "name": "Airborne",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.4362,
+   "y": 0.554,
+   "url": "https://hydeparkwinterwonderland.com/ride/airborne/",
+   "w": 0.0351,
+   "h": 0.0301,
+   "height3d": 65,
+   "note": "Flips and rolls 65m up.",
+   "price": "£8.80 advance, £9.00 on the day",
+   "fastTrack": "£12.10",
+   "height": "1.4m+"
+  },
+  {
+   "id": "euro-coaster",
+   "name": "Euro Coaster",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.625,
+   "y": 0.6001,
+   "url": "https://hydeparkwinterwonderland.com/ride/euro-coaster/",
+   "w": 0.0732,
+   "h": 0.0645,
+   "height3d": 14,
+   "note": "Suspended coaster on a 370m track.",
+   "price": "Adult £7.50; child £5.50 advance, £6.00 on the day",
+   "fastTrack": "",
+   "height": "1.2m+"
+  },
+  {
+   "id": "haunted-mansion",
+   "name": "Haunted Mansion",
+   "type": "ride",
+   "zone": "Thrillville",
+   "x": 0.6602,
+   "y": 0.4475,
+   "url": "https://hydeparkwinterwonderland.com/ride/haunted-mansion/",
+   "w": 0.0412,
+   "h": 0.0398,
+   "height3d": 10,
+   "note": "Walk-through scare attraction.",
+   "price": "Adult £7.50; child £5.50 advance, £6.00 on the day",
+   "fastTrack": "",
+   "height": "1m+"
+  },
+  {
+   "id": "apres-ski-party-funhouse",
+   "name": "Après-Ski Party Funhouse",
+   "type": "ride",
+   "x": 0.1365,
+   "y": 0.3212,
+   "w": 0.035,
+   "h": 0.02,
+   "height3d": 12,
+   "note": "Ski-themed walk-through funhouse over several floors: moving steps, wobbly floors and a double slide.",
+   "price": "£5.50 advance, £6.00 on the day",
+   "height": "1m+",
+   "age": "Over 4; under 6 with an adult",
+   "url": "https://hydeparkwinterwonderland.com/ride/apres-ski-party-funhouse/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "ice-mountain",
+   "name": "Ice Mountain",
+   "type": "ride",
+   "x": 0.1394,
+   "y": 0.2317,
+   "w": 0.03,
+   "h": 0.022,
+   "height3d": 16,
+   "note": "Indoor spinning rollercoaster through mountain caverns, with penguins and northern lights.",
+   "price": "Adult £7.70 advance, £8.50 on the day. Child £5.50 advance, £6.50 on the day.",
+   "fastTrack": "Adult £11.00 advance, £11.50 on the day. Child £8.80 advance, £9.50 on the day.",
+   "height": "1.2m+; under 1.4m with an adult",
+   "url": "https://hydeparkwinterwonderland.com/ride/ice-mountain/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "snow-jet",
+   "name": "Snow Jet",
+   "type": "ride",
+   "x": 0.2155,
+   "y": 0.2622,
+   "w": 0.022,
+   "h": 0.016,
+   "height3d": 8,
+   "note": "Sleigh ride round a winter snowscape that speeds up partway through.",
+   "price": "Adult £6.50. Child £5.50 advance, £6.00 on the day.",
+   "height": "Under 1.25m with an adult",
+   "age": "4+",
+   "url": "https://hydeparkwinterwonderland.com/ride/snow-jet/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "the-time-machine",
+   "name": "The Time Machine",
+   "type": "ride",
+   "x": 0.4362,
+   "y": 0.2826,
+   "w": 0.022,
+   "h": 0.016,
+   "height3d": 14,
+   "note": "Steampunk-themed ride that twists and spins.",
+   "price": "Adult £7.50. Child £5.50 advance, £6.00 on the day.",
+   "height": "1.2m+; under 1.4m with an adult",
+   "url": "https://hydeparkwinterwonderland.com/ride/the-time-machine/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "traditional-wave-swinger",
+   "name": "Traditional Wave Swinger",
+   "type": "ride",
+   "x": 0.6468,
+   "y": 0.6917,
+   "w": 0.022,
+   "h": 0.016,
+   "height3d": 14,
+   "note": "Vintage chair-swing ride, hand-painted.",
+   "price": "Adult £5.50. Child £4.50.",
+   "height": "1.05m+; under 1.2m with an adult",
+   "url": "https://hydeparkwinterwonderland.com/ride/traditional-wave-swinger/",
+   "zone": "Show Town"
+  },
+  {
+   "id": "wilde-maus-xxl",
+   "name": "Wilde Maus XXL Coaster",
+   "type": "ride",
+   "x": 0.2486,
+   "y": 0.4654,
+   "w": 0.05,
+   "h": 0.03,
+   "height3d": 18,
+   "note": "Wild-mouse coaster: small cars taken fast round tight hairpin turns.",
+   "price": "Adult £9.90 advance, £10.50 on the day. Child £7.70 advance, £8.00 on the day.",
+   "fastTrack": "Adult £13.00. Child £11.00.",
+   "height": "1.2m+; under 1.4m with an adult",
+   "age": "6+; under 8 with an adult",
+   "url": "https://hydeparkwinterwonderland.com/ride/wilde-maus-xxl/",
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "spinning-racer",
+   "name": "Spinning Racer",
+   "type": "ride",
+   "x": 0.2852,
+   "y": 0.6095,
+   "w": 0.04,
+   "h": 0.025,
+   "height3d": 14,
+   "note": "Family coaster whose cars spin as they run.",
+   "price": "Adult £8.00 advance, £8.50 on the day. Child £6.00 advance, £6.50 on the day.",
+   "height": "1.2m+; under 1.4m with an adult",
+   "url": "https://hydeparkwinterwonderland.com/ride/spinning-racer/",
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "ice-rink",
+   "name": "The Ice Rink by Priority from O2",
+   "type": "attraction",
+   "x": 0.7059,
+   "y": 0.8886,
+   "mx": 0.731,
+   "my": 0.884,
+   "w": 0.125,
+   "h": 0.052,
+   "height3d": 8,
+   "note": "Open-air rink built round the Victorian bandstand. 45-minute sessions from 10:00 to 21:00; arrive 20 minutes before yours.",
+   "price": "Adult £12.65 off-peak to £19.25 peak in advance (£14.65 to £21.25 on the day). Child £9.35 to £13.75. Family £37.40 to £55.00. Ice guide £39.50.",
+   "age": "3+; ages 3 to 12 with an adult",
+   "url": "https://hydeparkwinterwonderland.com/attraction/ice-skating/",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "magical-ice-kingdom",
+   "name": "Magical Ice Kingdom presents Neverland",
+   "type": "attraction",
+   "x": 0.2908,
+   "y": 0.3046,
+   "w": 0.15,
+   "h": 0.035,
+   "height3d": 14,
+   "note": "Walk-through of hand-carved ice and snow sculptures telling the Peter Pan story, made from 500 tonnes of ice and snow. About 20 minutes; 10:00 to 21:00.",
+   "price": "Adult £10.20 off-peak to £14.60 peak in advance (£11.20 to £15.60 on the day). Child £8.00 to £12.40. Family £32.00 to £49.60.",
+   "url": "https://hydeparkwinterwonderland.com/attraction/magical-ice-kingdom/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "bar-ice",
+   "name": "Bar Ice",
+   "type": "attraction",
+   "x": 0.3718,
+   "y": 0.3351,
+   "w": 0.022,
+   "h": 0.016,
+   "height3d": 8,
+   "note": "Bar carved from ice, kept at -10°C, with a DJ. 20-minute sessions, 11:00 to 21:20; a cocktail is in the ticket.",
+   "price": "£17.05 off-peak to £19.80 peak in advance (£18.05 to £20.80 on the day), adult or child.",
+   "age": "12+ after 19:00",
+   "url": "https://hydeparkwinterwonderland.com/attraction/bar-ice/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "real-ice-slide",
+   "name": "Real Ice Slide powered by Joybuy",
+   "type": "attraction",
+   "x": 0.1216,
+   "y": 0.1862,
+   "w": 0.09,
+   "h": 0.022,
+   "height3d": 12,
+   "note": "Ride down the ice on a tube; two goes per ticket. 10:00 to 21:00. Not wheelchair accessible.",
+   "price": "£5.50 advance, £6.50 on the day",
+   "height": "90cm+",
+   "age": "Ages 3 to 12 with an adult",
+   "url": "https://hydeparkwinterwonderland.com/attraction/real-ice-slide/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "ice-sculpting-workshops",
+   "name": "Ice Sculpting Workshops",
+   "type": "attraction",
+   "x": 0.3032,
+   "y": 0.3296,
+   "w": 0.02,
+   "h": 0.014,
+   "height3d": 6,
+   "note": "Carve an ice sculpture in pairs. Sessions on the hour, 12:30 to 19:30; includes two Magical Ice Kingdom tickets.",
+   "price": "£67.65 for two in advance (£78.65 peak); £69.65 and £80.65 on the day.",
+   "age": "12+; ages 12 to 17 with an adult",
+   "url": "https://hydeparkwinterwonderland.com/attraction/ice-sculpting-workshops/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "santas-grotto",
+   "name": "Santa's Grotto",
+   "type": "attraction",
+   "x": 0.3534,
+   "y": 0.1822,
+   "w": 0.06,
+   "h": 0.03,
+   "height3d": 14,
+   "note": "Meet Santa. 10:00 to 18:00, first come first served; the queue can close at 17:00.",
+   "price": "Free",
+   "url": "https://hydeparkwinterwonderland.com/attraction/santas-grotto/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "elves-workshop",
+   "name": "The Elves' Workshop",
+   "type": "attraction",
+   "x": 0.4224,
+   "y": 0.179,
+   "w": 0.04,
+   "h": 0.024,
+   "height3d": 10,
+   "note": "Puzzles and giant cogs to turn. All day, first come first served.",
+   "price": "Free",
+   "url": "https://hydeparkwinterwonderland.com/attraction/elves-workshop/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "gandeys-circus",
+   "name": "Gandeys K-Pop Dragon Circus",
+   "type": "show",
+   "x": 0.5587,
+   "y": 0.7834,
+   "mx": 0.56,
+   "my": 0.772,
+   "w": 0.1,
+   "h": 0.05,
+   "height3d": 18,
+   "note": "Circus show that mixes K-pop with circus acts. New for 2026. Shows at 14:00, 16:00 and 18:00, plus 12:00 and 20:00 on some days.",
+   "price": "Adult £13.75 off-peak to £19.80 peak in advance; ringside £15.95 to £22.00. Child £10.45 to £16.50. Family £41.80 to £66.00.",
+   "url": "https://hydeparkwinterwonderland.com/attraction/gandeys-circus/",
+   "zone": "Show Town"
+  },
+  {
+   "id": "christmas-by-candlelight",
+   "name": "Christmas by Candlelight",
+   "type": "show",
+   "x": 0.5567,
+   "y": 0.7905,
+   "w": 0.012,
+   "h": 0.01,
+   "height3d": 4,
+   "note": "Christmas songs sung live by West End performers, by candlelight. 5, 6, 11, 13, 20 and 23 December.",
+   "price": "From £35.00",
+   "url": "https://hydeparkwinterwonderland.com/attraction/christmas-by-candlelight/",
+   "zone": "Show Town"
+  },
+  {
+   "id": "winter-wonderland-parade",
+   "name": "Winter Wonderland Parade",
+   "type": "show",
+   "x": 0.3758,
+   "y": 0.2028,
+   "w": 0.012,
+   "h": 0.01,
+   "height3d": 4,
+   "note": "Santa's elves parade his sleigh. Dates and times vary through the season.",
+   "price": "Free",
+   "url": "https://hydeparkwinterwonderland.com/attraction/winter-wonderland-parade/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "christmas-market",
+   "name": "The Christmas Market",
+   "type": "market",
+   "x": 0.4643,
+   "y": 0.721,
+   "w": 0.08,
+   "h": 0.04,
+   "height3d": 4,
+   "note": "Wooden chalets selling gifts, Christmas decorations and food.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/the-christmas-market/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "luminarie-market",
+   "name": "Luminarie Market",
+   "type": "market",
+   "x": 0.2794,
+   "y": 0.1632,
+   "w": 0.03,
+   "h": 0.09,
+   "height3d": 4,
+   "note": "Hand-made gifts, and food and drink, under the Luminarie arches.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/luminarie-market/",
+   "zone": "Luminarie Lane"
+  },
+  {
+   "id": "3-bros-burgers",
+   "name": "3 Bros Burgers",
+   "type": "food",
+   "x": 0.4729,
+   "y": 0.7188,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Sussex Wagyu beef burgers, including a brie, bacon and cranberry burger, and fries dusted with pine salt and cinnamon.",
+   "diet": [
+    "children's portions",
+    "vegan",
+    "vegetarian",
+    "dairy-free"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/3-bros-burgers/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "after-school-cookie-club",
+   "name": "After School Cookie Club",
+   "type": "food",
+   "x": 0.4565,
+   "y": 0.4013,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Fresh-baked cookies, cookie dough and ice cream.",
+   "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "vegan",
+    "halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/after-school-cookie-club/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "apres-ski-party-resort",
+   "name": "Après-Ski Party Resort",
+   "type": "bar",
+   "x": 0.5686,
+   "y": 0.331,
+   "w": 0.0519,
+   "h": 0.0248,
+   "height3d": 9,
+   "note": "Alpine-style bar with live DJs, mulled wine, beer and bratwurst. Free to walk in.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/apres-ski-party-resort/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "bad-boy-pizza-society",
+   "name": "Bad Boy Pizza Society",
+   "type": "food",
+   "x": 0.4753,
+   "y": 0.3946,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Pizza.",
+   "diet": [
+    "vegetarian",
+    "vegan",
+    "halal",
+    "gluten-free"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/bad-boy-pizza-society/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "bagu",
+   "name": "Bagú",
+   "type": "food",
+   "x": 0.4529,
+   "y": 0.7296,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Grilled sausage and melted cheese baguettes and cheesy fries; a meal deal adds fries and a drink.",
+   "diet": [
+    "children's portions",
+    "vegetarian",
+    "gluten-free",
+    "all halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/bagu/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "bang-bang-burger",
+   "name": "Bang Bang Burger",
+   "type": "food",
+   "x": 0.4447,
+   "y": 0.4112,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Burgers, fries and seasonal specials.",
+   "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "vegan",
+    "halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/bang-bang-burger/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "bar-narnia",
+   "name": "Bar Narnia",
+   "type": "bar",
+   "x": 0.6314,
+   "y": 0.8293,
+   "w": 0.02,
+   "h": 0.012,
+   "height3d": 7,
+   "note": "Narnia-themed bar. Free to walk in.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/bar-narnia/",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "basta",
+   "name": "Basta",
+   "type": "food",
+   "x": 0.4776,
+   "y": 0.6931,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Qatari chapati and hot drinks, from the family behind the Mayfair restaurant.",
+   "url": "https://hydeparkwinterwonderland.com/vendor/basta/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "burger-and-beyond",
+   "name": "Burger and Beyond",
+   "type": "food",
+   "x": 0.4024,
+   "y": 0.6334,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Burgers.",
+   "diet": [
+    "dairy-free",
+    "halal",
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/burger-and-beyond/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "busters-burgers",
+   "name": "Buster's Burgers",
+   "type": "food",
+   "x": 0.4318,
+   "y": 0.6326,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Classic hamburgers and fries, from the burger bar on Atlantic Road, Brixton.",
+   "url": "https://hydeparkwinterwonderland.com/vendor/busters-burgers/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "carousel-bar",
+   "name": "Carousel Bar",
+   "type": "bar",
+   "x": 0.5628,
+   "y": 0.626,
+   "w": 0.0534,
+   "h": 0.0387,
+   "height3d": 8,
+   "note": "A working carousel that doubles as a bar. Free to walk in.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/carousel-bar/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "chocofruit",
+   "name": "Chocofruit",
+   "type": "food",
+   "x": 0.48,
+   "y": 0.4013,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Chocolate-covered fruit and sweets.",
+   "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free",
+    "vegan",
+    "halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/chocofruit/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "chulo-momo",
+   "name": "Chulo Momo",
+   "type": "food",
+   "x": 0.5588,
+   "y": 0.3639,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Nepalese momo dumplings.",
+   "diet": [
+    "halal",
+    "vegetarian",
+    "dairy-free",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/chulo-momo/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "circus-bar",
+   "name": "Circus Bar",
+   "type": "bar",
+   "x": 0.614,
+   "y": 0.7547,
+   "w": 0.02,
+   "h": 0.014,
+   "height3d": 10,
+   "note": "Big-top bar full of circus memorabilia and life-size figures. Free to walk in.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/circus-bar/",
+   "zone": "Show Town"
+  },
+  {
+   "id": "crumbled-london",
+   "name": "Crumbled London",
+   "type": "food",
+   "x": 0.5447,
+   "y": 0.3814,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Fruit crumbles with custard or soft-serve ice cream.",
+   "diet": [
+    "vegetarian",
+    "gluten-free",
+    "children's portions",
+    "vegan"
+   ],
+   "zone": "Thrillville"
+  },
+  {
+   "id": "curry-on-naan-stop",
+   "name": "Curry on Naan Stop",
+   "type": "food",
+   "x": 0.4635,
+   "y": 0.4104,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Indian street food.",
+   "diet": [
+    "dairy-free",
+    "halal",
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/curry-on-naan-stop/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "duck-shed",
+   "name": "Duck Shed",
+   "type": "food",
+   "x": 0.5365,
+   "y": 0.3615,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Rotisserie duck and duck-fat roast potatoes.",
+   "diet": [
+    "dairy-free",
+    "vegan",
+    "halal",
+    "gluten-free",
+    "vegetarian"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/duck-shed/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "dutch-pancakes",
+   "name": "Dutch Pancakes",
+   "type": "food",
+   "x": 0.2753,
+   "y": 0.2504,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Dutch pancakes made in front of you, barista coffee and hot chocolate.",
+   "diet": [
+    "vegetarian",
+    "dairy-free",
+    "vegan",
+    "all halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/dutch-pancakes/",
+   "zone": "Luminarie Lane"
+  },
+  {
+   "id": "explorers-rest",
+   "name": "Explorer's Rest",
+   "type": "bar",
+   "x": 0.3628,
+   "y": 0.3245,
+   "w": 0.02,
+   "h": 0.012,
+   "height3d": 7,
+   "note": "Bar with acoustic sets and DJs. Free to walk in.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/explorers-rest/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "freewheelin-pizza",
+   "name": "Freewheelin' Pizza",
+   "type": "food",
+   "x": 0.48,
+   "y": 0.7346,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Wood-fired pizza.",
+   "diet": [
+    "vegetarian",
+    "dairy-free",
+    "vegan",
+    "halal",
+    "gluten-free"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/freewheelin-pizza/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "fuego-1987",
+   "name": "Fuego 1987",
+   "type": "food",
+   "x": 0.4212,
+   "y": 0.7304,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Birria cheese tacos, chipotle chicken tacos and birria ramen.",
+   "diet": [
+    "gluten-free",
+    "all halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/fuego-1987/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "hide-and-greek",
+   "name": "Hide & Greek",
+   "type": "food",
+   "x": 0.5141,
+   "y": 0.3847,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Greek street food.",
+   "diet": [
+    "gluten-free",
+    "vegetarian",
+    "dairy-free",
+    "vegan",
+    "halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/hide-greek/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "japanese-chicken-shop",
+   "name": "Japanese Chicken Shop",
+   "type": "food",
+   "x": 0.5271,
+   "y": 0.378,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Double-fried chicken finished in chilli oil.",
+   "diet": [
+    "vegetarian"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/japanese-chicken-shop/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "kells-kitchen",
+   "name": "Kell's Kitchen",
+   "type": "food",
+   "x": 0.4659,
+   "y": 0.737,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Smashed beef burgers and loaded fries.",
+   "diet": [
+    "vegetarian",
+    "dairy-free",
+    "children's portions",
+    "vegan",
+    "gluten-free",
+    "all halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/kells-kitchen/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "fire-pit-stage",
+   "name": "Le Chalet & Fire Pit Stage",
+   "type": "bar",
+   "x": 0.7733,
+   "y": 0.7858,
+   "w": 0.03,
+   "h": 0.016,
+   "height3d": 7,
+   "note": "Open-air cocktail bar with fire pits for toasting marshmallows, and a stage for bands and DJs. Free to walk in.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/the-fire-pit/",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "lil-watan",
+   "name": "Lil Watan",
+   "type": "food",
+   "x": 0.4729,
+   "y": 0.7412,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Lebanese charcoal grill.",
+   "diet": [
+    "dairy-free",
+    "halal",
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/lil-watan/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "lucky-gyros",
+   "name": "Lucky Gyros",
+   "type": "food",
+   "x": 0.5271,
+   "y": 0.2727,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Chicken gyros in pitta with fries and tzatziki; platters and rice bowls.",
+   "diet": [
+    "vegan",
+    "gluten-free"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/lucky-gyros/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "luminarie-bar",
+   "name": "Luminarie Bar",
+   "type": "bar",
+   "x": 0.2442,
+   "y": 0.236,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 7,
+   "note": "A slowly rotating bar lit by Luminarie lights, at the end of Luminarie Lane.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/luminarie-bar/",
+   "zone": "Luminarie Lane"
+  },
+  {
+   "id": "macman",
+   "name": "Macman",
+   "type": "food",
+   "x": 0.4529,
+   "y": 0.7379,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Mac and cheese with toppings, mac bites and mac-loaded fries.",
+   "url": "https://hydeparkwinterwonderland.com/vendor/macman/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "meathead-mexican",
+   "name": "Meathead Mexican",
+   "type": "food",
+   "x": 0.5365,
+   "y": 0.3731,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Tacos.",
+   "diet": [
+    "vegan",
+    "halal",
+    "gluten-free",
+    "dairy-free",
+    "vegetarian"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/meathead-mexican/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "mexitaco",
+   "name": "Mexitaco",
+   "type": "food",
+   "x": 0.4694,
+   "y": 0.7279,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Burritos, tacos, nachos, quesadillas and rice bowls.",
+   "diet": [
+    "vegetarian",
+    "gluten-free",
+    "all halal",
+    "vegan",
+    "children's portions"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/mexitaco/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "other-side-fried",
+   "name": "Other Side Fried",
+   "type": "food",
+   "x": 0.6506,
+   "y": 0.5712,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Fried chicken burgers and tenders, a smashed beef burger and loaded fries.",
+   "diet": [
+    "vegetarian",
+    "halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/other-side-fried/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "poptata",
+   "name": "Poptata",
+   "type": "food",
+   "x": 0.4494,
+   "y": 0.7155,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Fresh-cut fries, plain to fully loaded.",
+   "diet": [
+    "gluten-free",
+    "vegetarian",
+    "dairy-free",
+    "vegan",
+    "halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/poptata/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "princess-bar",
+   "name": "Princess Bar",
+   "type": "bar",
+   "x": 0.2581,
+   "y": 0.154,
+   "w": 0.012,
+   "h": 0.008,
+   "height3d": 5,
+   "note": "Grab-and-go bar for German-style drinks by the Gold Gate.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/princess-bar/",
+   "zone": "Luminarie Lane"
+  },
+  {
+   "id": "puffin",
+   "name": "Puffin",
+   "type": "food",
+   "x": 0.4306,
+   "y": 0.7113,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Fish and chips, fish-and-chip sandwiches and crab rolls.",
+   "diet": [
+    "dairy-free",
+    "vegan",
+    "halal",
+    "gluten-free",
+    "vegetarian"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/puffin/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "shawarma-bros",
+   "name": "Shawarma Bros",
+   "type": "food",
+   "x": 0.4553,
+   "y": 0.7064,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Shawarma wraps: chicken, lamb, falafel or halloumi.",
+   "diet": [
+    "vegetarian",
+    "gluten-free",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/shawarma-bros/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "smash-patties",
+   "name": "Smash Patties",
+   "type": "food",
+   "x": 0.5106,
+   "y": 0.2512,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Double smashed burgers in brioche buns.",
+   "diet": [
+    "vegan",
+    "gluten-free"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/smash-patties/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "stakehaus",
+   "name": "Stakehaus",
+   "type": "food",
+   "x": 0.4918,
+   "y": 0.3855,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Steak.",
+   "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan",
+    "dairy-free",
+    "halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/stakehaus/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "the-cheese-wheel",
+   "name": "The Cheese Wheel",
+   "type": "food",
+   "x": 0.4776,
+   "y": 0.7122,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Fresh pasta tossed in a wheel of Grana Padano.",
+   "diet": [
+    "halal",
+    "children's portions",
+    "vegetarian",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/the-cheese-wheel/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "the-christmas-tree-arms",
+   "name": "The Christmas Tree Arms",
+   "type": "bar",
+   "x": 0.3686,
+   "y": 0.6801,
+   "w": 0.02,
+   "h": 0.014,
+   "height3d": 12,
+   "note": "Pub covered in real cut Christmas trees, with a second-floor balcony.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/the-christmas-tree-arms/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "the-mac-factory",
+   "name": "The Mac Factory",
+   "type": "food",
+   "x": 0.5127,
+   "y": 0.3715,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Mac and cheese.",
+   "diet": [
+    "gluten-free",
+    "vegetarian",
+    "vegan",
+    "children's portions",
+    "all halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/the-mac-factory/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "the-sauce",
+   "name": "The Sauce",
+   "type": "food",
+   "x": 0.4412,
+   "y": 0.7437,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Loaded boxes and wings, all halal.",
+   "diet": [
+    "all halal",
+    "vegetarian",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/the-sauce/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "thors-tipi-bar",
+   "name": "Thor's Tipi Bar",
+   "type": "bar",
+   "x": 0.7,
+   "y": 0.4949,
+   "w": 0.029,
+   "h": 0.0387,
+   "height3d": 9,
+   "note": "Three giant tipis with fire pits. Free to walk in.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/thors-tipi-bar/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "tikka-guys",
+   "name": "Tikka Guys",
+   "type": "food",
+   "x": 0.3894,
+   "y": 0.7205,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Pakistani street food: tandoor chicken, bun kebabs and naan.",
+   "url": "https://hydeparkwinterwonderland.com/vendor/tikka-guys/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "uh-k-dogs-n-juicy",
+   "name": "Uh K Dogs N Juicy",
+   "type": "food",
+   "x": 0.4612,
+   "y": 0.6948,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Korean corn dogs.",
+   "diet": [
+    "dairy-free",
+    "halal",
+    "vegetarian",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/uh-k-dogs/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "we-are-melt",
+   "name": "We Are Melt",
+   "type": "food",
+   "x": 0.4035,
+   "y": 0.4369,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Loaded grilled-cheese toasties.",
+   "url": "https://hydeparkwinterwonderland.com/vendor/we-are-melt/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "wok-boy",
+   "name": "Wok Boy",
+   "type": "food",
+   "x": 0.4459,
+   "y": 0.6898,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Chow mein and Korean fried chicken.",
+   "diet": [
+    "vegetarian",
+    "dairy-free",
+    "children's portions",
+    "gluten-free",
+    "all halal"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/wok-boy-2/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "wonderbar",
+   "name": "Wonderbar!",
+   "type": "bar",
+   "x": 0.307,
+   "y": 0.1622,
+   "w": 0.016,
+   "h": 0.01,
+   "height3d": 6,
+   "note": "German-style bar just inside the Gold Gate, with a Staropramen photo booth.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/wonderbar/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "yorkshire-burrito",
+   "name": "Yorkshire Burrito",
+   "type": "food",
+   "x": 0.4247,
+   "y": 0.6972,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Yorkshire pudding wraps with roast beef or chicken, and a Christmas one with turkey and pigs in blankets.",
+   "diet": [
+    "halal",
+    "vegetarian",
+    "dairy-free",
+    "children's portions",
+    "vegan",
+    "gluten-free"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/yorkshire-burrito/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "youbao",
+   "name": "YouBao",
+   "type": "food",
+   "x": 0.5694,
+   "y": 0.3714,
+   "w": 0.01,
+   "h": 0.007,
+   "height3d": 4,
+   "note": "Steamed bao buns.",
+   "diet": [
+    "halal",
+    "vegetarian",
+    "dairy-free",
+    "vegan"
+   ],
+   "url": "https://hydeparkwinterwonderland.com/vendor/youbao/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "street-food-village",
+   "name": "Street Food Village",
+   "type": "food",
+   "x": 0.4735,
+   "y": 0.3723,
+   "w": 0.1007,
+   "h": 0.0495,
+   "height3d": 4,
+   "note": "Street food stalls: Indian, Greek, Mexican, British, American, Italian and Caribbean.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/street-food-village/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "the-sleigh-by",
+   "name": "The Sleigh-By",
+   "type": "food",
+   "x": 0.4021,
+   "y": 0.6421,
+   "w": 0.035,
+   "h": 0.02,
+   "height3d": 6,
+   "note": "Street food traders, bars and a chill-out area.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/the-sleigh-by/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "bavarian-hall",
+   "name": "Bavarian Hall",
+   "type": "bar",
+   "x": 0.2896,
+   "y": 0.538,
+   "w": 0.07,
+   "h": 0.045,
+   "height3d": 10,
+   "note": "Beer hall with steins, bratwurst, live music and dancing, in a village of chalet bars and cafés. Credit vouchers: £40 for £36 or £80 for £70; bratwurst meal deals from £12.50.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/bavarian-village/",
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "jingle-bell-bistro",
+   "name": "Jingle Bell Bistro",
+   "type": "food",
+   "x": 0.5319,
+   "y": 0.2465,
+   "w": 0.03,
+   "h": 0.02,
+   "height3d": 5,
+   "note": "Street food market for children: full dishes made for kids, not half portions. Children's meals £11.50; meal deals can be booked ahead.",
+   "url": "https://hydeparkwinterwonderland.com/feasting-drinking/jingle-bell-bistro/",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "official-merch-store",
+   "name": "Official Merch Store",
+   "type": "market",
+   "x": 0.2733,
+   "y": 0.3248,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 5,
+   "note": "Official Winter Wonderland merchandise.",
+   "url": "https://hydeparkwinterwonderland.com/shop-merch/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "live-music-arctic-circle",
+   "name": "Live music, Arctic Circle",
+   "type": "show",
+   "x": 0.4012,
+   "y": 0.3275,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Live bands, acoustic sets and DJs, free with entry.",
+   "url": "https://hydeparkwinterwonderland.com/live-music-line-up/",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "live-music-thrillville",
+   "name": "Live music, Thrillville (1)",
+   "type": "show",
+   "x": 0.6,
+   "y": 0.3283,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Live bands, acoustic sets and DJs, free with entry.",
+   "url": "https://hydeparkwinterwonderland.com/live-music-line-up/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "live-music-bavarian-village",
+   "name": "Live music, Bavarian Village",
+   "type": "show",
+   "x": 0.2706,
+   "y": 0.3851,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Live bands, acoustic sets and DJs, free with entry.",
+   "url": "https://hydeparkwinterwonderland.com/live-music-line-up/",
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "live-music-thrillville-2",
+   "name": "Live music, Thrillville (2)",
+   "type": "show",
+   "x": 0.5553,
+   "y": 0.6375,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Live bands, acoustic sets and DJs, free with entry.",
+   "url": "https://hydeparkwinterwonderland.com/live-music-line-up/",
+   "zone": "Thrillville"
+  },
+  {
+   "id": "live-music-market-square",
+   "name": "Live music, Market Square",
+   "type": "show",
+   "x": 0.4388,
+   "y": 0.7569,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Live bands, acoustic sets and DJs, free with entry.",
+   "url": "https://hydeparkwinterwonderland.com/live-music-line-up/",
+   "zone": "Market Square"
+  },
+  {
+   "id": "live-music-skaters-corner",
+   "name": "Live music, Skater's Corner (1)",
+   "type": "show",
+   "x": 0.8047,
+   "y": 0.8083,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Live bands, acoustic sets and DJs, free with entry.",
+   "url": "https://hydeparkwinterwonderland.com/live-music-line-up/",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "live-music-skaters-corner-2",
+   "name": "Live music, Skater's Corner (2)",
+   "type": "show",
+   "x": 0.7812,
+   "y": 0.8904,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Live bands, acoustic sets and DJs, free with entry.",
+   "url": "https://hydeparkwinterwonderland.com/live-music-line-up/",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "toilets-santa-land",
+   "name": "Toilets, Santa Land",
+   "type": "toilets",
+   "x": 0.5067,
+   "y": 0.1515,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.5008,
+     0.1401
+    ],
+    [
+     0.5092,
+     0.1442
+    ],
+    [
+     0.5101,
+     0.1703
+    ]
+   ],
+   "zone": "Santa Land"
+  },
+  {
+   "id": "toilets-arctic-circle",
+   "name": "Toilets, Arctic Circle (1)",
+   "type": "toilets",
+   "x": 0.1103,
+   "y": 0.3033,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.1124,
+     0.2956
+    ],
+    [
+     0.1082,
+     0.311
+    ]
+   ],
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "toilets-arctic-circle-2",
+   "name": "Toilets, Arctic Circle (2)",
+   "type": "toilets",
+   "x": 0.1489,
+   "y": 0.3433,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Changing Places toilet"
+   ],
+   "points": [
+    [
+     0.1489,
+     0.3433
+    ]
+   ],
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "toilets-bavarian-village",
+   "name": "Toilets, Bavarian Village (1)",
+   "type": "toilets",
+   "x": 0.2043,
+   "y": 0.4492,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet",
+    "Gender-neutral toilets",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.2089,
+     0.4304
+    ],
+    [
+     0.193,
+     0.4375
+    ],
+    [
+     0.1963,
+     0.4712
+    ],
+    [
+     0.219,
+     0.4576
+    ]
+   ],
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "toilets-bavarian-village-2",
+   "name": "Toilets, Bavarian Village (2)",
+   "type": "toilets",
+   "x": 0.263,
+   "y": 0.5217,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet"
+   ],
+   "points": [
+    [
+     0.2777,
+     0.5155
+    ],
+    [
+     0.2483,
+     0.5279
+    ]
+   ],
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "toilets-thrillville",
+   "name": "Toilets, Thrillville",
+   "type": "toilets",
+   "x": 0.708,
+   "y": 0.5511,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet",
+    "Gender-neutral toilets",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.6918,
+     0.5364
+    ],
+    [
+     0.6938,
+     0.5581
+    ],
+    [
+     0.7257,
+     0.5439
+    ],
+    [
+     0.7206,
+     0.5658
+    ]
+   ],
+   "zone": "Thrillville"
+  },
+  {
+   "id": "toilets-bavarian-village-3",
+   "name": "Toilets, Bavarian Village (3)",
+   "type": "toilets",
+   "x": 0.3635,
+   "y": 0.6292,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.3708,
+     0.6225
+    ],
+    [
+     0.3465,
+     0.6249
+    ],
+    [
+     0.3733,
+     0.6403
+    ]
+   ],
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "toilets-show-town",
+   "name": "Toilets, Show Town (1)",
+   "type": "toilets",
+   "x": 0.6321,
+   "y": 0.6601,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Gender-neutral toilets",
+    "Changing Places toilet",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.6158,
+     0.6545
+    ],
+    [
+     0.6191,
+     0.671
+    ],
+    [
+     0.651,
+     0.6527
+    ],
+    [
+     0.6426,
+     0.6622
+    ]
+   ],
+   "zone": "Show Town"
+  },
+  {
+   "id": "toilets-show-town-2",
+   "name": "Toilets, Show Town (2)",
+   "type": "toilets",
+   "x": 0.745,
+   "y": 0.7306,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet",
+    "Gender-neutral toilets",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.7374,
+     0.7177
+    ],
+    [
+     0.7542,
+     0.7432
+    ],
+    [
+     0.724,
+     0.7402
+    ],
+    [
+     0.7643,
+     0.7213
+    ]
+   ],
+   "zone": "Show Town"
+  },
+  {
+   "id": "toilets-show-town-3",
+   "name": "Toilets, Show Town (3)",
+   "type": "toilets",
+   "x": 0.4966,
+   "y": 0.769,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.5092,
+     0.7455
+    ],
+    [
+     0.4891,
+     0.7704
+    ],
+    [
+     0.4916,
+     0.791
+    ]
+   ],
+   "zone": "Show Town"
+  },
+  {
+   "id": "toilets-market-square",
+   "name": "Toilets, Market Square",
+   "type": "toilets",
+   "x": 0.3809,
+   "y": 0.7501,
+   "w": 0.014,
+   "h": 0.01,
+   "height3d": 3,
+   "facilities": [
+    "Toilets",
+    "Accessible toilet",
+    "Baby changing"
+   ],
+   "points": [
+    [
+     0.3926,
+     0.7562
+    ],
+    [
+     0.3876,
+     0.7378
+    ],
+    [
+     0.3624,
+     0.7562
+    ]
+   ],
+   "zone": "Market Square"
+  },
+  {
+   "id": "guest-hub-by-the-gold-gate",
+   "name": "Guest Hub by the Gold Gate",
+   "type": "info",
+   "x": 0.3431,
+   "y": 0.1206,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "Customer service: ticket questions, lost property and feedback.",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "guest-hub-by-the-red-gate",
+   "name": "Guest Hub by the Red Gate",
+   "type": "info",
+   "x": 0.5243,
+   "y": 0.2075,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "Customer service: ticket questions, lost property and feedback.",
+   "zone": "Santa Land"
+  },
+  {
+   "id": "guest-hub-by-the-green-gate",
+   "name": "Guest Hub by the Green Gate",
+   "type": "info",
+   "x": 0.2878,
+   "y": 0.7272,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "Customer service: ticket questions, lost property and feedback.",
+   "zone": "Bavarian Village"
+  },
+  {
+   "id": "guest-hub-by-the-blue-gate",
+   "name": "Guest Hub by the Blue Gate",
+   "type": "info",
+   "x": 0.7886,
+   "y": 0.8395,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "Customer service: ticket questions, lost property and feedback.",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "box-office-by-the-gold-gate",
+   "name": "Box Office, by the Gold Gate",
+   "type": "info",
+   "x": 0.2039,
+   "y": 0.1129,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "Tickets on the day, including Essential Companion tickets for Access Card holders.",
+   "zone": "By the Gold Gate"
+  },
+  {
+   "id": "box-office-luminarie-lane",
+   "name": "Box Office, Luminarie Lane",
+   "type": "info",
+   "x": 0.2878,
+   "y": 0.2536,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "Tickets on the day, including Essential Companion tickets for Access Card holders.",
+   "zone": "Luminarie Lane"
+  },
+  {
+   "id": "box-office-skaters-corner",
+   "name": "Box Office, Skater's Corner",
+   "type": "info",
+   "x": 0.5587,
+   "y": 0.872,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "Tickets on the day, including Essential Companion tickets for Access Card holders.",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "first-aid-arctic-circle",
+   "name": "First aid, Arctic Circle",
+   "type": "firstaid",
+   "x": 0.1612,
+   "y": 0.3358,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "First aid and medical team.",
+   "zone": "Arctic Circle"
+  },
+  {
+   "id": "first-aid-skaters-corner",
+   "name": "First aid, Skater's Corner",
+   "type": "firstaid",
+   "x": 0.6612,
+   "y": 0.8921,
+   "w": 0.01,
+   "h": 0.008,
+   "height3d": 4,
+   "note": "First aid and medical team.",
+   "zone": "Skater's Corner"
+  },
+  {
+   "id": "water-refill-stations",
+   "name": "Water refill stations (9)",
+   "type": "service",
+   "x": 0.4694,
+   "y": 0.179,
+   "zone": "Across the site",
+   "w": 0.008,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Free tap water for refillable bottles.",
+   "points": [
+    [
+     0.4694,
+     0.179
+    ],
+    [
+     0.1647,
+     0.3465
+    ],
+    [
+     0.2176,
+     0.4734
+    ],
+    [
+     0.3447,
+     0.6019
+    ],
+    [
+     0.7129,
+     0.5198
+    ],
+    [
+     0.6482,
+     0.6724
+    ],
+    [
+     0.3729,
+     0.776
+    ],
+    [
+     0.4588,
+     0.7826
+    ],
+    [
+     0.7612,
+     0.7039
+    ]
+   ]
+  },
+  {
+   "id": "phone-charger-hire",
+   "name": "Phone charger hire (16)",
+   "type": "service",
+   "x": 0.2847,
+   "y": 0.2363,
+   "zone": "Across the site",
+   "w": 0.008,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Portable phone chargers to hire.",
+   "points": [
+    [
+     0.2847,
+     0.2363
+    ],
+    [
+     0.3788,
+     0.2777
+    ],
+    [
+     0.2588,
+     0.3523
+    ],
+    [
+     0.2271,
+     0.3921
+    ],
+    [
+     0.5341,
+     0.3424
+    ],
+    [
+     0.3953,
+     0.4021
+    ],
+    [
+     0.28,
+     0.4319
+    ],
+    [
+     0.5459,
+     0.5115
+    ],
+    [
+     0.6518,
+     0.553
+    ],
+    [
+     0.4,
+     0.5886
+    ],
+    [
+     0.4565,
+     0.6533
+    ],
+    [
+     0.5541,
+     0.6711
+    ],
+    [
+     0.7012,
+     0.7229
+    ],
+    [
+     0.7471,
+     0.7777
+    ],
+    [
+     0.6482,
+     0.8092
+    ],
+    [
+     0.8306,
+     0.8921
+    ]
+   ]
+  },
+  {
+   "id": "hearing-loop",
+   "name": "Hearing loops (4)",
+   "type": "service",
+   "x": 0.1741,
+   "y": 0.1135,
+   "zone": "Across the site",
+   "w": 0.008,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Induction loops for hearing aids.",
+   "points": [
+    [
+     0.1741,
+     0.1135
+    ],
+    [
+     0.4894,
+     0.3673
+    ],
+    [
+     0.5576,
+     0.8067
+    ],
+    [
+     0.5824,
+     0.8855
+    ]
+   ]
+  },
+  {
+   "id": "multi-faith-rooms",
+   "name": "Multi-faith rooms (2)",
+   "type": "service",
+   "x": 0.1459,
+   "y": 0.3697,
+   "zone": "Bavarian Village and Show Town",
+   "w": 0.008,
+   "h": 0.008,
+   "height3d": 3,
+   "note": "Quiet rooms for prayer.",
+   "points": [
+    [
+     0.1459,
+     0.3697
+    ],
+    [
+     0.62,
+     0.6815
+    ]
+   ]
+  },
+  {
+   "id": "gold-gate",
+   "name": "Gold Gate",
+   "type": "entrance",
+   "x": 0.282,
+   "y": 0.118,
+   "zone": "North side",
+   "w": 0.06,
+   "h": 0.006,
+   "height3d": 8,
+   "colour": "#ffc210",
+   "note": "Closest stations: Marble Arch and Paddington. Nearest zones: Arctic Circle and Luminarie Lane.",
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  },
+  {
+   "id": "red-gate",
+   "name": "Red Gate",
+   "type": "entrance",
+   "x": 0.617,
+   "y": 0.287,
+   "zone": "East side",
+   "w": 0.06,
+   "h": 0.006,
+   "height3d": 8,
+   "colour": "#e2234a",
+   "note": "Closest stations: Bond Street and Marble Arch. Nearest zones: Santa Land and Thrillville.",
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  },
+  {
+   "id": "green-gate",
+   "name": "Green Gate",
+   "type": "entrance",
+   "x": 0.3,
+   "y": 0.797,
+   "zone": "West side",
+   "w": 0.06,
+   "h": 0.006,
+   "height3d": 8,
+   "colour": "#0b6b45",
+   "note": "Closest stations: Knightsbridge and High Street Kensington. Nearest zones: Bavarian Village and Market Square.",
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  },
+  {
+   "id": "blue-gate",
+   "name": "Blue Gate",
+   "type": "entrance",
+   "x": 0.838,
+   "y": 0.952,
+   "zone": "South side",
+   "w": 0.06,
+   "h": 0.006,
+   "height3d": 8,
+   "colour": "#49c3ec",
+   "note": "Closest stations: Hyde Park Corner, Green Park and Victoria. Nearest zones: Skater's Corner and Show Town.",
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  },
+  {
+   "id": "station-paddington",
+   "name": "Paddington station",
+   "x": 0.17,
+   "y": 0.075,
+   "note": "Elizabeth, Bakerloo, Circle, District and Hammersmith & City lines. About a 12-minute walk; nearest gate: Gold Gate.",
+   "type": "station",
+   "zone": "Outside the park",
+   "w": 0.02,
+   "h": 0.01,
+   "height3d": 2,
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  },
+  {
+   "id": "station-bond-street",
+   "name": "Bond Street, Marble Arch and Oxford Circus stations",
+   "x": 0.56,
+   "y": 0.1,
+   "note": "Bond Street (Central, Jubilee and Elizabeth lines, with lifts) is about a 14-minute walk. Marble Arch is closer but busy and can close. Nearest gate: Red Gate.",
+   "type": "station",
+   "zone": "Outside the park",
+   "w": 0.02,
+   "h": 0.01,
+   "height3d": 2,
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  },
+  {
+   "id": "station-high-street-kensington",
+   "name": "High Street Kensington and Knightsbridge stations",
+   "x": 0.196,
+   "y": 0.75,
+   "note": "Nearest gate: Green Gate. At Knightsbridge, use the Hans Crescent exit for Harrods.",
+   "type": "station",
+   "zone": "Outside the park",
+   "w": 0.02,
+   "h": 0.01,
+   "height3d": 2,
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  },
+  {
+   "id": "station-victoria",
+   "name": "Victoria, Hyde Park Corner and Green Park stations",
+   "x": 0.918,
+   "y": 0.875,
+   "note": "Green Park (Piccadilly and Jubilee lines, with lifts) is about a 17-minute walk; Victoria about 19 minutes. Hyde Park Corner is closest but busy and can close. Nearest gate: Blue Gate.",
+   "type": "station",
+   "zone": "Outside the park",
+   "w": 0.02,
+   "h": 0.01,
+   "height3d": 2,
+   "url": "https://hydeparkwinterwonderland.com/getting-here/"
+  }
+ ],
+ "geo": {
+  "note": "Approximate. lat/lng -> local metres (E, N) about origin -> map x/y by affine fit on the four gates. Gate lat/lng read off the operator's Getting Here gate map, itself fitted to five OpenStreetMap Tube station positions.",
+  "origin": [
+   51.5065,
+   -0.159
+  ],
+  "metresPerDegree": [
+   111259.01031,
+   69346.231477
+  ],
+  "toMap": [
+   [
+    0.0025005806,
+    -0.000028509031,
+    0.42729291
+   ],
+   [
+    0.00031002667,
+    -0.00129528,
+    0.63570164
+   ]
+  ],
+  "controlPoints": [
+   {
+    "id": "gold-gate",
+    "name": "Gold Gate",
+    "lat": 51.509914,
+    "lng": -0.15989,
+    "x": 0.282,
+    "y": 0.118
+   },
+   {
+    "id": "red-gate",
+    "name": "Red Gate",
+    "lat": 51.509156,
+    "lng": -0.157736,
+    "x": 0.617,
+    "y": 0.287
+   },
+   {
+    "id": "green-gate",
+    "name": "Green Gate",
+    "lat": 51.505313,
+    "lng": -0.159673,
+    "x": 0.3,
+    "y": 0.797
+   },
+   {
+    "id": "blue-gate",
+    "name": "Blue Gate",
+    "lat": 51.504605,
+    "lng": -0.156755,
+    "x": 0.838,
+    "y": 0.952
+   }
+  ],
+  "stations": [
+   {
+    "name": "Marble Arch",
+    "osmNode": 6414013291,
+    "lat": 51.513435,
+    "lng": -0.1582531,
+    "gateMapPx": [
+     500.8,
+     67.6
+    ]
+   },
+   {
+    "name": "Hyde Park Corner",
+    "osmNode": 5182456574,
+    "lat": 51.5027264,
+    "lng": -0.1543249,
+    "gateMapPx": [
+     659.7,
+     527.8
+    ]
+   },
+   {
+    "name": "Knightsbridge",
+    "osmNode": 5182384973,
+    "lat": 51.5015961,
+    "lng": -0.160937,
+    "gateMapPx": [
+     440.5,
+     594.7
+    ]
+   },
+   {
+    "name": "Lancaster Gate",
+    "osmNode": 5183350488,
+    "lat": 51.5118427,
+    "lng": -0.1753808,
+    "gateMapPx": [
+     32.3,
+     141.8
+    ]
+   },
+   {
+    "name": "Bond Street",
+    "osmNode": 3076573913,
+    "lat": 51.5139808,
+    "lng": -0.1494231,
+    "gateMapPx": [
+     743.6,
+     29.4
+    ]
+   }
+  ]
+ }
 }
