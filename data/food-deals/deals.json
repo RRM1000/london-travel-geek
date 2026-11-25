@@ -145,24 +145,6 @@
   }
  },
  {
-  "name": "Babur (Sunday buffet)",
-  "slug": null,
-  "site": "https://www.babur.info",
-  "type": "all-you-can-eat",
-  "offer": "Sunday buffet of classic Indian dishes, with a changing weekly menu of starters, mains and desserts",
-  "price": "£27.95 per adult; £18.95 per child aged 7-12",
-  "days": "Sunday",
-  "times": "12:00-16:00",
-  "conditions": "Children under 7 eat free",
-  "branches": "Forest Hill",
-  "endDate": null,
-  "sourceUrl": "https://www.babur.info/menus/sunday-buffet",
-  "checked": "2026-11-12",
-  "quote": "£27.95 for adults and £18.95 for children 7 – 12 years old – children under 7 eat for free. Noon till 4pm",
-  "style": "indian",
-  "area": "Forest Hill"
- },
- {
   "name": "Belushi's",
   "slug": null,
   "site": "https://belushis.com/",
@@ -447,31 +429,14 @@
   "checked": "2026-11-22",
   "quote": "STANDARD · £33.99 MON - WED, ALL DAY THUR - SUN, Pay and leave before 18:00 (last seating at 16:30 ) or be seated after 21:00",
   "style": "hot-pot",
-  "area": "Fitzrovia"
- },
- {
-  "name": "Da Long Yi",
-  "slug": null,
-  "site": null,
-  "type": "all-you-can-eat",
-  "offer": "Sichuan hot pot",
-  "price": null,
-  "days": null,
-  "times": null,
-  "conditions": null,
-  "branches": null,
-  "endDate": null,
-  "sourceUrl": null,
-  "checked": "2026-11-23",
-  "quote": null,
-  "origin": "page",
+  "area": "Fitzrovia",
   "show": {
    "all-you-can-eat-london#every-offer-side-by-side": {
     "pos": 14,
     "cells": [
      "Da Long Yi, Fitzrovia",
      "Sichuan hot pot",
-     "£28.99",
+     "£33.99",
      "–"
     ]
    }
@@ -846,6 +811,14 @@
   "style": "tapas",
   "area": null,
   "show": {
+   "food-deals-london#tuesday": {
+    "pos": 3,
+    "cells": [
+     "[Las Iguanas](https://www.iguanas.co.uk/)",
+     "Bottomless Tapas",
+     "All branches; see [bottomless brunch](/articles/bottomless-brunch-london/) for how bottomless deals work"
+    ]
+   },
    "all-you-can-eat-london#every-offer-side-by-side": {
     "pos": 4,
     "cells": [
@@ -856,24 +829,6 @@
     ]
    }
   }
- },
- {
-  "name": "Las Iguanas (Tapas Tuesdays)",
-  "slug": null,
-  "site": "https://www.iguanas.co.uk",
-  "type": "all-you-can-eat",
-  "offer": "90 minutes of bottomless Latin American tapas",
-  "price": "From £17 per person",
-  "days": "Tuesday",
-  "times": null,
-  "conditions": "Pre-booking essential. Prices may vary at select locations",
-  "branches": "Participating Las Iguanas restaurants",
-  "endDate": null,
-  "sourceUrl": "https://www.iguanas.co.uk/bottomless-tapas",
-  "checked": "2026-11-12",
-  "quote": "Enjoy 90 minutes of nonstop plates and big flavours from just £17pp.",
-  "style": "tapas",
-  "area": "Various"
  },
  {
   "name": "Market Place Food Hall Vauxhall",
@@ -1066,24 +1021,6 @@
     ]
    }
   }
- },
- {
-  "name": "Ping Pong (Lazy Sumday)",
-  "slug": null,
-  "site": "https://www.pingpongdimsum.com",
-  "type": "all-you-can-eat",
-  "offer": "Unlimited dim sum from a selected menu of classic buns, dumplings and bowls",
-  "price": "£29.95 per adult; £12.95 under 12s",
-  "days": "Every Sunday and bank holiday Monday",
-  "times": "All day",
-  "conditions": "Offered at 4 of its London restaurants. A 2-hour table limit may be imposed. Bottle of bubbly upgrade £15 (over 18s, one bottle per person). Cannot be combined with other offers; items cannot be substituted",
-  "branches": "4 of its London restaurants",
-  "endDate": null,
-  "sourceUrl": "https://www.pingpongdimsum.com/lazy-sumday/",
-  "checked": "2026-11-12",
-  "quote": "Every Sunday and bank holiday Monday, indulge in unlimited dim sum at 4 of our London restaurants for only £29.95 per adult and £12.95 for under 12s.",
-  "style": "dim-sum",
-  "area": "Various"
  },
  {
   "name": "Pizza Pilgrims",
@@ -1667,22 +1604,6 @@
   }
  },
  {
-  "name": "Bubbleology",
-  "slug": null,
-  "site": "https://bubbleology.co.uk/",
-  "type": "app-reward",
-  "offer": "Loyalty app: every drink earns 10 points and 90 points buys a free regular fruit or milk tea with tapioca.",
-  "price": null,
-  "days": null,
-  "times": null,
-  "conditions": "Standard regular size fruit or milk tea with tapioca.",
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://bubbleology.co.uk/loyalty/",
-  "checked": "2026-11-12",
-  "quote": "Every drink purchase earns you 10 points. Collect 90 points and enjoy a free standard regular size fruit or milk tea with tapioca"
- },
- {
   "name": "Caffè Nero",
   "slug": null,
   "site": "https://www.caffenero.com/uk",
@@ -2011,22 +1932,6 @@
   }
  },
  {
-  "name": "Itsu",
-  "slug": null,
-  "site": "https://www.itsu.com/",
-  "type": "app-reward",
-  "offer": "itsu app: a butterfly for each visit spending £5 or more; 3 butterflies give a free snack or drink, 5 a free gyoza, 7 a free itsu meal; double butterflies every evening after 5pm.",
-  "price": null,
-  "days": null,
-  "times": "double butterflies after 5pm",
-  "conditions": "Scan app at till or kiosk; one butterfly per transaction.",
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://www.itsu.com/faq/",
-  "checked": "2026-11-12",
-  "quote": "Once you have collected 3 butterflies you will receive a free snack or drink of your choice, free gyoza on your 5th butterfly and a free itsu meal on your 7th."
- },
- {
   "name": "Ixchel",
   "slug": "ixchel",
   "site": "https://www.ixchellondon.com/",
@@ -2068,6 +1973,14 @@
   "checked": "2026-11-11",
   "quote": "Every £1 earns you a point. ... 15 points: Free marshmallow, 45 points: Free drink, 100 points: Free Flakes Tube.",
   "show": {
+   "food-deals-london#stamps-and-points": {
+    "pos": 12,
+    "cells": [
+     "[Knoops](https://knoops.com/pages/loyalty-app)",
+     "1 point per £1: 15 points for a free marshmallow, 45 for a free drink, 100 for a free Flakes Tube",
+     "Knoops app. Covent Garden"
+    ]
+   },
    "birthday-freebies-london#deals": {
     "pos": 7,
     "cells": [
@@ -2095,33 +2008,6 @@
   "quote": "Receive 50% off selected coffees at all Knoops stores when ordering through the loyalty app. This offer is available from store opening until 12pm (midday)"
  },
  {
-  "name": "Knoops",
-  "slug": null,
-  "site": "https://knoops.com/",
-  "type": "app-reward",
-  "offer": "1 point per £1: 15 points for a free marshmallow, 45 for a free drink, 100 for a free Flakes Tube",
-  "price": null,
-  "days": null,
-  "times": null,
-  "conditions": null,
-  "branches": null,
-  "endDate": null,
-  "sourceUrl": "https://knoops.com/pages/loyalty-app",
-  "checked": "2026-11-23",
-  "quote": null,
-  "origin": "page",
-  "show": {
-   "food-deals-london#stamps-and-points": {
-    "pos": 12,
-    "cells": [
-     "[Knoops](https://knoops.com/pages/loyalty-app)",
-     "1 point per £1: 15 points for a free marshmallow, 45 for a free drink, 100 for a free Flakes Tube",
-     "Knoops app. Covent Garden"
-    ]
-   }
-  }
- },
- {
   "name": "Las Iguanas",
   "slug": null,
   "site": "https://www.iguanas.co.uk/",
@@ -2133,14 +2019,14 @@
   "conditions": "Las Iguanas app",
   "branches": "all",
   "endDate": null,
-  "sourceUrl": "https://www.iguanas.co.uk/",
+  "sourceUrl": "https://www.iguanas.co.uk/app",
   "checked": "2026-11-11",
-  "quote": "Download our app and get a FREE MAIN. You’ll also unlock a £20 voucher for your birthday",
+  "quote": "FREE MAIN when you download the app ... £20 OFF on your birthday",
   "show": {
    "food-deals-london#a-reward-for-joining": {
     "pos": 1,
     "cells": [
-     "[Las Iguanas](https://www.iguanas.co.uk/)",
+     "[Las Iguanas](https://www.iguanas.co.uk/app)",
      "A free main for downloading the app",
      "Las Iguanas app. All branches"
     ]
@@ -2148,7 +2034,7 @@
    "birthday-freebies-london#deals": {
     "pos": 0,
     "cells": [
-     "[Las Iguanas](https://www.iguanas.co.uk/)",
+     "[Las Iguanas](https://www.iguanas.co.uk/app)",
      "A £20 birthday voucher",
      "Las Iguanas app. All branches"
     ]
@@ -2345,22 +2231,6 @@
   "days": null,
   "times": null,
   "conditions": "One per customer sign-up; redeemed in the restaurant by staff; minimum spend £10",
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://www.shoryuramen.com/deals",
-  "checked": "2026-11-11",
-  "quote": "Get a free Matcha Affogato when you sign up to Shoryu's Loyalty Club app."
- },
- {
-  "name": "Shoryu Ramen",
-  "slug": "shoryu-ramen",
-  "site": "https://www.shoryuramen.com/stores/11-soho",
-  "type": "app-reward",
-  "offer": "Free matcha affogato when you join the loyalty app",
-  "price": "free",
-  "days": null,
-  "times": null,
-  "conditions": "One per sign-up; redeem on site; £10 minimum spend",
   "branches": "all",
   "endDate": null,
   "sourceUrl": "https://www.shoryuramen.com/deals",
@@ -2656,22 +2526,6 @@
   "slug": null,
   "site": "https://www.wasabi.uk.com/",
   "type": "app-reward",
-  "offer": "Wasabi Rewards: points on every penny spent, redeemable against drinks, sushi and hot dishes.",
-  "price": null,
-  "days": null,
-  "times": null,
-  "conditions": "Not available at airport locations.",
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://www.wasabi.uk.com/wasabi-rewards/",
-  "checked": "2026-11-12",
-  "quote": "Join Wasabi Rewards today and collect points for every penny you spend!"
- },
- {
-  "name": "Wasabi",
-  "slug": null,
-  "site": "https://www.wasabi.uk.com/",
-  "type": "app-reward",
   "offer": "Wasabi Rewards earns 1 point per penny spent. 4,000 points gets a free drink or snack, 8,000 a free small sushi set or side, 15,000 any menu item bar platters.",
   "price": null,
   "days": null,
@@ -2708,22 +2562,6 @@
     ]
    }
   }
- },
- {
-  "name": "WatchHouse",
-  "slug": null,
-  "site": "https://watchhouse.com/",
-  "type": "app-reward",
-  "offer": "Loyalty stamps: collect six stamps and get one coffee free.",
-  "price": null,
-  "days": null,
-  "times": null,
-  "conditions": null,
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://watchhouse.com/",
-  "checked": "2026-11-12",
-  "quote": "Six stamps, one coffee on the House."
  },
  {
   "name": "Workshop Coffee",
@@ -3792,14 +3630,14 @@
   "type": "bottomless",
   "offer": "Student bottomless brunch: 2 hours of unlimited drinks",
   "price": "£24.95",
-  "days": null,
+  "days": "Sunday to Thursday",
   "times": "2 hours",
-  "conditions": "Student ID",
+  "conditions": "Student ID; pre-booking essential; not New Year's Eve",
   "branches": "all",
   "endDate": null,
-  "sourceUrl": "https://www.iguanas.co.uk/",
+  "sourceUrl": "https://www.iguanas.co.uk/students",
   "checked": "2026-11-11",
-  "quote": "Student Bottomless Brunch has had a serious upgrade. Now £24.95 for 2-hours of unlimited fun.",
+  "quote": "Student Bottomless Brunch Sunday to Thursday | 2-Hours of Bottomless Drinks Just £24.95",
   "show": {
    "bottomless-brunch-london#every-price-side-by-side": {
     "pos": 3,
@@ -3809,7 +3647,7 @@
      "£24.95",
      "120",
      "£0.21",
-     "Main dish, student ID, Mon–Thu"
+     "Main dish, student ID, Sun–Thu"
     ]
    }
   }
@@ -5465,32 +5303,6 @@
   }
  },
  {
-  "name": "Las Iguanas",
-  "slug": null,
-  "site": "https://www.iguanas.co.uk/",
-  "type": "day-deal",
-  "offer": "Bottomless Tapas",
-  "price": null,
-  "days": "Tue",
-  "times": null,
-  "conditions": null,
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://www.iguanas.co.uk/",
-  "checked": "2026-11-11",
-  "quote": "Our cult-classic Bottomless Tapas is on every Tuesday.",
-  "show": {
-   "food-deals-london#tuesday": {
-    "pos": 3,
-    "cells": [
-     "[Las Iguanas](https://www.iguanas.co.uk/)",
-     "Bottomless Tapas",
-     "All branches; see [bottomless brunch](/articles/bottomless-brunch-london/) for how bottomless deals work"
-    ]
-   }
-  }
- },
- {
   "name": "Locke Canary Wharf (LUQA Negroni Sunset Sessions)",
   "slug": "locke-canary-wharf",
   "site": "https://www.lockeliving.com",
@@ -6304,24 +6116,24 @@
   "slug": null,
   "site": "https://www.frankieandbennys.com/",
   "type": "discount-group",
-  "offer": "Student discount: 30% off food all year (40% until 12 November)",
-  "price": null,
-  "days": "Sun–Thu (40% offer)",
+  "offer": "Student discount: 30% off food, Sunday to Thursday, all year",
+  "price": "30% off food",
+  "days": "Sun–Thu",
   "times": null,
-  "conditions": "Valid student ID; sign up for a code",
+  "conditions": "Valid student ID; sign up for a code; minimum two mains from the core menu",
   "branches": "all",
   "endDate": null,
   "sourceUrl": "https://www.frankieandbennys.com/student-discount",
   "checked": "2026-11-11",
-  "quote": "Outside of this promotional period, we offer 30% off food for students all year round.",
+  "quote": "your Frankie & Benny's student discount gets you 30% off food, Sunday-Thursday, all year round",
   "show": {
    "student-discounts-london#deals": {
     "pos": 2,
     "cells": [
      "[Frankie & Benny's](https://www.frankieandbennys.com/student-discount)",
      "30% off food",
-     "Any day",
-     "Valid student ID; sign up for a code. All branches"
+     "Sunday to Thursday",
+     "Valid student ID; sign up for a code; minimum two mains from the core menu. All branches"
     ]
    }
   }
@@ -6338,14 +6150,14 @@
   "conditions": "Show Blue Light Card or eligible service ID",
   "branches": "all",
   "endDate": null,
-  "sourceUrl": "https://www.frankieandbennys.com/offers",
+  "sourceUrl": "https://www.frankieandbennys.com/emergency-services",
   "checked": "2026-11-11",
-  "quote": "Enjoy a boosted 20% OFF THE BILL, available all day, every day, all year round.",
+  "quote": "Enjoy 20% off the bill when you show a valid Blue Light Card or eligible service ID.",
   "show": {
    "restaurant-discount-cards-london#blue-light-card": {
     "pos": 1,
     "cells": [
-     "[Frankie & Benny's](https://www.frankieandbennys.com/offers)",
+     "[Frankie & Benny's](https://www.frankieandbennys.com/emergency-services)",
      "20% off the bill",
      "Every day, all day",
      "Blue Light Card or eligible service ID. All branches"
@@ -6916,22 +6728,6 @@
   "endDate": null,
   "sourceUrl": "https://www.shoryuramen.com/deals",
   "checked": "2026-11-11",
-  "quote": "Student Beans members get 30% off food every Monday, Tuesday and Wednesday, or 15% off food Thursday to Sunday."
- },
- {
-  "name": "Shoryu Ramen",
-  "slug": "shoryu-ramen",
-  "site": "https://www.shoryuramen.com/stores/11-soho",
-  "type": "discount-group",
-  "offer": "Student Beans: 30% off food Mon–Wed, 15% off Thu–Sun",
-  "price": null,
-  "days": "daily",
-  "times": "all day",
-  "conditions": "Student Beans ID; tables up to six; not on set menus; can combine with happy hour",
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://www.shoryuramen.com/deals",
-  "checked": "2026-11-11",
   "quote": "Student Beans members get 30% off food every Monday, Tuesday and Wednesday, or 15% off food Thursday to Sunday.",
   "show": {
    "student-discounts-london#deals": {
@@ -6986,7 +6782,18 @@
   "endDate": null,
   "sourceUrl": "https://www.therealgreek.com/offers/",
   "checked": "2026-11-12",
-  "quote": "25% off Main Menu food for NHS, Police and Fire Brigade workers!"
+  "quote": "25% off Main Menu food for NHS, Police and Fire Brigade workers!",
+  "show": {
+   "restaurant-discount-cards-london#blue-light-card": {
+    "pos": 6,
+    "cells": [
+     "[The Real Greek](https://www.therealgreek.com/offers/)",
+     "25% off the main menu",
+     "Every day",
+     "NHS, police and fire brigade ID; dine-in; one card per table. All branches"
+    ]
+   }
+  }
  },
  {
   "name": "The Real Greek",
@@ -7011,34 +6818,6 @@
      "25% off the main menu",
      "Sunday to Thursday",
      "One student ID per four guests; dine-in; not the lunch or Filoxenia menus. All branches"
-    ]
-   }
-  }
- },
- {
-  "name": "The Real Greek",
-  "slug": null,
-  "site": "https://therealgreek.com/",
-  "type": "discount-group",
-  "offer": "25% off the main menu",
-  "price": null,
-  "days": null,
-  "times": null,
-  "conditions": null,
-  "branches": null,
-  "endDate": null,
-  "sourceUrl": "https://www.therealgreek.com/offers/",
-  "checked": "2026-11-23",
-  "quote": null,
-  "origin": "page",
-  "show": {
-   "restaurant-discount-cards-london#blue-light-card": {
-    "pos": 6,
-    "cells": [
-     "[The Real Greek](https://www.therealgreek.com/offers/)",
-     "25% off the main menu",
-     "Every day",
-     "NHS, police and fire brigade ID; dine-in; one card per table. All branches"
     ]
    }
   }
@@ -7785,7 +7564,17 @@
   "endDate": null,
   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
   "checked": "2026-11-12",
-  "quote": "Ease into the evening with 2 for £20 Spritz, available every day, from 3pm to 5pm."
+  "quote": "Ease into the evening with 2 for £20 Spritz, available every day, from 3pm to 5pm.",
+  "show": {
+   "happy-hour-london#every-happy-hour-at-a-glance": {
+    "pos": 31,
+    "cells": [
+     "**Market Halls**, Four halls",
+     "Daily 3–5pm (spritz) and from 8pm (pints)",
+     "Two spritzes £20; selected draught pints £5"
+    ]
+   }
+  }
  },
  {
   "name": "Market Halls",
@@ -7801,81 +7590,8 @@
   "endDate": null,
   "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
   "checked": "2026-11-12",
-  "quote": "From 8pm at Market Halls Paddington, Market Halls Oxford Street & Market Halls Canary Wharf, enjoy £5 pints on selected draft beers, every day"
- },
- {
-  "name": "Market Halls Paddington",
-  "slug": "market-halls-paddington",
-  "site": "https://markethalls.co.uk/venue/paddington/",
-  "type": "happy-hour",
-  "offer": "2 spritz for £20",
-  "price": "£20 for 2 spritz",
-  "days": "daily",
-  "times": "15:00–17:00",
-  "conditions": "Hall Pass app member; selected spritz only; not on bank holidays; not Victoria",
-  "branches": "Paddington, Oxford Street, Canary Wharf",
-  "endDate": null,
-  "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
-  "checked": "2026-11-11",
-  "quote": "Ease into the evening with 2 for £20 Spritz, available every day, from 3pm to 5pm.",
-  "show": {
-   "happy-hour-london#every-happy-hour-at-a-glance": {
-    "pos": 31,
-    "cells": [
-     "**Market Halls**, Four halls",
-     "Daily 3–5pm (spritz) and from 8pm (pints)",
-     "Two spritzes £20; selected draught pints £5"
-    ]
-   }
-  }
- },
- {
-  "name": "Market Halls Paddington",
-  "slug": "market-halls-paddington",
-  "site": "https://markethalls.co.uk/venue/paddington/",
-  "type": "happy-hour",
-  "offer": "£5 pints on selected draught beers",
-  "price": "£5 a pint",
-  "days": "daily",
-  "times": "from 20:00",
-  "conditions": "Hall Pass app member; Paddington, Oxford Street and Canary Wharf; not on bank holidays",
-  "branches": "Paddington, Oxford Street, Canary Wharf",
-  "endDate": null,
-  "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
-  "checked": "2026-11-11",
-  "quote": "From 8pm at Market Halls Paddington, Market Halls Oxford Street & Market Halls Canary Wharf, enjoy £5 pints on selected draft beers, every day"
- },
- {
-  "name": "Market Halls Victoria",
-  "slug": "market-halls-victoria",
-  "site": "https://markethalls.co.uk/",
-  "type": "happy-hour",
-  "offer": "2 Spritz for £20 (Aperol, Campari, Hugo, Pimms or Sarti Spritz)",
-  "price": "£20 for 2",
-  "days": "daily",
-  "times": "15:00–17:00",
-  "conditions": "Hall Pass app",
-  "branches": "all Market Halls",
-  "endDate": null,
-  "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
-  "checked": "2026-11-11",
-  "quote": "2 Spritz for £20 (3pm–5pm) ... available every day, from 3pm to 5pm."
- },
- {
-  "name": "Market Halls Victoria",
-  "slug": "market-halls-victoria",
-  "site": "https://markethalls.co.uk/",
-  "type": "happy-hour",
-  "offer": "£5 pints on selected draught beers",
-  "price": "£5 per pint",
-  "days": "daily",
-  "times": "from 20:00",
-  "conditions": "Selected draught beers (not bottles or cans)",
-  "branches": "Paddington, Oxford Street, Canary Wharf",
-  "endDate": null,
-  "sourceUrl": "https://markethalls.co.uk/happy-hour-london-market-halls/",
-  "checked": "2026-11-11",
-  "quote": "From 8pm at Market Halls Paddington, Market Halls Oxford Street & Market Halls Canary Wharf, enjoy £5 pints on selected draft beers, every day"
+  "quote": "From 8pm at Market Halls Paddington, Market Halls Oxford Street & Market Halls Canary Wharf, enjoy £5 pints on selected draft beers, every day",
+  "show": {}
  },
  {
   "name": "MEATliquor",
@@ -8287,10 +8003,10 @@
   "slug": null,
   "site": "https://www.simmonsbar.co.uk/",
   "type": "happy-hour",
-  "offer": "Happy hour: 2-for-1 cocktails, £2.50 spirit and mixer, £3 wine and bottled beer, £4 pints, £12 bottles of wine",
-  "price": "2-for-1 cocktails; spirit and mixer £2.50; wine or bottled beer £3; lager £4 a pint; wine £12 a bottle; prosecco £20",
+  "offer": "Happy hour: 2-for-1 cocktails, £3.50 spirit and mixer, wine and bottled beer, £4 pints, £14 bottles of wine, £18 cocktail teapots",
+  "price": "2-for-1 cocktails; spirit and mixer £3.50; wine or bottled beer £3.50; lager £4 a pint; wine £14 a bottle; teapots £18; prosecco £20",
   "days": "Sun–Fri (Saturday: 2-for-1 cocktails and £18 teapots only)",
-  "times": "16:00-21:00 (15:00-20:00 at West End bars)",
+  "times": "16:00-21:00 (15:00-20:00 in the West End, Bank and Monument)",
   "conditions": null,
   "branches": "all",
   "endDate": null,
@@ -8766,22 +8482,6 @@
  },
  {
   "name": "Kricket",
-  "slug": "kricket",
-  "site": "https://kricketrestaurants.com/",
-  "type": "kids-eat-free",
-  "offer": "Kids eat free every school holiday when adults dine",
-  "price": "free",
-  "days": "school holidays",
-  "times": null,
-  "conditions": null,
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://kricketrestaurants.com/discover/",
-  "checked": "2026-11-11",
-  "quote": "Kids Eat Free at Kricket every school holidays, when adults dine."
- },
- {
-  "name": "Kricket",
   "slug": null,
   "site": "https://kricketrestaurants.com/",
   "type": "kids-eat-free",
@@ -8808,9 +8508,9 @@
   "conditions": "Las Iguanas app",
   "branches": "all",
   "endDate": null,
-  "sourceUrl": "https://www.iguanas.co.uk/",
+  "sourceUrl": "https://www.iguanas.co.uk/app",
   "checked": "2026-11-11",
-  "quote": "Kids Eat Free 7 days a week, all year long with our Las Iguanas App.",
+  "quote": "KIDS EAT FREE",
   "show": {
    "kids-eat-free-london#every-offer-at-a-glance": {
     "pos": 1,
@@ -8922,14 +8622,14 @@
   "slug": null,
   "site": null,
   "type": "kids-eat-free",
-  "offer": "2 children free per paying adult",
-  "price": null,
+  "offer": "Up to two children eat breakfast free when an adult orders a Premier Inn Breakfast",
+  "price": "Free",
   "days": null,
-  "times": null,
-  "conditions": null,
-  "branches": null,
+  "times": "Breakfast",
+  "conditions": "Under 16s; up to two per adult buying a full Premier Inn Breakfast or Meal Deal",
+  "branches": "London County Hall; London Wembley Stadium; other London hotels vary",
   "endDate": null,
-  "sourceUrl": null,
+  "sourceUrl": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html",
   "checked": "2026-11-23",
   "quote": null,
   "origin": "page",
@@ -8945,38 +8645,6 @@
     ]
    }
   }
- },
- {
-  "name": "Premier Inn London County Hall",
-  "slug": "premier-inn-county-hall",
-  "site": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html",
-  "type": "kids-eat-free",
-  "offer": "Up to two children eat breakfast free when an adult orders a Premier Inn Breakfast",
-  "price": "Free",
-  "days": null,
-  "times": "Breakfast",
-  "conditions": "Under 16s; up to two per adult buying a full Premier Inn Breakfast or Meal Deal",
-  "branches": "London County Hall",
-  "endDate": null,
-  "sourceUrl": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-county-hall.html",
-  "checked": "2026-11-24",
-  "quote": "Plus, when an adult orders a Premier Inn Breakfast, up to two kids eat breakfast for free**"
- },
- {
-  "name": "Premier Inn London Wembley Stadium",
-  "slug": "premier-inn-london-wembley-stadium",
-  "site": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-stadium.html",
-  "type": "kids-eat-free",
-  "offer": "Up to two children eat breakfast free when an adult orders a Premier Inn Breakfast",
-  "price": "Free",
-  "days": null,
-  "times": "Breakfast",
-  "conditions": "Under 16s; up to two per adult buying a full Premier Inn Breakfast or Meal Deal",
-  "branches": "London Wembley Stadium",
-  "endDate": null,
-  "sourceUrl": "https://www.premierinn.com/gb/en/hotels/england/greater-london/london/london-wembley-stadium.html",
-  "checked": "2026-11-24",
-  "quote": "Plus, when an adult orders a Premier Inn Breakfast, up to two kids eat breakfast for free**"
  },
  {
   "name": "Preto",
@@ -9675,32 +9343,6 @@
   }
  },
  {
-  "name": "The Mayfair Chippy",
-  "slug": "the-mayfair-chippy",
-  "site": "https://www.mayfairchippy.com/",
-  "type": "other",
-  "offer": "Free takeaway fish and chips for black cab drivers on Tuesdays in November",
-  "price": "Free",
-  "days": "Tue (17 and 24 Nov remaining)",
-  "times": "all day",
-  "conditions": "Valid badge or licence; takeaway only; first 50 cabbies each week",
-  "branches": "Mayfair",
-  "endDate": "2026-11-24",
-  "sourceUrl": "https://www.mayfairchippy.com/supporting-black-cabs",
-  "checked": "2026-11-11",
-  "quote": "Every Tuesday in November, your lunch or dinner is on us. Show your badge or licence ... free fish and chips to take away.",
-  "show": {
-   "food-deals-london#tuesday": {
-    "pos": 5,
-    "cells": [
-     "[The Mayfair Chippy](https://www.mayfairchippy.com/supporting-black-cabs)",
-     "Free takeaway fish and chips for black cab drivers",
-     "Valid badge or licence; takeaway only; first 50 cabbies each week; Tuesday 17 and 24 November 2026 only. Mayfair"
-    ]
-   }
-  }
- },
- {
   "name": "Zizzi",
   "slug": null,
   "site": "https://www.zizzi.co.uk/",
@@ -9935,33 +9577,6 @@
   "slug": null,
   "site": "https://www.frankieandbennys.com/",
   "type": "percent-off",
-  "offer": "50% off all burgers plus 90 minutes of unlimited fries",
-  "price": null,
-  "days": null,
-  "times": "90 minutes",
-  "conditions": "November only",
-  "branches": "all",
-  "endDate": "2026-11-30",
-  "sourceUrl": "https://www.frankieandbennys.com/offers",
-  "checked": "2026-11-11",
-  "quote": "This November, we’re serving up 50% OFF ALL BURGERS + UNLIMITED FRIES",
-  "show": {
-   "food-deals-london#percentage-off-deals": {
-    "pos": 0,
-    "cells": [
-     "[Frankie & Benny's](https://www.frankieandbennys.com/offers)",
-     "50% off all burgers, with 90 minutes of unlimited fries",
-     "Until 30 November 2026",
-     "All branches"
-    ]
-   }
-  }
- },
- {
-  "name": "Frankie & Benny's",
-  "slug": null,
-  "site": "https://www.frankieandbennys.com/",
-  "type": "percent-off",
   "offer": "30% off mains in the movie-and-a-meal deal",
   "price": null,
   "days": null,
@@ -10162,31 +9777,15 @@
  },
  {
   "name": "Shoryu Ramen",
-  "slug": null,
-  "site": "https://www.shoryuramen.com/",
-  "type": "percent-off",
-  "offer": "20% off the total bill when showing a valid theatre or cinema ticket",
-  "price": "20% off the bill",
-  "days": null,
-  "times": null,
-  "conditions": "One ticket covers up to 6 people; not with other offers, set menus or seasonal specials",
-  "branches": "Soho, Regent Street and Covent Garden",
-  "endDate": null,
-  "sourceUrl": "https://www.shoryuramen.com/deals",
-  "checked": "2026-11-11",
-  "quote": "we’ll take 20% off your total bill"
- },
- {
-  "name": "Shoryu Ramen",
   "slug": "shoryu-ramen",
   "site": "https://www.shoryuramen.com/stores/11-soho",
   "type": "percent-off",
   "offer": "20% off the total bill with a theatre or cinema ticket (one ticket covers up to 6 people)",
-  "price": null,
+  "price": "20% off the bill",
   "days": null,
   "times": null,
   "conditions": "Valid theatre or cinema ticket; not with other offers",
-  "branches": "Soho, Regent Street, Covent Garden",
+  "branches": "Soho, Regent Street and Covent Garden",
   "endDate": null,
   "sourceUrl": "https://www.shoryuramen.com/deals",
   "checked": "2026-11-11",
@@ -10509,22 +10108,6 @@
     ]
    }
   }
- },
- {
-  "name": "Hawksmoor",
-  "slug": "hawksmoor",
-  "site": "https://thehawksmoor.com/locations/spitalfields/?y_source=1_MjQyMjUwMzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-  "type": "pre-theatre",
-  "offer": "Early evening set menu: 2 or 3 courses",
-  "price": "£26 / £30",
-  "days": null,
-  "times": "early evening",
-  "conditions": "Check individual restaurants for availability and timings",
-  "branches": "most branches",
-  "endDate": null,
-  "sourceUrl": "https://thehawksmoor.com/",
-  "checked": "2026-11-11",
-  "quote": "Early evening set menu 2/3 courses for £26/£30"
  },
  {
   "name": "Henri",
@@ -11774,22 +11357,6 @@
   }
  },
  {
-  "name": "Dishoom",
-  "slug": "dishoom",
-  "site": "https://www.dishoom.com/covent-garden/?utm_source=google&utm_medium=organic&utm_campaign=Yext&utm_content=D1-CoventGarden&y_source=1_MjMwNDkyMDMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-  "type": "set-menu",
-  "offer": "Lunch set menus for two to share: Swift Vitality and Prompt Replenishment",
-  "price": "£16 per person (Swift Vitality); £20 per person (Prompt Replenishment)",
-  "days": null,
-  "times": "lunch",
-  "conditions": "Each serves two; bookable",
-  "branches": "selected branches",
-  "endDate": null,
-  "sourceUrl": "https://www.dishoom.com/menu/lunch-set-menu/",
-  "checked": "2026-11-11",
-  "quote": "Our Swift Vitality lunch serves two and is £16 per person. Our Prompt Replenishment lunch serves two and is £20 per person."
- },
- {
   "name": "Fallow",
   "slug": "fallow",
   "site": "https://fallowrestaurant.com/",
@@ -11961,42 +11528,26 @@
  },
  {
   "name": "Hawksmoor",
-  "slug": null,
-  "site": "https://thehawksmoor.com/",
-  "type": "set-menu",
-  "offer": "Lunch set menu (1/2/3 courses) and early evening set menu (2/3 courses)",
-  "price": "£21/£26/£30 lunch; £26/£30 early evening",
-  "days": null,
-  "times": null,
-  "conditions": null,
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://thehawksmoor.com/",
-  "checked": "2026-11-11",
-  "quote": "Lunch set menu 1/2/3 courses for £21/£26/£30 & Early evening set menu 2/3 courses for £26/30"
- },
- {
-  "name": "Hawksmoor",
   "slug": "hawksmoor",
   "site": "https://thehawksmoor.com/locations/spitalfields/?y_source=1_MjQyMjUwMzItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
   "type": "set-menu",
-  "offer": "Lunch set menu: 1, 2 or 3 courses",
-  "price": "£21 / £26 / £30",
-  "days": null,
-  "times": "lunch",
+  "offer": "Seasonal set menu: 2 or 3 courses, with a side dish",
+  "price": "£30 / £35",
+  "days": "Mon–Sat",
+  "times": "12:00-17:00",
   "conditions": "Check individual restaurants for availability and timings",
   "branches": "most branches",
   "endDate": null,
-  "sourceUrl": "https://thehawksmoor.com/",
+  "sourceUrl": "https://thehawksmoor.com/set-menus/",
   "checked": "2026-11-11",
-  "quote": "Lunch set menu 1/2/3 courses for £21/£26/£30",
+  "quote": "Seasonal set menu 2/3 courses for £30/£35 Monday - Saturday 12-5pm",
   "show": {
    "restaurant-deals-london#chain-and-mini-chain-set-menus": {
     "pos": 2,
     "cells": [
-     "**Hawksmoor**",
-     "£21 / 1, £26 / 2, £30 / 3 courses. Max seven",
-     "Lunch Mon–Sat 12–3pm. Early evening: 2 courses £26, 3 courses £30"
+     "**[Hawksmoor](https://thehawksmoor.com/set-menus/)**",
+     "£30 / £35 for 2 / 3 courses",
+     "Mon–Sat 12–5pm"
     ]
    }
   }
@@ -12137,23 +11688,23 @@
   "slug": "jamavar",
   "site": "https://jamavarrestaurants.com/london/",
   "type": "set-menu",
-  "offer": "Lunch and early evening menu, three or four courses",
-  "price": "£47–£54 per person",
+  "offer": "Lunch menu, three or four courses",
+  "price": "£50 or £55 per person",
   "days": "daily",
-  "times": "12:00–14:30 and 17:30–18:30",
+  "times": "12:00-14:30",
   "conditions": null,
   "branches": "Mayfair",
   "endDate": null,
   "sourceUrl": "https://jamavarrestaurants.com/london/whats-on/lunch-and-early-evening-at-jamavar/",
   "checked": "2026-11-11",
-  "quote": "available daily from 12pm to 2:30pm and 5:30pm to 6:30pm.",
+  "quote": "Seasonal Menu DATES From 1st of November TIME 12:00pm to 2:30pm COURSE 3 or 4 courses PRICE £50 or £55",
   "show": {
    "restaurant-deals-london#mayfair-st-james-s-marylebone-and-fitzrovia": {
     "pos": 9,
     "cells": [
      "**[Jamavar](https://jamavarrestaurants.com/london/whats-on/lunch-and-early-evening-at-jamavar/)**, Mayfair",
-     "£47–£54 for three or four courses",
-     "Daily 12–2.30pm and 5.30–6.30pm"
+     "£50 / £55 for three or four courses",
+     "Daily 12–2.30pm"
     ]
    }
   }
@@ -12273,16 +11824,16 @@
   "slug": "kricket",
   "site": "https://kricketrestaurants.com/",
   "type": "set-menu",
-  "offer": "Lunch thali",
+  "offer": "Lunch thali with a choice of Chicken Mappas or Grilled Squash Makhani.",
   "price": "£20",
-  "days": null,
+  "days": "daily",
   "times": "lunch",
   "conditions": null,
-  "branches": "selected branches",
+  "branches": "all",
   "endDate": null,
   "sourceUrl": "https://kricketrestaurants.com/",
   "checked": "2026-11-11",
-  "quote": "Our £20 lunch thali refuses to compromise on depth of flavour",
+  "quote": "Our £20 lunch thali ... Available daily across all our London restaurants.",
   "show": {
    "restaurant-deals-london#chain-and-mini-chain-set-menus": {
     "pos": 19,
@@ -12293,22 +11844,6 @@
     ]
    }
   }
- },
- {
-  "name": "Kricket",
-  "slug": null,
-  "site": "https://kricketrestaurants.com/",
-  "type": "set-menu",
-  "offer": "Lunch thali with a choice of Chicken Mappas or Grilled Squash Makhani.",
-  "price": "£20",
-  "days": "daily",
-  "times": "lunch",
-  "conditions": null,
-  "branches": "all",
-  "endDate": null,
-  "sourceUrl": "https://kricketrestaurants.com/",
-  "checked": "2026-11-12",
-  "quote": "Our £20 lunch thali ... Available daily across all our London restaurants."
  },
  {
   "name": "Las Iguanas",
@@ -13556,22 +13091,6 @@
   "sourceUrl": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
   "checked": "2026-11-11",
   "quote": "November Dinner Set Menu offers two courses from £28.50 or three courses from £37.50, including a glass of either Fernão Pires or Castelão Tinto."
- },
- {
-  "name": "The Ivy Collection",
-  "slug": null,
-  "site": "https://ivycollection.com/",
-  "type": "set-menu",
-  "offer": "November lunch and dinner set menus, each including a glass of Fernão Pires or Castelão Tinto.",
-  "price": "Lunch 2 courses from £25, 3 courses from £34; dinner 2 courses from £28.50, 3 courses from £37.50",
-  "days": "Sunday to Friday",
-  "times": "Lunch 11:30am to 5:30pm; dinner from 6pm",
-  "conditions": "Advance booking required.",
-  "branches": "participating Ivy Collection restaurants",
-  "endDate": "2026-11-27",
-  "sourceUrl": "https://ivycollection.com/events-at-the-ivy/november-set-menu/",
-  "checked": "2026-11-12",
-  "quote": "the November Lunch Set Menu offers two courses from £25 or three courses from £34, with the November Dinner Set Menu offers two courses from £28.50 or three courses from £37.50"
  },
  {
   "name": "The Ivy West Street",
