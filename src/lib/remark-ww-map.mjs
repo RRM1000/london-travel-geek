@@ -75,6 +75,7 @@ function mapHtml(data) {
 <button type="button" class="wwmap__btn" data-wwmap-night aria-pressed="false">Night</button>
 <button type="button" class="wwmap__btn" data-wwmap-tilt aria-pressed="false">Top-down</button>
 <button type="button" class="wwmap__btn" data-wwmap-reset>Reset</button>
+<button type="button" class="wwmap__btn" data-wwmap-full aria-pressed="false">Full screen</button>
 </div>
 <div class="wwmap__popup" data-wwmap-popup role="dialog" aria-live="polite" hidden></div>
 <p class="wwmap__geo" data-wwmap-geo aria-live="polite" hidden></p>

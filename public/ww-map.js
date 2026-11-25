@@ -76,6 +76,7 @@ function init(data) {
   const nightBtn = root.querySelector("[data-wwmap-night]");
   const resetBtn = root.querySelector("[data-wwmap-reset]");
   const locateBtn = root.querySelector("[data-wwmap-locate]");
+  const fullBtn = root.querySelector("[data-wwmap-full]");
   const geoLine = root.querySelector("[data-wwmap-geo]");
   const search = root.querySelector("[data-wwmap-search]");
   const typeChips = [...root.querySelectorAll("[data-wwmap-chip]")];
@@ -1646,7 +1647,27 @@ function init(data) {
       if (r.bottom < 0 || r.top > window.innerHeight * 0.5) stage.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "start" });
     });
   }
-  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && selectedId) select(null); });
+  // Full screen: the stage covers the whole viewport (CSS, so it works on iPhone too).
+  // A history entry lets the phone's back gesture close it instead of leaving the page.
+  let full = false;
+  function setFull(on, fromHistory) {
+    if (on === full) return;
+    full = on;
+    stage.classList.toggle("is-full", on);
+    document.documentElement.classList.toggle("wwmap-full-open", on);
+    fullBtn.textContent = on ? "Exit full screen" : "Full screen";
+    fullBtn.setAttribute("aria-pressed", String(on));
+    if (on) history.pushState({ wwmapFull: true }, "");
+    else if (!fromHistory && history.state?.wwmapFull) history.back();
+    resize();
+  }
+  fullBtn?.addEventListener("click", () => setFull(!full));
+  window.addEventListener("popstate", () => { if (full) setFull(false, true); });
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape") return;
+    if (selectedId) select(null);
+    else if (full) setFull(false);
+  });
 
   // Tap or click: a short press without movement picks the item under the pointer.
   const ray = new THREE.Raycaster();
