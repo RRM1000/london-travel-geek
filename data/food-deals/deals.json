@@ -11253,22 +11253,6 @@
   }
  },
  {
-  "name": "Barbarella",
-  "slug": "barbarella",
-  "site": "https://www.bigmammagroup.com/italian-restaurants/barbarella",
-  "type": "set-menu",
-  "offer": "Pranzetto lunch set menu",
-  "price": "from £17",
-  "days": "Mon–Fri",
-  "times": "12:00–15:00",
-  "conditions": null,
-  "branches": "Barbarella",
-  "endDate": null,
-  "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/barbarella",
-  "checked": "2026-11-11",
-  "quote": "Available Monday to Friday, from 12:00 to 15:00, from £17."
- },
- {
   "name": "Big Easy",
   "slug": null,
   "site": "https://www.bigeasy.co.uk/",
@@ -11598,22 +11582,6 @@
   }
  },
  {
-  "name": "Carlotta",
-  "slug": "carlotta",
-  "site": "https://www.bigmammagroup.com/italian-restaurants/carlotta",
-  "type": "set-menu",
-  "offer": "Pranzetto lunch set menu",
-  "price": "£27",
-  "days": "Mon–Fri",
-  "times": "12:00–14:45 (Fri until 16:30)",
-  "conditions": null,
-  "branches": "Marylebone",
-  "endDate": null,
-  "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/carlotta",
-  "checked": "2026-11-11",
-  "quote": "Available from Monday to Friday from 12:00 to 14:45, and Friday from 12:00 to 16:30, £27."
- },
- {
   "name": "Chez Bruce",
   "slug": "chez-bruce",
   "site": "https://www.chezbruce.co.uk/",
@@ -11918,32 +11886,6 @@
   }
  },
  {
-  "name": "Gloria",
-  "slug": "gloria",
-  "site": "https://www.bigmammagroup.com/italian-restaurants/gloria-london",
-  "type": "set-menu",
-  "offer": "Lunch set menu",
-  "price": "from £17",
-  "days": "Mon–Fri",
-  "times": "12:00–14:45",
-  "conditions": null,
-  "branches": "Gloria",
-  "endDate": null,
-  "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/gloria-london",
-  "checked": "2026-11-11",
-  "quote": "Try our Lunch Set Menu ... Available Monday to Friday 12:00-14:45, from £17.",
-  "show": {
-   "restaurant-deals-london#chain-and-mini-chain-set-menus": {
-    "pos": 14,
-    "cells": [
-     "**[Big Mamma](https://www.bigmammagroup.com/italian-restaurants/gloria-london)**",
-     "Pranzetto lunch from £17 at Gloria, Ave Mario, Jacuzzi and Barbarella; £27 at Carlotta",
-     "Mon–Fri lunch"
-    ]
-   }
-  }
- },
- {
   "name": "Half Cut Market",
   "slug": "half-cut-market",
   "site": "https://halfcut.world/",
@@ -12189,22 +12131,6 @@
     ]
    }
   }
- },
- {
-  "name": "Jacuzzi",
-  "slug": "jacuzzi",
-  "site": "https://www.bigmammagroup.com/italian-restaurants/jacuzzi",
-  "type": "set-menu",
-  "offer": "Pranzetto lunch set menu",
-  "price": "from £18",
-  "days": "Mon–Fri",
-  "times": "12:00–16:00",
-  "conditions": null,
-  "branches": "Jacuzzi",
-  "endDate": null,
-  "sourceUrl": "https://www.bigmammagroup.com/italian-restaurants/jacuzzi",
-  "checked": "2026-11-11",
-  "quote": "Available Monday to Friday, from 12:00 to 16:00, from £18."
  },
  {
   "name": "Jamavar",
