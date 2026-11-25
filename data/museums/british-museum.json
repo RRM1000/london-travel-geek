@@ -1,195 +1,3582 @@
 {
-  "museum": "British Museum",
-  "floor": "Ground floor (Level 0)",
-  "checked": "2026-11-25",
-  "reviewBy": "2026-12-10",
-  "plan": {
-    "note": "Coordinates are pixels on the Museum's own ground-floor plan (1600 x 2209, dated 03/2026). Our drawing follows its layout; it is not to scale.",
-    "url": "https://www.britishmuseum.org/visit/museum-map",
-    "width": 1600,
-    "height": 2209
+ "museum": "British Museum",
+ "checked": "2026-11-25",
+ "reviewBy": "2026-11-29",
+ "plan": {
+  "note": "Coordinates are pixels on the Museum's own floor plan (ground floor 1600 x 2209, dated 03/2026). The upper and lower floors are moved onto the same frame. Our drawing follows its layout; it is not to scale.",
+  "url": "https://www.britishmuseum.org/visit/museum-map",
+  "width": 1600,
+  "height": 2209
+ },
+ "hours": "Galleries 10.00–17.00 daily (Fridays to 20.30). Great Court 10.00–17.30 (Fridays to 20.30). Closed 24–26 December.",
+ "floors": [
+  {
+   "level": -2,
+   "name": "Level -2",
+   "summary": "Africa, Room 25"
   },
-  "hours": "Galleries 10.00–17.00 daily (Fridays to 20.30). Great Court 10.00–17.30 (Fridays to 20.30). Closed 24–26 December.",
-  "areas": {
-    "egypt": {
-      "name": "Ancient Egypt",
-      "colour": "#c98a2e"
-    },
-    "middle-east": {
-      "name": "Middle East",
-      "colour": "#b4533c"
-    },
-    "greece-rome": {
-      "name": "Ancient Greece and Rome",
-      "colour": "#3c6ea6"
-    },
-    "americas": {
-      "name": "Americas",
-      "colour": "#4e8a3e"
-    },
-    "themes": {
-      "name": "Themes",
-      "colour": "#7b5ea7"
-    },
-    "exhibitions": {
-      "name": "Exhibitions",
-      "colour": "#5e7d86"
-    },
-    "public": {
-      "name": "Great Court and halls",
-      "colour": "#d9d2c3"
-    }
+  {
+   "level": -1,
+   "name": "Level -1",
+   "summary": "Montague Place entrance, Ford Centre for Young Visitors"
   },
-  "spaces": [
-    { "id": "1", "room": "1", "name": "Enlightenment", "area": "themes", "rects": [[1069, 598, 1119, 978]], "stepFree": true, "note": "The 18th century: new knowledge, scientific discovery, European colonialism and the transatlantic slave trade.", "url": "https://www.britishmuseum.org/collection/galleries/enlightenment" },
-    { "id": "2", "room": "2", "name": "Collecting the world", "area": "themes", "rects": [[1049, 982, 1140, 1038]], "stepFree": true, "note": "The collectors who have shaped the Museum since it opened in 1759.", "url": "https://www.britishmuseum.org/collection/galleries/collecting-world" },
-    { "id": "2a", "room": "2a", "name": "The Waddesdon Bequest", "area": "themes", "rects": [[1071, 1052, 1118, 1154]], "stepFree": true, "note": "Nearly 300 medieval and Renaissance pieces left to the Museum in 1898 by Baron Ferdinand Rothschild.", "url": "https://www.britishmuseum.org/collection/galleries/waddesdon-bequest", "labelAt": [1095, 1132] },
-    { "id": "3", "room": "3", "name": "Free displays", "area": "exhibitions", "rects": [[965, 1041, 999, 1066]], "note": "Short free displays, just inside the Main entrance." },
-    { "id": "4", "room": "4", "name": "Egyptian sculpture", "area": "egypt", "rects": [[720, 600, 768, 978]], "stepFree": true, "note": "Three thousand years of pharaonic sculpture, including the Rosetta Stone and the colossal bust of Ramesses II.", "url": "https://www.britishmuseum.org/collection/galleries/egyptian-sculpture", "labelAt": [744, 660] },
-    { "id": "6", "room": "6", "name": "Assyrian sculpture and Balawat Gates", "area": "middle-east", "rects": [[675, 982, 770, 1040], [717, 1040, 770, 1070]], "stepFree": true, "note": "Rooms 6a and 6b: colossal winged lions from Nimrud and the bronze gates of Shalmaneser III from Balawat, 1100–800 BC.", "url": "https://www.britishmuseum.org/collection/galleries/assyrian-sculpture-and-balawat-gates", "labelAt": [700, 1000] },
-    { "id": "7", "room": "7", "name": "Assyria: Nimrud", "area": "middle-east", "rects": [[677, 822, 715, 975]], "stepFree": true, "note": "Rooms 7–8: carved panels from the Northwest Palace of Ashurnasirpal II (883–859 BC) at Nimrud.", "url": "https://www.britishmuseum.org/collection/galleries/assyria-nimrud" },
-    { "id": "8", "room": "8", "name": "Assyria: Nimrud", "area": "middle-east", "rects": [[677, 752, 715, 818]], "stepFree": true, "note": "Rooms 7–8: carved panels from the Northwest Palace of Ashurnasirpal II (883–859 BC) at Nimrud.", "url": "https://www.britishmuseum.org/collection/galleries/assyria-nimrud" },
-    { "id": "9", "room": "9", "name": "Assyria: Nineveh", "area": "middle-east", "rects": [[677, 600, 715, 747]], "note": "Carved panels from Sennacherib's Southwest Palace at Nineveh, 704–692 BC.", "url": "https://www.britishmuseum.org/collection/galleries/assyria-nineveh" },
-    { "id": "10", "room": "10", "name": "Assyria: Lion hunts, Siege of Lachish and Khorsabad", "area": "middle-east", "rects": [[607, 820, 675, 975]], "stepFree": true, "note": "Three rooms, 10a to 10c: Ashurbanipal's lion hunts, the siege of Lachish and Sargon II's palace at Khorsabad, 710–635 BC.", "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts", "labelAt": [641, 955] },
-    { "id": "12", "room": "12", "name": "Greece: Minoans and Mycenaeans", "area": "greece-rome", "rects": [[572, 1042, 670, 1070], [670, 1050, 717, 1070]], "stepFree": true, "note": "Bronze Age Crete, the Cyclades, Greece and the Troad, 3200–1100 BC.", "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans" },
-    { "id": "13", "room": "13", "name": "Greece 1050–520 BC", "area": "greece-rome", "rects": [[557, 982, 670, 1036]], "stepFree": true, "note": "Greece's revival after the collapse of Mycenaean palace society.", "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc" },
-    { "id": "14", "room": "14", "name": "Greek vases", "area": "greece-rome", "rects": [[557, 955, 602, 978]], "stepFree": true, "note": "Athenian pottery of 530–500 BC, when painters took up the red-figure technique.", "url": "https://www.britishmuseum.org/collection/galleries/greek-vases" },
-    { "id": "15", "room": "15", "name": "Greece: Athens and Lycia", "area": "greece-rome", "rects": [[557, 876, 602, 948]], "stepFree": true, "note": "Athens after the Persian wars, 520–430 BC: democracy, the human body and the Athenian empire.", "url": "https://www.britishmuseum.org/collection/galleries/greece-athens-and-lycia" },
-    { "id": "16", "room": "16", "name": "Greece: Bassai sculptures", "area": "greece-rome", "rects": [[557, 835, 602, 870]], "stepFree": false, "stepNote": "This gallery has no level or lift access.", "note": "The frieze from the Temple of Apollo Epikourios at Bassai, 420–400 BC.", "url": "https://www.britishmuseum.org/collection/galleries/greece-bassai-sculptures" },
-    { "id": "17", "room": "17", "name": "Nereid Monument", "area": "greece-rome", "rects": [[557, 705, 602, 830]], "stepFree": true, "note": "A Lycian tomb from Xanthos, in south-west Turkey, built about 390–380 BC.", "url": "https://www.britishmuseum.org/collection/galleries/nereid-monument", "labelAt": [580, 812] },
-    { "id": "18", "room": "18", "name": "Greece: Parthenon", "area": "greece-rome", "rects": [[436, 637, 552, 690], [467, 690, 520, 878], [436, 878, 552, 945], [520, 770, 557, 796]], "stepFree": true, "note": "Sculptures from the Parthenon in Athens, 447–432 BC.", "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon", "labelAt": [494, 664] },
-    { "id": "18a", "room": "18a", "name": "Greece: Parthenon", "area": "greece-rome", "rects": [[522, 797, 555, 872]], "stepFree": true, "note": "Fragments of the Parthenon sculptures and pieces of the building's architecture.", "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon" },
-    { "id": "18b", "room": "18b", "name": "Greece: Parthenon", "area": "greece-rome", "rects": [[522, 697, 555, 768]], "stepFree": true, "note": "Fragments of the Parthenon sculptures and pieces of the building's architecture.", "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon" },
-    { "id": "19", "room": "19", "name": "Greece: Athens", "area": "greece-rome", "rects": [[558, 645, 600, 700]], "stepFree": true, "note": "Sculpture and architecture of Athens, 430–400 BC.", "url": "https://www.britishmuseum.org/collection/galleries/greece-athens" },
-    { "id": "20", "room": "20", "name": "Greeks and Lycians 400–325 BC", "area": "greece-rome", "rects": [[558, 560, 600, 637]], "stepFree": true, "note": "Private luxury in an age of political change, with the Tomb of Payava.", "url": "https://www.britishmuseum.org/collection/galleries/greeks-and-lycians-400-325-bc" },
-    { "id": "21", "room": "21", "name": "Mausoleum of Halikarnassos", "area": "greece-rome", "rects": [[607, 560, 672, 692]], "stepFree": false, "stepNote": "Step-free access is unavailable.", "note": "Sculpture from the tomb at Halikarnassos, about 350 BC.", "url": "https://www.britishmuseum.org/collection/galleries/mausoleum-halikarnassos", "labelAt": [640, 668] },
-    { "id": "22", "room": "22", "name": "The world of Alexander", "area": "greece-rome", "rects": [[607, 700, 672, 755]], "stepFree": true, "note": "Alexander the Great and the Hellenistic world, about 323–31 BC.", "url": "https://www.britishmuseum.org/collection/galleries/world-alexander" },
-    { "id": "23", "room": "23", "name": "Greek and Roman sculpture", "area": "greece-rome", "rects": [[607, 762, 672, 815]], "stepFree": true, "note": "Roman statues of 100 BC–AD 200, many based on Greek originals.", "url": "https://www.britishmuseum.org/collection/galleries/greek-and-roman-sculpture" },
-    { "id": "24", "room": "24", "name": "Living and Dying", "area": "themes", "rects": [[869, 439, 969, 592]], "stepFree": true, "note": "How people everywhere deal with life and death. The north end meets the North stairs and lift up from the Montague Place entrance.", "url": "https://www.britishmuseum.org/collection/galleries/living-and-dying" },
-    { "id": "26", "room": "26", "name": "North America", "area": "americas", "rects": [[972, 504, 1066, 545]], "stepFree": true, "note": "Native North American cultures from 11000 BC to the present.", "url": "https://www.britishmuseum.org/collection/galleries/north-america" },
-    { "id": "27", "room": "27", "name": "Mexico", "area": "americas", "rects": [[1072, 504, 1119, 545]], "stepFree": true, "note": "Olmec, Maya, Aztec and Mixtec works, from about 2000 BC to the Spanish conquest in 1521.", "url": "https://www.britishmuseum.org/collection/galleries/mexico" },
-    { "id": "30", "room": "30", "name": "Special exhibitions", "area": "exhibitions", "rects": [[517, 442, 815, 495]], "note": "The Sainsbury Exhibitions Gallery." },
-    { "id": "great-court", "name": "Great Court", "area": "public", "kind": "space", "rects": [[772, 598, 1064, 978]], "stepFree": true, "note": "The covered square at the centre of the Museum, under a glass and steel roof of 3,312 panes. Open 10.00–17.30 (Fridays to 20.30).", "url": "https://www.britishmuseum.org/collection/galleries/great-court" },
-    { "id": "reading-room", "name": "Reading Room", "area": "public", "kind": "space", "circle": [918, 772, 75], "rects": [[868, 790, 968, 845]], "note": "The former Reading Room of the British Library, opened in 1857; its readers included Bram Stoker, Arthur Conan Doyle and Lenin. The viewing area faces the south side of the Great Court.", "url": "https://www.britishmuseum.org/collection/galleries/great-court" },
-    { "id": "entrance-hall", "name": "Entrance hall", "area": "public", "kind": "space", "rects": [[772, 982, 960, 1072], [960, 982, 1045, 1038]], "stepFree": true, "note": "Just inside the Main entrance: the cloakroom, the South stairs, the Grenville Room shop and Room 3." },
-    { "id": "west-stairs", "name": "West stairs hall", "area": "public", "kind": "space", "rects": [[680, 500, 868, 598]], "note": "Behind the Great Court on the left, through Rooms 29a and 29b. The West stairs and West lift go up to the Members' Room and the upper floors." },
-    { "id": "east-stairs", "name": "East stairs landing", "area": "public", "kind": "space", "rects": [[1066, 550, 1160, 598]], "note": "Behind the Great Court on the right, between Rooms 27 and 1. The stairs display 19th-century plaster casts of ancient sculpture.", "url": "https://www.britishmuseum.org/collection/galleries/east-stairs" },
-    { "id": "pizzeria", "name": "Pizzeria", "area": "public", "kind": "space", "rects": [[435, 1043, 570, 1130]], "note": "In the south-west corner, past Room 12." }
-  ],
-  "doors": [
-    { "a": "30", "b": "west-stairs", "x": 746, "y": 498, "w": 22 },
-    { "a": "30", "b": "west-stairs", "x": 794, "y": 498, "w": 22 },
-    { "a": "20", "b": "21", "x": 604, "y": 587, "w": 15 },
-    { "a": "20", "b": "19", "x": 579, "y": 641, "w": 40 },
-    { "a": "21", "b": "22", "x": 639, "y": 696, "w": 21 },
-    { "a": "21", "b": "west-stairs", "x": 676, "y": 567, "w": 11 },
-    { "a": "19", "b": "17", "x": 579, "y": 703, "w": 40 },
-    { "a": "18", "b": "18b", "x": 538, "y": 769, "w": 29 },
-    { "a": "18", "b": "18a", "x": 538, "y": 797, "w": 29 },
-    { "a": "18", "b": "17", "x": 557, "y": 783, "w": 22 },
-    { "a": "17", "b": "16", "x": 565, "y": 833, "steps": true, "note": "Stairs down to Room 16", "w": 13 },
-    { "a": "17", "b": "23", "x": 605, "y": 783, "w": 22 },
-    { "a": "16", "b": "15", "x": 581, "y": 873, "w": 15 },
-    { "a": "15", "b": "14", "x": 581, "y": 952, "w": 14 },
-    { "a": "14", "b": "13", "x": 581, "y": 980, "w": 15 },
-    { "a": "13", "b": "12", "x": 581, "y": 1039, "w": 15 },
-    { "a": "12", "b": "6", "x": 717, "y": 1058, "w": 13 },
-    { "a": "12", "b": "pizzeria", "x": 571, "y": 1060, "lift": true, "note": "Stairs or the level access lift", "w": 12 },
-    { "a": "22", "b": "23", "x": 619, "y": 759, "w": 21 },
-    { "a": "22", "b": "23", "x": 659, "y": 759, "w": 22 },
-    { "a": "23", "b": "10", "x": 639, "y": 818, "w": 21 },
-    { "a": "23", "b": "8", "x": 675, "y": 783, "w": 22 },
-    { "a": "10", "b": "7", "x": 676, "y": 963, "w": 22 },
-    { "a": "9", "b": "8", "x": 694, "y": 750, "w": 23 },
-    { "a": "9", "b": "4", "x": 718, "y": 635, "w": 15 },
-    { "a": "8", "b": "7", "x": 694, "y": 820, "w": 23 },
-    { "a": "8", "b": "4", "x": 718, "y": 783, "w": 22 },
-    { "a": "7", "b": "6", "x": 694, "y": 979, "w": 23 },
-    { "a": "4", "b": "6", "x": 742, "y": 980, "w": 22 },
-    { "a": "4", "b": "great-court", "x": 770, "y": 783, "w": 22 },
-    { "a": "4", "b": "west-stairs", "x": 742, "y": 599, "w": 22 },
-    { "a": "6", "b": "entrance-hall", "x": 771, "y": 1057, "w": 15 },
-    { "a": "24", "b": "26", "x": 971, "y": 524, "w": 15 },
-    { "a": "24", "b": "great-court", "x": 918, "y": 595, "w": 14 },
-    { "a": "24", "b": "west-stairs", "x": 869, "y": 567, "w": 12 },
-    { "a": "26", "b": "27", "x": 1069, "y": 524, "w": 15 },
-    { "a": "27", "b": "east-stairs", "x": 1095, "y": 548, "w": 15 },
-    { "a": "1", "b": "2", "x": 1094, "y": 980, "w": 48 },
-    { "a": "1", "b": "great-court", "x": 1067, "y": 783, "w": 22 },
-    { "a": "1", "b": "east-stairs", "x": 1095, "y": 598, "w": 15 },
-    { "a": "2", "b": "2a", "x": 1095, "y": 1045, "w": 22 },
-    { "a": "2", "b": "entrance-hall", "x": 1047, "y": 1008, "w": 14 },
-    { "a": "3", "b": "entrance-hall", "x": 963, "y": 1057, "w": 15 },
-    { "a": "great-court", "b": "entrance-hall", "x": 890, "y": 980, "w": 13 },
-    { "a": "great-court", "b": "entrance-hall", "x": 918, "y": 980, "w": 32 },
-    { "a": "great-court", "b": "entrance-hall", "x": 947, "y": 980, "w": 12 },
-    { "a": "great-court", "b": "west-stairs", "x": 794, "y": 598, "w": 22 },
-    { "a": "great-court", "b": "west-stairs", "x": 842, "y": 598, "w": 22 },
-    { "a": "great-court", "b": "reading-room", "x": 918, "y": 848, "w": 12 }
-  ],
-  "points": [
-    { "id": "main-entrance", "type": "entrance", "name": "Main entrance, Great Russell Street", "x": 918, "y": 1128, "space": "entrance-hall", "join": [918, 1072], "stepFree": true, "note": "Across the forecourt and up 12 steps with a handrail. For step-free entry, use the lifts on either side of the steps." },
-    { "id": "montague-entrance", "type": "entrance", "name": "Montague Place entrance", "x": 918, "y": 400, "space": "24", "join": [918, 445], "below": true, "stepFree": true, "note": "The north entrance, one level down (Level -1). It is step-free: the North lift is on the left past the bust of King Edward VII, with 12 steps to its right, up to Room 24 and the Great Court." },
-    { "id": "rosetta-stone", "type": "highlight", "name": "Rosetta Stone", "x": 750, "y": 762, "space": "4", "marked": true, "note": "The key to deciphering the ancient Egyptian language and hieroglyphic script.", "url": "https://www.britishmuseum.org/collection/galleries/egyptian-sculpture" },
-    { "id": "parthenon-sculptures", "type": "highlight", "name": "Parthenon sculptures", "x": 484, "y": 762, "space": "18", "marked": true, "note": "On permanent display since 1817. The frieze shows the procession of the Panathenaic festival, Athena's birthday.", "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon" },
-    { "id": "lion-hunt-reliefs", "type": "highlight", "name": "Assyrian Lion Hunt reliefs", "x": 625, "y": 838, "space": "10", "marked": true, "note": "Carved for King Ashurbanipal's palace at Nineveh, 645–635 BC. Hunting lions was the sport of Assyrian kings.", "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts" },
-    { "id": "hoa-hakananaia", "type": "highlight", "name": "Hoa Hakananai'a", "x": 919, "y": 582, "space": "24", "marked": true, "note": "A colossal ancestor figure (moai) from Rapa Nui/Easter Island. The Museum gives its name as 'lost or stolen friend'.", "url": "https://www.britishmuseum.org/collection/galleries/living-and-dying" },
-    { "id": "holy-thorn-reliquary", "type": "highlight", "name": "Holy Thorn Reliquary", "x": 1100, "y": 1077, "space": "2a", "marked": true, "note": "Gold, enamel, rubies, pearls and sapphires around a single thorn, made in Paris about 1400 for Jean, duc de Berry.", "url": "https://www.britishmuseum.org/collection/object/H_WB-67" },
-    { "id": "khorsabad-bulls", "type": "highlight", "name": "Winged bulls from Khorsabad", "x": 641, "y": 885, "space": "10", "inRoom": true, "note": "A pair of colossal human-headed winged bulls that guarded the palace of King Sargon II at Khorsabad. They greet visitors to Room 10a.", "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts" },
-    { "id": "nimrud-lions", "type": "highlight", "name": "Winged lions from Nimrud", "x": 745, "y": 1020, "space": "6", "inRoom": true, "note": "Two colossal winged human-headed lions that flanked an entrance to the palace of Ashurnasirpal II (883–859 BC) at Nimrud.", "url": "https://www.britishmuseum.org/collection/galleries/assyrian-sculpture-and-balawat-gates" },
-    { "id": "nereid-monument", "type": "highlight", "name": "Nereid Monument", "x": 580, "y": 750, "space": "17", "inRoom": true, "note": "The largest and finest of the Lycian tombs from Xanthos, rebuilt in Room 17.", "url": "https://www.britishmuseum.org/collection/galleries/nereid-monument" },
-    { "id": "mausoleum", "type": "highlight", "name": "Mausoleum of Halikarnassos", "x": 640, "y": 625, "space": "21", "inRoom": true, "note": "Regarded as one of the Seven Wonders of the Ancient World; the word 'mausoleum' comes from it.", "url": "https://www.britishmuseum.org/collection/galleries/mausoleum-halikarnassos" },
-    { "id": "info-desk", "type": "desk", "name": "Information Desk", "x": 1010, "y": 924, "space": "great-court", "note": "10.00–17.00. Free paper maps." },
-    { "id": "ticket-desk", "type": "desk", "name": "Ticket Desk", "x": 1051, "y": 890, "space": "great-court", "note": "10.00–16.30." },
-    { "id": "membership-desk", "type": "desk", "name": "Membership Desk", "x": 1051, "y": 868, "space": "great-court" },
-    { "id": "guide-desk", "type": "desk", "name": "Guide Desk", "x": 782, "y": 871, "space": "great-court", "note": "10.00–16.30. Sells earbuds for the Audio app." },
-    { "id": "families-desk", "type": "desk", "name": "Families Desk", "x": 826, "y": 924, "space": "great-court", "note": "10.00–12.30 and 13.15–16.30, weekends and Camden school holidays only." },
-    { "id": "cloakroom", "type": "cloakroom", "name": "Visitor and Member cloakroom", "x": 812, "y": 1057, "space": "entrance-hall", "note": "10.00–17.00 (Fridays to 20.30). Last deposit one hour before closing." },
-    { "id": "toilets-gc-west", "type": "toilets", "name": "Toilets (Great Court, west)", "x": 826, "y": 827, "space": "great-court", "note": "With an accessible toilet beside them." },
-    { "id": "toilets-gc-east", "type": "toilets", "name": "Toilets (Great Court, east)", "x": 988, "y": 827, "space": "great-court", "note": "With an accessible toilet and baby changing." },
-    { "id": "toilets-east-stairs", "type": "toilets", "name": "Toilets (East stairs)", "x": 1147, "y": 562, "space": "east-stairs", "note": "With an accessible toilet and baby changing." },
-    { "id": "toilets-pizzeria", "type": "toilets", "name": "Toilets (Pizzeria)", "x": 540, "y": 1052, "space": "pizzeria" },
-    { "id": "accessible-toilet-west-stairs", "type": "accessible", "name": "Accessible toilet (West stairs)", "x": 785, "y": 532, "space": "west-stairs" },
-    { "id": "court-cafe-west", "type": "food", "name": "Court Café (west)", "x": 785, "y": 680, "space": "great-court", "note": "Sandwiches, salads, cakes and hot drinks at long sharing tables. 10.00–17.00." },
-    { "id": "court-cafe-north-east", "type": "food", "name": "Court Café (north-east)", "x": 1047, "y": 617, "space": "great-court", "note": "Sandwiches, salads, cakes and hot drinks at long sharing tables. 10.00–17.00." },
-    { "id": "pizzeria-counter", "type": "food", "name": "Pizzeria", "x": 477, "y": 1092, "space": "pizzeria", "note": "Hand-tossed pizzas, salads and gelato; gluten-free bases. 11.00–16.00. For assisted disabled access, ask a member of staff." },
-    { "id": "forecourt-cafe", "type": "food", "name": "Forecourt Café", "x": 1034, "y": 1132, "space": "entrance-hall", "join": [1000, 1072], "outside": true, "note": "Food trucks with outdoor seating, 10.00–17.00; hours may change in poor weather." },
-    { "id": "great-court-shop", "type": "shop", "name": "Great Court Shop", "x": 913, "y": 636, "space": "great-court" },
-    { "id": "collections-shop", "type": "shop", "name": "Collections Shop", "x": 826, "y": 765, "space": "great-court", "note": "10.00–17.00." },
-    { "id": "book-shop", "type": "shop", "name": "Book Shop", "x": 1010, "y": 762, "space": "great-court", "note": "10.00–17.00." },
-    { "id": "grenville-room", "type": "shop", "name": "Grenville Room shop", "x": 1005, "y": 1010, "space": "entrance-hall", "note": "10.00–17.00." },
-    { "id": "main-entrance-lifts", "type": "lift", "name": "Main entrance lifts", "x": 1015, "y": 1107, "space": "entrance-hall", "join": [1000, 1072], "outside": true, "levels": "Forecourt to Level 0", "note": "Level access lifts on both sides of the entrance steps." },
-    { "id": "great-court-lifts", "type": "lift", "name": "Great Court lifts", "x": 857, "y": 676, "space": "great-court", "levels": "Levels -2 to 3", "note": "Near the Great Court Shop, on both sides of the Reading Room." },
-    { "id": "south-lifts", "type": "lift", "name": "South lifts", "x": 866, "y": 962, "space": "great-court", "levels": "Levels -2 to 3", "note": "By the front entrance to the Great Court." },
-    { "id": "west-lift", "type": "lift", "name": "West lift", "x": 757, "y": 577, "space": "west-stairs", "levels": "Level 0 and above", "note": "Up to the Members' Room on Level 1 and the upper floors." },
-    { "id": "north-lift", "type": "lift", "name": "North lift", "x": 944, "y": 452, "space": "24", "levels": "Levels -1 to 5", "note": "Down to the Montague Place entrance; up to the upper floors." },
-    { "id": "pizzeria-lift", "type": "lift", "name": "Level access lift (Pizzeria)", "x": 561, "y": 1052, "space": "pizzeria", "levels": "Room 12 to the Pizzeria" },
-    { "id": "west-stairs-flight", "type": "stairs", "name": "West stairs", "x": 695, "y": 570, "space": "west-stairs", "levels": "Levels 0 to 5", "up": true },
-    { "id": "east-stairs-flight", "type": "stairs", "name": "East stairs", "x": 1094, "y": 570, "space": "east-stairs", "levels": "Levels 0 to 3", "up": true },
-    { "id": "south-stairs", "type": "stairs", "name": "South stairs", "x": 846, "y": 1007, "space": "entrance-hall", "levels": "Levels 0 to 3", "up": true },
-    { "id": "north-stairs", "type": "stairs", "name": "North stairs", "x": 892, "y": 452, "space": "24", "levels": "Levels -1 to 5", "up": true, "down": true, "note": "Down to the Montague Place entrance; up to the upper floors." },
-    { "id": "central-stairs", "type": "stairs", "name": "Great Court central staircase", "x": 916, "y": 884, "space": "great-court", "levels": "Levels 0 to 3", "up": true, "note": "Curves up round the Reading Room to the Great Court Restaurant on Level 3." },
-    { "id": "stairs-room-25", "type": "stairs", "name": "Stairs down to Room 25", "x": 957, "y": 582, "space": "24", "levels": "Down to Room 25, Africa", "down": true },
-    { "id": "clore-stairs-west", "type": "stairs", "name": "Stairs down to the Clore Centre", "x": 785, "y": 962, "space": "great-court", "levels": "Down to Level -1", "down": true, "note": "The Clore Centre for Education is open to the public only for events; the Ford Centre for Young Visitors is down here too, at weekends and in school holidays." },
-    { "id": "clore-stairs-east", "type": "stairs", "name": "Stairs down to the Clore Centre", "x": 1051, "y": 962, "space": "great-court", "levels": "Down to Level -1", "down": true, "note": "The Clore Centre for Education is open to the public only for events." }
-  ],
-  "closures": [
-    { "space": "reading-room", "from": "2026-11-29", "to": "2026-11-29", "text": "Temporarily closed on Sunday 29 November 2026, 12.00–17.00." },
-    { "space": "reading-room", "from": "2026-12-09", "to": "2026-12-09", "text": "Temporarily closed on Wednesday 9 December 2026, 16.00–17.00." },
-    { "space": "10", "from": "2026-11-27", "to": "2026-11-27", "partial": true, "text": "Partially closed on 27 November 2026." },
-    { "space": "4", "from": "2027-01-11", "to": "2027-01-22", "text": "Closed from 11–22 January 2027." },
-    { "space": "6", "from": "2027-01-11", "to": "2027-01-22", "partial": true, "text": "Room 6a closed from 11–22 January 2027." },
-    { "space": "9", "from": "2027-01-11", "to": "2027-01-22", "text": "Closed from 11–22 January 2027." },
-    { "space": "2", "from": "2027-01-25", "to": "2027-02-05", "text": "Closed from 25 January – 5 February 2027." },
-    { "space": "2a", "from": "2027-01-25", "to": "2027-02-05", "text": "Closed from 25 January – 5 February 2027." },
-    { "space": "1", "from": "2027-01-25", "to": "2027-02-12", "text": "Closed from 25 January – 12 February 2027." },
-    { "space": "6", "from": "2027-02-08", "to": "2027-02-19", "partial": true, "text": "Room 6b closed from 8–19 February 2027." },
-    { "space": "7", "from": "2027-02-08", "to": "2027-02-19", "text": "Rooms 7–8 closed from 8–19 February 2027." },
-    { "space": "8", "from": "2027-02-08", "to": "2027-02-19", "text": "Rooms 7–8 closed from 8–19 February 2027." },
-    { "space": "24", "from": "2027-02-22", "to": "2027-03-05", "partial": true, "text": "Partially closed from 22 February – 5 March 2027." },
-    { "space": "26", "from": "2027-02-22", "to": "2027-03-05", "text": "Closed from 22 February – 5 March 2027." },
-    { "space": "27", "from": "2027-02-22", "to": "2027-03-05", "text": "Closed from 22 February – 5 March 2027." },
-    { "space": "24", "from": "2027-03-08", "to": "2027-03-19", "partial": true, "text": "Partially closed from 8–19 March 2027." }
-  ],
-  "closuresUrl": "https://www.britishmuseum.org/visit"
+  {
+   "level": 0,
+   "name": "Level 0",
+   "summary": "Ground floor: the Great Court, Egypt, Assyria and Greece"
+  },
+  {
+   "level": 1,
+   "name": "Level 1",
+   "summary": "China and South Asia, Room 35 exhibitions"
+  },
+  {
+   "level": 2,
+   "name": "Level 2",
+   "summary": "Korea and Chinese ceramics"
+  },
+  {
+   "level": 3,
+   "name": "Level 3",
+   "summary": "Upper floor: Egypt, the Middle East, Europe, Greece and Rome"
+  },
+  {
+   "level": 4,
+   "name": "Level 4",
+   "summary": "Prints and drawings"
+  },
+  {
+   "level": 5,
+   "name": "Level 5",
+   "summary": "Japan"
+  }
+ ],
+ "areas": {
+  "egypt": {
+   "name": "Ancient Egypt",
+   "colour": "#c98a2e"
+  },
+  "middle-east": {
+   "name": "Middle East",
+   "colour": "#b4533c"
+  },
+  "greece-rome": {
+   "name": "Ancient Greece and Rome",
+   "colour": "#3c6ea6"
+  },
+  "americas": {
+   "name": "Americas",
+   "colour": "#4e8a3e"
+  },
+  "themes": {
+   "name": "Themes",
+   "colour": "#7b5ea7"
+  },
+  "exhibitions": {
+   "name": "Exhibitions",
+   "colour": "#5e7d86"
+  },
+  "public": {
+   "name": "Great Court and halls",
+   "colour": "#d9d2c3"
+  },
+  "asia": {
+   "name": "Asia",
+   "colour": "#b0466e"
+  },
+  "europe": {
+   "name": "Europe",
+   "colour": "#2c7f7a"
+  },
+  "africa": {
+   "name": "Africa",
+   "colour": "#9a6a1c"
+  }
+ },
+ "spaces": [
+  {
+   "level": 0,
+   "id": "1",
+   "room": "1",
+   "name": "Enlightenment",
+   "area": "themes",
+   "rects": [
+    [1069, 598, 1119, 978]
+   ],
+   "stepFree": true,
+   "note": "The 18th century: new knowledge, scientific discovery, European colonialism and the transatlantic slave trade.",
+   "url": "https://www.britishmuseum.org/collection/galleries/enlightenment"
+  },
+  {
+   "level": 0,
+   "id": "2",
+   "room": "2",
+   "name": "Collecting the world",
+   "area": "themes",
+   "rects": [
+    [1049, 982, 1140, 1038]
+   ],
+   "stepFree": true,
+   "note": "The collectors who have shaped the Museum since it opened in 1759.",
+   "url": "https://www.britishmuseum.org/collection/galleries/collecting-world"
+  },
+  {
+   "level": 0,
+   "id": "2a",
+   "room": "2a",
+   "name": "The Waddesdon Bequest",
+   "area": "themes",
+   "rects": [
+    [1071, 1052, 1118, 1154]
+   ],
+   "stepFree": true,
+   "note": "Nearly 300 medieval and Renaissance pieces left to the Museum in 1898 by Baron Ferdinand Rothschild.",
+   "url": "https://www.britishmuseum.org/collection/galleries/waddesdon-bequest",
+   "labelAt": [1095, 1132]
+  },
+  {
+   "level": 0,
+   "id": "3",
+   "room": "3",
+   "name": "Free displays",
+   "area": "exhibitions",
+   "rects": [
+    [965, 1041, 999, 1066]
+   ],
+   "note": "Short free displays, just inside the Main entrance."
+  },
+  {
+   "level": 0,
+   "id": "4",
+   "room": "4",
+   "name": "Egyptian sculpture",
+   "area": "egypt",
+   "rects": [
+    [720, 600, 768, 978]
+   ],
+   "stepFree": true,
+   "note": "Three thousand years of pharaonic sculpture, including the Rosetta Stone and the colossal bust of Ramesses II.",
+   "url": "https://www.britishmuseum.org/collection/galleries/egyptian-sculpture",
+   "labelAt": [744, 660]
+  },
+  {
+   "level": 0,
+   "id": "6",
+   "room": "6",
+   "name": "Assyrian sculpture and Balawat Gates",
+   "area": "middle-east",
+   "rects": [
+    [675, 982, 770, 1040],
+    [717, 1040, 770, 1070]
+   ],
+   "stepFree": true,
+   "note": "Rooms 6a and 6b: colossal winged lions from Nimrud and the bronze gates of Shalmaneser III from Balawat, 1100–800 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyrian-sculpture-and-balawat-gates",
+   "labelAt": [700, 1000]
+  },
+  {
+   "level": 0,
+   "id": "7",
+   "room": "7",
+   "name": "Assyria: Nimrud",
+   "area": "middle-east",
+   "rects": [
+    [677, 822, 715, 975]
+   ],
+   "stepFree": true,
+   "note": "Rooms 7–8: carved panels from the Northwest Palace of Ashurnasirpal II (883–859 BC) at Nimrud.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyria-nimrud"
+  },
+  {
+   "level": 0,
+   "id": "8",
+   "room": "8",
+   "name": "Assyria: Nimrud",
+   "area": "middle-east",
+   "rects": [
+    [677, 752, 715, 818]
+   ],
+   "stepFree": true,
+   "note": "Rooms 7–8: carved panels from the Northwest Palace of Ashurnasirpal II (883–859 BC) at Nimrud.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyria-nimrud"
+  },
+  {
+   "level": 0,
+   "id": "9",
+   "room": "9",
+   "name": "Assyria: Nineveh",
+   "area": "middle-east",
+   "rects": [
+    [677, 600, 715, 747]
+   ],
+   "note": "Carved panels from Sennacherib's Southwest Palace at Nineveh, 704–692 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyria-nineveh"
+  },
+  {
+   "level": 0,
+   "id": "10",
+   "room": "10",
+   "name": "Assyria: Lion hunts, Siege of Lachish and Khorsabad",
+   "area": "middle-east",
+   "rects": [
+    [607, 820, 675, 975]
+   ],
+   "stepFree": true,
+   "note": "Three rooms, 10a to 10c: Ashurbanipal's lion hunts, the siege of Lachish and Sargon II's palace at Khorsabad, 710–635 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+   "labelAt": [641, 955]
+  },
+  {
+   "level": 0,
+   "id": "12",
+   "room": "12",
+   "name": "Greece: Minoans and Mycenaeans",
+   "area": "greece-rome",
+   "rects": [
+    [572, 1042, 670, 1070],
+    [670, 1050, 717, 1070]
+   ],
+   "stepFree": true,
+   "note": "Bronze Age Crete, the Cyclades, Greece and the Troad, 3200–1100 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans"
+  },
+  {
+   "level": 0,
+   "id": "13",
+   "room": "13",
+   "name": "Greece 1050–520 BC",
+   "area": "greece-rome",
+   "rects": [
+    [557, 982, 670, 1036]
+   ],
+   "stepFree": true,
+   "note": "Greece's revival after the collapse of Mycenaean palace society.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-1050-520-bc"
+  },
+  {
+   "level": 0,
+   "id": "14",
+   "room": "14",
+   "name": "Greek vases",
+   "area": "greece-rome",
+   "rects": [
+    [557, 955, 602, 978]
+   ],
+   "stepFree": true,
+   "note": "Athenian pottery of 530–500 BC, when painters took up the red-figure technique.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greek-vases"
+  },
+  {
+   "level": 0,
+   "id": "15",
+   "room": "15",
+   "name": "Greece: Athens and Lycia",
+   "area": "greece-rome",
+   "rects": [
+    [557, 876, 602, 948]
+   ],
+   "stepFree": true,
+   "note": "Athens after the Persian wars, 520–430 BC: democracy, the human body and the Athenian empire.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-athens-and-lycia"
+  },
+  {
+   "level": 0,
+   "id": "16",
+   "room": "16",
+   "name": "Greece: Bassai sculptures",
+   "area": "greece-rome",
+   "rects": [
+    [557, 835, 602, 870]
+   ],
+   "stepFree": false,
+   "stepNote": "This gallery has no level or lift access.",
+   "note": "The frieze from the Temple of Apollo Epikourios at Bassai, 420–400 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-bassai-sculptures"
+  },
+  {
+   "level": 0,
+   "id": "17",
+   "room": "17",
+   "name": "Nereid Monument",
+   "area": "greece-rome",
+   "rects": [
+    [557, 705, 602, 830]
+   ],
+   "stepFree": true,
+   "note": "A Lycian tomb from Xanthos, in south-west Turkey, built about 390–380 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/nereid-monument",
+   "labelAt": [580, 812]
+  },
+  {
+   "level": 0,
+   "id": "18",
+   "room": "18",
+   "name": "Greece: Parthenon",
+   "area": "greece-rome",
+   "rects": [
+    [436, 637, 552, 690],
+    [467, 690, 520, 878],
+    [436, 878, 552, 945],
+    [520, 770, 557, 796]
+   ],
+   "stepFree": true,
+   "note": "Sculptures from the Parthenon in Athens, 447–432 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon",
+   "labelAt": [494, 664]
+  },
+  {
+   "level": 0,
+   "id": "18a",
+   "room": "18a",
+   "name": "Greece: Parthenon",
+   "area": "greece-rome",
+   "rects": [
+    [522, 797, 555, 872]
+   ],
+   "stepFree": true,
+   "note": "Fragments of the Parthenon sculptures and pieces of the building's architecture.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon"
+  },
+  {
+   "level": 0,
+   "id": "18b",
+   "room": "18b",
+   "name": "Greece: Parthenon",
+   "area": "greece-rome",
+   "rects": [
+    [522, 697, 555, 768]
+   ],
+   "stepFree": true,
+   "note": "Fragments of the Parthenon sculptures and pieces of the building's architecture.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon"
+  },
+  {
+   "level": 0,
+   "id": "19",
+   "room": "19",
+   "name": "Greece: Athens",
+   "area": "greece-rome",
+   "rects": [
+    [558, 645, 600, 700]
+   ],
+   "stepFree": true,
+   "note": "Sculpture and architecture of Athens, 430–400 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-athens"
+  },
+  {
+   "level": 0,
+   "id": "20",
+   "room": "20",
+   "name": "Greeks and Lycians 400–325 BC",
+   "area": "greece-rome",
+   "rects": [
+    [558, 560, 600, 637]
+   ],
+   "stepFree": true,
+   "note": "Private luxury in an age of political change, with the Tomb of Payava.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greeks-and-lycians-400-325-bc"
+  },
+  {
+   "level": 0,
+   "id": "21",
+   "room": "21",
+   "name": "Mausoleum of Halikarnassos",
+   "area": "greece-rome",
+   "rects": [
+    [607, 560, 672, 692]
+   ],
+   "stepFree": false,
+   "stepNote": "Step-free access is unavailable.",
+   "note": "Sculpture from the tomb at Halikarnassos, about 350 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mausoleum-halikarnassos",
+   "labelAt": [640, 668]
+  },
+  {
+   "level": 0,
+   "id": "22",
+   "room": "22",
+   "name": "The world of Alexander",
+   "area": "greece-rome",
+   "rects": [
+    [607, 700, 672, 755]
+   ],
+   "stepFree": true,
+   "note": "Alexander the Great and the Hellenistic world, about 323–31 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/world-alexander"
+  },
+  {
+   "level": 0,
+   "id": "23",
+   "room": "23",
+   "name": "Greek and Roman sculpture",
+   "area": "greece-rome",
+   "rects": [
+    [607, 762, 672, 815]
+   ],
+   "stepFree": true,
+   "note": "Roman statues of 100 BC–AD 200, many based on Greek originals.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greek-and-roman-sculpture"
+  },
+  {
+   "level": 0,
+   "id": "24",
+   "room": "24",
+   "name": "Living and Dying",
+   "area": "themes",
+   "rects": [
+    [869, 439, 969, 592]
+   ],
+   "stepFree": true,
+   "note": "How people everywhere deal with life and death. The north end meets the North stairs and lift up from the Montague Place entrance.",
+   "url": "https://www.britishmuseum.org/collection/galleries/living-and-dying"
+  },
+  {
+   "level": 0,
+   "id": "26",
+   "room": "26",
+   "name": "North America",
+   "area": "americas",
+   "rects": [
+    [972, 504, 1066, 545]
+   ],
+   "stepFree": true,
+   "note": "Native North American cultures from 11000 BC to the present.",
+   "url": "https://www.britishmuseum.org/collection/galleries/north-america"
+  },
+  {
+   "level": 0,
+   "id": "27",
+   "room": "27",
+   "name": "Mexico",
+   "area": "americas",
+   "rects": [
+    [1072, 504, 1119, 545]
+   ],
+   "stepFree": true,
+   "note": "Olmec, Maya, Aztec and Mixtec works, from about 2000 BC to the Spanish conquest in 1521.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mexico"
+  },
+  {
+   "level": 0,
+   "id": "30",
+   "room": "30",
+   "name": "Special exhibitions",
+   "area": "exhibitions",
+   "rects": [
+    [517, 442, 815, 495]
+   ],
+   "note": "The Sainsbury Exhibitions Gallery."
+  },
+  {
+   "level": 0,
+   "id": "great-court",
+   "name": "Great Court",
+   "area": "public",
+   "kind": "space",
+   "rects": [
+    [772, 598, 1064, 978]
+   ],
+   "stepFree": true,
+   "note": "The covered square at the centre of the Museum, under a glass and steel roof of 3,312 panes. Open 10.00–17.30 (Fridays to 20.30).",
+   "url": "https://www.britishmuseum.org/collection/galleries/great-court"
+  },
+  {
+   "level": 0,
+   "id": "reading-room",
+   "name": "Reading Room",
+   "area": "public",
+   "kind": "space",
+   "circle": [918, 772, 75],
+   "rects": [
+    [868, 790, 968, 845]
+   ],
+   "note": "The former Reading Room of the British Library, opened in 1857; its readers included Bram Stoker, Arthur Conan Doyle and Lenin. The viewing area faces the south side of the Great Court.",
+   "url": "https://www.britishmuseum.org/collection/galleries/great-court"
+  },
+  {
+   "level": 0,
+   "id": "entrance-hall",
+   "name": "Entrance hall",
+   "area": "public",
+   "kind": "space",
+   "rects": [
+    [772, 982, 960, 1072],
+    [960, 982, 1045, 1038]
+   ],
+   "stepFree": true,
+   "note": "Just inside the Main entrance: the cloakroom, the South stairs, the Grenville Room shop and Room 3."
+  },
+  {
+   "level": 0,
+   "id": "west-stairs",
+   "name": "West stairs hall",
+   "area": "public",
+   "kind": "space",
+   "rects": [
+    [680, 500, 868, 598]
+   ],
+   "note": "Behind the Great Court on the left, through Rooms 29a and 29b. The West stairs and West lift go up to the Members' Room and the upper floors."
+  },
+  {
+   "level": 0,
+   "id": "east-stairs",
+   "name": "East stairs landing",
+   "area": "public",
+   "kind": "space",
+   "rects": [
+    [1066, 550, 1160, 598]
+   ],
+   "note": "Behind the Great Court on the right, between Rooms 27 and 1. The stairs display 19th-century plaster casts of ancient sculpture.",
+   "url": "https://www.britishmuseum.org/collection/galleries/east-stairs"
+  },
+  {
+   "level": 0,
+   "id": "pizzeria",
+   "name": "Pizzeria",
+   "area": "public",
+   "kind": "space",
+   "rects": [
+    [435, 1043, 570, 1130]
+   ],
+   "note": "In the south-west corner, past Room 12."
+  },
+  {
+   "id": "25",
+   "level": -2,
+   "room": "25",
+   "name": "Africa",
+   "area": "africa",
+   "stepFree": true,
+   "note": "The Sainsbury Galleries: the cultural, artistic and historical range of the continent, including the brass plaques from Benin. Access may be restricted at busy times.",
+   "url": "https://www.britishmuseum.org/collection/galleries/africa",
+   "rects": [
+    [773, 597, 1064, 630],
+    [773, 630, 827, 688],
+    [1008, 630, 1064, 688]
+   ]
+  },
+  {
+   "id": "montague-hall",
+   "level": -1,
+   "name": "Montague Place entrance hall",
+   "area": "public",
+   "kind": "space",
+   "stepFree": true,
+   "note": "The north entrance. The North lift is on the left past the bust of King Edward VII, with 12 steps to its right, up to Room 24 on Level 0.",
+   "rects": [
+    [870, 349, 970, 438]
+   ]
+  },
+  {
+   "id": "anthropology-library",
+   "level": -1,
+   "name": "Anthropology Library and Research Centre",
+   "area": "public",
+   "kind": "space",
+   "note": "The library collection is seen by appointment only.",
+   "rects": [
+    [716, 349, 866, 390]
+   ]
+  },
+  {
+   "id": "clore-centre",
+   "level": -1,
+   "name": "Clore Centre for Education",
+   "area": "public",
+   "kind": "space",
+   "note": "Lecture theatres, studios and seminar rooms beneath the Great Court. Open to the public only for scheduled events.",
+   "rects": [
+    [773, 832, 1063, 982]
+   ]
+  },
+  {
+   "id": "ford-centre",
+   "level": -1,
+   "name": "Ford Centre for Young Visitors",
+   "area": "public",
+   "kind": "space",
+   "stepFree": true,
+   "note": "Families can picnic here, free, at weekends and in Camden school holidays, 10.00–16.30. Capacity is reduced.",
+   "rects": [
+    [773, 986, 1064, 1046]
+   ]
+  },
+  {
+   "id": "33",
+   "level": 1,
+   "room": "33",
+   "name": "China and South Asia",
+   "area": "asia",
+   "note": "The Sir Joseph Hotung Gallery: China from 5000 BC to the present on one side, South Asia on the other, with the Tang dynasty tomb figures and Shiva Nataraja.",
+   "url": "https://www.britishmuseum.org/collection/galleries/china-and-south-asia",
+   "rects": [
+    [771, 349, 1122, 394]
+   ]
+  },
+  {
+   "id": "33a",
+   "level": 1,
+   "room": "33a",
+   "name": "India: Amaravati",
+   "area": "asia",
+   "note": "Sculptures from the Buddhist shrine at Amaravati in south-east India, 300 BC–AD 300.",
+   "url": "https://www.britishmuseum.org/collection/galleries/india-amaravati",
+   "rects": [
+    [677, 349, 767, 391]
+   ]
+  },
+  {
+   "id": "33b",
+   "level": 1,
+   "room": "33b",
+   "name": "Chinese jade",
+   "area": "asia",
+   "note": "Jade in China from about 5000 BC to the present, worked into ornaments and ceremonial weapons.",
+   "url": "https://www.britishmuseum.org/collection/galleries/chinese-jade",
+   "labelAt": [1143, 470],
+   "rects": [
+    [1126, 349, 1161, 552]
+   ]
+  },
+  {
+   "id": "north-landing-1",
+   "level": 1,
+   "name": "North stairs, Level 1",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "rects": [
+    [870, 398, 967, 439]
+   ]
+  },
+  {
+   "id": "35",
+   "level": 1,
+   "room": "35",
+   "name": "Special exhibitions",
+   "area": "exhibitions",
+   "note": "The Joseph Hotung Great Court Gallery, above the north side of the Reading Room. Paid exhibitions.",
+   "rects": [
+    [866, 648, 971, 704]
+   ]
+  },
+  {
+   "id": "gc-upper-west",
+   "level": 1,
+   "name": "Great Court upper level (west)",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "stepFree": true,
+   "note": "The curving staircase and the Great Court lift beside the Reading Room, at the entrance to Room 35.",
+   "rects": [
+    [824, 651, 862, 755]
+   ]
+  },
+  {
+   "id": "gc-upper-east",
+   "level": 1,
+   "name": "Great Court upper level (east)",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "stepFree": true,
+   "note": "The curving staircase and the Great Court lift beside the Reading Room, at the entrance to Room 35.",
+   "rects": [
+    [975, 651, 1013, 755]
+   ]
+  },
+  {
+   "id": "95",
+   "level": 2,
+   "room": "95",
+   "name": "Chinese ceramics",
+   "area": "asia",
+   "stepFree": false,
+   "stepNote": "No lift or level access.",
+   "note": "The Sir Percival David Collection of Chinese ceramics.",
+   "url": "https://www.britishmuseum.org/collection/galleries/chinese-ceramics",
+   "rects": [
+    [676, 349, 847, 391]
+   ]
+  },
+  {
+   "id": "67",
+   "level": 2,
+   "room": "67",
+   "name": "Korea",
+   "area": "asia",
+   "stepFree": false,
+   "stepNote": "No lift or level access.",
+   "note": "The Korea Foundation Gallery: Korea's material and visual culture over its long history.",
+   "url": "https://www.britishmuseum.org/collection/galleries/korea",
+   "rects": [
+    [851, 349, 969, 394]
+   ]
+  },
+  {
+   "id": "north-landing-2",
+   "level": 2,
+   "name": "North stairs, Level 2",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "rects": [
+    [851, 398, 969, 439]
+   ]
+  },
+  {
+   "id": "61",
+   "level": 3,
+   "room": "61",
+   "name": "Egyptian life and death",
+   "area": "egypt",
+   "stepFree": true,
+   "note": "The Michael Cohen Gallery, home of the tomb chapel of Nebamun.",
+   "url": "https://www.britishmuseum.org/collection/galleries/egyptian-life-and-death",
+   "rects": [
+    [718, 507, 786, 552]
+   ]
+  },
+  {
+   "id": "62",
+   "level": 3,
+   "room": "62",
+   "name": "Egyptian death and afterlife: mummies",
+   "area": "egypt",
+   "stepFree": true,
+   "note": "The Roxie Walker Galleries (Rooms 62–63): mummies and coffins, and what death and the afterlife meant to the ancient Egyptians.",
+   "url": "https://www.britishmuseum.org/collection/galleries/egyptian-death-and-afterlife-mummies",
+   "rects": [
+    [790, 507, 866, 552]
+   ]
+  },
+  {
+   "id": "63",
+   "level": 3,
+   "room": "63",
+   "name": "Egyptian death and afterlife: mummies",
+   "area": "egypt",
+   "stepFree": true,
+   "note": "The Roxie Walker Galleries (Rooms 62–63): mummies and coffins, and what death and the afterlife meant to the ancient Egyptians.",
+   "url": "https://www.britishmuseum.org/collection/galleries/egyptian-death-and-afterlife-mummies",
+   "rects": [
+    [870, 502, 968, 552]
+   ]
+  },
+  {
+   "id": "64",
+   "level": 3,
+   "room": "64",
+   "name": "Early Egypt",
+   "area": "egypt",
+   "stepFree": true,
+   "note": "The beginnings of Egyptian civilisation along the Nile, from about 11000 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/early-egypt",
+   "rects": [
+    [972, 507, 1065, 552]
+   ]
+  },
+  {
+   "id": "65",
+   "level": 3,
+   "room": "65",
+   "name": "Sudan, Egypt and Nubia",
+   "area": "egypt",
+   "stepFree": true,
+   "note": "Sudan, southern Egypt, Nubia and the river Nile.",
+   "url": "https://www.britishmuseum.org/collection/galleries/sudan-egypt-and-nubia",
+   "rects": [
+    [1069, 507, 1119, 552]
+   ]
+  },
+  {
+   "id": "66",
+   "level": 3,
+   "room": "66",
+   "name": "Ethiopia and Coptic Egypt",
+   "area": "egypt",
+   "stepFree": true,
+   "note": "Jewish, Christian and Muslim communities in Egypt and Ethiopia over the past 2,000 years. It meets the North stairs and lift.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ethiopia-and-coptic-egypt",
+   "rects": [
+    [894, 441, 942, 498]
+   ]
+  },
+  {
+   "id": "59",
+   "level": 3,
+   "room": "59",
+   "name": "Ancient Levant",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "Rooms 57–59: modern Syria, Lebanon, Israel, Palestine and Jordan in antiquity. Beside the West stairs and lift.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ancient-levant",
+   "rects": [
+    [718, 556, 765, 599]
+   ]
+  },
+  {
+   "id": "58",
+   "level": 3,
+   "room": "58",
+   "name": "Ancient Levant",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "Rooms 57–59: modern Syria, Lebanon, Israel, Palestine and Jordan in antiquity.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ancient-levant",
+   "rects": [
+    [769, 556, 803, 599]
+   ]
+  },
+  {
+   "id": "57",
+   "level": 3,
+   "room": "57",
+   "name": "Ancient Levant",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "Rooms 57–59: modern Syria, Lebanon, Israel, Palestine and Jordan in antiquity.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ancient-levant",
+   "rects": [
+    [807, 556, 864, 599]
+   ]
+  },
+  {
+   "id": "56",
+   "level": 3,
+   "room": "56",
+   "name": "Mesopotamia 6000–1500 BC",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "Early Mesopotamia, including the Royal Game of Ur.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia",
+   "rects": [
+    [868, 556, 966, 599]
+   ]
+  },
+  {
+   "id": "55",
+   "level": 3,
+   "room": "55",
+   "name": "Mesopotamia 1500–539 BC",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "Babylonia and Assyria in the first millennium BC, including the Flood Tablet.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc",
+   "rects": [
+    [970, 556, 1025, 599]
+   ]
+  },
+  {
+   "id": "54",
+   "level": 3,
+   "room": "54",
+   "name": "Anatolia and Urartu 7000–300 BC",
+   "area": "middle-east",
+   "stepFree": true,
+   "url": "https://www.britishmuseum.org/collection/galleries/anatolia-and-urartu-7000-300-bc",
+   "rects": [
+    [1029, 556, 1065, 599]
+   ]
+  },
+  {
+   "id": "53",
+   "level": 3,
+   "room": "53",
+   "name": "Ancient South Arabia",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "Ancient Yemen and parts of Saudi Arabia and southern Oman. Beside the East stairs.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ancient-south-arabia",
+   "rects": [
+    [1069, 556, 1119, 599]
+   ]
+  },
+  {
+   "id": "52",
+   "level": 3,
+   "room": "52",
+   "name": "Ancient Iran",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "The Rahim Irvani Gallery, with the Oxus Treasure.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran",
+   "rects": [
+    [1070, 603, 1119, 667]
+   ]
+  },
+  {
+   "id": "51",
+   "level": 3,
+   "room": "51",
+   "name": "Europe and Middle East 10,000–800 BC",
+   "area": "europe",
+   "stepFree": true,
+   "note": "From the first farmers to the Bronze Age, including the Mold gold cape.",
+   "url": "https://www.britishmuseum.org/collection/galleries/europe-and-middle-east",
+   "rects": [
+    [1070, 671, 1119, 751]
+   ]
+  },
+  {
+   "id": "50",
+   "level": 3,
+   "room": "50",
+   "name": "Britain and Europe 800 BC–AD 43",
+   "area": "europe",
+   "stepFree": true,
+   "note": "The Iron Age in Britain and Europe.",
+   "url": "https://www.britishmuseum.org/collection/galleries/britain-and-europe-800-bc-ad-43",
+   "rects": [
+    [1070, 755, 1119, 820]
+   ]
+  },
+  {
+   "id": "49",
+   "level": 3,
+   "room": "49",
+   "name": "Roman Britain",
+   "area": "europe",
+   "stepFree": true,
+   "note": "The Weston Gallery, with the Hinton St Mary Mosaic.",
+   "url": "https://www.britishmuseum.org/collection/galleries/roman-britain",
+   "rects": [
+    [1070, 824, 1119, 967]
+   ]
+  },
+  {
+   "id": "41",
+   "level": 3,
+   "room": "41",
+   "name": "Sutton Hoo and Europe AD 300–1100",
+   "area": "europe",
+   "stepFree": true,
+   "note": "Europe from AD 300 over 700 years, with the Sutton Hoo ship burial.",
+   "url": "https://www.britishmuseum.org/collection/galleries/sutton-hoo-and-europe",
+   "rects": [
+    [1049, 971, 1139, 1053]
+   ]
+  },
+  {
+   "id": "40",
+   "level": 3,
+   "room": "40",
+   "name": "Medieval Europe 1050–1500",
+   "area": "europe",
+   "stepFree": true,
+   "note": "The Sir Paul and Lady Ruddock Gallery, with the Lewis Chessmen.",
+   "url": "https://www.britishmuseum.org/collection/galleries/medieval-europe",
+   "rects": [
+    [966, 986, 1043, 1040]
+   ]
+  },
+  {
+   "id": "42",
+   "level": 3,
+   "room": "42",
+   "name": "The Islamic world",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "The Albukhary Foundation Gallery (Rooms 42–43).",
+   "rects": [
+    [1143, 985, 1249, 1040]
+   ]
+  },
+  {
+   "id": "43",
+   "level": 3,
+   "room": "43",
+   "name": "The Islamic world",
+   "area": "middle-east",
+   "stepFree": true,
+   "note": "The Albukhary Foundation Gallery (Rooms 42–43).",
+   "rects": [
+    [1253, 1016, 1308, 1117]
+   ]
+  },
+  {
+   "id": "43a",
+   "level": 3,
+   "room": "43a",
+   "name": "Free displays",
+   "area": "exhibitions",
+   "rects": [
+    [1253, 971, 1308, 1012]
+   ]
+  },
+  {
+   "id": "46",
+   "level": 3,
+   "room": "46",
+   "name": "Europe 1400–1800",
+   "area": "europe",
+   "stepFree": true,
+   "url": "https://www.britishmuseum.org/collection/galleries/europe-1400-1800",
+   "rects": [
+    [1123, 1060, 1249, 1117]
+   ]
+  },
+  {
+   "id": "47",
+   "level": 3,
+   "room": "47",
+   "name": "Europe 1800–1900",
+   "area": "europe",
+   "stepFree": true,
+   "url": "https://www.britishmuseum.org/collection/galleries/europe-1800-1900",
+   "rects": [
+    [1070, 1057, 1119, 1129]
+   ]
+  },
+  {
+   "id": "48",
+   "level": 3,
+   "room": "48",
+   "name": "Europe 1900 to the present",
+   "area": "europe",
+   "stepFree": true,
+   "url": "https://www.britishmuseum.org/collection/galleries/europe-1900-present",
+   "rects": [
+    [1070, 1133, 1119, 1176]
+   ]
+  },
+  {
+   "id": "38",
+   "level": 3,
+   "room": "38",
+   "name": "Clocks and watches",
+   "area": "themes",
+   "stepFree": true,
+   "note": "The Sir Harry and Lady Djanogly Gallery (Rooms 38–39).",
+   "url": "https://www.britishmuseum.org/collection/galleries/clocks-and-watches",
+   "rects": [
+    [965, 1047, 1005, 1075]
+   ]
+  },
+  {
+   "id": "39",
+   "level": 3,
+   "room": "39",
+   "name": "Clocks and watches",
+   "area": "themes",
+   "stepFree": true,
+   "note": "The Sir Harry and Lady Djanogly Gallery (Rooms 38–39), with the mechanical galleon.",
+   "url": "https://www.britishmuseum.org/collection/galleries/clocks-and-watches",
+   "rects": [
+    [1009, 1047, 1047, 1075]
+   ]
+  },
+  {
+   "id": "68",
+   "level": 3,
+   "room": "68",
+   "name": "Money",
+   "area": "themes",
+   "stepFree": true,
+   "note": "More than 4,000 years of money.",
+   "url": "https://www.britishmuseum.org/collection/galleries/money",
+   "rects": [
+    [773, 1047, 871, 1075]
+   ]
+  },
+  {
+   "id": "69",
+   "level": 3,
+   "room": "69",
+   "name": "Greek and Roman life",
+   "area": "greece-rome",
+   "stepFree": true,
+   "stepNote": "The gallery is on two levels; some exhibits have no level or lift access.",
+   "note": "Everyday life in the ancient Mediterranean.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greek-and-roman-life",
+   "rects": [
+    [718, 967, 769, 1075]
+   ]
+  },
+  {
+   "id": "70",
+   "level": 3,
+   "room": "70",
+   "name": "Roman Empire",
+   "area": "greece-rome",
+   "stepFree": true,
+   "note": "The Wolfson Gallery: Rome from a small town to an empire from Scotland to Syria, with the Portland Vase.",
+   "url": "https://www.britishmuseum.org/collection/galleries/roman-empire",
+   "rects": [
+    [718, 824, 766, 963]
+   ]
+  },
+  {
+   "id": "71",
+   "level": 3,
+   "room": "71",
+   "name": "Etruscan world",
+   "area": "greece-rome",
+   "stepFree": true,
+   "url": "https://www.britishmuseum.org/collection/galleries/etruscan-world",
+   "rects": [
+    [718, 755, 766, 820]
+   ]
+  },
+  {
+   "id": "72",
+   "level": 3,
+   "room": "72",
+   "name": "Ancient Cyprus",
+   "area": "greece-rome",
+   "stepFree": true,
+   "note": "The A. G. Leventis Gallery.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ancient-cyprus",
+   "rects": [
+    [718, 671, 766, 751]
+   ]
+  },
+  {
+   "id": "73",
+   "level": 3,
+   "room": "73",
+   "name": "Greeks in Italy",
+   "area": "greece-rome",
+   "stepFree": true,
+   "note": "The Greek settlements of southern Italy and Sicily.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greeks-italy",
+   "rects": [
+    [718, 603, 766, 667]
+   ]
+  },
+  {
+   "id": "36",
+   "level": 3,
+   "room": "36",
+   "name": "Upper landing",
+   "area": "public",
+   "hall": true,
+   "stepFree": true,
+   "note": "At the top of the South stairs, by the Coffee Lounge.",
+   "rects": [
+    [889, 990, 960, 1043]
+   ]
+  },
+  {
+   "id": "37",
+   "level": 3,
+   "room": "37",
+   "name": "Passage",
+   "area": "public",
+   "hall": true,
+   "stepFree": true,
+   "note": "Between Room 68 and Rooms 38–39.",
+   "rects": [
+    [875, 1047, 961, 1075]
+   ]
+  },
+  {
+   "id": "south-stairs-3",
+   "level": 3,
+   "name": "South stairs, Level 3",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "rects": [
+    [773, 986, 885, 1040]
+   ]
+  },
+  {
+   "id": "coffee-lounge",
+   "level": 3,
+   "name": "Coffee Lounge",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "stepFree": true,
+   "note": "Daily 10.30–16.30, beside the South lifts.",
+   "rects": [
+    [863, 961, 977, 986]
+   ]
+  },
+  {
+   "id": "west-landing-3",
+   "level": 3,
+   "name": "West stairs, Level 3",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "rects": [
+    [676, 556, 714, 597]
+   ]
+  },
+  {
+   "id": "east-landing-3",
+   "level": 3,
+   "name": "East stairs, Level 3",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "rects": [
+    [1123, 556, 1161, 597]
+   ]
+  },
+  {
+   "id": "north-landing-3",
+   "level": 3,
+   "name": "North stairs, Level 3",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "stepFree": true,
+   "rects": [
+    [870, 393, 967, 437]
+   ]
+  },
+  {
+   "id": "gc-restaurant",
+   "level": 3,
+   "name": "Great Court Restaurant",
+   "area": "public",
+   "kind": "space",
+   "stepFree": true,
+   "note": "Above the Reading Room, reached from the Great Court by the curving staircases or the Great Court lifts. 11.30–17.00, last sitting 16.00.",
+   "rects": [
+    [833, 603, 1005, 647]
+   ]
+  },
+  {
+   "id": "90",
+   "level": 4,
+   "room": "90",
+   "name": "Prints and drawings",
+   "area": "exhibitions",
+   "note": "Rooms 90 and 90a: changing displays from the prints and drawings collection.",
+   "url": "https://www.britishmuseum.org/collection/galleries/prints-and-drawings-galleries-90-and-90a",
+   "rects": [
+    [790, 348, 914, 393]
+   ]
+  },
+  {
+   "id": "90a",
+   "level": 4,
+   "room": "90a",
+   "name": "Prints and drawings",
+   "area": "exhibitions",
+   "note": "Rooms 90 and 90a: changing displays from the prints and drawings collection.",
+   "url": "https://www.britishmuseum.org/collection/galleries/prints-and-drawings-galleries-90-and-90a",
+   "rects": [
+    [918, 348, 967, 393]
+   ]
+  },
+  {
+   "id": "north-landing-4",
+   "level": 4,
+   "name": "North stairs, Level 4",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "rects": [
+    [870, 397, 967, 439]
+   ]
+  },
+  {
+   "id": "94",
+   "level": 5,
+   "room": "94",
+   "name": "Japan",
+   "area": "asia",
+   "note": "The Mitsubishi Corporation Japanese Galleries (Rooms 92–94): continuity and change in Japan's past and present.",
+   "url": "https://www.britishmuseum.org/collection/galleries/japan",
+   "rects": [
+    [717, 351, 799, 397]
+   ]
+  },
+  {
+   "id": "93",
+   "level": 5,
+   "room": "93",
+   "name": "Japan",
+   "area": "asia",
+   "note": "The Mitsubishi Corporation Japanese Galleries (Rooms 92–94): continuity and change in Japan's past and present.",
+   "url": "https://www.britishmuseum.org/collection/galleries/japan",
+   "rects": [
+    [803, 351, 889, 397]
+   ]
+  },
+  {
+   "id": "92",
+   "level": 5,
+   "room": "92",
+   "name": "Japan",
+   "area": "asia",
+   "note": "The Mitsubishi Corporation Japanese Galleries (Rooms 92–94): continuity and change in Japan's past and present.",
+   "url": "https://www.britishmuseum.org/collection/galleries/japan",
+   "rects": [
+    [893, 351, 966, 397]
+   ]
+  },
+  {
+   "id": "north-landing-5",
+   "level": 5,
+   "name": "North stairs, Level 5",
+   "area": "public",
+   "kind": "space",
+   "hall": true,
+   "rects": [
+    [904, 401, 966, 441]
+   ]
+  }
+ ],
+ "doors": [
+  {
+   "a": "30",
+   "b": "west-stairs",
+   "x": 746,
+   "y": 498,
+   "w": 22
+  },
+  {
+   "a": "30",
+   "b": "west-stairs",
+   "x": 794,
+   "y": 498,
+   "w": 22
+  },
+  {
+   "a": "20",
+   "b": "21",
+   "x": 604,
+   "y": 587,
+   "w": 15
+  },
+  {
+   "a": "20",
+   "b": "19",
+   "x": 579,
+   "y": 641,
+   "w": 40
+  },
+  {
+   "a": "21",
+   "b": "22",
+   "x": 639,
+   "y": 696,
+   "w": 21
+  },
+  {
+   "a": "21",
+   "b": "west-stairs",
+   "x": 676,
+   "y": 567,
+   "w": 11
+  },
+  {
+   "a": "19",
+   "b": "17",
+   "x": 579,
+   "y": 703,
+   "w": 40
+  },
+  {
+   "a": "18",
+   "b": "18b",
+   "x": 538,
+   "y": 769,
+   "w": 29
+  },
+  {
+   "a": "18",
+   "b": "18a",
+   "x": 538,
+   "y": 797,
+   "w": 29
+  },
+  {
+   "a": "18",
+   "b": "17",
+   "x": 557,
+   "y": 783,
+   "w": 22
+  },
+  {
+   "a": "17",
+   "b": "16",
+   "x": 565,
+   "y": 833,
+   "steps": true,
+   "note": "Stairs down to Room 16",
+   "w": 13
+  },
+  {
+   "a": "17",
+   "b": "23",
+   "x": 605,
+   "y": 783,
+   "w": 22
+  },
+  {
+   "a": "16",
+   "b": "15",
+   "x": 581,
+   "y": 873,
+   "w": 15
+  },
+  {
+   "a": "15",
+   "b": "14",
+   "x": 581,
+   "y": 952,
+   "w": 14
+  },
+  {
+   "a": "14",
+   "b": "13",
+   "x": 581,
+   "y": 980,
+   "w": 15
+  },
+  {
+   "a": "13",
+   "b": "12",
+   "x": 581,
+   "y": 1039,
+   "w": 15
+  },
+  {
+   "a": "12",
+   "b": "6",
+   "x": 717,
+   "y": 1058,
+   "w": 13
+  },
+  {
+   "a": "12",
+   "b": "pizzeria",
+   "x": 571,
+   "y": 1060,
+   "lift": true,
+   "note": "Stairs or the level access lift",
+   "w": 12
+  },
+  {
+   "a": "22",
+   "b": "23",
+   "x": 619,
+   "y": 759,
+   "w": 21
+  },
+  {
+   "a": "22",
+   "b": "23",
+   "x": 659,
+   "y": 759,
+   "w": 22
+  },
+  {
+   "a": "23",
+   "b": "10",
+   "x": 639,
+   "y": 818,
+   "w": 21
+  },
+  {
+   "a": "23",
+   "b": "8",
+   "x": 675,
+   "y": 783,
+   "w": 22
+  },
+  {
+   "a": "10",
+   "b": "7",
+   "x": 676,
+   "y": 963,
+   "w": 22
+  },
+  {
+   "a": "9",
+   "b": "8",
+   "x": 694,
+   "y": 750,
+   "w": 23
+  },
+  {
+   "a": "9",
+   "b": "4",
+   "x": 718,
+   "y": 635,
+   "w": 15
+  },
+  {
+   "a": "8",
+   "b": "7",
+   "x": 694,
+   "y": 820,
+   "w": 23
+  },
+  {
+   "a": "8",
+   "b": "4",
+   "x": 718,
+   "y": 783,
+   "w": 22
+  },
+  {
+   "a": "7",
+   "b": "6",
+   "x": 694,
+   "y": 979,
+   "w": 23
+  },
+  {
+   "a": "4",
+   "b": "6",
+   "x": 742,
+   "y": 980,
+   "w": 22
+  },
+  {
+   "a": "4",
+   "b": "great-court",
+   "x": 770,
+   "y": 783,
+   "w": 22
+  },
+  {
+   "a": "4",
+   "b": "west-stairs",
+   "x": 742,
+   "y": 599,
+   "w": 22
+  },
+  {
+   "a": "6",
+   "b": "entrance-hall",
+   "x": 771,
+   "y": 1057,
+   "w": 15
+  },
+  {
+   "a": "24",
+   "b": "26",
+   "x": 971,
+   "y": 524,
+   "w": 15
+  },
+  {
+   "a": "24",
+   "b": "great-court",
+   "x": 918,
+   "y": 595,
+   "w": 14
+  },
+  {
+   "a": "24",
+   "b": "west-stairs",
+   "x": 869,
+   "y": 567,
+   "w": 12
+  },
+  {
+   "a": "26",
+   "b": "27",
+   "x": 1069,
+   "y": 524,
+   "w": 15
+  },
+  {
+   "a": "27",
+   "b": "east-stairs",
+   "x": 1095,
+   "y": 548,
+   "w": 15
+  },
+  {
+   "a": "1",
+   "b": "2",
+   "x": 1094,
+   "y": 980,
+   "w": 48
+  },
+  {
+   "a": "1",
+   "b": "great-court",
+   "x": 1067,
+   "y": 783,
+   "w": 22
+  },
+  {
+   "a": "1",
+   "b": "east-stairs",
+   "x": 1095,
+   "y": 598,
+   "w": 15
+  },
+  {
+   "a": "2",
+   "b": "2a",
+   "x": 1095,
+   "y": 1045,
+   "w": 22
+  },
+  {
+   "a": "2",
+   "b": "entrance-hall",
+   "x": 1047,
+   "y": 1008,
+   "w": 14
+  },
+  {
+   "a": "3",
+   "b": "entrance-hall",
+   "x": 963,
+   "y": 1057,
+   "w": 15
+  },
+  {
+   "a": "great-court",
+   "b": "entrance-hall",
+   "x": 890,
+   "y": 980,
+   "w": 13
+  },
+  {
+   "a": "great-court",
+   "b": "entrance-hall",
+   "x": 918,
+   "y": 980,
+   "w": 32
+  },
+  {
+   "a": "great-court",
+   "b": "entrance-hall",
+   "x": 947,
+   "y": 980,
+   "w": 12
+  },
+  {
+   "a": "great-court",
+   "b": "west-stairs",
+   "x": 794,
+   "y": 598,
+   "w": 22
+  },
+  {
+   "a": "great-court",
+   "b": "west-stairs",
+   "x": 842,
+   "y": 598,
+   "w": 22
+  },
+  {
+   "a": "great-court",
+   "b": "reading-room",
+   "x": 918,
+   "y": 848,
+   "w": 12
+  },
+  {
+   "a": "33a",
+   "b": "33",
+   "x": 769,
+   "y": 370,
+   "w": 16
+  },
+  {
+   "a": "33",
+   "b": "33b",
+   "x": 1124,
+   "y": 372,
+   "w": 16
+  },
+  {
+   "a": "33",
+   "b": "north-landing-1",
+   "x": 919,
+   "y": 396,
+   "w": 16
+  },
+  {
+   "a": "35",
+   "b": "gc-upper-west",
+   "x": 864,
+   "y": 678,
+   "w": 16
+  },
+  {
+   "a": "35",
+   "b": "gc-upper-east",
+   "x": 973,
+   "y": 678,
+   "w": 16
+  },
+  {
+   "a": "95",
+   "b": "67",
+   "x": 849,
+   "y": 370,
+   "w": 16
+  },
+  {
+   "a": "67",
+   "b": "north-landing-2",
+   "x": 910,
+   "y": 396,
+   "w": 16
+  },
+  {
+   "a": "61",
+   "b": "62",
+   "x": 788,
+   "y": 530,
+   "w": 16
+  },
+  {
+   "a": "62",
+   "b": "63",
+   "x": 868,
+   "y": 530,
+   "w": 16
+  },
+  {
+   "a": "63",
+   "b": "64",
+   "x": 970,
+   "y": 530,
+   "w": 16
+  },
+  {
+   "a": "64",
+   "b": "65",
+   "x": 1067,
+   "y": 530,
+   "w": 16
+  },
+  {
+   "a": "59",
+   "b": "58",
+   "x": 767,
+   "y": 578,
+   "w": 16
+  },
+  {
+   "a": "58",
+   "b": "57",
+   "x": 805,
+   "y": 578,
+   "w": 16
+  },
+  {
+   "a": "57",
+   "b": "56",
+   "x": 866,
+   "y": 578,
+   "w": 16
+  },
+  {
+   "a": "56",
+   "b": "55",
+   "x": 968,
+   "y": 578,
+   "w": 16
+  },
+  {
+   "a": "55",
+   "b": "54",
+   "x": 1027,
+   "y": 578,
+   "w": 16
+  },
+  {
+   "a": "54",
+   "b": "53",
+   "x": 1067,
+   "y": 578,
+   "w": 16
+  },
+  {
+   "a": "61",
+   "b": "59",
+   "x": 742,
+   "y": 554,
+   "w": 16
+  },
+  {
+   "a": "63",
+   "b": "56",
+   "x": 918,
+   "y": 554,
+   "w": 16
+  },
+  {
+   "a": "65",
+   "b": "53",
+   "x": 1094,
+   "y": 554,
+   "w": 16
+  },
+  {
+   "a": "63",
+   "b": "66",
+   "x": 918,
+   "y": 500,
+   "w": 16
+  },
+  {
+   "a": "66",
+   "b": "north-landing-3",
+   "x": 918,
+   "y": 439,
+   "w": 16
+  },
+  {
+   "a": "west-landing-3",
+   "b": "59",
+   "x": 716,
+   "y": 577,
+   "w": 16
+  },
+  {
+   "a": "east-landing-3",
+   "b": "53",
+   "x": 1121,
+   "y": 577,
+   "w": 16
+  },
+  {
+   "a": "59",
+   "b": "73",
+   "x": 742,
+   "y": 601,
+   "w": 16
+  },
+  {
+   "a": "73",
+   "b": "72",
+   "x": 742,
+   "y": 669,
+   "w": 16
+  },
+  {
+   "a": "72",
+   "b": "71",
+   "x": 742,
+   "y": 753,
+   "w": 16
+  },
+  {
+   "a": "71",
+   "b": "70",
+   "x": 742,
+   "y": 822,
+   "w": 16
+  },
+  {
+   "a": "70",
+   "b": "69",
+   "x": 742,
+   "y": 965,
+   "w": 16
+  },
+  {
+   "a": "69",
+   "b": "68",
+   "x": 771,
+   "y": 1061,
+   "w": 16
+  },
+  {
+   "a": "68",
+   "b": "37",
+   "x": 873,
+   "y": 1061,
+   "w": 16
+  },
+  {
+   "a": "37",
+   "b": "38",
+   "x": 963,
+   "y": 1061,
+   "w": 16
+  },
+  {
+   "a": "38",
+   "b": "39",
+   "x": 1007,
+   "y": 1061,
+   "w": 16
+  },
+  {
+   "a": "37",
+   "b": "36",
+   "x": 925,
+   "y": 1045,
+   "w": 16
+  },
+  {
+   "a": "south-stairs-3",
+   "b": "36",
+   "x": 887,
+   "y": 1015,
+   "w": 16
+  },
+  {
+   "a": "36",
+   "b": "coffee-lounge",
+   "x": 925,
+   "y": 988,
+   "w": 16
+  },
+  {
+   "a": "36",
+   "b": "40",
+   "x": 963,
+   "y": 1015,
+   "w": 16
+  },
+  {
+   "a": "40",
+   "b": "41",
+   "x": 1046,
+   "y": 1013,
+   "w": 16
+  },
+  {
+   "a": "41",
+   "b": "49",
+   "x": 1095,
+   "y": 969,
+   "w": 16
+  },
+  {
+   "a": "41",
+   "b": "42",
+   "x": 1141,
+   "y": 1013,
+   "w": 16
+  },
+  {
+   "a": "41",
+   "b": "47",
+   "x": 1095,
+   "y": 1055,
+   "w": 16
+  },
+  {
+   "a": "47",
+   "b": "46",
+   "x": 1121,
+   "y": 1089,
+   "w": 16
+  },
+  {
+   "a": "47",
+   "b": "48",
+   "x": 1095,
+   "y": 1131,
+   "w": 16
+  },
+  {
+   "a": "46",
+   "b": "43",
+   "x": 1251,
+   "y": 1089,
+   "w": 16
+  },
+  {
+   "a": "42",
+   "b": "43",
+   "x": 1251,
+   "y": 1028,
+   "w": 16
+  },
+  {
+   "a": "43",
+   "b": "43a",
+   "x": 1281,
+   "y": 1014,
+   "w": 16
+  },
+  {
+   "a": "49",
+   "b": "50",
+   "x": 1095,
+   "y": 822,
+   "w": 16
+  },
+  {
+   "a": "50",
+   "b": "51",
+   "x": 1095,
+   "y": 753,
+   "w": 16
+  },
+  {
+   "a": "51",
+   "b": "52",
+   "x": 1095,
+   "y": 669,
+   "w": 16
+  },
+  {
+   "a": "52",
+   "b": "53",
+   "x": 1095,
+   "y": 601,
+   "w": 16
+  },
+  {
+   "a": "90",
+   "b": "90a",
+   "x": 916,
+   "y": 371,
+   "w": 16
+  },
+  {
+   "a": "90a",
+   "b": "north-landing-4",
+   "x": 943,
+   "y": 395,
+   "w": 16
+  },
+  {
+   "a": "94",
+   "b": "93",
+   "x": 801,
+   "y": 374,
+   "w": 16
+  },
+  {
+   "a": "93",
+   "b": "92",
+   "x": 891,
+   "y": 374,
+   "w": 16
+  },
+  {
+   "a": "92",
+   "b": "north-landing-5",
+   "x": 935,
+   "y": 399,
+   "w": 16
+  }
+ ],
+ "points": [
+  {
+   "id": "main-entrance",
+   "type": "entrance",
+   "name": "Main entrance, Great Russell Street",
+   "x": 918,
+   "y": 1128,
+   "space": "entrance-hall",
+   "join": [918, 1072],
+   "stepFree": true,
+   "note": "Across the forecourt and up 12 steps with a handrail. For step-free entry, use the lifts on either side of the steps.",
+   "level": 0
+  },
+  {
+   "id": "montague-entrance",
+   "type": "entrance",
+   "name": "Montague Place entrance",
+   "x": 918,
+   "y": 368,
+   "space": "montague-hall",
+   "stepFree": true,
+   "note": "The north entrance, on Level -1. It is step-free: the North lift is on the left past the bust of King Edward VII, with 12 steps to its right, up to Room 24 on Level 0.",
+   "level": -1
+  },
+  {
+   "id": "rosetta-stone",
+   "type": "highlight",
+   "name": "Rosetta Stone",
+   "x": 750,
+   "y": 762,
+   "space": "4",
+   "marked": true,
+   "note": "The key to deciphering the ancient Egyptian language and hieroglyphic script, and the Museum's most popular exhibit.",
+   "url": "https://www.britishmuseum.org/collection/galleries/egyptian-sculpture",
+   "level": 0
+  },
+  {
+   "id": "parthenon-sculptures",
+   "type": "highlight",
+   "name": "Parthenon sculptures",
+   "x": 484,
+   "y": 762,
+   "space": "18",
+   "marked": true,
+   "note": "On permanent display since 1817. The frieze shows the procession of the Panathenaic festival, Athena's birthday.",
+   "url": "https://www.britishmuseum.org/collection/galleries/greece-parthenon",
+   "level": 0
+  },
+  {
+   "id": "lion-hunt-reliefs",
+   "type": "highlight",
+   "name": "Assyrian Lion Hunt reliefs",
+   "x": 625,
+   "y": 838,
+   "space": "10",
+   "marked": true,
+   "note": "Carved for King Ashurbanipal's palace at Nineveh, 645–635 BC. Hunting lions was the sport of Assyrian kings.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+   "level": 0
+  },
+  {
+   "id": "hoa-hakananaia",
+   "type": "highlight",
+   "name": "Hoa Hakananai'a",
+   "x": 919,
+   "y": 582,
+   "space": "24",
+   "marked": true,
+   "note": "A basalt ancestor figure (moai) from the ritual centre of Orongo on Rapa Nui/Easter Island. The carvings on its back are linked to the islanders' birdman cult.",
+   "url": "https://www.britishmuseum.org/collection/galleries/living-and-dying",
+   "level": 0
+  },
+  {
+   "id": "holy-thorn-reliquary",
+   "type": "highlight",
+   "name": "Holy Thorn Reliquary",
+   "x": 1100,
+   "y": 1077,
+   "space": "2a",
+   "marked": true,
+   "note": "Gold, enamel, rubies, pearls and sapphires around a single thorn, made in Paris about 1400 for Jean, duc de Berry.",
+   "url": "https://www.britishmuseum.org/collection/object/H_WB-67",
+   "level": 0
+  },
+  {
+   "id": "khorsabad-bulls",
+   "type": "highlight",
+   "name": "Winged bulls from Khorsabad",
+   "x": 641,
+   "y": 885,
+   "space": "10",
+   "inRoom": true,
+   "note": "A pair of colossal human-headed winged bulls that guarded the palace of King Sargon II at Khorsabad. They greet visitors to Room 10a.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyria-lion-hunts",
+   "level": 0
+  },
+  {
+   "id": "nimrud-lions",
+   "type": "highlight",
+   "name": "Winged lions from Nimrud",
+   "x": 745,
+   "y": 1020,
+   "space": "6",
+   "inRoom": true,
+   "note": "Two colossal winged human-headed lions that flanked an entrance to the palace of Ashurnasirpal II (883–859 BC) at Nimrud.",
+   "url": "https://www.britishmuseum.org/collection/galleries/assyrian-sculpture-and-balawat-gates",
+   "level": 0
+  },
+  {
+   "id": "nereid-monument",
+   "type": "highlight",
+   "name": "Nereid Monument",
+   "x": 580,
+   "y": 750,
+   "space": "17",
+   "inRoom": true,
+   "note": "The largest and finest of the Lycian tombs from Xanthos, rebuilt in Room 17.",
+   "url": "https://www.britishmuseum.org/collection/galleries/nereid-monument",
+   "level": 0
+  },
+  {
+   "id": "mausoleum",
+   "type": "highlight",
+   "name": "Mausoleum of Halikarnassos",
+   "x": 640,
+   "y": 625,
+   "space": "21",
+   "inRoom": true,
+   "note": "Regarded as one of the Seven Wonders of the Ancient World; the word 'mausoleum' comes from it.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mausoleum-halikarnassos",
+   "level": 0
+  },
+  {
+   "id": "info-desk",
+   "type": "desk",
+   "name": "Information Desk",
+   "x": 1010,
+   "y": 924,
+   "space": "great-court",
+   "note": "10.00–17.00. Free paper maps.",
+   "level": 0
+  },
+  {
+   "id": "ticket-desk",
+   "type": "desk",
+   "name": "Ticket Desk",
+   "x": 1051,
+   "y": 890,
+   "space": "great-court",
+   "note": "10.00–16.30.",
+   "level": 0
+  },
+  {
+   "id": "membership-desk",
+   "type": "desk",
+   "name": "Membership Desk",
+   "x": 1051,
+   "y": 868,
+   "space": "great-court",
+   "level": 0
+  },
+  {
+   "id": "guide-desk",
+   "type": "desk",
+   "name": "Guide Desk",
+   "x": 782,
+   "y": 871,
+   "space": "great-court",
+   "note": "10.00–16.30. Sells earbuds for the Audio app.",
+   "level": 0
+  },
+  {
+   "id": "families-desk",
+   "type": "desk",
+   "name": "Families Desk",
+   "x": 826,
+   "y": 924,
+   "space": "great-court",
+   "note": "10.00–12.30 and 13.15–16.30, weekends and Camden school holidays only.",
+   "level": 0
+  },
+  {
+   "id": "cloakroom",
+   "type": "cloakroom",
+   "name": "Visitor and Member cloakroom",
+   "x": 812,
+   "y": 1057,
+   "space": "entrance-hall",
+   "note": "10.00–17.00 (Fridays to 20.30). Last deposit one hour before closing.",
+   "level": 0
+  },
+  {
+   "id": "toilets-gc-west",
+   "type": "toilets",
+   "name": "Toilets (Great Court, west)",
+   "x": 826,
+   "y": 827,
+   "space": "great-court",
+   "note": "With an accessible toilet beside them.",
+   "level": 0
+  },
+  {
+   "id": "toilets-gc-east",
+   "type": "toilets",
+   "name": "Toilets (Great Court, east)",
+   "x": 988,
+   "y": 827,
+   "space": "great-court",
+   "note": "With an accessible toilet and baby changing.",
+   "level": 0
+  },
+  {
+   "id": "toilets-east-stairs",
+   "type": "toilets",
+   "name": "Toilets (East stairs)",
+   "x": 1147,
+   "y": 562,
+   "space": "east-stairs",
+   "note": "With an accessible toilet and baby changing.",
+   "level": 0
+  },
+  {
+   "id": "toilets-pizzeria",
+   "type": "toilets",
+   "name": "Toilets (Pizzeria)",
+   "x": 540,
+   "y": 1052,
+   "space": "pizzeria",
+   "level": 0
+  },
+  {
+   "id": "accessible-toilet-west-stairs",
+   "type": "accessible",
+   "name": "Accessible toilet (West stairs)",
+   "x": 785,
+   "y": 532,
+   "space": "west-stairs",
+   "level": 0
+  },
+  {
+   "id": "court-cafe-west",
+   "type": "food",
+   "name": "Court Café (west)",
+   "x": 785,
+   "y": 680,
+   "space": "great-court",
+   "note": "Sandwiches, salads, cakes and hot drinks at long sharing tables. 10.00–17.00.",
+   "level": 0
+  },
+  {
+   "id": "court-cafe-north-east",
+   "type": "food",
+   "name": "Court Café (north-east)",
+   "x": 1047,
+   "y": 617,
+   "space": "great-court",
+   "note": "Sandwiches, salads, cakes and hot drinks at long sharing tables. 10.00–17.00.",
+   "level": 0
+  },
+  {
+   "id": "pizzeria-counter",
+   "type": "food",
+   "name": "Pizzeria",
+   "x": 477,
+   "y": 1092,
+   "space": "pizzeria",
+   "note": "Hand-tossed pizzas, salads and gelato; gluten-free bases. 11.00–16.00. For assisted disabled access, ask a member of staff.",
+   "level": 0
+  },
+  {
+   "id": "forecourt-cafe",
+   "type": "food",
+   "name": "Forecourt Café",
+   "x": 1034,
+   "y": 1132,
+   "space": "entrance-hall",
+   "join": [1000, 1072],
+   "outside": true,
+   "note": "Food trucks with outdoor seating, 10.00–17.00; hours may change in poor weather.",
+   "level": 0
+  },
+  {
+   "id": "great-court-shop",
+   "type": "shop",
+   "name": "Great Court Shop",
+   "x": 913,
+   "y": 636,
+   "space": "great-court",
+   "level": 0
+  },
+  {
+   "id": "collections-shop",
+   "type": "shop",
+   "name": "Collections Shop",
+   "x": 826,
+   "y": 765,
+   "space": "great-court",
+   "note": "10.00–17.00.",
+   "level": 0
+  },
+  {
+   "id": "book-shop",
+   "type": "shop",
+   "name": "Book Shop",
+   "x": 1010,
+   "y": 762,
+   "space": "great-court",
+   "note": "10.00–17.00.",
+   "level": 0
+  },
+  {
+   "id": "grenville-room",
+   "type": "shop",
+   "name": "Grenville Room shop",
+   "x": 1005,
+   "y": 1010,
+   "space": "entrance-hall",
+   "note": "10.00–17.00.",
+   "level": 0
+  },
+  {
+   "id": "main-entrance-lifts",
+   "type": "lift",
+   "name": "Main entrance lifts",
+   "x": 1015,
+   "y": 1107,
+   "space": "entrance-hall",
+   "join": [1000, 1072],
+   "outside": true,
+   "levels": "Forecourt to Level 0",
+   "note": "Level access lifts on both sides of the entrance steps.",
+   "level": 0
+  },
+  {
+   "id": "great-court-lifts",
+   "type": "lift",
+   "name": "Great Court lift (west)",
+   "x": 857,
+   "y": 676,
+   "space": "great-court",
+   "levels": "Levels -2 to 3",
+   "note": "Near the Great Court Shop, on the west side of the Reading Room. Down to Room 25; up to Room 35 and the Great Court Restaurant.",
+   "shaft": "great-court-lifts",
+   "level": 0
+  },
+  {
+   "id": "south-lifts",
+   "type": "lift",
+   "name": "South lift (west)",
+   "x": 866,
+   "y": 962,
+   "space": "great-court",
+   "levels": "Levels -2 to 3",
+   "note": "By the front entrance to the Great Court. Down to the Ford Centre; up to the Coffee Lounge on Level 3.",
+   "shaft": "south-lifts",
+   "level": 0
+  },
+  {
+   "id": "west-lift",
+   "type": "lift",
+   "name": "West lift",
+   "x": 757,
+   "y": 577,
+   "space": "west-stairs",
+   "levels": "Levels 0 to 5",
+   "note": "Up to the upper floors; it opens on Level 3 beside Room 59.",
+   "shaft": "west-lift",
+   "level": 0
+  },
+  {
+   "id": "north-lift",
+   "type": "lift",
+   "name": "North lift",
+   "x": 944,
+   "y": 452,
+   "space": "24",
+   "levels": "Levels -1 to 5",
+   "note": "Down to the Montague Place entrance (Level -1); up to every upper floor of the north wing.",
+   "shaft": "north-lift",
+   "level": 0
+  },
+  {
+   "id": "pizzeria-lift",
+   "type": "lift",
+   "name": "Level access lift (Pizzeria)",
+   "x": 561,
+   "y": 1052,
+   "space": "pizzeria",
+   "levels": "Room 12 to the Pizzeria",
+   "level": 0
+  },
+  {
+   "id": "west-stairs-flight",
+   "type": "stairs",
+   "name": "West stairs",
+   "x": 695,
+   "y": 570,
+   "space": "west-stairs",
+   "levels": "Levels 0 to 5",
+   "shaft": "west-stairs-flight",
+   "level": 0
+  },
+  {
+   "id": "east-stairs-flight",
+   "type": "stairs",
+   "name": "East stairs",
+   "x": 1094,
+   "y": 570,
+   "space": "east-stairs",
+   "levels": "Levels 0 to 3",
+   "shaft": "east-stairs-flight",
+   "level": 0
+  },
+  {
+   "id": "south-stairs",
+   "type": "stairs",
+   "name": "South stairs",
+   "x": 846,
+   "y": 1007,
+   "space": "entrance-hall",
+   "levels": "Levels 0 to 3",
+   "shaft": "south-stairs",
+   "level": 0
+  },
+  {
+   "id": "north-stairs",
+   "type": "stairs",
+   "name": "North stairs",
+   "x": 892,
+   "y": 452,
+   "space": "24",
+   "levels": "Levels -1 to 5",
+   "note": "Down to the Montague Place entrance (Level -1); up to every upper floor of the north wing.",
+   "shaft": "north-stairs",
+   "level": 0
+  },
+  {
+   "id": "stairs-room-25",
+   "type": "stairs",
+   "name": "Stairs down to Room 25 (east)",
+   "x": 957,
+   "y": 582,
+   "space": "24",
+   "levels": "Room 24 to Room 25, Africa",
+   "shaft": "stairs-room-25",
+   "level": 0,
+   "note": "Down to the Africa galleries on Level -2."
+  },
+  {
+   "id": "clore-stairs-west",
+   "type": "stairs",
+   "name": "Stairs down to the Clore Centre (west)",
+   "x": 785,
+   "y": 962,
+   "space": "great-court",
+   "levels": "Level 0 to Level -1",
+   "note": "The Clore Centre for Education is open to the public only for events; the Ford Centre for Young Visitors is down here too, at weekends and in school holidays.",
+   "shaft": "clore-stairs-west",
+   "level": 0
+  },
+  {
+   "id": "clore-stairs-east",
+   "type": "stairs",
+   "name": "Stairs down to the Clore Centre (east)",
+   "x": 1051,
+   "y": 962,
+   "space": "great-court",
+   "levels": "Level 0 to Level -1",
+   "note": "The Clore Centre for Education is open to the public only for events.",
+   "shaft": "clore-stairs-east",
+   "level": 0
+  },
+  {
+   "type": "highlight",
+   "id": "benin-plaques",
+   "level": -2,
+   "name": "Brass plaques from Benin",
+   "x": 803,
+   "y": 678,
+   "space": "25",
+   "marked": true,
+   "note": "Brass plaques from Benin, among the masterpieces of African art in Room 25.",
+   "url": "https://www.britishmuseum.org/collection/galleries/africa"
+  },
+  {
+   "type": "highlight",
+   "id": "ife-head",
+   "level": -2,
+   "name": "Ife Head",
+   "x": 1034,
+   "y": 660,
+   "space": "25",
+   "inRoom": true,
+   "note": "A brass head, perhaps 600 years old, probably of an Ooni, the ruler of the West African kingdom of Ife.",
+   "url": "https://www.britishmuseum.org/collection/galleries/africa"
+  },
+  {
+   "type": "highlight",
+   "id": "tang-figures",
+   "level": 1,
+   "name": "Tang dynasty tomb figures",
+   "x": 1052,
+   "y": 371,
+   "space": "33",
+   "marked": true,
+   "note": "Figures from the tomb of a Tang dynasty general.",
+   "url": "https://www.britishmuseum.org/collection/galleries/china-and-south-asia"
+  },
+  {
+   "type": "highlight",
+   "id": "shiva-nataraja",
+   "level": 1,
+   "name": "Shiva Nataraja",
+   "x": 889,
+   "y": 371,
+   "space": "33",
+   "marked": true,
+   "note": "A bronze of Shiva as Lord of the Dance, from south India.",
+   "url": "https://www.britishmuseum.org/collection/galleries/china-and-south-asia"
+  },
+  {
+   "type": "highlight",
+   "id": "katebet",
+   "level": 3,
+   "name": "Mummy of Katebet",
+   "x": 919,
+   "y": 528,
+   "space": "63",
+   "inRoom": true,
+   "note": "Katebet was a Chantress of Amun at Karnak, who sang and performed music in rituals. Her mummy dates from 1330–1250 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/egyptian-death-and-afterlife-mummies"
+  },
+  {
+   "type": "highlight",
+   "id": "game-of-ur",
+   "level": 3,
+   "name": "Royal Game of Ur",
+   "x": 917,
+   "y": 579,
+   "space": "56",
+   "inRoom": true,
+   "note": "A two-player board game from about 2600 BC. A Museum curator, Irving Finkel, worked out its lost rules from a cuneiform tablet in the early 1980s.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia"
+  },
+  {
+   "type": "highlight",
+   "id": "flood-tablet",
+   "level": 3,
+   "name": "The Flood Tablet",
+   "x": 997,
+   "y": 578,
+   "space": "55",
+   "inRoom": true,
+   "note": "The 11th tablet of the Epic of Gilgamesh, from Ashurbanipal's library at Nineveh. It tells of a man forewarned of a great flood who builds a boat, like Noah.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mesopotamia-1500-539-bc"
+  },
+  {
+   "type": "highlight",
+   "id": "sphinx-taharqo",
+   "level": 3,
+   "name": "Sphinx of Taharqo",
+   "x": 1094,
+   "y": 530,
+   "space": "65",
+   "inRoom": true,
+   "note": "A granite sphinx with the face of Taharqo, a king of Kush who ruled Egypt; from Kawa, Sudan, about 680 BC.",
+   "url": "https://www.britishmuseum.org/collection/galleries/sudan-egypt-and-nubia"
+  },
+  {
+   "type": "highlight",
+   "id": "oxus-treasure",
+   "level": 3,
+   "name": "Oxus Treasure",
+   "x": 1083,
+   "y": 616,
+   "space": "52",
+   "marked": true,
+   "note": "Gold and silver metalwork of the Achaemenid Empire, 5th to 3rd century BC, found by the Oxus river on the border of Afghanistan and Tajikistan.",
+   "url": "https://www.britishmuseum.org/collection/galleries/ancient-iran"
+  },
+  {
+   "type": "highlight",
+   "id": "mold-cape",
+   "level": 3,
+   "name": "Mold gold cape",
+   "x": 1094,
+   "y": 712,
+   "space": "51",
+   "inRoom": true,
+   "note": "A Bronze Age cape of beaten sheet gold, found in a grave at Mold in North Wales in 1833.",
+   "url": "https://www.britishmuseum.org/collection/galleries/europe-and-middle-east"
+  },
+  {
+   "type": "highlight",
+   "id": "hinton-st-mary",
+   "level": 3,
+   "name": "Hinton St Mary Mosaic",
+   "x": 1094,
+   "y": 895,
+   "space": "49",
+   "inRoom": true,
+   "note": "A Roman floor mosaic from Dorset, found in 1963, believed to show Christ. It dates from the 4th century.",
+   "url": "https://www.britishmuseum.org/collection/galleries/roman-britain"
+  },
+  {
+   "type": "highlight",
+   "id": "sutton-hoo-helmet",
+   "level": 3,
+   "name": "Sutton Hoo helmet",
+   "x": 1094,
+   "y": 1012,
+   "space": "41",
+   "inRoom": true,
+   "note": "One of only four complete Anglo-Saxon helmets to survive, rebuilt from shattered pieces. Its mouth, nose and eyebrows form the image of a flying beast.",
+   "url": "https://www.britishmuseum.org/collection/galleries/sutton-hoo-and-europe"
+  },
+  {
+   "type": "highlight",
+   "id": "lewis-chessmen",
+   "level": 3,
+   "name": "Lewis Chessmen",
+   "x": 1026,
+   "y": 1001,
+   "space": "40",
+   "marked": true,
+   "note": "Walrus-ivory chess pieces made in the 12th century and found buried in a sand bank off the Scottish island of Lewis in 1831.",
+   "url": "https://www.britishmuseum.org/collection/galleries/medieval-europe"
+  },
+  {
+   "type": "highlight",
+   "id": "astrolabe",
+   "level": 3,
+   "name": "Astrolabe",
+   "x": 1221,
+   "y": 1029,
+   "space": "42",
+   "marked": true,
+   "note": "A scientific instrument from the Islamic world."
+  },
+  {
+   "type": "highlight",
+   "id": "jade-terrapin",
+   "level": 3,
+   "name": "Jade terrapin",
+   "x": 1280,
+   "y": 1060,
+   "space": "43",
+   "inRoom": true,
+   "note": "A life-size terrapin carved from one block of jade for the court of the Mughal emperor Jahangir in the early 17th century."
+  },
+  {
+   "type": "highlight",
+   "id": "mechanical-galleon",
+   "level": 3,
+   "name": "Mechanical galleon",
+   "x": 1028,
+   "y": 1062,
+   "space": "39",
+   "inRoom": true,
+   "note": "A gilded brass table ornament made in southern Germany about 1585. It rolled forward, fired smoke from its cannons, played music and kept time.",
+   "url": "https://www.britishmuseum.org/collection/galleries/clocks-and-watches"
+  },
+  {
+   "type": "highlight",
+   "id": "portland-vase",
+   "level": 3,
+   "name": "Portland Vase",
+   "x": 734,
+   "y": 866,
+   "space": "70",
+   "marked": true,
+   "note": "The Roman vase that inspired Wedgwood.",
+   "url": "https://www.britishmuseum.org/collection/galleries/roman-empire"
+  },
+  {
+   "type": "highlight",
+   "id": "samurai-armour",
+   "level": 5,
+   "name": "Samurai armour",
+   "x": 846,
+   "y": 373,
+   "space": "93",
+   "inRoom": true,
+   "note": "A complete matching set made in the 18th century for a member of the Mori family, samurai lords in western Japan.",
+   "url": "https://www.britishmuseum.org/collection/galleries/japan"
+  },
+  {
+   "type": "highlight",
+   "id": "ramesses-bust",
+   "level": 0,
+   "name": "Bust of Ramesses II",
+   "x": 744,
+   "y": 880,
+   "space": "4",
+   "inRoom": true,
+   "note": "Part of a 7.5-tonne statue from the Ramesseum. Reports of its journey to Britain are believed to have inspired Shelley's sonnet Ozymandias.",
+   "url": "https://www.britishmuseum.org/collection/galleries/egyptian-sculpture"
+  },
+  {
+   "type": "highlight",
+   "id": "sloane-astrolabe",
+   "level": 0,
+   "name": "Sloane Astrolabe",
+   "x": 1094,
+   "y": 690,
+   "space": "1",
+   "inRoom": true,
+   "note": "Made around 1300, the earliest and largest English astrolabe to survive from the Middle Ages.",
+   "url": "https://www.britishmuseum.org/collection/galleries/enlightenment"
+  },
+  {
+   "type": "highlight",
+   "id": "aztec-serpent",
+   "level": 0,
+   "name": "Double-headed serpent",
+   "x": 1095,
+   "y": 525,
+   "space": "27",
+   "inRoom": true,
+   "note": "Turquoise mosaic over a wooden base, made in Mexico in the 15th or 16th century.",
+   "url": "https://www.britishmuseum.org/collection/galleries/mexico"
+  },
+  {
+   "id": "toilets-montague",
+   "type": "toilets",
+   "level": -1,
+   "name": "Toilets (Montague Place)",
+   "x": 956,
+   "y": 425,
+   "space": "montague-hall",
+   "note": "Women's toilet with baby changing."
+  },
+  {
+   "id": "toilets-ford",
+   "type": "toilets",
+   "level": -1,
+   "name": "Toilets (Ford Centre)",
+   "x": 990,
+   "y": 1034,
+   "space": "ford-centre",
+   "note": "Toilets, accessible toilets, baby changing and a baby feeding area."
+  },
+  {
+   "id": "toilets-level-1",
+   "type": "toilets",
+   "level": 1,
+   "name": "Toilets (Level 1, North stairs)",
+   "x": 958,
+   "y": 428,
+   "space": "north-landing-1",
+   "note": "Men's toilet."
+  },
+  {
+   "id": "toilets-level-4",
+   "type": "toilets",
+   "level": 4,
+   "name": "Toilets (Level 4, North stairs)",
+   "x": 955,
+   "y": 428,
+   "space": "north-landing-4",
+   "note": "Women's toilet, accessible toilet and baby changing."
+  },
+  {
+   "id": "accessible-toilet-level-3",
+   "type": "accessible",
+   "level": 3,
+   "name": "Accessible toilet (Level 3)",
+   "x": 990,
+   "y": 628,
+   "space": "gc-restaurant"
+  },
+  {
+   "id": "gc-restaurant-counter",
+   "type": "food",
+   "level": 3,
+   "name": "Great Court Restaurant",
+   "x": 919,
+   "y": 618,
+   "space": "gc-restaurant",
+   "note": "Above the Reading Room. 11.30–17.00, last sitting 16.00."
+  },
+  {
+   "id": "coffee-lounge-counter",
+   "type": "food",
+   "level": 3,
+   "name": "Coffee Lounge",
+   "x": 905,
+   "y": 975,
+   "space": "coffee-lounge",
+   "note": "By the South lifts and stairs. 10.30–16.30."
+  },
+  {
+   "id": "north-stairs@-1",
+   "type": "stairs",
+   "level": -1,
+   "name": "North stairs",
+   "x": 890,
+   "y": 410,
+   "space": "montague-hall",
+   "shaft": "north-stairs",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-stairs@1",
+   "type": "stairs",
+   "level": 1,
+   "name": "North stairs",
+   "x": 890,
+   "y": 418,
+   "space": "north-landing-1",
+   "shaft": "north-stairs",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-stairs@2",
+   "type": "stairs",
+   "level": 2,
+   "name": "North stairs",
+   "x": 890,
+   "y": 418,
+   "space": "north-landing-2",
+   "shaft": "north-stairs",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-stairs@3",
+   "type": "stairs",
+   "level": 3,
+   "name": "North stairs",
+   "x": 890,
+   "y": 418,
+   "space": "north-landing-3",
+   "shaft": "north-stairs",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-stairs@4",
+   "type": "stairs",
+   "level": 4,
+   "name": "North stairs",
+   "x": 890,
+   "y": 418,
+   "space": "north-landing-4",
+   "shaft": "north-stairs",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-stairs@5",
+   "type": "stairs",
+   "level": 5,
+   "name": "North stairs",
+   "x": 954,
+   "y": 420,
+   "space": "north-landing-5",
+   "shaft": "north-stairs",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-lift@-1",
+   "type": "lift",
+   "level": -1,
+   "name": "North lift",
+   "x": 944,
+   "y": 410,
+   "space": "montague-hall",
+   "shaft": "north-lift",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-lift@1",
+   "type": "lift",
+   "level": 1,
+   "name": "North lift",
+   "x": 944,
+   "y": 418,
+   "space": "north-landing-1",
+   "shaft": "north-lift",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-lift@2",
+   "type": "lift",
+   "level": 2,
+   "name": "North lift",
+   "x": 944,
+   "y": 418,
+   "space": "north-landing-2",
+   "shaft": "north-lift",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-lift@3",
+   "type": "lift",
+   "level": 3,
+   "name": "North lift",
+   "x": 944,
+   "y": 418,
+   "space": "north-landing-3",
+   "shaft": "north-lift",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-lift@4",
+   "type": "lift",
+   "level": 4,
+   "name": "North lift",
+   "x": 944,
+   "y": 418,
+   "space": "north-landing-4",
+   "shaft": "north-lift",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "north-lift@5",
+   "type": "lift",
+   "level": 5,
+   "name": "North lift",
+   "x": 930,
+   "y": 420,
+   "space": "north-landing-5",
+   "shaft": "north-lift",
+   "levels": "Levels -1 to 5",
+   "stop": true
+  },
+  {
+   "id": "west-stairs-flight@3",
+   "type": "stairs",
+   "level": 3,
+   "name": "West stairs",
+   "x": 696,
+   "y": 577,
+   "space": "west-landing-3",
+   "shaft": "west-stairs-flight",
+   "levels": "Levels 0 to 5",
+   "stop": true
+  },
+  {
+   "id": "west-lift@3",
+   "type": "lift",
+   "level": 3,
+   "name": "West lift",
+   "x": 757,
+   "y": 577,
+   "space": "59",
+   "shaft": "west-lift",
+   "levels": "Levels 0 to 5",
+   "stop": true
+  },
+  {
+   "id": "east-stairs-flight@1",
+   "type": "stairs",
+   "level": 1,
+   "name": "East stairs",
+   "x": 1143,
+   "y": 540,
+   "space": "33b",
+   "shaft": "east-stairs-flight",
+   "levels": "Levels 0 to 3",
+   "stop": true
+  },
+  {
+   "id": "east-stairs-flight@3",
+   "type": "stairs",
+   "level": 3,
+   "name": "East stairs",
+   "x": 1140,
+   "y": 577,
+   "space": "east-landing-3",
+   "shaft": "east-stairs-flight",
+   "levels": "Levels 0 to 3",
+   "stop": true
+  },
+  {
+   "id": "south-stairs@3",
+   "type": "stairs",
+   "level": 3,
+   "name": "South stairs",
+   "x": 854,
+   "y": 1010,
+   "space": "south-stairs-3",
+   "shaft": "south-stairs",
+   "levels": "Levels 0 to 3",
+   "stop": true
+  },
+  {
+   "id": "south-lifts@-1",
+   "type": "lift",
+   "level": -1,
+   "name": "South lift (west)",
+   "x": 866,
+   "y": 995,
+   "space": "ford-centre",
+   "shaft": "south-lifts",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "south-lifts@3",
+   "type": "lift",
+   "level": 3,
+   "name": "South lift (west)",
+   "x": 866,
+   "y": 975,
+   "space": "coffee-lounge",
+   "shaft": "south-lifts",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "south-lifts-east@-1",
+   "type": "lift",
+   "level": -1,
+   "name": "South lift (east)",
+   "x": 967,
+   "y": 995,
+   "space": "ford-centre",
+   "shaft": "south-lifts-east",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "south-lifts-east",
+   "type": "lift",
+   "level": 0,
+   "name": "South lift (east)",
+   "x": 967,
+   "y": 962,
+   "space": "great-court",
+   "shaft": "south-lifts-east",
+   "levels": "Levels -2 to 3",
+   "note": "By the front entrance to the Great Court. Down to the Ford Centre; up to the Coffee Lounge on Level 3."
+  },
+  {
+   "id": "south-lifts-east@3",
+   "type": "lift",
+   "level": 3,
+   "name": "South lift (east)",
+   "x": 967,
+   "y": 975,
+   "space": "coffee-lounge",
+   "shaft": "south-lifts-east",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "great-court-lifts@-2",
+   "type": "lift",
+   "level": -2,
+   "name": "Great Court lift (west)",
+   "x": 857,
+   "y": 615,
+   "space": "25",
+   "shaft": "great-court-lifts",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "great-court-lifts@1",
+   "type": "lift",
+   "level": 1,
+   "name": "Great Court lift (west)",
+   "x": 857,
+   "y": 676,
+   "space": "gc-upper-west",
+   "shaft": "great-court-lifts",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "great-court-lifts@3",
+   "type": "lift",
+   "level": 3,
+   "name": "Great Court lift (west)",
+   "x": 857,
+   "y": 629,
+   "space": "gc-restaurant",
+   "shaft": "great-court-lifts",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "great-court-lifts-east@-2",
+   "type": "lift",
+   "level": -2,
+   "name": "Great Court lift (east)",
+   "x": 978,
+   "y": 615,
+   "space": "25",
+   "shaft": "great-court-lifts-east",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "great-court-lifts-east",
+   "type": "lift",
+   "level": 0,
+   "name": "Great Court lift (east)",
+   "x": 978,
+   "y": 676,
+   "space": "great-court",
+   "shaft": "great-court-lifts-east",
+   "levels": "Levels -2 to 3",
+   "note": "Near the Book Shop, on the east side of the Reading Room. Down to Room 25; up to Room 35 and the Great Court Restaurant."
+  },
+  {
+   "id": "great-court-lifts-east@1",
+   "type": "lift",
+   "level": 1,
+   "name": "Great Court lift (east)",
+   "x": 978,
+   "y": 676,
+   "space": "gc-upper-east",
+   "shaft": "great-court-lifts-east",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "great-court-lifts-east@3",
+   "type": "lift",
+   "level": 3,
+   "name": "Great Court lift (east)",
+   "x": 978,
+   "y": 629,
+   "space": "gc-restaurant",
+   "shaft": "great-court-lifts-east",
+   "levels": "Levels -2 to 3",
+   "stop": true
+  },
+  {
+   "id": "gc-stairs-west",
+   "type": "stairs",
+   "level": 0,
+   "name": "Great Court staircase (west)",
+   "x": 846,
+   "y": 846,
+   "space": "great-court",
+   "shaft": "gc-stairs-west",
+   "levels": "Levels 0 to 3",
+   "note": "Curves up round the Reading Room to Room 35 on Level 1 and the Great Court Restaurant on Level 3."
+  },
+  {
+   "id": "gc-stairs-west@1",
+   "type": "stairs",
+   "level": 1,
+   "name": "Great Court staircase (west)",
+   "x": 840,
+   "y": 735,
+   "space": "gc-upper-west",
+   "shaft": "gc-stairs-west",
+   "levels": "Levels 0 to 3",
+   "stop": true
+  },
+  {
+   "id": "gc-stairs-west@3",
+   "type": "stairs",
+   "level": 3,
+   "name": "Great Court staircase (west)",
+   "x": 873,
+   "y": 640,
+   "space": "gc-restaurant",
+   "shaft": "gc-stairs-west",
+   "levels": "Levels 0 to 3",
+   "stop": true
+  },
+  {
+   "id": "gc-stairs-east",
+   "type": "stairs",
+   "level": 0,
+   "name": "Great Court staircase (east)",
+   "x": 1006,
+   "y": 846,
+   "space": "great-court",
+   "shaft": "gc-stairs-east",
+   "levels": "Levels 0 to 3",
+   "note": "Curves up round the Reading Room to Room 35 on Level 1 and the Great Court Restaurant on Level 3."
+  },
+  {
+   "id": "gc-stairs-east@1",
+   "type": "stairs",
+   "level": 1,
+   "name": "Great Court staircase (east)",
+   "x": 995,
+   "y": 735,
+   "space": "gc-upper-east",
+   "shaft": "gc-stairs-east",
+   "levels": "Levels 0 to 3",
+   "stop": true
+  },
+  {
+   "id": "gc-stairs-east@3",
+   "type": "stairs",
+   "level": 3,
+   "name": "Great Court staircase (east)",
+   "x": 959,
+   "y": 640,
+   "space": "gc-restaurant",
+   "shaft": "gc-stairs-east",
+   "levels": "Levels 0 to 3",
+   "stop": true
+  },
+  {
+   "id": "stairs-room-25@-2",
+   "type": "stairs",
+   "level": -2,
+   "name": "Stairs down to Room 25 (east)",
+   "x": 958,
+   "y": 605,
+   "space": "25",
+   "shaft": "stairs-room-25",
+   "levels": "Room 24 to Room 25, Africa",
+   "stop": true
+  },
+  {
+   "id": "stairs-room-25-west",
+   "type": "stairs",
+   "level": 0,
+   "name": "Stairs down to Room 25 (west)",
+   "x": 879,
+   "y": 584,
+   "space": "24",
+   "shaft": "stairs-room-25-west",
+   "levels": "Room 24 to Room 25, Africa"
+  },
+  {
+   "id": "stairs-room-25-west@-2",
+   "type": "stairs",
+   "level": -2,
+   "name": "Stairs down to Room 25 (west)",
+   "x": 879,
+   "y": 605,
+   "space": "25",
+   "shaft": "stairs-room-25-west",
+   "levels": "Room 24 to Room 25, Africa",
+   "stop": true
+  },
+  {
+   "id": "clore-stairs-west@-1",
+   "type": "stairs",
+   "level": -1,
+   "name": "Stairs down to the Clore Centre (west)",
+   "x": 785,
+   "y": 975,
+   "space": "clore-centre",
+   "shaft": "clore-stairs-west",
+   "levels": "Level 0 to Level -1",
+   "stop": true
+  },
+  {
+   "id": "clore-stairs-east@-1",
+   "type": "stairs",
+   "level": -1,
+   "name": "Stairs down to the Clore Centre (east)",
+   "x": 1050,
+   "y": 975,
+   "space": "clore-centre",
+   "shaft": "clore-stairs-east",
+   "levels": "Level 0 to Level -1",
+   "stop": true
+  },
+  {
+   "id": "stairs-90-94@4",
+   "type": "stairs",
+   "level": 4,
+   "name": "Stairs from Room 90 to Room 94",
+   "x": 798,
+   "y": 362,
+   "space": "90",
+   "shaft": "stairs-90-94",
+   "levels": "Level 4 to Level 5"
+  },
+  {
+   "id": "stairs-90-94@5",
+   "type": "stairs",
+   "level": 5,
+   "name": "Stairs from Room 90 to Room 94",
+   "x": 790,
+   "y": 372,
+   "space": "94",
+   "shaft": "stairs-90-94",
+   "levels": "Level 4 to Level 5",
+   "stop": true
+  },
+  {
+   "id": "lift-33a@1",
+   "type": "lift",
+   "level": 1,
+   "name": "Lift from Room 33a",
+   "x": 690,
+   "y": 370,
+   "space": "33a",
+   "shaft": "lift-33a",
+   "levels": "Level 1 to Level 2"
+  },
+  {
+   "id": "lift-33a@2",
+   "type": "lift",
+   "level": 2,
+   "name": "Lift from Room 33a",
+   "x": 690,
+   "y": 370,
+   "space": "95",
+   "shaft": "lift-33a",
+   "levels": "Level 1 to Level 2",
+   "stop": true
+  }
+ ],
+ "tour": {
+  "id": "highlights",
+  "name": "Two-hour highlights route",
+  "start": "main-entrance",
+  "end": "main-entrance",
+  "walkMinutes": 15,
+  "source": "https://www.britishmuseum.org/visit/object-trails/three-hours-museum",
+  "stops": [
+   {
+    "point": "rosetta-stone",
+    "minutes": 15
+   },
+   {
+    "point": "lion-hunt-reliefs",
+    "minutes": 15
+   },
+   {
+    "point": "parthenon-sculptures",
+    "minutes": 20
+   },
+   {
+    "point": "hoa-hakananaia",
+    "minutes": 5
+   },
+   {
+    "point": "katebet",
+    "minutes": 15
+   },
+   {
+    "point": "game-of-ur",
+    "minutes": 5
+   },
+   {
+    "point": "oxus-treasure",
+    "minutes": 10
+   },
+   {
+    "point": "sutton-hoo-helmet",
+    "minutes": 10
+   },
+   {
+    "point": "lewis-chessmen",
+    "minutes": 10
+   }
+  ]
+ },
+ "closures": [
+  {
+   "space": "reading-room",
+   "from": "2026-11-29",
+   "to": "2026-11-29",
+   "text": "Temporarily closed on Sunday 29 November 2026, 12.00–17.00."
+  },
+  {
+   "space": "reading-room",
+   "from": "2026-12-09",
+   "to": "2026-12-09",
+   "text": "Temporarily closed on Wednesday 9 December 2026, 16.00–17.00."
+  },
+  {
+   "space": "10",
+   "from": "2026-11-27",
+   "to": "2026-11-27",
+   "partial": true,
+   "text": "Partially closed on 27 November 2026."
+  },
+  {
+   "space": "4",
+   "from": "2027-01-11",
+   "to": "2027-01-22",
+   "text": "Closed from 11–22 January 2027."
+  },
+  {
+   "space": "6",
+   "from": "2027-01-11",
+   "to": "2027-01-22",
+   "partial": true,
+   "text": "Room 6a closed from 11–22 January 2027."
+  },
+  {
+   "space": "9",
+   "from": "2027-01-11",
+   "to": "2027-01-22",
+   "text": "Closed from 11–22 January 2027."
+  },
+  {
+   "space": "2",
+   "from": "2027-01-25",
+   "to": "2027-02-05",
+   "text": "Closed from 25 January – 5 February 2027."
+  },
+  {
+   "space": "2a",
+   "from": "2027-01-25",
+   "to": "2027-02-05",
+   "text": "Closed from 25 January – 5 February 2027."
+  },
+  {
+   "space": "1",
+   "from": "2027-01-25",
+   "to": "2027-02-12",
+   "text": "Closed from 25 January – 12 February 2027."
+  },
+  {
+   "space": "6",
+   "from": "2027-02-08",
+   "to": "2027-02-19",
+   "partial": true,
+   "text": "Room 6b closed from 8–19 February 2027."
+  },
+  {
+   "space": "7",
+   "from": "2027-02-08",
+   "to": "2027-02-19",
+   "text": "Rooms 7–8 closed from 8–19 February 2027."
+  },
+  {
+   "space": "8",
+   "from": "2027-02-08",
+   "to": "2027-02-19",
+   "text": "Rooms 7–8 closed from 8–19 February 2027."
+  },
+  {
+   "space": "24",
+   "from": "2027-02-22",
+   "to": "2027-03-05",
+   "partial": true,
+   "text": "Partially closed from 22 February – 5 March 2027."
+  },
+  {
+   "space": "26",
+   "from": "2027-02-22",
+   "to": "2027-03-05",
+   "text": "Closed from 22 February – 5 March 2027."
+  },
+  {
+   "space": "27",
+   "from": "2027-02-22",
+   "to": "2027-03-05",
+   "text": "Closed from 22 February – 5 March 2027."
+  },
+  {
+   "space": "24",
+   "from": "2027-03-08",
+   "to": "2027-03-19",
+   "partial": true,
+   "text": "Partially closed from 8–19 March 2027."
+  },
+  {
+   "space": "25",
+   "from": "2027-03-08",
+   "to": "2027-03-19",
+   "text": "Closed from 8–19 March 2027."
+  },
+  {
+   "space": "33",
+   "from": "2026-11-30",
+   "to": "2026-12-11",
+   "text": "Closed from 30 November – 11 December 2026."
+  },
+  {
+   "space": "33a",
+   "from": "2026-11-30",
+   "to": "2026-12-11",
+   "text": "Closed from 30 November – 11 December 2026."
+  },
+  {
+   "space": "33b",
+   "from": "2026-11-30",
+   "to": "2026-12-11",
+   "text": "Closed from 30 November – 11 December 2026."
+  },
+  {
+   "space": "38",
+   "from": "2027-03-22",
+   "to": "2027-03-26",
+   "text": "Rooms 38–39 closed from 22–26 March 2027."
+  },
+  {
+   "space": "39",
+   "from": "2027-03-22",
+   "to": "2027-03-26",
+   "text": "Rooms 38–39 closed from 22–26 March 2027."
+  },
+  {
+   "space": "92",
+   "from": "2027-03-29",
+   "to": "2027-04-09",
+   "text": "Rooms 92–94 closed from 29 March – 9 April 2027."
+  },
+  {
+   "space": "93",
+   "from": "2027-03-29",
+   "to": "2027-04-09",
+   "text": "Rooms 92–94 closed from 29 March – 9 April 2027."
+  },
+  {
+   "space": "94",
+   "from": "2027-03-29",
+   "to": "2027-04-09",
+   "text": "Rooms 92–94 closed from 29 March – 9 April 2027."
+  }
+ ],
+ "closuresUrl": "https://www.britishmuseum.org/visit"
 }

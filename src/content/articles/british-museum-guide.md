@@ -3,7 +3,7 @@ title: "British Museum: Free Entry, Opening Hours and the Bayeux Tapestry"
 seoTitle: "British Museum Guide: Tickets, Hours & Bayeux Tapestry"
 description: "The British Museum is free, with a free timed ticket for busy days. Where the Bayeux Tapestry tickets stand, the entrances, opening hours, and what to see in one or two hours."
 publishedAt: 2026-10-07
-updatedAt: 2026-11-19
+updatedAt: 2026-11-25
 reviewBy: 2026-11-29
 sites:
   - london
@@ -50,7 +50,7 @@ faq:
 > - **The Bayeux Tapestry is separate and sold out until 2027.** Every ticket to 31 March 2027 has gone; April to July 2027 opens in early 2027. Adults are £33. Our [Bayeux Tapestry guide](/articles/bayeux-tapestry-british-museum/) has the rest.
 > - **A guided tour saves you the choosing.** A <a href="https://www.getyourguide.com/activity/-t765419?partner_id=WWP7I0R&amp;cmp=british-museum-guide" target="_blank" rel="sponsored nofollow noopener" data-affiliate="gyg">two-hour guided tour with priority entrance on GetYourGuide</a> takes you to the main objects in order and skips the entry queue; entry itself costs nothing, so the price is the guide.
 > - **Leave big bags behind.** Wheeled suitcases and bags over 40 x 40 x 50 cm or 8 kg are not allowed. The entrances are Great Russell Street and Montague Place.
-> - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10a). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40).
+> - **In one hour,** see the Rosetta Stone (Room 4), the Parthenon sculptures (Room 18) and the Assyrian lion hunt reliefs (Room 10a). **In two,** go upstairs for the Egyptian mummies (Rooms 62 and 63), the Sutton Hoo helmet (Room 41) and the Lewis Chessmen (Room 40); our [two-hour highlights route](#bm-highlights-route) puts them in walking order on the map.
 > - **Quietest:** 10:00 to 11:00 and after 16:00. **Closures:** Rooms 33, 33a and 33b (China and South Asia) are shut 30 November to 11 December 2026, and Room 4 (the Rosetta Stone) is shut 11 to 22 January 2027.
 
 > ⚠️ **Bayeux Tapestry tickets to 31 March 2027 are sold out, and a free museum ticket does not include them.** The free events around the exhibition are free to attend, but none of them gets you into Room 30.
@@ -159,6 +159,10 @@ The museum's own guidance, from its [accessibility page](https://www.britishmuse
 
 Pick a few objects and walk straight to them. Rooms 4, 6, 10 and 18 are on the ground floor and make a one-hour loop; Rooms 40, 41 and 62 to 64 are upstairs. The museum's own [one-hour trail](https://www.britishmuseum.org/visit/object-trails/one-hour-museum) lists 14 objects across the building.
 
+The map below shows every public floor room by room, with a two-hour highlights route numbered in walking order and directions to any room or object from either entrance.
+
+{bm map}
+
 ![The glass and steel lattice roof of the British Museum's Great Court](../../assets/articles/british-museum-guide/british-museum-great-court.jpg)
 
 *The Great Court roof. Photo: [rbrwr](https://www.flickr.com/photos/38411862@N00/467099756), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).*
@@ -227,7 +231,7 @@ Also on the museum's one-hour trail: Hoa Hakananai'a, the basalt statue from Rap
 
 The museum publishes [planned gallery closures](https://www.britishmuseum.org/visit#gallery-information). The dated ones:
 
-- **Reading Room:** 20 November 2026 (all day) and 29 November (12:00 to 17:00).
+- **Reading Room:** 29 November 2026 (12:00 to 17:00) and 9 December (16:00 to 17:00).
 - **Rooms 33, 33a and 33b (China and South Asia, Amaravati, Chinese jade):** 30 November to 11 December 2026.
 - **Room 4 (Rosetta Stone), Rooms 6a and 9:** 11 to 22 January 2027.
 - **Rooms 2 and 2a (Collecting the world, Waddesdon Bequest):** 25 January to 5 February 2027. **Room 1 (Enlightenment):** 25 January to 12 February.
@@ -258,7 +262,7 @@ An exhibition ticket also covers the permanent collection that day.
 - **Court Cafés,** Great Court ground floor, 10:00 to 17:00. Sandwiches, salads, cakes and hot drinks.
 - **Great Court Restaurant,** 11:30 to 17:00, last sitting 16:00. Booking is essential, though walk-ins are sometimes taken.
 - **Pizzeria,** south-west corner of the ground floor, left after the main entrance, 11:00 to 16:00. Gluten-free bases, vegetarian and vegan pizzas, and gelato.
-- **Coffee Lounge,** first floor overlooking the Reading Room, 10:30 to 16:30.
+- **Coffee Lounge,** Level 3 at the top of the South stairs, 10:30 to 16:30.
 - **Food trucks** selling snacks and drinks, with seating outside, 10:00 to 17:00, shorter in poor weather.
 
 Families can eat packed lunches in the Ford Centre for Young Visitors beneath the Great Court at weekends and Camden school holidays, or on the front lawns in fine weather.
