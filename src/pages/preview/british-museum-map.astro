@@ -1,0 +1,311 @@
+---
+// Prototype of a 3D museum map: the British Museum's ground floor only. Not linked from any article yet.
+// The page and public/museum-map.js take any floor file in the shape of data/museums/british-museum.json.
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import data from "../../../data/museums/british-museum.json";
+
+type Space = (typeof data.spaces)[number] & Record<string, any>;
+type Point = (typeof data.points)[number] & Record<string, any>;
+const spaces = data.spaces as Space[];
+const points = data.points as Point[];
+const spaceById = new Map(spaces.map((s) => [s.id, s]));
+const TYPE_LABEL: Record<string, string> = {
+  highlight: "Highlight", entrance: "Entrance", food: "Food and drink", toilets: "Toilets", accessible: "Accessible toilet",
+  shop: "Shop", desk: "Desk", cloakroom: "Cloakroom", lift: "Lift", stairs: "Stairs",
+};
+const roomSort = (a: Space, b: Space) => parseFloat(a.room) - parseFloat(b.room) || a.room.localeCompare(b.room);
+const galleries = spaces.filter((s) => s.room).sort(roomSort);
+const publicSpaces = spaces.filter((s) => !s.room);
+const where = (p: Point) => {
+  const s = spaceById.get(p.space);
+  if (p.outside) return "Outside the Main entrance";
+  if (p.below) return "Level -1, below Room 24";
+  return s?.room ? `Room ${s.room}, ${s.name}` : s?.name || "";
+};
+const SECTIONS: [string, Point[]][] = [
+  ["Highlights", points.filter((p) => p.type === "highlight")],
+  ["Food and drink", points.filter((p) => p.type === "food")],
+  ["Toilets, desks and shops", points.filter((p) => ["toilets", "accessible", "desk", "cloakroom", "shop"].includes(p.type))],
+  ["Stairs and lifts to other floors", points.filter((p) => p.type === "lift" || p.type === "stairs")],
+  ["Entrances", points.filter((p) => p.type === "entrance")],
+];
+const CHIPS = [
+  ["highlights", "Highlights"],
+  ["galleries", "Galleries"],
+  ["food", "Food & drink"],
+  ["facilities", "Toilets & facilities"],
+  ["stepfree", "Step-free"],
+];
+const today = new Date().toISOString().slice(0, 10);
+// Closures that have not ended; one line per text (Rooms 7 and 8 share one), the next eight weeks first.
+const closures = data.closures.filter((c, i, all) => c.to >= today && all.findIndex((o) => o.text === c.text && o.from === c.from) === i);
+const soonLimit = new Date(Date.now() + 56 * 864e5).toISOString().slice(0, 10);
+const soon = closures.filter((c) => c.from <= soonLimit);
+const later = closures.filter((c) => c.from > soonLimit);
+const fmtRoom = (id: string) => { const s = spaceById.get(id)!; return s.room ? `Room ${s.room}` : s.name; };
+const closureLine = (c: (typeof data.closures)[number]) => (/^Rooms? /.test(c.text) ? c.text : `${fmtRoom(c.space)}: ${c.text.charAt(0).toLowerCase()}${c.text.slice(1)}`);
+const destinations: [string, { id: string; label: string }[]][] = [
+  ["Highlights", points.filter((p) => p.type === "highlight").map((p) => ({ id: p.id, label: `${p.name} (Room ${spaceById.get(p.space)!.room})` }))],
+  ["Galleries", galleries.map((s) => ({ id: s.id, label: `Room ${s.room}: ${s.name}` }))],
+  ["Great Court", [{ id: "reading-room", label: "Reading Room" }, { id: "great-court", label: "Great Court" }]],
+  ["Food and drink", points.filter((p) => p.type === "food" && !p.outside).map((p) => ({ id: p.id, label: p.name }))],
+  ["Facilities", points.filter((p) => ["toilets", "accessible", "cloakroom", "desk"].includes(p.type)).map((p) => ({ id: p.id, label: p.name }))],
+  ["Other floors", points.filter((p) => (p.type === "lift" || p.type === "stairs") && !p.outside).map((p) => ({ id: p.id, label: `${p.name} (${p.levels})` }))],
+];
+---
+
+<BaseLayout
+  title="British Museum map: 3D guide to the ground floor"
+  description="Interactive 3D map of the British Museum's ground floor: every gallery round the Great Court, the Rosetta Stone and Parthenon sculptures, cafés, toilets, lifts and the way there from the entrance."
+  noindex
+>
+  <section class="section">
+    <div class="container mmap-page">
+      <h1>British Museum map: the ground floor</h1>
+      <p>
+        Level 0 is where most visits start: the Great Court with the round Reading Room in the middle, and the galleries of
+        Egypt, Assyria and Greece to the west of it, including the Rosetta Stone in Room 4 and the Parthenon sculptures in Room 18.
+        Tap anything for what it is and where, or pick a destination for the way there from the entrance. Drag to move, pinch
+        or scroll to zoom, two fingers to turn. Drawn from the <a href={data.plan.url}>Museum's own floor plan</a>; a guide, not to scale.
+      </p>
+      <p class="mmap-hours"><strong>Open:</strong> {data.hours}</p>
+      {closures.length > 0 && (
+        <div class="mmap-closures" data-mmap-closures>
+          <p class="mmap-closures__title"><strong>Planned closures on this floor.</strong></p>
+          <ul>
+            {soon.map((c) => <li data-from={c.from} data-to={c.to}>{closureLine(c)}</li>)}
+          </ul>
+          {later.length > 0 && (
+            <details>
+              <summary>{later.length} more, from {new Date(later[0].from).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" })}</summary>
+              <ul>
+                {later.map((c) => <li data-from={c.from} data-to={c.to}>{closureLine(c)}</li>)}
+              </ul>
+            </details>
+          )}
+          <p class="mmap-fresh"><em>From the Museum's <a href={data.closuresUrl}>planned closures list</a> on 25 November 2026. Galleries can also close at short notice.</em></p>
+        </div>
+      )}
+
+      <div class="mmap" data-mmap>
+        <form class="mmap__picker" data-mmap-picker onsubmit="return false">
+          <h2 class="mmap__picker-heading">Find your way</h2>
+          <div class="mmap__picker-row">
+            <label class="mmap__field">
+              <span>From</span>
+              <select data-mmap-from>
+                <option value="main-entrance">Main entrance, Great Russell Street</option>
+                <option value="montague-entrance">Montague Place entrance</option>
+              </select>
+            </label>
+            <label class="mmap__field">
+              <span>To</span>
+              <select data-mmap-to>
+                <option value="">Choose a room, object or café</option>
+                {destinations.map(([group, opts]) => (
+                  <optgroup label={group}>
+                    {opts.map((o) => <option value={o.id}>{o.label}</option>)}
+                  </optgroup>
+                ))}
+              </select>
+            </label>
+          </div>
+          <div class="mmap__picker-row mmap__picker-row--opts">
+            <label class="mmap__check"><input type="checkbox" data-mmap-stepfree /> Step-free only</label>
+            <button type="button" class="mmap__clear" data-mmap-clear hidden>Clear route</button>
+          </div>
+        </form>
+        <div class="mmap__route" data-mmap-route aria-live="polite" hidden></div>
+
+        <div class="mmap__tools">
+          <label class="mmap__search">
+            <span class="sr-only">Search the map</span>
+            <input type="search" placeholder="Search, e.g. Rosetta or toilets" data-mmap-search autocomplete="off" />
+          </label>
+          <div class="mmap__chips" role="group" aria-label="Show only">
+            {CHIPS.map(([key, label]) => (
+              <button type="button" class={`mmap__chip mmap__chip--${key}`} data-mmap-chip={key} aria-pressed="false">{label}</button>
+            ))}
+          </div>
+        </div>
+
+        <div class="mmap__stage" data-mmap-stage hidden>
+          <div class="mmap__canvas" data-mmap-canvas></div>
+          <div class="mmap__buttons">
+            <button type="button" class="mmap__btn" data-mmap-roof aria-pressed="true">Roof</button>
+            <button type="button" class="mmap__btn" data-mmap-tilt aria-pressed="false">Flat plan</button>
+            <button type="button" class="mmap__btn" data-mmap-reset>Reset</button>
+          </div>
+          <div class="mmap__legend" aria-hidden="true">
+            {Object.entries(data.areas).filter(([k]) => k !== "public").map(([k, a]) => (
+              <span><i style={`background:${a.colour}`}></i>{a.name}</span>
+            ))}
+          </div>
+          <div class="mmap__popup" data-mmap-popup role="dialog" aria-live="polite" hidden></div>
+        </div>
+
+        <div class="mmap__list">
+          <h2 class="mmap__list-heading">Everything on the ground floor</h2>
+          {SECTIONS.map(([title, list]) => (
+            <>
+              <h3 class="mmap__list-sub">{title}</h3>
+              <ul>
+                {list.map((p) => (
+                  <li class="mmap__item" data-id={p.id} data-search={`${p.name} ${TYPE_LABEL[p.type]} ${where(p)} ${p.note || ""} ${p.levels || ""}`.toLowerCase()}>
+                    <button type="button" class="mmap__item-btn" data-mmap-pick={p.id}>
+                      <span class={`mmap__dot mmap__dot--${p.type}`} aria-hidden="true"></span>
+                      <span class="mmap__item-name">{p.name}</span>
+                      <span class="mmap__item-type">{p.type === "highlight" ? `Room ${spaceById.get(p.space)!.room}` : TYPE_LABEL[p.type]}</span>
+                    </button>
+                    <div class="mmap__item-body">
+                      {p.note && <p>{p.note}</p>}
+                      {p.levels && <p><strong>Goes to:</strong> {p.levels}</p>}
+                      <p class="mmap__where">{where(p)}{p.url && <> · <a href={p.url}>Museum page</a></>}</p>
+                    </div>
+                  </li>
+                ))}
+              </ul>
+            </>
+          ))}
+          <h3 class="mmap__list-sub">Galleries</h3>
+          <ul>
+            {galleries.map((s) => (
+              <li class="mmap__item" data-id={s.id} data-search={`room ${s.room} ${s.name} ${data.areas[s.area as keyof typeof data.areas].name} ${s.note || ""}`.toLowerCase()}>
+                <button type="button" class="mmap__item-btn" data-mmap-pick={s.id}>
+                  <span class="mmap__num" style={`background:${data.areas[s.area as keyof typeof data.areas].colour}`}>{s.room}</span>
+                  <span class="mmap__item-name">{s.name}</span>
+                </button>
+                <div class="mmap__item-body">
+                  {s.note && <p>{s.note}</p>}
+                  {s.stepFree === false && <p><strong>Step-free:</strong> no. {s.stepNote}</p>}
+                  <p class="mmap__where">{data.areas[s.area as keyof typeof data.areas].name}{s.url && <> · <a href={s.url}>Museum page</a></>}</p>
+                </div>
+              </li>
+            ))}
+          </ul>
+          <h3 class="mmap__list-sub">Great Court and halls</h3>
+          <ul>
+            {publicSpaces.map((s) => (
+              <li class="mmap__item" data-id={s.id} data-search={`${s.name} ${s.note || ""}`.toLowerCase()}>
+                <button type="button" class="mmap__item-btn" data-mmap-pick={s.id}>
+                  <span class="mmap__dot mmap__dot--public" aria-hidden="true"></span>
+                  <span class="mmap__item-name">{s.name}</span>
+                </button>
+                <div class="mmap__item-body">
+                  {s.note && <p>{s.note}</p>}
+                  {s.url && <p class="mmap__where"><a href={s.url}>Museum page</a></p>}
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+      <script type="application/json" data-mmap-data set:html={JSON.stringify({ ...data, typeLabel: TYPE_LABEL })} />
+    </div>
+  </section>
+  <script is:inline type="module" src="/museum-map.js"></script>
+</BaseLayout>
+
+<style>
+  .mmap-page h1 { margin-bottom: 0.5rem; }
+  .mmap-page > p { max-width: 46rem; }
+  .mmap-hours { margin-top: 0.4rem; }
+  .mmap-closures { max-width: 46rem; margin: 1rem 0 0; padding: 0.8rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--line); border-left: 4px solid #c2410c; background: var(--surface); font-size: 0.94rem; }
+  .mmap-closures p { margin: 0; }
+  .mmap-closures ul { margin: 0.4rem 0; padding-left: 1.1rem; }
+  .mmap-closures summary { cursor: pointer; color: var(--muted); font-size: 0.9rem; margin-bottom: 0.3rem; }
+  .mmap-closures :global(li.is-today) { font-weight: 600; color: #9a3412; }
+  .mmap-closures :global(.mmap-today) { display: inline-block; margin-left: 0.4rem; padding: 0 0.45rem; border-radius: 999px; font-size: 0.75rem; color: #fff; background: #c2410c; }
+  .mmap-fresh { color: var(--muted); font-size: 0.88rem; }
+  .mmap { --highlight: #b8860b; --entrance: #0e1b2c; --food: #e0952a; --toilets: #2f7d6b; --accessible: #2f7d6b; --shop: #8a4fb0; --desk: #1d4e89; --cloakroom: #5a6a7d; --lift: #0f9488; --stairs: #7a6248; --public: #b9ae98;
+    display: grid; gap: 1rem; margin-top: 1.25rem; }
+  .mmap__picker { padding: 0.9rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--line); background: var(--surface); }
+  .mmap__picker-heading { font-size: 1.05rem; margin: 0 0 0.6rem; }
+  .mmap__picker-row { display: grid; gap: 0.6rem; grid-template-columns: 1fr; }
+  .mmap__picker-row--opts { display: flex; align-items: center; justify-content: space-between; margin-top: 0.6rem; }
+  .mmap__field { display: grid; gap: 0.2rem; font-size: 0.85rem; color: var(--muted); }
+  .mmap__field select { font: inherit; font-size: 1rem; color: var(--ink); padding: 0.5rem 0.6rem; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--surface); width: 100%; }
+  .mmap__check { display: inline-flex; gap: 0.4rem; align-items: center; font-size: 0.95rem; }
+  .mmap__clear { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.8rem; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .mmap__clear[hidden] { display: none; }
+  @media (min-width: 40rem) { .mmap__picker-row { grid-template-columns: 1fr 1.6fr; } }
+  .mmap__route { padding: 0.9rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--line); border-left: 4px solid #f59e0b; background: var(--surface); }
+  .mmap__route[hidden] { display: none; }
+  .mmap__route :global(.mmap__route-title) { font-size: 1.05rem; margin: 0 0 0.5rem; display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+  .mmap__route :global(.mmap__route-sf) { font-size: 0.75rem; font-weight: 700; color: #fff; background: #0f9488; padding: 0.15rem 0.5rem; border-radius: 999px; }
+  .mmap__route :global(.mmap__route-msg) { margin: 0; }
+  .mmap__route :global(.mmap__steps) { list-style: none; counter-reset: step; margin: 0; padding: 0; }
+  .mmap__route :global(.mmap__step) { counter-increment: step; position: relative; padding: 0.15rem 0 0.55rem 2.2rem; }
+  .mmap__route :global(.mmap__step::before) { content: counter(step); position: absolute; left: 0; top: 0.05rem; width: 1.55rem; height: 1.55rem; border-radius: 50%; display: grid; place-items: center; font-size: 0.8rem; font-weight: 700; color: #fff; background: var(--c, #4b5563); }
+  .mmap__route :global(.mmap__step:not(:last-child)::after) { content: ""; position: absolute; left: 0.74rem; top: 1.7rem; bottom: 0.1rem; width: 2px; background: #f59e0b; opacity: 0.6; }
+  .mmap__route :global(.mmap__route-note) { margin: 0.3rem 0 0; font-size: 0.9rem; color: var(--muted); }
+  .mmap__tools { display: grid; gap: 0.6rem; }
+  .mmap__search input { width: 100%; font: inherit; padding: 0.6rem 0.8rem; border: 1px solid var(--line-strong); border-radius: var(--radius-sm); background: var(--surface); color: var(--ink); }
+  .mmap__chips { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .mmap__chip { font: inherit; font-size: 0.9rem; padding: 0.35rem 0.8rem; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--ink); cursor: pointer; }
+  .mmap__chip::before { content: ""; display: inline-block; width: 0.6rem; height: 0.6rem; border-radius: 50%; margin-right: 0.4rem; background: var(--c); }
+  .mmap__chip--highlights { --c: var(--highlight); } .mmap__chip--galleries { --c: #3c6ea6; } .mmap__chip--food { --c: var(--food); }
+  .mmap__chip--facilities { --c: var(--toilets); } .mmap__chip--stepfree { --c: var(--lift); }
+  .mmap__chip[aria-pressed="true"] { background: var(--ink); color: var(--surface); border-color: var(--ink); }
+  .mmap__stage { position: relative; height: min(72vh, 660px); min-height: 400px; border-radius: var(--radius-md); overflow: hidden; border: 1px solid var(--line); background: #e9e4da; touch-action: none; }
+  .mmap__stage[hidden] { display: none; }
+  .mmap__canvas, .mmap__canvas :global(canvas) { width: 100%; height: 100%; display: block; }
+  .mmap__stage :global(.mmap__labels) { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
+  .mmap__stage :global(.mmap__label) { position: absolute; left: 0; top: 0; display: inline-flex; align-items: center; gap: 0.3rem; height: 22px; padding: 0 0.5rem 0 3px; border-radius: 999px; white-space: nowrap; font: 600 12px/1 var(--body, sans-serif); color: #1b2230; background: rgb(255 255 255 / 0.94); box-shadow: 0 1px 3px rgb(14 27 44 / 0.28); will-change: transform; }
+  .mmap__stage :global(.mmap__label--room) { padding: 0 0.5rem 0 0; gap: 0.35rem; background: rgb(255 255 255 / 0.86); font-weight: 600; }
+  .mmap__stage :global(.mmap__label--room.is-compact) { padding: 0; }
+  .mmap__stage :global(.mmap__label--room.is-compact .mmap__label-tx) { display: none; }
+  .mmap__stage :global(.mmap__label-num) { display: inline-grid; place-items: center; min-width: 22px; height: 22px; padding: 0 5px; border-radius: 999px; color: #fff; font-weight: 700; font-size: 11.5px; }
+  .mmap__stage :global(.mmap__label.is-selected) { box-shadow: 0 0 0 2px #fff, 0 0 0 4px #1b2230; }
+  .mmap__stage :global(.mmap__label.is-closed) { color: #9a3412; }
+  .mmap :global(.mmap__label-ic) { display: inline-grid; place-items: center; width: 16px; height: 16px; border-radius: 50%; flex: none; }
+  .mmap__popup :global(.mmap__label-ic) { vertical-align: -3px; margin-right: 0.35rem; }
+  .mmap__buttons { position: absolute; top: 0.6rem; right: 0.6rem; display: flex; gap: 0.4rem; }
+  .mmap__btn { font: inherit; font-size: 0.85rem; padding: 0.4rem 0.75rem; border-radius: 999px; border: 1px solid var(--line-strong); background: rgb(255 255 255 / 0.94); color: #1b2230; cursor: pointer; box-shadow: var(--shadow-sm); }
+  .mmap__btn[aria-pressed="true"] { background: #1b2230; color: #fff; }
+  .mmap__legend { position: absolute; left: 0.6rem; top: 0.6rem; display: flex; flex-direction: column; gap: 0.15rem; padding: 0.4rem 0.6rem; border-radius: var(--radius-sm); background: rgb(255 255 255 / 0.9); font-size: 0.75rem; color: #1b2230; pointer-events: none; }
+  .mmap__legend span { display: flex; align-items: center; gap: 0.35rem; }
+  .mmap__legend i { width: 0.65rem; height: 0.65rem; border-radius: 2px; }
+  .mmap__popup { position: absolute; left: 0.6rem; right: 0.6rem; bottom: 0.6rem; max-width: 24rem; max-height: 55%; overflow: auto; padding: 0.8rem 2.4rem 0.8rem 0.9rem; border-radius: var(--radius-md); background: var(--surface); color: var(--ink); box-shadow: var(--shadow-md); font-size: 0.92rem; }
+  .mmap__popup[hidden] { display: none; }
+  .mmap__popup :global(h3) { margin: 0 0 0.2rem; font-size: 1.05rem; }
+  .mmap__popup :global(p) { margin: 0.25rem 0; }
+  .mmap__popup :global(.mmap__close) { position: absolute; top: 0.4rem; right: 0.4rem; width: 2rem; height: 2rem; border: 0; background: none; font-size: 1.3rem; cursor: pointer; color: var(--muted); }
+  .mmap__popup :global(.mmap__kind) { color: var(--muted); font-size: 0.85rem; }
+  .mmap__popup :global(.mmap__closed) { color: #9a3412; font-weight: 600; }
+  .mmap__popup :global(.mmap__go) { font: inherit; font-size: 0.88rem; margin-top: 0.35rem; padding: 0.35rem 0.8rem; border-radius: 999px; border: 0; background: #1b2230; color: #fff; cursor: pointer; }
+  .mmap__list-heading { font-size: 1.1rem; margin: 0 0 0.4rem; }
+  .mmap__list-sub { font-size: 0.95rem; margin: 0.9rem 0 0.3rem; color: var(--muted); }
+  .mmap__list ul { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+  .mmap__item { border-bottom: 1px solid var(--line); }
+  .mmap__item[hidden] { display: none; }
+  .mmap__item-btn { display: flex; align-items: center; gap: 0.5rem; width: 100%; padding: 0.55rem 0.2rem; font: inherit; text-align: left; background: none; border: 0; color: var(--ink); cursor: pointer; }
+  .mmap__item-name { font-weight: 600; flex: 1; }
+  .mmap__item-type { color: var(--muted); font-size: 0.85rem; }
+  .mmap__item-body { padding: 0 0.2rem 0.6rem 1.3rem; font-size: 0.92rem; }
+  .mmap__item-body p { margin: 0.2rem 0; }
+  .mmap__where { color: var(--muted); }
+  .mmap__item.is-active { background: var(--surface-strong); }
+  .mmap__num { display: inline-grid; place-items: center; min-width: 1.6rem; height: 1.3rem; padding: 0 0.3rem; border-radius: 999px; color: #fff; font-size: 0.75rem; font-weight: 700; flex: none; }
+  .mmap__dot { width: 0.7rem; height: 0.7rem; border-radius: 50%; flex: none; background: var(--c); }
+  .mmap__dot--highlight { --c: var(--highlight); } .mmap__dot--entrance { --c: var(--entrance); } .mmap__dot--food { --c: var(--food); }
+  .mmap__dot--toilets, .mmap__dot--accessible { --c: var(--toilets); } .mmap__dot--shop { --c: var(--shop); } .mmap__dot--desk { --c: var(--desk); }
+  .mmap__dot--cloakroom { --c: var(--cloakroom); } .mmap__dot--lift { --c: var(--lift); } .mmap__dot--stairs { --c: var(--stairs); } .mmap__dot--public { --c: var(--public); }
+  .mmap.is-live .mmap__item-body { display: none; }
+  .mmap.is-live .mmap__item.is-active .mmap__item-body { display: block; }
+  @media (max-width: 40rem) {
+    .mmap__stage { height: min(68vh, 122vw); min-height: 400px; }
+    .mmap__legend { display: none; }
+    .mmap__buttons { left: 0.6rem; right: auto; }
+    .mmap__popup { left: 0; right: 0; bottom: 0; max-width: none; max-height: 52%; border-radius: var(--radius-md) var(--radius-md) 0 0; padding-top: 1.1rem; }
+    .mmap__popup::before { content: ""; position: absolute; top: 0.4rem; left: 50%; width: 2.4rem; height: 4px; margin-left: -1.2rem; border-radius: 2px; background: var(--line-strong); }
+  }
+  @media (min-width: 62rem) {
+    .mmap.is-live { grid-template-columns: minmax(0, 1fr) 20rem; grid-template-areas: "picker picker" "route route" "tools tools" "stage list"; }
+    .mmap.is-live .mmap__picker { grid-area: picker; }
+    .mmap.is-live .mmap__route { grid-area: route; }
+    .mmap.is-live .mmap__tools { grid-area: tools; }
+    .mmap.is-live .mmap__stage { grid-area: stage; }
+    .mmap.is-live .mmap__list { grid-area: list; max-height: 660px; overflow: auto; }
+  }
+</style>
