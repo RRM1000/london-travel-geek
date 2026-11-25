@@ -6,6 +6,7 @@
 //   node ../ltg-review/scripts/db/first-table.mjs --crawl [--seconds=270]   fetch the month's pages, resumable
 //   node ../ltg-review/scripts/db/first-table.mjs --match                   match to places; dry run, writes data/first-table/*
 //   node ../ltg-review/scripts/db/first-table.mjs --write                   put the reviewed rows into deals.json + the DB
+//   node ../ltg-review/scripts/db/first-table.mjs --write --file-only       deals.json only (sync-deals.mjs later)
 //   add --month=YYYY-MM to any of them to work on another month (default: this month)
 //
 // --crawl reads https://www.firsttable.co.uk/sitemap-restaurants.xml, keeps the /london/ restaurant pages
@@ -301,7 +302,12 @@ async function match() {
     const r = byUrl.get(m.firstTable.url);
     return {
       name: m.place.name,
-      slug: m.place.slug,
+      // Most matched places are not in the Sheet and have no slug. placeId is what links the row to the
+      // branch it was matched to (sync-deals uses it before slug or name), so a null slug can't send it to
+      // another venue of the same name. On pages it shows under a Sheet slug's entry, or under a heading
+      // with its own name when no other place shares that name (remark-venue-deals.mjs).
+      placeId: m.place.id,
+      slug: m.place.slug ?? null,
       site: r.website,
       type: "off-peak-app",
       offer: "50% off food at off-peak tables booked through First Table",
@@ -318,7 +324,7 @@ async function match() {
       card: "First Table",
       origin: "first-table",
       // A chain's entry may mean any branch, so its line names the one on First Table.
-      firstTable: { id: r.id, uniqueName: m.place.uniqueName, branch: sheetChain.has(m.place.slug) ? r.suburb : undefined, feeByMeal: r.feeByMeal, diners: r.diners, venueConditions: r.conditions },
+      firstTable: { id: r.id, uniqueName: m.place.uniqueName, branch: sheetChain.has(m.place.slug) ? r.suburb : undefined, suburb: r.suburb, feeByMeal: r.feeByMeal, diners: r.diners, venueConditions: r.conditions },
     };
   });
 
@@ -356,11 +362,13 @@ function write() {
   const f = outFile("deal-rows");
   if (!fs.existsSync(f)) throw new Error(`${f} not found: run --match first`);
   const rows = JSON.parse(fs.readFileSync(f, "utf8"));
-  if (!rows.every((r) => r.origin === "first-table" && r.card === "First Table" && r.slug && r.sourceUrl)) throw new Error("every row needs origin first-table, card First Table, slug and sourceUrl");
+  const bad = rows.filter((r) => !(r.origin === "first-table" && r.card === "First Table" && Number.isInteger(r.placeId) && r.name && r.sourceUrl));
+  if (bad.length) throw new Error(`${bad.length} rows lack origin first-table, card First Table, placeId, name or sourceUrl (first: ${bad[0].name})`);
   const deals = JSON.parse(fs.readFileSync(DEALS, "utf8"));
   const kept = deals.filter((d) => d.origin !== "first-table");
   console.log(`deals.json: ${deals.length} rows, ${deals.length - kept.length} old First Table rows replaced by ${rows.length}`);
   fs.writeFileSync(DEALS, JSON.stringify([...kept, ...rows], null, 1) + "\n");
+  if (has("file-only")) { console.log("--file-only: deals.json updated; run sync-deals.mjs to put it in the database"); return; }
   const r = spawnSync(process.execPath, [path.join(ROOT, "scripts", "db", "sync-deals.mjs"), DEALS], { stdio: "inherit" });
   if (r.status !== 0) throw new Error("sync-deals.mjs failed; deals.json is updated, the database is not");
 }

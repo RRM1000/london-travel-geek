@@ -84,7 +84,7 @@ function load() {
       if (key.length >= 4 && !chains.has(key)) byOwnName.set(key, [...(byOwnName.get(key) ?? []), d]);
     }
   }
-  cache = { mtime, slugByName, bySlug, chainByName, byOwnName };
+  cache = { mtime, slugByName, bySlug, chainByName, byOwnName, sheetSlugs };
   return cache;
 }
 
@@ -206,8 +206,17 @@ export default function remarkVenueDeals() {
         if (deals.length) break;
       }
       if (!deals?.length) continue;
-      const ft = deals.find((d) => d.card === FIRST_TABLE);
+      // A First Table row is one branch: under a heading that names another place ("Caravan, King's
+      // Cross" when the branch on First Table is Exmouth Market) it is left out, not relabelled.
+      let ft = deals.find((d) => d.card === FIRST_TABLE);
+      const where = placeOf(title);
+      if (ft && where) {
+        const suburb = (ft.branches ?? "").split(" (")[0];
+        const here = norm(`${ft.branches ?? ""} ${ft.area ?? ""}`).includes(norm(where)) || (suburb.length >= 4 && norm(where).includes(norm(suburb)));
+        if (!here) ft = null;
+      }
       deals = deals.filter((d) => d.card !== FIRST_TABLE);
+      if (!deals.length && !ft) continue;
       // After the facts strip: the first following paragraph that is all emphasis.
       let at = i + 1;
       const next = kids[at];
@@ -223,7 +232,10 @@ export default function remarkVenueDeals() {
       if (ft) {
         if (deals.length) children.push({ type: "text", value: " " });
         // A chain's heading may mean any branch: name the one that is on First Table.
-        const branch = ft.firstTable?.branch ? ` at the ${ft.firstTable.branch} branch` : "";
+        // So does a heading that names no place for a venue we only know from the database
+        // ("St Christopher's — four sites", where only the London Bridge inn is on First Table).
+        const which = ft.firstTable?.branch ?? (!where && !data.sheetSlugs.has(ft.slug) ? ft.firstTable?.suburb : null);
+        const branch = which ? ` at the ${which} branch` : "";
         children.push({ type: "text", value: `${deals.length ? "Also on" : "On"} First Table${branch}: 50% off food at off-peak tables${ft.price ? ` (${ft.price})` : ""}. ` });
         children.push({ type: "link", url: ft.sourceUrl, children: [{ type: "text", value: "Book on First Table" }] });
         children.push({ type: "text", value: "." });
