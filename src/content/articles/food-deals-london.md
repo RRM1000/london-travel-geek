@@ -41,6 +41,14 @@ London restaurant offers fall into a few types: two meals for the price of one, 
 
 > ⚠️ **Most of these exclude set menus and other offers, and several are dine-in only.** Show the app, card or ID when you order, not when the bill arrives.
 
+> 📱 **Pay less at any restaurant with an app or card.** Each takes money off at hundreds of places, but never alongside another offer:
+> - **[First Table](/articles/off-peak-restaurant-apps-london/#first-table)**: 50% off food at more than 900 London restaurants for a £6 booking fee, mostly early or late tables.
+> - **[EatClub](/articles/off-peak-restaurant-apps-london/#eatclub)**: up to 50% off the whole bill, drinks included, at more than 1,400 venues; free, but walk-in only.
+> - **[TheFork](/articles/off-peak-restaurant-apps-london/#thefork)**: free, with up to 50% off food at thousands of restaurants on set days.
+> - **[Tastecard](/articles/restaurant-discount-cards-london/)**: £29.99 a year for a card accepted across London, though only 30% of its London restaurants take it on both Friday and Saturday.
+>
+> On First Table and EatClub, the service charge is worked out on the bill before the discount.
+
 *Offers as listed by each restaurant, November 2026.*
 
 ---
