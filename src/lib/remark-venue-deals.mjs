@@ -46,6 +46,9 @@ const MORE = {
   default: { url: HUB, label: "All London food deals" },
 };
 
+const FIRST_TABLE = "First Table";
+const FIRST_TABLE_MORE = { url: "/articles/off-peak-restaurant-apps-london/#first-table", label: "How First Table works" };
+
 const norm = (s) => s.toLowerCase().replace(/&amp;/g, "&").replace(/['’]/g, "").replace(/[^a-z0-9]/g, "");
 
 // Reload when the data changes, so a dev server picks up a new export.
@@ -58,7 +61,9 @@ function load() {
   const deals = JSON.parse(fs.readFileSync(DEALS, "utf8"))
     // Paid-card deals (Tastecard and the like) live on the discount cards page only. Deals
     // written on a deal page by hand (origin "page") have no source quote to stand on.
-    .filter((d) => !d.recheck && !d.card && d.origin !== "page" && (!d.endDate || d.endDate >= today));
+    // First Table rows (scripts/db/first-table.mjs) are the one card deal shown here: each is one
+    // branch, matched by postcode, and its endDate is a refresh date that drops it if not re-confirmed.
+    .filter((d) => !d.recheck && (!d.card || d.card === FIRST_TABLE) && d.origin !== "page" && (!d.endDate || d.endDate >= today));
   const snap = fs.existsSync(SNAPSHOT) ? JSON.parse(fs.readFileSync(SNAPSHOT, "utf8")) : [];
   const slugByName = new Map(snap.map((r) => [norm(r.Name), r.Slug]));
   const bySlug = new Map();
@@ -73,7 +78,8 @@ function load() {
   for (const d of deals) {
     if (d.slug) bySlug.set(d.slug, [...(bySlug.get(d.slug) ?? []), d]);
     else if (/^all\b/i.test(d.branches ?? "")) chainByName.set(norm(d.name), [...(chainByName.get(norm(d.name)) ?? []), d]);
-    if (!d.slug || !sheetSlugs.has(d.slug)) {
+    // A First Table row is one branch: by its own name only when no other place shares that name.
+    if ((!d.slug || !sheetSlugs.has(d.slug)) && (d.card !== FIRST_TABLE || d.firstTable?.uniqueName)) {
       const key = norm(d.name.replace(/\s*\(.*\)\s*$/, ""));
       if (key.length >= 4 && !chains.has(key)) byOwnName.set(key, [...(byOwnName.get(key) ?? []), d]);
     }
@@ -200,6 +206,8 @@ export default function remarkVenueDeals() {
         if (deals.length) break;
       }
       if (!deals?.length) continue;
+      const ft = deals.find((d) => d.card === FIRST_TABLE);
+      deals = deals.filter((d) => d.card !== FIRST_TABLE);
       // After the facts strip: the first following paragraph that is all emphasis.
       let at = i + 1;
       const next = kids[at];
@@ -211,10 +219,20 @@ export default function remarkVenueDeals() {
         children.push({ type: "link", url: d.sourceUrl, children: [{ type: "text", value: "Offer details" }] });
         children.push({ type: "text", value: "." });
       });
+      // "Also on First Table: 50% off food at off-peak tables (£6 booking fee for two). Book on First Table."
+      if (ft) {
+        if (deals.length) children.push({ type: "text", value: " " });
+        // A chain's heading may mean any branch: name the one that is on First Table.
+        const branch = ft.firstTable?.branch ? ` at the ${ft.firstTable.branch} branch` : "";
+        children.push({ type: "text", value: `${deals.length ? "Also on" : "On"} First Table${branch}: 50% off food at off-peak tables${ft.price ? ` (${ft.price})` : ""}. ` });
+        children.push({ type: "link", url: ft.sourceUrl, children: [{ type: "text", value: "Book on First Table" }] });
+        children.push({ type: "text", value: "." });
+      }
       // And onward to the page that lists every deal of this kind.
       // Blue Light and membership offers live on the discount cards page, not the student one.
-      const group = deals[0].type === "discount-group" && !/student|unidays|totum/i.test(`${deals[0].offer} ${deals[0].conditions ?? ""}`);
-      const more = group
+      const group = deals[0]?.type === "discount-group" && !/student|unidays|totum/i.test(`${deals[0].offer} ${deals[0].conditions ?? ""}`);
+      const more = !deals.length ? FIRST_TABLE_MORE
+        : group
         ? { url: "/articles/restaurant-discount-cards-london/#blue-light-card-and-other-memberships", label: "More Blue Light and membership deals" }
         : MORE[deals[0].type] ?? MORE.default;
       children.push({ type: "text", value: " " });

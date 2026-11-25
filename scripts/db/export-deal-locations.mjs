@@ -22,7 +22,9 @@ const label = (p) => p.nearest_station ? `near ${p.nearest_station}` : (p.addres
 
 const c = await connect();
 const { rows: deals } = await c.query(`select d.place_name, d.branches, p.id, p.lat, p.lng, p.nearest_station, p.address, p.attributes->'locations' locs
-  from deals d join places p on p.id = d.place_id`);
+  from deals d join places p on p.id = d.place_id
+  -- First Table rows (first-table.mjs) are not in the finder, and keyed by name they would add their branch to the chain's own deals
+  where coalesce(d.attributes->>'origin', '') <> 'first-table'`);
 const { rows: kids } = await c.query(`select parent_id, lat, lng, nearest_station, address from places
   where parent_id is not null and lat is not null and duplicate_of is null and coalesce(status,'') not in ('closed','permanently_closed')`);
 const { rows: located } = await c.query(`select name, lat, lng, nearest_station, address from places
