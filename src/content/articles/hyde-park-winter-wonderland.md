@@ -47,7 +47,6 @@ Half a million £1 tickets get people through the gate; the ice rink is £19.25 
 > - **Quietest:** Monday to Wednesday daytime in November, which is also the cheapest. In December the cheapest entry is £5.50 standard, sold across many weekday mornings and afternoons; peak slots fall mostly later in the day and at weekends.
 > - **Free inside:** Santa's Grotto, all live music, the Christmas Market, the light arches, every bar to walk into.
 > - **Everything else costs**, including every ride.
-> - **Map:** [a 3D map of the whole site](#map-of-winter-wonderland-2026) with every ride, bar, food stall, toilet block and gate, and your own position once you are inside.
 
 ---
 
@@ -58,12 +57,6 @@ Half a million £1 tickets get people through the gate; the ice rink is £19.25 
 *Luminarie Lane, through the entrance gate.*
 
 ---
-
-## Map of Winter Wonderland 2026
-
-Every ride, show, bar, food stall, toilet block, water point and gate, zone by zone. Tap anything for its price, height limit or dietary options. The layout follows the [official event map](https://hydeparkwinterwonderland.com/map/) and is not to scale.
-
-{ww map}
 
 ## Getting in
 
