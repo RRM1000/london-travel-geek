@@ -55,8 +55,6 @@ London's Christmas markets come in three kinds: the chalet markets that go up fo
 | **Wimbledon** | The Piazza, SW19 | Winterfest 28–29 Nov 2026 | Free | Winterfest has ice skating and Santa's Grotto at Wimbledon Quarter |
 | **Crafty Fox** | RSA House, King's Cross | 5 Dec, 6 Dec, 12–13 Dec | Free | One or two days each; different makers each day |
 | **Chelsea Physic Garden fair** | Royal Hospital Road, SW3 | 26–29 Nov 2026 | £8–£10 | Ticketed; four days only |
-| **Spirit of Christmas Fair** | Olympia, W14 | 2–8 Nov 2026 | Ticketed | Has finished for 2026 |
-| **Good Housekeeping Live with Country Living Christmas Market** | Business Design Centre, N1 | 11–14 Nov 2026 | Ticketed | Has finished for 2026 |
 | **The Ideal Christmas Show** | Olympia, W14 | 26–29 Nov 2026 | From £16 | Ticketed; four days only |
 
 <details class="restaurant-map-shell" open>
@@ -277,7 +275,6 @@ More areas are in [where to stay in London](/articles/best-areas-to-stay-in-lond
 **A covered market of designer-makers, antiques dealers and food stalls**, which dresses up for Christmas without turning into a Christmas market. It is the one to visit for gifts made by the person selling them.
 
 - **Open:** daily **10am–5.30pm**, all year, closed Christmas Day. Arts and crafts on Monday, Wednesday, Friday and weekends; antiques and collectables on Tuesday, Thursday and Friday.
-- **The Lantern Parade:** on **Wednesday 18 November 2026** local schoolchildren carried lanterns from the Old Royal Naval College to the market, where the Christmas lights went on at 5pm.
 - **Price:** free.
 - **Getting there:** Cutty Sark DLR, three minutes.
 
@@ -331,15 +328,7 @@ Book early for the lower price: the [garden's fair page](https://www.chelseaphys
 
 ## Indoor Christmas fairs
 
-Three ticketed shopping fairs run under glass roofs in November; one is still to come.
-
-### Spirit of Christmas Fair, Olympia
-
-**Ran 2–8 November 2026.** The fair's 25th anniversary, in the Grand Hall at Olympia: more than 600 brands, 30 of them emerging ones in the Spirit Rising Stars area, plus free workshops, live music and a restaurant run by the chef Kate Austen. Entry included The Luxury Travel Fair in Olympia's National Hall. It is the first of the three, and has finished; [the fair's site](https://spiritofchristmasfair.co.uk) is the place for the 2027 dates.
-
-### Good Housekeeping Live with the Country Living Christmas Market, Business Design Centre
-
-**Ran 11–14 November 2026.** Four days under the glass dome of the Business Design Centre in Islington, mixing a Christmas market with talks, craft sessions and cooking demonstrations. It has finished for 2026.
+A ticketed shopping fair runs under the glass roof of Olympia in the last week of November.
 
 ### The Ideal Christmas Show, Olympia
 

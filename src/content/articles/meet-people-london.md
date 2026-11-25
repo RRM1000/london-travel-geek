@@ -4,7 +4,7 @@ seoTitle: "Meet People in London: Run Clubs, Socials & Meetups"
 description: "Where a solo traveller or newcomer can meet people in London: free run clubs with a pint after, a £2 language exchange, a board-game night for people who come alone, dinners with strangers and a nightly pub crawl, with days, times and prices."
 publishedAt: 2026-11-19
 updatedAt: 2026-11-19
-reviewBy: 2027-02-19
+reviewBy: 2026-12-08
 sites: [london]
 canonicalSite: london
 category: "Things to do"
@@ -107,7 +107,7 @@ RSVP on the [London Social Runners Meetup page](https://www.meetup.com/londonsoc
 
 *Arch 16, Leake Street, SE1 7NN · every other Monday, 7pm to 11pm · £8*
 
-**A board-game night for people who come alone or with one friend**, in a railway arch inside the Leake Street graffiti tunnel under Waterloo station. You sit down at a table, pick from a library of more than 1,000 games, and play with whoever sits next to you. Food and drink are ordered to the table. Over 18s only. The next one is on Monday 23 November 2026, and Draughts runs the same night at its Stratford branch in the Olympic Park.
+**A board-game night for people who come alone or with one friend**, in a railway arch inside the Leake Street graffiti tunnel under Waterloo station. You sit down at a table, pick from a library of more than 1,000 games, and play with whoever sits next to you. Food and drink are ordered to the table. Over 18s only. The next one is on Monday 7 December 2026.
 
 **£8 covers four hours of games. [Book a place on DesignMyNight](https://www.designmynight.com/london/bars/waterloo/draughts-waterloo/boardgame-meetup-at-waterloo-1?t=tickets)**; Draughts says spaces fill.
 

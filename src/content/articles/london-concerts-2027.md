@@ -3,7 +3,7 @@ title: "London Concerts 2027: Every Stadium, Arena and Park Gig Announced"
 seoTitle: "London Concerts 2027: Stadium, Arena and Park Gigs"
 description: "The big London gigs announced for 2027: Harry Styles, Sam Fender, Noah Kahan and Slipknot at Wembley, U2 and Fall Out Boy at Tottenham, Fontaines D.C. at London Stadium, BST Hyde Park, and Olivia Rodrigo's eleven nights at The O2, with dates, on-sale status and how to get home."
 publishedAt: 2026-11-14
-updatedAt: 2026-11-21
+updatedAt: 2026-11-25
 reviewBy: 2026-12-12
 sites: [london]
 canonicalSite: london
@@ -12,7 +12,7 @@ tags: [concerts, gigs, live music, Wembley Stadium, Tottenham Hotspur Stadium, L
 draft: false
 faq:
   - q: "Which stadium concerts are in London in 2027?"
-    a: "At Wembley: Sam Fender (18 and 20 June and 2 September), Slipknot (3 July), Noah Kahan (23, 24 and 25 July) and Harry Styles (25, 27 and 28 August). At Tottenham Hotspur Stadium: Fall Out Boy (5 June), U2 (18, 19, 22 and 25 June), Karol G (6 July) and Stray Kids (13 July). At London Stadium: Fontaines D.C. with Little Simz (9 July). In Hyde Park, BST has Bon Jovi (24 June), Muse (26 June) and Raye (10 July, sold out), and All Points East in Victoria Park has Phoebe Bridgers (27 August)."
+    a: "At Wembley: Sam Fender (18 and 20 June and 2 September), Slipknot (3 July), Noah Kahan (23, 24 and 25 July), Harry Styles (25, 27 and 28 August) and Foo Fighters (9 and 11 September). At Tottenham Hotspur Stadium: Fall Out Boy (5 June), U2 (18, 19, 22 and 25 June), Karol G (6 July) and Stray Kids (13 July). At London Stadium: Fontaines D.C. with Little Simz (9 July). In Hyde Park, BST has Bon Jovi (24 June), Muse (26 June) and Raye (10 July, sold out), and All Points East in Victoria Park has Phoebe Bridgers (27 August)."
   - q: "When do U2 play London in 2027?"
     a: "Friday 18, Saturday 19, Tuesday 22 and Friday 25 June 2027 at Tottenham Hotspur Stadium, with Wolf Alice supporting. The stadium lists it as the tour's only UK venue. General sale opened on 6 November 2026."
   - q: "Is Harry Styles playing Wembley in 2027?"
@@ -23,7 +23,7 @@ heroImage: "../../assets/articles/wembley-stadium-arena-guide/olympic-steps.jpg"
 heroImageAlt: "Wembley Stadium's glass front and arch seen from the foot of the Olympic Steps under a blue sky, with zone signs on the plaza"
 ---
 
-> 💡 **The Short Version:** London's biggest 2027 gigs so far are **Harry Styles** at Wembley (25, 27 and 28 August), **U2** at Tottenham Hotspur Stadium (18, 19, 22 and 25 June, the tour's only UK venue), **Sam Fender** at Wembley (18 and 20 June and 2 September), **Noah Kahan** at Wembley (23 to 25 July), **Slipknot** at Wembley (3 July, the band's only UK and European show of the tour) and **Fontaines D.C.** at London Stadium (9 July). Tottenham also has **Fall Out Boy** (5 June), **Karol G** (6 July) and **Stray Kids** (13 July, on sale 19 November). In the parks, BST Hyde Park has **Bon Jovi**, **Muse** and **Raye** (sold out), and All Points East has **Phoebe Bridgers**. Indoors, **Olivia Rodrigo** plays eleven nights at The O2 between 5 April and 10 May. **Tickets go to presales first**, usually two to four days before general sale, so sign up with the artist and the venue as soon as a tour is announced.
+> 💡 **The Short Version:** London's biggest 2027 gigs so far are **Harry Styles** at Wembley (25, 27 and 28 August), **U2** at Tottenham Hotspur Stadium (18, 19, 22 and 25 June, the tour's only UK venue), **Sam Fender** at Wembley (18 and 20 June and 2 September), **Noah Kahan** at Wembley (23 to 25 July), **Foo Fighters** at Wembley (9 and 11 September), **Slipknot** at Wembley (3 July, the band's only UK and European show of the tour) and **Fontaines D.C.** at London Stadium (9 July). Tottenham also has **Fall Out Boy** (5 June), **Karol G** (6 July) and **Stray Kids** (13 July, on sale 19 November). In the parks, BST Hyde Park has **Bon Jovi**, **Muse** and **Raye** (sold out), and All Points East has **Phoebe Bridgers**. Indoors, **Olivia Rodrigo** plays eleven nights at The O2 between 5 April and 10 May. **Tickets go to presales first**, usually two to four days before general sale, so sign up with the artist and the venue as soon as a tour is announced.
 
 ## Stadium and park gigs
 
@@ -43,6 +43,7 @@ heroImageAlt: "Wembley Stadium's glass front and arch seen from the foot of the 
 | Fri 23, Sat 24 and Sun 25 July | **Noah Kahan**, The Last of the Bugs Tour | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Noah-Kahan): on general sale since 28 August 2026 |
 | Wed 25, Fri 27 and Sat 28 August | **Harry Styles**, Together, Together | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Harry-Styles): on general sale since 17 September 2026 |
 | Fri 27 August | **Phoebe Bridgers**, with Caroline Polachek | All Points East, Victoria Park | [All Points East](https://www.allpointseastfestival.com/events/phoebe-bridgers-fri-27-aug): on sale |
+| Thu 9 and Sat 11 September | **Foo Fighters**, Take Cover Tour, with Garbage and Reclusé on the 9th and St. Vincent and Florence Road on the 11th | Wembley Stadium | [Wembley Stadium](https://www.wembleystadium.com/events/2027/Foo-Fighters): on general sale since 20 November 2026 |
 
 **Two June Fridays are the busiest nights.** On 18 June, Sam Fender plays Wembley while U2 open at Tottenham. On 25 June, U2 play their last night with Toto at OVO Arena Wembley and SOMBR at The O2 the same evening. If you are going on either Friday, book your hotel as soon as you have tickets.
 

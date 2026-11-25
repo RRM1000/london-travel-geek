@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Central_Hall,_National_
 heroImageLicense: "CC BY 2.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by/2.0/
 publishedAt: 2026-11-16
-updatedAt: 2026-11-16
+updatedAt: 2026-11-25
 reviewBy: 2027-01-15
 sites: [london]
 canonicalSite: london
@@ -108,6 +108,7 @@ faq:
 | Date | Exhibition | Venue | Tickets |
 |---|---|---|---|
 | From 18 Sept | **Chintz**, four centuries of the hand-drawn South Indian cotton | [V&A South Kensington](/articles/v-and-a-guide/) | [V&A](https://www.vam.ac.uk/exhibitions/chintz): tickets available soon |
+| 18 Sept to 12 Dec 2027 | **Simone Leigh**, monumental sculpture from the American artist, her first major UK exhibition | Royal Academy | [Royal Academy](https://www.royalacademy.org.uk/exhibition/simone-leigh): not yet on sale; Friends of the RA go free |
 | 21 Sept 2027 to 16 Jan 2028 | **Anwar Jalal Shemza: A Circle, A Square, A Puzzle**, a retrospective of the post-war modernist | Dulwich Picture Gallery | [Dulwich](https://www.dulwichpicturegallery.org.uk/whats-on/anwar-shemza/): not yet on sale; Friends book first |
 | 24 Sept 2027 to Jan 2028 | **Serpentine x The FLAG Foundation Prize: Gozo Yoshimasu**, the Japanese poet | Serpentine North | [Serpentine](https://www.serpentinegalleries.org/whats-on/serpentine-x-the-flag-foundation-prize-gozo-yoshimasu/): free |
 | 30 Sept 2027 to 5 Mar 2028 | **Lynda Benglis** | [Tate Modern](/articles/tate-modern-guide/) | [Tate](https://www.tate.org.uk/whats-on/tate-modern/lynda-benglis): price to be confirmed |

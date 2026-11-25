@@ -87,7 +87,7 @@ Oxford Street's lights went on on Monday 9 November 2026. It is traffic-free fro
 | **Carnaby Street** | A completely different sculptural light installation each year |
 | **Bond Street & South Molton Street** | Tens of thousands of LEDs on a different theme annually; South Molton Street's own blue-lit arches; Dior's façade at 160-162 New Bond Street dressed as a giant advent calendar for 2026 |
 | **Covent Garden & Seven Dials** | The Piazza tree plus Seven Dials' light "canopies" radiating from the sundial monument |
-| **Marylebone High Street** | "A Very Merry Marylebone Christmas" on Wednesday 11 November — an afternoon street festival with a Ferris wheel and live music |
+| **Marylebone High Street** | Lights on since Wednesday 11 November 2026 |
 | **Chelsea** | King's Road part-pedestrianised for a festival day; Sloane Street's lights run the length of the boulevard |
 | **Canary Wharf** | No switch-on ceremony — the whole estate becomes a themed winter village from October (its ice rink is taking a break for 2026) |
 
@@ -155,7 +155,7 @@ For every panto, Nutcracker and children's show with dates, prices and age guida
 
 ### A Christmas Carol, The Old Vic
 
-**10 November 2026 – 9 January 2027**, previews to 23 November. Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season. The auditorium is reconfigured in the round and the show comes out into it — mince pies included.
+**10 November 2026 – 9 January 2027**. Jack Thorne's adaptation, directed by Matthew Warchus, now in its tenth season. The auditorium is reconfigured in the round and the show comes out into it — mince pies included.
 
 ![Rows of lit lanterns hanging on chains in the dark, the staging used for A Christmas Carol at the Old Vic](../../assets/articles/christmas-in-london/a-christmas-carol-old-vic.jpg)
 *The Old Vic's staging, in the round.*

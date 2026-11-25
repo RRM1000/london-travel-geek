@@ -24,7 +24,7 @@ faq:
 
 **November 2026.** London's new restaurants, bars and cafés from mid-October to the end of November 2026, the openings dated for December and January, and the notable closures. Each entry says what to order and whether you can book.
 
-> 💡 **The Short Version:** **[Ralphie's](#ralphies-belgravia)**, the former Dorchester Grill chef Tom Booton's own bistro, opens in Belgravia on 24 November 2026. **[Lenny's](#lennys-covent-garden)** serves New Haven-style charred pizza in Covent Garden. **[Dishoom Borough](#dishoom-borough-london-bridge)** opened at the Hop Exchange on 21 October and is mostly walk-in. **[Wright Brothers](#wright-brothers-covent-garden)** opens its oyster restaurant in Covent Garden on 28 November, and **[Din Tai Fung](#din-tai-fung-kings-cross)** brings its soup dumplings to King's Cross on 1 December. **[Café TPT](#café-tpt-chinatown)** in Chinatown closed in October after 23 years.
+> 💡 **The Short Version:** **[Ralphie's](#ralphies-belgravia)**, the former Dorchester Grill chef Tom Booton's own bistro, opened in Belgravia on 24 November 2026. **[Lenny's](#lennys-covent-garden)** serves New Haven-style charred pizza in Covent Garden. **[Dishoom Borough](#dishoom-borough-london-bridge)** opened at the Hop Exchange on 21 October and is mostly walk-in. **[Wright Brothers](#wright-brothers-covent-garden)** opens its oyster restaurant in Covent Garden on 28 November, and **[Din Tai Fung](#din-tai-fung-kings-cross)** brings its soup dumplings to King's Cross on 1 December. **[Café TPT](#café-tpt-chinatown)** in Chinatown closed in October after 23 years.
 
 *Opening dates as announced by the restaurants and the trade press up to 24 November 2026. The page is refreshed at the end of each month.*
 

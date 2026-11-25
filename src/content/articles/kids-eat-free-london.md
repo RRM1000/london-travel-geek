@@ -152,10 +152,6 @@ Of the ten Morrisons nearest Covent Garden — Southwark, Camden, Camberwell, Ho
 
 *A Morrisons Café breakfast.*
 
-### Angus Steakhouse
-
-**One child aged 8 or under eats free with every full-paying adult.** The [offer](https://www.angussteakhouse.co.uk/) runs at the four central branches: Leicester Square, Bond Street, Oxford Circus and Paddington.
-
 ### Tesco Café, until 18 December 2026
 
 *Superstore cafés · daily · Clubcard*
