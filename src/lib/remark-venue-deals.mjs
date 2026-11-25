@@ -130,7 +130,9 @@ function line(d, title = "") {
   let s = d.offer.replace(/\.$/, "");
   const lower = () => `${s.charAt(0).toLowerCase()}${s.slice(1)}`;
   const place = placeOf(title);
-  const branch = d.branches && !/^all\b/i.test(d.branches) ? d.branches : "";
+  // A "branch" that is only the venue's own name ("Harwood Arms" for The Harwood Arms) names no branch.
+  const ownName = (b) => { const a = norm(b).replace(/^the/, ""), v = norm(d.name).replace(/^the/, ""); return !!a && a === v; };
+  const branch = d.branches && !/^all\b/i.test(d.branches) && !ownName(d.branches) ? d.branches : "";
   if (branch && VAGUE.test(branch)) {
     // Not every branch, and the data doesn't say which: say so, and name no place.
     s = `At ${branch.charAt(0).toLowerCase()}${branch.slice(1)}: ${lower()}`;
