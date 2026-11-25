@@ -1,7 +1,7 @@
 // The London deals finder (/articles/london-deals-near-me/). Reads /deals-finder.json, built with
 // the site from the deals data, and lists the deals with a branch near a station or the reader's
-// location, nearest first, filtered by day and type. The choices go in the address bar
-// (?near=Covent+Garden&day=fri&within=1000&type=Happy+hours) so a result can be shared or linked.
+// location, nearest first, filtered by day and by any number of deal types. The choices go in the address bar
+// (?near=Covent+Garden&day=fri&within=1000&type=Happy+hours&type=BYO) so a result can be shared or linked.
 (() => {
   const box = document.querySelector("[data-deals-finder]");
   if (!box) return;
@@ -27,6 +27,13 @@
 
   let data = null;
   let here = null; // { lat, lng, label }
+  const types = new Set(); // empty means every type
+  const typeBox = box.querySelector("[data-df-types]");
+  const allBtn = typeBox.querySelector("[data-df-all]");
+  const syncTypes = () => {
+    allBtn.setAttribute("aria-pressed", String(types.size === 0));
+    for (const b of typeBox.querySelectorAll("[data-df-type]")) b.setAttribute("aria-pressed", String(types.has(b.dataset.dfType)));
+  };
 
   const params = new URLSearchParams(location.search);
   const dayEl = form.elements.day;
@@ -38,7 +45,7 @@
     if (here?.station) p.set("near", here.label);
     p.set("day", dayEl.value);
     p.set("within", form.elements.within.value);
-    if (form.elements.type.value) p.set("type", form.elements.type.value);
+    for (const t of types) p.append("type", t);
     history.replaceState(null, "", `${location.pathname}?${p}${location.hash}`);
   }
 
@@ -46,12 +53,11 @@
     if (!data) return;
     if (!here) { status.textContent = "Choose a station, or use your location."; out.innerHTML = ""; return; }
     const within = +form.elements.within.value;
-    const type = form.elements.type.value;
     const day = dayEl.value === "any" ? -1 : DAYS.indexOf(dayEl.value);
     const rows = [];
     for (const d of data.deals) {
       if (d.e && d.e < todayIso) continue;
-      if (type && d.g !== type) continue;
+      if (types.size && !types.has(d.g)) continue;
       if (day >= 0 && d.m != null && !(d.m & (1 << day))) continue;
       let best = null;
       for (const [la, ln, label] of d.p) {
@@ -84,7 +90,16 @@
 
   form.elements.near.addEventListener("change", (e) => pickStation(e.target.value));
   form.elements.near.addEventListener("input", (e) => { if (data?.stations.some((x) => x[0].toLowerCase() === e.target.value.trim().toLowerCase())) pickStation(e.target.value); });
-  for (const n of ["day", "within", "type"]) form.elements[n].addEventListener("change", render);
+  for (const n of ["day", "within"]) form.elements[n].addEventListener("change", render);
+  typeBox.addEventListener("click", (e) => {
+    const b = e.target.closest("button");
+    if (!b) return;
+    if (b === allBtn) types.clear();
+    else if (types.has(b.dataset.dfType)) types.delete(b.dataset.dfType);
+    else types.add(b.dataset.dfType);
+    syncTypes();
+    render();
+  });
   form.addEventListener("submit", (e) => { e.preventDefault(); pickStation(form.elements.near.value); });
   box.querySelector("[data-df-locate]").addEventListener("click", () => {
     if (!navigator.geolocation) { status.textContent = "Your browser cannot share its location: choose a station instead."; return; }
@@ -101,8 +116,9 @@
     const list = box.querySelector("#df-stations");
     list.innerHTML = data.stations.map((s) => `<option value="${esc(s[0])}"></option>`).join("");
     const groups = [...new Set(data.deals.map((d) => d.g))].sort();
-    const want = params.get("type");
-    form.elements.type.insertAdjacentHTML("beforeend", groups.map((g) => `<option${g === want ? " selected" : ""}>${esc(g)}</option>`).join(""));
+    for (const t of params.getAll("type")) if (groups.includes(t)) types.add(t);
+    typeBox.insertAdjacentHTML("beforeend", groups.map((g) => `<button type="button" class="deals-finder__type" data-df-type="${esc(g)}" aria-pressed="false">${esc(g)}</button>`).join(""));
+    syncTypes();
     box.querySelector("[data-df-count]").textContent = `${data.deals.length} deals`;
     if (params.get("near")) { form.elements.near.value = params.get("near"); pickStation(params.get("near")); } else render();
   }).catch(() => { status.textContent = "The deals list did not load. Reload the page to try again."; });

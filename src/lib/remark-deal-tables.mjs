@@ -698,8 +698,8 @@ export function finderHtml() {
 <button type="button" class="deals-finder__locate" data-df-locate>Use my location</button>
 <label>Day <select name="day">${days.map((d) => `<option value="${d.slice(0, 3).toLowerCase()}">${d}</option>`).join("")}<option value="any">Any day</option></select></label>
 <label>Within <select name="within"><option value="500">500 m</option><option value="1000" selected>1 km</option><option value="2000">2 km</option><option value="5000">5 km</option></select></label>
-<label>Type <select name="type"><option value="">All deals</option></select></label>
 </form>
+<div class="deals-finder__types" role="group" aria-label="Deal types" data-df-types><button type="button" class="deals-finder__type" data-df-all aria-pressed="true">All deals</button></div>
 <p class="deals-finder__status" data-df-status aria-live="polite">Loading <span data-df-count>the deals</span>…</p>
 <ol class="deals-finder__results" data-df-results></ol>
 <noscript><p>The finder needs JavaScript. Every deal is also listed on the <a href="/articles/food-deals-london/">food deals</a> and <a href="/articles/london-deals/">London deals</a> pages.</p></noscript>
