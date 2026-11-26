@@ -1686,7 +1686,7 @@
   "platforms": [
    "tribe"
   ],
-  "tribeApi": true
+  "tribeApi": false
  },
  "osm-n7157186416": {
   "name": "Daniel Benjamin Gallery",
