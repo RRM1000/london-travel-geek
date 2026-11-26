@@ -62691,14 +62691,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B1 C4 D3",
+    "sourceCount": 10,
+    "tierSpread": "B1 C5 D4",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 8,
-        "tierSpread": "B1 C4 D3",
+        "sourceCount": 10,
+        "tierSpread": "B1 C5 D4",
         "tierCount": 3,
         "hasAward": false
       }
@@ -62735,6 +62735,12 @@
         "quote": "#9 of 10, The Strand. Strand store at 137 Strand; Earl Grey milk tea with French pudding."
       },
       {
+        "tier": "C",
+        "source": "medium.com",
+        "url": "https://medium.com/@herjournal2019/%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%80%AB%E6%95%A6top-3%E6%9C%80%E6%84%9B-%E5%9C%B0%E9%9B%B7%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99-6f88b9edcb65",
+        "quote": "#3: the branch she drinks most; never amazing, never disappointing."
+      },
+      {
         "tier": "D",
         "source": "Kayse (YouTube)",
         "url": "https://www.youtube.com/@bykayse"
@@ -62748,6 +62754,12 @@
         "tier": "D",
         "source": "Rayscafe (YouTube)",
         "url": "https://www.youtube.com/@Rayscafes"
+      },
+      {
+        "tier": "D",
+        "source": "阿滴 Ray Du (YouTube)",
+        "url": "https://www.youtube.com/@rayduenglish",
+        "quote": "珍珠Q彈 - 不會太硬也不會太軟 (pearls springy, neither too hard nor too soft)."
       }
     ]
   },
@@ -63051,14 +63063,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B1 C2 D2",
+    "sourceCount": 6,
+    "tierSpread": "B1 C3 D2",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 5,
-        "tierSpread": "B1 C2 D2",
+        "sourceCount": 6,
+        "tierSpread": "B1 C3 D2",
         "tierCount": 3,
         "hasAward": false
       }
@@ -63081,6 +63093,12 @@
         "source": "Hues of Delahaye",
         "url": "https://www.huesofdelahaye.com/best-bubble-tea-in-london/",
         "quote": "Black sesame milk tea."
+      },
+      {
+        "tier": "C",
+        "source": "medium.com",
+        "url": "https://medium.com/@herjournal2019/%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%80%AB%E6%95%A6top-3%E6%9C%80%E6%84%9B-%E5%9C%B0%E9%9B%B7%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99-6f88b9edcb65",
+        "quote": "Joint #2, Angel branch."
       },
       {
         "tier": "D",
@@ -63441,14 +63459,14 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 2,
-    "tierSpread": "C1 D1",
+    "sourceCount": 4,
+    "tierSpread": "C2 D2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 2,
-        "tierSpread": "C1 D1",
+        "sourceCount": 4,
+        "tierSpread": "C2 D2",
         "tierCount": 2,
         "hasAward": false
       }
@@ -63461,10 +63479,22 @@
         "quote": "#8 of 10, The Strand. 65 Shaftesbury Avenue; honey pearls."
       },
       {
+        "tier": "C",
+        "source": "medium.com",
+        "url": "https://medium.com/@herjournal2019/%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%80%AB%E6%95%A6top-3%E6%9C%80%E6%84%9B-%E5%9C%B0%E9%9B%B7%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99-6f88b9edcb65",
+        "quote": "Joint #2; likes the honey pearls; seating inside."
+      },
+      {
         "tier": "D",
         "source": "Bunch of Bananas (podcast) (TikTok)",
         "url": "https://www.tiktok.com/@bunchofbananaspod",
         "quote": "@londonfoodieexpat: Milksha in Soho."
+      },
+      {
+        "tier": "D",
+        "source": "阿滴 Ray Du (YouTube)",
+        "url": "https://www.youtube.com/@rayduenglish",
+        "quote": "在台灣很高分的飲料店; pearl 軟硬度也是最剛好的; 糖度點太低了."
       }
     ]
   },
@@ -63498,19 +63528,25 @@
     "topics": [
       "bubble-tea"
     ],
-    "sourceCount": 3,
-    "tierSpread": "D3",
-    "tierCount": 1,
+    "sourceCount": 4,
+    "tierSpread": "C1 D3",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "bubble-tea": {
-        "sourceCount": 3,
-        "tierSpread": "D3",
-        "tierCount": 1,
+        "sourceCount": 4,
+        "tierSpread": "C1 D3",
+        "tierCount": 2,
         "hasAward": false
       }
     },
     "sources": [
+      {
+        "tier": "C",
+        "source": "medium.com",
+        "url": "https://medium.com/@herjournal2019/%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%80%AB%E6%95%A6top-3%E6%9C%80%E6%84%9B-%E5%9C%B0%E9%9B%B7%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99-6f88b9edcb65",
+        "quote": "#1: chewy pearls, the tea flavour just right."
+      },
       {
         "tier": "D",
         "source": "YEN (YouTube)",

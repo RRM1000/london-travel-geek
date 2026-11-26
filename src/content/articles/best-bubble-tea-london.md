@@ -5,8 +5,8 @@ description: "The bubble tea shops London's lists, blogs and boba reviewers agre
 heroImage: "../../assets/articles/best-bubble-tea-london/happy-lemon-newport-court.jpg"
 heroImageAlt: "Happy Lemon's bright yellow shopfront at 24A Newport Court, with Bubble Tea, Fresh Fruit Tea and Rock Salt Cheese painted along the fascia"
 publishedAt: 2026-06-09
-updatedAt: 2026-10-26
-reviewBy: 2027-01-26
+updatedAt: 2026-11-21
+reviewBy: 2027-02-21
 sites: [london]
 canonicalSite: london
 category: "Food and drink"
@@ -14,28 +14,30 @@ tags: [cafes, chinatown, soho, drinks, cheap-eats]
 draft: false
 faq:
   - q: "Where is the best bubble tea in London?"
-    a: "Xing Fu Tang on Frith Street in Soho. Time Out ranks it number one, and it's named by 14 of the 25 sources read for this page, more than any other shop still trading. Its speciality is brown sugar pearls, cooked in batches in a big wok through the day, with the sugar on top blowtorched to order."
+    a: "Xing Fu Tang on Frith Street in Soho. Time Out ranks it number one, and it's named by 14 of the 27 sources read for this page, more than any other shop still trading. Its speciality is brown sugar pearls, cooked in batches in a big wok through the day, with the sugar on top blowtorched to order."
   - q: "Where is the bubble tea street in London?"
     a: "Newport Court in Chinatown. Cuppacha, Happy Lemon, Min Tea and Lucky Tea are all within a few doors of each other, with Woo Tea and HEYTEA a couple of minutes away. It's two minutes from Leicester Square station, and most of these shops stay open until about 10:30pm."
   - q: "How much does bubble tea cost in London?"
     a: "Usually £6 to £7.50 a cup at the well-known shops. A large brown sugar milk tea at Xing Fu Tang was £5.95 in June 2026, a golden passion fruit tea at Lucky Tea was £6.50 in August, and a lychee fruit tea at Woo Tea was £7.20. HEYTEA's Coconut Mango Bloom was £6.80 back in 2025. Toppings add to the price."
   - q: "Is The Alley still open in London?"
-    a: "No. Its Holborn flagship at 272 High Holborn has closed. 11 of the 25 sources here still recommend it, which is why it's missing from this guide."
+    a: "No. Its Holborn flagship at 272 High Holborn has closed, and so have its Mayfair, Camden, Hammersmith and Westfield London shops."
   - q: "Where can I get cheese foam tea in London?"
     a: "Min Tea on Newport Court is the specialist, with a whole cheesy milk tea menu. HEYTEA on Shaftesbury Avenue made cheese foam famous in China and tops its brown sugar milk tea with it. Happy Lemon's rock salt cheese range is two doors from Min Tea."
+  - q: "Which London bubble tea do Taiwanese reviewers rate?"
+    a: "Milksha on Shaftesbury Avenue and T4. In October 2023 the Taiwanese YouTuber 阿滴 (Ray Du) taste-tested five London chains and singled out Milksha's pearls as the best texture, though he found the drink not sweet enough. T4's pearls he called springy, neither too hard nor too soft."
   - q: "Where can I sit down with a bubble tea in central London?"
-    a: "Most of Chinatown's shops are takeaway counters. Pürcha on Kingsway and Charing Cross Road has proper seating and serves Taiwanese fried chicken. The Whale Tea on Queensway has a few tables and is two minutes from Hyde Park, and The Infatuation suggests taking your cup there."
+    a: "Most of Chinatown's shops are takeaway counters. Pürcha on Kingsway in Holborn has proper seating and serves Taiwanese fried chicken. The Whale Tea on Queensway has a few tables and is two minutes from Hyde Park, and The Infatuation suggests taking your cup there."
 ---
 
-Four of Time Out's top ten, ranked in March 2026, aren't serving. The Alley, named by more sources than any shop except Xing Fu Tang, has closed its Holborn flagship and is missing from this guide. Every shop here is ranked by how many independent lists, blogs and video reviews name it.
+Four of Time Out's top ten, ranked in March 2026, aren't serving. The Alley, named by more sources than any shop except Xing Fu Tang, has closed every London shop and is missing from this guide. Every shop here is ranked by how many independent lists, blogs and video reviews name it.
 
 > 🧋 **The short version.**
-> **[Xing Fu Tang](#xing-fu-tang)** in Soho for brown sugar pearls, and it's named by more sources than anywhere else. **[Kissaten](#kissaten)** for honey pearls and Japanese teas. **[T4](#t4)** for a classic milk tea, from four London branches. For choice, go to **Newport Court in Chinatown**, where [Cuppacha](#cuppacha), [Happy Lemon](#happy-lemon), [Min Tea](#min-tea) and [Lucky Tea](#lucky-tea) are a few doors apart and open late.
+> **[Xing Fu Tang](#xing-fu-tang)** in Soho for brown sugar pearls, and it's named by more sources than anywhere else. **[Kissaten](#kissaten)** for honey pearls and Japanese teas. **[T4](#t4)** for a classic milk tea, from four London branches, and **[Milksha](#milksha)** for the pearls a Taiwanese taste test rated best. For choice, go to **Newport Court in Chinatown**, where [Cuppacha](#cuppacha), [Happy Lemon](#happy-lemon), [Min Tea](#min-tea) and [Lucky Tea](#lucky-tea) are a few doors apart and open late.
 
 > 📊 **The evidence behind this guide.**
-> **25 sources carrying 145 citations** across **39 named venues**. **25 venues are named by two or more independent sources.**
-> **Built on:** Time Out, The Infatuation, the Evening Standard and The Handbook; London blogs; YouTube and TikTok.
-> *Evidence rebuilt 14 September 2026 · [How we rank →](/how-we-rank/)*
+> **27 sources carrying 151 citations** across **39 named venues**. **25 venues are named by two or more independent sources.**
+> **Built on:** Time Out, The Infatuation, the Evening Standard and The Handbook; London blogs in English and Chinese; YouTube, including a Taiwanese taste test, and TikTok.
+> *Evidence rebuilt 21 November 2026 · [How we rank →](/how-we-rank/)*
 
 ---
 
@@ -51,7 +53,7 @@ Four of Time Out's top ten, ranked in March 2026, aren't serving. The Alley, nam
 
 **29 Frith Street, W1D 5LG.** A Taiwanese chain. Its speciality is **brown sugar pearls**, which Time Out says are made in hourly batches. The house drink is fresh milk with brown sugar syrup, topped with sugar blowtorched to a crème brûlée crust. Wrap Your Lips Around This calls it the writer's overall favourite for its "soft sweetness and toasted toffee flavour." Four London TikTok creators name it too, one in a video with close to 300,000 views. One paid **£5.95 for a large brown sugar milk tea** in June 2026 and gave it 10/10 for "super soft and chewy" tapioca.
 
-It's a small white shop for takeaway, and **the queue forms at opening time**. There's a gold-leaf version of the brown sugar milk tea and a mango smoothie topped with a panna cotta rabbit. There's a second branch, **XFT City**, at 122 Middlesex Street near Liverpool Street.
+It's a small white shop for takeaway, and **the queue forms at opening time**. There's a gold-leaf version of the brown sugar milk tea and a mango smoothie topped with a panna cotta rabbit.
 
 ### The Whale Tea
 
@@ -61,9 +63,9 @@ It's a small white shop for takeaway, and **the queue forms at opening time**. T
 
 *Brown sugar boba at The Whale Tea.*
 
-**18 Queensway, W2 3RX**, and **45 Wardour Street, W1D 6PZ** in Chinatown. This is the King's College student magazine's number one: "the store's brown sugar boba is the best in London." Its signature is the Flaming Whale, classic brown sugar boba under fresh cheese cream. The Infatuation likes the plain milk tea boba, which "tastes a little like cereal milk in the best way possible."
+**18 Queensway, W2 3RX.** This is the King's College student magazine's number one: "the store's brown sugar boba is the best in London." Its signature is the Flaming Whale, classic brown sugar boba under fresh cheese cream. The Infatuation likes the plain milk tea boba, which "tastes a little like cereal milk in the best way possible."
 
-The Queensway shop has a couple of tables, and it's open until about 10pm. Hyde Park is at the end of the road, so take the cup to the park.
+The shop has a couple of tables, and it's open until about 10pm. Hyde Park is at the end of the road, so take the cup to the park.
 
 > 💡 **Two lists, two winners.** Time Out puts Xing Fu Tang first and doesn't mention The Whale Tea. The Strand puts The Whale Tea first and Xing Fu Tang seventh. Both praise brown sugar boba.
 
@@ -97,13 +99,13 @@ It's a takeaway counter, not somewhere to sit, and it's open until about 10:30pm
 
 ### T4
 
-*£ · Paddington · 2 min from Paddington · Cited by 8 sources · [t4.co.uk](https://t4.co.uk/)*
+*£ · Paddington · 2 min from Paddington · Cited by 10 sources · [t4.co.uk](https://t4.co.uk/)*
 
 ![A T4 milk tea with dark pearls at the bottom, held up in front of a green wall with the T4 logo behind](../../assets/articles/best-bubble-tea-london/t4-milk-tea.jpg)
 
 *T4's classic milk tea.*
 
-**4B Praed Street, W2 1JX**, plus **137 Strand**, **Westfield Stratford City** and **Westfield London** in Shepherd's Bush. T4 uses whole tea leaves, never tea bags or powder, and sticks to milk teas rather than fruit. The Infatuation says "no matter which branch you're at, you'll get a great bubble tea," and likes the Oreo potted milk tea best. The Strand orders Earl Grey milk tea with French pudding.
+**4B Praed Street, W2 1JX**, plus **137 Strand**, **Westfield Stratford City** and **Westfield London** in Shepherd's Bush. T4 uses whole tea leaves, never tea bags or powder, and sticks to milk teas rather than fruit. The Infatuation says "no matter which branch you're at, you'll get a great bubble tea," and likes the Oreo potted milk tea best. The Strand orders Earl Grey milk tea with French pudding. The Taiwanese YouTuber 阿滴 found the pearls springy, neither too hard nor too soft.
 
 The Paddington branch is open until about 8pm.
 
@@ -193,6 +195,24 @@ Open until about 10:30pm. The Standard says it's "usually packed" and worth push
 
 **35 Newport Court, WC2H 7PQ.** Come here for **slushies and fruit teas** rather than milk tea. The Strand's favourite is the grape slushie, made with real grape pieces and topped with cheese milk foam and crystal boba. A TikTok reviewer touring Chinatown in August 2026 called the golden passion fruit tea (listed at **£6.50**) "the best one we've had". Two London YouTube reviewers include it too. Walk-in only, open until about 10:30pm.
 
+### Milksha
+
+*£ · Chinatown · 3 min from Leicester Square · Cited by 4 sources · [milksha.co.uk](https://www.milksha.co.uk/)*
+
+**65 Shaftesbury Avenue, W1D 6LH.** A Taiwanese chain. The Taiwanese YouTuber 阿滴 (Ray Du) calls it a brand that scores highly in Taiwan, and of the five London chains he tasted, its **pearls** had the texture he rated best, though he wanted more sugar. Her Journal, a Traditional Chinese blog by a London-based writer, ranks it joint second in London for its **honey pearls**. The Strand orders strawberry Yakult with honey pearls.
+
+It's open until about 11pm, the latest on this page.
+
+### Jen Tea
+
+*£ · Spitalfields · 5 min from Liverpool Street · Cited by 4 sources · [jentea.co.uk](https://jentea.co.uk/)*
+
+![A cream cheese pearl oolong milk tea held up in front of Jen Tea's pegboard wall, with the price, £6.60, written on the board behind](../../assets/articles/best-bubble-tea-london/jen-tea-cream-cheese-oolong.jpg)
+
+*Jen Tea's cream cheese pearl oolong milk tea.*
+
+**16 Artillery Passage, E1 7LJ.** A small counter in a narrow passage. Her Journal ranks it first in London for chewy pearls and a well-judged tea flavour. Three London video reviewers name it; one calls it "very low key and very expensive," and keeps going back. The **cream cheese pearl oolong milk tea** is £6.60. Open until about 9pm.
+
 ---
 
 <div data-gyg-href="https://widget.getyourguide.com/default/activities.frame" data-gyg-locale-code="en-US" data-gyg-widget="activities" data-gyg-number-of-items="3" data-gyg-cmp="best-bubble-tea-london-london-classics" data-gyg-partner-id="WWP7I0R" data-gyg-tour-ids="170451,21253,399163"><span>Powered by <a target="_blank" rel="sponsored" href="https://www.getyourguide.com/london-l57/">GetYourGuide</a></span></div>
@@ -203,17 +223,18 @@ Several names the highest-ranking lists recommend have closed:
 
 | Shop | Recommended by | Status now |
 | --- | --- | --- |
-| **The Alley** | 11 of 25 sources | Holborn closed |
+| **The Alley** | 12 of 27 sources | Holborn, Mayfair, Camden, Hammersmith and Westfield London closed |
 | **Yunique Tea** | 9 | Little Newport Street closed |
 | **Biju Bubble Tea Room** | 8, incl. Time Out #5 | Soho, Camden and Southbank Centre closed |
 | **Dragon Cat Café** | 7, incl. Time Out #2 | Hammersmith café and Chinatown wheelcake hut both closed |
 | **CoCo Fresh Tea & Juice** | 5 | Dean Street closed, and no other London branch |
+| **Chatime** | 3 | Chinatown, Tower Hill and Hammersmith closed |
 | **Quaker Street Coffee & Bubble Tea** | 2, incl. Time Out #8 | Closed |
 | **Boba Coma**, Leyton | 2, incl. Time Out #7 | Closed |
 
 **Time Out's list was ranked in March 2026, and four of its top ten aren't serving.**
 
-Three chains are open but have moved or lost branches. **Bubbleology**'s Soho bar (the one serving boozy bubble teas) and its Bloomsbury shop have both closed, and its remaining London branch is at **Westfield Stratford City**. Its old Rupert Street site is now [Auntea Jenny](#new-openings). **Yi Fang** moved from Shaftesbury Avenue to [Gray's Inn Road](#yi-fang-fruit-tea). **Ding Tea**'s Angel shop has closed, but its [Hackney branch](#chains-and-their-branches) is open.
+Several chains are open but have moved or lost branches. **Bubbleology**'s Soho bar (the one serving boozy bubble teas) and its Bloomsbury shop have both closed, and its remaining London branch is at **Westfield Stratford City**. Its old Rupert Street site is now [Auntea Jenny](#new-openings). **Yi Fang** moved from Shaftesbury Avenue to [Gray's Inn Road](#yi-fang-fruit-tea). **Ding Tea**'s Angel shop has closed, but its [Hackney branch](#chains-and-their-branches) is open. Xing Fu Tang's second shop on Middlesex Street, The Whale Tea's Wardour Street shop and Pürcha's Charing Cross Road branch have all closed.
 
 ---
 
@@ -229,11 +250,20 @@ Three chains are open but have moved or lost branches. **Bubbleology**'s Soho ba
 
 ---
 
+## What Taiwanese reviewers rate
+
+Bubble tea comes from Taiwan, and the reviewers writing in Chinese pick different shops from the English-language lists.
+
+- **[阿滴 (Ray Du)](https://www.youtube.com/watch?v=-sb7LfMlJZg)**, a Taiwanese YouTuber with 2.9 million subscribers, taste-tested five London chains in October 2023 with three other YouTubers: Gong Cha, T4, Mooboo, Chatime and Milksha. [Milksha](#milksha) had the pearls he rated best, though he found it not sweet enough, and [T4](#t4)'s pearls were springy, neither too hard nor too soft. The video is in Mandarin with Chinese subtitles.
+- **[Her Journal](https://medium.com/@herjournal2019/%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%80%AB%E6%95%A6top-3%E6%9C%80%E6%84%9B-%E5%9C%B0%E9%9B%B7%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99-6f88b9edcb65)**, a Traditional Chinese blog by a writer who moved to London in 2020, ranked [Jen Tea](#jen-tea) first in March 2023, then [Milksha](#milksha), [Ding Tea](#chains-and-their-branches) and The Alley (since closed), then [T4](#t4). It tells readers to skip Bubbleology and [Happy Lemon](#happy-lemon), two shops the English-language lists recommend.
+
+---
+
 ## Somewhere to sit
 
 Most of the shops above are takeaway counters. These have seats:
 
-- 🪑 **Pürcha**, 7 Kingsway (Holborn) and 82 Charing Cross Road. Tea brewed to order with purified mineral water, "plenty of comfy spots to chill out," and Taiwanese fried chicken. *Cited by 2 sources · #10 of 10, Time Out · [purcha.co.uk](https://purcha.co.uk/)*
+- 🪑 **Pürcha**, 7 Kingsway, Holborn. Tea brewed to order with purified mineral water, "plenty of comfy spots to chill out," and Taiwanese fried chicken. *Cited by 2 sources · #10 of 10, Time Out · [purcha.co.uk](https://purcha.co.uk/)*
 - 🪑 **[The Whale Tea](#the-whale-tea)**, Queensway. A couple of tables, with Hyde Park at the end of the road.
 - 🪑 **Cuppo Bubbo**, 167 Herne Hill, SE24. Time Out's number four: a café with more seats than most, arranged around a huge money tree plant. It brews tea to order and makes a rose bubble tea with real petals. *Cited by 1 source · #4 of 10, Time Out · [cuppobubbo.co.uk](https://cuppobubbo.co.uk/)*
 
@@ -253,11 +283,10 @@ Most of the shops above are takeaway counters. These have seats:
 
 Most names here are chains. These are the branches to go to:
 
-- **[Xing Fu Tang](#xing-fu-tang)**: Frith Street is the original. XFT City is at 122 Middlesex Street, near Liverpool Street.
+- **[Xing Fu Tang](#xing-fu-tang)**: the Frith Street shop in Soho.
 - **[T4](#t4)**: Paddington, Strand, Westfield Stratford City and Westfield London. They're all much the same, so go to whichever is nearest.
-- **[The Whale Tea](#the-whale-tea)**: Queensway to sit down, Wardour Street if you're in Chinatown.
 - 🏷️ **Gong Cha**: 3 Garrick Street, Covent Garden. The Strand's number two, for milk foam matcha strawberry milk tea. A London food podcast's pick is the QQ passionfruit green tea. The Goodge Street branch has closed. *Cited by 3 sources · #2 of 10, The Strand*
-- 🏷️ **Ding Tea**: the Angel shop has closed. The **Hackney** branch at 206A Mare Street, E8, is open (closed Tuesdays). Hues of Delahaye's pick is the black sesame milk tea. *Cited by 5 sources*
+- 🏷️ **Ding Tea**: the Angel shop has closed. The **Hackney** branch at 206A Mare Street, E8, is open (closed Tuesdays). Hues of Delahaye's pick is the black sesame milk tea. *Cited by 6 sources*
 - 🏷️ **Bobar**: 324C Hackney Road, E2. Named by two London video creators. *Cited by 2 sources · [bobarlondon.com](https://www.bobarlondon.com/)*
 - **[Bubble Magik](#bubble-magik)**: Ealing Broadway, or the fourth floor of Selfridges if you're shopping on Oxford Street.
 - **[Mooboo](#mooboo)**: Parkway in Camden, and dozens more around the country.
@@ -274,12 +303,8 @@ Most names here are chains. These are the branches to go to:
 ## Quick stops near a station
 
 - 🚉 **King's Cross**: **BAO King's Cross**, 4 Pancras Square. BAO's Taiwanese café sells bubble tea from a takeaway counter. There are just two: a plain oolong and a fresh milk tea. The Standard says it's "perfect for a beginner." *Cited by 2 sources · [baolondon.com](https://baolondon.com/restaurant/bao-kings-cross/)*
-- 🚉 **Liverpool Street**: **Jen Tea**, 16 Artillery Passage, E1. A narrow lane five minutes from the station, and a favourite of three London video reviewers. One calls it "very low key and very expensive," and keeps going back. Its cream cheese pearl oolong milk tea is £6.60. *Cited by 3 sources · [jentea.co.uk](https://jentea.co.uk/)*
-- 🌙 **Late in Chinatown**: **Milksha**, 65 Shaftesbury Avenue, W1D 6LH. Open until about 11pm, the latest on this page. The Strand orders strawberry Yakult with honey pearls. *Cited by 2 sources · [milksha.co.uk](https://www.milksha.co.uk/)*
-
-![A cream cheese pearl oolong milk tea held up in front of Jen Tea's pegboard wall, with the price, £6.60, written on the board behind](../../assets/articles/best-bubble-tea-london/jen-tea-cream-cheese-oolong.jpg)
-
-*Jen Tea's cream cheese pearl oolong milk tea.*
+- 🚉 **Liverpool Street**: [Jen Tea](#jen-tea), five minutes' walk.
+- 🌙 **Late in Chinatown**: [Milksha](#milksha), open until about 11pm.
 
 ---
 

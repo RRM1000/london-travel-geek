@@ -1,7 +1,7 @@
 {
   "cuisine": "bubble-tea",
   "note": "Bubble tea shops in London. Counted by BRAND, not branch (see theCountingProblem in data/topics/bubble-tea.json): a source naming 'T4 Paddington' and one naming 'T4 Westfield' are both T4, and the branch stays in the quote. Canonical names are ASCII so the normaliser cannot split Purcha from Pürcha or Dragon Cat Cafe from Dragon Cat Café.",
-  "recorded": "2026-09-14",
+  "recorded": "2026-11-21",
   "knownGaps": [
     "NO JUDGED AWARD for bubble tea exists in Britain, so every source here is editorial, blog or video. The source-mix floor is three social voices; five YouTube channels are recorded.",
     "TIER E (Reddit) cannot be read in this environment. Two r/london threads surfaced in search - 'Where's the best Bubble Tea in London?' (sh5sk3) and 'Best and worst boba places?' (wibjls) - and are worth recording if the user can paste them.",
@@ -591,6 +591,42 @@
       ],
       "quotes": {
         "Bobar": "'Bobar, East London'."
+      }
+    },
+    {
+      "name": "阿滴 Ray Du (YouTube) - 台式珍奶在英國受歡迎嗎? 四角戀考茶倫敦手搖飲",
+      "url": "https://www.youtube.com/@rayduenglish",
+      "scope": "bubble-tea",
+      "names": [
+        "T4",
+        "Milksha"
+      ],
+      "tier": "D",
+      "note": "Video https://www.youtube.com/watch?v=-sb7LfMlJZg, 23 October 2023, 858,000 views. 阿滴 (Ray Du) is a Taiwanese YouTuber with 2.93m subscribers; he tastes Gong Cha, T4, Mooboo, Chatime and Milksha in London with three other YouTubers (HOOK, 黃大謙, Peeta). Read from the burned-in Chinese subtitles. Only shops given a favourable verdict are recorded: T4 (pearls neither too hard nor too soft) and Milksha (a brand that scores highly in Taiwan; pearl texture just right, sugar too low). Gong Cha, Mooboo and Chatime were tasted without a clear recommendation and are not recorded. The video paid promotion is Surfshark, not a tea shop.",
+      "quotes": {
+        "T4": "珍珠Q彈 - 不會太硬也不會太軟 (pearls springy, neither too hard nor too soft).",
+        "Milksha": "在台灣很高分的飲料店; pearl 軟硬度也是最剛好的; 糖度點太低了."
+      }
+    },
+    {
+      "name": "Her Journal (Medium) - 我心目中倫敦Top 3最愛、地雷手搖飲料",
+      "url": "https://medium.com/@herjournal2019/%E6%88%91%E5%BF%83%E7%9B%AE%E4%B8%AD%E5%80%AB%E6%95%A6top-3%E6%9C%80%E6%84%9B-%E5%9C%B0%E9%9B%B7%E6%89%8B%E6%90%96%E9%A3%B2%E6%96%99-6f88b9edcb65",
+      "scope": "bubble-tea",
+      "names": [
+        "Jen Tea",
+        "The Alley",
+        "Ding Tea",
+        "Milksha",
+        "T4"
+      ],
+      "tier": "C",
+      "note": "Post dated 9 March 2023, written in Traditional Chinese by a London-based writer (moved to London 2020, per the Medium profile). Ranks Jen Tea 1st; The Alley, Ding Tea and Milksha joint 2nd; T4 3rd. Lists Wanpo, Lucky Tea, CoCo, Gong Cha, Yi Fang, Xing Fu Tang and Truedan as acceptable but outside the top three (not recorded) and says to avoid Bubbleology and Happy Lemon (not recorded). Branches visited: Jen Tea Artillery Passage, The Alley High Holborn, Ding Tea Upper Street, Milksha Shaftesbury Avenue, T4 Crossrail Place, Canary Wharf.",
+      "quotes": {
+        "Jen Tea": "#1: chewy pearls, the tea flavour just right.",
+        "Milksha": "Joint #2; likes the honey pearls; seating inside.",
+        "T4": "#3: the branch she drinks most; never amazing, never disappointing.",
+        "The Alley": "Joint #2.",
+        "Ding Tea": "Joint #2, Angel branch."
       }
     }
   ],
