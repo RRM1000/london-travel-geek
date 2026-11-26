@@ -9,7 +9,7 @@ heroImageSource: https://commons.wikimedia.org/wiki/File:Lutyens_Midland_Bank.JP
 heroImageLicense: "CC BY-SA 3.0"
 heroImageLicenseUrl: https://creativecommons.org/licenses/by-sa/3.0
 publishedAt: 2026-09-24
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2026-12-01
 sites: [london]
 canonicalSite: london
@@ -238,6 +238,14 @@ The 1922 Port of London Authority building by Edwin Cooper, facing the Tower acr
 </div>
 
 **There is a 14-metre indoor pool**, with a vitality pool, sauna, steam room and eight treatment rooms. The restaurants are Mei Ume and Cooper's Cut, and the bar is the Rotunda Bar and Lounge.
+
+### The Derby London City — a former bank, opened in May 2026
+
+*234 rooms, including 13 suites · 5–10 Great Tower Street, EC3R 5AA · Monument 4 min · [Hotels.com](hotelscom:3863114272)*
+
+A former bank building between Monument and the Tower, opened by Hilton in its Curio Collection on 14 May 2026, so **Hilton Honors points apply**. On room-only rates, **children up to 17 stay free** in a room with an adult.
+
+**Rycrofte's, the all-day restaurant, coffee house and bar, looks over the garden in the ruined church of St Dunstan in the East**, serving British dishes. There is no spa or pool.
 
 ### citizenM Tower of London — 370 rooms and a rooftop bar
 

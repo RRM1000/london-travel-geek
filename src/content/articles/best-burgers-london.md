@@ -3,7 +3,7 @@ title: "The Best Burgers in London, Cross-Referenced Across Every Major List and
 seoTitle: "Best Burgers in London 2026: Ranked Across Every List"
 description: "Not our opinion. Every burger here is ranked by how many independent awards, critics and reviewers name it — and by what the National Burger Awards judges actually cooked against."
 publishedAt: 2026-08-31
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2027-03-17
 sites: [london]
 canonicalSite: london
@@ -351,7 +351,7 @@ Six burgers, all on **British beef from regenerative farms**, in **butter-toaste
 
 Named by the listings sites rather than the critics.
 
-* **Patty & Bun** — *££ · Cited by 2 sources.* Started as a 30-seat Marylebone room. Its Marylebone, Soho, Liverpool Street and Battersea restaurants closed at the end of March 2026; the restaurants left are Canary Wharf and Brighton, with counters at Swingers on Oxford Street, Lane7 in Victoria and the Leyton Star pub. Order **The Don**, or the **Ari Gold** with red leicester.
+* **Patty & Bun** — *££ · Cited by 2 sources.* Started as a 30-seat Marylebone room. Its Marylebone, Soho, Liverpool Street and Battersea restaurants closed at the end of March 2026; the restaurants left are Canary Wharf and Brighton, and the burgers are also served at Swingers off Oxford Street and four partner pubs: the Star of Kings at King's Cross, the Star of Liverpool St, the Leyton Star and the Crown and Castle in Dalston. Order **The Don**, or the **Ari Gold** with red leicester.
 * **MEATliquor** — *££ · Cited by 2 sources.* The **Dead Hippie** with its secret sauce is the fan order. Good vegan options, including impossible nuggets and a black bean chilli dog.
 * **Burger & Lobster** — *£££ · Cited by 2 sources.* The **B&L burger** with Nebraskan beef and Atlantic lobster, the most expensive burger in this guide: burger, lobster or lobster roll, all at one price, with the sides included. Bookable.
 * **Dirty Bones, Carnaby, Soho and Shoreditch** — *££ · Cited by 1 source.* The **Mac Daddy** is topped with pulled beef rib and mac and cheese.

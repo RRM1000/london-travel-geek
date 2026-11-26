@@ -3,7 +3,7 @@ title: "City of London Area Guide: St Paul's, the Tower and the Square Mile"
 seoTitle: "City of London Guide: St Paul's, Tower & Free Views"
 description: "Half a million people work in the Square Mile and about eight thousand live there, which makes it a crush on a weekday and empty on a Sunday morning. St Paul's, the Tower, the Roman remains and the skyline viewpoints that cost nothing."
 publishedAt: 2026-08-09
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2026-11-29
 sites:
   - london
@@ -199,6 +199,7 @@ The north-west edge of the City. **Smithfield** has been a livestock and meat ma
 | **The Blackfriar** | Art nouveau pub | ££ | 1905 interior by Blackfriars station |
 | **One New Change** | Food court | ££ | Reliable at weekends when everything else is shut |
 | **Borough Market** | Food market | £ | Ten minutes over London Bridge when the City closes |
+| **Bulbul** | Regional Indian | ££££ | 25 Tudor Street, in the basement of a former printing press, opened September 2026. Lamb kheema with truffle-butter pao, pork sorpotel; £34 set lunch, closed Sundays |
 
 Luna Omakase on the ninth floor of 100 Liverpool Street, Pham Sushi in the Heron and the Moshi Moshi conveyor belt at Liverpool Street station are in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
 

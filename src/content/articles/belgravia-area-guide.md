@@ -3,7 +3,7 @@ title: "Belgravia Area Guide: Elizabeth Street, Eccleston Yards and the Blue Pla
 seoTitle: "Belgravia Guide: Elizabeth Street & Eccleston Yards"
 description: "A complete Belgravia guide: the two shopping streets worth the walk, the blue-plaque loop, where to eat, and what to expect from the grand squares."
 publishedAt: 2026-09-06
-updatedAt: 2026-10-26
+updatedAt: 2026-11-21
 reviewBy: 2027-01-26
 sites:
   - london
@@ -148,6 +148,7 @@ Belgravia eats expensively. Arrive fed if you are on a budget.
 | **[The Goring](hotel:the-goring)** | British, afternoon tea | ££££ | A family-owned grand hotel |
 | **Brooklands** | French, rooftop | ££££ | Claude Bosi on the roof of The Peninsula, over Hyde Park Corner |
 | **Canton Blue** | Cantonese | ££££ | Inside The Peninsula, themed on a 19th-century trading ship |
+| **Little Blue Noodle Bar** | Chinese noodles | ££ | 25 seats inside The Peninsula, entered from Grosvenor Crescent. Dan dan noodles, zha jiang mian; noodle boxes from £15 |
 
 Sachi on Motcomb Street is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
 

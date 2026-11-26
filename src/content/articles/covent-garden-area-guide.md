@@ -3,7 +3,7 @@ title: "Covent Garden Area Guide: The Piazza, Seven Dials and West End Theatre"
 seoTitle: "Things to Do in Covent Garden: Piazza and Seven Dials"
 description: "The Piazza and its performers, Seven Dials and Neal's Yard, where to eat before a show, and why Leicester Square beats Covent Garden station's 193 steps."
 publishedAt: 2026-08-08
-updatedAt: 2026-11-19
+updatedAt: 2026-11-21
 reviewBy: 2027-01-10
 sites:
   - london
@@ -214,6 +214,7 @@ TKTS in Leicester Square, five minutes west, sells same-day discounted tickets; 
 | **The Lamb & Flag** | Historic pub | £ | 17th-century pub on Rose Street, once frequented by Dickens |
 | **Rules** | Traditional British | £££ | Open since 1798 |
 | **Monmouth Coffee** | Coffee | £ | The original Monmouth Street shop; queues out the door at weekends |
+| **Buvette** | French all-day bistro | ££ | Neal's Yard, from the New York chef Jody Williams since June 2026: brick walls, a tin ceiling and a marble counter. Croque monsieur £15, coq au vin £18; open from 8am daily |
 
 Ukiyo Handroll Bar on Slingsby Place is in our [sushi restaurants guide](/articles/best-sushi-restaurants-london/).
 
