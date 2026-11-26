@@ -1,0 +1,98 @@
+{
+  "topic": "jazz-bars",
+  "article": "src/content/articles/best-jazz-bars-london.md",
+  "headTerm": "Jazz bars",
+  "note": "Built 21 November 2026. DEFINITION: anywhere a visitor goes to hear live jazz with a drink and a seat - jazz clubs, cocktail bars and pubs with a regular jazz programme, and restaurants where the band is the reason to go. Readers search 'jazz bars london', 'jazz clubs london', 'live jazz london'. Overlaps with best-live-music-venues-london (its Jazz section), dinner-and-a-show-london and best-speakeasy-bars-london (Nightjar); the pages link both ways. Only sources dated 2023 or later are counted.",
+  "awardBodies": [
+    {
+      "name": "Parliamentary Jazz Awards",
+      "domain": "appjag.org",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "Jazz Venue of the Year. UK-wide; winners 2023 Jazz at the Blue Lamp (Aberdeen), 2024 The Verdict (Brighton), 2025 Digbeth Jazz, 2026 SoundCellar (Poole). London nominees: Cafe Oto and 91 Living Room (2024), 606 (2025), World Heart Beat and Church of Sound (2026 shortlist)."
+    },
+    {
+      "name": "Jazz FM Awards",
+      "domain": "jazzfm.com",
+      "tier": "A",
+      "cadence": "annual",
+      "note": "No venue category in 2025; 2026 list not fully read. Contributes no names."
+    }
+  ],
+  "editorialLists": [
+    {
+      "name": "Time Out",
+      "domain": "timeout.com",
+      "ranked": false,
+      "note": "Ten entries numbered 1-10, 2 December 2024; the page does not call it a ranking."
+    },
+    {
+      "name": "DesignMyNight",
+      "domain": "designmynight.com",
+      "ranked": false,
+      "note": "Listings-led; long tail of bars with one jazz night a week."
+    },
+    {
+      "name": "ShortList",
+      "domain": "shortlist.com",
+      "ranked": false,
+      "note": "Nine, December 2025, with picks from Sebastian Scotney of London Jazz News."
+    },
+    {
+      "name": "Sphere",
+      "domain": "spherelife.com",
+      "ranked": false
+    },
+    {
+      "name": "The Sybarite",
+      "domain": "thesybarite.co",
+      "ranked": false,
+      "note": "Best source for prices."
+    },
+    {
+      "name": "Citywire Selector",
+      "domain": "citywire.com",
+      "ranked": false,
+      "note": "Seven picks by Richard Williams, November 2023."
+    }
+  ],
+  "facetAxis": {
+    "field": "format",
+    "note": "What kind of night it is decides the choice.",
+    "values": [
+      {
+        "key": "club",
+        "label": "Jazz clubs with tickets",
+        "describeAs": "a ticketed set in a seated room, often with dinner"
+      },
+      {
+        "key": "bar",
+        "label": "Bars with a band",
+        "describeAs": "a cocktail bar where the band plays a few metres away and a cover charge goes on the bill"
+      },
+      {
+        "key": "pub",
+        "label": "Pubs and free nights",
+        "describeAs": "a pub back room or a free Sunday session"
+      },
+      {
+        "key": "experimental",
+        "label": "Experimental and new jazz",
+        "describeAs": "improvised music for a listening audience"
+      }
+    ]
+  },
+  "knownGaps": [
+    "Reddit could not be read from the research environment; the two r/Jazz threads (Nov and Dec 2025) were carried over from the dinner-and-a-show corpus.",
+    "YouTube: only one channel (Three Man Abroad). A search for London jazz-bar videos was not run through Apify, to keep the pass free.",
+    "Country and Town House's jazz list could not be read.",
+    "DesignMyNight's page was only partly read; Vortex, Ottie's Salon, The Bootlegger and Bloomsbury Club Bar appear in its unread part and were not recorded from it.",
+    "London Jazz News (Sebastian Scotney) publishes no single venue guide; its venue coverage is through ShortList."
+  ],
+  "openVenueQuestions": [
+    "Brasserie Zédel (Reddit) vs The Crazy Coqs: left apart.",
+    "Hidden Jazz Bar at The Vaults (London x London) vs Hidden Jazz Club, the roving series (The Nudge, DesignMyNight): left apart; only the first recorded.",
+    "Boisdale: every jazz source names the Canary Wharf branch; recorded as Boisdale of Canary Wharf.",
+    "The Blues Kitchen: sources name Camden and Shoreditch branches; recorded as one venue, The Blues Kitchen, as in dinner-and-a-show."
+  ]
+}

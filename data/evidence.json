@@ -3783,10 +3783,11 @@
       "activities-shoreditch",
       "bars",
       "dinner-and-a-show",
+      "jazz-bars",
       "speakeasy"
     ],
-    "sourceCount": 16,
-    "tierSpread": "B8 C6 D1 E1",
+    "sourceCount": 19,
+    "tierSpread": "B10 C7 D1 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
@@ -3808,6 +3809,12 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "jazz-bars": {
+        "sourceCount": 7,
+        "tierSpread": "B3 C3 D1",
+        "tierCount": 3,
+        "hasAward": false
+      },
       "speakeasy": {
         "sourceCount": 13,
         "tierSpread": "B8 C4 E1",
@@ -3818,15 +3825,25 @@
     "sources": [
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
-        "quote": "#3 of 11. 'Clear message: book a table.'"
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
       },
       {
         "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london",
-        "quote": "'Nightjar Shoreditch'"
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london",
+        "quote": "'The Nightjar' - £6-£10 cover; cocktails £14-£22"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#3 of 11. 'Clear message: book a table.'"
       },
       {
         "tier": "B",
@@ -3876,7 +3893,12 @@
       {
         "tier": "C",
         "source": "London x London",
-        "url": "https://www.londonxlondon.com/secret-bars-in-london/"
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
       },
       {
         "tier": "C",
@@ -9517,6 +9539,7 @@
       "activities",
       "breakfast-brunch",
       "dinner-and-a-show",
+      "jazz-bars",
       "seafood"
     ],
     "sourceCount": 9,
@@ -9540,6 +9563,12 @@
         "sourceCount": 6,
         "tierSpread": "B4 C1 E1",
         "tierCount": 3,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
         "hasAward": false
       },
       "seafood": {
@@ -19866,11 +19895,12 @@
       "burgers",
       "craft-beer-pubs",
       "dinner-and-a-show",
+      "jazz-bars",
       "karaoke",
       "sports-bars"
     ],
-    "sourceCount": 13,
-    "tierSpread": "B5 C4 D3 E1",
+    "sourceCount": 14,
+    "tierSpread": "B5 C5 D3 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
@@ -19896,6 +19926,12 @@
         "sourceCount": 9,
         "tierSpread": "B4 C2 D2 E1",
         "tierCount": 4,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 5,
+        "tierSpread": "B1 C3 D1",
+        "tierCount": 3,
         "hasAward": false
       },
       "karaoke": {
@@ -19960,6 +19996,12 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/restaurants-with-live-music-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/",
+        "quote": "Blues Kitchen Shoreditch; 'not really a jazz bar'"
       },
       {
         "tier": "D",
@@ -22271,7 +22313,8 @@
   "velvet": {
     "name": "Velvet",
     "topics": [
-      "bars"
+      "bars",
+      "jazz-bars"
     ],
     "sourceCount": 1,
     "tierSpread": "C1",
@@ -22279,6 +22322,12 @@
     "hasAward": false,
     "byTopic": {
       "bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -22872,7 +22921,8 @@
   "scarfesbar": {
     "name": "Scarfes Bar",
     "topics": [
-      "bars"
+      "bars",
+      "jazz-bars"
     ],
     "sourceCount": 4,
     "tierSpread": "A1 C3",
@@ -22884,6 +22934,12 @@
         "tierSpread": "A1 C3",
         "tierCount": 2,
         "hasAward": true
+      },
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
       }
     },
     "sources": [
@@ -25827,10 +25883,11 @@
     "topics": [
       "bars",
       "dinner-and-a-show",
+      "jazz-bars",
       "speakeasy"
     ],
-    "sourceCount": 11,
-    "tierSpread": "B4 C5 D1 E1",
+    "sourceCount": 13,
+    "tierSpread": "B5 C6 D1 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
@@ -25846,6 +25903,12 @@
         "tierCount": 4,
         "hasAward": false
       },
+      "jazz-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C1 E1",
+        "tierCount": 3,
+        "hasAward": false
+      },
       "speakeasy": {
         "sourceCount": 6,
         "tierSpread": "B3 C2 E1",
@@ -25858,6 +25921,12 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/restaurants/restaurants-with-live-music-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london",
+        "quote": "Covent Garden; live music Wednesday to Saturday; cover charge added to the bill"
       },
       {
         "tier": "B",
@@ -25888,6 +25957,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/where-to-go-for-drinks-dinner-and-a-show/"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
       },
       {
         "tier": "C",
@@ -26162,7 +26236,8 @@
     "name": "The Bloomsbury Club",
     "topics": [
       "bars",
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
     "sourceCount": 2,
     "tierSpread": "C1 D1",
@@ -26176,6 +26251,12 @@
         "hasAward": false
       },
       "dinner-and-a-show": {
+        "sourceCount": 1,
+        "tierSpread": "D1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
         "sourceCount": 1,
         "tierSpread": "D1",
         "tierCount": 1,
@@ -26680,6 +26761,7 @@
     "name": "Evans & Peel Detective Agency",
     "topics": [
       "bars",
+      "jazz-bars",
       "speakeasy"
     ],
     "sourceCount": 6,
@@ -26693,6 +26775,12 @@
         "tierCount": 1,
         "hasAward": false
       },
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
       "speakeasy": {
         "sourceCount": 5,
         "tierSpread": "B2 C2 E1",
@@ -26703,14 +26791,14 @@
     "sources": [
       {
         "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
-        "quote": "#11 of 11. Basement off Earl's Court Road, intercom at the door"
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
       },
       {
         "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-pubs/londons-best-speakeasies",
+        "quote": "#11 of 11. Basement off Earl's Court Road, intercom at the door"
       },
       {
         "tier": "C",
@@ -85696,19 +85784,26 @@
     ]
   },
   "bullshead": {
-    "name": "The Bulls Head",
+    "name": "The Bull's Head",
     "topics": [
-      "craft-beer-pubs"
+      "craft-beer-pubs",
+      "jazz-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B2 C1",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "craft-beer-pubs": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
         "hasAward": false
       }
     },
@@ -85717,6 +85812,18 @@
         "tier": "B",
         "source": "DesignMyNight",
         "url": "https://www.designmynight.com/london/bars/londons-best-craft-beer-bars"
+      },
+      {
+        "tier": "B",
+        "source": "Citywire",
+        "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423",
+        "quote": "Barnes; pub back-room jazz every night"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "Music room Friday to Sunday; opened 1959"
       }
     ]
   },
@@ -95577,10 +95684,11 @@
     "name": "Quaglino's",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "sports-bars"
     ],
-    "sourceCount": 8,
-    "tierSpread": "B3 C3 D1 E1",
+    "sourceCount": 9,
+    "tierSpread": "B4 C3 D1 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
@@ -95588,6 +95696,12 @@
         "sourceCount": 7,
         "tierSpread": "B3 C2 D1 E1",
         "tierCount": 4,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 E1",
+        "tierCount": 2,
         "hasAward": false
       },
       "sports-bars": {
@@ -95613,6 +95727,11 @@
         "source": "The Handbook",
         "url": "https://www.thehandbook.com/londons-best-restaurants-with-live-music/",
         "quote": "Filed under 'Special to this summer' as 'Quaglino's Summertime Screenings'."
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london"
       },
       {
         "tier": "C",
@@ -96072,7 +96191,8 @@
   "oldstreetrecords": {
     "name": "Old Street Records",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
     "sourceCount": 2,
     "tierSpread": "B1 C1",
@@ -96083,6 +96203,12 @@
         "sourceCount": 2,
         "tierSpread": "B1 C1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -96137,6 +96263,7 @@
       "dinner-and-a-show",
       "french",
       "general",
+      "jazz-bars",
       "late-night"
     ],
     "sourceCount": 9,
@@ -96159,6 +96286,12 @@
       "general": {
         "sourceCount": 1,
         "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
       },
@@ -96581,7 +96714,8 @@
   "58thstreet": {
     "name": "58th Street",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
     "sourceCount": 4,
     "tierSpread": "C1 D2 E1",
@@ -96592,6 +96726,12 @@
         "sourceCount": 4,
         "tierSpread": "C1 D2 E1",
         "tierCount": 3,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
         "hasAward": false
       }
     },
@@ -96855,16 +96995,23 @@
     "name": "Ronnie Scott's",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "live-music"
     ],
-    "sourceCount": 7,
-    "tierSpread": "B2 C2 D2 E1",
+    "sourceCount": 17,
+    "tierSpread": "B7 C5 D4 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 7,
         "tierSpread": "B2 C2 D2 E1",
+        "tierCount": 4,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 16,
+        "tierSpread": "B6 C5 D4 E1",
         "tierCount": 4,
         "hasAward": false
       },
@@ -96888,6 +97035,32 @@
         "quote": "Ranked #1 of 10."
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london"
+      },
+      {
+        "tier": "B",
+        "source": "Citywire",
+        "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london",
+        "quote": "Main shows from £35; Late Late Show Wednesday to Saturday £12"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-london-restaurants-with-live-music/"
@@ -96896,6 +97069,22 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/restaurants-with-live-music-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/",
+        "quote": "Strict silence during sets; Late Late Show jam until 3am"
       },
       {
         "tier": "D",
@@ -96907,6 +97096,17 @@
         "source": "Three Man Abroad (YouTube)",
         "url": "https://www.youtube.com/@ThreeManAbroad",
         "quote": "Video wnamf9ZI0E4 (Nov 2022); chapter order, not a ranking."
+      },
+      {
+        "tier": "D",
+        "source": "Join Takes (TikTok)",
+        "url": "https://www.tiktok.com/@jointakes/video/7356667484646182177"
+      },
+      {
+        "tier": "D",
+        "source": "Madeleine Lebon (TikTok)",
+        "url": "https://www.tiktok.com/@madeleinelebon/video/7456553333969505568",
+        "quote": "'truly the best spot for jazz & a midnight cocktail in London' (caption)"
       },
       {
         "tier": "E",
@@ -97058,16 +97258,23 @@
   "toulouselautrec": {
     "name": "Toulouse Lautrec",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
-    "sourceCount": 6,
-    "tierSpread": "B2 C2 D1 E1",
+    "sourceCount": 10,
+    "tierSpread": "B4 C4 D1 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 6,
         "tierSpread": "B2 C2 D1 E1",
+        "tierCount": 4,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 8,
+        "tierSpread": "B2 C4 D1 E1",
         "tierCount": 4,
         "hasAward": false
       }
@@ -97085,6 +97292,17 @@
         "quote": "As 'Toulouse-Lautrec'."
       },
       {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+        "quote": "Cabaret-style top-floor room above a French restaurant"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-london-restaurants-with-live-music/"
@@ -97093,6 +97311,16 @@
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/restaurants-with-live-music-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/"
       },
       {
         "tier": "D",
@@ -97140,21 +97368,34 @@
   "606club": {
     "name": "606 Club",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B2 D1 E1",
-    "tierCount": 3,
-    "hasAward": false,
+    "sourceCount": 15,
+    "tierSpread": "A1 B7 C5 D1 E1",
+    "tierCount": 5,
+    "hasAward": true,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 4,
         "tierSpread": "B2 D1 E1",
         "tierCount": 3,
         "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 14,
+        "tierSpread": "A1 B6 C5 D1 E1",
+        "tierCount": 5,
+        "hasAward": true
       }
     },
     "sources": [
+      {
+        "tier": "A",
+        "source": "Parliamentary Jazz Awards",
+        "url": "https://appjag.org/2025/08/20/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2025/",
+        "quote": "'606' - nominated, Jazz Venue of the Year 2025 (won by Digbeth Jazz)"
+      },
       {
         "tier": "B",
         "source": "The Sauce",
@@ -97165,6 +97406,60 @@
         "source": "Time Out",
         "url": "https://www.timeout.com/london/music/jazz-in-london",
         "quote": "Ranked #2 of 10."
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+        "quote": "Moved from the King's Road to Lots Road in 1988"
+      },
+      {
+        "tier": "B",
+        "source": "Citywire",
+        "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london",
+        "quote": "About 120 seats; Sunday is singers' night"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london",
+        "quote": "Music charge about £17-£22"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/",
+        "quote": "'606 Jazz Club' - often two bands a night, UK-based musicians"
       },
       {
         "tier": "D",
@@ -97183,17 +97478,24 @@
     "name": "Brilliant Corners",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "live-music",
       "wine-bars"
     ],
-    "sourceCount": 4,
-    "tierSpread": "B3 C1",
+    "sourceCount": 7,
+    "tierSpread": "B4 C3",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 3,
         "tierSpread": "B2 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 5,
+        "tierSpread": "B2 C3",
         "tierCount": 2,
         "hasAward": false
       },
@@ -97223,6 +97525,11 @@
       },
       {
         "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "B",
         "source": "Foodism",
         "url": "https://foodism.co.uk/guides/natural-wine-bars-london/"
       },
@@ -97230,22 +97537,39 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/fun-restaurants-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
       }
     ]
   },
   "pizzaexpressjazzclub": {
     "name": "PizzaExpress Jazz Club",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B2 C2 E1",
+    "sourceCount": 12,
+    "tierSpread": "B6 C5 E1",
     "tierCount": 3,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 5,
         "tierSpread": "B2 C2 E1",
+        "tierCount": 3,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 11,
+        "tierSpread": "B5 C5 E1",
         "tierCount": 3,
         "hasAward": false
       }
@@ -97264,6 +97588,28 @@
         "quote": "Ranked #3 of 10, as 'Pizza Express Jazz Club'."
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london",
+        "quote": "'Pizza Express Jazz Club' - from around £20, seven nights a week"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+        "quote": "'Pizza Express Live Soho'"
+      },
+      {
+        "tier": "B",
+        "source": "Citywire",
+        "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-london-restaurants-with-live-music/",
@@ -97274,6 +97620,23 @@
         "source": "London x London",
         "url": "https://www.londonxlondon.com/restaurants-with-live-music-london/",
         "quote": "As 'Pizza Express Jazz Soho'."
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/",
+        "quote": "'Pizza Express Live Soho' - seven nights a week"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/",
+        "quote": "'Pizza Express Jazz Club' - basement, capacity 115"
       },
       {
         "tier": "E",
@@ -97983,10 +98346,11 @@
     "name": "“mu”",
     "topics": [
       "dinner-and-a-show",
-      "japanese"
+      "japanese",
+      "jazz-bars"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B1 C2 D1 E1",
+    "sourceCount": 6,
+    "tierSpread": "B1 C3 D1 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
@@ -97999,6 +98363,12 @@
       "japanese": {
         "sourceCount": 1,
         "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
         "tierCount": 1,
         "hasAward": false
       }
@@ -98018,6 +98388,11 @@
         "tier": "C",
         "source": "London the Inside",
         "url": "https://londontheinside.com/where-to-go-for-drinks-dinner-and-a-show/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
       },
       {
         "tier": "D",
@@ -98152,6 +98527,7 @@
     "name": "Ladbroke Hall",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "sports-bars"
     ],
     "sourceCount": 3,
@@ -98163,6 +98539,12 @@
         "sourceCount": 2,
         "tierSpread": "C1 E1",
         "tierCount": 2,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
         "hasAward": false
       },
       "sports-bars": {
@@ -98260,16 +98642,23 @@
     "name": "Jazz Cafe Camden",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "live-music"
     ],
-    "sourceCount": 5,
-    "tierSpread": "B1 C2 D1 E1",
+    "sourceCount": 11,
+    "tierSpread": "B4 C5 D1 E1",
     "tierCount": 4,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
         "sourceCount": 5,
         "tierSpread": "B1 C2 D1 E1",
+        "tierCount": 4,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 11,
+        "tierSpread": "B4 C5 D1 E1",
         "tierCount": 4,
         "hasAward": false
       },
@@ -98288,6 +98677,22 @@
         "quote": "Ranked #9 of 10, as 'Jazz Cafe'."
       },
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london",
+        "quote": "'Jazz Cafe London' - capacity 440"
+      },
+      {
+        "tier": "B",
+        "source": "Citywire",
+        "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london"
+      },
+      {
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-london-restaurants-with-live-music/"
@@ -98297,6 +98702,22 @@
         "source": "London x London",
         "url": "https://www.londonxlondon.com/restaurants-with-live-music-london/",
         "quote": "As 'Jazz Cafe'."
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/",
+        "quote": "'Jazz Cafe London' - standing capacity over 400"
       },
       {
         "tier": "D",
@@ -99707,6 +100128,7 @@
     "name": "28°-50° by Night",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "speakeasy"
     ],
     "sourceCount": 4,
@@ -99718,6 +100140,12 @@
         "sourceCount": 3,
         "tierSpread": "C1 D1 E1",
         "tierCount": 3,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "C1 D1",
+        "tierCount": 2,
         "hasAward": false
       },
       "speakeasy": {
@@ -99779,11 +100207,12 @@
   "spiceoflife": {
     "name": "The Spice of Life",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
@@ -99791,13 +100220,31 @@
         "tierSpread": "C1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
       }
     },
     "sources": [
       {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london",
+        "quote": "Jazz Notes jam every Sunday"
+      },
+      {
         "tier": "C",
         "source": "London x London",
         "url": "https://www.londonxlondon.com/restaurants-with-live-music-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/",
+        "quote": "Jazz in the downstairs Backstage Bar"
       }
     ]
   },
@@ -99846,36 +100293,11 @@
   "vortex": {
     "name": "Vortex",
     "topics": [
-      "dinner-and-a-show"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "dinner-and-a-show": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/music/jazz-in-london"
-      }
-    ]
-  },
-  "cafeoto": {
-    "name": "Cafe Oto",
-    "topics": [
       "dinner-and-a-show",
-      "live-music"
+      "jazz-bars"
     ],
-    "sourceCount": 2,
-    "tierSpread": "B1 C1",
+    "sourceCount": 10,
+    "tierSpread": "B5 C5",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -99884,6 +100306,94 @@
         "tierSpread": "B1",
         "tierCount": 1,
         "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 10,
+        "tierSpread": "B5 C5",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/music/jazz-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+        "quote": "Known for silent audiences; volunteer-run; in Dalston since 2005"
+      },
+      {
+        "tier": "B",
+        "source": "Citywire",
+        "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423",
+        "quote": "Tuesday to Sunday; volunteer-run"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london",
+        "quote": "'Vortex Jazz Club' - most shows £15-£22"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "'Vortex Jazz Club' - 100 seats, around 400 concerts a year"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/"
+      }
+    ]
+  },
+  "cafeoto": {
+    "name": "Cafe Oto",
+    "topics": [
+      "dinner-and-a-show",
+      "jazz-bars",
+      "live-music"
+    ],
+    "sourceCount": 8,
+    "tierSpread": "A1 B4 C3",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "dinner-and-a-show": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 7,
+        "tierSpread": "A1 B4 C2",
+        "tierCount": 3,
+        "hasAward": true
       },
       "live-music": {
         "sourceCount": 1,
@@ -99894,9 +100404,41 @@
     },
     "sources": [
       {
+        "tier": "A",
+        "source": "Parliamentary Jazz Awards",
+        "url": "https://appjag.org/2025/02/04/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2024/",
+        "quote": "Nominated, Jazz Venue of the Year 2024 (won by The Verdict, Brighton)"
+      },
+      {
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/music/jazz-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london"
+      },
+      {
+        "tier": "B",
+        "source": "Citywire",
+        "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/",
+        "quote": "Capacity 150"
       },
       {
         "tier": "C",
@@ -99908,7 +100450,8 @@
   "royalalbert": {
     "name": "Royal Albert",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
     "sourceCount": 1,
     "tierSpread": "B1",
@@ -99916,6 +100459,12 @@
     "hasAward": false,
     "byTopic": {
       "dinner-and-a-show": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
@@ -99934,11 +100483,12 @@
     "name": "The Palm Tree",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "most-beautiful-pubs",
       "pub-gardens"
     ],
-    "sourceCount": 4,
-    "tierSpread": "A1 B1 C2",
+    "sourceCount": 6,
+    "tierSpread": "A1 B1 C4",
     "tierCount": 3,
     "hasAward": true,
     "byTopic": {
@@ -99946,6 +100496,12 @@
         "sourceCount": 1,
         "tierSpread": "B1",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 3,
+        "tierSpread": "B1 C2",
+        "tierCount": 2,
         "hasAward": false
       },
       "most-beautiful-pubs": {
@@ -99972,6 +100528,16 @@
         "tier": "B",
         "source": "Time Out",
         "url": "https://www.timeout.com/london/music/jazz-in-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/"
       },
       {
         "tier": "C",
@@ -100752,7 +101318,52 @@
   "ninetyonelivingroom": {
     "name": "Ninety One Living Room",
     "topics": [
-      "dinner-and-a-show"
+      "dinner-and-a-show",
+      "jazz-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "A1 B1 E1",
+    "tierCount": 3,
+    "hasAward": true,
+    "byTopic": {
+      "dinner-and-a-show": {
+        "sourceCount": 1,
+        "tierSpread": "E1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 3,
+        "tierSpread": "A1 B1 E1",
+        "tierCount": 3,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Parliamentary Jazz Awards",
+        "url": "https://appjag.org/2025/02/04/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2024/",
+        "quote": "'91 Living Room' - nominated, Jazz Venue of the Year 2024"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+        "quote": "'Ninety-One Living Room', 91 Brick Lane; Jazz re:freshed nights"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/Jazz/comments/1pot0rg/dinning_with_live_jazz_in_london/"
+      }
+    ]
+  },
+  "joeallen": {
+    "name": "Joe Allen",
+    "topics": [
+      "dinner-and-a-show",
+      "jazz-bars"
     ],
     "sourceCount": 1,
     "tierSpread": "E1",
@@ -100764,27 +101375,8 @@
         "tierSpread": "E1",
         "tierCount": 1,
         "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "E",
-        "source": "Reddit",
-        "url": "https://www.reddit.com/r/Jazz/comments/1pot0rg/dinning_with_live_jazz_in_london/"
-      }
-    ]
-  },
-  "joeallen": {
-    "name": "Joe Allen",
-    "topics": [
-      "dinner-and-a-show"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "E1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "dinner-and-a-show": {
+      },
+      "jazz-bars": {
         "sourceCount": 1,
         "tierSpread": "E1",
         "tierCount": 1,
@@ -101024,10 +101616,11 @@
     "name": "Dalston Jazz Bar",
     "topics": [
       "dinner-and-a-show",
+      "jazz-bars",
       "live-music"
     ],
-    "sourceCount": 3,
-    "tierSpread": "C1 D2",
+    "sourceCount": 6,
+    "tierSpread": "C4 D2",
     "tierCount": 2,
     "hasAward": false,
     "byTopic": {
@@ -101035,6 +101628,12 @@
         "sourceCount": 2,
         "tierSpread": "D2",
         "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
+        "sourceCount": 6,
+        "tierSpread": "C4 D2",
+        "tierCount": 2,
         "hasAward": false
       },
       "live-music": {
@@ -101048,7 +101647,24 @@
       {
         "tier": "C",
         "source": "The Nudge",
-        "url": "https://thenudge.com/the-best-live-music-venues-in-london/"
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "Thursday to Saturday; free entry; food by suggested donation"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/",
+        "quote": "4 Bradbury St; pay what you think, £20 minimum donation encouraged"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/"
       },
       {
         "tier": "D",
@@ -112559,14 +113175,21 @@
   "barbican": {
     "name": "The Barbican",
     "topics": [
-      "galleries"
+      "galleries",
+      "jazz-bars"
     ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
+    "sourceCount": 2,
+    "tierSpread": "C2",
     "tierCount": 1,
     "hasAward": false,
     "byTopic": {
       "galleries": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "jazz-bars": {
         "sourceCount": 1,
         "tierSpread": "C1",
         "tierCount": 1,
@@ -112578,6 +113201,11 @@
         "tier": "C",
         "source": "London Walks",
         "url": "https://www.walks.com/blog/best-london-art-galleries/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
       }
     ]
   },
@@ -199846,6 +200474,1065 @@
       }
     ]
   },
+  "worldheartbeat": {
+    "name": "World Heart Beat",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "A1 B1",
+    "tierCount": 2,
+    "hasAward": true,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "A1 B1",
+        "tierCount": 2,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Parliamentary Jazz Awards",
+        "url": "https://appjag.org/2026/08/31/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2026/",
+        "quote": "Shortlisted, Jazz Venue of the Year 2026 (won by SoundCellar, Poole)"
+      },
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+        "quote": "Nine Elms; music education charity; opened 2023; Julian Joseph resident"
+      }
+    ]
+  },
+  "churchofsound": {
+    "name": "Church of Sound",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "A1",
+    "tierCount": 1,
+    "hasAward": true,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "A1",
+        "tierCount": 1,
+        "hasAward": true
+      }
+    },
+    "sources": [
+      {
+        "tier": "A",
+        "source": "Parliamentary Jazz Awards",
+        "url": "https://appjag.org/2026/08/31/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2026/",
+        "quote": "Shortlisted, Jazz Venue of the Year 2026"
+      }
+    ]
+  },
+  "boisdaleofcanarywharf": {
+    "name": "Boisdale of Canary Wharf",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B3 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/music/jazz-in-london"
+      },
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      }
+    ]
+  },
+  "leopardbar": {
+    "name": "The Leopard Bar",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london",
+        "quote": "Leopard Bar at The Montague on the Gardens; jazz band Wednesdays and Thursdays"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london",
+        "quote": "'The Leopard Bar at The Montague' - jazz typically Thursday to Saturday"
+      }
+    ]
+  },
+  "sibin": {
+    "name": "Sibin",
+    "topics": [
+      "jazz-bars",
+      "speakeasy"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london",
+        "quote": "Sibin Speakeasy, Great Scotland Yard Hotel; jazz Thursdays and Fridays"
+      },
+      {
+        "tier": "B",
+        "source": "The Handbook",
+        "url": "https://www.thehandbook.com/best-secret-bars-london/"
+      },
+      {
+        "tier": "B",
+        "source": "The Sauce",
+        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
+      }
+    ]
+  },
+  "fideliocafe": {
+    "name": "Fidelio Cafe",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      }
+    ]
+  },
+  "railsrestaurant": {
+    "name": "Rails Restaurant",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london",
+        "quote": "RAILS Restaurant & Little Bar, Kaya Great Northern Hotel; smooth jazz Fridays 6-8pm"
+      }
+    ]
+  },
+  "jacksolomonsclub": {
+    "name": "Jack Solomons Club",
+    "topics": [
+      "jazz-bars",
+      "speakeasy"
+    ],
+    "sourceCount": 5,
+    "tierSpread": "B3 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C2",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 2,
+        "tierSpread": "B2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london",
+        "quote": "'Jack Solomon's Jazz Club' - jazz Wednesday, Thursday and Saturday"
+      },
+      {
+        "tier": "B",
+        "source": "SquareMeal",
+        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      }
+    ]
+  },
+  "trishas": {
+    "name": "Trisha's",
+    "topics": [
+      "jazz-bars",
+      "speakeasy"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B3 E1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 3,
+        "tierSpread": "B2 E1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "B",
+        "source": "Time Out",
+        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london",
+        "quote": "#2 of 15 ('Trisha's/New Evaristo Club')"
+      },
+      {
+        "tier": "B",
+        "source": "Hello!",
+        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
+      },
+      {
+        "tier": "E",
+        "source": "Reddit",
+        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
+      }
+    ]
+  },
+  "100club": {
+    "name": "The 100 Club",
+    "topics": [
+      "jazz-bars",
+      "live-music"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "B1 C2",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "live-music": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      },
+      {
+        "tier": "C",
+        "source": "The Forty-Five",
+        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
+      },
+      {
+        "tier": "C",
+        "source": "ICMP",
+        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
+      }
+    ]
+  },
+  "rollingstock": {
+    "name": "Rolling Stock",
+    "topics": [
+      "jazz-bars",
+      "pub-gardens"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "pub-gardens": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      }
+    ]
+  },
+  "downstairsat180": {
+    "name": "Downstairs at 180",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      }
+    ]
+  },
+  "montpelier": {
+    "name": "The Montpelier",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london",
+        "quote": "Peckham; Sunday roast with live jazz from 3pm"
+      }
+    ]
+  },
+  "eastcheaprecords": {
+    "name": "Eastcheap Records",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "DesignMyNight",
+        "url": "https://www.designmynight.com/london/jazz-bars-london"
+      }
+    ]
+  },
+  "upstairsatronnies": {
+    "name": "Upstairs at Ronnie's",
+    "topics": [
+      "jazz-bars",
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "live-music": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "Reopened February 2026 as a 140-capacity room"
+      }
+    ]
+  },
+  "bluenotelondon": {
+    "name": "Blue Note London",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/",
+        "quote": "First UK branch of the New York club"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      }
+    ]
+  },
+  "crazycoqs": {
+    "name": "The Crazy Coqs",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "ShortList",
+        "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+        "quote": "'Crazy Coqs (Brasserie Zédel)' - Art Deco basement"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
+      }
+    ]
+  },
+  "hampsteadjazzclub": {
+    "name": "Hampstead Jazz Club",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 3,
+    "tierSpread": "C3",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 3,
+        "tierSpread": "C3",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/",
+        "quote": "In the cellar of The Duke of Hamilton, a 300-year-old pub"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/",
+        "quote": "23-25 New End; pub cellar; opened 2018"
+      }
+    ]
+  },
+  "jazzliveatthecrypt": {
+    "name": "Jazzlive at The Crypt",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/",
+        "quote": "Crypt of St Giles' Church, Camberwell, Friday and Saturday"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "Fridays since 1995; tables cannot be reserved"
+      }
+    ]
+  },
+  "servantjazzquarters": {
+    "name": "Servant Jazz Quarters",
+    "topics": [
+      "jazz-bars",
+      "live-music"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      },
+      "live-music": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/"
+      }
+    ]
+  },
+  "oliversjazzbar": {
+    "name": "Oliver's Jazz Bar",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B1 C3",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B1 C3",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london",
+        "quote": "Behind Greenwich Theatre; three jam sessions a week; £10 cover"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/",
+        "quote": "Greenwich; red interiors, candlelit tables, a fire in winter"
+      },
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/"
+      },
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/",
+        "quote": "9 Nevada St; open since 2003; gigs often turn into jam sessions"
+      }
+    ]
+  },
+  "gambit": {
+    "name": "Gambit",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/"
+      }
+    ]
+  },
+  "alfies": {
+    "name": "Alfie's",
+    "topics": [
+      "jazz-bars",
+      "speakeasy"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      },
+      "speakeasy": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london",
+        "quote": "Wednesday to Saturday, 6pm to 1am; no walk-ins"
+      },
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/",
+        "quote": "A new jazz bar hidden in Soho"
+      }
+    ]
+  },
+  "cablecafe": {
+    "name": "Cable Cafe",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "C2",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "C2",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "The Nudge",
+        "url": "https://thenudge.com/london-bars/jazz-bars-in-london/",
+        "quote": "Oval; weekly live jazz"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/",
+        "quote": "8 Brixton Road; jazz Wednesdays and Saturdays"
+      }
+    ]
+  },
+  "jazzafterdark": {
+    "name": "Jazz After Dark",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "Greek Street; five tapas plates for under £25"
+      }
+    ]
+  },
+  "hiddenjazzbar": {
+    "name": "Hidden Jazz Bar",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "Inside The Vaults, Waterloo; artist-run; from £20"
+      }
+    ]
+  },
+  "riccolounge": {
+    "name": "Ricco Lounge",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/"
+      }
+    ]
+  },
+  "pianobarsoho": {
+    "name": "The Piano Bar Soho",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 4,
+    "tierSpread": "B2 C1 D1",
+    "tierCount": 3,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 4,
+        "tierSpread": "B2 C1 D1",
+        "tierCount": 3,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london",
+        "quote": "'The Piano Bar' - members or ticket holders only, no walk-ins"
+      },
+      {
+        "tier": "B",
+        "source": "The Sybarite",
+        "url": "https://thesybarite.co/best-jazz-clubs-london",
+        "quote": "Unmarked door off Dean Street; under 80 guests; tickets from about £10"
+      },
+      {
+        "tier": "C",
+        "source": "London x London",
+        "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+        "quote": "'The Piano Bar' - jazz from 6.30pm; membership £35"
+      },
+      {
+        "tier": "D",
+        "source": "Join Takes (TikTok)",
+        "url": "https://www.tiktok.com/@jointakes/video/7356667484646182177",
+        "quote": "'The Piano Bar - Soho' (caption)"
+      }
+    ]
+  },
+  "flamingoclub": {
+    "name": "The Flamingo Club",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 2,
+    "tierSpread": "B1 C1",
+    "tierCount": 2,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 2,
+        "tierSpread": "B1 C1",
+        "tierCount": 2,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london",
+        "quote": "Under Kingly Court; Tuesday to Sunday 5pm-2am; B Sides jam last Tuesday of the month"
+      },
+      {
+        "tier": "C",
+        "source": "London the Inside",
+        "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/",
+        "quote": "49-51 Kingly St; monthly jazz jam"
+      }
+    ]
+  },
+  "parlouratthened": {
+    "name": "The Parlour at The Ned",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "B1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "B1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "B",
+        "source": "Sphere Magazine",
+        "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london"
+      }
+    ]
+  },
+  "redrooster": {
+    "name": "Red Rooster",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Clink Hostels",
+        "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/",
+        "quote": "Sunday gospel brunch"
+      }
+    ]
+  },
+  "kingsplace": {
+    "name": "Kings Place",
+    "topics": [
+      "jazz-bars"
+    ],
+    "sourceCount": 1,
+    "tierSpread": "C1",
+    "tierCount": 1,
+    "hasAward": false,
+    "byTopic": {
+      "jazz-bars": {
+        "sourceCount": 1,
+        "tierSpread": "C1",
+        "tierCount": 1,
+        "hasAward": false
+      }
+    },
+    "sources": [
+      {
+        "tier": "C",
+        "source": "Jazzfuel",
+        "url": "https://jazzfuel.com/london-jazz-clubs/"
+      }
+    ]
+  },
   "starbyhackneydowns": {
     "name": "The Star by Hackney Downs",
     "topics": [
@@ -204343,31 +206030,6 @@
       }
     ]
   },
-  "servantjazzquarters": {
-    "name": "Servant Jazz Quarters",
-    "topics": [
-      "live-music"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "live-music": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/the-best-live-music-venues-in-london/"
-      }
-    ]
-  },
   "mothclub": {
     "name": "The Moth Club",
     "topics": [
@@ -204723,31 +206385,6 @@
       }
     ]
   },
-  "upstairsatronnies": {
-    "name": "Upstairs At Ronnie’s",
-    "topics": [
-      "live-music"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "live-music": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/the-best-live-music-venues-in-london/"
-      }
-    ]
-  },
   "nighttales": {
     "name": "Night Tales",
     "topics": [
@@ -204980,36 +206617,6 @@
         "tier": "C",
         "source": "The Forty-Five",
         "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
-      }
-    ]
-  },
-  "100club": {
-    "name": "The 100 Club",
-    "topics": [
-      "live-music"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "C2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "live-music": {
-        "sourceCount": 2,
-        "tierSpread": "C2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Forty-Five",
-        "url": "https://thefortyfive.com/opinion/londons-best-grassroots-music-venues/"
-      },
-      {
-        "tier": "C",
-        "source": "ICMP",
-        "url": "https://www.icmp.ac.uk/blog/londons-top-10-live-music-venues"
       }
     ]
   },
@@ -233016,31 +234623,6 @@
       }
     ]
   },
-  "rollingstock": {
-    "name": "Rolling Stock",
-    "topics": [
-      "pub-gardens"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "B1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "pub-gardens": {
-        "sourceCount": 1,
-        "tierSpread": "B1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/beer-gardens-london"
-      }
-    ]
-  },
   "strongroombarandkitchen": {
     "name": "Strongroom Bar and Kitchen",
     "topics": [
@@ -244797,42 +246379,6 @@
       }
     ]
   },
-  "trishas": {
-    "name": "Trisha's",
-    "topics": [
-      "speakeasy"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B2 E1",
-    "tierCount": 2,
-    "hasAward": false,
-    "byTopic": {
-      "speakeasy": {
-        "sourceCount": 3,
-        "tierSpread": "B2 E1",
-        "tierCount": 2,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "Time Out",
-        "url": "https://www.timeout.com/london/bars-and-pubs/the-best-secret-bars-in-london",
-        "quote": "#2 of 15 ('Trisha's/New Evaristo Club')"
-      },
-      {
-        "tier": "B",
-        "source": "Hello!",
-        "url": "https://www.hellomagazine.com/travel/20220512140051/best-secret-bars-london/"
-      },
-      {
-        "tier": "E",
-        "source": "Reddit",
-        "url": "https://www.reddit.com/r/london/comments/1iu2ef1/speakeasylowkey_hidden_bars/"
-      }
-    ]
-  },
   "vaultatmilroys": {
     "name": "The Vault at Milroy's",
     "topics": [
@@ -245129,36 +246675,6 @@
       }
     ]
   },
-  "jacksolomonsclub": {
-    "name": "Jack Solomons Club",
-    "topics": [
-      "speakeasy"
-    ],
-    "sourceCount": 2,
-    "tierSpread": "B2",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "speakeasy": {
-        "sourceCount": 2,
-        "tierSpread": "B2",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london"
-      },
-      {
-        "tier": "B",
-        "source": "SquareMeal",
-        "url": "https://www.squaremeal.co.uk/restaurants/best-for/best-secret-bar-speakeasy-london_9356"
-      }
-    ]
-  },
   "ottiessalon": {
     "name": "Ottie's Salon",
     "topics": [
@@ -245307,42 +246823,6 @@
         "tier": "C",
         "source": "The Nudge",
         "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
-      }
-    ]
-  },
-  "sibin": {
-    "name": "Sibin",
-    "topics": [
-      "speakeasy"
-    ],
-    "sourceCount": 3,
-    "tierSpread": "B3",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "speakeasy": {
-        "sourceCount": 3,
-        "tierSpread": "B3",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "B",
-        "source": "DesignMyNight",
-        "url": "https://www.designmynight.com/london/bars/speakeasy-bars-london",
-        "quote": "'Sibin Speakeasy'"
-      },
-      {
-        "tier": "B",
-        "source": "The Handbook",
-        "url": "https://www.thehandbook.com/best-secret-bars-london/"
-      },
-      {
-        "tier": "B",
-        "source": "The Sauce",
-        "url": "https://thesaucemag.com/secret-speakeasy-bars-in-london/"
       }
     ]
   },
@@ -246771,31 +248251,6 @@
   },
   "blackrock": {
     "name": "Black Rock",
-    "topics": [
-      "speakeasy"
-    ],
-    "sourceCount": 1,
-    "tierSpread": "C1",
-    "tierCount": 1,
-    "hasAward": false,
-    "byTopic": {
-      "speakeasy": {
-        "sourceCount": 1,
-        "tierSpread": "C1",
-        "tierCount": 1,
-        "hasAward": false
-      }
-    },
-    "sources": [
-      {
-        "tier": "C",
-        "source": "The Nudge",
-        "url": "https://thenudge.com/the-best-hidden-bars-in-london/"
-      }
-    ]
-  },
-  "alfies": {
-    "name": "Alfie's",
     "topics": [
       "speakeasy"
     ],

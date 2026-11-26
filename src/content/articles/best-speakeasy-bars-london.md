@@ -352,6 +352,7 @@ These are named by the same lists, often near the top, but each has its name ove
 - 🥃 **[Gin Distillery Tours in London](/articles/gin-distillery-tours-london/)** — tastings and make-your-own-gin classes
 - 🗝️ **[Hidden London: Secret Places Worth Finding](/articles/hidden-london-secret-places/)**
 - 🍷 **[The Best Wine Bars in London](/articles/best-wine-bars-london/)**
+- 🎷 **[The Best Jazz Bars in London](/articles/best-jazz-bars-london/)** — Nightjar and the other bars with a band every night
 - 🌙 **[Late-Night Eating in London](/articles/late-night-eating-london/)**
 - 👰 **[Hen Do in London](/articles/hen-do-london/)**
 - 🎉 **[Stag Do in London](/articles/stag-do-london/)**

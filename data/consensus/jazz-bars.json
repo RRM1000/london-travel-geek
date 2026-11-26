@@ -1,0 +1,589 @@
+{
+ "cuisine": "jazz-bars",
+ "recorded": "2026-11-21",
+ "note": "Built 21 November 2026 for best-jazz-bars-london. Scope: anywhere a visitor goes to hear live jazz with a drink - clubs, bars, pubs and restaurants with a regular programme. Only sources dated 2023 or later. Canonical names follow the dinner-and-a-show corpus where the venue is already there; what each source wrote goes in the quote. Roving pop-ups (Hidden Jazz Club) and a dinner cruise were not recorded as venues. Boisdale is recorded as Boisdale of Canary Wharf because every jazz source names that branch. Brasserie Zédel (Reddit) and The Crazy Coqs are left apart: the room is in the brasserie's basement, but the threads may mean the restaurant. Reddit and TikTok records are copied from the dinner-and-a-show corpus, where the threads ask for dinner with live jazz.",
+ "sources": [
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Parliamentary Jazz Awards - Jazz Venue of the Year 2024 nominations",
+   "url": "https://appjag.org/2025/02/04/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2024/",
+   "tier": "A",
+   "dated": "2024-10-29",
+   "names": [
+    "Cafe Oto",
+    "Ninety One Living Room"
+   ],
+   "quotes": {
+    "Cafe Oto": "Nominated, Jazz Venue of the Year 2024 (won by The Verdict, Brighton)",
+    "Ninety One Living Room": "'91 Living Room' - nominated, Jazz Venue of the Year 2024"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Parliamentary Jazz Awards - Jazz Venue of the Year 2025 nominations",
+   "url": "https://appjag.org/2025/08/20/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2025/",
+   "tier": "A",
+   "dated": "2025-10-14",
+   "names": [
+    "606 Club"
+   ],
+   "quotes": {
+    "606 Club": "'606' - nominated, Jazz Venue of the Year 2025 (won by Digbeth Jazz)"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Parliamentary Jazz Awards - Jazz Venue of the Year 2026 shortlist",
+   "url": "https://appjag.org/2026/08/31/nominations-announced-for-the-all-party-parliamentary-jazz-awards-2026/",
+   "tier": "A",
+   "dated": "2026-10-13",
+   "names": [
+    "World Heart Beat",
+    "Church of Sound"
+   ],
+   "quotes": {
+    "World Heart Beat": "Shortlisted, Jazz Venue of the Year 2026 (won by SoundCellar, Poole)",
+    "Church of Sound": "Shortlisted, Jazz Venue of the Year 2026"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Time Out - The best jazz bars and clubs in London",
+   "url": "https://www.timeout.com/london/music/jazz-in-london",
+   "tier": "B",
+   "dated": "2024-12-02",
+   "names": [
+    "Ronnie Scott's",
+    "606 Club",
+    "PizzaExpress Jazz Club",
+    "Brilliant Corners",
+    "Vortex",
+    "Cafe Oto",
+    "Royal Albert",
+    "The Palm Tree",
+    "Jazz Cafe Camden",
+    "Boisdale of Canary Wharf"
+   ],
+   "quotes": {
+    "606 Club": "Since 1976; British musicians only, by policy",
+    "PizzaExpress Jazz Club": "'Pizza Express Jazz Club' - opened 1969",
+    "Royal Albert": "New Cross Road pub; free jazz on Sunday nights",
+    "The Palm Tree": "Mile End pub; Great American Songbook at weekends",
+    "Vortex": "Improv scene; Mopomoso monthly",
+    "Jazz Cafe Camden": "Standing downstairs or bookable upstairs tables"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "DesignMyNight - Best Jazz Clubs In London",
+   "url": "https://www.designmynight.com/london/jazz-bars-london",
+   "tier": "B",
+   "dated": "2026-09-30",
+   "names": [
+    "Ronnie Scott's",
+    "Nightjar",
+    "Evans & Peel Detective Agency",
+    "The Leopard Bar",
+    "Sibin",
+    "Brilliant Corners",
+    "Fidelio Cafe",
+    "Rails Restaurant",
+    "Boisdale of Canary Wharf",
+    "Jack Solomons Club",
+    "PizzaExpress Jazz Club",
+    "Trisha's",
+    "The 100 Club",
+    "Jazz Cafe Camden",
+    "Cafe Oto",
+    "The Blues Kitchen",
+    "Rolling Stock",
+    "606 Club",
+    "Downstairs at 180",
+    "Old Street Records",
+    "The Spice of Life",
+    "The Montpelier",
+    "Eastcheap Records"
+   ],
+   "quotes": {
+    "The Leopard Bar": "Leopard Bar at The Montague on the Gardens; jazz band Wednesdays and Thursdays",
+    "Sibin": "Sibin Speakeasy, Great Scotland Yard Hotel; jazz Thursdays and Fridays",
+    "Rails Restaurant": "RAILS Restaurant & Little Bar, Kaya Great Northern Hotel; smooth jazz Fridays 6-8pm",
+    "The Spice of Life": "Jazz Notes jam every Sunday",
+    "The Montpelier": "Peckham; Sunday roast with live jazz from 3pm",
+    "PizzaExpress Jazz Club": "'Pizza Express Jazz Club' - from around £20, seven nights a week",
+    "The Blues Kitchen": "Blues Kitchen Camden",
+    "Jazz Cafe Camden": "'Jazz Cafe London' - capacity 440"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "The Nudge - The Best Jazz Bars in London",
+   "url": "https://thenudge.com/london-bars/jazz-bars-in-london/",
+   "tier": "C",
+   "dated": "2026-09-30",
+   "names": [
+    "Ronnie Scott's",
+    "Upstairs at Ronnie's",
+    "Jazz Cafe Camden",
+    "PizzaExpress Jazz Club",
+    "Blue Note London",
+    "Brilliant Corners",
+    "Mu",
+    "Nightjar",
+    "The Crazy Coqs",
+    "Hampstead Jazz Club",
+    "Jazzlive at The Crypt",
+    "Vortex",
+    "606 Club",
+    "Servant Jazz Quarters",
+    "Toulouse Lautrec",
+    "Oliver's Jazz Bar",
+    "Oriole",
+    "The Blues Kitchen",
+    "Gambit",
+    "Alfie's",
+    "Jack Solomons Club",
+    "Dalston Jazz Bar",
+    "Scarfes Bar",
+    "Velvet",
+    "Cable Cafe"
+   ],
+   "quotes": {
+    "Hampstead Jazz Club": "In the cellar of The Duke of Hamilton, a 300-year-old pub",
+    "Jazzlive at The Crypt": "Crypt of St Giles' Church, Camberwell, Friday and Saturday",
+    "Oliver's Jazz Bar": "Greenwich; red interiors, candlelit tables, a fire in winter",
+    "Toulouse Lautrec": "Jazz bands seven nights a week",
+    "Alfie's": "A new jazz bar hidden in Soho",
+    "The Blues Kitchen": "Blues Kitchen Camden",
+    "Velvet": "Embankment; live jazz",
+    "Cable Cafe": "Oval; weekly live jazz",
+    "PizzaExpress Jazz Club": "'Pizza Express Jazz Club', Dean Street",
+    "Blue Note London": "First UK branch of the New York club"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "London x London - The best jazz clubs in London",
+   "url": "https://www.londonxlondon.com/jazz-clubs-london/",
+   "tier": "C",
+   "dated": "2026-09-21",
+   "names": [
+    "Blue Note London",
+    "Ronnie Scott's",
+    "Upstairs at Ronnie's",
+    "The Crazy Coqs",
+    "Jazz After Dark",
+    "PizzaExpress Jazz Club",
+    "Jazz Cafe Camden",
+    "Barbican",
+    "Nightjar",
+    "Jack Solomons Club",
+    "Hidden Jazz Bar",
+    "Toulouse Lautrec",
+    "28°-50° by Night",
+    "The Blues Kitchen",
+    "Ricco Lounge",
+    "606 Club",
+    "Dalston Jazz Bar",
+    "Boisdale of Canary Wharf",
+    "Vortex",
+    "Brilliant Corners",
+    "Mu",
+    "The Palm Tree",
+    "The Piano Bar Soho",
+    "The Bull's Head",
+    "Jazzlive at The Crypt",
+    "Hampstead Jazz Club"
+   ],
+   "quotes": {
+    "Ronnie Scott's": "Main room reservation only; tickets from £37.50",
+    "Upstairs at Ronnie's": "Reopened February 2026 as a 140-capacity room",
+    "Jazz After Dark": "Greek Street; five tapas plates for under £25",
+    "PizzaExpress Jazz Club": "'Pizza Express Jazz Club (PizzaExpress Live Soho)' - since 1969",
+    "Hidden Jazz Bar": "Inside The Vaults, Waterloo; artist-run; from £20",
+    "Toulouse Lautrec": "Tickets from £16",
+    "28°-50° by Night": "Tuesday to Saturday, 8pm to 2am",
+    "Dalston Jazz Bar": "Thursday to Saturday; free entry; food by suggested donation",
+    "Vortex": "'Vortex Jazz Club' - 100 seats, around 400 concerts a year",
+    "Jazzlive at The Crypt": "Fridays since 1995; tables cannot be reserved",
+    "The Bull's Head": "Music room Friday to Sunday; opened 1959",
+    "The Piano Bar Soho": "'The Piano Bar' - jazz from 6.30pm; membership £35"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "ShortList - The 9 best jazz clubs in London",
+   "url": "https://www.shortlist.com/entertainment/best-jazz-clubs-london",
+   "tier": "B",
+   "dated": "2025-12-10",
+   "names": [
+    "606 Club",
+    "Vortex",
+    "World Heart Beat",
+    "Ninety One Living Room",
+    "PizzaExpress Jazz Club",
+    "Toulouse Lautrec",
+    "The Crazy Coqs",
+    "Cafe Oto",
+    "Ronnie Scott's"
+   ],
+   "quotes": {
+    "606 Club": "Moved from the King's Road to Lots Road in 1988",
+    "Vortex": "Known for silent audiences; volunteer-run; in Dalston since 2005",
+    "World Heart Beat": "Nine Elms; music education charity; opened 2023; Julian Joseph resident",
+    "Ninety One Living Room": "'Ninety-One Living Room', 91 Brick Lane; Jazz re:freshed nights",
+    "PizzaExpress Jazz Club": "'Pizza Express Live Soho'",
+    "Toulouse Lautrec": "Cabaret-style top-floor room above a French restaurant",
+    "The Crazy Coqs": "'Crazy Coqs (Brasserie Zédel)' - Art Deco basement"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "London On The Inside - London's Best Jazz Clubs",
+   "url": "https://londontheinside.com/talkin-all-that-jazz-londons-best-jazz-clubs/",
+   "tier": "C",
+   "dated": "2026-05-18",
+   "names": [
+    "Ronnie Scott's",
+    "Cafe Oto",
+    "Jazz Cafe Camden",
+    "606 Club",
+    "PizzaExpress Jazz Club",
+    "Brilliant Corners",
+    "Mu",
+    "Vortex",
+    "Dalston Jazz Bar",
+    "The Palm Tree",
+    "Toulouse Lautrec",
+    "The Flamingo Club",
+    "Cable Cafe"
+   ],
+   "quotes": {
+    "PizzaExpress Jazz Club": "'Pizza Express Live Soho' - seven nights a week",
+    "Dalston Jazz Bar": "4 Bradbury St; pay what you think, £20 minimum donation encouraged",
+    "Mu": "'mu', 433-434 Kingsland Road; two sets a night Wednesday to Sunday",
+    "Cable Cafe": "8 Brixton Road; jazz Wednesdays and Saturdays",
+    "The Flamingo Club": "49-51 Kingly St; monthly jazz jam"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Citywire Selector - Riffing on London's best jazz clubs (Richard Williams's picks)",
+   "url": "https://citywire.com/selector/news/riffing-on-london-s-best-jazz-clubs/a2430423",
+   "tier": "B",
+   "dated": "2023-11-16",
+   "names": [
+    "Ronnie Scott's",
+    "The Bull's Head",
+    "Jazz Cafe Camden",
+    "606 Club",
+    "PizzaExpress Jazz Club",
+    "Vortex",
+    "Cafe Oto"
+   ],
+   "quotes": {
+    "The Bull's Head": "Barnes; pub back-room jazz every night",
+    "Vortex": "Tuesday to Sunday; volunteer-run"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Sphere Magazine - The Best Jazz Clubs in London",
+   "url": "https://www.spherelife.com/bars-clubs/best-jazz-clubs-in-london",
+   "tier": "B",
+   "dated": "2026-03-09",
+   "names": [
+    "The Piano Bar Soho",
+    "The Parlour at The Ned",
+    "Ronnie Scott's",
+    "606 Club",
+    "The Flamingo Club",
+    "The Leopard Bar",
+    "Nightjar",
+    "Jack Solomons Club",
+    "Vortex",
+    "Quaglino's",
+    "Alfie's"
+   ],
+   "quotes": {
+    "The Piano Bar Soho": "'The Piano Bar' - members or ticket holders only, no walk-ins",
+    "606 Club": "About 120 seats; Sunday is singers' night",
+    "The Flamingo Club": "Under Kingly Court; Tuesday to Sunday 5pm-2am; B Sides jam last Tuesday of the month",
+    "The Leopard Bar": "'The Leopard Bar at The Montague' - jazz typically Thursday to Saturday",
+    "Jack Solomons Club": "'Jack Solomon's Jazz Club' - jazz Wednesday, Thursday and Saturday",
+    "Alfie's": "Wednesday to Saturday, 6pm to 1am; no walk-ins"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "The Sybarite - Best Jazz Clubs and Bars in London",
+   "url": "https://thesybarite.co/best-jazz-clubs-london",
+   "tier": "B",
+   "dated": "2025-09-12",
+   "names": [
+    "Ronnie Scott's",
+    "The Piano Bar Soho",
+    "Oriole",
+    "606 Club",
+    "Vortex",
+    "PizzaExpress Jazz Club",
+    "Nightjar",
+    "Toulouse Lautrec",
+    "Jazz Cafe Camden",
+    "Boisdale of Canary Wharf",
+    "Oliver's Jazz Bar"
+   ],
+   "quotes": {
+    "Ronnie Scott's": "Main shows from £35; Late Late Show Wednesday to Saturday £12",
+    "The Piano Bar Soho": "Unmarked door off Dean Street; under 80 guests; tickets from about £10",
+    "Oriole": "Covent Garden; live music Wednesday to Saturday; cover charge added to the bill",
+    "606 Club": "Music charge about £17-£22",
+    "Vortex": "'Vortex Jazz Club' - most shows £15-£22",
+    "Nightjar": "'The Nightjar' - £6-£10 cover; cocktails £14-£22",
+    "Oliver's Jazz Bar": "Behind Greenwich Theatre; three jam sessions a week; £10 cover"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Clink Hostels - The Best Jazz Bars in London",
+   "url": "https://www.clinkhostels.com/city-tips/best-jazz-bars-in-london/",
+   "tier": "C",
+   "dated": "2023-07-21",
+   "names": [
+    "Ronnie Scott's",
+    "The Crazy Coqs",
+    "Red Rooster",
+    "Jazz Cafe Camden",
+    "Nightjar",
+    "606 Club",
+    "Vortex",
+    "Oliver's Jazz Bar",
+    "The Blues Kitchen",
+    "The Spice of Life",
+    "PizzaExpress Jazz Club"
+   ],
+   "quotes": {
+    "Red Rooster": "Sunday gospel brunch",
+    "The Blues Kitchen": "Blues Kitchen Shoreditch; 'not really a jazz bar'",
+    "The Spice of Life": "Jazz in the downstairs Backstage Bar"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Jazzfuel - The Best Jazz Clubs in London (2026 edition)",
+   "url": "https://jazzfuel.com/london-jazz-clubs/",
+   "tier": "C",
+   "dated": "2026-07-15",
+   "names": [
+    "Ronnie Scott's",
+    "PizzaExpress Jazz Club",
+    "606 Club",
+    "Vortex",
+    "Dalston Jazz Bar",
+    "Servant Jazz Quarters",
+    "Hampstead Jazz Club",
+    "Kings Place",
+    "Jazz Cafe Camden",
+    "Oliver's Jazz Bar",
+    "Cafe Oto",
+    "Toulouse Lautrec"
+   ],
+   "quotes": {
+    "Ronnie Scott's": "Strict silence during sets; Late Late Show jam until 3am",
+    "PizzaExpress Jazz Club": "'Pizza Express Jazz Club' - basement, capacity 115",
+    "606 Club": "'606 Jazz Club' - often two bands a night, UK-based musicians",
+    "Hampstead Jazz Club": "23-25 New End; pub cellar; opened 2018",
+    "Oliver's Jazz Bar": "9 Nevada St; open since 2003; gigs often turn into jam sessions",
+    "Cafe Oto": "Capacity 150",
+    "Jazz Cafe Camden": "'Jazz Cafe London' - standing capacity over 400"
+   }
+  },
+  {
+   "name": "Reddit r/Jazz - Dinning with live jazz in London (Dec 2025)",
+   "url": "https://www.reddit.com/r/Jazz/comments/1pot0rg/dinning_with_live_jazz_in_london/",
+   "scope": "jazz-bars",
+   "names": [
+    "Oriole",
+    "Ronnie Scott's",
+    "Toulouse Lautrec",
+    "Brasserie Zédel",
+    "PizzaExpress Jazz Club",
+    "Boisdale",
+    "Ninety One Living Room",
+    "606 Club"
+   ],
+   "quotes": {
+    "Ronnie Scott's": "'more a club that serves meals than a restaurant ... still the de facto jazz club in London'; 'do not attempt to talk during the act'.",
+    "Toulouse Lautrec": "'three options - the main restaurant with no music, the piano room ... and then there's the Jazz Club'.",
+    "Boisdale": "'more of a jazz-themed show than a proper gig'.",
+    "606 Club": "'606 Club, Chelsea' - 8 upvotes."
+   }
+  },
+  {
+   "name": "Reddit r/Jazz - Jazz Restaurant Recommendations in London (Nov 2025)",
+   "url": "https://www.reddit.com/r/Jazz/comments/1owzu1q/jazz_restaurant_recommendations_in_london/",
+   "scope": "jazz-bars",
+   "names": [
+    "58th Street",
+    "Ronnie Scott's",
+    "606 Club",
+    "Joe Allen",
+    "Ninety One Living Room",
+    "Quaglino's",
+    "Ladbroke Hall",
+    "Jazz Cafe Camden",
+    "PizzaExpress Jazz Club"
+   ],
+   "quotes": {
+    "58th Street": "OP: 'I'm currently steering towards 58th Street Jazz'.",
+    "Quaglino's": "'less of a focus on the quality of the jazz and more on the atmosphere'.",
+    "Jazz Cafe Camden": "'Seats overlook the stage. Great food.'"
+   }
+  },
+  {
+   "name": "dinewithfari (TikTok) - Dalston Jazz Bar",
+   "url": "https://www.tiktok.com/@dinewithfari/video/7299243939461090593",
+   "scope": "jazz-bars",
+   "names": [
+    "Dalston Jazz Bar"
+   ],
+   "quotes": {
+    "Dalston Jazz Bar": "'a menu with no prices - you pay for what it's worth in donations'; seafood special."
+   }
+  },
+  {
+   "name": "RollinJoint (TikTok) - Dalston Jazz Bar",
+   "url": "https://www.tiktok.com/@rollinjoint/video/7432967689460649246",
+   "scope": "jazz-bars",
+   "names": [
+    "Dalston Jazz Bar"
+   ],
+   "quotes": {
+    "Dalston Jazz Bar": "'jazz players literally playing right next to you'; 4 Bradbury St, N16 8JN."
+   }
+  },
+  {
+   "name": "where's raya (TikTok) - Jazz bars in London",
+   "url": "https://www.tiktok.com/@wheresraya/video/7229001872445623578",
+   "scope": "jazz-bars",
+   "names": [
+    "The Blues Kitchen",
+    "28°-50° by Night",
+    "The Bloomsbury Club"
+   ],
+   "quotes": {
+    "The Blues Kitchen": "'the one in Camden can get a little busy'.",
+    "28°-50° by Night": "As '28-50 in Marylebone - relaxed, proper jazzy environment and delicious food'."
+   }
+  },
+  {
+   "name": "A Twist Of Date (TikTok) - Ronnie Scott's",
+   "url": "https://www.tiktok.com/@atwistofdate/video/7220469797463674118",
+   "scope": "jazz-bars",
+   "names": [
+    "Ronnie Scott's"
+   ],
+   "quotes": {}
+  },
+  {
+   "name": "Three Man Abroad (YouTube) - The Best Jazz Bars in London",
+   "url": "https://www.youtube.com/@ThreeManAbroad",
+   "scope": "jazz-bars",
+   "names": [
+    "Toulouse Lautrec",
+    "Nightjar",
+    "Jazz Cafe Camden",
+    "606 Club",
+    "Ronnie Scott's"
+   ],
+   "quotes": {
+    "Ronnie Scott's": "Video wnamf9ZI0E4 (Nov 2022); chapter order, not a ranking."
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Join Takes (TikTok) - jazz nights out in London",
+   "url": "https://www.tiktok.com/@jointakes/video/7356667484646182177",
+   "tier": "D",
+   "dated": null,
+   "names": [
+    "Ronnie Scott's",
+    "The Piano Bar Soho"
+   ],
+   "quotes": {
+    "The Piano Bar Soho": "'The Piano Bar - Soho' (caption)"
+   }
+  },
+  {
+   "scope": "jazz-bars",
+   "ranked": false,
+   "name": "Madeleine Lebon (TikTok) - Ronnie Scott's",
+   "url": "https://www.tiktok.com/@madeleinelebon/video/7456553333969505568",
+   "tier": "D",
+   "dated": null,
+   "names": [
+    "Ronnie Scott's"
+   ],
+   "quotes": {
+    "Ronnie Scott's": "'truly the best spot for jazz & a midnight cocktail in London' (caption)"
+   }
+  }
+ ],
+ "declined": [
+  {
+   "source": "SheerLuxe - London's Best Jazz Bars",
+   "url": "https://sheerluxe.com/culture/restaurants-bars/londons-best-jazz-bars",
+   "why": "May 2019; older than the 2023 cut-off."
+  },
+  {
+   "source": "Luxury London - The best jazz bars in London",
+   "url": "https://luxurylondon.co.uk/taste/food/best-jazz-bars-in-london",
+   "why": "2017, last updated September 2022; four venues."
+  },
+  {
+   "source": "The Spectator - London's best jazz bars",
+   "url": "https://spectator.co.uk/?p=398718",
+   "why": "November 2022; older than the cut-off."
+  },
+  {
+   "source": "Culture Whisper - Jazz Night",
+   "url": "https://culturewhisper.com/r/article/london_jazz_clubs_best_and_classic/7651",
+   "why": "Undated, and still lists Kansas Smitty's on Broadway Market."
+  },
+  {
+   "source": "SquareMeal - Best jazz bars London",
+   "url": "https://squaremeal.co.uk/restaurants/best-for/best-jazz-bars-london_9577",
+   "why": "Undated, and still lists Kansas Smitty's."
+  },
+  {
+   "source": "That's Up - The best jazz clubs in London",
+   "url": "https://thatsup.co.uk/london/guide/the-best-jazz-clubs-in-london",
+   "why": "thatsup.co.uk is on the excluded list."
+  },
+  {
+   "source": "Sotheby's Realty journal - Bebop at the best jazz bars",
+   "url": "https://blog.sothebysrealty.co.uk/the-journal/best-jazz-bars-in-london",
+   "why": "blog.sothebysrealty.co.uk is on the excluded list (estate-agency content marketing)."
+  },
+  {
+   "source": "Country and Town House - Best jazz bars",
+   "url": "https://www.countryandtownhouse.com/culture/10-best-london-jazz-bars/",
+   "why": "Could not be read this pass."
+  }
+ ]
+}

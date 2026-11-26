@@ -299,7 +299,7 @@ The room takes about 200, the ceiling is low, and the bookings run from guitar b
 
 ## Jazz
 
-Most of these serve food at the table during the set; [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares the menus and what the music adds to the bill.
+Most of these serve food at the table during the set; [Dinner and a Show in London](/articles/dinner-and-a-show-london/) compares the menus and what the music adds to the bill. [The best jazz bars in London](/articles/best-jazz-bars-london/) ranks the jazz rooms, from the Vortex to the pubs with free Sunday sessions.
 
 ### Blue Note, Covent Garden
 
